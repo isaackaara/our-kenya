@@ -1,0 +1,46 @@
+The Asian community in Kenya, numbering about 180,000 at independence, faced systematic economic pressure and social marginalization during the Kenyatta era, culminating in an exodus that saw roughly 60,000 Asians leaving Kenya between 1967 and 1975. The community, predominantly of Indian and Pakistani origin and including Hindus, Muslims, Sikhs, and Goans, had been integral to Kenya's colonial economy as traders, artisans, clerks, and professionals. But independence nationalism framed Asians as exploitative middlemen who had collaborated with colonialism, and [[Africanization of the Economy|Africanization policies]] deliberately targeted them for displacement, replacing Asian economic dominance with African (particularly [[Kikuyu/Kikuyu Business Elite|Kikuyu]]) ownership while claiming to redress colonial injustices.
+
+The Asian community's origins in Kenya dated to the late 19th century when the British brought Indian laborers to build the Uganda Railway. Many stayed after construction ended, establishing themselves as traders, shopkeepers, and artisans. By independence, Asians controlled retail trade in urban and rural areas, dominated small-scale manufacturing (textiles, food processing, metal works), and held significant positions in professional services (accounting, law, medicine). They were economically successful but politically marginalized during the colonial period, excluded from settler politics and African nationalist movements alike.
+
+At independence, citizenship became the first crisis. British colonial law had made many Asians British subjects, and the independence constitution offered pathways to Kenyan citizenship. But the process required active application, fees, and bureaucratic navigation that many Asians, particularly older traders in rural areas, found difficult. Thousands delayed or failed to acquire citizenship, leaving them vulnerable as non-citizens in an increasingly nationalist political environment.
+
+The Trade Licensing Act of 1967 was the decisive blow. The act restricted trading licenses in designated areas to Kenyan citizens, effectively barring non-citizen Asians from continuing businesses they had operated for decades. Even citizen Asians faced restrictions, with requirements to take on African partners, to operate only in specified commercial areas, and to demonstrate that their businesses employed and trained African staff. The act was justified as necessary to give Africans control over the economy, but its implementation was driven by political opportunism and ethnic favoritism.
+
+The impact was immediate and devastating. Asian-owned dukas (shops) in rural trading centers were shut down or forced into fire sales. Urban retail businesses faced similar pressures. Asian traders, many of whom had built businesses over generations, were given months to dispose of assets at whatever price African buyers would offer. Political connections determined who could maintain licenses, creating opportunities for corruption and extortion.
+
+The exodus began in earnest in 1968 and accelerated through the early 1970s. Britain, the former colonial power, initially accepted Kenyan Asians with British passports but then imposed restrictions (the Commonwealth Immigrants Act 1968) limiting entry, leaving thousands in limbo. Those who could afford it emigrated to Canada, which had more liberal immigration policies, or to India for those retaining connections there. The wealthiest relocated to Britain despite the restrictions, while middle-class families scattered across the Commonwealth.
+
+Those Asians who remained in Kenya adapted through various strategies. Some took on African business partners, often KANU-connected individuals who contributed political protection in exchange for profit shares. Others shifted from retail trade to manufacturing or professional services where Asian dominance was tolerated longer. A significant number converted assets into real estate, purchasing urban properties that appreciated as Nairobi grew, providing rental income that did not require trade licenses.
+
+The professional class (doctors, lawyers, accountants, engineers) faced less direct pressure but still navigated a hostile environment. [[Kenyanization Policy|Kenyanization of the civil service]] displaced Asian professionals from government positions, forcing them into private practice. Professional associations, while not formally racially restricted, became sites where African members, often supported by government, challenged Asian dominance and demanded quotas or preferential treatment for Africans.
+
+Education became a flashpoint. Asian-run schools, which had provided quality education for Asian children and increasingly for African elites who could afford fees, faced government pressure to admit more African students and to align curricula with national priorities. Some Asian families sent children abroad for education, to Britain or India, accelerating the community's disengagement from Kenya's future.
+
+Social relations between Asians and Africans were complex and fraught. Stereotypes portrayed Asians as racially prejudiced, unwilling to integrate, and economically exploitative. Some of these stereotypes had foundations in reality; Asian social clubs often excluded Africans, intermarriage was rare, and some Asian employers treated African workers poorly. But these generalizations ignored significant variation within the Asian community and justified collective punishment for individual behaviors.
+
+[[Kenyatta and Oginga Odinga|Oginga Odinga]] and the [[Kenya People's Union Formation|KPU]] had advocated for even harsher measures against Asians, seeing them as compradors who had enriched themselves through exploiting African labor. But even after the KPU's banning, anti-Asian sentiment remained politically popular, a safe target for politicians deflecting anger about economic inequality away from African elites who were themselves accumulating wealth through [[Political Patronage Kenyatta Era|patronage]].
+
+[[GEMA - Gikuyu Embu Meru Association|GEMA]] and other African business organizations explicitly targeted Asian economic dominance, lobbying for trade restrictions and advocating for credit programs that excluded Asians. The [[James Gichuru|Ministry of Finance]] under James Gichuru provided loans through the Industrial and Commercial Development Corporation (ICDC) to African entrepreneurs specifically to compete with and replace Asian businesses.
+
+Despite the pressures, a core Asian community persisted. By the late 1970s, perhaps 120,000 Asians remained in Kenya, concentrated in Nairobi and Mombasa, with smaller communities in Kisumu and other towns. They had divested from small retail trade and shifted into manufacturing, real estate, professional services, and larger commercial ventures where political connections could be cultivated and where African partners provided protection.
+
+The Asian contribution to Kenya's economy, even diminished by the exodus, remained significant. Manufacturing firms owned or co-owned by Asians produced textiles, processed foods, and construction materials. Asian professionals managed accounts, designed buildings, and treated patients in private clinics. Asian landlords owned much of Nairobi's rental housing stock. The skills and capital that departed with the exodus were never fully replaced, contributing to economic stagnation in retail sectors and small manufacturing.
+
+The experience of Kenyan Asians during the Kenyatta era illustrated the limits of multiracial nationalism. Independence rhetoric had promised a Kenya for all who lived in it, regardless of race. But the reality was a zero-sum competition for economic resources where Asians were scapegoated for inequality that was structural and inherited, and where African elites used anti-Asian policies to enrich themselves while claiming to advance ordinary Africans.
+
+The legacy persisted into subsequent generations. Asians who remained integrated more fully into Kenyan society, with later generations identifying primarily as Kenyan and participating in politics and civic life. But the trauma of displacement and the experience of being designated as outsiders in a country they had helped build left lasting scars. And the economic displacement, which transferred businesses from experienced Asian traders to politically connected but often inexperienced African buyers, contributed to inefficiencies and failures that hurt consumers and the economy as a whole.
+
+## See Also
+- [[Africanization of the Economy]]
+- [[Kenyanization Policy]]
+- [[Political Patronage Kenyatta Era]]
+- [[GEMA - Gikuyu Embu Meru Association]]
+- [[James Gichuru]]
+- [[Kenyatta and UK Relations Post-Independence]]
+- [[Nairobi Development 1963-1978]]
+- [[Kikuyu/Kikuyu Business Elite]]
+
+## Sources
+1. Gregory, Robert G. *South Asians in East Africa: An Economic and Social History, 1890-1980*. Westview Press, 1993. https://www.worldcat.org/title/south-asians-in-east-africa/oclc/27265286
+2. Salvadori, Cynthia. *We Came in Dhows*. Paperchase Kenya, 1996. https://www.worldcat.org/title/we-came-in-dhows/oclc/36863815
+3. Maxon, Robert M., and Thomas P. Ofcansky. *Historical Dictionary of Kenya*. Scarecrow Press, 2014. https://rowman.com/ISBN/9780810874572/Historical-Dictionary-of-Kenya-Third-Edition

@@ -1,0 +1,43 @@
+The East African Community (EAC), established in 1967 by Kenya, Tanzania, and Uganda, represented the most ambitious attempt at regional integration in post-independence Africa. Building on colonial-era administrative and economic linkages, the EAC created a common market, a shared currency (the East African shilling), and joint management of key infrastructure including railways, harbors, and the national airline. For a decade, it functioned as a model of African cooperation, generating economic benefits and fostering regional identity. But ideological differences, economic competition, and political tensions between Jomo Kenyatta's capitalist Kenya and [[Kenyatta and Tanzania Relations|Julius Nyerere's socialist Tanzania]] ultimately destroyed it, with the EAC collapsing in 1977 in mutual recriminations and financial disputes.
+
+The foundation was the East African Common Services Organization (EACSO), inherited from British colonial administration, which had managed railways, ports, posts and telecommunications, and other services jointly for Kenya, Uganda, and Tanganyika (later Tanzania). Independence threatened this arrangement. Each new nation wanted control over its own infrastructure and revenue, but the economic logic of integration was compelling. Railways and harbors worked as systems spanning borders. The national airline, East African Airways, served all three countries. Breaking up these services would be costly and inefficient.
+
+The Treaty for East African Co-operation, signed in Kampala in June 1967, formalized the EAC. It created common institutions including the East African Legislative Assembly, the East African Court of Justice, and the East African Common Market. Customs barriers between member states were eliminated. The East African Development Bank was established to finance regional projects and to channel development assistance. The EAC headquarters was located in Arusha, Tanzania, symbolically balanced between Nairobi and Kampala.
+
+The economic benefits were immediate. Trade between member states increased. Kenyan manufactured goods, particularly from [[Nairobi Development 1963-1978|Nairobi's growing industrial sector]], found markets in Uganda and Tanzania. Uganda exported cotton and sugar. Tanzania exported sisal and cashew nuts. The common external tariff protected regional industries from cheap imports while allowing free movement of goods within the community.
+
+But imbalances were evident from the start. Kenya, with its more developed economy and entrepreneurial business class (including [[GEMA - Gikuyu Embu Meru Association|GEMA]] and [[Kikuyu/Kikuyu Business Elite|Kikuyu entrepreneurs]]), dominated intra-regional trade. Kenyan factories produced consumer goods that flooded Ugandan and Tanzanian markets, while those countries exported raw materials. This neo-colonial pattern, where one partner industrialized while others remained primary producers, created resentment.
+
+[[James Gichuru|James Gichuru]], Kenya's Finance Minister, defended Kenya's dominance as the natural result of better economic policies and entrepreneurial culture. Tanzania and Uganda should industrialize themselves rather than demanding that Kenya slow down, he argued. But Nyerere and Milton Obote (Uganda's president until Idi Amin's coup in 1971) saw the imbalance as structural, built into the EAC's design, and demanded corrective mechanisms.
+
+The ideological gap between Kenyatta and Nyerere widened during the early 1970s. Tanzania pursued ujamaa (African socialism), nationalizing industries and forcibly relocating rural populations into collective villages. Nyerere criticized Kenya's capitalism and inequality, arguing that Kenyatta had betrayed independence ideals. Kenyatta, in turn, dismissed ujamaa as impractical and economically disastrous, pointing to Tanzania's declining GDP and food shortages as evidence.
+
+These ideological differences spilled into EAC management. Appointments to the East African Airways board became political battles, with each country demanding control. Revenue-sharing formulas for jointly managed services broke down into acrimonious negotiations. Tanzania accused Kenya of manipulating common market rules to favor Kenyan businesses. Kenya accused Tanzania of imposing non-tariff barriers that violated free trade commitments.
+
+The collapse accelerated after Idi Amin seized power in Uganda in 1971. Amin's erratic governance and increasing authoritarianism destabilized Uganda and created chaos in EAC management. His expulsion of Uganda's Asian community in 1972, which paralleled but exceeded Kenya's own [[Asian Community Under Kenyatta|pressure on Asians]], disrupted businesses that had facilitated regional trade. Amin's relationship with both Kenyatta and Nyerere deteriorated, adding personal animosity to structural tensions.
+
+The specific trigger for the EAC's collapse was relatively minor but symbolically devastating. In February 1977, Kenya and Tanzania failed to agree on revenue distribution for East African Airways and the East African Harbours Corporation. Tanzania closed its border with Kenya, stranding vehicles and goods. The border closure was supposed to be temporary, a negotiating tactic, but it became permanent. East African Airways stopped flying. The railway network fragmented. The common currency was abandoned.
+
+Formal dissolution came on June 30, 1977, when the Treaty for East African Co-operation expired without renewal. The dissolution was messy and bitter. Assets were divided acrimoniously, with disputes over who owned what aircraft, railway cars, and harbor equipment. Financial claims and counter-claims lasted years. The East African Development Bank's loan portfolio, which had financed regional projects, was divided among creditors from the three countries.
+
+The EAC's collapse had significant economic costs. Trade between Kenya and Tanzania dropped dramatically and remained depressed for decades. The efficiency gains from integrated infrastructure were lost. Airlines, railways, and harbors that had operated as regional networks became national monopolies, less efficient and more expensive. The psychological blow was also severe: if East Africa, with its shared colonial history, common language (Swahili), and complementary economies, could not sustain regional integration, what hope was there for Pan-African unity?
+
+For Kenya, the collapse confirmed the logic of going it alone. [[Kenyatta and Daniel arap Moi as VP|Kenyatta and later Moi]] focused on national development, with regional cooperation a secondary priority at best. Kenya's economy continued to grow in the late 1970s and early 1980s, seemingly validating Kenyatta's pragmatic nationalism over Nyerere's regional socialist vision.
+
+The EAC was eventually revived in 2000, with Kenya, Tanzania, and Uganda agreeing to a new treaty that re-established the community. Burundi and Rwanda joined later, and South Sudan became a member in 2016. But the second EAC learned from the first's failures: integration proceeded more slowly, with clearer dispute resolution mechanisms, and without the ideological baggage that had poisoned the original community.
+
+The 1967-1977 EAC remains a cautionary tale about regional integration in Africa. Good intentions, shared history, and economic logic are not enough if political will is absent, if benefits are distributed unequally, and if ideological differences prevent compromise. Kenyatta's role in the EAC's rise and fall reflects his broader legacy: pragmatic in economic policy, unwilling to subordinate national interests to regional ideals, and ultimately more committed to Kenya's sovereignty than to Pan-African cooperation.
+
+## See Also
+- [[Kenyatta and Tanzania Relations]]
+- [[Kenyatta and Pan-Africanism]]
+- [[James Gichuru]]
+- [[Asian Community Under Kenyatta]]
+- [[GEMA - Gikuyu Embu Meru Association]]
+- [[Nairobi Development 1963-1978]]
+- [[Cold War Non-Alignment Kenya]]
+
+## Sources
+1. Hazlewood, Arthur. *Economic Integration: The East African Experience*. Heinemann, 1975. https://www.worldcat.org/title/economic-integration/oclc/1871898
+2. Nye, Joseph S. *Pan-Africanism and East African Integration*. Harvard University Press, 1965. https://www.hup.harvard.edu/catalog.php?isbn=9780674653252
+3. Hornsby, Charles. *Kenya: A History Since Independence*. I.B. Tauris, 2012. https://www.ibtauris.com/books/kenya-a-history-since-independence

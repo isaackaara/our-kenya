@@ -1,0 +1,38 @@
+Coffee was Kenya's economic lifeline during the Kenyatta era, the crop that generated foreign exchange, funded government operations, and enriched a new class of African farmers and politicians. The coffee boom of the late 1960s and early 1970s, when international prices soared and Kenya's high-quality Arabica beans commanded premium markets, created wealth on a scale unprecedented in independent Kenya. But the benefits of this boom were distributed unevenly, flowing disproportionately to large estate owners and to smallholders in Central Province who had political connections and access to cooperative governance, while marginalizing communities outside the coffee belt.
+
+Coffee had been introduced to Kenya by missionaries in the 19th century and expanded into a major export crop under colonial rule. But colonial regulations prohibited African farmers from growing coffee until 1954, reserving the lucrative crop for European settlers. The lifting of this prohibition, driven by the colonial government's attempt to create a loyalist African middle class during the Mau Mau emergency, allowed Kikuyu and other Central Province farmers to begin commercial coffee cultivation. By independence in 1963, African smallholder coffee production was growing rapidly.
+
+[[James Gichuru]], as Minister for Finance, understood coffee's critical role in the independence economy. Coffee exports generated about 30 percent of Kenya's foreign exchange earnings in the mid-1960s, funding imports of machinery, fuel, and consumer goods. The government invested in agricultural extension services, providing training to farmers on pruning, pest control, and processing. The Coffee Board of Kenya, a parastatal organization, regulated production, set quality standards, and managed marketing through the Nairobi Coffee Auction, where international buyers competed for Kenyan beans.
+
+The cooperative system was central to smallholder coffee production. Farmers organized into cooperative societies that pooled their harvests, processed cherries into parchment coffee, and marketed the product through the Coffee Board. The cooperatives also provided credit for inputs, purchased equipment collectively, and distributed proceeds from sales to members. In theory, this system empowered smallholders and ensured they received fair prices. In practice, cooperative governance became a site of political competition and corruption.
+
+[[GEMA - Gikuyu Embu Meru Association|GEMA]] members and other politically connected individuals dominated cooperative leadership in Central Province. They controlled decisions about which farmers received credit, how proceeds were distributed, and which mills processed coffee. This allowed them to divert resources to themselves and to their political allies. Cooperative elections became extensions of [[KANU One-Party Dominance|KANU politics]], with [[Provincial Administration Kenyatta Era|provincial administrators]] and MPs ensuring that loyalists controlled the boards.
+
+The coffee boom of 1969-1977, when global prices tripled due to frost damage in Brazil and growing demand, enriched Central Province dramatically. Farmers in Kiambu, Nyeri, Murang'a, and Kirinyaga, who had planted coffee in the late 1950s and early 1960s, suddenly found their crops worth fortunes. A good year could earn a smallholder farmer more than a civil servant's annual salary. The wealth was visible: new iron-roofed houses, school fees paid, land purchases in the [[Land Policy Post-Independence|expanding settlement schemes]].
+
+But the boom also entrenched inequality. Large estate owners, including members of the [[Kenyatta Family Land Acquisitions|Kenyatta family]], who had purchased former settler coffee estates in the former White Highlands, captured the largest share of profits. They had economies of scale, better access to credit, and direct relationships with international buyers that allowed them to bypass cooperative inefficiencies. Smallholders in politically marginalized areas, or those lacking connections to cooperative leadership, received delayed payments, lower prices, or found their coffee downgraded in quality assessments.
+
+[[Kenyatta and Oginga Odinga|Oginga Odinga]] and the [[Kenya People's Union Formation|Kenya People's Union]] criticized the coffee economy as emblematic of independence's betrayal. They pointed out that coffee wealth was concentrating in the hands of a Kikuyu elite while tea-growing areas in Nyanza or maize-growing regions in the Rift Valley saw little benefit. Coffee policy, they argued, was designed to enrich those who already had land and political power, not to lift the poorest Kenyans.
+
+The government's response was to expand coffee cultivation, arguing that any farmer could benefit if they worked hard and adopted modern techniques. But access to coffee production was constrained by agro-ecological zones (coffee required specific altitude and rainfall), land ownership (landless farmers could not plant coffee), and access to credit (banks required collateral that the poorest lacked). The rhetoric of equal opportunity masked structural barriers that ensured coffee wealth remained concentrated.
+
+Coffee also shaped Kenya's foreign policy. The government maintained close relations with Western countries, particularly the United States and European nations, which were the primary consumers of Kenyan coffee. [[Cold War Non-Alignment Kenya|Kenyatta's pro-Western orientation]] was reinforced by the need to maintain access to these markets. When global coffee prices crashed in the late 1970s due to oversupply, Kenya joined the International Coffee Agreement, a cartel of producing countries that attempted to stabilize prices through export quotas.
+
+The coffee economy's decline began in the late 1970s as international prices fell and as mismanagement and corruption within the cooperative system eroded farmer confidence. By the [[Kenyatta and Daniel arap Moi as VP|Moi era]], coffee cooperatives were notorious for delayed payments and debt, and many farmers abandoned coffee for other crops or diversified into dairy and horticulture. But during Kenyatta's presidency, coffee was king, and it shaped wealth distribution, political power, and regional inequality in ways that persist today.
+
+The coffee boom enriched one segment of the Kenyan population extraordinarily while leaving others behind. It demonstrated how agricultural policy could be designed to benefit those with political connections and how export-oriented development could coexist with growing inequality. Coffee built schools and bought land for some Kenyans, but it also entrenched the [[Political Patronage Kenyatta Era|patronage system]] and the ethnic favoritism that characterized the Kenyatta era.
+
+## See Also
+- [[Land Policy Post-Independence]]
+- [[GEMA - Gikuyu Embu Meru Association]]
+- [[Kenyatta Family Land Acquisitions]]
+- [[James Gichuru]]
+- [[Political Patronage Kenyatta Era]]
+- [[Provincial Administration Kenyatta Era]]
+- [[Kenyanization Policy]]
+- [[Kikuyu/Kikuyu Business Elite]]
+
+## Sources
+1. Bates, Robert H. *Beyond the Miracle of the Market: The Political Economy of Agrarian Development in Kenya*. Cambridge University Press, 2005. https://www.cambridge.org/core/books/beyond-the-miracle-of-the-market/
+2. Widner, Jennifer A. *The Rise of a Party-State in Kenya: From "Harambee!" to "Nyayo!"*. University of California Press, 1992. https://www.ucpress.edu/book/9780520073937/the-rise-of-a-party-state-in-kenya
+3. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141184/kenya

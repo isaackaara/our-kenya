@@ -1,0 +1,40 @@
+Nairobi transformed from a colonial administrative town into a modern African capital during the Kenyatta era, experiencing rapid urban growth, infrastructure expansion, and spatial reorganization that reflected both development ambitions and deepening inequality. The city's population grew from about 350,000 at independence in 1963 to over 800,000 by 1978, driven by rural-urban migration, natural increase, and Nairobi's centrality to Kenya's political and economic life. The physical landscape changed dramatically: skyscrapers replaced low-rise colonial buildings, new suburbs sprawled outward, and informal settlements expanded faster than formal housing could accommodate the influx.
+
+The Kenyatta government's vision for Nairobi was a showcase of African modernity and competence. The colonial city's racial segregation, with European areas in leafy suburbs like Karen and Muthaiga, Asian commercial districts in Parklands and Ngara, and African locations in Eastlands, was officially abolished. In practice, new class-based segregation replaced racial divisions, with wealthy Africans (predominantly [[Kikuyu/Kikuyu Political Elite|Kikuyu]] and politically connected individuals) moving into formerly European neighborhoods while the poor concentrated in mushrooming slums.
+
+The central business district saw the most visible transformation. The Kenyatta International Conference Centre (KICC), begun in 1967 and completed in 1973, became the iconic symbol of independent Kenya's ambitions. Its distinctive cylindrical tower and amphitheater design, inspired by traditional African architecture, dominated Nairobi's skyline. The complex hosted the Organisation of African Unity summit in 1973, demonstrating Kenya's capacity to organize major international events and Kenyatta's prominence in [[Kenyatta and Pan-Africanism|African diplomacy]].
+
+Commercial development boomed. Office towers housing banks, insurance companies, and international organizations transformed the CBD. The [[Kenyanization Policy|Kenyanization]] of business meant that African entrepreneurs, many backed by government-connected investors or by [[GEMA - Gikuyu Embu Meru Association|GEMA]] capital, acquired properties and businesses previously owned by Europeans and Asians. Real estate became a vehicle for political elites to convert power into wealth, with prime CBD properties changing hands at below-market prices through politically influenced transactions.
+
+Infrastructure expansion struggled to keep pace with population growth. Roads improved in wealthy areas and the CBD, funded partly by [[Harambee Development Model|harambee]] contributions and partly by government capital budgets. Water and sewerage systems expanded but remained inadequate, particularly in Eastlands and informal settlements. Electricity coverage increased, with the Nairobi City Council prioritizing industrial areas and affluent residential zones while informal settlements remained dark.
+
+Housing was the city's greatest challenge. Formal housing construction, both government-funded estates like Buru Buru and Donholm and private developments, could not meet demand from rural migrants seeking opportunities in the capital. Informal settlements, particularly Kibera, Mathare, and Korogocho, expanded massively. By the mid-1970s, over 40 percent of Nairobi's population lived in slums, in structures made of scrap metal and wood, without running water, sewerage, or legal tenure.
+
+The government's response to informal settlements was inconsistent. Periodic demolitions, justified as slum clearance or enforcement of planning regulations, destroyed thousands of homes, displacing residents without providing alternatives. But political calculations often stayed the bulldozers. Informal settlements housed voters, and politicians like [[J.M. Kariuki]] built followings by defending slum dwellers against eviction and providing basic services through harambee. The settlements also housed cheap labor that Nairobi's formal economy depended on, creating a perverse incentive to tolerate them.
+
+Eastlands, the historically African area of Nairobi, grew dramatically. Estates like Kariobangi, Umoja, and Dandora were developed, providing relatively affordable housing for the emerging African middle class: civil servants, teachers, clerks. These areas had better infrastructure than slums but remained distinctly less serviced than Westlands or Kilimani, where the wealthy (including members of the [[Kenyatta Family Land Acquisitions|Kenyatta family]] and other political elites) built mansions.
+
+Industrial development concentrated in areas like Industrial Area and Dandora, where manufacturing plants producing consumer goods, construction materials, and processed foods employed thousands. [[James Gichuru|James Gichuru's]] economic policies encouraged import substitution industrialization, and Nairobi became Kenya's manufacturing hub. But industrial jobs remained insufficient for the growing labor force, and unemployment and underemployment became chronic urban problems.
+
+Transport infrastructure evolved chaotically. Matatus, the privately owned minibuses that became synonymous with Nairobi transport, proliferated in the 1970s, filling gaps in the inadequate public bus system. They were unregulated, dangerous, and essential. The government attempted periodic crackdowns on matatu chaos, but political protection from well-connected matatu owners and the reality that thousands of Nairobians depended on them for mobility meant enforcement was sporadic.
+
+[[Tourism Policy Kenyatta Era|Tourism infrastructure]] expanded significantly. Hotels like the Intercontinental (now Nairobi Serena), Hilton, and Safari Park Hotel catered to international visitors and to Nairobi's growing affluent class. The airport, Embakasi (later renamed Jomo Kenyatta International Airport), was expanded to handle increasing traffic from international airlines. Nairobi marketed itself as the gateway to East Africa, and hotel development reflected that ambition.
+
+The [[Asian Community Under Kenyatta|Asian exodus of the late 1960s]], triggered by [[Africanization of the Economy|Africanization policies]], changed Nairobi's commercial landscape. Asian-owned shops and factories were sold or transferred to African buyers, often under political pressure. Some new owners thrived, but many lacked the commercial networks and experience of their predecessors, and businesses failed. The River Road and Ngara areas, historically Asian commercial zones, gradually Africanized but never fully recovered their previous commercial dynamism.
+
+By 1978, when Kenyatta died, Nairobi was unrecognizable from the colonial town of 1963. It was larger, more African, more modern in appearance. But it was also more unequal, more congested, and more divided between those who had captured independence's benefits and those left behind. The city embodied Kenyatta's Kenya: rapid growth and visible development coexisting with deepening inequality, infrastructure serving elites while the masses improvised, and the promise of urban opportunity shadowed by the reality of slums and joblessness.
+
+## See Also
+- [[Kenyatta Family Land Acquisitions]]
+- [[GEMA - Gikuyu Embu Meru Association]]
+- [[Kenyanization Policy]]
+- [[Asian Community Under Kenyatta]]
+- [[J.M. Kariuki]]
+- [[Harambee Development Model]]
+- [[Tourism Policy Kenyatta Era]]
+- [[Kikuyu/Kikuyu Business Elite]]
+
+## Sources
+1. Obudho, Robert A., and Peter P. Waller. *Periodic Markets, Urbanization, and Regional Planning: A Case Study from Western Kenya*. Greenwood Press, 1976. https://www.worldcat.org/title/periodic-markets-urbanization-and-regional-planning/oclc/2296253
+2. Hake, Andrew. *African Metropolis: Nairobi's Self-Help City*. Sussex University Press, 1977. https://www.worldcat.org/title/african-metropolis/oclc/3204685
+3. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141184/kenya

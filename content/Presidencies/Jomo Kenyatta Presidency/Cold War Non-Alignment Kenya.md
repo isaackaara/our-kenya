@@ -1,0 +1,46 @@
+Kenya's Cold War posture under Jomo Kenyatta was officially non-aligned but practically Western-oriented, navigating superpower competition with pragmatic opportunism that maximized foreign aid and investment while avoiding ideological entanglements. Kenyatta maintained the rhetoric of non-alignment, joining the Non-Aligned Movement and avoiding formal military alliances, but Kenya's economic policies, diplomatic relationships, and security cooperation tilted decisively toward the United States and Britain. This positioning earned Kenya substantial Western support but also made it a target for socialist criticism and limited its solidarity with more radical African states.
+
+The Non-Aligned Movement, founded at the Bandung Conference in 1955 and formalized at Belgrade in 1961, offered newly independent states a third path between American capitalism and Soviet communism. Leaders like Jawaharlal Nehru (India), Gamal Abdel Nasser (Egypt), and Josip Broz Tito (Yugoslavia) championed non-alignment as a way to preserve sovereignty, avoid proxy wars, and focus on development. Kenya joined the movement at independence in 1963, attending summits and signing declarations affirming non-alignment principles.
+
+But Kenyatta's non-alignment was always selective. His economic policies, managed by [[James Gichuru]] as Finance Minister, were unambiguously capitalist: private property protection, encouragement of foreign investment, market-based land allocation through the [[Land Policy Post-Independence|willing buyer, willing seller model]], and openness to Western trade and aid. These policies made Kenya attractive to American and European investors but alienated the Soviet Union and China, which saw Kenya as a neocolonial puppet.
+
+[[Kenyatta and Oginga Odinga|Oginga Odinga]] and the [[Kenya People's Union Formation|Kenya People's Union]] advocated for genuine non-alignment, meaning balanced relationships with both blocs and willingness to accept aid and investment from socialist countries. Odinga cultivated ties with the Soviet Union and China, accepting scholarships for Kenyan students and technical assistance for development projects. But Kenyatta saw this as a threat, associating Eastern Bloc ties with domestic radicalism and potential subversion.
+
+The rupture with Odinga in 1966 and the [[Banning of KPU 1969|banning of KPU in 1969]] effectively aligned Kenya with the West. Eastern Bloc diplomats and aid workers were expelled or marginalized. Chinese and Soviet offers of assistance were rejected or accepted only when they came with no political strings. American and British aid, by contrast, flowed generously, supporting infrastructure projects, agricultural development, and military training.
+
+The United States valued Kenya as a stable, pro-Western state in a strategically important region. Kenya controlled access to East African ports, bordered unstable Uganda and [[Kenyatta and Tanzania Relations|socialist Tanzania]], and was close to the oil-rich Middle East and the Indian Ocean shipping lanes. American aid to Kenya increased through the 1960s and 1970s, funding roads, schools, and agricultural programs. The Peace Corps sent hundreds of volunteers to teach in Kenyan schools, building cultural ties and promoting American values.
+
+[[Kenyatta and UK Relations Post-Independence|Britain]] maintained even closer ties. British military advisors trained the [[Kenyan Army Formation|Kenya Defence Forces]]. British companies dominated tea and coffee exports, [[Tourism Policy Kenyatta Era|tourism infrastructure]], and manufacturing. British expatriates remained in senior civil service positions through the 1960s, managing the transition to [[Kenyanization Policy|Kenyanization]]. The relationship was neocolonial in all but name, with Kenya dependent on British markets, investment, and expertise.
+
+Kenya also hosted Western military facilities. While Kenyatta avoided formal base agreements that might compromise non-aligned status, he allowed British and American naval vessels to use Mombasa port for refueling and repairs. British military training exercises occurred in Kenyan territory. The implicit arrangement was clear: Kenya provided access and cooperation, and the West provided aid, investment, and support against threats like the [[Kenya-Somalia Shifta War|Shifta insurgency]].
+
+The [[Kenya-Somalia Shifta War]] illustrated Kenya's Western alignment. Somalia, backed by the Soviet Union, claimed Kenya's North Eastern Province. Kenya received British and American military assistance to suppress the insurgency, including weapons, intelligence, and training. The OAU's mediation, which led to the 1967 Arusha Memorandum ending hostilities, was shaped by Western diplomatic pressure supporting Kenya's territorial integrity.
+
+Kenyatta's rhetoric, particularly at OAU summits and UN General Assembly sessions, maintained non-alignment language. He criticized colonialism, supported liberation movements in Southern Africa, and called for African unity. But his actions prioritized Kenya's economic development and security, which meant Western alignment. When conflicts arose between non-aligned principles and Western relationships, Kenyatta chose the latter.
+
+This pragmatism extended to Cold War proxy conflicts in Africa. When Angola descended into civil war in the 1970s, with Cuban and Soviet-backed MPLA fighting American and South African-backed UNITA and FNLA, Kenya remained neutral, refusing to take sides publicly. But privately, Kenyan officials sympathized with Western positions, viewing Soviet and Cuban involvement in Africa as neocolonial meddling disguised as socialist solidarity.
+
+Kenya's economic success during the Kenyatta era, relative to more radical African states, seemed to validate the Western-aligned approach. While Tanzania pursued ujamaa socialism and saw stagnant growth, and while Ghana's Nkrumahist experiment collapsed, Kenya's economy grew steadily. The [[Coffee Economy Kenyatta Era|coffee boom]], tourism growth, and manufacturing expansion created prosperity for the connected elite and modest improvements for ordinary Kenyans. Western economists cited Kenya as proof that capitalism and openness to foreign investment delivered better outcomes than socialism.
+
+But critics, including [[Kenyatta and Tanzania Relations|Julius Nyerere]] and other African socialists, argued that Kenya's growth came at the cost of inequality, dependency, and loss of sovereignty. Kenya's economy remained export-oriented, vulnerable to commodity price fluctuations. Foreign companies and expatriate managers dominated key sectors. And the [[Kenyatta Family Land Acquisitions|concentration of wealth]] among Kenyatta's inner circle demonstrated that capitalist development enriched elites while leaving the masses poor.
+
+Kenyatta's Cold War positioning also shaped Kenya's international reputation. Western media portrayed Kenya as a model African state: stable, democratic (at least nominally, despite being a one-party state), and economically progressive. This reputation attracted [[Tourism Policy Kenyatta Era|tourists]], investors, and diplomatic goodwill. But among African liberation movements and socialist states, Kenya was seen as a sellout, a neocolonial client that had abandoned Pan-African solidarity for Western approval and aid.
+
+By 1978, when Kenyatta died, Kenya's Western alignment was entrenched. [[Kenyatta and Daniel arap Moi as VP|Daniel arap Moi]], his successor, would continue and deepen this orientation, maintaining close ties with Britain and the United States while marginalizing Eastern Bloc relationships. The Cold War's end in 1989-1991 would vindicate Kenyatta's pragmatic alignment, as socialist states collapsed and Western-aligned economies (including Kenya's) survived and adapted.
+
+Kenyatta's non-alignment was, ultimately, rhetorical cover for Western alignment. He understood that Kenya's development required foreign aid, investment, and market access that only the West could provide at scale. He avoided ideological commitments that might alienate Western partners while maintaining enough non-aligned credibility to participate in African and Third World forums. This balancing act, cynical to some and pragmatic to others, defined Kenya's Cold War posture and shaped its postindependence trajectory.
+
+## See Also
+- [[Kenyatta and UK Relations Post-Independence]]
+- [[Kenyatta and Tanzania Relations]]
+- [[Kenyatta and Pan-Africanism]]
+- [[Kenya-Somalia Shifta War]]
+- [[James Gichuru]]
+- [[Kenyatta and Oginga Odinga]]
+- [[Tourism Policy Kenyatta Era]]
+- [[Coffee Economy Kenyatta Era]]
+
+## Sources
+1. Okumu, John J. "The Socio-Political Setting." In *Politics and Public Policy in Kenya and Tanzania*, edited by Joel D. Barkan, 25-49. Praeger, 1984. https://www.worldcat.org/title/politics-and-public-policy-in-kenya-and-tanzania/oclc/9556498
+2. Schraeder, Peter J. *United States Foreign Policy toward Africa: Incrementalism, Crisis and Change*. Cambridge University Press, 1994. https://www.cambridge.org/core/books/united-states-foreign-policy-toward-africa/
+3. Hornsby, Charles. *Kenya: A History Since Independence*. I.B. Tauris, 2012. https://www.ibtauris.com/books/kenya-a-history-since-independence
