@@ -1,0 +1,22 @@
+The informal sector in Kenya expanded dramatically from the 1980s onwards, eventually encompassing the majority of Kenya's working population, yet remaining largely outside formal labour law protections and union organization. Informal sector work includes self-employment, casual labour, small-scale trading, artisanal production, and service provision, characterized by minimal capital investment, low barriers to entry, and absence of written employment contracts. Workers in this sector lack legal protections regarding minimum wages, working hours, safety standards, and access to employment dispute mechanisms. The growth of informality reflected both global economic shifts that reduced formal employment opportunities and deliberate state policy that encouraged labour market flexibility.
+
+The distinction between informal and formal sectors, analytically useful, obscured persistent power imbalances. Informal workers remained embedded in relationships of economic dependence and exploitation despite their nominal status as self-employed. Casual labourers, street traders, and artisanal workers experienced extreme earnings volatility, faced constant harassment by municipal authorities, and possessed no mechanisms for contesting exploitative terms. Women predominated in certain informal sectors (street food vending, small-scale retail), experiencing additional vulnerabilities to sexual harassment and economic predation. Child labour remained endemic in informal sectors despite legal prohibitions, as families required multiple income sources for survival.
+
+Organizing the informal sector posed unprecedented challenges for labour movements designed around formal employment. Traditional union structures assumed stable workplaces, identifiable employers, and possibility of coordinated strike action. Informal sector workers scattered across cities and rural areas, operating individually or in tiny groups, had no single identifiable employer to target. Earnings were typically too precarious to sustain strike activity; losing a day of work meant immediate household income loss. The absence of formal written agreements meant even successful organizing couldn't translate into enforceable collective bargaining agreements. Informal sector workers' economic desperation and employer surplus meant they held minimal bargaining leverage.
+
+Government regulation of informal sectors remained minimal and primarily directed at taxation and control rather than worker protection. Authorities periodically evicted street traders, confiscated goods, and extracted informal taxes, but made no effort to enforce labour standards. The rhetoric of "job creation" and "entrepreneurship" framed informal work positively despite evidence that it generated poverty wages and unsafe conditions. This framing meant government was unlikely to impose regulatory requirements on informal employers that would reduce profitability.
+
+From the 1990s onwards, NGOs rather than unions took the lead in informal sector organizing, establishing workers' centres, providing legal advice, and conducting consciousness-raising. Organizations like Nairobi Social Centres Union and various sectoral associations attempted to build collective strength among informal workers. These organizations made limited headway on immediate workplace issues but achieved significance in documenting conditions and advocating for government policy change. The extension of contributory welfare schemes to informal workers represented a modest policy breakthrough, though implementation remained incomplete.
+
+## See Also
+[Domestic Workers Organization](Domestic%20Workers%20Organization.md)
+[Labour Exploitation](Labour%20Exploitation.md)
+[Migrant Worker Rights](Migrant%20Worker%20Rights.md)
+[Child Labor Practices](Child%20Labor%20Practices.md)
+[Poverty](../Poverty/Poverty%20Overview.md)
+[Union Democracy](Union%20Democracy.md)
+
+## Sources
+1. Hart, Keith. "Money in an Unequal World: The Political Economy of Currencies and of Commodities" (2000), Berghahn Books, includes analysis of informal sector dynamics in African contexts
+2. Portes, Alejandro and Sassen-Koob, Saskia. "Making it Underground: Comparative Material on the Informal Sector in Western Market Economies" (1987), American Journal of Sociology 93(1), available through academic databases
+3. Ouma, Stephen. "The Informal Sector in Kenya: A Critical Assessment of Research Approaches" (2008), East African Educational Publishers, Nairobi

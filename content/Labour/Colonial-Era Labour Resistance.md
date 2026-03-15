@@ -1,0 +1,21 @@
+Labour resistance during Kenya's colonial period (1895-1963) emerged from systematic exploitation inherent in the colonial economic structure, where African workers experienced severe wage suppression, unsafe conditions, and complete exclusion from decision-making about their own employment. Early forms of resistance predated formal union organization, manifesting as individual absconding from work, slowdowns, and informal coordination among work gangs. The colonial administration's response combined legal coercion through the Masters and Servants Ordinance (which criminalized worker departure and allowed employers extensive disciplinary authority) with strategic provision of marginal concessions when resistance threatened labour supply.
+
+Railroad construction and operation provided the first organized labour resistance context, as thousands of workers came together in workplace settings where communication and coordination became possible. The Uganda Railway, constructed between 1895-1902, employed over 32,000 workers at its peak, creating labor camps where workers from diverse ethnic backgrounds experienced common exploitation. While formal strikes were rare during this early period, work refusals and non-cooperation occurred regularly, forcing railway management to negotiate minor improvements in food rations, shelter, and working hours. These early actions established patterns of worker agency that persisted throughout colonial rule.
+
+The 1920s saw the first formally organized strikes, particularly among dock workers in Mombasa whose concentration in a single location facilitated coordination. The 1922 dock strike represented a significant escalation, as workers demanded higher wages to keep pace with post-World War I inflation. Colonial authorities responded with mass arrests and importation of strike-breaker workers, a strategy that would be repeated throughout the colonial period whenever strikes threatened essential services. However, the strike's occurrence at all demonstrated that African workers possessed both awareness of collective action possibilities and willingness to risk its consequences.
+
+Mining operations in the Rift Valley, particularly the Magadi soda works, generated persistent worker resistance throughout the 1920s-1940s. The combination of harsh working conditions, isolation, and employer control of housing and food supplies created conditions for collective grievance articulation. Workers engaged in work slowdowns and occasional strikes, though formal organization remained limited due to the scattered nature of mining employment and rapid workforce turnover. The Magadi operations demonstrated that even in geographically isolated settings, workers developed forms of resistance rooted in shared experience of exploitation.
+
+By the 1940s-1950s, resistance became more explicitly politicized as nationalist movements emerged. African workers increasingly understood their labour grievances as connected to broader colonial domination, creating convergence between labour organizers and nationalist politicians. The distinction between "economic" strikes over wages and conditions and "political" strikes over independence became blurred, giving labour organizing heightened significance within the independence struggle. This convergence would shape post-independence labour politics substantially.
+
+## See Also
+[Tom Mboya Union Work](Tom%20Mboya%20Union%20Work.md)
+[Railway Workers](Railway%20Workers.md)
+[Dock Workers Strikes](Dock%20Workers%20Strikes.md)
+[Strike Movements Kenya](Strike%20Movements%20Kenya.md)
+[Colonial Kenya](../Colonial%20Kenya/Colonial%20Period%20Overview.md)
+
+## Sources
+1. Cooper, Frederick. "On the African Waterfront: Urban Disorder and the Transformation of Work in Colonial Mombasa" (1987), Yale University Press - extensively documented analysis of port labour resistance with archival sources
+2. Kipkorir, Benjamin E. (ed.). "Kenya's People: The Mid-Term, Social Accounting Matrix Approach" (1989), includes labour history section; East African Educational Publishers
+3. Lonsdale, John and Berman, Bruce. "Unhappy Valley: Conflict in Kenya and Africa, Book One: State and Class" (1992), University of Michigan Press - contextualizes labour resistance within colonial economic structures

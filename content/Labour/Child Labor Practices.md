@@ -1,0 +1,23 @@
+Child labour in Kenya persisted throughout colonial and post-colonial periods as a normalized practice despite formal legal prohibitions, reflecting both poverty-driven household necessity and deliberate employer exploitation of child workers' vulnerability. Children worked in domestic service, agriculture, manufacturing, and informal sectors, facing worse conditions than adult workers. Formal restrictions on child labour existed in colonial law (prohibiting employment of very young children in mines, factories) but were minimally enforced. Post-independence legislation established higher protections, including requirements for minimum age employment and education prioritization, yet implementation remained weak and child labour continued as a substantial economic practice.
+
+Agricultural sector child labour was endemic and culturally normalized, particularly during harvest seasons when schools closed and children participated in family farm work. Children engaged in coffee, tea, and sisal harvesting, often working long hours under harsh conditions. The transition from family farm work to commercial agricultural labour was blurred, making it difficult to distinguish children's participation in legitimate household activity from exploitative labour. In agricultural regions, school attendance and farm work were competing demands, with many households prioritizing immediate earning capacity over education accumulation. Girls particularly dropped out of school for agricultural labour and domestic responsibilities.
+
+Domestic service employed substantial numbers of child workers, predominantly girls, who lived in employers' homes under conditions of extreme vulnerability. Child domestic workers performed cooking, cleaning, and childcare, often for 12 to 16 hours daily with minimal compensation and no formal agreements. Sexual and physical abuse was common; workers had no mechanism to resist or report abuse; and employers exercised near-absolute power over child workers. The practice normalized extremely young girls (sometimes 10 years old) as household servants, a practice that persisted despite legal prohibitions because enforcement was entirely absent. The sector remained largely invisible due to its household-based nature.
+
+Manufacturing and small enterprise child labour occurred particularly in informal sectors. Children worked in metalworking, textile production, and food processing, engaging with hazardous machinery and chemicals. In some regions, children engaged in gem and precious metal mining under extremely hazardous conditions. Street children in urban areas engaged in informal economic activities (begging, vending, waste collection) often coordinated by adults, experiencing severe exploitation. Children's wages were minimal, often withheld or diverted; safety was nonexistent; and education was deferred indefinitely. The fluidity between "children engaging in economic activity" and "child labour exploitation" made clear categorization difficult.
+
+The explanatory factors for child labour persistence included: household poverty requiring multiple income sources; inadequate educational opportunity (school fees, proximity, discrimination); social norms normalizing children's economic participation; weak government enforcement; employer exploitation of children's vulnerability; and children's lack of agency to resist adult decisions. Attempts to eliminate child labour through legislation and NGO intervention faced the fundamental constraint that households in poverty could not sustain child non-work absent income substitutes or social support. Contemporary Kenya maintains legal frameworks prohibiting child labour alongside persistent actual child labour, particularly affecting the poorest households and rural regions.
+
+## See Also
+[Domestic Workers Organization](Domestic%20Workers%20Organization.md)
+[Plantation Workers](Plantation%20Workers.md)
+[Informal Sector Labor Rights](Informal%20Sector%20Labor%20Rights.md)
+[Labour Exploitation](Labour%20Exploitation.md)
+[Poverty](../Poverty/Poverty%20Overview.md)
+[Education](../Education/Education%20Overview.md)
+[Women Work Conditions](Women%20Work%20Conditions.md)
+
+## Sources
+1. Kenyatta, Jomo. "Facing Mount Kenya" (1938), includes documentation of traditional child socialization practices
+2. White, Luise. "The Comforts of Home: Prostitution in Colonial Nairobi" (1990), University of Chicago Press - includes context on child labour in urban areas
+3. International Labour Organization. "Combating Child Labour in Kenya: National Programme Report" (2012), ILO Publications, Geneva

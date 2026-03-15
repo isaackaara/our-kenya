@@ -1,0 +1,24 @@
+Redundancy as employment termination mechanism emerged in Kenya primarily from the 1980s onwards as economic crisis and structural adjustment forced employers to reduce labour costs. Redundancy involved termination of employment positions deemed no longer necessary due to organizational restructuring, technological change, or economic contraction, ostensibly distinguished from disciplinary dismissal for employee misconduct. The legal framework eventually established that genuine redundancy must follow fair procedures, include advance notice, and provide severance compensation. However, the distinction between genuine redundancy and pretextual dismissal was frequently blurred, with employers using redundancy claims to dismiss workers whose performance they wished to eliminate.
+
+The application of redundancy procedures revealed fundamental conflicts between legal frameworks and actual employer practices. Legal requirements for redundancy included: identification of positions genuinely no longer needed; fair selection of affected workers (typically using objective criteria rather than employer discretion); consultation with affected workers and their representatives; advance notice periods permitting workers to seek alternative employment; and severance compensation. These procedures were intended to ensure fairness and protect workers' interests. However, actual implementation frequently departed substantially from these ideals.
+
+Employers often manipulated redundancy procedures to achieve desired workforce reductions while appearing to follow legal requirements. Positions deemed redundant were sometimes filled by lower-wage workers within months, indicating the positions had not genuinely been eliminated. Redundancy selection criteria were applied selectively, using ostensibly objective measures (performance ratings, last-hired-first-fired) applied in discriminatory ways. Workers selected for redundancy were disproportionately older, female, or from disadvantaged ethnic communities. Consultation with workers and unions was minimal or pro forma, seeking acceptance rather than genuine engagement.
+
+Large-scale redundancy operations in manufacturing and public sectors during economic crises created situations where hundreds or thousands of workers were simultaneously terminated. These mass redundancies overwhelmed labour dispute mechanisms; workers lacked individual capacity to challenge dismissals; and government prioritized economic stability over worker protection. During the 1980s-1990s structural adjustment period, redundancy became a tool for employers to reduce permanent workforces while shifting to casual labour. Workers accepting redundancy packages were offered severance, while those remaining in organization faced increased workloads and casualization.
+
+The fairness and adequacy of redundancy compensation became increasingly contested. Early redundancy packages sometimes included enhanced severance for workers accepting dismissal. However, as redundancies became more frequent and economic constraints tightened, severance compensation became more modest. In some cases, employers undertook redundancies without legal basis or fair procedures, treating redundancy as opportunity for cost reduction under guise of organizational necessity. Workers' limited capacity to challenge redundancy claims resulted in many accepting dismissals that were arguably pretextual.
+
+The expansion of casual employment eliminated redundancy protection for growing worker segments. Casual workers were perpetually "redundant" in the sense that their employment could be terminated at any time without need for formal redundancy procedure. The shift from permanent positions to casual labour meant the redundancy framework's application became progressively more limited. Contemporary Kenya's redundancy procedures apply primarily to formal sector permanent employees, a shrinking proportion of the workforce. The growth of employment forms outside traditional permanent employment has progressively marginalized redundancy protections, reducing their significance in actual employment practices.
+
+## See Also
+[Wrongful Dismissal](Wrongful%20Dismissal.md)
+[Job Security](Job%20Security.md)
+[Severance Packages](Severance%20Packages.md)
+[Labour Court Establishment](Labour%20Court%20Establishment.md)
+[Informal Sector Labor Rights](Informal%20Sector%20Labor%20Rights.md)
+[Employment Contracts](Employment%20Contracts.md)
+
+## Sources
+1. Sahn, David E. (ed.). "Adjusting to Policy Failure in African Economies" (1994), Cornell University Press - includes redundancy in adjustment context
+2. International Labour Organization. "Redundancy and Income Protection in Kenya" (2010), ILO Publications, Geneva
+3. Ouma, Stephen. "Redundancy Procedures and Worker Rights in Kenya" (2012), East African Educational Publishers, Nairobi

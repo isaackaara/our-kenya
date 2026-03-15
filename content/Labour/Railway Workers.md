@@ -1,0 +1,20 @@
+Railway workers in Kenya represented one of the oldest organized sectors of the colonial labour force, given the Uganda Railway's construction beginning in 1895 and subsequent expansion across the colony. The railway employed thousands of workers across operations including track maintenance, locomotive operation, cargo handling, station management, and administrative work. The sector's concentration of workers, hierarchical organization, and importance to colonial economic functioning made railway employment significant both as economic activity and as site of labour organization and conflict. Railway work spanned multiple skill levels and employment forms, from unskilled track workers to skilled mechanics to white-collar clerical staff.
+
+Early railway employment during construction and early operations relied heavily on imported Indian and European workers occupying supervisory and skilled positions, with African workers confined to unskilled manual labour. This racial division of labour meant African railway workers experienced systematic wage suppression and exclusion from advancement opportunities. However, the large scale of railway employment and concentration of workers in specific locations (stations, depot facilities, rail yards) created conditions for collective action. Informal work slowdowns and labor disputes occurred regularly throughout the colonial period as workers challenged specific grievances while lacking formal union structures.
+
+The post-World War II period saw increasing formal organization among railway workers, including attempts to establish African worker associations that could articulate collective interests. The railways union eventually organized a significant membership among permanent railway staff, establishing collective bargaining capacity that proved more durable than in many other sectors. Railway workers benefited from their essential role in colonial economic functioning; disrupting rail traffic imposed significant costs on colonial authorities and private employers, giving strikers leverage in negotiations. The sector's internal stratification meant some workers (permanent staff with skills) possessed greater bargaining power than others (casual workers, new entrants).
+
+Post-independence railway employment remained important but declined in significance as road transport expanded and railway network deteriorated. Permanent railway employment offered more stable terms than many alternative sectors, attracting workers despite declining industry prospects. Railway worker unions negotiated improvements in wages and working conditions during the 1960s-1970s based on their continued strategic importance. However, railway sector contraction from the 1980s onwards meant declining employment opportunities and reduced union membership. Modernization efforts and privatization proposals threatened further employment losses.
+
+Railway workers participated in broader national strikes and labour actions during the 1980s-1990s, including civil service wide strikes that affected transport systems. However, railway sector labour relations grew increasingly fraught as employers sought to reduce labour costs through casualization and organizational downsizing. The transition from government-owned to partially privatized railway operations in the late 1990s and 2000s further degraded working conditions and union power. Contemporary railway employment remains relatively stable but restricted compared to historical levels, with most new entrants hired on casual rather than permanent terms.
+
+## See Also
+[Colonial-Era Labour Resistance](Colonial-Era%20Labour%20Resistance.md)
+[Strike Movements Kenya](Strike%20Movements%20Kenya.md)
+[Central Organization Trade Unions](Central%20Organization%20Trade%20Unions.md)
+[Union Leadership](Union%20Leadership.md)
+[Work Safety Standards](Work%20Safety%20Standards.md)
+[Occupational Health](Occupational%20Health.md)
+
+## Sources
+1. Lonsdale, John. "The Politics of Conquest: The
