@@ -1,0 +1,11 @@
+Tourism emerged during the colonial period as coastal planners recognized recreational and commercial opportunities in beaches, historical sites, and the region's exotic cultural reputation. Early colonial administrators and settler interests identified coastal beaches as potential leisure destinations for European residents and visiting tourists seeking tropical recreation. Beach resort development accelerated during the mid-20th century as transportation improved and international tourism expanded, attracting visitors to sandy beaches and warm waters. Historical sites including Fort Jesus, Lamu's architectural heritage, and Malindi's ruins became tourist attractions, though colonial authorities often controlled access and interpretation. Tourism infrastructure development created hotels, roads, and service establishments, generating employment for coastal residents while introducing colonial and then post-independence administrative structures. Cultural tourism promoted coastal heritage as exotic spectacle, with taarab music, dhow sailing, and crafts marketed to visitors seeking authentic cultural experiences. Tourism revenue generated significant income but often flowed to external investors and government, with local communities capturing limited benefits. Tourism development disrupted traditional ecological and social systems, with beach access restrictions affecting fishing and with service economy pressures drawing people from traditional occupations. The seasonal nature of tourism created unstable employment and income patterns, with workers subject to demand fluctuations. Contemporary coastal tourism remains economically important but faces challenges from international competition and changing travel patterns. Sustainability concerns regarding reef protection, beach erosion, and cultural commodification generate ongoing debates about tourism futures.
+
+## See Also
+
+[[Beach Resorts History]], [[Colonial Tourism]], [[Post-Independence Tourism]], [[Coastal Environmental Changes]], [[Coastal Settlements]], [[Mombasa Population Growth]], [[Coastal Populations]]
+
+## Sources
+
+1. https://www.tandfonline.com/doi/abs/10.1080/00754920302931
+2. https://www.jstor.org/stable/24339486
+3. https://www.cambridge.org/core/journals/journal-of-eastern-african-studies
