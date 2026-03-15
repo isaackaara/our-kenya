@@ -1,27 +1,33 @@
 # Mandera Wildlife
 
-Wildlife adapted to arid conditions with conservation challenges in Mandera County, addressing the unique challenges and opportunities of this remote northeastern Kenyan region.
+Wildlife in Mandera County represents components of the broader East African wildlife systems, with pastoral rangelands supporting various wildlife species adapted to arid conditions. However, wildlife populations have declined significantly due to pastoral rangeland conversion, habitat degradation, and hunting pressures, with many species now rare or absent from areas where they were historically abundant.
 
-## Context in Mandera
+Pastoral rangelands have historically supported wildlife including zebras, wildebeest, antelopes, and predators coexisting with pastoral livestock. However, pastoral rangeland intensification and habitat fragmentation have resulted in wildlife population declines. Contemporary wildlife presence remains limited in heavily grazed pastoral areas, with wildlife increasingly restricted to protected areas and marginal rangelands.
 
- Wildlife represents a crucial element of Mandera County's development landscape. The county faces distinctive challenges related to its position as a tri-border region where Kenya, Somalia, and Ethiopia converge.
+Wildlife conservation efforts have been minimal relative to pastoral and human livelihood priorities. National government wildlife conservation policies have limited implementation in remote pastoral areas. Private and community-based wildlife conservation initiatives have been limited.
 
-## Key Aspects
+Large predators including lions and hyenas historically present in pastoral rangelands have become rare due to pastoralist persecution in response to livestock predation. Elephant populations remain extremely limited. Zebras and wildebeest populations have declined dramatically.
 
-The development of mandera wildlife in Mandera reflects broader patterns in Kenya's arid and semi-arid regions, with specific manifestations in this historically marginalized county.
+Arid-adapted wildlife species including camels and goats share rangelands with pastoral livestock in pastoral production systems. These pastoral species are managed for production rather than conservation.
 
-## Contemporary Status
+Wetland areas including river valleys support wetland-dependent bird species and aquatic species. However, water scarcity has degraded wetland habitats.
 
-As of 2026, mandera wildlife remains a significant concern and development priority in Mandera County, with ongoing efforts to address challenges and build resilience.
+Pastoral rangelands support diverse bird species adapted to arid conditions. However, habitat degradation has affected bird populations.
+
+Wildlife tourism remains minimal in Mandera compared to other Kenyan counties, with security concerns and limited tourism infrastructure constraining wildlife-based tourism development.
 
 ## See Also
 
 - [[Mandera County]]
-- [[../../Somali/Somali]]
-- [Mandera related notes]
+- [[Mandera Pastoralism]]
+- [[Mandera Land]]
+- [[Mandera Climate]]
+- [[Mandera Infrastructure]]
 
 ## Sources
 
-1. [Mandera County Government Documentation](https://www.mandera.go.ke)
-2. [Kenya National Bureau of Statistics - Mandera County Data](https://www.knbs.or.ke)
-3. [International Development Organization Reports](https://www.undp.org)
+1. [Kenya Wildlife Service - Wildlife Population Surveys](https://www.kws.go.ke)
+2. [International Union for Conservation of Nature - East Africa Red List](https://www.iucn.org)
+3. [World Wildlife Fund - East Africa Conservation Programs](https://www.worldwildlife.org)
+4. [African Wildlife Foundation - Wildlife Research](https://www.awf.org)
+5. [Mandera County Government - Environmental Management Plans](https://www.mandera.go.ke)

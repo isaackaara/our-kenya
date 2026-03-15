@@ -1,120 +1,32 @@
 # Mandera Water
 
-Water scarcity is the defining environmental and development challenge in Mandera County, with extremely low rainfall, high evaporation, limited surface water sources, and uncertain groundwater availability creating chronic water stress. Access to adequate water for human consumption, livestock, and agriculture is constrained, making water the primary limiting factor on pastoral production, population support, and all development in the county. The insufficiency of water relative to population needs makes water security the most critical survival issue in Mandera.
+Water scarcity represents Mandera County's most critical resource constraint, with extreme aridity, limited rainfall, and declining groundwater availability creating persistent challenges for pastoral production, human consumption, and livelihood security. Annual rainfall of 200-400 millimeters concentrates in two unreliable rainy seasons, providing insufficient precipitation to support reliable surface water sources. Groundwater access has expanded through borehole development, but declining water yields and sustainability concerns raise questions about long-term water availability.
 
-## Rainfall and Water Balance
+The Daua River provides the most reliable surface water source, forming much of the Kenya-Ethiopia border. Seasonal watercourses including tributaries of the Jubba River provide temporary water sources during rainy seasons. However, these surface water sources are insufficient for year-round pastoral and human water needs.
 
-Mandera receives extremely low rainfall, with annual precipitation ranging from 200 to 400 millimeters, concentrated in two rainy seasons (Gu and Deyr). This precipitation is substantially below human and livestock water needs, creating a water deficit that must be supplemented through other sources.
+Borehole development has dramatically expanded water access, with hundreds of boreholes drilled throughout the county since the 1970s. Boreholes have enabled pastoral settlement patterns and human population growth that would be impossible relying solely on natural water sources. However, borehole sustainability remains problematic, with many boreholes experiencing declining water yields and some becoming completely unproductive.
 
-Evaporation rates are extremely high, with annual potential evaporation exceeding 2000 millimeters. This means that even when rainfall occurs, much of the water is rapidly evaporated from soil surfaces and water bodies before it can be used. The high evaporation relative to low rainfall creates a harsh hydrological environment.
+Water supply systems in towns including Mandera town provide piped water networks, though supply remains intermittent and unreliable. Water treatment and quality monitoring remain limited. Rural water supply relies primarily on boreholes and communal water points, with water quality monitoring minimal.
 
-The water balance (rainfall minus evaporation) is deeply negative, meaning more water evaporates than falls as rain. This deficit must be met through groundwater extraction or water importation, both of which are limited.
+Water scarcity directly constrains pastoral production, with livestock requiring substantial water quantities for survival. During dry seasons, water becomes the primary constraint limiting pastoral production and forcing livestock concentration around permanent water sources. Water scarcity similarly constrains human consumption, with many communities having limited access to safe drinking water.
 
-## Groundwater Resources
+Water-related conflicts between pastoral groups competing for access to scarce water sources have periodically erupted into violence. Government water point management policies attempt to regulate access and prevent conflict, but enforcement remains challenging.
 
-Mandera's primary water source is groundwater, accessed through boreholes, hand-dug wells, and other extraction systems. The availability of groundwater is limited and unevenly distributed geographically.
-
-Shallow aquifers in many areas are limited in extent and yield. Deep aquifers exist in some areas but extraction requires more drilling depth and higher-capacity pumping systems, increasing cost.
-
-The recharge rate of aquifers is limited due to low rainfall. In some areas, groundwater recharge may be minimal, raising sustainability concerns about long-term groundwater extraction. If extraction exceeds recharge, aquifers will decline over time.
-
-Water salinity is a problem in some areas, with groundwater having high salt concentration. Saline water is unsuitable for human consumption and livestock watering and unsuitable for irrigation without desalination. The distribution of saline versus fresh water is uneven across the county.
-
-## Surface Water
-
-Surface water sources are extremely limited. Few permanent water bodies exist. Seasonal water sources (ponds and temporary water collections) dry up during dry seasons. Rivers are ephemeral (flowing only during rains) in most areas.
-
-The Dawa River and Hara River represent the major river systems but are often dry or nearly dry during dry seasons. During rainy seasons, these rivers may flow, providing temporary water supplies.
-
-The limited surface water means populations depend on groundwater for most of the year.
-
-## Pastoral Water Use and Livestock Watering
-
-Pastoral livestock represent the primary livelihood and require substantial water consumption. Cattle require approximately 20-50 liters per day. Goats and sheep require less. A substantial pastoral herd requires thousands of liters of water daily.
-
-Water points (boreholes, wells, water pans) are critical pastoral infrastructure. Pastoral groups traditionally manage access to water points through clan-based systems, restricting access to support pastoral populations while preventing overuse.
-
-However, population growth has increased water pressure beyond sustainable levels in many areas. Multiple pastoralist groups may compete for access to water points. Water conflicts over access to water have become increasingly common.
-
-During droughts, water competition intensifies. Pastoral herds concentrate around the remaining functional water points, and multiple groups may compete for limited water. Water scarcity directly forces pastoral crises during droughts.
-
-## Human and Household Water Access
-
-Access to water for human consumption (drinking, cooking, personal hygiene) varies substantially across the county. In urban areas, piped water systems provide water access, though supply is often unreliable and inadequate.
-
-In pastoral and rural areas, humans depend on wells, boreholes, and seasonal water sources. The distance to water points can be substantial, requiring extended travel (particularly by women and girls responsible for water collection).
-
-Water quality is often poor, with microbial contamination and high salinity in some areas. The health consequences of poor water quality include waterborne diseases (diarrhea, cholera, typhoid).
-
-Water collection time burden is substantial, particularly for women and girls. In some areas, water collection requires 2-4 hours per day, removing time from productive activities and schooling.
-
-## Water Development Projects
-
-Government and development partners have invested in water infrastructure, primarily focused on borehole drilling, well construction, and water supply systems. County government has prioritized water development, though investment is limited relative to needs.
-
-Water projects have expanded access incrementally, with more water points now functional than historically. However, coverage remains inadequate for population needs.
-
-Water point maintenance is often inadequate, with broken systems awaiting repair. Community-based management of water points has mixed success, with some communities maintaining systems effectively while others struggle.
-
-Cost recovery mechanisms for water system maintenance are often insufficient, leading to deterioration of systems when donor funding ends.
-
-## Irrigation and Agricultural Water Use
-
-Limited irrigation development attempts to use available water for agricultural production. Irrigation requires substantial water allocation, which is difficult to justify given competing demands for pastoral and human consumption uses.
-
-The sustainability of irrigation is questioned given water scarcity. Some irrigation schemes have failed or been abandoned due to inadequate water supply.
-
-## Water and Development Constraints
-
-Water scarcity fundamentally constrains all development in Mandera. Economic development, agriculture, industry, and urban expansion all require water. The insufficient water limits development potential.
-
-Water stress forces difficult choices between competing demands (pastoral production, human consumption, irrigation, industry). Allocation of scarce water among competing users creates conflicts and governance challenges.
-
-Climate change and increasing aridity threaten to reduce water availability further, worsening scarcity.
-
-## Water and Food Security
-
-Water availability directly affects pastoral production and food security. Insufficient water limits livestock productivity and forces pastoral livelihood disruption during dry seasons. Pastoral populations' food security is directly dependent on water availability.
-
-The integration of water scarcity with food insecurity means humanitarian crises during droughts are driven partly by water failure.
-
-## Technological Responses and Limitations
-
-Technological responses to water scarcity are limited and constrained by cost. Desalination of saline water is energy-intensive and expensive. Rainwater harvesting systems (water pans) have limited capacity relative to annual water needs.
-
-Groundwater extraction through boreholes requires investment in drilling and pumping systems. Modern drilling and pumping can extend water access but increases costs.
-
-Water-efficient irrigation technologies and water conservation practices can reduce consumption but require investment and behavior change.
-
-## Water Rights and Governance
-
-Water governance is complex, with multiple authorities involved. National government controls water resources through the Water Act. County government manages water supply systems. Community management of water points occurs through local institutions.
-
-Traditional pastoral systems recognize clan water rights, with particular pastoral groups controlling access to specific water points. These customary rights are sometimes in conflict with government water policies.
-
-Water allocation between competing users (pastoral, human consumption, irrigation) lacks clear frameworks, creating potential for conflicts.
-
-## Future Water Prospects
-
-Water availability in Mandera appears likely to remain constrained. Improving water security would require major investment in groundwater development, water system maintenance, and potentially water importation from more water-rich regions.
-
-The sustainability of current populations in Mandera may depend on water availability. If water availability declines further due to climate change or aquifer depletion, populations may face difficult adaptation requirements.
-
-Long-term development of Mandera is fundamentally limited by water constraints. Resolution of water scarcity is critical for addressing food insecurity, enabling pastoral production, and supporting economic development.
+Water storage through dams and water pans has been promoted as a water development strategy, but these structures experience maintenance challenges and limited long-term sustainability.
 
 ## See Also
 
 - [[Mandera Climate]]
-- [[Mandera Livestock]]
-- [[Mandera Pastoralism]]
 - [[Mandera Food Security]]
-- [[Mandera Climate Change]]
+- [[Mandera Pastoralism]]
+- [[Mandera Livestock]]
 - [[Mandera Irrigation]]
+- [[Mandera Health]]
 
 ## Sources
 
-1. [Kenya Water Resources Management Authority - Water Status Reports](https://www.wrma.or.ke)
-2. [FAO Aquastat - Kenya Water Resources Data](https://www.fao.org/aquastat)
-3. [World Bank - Water Security in the Horn of Africa](https://www.worldbank.org)
-4. [USGS - Groundwater Resources East Africa](https://www.usgs.gov)
-5. [UN-Habitat - Water Access in Kenya](https://unhabitat.org)
+1. [Kenya Ministry of Water and Sanitation - Water Resources Data](https://www.water.go.ke)
+2. [UN-Habitat - Water and Sanitation in Arid Areas](https://unhabitat.org)
+3. [World Bank - Water Security in Kenya](https://www.worldbank.org)
+4. [International Water Management Institute - Groundwater in East Africa](https://www.iwmi.cgiar.org)
+5. [Famine Early Warning Systems Network - Water Availability Analysis](https://fews.net)

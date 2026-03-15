@@ -1,27 +1,33 @@
 # Mandera Youth
 
-Youth facing limited employment with pastoral livelihood constraints in Mandera County, addressing the unique challenges and opportunities of this remote northeastern Kenyan region.
+Youth in Mandera County face limited economic opportunities, educational constraints, and social pressures that shape livelihood choices and migration decisions. Youth unemployment remains high, with limited formal sector job opportunities and constrained livelihood options in pastoral production systems. These constraints have driven youth migration to urban centers and other regions seeking employment.
 
-## Context in Mandera
+Educational access remains limited for youth, with secondary school capacity insufficient for all primary school graduates. Limited tertiary education opportunities mean most youth lack access to higher education. Technical and vocational training opportunities remain minimal. These educational constraints limit employment prospects and earning potential.
 
- Youth represents a crucial element of Mandera County's development landscape. The county faces distinctive challenges related to its position as a tri-border region where Kenya, Somalia, and Ethiopia converge.
+Youth interest in pastoral livelihood has declined due to limited profitability, arduous work conditions, and limited social status compared to urban employment. However, limited alternative livelihood opportunities mean some youth maintain pastoral engagement despite limited enthusiasm.
 
-## Key Aspects
+Youth in urban settlements have increasingly adopted informal sector activities including vending, transport services, and small-scale trading. Some youth have engaged in security-related activities, with recruitment by both government security forces and militant groups in some cases.
 
-The development of mandera youth in Mandera reflects broader patterns in Kenya's arid and semi-arid regions, with specific manifestations in this historically marginalized county.
+Youth migration has generated remittance flows from urban-employed youth to pastoral families, providing supplementary income. However, migration also removes productive youth from pastoral communities.
 
-## Contemporary Status
+Youth participation in political processes has gradually increased, with youth nominated to county assembly positions and some youth political activism. However, youth voice in governance remains limited relative to youth population proportions.
 
-As of 2026, mandera youth remains a significant concern and development priority in Mandera County, with ongoing efforts to address challenges and build resilience.
+Youth radicalization and recruitment by militant groups has been a concern, with limited economic opportunities and grievances creating vulnerability to extremist recruitment. Counter-radicalization programs have had limited reach and variable effectiveness.
+
+Youth development programs focusing on livelihood training and employment support remain limited relative to youth needs. NGO and government youth programs have provided services to limited youth populations.
 
 ## See Also
 
 - [[Mandera County]]
-- [[../../Somali/Somali]]
-- [Mandera related notes]
+- [[Mandera Education]]
+- [[Mandera Pastoralism]]
+- [[Mandera Security]]
+- [[Mandera Health]]
 
 ## Sources
 
-1. [Mandera County Government Documentation](https://www.mandera.go.ke)
-2. [Kenya National Bureau of Statistics - Mandera County Data](https://www.knbs.or.ke)
-3. [International Development Organization Reports](https://www.undp.org)
+1. [Kenya Bureau of Statistics - Youth Employment Data](https://www.knbs.or.ke)
+2. [International Labour Organization - Youth Employment in Kenya](https://www.ilo.org)
+3. [Kenya Ministry of Education - Youth Development Programs](https://www.education.go.ke)
+4. [World Bank - Youth Development in East Africa](https://www.worldbank.org)
+5. [Mandera County Government - Youth Affairs Department](https://www.mandera.go.ke)
