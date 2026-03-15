@@ -1,0 +1,17 @@
+Election coverage controversies in Kenya reveal persistent tensions between media freedom, journalistic fairness, and political interests. Since the introduction of multiparty democracy in 1991, election seasons have consistently generated disputes over media coverage balance, with accusations that journalists favor certain candidates or parties over others. The 1992 general election saw the first major controversy when major media outlets faced criticism for unequal coverage of the newly legalized opposition parties, with government-aligned broadcasters receiving preferential access to prime-time slots and favorable reporting.
+
+The 2002 general election produced significant coverage disputes centered on the [Kenya Broadcasting Corporation], which faced accusations of favoring the ruling party through favorable framing and limited opposition airtime. Independent outlets like [KTN] and [NTV] also drew complaints from candidates excluded from coverage or portrayed negatively. Smaller parties argued they received minimal media attention, disadvantaging their campaigns despite participating legitimately in electoral processes. These concerns highlighted how media gatekeeping power directly influences electoral competitiveness.
+
+The 2007 general election controversy was intensified by media's role during post-election violence. Some outlets faced criticism for inflammatory reporting that exacerbated ethnic tensions, with accusations that journalists amplified divisive language and inflammatory political rhetoric without adequate fact-checking or contextual analysis. The [Media Council Kenya] later investigated complaints about irresponsible coverage that may have contributed to communal tensions. This episode sparked broader conversations about journalist responsibility during high-stakes political moments.
+
+The 2013 general election saw new controversies emerge around presidential debate coverage and editorial endorsements. Some observers criticized major newspapers for explicit or implicit support of particular candidates through framing choices and headline decisions. Social media's growing role introduced new complications, with unverified claims and misleading content circulating alongside professional journalism. Debates erupted about whether traditional media institutions retained gatekeeping authority in an age of decentralized information networks.
+
+The 2017 general election precipitated the most severe media crisis, with accusations of widespread coverage bias favoring the incumbent. Smaller opposition candidates claimed systematic exclusion from news coverage, while some outlets were accused of providing disproportionate positive coverage to government-supported candidates. The controversial rerun election in October 2017 generated additional coverage disputes, with opposition parties claiming discriminatory treatment and unfair editorial choices by major broadcasters.
+
+## See Also
+[[Political Reporting Elections]], [[Media Independence Coverage]], [[Press Freedom Colonial]], [[Kenya Broadcasting Corporation History]], [[Social Media Impact Kenya]], [[Journalist Code Ethics]], [[Media Council Regulation]]
+
+## Sources
+1. https://www.mediacouncil.or.ke/complaints-resolved-2013-2017/
+2. https://www.internewskenya.org/wp-content/uploads/2017/11/media-coverage-analysis-2017.pdf
+3. https://www.standardmedia.co.ke/politics/article/2000145678/contested-elections-media-role-analysis
