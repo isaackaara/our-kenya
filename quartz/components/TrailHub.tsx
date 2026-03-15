@@ -130,15 +130,23 @@ const TrailHubCSS = `
 }
 
 .trail-card {
+  display: block;
   background: white;
   border: 1px solid #e5e7eb;
   border-radius: 0;
   padding: 1.25rem;
-  transition: border-color 0.15s;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
 }
 
 .trail-card:hover {
   border-color: #006B3F;
+  box-shadow: 0 6px 20px rgba(0, 107, 63, 0.12);
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: inherit;
 }
 
 .trail-card-header {
@@ -248,17 +256,15 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       
       <div class="trail-grid" id="trail-grid">
         {trails.map(trail => (
-          <div class="trail-card" data-category={trail.category} data-name={trail.name.toLowerCase()} data-description={trail.description.toLowerCase()}>
+          <a href={stopHref(trail.stops[0])} class="trail-card" data-category={trail.category} data-name={trail.name.toLowerCase()} data-description={trail.description.toLowerCase()}>
             <div class="trail-card-header">
               <h3 class="trail-card-name">{trail.name}</h3>
               <span class="trail-card-category">{trail.category}</span>
             </div>
             <p class="trail-card-stops">{trail.stops.length} stops</p>
             <p class="trail-card-description">{trail.description}</p>
-            <a href={stopHref(trail.stops[0])} class="trail-card-link">
-              Start trail
-            </a>
-          </div>
+            <span class="trail-card-link">Start trail →</span>
+          </a>
         ))}
       </div>
       
