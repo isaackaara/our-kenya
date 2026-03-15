@@ -6,7 +6,7 @@ The presence of Europeans in Kenya spans nearly two centuries, from initial miss
 
 ### The Explorer Era (1840s-1880s)
 
-The first sustained European presence came through missionary activity. Johann Ludwig Krapf established the Church Missionary Society's mainland station at Rabai in 1844, near Mombasa. He and Johannes Rebmann became the first Europeans to encounter Mount Kenya (1849) and Mount Kilimanjaro (1848), discoveries that initially met with skepticism in Europe due to reports of equatorial snow.
+The first sustained European presence came through missionary activity. [[Johann Ludwig Krapf]] established the [[Church Missionary Society]]'s mainland station at Rabai in 1844, near Mombasa. He and Johannes Rebmann became the first Europeans to encounter Mount Kenya (1849) and Mount Kilimanjaro (1848), discoveries that initially met with skepticism in Europe due to reports of equatorial snow.
 
 Exploration intensified in the 1880s. Joseph Thomson led the first major European expedition through Maasailand in 1882-1883, traveling 1,500 miles from Mombasa to Lake Victoria and back without armed escort, negotiating passage through Maasai communities rather than forcing it. His journals recorded the geography, peoples, and resources of the interior.
 
@@ -46,6 +46,17 @@ The "willing buyer, willing seller" principle meant that much European-owned lan
 By the 1970s-1980s, the visible European settler population had declined sharply, though some families retained significant landholdings and influence. A smaller "embedded" European community remained, primarily in conservation, farming, tourism, and professions.
 
 Contemporary estimates suggest 30,000-70,000 people of European descent live in Kenya, including long-term residents, recent expatriates, and descendants of settlers who remained or returned. The political and social position of white Kenyans remains complex, with questions about land rights, privilege, and belonging remaining contested.
+
+## See Also
+
+- [[White Highlands]] - The geographic heart of settlement
+- [[Crown Lands Ordinance]] - Legal framework for European land
+- [[Lancaster House and Departure]] - Independence and exodus
+- [[Europeans who Stayed]] - Those remaining after independence
+- [[Happy Valley Set]] - Settler elite society
+- [[Europeans in Kenya Timeline]] - Chronological reference
+- [[Laikipia Ranch Families]] - Contemporary settler communities
+- [[Karen and Langata Old Families]] - Nairobi suburban settlers
 
 ## The White Highlands: Geographic Heart of Settlement
 

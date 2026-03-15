@@ -1,6 +1,6 @@
 # Muthaiga Club and White Social Life
 
-The Muthaiga Country Club, founded in 1913 in the Nairobi suburb of Muthaiga, remains the most iconic institution of settler-era social life in Kenya. Originally established as an exclusive space for white settler elite (with explicit exclusion of Africans, Asians, and other non-whites), Muthaiga symbolizes the social segregation and class hierarchy that defined colonial and early post-colonial Kenya. In 2026, Muthaiga has undergone formal racial integration while remaining culturally shaped by its settler origins, functioning as a microcosm of white Kenyan identity and social continuity.
+The [[Muthaiga Country Club]], founded in 1913 in the [[Nairobi]] suburb of Muthaiga, remains the most iconic institution of [[settler-era]] social life in Kenya. Originally established as an exclusive space for [[white settler elite]] (with explicit exclusion of [[Africans]], [[Asians]], and other non-whites), Muthaiga symbolizes the [[social segregation]] and [[class hierarchy]] that defined [[colonial]] and early post-colonial Kenya. In 2026, Muthaiga has undergone formal [[racial integration]] while remaining culturally shaped by its [[settler origins]], functioning as a microcosm of [[white Kenyan identity]] and social continuity.
 
 ## The Colonial Muthaiga: The Heart of Happy Valley
 
@@ -57,6 +57,15 @@ For contemporary white Kenyans, Muthaiga remains symbolically significant:
 **Anxiety and Defensiveness**: For white Kenyans more anxious about their position in Kenya, Muthaiga simultaneously symbolizes the persistence of settler privilege and the fragility of that privilege. The club's continued existence and thriving despite Kenya being an independent African nation might be understood as vindication of settler presence or as an unjust anachronism that cannot persist indefinitely.
 
 **Cosmopolitan Aspiration**: For white Kenyans attempting to position themselves as cosmopolitan, integrated into Kenya rather than segregated, Muthaiga is sometimes viewed with ambivalence. The club's racial history and persistent association with settler elite creates tension with self-identification as non-racist or post-settler.
+
+## See Also
+
+- [[White Kenyans Today]]
+- [[Nairobi's Founding]]
+- [[Settler Nostalgia]]
+- [[White Kenyan Identity in 2026]]
+- [[The Erroll Murder]]
+- [[Colonial Administration]]
 
 ## Sources
 

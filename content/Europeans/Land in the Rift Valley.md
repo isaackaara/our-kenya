@@ -1,6 +1,6 @@
 # Land in the Rift Valley
 
-The Rift Valley was the heartland of European settlement in colonial Kenya. The region's altitude, climate, and landscape made it suitable for European agriculture. It was also home to Maasai, Nandi, Kipsigis, and other communities whose pastoralist and agricultural systems were disrupted by settler colonialism. The Rift Valley became the primary location of large settler estates and represented the core of the White Highlands system.
+The [[Rift Valley]] was the heartland of [[European settlement]] in colonial Kenya. The region's altitude, climate, and landscape made it suitable for [[European agriculture]]. It was also home to [[Maasai]], [[Nandi]], [[Kipsigis]], and other communities whose pastoralist and agricultural systems were disrupted by [[settler colonialism]]. The Rift Valley became the primary location of large settler estates and represented the core of the [[White Highlands]] system.
 
 ## Geography and Climate
 
@@ -77,6 +77,15 @@ European settlement reorganized the Rift Valley's economy from pastoralism and s
 At independence, most Rift Valley land remained in European or settler-descended hands initially. The Million-Acre Scheme purchased some estates for redistribution. Over time, more land was transferred to African smallholders, though large-scale commercial farms persisted.
 
 Contemporary Rift Valley agriculture is mixed: smallholder farms, large commercial estates (many with settler origins), pastoral communities, national parks, and protected areas. The region remains economically significant, though the pattern of ownership and production has changed since colonial times.
+
+## See Also
+
+- [[The White Highlands]]
+- [[Lord Delamere]]
+- [[White Farmers Today]]
+- [[White Highlands and Settler Society]]
+- [[The Squatter System]]
+- [[Settler Families Across Generations]]
 
 ## Sources
 

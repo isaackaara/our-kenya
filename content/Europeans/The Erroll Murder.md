@@ -1,6 +1,6 @@
 # The Erroll Murder
 
-On January 24, 1941, Josslyn Victor Hay, 22nd Earl of Erroll, was found shot dead in his Buick at a crossroads on the Nairobi-Ngong road in colonial Kenya. His murder became one of the most famous unsolved crimes in colonial history, revealing the excess and moral disorder of settler society and becoming the basis for decades of speculation, books, films, and historical investigation.
+On January 24, 1941, [[Josslyn Hay]], 22nd [[Earl of Erroll]], was found shot dead in his Buick at a crossroads on the [[Nairobi-Ngong road]] in [[colonial Kenya]]. His murder became one of the most famous [[unsolved crimes]] in [[colonial history]], revealing the [[excess]] and [[moral disorder]] of [[settler society]] and becoming the basis for decades of speculation, books, films, and historical investigation.
 
 ## The Victim: Josslyn Hay
 
@@ -64,6 +64,15 @@ The murder also marked a turning point. The post-war period brought changing att
 The Erroll murder remains officially unsolved. Broughton's acquittal means he was never convicted, despite being the primary suspect. No other official accusation has been made. The evidence that would be required for modern conviction standards was not gathered or preserved.
 
 The murder has fascinated historians, crime writers, and the public for decades. It represents a particular moment in colonial Kenya: the peak of settler power and privilege combined with moral disorder. The unsolved murder stands as a symbol of the darkness beneath the surface of settler society.
+
+## See Also
+
+- [[Muthaiga Club and White Social Life]]
+- [[The Happy Valley Set]]
+- [[Settler Society in Colonial Kenya]]
+- [[Diana Broughton]]
+- [[Nairobi's Founding]]
+- [[Colonial Elite]]
 
 ## Sources
 

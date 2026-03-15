@@ -1,6 +1,6 @@
 # The Naivasha Flower Farm Community
 
-Lake Naivasha, a freshwater lake in Kenya's Rift Valley (approximately 1,884 meters elevation, 139 square kilometers in area), has undergone a radical transformation in the past four decades. The lake's shores have been increasingly converted from pastoral grazing land and subsistence farming to commercial floriculture, producing cut flowers (primarily roses, carnations, chrysanthemums) for export to European and international supermarkets. This transformation has been largely controlled by white settler farming families and European agricultural corporations, creating a distinctive community of white farm owners and managers operating amid tens of thousands of Kenyan workers.
+[[Lake Naivasha]], a freshwater lake in Kenya's [[Rift Valley]] (approximately 1,884 meters elevation, 139 square kilometers in area), has undergone a radical transformation in the past four decades. The lake's shores have been increasingly converted from [[pastoral grazing land]] and [[subsistence farming]] to [[commercial floriculture]], producing cut flowers (primarily roses, carnations, chrysanthemums) for export to [[European]] and international supermarkets. This transformation has been largely controlled by [[white settler farming families]] and [[European agricultural corporations]], creating a distinctive community of [[white farm owners]] and managers operating amid tens of thousands of Kenyan workers.
 
 ## The Rise of Floriculture at Lake Naivasha
 
@@ -61,6 +61,15 @@ By 2026, the Naivasha flower farm community occupied a distinctive position. The
 White farm owners navigated constant tension between operational costs (which they sought to minimize through lower wages and fewer environmental controls) and international reputational pressure (which demanded higher labor standards and environmental responsibility). Some responded with genuine improvements. Others with minimal compliance and public relations management.
 
 The community also faced ongoing anxieties about political change in Kenya. Periodic talk of land reform, concerns about whether export-agriculture interests would continue to receive state support, and broader questions about whether white economic control of valuable productive sectors remained sustainable all shaped their outlook. Unlike older settler families, the flower farming community had less sentimental attachment to Kenya and more explicit willingness to exit if conditions became less profitable. Several European farm owners had sold holdings in the 2010s-2020s period, citing regulatory pressure, labor unrest, or simply finding more profitable opportunities elsewhere.
+
+## See Also
+
+- [[White Farmers Today]]
+- [[Land in the Rift Valley]]
+- [[Labor in Kenya]]
+- [[Environmental Issues in Contemporary Kenya]]
+- [[Flower Industry in East Africa]]
+- [[Neo-Colonial Economic Systems]]
 
 ## Sources
 

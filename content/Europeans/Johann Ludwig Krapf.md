@@ -4,7 +4,7 @@ Johann Ludwig Krapf (1810-1881) was a German Protestant missionary and explorer 
 
 ## Early Life and Mission Work
 
-Born in 1810 in Württemberg, Krapf trained as a missionary under the Church Missionary Society (CMS). He arrived on the East African coast in 1844 and, working with Johannes Rebmann, established a mission station at Rabai, a small settlement on a ridge above the coastal plain near Mombasa. The choice of Rabai rather than Mombasa itself was deliberate. Mombasa's Arab-Swahili Muslim society and slave trade networks made it hostile to Christian missionary activity. Rabai, inhabited by the Mijikenda, seemed more promising for Christian conversion.
+Born in 1810 in [[Württemberg]], Krapf trained as a missionary under the [[Church Missionary Society]] (CMS). He arrived on the East African coast in 1844 and, working with Johannes Rebmann, established a mission station at Rabai, a small settlement on a ridge above the coastal plain near [[Mombasa]]. The choice of Rabai rather than Mombasa itself was deliberate. Mombasa's Arab-Swahili Muslim society and slave trade networks made it hostile to Christian missionary activity. Rabai, inhabited by the Mijikenda, seemed more promising for Christian conversion.
 
 The Rabai mission was intended to be a beachhead for inland expansion. Krapf and Rebmann learned Swahili and local languages, established schools, and attempted to evangelize. The mission struggled. Few converts were made. Disease and local resistance hampered progress.
 
@@ -37,6 +37,17 @@ Krapf continued missionary work, though in declining health, until his retiremen
 Krapf's significance is threefold. First, he was among the first sustained European presences in Kenya, establishing the institutional foundation (the CMS mission at Rabai) that would expand into a network of missions across Kenya. Second, he provided the first European documentary record of Mount Kenya and important geographic information about the interior. Third, his experience illustrated both the possibilities and limits of 19th-century European exploration in East Africa. He did not conquer or subjugate territory; he negotiated passage and gathered information.
 
 His maps, notebooks, and correspondence became foundational sources for subsequent explorers and colonial administrators. The CMS mission at Rabai became a permanent institution that survives into contemporary Kenya.
+
+## See Also
+
+- [[Church Missionary Society in Kenya]] - CMS institutional history
+- [[Mount Kenya Discovery]] - Geographic exploration
+- [[Explorers and Missionaries]] - Early European presence
+- [[Rabai Mission]] - The mission station he established
+- [[Johannes Rebmann]] - Fellow missionary
+- [[European Settlement Overview]] - Settler context
+- [[East Africa Protectorate]] - Political context of his work
+- [[Missionary Activity in Kenya]] - Broader mission context
 
 ## Sources
 

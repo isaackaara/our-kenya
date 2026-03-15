@@ -1,6 +1,6 @@
 # Ngugi wa Thiong'o on the Settler
 
-Ngugi wa Thiong'o (1938-) is Kenya's most celebrated novelist and a prominent critic of colonialism and European settler presence in Kenya. His literary works, essays, and activism have critiqued the cultural imperialism of colonial narratives and the continuing dominance of European perspectives in global culture. Ngugi's work provides a counter-narrative to settler and European accounts of colonial Kenya.
+[[Ngugi wa Thiong'o]] (1938-) is Kenya's most celebrated [[novelist]] and a prominent critic of [[colonialism]] and [[European settler presence]] in Kenya. His literary works, essays, and activism have critiqued the [[cultural imperialism]] of [[colonial narratives]] and the continuing dominance of [[European perspectives]] in global culture. Ngugi's work provides a counter-narrative to [[settler]] and [[European]] accounts of colonial Kenya.
 
 ## Literary Representation of Settlers
 
@@ -111,6 +111,15 @@ Ngugi's work remains relevant to contemporary debates:
 2. **Cultural Dominance**: His analysis of European cultural imperialism remains apt in an age of global media dominance by Western companies.
 
 3. **Decolonization Incompleteness**: His argument that political independence has not meant genuine decolonization resonates with contemporary post-colonial critiques.
+
+## See Also
+
+- [[Out of Africa and Its Legacy]]
+- [[Settler Nostalgia]]
+- [[Cultural Imperialism]]
+- [[Mau Mau Uprising]]
+- [[Anti-Colonial Resistance]]
+- [[Literary Representations of Kenya]]
 
 ## Sources
 

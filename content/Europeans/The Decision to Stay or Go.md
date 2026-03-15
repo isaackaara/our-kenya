@@ -1,6 +1,6 @@
 # The Decision to Stay or Go
 
-Since Kenya's independence in 1963, successive generations of white Kenyans have faced a recurring decision: whether to remain in Kenya or to emigrate to Britain, other European nations, South Africa, Australia, or elsewhere. This decision, posed initially and most dramatically at independence, has been re-posed to each subsequent generation at moments of political crisis, economic change, or personal transition. The pattern of exodus and settlement has defined white Kenyan history, revealing both commitment and contingency in claims to belonging.
+Since Kenya's [[independence]] in 1963, successive generations of [[white Kenyans]] have faced a recurring decision: whether to remain in Kenya or to [[emigrate]] to [[Britain]], other [[European nations]], [[South Africa]], [[Australia]], or elsewhere. This decision, posed initially and most dramatically at [[independence]], has been re-posed to each subsequent generation at moments of [[political crisis]], [[economic change]], or [[personal transition]]. The pattern of [[exodus]] and [[settlement]] has defined white Kenyan history, revealing both [[commitment]] and [[contingency]] in claims to [[belonging]].
 
 ## The Independence Exodus (1963-1970s)
 
@@ -83,6 +83,15 @@ Some white Kenyans who have emigrated maintain connections to Kenya and contempl
 **Reverse Migration**: Occasional reverse migration occurs, as white Kenyans who emigrated subsequently return to Kenya, bringing capital and skills acquired abroad. These return migrants sometimes view themselves as uniquely positioned (having both Kenyan and foreign experience) to contribute to Kenya's development.
 
 **Second-Home and Tourism**: Some white Kenyans maintain property in Kenya (often converted to tourism operations or holiday homes) even while resident elsewhere. This keeps them connected to Kenya economically and emotionally without requiring full-time residence.
+
+## See Also
+
+- [[White Kenyan Identity in 2026]]
+- [[Settler Families Across Generations]]
+- [[White Kenyans and the 2007-2008 Violence]]
+- [[Settler Nostalgia]]
+- [[The Guilt Inheritance]]
+- [[Pipeline of Independence]]
 
 ## Sources
 

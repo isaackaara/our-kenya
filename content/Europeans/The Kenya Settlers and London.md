@@ -1,6 +1,6 @@
 # The Kenya Settlers and London
 
-European settlers in Kenya maintained close ties to London and lobbied intensively the British Colonial Office to support their interests. Settler delegations traveled to London, hired agents, and leveraged political connections to influence policy on land allocation, labor regulation, and political representation. The settler lobbying campaign was partially successful but was constrained by broader British imperial interests and by post-World War II decolonization pressure.
+[[European settlers]] in Kenya maintained close ties to [[London]] and lobbied intensively the [[British Colonial Office]] to support their interests. [[Settler delegations]] traveled to London, hired agents, and leveraged [[political connections]] to influence policy on [[land allocation]], [[labor regulation]], and [[political representation]]. The settler [[lobbying campaign]] was partially successful but was constrained by broader [[British imperial interests]] and by post-World War II [[decolonization pressure]].
 
 ## Settler Political Organization
 
@@ -67,6 +67,15 @@ This reflected broader patterns of British imperial policy. Britain supported se
 After World War II, settler lobbying became less effective. Decolonization became official British policy. Labor parties and anti-colonial sentiment grew in Britain. Colonial Office officials increasingly saw independence as inevitable.
 
 Settlers, recognizing that political dominance was unachievable, shifted toward advocating for protection of property rights and economic interests in the transition to independence. The "willing buyer, willing seller" principle in Kenya's independence constitution reflected settler success in protecting property, even as they lost political dominance.
+
+## See Also
+
+- [[Lord Delamere]]
+- [[The 1923 Devonshire Declaration]]
+- [[Pipeline of Independence]]
+- [[The Legislative Council]]
+- [[White Highlands and Settler Society]]
+- [[Colonial Administration]]
 
 ## Sources
 

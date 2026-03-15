@@ -52,6 +52,26 @@ Denys Finch Hatton is remembered primarily through Karen Blixen's romanticized l
 
 However, he was also genuinely skilled at what he did (hunting, flying, survival in the African landscape), and he was recognized as intelligent and cultured. His death at 44 cut short a life that might have evolved in various directions, including possibly toward more committed conservation or community work.
 
+## See Also
+
+- [[Karen Blixen]] - His romantic partner and author
+- [[Karen Blixen and the Colonial Myth]] - Literary representation of their relationship
+- [[Out of Africa]] - The memoir featuring Finch Hatton
+- [[Happy Valley Set]] - Settler elite society
+- [[European Settlement Overview]] - Context of settler life
+- [[Safari Hunting in Colonial Kenya]] - Big-game hunting culture
+- [[Plane Crash in 1931]] - The circumstances of his death
+- [[Joy and George Adamson]] - Later conservationists in Kenya
+
+## See Also
+
+- [[Karen Blixen]] - His romantic partner and author
+- [[Karen Blixen and the Colonial Myth]] - Literary representation of their relationship
+- [[Out of Africa]] - The memoir featuring Finch Hatton
+- [[Happy Valley Set]] - Settler elite society
+- [[European Settlement Overview]] - Context of settler life
+- [[Joy and George Adamson]] - Later conservationists in Kenya
+
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Denys_Finch_Hatton

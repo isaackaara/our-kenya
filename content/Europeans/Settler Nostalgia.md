@@ -1,6 +1,6 @@
 # Settler Nostalgia
 
-Settler nostalgia refers to the romanticization and idealization of colonial settler Kenya by former settlers, their descendants, and some British people generally. This nostalgia is expressed through memoirs, country houses, social media, tourism, and cultural production. Settler nostalgia constructs colonial Kenya as beautiful, adventurous, and tragically lost, while downplaying exploitation and dispossession. The phenomenon has cultural and political consequences for contemporary Kenya and British perceptions of colonialism.
+[[Settler nostalgia]] refers to the [[romanticization]] and [[idealization]] of [[colonial settler Kenya]] by [[former settlers]], their [[descendants]], and some [[British people]] generally. This nostalgia is expressed through [[memoirs]], country houses, social media, [[tourism]], and [[cultural production]]. Settler nostalgia constructs colonial Kenya as beautiful, adventurous, and tragically lost, while downplaying [[exploitation]] and [[dispossession]]. The phenomenon has cultural and political consequences for contemporary Kenya and British perceptions of [[colonialism]].
 
 ## Manifestations of Settler Nostalgia
 
@@ -113,6 +113,15 @@ Settler nostalgia remains contested in contemporary Kenya and Britain:
 2. **Whose History**: Debates about whether settler narratives or African narratives should be centered in historical understanding.
 
 3. **Reconciliation vs. Reckoning**: Questions about whether Kenya should emphasize reconciliation and moving forward, or more directly confront and address colonial injustices.
+
+## See Also
+
+- [[Out of Africa and Its Legacy]]
+- [[Settler Families Across Generations]]
+- [[The Guilt Inheritance]]
+- [[Ngugi wa Thiong'o on the Settler]]
+- [[White Kenyan Identity in 2026]]
+- [[The Decision to Stay or Go]]
 
 ## Sources
 

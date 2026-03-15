@@ -1,6 +1,6 @@
 # The British Military Presence
 
-The British Army Training Unit Kenya (BATUK) operates at Nanyuki, in the foothills of Mount Kenya near the Laikipia Plains. BATUK provides training facilities for British (and other Commonwealth) military units. The presence of a foreign military facility on Kenyan soil, decades after independence, remains a symbol of continued British influence and raises ongoing questions about Kenyan sovereignty.
+The [[British Army Training Unit Kenya]] (BATUK) operates at [[Nanyuki]], in the foothills of [[Mount Kenya]] near the [[Laikipia Plains]]. BATUK provides [[training facilities]] for [[British military]] (and other [[Commonwealth]]) units. The presence of a [[foreign military facility]] on Kenyan soil, decades after [[independence]], remains a symbol of continued [[British influence]] and raises ongoing questions about [[Kenyan sovereignty]].
 
 ## Historical Origins and Justification
 
@@ -34,6 +34,11 @@ The fundamental question is whether Kenyan sovereignty is complete when foreign 
 
 The Agnes Wanjiru case suggests that functional sovereignty is constrained. The Kenyan courts eventually asserted authority by issuing arrest warrants, but only after a decade of struggle and only through extraordinary international pressure. The ease with which military personnel could avoid Kenyan law for years suggests that sovereignty, in practice, is incomplete.
 
-## Related
+## See Also
 
-[[White Kenyans Today]] | [[Lancaster House and Departure]] | [[Index]]
+- [[White Kenyans Today]]
+- [[Pipeline of Independence]]
+- [[Lancaster House Conferences]]
+- [[Post-Colonial Kenya]]
+- [[Neo-Colonialism]]
+- [[Agnes Wanjiru Case]]

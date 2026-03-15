@@ -32,6 +32,13 @@ This confidence reflected the security of colonial power. The settlers knew that
 
 By the 1950s, as African nationalism grew and independence approached, the Happy Valley community gradually dispersed. Some settlers left Kenya. Others integrated more cautiously into colonial society. The decadence that had been possible in the 1920s-1940s became less defensible (and less possible) as colonial authority weakened. The community that had seemed immortal in its privilege discovered that empires fall and that settler advantage evaporates when the colonial state ceases to enforce it.
 
-## Related
+## See Also
 
-[[White Highlands and Settler Society]] | [[Karen Blixen and the Colonial Myth]] | [[Lancaster House and Departure]] | [[Index]]
+- [[Happy Valley Set]] - Detailed article on the set
+- [[Josslyn Hay Murder]] - The 1941 scandal
+- [[Karen Blixen]] - Contemporary settler writer
+- [[White Mischief]] - Book and film about the murder
+- [[Wanjohi Valley]] - Geographic location
+- [[European Settlement Overview]] - Settler population context
+- [[Settler Excess and Morality]] - Colonial critique
+- [[Lancaster House and Departure]] - End of settler era

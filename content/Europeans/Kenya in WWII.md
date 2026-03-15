@@ -4,7 +4,7 @@ Kenya was a significant location in World War II, serving as a staging ground fo
 
 ## The East Africa Campaign
 
-When Italy entered World War II (June 1940), Italian forces occupied East Africa and posed a military threat. Britain responded with military campaigns to expel Italian forces from the region.
+When [[Italy]] entered [[World War II]] (June 1940), Italian forces occupied East Africa and posed a military threat. Britain responded with military campaigns to expel Italian forces from the region.
 
 Kenya served as the base for these campaigns:
 
@@ -68,7 +68,18 @@ After World War II ended (1945), Kenya faced readjustment:
 
 ## Historical Significance
 
-Kenya's role in WWII was secondary to major theaters (Europe, North Africa, Asia) but was still significant. The East Africa Campaign ensured that Italy lost East Africa, allowing the expansion of British imperial control.
+Kenya's role in WWII was secondary to major theaters (Europe, North Africa, Asia) but was still significant.
+
+## See Also
+
+- [[Italian Prisoners of War Kenya]] - POW camps and experiences
+- [[East Africa Campaign]] - Military operations
+- [[Camp 354 Nanyuki]] - Major POW camp
+- [[European Settler Participation]] - Settler military service
+- [[Mombasa Port]] - Naval operations
+- [[Kenya's War Economy]] - Economic impacts
+- [[European Settlement Overview]] - Settler context
+- [[Lancaster House and Departure]] - Post-war transition to independence The East Africa Campaign ensured that Italy lost East Africa, allowing the expansion of British imperial control.
 
 The war accelerated some social and economic changes. Military service by African soldiers exposed them to worlds beyond colonialism. The presence of Italian prisoners demonstrated that Europeans were not invincible. The war's disruptions and economic stimulation affected colonial society's stability.
 

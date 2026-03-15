@@ -1,6 +1,6 @@
 # The Scramble for East Africa
 
-The Berlin Conference of 1884-1885 formalised the European partition of Africa. European powers, sitting in Berlin without a single African representative, drew lines on maps and declared them to be borders. Britain secured the territory that would become Kenya and Uganda. The British East Africa Company received a Royal Charter in 1888, granting it the right to administer and exploit territory. This is how empires were created: not through conquest and settlement, but through legal declaration and cartographic assertion.
+The [[Berlin Conference]] of 1884-1885 formalised the [[European partition of Africa]]. [[European powers]], sitting in [[Berlin]] without a single African representative, drew lines on maps and declared them to be borders. [[Britain]] secured the territory that would become [[Kenya]] and [[Uganda]]. The [[British East Africa Company]] received a [[Royal Charter]] in 1888, granting it the right to administer and exploit territory. This is how empires were created: not through conquest and settlement, but through [[legal declaration]] and [[cartographic assertion]].
 
 ## The Berlin Conference (1884-1885)
 
@@ -26,6 +26,11 @@ For its first quarter-century, Kenya was a British Protectorate (which meant Bri
 
 By 1920, this changed. Kenya became a Crown Colony, which meant direct Crown administration without the pretence of protecting local institutions. The White Highlands were formally reserved for European settlement. The legal instruments of segregation were put in place. The partition of 1884-1885, signed in Berlin by unelected Europeans, had become rooted in Kenya's legal order.
 
-## Related
+## See Also
 
-[[The Scramble for East Africa]] | [[White Highlands and Settler Society]] | [[Colonial Administration]] | [[Index]]
+- [[White Highlands and Settler Society]]
+- [[Colonial Administration]]
+- [[The White Highlands]]
+- [[British Colonialism in Kenya]]
+- [[Uganda Railway]]
+- [[The British East Africa Company]]

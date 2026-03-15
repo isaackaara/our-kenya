@@ -4,7 +4,7 @@ A significant Greek community established itself in colonial and post-colonial K
 
 ## Early Greek Arrival
 
-Greeks began arriving in Kenya in significant numbers in the early 1900s, primarily from Greece and from Greek communities in the Mediterranean and Middle East. Many came as traders, merchants, and skilled workers attracted by colonial economic opportunities.
+Greeks began arriving in Kenya in significant numbers in the early 1900s, primarily from [[Greece]] and from Greek communities in the Mediterranean and Middle East. Many came as traders, merchants, and skilled workers attracted by colonial economic opportunities.
 
 Unlike British settlers who acquired land, many Greeks engaged in commerce: import-export trading, retail businesses, and manufacturing. This occupational pattern was partly by choice and partly by exclusion from the settler land system.
 
@@ -109,6 +109,17 @@ Greek presence left marks on Kenya:
 4. **Culinary Influence**: Some Greek food and culinary traditions influenced Kenya, though less visibly than British influence.
 
 5. **Commercial Networks**: Greek-descended families sometimes retain commercial networks and businesses from the colonial era.
+
+## See Also
+
+- [[European Settlement Overview]] - Broader settler context
+- [[Europeans in Kenya Timeline]] - Greek arrival context
+- [[Nairobi Commerce and Trade]] - Economic activities
+- [[Mombasa Commerce]] - Greek trading presence
+- [[Post-Colonial Minorities]] - Greeks in independent Kenya
+- [[Business and Enterprise in Colonial Kenya]] - Economic roles
+- [[European Communities in Kenya]] - Comparative minority groups
+- [[Cultural Heritage in Kenya]] - Greek cultural legacy
 
 ## Sources
 

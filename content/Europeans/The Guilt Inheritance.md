@@ -1,6 +1,6 @@
 # The Guilt Inheritance
 
-A distinctive psychological and moral experience emerges for white Kenyans born into the fourth, fifth, and sixth generations of settler families: the experience of inheriting wealth, land, and privilege that is structurally dependent on historical dispossession, without having personally committed the dispossession. This creates a specific form of guilt, anxiety, and moral dissonance that shapes the psychological world of contemporary white Kenyans in ways both subtle and dramatic.
+A distinctive [[psychological]] and [[moral experience]] emerges for [[white Kenyans]] born into the fourth, fifth, and sixth generations of [[settler families]]: the experience of inheriting [[wealth]], [[land]], and [[privilege]] that is structurally dependent on [[historical dispossession]], without having personally committed the dispossession. This creates a specific form of [[guilt]], [[anxiety]], and [[moral dissonance]] that shapes the psychological world of contemporary white Kenyans in ways both subtle and dramatic.
 
 ## The Structure of the Inheritance
 
@@ -65,6 +65,15 @@ The guilt inheritance framework has limits and dangers:
 In 2026, the guilt inheritance operates alongside renewed demands for land restitution, reparations, and acknowledgment of colonial violence. The Laikipia invasions of 2017 made the guilt inheritance concrete and dangerous: the theoretical question of whether white Kenyans should benefit from dispossessed land became urgent when armed pastoralists broke through ranch fences during a drought. The guilt that some white Kenyans had experienced as abstract moral discomfort became embodied as physical threat.
 
 In this context, the guilt inheritance functions as a destabilizing force for some white Kenyans. They understand their property claims to be morally fragile. They recognize that material redistribution is morally justified even if they resist it politically and economically. This produces a distinctive anxiety about the future: can one maintain inherited property indefinitely when one acknowledges its origin in injustice? How long can white Kenyans hold land against the claims of dispossessed communities? Is exit the only morally coherent path?
+
+## See Also
+
+- [[Paying for Sins of Ancestors]]
+- [[White Privilege in Contemporary Kenya]]
+- [[Settler Families Across Generations]]
+- [[White Kenyan Identity in 2026]]
+- [[Land Restitution by White Kenyans]]
+- [[The White Highlands]]
 
 ## Sources
 

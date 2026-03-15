@@ -1,6 +1,6 @@
 # Land Tenure Reform and Europeans
 
-At independence in 1963, Kenya's European settlers faced a decision: leave Kenya or remain and negotiate a position in independent Africa. The independence constitution protected existing property through the "willing buyer, willing seller" principle, meaning European-owned land could be retained if the owner stayed. However, over subsequent decades, the land tenure system evolved, and European ownership was gradually reduced through the Million-Acre Scheme, market transfers, and policy shifts. This process reshaped land ownership in Kenya while leaving patterns of inequality that persist to the present.
+At [[independence]] in 1963, Kenya's [[European settlers]] faced a decision: leave Kenya or remain and negotiate a position in independent Africa. The independence constitution protected existing property through the "willing buyer, willing seller" principle, meaning European-owned land could be retained if the owner stayed. However, over subsequent decades, the [[land tenure]] system evolved, and European ownership was gradually reduced through the [[Million-Acre Scheme]], market transfers, and policy shifts. This process reshaped land ownership in Kenya while leaving patterns of inequality that persist to the present.
 
 ## The "Willing Buyer, Willing Seller" Principle
 
@@ -77,6 +77,14 @@ Some European settlers or their descendants remained in Kenya after independence
 3. **Business Interests**: Some retained land for commercial purposes (tourism, agribusiness).
 
 Contemporary white Kenyans (both settler-descended and recent arrivals) own or control significant land, though much less than in the colonial period. The question of land ownership remains politically charged, with debates about whether Europeans should own land in Africa.
+
+## See Also
+
+- [[Land Restitution by White Kenyans]]
+- [[The White Highlands]]
+- [[Land in the Rift Valley]]
+- [[Pipeline of Independence]]
+- [[The Decision to Stay or Go]]
 
 ## Sources
 

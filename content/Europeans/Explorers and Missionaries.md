@@ -4,7 +4,7 @@ The first Europeans to see Mount Kenya and Mount Kilimanjaro were not soldiers o
 
 ## The Missionary Argument
 
-European missionaries across Africa articulated a coherent justification for European expansion that became influential across the continent. The formula was: Christianity, Commerce, and Civilisation (sometimes called the "Three C's"). Slavery, they argued, must be replaced. But with what? Christianity would provide moral redemption. Commerce would create economic development. Civilisation would bring order and progress. Together, these three forces would elevate Africa and, incidentally, justify European control.
+European missionaries across Africa articulated a coherent justification for European expansion that became influential across the continent. The formula was: [[Christianity]], [[Commerce]], and [[Civilisation]] (sometimes called the "Three C's"). Slavery, they argued, must be replaced. But with what? Christianity would provide moral redemption. Commerce would create economic development. Civilisation would bring order and progress. Together, these three forces would elevate Africa and, incidentally, justify European control.
 
 This argument was deeply colonial. It assumed that Europe embodied civilisation and that Africa lacked it. It positioned European expansion not as conquest but as humanitarian uplift. And it created permission for violence: if Africans resisted civilisation, force was justified.
 
@@ -26,6 +26,13 @@ Joseph Thomson's expedition through Masailand (1883-1884) was significant becaus
 
 Thomson's gazelle (named by naturalists in his honour) is a reminder that the explorers' legacy is woven into the landscape itself: the species names, the mountain names, the geographic nomenclature, all carry the mark of European discovery and European naming. This act of naming was, itself, an act of claiming.
 
-## Related
+## See Also
 
-[[The Scramble for East Africa]] | [[Colonial Administration]] | [[Index]]
+- [[Johann Ludwig Krapf]] - CMS missionary explorer
+- [[Joseph Thomson]] - Scottish explorer of Maasailand
+- [[Church Missionary Society in Kenya]] - CMS institutional presence
+- [[Frederick Lugard]] - Imperial administrator framework
+- [[Scramble for East Africa]] - Imperial competition for territory
+- [[European Settlement Overview]] - Settler context
+- [[Colonial Administration]] - Administrative outcomes of exploration
+- [[Missionaries and Colonialism]] - Relationship between missionary work and colonialism

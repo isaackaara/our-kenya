@@ -4,7 +4,7 @@ The transition from the East Africa Protectorate (1895-1920) to the Kenya Colony
 
 ## The Protectorate Phase (1895-1920)
 
-The East Africa Protectorate was established in 1895 following the Imperial British East Africa Company's collapse. The protectorate was administered by the British Foreign Office (unlike colonies, which were administered by the Colonial Office). The protectorate's administration was oriented toward strategic control and trade rather than toward settler settlement.
+The [[East Africa Protectorate]] was established in 1895 following the Imperial British East Africa Company's collapse. The protectorate was administered by the British Foreign Office (unlike colonies, which were administered by the Colonial Office). The protectorate's administration was oriented toward strategic control and trade rather than toward settler settlement.
 
 During the protectorate period:
 
@@ -88,7 +88,18 @@ After the Devonshire Declaration, the colony continued to be shaped by tension b
 
 ## Legacy of Protectorate-to-Colony Transition
 
-The transition from protectorate to colony formalized settler colonial Kenya. It institutionalized settler representation and settler economic privilege. However, the colony status also contained contradictions that eventually facilitated decolonization.
+The transition from protectorate to colony formalized settler colonial Kenya. It institutionalized settler representation and settler economic privilege.
+
+## See Also
+
+- [[Crown Lands Ordinance]] - Land policy under both protectorate and colony
+- [[White Highlands]] - The settler territory created
+- [[Colonial Administration]] - Governance structures
+- [[District Commissioners and Indirect Rule]] - Administrative implementation
+- [[Legislative Council]] - Colonial legislature
+- [[Devonshire Declaration]] - 1923 assertion of African interests
+- [[Lancaster House and Departure]] - End of colonial rule
+- [[European Settlement Overview]] - Settler population timeline However, the colony status also contained contradictions that eventually facilitated decolonization.
 
 The Legco, while dominated by settlers, created institutional spaces where African voices (once represented) could organize. The colonial bureaucracy, while primarily European, also trained African administrators. The institutions settlers created to dominate colonialism eventually became the institutions through which Africans claimed independence.
 

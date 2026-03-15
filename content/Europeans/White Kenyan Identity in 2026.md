@@ -1,6 +1,6 @@
 # White Kenyan Identity in 2026
 
-In 2026, white Kenyans exist in a state of ambiguous belonging that has defined their position since independence in 1963. They are Kenyan by citizenship, birth, and often by emotional attachment and long residence. Yet they remain marked as foreign, as outsiders, as the descendants and representatives of colonial dispossession. The question of white Kenyan identity in 2026 remains fundamentally unresolved: are white Kenyans truly Kenyan, or are they expatriates whose presence in Kenya is contingent on politics, economics, and security circumstances?
+In 2026, [[white Kenyans]] exist in a state of [[ambiguous belonging]] that has defined their position since [[independence]] in 1963. They are [[Kenyan]] by [[citizenship]], birth, and often by [[emotional attachment]] and long residence. Yet they remain marked as [[foreign]], as [[outsiders]], as the [[descendants]] and [[representatives]] of [[colonial dispossession]]. The question of [[white Kenyan identity]] in 2026 remains fundamentally unresolved: are white Kenyans truly Kenyan, or are they [[expatriates]] whose presence in Kenya is contingent on [[politics]], [[economics]], and [[security circumstances]]?
 
 ## The Fundamental Ambiguity
 
@@ -91,6 +91,15 @@ For individual white Kenyans, the ambiguous status of their belonging creates di
 **Guilt and Defensiveness**: Some white Kenyans experience guilt related to inherited privilege and historical dispossession. Others respond to criticism of settler history with defensiveness, viewing land justice claims as unjust or impractical. These emotional patterns can create interpersonal friction with Kenyans raising these issues.
 
 **Hybrid Identity**: Some white Kenyans embrace hybrid identity, understanding themselves as genuinely Kenyan yet also connected to European heritage. They may emphasize long family residence in Kenya, commitment to Kenyan development, and integration into Kenyan society while also acknowledging settler heritage. This hybrid identification is more available to those with sufficient security and status to not feel their position as fundamentally threatened.
+
+## See Also
+
+- [[White Kenyans Today]]
+- [[The Guilt Inheritance]]
+- [[Settler Families Across Generations]]
+- [[The Decision to Stay or Go]]
+- [[White Privilege in Contemporary Kenya]]
+- [[Mixed Marriages and Mixed Families]]
 
 ## Sources
 

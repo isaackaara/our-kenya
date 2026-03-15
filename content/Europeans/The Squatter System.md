@@ -1,6 +1,6 @@
 # The Squatter System
 
-The squatter system was the primary mechanism through which African laborers were incorporated into European-owned farms in colonial Kenya. Squatters were African men (and their families) who lived on European estates and provided labor in exchange for the right to cultivate small plots for subsistence and to graze limited livestock. The system was a form of coerced labor that, combined with land alienation, bound African rural populations to European farms. Increasing restrictions on squatter rights in the 1930s-1940s contributed directly to grievances that fueled the Mau Mau Uprising.
+The [[squatter system]] was the primary mechanism through which [[African laborers]] were incorporated into [[European-owned farms]] in [[colonial Kenya]]. [[Squatters]] were [[African men]] (and their families) who lived on [[European estates]] and provided [[labor]] in exchange for the right to cultivate small plots for subsistence and to graze limited [[livestock]]. The system was a form of [[coerced labor]] that, combined with [[land alienation]], bound African rural populations to European farms. Increasing restrictions on squatter rights in the 1930s-1940s contributed directly to [[grievances]] that fueled the [[Mau Mau Uprising]].
 
 ## Origins of the System
 
@@ -85,6 +85,15 @@ At independence, the squatter system was formally abolished. However, the patter
 The Million-Acre Scheme redistributed some European estates to small-scale African farmers, but large commercial farms persisted. For many Kikuyu and other communities, the transition from colonialism did not resolve the underlying issues of land access and control that the squatter system had created.
 
 Contemporary large-scale farms in Kenya (many with origins in colonial-era European estates) still employ permanent laborers with limited ownership or security. The legacy of the squatter system persists in Kenya's contemporary agrarian structure.
+
+## See Also
+
+- [[The White Highlands]]
+- [[Land in the Rift Valley]]
+- [[Mau Mau Uprising]]
+- [[The 1952 Imposition of Emergency]]
+- [[White Highlands and Settler Society]]
+- [[Colonial Labor Systems]]
 
 ## Sources
 

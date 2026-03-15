@@ -4,7 +4,7 @@ During World War II, Kenya held significant numbers of Italian prisoners of war 
 
 ## Italian Defeat in East Africa
 
-Italy entered World War II in June 1940 on the Axis side. Italy held East Africa, including Ethiopia (Abyssinia), Eritrea, and Somalia. British forces in East Africa, including the King's African Rifles (KAR) and other colonial troops, launched campaigns against Italian East Africa.
+Italy entered [[World War II]] in June 1940 on the Axis side. Italy held East Africa, including [[Ethiopia]] (Abyssinia), Eritrea, and Somalia. British forces in East Africa, including the King's African Rifles (KAR) and other colonial troops, launched campaigns against Italian East Africa.
 
 The East Africa Campaign (1940-1941) was relatively short. Italian forces in East Africa were militarily weaker than British forces and were cut off from Italian supply lines and reinforcement. By 1941, Italian forces had been defeated. Thousands of Italian soldiers were captured and needed to be held as prisoners of war.
 
@@ -71,6 +71,17 @@ The Italian POW experience in Kenya represents several historical themes:
 3. **Human Resilience**: The stories of individual POWs (particularly Benuzzi's account) illustrate human capacity to maintain dignity and pursue meaning even in difficult circumstances.
 
 4. **Cultural Legacy**: The Italian Chapel and other artifacts remind contemporary Kenyans and visitors of this specific historical moment.
+
+## See Also
+
+- [[Kenya in WWII]] - Kenya's broader war experience
+- [[Camp 354 Nanyuki]] - POW camp details
+- [[Italian Chapel Nanyuki]] - Cultural legacy
+- [[Felice Benuzzi]] - POW who climbed Mount Kenya
+- [[Mount Kenya]] - Location of the escape climb
+- [[East Africa Campaign]] - Military operations
+- [[European Settlement Overview]] - Settler context
+- [[World War II in East Africa]] - Regional war overview
 
 ## Sources
 

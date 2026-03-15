@@ -4,7 +4,7 @@ Karen Blixen (pen name Isak Dinesen, 1885-1962) was a Danish author who farmed a
 
 ## Life in Kenya
 
-Karen Blixen arrived in Kenya in 1914 when she was 29 years old. She came as the wife of Bror Blixen-Finecke, a Swedish baron with whom she had arranged a marriage. They established a coffee farm at the foot of the Ngong Hills, approximately 16 kilometers southwest of what was then the small colonial outpost of Nairobi.
+Karen Blixen arrived in Kenya in 1914 when she was 29 years old. She came as the wife of Bror Blixen-Finecke, a Swedish baron with whom she had arranged a marriage. They established a coffee farm at the foot of the [[Ngong Hills]], approximately 16 kilometers southwest of what was then the small colonial outpost of [[Nairobi]].
 
 The farm was challenging to operate. Coffee farming in Kenya's conditions required extensive labor and expertise that the Blixens lacked. The farm struggled financially, eventually failing. Karen and Bror's marriage deteriorated. By the 1920s, Karen managed the farm alone, supporting herself through the difficult coffee operation. She also engaged in various business ventures and worked as a writer.
 
@@ -41,7 +41,18 @@ Blixen's writing was skillful and emotionally evocative, and "Out of Africa" is 
 3. Omits or downplays conflict, resistance, and suffering
 4. Creates a nostalgic image of colonial Kenya that obscures the system of land alienation, forced labor, and political domination
 
-Kenyan writers, particularly Ngugi wa Thiong'o, have critiqued the cultural imperialism embedded in works like "Out of Africa." They argue that international audiences' acceptance of Blixen's narrative as authoritative reflects the power differential between European writers and African voices in global literary markets.
+Kenyan writers, particularly [[Ngugi wa Thiong'o]], have critiqued the cultural imperialism embedded in works like "Out of Africa." They argue that international audiences' acceptance of Blixen's narrative as authoritative reflects the power differential between European writers and African voices in global literary markets.
+
+## See Also
+
+- [[Karen Blixen and the Colonial Myth]] - Analysis of her literary impact
+- [[Out of Africa]] - The memoir
+- [[Denys Finch Hatton]] - Her romantic partner
+- [[Karen Blixen Museum]] - Museum at her farm
+- [[Elspeth Huxley]] - Contemporary settler chronicler
+- [[Ngong Hills]] - Location of her farm
+- [[Happy Valley Set]] - Settler elite society
+- [[Post-Colonial Critiques of Blixen]] - African literary responses
 
 Blixen herself claimed not to be a political writer. She insisted that "Out of Africa" was a personal, literary work, not a historical account. However, literary works are also historical interventions. The international influence of "Out of Africa" means that many people's first impression of Kenya, of colonialism, and of African people came through Blixen's romantic narrative.
 

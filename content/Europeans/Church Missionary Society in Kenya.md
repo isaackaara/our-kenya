@@ -4,7 +4,7 @@ The Church Missionary Society (CMS) was the dominant Protestant missionary organ
 
 ## Early Presence and Establishment
 
-The CMS began its work on the Kenya coast with Johann Ludwig Krapf and Johannes Rebmann in the 1840s, establishing Rabai as the first mainland mission station in 1844. This coastal presence remained limited for decades, constrained by Islamic dominance of the coastal society and limited opportunities for conversion.
+The CMS began its work on the Kenya coast with [[Johann Ludwig Krapf]] and Johannes Rebmann in the 1840s, establishing Rabai as the first mainland mission station in 1844. This coastal presence remained limited for decades, constrained by Islamic dominance of the coastal society and limited opportunities for conversion.
 
 The interior expansion came later. The CMS established missions among the Kikuyu in the 1890s. The Kikuyu Mission, formally established in 1898 at Kikuyu, became the society's most significant Kenyan station. It was located strategically near contemporary Nairobi and adjacent to the Kikuyu heartland. The mission combined evangelism with education, establishing schools that would become central to Kikuyu social mobility and colonial administration.
 
@@ -48,7 +48,18 @@ However, the schools also created divisions. Educated Africans from CMS schools 
 
 ## Post-Independence Transformation
 
-At independence, the CMS transferred formal ownership of many schools and churches to independent African church bodies and government agencies. Schools became government schools or were incorporated into independent church structures. The CMS's monopoly on mission education ended as other organizations expanded, and as the post-independence Kenyan state took over education provision.
+At independence, the CMS transferred formal ownership of many schools and churches to independent African church bodies and government agencies.
+
+## See Also
+
+- [[Johann Ludwig Krapf]] - CMS missionary and Mount Kenya discoverer
+- [[Church of Scotland Mission]] - Rival Protestant mission organization
+- [[Missionaries and Evangelism in Kenya]] - Broader mission context
+- [[Education in Colonial Kenya]] - Mission schools' role
+- [[European Settlement Overview]] - Context of European presence
+- [[Colonial Administration]] - Relationship between missions and colonial rule
+- [[Female Circumcision Controversy]] - Major conflict with Kikuyu culture
+- [[Kikuyu Christianity]] - Effects on Kikuyu communities Schools became government schools or were incorporated into independent church structures. The CMS's monopoly on mission education ended as other organizations expanded, and as the post-independence Kenyan state took over education provision.
 
 The CMS institutional presence in Kenya declined after independence as missionaries left or reduced their roles. However, the churches and schools CMS established remained significant. Many contemporary Kenya churches trace their origins to CMS missions, and the educational systems CMS pioneered became templates for post-independence schooling.
 

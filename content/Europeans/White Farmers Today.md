@@ -1,6 +1,6 @@
 # White Farmers Today
 
-White-owned farms and conservancies remain significant landholders in Kenya as of 2026, particularly in the Laikipia Plateau region and scattered throughout the Rift Valley highlands. These holdings represent a continuation of settler colonial land appropriation, now reframed as conservation projects. The 2017 land invasions by pastoralist communities(Pokot, Samburu, and others) revealed the precarity of white land ownership in contemporary Kenya and the unresolved questions of historical dispossession and contemporary justice.
+[[White-owned farms]] and [[conservancies]] remain significant landholders in Kenya as of 2026, particularly in the [[Laikipia Plateau]] region and scattered throughout the [[Rift Valley]] highlands. These holdings represent a continuation of [[settler colonial]] [[land appropriation]], now reframed as [[conservation projects]]. The [[2017 land invasions]] by [[pastoralist communities]] (Pokot, Samburu, and others) revealed the [[precarity]] of white land ownership in contemporary Kenya and the unresolved questions of [[historical dispossession]] and contemporary justice.
 
 ## Key Facts
 
@@ -147,6 +147,11 @@ As of 2026:
 - Land reform and restitution remain contested and largely unimplemented
 - White farmers report ongoing insecurity but have not massively divested
 
-## Related
+## See Also
 
-[[../Conservation/White Conservancies]] | [[Lord Delamere]] | [[White Highlands and Settler Society]] | [[Pokot]]
+- [[Lord Delamere]]
+- [[White Highlands and Settler Society]]
+- [[Land in the Rift Valley]]
+- [[White Privilege in Contemporary Kenya]]
+- [[The 2017 Laikipia Invasions]]
+- [[Land Restitution by White Kenyans]]

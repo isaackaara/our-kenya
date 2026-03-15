@@ -1,6 +1,6 @@
 # The White Highlands
 
-The White Highlands were a legally defined territory in the highlands of Kenya (primarily the Rift Valley and Central Province) reserved exclusively for European ownership and settlement under colonial law. This system represented one of the most deliberate land appropriations in colonial African history, dispossessing African communities and creating a spatial order that lasted for six decades.
+The [[White Highlands]] were a legally defined territory in the highlands of Kenya (primarily the [[Rift Valley]] and [[Central Province]]) reserved exclusively for [[European ownership]] and [[European settlement]] under [[colonial law]]. This system represented one of the most deliberate [[land appropriations]] in [[colonial African history]], [[dispossessing]] [[African communities]] and creating a [[spatial order]] that lasted for six decades.
 
 ## Definition and Boundaries
 
@@ -84,6 +84,15 @@ At independence in 1963, the White Highlands remained largely under European own
 The Million-Acre Scheme (1961-1972) used British development funding to purchase European-owned estates and redistribute them to African (particularly Kikuyu) smallholders. This gradual transfer avoided violent seizure but meant that land took decades to change hands. By the 1970s, the geographic category of "White Highlands" had lost its legal meaning, but it remained significant as a symbol of colonial dispossession and a site of contested land claims.
 
 Contemporary Kenya still bears the spatial legacy of the White Highlands system. Large-scale commercial farms and ranches in the Rift Valley, many with European origins and previous European owners, remain significant economic actors. Kikuyu land pressure, resentment of land concentration, and pastoralist-agriculturalist conflicts in the Rift Valley all have roots in the White Highlands system.
+
+## See Also
+
+- [[Land in the Rift Valley]]
+- [[White Highlands and Settler Society]]
+- [[The Squatter System]]
+- [[Maasai Land Dispossession]]
+- [[The Scramble for East Africa]]
+- [[White Farmers Today]]
 
 ## Sources
 

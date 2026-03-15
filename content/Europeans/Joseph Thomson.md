@@ -4,7 +4,7 @@ Joseph Thomson (1858-1894) was a Scottish geologist and explorer whose 1882-1883
 
 ## Early Career and the Central African Expedition
 
-Thomson was born in Roxburghshire, Scotland, and studied geology before joining the Royal Geographic Society as a young man. His first major expedition was to central Africa (1879-1880) in the Shire Highlands region (present-day Malawi), where he conducted geological surveys and gathered geographic information. This early success established his reputation for careful observation and diligent note-taking.
+Thomson was born in [[Roxburghshire]], Scotland, and studied geology before joining the [[Royal Geographic Society]] as a young man. His first major expedition was to central Africa (1879-1880) in the Shire Highlands region (present-day Malawi), where he conducted geological surveys and gathered geographic information. This early success established his reputation for careful observation and diligent note-taking.
 
 The CMS and the Royal Geographic Society recognized in Thomson a capable explorer and scientist. In 1882, the Royal Geographic Society commissioned him to lead an expedition to find the shortest possible route from the East African coast to Uganda. The challenge was not navigating the distance but passing through the territory of the Maasai, who had historically resisted and sometimes violently rejected European passage.
 
@@ -41,6 +41,17 @@ He died in 1894 at age 37, having lived only a dozen years after his most famous
 Thomson's legacy is complex. He was a skilled scientist and explorer, and his careful observations contributed genuine geographic knowledge. His diplomatic approach to Maasai passage demonstrated that European movement did not require conquest. However, his maps and reports also fed into imperial ambitions to colonize East Africa. His demonstration that the interior was accessible to Europeans and contained valuable resources made it a target for colonial settlement. The treaty negotiations and "peaceful" passages he pioneered became templates for the colonial administration that followed, even though Thomson himself likely did not anticipate settler colonization.
 
 His name lives on geographically: Thomson's Falls (now Nyahururu) was named after him, and the region became the site of European settlement. More broadly, his work exemplifies the role of geographic knowledge production in imperial expansion. Even without military conquest, scientific exploration opened the way for colonization.
+
+## See Also
+
+- [[Explorers and Missionaries]] - Early European presence
+- [[Maasailand]] - Territory he explored
+- [[Geographic Exploration and Colonialism]] - Knowledge-power relationship
+- [[Royal Geographic Society]] - Organization that commissioned him
+- [[European Settlement Overview]] - Settlement that followed exploration
+- [[Thomson's Gazelle]] - Species named after him
+- [[East Africa Protectorate]] - Political entity from his era
+- [[Through Masai Land]] - His published account
 
 ## Sources
 

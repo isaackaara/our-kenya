@@ -1,6 +1,6 @@
 # White Highlands and Settler Society
 
-The "White Highlands" designation referred to the most fertile and temperate regions of colonial Kenya, formally reserved for European settlement and agricultural development. The Crown Lands Ordinance (1915) legalised this exclusion, barring Africans and Asians from owning land in the highlands. Between 1903 and 1930, approximately 12,000 European settlers acquired roughly 7 million acres (about 28,000 square kilometres) of the most valuable land in Kenya. This was not land that Europeans conquered or cleared from wilderness. It was land that was already in use by African pastoral and agricultural communities, seized by the colonial state and sold to European settlers.
+The "[[White Highlands]]" designation referred to the most fertile and temperate regions of [[colonial Kenya]], formally reserved for [[European settlement]] and [[agricultural development]]. The [[Crown Lands Ordinance]] (1915) legalised this [[exclusion]], barring [[Africans]] and [[Asians]] from owning land in the highlands. Between 1903 and 1930, approximately 12,000 [[European settlers]] acquired roughly 7 million acres (about 28,000 square kilometres) of the most valuable land in Kenya. This was not land that Europeans conquered or cleared from wilderness. It was land that was already in use by [[African pastoral]] and [[agricultural communities]], seized by the [[colonial state]] and sold to European settlers.
 
 ## Lord Delamere and Settler Dominance
 
@@ -30,6 +30,11 @@ By the 1950s, as African nationalism accelerated, the question of settler land o
 
 This question would define the independence negotiations and the decades after. It remains unresolved.
 
-## Related
+## See Also
 
-[[The Scramble for East Africa]] | [[Colonial Administration]] | [[Lancaster House and Departure]] | [[White Kenyans Today]] | [[Index]]
+- [[The Scramble for East Africa]]
+- [[Colonial Administration]]
+- [[Lord Delamere]]
+- [[The White Highlands]]
+- [[Land in the Rift Valley]]
+- [[White Farmers Today]]

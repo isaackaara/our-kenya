@@ -1,6 +1,6 @@
 # Nairobi's Founding
 
-Nairobi was established in 1899 as a railway camp at a swampy crossing point (the name derives from the Maasai word for cold water). The Uganda Railway (British East Africa Railway) chose the site for its central location and elevation. What began as a temporary railway camp gradually became the colonial administration's capital, eventually becoming Kenya's major city and East Africa's primary urban center.
+[[Nairobi]] was established in 1899 as a [[railway camp]] at a swampy crossing point (the name derives from the [[Maasai]] word for cold water). The [[Uganda Railway]] (British East Africa Railway) chose the site for its central location and elevation. What began as a temporary [[railway camp]] gradually became the [[colonial administration]]'s capital, eventually becoming Kenya's major city and East Africa's primary urban center.
 
 ## Origin as Railway Camp
 
@@ -85,6 +85,15 @@ Contemporary Nairobi is East Africa's largest and most developed city. However, 
 3. **Power Concentration**: Nairobi remains the site of national political and economic power, as it was in the colonial era.
 
 4. **Heritage Sites**: Colonial-era buildings and institutions are preserved as heritage sites, tourist attractions, and museums.
+
+## See Also
+
+- [[Muthaiga Club and White Social Life]]
+- [[Colonial Administration]]
+- [[The Scramble for East Africa]]
+- [[The Uganda Railway]]
+- [[Nairobi's Segregation]]
+- [[Europeans in Kenya Timeline]]
 
 ## Sources
 

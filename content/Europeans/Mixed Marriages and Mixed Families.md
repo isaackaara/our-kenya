@@ -1,6 +1,6 @@
 # Mixed Marriages and Mixed Families
 
-Over the course of the 20th and early 21st centuries, some European settler families in Kenya intermarried with Kenyans of various backgrounds, creating children and grandchildren with complex, multi-layered identities that complicate simple categories of "settler" or "Kenyan." These unions occurred across ethnic, racial, religious, and class boundaries, though always against significant social resistance from both colonial-era and post-colonial communities.
+Over the course of the 20th and early 21st centuries, some [[European settler]] families in Kenya intermarried with [[Kenyans]] of various backgrounds, creating children and grandchildren with complex, multi-layered identities that complicate simple categories of "[[settler]]" or "Kenyan." These unions occurred across [[ethnic]], [[racial]], [[religious]], and class boundaries, though always against significant social resistance from both [[colonial-era]] and post-colonial communities.
 
 ## The Colonial Prohibition on Intermarriage
 
@@ -75,6 +75,15 @@ By 2026, mixed-heritage individuals born from European-Kenyan unions occupy mult
 **Professional Integration**: Mixed-heritage professionals in law, medicine, business, and academia generally experience acceptance (or at least lack of explicit discrimination) in professional settings. Class and professional status matter more than heritage in determining professional opportunity.
 
 **Physical Appearance and Colorism**: Lighter-skinned mixed-heritage individuals benefit from colorism in Kenyan and regional contexts, facing fewer barriers to professional or social advancement than darker-skinned individuals. This creates troubling dynamics within mixed-heritage communities, where phenotype and colorism persist as bases of social hierarchy.
+
+## See Also
+
+- [[White Kenyan Identity in 2026]]
+- [[Settler Families Across Generations]]
+- [[White Privilege in Contemporary Kenya]]
+- [[The Decision to Stay or Go]]
+- [[Settler Nostalgia]]
+- [[Out of Africa and Its Legacy]]
 
 ## Sources
 

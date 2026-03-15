@@ -2,6 +2,8 @@
 
 A comprehensive knowledge graph of European (British, Boer, Italian, Greek, and other) presence in Kenya's history from early explorers through post-independence.
 
+[[This is an Index page - see the links below for detailed articles.]]
+
 ## Overview and Identity
 
 - [[European Settlement Overview]] - Timeline and population dynamics

@@ -4,7 +4,7 @@ Baroness Karen Christentze von Blixen-Finecke (pen name Isak Dinesen) owned a 4,
 
 ## The Farm and Financial Failure
 
-Blixen's farm was not a success. Coffee farming in Kenya required capital, knowledge, and fortune. The farm faced: low coffee prices (especially after the 1929 crash), pests and disease, labour challenges, and Blixen's own lack of agricultural expertise. By 1931, the farm was bankrupt. Blixen, now divorced from her husband (Baron Bror Finecke), had to leave Kenya. She departed having lost her investment and her home.
+Blixen's farm was not a success. Coffee farming in Kenya required capital, knowledge, and fortune. Her farm was located in the [[Ngong Hills]] region southwest of [[Nairobi]]. The farm faced: low coffee prices (especially after the 1929 crash), pests and disease, labour challenges, and Blixen's own lack of agricultural expertise. By 1931, the farm was bankrupt. Blixen, now divorced from her husband (Baron Bror Finecke), had to leave Kenya. She departed having lost her investment and her home.
 
 The financial failure is important because it colours the memoir that followed. Blixen did not write about Kenya from a position of settler triumph but from one of romantic loss. She was not the victor but the person who had tried and failed. This gave her writing a melancholy tone that appealed to readers.
 
@@ -36,6 +36,13 @@ Blixen's legacy is complex. As a writer, she produced work of genuine literary m
 
 Understanding Blixen is essential to understanding how colonialism justified itself: through stories of beauty, tragedy, and the inevitability of cultural change. These stories are powerful. They make colonialism seem like something that happened, that was regrettable but inevitable, rather than something that was chosen and imposed by force.
 
-## Related
+## See Also
 
-[[Happy Valley]] | [[White Highlands and Settler Society]] | [[Colonial Administration]] | [[White Kenyans Today]] | [[Index]]
+- [[Karen Blixen]] - Biographical article
+- [[Out of Africa]] - The memoir
+- [[Happy Valley Set]] - Contemporary settler society
+- [[Denys Finch Hatton]] - Her romantic partner
+- [[Karen Blixen Museum]] - Museum at her farm
+- [[Ngong Hills]] - Location of her farm
+- [[Elspeth Huxley]] - Contemporary settler chronicler
+- [[Settler Nostalgia and Romanticism]] - Critique of colonial narratives

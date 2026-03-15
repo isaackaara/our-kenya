@@ -4,7 +4,7 @@ The District Commissioner (DC) system was the backbone of colonial administratio
 
 ## The District Commissioner as Autocrat
 
-A District Commissioner might govern an area of thousands of square kilometres and populations of 50,000 or more. His authority was vast: he could tax (hut tax, poll tax), he could make regulations (with some constraints from the colonial Secretary of State), he could adjudicate disputes, he could command military force, he could exile troublemakers. In practice, the DC was a near-absolute ruler in his district.
+A District Commissioner might govern an area of thousands of square kilometres and populations of 50,000 or more. The DC reported to the Provincial Commissioner and ultimately to the [[Governor]], implementing both local and imperial policy. His authority was vast: he could tax (hut tax, poll tax), he could make regulations (with some constraints from the colonial Secretary of State), he could adjudicate disputes, he could command military force, he could exile troublemakers. In practice, the DC was a near-absolute ruler in his district.
 
 The DC system worked because it was supported by: the myth of impartial British justice, the prestige of colonial authority, the willingness of local elites to collaborate (and benefit) from colonial rule, and the credible threat of violence. When a DC's authority was questioned, the colonial state deployed military force. The 1952-1960 Mau Mau uprising, for instance, was met with overwhelming military violence, collective punishments, and detention camps.
 
@@ -40,6 +40,13 @@ But violence extended beyond formal emergencies. DCs could order flogging, impri
 
 Despite the reality of coercion and violence, the DC system was cloaked in the myth of British justice. DCs spoke of impartial adjudication, rule of law, and good administration. They positioned themselves as defenders of African welfare against the worst excesses of settler farmers. There was, in some instances, an element of truth (some DCs were genuinely concerned with African welfare and critical of settler practices). But this was marginal to the core function: the DC system existed to maintain colonial rule and extract value from African territory and labour.
 
-## Related
+## See Also
 
-[[The Scramble for East Africa]] | [[White Highlands and Settler Society]] | [[Lancaster House and Departure]] | [[Index]]
+- [[District Commissioners and Indirect Rule]] - The DC system in detail
+- [[Frederick Lugard]] - Originator of Indirect Rule theory
+- [[John Ainsworth]] - Early colonial administrator in Kenya
+- [[Hut Tax and Labor Extraction]] - Economic mechanisms of control
+- [[Crown Lands Ordinance]] - Land policy foundations
+- [[Mau Mau Uprising]] - Resistance to colonial control
+- [[East Africa Protectorate to Colony]] - Administrative structure evolution
+- [[Lancaster House and Departure]] - End of colonial rule

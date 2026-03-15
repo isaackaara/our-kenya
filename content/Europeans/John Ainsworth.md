@@ -4,7 +4,7 @@ John Ainsworth (1864-1946) was one of the most significant British colonial admi
 
 ## Early Career and Appointment
 
-Ainsworth arrived in East Africa in 1887 and initially worked for the Imperial British East Africa Company (IBEA Company) as a soldier and administrator. When the IBEA Company's influence waned and the British government took direct control of the East Africa Protectorate, Ainsworth transitioned into the colonial administration.
+Ainsworth arrived in East Africa in 1887 and initially worked for the [[Imperial British East Africa Company]] (IBEA Company) as a soldier and administrator. When the IBEA Company's influence waned and the British government took direct control of the East Africa Protectorate, Ainsworth transitioned into the colonial administration.
 
 In the early 1890s, Ainsworth was appointed to oversee the Kikuyu region, one of the most densely populated and agriculturally productive areas of the interior. This region was central to British colonial ambitions because it was adjacent to proposed railway routes and contained resources (fertile land, forest) that European settlers coveted.
 
@@ -41,7 +41,18 @@ He developed complex relationships with Kikuyu leaders and chiefs. Some worked c
 
 Ainsworth continued in colonial administration into the 1920s and 1930s, holding senior positions in the Provincial administration. He was present during the consolidation of settler dominance and witnessed (and facilitated) the transformation of the Kikuyu region from autonomous communities into a colonized territory with restricted land, wage labor, and colonial taxation.
 
-He retired from the colonial service in the late 1920s or early 1930s and spent his later years in Kenya or Britain. He lived until 1946, dying as World War II was ending and before the Mau Mau Uprising (which would be a direct consequence of the land dispossession and colonial control systems he had implemented).
+He retired from the colonial service in the late 1920s or early 1930s and spent his later years in Kenya or Britain. He lived until 1946, dying as World War II was ending and before the [[Mau Mau Uprising]] (which would be a direct consequence of the land dispossession and colonial control systems he had implemented).
+
+## See Also
+
+- [[District Commissioners and Indirect Rule]] - DC system he administered
+- [[Frederick Lugard]] - Theoretical framework (Indirect Rule)
+- [[Colonial Administration]] - Administrative context
+- [[Crown Lands Ordinance]] - Land policy he implemented
+- [[Kikuyu Displacement]] - His impact on communities
+- [[Uganda Railway]] - Infrastructure he supported
+- [[East Africa Protectorate to Colony]] - Administrative evolution
+- [[Mau Mau Uprising]] - Consequence of his policies
 
 Ainsworth's role in Kenya's colonial administration is significant but less celebrated than that of figures like Lord Delamere (the settler leader) or Karen Blixen (the cultural figure). Yet his administrative decisions and implementations had profound consequences for Kikuyu people and for Kenya's political economy. The colonial land system, the labor regime, and the administrative structure he helped establish persisted for six decades and shaped Kenya's post-independence politics.
 

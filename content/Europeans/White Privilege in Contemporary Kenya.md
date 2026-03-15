@@ -1,6 +1,6 @@
 # White Privilege in Contemporary Kenya
 
-White Kenyans and European expatriates in contemporary Kenya experience privilege in various contexts despite political marginalization. Access to resources, services, spaces, and social networks often differs based on race/ethnicity. This privilege is sometimes invisible to those experiencing it, sometimes acknowledged and critiqued, and sometimes defended as merit-based rather than race-based.
+[[White Kenyans]] and [[European expatriates]] in contemporary Kenya experience [[privilege]] in various contexts despite [[political marginalization]]. Access to [[resources]], [[services]], [[spaces]], and [[social networks]] often differs based on [[race]]/[[ethnicity]]. This privilege is sometimes [[invisible]] to those experiencing it, sometimes [[acknowledged]] and [[critiqued]], and sometimes [[defended]] as [[merit-based]] rather than [[race-based]].
 
 ## Economic Privilege
 
@@ -97,6 +97,15 @@ Scholars and commentators argue:
 3. **Complexity**: Privilege is not absolute or unidirectional; it coexists with political exclusion and varying degrees of acceptance/rejection.
 
 4. **Awareness Needed**: Greater awareness of white privilege among white Kenyans could support more equitable relationships and distribution of resources.
+
+## See Also
+
+- [[White Kenyan Identity in 2026]]
+- [[The Guilt Inheritance]]
+- [[White Kenyans Today]]
+- [[Land Restitution by White Kenyans]]
+- [[Paying for Sins of Ancestors]]
+- [[Settler Families Across Generations]]
 
 ## Sources
 

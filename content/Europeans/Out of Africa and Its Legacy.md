@@ -1,6 +1,6 @@
 # Out of Africa and Its Legacy
 
-Karen Blixen's memoir "Out of Africa" (1937) and the 1985 film adaptation shaped international perceptions of colonial Kenya profoundly. The book and film romanticized European settlement and presented Africa through a European lens, creating influential (but distorted) narratives about colonialism, environment, and African people. The cultural impact persists, influencing how millions of people understand Kenya and colonialism.
+[[Karen Blixen]]'s memoir "Out of Africa" (1937) and the 1985 [[film adaptation]] shaped international perceptions of [[colonial Kenya]] profoundly. The book and film romanticized [[European settlement]] and presented Africa through a [[European lens]], creating influential (but distorted) narratives about [[colonialism]], environment, and [[African people]]. The cultural impact persists, influencing how millions of people understand Kenya and colonialism.
 
 ## The Memoir and Film
 
@@ -99,6 +99,15 @@ Contemporary Kenyan scholars, writers, and cultural producers are working to ref
 4. **Museum Reinterpretation**: Some efforts are underway to reinterpret colonial sites and museums from more critical perspectives.
 
 These efforts attempt to create space for African voices and perspectives alongside (and potentially displacing) European colonial narratives.
+
+## See Also
+
+- [[Ngugi wa Thiong'o on the Settler]]
+- [[Settler Nostalgia]]
+- [[Denys Finch Hatton]]
+- [[Cultural Imperialism in Kenya]]
+- [[Tourism and Colonial Narratives]]
+- [[Karen Blixen]]
 
 ## Sources
 

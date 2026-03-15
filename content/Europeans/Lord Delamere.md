@@ -1,6 +1,6 @@
 # Lord Delamere
 
-Hugh Cholmondeley, 3rd Baron Delamere (1870-1931), was the most influential European settler in Kenya's history. He arrived in 1897, acquired vast tracts of land in the Rift Valley, pioneered large-scale European agriculture in the highlands, and became the political leader of the settler community. His vision of Kenya as a "white man's country" with reserved lands for European settlement shaped colonial land policy and created resentment that would fuel anti-colonial resistance.
+[[Hugh Cholmondeley]], 3rd Baron Delamere (1870-1931), was the most influential [[European settler]] in Kenya's history. He arrived in 1897, acquired vast tracts of land in the [[Rift Valley]], pioneered large-scale [[European agriculture]] in the highlands, and became the political leader of the [[settler community]]. His vision of Kenya as a "white man's country" with reserved lands for [[European settlement]] shaped [[colonial land policy]] and created resentment that would fuel [[anti-colonial resistance]].
 
 ## Early Life and Arrival
 
@@ -66,6 +66,14 @@ Delamere is remembered in different ways:
 Historians generally emphasize that Delamere's activities were transformative and consequential. He was not a passive farmer; he was an active architect of settler colonialism, using his wealth and title to influence policy, acquire land, and advocate for a Kenya organized around European interests.
 
 His life illustrates how settler colonialism functioned in Kenya: through individuals with wealth and political access who worked with colonial administrations to transform land ownership, labor systems, and political power. Delamere was the most prominent settler, but his model was replicated by hundreds of other Europeans who arrived in Kenya during the settler era.
+
+## See Also
+
+- [[The White Highlands]]
+- [[Land in the Rift Valley]]
+- [[White Highlands and Settler Society]]
+- [[The 1923 Devonshire Declaration]]
+- [[Settler Families Across Generations]]
 
 ## Sources
 

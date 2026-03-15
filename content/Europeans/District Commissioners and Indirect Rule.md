@@ -4,7 +4,7 @@ The District Commissioner (DC) was the central figure in Kenya's colonial admini
 
 ## The DC System
 
-Kenya was divided into districts, each administered by a British District Commissioner. Early DCs included figures like John Ainsworth. DCs were responsible for all administrative functions in their districts: law and order, taxation, road maintenance, education oversight, and implementation of colonial policies.
+Kenya was divided into districts, each administered by a British District Commissioner. Early DCs included figures like [[John Ainsworth]]. DCs were responsible for all administrative functions in their districts: law and order, taxation, road maintenance, education oversight, and implementation of colonial policies.
 
 DCs wielded substantial authority. They could:
 
@@ -74,6 +74,17 @@ The Emergency intensified DC power and revealed the coercive capacity of the DC 
 The DC system continued after independence, though with African District Commissioners replacing British DCs. The basic structure of district administration through appointed local leaders persisted.
 
 Contemporary Kenya retains district administrative divisions and has District Commissioners (though the title has changed). The colonial DC system's institutional legacies remain embedded in Kenyan governance.
+
+## See Also
+
+- [[Frederick Lugard]] - Theorist of Indirect Rule
+- [[John Ainsworth]] - Early Kenyan district administrator
+- [[Colonial Administration]] - Overview of colonial governance
+- [[Appointed Chiefs and Indirect Rule]] - Implementation mechanisms
+- [[Mau Mau Uprising]] - Resistance to DC authority
+- [[East Africa Protectorate to Colony]] - Administrative structure
+- [[Hut Tax and Labor Extraction]] - DC enforcement of taxation
+- [[Lancaster House and Departure]] - End of DC rule
 
 ## Sources
 

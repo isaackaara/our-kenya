@@ -1,6 +1,6 @@
 # Paying for Sins of Ancestors
 
-A distinctive dynamic of contemporary white Kenyan experience is being asked, formally and informally, to pay for historical injustices they did not personally commit. White Kenyans born into families that benefited from colonial land dispossession face claims, demands, and pressure to provide restitution, reparations, community contributions, or simply to surrender land and property. This creates a particular form of moral coercion: the demand that one compensate for ancestors' actions, even when one's own personal culpability is limited. This dynamic shapes both material interactions (land disputes, community pressure) and psychological experience (guilt, resentment, anxiety).
+A distinctive dynamic of contemporary [[white Kenyan]] experience is being asked, formally and informally, to pay for historical injustices they did not personally commit. [[White Kenyans]] born into families that benefited from [[colonial land dispossession]] face claims, demands, and pressure to provide [[restitution]], [[reparations]], [[community contributions]], or simply to surrender [[land]] and [[property]]. This creates a particular form of moral coercion: the demand that one compensate for ancestors' actions, even when one's own personal culpability is limited. This dynamic shapes both material interactions (land disputes, community pressure) and psychological experience (guilt, resentment, anxiety).
 
 ## The Structure of the Demand
 
@@ -73,6 +73,15 @@ The 2017 Laikipia invasions represent the most dramatic manifestation of the dyn
 - Fatality (Voorspuy's death) as the ultimate manifestation of the stakes involved
 
 The invasions made clear that the question of whether white Kenyans should "pay" for historical dispossession was not merely moral or rhetorical but material and potentially violent. Communities could and would force the issue through direct action.
+
+## See Also
+
+- [[The Guilt Inheritance]]
+- [[White Privilege in Contemporary Kenya]]
+- [[White Farmers Today]]
+- [[Land Restitution by White Kenyans]]
+- [[The 2017 Laikipia Invasions]]
+- [[Settler Families Across Generations]]
 
 ## Sources
 

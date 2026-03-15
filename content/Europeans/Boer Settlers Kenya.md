@@ -1,6 +1,6 @@
 # Boer Settlers Kenya
 
-After the Anglo-Boer Wars (1899-1902), when British forces defeated the Boer (Afrikaner) republics of South Africa, some Boer families migrated to Kenya seeking refuge from British rule and new opportunities for settlement. The Boers who came to Kenya established themselves primarily in the Uasin Gishu plateau region (now Eldoret's hinterland) in the western highlands. Though numerically smaller than British settlers, the Boers brought distinctive agricultural knowledge and established an enduring Afrikaner community in Kenya.
+After the [[Anglo-Boer Wars]] (1899-1902), when British forces defeated the Boer (Afrikaner) republics of South Africa, some Boer families migrated to Kenya seeking refuge from British rule and new opportunities for settlement. The Boers who came to Kenya established themselves primarily in the Uasin Gishu plateau region (now Eldoret's hinterland) in the western highlands. Though numerically smaller than British settlers, the Boers brought distinctive agricultural knowledge and established an enduring Afrikaner community in Kenya.
 
 ## Anglo-Boer Wars and Migration
 
@@ -67,7 +67,16 @@ The Boer contribution to Eldoret's agriculture and commerce was significant. The
 
 ## Post-Independence
 
-After Kenyan independence in 1963, the Boer settlers faced the same choices as other Europeans: leave Kenya or remain and negotiate a new role in an African-led state.
+After [[Kenyan independence]] in 1963, the Boer settlers faced the same choices as other Europeans: leave Kenya or remain and negotiate a new role in an African-led state.
+
+## See Also
+
+- [[Crown Lands Ordinance]] - Legal mechanism for European land allocation
+- [[White Highlands]] - The reserved territory for European settlement
+- [[European Settlement Overview]] - Timeline of European presence in Kenya
+- [[Eldoret]] - The town founded by Boer settlers
+- [[Europeans who Stayed]] - European choices after independence
+- [[Lancaster House and Departure]] - Independence negotiations and settler exodus
 
 Some Boer families left Kenya and returned to South Africa or migrated to other countries. Others remained, integrating into independent Kenya's economy and society. Boer-descended families remain in the Eldoret region and western Kenya, though they are now Kenyan citizens rather than colonial settlers.
 

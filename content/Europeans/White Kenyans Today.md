@@ -1,6 +1,6 @@
 # White Kenyans Today
 
-Contemporary white Kenyans (estimated 30,000-70,000) are a diverse community comprising settler descendants, professional expatriates, and recent arrivals. This population is far smaller and less politically dominant than colonial-era settlers, but remains economically and culturally significant. The question of whether white Kenyans are truly accepted as Kenyans, or remain expatriates, remains contested.
+Contemporary [[white Kenyans]] (estimated 30,000-70,000) are a diverse community comprising [[settler descendants]], [[professional expatriates]], and [[recent arrivals]]. This population is far smaller and less politically dominant than [[colonial-era settlers]], but remains economically and culturally significant. The question of whether white Kenyans are truly accepted as [[Kenyans]], or remain [[expatriates]], remains contested.
 
 ## Population and Demographics
 
@@ -105,6 +105,15 @@ White Kenyans and the European-descended establishment sometimes respond defensi
 Conversely, Kenyan critics point out that privilege and dominance persisting nearly 60 years after independence suggests that formal decolonization has not translated into substantive African control of the economy or environment.
 
 These tensions reflect the broader incompleteness of decolonization in Kenya and much of Africa.
+
+## See Also
+
+- [[White Kenyan Identity in 2026]]
+- [[White Privilege in Contemporary Kenya]]
+- [[The Decision to Stay or Go]]
+- [[Settler Families Across Generations]]
+- [[Land Restitution by White Kenyans]]
+- [[White Kenyans and the 2007-2008 Violence]]
 
 ## Sources
 

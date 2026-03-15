@@ -4,7 +4,7 @@ While the majority of European settlers left Kenya after independence (1963), a 
 
 ## The Exodus and the Remaining
 
-At independence, approximately 60,000-80,000 Europeans lived in Kenya. In the decade following independence, the vast majority left. By the 1970s, the European population had declined to approximately 25,000-35,000. Contemporary estimates suggest 30,000-70,000 Europeans (including settler descendants, professional expatriates, and recent arrivals) live in Kenya, a much smaller and more diverse community than colonial-era settlers.
+At [[Kenyan independence]], approximately 60,000-80,000 Europeans lived in Kenya. In the decade following independence, the vast majority left. By the 1970s, the European population had declined to approximately 25,000-35,000. Contemporary estimates suggest 30,000-70,000 Europeans (including settler descendants, professional expatriates, and recent arrivals) live in Kenya, a much smaller and more diverse community than colonial-era settlers.
 
 Those who remained included:
 
@@ -74,7 +74,18 @@ The contemporary white Kenyan community is less cohesive and less politically do
 
 ## Critical Perspectives
 
-African scholars and commentators have noted that the departure of most settlers has not ended European influence in Kenya. Land remains concentrated in some European hands. Conservation organizations founded by Europeans control significant land. Business interests remain important.
+African scholars and commentators have noted that the departure of most settlers has not ended European influence in Kenya.
+
+## See Also
+
+- [[Lancaster House and Departure]] - Independence negotiations and exodus
+- [[European Conservation Establishment]] - Conservation organizations
+- [[Laikipia Ranch Families]] - White-owned land holdings
+- [[Karen and Langata Old Families]] - Nairobi suburban settlers
+- [[White Highlands]] - Original settler territory
+- [[Land Restitution Debate]] - Contemporary land questions
+- [[Europeans in Kenya Timeline]] - Historical chronology
+- [[European Settlement Overview]] - Settler population dynamics Land remains concentrated in some European hands. Conservation organizations founded by Europeans control significant land. Business interests remain important.
 
 Some argue that European conservation efforts, though well-intentioned, continue colonial patterns of excluding African communities from land use. The debate over who should benefit from Kenya's natural resources and development remains contested.
 

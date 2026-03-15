@@ -4,7 +4,7 @@ A chronological reference of key dates in European presence in Kenya from first 
 
 ## 1840s-1880s (Explorer Era)
 
-- 1844: Johann Ludwig Krapf establishes CMS mission at Rabai (first mainland mission)
+- 1844: [[Johann Ludwig Krapf]] establishes CMS mission at Rabai (first mainland mission)
 - 1848: Johannes Rebmann becomes first European to see Mount Kilimanjaro
 - 1849: Krapf becomes first European to see Mount Kenya
 - 1880s: Exploration intensifies
@@ -79,6 +79,17 @@ A chronological reference of key dates in European presence in Kenya from first 
 | 1980 | ~25,000 |
 | 2000 | ~30,000-40,000 |
 | 2026 | ~30,000-70,000 (diverse community) |
+
+## See Also
+
+- [[European Settlement Overview]] - Comprehensive overview with context
+- [[Europeans in Kenya]] - Knowledge graph of European presence
+- [[White Highlands]] - Geographic center of settlement
+- [[Crown Lands Ordinance]] - Legal basis for land allocation
+- [[Lancaster House and Departure]] - Independence negotiations
+- [[Europeans who Stayed]] - Post-independence choices
+- [[Laikipia Ranch Families]] - Contemporary settlers
+- [[Land Restitution Debate]] - Contemporary land questions
 
 ## Sources
 

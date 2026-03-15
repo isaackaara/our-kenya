@@ -1,6 +1,6 @@
 # Land Restitution by White Kenyans
 
-While land restitution to dispossessed communities has been limited and incomplete in Kenya, a small number of European settler families and conservation organizations have voluntarily engaged in land return, ownership restructuring, or community partnership arrangements. These cases offer partial models of alternative pathways beyond simple maintenance of inherited settler property claims, though they also reveal the limitations of voluntary restitution as a response to systemic historical injustice.
+While land restitution to dispossessed communities has been limited and incomplete in Kenya, a small number of [[White Farmers Today|European settler families]] and [[conservation]] organizations have voluntarily engaged in land return, ownership restructuring, or [[community partnership]] arrangements. These cases offer partial models of alternative pathways beyond simple maintenance of inherited [[settler]] property claims, though they also reveal the limitations of voluntary restitution as a response to systemic historical injustice.
 
 ## The Lewa Wildlife Conservancy Model
 
@@ -63,6 +63,15 @@ Voluntary restitution by individual settlers, even where undertaken sincerely an
 Kenya's post-independence land reform efforts have been limited and incomplete. The government has pursued some land distribution programs (particularly the Million Acre Scheme and subsequent programs), but these have typically involved purchase of land on market terms rather than expropriation of settler holdings. This means settler landowners retain substantial power to resist distribution of their holdings.
 
 Land reform activism by dispossessed communities and progressive Kenyans has periodically demanded expropriation of settler lands and restitution to communities. The 2017 Laikipia invasions, while not formally organized land reform, represented community-level pressure for recognition of dispossessed rights. Such pressure has pushed some individual settlers toward voluntary engagement with restitution, partly from moral conviction and partly from pragmatic recognition that voluntary accommodation of community demands might be preferable to forcible expropriation.
+
+## See Also
+
+- [[White Farmers Today]]
+- [[The White Highlands]]
+- [[Land Tenure Reform and Europeans]]
+- [[Settler Families Across Generations]]
+- [[Lewa Conservancy]] (conservation partnership model)
+- [[Land in the Rift Valley]]
 
 ## Sources
 

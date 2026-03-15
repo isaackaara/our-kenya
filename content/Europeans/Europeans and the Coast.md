@@ -10,7 +10,7 @@ When Europeans arrived in the late 1800s, they entered an already-developed cult
 
 ## Mombasa and Colonial Development
 
-Mombasa became the primary European colonial presence on the coast:
+[[Mombasa]] became the primary European colonial presence on the coast:
 
 1. **Port Development**: The British developed Mombasa as a colonial port, the key entry point for the Uganda Railway and colonial trade.
 
@@ -90,7 +90,18 @@ The European colonial presence left marks on the coast:
 
 ## Contemporary Coastal Issues
 
-Contemporary coast faces various challenges:
+Contemporary coast faces various challenges.
+
+## See Also
+
+- [[Mombasa]] - Primary coastal city
+- [[Church Missionary Society in Kenya]] - CMS coastal missions
+- [[European Settlement Overview]] - General settlement context
+- [[Swahili Culture and Colonialism]] - Indigenous coastal culture
+- [[Muslims and Colonialism in Kenya]] - Religious resistance to conversion
+- [[Coastal Trade and Commerce]] - Economic activities
+- [[Tourism on the Kenyan Coast]] - Post-independence development
+- [[Lamu]] - Historic coastal town with UNESCO heritage
 
 1. **Development vs. Conservation**: Tourism development pressures coastal ecosystems.
 

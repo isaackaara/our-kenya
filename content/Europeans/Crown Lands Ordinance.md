@@ -4,7 +4,7 @@ The Crown Lands Ordinances of 1902 and 1915 were the legal foundation for Europe
 
 ## The 1902 Ordinance
 
-The first Crown Lands Ordinance was issued in 1902 under Sir Charles Eliot, the Commissioner of the East Africa Protectorate. The ordinance declared all "waste and unoccupied" land in the protectorate to be Crown land. The term "waste and unoccupied" was deliberately vague and expansive, encompassing land used by pastoralists, land in fallows, and land whose use was not immediately visible to European surveyors.
+The first Crown Lands Ordinance was issued in 1902 under Sir Charles Eliot, the Commissioner of the [[East Africa Protectorate]]. The ordinance declared all "waste and unoccupied" land in the protectorate to be Crown land. The term "waste and unoccupied" was deliberately vague and expansive, encompassing land used by pastoralists, land in fallows, and land whose use was not immediately visible to European surveyors.
 
 The 1902 ordinance included crucial provisions:
 
@@ -63,6 +63,17 @@ While the Crown Lands Ordinances allocated land to European settlers, the ordina
 African communities displaced from their lands could live on European-owned land as squatters (resident laborers). They could cultivate small plots for subsistence and graze limited numbers of animals, in exchange for labor on the European estate. This system was regulated and increasingly restrictive.
 
 The Crown Lands system and the squatter system were complementary: land alienation created landless Africans; the squatter system provided a mechanism to control and deploy this landless labor force.
+
+## See Also
+
+- [[White Highlands]] - The territory created by the ordinances
+- [[Squatter System in Kenya]] - Labor system on European farms
+- [[European Settlement Overview]] - Settler land acquisition context
+- [[Mau Mau Uprising]] - Uprising over land dispossession
+- [[Land Restitution Debate]] - Contemporary land justice questions
+- [[East Africa Protectorate to Colony]] - Administrative context
+- [[Boer Settlers Kenya]] - One group benefiting from ordinances
+- [[Lancaster House and Departure]] - Post-independence land transitions
 
 ## Resistance and Challenge
 

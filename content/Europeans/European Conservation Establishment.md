@@ -6,7 +6,7 @@ European-founded and European-led conservation organizations have played major r
 
 ### African Wildlife Foundation (AWF)
 
-The AWF was established in 1961 (before independence) by American conservationists. It has become one of the largest conservation organizations working in Africa. AWF manages large land areas, conducts wildlife research, and works on conservation policy across East Africa.
+The AWF was established in 1961 (before [[Kenyan independence]]) by American conservationists. It has become one of the largest conservation organizations working in Africa. AWF manages large land areas, conducts wildlife research, and works on conservation policy across East Africa.
 
 ### David Sheldrick Wildlife Trust
 
@@ -115,6 +115,17 @@ Others argue it has:
 3. **Distorted Priorities**: Western priorities (wildlife protection, Western tourists) take precedence over local needs.
 
 The truth likely involves elements of both assessment. Conservation has prevented environmental catastrophe, but has also perpetuated external control and community marginalization.
+
+## See Also
+
+- [[Joy and George Adamson]] - Conservation pioneers
+- [[Kuki Gallmann]] - Contemporary conservationist
+- [[Wildlife Conservation in Kenya]] - Broader conservation history
+- [[David Sheldrick Wildlife Trust]] - Individual organization example
+- [[Laikipia Ranch Families]] - Conservation and land conflicts
+- [[Land Restitution Debate]] - Questions about conservation land
+- [[Europeans who Stayed]] - Conservationists remaining post-independence
+- [[Community-Based Conservation]] - Alternative conservation models
 
 ## Sources
 

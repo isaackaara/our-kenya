@@ -4,7 +4,7 @@ Frederick John Dealtry Lugard, First Baron Lugard (1858-1945), was a British imp
 
 ## Early Military Career and Uganda
 
-Lugard began his career as a soldier in the British Army, serving in India and Sudan. In 1889, he was commissioned by the Imperial British East Africa Company (IBEA Company) to establish British influence in Uganda. His task was to extend the company's control over trade routes and prevent rival European powers (particularly Germany and France) from claiming the region.
+Lugard began his career as a soldier in the British Army, serving in India and Sudan. In 1889, he was commissioned by the Imperial British East Africa Company (IBEA Company) to establish British influence in [[Uganda]]. His task was to extend the company's control over trade routes and prevent rival European powers (particularly Germany and France) from claiming the region.
 
 In 1890, Lugard established a military post at Fort Portal in Uganda and worked to secure alliances with Ugandan kingdoms, particularly Buganda. He employed a combination of military force and diplomatic negotiation, establishing British hegemony without direct conquest of the entire territory. His success in Uganda, achieved with relatively small forces and limited resources, established his reputation as an effective imperial agent.
 
@@ -52,7 +52,18 @@ Contemporary historians assess Lugard in varied ways:
 2. Others argue that Indirect Rule was simply colonialism by another name, using co-opted African leaders to mask exploitative control
 3. Still others emphasize that Indirect Rule often strengthened conservative elites, prevented the emergence of more progressive leadership, and distorted African institutions
 
-In Kenya specifically, the use of appointed chiefs and the District Commissioner system created a bureaucratic hierarchy that persisted after independence. Many post-colonial African leaders (including Jomo Kenyatta) had been incorporated into this system during the colonial era, and the institutional structures Lugard's model created outlasted colonialism itself.
+In Kenya specifically, the use of appointed chiefs and the District Commissioner system created a bureaucratic hierarchy that persisted after independence.
+
+## See Also
+
+- [[Indirect Rule System]] - Lugard's administrative philosophy
+- [[District Commissioners and Indirect Rule]] - Kenya implementation
+- [[Colonial Administration]] - Governance structures
+- [[John Ainsworth]] - Early Kenyan administrator
+- [[East Africa Protectorate to Colony]] - Administrative context
+- [[Appointed Chiefs and Headmen]] - Mechanism of indirect rule
+- [[Mau Mau Uprising]] - Resistance to colonial administration
+- [[Lancaster House and Departure]] - End of Lugard-style rule Many post-colonial African leaders (including Jomo Kenyatta) had been incorporated into this system during the colonial era, and the institutional structures Lugard's model created outlasted colonialism itself.
 
 Lugard's intellectual influence on colonial theory and practice was substantial. His writings became standard references for colonial administrators globally, and his ideas about how to govern colonial territories without direct European rule shaped practice across the British Empire.
 

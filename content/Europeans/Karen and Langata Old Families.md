@@ -4,7 +4,7 @@ The Nairobi suburbs of Karen and Langata, situated roughly 15-20 kilometers sout
 
 ## The Colonial Farming Frontier
 
-Karen and Langata were opened to white settlement from the 1900s onward. The names themselves reflect settler presence: Karen was named after Karen Blixen (author of "Out of Africa"), the Danish-born settler whose farm was located in this area. Langata (derived from a Maasai term) became another zone of settler farm consolidation. These areas lay in the Nairobi hinterland, within reasonable distance of the commercial and administrative center but sufficiently distant to maintain significant agricultural land.
+Karen and Langata were opened to white settlement from the 1900s onward. The names themselves reflect settler presence: Karen was named after [[Karen Blixen]] (author of "Out of Africa"), the Danish-born settler whose farm was located in this area. Langata (derived from a Maasai term) became another zone of settler farm consolidation. These areas lay in the [[Nairobi]] hinterland, within reasonable distance of the commercial and administrative center but sufficiently distant to maintain significant agricultural land.
 
 Settler farms in Karen and Langata ranged from 50 to several hundred acres. The landscape was mixed: some farms maintained dairy herds or beef cattle ranching, others focused on wheat, maize, or pyrethrum production. Many farms combined livestock and crops. The settler community that developed in these areas was reasonably diverse in social class (ranging from wealthy landowners to middle-class farmer-families) and nationality (British dominance, but also substantial numbers of Poles, Germans, Greeks, and others).
 
@@ -63,6 +63,17 @@ Intermarriage patterns also shifted. Earlier settler-era norms strongly discoura
 Karen and Langata contain material memory of the settler era: the Karen Blixen Museum, the old settler-era architecture (some preserved, some demolished), street names, place names, institutional history. This creates ongoing tension between nostalgia (celebrating settler heritage, settler accomplishment, settler romance) and historical acknowledgment (that the entire infrastructure rests on dispossession).
 
 The Karen Blixen Museum, in particular, has become a site of contested memory. For some visitors, it represents literary and historical significance, memorializing a significant writer. For others, it represents the romanticization of settler colonialism and glossing over its violence and injustice. The museum has faced periodic pressure to add more explicit context about dispossession and Blixen's own complex relationship with colonialism.
+
+## See Also
+
+- [[Karen Blixen]] - Namesake of Karen suburb
+- [[Karen Blixen Museum]] - Museum in the area
+- [[European Settlement Overview]] - Settler context
+- [[Nairobi Urban Development]] - Suburban transformation
+- [[White Highlands]] - Broader settler territory
+- [[Lancaster House and Departure]] - Post-independence transition
+- [[Laikipia Ranch Families]] - Upcountry settler families
+- [[Settler Memory and Heritage]] - Contested colonial narratives
 
 ## Sources
 

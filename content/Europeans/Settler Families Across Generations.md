@@ -1,6 +1,6 @@
 # Settler Families Across Generations
 
-The history of European settler families in Kenya traces a distinctive arc from colonial pioneers to contemporary Kenyans, spanning five generations and raising persistent questions about belonging, inheritance, and historical guilt.
+The history of [[European settler families]] in Kenya traces a distinctive arc from [[colonial pioneers]] to [[contemporary Kenyans]], spanning five generations and raising persistent questions about [[belonging]], [[inheritance]], and [[historical guilt]].
 
 ## The First Generation (1900s-1920s)
 
@@ -55,6 +55,15 @@ This creates a distinctive psychological burden. A white Kenyan born in 1995, li
 ## Conclusion
 
 Five generations of European settler families in Kenya have navigated an impossible inheritance: the contradiction between being rooted in place (having grown up there, having property there, having emotional investment there) and being tainted by the means of that rootedness. The arc moves from unquestioned appropriation, through consolidation, through acknowledgment of contradiction, toward (in some cases) active reckoning. In 2026, the fifth generation remains deeply split between those who have embraced full Kenyan identity and those who maintain European exit options, between those who acknowledge historical debt and those who deny it, between those working toward restitution and those defending inherited property.
+
+## See Also
+
+- [[The Guilt Inheritance]]
+- [[White Kenyan Identity in 2026]]
+- [[The Decision to Stay or Go]]
+- [[Lord Delamere]]
+- [[Settler Nostalgia]]
+- [[Mixed Marriages and Mixed Families]]
 
 ## Sources
 

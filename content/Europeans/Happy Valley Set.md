@@ -4,7 +4,7 @@ The Happy Valley set was a group of wealthy British and Anglo-Irish aristocrats 
 
 ## The Wanjohi Valley Community
 
-The Wanjohi Valley, in the highlands north of Nairobi, became known as "Happy Valley" due to the hedonistic lifestyle of its European residents. The valley's cool climate, altitude, and distance from Nairobi made it an ideal location for wealthy settlers seeking privacy and isolation.
+The [[Wanjohi Valley]], in the highlands north of Nairobi, became known as "Happy Valley" due to the hedonistic lifestyle of its European residents. The valley's cool climate, altitude, and distance from Nairobi made it an ideal location for wealthy settlers seeking privacy and isolation.
 
 The residents were not typical farmers or colonial administrators. They were independently wealthy, often through inheritance or prior business success. They came to Kenya seeking adventure, freedom from English social constraints, and a place to live luxuriously with minimal oversight. The isolation of the Wanjohi Valley allowed them to create a society with its own rules, largely outside the oversight of conventional colonial authorities.
 
@@ -61,6 +61,17 @@ Historically, the Happy Valley set has been interpreted in different ways:
 3. **As Privilege and Freedom**: The group had the freedom (enabled by wealth and colonial privilege) to live as they chose, unaccountable to conventional morality.
 
 All three interpretations have validity. The Happy Valley set's story illustrates both the privilege and the emptiness that could characterize the settler elite at the peak of colonial power. The group had wealth, land, and power, but many seemed unfulfilled, leading to hedonism, substance abuse, and relationship dysfunction.
+
+## See Also
+
+- [[Happy Valley]] - Alternative article on the same topic
+- [[Josslyn Hay Murder]] - The 1941 murder scandal
+- [[Karen Blixen]] - Contemporary settler figure
+- [[Denys Finch Hatton]] - Happy Valley member
+- [[White Mischief]] - Book and film adaptation
+- [[Settler Society in Colonial Kenya]] - Broader settler context
+- [[European Settlement Overview]] - Population dynamics
+- [[Wanjohi Valley]] - Geographic location
 
 ## Sources
 
