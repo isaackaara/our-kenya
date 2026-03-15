@@ -17,11 +17,17 @@ footer a:hover {
 article.homepage {
   // No breadcrumbs or article-meta chrome on the homepage
   .article-title {
-    display: none;
+    display: none !important;
   }
   .content-meta {
-    display: none;
+    display: none !important;
   }
+}
+
+// Fallback in case cssclasses not applied to article
+body:has(article.homepage) .article-title,
+body:has(article.homepage) .content-meta {
+  display: none !important;
 }
 
 .ok-hero {
