@@ -148,9 +148,9 @@ export default ((opts?: TrailNavOptions) => {
   }
 
   .trail-nav-top {
-    background: var(--dark);
+    background: transparent;
     color: var(--lightgray);
-    border: 1px solid rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.4);
     border-radius: 8px;
     width: 100%;
     box-sizing: border-box;
