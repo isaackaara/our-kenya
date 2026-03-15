@@ -21,6 +21,22 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      - name: Slim search index (Cloudflare 25MB file limit)
+        run: |
+          node -e "
+          const fs = require('fs');
+          const path = 'public/static/contentIndex.json';
+          if (!fs.existsSync(path)) { console.log('No index found'); process.exit(0); }
+          const idx = JSON.parse(fs.readFileSync(path, 'utf8'));
+          const slim = {};
+          for (const [k, v] of Object.entries(idx)) {
+            slim[k] = { title: v.title, tags: v.tags || [], date: v.date, aliases: v.aliases || [] };
+          }
+          fs.writeFileSync(path, JSON.stringify(slim));
+          const mb = (fs.statSync(path).size / 1024 / 1024).toFixed(1);
+          console.log('Index slimmed to ' + mb + ' MB');
+          "
+
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
