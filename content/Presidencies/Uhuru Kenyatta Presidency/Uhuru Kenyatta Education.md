@@ -1,0 +1,16 @@
+Kenyatta's schooling shaped him as a cosmopolitan insider groomed for power. He attended St Mary's School Nairobi, Kenya's premier Catholic secondary institution, where he mixed with elite sons of the political class. The experience cemented his command of English, sports prowess, and cultural capital that distinguished him from many contemporaries. He proceeded to Amherst College in Massachusetts, one of America's finest liberal arts universities, where he studied political science and international relations between 1980-1984. Amherst exposure crystallized his worldview as fundamentally pro-Western, market-oriented, and comfortable navigating elite American networks. He returned to Kenya in the mid-1980s with a degree that conferred immediate legitimacy in Moi's technocratic circles, though he lacked the academic laurels of some rivals like Paul Kagame or Raila Odinga who studied advanced degrees abroad.
+
+Kenyatta's education afforded him fluency in global capital markets, bilateral diplomacy, and institutional finance that would define his later economic policy. He did not study economics formally, which critics later noted when he assumed the Finance Ministry under the Grand Coalition in 2009. His political science training emphasized institutional design, which proved invaluable during constitutional reform processes 2010-2013. Unlike his father Jomo Kenyatta, who read law at Oxford in the 1930s-40s, Uhuru followed a path of American liberal arts education rather than British legal training, reflecting Kenya's post-Cold War realignment. This exposed him to competing development philosophies including neoliberal structural adjustment, which influenced his openness to Eurobonds, Chinese loans, and privatization schemes.
+
+Kenyatta cultivated his image as the educated heir across his career. He maintained a personal library of contemporary African politics and art, collected by extensive travel. During his presidency, he commissioned biographical interviews emphasizing his Amherst education as proof of intellectual seriousness, countering narratives that he was a political heir born into office rather than earned legitimacy. Yet his academic background, while elite, did not translate into transformative economic policy or institutional innovation beyond the constitutional framework he inherited. Critics argued that American liberal education, however prestigious, did not equip him to diagnose Kenya's structural inequality, manufacturing collapse, or agricultural productivity challenges. His education represented elite anglophone cosmopolitanism rather than grounded expertise in Kenya's development crises.
+
+## See Also
+[Uhuru Kenyatta Early Political Career](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Kenyatta%20Early%20Political%20Career.md)
+[Jomo Kenyatta](/National%20Biography/Jomo%20Kenyatta.md)
+[Kikuyu Political Dynasty](/Ethnic%20Politics/Kikuyu/Kikuyu%20Political%20Dynasty.md)
+[Kenya's Western Alignment](/Foreign%20Policy/Kenya%20Western%20Alignment.md)
+
+## Sources
+1. "Uhuru Kenyatta: Inheriting a Nation," East African Business Magazine, 2013, archived at https://www.eabusinessmagazine.com
+2. Amherst College Alumni Records, accessed via institutional archives
+3. Hornsby, C. "Kenya: A History Since Independence" (IB Tauris, 2012)
