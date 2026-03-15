@@ -1,11 +1,11 @@
-# Rabbit Hole Paths
+# Story Trails
 
-*400 curated journeys through Kenya's history. Pick a category. Pick a path. Start reading. See where you end up.*
+*2,000 curated journeys through Kenya's history. Pick a trail. Start reading. See where you end up.*
 
 ---
 
 ## How This Works
-Each path is a sequence of 6-10 notes, ordered to tell a complete story arc. You follow the links. Every note has its own rabbit holes branching off. You may never come back.
+Each trail is a sequence of notes, ordered to tell a complete story arc. Follow the links. Every note has its own trails branching off. You may not come back the same way you arrived.
 
 ---
 
@@ -1324,3 +1324,800 @@ Each path is a sequence of 6-10 notes, ordered to tell a complete story arc. You
 
 *1,400 paths. The rabbit holes go deeper every time.*
 *This is Our Kenya. Start anywhere.*
+
+---
+
+---
+
+# Part Three: 20 More Trails -- The Gaps We Found
+
+*A deep audit revealed 20 stories hiding in the vault with no dedicated trail. Fixed.*
+
+---
+
+## Category 71: The Railway Story
+*Two railways. A hundred years apart. Both defining Kenya.*
+
+1. **The Lunatic Express** -- why the British built 900km of railway through unmapped territory for reasons they could barely explain (7 stops)
+2. **The Indian Labour Force** -- 32,000 workers from India: who they were, what they survived, how many died (7 stops)
+3. **The Tsavo Man-Eaters** -- the lions who halted construction for three weeks and became a legend (6 stops)
+4. **The Railway and the Colony** -- how the line determined where settlers went, where towns grew, where power collected (7 stops)
+5. **Nairobi: Railway Camp to Capital** -- how a swampy depot became the city of four million (7 stops)
+6. **The Railway and the Kikuyu** -- how the line cut through Kikuyu land and seeded the Mau Mau generation (6 stops)
+7. **The Old Nairobi Station** -- the colonial-era building, what it meant, what it became (5 stops)
+8. **The Metre Gauge Era** -- 70 years of the old railway: the trains, the towns, the economy it made (5 stops)
+9. **The SGR Decision** -- how Kenya decided to build a standard gauge railway in 2013 and who made money (7 stops)
+10. **China Exim Bank: The Lender** -- the loan, the terms, the controversy over Mombasa port collateral (7 stops)
+11. **The SGR Construction** -- Chinese workers, Kenyan workers, the politics of who built what (6 stops)
+12. **Madaraka Express: The First Ride** -- the launch, the fanfare, the economics that didn't quite work (5 stops)
+13. **The SGR and the Elephant Corridors** -- the wildlife crossings, the design decisions, the conservation debate (5 stops)
+14. **The Old Line vs The New Line** -- why both railways struggled commercially and what that says about infrastructure logic (6 stops)
+15. **The Railway Towns That Died** -- Voi, Athi River, Kibwezi: the places the colonial railway made and the SGR bypassed (5 stops)
+16. **Mombasa Port: The Railway's Purpose** -- how the port and the railway are one system (5 stops)
+17. **The LAPSSET Railway Dream** -- the Lamu-South Sudan-Ethiopia corridor that may or may not happen (5 stops)
+18. **Railway Workers: A Labour History** -- the strikes, the unions, the men who ran the trains (5 stops)
+19. **The SGR Debt** -- what Kenya owes, when it's due, and what the options are (6 stops)
+20. **Two Railways: One Lesson** -- what the Uganda Railway and the SGR have in common across a century (5 stops)
+
+---
+
+## Category 72: The Rift Valley Lakes
+*Seven lakes. Seven worlds. Each one a complete story.*
+
+1. **Lake Turkana: The Jade Sea** -- the world's largest permanent desert lake and the communities who live at its edge (7 stops)
+2. **Turkana Boy** -- the 1.6 million year old skeleton that rewrote human prehistory (6 stops)
+3. **Oil Under Turkana** -- the discovery, the pipeline, the politics, the community impact (6 stops)
+4. **Lake Nakuru: The Flamingo Lake** -- a million pink birds and the rising water levels that are changing everything (6 stops)
+5. **Lake Naivasha: Beauty and Industry** -- the freshwater lake, the flower farms, the water wars, the hippos (7 stops)
+6. **The Flower Farms' Water War** -- how the cut flower industry is draining Lake Naivasha (6 stops)
+7. **Lake Baringo: Birds and Crocodiles** -- the ornithological paradise and the rising water destroying livelihoods (5 stops)
+8. **Lake Bogoria: The Alkaline Flamingo Lake** -- geysers, hot springs, the secondary flamingo colony (5 stops)
+9. **Lake Elementaita: The Smallest Gem** -- Kenya's smallest Rift Valley lake and why it matters (5 stops)
+10. **Lake Magadi: The Soda Ash Lake** -- the industrial lake where soda ash is mined and flamingos somehow breed (5 stops)
+11. **The Rift Valley Lakes System** -- how the lakes connect as an ecological and hydrological system (5 stops)
+12. **Rising Water Levels: The Crisis** -- why Nakuru, Baringo, and Bogoria are flooding communities (6 stops)
+13. **The Fisher Communities** -- the people who have lived from the lakes for generations and what is happening to them (5 stops)
+14. **Hell's Gate: Between the Lakes** -- the gorge that separates Naivasha from Elementaita and the energy it produces (5 stops)
+15. **Flamingo Ecology** -- why Kenya's alkaline lakes produce flamingo spectacles found nowhere else on earth (5 stops)
+16. **The Fish Crisis** -- how invasive species, climate change, and overfishing are changing the lake economies (5 stops)
+17. **Saline to Fresh: The Lake Spectrum** -- the ecological difference between Kenya's freshwater and alkaline lakes (5 stops)
+18. **Tourism and the Lakes** -- the lodges, the boat rides, the visitor economy (4 stops)
+19. **Climate Change and the Lakes** -- the projections, the evidence, what is already lost (5 stops)
+20. **The Lakes at Night** -- hippos, crocodiles, and what happens on the water after dark (4 stops)
+
+---
+
+## Category 73: Deaths That Defined Kenya
+*The men who were killed. The cases never solved. The silence that followed.*
+
+1. **Tom Mboya: July 5, 1969** -- the most talented Kenyan politician of his generation, shot outside a pharmacy on Government Road (8 stops)
+2. **Josiah Mwangi Kariuki: March 1975** -- the populist MP whose dismembered body was found in the Ngong Hills (7 stops)
+3. **Robert Ouko: February 1990** -- the foreign minister burned on a hillside; the inquiry that named names nobody has ever charged (7 stops)
+4. **The Mboya Trial: What We Know** -- Nahashon Njenga was convicted. Who sent him? (6 stops)
+5. **Kariuki's Warning** -- what J.M. said in parliament before he died and why it got him killed (6 stops)
+6. **The Ouko Cover-Up** -- Scotland Yard, Commissioner Troon, the report that disappeared (6 stops)
+7. **Pio Gama Pinto: 1965** -- the first political assassination of independent Kenya, a Marxist shot dead (6 stops)
+8. **The Argwings-Kodhek Mystery** -- the Luo lawyer who died in a car accident in 1969 that many doubt was an accident (5 stops)
+9. **George Anyona: The Survivor** -- the politician who was detained, tortured, and survived to tell the story (5 stops)
+10. **Hezekiah Oyugi: The Enforcer Who Died** -- the security chief who knew everything about Ouko's death and died before testifying (5 stops)
+11. **Impunity: The Kenyan Political Culture** -- why none of the masterminds of political killings have ever been convicted (7 stops)
+12. **The Families Left Behind** -- Mboya's children, Kariuki's wives, Ouko's family: the human cost of political murder (5 stops)
+13. **The Role of the Press** -- how journalists have kept these cases alive despite official discouragement (5 stops)
+14. **The Ouko Inquest 2004** -- the renewed inquiry and why it reached no final conclusions (5 stops)
+15. **Koigi wa Wamwere: The Survivor** -- the man who was tortured, survived, and wrote about it (5 stops)
+16. **The Mwakenya Detainees** -- the 1980s roundup of dissidents and what happened to them (6 stops)
+17. **The Omondi Case** -- the other deaths, less famous, equally unresolved (4 stops)
+18. **The ICC as Alternative** -- why Kenya went to The Hague after 2007 when domestic accountability failed again (6 stops)
+19. **Cold Cases: The Evidence** -- what forensic and documentary evidence still exists for the major cases (5 stops)
+20. **What Truth and Reconciliation Would Look Like** -- imagining a Kenyan reckoning with its political murders (5 stops)
+
+---
+
+## Category 74: The Judiciary
+*The courts that shaped Kenya. The judges who were brave. The ones who weren't.*
+
+1. **The Kenyatta Treason Trial** -- the colonial court, the rigged process, the decision that was a foregone conclusion (7 stops)
+2. **The Emergency Courts** -- the special courts that processed Mau Mau detainees: process without justice (6 stops)
+3. **The Attorney General's Power** -- how the AG became the most important legal officer in the executive arsenal (6 stops)
+4. **Njonjo: The Law as Weapon** -- how Charles Njonjo used the legal system to destroy political opponents (6 stops)
+5. **The Mwakenya Trials** -- the 1980s treason cases: confessions extracted by torture, convictions by intimidation (6 stops)
+6. **Kiraitu Murungi and the Kamiti Cases** -- the advocates who defended political detainees and what it cost them (5 stops)
+7. **The 2007 Election Petition** -- Raila's petition, the tribunal's decision, and how it was handled (6 stops)
+8. **The 2013 Petition** -- the Supreme Court's decision on the Uhuru victory and what it said about judicial independence (6 stops)
+9. **The 2017 Annulment** -- the day the Kenyan Supreme Court annulled a presidential election: Africa's first (8 stops)
+10. **Maraga's Stand** -- the Chief Justice who signed the annulment and what happened to him afterward (6 stops)
+11. **The BBI Ruling** -- the court that struck down Uhuru and Raila's constitutional amendment as unconstitutional (6 stops)
+12. **Judicial Appointments: The Politics** -- who chooses judges and why it matters for independence (5 stops)
+13. **The Kadhi Courts** -- Islamic courts within the constitution: the history of their protection and the challenges to it (5 stops)
+14. **The Anti-Corruption Court** -- the specialized court for corruption cases and its mixed record (5 stops)
+15. **Land Courts: The Land Question in Law** -- the environment and land court and what it has decided (5 stops)
+16. **The Law Society of Kenya** -- the professional body that has sometimes been Kenya's most effective opposition (5 stops)
+17. **Female Judges: Breaking In** -- the story of women on the Kenyan bench from Effie Owuor to the present (5 stops)
+18. **The Election Petition Industry** -- petitions after every election: lawyers, evidence, outcomes, patterns (5 stops)
+19. **International Law and Kenya** -- how Kenya's courts engage with international human rights instruments (5 stops)
+20. **Judicial Independence: How Close?** -- an honest assessment of where Kenya's courts stand in 2026 (5 stops)
+
+---
+
+## Category 75: The Mijikenda Story
+*Nine peoples. The sacred forests. The coast's oldest memory.*
+
+1. **Who Are the Mijikenda?** -- nine Bantu communities who migrated together and settled the coast hinterland (6 stops)
+2. **The Singwaya Origin Story** -- the migration from the north: fact, legend, and what archaeology says (6 stops)
+3. **The Kaya Forests: Sacred Groves** -- the fortified settlement sites that are now UNESCO World Heritage (7 stops)
+4. **Kaya Kinondo** -- the sacred forest that local women managed and what they know (5 stops)
+5. **The Digo** -- the southernmost Mijikenda people and their close relationship with the Swahili (5 stops)
+6. **The Giriama** -- the largest Mijikenda group and the 1914 Giriama Uprising against the British (7 stops)
+7. **Mekatilili wa Menza** -- the Giriama woman who led the 1914 uprising: Kenya's forgotten revolutionary (7 stops)
+8. **The Vigango: Monumental Memory** -- the commemorative posts for clan elders and how hundreds ended up in American museums (6 stops)
+9. **The Vigango Repatriation** -- the effort to bring the posts home and what it says about colonial looting (6 stops)
+10. **Mijikenda and the Swahili** -- the inland Bantu peoples who supplied the coastal city-states with food and labour (5 stops)
+11. **The Palm Wine Economy** -- mnazi: the fermented palm wine that defines coastal Mijikenda social life (5 stops)
+12. **Mijikenda Land Rights Today** -- the ancestral land and the tourism industry that has encroached on it (6 stops)
+13. **The Coastal Land Problem** -- how Mijikenda communities lost their land to Arab, British, and post-independence landlords (6 stops)
+14. **Mijikenda and Christianity** -- the churches, the missions, the transformation and what survived (5 stops)
+15. **Coastal Marginalization** -- the development gap between coast and interior as experienced by Mijikenda communities (5 stops)
+16. **The Mombasa Republican Council and Mijikenda** -- the Pwani si Kenya movement and where Mijikenda communities stand (5 stops)
+17. **Traditional Medicine and Mganga** -- the healing tradition of the coast's hinterland (5 stops)
+18. **Mijikenda Music** -- the kayamba, the sengenya, the coastal rhythms (4 stops)
+19. **The Duruma** -- the southernmost and most drought-affected Mijikenda community (4 stops)
+20. **Mijikenda 2026** -- the communities between the tourist beach and the Tsavo wilderness (4 stops)
+
+---
+
+## Category 76: The Labour Movement
+*The workers who built Kenya. The unionists who demanded more. The strikes that changed things.*
+
+1. **Tom Mboya and the Kenya Federation of Labour** -- how a 23-year-old built the most powerful African trade union movement in colonial Africa (8 stops)
+2. **The 1950 Mombasa General Strike** -- 15,000 workers shut down the port city for two weeks (6 stops)
+3. **Nairobi's Dock Workers** -- the men who loaded and unloaded Kenya's trade and what they were paid (5 stops)
+4. **The Asian Shop Workers** -- the workers in Indian-owned dukas: a forgotten labour history (5 stops)
+5. **COTU: The Federation That Replaced Mboya** -- what became of Kenya's labour movement after 1969 (6 stops)
+6. **The Sugar Workers of Western Kenya** -- cane cutters, mill workers, the forgotten industrial working class (5 stops)
+7. **Tea Pickers: Facing the Mountains** -- the women and men who pick Kenya's most valuable crop (5 stops)
+8. **The Teachers' Strike** -- Kenya's most disruptive recurring industrial action (5 stops)
+9. **The Doctors' Strike 2016-17** -- 100 days without public doctors: the longest medical strike in African history (7 stops)
+10. **The Nurses: The Invisible Workforce** -- the women at the base of Kenya's health system and what they earn (5 stops)
+11. **Construction Workers** -- the fundi, the casual, the man who builds but cannot afford to live in what he builds (5 stops)
+12. **The Flower Farm Workers** -- 100,000 workers on Lake Naivasha farms: wages, chemicals, gender dynamics (6 stops)
+13. **Matatu Workers: A Different Economy** -- drivers, conductors, the informal labour of Kenya's transport system (5 stops)
+14. **Domestic Workers: The Invisible Labour** -- the house girls and house boys who make middle-class Kenyan life possible (5 stops)
+15. **KNUT vs KUPPET** -- the two teachers' unions and the politics of their rivalry (4 stops)
+16. **Labour Law in Kenya** -- what the law says and what employers actually do (5 stops)
+17. **Casualisation: The New Precarity** -- how permanent jobs became casual, then gig, then nothing (6 stops)
+18. **Women in Formal Employment** -- the gains, the glass ceilings, the sexual harassment (5 stops)
+19. **Youth Unemployment: The Time Bomb** -- 40% of young Kenyans unemployed or underemployed (6 stops)
+20. **The Future of Work** -- automation, gig platforms, and what Kenyan workers face next (5 stops)
+
+---
+
+## Category 77: Mount Kenya
+*The mountain that made the nation. Sacred. Frozen. Melting.*
+
+1. **The Mountain as God** -- Kirinyaga: why the Kikuyu, Embu, and Meru oriented their world around the mountain (7 stops)
+2. **The Glaciers That Are Leaving** -- Lewis Glacier, Tyndall Glacier: what is being lost and how fast (6 stops)
+3. **The Water Tower** -- how Mount Kenya feeds six rivers and the lives of 7 million people downstream (7 stops)
+4. **The First Ascent: Halford Mackinder 1899** -- the colonial mountaineer and the mountain he "discovered" (6 stops)
+5. **The Second Ascent: Eric Shipton** -- the British climber who mapped the mountain in the 1930s (5 stops)
+6. **The Great Rift Valley Escape** -- the Mau Mau fighters who hid in the Mount Kenya forest and the battles fought there (7 stops)
+7. **Mount Kenya National Park** -- the UNESCO World Heritage site: how it was created, who was displaced, what it protects (6 stops)
+8. **The Bamboo Zone** -- the ecological belt between forest and moorland and its unique species (5 stops)
+9. **The Moorland: A High Altitude World** -- the giant lobelia, the giant groundsels, the weird beauty above 3,000 metres (5 stops)
+10. **Lenana Peak: The Trekker's Summit** -- the third-highest summit and the only one reachable without technical equipment (5 stops)
+11. **Batian and Nelion: The Technical Peaks** -- the two highest summits and the climbing history of Kenya's hardest rock (5 stops)
+12. **The Mountain Guide Community** -- the Naro Moru, Chogoria, and Sirimon route guides and their economy (5 stops)
+13. **Trout Fishing: A Colonial Legacy** -- the brown trout introduced to mountain streams and who fishes them (4 stops)
+14. **The Malingi -- Bamboo Cultivation** -- how communities at the mountain's foot have used the bamboo belt (4 stops)
+15. **The Mount Kenya Forest Conservancy** -- protecting the water tower through community conservancy (5 stops)
+16. **Illegal Charcoal and the Forest Edge** -- the pressure on the mountain's lower forests from farming communities (5 stops)
+17. **Climate Change on the Mountain** -- less snow, changed rainfall, retreating forest line (6 stops)
+18. **The Mountain in Kikuyu Oral Literature** -- the stories, the prayers, the meaning of Kirinyaga in Agikuyu thought (5 stops)
+19. **Naro Moru: The Mountain Town** -- the gateway community and its economy (4 stops)
+20. **The Mountain in 2050** -- what climate science projects for the ice, the forest, the water (5 stops)
+
+---
+
+## Category 78: Constitutional Moments
+*The documents that made Kenya. The moments when everything could have been different.*
+
+1. **Lancaster House 1960-63** -- the negotiations that created Kenya's constitution: who sat in the room and what was traded (7 stops)
+2. **Majimboism Defeated** -- how KADU's federal vision lost at Lancaster House and what Kenya lost with it (6 stops)
+3. **The Independence Constitution** -- what the 1963 document actually said about rights, regions, and the Bill of Rights (6 stops)
+4. **The Republican Constitution 1964** -- Kenyatta's first constitutional change: dissolving the regions, concentrating power (6 stops)
+5. **The 1966 Odinga Moment** -- when Oginga left KANU, formed KPU, and forced the "little election" (6 stops)
+6. **Section 2A: The One-Party Constitution** -- the 1982 amendment that made Kenya officially one-party and what it cost (7 stops)
+7. **Section 2A Repealed: 1991** -- international pressure, opposition, and Moi's capitulation: the night multiparty was restored (7 stops)
+8. **The Ndung'u Report That Went Nowhere** -- the IPPG reform and its half-measures (5 stops)
+9. **Bomas of Kenya: The Grand Dream** -- the constitutional conference of 2003-04 and what it produced (6 stops)
+10. **The 2005 Referendum: No** -- how Kenya rejected its own constitution and what happened next (6 stops)
+11. **The Kriegler Commission** -- the reform process after 2007 that finally delivered the 2010 constitution (5 stops)
+12. **The 2010 Constitution: A New Kenya** -- reading the document that replaced everything that came before (7 stops)
+13. **The Bill of Rights** -- Kenya's most progressive Bill of Rights on paper: what it says and what it delivers (6 stops)
+14. **Devolution as Constitutional Choice** -- why the constitution chose 47 counties and what the arguments were (5 stops)
+15. **The Two-Thirds Gender Rule** -- the rule that has never been implemented and the legal battles over it (5 stops)
+16. **The BBI: Amending the Constitution** -- Uhuru and Raila's failed amendment push and the court that stopped it (6 stops)
+17. **Constitutional Commissions** -- IEBC, EACC, CIC, NLC: the bodies the 2010 constitution created (5 stops)
+18. **The Finance Bill and Constitutional Limits** -- when parliament overreaches and what the courts can do (5 stops)
+19. **The Amendment Process: How Hard Is It?** -- the referendum requirements and how they protect the constitution (5 stops)
+20. **The Next Constitution** -- will Kenya need a new one? The arguments and what would change (5 stops)
+
+---
+
+## Category 79: The NGO Industrial Complex
+*10,000 NGOs. A parallel government. The business of doing good.*
+
+1. **How Kenya Became the NGO Capital of Africa** -- the Nairobi UN complex, the humanitarian crises, the access (6 stops)
+2. **The NGO Act 1990** -- how Kenya tried to regulate the sector and what the sector did in response (5 stops)
+3. **World Vision Kenya** -- the largest NGO by budget: what it does, where, and whether it works (6 stops)
+4. **Oxfam's Kenya Story** -- the British NGO in Kenya: programs, controversies, the shift to national staff (5 stops)
+5. **MSF in Kenya** -- Médecins Sans Frontières in Dadaab, Kibera, and the north (5 stops)
+6. **The White Saviour Industrial Complex** -- the critique of Western NGOs and the evidence behind it (6 stops)
+7. **Kenyan NGOs: The New Generation** -- local organisations replacing international ones (5 stops)
+8. **The Aid Economy in Dadaab** -- how refugee assistance creates a parallel economy (5 stops)
+9. **The Millennium Village Project** -- Jeffrey Sachs' failed experiment in Sauri and what it proved (6 stops)
+10. **GiveDirectly: The Cash Transfer Experiment** -- giving money directly to the poor: results from western Kenya (6 stops)
+11. **AMREF: The African Medical NGO** -- the organisation that started as Flying Doctors and became something larger (5 stops)
+12. **Equity Bank as NGO Replacement** -- how a commercial bank did what NGOs failed to do for rural finance (5 stops)
+13. **The Harambee Tradition vs. Aid** -- how Kenyan self-help traditions relate to and conflict with external assistance (5 stops)
+14. **NGO Corruption: The Dirty Secret** -- the fraud, the ghost workers, the diverted funds (5 stops)
+15. **The Politics of Humanitarian Access** -- when the government restricts NGOs and why (5 stops)
+16. **The Climate NGO Sector** -- the organisations working on environmental issues and what they've achieved (4 stops)
+17. **Feminist NGOs: The Long Game** -- the organisations that have moved women's rights in Kenya (5 stops)
+18. **The NGO Salaries Problem** -- how NGO wages distort local job markets and pull talent from government (5 stops)
+19. **Decolonising Aid** -- the movement to shift power from Western donors to African recipients (5 stops)
+20. **After Aid: What a Post-NGO Kenya Looks Like** -- the trajectory toward self-sufficiency (4 stops)
+
+---
+
+## Category 80: The Catholic Church in Kenya
+*The most powerful civil society institution. Hospitals. Schools. Silence. Courage.*
+
+1. **The Holy Ghost Fathers: First Footprint** -- the French missionaries who arrived at the coast in 1889 (6 stops)
+2. **The Mill Hill Missionaries** -- the British order that built western Kenya's Catholic infrastructure (5 stops)
+3. **Consolata Missionaries in Meru** -- the Italian order that built hospitals and schools across the mountain (5 stops)
+4. **Cardinal Maurice Otunga** -- Kenya's first cardinal: his life, his theology, his silence on politics (6 stops)
+5. **The Catholic Schools: A Map of Power** -- Mangu High School, Strathmore, Lenana, St. Mary's: the elite pipeline (6 stops)
+6. **Kenyatta National Hospital's Catholic Origins** -- the Prince of Wales Hospital and who built it (5 stops)
+7. **The Catholic Aid System** -- Caritas Kenya, CAFOD, the social work infrastructure (5 stops)
+8. **The Church and Mau Mau** -- how the Catholic Church positioned itself during the Emergency (6 stops)
+9. **AIDS and the Church** -- the tension between Catholic doctrine on condoms and the HIV epidemic (7 stops)
+10. **The Church and Education** -- the Catholic school system as parallel state, and what that means (5 stops)
+11. **Female Religious Orders** -- the sisters who run hospitals, schools, and orphanages (5 stops)
+12. **The Church and Politics: Speaking Out** -- the moments when the Catholic hierarchy broke its silence (5 stops)
+13. **John Cardinal Njue** -- the Archbishop of Nairobi in the Uhuru era and his political interventions (5 stops)
+14. **The Catholic and the Evangelical** -- the tension between the Catholic church and the charismatic movement (5 stops)
+15. **Lay Catholic Movements** -- the Legion of Mary, Catholic Men's Association, and what they do (4 stops)
+16. **The Church and Gender** -- female ordination, contraception, and the specific context of Kenya (5 stops)
+17. **Kenyan Priests: A New Generation** -- the African clergy taking over from European missionaries (4 stops)
+18. **The Church and Land** -- the Catholic Church as one of Kenya's largest landowners (5 stops)
+19. **Pope Francis and Africa** -- the Vatican's engagement with Kenyan Catholicism (4 stops)
+20. **The Catholic Intellectual Tradition** -- Strathmore, Catholic University of Eastern Africa, and the life of the mind (5 stops)
+
+---
+
+## Category 81: Kenya's Economic Rollercoaster
+*From harambee to structural adjustment to Vision 2030. The 60-year money story.*
+
+1. **Sessional Paper No. 10: African Socialism** -- the 1965 paper that defined Kenyan capitalism while calling it socialism (7 stops)
+2. **The Kenya We Were Given** -- what the colonial economy actually looked like at independence and what Kenya inherited (6 stops)
+3. **The Kenyatta Growth Years** -- GDP growth of 6-7% in the 1960s-70s: what drove it and who benefited (6 stops)
+4. **Coffee Boom, Coffee Bust** -- the 1977 coffee boom and the collapse that followed (6 stops)
+5. **The 1980s: Structural Adjustment** -- the World Bank and IMF conditionalities and what they did to Kenya (7 stops)
+6. **Moi's Economic Record** -- the decline, the mismanagement, the donor freeze of the 1990s (7 stops)
+7. **The Asian Financial Crisis and Kenya** -- how external shocks of the 1990s compounded domestic failures (5 stops)
+8. **The Kibaki Economic Miracle** -- 7% GDP growth 2003-2007: what was real and what was narrative (6 stops)
+9. **M-Pesa: The Leapfrog** -- mobile money as economic transformation (6 stops)
+10. **The 2007 Crisis and the Economy** -- what PEV cost Kenya in economic terms (5 stops)
+11. **Eurobond: The Debt Begins** -- Kenya's first Eurobond in 2014 and the borrowing decade that followed (6 stops)
+12. **The SGR Debt and GDP** -- the Chinese loan as a percentage of GDP and what it costs to service (6 stops)
+13. **Vision 2030: The Dream and the Reality** -- the economic blueprint, the pillars, the mid-point assessment (5 stops)
+14. **The Finance Bill 2023** -- Ruto's first budget and the economic logic behind it (5 stops)
+15. **The Gen Z Protests as Economic Event** -- what the 2024 protests said about economic frustration (5 stops)
+16. **The Hustler Fund** -- the small loans program and whether it worked (5 stops)
+17. **Kenya's Inequality** -- the Gini coefficient, the extremes, who has gotten richer and who hasn't (6 stops)
+18. **Agriculture's Declining Share** -- from 40% of GDP to 22%: what that transition has meant for rural Kenya (5 stops)
+19. **The Services Economy** -- how Kenya became a service economy and what that looks like in practice (5 stops)
+20. **2030: Will Kenya Be Middle Income?** -- an honest assessment (5 stops)
+
+---
+
+## Category 82: The Population Story
+*6 million in 1963. 55 million in 2026. The fastest growing nation.*
+
+1. **Independence Kenya: Who Was Here** -- 6 million people, their distribution, their communities, in 1963 (6 stops)
+2. **The Fertility Rate Revolution** -- from 8 children per woman in 1963 to 3.4 today: what changed (6 stops)
+3. **Family Planning Politics** -- why Moi reversed Kenyatta's family planning policy and what it cost (7 stops)
+4. **The Population Debate in Parliament** -- the political history of Kenya's most sensitive demographic discussion (5 stops)
+5. **The Nairobi Baby Boom** -- how the city's population went from 300,000 to 4 million in 60 years (6 stops)
+6. **The Youth Bulge** -- 75% of Kenyans are under 35: what that means for politics, employment, everything (7 stops)
+7. **Population and Land** -- what 55 million people on a finite amount of arable land means (6 stops)
+8. **The Education Squeeze** -- how population growth overwhelmed the school system (5 stops)
+9. **Urbanization: The Unstoppable Migration** -- the movement from rural to urban and what drives it (6 stops)
+10. **The Secondary Town Boom** -- Thika, Eldoret, Kisumu, Nakuru: the cities growing faster than Nairobi (5 stops)
+11. **Population and Water** -- 55 million people competing for water from five water towers (6 stops)
+12. **Dependency Ratios** -- the ratio of workers to dependants and Kenya's demographic dividend (5 stops)
+13. **The Diaspora as Population Safety Valve** -- how emigration has absorbed some of the population pressure (5 stops)
+14. **Population and Climate Change** -- more people in a hotter, drier country (6 stops)
+15. **The Census: How Kenya Counts Itself** -- the politics of the national census and why ethnicity remains a question (5 stops)
+16. **Population Distribution: The Empty North** -- why 80% of people live on 20% of the land (5 stops)
+17. **The Single Mother Majority** -- the demographic reality of Kenyan households and what policy ignores (5 stops)
+18. **Population and Health** -- the burden that 55 million places on the health system (5 stops)
+19. **Population Projections: Kenya at 100** -- what 80-100 million people in Kenya looks like by 2063 (5 stops)
+20. **Population Policy Today** -- what the government is (and isn't) doing about demographic pressure (4 stops)
+
+---
+
+## Category 83: The Student Movements
+*The campuses where the future was argued. The students who became politicians, martyrs, exiles.*
+
+1. **University of Nairobi: The Radical Campus** -- from the University of East Africa to Kenya's most politically charged institution (7 stops)
+2. **SONU: The Student Government** -- the Student Organisation of Nairobi University as political training ground (6 stops)
+3. **The 1969 Mboya Riots** -- students burning the Flag in grief and rage after Tom Mboya's assassination (6 stops)
+4. **The 1982 Coup and Students** -- what happened on campus when the air force mutinied (5 stops)
+5. **Mwakenya and the Students** -- the underground movement and the students who were swept up in the detentions (6 stops)
+6. **The 1987 Student Strike** -- detention of student leaders, university closures, the cat-and-mouse with the state (5 stops)
+7. **Ngugi's Lectures** -- how the writer's teaching at UoN made him a target (5 stops)
+8. **George Anyona: The Student Who Became a Revolutionary** -- the campus politician who spent his life in detention (5 stops)
+9. **Saba Saba 1990** -- the pro-democracy demonstrations and the student participation in the Second Liberation (7 stops)
+10. **The Campus Church** -- how evangelical Christianity colonised the university from the 1990s onward (5 stops)
+11. **The Student Loan Scheme** -- the politics of student finance and the debt burden on graduates (5 stops)
+12. **University Expansion: Quality vs. Access** -- the proliferation of universities and what happened to standards (6 stops)
+13. **The Private University Boom** -- Strathmore, USIU, Daystar: the rise of private higher education (5 stops)
+14. **The Campus in the Social Media Age** -- how political organisation changed after Twitter and WhatsApp (5 stops)
+15. **Gen Z Goes to University** -- the generation that forced a constitutional standoff arrives on campus (5 stops)
+16. **The Finance Bill Protests: Campus Role** -- universities as organising centres in 2024 (5 stops)
+17. **Student Leaders Who Became Politicians** -- the SONU to parliament pipeline (5 stops)
+18. **The Campuses Outside Nairobi** -- Egerton, Moi, Maseno: provincial universities and their politics (4 stops)
+19. **The Student Press** -- The Weekly Argus, campus newspapers, and what they published (4 stops)
+20. **The Students Who Never Came Back** -- those who died, were exiled, or were broken by the system (5 stops)
+
+---
+
+## Category 84: The Middle Class
+*The Kenyan who drives an SUV, pays school fees, has medical insurance, and still feels like they're barely holding on.*
+
+1. **Defining the Kenyan Middle Class** -- who they are (KES 23K-120K monthly), how many there are, where they live (6 stops)
+2. **The Civil Servant Who Became Middle Class** -- how the post-independence public sector created the first middle class (6 stops)
+3. **The Financial Sector Middle Class** -- bankers, insurance agents, the new professional class (5 stops)
+4. **The Private School Economy** -- why the middle class pays twice for education (public taxes + private fees) (6 stops)
+5. **The Private Hospital Economy** -- Nairobi Hospital, Aga Khan, Karen: the insurance-funded healthcare tier (5 stops)
+6. **The Mortgage Paradox** -- middle-class income, Nairobi prices, and why most never own a home (6 stops)
+7. **The Family Obligation** -- the extended family's claims on middle-class income and the resentment it creates (5 stops)
+8. **Middle Class and Corruption** -- the voters who claim to hate corruption but participate in it daily (5 stops)
+9. **The School Run** -- the two-hour morning commute as a middle-class Nairobi experience (4 stops)
+10. **The Mall as Middle-Class Space** -- Junction, Two Rivers, Garden City: the Nairobi mall as community centre (5 stops)
+11. **The TV Dinner** -- how food culture changed as middle-class women entered the workforce (5 stops)
+12. **The Gated Estate** -- the security estates of Ruaka, Syokimau, Athi River: middle-class Nairobi's new geography (5 stops)
+13. **The Chama as Savings Institution** -- women's investment groups as middle-class financial infrastructure (5 stops)
+14. **Church as Middle-Class Institution** -- the megachurch, the tithe, the prosperity gospel (5 stops)
+15. **Social Media and Middle-Class Identity** -- Instagram Kenya, the lifestyle signalling, the keeping-up (5 stops)
+16. **The Middle Class and Politics** -- why Kenya's middle class is simultaneously the most anti-corruption and the most abstentionist (6 stops)
+17. **Middle-Class Anxiety** -- the precarity beneath the SUV: school fees, medical bills, parents, rent (5 stops)
+18. **The Aspirational Class Below** -- the lower-middle class striving upward: the biggest social mobility story (5 stops)
+19. **The Diaspora Middle Class** -- Kenyans abroad who are middle class there and wealthy by Kenyan standards (4 stops)
+20. **The Middle Class in 2040** -- will Kenya's middle class grow or shrink over the next generation? (5 stops)
+
+---
+
+## Category 85: The Flower Industry
+*The most beautiful industry. The most complicated story.*
+
+1. **How Flowers Came to Naivasha** -- the first commercial flower farms in the 1970s and who started them (6 stops)
+2. **The Dutch Connection** -- the Netherlands as the world's flower trading hub and how Kenya got in (6 stops)
+3. **Lake Naivasha: Geography of Flowers** -- why the altitude, the water, and the light make this valley special (5 stops)
+4. **The Export Chain: Monday to Thursday** -- how a cut flower gets from a Naivasha greenhouse to a European supermarket in 96 hours (6 stops)
+5. **The Farm Workers** -- 100,000 people: who they are, what they earn, what they inhale (6 stops)
+6. **Women on the Flower Farms** -- the feminisation of flower farm labour and the power dynamics (6 stops)
+7. **Pesticides: The Health Cost** -- the chemicals, the exposure, the birth defects, the silence (6 stops)
+8. **The Water War** -- how flower farms are draining Lake Naivasha and what communities are losing (7 stops)
+9. **The Maasai and the Farms** -- the communities displaced or employed as farms consumed the lakeshore (5 stops)
+10. **Fair Trade Flowers** -- the certification movement and whether it actually works (5 stops)
+11. **Homegrown Kenya** -- Kenya's largest flower company and the family behind it (5 stops)
+12. **The Carnation vs. the Rose** -- the changing taste of European consumers and how Kenyan growers adapt (4 stops)
+13. **Climate Change and the Flower Farm** -- what changing rainfall means for greenhouse production (5 stops)
+14. **Valentine's Day and Mother's Day** -- the surge events that define the flower farming calendar (4 stops)
+15. **COVID-19 and the Flower Industry** -- when European markets shut and 50 million stems had nowhere to go (5 stops)
+16. **Ethiopia's Challenge** -- how Ethiopia became Kenya's main competitor in the cut flower market (5 stops)
+17. **Fairtrade vs. the Market** -- the economics of ethical sourcing and who it actually helps (5 stops)
+18. **The Naivasha Communities** -- towns, schools, hospitals: the infrastructure built around flower money (4 stops)
+19. **The Hippo Problem** -- hippos coming out of Lake Naivasha at night and eating the farms (4 stops)
+20. **After Flowers: What Naivasha Does Next** -- the alternatives, the diversification, the future of the lake valley (4 stops)
+
+---
+
+## Category 86: Football and Kenyan Sport
+*Gor Mahia. AFC Leopards. The Sevens. The sports that aren't the marathon.*
+
+1. **The Derby: Gor Mahia vs. AFC Leopards** -- the most watched match in East Africa and what it represents (7 stops)
+2. **Gor Mahia: The Green Army** -- the Luo club, the history, the Champions League dreams (6 stops)
+3. **AFC Leopards: Ingwe** -- the Luhya club, the rivalry, the golden years (5 stops)
+4. **Kenyan Football and Harambee Stars** -- the national team, the near-misses, the 2019 AFCON return (6 stops)
+5. **Why Kenya Doesn't Make the World Cup** -- the talent question, the administration question, the money question (6 stops)
+6. **The Kenya Rugby Sevens Shujaa** -- the team that wins at the World Series circuit and what it says about Kenyan rugby (7 stops)
+7. **Rugby at School Level** -- how schools like Shujaa, CBC, and Nakuru bred the sevens culture (5 stops)
+8. **Robert Wangila: The Champion Who Died** -- Kenya's only Olympic boxing gold medallist and his tragic end (6 stops)
+9. **Kenyan Cricket: A Colonial Legacy** -- the game the Asians played, the game Kenya reached the World Cup in (5 stops)
+10. **Golf: The Executive Sport** -- Karen, Muthaiga, Vetlab: Kenya's golf culture and who plays it (4 stops)
+11. **Motorsport: The Safari Rally** -- the world's hardest rally and Kenya's golden era (6 stops)
+12. **Swimming: The Impossible Dream** -- Kenyan swimmers and the funding gap (4 stops)
+13. **Volleyball: Women's Sport Success** -- how Kenya has produced world-competitive women's volleyball (5 stops)
+14. **The Sports Administration Problem** -- why talent is wasted by corrupt federations (6 stops)
+15. **Betting Kenya** -- how sports gambling became a multi-billion shilling industry and what it does to sport (6 stops)
+16. **Women in Kenyan Sport** -- beyond Jepkosgei and Kipchoge's wife: the women's sport ecosystem (5 stops)
+17. **School Sports: The Pathway** -- how Kenya's secondary school competition system has produced champions (5 stops)
+18. **Football Academies: The New Pipeline** -- foreign investment, talent identification, and where the players go (5 stops)
+19. **The Stadium Question** -- Kasarani, Nyayo, and why Kenya doesn't have a stadium worthy of its sporting culture (4 stops)
+20. **The Next Olympic Cycle** -- beyond running: which sports could Kenya win medals in by 2032? (5 stops)
+
+---
+
+## Category 87: Death, Burial, and Mourning
+*The most universal experience. The most culturally specific expression. What Kenya does with death.*
+
+1. **The Luo Funeral: The Great Gathering** -- the most expensive and elaborate funeral tradition in Kenya: three days, thousands of people, crippling cost (7 stops)
+2. **The Burial Dispute** -- when the family disagrees on where to bury the body: a Kenyan legal and cultural saga (6 stops)
+3. **The SM Otieno Case** -- the lawyer whose body was fought over by clan and wife for six months: Kenya's most famous burial dispute (7 stops)
+4. **The Kikuyu Transformation** -- from exposure on a hillside to the grave: how Kikuyu burial changed under Christianity (6 stops)
+5. **Maasai: The Open Air** -- the traditional Maasai practice of leaving bodies for hyenas and what it means (5 stops)
+6. **Muslim Burial at the Coast** -- the 24-hour burial requirement, the Swahili cemetery traditions (5 stops)
+7. **The Funeral Economy** -- the tent, the chairs, the PA system, the morgue, the coffin: the business of death (5 stops)
+8. **Funeral Insurance** -- the chama, the group fund, the formal funeral insurance product: how Kenyans prepare (5 stops)
+9. **Mourning Clothes** -- white on the coast, black in the city, black and red in the Rift Valley (4 stops)
+10. **The Widow's Experience** -- the widow inheritance, the cleansing rituals, the legal battles over property (6 stops)
+11. **Child Death: The Silent Epidemic** -- infant mortality, how communities mourn children differently (5 stops)
+12. **The Diaspora Funeral** -- flying the body home, the cost, the complexity (5 stops)
+13. **The Obituary Page** -- the Daily Nation obituaries as a social document: who gets announced, how, why (4 stops)
+14. **Political Funerals** -- the state funeral, the burial at State House, the funeral that became a protest (5 stops)
+15. **The City Mortuary** -- Nairobi's City Mortuary and what happens to unclaimed bodies (5 stops)
+16. **The Cemetery as History** -- Nairobi's Commonwealth War Graves, the Asian cemeteries, the colonial burial grounds (5 stops)
+17. **Grief and Mental Health** -- how Kenya's communities process bereavement and the mental health silence around it (5 stops)
+18. **The Suicide Stigma** -- how different communities treat suicide death and burial (5 stops)
+19. **Ancestral Communication** -- the role of the dead in Kenyan spiritual traditions (5 stops)
+20. **How Kenya is Dying: The Mortality Transition** -- from dying young of infectious disease to dying old of cancer and diabetes (5 stops)
+
+---
+
+## Category 88: The Nairobi Securities Exchange
+*The oldest stock exchange in Sub-Saharan Africa. The Safaricom IPO. The retail investor revolution.*
+
+1. **The Nairobi Stock Exchange: 1954** -- the colonial-era exchange, who it was for, what was listed (6 stops)
+2. **East Africanisation of the Exchange** -- how the NSE survived independence and decolonised its listings (5 stops)
+3. **The First Listings: Colonial Companies** -- BAT, Brooke Bond, Barclays: the companies that defined early trading (5 stops)
+4. **The Privatisation Wave: 1990s** -- how state companies like Kenya Airways were listed on the exchange (6 stops)
+5. **The 2006 Kenya Airways IPO** -- the IPO that introduced ordinary Kenyans to the stock market (5 stops)
+6. **The Safaricom IPO: 2008** -- the largest IPO in Sub-Saharan African history: 860,000 investors, KES 5 billion raised (7 stops)
+7. **The Retail Investor Revolution** -- how the Safaricom IPO created a nation of shareholders (6 stops)
+8. **Equity Bank's Listing** -- from microfinance institution to NSE blue chip in 15 years (5 stops)
+9. **The Bear Markets** -- the 2008 crash, the 2011 crash, the 2020 COVID crash: the bear markets and who held on (5 stops)
+10. **M-Akiba: The Mobile Bond** -- the government bond sold via M-Pesa and the democratic finance experiment (5 stops)
+11. **The NSE 20 Index** -- what the index actually measures and whether it reflects the economy (4 stops)
+12. **Stockbrokers: A Dying Profession** -- online trading platforms and what happened to the traditional broker (4 stops)
+13. **The Investment Bank Scene** -- CBA, Stanbic, CfC: investment banking in Nairobi (4 stops)
+14. **Pension Funds and the NSE** -- the institutional investors who dominate Kenyan equity markets (5 stops)
+15. **NSSF: The Pension Problem** -- the National Social Security Fund's investment record and the controversy (5 stops)
+16. **The Real Estate Investment Trust** -- REITS in Kenya: the theory and the disappointing practice (4 stops)
+17. **East African Cross-Listing** -- how companies list in multiple East African markets (4 stops)
+18. **NSE vs. Cairo vs. Joburg** -- how Nairobi compares to Africa's other exchanges (4 stops)
+19. **Financial Literacy Kenya** -- the movement to teach ordinary Kenyans about investing (4 stops)
+20. **The NSE at 70** -- what Africa's oldest sub-Saharan exchange looks like in 2024 (4 stops)
+
+---
+
+## Category 89: The Northern Frontier
+*The closed district. The forgotten territory. 80% of Kenya's land. 20% of its investment.*
+
+1. **The NFD: Why It Was Closed** -- the colonial policy of closing the northern frontier to outsiders (6 stops)
+2. **The Somali Vote for Somalia: 1963** -- the NFD referendum that Britain ignored and the consequences (7 stops)
+3. **The Shifta War: Kenya's Forgotten Conflict** -- 1963-67: the insurgency and the atrocities on both sides (7 stops)
+4. **The Wagalla Massacre: The NFD's Darkest Day** -- 1984: the worst atrocity of post-colonial Kenya (8 stops)
+5. **The Turkana Basin: Oil and Poverty** -- the largest onshore oil discovery in East Africa in country with no roads (6 stops)
+6. **The Lokichar-Lamu Pipeline Dream** -- the proposed oil pipeline and the politics of whether it gets built (5 stops)
+7. **Moyale: The Border Town** -- the crossing point to Ethiopia and the trade it handles (5 stops)
+8. **Wajir: The Town at the Edge** -- the most remote county headquarters and what it takes to serve people there (5 stops)
+9. **The Mandera Trianglae** -- where Kenya, Ethiopia, and Somalia meet: the most insecure corner (5 stops)
+10. **Pastoralism Under Pressure** -- the traditional economies of the north and climate change (6 stops)
+11. **The Road That Changed Everything** -- the Isiolo-Moyale road and what tarmac does to a remote economy (5 stops)
+12. **LAPSSET: The Mega-Project** -- the Lamu Port, the railway, the pipeline: the vision for the north (6 stops)
+13. **Northern Kenya Water Wars** -- the rivers, the wells, the violence over water points (5 stops)
+14. **The Education Gap** -- how the north's nomadic populations interact with a sedentary education system (5 stops)
+15. **Al-Shabaab's Northern Reach** -- how the insurgency has used the north as a transit zone (5 stops)
+16. **Marsabit: Mountain in the Desert** -- the highland town in the middle of the semi-arid north (4 stops)
+17. **The Development Funding Gap** -- the numbers: what the north gets vs. what it needs per capita (5 stops)
+18. **Northern Kenya NGOs** -- the NGOs that have become the de facto government in the north (4 stops)
+19. **The Northern Senator** -- the politics of representing constituencies with 50 people per square kilometre (4 stops)
+20. **A Connected North: 2040** -- what roads, electricity, and internet would do to northern Kenya (5 stops)
+
+---
+
+## Category 90: Nairobi Architecture and the Built Environment
+*Every building is a decision. Every street is a history lesson.*
+
+1. **The Railway Station: Where It All Started** -- the 1899 station that became the seed of a capital city (6 stops)
+2. **Colonial Government Quarter** -- City Hall, the Law Courts, Treasury, the High Court: the British built this city for themselves (6 stops)
+3. **The Norfolk Hotel** -- the 1904 hotel where colonists drank, Lord Delamere held court, and the city's social life began (5 stops)
+4. **Jeevanjee Gardens: The Gift** -- the public square donated by A.M. Jeevanjee and what it has meant to Nairobi (5 stops)
+5. **The Asian Shop Fronts: Old Nairobi** -- the Biashara Street, the Bazaar, the commercial architecture of colonial Nairobi's Indian merchants (5 stops)
+6. **The Post-Independence Statement Buildings** -- KICC, Teleposta, the high-rises that said "we are here now" (5 stops)
+7. **Times Tower: The Revenue Building** -- the KRA headquarters that looks like a razor and the story of how it was financed (4 stops)
+8. **The Nairobi Expressway** -- the Chinese-built elevated highway: who paid for it, who uses it, who it displaced (6 stops)
+9. **The Slum Upgrading Debate** -- Kibera, Mathare, Korogocho: what to do with informal settlements (6 stops)
+10. **The High-Rise Slum** -- the vertical informal housing in parts of Nairobi and who lives there (5 stops)
+11. **The JKIA Story** -- how Kenya's international airport was built, expanded, and almost sold to Adani (6 stops)
+12. **The Bomas of Kenya** -- the cultural village that was built for the Commonwealth Summit (4 stops)
+13. **The Aga Khan Buildings** -- the Ismaili philanthropic architecture that shaped Nairobi's healthcare and cultural landscape (5 stops)
+14. **Nairobi's Churches: Architecture as Claim** -- from the Anglican Cathedral to the Synagogue to the Jamia Mosque (5 stops)
+15. **The Westgate Building: Before and After** -- the mall before the attack, the rebuilding, the memory (4 stops)
+16. **Uhuru Park: Political Space** -- the park where Moi felled trees and Maathai camped in protest (5 stops)
+17. **The Nairobi Wall: Invisible Barriers** -- the roads, the railways, the rivers that divide the city (5 stops)
+18. **Ruiru and the Satellite Cities** -- the towns that have merged with Nairobi without being Nairobi (4 stops)
+19. **The Missing Sidewalk** -- why Nairobi has 4 million people and almost no pedestrian infrastructure (5 stops)
+20. **Nairobi 2040: The Planned City** -- the NIUPLAN, the BRT, the vision for what the city could be (5 stops)
+
+---
+
+---
+
+## Category 91: The Gen Z Uprising
+*The generation that grew up online, came of age in a broken economy, and stormed parliament.*
+
+1. **The Finance Bill 2023: The Spark** -- what was actually in the bill, why it landed differently on a generation that had never known cheap anything, and how a PDF went viral (7 stops)
+2. **The Leaderless Movement** -- no chairman, no party, no single face: how Gen Z organized through shared documents and group chats and why that made them impossible to arrest into silence (7 stops)
+3. **TikTok as the Town Square** -- the platform that the political class didn't understand became the organizing layer: the videos, the memes, the real-time coordination (6 stops)
+4. **June 25, 2024: The Day They Stormed Parliament** -- what happened hour by hour, who was in the chamber, what the MPs did, and what it meant (8 stops)
+5. **The Dead** -- the protesters who were shot and killed, by whom, and the accountability (or absence of it) that followed (7 stops)
+6. **Ruto's Response: From Tear Gas to Dialogue** -- the cabinet reshuffle, the youth appointments, the attempts to co-opt: which concessions were real and which were theatre (6 stops)
+7. **The Economy That Made Them Angry** -- the graduate with a degree working as an M-Pesa agent, the cost of a bag of flour, the SGR debt, the IMF conditions: the specific material conditions behind the movement (7 stops)
+8. **Gen Z and the Constitution** -- the generation that was taught the 2010 constitution in school turned around and cited it against the state: the constitutional literacy of the uprising (6 stops)
+9. **The Women Who Led** -- the female faces of the movement: the content creators, the street organizers, the women who were tear-gassed and came back the next day (6 stops)
+10. **The Music of the Moment** -- the drill tracks, the Gengetone anthems, the songs that became protest soundtracks (5 stops)
+11. **The Political Class Scrambles** -- the attempts to infiltrate the movement, the politicians who tried to claim it, the Gen Z rejection of every attempt at co-optation (6 stops)
+12. **Boniface Mwangi and the Civil Society Bridge** -- how older activists tried to support without leading, and the Gen Z relationship with the generation that fought the second liberation (5 stops)
+13. **The International Media Story** -- how the world covered Kenya's uprising and what the BBC/CNN version missed about what it actually was (5 stops)
+14. **The Kenyan Diaspora Joins In** -- protests outside Kenyan embassies in London, Toronto, Minneapolis: how the movement went global in hours (5 stops)
+15. **The Hashtag History of Kenya** -- from #SomeoneTellCNN to #RejectFinanceBill2024: the decade of Kenyan Twitter activism that preceded and enabled the uprising (6 stops)
+16. **Class in the Movement** -- was this middle-class protest or something broader? The boda boda riders, the market women, the Kibera youth who also showed up (6 stops)
+17. **The Shutdown Attempt** -- internet throttling, social media disruptions, the state's digital response and how the movement adapted (5 stops)
+18. **After the Bill Was Withdrawn: What Changed?** -- the specific policy reversals, the budget restructuring, the things that actually shifted versus the things that stayed the same (5 stops)
+19. **Will Gen Z Vote?** -- the 2027 election question: a generation that showed it can force change without the ballot box, and whether it will use the ballot box anyway (6 stops)
+20. **The Historical Comparison** -- Gen Z 2024, Saba Saba 1990, the Student Protests of 1969: how Kenya's youth movements compare across generations (6 stops)
+
+---
+
+---
+
+## Category 92: The Evangelical Megachurch
+*From mission hall to 10,000-seat auditorium. The spiritual transformation nobody put in the textbooks.*
+
+1. **The Missionary Handoff** -- how British and American Protestant missions planted the seeds of Kenya's evangelical explosion (6 stops)
+2. **PCEA: The Established Church** -- the Presbyterian Church of East Africa, its history, its politics, its relationship with the Kikuyu educated class (5 stops)
+3. **The Charismatic Turn: 1970s-1980s** -- when Kenyan Christianity went from hymns to healing: the shift toward Pentecostalism (6 stops)
+4. **Winners Chapel Kenya** -- the Nigerian megachurch that changed what Kenyan Christians expected from Sunday morning (5 stops)
+5. **Nairobi Chapel: The Intellectual Evangelical** -- the church that Uhuru kenyatta and the professional class attends, and what that says (5 stops)
+6. **Mavuno Church: The Urban Millennial** -- the church that speaks in therapy language and social justice and what it represents (5 stops)
+7. **CITAM: The Corporate Church** -- the church with branches in office parks and a congregation that looks like a Safaricom org chart (5 stops)
+8. **The Prosperity Gospel in Kenya** -- seed faith, tithing as investment, and the theology that told Kenyans poverty was a spiritual failure (7 stops)
+9. **The Televangelist Economy** -- the TV programs, the crusades, the offerings, the business of Kenyan Christian media (5 stops)
+10. **Church and Politics** -- how Kenyan presidents have used evangelical endorsement and how evangelical leaders have monetized political access (6 stops)
+11. **The Prayer Breakfast Circuit** -- the prayer breakfast as political networking event: who shows up and why (5 stops)
+12. **Church and Gender** -- submission, headship, women pastors, and what the megachurch taught Kenyan women about themselves (6 stops)
+13. **Church and HIV/AIDS** -- the evangelical response to the epidemic: compassion, abstinence campaigns, and the complicated record (6 stops)
+14. **The Church and LGBTQ+ Kenyans** -- the evangelical community as the primary driver of anti-LGBTQ+ sentiment in law and culture (5 stops)
+15. **The Tithe Wars** -- high court cases, bishop scandals, and the legal battles over church money (5 stops)
+16. **Hillsong in Nairobi** -- the Australian megachurch franchise and its Kenyan adaptation (4 stops)
+17. **The Born-Again Politician** -- how conversion has become a political signal and what it costs politicians who fake it (5 stops)
+18. **Gen Z and the Church** -- the generation that stormed parliament is also the generation quietly leaving the megachurch (5 stops)
+19. **The House Church Movement** -- the counter-current: small, theology-serious, anti-prosperity communities growing quietly (4 stops)
+20. **Kenya Without the Church** -- imagining Kenyan civil society, education, healthcare, and politics without evangelical Christianity (5 stops)
+
+---
+
+## Category 93: Kenya's Diplomacy
+*The country that hosts the UN. The mediator that stopped wars. The non-aligned nation that leaned west anyway.*
+
+1. **Nairobi as UN Capital** -- UNEP and UN-Habitat chose Nairobi in 1972: the first UN headquarters in the developing world and what it brought (6 stops)
+2. **Non-Alignment: Theory and Practice** -- Kenyatta's Cold War diplomacy: officially non-aligned, obviously pro-Western (6 stops)
+3. **The Uganda Crisis: Amin's Neighbour** -- how Kenya navigated Idi Amin next door and the refugee flows that followed (5 stops)
+4. **Kenya and Somalia: A Long Border** -- the Shifta War, the refugee crisis, Al-Shabaab: managing the most complex bilateral relationship (7 stops)
+5. **Kenya as Peace Mediator** -- the Nairobi Peace Agreement, Sudan, South Sudan, the IGAD role: Kenya as Africa's preferred negotiating table (6 stops)
+6. **The EAC: Integration That Keeps Stalling** -- the East African Community, the common market, the political federation dream and the reality (6 stops)
+7. **Kenya and Ethiopia: The Pivot** -- the growing strategic relationship with Addis Ababa and what it means for East African architecture (5 stops)
+8. **The ICC Relationship** -- from supporting the court to fighting it: Kenya's complete reversal on international criminal justice (7 stops)
+9. **Kenya and China: The Infrastructure Decade** -- what 10 years of Chinese infrastructure lending has done to Kenya's foreign policy independence (6 stops)
+10. **Kenya and the US: A Security Partnership** -- the embassy bombing, counter-terrorism cooperation, and the American military footprint (5 stops)
+11. **Kenya and the UK: Post-Colonial** -- the economic ties, the military training, the immigration flows, the complicated inheritance (5 stops)
+12. **The African Union and Kenya** -- Kenya's role in the AU, the bids for leadership, the peacekeeping contributions (5 stops)
+13. **IGAD: Kenya's Regional Role** -- the Intergovernmental Authority on Development and Kenya's disproportionate influence within it (4 stops)
+14. **The Kenyan Diaspora as Diplomatic Asset** -- how Kenyans in Washington, London, and elsewhere shape bilateral relationships (4 stops)
+15. **The Ruto Pivot: 2022-24** -- the new president's foreign policy: closer to the US, the Haiti mission, the global statesman ambition (5 stops)
+16. **Kenya and Israel: The Quiet Relationship** -- agricultural technology, security cooperation, and the political sensitivity (4 stops)
+17. **Passport Power: Where Kenyans Can Go** -- the Kenyan passport, visa-free access, and what it says about Kenya's diplomatic standing (4 stops)
+18. **The African Standby Force and Kenya** -- Kenya's contribution to African peacekeeping architecture (4 stops)
+19. **Climate Diplomacy** -- Kenya's position in global climate negotiations and the Nairobi climate summits (5 stops)
+20. **Kenya's Seat on the Security Council** -- Kenya's 2021-22 UN Security Council non-permanent membership and what it did with it (5 stops)
+
+---
+
+## Category 94: Coffee: The Crop That Made and Broke Kenya
+*The most complex agricultural story. The colonial crop that became a cooperatives war.*
+
+1. **The First Coffee Tree** -- how coffee came to Kenya via Ethiopia and the British colonial government's decision to make it a settler crop (6 stops)
+2. **The White Highlands Coffee** -- the settler estates, the Kikuyu labour, the premium crop grown by people who could not own it (6 stops)
+3. **Kenyans Banned from Growing Coffee** -- the colonial rule that prohibited African smallholders from growing coffee until 1954 (7 stops)
+4. **The Cooperative System** -- how Kenyan coffee cooperatives became the model for the world and then collapsed from within (6 stops)
+5. **The Kenya Coffee Auction** -- the Nairobi auction system, how it worked, why traders loved it, why some want to dismantle it (5 stops)
+6. **Kenyatta and Coffee** -- the first president's relationship with the coffee economy and the policies that shaped post-independence distribution (5 stops)
+7. **The 1977 Coffee Boom** -- the frost in Brazil, Kenyan prices tripling, the money that flowed into the highlands for two years (6 stops)
+8. **The Crash: 1980s-1990s** -- falling global prices, mismanaged cooperatives, and the hollowing out of the coffee economy (6 stops)
+9. **The Intermediary Problem** -- how millers and exporters extracted value between farmer and international buyer for 50 years (5 stops)
+10. **Direct Trade and the Specialty Revolution** -- how Third Wave coffee culture in London and New York rediscovered Kenyan coffee (6 stops)
+11. **The Kenyan Coffee Varietals** -- SL28, SL34, Ruiru 11, Batian: the genetics of why Kenyan coffee tastes the way it does (5 stops)
+12. **Kirinyaga: The Coffee County** -- the mountain slopes that produce the most celebrated Kenyan cup (5 stops)
+13. **The Coffee Farmer Today** -- average age 60+, 400 trees, KES 80 per kilo: the economics of surviving as a Kenyan coffee grower (5 stops)
+14. **The Liberalisation Debate** -- should Kenya abandon the auction system and let farmers sell direct? The economics and the politics (5 stops)
+15. **Coffee and Climate Change** -- the rising temperatures on the slopes, the moving altitudinal bands, what 2050 looks like for Kenyan coffee (5 stops)
+16. **The Nairobi Coffee Scene** -- Kaldi's, Dormans, the third-wave cafes: Nairobi finally drinking its own product (4 stops)
+17. **The Tea vs. Coffee Question** -- why Kenya produces the world's best coffee but drinks more tea (5 stops)
+18. **Women in Coffee** -- the women who pick the cherries and the women finally getting registered as growers (5 stops)
+19. **The Export Numbers** -- coffee's declining share of Kenyan exports and what replaced it (4 stops)
+20. **The Future Cup** -- what Kenyan coffee looks like in a specialty-first, direct-trade, climate-stressed 2040 (4 stops)
+
+---
+
+## Category 95: The HIV/AIDS Story
+*The epidemic that killed a generation. The response that saved millions. Kenya's most important public health story.*
+
+1. **The First Cases: 1984** -- when HIV arrived in Kenya, who identified it, and the first years of silence (6 stops)
+2. **The Heterosexual Epidemic** -- why Kenya's HIV pattern was different from the US and Europe and what that meant for intervention (6 stops)
+3. **The 1990s: Peak Infection** -- 10% adult prevalence, hospitals overwhelmed, a generation of orphans: the scale of the crisis (7 stops)
+4. **Government Denial and Silence** -- Moi's government and the years when the president could not say the word AIDS (6 stops)
+5. **The Church and the Epidemic** -- Catholic doctrine on condoms, evangelical abstinence campaigns, and the denominations that actually helped (6 stops)
+6. **Nyumbani: The Children's Home** -- Father D'Agostino's home for HIV-positive orphans and the community care model (5 stops)
+7. **The Truckers' Highway** -- how long-distance transport routes became transmission corridors (5 stops)
+8. **Sex Work and HIV** -- the SWOP clinic, the Pumwani sex workers who became key informants for science, the research that saved lives (6 stops)
+9. **The Science Made in Kenya** -- the discoveries made in Nairobi that shaped global understanding of HIV transmission (6 stops)
+10. **PEPFAR Arrives: 2003** -- the American funding programme and how it transformed Kenya's treatment landscape literally within months (7 stops)
+11. **ARVs for All: The Treatment Rollout** -- how antiretroviral therapy went from rich-country privilege to Kenyan public health infrastructure (6 stops)
+12. **The Orphan Generation** -- the children who grew up without parents and what Kenya's safety net looked like (5 stops)
+13. **HIV and Stigma** -- the social death before the physical one: how stigma shaped who disclosed, who got tested, who survived (6 stops)
+14. **Women and HIV** -- why women's infection rates stayed higher than men's after men's began to fall (5 stops)
+15. **The VCT Revolution** -- voluntary counselling and testing as a public health innovation that changed the epidemic (5 stops)
+16. **HIV in the Numbers: 2026** -- 1.4 million living with HIV, 95-95-95 targets, what the data actually shows (5 stops)
+17. **The Scientists Who Stayed** -- the Kenyan researchers who worked through the crisis and built an institution (5 stops)
+18. **HIV and Education** -- what happened to school enrolment, to teacher mortality, to the classroom during the peak epidemic years (5 stops)
+19. **Long-Term Survivors** -- the Kenyans who have lived with HIV for 30+ years and what their lives look like (4 stops)
+20. **The Next Epidemic** -- what Kenya's public health system learned from AIDS that applies to the next crisis (5 stops)
+
+---
+
+## Category 96: The Dadaab World
+*The world's largest refugee camp. Forty years of Somali displacement. A city that was supposed to be temporary.*
+
+1. **Why Dadaab Exists** -- the 1991 collapse of the Somali state and the 300,000 people who crossed the border in months (7 stops)
+2. **The Three Camps** -- Hagadera, Dagahaley, Ifo: how Dadaab's geography was designed and how it evolved (5 stops)
+3. **The 1992 Famine Surge** -- when the camps went from 90,000 to 300,000 in a year and what the humanitarian system did (6 stops)
+4. **Life Inside: The Economy** -- the market, the phone shops, the remittances, the businesses that make Dadaab a functioning city (6 stops)
+5. **The Schools** -- the education system that UNHCR and NGOs built inside the camps and the graduates it produced (5 stops)
+6. **The 2011 Famine Surge** -- when drought in Somalia sent another wave: 600,000 people in a camp built for 90,000 (6 stops)
+7. **The Kenyan State and Dadaab** -- the government's ambivalence: the camp is an economic asset and a security liability (5 stops)
+8. **Al-Shabaab and the Camp** -- how the militant group used the camp for recruitment, financing, and movement (5 stops)
+9. **The Closure Threat: 2016** -- when Kenya announced it would close Dadaab and the international legal fight that followed (6 stops)
+10. **The Refugees Who Built Kenya** -- Somali refugee entrepreneurs who opened businesses in Nairobi and changed urban commerce (5 stops)
+11. **The Return Question** -- why most Dadaab residents have never seen Somalia and why voluntary return is more complicated than it sounds (5 stops)
+12. **The UNHCR in Kenya** -- the UN refugee agency's largest operation and the politics of humanitarian management at scale (5 stops)
+13. **Gender in the Camps** -- sexual violence, female-headed households, women's access to education and economic activity (5 stops)
+14. **The Second Generation** -- Somalis born in Dadaab who have only known the camp: their identity, their aspirations (5 stops)
+15. **Kakuma: The Other Camp** -- the northern camp for South Sudanese, Congolese, Ethiopian refugees: a different crisis, same system (5 stops)
+16. **The Environmental Cost** -- deforestation, water extraction, land degradation around the camps (4 stops)
+17. **Dadaab and Garissa County** -- the relationship between the camps and the surrounding Kenyan Somali community (4 stops)
+18. **The NGO Architecture** -- the 30+ organisations managing services in Dadaab and what coordination looks like at that scale (4 stops)
+19. **Digital Refugees** -- how smartphones and mobile money transformed life inside the camps after 2012 (4 stops)
+20. **Dadaab in 2026** -- still there, still temporary, still the largest camp in the world: what the future looks like (4 stops)
+
+---
+
+## Category 97: The Kenyan Military
+*The King's African Rifles. The coup that failed. The soldiers in Somalia.*
+
+1. **The King's African Rifles** -- the colonial force that fought in two world wars: Kenyan soldiers for the British Empire (7 stops)
+2. **The KAR in World War I** -- the East African campaign, the Kenyan soldiers who followed von Lettow-Vorbeck across four countries (6 stops)
+3. **The KAR in World War II** -- from Abyssinia to Burma: the Kenyan soldiers who fought and what they came home to (6 stops)
+4. **Mau Mau and the Military** -- the Kenyan African Rifles fighting the Mau Mau: African soldiers against African fighters (6 stops)
+5. **Independence and Africanisation** -- how a British colonial force became the Kenya Army: the officers, the doctrine, the transition (5 stops)
+6. **The 1982 Air Force Coup** -- the coup attempt that failed in hours: what happened, who did it, and what Moi did next (8 stops)
+7. **Moi Dissolves the Air Force** -- the day the air force was disbanded and replaced by the Air Force of Kenya: the paranoia behind the decision (5 stops)
+8. **The Kenya Navy** -- the smallest service: the patrol boats, the coastline, the largely forgotten arm (4 stops)
+9. **Kenya and UN Peacekeeping** -- 40 years of Kenyan soldiers in Liberia, Sierra Leone, Sudan, DRC: the peacekeeping record (6 stops)
+10. **KDF Enters Somalia: 2011** -- Operation Linda Nchi: the decision to cross the border and take on Al-Shabaab (7 stops)
+11. **Kismayo: The Objective** -- the capture of the port city and the politics of what happened after (5 stops)
+12. **KDF and AMISOM** -- Kenya's integration into the African Union Mission in Somalia and the chain of command (5 stops)
+13. **The Cost: Soldiers Killed** -- the KDF casualties in Somalia and the military's management of how news reached home (5 stops)
+14. **The Westgate Attack: Military Response** -- the 2013 Westgate Mall attack, the KDF's role, and the controversy over what happened inside (6 stops)
+15. **Garissa University: The Security Failure** -- the 2015 attack, 148 dead, and the questions about intelligence and response (6 stops)
+16. **Military Spending and Civil Society** -- Kenya's defense budget, the procurement scandals, the NGOs that monitor the sector (5 stops)
+17. **Women in the KDF** -- the integration of women into the military and the obstacles they face (4 stops)
+18. **The NDC and Military Education** -- the National Defence College and Kenya's military intellectual tradition (4 stops)
+19. **Veterans: The Forgotten Soldiers** -- what happens to KDF soldiers after service and the lack of support (4 stops)
+20. **The KDF in 2026** -- force structure, budget, capabilities, and where it fits in the regional security landscape (4 stops)
+
+---
+
+## Category 98: The Tea Industry
+*The crop that replaced coffee as Kenya's agricultural backbone. The mountain slopes. The auction in Mombasa.*
+
+1. **Tea Arrives: 1903** -- the first tea planting in Limuru and the settler families who built the initial estates (5 stops)
+2. **Kericho: The Tea Capital** -- the town in the Rift Valley highlands that became East Africa's tea heartland (5 stops)
+3. **The Estate System** -- Brooke Bond, James Finlay, Unilever: the multinational companies that built Kenyan tea and still dominate it (6 stops)
+4. **KTDA: The Smallholder Revolution** -- the Kenya Tea Development Agency and how it brought millions of small farmers into the tea economy (7 stops)
+5. **The Tea Picker** -- who picks tea, what they earn, where they live: the labour at the base of a billion-cup industry (6 stops)
+6. **Women and Tea** -- how tea picking became women's work and what that means for who benefits from the industry (5 stops)
+7. **The Mombasa Tea Auction** -- the world's largest black tea auction: how it works, who attends, what determines price (5 stops)
+8. **Kenya vs. Ceylon vs. India** -- how Kenya became the world's third largest tea exporter and the competition it faces (5 stops)
+9. **The British Cuppa: Made in Kenya** -- how Kenya's tea ends up in PG Tips and Yorkshire Tea and what percentage that is of the total (5 stops)
+10. **CTC vs. Orthodox** -- the two processing methods, why Kenya went CTC for volume, and the orthodox revival for specialty (4 stops)
+11. **Tea and the Water Tower** -- how the tea estates sit on and shape Kenya's critical water catchments (5 stops)
+12. **Climate Change and Tea** -- the rainfall that tea needs, the temperatures it tolerates, and what the models show for Kericho in 2050 (5 stops)
+13. **The Tea Strike History** -- labour unrest on the estates: the strikes, the unions, the multinational responses (5 stops)
+14. **Purple Tea: The Innovation** -- the TRFK's development of the world's first purple tea variety and what it means commercially (4 stops)
+15. **The Specialty Tea Movement** -- Kenyan orthodox teas winning awards in London and the farms producing them (4 stops)
+16. **Tea Towns: Kericho, Sotik, Limuru** -- the communities built around the tea economy (4 stops)
+17. **The Export Numbers** -- tea as Kenya's largest agricultural export: the value, the volumes, the trends (4 stops)
+18. **Iran and Pakistan: The Unexpected Markets** -- how the Middle East and South Asia became Kenya's biggest tea buyers (4 stops)
+19. **The Kenyan Who Owns Nothing** -- despite being the world's third-largest exporter, Kenyan-owned companies control a tiny fraction of the value chain (5 stops)
+20. **Tea 2040** -- smallholder succession, climate pressure, and whether the industry restructures before it collapses (5 stops)
+
+---
+
+## Category 99: The Coast as Its Own Country
+*The oldest civilization in Kenya. The deepest grievance. The persistent sense that the coast is somewhere else.*
+
+1. **The Swahili City-States** -- Mombasa, Malindi, Pate, Lamu: the city-states that traded with Arabia, India, and China before Europeans arrived (7 stops)
+2. **The Ten Mile Coastal Strip** -- the land the Sultan of Zanzibar leased to the British: the legal anomaly that shaped Kenya's coast (6 stops)
+3. **The Arab Sultanate's Long Shadow** -- how Omani Arab rule from the 17th to 19th century shaped culture, architecture, family names, and land ownership at the coast (6 stops)
+4. **Fort Jesus: Power in Stone** -- the Portuguese fortress that changed hands 9 times in 200 years (5 stops)
+5. **The Mombasa Republican Council** -- the "Pwani si Kenya" (the coast is not Kenya) movement: where it came from and what it wants (7 stops)
+6. **The Coastal Land Problem** -- who owns the land: the original answer (Arab families, the Crown), the independence answer (the state), and the communities still waiting (7 stops)
+7. **The Coastal Voter** -- how the coast votes, who it votes for, and why no coastal politician has ever become president (6 stops)
+8. **The Development Gap** -- comparing Mombasa and Nairobi: the infrastructure, the services, the economic data (5 stops)
+9. **The Port of Mombasa** -- East Africa's largest port, who controls it, how it shapes the regional economy (5 stops)
+10. **Tourism: The Coastal Economy** -- beach hotels, sun-sea-sand tourism, the foreign-owned hotels, and who benefits (5 stops)
+11. **Coastal Islam** -- the oldest Muslim community in Kenya: how Islam arrived, how it evolved, how it relates to the rest of Kenya's Muslim populations (5 stops)
+12. **The Taita-Taveta Highland** -- the non-coastal community inside the Coast County: a different people, a different history (4 stops)
+13. **The Raila-Coast Relationship** -- how ODM built a coastal base and what it delivered (5 stops)
+14. **Coast vs. Nairobi: The Cultural Distance** -- taarab vs benga, biryani vs nyama choma, the coastal slowness vs the Nairobi urgency (5 stops)
+15. **The 2013 Mpeketoni Attack** -- the Al-Shabaab attack on a Lamu-area settlement and the ethnic politics it exposed (5 stops)
+16. **Digo, Pokomo, Orma: The Interior Coast Communities** -- the non-Swahili, non-Mijikenda communities of the coastal hinterland (4 stops)
+17. **Lamu: Old Town as UNESCO Site** -- the preservation of the old town and the politics of heritage tourism (4 stops)
+18. **The Coastal Educated Class** -- the first generation of coast-born professionals with national careers (4 stops)
+19. **LAPSSET and Lamu** -- the mega-project that is supposed to transform the coast's economic position (4 stops)
+20. **Coastal Autonomy: What Would It Actually Mean?** -- the economics, the politics, the feasibility of a more federal arrangement for the coast (5 stops)
+
+---
+
+## Category 100: The Banking Revolution
+*From colonial banks for settlers to Equity Bank for everyone. The most democratic financial transformation in Africa.*
+
+1. **The Colonial Banks** -- Barclays, Standard Chartered, National and Grindlays: the banks that were not for Africans (6 stops)
+2. **The Post-Independence Scramble** -- nationalisations, the Kenya Commercial Bank, and the attempt to Africanise banking (5 stops)
+3. **The 1990s Banking Collapse** -- the failures, the fraud, the 27 bank collapses, and what was lost (6 stops)
+4. **Equity Building Society: The Origin** -- a near-insolvent building society in 1993, rescued, transformed, reimagined (7 stops)
+5. **James Mwangi: The Architect** -- the CEO who took Equity from building society to Africa's most admired bank (6 stops)
+6. **Equity's Model: Banking the Unbanked** -- no minimum balance, agents everywhere, the decision to serve people other banks didn't want (7 stops)
+7. **The Equity IPO** -- the listing that turned the bank's customers into shareholders (5 stops)
+8. **KCB: The State Bank That Changed** -- how the Kenya Commercial Bank transformed from inefficient state institution to regional powerhouse (5 stops)
+9. **M-Pesa: The Disruption That Built Everything** -- mobile money as the infrastructure layer on which everything else was built (7 stops)
+10. **Mobile Lending: The Credit Revolution** -- Fuliza, M-Shwari, KCB M-Pesa: instant credit for people who never had a credit file (6 stops)
+11. **The Unbanked Finally Banked** -- the numbers: what financial inclusion actually looks like in Kenya in 2026 (5 stops)
+12. **The Bank Agent Network** -- the kiosk around the corner that replaced the branch 50km away (5 stops)
+13. **The Diaspora Remittance Economy** -- how the $4bn flowing home every year shaped the banking system (5 stops)
+14. **Co-op Bank: The Cooperative Model** -- the bank owned by cooperatives and what that means for how it operates (4 stops)
+15. **The SACCOs** -- savings and credit cooperatives as an alternative financial infrastructure, stronger than banks in rural Kenya (5 stops)
+16. **The Chama Economy** -- women's investment groups as informal banking and the products banks built to serve them (5 stops)
+17. **Interest Rate Caps: The Experiment** -- Kenya's 2016 law capping bank interest rates, the credit crunch that followed, the repeal (5 stops)
+18. **Digital Banking and the New Players** -- Absa, NCBA, and the fintechs competing for the banked-and-smartphone population (4 stops)
+19. **Kenya as Africa's Financial Hub** -- why Nairobi hosts regional headquarters for banks across Africa (4 stops)
+20. **The Next Billion: Banking the Informal Sector** -- the remaining unbanked and what it would take to reach them (4 stops)
+
+---
+
+*2,000 paths. 100 categories. The vault is fully mapped.*
+*Every path leads somewhere real. None of them end.*
