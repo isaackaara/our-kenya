@@ -1,12 +1,38 @@
 # Garissa Climate
 
-Garissa Climate is a significant aspect of Garissa County's context and development.
+[[Garissa County|Garissa County's]] climate is semi-arid to arid, characterized by low and unreliable rainfall, high temperatures, intense solar radiation, and marked seasonal variation in moisture availability. The county receives between 250-400mm of annual precipitation, substantially below Kenya's national average of 633mm, creating conditions of perpetual moisture deficit that fundamentally constrain agricultural production and ecological productivity. Mean annual temperatures range from 28-32 degrees Celsius, with daily maximum temperatures frequently exceeding 35 degrees Celsius during hot seasons. The climate's variability, with rainfall fluctuating substantially year-to-year and within seasons, creates ecological unpredictability that drives boom-and-bust cycles in pastoral production and agricultural yields.
+
+Garissa experiences bimodal rainfall distribution, with rains typically occurring during two seasons rather than concentrated single rainy season. The March-May period (long rains or gu season) brings the greater rainfall volumes, though still modest at 50-150mm monthly. The October-November period (short rains or deyr season) typically brings 30-80mm monthly. However, these patterns are highly variable, with annual rainfall sometimes concentrated in single rainy season while alternate season receives negligible precipitation. Inter-annual rainfall variability is substantial, with annual totals varying from below 100mm in severe drought years to above 600mm in exceptionally wet years.
+
+Spatial rainfall variation within Garissa reflects elevation and proximity to moisture sources. Higher elevation areas along the western margins of the county receive somewhat higher rainfall than lowland zones along the [[Tana River in Garissa|Tana River]] and its tributaries. Proximity to the Tana River reduces aridity effects through available surface water and higher moisture availability within riparian zones. The eastern lowlands approaching the Somalia border receive the lowest rainfall, creating zones of extreme aridity where pastoral production becomes increasingly marginal.
+
+Temperature regimes in Garissa are relatively consistent throughout the year compared to highland zones, with seasonal variation smaller than rainfall variation. Hot season temperatures (December-February) are marginally higher than cooler season temperatures (June-August), though differences are modest (3-5 degrees Celsius). Diurnal temperature fluctuations (differences between daytime and nighttime temperatures) are substantial, with warm days (35+ degrees Celsius) often followed by cool nights (15-20 degrees Celsius) as clear skies allow rapid radiation loss. This diurnal variation reflects the sparse vegetation cover and low atmospheric moisture typical of semi-arid climates.
+
+Evapotranspiration rates in Garissa are extremely high, substantially exceeding precipitation and creating net moisture deficit. Potential evapotranspiration (PET) in lowland areas exceeds 2000mm annually, meaning that even a 400mm rainfall year results in water deficit of over 1600mm. This moisture deficit constrains vegetation productivity to levels sustainable within rainfall-limited rather than temperature-limited systems. Only riparian zones with access to the [[Tana River in Garissa|Tana River]] or shallow groundwater tables maintain vegetation growth independent of rainfall variability.
+
+Soils in Garissa reflect arid and semi-arid formation processes. The dominant soil types include lithosols (shallow rocky soils with minimal development), regosols (weakly developed soils), and in riverine areas, alluvial soils. Most soils contain modest organic matter, low water-holding capacity, and limited nutrient reserves, reflecting sparse vegetation inputs and intense weathering. The shallow soil depth in upland areas constrains root penetration and water availability to plant roots. This edaphic (soil-related) limitation, combined with moisture deficit, fundamentally constrains [[Garissa Agriculture|agricultural production]] outside irrigated riverine zones.
+
+Wind regimes in Garissa include both seasonal patterns and local thermal circulation patterns. The Harmattan winds from the northeast (December-February) bring dry air and can intensify surface aridity. Thermal wind patterns driven by daytime heating of land surfaces create local circulation cells that contribute to atmosphere stability. Low atmospheric humidity (relative humidity often below 30 percent except during rainy seasons) contributes to intense evaporative demand and rapid drying of soil surfaces following rainfall events.
+
+Vegetation patterns in Garissa reflect the semi-arid climate, with dominant plant communities including acacia woodlands, grasslands, and shrublands. Tree species include Acacia drepanolobium, Acacia tortilis, Balanites aegyptiaca, and scattered larger trees in riparian zones. Grassland composition varies seasonally, with annual grasses dominating and perennial grass cover minimal. Shrublands, increasingly expansive due to rangeland degradation, include Prosopis juliflora (an invasive species), various acacia species, and legume shrubs. The vegetation provides forage for pastoral livestock, though carrying capacity declines substantially during dry seasons and drought periods.
+
+Hydrological features in Garissa include the perennial [[Tana River in Garissa|Tana River]], seasonal nala (water courses) that flow during rainy seasons, shallow wells and boreholes accessed through groundwater extraction. Groundwater availability is highly variable, with some zones having shallow water tables at 20-40 meters depth and others requiring drilling to 100+ meters. Fluoride contamination in some groundwater zones creates water quality concerns for drinking water supplies. Groundwater depletion has become increasingly problematic as abstraction has intensified without corresponding recharge.
+
+Cloud cover in Garissa is generally sparse, reflecting low atmospheric moisture. During peak rainy seasons, convective clouds develop during afternoon hours, often producing localized intense rainfall with substantial runoff and flash-flooding potential. Hail occasionally accompanies strong convective storms. The rarity of cloud cover contributes to high solar radiation input and intense surface heating.
+
+Climate variability and [[Garissa Climate Change|climate change]] impacts have intensified drought frequency and severity. Historical drought cycles occurring approximately every 5-7 years have become more frequent, with successive droughts reducing pastoral recovery periods. The 2011-2012, 2016-2017, and 2020-2022 drought sequences created near-continuous water stress and contributed to livestock mortality, vegetation degradation, and [[Garissa Food Security|food insecurity]].
 
 ## See Also
 - [[Garissa County|Garissa County]]
-- [[Garissa Town|Garissa Town]]
+- [[Garissa Climate Change|Climate Change Impacts]]
+- [[Garissa Food Security|Food Security and Drought]]
+- [[Garissa Pastoralism|Pastoral Adaptation]]
+- [[Garissa Agriculture|Agricultural Production]]
+- [[Tana River in Garissa|Water Resources]]
 
 ## Sources
-1. Garissa County Government. "Development Plans." (2023).
-2. Kenya National Bureau of Statistics. "Census 2019." https://www.knbs.or.ke
-3. Regional research sources.
+1. Nicholson, S. E. "Climate and Climatic Variability of Rainfall over East Africa." Reviews of Geophysics, 2017.
+2. King, A. D. et al. "Reduced Space for Adaptation to Rising Temperatures Increases Risk." Nature Climate Change, 2017.
+3. Kenya Meteorological Department. "Garissa County Climatological Data." Government of Kenya, 2023. https://www.meteo.go.ke
+4. World Bank. "Climate Risk Country Profile: Kenya." 2021. https://www.worldbank.org
+5. Funk, C. et al. "A Climate Trend Analysis of East Africa." FEWS NET Technical Report, 2019. https://www.fews.net

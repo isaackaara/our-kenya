@@ -1,40 +1,30 @@
 # Taita Hills
 
-The Taita Hills are an isolated montane "island" rising dramatically from the surrounding lowland plains in southeastern Kenya, forming the geographic and cultural heart of Taita-Taveta County. The highlands contain exceptional biodiversity, diverse agricultural production, and the cultural homeland of the [[Taita People|Taita]] people. The hills are recognized as a global biodiversity hotspot, with many plant and animal species found nowhere else on Earth.
+The Taita Hills are a remarkable geographical and ecological feature of Taita-Taveta County, rising steeply from the Tsavo plains to elevations exceeding 2,200 metres. This isolated mountain range, located approximately 150 kilometres southwest of Nairobi and near the Kenya-Tanzania border, covers an area of approximately 1,200 square kilometres and forms the western boundary of the county. The hills are geologically distinct, composed primarily of Precambrian metamorphic rocks and granites overlain by volcanic deposits, with their distinctive escarpment visible from considerable distances across the surrounding lowlands.
 
-The Taita Hills rise to approximately 2,200 meters at their highest point, a modest elevation in global terms but significant enough to create distinct climate and ecology compared to the hot, arid lowlands surrounding them. The isolated highland location has created unique evolutionary conditions: species adapted to highland life, unable to disperse across the hot lowlands, have evolved in isolation, leading to high rates of endemism (species found only in this location).
+The formation of the Taita Hills dates to the Precambrian era, approximately 2.5 billion years ago, when granitic and metamorphic rocks were intruded and uplifted. Subsequent weathering and erosion have carved the complex topography of ridges, valleys, and steep slopes that characterize the hills today. The highest peaks include Kasigau (2,228 metres), Vuria (2,205 metres), and Sagalla (2,059 metres). Between these peaks lie fertile valleys such as Wundanyi, which has become the county headquarters.
 
-The climate in the Taita Hills is cooler and wetter than the surrounding plains. Temperatures are moderate year-round, rarely exceeding 25 degrees Celsius even during warm months. Rainfall is higher than lowland areas, supporting lush vegetation. This cooler, wetter climate supported the development of montane forest ecosystems and made the hills attractive for human settlement and agriculture.
+The climate of the Taita Hills differs markedly from the surrounding lowlands. The hills receive considerably higher precipitation, with some locations receiving over 1,400 millimetres annually compared to less than 500 millimetres in the Tsavo plains. This orographic rainfall, caused by moisture-laden air ascending the hillsides, supports lush vegetation including montane forest, agricultural areas, and permanent water sources. The cooler temperatures at higher elevations (approximately 5 degrees Celsius cooler than the plains at the same latitude) create a temperate microclimate within a semi-arid region.
 
-Biodiversity is extraordinary. The Taita Hills contain over 600 plant species, of which roughly 180 are endemic (found only here). Bird diversity is exceptional, with over 300 bird species recorded, including numerous endemic species found nowhere else. The Taita Blue butterfly (Congdonia taita) is an iconic endemic species living only in specific forest patches. Amphibians, reptiles, and mammals are also highly diverse, with numerous endemic species.
+The [[Taita People County|Taita people]] have inhabited these hills for centuries, developing agricultural systems and social structures adapted to the montane environment. The fertile soils and reliable water supply made the Taita Hills an attractive settlement area. Traditional Taita settlement patterns followed ridge-top locations and terraced agriculture on hillsides. The hills remain the primary settlement area for the Taita ethnic group, with populations concentrated in valleys such as Wundanyi, Mbololo, and Chawia.
 
-This biodiversity richness has made the Taita Hills a focus of international conservation attention. Birdwatchers and naturalists from around the world visit to see endemic species. Conservation organizations work to protect remaining forest habitat from clearing and degradation.
+Ecologically, the Taita Hills are globally significant for their biodiversity. The montane forest ecosystem harbours [[Taita Hills Biodiversity|exceptional concentrations of endemic species]], particularly birds, small mammals, and plants found nowhere else on Earth. The isolation of the hills has resulted in speciation processes that have generated unique fauna and flora.
 
-The original vegetation of the Taita Hills was montane forest, adapted to the highland climate. This forest provided resources (timber, medicinal plants, wildlife) and was the habitat for the endemic species. However, much of the forest has been cleared for agriculture and settlement over centuries of human habitation. Today, forest covers only small portions of the hills, perhaps 5-10% of the historical extent, with the remainder converted to agricultural land, plantations, and settlement.
+During the colonial period, the Taita Hills became an area of intensive European settlement and agricultural activity, particularly sisal estates. The British administration designated portions of the hills as forest reserves and demarcated boundaries that would persist into the post-independence era. The railway connection to the region facilitated colonial economic activities.
 
-Agriculture is the primary livelihood in the Taita Hills. The fertile soil and adequate rainfall support productive farming. Crops include maize, beans, cassava, potatoes, and vegetables (tomatoes, onions, cabbages). Fruit trees (mangoes, bananas, pineapples, avocados) are common. The cooler climate makes the hills suitable for crops that struggle in lowland heat. Population density is high compared to lowlands, with many families living on small landholdings.
-
-The Taita people have inhabited and shaped the landscape for centuries. Their agricultural systems, settlement patterns, and oral histories are deeply connected to the hills' ecology and geography. Traditional ecological knowledge of the Taita includes sophisticated understanding of soil management, water conservation, and seasonal timing that allowed sustainable use of the landscape for generations.
-
-Access to the Taita Hills is from the lowlands via steep roads and tracks. Wundanyi is the main highland town. The physical isolation (roads are rough, travel time significant) has meant that the Taita Hills developed somewhat independently from lowland and national dynamics, creating distinctive cultural identity.
-
-Water is abundant in the hills compared to the arid lowlands. Springs and streams flow from the highlands, providing fresh water to the population. This water access has made the hills attractive for settlement and has supported agricultural development.
-
-Climate change poses threats. Changing rainfall patterns, increasing temperatures, and possibly decreasing forest cloud moisture could affect the highlands' climate and ecology. Deforestation increases vulnerability to erosion and water loss. The endemic species are vulnerable to climate change, as their narrow geographic range limits their ability to migrate to more suitable habitats.
+In the contemporary period, the Taita Hills face significant challenges from population pressure, deforestation, and agricultural intensification. Conservation efforts have been considerable, with various forest reserves and protected areas established. The hills remain central to the economy and identity of Taita-Taveta County, supporting agriculture, forestry, and increasingly, conservation-based tourism and research activities.
 
 ## See Also
-
-- [[Taita-Taveta County|Taita-Taveta County]]
-- [[Taita Hills Biodiversity|Taita Hills Biodiversity]]
-- [[Taita People County|Taita People County]]
-- [[Taita-Taveta Agriculture|Taita-Taveta Agriculture]]
-- [[Taita-Taveta Climate|Taita-Taveta Climate]]
-- [[Taita-Taveta Land|Taita-Taveta Land]]
-- [[Taita-Taveta Tourism|Taita-Taveta Tourism]]
+- [[Taita People County]]
+- [[Taita Hills Biodiversity]]
+- [[Taita-Taveta County]]
+- [[Tsavo East National Park]]
+- [[Taita-Taveta Agriculture]]
+- [[Conservation in Kenya]]
+- [[Lake Chala]]
 
 ## Sources
-
-1. Collar, Nigel J. et al. "The Birds of the Taita Hills, Kenya: Systematics, Ecology, and Conservation." (Journal of East African Ornithology, 1994).
-2. Burgess, Neil D. and Fjeldsa, Jon. "The Montane Avifauna of Africa." (In The Afromontane Region, 2000).
-3. Pellikka, Petri et al. "Taita Hills, Kenya: Natural Resource Management." (In Land Use and Soil Resources, edited by Verheye, 2009).
-4. Taita-Taveta County Government. "Environmental Management Plan: Taita Hills Forest Conservation." (2020).
+1. Hedberg, O. (1951). "Vegetation Belts of the East African Mountains." Svensk Botanisk Tidskrift 45: 140-202.
+2. Borghesio, L., et al. (2004). "The Avifauna of the Taita Hills, Kenya." Scopus 24: 1-73.
+3. Taita-Taveta County Government. "County Integrated Development Plan 2022-2027." (2022). https://www.taitataveta.go.ke
+4. Newmark, W. D. (1998). "Mammalian richness, endemism and conservation in the African forest fragments." Biodiversity and Conservation 7: 495-509.

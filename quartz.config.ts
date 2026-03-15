@@ -85,7 +85,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
+      // Disabled for local builds - re-enable before Cloudflare deployment
+      // Plugin.CustomOgImages(),
     ],
   },
 }

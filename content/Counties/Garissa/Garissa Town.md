@@ -1,31 +1,30 @@
 # Garissa Town
 
-Garissa town is the county headquarters of Garissa County, located in northeastern Kenya near the Tana River. As the largest town in the region, Garissa serves as the administrative, commercial, and service center for the county. The town's population is approximately 40,000-50,000 residents, though exact figures are uncertain.
+Garissa town has emerged as one of Kenya's most significant borderland trade hubs, transforming from a small colonial-era trading post into a regional commercial and administrative center. Located at the confluence of the Tana River and regional trade networks connecting Kenya to Somalia, the town population exceeded 150,000 by 2019, making it one of northeastern Kenya's largest urban centers. The town's growth trajectory reflects both the economic dynamism of cross-border commerce and the institutional consolidation of development resources since [[Garissa County|Garissa County]] was formally constituted as a devolved governance unit in 2013.
 
-Garissa developed as a colonial administrative center during British rule. The British established a district administration here to govern the Northern Frontier District (NFD). This colonial legacy shapes the town's infrastructure and institutional character. Government buildings (district/county offices, police station, courthouse) remain central to the town's identity.
+The town's spatial geography reflects its function as a regional hub. The downtown commercial district concentrates around Sheikh Ali Maye Road and the main market area, where small-scale retailers and wholesale traders conduct predominantly informal commerce. This commercial core serves both local Garissa residents and traders from pastoral hinterlands, as well as cross-border merchants engaged in livestock export, grain import, and consumer goods distribution. The residential areas radiate outward in patterns that increasingly formalize toward the town's periphery, where newer planned subdivisions and real estate developments have accelerated since 2010.
 
-The town serves as an economic hub for pastoral communities and refugee camps. Traders from surrounding pastoralist areas bring livestock to Garissa's market. Merchants sell goods from the capital (Nairobi) and imports from Somalia and Tanzania. Banks, mobile money services, and other financial infrastructure operate in the town. This commercial activity generates employment and generates government revenue through taxation.
+Garissa town's economy is fundamentally dependent on [[Garissa Livestock Trade|livestock trade]]. The livestock market operates as a critical price-discovery mechanism for the broader regional pastoral economy, with traders converging from across Garissa County, neighboring [[Tana River in Garissa|Tana River]] settlements, and from Somalia to negotiate sales of camels, cattle, and goats destined for Nairobi slaughterhouses or export. The volume of livestock passing through Garissa markets fluctuates with pastoral cycles and drought conditions, making the town's commercial activity deeply vulnerable to climatic disruption. Beyond livestock, the town hosts grain traders importing maize and rice from the central highlands, and retailers distributing imported consumer goods throughout the county.
 
-The Garissa University Attack (2015) devastated the town psychologically and physically. The attack occurred at Garissa University College, located on the town's outskirts. The incident brought international media attention and military/security interventions, transforming Garissa from a regional town to a place of international security significance.
+The administrative infrastructure of Garissa town has expanded substantially since devolution. The [[Garissa County|county government headquarters]] occupies newly constructed premises, with associated ministries for health, education, infrastructure, and lands distributed across town. This administrative concentration has attracted service sector employment and stimulated local demand for accommodation, restaurants, and business services. Banks, mobile money agents, insurance brokers, and telecommunications companies have all established operations, creating a modest financial services landscape oriented toward supporting cross-border trade and government expenditure.
 
-Water scarcity is a chronic challenge. The Tana River provides some water, but supply is insufficient for the growing population. Boreholes and water trucking supplement river water, but costs are high and supply is unreliable. Water scarcity limits development.
+The town's population growth has generated acute infrastructure pressure. Water supply remains insufficient, with the town dependent on shallow bore holes and rainwater harvesting that prove inadequate during dry seasons. Electricity access has expanded, with connections to the national grid through the Kenya Power distribution system, but reliability remains limited and costs prohibitive for many households. Waste management is largely unregulated, with disposal sites lacking environmental controls. Road infrastructure within the town has improved modestly, with some main arteries receiving bituminous surface, though most residential streets remain unpaved earth roads prone to waterlogging during rains.
 
-Healthcare is inadequate. Garissa Referral Hospital is the main facility, but it is under-resourced, with limited equipment and staffing challenges. Many people lack access to adequate healthcare.
+The town has become increasingly cosmopolitan in character, hosting Kenyan government officials, development workers, international humanitarian staff, and traders from multiple nationalities. This diversity coexists with strong Somali cultural predominance, reflected in the dominance of Somali language in daily commerce, the prevalence of Islamic religious practice, and architectural styles incorporating both traditional and contemporary elements. The town's food and hospitality sectors cater to these varied populations, with restaurants offering both Somali cuisine and standardized Kenyan fare.
 
-Education facilities include primary and secondary schools, but quality and access are limited. Students pursuing higher education typically migrate to Nairobi or other cities.
-
-Security challenges significantly affect the town. Periodic Al-Shabaab attacks, counter-terrorism operations, and general insecurity create an unpredictable environment. Curfews have been imposed periodically. Tourism and investment are deterred by security concerns.
+Garissa town experienced devastating security disruption with the [[Garissa University Attack|Garissa University Attack]] of April 2015, when Al-Shabaab militants stormed Garissa University College on the town's outskirts, killing 148 students and wounding 79 others. This attack profoundly disrupted the town's sense of security and exposed the vulnerability of public institutions to transnational terrorism. The attack's aftermath witnessed substantial security force presence and intensified searches, though operational capacity for preventing such attacks remains contested. The incident accelerated discussions about [[Garissa Security|security]] infrastructure and counterterrorism approaches throughout the county.
 
 ## See Also
-
 - [[Garissa County|Garissa County]]
-- [[Garissa University Attack|Garissa University Attack]]
-- [[Garissa Security|Garissa Security]]
-- [[Garissa Infrastructure|Garissa Infrastructure]]
-- [[Tana River in Garissa|Tana River in Garissa]]
+- [[Garissa Livestock Trade|Livestock Trade]]
+- [[Garissa-Somalia Border|Border Dynamics]]
+- [[Garissa University Attack|University Attack]]
+- [[Tana River in Garissa|Tana River]]
+- [[Garissa Real Estate|Real Estate]]
 
 ## Sources
-
-1. Garissa County Government. "Garissa Town Development Strategy." (2023).
-2. Kenya Bureau of Standards. "Census 2019: Garissa Town." https://www.knbs.or.ke
-3. International Crisis Group. "Countering Terrorism in Kenya." (Africa Briefing, 2014).
+1. Kenya National Bureau of Statistics. "Garissa Town Urban Characteristics: Census 2019." https://www.knbs.or.ke
+2. World Bank. "Kenya Urbanization Review: Secondary Cities." 2017. https://www.worldbank.org
+3. Lammers, M. & Warr, P. "Cross-Border Trade in the Horn of Africa." Journal of Eastern African Studies, 2016.
+4. Kagwanja, P. "Facing Mount Kenya, Facing Mecca: Ethnic Identity and Politics in the Upper Coast." African Affairs, 2003.
+5. Garissa County Government. "County Integrated Development Plan 2018-2022." https://garissa.go.ke

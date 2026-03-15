@@ -1,12 +1,38 @@
 # Garissa Food Security
 
-Garissa Food Security is a significant aspect of Garissa County's context and development.
+[[Garissa County|Garissa County]] experiences chronic and severe food insecurity characterized by high baseline food inadequacy even during non-emergency periods and catastrophic food shortages during drought years. Approximately 25-50 percent of Garissa's population is estimated to live below the food poverty line during normal years, meaning that household food availability is insufficient for adequate caloric intake and nutritional requirements. During drought years (2011-2012, 2016-2017, 2020-2022), the food-insecure population has expanded to encompass 50-80 percent of the county, creating humanitarian emergencies requiring external food assistance at scales approaching entire population support.
+
+Food insecurity in Garissa derives from multiple reinforcing factors specific to the county's environmental, economic, and social context. The semi-arid climate limiting [[Garissa Agriculture|agricultural production]] to riverine irrigation zones means that rain-fed agriculture provides minimal food supply. [[Garissa Pastoralism|Pastoral production]], the dominant livelihood system, is vulnerable to livestock mortality during droughts, reducing pastoral household income and purchasing power for food market purchases. Limited income-generating opportunities outside pastoralism constrain rural household capacity to purchase food during seasons of local scarcity. Household access to land adequate for subsistence agriculture is constrained by pastoral land tenure patterns and population growth. [[Garissa Health|Health]] status impacts including high disease burden and malnutrition further reduce productive capacity and purchasing power.
+
+Drought-driven livestock mortality creates direct income collapse for pastoral households. When [[Garissa Livestock Trade|livestock]] die en masse during droughts, pastoral families lose both consumption animals and cash income from livestock sales. The forced destocking of herds during drought drains pastoral household assets, reducing both immediate nutrition availability and longer-term capacity for livelihood recovery. The 2011-2012 drought reduced pastoral herds by 40-50 percent in severely affected areas; the 2016-2017 drought affected pastoral populations that had only partially recovered from prior drought; the 2020-2022 drought sequence created near-continuous pastoral stress without recovery periods.
+
+Agricultural productivity in Garissa is heavily constrained by water availability. Riverine irrigation schemes along the [[Tana River in Garissa|Tana River]] support cultivation of vegetables, maize, rice, and other crops, but production volumes remain insufficient to supply county food demand. Irrigation scheme productivity depends on adequate water availability, which [[Garissa Climate Change|climate change]] and reduced rainfall are constraining. Rainfed agriculture outside riverine zones is unreliable even in normal years, and essentially nonviable during droughts. The low literacy rates and limited agricultural extension services reduce farmers' capacity to adopt improved agricultural techniques.
+
+Food commodity markets in Garissa are integrated into regional and national systems, with grain prices responsive to national supply and price movements. During drought periods, national grain supply constraints drive price inflation precisely when pastoral income is collapsing, creating double shock for pastoral households unable to afford increasing food prices on reduced incomes. Grain imports from surplus-producing regions, including transport costs, make staple food prices substantially higher in Garissa than in Nairobi or other central regions. Seasonal grain price variation, with prices rising sharply during pre-harvest periods (July-October for maize), creates anticipated food gaps when stored grains are depleted and new harvests not yet available.
+
+Malnutrition rates in Garissa are among Kenya's highest, reflecting chronic food insecurity and limited diversity of food consumption. Stunting (low height-for-age indicating chronic malnutrition) rates among children under five exceed 40-50 percent in many Garissa areas, substantially above the national average of 26 percent. Wasting (low weight-for-height indicating acute malnutrition) spikes during droughts, with rates reaching 15-20 percent during severe drought periods compared to baseline 5-10 percent. Maternal malnutrition remains high, with implications for prenatal and infant development. Micronutrient deficiencies including iodine, vitamin A, and iron deficiency are prevalent, contributing to visible goiter in some populations and reduced cognitive development in children.
+
+The humanitarian system's role in food security is substantial but inadequately resourced. The United Nations World Food Programme (WFP), Kenyan government, and various international and local NGOs implement emergency food assistance during drought crises. However, response scale has typically been insufficient, with coverage reaching 60-70 percent of the food-insecure population at peak periods. Emergency assistance typically provides partial caloric support rather than full sustenance, reducing malnutrition severity but not preventing it. Humanitarian food assistance, while life-saving during emergencies, creates dependency concerns and risks undermining local food production incentives.
+
+The Dadaab Refugee Complex's presence in Garissa creates additional food security burden on local resources. The camps' humanitarian food distribution draws on resources that could alternatively support Kenyan host communities. Host community resentment of humanitarian resource concentration on refugee populations has been documented, though some host communities benefit economically from refugee presence through employment and service provision opportunities.
+
+Livelihood diversification beyond pastoralism would enhance food security resilience, but limited employment opportunities outside pastoral zones constrain this strategy. Young Garissa residents increasingly migrate to Garissa town or Kenya's larger urban centers seeking employment, reducing household rural labor availability and remittances returning to rural areas vary substantially. Some evidence suggests that migrants' remittances, when available, improve household food security; however, most pastoral households lack migrant family members and thus depend entirely on local pastoral production.
+
+Cash transfer programs, providing direct monetary assistance to poorest households, have been piloted in Garissa and show potential for improving household food security. The Hunger Safety Net Programme (HSNP), implemented in Garissa, provides conditional and unconditional transfers to eligible households. However, program coverage reaches only a fraction of food-insecure populations, and transfer amounts are often insufficient for full household food security.
+
+Seasonal food insecurity is predictable, with lean seasons (July-October before maize harvest, and February-March before next rainy season) creating anticipated food gaps. Communities engage in various coping strategies during lean seasons including reducing meal frequency and portion sizes, relying on less preferred foods, borrowing grain on credit, and selling productive assets. These coping strategies, while enabling short-term survival, often cause long-term livelihood damage and poverty deepening.
 
 ## See Also
 - [[Garissa County|Garissa County]]
-- [[Garissa Town|Garissa Town]]
+- [[Garissa Climate Change|Drought and Climate]]
+- [[Garissa Pastoralism|Pastoral Livelihoods]]
+- [[Garissa Agriculture|Agricultural Production]]
+- [[Garissa Health|Nutrition and Health]]
+- [[Dadaab Refugee Complex|Refugee Impact]]
 
 ## Sources
-1. Garissa County Government. "Development Plans." (2023).
-2. Kenya National Bureau of Statistics. "Census 2019." https://www.knbs.or.ke
-3. Regional research sources.
+1. Kenya National Bureau of Statistics. "Kenya Hunger Safety Net Programme Baseline Survey: Garissa County." 2019. https://www.knbs.or.ke
+2. World Food Programme. "Kenya Country Strategic Plan 2017-2021: Garissa County Analysis." https://www.wfp.org
+3. FAO, IFAD, UNICEF, WFP, World Bank. "State of Food Security and Nutrition in the World 2022." Global Report. https://www.fao.org
+4. Huth, P. J. et al. "Food Insecurity, Dietary Diversity, and Nutritional Status in Pastoral Communities of the Horn of Africa." The Lancet, 2020.
+5. Oxfam International. "The Garissa Food Crisis: Causes, Responses, and Long-Term Resilience." Policy Paper, 2022. https://www.oxfam.org

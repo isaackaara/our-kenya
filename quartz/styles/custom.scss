@@ -1,3 +1,276 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Kenya flag palette - used sparingly as accents
+:root {
+  --kenya-green: #006B3F;
+  --kenya-red: #BB0000;
+}
+
+// Subtle Kenyan accent: thin red line at the top of the left sidebar
+.left.sidebar-layout {
+  border-top: 3px solid var(--kenya-red);
+}
+
+// Kenyan green on interactive link hover in content
+.center a:not(.tag-link):hover {
+  color: var(--kenya-green);
+}
+
+// Footer links - Our Kenya pages
+footer a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: var(--kenya-green);
+  text-decoration: underline;
+}
+
+// ============================================================
+// Homepage styles (.homepage cssclass on index.md article)
+// ============================================================
+
+article.homepage {
+  // No breadcrumbs or article-meta chrome on the homepage
+  .article-title {
+    display: none;
+  }
+}
+
+.ok-hero {
+  padding: 2rem 0 2.5rem;
+  border-bottom: 1px solid var(--lightgray);
+  margin-bottom: 2rem;
+}
+
+.ok-tagline {
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  font-family: var(--headerFont);
+  font-weight: 700;
+  color: var(--dark);
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+  letter-spacing: -0.02em;
+}
+
+.ok-intro {
+  font-size: 1rem;
+  color: var(--darkgray);
+  max-width: 560px;
+  line-height: 1.6;
+  margin: 0 0 1.75rem;
+}
+
+.ok-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.625rem;
+  align-items: center;
+}
+
+.ok-cta-primary,
+.ok-cta-secondary,
+.ok-cta-outline {
+  display: inline-block;
+  padding: 0.5625rem 1.125rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.ok-cta-primary {
+  background: var(--kenya-green);
+  color: #fff;
+  border: 1px solid var(--kenya-green);
+}
+
+.ok-cta-primary:hover {
+  background: #005530;
+  border-color: #005530;
+  color: #fff;
+  text-decoration: none;
+}
+
+.ok-cta-secondary {
+  background: var(--secondary);
+  color: #fff;
+  border: 1px solid var(--secondary);
+}
+
+.ok-cta-secondary:hover {
+  opacity: 0.85;
+  color: #fff;
+  text-decoration: none;
+}
+
+.ok-cta-outline {
+  background: transparent;
+  color: var(--darkgray);
+  border: 1px solid var(--lightgray);
+}
+
+.ok-cta-outline:hover {
+  border-color: var(--kenya-green);
+  color: var(--kenya-green);
+  text-decoration: none;
+}
+
+// Verticals grid
+.ok-verticals {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.ok-vertical-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.875rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--dark);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.ok-vertical-card:hover {
+  border-color: var(--kenya-green);
+  box-shadow: 0 2px 8px rgba(0, 107, 63, 0.1);
+  text-decoration: none;
+  color: var(--dark);
+}
+
+.ok-vertical-card strong {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--dark);
+}
+
+.ok-vertical-card span {
+  font-size: 0.8rem;
+  color: var(--gray);
+  line-height: 1.4;
+}
+
+// Story Trails callout on homepage
+.ok-trails-callout {
+  background: var(--highlight);
+  border-left: 3px solid var(--kenya-green);
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.ok-trails-callout p {
+  margin: 0 0 0.75rem;
+  color: var(--darkgray);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.ok-trails-callout p:last-child {
+  margin: 0;
+}
+
+.ok-trails-callout a {
+  color: var(--kenya-green);
+  font-weight: 600;
+}
+
+// Contribute/Support inline CTAs on homepage
+.ok-section-cta {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+  color: var(--kenya-green);
+  text-decoration: none;
+}
+
+.ok-section-cta:hover {
+  text-decoration: underline;
+  color: var(--kenya-green);
+}
+
+// ============================================================
+// Support page
+// ============================================================
+
+.ok-support-card {
+  border: 2px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 420px;
+  margin: 1.5rem 0;
+}
+
+.ok-paybill-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gray);
+  margin: 0 0 0.25rem;
+}
+
+.ok-paybill-value {
+  font-size: 2rem;
+  font-family: var(--codeFont);
+  font-weight: 700;
+  color: var(--dark);
+  line-height: 1;
+  margin: 0 0 1.25rem;
+}
+
+.ok-amounts {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.ok-amount-pill {
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 99px;
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  font-weight: 600;
+}
+
+.ok-support-note {
+  font-size: 0.875rem;
+  color: var(--gray);
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+// ============================================================
+// Mobile adjustments
+// ============================================================
+
+@media (max-width: 800px) {
+  .ok-verticals {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  }
+
+  .ok-hero {
+    padding: 1.25rem 0 2rem;
+  }
+
+  .ok-cta-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .ok-cta-primary,
+  .ok-cta-secondary,
+  .ok-cta-outline {
+    width: 100%;
+    text-align: center;
+  }
+}

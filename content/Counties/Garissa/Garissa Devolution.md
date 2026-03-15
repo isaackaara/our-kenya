@@ -1,12 +1,39 @@
 # Garissa Devolution
 
-Garissa Devolution is a significant aspect of Garissa County's context and development.
+Devolution in [[Garissa County|Garissa County]], implemented through the 2010 Kenya Constitution and formally inaugurated in 2013, transferred governance authority and functions from centralized national government to newly created 47 county governments, establishing [[Garissa Politics|Garissa County Government]] as a distinct political and administrative entity. The devolution process constitutionally mandated the transfer of service delivery functions including health, education, agriculture, water, and local infrastructure from national government ministries to county administrations, though implementation has been complex and continues to evolve.
+
+Constitutional devolution created a bicameral parliament with national parliament (342 members) and county assemblies (ranging from 20-60 members per county). County governments are headed by elected governors serving five-year terms alongside elected deputy governors, with county treasurers and executive committee members appointed by the governor. County assemblies provide legislative oversight, budget approval, and accountability mechanisms. The design intended to bring governance closer to communities, improve responsiveness to local needs, and promote equitable development.
+
+Garissa County Government's establishment required construction of institutional infrastructure including offices, staff recruitment, procedures, and management systems for newly transferred functions. This institutional building occurred simultaneously with financial transfers, creating capacity strains as nascent institutions attempted to manage transferred functions without adequate preparation. The first county government (2013-2017) operated without well-established procedures, with learning-by-doing characterizing governance approaches. Subsequent administrations have benefited from accumulated experience, though institutional capacity remains limited relative to functions undertaken.
+
+Devolved services in Garissa include primary [[Garissa Education|education]] (kindergarten through primary), secondary education, county health services (county and subcounty health facilities), agricultural extension services, county roads, local spatial planning, and county water supply systems. These functions, previously managed nationally with regional variations in investment, now operate under county control. Service delivery outcomes have been mixed, with some counties advancing services while others have experienced deterioration due to inadequate resource allocation or institutional challenges.
+
+County revenue sources include: (1) Equitable Share, the constitutionally mandated national government allocation to counties calculated through the Commission on Revenue Allocation based on population and development indices, (2) Conditional Grants for specific national programs, and (3) Own Source Revenue from local taxation and fees. Garissa County's Equitable Share has averaged approximately KES 20-25 billion annually, with own source revenue minimal at under KES 1-2 billion. This limited revenue, while substantial in absolute terms, proves insufficient for service delivery at adequate standards across the large county territory.
+
+Budget allocation decisions within Garissa County Government reflect political choices and donor influences. The county traditionally allocates approximately 40-50 percent of recurrent budget to health, 20-30 percent to education, 10-15 percent to agriculture, with smaller allocations to other functions. Capital expenditure, funded partially through national grants and donor resources, allocates toward infrastructure projects including roads, water systems, and facility construction. The budget's structure reflects competing demands and available resource constraints.
+
+Coordination between national and county governments has been challenging, with overlapping responsibilities in some sectors (national government retains tertiary education, tertiary health, highways; counties manage primary and secondary sectors). The separation of parliamentary levels has sometimes created political tension when different parties control national and county government, creating disagreements over resource allocation and policy direction.
+
+Institutional challenges in Garissa devolution have included high staff turnover, limited human resource development, and weak accountability mechanisms. County civil service recruitment has sometimes been challenged by political interference in recruitment processes, with appointments reflecting political loyalties rather than merit. Staff retention has been difficult due to limited career advancement opportunities and modest compensation relative to private sector. County assembly oversight, while constitutionally mandated, has sometimes been constrained by limited analytical capacity and political party coalitions favoring executive interests over accountability.
+
+The revenue allocation formula determining the Equitable Share has been contentious, with counties receiving lower per capita allocations arguing for formula revision to increase their allocations. Garissa, as a resource-poor county with low population density, has argued that the formula inadequately accounts for the additional per capita cost of delivering services to dispersed pastoral populations. These formula debates remain ongoing within the Commission on Revenue Allocation and national politics.
+
+Devolution's contribution to reducing regional development inequality has been debated, with some evidence suggesting that county-level investment has directed resources toward county capitals, perpetuating geographic inequality within counties. Pastoral areas within Garissa have been particularly disadvantaged by development concentration in Garissa town.
+
+Fiscal responsibility and financial management challenges have emerged, with some counties experiencing cash-flow crises due to delayed national transfers or ineffective revenue collection. Garissa has occasionally experienced salary delays for county civil servants due to budget constraints. The Controller of Budget, a national institution, has auditing and accountability authority over county budgets but has limited enforcement capacity.
+
+Inter-county cooperation mechanisms remain underdeveloped, with Garissa's relationships with neighboring counties (Tana River, Isiolo, Taita-Taveta) limited to occasional joint coordination on trans-boundary issues. Regional economic integration opportunities through county cooperation remain underexploited.
 
 ## See Also
 - [[Garissa County|Garissa County]]
-- [[Garissa Town|Garissa Town]]
+- [[Garissa Politics|Political Leadership]]
+- [[Garissa Education|Education Service Delivery]]
+- [[Garissa Health|Health Service Delivery]]
+- [[Garissa Infrastructure|Development Investment]]
 
 ## Sources
-1. Garissa County Government. "Development Plans." (2023).
-2. Kenya National Bureau of Statistics. "Census 2019." https://www.knbs.or.ke
-3. Regional research sources.
+1. Kenya Constitution 2010. "Chapter Eleven: Devolved Government." Government of Kenya.
+2. Commission on Revenue Allocation (CRA). "Equitable Benefit Sharing and County Allocations Reports." Government of Kenya, 2023. https://www.crakenya.org
+3. World Bank. "Kenya Devolution Impact Assessment: Service Delivery and Development Outcomes." Technical Report, 2020. https://www.worldbank.org
+4. Garissa County Government. "County Integrated Development Plan 2018-2022." https://garissa.go.ke
+5. Institute of Public Law and Democratic Governance. "Devolution in Kenya: Five Years of Implementation." Assessment Report, 2018. https://www.ipldg.or.ke

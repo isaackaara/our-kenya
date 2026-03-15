@@ -1,12 +1,35 @@
 # Tana River in Garissa
 
-Tana River in Garissa is a significant aspect of Garissa County's context and development.
+The Tana River, Kenya's longest river at approximately 1,038 kilometers, flows through [[Garissa County|Garissa County]] in its lower reaches as it descends toward the Indian Ocean, serving as the county's primary water resource and defining geographical feature. The Tana is formed by the confluence of the Ewaso Nyiro (White Nile) and the Athi River in the eastern highlands of Kenya, flowing northeast through arid and semi-arid zones for over 800 kilometers before entering Garissa County in its lower course. The river's passage through Garissa creates a ribbon of riparian vegetation and perennial water resources within an otherwise semi-arid landscape, supporting concentrated settlement, agriculture, and wildlife habitat distinct from surrounding pastoral territories.
+
+The river's flow through Garissa is influenced by rainfall patterns across its entire 140,000+ square kilometer drainage basin, extending from the central highlands to the Indian Ocean coast. The Tana's discharge volume fluctuates seasonally, with peak flows typically occurring between April-May and October-November, responding to highland rainfall cycles. During drought periods, the river's volume decreases substantially, though it maintains perennial flow unlike many other East African rivers. The river forms the administrative boundary between Garissa County to the north and [[../Tana River|Tana River County]] to the south, with distinct but overlapping pastoral populations inhabiting territories on either side.
+
+The riparian zone along the Tana in Garissa supports distinctive ecosystems characterized by riverine forests, acacia woodlands, and grasslands. Vegetation includes species including the doum palm, date palm, tamarisk, and riverine fig trees adapted to periodic flooding and alluvial soil conditions. These riparian habitats support wildlife populations including hippopotamus, crocodiles, buffalo, elephant, lion, and numerous bird species, with the Tana River Delta at the river's mouth representing one of East Africa's most significant wetland ecosystems. The river's ecological distinctiveness creates biodiversity hotspots within an otherwise xeric landscape, with conservation significance recognized through various protected area designations.
+
+Settlement patterns in Garissa County reflect the Tana's role as a water source and subsistence support. Riverine communities have practiced agriculture and fishing for generations, with cultivation of maize, sorghum, millet, vegetables, and date palms concentrated in alluvial flood plains and irrigated plots. Traditional fishing communities, including some populations of Bajuni and other maritime groups, harvest tilapia, catfish, and other fish species from the river's pools and channels. These riverine livelihoods coexist with pastoral herd management in adjacent upland zones, creating economically diverse communities integrated within broader Garissa political economy.
+
+Development of irrigation schemes along the Tana in Garissa has been pursued since the colonial period and expanded substantially since independence. Irrigation initiatives including the Tana Irrigation Scheme (TARDA), Garissa Irrigation Scheme, and numerous small-scale farmer irrigation groups seek to maximize agricultural productivity within the river's floodplain. These schemes typically cultivate rice, vegetables, fruits, and fodder crops destined for local consumption and regional markets. Irrigation development has created new economic opportunities while generating resource competition with pastoral water users and conservation interests. The schemes' productivity depends on maintaining adequate water availability and managing the Tana's seasonal flow fluctuations.
+
+Hydroelectric power generation along the Tana upstream of Garissa County, at facilities including the Kamburu and Gitaru dams, has shaped water availability for Garissa users. The dams regulate the Tana's flow for electricity generation, creating controlled release regimes that benefit downstream irrigation schemes but may be suboptimal for ecological flows or fishing communities. Negotiations between Kenya's power utility (Kenya Electricity Generating Company, KenGen), water authority (Water Resources Management Authority, WRMA), agricultural ministries, and local communities regarding dam operation and water allocation represent ongoing governance challenges.
+
+The Tana River's role in [[Garissa Pastoralism|pastoral economy]] is equally critical. Pastoralist communities depending on camels, cattle, and goats have historically accessed the river as a crucial dry-season water source when upland boreholes and shallow wells become depleted. Pastoral water access points along the Tana include traditional watering zones that have been used for generations. Competition for dry-season water between pastoral herds, irrigation schemes, domestic water supply systems, and wildlife conservation has intensified during the recurring droughts that characterize the region. These conflicts have occasionally erupted into violent resource disputes between pastoral communities along the river.
+
+Water quality in the Tana within Garissa has deteriorated due to upstream pollution from industrial and agricultural sources, sedimentation from degraded watersheds, and inadequate treatment infrastructure. Communities relying on untreated river water face disease risks including waterborne pathogens, parasitic infections, and contamination from chemical and industrial effluent. Water supply systems serving Garissa town and surrounding settlements typically include boreholes rather than direct river abstraction, though many rural communities remain dependent on surface water sources.
+
+Cross-border water sharing and management represents a diplomatic dimension of the Tana's presence in Garissa. Although the Tana remains entirely within Kenya and does not form a formal international boundary, the river has historically served as a practical boundary between Kenyan and Somali pastoral territories. Water rights and allocation discussions involving Kenya and potential transboundary water agreements with upstream nations fall within broader East African water governance frameworks.
+
+The Tana River Delta, where the river enters the Indian Ocean, lies outside Garissa County in Tana River County and serves as habitat for marine and estuarine species including mangrove forests, which provide nurseries for fish and crustacean populations. The delta's ecological integrity has conservation significance recognized internationally, with recognition as a wetland of international importance.
 
 ## See Also
 - [[Garissa County|Garissa County]]
-- [[Garissa Town|Garissa Town]]
+- [[Garissa Pastoralism|Pastoral Livelihoods]]
+- [[Garissa Agriculture|Irrigation Agriculture]]
+- [[Garissa Climate Change|Water Availability Challenges]]
+- [[Garissa Food Security|Food Production Systems]]
 
 ## Sources
-1. Garissa County Government. "Development Plans." (2023).
-2. Kenya National Bureau of Statistics. "Census 2019." https://www.knbs.or.ke
-3. Regional research sources.
+1. Mati, B. M. et al. "Water Use in the Tana River Basin, Kenya: Situation Analysis and Recommendation." Irrigation and Drainage, 2008.
+2. WRMA (Water Resources Management Authority). "Tana River Basin Management Plan." Government of Kenya, 2018. https://www.wrma.go.ke
+3. Kronen, M. & Gordon, A. "The Tana River in Kenya: Ecology, History, and Development." Environmental Management, 2010.
+4. Kenya National Bureau of Statistics. "Water Resource Census and Utilization in Garissa County." 2021. https://www.knbs.or.ke
+5. Abwao, J. et al. "Transboundary Water Resources in the Horn of Africa: Governance and Sustainable Utilization." Journal of Eastern African Studies, 2015.

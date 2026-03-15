@@ -1,69 +1,32 @@
 # Taita-Taveta County
 
-Taita-Taveta County is a large southeastern county spanning from the Taita Hills (an isolated highland region) to vast lowland plains containing Tsavo, one of the world's largest wildlife reserves. Located near the Kenya-Tanzania border with Mount Kilimanjaro visible on clear days, the county bridges highland and lowland ecosystems, pastoral and agricultural livelihoods, and tourism with conservation.
+Taita-Taveta County is located in the southernmost region of Kenya, bordering Tanzania to the south and west. The county covers an area of approximately 17,000 square kilometres and had a population of 364,827 according to the 2019 national census. The county is administratively divided into five sub-counties: Taita, Mwatate, Wundanyi, Taveta, and Voi. The county capital is Wundanyi, while Voi is the largest urban centre and primary commercial hub.
 
-The county's population is approximately 380,000, with major population centers in Voi (the county headquarters), Wundanyi (a highland town), and Taveta (a border town). The [[Taita People|Taita]], a Bantu ethnic group, inhabit the Taita Hills and adjacent lowlands. The Taveta people inhabit the Lake Chala region. Pastoral communities (primarily Maasai and Samburu) graze livestock in the lowland plains.
+The geography of Taita-Taveta is remarkably diverse. The western portion of the county is dominated by the [[Taita Hills]], an isolated mountain range rising to over 2,200 metres and featuring the highest concentration of endemic bird species in Africa. The eastern and southern portions are dominated by the vast Tsavo ecosystem, encompassing both [[Tsavo East National Park]] and [[Tsavo West National Park]]. These protected areas constitute the largest national park system in Kenya and harbour significant populations of elephants, lions, buffalo, and diverse other wildlife species. The southern boundary is formed by [[Lake Chala]], a crater lake straddling the Kenya-Tanzania border.
 
-The landscape is dramatic. The Taita Hills rise suddenly from surrounding plains, creating an isolated "island" of cool highland climate, fertile soil, and high population density. The lowlands are hot, semi-arid, and less densely populated, dominated by Tsavo National Park (comprising Tsavo East and Tsavo West, together covering roughly 22,000 square kilometers). This represents one of the largest protected wildlife areas in Africa.
+The county has a predominantly rural economy centred on agriculture and pastoral activities. The fertile Taita Hills support intensive crop cultivation, while the semi-arid lowlands support pastoral and agro-pastoral systems. The county also benefits from tourism revenue, particularly from the Tsavo parks and increasingly from heritage and cultural tourism related to Taita cultural attractions. Wildlife conservation and tourism form important economic sectors.
 
-The Taita-Taveta lowlands were historically the site of the infamous Tsavo man-eating lions incident (1898), when two lions terrorized workers building the Uganda Railway. The story remains iconic in Kenyan and world history. Today, Tsavo is a major wildlife tourism destination, attracting international tourists to view elephants, lions, rhinos, and hundreds of other animal species.
+The [[Taita people]] form the largest ethnic group, comprising approximately 60-70 percent of the county population. The Taita have a distinct language (Kitaita) and cultural traditions. Other groups include the [[Maasai]], who inhabit portions of the lowlands, and various migrant populations attracted by economic opportunities. The Taita people have a long history of intensive agricultural settlement in the hills, with strong cultural identity and attachment to their homeland.
 
-Historically, Taita-Taveta was a frontier region between Bantu agricultural communities (Taita) and Nilotic pastoral communities (Maasai, Samburu). This created cultural diversity and sometimes tension. The Uganda Railway (built 1896-1901) passes through Voi, the major junction where the coast line branches from the inland line. This railway connection was fundamental to colonial development and remains important for freight and passenger transport.
+The county experienced significant transformation during the colonial period. The construction of the [[Uganda Railway Taita-Taveta|Uganda Railway]] in the early 1900s had transformative effects on settlement patterns and economic activities. European planters established substantial sisal estates, which became the dominant economic enterprise until declining global prices and competition reduced the industry's importance in recent decades.
 
-Economically, Taita-Taveta is dominated by sisal estates (large-scale plantation agriculture for sisal fiber), agriculture (fruit, vegetables in the hills), livestock (pastoralism in lowlands), wildlife tourism (lodges, national park fees), and increasingly, the Standard Gauge Railway (SGR) tourism development. The economic diversity makes Taita-Taveta less dependent on a single sector than some other counties.
+In the post-independence period, Taita-Taveta became a county under Kenya's devolved governance system following the 2010 constitutional reform. The establishment of county government structures has enabled local governance and planning, though implementation challenges remain related to resource constraints and capacity limitations.
 
-Ecologically, Taita-Taveta contains extraordinary biodiversity. The Taita Hills are recognized as a global biodiversity hotspot, containing numerous endemic bird and plant species found nowhere else on Earth. The Tsavo ecosystem supports megafauna (elephants, lions, rhinos) that make it internationally significant for conservation. This ecological wealth creates tourism potential but also conservation challenges (poaching, habitat loss, human-wildlife conflict).
+The county faces significant development challenges including chronic water scarcity in the lowlands, persistent poverty particularly among pastoral populations, limited infrastructure development in rural areas, and vulnerability to climate-induced droughts. Climate change poses an increasingly serious threat to both agricultural and pastoral production systems. Conservation efforts in the Taita Hills have been extensive, though ongoing deforestation and land-use pressure continue to threaten endemic biodiversity.
 
-Infrastructure development is significant. The SGR passes through Voi, with potential for tourism growth through SGR safari trains. Roads connect major towns, though quality varies. Water scarcity remains a challenge, particularly in lowland areas. Health and education services are available in main towns but more limited in remote areas.
-
-Devolution has created county government structures focused on education, health, agriculture, and local development. The Taita-Taveta County Government manages resources and development planning, though often in coordination with national government on cross-cutting issues.
-
-## County Overview Notes
-
-1. [[Voi Town|Voi Town]] - County headquarters and railway junction
-2. [[Taita Hills|Taita Hills]] - Isolated montane region with exceptional biodiversity
-3. [[Taita People County|Taita People County]] - Bantu agricultural community
-4. [[Taveta Town|Taveta Town]] - Kenya-Tanzania border settlement
-5. [[Tsavo East National Park|Tsavo East National Park]] - Major wildlife reserve
-6. [[Tsavo West National Park|Tsavo West National Park]] - Protected wilderness area
-7. [[Tsavo Man-Eaters|Tsavo Man-Eaters]] - Historic man-eating lions incident
-8. [[Lake Chala|Lake Chala]] - Crater lake on the Kenya-Tanzania border
-9. [[Taita-Taveta Sisal|Taita-Taveta Sisal]] - Plantation agriculture economy
-10. [[Uganda Railway Taita-Taveta|Uganda Railway Taita-Taveta]] - Transport corridor
-11. [[Taita-Taveta Wildlife|Taita-Taveta Wildlife]] - Ecosystem and fauna
-12. [[Taita Hills Biodiversity|Taita Hills Biodiversity]] - Endemic species hotspot
-13. [[Taita-Taveta Agriculture|Taita-Taveta Agriculture]] - Highland and lowland farming
-14. [[Taita-Taveta Politics|Taita-Taveta Politics]] - Governance and political history
-15. [[Taita-Taveta Colonial History|Taita-Taveta Colonial History]] - Railway and sisal era
-16. [[Taita-Taveta Infrastructure|Taita-Taveta Infrastructure]] - Roads and connectivity
-17. [[Taita-Taveta Education|Taita-Taveta Education]] - Schools and literacy
-18. [[Taita-Taveta Health|Taita-Taveta Health]] - Healthcare facilities
-19. [[Taita-Taveta Land|Taita-Taveta Land]] - Land tenure and estates
-20. [[Taita-Taveta Youth|Taita-Taveta Youth]] - Young people and employment
-21. [[Taita-Taveta Women|Taita-Taveta Women]] - Gender and women's roles
-22. [[Taita-Taveta Devolution|Taita-Taveta Devolution]] - County governance
-23. [[Taita-Taveta Climate|Taita-Taveta Climate]] - Highland and lowland climates
-24. [[Taita-Taveta Tourism|Taita-Taveta Tourism]] - Tsavo and heritage tourism
-25. [[Taita-Taveta Notable People|Taita-Taveta Notable People]] - Prominent figures
-26. [[Taita-Taveta Cultural Heritage|Taita-Taveta Cultural Heritage]] - Traditions
-27. [[Taita-Taveta Real Estate|Taita-Taveta Real Estate]] - Property market
-28. [[Taita-Taveta Climate Change|Taita-Taveta Climate Change]] - Drought impacts
-29. [[Taita-Taveta Ecosystem|Taita-Taveta Ecosystem]] - Natural systems
-30. [[Taita-Taveta Timeline|Taita-Taveta Timeline]] - Key historical dates
+Economic development remains the primary challenge. The county's remoteness from major markets, limited industrial development, and heavy dependence on primary production (agriculture, pastoralism, and extraction) constrain income generation. However, tourism, conservation initiatives, and agricultural intensification offer development opportunities.
 
 ## See Also
-
-- [[Tsavo East National Park|Tsavo National Parks and Wildlife]]
-- [[Taita Hills|Taita Hills and Biodiversity]]
-- [[Taita-Taveta Tourism|Tourism Economy]]
-- [[../../Taita/Taita|Taita People and Culture]]
-- [[../Mombasa/Mombasa County|Coastal Connection]]
-- [[../../Maasai/Maasai|Pastoral Communities]]
-- [[Uganda Railway|Historical Infrastructure]]
+- [[Taita Hills]]
+- [[Taita People County]]
+- [[Tsavo East National Park]]
+- [[Tsavo West National Park]]
+- [[Taita-Taveta Agriculture]]
+- [[Voi Town]]
+- [[Taveta Town]]
 
 ## Sources
-
-1. Kenya National Bureau of Statistics. "2019 Kenya Population and Housing Census: Taita-Taveta County Profile." https://www.knbs.or.ke
-2. Tsavo Trust. "Tsavo Ecosystem Conservation: Status and Initiatives." https://www.tsavotrust.org
-3. Collar, Nigel J. et al. "The Birds of the Taita Hills, Kenya: Systematics, Ecology, and Conservation." (Journal of East African Ornithology, 1994).
-4. Taita-Taveta County Government. "Integrated County Development Plan 2023-2027." (2023).
+1. Taita-Taveta County Government. "County Integrated Development Plan 2022-2027." (2022). https://www.taitataveta.go.ke
+2. Kenya National Bureau of Statistics. "Census 2019: County Demographics." https://www.knbs.or.ke
+3. Stiles, D. (2010). "Population Pressures and Land-Use Change in Taita-Taveta." Journal of East African Studies 4(1): 90-105.
+4. Ministry of Environment and Forestry. "Taita-Taveta Conservation Status Report." (2021). https://www.environment.go.ke

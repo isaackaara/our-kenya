@@ -1,5 +1,5 @@
 ---
-title: [[Eliud Kipchoge|Eliud Kipchoge]] Deep Dive
+title: Eliud Kipchoge Deep Dive
 ---
 
 # Eliud Kipchoge Deep Dive
