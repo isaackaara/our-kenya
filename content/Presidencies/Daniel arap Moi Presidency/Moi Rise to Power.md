@@ -1,0 +1,29 @@
+# Moi Rise to Power
+
+Daniel Toroitich arap Moi's ascent from humble origins in the Nandi region to Kenya's presidency represents one of Africa's most improbable political journeys. Born in 1924 in Kurieno village, Moi grew up in a pastoral [[Kalenjin]] community with limited formal education. His early life offered no indication he would eventually lead Kenya for 24 years. Unlike the nationalist titans of Kenya's independence movement, Moi was neither a prominent anti-colonial figure nor a leading voice in pre-independence politics. Yet through political acumen, strategic timing, and careful cultivation of relationships, he maneuvered himself into the presidency upon [[Jomo Kenyatta]]'s death in 1978.
+
+Moi's education began at a mission school in Kericho, where he eventually became a teacher. This background gave him modest status in the community but did not position him for national leadership. His political career began when he won the Rift Valley member of parliament seat for Baringo in Kenya's first post-independence elections in 1963. As a backbencher, he distinguished himself not through rhetoric or ideological fire, but through loyalty to the dominant Kikuyu establishment and pragmatic support for Kenyatta's consolidation of power. This quiet, deferential approach initially appeared to limit his influence but would ultimately prove his greatest asset.
+
+The turning point came in 1967 when [[Jomo Kenyatta]] appointed Moi as Vice President, making him second-in-command of the nation. This was a surprising choice given that Charles Njonjo, a more prominent Kikuyu lawyer and politician, had been expected to eventually succeed Kenyatta. Historians suggest that Kenyatta may have deliberately chosen Moi precisely because he posed no immediate threat. Moi was a political outsider from the Rift Valley, representing a region far from the Kikuyu heartland. As Vice President, Moi largely remained invisible, dutifully attending state functions but wielding little real power. Few anticipated that this quiet, seemingly deferential figure would become Kenyatta's successor.
+
+Kenyatta's declining health in the late 1970s created succession uncertainty. Charles Njonjo positioned himself as the natural heir, enjoying the backing of powerful Kikuyu business and political interests. However, Njonjo's ambitions alarmed other factions within the elite who feared excessive concentration of power in his hands. Moi, meanwhile, cultivated relationships with key military and political figures, particularly those outside the Kikuyu establishment. When Kenyatta died in August 1978, the succession was neither predetermined nor inevitable. Moi's survival as Vice President, combined with his cultivation of military support and his status as an ethnic outsider who might dilute Kikuyu dominance, made him the compromise candidate who could unite fractious elite factions.
+
+Moi's initial presentation to the nation emphasized continuity. His adopted motto, "Nyayo" (following in footsteps), explicitly positioned his presidency as a continuation of Kenyatta's legacy. He pledged to maintain Kenya's capitalist development model, its Western alignment, and its existing political structures. This messaging reassured the international community and the Kenyan elite that Moi would be a steady, conservative figure. Yet this image of continuity masked Moi's fundamental objective: consolidating personal power in ways Kenyatta had never attempted.
+
+The early years of Moi's presidency saw careful moves to consolidate support. He eliminated potential rivals gradually but deliberately. [[Charles Njonjo]], the most obvious alternative, was marginalized through accusations of disloyalty and forced from office. Moi also moved systematically to replace key civil servants, military officers, and provincial administrators with loyalists. Unlike Kenyatta, who had balanced competing ethnic and regional interests, Moi increasingly favored his own Kalenjin community in state positions. This shift provoked resentment among Kenya's larger ethnic groups, particularly the Kikuyu, who had dominated post-colonial Kenya.
+
+The 1982 coup attempt represented the first major test of Moi's consolidated power and appeared to harden his commitment to absolute control. Young air force officers, frustrated by Moi's authoritarian tendencies and limited economic opportunities, attempted to overthrow the government. Although the coup was quickly suppressed, it convinced Moi that he faced potential threats from multiple directions and that comprehensive state control was necessary for his survival. In the aftermath, Moi moved rapidly to eliminate potential opponents, curtail civil liberties, and create security apparatus that answered directly to him.
+
+## See Also
+
+- [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
+- [[../../Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
+- [[Charles Njonjo|Charles Njonjo]]
+- [[Kalenjin Politics in Kenya|Kalenjin Politics in Kenya]]
+- [[Kenya Vice Presidency|Kenya Vice Presidency]]
+
+## Sources
+
+1. Widner, Jennifer A. "The Rise of a Party-State in Kenya: From Harambee to Nyayo." University of California Press, 1992. https://www.jstor.org/stable/10.1525/j.ctv1xxvf9
+2. Rosberg, Carl G. and Jackson, Robert H. "Personal Rule in Black Africa: Prince, Autocrat, Prophet, Tyrant." University of California Press, 1982. https://www.jstor.org
+3. Throup, David. "Elections and Political Conflict in Kenya." Eastern African Studies, 1989. https://www.worldcat.org

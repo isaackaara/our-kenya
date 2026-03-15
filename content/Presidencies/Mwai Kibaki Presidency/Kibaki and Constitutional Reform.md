@@ -1,0 +1,35 @@
+# Kibaki and Constitutional Reform
+
+Constitutional reform was central to [[Mwai Kibaki]]'s reform agenda and a key election promise in 2002. The promise of constitutional change emerged from wide recognition that Kenya's post-colonial constitutions, inherited from the colonial period and repeatedly amended under Moi to strengthen executive power, required fundamental reform. However, Kibaki's constitutional reform efforts proceeded haltingly and produced mixed results. The 2005 constitutional referendum rejection represented a major setback, yet the eventual 2010 constitutional reform, though occurring near the end of his presidency, represents a genuine legacy achievement.
+
+The constitutional reform process began immediately after Kibaki took office. A commission was established to draft a new constitution incorporating input from civil society, political parties, and government. The drafting process was contentious, with competing visions of governance, resource distribution, and power relationships. Religious organizations emphasized constitutional protection for religious values. Women's groups advocated for gender equality provisions. Federal advocates pushed for decentralized governance, while centralists argued for strong national government. The constitutional draft that emerged reflected these competing interests imperfectly.
+
+The 2005 constitutional referendum was called to allow Kenyans to vote on the draft constitution. The government supported approval, yet internal divisions within the ruling coalition, particularly opposition from Kikuyu elites opposed to certain provisions, undermined support. The referendum unexpectedly rejected the constitution, with approximately 59 percent voting against approval. The rejection was shocking to the government and suggested that Kenyan voters were dissatisfied with the proposed constitutional framework. The failure represented a significant embarrassment to Kibaki and delayed constitutional reform substantially.
+
+Following the 2005 constitutional rejection, the constitutional reform process stalled for several years. The government and civil society struggled to determine how to proceed with constitutional reform in light of the referendum rejection. The 2007 post-election violence and its aftermath shifted political priorities away from constitutional reform toward addressing the violence and its consequences. The power-sharing arrangement between Kibaki and opposition leader Raila Odinga created the possibility that constitutional reform might again advance.
+
+The new constitutional process that emerged in 2008 was informed by the 2007 election crisis. Constitutional reformers sought to create institutions and governance structures that would prevent future political violence. Devolved governance, distributing power to county governments, was seen as a way to provide political opportunities for diverse ethnic groups and to prevent any single group from monopolizing national power. The constitutional draft that eventually emerged reflected this concern about political inclusion and power distribution.
+
+The 2010 constitutional referendum saw Kenyans vote on a new constitution that promised substantial institutional changes. The new constitution created a Prime Minister position (though technically a "Deputy President" position was created, replacing Prime Minister in the eventual 2013 constitution), created 47 county governments with substantial autonomy, included a bill of rights, and included various other institutional reforms. The new constitution was approved overwhelmingly, with approximately 67 percent voting in favor. The approval suggested that Kenyans supported the institutional restructuring promised by the constitution.
+
+The 2010 constitution represented substantial institutional change in Kenya's governance structures. The devolution of power to county governments meant that previously centralized authority was distributed to 47 county governments with elected governors and assemblies. This devolution was intended to provide political opportunities for diverse communities and to address historical grievances regarding resource distribution. The effect of devolution on Kenya's governance has been mixed, with some counties performing effectively while others struggle with capacity and corruption issues.
+
+However, Kibaki's role in the ultimate constitutional reform was limited. By the time the 2010 constitution was approved, Kibaki's presidency was nearing its conclusion. The constitutional reform process reflected broader political dynamics and inputs from civil society, religious organizations, and opposition figures, not primarily Kibaki's vision. The constitutional reform, while a genuine achievement, represented the conclusion of a long process that began under Kibaki but encompassed far more than his direct influence.
+
+The constitutional provisions addressing executive power represented one dimension of reform. The new constitution created more independent judiciary, more powerful parliament, and more constrained presidency than previous constitutions. However, the extent to which these provisions have constrained executive power in practice remains contested. Subsequent presidents have found ways to exercise substantial authority despite constitutional constraints, suggesting that written constitutional provisions do not automatically translate into constrained executive power.
+
+The devolution provisions of the 2010 constitution created new opportunities and challenges. County governments were responsible for substantial portions of government services and expenditure. However, capacity constraints, corruption, and coordination challenges between national and county governments have complicated the devolution process. The transition to devolved governance required substantial institutional development that continues even years after the constitution's adoption.
+
+## See Also
+
+- [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
+- [[Kenya 2010 Constitution|Kenya 2010 Constitution]]
+- [[Kenya Constitutional Reform|Kenya Constitutional Reform]]
+- [[Kenya Devolved Government|Kenya Devolved Government]]
+- [[Kenya Governance Structures|Kenya Governance Structures]]
+
+## Sources
+
+1. Ghai, Yash. "The Architecture of a New Constitution for Kenya." In "Kenya: The Quest for Prosperity," edited by Basil Mosely. Oxford University Press, 2005. https://www.oxford.org
+2. Branch, Daniel. "Kenya: Between Hope and Despair, 1992-2011." Yale University Press, 2011. https://www.yalebooks.com
+3. Lynch, Gabrielle. "I Say to You: Ethnic Politics and the Kenyan Presidency." University of Chicago Press, 2011. https://www.press.uchicago.edu

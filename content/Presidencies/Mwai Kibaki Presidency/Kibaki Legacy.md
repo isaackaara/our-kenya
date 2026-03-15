@@ -1,0 +1,37 @@
+# Kibaki Legacy
+
+The legacy of [[Mwai Kibaki]]'s presidency from 2003 to 2013 remains contested, reflecting the contradictions between the optimism of his early years and the disappointments of his later tenure. Kibaki came to office promising comprehensive reform after two decades of [[Daniel arap Moi]]'s authoritarian rule. His presidency did achieve some significant accomplishments, particularly free primary education and infrastructure development, yet fell short of the transformative change many Kenyans anticipated. The 2007 post-election violence, occurring during his presidency, revealed the fragility of Kenya's political stability and created lasting trauma that complicated his legacy.
+
+Kibaki's most enduring policy achievement is free primary education, implemented immediately upon his assuming office. The policy transformed educational access, bringing millions of previously out-of-school children into the education system. This expanded access to education, while accompanied by quality challenges, represents genuine progress in human development. The policy has become accepted across Kenya's political spectrum and remains in place in subsequent administrations. This policy alone distinguishes Kibaki's presidency as accomplishing something tangible that improved Kenyans' lives.
+
+Infrastructure development undertaken during Kibaki's presidency left visible legacies in roads, water systems, and power projects. The government undertook ambitious infrastructure development programs that expanded Kenya's physical capital stock. However, the infrastructure legacy is complicated by the corruption often accompanying these projects. Inflated contract costs, contractor overcharges, and irregular procurement processes meant that the infrastructure produced often cost more than it should have. Nevertheless, roads built, water systems constructed, and power generated during Kibaki's presidency created tangible improvements in Kenya's infrastructure.
+
+The constitutional reform effort, though ultimately unsuccessful in producing a new constitution during Kibaki's early years, contributed to institutional development. The drafting and public discussion of constitutional proposals advanced Kenya's thinking about governance reforms. While the 2005 constitutional rejection was a disappointment, the process created foundations for subsequent constitutional reform that eventually produced a new constitution in 2010. Kibaki's support for the constitutional process, while incomplete, contributed to Kenya's constitutional development trajectory.
+
+Kibaki's failure to address corruption as promised constitutes a major legacy disappointment. While anti-corruption rhetoric dominated his early presidency, anti-corruption enforcement proved minimal. Government officials, including cabinet members, engaged in corruption scandals that went largely unpunished. The persistence of corruption despite reform promises contributed to public cynicism about the possibility of reform and to continued resource losses to theft and misappropriation. The anti-corruption effort, which could have been one of Kibaki's achievements, instead became a symbol of failed reform promises.
+
+The 2007 post-election violence represents the darkest aspect of Kibaki's legacy. The disputed election result and subsequent ethnic violence killed roughly 1,000 people and displaced 600,000, revealing the fragility of Kenya's unity and stability. While Kibaki was not solely responsible for the violence, his government's handling of the post-election crisis and the negotiation of power-sharing arrangements created ongoing governance challenges. The violence and its aftermath exposed deep ethnic tensions that persisted beyond Kibaki's presidency and complicated subsequent governance.
+
+Kibaki's partial success in economic growth provides a mixed legacy. Growth rates during his early years exceeded five percent, contributing to some poverty reduction and infrastructure development. However, growth concentrated among wealthy segments of the population, and inequality increased. The growth, while real, failed to transform Kenya's development trajectory fundamentally. The structural constraints that have limited Kenya's development continued through Kibaki's presidency, suggesting that growth alone was insufficient for transformative change.
+
+The return to multiparty democracy under Kibaki was more institutionalized than under Moi, yet multiparty competition remained constrained by ethnic politics and unequal access to state resources. Kibaki's government dominated the political system through control of state resources and intimidation of opposition, patterns inherited from Moi's era. The hope that Kibaki's Kikuyu ethnic dominance would be constrained by multiparty competition proved overly optimistic, as Kikuyu-led government proved capable of manipulating political systems in ways that benefited Kikuyu interests.
+
+The power-sharing arrangement following the 2007 violence created a Prime Minister position that complicated governance structures. While the arrangement helped end violence, it created governmental inefficiency and parallel centers of authority. The uneasy coexistence between President and Prime Minister until the 2013 election demonstrated the risks of power-sharing without clear authority delineation. Kibaki's presidency thus included governance structures that were difficult to manage and that did not serve efficient government.
+
+Media freedom and civil society expanded during Kibaki's presidency, representing genuine progress relative to Moi's era. Freedom of expression increased, though state pressure on critical media continued. Civil society organizations operated with greater freedom than during Moi's presidency, enabling advocacy and service delivery that previously would have been constrained. This expansion of civil society space represents one of Kibaki's genuine accomplishments, even if not achieved through his direct agency.
+
+The legacy that Kibaki left for his successors included a larger, somewhat more democratically structured state, yet one still characterized by significant corruption and ethnic favoritism. The infrastructure expanded during his presidency provided foundations for subsequent development. The constitutional reform process advanced, though it would take Kibaki's successor to complete constitutional reform. The momentum for institutional reform that Kibaki's presidency created, while incomplete, contributed to Kenya's institutional trajectory.
+
+## See Also
+
+- [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
+- [[Kenya Democratic Transition|Kenya Democratic Transition]]
+- [[Kenya 2007 Election Violence|Kenya 2007 Election Violence]]
+- [[William Ruto Presidency|William Ruto Presidency]]
+- [[Kenya Institutional Development|Kenya Institutional Development]]
+
+## Sources
+
+1. Lynch, Gabrielle. "I Say to You: Ethnic Politics and the Kenyan Presidency." University of Chicago Press, 2011. https://www.press.uchicago.edu
+2. Branch, Daniel. "Kenya: Between Hope and Despair, 1992-2011." Yale University Press, 2011. https://www.yalebooks.com
+3. Mutua, Makau. "Kenya's Quest for Democracy: Taming Leviathan." Lynn Rienner Publishers, 2008. https://www.rienner.com
