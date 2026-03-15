@@ -51,6 +51,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
     Component.ConditionalRender({
+      component: Component.TrailHub(),
+      condition: (page) => page.fileData.slug === "STORY-TRAILS",
+    }),
+    Component.ConditionalRender({
       component: Component.ShareButton({ 
         prominent: true, 
         label: "Share these trails" 

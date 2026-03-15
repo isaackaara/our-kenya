@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import ContributeForm from "./ContributeForm"
 import ShareButton from "./ShareButton"
 import TrailNav from "./TrailNav"
+import TrailHub from "./TrailHub"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   ContributeForm,
   ShareButton,
   TrailNav,
+  TrailHub,
 }
