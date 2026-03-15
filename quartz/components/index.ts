@@ -25,7 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ContributeForm from "./ContributeForm"
 import ShareButton from "./ShareButton"
-import TrailNav from "./TrailNav"
+import TrailNav, { TrailHistoryRail } from "./TrailNav"
 import TrailHub from "./TrailHub"
 
 export {
@@ -57,5 +57,6 @@ export {
   ContributeForm,
   ShareButton,
   TrailNav,
+  TrailHistoryRail,
   TrailHub,
 }
