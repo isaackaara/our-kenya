@@ -1,12 +1,41 @@
 # Garissa Women
 
-Garissa Women is a significant aspect of Garissa County's context and development.
+[[Garissa County|Garissa women]] face multiple intersecting challenges of gender inequality, poverty, limited educational access, and cultural practices that constrain livelihood opportunities and autonomy. Women comprise approximately 50 percent of Garissa's population yet exercise limited political authority, control disproportionately limited land and productive resources, and experience health and economic vulnerabilities distinct from those affecting male populations.
+
+Traditional pastoral social organization in [[Somali in Garissa|Somali]] and other pastoral communities assigned women specific roles including domestic labor (water collection, firewood gathering, food preparation), dairy production and processing, childcare, and household resource management. These roles, while culturally significant and essential to pastoral household survival, provided limited income-generating opportunities and public authority. Contemporary women continue these traditional roles while increasingly engaging in market-oriented economic activities.
+
+Women's access to land and productive resources remains limited by pastoral tenure systems that traditionally allocated grazing rights primarily through male household heads. Women's land access typically occurred through marriage (access to husband's family land) or widowhood, creating dependency on male household members. Contemporary formal land titling has sometimes excluded women despite constitutional provisions for gender-equal land rights. The 2010 Constitution established matrimonial property rights and required government to take measures to ensure women's equitable land rights, yet implementation remains incomplete.
+
+Dairy production and marketing represent primary income-generating activities for many Garissa women. Women produce milk products including yogurt and butter through traditional processing methods, marketing these products in local markets and to institutional consumers (schools, hospitals). This economic activity generates income and enhances household food security, yet returns are often limited and markets constrained. Value addition opportunities including milk chilling facilities and processed dairy products remain underdeveloped.
+
+Women's participation in [[Garissa Politics|politics]] remains limited despite constitutional provisions requiring gender parity in political representation. Electoral representation in county and national offices remains male-dominated, with few women winning competitive elections. Reserved seats for women in county assembly provide some representation, yet women assembly members' influence on decision-making is sometimes constrained by male-dominated legislative dynamics. Women's political organizing and awareness of political rights have increased in recent years, yet structural barriers to women's political leadership persist.
+
+[[Garissa Education|Education]] access for girls remains constrained by poverty, cultural preferences, and opportunity costs. Girls' primary enrollment is approaching parity with boys due to free primary education, yet secondary enrollment and completion remain substantially lower for girls. Early marriage, pregnancy, limited parental education investment in girls' futures, and school safety concerns contribute to girls' educational disadvantage. Girls who complete secondary education face limited employment opportunities, constraining education's returns.
+
+Maternal health vulnerabilities in Garissa reflect limited access to quality prenatal care, limited facility deliveries, and high fertility rates. Women's reproductive autonomy is constrained by limited contraceptive access and education. Total fertility rate in Garissa (6+ children per woman) reflects both cultural preferences for large families and limited family planning service access. Pregnancy complications, including complications from inadequate prenatal care and unsafe deliveries, contribute to Garissa's high maternal mortality.
+
+Gender-based violence in Garissa occurs through both intimate partner violence and community-level violence, though documentation of prevalence is incomplete. Cultural practices including female genital mutilation (FGM), while officially illegal and increasingly opposed, persist in some communities. Domestic violence and marital rape remain inadequately criminalized and prosecuted. Women's limited access to justice mechanisms and police-community trust limitations constrain reporting and prosecution of violence.
+
+Women's economic participation extends beyond agriculture and pastoral production to petty trading, small business establishment, and informal service provision. Women engage in vegetable selling, grain trading, and informal commerce, often operating from limited capital bases and competing in saturated markets. Women traders' access to credit through formal financial institutions is limited, with informal lending (from family, friends, or money-lenders at high interest) providing primary credit sources.
+
+Inheritance practices in Garissa reflect Islamic law in family matters, with women's inheritance rights providing for widows and daughters though typically less than male heirs receive. Customary practices may supersede formal Islamic law in some communities, creating ambiguity. Widow inheritance practices, historically important in pastoral societies for widow and orphan protection, have diminished yet persist in some communities. Widows face particular vulnerability when husbands' deaths eliminate household income sources.
+
+Women's organizations and women's groups, promoting collective action and awareness, have expanded throughout Garissa. Savings groups (merry-go-rounds, chamas) among women provide collective financing for business development and household consumption. Women's groups facilitate collective marketing and input purchasing, enhancing individual farmers' market power. These organizations provide social support and awareness-raising regarding rights and gender issues.
+
+Health impacts specific to women include anemia (affecting 40-50 percent of women), malnutrition during pregnancy, and limited access to family planning services. Maternal mortality ratio (600+ deaths per 100,000 births) reflects combination of poverty, limited health service access, high fertility, and limited autonomy in reproductive decisions. Mortality from pregnancy-related complications might be substantially reduced through improved prenatal care, facility delivery access, and emergency obstetric care availability.
+
+Women's voice and agency in household and community decision-making remain limited, with male authority figures (husbands, fathers, male elders) retaining primary decision-making power in many households. Women's participation in community decisions regarding resource management, conflict resolution, and development initiatives has increased through formal mechanisms (e.g., community policing committees with female representation) yet remains subordinate to male-dominated structures.
 
 ## See Also
 - [[Garissa County|Garissa County]]
-- [[Garissa Town|Garissa Town]]
+- [[Garissa Education|Girls' Education]]
+- [[Garissa Health|Maternal Health]]
+- [[Garissa Pastoralism|Women's Pastoral Roles]]
+- [[Garissa Politics|Political Representation]]
 
 ## Sources
-1. Garissa County Government. "Development Plans." (2023).
-2. Kenya National Bureau of Statistics. "Census 2019." https://www.knbs.or.ke
-3. Regional research sources.
+1. United Nations Women. "Gender Analysis: Garissa County Kenya." Report, 2021. https://www.unwomen.org
+2. Human Rights Watch. "How I Can Help My Community: Women in Kenya's Northern Regions." Report, 2020. https://www.hrw.org
+3. Kenya National Bureau of Statistics. "Kenya Demographic and Health Survey 2022: Gender and Women's Health Indicators." https://www.knbs.or.ke
+4. Oxfam International. "Women's Economic Empowerment in Pastoral Contexts." Policy Brief, 2021. https://www.oxfam.org
+5. Garissa County Government. "Gender and Social Development Strategy 2021-2025." https://garissa.go.ke
