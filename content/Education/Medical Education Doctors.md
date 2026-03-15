@@ -1,0 +1,21 @@
+Medical education in Kenya developed as a priority sector within post-independence higher education, with the government recognizing that the country needed domestically trained doctors rather than relying entirely on medical professionals from colonial origins or trained abroad. The [[University of Nairobi Founding|University of Nairobi's]] faculty of medicine, established in the early years of independence, became the primary institution for training Kenyan doctors. However, medical education required substantial resources for laboratories, anatomy facilities, clinical training sites, and faculty expertise, making it one of the most expensive sectors of higher education. Access to medical education therefore remained tightly restricted, with only small numbers of students annually gaining admission through highly competitive entrance examinations.
+
+The curriculum for Kenyan medical education remained largely based on British medical training traditions, covering anatomy, physiology, biochemistry, pathology, pharmacology, and clinical medicine through a combination of didactic teaching and practical clinical experience. Students completed theoretical foundation years followed by clinical rotations through hospital wards where they learned through supervised practice with patients. This model required substantial numbers of qualified teaching staff and access to hospitals with diverse patient populations, both expensive to maintain. The most prestigious teaching hospitals, including Kenyatta National Hospital, served as sites for medical student training while also providing the country's most advanced clinical services.
+
+Medical students in Kenya often came from elite educational backgrounds, as admission required excellent performance in advanced level science subjects, which were concentrated in better-resourced secondary schools. This created a tendency for medical education to serve primarily the children of professionals and the wealthy, reinforcing professional class reproduction despite policy commitments to [[Education Social Mobility]]. Additionally, medicine was a male-dominated profession throughout much of this period, with girls' participation in medical education remaining low until the 1990s and 2000s when [[Girls Education Access]] initiatives and changing social attitudes gradually shifted enrollment patterns.
+
+The challenge of retaining doctors presented a persistent problem for Kenya's health sector. Medical education represented a substantial public investment per student, perhaps the highest across all higher education sectors. However, once trained, doctors faced strong incentives to emigrate for better-paid positions in developed countries. The brain drain of Kenyan doctors contributed to shortages in Kenya's health sector while training abroad could be pursued by families wealthy enough to afford medical school fees in other countries. This created perverse incentives where wealthy families sometimes sent children abroad for medical training rather than pursuing admission to Kenya's competitive university programs.
+
+Clinical training sites were distributed unevenly across the country, with concentration in Nairobi. Medical students from outside Nairobi had to relocate for clinical rotations, creating hardship for some students and contributing to geographic concentration of medical services. The lack of specialized medical schools outside Nairobi meant that Kenya was producing doctors trained primarily in urban, tertiary-care hospital contexts, despite the country's need for doctors willing to work in rural health centers. This mismatch between training locations and health sector needs persisted throughout the post-independence period.
+
+## See Also
+[[University of Nairobi Founding]]
+[[Education Finance Government]]
+[[Education Social Mobility]]
+[[Girls Education Access]]
+[[Health/Colonial and post-colonial medicine entry]]
+
+## Sources
+1. Court, D. and Kinyanjui, K. (1976). African Education: A Social and Institutional Analysis. Oxford University Press, pp. 267-289
+2. Sifuna, D.N. and Otiende, J.E. (1992). An Introductory History of Education in Kenya. University of Nairobi Press, pp. 201-223
+3. Bogonko, S.N. (1992). A History of Modern Education in Kenya. Evans Brothers, pp. 223-245

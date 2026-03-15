@@ -1,0 +1,23 @@
+Guidance and counselling services in Kenya's schools developed gradually as the education system expanded and as awareness grew of the importance of student support services beyond academic instruction. The colonial period had produced virtually no counselling infrastructure, with school discipline handled through punishment and expulsion rather than counselling or support. Post-independence education policy acknowledged that students needed guidance with curriculum choices, career planning, and adjustment to school life, but the implementation of counselling services lagged substantially behind policy rhetoric. For most of the post-independence period, most Kenyan schools had no dedicated counselling personnel, with head teachers and senior teachers expected to provide guidance alongside their primary administrative and teaching duties.
+
+The professionalization of guidance and counselling as a specialized field in Kenya occurred slowly, primarily through the 1970s and 1980s. Some larger secondary schools, particularly elite institutions, began appointing guidance counsellors as distinct staff members. However, these counsellors often lacked formal training in counselling methods, guidance theory, or psychological support, receiving only short in-service training or learning through experience. The lack of professional standards meant that the quality and nature of counselling services varied dramatically across schools. Well-resourced schools might have counsellors with training in psychology or education, while poorer schools had staff with only basic orientation to counselling concepts.
+
+Gender dimensions of guidance counselling reflected and sometimes reinforced stereotypes. Girls were often counselled toward "appropriate" female occupations including teaching, nursing, and secretarial work, while boys received broader encouragement to pursue medicine, engineering, and law. These gendered counselling patterns contributed to [[Education Gender Disparity|gender disparities]] in subject choices and professional aspirations. Counsellors themselves were predominantly male, particularly in earlier periods, which may have further reinforced traditional gender role expectations in the guidance they provided.
+
+The counselling role became increasingly important as schools faced student behavior problems, psychological difficulties, and the stresses of examination systems that demanded intense academic performance. Student suicide, though rare, occurred with particular tragedy because schools often lacked counsellors trained to recognize psychological crises or provide timely intervention. The pressure of examination systems meant that students under intense academic stress needed support, but schools offered little. Counsellors, where they existed, found themselves managing discipline issues, examination advice, and pastoral support with minimal training and overwhelming caseloads.
+
+By the 1990s and 2000s, international development organizations and Kenya's own recognition of mental health's importance led to greater emphasis on school counselling. Training programs for school counsellors expanded, and larger schools increasingly appointed qualified counsellors. However, rural schools and under-resourced institutions continued to lack adequate guidance and counselling services. The disparity between well-resourced schools with professional counsellors and struggling schools with no counselling support widened, contributing to broader inequality in educational experience and outcomes.
+
+Vocational and career guidance remained an important counselling function, particularly as students faced choices about secondary stream selection and post-secondary pathways. Counsellors provided information about available occupations, educational pathways to different careers, and helped students match their abilities and interests to appropriate choices. However, limited career information and counsellor knowledge meant that guidance often reflected counsellors' own assumptions about appropriate pathways rather than comprehensive information about Kenya's labor market and career possibilities.
+
+## See Also
+[[Education Social Change]]
+[[Girls Education Access]]
+[[Education Gender Disparity]]
+[[School Discipline Punishment]]
+[[Secondary School Distribution]]
+
+## Sources
+1. Sifuna, D.N. and Otiende, J.E. (1992). An Introductory History of Education in Kenya. University of Nairobi Press, pp. 334-356
+2. Court, D. and Kinyanjui, K. (1976). African Education: A Social and Institutional Analysis. Oxford University Press, pp. 345-367
+3. Bogonko, S.N. (1992). A History of Modern Education in Kenya. Evans Brothers, pp. 489-511
