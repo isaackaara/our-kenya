@@ -1,0 +1,25 @@
+Electricity infrastructure in Kenya, including generation facilities, transmission networks, and distribution systems, represents essential services enabling economic activity and improving living standards. The development of electrical power from colonial hydro sources through contemporary diverse generation portfolios reflects Kenya's energy policy evolution and technological advancement. The spatial distribution of electricity access reflects historical inequities and continuing development gaps between urban and rural areas.
+
+Colonial electricity development in Kenya centered on Nairobi, utilizing hydroelectric generation from mountain water sources. The early power stations and distribution networks, concentrated in European and commercial areas, provided modern amenities unavailable in African residential zones. The colonial electrical infrastructure expressed technological modernity and separated service provision reflecting racial segregation. The early electrical systems, generating limited power, required careful load management and frequent interruptions.
+
+Post-independence electricity expansion attempted to serve growing urban populations and emerging industrial development. The construction of major hydroelectric facilities, including dams on Mount Kenya and Rift Valley rivers, expanded generation capacity. Transmission networks extended from generation sites to major cities and industrial centers. Yet the expansion consistently lagged behind demand growth, creating electricity shortages and prompting load shedding (planned outages) during peak periods. The capital intensity of electrical infrastructure limited expansion to capital-abundant periods.
+
+The spatial distribution of electricity reflects investment priorities and urban-rural disparities. Major cities including Nairobi, Mombasa, Kisumu, and Nakuru received extensive electrification; rural areas remained largely unelectrified through 1990s. The rural electrification initiative, attempting to extend power to communities beyond commercial grid reach, expanded access significantly through 2000s-2010s. Yet the cost of extending infrastructure to dispersed rural populations remains substantial, creating barriers to complete rural electrification.
+
+Electrical supply reliability remains challenging despite infrastructure investment. The dependence on hydroelectric generation, while environmentally preferable, creates vulnerability to rainfall variability. Drought years reduce water availability, constraining generation capacity and necessitating load shedding. The reliance on seasonal rainfall creates supply uncertainty affecting industries and households dependent on consistent power supply. Diversification toward wind, geothermal, and eventually solar generation aims to improve reliability, though transition requires substantial capital investment.
+
+Informal electrical connections, including illegal tapping of power lines, remain widespread particularly in informal settlements and low-income areas. The inability or unwillingness of utilities to serve low-income populations drives informal connections reducing revenue and creating safety hazards. Electrocution risks from poorly constructed informal connections, fire hazards from overloaded circuits, and widespread theft create costs exceeding the revenue from paid connections. Contemporary policies emphasizing affordable access and efficient collection attempt to formalize informal connections.
+
+The architectural integration of electrical systems into buildings includes distribution panels, wiring, and specialized facilities for electricity-intensive activities. Industrial facilities require heavy-duty electrical infrastructure; hospitals require backup generation for critical functions; residential areas require consumer-level distribution. The adequacy of electrical infrastructure determines facility functionality: inadequate supply constrains activities; unstable supply creates equipment damage. The relationship between building design and electrical system integration affects both safety and functionality.
+
+Energy efficiency and conservation, increasingly emphasized as electricity demand exceeds supply, involve architectural and behavioral approaches. Building design emphasizing natural ventilation and lighting reduces electrical demands. Appliance efficiency standards reduce consumption. Load-shifting policies encouraging off-peak electricity use attempt to manage demand. Contemporary renewable energy integration, including rooftop solar systems on buildings, allows distributed generation reducing dependence on central power plants. Yet the capital costs of efficiency and renewable technology limit adoption to higher-income sectors.
+
+## See Also
+
+[[Water Infrastructure]], [[Street Lighting]], [[Technology]], [[Industrial Building Design]], [[Hospital Architecture]], [[Urban Planning Development]], [[Sustainability]]
+
+## Sources
+
+1. https://nairobi.go.ke/built-environment-and-urban-planning-sector
+2. https://journals.openedition.org/eastafrica/327?lang=en
+3. https://design-encyclopedia.com/?T=Kenyan+Architecture
