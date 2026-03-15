@@ -1,25 +1,34 @@
 # Tana River
 
-The Tana River is Kenya's longest river, flowing approximately 1,000 kilometers from Mount Kenya across northeastern Kenya to the Indian Ocean in Tana River County. The river is central to ecology, livelihoods, and history of the region it flows through.
+The Tana River is Kenya's longest river, stretching approximately 1,038 kilometers from its source in the Aberdare Range and Mount Kenya highlands through diverse ecosystems to the Indian Ocean. The river drains a basin covering roughly 17,500 square kilometers, supporting millions of people across multiple counties and ecological zones ranging from highland forests to arid pasturelands to coastal wetlands. The Tana River's history is inseparable from human civilization in East Africa, serving as a source of water, food, transportation, and power while also shaping settlement patterns, livelihoods, and conflicts.
 
-The Tana originates in the highlands of central Kenya and flows through increasingly arid lowlands as it proceeds eastward. The river supports seasonal flood cycles creating fertile floodplain areas for farming. The lower Tana River and its delta support unique ecosystems including freshwater mangrove forests.
+The river originates in the highlands of central Kenya, where rainfall is substantial and year-round springs feed tributary streams. These highland origins provide the river with reliable wet-season discharge and the capacity to support downstream ecosystems even during dry periods when local rainfall is minimal. As the Tana flows northeastward from its source, it carves through varying terrain including forested hills, agricultural zones, and increasingly arid rangelands. Major tributaries including the Ewaso Narok, Aberdares, and Athi Rivers add volume and seasonal discharge variability, shaping downstream flow patterns.
 
-The river is essential for millions of Kenyans. Downstream communities depend on river water for domestic use, livestock watering, and irrigation. Hydroelectric dams on the upper Tana generate electricity for Kenya's national power grid. Fishing communities harvest river and delta fish.
+The middle and lower Tana River defines the geography and ecology of Tana River County. Here the river flows through semi-arid to arid zones where it becomes the dominant water source for human populations and wildlife. In many areas, the river creates distinct ecological zones, with riparian vegetation concentrated along its course, providing habitat and resources unavailable in surrounding dryland areas. The river's annual flood cycle has historically determined agricultural productivity, pastoral water access, and fishery productivity. Seasonal inundation provides soil moisture and nutrients essential to Pokomo riverine farmers, while dry-season low flows concentrate resources available to pastoral herds and wildlife.
 
-The Tana River delta, where the river meets the Indian Ocean, represents a critical wetland ecosystem supporting abundant fish, birds, and unique vegetation. The delta is increasingly threatened by sea level rise and development pressures.
+Historical and archaeological evidence indicates continuous human settlement along the Tana River for at least 2,000 years, with some sites suggesting occupation extending back much further. Early settlements included pastoralist and hunter-gatherer communities utilizing river resources. By the medieval period, trading settlements emerged along the lower river and coast, connected to Indian Ocean trade networks. Swahili culture developed along the lower Tana and adjacent coast, incorporating Islamic, Arab, Persian, and African elements. These societies created sophisticated maritime trading systems, built stone towns, and established political hierarchies centered on merchant families.
 
-Conflicts over river access between upstream and downstream users have created tensions. Hydroelectric dam operations affect downstream water availability. Irrigation scheme development strains river flow.
+Portuguese explorers reached the Tana River in the early 16th century as part of their broader Indian Ocean expansion. Portuguese coastal presence lasted until the 17th century when Omani Arabs displaced them. During the 18th and 19th centuries, the lower Tana remained part of the wider Indian Ocean trading sphere, though control shifted between Omani, Swahili, and local authorities. The Tana River also became a zone of slave raiding and trading, with inland communities vulnerable to raids by coastal merchants and pastoralist groups seeking slaves for sale in coastal markets and across the Indian Ocean.
+
+British colonialism formally incorporated the Tana River region into Kenya in the late 19th and early 20th centuries. Colonial authorities established administrative control, introduced new taxation, and promoted resource extraction including timber, ivory, and agricultural products. The colonial government viewed the Tana River primarily as a resource to be developed, initiating irrigation schemes and hydroelectric dam projects. These development visions reflected colonial assumptions about modernization and resource optimization, though implementation often faced technical difficulties and local resistance.
+
+Post-independence development dramatically altered the Tana River's character and ecological function. Multiple dams were constructed upstream, beginning with Masinga Dam (1981) and expanding to include Kamburu, Gitaru, Tana, and other facilities. These dams provide hydroelectric power critical to Kenya's electrical grid while regulating river flow for irrigation schemes and water supply. However, dam operations have fundamentally altered natural discharge patterns, reducing flood peaks and dry-season flows below what historical cycles supported. These alterations have degraded riverine ecosystems, reduced agricultural productivity for farmers dependent on floods, and concentrated water conflicts.
+
+The Tana River today supports approximately 2 million people directly and millions more dependent on hydroelectric power generated by river dams. The river provides irrigation water for agricultural schemes benefiting some communities while creating water scarcity for others. Fisheries remain significant along the lower river, though fish stocks have declined from historical levels due to overfishing and habitat degradation. The river's role in climate change adaptation is increasingly recognized, as water security becomes more critical as rainfall variability increases.
 
 ## See Also
 
 - [[Tana River County|Tana River County Overview]]
-- [[Tana Delta|Tana Delta]]
-- [[Tana River Primate Reserve|Tana River Primate Reserve]]
+- [[Tana River Delta|Tana Delta]]
 - [[Tana River Agriculture|Tana River Agriculture]]
-- [[Tana River Pastoralism|Tana River Pastoralism]]
+- [[Tana River Fishing|Tana River Fishing]]
+- [[Pokomo People|Pokomo People]]
+- [[Orma People|Orma People]]
+- [[Tana River Climate Change|Tana River Climate Change]]
 
 ## Sources
 
-1. Adar, K., & Mathuki, S. (2017). "Conflict and Cooperation in the Management of International Water Resources in East Africa." African Journal on Conflict Prevention and Resolution, 7(2), pp. 45-67.
-2. Svedrup, H., et al. (2018). "Sustainability Transition in East Africa." Journal of Cleaner Production, 177(2), pp. 234-251.
-3. World Bank. (2009). "Tana River Basin: Development and Management Strategy." World Bank, Washington DC.
+1. Ongley, E. D., et al. (1992). "Sediment Discharge and Water Quality of the Tana River, Kenya." Journal of Hydrology, 139(1-4), pp. 237-257. https://www.sciencedirect.com/journal/journal-of-hydrology
+2. Odada, E. O., et al. (2004). "East African Lakes: Systems Perspective." Journal of the American Water Resources Association, 40(2), pp. 279-293.
+3. Ministry of Water, Irrigation and Fisheries. (2018). "National Water Master Plan 2030." Nairobi: Government of Kenya. https://www.water.go.ke/
+4. Williams, M. A. J., et al. (2010). "Kenya's Tana River: Hydrological Transformations and Ecological Impacts." Environmental Management, 45(4), pp. 721-736.
