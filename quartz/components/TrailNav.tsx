@@ -125,6 +125,9 @@ export default ((opts?: TrailNavOptions) => {
     align-items: center;
     text-align: center;
     gap: 0.6rem;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
   }
 
   .trail-header {
@@ -144,6 +147,9 @@ export default ((opts?: TrailNavOptions) => {
     font-weight: 600;
     font-size: 1rem;
     transition: opacity 0.2s;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
   }
 
   .trail-name:hover {
