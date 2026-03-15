@@ -261,74 +261,73 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       <script dangerouslySetInnerHTML={{
         __html: `
 (function() {
-  const trails = ${JSON.stringify(trails.map(t => ({ 
+  const trailData = ${JSON.stringify(trails.map(t => ({ 
     name: t.name, 
     category: t.category,
     description: t.description,
-    firstStop: `/Trails/${encodeURIComponent(t.name)}`
+    firstStop: '/Trails/' + t.name.replace(/\\s+/g, '-').replace(/[^a-zA-Z0-9\\-]/g, '')
   })))};
   
-  const searchInput = document.getElementById('trail-search');
-  const categoryTabs = document.querySelectorAll('.trail-category-tab');
-  const trailCards = document.querySelectorAll('.trail-card');
-  const trailCount = document.getElementById('trail-count');
-  const randomBtn = document.getElementById('random-trail-btn');
+  const total = trailData.length;
   
-  let activeCategory = 'All';
-  let searchQuery = '';
-  
-  function updateDisplay() {
-    let visibleCount = 0;
+  function init() {
+    const searchInput = document.getElementById('trail-search');
+    const categoryTabs = document.querySelectorAll('.trail-category-tab');
+    const trailCards = document.querySelectorAll('.trail-card');
+    const trailCount = document.getElementById('trail-count');
+    const randomBtn = document.getElementById('random-trail-btn');
     
-    trailCards.forEach(card => {
-      const category = card.getAttribute('data-category');
-      const name = card.getAttribute('data-name');
-      const description = card.getAttribute('data-description');
-      
-      const categoryMatch = activeCategory === 'All' || category === activeCategory;
-      const searchMatch = searchQuery === '' || 
-        name.includes(searchQuery) || 
-        description.includes(searchQuery);
-      
-      if (categoryMatch && searchMatch) {
-        card.style.display = 'block';
-        visibleCount++;
-      } else {
-        card.style.display = 'none';
-      }
+    if (!searchInput || !randomBtn || !trailCount) return;
+    
+    let activeCategory = 'All';
+    let searchQuery = '';
+    
+    function updateDisplay() {
+      let visibleCount = 0;
+      trailCards.forEach(card => {
+        const category = card.getAttribute('data-category');
+        const name = card.getAttribute('data-name') || '';
+        const description = card.getAttribute('data-description') || '';
+        const categoryMatch = activeCategory === 'All' || category === activeCategory;
+        const searchMatch = searchQuery === '' || name.includes(searchQuery) || description.includes(searchQuery);
+        if (categoryMatch && searchMatch) {
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      trailCount.textContent = 'Showing ' + visibleCount + ' of ' + total + ' trails';
+    }
+    
+    categoryTabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        categoryTabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        activeCategory = tab.getAttribute('data-category') || 'All';
+        updateDisplay();
+      });
     });
     
-    trailCount.textContent = \`Showing \${visibleCount} of ${trails.length} trails\`;
-  }
-  
-  categoryTabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      categoryTabs.forEach(t => t.classList.remove('active'));
-      tab.classList.add('active');
-      activeCategory = tab.getAttribute('data-category');
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value.toLowerCase();
       updateDisplay();
     });
-  });
-  
-  searchInput.addEventListener('input', (e) => {
-    searchQuery = e.target.value.toLowerCase();
-    updateDisplay();
-  });
-  
-  randomBtn.addEventListener('click', () => {
-    const visibleTrails = [];
-    trailCards.forEach((card, index) => {
-      if (card.style.display !== 'none') {
-        visibleTrails.push(index);
+    
+    randomBtn.addEventListener('click', () => {
+      const visible = [];
+      trailCards.forEach((card, i) => {
+        if (card.style.display !== 'none') visible.push(i);
+      });
+      if (visible.length > 0) {
+        const pick = visible[Math.floor(Math.random() * visible.length)];
+        window.location.href = trailData[pick].firstStop;
       }
     });
-    
-    if (visibleTrails.length > 0) {
-      const randomIndex = visibleTrails[Math.floor(Math.random() * visibleTrails.length)];
-      const randomTrail = trails[randomIndex];
-      window.location.href = randomTrail.firstStop;
-    }
-  });
+  }
+  
+  document.addEventListener('DOMContentLoaded', init);
+  document.addEventListener('nav', init);
 })();
         `
       }} />
