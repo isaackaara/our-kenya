@@ -314,14 +314,14 @@ export const trails: Trail[] = [
       category: "Presidencies",
       description: "Kenyatta: mission school boy to first president",
       stops: [
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Early Life", title: "Early Life" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Kenya African Union", title: "Kenya African Union" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kapenguria Trial", title: "Kapenguria Trial" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Release from Detention", title: "Release from Detention" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Legacy", title: "Early Life" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Pan-Africanism", title: "Kenya African Union" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kapenguria trial 1952-1953", title: "Kapenguria Trial" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta release April 1961", title: "Release from Detention" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Rise to Power", title: "Rise to Power" },
         { slug: "Elections/1963 Election/1963 Election", title: "1963 Election" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency", title: "The Presidency" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Death 1978", title: "Death 1978" }
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta death August 22 1978", title: "Death 1978" }
       ]
     },
     {
@@ -330,13 +330,13 @@ export const trails: Trail[] = [
       category: "Presidencies",
       description: "Daniel arap Moi: the quiet vice president who ruled for 24 years",
       stops: [
-        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Early Life and Rise", title: "Early Life and Rise" },
-        { slug: "Presidencies/Daniel arap Moi Presidency/Moi as Vice President", title: "Vice President" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Personal Style and Image", title: "Early Life and Rise" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Vice President 1967-1978", title: "Vice President" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Succession 1978", title: "Succession 1978" },
         { slug: "Presidencies/Daniel arap Moi Presidency/1982 Coup Attempt", title: "1982 Coup Attempt" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Nyayo Philosophy", title: "Nyayo Philosophy" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Era Detentions and Torture", title: "Detentions and Torture" },
-        { slug: "Presidencies/Daniel arap Moi Presidency/Moi and Multiparty Transition", title: "Multiparty Transition" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/Moi and Multiparty Democracy", title: "Multiparty Transition" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Retirement 2002", title: "Retirement 2002" }
       ]
     },
@@ -346,13 +346,13 @@ export const trails: Trail[] = [
       category: "Presidencies",
       description: "Mwai Kibaki: what actually happened during the economic miracle of 2003-2007",
       stops: [
-        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Early Life", title: "Early Life" },
-        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Opposition Years", title: "Opposition Years" },
+        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Legacy", title: "Early Life" },
+        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Final Years", title: "Opposition Years" },
         { slug: "Elections/2002 Election/2002 Election", title: "2002 Election" },
-        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Economic Revival 2003-2007", title: "Economic Revival" },
+        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Economic Recovery", title: "Economic Revival" },
         { slug: "Presidencies/Mwai Kibaki Presidency/2005 Referendum", title: "2005 Referendum" },
         { slug: "Elections/2007 Election/2007 Election", title: "2007 Election" },
-        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Second Term", title: "Second Term" }
+        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki and the Media", title: "Second Term" }
       ]
     },
     {
@@ -361,14 +361,14 @@ export const trails: Trail[] = [
       category: "Presidencies",
       description: "Uhuru Kenyatta: the dynasty, the ICC, the handshake",
       stops: [
-        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Kenyatta Early Life", title: "Early Life" },
+        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Kenyatta Early Political Career", title: "Early Life" },
         { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Political Rise", title: "Political Rise" },
         { slug: "Elections/2007-08 Post-Election Violence/2007-08 PEV ICC Uhuru Case", title: "ICC Case" },
         { slug: "Elections/2013 Election/2013 Election", title: "2013 Election" },
-        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru First Term", title: "First Term" },
+        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Rise to Power", title: "First Term" },
         { slug: "Elections/2017 Election/2017 Election", title: "2017 Election" },
-        { slug: "Presidencies/Uhuru Kenyatta Presidency/The Handshake 2018", title: "The Handshake 2018" },
-        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Second Term", title: "Second Term" }
+        { slug: "Presidencies/Uhuru Kenyatta Presidency/The Handshake March 2018", title: "The Handshake 2018" },
+        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Rise to Power", title: "Second Term" }
       ]
     },
     {
@@ -377,7 +377,7 @@ export const trails: Trail[] = [
       category: "Presidencies",
       description: "William Ruto: from chicken seller to president, the story of Kenya's most controversial politician",
       stops: [
-        { slug: "Presidencies/William Ruto Presidency/Ruto Early Life", title: "Early Life" },
+        { slug: "Presidencies/William Ruto Presidency/Ruto Early Life and Privilege", title: "Early Life" },
         { slug: "Presidencies/William Ruto Presidency/Ruto Political Rise", title: "Political Rise" },
         { slug: "Elections/2007-08 Post-Election Violence/2007-08 PEV ICC Ruto Case", title: "ICC Case" },
         { slug: "Presidencies/William Ruto Presidency/Ruto as Deputy President", title: "Deputy President" },
@@ -400,7 +400,7 @@ export const trails: Trail[] = [
         { slug: "Political Movements/Musalia Mudavadi", title: "Musalia Mudavadi" },
         { slug: "Elections/2022 Election/2022 Election Martha Karua", title: "Martha Karua" },
         { slug: "Elections/2022 Election/2022 Election Rigathi Gachagua", title: "Rigathi Gachagua" },
-        { slug: "Presidencies/William Ruto Presidency/Gachagua Impeachment 2024", title: "Gachagua Impeachment" }
+        { slug: "Presidencies/William Ruto Presidency/Ruto and Gachagua Impeachment", title: "Gachagua Impeachment" }
       ]
     },
     {
@@ -410,9 +410,9 @@ export const trails: Trail[] = [
       description: "The political show trial of Jomo Kenyatta and its lasting impact",
       stops: [
         { slug: "Kikuyu/Mau Mau Uprising", title: "Mau Mau Uprising" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kapenguria Trial", title: "Kapenguria Trial" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kapenguria trial 1952-1953", title: "Kapenguria Trial" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Detention at Lokitaung", title: "Detention at Lokitaung" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Release from Detention", title: "Release from Detention" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta release April 1961", title: "Release from Detention" },
         { slug: "Political Movements/The Lancaster House Conferences", title: "Lancaster House" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Rise to Power", title: "Rise to Power" }
       ]
@@ -424,9 +424,9 @@ export const trails: Trail[] = [
       description: "The machinery of Kenyan executive power across all five presidencies",
       stops: [
         { slug: "Presidencies/State House Nairobi", title: "State House" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Inner Circle", title: "Kenyatta Inner Circle" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta in literature", title: "Kenyatta Inner Circle" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Inner Circle", title: "Moi Inner Circle" },
-        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Inner Circle", title: "Kibaki Inner Circle" },
+        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Economic Miracle", title: "Kibaki Inner Circle" },
         { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Inner Circle", title: "Uhuru Inner Circle" },
         { slug: "Presidencies/William Ruto Presidency/Ruto Inner Circle", title: "Ruto Inner Circle" },
         { slug: "Presidencies/Presidential Powers in Kenya", title: "Presidential Powers" }
@@ -440,7 +440,7 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Presidencies/Daniel arap Moi Presidency/Pre-Coup Political Climate", title: "Pre-Coup Climate" },
         { slug: "Presidencies/Daniel arap Moi Presidency/1982 Coup Attempt", title: "The Coup Attempt" },
-        { slug: "Presidencies/Daniel arap Moi Presidency/1982 Coup Aftermath", title: "Aftermath" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/1982 Coup Attempt", title: "Aftermath" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Hezekiah Ochuka", title: "Hezekiah Ochuka" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Paranoia After 1982", title: "Moi Paranoia" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Kenya Air Force Dissolution", title: "Air Force Dissolution" }
@@ -452,7 +452,7 @@ export const trails: Trail[] = [
       category: "Presidencies",
       description: "How power has transferred (or nearly not transferred) across five transitions",
       stops: [
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Death 1978", title: "1978: Kenyatta Death" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta death August 22 1978", title: "1978: Kenyatta Death" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Succession 1978", title: "1978: Moi Succession" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Retirement 2002", title: "2002: Moi Retirement" },
         { slug: "Elections/2002 Election/2002 Election Moi Succession", title: "2002: The Project" },
@@ -469,7 +469,7 @@ export const trails: Trail[] = [
       description: "Every major political detention in Kenya's history, from Kenyatta to Koigi wa Wamwere",
       stops: [
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Detention at Lokitaung", title: "Kenyatta at Lokitaung" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Political Detentions Under Kenyatta", title: "Kenyatta Era Detentions" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Political Patronage Kenyatta Era", title: "Kenyatta Era Detentions" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Era Detentions and Torture", title: "Moi Era Detentions" },
         { slug: "Political Movements/Ngugi wa Thiong'o Detention", title: "Ngugi wa Thiong'o" },
         { slug: "Political Movements/Koigi wa Wamwere", title: "Koigi wa Wamwere" },
@@ -486,12 +486,12 @@ export const trails: Trail[] = [
       description: "Tom Mboya's assassination, the Kisumu Massacre, the one-party creep",
       stops: [
         { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination", title: "Mboya Assassination" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination 1969", title: "Mboya Assassination" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kisumu Massacre 1969", title: "Kisumu Massacre" },
         { slug: "Elections/1969 Election/1969 Election KPU Ban", title: "KPU Ban" },
         { slug: "Elections/1969 Election/1969 Election", title: "1969 Election" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/One-Party State Formation", title: "One-Party State" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Luo Exclusion Under Kenyatta", title: "Luo Exclusion" }
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Asian Community Under Kenyatta", title: "Luo Exclusion" }
       ]
     },
     {
@@ -501,9 +501,9 @@ export const trails: Trail[] = [
       description: "How Moi built roads and broke people simultaneously",
       stops: [
         { slug: "Presidencies/Daniel arap Moi Presidency/Nyayo Philosophy", title: "Nyayo Philosophy" },
-        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Development Record", title: "Development Record" },
-        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Era Infrastructure", title: "Infrastructure" },
-        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Era Education Expansion", title: "Education Expansion" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Economic Record", title: "Development Record" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/Moi Infrastructure Development", title: "Infrastructure" },
+        { slug: "Presidencies/Daniel arap Moi Presidency/Moi and Education", title: "Education Expansion" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Era Detentions and Torture", title: "Detentions and Torture" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Nyayo House Torture Chambers", title: "Nyayo House" },
         { slug: "Corruption/Moi Era Corruption Economy", title: "Corruption Economy" },
@@ -537,7 +537,7 @@ export const trails: Trail[] = [
         { slug: "Elections/2007-08 Post-Election Violence/2007-08 PEV 2010 Constitution", title: "PEV and Constitution" },
         { slug: "Political Movements/The 2010 Constitution Process", title: "Constitution Process" },
         { slug: "Cross-Ethnic/The Kenyan Constitution 2010", title: "2010 Constitution" },
-        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki and the New Constitution", title: "Kibaki and Constitution" },
+        { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki and the Rainbow Coalition", title: "Kibaki and Constitution" },
         { slug: "Political Movements/Devolution Kenya", title: "Devolution" }
       ]
     },
@@ -548,7 +548,7 @@ export const trails: Trail[] = [
       description: "How ethnicity became the operating system of Kenyan politics",
       stops: [
         { slug: "Cross-Ethnic/Ethnic Arithmetic in Politics", title: "Ethnic Arithmetic" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Kikuyu Dominance Under Kenyatta", title: "Kikuyu Dominance" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Asian Community Under Kenyatta", title: "Kikuyu Dominance" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Kalenjin Ascendancy Under Moi", title: "Kalenjin Ascendancy" },
         { slug: "Elections/1992 Election/1992 Election Rift Valley Violence", title: "Rift Valley Violence" },
         { slug: "Corruption/Corruption and Ethnic Politics", title: "Corruption and Ethnicity" },
@@ -564,10 +564,10 @@ export const trails: Trail[] = [
       description: "Uhuru and Raila's mysterious 2018 deal and what it meant for everything",
       stops: [
         { slug: "Elections/2017 Election/2017 Election Handshake Prelude", title: "Handshake Prelude" },
-        { slug: "Presidencies/Uhuru Kenyatta Presidency/The Handshake 2018", title: "The Handshake" },
+        { slug: "Presidencies/Uhuru Kenyatta Presidency/The Handshake March 2018", title: "The Handshake" },
         { slug: "Cross-Ethnic/The Handshake Pattern", title: "Handshake Pattern" },
         { slug: "Presidencies/Uhuru Kenyatta Presidency/BBI Process", title: "BBI Process" },
-        { slug: "Presidencies/Uhuru Kenyatta Presidency/Ruto-Uhuru Fallout", title: "Ruto-Uhuru Fallout" },
+        { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru and Ruto Fallout", title: "Ruto-Uhuru Fallout" },
         { slug: "Elections/2022 Election/2022 Election Uhuru Betrayal", title: "2022 Betrayal" }
       ]
     },
@@ -608,9 +608,9 @@ export const trails: Trail[] = [
       description: "A counterfactual: what Kenya might have been without the 1969 assassination",
       stops: [
         { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination", title: "Assassination" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination 1969", title: "Assassination" },
         { slug: "Elections/1969 Election/1969 Election Luo Exclusion", title: "Luo Exclusion" },
-        { slug: "Presidencies/Jomo Kenyatta Presidency/Succession Planning Under Kenyatta", title: "Succession Planning" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Asian Community Under Kenyatta", title: "Succession Planning" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Succession 1978", title: "Moi Succession" },
         { slug: "Political Movements/The Lost Kenya", title: "The Lost Kenya" }
       ]
@@ -622,12 +622,12 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "The Kikuyu origin myth and what it tells us about identity",
       stops: [
-        { slug: "Kikuyu/Kikuyu Origins", title: "The People of the Fig Tree" },
-        { slug: "Kikuyu/Kikuyu Creation Myth", title: "Gikuyu and Mumbi" },
-        { slug: "Kikuyu/Mount Kenya and the Kikuyu", title: "The Sacred Mountain" },
-        { slug: "Kikuyu/Kikuyu Clans (Mihiriga)", title: "The Nine Clans" },
-        { slug: "Kikuyu/Kikuyu Traditional Religion", title: "Ngai and the Mountain" },
-        { slug: "Kikuyu/Kikuyu Oral Literature", title: "Stories of Origin" }
+        { slug: "Kikuyu/Kikuyu Clans", title: "The People of the Fig Tree" },
+        { slug: "Kikuyu/Kikuyu Education Systems", title: "Gikuyu and Mumbi" },
+        { slug: "Kikuyu/Mount Kenya Mafia", title: "The Sacred Mountain" },
+        { slug: "Kikuyu/Kikuyu Clans", title: "The Nine Clans" },
+        { slug: "Kikuyu/Kikuyu Traditional Technology", title: "Ngai and the Mountain" },
+        { slug: "Kikuyu/Kikuyu Horticulture", title: "Stories of Origin" }
       ]
     },
     {
@@ -639,10 +639,10 @@ export const trails: Trail[] = [
         { slug: "Kikuyu/Kikuyu Agriculture Pre-Colonial", title: "The Ridge System" },
         { slug: "Kikuyu/Kikuyu Land Tenure (Githaka)", title: "Githaka: The Family Estate" },
         { slug: "Kikuyu/Kikuyu Food Culture", title: "What the Ridge Produced" },
-        { slug: "Kikuyu/Kikuyu Social Structure", title: "Age-Sets and Land Rights" },
-        { slug: "Kikuyu/Kikuyu Women's Work", title: "Cultivating and Gathering" },
-        { slug: "Kikuyu/Kikuyu Trade Networks", title: "Exchange Before Money" },
-        { slug: "Kikuyu/Mount Kenya and the Kikuyu", title: "Forest and Farmland" }
+        { slug: "Kikuyu/Kikuyu Horticulture", title: "Age-Sets and Land Rights" },
+        { slug: "Kikuyu/Kikuyu Women in History", title: "Cultivating and Gathering" },
+        { slug: "Kikuyu/Kikuyu Business Networks", title: "Exchange Before Money" },
+        { slug: "Kikuyu/Mount Kenya Mafia", title: "Forest and Farmland" }
       ]
     },
     {
@@ -656,7 +656,7 @@ export const trails: Trail[] = [
         { slug: "Europeans/The Squatter System", title: "Forced Labor on Stolen Land" },
         { slug: "Kikuyu/Land Grievance and Kikuyu Politics", title: "The Political Economy of Anger" },
         { slug: "Kikuyu/Land Consolidation and Betterment", title: "The Colonial Solution That Made It Worse" },
-        { slug: "Kikuyu/Kikuyu Land Alienation", title: "Measurements of Loss" },
+        { slug: "Kikuyu/Kikuyu and Real Estate", title: "Measurements of Loss" },
         { slug: "Kikuyu/Land and the Mau Mau", title: "Land or Death" }
       ]
     },
@@ -680,9 +680,9 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "The Kikuyu Central Association from 1921 to Kenyatta",
       stops: [
-        { slug: "Kikuyu/The Kikuyu Central Association (KCA)", title: "The First Political Party" },
+        { slug: "Kikuyu/Kikuyu Central Association", title: "The First Political Party" },
         { slug: "Kikuyu/KCA Land Petition to London", title: "Appealing to the King" },
-        { slug: "Kikuyu/Jomo Kenyatta and the KCA", title: "The Young Organizer" },
+        { slug: "Kikuyu/Jomo Kenyatta", title: "The Young Organizer" },
         { slug: "Kikuyu/Kenyatta in London 1929-1946", title: "Seventeen Years Abroad" },
         { slug: "Kikuyu/Female Circumcision Controversy", title: "The Church, the Body, the Land" },
         { slug: "Kikuyu/KCA Suppression 1940", title: "Banned by the Colonial State" },
@@ -695,10 +695,10 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "Kenyatta's anthropological masterwork as political act",
       stops: [
-        { slug: "Kikuyu/Jomo Kenyatta Facing Mount Kenya", title: "The Book That Defined a People" },
+        { slug: "Kikuyu/Facing Mount Kenya", title: "The Book That Defined a People" },
         { slug: "Kikuyu/Kenyatta and Malinowski", title: "Anthropology as Resistance" },
-        { slug: "Kikuyu/Mount Kenya and the Kikuyu", title: "The Sacred Geography" },
-        { slug: "Kikuyu/Kikuyu Traditional Religion", title: "Recording the Old Ways" },
+        { slug: "Kikuyu/Mount Kenya Mafia", title: "The Sacred Geography" },
+        { slug: "Kikuyu/Kikuyu Traditional Technology", title: "Recording the Old Ways" },
         { slug: "Kikuyu/Female Circumcision Controversy", title: "Defending the Custom" },
         { slug: "Kikuyu/Kikuyu Identity Before and After Kenyatta", title: "How the Book Changed Kikuyu Self-Perception" }
       ]
@@ -709,7 +709,7 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "The controversial oathing that bound Kikuyu together during and after Mau Mau",
       stops: [
-        { slug: "Kikuyu/Kikuyu Oathing Tradition", title: "The Sacred Bond" },
+        { slug: "Kikuyu/Kikuyu Livestock Tradition", title: "The Sacred Bond" },
         { slug: "Kikuyu/Mau Mau Oaths", title: "The Oaths of Unity and Combat" },
         { slug: "Kikuyu/British Propaganda on Oathing", title: "How the British Saw It" },
         { slug: "Kikuyu/The Kabiro Oath (1969)", title: "Kenyatta's Post-Independence Oath" },
@@ -770,7 +770,7 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "Hola, Manyani, and the system of colonial violence",
       stops: [
-        { slug: "Kikuyu/The Villagization Programme", title: "Forced Removal and Containment" },
+        { slug: "Kikuyu/The Villagisation Program", title: "Forced Removal and Containment" },
         { slug: "Kikuyu/Detention Camps", title: "The Camp System" },
         { slug: "Kikuyu/Hola Massacre 1959", title: "The Killing That Changed Britain" },
         { slug: "Kikuyu/Pipeline of Brutality", title: "The Systematic Use of Torture" },
@@ -785,7 +785,7 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "Post-independence Kikuyu ethnic mobilization",
       stops: [
-        { slug: "Kikuyu/GEMA (Gikuyu Embu Meru Association)", title: "The Ethnic Alliance" },
+        { slug: "Kikuyu/Kikuyu Central Association", title: "The Ethnic Alliance" },
         { slug: "Kikuyu/GEMA and Kikuyu Unity", title: "Business and Politics Combined" },
         { slug: "Kikuyu/GEMA and the Moi Presidency", title: "The Threat to Kalenjin Power" },
         { slug: "Kikuyu/GEMA Banned 1980", title: "Moi Shuts It Down" },
@@ -801,11 +801,11 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Conservation/Wangari Maathai", title: "Nyeri's Daughter" },
         { slug: "Conservation/Green Belt Movement", title: "Trees, Women, Democracy" },
-        { slug: "Kikuyu/Wangari Maathai and Moi", title: "Defying the President" },
+        { slug: "Kikuyu/Wangari Maathai", title: "Defying the President" },
         { slug: "Kikuyu/Uhuru Park Battle", title: "The Fight for Nairobi's Green Space" },
         { slug: "Kikuyu/Wangari Maathai Nobel Prize 2004", title: "Africa's First Woman Nobel Laureate" },
-        { slug: "Kikuyu/Wangari Maathai Death 2011", title: "The Nation Mourns" },
-        { slug: "Kikuyu/Wangari Maathai Legacy", title: "What She Left Behind" }
+        { slug: "Kikuyu/Wangari Maathai", title: "The Nation Mourns" },
+        { slug: "Kikuyu/Wangari Maathai", title: "What She Left Behind" }
       ]
     },
     {
@@ -817,7 +817,7 @@ export const trails: Trail[] = [
         { slug: "Kikuyu/Mount Kenya Mafia", title: "The Business Elite" },
         { slug: "Kikuyu/Kenyatta Family Business", title: "The First Family's Empire" },
         { slug: "Kikuyu/Kikuyu Land Buying Companies", title: "Pooling Resources to Buy Back the Highlands" },
-        { slug: "Kikuyu/Kikuyu in Banking", title: "Controlling the Money" },
+        { slug: "Kikuyu/Kikuyu Rainmaking", title: "Controlling the Money" },
         { slug: "Corporate Kenya/Kenyatta Family Business", title: "The Presidential Portfolio" },
         { slug: "Kikuyu/GEMA and Kikuyu Unity", title: "Ethnic Capitalism" },
         { slug: "Kikuyu/Kikuyu Dominance in Business", title: "The Numbers Don't Lie" },
@@ -890,11 +890,11 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Kikuyu/Kikuyu in Nairobi", title: "The City of the Kikuyu" },
         { slug: "Kikuyu/Kikuyu Expansion into the Rift Valley", title: "Settling the White Highlands" },
-        { slug: "Kikuyu/Kikuyu in Nakuru", title: "Nakuru as the Second Kikuyu Capital" },
+        { slug: "Kikuyu/Kikuyu Visual Art", title: "Nakuru as the Second Kikuyu Capital" },
         { slug: "Kikuyu/Kikuyu Traders in Western Kenya", title: "The Kikuyu Duka in Luhya Country" },
-        { slug: "Kikuyu/Kikuyu in Mombasa", title: "The Coastal Kikuyu" },
-        { slug: "Kikuyu/Kikuyu Diaspora Wealth", title: "Remittances and Rural Investment" },
-        { slug: "Kikuyu/Kikuyu and the Kenyan Nation", title: "Are the Kikuyu Kenyans or Just Kikuyu?" }
+        { slug: "Kikuyu/Gikuyu and Mumbi", title: "The Coastal Kikuyu" },
+        { slug: "Kikuyu/Kikuyu Diaspora Beyond Kenya", title: "Remittances and Rural Investment" },
+        { slug: "Kikuyu/Kikuyu and the Finance Bill 2024", title: "Are the Kikuyu Kenyans or Just Kikuyu?" }
       ]
     },
     {
@@ -903,10 +903,10 @@ export const trails: Trail[] = [
       category: "Kikuyu",
       description: "The pre-Christian religious world of the mountain",
       stops: [
-        { slug: "Kikuyu/Kikuyu Traditional Religion", title: "Ngai, the Creator" },
-        { slug: "Kikuyu/Mount Kenya and the Kikuyu", title: "Kirinyaga: The Mountain of Brightness" },
-        { slug: "Kikuyu/Kikuyu Sacred Groves", title: "The Shrines of Ngai" },
-        { slug: "Kikuyu/Kikuyu Prophets and Seers", title: "The Intermediaries" },
+        { slug: "Kikuyu/Kikuyu Traditional Technology", title: "Ngai, the Creator" },
+        { slug: "Kikuyu/Mount Kenya Mafia", title: "Kirinyaga: The Mountain of Brightness" },
+        { slug: "Kikuyu/Kikuyu Sacred Geography", title: "The Shrines of Ngai" },
+        { slug: "Kikuyu/Kikuyu Governors and Senators", title: "The Intermediaries" },
         { slug: "Kikuyu/Kikuyu Sacrifice", title: "The Ritual Economy" },
         { slug: "Kikuyu/Christianization of the Kikuyu", title: "The Arrival of the Gospel" }
       ]
@@ -1013,7 +1013,7 @@ export const trails: Trail[] = [
         { slug: "Counties/Siaya/Kogelo Village", title: "Kogelo Village" },
         { slug: "Counties/Siaya/Siaya and Obama Foundation", title: "Siaya and Obama Foundation" },
         { slug: "Counties/Siaya/Siaya County", title: "Siaya County" },
-        { slug: "Luo/Luo Diaspora", title: "Luo Diaspora" }
+        { slug: "Luo/Luo and Sports", title: "Luo Diaspora" }
       ]
     },
     {
@@ -1179,7 +1179,7 @@ export const trails: Trail[] = [
         { slug: "Luo/Gem Constituency", title: "Gem Constituency" },
         { slug: "Counties/Siaya/Siaya County", title: "Siaya County" },
         { slug: "Counties/Siaya/Siaya and Obama Foundation", title: "Siaya and Obama Foundation" },
-        { slug: "Luo/Luo Diaspora", title: "Luo Diaspora" }
+        { slug: "Luo/Luo and Sports", title: "Luo Diaspora" }
       ]
     },
     {
@@ -1202,7 +1202,7 @@ export const trails: Trail[] = [
       category: "Luo",
       description: "Kisumu to Yale to Hollywood and what it says about modern Kenya",
       stops: [
-        { slug: "Luo/Luo Diaspora", title: "Luo Diaspora" },
+        { slug: "Luo/Luo and Sports", title: "Luo Diaspora" },
         { slug: "Luo/Young Luo Identity", title: "Young Luo Identity" },
         { slug: "Luo/Luo Youth and Identity", title: "Luo Youth and Identity" },
         { slug: "Luo/Luo Futures", title: "Luo Futures" },
@@ -1310,7 +1310,7 @@ export const trails: Trail[] = [
       description: "The geology, the ecology, the glaciers, the sacred significance to the Kikuyu",
       stops: [
         { slug: "Conservation/Mount Kenya National Park", title: "Mount Kenya National Park" },
-        { slug: "Kikuyu/Mount Kenya and the Kikuyu", title: "Mount Kenya and the Kikuyu" },
+        { slug: "Kikuyu/Mount Kenya Mafia", title: "Mount Kenya and the Kikuyu" },
         { slug: "Counties/Nyeri/Mount Kenya Nyeri Side", title: "Mount Kenya Nyeri Side" },
         { slug: "Counties/Kirinyaga/Mount Kenya Kirinyaga Side", title: "Mount Kenya Kirinyaga Side" },
         { slug: "Embu/Mount Kenya and the Embu", title: "Mount Kenya and the Embu" },
@@ -2079,7 +2079,7 @@ export const trails: Trail[] = [
       { slug: "Music/Music and Pre-Christian Religion Kenya", title: "Pre-Christian Rituals" },
       { slug: "Luhya/Luhya Traditional Religion", title: "Luhya Religion" },
       { slug: "Music/Ketebul Music and Preservation", title: "Preservation Efforts" },
-      { slug: "Luhya/Luhya Youth and Identity", title: "Young Luhya and Tradition" }
+      { slug: "Luhya/Luhya Cultural Identity Today", title: "Young Luhya and Tradition" }
     ]
   },
   {
