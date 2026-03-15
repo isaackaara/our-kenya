@@ -51,9 +51,17 @@ export default ((opts?: TrailNavOptions) => {
               </a>
             </div>
             <div className="trail-dots">{dots}</div>
-            <span className="trail-position">
-              Stop {currentStop} of {totalStops}
-            </span>
+            <span className="trail-position">Stop {currentStop} of {totalStops}</span>
+            <div className="trail-top-nav">
+              {prevStop
+                ? <a href={stopHref(prevStop)} className="trail-top-prev">← {prevStop.title}</a>
+                : <span className="trail-top-spacer" />
+              }
+              {nextStop
+                ? <a href={stopHref(nextStop)} className="trail-top-next">{nextStop.title} →</a>
+                : <a href="/STORY-TRAILS" className="trail-top-next">All trails →</a>
+              }
+            </div>
             {otherTrailsCount > 0 && (
               <div className="trail-other">
                 Also part of {otherTrailsCount} other trail{otherTrailsCount > 1 ? "s" : ""}
@@ -64,37 +72,29 @@ export default ((opts?: TrailNavOptions) => {
       )
     }
 
-    // Bottom position
+    // Bottom position — clean minimal nav, no big blocks
     return (
       <div className={`trail-nav trail-nav-bottom-container ${displayClass ?? ""}`}>
         <div className="trail-nav-bottom">
           <div className="trail-nav-buttons">
-            {prevStop && (
+            {prevStop ? (
               <a href={stopHref(prevStop)} className="trail-nav-prev">
-                ← {prevStop.title}
+                <span className="trail-nav-arrow">←</span>
+                <span className="trail-nav-label">{prevStop.title}</span>
               </a>
-            )}
-            {!prevStop && <div className="trail-nav-spacer" />}
-
-            {nextStop && (
+            ) : <div />}
+            {nextStop ? (
               <a href={stopHref(nextStop)} className="trail-nav-next">
-                {nextStop.title} →
+                <span className="trail-nav-label">{nextStop.title}</span>
+                <span className="trail-nav-arrow">→</span>
               </a>
-            )}
+            ) : isLastStop ? (
+              <a href="/STORY-TRAILS" className="trail-nav-next trail-nav-done">
+                <span className="trail-nav-label">All trails</span>
+                <span className="trail-nav-arrow">→</span>
+              </a>
+            ) : <div />}
           </div>
-
-          {isLastStop ? (
-            <div className="trail-complete">
-              <p className="trail-complete-text">✓ Trail complete</p>
-              <a href="/STORY-TRAILS" className="trail-new">
-                Start a new trail →
-              </a>
-            </div>
-          ) : (
-            <div className="trail-continue">
-              Continue: {trail.name} ({currentStop} of {totalStops})
-            </div>
-          )}
         </div>
       </div>
     )
@@ -191,86 +191,100 @@ export default ((opts?: TrailNavOptions) => {
     opacity: 0.75;
   }
 
+  /* Top card inline nav */
+  .trail-top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 0.5rem;
+    margin-top: 0.25rem;
+    border-top: 1px solid rgba(255,255,255,0.2);
+    padding-top: 0.6rem;
+  }
+
+  .trail-top-prev,
+  .trail-top-next {
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 500;
+    transition: color 0.15s;
+    max-width: 45%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .trail-top-prev {
+    text-align: left;
+  }
+
+  .trail-top-next {
+    text-align: right;
+  }
+
+  .trail-top-prev:hover,
+  .trail-top-next:hover {
+    color: white;
+  }
+
+  .trail-top-spacer {
+    flex: 1;
+  }
+
+  /* Bottom nav - clean, minimal */
   .trail-nav-bottom {
     padding-top: 2rem;
-    border-top: 2px solid #e0e0e0;
+    border-top: 1px solid rgba(128,128,128,0.2);
   }
 
   .trail-nav-buttons {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-    margin-bottom: 1rem;
+    gap: 0.75rem;
   }
 
   .trail-nav-prev,
   .trail-nav-next {
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 1rem 1.5rem;
-    background: #006B3F;
-    color: white;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    border: 1.5px solid #006B3F;
+    color: #006B3F;
     text-decoration: none;
     border-radius: 6px;
+    font-size: 0.875rem;
     font-weight: 500;
-    min-height: 44px;
-    text-align: center;
-    transition: background 0.2s;
+    min-height: 48px;
+    transition: background 0.15s, color 0.15s;
+    background: transparent;
   }
 
   .trail-nav-prev:hover,
   .trail-nav-next:hover {
-    background: #008751;
+    background: #006B3F;
+    color: white;
   }
 
   .trail-nav-prev {
-    justify-self: start;
-    max-width: 300px;
+    justify-content: flex-start;
   }
 
   .trail-nav-next {
-    justify-self: end;
-    max-width: 300px;
+    justify-content: flex-end;
   }
 
-  .trail-nav-spacer {
-    grid-column: span 1;
+  .trail-nav-arrow {
+    font-size: 1rem;
+    flex-shrink: 0;
   }
 
-  .trail-continue {
-    text-align: center;
-    color: #006B3F;
-    font-weight: 600;
-    font-size: 0.95rem;
-    padding: 0.5rem;
-  }
-
-  .trail-complete {
-    text-align: center;
-    padding: 1rem;
-  }
-
-  .trail-complete-text {
-    color: #006B3F;
-    font-weight: 600;
-    font-size: 1.1rem;
-    margin: 0 0 0.75rem 0;
-  }
-
-  .trail-new {
-    display: inline-block;
-    padding: 0.75rem 1.5rem;
-    background: #006B3F;
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 500;
-    transition: background 0.2s;
-  }
-
-  .trail-new:hover {
-    background: #008751;
+  .trail-nav-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   /* Mobile responsive */
@@ -316,30 +330,22 @@ export default ((opts?: TrailNavOptions) => {
       font-size: 0.75rem;
     }
 
+    .trail-top-prev,
+    .trail-top-next {
+      font-size: 0.75rem;
+      max-width: 44%;
+    }
+
     .trail-nav-buttons {
-      grid-template-columns: 1fr;
-      gap: 0.75rem;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.5rem;
     }
 
     .trail-nav-prev,
     .trail-nav-next {
-      max-width: 100%;
-      width: 100%;
       min-height: 52px;
-      padding: 0.875rem 1rem;
-      font-size: 0.9rem;
-    }
-
-    .trail-nav-prev {
-      order: 2;
-    }
-
-    .trail-nav-next {
-      order: 1;
-    }
-
-    .trail-nav-spacer {
-      display: none;
+      padding: 0.75rem 0.75rem;
+      font-size: 0.8rem;
     }
   }
   `
