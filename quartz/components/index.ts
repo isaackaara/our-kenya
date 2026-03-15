@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ContributeForm from "./ContributeForm"
 import ShareButton from "./ShareButton"
+import TrailNav from "./TrailNav"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   ContributeForm,
   ShareButton,
+  TrailNav,
 }

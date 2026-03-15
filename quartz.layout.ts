@@ -34,6 +34,7 @@ export const sharedPageComponents: SharedLayout = {
       "Story Trails": "/STORY-TRAILS",
       "Help write the rest": "/contribute",
       Support: "/support",
+      "Built by Kaara.Works": "https://kaara.works",
     },
   }),
 }
@@ -45,6 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.TrailNav(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -75,6 +77,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.TrailNav({ position: "bottom" }),
   ],
 }
 
