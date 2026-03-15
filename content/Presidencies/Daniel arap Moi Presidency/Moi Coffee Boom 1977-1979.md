@@ -1,0 +1,26 @@
+The coffee boom of 1977-1979 provided Daniel arap Moi with an extraordinary economic inheritance and a brief window of prosperity that shaped his initial vision of what a Moi presidency could deliver. Coffee prices on international markets had soared, driven by frosts in Brazil and rising global demand, and Kenya's coffee sector, concentrated primarily among Kikuyu highland farmers, generated unprecedented revenues. For the nascent Moi regime, this windfall provided both opportunity and illusion: opportunity to invest in infrastructure and consolidate political support, and illusion that Kenya's economic trajectory was fundamentally sound rather than dependent on volatile commodity prices.
+
+Moi's government benefited immediately from coffee revenues. Export earnings surged, and the treasury accumulated foreign exchange reserves that had seemed unattainable under Kenyatta. The shilling strengthened, and for ordinary Kenyans, the boom years of 1977-1979 brought rising employment, increasing wages, and a sense that independence was finally delivering prosperity. Moi's regime capitalised on this prosperity, financing infrastructure projects, education expansion, and public sector salary increases that made him appear generous and competent compared to the aging Kenyatta.
+
+The investment in infrastructure was particularly visible in the Rift Valley and in Kalenjin regions that had been marginalised under Kenyatta. Moi directed coffee boom revenues toward the construction of roads, water systems, and educational facilities in Baringo, Samburu, and other pastoral areas. This investment was both genuinely developmental and nakedly political: it transferred resources to regions that provided Moi's political base and signalled to Kalenjin communities that supporting Moi would bring concrete benefits. The distribution of patronage was made possible by the coffee boom, and Moi skillfully used the temporary prosperity to consolidate his political position.
+
+The education sector expanded dramatically during the boom years. Moi inherited Kenyatta's 8-4-4 educational system (eight years primary, four years secondary, four years tertiary) and expanded its reach across rural areas where schools had previously been limited. The expansion was driven partly by political commitment to broader education access and partly by the availability of coffee revenues. Parents viewed the expansion as evidence that Moi cared about rural development, and the creation of schools became a mechanism through which Moi's regime distributed patronage: the construction contracts went to politically connected contractors, the teaching positions went to politically acceptable individuals, and the schools themselves became sites of state indoctrination through the Nyayo Philosophy curriculum.
+
+The coffee boom also enabled Moi to increase public sector wages and to expand civil service employment. The bureaucracy, which had been a source of limited opportunities under Kenyatta, became significantly larger under Moi, providing jobs for educated Kenyans, particularly from communities outside the Kikuyu heartland. This expansion of civil service employment was economically unsustainable and would later contribute to Kenya's fiscal crisis. Yet in the late 1970s, it appeared as evidence that Moi's regime was creating opportunities and managing the economy competently.
+
+However, the coffee boom obscured underlying economic weaknesses that would become catastrophic in the 1980s. Kenya's manufacturing sector was not growing sufficiently to create employment for a rapidly expanding workforce. Agricultural production outside coffee was stagnating or declining. Import substitution industrialisation had run its course, and Kenya faced the challenge of competing in global markets with industrial products that lacked competitiveness. The boom years were not used to diversify the economy or to invest in long-term productive capacity; instead, the revenues were consumed in recurrent expenditure, political patronage, and ostentatious projects.
+
+The end of the coffee boom came abruptly in 1979-1980, as world coffee prices collapsed. The revenues that had seemed inexhaustible disappeared, and Kenya's government faced the unexpected necessity of managing a fiscal crisis just as oil prices were rising and the global economy was entering recession. The contrast between the optimistic early years of Moi's presidency and the economic stress that followed would shape the politics of the 1980s. The boom years had created expectations of continued prosperity and increasing public expenditure; the bust years forced retrenchment, the imposition of structural adjustment programs, and the realisation that Kenya's economy was fragile and dependent on factors beyond the government's control.
+
+## See Also
+[[Kenya/Coffee Industry]]
+[[Moi Economic Policy 1978-1990]]
+[[Kenya/Economic Decline 1980s]]
+[[Moi First Cabinet as President]]
+[[Structural Adjustment Programs Kenya]]
+[[Moi and Education]]
+
+## Sources
+1. https://www.jstor.org/stable/3172813 (accessed 2024)
+2. https://www.britannica.com/topic/Kenya-Economy (accessed 2024)
+3. https://www.standardmedia.co.ke/article/2001391620/moi-was-transformative-leader-in-kenya (accessed 2024)

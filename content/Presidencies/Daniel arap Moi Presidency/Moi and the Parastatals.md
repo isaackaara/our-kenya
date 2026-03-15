@@ -1,0 +1,28 @@
+The parastatals—state-owned enterprises including Kenya Airways, Kenya Power and Lighting Company (KPLC), and KenGen (Kenya Electricity Generating Company)—were supposed to serve as instruments of national development under Moi's governance model. Instead, these companies became vehicles for patronage distribution, corruption, and wealth accumulation by Moi and his associates. The management and eventual privatisation of these enterprises revealed how Moi's system functioned: public resources were controlled through patronage networks, transferred to private interests connected to the regime, and justified through narratives of economic efficiency and modernisation.
+
+Kenya Airways, the national flag carrier established to develop Kenya's civil aviation sector, became particularly emblematic of parastatal dysfunction under Moi. The airline was expected to be a symbol of national prestige and a vehicle for connecting Kenya to the broader world economy. Yet the company became increasingly burdened by political appointments to management positions, by routes and pricing decisions made for political rather than commercial reasons, and by corruption that drained the company's resources. Moi used the airline to distribute positions to politically connected individuals and to offer contracts to businesses owned by regime loyalists.
+
+The management of Kenya Power and Lighting Company reflected similar dynamics. The company was responsible for electricity generation and distribution, a critical infrastructure for economic development. Yet the company became a source of patronage and a mechanism for transferring wealth to Moi's network. Management contracts were awarded to companies connected to regime figures, procurement decisions favoured politically connected suppliers, and the company's financial situation deteriorated despite the captive market it enjoyed and the essential nature of the services it provided.
+
+The parastatal sector also became a mechanism for international debt accumulation. Many of these companies borrowed from international creditors at rates that reflected the countries' risk assessments, incurring debts that were later transferred to the state when the companies were privatised or restructured. This pattern of borrowing by parastatals and subsequent public assumption of debt effectively laundered private corruption through public balance sheets. The International Monetary Fund and World Bank, in their structural adjustment programs, pushed for privatisation of these enterprises, which was then presented as a technical economic requirement rather than as a mechanism for transferring public assets to private interests.
+
+The privatisation of Kenya's parastatals, which accelerated in the 1990s and continued after Moi's presidency, often benefited individuals who had been connected to the Moi regime. The privatisation process itself was frequently non-transparent, with assets sold at below-market rates to politically connected buyers. Foreign investors acquired stakes in these companies, yet control often remained with Kenyan individuals who had benefited from proximity to power under Moi. The pattern demonstrated how structural adjustment, while presented as a technical requirement for economic efficiency, actually served to consolidate and transform private fortunes accumulated through authoritarian rule.
+
+KenGen, the electricity generating company, demonstrated the parastatal model in its full dysfunction. The company was responsible for generating the majority of Kenya's electricity, a critical function in the national economy. Yet the company became a repository of political patronage, with management positions awarded to individuals whose qualifications were less important than their political loyalty. The company's efficiency declined relative to its costs, and it accumulated significant losses that were eventually written off or transferred to other entities.
+
+The World Bank and international creditors, in pushing for privatisation and commercialisation of these parastatals, were in many respects unwitting accomplices in the transfer of public assets to private interests. The conditionality of structural adjustment programs required privatisation, but the process of privatisation was not transparent or competitive enough to ensure that public assets went to the most efficient managers. Instead, the process served to enrich those with political connections and to create a class of private monopolists who had inherited the public monopolies' control over essential services.
+
+The parastatal sector also demonstrated how Moi's regime operated through patronage networks rather than through rational bureaucratic procedures. Positions in parastatal management were valued not for the salaries they offered but for the access they provided to state resources and contracts. A position as chairman of Kenya Airways or KPLC was attractive precisely because it provided opportunities to direct contracts to politically connected businesses, to arrange loans or favours, and to accumulate wealth through mechanisms that appeared legitimate because they operated within the formal structure of a government enterprise.
+
+## See Also
+[[Kenya/Parastatals]]
+[[Moi Economic Policy 1978-1990]]
+[[Structural Adjustment Programs Kenya]]
+[[Corruption/Kenya]]
+[[Kenya/Infrastructure Development]]
+[[Moi and International Donors]]
+
+## Sources
+1. https://www.jstor.org/stable/3172813 (accessed 2024)
+2. https://www.britannica.com/topic/Kenya-Economy (accessed 2024)
+3. https://www.standardmedia.co.ke/article/2000450321/parastatals-corruption-investigation (accessed 2024)
