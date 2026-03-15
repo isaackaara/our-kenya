@@ -1,0 +1,23 @@
+Plant collection constitutes one of the most important subsistence and economic activities for Kenya's forest peoples, encompassing the gathering of wild plants for food, medicine, tools, and other uses. The Ogiek, Sengwer, and other forest communities developed detailed knowledge of hundreds of plant species, their locations, seasons of availability, identification characteristics, and uses. Plant collection provided essential nutrients and resources for daily life while generating trade goods and income. The sustainability of plant collection reflected sophisticated understanding of plant regeneration, sustainable harvesting methods, and appropriate timing and locations for collection to avoid overexploitation.
+
+The diversity of plants collected reflects the ecological richness of Kenya's forests and the sophistication of indigenous plant knowledge. Wild food plants including roots, tubers, leafy vegetables, fruits, and nuts supplemented hunted meat and provided dietary variety and nutritional diversity. The identification of edible versus poisonous plants, knowledge of seasonal availability, and understanding of proper preparation methods reflected accumulated botanical knowledge. Medicinal plants were collected for treatment of various ailments, with knowledge of specific species useful for particular conditions. Material plants including bark, wood, and fibers were collected for construction, tool-making, and fiber production. Honey and plant products used in honey extraction constitute another category of important plant-based resources.
+
+The collection of specific plants occurred in designated forest areas and followed customary rules regulating seasonal timing and harvesting methods. Some forest areas were allocated to specific families or clans, who regulated collection to prevent overexploitation. Certain plants were understood to belong to particular individuals or families with recognized authority over their use. The collection of medicinal plants was sometimes restricted to individuals with specialized knowledge, limiting access to prevent indiscriminate harvesting. These regulatory systems reflected sophisticated understanding of sustainable resource management adapted to the reproduction rates and population dynamics of specific plant species.
+
+Women frequently held primary responsibility for plant collection, particularly of wild food plants and medicinal species. The knowledge of plant identification, location, and preparation was often transmitted through female lineages, with mothers teaching daughters the skills necessary for plant collection. This gendered division of labor reflects both practical efficiency and cultural organization. The economic value of plant collection means that women's productive activities were economically significant, though often underrecognized in discussions emphasizing hunting and herding as primary economic activities. Recognition of plant collection as economically important and of women's expertise in plant knowledge is essential to understanding forest peoples' economies.
+
+Displacement from forest territories has eliminated plant collection as a regular livelihood activity for many forest peoples. The separation from forests prevents access to the plant species central to subsistence and trade. The knowledge of specific plant locations and seasonal patterns cannot be applied when people no longer reside in or have access to forests. Younger generations growing up outside forests do not develop the detailed plant identification and collection skills their parents and grandparents possessed. The loss of plant collection as a practiced livelihood represents the loss of an economic activity, a knowledge system, and a component of cultural identity. Restoration of access to forests would enable resumption of plant collection as a sustainable livelihood and knowledge-transmission activity.
+
+## See Also
+
+[[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Medicinal Plants Knowledge]] | [[Economic Activities]] | [[Women Kenya]] | [[Forest Management Knowledge]]
+
+## Sources
+
+1. Maliasili Initiatives. "Culture, Land, Justice: The Ogiek Fight for the Mau Forest." https://maliasili.org/voices-of-impact/culture-land-justice-the-ogiek-fight-for-the-mau-forest (November 11, 2025)
+
+2. Survival International. "Ogiek." https://www.survivalinternational.org/tribes/ogiek
+
+3. Hunter-Gatherer Forum Kenya. "Ogiek of Mau." https://hugafokenya.org/communities/ogiek-of-mau/
+
+4. Forest Peoples Programme. "Defending Our Future: Overcoming the Challenges of Returning the Ogiek Home." https://www.forestpeoples.org/fileadmin/uploads/fpp/migration/documents/Defending-our-future-Ogiek-Report.pdf
