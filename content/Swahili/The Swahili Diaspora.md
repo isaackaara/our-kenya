@@ -1,6 +1,6 @@
 # The Swahili Diaspora
 
-Swahili speakers and Swahili culture have dispersed globally through migration, trade, and cultural influence. Diaspora communities exist in the Middle East, Europe, North America, and other parts of Africa. Swahili language and culture are increasingly recognized globally through education, media, and cultural exchange.
+[[Swahili]] speakers and [[Swahili]] culture have dispersed globally through migration, trade, and cultural influence. Diaspora communities exist in the Middle East, Europe, North America, and other parts of Africa. [[Swahili Language|Swahili language]] and culture are increasingly recognized globally through education, media, and cultural exchange.
 
 ## Historical Diaspora
 
@@ -78,6 +78,14 @@ Diaspora Swahili maintain complex identities:
 - **Generational differences:** Younger generations may have weaker homeland connections
 
 Identity negotiations are ongoing and varied.
+
+## See Also
+
+- [[The Swahili Language's Global Spread]]
+- [[Swahili Civilization Overview]]
+- [[Swahili Language]]
+- [[Taarab Music]]
+- [[Islam on the Swahili Coast]]
 
 ## Sources
 

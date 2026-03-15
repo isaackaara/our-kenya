@@ -1,6 +1,6 @@
 # The Indian Ocean World
 
-The pre-colonial Indian Ocean functioned as an integrated economic and cultural zone in which the Swahili coast played a crucial intermediary role. The monsoon wind system enabled regular maritime trade and contact across vast distances, creating a world-system centuries before European global integration.
+The pre-colonial [[Indian Ocean]] functioned as an integrated economic and cultural zone in which the [[Swahili]] coast played a crucial intermediary role. The monsoon wind system enabled regular maritime trade and contact across vast distances, creating a world-system centuries before European global integration.
 
 ## The Monsoon System
 
@@ -93,6 +93,15 @@ The history of the pre-colonial Indian Ocean reminds us that:
 - The Indian Ocean represents a coherent historical region with internal logic distinct from European Atlantic trade
 
 The Swahili civilization's role in this world system demonstrated that African peoples were not isolated or isolated by geography, but rather were active participants in global commerce and cultural networks.
+
+## See Also
+
+- [[Kilwa Kisiwani]]
+- [[Zanzibar and Kenya]]
+- [[Swahili Slavery]]
+- [[Great Zimbabwe and the Swahili Trade]]
+- [[Vasco da Gama and the Coast]]
+- [[The Omani Conquest]]
 
 ## Sources
 

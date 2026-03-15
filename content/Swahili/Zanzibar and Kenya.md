@@ -1,6 +1,6 @@
 # Zanzibar and Kenya
 
-Zanzibar was the capital of a vast Indian Ocean empire centered on Omani Arab authority that dominated the East African coast from the late 17th century through the 19th century. The Sultan of Zanzibar's authority extended over the Kenyan coast, making Zanzibar the ultimate source of political authority for coastal Kenyan regions. Zanzibar also served as the center of the East African slave trade during its peak in the 19th century.
+[[Zanzibar]] was the capital of a vast [[Indian Ocean]] empire centered on Omani Arab authority that dominated the East African coast from the late 17th century through the 19th century. The Sultan of [[Zanzibar]] authority extended over the Kenyan coast, making [[Zanzibar]] the ultimate source of political authority for coastal Kenyan regions. [[Zanzibar]] also served as the center of the East African slave trade during its peak in the 19th century.
 
 ## Zanzibar's Rise to Power
 
@@ -83,7 +83,16 @@ Kenya was established as a British protectorate in 1895 (with the coastal strip 
 
 Today, Zanzibar and Kenya are separate countries. Zanzibar is part of the United Republic of Tanzania (having merged with Tanganyika in 1964), while Kenya is an independent nation. The historical connection between Zanzibar and Kenya is remembered in Swahili cultural connections and the shared heritage of Swahili civilization.
 
-Zanzibar remains an important historical site with UNESCO World Heritage recognition for its Stone Town (the old city of Zanzibar Town). The island maintains Swahili cultural traditions and serves as a major tourist destination.
+Zanzibar remains an important historical site with UNESCO World Heritage recognition for its Stone Town (the old city of Zanzibar Town). The island maintains [[Swahili]] cultural traditions and serves as a major tourist destination.
+
+## See Also
+
+- [[The Omani Conquest]]
+- [[Swahili Slavery]]
+- [[Mombasa]]
+- [[The Slave Trade's End]]
+- [[The Indian Ocean World]]
+- [[The Mazrui Family]]
 
 ## Sources
 

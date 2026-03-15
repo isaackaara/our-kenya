@@ -1,6 +1,6 @@
 # The Mazrui Family
 
-The Mazrui were an Arab-Swahili family that ruled Mombasa as governors for the Omani Sultanate during the 18th century, then rebelled against Omani authority in the early 19th century, attempting to establish independence. The British eventually intervened to support the Omani Busaidi dynasty, leading to the suppression of the Mazrui rebellion in 1837.
+The [[Mazrui Family]] were an Arab-[[Swahili]] family that ruled [[Mombasa]] as governors for the Omani Sultanate during the 18th century, then rebelled against Omani authority in the early 19th century, attempting to establish independence. The British eventually intervened to support the Omani Busaidi dynasty, leading to the suppression of the Mazrui rebellion in 1837.
 
 ## Origins and Rise to Power
 
@@ -46,6 +46,14 @@ The Mazrui rebellion is historically significant for several reasons:
 The Mazrui name persisted in Mombasa even after the rebellion's failure. The family continued to hold some local authority and prestige, though they never regained the power they had held during the rebellious period.
 
 The Mazrui rebellion is remembered in Mombasa and coastal historical consciousness as a moment when local forces attempted to assert independence. The British intervention that led to the rebellion's suppression foreshadowed the European colonialism that would dominate East Africa from the late 19th century onward.
+
+## See Also
+
+- [[The Omani Conquest]]
+- [[Mombasa]]
+- [[Zanzibar and Kenya]]
+- [[Fort Jesus]]
+- [[Swahili in the Colonial Economy]]
 
 ## Sources
 

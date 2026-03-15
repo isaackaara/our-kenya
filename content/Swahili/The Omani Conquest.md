@@ -1,6 +1,6 @@
 # The Omani Conquest
 
-The Omani Arabs expelled the Portuguese from the East African coast in the late 17th century, ending Portuguese dominance and establishing Omani authority that would persist through the 19th century. The expulsion of the Portuguese was not a single military event but rather a process of Omani expansion and Portuguese military pressure over decades, culminating in Oman's control of the coast by approximately 1698.
+The Omani Arabs expelled the Portuguese from the East African coast in the late 17th century, ending Portuguese dominance and establishing [[Omani]] authority that would persist through the 19th century. The expulsion of the Portuguese was not a single military event but rather a process of Omani expansion and Portuguese military pressure over decades, culminating in [[Oman|Oman's]] control of the coast by approximately 1698.
 
 ## Portuguese Decline
 
@@ -81,6 +81,15 @@ The Omani conquest marked:
 - The beginning of the 18th-19th century period when East African trade, particularly the slave trade, reached unprecedented scales
 
 The Omani conquest demonstrates that European colonialism was not inevitable or unopposed. Omani military power successfully expelled the Portuguese, and Omani rule subsequently dominated the region for over a century before British colonial expansion in the late 19th century.
+
+## See Also
+
+- [[Vasco da Gama and the Coast]]
+- [[Portuguese Domination]]
+- [[Fort Jesus]]
+- [[Mombasa]]
+- [[Zanzibar and Kenya]]
+- [[The Mazrui Family]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # The Portuguese and Christianity
 
-The Portuguese brought Catholicism to the East African coast and attempted to convert the Swahili population to Christianity. However, their efforts met with extremely limited success. Swahili culture was deeply and thoroughly Islamic, and religious conversion proved incompatible with Swahili identity, social organization, and existing commitments to Islam. The Portuguese-built churches represent some of the oldest Christian structures in sub-Saharan Africa, yet they ultimately failed to establish permanent Christianity on the coast.
+The Portuguese brought Catholicism to the East African coast and attempted to convert the [[Swahili]] population to Christianity. However, their efforts met with extremely limited success. [[Swahili]] culture was deeply and thoroughly [[Islam|Islamic]], and religious conversion proved incompatible with [[Swahili]] identity, social organization, and existing commitments to [[Islam]]. The Portuguese-built churches represent some of the oldest Christian structures in sub-Saharan Africa, yet they ultimately failed to establish permanent Christianity on the coast.
 
 ## Portuguese Missionary Activities
 
@@ -87,6 +87,14 @@ The Portuguese churches represent:
 - **Archaeological significance:** Some churches are protected as historical monuments
 
 The failure of Portuguese Christianity to convert the Swahili demonstrates that military power and political dominance do not automatically translate into cultural transformation. The Swahili remained culturally autonomous even under Portuguese military occupation.
+
+## See Also
+
+- [[Portuguese Domination]]
+- [[Vasco da Gama and the Coast]]
+- [[Islam on the Swahili Coast]]
+- [[Fort Jesus]]
+- [[Malindi]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # The Lamu Donkey
 
-Lamu stands as perhaps the only major town in East Africa without motor vehicles, relying instead on donkeys (and increasingly motorbikes in peripheral areas) as the primary transportation method. This distinctive feature results from Lamu's geography and history. The town's narrow medieval streets were designed before the invention of the automobile and cannot accommodate cars. Over centuries of use, the absence of vehicles created a unique urban environment fundamentally different from contemporary East African cities.
+[[Lamu]] stands as perhaps the only major town in East Africa without motor vehicles, relying instead on donkeys (and increasingly motorbikes in peripheral areas) as the primary transportation method. This distinctive feature results from [[Lamu|Lamu's]] geography and history. The town's narrow medieval streets were designed before the invention of the automobile and cannot accommodate cars. Over centuries of use, the absence of vehicles created a unique urban environment fundamentally different from contemporary East African cities.
 
 ## Geography and Streets
 
@@ -67,6 +67,14 @@ Lamu's vehicle-free character is exceptionally rare globally. Few towns of compa
 - **Cultural treasure:** Representing a way of life largely disappeared elsewhere
 
 This uniqueness contributes to Lamu's international recognition and appeal.
+
+## See Also
+
+- [[Swahili Architecture]]
+- [[Old Town Mombasa]]
+- [[Kilwa Kisiwani]]
+- [[Swahili Coast Tourism]]
+- [[Swahili Civilization Overview]]
 
 ## Sources
 

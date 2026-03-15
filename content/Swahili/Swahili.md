@@ -1,6 +1,6 @@
 # Swahili Civilization Knowledge Graph
 
-Complete index of the Swahili vertical covering the East African coastal civilization from approximately 800 CE to the present.
+Complete index of the Swahili vertical covering the East African coastal civilization from approximately 800 CE to the present. This [[Swahili|knowledge base]] explores the history, culture, and contemporary issues of [[Swahili]] civilization across the Indian Ocean coast.
 
 ## Overview
 
@@ -76,6 +76,16 @@ Complete index of the Swahili vertical covering the East African coastal civiliz
 - [[Swahili Timeline]]
 
 ---
+
+## See Also
+
+- [[Swahili Language]]
+- [[Islam on the Swahili Coast]]
+- [[Taarab Music]]
+- [[The Indian Ocean World]]
+- [[Fort Jesus]]
+- [[Swahili Architecture]]
+- [[Swahili Poetry]]
 
 **Total Notes:** 50
 **Coverage:** Civilization overview, major city-states, cultural traditions, historical figures, and contemporary issues across the Swahili coast (Somalia to Mozambique).

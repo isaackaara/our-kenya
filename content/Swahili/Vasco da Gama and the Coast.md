@@ -1,6 +1,6 @@
 # Vasco da Gama and the Coast
 
-Vasco da Gama's voyage of 1497-1499 rounded the Cape of Good Hope and reached the East African coast, initiating contact between Portuguese maritime power and Swahili civilization. His voyage demonstrated that European ships could reach India by sailing around Africa, transforming European geography and triggering Portuguese expansion into the Indian Ocean. The Swahili coast, particularly Malindi, played a crucial role in enabling his final journey to India.
+Vasco da Gama's voyage of 1497-1499 rounded the Cape of Good Hope and reached the East African coast, initiating contact between Portuguese maritime power and [[Swahili]] civilization. His voyage demonstrated that European ships could reach India by sailing around Africa, transforming European geography and triggering Portuguese expansion into the [[Indian Ocean]]. The [[Swahili]] coast, particularly [[Malindi]], played a crucial role in enabling his final journey to India.
 
 ## The Voyage
 
@@ -68,6 +68,14 @@ Da Gama's voyage is significant for:
 - **European global expansion:** It enabled European merchants to access Indian Ocean trade directly, bypassing Ottoman intermediaries
 - **Swahili coast disruption:** It initiated the disruption of Swahili city-state independence through Portuguese military dominance
 - **Global trade transformation:** It contributed to the eventual shift of global trade patterns from Islamic-centered Indian Ocean networks to European-dominated Atlantic networks
+
+## See Also
+
+- [[Portuguese Domination]]
+- [[The Omani Conquest]]
+- [[The Indian Ocean World]]
+- [[Mombasa]]
+- [[The Portuguese and Christianity]]
 
 ## Sources
 
