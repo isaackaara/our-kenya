@@ -28,12 +28,14 @@ export default ((opts?: TrailNavOptions) => {
 
     // Generate dot indicators
     const dots = Array.from({ length: totalStops }, (_, i) => {
-      const completed = i < stopPosition
+      const isCurrent = i === stopPosition
+      const isCompleted = i < stopPosition
+      const dotClass = isCompleted ? "completed" : isCurrent ? "current" : "remaining"
       return (
         <span
           key={i}
-          className={`trail-dot ${completed ? "completed" : "remaining"}`}
-          aria-label={`Stop ${i + 1}${i === stopPosition ? " (current)" : ""}`}
+          className={`trail-dot ${dotClass}`}
+          aria-label={`Stop ${i + 1}${isCurrent ? " (current)" : ""}`}
         />
       )
     })
@@ -48,12 +50,10 @@ export default ((opts?: TrailNavOptions) => {
                 Story Trail: {trail.name}
               </a>
             </div>
-            <div className="trail-progress">
-              <div className="trail-dots">{dots}</div>
-              <span className="trail-position">
-                Stop {currentStop} of {totalStops}
-              </span>
-            </div>
+            <div className="trail-dots">{dots}</div>
+            <span className="trail-position">
+              Stop {currentStop} of {totalStops}
+            </span>
             {otherTrailsCount > 0 && (
               <div className="trail-other">
                 Also part of {otherTrailsCount} other trail{otherTrailsCount > 1 ? "s" : ""}
@@ -107,6 +107,7 @@ export default ((opts?: TrailNavOptions) => {
   }
 
   .trail-nav-top-container {
+    margin-top: 1.5rem;
     margin-bottom: 1.5rem;
   }
 
@@ -117,19 +118,24 @@ export default ((opts?: TrailNavOptions) => {
   .trail-nav-top {
     background: linear-gradient(135deg, #006B3F 0%, #008751 100%);
     color: white;
-    padding: 1rem 1.25rem;
+    padding: 1.25rem 1.5rem 1rem;
     border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.6rem;
   }
 
   .trail-header {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 0.5rem;
-    margin-bottom: 0.75rem;
   }
 
   .trail-icon {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
   }
 
   .trail-name {
@@ -144,45 +150,45 @@ export default ((opts?: TrailNavOptions) => {
     opacity: 0.85;
   }
 
-  .trail-progress {
+  .trail-dots {
     display: flex;
+    gap: 0.65rem;
     align-items: center;
-    gap: 1rem;
+    justify-content: center;
     flex-wrap: wrap;
   }
 
-  .trail-dots {
-    display: flex;
-    gap: 0.4rem;
-    align-items: center;
-  }
-
   .trail-dot {
-    width: 10px;
-    height: 10px;
+    width: 11px;
+    height: 11px;
     border-radius: 50%;
     transition: all 0.3s ease;
+    flex-shrink: 0;
   }
 
   .trail-dot.completed {
+    background: rgba(255, 255, 255, 0.6);
+  }
+
+  .trail-dot.current {
     background: white;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.4);
   }
 
   .trail-dot.remaining {
     background: transparent;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 2px solid rgba(255, 255, 255, 0.4);
   }
 
   .trail-position {
-    font-size: 0.875rem;
-    opacity: 0.95;
-    white-space: nowrap;
+    font-size: 0.8rem;
+    opacity: 0.85;
+    letter-spacing: 0.03em;
   }
 
   .trail-other {
-    margin-top: 0.5rem;
-    font-size: 0.8rem;
-    opacity: 0.8;
+    font-size: 0.75rem;
+    opacity: 0.75;
   }
 
   .trail-nav-bottom {
