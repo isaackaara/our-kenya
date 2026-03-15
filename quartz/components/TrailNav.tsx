@@ -275,56 +275,69 @@ export default ((opts?: TrailNavOptions) => {
 
   /* Mobile responsive */
   @media (max-width: 600px) {
+    .trail-nav-top-container {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+
     .trail-nav-top {
-      padding: 0.875rem 1rem;
-    }
-    
-    .trail-header {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 0.375rem;
-    }
-    
-    .trail-name {
-      font-size: 0.95rem;
-    }
-    
-    .trail-progress {
-      flex-direction: column;
-      align-items: flex-start;
+      padding: 1rem 1rem 0.875rem;
       gap: 0.5rem;
+      border-radius: 6px;
     }
-    
+
+    .trail-header {
+      flex-direction: row;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .trail-icon {
+      font-size: 1rem;
+    }
+
+    .trail-name {
+      font-size: 0.9rem;
+      text-align: center;
+      line-height: 1.35;
+    }
+
+    .trail-dots {
+      gap: 0.55rem;
+    }
+
     .trail-dot {
-      width: 8px;
-      height: 8px;
+      width: 9px;
+      height: 9px;
     }
-    
+
     .trail-position {
-      font-size: 0.8rem;
+      font-size: 0.75rem;
     }
-    
+
     .trail-nav-buttons {
       grid-template-columns: 1fr;
       gap: 0.75rem;
     }
-    
+
     .trail-nav-prev,
     .trail-nav-next {
       max-width: 100%;
       width: 100%;
+      min-height: 52px;
       padding: 0.875rem 1rem;
       font-size: 0.9rem;
     }
-    
+
     .trail-nav-prev {
-      order: 1;
-    }
-    
-    .trail-nav-next {
       order: 2;
     }
-    
+
+    .trail-nav-next {
+      order: 1;
+    }
+
     .trail-nav-spacer {
       display: none;
     }
