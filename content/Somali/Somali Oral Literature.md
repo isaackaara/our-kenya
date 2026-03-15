@@ -1,4 +1,4 @@
-# Somali Oral Literature
+# Somali [[Somali Oral Literature|oral literature]]
 
 Somali oral tradition represents one of Africa's richest literary heritage systems, developed over centuries by pastoralist societies in the Horn of Africa. Among Kenyan Somali communities, these oral forms remain vital expressions of cultural identity, historical memory, and social values.
 
@@ -6,7 +6,7 @@ Somali oral tradition represents one of Africa's richest literary heritage syste
 
 ### Gabay
 
-The gabay is an extended poetic form, typically composed of lengthy stanzas addressing serious themes: history, clan identity, love, social critique, and moral instruction. Gabay poets, known as gabayaagaha, held high status in Somali society, serving as historians and moral commentators. The form employs complex meter and alliteration, making each composition a significant achievement. Historically, gabay composition required years of training and demonstrated cultural authority.
+The gabay is an extended poetic form, typically composed of lengthy stanzas addressing serious themes: history, [[Somali Clan System Kenya|clan]] identity, love, social critique, and moral instruction. Gabay poets, known as gabayaagaha, held high status in Somali society, serving as historians and moral commentators. The form employs complex meter and alliteration, making each composition a significant achievement. Historically, gabay composition required years of training and demonstrated cultural authority.
 
 ### Geeraar
 

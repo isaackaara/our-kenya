@@ -1,10 +1,10 @@
-# Somali Nomadic Education
+# Somali [[Somali Nomadic Education|nomadic]] Education
 
-Providing quality education to nomadic pastoralist children in the Northern Frontier District presents a fundamental challenge to Kenya's education system. Somali pastoral communities, whose livelihoods depend on livestock mobility across arid rangelands, confront schooling systems designed for settled populations.
+Providing quality education to nomadic pastoralist children in the Northern Frontier District presents a fundamental challenge to Kenya's education system. Somali [[Camel Economy|pastoral]] communities, whose livelihoods depend on livestock mobility across arid rangelands, confront schooling systems designed for settled populations.
 
 ## The Nomadic Education Gap
 
-Traditional pastoral lifestyles require movement across seasonal pasture and water resources. School enrollment in pastoral zones lags far behind national averages: primary enrollment in Wajir and Mandera counties remained below 60 percent as of 2020, compared to national average above 95 percent. Completion rates are even lower, with girls' completion particularly compromised by early marriage practices and household demands for girls' labor.
+Traditional pastoral lifestyles require movement across seasonal pasture and water resources. School enrollment in pastoral zones lags far behind national averages: primary enrollment in [[Wajir County|Wajir]] and [[Somali Nomadic Education|Mandera]] counties remained below 60 percent as of 2020, compared to national average above 95 percent. Completion rates are even lower, with girls' completion particularly compromised by early marriage practices and household demands for girls' labor.
 
 Nomadic pastoralism and formal schooling operate on incompatible logics. Schools demand permanent residence and regular attendance; pastoral production requires mobility. Families face genuine tradeoffs between keeping children available for herding and sending them to school.
 

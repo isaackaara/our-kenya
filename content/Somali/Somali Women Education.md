@@ -1,10 +1,10 @@
 # Somali Women Education
 
-Somali girls and women in Kenya face specific, compounded barriers to education that extend beyond gender disadvantages observed in other Kenyan communities. Cultural norms, early marriage practices, insecurity, and poverty create distinct educational marginalization for Somali females in the Northern Frontier District and Nairobi.
+Somali girls and women in Kenya face specific, compounded barriers to [[Somali Women Education|education]] that extend beyond gender disadvantages observed in other Kenyan communities. Cultural norms, early [[Somali Wedding Traditions|marriage]] practices, insecurity, and poverty create distinct educational marginalization for Somali females in the Northern Frontier District and Nairobi.
 
 ## Historical Context
 
-Colonial and early post-independence education systems marginalized both pastoral communities and girls. In pastoral Somali regions, schools were few and distant from settlements, and culturally-specific attitudes regarding girls' roles created resistance to female formal schooling. Traditional knowledge transmission occurred through family apprenticeship (girls learning domestic and pastoral production skills), not formal schooling.
+Colonial and early post-independence education systems marginalized both [[Camel Economy|pastoral]] communities and girls. In pastoral Somali regions, schools were few and distant from settlements, and culturally-specific attitudes regarding girls' roles created resistance to female formal schooling. Traditional knowledge transmission occurred through family apprenticeship (girls learning domestic and pastoral production skills), not formal schooling.
 
 Formal education expansion from the 1960s onward gradually increased rural school access, but gender disparities persisted. Girls' primary enrollment lagged boys' enrollment, and secondary enrollment disparities were more pronounced.
 
@@ -36,7 +36,7 @@ Poverty creates barriers for girls particularly acutely:
 
 ### Insecurity
 
-Al-Shabaab insurgency and banditry in Wajir, Mandera, and parts of Garissa have created insecurity affecting education particularly for girls:
+[[Al-Shabaab and Northern Kenya|Al-Shabaab]] insurgency and banditry in [[Wajir County|Wajir]], Mandera, and parts of Garissa have created insecurity affecting education particularly for girls:
 
 **Safety Concerns** - Long school commutes through insecure areas (particularly dangerous for girls) discourage enrollment and attendance.
 

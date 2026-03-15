@@ -1,10 +1,10 @@
-# Somali Piracy and Kenya
+# Somali [[Somali Piracy and Kenya|piracy]] and Kenya
 
-Somali piracy, primarily from 2008 to 2012, disrupted Indian Ocean shipping routes near Kenya and had economic and security implications for Kenya's coastal regions. Pirates hijacked merchant vessels, demanded ransom, and disrupted international trade passing through waters near Kenya. While piracy has subsided, the phenomenon shaped regional security discourse and affected Kenyan coastal commerce.
+Somali piracy, primarily from 2008 to 2012, disrupted [[Somali Piracy and Kenya|Indian Ocean]] shipping routes near Kenya and had economic and security implications for Kenya's coastal regions. Pirates hijacked merchant vessels, demanded ransom, and disrupted international trade passing through waters near Kenya. While piracy has subsided, the phenomenon shaped regional security discourse and affected Kenyan coastal commerce.
 
 ## Timeline and Scale
 
-Somali piracy intensified in the 2000s as state capacity in Somalia collapsed. Pirates, primarily based in northeastern Somalia (Puntland), attacked cargo ships transiting the Indian Ocean. Piracy peaked around 2011, with hundreds of attacks annually. Pirates hijacked ships, held crews for ransom, and sometimes killed hostages. The phenomenon disrupted one of the world's busiest shipping routes. Ransoms paid were estimated at hundreds of millions of dollars annually.
+Somali piracy intensified in the 2000s as state capacity in [[Somalia State Collapse Effects on Kenya|Somalia]] collapsed. Pirates, primarily based in northeastern Somalia (Puntland), attacked cargo ships transiting the Indian Ocean. Piracy peaked around 2011, with hundreds of attacks annually. Pirates hijacked ships, held crews for ransom, and sometimes killed hostages. The phenomenon disrupted one of the world's busiest shipping routes. Ransoms paid were estimated at hundreds of millions of dollars annually.
 
 ## Impact on Kenyan Coast
 

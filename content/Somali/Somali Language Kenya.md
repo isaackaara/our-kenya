@@ -1,14 +1,14 @@
-# Somali Language Kenya
+# [[Somali Language Kenya|Somali language]] Kenya
 
 The Somali language (af Soomaali) is an East Cushitic language of the Afroasiatic family, not a Bantu language. It is spoken by approximately 15 to 20 million people across Somalia, Kenya, Ethiopia (Somali Region), and Djibouti. In Kenya, Somali is the primary language of the Somali ethnic group, though it faces limited institutional support and is not taught in most schools.
 
 ## Language Classification and Characteristics
 
-Somali is a Cushitic language, meaning it belongs to the Cushitic branch of the Afroasiatic language family (which includes Semitic languages like Arabic and Hebrew). It is not related to Bantu languages like Swahili, Kikuyu, or Luhya. Somali has no native tones and is an agglutinative language with complex morphology. The standard Somali dialect (based on central Somali) is understood across Somalia, Kenya, and the diaspora.
+Somali is a Cushitic language, meaning it belongs to the Cushitic branch of the Afroasiatic language family (which includes Semitic languages like Arabic and Hebrew). It is not related to Bantu languages like [[Somali Language Kenya|Swahili]], Kikuyu, or Luhya. Somali has no native tones and is an agglutinative language with complex morphology. The standard Somali dialect (based on central Somali) is understood across Somalia, Kenya, and the diaspora.
 
 ## Written Script
 
-For centuries, Somali had no standardized written script. Arabic script was used in some contexts, particularly for religious texts. Italian colonizers used Italian romanization. British colonizers used English romanization. In 1972, a standardized Latin-based script was officially adopted by the Somali government. This unified script has facilitated literacy and published materials in Somali. However, adoption has been uneven, and many Somali speakers remain illiterate in their own language.
+For centuries, Somali had no standardized written script. Arabic script was used in some contexts, particularly for religious texts. Italian colonizers used Italian romanization. British colonizers used [[Somali Language Kenya|English]] romanization. In 1972, a standardized Latin-based script was officially adopted by the Somali government. This unified script has facilitated literacy and published materials in Somali. However, adoption has been uneven, and many Somali speakers remain illiterate in their own language.
 
 ## Multilingualism in Kenya
 

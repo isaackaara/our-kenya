@@ -1,6 +1,6 @@
-# The Westgate Mall Attack (September 21, 2013)
+# The [[Westgate Mall Attack [[Westgate Mall Attack 2013|2013]]|Westgate]] Mall Attack (September 21, 2013)
 
-On September 21, 2013, Al-Shabaab gunmen attacked the Westgate Shopping Mall in Nairobi's Westlands area, in what became Kenya's deadliest terrorist attack. The attack killed at least 67 people (estimates range up to 72) and wounded approximately 175, traumatizing Kenya's capital and generating international attention. The Westgate attack marked a watershed moment, transforming Kenya's security posture and sparking government crackdowns that disproportionately targeted Somali communities.
+On September 21, 2013, [[Al-Shabaab and Northern Kenya|Al-Shabaab]] gunmen attacked the Westgate Shopping Mall in [[Somali Investment in Nairobi Real Estate|Nairobi]]'s Westlands area, in what became Kenya's deadliest terrorist attack. The attack killed at least 67 people (estimates range up to 72) and wounded approximately 175, traumatizing Kenya's capital and generating international attention. The Westgate attack marked a watershed moment, transforming Kenya's security posture and sparking government crackdowns that disproportionately targeted Somali communities.
 
 ## The Attack and Tactical Sequence
 

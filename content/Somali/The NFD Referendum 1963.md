@@ -1,6 +1,6 @@
-# The Northern Frontier District Commission of Inquiry (1963)
+# The Northern Frontier District Commission of Inquiry ([[The NFD Referendum 1963|1963]])
 
-Before Kenya's independence, the colonial administration faced a question about the future of the Northern Frontier District (NFD), a vast arid territory in northeastern Kenya inhabited almost entirely by Somali and other pastoralist communities. In 1963, Britain conducted a commission of inquiry to determine whether the NFD's population wished to remain part of Kenya or join the independent Somali Republic. The results were overwhelmingly in favor of joining Somalia. Britain ignored the findings and incorporated the NFD into Kenya anyway.
+Before Kenya's independence, the colonial administration faced a question about the future of the Northern Frontier District (NFD), a vast arid territory in northeastern Kenya inhabited almost entirely by Somali and other pastoralist communities. In 1963, Britain conducted a commission of inquiry to determine whether the NFD's population wished to remain part of Kenya or join the independent Somali Republic. The results were overwhelmingly in favor of joining [[Somalia State Collapse Effects on Kenya|Somalia]]. Britain ignored the findings and incorporated the NFD into Kenya anyway.
 
 ## Background: The NFD and Colonial Governance
 
@@ -24,7 +24,7 @@ The official justification was that the NFD was economically underdeveloped and 
 
 ## Immediate Consequences: The Shifta War (1963-1967)
 
-The rejection of the commission's findings ignited armed resistance. Kenyan Somali, feeling denied self-determination and betrayed by Britain, launched an insurgency known as the Shifta War (1963-1967). Shifta (gunmen, from Amharic) guerrillas attacked Kenyan police, military, and administrative posts throughout the NFD, demanding union with Somalia.
+The rejection of the commission's findings ignited armed resistance. Kenyan Somali, feeling denied [[The NFD Referendum 1963|self-determination]] and betrayed by Britain, launched an insurgency known as the Shifta War (1963-1967). Shifta (gunmen, from Amharic) guerrillas attacked Kenyan police, military, and administrative posts throughout the NFD, demanding union with Somalia.
 
 Kenya's response was brutal collective punishment. The government declared emergency rule, restricted movement, and conducted mass arrests and extrajudicial killings of Somali populations. By the time the insurgency formally ended in 1967, thousands of Somali Kenyans had been killed, livestock had been decimated, and Somali communities had experienced severe trauma.
 

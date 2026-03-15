@@ -1,6 +1,6 @@
-# The Wagalla Massacre 1984
+# The [[The Wagalla [[The Wagalla Massacre 1984|massacre]] [[The Wagalla Massacre 1984|1984]]|Wagalla]] Massacre 1984
 
-The Wagalla Massacre of 10 February 1984 is widely recognized as one of the worst human rights abuses in Kenyan history. Kenyan security forces rounded up approximately 5,000 Somali men from the Degodia clan at Wagalla Airstrip in Wajir, held them for days without food or water, and opened fire on them. Official government figures claim 57 deaths; human rights organizations, survivors, and the Truth, Justice and Reconciliation Commission (TJRC) documented hundreds to over 2,000 deaths. It occurred under President Daniel arap Moi's regime and remained officially denied for decades.
+The Wagalla Massacre of 10 February 1984 is widely recognized as one of the worst human rights abuses in Kenyan history. Kenyan security forces rounded up approximately 5,000 Somali men from the Degodia clan at Wagalla Airstrip in [[Wajir County|Wajir]], held them for days without food or water, and opened fire on them. Official government figures claim 57 deaths; human rights organizations, survivors, and the Truth, Justice and Reconciliation Commission (TJRC) documented hundreds to over 2,000 deaths. It occurred under President Daniel arap Moi's regime and remained officially denied for decades.
 
 ## Background
 

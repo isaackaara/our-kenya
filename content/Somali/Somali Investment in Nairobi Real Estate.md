@@ -6,9 +6,9 @@ Somali entrepreneurs and investors have increasingly directed capital into Nairo
 
 Somali real estate investment draws on multiple capital sources:
 
-**Accumulated Trade Profits** - Somali traders who accumulated capital in commerce, particularly in Eastleigh and regional wholesale trading, have reinvested surplus profits in property acquisition.
+**Accumulated Trade Profits** - Somali traders who accumulated capital in commerce, particularly in [[Eastleigh Real Estate|Eastleigh]] and regional wholesale trading, have reinvested surplus profits in property acquisition.
 
-**Diaspora Capital** - Somali diaspora in the United States, Europe, and Gulf countries send remittances to Kenya. Significant portions of diaspora remittances are invested in Nairobi real estate, viewed as stable, appreciating assets.
+**[[Somali Diaspora Connections Kenya|diaspora]] Capital** - Somali diaspora in the United States, Europe, and Gulf countries send remittances to Kenya. Significant portions of diaspora remittances are invested in Nairobi real estate, viewed as stable, appreciating assets.
 
 **Hawala Transfers** - Informal money transfer networks (hawala) have historically facilitated movement of diaspora capital to Kenya. Some portion flows toward real estate investment.
 

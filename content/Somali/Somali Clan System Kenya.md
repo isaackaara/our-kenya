@@ -1,12 +1,12 @@
 # Somali Clan System in Kenya
 
-The Somali clan system is the foundational architecture of Somali society in Kenya, organizing identity, loyalty, and social obligation across politics, business, marriage, and resource management. Unlike Western nation-states built on civic citizenship, Somali clans function as multi-layered descent groups where family lineage, not geography, defines belonging and obligation.
+The Somali clan system is the foundational architecture of Somali society in Kenya, organizing identity, loyalty, and social obligation across politics, business, marriage, and resource management. Unlike Western nation-states built on civic citizenship, [[Somali Clan System Kenya|Somali clans]] function as multi-layered descent groups where family lineage, not geography, defines belonging and obligation.
 
 ## The Major Clan Families
 
 Kenya's Somali communities are dominated by four major clan families, each with distinct histories and concentrations:
 
-**Darod** is the numerically dominant clan family in Kenya, particularly in the former Northern Frontier District (now Wajir, Mandera, and Garissa counties). The Darod include major sub-clans: the Ogaden (the largest single clan in Kenya, concentrated in Garissa), the Marehan, the Dulhante, and the Absame. Darod presence extends from pastoral communities to urban merchants in Nairobi's Eastleigh.
+**Darod** is the numerically dominant clan family in Kenya, particularly in the former Northern Frontier District (now [[Wajir County|Wajir]], Mandera, and [[Garissa County|Garissa]] counties). The Darod include major sub-clans: the Ogaden (the largest single clan in Kenya, concentrated in Garissa), the Marehan, the Dulhante, and the Absame. Darod presence extends from pastoral communities to urban merchants in Nairobi's Eastleigh.
 
 **Hawiye** communities are substantial but more urbanized, particularly in Nairobi and major trading centers. Hawiye clans include the Abgal, Habar Gidir, and others, and are known for commercial enterprise and diaspora connections.
 

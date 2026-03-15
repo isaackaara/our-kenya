@@ -1,6 +1,6 @@
 # Somali Health Challenges NFD
 
-The Northern Frontier District counties with significant Somali populations, particularly Wajir, Mandera, and Garissa, face acute health challenges substantially exceeding national averages. These challenges reflect infrastructure deficits, poverty, pastoral livelihood stresses, and historical underinvestment in healthcare systems serving marginalized communities.
+The [[Water Scarcity Northern Kenya|Northern Frontier District]] counties with significant Somali populations, particularly Wajir, Mandera, and Garissa, face acute health challenges substantially exceeding national averages. These challenges reflect infrastructure deficits, poverty, pastoral livelihood stresses, and historical underinvestment in healthcare systems serving marginalized communities.
 
 ## Maternal and Child Mortality
 
@@ -14,7 +14,7 @@ Early marriage, which remains prevalent in pastoral Somali communities, results 
 
 The NFD experiences persistent challenges with infectious diseases:
 
-**Malaria** remains endemic in lower-altitude areas (Garissa, parts of Wajir), with limited access to preventive and treatment services.
+**[[Somali Health Challenges NFD|malaria]]** remains endemic in lower-altitude areas (Garissa, parts of Wajir), with limited access to preventive and treatment services.
 
 **Cholera** periodically emerges during droughts and water scarcity periods, facilitated by inadequate water and sanitation systems. Outbreaks in pastoral areas spread rapidly and challenge response capacity.
 
@@ -42,7 +42,7 @@ Healthcare facilities in Wajir, Mandera, and Garissa counties are sparse, unders
 
 Pastoral livelihoods create specific health challenges:
 
-**Drought and Food Insecurity** - Periodic droughts reduce pastoral production and create acute food shortages, directly affecting nutrition and health. Pastoral communities lack diversified income or stored food reserves to buffer drought impacts.
+**[[Water Scarcity Northern Kenya|drought]] and Food Insecurity** - Periodic droughts reduce pastoral production and create acute food shortages, directly affecting nutrition and health. Pastoral communities lack diversified income or stored food reserves to buffer drought impacts.
 
 **Livestock Disease** - Pastoral economies depend entirely on livestock. Livestock disease epidemics (such as Rift Valley Fever, anthrax, camel pox) directly threaten household income and food security, with cascading health effects.
 

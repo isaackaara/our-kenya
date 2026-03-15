@@ -1,6 +1,6 @@
-# Somali Refugee Experience in Kenya
+# Somali [[Somali Refugee Experience|refugee]] Experience in Kenya
 
-Since 1991, when the Somali state collapsed into civil war, Kenya has hosted hundreds of thousands of Somali refugees. The refugee experience encompasses multiple contexts: life in the Dadaab refugee complex (the world's largest for years), urban refugee communities in Nairobi and other cities, limited legal status and work rights, and the constant threat of forced return (refoulement) to conflict.
+Since 1991, when the Somali state collapsed into civil war, Kenya has hosted hundreds of thousands of Somali refugees. The refugee experience encompasses multiple contexts: life in the [[Dadaab Refugee Complex|Dadaab]] refugee complex (the world's largest for years), urban refugee communities in Nairobi and other cities, limited legal status and work rights, and the constant threat of forced return (refoulement) to conflict.
 
 ## The Post-1991 Influx
 
@@ -46,7 +46,7 @@ Somali refugees in Kenya face complex legal status issues. Those formally regist
 
 Without proper documentation, refugees cannot legally work, access formal healthcare or education, or travel freely. This creates dependence on informal employment and services.
 
-Some Somali "refugees" are actually economic migrants who fled Somalia not due to direct persecution but due to lack of economic opportunity. The distinction between refugee and migrant is contested, with implications for legal status.
+Some Somali "refugees" are actually economic migrants who fled [[Somalia State Collapse Effects on Kenya|Somalia]] not due to direct persecution but due to lack of economic opportunity. The distinction between refugee and migrant is contested, with implications for legal status.
 
 ## Work and Economic Survival
 

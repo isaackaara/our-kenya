@@ -1,6 +1,6 @@
 # Somali Political Representation in Kenya
 
-Somali representation in Kenya's national and county politics reflects broader patterns of marginalization, with Somali comprising a small minority in Parliament and county governments. Political representation is mediated through regional constituencies (Wajir, Mandera, Garissa counties and scattered urban seats), where Somali candidates compete for election, and through the national political party system where Somali politicians navigate alliances with major parties.
+Somali representation in Kenya's national and county politics reflects broader patterns of marginalization, with Somali comprising a small minority in Parliament and county governments. Political representation is mediated through regional constituencies ([[Wajir County|Wajir]], [[Somali Political Representation Kenya|Mandera]], [[Garissa County|Garissa]] counties and scattered urban seats), where Somali candidates compete for election, and through the national political party system where Somali politicians navigate alliances with major parties.
 
 ## Constituency-Based Representation
 
@@ -78,7 +78,7 @@ Despite representation in regional constituencies, Somali politicians often expr
 
 (Citizenship barriers: Systematic denial of identity cards to Somali has created voting barriers and citizenship participation problems.)
 
-## Electoral Dynamics and Clan Politics
+## Electoral Dynamics and [[Somali Clan System Kenya|clan politics]]
 
 Elections in the three northeastern counties are heavily influenced by clan dynamics:
 

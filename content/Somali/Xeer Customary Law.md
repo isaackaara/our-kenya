@@ -1,4 +1,4 @@
-# Xeer: Somali Customary Law and Dispute Resolution in Kenya
+# [[Xeer [[Xeer Customary Law|customary law]]|xeer]]: Somali Customary Law and Dispute Resolution in Kenya
 
 Xeer (also spelled "xer") is the Somali system of customary law for resolving disputes, managing resources, enforcing social norms, and administering justice. Operating alongside Kenya's formal legal system, xeer provides the primary dispute resolution mechanism for many Somali communities, particularly in pastoral areas. Xeer systems combine Islamic principles, tribal tradition, and customary practice into coherent legal frameworks.
 
@@ -10,11 +10,11 @@ Xeer systems are decentralized and locally rooted, with different regions and cl
 
 ## Core Principles
 
-**Collective responsibility (diya):** Disputes and injuries are resolved through compensation rather than punishment. An injured party's clan is entitled to compensation from the perpetrator's clan. This distributes justice responsibility across clan membership.
+**Collective responsibility (diya):** Disputes and injuries are resolved through compensation rather than punishment. An injured party's [[Somali Clan System Kenya|clan]] is entitled to compensation from the perpetrator's clan. This distributes justice responsibility across clan membership.
 
 **Compensatory justice (dia):** Specific, negotiated compensation (blood money, livestock, currency) resolves injuries or murders. A agreed-upon amount prevents cycles of revenge killings by providing satisfaction to the injured party.
 
-**Elder authority:** Respected clan elders convene councils to hear disputes, determine liability, and negotiate compensation. Elders' authority is based on wisdom, impartiality, and community respect rather than formal appointment.
+**Elder authority:** Respected clan [[Somali Elders and Governance|elders]] convene councils to hear disputes, determine liability, and negotiate compensation. Elders' authority is based on wisdom, impartiality, and community respect rather than formal appointment.
 
 **Consensus decision-making:** Xeer councils aim for consensus rather than majority rule. Decisions reflect community acceptance and likelihood of compliance.
 

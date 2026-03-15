@@ -1,6 +1,6 @@
-# Somali Women Entrepreneurs in Kenya
+# Somali [[Somali Women Entrepreneurs|women entrepreneurs]] in Kenya
 
-Somali women have played a central and often underrecognized role in Kenya's Somali business community, particularly in Eastleigh, as merchants, traders, investors, and informal financial managers. Women entrepreneurs have built businesses in textiles, retail, real estate, money transfer, and hospitality, often navigating cultural expectations, male-dominated commercial spaces, and security profiling.
+Somali women have played a central and often underrecognized role in Kenya's Somali [[Somali Business Networks|business]] community, particularly in [[Eastleigh Economy|Eastleigh]], as merchants, traders, investors, and informal financial managers. Women entrepreneurs have built businesses in textiles, retail, real estate, money transfer, and hospitality, often navigating cultural expectations, male-dominated commercial spaces, and security profiling.
 
 ## Historical Role of Somali Women in Commerce
 
@@ -34,7 +34,7 @@ Women-operated retail shops are ubiquitous in Eastleigh. These range from small 
 
 ## Real Estate and Property Investment
 
-Some successful Somali women have accumulated sufficient capital to invest in real estate. Women own buildings in Eastleigh and other Nairobi areas, generating rental income and building wealth through property appreciation.
+Some successful Somali women have accumulated sufficient capital to invest in real estate. Women own buildings in Eastleigh and other [[Somali Investment in Nairobi Real Estate|Nairobi]] areas, generating rental income and building wealth through property appreciation.
 
 These women investors are often drawn from successful textile traders or money transfer operators who have accumulated capital and diversified into property.
 

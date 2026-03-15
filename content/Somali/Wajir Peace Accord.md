@@ -1,6 +1,6 @@
-# Wajir Peace Accord
+# [[Wajir County|Wajir]] [[Wajir Peace Accord|peace accord]]
 
-The 1993 Wajir Peace and Development Committee represents one of Kenya's most successful community-led peace initiatives. Born from devastating inter-clan violence in Wajir County during the early 1990s, the accord emerged as a grassroots response that would reshape conflict resolution in the Northern Frontier District.
+The 1993 Wajir Peace and Development Committee represents one of Kenya's most successful community-led peace initiatives. Born from devastating inter-[[Somali Clan System Kenya|clan]] violence in Wajir County during the early 1990s, the accord emerged as a grassroots response that would reshape conflict resolution in the Northern Frontier District.
 
 ## The Crisis
 
@@ -8,7 +8,7 @@ Wajir experienced severe pastoral resource competition and clan tensions in the 
 
 ## The Initiative
 
-The Wajir Peace and Development Committee was established through community consensus, notably driven by the Wajir Women for Peace group. Local elders, religious leaders, businesspeople, and women activists came together to negotiate a cessation of hostilities. The initiative combined customary xeer law with modern democratic principles, creating hybrid governance structures that respected traditional authority while introducing transparency.
+The Wajir Peace and Development Committee was established through community consensus, notably driven by the Wajir Women for Peace group. Local [[Somali Elders and Governance|elders]], religious leaders, businesspeople, and women activists came together to negotiate a cessation of hostilities. The initiative combined customary xeer law with modern democratic principles, creating hybrid governance structures that respected traditional authority while introducing transparency.
 
 ## Women's Leadership
 

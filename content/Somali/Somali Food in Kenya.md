@@ -1,6 +1,6 @@
 # Somali Food in Kenya
 
-Somali cuisine reflects pastoral livelihoods and Islamic dietary practices. The traditional diet centers on rice (bariis), camel milk, goat meat, and sambusas (samosas). Increasingly, Somali food culture is spreading across Kenya, particularly in Nairobi where Eastleigh restaurants serve Somali food to diverse clientele, making Somali cuisine part of Kenya's broader food landscape.
+[[Somali Food in Kenya|Somali cuisine]] reflects pastoral livelihoods and Islamic dietary practices. The traditional diet centers on rice (bariis), camel milk, goat meat, and sambusas (samosas). Increasingly, Somali food [[Somali Culture|culture]] is spreading across Kenya, particularly in Nairobi where Eastleigh restaurants serve Somali food to diverse clientele, making Somali cuisine part of Kenya's broader food landscape.
 
 ## Traditional Somali Diet
 
@@ -28,7 +28,7 @@ Increasingly, Somali food is commercialized. Camel milk is processed and branded
 
 ## Food and Identity
 
-For [[Somali Diaspora Connections Kenya|Somali, particularly diaspora communities]], food remains a central marker of cultural identity. Sharing Somali food is a way of maintaining connection to homeland and heritage. Younger diaspora members who may not speak fluent Somali still often maintain Somali food preferences. Food carries cultural memory and identity significance beyond mere nutrition.
+For [[Somali [[Somali Diaspora Connections Kenya|diaspora]] Connections Kenya|Somali, particularly diaspora communities]], food remains a central marker of cultural identity. Sharing Somali food is a way of maintaining connection to homeland and heritage. Younger diaspora members who may not speak fluent Somali still often maintain Somali food preferences. Food carries cultural memory and identity significance beyond mere nutrition.
 
 ## See Also
 

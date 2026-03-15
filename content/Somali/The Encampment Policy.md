@@ -1,6 +1,6 @@
 # Kenya's Encampment Policy: Refugee Camp Restrictions and Urban Refuge
 
-Kenya's encampment policy, formalized in the 1990s and continuing to the present, requires refugees to live in designated camps (primarily Dadaab and Kakuma), prohibiting settlement in urban areas. The policy has been central to Kenya's approach to refugee management but has been unevenly enforced and widely circumvented.
+Kenya's encampment policy, formalized in the 1990s and continuing to the present, requires refugees to live in designated camps (primarily [[Dadaab Refugee Complex|Dadaab]] and Kakuma), prohibiting settlement in urban areas. The policy has been central to Kenya's approach to refugee management but has been unevenly enforced and widely circumvented.
 
 ## Origins and Stated Rationale
 

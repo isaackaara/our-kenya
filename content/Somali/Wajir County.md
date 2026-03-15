@@ -1,6 +1,6 @@
-# Wajir County
+# [[Wajir County|Wajir]] County
 
-Wajir County is home to the Degodia clan (Hawiye) and other Somali groups. The county is known historically as the site of the 1984 Wagalla Massacre, one of Kenya's worst human rights atrocities. However, Wajir is also known for the Wajir Peace and Development Committee (WPDC), a grassroots peace-building initiative that became a nationally and internationally recognized model for community-led conflict resolution. The county represents both Kenya's worst state violence and hopeful community resilience.
+Wajir County is home to the Degodia clan (Hawiye) and other Somali groups. The county is known historically as the site of the 1984 Wagalla Massacre, one of Kenya's worst human rights atrocities. However, Wajir is also known for the Wajir [[Wajir Peace Accord|peace]] and Development Committee (WPDC), a grassroots peace-building initiative that became a nationally and internationally recognized model for community-led conflict resolution. The county represents both Kenya's worst state violence and hopeful community resilience.
 
 ## The Wagalla Massacre Legacy
 
@@ -16,7 +16,7 @@ Wajir is primarily Degodia (Hawiye clan), but other clans also inhabit the count
 
 ## Geography and Development
 
-Wajir is arid and semi-arid, sharing northern Kenya's development challenges: water scarcity, limited infrastructure, high poverty rates, and low literacy. The county's economy is based primarily on pastoral production. Wajir town serves as the administrative and commercial centre but remains small and underdeveloped relative to other Kenyan towns. Government investment has been inadequate for the county's development needs.
+Wajir is arid and semi-arid, sharing northern Kenya's development challenges: [[Water Scarcity Northern Kenya|water scarcity]], limited infrastructure, high poverty rates, and low literacy. The county's economy is based primarily on pastoral production. Wajir town serves as the administrative and commercial centre but remains small and underdeveloped relative to other Kenyan towns. Government investment has been inadequate for the county's development needs.
 
 ## Security Challenges
 

@@ -1,6 +1,6 @@
 # Somali Community and Security Profiling in Kenya
 
-Kenya's security services have used broad counter-terrorism authority to target Somali communities, treating the entire Somali population as potential security threats. This collective profiling has involved mass arrests, detention without due process, torture, and abuse documented by human rights organizations. The profiling reflects both legitimate security concerns about Al-Shabaab recruitment and deep structural discrimination rooted in Kenya's post-independence history.
+Kenya's security services have used broad counter-terrorism authority to target [[Somali Community and Security Profiling|Somali communities]], treating the entire Somali population as potential security threats. This collective profiling has involved mass arrests, detention without due process, torture, and abuse documented by human rights organizations. The profiling reflects both legitimate security concerns about [[Al-Shabaab and Northern Kenya|Al-Shabaab]] recruitment and deep structural discrimination rooted in Kenya's post-independence history.
 
 ## Historical Origins of Somali Profiling
 
@@ -18,9 +18,9 @@ Post-2011 Al-Shabaab operations amplified this existing suspicion, with the secu
 
 ## Contemporary Security Operations
 
-Post-2013 (after the Westgate attack), Kenya's security services intensified operations:
+Post-2013 (after the [[Westgate Mall Attack 2013|Westgate attack]]), Kenya's security services intensified operations:
 
-**Operation Usalama Watch (2014):** Discussed previously, this mass detention operation in Eastleigh and other areas arrested thousands of Somali without clear suspicion or due process.
+**Operation Usalama Watch (2014):** Discussed previously, this mass detention operation in [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]] and other areas arrested thousands of Somali without clear suspicion or due process.
 
 **Ongoing sweeps:** Regular police and military sweeps in Eastleigh, Parklands, Kamukunji, and other Somali-concentrated areas continue to the present (2026), with Somali frequently stopped, searched, and questioned about identity and immigration status.
 

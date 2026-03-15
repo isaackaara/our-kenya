@@ -1,6 +1,6 @@
 # Traditional Somali Dress in Kenya
 
-Somali traditional dress reflects centuries of pastoral, Islamic, and commercial cultural practice. The dirac (women's dress) and macawis (men's wrap), along with elaborate jewelry and headwear, are central to Somali cultural identity. In contemporary Kenya, traditional dress functions alongside modern clothing, with patterns of use varying by age, urbanization, religion, and occasion.
+Somali traditional dress reflects centuries of pastoral, Islamic, and commercial cultural practice. The [[Somali Dress|dirac]] (women's dress) and macawis (men's wrap), along with elaborate jewelry and headwear, are central to Somali cultural identity. In contemporary Kenya, traditional dress functions alongside modern clothing, with patterns of use varying by age, urbanization, religion, and occasion.
 
 ## The Dirac: Women's Traditional Dress
 
@@ -90,7 +90,7 @@ Somali dress has entered formal fashion markets:
 
 (Fashion designers: Somali designers have created modern interpretations of traditional dress, blending traditional elements with contemporary fashion sensibilities.)
 
-(Textile trade: Somali merchants in Eastleigh import and wholesale fabrics used for dirac, making Somali textiles accessible to broader East African populations.)
+(Textile trade: Somali merchants in [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]] import and wholesale fabrics used for dirac, making Somali textiles accessible to broader East African populations.)
 
 (Fashion shows: Somali fashion has been featured in Kenya's fashion weeks and international fashion exhibitions.)
 

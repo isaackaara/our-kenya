@@ -1,6 +1,6 @@
-# Somali Wedding Traditions in Kenya
+# Somali [[Somali Wedding Traditions|wedding]] Traditions in Kenya
 
-Somali wedding ceremonies are elaborate, multi-day celebrations combining Islamic ritual, customary practice, and elaborate gift-giving. Weddings serve social functions beyond the couple's union: they formalize clan alliances, demonstrate family wealth and status, and create reciprocal obligations between families and clans.
+Somali wedding ceremonies are elaborate, multi-day celebrations combining Islamic ritual, customary practice, and elaborate gift-giving. Weddings serve social functions beyond the couple's union: they formalize [[Somali Clan System Kenya|clan]] alliances, demonstrate family wealth and status, and create reciprocal obligations between families and clans.
 
 ## Pre-Wedding Negotiations and Engagement
 
@@ -46,7 +46,7 @@ Following the nikah ceremony, celebratory festivities occur, typically lasting s
 
 Brides wear elaborate clothing, typically including:
 
-(Dirac: A long, colorful (often red or gold) dress with intricate embroidery or decoration.)
+(Dirac: A long, colorful (often red or gold) [[Somali Dress|dress]] with intricate embroidery or decoration.)
 
 (Headdress and veil: Elaborate headpieces, sometimes with veils, adorned with jewelry and gold.)
 
@@ -98,7 +98,7 @@ The nikah is an Islamic contract, and Islamic principles shape marriage law and 
 
 (Imam or scholar direction: Islamic religious specialists direct or participate in the nikah ceremony.)
 
-However, customary and clan practices are often as important as Islamic principles, reflecting the syncretic nature of Somali Islam.
+However, customary and clan practices are often as important as Islamic principles, reflecting the syncretic nature of Somali [[Islam in Kenyan Somali Life|Islam]].
 
 ## Urban and Diaspora Adaptations
 

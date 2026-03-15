@@ -1,6 +1,6 @@
-# Somali-Oromo (Borana) Relations in Kenya: Pastoral Competition and Coexistence
+# Somali-[[Somali-Oromo Relations Kenya|Oromo]] (Borana) Relations in Kenya: Pastoral Competition and Coexistence
 
-The Somali and Borana (Oromo) pastoralist communities in Kenya's northeastern region have had centuries of interaction characterized by both cooperation and competition. Pastoral resource scarcity (water, grazing land) has generated periodic conflicts and violence, while intermarriage and trade have created social and economic interdependence. Contemporary climate change is intensifying resource competition and straining coexistence.
+The Somali and Borana (Oromo) pastoralist communities in Kenya's northeastern region have had centuries of interaction characterized by both cooperation and competition. Pastoral resource scarcity ([[Water Scarcity Northern Kenya|water]], grazing land) has generated periodic conflicts and violence, while intermarriage and trade have created social and economic interdependence. Contemporary climate change is intensifying resource competition and straining coexistence.
 
 ## Geographic and Demographic Distribution
 
@@ -8,7 +8,7 @@ The Somali and Borana (Oromo) pastoralist communities in Kenya's northeastern re
 
 **Somali** are concentrated in eastern and northern parts of Isiolo, Garissa, Wajir, and Mandera counties.
 
-These populations share grazing territories and water sources in semi-arid zones, creating both opportunity for cooperation and sources of potential conflict.
+These populations share grazing territories and water sources in semi-arid zones, creating both opportunity for cooperation and sources of potential [[Somali-Oromo Relations Kenya|conflict]].
 
 ## Historical Relations and Pastoral Competition
 
