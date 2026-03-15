@@ -363,3 +363,38 @@ article.homepage {
     line-height: 1.5;
   }
 }
+
+// ============================================================
+// Trail intro pages
+// ============================================================
+
+.trail-intro-page {
+  max-width: 680px;
+  margin: 80px auto;
+  padding: 0 24px;
+  text-align: center;
+}
+
+.trail-intro-paragraph {
+  font-size: 1.2rem;
+  line-height: 1.9;
+  color: var(--gray);
+  margin-bottom: 48px;
+}
+
+.trail-begin-btn {
+  display: inline-block;
+  border: 2px solid var(--dark);
+  color: var(--dark);
+  padding: 14px 40px;
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.trail-begin-btn:hover {
+  background: var(--dark);
+  color: var(--light);
+}

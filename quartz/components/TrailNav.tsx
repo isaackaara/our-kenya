@@ -148,9 +148,10 @@ export default ((opts?: TrailNavOptions) => {
   }
 
   .trail-nav-top {
-    background: var(--darkgray);
-    color: white;
-    border-radius: 0;
+    background: var(--dark);
+    color: var(--lightgray);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 8px;
     width: 100%;
     box-sizing: border-box;
     overflow: hidden;
@@ -209,7 +210,7 @@ export default ((opts?: TrailNavOptions) => {
 
   /* Main card content */
   .trail-card-main {
-    padding: 1.25rem 1.5rem 1rem;
+    padding: 20px 24px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -232,22 +233,22 @@ export default ((opts?: TrailNavOptions) => {
     align-self: flex-start;
     font-size: 0.75rem;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
     letter-spacing: 0.02em;
-    transition: color 0.15s;
+    transition: opacity 0.15s;
     margin-bottom: -0.2rem;
   }
 
   .trail-back-link:hover {
-    color: white;
+    opacity: 1;
   }
 
   .trail-name {
     color: white;
     text-decoration: none;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.1rem;
     transition: opacity 0.2s;
     white-space: normal;
     word-break: break-word;
@@ -260,22 +261,22 @@ export default ((opts?: TrailNavOptions) => {
 
   .trail-dots {
     display: flex;
-    gap: 0.65rem;
+    gap: 6px;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
   }
 
   .trail-dot {
-    width: 11px;
-    height: 11px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
     transition: all 0.3s ease;
     flex-shrink: 0;
   }
 
   .trail-dot.completed {
-    background: rgba(255, 255, 255, 0.6);
+    background: white;
   }
 
   .trail-dot.current {
@@ -285,7 +286,7 @@ export default ((opts?: TrailNavOptions) => {
 
   .trail-dot.remaining {
     background: transparent;
-    border: 2px solid rgba(255, 255, 255, 0.4);
+    border: 1px solid white;
   }
 
   .trail-position {
@@ -313,11 +314,14 @@ export default ((opts?: TrailNavOptions) => {
 
   .trail-top-prev,
   .trail-top-next {
-    color: rgba(255,255,255,0.85);
+    color: white;
     text-decoration: none;
     font-size: 0.8rem;
     font-weight: 500;
-    transition: color 0.15s;
+    border: 1px solid rgba(255,255,255,0.3);
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    transition: background 0.15s;
     max-width: 45%;
     white-space: nowrap;
     overflow: hidden;
@@ -334,7 +338,7 @@ export default ((opts?: TrailNavOptions) => {
 
   .trail-top-prev:hover,
   .trail-top-next:hover {
-    color: white;
+    background: rgba(255,255,255,0.1);
   }
 
   .trail-top-spacer {
