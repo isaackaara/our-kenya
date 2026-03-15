@@ -1,0 +1,24 @@
+Chronic malnutrition affects substantial portions of Kenya's child population, with stunting (low height-for-age indicating chronic malnutrition) affecting 26 percent of children under five years of age nationally. This means approximately one in every four young children in Kenya is chronically malnourished, with particularly high prevalence in pastoral and arid regions exceeding 40 percent. Stunting reflects prolonged inadequate nutrition during critical periods of growth, preventing children from reaching genetic growth potential. The effects persist into adulthood, including reduced adult height, impaired cognitive development, and reduced work capacity. In utero malnutrition beginning with maternal undernutrition and continuing through early childhood creates compounding growth deficits with lifelong consequences.
+
+Malnutrition results from multiple interconnected factors including inadequate dietary intake, infectious diseases, and underlying food insecurity and poverty. Regions with high malnutrition burden typically experience chronic food insecurity, with seasonal variation exacerbating stress during pre-harvest periods. Diarrheal diseases including cholera and other infections reduce nutrient absorption and increase nutritional requirements, creating bidirectional relationship between infection and malnutrition. Exclusive reliance on starchy staple foods (maize, beans, cassava) without dietary diversity limits micronutrient intake, creating protein-energy malnutrition and micronutrient deficiencies simultaneously. Environmental factors including drought, floods, and climate variability create food production shocks undermining food security.
+
+The consequences of malnutrition extend beyond growth effects to impaired immune function and reduced resistance to infection. Malnourished children experience higher rates of respiratory infections and diarrheal diseases compared to well-nourished peers. Malnutrition contributes substantially to childhood mortality, particularly among children with severe acute malnutrition (SAM). Cognitive development is profoundly affected by early malnutrition, with studies documenting reduced school performance and lower intelligence quotient (IQ) scores in formerly malnourished children. School enrollment and completion rates are lower among malnourished children, limiting educational and economic opportunities in adulthood.
+
+Kenya's nutrition programs combine treatment of severe acute malnutrition through therapeutic feeding programs, prevention through community nutrition interventions, and address of underlying food insecurity through social protection programs. Community-based management of acute malnutrition (CMAM) provides treatment at household level using ready-to-use therapeutic food (RUTF), reducing hospitalization need and improving coverage. Prevention programs promote household food production through gardening, promote dietary diversity including animal products, and provide micronutrient supplementation. School feeding programs improve nutritional status of school-age children while encouraging school attendance.
+
+Despite national progress in reducing stunting prevalence, substantial geographic inequalities persist, with pastoral and arid areas lagging behind other regions. Addressing malnutrition requires sustained investment in health and nutrition services, food security programs, and underlying factors including education (particularly girls' education), water and sanitation, and women's economic empowerment. Multisectoral approaches addressing agricultural development, social protection, water and sanitation, and health services simultaneously are more effective than single-sector interventions. Climate adaptation strategies reducing vulnerability to drought are essential in pastoral regions where malnutrition is most severe. Kenya's progress in nutrition improvement must continue accelerating to eliminate preventable stunting and its lifelong consequences for population development.
+
+## See Also
+[[Nutrition Food Security|Nutrition Food Security]]
+[[Child Health Pediatric Care|Child Health Pediatric Care]]
+[[Infant Feeding Practices|Infant Feeding Practices]]
+[[Diarrhea Dehydration Management|Diarrhea Dehydration Management]]
+[[Poverty and Health|Poverty]]
+[[Rural Healthcare Access|Rural Healthcare Access]]
+
+## Sources
+1. https://nutritionintl.org/our-work/our-global-projects/africa/kenya/
+2. https://www.unicef.org/kenya/nutrition
+3. http://www.nutritionhealth.or.ke/wp-content/uploads/Downloads/The%20Kenya%20National%20Micronutrient%20Survey%202011.pdf
+4. https://pmc.ncbi.nlm.nih.gov/articles/PMC3373608/
+5. https://link.springer.com/article/10.1186/s12887-025-05863-7

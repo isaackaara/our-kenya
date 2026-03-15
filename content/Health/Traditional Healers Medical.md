@@ -1,0 +1,24 @@
+Traditional healers have provided medical services across Kenya for centuries, utilizing plant-based remedies, spiritual healing practices, and specialized knowledge accumulated through generations. Prior to colonial contact, traditional medicine represented the primary healthcare system for all African communities in present-day Kenya, addressing acute illnesses, chronic conditions, and reproductive health needs. Traditional healers (including herbalists, diviners, bone-setters, and midwives) held significant social status and earned livelihoods through medical practice. The systems were highly localized and culturally specific, varying across ethnic groups and ecological zones from coastal regions to highland areas.
+
+Colonial period marginalization of traditional medicine reflected broader colonial ideologies positioning biomedicine as scientifically superior and traditional healing as superstition. The establishment of [[Colonial Medicine Healthcare|colonial biomedical services]] created a dual system where European and educated African populations increasingly accessed biomedicine while many rural and working-class Africans continued relying on traditional practitioners. Despite official disfavor, traditional healing persisted and adapted to colonial contexts, with some healers incorporating new knowledge and technologies. The colonial government's prohibition on certain practices (such as female genital cutting performed by healers) created tension with communities valuing these practitioners.
+
+Post-independence health policies initially continued marginalizing traditional medicine, framing it as incompatible with modernization. However, resource constraints limited public healthcare access for most Kenyans, ensuring traditional healers maintained prominent roles in treatment-seeking for many communities. By the late twentieth century, African scholars and some government officials began reconsidering traditional medicine's value, recognizing both its cultural importance and its actual health impacts. Studies demonstrated effectiveness of certain traditional remedies against acute and chronic illnesses, prompting discussions about potential integration rather than complete exclusion from national health systems.
+
+Contemporary traditional medicine in Kenya operates across diverse contexts. In urban areas including Nairobi, healers now complement or compete with biomedicine, with some operating commercial clinics employing staff and utilizing modern business practices. Traditional practitioners advertise in newspapers and online, offering treatments for physical, sexual, and emotional complaints. Rural areas continue seeing traditional healers as primary healthcare providers due to geographic distance from biomedical facilities and lower costs. A hybrid approach has emerged where patients seek both biomedical and traditional treatments sequentially or simultaneously for the same condition.
+
+Recent government policy shifts have moved toward formalization and integration rather than suppression. Kenya established frameworks to integrate traditional medicine into the national healthcare system, protect traditional medical knowledge, and regulate practitioners. The government announced plans to integrate traditional healers into mainstream healthcare by 2028, creating a collaborative system where conventional doctors and traditional healers work within the same institutional structures. This represents a significant shift from colonial-era suppression and post-independence marginalization toward recognition of traditional medicine's continued social relevance and therapeutic utility. Implementation of such integration faces challenges including standardization of practice quality, safety concerns with certain remedies, and resistance from biomedical professionals.
+
+## See Also
+[[Healthcare Policy Evolution|Healthcare Policy Evolution]]
+[[Colonial Medicine Healthcare|Colonial Medicine Healthcare]]
+[[Reproductive Health Services|Reproductive Health Services]]
+[[Midwifery Kenya|Maternal Mortality Reduction]]
+[[Religion and Health Kenya|Religion]]
+[[Mental Health Services|Mental Health Services]]
+
+## Sources
+1. https://theconversation.com/kenyas-struggle-to-modernise-traditional-medicine-is-far-from-won-102205
+2. https://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=1262&context=isp_collection
+3. https://www.businessdailyafrica.com/bd/economy/kenya-to-formalise-traditional-medicine-by-2028-5317918
+4. https://kenyablog.com/health-and-medicine-during-the-colonial-period-in-kenya
+5. https://ncbi.nlm.nih.gov/pmc/articles/PMC1884950/

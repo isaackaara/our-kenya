@@ -1,0 +1,24 @@
+Child health and pediatric care in Kenya have improved substantially since independence, with under-five mortality dropping by 57 percent between 1990 and 2019. This dramatic improvement reflects cumulative gains from expanded immunization programs, improved access to malaria prevention and treatment, oral rehydration therapy for diarrhea, and facility-based delivery services. However, absolute levels of childhood mortality remain elevated compared to high-income countries, with avoidable deaths continuing among the youngest children. The leading causes of child death in Kenya include [[malaria]], [[pneumonia]], and [[diarrhea/dehydration]], accounting for approximately 60 percent of inpatient deaths among children under five. These diseases are largely preventable through vaccination, treatment, and environmental health improvements.
+
+Pediatric case management protocols established by the [[Ministry of Health]] define standards for diagnosing and treating childhood conditions. Antimalarial treatment with artemisinin-based combination therapy (ACT), antibiotic treatment of pneumonia, and oral rehydration therapy for diarrhea are provided through health facilities and community health workers. Guidelines emphasize assessment and treatment of severe malnutrition accompanying acute illness, as malnutrition substantially increases risk of severe infection and death. Vaccination is recognized as the most cost-effective child health intervention, preventing infections from diphtheria, pertussis, tetanus, poliomyelitis, tuberculosis, measles, and other vaccine-preventable diseases.
+
+Antenatal care quality influences neonatal and infant survival, as early pregnancy complications, infections, and nutritional deficiencies during pregnancy affect fetal growth and birth outcomes. Skilled attendance at birth enables recognition and management of complications affecting mothers and newborns, including intrapartum fetal distress and birth asphyxia. Access to emergency obstetric and neonatal care (EmONC) at health facilities enables treatment of preterm labor, prelabor rupture of membranes, and neonatal resuscitation for non-breathing newborns. Post-natal care including support for newborn feeding (breast feeding or formula), cord care, and identification of danger signs improves neonatal survival. Referral pathways connecting community-based care and health facilities enable timely intervention for high-risk pregnancies and seriously ill children.
+
+The Kenya Demographic and Health Surveys document socioeconomic and demographic factors associated with under-five mortality, revealing substantial inequalities across wealth quintiles, education levels, and residential areas. Children in poorest households and rural areas experience 2-3 times higher mortality than wealthiest urban children, reflecting gaps in healthcare access, nutrition, and water/sanitation infrastructure. Parental education, particularly maternal education, strongly predicts child survival, reflecting higher health knowledge and care-seeking among educated mothers. These disparities require targeted investments addressing not only health services but also underlying poverty, education, and infrastructure gaps.
+
+Multifaceted pediatric care quality improvement initiatives at district hospitals have demonstrated cost-effectiveness in reducing childhood mortality. Training health workers in standardized protocols, improving essential medicine availability, and monitoring treatment outcomes enable progressive improvement in care quality. Community health worker programs extending child health services to households identify seriously ill children requiring facility referral. Strengthening referral systems connecting community and facility levels enables appropriate treatment at levels capable of managing illness severity. Kenya's success in reducing under-five mortality demonstrates potential for further improvements through continued investments in pediatric health service quality and health system functioning.
+
+## See Also
+[[Malaria Control Programs|Malaria Control Programs]]
+[[Immunization Vaccination Programs|Immunization Vaccination Programs]]
+[[Maternal Mortality Reduction|Maternal Mortality Reduction]]
+[[Diarrhea Dehydration Management|Diarrhea Dehydration Management]]
+[[Nutrition Food Security|Nutrition Food Security]]
+[[Healthcare Policy Evolution|Healthcare Policy Evolution]]
+
+## Sources
+1. https://www.unicef.org/kenya/health
+2. https://link.springer.com/article/10.1186/s12887-025-05863-7
+3. https://pmc.ncbi.nlm.nih.gov/articles/PMC3373608/
+4. https://pmc.ncbi.nlm.nih.gov/articles/PMC10081669/
+5. https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4462-x

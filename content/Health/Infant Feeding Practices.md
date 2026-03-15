@@ -1,0 +1,24 @@
+Breastfeeding is nearly universal in Kenya, with 99 percent of infants receiving breast milk at some point during early childhood. However, exclusive breastfeeding practices, recommended by [[WHO]] from birth through six months of age, are not universal despite their documented benefits for infant survival and development. Only 61 percent of Kenyan infants are exclusively breastfed for the recommended six-month period, with 39 percent receiving supplementary foods or animal milks too early. Early supplementation of breast milk exposes infants to infections including diarrhea and respiratory infections transmitted through contaminated foods, water, or handling. Early introduction of inadequate complementary foods also reduces breast milk consumption, decreasing the nutritional value of feeding and increasing infant morbidity and mortality risk.
+
+Traditional beliefs and practices influence infant feeding practices in Kenya, with cultural variation across ethnic groups and geographic areas. In some communities, newborns are given water, herbal preparations, or other substances in the first hours or days of life before breastfeeding is established, introducing infection risk and potentially interfering with lactation. The colostrum (first breast milk produced) is sometimes viewed as inappropriate for newborns and discarded, depriving infants of concentrated nutrition and protective antibodies. Mothers in both urban slum and rural areas demonstrate similar knowledge gaps regarding appropriate complementary feeding, with monotonous, non-diverse diets provided when breastfeeding begins to decrease around 6 months of age.
+
+The WHO Global Strategy for Infant and Young Child Feeding provides recommendations for infant nutrition emphasizing exclusive breastfeeding for six months, introduction of safe, nutritionally adequate complementary foods at six months while continuing breastfeeding, and continued breastfeeding through at least two years of age. Complementary foods should include diverse foods from all food groups, with emphasis on animal-source products (meat, eggs, dairy, fish) providing essential micronutrients for infant growth and development. In Kenya, complementary feeding practices restrict diets to staple grains and vegetables, with limited access to or consumption of animal products providing complete protein and micronutrients.
+
+Knowledge gaps regarding appropriate complementary feeding limit dietary quality for Kenyan infants. Mothers and their advisers in coastal and rural areas lack understanding of optimal feeding practices, including appropriate textures, frequencies of feeding, and food diversity recommendations. Expressed breastmilk (EBM) feeding methods are unfamiliar to many mothers, limiting options for working mothers who cannot exclusively breastfeed during separation. Nutrition education programs emphasizing correct breastfeeding practices and dietary diversity have demonstrated effectiveness in improving feeding outcomes. Interventions addressing barriers to animal product consumption, particularly for infant complementary feeding, require attention to household food production, market availability, pricing, and cultural acceptability.
+
+Improving infant feeding practices requires multifaceted approaches addressing knowledge gaps, cultural beliefs, economic barriers, and health system support for breastfeeding counseling. Health facilities providing delivery services can offer immediate breastfeeding support and education regarding exclusive breastfeeding duration. Community health workers can reinforce correct practices during post-natal home visits. Mothers' groups enable peer support and sharing of successful feeding practices. Programs addressing household food security and dietary diversity have potential to improve complementary feeding quality. Continued investment in infant feeding promotion programs is essential for reducing malnutrition, infections, and preventable childhood deaths.
+
+## See Also
+[[Nutrition Food Security|Nutrition Food Security]]
+[[Child Health Pediatric Care|Child Health Pediatric Care]]
+[[Maternal Mortality Reduction|Maternal Mortality Reduction]]
+[[Diarrhea Dehydration Management|Diarrhea Dehydration Management]]
+[[Malnutrition Stunting Effects|Malnutrition Stunting Effects]]
+[[Health Education Kenya|Healthcare Policy Evolution]]
+
+## Sources
+1. https://pmc.ncbi.nlm.nih.gov/articles/PMC10676620/
+2. https://pmc.ncbi.nlm.nih.gov/articles/PMC4565932/
+3. https://pmc.ncbi.nlm.nih.gov/articles/PMC5928566/
+4. https://www.unicef.org/kenya/nutrition
+5. https://nutritionintl.org/our-work/our-global-projects/africa/kenya/
