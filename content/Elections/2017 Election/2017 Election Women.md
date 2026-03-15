@@ -1,0 +1,33 @@
+# 2017 Election Women
+
+The 2017 election continued implementation of the constitutional gender quota requiring that no more than two-thirds of elected officials be of the same gender, resulting in increased female representation in elected office though with persistent challenges regarding female candidate recruitment, campaign support, and electoral success. The 2017 election represented the third election cycle under the gender quota framework, allowing analysis of how the quota's implementation was maturing and what constraints persisted regarding female political advancement.
+
+Female candidates participated in the presidential race for the first time, with several women announcing presidential aspirations. Martha Karua, a prominent human rights attorney, declared a presidential candidacy as an independent candidate, signaling that women could compete at the highest electoral levels. However, Karua's campaign lacked the resource base and organizational capacity of the major coalitions, limiting her ability to achieve substantial vote share. The fact that Karua received limited media attention compared to major candidates and that her campaign struggled with financial constraints revealed continuing challenges regarding female candidate viability at the highest levels.
+
+In parliamentary races, female candidates again competed for numerous seats, with some women succeeding in direct election while others relied on the nomination mechanism to achieve parliamentary representation. The 2017 election continued patterns evident in 2013, wherein women could achieve direct election in some constituencies but overall remained underrepresented absent the nomination top-up mechanism. The reliance on nomination to achieve overall gender balance meant that women's representation remained contingent on party compliance with quota requirements rather than on demonstrated electoral viability.
+
+Female gubernatorial candidates competed in county races, though with limited success. The number of women winning gubernatorial elections remained small (approximately six to eight across 47 counties), suggesting that the gubernatorial level remained substantially male-dominated. The gender dynamics in gubernatorial races reflected the centralization of power in individual positions per county, creating winner-take-all contests wherein women faced competition from well-established male candidates with stronger existing networks and greater resource bases.
+
+The gender quota's implementation in 2017 revealed persistent gender discrimination in candidate recruitment and campaign support. Parties were technically required to field female candidates meeting quota percentages, but enforcement mechanisms remained weak. Women candidates continued reporting that they received less campaign funding, less media coverage, and less grassroots organizational support than male candidates competing in equivalent constituencies. The substantive discrimination persisting beneath formal quota compliance meant that the quota was only partially effective in generating genuine equality in campaigning and electoral opportunity.
+
+Female voters did not exhibit uniform electoral preferences distinct from male voters, with women splitting their votes between Jubilee and NASA broadly in proportions similar to the overall electorate. The idea of a distinct "women's vote" that could be mobilized around gender-specific issues did not clearly manifest. Gender-specific campaign messaging around maternal health, education access, and reproductive rights did not appear to generate fundamentally different voting patterns among women compared to men, suggesting that other factors (region, ethnicity, coalition affiliation) remained more determinative of voting behavior than gender.
+
+Campaign messaging from both Jubilee and NASA included some gender-focused commitments, with pledges to advance women's economic participation and to address gender-based violence. However, the substantiveness of these commitments and their likely policy implementation remained ambiguous. The Jubilee campaign under Kenyatta, while including some women's rights rhetoric, had limited track record of advancing gender equality in the first presidential term. The NASA campaign positioning as more progressive on gender issues reflected opposition narratives but lacked demonstrated commitment through prior governance experience.
+
+The selection of running mates in 2017 again reflected male dominance of high office. Both Kenyatta and Raila selected male running mates (William Ruto and Kalonzo Musyoka respectively), despite the availability of women candidates and the constitutional status of running mates as functional Vice Presidents. The male running mate selections demonstrated that even in a context wherein gender representation was formally mandated through quotas, the highest offices remained disproportionately male-dominated and that gender balance remained contingent on quota enforcement rather than voluntary party commitments to gender equality.
+
+The 2017 election's gender dimensions suggested that while the gender quota framework was gradually increasing female representation, deeper structural discrimination persisting at campaign, party, and voter preference levels continued to constrain female political advancement. The quota created floors for representation but did not automatically generate genuine equality in campaign resources, media coverage, or electoral viability. Overcoming these constraints would require additional interventions beyond quota frameworks, including party reforms, media literacy regarding gender bias, and voter education regarding gender equality.
+
+## See Also
+
+[[2017 Election]]
+[[2017 Election Results]]
+[[2017 Election Jubilee Campaign]]
+[[2017 Election NASA Coalition]]
+[[2017 Election Women|2017 Election August 8 Vote]]
+
+## Sources
+
+1. Kenya National Commission on Human Rights. (2017). Gender Dimensions of Kenya's 2017 Elections. Retrieved from https://www.knchr.org/
+2. International Foundation for Electoral Systems. (2017). Women and Political Participation in Kenya's 2017 Election. Retrieved from https://www.ifes.org/
+3. Nzomo, Maria. (2017). Gender and Electoral Politics in Kenya. Forum for African Women Educationalists.

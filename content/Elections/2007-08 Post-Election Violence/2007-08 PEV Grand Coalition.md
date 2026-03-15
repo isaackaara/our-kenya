@@ -1,0 +1,27 @@
+# 2007-08 PEV Grand Coalition
+
+The Grand Coalition government, established by the National Accord on February 28, 2008, governed Kenya from March 2008 to 2013 as a power-sharing arrangement between President Kibaki and Prime Minister Raila Odinga. The coalition was explicitly designed as a transitional mechanism to prevent renewed violence while constitutional reform was undertaken. The government was unwieldy, with a bloated cabinet (42 ministries), dual executive authority, and competing power centers. Despite these dysfunction dynamics, the Grand Coalition successfully prevented renewed large-scale violence and implemented constitutional reform that restructured Kenya's governance.
+
+The Grand Coalition's functionality was poor. Kibaki and Raila disagreed on fundamental policy questions. Kibaki's fiscal conservative approach (inherited from his earlier development agenda) clashed with Raila's more expansionist public spending philosophy. Raila, as Prime Minister, was meant to lead government business (legislative agenda, cabinet meetings), but Kibaki as president retained ultimate authority and sometimes circumvented the Prime Minister's office. Ministers from the two camps (PNU vs ODM) often worked at cross-purposes or refused to coordinate. The civil service was similarly divided; officials did not know which leader to follow, creating paralysis in implementation. International observers noted that the government resembled a coalition in name but was often dysfunctional in practice.
+
+What kept the coalition functioning was a shared interest in preventing renewed violence and a mutual vulnerability. Both Kibaki and Raila were implicated (to different degrees) in organizing or enabling the violence; aggressive accountability efforts would have threatened both sides. Both sides also recognized that the international community would withdraw support if violence resumed. The coalition operated as a mutual non-aggression pact, with neither side willing to challenge the other decisively. This balance meant that the coalition endured, though without significant policy achievements beyond constitutional reform.
+
+The Grand Coalition's major accomplishment was facilitating constitutional reform. The National Accord mandated a constitutional review commission to draft a new constitution addressing the violence's root causes. The commission was established in 2009 and delivered a draft constitution in 2010. The new constitution was approved by referendum on August 4, 2010, and adopted with 67 percent voter support. The new constitution created a devolved system (47 counties), reformed the judiciary to be independent, established a new electoral commission (IEBC), included a comprehensive bill of rights, and created transitional justice mechanisms. These reforms flowed directly from the Accord's mandate and reflected international and domestic pressure for institutional change to prevent future violence.
+
+By 2012-2013, as the end of Kibaki's presidency approached (he was constitutionally barred from running again), the coalition fragmented. Uhuru Kenyatta (Kibaki's chosen successor) and Raila (both seeking the presidency) began positioning for the 2013 election. The coalition's shared interest in preventing violence was less salient once a new election was approaching. Tensions within the coalition increased; by early 2013, the government was barely functional. The 2013 election ended the coalition, with Uhuru and William Ruto (his running mate) winning and forming a new government.
+
+The Grand Coalition's legacy was mixed. It had prevented renewed violence and facilitated constitutional reform, accomplishments that were significant. However, it had not resolved the underlying conflicts that had triggered the 2007-08 violence, had not implemented accountability, and had not addressed land grievances or ethnic inequalities. By 2013, many of the structural causes of the 2007-08 crisis remained unresolved, setting the stage for tensions in subsequent elections (2013, 2017, 2022). The Grand Coalition demonstrated that power-sharing could work tactically (preventing violence) but that it had limited capacity to achieve deep structural change without both sides' commitment to reform.
+
+## See Also
+
+[[2007-08 PEV National Accord|National Accord]]
+[[2007-08 PEV 2010 Constitution|2010 Constitution]]
+[[2007-08 PEV Kofi Annan Mediation|Kofi Annan Mediation]]
+[[2007-08 PEV 2013 Election Echo|2013 Election Echo]]
+[[2007-08 PEV Devolution as Response|Devolution as Response]]
+
+## Sources
+
+1. Kenya National Commission on Human Rights. "Report of the Commission of Inquiry into the Post-Election Violence in Kenya." Nairobi, 2008. Pages 460-500 on the National Accord and Grand Coalition formation.
+2. International Crisis Group. "Kenya: Waiting for Reform." Africa Report No. 146, October 2010. Analysis of Grand Coalition performance. https://www.crisisgroup.org/
+3. Moran, Mary. "Political Settlements and Constitutional Design: The Kenyan Experience." Journal of Eastern African Studies, Volume 7, Issue 3, 2013. Available at https://www.tandfonline.com/

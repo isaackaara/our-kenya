@@ -1,0 +1,27 @@
+# 2007-08 PEV ICC Uhuru Case
+
+The case against Uhuru Muigai Kenyatta, Case No. ICC-01/09-01/11, was opened in December 2010 when the ICC prosecutor alleged that Uhuru, as Finance Minister, had funded the banned [[Mungiki|Mungiki]] militia group to conduct attacks against Luo and Kalenjin communities in the Rift Valley and central Kenya. The charges were crimes against humanity: murder (count 1), forcible transfer of population (count 2), persecution (count 3), and rape (count 4). The prosecution's theory was that Uhuru, representing Kikuyu political interests in the government, had financed Mungiki operations as part of a network of principals coordinating ethnic violence. The case against Uhuru proceeded to trial in November 2013, with the trial chamber sitting in The Hague. However, the case collapsed in December 2014 when the prosecutor withdrew charges due to insufficient evidence.
+
+The evidence against Uhuru centered on financial flows. The prosecution presented bank records and witness testimony allegedly showing that money had been transferred from Uhuru's office to individuals who then distributed it to Mungiki coordinators. The total alleged payments ranged from tens of millions to over 100 million Kenyan shillings. Witnesses testified that they had attended meetings with Uhuru or his representatives where instructions were given to organize militia violence. Cellphone records suggested contact between Uhuru's office and Mungiki leaders. This evidence, if sustained, would have established both financial connection (funding) and knowledge (awareness of what the money would be used for).
+
+The critical weakness of the prosecution's case was dependence on witness testimony. Uhuru's defense challenged witnesses aggressively, and several witnesses recanted their testimony during trial, claiming they had been coerced, bribed, or that their initial statements were false. The trial chamber noted that without corroborating physical evidence, the recanted witness testimony could not sustain the case. The prosecution lacked documents showing explicit instructions from Uhuru to conduct violence, lacked Mungiki financial records confirming receipt of payments, and could not independently verify that the alleged payments had occurred. By late 2014, the prosecution concluded that conviction was unlikely, and the case was withdrawn.
+
+Uhuru's election as president in March 2013, while the case against him was ongoing, created legal and political complications. As a sitting head of state, Uhuru had immunity from arrest under the Rome Statute (the ICC's founding treaty), though this immunity applied only to official acts and could be waived by the Security Council. More importantly, as president, Uhuru controlled Kenya's government and could obstruct the ICC's investigation. The Kenyan government explicitly refused to cooperate with the ICC during the Uhuru presidency, declining to provide evidence or compel witnesses to testify. This non-cooperation was one of the direct causes of the case's collapse; the prosecution could not overcome the obstruction of the sitting president.
+
+The trial itself lasted approximately one year, with testimony from numerous witnesses. The defense strategy was to systematically challenge the credibility of prosecution witnesses, arguing that their accounts were motivated by ethnic bias or financial interest (rewards for testifying). The trial chamber ultimately found that the prosecution had failed to prove its case beyond reasonable doubt. The decision was not an acquittal (which would have permanently barred retrial), but a withdrawal of charges, which theoretically left open the possibility of retrial. However, political realities made retrial unlikely; Uhuru remained president until 2022, and his subsequent political influence meant that cooperation with the ICC would not be forthcoming.
+
+The collapse of Uhuru's case had multiple implications. For Uhuru personally, it was a complete vindication; he emerged from the trial with charges withdrawn and could claim that he had been the victim of ICC political persecution. For the ICC, it was an institutional failure, demonstrating that the court could not prosecute sitting heads of state with control over evidence and witnesses. For Kenya's accountability process, it meant that no senior political figure would face justice for organizing the violence. By 2026, Uhuru Kenyatta remained a political figure (though no longer president) and faced no domestic prosecution for his role in the 2007-08 violence.
+
+## See Also
+
+[[2007-08 PEV Ocampo Six|Ocampo Six]]
+[[2007-08 PEV ICC Collapse|ICC Collapse]]
+[[2007-08 PEV Mungiki|Mungiki]]
+[[2007-08 PEV Impunity|Impunity]]
+[[2007-08 PEV International Pressure|International Pressure]]
+
+## Sources
+
+1. International Criminal Court. "Prosecutor v. Uhuru Muigai Kenyatta, Case No. ICC-01/09-01/11." Trial chamber documents, witness testimony, and final decision available at https://www.icc-cpi.int/
+2. Human Rights Watch. "Justice at Risk: Witness Intimidation and the ICC Investigations in Kenya." New York, 2013. Pages 30-60 on Uhuru case. https://www.hrw.org/
+3. Kersten, Mark. "Justice in Conflict: The Effects of the International Criminal Court's Interventions on Ending Violence and Building Peace." Oxford University Press, 2016.

@@ -1,0 +1,29 @@
+# 2007-08 PEV ICC Collapse
+
+The collapse of the International Criminal Court's cases against Kenya's political figures between 2014 and 2016 represented a historic failure of international justice. By April 2016, all cases originating from the 2007-08 Post-Election Violence had been terminated, with defendants acquitted, charges withdrawn, or proceedings abandoned. The failure was attributed to multiple factors: witness intimidation and recantation, bribery of witnesses, Kenya's government obstruction (particularly after Uhuru became president in 2013), and the ICC's structural limitations in prosecuting high-level figures in states that controlled their own territory and population.
+
+The witness intimidation and recantation problem was systematic. The ICC prosecution had built its cases heavily on eyewitness testimony from individuals claiming to have attended meetings with political figures, received money for militia activities, or heard incitement speeches. These witnesses were often ordinary Kenyans (militia members, lower-level operatives, community members) with limited education and resources to resist pressure. Once Uhuru and Ruto returned to Kenya (Ruto as Deputy President, Uhuru as President), their networks of supporters could identify and pressure witnesses. Some witnesses reportedly received bribes to recant; others faced threats. The ICC established witness protection mechanisms, but Kenya's geography, social networks, and the political power of the accused made protection incomplete. By trial, many key witnesses had recanted or admitted that their initial testimony was false or coerced.
+
+Kenya's explicit non-cooperation with the ICC after 2013 was a second critical factor. The Kenyan government refused to arrest suspects, provide evidence, compel witnesses to testify, or facilitate ICC investigations. This non-cooperation was not hidden; it was a deliberate state policy, with the government issuing public statements that Kenya would not cooperate with the ICC and that prosecution of Kenyan citizens by a foreign court was unacceptable. The government's position was popular domestically; many Kenyans saw the ICC as neo-colonial, imposing external justice on Kenya's political processes. The government leveraged this popular sentiment to obstruct the ICC while claiming to defend Kenyan sovereignty.
+
+The structural limitations of the ICC became evident. The Rome Statute (the ICC's founding treaty) gave the court jurisdiction over crimes within its scope but did not provide enforcement mechanisms for states' obligation to cooperate. The ICC could request Kenya's government to arrest suspects, but Kenya could refuse. The ICC could call witnesses, but Kenya could prevent them from traveling to The Hague or could intimidate them into silence. The ICC could request evidence, but Kenya could withhold it. Without a police force or enforcement capacity, the ICC depended entirely on the goodwill of states. When a state controlled by indictees (as Kenya was when Uhuru became president) actively obstructed, the ICC's capacity to function was severely constrained.
+
+The case collapses had a reverse legitimacy effect. Initially, in 2010-2013, the ICC's investigation of Kenya was viewed as potentially a check on impunity. By 2016, the ICC's failure to secure convictions had become a demonstration that high-level perpetrators could commit crimes and escape accountability. The acquittals and withdrawn charges were not perceived (by many Kenyans) as evidence of innocence but rather as evidence that political power could defeat international justice. This lesson was not lost on Kenyan elites; they understood that international accountability mechanisms were not credible threats and that accumulating political power was an effective defense against prosecution.
+
+The ICC's response to the collapse was to acknowledge investigative limitations and emphasize that the failures were due to state obstruction, not evidentiary weakness. The prosecutor argued that the evidence had been strong and that convictions would likely have occurred in a context without government obstruction. This argument was reasonable, but it highlighted a fundamental contradiction: the ICC claimed jurisdiction over situations (Kenya's violence), but its capacity to exercise jurisdiction depended on state cooperation that the ICC had no way to compel. The court had prosecuted cases in contexts where states were weak or external actors had leverage (Rwanda, Uganda, Democratic Republic of Congo), but prosecuting sitting heads of state in mid-sized African countries with functioning governments proved structurally difficult.
+
+By 2026, the Kenya cases had become a cautionary tale in international law literature, cited as evidence that the ICC model had limitations and that hybrid courts (mixing international and domestic elements) or domestic prosecution (with international support) might be more effective in some contexts. The practical implication for Kenya was that no accountability would occur; perpetrators of the 2007-08 violence had escaped justice both internationally and domestically.
+
+## See Also
+
+[[2007-08 PEV ICC Uhuru Case|ICC Uhuru Case]]
+[[2007-08 PEV ICC Ruto Case|ICC Ruto Case]]
+[[2007-08 PEV Ocampo Six|Ocampo Six]]
+[[2007-08 PEV Impunity|Impunity]]
+[[2007-08 PEV International Pressure|International Pressure]]
+
+## Sources
+
+1. International Criminal Court. "Statement by the Prosecutor of the International Criminal Court." The Hague, April 2016. Available at https://www.icc-cpi.int/
+2. Human Rights Watch. "Justice at Risk: Witness Intimidation and the ICC Investigations in Kenya." New York, 2013. Pages 1-30 on ICC structural challenges. https://www.hrw.org/
+3. Kersten, Mark. "Justice in Conflict: The Effects of the International Criminal Court's Interventions on Ending Violence and Building Peace." Oxford University Press, 2016. Chapter on Kenya.

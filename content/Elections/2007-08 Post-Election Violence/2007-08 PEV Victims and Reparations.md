@@ -1,0 +1,27 @@
+# 2007-08 PEV Victims and Reparations
+
+The 1.1-1.5 million Kenyans affected by the 2007-08 Post-Election Violence (killed, raped, displaced) faced inadequate support and reparations. The government's immediate response included establishing IDP camps, providing emergency food assistance, and attempting to facilitate return. However, these responses were under-resourced and insufficient to address the scale of displacement and loss. Long-term reparations were minimal: the government allocated KES 10,000 (approximately USD 70 at 2008 rates) per displaced family as compensation for lost property and displacement. This payment was inadequate; a typical family's property loss (home, land, livestock) was valued at hundreds of thousands of shillings. Most displaced persons received the KES 10,000 compensation only in 2013 or later, five years after displacement, by which time many had relocated elsewhere and ceased waiting for government support.
+
+The IDP situation was desperate. Families were housed in camps in industrial areas on Nairobi's periphery (Kahawa Sukari, parts of Kajiado, Langata), in secondary towns (Nakuru, Kericho), and in rural areas near their home regions. Conditions were harsh: limited water, inadequate sanitation, disease outbreaks (cholera, dysentery), food scarcity, and insecurity. Women and children made up the majority of IDPs; men had sometimes been killed or had fled to other regions for safety. International NGOs (ICRC, Doctors Without Borders, Save the Children) provided humanitarian assistance, but government support was minimal. By 2010, most IDPs had returned home or relocated permanently to new areas, either because government support was exhausted or because security had improved enough to risk return.
+
+However, an estimated 40,000-60,000 IDPs never returned to their original homes. These people had either lost property (land seized by new settlers), feared renewed violence if they returned, or found new homes and livelihoods elsewhere and chose not to re-displace. Some IDPs who did return discovered that their property had been seized or occupied by others with political protection. Formal land claims and disputes were difficult to resolve; while the land had been registered in their names pre-2007, political obstacles prevented formal recognition of their claims post-violence. By 2026, a category of "forgotten IDPs" remained dispersed in informal settlements and secondary towns, their displacement permanent though they had technically been able to return.
+
+Sexual violence survivors faced particular deprivation. There were no reparations specifically for survivors of rape or sexual assault. While the TJRC documented over 900 cases, and investigators estimated actual numbers were 1,200-2,500, survivors received no compensation or recognition from the state. International NGOs provided some trauma counseling and support, but services were limited and temporary. Many survivors suffered physical injuries (gynecological damage, infections, STIs) and psychological trauma (PTSD, depression) without access to adequate healthcare. Some survivors were rejected by families due to stigma. The combination of social rejection, unhealed trauma, and absence of reparations created a category of particularly marginalized victims.
+
+The government's reparations program, implemented from 2013 onward, was limited in scope and inadequate in amount. Beyond the KES 10,000 payment, there were no systematic reparations for other categories of loss: destroyed homes, lost livestock, missed education, loss of income. The amount paid covered perhaps 3-5 percent of actual losses, making it symbolic rather than substantive. By 2026, few victims had received additional support beyond the initial KES 10,000. NGOs had provided some longer-term support (education scholarships, livelihood training, psychosocial counseling), but their reach was limited and resources were stretched.
+
+The Waki Commission and TJRC recommended comprehensive reparations programs including restitution (return of property), compensation (cash payments), rehabilitation (healthcare, psychosocial support), satisfaction (formal apologies, memorials), and guarantees of non-repetition (institutional reform). Almost none of these recommendations were implemented at scale. The government provided minimal compensation, did not facilitate meaningful property restitution, offered limited rehabilitation services, and produced no formal apologies or meaningful institutional reform (the ICC failure meant that accountability and institutional reform both fell short). By 2026, victims remained largely uncompensated and the violence remained unacknowledged by the state.
+
+## See Also
+
+[[2007-08 PEV Death Toll and Documentation|Death Toll and Documentation]]
+[[2007-08 PEV Sexual Violence|Sexual Violence]]
+[[2007-08 PEV IDPs in 2026|IDPs in 2026]]
+[[2007-08 PEV Trauma and Mental Health|Trauma and Mental Health]]
+[[2007-08 PEV Impunity|Impunity]]
+
+## Sources
+
+1. Truth, Justice and Reconciliation Commission of Kenya. "Final Report of the TJRC." Nairobi, 2013. Pages 450-500 on reparations recommendations. Available at https://www.tjrckenya.org/
+2. International Organization for Migration. "Kenya Post-Election Violence Displacement, Camp Profiles and Return Patterns." Nairobi, 2009-2012. Available at https://www.iom.int/
+3. Human Rights Watch. "Compensation for Kenya's Post-Election Violence Victims." New York, 2014. Available at https://www.hrw.org/

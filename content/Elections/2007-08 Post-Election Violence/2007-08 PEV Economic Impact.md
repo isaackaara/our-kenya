@@ -1,0 +1,29 @@
+# 2007-08 PEV Economic Impact
+
+The economic damage from the 2007-08 Post-Election Violence was substantial and persisted for years after the violence subsided. Kenya's GDP growth, which had been 6.3 percent in 2007, declined to 0.2 percent in 2008, a dramatic contraction. The violence disrupted economic activity across sectors: tourism came to a near halt, foreign investment fled, agricultural production suffered in affected regions, and manufacturing declined due to insecurity and reduced demand. Cumulatively, economic losses were estimated at 3-5 percent of annual GDP, or approximately USD 1.3-2.2 billion in 2008 terms.
+
+Tourism, a major export sector providing approximately 10 percent of government revenue and 15 percent of foreign exchange, collapsed during the violence. Tourist arrivals declined from approximately 1.5 million annually (pre-2007) to fewer than 500,000 in 2008. Hotel occupancy in Nairobi and beach resorts (Mombasa, Diani) dropped to 10-20 percent. Tourism-related employment (hotel workers, guides, souvenir merchants) was devastated; an estimated 40,000-50,000 tourism sector workers lost employment in 2008. Recovery was slow; tourism did not return to pre-2007 levels until 2012, four years after the violence. The delayed recovery reflected international perception of Kenya as an unsafe destination, a reputational cost that took years to overcome.
+
+Foreign direct investment (FDI) dried up during the violence. Multinational corporations and international investors delayed or cancelled investments due to insecurity and uncertainty about Kenya's political trajectory. FDI inflows, which had been approximately USD 700 million annually pre-2007, declined to approximately USD 300 million in 2008-2009. The decline meant that Kenya lost industrial expansion opportunities and job creation that FDI would have provided. By 2010-2012, FDI began recovering, but the violence had cost Kenya several years of foregone investment and economic growth. Sectors dependent on FDI (manufacturing, telecommunications) experienced delays in expansion and modernization.
+
+Agricultural production was damaged in violence-affected areas, particularly the Rift Valley where crops were destroyed, irrigation systems damaged, and farmers displaced or unable to plant due to insecurity. Agricultural output declined an estimated 8-12 percent in 2008 in affected regions. This decline affected food security nationally and contributed to inflation in food prices, which rose 20-30 percent in 2008-2009. The displaced farmers faced long-term livelihood challenges; those without land had to find new employment, often in informal urban sectors at low wages. Agricultural recovery in affected regions was slow; production did not fully recover to pre-2007 levels in some areas until 2011-2012.
+
+Manufacturing and retail sectors experienced disruptions due to insecurity and reduced consumer demand. Manufacturing output declined approximately 5 percent in 2008 compared to 2007. Retail businesses, particularly in Nairobi and Rift Valley towns, experienced losses from looting, arson, and reduced customer traffic. Market disruptions meant that consumers and businesses faced supply shortages and price increases for basic goods. Small and medium enterprises (SMEs), which constitute the majority of Kenya's business sector, were particularly vulnerable to violence-related disruptions and cash flow problems. Many SMEs did not recover; failure rates for businesses started before 2007 increased significantly in 2008-2009.
+
+Employment declined significantly in 2008-2009. Formal sector employment contracted as firms reduced workforce due to reduced revenue. Informal sector employment, normally a safety net for laid-off formal workers, was also disrupted due to insecurity in informal settlements where most informal workers operate. Unemployment rose from approximately 10 percent pre-2007 to approximately 15 percent in 2008-2009. Wage and income losses for employed workers meant household incomes declined, affecting consumption and savings. The employment effects persisted; labor market recovery was slow and full recovery to pre-2007 employment levels did not occur until 2012-2013.
+
+By 2010, Kenya's economy had begun recovering as violence subsided and confidence returned. Growth rebounded to approximately 5 percent annually from 2010-2012. However, the cumulative cost of the violence period (approximately USD 5-10 billion in lost GDP over the 2008-2010 period) represented a significant setback to Kenya's development trajectory. The violence had derailed planned economic growth and diverted government resources to emergency response and reconstruction rather than productive investment. By 2026, Kenya had recovered economically, but the violence period had created a gap in the country's economic growth trajectory that could have been occupied by productive investment and employment creation.
+
+## See Also
+
+[[2007-08 PEV IDPs in 2026|IDPs in 2026]]
+[[2007-08 PEV Victims and Reparations|Victims and Reparations]]
+[[2007-08 PEV Kenya's International Image|Kenya's International Image]]
+[[2007-08 PEV Impunity|Impunity]]
+[[2007-08 PEV Land Unresolved|Land Unresolved]]
+
+## Sources
+
+1. World Bank. "Kenya Economic Update: Post-Crisis Recovery." Washington, D.C., 2010. Available at https://www.worldbank.org/
+2. Kenya National Bureau of Statistics. "GDP Growth Rates 2007-2012." Nairobi, 2013. Available at https://www.knbs.or.ke/
+3. International Monetary Fund. "Kenya: Article IV Consultation." Washington, D.C., 2009. Available at https://www.imf.org/

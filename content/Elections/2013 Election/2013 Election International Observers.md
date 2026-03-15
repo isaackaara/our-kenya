@@ -1,0 +1,35 @@
+# 2013 Election International Observers
+
+International election observation missions from numerous countries, regional organizations, and international bodies deployed observers to Kenya for the 2013 general election, providing independent assessments of electoral conduct, institutional performance, and the overall quality of Kenya's democratic processes. These observation missions played significant roles in legitimizing or questioning election results, in providing credible external assessments of administrative performance, and in shaping international engagement with Kenya following the election.
+
+The most substantial observation mission was the European Union Election Observation Mission, which deployed hundreds of long-term observers and thousands of short-term observers across Kenya to monitor campaigns, election-day procedures, and result tabulation. The EU mission's observer network was the most extensive and technologically sophisticated of the major international missions, utilizing mobile data collection platforms, systematic monitoring protocols, and rigorous analysis procedures. The EU's reports carried substantial weight in international diplomatic circles and with Kenya's development partners, who viewed the EU assessment as technically competent and institutionally independent.
+
+The African Union (AU) also deployed an election observation mission reflecting regional investment in Kenya's electoral process. The AU's mission emphasized the importance of Kenya's 2013 election as a test case for African democratic practices and as a model that could inform electoral practices across the continent. The AU observers, drawn from across African states, provided a distinctly African perspective on Kenya's electoral conduct, sometimes offering different emphases than Western observer missions, particularly regarding questions of sovereignty and regional political traditions.
+
+The Carter Center, a United States-based international organization focused on democracy and human rights, deployed observers emphasizing long-term democratic development and institutional capacity-building. The Carter Center's assessments focused not solely on the 2013 election itself but on the trajectory of Kenya's democratic institutions and the implications of 2013 results for Kenya's broader institutional development. The Carter Center observers emphasized both progress (such as improved institutional frameworks and technological deployment) and remaining challenges (such as persistent ethnic voting patterns and administrative capacity constraints).
+
+The Commonwealth Observer Group, representing former British colonial territories, also deployed observers emphasizing democratic principles and procedural fairness. The Commonwealth's perspective was historically important given Kenya's place within the Commonwealth and the historical role of Commonwealth observer missions in previous Kenyan elections. The Commonwealth assessment carried particular weight with Kenya's political elite, many of whom maintained connections to Commonwealth institutions and British academic and policy networks.
+
+Smaller observation missions from individual African states (Tanzania, Uganda, Ghana), Western democracies (France, Germany, Netherlands), and specialized organizations (International Republican Institute, National Democratic Institute) provided additional perspectives and reinforced the multilateral nature of international engagement with Kenya's election. These missions collectively provided dozens of separate observer reports analyzing various aspects of electoral conduct, institutional performance, and democratic quality.
+
+The international observer consensus on the 2013 election was cautiously positive compared to 2007. Observers generally acknowledged that the election represented improvement in institutional capacity, that the [[2013 Election IEBC|IEBC]] had demonstrated greater credibility than the discredited ECK, and that technological deployments had enhanced electoral administration. However, observers also noted persistent challenges: ethnic voting patterns remained pronounced, female candidate recruitment and support remained gender-biased, regional variation in administrative quality remained significant, and technological systems deployed contained vulnerabilities that could be exploited.
+
+Notably, international observers were largely silent or acquiescent regarding the ICC factor during the election. While observers did not explicitly endorse the election of ICC-indicted candidates, neither did they fundamentally question the legitimacy of the election process based on the ICC indictments. This diplomatic silence reflected international considerations wherein Western governments and international institutions sought to maintain engagement with Kenya while avoiding overt interference in Kenya's sovereign electoral choice.
+
+The observer missions' assessments proved influential in shaping Raila's Supreme Court petition and in framing international responses to the petition's dismissal. The fact that international observers had generally validated the IEBC's conduct and results created pressure on Raila to provide compelling evidence of fraud in order to overcome international observer consensus. Conversely, international observers' acknowledgment of procedural concerns and administrative vulnerabilities provided some basis for Raila's legal arguments, even as observers declined to declare the results fundamentally illegitimate.
+
+Post-election, international observers produced detailed final reports analyzing the election's conduct, results, and implications. These reports emphasized both achievements (institutional reform, technological deployment, improved credibility compared to 2007) and continuing challenges (ethnic voting, capacity constraints, security vulnerabilities). The reports collectively influenced international and donor engagement with Kenya following 2013, with international partners emphasizing support for institutional strengthening while accepting the election results as legitimate.
+
+## See Also
+
+[[2013 Election]]
+[[2013 Election IEBC]]
+[[2013 Election Results]]
+[[2013 Election Supreme Court Petition]]
+[[2013 Election New Constitution Context]]
+
+## Sources
+
+1. European Union Election Observation Mission. (2013). Kenya 2013 General Elections: Final Report. Retrieved from https://www.eueom.eu/
+2. African Union. (2013). Kenya 2013 General Elections: Observation Report. Retrieved from https://www.au.int/
+3. Carter Center. (2013). Observing Kenya's 2013 Elections: Final Report. Retrieved from https://www.cartercenter.org/

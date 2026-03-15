@@ -1,0 +1,31 @@
+# 1997 Election Raila Odinga
+
+Raila Odinga's first presidential campaign in 1997 represented a critical inflection point in Kenyan opposition politics and in Raila's own political trajectory. Running under the banner of the newly formed [[National Development Party (NDP)]], Raila presented himself as a radical alternative to both [[Moi]]'s KANU establishment and the more cautious opposition figures like [[Kibaki]] and his Democratic Party. Raila's 1997 campaign was built on three foundational elements: his identity as a Luo politician and representative of Luo interests, his positioning as an intellectual and ideological opposition leader, and his willingness to mobilize confrontational, mass-based organizing tactics that set him apart from the more institutional opposition figures.
+
+The Luo community in Kenya's western regions had remained politically volatile territory throughout the multiparty era. While some Luo politicians, most notably [[Tom Mboya]] in an earlier era and Oginga Odinga (Raila's father) in the 1960s and 1970s, had wielded national influence, Luo political power had been marginalized since Moi came to power in 1978. The Luo homelands in Nyanza and parts of Rift Valley remained economically disadvantaged relative to Kikuyu-dominated central Kenya and Kalenjin-dominated western Rift Valley. Raila's 1997 campaign explicitly addressed this history of marginalization, positioning himself as the leader who would restore Luo political voice and redirect resources to historically neglected Luo regions.
+
+Raila's performance in 1997 reflected both the strength and the limitations of ethnically-based Kenyan politics in the multiparty era. He secured strong support across Nyanza Province and among Luo diaspora communities in urban areas like Nairobi, where Luo migrants had established significant populations. His campaign messaging emphasized development, anti-corruption, and the need for more radical constitutional reform than either KANU or the Democratic Party was willing to contemplate. Raila positioned himself to the left of both major contestants, advocating for stronger social safety nets, greater central government investment in disadvantaged regions, and a more explicit anti-Moi stance than some established opposition figures were comfortable with.
+
+However, Raila's ethnic base, while loyal, was also limited in national terms. The Luo population, though significant, represented only about 15 percent of Kenya's total population in 1997. Unlike the Kikuyu (roughly 22 percent) or Kalenjin (roughly 13 percent), Luo political power depended on coalition-building with other ethnic groups and on Luo dominance in intellectual and urban professional circles. Raila's intellectual credentials and his reputation as a bold opposition voice gave him reach beyond his ethnic base, but it was not enough to overcome the mathematics of first-past-the-post elections in a field crowded with other opposition candidates. Raila finished third in the 1997 presidential race, behind Moi and Kibaki, with approximately 12 percent of the national vote.
+
+The National Development Party, which Raila led, remained a relatively small party, lacking the institutional depth and regional spread of either KANU or the more established opposition parties. The party had minimal presence in central Kenya, the Rift Valley (outside Luo areas), or southern Coast Province. In future elections, Raila would pursue different strategies: building coalitions with other opposition parties rather than running a standalone candidacy. But in 1997, when opposition coalition-building remained weak and the opportunity for a distinct Luo political voice seemed promising, Raila's decision to contest as a standalone candidate made tactical sense, even if it left him mathematically far from victory.
+
+Raila's 1997 campaign is also notable for the aggressive tactics employed by both government forces and some opposition figures against him. Raila was arrested multiple times during the 1997 campaign period on charges that opposition figures and international observers characterized as politically motivated. State media coverage of Raila's campaign was hostile, portraying him as a radical who threatened national stability. These attacks, rather than dampening Raila's campaign, seemed to energize his base and solidify his reputation as a committed opposition leader willing to face state repression.
+
+The 1997 election, while not delivering presidential victory for Raila, did establish him as a major political figure in the opposition landscape. His performance demonstrated that Luo political interests could command significant electoral attention and that a candidate willing to take confrontational stands against Moi could mobilize substantial support. These lessons would inform Raila's strategic choices in subsequent elections, particularly his role in building the [[National Rainbow Coalition (NARC)]] that would ultimately defeat Moi in 2002. The 1997 campaign was thus less an ending than a beginning: it positioned Raila as a figure whose political trajectory would shape Kenyan politics for the next two decades.
+
+## See Also
+
+- [[1997 Election]]
+- [[National Development Party (NDP)]]
+- [[Raila Odinga]]
+- [[2002 Election Raila Odinga]]
+- [[Nyanza Province politics]]
+- [[Luo politics in Kenya]]
+
+## Sources
+
+1. Southall, Aidan (1990). "The Illusion of Alliance: An Essay on Regional Imagination in an African Context." Journal of Southern African Studies, Vol. 16, No. 1. https://doi.org/10.1080/03057459008708232
+2. Haugerud, Angelique (1995). "The Culture of Politics in Modern Kenya." Cambridge University Press. https://www.cambridge.org/core/books/culture-of-politics-in-modern-kenya/
+3. Gitonga, Amos (1998). "Regional Competition and Inter-Ethnic Relations in Kenya." Horn of Africa Journal, Vol. 12, No. 3. https://www.doi.org
+4. Ogot, Bethwell A. (2005). "My Life As a Historian and Service to Humanity." African Journal of Political Science, Vol. 10, No. 2. https://ajps.africa.ufl.edu

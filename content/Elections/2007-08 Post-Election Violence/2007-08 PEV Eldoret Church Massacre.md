@@ -1,0 +1,27 @@
+# 2007-08 PEV Eldoret Church Massacre
+
+On January 1, 2008, at approximately 3:30 PM, a group of armed men forced their way into the Assemblies of God church in [[Kiambaa]], a town near Eldoret in the Rift Valley. The church was packed with internally displaced persons (IDPs), mostly from the [[Kikuyu|Kikuyu]] community, who had fled to the sanctuary believing it would be protected. The attackers, identified by survivors as [[Kalenjin|Kalenjin]] youth organized under militia leadership, began setting fires inside the church while preventing anyone from leaving. The resulting blaze killed at least 35 people, though some accounts place the toll at 42. Survivors describe a coordinated operation: armed men guarded exits while others poured petrol on bedding and set fires. Some victims died from smoke inhalation while trapped inside; others burned trying to escape. The image of the charred church became the defining visual of the entire 2007-08 Post-Election Violence, broadcast globally within hours.
+
+What made Kiambaa uniquely shocking was its scale and visibility. While inter-ethnic violence had erupted in multiple locations between December 30 and January 1, the church massacre represented the first mass killing in a confined space, with many witnesses and international media present in Eldoret. The church was identifiable, the victims were civilian and vulnerable, and the perpetrators had acted methodically. The incident crossed a psychological threshold: it suggested that organized militia groups were willing to target even non-combatants seeking sanctuary. In the Rift Valley logic of the violence, Kiambaa was framed by attackers as retaliation for alleged Kikuyu militia operations against Kalenjin communities in previous days, particularly Kalenjin casualties in Eldoret proper. Yet no mass death had preceded it on the Kikuyu side at comparable scale.
+
+Investigation into the massacre was limited and never produced prosecutions. The Kenyan Police eventually detained several suspects, but cases stalled in the courts. The Waki Commission identified individuals believed to have coordinated the attack but could not compel arrests. The ICC investigation noted Kiambaa in its brief on crimes against humanity but did not pursue separate charges specifically tied to the church massacre, instead bundling evidence into the broader "network of principals" case against William Ruto and Joshua Sang (a radio journalist accused of inciting violence). When the Ruto case collapsed in April 2016 due to witness intimidation and recantation, the massacre itself disappeared from the international accountability mechanism. Domestic prosecutions never materialized. By 2026, no person had been convicted in connection with the killing of those 35 lives.
+
+The massacre served as a turning point in the escalation curve. Before Kiambaa, violence had been characterized as gang warfare and neighborhood ethnic clashes, tragic but interpretable as spontaneous. After Kiambaa, it became clear that organized actors with militia discipline were capable of mass casualty operations. The event also shifted the international response: within 48 hours, US Secretary of State Condoleezza Rice announced a visit to Kenya, and international calls for mediation intensified. Kofi Annan's mediation mission, which arrived on January 22, explicitly cited Kiambaa as evidence of the urgency of the crisis.
+
+The massacre also exposed the fragility of Christian sanctuary in Kenyan practice. The church was a Kikuyu-majority congregation, but other faiths and denominations also became targets or shelters. In Nairobi's informal settlements, mosques harbored Luo families fleeing Kikuyu-dominated areas, while churches became ethnic fortresses. The Kiambaa massacre crystallized the realization that no institution, not even religious ones, could guarantee protection once organized violence reached a certain intensity.
+
+Survivors of Kiambaa remained dispersed through 2026. Some relocated to Nairobi, others to western Kenya. The trauma of the event shaped their political consciousness; many refused to return to the Rift Valley even after peace returned, fearing renewed violence during subsequent elections (2013, 2017, 2022). The Assemblies of God congregation eventually rebuilt the church but struggled to recover its pre-violence membership. Commemorations of the massacre occur annually on January 1, largely marked by the affected community and NGOs rather than state recognition.
+
+## See Also
+
+[[2007-08 PEV Rift Valley Expulsions|Rift Valley Expulsions]]
+[[2007-08 PEV 41 Days Timeline|41 Days Timeline]]
+[[2007-08 PEV Kalenjin Warriors|Kalenjin Warriors]]
+[[2007-08 PEV ICC Ruto Case|ICC Ruto Case]]
+[[2007-08 PEV Impunity|Impunity]]
+
+## Sources
+
+1. Human Rights Watch. "Ballots to Bullets: Organized Political Violence and Kenya's Crisis of Governance." New York, 2008. Available at https://www.hrw.org/report/2008/03/16/ballots-bullets
+2. Kenya National Commission on Human Rights. "Report of the Commission of Inquiry into the Post-Election Violence in Kenya." Nairobi, 2008. Pages 198-204 detail the Kiambaa massacre.
+3. International Criminal Court. "Prosecutor v. William Samoei Ruto and Joshua Arap Sang, Situation in the Republic of Kenya." The Hague, 2011. Available at https://www.icc-cpi.int/

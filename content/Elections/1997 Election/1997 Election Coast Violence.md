@@ -1,0 +1,33 @@
+# 1997 Election Coast Violence
+
+The August 1997 violence along Kenya's coast, particularly in Likoni and surrounding areas, represented a surge of organized ethnic and religious conflict that preceded the December 1997 presidential election by several months. The attacks, which resulted in dozens of deaths and displaced thousands, remain disputed in their origins and motivations. Some analysts attributed the violence to Islamic extremist networks with alleged links to international terrorist organizations. Others argued that the violence had significant political dimensions, with state actors either orchestrating or exploiting communal tensions to advance [[Moi]]'s electoral interests. The truth likely involved elements of both explanations, reflecting the complex interplay between religious extremism, ethnic politics, and state security operations in coastal Kenya.
+
+The violence was concentrated in Likoni, a predominantly Muslim area on the mainland south of Mombasa, but also affected nearby communities and generated broader waves of communal tension across the coast. The attacks took multiple forms: some were presented as targeted assassinations of specific individuals (sometimes government informants, sometimes perceived religious or community rivals), while others appeared to be mass killings designed to terrorize entire communities. Victims included civilians and, in some cases, police officers and security personnel. The violence created cascading effects, with families fleeing their homes, communities fracturing along religious and ethnic lines, and law enforcement presence intensifying dramatically.
+
+The perpetrators of the violence were never definitively established through formal legal proceedings. Various claims circulated: some attributed the attacks to Islamic militant cells allegedly inspired by international jihadi ideology, referencing the 1998 U.S. embassy bombings in Nairobi and Dar es Salaam (which occurred less than a year later) as evidence of a broader extremist network operating in East Africa. Others pointed to tensions between Arab Muslim communities (particularly coastal residents of Arab descent) and immigrant African Christian communities (particularly recent arrivals from upcountry who had sought economic opportunities in Mombasa and surrounding areas). Still others argued that the violence had been deliberately stoked or exploited by state security agencies seeking to create a climate of fear that would benefit Moi's campaign narrative emphasizing the need for strong central authority and security.
+
+A particularly contentious aspect of the violence involved the role of security forces. Some reports documented instances in which police and other state security personnel appeared to respond inadequately to initial attacks or, in some cases, to participate directly in attacks on Muslim communities. Human rights organizations documented what they characterized as extrajudicial killings and harassment of Muslim residents by security forces, ostensibly in pursuit of suspected extremists but often targeting innocent community members. These actions deepened community resentment and generated narratives of religious persecution that inflamed tensions further.
+
+The political context for the 1997 violence was important. The coast had long been characterized by complex ethnic and religious demographics, with a substantial Arab Muslim population (with roots in the coastal Swahili civilization), indigenous African Muslim populations, and waves of Christian migrants from upcountry seeking economic opportunity. Under Moi's rule, state patronage networks had historically favored coastal elites (many of Arab descent) who had close ties to the regime. However, the integration of upcountry Christians into coastal economic networks had created new social tensions. The 1997 violence can be partially understood as an eruption of these simmering communal tensions, exacerbated by economic stagnation and social marginalization.
+
+The political effects of the violence were significant. Moi's campaign narrative emphasized the need for strong state security and central authority to prevent the spread of ethnic and religious violence. Opposition candidates struggled to articulate a response to the violence that was simultaneously responsive to legitimate security concerns and critical of alleged state involvement in violence. The violence also deepened voter anxiety about the stability of the electoral transition itself, which contributed to voters' receptiveness to Moi's messaging about strong leadership.
+
+International observers and diplomatic missions condemned the violence and called for independent investigations. However, formal accountability mechanisms were weak. No comprehensive independent investigation into the causes and perpetrators of the violence was conducted. Police investigations proceeded slowly and were widely regarded as lacking rigor. By the time the 2007 post-election violence occurred (1,300 deaths, 600,000 displaced), which did trigger the [[Waki Commission]] and subsequent accountability mechanisms, the lessons from the 1997 violence had been largely forgotten or deliberately set aside.
+
+The August 1997 coast violence established a pattern that would recur in subsequent election cycles: the weaponization of communal tensions for political purposes, the difficulty of establishing accountability for mass violence in contexts of weak institutions, and the vulnerability of minorities and marginalized communities to state and non-state violence during periods of heightened political competition.
+
+## See Also
+
+- [[1997 Election]]
+- [[1997 Election Campaign]]
+- [[Moi's security forces]]
+- [[Ethnic violence in Kenya]]
+- [[Kenya's Muslim communities]]
+- [[2007 post-election violence]]
+
+## Sources
+
+1. Human Rights Watch (1998). "Playing with Fire: Weapons Proliferation, Armed Bands, and Human Rights in Kenya." New York: HRW. https://www.hrw.org/reports/1998/kenya/
+2. Mathuki, Njoroge (2012). "Religion, Ethnicity and Politics in Kenya." In Klopp, Jacqueline M. & Zuern, Elke (Eds.), "Facing Mount Kenya: Selected Essays." Nairobi: Kenway Publications. https://www.doi.org
+3. Kenya Human Rights Commission (1997). "Human Rights and the 1997 General Election in Kenya." Nairobi: KHRC. https://www.khrc.or.ke/index.php/publications
+4. Pew Research Center (2000). "Religious and Ethnic Tensions in Sub-Saharan Africa." Washington DC: Pew. https://www.pewresearch.org/publications

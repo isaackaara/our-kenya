@@ -1,0 +1,27 @@
+# 2007-08 PEV Uhuru Kenyatta Role
+
+Uhuru Muigai Kenyatta, Finance Minister and a senior member of Kibaki's government, was indicted by the International Criminal Court in December 2010 for crimes against humanity allegedly committed during the 2007-08 Post-Election Violence. The ICC's charges against Uhuru alleged that he had funded the banned militia group Mungiki to conduct counter-attacks against Luo and Kalenjin communities in the Rift Valley and central Kenya. The prosecution argued that Uhuru, as part of a "network of principals," had organized and financed ethnic cleansing through intermediaries. However, Uhuru's case collapsed in December 2014 when the prosecution withdrew charges due to insufficient evidence, primarily owing to witness recantations and the Kenyan government's (which Uhuru led as president from 2013) refusal to cooperate with the ICC investigation.
+
+The evidence against Uhuru included financial records allegedly showing money transfers from his office to Mungiki coordinators, witness testimony from individuals claiming to have received payments to organize militia activity, and cellphone records suggesting contact between Uhuru's representatives and militia leaders. The ICC's theory was that Uhuru, representing Kikuyu interests in the government, saw the post-election crisis as an opportunity to eliminate political threats (Raila and the Luo-Kalenjin alliance) and secure Kikuyu-dominated areas. Funding Mungiki's counter-attacks (particularly the Naivasha reprisals of January 27-28, 2008) served both defensive and offensive purposes: defending Kikuyu neighborhoods in the Rift Valley while also attacking rival communities.
+
+Uhuru's defense was vehement. He denied all charges, portraying himself as a victim of ICC political persecution. He argued that as a Kikuyu business leader and government minister, he was automatically targeted by the ICC investigation, regardless of evidence. Uhuru's political operatives suggested that the ICC case was a Western-driven attempt to delegitimize Kenyan leadership and install a compliant administration. This narrative resonated with segments of Kenya's political elite and public who were skeptical of the ICC's mandate in African states. Uhuru's claim of victimhood was particularly effective after he was elected president in 2013, while still under indictment. His election was a direct repudiation of the ICC's authority; Kenyans voted to make an ICC indictee president.
+
+The 2013 election while Uhuru was under indictment was a watershed moment. International observers warned that electing an indicted person to the presidency was problematic, but Kenyan voters ignored the warnings. The outcome was multifaceted: on one hand, it demonstrated Kenyan national sovereignty and rejection of external (international) authority over domestic political processes. On the other hand, it suggested that electoral legitimacy (votes) could override accountability concerns (ICC charges), leaving the question of justice unresolved. Uhuru's presidency became a test of the ICC's capacity to enforce its authority against a state that controlled its own government and could obstruct justice.
+
+That obstruction became explicit once Uhuru was president. The Kenyan government refused to cooperate with ICC investigations, declined to provide evidence, and did not arrest or extradite suspects. Uhuru himself refused to appear before the ICC, a right technically available to sitting heads of state under the Rome Statute (the ICC's founding treaty), though politically controversial. The prosecution's witnesses, who had made initial statements to the ICC, faced intimidation and pressure to recant. Some witnesses were publicly humiliated by Uhuru's government, making others reluctant to testify. By late 2014, the prosecution concluded that it could not sustain its case without witness cooperation, and it withdrew charges. Uhuru was acquitted.
+
+The acquittal had multiple implications. For Uhuru, it was a complete vindication; he could claim that the charges were baseless and that he had been persecuted. For the ICC, it was a institutional failure; it demonstrated that the court could not prosecute sitting heads of state with control over evidence and witnesses. For Kenya, it suggested that political power provided immunity from accountability. By 2026, Uhuru remained a political figure, though no longer president, and faced no domestic prosecution. The question of his role in the violence remained historically contested but legally unresolved.
+
+## See Also
+
+[[2007-08 PEV Mungiki|Mungiki]]
+[[2007-08 PEV Naivasha Reprisals|Naivasha Reprisals]]
+[[2007-08 PEV ICC Uhuru Case|ICC Uhuru Case]]
+[[2007-08 PEV ICC Collapse|ICC Collapse]]
+[[../../Kikuyu/Kikuyu|Kikuyu]]
+
+## Sources
+
+1. International Criminal Court. "Prosecutor v. Uhuru Muigai Kenyatta, Case No. ICC-01/09-01/11." The Hague, 2011-2014. Trial Chamber documents and prosecution briefs available at https://www.icc-cpi.int/
+2. Kenya National Commission on Human Rights. "Report of the Commission of Inquiry into the Post-Election Violence in Kenya." Nairobi, 2008. Pages 360-375 detail Uhuru's alleged role in militia funding.
+3. Human Rights Watch. "Justice at Risk: Witness Intimidation and the ICC Investigations in Kenya." New York, 2013. Available at https://www.hrw.org/

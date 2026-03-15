@@ -1,0 +1,27 @@
+# 2007-08 PEV Unfinished Business 2026
+
+Nearly 18 years after the 2007-08 Post-Election Violence, fundamental questions remain unresolved, and the business of 2007-08 remains unfinished in 2026. No senior Kenyan political figure was ever convicted of organizing the violence. The International Criminal Court cases collapsed. Domestic prosecutions never materialized. The perpetrators of the worst violence (Kiambaa massacre, Naivasha reprisals, Rift Valley expulsions, Kibera extrajudicial killings) were never held accountable in any court. High-level figures (Uhuru Kenyatta, William Ruto) who were indicted by the ICC later became president and deputy president, demonstrating that political violence carried no legal consequences and that political power could defeat accountability mechanisms.
+
+Land displacement from 2007-08 remains largely unaddressed. The estimated 300,000+ acres seized during the violence remain occupied by new settlers with de facto ownership but disputed de jure rights. Approximately 40,000-60,000 people remain permanently displaced, living in urban informal settlements and secondary towns rather than on their original land. The government has not pursued land restitution, fearing it would reignite violence. The result is that the violence's land dimension has been settled through facts on the ground (occupation) rather than through law or negotiation. Victims who lost land have largely accepted the loss as permanent, but the question remains unresolved in terms of formal justice and property rights.
+
+Reparations for violence victims remain inadequate. The government's KES 10,000 per family compensation covered perhaps 3-5 percent of actual property losses. Sexual violence survivors, estimated at 1,200-2,500, received no reparations. The trauma-related mental health needs of survivors remain largely unaddressed; the government has not funded comprehensive mental health services for violence-affected populations. The Truth, Justice and Reconciliation Commission recommended comprehensive reparations programs; these recommendations were not implemented. By 2026, victims remain largely uncompensated and unacknowledged by the state.
+
+Structural causes of the violence (land inequality, ethnic marginalization, winner-takes-all politics) persist despite the 2010 Constitution's reforms. Devolution was meant to decentralize power and reduce ethnic competition for the presidency; however, ethnic tensions and the potential for electoral violence remain elevated in subsequent election cycles (2013, 2017, 2022). While electoral violence has been prevented through institutional improvement and political learning, the underlying social inequalities and ethnic grievances that motivated 2007-08 violence remain unaddressed. By 2026, the potential for renewed violence was not eliminated but modulated through institutional constraints.
+
+The gap between institutional reform and justice remains stark. Kenya's 2010 Constitution, new judiciary, reformed electoral commission, and truth mechanisms represent significant institutional progress. These reforms have been tested in subsequent elections (2013, 2017, 2022) and have held, preventing a return to 2007-08-scale violence. However, these institutional reforms have not translated into accountability or justice for perpetrators. Perpetrators walk free, live in communities where survivors also live, and have not faced public reckoning or accountability. This justice deficit has long-term implications; survivors of violence live alongside perpetrators without any formal acknowledgment of what happened or who was responsible. The unresolved justice question means that victims' sense of injustice persists, potentially providing fuel for future conflict if political crises reignite.
+
+By 2026, the most optimistic assessment is that Kenya has developed sufficient institutional resilience to prevent recurrence of 2007-08-scale violence in electoral contests, as demonstrated by the peaceful elections of 2013, 2017, and 2022. The most pessimistic assessment is that the underlying social, economic, and political causes of violence remain unresolved, and that continued political conflict and instability create ongoing potential for renewed violence if institutions fail or if elite actors calculate that violence serves their interests. The truth likely lies between these assessments: Kenya has learned enough to prevent worst-case scenarios but has not resolved the fundamental issues that drove the 2007-08 violence. Until accountability, justice, land restoration, reparations, and structural reform address these issues, the 2007-08 Post-Election Violence will remain unfinished business, a historical rupture that has been temporarily managed but not truly resolved.
+
+## See Also
+
+[[2007-08 PEV Impunity|Impunity]]
+[[2007-08 PEV Victims and Reparations|Victims and Reparations]]
+[[2007-08 PEV Land Unresolved|Land Unresolved]]
+[[2007-08 PEV ICC Collapse|ICC Collapse]]
+[[2007-08 PEV 2010 Constitution|2010 Constitution]]
+
+## Sources
+
+1. Truth, Justice and Reconciliation Commission of Kenya. "Final Report of the TJRC." Nairobi, 2013. Recommendations on accountability and reparations. Available at https://www.tjrckenya.org/
+2. International Crisis Group. "Kenya: Preventing a Return to Conflict." Africa Report No. 328, September 2024. Available at https://www.crisisgroup.org/
+3. Human Rights Watch. "Kenya: Accountability Deficit Persists." New York, 2024. Available at https://www.hrw.org/

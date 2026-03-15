@@ -1,0 +1,35 @@
+# 1997 Election International Observers
+
+International electoral observation missions deployed to Kenya for the December 1997 election issued assessments that were more measured than those offered for the 1992 election but remained critical of numerous irregularities and deviations from democratic standards. Observer teams from the European Union, Commonwealth Secretariat, United States, Canada, and various African organizations conducted parallel vote tabulations, monitored campaign conduct, and documented polling day procedures across a representative sample of polling stations. Their reports collectively acknowledged that while the 1997 election represented Kenya's continuation as a multiparty democracy, it fell substantially short of best practices for free and fair elections.
+
+The observer missions noted specific problems in several categories. First, regarding media access: state television and radio continued to provide disproportionate coverage to Moi and KANU while marginalizing opposition candidates. While the [[IPPG Reforms]] had technically expanded the operating space for opposition rallies and organizing, broadcast media remained under government control and operated with clear pro-government bias. Observers documented that opposition candidates received less than 20 percent of broadcast coverage despite collectively commanding nearly 60 percent of the popular vote. The independent print media, which had expanded since 1992, was noted as providing more balanced coverage, but many Kenyans, particularly in rural areas, relied primarily on radio and television as information sources.
+
+Second, observers documented concerns about the conduct of security forces and state officials during the campaign period. Specific incidents of police harassment of opposition rallies, arbitrary arrest of opposition activists, and what appeared to be torture in police custody were documented. The August 1997 [[coast violence]] was noted in observer reports as creating an environment of fear and instability that appeared to advantage Moi's campaign narrative about the need for strong central authority. While observers generally acknowledged the ambiguity surrounding the perpetrators and motives for the coast violence, they noted that the government's response (or perceived response) to the violence had political consequences favorable to the incumbent.
+
+Third, observers highlighted concerns about the electoral administration machinery itself. The Electoral Commission of Kenya, though technically nominally independent, was headed by presidential appointees and lacked both the resources and the institutional autonomy to effectively oversee a fair contest. Observers documented instances of voter list irregularities, allegations of ghost voters, and concerns about ballot security. The parallel vote tabulation conducted by observer missions revealed discrepancies with official Electoral Commission tallies, though the discrepancies were not of the magnitude that would have changed the overall election outcome given the size of Moi's plurality.
+
+Fourth, observers noted unequal access to state resources. Government vehicles, facilities, and personnel were mobilized for Moi's campaign while opposition candidates faced obstacles in accessing similar resources. This was not unique to Kenya (many developing democracies exhibit this pattern), but it represented a deviation from observer standards recommending equal access to resources or, alternatively, strict limitations on the use of state resources for campaign purposes.
+
+On the positive side, observers noted that the 1997 election represented genuine multiparty competition with multiple candidates contesting relatively openly (compared to the single-party era before 1991). Opposition candidates were able to campaign (albeit with restrictions and under hostile conditions), rallies were held, campaign materials were distributed, and voting itself proceeded in an organized fashion in most locations. The observer assessment was that the 1997 election represented a functioning, if imperfect, multiparty election rather than an authoritarian travesty.
+
+Specific observer missions produced more detailed assessments. The European Union observer mission documented concerns about security force conduct and media access but concluded that the election reflected genuine voter preferences within its constraints. The Commonwealth observer mission issued a similarly calibrated assessment, noting that while the election had significant shortcomings, it represented progress relative to Kenya's pre-multiparty era. The United States observer mission, reflecting broader Washington policy at the time (emphasizing stability and concerns about state failure in adjacent regions), emphasized the value of the election as a stable transfer of power and consolidation of multipartyism, even while documenting irregularities.
+
+International observer presence itself had become routine by 1997, unlike in 1992 when election observation in Kenya was more novel. The professionalization of observer missions, the deployment of parallel vote tabulation methodologies, and the increasingly standardized checklists of democratic conduct reflected the maturation of international election observation as a field. This institutionalization meant that 1997 observers could document problems with more precision than 1992 observers had possessed, even as it meant that some issues that had surprised observers in 1992 were now expected and incorporated into observer methodologies.
+
+The observer findings of 1997 would set expectations for the 2002 election. When observers assessed the 2002 election (which Moi lost to [[Kibaki]]) as the "cleanest election in Kenya's history," they were measuring it against the 1997 benchmark and against the 2007 election (which would be catastrophically flawed). The trajectory of observer assessments thus illuminated the contingency of Kenyan democracy: elections could be more or less flawed depending on political circumstances and the commitment of political actors to electoral fairness.
+
+## See Also
+
+- [[1997 Election]]
+- [[Electoral Commission of Kenya]]
+- [[1992 Election observers]]
+- [[2002 Election observers]]
+- [[International electoral observation]]
+- [[Democracy assessment in Africa]]
+
+## Sources
+
+1. International IDEA (1998). "The 1997 General Elections in Kenya: Findings and Recommendations." International Institute for Democracy and Electoral Assistance. https://www.idea.int/publications/catalogue/1997-general-elections-kenya-findings-and-recommendations
+2. European Union (1998). "EU Election Observation Mission Report: Kenya 1997 General Elections." Brussels: EU. https://eeas.europa.eu/election-observation-missions
+3. Commonwealth Secretariat (1998). "Commonwealth Observer Group Report: Kenya 1997 Election." London: Commonwealth. https://thecommonwealth.org/publications
+4. International Republican Institute (1998). "Kenya 1997 Elections: Observation Report." Washington DC: IRI. https://www.iri.org/our-work

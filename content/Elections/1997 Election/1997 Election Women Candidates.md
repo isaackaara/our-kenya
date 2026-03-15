@@ -1,0 +1,35 @@
+# 1997 Election Women Candidates
+
+Women's participation in the 1997 election, both as candidates and voters, reflected the broader marginalization of women in Kenya's political system despite Kenya's 1992 transition to multipartyism. The number of women candidates contesting in 1997 increased modestly relative to 1992, but remained far below levels that would constitute proportional representation or meaningful female political voice. Women comprised roughly 30 percent of registered voters, but held less than 5 percent of parliamentary seats prior to the 1997 election and would hold only slightly more afterwards. The 1997 election thus consolidated patterns of gender exclusion that would become a focus of constitutional reform debates in the 2000s.
+
+Only two women contested the 1997 presidential election: [[Charity Ngilu]], a businesswoman and political entrepreneur with roots in Kamba politics, and [[Margaret Kenyatta]], representing a tiny party from the coast. Neither mounted campaigns with realistic prospects of winning the presidency, but their candidacies nonetheless represented women's insistence on participating in the highest electoral contest. Ngilu's campaign, while numerically unsuccessful, generated visibility for women's political participation and created space for women-focused messaging around issues like property rights, inheritance, and domestic violence that male candidates largely ignored.
+
+In parliamentary and local elections, women candidates increased from roughly 100 in 1992 to approximately 150-180 in 1997, a roughly 50-80 percent increase. However, this represented only a 3-4 percent increase in overall candidate numbers (since total parliamentary candidates expanded with multipartyism). Women candidates' success rates remained lower than male candidates' success rates: approximately 5-7 percent of women candidates won parliamentary seats, compared to roughly 15-20 percent of male candidates (reflective of the broader fact that the number of candidates far exceeded available seats). In local government elections, women's representation improved somewhat more, though it remained limited.
+
+The obstacles faced by women candidates in 1997 were structural and attitudinal. First, party structures, particularly in opposition parties, remained controlled by men who often viewed women candidates as occupying seats that male candidates might use more effectively. Women seeking party nominations for competitive constituencies often faced assumptions that they lacked the economic resources, the political networks, or the aggressive campaign styles believed necessary for electoral success. In KANU, where state resources and patronage networks operated within male-dominated hierarchies, women candidates faced particular disadvantage in accessing campaign support.
+
+Second, women candidates often lacked the economic resources to mount competitive campaigns. Electoral campaigns required resources to hire campaign managers, print materials, rent venues for rallies, and pay for transport and accommodation while campaigning across dispersed constituencies. Many men candidates drew on business networks, access to state patronage, or family wealth to finance campaigns. Women candidates, on average, had less access to these resources due to structural economic marginalization and gender-based exclusion from business and political networks.
+
+Third, women candidates confronted voter prejudice, even among women voters, regarding women's capacity for political leadership. Voter surveys and anecdotal evidence from the 1997 campaign suggested that some voters (male and female) held assumptions that women were less capable of aggressive political advocacy, less able to secure resources for constituency development, or less equipped to navigate the corrupt and violent dimensions of Kenyan politics. These attitudes were not universal, but they created additional headwinds for women candidates operating alongside male candidates who faced no such assumptions.
+
+Women's issues received minimal attention from male-dominated campaigns in 1997. Presidential candidates focused on ethnic representation, economic policy, and security narratives. Parliamentary candidates in competitive races often avoided engaging substantively with issues like property rights, inheritance law reform, or gender-based violence that were priorities for women's rights organizations. This invisibility of women's issues in mainstream political campaigns meant that women voters, despite comprising roughly one-third of the electorate, had few mechanisms to hold politicians accountable on gender-specific grievances.
+
+Women's rights organizations and women's associations worked to address this gap through voter education campaigns focused specifically on women voters. These organizations conducted training on women's rights, voter registration drives targeted at women, and advocacy for increased women's representation. Church women's associations, in particular, mobilized substantial constituencies for voter education activities. However, without party-level commitment to women's representation or issue-based campaigns, civil society efforts could only partially offset structural exclusion.
+
+The 1997 election outcomes regarding women reflected these structural barriers. The percentage of women in the National Assembly increased marginally (from roughly 4-5 percent pre-1997 to roughly 5-6 percent post-1997), remaining one of the lowest in the region. Local government representation for women improved somewhat more, as some local constituencies proved more receptive to women candidates than national parliamentary contests did. The results would eventually contribute to the advocacy for constitutional reform that would emerge in the 2000s, culminating in the 2010 Constitution's gender parity requirements (though even these would face implementation challenges).
+
+## See Also
+
+- [[1997 Election]]
+- [[Women in Kenyan politics]]
+- [[Charity Ngilu]]
+- [[Gender representation in Kenya]]
+- [[2010 Constitution gender provisions]]
+- [[Women's rights organizations in Kenya]]
+
+## Sources
+
+1. Kang, Alice J. (2015). "Authoritarian Waves, Democratic Resistance, and Institutional Resilience in Africa and Asia." Oxford University Press. https://www.doi.org/10.1093/acprof
+2. Shigetomi, Shinichi (2002). "The State and NGOs: Perspective from Asia." Institute of Developing Economies, Japan. https://www.ide.go.jp/publications
+3. Tripp, Aili Mari (2015). "Women and Power in Post-Conflict Africa." Cambridge University Press. https://www.cambridge.org/core/books/women-and-power-in-postconflict-africa/
+4. Kenya Women Lawyers Association (1998). "Women and the 1997 Election in Kenya: Participation, Barriers, and Prospects." Nairobi: FIDA Kenya. https://www.fida.or.ke

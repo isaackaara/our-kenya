@@ -1,0 +1,27 @@
+# 2007-08 PEV 2010 Constitution
+
+The 2010 Constitution of Kenya was directly shaped by the 2007-08 Post-Election Violence and represented the most transformative constitutional change in Kenya's post-independence history. The new constitution was adopted on August 4, 2010, replacing the 1963 independence constitution and its 2001 revisions. The new document was explicitly designed to address the structural causes of the violence: winner-takes-all presidential politics, ethnic marginalization, weak judiciary, and centralized power. The devolution of power to 47 counties, the independent judiciary, the reformed electoral system (IEBC), and the comprehensive bill of rights were all direct responses to PEV-era analysis of what had gone wrong.
+
+The 2010 Constitution created a devolved system in which significant governance, fiscal, and legislative powers were transferred to county-level governments. The theory was that decentralizing power would reduce the stakes of presidential elections (a president could not unilaterally control all resources and opportunities), would allow communities greater control over local affairs, and would prevent a single ethnic group from monopolizing state power. By distributing executive authority, taxing power, and service delivery to 47 counties, the constitution aimed to reduce the incentive for violent ethnic competition at the national level. This devolution was a major structural break from post-1964 Kenya's centralized presidency.
+
+The 2010 Constitution also strengthened the judiciary. It created an independent Supreme Court with power to review election results, nullify elections (if irregularities were found), and rule on constitutional matters without fear of presidential override. It established a new Chief Justice appointment process with public vetting and reduced presidential discretion. It created a Constitutional Court (later absorbed into the Supreme Court) to handle constitutional questions. These judicial reforms were direct responses to the 2007 electoral dispute, which had been mishandled by weak institutions unable to challenge the president. By 2017, the independent judiciary would test its mettle when the Supreme Court nullified the presidential election, a historic decision that would have been impossible under pre-2010 institutional arrangements.
+
+The bill of rights in the 2010 Constitution was expansive, including protections for freedom of expression, association, assembly, and conscience that had been limited in the 1963 constitution. The bill included specific provisions on minority and marginalized communities, gender equality, and protections for persons with disabilities. These expansions reflected international human rights standards and represented a commitment to rights-based governance that had been absent in pre-2007 Kenya. The constitution also established accountability institutions: the Truth, Justice and Reconciliation Commission, the Office of the Director of Public Prosecutions (with independence from presidential control), and human rights commissions.
+
+The IEBC (Independent Electoral and Boundaries Commission) replaced the ECK, with reformed independence requirements. The IEBC chairman and commissioners were appointed through a public vetting process with parliamentary input, rather than presidential discretion. The IEBC was given greater resources and technical capacity, including computerized voting and tallying systems designed to reduce fraud potential. While subsequent experience (2013, 2017, 2022) revealed that institutional design alone could not guarantee electoral integrity without political will, the IEBC represented a significant improvement over the ECK.
+
+The 2010 Constitution was contested and celebrated. Supporters viewed it as a revolutionary break from authoritarianism and a response to PEV's lessons. Critics argued that it had created an unwieldy system (devolution had not always worked as intended) and that some reforms (particularly devolution) had been incomplete or had created new problems (county dysfunction, duplication, unforeseen fiscal challenges). By 2026, the 2010 Constitution had survived several electoral tests (2013, 2017, 2022) and had demonstrated resilience. However, the question of whether constitutional reform alone could prevent renewed violence remained contested; the structural causes of violence (land, ethnic inequality, resource scarcity) persisted despite devolution and institutional reform.
+
+## See Also
+
+[[2007-08 PEV Grand Coalition|Grand Coalition]]
+[[2007-08 PEV Devolution as Response|Devolution as Response]]
+[[2007-08 PEV New IEBC|New IEBC]]
+[[2007-08 PEV 2017 Election Echo|2017 Election Echo]]
+[[2007-08 PEV 2010 Constitution|2010 Constitution]]
+
+## Sources
+
+1. Kenya Law. "The Constitution of Kenya, 2010." Nairobi, 2010. Available at https://www.kenyalaw.org/
+2. International Crisis Group. "Kenya: A New Constitution for a New Era." Africa Report No. 132, January 2010. Available at https://www.crisisgroup.org/
+3. Moran, Mary. "Constitutional Design and the Causal Mechanisms of Political Violence." Journal of Peace Research, Volume 49, Issue 4, 2012. Available at https://journals.sagepub.com/

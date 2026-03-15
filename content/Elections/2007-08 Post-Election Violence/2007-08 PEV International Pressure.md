@@ -1,0 +1,31 @@
+# 2007-08 PEV International Pressure
+
+International pressure on Kenya escalated rapidly during the 2007-08 Post-Election Violence, shaping both the de-escalation of violence and longer-term accountability mechanisms. Within days of December 30, 2007, the United States, European Union, African Union, and United Nations had issued statements expressing concern and calling for dialogue. By January, international pressure had shifted to explicit threats: economic sanctions, suspension of aid, and ICC investigation. These threats were not abstract; they reflected concrete interests and concerns about Kenya's stability and its regional strategic importance.
+
+The United States, with significant military interests in Kenya (access to ports, counterterrorism operations, intelligence presence), moved quickly to mediate the crisis while warning against further violence. US Secretary of State Condoleezza Rice visited Kenya in mid-January 2008, meeting with both Kibaki and Raila to express American concern and encourage dialogue. The US message was calibrated: support for Kibaki as the legally recognized president, but also pressure on Kibaki to negotiate with the opposition and address electoral irregularities. The threat of economic sanctions and aid suspension was made explicit; Kenya's development assistance (approximately USD 800 million annually at the time) would be at risk if violence continued and a settlement was not reached.
+
+The European Union took similar positions. The EU maintained diplomatic presence and signaled its concern about democratic norms and human rights. Like the US, the EU threatened to suspend development assistance and made clear that continued violence and political intransigence would result in economic isolation. For a country dependent on foreign aid for significant portions of the government budget, these threats were consequential. By late January 2008, both Kibaki and Raila had recognized that international isolation was costly, and negotiated settlement was preferable to continued violence and economic punishment.
+
+The African Union, under the leadership of Chairman Jakaya Kikwete of Tanzania, also intervened diplomatically. The AU's role was to facilitate the appointment of Kofi Annan as mediator and to support his mission. The AU provided logistical assistance and political backing for the mediation process. The AU's involvement was significant because it signaled that the regional organization, not just Western powers, was invested in Kenya's stability and the resolution of the crisis. This regional pressure was important for Kibaki and Raila to appear responsive to African, not just Western, concerns.
+
+The United Nations Secretary-General Ban Ki-moon issued statements calling for an end to the violence and urging dialogue. The UN also deployed humanitarian missions to assist internally displaced persons and investigate the violence. The UN's presence legitimized international concern while also creating a monitoring mechanism that documented violations for potential accountability purposes. The International Committee of the Red Cross established medical facilities and provided humanitarian assistance. These UN and international humanitarian operations were crucial for survival of IDPs in camps and informal shelters.
+
+Crucially, the International Criminal Court also became an actor in the pressure landscape. In early January 2008, the ICC's Office of the Prosecutor announced that it was monitoring the situation in Kenya and would investigate potential crimes against humanity. While the Prosecutor did not immediately open an investigation (that came later, in 2010), the announcement signaled that perpetrators of mass violence might face international justice. This threat was targeted primarily at political and militia leaders, not foot soldiers, suggesting that high-level organizers of violence would not escape accountability. For political leaders weighing their options in January 2008, the prospect of ICC indictment (which materialized in December 2010) was an additional incentive to negotiate rather than escalate violence indefinitely.
+
+The international pressure landscape also included more subtle dynamics. International media coverage, particularly from BBC, Reuters, and other global outlets, created reputational costs for Kenya. Investors and tourists fled the country, damaging the economy. International attention meant that violence could not be hidden or minimized; the world was watching. For a government concerned about international standing and economic performance, this visibility was constraining. Kenya's government and opposition leaders were aware that their decisions would be judged globally and that international consequences would follow.
+
+By February 2008, this cumulative international pressure had pushed both Kibaki and Raila toward negotiated settlement. The Kofi Annan mediation succeeded partly because it was backed by international pressure on both sides. Neither leader wanted to be blamed internationally for continuing violence or obstructing peace. The threat of economic sanctions, ICC investigation, and diplomatic isolation provided material incentives for compromise that internal political competition alone might not have generated. International pressure was thus a key factor in ending the active phase of the violence, though it also created dependencies on external actors for Kenya's conflict resolution that would persist through subsequent political crises (2013, 2017, 2022).
+
+## See Also
+
+[[2007-08 PEV Kofi Annan Mediation|Kofi Annan Mediation]]
+[[2007-08 PEV ICC Collapse|ICC Collapse]]
+[[2007-08 PEV National Accord|National Accord]]
+[[2007-08 PEV 41 Days Timeline|41 Days Timeline]]
+[[2007-08 PEV Ocampo Six|Ocampo Six]]
+
+## Sources
+
+1. International Crisis Group. "Kenya After the Elections." Africa Report No. 141, February 2008. Pages 15-30 on international pressure and mediation. https://www.crisisgroup.org/
+2. Mold, Andrew. "The Financial Crisis in East Africa." OECD Papers on Development, 2009. Available at https://www.oecd.org/
+3. United Nations Security Council. "Statement on Kenya." January 2008. Available at https://www.un.org/securitycouncil/

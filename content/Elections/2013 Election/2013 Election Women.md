@@ -1,0 +1,32 @@
+# 2013 Election Women
+
+The 2013 election was the first to implement the constitutional gender quota requiring that no more than two-thirds of elected officials be of the same gender, creating opportunities for increased female political representation and simultaneously testing the practical application of affirmative action provisions in Kenya's electoral system. The gender quota's implementation in 2013 had uneven results: while the proportion of women in elected office increased compared to 2007, the quota's full impact remained constrained by implementation challenges and persistent gender-based discrimination in candidate nomination and campaign processes.
+
+The constitutional gender quota operated through multiple mechanisms. At the parliamentary level, if a gender (typically women, given Kenya's historical male-dominance in elected office) failed to achieve the two-thirds threshold through direct election, the deficit would be filled through nominated positions distributed proportionally among parties achieving parliamentary representation. For gubernatorial and senate positions, similar nomination procedures were intended to ensure gender balance. The quota thus created theoretical floors for female representation, guaranteeing that women would occupy a minimum proportion of elected positions even if voters exhibited gender-based voting preferences.
+
+In practice, the gender quota operated with mixed success. In the parliamentary election, the number of women directly elected to the National Assembly increased modestly compared to 2007, reaching approximately 67 seats (out of 290 elected), or roughly 23% of the elected membership. However, this direct election figure fell short of the two-thirds threshold, necessitating the nomination of approximately 27 additional women to achieve gender balance across the entire assembly. The nomination procedure thus became a critical vehicle through which women achieved parliamentary representation, with the mechanism highlighting both the quota's necessity (women could not achieve two-thirds representation through direct election) and its limitations (nomination procedures were less publicly visible and less directly accountable to voters than direct election).
+
+Female gubernatorial candidates competed in all 47 county races, with several women securing gubernatorial victories. However, the number of successful female gubernatorial candidates was small (approximately five-seven), suggesting that the gubernatorial level remained substantially male-dominated despite the quota's nominal application. The difference between the parliamentary results and the gubernatorial results reflected distinct dynamics: parliamentary elections distributed numerous positions across hundreds of candidates, creating more opportunities for women to succeed in particular contests, while gubernatorial elections concentrated power in single positions per county, creating winner-take-all dynamics wherein women faced competition from well-established male candidates with stronger existing networks.
+
+The gender quota implementation also revealed persistent gender-based discrimination in candidate recruitment and campaign support. Parties were legally required to field female candidates and to ensure that women comprised a certain proportion of their candidate slates, but enforcement mechanisms were weak and party practices often violated the quotas nominally. Women candidates reported receiving less campaign funding, less media coverage, and less grassroots organizational support than male candidates competing in the same constituencies. The campaigns' gender dynamics thus reflected historical patterns wherein women's political advancement was constrained not by formal rules alone but by substantive discrimination in resource allocation and support.
+
+Issues of particular relevance to female voters and candidates during 2013 included land rights, access to credit and business support, sexual violence and gender-based violence, healthcare access, and education quality. Both the Jubilee and CORD coalitions incorporated gender-focused policy commitments into their manifestos, though the level of specificity and apparent commitment varied. The CORD coalition positioned itself somewhat more explicitly as committed to women's rights and gender equality, while the Jubilee coalition emphasized economic growth and opportunity narratives that were theoretically gender-neutral but practically might not address gender-specific barriers.
+
+The selection of running mates during 2013 reflected broader patterns of male domination in high office, with both Jubilee and CORD selecting male running mates (William Ruto and Kalonzo Musyoka respectively). Neither coalition selected a female running mate, despite the constitutional requirement that running mates hold the status equivalent to the Vice President, which would have made running mate selection a major opportunity to advance gender representation. The male running mate selections suggested that even in a context of gender quota enforcement, the highest offices remained male-dominated and that gender representation remained contingent on formal quota requirements rather than voluntary party commitments to gender balance.
+
+Post-election analysis suggested that female voters did not exhibit uniform electoral preferences distinct from male voters, with women splitting their votes between Jubilee and CORD in proportions similar to the general electorate. The idea of a distinct "women's vote" that could be mobilized around gender-specific issues did not clearly manifest in 2013 results, suggesting that other factors (region, ethnicity, income, education) remained more determinative of voting behavior than gender alone.
+
+## See Also
+
+[[2013 Election]]
+[[2013 Election Results]]
+[[2013 Election New Constitution Context]]
+[[2013 Election Jubilee Coalition]]
+[[2013 Election CORD Coalition]]
+[[2013 Election Running Mates]]
+
+## Sources
+
+1. Flavia Musyoka and Margaret Mbugua. (2013). Women and Political Representation in Kenya's 2013 Elections. Forum for African Women Educationalists.
+2. International Foundation for Electoral Systems. (2013). Gender and the 2013 Kenya General Elections. Retrieved from https://www.ifes.org/
+3. Kenya National Commission on Human Rights. (2013). Gender Dimensions of Kenya's 2013 Elections. Retrieved from https://www.knchr.org/

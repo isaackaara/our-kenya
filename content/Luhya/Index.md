@@ -1,0 +1,5 @@
+---
+title: Luhya
+---
+
+[[Luhya]]

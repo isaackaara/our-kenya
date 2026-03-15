@@ -1,0 +1,27 @@
+# 2007-08 PEV Naivasha Reprisals
+
+On January 27-28, 2008, armed [[Kikuyu|Kikuyu]] men, many identified as affiliated with the banned militia group [[Mungiki|Mungiki]], launched coordinated attacks on [[Luo|Luo]] and [[Kalenjin|Kalenjin]] residents in Naivasha, a town in the central Rift Valley with a large informal settlement housing migrant workers. The reprisals killed at least 31 people and left hundreds of homes burned. Unlike the Rift Valley violence, which was primarily driven by Kalenjin militia targeting non-Kalenjin residents, the Naivasha attacks represented a counter-insurgency: Kikuyu militias entering a volatile area to target communities they blamed for violence against Kikuyus elsewhere. The incident revealed the revenge logic embedded in the ethnic violence, where atrocities in one location triggered coordinated retaliation in another, sometimes days or weeks later.
+
+Naivasha's geography made it a pressure point. The town sits at the intersection of Kikuyu-majority central Kenya and Kalenjin-majority Rift Valley, with a large floating population of itinerant workers from both communities plus Luo migrants. In the initial violence (December 30 to January 6), Kalenjin youths had killed and displaced Kikuyu residents from Naivasha's informal settlements. The Kikuyu response, coordinated through Mungiki networks, aimed to demonstrate that violence against Kikuyu communities would be answered, regardless of geography. The attacks on January 27-28 were organized; armed men arrived in vehicles, moved systematically through targeted neighborhoods, and departed within hours. Intelligence suggesting advance knowledge and coordination led investigators to link the operations to [[Uhuru Kenyatta|Uhuru Kenyatta]], who was later indicted by the ICC for alleged funding of Mungiki operations in the Rift Valley.
+
+The Naivasha reprisals exposed the militia infrastructure underlying the violence. Mungiki, despite being banned in 2002, maintained organizational cohesion, a membership base, and the ability to mobilize armed men quickly across long distances. The group's leadership structure included both religious (its syncretic appropriation of Kikuyu traditionalism) and criminal elements (extortion, protection rackets in Nairobi). During the PEV, the group's criminal networks were repurposed for political violence. Financial flows to Mungiki were documented by ICC investigators, with bank records and witness testimony allegedly showing Uhuru Kenyatta's office making payments to militia coordinators. These payments were ostensibly for "community security," a euphemism that convinced few observers.
+
+Survivors reported that the Naivasha attacks were not random. Neighborhoods where Luo and Kalenjin residents were concentrated received multiple attacks; intermarried families and Kikuyu shops were mostly spared. This selectivity suggested planning and targeting. The attackers also looted property, further suggesting that economic motivations (land, asset seizure) paralleled ethnic cleansing. Women reported sexual violence, though documentation was incomplete; KNCHR later estimated that at least 90 cases of rape were perpetrated during the Rift Valley violence broadly, with Naivasha accounting for a portion.
+
+The perpetrators of the Naivasha attacks were never prosecuted domestically. Some individuals were detained by police but cases were not pursued. The Waki Commission identified Mungiki leadership as involved and passed names to the sealed envelope given to Hans Corell, but domestic mechanisms did not activate. The ICC case against Uhuru Kenyatta, which drew in part on Mungiki funding evidence from Naivasha and other Rift Valley locations, collapsed in December 2014 when the prosecution failed to sustain witness testimony in the face of recantations and intimidation. By the time Uhuru became president in 2013, the Naivasha evidence had become legally inert, locked into a failed ICC case.
+
+Naivasha's recovery was slower than Eldoret's. While Eldoret eventually stabilized and even grew, Naivasha's informal settlement remained fractured through 2010. Many Luo and Kalenjin residents did not return, migrating to Nairobi or their home regions. Those who remained lived in ethnically sorted neighborhoods. The town became a cautionary example of how violence could permanently alter settlement patterns and community composition. By 2026, Naivasha's demographics had shifted; the working-class informal settlement was less ethnically mixed than pre-2007, a pattern repeated across multiple Rift Valley towns and attributed directly to the violence and its aftermath.
+
+## See Also
+
+[[2007-08 PEV Mungiki|Mungiki]]
+[[2007-08 PEV Uhuru Kenyatta Role|Uhuru Kenyatta Role]]
+[[2007-08 PEV Rift Valley Expulsions|Rift Valley Expulsions]]
+[[2007-08 PEV ICC Uhuru Case|ICC Uhuru Case]]
+[[2007-08 PEV Sexual Violence|Sexual Violence]]
+
+## Sources
+
+1. Kenya National Commission on Human Rights. "Report of the Commission of Inquiry into the Post-Election Violence in Kenya." Nairobi, 2008. Pages 210-218 detail Naivasha incidents.
+2. International Criminal Court. "Prosecutor v. Uhuru Muigai Kenyatta, Case No. ICC-01/09-01/11." Testimony of Witnesses P-0011 and P-0012 on Mungiki payments. https://www.icc-cpi.int/
+3. Amnesty International. "Kenya: Escape from the Fire, Torture and Rape in the Rift Valley." London, 2008. Available at https://www.amnesty.org/

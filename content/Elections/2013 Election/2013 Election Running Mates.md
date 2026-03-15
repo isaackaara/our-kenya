@@ -1,0 +1,34 @@
+# 2013 Election Running Mates
+
+The 2010 Constitution's requirement that presidential candidates announce and run jointly with running mates introduced a novel dimension to the 2013 election, replacing previous practice wherein running mates were either selected post-election or remained ceremonial positions lacking executive function. The constitutional running mate requirement mandated that running mates hold the status of Vice President and possess specified qualifications, transforming running mate selection from a symbolic or strategic positioning mechanism into a substantive institutional arrangement wherein the running mate would occupy high executive office and exercise delegated presidential authority.
+
+For the [[2013 Election Jubilee Coalition|Jubilee coalition]], the running mate selection of William Ruto represented a strategic partnership between Uhuru Kenyatta and a Kalenjin political leader, intended to consolidate the Kikuyu-Kalenjin ethnic axis and signal reconciliation between the communities most implicated in 2007 post-election violence. Ruto's selection as running mate transformed what had been a separate regional political power base into an institutionally-unified partnership with the presidency. Ruto's acceptance of the running mate position, rather than pursuing an independent presidential candidacy, represented a significant political calculation that the vice-presidency would provide greater access to national power than an independent Ruto presidential campaign would likely achieve.
+
+The Kenyatta-Ruto partnership was reinforced by the constitutional arrangements requiring that voters voting for the presidential candidate simultaneously voted for the running mate as a joint ticket. This joint ballot arrangement meant that voters could not separate their presidential choice from their running mate choice, necessitating that presidential candidates carefully select running mates capable of attracting or at least not repelling voters from the candidate's coalition regions. The joint ballot requirement thus created incentives for running mate selection that would strengthen coalition appeal rather than create friction within the partnership.
+
+For the CORD coalition, the running mate selection of Kalonzo Musyoka, leader of the Wiper party and former Vice President under Kibaki, represented an attempt to strengthen CORD's appeal among Kamba-majority regions. Kalonzo's prior experience as Vice President and his control of a separate political party created complexity within the CORD coalition structure: was Kalonzo a partner in the coalition or a subordinate to Raila? The joint ticket arrangement meant that Kalonzo had accepted a subordinate position to Raila despite his status as an established national political figure. This hierarchy potentially created tension within the coalition and complicated the running mate's role.
+
+The constitutional requirement that running mates meet specified qualifications (citizenship, age, education, security clearance) created new candidate screening mechanisms. However, both Jubilee and CORD running mates easily met these formal qualifications, and the qualifications themselves did not substantially constrain either coalition's running mate selection options. The fact that both running mates (Ruto and Kalonzo) were themselves experienced political figures with national profiles distinguished the 2013 running mate selections from hypothetical scenarios wherein established candidates might select young, untested running mates for strategic or demographic reasons.
+
+The 2013 running mate selections reflected the persistent importance of ethnic representation and regional coalition-building in Kenyan electoral politics. Neither Jubilee nor CORD selected running mates on the basis of gender balance, meritocratic credentials independent of ethnic identity, or geographical diversity. Instead, both coalitions selected running mates intended to strengthen coalition appeal within specific ethnic and regional constituencies. This pattern suggested that constitutional provisions requiring running mates had not fundamentally altered the logic of running mate selection, which remained primarily driven by ethnic and regional coalition considerations.
+
+Campaign dynamics involving the running mates reflected their subordinate status despite their senior political experience. The running mates participated actively in campaign rallies, addressed constituency voters, and articulated coalition policy positions, but lacked the prominence and media focus accorded to the presidential candidates. The running mates' campaigns thus reinforced the personality-focused nature of Kenya's electoral politics, wherein presidential candidates dominated media attention and campaign messaging while running mates played supporting roles.
+
+The running mate debate prior to the elections included discussion of what "executive" responsibilities the running mates would exercise as Vice President. The constitutional arrangements establishing the Vice President as a functional position with delegated authority theoretically created opportunities for running mates to occupy substantial executive roles, but the actual distribution of authority between the President and Vice President remained ambiguous and subject to the incoming President's discretionary judgment. Both Jubilee and CORD offered somewhat vague commitments regarding the running mate's role, suggesting that the precise delineation of Vice Presidential authority remained to be determined post-election.
+
+The constitutional requirement that running mates be announced pre-election created campaign constraints not present in previous elections: presidential candidates could not indefinitely defer running mate selection or use the possibility of running mate selection as a bargaining chip in post-election coalition negotiations. The transparency requirement meant that voters could assess the running mate partnership before voting, though the impacts of running mate selection on voter behavior remained difficult to isolate from other electoral factors.
+
+## See Also
+
+[[2013 Election]]
+[[2013 Election New Constitution Context]]
+[[2013 Election Jubilee Coalition]]
+[[2013 Election CORD Coalition]]
+[[2013 Election Results]]
+[[2013 Election Women]]
+
+## Sources
+
+1. Constitution of Kenya. (2010). Chapter Five: Executive Authority. Retrieved from https://www.ck.org/
+2. Kanyinga, Karuti. (2013). The Vice Presidential Office in Kenya's Reformed Constitutional Framework. Kenya Institute for Public Policy Research and Analysis.
+3. Muigai, Githu. (2013). The Running Mate Requirement and Coalition Politics in the 2013 Kenya Election. East African Law Review, 39(1), 78-95.

@@ -1,0 +1,35 @@
+# 2002 Election Uhuru Kenyatta
+
+Uhuru Muigai Kenyatta, [[Moi]]'s hand-picked successor and KANU's presidential candidate in 2002, entered the election as Moi's choice for power succession but departed as a devastated defeated candidate whose political future seemed permanently damaged. Uhuru's humiliating 31 percent loss to [[Kibaki]]'s 62 percent represented not merely an electoral defeat but a repudiation that called into question whether Uhuru possessed the political capacity to lead a major party or nation. The Kenyatta family's centrality in Kenyan politics since independence (his father, Jomo Kenyatta, was the founding president) provided Uhuru with a historical name and some political capital, but it proved insufficient against a coalition united around the expectation that Moi's era had ended.
+
+Uhuru's selection as Moi's successor reflected both the logic of ethnic politics (both Uhuru and Moi were close to Kikuyu interests through their business dealings and patronage networks) and the question of succession within Moi's inner circles. Having ruled for 24 years and facing constitutional term limits, Moi faced the problem of how to ensure that a successor would protect his interests and those of his political allies. Uhuru, while much younger than Moi and lacking Moi's political experience, was nonetheless acceptable to the Moi establishment and, importantly, was regarded by Moi as likely to be amenable to influence and to protect the interests of the Moi-era regime and business elites.
+
+Uhuru's campaign was poorly conceived and inadequately resourced compared to NARC's coordinated coalition effort. While KANU had state resources at its disposal (a continuing advantage despite the regime's decline), these resources were insufficient to overcome the changed political context. Uhuru lacked the personal political capital that Moi had possessed, lacked the philosophical coherence that Kibaki's NARC coalition presented, and, most critically, was associated with KANU's failing regime rather than with the fresh start that voters desperately sought. Young voters in particular viewed Uhuru as a symbol of generational entrenchment and regime continuity rather than as a new leader offering change.
+
+The "pumbavu" scandal emerged as the defining moment of Uhuru's campaign. In a recorded conversation, Uhuru reportedly dismissed Kikuyu voters as "pumbavu" (foolish), reflecting a contempt for the very voters that KANU needed to retain in order to win. When the recording circulated through informal networks and independent media, it created a political fiasco. Opposition campaigns seized on the scandal to portray Uhuru as contemptuous of the Kikuyu community whose votes KANU was asking for. The "pumbavu" gaffe seemed to crystallize voter perceptions that Uhuru and Moi's circle had lost touch with ordinary Kenyans and viewed voters with disdain.
+
+Uhuru's campaign strategy, insofar as one could be discerned, rested on three weak pillars: first, KANU's continuing state resources and control over broadcasting, which should have provided Uhuru with media advantages; second, the presumption that Moi's remaining support bases (particularly among Kalenjin voters) would hold firm; and third, the hope that voter skepticism about multi-ethnic coalition politics would make voters wary of supporting NARC. None of these pillars proved sufficient. Independent media had expanded enough to neutralize KANU's broadcasting advantages. Moi's support bases, while still voting for KANU, were demographically insufficient to carry a national election when other regions voted overwhelmingly for NARC. And NARC's coalition structure, rather than generating skepticism, seemed to represent hope for a broader post-Moi political settlement.
+
+Uhuru's lack of political experience proved consequential. Unlike Kibaki, who had held ministerial office and could be portrayed as a competent technocrat, Uhuru had limited governmental experience. Unlike Moi, who had decades of political mastery, Uhuru was politically novice. Unlike Raila, who had demonstrated capacity to mobilize constituencies and to navigate opposition politics, Uhuru had inherited political position without demonstrating personal political capacity. Voters' skepticism about Uhuru's ability to govern effectively was thus rooted not only in his association with a failing regime but also in legitimate questions about his personal qualifications for the presidency.
+
+The campaign revealed generational tensions within KANU itself. Younger KANU politicians, recognizing that Uhuru was unlikely to deliver victory, began shifting their allegiances to NARC in the final weeks before the election. MPs and party officials defected from KANU to NARC, a process known locally as "crossing the floor," which became a public demonstration of KANU's collapse. By the time the election occurred, KANU had already been partially dismantled from within, as ambitious politicians moved to the winning coalition.
+
+Uhuru's 31 percent vote share represented a catastrophic defeat. The result suggested that even with state resources, media access, and the incumbent's name recognition, KANU could not overcome the changed political context. In Central Province, where Kibaki and NARC won overwhelming support, KANU's support collapsed to single digits. In Nyanza and coastal regions, NARC's coalition appeal transcended ethnic boundaries in ways that KANU's mono-ethnic approach could not match. Even in Rift Valley, Moi's core region, while KANU retained some strength, it lost ground relative to historical baselines.
+
+Uhuru's post-2002 political trajectory demonstrated the long-term damage of electoral humiliation. While Uhuru would later return to political prominence (eventually serving as Vice President and then President in a very different political context), the 2002 defeat marked him permanently as the candidate Moi chose who could not be elected and as the symbol of a failed regime transition. In the immediate post-2002 period, Uhuru's political future seemed to be behind him, and observers questioned whether he would remain politically relevant.
+
+## See Also
+
+- [[2002 Election]]
+- [[KANU party history]]
+- [[Moi's succession plans]]
+- [[2002 Election Moi Succession]]
+- [[Kenya's political transitions]]
+- [[Uhuru Kenyatta]]
+
+## Sources
+
+1. Branch, Daniel (2011). "Kenya: Between Hope and Despair, 1992-2011." Yale University Press. https://www.yalebooks.com
+2. International IDEA (2003). "The 2002 General Elections in Kenya: Findings and Recommendations." https://www.idea.int/publications/catalogue/2002-general-elections-kenya
+3. Electoral Commission of Kenya (2003). "The 2002 General Elections in Kenya: Official Results." Nairobi: ECK. https://www.eck.or.ke/public-documents/election-results
+4. Human Rights Watch (2002). "Transition to Democracy in Kenya: Report on the 2002 Election." New York: HRW. https://www.hrw.org/reports/2002/kenya/

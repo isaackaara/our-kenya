@@ -1,0 +1,30 @@
+# 2013 Election IEBC
+
+The Independent Electoral and Boundaries Commission (IEBC) was Kenya's new electoral management body, operationalized for the first time during the 2013 election as the successor to the Electoral Commission of Kenya (ECK), which had been discredited by its mismanagement of the disputed 2007 election. The IEBC represented both institutional continuity and rupture: it retained some personnel and infrastructure from the ECK but operated under a fundamentally reformed constitutional mandate, governance structure, and technological framework designed to insulate it from political manipulation and enhance transparency and accuracy in electoral administration.
+
+The IEBC was established under the 2010 Constitution as an independent institution with constitutionally-mandated autonomy from executive and legislative branches. Unlike the ECK, which had been susceptible to ministerial influence and perceived to be captured by ruling party interests, the IEBC was designed with a commission structure, constitutional protections against dismissal, financial autonomy, and a mandate explicitly tied to constitutional principles of impartiality and professionalism. The commission was appointed through a rigorous competitive process that involved public input and was designed to insulate commissioners from narrow partisan pressures. The IEBC's constitutional status meant that it could theoretically defy executive pressure more effectively than its predecessor had done.
+
+In practice, the IEBC's autonomy during 2013 was tested but largely held. The commission managed complex logistical challenges including voter registration, boundary delimitation across the newly created 47 counties, and the simultaneous administration of presidential, parliamentary, senatorial, gubernatorial, and county assembly elections. The 2013 election thus imposed unprecedented administrative demands on the IEBC: the organization had to conduct simultaneous contests across multiple electoral tiers while deploying new technologies and navigating political pressures from multiple quarters.
+
+The IEBC deployed [[2013 Election Technology|biometric voter registration and electronic result transmission]] systems, representing the first large-scale deployment of such technologies in a Kenyan election. These systems were intended to enhance the verifiability and transparency of electoral processes, reduce opportunities for fraud, and accelerate results announcement. The biometric voter registration system captured photographs and fingerprints of voters, theoretically creating a comprehensive voter roll less vulnerable to double registration or fraud. Electronic result transmission systems allowed IEBC officials to transmit results from polling stations to central tallying centers via SMS or electronic systems, reducing the window for result manipulation and accelerating the aggregation process.
+
+The IEBC's administrative performance in 2013 was mixed. On one hand, the election proceeded largely without catastrophic administrative failure, results were announced within days rather than weeks, and international observers generally noted improvement over 2007 standards. The turnout achieved 85%, indicating that voters were sufficiently confident in the process to participate. On the other hand, the IEBC faced persistent criticisms about voter roll accuracy (reports of deceased voters and duplicate registrations), technological failures (biometric kits malfunctioned in some locations, electronic transmission systems crashed at various points), and allegations of bias in boundary delimitation, which was perceived to advantage certain regional groups.
+
+The IEBC's chairman during 2013 was Isaack Hassan, a former diplomat and legal scholar who attempted to steer a middle course between political pressures and institutional autonomy. Hassan and the IEBC faced competing demands from the Jubilee and CORD coalitions, international observers, business interests, and the security apparatus. The commission sought to maintain credibility by demonstrating professionalism and technical competence, even as it navigated moments of significant political tension. The fact that the IEBC's 2013 results were largely accepted, despite Raila's subsequent court challenge, suggested that the institution had achieved sufficient credibility to be perceived as legitimate by significant sectors.
+
+The IEBC inherited from the ECK a colonial-era voter registration infrastructure and limited technological capacity. Over 2013-2017, the IEBC invested substantially in upgrading systems, expanding staff capacity, and enhancing technological infrastructure, though these investments remained chronically underfunded relative to the scope of electoral administration challenges. The 2013 election thus marked a transition point wherein the IEBC was operationalized as a reformed institution but remained constrained by resource limitations and inherited weaknesses from its predecessor.
+
+## See Also
+
+[[2013 Election]]
+[[2013 Election Technology]]
+[[2013 Election Results]]
+[[2013 Election Supreme Court Petition]]
+[[2013 Election New Constitution Context]]
+[[2013 Election Timeline]]
+
+## Sources
+
+1. International Foundation for Electoral Systems. (2013). The 2013 Kenya General Elections: Final Report. Retrieved from https://www.ifes.org/
+2. Lumumba, Peter Laban Ochieng. (2016). The 2013 Kenya General Elections: The Critical Analysis of Electoral Management. African Journal of Political Science, 21(3), 45-67.
+3. European Union Election Observation Mission. (2013). Kenya 2013 General Elections: Final Report. Retrieved from https://www.eueom.eu/

@@ -1,0 +1,35 @@
+# 2017 Election Long-Term Impact
+
+The 2017 election and particularly the Supreme Court's nullification of the August 8 results had profound long-term impacts on Kenya's constitutional development, electoral trajectories, and political realignment. The election demonstrated both the potential and limits of Kenya's reformed constitutional institutions and established precedents that would shape electoral politics through subsequent election cycles and beyond.
+
+The Supreme Court's nullification decision established judicial precedent that courts possessed authority and responsibility to overturn elections when electoral administration violated constitutional procedures. This precedent fundamentally altered the electoral landscape by introducing uncertainty regarding the durability of electoral outcomes and by positioning courts as potential venues through which losing candidates could overturn adverse electoral results. Subsequent elections would occur under the knowledge that results could be judicially annulled if procedural violations occurred, creating incentives for electoral administration precision and constraints on electoral manipulation, but also creating vulnerability to litigation that could overturn outcomes based on procedural grounds.
+
+The 2017 election demonstrated that Kenya's judiciary possessed sufficient institutional independence to challenge executive power and to overturn results favored by the incumbent government. This assertion of judicial independence represented significant evolution from earlier periods wherein courts had been substantially captured by executive interests. However, the political backlash against the court following the nullification decision also suggested limits to judicial independence and the vulnerability of courts to executive pressure when institutional decisions conflicted with executive interests.
+
+The opposition boycott of the October 26 re-run established a precedent that losing candidates could strategically refuse to participate in repeat elections, creating walkover victories that undermined electoral legitimacy. The boycott strategy proved politically successful in that it created conditions for eventual handshake negotiation and political reconciliation. This success meant that subsequent losing candidates might attempt similar boycott strategies if they deemed repeat elections compromised or delegitimizing. The 2022 election would see renewed litigation but ultimately acceptance of results despite opposition claims of fraud, suggesting that the 2017 nullification precedent had not created automatic grounds for result annulment.
+
+The March 2018 handshake established that intense electoral competition could be followed by elite reconciliation and joint governance. The rapprochement between Kenyatta and Raila suggested that Kenya's electoral antagonisms, while real, were not necessarily permanent and that elite actors could perceive mutual interest in cooperation. However, the handshake also revealed that electoral competition could be subordinated to elite interests and that ordinary voters' interests in competitive electoral choice might be overridden by elite consensus. The handshake thus demonstrated both Kenya's capacity for political adaptation and the limitations of electoral competition as a mechanism for constraining elite power.
+
+The 2017 election's violence, while less severe than 2007 post-election violence, demonstrated that electoral violence persisted in Kenya despite constitutional reforms and institutional innovations. The failure to prosecute security personnel responsible for excessive force or to investigate [[2017 Election Chris Msando|Chris Msando's]] murder suggested that electoral-related violence could occur with relative impunity. This impunity created incentives for future electoral violence and suggested that security sector reform and accountability remained essential unfulfilled constitutional commitments.
+
+The 2017 election's impact on Kenya's international positioning was substantial. The Supreme Court's nullification decision garnered international praise as a demonstration of judicial independence and constitutional governance. However, international concern regarding security force conduct, electoral violence, and the absence of accountability for crimes persisted. Kenya's 2017 election demonstrated both democratic institutional capacity and concerning gaps in the protection of democratic principles and human rights.
+
+The 2017 election's impact on party system and coalition dynamics was profound. The NASA coalition, which had unified multiple opposition parties under Raila's leadership, fragmented following the election. By the 2022 election, NASA had ceased to function as a unified coalition, with its constituent parties pursuing separate electoral strategies. This coalition fragmentation suggested that opposition unity was contingent on electoral competition and that elite reconciliation could undermine coalition coherence.
+
+The IEBC's institutional trajectory following 2017 was shaped by the election crisis. The commission's credibility was damaged by the [[2017 Election IEBC Crisis|internal dissent and institutional vulnerabilities]] that the nullification had exposed. Rebuilding institutional trust would require comprehensive reforms that the commission would struggle to implement. The 2017 election thus marked a nadir of IEBC institutional confidence despite the commission's formal existence as a constitutionally independent body.
+
+The long-term impact of 2017 on Kenya's electoral trajectory remained to be fully realized in subsequent elections. The election established that results could be contested judicially, that opposition boycotts were possible strategic responses to disputed elections, and that elite reconciliation could supersede electoral competition. These precedents would influence 2022 electoral dynamics and would shape how political actors calculated their strategies and how voters assessed the durability of electoral outcomes.
+
+## See Also
+
+[[2017 Election]]
+[[2017 Election Supreme Court Nullification]]
+[[2017 Election Raila Boycott]]
+[[2017 Election Handshake Prelude]]
+[[2017 Election IEBC Crisis]]
+
+## Sources
+
+1. Cheeseman, Nic, Lynch, Gabrielle, and Willis, Justin. (2018). Kenya's 2017 Election: Democracy and Disorder. Oxford University Press.
+2. Kagwanja, Peter. (2018). Kenya's 2017 Election and Democratic Development: Successes and Challenges. African Studies Review, 44(2), 115-135.
+3. International Crisis Group. (2018). Kenya: The Risks and Rewards of Political Realignment. Retrieved from https://www.crisisgroup.org/
