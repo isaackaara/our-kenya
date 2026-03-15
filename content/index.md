@@ -226,63 +226,66 @@ const trails = [
   }
 ];
 
-// Date-based seed
-const today = new Date().toDateString();
-const seed = today.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
+// Wrap all DOM manipulation in DOMContentLoaded
+document.addEventListener('DOMContentLoaded', function() {
+  // Date-based seed
+  const today = new Date().toDateString();
+  const seed = today.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
 
-// Display fact of the day
-const factIndex = seed % facts.length;
-const factEl = document.querySelector('#fact-of-day .ok-fact-text');
-if (factEl) {
-  factEl.textContent = facts[factIndex];
-}
-
-// Display trail of the day
-const trailIndex = seed % trails.length;
-const trail = trails[trailIndex];
-const trailCard = document.getElementById('trail-of-day');
-if (trailCard) {
-  trailCard.querySelector('.ok-trail-category').textContent = trail.category;
-  trailCard.querySelector('.ok-trail-name').textContent = trail.name;
-  trailCard.querySelector('.ok-trail-desc').textContent = trail.description;
-  const trailBtn = trailCard.querySelector('.ok-trail-btn');
-  trailBtn.href = `/Trails/${trail.name.replace(/\s+/g, '-')}`;
-}
-
-// Display featured trails (hardcoded 3)
-const featuredContainer = document.getElementById('featured-trails');
-if (featuredContainer) {
-  trails.forEach(trail => {
-    const card = document.createElement('div');
-    card.className = 'ok-featured-trail-card';
-    card.innerHTML = `
-      <div class="ok-trail-category-pill">${trail.category}</div>
-      <h3 class="ok-featured-trail-name">${trail.name}</h3>
-      <p class="ok-featured-trail-desc">${trail.description}</p>
-      <a href="/Trails/${trail.name.replace(/\s+/g, '-')}" class="ok-featured-trail-link">Start Trail →</a>
-    `;
-    featuredContainer.appendChild(card);
-  });
-}
-
-// Share functionality
-function shareOurKenya() {
-  const shareData = {
-    title: 'Our Kenya',
-    text: "I found this incredible website about Kenya's history -- 5,000 articles covering everything from the Swahili coast to Silicon Savannah.",
-    url: 'https://ourkenya.com'
-  };
-
-  if (navigator.share) {
-    navigator.share(shareData).catch(() => {});
-  } else {
-    // Fallback to WhatsApp
-    const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(shareData.text + ' ' + shareData.url)}`;
-    window.open(whatsappUrl, '_blank');
+  // Display fact of the day
+  const factIndex = seed % facts.length;
+  const factEl = document.querySelector('#fact-of-day .ok-fact-text');
+  if (factEl) {
+    factEl.textContent = facts[factIndex];
   }
-}
 
-// Add share button listeners
-document.getElementById('hero-share')?.addEventListener('click', shareOurKenya);
-document.getElementById('footer-share')?.addEventListener('click', shareOurKenya);
+  // Display trail of the day
+  const trailIndex = seed % trails.length;
+  const trail = trails[trailIndex];
+  const trailCard = document.getElementById('trail-of-day');
+  if (trailCard) {
+    trailCard.querySelector('.ok-trail-category').textContent = trail.category;
+    trailCard.querySelector('.ok-trail-name').textContent = trail.name;
+    trailCard.querySelector('.ok-trail-desc').textContent = trail.description;
+    const trailBtn = trailCard.querySelector('.ok-trail-btn');
+    trailBtn.href = `/Trails/${trail.name.replace(/\s+/g, '-')}`;
+  }
+
+  // Display featured trails (hardcoded 3)
+  const featuredContainer = document.getElementById('featured-trails');
+  if (featuredContainer) {
+    trails.forEach(trail => {
+      const card = document.createElement('div');
+      card.className = 'ok-featured-trail-card';
+      card.innerHTML = `
+        <div class="ok-trail-category-pill">${trail.category}</div>
+        <h3 class="ok-featured-trail-name">${trail.name}</h3>
+        <p class="ok-featured-trail-desc">${trail.description}</p>
+        <a href="/Trails/${trail.name.replace(/\s+/g, '-')}" class="ok-featured-trail-link">Start Trail →</a>
+      `;
+      featuredContainer.appendChild(card);
+    });
+  }
+
+  // Share functionality
+  function shareOurKenya() {
+    const shareData = {
+      title: 'Our Kenya',
+      text: "I found this incredible website about Kenya's history -- 5,000 articles covering everything from the Swahili coast to Silicon Savannah.",
+      url: 'https://ourkenya.com'
+    };
+
+    if (navigator.share) {
+      navigator.share(shareData).catch(() => {});
+    } else {
+      // Fallback to WhatsApp
+      const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(shareData.text + ' ' + shareData.url)}`;
+      window.open(whatsappUrl, '_blank');
+    }
+  }
+
+  // Add share button listeners
+  document.getElementById('hero-share')?.addEventListener('click', shareOurKenya);
+  document.getElementById('footer-share')?.addEventListener('click', shareOurKenya);
+});
 </script>
