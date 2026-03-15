@@ -1,6 +1,6 @@
 # Mau Forest Controversy
 
-The Mau Complex (locally called Mau Forest) is Kenya's largest and most critical forest system, covering approximately 400,000 hectares (1 million acres) in the southwestern highlands. The forest serves as a water tower supplying multiple rivers and thousands of liters of water daily to surrounding regions. However, the forest has experienced catastrophic degradation due to political allocation, illegal logging, and settlement pressure.
+The [[Mau Forest Crisis|Mau Complex]] (locally called Mau Forest) is Kenya's largest and most critical forest system, covering approximately 400,000 hectares (1 million acres) in the southwestern highlands. The forest serves as a water tower supplying multiple rivers and thousands of liters of water daily to surrounding regions. However, the forest has experienced catastrophic degradation due to political allocation, illegal logging, and settlement pressure.
 
 ## Forest Significance and Watershed Function
 
@@ -24,7 +24,7 @@ Biodiversity loss in the Mau has been catastrophic. Forest-dependent species fac
 
 ## The Ogiek Indigenous Population
 
-The Mau Forest region has been home to the Ogiek, a forest-dwelling indigenous people who have inhabited the forest for centuries. The Ogiek practiced sustainable forest use, hunting, gathering, and beekeeping with minimal forest degradation.
+The Mau Forest region has been home to the [[Ogiek and the Mau Forest|Ogiek]], a forest-dwelling indigenous people who have inhabited the forest for centuries. The Ogiek practiced sustainable forest use, hunting, gathering, and beekeeping with minimal forest degradation.
 
 Mau deforestation and land allocations have displaced the Ogiek from forest lands, separating them from traditional livelihoods and cultural practices. Multiple government eviction campaigns have relocated Ogiek communities, denying them forest access.
 
@@ -51,6 +51,15 @@ Political interests continue to conflict with conservation. Some politicians pus
 Climate change threatens to intensify water stress. If rainfall decreases (as some models project), forest water capture becomes even more critical for dry-season water availability. Loss of forest cover reduces the system's resilience to climate variability.
 
 The Mau's future is critical for Kenya's long-term water security, potentially affecting millions of people. This makes Mau restoration not merely conservation priority but national security priority.
+
+## See Also
+
+- [[Mau Forest Crisis]] - Detailed crisis documentation
+- [[Ogiek and the Mau Forest]] - Indigenous community context
+- [[Wangari Maathai]] - Conservation advocacy leadership
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Green Belt Movement]] - Reforestation initiatives
+- [[Rewilding Efforts Kenya]] - Restoration approaches
 
 ## Sources
 

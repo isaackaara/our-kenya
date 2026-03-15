@@ -1,6 +1,6 @@
 # Joy Adamson Born Free
 
-Joy Adamson's work rehabilitating Elsa the lioness and the subsequent book and film "Born Free" fundamentally transformed global attitudes toward wildlife and conservation. Adamson demonstrated that wild animals could be rehabilitated and released successfully, and her story captivated the world, influencing conservation sentiment for generations.
+Joy Adamson's work rehabilitating Elsa the lioness and the subsequent book and film "Born Free" fundamentally transformed global attitudes toward [[Kenya as Global Conservation Model|wildlife]] and [[Kenya Conservation Overview|conservation]]. Adamson demonstrated that wild animals could be rehabilitated and released successfully, and her story captivated the world, influencing conservation sentiment for generations.
 
 ## Joy Adamson and Her Conservation Vision
 
@@ -10,7 +10,7 @@ Adamson's conservation philosophy emphasized the capacity of wild animals to rec
 
 ## Elsa the Lioness
 
-In 1956, Adamson and her husband George Adamson adopted three young lioness cubs from the wild, orphaned after their mother was killed by a game ranger in Meru National Park. George and Joy raised the cubs with the goal of returning them to the wild, challenging conventional wisdom that captive-raised lions could not survive independently.
+In 1956, Adamson and her husband George Adamson adopted three young lioness cubs from the wild, orphaned after their mother was killed by a game ranger in [[Meru National Park]]. George and Joy raised the cubs with the goal of returning them to the wild, challenging conventional wisdom that captive-raised lions could not survive independently.
 
 Two of the cubs did not adapt well and were transferred to zoos. Elsa thrived under the Adamsons' care and management, developing a strong bond with Joy while maintaining independence and wild instincts. After several years of careful rehabilitation, Elsa was successfully released into the wild in Meru National Park, where she lived independently and eventually reproduced.
 
@@ -45,6 +45,15 @@ Additionally, Adamson's personal life was marked by complexity, including multip
 ## Influence on Conservation Ethics
 
 "Born Free" contributed significantly to conservation ethics that emphasize individual animal welfare alongside population and ecosystem protection. The story raised consciousness about the capacities and intrinsic worth of individual wild animals, influencing contemporary conservation practice and philosophy.
+
+## See Also
+
+- [[Kenya as Global Conservation Model]] - Conservation leadership context
+- [[Kenya Conservation Overview]] - National conservation framework
+- [[Meru National Park]] - Site of Elsa rehabilitation
+- [[Lion Population Kenya]] - Species outcome and management
+- [[David Sheldrick]] - Contemporary rehabilitation pioneer
+- [[Community Conservancies Model]] - Modern conservation approaches
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Ol Pejeta Conservancy
 
-Ol Pejeta Conservancy, located on Laikipia Plateau in central Kenya, is one of Kenya's largest private conservancies and a center for critically endangered species protection. The conservancy is home to the last two northern white rhinos on Earth and operates the Sweetwaters chimp sanctuary. Ol Pejeta exemplifies intensive conservation management for species rescue and recovery.
+[[Ol Pejeta Conservancy]], located on [[Laikipia Plateau]] in central Kenya, is one of Kenya's largest [[private conservation|private conservancies]] and a center for critically [[endangered species]] protection. The conservancy is home to the last two [[northern white rhino|northern white rhinos]] on Earth and operates the Sweetwaters chimp sanctuary. Ol Pejeta exemplifies intensive conservation management for species rescue and recovery.
 
 ## Size and Location
 
@@ -51,6 +51,16 @@ Ol Pejeta exemplifies private conservation approaches, with long-term owner comm
 ## International Significance
 
 Ol Pejeta's role as repository for the last northern white rhinos gives it international conservation significance. The conservancy has attracted international attention and support.
+
+## See Also
+
+- [[Rhino Conservation Kenya]] - Broader rhino protection efforts
+- [[Laikipia Plateau]] - Regional conservancy network
+- [[Wildlife Corridors Kenya]] - Landscape connectivity
+- [[Endangered Species]] - Critical species recovery
+- [[Anti-Poaching Technology]] - Security operations
+- [[Community Conservancies Model]] - Benefit sharing approaches
+- [[Private Conservation Model]] - Sustainability challenges
 
 ## Sources
 

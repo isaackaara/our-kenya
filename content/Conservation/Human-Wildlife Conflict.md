@@ -1,6 +1,6 @@
 # Human-Wildlife Conflict
 
-Human-wildlife conflict represents one of Kenya's most intractable conservation challenges, reflecting the fundamental tension between wildlife conservation and human livelihood protection. As human populations expand and wildlife habitat contracts, conflicts intensify, threatening both wildlife populations and human communities.
+Human-wildlife conflict represents one of Kenya's most intractable [[Kenya Conservation Overview|conservation challenge]], reflecting the fundamental tension between [[Kenya Wildlife Service|wildlife protection]] and human livelihood. As human populations expand and [[Kenya as Global Conservation Model|wildlife habitat]] contracts, conflicts intensify, threatening both species and communities.
 
 ## Elephant Crop Raiding
 
@@ -57,6 +57,16 @@ Potential solutions to human-wildlife conflict require integrated approaches add
 Fundamental questions about long-term wildlife conservation viability arise from human-wildlife conflict analysis. Can Kenya's human population and wildlife populations coexist at projected human population growth rates? Do wildlife habitat requirements and human development demands have unavoidable overlap that makes coexistence impossible?
 
 Optimistic perspectives emphasize integration of conservation and human development. Pessimistic perspectives suggest that human population growth and development will inevitably eliminate most wildlife habitat outside of fenced protected areas.
+
+## See Also
+
+- [[Kenya as Global Conservation Model]] - Conservation integration strategies
+- [[Laikipia Conservancy Network]] - Community-based conflict solutions
+- [[Kenya Wildlife Service]] - Enforcement and compensation mechanisms
+- [[Lewa Wildlife Conservancy]] - Coexistence models in action
+- [[Community Conservancies Model]] - Alternative land use approaches
+- [[Maasai Mara National Reserve]] - Large-scale wildlife-human interface
+- [[Kenya Elephant Population]] - Specific conflict context
 
 ## Sources
 

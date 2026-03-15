@@ -1,6 +1,6 @@
 # Lewa Wildlife Conservancy
 
-Lewa Wildlife Conservancy, located on Laikipia Plateau in central Kenya, is one of Africa's most successful private wildlife conservancies and a pioneering model for community-based conservation integrated with commercial operations. Established in 1995, Lewa has become an international benchmark for conservation effectiveness and sustainable use integration.
+Lewa Wildlife Conservancy, located on [[Laikipia Plateau]] in central Kenya, is one of Africa's most successful private wildlife conservancies and a pioneering [[Kenya as Global Conservation Model|model for conservation]] integrated with commercial operations. Established in 1995, Lewa has become an international benchmark for conservation effectiveness and sustainable use integration.
 
 ## History and Founding
 
@@ -38,11 +38,11 @@ Lewa hosts long-term research programs contributing to understanding of East Afr
 
 ## Integration with Community Conservancies
 
-Lewa has worked with adjacent community conservancies in a landscape-scale conservation approach. The integration recognizes that wildlife ranges extend beyond Lewa boundaries and that landscape connectivity requires cooperation with neighboring areas.
+Lewa has worked with adjacent [[Community Conservancies Model|community conservancies]] in a landscape-scale conservation approach. The integration recognizes that wildlife ranges extend beyond Lewa boundaries and that landscape connectivity requires cooperation with neighboring areas.
 
 ## Private Conservation Model
 
-Lewa exemplifies private conservation approaches that are alternative to government protection. Private conservation provides advantages including sustained funding, long-term vision, and management continuity. However, private conservation depends on continued owner commitment and may limit community participation.
+Lewa exemplifies [[Kenya as Global Conservation Model|private conservation approaches]] that are alternative to government protection. Private conservation provides advantages including sustained funding, long-term vision, and management continuity. However, private conservation depends on continued owner commitment and may limit community participation.
 
 ## Challenges and Criticisms
 
@@ -51,6 +51,15 @@ Critics argue that Lewa's success depends on exceptional owner commitment and re
 ## International Recognition
 
 Lewa has achieved international recognition, including designation as an Important Bird Area and support from international conservation organizations. International profile has contributed to conservation funding and visibility.
+
+## See Also
+
+- [[Laikipia Conservancy Network]] - Broader conservancy network
+- [[Laikipia Plateau]] - Geographic and ecological context
+- [[Kenya as Global Conservation Model]] - Private conservation model
+- [[Community Conservancies Model]] - Community-based alternatives
+- [[Kenya Conservation Overview]] - System-wide context
+- [[Kenya Wildlife Service]] - Government conservation role
 
 ## Sources
 

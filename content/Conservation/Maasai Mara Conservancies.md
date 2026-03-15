@@ -1,6 +1,6 @@
 # Maasai Mara Conservancies
 
-The conservancies bordering the Maasai Mara National Reserve represent a distinctive model of community-based wildlife conservation where Maasai landowners lease land for conservation use while retaining ownership. These conservancies have become increasingly important for wildlife protection, extending the effective conservation area beyond the national reserve boundaries.
+The conservancies bordering the [[Maasai Mara National Reserve]] represent a distinctive model of [[Community Conservancies Model|community-based wildlife conservation]] where Maasai landowners lease land for conservation use while retaining ownership. These conservancies have become increasingly important for wildlife protection, extending the effective conservation area beyond the national reserve boundaries.
 
 ## Conservation Area Expansion
 
@@ -53,6 +53,16 @@ The Maasai Mara ecosystem is vulnerable to climate change, with increasing droug
 ## Future Challenges and Opportunities
 
 The Maasai Mara conservancies face challenges from market volatility affecting tourism, potential changes in land tenure, and climate variability. However, the conservancy model has demonstrated capacity to protect large wildlife populations while providing community benefits. Scaling and sustaining this model depends on maintaining economic viability, ensuring equitable benefit distribution, and adapting to environmental change.
+
+## See Also
+
+- [[Maasai Mara National Reserve]] - Core protected area
+- [[Community Conservancies Model]] - Community-based conservation
+- [[Kenya as Global Conservation Model]] - Conservation models
+- [[Lion Population Kenya]] - Predator populations
+- [[Kenya Conservation Overview]] - System-wide context
+- [[Human-Wildlife Conflict]] - Coexistence management
+- [[Laikipia Conservancy Network]] - Alternative conservancy models
 
 ## Sources
 

@@ -4,9 +4,9 @@ Kenya is a significant player in global illegal wildlife trafficking, serving as
 
 ## Scale and Economic Value
 
-The global illegal wildlife trade is valued at billions of dollars annually, making it one of the most profitable criminal enterprises globally. Kenya's role in this trade is substantial, with significant poaching within the country and trafficking through Kenya to international markets.
+The global illegal [[Ivory Trade Politics|wildlife trade]] is valued at billions of dollars annually, making it one of the most profitable criminal enterprises globally. Kenya's role in this trade is substantial, with significant poaching within the country and trafficking through Kenya to international markets.
 
-The high economic value of wildlife products creates powerful incentive for poaching and trafficking. Prices for ivory, rhino horn, and other products remain very high on illegal markets, particularly in East Asia, driving continued poaching pressure.
+The high economic value of wildlife products creates powerful incentive for poaching and trafficking. Prices for [[Ivory Ban 1989|ivory]], rhino horn, and other products remain very high on illegal markets, particularly in East Asia, driving continued poaching pressure.
 
 ## Primary Species Targeted
 
@@ -85,6 +85,15 @@ Strengthening customs capacity is important for interrupting trafficking. Intern
 ## Future Outlook
 
 Illegal wildlife trade will likely continue as long as demand persists and profit incentives are high. Reducing trafficking requires comprehensive efforts including source country enforcement, transit country interdiction, demand reduction in destination countries, and addressing underlying drivers including poverty and corruption.
+
+## See Also
+
+- [[Ivory Ban 1989]] - International trade regulation history
+- [[Kenya and CITES]] - Convention framework and enforcement
+- [[Kenya Wildlife Service]] - Law enforcement operations
+- [[Kenya Elephant Population]] - Primary target species context
+- [[Ivory Trade Politics]] - Economic and political dimensions
+- [[Kenya as Global Conservation Model]] - Enforcement leadership
 
 ## Sources
 

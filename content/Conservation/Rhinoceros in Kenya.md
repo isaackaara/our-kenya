@@ -1,6 +1,6 @@
 # Rhinoceros in Kenya
 
-Kenya's rhino populations, including black and white rhinos, have experienced catastrophic decline and intensive recovery efforts. The near-extinction of both species and subsequent conservation efforts represent both conservation tragedy and potential success story, depending on species and management approach.
+Kenya's [[rhino]] populations, including [[black rhino|black]] and [[white rhino|white rhinos]], have experienced catastrophic decline and intensive recovery efforts. The near-extinction of both species and subsequent conservation efforts represent both conservation tragedy and potential success story, depending on species and management approach.
 
 ## Black Rhino Status
 
@@ -21,6 +21,16 @@ Small populations face genetic and demographic challenges. Management focuses on
 ## Future Prospects
 
 Black rhino recovery offers modest hope, though numerous challenges remain. Northern white rhino survival depends on advanced reproductive technology. Southern white rhino reintroduction has uncertain long-term prospects.
+
+## See Also
+
+- [[Rhino Conservation Kenya]] - Conservation strategy and recovery
+- [[Poaching Crisis 1970s-1980s]] - Historical decline context
+- [[Ol Pejeta Conservancy]] - Northern white rhino sanctuary
+- [[Anti-Poaching Technology]] - Protection methods
+- [[Kenya Wildlife Service]] - Management authority
+- [[Rewilding Efforts Kenya]] - Species reintroduction
+- [[Richard Leakey KWS]] - Leadership during recovery
 
 ## Sources
 

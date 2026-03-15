@@ -1,6 +1,6 @@
 # Laikipia Land Conflicts 2017
 
-In 2017, Laikipia Plateau experienced significant land-based violence when pastoralist communities, primarily Samburu and Pokot herders, invaded multiple private conservancies and ranches in protest over land access restrictions and economic marginalization. The invasions resulted in substantial wildlife and livestock deaths and demonstrated the fragility of conservation models that exclude communities from land access and benefits.
+In 2017, [[Laikipia Plateau]] experienced significant land-based violence when pastoralist communities, primarily Samburu and Pokot herders, invaded multiple private conservancies and ranches in protest over land access restrictions and economic marginalization. The invasions resulted in substantial wildlife and livestock deaths and demonstrated the fragility of [[Laikipia Conservancy Network|conservation models]] that exclude communities from land access and benefits.
 
 ## Background and Context
 
@@ -59,6 +59,16 @@ However, policy changes have been limited. Some conservancies have reformed gove
 ## Comparison with Earlier Conflicts
 
 The 2017 Laikipia invasions were not the first land conflicts in Kenya's conservation history. Similar conflicts have occurred in other areas where conservation restrictions affected pastoral communities. The 2017 conflicts were notable for their scale and impact on conservancy-based conservation specifically.
+
+## See Also
+
+- [[Laikipia Plateau]] - Landscape and geography context
+- [[Laikipia Conservancy Network]] - Conservation model overview
+- [[Human-Wildlife Conflict]] - Broader conflict framework
+- [[Kenya Conservation Overview]] - System-wide conservation challenges
+- [[Community Conservancies Model]] - Alternative community approaches
+- [[Lewa Wildlife Conservancy]] - Individual conservancy context
+- [[Kenya as Global Conservation Model]] - Conservation strategy debates
 
 ## Sources
 

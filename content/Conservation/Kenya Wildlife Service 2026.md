@@ -1,6 +1,6 @@
 # Kenya Wildlife Service 2026
 
-The Kenya Wildlife Service (KWS) is the primary government agency responsible for wildlife conservation and management in Kenya, operating under the Ministry of Tourism. The organization has evolved substantially since its establishment, with varying effectiveness and capacity. As of 2026, KWS faces ongoing challenges including funding constraints, staffing pressures, corruption risks, and adaptation to contemporary conservation challenges including climate change and community engagement.
+The [[Kenya Wildlife Service|Kenya Wildlife Service]] (KWS) is the primary government agency responsible for [[Kenya Conservation Overview|wildlife conservation and management]] in Kenya, operating under the Ministry of Tourism. The organization has evolved substantially since its establishment, with varying effectiveness and capacity. As of 2026, KWS faces ongoing challenges including funding constraints, staffing pressures, corruption risks, and adaptation to contemporary conservation challenges including climate change and community engagement.
 
 ## Organization and Mandate
 
@@ -77,6 +77,15 @@ KWS develops wildlife management policies in consultation with stakeholders. Pol
 ## Future Challenges and Outlook
 
 KWS faces ongoing challenges including climate change impacts, increasing human pressure on protected areas, inadequate funding, community tensions over land rights and wildlife, and adaptation to changing conservation paradigms. Wildlife conservation in Kenya will require increased investment, institutional reforms, and integration with community engagement and sustainable development.
+
+## See Also
+
+- [[Kenya Wildlife Service]] - Historical context and founding
+- [[Kenya Conservation Overview]] - System-wide conservation strategy
+- [[Kenya as Global Conservation Model]] - International leadership
+- [[Human-Wildlife Conflict]] - Community engagement challenges
+- [[Laikipia Conservancy Network]] - Partnership models
+- [[Kenya Elephant Population]] - Population management outcomes
 
 ## Sources
 

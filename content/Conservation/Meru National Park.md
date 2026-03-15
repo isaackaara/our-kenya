@@ -1,6 +1,6 @@
 # Meru National Park
 
-Meru National Park, located in eastern Kenya near the town of Meru, is a 870-square-kilometer protected area with a remarkable conservation history. The park is famous as the location where Joy Adamson raised Elsa, the lioness featured in the book and film "Born Free," which profoundly influenced global conservation attitudes. The park combines stunning scenery with wildlife diversity and cultural significance.
+Meru National Park, located in eastern Kenya near the town of Meru, is a 870-square-kilometer protected area with a remarkable [[Joy Adamson Born Free|conservation history]]. The park is famous as the location where [[Joy Adamson Born Free|Joy Adamson raised Elsa]], the lioness featured in the book and film "Born Free," which profoundly influenced global [[Kenya as Global Conservation Model|conservation attitudes]]. The park combines stunning scenery with wildlife diversity and cultural significance.
 
 ## Geography and Ecology
 
@@ -12,11 +12,11 @@ The park supports populations of lion, leopard, cheetah, buffalo, elephant, zebr
 
 ## The Elsa Legacy and Joy Adamson
 
-Joy Adamson, a pioneering wildlife conservationist, raised a young lioness named Elsa at Meru National Park in the 1950s. Adamson's goal was to rehabilitate the orphaned lion and release her back into the wild, challenging prevailing assumptions that this was impossible. Elsa's successful release and survival became the basis for Adamson's bestselling book "Born Free" (1960), adapted into an Academy Award-winning film in 1966. The international success of "Born Free" dramatically shifted global attitudes toward wildlife conservation, inspiring millions of people to support conservation efforts.
+[[Joy Adamson Born Free|Joy Adamson]], a pioneering wildlife conservationist, raised a young lioness named Elsa at Meru National Park in the 1950s. Adamson's goal was to rehabilitate the orphaned lion and release her back into the wild, challenging prevailing assumptions that this was impossible. Elsa's successful release and survival became the basis for Adamson's bestselling book "Born Free" (1960), adapted into an Academy Award-winning film in 1966. The international success of "Born Free" dramatically shifted global attitudes toward wildlife conservation, inspiring millions of people to support conservation efforts.
 
 ## George Adamson and Kora National Reserve
 
-George Adamson, Joy's former husband, continued similar rehabilitation work with lions at the nearby Kora National Reserve. His decades of dedication to lion rehabilitation and conservation made him a legend in African wildlife circles. George was killed by poachers in 1989 while working to protect wildlife at Kora, a loss that underscored the dangers faced by conservation workers.
+[[David Sheldrick|George Adamson]], Joy's former husband, continued similar rehabilitation work with lions at the nearby Kora National Reserve. His decades of dedication to lion rehabilitation and conservation made him a legend in African wildlife circles. George was killed by poachers in 1989 while working to protect wildlife at Kora, a loss that underscored the dangers faced by conservation workers.
 
 ## Rhino Sanctuary and Endangered Species
 
@@ -37,6 +37,15 @@ The park is located in the homeland of Meru people, who have long inhabited the 
 ## Current Status and Recovery
 
 Recent years have seen improved security, increased tourism, and expanding wildlife populations. However, maintaining momentum requires continued investment in anti-poaching efforts, habitat management, and community relations.
+
+## See Also
+
+- [[Joy Adamson Born Free]] - Conservation legacy context
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Kenya Wildlife Service]] - Management and protection
+- [[Lion Population Kenya]] - Species conservation context
+- [[Kenya as Global Conservation Model]] - International significance
+- [[Human-Wildlife Conflict]] - Community conservation balance
 
 ## Sources
 

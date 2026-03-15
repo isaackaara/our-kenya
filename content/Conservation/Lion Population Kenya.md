@@ -1,6 +1,6 @@
 # Lion Population Kenya
 
-Kenya's lion population has declined substantially over recent decades, driven by habitat loss, prey depletion, disease, and human persecution. Lions remain iconic to Kenya's wildlife and attract significant tourism interest. However, conservation of Kenya's lion population faces ongoing challenges including human-wildlife conflict and habitat fragmentation.
+Kenya's lion population has declined substantially over recent decades, driven by habitat loss, prey depletion, disease, and [[Human-Wildlife Conflict|human persecution]]. Lions remain iconic to Kenya's [[Kenya as Global Conservation Model|wildlife]] and attract significant tourism interest. However, conservation of Kenya's lion population faces ongoing challenges including human-wildlife conflict and habitat fragmentation.
 
 ## Population Estimates and Trends
 
@@ -75,6 +75,16 @@ Climate change affects lions through impacts on prey availability (drought) and 
 ## Future of Lion Conservation
 
 Lion conservation in Kenya faces ongoing challenges but remains feasible with continued habitat protection, human-wildlife coexistence efforts, and community engagement. However, recovery to higher population levels would require major habitat restoration and management changes.
+
+## See Also
+
+- [[Maasai Mara National Reserve]] - Core lion habitat
+- [[Maasai Mara Conservancies]] - Extended habitat protection
+- [[Laikipia Conservancy Network]] - Northern populations
+- [[Human-Wildlife Conflict]] - Coexistence tensions
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Kenya Wildlife Service]] - Protection and monitoring
+- [[Kenya as Global Conservation Model]] - Conservation leadership
 
 ## Sources
 

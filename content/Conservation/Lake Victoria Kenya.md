@@ -1,6 +1,6 @@
 # Lake Victoria Kenya
 
-Lake Victoria, the world's second-largest freshwater lake, is shared by Kenya, Uganda, and Tanzania, with Kenya controlling approximately 30 percent of the lake surface. Lake Victoria supports major fisheries providing food security and livelihood for millions of people around the lake. However, the lake has undergone dramatic ecological changes from invasive species introductions and environmental degradation that have disrupted fisheries and ecosystem function.
+Lake Victoria, the world's second-largest freshwater lake, is shared by Kenya, Uganda, and Tanzania, with Kenya controlling approximately 30 percent of the lake surface. Lake Victoria supports major fisheries providing food security and livelihood for millions of people around the lake. However, the lake has undergone dramatic ecological changes from [[Nile Perch and Lake Victoria|invasive species]] introductions and environmental degradation that have disrupted fisheries and [[Kenya Conservation Overview|ecosystem]] function.
 
 ## Lake Victoria Geography and Ecology
 
@@ -67,6 +67,15 @@ Lake Victoria management requires cooperation among Kenya, Uganda, and Tanzania,
 Efforts to restore Lake Victoria ecosystems have focused on controlling invasive species, reducing pollution, and protecting remaining native fish populations. Protected areas have been established in some areas, and fishing restrictions limit catch in some seasons and locations.
 
 However, restoration of native fish communities has proven difficult, as Nile perch populations are now self-sustaining and impossible to eliminate. Management focuses on coexistence with invasive species rather than restoration to pre-invasion conditions.
+
+## See Also
+
+- [[Lake Naivasha Ecosystem]] - Freshwater lakes comparison
+- [[Lake Nakuru National Park]] - Rift Valley ecosystem
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Marine Life Kenya]] - Aquatic biodiversity
+- [[Kakamega Forest]] - Freshwater wetland ecosystems
+- [[Kenya Wildlife Service]] - Ecosystem management
 
 ## Sources
 

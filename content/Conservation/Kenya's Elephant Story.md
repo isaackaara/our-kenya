@@ -1,6 +1,6 @@
 # Kenya's Elephant Story
 
-Kenya's elephant population has experienced one of conservation history's most dramatic collapses and partial recovery, serving as a cautionary tale about extinction risk and a rare example of successful population rebound. This arc from abundance to near-extinction to recovery defines modern conservation in Kenya.
+Kenya's [[Kenya Elephant Population|elephant population]] has experienced one of conservation history's most dramatic collapses and partial recovery, serving as a cautionary tale about extinction risk and a rare example of successful population rebound. This arc from abundance to near-extinction to recovery defines modern [[Kenya Conservation Overview|conservation]] in Kenya.
 
 ## Pre-Poaching Abundance
 
@@ -24,15 +24,15 @@ International investigations documented that senior government officials profite
 
 ## The 1989 Ivory Burning
 
-By 1989, Kenya's conservation situation had reached crisis point. The government faced international pressure from conservation organizations demanding action. Dr. Richard Leakey, appointed to lead wildlife management, orchestrated a dramatic response: the July 18, 1989 ivory burning.
+By 1989, Kenya's conservation situation had reached crisis point. The government faced international pressure from conservation organizations demanding action. Dr. Richard Leakey, appointed to lead [[Kenya Wildlife Service|wildlife management]], orchestrated a dramatic response: the [[Ivory Burns Kenya|July 18, 1989 ivory burning]].
 
-On that day, President Daniel arap Moi set fire to 12 tonnes of confiscated elephant ivory in Nairobi National Park. The burning attracted international media attention and symbolized Kenya's commitment to elephant protection. The event pressured other nations to support a global ivory trade ban.
+On that day, President Daniel arap Moi set fire to 12 tonnes of confiscated elephant ivory in Nairobi National Park. The burning attracted international media attention and symbolized Kenya's commitment to elephant protection. The event pressured other nations to support a global [[Ivory Ban 1989|ivory trade ban]].
 
 The burning served practical purposes beyond symbolism. By destroying government ivory stocks, Leakey eliminated temptation for corrupt officials to sell seized ivory. This signaled that the government would not profit from poaching, potentially reducing incentive for participation in poaching networks.
 
 ## CITES Ban and International Response
 
-Six months after Kenya's ivory burning, in October 1989, the Convention on International Trade in Endangered Species (CITES) voted to list African elephants in Appendix I, banning commercial international ivory trade. Kenya's symbolic gesture contributed to this international decision by demonstrating government commitment to elephant protection.
+Six months after Kenya's ivory burning, in October 1989, [[Kenya and CITES|CITES]] voted to list African elephants in Appendix I, banning commercial international ivory trade. Kenya's symbolic gesture contributed to this international decision by demonstrating government commitment to elephant protection.
 
 The ban reduced international ivory demand and poaching pressure, contributing to population recovery in subsequent decades.
 
@@ -60,9 +60,19 @@ Human-elephant conflict represents a significant conservation challenge. As elep
 
 ## Current Status and Future
 
-Kenya's elephant populations remain endangered despite recovery. Long-term viability depends on continued protection from poaching, habitat preservation, and management of human-elephant conflict. Climate change threatens through altered rainfall patterns affecting forage availability.
+Kenya's elephant populations remain endangered despite recovery. Long-term viability depends on continued protection from poaching, habitat preservation, and management of [[Human-Wildlife Conflict|human-elephant conflict]]. Climate change threatens through altered rainfall patterns affecting forage availability.
 
 Kenya's elephant story demonstrates that extinction is not inevitable if populations are not reduced below viable thresholds. However, recovery requires sustained commitment, resources, and political will to enforce protection against economically-motivated poaching.
+
+## See Also
+
+- [[Ivory Burns Kenya]] - Symbolic turning point
+- [[Ivory Ban 1989]] - International policy response
+- [[Kenya Wildlife Service]] - Protection and enforcement
+- [[Human-Wildlife Conflict]] - Coexistence challenges
+- [[Kenya Conservation Overview]] - System-wide context
+- [[Illegal Wildlife Trade]] - Ongoing poaching threats
+- [[Kenya as Global Conservation Model]] - International significance
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Maasai Mara National Reserve
 
-The Maasai Mara National Reserve is Kenya's most famous and most visited wildlife reserve, containing extraordinary biodiversity and wildlife populations. The reserve encompasses approximately 1,500 square kilometers and protects diverse savanna ecosystems. The Great Migration of wildebeest and zebras across the Mara makes it globally significant for wildlife viewing.
+The Maasai Mara National Reserve is Kenya's most famous and most visited [[Kenya Conservation Overview|wildlife reserve]], containing extraordinary biodiversity and wildlife populations. The reserve encompasses approximately 1,500 square kilometers and protects diverse savanna ecosystems. The Great Migration of wildebeest and zebras across the Mara makes it globally significant for wildlife viewing.
 
 ## Geography and Ecosystem
 
@@ -12,7 +12,7 @@ The annual wildebeest and zebra migration, where millions of animals move betwee
 
 ## Predator Populations
 
-The Mara supports one of Africa's highest predator densities, with lions, leopards, cheetahs, hyenas, and wild dogs. Large predator populations demonstrate ecosystem productivity and effective protection.
+The Mara supports one of Africa's highest predator densities, with [[Lion Population Kenya|lions]], leopards, cheetahs, hyenas, and wild dogs. Large predator populations demonstrate ecosystem productivity and effective protection.
 
 ## Tourism and Economic Value
 
@@ -25,6 +25,16 @@ The Mara is managed as a national reserve by the Narok County Government, with s
 ## Conservation Challenges
 
 The Mara faces challenges including pressure from surrounding population growth, agricultural expansion into ecosystem margins, and balancing tourism with wildlife protection.
+
+## See Also
+
+- [[Maasai Mara Conservancies]] - Extended habitat network
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Kenya Wildlife Service]] - Management support
+- [[Lion Population Kenya]] - Predator conservation
+- [[Kenya as Global Conservation Model]] - International significance
+- [[Human-Wildlife Conflict]] - Edge pressures
+- [[Community Conservancies Model]] - Community land models
 
 ## Sources
 

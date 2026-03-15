@@ -1,6 +1,6 @@
 # Marine Life Kenya
 
-Kenya's marine ecosystems are among the most biodiverse in the Indian Ocean, encompassing coral reefs, seagrass beds, mangrove forests, and deep-water environments. The coast supports extraordinary marine biodiversity and provides critical ecosystem services to coastal communities. Marine conservation is an emerging priority as ocean degradation accelerates.
+Kenya's [[Malindi Marine Reserve|marine ecosystems]] are among the most biodiverse in the Indian Ocean, encompassing coral reefs, seagrass beds, mangrove forests, and deep-water environments. The coast supports extraordinary marine biodiversity and provides critical ecosystem services to coastal communities. [[Kenya Conservation Overview|Marine conservation]] is an emerging priority as ocean degradation accelerates.
 
 ## Coral Reefs and Reef Ecosystems
 
@@ -47,6 +47,15 @@ Ocean warming, acidification, and changing currents pose major threats to Kenya'
 ## Pollution and Plastic
 
 Marine pollution, including plastics from land sources and fishing gear, affects Kenya's marine ecosystems. Plastic ingestion by marine life, fishing net entanglement, and habitat fouling are increasing problems requiring waste management improvements and legislation.
+
+## See Also
+
+- [[Malindi Marine Reserve]] - Specific marine protected area
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Kenya Wildlife Service]] - Marine management
+- [[Lake Victoria Kenya]] - Freshwater ecosystem comparison
+- [[Lake Naivasha Ecosystem]] - Freshwater biodiversity
+- [[Kakamega Forest]] - Terrestrial wetland ecosystems
 
 ## Sources
 

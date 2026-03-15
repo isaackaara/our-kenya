@@ -42,6 +42,16 @@ The fragmented nature of Kenya's elephant populations has genetic implications. 
 
 While ivory poaching has declined dramatically from 1980s levels, it has not been eliminated. Occasional poaching incidents occur, and prices remain high on illegal markets. Vigilance is required to prevent resurgence of poaching.
 
+## See Also
+
+- [[Ivory Ban 1989]] - Policy intervention history
+- [[Kenya Wildlife Service]] - Enforcement and protection
+- [[Human-Wildlife Conflict]] - Coexistence tensions
+- [[Kenya as Global Conservation Model]] - International leadership
+- [[Laikipia Conservancy Network]] - Private conservation models
+- [[Kenya Conservation Overview]] - System-wide approach
+- [[Illegal Wildlife Trade]] - Ongoing trafficking threats
+
 ## Sources
 
 1. https://www.kws.go.ke/

@@ -1,6 +1,6 @@
 # Northern Rangelands Trust
 
-The Northern Rangelands Trust (NRT) is a community-based conservation network operating across northern Kenya's arid and semi-arid rangelands. Founded in 2004, the NRT has grown to coordinate 43 community conservancies covering approximately 44,000 square kilometers. The network represents a major model for community-based conservation, where pastoral communities manage land for wildlife conservation while deriving economic benefits from tourism and conservation-related employment.
+The Northern Rangelands Trust (NRT) is a [[community-based conservation]] network operating across northern Kenya's arid and semi-arid rangelands. Founded in 2004, the NRT has grown to coordinate 43 community conservancies covering approximately 44,000 square kilometers. The network represents a major model for [[community-based conservation]], where [[pastoralists|pastoral communities]] manage land for wildlife conservation while deriving economic benefits from [[Tourism Revenue and Communities|tourism]] and conservation-related employment.
 
 ## Founding and Mission
 
@@ -73,6 +73,16 @@ The NRT network hosts research and monitoring that contributes to understanding 
 ## Scaling and Replication
 
 The NRT model has been considered for replication in other regions and other countries. The demonstrated success in northern Kenya suggests potential for similar models in other pastoral areas facing conservation and development challenges.
+
+## See Also
+
+- [[Community Conservancies Model]] - Broader conservancy framework
+- [[Wildlife Corridors Kenya]] - Habitat connectivity management
+- [[Pastoralists and Conservation]] - Pastoral community relationships
+- [[Tourism Revenue and Communities]] - Economic benefits distribution
+- [[Laikipia Plateau]] - Geographic context for operations
+- [[Samburu National Reserve]] - Protected area complementarity
+- [[Climate Change and Wildlife]] - Adaptation through diversification
 
 ## Sources
 

@@ -30,7 +30,16 @@ Kenya hosts world-renowned research institutions studying conservation and wildl
 
 ## Current Conservation Landscape
 
-Kenya's conservation system faces complex challenges: human population growth strains boundaries between protected areas and settlements, climate change alters rainfall patterns affecting wildlife survival, poaching continues targeting elephants and rhinos, and infrastructure projects like the Standard Gauge Railway cut through wildlife corridors. Simultaneously, community conservancies represent emerging solutions, with organizations like the Northern Rangelands Trust demonstrating that conservation can generate income for pastoral communities while protecting wildlife.
+Kenya's conservation system faces complex challenges: human population growth strains boundaries between protected areas and settlements, climate change alters rainfall patterns affecting wildlife survival, [[Illegal Wildlife Trade|poaching]] continues targeting elephants and rhinos, and infrastructure projects like the Standard Gauge Railway cut through wildlife corridors. Simultaneously, [[Community Conservancies Model|community conservancies]] represent emerging solutions, with organizations like the Northern Rangelands Trust demonstrating that conservation can generate income for pastoral communities while protecting wildlife.
+
+## See Also
+
+- [[Kenya as Global Conservation Model]] - International conservation leadership
+- [[Kenya Wildlife Service]] - Primary enforcement and management agency
+- [[Maasai Mara National Reserve]] - Flagship protected area
+- [[Laikipia Conservancy Network]] - Community conservation model
+- [[Human-Wildlife Conflict]] - Conservation tension resolution
+- [[Kenya Elephant Population]] - Population management outcomes
 
 ## Sources
 

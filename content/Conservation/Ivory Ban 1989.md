@@ -4,7 +4,7 @@ The 1989 international ban on elephant ivory trade represents a pivotal moment i
 
 ## The Poaching Crisis Context
 
-By the late 1980s, African elephant populations had declined by an estimated 50 to 60 percent over the preceding decade. The primary driver was poaching for ivory, demanded by international markets where elephant tusks were carved into decorative objects, piano keys, and other luxury items. The trade was particularly driven by demand in East Asia, where wealth and consumer culture created strong markets for ivory products.
+By the late 1980s, African [[Kenya Elephant Population|elephant populations]] had declined by an estimated 50 to 60 percent over the preceding decade. The primary driver was poaching for [[Ivory Trade Politics|ivory]], demanded by international markets where elephant tusks were carved into decorative objects, piano keys, and other luxury items. The trade was particularly driven by demand in East Asia, where wealth and consumer culture created strong markets for ivory products.
 
 The scale of slaughter was unprecedented in the modern era. Elephant populations that had numbered in millions centuries earlier were being systematically eliminated. Conservation scientists and wildlife managers recognized that without fundamental market intervention, African elephants faced extinction in the wild within decades.
 
@@ -40,7 +40,16 @@ The ivory ban was considered successful by international conservation standards,
 
 ## Ivory Trade Resumption Debates
 
-Since the 1989 ban, there have been periodic proposals from southern African countries to allow limited ivory trade from populations with surplus elephants and sustainable management plans. CITES has occasionally authorized one-time sales of ivory stockpiles, generating international controversy. Proponents argue that regulated trade provides economic incentive for conservation, while opponents fear that any legal trade masks illegal trade and undermines conservation.
+Since the 1989 ban, there have been periodic proposals from southern African countries to allow limited ivory trade from populations with surplus elephants and sustainable management plans. [[Kenya and CITES|CITES]] has occasionally authorized one-time sales of ivory stockpiles, generating international controversy. Proponents argue that regulated trade provides economic incentive for conservation, while opponents fear that any legal trade masks illegal trade and undermines conservation.
+
+## See Also
+
+- [[Ivory Burns Kenya]] - Symbolic commitment demonstrations
+- [[Ivory Trade Politics]] - Policy debate framework
+- [[Kenya and CITES]] - International agreements and process
+- [[Kenya Wildlife Service]] - Implementation and enforcement
+- [[Kenya as Global Conservation Model]] - Leadership in conservation policy
+- [[Kenya's Elephant Story]] - Historical context and outcomes
 
 ## Sources
 

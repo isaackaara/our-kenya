@@ -1,6 +1,6 @@
 # Kenya Wildlife Service
 
-The Kenya Wildlife Service (KWS) stands as one of Africa's most influential conservation institutions. Established in 1990, it consolidated wildlife management authority under a single government agency and became the focal point of Kenya's modern conservation identity, particularly through its dramatic 1989 ivory burning that helped shift global conservation policy.
+The Kenya Wildlife Service (KWS) stands as one of Africa's most influential [[Kenya as Global Conservation Model|conservation institutions]]. Established in 1990, it consolidated wildlife management authority under a single government agency and became the focal point of Kenya's modern [[Kenya Conservation Overview|conservation identity]], particularly through its dramatic [[Ivory Burns Kenya|1989 ivory burning]] that helped shift global conservation policy.
 
 ## Establishment and Mandate
 
@@ -10,7 +10,7 @@ The service's mandate extends across managing national parks and reserves, comba
 
 ## Richard Leakey and the Ivory Crisis
 
-The founding of KWS is inseparable from Dr. Richard Leakey, the renowned paleaoanthropologist and conservation advocate. In 1989, before KWS's formal establishment, President Daniel arap Moi appointed Leakey to chair the Wildlife Conservation and Management Department. Leakey inherited a conservation crisis: poaching had devastated elephant populations, dropping from approximately 167,000 animals in 1973 to roughly 16,000 by 1989. Rhino populations faced near extirpation.
+The founding of KWS is inseparable from Dr. Richard Leakey, the renowned paleaoanthropologist and conservation advocate. In 1989, before KWS's formal establishment, President Daniel arap Moi appointed Leakey to chair the Wildlife Conservation and Management Department. Leakey inherited a conservation crisis: poaching had devastated [[Kenya Elephant Population|elephant populations]], dropping from approximately 167,000 animals in 1973 to roughly 16,000 by 1989. Rhino populations faced near extirpation.
 
 ## The Ivory Burning of 1989
 
@@ -29,6 +29,15 @@ Following the ivory burning, KWS expanded anti-poaching operations, increased ra
 KWS has faced persistent challenges: ranger corruption, conflicts with pastoral communities over land access, questions about revenue distribution from wildlife tourism, and debates over trophy hunting permits. The service operates with limited financial resources relative to the scale of Kenya's protected areas, forcing difficult prioritization decisions.
 
 Community relations remain complex. While KWS manages significant land areas, these frequently overlap with pastoral communities' traditional grazing lands. Tensions arise when protected area boundaries restrict pastoralist access or when wildlife damages crops and livestock. Some communities view KWS as a colonial remnant that excludes local stakeholders from conservation decisions.
+
+## See Also
+
+- [[Kenya Conservation Overview]] - System-wide conservation strategy
+- [[Kenya as Global Conservation Model]] - International leadership
+- [[Ivory Ban 1989]] - Policy context and outcomes
+- [[Human-Wildlife Conflict]] - Community tensions and solutions
+- [[Laikipia Conservancy Network]] - Community partnership models
+- [[Kenya Elephant Population]] - Population recovery outcomes
 
 ## Sources
 

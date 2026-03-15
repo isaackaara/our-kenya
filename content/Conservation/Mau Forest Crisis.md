@@ -1,6 +1,6 @@
 # Mau Forest Crisis
 
-The Mau Forest Complex represents one of Africa's most important montane forests and also one of its most degraded. This vast forest system, the source of multiple major rivers and home to diverse ecosystems and communities, has undergone catastrophic deforestation and degradation over recent decades due to illegal logging, agricultural encroachment, and government settlement programs. The Mau crisis exemplifies the collision between conservation objectives and development pressures.
+The Mau Forest Complex represents one of Africa's most important montane forests and also one of its most degraded. This vast forest system, the source of multiple major rivers and home to diverse ecosystems and communities, has undergone catastrophic deforestation and degradation over recent decades due to illegal logging, agricultural encroachment, and government settlement programs. The [[Mau Forest Controversy|Mau crisis]] exemplifies the collision between [[Kenya Conservation Overview|conservation]] objectives and development pressures.
 
 ## Geographic and Ecological Significance
 
@@ -30,7 +30,7 @@ The crisis demonstrated the critical importance of forest protection for water s
 
 ## Wangari Maathai and Conservation Campaigns
 
-Wangari Maathai, the founder of the Green Belt Movement and a Nobel Peace Prize winner, became a prominent advocate for Mau Forest conservation. Maathai and the Green Belt Movement conducted campaigns against Mau deforestation, including legal actions against illegal logging and advocacy for forest protection.
+[[Wangari Maathai]], the founder of the [[Green Belt Movement]] and a Nobel Peace Prize winner, became a prominent advocate for Mau Forest conservation. Maathai and the Green Belt Movement conducted campaigns against Mau deforestation, including legal actions against illegal logging and advocacy for forest protection.
 
 Maathai's activism was often directed at government entities and politically connected individuals involved in deforestation. Her campaigns faced political opposition and some personal risk, as powerful interests benefited from forest exploitation.
 
@@ -42,7 +42,7 @@ Restoration efforts have included tree planting campaigns, but reforestation is 
 
 ## Community Land Rights and the Ogiek
 
-The Mau Forest crisis intersects with indigenous community rights issues. The Ogiek hunter-gatherer community has ancestral claims to the Mau Forest and surrounding areas. Forest protection efforts have sometimes excluded Ogiek communities from forest access, while allowing other communities to settle or exploit forest resources.
+The Mau Forest crisis intersects with indigenous community rights issues. The [[Ogiek and the Mau Forest|Ogiek]] hunter-gatherer community has ancestral claims to the Mau Forest and surrounding areas. Forest protection efforts have sometimes excluded Ogiek communities from forest access, while allowing other communities to settle or exploit forest resources.
 
 The African Court ruling recognizing Ogiek land rights included claims to Mau Forest lands, though implementation has been limited. The Mau Forest crisis has raised questions about how conservation and indigenous community rights can be reconciled.
 
@@ -55,6 +55,15 @@ Mau Forest degradation has climate change implications at multiple scales. Fores
 Restoration of the Mau Forest remains incomplete despite years of effort. Restoration requires stopping ongoing deforestation, addressing community claims and interests, reforestation to recover forest cover, and protection from renewed encroachment. The scale and cost of restoration are substantial.
 
 Some areas have recovered through reforestation and protection efforts, but the forest remains degraded overall. Long-term restoration may take decades to achieve functional forest ecosystem restoration, and full hydrological recovery may require longer.
+
+## See Also
+
+- [[Mau Forest Controversy]] - Political and land rights dimensions
+- [[Ogiek and the Mau Forest]] - Indigenous community context
+- [[Wangari Maathai]] - Conservation activism
+- [[Green Belt Movement]] - Reforestation leadership
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Rewilding Efforts Kenya]] - Habitat restoration
 
 ## Sources
 

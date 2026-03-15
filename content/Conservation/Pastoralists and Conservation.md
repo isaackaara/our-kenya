@@ -1,6 +1,6 @@
 # Pastoralists and Conservation
 
-Pastoralist communities in Kenya, including Maasai, Samburu, Pokot, and other ethnic groups, have traditionally managed rangelands for livestock production. The relationship between pastoralism and wildlife conservation is complex and contested, with pastoralists bearing disproportionate costs of conservation while wildlife tourism benefits accrue to external parties.
+[[Pastoralists|Pastoralist communities]] in Kenya, including [[Maasai]], [[Samburu]], Pokot, and other ethnic groups, have traditionally managed rangelands for livestock production. The relationship between pastoralism and [[wildlife conservation]] is complex and contested, with pastoralists bearing disproportionate costs of conservation while [[Tourism Revenue and Communities|wildlife tourism benefits]] accrue to external parties.
 
 ## Pastoral Land Management and Sustainability
 
@@ -33,6 +33,16 @@ Secure community land tenure is essential for pastoralist participation in conse
 ## Human-Wildlife Conflict and Pastoral Costs
 
 Pastoralist communities bear costs of wildlife conservation through livestock predation, crop raiding, and occasional human deaths. These costs are often inadequately compensated, creating resentment toward conservation.
+
+## See Also
+
+- [[Community Conservancies Model]] - Pastoral land conservation
+- [[Northern Rangelands Trust]] - Pastoralist-led conservation
+- [[Human-Wildlife Conflict]] - Livestock predation issues
+- [[Wildlife Corridors Kenya]] - Habitat connectivity
+- [[Land Tenure and Ownership]] - Secure rights frameworks
+- [[Traditional Ecological Knowledge]] - Indigenous management
+- [[Conservation Economics Kenya]] - Economic benefit distribution
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Rewilding Efforts Kenya
 
-Rewilding efforts in Kenya involve reintroduction of wildlife species to areas where they have been extirpated or nearly eliminated. Reintroduction projects represent attempts to restore ecosystem functionality and recover endangered species by returning them to suitable habitat. Several significant rewilding projects demonstrate both the potential and challenges of species reintroduction.
+[[Rewilding|Rewilding efforts]] in Kenya involve reintroduction of [[wildlife]] species to areas where they have been extirpated or nearly eliminated. [[Reintroduction|Reintroduction projects]] represent attempts to restore ecosystem functionality and recover [[endangered species]] by returning them to suitable habitat. Several significant rewilding projects demonstrate both the potential and challenges of species reintroduction.
 
 ## Definitions and Rewilding Approaches
 
@@ -77,6 +77,16 @@ Successful reintroduction requires community acceptance and tolerance. Communiti
 ## Landscape-Scale Restoration
 
 Beyond individual species reintroduction, landscape-scale rewilding aims to restore ecosystem processes and diversity through recovery of multiple species. This approach requires landscape-scale habitat protection and management beyond individual protected areas.
+
+## See Also
+
+- [[Cheetah Kenya]] - Carnivore reintroduction
+- [[Wild Dog Kenya]] - Predator restoration
+- [[Rhino Conservation Kenya]] - Large herbivore recovery
+- [[Wildlife Corridors Kenya]] - Habitat connectivity
+- [[Ecosystem restoration]] - Broad restoration approaches
+- [[Predator-Prey Dynamics]] - Ecological balance
+- [[Meru National Park]] - Reintroduction site example
 
 ## Sources
 

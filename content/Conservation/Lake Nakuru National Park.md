@@ -1,6 +1,6 @@
 # Lake Nakuru National Park
 
-Lake Nakuru National Park protects the soda lake and surrounding ecosystem in Kenya's Rift Valley. The park is famous for its massive flamingo populations, which create the distinctive pink lake appearance. Nakuru has transitioned from a flamingo sanctuary to a rhino conservation area, demonstrating ecosystem dynamics and conservation strategy shifts.
+Lake Nakuru National Park protects the soda lake and surrounding ecosystem in Kenya's Rift Valley. The park is famous for its massive flamingo populations, which create the distinctive pink lake appearance. Nakuru has transitioned from a flamingo sanctuary to a [[Kenya as Global Conservation Model|rhino conservation area]], demonstrating ecosystem dynamics and conservation strategy shifts.
 
 ## Geography and Ecology
 
@@ -45,6 +45,15 @@ Nakuru is a major tourist attraction, accessed easily from Nairobi. Visitors com
 ## Challenges and Management Issues
 
 Nakuru has faced management challenges including siltation reducing water depth, invasive species affecting ecology, and pressure from surrounding agricultural expansion. Water quality degradation from upstream agricultural activity threatens the ecosystem.
+
+## See Also
+
+- [[Lake Naivasha Ecosystem]] - Rift Valley lakes comparison
+- [[Lake Victoria Kenya]] - Freshwater ecosystem context
+- [[Kenya Conservation Overview]] - Protected area system
+- [[Kenya Wildlife Service]] - Management and protection
+- [[Marine Life Kenya]] - Aquatic biodiversity
+- [[Kakamega Forest]] - Freshwater wetland ecosystems
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Rhino Conservation Kenya
 
-Kenya's rhinoceros populations have experienced the most extreme endangered species recovery challenge in the country, with multiple species brought to the brink of extinction and subjected to intensive management efforts. The conservation history of Kenya's rhinos illustrates both the depths of wildlife crisis and the possibility of recovery through dedicated protection.
+Kenya's [[rhinoceros]] populations have experienced the most extreme [[endangered species]] recovery challenge in the country, with multiple species brought to the brink of extinction and subjected to intensive management efforts. The conservation history of Kenya's rhinos illustrates both the depths of wildlife crisis and the possibility of recovery through dedicated protection.
 
 ## Black Rhino Decline and Near-Extinction
 
@@ -46,7 +46,17 @@ Because rhino protection requires significant resources and restricts land use, 
 
 ## International Cooperation
 
-Rhino conservation requires international cooperation on trafficking prevention, demand reduction, and species management. CITES listings, bilateral cooperation agreements, and coordinated anti-trafficking efforts at ports are essential elements of rhino conservation.
+Rhino conservation requires international cooperation on trafficking prevention, demand reduction, and species management. [[Kenya and CITES|CITES listings]], bilateral cooperation agreements, and coordinated anti-trafficking efforts at ports are essential elements of rhino conservation.
+
+## See Also
+
+- [[Rhinoceros in Kenya]] - Species-specific documentation
+- [[Poaching Crisis 1970s-1980s]] - Historical context
+- [[Anti-Poaching Technology]] - Modern protection methods
+- [[Ol Pejeta Conservancy]] - Northern white rhino sanctuary
+- [[Kenya Wildlife Service]] - Management authority
+- [[Illegal Wildlife Trade]] - Trafficking context
+- [[Private Conservation Model]] - Conservancy protection
 
 ## Sources
 

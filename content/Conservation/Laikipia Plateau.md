@@ -1,6 +1,6 @@
 # Laikipia Plateau
 
-Laikipia Plateau, located in central Kenya at approximately 2,000 meters elevation, represents a unique landscape: a mosaic of private ranches, community conservancies, national reserves, and pastoral group ranches. Spanning approximately 9,400 square kilometers, Laikipia contains one of Kenya's highest concentrations of large wildlife outside of the national park system.
+Laikipia Plateau, located in central Kenya at approximately 2,000 meters elevation, represents a unique landscape: a mosaic of private ranches, community conservancies, national reserves, and pastoral group ranches. Spanning approximately 9,400 square kilometers, Laikipia contains one of Kenya's highest concentrations of large wildlife outside of the [[Kenya Conservation Overview|national park system]].
 
 ## Mixed Land Tenure System
 
@@ -20,13 +20,13 @@ Laikipia also contains the world's rarest equid, the Grevy's zebra, with a signi
 
 ## 2017 Pastoral Invasions
 
-In 2017, severe drought in northern Kenya forced pastoralists from surrounding areas to move livestock into Laikipia's conservancies and private ranches, seeking water and grazing. Over a short period, tens of thousands of livestock invaded protected areas, causing substantial resource degradation and wildlife conflict.
+In 2017, severe drought in northern Kenya forced pastoralists from surrounding areas to move livestock into [[Laikipia Conservancy Network|Laikipia's conservancies]] and private ranches, seeking water and grazing. Over a short period, tens of thousands of livestock invaded protected areas, causing substantial resource degradation and [[Human-Wildlife Conflict|wildlife conflict]].
 
 The invasions overwhelmed local capacity to manage boundaries. Pastoralists moved livestock into private and community conservancies without permission, leading to confrontations with landowners and conservancy managers. Some violence occurred as disputes escalated over grazing rights and water access.
 
 The invasions exposed tensions underlying Laikipia's conservation model: external communities viewed restrictive land use policies as excluding them from resources needed for survival during climate emergencies. Conservationists viewed invasions as catastrophic for wildlife populations and ecosystem integrity.
 
-Ultimately, the invasions were partially reversed through negotiation and security interventions, though tensions remained.
+Ultimately, the invasions were partially reversed through negotiation and security interventions, though tensions remained. See [[Laikipia Land Conflicts 2017|detailed conflict documentation]].
 
 ## Climate Vulnerability
 
@@ -45,6 +45,16 @@ Laikipia hosts numerous wildlife research programs examining predator-prey dynam
 ## Connectivity and Landscape Functions
 
 Laikipia functions as a critical corridor for wildlife movement between northern and central Kenya's protected areas. Elephants, wild dogs, and other species move between Laikipia and adjacent protected areas. Maintaining landscape connectivity requires cooperation among the diverse landowners and community groups within Laikipia.
+
+## See Also
+
+- [[Laikipia Conservancy Network]] - Private and community conservancies
+- [[Laikipia Land Conflicts 2017]] - 2017 pastoralist conflicts
+- [[Lewa Wildlife Conservancy]] - Flagship private conservancy
+- [[Human-Wildlife Conflict]] - Land use tensions
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Community Conservancies Model]] - Community-based conservation
+- [[Kenya as Global Conservation Model]] - Conservation strategy models
 
 ## Sources
 

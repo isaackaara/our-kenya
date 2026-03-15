@@ -1,6 +1,6 @@
 # Richard Leakey KWS
 
-Richard Leakey's tenure as Director of the Kenya Wildlife Service from 1989 to 1994 represents a transformative period in African wildlife conservation. Leakey took control of a dysfunctional bureaucracy and transformed the KWS into an effective, armed conservation force capable of protecting wildlife from poaching. His administration became a model for aggressive conservation and remains controversial for its methods.
+[[Richard Leakey]]'s tenure as Director of the [[Kenya Wildlife Service]] from 1989 to 1994 represents a transformative period in African [[wildlife conservation]]. Leakey took control of a dysfunctional bureaucracy and transformed the KWS into an effective, armed conservation force capable of protecting wildlife from [[poaching]]. His administration became a model for aggressive conservation and remains controversial for its methods.
 
 ## Background and Appointment
 
@@ -47,6 +47,16 @@ However, his legacy also encompasses the contested fortress conservation model, 
 ## Later Conservation Work
 
 After leaving the KWS, Leakey remained active in conservation through various NGO roles and advisory positions. He was instrumental in establishing conservation funding mechanisms and continued to advocate for science-based wildlife management and environmental protection.
+
+## See Also
+
+- [[Richard Leakey]] - Biographical overview
+- [[Kenya Wildlife Service]] - Organization under Leakey
+- [[Poaching Crisis 1970s-1980s]] - Crisis Leakey addressed
+- [[The 1989 Ivory Burning]] - Symbolic conservation action
+- [[Anti-Poaching Technology]] - Enforcement methods
+- [[Fortress Conservation Critique]] - Contested approaches
+- [[Conservation and Corruption]] - Systemic reform issues
 
 ## Sources
 

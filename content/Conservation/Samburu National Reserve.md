@@ -1,6 +1,6 @@
 # Samburu National Reserve
 
-Samburu National Reserve protects arid and semi-arid rangeland ecosystems in northern Kenya. The reserve is known for specialized wildlife species adapted to arid conditions, including reticulated giraffes, Grevy's zebras, and beisa oryx. The reserve provides critical habitat for endangered species and demonstrates conservation in marginal environments.
+[[Samburu National Reserve]] protects arid and semi-arid rangeland ecosystems in northern Kenya. The reserve is known for specialized wildlife species adapted to arid conditions, including [[Reticulated giraffe|reticulated giraffes]], [[Grevy's zebra|Grevy's zebras]], and [[Beisa oryx|beisa oryx]]. The reserve provides critical habitat for [[endangered species]] and demonstrates conservation in marginal environments.
 
 ## Geography and Climate
 
@@ -21,6 +21,16 @@ Samburu is managed with Samburu pastoralist community involvement. Community gra
 ## Conservation Status
 
 The reserve protects important wildlife populations, though populations remain vulnerable to poaching and environmental change.
+
+## See Also
+
+- [[Northern Rangelands Trust]] - Regional conservancy network
+- [[Pastoralists and Conservation]] - Community management
+- [[Grevy's Zebra]] - Endangered species focus
+- [[Wildlife Corridors Kenya]] - Regional connectivity
+- [[Arid ecosystem conservation]] - Marginal environment protection
+- [[Tourism Revenue and Communities]] - Economic benefits
+- [[Laikipia Plateau]] - Regional conservation context
 
 ## Sources
 

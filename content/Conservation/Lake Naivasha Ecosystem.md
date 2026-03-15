@@ -1,6 +1,6 @@
 # Lake Naivasha Ecosystem
 
-Lake Naivasha is a large freshwater lake in Kenya's Rift Valley, lying at approximately 1,880 meters elevation. Unlike other Rift Valley lakes that are saline or alkaline, Naivasha's freshwater status makes it ecologically distinct and economically important for agriculture and tourism. The lake is surrounded by rich wetland habitats and supports diverse wildlife and plant communities.
+Lake Naivasha is a large freshwater lake in Kenya's Rift Valley, lying at approximately 1,880 meters elevation. Unlike other Rift Valley lakes that are saline or alkaline, Naivasha's freshwater status makes it ecologically distinct and economically important for agriculture and tourism. The lake is surrounded by rich [[Kakamega Forest|wetland habitats]] and supports diverse [[Kenya Conservation Overview|wildlife]] and plant communities.
 
 ## Hydrology and Freshwater Status
 
@@ -29,6 +29,15 @@ Naivasha is a popular destination for weekend visitors from Nairobi seeking wate
 ## Current Management Challenges
 
 Key challenges include water shortage during dry periods, invasive species management, balance between agricultural development and conservation, and coordination among multiple stakeholders with competing interests.
+
+## See Also
+
+- [[Lake Victoria Kenya]] - Freshwater ecosystem context
+- [[Lake Nakuru National Park]] - Rift Valley lakes comparison
+- [[Kenya Conservation Overview]] - System-wide conservation
+- [[Human-Wildlife Conflict]] - Wildlife-crop conflict at margins
+- [[Marine Life Kenya]] - Aquatic ecosystem diversity
+- [[Kakamega Forest]] - Freshwater wetland ecosystems
 
 ## Sources
 

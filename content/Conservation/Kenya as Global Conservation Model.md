@@ -1,16 +1,16 @@
 # Kenya as Global Conservation Model
 
-Kenya's conservation approaches, innovations, and institutions have influenced global conservation practice and policy. Kenya has provided models, lessons, and technical expertise that other countries and organizations have adopted for wildlife conservation efforts.
+Kenya's [[Kenya Conservation Overview|conservation approaches]], innovations, and institutions have influenced global conservation practice and policy. Kenya has provided models, lessons, and technical expertise that other countries and organizations have adopted for wildlife conservation efforts.
 
 ## The Ivory Burning as Global Symbol
 
-Kenya's 1989 ivory burning influenced conservation consciousness globally. The dramatic action demonstrated government commitment to conservation against economic interest and applied pressure internationally for CITES ban adoption.
+Kenya's [[Ivory Burns Kenya|1989 ivory burning]] influenced conservation consciousness globally. The dramatic action demonstrated government commitment to conservation against economic interest and applied pressure internationally for [[Ivory Ban 1989|CITES ban adoption]].
 
 The ivory burning has become a reference point for conservation symbolism globally, representing the principle that wildlife protection justifies economic sacrifice.
 
 ## KWS Institutional Model
 
-Kenya Wildlife Service has been studied as a model institutional structure for wildlife management. KWS's consolidation of wildlife authority, ranger training programs, law enforcement capacity, and community engagement approaches have been examined by other countries.
+[[Kenya Wildlife Service]] has been studied as a model institutional structure for wildlife management. KWS's consolidation of wildlife authority, ranger training programs, law enforcement capacity, and community engagement approaches have been examined by other countries.
 
 Countries establishing or reforming wildlife management institutions have studied KWS's structure and adopted elements of its model.
 
@@ -74,7 +74,7 @@ Kenya's vulnerability to climate impacts makes its adaptation efforts globally r
 
 ## Research and Science Contributions
 
-Kenya's research institutions and long-term research programs (particularly Cynthia Moss's Amboseli elephant research) have contributed substantially to global wildlife science.
+Kenya's research institutions and long-term research programs (particularly [[Cynthia Moss]]-led elephant research in Amboseli) have contributed substantially to global wildlife science.
 
 Kenyan researchers contribute to international conservation science literature and policy recommendations.
 
@@ -95,6 +95,16 @@ Kenya's influence in global conservation extends beyond domestic implementation 
 While Kenya's conservation approaches have influenced global practice, they require adaptation for different ecological, economic, and political contexts. Direct transplantation of Kenya's models to other regions often fails.
 
 The most successful global adoption involves learning principles from Kenya's experience while adapting approaches to local contexts.
+
+## See Also
+
+- [[Kenya Wildlife Service]] - Primary institutional model
+- [[Kenya Conservation Overview]] - System-wide strategy framework
+- [[Ivory Burning Kenya]] - International symbolic leadership
+- [[Kenya Elephant Population]] - Population recovery outcomes
+- [[Community Conservancies Model]] - Community-based conservation
+- [[Laikipia Conservancy Network]] - Private-community partnerships
+- [[Human-Wildlife Conflict]] - Conflict resolution approaches
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ivory Trade Politics
 
-The international ivory trade has been contested terrain in global conservation politics, with Kenya taking a prominent position in advocacy for trade bans while southern African nations argued for sustainable use and regulated trade. These debates reveal fundamental disagreements about conservation philosophy and international authority.
+The international [[Ivory Ban 1989|ivory trade]] has been contested terrain in global [[Kenya as Global Conservation Model|conservation politics]], with Kenya taking a prominent position in advocacy for trade bans while southern African nations argued for sustainable use and regulated trade. These debates reveal fundamental disagreements about [[Kenya Conservation Overview|conservation philosophy]] and international authority.
 
 ## The CITES Framework
 
-The Convention on International Trade in Endangered Species (CITES), established in 1973, regulates international wildlife trade through a permit system. Species are listed in three appendices: Appendix I (commercial trade banned), Appendix II (trade permitted with permits), and Appendix III (trade restricted).
+The [[Kenya and CITES|Convention on International Trade in Endangered Species]] (CITES), established in 1973, regulates international wildlife trade through a permit system. Species are listed in three appendices: Appendix I (commercial trade banned), Appendix II (trade permitted with permits), and Appendix III (trade restricted).
 
 Elephants were originally listed in Appendix II, permitting some trade under permit. In 1989, following Kenya's advocacy and the ivory burning, African elephants were moved to Appendix I, banning commercial international ivory trade. This listing represented a major victory for conservation advocates and Kenya's diplomatic efforts.
 
@@ -47,6 +47,15 @@ As with ivory, rhino horn prices remain extremely high, creating poaching incent
 The fundamental driver of both ivory and rhino horn trade is Asian demand, particularly from China and Vietnam. In these countries, ivory and rhino horn are valued for traditional medicine, decorative items, and status symbols. Demand has created prices that dwarf the economic value of other animal uses.
 
 This demand side of the equation remains relatively unaddressed: while international trade bans reduce legal supply channels, demand for ivory and rhino horn remains. Efforts to reduce demand through education and awareness have had limited impact relative to the strength of traditional cultural practices and economic interests.
+
+## See Also
+
+- [[Ivory Ban 1989]] - Policy outcome and implementation
+- [[Illegal Wildlife Trade]] - Trafficking networks and enforcement
+- [[Kenya and CITES]] - International convention framework
+- [[Kenya Wildlife Service]] - Enforcement mechanisms
+- [[Kenya Elephant Population]] - Population outcomes
+- [[Ivory Burns Kenya]] - Symbolic policy reinforcement
 
 ## Sources
 

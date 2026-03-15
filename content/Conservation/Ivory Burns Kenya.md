@@ -4,7 +4,7 @@ Kenya has conducted multiple symbolic ivory burns over three decades, burning co
 
 ## The First Burn: July 1989
 
-The most famous ivory burn occurred on July 18, 1989, when President Daniel arap Moi and Kenya Wildlife Service Director Richard Leakey set fire to approximately 12 tons of confiscated ivory at the Nairobi National Park. The estimated value of the burned ivory was between 3 to 15 million dollars, making it one of the most economically significant public destructions in conservation history.
+The most famous ivory burn occurred on July 18, 1989, when President Daniel arap Moi and [[Kenya Wildlife Service]] Director Richard Leakey set fire to approximately 12 tons of confiscated ivory at the Nairobi National Park. The estimated value of the burned ivory was between 3 to 15 million dollars, making it one of the most economically significant public destructions in conservation history.
 
 The event was meticulously planned as a global conservation statement. International media were invited, creating images broadcast worldwide of flames consuming valuable ivory stockpiles. The symbolic power of the message was intentional: Kenya was declaring that living elephants were more valuable than dead ones, that conservation transcended economic calculation, and that the nation would take dramatic action against poaching.
 
@@ -39,6 +39,15 @@ Economists and conservation researchers debate whether the burns significantly a
 ## Continued Enforcement and Poaching
 
 Despite the burns and symbolic commitment they represent, poaching continues at lower levels in Kenya and across Africa. The burns demonstrate government commitment but cannot substitute for adequate ranger deployment, anti-poaching equipment, and international cooperation to reduce demand.
+
+## See Also
+
+- [[Ivory Ban 1989]] - Policy context for burns
+- [[Kenya Wildlife Service]] - Enforcement operations
+- [[Kenya Elephant Population]] - Outcome indicators
+- [[Ivory Trade Politics]] - Economic and policy debates
+- [[Kenya as Global Conservation Model]] - International leadership
+- [[Illegal Wildlife Trade]] - Ongoing trafficking context
 
 ## Sources
 

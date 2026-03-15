@@ -1,6 +1,6 @@
 # Nile Perch and Lake Victoria
 
-Lake Victoria's ecological transformation following the introduction of Nile perch represents one of history's most dramatic human-caused ecosystem collapses. The perch introduction demonstrates how a single species addition can devastate ecosystem integrity, with consequences that extend beyond the lake to regional food security and livelihoods.
+[[Lake Victoria]]'s ecological transformation following the introduction of [[Nile perch]] represents one of history's most dramatic human-caused [[ecosystem collapse|ecosystem collapses]]. The perch introduction demonstrates how a single species addition can devastate ecosystem integrity, with consequences that extend beyond the lake to regional food security and livelihoods.
 
 ## The Introduction (1950s)
 
@@ -48,6 +48,16 @@ Lake Victoria's transformation represents a cautionary example for invasive spec
 2. Ecosystem degradation can occur too rapidly for natural recovery or human intervention
 3. Economic interests can override conservation concerns even when ecological damage is obvious
 4. Colonial-era development paradigms prioritized extraction without environmental protection
+
+## See Also
+
+- [[Kenya and CITES]] - International species protection agreements
+- [[Illegal Wildlife Trade]] - Species exploitation impacts
+- [[Lake ecology]] - Freshwater ecosystem conservation
+- [[Invasive species management]] - Prevention and control strategies
+- [[Conservation Economics Kenya]] - Economic development tradeoffs
+- [[Kenya Wildlife Service]] - National conservation management
+- [[Eutrophication]] - Water quality ecosystem consequences
 
 ## Sources
 

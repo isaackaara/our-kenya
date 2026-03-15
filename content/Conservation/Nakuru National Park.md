@@ -1,6 +1,6 @@
 # Nakuru National Park
 
-Lake Nakuru National Park, located in the Rift Valley approximately 160 kilometers from Nairobi, is Kenya's smallest national park by area but one of its most important for certain wildlife species. The park, established in 1968, centers on Lake Nakuru, a shallow alkaline lake famous for its flamingo populations and more recently established as a critical black rhino sanctuary.
+Lake Nakuru National Park, located in the [[Rift Valley|Rift Valley]] approximately 160 kilometers from Nairobi, is Kenya's smallest national park by area but one of its most important for certain wildlife species. The park, established in 1968, centers on [[Lake Nakuru]], a shallow alkaline lake famous for its [[flamingo]] populations and more recently established as a critical [[black rhino sanctuary|black rhino sanctuary]].
 
 ## Lake Ecology and Flamingos
 
@@ -38,9 +38,19 @@ Water quality remains a management challenge. Urban and agricultural runoff from
 
 ## Conservation Status and Challenges
 
-Lake Nakuru remains important for flamingo conservation, though flamingo populations across the Rift Valley have declined overall. The park's black rhino population is small and vulnerable. Management challenges include overcrowding, water stress, poaching pressure, and human encroachment on park boundaries.
+Lake Nakuru remains important for flamingo conservation, though flamingo populations across the Rift Valley have declined overall. The park's black rhino population is small and vulnerable. Management challenges include overcrowding, water stress, [[Poaching Crisis 1970s-1980s|poaching pressure]], and human encroachment on park boundaries.
 
 The park demonstrates conservation principles and challenges: intensive management can preserve species, but it remains incomplete without habitat protection at landscape scale and addressing human development pressures.
+
+## See Also
+
+- [[Rhino Conservation Kenya]] - Black rhino recovery strategies
+- [[Lake ecology]] - Alkaline water systems
+- [[Flamingo Ecology Rift Valley]] - Bird conservation
+- [[Water Stress and Climate Vulnerability]] - Lake ecosystem resilience
+- [[Human-Wildlife Conflict]] - Hippo management issues
+- [[Tourism Revenue and Communities]] - Overcrowding impacts
+- [[Rift Valley]] - Regional ecosystem context
 
 ## Sources
 
