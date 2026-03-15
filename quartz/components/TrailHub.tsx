@@ -246,7 +246,7 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       
       <div class="trail-grid" id="trail-grid">
         {trails.map(trail => (
-          <a href={`/Trails/${encodeURIComponent(trail.name)}`} class="trail-card" data-category={trail.category} data-name={trail.name.toLowerCase()} data-description={trail.description.toLowerCase()}>
+          <a href={`/Trails/${trail.name.replace(/\s+/g, '-').replace(/[^a-zA-Z0-9\-]/g, '')}`} class="trail-card" data-category={trail.category} data-name={trail.name.toLowerCase()} data-description={trail.description.toLowerCase()}>
             <div class="trail-card-header">
               <h3 class="trail-card-name">{trail.name}</h3>
               <span class="trail-card-category">{trail.category}</span>
