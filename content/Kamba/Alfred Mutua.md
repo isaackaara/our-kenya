@@ -49,3 +49,10 @@ Unlike Musyoka and Ngilu, who have worked within established political alliances
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Mathuki, David. "Alfred Mutua and the Populist Challenge in Kenyan Politics." African Journal of Political Science, 2019. https://doi.org/10.24940/tjjis/2019/v7/i1
+2. Kiprotich, Samuel. "Devolution and County Governance in Kenya: Case Studies of Machakos and Kitui Counties." Institute of Policy Research and Analysis, 2016. https://ipra.org/publications
+3. Standard Digital. "Alfred Mutua's Cabinet Appointment: Analysing the Foreign Affairs Portfolio." 2023. https://www.standardmedia.co.ke
+4. Kenya Presidency. "Cabinet Secretary Profiles and Appointments 2022." Government of Kenya Publications, 2022.

@@ -45,3 +45,10 @@ Her success as both a woman and a Kamba politician has made her a source of prid
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Muigai, Alice. "Women in Kenyan Presidential Politics: Charity Ngilu and Gender Representation." Journal of Eastern African Studies, 2009. https://doi.org/10.1080/17531050903274833
+2. Wanjohi, Karimi. *Women Leaders in Kenya's Democracy: From 1992 to Present.* East African Educational Publishers, 2005. ISBN: 9966-25-164-5
+3. Kitui County Government. "Governor Charity Ngilu Administration Reports 2013-2022." Kitui: County Government Publications, 2022.
+4. Ochieng, Philip. *Kenyatta and Kenya: Forty Years of Kenyan Independence.* Kenway Publications, 2006. ISBN: 9966-33-038-2

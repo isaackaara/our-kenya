@@ -1,0 +1,123 @@
+@use "../../styles/variables.scss" as *;
+
+.share-container {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+
+  &.prominent {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .share-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    background: transparent;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--gray);
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: #006B3F;
+      border-color: #006B3F;
+      
+      .share-icon {
+        stroke: #006B3F;
+      }
+    }
+
+    .share-icon {
+      width: 16px;
+      height: 16px;
+      stroke: currentColor;
+      transition: stroke 0.2s ease;
+    }
+
+    .share-label {
+      font-weight: 400;
+    }
+  }
+
+  &.prominent .share-button {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+
+    .share-icon {
+      width: 18px;
+      height: 18px;
+    }
+  }
+
+  .share-fallback {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    flex-wrap: wrap;
+
+    &.hidden {
+      display: none;
+    }
+
+    .share-option {
+      padding: 0.4rem 0.75rem;
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      color: var(--darkgray);
+      text-decoration: none;
+      transition: all 0.2s ease;
+
+      &:hover {
+        background: var(--lightgray);
+        color: var(--dark);
+      }
+    }
+  }
+
+  .share-feedback {
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 0.4rem 0.75rem;
+    background: #006B3F;
+    color: white;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 500;
+
+    &.hidden {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .share-container {
+    .share-button {
+      font-size: 0.85rem;
+      padding: 0.45rem 0.65rem;
+      
+      .share-icon {
+        width: 14px;
+        height: 14px;
+      }
+    }
+
+    &.prominent .share-button {
+      font-size: 0.95rem;
+      padding: 0.65rem 0.9rem;
+
+      .share-icon {
+        width: 16px;
+        height: 16px;
+      }
+    }
+  }
+}

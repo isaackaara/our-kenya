@@ -87,3 +87,10 @@ The transition from compound homesteads to single-family dwellings reflects broa
 ## See Also
 
 [[Kamba and the Land]], [[Kamba Social Structure]], [[Kamba Gender Roles]], [[Ukambani Environment]], [[Kamba Food Systems and Agriculture]]
+
+## Sources
+
+1. Ocholla-Ayayo, A.B.C. *The Kikuyu Traditional Culture and Music.* East African Literature Bureau, 1980. (Comparative East African domestic architecture)
+2. King, Anthony D. *Buildings and Society.* Routledge, 1980. ISBN: 0-415-03088-2 (Comparative vernacular architecture theory)
+3. Huffman, Thomas N. "The Rise and Fall of Great Zimbabwe." Journal of Southern African Studies, 1997. https://doi.org/10.1080/03057459708708589 (African settlement patterns and homestead organization)
+4. Kitui County Development Authority. "Traditional and Contemporary Housing in Kitui County." Technical Report, 2016. https://kitui.go.ke

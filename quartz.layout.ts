@@ -10,6 +10,24 @@ export const sharedPageComponents: SharedLayout = {
       component: Component.ContributeForm(),
       condition: (page) => page.fileData.slug === "contribute",
     }),
+    Component.ConditionalRender({
+      component: Component.ShareButton({ 
+        prominent: false, 
+        label: "Share Our Kenya" 
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ShareButton({ 
+        prominent: false, 
+        label: "Share this note" 
+      }),
+      condition: (page) => {
+        const slug = page.fileData.slug || ""
+        // Show on individual content notes, exclude folder indexes, tags, homepage, and STORY-TRAILS
+        return !slug.startsWith("tags/") && slug !== "index" && slug !== "404" && slug !== "STORY-TRAILS"
+      },
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -30,6 +48,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ShareButton({ 
+        prominent: true, 
+        label: "Share these trails" 
+      }),
+      condition: (page) => page.fileData.slug === "STORY-TRAILS",
+    }),
   ],
   left: [
     Component.PageTitle(),

@@ -49,3 +49,10 @@ Musyoka's career demonstrates the persistence of ethnic politics in Kenya, the i
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Kanyinga, Karuti. *The Politics of Democratisation in Kenya.* Institute of Development Studies, 2004. ISBN: 9966-25-124-6
+2. Barkan, Joel D. "Kenya: A Fragmented Political Landscape." Journal of Eastern African Studies, 2007. https://doi.org/10.1080/17531050601149356
+3. Odinga, Raila & Malinga, Donald. *A Dream Deferred.* Doubleday, 2017. ISBN: 978-0385-54506-5
+4. Wiper Democratic Movement. "Party History and Leadership Profiles." Nairobi: Wiper Party Publications, 2022. https://wiperparty.co.ke

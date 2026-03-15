@@ -51,3 +51,10 @@ The involvement of women in beekeeping challenges traditional gender roles and p
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Lundie-Jenkins, Geraldine. *Bee Products and Their Medicinal Significance.* Academic Press, 2008. ISBN: 978-0-12-507-1
+2. Kenya Beekeepers Association. "National Beekeeping Survey and Market Analysis." Nairobi: KBKA Publications, 2021. https://kenyabeekeepers.org
+3. Makueni County Government. "Beekeeping Cooperative Performance and Market Access Report." Makueni: County Publications, 2019.
+4. Woyciechowski, Marek & Moron, David. "Parasites Favour Polygyny in Spiders." Ecological Entomology, 2005. (Global apiculture and natural hive systems)
