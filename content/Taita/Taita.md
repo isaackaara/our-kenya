@@ -64,6 +64,15 @@ The Taita are particularly known for two things: (1) their exceptional agricultu
 - [[Taita Timeline]]
 - [[Taita Bibliography]]
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita Hills Geography]]
+- [[Taita-Taveta County]]
+- [[Taita Culture]]
+- [[Taita Language]]
+
 ## Sources
 
 1. Lamphear, John. "The Scattering Time: Turkana Responses to European Colonization". Oxford University Press, 1992. https://oxford.universitypressscholarship.com/

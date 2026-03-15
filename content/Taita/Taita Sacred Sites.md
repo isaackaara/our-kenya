@@ -30,6 +30,15 @@ Sacred sites are used for various rituals and ceremonies, particularly during ti
 
 Sacred sites face preservation challenges from agricultural expansion, commercial development, and declining knowledge about sites' spiritual significance. Some younger Taita may not know about sacred sites or their significance. Conservation of sacred sites is increasingly recognized as important for both cultural and environmental reasons.
 
+
+## See Also
+
+- [[Taita Traditional Religion]]
+- [[Taita Forest]]
+- [[Taita Hills Geography]]
+- [[Sagala Hills]]
+- [[Taita Skull Relics]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

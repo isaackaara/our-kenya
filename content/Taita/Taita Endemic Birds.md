@@ -30,6 +30,15 @@ International and local conservation organizations have focused research and con
 
 The endemic bird species have become significant attractions for birdwatchers visiting Kenya. Ecotourism based on birdwatching provides economic incentives for forest conservation and creates income for local guides and hospitality services.
 
+
+## See Also
+
+- [[Taita Forest]]
+- [[Taita and Wildlife]]
+- [[Taita Hills Geography]]
+- [[Kasigau Wildlife Corridor]]
+- [[Tsavo National Park]]
+
 ## Sources
 
 1. Newmark, William D. "Tropical forest fragmentation and the local extinction of understory birds in eastern Tanzania". Conservation Biology, 1991. https://conbio.onlinelibrary.wiley.com/

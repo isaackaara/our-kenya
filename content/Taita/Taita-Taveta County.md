@@ -20,6 +20,15 @@ The county is home primarily to Taita speakers in the highlands and also include
 
 The economy is based on agriculture in the hills (maize, beans, fruit, and other crops), pastoralism and agriculture in the lowlands, tourism related to the Tsavo parks, and commerce along the Mombasa-Nairobi corridor.
 
+
+## See Also
+
+- [[Taita Geography]]
+- [[Taita and Devolution]]
+- [[Voi Town]]
+- [[Tsavo National Park]]
+- [[Taita in National Politics]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

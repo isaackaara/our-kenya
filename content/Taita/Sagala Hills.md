@@ -30,6 +30,15 @@ Sagala streams and water sources are important for local agriculture and domesti
 
 Sagala communities engage with broader Taita-Taveta developments including devolved governance, education expansion, and economic integration. Development projects and services are increasingly reaching Sagala areas.
 
+
+## See Also
+
+- [[Taita Hills Geography]]
+- [[Taita Sacred Sites]]
+- [[Taita Origins]]
+- [[Taita Forest]]
+- [[Taita Timeline]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

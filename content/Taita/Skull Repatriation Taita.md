@@ -22,6 +22,15 @@ When the skulls were repatriated to Kenya, they were received with ceremony and 
 
 The Edinburgh repatriation set a precedent for other institutions. Additional Taita and other East African materials have since been repatriated from various European museums to communities in Kenya and neighboring countries.
 
+
+## See Also
+
+- [[Taita Skull Relics]]
+- [[Taita Notable People]]
+- [[Taita Colonial History]]
+- [[Taita Identity Today]]
+- [[Taita and Christianity]]
+
 ## Sources
 
 1. Coombes, Annie E. "History After Apartheid: Visual Culture and Public Memory in South Africa". Duke University Press, 2003. https://www.dukeupress.edu/

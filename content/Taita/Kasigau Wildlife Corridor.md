@@ -30,6 +30,15 @@ The carbon credit model provides ongoing revenue for conservation and community 
 
 The project has faced challenges including fluctuating carbon credit prices, difficulties in community engagement, and monitoring challenges. However, the project has demonstrated proof-of-concept for REDD+ mechanisms in East Africa and has inspired similar projects.
 
+
+## See Also
+
+- [[Kasigau]]
+- [[Taita and Wildlife]]
+- [[Tsavo National Park]]
+- [[Taita Forest]]
+- [[Taita-Taveta County]]
+
 ## Sources
 
 1. Kasigau Corridor REDD+ Project. "Project Description and Activities". Kenya Wildlife Service and The Nature Conservancy, 2013. https://kasigauredplus.org/

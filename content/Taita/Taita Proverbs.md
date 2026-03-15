@@ -30,6 +30,15 @@ Scholars and cultural organizations have worked to document Taita proverbs throu
 
 Proverbs remain symbolically important as markers of Taita cultural identity and as repositories of traditional wisdom. Some communities are consciously working to preserve and teach proverbs to younger generations.
 
+
+## See Also
+
+- [[Taita Oral Literature]]
+- [[Taita Language]]
+- [[Taita Social Structure]]
+- [[Taita Traditional Religion]]
+- [[Taita Food]]
+
 ## Sources
 
 1. Finnegan, Ruth. "Oral Literature in Africa". Oxford University Press, 1970. https://oxford.universitypressscholarship.com/

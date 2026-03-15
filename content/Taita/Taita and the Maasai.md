@@ -26,6 +26,15 @@ The Taita and Maasai have distinct cultures, languages, and lifeways. The Taita 
 
 In contemporary times, Taita-Maasai relations are generally peaceful. Both communities are integrated into the Kenyan nation-state, reducing the likelihood of large-scale conflict. Some intermarriage occurs in border areas, though both communities maintain distinct identities.
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita and the Kamba]]
+- [[Kasigau]]
+- [[Taita Hills Geography]]
+- [[Taita Timeline]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

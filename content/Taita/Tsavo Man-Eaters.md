@@ -22,6 +22,15 @@ After their deaths, the two lions were mounted and eventually placed in the Fiel
 
 The Tsavo incident became a famous story in British colonial history and in wildlife lore. It illustrated both the danger of the African frontier and the determination of colonial officials to overcome obstacles. The story has been retold many times and was the subject of the 1996 film "The Ghost and the Darkness".
 
+
+## See Also
+
+- [[Tsavo National Park]]
+- [[Taita and Wildlife]]
+- [[Taita History]]
+- [[Mombasa Road and Taita]]
+- [[Voi Town]]
+
 ## Sources
 
 1. Patterson, John H. "The Man-Eaters of Tsavo". Macmillan, 1907. https://archive.org/details/the-man-eaters-of-tsavo

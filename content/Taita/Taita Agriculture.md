@@ -18,6 +18,15 @@ Cash crops grown for market sale include coffee (historically important), avocad
 
 Water management is critical to Taita agriculture. Traditional irrigation methods utilize the numerous streams flowing from the hills. Modern irrigation schemes have been developed in the lowland areas of the county, particularly along the Mwatate and other river valleys.
 
+
+## See Also
+
+- [[Taita Food]]
+- [[Taita Land Rights]]
+- [[Irrigation Schemes Taita]]
+- [[Taita and the Kamba]]
+- [[Taita Hills Climate Change]]
+
 ## Sources
 
 1. Riggins, Stephen. "East African Highlands: Ecology and Human Use". University of Pennsylvania Press, 2008. https://www.upenn.edu/

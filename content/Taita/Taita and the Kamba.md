@@ -26,6 +26,15 @@ In modern times, the Taita-Kamba border areas remain distinct but with extensive
 
 The proximity of Taita and Kamba languages means that speakers can often understand each other to some degree, facilitating communication and reducing language barriers in shared areas. However, each language community maintains its linguistic identity.
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita and the Maasai]]
+- [[Taita Language]]
+- [[Taita and the Coast]]
+- [[Taita Social Structure]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

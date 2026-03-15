@@ -22,6 +22,15 @@ Taita society is also organized through age grades (sometimes called age-sets), 
 
 Modern influences including urbanization, Christianity, and formal education have modified these structures, but clan identity and elder respect remain important in many contexts.
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita Women]]
+- [[Taita Marriage]]
+- [[Taita Initiation]]
+- [[Taita Traditional Religion]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

@@ -34,6 +34,15 @@ Government and non-governmental organizations have implemented youth employment 
 
 Economic development of the county and job creation initiatives are important for addressing youth unemployment. Improved education alignment with job market needs and support for entrepreneurship are potential strategies.
 
+
+## See Also
+
+- [[Taita Diaspora]]
+- [[Taita Identity Today]]
+- [[Taita Education History]]
+- [[Taita in National Politics]]
+- [[Taita-Taveta County]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

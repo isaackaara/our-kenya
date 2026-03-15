@@ -26,6 +26,15 @@ Oral literature is transmitted through regular recitation and performance. Elder
 
 In recent years, scholars and cultural organizations have worked to document Taita oral literature, recording stories and proverbs before they are lost. These documentation efforts serve both preservation and scholarly research purposes.
 
+
+## See Also
+
+- [[Taita Language]]
+- [[Taita Proverbs]]
+- [[Taita Music and Dance]]
+- [[Taita Origins]]
+- [[Taita Social Structure]]
+
 ## Sources
 
 1. Finnegan, Ruth. "Oral Literature in Africa". Oxford University Press, 1970. https://oxford.universitypressscholarship.com/

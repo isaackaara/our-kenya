@@ -30,6 +30,15 @@ Historical concerns about safety in traditional circumcision practices led to ad
 
 Initiation links individuals to age grades or age-sets that function as social units throughout life. Individuals who undergo initiation together maintain bonds and may have ceremonial roles and collective responsibilities based on their age grade.
 
+
+## See Also
+
+- [[Taita Social Structure]]
+- [[Taita Women]]
+- [[Taita Marriage]]
+- [[Taita Traditional Religion]]
+- [[Taita Youth Unemployment]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

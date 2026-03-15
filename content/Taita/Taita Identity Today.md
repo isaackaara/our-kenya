@@ -30,6 +30,15 @@ Christianity remains the dominant religion among Taita, though some communities 
 
 Younger Taita, particularly those with education or migration experience, increasingly see themselves as part of global networks and communities. Internet and social media have created new forms of connection and identity expression.
 
+
+## See Also
+
+- [[Taita Language]]
+- [[Taita Diaspora]]
+- [[Taita Youth Unemployment]]
+- [[Taita in National Politics]]
+- [[Taita-Taveta County]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

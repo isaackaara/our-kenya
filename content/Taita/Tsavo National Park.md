@@ -26,6 +26,15 @@ Taita communities live in areas adjacent to the parks and have complex relations
 
 The Taita Hills are ecologically integrated with the Tsavo ecosystem. Water from the hills feeds rivers in Tsavo. Wildlife corridors connect the parks to the hills and other protected areas. However, habitat fragmentation and settlement patterns increasingly constrain this ecological integration.
 
+
+## See Also
+
+- [[Taita and Wildlife]]
+- [[Kasigau Wildlife Corridor]]
+- [[Taita-Taveta County]]
+- [[Taita Forest]]
+- [[Taita Endemic Birds]]
+
 ## Sources
 
 1. Mosley, Paul. "The Settler Economies of Kenya and Southern Rhodesia, 1900-1963". Oxford University Press, 1983. https://oxford.universitypressscholarship.com/

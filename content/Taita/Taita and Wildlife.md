@@ -30,6 +30,15 @@ Some Taita community members are employed in wildlife conservation and tourism, 
 
 The future of human-wildlife coexistence in the Taita-Tsavo region depends on developing management approaches that balance conservation with community needs and livelihoods. Continued community engagement in decision-making appears critical.
 
+
+## See Also
+
+- [[Taita Forest]]
+- [[Taita Hills Geography]]
+- [[Kasigau Wildlife Corridor]]
+- [[Tsavo National Park]]
+- [[Taita Endemic Birds]]
+
 ## Sources
 
 1. Kenya Wildlife Service. "Tsavo East and West National Parks Management Plan 2014-2024". Government of Kenya, 2014. https://www.kws.go.ke/

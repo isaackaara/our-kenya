@@ -26,6 +26,15 @@ Conservation initiatives have been implemented to protect remaining forest, incl
 
 Climate change is increasingly affecting the Taita forest ecosystem. Changes in rainfall patterns and temperature are affecting forest composition and water availability. The endemic species in the forest face particular vulnerability if their habitat becomes unsuitable.
 
+
+## See Also
+
+- [[Taita Hills Geography]]
+- [[Taita Endemic Birds]]
+- [[Taita Sacred Sites]]
+- [[Taita Hills Climate Change]]
+- [[Taita and Wildlife]]
+
 ## Sources
 
 1. Newmark, William D. "Tropical forest fragmentation and the local extinction of understory birds in eastern Tanzania". Conservation Biology, 1991. https://conbio.onlinelibrary.wiley.com/

@@ -22,6 +22,15 @@ Divorce is recognized in Taita society, though the process involves negotiation 
 
 Modern marriage practices continue to incorporate elements of tradition, though Christian wedding ceremonies, civil registration, and changing economic circumstances have modified many aspects of the traditional system.
 
+
+## See Also
+
+- [[Taita Social Structure]]
+- [[Taita Women]]
+- [[Taita Initiation]]
+- [[Taita Traditional Religion]]
+- [[Taita Food]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

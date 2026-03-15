@@ -30,6 +30,15 @@ Taita diaspora communities negotiate their identity as both Taita and Kenyans in
 
 The Taita diaspora continues to grow as more young people seek education and economic opportunities in urban areas. Technology and improved transport have made it easier to maintain connections with home communities.
 
+
+## See Also
+
+- [[Taita Identity Today]]
+- [[Taita Youth Unemployment]]
+- [[Taita and the Coast]]
+- [[Taita Notable People]]
+- [[Taita in National Politics]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

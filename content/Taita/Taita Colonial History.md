@@ -22,6 +22,15 @@ Taita communities employed various strategies in response to colonial rule. Some
 
 Mission schools became the primary source of Western education in the Taita Hills. These schools introduced English language instruction, Christian theology, and colonial knowledge systems. Education opened pathways for some Taita individuals to enter colonial administration and professional occupations.
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita and the Railway]]
+- [[Taita Land Rights]]
+- [[Taita Education History]]
+- [[Taita Notable People]]
+
 ## Sources
 
 1. Lamphear, John. "The Scattering Time: Turkana Responses to European Colonization". Oxford University Press, 1992. https://oxford.universitypressscholarship.com/

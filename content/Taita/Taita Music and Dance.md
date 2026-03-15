@@ -26,6 +26,15 @@ Modern Taita musicians have incorporated contemporary instruments and musical st
 
 Younger generations increasingly learn traditional music through cultural organizations and community initiatives aimed at preserving Taita heritage. Some schools include traditional music in their curriculum as part of cultural education.
 
+
+## See Also
+
+- [[Taita Culture]]
+- [[Taita Oral Literature]]
+- [[Taita Social Structure]]
+- [[Taita Crafts]]
+- [[Taita Identity Today]]
+
 ## Sources
 
 1. Coplan, David B. "In Township Tonight: South Africa's Black City Music and Theatre". Longman, 1985. https://www.pearson.com/

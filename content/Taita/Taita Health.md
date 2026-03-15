@@ -30,6 +30,15 @@ Disease prevention programs including vaccination, bed net distribution (for mal
 
 Traditional medicine practitioners remain important sources of healthcare in many Taita communities, particularly in areas with limited access to modern healthcare. Some traditional and modern approaches are blended in contemporary health-seeking behavior.
 
+
+## See Also
+
+- [[Taita Traditional Religion]]
+- [[Taita Social Structure]]
+- [[Taita and Christianity]]
+- [[Taita Education History]]
+- [[Taita Women]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "Taita-Taveta County Health Survey 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

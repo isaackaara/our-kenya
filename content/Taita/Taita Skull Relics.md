@@ -26,6 +26,15 @@ In recent decades, efforts have been made to repatriate vigango from European mu
 
 While the practice has declined due to Christian conversion and colonial suppression, some Taita families continue to maintain vigango traditions in modified forms. The tradition is increasingly recognized as an important cultural heritage worth preserving and studying.
 
+
+## See Also
+
+- [[Taita Sacred Sites]]
+- [[Skull Repatriation Taita]]
+- [[Taita Traditional Religion]]
+- [[Taita Diaspora]]
+- [[Taita Identity Today]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

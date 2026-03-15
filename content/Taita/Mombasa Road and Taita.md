@@ -30,6 +30,15 @@ Investment in maintaining and upgrading the Mombasa Road has been significant. R
 
 The highway has facilitated Taita-Taveta's integration into broader national and regional economic systems. It has reduced isolation and created new opportunities for commerce and exchange.
 
+
+## See Also
+
+- [[Taita and the Railway]]
+- [[Taita and the Coast]]
+- [[Taita-Taveta County]]
+- [[Voi Town]]
+- [[Taita Colonial History]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

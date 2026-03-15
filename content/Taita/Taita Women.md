@@ -26,6 +26,15 @@ In contemporary Taita society, women continue to play multiple roles. Education 
 
 Gender-based development initiatives in Taita-Taveta County focus on education, economic empowerment, and health. Women's groups and cooperative organizations have become important vehicles for economic activity and social support.
 
+
+## See Also
+
+- [[Taita Social Structure]]
+- [[Taita Marriage]]
+- [[Taita Initiation]]
+- [[Taita Agriculture]]
+- [[Taita Crafts]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

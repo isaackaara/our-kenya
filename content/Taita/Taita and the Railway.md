@@ -22,6 +22,15 @@ The railway enabled the export of agricultural and pastoral products from the re
 
 The railway's presence encouraged the growth of settlements along the route, particularly Voi. The economic opportunities created by the railway drew migrants from other regions and facilitated the development of a more diverse, commercialized economy.
 
+
+## See Also
+
+- [[Taita Colonial History]]
+- [[Mombasa Road and Taita]]
+- [[Taita Timeline]]
+- [[Voi Town]]
+- [[Taita-Taveta County]]
+
 ## Sources
 
 1. Mosley, Paul. "The Settler Economies of Kenya and Southern Rhodesia, 1900-1963". Oxford University Press, 1983. https://oxford.universitypressscholarship.com/

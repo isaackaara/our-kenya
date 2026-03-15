@@ -30,6 +30,15 @@ Government programs at county and national levels provide support for irrigation
 
 Irrigation is increasingly seen as an important climate adaptation strategy in the context of changing and variable rainfall. Irrigation can reduce vulnerability to drought and provide more reliable food production.
 
+
+## See Also
+
+- [[Taita Agriculture]]
+- [[Taita Hills Geography]]
+- [[Taita Land Rights]]
+- [[Taita Hills Climate Change]]
+- [[Mombasa Road and Taita]]
+
 ## Sources
 
 1. Nicholson, Sharon. "The East African Rains: A Natural History and Implications for Climate Change". Oxford University Press, 2016. https://oxford.universitypressscholarship.com/

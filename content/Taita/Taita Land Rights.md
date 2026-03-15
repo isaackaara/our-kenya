@@ -26,6 +26,15 @@ Questions persist about the balance between individual land ownership and commun
 
 The process of land registration and obtaining official titles, while progressing, is not yet universal in all parts of the Taita Hills. Land documentation is important for security of tenure and for accessing credit, but registration processes remain expensive and complex for some households.
 
+
+## See Also
+
+- [[Taita Colonial History]]
+- [[Taita and Devolution]]
+- [[Irrigation Schemes Taita]]
+- [[Taita-Taveta County]]
+- [[Taita and the Kamba]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

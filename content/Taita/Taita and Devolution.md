@@ -26,6 +26,15 @@ Taita-Taveta County's governance must navigate relationships with neighboring co
 
 Since 2013, county elections have occurred (most recently in 2022), with multiple candidates competing for both gubernatorial and assembly positions. County governance has become the primary arena for local political competition and resource distribution.
 
+
+## See Also
+
+- [[Taita-Taveta County]]
+- [[Taita in National Politics]]
+- [[Taita Land Rights]]
+- [[Taita Hills Climate Change]]
+- [[Taita Identity Today]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

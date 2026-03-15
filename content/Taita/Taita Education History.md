@@ -30,6 +30,15 @@ While some Taita pursue higher education at universities in Kenya and abroad, te
 
 Education in Taita-Taveta faces challenges including infrastructure deficiencies, teacher shortages in some areas, and equity issues. Devolved governance has created new opportunities for county-level education policy, though resource constraints limit implementation.
 
+
+## See Also
+
+- [[Taita Colonial History]]
+- [[Taita Youth Unemployment]]
+- [[Taita Identity Today]]
+- [[Taita Health]]
+- [[Taita Notable People]]
+
 ## Sources
 
 1. Ambler, Charles. "Kenyan Communities in the Long Twentieth Century". Historical Association of Kenya archives, 2010. https://www.nairobi.go.ke/

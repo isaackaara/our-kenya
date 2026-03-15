@@ -30,6 +30,15 @@ The REDD+ project provides income to the Kasigau community through carbon credit
 
 Kasigau's forests are protected under the REDD+ project and through various conservation designations. The project restricts logging and charcoal production while allowing sustainable use of forest resources.
 
+
+## See Also
+
+- [[Kasigau Wildlife Corridor]]
+- [[Taita Hills Geography]]
+- [[Taita and the Maasai]]
+- [[Taita Forest]]
+- [[Taita and Wildlife]]
+
 ## Sources
 
 1. Kasigau Corridor REDD+ Project. "Project Description and Activities". Kenya Wildlife Service and The Nature Conservancy, 2013. https://kasigauredplus.org/

@@ -26,6 +26,15 @@ Voi's population is mixed, including Taita from the hills, Kamba, Swahili, and p
 
 Voi faces challenges including inadequate water and sanitation services, traffic congestion, housing shortages, and solid waste management. Development of appropriate infrastructure for the growing town remains an ongoing challenge.
 
+
+## See Also
+
+- [[Taita-Taveta County]]
+- [[Mombasa Road and Taita]]
+- [[Taita and the Railway]]
+- [[Taita and the SGR]]
+- [[Tsavo National Park]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

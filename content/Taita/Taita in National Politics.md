@@ -26,6 +26,15 @@ Some Taita political commentators have noted that despite their geographical loc
 
 Since 2013, the Taita have engaged with devolved governance through Taita-Taveta County government. County-level politics now compete with national politics for Taita attention and involvement.
 
+
+## See Also
+
+- [[Taita-Taveta County]]
+- [[Taita Timeline]]
+- [[Taita Identity Today]]
+- [[Taita and Devolution]]
+- [[Taita Notable People]]
+
 ## Sources
 
 1. Kenya National Archives. "Parliamentary Records 1964-2020". Government of Kenya, https://www.parliament.go.ke/

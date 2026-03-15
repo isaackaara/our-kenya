@@ -18,6 +18,15 @@ The main Taita Hills reach elevations of 2,200 to 2,400 meters at their highest 
 
 The hills support montane forests, cloud forests in higher zones, and extensive agricultural terraces. The unique ecology supports species found nowhere else on earth, particularly endemic bird species. The forests are increasingly under pressure from agricultural expansion and charcoal production.
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita Forest]]
+- [[Taita Sacred Sites]]
+- [[Sagala Hills]]
+- [[Kasigau]]
+
 ## Sources
 
 1. Gill, Patrick. "Mountains of the Moon: The Taita Hills of Kenya". Journal of East African Studies, 2015. https://www.tandfonline.com/loi/rjea20

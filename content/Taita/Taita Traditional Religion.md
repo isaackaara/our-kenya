@@ -22,6 +22,15 @@ Christian missionaries, particularly from the Church Missionary Society (CMS), v
 
 Traditional Taita religion includes various specialists: diviners (who interpret spiritual messages), healers (who address spiritual and physical ailments), and rainmakers (who seek to bring rain during drought).
 
+
+## See Also
+
+- [[Taita Sacred Sites]]
+- [[Taita and Christianity]]
+- [[Taita Proverbs]]
+- [[Taita Social Structure]]
+- [[Taita Health]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

@@ -30,6 +30,15 @@ Taita farmers are implementing various adaptation strategies including water har
 
 Climate change mitigation and adaptation have become priorities in Taita-Taveta County development planning. The county has incorporated climate considerations into its development planning and seeks to balance economic development with environmental sustainability.
 
+
+## See Also
+
+- [[Taita Hills Geography]]
+- [[Taita Forest]]
+- [[Taita Agriculture]]
+- [[Irrigation Schemes Taita]]
+- [[Taita and Devolution]]
+
 ## Sources
 
 1. Nicholson, Sharon. "The East African Rains: A Natural History and Implications for Climate Change". Oxford University Press, 2016. https://oxford.universitypressscholarship.com/

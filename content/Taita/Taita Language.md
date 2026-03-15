@@ -18,6 +18,15 @@ Kitaita remains widely spoken among Taita communities in the hills, though it fa
 
 The language is closely bound to Taita cultural identity. Proficiency in Kitaita is often seen as central to being Taita, and loss of the language is a concern for cultural preservation. Community initiatives have emerged to document and promote the language.
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita and the Kamba]]
+- [[Taita Oral Literature]]
+- [[Taita Identity Today]]
+- [[Taita Bibliography]]
+
 ## Sources
 
 1. Nurse, Derek and Philippson, Gérard. "The Bantu Languages". Routledge, 2003. https://www.routledge.com/

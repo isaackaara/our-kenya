@@ -26,6 +26,15 @@ Contemporary Taita artisans continue traditional craft production while adapting
 
 While crafts are no longer the primary economic activity for most Taita, they remain culturally significant and provide supplementary income for many artisans, particularly women. Craft production preserves cultural knowledge and provides an outlet for artistic expression.
 
+
+## See Also
+
+- [[Taita Culture]]
+- [[Taita Women]]
+- [[Taita Social Structure]]
+- [[Taita Food]]
+- [[Taita Music and Dance]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

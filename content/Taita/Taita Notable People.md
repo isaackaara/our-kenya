@@ -34,6 +34,15 @@ Contemporary Taita leaders include county government officials, business leaders
 
 Documentation of notable Taita individuals has been limited, and many figures whose contributions were significant may not be widely known outside their communities. Historical research continues to uncover and document Taita contributions to Kenyan society.
 
+
+## See Also
+
+- [[Taita History]]
+- [[Taita Colonial History]]
+- [[Taita in National Politics]]
+- [[Taita Diaspora]]
+- [[Skull Repatriation Taita]]
+
 ## Sources
 
 1. Kenya National Archives. "Parliamentary Records 1964-2020". Government of Kenya, https://www.parliament.go.ke/

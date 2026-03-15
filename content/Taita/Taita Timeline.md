@@ -37,6 +37,15 @@ The 2010 constitution introduced devolved governance. Taita-Taveta County was cr
 2013: Taita-Taveta County established
 2017: Standard Gauge Railway completed through the region
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita Colonial History]]
+- [[Taita and the Railway]]
+- [[Taita-Taveta County]]
+- [[Taita in National Politics]]
+
 ## Sources
 
 1. Lamphear, John. "The Scattering Time: Turkana Responses to European Colonization". Oxford University Press, 1992. https://oxford.universitypressscholarship.com/

@@ -26,6 +26,15 @@ Some Taita communities developed syncretic practices that blended Christian and 
 
 Christianity remains the dominant religion in the Taita Hills today, with multiple denominations present. However, some communities are seeking to revive aspects of traditional religious practice as part of cultural preservation efforts.
 
+
+## See Also
+
+- [[Taita Traditional Religion]]
+- [[Taita Colonial History]]
+- [[Taita Health]]
+- [[Taita Education History]]
+- [[Skull Repatriation Taita]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

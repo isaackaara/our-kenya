@@ -26,6 +26,15 @@ Despite these trading relationships, the Taita have maintained cultural and ling
 
 In contemporary times, Taita migrants in Mombasa and other coastal areas maintain connections to their home communities. Trade and business connections between the hills and coast continue, though the nature of these connections has changed with modern commerce and transport networks.
 
+
+## See Also
+
+- [[Taita and the Kamba]]
+- [[Mombasa Road and Taita]]
+- [[Taita and the Railway]]
+- [[Voi Town]]
+- [[Taita Diaspora]]
+
 ## Sources
 
 1. Spear, Thomas. "The Kaya of Coastal Kenya: An Archaeological and Historical Study". British Institute in Eastern Africa, 1978. https://www.biea.ac.uk/

@@ -44,6 +44,15 @@ Nicholson, Sharon. "The East African Rains: A Natural History and Implications f
 
 Wanyande, Peter. "Ethnic Politics and Governance in Contemporary Kenya". Institute of Policy Analysis and Research, 2010. https://www.ipar.or.ke/
 
+
+## See Also
+
+- [[Taita Origins]]
+- [[Taita Colonial History]]
+- [[Taita Language]]
+- [[Taita Oral Literature]]
+- [[Taita-Taveta County]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

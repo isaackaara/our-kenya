@@ -30,6 +30,15 @@ Sisal estates altered the landscape and vegetation of the lowlands. Some environ
 
 The sisal estates were economically significant for the region and for colonial/post-colonial Kenya, generating export revenue. However, the estate system also created inequalities and limited opportunities for local small-scale farmers.
 
+
+## See Also
+
+- [[Taita Agriculture]]
+- [[Taita Colonial History]]
+- [[Taita Land Rights]]
+- [[Taita Economy]]
+- [[Taita and the Railway]]
+
 ## Sources
 
 1. Mosley, Paul. "The Settler Economies of Kenya and Southern Rhodesia, 1900-1963". Oxford University Press, 1983. https://oxford.universitypressscholarship.com/

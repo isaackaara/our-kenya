@@ -30,6 +30,15 @@ The SGR provides employment opportunities for local residents, though the number
 
 Plans for further railway development in Kenya may extend the railway network, potentially creating additional transport options in the region. The SGR represents a significant infrastructure investment with long-term implications for regional development.
 
+
+## See Also
+
+- [[Taita-Taveta County]]
+- [[Taita in National Politics]]
+- [[Mombasa Road and Taita]]
+- [[Taita and Devolution]]
+- [[Voi Town]]
+
 ## Sources
 
 1. Standard Gauge Railway Project Office. "SGR Project Description and Environmental Impact Assessment". Kenya Railways Corporation, 2014. https://www.krc.co.ke/

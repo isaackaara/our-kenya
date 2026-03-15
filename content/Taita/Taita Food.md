@@ -26,6 +26,15 @@ Traditional Taita cooking relies on boiling, steaming, and cooking with fire. Fo
 
 Modern Taita communities have adopted some new food items while maintaining traditional practices. Processed foods and restaurant meals are increasingly common in urban areas. However, traditional foods remain important both for their nutritional value and their cultural significance.
 
+
+## See Also
+
+- [[Taita Agriculture]]
+- [[Taita Crafts]]
+- [[Taita Social Structure]]
+- [[Taita Marriage]]
+- [[Taita Proverbs]]
+
 ## Sources
 
 1. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/
