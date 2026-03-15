@@ -4,7 +4,7 @@ Kuki Gallmann (1943-) is an Italian-born Kenyan citizen who has spent decades ma
 
 ## Early Life and Arrival in Kenya
 
-Kuki was born in Italy and came to Kenya as an adult. She married a Kenyan landowner and became involved in large-scale land management and conservation. She established the Ol Ari Nyiro conservancy in Laikipia, a large protected area combining wildlife conservation, pastoral land, and tourism.
+Kuki was born in [[Italy]] and came to Kenya as an adult. She married a Kenyan landowner and became involved in large-scale land management and conservation. She established the Ol Ari Nyiro conservancy in [[Laikipia]], a large protected area combining wildlife conservation, pastoral land, and tourism.
 
 Her conservancy model combined:
 
@@ -77,6 +77,17 @@ Gallmann's work is assessed variously:
 Despite the 2017 shooting and conflicts, Gallmann has continued managing the Ol Ari Nyiro conservancy. The conservancy remains a significant conservation site and a contested space in Kenya's ongoing negotiations about land, conservation, and community rights.
 
 Gallmann's story illustrates contemporary European engagement in Kenya: no longer colonial rulers, but retaining significant land and resource control through conservation and conservation organizations. The conflicts and questions her work raises are central to post-colonial Kenya's struggles over land and environmental justice.
+
+## See Also
+
+- [[Laikipia Ranch Families]] - Contemporary settler ranching
+- [[European Conservation Establishment]] - Conservation organizations
+- [[I Dreamed of Africa]] - Her memoir
+- [[Ol Ari Nyiro Conservancy]] - Her conservancy
+- [[Laikipia Land Conflicts]] - 2017 drought and clashes
+- [[Wildlife Conservation and Communities]] - Conservation ethics
+- [[Europeans who Stayed]] - Post-independence European residents
+- [[Land Restitution Debate]] - Questions about conservation land
 
 ## Sources
 

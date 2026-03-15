@@ -4,7 +4,7 @@ The Lancaster House Conferences (held in 1960 and 1962) were the formal negotiat
 
 ## The Settler Fear
 
-By 1960, European settlers in Kenya were acutely aware that decolonisation was coming. They had seen independence occur in Ghana (1957) and across Africa. They knew that African majority rule meant the end of the racial hierarchies and privileges that colonialism had created. The settler question was urgent: what would become of our land?
+By 1960, European settlers in Kenya were acutely aware that decolonisation was coming. They had seen independence occur in [[Ghana]] (1957) and across Africa. They knew that African majority rule meant the end of the racial hierarchies and privileges that colonialism had created. The settler question was urgent: what would become of our land?
 
 Settlers feared expropriation. They had acquired land under colonial law, but colonial law would no longer be supreme. An independent African government might seize settler land and redistribute it. Some settlers talked of armed resistance. Most accepted that they would need to negotiate.
 
@@ -40,6 +40,13 @@ The settlers who remained were often marginalised within the departing settler c
 
 The settlers left behind: productive farms and ranches, roads and irrigation systems, schools and institutions, a template of commercial agriculture, and a deeply entrenched concept of private land ownership. These contributions were real. They also could not be separated from the injustice that enabled them: the seizure of African land, the exploitation of African labour, the creation of racial hierarchies.
 
-## Related
+## See Also
 
-[[White Highlands and Settler Society]] | [[White Kenyans Today]] | [[Index]]
+- [[European Settlement Overview]] - Settler population timeline
+- [[Crown Lands Ordinance]] - Land ownership basis
+- [[White Highlands]] - Geographic center of settlement
+- [[Europeans who Stayed]] - Those who remained
+- [[Land Restitution Debate]] - Post-independence land questions
+- [[Jomo Kenyatta]] - Independent Kenya's first leader
+- [[Mau Mau Uprising]] - Uprising preceding independence
+- [[Million-Acre Scheme]] - Land redistribution mechanism
