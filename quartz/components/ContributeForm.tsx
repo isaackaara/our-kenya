@@ -128,8 +128,8 @@ ContributeForm.css = `
 .ok-form input[type="email"]:focus,
 .ok-form textarea:focus {
   outline: none;
-  border-color: #006B3F;
-  box-shadow: 0 0 0 2px rgba(0, 107, 63, 0.12);
+  border-color: var(--secondary);
+  box-shadow: 0 0 0 2px rgba(128, 128, 128, 0.12);
 }
 
 .ok-form textarea {
@@ -150,13 +150,13 @@ ContributeForm.css = `
 }
 
 .ok-btn-primary {
-  background: #006B3F;
+  background: var(--secondary);
   color: #fff;
   align-self: flex-start;
 }
 
 .ok-btn-primary:hover {
-  background: #005530;
+  opacity: 0.85;
   color: #fff;
   text-decoration: none;
 }
@@ -173,7 +173,7 @@ ContributeForm.css = `
 }
 
 .ok-form-status.ok-form-success {
-  color: #006B3F;
+  color: var(--secondary);
   font-weight: 600;
 }
 

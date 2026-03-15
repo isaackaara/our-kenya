@@ -1,0 +1,21 @@
+Kenyan entrepreneurship in diaspora contexts extended beyond large-scale business leadership to diverse smaller ventures and self-employment arrangements from the 1980s onwards. Individual entrepreneurs identified market opportunities in diaspora communities and broader markets, establishing small businesses with minimal capital requirements. These ventures included transportation services, hair salons, restaurants, retail shops, and trading businesses. Diaspora entrepreneurship represented strategies for economic advancement and independence from employment relationships. The accessibility of entrepreneurship as economic strategy made it significant beyond business leadership among wealthy entrepreneurs.
+
+Service-oriented diaspora entrepreneurship proved particularly accessible. Transportation services including taxi and ride-sharing businesses employed diaspora entrepreneurs. Hair salons and beauty services served diaspora community markets. Childcare services and domestic work represented significant entrepreneurial domains. These service enterprises required modest startup capital and served genuine market demand from diaspora communities. Immigrant entrepreneurs in these sectors often cycled through initial service employment before establishing independent businesses. The transition from employee to entrepreneur represented economic advancement while creating employment for broader diaspora populations.
+
+Food-related entrepreneurship connected diaspora communities to homeland cultural heritage while capitalizing on market demand. Restaurants serving East African cuisine attracted both diaspora populations seeking familiar food and mainstream consumers experiencing African cuisine. Catering services provided food for community events and celebrations. Grocery shops and import businesses supplied diaspora communities with familiar food products unavailable in mainstream retail. These food businesses created cultural gathering spaces while generating commercial opportunity. Some expanded beyond diaspora community focus into broader consumer markets through mainstream restaurant locations or retail distribution expansion.
+
+Retail and small commerce represented significant diaspora entrepreneurial domains. General retail shops, clothing stores, and specialty retail served community and broader markets. Some entrepreneurs established trading businesses importing goods from Kenya or other sources for resale. Marketplace retail including vendor booth operations and street sales provided entrepreneurial entry points. These retail ventures often involved minimal educational requirements but required business management skills, customer relations, and often extended working hours. The retail sector absorbed significant diaspora entrepreneurial energy and represented important economic activity.
+
+Real estate entrepreneurship operated at varying scales within diaspora communities. Individual property investors purchased residential real estate in diaspora locations, building rental income and equity. Some engaged in property development, renovating or developing properties for resale. Real estate investment required capital accumulation and market knowledge but offered pathways to wealth building. Diaspora real estate investment served both personal wealth accumulation and sometimes created housing stock serving diaspora communities. The role of diaspora investment in changing neighborhood demographics and real estate values raised questions about diaspora community economic integration and displacement effects on existing community populations.
+
+## See Also
+
+[[Business Leaders Foreign]], [[Diaspora Entrepreneurship]], [[Investment Diaspora Flows]], [[Home Country Investment]], [[Remittances Kenya Economy]], [[Professional Associations Abroad]], [[Return Migration Trends]]
+
+## Sources
+
+1. Immigrant Entrepreneurship in Developed Nations: A Comparative Review. Small Business Economics, 2018. https://link.springer.com/journal/11187
+
+2. Diaspora Entrepreneurship and Community Development. Journal of Ethnic and Migration Studies, 2017. https://www.tandfonline.com/loi/cjems20
+
+3. African Diaspora Businesses in Western Cities. Urban Affairs Review, 2016. https://journals.sagepub.com/home/uar

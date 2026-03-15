@@ -148,7 +148,7 @@ export default ((opts?: TrailNavOptions) => {
   }
 
   .trail-nav-top {
-    background: linear-gradient(135deg, #006B3F 0%, #008751 100%);
+    background: var(--darkgray);
     color: white;
     border-radius: 0;
     width: 100%;
@@ -171,7 +171,7 @@ export default ((opts?: TrailNavOptions) => {
     justify-content: space-between;
     height: 36px;
     padding: 0 1rem;
-    background: #005a34;
+    background: var(--gray);
     color: rgba(255, 255, 255, 0.95);
     text-decoration: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
@@ -359,21 +359,22 @@ export default ((opts?: TrailNavOptions) => {
     align-items: center;
     gap: 0.5rem;
     padding: 0.75rem 1rem;
-    border: 1.5px solid #006B3F;
-    color: #006B3F;
+    border: 1.5px solid var(--lightgray);
+    color: var(--dark);
     text-decoration: none;
     border-radius: 6px;
     font-size: 0.875rem;
     font-weight: 500;
     min-height: 48px;
-    transition: background 0.15s, color 0.15s;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
     background: transparent;
   }
 
   .trail-nav-prev:hover,
   .trail-nav-next:hover {
-    background: #006B3F;
-    color: white;
+    background: var(--lightgray);
+    border-color: var(--gray);
+    color: var(--dark);
   }
 
   .trail-nav-prev {

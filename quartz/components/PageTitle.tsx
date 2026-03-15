@@ -28,7 +28,7 @@ PageTitle.css = `
 }
 
 .page-title a:hover {
-  color: var(--kenya-green, #006B3F);
+  opacity: 0.75;
   text-decoration: none;
 }
 

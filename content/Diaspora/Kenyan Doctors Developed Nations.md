@@ -1,0 +1,21 @@
+Kenyan physicians migrated to developed nations in substantial numbers from the 1990s onwards, responding to both push factors including limited domestic opportunities and pull factors including international recruitment, higher compensation, and advanced medical infrastructure. Healthcare sectors in the UK, US, Canada, and Gulf nations actively recruited foreign doctors as shortages in domestic physician supply created employment opportunities. Kenyan medical graduates, trained through Kenya's medical schools, possessed credentials recognized internationally. Language compatibility with English-speaking destinations and previous colonial relationships with the UK created particular pathways for Kenyan doctor migration.
+
+The United Kingdom represented a traditional destination for Kenyan doctors, many of whom obtained further specialization at British medical institutions. The UK's healthcare system relied increasingly on international medical graduates to sustain physician supply, particularly in less desirable specialty and geographic placements. Kenyan doctors worked in general practice, hospital medicine, and specialist fields including emergency medicine, psychiatry, and radiology. The recognition of Kenyan medical qualifications and English language compatibility created relatively smooth professional integration, though immigration policy changes from 2010 onwards created barriers to new medical migration. Established Kenyan doctors in the UK maintained professional networks and informal mentorship relationships with subsequent arrivals.
+
+American medical practice attracted Kenyan physicians seeking access to advanced medical technology and high compensation. Medical licensing in the United States required additional examination and credentialing beyond Kenyan qualifications, creating barriers requiring significant additional investment. However, successful credentialing opened access to substantially higher physician compensation than UK or Kenyan practice offered. The H-1B visa system and specialty fellowship pathways created immigration mechanisms enabling Kenyan doctors to establish American medical careers. Concentrated populations of Kenyan doctors in major American cities created professional communities and mutual support networks.
+
+Healthcare worker migration created structural impacts on Kenya's healthcare system. The loss of physicians to international opportunities reduced domestic medical capacity, constraining Kenya's ability to expand healthcare services. Rural and remote areas experienced particular physician shortages as migration concentrated in urban centers with better opportunities and conditions. The departure of recent medical graduates meant that investment in Kenyan medical education produced benefits accruing primarily to destination nations rather than Kenya. This pattern reflected broader healthcare workforce challenges in developing nations as health professionals pursued opportunities in wealthier countries with better infrastructure and compensation.
+
+Remittance contributions from diaspora physicians to Kenya and family members were substantial, reflecting physicians' high earnings relative to broader diaspora populations. Some diaspora doctors invested in Kenya's healthcare sector through acquisition of private medical facilities, funding medical equipment, or supporting training programs. Others engaged primarily in personal family support without broader sectoral engagement. The relationship between diaspora medical professionals and Kenya's healthcare system thus included both structural losses through emigration and potential gains through financial transfers and selective sectoral investment.
+
+## See Also
+
+[[Kenyan Nurses Abroad]], [[Skilled Worker Exodus]], [[Healthcare Investment Diaspora]], [[Diaspora Healthcare Access]], [[Brain Drain Concerns]], [[Remittances Kenya Economy]], [[Return Migration Trends]]
+
+## Sources
+
+1. International Medical Graduate Migration to Developed Nations. Journal of Medical Education, 2018. https://www.aamc.org/
+
+2. Healthcare Workforce Migration and Capacity in Sub-Saharan Africa. World Health Organization. https://www.who.int/
+
+3. Physician Migration and Healthcare System Sustainability in Developing Countries. The Lancet, 2017. https://www.thelancet.com/

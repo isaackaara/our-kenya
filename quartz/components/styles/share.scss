@@ -23,11 +23,11 @@
     transition: all 0.2s ease;
 
     &:hover {
-      color: #006B3F;
-      border-color: #006B3F;
+      color: var(--secondary);
+      border-color: var(--secondary);
       
       .share-icon {
-        stroke: #006B3F;
+        stroke: var(--secondary);
       }
     }
 
@@ -86,7 +86,7 @@
     display: inline-block;
     margin-top: 0.5rem;
     padding: 0.4rem 0.75rem;
-    background: #006B3F;
+    background: var(--secondary);
     color: white;
     border-radius: 4px;
     font-size: 0.85rem;

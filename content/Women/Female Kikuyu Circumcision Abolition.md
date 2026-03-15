@@ -1,0 +1,36 @@
+Female circumcision (also termed female genital mutilation) in Kikuyu communities has been subject to sustained abolition campaigns since the 1920s, creating one of Kenya's longest-running gender rights struggles. Initial opposition came from Christian missionaries and colonial authorities who condemned the practice as "savage," yet the most effective anti-circumcision organizing emerged from Kikuyu women themselves, particularly from the 1960s onward, framing opposition in terms of health, women's dignity, and bodily autonomy rather than cultural imperialism.
+
+In pre-colonial and colonial-era Kikuyu society, female circumcision served as an initiation rite marking the passage to womanhood, integrating girls into adult female society and establishing their social eligibility for marriage. The practice was nearly universal, with uncircumcised girls facing significant social stigma and marriage difficulty. Female elders (particularly post-menopausal women past reproductive years) controlled the circumcision process, establishing a gerontocratic knowledge system and maintaining elder female authority. The practice thus functioned as both gender marking and power structure, encoding women's status hierarchies.
+
+Early colonial opposition (1920s-1940s) came primarily from Christian missionaries and colonial administrators who viewed circumcision as incompatible with civilization. Missionary schools began expelling circumcised girls and pressuring converts to abandon the practice. Colonial administrators in some regions banned circumcision or imposed legal penalties. This external opposition paradoxically strengthened circumcision's association with Kikuyu identity and resistance to colonialism. When the colonial government intensified restrictions during Mau Mau (1952-1960), the practice became symbolically linked to nationalist resistance, and some anti-colonial fighters defended circumcision as a specifically Kikuyu cultural practice worth defending.
+
+Post-independence campaigns against female circumcision faced immediate skepticism. Newly independent Kenya's government, led by Kikuyu men including President Jomo Kenyatta (who had written defending circumcision as essential to Kikuyu identity in his 1938 ethnographic work), did not aggressively pursue abolition. The government treated circumcision as a private, cultural matter beyond state intervention. This hands-off approach persisted through the 1970s, despite mounting evidence of health complications from the procedure: infection, hemorrhage, obstetric fistula, and maternal mortality.
+
+Women's health organizations beginning in the 1970s reframed anti-circumcision activism as a medical rather than cultural issue. Clinicians documented that girls and women with female circumcision experienced higher infection rates, complicated pregnancies and deliveries, and psychological trauma. Organizations including [Maendeleo ya Wanawake](https://en.wikipedia.org/wiki/Maendeleo_ya_Wanawake) began health-education campaigns emphasizing that circumcision endangered female lives rather than protecting them. This medicalized framing proved more culturally acceptable than earlier Christian or colonial arguments about barbarism; it allowed Kikuyu communities to preserve cultural continuity while abandoning a practice recharacterized as dangerous rather than civilizing.
+
+Grassroots female health workers became central to abolition efforts. Women trained as community health volunteers began conducting awareness campaigns in villages, discussing complications they witnessed among circumcised women, and offering health-based rationales for abandoning the practice. These women, often themselves from the communities they served, could speak with cultural authority that outside activists could not. By framing the issue as women's health protection rather than cultural destruction, they reduced the defensiveness that external campaigns generated.
+
+Educational expansion accelerated abolition. As more Kikuyu girls attended secondary school and beyond, they received biomedical education about reproductive health and began questioning the practice. Girls educated in urban areas often refused circumcision, generating family conflicts but gradually normalizing the option to remain uncircumcised. By the 1990s, educated women and girls had largely abandoned the practice, while some rural areas and lower-income communities maintained it at lower prevalence.
+
+The 2000s witnessed legislative interventions. The 2011 [Prohibition of Female Genital Mutilation Act](https://www.kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/ProhibitionofFemaleGenitalMutilationAct2011.pdf) established criminal penalties for performing circumcision on minors. The law criminalized both practitioners and parents who arranged circumcision, representing the first time Kenya formally outlawed the practice. Implementation has been inconsistent: police rarely prosecute cases, and clandestine practices continue in rural areas where enforcement is weak. Some families simply move procedures across borders to Tanzania or Ethiopia, circumventing Kenyan law while maintaining cultural participation.
+
+Contemporary Kikuyu communities show marked variation in circumcision prevalence. Urban Kikuyu families have almost entirely abandoned the practice, with circumcision now rare even among rural educated families. Among lower-income rural Kikuyu, particularly in western Kikuyu regions, circumcision persists at estimated 15-25 percent prevalence (down from nearly 100 percent in the 1970s), often conducted secretly despite legal prohibition. Elderly women remain strong supporters, viewing circumcision as essential to cultural continuity and female respectability, while younger generations predominantly view it as dangerous rather than culturally necessary.
+
+A crucial shift occurred when women's organizations and health advocates framed the issue as a decision for individual women rather than collective cultural requirement. Early abolition campaigns often positioned circumcision as entirely wrong, disrespecting communities who valued it. Contemporary approaches acknowledge that some women make autonomous choices about their bodies, even as they establish that these choices cannot be imposed on children. This framing reduces community defensiveness and allows culturally respectful abolition.
+
+## See Also
+
+[[Female Genital Mutilation]]
+[[Women Health Services]]
+[[Women Independence Struggle]]
+[[Kikuyu History Social Structure]]
+[[Gender-Based Violence]]
+[[Women Leadership Capacity]]
+
+## Sources
+
+1. Njue, Caroline and Ruth Karwoski. "Deferring to Culture: Lessons on Female Genital Cutting from Ethiopia and Kenya." Futures Group International Technical Report, 2002. https://www.popcouncil.org/uploads/pdfs/FGCKenyaEthiopia.pdf
+
+2. Moyer, Eileen et al. "Changing Perceptions and Practices Around Female Genital Cutting in Kenya." Studies in Family Planning, vol. 44, no. 2, 2013, pp. 161-183. https://doi.org/10.1111/j.1728-4465.2013.00348.x
+
+3. Kenya National Bureau of Statistics and ICF Macro. "Kenya Demographic and Health Survey 2008-2009: Female Genital Mutilation." KNBS, 2010. https://dhsprogram.com/pubs/pdf/FR229/FR229.pdf
