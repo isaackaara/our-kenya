@@ -15,102 +15,102 @@ Pick a trail below and start reading. Each note shows your progress (Stop 3 of 7
 ### The Reluctant Father
 **Presidencies** | 7 stops  
 Jomo Kenyatta's journey from mission school student to founding father of independent Kenya.  
-[Start trail →](/Presidencies/Jomo%20Kenyatta%20Presidency/Kenyatta%20Rise%20to%20Power)
+[Start trail →](/Presidencies/Jomo-Kenyatta-Presidency/Kenyatta-Rise-to-Power)
 
 ### The Schoolmaster Dictator
 **Presidencies** | 7 stops  
 Daniel arap Moi's transformation from quiet vice president to Kenya's longest-serving ruler.  
-[Start trail →](/Presidencies/Daniel%20arap%20Moi%20Presidency/Moi%20Rise%20to%20Power)
+[Start trail →](/Presidencies/Daniel-arap-Moi-Presidency/Moi-Rise-to-Power)
 
 ### Mau Mau: The Forest War
 **Resistance** | 8 stops  
 The oath, the forest fighters, Dedan Kimathi, and the State of Emergency that shaped modern Kenya.  
-[Start trail →](/Kikuyu/Kikuyu%20Resistance%20Pre-Mau%20Mau)
+[Start trail →](/Kikuyu/Kikuyu-Resistance-Pre-Mau-Mau)
 
 ### Tom Mboya: The Man Who Should Have Been President
 **Politics** | 7 stops  
 Labor organizer, Pan-Africanist, architect of independence, and the assassination that changed Kenya's trajectory.  
-[Start trail →](/Luo/Tom%20Mboya)
+[Start trail →](/Luo/Tom-Mboya)
 
 ### When Kenya Burned: 2007-08
 **Elections** | 8 stops  
 A disputed election, post-election violence, the ICC, and the handshake that redefined Kenyan politics.  
-[Start trail →](/Elections/2007%20Election/2007%20Election)
+[Start trail →](/Elections/2007-Election/2007-Election)
 
 ### The Running Phenomenon
 **Sports** | 7 stops  
 Why Kalenjin runners dominate distance running, the science of Iten, and Kipchoge's moonshot.  
-[Start trail →](/Kalenjin/Kalenjin%20Origins)
+[Start trail →](/Kalenjin/Kalenjin-Origins)
 
 ### Goldenberg: The Heist
 **Corruption** | 6 stops  
 The corruption scandal that nearly bankrupted Kenya and the man who walked away rich.  
-[Start trail →](/Corruption/Goldenberg%20Scandal)
+[Start trail →](/Corruption/Goldenberg-Scandal)
 
 ### The Land Question
 **Politics** | 7 stops  
 From colonial theft to today's land clashes, the question that refuses to die.  
-[Start trail →](/Kikuyu/White%20Highlands)
+[Start trail →](/Kikuyu/White-Highlands)
 
 ### Swahili: A Thousand Years
 **Culture** | 7 stops  
 The Swahili coast, Indian Ocean trade, city-states, and Islam's arrival in East Africa.  
-[Start trail →](/Swahili/Swahili%20Civilization%20Overview)
+[Start trail →](/Swahili/Swahili-Civilization-Overview)
 
 ### Wangari Maathai: Trees and Freedom
 **Environment** | 6 stops  
 The Green Belt Movement, the Nobel Prize, and resistance to authoritarianism.  
-[Start trail →](/Kikuyu/Wangari%20Maathai)
+[Start trail →](/Kikuyu/Wangari-Maathai)
 
 ### Raila Odinga: Five Campaigns
 **Politics** | 7 stops  
 Raila's five presidential runs and what they reveal about Kenyan democracy.  
-[Start trail →](/Luo/Raila%20Odinga%20Biography)
+[Start trail →](/Luo/Raila-Odinga-Biography)
 
 ### The Ivory Wars
 **Conservation** | 7 stops  
 Poaching crisis, the war on elephants, and the ivory burn that shocked the world.  
-[Start trail →](/Conservation/The%20Ivory%20Poaching%20Crisis)
+[Start trail →](/Conservation/The-Ivory-Poaching-Crisis)
 
 ### Dadaab: The World's Largest Camp
 **Migration** | 6 stops  
 Somali refugees, the world's largest refugee complex, and the politics of hospitality.  
-[Start trail →](/Somali/Dadaab%20Refugee%20Complex)
+[Start trail →](/Somali/Dadaab-Refugee-Complex)
 
 ### The Hustler's Gambit: William Ruto
 **Presidencies** | 7 stops  
 From Eldoret chicken seller to Kenya's president, the hustler narrative and what it means.  
-[Start trail →](/Presidencies/William%20Ruto%20Presidency/Ruto%20Rise%20to%20Power)
+[Start trail →](/Presidencies/William-Ruto-Presidency/Ruto-Rise-to-Power)
 
 ### Tsavo: Lions and Railway
 **History** | 7 stops  
 The Man-Eaters of Tsavo, the Uganda Railway, and the birth of Kenya's conservation movement.  
-[Start trail →](/Counties/Taita-Taveta/Uganda%20Railway%20Taita-Taveta)
+[Start trail →](/Counties/Taita-Taveta/Uganda-Railway-Taita-Taveta)
 
 ### The Handshake
 **Politics** | 6 stops  
 Uhuru and Raila's 2018 deal, what it meant, and how it reshaped Kenyan politics.  
-[Start trail →](/Elections/2017%20Election/2017%20Election)
+[Start trail →](/Elections/2017-Election/2017-Election)
 
 ### Benga: The Sound of Kenya
 **Culture** | 6 stops  
 Luo benga music, D.O. Misiani, and the soundtrack of independent Kenya.  
-[Start trail →](/Luo/Benga%20Music%20Origins)
+[Start trail →](/Luo/Benga-Music-Origins)
 
 ### The Coastal Land Problem
 **Politics** | 6 stops  
 Arab land grants, Crown land, squatters, and the land question at the coast.  
-[Start trail →](/Swahili/Arab%20Settlement%20on%20the%20Coast)
+[Start trail →](/Swahili/Arab-Settlement-on-the-Coast)
 
 ### Anglo Leasing: Phantom Contracts
 **Corruption** | 6 stops  
 The procurement scandal that defined the Kibaki era and exposed the scale of state capture.  
-[Start trail →](/Corruption/Anglo%20Leasing%20Scandal)
+[Start trail →](/Corruption/Anglo-Leasing-Scandal)
 
 ### Lake Turkana: The Jade Sea
 **History** | 7 stops  
 Fossils, Turkana Boy, wind power, and the Omo River threat to Africa's largest desert lake.  
-[Start trail →](/Turkana/Lake%20Turkana)
+[Start trail →](/Turkana/Lake-Turkana)
 
 ---
 

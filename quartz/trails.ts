@@ -309,11 +309,24 @@ export const trails: Trail[] = [
   }
 ]
 
+// Normalize slugs the same way Quartz does: spaces -> hyphens
+function normalizeSlug(s: string): string {
+  return s
+    .split("/")
+    .map((segment) => segment.replace(/\s/g, "-").replace(/&/g, "-and-").replace(/%/g, "-percent"))
+    .join("/")
+}
+
+export function stopHref(stop: TrailStop): string {
+  return "/" + normalizeSlug(stop.slug)
+}
+
 // Index: slug -> list of trails containing it (and position)
 export const slugToTrails: Record<string, { trail: Trail; position: number }[]> = {}
 trails.forEach(trail => {
   trail.stops.forEach((stop, i) => {
-    if (!slugToTrails[stop.slug]) slugToTrails[stop.slug] = []
-    slugToTrails[stop.slug].push({ trail, position: i })
+    const key = normalizeSlug(stop.slug)
+    if (!slugToTrails[key]) slugToTrails[key] = []
+    slugToTrails[key].push({ trail, position: i })
   })
 })

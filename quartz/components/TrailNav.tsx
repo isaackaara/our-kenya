@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { slugToTrails } from "../trails"
+import { slugToTrails, stopHref } from "../trails"
 
 interface TrailNavOptions {
   position?: "top" | "bottom"
@@ -70,14 +70,14 @@ export default ((opts?: TrailNavOptions) => {
         <div className="trail-nav-bottom">
           <div className="trail-nav-buttons">
             {prevStop && (
-              <a href={`/${prevStop.slug}`} className="trail-nav-prev">
+              <a href={stopHref(prevStop)} className="trail-nav-prev">
                 ← {prevStop.title}
               </a>
             )}
             {!prevStop && <div className="trail-nav-spacer" />}
 
             {nextStop && (
-              <a href={`/${nextStop.slug}`} className="trail-nav-next">
+              <a href={stopHref(nextStop)} className="trail-nav-next">
                 {nextStop.title} →
               </a>
             )}
