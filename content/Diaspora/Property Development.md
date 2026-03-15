@@ -1,0 +1,21 @@
+Property development by diaspora investors and developers transformed Kenya's real estate landscape from the 1990s onwards, with acceleration from the 2000s onwards. Diaspora capital deployment toward property development created new residential and commercial real estate supply while generating returns for diaspora investors. These development activities demonstrated diaspora entrepreneurial engagement with Kenya real estate markets and confidence in Kenya property market appreciation. Property development represented significant development-oriented diaspora activity with visible landscape impacts across Kenya's major cities.
+
+Residential property development funded by diaspora capital created housing supply in Kenya's cities. Individual diaspora investors purchased land and developed residential properties for sale or rental. Diaspora-backed residential developments contributed to urban housing supply expansion. Some diaspora developers established formal development companies managing multiple residential projects. These residential developments ranged from affordable middle-class housing to luxury residential projects targeting high-income markets. The residential development activity demonstrated diaspora capital's significant role in Kenya's housing market. However, the focus on market-rate and luxury housing raised questions about whether diaspora development addressed affordable housing shortages for lower-income populations.
+
+Commercial property development by diaspora investors funded office buildings, retail spaces, and mixed-use developments. Diaspora capital supported commercial property development in Nairobi and other business centers. Office development served Kenya's growing financial services and professional services sectors. Retail development supported Kenya's expanding consumer economy. Mixed-use developments combining residential and commercial components created integrated urban spaces. These commercial developments demonstrated diaspora engagement with Kenya's productive economy infrastructure development. Commercial property investment offered return potential from rental income and capital appreciation, motivating diaspora capital deployment.
+
+Hotel and hospitality property development attracted diaspora investment, particularly in Kenya's tourism sectors. Diaspora investors developed hotels, lodges, and hospitality properties in tourism destinations. This hospitality development demonstrated diaspora engagement with Kenya's tourism economy and confidence in tourism sector growth. Tourism property development created commercial assets generating operational income and capital appreciation. The concentration of diaspora tourism investment in established tourism destinations reflected investor focus on markets with proven demand and established tourism infrastructure.
+
+Agricultural and land development by diaspora investors supported farming and agribusiness expansion. Some diaspora members invested in agricultural land development, supporting commercial farming and food production. Farm development projects funded by diaspora capital contributed to agricultural modernization. Real estate development for agricultural purposes demonstrated diaspora engagement with Kenya's agricultural sector. However, the concentration of diaspora property investment in urban centers and tourism destinations meant that agricultural property investment remained smaller than urban residential and commercial development. The sectoral skew in diaspora property investment reflected both market demand patterns and diaspora investors' geographic and sectoral preferences.
+
+## See Also
+
+[[Real Estate Investment Abroad]], [[Investment Diaspora Flows]], [[Home Country Investment]], [[Business Remittances Impact]], [[Diaspora Entrepreneurship]], [[Return Migration Trends]], [[Entrepreneurs Diaspora]]
+
+## Sources
+
+1. Real Estate Development and Diaspora Investment in Sub-Saharan Africa. African Development Bank Report. https://www.afdb.org/
+
+2. Property Development Markets and Foreign Investment in East Africa. Journal of Real Estate Research, 2017. https://www.jrer.org/
+
+3. Diaspora Capital and Urban Development Patterns in Kenya. Urban Studies, 2016. https://journals.sagepub.com/home/usj

@@ -1,0 +1,21 @@
+Educational investment by diaspora members represented significant capital transfers directed toward family members' schooling and academic development. Diaspora family members funded education of relatives in Kenya including primary, secondary, and tertiary level schooling. University education overseas for Kenya-based family members constituted major diaspora educational investment. Diaspora investment in education reflected values placed on educational advancement and development of human capital within families. These educational investments created pathways for younger generation family members to access educational opportunities unavailable through purely domestic resources.
+
+Secondary and tertiary education in Kenya received diaspora funding through family remittances dedicated to school fees and educational expenses. Diaspora members ensured that younger family members could attend quality schools, overcoming constraints that limited domestic economic resources. Private school education in Kenya, perceived as offering superior quality, attracted diaspora funding. University education in Kenya, particularly at private universities, received diaspora support. These educational investments in Kenya represented in-country development of human capital maintaining family connections while enhancing family members' opportunity sets.
+
+Overseas education funded by diaspora members represented aspirational investment in family human capital. Diaspora members sponsored university education for younger family members in USA, UK, or other developed nations. These overseas educational investments required substantial financial commitments but offered potential for human capital development at highest levels. Young Kenyans funded for overseas education expected to secure advanced degrees and professional qualifications transcending purely Kenya-based opportunity. The educational pathway frequently enabled transition into diaspora residence, as overseas education often preceded professional employment and settlement in educational destination countries. Diaspora-funded education thus sometimes facilitated subsequent migration and family reunification in diaspora locations.
+
+International school education in Kenya received diaspora funding as intermediate option between domestic public education and overseas education. International schools in Nairobi and other cities offered education aligned with international curricula, English language immersion, and international credentials. Diaspora members funded international school education for family members remaining in Kenya, providing educational advantage while maintaining Kenya residence. This educational choice reflected diaspora preferences for education quality and international alignment while preserving family geographic proximity.
+
+Educational investment patterns revealed diaspora priorities and resources. Wealthier diaspora segments could sustain substantial educational investment in multiple family members. Diaspora members with professional incomes and stable employment could commit to long-term educational funding. Educational investment varied based on family structure, particularly whether diaspora members had children in Kenya requiring education or younger siblings and extended family members. The concentration of educational investment among diaspora-connected families created human capital advantages for these families relative to populations without diaspora support. This educational stratification contributed to broader socioeconomic inequality as diaspora-connected families accumulated both financial capital and human capital advantages through educational investment.
+
+## See Also
+
+[[Student Migrations Universities]], [[Second-Generation Identity]], [[Family Separation Issues]], [[Remittances Kenya Economy]], [[Investment Diaspora Flows]], [[Return Migration Trends]], [[Professional Associations Abroad]]
+
+## Sources
+
+1. Diaspora Remittances and Educational Investment in Home Countries. International Labour Organization. https://www.ilo.org/
+
+2. Educational Pathways and Migration: The Diaspora Effect. Migration and Development Review, 2017. https://www.migrationdevelopment.org/
+
+3. Global Education Mobility and Family Investment Strategies. UNESCO Education Report. https://en.unesco.org/

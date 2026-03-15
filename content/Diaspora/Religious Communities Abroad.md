@@ -1,0 +1,21 @@
+Religious communities of diaspora Kenyans emerged in diaspora locations as important sites of spiritual practice, social support, and community identity. Churches served Christian diaspora populations while mosques served Muslim populations. These religious communities functioned simultaneously as spiritual spaces and social institutions sustaining diaspora community cohesion. Religious institutions often provided first points of contact for newly arriving diaspora members and continuing support throughout diaspora residence. The development of diaspora religious communities reflected both persistence of religious identity across diaspora movement and institutional response to diaspora spiritual needs.
+
+Christian churches with Kenyan majorities or significant Kenyan participation emerged in diaspora cities. Evangelical churches including Pentecostal congregations attracted substantial Kenyan participation. Mainline Protestant churches including Anglican and Presbyterian congregations incorporated Kenyan members. Catholic parishes served Kenyan Catholic populations. African Independent Churches with Kenya origins established diaspora congregations. Worship styles in Kenyan-majority churches often reflected Kenya liturgical traditions including music, prayer styles, and spiritual emphasis. These churches created spaces where diaspora members engaged in familiar spiritual practices while building community with co-ethnics.
+
+Muslim communities serving Kenyan populations established mosques and Islamic centers in diaspora locations. These communities observed Islamic practice and provided Islamic education for community members. Ramadan observance and Eid celebrations created occasions for Muslim community gathering. Islamic institutions addressed both spiritual needs and social support for Muslim diaspora members. The establishment of Islamic centers and mosques represented Muslim diaspora integration into host nation Islamic communities while maintaining cultural continuity.
+
+Spiritual functions of diaspora religious communities extended beyond worship to counseling, social support, and crisis intervention. Pastors and religious leaders provided counseling addressing personal, family, and spiritual challenges diaspora members faced. Religious communities provided food assistance, financial support, and other material aid when members experienced hardship. They provided social support during family crises, illness, and loss. This supportive function made religious communities crucial survival institutions for vulnerable diaspora members facing isolation or economic hardship. Religious institutions thus provided social safety nets that might otherwise be unavailable.
+
+Diaspora religious communities maintained varying relationships to Kenya-based religious institutions. Some established formal affiliated relationships with Kenya denominations, maintaining institutional connection. Others operated autonomously while maintaining cultural affiliation with Kenya religious traditions. Mission trips and exchange relationships connected diaspora religious communities to Kenya counterparts. Religious leaders traveled between diaspora locations and Kenya, maintaining institutional relationships. This transnational religious engagement created channels through which diaspora and Kenya religious communities shared influence and maintained institutional connection despite geographic separation. Religious communities represented important transnational institutions linking diaspora and Kenya across spiritual domains.
+
+## See Also
+
+[[Kenyan Community Centers]], [[Diaspora Networking Organizations]], [[Cultural Events Diaspora]], [[Second-Generation Identity]], [[Family Separation Issues]], [[Mental Health Diaspora]], [[Return Migration Trends]]
+
+## Sources
+
+1. Diaspora Religious Communities and Integration. Journal of Ethnic and Migration Studies, 2016. https://www.tandfonline.com/loi/cjems20
+
+2. Immigrant Churches and Community Formation. American Sociological Review, 2017. https://journals.sagepub.com/home/asr
+
+3. Transnational Religious Networks and Diaspora Engagement. Religion and Migration Review, 2018. https://www.religionandmigration.org/
