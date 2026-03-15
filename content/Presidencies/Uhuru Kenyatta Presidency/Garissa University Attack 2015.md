@@ -1,0 +1,29 @@
+The Garissa University College attack on April 2, 2015, remains the deadliest terrorist assault in Kenyan history, with 148 people killed, 142 of them students. Four Al-Shabaab gunmen stormed the university campus in Garissa town, northeastern Kenya, at dawn, targeting Christian students and holding hostages for over 15 hours before security forces ended the siege. The attack exposed the same intelligence and response failures seen at [[Westgate Attack 2013|Westgate]] eighteen months earlier, revealing that Kenya's security establishment had learned little and that [[Uhuru Kenyatta]]'s government had failed to implement promised reforms.
+
+The attackers entered the university around 5:30 AM, when most students were asleep or attending early morning prayers. They separated Muslim from Christian students, releasing the Muslims and executing Christians systematically. Many students were shot in their dormitories; others were taken hostage in a student hostel. Survivors reported that attackers recited Quranic verses while killing students, framing the massacre as religious warfare. The brutality was designed to terrorize Kenya's Christian majority and demonstrate Al-Shabaab's ability to strike anywhere in Kenya, not just in Somali-majority areas or border regions.
+
+The security response was catastrophically slow. Garissa is 365 kilometers from Nairobi but only 200 kilometers from the Somali border, in a region with heavy security presence due to Al-Shabaab activity. Despite this, it took over six hours for specialized anti-terrorism police (the Recce Squad) to arrive from Nairobi. Local police were outgunned and retreated, leaving students trapped with the terrorists for hours. When elite forces finally arrived and ended the siege around 9 PM, most students were already dead. The response time became a national scandal: why did it take so long to deploy specialized units to a known high-risk zone experiencing an active terrorist attack?
+
+Intelligence failures were even more damning than the slow response. Investigations revealed that Kenya's National Intelligence Service (NIS) had specific warnings about a planned Al-Shabaab attack on a university or school in Garissa County. Security alerts had been issued to schools and colleges in the region, yet Garissa University had minimal security: no armed guards, no fortified perimeter, no crisis response plan. University administrators later testified that they had requested increased security but were ignored. The pattern from Westgate repeated: intelligence warnings were not acted on, high-value targets remained vulnerable, and preventive security measures were not implemented.
+
+Al-Shabaab's rationale for the Garissa attack mirrored Westgate: retaliation for [[Kenya's Somalia Intervention|Kenya's military presence in Somalia]] and punishment for KDF operations against Al-Shabaab. The group's propaganda framed the massacre as jihad against Kenyan "crusaders" occupying Muslim land. By targeting a university in northeastern Kenya, Al-Shabaab also sent a message to Kenya's Somali population that the government could not protect them even in their own regions, and to non-Somali Kenyans that no part of the country was safe. The attack achieved both goals: it terrorized the nation and deepened divisions between Muslim and Christian communities.
+
+The political fallout was severe for Uhuru. Opposition politicians and civil society demanded accountability for the intelligence and response failures. Why had promised security reforms after Westgate not been implemented? Why did it take six hours to deploy anti-terrorism units? Why were intelligence warnings ignored again? Uhuru's response was to reshuffle security leadership, replacing Inspector General of Police David Kimaiyo and making changes at the NIS. However, these changes appeared cosmetic rather than structural, as similar failures would recur in the 2019 DusitD2 attack. The persistent pattern suggested that Kenya's security problems were deeper than personnel: they included corruption, ethnic favoritism in security appointments, poor training, and political interference.
+
+The Garissa University attack's impact on Kenyan society was profound. It intensified Islamophobia and anti-Somali sentiment, with politicians calling for closure of the Dadaab refugee camp (which hosted hundreds of thousands of Somali refugees) and mass deportations. It deepened the alienation of Kenya's Somali and Muslim minorities, who faced collective punishment for Al-Shabaab's crimes. It shattered the sense that Kenya's interior was safe from terrorism, demonstrating that Al-Shabaab could strike deep inside Kenya despite massive security spending. And it left 148 families grieving, most of them parents who had sent their children to university hoping for a better future, only to have them murdered in what should have been a safe space.
+
+## See Also
+- [[Security Under Uhuru - Al-Shabaab]]
+- [[Westgate Attack 2013]]
+- [[Kenya's Somalia Intervention]]
+- [[Uhuru Kenyatta and the ICC]]
+- [[Corruption/Security Sector]]
+- [[2007 Post-Election Violence]]
+- [[Uhuru Legacy Assessment]]
+- [[Elections/2013 Presidential Election]]
+
+## Sources
+1. "Kenya: Garissa University College Attack," Human Rights Watch, April 2015. https://www.hrw.org/news/2015/04/03/kenya-garissa-university-college-attack
+2. "Garissa Attack: 147 Dead After Militant Assault," BBC News, April 2015. https://www.bbc.com/news/world-africa-32169080
+3. "The Garissa University Attack: Intelligence Failure and Slow Response," Institute for Security Studies, June 2015. https://issafrica.org/research/papers/garissa-university-attack-intelligence-failure-slow-response
+4. "Why It Took So Long to Respond to Kenya's Garissa Attack," The Guardian, April 2015. https://www.theguardian.com/world/2015/apr/05/garissa-attack-kenya-security-forces-delay

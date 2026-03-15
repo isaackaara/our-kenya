@@ -1,0 +1,29 @@
+[[Uhuru Kenyatta]]'s relationship with China defined his economic policy and left Kenya with a debt burden that will shape the country's fiscal options for decades. Between 2013 and 2022, Kenya borrowed over $8 billion from China, primarily for infrastructure projects like the [[Standard Gauge Railway]], highways, and power plants. Chinese loans accounted for roughly 70 percent of Kenya's bilateral debt by 2022, making China Kenya's single largest creditor. The relationship brought visible infrastructure but also raised concerns about debt sustainability, transparency, contract terms, and whether Kenya was falling into a "debt trap" that would compromise its sovereignty.
+
+The China relationship accelerated dramatically after Uhuru's election in 2013, coinciding with China's Belt and Road Initiative (BRI) push into Africa. Uhuru saw Chinese financing as the solution to Kenya's infrastructure deficit: China offered large loans, fast disbursement, and no conditionalities about human rights or governance, unlike Western donors and multilateral institutions. Chinese state-owned enterprises (SOEs) would build the projects using Chinese workers and equipment, ensuring rapid completion. The model was attractive to a president focused on delivering visible development results within electoral cycles.
+
+The flagship project was the SGR, financed by $3.2 billion for phase one (Mombasa-Nairobi) and approximately $1.5 billion for phase two (Nairobi-Naivasha) from China's Exim Bank. The loans were commercial rather than concessional, with interest rates around 3.6 percent and repayment periods of 15 years. Kenya also borrowed for the Nairobi Expressway, rural electrification, the Lamu Port project, and various roads and bridges. Most contracts were awarded directly to Chinese SOEs without competitive bidding, raising questions about value for money and inflated costs. Investigations by Kenyan civil society and international organizations suggested that SGR costs were 30-50 percent higher than comparable projects elsewhere.
+
+Concerns about debt sustainability intensified from 2018 onward as Kenya's debt-to-GDP ratio approached 70 percent, well above the 50 percent threshold considered safe for developing countries. The IMF and World Bank warned that Kenya's debt burden was becoming unsustainable, particularly because much of it was commercial debt with higher interest rates than concessional lending. Debt servicing began consuming over 60 percent of government revenues, crowding out spending on health, education, and social services. Opposition politicians, particularly [[William Ruto]] after his fallout with Uhuru, attacked the Chinese debt as reckless and accused the government of mortgaging Kenya's future.
+
+The "Mombasa port as collateral" controversy became the most politically charged debt issue. Reports circulated in 2018-2019 claiming that Kenya had secretly pledged the Port of Mombasa, East Africa's largest port, as collateral for SGR loans, meaning China could seize the port if Kenya defaulted. The government vehemently denied these claims, releasing partial loan agreements showing no such clause. However, the government refused to publish full contracts, citing commercial confidentiality, fueling suspicions. Independent analysis suggested that while explicit port collateral clauses likely did not exist, other contract terms (such as arbitration in China and waivers of sovereign immunity) could still give China significant leverage.
+
+Beyond debt, the Chinese relationship raised concerns about labor practices, environmental standards, and corruption. Chinese contractors employed mostly Chinese workers even for unskilled positions, limiting job creation for Kenyans. Environmental assessments for projects like the SGR through national parks were criticized as superficial. Allegations of corruption in procurement persisted, with claims that Kenyan officials received kickbacks for awarding contracts at inflated prices, though few prosecutions resulted. The broader concern was that the relationship benefited Chinese companies and Kenyan elites while leaving ordinary Kenyans with debt obligations that would constrain development spending for decades.
+
+Uhuru defended the Chinese relationship to the end of his presidency, arguing that infrastructure is essential for development and that criticism was driven by Western jealousy of China's success in Africa. He pointed to the SGR, roads, and power projects as evidence of transformation. However, by 2022, even Uhuru acknowledged debt concerns, slowing new borrowing and seeking debt restructuring. The Chinese debt legacy is Uhuru's most contentious economic decision: whether history views it as bold nation-building or reckless over-borrowing depends on whether Kenya can make the infrastructure economically productive and manage the debt burden without compromising sovereignty or development.
+
+## See Also
+- [[Standard Gauge Railway]]
+- [[Uhuru Infrastructure Agenda]]
+- [[Uhuru Economic Record]]
+- [[Uhuru Debt Crisis]]
+- [[Corruption/Mega-Projects]]
+- [[Elections/2022 Presidential Election]]
+- [[Uhuru Legacy Assessment]]
+- [[William Ruto]]
+
+## Sources
+1. "Kenya's Chinese Debt: Facts, Fears, and Implications," Center for Global Development, August 2020. https://www.cgdev.org/publication/kenyas-chinese-debt-facts-fears-and-implications
+2. "Is Kenya Headed for a Chinese Debt Trap?" African Arguments, March 2019. https://africanarguments.org/2019/03/is-kenya-headed-chinese-debt-trap/
+3. "Kenya-China Relations: The Case of the Standard Gauge Railway," South African Institute of International Affairs, 2021. https://saiia.org.za/research/kenya-china-relations-the-case-of-the-standard-gauge-railway/
+4. "Kenya's Debt Dilemma: Understanding the China Factor," International Institute for Sustainable Development, 2021. https://www.iisd.org/articles/kenyas-debt-dilemma-understanding-china-factor

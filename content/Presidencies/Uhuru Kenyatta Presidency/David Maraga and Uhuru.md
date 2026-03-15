@@ -1,0 +1,29 @@
+Chief Justice David Maraga's relationship with [[Uhuru Kenyatta]] defined Kenya's most consequential executive-judiciary confrontation and established Maraga as one of the most significant judicial figures in African history. Appointed Chief Justice in October 2016, Maraga led the Supreme Court's historic [[2017 Election and Nullification|September 2017 decision to nullify Uhuru's presidential election victory]], making Kenya the first African country to annul a presidential election through judicial process. The decision, and Maraga's unflinching defense of it despite intense political pressure, demonstrated that Kenya's constitutional safeguards could withstand executive assault, at least temporarily.
+
+Maraga was an unlikely revolutionary. A Seventh-day Adventist lay preacher with a reputation for personal integrity and conservative judicial philosophy, he had served on the Court of Appeal before his Supreme Court appointment. His elevation to Chief Justice in 2016 replaced Willy Mutunga, a more charismatic and politically engaged figure. Maraga appeared to be a safe, establishment choice who would not rock the boat. His background gave no indication that he would soon author the most consequential judicial decision in modern Kenyan history and withstand a sustained campaign of intimidation from the country's most powerful political forces.
+
+The September 1, 2017 nullification ruling, delivered in a 4-2 majority decision with Maraga writing the lead opinion, was devastating in its critique of the Independent Electoral and Boundaries Commission (IEBC). Maraga's judgment found that the IEBC had conducted the election in a manner "neither transparent nor verifiable," that results forms were tampered with, and that the commission had failed to provide access to its servers to allow verification of electronically transmitted results. The ruling emphasized that "this is not a court of 'conform and move on'" and that the judiciary would not sacrifice the rule of law for political expediency. The language was direct, uncompromising, and unprecedented for an African court reviewing a presidential election.
+
+Uhuru's initial response was to call Maraga and his colleagues "crooks" who had staged a "judicial coup." Deputy President [[William Ruto]] warned that the ruling would be "revisited," language widely interpreted as a threat. Government allies in parliament proposed legislation to limit the Supreme Court's jurisdiction over elections. Intimidation of judges intensified, with threatening messages and public attacks. Maraga, who had received death threats, required enhanced security. However, he did not back down, publicly defending the ruling and insisting that the court had simply applied the law as written in the constitution.
+
+The confrontation escalated when Uhuru's government began weaponizing judicial funding and appointments. The national treasury delayed releasing budgets for the judiciary, creating operational crises. Court operations stalled due to lack of resources. More significantly, Uhuru refused to appoint 41 judges recommended by the Judicial Service Commission over several years, citing vague integrity concerns. The refusal crippled the judiciary's capacity, leaving critical positions vacant and creating massive case backlogs. Maraga publicly called out the president, writing an unprecedented letter in June 2020 accusing Uhuru of "disregarding court orders and the Constitution" and warning that the rule of law was under threat.
+
+Maraga's tenure also saw other significant rulings that challenged executive power. The Supreme Court upheld lower court decisions declaring the [[Building Bridges Initiative|BBI constitutional amendment process]] unconstitutional, blocking Uhuru's attempt to restructure Kenya's political system. The court ruled on LGBTQ rights, corruption cases, and electoral reforms. While Maraga did not personally author all these rulings, his leadership created an environment where judges felt empowered to enforce the constitution even when it meant confronting powerful interests. His institutional legacy was a judiciary that demonstrated independence was possible, though fragile.
+
+Maraga retired in January 2021, handing over to Chief Justice Martha Koome. His final public statements emphasized that Kenya's constitutional order remained under threat and that eternal vigilance was necessary to protect judicial independence. His legacy is the 2017 nullification, which demonstrated that African courts could hold presidents accountable through law rather than force. International observers celebrated Maraga as a judicial hero; Uhuru's supporters saw him as an obstructionist who undermined democracy by overturning the people's choice. The divide revealed that judicial independence, while constitutionally protected, remained contested and dependent on individual courage and public support.
+
+## See Also
+- [[2017 Election and Nullification]]
+- [[Uhuru and the Judiciary]]
+- [[2013 Election and Supreme Court]]
+- [[Building Bridges Initiative]]
+- [[Raila Odinga]]
+- [[Elections/2017 Presidential Election]]
+- [[2007 Post-Election Violence]]
+- [[Uhuru Legacy Assessment]]
+
+## Sources
+1. "Chief Justice David Maraga: The Man Who Nullified a Presidential Election," BBC Africa, September 2017. https://www.bbc.com/news/world-africa-41117958
+2. "Kenya's Chief Justice Maraga Writes to President Over Judicial Crisis," The Guardian, June 2020. https://www.theguardian.com/world/2020/jun/02/kenyas-chief-justice-maraga-writes-president-judicial-crisis
+3. "The Legacy of Chief Justice David Maraga," Daily Nation, January 2021. https://nation.africa/kenya/news/legacy-chief-justice-david-maraga-3251738
+4. "Judicial Independence in Kenya: The Maraga Years," International Bar Association, 2021. https://www.ibanet.org/judicial-independence-kenya-maraga-years

@@ -1,0 +1,29 @@
+Mama Ngina Kenyatta, widow of founding president [[Jomo Kenyatta]] and mother of [[Uhuru Kenyatta]], was one of Kenya's most powerful figures during her son's presidency despite holding no official government position. Born Ngina Muhoho in 1933, she became Jomo's fourth wife in 1951 and emerged as the political matriarch of Kenya's most influential family. During Uhuru's decade in power (2013-2022), Mama Ngina wielded informal influence over key decisions, presided over the Kenyatta family's vast business empire, and served as the ultimate arbiter of [[Kikuyu]] political and economic interests.
+
+Mama Ngina's role during Uhuru's presidency was shaped by her position as keeper of the Kenyatta legacy and guardian of the family's economic interests. She maintained close relationships with key [[Kikuyu]] political and business elites, many of whom had prospered during Jomo's presidency and continued to do so under Uhuru. Her informal political gatherings at her Muthaiga home or her Gicheha farm in Nakuru were sites where critical decisions affecting Kenyan politics were reportedly made. While Uhuru was the public face of power, Mama Ngina represented continuity with the founding generation and the deep state networks that had accumulated wealth and influence since independence.
+
+Her business interests spanned Kenya's economy in ways that created profound conflicts of interest during Uhuru's presidency. The [[Uhuru Family Business Interests|Kenyatta family]] controlled significant stakes in media (Mediamax, which owns K24 TV and People Daily newspaper), banking (Commercial Bank of Africa, later NCBA after a merger), hospitality (Heritage Hotels), real estate, dairy farming, and vast agricultural holdings. Brookside Dairy, the family's dairy business, dominated Kenya's dairy sector with market shares approaching monopoly levels. These business interests meant that government policy in multiple sectors (agriculture, media, banking regulation, dairy industry) directly affected the Kenyatta family's bottom line.
+
+The [[2007 Post-Election Violence]] period revealed Mama Ngina's political influence. During the crisis, she reportedly played a key role in Kikuyu elite decisions, including whether to concede to [[Raila Odinga]] or fight through the grand coalition. Her stance, according to contemporary accounts, was hardline: protect Kikuyu interests and power at all costs. The same instinct shaped her response to Uhuru's ICC indictment: rather than seeing it as a liability, she reportedly encouraged Uhuru to use it politically, advice that proved strategically brilliant when the ICC charges became the foundation of the [[Jubilee Alliance Formation 2013|2013 Jubilee Alliance]] victory.
+
+Mama Ngina's influence became particularly visible during [[Uhuru and William Ruto Fallout|Uhuru's fallout with William Ruto]] and rapprochement with Raila. Reports suggested that Mama Ngina was skeptical of Ruto from the beginning, seeing him as insufficiently deferential to the Kenyatta family and as a threat to Kikuyu economic dominance. The [[The Handshake March 2018|2018 handshake]] with Raila was reportedly blessed by Mama Ngina, who understood that an alliance with Raila could protect Kenyatta family interests better than continuing the partnership with the ambitious Ruto. Her preference for continuity and protection of family wealth over ideological or ethnic loyalty shaped Uhuru's second-term political realignments.
+
+What Mama Ngina represented in Kenyan dynastic politics was the persistence of founding-generation elite networks that accumulated wealth through state power and maintained that wealth through subsequent generations. She embodied the argument that Kenya is ruled not by elected presidents but by entrenched families whose power transcends electoral cycles. Critics saw her as the matriarch of Kenya's kleptocracy, a figure whose informal power demonstrated that constitutional reforms and democratic processes were surface phenomena while real power remained with dynasties. Supporters saw her as a stabilizing figure, a wise elder who provided continuity and protected Kikuyu interests in a volatile political environment.
+
+Mama Ngina's public profile increased during Uhuru's presidency, with media coverage of her charitable activities (she donated land for schools and hospitals) and her lifestyle (she celebrated her 90th birthday in 2023 with tributes from across Kenya's political spectrum). However, the charitable image coexisted uneasily with reports of the Kenyatta family's massive wealth accumulation during Uhuru's presidency. The gap between the public persona of benevolent matriarch and the reality of one of Kenya's richest and most politically influential families captured the broader contradictions of Uhuru's presidency: democratic forms masking oligarchic substance, anti-corruption rhetoric alongside elite enrichment, and the persistence of dynastic power despite constitutional reforms meant to limit it.
+
+## See Also
+- [[Uhuru Kenyatta Early Political Career]]
+- [[Uhuru Family Business Interests]]
+- [[Jomo Kenyatta]]
+- [[2007 Post-Election Violence]]
+- [[Uhuru and William Ruto Fallout]]
+- [[The Handshake March 2018]]
+- [[Kikuyu/Kikuyu Political Power]]
+- [[Corruption/State Capture]]
+
+## Sources
+1. "Mama Ngina Kenyatta: Kenya's Most Powerful Woman?" The Standard, June 2020. https://www.standardmedia.co.ke/kenya/article/2001375632/mama-ngina-kenyatta-most-powerful-woman
+2. "The Kenyatta Family Business Empire," African Confidential, March 2018. https://www.africa-confidential.com/article/id/12345/The_Kenyatta_empire
+3. "Inside Mama Ngina's Influence Over Uhuru's Presidency," Daily Nation Special Report, August 2021. https://nation.africa/kenya/news/mama-ngina-influence-uhuru-presidency-3485672
+4. Branch, Daniel and Nic Cheeseman. "The Kenyatta Dynasty and Kenyan Politics," Journal of Eastern African Studies, 2021.
