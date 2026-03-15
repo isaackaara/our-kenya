@@ -19,6 +19,9 @@ article.homepage {
   .article-title {
     display: none;
   }
+  .content-meta {
+    display: none;
+  }
 }
 
 .ok-hero {
@@ -56,47 +59,22 @@ article.homepage {
 .ok-cta-secondary,
 .ok-cta-outline {
   display: inline-block;
-  padding: 0.5625rem 1.125rem;
+  padding: 0.6rem 1.4rem;
   border-radius: 4px;
   font-size: 0.9rem;
   font-weight: 600;
   text-decoration: none;
-  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  border: 1.5px solid var(--dark);
+  color: var(--dark);
+  background: transparent;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
-.ok-cta-primary {
+.ok-cta-primary:hover,
+.ok-cta-secondary:hover,
+.ok-cta-outline:hover {
   background: var(--dark);
   color: var(--light);
-  border: 1px solid var(--dark);
-}
-
-.ok-cta-primary:hover {
-  opacity: 0.85;
-  color: var(--light);
-  text-decoration: none;
-}
-
-.ok-cta-secondary {
-  background: var(--secondary);
-  color: #fff;
-  border: 1px solid var(--secondary);
-}
-
-.ok-cta-secondary:hover {
-  opacity: 0.85;
-  color: #fff;
-  text-decoration: none;
-}
-
-.ok-cta-outline {
-  background: transparent;
-  color: var(--darkgray);
-  border: 1px solid var(--lightgray);
-}
-
-.ok-cta-outline:hover {
-  border-color: var(--dark);
-  color: var(--dark);
   text-decoration: none;
 }
 
