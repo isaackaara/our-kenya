@@ -1,21 +1,5 @@
 @use "./base.scss";
 
-// Kenya flag palette - used sparingly as accents
-:root {
-  --kenya-green: #006B3F;
-  --kenya-red: #BB0000;
-}
-
-// Subtle Kenyan accent: thin red line at the top of the left sidebar
-.left.sidebar-layout {
-  border-top: 3px solid var(--kenya-red);
-}
-
-// Kenyan green on interactive link hover in content
-.center a:not(.tag-link):hover {
-  color: var(--kenya-green);
-}
-
 // Footer links - Our Kenya pages
 footer a {
   color: var(--secondary);
@@ -23,7 +7,6 @@ footer a {
 }
 
 footer a:hover {
-  color: var(--kenya-green);
   text-decoration: underline;
 }
 
@@ -82,15 +65,14 @@ article.homepage {
 }
 
 .ok-cta-primary {
-  background: var(--kenya-green);
-  color: #fff;
-  border: 1px solid var(--kenya-green);
+  background: var(--dark);
+  color: var(--light);
+  border: 1px solid var(--dark);
 }
 
 .ok-cta-primary:hover {
-  background: #005530;
-  border-color: #005530;
-  color: #fff;
+  opacity: 0.85;
+  color: var(--light);
   text-decoration: none;
 }
 
@@ -113,8 +95,8 @@ article.homepage {
 }
 
 .ok-cta-outline:hover {
-  border-color: var(--kenya-green);
-  color: var(--kenya-green);
+  border-color: var(--dark);
+  color: var(--dark);
   text-decoration: none;
 }
 
@@ -139,8 +121,8 @@ article.homepage {
 }
 
 .ok-vertical-card:hover {
-  border-color: var(--kenya-green);
-  box-shadow: 0 2px 8px rgba(0, 107, 63, 0.1);
+  border-color: var(--dark);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   text-decoration: none;
   color: var(--dark);
 }
@@ -160,7 +142,7 @@ article.homepage {
 // Story Trails callout on homepage
 .ok-trails-callout {
   background: var(--highlight);
-  border-left: 3px solid var(--kenya-green);
+  border-left: 3px solid var(--dark);
   border-radius: 4px;
   padding: 1rem 1.25rem;
   margin: 1.5rem 0;
@@ -178,7 +160,7 @@ article.homepage {
 }
 
 .ok-trails-callout a {
-  color: var(--kenya-green);
+  color: var(--secondary);
   font-weight: 600;
 }
 
@@ -187,13 +169,12 @@ article.homepage {
   display: inline-block;
   margin-top: 0.75rem;
   font-weight: 600;
-  color: var(--kenya-green);
+  color: var(--secondary);
   text-decoration: none;
 }
 
 .ok-section-cta:hover {
   text-decoration: underline;
-  color: var(--kenya-green);
 }
 
 // ============================================================
