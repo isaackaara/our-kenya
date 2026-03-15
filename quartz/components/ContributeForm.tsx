@@ -188,6 +188,34 @@ ContributeForm.css = `
   max-width: 600px;
   font-style: italic;
 }
+
+@media (max-width: 600px) {
+  .ok-form-wrapper {
+    margin-top: 1.5rem;
+  }
+
+  .ok-form {
+    max-width: 100%;
+  }
+
+  .ok-form input[type="text"],
+  .ok-form input[type="email"],
+  .ok-form textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .ok-btn-primary {
+    width: 100%;
+    min-height: 48px;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+  }
+
+  .ok-form-note {
+    font-size: 0.8rem;
+  }
+}
 `
 
 ContributeForm.afterDOMLoaded = `

@@ -102,7 +102,8 @@
   .share-container {
     .share-button {
       font-size: 0.85rem;
-      padding: 0.45rem 0.65rem;
+      padding: 0.65rem 0.75rem;
+      min-height: 44px;
       
       .share-icon {
         width: 14px;
@@ -112,12 +113,17 @@
 
     &.prominent .share-button {
       font-size: 0.95rem;
-      padding: 0.65rem 0.9rem;
+      padding: 0.75rem 1rem;
+      min-height: 48px;
 
       .share-icon {
         width: 16px;
         height: 16px;
       }
+    }
+
+    .share-fallback {
+      display: none;
     }
   }
 }

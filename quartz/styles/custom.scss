@@ -6,6 +6,40 @@
   --kenya-red: #BB0000;
 }
 
+// Ensure proper mobile padding on all article content
+@media (max-width: 600px) {
+  .center > article,
+  .page-header,
+  .page-footer,
+  footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  body {
+    font-size: 14px;
+  }
+
+  article p,
+  article li,
+  article td {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  article h1 {
+    font-size: 1.75rem;
+  }
+
+  article h2 {
+    font-size: 1.4rem;
+  }
+
+  article h3 {
+    font-size: 1.2rem;
+  }
+}
+
 // Subtle Kenyan accent: thin red line at the top of the left sidebar
 .left.sidebar-layout {
   border-top: 3px solid var(--kenya-red);
@@ -254,10 +288,6 @@ article.homepage {
 // ============================================================
 
 @media (max-width: 800px) {
-  .ok-verticals {
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-  }
-
   .ok-hero {
     padding: 1.25rem 0 2rem;
   }
@@ -272,5 +302,66 @@ article.homepage {
   .ok-cta-outline {
     width: 100%;
     text-align: center;
+    min-height: 48px;
+  }
+
+  .ok-verticals {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .ok-hero {
+    padding: 1rem 0 1.5rem;
+  }
+
+  .ok-tagline {
+    font-size: 1.75rem;
+    margin-bottom: 0.625rem;
+  }
+
+  .ok-intro {
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .ok-cta-primary,
+  .ok-cta-secondary,
+  .ok-cta-outline {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+  }
+
+  .ok-verticals {
+    grid-template-columns: 1fr;
+    gap: 0.625rem;
+  }
+
+  .ok-vertical-card {
+    padding: 1rem 1.125rem;
+  }
+
+  .ok-vertical-card strong {
+    font-size: 1rem;
+  }
+
+  .ok-vertical-card span {
+    font-size: 0.85rem;
+  }
+
+  .ok-trails-callout {
+    padding: 0.875rem 1rem;
+    margin: 1.25rem 0;
+  }
+
+  .ok-trails-callout p {
+    font-size: 0.9rem;
+  }
+
+  article ul li a {
+    display: block;
+    min-height: 44px;
+    padding: 0.5rem 0;
+    line-height: 1.5;
   }
 }
