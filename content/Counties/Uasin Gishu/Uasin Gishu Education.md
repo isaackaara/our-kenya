@@ -1,18 +1,38 @@
 # Uasin Gishu Education
 
-[[../Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] has Moi University and the University of Eldoret as higher education institutions, supplemented by numerous secondary and primary schools.
+[[Uasin Gishu]] County's educational infrastructure has expanded substantially since Kenya's independence in 1963, with primary schools established in most communities, secondary schools providing post-primary education, and tertiary institutions including [[Moi University]] anchoring higher learning. The county's educational outcomes have been relatively strong by Kenyan standards, particularly in secondary school national examinations and university entrance rates, reflecting both the wealth of the county relative to poorer regions and sustained investment in educational infrastructure.
 
+Primary education in Uasin Gishu is provided through both government schools and private institutions, with government schools accounting for the majority of enrollment. Primary school enrollment has expanded substantially since the introduction of free primary school tuition in 2003, with enrollment rates reaching approximately 85-90 percent of school-age children. Quality of education remains variable, with well-funded schools in [[Eldoret City]] and surrounding commercial centers offering superior facilities and instruction compared to rural schools. The pupil-to-teacher ratio in primary schools averages approximately 40-50 students per teacher, with significant variation between schools. Many primary schools struggle with inadequate facilities, limited learning materials, and teacher absenteeism in remote areas.
+
+Secondary school education in Kenya is selective, with students gaining entry based on primary school completion examination results. Entry to government secondary schools is centrally determined based on examination performance and school availability, creating competition for slots in the most highly regarded schools. [[Eldoret City]] and surrounding areas have numerous secondary schools, both government and private institutions, while remote areas have limited secondary school access. Private secondary schools cater primarily to families with sufficient wealth to afford tuition fees. The quality of secondary schools in Uasin Gishu varies significantly, with elite schools providing excellent facilities and instruction while others operate with minimal resources.
+
+Secondary school examination performance in Uasin Gishu has been respectable, with students achieving pass rates somewhat above national averages in recent years. Science subjects (mathematics, physics, chemistry, biology) are considered particularly important for university entrance and future career prospects. However, concern about declining quality in science education has been expressed by educators, with laboratories and practical instruction sometimes inadequate. Secondary school completion and progression to higher education varies by socioeconomic status, with students from wealthier families more likely to progress to university.
+
+Tertiary education in Uasin Gishu is anchored by [[Moi University]], a national university that offers undergraduate and postgraduate programs across multiple disciplines. Moi University provides access to higher education for residents of Uasin Gishu and surrounding regions, reducing the necessity to travel to Nairobi or other distant centers for university education. The university has expanded substantially since its establishment in 1984, increasing enrollment capacity and adding new academic programs. However, the university faces constraints in facility maintenance, equipment provision, and faculty recruitment that limit its capacity to compete with more prestigious institutions.
+
+In addition to Moi University, Uasin Gishu is home to several polytechnics and technical institutes providing vocational and technical education. These institutions offer two-year or three-year programs in fields including engineering, hospitality, agriculture, and business. Technical education has traditionally been less valued than academic university education in Kenya, though recent policy emphasis on technical skills development has elevated the status of technical institutes. Private technical colleges operate alongside government-sponsored institutions, offering programs for students seeking non-university post-secondary education.
+
+Teacher training in Uasin Gishu is provided through teacher training colleges that prepare primary and secondary school teachers. These institutions have faced capacity constraints and quality challenges, with concerns about the quality of instruction provided to teacher trainees. The recruitment of teachers from teacher training colleges and universities for government schools is centralized, with postings determined administratively. Teacher shortages have plagued many rural schools, with teachers sometimes reluctant to accept posting to remote areas due to limited social amenities and professional development opportunities.
+
+Early childhood education (kindergarten and pre-primary) has expanded in Uasin Gishu, with both government and private centers providing care and basic instruction for young children. The quality and accessibility of early childhood education varies significantly, with well-resourced urban centers offering enrichment programs while rural areas rely on basic care functions. Policy emphasis on early childhood development has increased in recent years, recognizing the importance of early learning for later academic success.
+
+Gender dynamics in education show substantial progress toward gender parity at primary and secondary levels, with girl enrollment now approaching or matching boy enrollment in many schools. However, gender disparities in subject selection persist, with girls underrepresented in science and technical subjects. Cultural factors, including expectations that girls focus on domestic roles, continue to constrain girls' participation in certain educational pathways. The proportion of female teachers has increased but remains below the proportion of female students, particularly in secondary schools and higher education.
+
+Access to education in rural areas of Uasin Gishu remains constrained by distance (schools are sometimes several kilometers from students' homes), poverty (inability to afford uniforms, books, transportation), and opportunity costs (pressure to engage in productive labor rather than attend school). School dropout rates, particularly at the transition from primary to secondary school, remain significant. Initiatives to address these barriers have included school feeding programs, elimination of user fees, and conditional cash transfers to poor households, though implementation remains incomplete and funding inadequate.
+
+The physical infrastructure of Uasin Gishu's educational institutions varies significantly. Urban schools in Eldoret often have multiple buildings, adequate classrooms, laboratories, libraries, and sports facilities. Rural schools frequently operate from a handful of structures, often in poor repair, with minimal equipment and learning materials. Water and sanitation facilities are often inadequate, particularly in remote schools. The disparity in infrastructure between urban and rural schools contributes to disparities in educational quality and student outcomes.
 
 ## See Also
 
-[[Uasin Gishu Timeline]]
+[[Moi University]]
 [[Eldoret City]]
-[[Iten Running Camp]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Uasin Gishu]]
 [[Uasin Gishu Agriculture]]
-[[Kenya Distance Running Culture]]
+[[University of Eldoret]]
+
 ## Sources
 
-1. https://en.wikipedia.org/wiki/Education_in_Kenya
-2. https://www.uasingishu.go.ke/education/
-3. https://www.education.go.ke/
+1. https://www.education.go.ke/
+2. https://www.knbs.or.ke/
+3. https://www.mu.ac.ke/
+4. https://www.worldbank.org/en/country/kenya

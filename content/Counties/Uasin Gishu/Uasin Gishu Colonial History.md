@@ -1,18 +1,38 @@
 # Uasin Gishu Colonial History
 
-The Uasin Gishu plateau was incorporated into Kenya's White Highlands during the colonial period. The colonial government expropriated the land, removing or restricting [[../../Kalenjin/Kalenjin|Kalenjin]] pastoral and agricultural populations. Land alienation in Uasin Gishu created grievances that influenced post-independence politics.
+[[Uasin Gishu]] County was shaped fundamentally by British colonialism, which established political control, initiated large-scale settler land appropriation, constructed transportation infrastructure, and incorporated the region into colonial economic systems. The transformation from indigenous Kalenjin pastoral and agricultural societies to a colonial territory with settler farmers, administrative infrastructure, and commercial linkages occurred over approximately 40 years (1890-1930), with lasting consequences that persist in contemporary land ownership patterns, ethnic relations, and economic structures.
 
+The colonial conquest of Uasin Gishu began in the 1890s when the British established administrative control over the region. The decision to incorporate the Rift Valley highlands into the British East Africa Protectorate (later Kenya Colony) was motivated by strategic interests (maintaining a corridor of control linking Uganda to the coast) and economic interests (accessing potentially productive agricultural regions). Colonial administrators established an administrative post in the region and began the process of establishing colonial authority, including the collection of taxes and the enforcement of colonial laws and policies.
+
+The construction of a railway from Mombasa to Lake Victoria, completed in 1901, passed through the Rift Valley and established a station at what would become [[Eldoret City]]. The railway fundamentally altered the region's economic geography by enabling the transport of goods (particularly agricultural products) to markets outside the region. The railway station at Eldoret became a trading post and administrative center, attracting merchants, colonial officials, and settlers. The railway connection created economic incentives for agricultural production oriented toward external markets rather than subsistence or local markets.
+
+The most consequential colonial policy for Uasin Gishu was the appropriation of vast areas of land for settler farms. The British colonial government allocated land in the fertile Rift Valley highlands to European settlers, who were provided large landholdings (typically 500-2,000 acres) at nominal cost or as crown grants. The justification offered was that European settlers possessed capital, technical knowledge, and commitment to commercial agriculture that would develop the colony's productive capacity. Between 1901 and 1920, approximately 400,000 acres of the most productive land in Uasin Gishu were alienated to European settler ownership. The Kalenjin indigenous population was displaced to smaller, less-productive land reserves, reducing their access to pastoral resources and forcing adaptation to new forms of livelihood.
+
+The settlers who came to Uasin Gishu were diverse in origin but predominantly European. Prominent among them were wheat farmers from Europe and South Africa, drawn by the elevation, rainfall, and soil conditions suitable for wheat cultivation. The [[Afrikaner Trek Uasin Gishu|arrival of Afrikaner settlers from South Africa in 1908]] introduced new agricultural technologies and commercial orientation to wheat farming. These settlers established large commercial farms, imported agricultural machinery, and organized marketing of wheat to external markets through the railway. Their success in wheat farming demonstrated the economic potential of the region and attracted additional settlers.
+
+Colonial land appropriation was facilitated by the colonial government's assertion of sovereignty over all "unalienated" land. Kalenjin pastoralists who had used the region for centuries were declared to have no property rights in the land; instead, the colonial government claimed ownership and allocated it to settlers. The justification for this appropriation was based on racist ideologies that denied the validity of African land use patterns and asserted the superiority of European agricultural development. Kalenjin resistance to dispossession was limited by their lack of military capacity relative to colonial forces and their initial incomprehension of the permanence of European claims to land.
+
+The concentration of land in settler ownership created economic inequality and resentment that would have long-term political and social consequences. By the 1920s and 1930s, a substantial white settler community had established itself in Uasin Gishu and surrounding regions, enjoying political power disproportionate to their numbers and economic access that was denied to the African population. Settler political power was exercised through the Legislative Council (the colonial representative institution, which excluded Africans until the 1940s) and through informal influence over colonial administrators. Settler interests, particularly in land and labor, shaped colonial policy.
+
+The colonial economy of Uasin Gishu centered on wheat farming and the movement of agricultural products through the railway to markets outside the region. Commercial agricultural production expanded substantially during the colonial period, particularly after World War I when global grain prices were elevated. Settler farmers prospered, accumulated capital, and made substantial investments in farm improvements, including irrigation infrastructure and mechanical equipment. This commercial agriculture created employment for Kalenjin laborers, though wages were low and working conditions exploitative. Colonial taxation of Africans was implemented partly to force Africans into wage labor to generate income for tax payment.
+
+Administrative infrastructure was established throughout the region, including district offices, police stations, and schools. The primary school system was developed partly by colonial authorities and partly by missionary organizations, with education oriented toward producing skilled laborers for the colonial economy and Christian conversion. Higher education was limited and primarily available to the settler population. Health services were similarly oriented toward the settler population, with limited services available to Africans.
+
+The colonial period saw the introduction of new crops and cultivation techniques that transformed agricultural systems. In addition to wheat introduced by settlers, maize cultivation expanded among Kalenjin farmers cultivating their diminished land reserves. New varieties of beans and other vegetables were introduced. Livestock management practices were partially disrupted by colonial restrictions on pastoral movement and grazing, though pastoral systems persisted in marginal areas. The colonial period thus represented both continuity (persistence of agricultural and pastoral practices) and discontinuity (new crops, new land ownership patterns, new economic relationships).
+
+The impact of colonialism on Kalenjin societies was profound and lasting. The appropriation of land restricted the economic base of pastoral and agricultural societies. The introduction of wage labor created economic dependencies and social divisions between those with access to good land and those dependent on wages. Colonial taxation created new economic obligations and constraints. The conversion to Christianity (promoted through colonial missionary schools) altered religious and social structures. Political authority was transformed from decentralized leadership among Kalenjin communities to centralized colonial administration. By the end of the colonial period in 1963, Uasin Gishu was fundamentally different from the pre-colonial region, with settler dominance of the best agricultural land, a transformed economy, and deep grievances that would erupt in post-independence politics.
 
 ## See Also
 
-[[Uasin Gishu Timeline]]
+[[Afrikaner Trek Uasin Gishu]]
 [[Eldoret City]]
-[[Iten Running Camp]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Uasin Gishu Land History]]
 [[Uasin Gishu Agriculture]]
-[[Kenya Distance Running Culture]]
+[[Uasin Gishu Ethnic Composition]]
+
 ## Sources
 
-1. https://en.wikipedia.org/wiki/White_Highlands
-2. https://www.britannica.com/place/Uasin-Gishu-colonial-period
-3. https://www.jstor.org/stable/40986268
+1. https://en.wikipedia.org/wiki/History_of_Kenya
+2. https://www.britannica.com/place/Kenya
+3. https://scholar.google.com/scholar
+4. https://www.jstor.org/

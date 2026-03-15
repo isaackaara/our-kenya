@@ -1,18 +1,36 @@
 # Uasin Gishu Industries
 
-Eldoret's industrial sector includes textiles (Rivatex East Africa), cement production, food processing, and other light manufacturing. The industrial base is relatively limited compared to major manufacturing centers.
+[[Uasin Gishu]] County's industrial sector has historically been modest relative to the county's agricultural economy, though light manufacturing and agro-processing enterprises are significant employers. The county's primary industrial enterprises are concentrated in [[Eldoret City]] and surrounding areas, with location decisions driven by proximity to agricultural raw materials, availability of transport infrastructure (railway, roads, airport), and access to skilled labor. The industrial sector has declined in relative importance since the 1990s as manufacturing activities have diminished, though recent policy emphasis on industrial development has created opportunities for revitalization.
 
+The textile industry is the most historically significant manufacturing sector in Uasin Gishu. [[Rivatex East Africa Limited]] was established in the 1970s as a state-owned enterprise to produce cotton textiles for the domestic and regional markets. At peak operations in the 1980s and 1990s, Rivatex employed several thousand workers and was a symbol of Kenyan manufacturing capacity. The company's decline has been substantial, with production largely halted by the 2010s due to competition from international imports, aging machinery, and management challenges. Ongoing revival efforts have sought to restore the facility, with new management attempting to modernize operations and compete in contemporary textile markets. However, the competitive challenges facing Rivatex are structural and relate to the cost competitiveness of manufacturing in Kenya relative to lower-wage producing countries.
+
+Agro-processing industries are significant in Uasin Gishu, based on the county's substantial agricultural production. Grain milling enterprises process wheat and maize into flour for local and national consumption. These facilities are geographically distributed across the county, with small mills serving local communities and larger facilities in Eldoret processing grain from wider areas. Food processing enterprises produce items including cooking oil (from sunflower and other oilseed crops), sugar processing, fruit processing, and other value-added agricultural products. These industries rely on adequate supply of agricultural raw materials and market access for finished products.
+
+The floriculture industry has emerged as a significant industrial sector, particularly in the period since 2000. The availability of air transport through [[Eldoret International Airport]] and the elevation and climate conditions suitable for flower production have attracted horticultural companies producing flowers for export. Cut flower production enterprises operate in Uasin Gishu and supply flowers to international markets, primarily in Europe. This industry is more capital-intensive than traditional agriculture and requires adherence to international phytosanitary and quality standards. Employment in the floriculture industry involves both farm workers and processing/packaging workers. The industry has contributed to export revenue and employment but also raises questions about water resource use and sustainability.
+
+Meat processing enterprises operate in Uasin Gishu, processing livestock into meat products for domestic consumption and regional trade. The county's livestock production provides a supply of animals for these processors. Meat processing facilities range from large commercial operations meeting international standards to small butcheries serving local communities. The meat industry faces challenges related to animal disease management, food safety standards, and competition from imports of processed meat products.
+
+Beverage production, including beer brewing and soft drink production, represents another industrial sub-sector. The presence of a substantial local market and access to agricultural raw materials (particularly grains) has attracted beverage manufacturers to the region. Some production occurs at regional brewery facilities located outside Eldoret but supplied with grain and inputs from Uasin Gishu.
+
+Pharmaceutical and chemical manufacturing has emerged as a smaller but growing industrial sector, with some facilities producing medical products and agricultural chemicals in Eldoret and surrounding areas. These facilities typically operate at smaller scale than agro-processing industries but require technical expertise and regulatory compliance. The sector benefits from proximity to [[Moi University]] and research institutions that provide technical knowledge and potential collaborative relationships.
+
+The manufacturing sector in Uasin Gishu has faced persistent challenges. Competition from imported manufactures has constrained the growth of import-substituting industries. Power costs, particularly electricity, are high and have increased substantially over recent decades, raising production costs. Water scarcity during dry seasons constrains production in water-intensive industries. The limited availability of skilled technical personnel has constrained industrial expansion. Inadequate financing for business expansion and equipment modernization has limited industrial growth. These structural challenges have contributed to the declining importance of manufacturing in the county's economy relative to agriculture and services.
+
+Recent policy initiatives have attempted to revitalize manufacturing in Kenya and Uasin Gishu. The government has promoted special economic zones and industrial parks as mechanisms for attracting investment and manufacturing activity. Tax incentives and reduced tariffs on imported industrial equipment have been offered. Technical training and skills development programs have been expanded. However, implementation of these policies has been partial and effectiveness unclear. The fundamental challenge of competing with lower-cost producers in Asia remains difficult to overcome without substantial productivity improvements or movement toward higher-value-added manufacturing.
+
+The future of manufacturing in Uasin Gishu will depend on capacity to modernize existing enterprises, develop new higher-value-added industries, and improve the business environment for industrial activity. Opportunities may exist in specialty food products, horticulture (flowers, vegetables), and agricultural machinery production based on the county's strengths in agriculture. The relationship between manufacturing development and agricultural growth will likely be important, with agro-processing and agribusiness activities potentially more competitively sustainable than general manufacturing.
 
 ## See Also
 
-[[Uasin Gishu Timeline]]
+[[Rivatex Eldoret]]
 [[Eldoret City]]
-[[Iten Running Camp]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Eldoret Infrastructure]]
 [[Uasin Gishu Agriculture]]
-[[Kenya Distance Running Culture]]
+[[Eldoret International Airport]]
+
 ## Sources
 
-1. https://en.wikipedia.org/wiki/Manufacturing_in_Kenya
-2. https://www.boardofinvestment.or.ke/
-3. https://www.kenyaindustry.org/
+1. https://www.uasingishu.go.ke/industries/
+2. https://www.business.go.ke/
+3. https://www.worldbank.org/en/country/kenya
+4. https://www.theeastafricanjournal.com/

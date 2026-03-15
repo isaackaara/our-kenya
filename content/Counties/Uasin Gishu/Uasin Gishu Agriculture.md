@@ -1,18 +1,36 @@
 # Uasin Gishu Agriculture
 
-Uasin Gishu's agricultural economy extends beyond wheat to include maize, dairy, pigs, and poultry production. The county's cool highland climate and fertile soils support diverse agricultural activities.
+Agriculture is the economic foundation of [[Uasin Gishu]] County, employing approximately 70 percent of the population and providing the primary source of income for rural households and agro-processing enterprises. The county is Kenya's leading wheat-producing region, accounting for approximately 40 percent of national wheat production; it is also a significant maize producer and home to dairy farming, horticulture, and other agricultural activities. The fertile highland soils, temperate climate, and established market infrastructure have made Uasin Gishu the most agriculturally productive region in the North Rift and a critical food-producing region for Kenya's national food security.
 
+Wheat farming dominates the agricultural economy of Uasin Gishu, with cultivation concentrated on mid-altitude slopes (1,900-2,400 meters elevation) where rainfall and temperatures suit wheat production. The crop was introduced during the colonial period by settler farmers from Europe and South Africa (particularly the [[Afrikaner Trek Uasin Gishu|Afrikaner settlers who arrived in 1908]]), who established wheat as the commercial crop of choice for the region. Post-independence, wheat farming expanded among smallholder and commercial farmers, and the government provided extension services, credit, and market support to encourage production. Current wheat production relies on both large commercial farms and smallholder farmers, with smallholders typically cultivating 1-5 hectares while commercial farms exceed 50 hectares.
+
+Wheat yields in Uasin Gishu have declined in recent decades relative to historical peaks, driven by multiple factors: soil exhaustion from continuous monoculture without adequate fallowing or crop rotation; increasing pressure from pests and diseases; rising input costs (fertilizer, seeds, pesticides); and price volatility in both output and input markets. Farmers have responded with varying success to these challenges through adoption of improved seed varieties, increased use of fertilizer, disease management practices, and diversification into other crops. However, technological adoption remains incomplete, with many smallholder farmers using traditional methods and older seed varieties. Rainfall variability, including increasing frequency of both droughts and excessive rainfall events, has added climatic stress to wheat production.
+
+Maize is a secondary commercial crop and a subsistence crop for food security for many Uasin Gishu households. Maize is cultivated at lower elevations (1,500-2,000 meters) than wheat and serves multiple functions: commercial cash crop, livestock feed, and human food staple. Maize production is more vulnerable to rainfall variability than wheat, with droughts causing rapid crop failure. Despite these vulnerabilities, maize remains important as a food security crop and as insurance against total crop failure (farmers cultivate both wheat and maize to hedge against crop-specific climate and market risks). Production has shifted partially toward improved drought-tolerant varieties in recent years.
+
+Dairy farming is a significant secondary agricultural enterprise, particularly in the high-rainfall central portion of the county. Farmers maintain dairy cattle and sell milk to local cooperatives or directly to traders who transport milk to [[Eldoret City]] for processing or urban consumption. Dairy production provides income generation and also serves livestock-holding objectives: farmers treat dairy cattle as wealth stores that provide regular milk income. Milk prices are volatile, responding to seasonal gluts (rainy season high production, low prices) and scarcities (dry season low production, high prices). Dairy farming has expanded in response to rising urban demand for milk and milk products, but productivity remains constrained by animal breed quality, feed availability, and disease management.
+
+Horticultural production, including vegetables and fruits, has expanded in recent years as farmers have diversified away from wheat monoculture and responded to expanding urban markets. Tomatoes, cabbages, onions, and beans are produced for [[Eldoret City]] and regional markets. Some horticultural production is exported, particularly through [[Eldoret International Airport]], with flowers and high-value vegetables reaching international markets. Horticultural production offers higher income per hectare than grains but requires greater inputs (labor, water, pest management) and knowledge of market requirements and food safety standards. Smallholder participation in horticulture has expanded with support from non-governmental organizations and input suppliers, though access to reliable markets and price information remains a constraint.
+
+Pyrethrum (from which insecticides are derived) has been a traditional crop in higher-altitude zones of Uasin Gishu and neighboring counties. Pyrethrum production has declined in recent decades as synthetic pesticides have displaced the natural product. However, there has been recent renewed interest in pyrethrum from international organic certification and niche markets paying premium prices for natural insecticides. Pyrethrum farmer associations have reemerged with support from development organizations, seeking to revive the industry and capture niche market opportunities.
+
+Livestock production extends beyond dairy cattle to include beef cattle, sheep, goats, and poultry. Livestock serve multiple functions: income generation (sale of animals and animal products), food provision (milk, meat, eggs), asset accumulation (wealth storage in living animals), and soil fertility management (through manure). The highlands of Uasin Gishu are well-suited to ruminant production, and pastoral and agropastoral systems have historically dominated the region. Contemporary livestock production is mixed with crop production in most farming systems, with farmers maintaining small herds alongside crop cultivation.
+
+Agricultural markets in Uasin Gishu are characterized by both organized and informal components. Formal markets include grain marketing boards (particularly for wheat, which is channeled through formal marketing systems), dairy cooperatives, and export channels for horticultural products. Informal markets include direct farmer-to-consumer sales, local traders who aggregate produce, and informal credit and input supply networks. Market price information is increasingly available through mobile phone technology, enabling farmers to compare prices and improve marketing decisions. However, farmers typically lack bargaining power relative to traders and processing companies, and marketing margins captured by traders often exceed what farmers receive.
+
+Climate change poses significant long-term challenges to Uasin Gishu agriculture. Rainfall patterns are becoming increasingly variable and erratic, creating both flooding and drought risks. Temperature increases, though modest in absolute terms, affect crop development timing and pest dynamics. Agricultural extension services are being adapted to promote climate-smart agriculture including water harvesting, soil conservation, crop diversification, and other practices to enhance resilience. However, implementation of these practices requires investment and behavior change that proceeds more slowly than the pace of climate changes.
 
 ## See Also
 
-[[Uasin Gishu Timeline]]
+[[Uasin Gishu Wheat Farming]]
+[[Uasin Gishu Climate]]
 [[Eldoret City]]
-[[Iten Running Camp]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
-[[Uasin Gishu Agriculture]]
-[[Kenya Distance Running Culture]]
+[[Afrikaner Trek Uasin Gishu]]
+[[Uasin Gishu Industries]]
+
 ## Sources
 
-1. https://en.wikipedia.org/wiki/Agriculture_in_Kenya
-2. https://www.uasingishu.go.ke/agriculture/
-3. https://www.kalro.org/regions/western
+1. https://www.uasingishu.go.ke/agriculture/
+2. https://www.fao.org/kenya
+3. https://www.knbs.or.ke/
+4. https://www.worldbank.org/en/country/kenya

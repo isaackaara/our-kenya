@@ -1,18 +1,37 @@
 # Uasin Gishu Ethnic Composition
 
-[[../Uasin Gishu/Uasin Gishu County|Uasin Gishu County]]'s population is dominated by [[../../Kalenjin/Kalenjin|Kalenjin]] community, particularly Nandi and Kipsigis subgroups. Post-independence land redistribution brought [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Luo/Luo|Luo]], [[../../Luhya/Luhya|Luhya]], and other settler communities.
+The ethnic composition of [[Uasin Gishu]] County reflects the region's colonial history of settler land appropriation, post-independence land redistribution, and political economy of agricultural production. The county is ethnically heterogeneous, with the Kalenjin (particularly Nandi and Kipsigis subgroups) as the indigenous majority comprising approximately 50-55 percent of the population, and substantial minority populations of Kikuyu (25-30 percent), Luo (8-12 percent), Luhya (3-5 percent), and smaller numbers of other groups including Somali, Kisii, and others. This ethnic diversity, unusual in Kenya where most counties have a demographic majority of a single ethnic group, creates distinctive social and political dynamics and has been a source of significant conflict.
 
+The Kalenjin are the indigenous inhabitants of the Rift Valley highlands, with ancestors inhabiting the region for centuries. The Kalenjin comprise multiple ethnic subgroups including Nandi, Kipsigis, Marakwet, Pokot, Tugen, Samburu, and others, speaking related Nilotic languages and sharing cultural practices including pastoral and agropastoral livelihoods. In Uasin Gishu specifically, the Nandi and Kipsigis are the primary Kalenjin subgroups. Historically, Kalenjin societies were organized in decentralized political structures without centralized kingdoms or emirates, with authority distributed among age-sets and lineages. Pastoral cattle herding was economically central, though agriculture was practiced in higher-rainfall zones.
+
+The colonial appropriation of Rift Valley lands displaced Kalenjin populations and reduced their access to productive resources. Large areas of Kalenjin grazing lands and agricultural areas were allocated to European settler farmers, confining Kalenjin populations to smaller land reserves. This dispossession created lasting resentment and a sense among Kalenjin populations that they were being marginalized in their ancestral homeland. Kalenjin identity was reinforced by experiences of colonial discrimination and land loss, creating ethnic consciousness that would become politically salient in post-independence politics.
+
+Kikuyu immigration to Uasin Gishu occurred primarily during Kenya's post-independence land redistribution of the 1960s and 1970s. The Kikuyu people, from the highlands east of the Rift Valley, had been concentrated in a smaller region during the colonial period. After independence, land policy was gradually liberalized, enabling non-Kikuyu to purchase land in areas previously restricted to settler ownership. Kikuyu purchased substantial land holdings in the fertile Rift Valley, including in Uasin Gishu, establishing farms and businesses. This land purchase was facilitated by Kikuyu access to capital, business networks, and preferential access to government resources and credit during the presidency of Jomo Kenyatta (1964-1978), a Kikuyu.
+
+The Kikuyu population in Uasin Gishu became concentrated in specific neighborhoods in [[Eldoret City]] and in farming areas with productive soils. Kikuyu accumulated wealth through agricultural production (wheat farming, horticulture), commerce, and business enterprises. Their economic success generated resentment among Kalenjin communities who felt economically marginalized despite living in their ancestral homeland. The concentration of Kikuyu in particular areas made them vulnerable to targeted violence during the [[Uasin Gishu 2007 Violence|2007-2008 post-election violence]].
+
+Luo immigration to Uasin Gishu was more limited than Kikuyu immigration but resulted in a significant minority population concentrated primarily in urban areas, particularly [[Eldoret City]]. Luo are from the Lake Victoria region west of Uasin Gishu and are historically traders and businesspeople who migrated to Eldoret and other urban centers for commercial opportunities. Luo in Uasin Gishu typically engage in trading, small business, and service sector activities rather than large-scale agriculture. Their political power in the county is limited relative to their numbers, though they participate in political processes.
+
+The ethnic heterogeneity of Uasin Gishu has been a source of both economic dynamism and social conflict. The diversity has enabled mixing of agricultural techniques, knowledge transfer, and entrepreneurial innovation. Inter-ethnic commerce and relationships have occurred in many communities. However, the diversity has also created competition for resources, particularly land, and has enabled the mobilization of ethnic identity for political purposes. Political parties and politicians have historically mobilized ethnic constituencies, appealing to shared ethnic interests rather than cross-cutting issues. Elections have often involved ethnic bloc voting, with voters from each ethnic group preferentially supporting candidates from their own group.
+
+Ethnic relations deteriorated sharply during the [[Kiambaa Church Burning 2008|2007-2008 post-election violence]], when the disputed presidential election triggered violence primarily directed at Kikuyu and Luo communities perceived as opposing Kalenjin political interests. Hundreds were killed, thousands displaced, and ethnic antagonisms were severely inflamed. Recovery from this violence has been slow, with many displaced communities remaining separated from their former homes and communities remaining ethnically fractured. Inter-ethnic marriage, business partnerships, and friendships have continued despite the violence, though overall intercommunal relations remain cautious and marked by underlying tension.
+
+The post-election violence experience has made ethnic identity more politically salient and consequential. Kalenjin identity has been politically mobilized around the figure of [[William Ruto and Uasin Gishu|William Ruto]], a Kalenjin politician from Uasin Gishu whose political career has partly been built on appeals to Kalenjin interests and political power. The dominance of Kalenjin in the county government reflects their demographic majority and political mobilization. However, the presence of substantial minority populations means that political stability requires some degree of power-sharing and protection of minority interests.
+
+Language diversity in Uasin Gishu reflects ethnic composition. Kalenjin (the Nandi and Kipsigis languages) is spoken primarily by Kalenjin populations, though the language is losing speakers to English and Swahili among younger generations. Kikuyu language is spoken in Kikuyu communities, and Luo language in Luo communities. Swahili and English serve as lingua francas enabling communication across ethnic groups and with the government and national institutions. The dominance of English in education and government means that younger people across all ethnic groups are increasingly native English speakers.
 
 ## See Also
 
-[[Uasin Gishu Timeline]]
+[[Uasin Gishu]]
+[[Post-Election Violence Memory]]
+[[Uasin Gishu 2007 Violence]]
 [[Eldoret City]]
-[[Iten Running Camp]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
-[[Uasin Gishu Agriculture]]
-[[Kenya Distance Running Culture]]
+[[William Ruto and Uasin Gishu]]
+[[Uasin Gishu Colonial History]]
+
 ## Sources
 
-1. https://en.wikipedia.org/wiki/Uasin_Gishu_County#Demographics
-2. https://www.brookings.edu/articles/ethnic-politics-in-kenya/
-3. https://www.africog.org/documents/ethnic-composition-kenya/
+1. https://www.knbs.or.ke/2019/05/27/kenya-census-2019-county-profiles/
+2. https://en.wikipedia.org/wiki/Kalenjin_people
+3. https://www.britannica.com/topic/Kenya
+4. https://www.hrw.org/

@@ -1,18 +1,34 @@
 # Moi University
 
-Moi University was established in 1984 in Eldoret and was named after [[../../Kalenjin/Daniel arap Moi|Daniel arap Moi]], Kenya's president at the time. The university was created as part of the Moi government's investment in education.
+Moi University, founded in 1984, is a public university in [[Eldoret City]] in [[Uasin Gishu]] County and the flagship institution of higher education for the North Rift region. Established by former President Daniel arap Moi, the university was conceived as a major infrastructure project to expand higher education capacity in western Kenya and to position Eldoret as an intellectual and educational center rivaling Kisumu. The institution enrolls approximately 30,000-35,000 students across undergraduate and postgraduate programs, operates multiple campuses, and serves a catchment population extending across the North Rift and western Kenya.
 
+The establishment of Moi University in 1984 reflected broader governmental policies aimed at expanding university capacity beyond the University of Nairobi, which had been the sole public university at independence in 1964. By the early 1980s, enrollment demand at the University of Nairobi far exceeded available places, creating a bottleneck in the higher education system. Multiple new universities were planned and established in the 1980s: Kenyatta University (1985), Moi University (1984), and others. These institutions were strategically located outside Nairobi to distribute educational opportunity and economic development across regions. Moi University's location in Eldoret was a political choice that reflected Moi's authority over regional allocation of resources and his relationship with the Rift Valley, particularly the Kalenjin communities that provided political support for his administration.
+
+The campus was constructed on a 64-hectare site southwest of Eldoret city, providing space for academic buildings, student accommodations, sports facilities, and administrative infrastructure. The main campus housed faculties of engineering, science, arts, education, business, and medicine. Satellite campuses were later established in Kericho (for tea-related research), Nakuru, and Kisii. The School of Medicine opened in the late 1990s, initially graduating medical doctors for the North Rift region but eventually developing into a full medical school producing significant numbers of Kenya's medical workforce. The affiliation with [[Eldoret Referral Hospital]] created teaching and research opportunities for medical and nursing students.
+
+The academic structure of Moi University evolved from a focus on undergraduate education toward greater emphasis on postgraduate training and research. The University adopted a semester-based system and expanded graduate programs in sciences, engineering, business, and other fields. Research centers were established focusing on areas including agricultural technology (particularly crops suited to the Rift Valley environment), public health, and natural resource management. Faculty development programs were implemented to attract and retain senior academics, though persistent challenges in faculty salaries and international brain drain have limited the university's ability to build world-leading research capacity in most fields.
+
+The university's economic impact on [[Eldoret City]] has been substantial. The institution created permanent employment for thousands of academic, administrative, and support staff. Student enrollment brought thousands of young people to the city, requiring housing, food, transportation, and entertainment services. Commercial establishments catering to university populations proliferated. The university's presence elevated the city's intellectual profile and generated international relationships through faculty collaborations and student exchanges. International research funding, particularly for agricultural and health research relevant to East Africa, brought external resources to the institution.
+
+The 2007-2008 post-election violence deeply affected Moi University. Student protests erupted following the disputed election, and ethnic tensions within the student body manifested in violence. The university closed for several weeks as a safety measure, and normal academic activities were disrupted. Some students were caught up in communal violence off-campus. The violence exposed vulnerabilities in the university's safety and security systems and damaged the institution's reputation as a neutral intellectual space. Recovery and community healing have been ongoing concerns for university administration.
+
+Funding for Moi University has been persistently inadequate relative to needs. Government budget allocations have frequently been insufficient, leading to delays in facility maintenance, limited purchase of scientific equipment, and inability to maintain faculty salaries competitive with private sector employment. The university has sought to supplement government funding through tuition fees, research grants, and international partnerships. However, the primary mission of training East Africa's intellectual and technical workforce remains constrained by inadequate resources for laboratories, libraries, and faculty compensation.
+
+The faculty at Moi University includes Kenyan academics trained at international universities and some international faculty recruited for specific programs. The university has developed exchange agreements with universities in North America, Europe, and other African countries. However, the prestige of Moi University in Kenya's higher education landscape remains below that of the University of Nairobi and international standing is limited. Graduates of Moi University have gone on to successful careers in government, private sector, academia, and international organizations, but the university has not yet established a reputation for world-leading research or particularly distinguished alumni in most fields.
+
+The university community has been actively engaged in regional development initiatives. Faculty and students have conducted research on agricultural improvement, community health interventions, and environmental management. Extension programs have connected university expertise to rural communities. However, questions persist about the translation of research into practical benefits for the surrounding population and the university's role in driving equitable regional development.
 
 ## See Also
 
-[[Uasin Gishu Timeline]]
 [[Eldoret City]]
-[[Iten Running Camp]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Eldoret Referral Hospital]]
+[[Uasin Gishu Education]]
+[[University of Eldoret]]
 [[Uasin Gishu Agriculture]]
-[[Kenya Distance Running Culture]]
+
 ## Sources
 
-1. https://en.wikipedia.org/wiki/Moi_University
-2. https://www.mu.ac.ke/
-3. https://www.britannica.com/school/Moi-University
+1. https://www.mu.ac.ke/
+2. https://en.wikipedia.org/wiki/Moi_University
+3. https://www.universityrankings.ch/
+4. https://www.uasingishu.go.ke/
