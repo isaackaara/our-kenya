@@ -1,6 +1,6 @@
 # The 1989 Ivory Burning
 
-On July 18, 1989, in Nairobi National Park, President Daniel arap Moi set fire to 12 tonnes of confiscated elephant ivory in an event that became a defining moment in global conservation history. The burning symbolized Kenya's commitment to elephant protection and catalyzed international action against the ivory trade.
+On July 18, 1989, in [[Nairobi National Park]], President Daniel arap Moi set fire to 12 tonnes of confiscated [[elephant]] ivory in an event that became a defining moment in global conservation history. The burning symbolized Kenya's commitment to [[elephant]] protection and catalyzed international action against the [[ivory trade]].
 
 ## Context and Motivation
 
@@ -51,6 +51,16 @@ Some observers argue the burning's primary effect was psychological and politica
 The ivory burning remains iconic in conservation history, representing a moment when government action aligned with conservation principles against economic self-interest. It serves as a model for dramatic conservation action and government commitment to wildlife protection.
 
 However, the burning also represents a specific moment that did not prevent subsequent poaching resurges. Its legacy is mixed: a powerful symbol of conservation resolve, but one that did not achieve permanent elephant population protection.
+
+## See Also
+
+- [[Richard Leakey]] - Conservation leadership
+- [[Poaching Crisis 1970s-1980s]] - Prior crisis context
+- [[Kenya and CITES]] - International trade ban
+- [[The Ivory Poaching Crisis]] - Subsequent resurgence
+- [[Kenya's Elephant Story]] - Population recovery
+- [[Illegal Wildlife Trade]] - Ongoing trafficking
+- [[Kenya Wildlife Service]] - Management authority
 
 ## Sources
 

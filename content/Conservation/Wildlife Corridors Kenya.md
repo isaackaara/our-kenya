@@ -1,6 +1,6 @@
 # Wildlife Corridors Kenya
 
-Wildlife corridors are habitat connections linking fragmented protected areas and allowing wildlife movement between isolated populations. As protected areas become increasingly surrounded by human settlement and agricultural land, corridors become critical for maintaining gene flow between populations, allowing species range expansion, and supporting wildlife migrations. Kenya has initiated corridor protection efforts, though implementation remains incomplete.
+[[Wildlife Corridors Kenya|Wildlife corridors]] are habitat connections linking fragmented [[protected areas]] and allowing [[wildlife]] movement between isolated populations. As protected areas become increasingly surrounded by human settlement and agricultural land, corridors become critical for maintaining gene flow between populations, allowing species range expansion, and supporting wildlife migrations. Kenya has initiated corridor protection efforts, though implementation remains incomplete.
 
 ## Habitat Fragmentation and Isolation
 
@@ -65,6 +65,16 @@ Seasonal variation in corridor use reflects animal movement patterns responding 
 ## Climate Change and Corridor Needs
 
 Climate change is increasing the importance of corridor connectivity as species may need to shift ranges in response to changing environmental conditions. Corridors allowing northward and elevational shifts will become increasingly important. Corridor networks designed to accommodate climate-driven range shifts are receiving increased attention in conservation planning.
+
+## See Also
+
+- [[Habitat fragmentation]] - Landscape impacts
+- [[Northern Rangelands Trust]] - Corridor implementation
+- [[Amboseli-Kilimanjaro corridor]] - Transboundary example
+- [[SGR and Wildlife Corridors]] - Infrastructure barriers
+- [[Laikipia Plateau]] - Regional corridor hub
+- [[Climate Change and Wildlife]] - Range shift adaptation
+- [[Protected area networks]] - Landscape design
 
 ## Sources
 

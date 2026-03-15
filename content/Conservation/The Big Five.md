@@ -1,6 +1,6 @@
 # The Big Five
 
-The Big Five (lion, elephant, buffalo, rhino, and leopard) are Kenya's most iconic large mammals, named for their danger and difficulty to hunt on foot in the colonial era. These species remain central to Kenya's wildlife tourism and conservation identity, though all five have experienced population declines and require ongoing protection.
+The Big Five ([[Lion Kenya|lion]], [[elephant]], [[buffalo]], [[rhino]], and [[leopard]]) are Kenya's most iconic large mammals, named for their danger and difficulty to hunt on foot in the colonial era. These species remain central to Kenya's [[wildlife tourism]] and conservation identity, though all five have experienced population declines and require ongoing protection.
 
 ## Historical Context and Colonial Naming
 
@@ -59,6 +59,16 @@ The Big Five have become internationally recognized symbols of African wildlife 
 ## Future Outlook
 
 The future of Kenya's Big Five depends on sustained protection, habitat connectivity, and human-wildlife coexistence strategies. Climate change poses emerging threats to all species. Continued political and financial commitment to Big Five protection is essential for persistence.
+
+## See Also
+
+- [[Lion Population Kenya]] - Apex predator status
+- [[Kenya's Elephant Story]] - Iconic species recovery
+- [[Rhino Conservation Kenya]] - Endangered recovery efforts
+- [[Maasai Mara National Reserve]] - Key habitat
+- [[Tourism Revenue and Communities]] - Economic value
+- [[Human-Wildlife Conflict]] - Coexistence challenges
+- [[Wildlife Conservancy Act 2013]] - Legal protection framework
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Tourism Revenue and Communities
 
-Wildlife tourism generates substantial revenue for Kenya, with the sector contributing over USD 1 billion annually to the national economy. However, revenue distribution remains heavily skewed toward government, private operators, and external organizations, with adjacent communities receiving minimal direct benefits.
+[[Wildlife tourism]] generates substantial revenue for Kenya, with the sector contributing over USD 1 billion annually to the national economy. However, [[revenue distribution]] remains heavily skewed toward government, private operators, and external organizations, with adjacent [[communities]] receiving minimal direct benefits.
 
 ## Tourism Industry Scale
 
@@ -71,6 +71,16 @@ Sustainable community conservation requires ensuring that communities receive ad
 5. Integration of conservation with other livelihood activities
 
 The future viability of community-based conservation depends on resolving questions about whether wildlife tourism can generate sufficient community income to sustain conservation commitment long-term.
+
+## See Also
+
+- [[Northern Rangelands Trust]] - Community benefit models
+- [[Community Conservancies Model]] - Conservation governance
+- [[Wildlife Corridors Kenya]] - Landscape management
+- [[Human-Wildlife Conflict]] - Coexistence costs
+- [[Pastoralists and Conservation]] - Pastoral compensation
+- [[Maasai Mara National Reserve]] - Major tourism destination
+- [[Conservation Economics Kenya]] - Economic benefit frameworks
 
 ## Sources
 

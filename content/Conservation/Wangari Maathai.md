@@ -1,6 +1,6 @@
 # Wangari Maathai
 
-Wangari Maathai (1940-2011) was a pioneering environmental activist, conservationist, and Nobel Peace Prize laureate from Kenya. She founded the Green Belt Movement, which has planted millions of trees across Kenya and inspired environmental movements globally. Maathai demonstrated that conservation, social justice, and democratic rights are inseparable, revolutionizing conservation approaches in Africa.
+[[Wangari Maathai]] (1940-2011) was a pioneering [[environmental activist]], [[conservationist]], and [[Nobel Peace Prize]] laureate from Kenya. She founded the [[Green Belt Movement]], which has planted millions of trees across Kenya and inspired environmental movements globally. Maathai demonstrated that conservation, social justice, and democratic rights are inseparable, revolutionizing conservation approaches in Africa.
 
 ## Early Life and Education
 
@@ -61,6 +61,16 @@ Maathai profoundly influenced conservation philosophy and practice in Africa and
 Some critics argue that Maathai's focus on tree-planting may not be the most effective conservation strategy, particularly if plantations are monocultures lacking ecosystem value. Others debate whether her political activism distracted from conservation focus.
 
 However, Maathai's legacy extends beyond specific conservation techniques to broader vision of connecting environmental protection with social transformation.
+
+## See Also
+
+- [[Green Belt Movement]] - Environmental movement
+- [[Mau Forest]] - Forest conservation advocacy
+- [[Environmental activism]] - Women's leadership
+- [[Conservation vs Land Rights]] - Rights frameworks
+- [[Indigenous Peoples and Cultural Significance]] - Community roles
+- [[Kenya Conservation Overview]] - Broader conservation context
+- [[Nobel Peace Prize]] - International recognition
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Trophy Hunting Ban Kenya
 
-Kenya's ban on trophy hunting in 1977 was one of the earliest and most comprehensive prohibitions of sport hunting in Africa. The ban emerged from conservation concern, political ideology, and evolving attitudes toward wildlife protection. The decision has had lasting implications for conservation funding, human-wildlife conflict, and the role of hunting in African wildlife management.
+Kenya's ban on [[trophy hunting]] in 1977 was one of the earliest and most comprehensive prohibitions of sport hunting in Africa. The ban emerged from conservation concern, political ideology, and evolving attitudes toward [[wildlife protection]]. The decision has had lasting implications for conservation funding, [[human-wildlife conflict]], and the role of hunting in African wildlife management.
 
 ## Historical Context of Hunting in Kenya
 
@@ -59,6 +59,16 @@ The hunting ban has meant that Kenya's wildlife management approach differs mark
 ## Future of the Policy
 
 Kenya's hunting ban remains in place, with no indication of imminent changes in official policy. The decision reflects Kenya's conservation identity and its positioning as a preservation-oriented conservation leader. However, ongoing debates about conservation financing and human-wildlife conflict continue to challenge the ban's appropriateness.
+
+## See Also
+
+- [[Kenya Wildlife Service]] - Implementation authority
+- [[Conservation Economics Kenya]] - Revenue implications
+- [[Human-Wildlife Conflict]] - Compensation challenges
+- [[Pastoralists and Conservation]] - Livelihood impacts
+- [[Wildlife Conservancy Act 2013]] - Legal framework
+- [[Conservation vs Land Rights]] - Use and rights tensions
+- [[Tanzania hunting policy]] - Regional comparison
 
 ## Sources
 

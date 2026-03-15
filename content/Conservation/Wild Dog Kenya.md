@@ -1,6 +1,6 @@
 # Wild Dog Kenya
 
-The African wild dog (Lycaon pictus) is one of Africa's most endangered large carnivores, with fewer than 100 individuals remaining in Kenya. The species faces habitat loss, disease susceptibility, and human persecution, with populations fragmented and facing extreme extinction risk. Conservation of Kenya's wild dogs requires intensive protection and landscape-scale management.
+The [[African wild dog]] (Lycaon pictus) is one of Africa's most [[endangered species|endangered large carnivores]], with fewer than 100 individuals remaining in Kenya. The species faces [[habitat loss]], [[disease susceptibility]], and human persecution, with populations fragmented and facing extreme extinction risk. Conservation of Kenya's wild dogs requires intensive protection and landscape-scale management.
 
 ## Species Ecology and Behavior
 
@@ -67,6 +67,16 @@ Wild dog conservation requires international cooperation, as wild dogs range acr
 ## Future Outlook
 
 Wild dogs face precarious conservation status in Kenya, with extinction possible without intensive management and habitat protection. The species' large space requirements and disease susceptibility create fundamental conservation challenges. Long-term persistence depends on major conservation investment and community engagement.
+
+## See Also
+
+- [[Northern Rangelands Trust]] - Habitat protection network
+- [[Samburu National Reserve]] - Key population location
+- [[Rewilding Efforts Kenya]] - Species reintroduction
+- [[Wildlife Corridors Kenya]] - Landscape connectivity
+- [[Human-Wildlife Conflict]] - Persecution issues
+- [[Laikipia Plateau]] - Conservation area
+- [[Endangered Species]] - Conservation status framework
 
 ## Sources
 

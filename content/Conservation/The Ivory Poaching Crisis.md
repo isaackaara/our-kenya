@@ -1,6 +1,6 @@
 # The Ivory Poaching Crisis
 
-The global ivory poaching crisis of 2008-2014 nearly reversed Kenya's elephant recovery, with poaching reaching levels comparable to the 1980s catastrophe. The crisis demonstrated that wildlife conservation progress remains vulnerable to resurgent poaching pressure driven by international demand, organized criminal networks, and inadequate enforcement.
+The global [[ivory]] poaching crisis of 2008-2014 nearly reversed Kenya's [[elephant]] recovery, with poaching reaching levels comparable to the 1980s catastrophe. The crisis demonstrated that wildlife conservation progress remains vulnerable to resurgent poaching pressure driven by international demand, [[organized crime|organized criminal networks]], and inadequate enforcement.
 
 ## Context and Scale
 
@@ -49,6 +49,16 @@ The crisis also highlighted the critical importance of addressing international 
 By 2014-2015, poaching pressure declined, partly due to enhanced enforcement and partly due to declining prices as ivory stockpiles increased in markets. Elephant populations stabilized at reduced levels, with slow recovery beginning in subsequent years.
 
 However, recovery from the 2008-2014 crisis will take years or decades, depending on elephant population reproduction rates and continued enforcement.
+
+## See Also
+
+- [[Poaching Crisis 1970s-1980s]] - Prior historical crisis
+- [[Kenya and CITES]] - International trade ban framework
+- [[The 1989 Ivory Burning]] - Prior policy response
+- [[Kenya's Elephant Story]] - Population recovery narrative
+- [[Illegal Wildlife Trade]] - Broader trafficking context
+- [[Anti-Poaching Technology]] - Modern enforcement
+- [[Richard Leakey]] - Conservation leadership
 
 ## Sources
 
