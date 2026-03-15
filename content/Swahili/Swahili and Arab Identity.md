@@ -1,6 +1,6 @@
 # Swahili and Arab Identity
 
-Many coastal families claim Arab descent (particularly from Yemen), and the Hadhrami Arabs from Yemen were a significant immigrant community to the coast. The social prestige of Arab ancestry in coastal Swahili society creates complex identity politics in contemporary Kenya. Claiming Arab descent provides connection to Islamic civilization and prestige within Islamic hierarchies, though the actual genetic ancestry is predominantly African.
+Many coastal families claim Arab descent (particularly from Yemen), and the [[Arab Settlement on the Coast|Hadhrami Arabs]] from Yemen were a significant immigrant community to the coast. The social prestige of Arab ancestry in coastal [[Swahili Identity|Swahili society]] creates complex identity politics in contemporary Kenya. Claiming Arab descent provides connection to [[Islam on the Swahili Coast|Islamic civilization]] and prestige within Islamic hierarchies, though the actual genetic ancestry is predominantly African.
 
 ## Historical Arab Migration
 
@@ -64,6 +64,15 @@ Modern coastal communities maintain connections to Arab world:
 - **Cultural exchange:** Continued cultural connections through Islam
 
 These connections maintain links to Arab world while coastal communities maintain distinct Swahili identity.
+
+## See Also
+
+- [[Swahili Identity]] - Identity formation and complexity
+- [[Arab Settlement on the Coast]] - Historical Arab arrival
+- [[Islam on the Swahili Coast]] - Islamic dimension
+- [[The Mazrui Family]] - Arab-Swahili families
+- [[Swahili Civilization Overview]] - Historical context
+- [[Swahili and the Mijikenda]] - African-Swahili relations
 
 ## Sources
 

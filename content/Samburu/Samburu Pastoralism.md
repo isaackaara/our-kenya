@@ -1,6 +1,6 @@
 # Samburu Pastoralism
 
-Samburu pastoralism represents an adaptive livelihood strategy for semi-arid environments, organized around cattle, camel, and goat herds. Seasonal migration, herd diversification, and social institutions enable resource access and risk management. Contemporary pressures from climate change and land loss threaten pastoral viability.
+[[Samburu]] pastoralism represents an adaptive livelihood strategy for semi-arid environments, organized around [[Samburu Cattle Culture|cattle]], [[Samburu Camel Use|camel]], and goat herds. Seasonal migration, herd diversification, and social institutions enable resource access and risk management. Contemporary pressures from [[Samburu Climate Change|climate change]] and land loss threaten pastoral viability.
 
 ## Livestock Species and Herd Composition
 
@@ -40,7 +40,15 @@ Climate change has intensified drought frequency and severity. Severe droughts (
 
 ## Contemporary Pastoral Challenges
 
-Pastoral constraints include land alienation (particularly Laikipia), population growth (increasing herd pressure), climate variability, and economic integration pressures. Traditional pastoral systems face mounting pressures, though pastoralism remains the dominant livelihood for most Samburu households.
+Pastoral constraints include land alienation (particularly Laikipia), population growth (increasing herd pressure), climate variability, and economic integration pressures. Traditional pastoral systems face mounting pressures, though pastoralism remains the dominant livelihood for most [[Samburu]] households.
+
+## See Also
+
+- [[Samburu Cattle Culture]]
+- [[Samburu Camel Use]]
+- [[Samburu Climate Change]]
+- [[Samburu Land Rights Today]]
+- [[Samburu Drought Resilience]]
 
 ## Sources
 

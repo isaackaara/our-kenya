@@ -1,6 +1,6 @@
-# Tharaka Colonial History
+# Tharaka [[Tharaka Political History]] History
 
-The Tharaka territory came under British colonial administration at the end of the 19th century. Colonial rule imposed new governance systems, taxation, and land tenure arrangements that affected Tharaka communities.
+The Tharaka territory came under [[Tharaka and the Church]] colonial [[Tharaka Devolution]] at the end of the 19th century. Colonial rule imposed new governance systems, taxation, and [[Tharaka Land Rights]] tenure arrangements that affected Tharaka communities.
 
 ## Early Colonial Contact
 
@@ -29,6 +29,14 @@ Tharaka communities employed various strategies in response to colonial rule: so
 ## Late Colonial Period
 
 By the late colonial period, the Tharaka had experienced several decades of colonial rule. Many had converted to Christianity, some had obtained education in mission schools, and colonial administration had become normalized.
+
+## See Also
+
+- [[Tharaka Political History]]
+- [[Tharaka Land Rights]]
+- [[Tharaka and the Church]]
+- [[Tharaka Devolution]]
+- [[Tharaka Education]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Tharaka Initiation
 
-Male circumcision is the most significant initiation ceremony in Tharaka society, marking transition from boyhood to adulthood. The ceremony has profound social, cultural, and spiritual significance despite changes in practice over time.
+Male circumcision is the most significant initiation [[Tharaka Social Structure]] in Tharaka society, marking transition from boyhood to adulthood. The ceremony has profound social, cultural, and spiritual significance despite changes in practice over time.
 
 ## The Circumcision Ceremony
 
@@ -29,6 +29,14 @@ Contemporary circumcision is increasingly performed by medical professionals in 
 ## Health and Safety
 
 Concerns about safety in traditional circumcision led to advocacy for medical professionalization of the procedure. This has involved negotiations between medical and cultural authorities about appropriate practice.
+
+## See Also
+
+- [[Tharaka Youth]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Traditional Religion]]
+- [[Tharaka Marriage]]
 
 ## Sources
 

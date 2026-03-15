@@ -1,6 +1,6 @@
 # Swahili Weddings
 
-Swahili wedding traditions are elaborate, multi-day ceremonies featuring distinctive rituals, music, dancing, feasting, and the participation of extended family and community networks. The tradition places great emphasis on women's roles and networks, with female family members coordinating much of the celebration and providing support for the bride. Weddings represent major social events and economic investments for families.
+[[Swahili]] wedding traditions are elaborate, multi-day ceremonies featuring distinctive rituals, music ([[Taarab Music|taarab]]), dancing ([[Ngoma Dance|ngoma]]), feasting, and the participation of extended family and community networks. The tradition places great emphasis on women's roles and networks, with female family members coordinating much of the celebration and providing support for the bride. Weddings represent major social events and economic investments within [[Swahili Civilization Overview|Swahili culture]].
 
 ## The Multiple Ceremonies
 
@@ -89,10 +89,19 @@ Despite modernization, traditional ceremonies and women's roles remain central t
 
 Swahili weddings reflect understandings of marriage, gender, and family:
 
-- **Islamic marriage:** The akad ceremony emphasizes Islamic understanding of marriage as a contract
+- **Islamic marriage:** The akad ceremony emphasizes [[Islam on the Swahili Coast|Islamic understanding]] of marriage as a contract
 - **Family unions:** Marriage represents a union not just of two individuals but of two families
 - **Women's roles:** The wedding ceremony emphasizes women's roles in family and community, even if these roles are sometimes restricted in other contexts
 - **Permanence:** Marriage is understood as a serious commitment with major social and economic consequences
+
+## See Also
+
+- [[Swahili Cuisine]] - Wedding feasting traditions
+- [[Taarab Music]] - Musical entertainment
+- [[Ngoma Dance]] - Dancing traditions
+- [[Swahili Dress]] - Wedding attire
+- [[Islam on the Swahili Coast]] - Religious foundation
+- [[Swahili Civilization Overview]] - Cultural context
 
 ## Sources
 

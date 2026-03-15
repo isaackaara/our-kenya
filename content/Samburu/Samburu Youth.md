@@ -1,6 +1,6 @@
 # Samburu Youth
 
-Samburu youth navigate complex identities balancing pastoral tradition and contemporary modernity. Educational access has expanded dramatically, creating divergence between educated and pastoral youth. Urban migration pulls youth away from pastoral livelihoods. Youth unemployment creates frustration and social tension. Intergenerational conflict emerges as youth challenge traditional restrictions and expectations.
+[[Samburu]] youth navigate complex identities balancing [[Samburu Pastoralism|pastoral tradition]] and contemporary modernity. Educational access has expanded dramatically, creating divergence between educated and pastoral youth. Urban migration pulls youth away from [[Samburu Pastoralism|pastoral livelihoods]]. Youth unemployment creates frustration and social tension. Intergenerational conflict emerges as youth challenge traditional restrictions and expectations.
 
 ## Education and Ambition
 
@@ -13,6 +13,14 @@ Young Samburu increasingly distance from pastoral identity and culture. Modern c
 ## Urban Migration
 
 Youth migration to cities for employment reflects limited pastoral opportunities. Urban income potential exceeds pastoral prospects for many youth. However, urban unemployment and underemployment persist despite better opportunities.
+
+## See Also
+
+- [[Samburu Education]]
+- [[Samburu Diaspora]]
+- [[The Moran (Warriors)]]
+- [[Samburu Pastoralism]]
+- [[Youth Employment in Kenya]]
 
 ## Sources
 

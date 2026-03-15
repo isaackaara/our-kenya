@@ -1,16 +1,16 @@
 # The Arab Slave Trade Routes
 
-The 19th century Arab slave trade represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of East and Central Africa to the coast at Zanzibar. The routes passed through Kenyan territory, profoundly impacting interior communities.
+The 19th century [[Arab Slave Trade]] represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of [[East African Community]] and Central Africa to the coast at [[Zanzibar Revolution|Zanzibar]]. The routes passed through Kenyan territory, profoundly impacting interior communities.
 
 ## The Slave Trade System
 
-The Arab slave trade was not a single unified system but rather a series of trade networks operated by Arab, Swahili, and African merchants:
+The [[Arab Slave Trade]] was not a single unified system but rather a series of trade networks operated by Arab, [[Swahili Regional Language]], and African merchants:
 
 **Duration**: The trade intensified in the 18th-19th centuries and continued until the late 19th century despite European abolition efforts.
 
-**Scale**: Historians estimate the Arab slave trade removed roughly 1 million slaves from East Africa in the 19th century alone, with perhaps 4 million total across the Indian Ocean trade.
+**Scale**: Historians estimate the [[Arab Slave Trade]] removed roughly 1 million slaves from [[East African Community]] in the 19th century alone, with perhaps 4 million total across the Indian Ocean trade.
 
-**Destination**: Slaves were transported to Arab lands (Oman, Saudi Arabia, Yemen), Indian Ocean islands, and North Africa.
+**Destination**: Slaves were transported to Arab lands ([[Omani Empire]], Saudi Arabia, Yemen), Indian Ocean islands, and North Africa.
 
 ## The Trade Routes
 
@@ -18,7 +18,7 @@ Slave trade routes radiated from the coast inland:
 
 **Main Routes**: The primary routes ran from the interior of East Africa (Congo, Tanzania, Uganda, Kenya) eastward toward the coast. Traders with chains of enslaved people marched for weeks or months to reach coastal ports.
 
-**Zanzibar Hub**: Zanzibar Island, off the Tanzanian coast, became the primary processing and redistribution center for enslaved people. From Zanzibar, enslaved people were sold, transshipped, or prepared for ocean voyages.
+**[[Zanzibar Revolution|Zanzibar]] Hub**: [[Zanzibar Revolution|Zanzibar]] Island, off the Tanzanian coast, became the primary processing and redistribution center for enslaved people. From [[Zanzibar Revolution|Zanzibar]], enslaved people were sold, transshipped, or prepared for ocean voyages.
 
 **Kenyan Territory**: The routes passed through what became Kenya, particularly through the interior plains and highlands. The central Kenyan plateau and rift valley saw slave caravans passing through.
 
@@ -77,6 +77,16 @@ The slave trade remains significant in East African memory and identity:
 **Reparations Discussions**: Contemporary discussions about historical wrongs and reparations occasionally reference the slave trade and its impacts.
 
 **Tourism and Heritage**: Some routes are being marked and documented as heritage sites, though this remains limited.
+
+## See Also
+
+- [[Omani Empire]]
+- [[Zanzibar Revolution]]
+- [[Indian Ocean Heritage]]
+- [[Swahili Regional Language]]
+- [[Mombasa Port]]
+- [[East African Food]]
+- [[East Africa Timeline]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Swahili and the Mijikenda
 
-The relationship between the Swahili (urban coastal traders) and the Mijikenda (hinterland agricultural communities) has been complex, involving economic interdependence, cultural exchange, and historical tensions. The Mijikenda provided agricultural products and sometimes enslaved people to coastal traders, while the Swahili provided imported goods and urban services to the hinterland.
+The relationship between the [[Swahili]] (urban coastal traders) and the Mijikenda (hinterland agricultural communities) has been complex, involving economic interdependence, cultural exchange, and historical tensions. The Mijikenda provided agricultural products and sometimes enslaved people to coastal traders, while the [[Swahili]] provided imported goods and urban services to the hinterland.
 
 ## Economic Interdependence
 
@@ -56,6 +56,15 @@ Modern relationships include:
 - **Political relationships:** Both communities participate in coastal politics
 
 Contemporary relationships reflect both historical patterns and modern transformations.
+
+## See Also
+
+- [[Swahili Civilization Overview]] - Coastal context
+- [[The Indian Ocean World]] - Trade networks
+- [[Swahili Language]] - Language contact and spread
+- [[Swahili Slavery]] - Slave trade relations
+- [[Swahili in the Colonial Economy]] - Colonial period relations
+- [[Islam on the Swahili Coast]] - Religious spread inland
 
 ## Sources
 

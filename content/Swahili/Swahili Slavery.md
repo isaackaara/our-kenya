@@ -1,6 +1,6 @@
 # Swahili Slavery
 
-The East African slave trade was an ancient institution, with enslaved people being traded and exported from the East African coast for centuries. However, the scale and intensity of the slave trade increased dramatically during the 18th-19th centuries (particularly the 19th century) when demand from Arab states, the Persian Gulf, and Indian Ocean islands reached unprecedented levels. The Swahili coast served as a crucial transshipment point for enslaved Africans exported across the Indian Ocean.
+The East African slave trade was an ancient institution, with enslaved people being traded and exported from the East African coast for centuries. However, the scale and intensity of the slave trade increased dramatically during the 18th-19th centuries (particularly the 19th century) when demand from Arab states, the Persian Gulf, and Indian Ocean islands reached unprecedented levels. The [[Swahili]] coast served as a crucial transshipment point for enslaved Africans exported across [[The Indian Ocean World|the Indian Ocean]].
 
 ## Ancient and Medieval Slavery
 
@@ -117,6 +117,15 @@ The East African slave trade's legacy includes:
 - **Wealth inequality:** Slave trade wealth accumulated in the hands of coastal elites and foreign merchants
 - **Cultural and psychological trauma:** The experience of slavery left lasting impacts on affected communities
 - **Contemporary debates:** Questions about reparations and historical memory of slavery remain contested
+
+## See Also
+
+- [[The Slave Trade's End]] - 19th-century abolition movement
+- [[Zanzibar and Kenya]] - Zanzibar as major slave trade center
+- [[The Indian Ocean World]] - Trade network context
+- [[Swahili Civilization Overview]] - Historical and economic context
+- [[Islam on the Swahili Coast]] - Islamic perspectives on slavery
+- [[Kilwa Kisiwani]] - Historical wealth from trade
 
 ## Sources
 

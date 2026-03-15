@@ -124,7 +124,16 @@ Modern Swahili faces challenges including:
 - **Dialect marginalization:** The standard dialect's dominance may threaten non-standard dialects
 - **Literacy gaps:** While Swahili is widely spoken, written literacy varies
 
-Despite these challenges, Swahili remains vibrant and central to East African identity and communication.
+Despite these challenges, [[Swahili Language|Swahili]] remains vibrant and central to East African identity and communication.
+
+## See Also
+
+- [[Swahili Civilization Overview]] - Historical context
+- [[Swahili Poetry]] - Literary tradition
+- [[Swahili Identity]] - Identity expression through language
+- [[Arab Settlement on the Coast]] - Arabic influence on vocabulary
+- [[Swahili in Education]] - Language in schools
+- [[The Swahili Language's Global Spread]] - Worldwide distribution
 
 ## Sources
 

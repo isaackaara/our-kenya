@@ -1,6 +1,6 @@
 # Tharaka Education
 
-Education in Tharaka communities has been shaped by missionary activity, colonial policies, and post-independence national education systems. Mission schools remain important alongside government institutions.
+Education in Tharaka communities has been shaped by missionary activity, colonial policies, and post-independence national education systems. Mission [[Tharaka Colonial History]] remain important alongside government institutions.
 
 ## Mission Schools
 
@@ -30,8 +30,16 @@ Education in Tharaka areas faces challenges including infrastructure deficiencie
 
 Access to tertiary education remains limited in Tharaka-Nithi County. Those pursuing university education typically migrate to Nairobi or other major urban centers with universities.
 
+## See Also
+
+- [[Tharaka Youth]]
+- [[Tharaka Colonial History]]
+- [[Tharaka and the Church]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Women]]
+
 ## Sources
 
 1. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/
-2. Tharaka-Nithi County Government. "County Integrated Development Plan 2022-2027". https://tharaka-nithi.go.ke/
+2. Tharaka-Nithi County Government. "County Integrated [[Tharaka Identity Today]] Plan 2022-2027". https://tharaka-nithi.go.ke/
 3. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/

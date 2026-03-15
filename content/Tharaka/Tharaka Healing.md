@@ -1,10 +1,10 @@
 # Tharaka Healing
 
-Traditional Tharaka healing systems combine practical knowledge of medicinal plants with spiritual understanding of illness. Healers serve important roles in addressing health problems and maintaining community well-being.
+Traditional Tharaka healing systems combine practical [[Tharaka Oral Traditions]] of medicinal plants with spiritual understanding of illness. Healers serve important roles in addressing [[Tharaka Health]] problems and maintaining community well-being.
 
 ## Traditional Healers
 
-Tharaka healers (sometimes called diviners or medicine people) are specialists who have knowledge of medicinal plants and healing rituals. Healers diagnose illnesses (often attributed to spiritual causes), prescribe treatments, and perform healing ceremonies.
+Tharaka healers (sometimes called diviners or [[Tharaka Traditional Religion]] people) are specialists who have knowledge of medicinal plants and healing rituals. Healers diagnose illnesses (often attributed to spiritual causes), prescribe treatments, and perform healing ceremonies.
 
 ## Medicinal Plants
 
@@ -29,6 +29,14 @@ The effectiveness of traditional healing is variable, with some conditions respo
 ## Challenges and Continuity
 
 Traditional healing knowledge is declining as younger generation adopt modern medicine and formal education. Documentation of traditional healing knowledge is important for preservation. Some traditional healers are increasingly recognized as important resources in community health.
+
+## See Also
+
+- [[Tharaka Health]]
+- [[Tharaka Traditional Religion]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Women]]
 
 ## Sources
 

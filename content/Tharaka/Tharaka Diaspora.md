@@ -1,12 +1,12 @@
 # Tharaka Diaspora
 
-Tharaka communities have migrated to urban areas, particularly Nairobi, creating diaspora communities that maintain connections to home while engaging with urban life and employment.
+Tharaka communities have migrated to [[Tharaka Economic Development]] areas, particularly Nairobi, creating diaspora communities that maintain connections to home while engaging with urban life and employment.
 
-## Migration Patterns
+## [[Tharaka and the Meru]] Patterns
 
 Migration from Tharaka territory has been driven by limited land availability, economic opportunities in urban areas, educational migration, and employment seeking. Young Tharaka have particularly migrated to seek education and employment.
 
-## Nairobi Community
+## Nairobi [[Tharaka Identity Today]]
 
 The Tharaka community in Nairobi is notable, with many Tharaka working in government, commerce, education, and other professional occupations. The Nairobi diaspora includes both permanently relocated individuals and those maintaining cyclical relationships with home areas.
 
@@ -29,6 +29,14 @@ Diaspora Tharaka send remittances to relatives and maintain property ownership i
 ## Identity and Belonging
 
 Diaspora Tharaka negotiate identity as both Tharaka and Kenyans in urban environments. Some strongly emphasize ethnic identity while others adopt more cosmopolitan identities. Identity negotiation varies by individual and context.
+
+## See Also
+
+- [[Tharaka Identity Today]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Economic Development]]
+- [[Tharaka Youth]]
+- [[Tharaka Language]]
 
 ## Sources
 

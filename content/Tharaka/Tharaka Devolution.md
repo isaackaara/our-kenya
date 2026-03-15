@@ -1,6 +1,6 @@
 # Tharaka Devolution
 
-The 2010 Kenyan constitution introduced devolved governance through county government. For the Tharaka, devolution has created new opportunities and challenges for representation and resource management within Tharaka-Nithi County.
+The 2010 Kenyan constitution introduced devolved [[Tharaka-Nithi [[Tharaka-Nithi County]]]] through county government. For the Tharaka, devolution has created new opportunities and challenges for representation and resource management within Tharaka-Nithi County.
 
 ## The 2013 Transition
 
@@ -29,6 +29,14 @@ Governance within a county shared with larger communities has created dynamics i
 ## Accountability and Participation
 
 County governance is meant to increase public participation and accountability to communities. However, Tharaka participation in county governance remains variable, with some communities engaged while others have limited involvement.
+
+## See Also
+
+- [[Tharaka-Nithi County]]
+- [[Tharaka Political History]]
+- [[Tharaka Infrastructure]]
+- [[Tharaka Education]]
+- [[Tharaka Health]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Samburu and the Kenya Army
 
-Samburu have served in the Kenya Defence Forces (KDF) and predecessor military organizations. Military service provides employment and income for Samburu youth. Samburu soldiers have served in various military operations including peace enforcement missions. Military service enables career advancement and income security for Samburu individuals.
+[[Samburu]] have served in the Kenya Defence Forces (KDF) and predecessor military organizations. Military service provides employment and income for [[Samburu]] youth. [[Samburu]] soldiers have served in various military operations including peace enforcement missions. Military service enables career advancement and income security for [[Samburu]] individuals.
 
 ## Military Recruitment and Service
 
@@ -8,7 +8,15 @@ Samburu youth enlist in KDF seeking employment and income. Military service prov
 
 ## Combat Operations
 
-Samburu soldiers have participated in military operations including conflict with insurgent groups. Operational deployments have exposed Samburu combatants to combat risks and trauma. Military service has become pathway for some Samburu youth economic advancement.
+[[Samburu]] soldiers have participated in military operations including conflict with insurgent groups. Operational deployments have exposed [[Samburu]] combatants to combat risks and trauma. Military service has become pathway for some [[Samburu]] youth economic advancement.
+
+## See Also
+
+- [[Samburu Youth]]
+- [[Samburu Economy]]
+- [[Samburu Pastoralism]]
+- [[Kenya Defence Forces]]
+- [[Employment in East Africa]]
 
 ## Sources
 

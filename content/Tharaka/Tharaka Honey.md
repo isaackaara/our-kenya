@@ -1,6 +1,6 @@
 # Tharaka Honey
 
-Honey has traditionally been important in Tharaka society and economy. Both wild honey collection and managed beekeeping have been sources of food and income for Tharaka communities.
+Honey has traditionally been important in Tharaka society and economy. Both wild honey collection and managed [[Tharaka Beekeeping]] have been sources of food and [[Tharaka Economic Development]] for Tharaka communities.
 
 ## Wild Honey Collection
 
@@ -29,6 +29,14 @@ Beekeeping faces challenges including disease pressure on bee colonies, wild bee
 ## Environmental Significance
 
 Beekeeping contributes to pollination of agricultural crops and wild plants. The practice supports important ecological services while producing valuable products.
+
+## See Also
+
+- [[Tharaka Beekeeping]]
+- [[Tharaka Forest]]
+- [[Tharaka Economic Development]]
+- [[Tharaka Food]]
+- [[Tharaka and Drought]]
 
 ## Sources
 

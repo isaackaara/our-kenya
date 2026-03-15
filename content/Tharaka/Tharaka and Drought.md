@@ -30,12 +30,20 @@ Repeated droughts lead to depletion of productive assets, particularly livestock
 
 Development of early warning systems aims to predict droughts and enable proactive response. However, effective early warning requires appropriate response systems and resources.
 
-## Adaptation and Resilience
+## Adaptation and [[Tharaka Economic Development]]
 
 Long-term adaptation to drought involves irrigation development, livelihood diversification, improved crop varieties, and rangeland management. Building resilience to recurring drought is critical for Tharaka communities.
 
+## See Also
+
+- [[Tharaka Climate]]
+- [[Tharaka Pastoralism]]
+- [[Tharaka Agriculture]]
+- [[Tharaka Irrigation]]
+- [[Tharaka and Wildlife]]
+
 ## Sources
 
-1. Nicholson, Sharon. "The East African Rains: A Natural History and Implications for Climate Change". Oxford University Press, 2016. https://oxford.universitypressscholarship.com/
+1. Nicholson, Sharon. "The East African Rains: A Natural History and Implications for [[Tharaka Climate]] Change". Oxford University Press, 2016. https://oxford.universitypressscholarship.com/
 2. Intergovernmental Panel on Climate Change. "Climate Change and Land: an IPCC special report". IPCC, 2019. https://www.ipcc.ch/
 3. Tharaka-Nithi County Government. "County Integrated Development Plan 2022-2027". https://tharaka-nithi.go.ke/

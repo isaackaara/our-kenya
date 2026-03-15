@@ -1,6 +1,6 @@
 # Mombasa Port Regional Role
 
-The Port of Mombasa is East Africa's primary ocean port and the economic gateway for landlocked neighbors. It serves Uganda, Rwanda, Burundi, South Sudan, and eastern DRC, making it one of Africa's most strategically important ports and a major node in East African regional economics.
+The [[Mombasa Port]] is [[East African Community]]'s primary ocean port and the economic gateway for landlocked neighbors. It serves Uganda, Rwanda, Burundi, South Sudan, and eastern DRC, making it one of Africa's most strategically important ports and a major node in [[East African Community]] regional economics.
 
 ## Port Capacity and Operations
 
@@ -16,15 +16,15 @@ Mombasa is East Africa's busiest port:
 
 ## The Northern Corridor
 
-The Northern Corridor is the primary trade route connecting Mombasa to inland territories:
+The Northern Corridor is the primary trade route connecting [[Mombasa Port]] to inland territories:
 
-**Geographic Scope**: The Northern Corridor extends from Mombasa northwestward through Kenya, Uganda, Rwanda, and Burundi, connecting the port to landlocked interior regions.
+**Geographic Scope**: The Northern Corridor extends from [[Mombasa Port]] northwestward through Kenya, Uganda, Rwanda, and Burundi, connecting the port to landlocked interior regions.
 
-**Infrastructure**: The corridor includes roads, railways (including the new SGR), and pipelines connecting Mombasa to interior regions.
+**Infrastructure**: The corridor includes roads, railways (including [[East_African_Railways|the new SGR]]), and pipelines connecting [[Mombasa Port]] to interior regions.
 
-**Trade Volumes**: Massive trade volumes flow through the Northern Corridor, making it East Africa's busiest trade route.
+**Trade Volumes**: Massive trade volumes flow through the Northern Corridor, making it [[East African Community]]'s busiest trade route.
 
-**Regional Integration**: The Northern Corridor facilitates regional trade, making it essential for EAC integration.
+**Regional Integration**: The Northern Corridor facilitates regional trade, making it essential for [[EAC Common Market]] integration.
 
 ## Landlocked Countries' Dependence
 
@@ -111,6 +111,16 @@ Recent development initiatives include:
 **Equipment Modernization**: Upgraded cargo handling equipment improves efficiency.
 
 **Hinterland Connectivity**: Improved road and rail links to the interior improve port accessibility.
+
+## See Also
+
+- [[East African Railways]]
+- [[JKIA Airport]]
+- [[LAPSSET Corridor]]
+- [[Kenya in East Africa]]
+- [[EAC Common Market]]
+- [[Nairobi Regional Hub]]
+- [[East Africa Timeline]]
 
 ## Sources
 

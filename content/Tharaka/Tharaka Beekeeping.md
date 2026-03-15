@@ -1,10 +1,10 @@
 # Tharaka Beekeeping
 
-Beekeeping is an increasingly important livelihood activity in Tharaka territory, providing income and contributing to food security. The practice combines traditional knowledge with modern techniques and technology.
+Beekeeping is an increasingly important [[Tharaka Economic Development]] activity in Tharaka territory, providing income and contributing to food security. The practice combines [[Tharaka Traditional Religion]] knowledge with modern techniques and technology.
 
 ## Traditional Beekeeping
 
-Traditional Tharaka beekeeping involved keeping bee colonies in simple hives constructed from natural materials. Beekeepers used traditional knowledge about managing colonies and harvesting honey. Traditional practices continue alongside modern approaches.
+Traditional Tharaka beekeeping involved keeping bee colonies in simple hives constructed from natural materials. Beekeepers used traditional knowledge about managing colonies and harvesting [[Tharaka Honey]]. Traditional practices continue alongside modern approaches.
 
 ## Modern Beekeeping Development
 
@@ -33,6 +33,14 @@ Beekeeping groups and cooperatives have been established to support beekeepers, 
 ## Environmental Benefits
 
 Beekeeping contributes to pollination of crops and wild plants. The practice provides ecological service while generating income. Conservation of bees and bee habitat is important for maintaining these services.
+
+## See Also
+
+- [[Tharaka Honey]]
+- [[Tharaka Forest]]
+- [[Tharaka Economic Development]]
+- [[Tharaka Food]]
+- [[Tharaka Crafts]]
 
 ## Sources
 

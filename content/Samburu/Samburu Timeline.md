@@ -1,6 +1,6 @@
 # Samburu Timeline
 
-Major events in Samburu history from pre-colonial times through 2026. Dates reflect Samburu experiences, colonial administration, independence, and contemporary governance development.
+Major events in [[Samburu]] history from pre-colonial times through 2026. Dates reflect [[Samburu]] experiences, colonial administration, independence, and contemporary governance development.
 
 ## Pre-Colonial Era (to 1895)
 
@@ -39,6 +39,14 @@ Major events in Samburu history from pre-colonial times through 2026. Dates refl
 2022: Third county elections. County governance continues with infrastructure and service focus.
 
 2023-2026: Contemporary period emphasizing drought management, livelihood diversification, and educational access.
+
+## See Also
+
+- [[Samburu History]]
+- [[Samburu and the Colonial Period]]
+- [[Samburu in Independent Kenya]]
+- [[Samburu Land History]]
+- [[Samburu County]]
 
 ## Sources
 

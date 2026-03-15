@@ -1,6 +1,6 @@
 # East Africa Timeline
 
-A chronological reference of key dates in East African regional history from 1800 through 2026, tracking major political, economic, and social events shaping the region.
+A chronological reference of key dates in [[East African Community]] regional history from 1800 through 2026, tracking major political, economic, and social events shaping the region.
 
 ## 1800s
 
@@ -113,6 +113,18 @@ A chronological reference of key dates in East African regional history from 180
 **2024-2025**: East African nations continue to negotiate on EAC political federation, with limited progress toward deeper political integration.
 
 **2025-2026**: East African region continues to face challenges (security, climate, economic inequality, state fragmentation in Somalia/DRC) while pursuing integration goals through the expanded EAC.
+
+## See Also
+
+All notes in the East Africa section are interconnected. See specific topics:
+- [[Kenya in East Africa]]
+- [[EAC History]]
+- [[EAC Common Market]]
+- [[Berlin Conference East Africa]]
+- [[Somalia Collapse]]
+- [[East African Droughts]]
+- [[Mombasa Port]]
+- [[JKIA Airport]]
 
 ## Sources
 

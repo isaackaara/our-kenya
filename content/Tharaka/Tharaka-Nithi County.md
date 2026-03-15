@@ -16,15 +16,23 @@ Tharaka-Nithi County is home to multiple ethnic communities, with the Tharaka, C
 
 ## Population Distribution
 
-The Tharaka make up a minority of the county population, despite their historical presence in the region. The majority of the county population is concentrated in the highlands and in Chuka town. This demographic imbalance has implications for political representation and resource allocation.
+The Tharaka make up a minority of the county population, despite their historical presence in the [[Tharaka Land]]. The majority of the county population is concentrated in the highlands and in Chuka town. This demographic imbalance has implications for political representation and resource allocation.
 
-## Economy and Development
+## Economy and [[Tharaka Infrastructure]]
 
 The county economy is based on agriculture in the highlands (particularly tea, coffee, and maize production) and mixed agriculture-pastoralism in the lower zones where the Tharaka live. Tourism based on Mount Kenya also contributes to the economy.
 
 ## Administrative Structure
 
 The county government includes a governor, deputy governor, and county assembly. County resources and attention tend to focus on the larger highland populations, while Tharaka areas receive less development attention.
+
+## See Also
+
+- [[Tharaka Devolution]]
+- [[Tharaka Political History]]
+- [[Tharaka Land]]
+- [[Tharaka Infrastructure]]
+- [[Tharaka Economic Development]]
 
 ## Sources
 

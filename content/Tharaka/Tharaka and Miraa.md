@@ -20,15 +20,23 @@ In regions where miraa use is prevalent, public health concerns have been raised
 
 ## Regulatory Approaches
 
-Kenya has sought to manage miraa use through various regulatory approaches. International restrictions on miraa trade exist in some countries, affecting export markets.
+Kenya has sought to manage miraa use through various regulatory approaches. International restrictions on miraa [[Tharaka and the Meru]] exist in some countries, affecting export markets.
 
 ## Economic Considerations
 
-For regions that do produce miraa, the crop provides significant economic benefits. However, miraa production creates social and health concerns that have prompted regulatory attention.
+For regions that do produce miraa, the [[Tharaka Agriculture]] provides significant economic benefits. However, miraa production creates social and health concerns that have prompted regulatory attention.
 
 ## Tharaka Perspective
 
 For most Tharaka, miraa is not a primary livelihood concern due to limited production. However, awareness of miraa use patterns in neighboring areas and broader debates about miraa regulation may be relevant.
+
+## See Also
+
+- [[Tharaka Economic Development]]
+- [[Tharaka Agriculture]]
+- [[Tharaka Infrastructure]]
+- [[Tharaka and the Meru]]
+- [[Tharaka and Drought]]
 
 ## Sources
 

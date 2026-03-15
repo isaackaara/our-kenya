@@ -1,6 +1,6 @@
 # Tharaka River Systems
 
-Tharaka territory is crossed by several river systems, primarily tributaries of the Tana River. These rivers are critical water sources for human consumption, livestock, and agriculture in the semi-arid environment.
+Tharaka territory is crossed by several river systems, primarily tributaries of the Tana River. These rivers are critical [[Tharaka Irrigation]] sources for human consumption, livestock, and agriculture in the semi-arid environment.
 
 ## Tana River Tributaries
 
@@ -34,8 +34,16 @@ Water quality in some rivers is affected by upstream use and pollution. Siltatio
 
 Water management in Tharaka territory increasingly involves attempts to coordinate allocation and conservation. Community water user associations and county government involvement are increasing.
 
+## See Also
+
+- [[Tharaka Irrigation]]
+- [[Tharaka Land]]
+- [[Tharaka Forest]]
+- [[Tharaka Climate]]
+- [[Tharaka Pastoralism]]
+
 ## Sources
 
-1. Nicholson, Sharon. "The East African Rains: A Natural History and Implications for Climate Change". Oxford University Press, 2016. https://oxford.universitypressscholarship.com/
+1. Nicholson, Sharon. "The East African Rains: A Natural History and Implications for [[Tharaka Climate]] Change". Oxford University Press, 2016. https://oxford.universitypressscholarship.com/
 2. Tharaka-Nithi County Government. "County Integrated Development Plan 2022-2027". https://tharaka-nithi.go.ke/
 3. Kenya National Bureau of Statistics. "County Statistical Abstracts 2019". Government of Kenya, 2019. https://www.knbs.or.ke/

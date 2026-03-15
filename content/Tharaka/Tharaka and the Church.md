@@ -28,10 +28,18 @@ Church leaders (pastors, priests, and other ordained clergy) are important commu
 
 ## Contemporary Religious Dynamics
 
-Contemporary Tharaka religious life involves regular participation in church services, prayer groups, and Bible study. However, some traditional religious practices persist or are being revived alongside Christian faith.
+Contemporary Tharaka religious life involves regular participation in church services, prayer groups, and Bible study. However, some traditional religious practices persist or are being revived alongside Christian [[Tharaka Identity Today]].
+
+## See Also
+
+- [[Tharaka and Christianity]]
+- [[Tharaka Colonial History]]
+- [[Tharaka Education]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Traditional Religion]]
 
 ## Sources
 
 1. Lamphear, John. "The Scattering Time: Turkana Responses to European Colonization". Oxford University Press, 1992. https://oxford.universitypressscholarship.com/
 2. Spear, Thomas. "Mountain Farmers: Agro-pastoralists in the East African Highlands". University of Wisconsin Press, 1997. https://www.wisc.edu/
-3. Bender, David L. "Changing Kinship Patterns in Colonial East Africa". Journal of African History, 1994. https://www.cambridge.org/core/journals/journal-of-african-history
+3. Bender, David L. "Changing Kinship Patterns in [[Tharaka Colonial History]] East Africa". Journal of African History, 1994. https://www.cambridge.org/core/journals/journal-of-african-history

@@ -1,6 +1,6 @@
 # Tharaka and the Embu
 
-The Embu are neighboring Bantu-speaking people who occupy areas south of Tharaka territory. The Tharaka and Embu are distantly related through shared Bantu origins and have maintained relationships characterized by trade and periodic interaction.
+The Embu are neighboring Bantu-speaking people who occupy areas south of Tharaka territory. The Tharaka and Embu are distantly related through shared Bantu origins and have maintained relationships characterized by [[Tharaka Economic Development]] and periodic interaction.
 
 ## Geographic Proximity
 
@@ -8,7 +8,7 @@ The Embu occupy higher-elevation areas in the Mount Kenya region, south of Thara
 
 ## Linguistic Relationship
 
-The Embu language is related to both Kitharaka and Kimeru, placing Embu within a larger linguistic and cultural cluster of East African Bantu-speaking peoples. The three groups share linguistic features while maintaining distinct languages.
+The Embu [[Tharaka Language]] is related to both Kitharaka and Kimeru, placing Embu within a larger linguistic and cultural cluster of East African Bantu-speaking peoples. The three groups share linguistic features while maintaining distinct languages.
 
 ## Trade and Exchange
 
@@ -29,6 +29,14 @@ In contemporary times, Tharaka-Embu relationships are peaceful. Both communities
 ## Political Organization
 
 The Tharaka and Embu are now part of different administrative structures, with Tharaka in Tharaka-Nithi County and Embu in Embu County. This separation has reinforced administrative and political distinctiveness.
+
+## See Also
+
+- [[Tharaka Origins]]
+- [[Tharaka Language]]
+- [[Tharaka Economic Development]]
+- [[Tharaka and GEMA]]
+- [[Tharaka and the Kamba]]
 
 ## Sources
 

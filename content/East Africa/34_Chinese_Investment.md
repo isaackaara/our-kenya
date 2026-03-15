@@ -1,6 +1,6 @@
 # East Africa Chinese Investment
 
-Chinese infrastructure investment has dramatically transformed East African development over the past 15 years. Large-scale Chinese-financed railway, port, and road projects have reshaped economic geography while raising questions about debt sustainability and economic dependence.
+[[Chinese Investment]] has dramatically transformed [[East African Community]] development over the past 15 years. Large-scale Chinese-financed railway, port, and road projects have reshaped economic geography while raising questions about debt sustainability and economic dependence.
 
 ## The Investment Pattern
 
@@ -32,9 +32,9 @@ Chinese investment typically operates through:
 
 ## The Kenya SGR Example
 
-The Kenya Standard Gauge Railway illustrates both the benefits and concerns:
+The [[East_African_Railways|Kenya Standard Gauge Railway]] illustrates both the benefits and concerns:
 
-**Project Specifications**: The SGR connects Mombasa to Nairobi (472 km), replacing the older narrow-gauge railway.
+**Project Specifications**: The SGR connects [[Mombasa Port]] to [[Nairobi Regional Hub]] (472 km), replacing the older narrow-gauge railway.
 
 **Financing**: The project cost roughly $5 billion, financed primarily by China's EXIM Bank.
 
@@ -93,6 +93,16 @@ Chinese investment has geopolitical significance:
 **Cold War Echoes**: The competition between China and Western powers for influence in Africa echoes Cold War patterns.
 
 **East African Choice**: East African nations have benefited from having alternative sources of capital but also face pressure to align with Chinese preferences.
+
+## See Also
+
+- [[East African Railways]]
+- [[Mombasa Port]]
+- [[JKIA Airport]]
+- [[East African Power]]
+- [[Nairobi Regional Hub]]
+- [[LAPSSET Corridor]]
+- [[East Africa Timeline]]
 
 ## Sources
 

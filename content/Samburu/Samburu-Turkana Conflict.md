@@ -1,6 +1,6 @@
 # Samburu-Turkana Conflict
 
-Historical and contemporary conflicts between Samburu and Turkana pastoral communities center on competition for grazing land and water resources. Periodic inter-community tension and occasional violence reflect pastoral resource scarcity, border disputes, and security concerns. Conflicts accelerate during droughts when resource pressures intensify.
+Historical and contemporary conflicts between [[Samburu]] and Turkana pastoral communities center on competition for grazing land and water resources. Periodic inter-community tension and occasional violence reflect pastoral resource scarcity, border disputes, and security concerns. Conflicts accelerate during droughts when resource pressures intensify.
 
 ## Historical Pastoralist Conflicts
 
@@ -45,6 +45,14 @@ Climate-driven droughts intensify resource competition and conflict frequency. C
 ## Regional Conflict Factors
 
 Regional insecurity (South Sudan instability, Somali insurgency) has arms flows and security implications affecting pastoral communities. Cross-border pastoralist movements create complications for resource management and conflict containment.
+
+## See Also
+
+- [[Samburu-Pokot Conflict]]
+- [[Samburu Pastoralism]]
+- [[Samburu Climate Change]]
+- [[Samburu Land Rights Today]]
+- [[Pastoral Conflict Dynamics]]
 
 ## Sources
 

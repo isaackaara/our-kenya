@@ -1,6 +1,6 @@
 # Samburu Women
 
-Samburu women occupy complex social positions as producers, mothers, and increasingly, income earners and social activists. Traditional roles emphasize marriage, motherhood, and household management, though women's productive work (particularly livestock and dairy management) forms economic foundation. Contemporary women increasingly challenge traditional restrictions and pursue education and employment.
+[[Samburu]] women occupy complex social positions as producers, mothers, and increasingly, income earners and social activists. Traditional roles emphasize [[Samburu Marriage|marriage]], motherhood, and household management, though women's productive work (particularly livestock and dairy management) forms economic foundation. Contemporary women increasingly challenge traditional restrictions and pursue education and employment.
 
 ## Traditional Roles and Status
 
@@ -44,7 +44,15 @@ Maternal health outcomes have improved with expanded healthcare services. Family
 
 ## Cultural Change and Identity
 
-Younger Samburu women pursue education and employment, sometimes departing from traditional expectations. Intergenerational differences create tension between elder expectations and younger women's aspirations. Female identity increasingly encompasses roles beyond marriage and motherhood.
+Younger [[Samburu]] women pursue education and employment, sometimes departing from traditional expectations. Intergenerational differences create tension between elder expectations and younger women's aspirations. Female identity increasingly encompasses roles beyond marriage and motherhood.
+
+## See Also
+
+- [[Samburu Girls Education]]
+- [[Samburu Beadwork]]
+- [[Samburu Early Marriage]]
+- [[Samburu Health]]
+- [[Gender Roles in Pastoralist Societies]]
 
 ## Sources
 

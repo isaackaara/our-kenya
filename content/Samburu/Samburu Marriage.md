@@ -1,6 +1,6 @@
 # Samburu Marriage
 
-Samburu marriage involves age-grade restrictions, elder-arranged partnerships, and bride wealth transfers. The marriage system structures gender relations and creates alliances between families. Contemporary pressure from education and urbanization are gradually transforming marriage practices, though arranged marriage and bride wealth persist in many communities.
+[[Samburu]] marriage involves age-grade restrictions, elder-arranged partnerships, and bride wealth transfers. The marriage system structures gender relations and creates alliances between families. Contemporary pressure from education and urbanization are gradually transforming marriage practices, though arranged marriage and bride wealth persist in many communities.
 
 ## Age-Grade Marriage Restrictions
 
@@ -40,7 +40,15 @@ Christian churches discourage bride wealth and promote civil marriage ceremonies
 
 ## Contemporary Marital Change
 
-Modern education and urban residence enable greater individual choice in partner selection and delayed marriage. Some young Samburu reject arranged marriage and bride wealth expectations. Changing gender roles affect marriage dynamics as women gain education and employment.
+Modern education and urban residence enable greater individual choice in partner selection and delayed marriage. Some young [[Samburu]] reject arranged marriage and bride wealth expectations. Changing gender roles affect marriage dynamics as women gain education and employment.
+
+## See Also
+
+- [[Samburu Social Structure]]
+- [[Samburu Women]]
+- [[Samburu Early Marriage]]
+- [[The Moran (Warriors)]]
+- [[Samburu Cattle Culture]]
 
 ## Sources
 

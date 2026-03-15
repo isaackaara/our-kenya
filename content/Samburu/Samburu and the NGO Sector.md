@@ -1,6 +1,6 @@
 # Samburu and the NGO Sector
 
-Numerous international and Kenyan NGOs operate in Samburu County addressing pastoral development, drought response, girls' education, health services, and human rights. NGO presence has expanded dramatically since 1990s. NGO programs provide services, advocacy, and livelihood support. Coordination challenges and sustainability questions affect NGO effectiveness.
+Numerous international and Kenyan NGOs operate in [[Samburu County]] addressing pastoral development, drought response, girls' education, health services, and human rights. NGO presence has expanded dramatically since 1990s. NGO programs provide services, advocacy, and livelihood support. Coordination challenges and sustainability questions affect NGO effectiveness.
 
 ## NGO Types and Mandates
 
@@ -13,6 +13,14 @@ NGOs supplement government services in education, health, water, and social serv
 ## Coordination and Effectiveness
 
 NGO coordination mechanisms attempt to prevent duplication. However, coordination challenges persist. NGO sustainability depends on external funding, creating vulnerability. Local community capacity building remains incomplete in many programs.
+
+## See Also
+
+- [[Samburu County]]
+- [[Samburu Drought Resilience]]
+- [[Samburu Girls Education]]
+- [[Samburu Health]]
+- [[Civil Society Organizations in Kenya]]
 
 ## Sources
 

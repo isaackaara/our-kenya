@@ -1,6 +1,6 @@
 # Tharaka and the Kamba
 
-The Kamba (Akamba) border the Tharaka to the south, occupying areas in Machakos and Makueni counties. Tharaka-Kamba relationships have involved trade, occasional conflict, and cross-border movements of people and goods.
+The Kamba (Akamba) border the Tharaka to the south, occupying areas in Machakos and Makueni counties. Tharaka-Kamba relationships have involved [[Tharaka Economic Development]], occasional conflict, and cross-border movements of people and goods.
 
 ## Geographic Boundaries
 
@@ -29,6 +29,14 @@ Contemporary population movements between Tharaka and Kamba areas occur through 
 ## Contemporary Relations
 
 In contemporary times, Tharaka-Kamba relations are peaceful and integrated through national governmental structures. Both communities are part of the Kenyan nation-state, reducing the likelihood of large-scale conflict.
+
+## See Also
+
+- [[Tharaka Economic Development]]
+- [[Tharaka Origins]]
+- [[Tharaka Political History]]
+- [[Tharaka and the Embu]]
+- [[Tharaka and the Meru]]
 
 ## Sources
 

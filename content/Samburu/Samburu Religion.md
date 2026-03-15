@@ -1,6 +1,6 @@
 # Samburu Religion
 
-Samburu traditional religion centers on Nkai (God), understood as supreme creator and provider inhabiting the sky and high mountains. Laibon (spiritual leaders and diviners) serve as intermediaries between human and spiritual realms. Christian missionary influence has transformed religious practice, creating syncretism of traditional and Christian elements among most contemporary Samburu.
+[[Samburu]] traditional religion centers on Nkai (God), understood as supreme creator and provider inhabiting the sky and high mountains. [[Samburu Laibon|Laibon]] (spiritual leaders and diviners) serve as intermediaries between human and spiritual realms. [[Samburu and Christianity|Christian missionary influence]] has transformed religious practice, creating syncretism of traditional and Christian elements among most contemporary [[Samburu]].
 
 ## Nkai (God) and Cosmology
 
@@ -40,7 +40,15 @@ Contemporary Samburu communities include practicing Christians, traditionalists,
 
 ## Religious Change and Youth
 
-Younger Samburu who attend school increasingly practice Christianity or secular lifestyles. Religious knowledge transmission through oral tradition is declining. Youth religious practice sometimes diverges from elder tradition.
+Younger [[Samburu]] who attend school increasingly practice Christianity or secular lifestyles. Religious knowledge transmission through oral tradition is declining. Youth religious practice sometimes diverges from elder tradition.
+
+## See Also
+
+- [[Samburu and Christianity]]
+- [[Samburu Laibon]]
+- [[Samburu Sacred Sites]]
+- [[Samburu Social Structure]]
+- [[African Traditional Religions]]
 
 ## Sources
 

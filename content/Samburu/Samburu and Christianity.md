@@ -1,6 +1,6 @@
 # Samburu and Christianity
 
-Christian missions began activity in Samburu in late 19th century. Contemporary Samburu predominantly practice Christianity (Catholic and Protestant). Christian practice coexists with attenuated traditional beliefs. Churches provide community gathering, spiritual instruction, and social services. Religious pluralism permits different community religious practices.
+Christian missions began activity in [[Samburu]] in late 19th century. Contemporary [[Samburu]] predominantly practice Christianity (Catholic and Protestant). Christian practice coexists with attenuated traditional beliefs. Churches provide community gathering, spiritual instruction, and social services. Religious pluralism permits different community religious practices.
 
 ## Mission History
 
@@ -9,6 +9,14 @@ Christian missions established churches and schools beginning in colonial period
 ## Contemporary Christian Practice
 
 Churches provide Sunday worship, spiritual instruction, and community services. Church leadership addresses social issues. Multiple Christian denominations coexist, providing different religious traditions.
+
+## See Also
+
+- [[Samburu Religion]]
+- [[Samburu Laibon]]
+- [[Samburu Sacred Sites]]
+- [[Samburu Social Structure]]
+- [[Christianity in East Africa]]
 
 ## Sources
 

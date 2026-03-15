@@ -1,14 +1,14 @@
 # The East Africa Campaign WWI
 
-The East Africa Campaign of World War I was one of the war's most grueling theaters, conducted in disease-ridden tropical territory with enormous civilian casualties. It lasted from 1914 until the 1918 armistice and profoundly affected East African populations and societies.
+The [[East Africa Campaign WWI]] was one of the war's most grueling theaters, conducted in disease-ridden tropical territory with enormous civilian casualties. It lasted from 1914 until the 1918 armistice and profoundly affected [[East African Community]] populations and societies.
 
 ## The Military Conflict
 
-The campaign began when Britain declared war on Germany in August 1914. Fighting in East Africa started almost immediately:
+The campaign began when Britain declared war on Germany in August 1914. Fighting in [[East African Community]] started almost immediately:
 
-**Initial Engagements**: British and German forces clashed in German East Africa, Uganda, and Kenya as the war's African front opened.
+**Initial Engagements**: British and German forces clashed in [[German East Africa]], Uganda, and Kenya as the war's African front opened.
 
-**Duration**: Unlike the European front's rapid conclusions in some areas, the East African campaign persisted for four years of bitter warfare.
+**Duration**: Unlike the European front's rapid conclusions in some areas, the [[East Africa Campaign WWI]] persisted for four years of bitter warfare.
 
 **Scale**: Hundreds of thousands of soldiers, porters, and civilians were involved, though the conflict received far less attention than the European theater.
 
@@ -26,9 +26,9 @@ The German commander in East Africa, General Paul von Lettow-Vorbeck, conducted 
 
 ## The King's African Rifles
 
-British East Africa was defended primarily by the King's African Rifles, a colonial military unit composed of African soldiers under British and European officers:
+British [[East African Community]] was defended primarily by the King's African Rifles, a colonial military unit composed of African soldiers under British and European officers:
 
-**African Soldiers**: The KAR consisted of thousands of East African soldiers, primarily from Kenya and surrounding territories.
+**African Soldiers**: The KAR consisted of thousands of [[East African Community]] soldiers, primarily from Kenya and surrounding territories.
 
 **Colonial Recruitment**: Young men were recruited (sometimes forcibly) into military service, often far from their home territories.
 
@@ -74,19 +74,28 @@ The campaign illustrated how geography shaped warfare:
 
 ## Post-War Territory
 
-After the war, German East Africa became a British mandate territory (Tanganyika) under the League of Nations. The territory came under British administration and remained a British colony until independence in 1961.
+After the war, [[German East Africa]] became a British mandate territory (Tanganyika) under the League of Nations. The territory came under British administration and remained a British colony until independence in 1961.
 
 ## Long-Term Consequences
 
-The East Africa Campaign had lasting consequences:
+The [[East Africa Campaign WWI]] had lasting consequences:
 
-**Administrative Changes**: The war solidified British administrative control over East Africa, affecting governance and development patterns.
+**Administrative Changes**: The war solidified British administrative control over [[East African Community]], affecting governance and development patterns.
 
-**Economic Disruption**: The war disrupted East African economies and created lasting hardship.
+**Economic Disruption**: The war disrupted [[East African Community]] economies and created lasting hardship.
 
 **Colonial Resentment**: The forced labor and casualties of the Carrier Corps created lasting resentment against colonial rule, contributing to independence movements decades later.
 
-**Demographic Impact**: The massive mortality of the campaign affected East Africa's population for generations.
+**Demographic Impact**: The massive mortality of the campaign affected [[East African Community]]'s population for generations.
+
+## See Also
+
+- [[German East Africa]]
+- [[Berlin Conference East Africa]]
+- [[East African Droughts]]
+- [[Kenya Tanzania Border]]
+- [[Groundnut Scheme]]
+- [[East Africa Timeline]]
 
 ## Sources
 

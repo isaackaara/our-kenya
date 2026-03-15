@@ -1,6 +1,6 @@
 # Tharaka Climate
 
-The semi-arid climate of Tharaka territory is characterized by low and variable rainfall, high temperatures, and periods of drought. The climate shapes livelihood strategies and creates ongoing vulnerability to food insecurity.
+The semi-arid climate of Tharaka territory is characterized by low and variable [[Tharaka Irrigation]], high temperatures, and periods of [[Tharaka and Drought]]. The climate shapes livelihood strategies and creates ongoing vulnerability to food insecurity.
 
 ## Rainfall Patterns
 
@@ -20,7 +20,7 @@ Tharaka communities have developed various strategies to cope with climate varia
 
 ## Water Scarcity
 
-Water scarcity is a defining characteristic of Tharaka environment. Water access determines settlement patterns and livelihood opportunities. Water sources include seasonal rivers, permanent springs, and groundwater, all subject to availability constraints.
+Water scarcity is a defining characteristic of Tharaka [[Tharaka Forest]]. Water access determines settlement patterns and livelihood opportunities. Water sources include seasonal rivers, permanent springs, and groundwater, all subject to availability constraints.
 
 ## Climate Change Impacts
 
@@ -29,6 +29,15 @@ Climate change is increasing rainfall variability and affecting traditional patt
 ## Climate Adaptation
 
 Adaptation to climate change is receiving increased attention in development planning. Water conservation, irrigation development, and crop diversification are being promoted as adaptation strategies.
+
+## See Also
+
+- [[Tharaka and Drought]]
+- [[Tharaka Irrigation]]
+- [[Tharaka Agriculture]]
+- [[Tharaka Forest]]
+- [[Tharaka Pastoralism]]
+- [[Tharaka and Wildlife]]
 
 ## Sources
 

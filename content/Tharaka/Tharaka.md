@@ -1,6 +1,6 @@
 # Tharaka
 
-The Tharaka are a small Bantu-speaking community of Tharaka-Nithi County in the drier lowlands east of Mount Kenya. They number approximately 200,000 to 250,000 people and occupy a distinct territory characterized by semi-arid climate and mixed agricultural-pastoral livelihoods.
+The Tharaka are a small Bantu-speaking [[Tharaka Social Structure]] of Tharaka-Nithi County in the drier lowlands east of Mount Kenya. They number approximately 200,000 to 250,000 [[Tharaka Origins]] and occupy a distinct territory characterized by semi-arid climate and mixed agricultural-pastoral livelihoods.
 
 ## Origins and Relationships
 
@@ -10,13 +10,13 @@ The Tharaka are closely related to the Meru people and are sometimes classified 
 
 The Tharaka occupy the drier lowland areas east of Mount Kenya, in territory that is much less elevated than the Taita Hills or the Mount Kenya forests. The semi-arid environment requires adaptation through drought-resistant agriculture and pastoral herding. The landscape transitions from highland forests on the western slopes to increasingly arid lowlands toward the east.
 
-## Language and Culture
+## Language and [[Tharaka Identity Today]]
 
 The Tharaka language (Kitharaka) is a Bantu language closely related to Kimeru but recognized as distinct. The Tharaka maintain cultural practices including marriage customs, social organization, and traditional religion that reflect their adaptation to the semi-arid environment.
 
 ## Political Position
 
-Within Tharaka-Nithi County, the Tharaka share administrative space with the larger Chuka and Igambi/Imenti communities. This has sometimes led to Tharaka feeling politically marginalized despite their historical presence in the region. The Tharaka have maintained distinct identity and territory despite this political arrangement.
+Within Tharaka-Nithi County, the Tharaka share administrative space with the larger Chuka and Igambi/Imenti communities. This has sometimes led to Tharaka feeling politically marginalized despite their historical presence in the [[Tharaka Land]]. The Tharaka have maintained distinct identity and territory despite this political arrangement.
 
 ## Key Topics
 
@@ -69,6 +69,15 @@ Within Tharaka-Nithi County, the Tharaka share administrative space with the lar
 - [[Tharaka and Miraa]]
 - [[Tharaka Timeline]]
 - [[Tharaka Bibliography]]
+
+## See Also
+
+- [[Tharaka Origins]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Land]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Timeline]]
+- [[Tharaka-Nithi County]]
 
 ## Sources
 

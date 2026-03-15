@@ -12,7 +12,7 @@ Tharaka political figures have served in Parliament and other government positio
 
 ## Political Representation in County
 
-Within Tharaka-Nithi County, the Tharaka represent a minority compared to the Chuka and Igambi/Imenti communities. This has created challenges for Tharaka political representation and influence on county governance.
+Within Tharaka-Nithi County, the Tharaka represent a minority compared to the Chuka and Igambi/Imenti communities. This has created challenges for Tharaka political representation and influence on county [[Tharaka Social Structure]].
 
 ## Party Affiliation
 
@@ -29,6 +29,14 @@ Some Tharaka political commentators have expressed concerns about marginalizatio
 ## Devolution and County Politics
 
 Since 2013, Tharaka have engaged with devolved governance through Tharaka-Nithi County. County-level politics provide opportunities for Tharaka representation, though governance remains shared with larger communities.
+
+## See Also
+
+- [[Tharaka Social Structure]]
+- [[Tharaka Colonial History]]
+- [[Tharaka Notable People]]
+- [[Tharaka Devolution]]
+- [[Tharaka Timeline]]
 
 ## Sources
 

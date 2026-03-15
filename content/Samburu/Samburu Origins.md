@@ -1,6 +1,6 @@
 # Samburu Origins
 
-The Samburu trace their origins to Nilotic pastoral peoples migrating into the semi-arid regions of north-central Kenya, with oral traditions describing separation from the Maasai at some historical point. Archaeological evidence and linguistic analysis suggest Samburu and Maasai shared common pastoralist ancestors, with divergence occurring over several centuries.
+The [[Samburu]] trace their origins to Nilotic pastoral peoples migrating into the semi-arid regions of north-central Kenya, with oral traditions describing separation from the [[Samburu Language|Maasai]] at some historical point. Archaeological evidence and linguistic analysis suggest [[Samburu]] and [[Samburu Language|Maasai]] shared common pastoralist ancestors, with divergence occurring over several centuries.
 
 ## Nilotic Pastoralist Heritage
 
@@ -28,7 +28,15 @@ Pre-colonial Samburu maintained relationships with neighboring pastoral communit
 
 ## Early European Contact
 
-Initial contact between Samburu and European explorers and traders occurred in the late nineteenth century. Early interactions included limited trade and exploration. British colonial administration followed, fundamentally altering Samburu political and economic conditions.
+Initial contact between [[Samburu]] and European explorers and traders occurred in the late nineteenth century. Early interactions included limited trade and exploration. British colonial administration followed, fundamentally altering [[Samburu]] political and economic conditions.
+
+## See Also
+
+- [[Samburu Language]]
+- [[Samburu Land History]]
+- [[Samburu and the Colonial Period]]
+- [[Samburu Pastoralism]]
+- [[Nilotic Peoples]]
 
 ## Sources
 

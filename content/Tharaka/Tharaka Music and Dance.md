@@ -1,6 +1,6 @@
 # Tharaka Music and Dance
 
-Traditional Tharaka music and dance forms serve ceremonial, social, and entertainment purposes. These art forms reflect Tharaka cultural values and adaptation to the semi-arid environment.
+Traditional Tharaka music and dance forms serve ceremonial, social, and entertainment purposes. These art forms reflect Tharaka [[Tharaka Identity Today]] values and adaptation to the semi-arid environment.
 
 ## Musical Instruments
 
@@ -29,6 +29,14 @@ Modern Tharaka musicians increasingly incorporate contemporary instruments and s
 ## Cultural Preservation
 
 Efforts to preserve traditional music and dance knowledge are increasing, with some schools and community organizations including traditional music in their activities. The transmission of musical knowledge to younger generations faces challenges from changing cultural practices.
+
+## See Also
+
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Youth]]
+- [[Tharaka Initiation]]
 
 ## Sources
 

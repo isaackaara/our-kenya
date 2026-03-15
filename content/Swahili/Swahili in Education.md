@@ -1,6 +1,6 @@
 # Swahili in Education
 
-Kiswahili is taught as a subject in all Kenyan schools and is the official national language alongside English. However, coastal Swahili-speaking communities have a complex relationship with national Swahili education. The educational system uses the Zanzibar standard dialect, which differs from the coastal Kenyan dialects (Kimvita for Mombasa, Kiamu for Lamu) that have archaic features and local vocabulary.
+[[Swahili Language|Kiswahili]] is taught as a subject in all Kenyan schools and is the official national language alongside English. However, coastal [[Swahili]]-speaking communities have a complex relationship with national [[Swahili]] education. The educational system uses the Zanzibar standard dialect, which differs from the coastal Kenyan dialects.
 
 ## Swahili as National Language
 

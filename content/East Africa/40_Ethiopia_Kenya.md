@@ -1,16 +1,16 @@
 # Ethiopia and Kenya
 
-Ethiopia and Kenya maintain complex relationships shaped by shared borders, pastoral communities, regional leadership ambitions, and contemporary infrastructure projects. Ethiopia, as the only African nation that resisted colonization, brings historical distinctiveness to regional relationships.
+[[Ethiopia Kenya]] maintain complex relationships shaped by shared borders, pastoral communities, regional leadership ambitions, and contemporary infrastructure projects. Ethiopia, as the only African nation that resisted colonization, brings historical distinctiveness to [[East African Community]] relationships.
 
 ## Shared Border Communities
 
-The Kenya-Ethiopia border divides pastoral communities:
+The [[Kenya Ethiopia Border]] divides pastoral communities:
 
 **Oromo**: Oromo-speaking peoples span both nations, with distinct political identities (Kenyan Oromo vs. Ethiopian Oromo) shaped by national boundaries.
 
-**Borana, Gabra, Rendille**: Pastoral communities in the northern border region maintain cross-border kinship and historical migrations disrupted by modern borders.
+**Borana, Gabra, Rendille**: Pastoral communities in the northern border region maintain cross-border kinship and historical migrations disrupted by [[Kenya Ethiopia Border|modern borders]].
 
-**Turkana-Dassanach Conflict**: Northern Kenya's Turkana people conflict with Ethiopia's Dassanach across the border, particularly over water and grazing rights.
+**Turkana-Dassanach Conflict**: Northern Kenya's Turkana people conflict with Ethiopia's Dassanach across the [[Kenya Ethiopia Border]], particularly over water and grazing rights.
 
 ## Historical Relationship
 
@@ -40,11 +40,11 @@ A major contemporary issue involves water resources:
 
 A major contemporary infrastructure project involves both nations:
 
-**Project Scope**: The Lamu Port-South Sudan-Ethiopia Transport (LAPSSET) corridor is intended to connect Lamu Port in Kenya to South Sudan and Ethiopia via pipeline, railway, and roads.
+**Project Scope**: The [[LAPSSET Corridor]] is intended to connect [[Lamu Port]]-South Sudan-Ethiopia via pipeline, railway, and roads.
 
 **Strategic Logic**: The corridor aims to provide Ethiopia (landlocked) with port access and create a major trade route.
 
-**Kenyan Investment**: Kenya has invested significantly in Lamu Port development as part of the LAPSSET vision.
+**Kenyan Investment**: Kenya has invested significantly in [[LAPSSET Corridor]] development and ports.
 
 **Regional Significance**: The corridor, if completed, would reshape regional trade patterns and reduce Ethiopia's and South Sudan's dependence on Djibouti's port.
 
@@ -93,6 +93,16 @@ Kenya and Ethiopia maintain trade relationships:
 **Kenya's Port Role**: Kenya's position as the regional port gateway gives it leverage in Ethiopia trade.
 
 **Kenyan Investment**: Kenyan businesses operate in Ethiopia, particularly in Addis Ababa.
+
+## See Also
+
+- [[Kenya Ethiopia Border]]
+- [[East African Droughts]]
+- [[LAPSSET Corridor]]
+- [[Kenya in East Africa]]
+- [[Lake Victoria]]
+- [[Somalia Collapse]]
+- [[East Africa Timeline]]
 
 ## Sources
 

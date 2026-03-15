@@ -1,10 +1,10 @@
 # Tharaka Infrastructure
 
-Infrastructure in Tharaka territory lags behind many other Kenyan regions, with gaps in road networks, electricity, water systems, and communications. Infrastructure development is a priority for county government and development partners.
+Infrastructure in Tharaka territory lags behind many other Kenyan regions, with gaps in road networks, electricity, water systems, and communications. Infrastructure [[Tharaka Economic Development]] is a priority for county government and development partners.
 
 ## Road Networks
 
-Road infrastructure in Tharaka territory is limited, with many communities connected only by rough earth roads. The main highway connecting Mount Kenya region to other areas passes through or near Tharaka territory. Road upgrading projects are ongoing but progress is slow.
+Road infrastructure in Tharaka territory is limited, with many communities connected only by rough earth [[Tharaka Devolution]]. The main highway connecting Mount Kenya region to other areas passes through or near Tharaka territory. Road upgrading projects are ongoing but progress is slow.
 
 ## Water Infrastructure
 
@@ -24,7 +24,7 @@ Schools are distributed throughout Tharaka territory, with both government and p
 
 ## Communications Infrastructure
 
-Mobile phone networks reach most Tharaka areas, enabling communication and access to mobile financial services. However, internet access remains limited. Telecommunications infrastructure development continues.
+Mobile phone networks reach most Tharaka areas, enabling communication and access to mobile financial [[Tharaka Health]]. However, internet access remains limited. Telecommunications infrastructure development continues.
 
 ## Market Infrastructure
 
@@ -33,6 +33,14 @@ Market infrastructure (marketplace facilities, storage, processing centers) for 
 ## Development Priorities
 
 County government prioritizes infrastructure development including roads, water systems, and electricity. However, investment needs far exceed available resources, and development progresses slowly.
+
+## See Also
+
+- [[Tharaka Devolution]]
+- [[Tharaka-Nithi County]]
+- [[Tharaka Health]]
+- [[Tharaka Education]]
+- [[Tharaka Economic Development]]
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Tharaka Women
 
-Women in Tharaka society hold defined roles related to household management, food production, and child care, though women also exercise authority within family and community contexts. The roles and status of women have evolved through colonial, Christian, and contemporary influences.
+Women in Tharaka society hold defined roles related to household management, food production, and child care, though women also exercise authority within [[Tharaka Marriage]] and community contexts. The roles and status of women have evolved through colonial, Christian, and contemporary influences.
 
 ## Traditional Roles
 
-In traditional Tharaka society, women's primary roles centered on household and agricultural management, particularly food crop production. Women performed significant agricultural labor, water collection, fuel wood gathering, and food preparation. These roles were essential to family and community survival.
+In traditional Tharaka society, women's primary roles centered on household and agricultural management, particularly food crop production. Women performed significant agricultural [[Tharaka Agriculture]], water collection, fuel wood gathering, and food preparation. These roles were essential to family and community survival.
 
 ## Economic Contributions
 
@@ -29,6 +29,15 @@ Women's groups and cooperatives have become important vehicles for economic acti
 ## Challenges and Advocacy
 
 Women's advocacy organizations address issues including gender-based violence, land rights, and equal access to economic opportunities. While progress has been made, significant gender inequalities persist.
+
+## See Also
+
+- [[Tharaka Social Structure]]
+- [[Tharaka Marriage]]
+- [[Tharaka Agriculture]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Healing]]
+- [[Tharaka Youth]]
 
 ## Sources
 

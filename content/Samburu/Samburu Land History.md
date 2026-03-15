@@ -1,6 +1,6 @@
 # Samburu Land History
 
-Samburu ancestral territory has been substantially reduced through colonial-era land alienation and post-colonial land sales. Historical land claims to areas now in Laikipia (white-owned ranches) remain contested. Contemporary Samburu land access insecurity creates livelihood vulnerability and ongoing tension with neighbors and government.
+[[Samburu]] ancestral territory has been substantially reduced through colonial-era land alienation and post-colonial land sales. Historical land claims to areas now in Laikipia (white-owned ranches) remain contested. Contemporary [[Samburu]] land access insecurity creates livelihood vulnerability and ongoing tension with neighbors and government.
 
 ## Pre-Colonial Territory
 
@@ -41,6 +41,14 @@ County government has undertaken land registration attempts in Samburu County, t
 ## Land and Water Rights
 
 Control of water sources (particularly boreholes) provides access to surrounding pasture. Water source ownership disputes create pastoral conflicts. Securing water source access is often more critical than formal land titling for pastoral viability.
+
+## See Also
+
+- [[Samburu Land Rights Today]]
+- [[Samburu Laikipia Claims]]
+- [[Samburu and the Colonial Period]]
+- [[Samburu Pastoralism]]
+- [[Land Tenure in Pastoral Kenya]]
 
 ## Sources
 

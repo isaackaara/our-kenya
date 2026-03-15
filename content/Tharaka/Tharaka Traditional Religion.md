@@ -1,6 +1,6 @@
 # Tharaka Traditional Religion
 
-Tharaka traditional religion centers on belief in a high god, veneration of ancestors, and ritual specialists who mediate between the living and spirit worlds. The religious system is adapted to the semi-arid environment and its uncertainties.
+Tharaka traditional religion centers on [[Tharaka Oral Traditions]] in a high god, veneration of ancestors, and ritual specialists who mediate between the living and spirit worlds. The religious system is adapted to the semi-arid environment and its uncertainties.
 
 ## High God and Creation
 
@@ -16,7 +16,7 @@ Various spirits beyond ancestors are recognized in Tharaka cosmology, including 
 
 ## Ritual Specialists
 
-Tharaka societies include various religious specialists: diviners who interpret spiritual messages and diagnose illnesses, healers who treat spiritual and physical afflictions, and rainmakers who conduct rituals to bring rain during drought.
+Tharaka societies include various religious specialists: diviners who interpret [[Tharaka Sacred Sites]] messages and diagnose illnesses, healers who treat spiritual and physical afflictions, and rainmakers who conduct rituals to bring rain during drought.
 
 ## Rainmaking Ceremonies
 
@@ -24,11 +24,19 @@ Given the semi-arid environment and vulnerability to drought, rainmaking ceremon
 
 ## Christian Conversion
 
-Christian missionary activity in the Tharaka-Nithi region led to conversion of many Tharaka to Christianity. By the mid-20th century, Christianity was the dominant religion, though some traditional religious practices persisted in modified forms or in isolated communities.
+Christian missionary activity in the Tharaka-Nithi region led to conversion of many Tharaka to Christianity. By the mid-20th century, Christianity was the dominant religion, though some traditional religious [[Tharaka Healing]] persisted in modified forms or in isolated communities.
 
 ## Syncretic Practices
 
 Some Tharaka blend Christian and traditional beliefs, incorporating Christian prayers at ancestral graves or maintaining traditional practices in modified Christian frameworks.
+
+## See Also
+
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Healing]]
+- [[Tharaka Sacred Sites]]
+- [[Tharaka and Christianity]]
+- [[Tharaka Social Structure]]
 
 ## Sources
 

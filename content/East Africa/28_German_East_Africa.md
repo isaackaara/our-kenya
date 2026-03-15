@@ -1,26 +1,26 @@
 # German East Africa
 
-Tanzania was colonized by Germany (while Kenya was colonized by Britain), creating a political division that persists to this day. German East Africa, established in the 1880s, represented one of the most developed German colonial territories in Africa.
+Tanzania was colonized by Germany (while Kenya was colonized by Britain), creating a political division that persists to this day. [[German East Africa]], established in the 1880s, represented one of the most developed German colonial territories in Africa.
 
 ## German Colonization
 
-Germany established colonial claims in East Africa starting in the 1880s:
+Germany established colonial claims in [[East African Community]] starting in the 1880s:
 
-**Berlin Conference (1884-1885)**: Germany received recognition of its claims to territory in East Africa (Tanganyika).
+**[[Berlin Conference East Africa]] (1884-1885)**: Germany received recognition of its claims to territory in [[East African Community]] (Tanganyika).
 
 **Acquisition Method**: Germany acquired territory through treaties with local rulers, establishing the German East Africa Company (GEAC) to administer the territory initially.
 
-**1890 German-British Agreement**: Germany and Britain agreed on their respective spheres in East Africa. Kenya became British East Africa; Tanganyika became German East Africa.
+**1890 German-British Agreement**: Germany and Britain agreed on their respective spheres in [[East African Community]]. Kenya became British East Africa; Tanganyika became [[German East Africa]].
 
 ## Political Boundaries
 
-The border between British East Africa (Kenya) and German East Africa (Tanganyika) established the modern Kenya-Tanzania border:
+The border between British East Africa (Kenya) and [[German East Africa]] (Tanganyika) established the modern [[Kenya Tanzania Border]]:
 
 **Boundary Demarcation**: The boundary was established as a roughly north-south line, with minor variations to account for geographical features.
 
 **Colonial Administrative Convenience**: The boundary reflected administrative and commercial interests of the two colonial powers rather than ethnic, linguistic, or ecological boundaries.
 
-**Maasai Division**: The boundary famously divided the Maasai pastoral people, creating the Kenya-Tanzania border's most significant cross-border ethnic community.
+**[[Maasai Borders]] Division**: The boundary famously divided the [[Maasai Borders]] pastoral people, creating the [[Kenya Tanzania Border]]'s most significant cross-border ethnic community.
 
 ## German Administration
 
@@ -77,6 +77,15 @@ German colonization left lasting marks on Tanzania:
 **Ethnic Impacts**: German colonial policies affected ethnic relations and community development patterns.
 
 **Agricultural Development**: German-initiated plantation agriculture persisted and evolved under British administration.
+
+## See Also
+
+- [[Berlin Conference East Africa]]
+- [[Kenya Tanzania Border]]
+- [[Maasai Borders]]
+- [[East Africa Campaign WWI]]
+- [[Omani Empire]]
+- [[East Africa Timeline]]
 
 ## Sources
 

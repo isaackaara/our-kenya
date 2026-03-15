@@ -1,6 +1,6 @@
 # Samburu
 
-The Samburu are a Nilotic semi-nomadic pastoral people inhabiting north-central Kenya, with a population of approximately 300,000. They are closely related to the Maasai, speaking a mutually intelligible dialect of the Maa language. The Samburu are famous for their elaborate beadwork, vibrant dress, distinctive warrior traditions, and resistance to cultural assimilation compared to many other Kenyan communities.
+The [[Samburu]] are a Nilotic semi-nomadic pastoral people inhabiting north-central Kenya, with a population of approximately 300,000. They are closely related to the [[Samburu Language|Maasai]], speaking a mutually intelligible dialect of the Maa language. The [[Samburu]] are famous for their elaborate [[Samburu Beadwork|beadwork]], vibrant [[Samburu Dress and Adornment|dress]], distinctive [[The Moran (Warriors)|warrior traditions]], and resistance to cultural assimilation compared to many other Kenyan communities.
 
 ## Territory and Geography
 
@@ -30,9 +30,17 @@ Samburu communities face significant challenges including drought intensificatio
 
 The Samburu have resisted cultural assimilation more successfully than many Kenyan communities, maintaining distinctive practices in dress, beadwork, warrior traditions, and pastoral orientation. However, modernization and education are reshaping cultural practices, particularly among younger generations.
 
-## Related Notes
+## See Also
 
-[[Samburu Origins.md|Samburu Origins]] [[Samburu County.md|Samburu County]] [[Samburu Pastoralism.md|Samburu Pastoralism]] [[Samburu Social Structure.md|Samburu Social Structure]] [[The Moran (Warriors).md|The Moran (Warriors)]] [[Samburu Marriage.md|Samburu Marriage]] [[Samburu Beadwork.md|Samburu Beadwork]] [[Samburu Dress and Adornment.md|Samburu Dress and Adornment]] [[Samburu Language.md|Samburu Language]] [[Samburu Religion.md|Samburu Religion]] [[Samburu and the Colonial Period.md|Samburu and the Colonial Period]] [[Samburu Land History.md|Samburu Land History]] [[Samburu National Reserve.md|Samburu National Reserve]] [[Buffalo Springs Reserve.md|Buffalo Springs Reserve]] [[Samburu and Tourism.md|Samburu and Tourism]] [[Samburu-Turkana Conflict.md|Samburu-Turkana Conflict]] [[Samburu-Pokot Conflict.md|Samburu-Pokot Conflict]] [[Samburu Women.md|Samburu Women]] [[Samburu Girls Education.md|Samburu Girls Education]] [[Samburu Early Marriage.md|Samburu Early Marriage]] [[Samburu Food.md|Samburu Food]] [[Samburu Music.md|Samburu Music]] [[Samburu in Independent Kenya.md|Samburu in Independent Kenya]] [[Samburu County Government.md|Samburu County Government]] [[Samburu Education.md|Samburu Education]] [[Samburu Health.md|Samburu Health]] [[Samburu FGM.md|Samburu FGM]] [[Samburu Drought Resilience.md|Samburu Drought Resilience]] [[Samburu Climate Change.md|Samburu Climate Change]] [[Samburu and the NGO Sector.md|Samburu and the NGO Sector]] [[Maralal Town.md|Maralal Town]] [[Samburu Diaspora.md|Samburu Diaspora]] [[Samburu and Christianity.md|Samburu and Christianity]] [[Samburu Oral Literature.md|Samburu Oral Literature]] [[Samburu and the Rendille.md|Samburu and the Rendille]] [[Samburu and the Turkana Basin.md|Samburu and the Turkana Basin]] [[Samburu Laibon.md|Samburu Laibon]] [[Samburu Cattle Culture.md|Samburu Cattle Culture]] [[Samburu Camel Use.md|Samburu Camel Use]] [[George and Joy Adamson in Samburu.md|George and Joy Adamson in Samburu]] [[Samburu and the Kenya Army.md|Samburu and the Kenya Army]] [[Samburu Political Figures.md|Samburu Political Figures]] [[Samburu Land Rights Today.md|Samburu Land Rights Today]] [[Samburu Laikipia Claims.md|Samburu Laikipia Claims]] [[Samburu Proverbs.md|Samburu Proverbs]] [[Samburu Youth.md|Samburu Youth]] [[Samburu Sacred Sites.md|Samburu Sacred Sites]] [[Samburu Timeline.md|Samburu Timeline]] [[Samburu Bibliography.md|Samburu Bibliography]]
+- [[Samburu Origins]]
+- [[Samburu County]]
+- [[Samburu Pastoralism]]
+- [[Samburu Social Structure]]
+- [[The Moran (Warriors)]]
+- [[Samburu Language]]
+- [[Samburu Religion]]
+- [[Samburu Beadwork]]
+- [[Samburu National Reserve]]
 
 ## Sources
 

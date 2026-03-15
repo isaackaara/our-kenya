@@ -1,6 +1,6 @@
 # Swahili Proverbs
 
-The Swahili have a rich tradition of proverbs (methali za Kiswahili) that encode wisdom, moral lessons, and observations about human nature and proper behavior. Swahili proverbs are transmitted orally and appear in printed form (particularly on kanga cloths), expressing cultural values and providing guidance for ethical living. The proverbs reveal what Swahili culture considers important and virtuous.
+The [[Swahili]] have a rich tradition of proverbs (methali za Kiswahili) that encode wisdom, moral lessons, and observations about human nature and proper behavior. [[Swahili Proverbs|Swahili proverbs]] are transmitted orally and appear in printed form (particularly on [[Swahili Dress|kanga cloths]]), expressing [[Swahili Identity|cultural values]] and providing guidance for ethical living within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Characteristics of Swahili Proverbs
 
@@ -102,6 +102,15 @@ Despite modernization and globalization, Swahili proverbs remain relevant:
 - **Social use:** Proverbs appear in contemporary discourse and communication
 
 The continuing use of proverbs demonstrates their enduring value in Swahili culture.
+
+## See Also
+
+- [[Swahili Dress]] - Kangas that display proverbs
+- [[Swahili Language]] - Language of proverbs
+- [[Swahili Identity]] - Cultural values expressed
+- [[Swahili Civilization Overview]] - Historical context
+- [[Mwana Kupona]] - Poet who used proverb traditions
+- [[Swahili and the Mijikenda]] - Shared wisdom traditions
 
 ## Sources
 

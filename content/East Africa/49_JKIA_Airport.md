@@ -1,6 +1,6 @@
 # Jomo Kenyatta International Airport
 
-Jomo Kenyatta International Airport (JKIA) is East Africa's largest and most developed aviation hub, serving as the region's primary international gateway. The airport's significance extends beyond Kenya to the entire East African region and beyond.
+[[JKIA Airport]] is [[East African Community]]'s largest and most developed aviation hub, serving as the region's primary international gateway. The airport's significance extends beyond Kenya to the entire [[East African Community]] region and beyond.
 
 ## Airport Infrastructure
 
@@ -18,15 +18,15 @@ JKIA is East Africa's premier airport facility:
 
 ## Regional Hub Status
 
-JKIA serves as East Africa's primary aviation hub:
+[[JKIA Airport]] serves as [[East African Community]]'s primary aviation hub:
 
-**Hub Function**: Most East African travelers to Europe, Asia, North America, and the Middle East connect through JKIA.
+**Hub Function**: Most [[East African Community]] travelers to Europe, Asia, North America, and the Middle East connect through [[JKIA Airport]].
 
-**Connecting Passengers**: A significant portion of JKIA's passenger traffic is connecting traffic, not originating in or destined for Nairobi.
+**Connecting Passengers**: A significant portion of [[JKIA Airport]]'s passenger traffic is connecting traffic, not originating in or destined for [[Nairobi Regional Hub]].
 
-**Airlines**: Multiple international airlines use JKIA as a regional hub, with Kenya Airways (Kenya's national carrier) making JKIA its primary hub.
+**Airlines**: Multiple international airlines use [[JKIA Airport]] as a regional hub, with Kenya Airways (Kenya's national carrier) making [[JKIA Airport]] its primary hub.
 
-**Route Network**: JKIA hosts connections to major global destinations, making it the region's international gateway.
+**Route Network**: [[JKIA Airport]] hosts connections to major global destinations, making it the region's international gateway.
 
 ## Airline Operations
 
@@ -128,6 +128,16 @@ JKIA's future development involves:
 **Cargo Facility Expansion**: Increased cargo facilities would support growth in cargo operations.
 
 **Ground Transportation**: Improved ground access (including proposed rail connections) would enhance airport accessibility.
+
+## See Also
+
+- [[Nairobi Regional Hub]]
+- [[Mombasa Port]]
+- [[East African Internet Hub]]
+- [[Kenya in East Africa]]
+- [[East African Community History]]
+- [[LAPSSET Corridor]]
+- [[East Africa Timeline]]
 
 ## Sources
 

@@ -8,7 +8,7 @@ Calabashes (gourds) are crafted into containers for storing and serving food and
 
 ## Beadwork
 
-Beaded ornaments, particularly necklaces and bracelets, are produced by Tharaka artisans (often women). Beadwork reflects aesthetic preferences and indicates status or life stage. The work requires careful stringing of beads in patterns and combinations.
+Beaded ornaments, particularly necklaces and bracelets, are produced by Tharaka artisans (often [[Tharaka Women]]). Beadwork reflects aesthetic preferences and indicates status or life stage. The work requires careful stringing of beads in patterns and combinations.
 
 ## Pottery
 
@@ -29,6 +29,14 @@ Contemporary Tharaka artisans continue traditional craft production while adapti
 ## Economic and Cultural Significance
 
 While crafts are no longer the primary economic activity for most Tharaka, they remain culturally important and provide income for those engaged in craft production. Craft production preserves cultural knowledge and techniques.
+
+## See Also
+
+- [[Tharaka Music and Dance]]
+- [[Tharaka Women]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Identity Today]]
 
 ## Sources
 

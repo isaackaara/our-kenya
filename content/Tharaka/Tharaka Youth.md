@@ -4,7 +4,7 @@ Youth unemployment and limited economic opportunities are significant challenges
 
 ## Employment Landscape
 
-The Tharaka economy is primarily based on agriculture and pastoralism, with limited formal employment opportunities. Jobs in government, education, and commercial sectors are concentrated in county headquarters and larger towns. Most youth lack access to stable wage employment.
+The Tharaka economy is primarily based on agriculture and pastoralism, with limited formal employment opportunities. Jobs in government, [[Tharaka Education]], and commercial sectors are concentrated in county headquarters and larger towns. Most youth lack access to stable wage employment.
 
 ## Migration as Response
 
@@ -33,6 +33,14 @@ Youth organizations and sports groups provide recreational and social outlets. C
 ## Government and NGO Support
 
 Government programs and NGOs provide limited support through skills training, entrepreneurship programs, and job placement services. However, programs reach only a fraction of unemployed youth.
+
+## See Also
+
+- [[Tharaka Identity Today]]
+- [[Tharaka Education]]
+- [[Tharaka Initiation]]
+- [[Tharaka Economic Development]]
+- [[Tharaka Diaspora]]
 
 ## Sources
 

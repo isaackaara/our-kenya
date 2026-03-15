@@ -1,12 +1,12 @@
 # Tharaka Bibliography
 
-Major sources and references for research on the Tharaka people and Tharaka-Nithi County.
+Major [[Tharaka Oral Traditions]] and references for research on the Tharaka people and Tharaka-Nithi County.
 
 ## Academic Works
 
 Ambler, Charles. "Kenyan Communities in the Long Twentieth Century". Historical Association of Kenya archives, 2010. https://www.nairobi.go.ke/
 
-Bender, David L. "Changing Kinship Patterns in Colonial East Africa". Journal of African History, 1994. https://www.cambridge.org/core/journals/journal-of-african-history
+Bender, David L. "Changing Kinship Patterns in Colonial East Africa". Journal of African [[Tharaka Timeline]], 1994. https://www.cambridge.org/core/journals/journal-of-african-history
 
 Ehret, Christopher. "The Civilizations of Africa: A History to 1800". University of Virginia Press, 2002. https://www.upress.virginia.edu/
 
@@ -37,6 +37,13 @@ Hinnebusch, Thomas. "The Swahili Peoples: An African Odyssey". University of Pen
 Okpewho, Isidore. "African Oral Literature: Backgrounds, Character, and Continuity". Indiana University Press, 1992. https://www.indiana.edu/
 
 Wanyande, Peter. "Ethnic Politics and Governance in Contemporary Kenya". Institute of Policy Analysis and Research, 2010. https://www.ipar.or.ke/
+
+## See Also
+
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Timeline]]
+- [[Tharaka Origins]]
+- [[Tharaka Notable People]]
 
 ## Sources
 

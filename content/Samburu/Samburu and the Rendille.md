@@ -1,6 +1,6 @@
 # Samburu and the Rendille
 
-The Rendille are Cushitic-speaking pastoralists closely associated with Samburu through geographic proximity, trade, and intermarriage. Rendille and Samburu communities share pastoralist economy and semi-arid environment. Distinct language and some cultural differences maintain separate identities despite close association and resource sharing.
+The Rendille are Cushitic-speaking pastoralists closely associated with [[Samburu]] through geographic proximity, trade, and intermarriage. Rendille and [[Samburu]] communities share [[Samburu Pastoralism|pastoralist economy]] and semi-arid environment. Distinct language and some cultural differences maintain separate identities despite close association and resource sharing.
 
 ## Linguistic and Cultural Distinction
 
@@ -8,7 +8,15 @@ Rendille speak a Cushitic language distinct from Samburu's Nilotic Maa. However,
 
 ## Geographic Association
 
-Rendille occupy territory adjacent to Samburu County in similar semi-arid environment. Shared grazing areas and water sources create both cooperation and resource competition. Territorial relationships shape inter-community dynamics.
+Rendille occupy territory adjacent to [[Samburu County]] in similar semi-arid environment. Shared grazing areas and water sources create both cooperation and resource competition. Territorial relationships shape inter-community dynamics.
+
+## See Also
+
+- [[Samburu Pastoralism]]
+- [[Samburu County]]
+- [[Samburu and the Turkana Basin]]
+- [[Pastoral Inter-Community Relations]]
+- [[Nilotic and Cushitic Peoples]]
 
 ## Sources
 

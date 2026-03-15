@@ -1,46 +1,46 @@
 # EAC Expansion and Challenges
 
-The East African Community has expanded from three member states (Kenya, Uganda, Tanzania) to ten member states, including DRC and Somalia. This expansion reflects regional ambitions but also creates challenges around security, integration capacity, and political management.
+The [[East African Community]] has expanded from three member states (Kenya, Uganda, Tanzania) to ten member states, including DRC and Somalia. This expansion reflects regional ambitions but also creates challenges around security, integration capacity, and political management.
 
 ## Expansion Timeline
 
-The EAC's membership has grown dramatically:
+The [[East African Community]]'s membership has grown dramatically:
 
-**Original Three (1967-1977 and revived 2000)**: Kenya, Uganda, Tanzania formed the original community.
+**Original Three (1967-1977 and revived 2000)**: Kenya, Uganda, Tanzania formed the original [[East African Community]].
 
-**Rwanda and Burundi (2007)**: Both nations joined the EAC, doubling its membership.
+**Rwanda and Burundi (2007)**: Both nations joined the [[East African Community]], doubling its membership.
 
-**South Sudan (2016)**: The newly independent nation became an EAC member despite ongoing conflict.
+**South Sudan (2016)**: The newly independent nation became an [[East African Community]] member despite [[South Sudan Kenya]] conflicts.
 
-**Democratic Republic of Congo (2022)**: The DRC, Africa's second-largest nation by population, joined the EAC, dramatically expanding its geographic and economic scope.
+**Democratic Republic of Congo (2022)**: The DRC, Africa's second-largest nation by population, joined the [[East African Community]], dramatically expanding its geographic and economic scope.
 
-**Somalia (2023)**: Somalia became the tenth member, despite fragmented state authority and ongoing terrorism.
+**Somalia (2023)**: [[Somalia Collapse]] became the tenth member, despite fragmented state authority and ongoing terrorism.
 
 ## Strategic Rationale
 
 The expansion reflects multiple motivations:
 
-**Regional Integration**: Proponents argue that expanding integration to include more nations creates a larger market and stronger regional bloc.
+**Regional Integration**: Proponents argue that expanding integration to include more nations creates a larger market and stronger [[East African Community]] regional bloc.
 
-**Political Influence**: Larger membership increases the EAC's international influence and voice in African and global forums.
+**Political Influence**: Larger membership increases the [[East African Community]]'s international influence and voice in African and global forums.
 
-**Security Cooperation**: Integration is intended to facilitate security cooperation against shared threats (terrorism, piracy, trafficking).
+**Security Cooperation**: Integration is intended to facilitate security cooperation against shared threats (terrorism, piracy, trafficking) across [[East African Community]].
 
-**Economic Growth**: Expansion is expected to facilitate trade, investment, and economic growth across larger populations.
+**Economic Growth**: Expansion is expected to facilitate trade, investment, and economic growth across larger populations in the [[East African Community]].
 
 ## Challenges from Expansion
 
 The expanded membership creates substantial challenges:
 
-**Security Fragmentation**: The DRC and Somalia are both major security challenges. DRC's eastern regions are destabilized by armed groups and regional conflict. Somalia's state collapse means that significant portions of the country are not under effective government control, complicating EAC commitments and coordination.
+**Security Fragmentation**: The DRC and [[Somalia Collapse]] are both major security challenges. DRC's eastern regions are destabilized by armed groups and regional conflict. [[Somalia Collapse]] means that significant portions of the country are not under effective government control, complicating [[East African Community]] commitments and coordination.
 
-**Economic Disparities**: The EAC now includes wealthy nations (Kenya) and extremely poor nations (Burundi, Somalia). Economic disparities create tensions around integration pace and benefit distribution.
+**Economic Disparities**: The [[East African Community]] now includes wealthy nations (Kenya) and extremely poor nations (Burundi, [[Somalia Collapse]]). Economic disparities create tensions around integration pace and benefit distribution.
 
-**Political Tensions**: Different political systems and ideologies sometimes create friction. Rwanda's relatively authoritarian governance and Kenya's democratic instability create management challenges.
+**Political Tensions**: Different political systems and ideologies sometimes create friction. Rwanda's governance and Kenya's democratic instability create [[East African Community]] management challenges.
 
-**Integration Capacity**: The EAC's institutions are strained to manage ten diverse member states with multiple languages, legal systems, and priorities.
+**Integration Capacity**: The [[East African Community]]'s institutions are strained to manage ten diverse member states with multiple languages, legal systems, and priorities.
 
-**Implementation Gaps**: Even the original three members have difficulty implementing EAC protocols. Adding new members has expanded these implementation challenges.
+**Implementation Gaps**: Even the original three members have difficulty implementing [[East African Community]] protocols. Adding new members has expanded these implementation challenges.
 
 ## The DRC as a Special Case
 
@@ -89,6 +89,16 @@ Despite challenges, expansion offers potential benefits:
 **Geopolitical Weight**: An integrated East Africa would be a significant geopolitical actor in African and global politics.
 
 **Security Cooperation**: Expanded cooperation could improve regional security and counter transnational threats.
+
+## See Also
+
+- [[EAC History]]
+- [[EAC Common Market]]
+- [[EAC Political Federation]]
+- [[Somalia Collapse]]
+- [[Rwanda Kenya]]
+- [[South Sudan Kenya]]
+- [[East Africa Timeline]]
 
 ## Sources
 

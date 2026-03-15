@@ -1,10 +1,10 @@
 # Tharaka Language
 
-The Tharaka language (Kitharaka) is a Bantu language spoken by approximately 200,000 to 250,000 people. Kitharaka is closely related to Kimeru but is recognized as a distinct language with its own phonological and grammatical features.
+The Tharaka language (Kitharaka) is a [[Tharaka and the Embu]] language spoken by approximately 200,000 to 250,000 people. Kitharaka is closely related to Kimeru but is recognized as a distinct language with its own phonological and grammatical features.
 
 ## Relationship to Kimeru
 
-Kitharaka shares significant linguistic features with Kimeru (the language of the Meru people), reflecting the shared origins and continued relationship between the two communities. However, Kitharaka has distinctive features that establish it as a separate language rather than a dialect of Meru.
+Kitharaka shares significant linguistic features with Kimeru (the language of the Meru people), reflecting the shared origins and continued relationship between the two communities. However, Kitharaka has distinctive features that establish it as a separate language rather than a [[Tharaka Origins]] of Meru.
 
 ## Linguistic Features
 
@@ -18,13 +18,21 @@ Kitharaka remains widely spoken among Tharaka communities in the Tharaka-Nithi C
 
 Kitharaka is traditionally transmitted within families and through community settings. However, the dominance of English and Swahili in schools means that many young Tharaka do not become fully fluent in Kitharaka. Language preservation efforts by community organizations and schools are emerging.
 
-## Language and Identity
+## Language and [[Tharaka Identity Today]]
 
 The Tharaka language is closely associated with Tharaka identity. Speaking Kitharaka marks one as Tharaka and serves as a marker of cultural belonging. Language loss is viewed as a threat to cultural continuity.
 
 ## Documentation
 
 Linguistic documentation of Kitharaka has been limited, with few comprehensive dictionaries or grammars. Scholars and community organizations are working to document the language before further erosion occurs.
+
+## See Also
+
+- [[Tharaka Origins]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Identity Today]]
+- [[Tharaka and the Embu]]
+- [[Tharaka Social Structure]]
 
 ## Sources
 

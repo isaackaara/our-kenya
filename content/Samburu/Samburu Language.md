@@ -1,6 +1,6 @@
 # Samburu Language
 
-The Samburu language is a Nilotic language representing a dialect of Maa, mutually intelligible with Maasai. This linguistic affinity reflects shared pastoralist ancestry and facilitates inter-community communication. Contemporary Samburu increasingly use Swahili and English, creating language shift concerns and threats to Samburu linguistic distinctiveness.
+The [[Samburu]] language is a Nilotic language representing a dialect of Maa, mutually intelligible with [[Samburu Origins|Maasai]]. This linguistic affinity reflects shared pastoralist ancestry and facilitates inter-community communication. Contemporary [[Samburu]] increasingly use Swahili and English, creating language shift concerns and threats to [[Samburu]] linguistic distinctiveness.
 
 ## Linguistic Classification
 
@@ -36,7 +36,15 @@ Samburu language use marks ethnic identity and community membership. Language fl
 
 ## Linguistic Resources and Documentation
 
-Limited formal linguistic documentation of Samburu exists. Academic studies, dictionaries, and recordings have preserved some linguistic material. Further documentation efforts would help preserve the language and enable comparative linguistic research.
+Limited formal linguistic documentation of [[Samburu]] exists. Academic studies, dictionaries, and recordings have preserved some linguistic material. Further documentation efforts would help preserve the language and enable comparative linguistic research.
+
+## See Also
+
+- [[Samburu]]
+- [[Samburu Oral Literature]]
+- [[Samburu Proverbs]]
+- [[Samburu Origins]]
+- [[Nilotic Languages]]
 
 ## Sources
 

@@ -8,7 +8,7 @@ The Tharaka and Meru share common origins and ancestry, with both communities de
 
 ## Linguistic Relationship
 
-The Tharaka language (Kitharaka) is closely related to Kimeru (the Meru language), reflecting shared ancestry. However, Kitharaka is recognized as distinct, with phonological and grammatical features that mark it as separate from Kimeru.
+The Tharaka [[Tharaka Language]] (Kitharaka) is closely related to Kimeru (the Meru language), reflecting shared ancestry. However, Kitharaka is recognized as distinct, with phonological and grammatical features that mark it as separate from Kimeru.
 
 ## Political Relationships
 
@@ -16,7 +16,7 @@ Within Tharaka-Nithi County, the Meru (including Chuka and Igambi sub-groups) co
 
 ## Geographic Proximity
 
-The Tharaka occupy lower elevation zones while the Meru occupy higher elevations and the Mount Kenya region. This geographic separation has contributed to development of distinct communities while facilitating trade and exchange.
+The Tharaka occupy lower elevation zones while the Meru occupy higher elevations and the Mount Kenya [[Tharaka Political History]]. This geographic separation has contributed to development of distinct communities while facilitating trade and exchange.
 
 ## Trade and Exchange
 
@@ -29,6 +29,14 @@ In contemporary times, Tharaka and Meru maintain peaceful relationships while ne
 ## Cultural Maintenance
 
 While sharing many cultural features, the Tharaka maintain distinctive practices and identity. The maintenance of Kitharaka as a distinct language and preservation of specific cultural practices serve to maintain Tharaka distinctiveness.
+
+## See Also
+
+- [[Tharaka Origins]]
+- [[Tharaka Language]]
+- [[Tharaka Political History]]
+- [[Tharaka and GEMA]]
+- [[Tharaka and Miraa]]
 
 ## Sources
 

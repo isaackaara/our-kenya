@@ -34,6 +34,15 @@ Creating employment for youth is an important development priority. Skills train
 
 Tharaka-Nithi County government includes Tharaka economic development in its integrated development plans. However, resources available are limited relative to development needs.
 
+## See Also
+
+- [[Tharaka Agriculture]]
+- [[Tharaka Pastoralism]]
+- [[Tharaka and Miraa]]
+- [[Tharaka Infrastructure]]
+- [[Cotton Farming Tharaka]]
+- [[Tharaka Beekeeping]]
+
 ## Sources
 
 1. Tharaka-Nithi County Government. "County Integrated Development Plan 2022-2027". https://tharaka-nithi.go.ke/

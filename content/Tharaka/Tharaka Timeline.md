@@ -1,8 +1,8 @@
 # Tharaka Timeline
 
-Key dates and periods in Tharaka history from pre-colonial times through 2026 provide a chronological framework for understanding historical development.
+Key dates and periods in Tharaka [[Tharaka Origins]] from pre-colonial times through 2026 provide a chronological framework for understanding historical [[Tharaka Economic Development]].
 
-## Pre-colonial Period (Before 1890s)
+## Pre-colonial [[Tharaka Colonial History]] (Before 1890s)
 
 The Tharaka established settlements in the lowland areas east of Mount Kenya, developing agricultural and pastoral practices adapted to the semi-arid environment. Trade networks connected Tharaka communities to neighboring peoples and to coastal traders.
 
@@ -29,6 +29,14 @@ Kenya returned to multi-party democracy in 1992. Devolution discussions emerged 
 ## Devolution and Contemporary Period (2010s-2026)
 
 The 2010 constitution introduced devolved governance. Tharaka-Nithi County was created in 2013. County elections occurred in 2013 and 2022. Contemporary challenges include drought, youth unemployment, and development needs.
+
+## See Also
+
+- [[Tharaka Origins]]
+- [[Tharaka Political History]]
+- [[Tharaka Colonial History]]
+- [[Tharaka Notable People]]
+- [[Tharaka and GEMA]]
 
 ## Sources
 

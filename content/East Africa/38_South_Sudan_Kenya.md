@@ -1,6 +1,6 @@
 # South Sudan and Kenya
 
-Kenya played a crucial role in the South Sudan peace process and maintains significant involvement in South Sudan's political and security situation. The Naivasha Comprehensive Peace Agreement (2005) was signed in Kenya and represented a turning point in African conflict resolution.
+Kenya played a crucial role in the [[South Sudan Kenya]] peace process and maintains significant involvement in [[South Sudan Kenya]]'s political and security situation. The Naivasha Comprehensive Peace Agreement (2005) was signed in Kenya and represented a turning point in African conflict resolution.
 
 ## The Second Sudanese Civil War
 
@@ -18,9 +18,9 @@ South Sudan's independence was preceded by decades of civil conflict:
 
 Kenya became the primary venue and mediator for peace negotiations:
 
-**Nairobi Venue**: Nairobi was chosen as the site for peace negotiations due to Kenya's diplomatic position as a neighboring but not directly involved state.
+**[[Nairobi Regional Hub]] Venue**: [[Nairobi Regional Hub]] was chosen as the site for peace negotiations due to Kenya's diplomatic position as a neighboring but not directly involved state.
 
-**Kenyan Mediation**: Kenya, alongside international mediators (particularly the Intergovernmental Authority on Development, IGAD), facilitated negotiations.
+**Kenyan Mediation**: Kenya, alongside international mediators (particularly the Intergovernmental Authority on Development, IGAD), facilitated negotiations on [[South Sudan Kenya]] peace.
 
 **Diplomatic Investment**: Kenya invested considerable diplomatic effort in facilitating the peace process.
 
@@ -89,6 +89,16 @@ South Sudan has geopolitical importance:
 **Security Concern**: South Sudan's instability creates regional security concerns and threatens EAC stability.
 
 **Great Power Interest**: The conflict has attracted international attention from the US, China, Russia, and other powers.
+
+## See Also
+
+- [[EAC History]]
+- [[EAC Expansion]]
+- [[Kenya Uganda Border]]
+- [[East African Droughts]]
+- [[Somalia Collapse]]
+- [[Ethiopia Kenya]]
+- [[East Africa Timeline]]
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Tharaka Pastoralism
 
-Pastoral herding of cattle, goats, and sheep forms an important part of Tharaka livelihood systems, complementing agriculture. Pastoral activities are adapted to the semi-arid environment and provide milk, meat, and capital accumulation.
+Pastoral [[Tharaka Land]] of cattle, goats, and sheep forms an important part of Tharaka livelihood systems, complementing agriculture. Pastoral activities are adapted to the semi-arid environment and provide milk, meat, and capital accumulation.
 
 ## Herd Composition
 
-Tharaka herds typically include cattle (the most valued livestock), goats (smaller ruminants with lower water requirements), and occasionally sheep. Chickens are also kept for eggs and meat. Herd composition reflects both subsistence needs and capital accumulation strategies.
+Tharaka herds typically include cattle (the most valued [[Tharaka Climate]]), goats (smaller ruminants with lower water requirements), and occasionally sheep. Chickens are also kept for eggs and meat. Herd composition reflects both subsistence needs and capital accumulation strategies.
 
 ## Pastoral Practices
 
@@ -29,6 +29,14 @@ Contemporary pastoralists increasingly engage in livestock markets, selling anim
 ## Challenges and Change
 
 Pastoral systems face challenges from population pressure (reducing available grazing), climate change (affecting forage availability), and economic pressures (promoting shift toward agriculture or other livelihoods). Some pastoral households are transitioning toward agro-pastoral or agricultural production.
+
+## See Also
+
+- [[Tharaka Climate]]
+- [[Tharaka Land]]
+- [[Tharaka Economic Development]]
+- [[Tharaka Food]]
+- [[Tharaka and Drought]]
 
 ## Sources
 

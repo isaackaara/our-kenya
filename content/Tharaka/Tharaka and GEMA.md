@@ -1,10 +1,10 @@
 # Tharaka and GEMA
 
-The GEMA (Gikuyu-Embu-Meru-Agikuyu) political alliance groups together the Tharaka (through their Meru relationship), Gikuyu, Embu, and Agikuyu communities. The Tharaka's position within this bloc is somewhat marginal due to their smaller population.
+The GEMA (Gikuyu-[[Tharaka and the Embu]]-Meru-Agikuyu) political [[Tharaka and the Meru]] groups together the Tharaka (through their Meru relationship), Gikuyu, Embu, and Agikuyu communities. The Tharaka's position within this bloc is somewhat marginal due to their smaller population.
 
 ## GEMA Coalition History
 
-The GEMA political alliance emerged as an important force in Kenyan politics, particularly during periods of political transition and presidential succession. The alliance attempts to coordinate political interests of the member communities.
+The GEMA political alliance emerged as an important force in Kenyan [[Tharaka Political History]], particularly during periods of political transition and presidential succession. The alliance attempts to coordinate political interests of the member communities.
 
 ## Tharaka Position Within GEMA
 
@@ -29,6 +29,14 @@ The salience of GEMA as a political identity has evolved over time. In contempor
 ## Representation
 
 Tharaka representation within GEMA occurs through political leaders who participate in coalition discussions and negotiations. However, Tharaka political voices may be less prominent than those of larger communities.
+
+## See Also
+
+- [[Tharaka Political History]]
+- [[Tharaka and the Embu]]
+- [[Tharaka and the Meru]]
+- [[Tharaka-Nithi County]]
+- [[Tharaka Timeline]]
 
 ## Sources
 

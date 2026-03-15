@@ -1,6 +1,6 @@
 # LAPSSET Corridor
 
-The Lamu Port-South Sudan-Ethiopia (LAPSSET) Transport corridor is an ambitious infrastructure project intended to connect the Kenyan port of Lamu to South Sudan and Ethiopia via pipeline, railway, and roads. The corridor represents a major regional development vision but faces implementation challenges.
+The [[LAPSSET Corridor]] Transport corridor is an ambitious infrastructure project intended to connect the Kenyan port of Lamu to South Sudan and [[Ethiopia Kenya]] via pipeline, railway, and roads. The corridor represents a major [[East African Community]] regional development vision but faces implementation challenges.
 
 ## Project Components
 
@@ -46,11 +46,11 @@ LAPSSET has advanced unevenly:
 
 ## Regional Cooperation Challenges
 
-Implementing LAPSSET requires cooperation among multiple nations:
+Implementing [[LAPSSET Corridor]] requires cooperation among multiple nations:
 
-**Kenya-Ethiopia Relations**: While both nations have interest in LAPSSET, competing interests and border tensions sometimes create friction.
+**[[Kenya Ethiopia Border]]**: While both nations have interest in [[LAPSSET Corridor]], competing interests and border tensions sometimes create friction.
 
-**South Sudan Instability**: South Sudan's civil war and state fragmentation have complicated South Sudan's participation in the project.
+**[[South Sudan Kenya]] Instability**: [[South Sudan Kenya]]'s civil war and state fragmentation have complicated [[South Sudan Kenya]]'s participation in the project.
 
 **Political Will**: Varying levels of political commitment among participating nations have slowed implementation.
 
@@ -121,6 +121,16 @@ As of 2026, LAPSSET remains partially under development:
 **Overall Progress**: The project has advanced but remains years away from full completion.
 
 **Commitment Uncertainty**: Political commitment to full implementation remains somewhat uncertain given changing governments and competing priorities.
+
+## See Also
+
+- [[Mombasa Port]]
+- [[Kenya Ethiopia Border]]
+- [[East African Power]]
+- [[Kenya in East Africa]]
+- [[EAC Expansion]]
+- [[Nairobi Regional Hub]]
+- [[East Africa Timeline]]
 
 ## Sources
 

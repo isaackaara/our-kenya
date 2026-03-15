@@ -1,6 +1,6 @@
 # East African Runners
 
-Kenya and Ethiopia dominate long-distance running at the world level. The preponderance of Kenyan and Ethiopian runners winning marathons, half-marathons, and distance races is one of the world's most striking athletic phenomena. This dominance has roots in geography, culture, and economics.
+Kenya and Ethiopia dominate long-distance running at the world level. The preponderance of Kenyan and Ethiopian runners winning marathons, half-marathons, and distance races is one of the world's most striking athletic phenomena. This dominance reflects [[Great Rift Valley]] altitude, geography, [[Kalenjin Nilo Saharan]] heritage, culture, and economics.
 
 ## Kenya's Running Dominance
 
@@ -28,15 +28,15 @@ Ethiopia also dominates distance running at the world level:
 
 ## The Kalenjin Phenomenon (Kenya)
 
-Within Kenya, a specific ethnic group, the Kalenjin, produces a disproportionate number of elite runners:
+Within Kenya, a specific ethnic group, the [[Kalenjin Nilo Saharan]], produces a disproportionate number of elite runners:
 
-**Over-Representation**: Kalenjin runners are massively over-represented among Kenya's elite distance runners, despite Kalenjin representing roughly 10-15 percent of Kenya's population.
+**Over-Representation**: [[Kalenjin Nilo Saharan]] runners are massively over-represented among Kenya's elite distance runners, despite [[Kalenjin Nilo Saharan]] representing roughly 10-15 percent of Kenya's population.
 
-**Iten Town**: The town of Iten in the Rift Valley has become the world's center for distance running training, hosting numerous elite Kenyan runners and international athletes seeking high-altitude training.
+**Iten Town**: The town of Iten in the [[Great Rift Valley]] has become the world's center for distance running training, hosting numerous elite Kenyan runners and international athletes seeking high-altitude training.
 
 **Training Culture**: Iten has developed a distinctive training culture, with many elite runners training together and sharing knowledge.
 
-**Genetics and Culture**: Scientists debate whether Kalenjin success reflects genetic advantages or cultural factors (emphasis on running, training culture, economic opportunity).
+**Genetics and Culture**: Scientists debate whether [[Kalenjin Nilo Saharan]] success reflects genetic advantages or cultural factors (emphasis on running, training culture, economic opportunity).
 
 ## The Oromo and Ethiopian Running
 
@@ -107,6 +107,16 @@ East African distance running dominance has global effects:
 **Brain Drain**: Top runners often emigrate for international careers, representing human capital migration.
 
 **Development Model**: East African running success has inspired imitation in other regions.
+
+## See Also
+
+- [[Great Rift Valley]]
+- [[Kalenjin Nilo Saharan]]
+- [[Kenya in East Africa]]
+- [[East African Community History]]
+- [[Mount Kilimanjaro]]
+- [[East African Food]]
+- [[East Africa Timeline]]
 
 ## Sources
 

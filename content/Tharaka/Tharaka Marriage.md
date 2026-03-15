@@ -12,9 +12,9 @@ Marriage is negotiated between families, with elders playing key roles in discus
 
 ## Marriage Ceremonies
 
-Tharaka marriages involve ceremonial events, including rituals that formalize the union and publicly announce the marriage. Traditional ceremonies may involve ritual specialists and community participation. The ceremonies mark the transition to married status.
+Tharaka marriages involve ceremonial events, including rituals that formalize the [[Tharaka Social Structure]] and publicly announce the marriage. Traditional ceremonies may involve ritual specialists and community participation. The ceremonies mark the transition to married status.
 
-## Kinship Rules
+## [[Tharaka Initiation]] Rules
 
 Tharaka kinship rules restrict marriage within one's own clan (exogamy rule), requiring marriage outside the clan to strengthen inter-clan relationships and prevent lineage concentration. Certain relatives may have preferential or prohibited marriage relationships.
 
@@ -29,6 +29,14 @@ Divorce is recognized in Tharaka custom, involving negotiation over return of br
 ## Contemporary Marriage
 
 Modern marriages among the Tharaka increasingly incorporate Christian ceremonies and civil registration alongside traditional practices. Educational achievements of both partners and individual preferences are increasingly considered in marriage arrangements.
+
+## See Also
+
+- [[Tharaka Social Structure]]
+- [[Tharaka Women]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Initiation]]
+- [[Tharaka Youth]]
 
 ## Sources
 

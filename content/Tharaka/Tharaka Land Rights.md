@@ -1,14 +1,14 @@
-# Tharaka Land Rights
+# Tharaka [[Tharaka Land]] Rights
 
-Land tenure in Tharaka territory has been transformed over time. Contemporary land rights issues involve questions about individual versus communal tenure, land access for youth, historical land disputes, and encroachment concerns.
+Land [[Tharaka Social Structure]] in Tharaka territory has been transformed over time. Contemporary land rights issues involve questions about individual versus communal tenure, land access for youth, historical land disputes, and encroachment concerns.
 
 ## Traditional Land Tenure
 
 Traditionally, Tharaka operated under a system where clans controlled land and individuals had use rights to specific areas. Land was not typically bought and sold; instead, it was managed at clan and lineage levels based on traditional principles.
 
-## Colonial Land Changes
+## [[Tharaka Colonial History]] Land Changes
 
-Colonial administration introduced new land tenure systems, including demarcation of territories and recording of land rights. Some lowland areas were converted into colonial estates. Colonial policies began the shift toward individual land ownership.
+Colonial administration introduced new land tenure systems, including demarcation of territories and recording of land rights. Some lowland areas were converted into colonial estates. Colonial policies began the shift toward individual land [[Tharaka Political History]].
 
 ## Post-Independence Land Reform
 
@@ -29,6 +29,14 @@ Land encroachment and boundary disputes are common issues in Tharaka territory. 
 ## Land Registration
 
 Progress in land titling and registration continues but is incomplete. Formal land documentation provides security but remains expensive and complex for many households. Many Tharaka lack formal titles to their land.
+
+## See Also
+
+- [[Tharaka Land]]
+- [[Tharaka Colonial History]]
+- [[Tharaka Political History]]
+- [[Tharaka Social Structure]]
+- [[Tharaka-Nithi County]]
 
 ## Sources
 

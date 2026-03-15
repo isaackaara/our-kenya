@@ -1,6 +1,6 @@
 # Samburu and the Colonial Period
 
-British colonial administration extended to Samburu territory in the late nineteenth century, fundamentally altering Samburu political structures and land access. Colonial policies established administrative districts, introduced taxation, and displaced Samburu from productive lands. The colonial period set conditions shaping post-colonial Samburu development challenges.
+British colonial administration extended to [[Samburu]] territory in the late nineteenth century, fundamentally altering [[Samburu]] political structures and land access. Colonial policies established administrative districts, introduced taxation, and displaced [[Samburu]] from productive lands. The colonial period set conditions shaping post-colonial [[Samburu]] development challenges.
 
 ## Early Colonial Contact
 
@@ -40,7 +40,15 @@ Samburu resistance to colonial policies was limited compared to sedentary societ
 
 ## Post-Colonial Continuities
 
-Many colonial policies persisted after independence, including land restrictions and administrative boundaries. The Samburu National Reserve, established during colonial period, continued under national government control. Land claims emerging from colonial-era alienation persist into contemporary period.
+Many colonial policies persisted after independence, including land restrictions and administrative boundaries. The [[Samburu National Reserve]], established during colonial period, continued under national government control. Land claims emerging from colonial-era alienation persist into contemporary period.
+
+## See Also
+
+- [[Samburu Land History]]
+- [[Samburu Land Rights Today]]
+- [[Samburu in Independent Kenya]]
+- [[Samburu Laikipia Claims]]
+- [[Colonial History of Kenya]]
 
 ## Sources
 

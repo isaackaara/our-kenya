@@ -12,7 +12,7 @@ In modern times, human-wildlife conflict is a significant issue. Large animals, 
 
 ## Community Conservancies
 
-Community conservancies have been established in areas adjacent to or overlapping with protected areas. These conservancies involve local communities in wildlife management and conservation, with communities sharing in tourism revenues.
+Community conservancies have been established in areas adjacent to or overlapping with protected areas. These conservancies involve local communities in wildlife management and [[Tharaka National Reserve]], with communities sharing in tourism revenues.
 
 ## Compensation Programs
 
@@ -28,7 +28,15 @@ Tharaka cultural attitudes toward wildlife are mixed. Wildlife is valued for tou
 
 ## Wildlife Management
 
-Future human-wildlife coexistence depends on management approaches that balance conservation with community livelihood needs. Community participation in wildlife management decision-making remains important but limited.
+Future human-wildlife [[Tharaka Pastoralism]] depends on management approaches that balance conservation with community livelihood needs. Community participation in wildlife management decision-making remains important but limited.
+
+## See Also
+
+- [[Tharaka National Reserve]]
+- [[Tharaka Forest]]
+- [[Tharaka Climate]]
+- [[Tharaka Pastoralism]]
+- [[Tharaka Land Rights]]
 
 ## Sources
 

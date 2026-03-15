@@ -1,6 +1,6 @@
 # Samburu National Reserve
 
-The Samburu National Reserve covers approximately 165 square kilometers protecting semi-arid wildlife and pastoral habitat. Established during colonial period, the reserve protects endangered species including Grevy's zebra, reticulated giraffe, and gerenuk. Tourism provides reserve revenue and employment, though Samburu community benefit remains contested and limited.
+The [[Samburu National Reserve]] covers approximately 165 square kilometers protecting semi-arid wildlife and pastoral habitat. Established during colonial period, the reserve protects endangered species including Grevy's zebra, reticulated giraffe, and gerenuk. [[Samburu and Tourism|Tourism]] provides reserve revenue and employment, though [[Samburu]] community benefit remains contested and limited.
 
 ## Reserve Establishment and Management
 
@@ -41,6 +41,14 @@ Some community-based organizations attempt to supplement official reserve manage
 ## Climate Change Threats
 
 Climate change threatens the reserve's wildlife and habitats through altered rainfall and temperature patterns. Species adapted to semi-arid conditions face survival pressure if conditions become more arid. Water availability reduction threatens wildlife survival, particularly during droughts.
+
+## See Also
+
+- [[Buffalo Springs Reserve]]
+- [[Samburu and Tourism]]
+- [[Samburu Pastoralism]]
+- [[Samburu Climate Change]]
+- [[Wildlife Conservation in Kenya]]
 
 ## Sources
 

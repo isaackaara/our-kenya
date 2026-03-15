@@ -4,15 +4,15 @@ In 2026, Tharaka identity remains important while being increasingly influenced 
 
 ## Rural versus Urban Identity
 
-Rural Tharaka in Tharaka-Nithi County highlands maintain stronger connections to traditional culture and language. Urban Tharaka negotiate hybrid identities combining Tharaka ethnicity with urban cosmopolitanism. Language use differs, with urban Tharaka more likely to use English and Swahili than Kitharaka.
+Rural Tharaka in Tharaka-Nithi County highlands maintain stronger connections to traditional [[Tharaka Oral Traditions]] and [[Tharaka Language]]. Urban Tharaka negotiate hybrid identities combining Tharaka ethnicity with urban cosmopolitanism. Language use differs, with urban Tharaka more likely to use English and Swahili than Kitharaka.
 
 ## Language and Cultural Transmission
 
-Transmission of Kitharaka to younger generations has weakened, with many young Tharaka growing up speaking English and Swahili rather than heritage language. Linguistic shift reflects broader patterns of language change throughout Kenya but threatens cultural continuity.
+Transmission of Kitharaka to younger generations has weakened, with many young Tharaka growing up speaking English and Swahili rather than [[Tharaka Origins]] language. Linguistic shift reflects broader patterns of language change throughout Kenya but threatens cultural continuity.
 
 ## Education and Modernity
 
-Education, particularly in English, has reshaped Tharaka identity for younger generations. Young Tharaka increasingly see themselves as participants in modern Kenya and global community rather than being solely defined by ethnicity. Professional identities compete with ethnic identity.
+Education, particularly in English, has reshaped Tharaka identity for younger generations. Young Tharaka increasingly see themselves as participants in modern Kenya and global [[Tharaka Social Structure]] rather than being solely defined by ethnicity. Professional identities compete with ethnic identity.
 
 ## Land and Place Identity
 
@@ -29,6 +29,15 @@ Christianity remains dominant among Tharaka, though some seek to revive aspects 
 ## Global Connections
 
 Younger Tharaka increasingly see themselves as part of global networks, particularly through education and internet/social media access. Global connections create new forms of identity expression beyond ethnic categories.
+
+## See Also
+
+- [[Tharaka Social Structure]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Language]]
+- [[Tharaka Origins]]
+- [[Tharaka Youth]]
+- [[Tharaka Diaspora]]
 
 ## Sources
 

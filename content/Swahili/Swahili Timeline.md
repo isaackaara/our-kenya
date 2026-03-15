@@ -1,6 +1,6 @@
 # Swahili Timeline
 
-A chronological reference of key dates in Swahili history from approximately 800 CE through 2026, covering the emergence of Swahili civilization through colonial and post-colonial periods.
+A chronological reference of key dates in [[Swahili]] history from approximately 800 CE through 2026, covering the emergence of [[Swahili Civilization Overview|Swahili civilization]] through colonial and post-colonial periods within the [[The Indian Ocean World|Indian Ocean world]].
 
 ## Early Period (800-1200 CE)
 
@@ -66,7 +66,16 @@ A chronological reference of key dates in Swahili history from approximately 800
 
 ## Contemporary Status (2026)
 
-The Swahili coast remains economically important (tourism, port, fishing) but faces challenges of coastal poverty, development pressures, environmental degradation, and questions about cultural preservation. UNESCO World Heritage Sites (Fort Jesus, Lamu Old Town) provide some heritage protection. The LAPSSET infrastructure project proposes major development but faces community and environmental concerns. Swahili culture and identity remain important to coastal communities while facing pressures from globalization and modernization.
+The Swahili coast remains economically important (tourism, port, fishing) but faces challenges of coastal poverty, development pressures, environmental degradation, and questions about cultural preservation. UNESCO World Heritage Sites ([[Fort Jesus]], [[Lamu]] Old Town) provide some heritage protection. The [[Lamu LAPSSET Project|LAPSSET]] infrastructure project proposes major development but faces community and environmental concerns. Swahili culture and identity remain important to coastal communities while facing pressures from globalization and modernization.
+
+## See Also
+
+- [[Swahili Civilization Overview]] - Comprehensive history
+- [[Islam on the Swahili Coast]] - Religious developments
+- [[Portuguese Domination]] - Colonial period overview
+- [[The Omani Conquest]] - Succession period
+- [[Swahili Coast Tourism]] - Modern development
+- [[Coast Development Gap]] - Contemporary economic issues
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Tharaka Land
 
-The Tharaka occupy drier lowland territory east of Mount Kenya, characterized by semi-arid climate, variable rainfall, and terrain suited to pastoral and drought-resistant agricultural livelihoods.
+The Tharaka occupy drier lowland [[Tharaka Origins]] east of Mount Kenya, characterized by semi-arid climate, variable rainfall, and terrain suited to pastoral and drought-resistant agricultural livelihoods.
 
 ## Geographic Characteristics
 
@@ -12,13 +12,13 @@ The Tharaka area receives approximately 500 to 750 millimeters of rainfall annua
 
 ## Water Resources
 
-Water is the critical limiting resource in Tharaka territory. Seasonal rivers and permanent water sources are essential for human and livestock survival. Water access is a major consideration in settlement patterns and livelihood strategies.
+Water is the critical limiting resource in Tharaka territory. Seasonal rivers and permanent water sources are essential for human and livestock survival. Water access is a major consideration in [[Tharaka Timeline]] patterns and livelihood strategies.
 
 ## Vegetation and Ecology
 
 The natural vegetation consists of dry savanna woodland with acacia trees, grasses, and shrubs adapted to semi-arid conditions. The vegetation supports wildlife including elephants, lions, and antelopes. The ecology is fragile and sensitive to overuse, with particular vulnerability to overgrazing.
 
-## Land Tenure and Access
+## Land [[Tharaka Land Rights]] and Access
 
 Land tenure patterns in Tharaka territory involve both communal grazing areas and individually owned or controlled plots used for agriculture. The balance between communal and individual land rights has shifted over time, with contemporary land registration processes emphasizing individual tenure.
 
@@ -29,6 +29,14 @@ Tharaka settlements are scattered across the territory, often concentrated near 
 ## Development Challenges
 
 Development of Tharaka territory faces challenges from the semi-arid environment, limited water availability, and variable agricultural productivity. Infrastructure development is more difficult in the drier lowlands than in the highlands.
+
+## See Also
+
+- [[Tharaka Origins]]
+- [[Tharaka Climate]]
+- [[Tharaka Land Rights]]
+- [[Tharaka River Systems]]
+- [[Tharaka Pastoralism]]
 
 ## Sources
 

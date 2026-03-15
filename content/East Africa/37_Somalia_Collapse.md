@@ -1,6 +1,6 @@
 # The Somalia State Collapse Effects
 
-When the Somali state collapsed in 1991, the consequences immediately reverberated across the broader East African region. The collapse of one nation's state institutions created security, humanitarian, and economic shocks that affected Kenya and the entire region.
+When the [[Somalia Collapse|Somali state]] collapsed in 1991, the consequences immediately reverberated across the broader [[East African Community]] region. The collapse of one nation's state institutions created security, humanitarian, and economic shocks that affected Kenya and the entire region.
 
 ## Somalia's Collapse
 
@@ -20,11 +20,11 @@ The Somali state collapsed in early 1991:
 
 The collapse created massive refugee flows:
 
-**Scale of Displacement**: Roughly 1 million Somalis were displaced by the civil war and humanitarian crisis.
+**Scale of Displacement**: Roughly 1 million [[Somali Cross Border]] were displaced by the civil war and humanitarian crisis.
 
-**Kenya's Refugee Burden**: Kenya received roughly 600,000 to 700,000 Somali refugees, overwhelming the nation's humanitarian capacity.
+**Kenya's Refugee Burden**: Kenya received roughly 600,000 to 700,000 [[Somali Cross Border]] refugees, overwhelming the nation's humanitarian capacity.
 
-**Camp Populations**: Kakuma and Dadaab refugee camps in northern Kenya became home to hundreds of thousands of Somali refugees.
+**Camp Populations**: Kakuma and Dadaab refugee camps in northern Kenya became home to hundreds of thousands of [[Somali Cross Border]] refugees.
 
 **Duration**: The refugee presence lasted decades, creating long-term humanitarian and social challenges for Kenya.
 
@@ -44,17 +44,17 @@ State collapse facilitated massive arms proliferation:
 
 ## Piracy
 
-As state authority collapsed in coastal areas, Somali piracy emerged:
+As state authority collapsed in coastal areas, [[Somali Cross Border]] piracy emerged:
 
-**Fishing Rights Violation**: Foreign fishing fleets exploited Somalia's lack of coast guard, depleting Somali fish resources.
+**Fishing Rights Violation**: Foreign fishing fleets exploited [[Somalia Collapse]]'s lack of coast guard, depleting fish resources.
 
-**Pirate Response**: Somali gunmen began attacking foreign fishing vessels to extract payment.
+**Pirate Response**: [[Somali Cross Border]] gunmen began attacking foreign fishing vessels to extract payment.
 
-**Escalation**: By the 2000s, Somali piracy had evolved into an international maritime security crisis, with pirates hijacking cargo ships and oil tankers.
+**Escalation**: By the 2000s, [[Somali Cross Border]] piracy had evolved into an international maritime security crisis, with pirates hijacking cargo ships and oil tankers.
 
-**Regional Impact**: Piracy affected Kenya, particularly coastal security and regional shipping.
+**Regional Impact**: Piracy affected Kenya, particularly coastal security and [[Mombasa Port]].
 
-**International Response**: International naval forces conducted counter-piracy operations, with ships patrolling off the Somali coast.
+**International Response**: International naval forces conducted counter-piracy operations, with ships patrolling off the [[Somali Cross Border|Somali]] coast.
 
 ## Al-Shabaab and Terrorism
 
@@ -117,6 +117,16 @@ Somalia's collapse has had lasting effects:
 **Regional Security**: Somalia remains a security concern for Kenya and the broader region.
 
 **Transnational Networks**: Criminal, militant, and terrorist networks using Somali territory as a base remain a security challenge.
+
+## See Also
+
+- [[Kenya Somalia Border]]
+- [[Somali Cross Border]]
+- [[Kenya Ethiopia Border]]
+- [[East African Droughts]]
+- [[EAC Expansion]]
+- [[Mombasa Port]]
+- [[East Africa Timeline]]
 
 ## Sources
 

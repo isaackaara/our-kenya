@@ -1,10 +1,10 @@
 # Tharaka Proverbs
 
-Traditional Tharaka proverbs encode cultural wisdom about proper behavior, family relationships, and appropriate responses to life's challenges. Proverbs remain important in Tharaka culture despite declining transmission to younger generations.
+Traditional Tharaka proverbs encode cultural [[Tharaka Oral Traditions]] about proper behavior, family relationships, and appropriate responses to life's challenges. Proverbs remain important in Tharaka [[Tharaka Identity Today]] despite declining transmission to younger generations.
 
 ## Examples of Tharaka Proverbs
 
-Tharaka oral literature contains numerous proverbs in Kitharaka language. Proverbs address themes including: hard work and diligence, proper family behavior, respect for elders, honesty, community cooperation, endurance through hardship, and wisdom in decision-making.
+Tharaka oral literature contains numerous proverbs in Kitharaka [[Tharaka Language]]. Proverbs address themes including: hard work and diligence, proper family behavior, respect for elders, honesty, community cooperation, endurance through hardship, and wisdom in decision-making.
 
 ## Proverb Structure
 
@@ -12,7 +12,7 @@ Tharaka proverbs often use metaphorical language, referring to animals, plants, 
 
 ## Use in Traditional Settings
 
-Proverbs are traditionally invoked in various contexts: teaching children moral lessons, settling disputes by invoking traditional wisdom, in ceremonial speeches, and in everyday conversation. The invocation of proverbs demonstrates knowledge and respect for traditional values.
+Proverbs are traditionally invoked in various contexts: [[Tharaka Social Structure]] children moral lessons, settling disputes by invoking traditional wisdom, in ceremonial speeches, and in everyday conversation. The invocation of proverbs demonstrates knowledge and respect for traditional values.
 
 ## Teaching and Learning
 
@@ -29,6 +29,14 @@ Scholars and cultural organizations have worked to document Tharaka proverbs thr
 ## Cultural Significance
 
 Proverbs remain symbolically important as markers of Tharaka cultural identity and as repositories of traditional wisdom. Some communities are working to preserve and teach proverbs to younger generations as part of cultural revitalization.
+
+## See Also
+
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Language]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Youth]]
 
 ## Sources
 

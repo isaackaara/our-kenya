@@ -1,6 +1,6 @@
 # Rwanda and Kenya
 
-Rwanda is an East African Community member and maintains significant economic and political relationships with Kenya. Rwanda's post-genocide recovery and emergence as a development success story have shaped its regional positioning.
+[[Rwanda Kenya]] is an [[East African Community]] member and maintains significant economic and political relationships with Kenya. [[Rwanda Kenya]]'s post-genocide recovery and emergence as a development success story have shaped its regional positioning.
 
 ## The Rwandan Genocide (1994)
 
@@ -28,15 +28,15 @@ After the genocide, Rwanda underwent dramatic reconstruction:
 
 ## Rwanda-Kenya Economic Ties
 
-Rwanda and Kenya maintain significant economic relationships:
+[[Rwanda Kenya]] and Kenya maintain significant economic relationships:
 
-**Trade**: Rwanda is a landlocked country dependent on ports. Mombasa Port in Kenya is Rwanda's primary international maritime gateway.
+**Trade**: [[Rwanda Kenya]] is a landlocked country dependent on ports. [[Mombasa Port]] in Kenya is [[Rwanda Kenya]]'s primary international maritime gateway.
 
-**Northern Corridor**: Rwanda depends on the Northern Corridor (road and rail infrastructure from Mombasa through Kenya and Uganda) for international trade.
+**Northern Corridor**: [[Rwanda Kenya]] depends on the Northern Corridor (road and rail infrastructure from [[Mombasa Port]] through Kenya and Uganda) for international trade.
 
-**Investment**: Kenyan businesses and investors are present in Rwanda.
+**Investment**: Kenyan businesses and investors are present in [[Rwanda Kenya]].
 
-**Regional Integration**: Rwanda's EAC membership links it economically to Kenya and other member states.
+**Regional Integration**: [[Rwanda Kenya]]'s [[East African Community]] membership links it economically to Kenya and other member states.
 
 ## Rwanda as Development Success
 
@@ -91,6 +91,16 @@ Rwanda and Kenya represent different visions for East Africa:
 **Kenya's Model**: Emphasizes democratic pluralism, market liberalism, and regional commercial dominance.
 
 **Integration Tension**: These different models sometimes create tension within the EAC regarding integration pace and governance standards.
+
+## See Also
+
+- [[EAC History]]
+- [[Kenya in East Africa]]
+- [[Mombasa Port]]
+- [[Nairobi Regional Hub]]
+- [[EAC Common Market]]
+- [[East African Droughts]]
+- [[East Africa Timeline]]
 
 ## Sources
 

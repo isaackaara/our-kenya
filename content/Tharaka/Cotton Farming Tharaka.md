@@ -1,6 +1,6 @@
-# Cotton Farming Tharaka
+# [[Tharaka Agriculture]] [[Tharaka Agriculture]] Tharaka
 
-Cotton has been a significant cash crop in Tharaka territory, particularly during the colonial period and continuing into contemporary times. Cotton cultivation provided income for farmers while affecting land use patterns.
+Cotton has been a significant cash crop in Tharaka territory, particularly during the [[Tharaka Colonial History]] period and continuing into contemporary times. Cotton cultivation provided income for farmers while affecting land use patterns.
 
 ## Colonial Cotton Introduction
 
@@ -29,6 +29,14 @@ Cotton cultivation continues in Tharaka territory, though at lower levels than h
 ## Environmental Impacts
 
 Cotton cultivation affects soil and water use, potentially creating environmental impacts. The chemical inputs sometimes used in cotton production (pesticides, fertilizers) may affect soil and water resources.
+
+## See Also
+
+- [[Tharaka Agriculture]]
+- [[Tharaka Colonial History]]
+- [[Tharaka Economic Development]]
+- [[Tharaka and Drought]]
+- [[Tharaka Irrigation]]
 
 ## Sources
 

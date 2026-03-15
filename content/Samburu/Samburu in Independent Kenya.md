@@ -1,6 +1,6 @@
 # Samburu in Independent Kenya
 
-At independence (1964), Samburu communities became citizens of independent Kenya, participating in national political and economic systems. Samburu representation through elected politicians has provided some voice in national governance. Pastoralist interests have competed with national development priorities. Devolution (2013) created county-level governance enabling Samburu-specific policy focus.
+At independence (1964), [[Samburu]] communities became citizens of independent Kenya, participating in national political and economic systems. [[Samburu]] representation through elected politicians has provided some voice in national governance. Pastoralist interests have competed with national development priorities. Devolution (2013) created county-level governance enabling [[Samburu]]-specific policy focus.
 
 ## Post-Independence Transition
 
@@ -21,6 +21,14 @@ The 2010 constitution created Samburu County as a devolved governance unit. Coun
 ## Economic Integration
 
 National economic integration has proceeded unevenly, with pastoral communities gradually incorporating into cash economy. Livestock markets and dairy marketing have expanded. However, economic vulnerability to price fluctuations affects pastoral livelihoods.
+
+## See Also
+
+- [[Samburu County Government]]
+- [[Samburu Pastoralism]]
+- [[Samburu Political Figures]]
+- [[Samburu and the Colonial Period]]
+- [[Post-Colonial Kenya]]
 
 ## Sources
 

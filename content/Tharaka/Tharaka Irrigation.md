@@ -1,6 +1,6 @@
 # Tharaka Irrigation
 
-Irrigation agriculture is an increasingly important strategy for improving food security and generating agricultural income in the semi-arid Tharaka region. Irrigation schemes utilize water from rivers and groundwater sources.
+Irrigation [[Tharaka Agriculture]] is an increasingly important strategy for improving food security and generating agricultural income in the semi-arid Tharaka region. Irrigation [[Tharaka Climate]] utilize [[Tharaka River Systems]] from rivers and groundwater sources.
 
 ## Water Sources
 
@@ -20,7 +20,7 @@ Irrigation schemes face challenges including water allocation conflicts, technic
 
 ## Water Allocation
 
-Competition over water for irrigation, domestic use, and livestock creates conflicts in water allocation. During drought periods, water scarcity intensifies conflicts. Formal water allocation mechanisms are still developing in many areas.
+Competition over water for irrigation, domestic use, and livestock creates conflicts in water allocation. During [[Tharaka and Drought]] periods, water scarcity intensifies conflicts. Formal water allocation mechanisms are still developing in many areas.
 
 ## Cost and Access
 
@@ -29,6 +29,14 @@ Participation in irrigation schemes requires land ownership or access, water rig
 ## Government and NGO Support
 
 Government and non-governmental organizations provide support for irrigation development through infrastructure investment, training, and financing. Community-based organizations often manage schemes, though management capacity varies.
+
+## See Also
+
+- [[Tharaka River Systems]]
+- [[Tharaka Agriculture]]
+- [[Tharaka Climate]]
+- [[Tharaka and Drought]]
+- [[Tharaka Economic Development]]
 
 ## Sources
 

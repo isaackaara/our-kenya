@@ -4,7 +4,7 @@ Christian missionary activity in the Tharaka-Nithi region led to widespread conv
 
 ## Missionary Activity
 
-Christian missionaries, primarily from Protestant denominations, established missions and schools in the region beginning in the colonial period. Missionaries offered education and medical services while preaching Christian faith. Schools became centers of Christian influence and Western education.
+Christian missionaries, primarily from Protestant denominations, established missions and schools in the region beginning in the colonial period. Missionaries offered education and medical services while preaching Christian [[Tharaka Education]]. Schools became centers of Christian influence and Western education.
 
 ## Conversion Processes
 
@@ -12,11 +12,11 @@ Tharaka conversion to Christianity occurred gradually, with some communities and
 
 ## Transformation of Belief
 
-The conversion to Christianity involved changes in religious belief and practice. While some Tharaka completely abandoned traditional religion, others maintained traditional beliefs alongside Christianity, creating syncretic practices that incorporated elements of both systems.
+The conversion to Christianity involved changes in religious belief and practice. While some Tharaka completely abandoned traditional [[Tharaka Traditional Religion]], others maintained traditional beliefs alongside Christianity, creating syncretic practices that incorporated elements of both systems.
 
 ## Christian Denominations
 
-Multiple Christian denominations are represented in Tharaka areas, including Protestant churches (such as African Inland Church, Methodist), Catholic Church, and Pentecostal churches. The presence of multiple denominations reflects historical missionary activity and contemporary religious choice.
+Multiple Christian denominations are represented in Tharaka areas, including Protestant churches (such as African Inland [[Tharaka and the Church]], Methodist), Catholic Church, and Pentecostal churches. The presence of multiple denominations reflects historical missionary activity and contemporary religious choice.
 
 ## Role of Churches
 
@@ -29,6 +29,14 @@ Contemporary Tharaka religious practice is predominantly Christian. Sunday worsh
 ## Tensions and Negotiations
 
 Some Tharaka negotiate tensions between Christian teachings and traditional beliefs, finding ways to maintain cultural practices while adhering to Christian faith. The loss of traditional religious specialists and practices is sometimes viewed as cultural loss.
+
+## See Also
+
+- [[Tharaka Traditional Religion]]
+- [[Tharaka and the Church]]
+- [[Tharaka Colonial History]]
+- [[Tharaka Education]]
+- [[Tharaka Identity Today]]
 
 ## Sources
 

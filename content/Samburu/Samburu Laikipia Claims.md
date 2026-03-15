@@ -1,6 +1,6 @@
 # Samburu Laikipia Claims
 
-Samburu communities claim ancestral rights to parts of Laikipia, now predominantly white-owned ranches and conservancies. Colonial-era land alienation transferred Samburu pastoral territory to settlers. Contemporary land disputes reflect competing claims to historical territory. 2017 land invasions involved Samburu pastoralists attempting to reassert access to claimed ancestral lands. Laikipia land claims remain contentious and unresolved.
+[[Samburu]] communities claim ancestral rights to parts of Laikipia, now predominantly white-owned ranches and conservancies. [[Samburu Land History|Colonial-era land alienation]] transferred [[Samburu]] pastoral territory to settlers. Contemporary land disputes reflect competing claims to historical territory. 2017 land invasions involved [[Samburu]] pastoralists attempting to reassert access to claimed ancestral lands. Laikipia land claims remain contentious and unresolved.
 
 ## Historical Land Alienation
 
@@ -12,7 +12,15 @@ White settler acquisition of Laikipia plateau excluded Samburu from productive p
 
 ## Unresolved Claims
 
-Samburu land claims to Laikipia territory remain unresolved. Government has not implemented formal claim resolution mechanisms. Political attention to Samburu claims has been variable and limited. Laikipia land tenure remains contested and source of inter-community tension.
+[[Samburu]] land claims to Laikipia territory remain unresolved. Government has not implemented formal claim resolution mechanisms. Political attention to [[Samburu]] claims has been variable and limited. Laikipia land tenure remains contested and source of inter-community tension.
+
+## See Also
+
+- [[Samburu Land History]]
+- [[Samburu Land Rights Today]]
+- [[Samburu Pastoralism]]
+- [[Samburu and the Colonial Period]]
+- [[Colonial Land Dispossession in Kenya]]
 
 ## Sources
 

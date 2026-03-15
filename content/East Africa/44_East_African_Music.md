@@ -112,6 +112,16 @@ East African music operates in a regional market:
 
 **Economic Impact**: The music industry creates employment and revenue across East Africa.
 
+## See Also
+
+- [[Swahili Regional Language]]
+- [[Luo Language Family]]
+- [[Indian Ocean Heritage]]
+- [[East African Literature]]
+- [[East African Food]]
+- [[Kenya in East Africa]]
+- [[East Africa Timeline]]
+
 ## Sources
 
 1. https://www.britannica.com/topic/benga-music - Overview of benga music

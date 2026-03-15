@@ -100,6 +100,16 @@ East African writers have shaped global literature:
 
 **Educational Impact**: East African literature is taught in universities globally, introducing students to African perspectives.
 
+## See Also
+
+- [[Swahili Regional Language]]
+- [[Zanzibar Revolution]]
+- [[Kenya in East Africa]]
+- [[East African Community History]]
+- [[Indian Ocean Heritage]]
+- [[East African Music]]
+- [[East Africa Timeline]]
+
 ## Sources
 
 1. https://www.britannica.com/topic/Ngugi-wa-Thiong-o - Encyclopedic overview of Ngugi

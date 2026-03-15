@@ -1,6 +1,6 @@
 # Tharaka Agriculture
 
-Tharaka agriculture is adapted to the semi-arid environment through cultivation of drought-resistant crops and diversification of strategies to cope with variable rainfall and occasional drought.
+Tharaka agriculture is adapted to the semi-arid environment through cultivation of drought-resistant [[Tharaka Food]] and diversification of strategies to cope with variable rainfall and occasional drought.
 
 ## Drought-Resistant Crops
 
@@ -20,7 +20,7 @@ Agriculture in the semi-arid Tharaka territory faces challenges from variable ra
 
 ## Water Management
 
-Irrigation is limited but growing in importance. Small-scale irrigation schemes utilizing river water enable dry-season production. Traditional water harvesting and soil moisture conservation techniques are practiced.
+[[Tharaka Irrigation]] is limited but growing in importance. Small-scale irrigation schemes utilizing river water enable dry-season production. Traditional water harvesting and soil moisture conservation techniques are practiced.
 
 ## Livestock Integration
 
@@ -29,6 +29,15 @@ Many Tharaka households combine agriculture with pastoral herding of cattle, goa
 ## Contemporary Agriculture
 
 Traditional agriculture continues alongside adoption of improved seeds, chemical fertilizers, and new crops. However, agricultural productivity remains constrained by environmental limitations and resource availability.
+
+## See Also
+
+- [[Tharaka Food]]
+- [[Tharaka Climate]]
+- [[Tharaka Irrigation]]
+- [[Tharaka Land]]
+- [[Tharaka Pastoralism]]
+- [[Cotton Farming Tharaka]]
 
 ## Sources
 

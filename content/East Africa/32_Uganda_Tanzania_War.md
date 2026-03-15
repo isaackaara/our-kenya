@@ -1,6 +1,6 @@
 # The Uganda-Tanzania War 1978-1979
 
-The Uganda-Tanzania War represents the most significant military conflict between two East African states in the post-independence era. The war occurred between Idi Amin's Uganda (1971-1979) and Julius Nyerere's Tanzania, fundamentally affecting both nations and the region.
+The [[Uganda Tanzania War]] represents the most significant military conflict between two [[East African Community]] states in the post-independence era. The war occurred between Idi Amin's Uganda (1971-1979) and Julius Nyerere's Tanzania, fundamentally affecting both nations and the region.
 
 ## Idi Amin's Uganda
 
@@ -66,9 +66,9 @@ The war had major consequences:
 
 ## Regional Implications
 
-The war affected the broader East African region:
+The war affected the broader [[East African Community]]:
 
-**Kenya's Position**: Kenya, though not directly involved, was affected by Uganda's instability and refugee flows. Kenya remained wary of regional conflict.
+**Kenya's Position**: Kenya, though not directly involved, was affected by Uganda's instability and refugee flows. Kenya remained wary of regional conflict and [[Kenya Uganda Border]] security.
 
 **OAU Involvement**: The Organization of African Unity (OAU) condemned the invasion but was unable to effectively intervene.
 
@@ -86,13 +86,23 @@ Tanzania maintained military forces in Uganda for years after 1979:
 
 ## Long-Term Significance
 
-The Uganda-Tanzania War remains significant:
+The [[Uganda Tanzania War]] remains significant:
 
-**Regional Stability**: The war demonstrated East African states' capacity for major military conflict and raised questions about regional stability.
+**Regional Stability**: The war demonstrated [[East African Community]] states' capacity for major military conflict and raised questions about regional stability.
 
 **Ugandan History**: For Uganda, the war marks the turning point from Amin's brutality. Subsequent governments (including eventually Yoweri Museveni's) rebuilt Uganda.
 
-**Tanzania's Role**: The war established Tanzania as the region's military power and Nyerere as a regional leader willing to intervene militarily.
+**Tanzania's Role**: The war established Tanzania as the region's military power and Nyerere as a regional leader willing to intervene militarily in [[East African Community]] affairs.
+
+## See Also
+
+- [[EAC History]]
+- [[Kenya Uganda Border]]
+- [[Kenya Tanzania Border]]
+- [[EAC Political Federation]]
+- [[East African Droughts]]
+- [[Somalia Collapse]]
+- [[East Africa Timeline]]
 
 ## Sources
 

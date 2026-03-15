@@ -1,6 +1,6 @@
 # Tharaka Forest
 
-Tharaka territory includes remnants of dry forest ecosystem that are ecologically important and provide resources for community use. The forests face pressure from deforestation and degradation.
+Tharaka territory includes remnants of dry forest ecosystem that are ecologically important and provide [[Tharaka Beekeeping]] for community use. The forests face pressure from deforestation and degradation.
 
 ## Forest Characteristics
 
@@ -24,7 +24,7 @@ Forests play important roles in maintaining water supply by capturing rainfall a
 
 ## Wildlife Habitat
 
-The forests provide habitat for wildlife adapted to semi-arid conditions. Forest conservation is important for wildlife conservation objectives.
+The forests provide habitat for wildlife adapted to semi-arid conditions. Forest [[Tharaka and Wildlife]] is important for wildlife conservation objectives.
 
 ## Community Forest Management
 
@@ -33,6 +33,14 @@ Community-based forest management initiatives aim to balance conservation with c
 ## Conservation Status
 
 Various forest conservation initiatives exist, though implementation remains limited. Conservation of dry forests is a lower priority than protection of highland forests, but the forests' importance is increasingly recognized.
+
+## See Also
+
+- [[Tharaka National Reserve]]
+- [[Tharaka and Wildlife]]
+- [[Tharaka Beekeeping]]
+- [[Tharaka Climate]]
+- [[Tharaka Sacred Sites]]
 
 ## Sources
 

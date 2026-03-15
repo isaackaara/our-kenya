@@ -1,6 +1,6 @@
 # Tharaka Food
 
-Tharaka food culture reflects adaptation to the semi-arid environment and the mixed agricultural-pastoral livelihoods that characterize the region. Traditional diet is based on staple grains, legumes, and pastoral products.
+Tharaka food [[Tharaka Oral Traditions]] reflects adaptation to the semi-arid environment and the mixed agricultural-pastoral livelihoods that characterize the region. Traditional [[Tharaka Agriculture]] is based on staple [[Tharaka Pastoralism]], legumes, and pastoral products.
 
 ## Staple Grains
 
@@ -20,7 +20,7 @@ Milk from cattle and goats is consumed fresh or fermented. Milk is an important 
 
 ## Preparation Methods
 
-Traditional cooking uses boiling and steaming methods, often in communal settings where food is prepared for family groups. Food is generally not highly spiced, though salt and local herbs provide flavor. Grinding and processing of grains occurs regularly.
+Traditional [[Tharaka Women]] uses boiling and steaming methods, often in communal settings where food is prepared for family groups. Food is generally not highly spiced, though salt and local herbs provide flavor. Grinding and processing of grains occurs regularly.
 
 ## Food Security and Variability
 
@@ -29,6 +29,14 @@ Food availability varies seasonally and year to year depending on rainfall and p
 ## Contemporary Food Culture
 
 Modern Tharaka communities consume some processed foods and restaurant meals, particularly in urban areas. However, traditional foods remain important both for cultural reasons and as the economic reality for many households.
+
+## See Also
+
+- [[Tharaka Agriculture]]
+- [[Tharaka Pastoralism]]
+- [[Tharaka Women]]
+- [[Tharaka Oral Traditions]]
+- [[Tharaka Climate]]
 
 ## Sources
 

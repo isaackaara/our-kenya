@@ -1,6 +1,6 @@
 # Samburu and Tourism
 
-Tourism in Samburu County centers on wildlife viewing (Samburu and Buffalo Springs reserves) and increasingly, cultural tourism featuring Samburu communities. Tourism provides income and employment, though economic benefits are unevenly distributed and cultural commodification raises concerns. Tourism represents secondary livelihood for pastoral communities but growing economic importance.
+Tourism in [[Samburu County]] centers on wildlife viewing ([[Samburu National Reserve]] and [[Buffalo Springs Reserve]]) and increasingly, cultural tourism featuring [[Samburu]] communities. Tourism provides income and employment, though economic benefits are unevenly distributed and cultural commodification raises concerns. Tourism represents secondary livelihood for [[Samburu Pastoralism|pastoral communities]] but growing economic importance.
 
 ## Wildlife Tourism
 
@@ -44,7 +44,15 @@ Tourism is seasonal, with peaks during international vacation periods and dry se
 
 ## Marketing and Promotion
 
-Tourism marketing by national and international agencies promotes Kenya and Samburu as tourist destinations. Local marketing efforts remain limited. Internet and social media increasingly shape tourism destination choices. Samburu County tourism promotion could be enhanced.
+Tourism marketing by national and international agencies promotes Kenya and [[Samburu]] as tourist destinations. Local marketing efforts remain limited. Internet and social media increasingly shape tourism destination choices. [[Samburu County]] tourism promotion could be enhanced.
+
+## See Also
+
+- [[Samburu National Reserve]]
+- [[Buffalo Springs Reserve]]
+- [[Maralal Town]]
+- [[Samburu Culture]]
+- [[Sustainable Tourism in East Africa]]
 
 ## Sources
 

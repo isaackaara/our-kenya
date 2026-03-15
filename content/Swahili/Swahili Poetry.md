@@ -1,6 +1,6 @@
 # Swahili Poetry
 
-The Swahili coast produced a rich literary tradition of poetry that stands as one of East Africa's great cultural heritages. Classical Swahili poetry developed distinctive forms (the utendi or epic poem, the shairi or four-line stanza, the tenzi or narrative poem) and addressed both secular and religious themes. The greatest classical Swahili poets (Mwana Kupona, Fumo Liyongo) created works of enduring literary significance that are studied and celebrated across the Swahili-speaking world.
+The [[Swahili]] coast produced a rich literary tradition of poetry that stands as one of East Africa's great cultural heritages. Classical [[Swahili Poetry|Swahili poetry]] developed distinctive forms (the utendi or epic poem, the shairi or four-line stanza, the tenzi or narrative poem) and addressed both secular and religious themes. The greatest classical poets ([[Mwana Kupona]], [[Fumo Liyongo]]) created works of enduring literary significance within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Classical Forms
 
@@ -99,6 +99,15 @@ Swahili poetry is significant as:
 - **Continuing tradition:** Modern poetry continues and reinterprets classical traditions
 
 The recognition of Swahili poetry's significance has grown as scholars have given greater attention to African literatures and as Swahili texts have been translated and made available to international audiences.
+
+## See Also
+
+- [[Mwana Kupona]] - Classical female poet
+- [[Fumo Liyongo]] - Legendary warrior-poet
+- [[Swahili Language]] - Language of poetry
+- [[Abdilatif Abdalla]] - Modern Swahili poet
+- [[Swahili Civilization Overview]] - Cultural context
+- [[Taarab Music]] - Contemporary musical tradition
 
 ## Sources
 

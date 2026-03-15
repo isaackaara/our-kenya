@@ -16,7 +16,7 @@ Access to clean water and sanitation remains limited in parts of Tharaka territo
 
 ## Maternal and Child Health
 
-Maternal mortality and child mortality rates remain high, reflecting limited access to skilled birth attendance and healthcare services. Childhood malnutrition contributes to child mortality and developmental problems.
+Maternal mortality and child mortality rates remain high, reflecting limited access to skilled birth attendance and [[Tharaka Devolution]] [[Tharaka Infrastructure]]. Childhood malnutrition contributes to child mortality and developmental problems.
 
 ## Healthcare Access
 
@@ -26,9 +26,17 @@ Geographic distance and road conditions limit access to health services for resi
 
 Disease prevention programs including vaccination, malaria prevention (bed nets), and health education exist but face resource constraints. Vaccination rates are generally good but vary by area.
 
-## Traditional Medicine
+## [[Tharaka Healing]] Medicine
 
 Traditional healers remain important sources of healthcare in many Tharaka communities, particularly in areas with limited access to modern healthcare. Integration of traditional and modern healthcare approaches is common.
+
+## See Also
+
+- [[Tharaka Healing]]
+- [[Tharaka Infrastructure]]
+- [[Tharaka Devolution]]
+- [[Tharaka Food]]
+- [[Tharaka Women]]
 
 ## Sources
 

@@ -16,7 +16,7 @@ Some Tharaka have pursued academic careers in universities and research institut
 
 ## Civil Society
 
-Tharaka individuals have been involved in civil society organizations and activism. These activists have advocated for Tharaka community interests, environmental protection, and development issues.
+Tharaka individuals have been involved in civil society organizations and activism. These activists have advocated for Tharaka [[Tharaka Social Structure]] interests, environmental protection, and development issues.
 
 ## Cultural Practitioners
 
@@ -24,7 +24,7 @@ Tharaka musicians, artists, and cultural practitioners have contributed to Kenya
 
 ## Religious Leadership
 
-Tharaka religious leaders, including Christian clergy, have been prominent in communities. Religious leaders have influenced Tharaka spiritual life and often engaged in community development initiatives.
+Tharaka religious [[Tharaka Political [[Tharaka Timeline]]]], including Christian clergy, have been prominent in communities. Religious leaders have influenced Tharaka spiritual life and often engaged in community development initiatives.
 
 ## Contemporary Leadership
 
@@ -33,6 +33,14 @@ Contemporary Tharaka leaders include county government officials, business leade
 ## Documentation Challenges
 
 Documentation of Tharaka individuals has been limited, and many whose contributions were significant may not be widely known beyond their communities. Historical research continues to uncover and document Tharaka contributions.
+
+## See Also
+
+- [[Tharaka Political History]]
+- [[Tharaka Timeline]]
+- [[Tharaka Identity Today]]
+- [[Tharaka Social Structure]]
+- [[Tharaka Oral Traditions]]
 
 ## Sources
 

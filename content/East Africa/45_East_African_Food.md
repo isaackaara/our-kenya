@@ -122,6 +122,16 @@ Food is connected to regional identity:
 
 **Regional Consumption**: East African food represents shared regional identity distinct from other African regions.
 
+## See Also
+
+- [[Maasai Borders]]
+- [[Luo Language Family]]
+- [[Swahili Regional Language]]
+- [[Indian Ocean Heritage]]
+- [[East African Droughts]]
+- [[East African Music]]
+- [[East Africa Timeline]]
+
 ## Sources
 
 1. https://www.britannica.com/topic/Ugali - Encyclopedic overview of ugali and East African staples

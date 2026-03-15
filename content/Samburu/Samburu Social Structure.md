@@ -1,6 +1,6 @@
 # Samburu Social Structure
 
-Samburu society organizes around patrilineal clans, age-grade systems, and elder authority. These social institutions structure political decision-making, resource allocation, and social relationships. Contemporary social change through education and urbanization is gradually transforming traditional structures, though considerable continuity persists.
+[[Samburu]] society organizes around patrilineal clans, age-grade systems, and elder authority. These social institutions structure political decision-making, resource allocation, and social relationships. Contemporary social change through education and urbanization is gradually transforming traditional structures, though considerable continuity persists.
 
 ## Clan Organization
 
@@ -36,7 +36,15 @@ Urban and educated Samburu increasingly depart from traditional social organizat
 
 ## Authority and Decision-Making
 
-Community decisions traditionally involve elder consensus, with younger members participating but deferring to elders. Laibon (spiritual leaders) provide guidance on important decisions. Contemporary governance through county administration introduces competing authority structures.
+Community decisions traditionally involve elder consensus, with younger members participating but deferring to elders. [[Samburu Laibon|Laibon]] (spiritual leaders) provide guidance on important decisions. Contemporary governance through county administration introduces competing authority structures.
+
+## See Also
+
+- [[The Moran (Warriors)]]
+- [[Samburu Marriage]]
+- [[Samburu Women]]
+- [[Samburu Laibon]]
+- [[Pastoral Political Systems]]
 
 ## Sources
 

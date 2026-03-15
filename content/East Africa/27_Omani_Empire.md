@@ -1,6 +1,6 @@
 # The Omani Empire in East Africa
 
-The Sultans of Oman and Zanzibar dominated the entire East African coast in the 18th and 19th centuries, establishing the most extensive control system the region had seen. This imperial presence shaped the political, economic, and cultural development of coastal East Africa.
+The [[Omani Empire]] Sultans dominated the entire [[East African Community]] coast in the 18th and 19th centuries, establishing the most extensive control system the region had seen. This imperial presence shaped the political, economic, and cultural development of coastal East Africa.
 
 ## The Omani Expansion
 
@@ -14,13 +14,13 @@ In the early 18th century, Oman (located on the Arabian Peninsula) began expandi
 
 ## Zanzibar as the Imperial Center
 
-By the late 18th century, Zanzibar Island became the primary seat of Omani/Arab imperial power in East Africa:
+By the late 18th century, [[Zanzibar Revolution|Zanzibar]] Island became the primary seat of [[Omani Empire]]/Arab imperial power in East Africa:
 
-**Sultan's Residence**: The Sultan of Oman eventually moved his capital from Muscat to Zanzibar (in the 19th century), making Zanzibar the administrative center for East African dominions.
+**Sultan's Residence**: The Sultan of Oman eventually moved his capital from Muscat to [[Zanzibar Revolution|Zanzibar]] (in the 19th century), making [[Zanzibar Revolution|Zanzibar]] the administrative center for East African dominions.
 
-**Trading Hub**: Zanzibar became the largest slave and ivory trading port in East Africa, with merchants from across the Indian Ocean converging on the island.
+**Trading Hub**: [[Zanzibar Revolution|Zanzibar]] became the largest slave and ivory trading port in [[East African Community]], with merchants from across the Indian Ocean converging on the island.
 
-**Urban Development**: Zanzibar developed as a cosmopolitan city with Arab, Indian, African, and Asian populations. The Stone Town of Zanzibar became one of the Indian Ocean's most important cities.
+**Urban Development**: [[Zanzibar Revolution|Zanzibar]] developed as a cosmopolitan city with Arab, Indian, African, and Asian populations. The Stone Town of [[Zanzibar Revolution|Zanzibar]] became one of the Indian Ocean's most important cities.
 
 ## Administrative Control
 
@@ -36,11 +36,11 @@ The Omani Empire exercised control over East African coastal territories through
 
 ## The Clove Plantation Economy
 
-The Omani Empire's economic foundation increasingly rested on clove plantations in Zanzibar and Pemba:
+The [[Omani Empire]]'s economic foundation increasingly rested on clove plantations in [[Zanzibar Revolution|Zanzibar]] and Pemba:
 
 **Clove Cultivation**: Cloves, a high-value spice used in cooking and perfumes, became the dominant export crop. Plantations required massive enslaved labor forces.
 
-**Slave Labor**: The plantations' expansion depended entirely on the slave trade. Tens of thousands of enslaved people were imported to work the plantations.
+**Slave Labor**: The plantations' expansion depended entirely on the [[Arab Slave Trade]]. Tens of thousands of enslaved people were imported to work the plantations.
 
 **Wealth Generation**: The clove trade generated enormous wealth for plantation owners and the Omani state, funding military and administrative expenses.
 
@@ -48,11 +48,11 @@ The Omani Empire's economic foundation increasingly rested on clove plantations 
 
 ## Swahili Culture and Syncretism
 
-Omani/Arab political control did not completely displace African populations or cultures:
+[[Omani Empire]]/Arab political control did not completely displace African populations or cultures:
 
-**Swahili Synthesis**: A distinctive Swahili culture developed, blending Arab, Persian, African, and Asian elements.
+**Swahili Synthesis**: A distinctive [[Swahili Regional Language]] culture developed, blending Arab, Persian, African, and Asian elements.
 
-**Language Development**: Kiswahili, blending Bantu structure with Arabic vocabulary, developed as a trade language and lingua franca.
+**Language Development**: [[Swahili Regional Language]], blending Bantu structure with Arabic vocabulary, developed as a trade language and lingua franca.
 
 **Urban Society**: Swahili cities developed distinctive social hierarchies, with Arab and Indian merchants at the top, mixed-race populations in the middle, and enslaved Africans and poorer groups at the bottom.
 
@@ -60,29 +60,39 @@ Omani/Arab political control did not completely displace African populations or 
 
 ## Decline of Omani Power
 
-By the late 19th century, Omani power was declining:
+By the late 19th century, [[Omani Empire]] power was declining:
 
-**European Expansion**: British, German, and other European powers established colonial footholds in East Africa, challenging Omani authority.
+**European Expansion**: British, German, and other European powers established colonial footholds in [[East African Community]], challenging [[Omani Empire]] authority.
 
 **Internal Fragmentation**: The Sultanate fragmented politically, with rivals competing for power.
 
-**Economic Decline**: Slavery abolition reduced the profitability of the plantation economy, undermining economic foundations of Omani power.
+**Economic Decline**: Slavery abolition reduced the profitability of the plantation economy, undermining economic foundations of [[Omani Empire]] power.
 
-**Formal Colonization**: By the 1880s-1890s, European colonial boundaries were established (Kenya became British East Africa, Tanzania became German East Africa), formally ending Omani territorial control.
+**Formal Colonization**: By the 1880s-1890s, European colonial boundaries were established (Kenya became British East Africa, Tanzania became [[German East Africa]]), formally ending [[Omani Empire]] territorial control.
 
 ## Legacy
 
-Omani/Arab rule left lasting legacies:
+[[Omani Empire]]/Arab rule left lasting legacies:
 
-**Cultural Heritage**: Swahili coast culture, language, and architecture preserve Arab, Indian, and African syntheses from the Omani period.
+**Cultural Heritage**: [[Swahili Regional Language]] coast culture, language, and architecture preserve Arab, Indian, and African syntheses from the [[Omani Empire]] period.
 
-**Urban Centers**: Coastal cities established during the Omani period (Zanzibar, Mombasa, Dar es Salaam) remain major cities.
+**Urban Centers**: Coastal cities established during the [[Omani Empire]] period ([[Zanzibar Revolution|Zanzibar]], [[Mombasa Port]], Dar es Salaam) remain major cities.
 
-**Language**: Kiswahili's extensive Arabic vocabulary reflects centuries of Arab cultural dominance on the coast.
+**Language**: [[Swahili Regional Language]]'s extensive Arabic vocabulary reflects centuries of Arab cultural dominance on the coast.
 
 **Religion**: Islam's prevalence on the coast reflects the Omani/Arab period, though it has since spread to the interior.
 
 **Architecture**: Stone buildings, carved doors, and coastal fortifications from the Omani period remain visible in East African coastal cities.
+
+## See Also
+
+- [[Arab Slave Trade]]
+- [[Zanzibar Revolution]]
+- [[Indian Ocean Heritage]]
+- [[Swahili Regional Language]]
+- [[Mombasa Port]]
+- [[Berlin Conference East Africa]]
+- [[East Africa Timeline]]
 
 ## Sources
 

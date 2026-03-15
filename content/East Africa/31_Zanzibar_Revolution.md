@@ -1,20 +1,20 @@
 # Zanzibar Revolution 1964
 
-In January 1964, the Arab ruling class of Zanzibar was violently overthrown in a revolution that shocked the region and led to Zanzibar's rapid union with Tanganyika to form Tanzania. The revolution represented a major turning point in East African history.
+In January 1964, the Arab ruling class of [[Zanzibar Revolution]] was violently overthrown in a revolution that shocked the region and led to [[Zanzibar Revolution|Zanzibar]]'s rapid union with Tanganyika to form Tanzania. The [[Zanzibar Revolution]] represented a major turning point in [[East African Community]] history.
 
 ## Pre-Revolutionary Zanzibar
 
-Zanzibar before 1964 was ruled by an Arab sultanate:
+[[Zanzibar Revolution|Zanzibar]] before 1964 was ruled by an Arab sultanate:
 
-**Sultan Jamshid bin Abdullah**: The last Sultan of Zanzibar, who ruled from 1954 until the revolution.
+**Sultan Jamshid bin Abdullah**: The last Sultan of [[Zanzibar Revolution|Zanzibar]], who ruled from 1954 until the revolution.
 
-**Arab Dominance**: The Sultan and Arab merchant class controlled the island's government, trade, and resources.
+**Arab Dominance**: The Sultan and Arab merchant class controlled the island's government, trade, and resources under [[Omani Empire]] legacy.
 
 **Subordinate African Majority**: The majority African population (roughly 80 percent of the population) held subordinate status, working as clove plantation laborers or small farmers.
 
-**Economic Structure**: Clove plantations, worked largely by African laborers under harsh conditions, formed the basis of Zanzibar's economy and Arab wealth.
+**Economic Structure**: Clove plantations, worked largely by African laborers under harsh conditions, formed the basis of [[Zanzibar Revolution|Zanzibar]]'s economy and Arab wealth.
 
-**Colonial Heritage**: Zanzibar had been under British protectorate status since the late 19th century, but retained the Sultan as nominal ruler.
+**Colonial Heritage**: [[Zanzibar Revolution|Zanzibar]] had been under British protectorate status since the late 19th century, but retained the Sultan as nominal ruler.
 
 ## The Revolutionary Uprising
 
@@ -42,13 +42,13 @@ After the Sultan's overthrow, a new government took control:
 
 ## Union with Tanganyika
 
-Within months of the revolution, Zanzibar merged with Tanganyika to form Tanzania:
+Within months of the revolution, [[Zanzibar Revolution|Zanzibar]] merged with Tanganyika to form Tanzania:
 
-**Motivation**: The union was partly motivated by Cold War concerns. The new Zanzibar government's radical rhetoric alarmed Western powers, who feared communist influence. The union with Tanganyika was seen as a way to stabilize the situation.
+**Motivation**: The union was partly motivated by Cold War concerns. The new [[Zanzibar Revolution|Zanzibar]] government's radical rhetoric alarmed Western powers, who feared communist influence. The union with Tanganyika was seen as a way to stabilize the situation.
 
 **Presidential Initiative**: Tanganyika's President Julius Nyerere proposed and negotiated the union, which was formalized in April 1964.
 
-**New Nation**: The union created Tanzania (from Tanganyika and Zanzibar), a new nation-state combining the two territories.
+**New Nation**: The union created Tanzania (from Tanganyika and [[Zanzibar Revolution|Zanzibar]]), a new nation-state combining the two territories.
 
 **Controversial**: The union remains somewhat controversial, with some Zanzibaris arguing they lost autonomy in joining Tanzania.
 
@@ -70,9 +70,9 @@ The revolution created a significant refugee crisis:
 
 **Displaced Persons**: Thousands of Arabs fled to Arab countries (Oman, Saudi Arabia, UAE), to other East African nations, or to Europe.
 
-**Lost Heritage**: The Arab community that had dominated Zanzibar for centuries was dispersed, ending centuries of Arab political dominance on the island.
+**Lost Heritage**: The Arab community that had dominated [[Zanzibar Revolution|Zanzibar]] for centuries (from the [[Omani Empire]] period) was dispersed, ending centuries of Arab political dominance on the island.
 
-**Diaspora Communities**: Zanzibar's Arab diaspora communities in Oman and other Arab nations maintain cultural connections to Zanzibar.
+**Diaspora Communities**: [[Zanzibar Revolution|Zanzibar]]'s Arab diaspora communities in Oman and other Arab nations maintain cultural connections to [[Zanzibar Revolution|Zanzibar]].
 
 ## The Revolution's Legacy
 
@@ -85,6 +85,16 @@ The Zanzibar Revolution remains historically significant:
 **Cold War Impact**: The revolution highlighted Cold War anxieties about African instability and communist influence.
 
 **Tanzanian History**: The revolution and union fundamentally shaped Tanzania's history and identity.
+
+## See Also
+
+- [[Omani Empire]]
+- [[Arab Slave Trade]]
+- [[Indian Ocean Heritage]]
+- [[EAC History]]
+- [[Kenya Tanzania Border]]
+- [[Swahili Regional Language]]
+- [[East Africa Timeline]]
 
 ## Sources
 

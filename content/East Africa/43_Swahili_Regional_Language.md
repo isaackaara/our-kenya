@@ -102,6 +102,16 @@ Modern Swahili continues to evolve:
 
 **Regional Market**: Swahili's position as a regional language makes it attractive to publishers and media companies serving East African markets.
 
+## See Also
+
+- [[Indian Ocean Heritage]]
+- [[Arab Slave Trade]]
+- [[Omani Empire]]
+- [[Mombasa Port]]
+- [[East African Literature]]
+- [[East African Music]]
+- [[East Africa Timeline]]
+
 ## Sources
 
 1. https://www.britannica.com/topic/Swahili-language - Encyclopedic overview of Swahili
