@@ -1,0 +1,30 @@
+Northern Kenya, the vast semi-arid region encompassing the former North Eastern Province and parts of the Rift Valley, remained Kenya's most marginalized territory throughout Kibaki's presidency. Decades of deliberate neglect, rooted in colonial-era suspicion of Somali populations and post-independence securitization, persisted under Kibaki despite promises of inclusive development. Infrastructure remained skeletal. Poverty rates were the highest in the country. Insecurity, driven by cattle rustling, clan conflicts, and the emerging threat of Al-Shabaab, kept the region in a state of low-level crisis. Eastleigh, Nairobi's Somali-dominated business district, thrived as a parallel economy, but the rural pastoralist communities that made up most of Northern Kenya saw little benefit from the Kibaki-era [[Kibaki Economic Recovery|economic growth]].
+
+The roots of the neglect were historical. The British colonial administration had treated the Northern Frontier District as a security problem, not a development priority. After independence, [[Jomo Kenyatta Presidency|Jomo Kenyatta]] and later Daniel arap Moi continued the pattern, viewing the Somali and pastoralist populations as disloyal and potentially secessionist. The Shifta War of the 1960s, when Somali irredentists sought to join Somalia, entrenched this suspicion. The region was subjected to emergency laws, military occupation, and exclusion from national development plans. By the time Kibaki took office in 2002, Northern Kenya was generations behind the rest of the country.
+
+Kibaki's government promised to change this. The [[NARC Coalition Formation|NARC manifesto]] included commitments to end marginalization, invest in arid and semi-arid lands, and integrate all regions into the national economy. Some progress was made. The government launched the Arid and Semi-Arid Lands (ASAL) program, aimed at improving water access, education, and health services in pastoralist areas. Roads were built, though slowly and incompletely. Mobile phone networks expanded, connecting previously isolated communities. These were real improvements, but they were insufficient to close the gap.
+
+Education and health indicators remained dismal. In counties like Mandera, Wajir, and Turkana, primary school enrollment was well below the national average, and secondary enrollment was almost non-existent. The [[Free Primary Education Launch|free primary education]] policy, transformative elsewhere, struggled in Northern Kenya due to lack of schools, teachers, and infrastructure. Health facilities were sparse. Maternal mortality rates were among the highest in the world. Malnutrition was endemic. These were not natural conditions; they were the result of policy choices and resource allocation decisions made in Nairobi.
+
+Security deteriorated during Kibaki's second term. Kenya's 2011 military incursion into Somalia, ostensibly to counter Al-Shabaab after a series of kidnappings of tourists and aid workers, militarized the north-south border. Al-Shabaab retaliated with attacks inside Kenya, particularly targeting Northern Kenya and Nairobi. The Westgate Mall attack in 2013, just after Kibaki left office, was the most dramatic, but smaller-scale attacks on buses, police stations, and schools in Garissa, Mandera, and other northern towns became routine. The government's response was heavy-handed: mass arrests, collective punishment, and accusations that local Somali communities were harboring terrorists. Security operations often resembled occupation.
+
+Eastleigh emerged as a counterpoint to the neglect. The Nairobi neighborhood, dominated by Kenyan Somalis and Somali refugees, became a thriving commercial hub during the Kibaki years. Somali traders imported goods from Dubai, Guangzhou, and Mogadishu, selling them at competitive prices to wholesalers across East Africa. Money transfer businesses, remittances from the Somali diaspora, and informal credit networks fueled the economy. Eastleigh's commercial success was extraordinary, but it also highlighted the disconnect: urban Somali entrepreneurs thrived while rural pastoralist communities starved.
+
+The [[Constitution of Kenya 2010|2010 Constitution]] and [[Kibaki and Devolution|devolution]] promised structural change for Northern Kenya. The new constitution prohibited marginalization and mandated affirmative action for historically excluded regions. Devolution transferred resources and governance to counties, including the northern counties. But implementation was slow. Kibaki's government did the minimum to set up the devolution framework, leaving the heavy lifting to his successor. The northern counties would not see the benefits of devolution until years after Kibaki left office.
+
+Kibaki's legacy in Northern Kenya is one of continuity with past neglect rather than transformative change. He did not worsen the marginalization, but he did not end it. The promises of 2002 were not kept. The region's underdevelopment remained a structural feature of Kenyan inequality, rooted in ethnic politics, resource allocation, and historical patterns that Kibaki, for all his economic competence elsewhere, did not disrupt.
+
+## See Also
+- [[Kibaki Economic Recovery]]
+- [[Free Primary Education Launch]]
+- [[Constitution of Kenya 2010]]
+- [[Kibaki and Devolution]]
+- [[Kibaki and Ethnic Politics]]
+- [[Kikuyu]]
+- [[Luo]]
+
+## Sources
+1. Lind, Jeremy, et al. "Securing Pastoralism in East and West Africa: Protecting and Promoting Livestock Mobility." *Overseas Development Institute Report*, 2016. https://www.odi.org
+2. Anderson, David M., and Jacob McKnight. "Understanding al-Shabaab: Clan, Islam and Insurgency in Kenya." *Journal of Eastern African Studies* 9, no. 3 (2015). https://www.tandfonline.com/journals/rjea20
+3. Republic of Kenya. "National Policy for the Sustainable Development of Northern Kenya and other Arid Lands," 2012. https://www.devolution.go.ke
+4. Carrier, Neil, and Elliott Green. "Eastleigh, Nairobi's Little Mogadishu." *Journal of Eastern African Studies* 7, no. 2 (2013). https://www.tandfonline.com/journals/rjea20

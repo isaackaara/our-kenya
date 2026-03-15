@@ -1,0 +1,31 @@
+Mwai Kibaki died on April 21, 2022, at the age of 90, at his home in Nairobi. He had been out of office for nine years, living quietly in retirement, rarely commenting on politics. His death triggered a week of national mourning. President [[Uhuru Kenyatta]] declared a period of state grief. Tributes poured in from across the political spectrum, celebrating Kibaki as the president who delivered economic growth, free education, and the [[Constitution of Kenya 2010|2010 Constitution]]. The state funeral was held at Nyayo Stadium, attended by regional heads of state and Kenya's political elite. He was buried in his rural Othaya home in Central Province. The eulogies were warm, the assessments generous. But the full accounting of Kibaki's legacy is more complex: he delivered real development, but he also replicated the ethnic patronage and corruption that have defined Kenyan governance since independence.
+
+Kibaki's economic record is his strongest claim to legacy. He inherited an economy in crisis and left it growing. GDP expanded from near-zero growth in 2002 to averaging 5% to 7% during his first term. The [[Kibaki Economic Recovery|economic recovery]] was visible and measurable: [[Free Primary Education Launch|free primary education]] brought 1.5 million children into classrooms, [[Kibaki Infrastructure Investment|road construction]] connected rural areas to markets, and [[Mobile Money Revolution Kenya|M-Pesa]] revolutionized financial inclusion. By 2013, Kenya's middle class had expanded, Nairobi's skyline had transformed, and the country was recognized as East Africa's economic anchor. These were not accidents. They were the result of competent macroeconomic management, infrastructure investment, and a relatively enabling business environment.
+
+But the gains were unevenly distributed. The [[Kibaki and the Mount Kenya Mafia|Mount Kenya Mafia]] networks that surrounded Kibaki captured disproportionate resources. [[Kikuyu]] areas in Central Province received better roads, schools, and services than [[Kibaki and Northern Kenya|Northern Kenya]] or the Coast. The [[Anglo Leasing Under Kibaki|Anglo Leasing scandal]] and other corruption cases showed that the economic recovery enriched elites as much as it lifted the poor. Inequality widened. The critique that Kibaki presided over [[Kibaki and Ethnic Politics|ethnic favoritism]] is supported by the data on appointments, procurement, and resource allocation.
+
+The [[2007-08 Post-Election Violence|2007-08 post-election violence]] is the darkest stain on Kibaki's record. Over 1,300 people died, and 600,000 were displaced in ethnic killings that followed the [[2007 Election Disputed Results|disputed election]]. Kibaki shares responsibility. His government rigged the election, or at minimum allowed the Electoral Commission to bungle the process so badly that the result was not credible. His refusal to concede, his hasty swearing-in, and his initial resistance to power-sharing all contributed to the crisis. The violence was not spontaneous. It was prepared by politicians on both sides, including those in Kibaki's camp, who mobilized ethnic grievances and armed militias. Kibaki was not prosecuted, but the [[Kibaki and the ICC|ICC cases]] that followed targeted his allies and opponents alike.
+
+The [[Constitution of Kenya 2010|2010 Constitution]] is the paradoxical legacy. Kibaki did not want it, particularly the [[Kibaki and Devolution|devolution]] provisions that constrained presidential power and redistributed resources to counties. But he signed it, oversaw the referendum, and began implementation. The constitution was forced on him by the post-election crisis and [[Kofi Annan Mediation|international mediation]], but it became law under his watch. It is Kenya's most significant institutional reform since independence, and Kibaki's presidency is inseparable from it.
+
+Kibaki's personal style shaped how he is remembered. Unlike Kenyatta or Moi, Kibaki did not cultivate a cult of personality. He was reserved, professorial, and uncomfortable with the theatrics of politics. He did not amass a visible personal fortune on the scale of his predecessors. He governed through delegation, empowering technocrats but also allowing elite networks to operate unchecked. His low-key manner made him less threatening than previous presidents, but it also made him less accountable. It was easier to loot quietly under Kibaki than loudly under Moi.
+
+Kibaki's relationship with his successors is revealing. [[Uhuru Kenyatta]], whom Kibaki defeated in 2002 and later mentored, eulogized him as a statesman and father figure. [[Raila Odinga]], his coalition partner turned rival, offered measured praise, acknowledging Kibaki's economic contributions while implicitly critiquing the broken promises and violence. [[Kibaki and William Ruto|William Ruto]], whom Kibaki's government helped indict at the ICC, praised Kibaki as a development-focused leader, choosing diplomacy over grievance.
+
+The legacy is this: Kibaki delivered growth, education, and infrastructure. He presided over the passage of a transformative constitution. But he also oversaw ethnic favoritism, corruption, and a rigged election that triggered Kenya's worst violence since independence. He was a capable administrator and a flawed democrat. He improved Kenya's economy and deepened its ethnic divisions. The tributes at his funeral emphasized the former. Honest history requires acknowledging both.
+
+## See Also
+- [[Kibaki Economic Recovery]]
+- [[Free Primary Education Launch]]
+- [[Constitution of Kenya 2010]]
+- [[2007-08 Post-Election Violence]]
+- [[Kibaki and Ethnic Politics]]
+- [[Uhuru Kenyatta]]
+- [[Raila Odinga]]
+- [[Kikuyu]]
+
+## Sources
+1. "Mwai Kibaki: Kenya's Third President Dies Aged 90," BBC News, April 2022. https://www.bbc.com/news/world-africa-61176404
+2. Hornsby, Charles. *Kenya: A History Since Independence*. I.B. Tauris, 2012.
+3. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011.
+4. "Kibaki's Legacy: Growth, Reform, and Violence," The East African, April 2022. https://www.theeastafrican.co.ke
