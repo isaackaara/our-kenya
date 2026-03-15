@@ -26,6 +26,9 @@ export default ((opts?: TrailNavOptions) => {
 
     const otherTrailsCount = trailMemberships.length - 1
 
+    // Get previous stops for history stack
+    const previousStops = stopPosition > 0 ? trail.stops.slice(0, stopPosition) : []
+
     // Generate dot indicators
     const dots = Array.from({ length: totalStops }, (_, i) => {
       const isCurrent = i === stopPosition
@@ -44,30 +47,58 @@ export default ((opts?: TrailNavOptions) => {
       return (
         <div className={`trail-nav trail-nav-top-container ${displayClass ?? ""}`}>
           <div className="trail-nav-top">
-            <a href="/STORY-TRAILS" className="trail-back-link">← All Story Trails</a>
-            <div className="trail-header">
-              <span className="trail-icon">📖</span>
-              <a href="/STORY-TRAILS" className="trail-name">
-                Story Trail: {trail.name}
-              </a>
-            </div>
-            <div className="trail-dots">{dots}</div>
-            <span className="trail-position">Stop {currentStop} of {totalStops}</span>
-            <div className="trail-top-nav">
-              {prevStop
-                ? <a href={stopHref(prevStop)} className="trail-top-prev">← {prevStop.title}</a>
-                : <span className="trail-top-spacer" />
-              }
-              {nextStop
-                ? <a href={stopHref(nextStop)} className="trail-top-next">{nextStop.title} →</a>
-                : <a href="/STORY-TRAILS" className="trail-top-next">All trails →</a>
-              }
-            </div>
-            {otherTrailsCount > 0 && (
-              <div className="trail-other">
-                Also part of {otherTrailsCount} other trail{otherTrailsCount > 1 ? "s" : ""}
+            {/* History stack - only show if position > 0 */}
+            {previousStops.length > 0 && (
+              <div className="trail-history-stack">
+                {previousStops.map((stop, index) => {
+                  const stopNumber = index + 1
+                  const stackIndex = previousStops.length - 1 - index // Most recent at bottom
+                  const opacity = 0.85 - (stackIndex * 0.08) // Subtle opacity layering
+                  
+                  return (
+                    <a
+                      key={index}
+                      href={stopHref(stop)}
+                      className="trail-history-strip"
+                      style={{ opacity }}
+                      title={`Jump to Stop ${stopNumber}: ${stop.title}`}
+                    >
+                      <span className="trail-history-number">{stopNumber}</span>
+                      <span className="trail-history-text">{stop.title}</span>
+                      <span className="trail-history-chevron">→</span>
+                    </a>
+                  )
+                })}
               </div>
             )}
+
+            {/* Main card content */}
+            <div className="trail-card-main">
+              <a href="/STORY-TRAILS" className="trail-back-link">← All Story Trails</a>
+              <div className="trail-header">
+                <span className="trail-icon">📖</span>
+                <a href="/STORY-TRAILS" className="trail-name">
+                  Story Trail: {trail.name}
+                </a>
+              </div>
+              <div className="trail-dots">{dots}</div>
+              <span className="trail-position">Stop {currentStop} of {totalStops}</span>
+              <div className="trail-top-nav">
+                {prevStop
+                  ? <a href={stopHref(prevStop)} className="trail-top-prev">← {prevStop.title}</a>
+                  : <span className="trail-top-spacer" />
+                }
+                {nextStop
+                  ? <a href={stopHref(nextStop)} className="trail-top-next">{nextStop.title} →</a>
+                  : <a href="/STORY-TRAILS" className="trail-top-next">All trails →</a>
+                }
+              </div>
+              {otherTrailsCount > 0 && (
+                <div className="trail-other">
+                  Also part of {otherTrailsCount} other trail{otherTrailsCount > 1 ? "s" : ""}
+                </div>
+              )}
+            </div>
           </div>
         </div>
       )
@@ -119,16 +150,71 @@ export default ((opts?: TrailNavOptions) => {
   .trail-nav-top {
     background: linear-gradient(135deg, #006B3F 0%, #008751 100%);
     color: white;
+    border-radius: 0;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* History stack */
+  .trail-history-stack {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .trail-history-strip {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 36px;
+    padding: 0 1rem;
+    background: #005a34;
+    color: rgba(255, 255, 255, 0.95);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    transition: filter 0.15s;
+    box-shadow: 0 2px 4px rgba(0, 0, 6, 0.15);
+  }
+
+  .trail-history-strip:hover {
+    filter: brightness(1.15);
+  }
+
+  .trail-history-number {
+    font-size: 0.7rem;
+    font-weight: 600;
+    opacity: 0.75;
+    flex-shrink: 0;
+    margin-right: 0.5rem;
+  }
+
+  .trail-history-text {
+    flex: 1;
+    font-size: 0.75rem;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .trail-history-chevron {
+    font-size: 0.75rem;
+    opacity: 0.6;
+    flex-shrink: 0;
+    margin-left: 0.5rem;
+  }
+
+  /* Main card content */
+  .trail-card-main {
     padding: 1.25rem 1.5rem 1rem;
-    border-radius: 8px;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     gap: 0.6rem;
-    width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
   }
 
   .trail-header {
@@ -316,10 +402,26 @@ export default ((opts?: TrailNavOptions) => {
       margin-bottom: 1rem;
     }
 
-    .trail-nav-top {
+    .trail-card-main {
       padding: 1rem 1rem 0.875rem;
       gap: 0.5rem;
-      border-radius: 6px;
+    }
+
+    .trail-history-strip {
+      height: 32px;
+      padding: 0 0.75rem;
+    }
+
+    .trail-history-number {
+      font-size: 0.65rem;
+    }
+
+    .trail-history-text {
+      font-size: 0.7rem;
+    }
+
+    .trail-history-chevron {
+      font-size: 0.7rem;
     }
 
     .trail-header {
@@ -374,165 +476,3 @@ export default ((opts?: TrailNavOptions) => {
 
   return TrailNav
 }) satisfies QuartzComponentConstructor<TrailNavOptions>
-
-export const TrailHistoryRail: QuartzComponentConstructor = () => {
-  const TrailHistoryRail: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-    const slug = fileData.slug
-    if (!slug) return null
-
-    const trailMemberships = slugToTrails[slug]
-    if (!trailMemberships || trailMemberships.length === 0) return null
-
-    const { trail, position: stopPosition } = trailMemberships[0]
-    
-    // Only render if we're past the first stop
-    if (stopPosition === 0) return null
-
-    const previousStops = trail.stops.slice(0, stopPosition)
-    const tabCount = previousStops.length
-
-    // Inject body margin to offset content
-    if (typeof document !== "undefined") {
-      const style = document.createElement("style")
-      style.id = "trail-history-rail-offset"
-      style.textContent = `
-        @media (min-width: 768px) {
-          body.trail-has-history {
-            margin-left: ${tabCount * 40}px !important;
-          }
-        }
-        @media (max-width: 767px) {
-          body.trail-has-history {
-            margin-left: ${Math.min(tabCount, 3) * 28}px !important;
-          }
-        }
-      `
-      const existing = document.getElementById("trail-history-rail-offset")
-      if (existing) {
-        existing.remove()
-      }
-      document.head.appendChild(style)
-      document.body.classList.add("trail-has-history")
-    }
-
-    return (
-      <div className="trail-history-rail">
-        {previousStops.map((stop, index) => {
-          const stopNumber = index + 1
-          const isMostRecent = index === previousStops.length - 1
-          const tabClass = isMostRecent ? "trail-history-tab recent" : "trail-history-tab"
-          
-          return (
-            <a
-              key={index}
-              href={stopHref(stop)}
-              className={tabClass}
-              title={`Stop ${stopNumber}: ${stop.title}`}
-            >
-              <span className="trail-history-badge">{stopNumber}</span>
-              <span className="trail-history-title">{stop.title}</span>
-            </a>
-          )
-        })}
-      </div>
-    )
-  }
-
-  TrailHistoryRail.css = `
-    .trail-history-rail {
-      position: fixed;
-      left: 0;
-      top: 0;
-      height: 100vh;
-      display: flex;
-      flex-direction: row;
-      z-index: 50;
-    }
-
-    .trail-history-tab {
-      width: 40px;
-      height: 100vh;
-      cursor: pointer;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      overflow: hidden;
-      position: relative;
-      background: #d1fae5;
-      color: #065f46;
-      text-decoration: none;
-      transition: background 0.2s, filter 0.2s;
-      border-right: 1px solid rgba(0, 0, 0, 0.1);
-    }
-
-    .trail-history-tab.recent {
-      background: #006B3F;
-      color: white;
-    }
-
-    .trail-history-tab:hover {
-      filter: brightness(1.1);
-    }
-
-    .trail-history-badge {
-      position: absolute;
-      top: 12px;
-      width: 20px;
-      height: 20px;
-      border-radius: 50%;
-      background: currentColor;
-      color: #d1fae5;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.65rem;
-      font-weight: 700;
-    }
-
-    .trail-history-tab.recent .trail-history-badge {
-      background: white;
-      color: #006B3F;
-    }
-
-    .trail-history-title {
-      transform: rotate(-90deg);
-      white-space: nowrap;
-      font-size: 0.7rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      max-width: 140px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      user-select: none;
-    }
-
-    @media (max-width: 767px) {
-      .trail-history-rail {
-        /* Show only the 3 most recent previous stops on mobile */
-      }
-
-      .trail-history-tab {
-        width: 28px;
-      }
-
-      .trail-history-tab:not(.recent):nth-last-child(n+4) {
-        display: none;
-      }
-
-      .trail-history-badge {
-        width: 16px;
-        height: 16px;
-        font-size: 0.6rem;
-        top: 8px;
-      }
-
-      .trail-history-title {
-        font-size: 0.65rem;
-        max-width: 120px;
-      }
-    }
-  `
-
-  return TrailHistoryRail
-}
