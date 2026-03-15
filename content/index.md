@@ -143,8 +143,8 @@ cssclasses:
   </button>
 </div>
 
-<script type="module">
-// Import facts from the facts.ts file
+<script>
+// Facts array (inlined - no imports work in HTML script tags)
 const facts = [
   "Kenya's Great Rift Valley stretches over 6,000 kilometres across Africa and is visible from space.",
   "The word 'benga' -- the genre that defined Kenyan pop music -- originally meant something that bounced or vibrated in Luo.",
@@ -246,7 +246,7 @@ if (trailCard) {
   trailCard.querySelector('.ok-trail-name').textContent = trail.name;
   trailCard.querySelector('.ok-trail-desc').textContent = trail.description;
   const trailBtn = trailCard.querySelector('.ok-trail-btn');
-  trailBtn.href = `/Trails/${encodeURIComponent(trail.name)}`;
+  trailBtn.href = `/Trails/${trail.name.replace(/\s+/g, '-')}`;
 }
 
 // Display featured trails (hardcoded 3)
@@ -259,7 +259,7 @@ if (featuredContainer) {
       <div class="ok-trail-category-pill">${trail.category}</div>
       <h3 class="ok-featured-trail-name">${trail.name}</h3>
       <p class="ok-featured-trail-desc">${trail.description}</p>
-      <a href="/Trails/${encodeURIComponent(trail.name)}" class="ok-featured-trail-link">Start Trail →</a>
+      <a href="/Trails/${trail.name.replace(/\s+/g, '-')}" class="ok-featured-trail-link">Start Trail →</a>
     `;
     featuredContainer.appendChild(card);
   });

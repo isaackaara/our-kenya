@@ -405,8 +405,8 @@ article.homepage {
 
 // Hero Section - Dark, bold statement
 .ok-hero-v2 {
-  background: var(--dark);
-  color: var(--light);
+  background: #111111;
+  color: #f0f0f0;
   padding: 3rem 2rem;
   margin: -1rem -1rem 2rem;
   text-align: center;
@@ -453,24 +453,26 @@ article.homepage {
 }
 
 .ok-btn-primary {
-  background: var(--secondary);
-  color: #fff;
+  background: #f0f0f0;
+  color: #111111;
+  border: none;
 }
 
 .ok-btn-primary:hover {
   opacity: 0.9;
-  color: #fff;
+  color: #111111;
   text-decoration: none;
 }
 
 .ok-btn-share {
   background: transparent;
-  color: var(--light);
-  border: 1px solid var(--lightgray);
+  color: #f0f0f0;
+  border: 2px solid #f0f0f0;
 }
 
 .ok-btn-share:hover {
   background: rgba(255, 255, 255, 0.1);
+  color: #f0f0f0;
 }
 
 .ok-hero-mission {
@@ -579,7 +581,7 @@ article.homepage {
   font-size: 1.4rem;
   font-weight: 700;
   margin: 0 0 0.75rem;
-  color: var(--dark);
+  color: #1a1a1a;
 }
 
 .ok-trail-desc {
@@ -689,7 +691,7 @@ article.homepage {
   font-size: 1.2rem;
   font-weight: 700;
   margin: 0 0 0.5rem;
-  color: var(--dark);
+  color: #1a1a1a;
 }
 
 .ok-featured-trail-desc {
@@ -720,8 +722,8 @@ article.homepage {
   display: inline-block;
   padding: 0.75rem 1.5rem;
   background: transparent;
-  border: 2px solid var(--dark);
-  color: var(--dark);
+  border: 2px solid #1a1a1a;
+  color: #1a1a1a;
   font-weight: 600;
   text-decoration: none;
   border-radius: 4px;
@@ -895,4 +897,25 @@ article.homepage {
     width: 100%;
     justify-content: center;
   }
+}
+
+// ============================================================
+// Homepage-specific overrides
+// ============================================================
+
+// Hide article title and meta on homepage
+[data-slug="index"] .article-title,
+[data-slug="index"] .content-meta {
+  display: none;
+}
+
+// Make homepage content full width
+[data-slug="index"] .center {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+// Hide page header on homepage
+[data-slug="index"] .page-header {
+  display: none;
 }
