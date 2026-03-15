@@ -1,0 +1,21 @@
+Steel frame construction, consisting of structural steel members assembled through welding or bolting, enabled tall buildings and long-span structures that defined Kenya's modernist urban landscapes. Steel's strength-to-weight ratio allows slender columns and deep beam spans, creating flexible internal spaces and reducing material use compared to concrete or traditional construction. Yet steel's vulnerability to corrosion in tropical climates, difficulty in finding specialized fabricators and erectors, and requirement for precise detailing and quality control have limited its adoption despite theoretical advantages.
+
+Early tall buildings in Nairobi (1960s-1970s) frequently employed structural steel frames, with the material's industrial aesthetics expressing modernist values of technological progress and rational order. Buildings like the former Kenyatta Conference Centre and various office towers showcased steel skeletal frames sometimes deliberately exposed as visual expressions of structure. This aesthetic valorization of structure lasted through the 1980s, with prominent steel columns and trusses announced as honest expression of building mechanics.
+
+The practical reality of steel in tropical Kenya proved more complicated. Steel requires protective coatings against corrosion: paint systems maintained through regular recoating, galvanizing providing sacrificial corrosion layers, or stainless steel specification for maximum corrosion resistance. In humid environments, corrosion can penetrate paint coatings within years if maintenance lapses. Exposed steel in coastal buildings corrodes dramatically: the chloride-rich atmosphere accelerates chemical processes converting steel to iron oxide. Many 1960s-70s steel-frame buildings exhibit rust staining on facades, structural distress, and abandonment as maintenance costs mounted.
+
+Steel connections require skilled execution: bolts must be torqued to specification; welds must be properly executed and inspected; connections must accommodate thermal movement and dynamic loads. Design professional errors and construction supervision failures in steel projects resulted in structural inadequacy. Investigations of building failures and distresses frequently identified steel connection failures as root causes. The need for specialized engineering and construction expertise made steel buildings riskier than concrete for developers without sophisticated project management capacity.
+
+Welding, essential for connecting steel members, requires specialized equipment and highly trained workers. Post-independence welding fabrication was often subcontracted to Indian contractors familiar with steel work, but knowledge transfer to Kenyan technicians remained limited. Contemporary welding capacity has improved, yet quality assurance remains inconsistent. Poor welds, inadequate heat treatment, and insufficient inspection create hidden defects that manifest under load. The material science complexities of steel, including brittle fracture potential at low temperatures and fatigue crack initiation under cyclic loading, exceeds capability of many construction supervisors.
+
+Contemporary steel frame construction focuses on climate protection: heavy-duty protective coatings, galvanized connections, stainless fasteners, and architectural systems protecting exposed steel. High-rise buildings increasingly incorporate concrete cores (for seismic resistance and fire protection) with steel frames for flexibility. Mixed systems combining materials' advantages are replacing single-material approaches. Prefabricated steel connections reduce site welding, improving quality and reducing schedule. Yet the fundamental challenge remains: steel requires continuous vigilant maintenance unfamiliar to Kenya's building culture adapted to traditional materials' self-maintenance through weathering.
+
+## See Also
+
+[[Modern Construction Techniques]], [[Concrete Building]], [[Tall Buildings]], [[Nairobi Built Environment]], [[Commercial Building]], [[Industrial Building Design]], [[Government House]]
+
+## Sources
+
+1. https://www.constructionkenya.com/1599/building-materials-kenya/
+2. https://willstonehomes.ke/prefab-modular-vs-traditional-construction-in-nairobi-kenya-whats-best-for-you/
+3. https://design-encyclopedia.com/?T=Kenyan+Architecture

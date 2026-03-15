@@ -1,0 +1,21 @@
+Traditional building methods in Kenya represent accumulated knowledge developed over centuries to create shelter suited to diverse climates, available materials, and social practices. These methods, refined through generational experience, embody sophisticated understanding of structural mechanics, material properties, and environmental adaptation. Colonial dismissal of traditional construction as primitive masked the technical achievement and economic efficiency of building systems developed without external resources or industrial inputs.
+
+Mud brick and earth construction dominated in semi-arid and agricultural zones. Builders prepared clay-rich soil, mixed with straw or other fiber reinforcement, shaped by hand or in wooden molds, and sun-dried to create durable building units. Earth construction, properly detailed with adequate roof overhangs and elevated foundations, resists weather for decades. The thermal mass of thick earth walls moderates temperature fluctuation, maintaining cooler interiors during intense heat. Earth architecture demonstrates remarkable durability: structures built centuries ago remain occupied and functional. Contemporary concerns about earth construction typically reflect urban professionals' distance from rural practice rather than material failure.
+
+Stone construction, using locally quarried stone laid in lime mortar, provided permanent structures throughout highland and coastal regions. Builders selected stone shapes, fitted them with minimal dressing, and achieved stability through weight and careful interlocking rather than refined joints. Lime mortar, produced by burning coral (on coasts) or limestone, provided bonding while remaining permeable to moisture movement, preventing the deterioration that occurs with impermeable modern cement mortar. This traditional system allowed structures to accommodate minor settlement and climate-induced dimensional change.
+
+Timber framing using locally available hardwoods created structural skeletons infilled with thatch, mud brick, or other materials. Traditional carpenters developed sophisticated joinery enabling structural connection without nails or metal fasteners. The principle of load path, distributing weight through carefully positioned members to bearing points, guided timber design. Thatch roofing, using grass or palm fronds, provided excellent insulation, water shedding, and ventilation while remaining producible with local materials and labor.
+
+Coastal Swahili architecture incorporated mangrove poles within stone walls, a technique providing both structural tensioning and an internal frame accommodating wood movement. This hybrid system, combining coral stone external walls with timber internal structure, achieved remarkable durability and flexibility. The integration of timber into masonry, developed through centuries of East African coastal trade exposure, produced robust building systems adapted to salt corrosion and humidity.
+
+Post-independence, concrete and steel increasingly replaced traditional materials. Portland cement, industrially produced and requiring precise water ratios and curing protocols, differs fundamentally from traditional lime mortar. Steel's vulnerability to corrosion, particularly in humid coastal environments, required protective painting or galvanizing unfamiliar to traditional builders. Yet contemporary practice demonstrates continued vitality of traditional methods: earth construction is being revived for sustainability, lime mortar is recognized as superior for heritage structures, and timber joinery persists in rural building. The dichotomy between traditional and modern obscures reality: effective contemporary practice adapts traditional knowledge to new materials and constraints.
+
+## See Also
+
+[[Residential Architecture]], [[Mombasa Old Town]], [[Religious Building Architecture]], [[Modern Construction Techniques]], [[Concrete Building]], [[Steel Frame Construction]], [[Architecture]]
+
+## Sources
+
+1. https://www.evansengineeringandconstruction.com/post/from-mud-huts-to-modern-marvels-embracing-traditional-kenyan-architecture-in-contemporary-design
+2. https://www.constructionkenya.com/1599/building-materials-kenya/
+3. https://design-encyclopedia.com/?T=Kenyan+Architecture

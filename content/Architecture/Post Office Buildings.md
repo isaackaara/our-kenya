@@ -1,0 +1,21 @@
+Post office buildings, constructed throughout colonial and post-independence Kenya, served as symbols of communication infrastructure and governmental authority. These modest yet architecturally significant structures organized the distribution of mail, telegrams, and postal services. Colonial post offices adopted standardized designs reflecting British Postal Service traditions while adapting to tropical climate and local conditions. The buildings' locations, typically near central commercial districts or administrative centers, made them accessible to population yet maintained separation from private commercial activity.
+
+The Nairobi General Post Office, constructed during the colonial period, exemplifies monumental postal architecture. The building's formal facade, prominent entrance, and substantial construction expressed the importance governmental communication infrastructure held in colonial administration. The interior organization separated public areas (counter service for mail, parcel posting, and stamp purchase) from back-of-house operations (sorting rooms, storage areas, administrative offices). This division between public-facing and operational spaces remains characteristic of post office design globally, with specific architectural responses to tropical environment.
+
+Regional post offices in other cities adopted simplified versions of Nairobi's architectural design. The standardization of post office architecture across the colony expressed governmental control of communication and organizational rationality. These buildings, typically two-story stone or brick construction with verandahs and appropriate fenestration, combined formal presence with functional simplicity. The post office's monopoly over mail service gave the institution governmental authority, which architecture reflected through monumental design and central locations.
+
+The development of telecommunications gradually displaced mail as primary communication medium. Post offices remained essential for banking services (money orders, savings), parcel services, and licensing, yet their primary function shifted over time. Colonial postal and telegraph services, initially unified, separated gradually as telephone technology advanced. The architectural response involved adapting existing post office buildings to accommodate new functions rather than constructing purpose-built facilities. This adaptation, adding telephone exchange equipment to existing postal buildings, created cramped and functionally compromised spaces.
+
+Contemporary post office buildings, many dating from colonial or early post-independence periods, face challenges of functional obsolescence and maintenance. The buildings' stone or brick construction, while durable, requires expensive restoration. Many post offices occupy high-value central locations where commercial redevelopment pressures encourage replacement with contemporary office or retail use. The tension between heritage conservation (recognizing these buildings' historical and architectural significance) and economic incentives for redevelopment remains unresolved in many urban centers.
+
+Post-independence postal services, privatized or corporatized in recent decades, have reduced facility numbers and modified operations. Smaller post office branches, closed as services centralized, left their buildings vacant or repurposed. This spatial contraction reflected changing communication patterns (digital mail reducing paper correspondence) and economic pressures. The architectural legacy remains: post office buildings throughout Kenya continue occupying prominent urban locations, their former functions and architectural formality standing as testament to now-obsolescent communication systems.
+
+## See Also
+
+[[Colonial Administrative Buildings]], [[Nairobi Built Environment]], [[Commercial Building]], [[Railway Station Architecture]], [[Technology]], [[Telephone Infrastructure]], [[Communication Infrastructure]]
+
+## Sources
+
+1. https://visitnairobikenya.com/architecture/
+2. https://www.buyrentkenya.com/discover/most-iconic-buildings-in-nairobi-and-the-stories-behind-them
+3. https://wanderlog.com/list/geoCategory/838378/most-historic-buildings-and-sites-in-nairobi

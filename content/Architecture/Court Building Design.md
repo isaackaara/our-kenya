@@ -1,0 +1,21 @@
+Court buildings in Kenya, constructed throughout the colonial and post-independence periods, embody architectural expression of judicial authority and formal legal procedures. The physical form of courts, separated from streets through enclosed compounds, elevated above ground level, and organized around ceremonial spaces, expresses the law's distance from everyday life and formal procedures' centrality to legal practice. Colonial court architecture adopted British judicial traditions while responding to tropical environment and colonial labor structures.
+
+The High Court Building in Nairobi, designed and constructed during the colonial period, exemplifies how colonial architecture expressed authority. The building's monumental scale, formal entry sequence, and substantial stone construction conveyed the permanence and power of colonial legal system. Interior organization separated public galleries (for case observation) from chambers reserved for judges and legal professionals, physically distinguishing spectators from authorities. The design reinforced what colonial law intended: public accessibility to legal processes combined with clear hierarchies separating masses from elite legal practitioners.
+
+Court buildings incorporated security infrastructure reflecting risks perceived in colonial contexts: restricted access to chambers, secure holding areas for accused persons, and organized circulation separating defendants from public spaces. This architectural arrangement encoded assumptions about social control and protection of legal authority from threat. The magistrate's bench, elevated above counsel and litigants, positioned judicial authority literally above those subject to judgment. These spatial arrangements, embedded in architecture, made visible the power relationships that law intended to enforce.
+
+Post-independence court design continued these spatial patterns while shifting symbolic meaning. Judicial authority, represented by similar architectural arrangements, now symbolized independent Kenya's rule of law rather than colonial control. Yet the inherited architectural forms, developed during colonialism, continued encoding spatial hierarchies and assumptions about who held authority and how legal processes operated. The absence of fundamental architectural change meant that inherited colonial courtroom arrangements persisted, potentially embedding colonial legal assumptions within post-independence judicial practice.
+
+Contemporary court buildings in Nairobi and other major cities have introduced modernist architecture and new spatial organizations. The Milimani Law Courts complex introduced more open plan organizations, reduced hierarchical elevation differences, and contemporary materials. Yet these architectural innovations don't fully resolve the fundamental question: how should buildings physically represent judicial authority in democratic contexts where rule of law should not concentrate power but distribute it through procedural fairness? The persistence of elevated judge's benches, enclosed chambers, and public gallery separation suggests that the architectural language developed for hierarchical colonial courts continues dominating post-independence judicial spaces.
+
+Specialized courts requiring particular spatial organizations emerged post-independence: labor courts, family courts, commercial courts, and specialized tribunals. These courts required different spatial organizations reflecting their particular legal missions. Family court design, addressing sensitive personal disputes, often incorporated more private spaces and less hierarchical spatial arrangements. Commercial courts, facilitating rapid case resolution for business disputes, emphasized efficient circulation and minimal delay. Yet these innovations remain limited, with many courts still operating in shared spaces designed for different purposes or inherited colonial buildings inadequately adapted to contemporary use.
+
+## See Also
+
+[[Colonial Administrative Buildings]], [[Government House]], [[Parliament Building]], [[Police Headquarters]], [[Nairobi Built Environment]], [[Colonial Architecture]], [[Law and Justice]]
+
+## Sources
+
+1. https://en.wikipedia.org/wiki/Parliament_Buildings_(Kenya)
+2. https://gahtc.org/modules/85
+3. https://www.archnet.org/sites/5720
