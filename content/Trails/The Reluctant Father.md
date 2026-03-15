@@ -1,4 +1,4 @@
 <div class="trail-intro-page">
-<p class="trail-intro-paragraph">[Kimi will write this introduction]</p>
+<p class="trail-intro-paragraph">Jomo Kenyatta spent nine years in detention at Lokitaung and Maralal, then emerged in 1961 to lead Kenya to independence two years later. He had not asked for the role, exactly. Others had kept his name alive while he was restricted in the north, made him a symbol when he would have preferred to be a person. What followed was fifteen years of rule that built a nation and betrayed much of what the independence movement had promised. This trail examines the man who became Mzee, the choices he made in office, and the Kenya he left behind when he died in 1978.</p>
 <a href="/Presidencies/Jomo-Kenyatta-Presidency/Kenyatta-Rise-to-Power" class="trail-begin-btn">Begin Trail →</a>
 </div>
