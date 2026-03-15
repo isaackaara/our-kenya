@@ -8,105 +8,95 @@ const TrailHubCSS = `
   margin: 0 0 3rem 0;
 }
 
-.trail-hub-top-row {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-bottom: 1.25rem;
-}
-
 .trail-hub-search {
-  flex: 1;
-  max-width: 420px;
+  width: 100%;
+  max-width: 100%;
   padding: 0.6rem 1rem;
   font-size: 0.9375rem;
-  border: 1.5px solid #d1d5db;
-  border-radius: 0;
+  border: 1.5px solid var(--lightgray);
+  border-radius: 4px;
   font-family: inherit;
-  background: white;
-  color: #1f2937;
+  background: var(--light);
+  color: var(--dark);
+  margin-bottom: 1.25rem;
 }
 
 .trail-hub-search:focus {
   outline: none;
-  border-color: #006B3F;
+  border-color: var(--secondary);
+}
+
+.trail-hub-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 1.5rem;
+}
+
+.trail-category-tab {
+  padding: 0.45rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background: var(--lightgray);
+  color: var(--darkgray);
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  min-height: 36px;
+  transition: all 0.15s;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+}
+
+.trail-category-tab:hover {
+  border-color: var(--secondary);
+  background: var(--highlight);
+}
+
+.trail-category-tab.active {
+  background: var(--secondary);
+  color: white;
+  border-color: var(--secondary);
+}
+
+.trail-hub-random-wrapper {
+  text-align: center;
+  margin: 1.5rem 0;
 }
 
 .trail-hub-random {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
-  padding: 0.6rem 1.1rem;
-  font-size: 0.875rem;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.95rem;
   font-weight: 600;
   background: transparent;
-  color: #006B3F;
-  border: 1.5px solid #006B3F;
-  border-radius: 0;
+  color: var(--darkgray);
+  border: 2px solid var(--lightgray);
+  border-radius: 6px;
   cursor: pointer;
   white-space: nowrap;
-  min-height: 44px;
-  letter-spacing: 0.02em;
-  transition: background 0.15s, color 0.15s;
+  min-height: 48px;
+  letter-spacing: 0.01em;
+  transition: all 0.2s;
 }
 
 .trail-hub-random:hover {
-  background: #006B3F;
-  color: white;
+  background: var(--highlight);
+  border-color: var(--secondary);
+  color: var(--dark);
 }
 
 .trail-hub-random:active {
-  opacity: 0.85;
-}
-
-.trail-hub-categories {
-  display: flex;
-  gap: 0.5rem;
-  overflow-x: auto;
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.5rem;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: thin;
-}
-
-.trail-hub-categories::-webkit-scrollbar {
-  height: 6px;
-}
-
-.trail-hub-categories::-webkit-scrollbar-thumb {
-  background: #cbd5e0;
-  border-radius: 3px;
-}
-
-.trail-category-tab {
-  padding: 0.45rem 1rem;
-  font-size: 0.8125rem;
-  font-weight: 500;
-  background: white;
-  color: #374151;
-  border: 1.5px solid #d1d5db;
-  border-radius: 0;
-  cursor: pointer;
-  white-space: nowrap;
-  min-height: 36px;
-  transition: all 0.15s;
-  letter-spacing: 0.01em;
-}
-
-.trail-category-tab:hover {
-  border-color: #006B3F;
-  color: #006B3F;
-}
-
-.trail-category-tab.active {
-  background: #006B3F;
-  color: white;
-  border-color: #006B3F;
+  transform: scale(0.98);
 }
 
 .trail-hub-count {
   font-size: 0.875rem;
-  color: #6b7280;
+  color: var(--gray);
   margin-bottom: 1rem;
 }
 
@@ -131,19 +121,18 @@ const TrailHubCSS = `
 
 .trail-card {
   display: block;
-  background: white;
-  border: 1px solid #e5e7eb;
-  border-radius: 0;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
   padding: 1.25rem;
   text-decoration: none;
   color: inherit;
   cursor: pointer;
-  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+  transition: box-shadow 0.15s, transform 0.15s;
 }
 
 .trail-card:hover {
-  border-color: #006B3F;
-  box-shadow: 0 6px 20px rgba(0, 107, 63, 0.12);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   transform: translateY(-2px);
   text-decoration: none;
   color: inherit;
@@ -160,7 +149,7 @@ const TrailHubCSS = `
 .trail-card-name {
   font-size: 1.125rem;
   font-weight: 700;
-  color: #1f2937;
+  color: var(--dark);
   margin: 0;
   flex: 1;
   line-height: 1.4;
@@ -171,9 +160,9 @@ const TrailHubCSS = `
   padding: 0.2rem 0.5rem;
   font-size: 0.7rem;
   font-weight: 600;
-  background: #d1fae5;
-  color: #065f46;
-  border-radius: 0;
+  background: var(--highlight);
+  color: var(--secondary);
+  border-radius: 3px;
   white-space: nowrap;
   flex-shrink: 0;
   letter-spacing: 0.03em;
@@ -182,13 +171,13 @@ const TrailHubCSS = `
 
 .trail-card-stops {
   font-size: 0.875rem;
-  color: #6b7280;
+  color: var(--gray);
   margin: 0 0 0.75rem 0;
 }
 
 .trail-card-description {
   font-size: 0.9375rem;
-  color: #4b5563;
+  color: var(--darkgray);
   line-height: 1.5;
   margin: 0 0 1rem 0;
   display: -webkit-box;
@@ -203,14 +192,14 @@ const TrailHubCSS = `
   gap: 0.25rem;
   font-size: 0.9375rem;
   font-weight: 600;
-  color: #006B3F;
+  color: var(--secondary);
   text-decoration: none;
   min-height: 44px;
   padding: 0.5rem 0;
 }
 
 .trail-card-link:hover {
-  color: #005230;
+  opacity: 0.8;
   text-decoration: underline;
 }
 
@@ -227,17 +216,12 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     <div class={`trail-hub ${displayClass ?? ""}`}>
       <style>{TrailHubCSS}</style>
       
-      <div class="trail-hub-top-row">
-        <input 
-          type="text" 
-          class="trail-hub-search" 
-          placeholder="Search trails..."
-          id="trail-search"
-        />
-        <button class="trail-hub-random" id="random-trail-btn">
-          🎲 Surprise me
-        </button>
-      </div>
+      <input 
+        type="text" 
+        class="trail-hub-search" 
+        placeholder="Search trails..."
+        id="trail-search"
+      />
       
       <div class="trail-hub-categories" id="category-tabs">
         {categories.map(cat => (
@@ -248,6 +232,12 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
             {cat}
           </button>
         ))}
+      </div>
+      
+      <div class="trail-hub-random-wrapper">
+        <button class="trail-hub-random" id="random-trail-btn">
+          🎲 Surprise me
+        </button>
       </div>
       
       <div class="trail-hub-count" id="trail-count">
