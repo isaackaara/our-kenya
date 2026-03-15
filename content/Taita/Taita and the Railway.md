@@ -1,5 +1,3 @@
-# Taita and the Railway
-
 The Uganda Railway (constructed 1896-1901) passed through Taita-Taveta territory, transforming the region's economy and creating new labor demands. The railway was constructed via Voi, a location that would become the major urban center of the region.
 
 ## Route Through Taita Territory
