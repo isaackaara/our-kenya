@@ -1,0 +1,34 @@
+The relationship between [[Daniel arap Moi]] and [[Raila Odinga]] was one of the most complex and consequential in Kenya's political history, evolving from enemy to unlikely ally and back to adversary across three decades. Raila, son of [[Oginga Odinga]], Moi's old political nemesis, inherited both his father's [[Luo]] political base and the burden of being the regime's perpetual suspect. Moi detained Raila multiple times, destroyed his early political career, then briefly co-opted him in the late 1990s, before Raila emerged as a leader of the coalition that finally removed Moi's party from power in 2002. The arc of their relationship maps Kenya's journey from one-party authoritarianism to contested multiparty democracy.
+
+Raila first entered Moi's crosshairs not for his own actions but for his lineage. Oginga Odinga had been [[Jomo Kenyatta]]'s Vice President before breaking with him in 1966 to form the Kenya People's Union, which Kenyatta banned, detained Oginga, and marginalized the Luo community politically. When Moi succeeded Kenyatta in 1978, he initially released Oginga and other political detainees, positioning himself as more tolerant than his predecessor. But the relationship soured quickly; Oginga remained a critic of one-party rule, and Raila, educated as an engineer in East Germany, was suspected of socialist sympathies.
+
+In 1982, following the [[1982 Coup Attempt|August coup attempt]], Raila was arrested despite having no connection to the plotters. He was accused of being a member of Mwakenya, the underground opposition movement, though no evidence was presented. He was [[Detention Without Trial Under Moi|detained without trial]] for six years, first at Kamiti Maximum Prison, then at various detention facilities. The detention destroyed his early career as an engineer and businessman, forcing him into politics when he was finally released in 1988. Moi's treatment of Raila mirrored his treatment of the entire Luo community: collective punishment for perceived disloyalty, regardless of individual culpability.
+
+Raila's political emergence came with the [[Section 2A Repeal 1991|return of multiparty politics]]. He joined the [[FORD Formation|Forum for the Restoration of Democracy (FORD)]], aligning with his father Oginga, who led FORD-Kenya after the split with Kenneth Matiba's FORD-Asili. Raila campaigned as a reformer, drawing on his detention experience to denounce Moi's authoritarianism. In the [[1992 Election and Ethnic Violence|1992 election]], he lost his parliamentary bid in Langata constituency, a defeat widely attributed to rigging and violence. The [[Luo]] community, already marginalized under Moi, faced further exclusion when FORD-Kenya's poor performance left them without significant representation in government.
+
+The relationship took a dramatic turn in 1997. Facing a fractured opposition and donor pressure for reforms, Moi adopted a strategy of co-optation. Raila, who had formed his own party, the National Development Party (NDP), after his father's death in 1994, was approached with an offer: cooperate with Moi's government in exchange for ministerial positions and political rehabilitation. In 2001, NDP formally merged with KANU, and Raila was appointed Minister of Energy. The move shocked many of his supporters, who saw it as a betrayal of his father's legacy and the opposition struggle.
+
+Raila defended the alliance as pragmatic. He argued that working from within KANU, he could influence policy and secure development for [[Luo]] constituencies that had suffered decades of neglect. The partnership delivered some tangible benefits: roads were paved in Nyanza, Raila's political base; Luo politicians received ministerial appointments; and Raila gained national visibility as a potential future leader. But the alliance also damaged his credibility with parts of the opposition, who viewed him as having sold out to the same regime that had detained him.
+
+The alliance was short-lived. By 2002, as Moi prepared to leave office after reaching constitutional term limits, the succession question fractured KANU. Moi endorsed Uhuru Kenyatta, son of Jomo, as his preferred successor, sidelining Raila and other contenders. Raila, recognizing he had no future in a KANU led by Uhuru, defected to the opposition National Rainbow Coalition (NARC), bringing his Luo base with him. His defection was critical to NARC's victory in the [[Elections/2002 Presidential Election|2002 election]], where Mwai Kibaki defeated Uhuru decisively, ending KANU's 39-year rule.
+
+Moi's treatment of Raila over two decades revealed his broader strategy toward the Luo community. He alternated between repression and co-optation, never fully trusting the Luo but recognizing their political importance. Raila's detention in the 1980s was meant to break him; his co-optation in the late 1990s was meant to buy him. Neither strategy fully succeeded. Raila survived, adapted, and ultimately played a central role in ending Moi's political dominance.
+
+For Raila, the relationship with Moi was formative. It taught him that political survival in Kenya required tactical flexibility, that alliances were temporary, and that personal grudges were luxuries opposition politicians could not afford. His willingness to work with Moi in 1997, despite years of persecution, demonstrated a pragmatism that would define his subsequent career. His defection in 2002 showed that pragmatism had limits; when the alliance no longer served his interests or those of his constituents, he abandoned it.
+
+The Moi-Raila relationship also illustrated the limitations of ethnic-based opposition. The Luo, as a minority community (roughly 13% of the population), could not win national elections alone. Raila's path to power required building coalitions with [[Kikuyu]], [[Kalenjin]], and other communities, alliances that were always fragile and contingent. Moi understood this dynamic and exploited it, offering Raila just enough to keep him from uniting with other opposition figures, then withdrawing support when convenient. It was only when Raila joined a broad multi-ethnic coalition in 2002 that he finally helped defeat Moi's legacy.
+
+## See Also
+- [[Detention Without Trial Under Moi]]
+- [[1982 Coup Attempt]]
+- [[FORD Formation]]
+- [[Section 2A Repeal 1991]]
+- [[1992 Election and Ethnic Violence]]
+- [[Elections/2002 Presidential Election]]
+- [[Luo/Luo Political Marginalization Under Moi]]
+- [[Cross-Ethnic/Political Alliances and Betrayals]]
+
+## Sources
+1. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141467/kenya/
+2. Ochieng, Philip. *I Accuse the Press*. East African Educational Publishers, 1992. https://www.africanbookscollective.com/books/i-accuse-the-press
+3. Hornsby, Charles. *Kenya: A History Since Independence*. I.B. Tauris, 2012. https://www.bloomsbury.com/us/kenya-9781848858091/

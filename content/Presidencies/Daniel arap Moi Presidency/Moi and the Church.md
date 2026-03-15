@@ -1,0 +1,32 @@
+The relationship between [[Daniel arap Moi]] and Kenya's mainstream churches was one of the most complex and consequential dynamics of his presidency. Moi cultivated an image as a devout Christian, attending services regularly and invoking God in his speeches, yet he faced persistent opposition from clergy who viewed his authoritarianism, corruption, and human rights abuses as fundamentally un-Christian. The church became one of the few institutions that could challenge Moi publicly and survive, though not without cost.
+
+Moi's Christian identity was central to his political persona. He was a practicing Anglican, attending Kabarak Chapel near his Nakuru home and State House services in Nairobi. He donated generously to church construction projects, hosted clergy at State House, and positioned himself as a defender of Christian values against socialism and moral decay. The [[Nyayo Philosophy]] itself was infused with religious language, framing obedience to the President as obedience to divinely ordained authority. Many clergy, particularly in the [[Kalenjin]] regions where Moi's ethnic base lay, reciprocated with political support, endorsing him from pulpits and discouraging opposition.
+
+But other clergy saw through the performance. The National Council of Churches of Kenya (NCCK), an ecumenical body representing Protestant denominations, became a persistent critic of Moi's regime. Under General Secretary Samuel Kobia in the late 1980s, the NCCK issued pastoral letters condemning [[Detention Without Trial Under Moi|detention without trial]], [[Nyayo House Torture Chambers|torture]], and the [[1982 Constitution Amendment|one-party state]]. These statements, read aloud in churches across the country, reached audiences that government-controlled media could not suppress. Moi's response was to accuse the NCCK of meddling in politics and threaten to de-register it, though he never followed through; shutting down the churches would have provoked international condemnation and domestic unrest.
+
+Individual bishops and clergy paid higher prices for their dissent. Anglican Bishop [[Henry Okullu]] of Maseno, a [[Luo]] from western Kenya, was one of the most vocal critics, publishing essays and delivering sermons that called Moi's regime tyrannical. Okullu faced surveillance, death threats, and was briefly detained. His courage inspired other clergy but also marked him for permanent state hostility. Presbyterian minister [[Timothy Njoya]], who led the All Africa Conference of Churches, was even more confrontational, organizing protests and writing open letters demanding constitutional reforms. Njoya survived multiple assassination attempts, including a 1995 attack where assailants broke into his church office and beat him nearly to death.
+
+The [[Moi and the Catholic Church|Catholic Church]] presented a different challenge. Catholic bishops, less dependent on government goodwill than some Protestant denominations, issued some of the harshest critiques of Moi's rule. Archbishop [[Raphael Ndingi Mwana'a Nzeki]] of Nairobi and Bishop [[Alexander Muge]] of Eldoret both preached against corruption and ethnic violence. Muge's case became especially notorious; after publicly accusing a government minister of planning ethnic clashes in the [[1992 Election and Ethnic Violence|Rift Valley]], Muge received death threats. In August 1990, his car was struck by a truck in what was officially ruled an accident but widely believed to be an assassination. His funeral became a mass protest, with thousands condemning the regime.
+
+The churches also provided practical support to victims of Moi's repression. They documented human rights abuses through church-affiliated organizations like the Catholic Justice and Peace Commission. They provided legal aid to political prisoners and their families. They sheltered activists fleeing arrest and offered platforms for opposition voices when public meetings were banned. The NCCK's offices in Nairobi became a de facto safe space where journalists, lawyers, and activists could meet without immediate fear of [[Moi and the GSU|GSU raids]].
+
+Yet the church's resistance was not uniform. Evangelical denominations, particularly Pentecostal churches that grew rapidly in the 1980s and 1990s, largely avoided politics or actively supported Moi. Moi reciprocated by granting these churches land, broadcast licenses, and access to state functions. The prosperity gospel preached by some of these churches aligned well with Moi's patronage system: loyalty brought material blessings, and questioning authority was framed as unbiblical. The division between mainline churches and newer evangelical movements reflected broader class and ethnic fractures in Kenyan society.
+
+The return of [[Section 2A Repeal 1991|multiparty politics in 1991]] owed much to church pressure. The NCCK, alongside international donors, made the case that Kenya's human rights record was incompatible with continued aid. Clergy organized the "mother of all rallies" at Uhuru Park in 1991, defying a government ban and drawing tens of thousands in support of democratic reforms. Moi, facing both domestic and international pressure, relented. The churches had not overthrown him, but they had constrained him in ways no other institution managed.
+
+The Moi era left a complicated legacy for the church. It demonstrated that moral authority could challenge political power, but also that such challenges came at great personal cost. Clergy who stood against Moi paid with their lives, their freedom, or years of harassment. The institutional church survived, but its internal divisions over how to engage with power persisted long after Moi left office.
+
+## See Also
+- [[Moi and the Catholic Church]]
+- [[Detention Without Trial Under Moi]]
+- [[Nyayo House Torture Chambers]]
+- [[Section 2A Repeal 1991]]
+- [[1992 Election and Ethnic Violence]]
+- [[Nyayo Philosophy]]
+- [[Cross-Ethnic/Religious Leaders and Political Resistance]]
+- [[Luo/Luo Church Leaders]]
+
+## Sources
+1. Gifford, Paul. *Christianity, Politics and Public Life in Kenya*. Hurst & Company, 2009. https://www.hurstpublishers.com/book/christianity-politics-and-public-life-in-kenya/
+2. Sabar-Friedman, Galia. "Church and State in Kenya, 1986-1992: The Churches' Involvement in the 'Game of Change'." *African Affairs* 96, no. 382 (1997): 25-52. https://www.jstor.org/stable/723609
+3. Murunga, Godwin R., and Shadrack W. Nasong'o, eds. *Kenya: The Struggle for Democracy*. Zed Books, 2007. https://www.bloomsbury.com/us/kenya-9781842778043/

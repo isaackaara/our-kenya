@@ -1,0 +1,34 @@
+The repeal of Section 2A of the Constitution on December 10, 1991, which re-legalized multiparty politics in Kenya after nine years of official one-party rule, was not a voluntary democratic opening by [[Daniel arap Moi]] but a concession extracted through a combination of international donor pressure and relentless domestic opposition. The repeal did not transform Kenya into a democracy overnight; Moi would remain president for another eleven years, winning two deeply flawed multiparty elections. But it marked the beginning of the end of unchallenged authoritarianism, opening political space that opposition forces would exploit to eventually force Moi from power in 2002.
+
+By 1990, the global context had shifted decisively against one-party rule. The Cold War was ending, the Berlin Wall had fallen, and Western donors who had tolerated African dictatorships as anti-communist allies were now demanding political and economic reforms. Kenya, heavily dependent on foreign aid, faced unprecedented pressure. In November 1991, donor nations meeting in Paris suspended over $350 million in aid to Kenya, citing corruption, human rights abuses, and the lack of political pluralism. The suspension was coordinated, involving the United States, Britain, Germany, and multilateral institutions like the World Bank and IMF. Moi, who had dismissed calls for multiparty democracy as neocolonial interference, faced a fiscal crisis that could collapse his government.
+
+Domestically, opposition to one-party rule had been building for years. The [[Moi and the Church|churches]], particularly the National Council of Churches of Kenya (NCCK) and individual bishops like Henry Okullu and Alexander Muge, had issued pastoral letters condemning authoritarianism. Lawyers, including Paul Muite and Gibson Kamau Kuria, had defended political prisoners and publicly called for constitutional reform. [[Moi and the Universities|University students]] organized protests despite [[Moi and the GSU|GSU violence]] and campus closures. Underground publications circulated critiques of the regime, and exiled intellectuals broadcast opposition messages via international radio.
+
+The formation of the Forum for the Restoration of Democracy (FORD) in August 1991 crystallized this opposition. FORD brought together [[Kikuyu]] elites like Kenneth Matiba and Charles Rubia, [[Luo]] leaders like [[Moi and Raila Odinga|Raila Odinga]] (son of the late Oginga Odinga), and [[Luhya]] politicians like Masinde Muliro. FORD's founding rally at Kamukunji grounds in Nairobi, planned for August 1991, was banned by the government, and the organizers were arrested and detained. But the idea had taken hold; Kenyans across ethnic and class lines were demanding the right to choose their leaders.
+
+Moi resisted for months, denouncing multipartyism as tribalism in disguise and warning that it would lead to ethnic violence. His rhetoric had a basis in reality; Kenya's ethnic divisions were real, and Moi knew that opening multiparty competition could fracture his ruling coalition. But the aid suspension left him with no fiscal room to maneuver. Government operations depended on donor support, and without it, salaries could not be paid, infrastructure would collapse, and economic crisis would destabilize his rule more certainly than political liberalization.
+
+On December 2, 1991, Moi convened a special KANU delegates conference at Kasarani Stadium in Nairobi. He announced that KANU would propose repealing Section 2A, allowing the formation of opposition parties. The announcement was framed as Moi's magnanimity, a gift to the Kenyan people, rather than a forced concession. On December 10, parliament passed the amendment with minimal debate. Opposition parties were suddenly legal again, ending the one-party era that had begun with the [[1982 Constitution Amendment]].
+
+The immediate consequences were chaotic. Opposition parties proliferated; FORD itself split into FORD-Kenya and FORD-Asili within months, divided by ethnic and personal rivalries. Moi, a master tactician, exploited these divisions, positioning himself as the only leader who could prevent ethnic fragmentation. KANU retained control of state resources, the provincial administration, the security services, and KBC, giving Moi massive advantages in the [[1992 Election and Ethnic Violence|1992 multiparty elections]].
+
+The violence that Moi had predicted, and arguably orchestrated, materialized. In the Rift Valley, [[Kalenjin]] warriors attacked [[Kikuyu]], [[Luo]], and [[Luhya]] farmers in what was framed as ethnic conflict but widely understood as state-sponsored voter displacement. Thousands were killed, hundreds of thousands displaced, creating a humanitarian crisis that overshadowed the democratic opening. Moi won the 1992 election with 36% of the vote, a plurality in a fractured field, proving that multiparty politics did not automatically mean losing power.
+
+Yet the repeal of Section 2A was consequential in the long term. It legitimized opposition organizing, created space for independent media to expand, and allowed civil society to operate more openly. The legal framework for authoritarianism remained largely intact, [[Detention Without Trial Under Moi|detention laws]], sedition statutes, control of the provincial administration, but the political culture began to shift. Kenyans who had known only one-party rule experienced competitive elections, flawed as they were. A generation of opposition politicians gained experience that would prove critical in the [[Elections/2002 Presidential Election|2002 election]] that finally removed Moi from power.
+
+The Section 2A repeal was not the triumph of democracy over dictatorship; it was a tactical retreat by a dictator who understood when he had no choice. Moi's genius was recognizing that he could concede the form of multiparty politics while retaining the substance of power. But the space opened in 1991, narrow as it was, proved impossible to fully close. The opposition, fragmented and defeated in 1992, learned, regrouped, and eventually won. December 10, 1991, was not the day Kenya became democratic, but it was the day when that possibility became thinkable again.
+
+## See Also
+- [[1982 Constitution Amendment]]
+- [[FORD Formation]]
+- [[1992 Election and Ethnic Violence]]
+- [[Moi and the Church]]
+- [[Moi and Kenneth Matiba]]
+- [[Moi Foreign Policy]]
+- [[Elections/2002 Presidential Election]]
+- [[Cross-Ethnic/Multiparty Politics and Ethnic Division]]
+
+## Sources
+1. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctt1xhr73
+2. Murunga, Godwin R., and Shadrack W. Nasong'o, eds. *Kenya: The Struggle for Democracy*. Zed Books, 2007. https://www.bloomsbury.com/us/kenya-9781842778043/
+3. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141467/kenya/

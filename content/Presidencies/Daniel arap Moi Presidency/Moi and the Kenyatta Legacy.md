@@ -1,0 +1,32 @@
+[[Daniel arap Moi]]'s relationship with the [[Jomo Kenyatta]] legacy was a delicate balancing act: invoking Kenyatta's name to legitimize his rule while systematically dismantling the Kikuyu political and economic dominance that Kenyatta had built. Moi kept Kenyatta's symbolic architecture intact, the monuments, the annual commemorations, the rhetoric of continuity, but he redirected the substance of power away from the [[Kikuyu]] elite toward his own [[Kalenjin]] base. How Moi managed this transition, his interactions with the Kenyatta family, and the political consequences of his selective inheritance reveal the complexity of post-founding-father governance.
+
+The [[Nyayo Philosophy]], Moi's governing ideology, was explicitly framed as walking in Kenyatta's "footsteps." Moi's early speeches as President emphasized continuity, promising to uphold Kenyatta's policies of capitalist development, pro-Western alignment, and national unity. State media broadcast documentaries celebrating Kenyatta's achievements. Kenyatta Day, a national holiday, remained a centerpiece of the political calendar, with Moi delivering speeches that praised the founding father's vision. The physical symbols persisted: Kenyatta International Airport, Kenyatta University, Kenyatta Avenue, the Kenyatta International Conference Centre. Moi added to the iconography, commissioning a mausoleum for Kenyatta's remains and statues in Nairobi and Nakuru.
+
+Beneath the symbolism, Moi was dismantling the Kenyatta system. Kenyatta had governed through a [[Kikuyu]] inner circle, allocating land, state contracts, and political positions to Kikuyu elites from his home region of Kiambu. Moi replaced this with a [[Moi and the Kalenjin|Kalenjin-centered patronage network]]. Key Kikuyu figures who had dominated under Kenyatta were sidelined or destroyed. The [[Moi and the Njonjo Affair|Njonjo Affair]] was the most dramatic example: Charles Njonjo, Kenyatta's Attorney General and the man who had facilitated Moi's constitutional succession, was publicly humiliated and expelled from politics in 1983. Other Kikuyu politicians, such as Kenneth Matiba and Charles Rubia, were detained or marginalized when they challenged Moi's authority.
+
+The Kenyatta family itself navigated this new reality with caution. Mama Ngina Kenyatta, Jomo's widow, retained vast landholdings and business interests but withdrew from overt political activity. Moi treated her with public respect, inviting her to state functions and ensuring she faced no legal challenges to her property. The unspoken arrangement was mutual non-interference: the Kenyatta family would not challenge Moi politically, and Moi would not pursue the land and wealth they had accumulated under Jomo's presidency. This détente held for most of Moi's tenure, though it frayed in the 1990s as political liberalization created space for Kikuyu opposition.
+
+Uhuru Kenyatta, Jomo's son, presented a unique case. Moi initially ignored him, allowing Uhuru to pursue business interests without political involvement. But in the late 1990s, as Moi faced pressure to name a successor, he groomed Uhuru as a presidential candidate. This was partly strategic: Uhuru's Kenyatta name could attract Kikuyu votes while Uhuru's youth and political inexperience made him controllable. Moi appointed Uhuru to parliament, then to the Cabinet, and finally endorsed him as KANU's presidential candidate in the [[Elections/2002 Presidential Election|2002 election]]. The gambit failed; Uhuru lost badly to Mwai Kibaki, and the Moi-Kenyatta alliance dissolved.
+
+Economically, Moi kept some Kenyatta-era structures while redirecting their benefits. The coffee and tea marketing boards, which had enriched Kikuyu farmers under Kenyatta, remained but were restructured to favor [[Kalenjin]] and other allied communities. The [[Moi and Harambee|harambee system]], Kenyatta's signature development model, was expanded but weaponized into a political fundraising machine. State-owned enterprises that had been sites of Kikuyu patronage under Kenyatta became sites of Kalenjin patronage under Moi. The form persisted; the beneficiaries changed.
+
+Culturally, Moi maintained Kenyatta's nation-building rhetoric while subtly undermining it. Kenyatta had promoted a vision of Kenya as a multiethnic nation where ethnic identity was subordinate to national identity. Moi continued this rhetoric publicly but practiced ethnic favoritism so blatantly that it eroded the very national cohesion he claimed to uphold. The [[1992 Election and Ethnic Violence|ethnic violence of the 1990s]], where Kalenjin warriors attacked Kikuyu farmers in the Rift Valley, was a direct repudiation of Kenyatta's vision, even as Moi continued to invoke Kenyatta's name.
+
+By the end of Moi's presidency, the Kenyatta legacy was a contested terrain. Kikuyu politicians who had suffered under Moi reclaimed Kenyatta as a symbol of Kikuyu rights and criticized Moi as having betrayed the founding father's vision. Kalenjin politicians defended Moi's record, arguing that he had corrected Kenyatta's ethnic favoritism and given marginalized communities their due. Both sides instrumentalized Kenyatta's memory for contemporary political purposes, a pattern that would continue long after Moi left office.
+
+What Moi kept from Kenyatta was the authoritarian playbook: detention without trial, control of the judiciary, manipulation of the constitution, and the use of state violence against dissent. What he changed was the ethnic coalition that benefited. Moi did not reject the Kenyatta legacy; he adapted it, keeping the structures of power while redirecting them to serve a different community. The result was not a break from the past but a continuation of patronage politics under new management.
+
+## See Also
+- [[Moi Succession 1978]]
+- [[Nyayo Philosophy]]
+- [[Moi and the Njonjo Affair]]
+- [[Moi and the Kalenjin]]
+- [[Kikuyu/Kikuyu Elite Under Moi]]
+- [[Kalenjin/Kalenjin Ascendancy Post-Kenyatta]]
+- [[Elections/2002 Presidential Election]]
+- [[Cross-Ethnic/Ethnic Power Transitions]]
+
+## Sources
+1. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141467/kenya/
+2. Hornsby, Charles. *Kenya: A History Since Independence*. I.B. Tauris, 2012. https://www.bloomsbury.com/us/kenya-9781848858091/
+3. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctt1xhr73
