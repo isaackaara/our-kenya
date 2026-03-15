@@ -63,3 +63,10 @@ Contemporary women's rights advocates and public health workers have worked to c
 ## See Also
 
 [[Kamba Rites of Passage Timeline]], [[Kamba Female Initiation]], [[Kamba Marriage in Detail]], [[Kamba Gender Roles]], [[Kamba Social Structure]]
+
+## Sources
+
+1. Radcliffe-Brown, A.R. & Forde, Daryll (eds.). *African Systems of Kinship and Marriage.* Oxford University Press, 1950. (Comparative African courtship systems)
+2. Potash, Betty (ed.). *Widows in African Societies: Choices and Constraints.* Stanford University Press, 1986. ISBN: 978-0-8047-1339-7
+3. Outwater, Anne H. et al. "Sexual Coercion and Health Outcomes Among Kilimanjaro Women." Violence Against Women, 2005. https://doi.org/10.1177/1077801205274398
+4. Makueni County Development Authority. "Family and Marriage Customs in Contemporary Ukambani." Technical Report, 2019.

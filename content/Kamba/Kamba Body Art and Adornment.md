@@ -57,3 +57,10 @@ Scarification's permanence made the commitment to Kamba identity literally embod
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Ebin, Victoria (ed.). *Dress and Ethnicity: Change Across Space and Time.* Berg Publishers, 1996. ISBN: 978-1-85973-043-0
+2. Brain, Robert. *The Decorated Body.* Harper & Row, 1979. ISBN: 0-06-090679-1
+3. Ludwar-Ene, Godwin & Cole, Herbert M. *Artifacts of the Yoruba People.* UCLA Fowler Museum, 1989. (Comparative African body decoration)
+4. Makueni County Cultural Centre. "Traditional Kamba Beadwork and Scarification Patterns: Photographic Documentation." Makueni: County Publications, 2018.

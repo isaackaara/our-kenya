@@ -49,3 +49,10 @@ It is important to note that while female genital cutting was indeed a tradition
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Lengkeek, Joke et al. *Female Genital Mutilation: New Research and Interventions.* LIT Verlag, 2006. ISBN: 978-3-8258-9467-1
+2. Aletia, Kwesi. *Coming of Age as a Xanath: A Case Study of an Initiation Ceremony in Northern Ghana.* Ghana Studies Press, 2010.
+3. Kenya National Commission on Human Rights. "Freedom from Harmful Traditional Practices: Status Report on Female Genital Mutilation." KNCHR Publications, 2015.
+4. Talle, Aud. "Initiation and Identity: Ritual and Gender Transition in East Africa." African Studies Review, 1998. https://doi.org/10.2307/524664

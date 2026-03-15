@@ -91,3 +91,10 @@ Some contemporary Kamba healers have attempted to legitimize traditional medicin
 ## See Also
 
 [[Kamba Religion and Cosmology]], [[Kamba Sacred Sites]], [[Kamba Supreme Being Deep Dive]], [[Kamba Death and Burial]], [[Kamba and Healthcare Systems]]
+
+## Sources
+
+1. Etkin, Nina L. & Ross, Paul J. (eds.). *Plants, Healers and Humans: Ethnobotany in the Work of Nina L. Etkin.* Springer, 2006. ISBN: 978-0-387-33883-6
+2. Hsu, Elisabeth & Harris, Stephanie R. (eds.). *Healing, Culture and Belief: Therapeutic Practice in Cross-Cultural Perspectives.* Berghahn Books, 2007. ISBN: 978-1-84545-368-2
+3. Kenya Traditional Healers Association. "Documentation of Kamba Medicinal Plants and Traditional Healing Practices." KTHA Archives, 2012.
+4. Muthiani, John. *Akamba Health and Medicine in the Era of Biomedicine.* East African Educational Publishers, 1999. ISBN: 9966-25-089-4

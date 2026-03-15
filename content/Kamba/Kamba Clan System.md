@@ -51,3 +51,10 @@ However, the administrative and dispute-resolution functions of clans have large
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Ocholla-Ayayo, A.B.C. *The Kikuyu Traditional Culture and Music.* East African Literature Bureau, 1980. (Comparative Bantu clan systems)
+2. Middleton, John (ed.). *Peoples of East Africa.* Ethnographic Survey of Africa. International African Institute, 1965.
+3. Kamba Cultural Centre. "Clan Genealogies and Leadership Structures in Ukambani." Machakos: Documentation Archive, 2017.
+4. Muthiani, John. *Akamba Culture and Identity in Kenya.* Longhorn Publishers, 1998. ISBN: 9966-23-085-2

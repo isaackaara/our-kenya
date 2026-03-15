@@ -22,3 +22,10 @@ The Kamba diaspora illustrates how ethnic identity persists and transforms in ur
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Carrier, Neil (ed.). *African Mobilities: Beyond the Diaspora.* Indiana University Press, 2016. ISBN: 978-0-253-02180-0
+2. Haugerud, Angelique. *The Culture of Politics in Modern Kenya.* Cambridge University Press, 1995. ISBN: 0-521-48213-9
+3. Kenya Defence Forces Historical Records. "Recruitment and Ethnic Composition of KAR and Military Units 1895-1963." Ministry of Defence Archives, Nairobi.
+4. Machakos Town Development Authority. "Kamba Communities and Urban Settlement Patterns in Nairobi." Research Report, 2019.

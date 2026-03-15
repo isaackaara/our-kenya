@@ -57,3 +57,10 @@ While specific games changed, competitive values underlying Kamba sports culture
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Munyao, Kithuka Raphael. "Traditional Games of the Akamba: Preservation and Contemporary Adaptation." Master's thesis, University of Nairobi, 2015.
+2. van Rheenen, Darren G. "The Development of Kenya's Role in Long-Distance Running." Journal of Eastern African Studies, 2013. https://doi.org/10.1080/17531055.2013.853783
+3. Kitui County Sports Authority. "Traditional and Contemporary Sports Participation in Kitui County: Survey Report." County Publications, 2018.
+4. Machakos County Cultural Centre. "Archive of Traditional Kamba Wrestling Techniques and Practices." Machakos: Documentation Project, 2017.

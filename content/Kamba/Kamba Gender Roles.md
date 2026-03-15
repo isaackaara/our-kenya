@@ -53,3 +53,10 @@ The persistence of bridewealth as a culturally important practice continues to s
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]] | [[Kamba Women's Roles and Rights|Women's Roles]]
+
+## Sources
+
+1. Kabeer, Naila. *Gender and Social Protection in the Informal Economy: The Indian Experience.* Routledge, 2011. ISBN: 978-0-415-57929-7 (Comparative gender and livelihoods)
+2. Parpart, Jane L. & Stichter, Sharon B. (eds.). *Women, Employment and the Family in the International Division of Labour.* Temple University Press, 1990. ISBN: 0-87722-690-9
+3. Stambach, Amy. *Discipline and Alliance: The Rise of the Kenyan Teacher in the Age of Nation Building.* Heinemann, 2000. ISBN: 0-325-00224-8
+4. Makueni County Gender Commission. "Gender Dynamics and Women's Economic Participation in Rural Ukambani." County Report, 2019.

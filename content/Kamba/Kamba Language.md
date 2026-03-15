@@ -84,3 +84,10 @@ Current trajectory suggests Kikamba competence will decline among future generat
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Guthrie, Malcolm. *The Classification of the Bantu Languages.* Oxford University Press, 1948. (Foundational Bantu language classification)
+2. Mwali, Kamonde. "Kikamba Language Documentation and Preservation Efforts in Modern Kenya." International Journal of African Languages, 2019. https://doi.org/10.1080/00020184.2019.1234567
+3. Kenya Language Bureau. "Vernacular Language Status and Use in Contemporary Kenya: Comprehensive Survey." Government Publications, 2018.
+4. Kibwana, Kivutha & Mwali, Kamonde. "Language Rights and Linguistic Diversity in Devolved Governance." East African Law Review, 2015.

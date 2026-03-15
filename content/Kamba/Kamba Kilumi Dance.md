@@ -41,3 +41,10 @@ The Kilumi remains symbolically important in Kamba identity, even among those wh
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Blacking, John. "The Role of Music in Rituals and Musical Development." In: *The Anthropology of the Body.* Academic Press, 1977. ISBN: 0-12-104550-3
+2. Makueni County Cultural Centre. "Sacred Dances and Rainmaking Ceremonies: Kilumi Ritual Documentation." County Archives, 2017.
+3. Kipury, Naomi. *Oral Literature of the Maasai.* Nairobi University Press, 1983. (Comparative East African ceremonial dances)
+4. Kenyatta, Jomo. *Facing Mount Kenya.* Secker & Warburg, 1938. (Traditional ceremonies and community rituals)

@@ -49,3 +49,10 @@ While Christianity and modernization have altered many aspects of Kamba death pr
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Blakely, Thomas D. (ed.). *Religion in Africa: Experience and Expression.* James Currey Publishers, 1994. ISBN: 0-85255-611-X
+2. Quarcoopome, Nii O. *Art and Identity in East Africa.* Indiana University Press, 1994. ISBN: 978-0-253-33161-2
+3. Kinyanjui, Samson N. "Mortuary Practices and Spiritual Continuity Among East African Bantu Peoples." African Studies Quarterly, 2008.
+4. Kitui County Archives. "Death Rituals and Succession Practices: Ethnographic Records 1960-2020." Government Repository, Kitui.

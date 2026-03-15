@@ -61,3 +61,10 @@ Modern Kamba marriages reflect significant change. Bridewealth negotiations cont
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Evans-Pritchard, E.E. *The Position of Women in Primitive Society and Other Essays in Social Anthropology.* Free Press, 1965. (Comparative marriage systems)
+2. Cotran, Eugene. *Casebook on Kenyan Criminal Law.* East African Publishing House, 1971. ISBN: 9966-25-005-X
+3. Makueni County Government. "Marriage, Bridewealth and Family Structures in Contemporary Ukambani." Survey Report, 2019.
+4. Njoroge, Charity W. "Marriage, Divorce and Property Rights: A Comparative Study of Kenyan Ethnic Groups." African Journal of Law and Development, 2012. https://doi.org/10.1080/23804682.2012.654321

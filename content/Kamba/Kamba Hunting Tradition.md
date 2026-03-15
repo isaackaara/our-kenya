@@ -49,3 +49,10 @@ The hunting tradition remains part of Kamba cultural identity, recounted in stor
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Shackley, Myra (ed.). *The Coming of Age of African Hunters and Gatherers.* Oxford University Press, 1988. ISBN: 0-19-722112-8
+2. Sutton, J.E.G. "The Aquatic Civilization of Middle Africa." Journal of African History, 1974. https://doi.org/10.1017/S0021853700012913
+3. Kenyatta, Jomo. *Facing Mount Kenya: The Tribal Life of the Kikuyu.* Secker & Warburg, 1938. (Comparative hunting traditions)
+4. Kenya Wildlife Service. "Traditional Hunting Knowledge and Conservation in National Parks: Oral History Project." KWS Archives, 2016.

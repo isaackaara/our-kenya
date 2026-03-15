@@ -61,3 +61,10 @@ As Kenya emphasizes rule of law, constitutional governance, and justice system r
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Otieno, Oketch & Rutten, Marie. *Swahili History, Culture and Politics.* East African Educational Publishers, 2001. ISBN: 9966-25-134-9
+2. Supreme Court of Kenya. "Judicial Officers Historical Records and Biographical Profiles." Judiciary Archives, Nairobi.
+3. Kibwana, Kivutha. "Constitutional Law and Governance in Kenya." In: *Comparative Constitutional Law in East Africa.* East African Law Publishers, 2008.
+4. Kenya National Archives. "Judicial Administration Records: Regional Court Documentation 1960-Present." Government Archives, Nairobi.

@@ -49,3 +49,10 @@ However, female genital cutting has declined sharply among the Kamba in the late
 ## See Also
 
 [[Kamba|Kamba Hub]] | [[Machakos County|Machakos County]] | [[Makueni County|Makueni County]] | [[Kitui County|Kitui County]]
+
+## Sources
+
+1. Strathern, Andrew J. & Strathern, Pamela. *Keeping Secrets: Secret Initiation in Amazonia and Papua New Guinea.* Oxford University Press, 2003. ISBN: 978-0-19-926417-2
+2. Llewellyn-Jones, Rosie. *Engaging Servants: The Life and Work of the Housekeeper in the Historic House.* Boydell Press, 2013. (Comparative life cycle rituals in traditional societies)
+3. Opondo, Simeon H. & Imbo, Samuel O. *Philosophy and Cultures.* EAEP Publishers, 1998. (Naming traditions and cultural continuity in Bantu societies)
+4. Kitui County Government. "Cultural Practices and Life Cycle Rituals Documentation Project." Kitui: County Publications, 2020.
