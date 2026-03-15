@@ -1,27 +1,39 @@
 # Embu County Climate Change
 
-Rainfall changes on the mountain in Embu County, addressing the unique challenges and opportunities of this remote northeastern Kenyan region.
+Embu County faces increasingly severe climate variability and long-term climate change impacts that threaten the agricultural systems upon which the county's economy and food security depend. Scientists observing long-term climate records document increasing rainfall unpredictability, shifting seasonal precipitation patterns, lengthening dry periods, and temperature increases that are disrupting the climatic stability that historically enabled Embu's prosperous and diverse agricultural production. These climate changes interact with land-use changes, population pressure, and existing resource management challenges to create complex threats that require adaptive responses across agricultural systems, water management, and livelihood strategies.
 
-## Context in Embu
+The most immediately visible climate change impact is increasing rainfall variability. Historical rainfall records show that while average annual precipitation has remained relatively stable over the past fifty years, the distribution of rainfall within seasons has become increasingly erratic. Droughts that historically occurred every seven to ten years have increased in frequency, with significant drought events occurring in 2016-2017, 2018-2019, and threats of recurrence in subsequent years. These droughts are more severe than those occurring in the pre-1990s period, with longer duration and greater spatial extent. Multi-year droughts create cascading impacts including crop failure, livestock mortality, water scarcity, and household food insecurity.
 
- County Climate Change represents a crucial element of Embu County's development landscape. The county faces distinctive challenges related to its position as a tri-border region where Kenya, Somalia, and Ethiopia converge.
+The precipitation patterns that define Embu's agricultural systems are shifting, creating uncertainty for farming communities dependent on traditional seasonal calendars for planning agricultural activities. The long rains, historically concentrated from March through May, have become less predictable in both timing and intensity. Late onset of rains delays planting activities, reducing the growing period available for crops before the dry season. Early cessation of rains before crops mature reduces yields and sometimes results in total crop loss. The short rains from October through December show even greater variability, with multiple years of near-total failure recorded in recent decades. These seasonal disruptions force farmers to shift planting dates based on observed weather patterns rather than traditional calendars, but modern rainfall patterns are sufficiently variable that traditional observation techniques become unreliable.
 
-## Key Aspects
+Temperature changes across Embu County are being documented through weather station records showing average temperature increases of approximately 0.1 to 0.2 degrees Celsius per decade over the past fifty years. These temperature increases are more pronounced in higher-elevation zones and during daytime hours compared to nighttime minimum temperatures. For agricultural systems, temperature increases alter the phenology of crops and livestock, shifting flowering and development times. Tea production requires specific temperature ranges for optimal leaf chemistry, and consistent warming may gradually shift suitable tea-growing zones upslope, potentially reducing the geographic area suitable for commercial tea production over decades. Coffee production is similarly sensitive to temperature, with increasing temperatures potentially stressing coffee plants adapted to cooler conditions.
 
-The development of embu county climate change in Embu reflects broader patterns in Kenya's arid and semi-arid regions, with specific manifestations in this historically marginalized county.
+The combined effects of rainfall variability and temperature increases are reducing water availability in Embu County through multiple mechanisms. Glaciers on [[Mount Kenya]] have retreated substantially, reducing the volume of year-round water emerging from high-altitude zones that traditionally supplied permanent springs feeding streams and groundwater. Extended dry seasons with higher temperatures increase evaporation from soil and surface water, reducing water availability to plants and animals. Groundwater recharge has declined in some areas due to reduced infiltration when rainfall is concentrated in intense but short rainy periods rather than distributed gradually. Shallow wells and boreholes have failed during extended droughts when water tables drop below previously reliable depths.
 
-## Contemporary Status
+These water stress impacts create cascading effects for Embu's agricultural systems. High-altitude tea production depends on year-round water availability from the relatively cooler, wetter climate of upper elevations, and water stress threatens production sustainability. Coffee production in mid-altitude zones requires specific soil moisture conditions during critical growth stages, and increasing dry season length reduces production reliability. Dairy farming, which has expanded significantly in recent decades, requires consistent water for both livestock consumption and forage crop irrigation, and water scarcity limits dairy herd productivity and milk marketing reliability. Irrigation agriculture in lower elevations depends on water from permanent springs and rivers increasingly subject to seasonal flow reductions.
 
-As of 2026, embu county climate change remains a significant concern and development priority in Embu County, with ongoing efforts to address challenges and build resilience.
+Livestock production faces direct and indirect climate change impacts. During drought periods, reduced pasture availability forces farmers to reduce herd sizes, sell animals prematurely at low prices, or watch animals die from starvation and thirst. Increased temperatures expand the geographic range of tick-borne disease vectors, extending periods when livestock diseases including East Coast fever present management challenges. The stress of drought combined with disease pressure creates conditions for livestock mortality events that can devastate pastoral communities in the lower-elevation Mbeere zones more dependent on livestock production.
+
+Crop disease and pest pressures are shifting in response to climate changes. Warmer temperatures may enable pests and disease organisms to persist year-round in some areas previously too cool to support them, requiring farmers to invest more in pest management. Coffee leaf rust and other coffee diseases show increased pressure in some areas. Specific crop varieties that thrived under historical climate conditions may become less suited to warming conditions, requiring introduction of new varieties adapted to warmer temperatures.
+
+Household food security has been compromised during drought years when agricultural production fails to meet subsistence needs and income from cash crops becomes unavailable. Food-purchasing households lack the income to purchase sufficient food when production fails, creating malnutrition and food insecurity. Adolescent enrollment in school has declined in drought years when families prioritize food consumption over education expenses. Health outcomes deteriorate during droughts due to malnutrition, water scarcity affecting hygiene, and disease prevalence increases.
+
+The Embu county government has begun developing climate adaptation strategies including promotion of drought-tolerant crop varieties, water harvesting infrastructure including farm ponds and sand dams for dry season water storage, and diversification of livelihood sources to reduce dependence on rain-fed agriculture. Farmer training in climate-smart agriculture practices including mulching, minimum tillage, and improved manure use is expanding. Some farmer groups are experimenting with crop and livestock combinations specifically selected for climate resilience. Early warning systems providing weather forecasts and drought predictions are improving farmers' ability to plan agricultural activities with better information.
+
+International development organizations have provided funding for climate adaptation projects in Embu, supporting irrigation development, improved water management, and livelihood diversification. Research institutions are developing crop varieties specifically selected for improved performance under warmer, drier conditions expected in future decades. The Kenya Meteorological Department provides seasonal climate forecasts that inform agricultural extension advice to farmers. However, the magnitude of potential climate change impacts may exceed the adaptive capacity of current strategies if temperature increases and rainfall variability continue to accelerate.
 
 ## See Also
 
-- [[Embu County]]
-- [[../../Somali/Somali]]
-- [Embu related notes]
+- [[Embu County Climate]]
+- [[Embu County Agriculture]]
+- [[Mount Kenya]]
+- [[Embu County Water]]
+- [[Embu County Dairy]]
+- [[Embu County Coffee]]
+- [[Embu County Tea]]
 
 ## Sources
 
-1. [Embu County Government Documentation](https://www.embu.go.ke)
-2. [Kenya National Bureau of Statistics - Embu County Data](https://www.knbs.or.ke)
-3. [International Development Organization Reports](https://www.undp.org)
+1. [Kenya Meteorological Department - Long-term Climate Analysis](https://www.meteo.go.ke/)
+2. [Intergovernmental Panel on Climate Change - East Africa Climate Report](https://www.ipcc.ch/)
+3. [World Bank Climate Change Study Kenya](https://www.worldbank.org/)
