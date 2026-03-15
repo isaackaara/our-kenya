@@ -1,6 +1,6 @@
 # Anti-Poaching Technology
 
-Modern conservation increasingly employs advanced technology to detect and prevent poaching. Drones, camera traps, GPS tracking, artificial intelligence, and satellite monitoring provide tools for wildlife protection that enhance ranger effectiveness and provide data for adaptive management. Technology-enabled conservation represents an emerging frontier in wildlife protection, though effectiveness depends on adequate human resources and implementation.
+Modern [[Conservation|conservation]] increasingly employs advanced technology to detect and prevent [[Poaching|poaching]]. [[Drones and Aerial Surveillance|Drones]], [[Camera Traps|camera traps]], [[GPS Tracking|GPS tracking]], [[Artificial Intelligence|artificial intelligence]], and [[Satellite Monitoring|satellite monitoring]] provide tools for [[Wildlife Protection|wildlife protection]] that enhance [[Rangers|ranger]] effectiveness. Technology-enabled conservation represents an emerging frontier in [[Wildlife Protection|protection]], though effectiveness depends on adequate human resources, [[Ranger Equipment|equipment]], and implementation alongside [[Community Engagement|community engagement]].
 
 ## Drones and Aerial Surveillance
 
@@ -69,6 +69,16 @@ Technology-enabled anti-poaching systems are most effective when combined with c
 ## Future Developments
 
 Emerging technologies including advanced AI, satellite imaging, and autonomous systems promise further enhancement of anti-poaching effectiveness. However, poachers also adapt to technology, creating ongoing arms race between conservation and illegal wildlife exploitation.
+
+## See Also
+
+- [[Kenya Wildlife Service]]
+- [[Ranger Equipment and Field Tools]]
+- [[Forensic Technology and Wildlife Crime]]
+- [[SMART Technology and Patrol Analytics]]
+- [[Community Engagement in Anti-Poaching]]
+- [[21st Century Poaching]]
+- [[Conservation and Corruption]]
 
 ## Sources
 

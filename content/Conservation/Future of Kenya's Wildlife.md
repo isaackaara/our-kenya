@@ -1,6 +1,6 @@
 # Future of Kenya's Wildlife
 
-Kenya's wildlife future depends on managing interconnected challenges: human population growth increasing land pressure, climate change altering rainfall patterns, continued poaching driven by international demand, habitat fragmentation from infrastructure development, and limited resources for conservation. However, grounds for hope exist in successful conservation examples and emerging community conservation models.
+Kenya's [[Wildlife Future|wildlife future]] depends on managing [[Interconnected Challenges|interconnected challenges]]: [[Population Growth Pressure|human population growth]] increasing [[Land Pressure|land pressure]], [[Climate Change Impacts|climate change]] altering [[Rainfall Patterns|rainfall patterns]], [[Poaching Persistence|continued poaching]] driven by [[International Demand|international demand]], [[Habitat Fragmentation|habitat fragmentation]] from [[Infrastructure Development|infrastructure development]], and [[Limited Conservation Resources|limited resources]] for [[Conservation|conservation]]. However, grounds for hope exist in [[Conservation Success Stories|successful conservation examples]] and [[Emerging Conservation Models|emerging community conservation models]].
 
 ## Population Growth Pressure
 
@@ -85,6 +85,16 @@ These uncertainties argue for adaptive management approaches that can respond to
 Kenya's conservation future depends on developing and implementing a vision integrating human development and wildlife conservation. This requires political commitment from Kenya's government, international support, community engagement, and acceptance that some land uses must be restricted for conservation.
 
 The question is whether Kenya's population and government will commit to sharing space with wildlife or whether wildlife will be confined to shrinking reserves increasingly isolated from functioning ecosystems.
+
+## See Also
+
+- [[Climate Change and Kenyan Wildlife]]
+- [[Community Conservation Model]]
+- [[Conservation Economics Kenya]]
+- [[Habitat Corridors Kenya]]
+- [[Protected Areas Management]]
+- [[Sustainable Development Goals]]
+- [[Conservation Timeline Kenya]]
 
 ## Sources
 

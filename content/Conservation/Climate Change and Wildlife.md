@@ -1,6 +1,6 @@
 # Climate Change and Wildlife
 
-Climate change is fundamentally altering Kenya's wildlife ecosystems through changing rainfall patterns, rising temperatures, and shifting ecological conditions. These changes affect animal migration patterns, predator-prey dynamics, habitat suitability, and species distributions. Understanding climate change impacts on wildlife is essential for conservation planning and predicting future ecosystem changes.
+[[Climate Change|Climate change]] is fundamentally altering Kenya's [[Wildlife Ecosystems|wildlife ecosystems]] through changing [[Rainfall Patterns|rainfall patterns]], rising temperatures, and shifting [[Ecological Conditions|ecological conditions]]. These changes affect [[Migration Pattern Changes|animal migration patterns]], [[Predator-Prey Dynamics|predator-prey dynamics]], [[Habitat Suitability|habitat suitability]], and [[Species Range Shifts|species distributions]]. Understanding [[Climate Impacts|climate impacts]] on wildlife is essential for [[Conservation Planning|conservation planning]] and predicting [[Ecosystem Changes|future ecosystem changes]].
 
 ## Rainfall Patterns and Drought Frequency
 
@@ -61,6 +61,16 @@ Conservation strategies increasingly focus on enhancing ecosystem resilience to 
 Conservation planning must account for climate change impacts on species and ecosystems. Protected areas may become unsuitable for their present wildlife communities as climates change. Habitat corridors allowing species movement become increasingly important. Monitoring of climate-driven changes provides data for adaptive management.
 
 Complementary climate mitigation efforts (reducing greenhouse gas emissions) are essential for limiting magnitude of climate change impacts on wildlife. However, some climate change is unavoidable based on greenhouse gases already in the atmosphere, requiring conservation adaptation.
+
+## See Also
+
+- [[Climate Change and Kenyan Wildlife]]
+- [[Wildebeest Migration Serengeti-Mara]]
+- [[Coral Bleaching Kenya]]
+- [[Water Availability and Drought]]
+- [[Ecosystem Cascade Effects]]
+- [[Adaptive Management and Resilience]]
+- [[Protected Areas and Climate Vulnerability]]
 
 ## Sources
 

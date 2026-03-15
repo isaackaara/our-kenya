@@ -1,6 +1,6 @@
 # Elephant Human Conflict
 
-Human-elephant conflict represents one of Kenya's most challenging wildlife conservation problems, where elephants raid crops, destroy property, and occasionally kill people, while humans hunt and kill elephants in retaliation. This conflict creates enormous tensions between wildlife conservation and community livelihood protection, with communities bearing disproportionate costs of elephant conservation.
+[[Human-Elephant Conflict|Human-elephant conflict]] represents one of Kenya's most challenging [[Wildlife Conservation Problems|wildlife conservation problems]], where [[Elephant Crop Raiding|elephants raid crops]], destroy [[Infrastructure Damage|property]], and occasionally [[Human Mortality|kill people]], while humans hunt and kill elephants in retaliation. This conflict creates enormous tensions between [[Wildlife Conservation|wildlife conservation]] and [[Community Livelihood Protection|community livelihood protection]], with [[Communities|communities]] bearing [[Disproportionate Costs|disproportionate costs]] of [[Elephant Conservation|elephant conservation]]. The [[Inequitable Distribution|inequitable distribution]] of costs and benefits drives opposition to conservation.
 
 ## Scale and Frequency
 
@@ -73,6 +73,16 @@ However, human population growth continuously expands agricultural settlement, m
 Community attitudes toward elephants vary, with some communities viewing elephants as cultural heritage deserving protection while others view them primarily as threats. Traditional beliefs and values affect community willingness to coexist with elephants.
 
 Conservation organizations have increasingly focused on education and community engagement to promote tolerance for elephants, though attitude change is slow.
+
+## See Also
+
+- [[Amboseli National Park]]
+- [[Compensation and Mitigation Programs]]
+- [[Community Engagement and Coexistence]]
+- [[Elephant Population Management]]
+- [[Wildlife Corridors Kenya]]
+- [[Conservation Economics Kenya]]
+- [[Community Conservation Model]]
 
 ## Sources
 

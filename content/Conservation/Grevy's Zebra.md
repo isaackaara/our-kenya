@@ -1,6 +1,6 @@
 # Grevy's Zebra
 
-Grevy's zebra (Equus grevyii), the largest wild equid, is one of Africa's most endangered large mammals, with populations declining severely and now occurring almost exclusively in northern Kenya. The species is distinguished by narrow stripes, large ears, and tall stature. Fewer than 2,000 individuals remain, making the species critically endangered and dependent on conservation efforts for survival.
+[[Grevy's Zebra|Grevy's zebra]] (Equus grevyii), the largest wild equid, is one of Africa's most [[Endangered Large Mammals|endangered large mammals]], with populations [[Population Decline|declining severely]] and now occurring almost exclusively in [[Northern Kenya]]. The species is distinguished by [[Narrow Stripes|narrow stripes]], large ears, and tall stature. Fewer than 2,000 individuals remain, making the species [[Critically Endangered|critically endangered]] and dependent on [[Conservation Efforts|conservation efforts]] for survival. The species faces threats from [[Livestock Competition|livestock competition]] and [[Climate Change Vulnerability|climate stress]].
 
 ## Geographic Distribution
 
@@ -69,6 +69,16 @@ Some Grevy's zebra conservation involves international cooperation with Ethiopia
 ## Future Outlook
 
 Grevy's zebra conservation depends on continued habitat protection and community engagement in northern Kenya. The species faces precarious conservation status but has potential for recovery through dedicated conservation efforts. However, sustained commitment and adequate resources are necessary.
+
+## See Also
+
+- [[Northern Kenya Rangelands]]
+- [[Northern Rangelands Trust]]
+- [[Community Conservancies Model]]
+- [[Endangered Species Conservation]]
+- [[Habitat Protection Kenya]]
+- [[Pastoral Communities and Wildlife]]
+- [[Climate Change and Wildlife]]
 
 ## Sources
 

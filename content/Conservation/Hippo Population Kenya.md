@@ -1,6 +1,6 @@
 # Hippo Population Kenya
 
-Hippopotamus populations in Kenya are concentrated in freshwater lakes and rivers, particularly Lake Naivasha, Lake Victoria, and major river systems. Hippos are keystone species affecting aquatic and terrestrial ecosystems through their feeding and nutrient cycling behavior. Population management involves balancing conservation with human safety and agricultural protection.
+[[Hippopotamus]] populations in Kenya are concentrated in [[Freshwater Lakes and Rivers|freshwater lakes and rivers]], particularly [[Lake Naivasha]], [[Lake Victoria]], and [[Major River Systems|major river systems]]. Hippos are [[Keystone Species|keystone species]] affecting [[Aquatic and Terrestrial Ecosystems|aquatic and terrestrial ecosystems]] through [[Feeding Behavior|their feeding]] and [[Nutrient Cycling|nutrient cycling]] behavior. [[Population Management|Population management]] involves balancing [[Wildlife Conservation|conservation]] with [[Human Safety|human safety]] and [[Agricultural Protection|agricultural protection]].
 
 ## Population Distribution
 
@@ -25,6 +25,16 @@ Hippos are popular for wildlife viewing, attracting tourists to reserves and par
 ## Management Challenges
 
 Managing hippo populations requires balancing conservation, human safety, and agricultural protection. Culling is sometimes considered to reduce conflict.
+
+## See Also
+
+- [[Lake Naivasha]]
+- [[Lake Victoria Kenya]]
+- [[Freshwater Ecosystems Kenya]]
+- [[Human-Wildlife Conflict]]
+- [[Wildlife Population Management]]
+- [[Ecosystem Services and Keystone Species]]
+- [[Nutrient Cycling in Ecosystems]]
 
 ## Sources
 

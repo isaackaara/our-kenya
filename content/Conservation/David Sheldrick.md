@@ -1,6 +1,6 @@
 # David Sheldrick
 
-David Sheldrick (1920-1977) was a pioneering wildlife manager and conservationist who served as Warden of Tsavo East National Park and established foundational principles for modern conservation in East Africa. Though his life was cut short by illness, Sheldrick's conservation philosophy and practices profoundly influenced wildlife protection approaches and were continued through the David Sheldrick Wildlife Trust established after his death.
+David Sheldrick (1920-1977) was a pioneering [[Wildlife Management|wildlife manager]] and [[Conservationist|conservationist]] who served as Warden of [[Tsavo East National Park]] and established [[Conservation Principles|foundational principles]] for [[Modern Conservation|modern conservation]] in [[East Africa]]. Though his life was cut short by illness, Sheldrick's [[Conservation Philosophy|conservation philosophy]] and practices profoundly influenced [[Wildlife Protection Approaches|wildlife protection approaches]] and were continued through the [[David Sheldrick Wildlife Trust]] established after his death by his wife [[Daphne Sheldrick]].
 
 ## Early Career and Conservation Philosophy
 
@@ -33,6 +33,16 @@ The trust represents continuation of David's vision of integrating animal welfar
 ## Influence on Conservation Practice
 
 Sheldrick's conservation approaches influenced conservation management across East Africa. His emphasis on research-based management and individual animal welfare considerations shaped conservation practice beyond Kenya.
+
+## See Also
+
+- [[Daphne Sheldrick]]
+- [[Tsavo National Park]]
+- [[Wildlife Research and Data]]
+- [[Anti-Poaching Operations]]
+- [[Elephant and Rhino Protection]]
+- [[Conservation Leadership Kenya]]
+- [[Animal Welfare and Conservation Integration]]
 
 ## Sources
 

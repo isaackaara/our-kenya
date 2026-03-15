@@ -1,6 +1,6 @@
 # Carbon Credits and Conservation
 
-Carbon credit financing represents an emerging mechanism for funding conservation efforts in Kenya, where ecosystem protection generates carbon credits that provide revenue for conservation. Reduced-emissions from degradation and deforestation (REDD+) and other carbon market mechanisms link climate change mitigation with conservation finance, creating potential alignment between global climate action and local conservation.
+Carbon credit financing represents an emerging mechanism for funding [[Conservation|conservation]] efforts in Kenya, where ecosystem protection generates [[Carbon Credits|carbon credits]] providing revenue for [[Wildlife Protection|protection]]. [[REDD+|Reduced-emissions from degradation and deforestation (REDD+)]] and [[Carbon Markets|carbon market mechanisms]] link [[Climate Change Mitigation|climate change mitigation]] with [[Conservation Finance|conservation finance]], creating potential alignment between [[Global Climate Action|global climate action]] and local [[Conservation|conservation]]. [[Northern Kenya Rangelands Carbon Project|Northern Kenya projects]] and [[Kasigau Corridor REDD+|Kasigau Corridor]] demonstrate integration of conservation with community benefits.
 
 ## Carbon Markets and Conservation Finance
 
@@ -71,6 +71,16 @@ However, implementation of carbon finance at scale faces institutional and capac
 ## Future of Carbon Finance for Conservation
 
 Carbon finance has potential to generate substantial revenue for conservation, but requires well-designed mechanisms, credible measurement and monitoring, equitable benefit distribution, and integration with broader conservation objectives. As climate change becomes increasingly recognized, pressure for expanding carbon finance mechanisms may increase.
+
+## See Also
+
+- [[Climate Change and Wildlife]]
+- [[Community Conservancies Model]]
+- [[Forest Protection in Kenya]]
+- [[Ecosystem Services Valuation]]
+- [[Community Benefits and Distribution]]
+- [[Northern Rangelands Trust]]
+- [[Sustainable Development Goals]]
 
 ## Sources
 

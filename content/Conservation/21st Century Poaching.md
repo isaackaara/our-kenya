@@ -1,6 +1,6 @@
 # 21st Century Poaching
 
-Poaching resurged in Kenya and across Africa in the 2000s and 2010s, despite the 1989 ivory ban and conservation efforts that had reduced poaching pressure in the 1990s. This resurgence demonstrates that conservation gains can be reversed and that addressing demand-side drivers remains critical.
+Poaching resurged in Kenya and across Africa in the 2000s and 2010s, despite the [[1989 Ivory Ban]] and conservation efforts that had reduced poaching pressure in the 1990s. This resurgence demonstrates that [[Conservation and Corruption|conservation]] gains can be reversed and that addressing demand-side drivers remains critical. The resurgence connects to rising Asian demand and involves complex [[Wildlife Trafficking Networks|trafficking networks]].
 
 ## Resurgence Beginning (circa 2008)
 
@@ -49,6 +49,16 @@ Some ivory importing countries have implemented stronger controls on ivory comme
 ## Rhino Horn Poaching
 
 Similar dynamics drive rhino horn poaching, with rhino horn prices even exceeding ivory prices. Rhino horn demand, driven primarily by traditional medicine use in Vietnam and China, has pushed rhino populations toward extinction in some regions. Kenya's black rhinos face continued poaching pressure, with some animals killed despite intensive sanctuary protection.
+
+## See Also
+
+- [[Ivory Trade Politics]]
+- [[Anti-Poaching Technology]]
+- [[Conservation and Corruption]]
+- [[21st Century Poaching]]
+- [[CITES and Wildlife Trade]]
+- [[Kenya Wildlife Service]]
+- [[Community Conservancies Model]]
 
 ## Sources
 

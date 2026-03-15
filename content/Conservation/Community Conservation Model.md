@@ -1,6 +1,6 @@
 # Community Conservation Model
 
-Community conservation represents a fundamental shift in conservation philosophy, recognizing that sustainable wildlife protection requires local community support and benefit-sharing. This model emerged from recognition that fortress conservation (excluding communities from protected areas) was ecologically and socially unsustainable.
+[[Community Conservation|Community conservation]] represents a fundamental shift in [[Conservation Philosophy|conservation philosophy]], recognizing that sustainable [[Wildlife Protection|wildlife protection]] requires local [[Community Support|community support]] and [[Benefit-Sharing|benefit-sharing]]. This model emerged from recognition that [[Fortress Conservation|fortress conservation]] (excluding communities from [[Protected Areas|protected areas]]) was ecologically and socially unsustainable. The model requires integration of [[Community Interests|community interests]] with [[Conservation Objectives|conservation objectives]].
 
 ## Philosophical Shift
 
@@ -59,6 +59,16 @@ Building economic resilience requires diversifying beyond tourism toward other i
 Community conservation shows promise where: (1) wildlife populations remain viable and ecologically important, (2) tourism potential is sufficient to generate meaningful revenue, (3) communities have alternatives if conservation fails, (4) government provides supportive policy environment, (5) external organizations provide technical and financial support.
 
 Community conservation has achieved notable successes in northern Kenya, demonstrating that pastoral communities can maintain wildlife while generating income. However, it remains vulnerable to economic disruption and climate stress.
+
+## See Also
+
+- [[Community Conservancies Model]]
+- [[Northern Rangelands Trust]]
+- [[Wildlife Revenue Sharing]]
+- [[Tourism and Community Benefits]]
+- [[Pastoral Communities and Wildlife]]
+- [[Land Rights and Tenure]]
+- [[Conservation vs Land Rights]]
 
 ## Sources
 

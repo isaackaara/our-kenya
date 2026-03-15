@@ -1,6 +1,6 @@
 # Conservation vs Land Rights
 
-One of the most fundamental tensions in African conservation is the conflict between conservation objectives and the land rights of communities who have occupied and managed these lands for generations. Kenya's conservation history exemplifies this tension, with multiple communities displaced or restricted in land use by conservation initiatives without adequate consultation or compensation.
+One of the most fundamental tensions in African [[Conservation|conservation]] is the conflict between [[Conservation Objectives|conservation objectives]] and the [[Land Rights|land rights]] of [[Indigenous Communities|communities]] who have occupied and managed these lands for generations. Kenya's [[Conservation History|conservation history]] exemplifies this tension, with multiple [[Displaced Communities|communities]] displaced or restricted in [[Land Use|land use]] by [[Conservation Initiatives|conservation initiatives]] without adequate [[Consultation|consultation]] or [[Compensation|compensation]]. The [[Ogiek Case|Ogiek court victory]] represents a landmark recognition of [[Indigenous Land Rights|indigenous rights]].
 
 ## The Fortress Conservation Model
 
@@ -59,6 +59,16 @@ From a practical conservation perspective, sustainable conservation models must 
 Current conservation discourse increasingly recognizes that indigenous communities and local populations often practice sustainable resource management and biodiversity conservation more effectively than exclusive protected areas. This recognition suggests that conservation can be compatible with community rights if conservation policies are reformed to incorporate community knowledge, respects community property rights, and distribute benefits equitably.
 
 However, implementation of this principle remains contested. Some conservation organizations remain committed to preservation models that minimize human presence. Others advocate for integration of community rights and conservation objectives.
+
+## See Also
+
+- [[Fortress Conservation Critique]]
+- [[Community Conservation Model]]
+- [[Ogiek and the Mau Forest]]
+- [[Maasai and Land Exclusion]]
+- [[Land Tenure Security]]
+- [[Indigenous Land Rights]]
+- [[Community-Based Conservation]]
 
 ## Sources
 

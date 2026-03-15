@@ -1,6 +1,6 @@
 # Green Belt Movement
 
-The Green Belt Movement, founded by Wangari Maathai in Kenya in 1977, pioneered a community-based approach to environmental conservation through grassroots tree-planting and environmental activism. The movement has become an internationally recognized model for linking conservation, women's empowerment, and social justice.
+The [[Green Belt Movement]], founded by [[Wangari Maathai]] in Kenya in 1977, pioneered a [[Community-Based Approach|community-based approach]] to [[Environmental Conservation|environmental conservation]] through [[Grassroots Tree-Planting|grassroots tree-planting]] and [[Environmental Activism|environmental activism]]. The movement has become an [[Internationally Recognized Model|internationally recognized model]] for linking [[Conservation|conservation]], [[Women's Empowerment|women's empowerment]], and [[Social Justice|social justice]]. The movement demonstrates the [[Political Dimensions of Conservation|political dimensions]] of conservation and [[Environmental Activism Risks|risks]] faced by environmental activists.
 
 ## Founding and Origins
 
@@ -61,6 +61,16 @@ The movement's model of community-based environmental restoration through women'
 Some critics argue that tree-planting, while valuable, is insufficient to address Kenya's broader deforestation crisis and that systemic protection of remaining forests should be prioritized over reforestation of already-converted lands. Others question the survival rates of planted trees and whether plantations restore ecological function equivalent to natural forests.
 
 Additionally, some conservation ecologists debate the merits of reforestation with non-native species versus protection of remaining native forests. These debates reflect broader conservation strategy questions about restoration versus protection.
+
+## See Also
+
+- [[Wangari Maathai]]
+- [[Environmental Activism Kenya]]
+- [[Forest Protection and Restoration]]
+- [[Women's Empowerment and Conservation]]
+- [[Community Participation in Conservation]]
+- [[Mau Forest Controversy]]
+- [[Nobel Peace Prize]]
 
 ## Sources
 

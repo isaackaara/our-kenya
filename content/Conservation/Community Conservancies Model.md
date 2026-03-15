@@ -1,6 +1,6 @@
 # Community Conservancies Model
 
-The community conservancy model represents a fundamental shift in conservation strategy, transitioning from state-controlled protected areas to community-based management and private land conservation. In Kenya, this model has emerged as a primary mechanism for protecting wildlife outside government-managed national parks, particularly in arid and semi-arid rangelands.
+The community conservancy model represents a fundamental shift in [[Conservation Strategy|conservation strategy]], transitioning from [[Fortress Conservation|state-controlled protected areas]] to [[Community-Based Management|community-based management]] and [[Private Land Conservation|private land conservation]]. In Kenya, this model has emerged as a primary mechanism for protecting [[Wildlife|wildlife]] outside government-managed [[National Parks|national parks]], particularly in [[Arid and Semi-Arid Lands|arid and semi-arid rangelands]]. The model originated from recognition that [[Community Engagement|communities]] must benefit directly to support [[Conservation|conservation]].
 
 ## Origins and Development
 
@@ -61,6 +61,16 @@ A continuing challenge is integration of wildlife conservation with pastoral liv
 ## Future of the Model
 
 The community conservancy model represents an important innovation in African conservation, creating incentives for communities to protect wildlife while retaining land ownership. However, the model faces pressures including climate change impacts on rangeland productivity, political pressures on land tenure, and questions about long-term economic viability.
+
+## See Also
+
+- [[Northern Rangelands Trust]]
+- [[Community Conservation Model]]
+- [[Wildlife Revenue Sharing]]
+- [[Pastoral Communities and Conservation]]
+- [[Land Rights and Tenure Security]]
+- [[Conservation Economics Kenya]]
+- [[Community Engagement in Conservation]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Arabuko-Sokoke Forest
 
-Arabuko-Sokoke Forest is one of Africa's most important coastal dry forests, located near Malindi on Kenya's Indian Ocean coast. Spanning approximately 420 square kilometers, this forest is one of the largest remaining dry forests on the East African coast and supports exceptional biodiversity. The forest's isolation and unique flora have made it a priority for international conservation efforts.
+Arabuko-Sokoke Forest is one of Africa's most important coastal dry forests, located near Malindi on Kenya's Indian Ocean coast. Spanning approximately 420 square kilometers, this forest is one of the largest remaining dry forests on the [[East African Coast]] and supports exceptional [[Biodiversity|biodiversity]]. The forest's isolation and unique [[Endemic Species|flora]] have made it a priority for [[International Conservation|international conservation]]. The [[Gede Ruins]] adjacent to the forest reflect the region's [[Archaeological and Cultural Heritage|cultural history]].
 
 ## Forest Ecology and Vegetation
 
@@ -37,6 +37,16 @@ Multiple international and local organizations work in Arabuko-Sokoke, including
 ## Climate and Coastal Dynamics
 
 The forest's proximity to the coast makes it potentially vulnerable to sea-level rise and coastal erosion from climate change. Storm surge and increased salinity could affect forest composition, particularly near forest margins closest to the ocean.
+
+## See Also
+
+- [[Coastal Ecosystems Kenya]]
+- [[Endemic Species and Endemism]]
+- [[Bird Conservation Areas]]
+- [[Forest Protection and Illegal Logging]]
+- [[Human Communities and Forest Use]]
+- [[Conservation NGOs Kenya]]
+- [[Gede Ruins]]
 
 ## Sources
 

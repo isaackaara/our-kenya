@@ -1,6 +1,6 @@
 # Group Ranch Conservancies
 
-Maasai group ranches, established during Kenya's colonial period and formalized post-independence, represent communal pastoral lands managed collectively by Maasai communities. In recent decades, some group ranches have converted portions of their land to wildlife conservancies, creating hybrid land use systems combining pastoralism with conservation.
+[[Maasai Group Ranches|Maasai group ranches]], established during Kenya's [[Colonial Period|colonial period]] and formalized post-independence, represent [[Communal Pastoral Lands|communal pastoral lands]] managed collectively by [[Maasai Communities|Maasai communities]]. In recent decades, some group ranches have converted portions of their land to [[Wildlife Conservancies|wildlife conservancies]], creating [[Hybrid Land Use Systems|hybrid land use systems]] combining [[Pastoralism|pastoralism]] with [[Wildlife Conservation|conservation]]. This [[Group Ranch Conservancy Model|model]] represents a [[Community-Based Conservation Approach|community-based conservation approach]] that provides [[Alternative Income Sources|alternative income]] beyond pastoral production.
 
 ## Group Ranch Origins
 
@@ -57,6 +57,16 @@ These privatization cases raise concerns about community land appropriation and 
 Some group ranch conservancies have achieved notable conservation and economic success. The Maasai Wilderness Conservation Trust and similar organizations have worked with group ranches to establish viable conservancies.
 
 However, many group ranches struggle with conservancy economics. Revenue insufficient for community expectations, management challenges, and community divisions over conservancy policy creation.
+
+## See Also
+
+- [[Community Conservancies Model]]
+- [[Northern Rangelands Trust]]
+- [[Pastoral Communities and Conservation]]
+- [[Land Rights and Tenure]]
+- [[Wildlife Revenue Sharing]]
+- [[Community Governance and Management]]
+- [[Economic Sustainability of Conservancies]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Conservation and Corruption
 
-Corruption within Kenya's conservation institutions has undermined wildlife protection, enabled poaching, and diverted conservation resources. Endemic corruption within government agencies and conservation organizations represents a fundamental conservation challenge alongside ecological threats.
+[[Corruption|Corruption]] within Kenya's [[Conservation Institutions|conservation institutions]] has undermined [[Wildlife Protection|wildlife protection]], enabled [[Poaching|poaching]], and diverted [[Conservation Resources|conservation resources]]. Endemic [[Institutional Corruption|corruption]] within [[Government Agencies|government agencies]] and [[Conservation Organizations|conservation organizations]] represents a [[Conservation Challenges|fundamental conservation challenge]] alongside [[Ecological Threats|ecological threats]]. The [[Ranger Corruption|corruption of rangers]] and [[Government Official Complicity|government officials]] directly undermines [[Anti-Poaching Operations|anti-poaching effectiveness]].
 
 ## Government Official Complicity in Poaching
 
@@ -75,6 +75,16 @@ International demand for ivory and rhino horn creates economic incentive for cor
 ## Future Challenges
 
 Kenya's conservation faces ongoing corruption risk from financial incentives for poaching and trafficking. Strengthening institutional integrity, improving officer compensation, enhancing transparency, and building public participation in conservation remain essential for reducing corruption.
+
+## See Also
+
+- [[Kenya Wildlife Service]]
+- [[Anti-Poaching Operations]]
+- [[Institutional Integrity]]
+- [[Wildlife Crime and Enforcement]]
+- [[Government Accountability]]
+- [[International Cooperation Against Corruption]]
+- [[21st Century Poaching]]
 
 ## Sources
 

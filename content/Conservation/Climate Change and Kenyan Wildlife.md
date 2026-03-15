@@ -1,6 +1,6 @@
 # Climate Change and Kenyan Wildlife
 
-Climate change represents an emerging conservation threat to Kenya's wildlife, altering rainfall patterns, temperature regimes, and drought frequency. These changes affect wildlife populations, habitat suitability, and ecosystem function across Kenya's protected areas and rangeland systems.
+[[Climate Change|Climate change]] represents an emerging [[Conservation Threats|conservation threat]] to Kenya's [[Wildlife|wildlife]], altering [[Rainfall Patterns|rainfall patterns]], temperature regimes, and [[Drought Frequency|drought frequency]]. These changes affect [[Wildlife Populations|wildlife populations]], [[Habitat Suitability|habitat suitability]], and [[Ecosystem Function|ecosystem function]] across Kenya's [[Protected Areas|protected areas]] and [[Rangeland Systems|rangeland systems]]. The interactions between [[Climate-Driven Stress|climate stress]] and [[Poaching|poaching pressure]] create [[Compounded Extinction Risk|compounded extinction risks]].
 
 ## Altered Rainfall Patterns
 
@@ -59,6 +59,16 @@ These adaptations require substantial resources and political commitment current
 Climate change impacts on Kenya's wildlife remain partially uncertain. Climate models have uncertainty regarding future rainfall patterns and temperature changes. Species' capacity to adapt through behavior or evolution remains unclear.
 
 This uncertainty argues for precautionary conservation approaches that maintain population and habitat diversity as buffers against uncertain futures.
+
+## See Also
+
+- [[Climate Change and Wildlife]]
+- [[Drought Impacts on Wildlife]]
+- [[Protected Area Vulnerability]]
+- [[Wildlife Adaptation Strategies]]
+- [[Habitat Corridors and Connectivity]]
+- [[Conservation Resilience Building]]
+- [[Future of Kenya's Wildlife]]
 
 ## Sources
 

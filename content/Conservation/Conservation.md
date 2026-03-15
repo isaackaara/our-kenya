@@ -1,10 +1,11 @@
 # Conservation Vertical Index
 
-A comprehensive knowledge graph covering Kenya's conservation history, wildlife management, national parks, and the complex interplay between people, politics, and land.
+A comprehensive knowledge graph covering Kenya's [[Conservation History|conservation history]], [[Wildlife Management|wildlife management]], [[Protected Areas|national parks]], and the complex interplay between people, politics, and land.
 
 ## Overview
 - [[Kenya Conservation Overview]]
 - [[Kenya Wildlife Service]]
+- [[Conservation Timeline Kenya]]
 
 ## Protected Areas (National Parks & Reserves)
 - [[Maasai Mara National Reserve]]

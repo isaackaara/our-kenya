@@ -1,6 +1,6 @@
 # African Wild Dog Kenya
 
-The African wild dog (Lycaon pictus) is one of Africa's most endangered carnivores and one of the world's rarest canids. Kenya's population of African wild dogs, concentrated primarily in Laikipia Plateau and other northern protected areas, represents approximately 10 percent of the global population, making Kenya critical for species survival.
+The African wild dog (Lycaon pictus) is one of Africa's most endangered carnivores and one of the world's rarest canids. Kenya's population concentrated primarily in [[Laikipia Plateau]] and northern [[Protected Areas|protected areas]], represents approximately 10 percent of the global population, making Kenya critical for [[Species Survival|species survival]]. The [[Laikipia Population Significance|Laikipia population]] is the largest connected [[African Carnivores|wild dog population]] in East Africa, requiring landscape-scale [[Wildlife Conservation|conservation]] across diverse [[Community Conservancies Model|community conservancies]].
 
 ## Ecology and Distribution
 
@@ -54,6 +54,16 @@ African wild dog ecology in Kenya remains incompletely understood. Research on p
 African wild dog conservation depends on maintaining connectivity across Laikipia and adjacent areas. Development pressure, pastoral invasions (as occurred in 2017), and climate stress all threaten population viability.
 
 If Laikipia's wild dog population is lost, the species would face very limited East African representation, potentially affecting global population recovery prospects.
+
+## See Also
+
+- [[Laikipia Plateau]]
+- [[Northern Rangelands Trust]]
+- [[Community Conservancies Model]]
+- [[Human-Wildlife Conflict]]
+- [[Carnivore Conservation]]
+- [[Wildlife Corridors Kenya]]
+- [[Habitat Fragmentation]]
 
 ## Sources
 
