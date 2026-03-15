@@ -18,11 +18,19 @@ export default ((opts?: Options) => {
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
+          {Object.entries(links).map(([text, link]) => {
+            const isExternal = link.startsWith("http://") || link.startsWith("https://")
+            return (
+              <li>
+                <a 
+                  href={link}
+                  {...(isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                >
+                  {text}
+                </a>
+              </li>
+            )
+          })}
         </ul>
       </footer>
     )
