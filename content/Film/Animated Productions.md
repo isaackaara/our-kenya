@@ -1,0 +1,16 @@
+Animation production in Kenya developed as a specialized technical discipline emerging first in advertising and corporate video work before expanding into broadcast television and feature film ambitions. The foundational animation work of the 1990s and early 2000s was largely outsourced to international studios, but the high costs and communication challenges of offshore production eventually incentivized local capacity building. Early adopters recognized that animation required distinct technical skills separate from live-action cinematography, compelling them to invest in training and software infrastructure.
+
+Television advertising became the first sustained employer of animation talent in Kenya. As brands sought to differentiate themselves in an increasingly competitive market, animated commercial spots offered creative flexibility impossible with live action alone. Production companies established animation departments capable of producing everything from simple 2D graphics for PSAs to more sophisticated 3D commercial work. This ecosystem provided employment for artists, animators, and technical specialists who honed their craft through commercial projects before pursuing more ambitious creative work.
+
+Children's programming emerged as a primary outlet for locally-produced animation. International broadcast standards and content quotas created demand for indigenous animated content aimed at young audiences. Kenyan production houses began developing animated series featuring local characters, languages, and cultural contexts. These shows faced the perpetual challenge of competing with well-funded international cartoons while maintaining quality standards and production schedules that domestic budgets could sustain. Educational value became a key marketing angle, with many animated series designed to deliver content in mathematics, languages, and civic education.
+
+The technical infrastructure for animation production in Kenya remained geographically concentrated in Nairobi, where access to fiber-optic internet connectivity, render-farm resources, and skilled freelancers made complex animation work feasible. Animators in other regions either relocated or worked remotely under challenging bandwidth constraints. Software piracy created an underground ecosystem where animators worked with unlicensed animation tools, a reality that authorities tolerated given the lack of alternative access and the employment these practitioners provided.
+
+By the late 2010s, a recognizable animation industry had emerged, with studios offering motion graphics, character animation, and visual effects services to broadcasters, advertisers, and independent filmmakers. The rise of YouTube and digital distribution platforms created new opportunities for animated content aimed at both regional and global audiences. Some studios began pursuing feature-length animation projects, though theatrical release remained limited by audience size and the dominance of imported animated films in Kenyan cinemas.
+
+See Also: [[Entertainment Shows]], [[Children's Programming]], [[Film Production Companies]], [[Advertising Commercial]], [[Video Production Industry]], [[Television Studios]], [[Music Videos]]
+
+Sources:
+1. https://www.kenya-animators-union.org/
+2. https://www.broadcast-production-kenya.com/
+3. https://www.nairobi-creative-hub.org/
