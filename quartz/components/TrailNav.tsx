@@ -44,6 +44,7 @@ export default ((opts?: TrailNavOptions) => {
       return (
         <div className={`trail-nav trail-nav-top-container ${displayClass ?? ""}`}>
           <div className="trail-nav-top">
+            <a href="/STORY-TRAILS" className="trail-back-link">← All Story Trails</a>
             <div className="trail-header">
               <span className="trail-icon">📖</span>
               <a href="/STORY-TRAILS" className="trail-name">
@@ -139,6 +140,21 @@ export default ((opts?: TrailNavOptions) => {
 
   .trail-icon {
     font-size: 1.1rem;
+  }
+
+  .trail-back-link {
+    align-self: flex-start;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    transition: color 0.15s;
+    margin-bottom: -0.2rem;
+  }
+
+  .trail-back-link:hover {
+    color: white;
   }
 
   .trail-name {
