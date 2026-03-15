@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Story Trails": "/STORY-TRAILS",
-      Contribute: "/contribute",
+      "Help write the rest": "/contribute",
       Support: "/support",
     },
   }),

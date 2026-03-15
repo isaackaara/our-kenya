@@ -1,11 +1,15 @@
 ---
 title: Support Our Kenya
-description: Our Kenya is free, forever. If it has added value to your life, consider supporting it.
+description: Our Kenya is free, forever. If it has taken you somewhere you didn't expect, consider supporting it.
 ---
 
-Our Kenya is free, forever. No paywalls, no ads, no accounts. Every note is open to everyone.
+Our Kenya is free, forever. No paywalls. No ads. No accounts.
 
-If it has added value to your life -- taught you something, settled an argument, helped with school or work -- consider supporting it. It funds the research, the hosting, and the time it takes to get this right.
+Every note is open to everyone. That is the point. It stays that way.
+
+If this archive has taken you somewhere you didn't expect -- taught you something, settled an argument, helped with school or work, or just made Kenya's history feel less like a list of dates -- consider supporting it. It funds the research, the hosting, and the time it takes to get things right.
+
+This is still a beginning. Your support helps us write the rest.
 
 ## Send via M-Pesa
 
@@ -19,7 +23,7 @@ If it has added value to your life -- taught you something, settled an argument,
 <span class="ok-amount-pill">KES 500</span>
 <span class="ok-amount-pill">KES 1,000</span>
 </div>
-<p class="ok-support-note">Enter the amount of your choice on M-Pesa. Suggested amounts above -- any amount is welcome.</p>
+<p class="ok-support-note">Enter the amount of your choice on M-Pesa. Any amount is welcome.</p>
 </div>
 
 **How to pay:**
@@ -30,4 +34,4 @@ If it has added value to your life -- taught you something, settled an argument,
 4. Account number: **5259870013**
 5. Enter your amount and confirm
 
-Thank you. It goes directly to keeping this vault alive and growing.
+Thank you. It goes directly to keeping this archive alive and growing.

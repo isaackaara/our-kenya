@@ -67,8 +67,8 @@ const ContributeForm: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
       </form>
 
       <p class="ok-form-note">
-        Isaac reviews all suggestions. Approved topics are researched and written to Gold Standard
-        before being added to the vault.
+        Isaac reviews every suggestion. Approved topics are researched and written before being
+        added to the vault. This is how the archive grows.
       </p>
     </div>
   )

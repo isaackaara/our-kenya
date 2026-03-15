@@ -1,23 +1,37 @@
 ---
 title: Our Kenya
-description: History written by Kenyans, for everyone. 3,900 notes on Kenya's counties, peoples, elections, and presidencies.
+description: Follow the thread. Help write the rest. Story Trails through Kenya's history -- counties, peoples, elections, and the connections between them.
 cssclasses:
   - homepage
 ---
 
 <div class="ok-hero">
-<p class="ok-tagline">History written by Kenyans, for everyone.</p>
-<p class="ok-intro">3,900 notes. 47 counties. Five presidencies. Hundreds of ethnic stories. One connected knowledge graph of Kenya's past -- and present.</p>
+<p class="ok-tagline">Follow the thread. Help write the rest.</p>
+<p class="ok-intro">Every note is a door. We have 4,000 threads, and pulling any one of them will take you somewhere you have never been.</p>
 <div class="ok-cta-row">
-<a href="Kenya" class="ok-cta-primary">Start exploring</a>
-<a href="STORY-TRAILS" class="ok-cta-secondary">Browse Story Trails</a>
-<a href="contribute" class="ok-cta-outline">Suggest a topic</a>
+<a href="STORY-TRAILS" class="ok-cta-primary">Start a trail</a>
+<a href="Kenya" class="ok-cta-secondary">Explore the vault</a>
+<a href="contribute" class="ok-cta-outline">Help write the rest</a>
 </div>
 </div>
 
-## Explore by theme
+## The experience
 
-Every theme has its own index. Start at any node -- the graph takes you further.
+You will see Kenya from an angle you never saw it from.
+
+This is not a textbook. It is not Wikipedia. It is not a podcast. It is a network of connected notes -- counties, communities, elections, presidencies, sports, corruption, conservation -- each one wikilinked to the next. You start at one thing and land somewhere you did not expect.
+
+The graph view on the right is not a feature. It is the product. That web of connections is Kenya's history made visible.
+
+<div class="ok-trails-callout">
+<p>Story Trails are curated sequences of notes, ordered to tell a complete story arc. Follow the links. Every note has its own trails branching off.</p>
+<p>You may not come back the same way you arrived.</p>
+<p><a href="STORY-TRAILS">Start a trail. See where it takes you.</a></p>
+</div>
+
+## What's inside
+
+A beginning, still growing. These are the threads you can pull right now.
 
 <div class="ok-verticals">
 <a href="Presidencies" class="ok-vertical-card">
@@ -26,7 +40,7 @@ Every theme has its own index. Start at any node -- the graph takes you further.
 </a>
 <a href="Counties" class="ok-vertical-card">
 <strong>Counties</strong>
-<span>All 47 counties -- history, geography, and the stories inside them.</span>
+<span>All 47 counties and the histories inside them.</span>
 </a>
 <a href="Elections" class="ok-vertical-card">
 <strong>Elections</strong>
@@ -42,7 +56,7 @@ Every theme has its own index. Start at any node -- the graph takes you further.
 </a>
 <a href="Conservation" class="ok-vertical-card">
 <strong>Conservation</strong>
-<span>Parks, poaching, ivory, and the colonial model that still shapes wildlife policy.</span>
+<span>Parks, poaching, ivory, and the colonial conservation model that still shapes policy.</span>
 </a>
 <a href="Kikuyu" class="ok-vertical-card">
 <strong>Kikuyu</strong>
@@ -70,24 +84,10 @@ Every theme has its own index. Start at any node -- the graph takes you further.
 </a>
 </div>
 
-## Story Trails
+## We don't have the whole story
 
-<div class="ok-trails-callout">
-<p>2,000 curated journeys through Kenya's history. Each trail is a sequence of notes ordered to tell a complete story arc. Follow the links. Every note has its own trails branching off.</p>
-<p>You may not come back the same way you arrived.</p>
-<p><a href="STORY-TRAILS">Browse all Story Trails</a></p>
-</div>
+Nobody does. But this archive is only as good as what goes into it. If you know something that belongs here -- a county history, a political moment, a cultural tradition, a sporting legend -- we want to hear it.
 
-## How this works
+The /contribute page is not a bonus feature. It is the point.
 
-Our Kenya is a knowledge graph. Every note connects to others via wikilinks. The graph view on the right shows those connections in real time.
-
-Start anywhere -- [[Kenya]], a county, a president, an election. Follow any link. You're in.
-
-There is no right place to begin. There is no wrong turn.
-
-## Contribute
-
-This vault grows through research and community suggestions. If you know a story Kenya should tell, we want to hear it.
-
-<a href="contribute" class="ok-section-cta">Suggest a topic</a>
+<a href="contribute" class="ok-section-cta">Help us write the rest</a>
