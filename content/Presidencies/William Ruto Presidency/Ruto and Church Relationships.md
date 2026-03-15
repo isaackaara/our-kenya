@@ -1,0 +1,33 @@
+[[William Ruto]]'s relationship with evangelical and Pentecostal churches is one of the defining features of his political identity. He is a self-described born-again Christian who attends church services multiple times a week, quotes scripture in political speeches, and has built much of his political coalition on the support of pastors and Christian organizations. His presidency has been marked by an unprecedented level of religious language in public discourse, with Ruto framing policy decisions, political victories, and even economic hardships in explicitly Christian terms. This has made him beloved among evangelical voters and deeply distrusted by secularists and those who believe in a strict separation of church and state.
+
+Ruto's Christian identity is not performative in the way it is for many politicians. By all accounts, he is genuinely devout. He grew up in a Christian household, was active in the Christian Union during his school years, and has maintained a consistent pattern of church attendance throughout his adult life. He does not drink alcohol, a rarity among Kenyan politicians, and he has spoken publicly about his faith as the foundation of his moral and political worldview. This authenticity is part of his appeal. Unlike politicians who show up at churches only during election season, Ruto is seen as someone who actually believes.
+
+During his time as Deputy President under [[Uhuru Kenyatta]], Ruto cultivated relationships with influential evangelical pastors and bishops, particularly in the Pentecostal movement. He donated generously to church building projects, funded pastors' vehicles and sound systems, and showed up at church events to offer support and visibility. These donations were not just acts of charity. They were political investments. Pastors, particularly in the Pentecostal tradition, wield enormous influence over their congregations, and their endorsements can swing votes. Ruto understood this, and he built a network of church leaders who saw him as their champion in government.
+
+The 2022 presidential campaign was heavily shaped by religious mobilization. Ruto's campaign framed the election as a spiritual battle between the "hustler nation," which was portrayed as righteous and God-fearing, and the "dynasties" of [[Uhuru Kenyatta]] and [[Raila Odinga]], which were portrayed as corrupt and godless. Pastors across the country endorsed Ruto from the pulpit, held prayer rallies for his victory, and organized voter registration drives in their congregations. Some churches distributed campaign materials, and there were reports of pastors telling congregants that voting for Raila was a sin. The religious mobilization was a significant factor in Ruto's [[2022 Election Victory]].
+
+Once in office, Ruto continued to center religion in his presidency. He regularly invites pastors to State House for prayer sessions, particularly during political crises. After the [[Finance Bill 2024 and Gen Z Uprising]], Ruto hosted a national prayer day and asked Kenyans to pray for the country rather than protest. Critics saw this as an attempt to deflect accountability by framing political problems as spiritual issues. Ruto also established a Presidential Working Party on Religious Harmony, ostensibly to address interfaith tensions, but many saw it as a way to formalize his ties to religious leaders.
+
+The [[Ruto and the Shakahola Massacre]] exposed the darker side of Kenya's unregulated religious sector. The deaths of over 400 people in a starvation cult raised urgent questions about whether the government had been too deferential to religious organizations, including dangerous ones, because of their political importance. Ruto condemned Paul Mackenzie in strong terms, but he resisted calls for comprehensive regulation of churches, knowing it would alienate his evangelical base. The massacre revealed the limits of Ruto's willingness to confront the excesses of the religious sector he had helped empower.
+
+Ruto's relationship with churches has also generated resentment among non-Christians and secular Kenyans. Kenya is a multi-religious country, with significant Muslim, Hindu, and traditional religious communities. Many felt that Ruto's presidency was elevating Christianity, and specifically evangelical Protestantism, above other faiths. The constant invocation of Christian language in official speeches, the prayers at state events, and the visible role of pastors in government created a perception that Kenya was becoming a Christian nationalist state.
+
+The prosperity gospel, a theology that teaches that God rewards faith with material wealth, is particularly popular in Kenyan Pentecostal churches, and it aligns neatly with Ruto's hustler narrative. The message is that if you work hard, pray hard, and believe, you will succeed. This theology has been criticized for blaming poverty on lack of faith rather than structural inequality, and for enriching pastors while their congregations remain poor. Ruto's embrace of prosperity gospel preachers has reinforced concerns that his economic policies prioritize individual effort over systemic reform.
+
+By 2024, Ruto's church relationships remained one of his strongest political assets, but they also represented a vulnerability. The evangelical base was loyal, but it was not large enough to sustain his presidency on its own. And the perception that he was using religion for political purposes was alienating other constituencies. The question was whether Ruto could maintain his evangelical support while also governing a diverse, multi-religious country. The answer was not yet clear.
+
+## See Also
+- [[Ruto Early Life and Poverty Narrative]]
+- [[Ruto and William Ruto Foundation]]
+- [[2022 Election Victory]]
+- [[Ruto and the Shakahola Massacre]]
+- [[Finance Bill 2024 and Gen Z Uprising]]
+- [[Ruto Hustler Narrative]]
+- [[Corruption/Religious Institutions and Accountability]]
+- [[Cross-Ethnic/Religion and Political Mobilization]]
+
+## Sources
+1. "Ruto's evangelical coalition: Faith and power," The Elephant, July 2022. https://www.theelephant.info/features/2022/07/18/ruto-evangelical-coalition-faith-power/
+2. "The role of churches in Kenya's 2022 election," African Arguments, September 2022. https://africanarguments.org/2022/09/05/churches-kenya-2022-election/
+3. "Ruto and the prosperity gospel," Daily Nation, November 2023. https://nation.africa/kenya/news/ruto-prosperity-gospel-4421567
+4. "Shakahola and the limits of religious freedom," The Standard, June 2023. https://www.standardmedia.co.ke/kenya/article/2001493234/shakahola-limits-religious-freedom

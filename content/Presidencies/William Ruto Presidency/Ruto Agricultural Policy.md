@@ -1,0 +1,28 @@
+Agriculture was supposed to be [[William Ruto]]'s strength. As a former agriculture minister under [[Mwai Kibaki]] and a self-styled champion of the rural poor, Ruto had promised to transform the sector, raise farmers' incomes, and make Kenya food secure. His government introduced a fertilizer subsidy program, promoted mechanization, and pushed for value addition in agricultural exports. By 2024, however, the sector was in crisis. Maize prices had collapsed, the fertilizer subsidy was mired in corruption scandals, and farmers were angrier than they had been in years. The gap between promise and delivery in agriculture became a microcosm of Ruto's broader governance challenges.
+
+The flagship agricultural policy was the fertilizer subsidy program, launched in late 2022. The government promised to provide subsidized fertilizer at KES 3,500 per 50kg bag, down from market prices of KES 6,500 or more. The subsidy was targeted at smallholder farmers, who make up over 75% of agricultural production in Kenya. The program was popular initially, and millions of bags were distributed in the 2023 planting season. But problems emerged quickly. Farmers complained that subsidized fertilizer was not reaching them, or that it arrived too late in the planting season to be useful. There were reports of politically connected distributors hoarding bags and selling them at market prices, pocketing the subsidy.
+
+In 2023, a scandal erupted when it was discovered that some of the subsidized fertilizer had been imported from Russia at inflated prices through questionable procurement processes. Investigative journalists revealed that the government had paid nearly double the international market rate for some shipments, and that the companies involved had ties to senior government officials. The scandal confirmed what many farmers already suspected: the subsidy was being looted before it reached the ground. Ruto's administration promised investigations, but no senior official was ever charged.
+
+The maize sector, which is politically sensitive in Kenya, also became a flashpoint. In 2023, the government imported over 10 million bags of maize to address what it claimed was a shortage. Farmers protested, arguing that there was no shortage and that the imports were depressing prices just as they were bringing their harvest to market. Maize prices fell from KES 6,000 per 90kg bag to as low as KES 3,000, leaving many farmers unable to recover their costs. The National Cereals and Produce Board (NCPB), which is supposed to provide a price floor, was broke and could not purchase farmers' maize. The entire sector felt abandoned.
+
+Ruto's government also pushed for agricultural mechanization, particularly in the [[Kalenjin/Kalenjin Economy and Agriculture]] heartlands of the Rift Valley. Subsidized tractors and planters were distributed to farmer cooperatives, and there was talk of creating agricultural industrial parks to process crops. But implementation was slow, and the benefits were uneven. Large-scale farmers with political connections got access to the machinery. Smallholders did not. The mechanization push also raised concerns about land concentration and the displacement of smallholder farmers, a sensitive issue in a country where land ownership is deeply politicized.
+
+The coffee and tea sectors, which together account for a significant portion of Kenya's export earnings, also saw attempted reforms. Ruto's government promised to pay coffee farmers directly and eliminate the exploitative middlemen who had dominated the sector for decades. New regulations were introduced, but enforcement was weak. By 2024, farmers were still complaining about delayed payments and opaque pricing. The tea sector faced similar issues, compounded by falling global prices and overproduction.
+
+Agriculture had been Ruto's political base. Rural voters, particularly in the Rift Valley, had supported him in overwhelming numbers in 2022. But by 2024, that support was fraying. Farmers felt lied to. The fertilizer subsidy was riddled with corruption. Maize prices had collapsed. The mechanization program had benefited the few. And the broader economic environment, shaped by the [[Ruto and the IMF]] austerity program, had made it harder for farmers to access credit or invest in their farms. The sector that was supposed to anchor Ruto's bottom-up economics had become one of his biggest political liabilities.
+
+## See Also
+- [[Ruto Economic Blueprint - Bottom-Up Economics]]
+- [[Kalenjin/Kalenjin Economy and Agriculture]]
+- [[Corruption/Fertilizer Scandal 2023]]
+- [[Ruto Inauguration and First 100 Days]]
+- [[Ruto and the Kalenjin Community]]
+- [[Finance Bill 2023 Kenya]]
+- [[Ruto and the IMF]]
+
+## Sources
+1. "Kenya's fertilizer scandal: Who is looting the subsidy?" The Elephant, May 2023. https://www.theelephant.info/features/2023/05/12/kenya-fertilizer-scandal-who-is-looting/
+2. "Maize farmers in crisis as prices collapse," Daily Nation, October 2023. https://nation.africa/kenya/news/maize-farmers-crisis-prices-collapse-4354672
+3. "Agricultural policy under Ruto: Promises vs. reality," Institute for Development Studies, March 2024. https://ids.ac.ke/2024/03/agricultural-policy-ruto-promises-reality/
+4. "Coffee farmers still waiting for direct payments," The Standard, July 2024. https://www.standardmedia.co.ke/kenya/article/2001494123/coffee-farmers-still-waiting-direct-payments
