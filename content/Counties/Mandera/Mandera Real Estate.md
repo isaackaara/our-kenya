@@ -1,5 +1,3 @@
-# Mandera Real Estate
-
 Real estate development in Mandera County remains in early stages, with property transactions concentrated in urban areas including Mandera town and other settlements. Land values have experienced gradual increases as economic activity has expanded, though property markets remain underdeveloped relative to other Kenyan urban centers.
 
 Urban land sales have increased with economic growth and population migration to town centers. Properties in Mandera town command varying values depending on location, with prime commercial locations near markets commanding premium prices. Residential properties range from simple structures to more substantial constructed buildings. Land speculation has increased as investors recognize development potential.

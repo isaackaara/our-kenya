@@ -1,5 +1,3 @@
-# Taita Land Rights
-
 Land tenure in the Taita Hills and surrounding lowlands has been transformed over time. Contemporary land rights issues involve questions about individual versus community ownership, access to land for youth and newcomers, and historical land disputes.
 
 ## Traditional Land Tenure

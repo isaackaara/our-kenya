@@ -1,5 +1,3 @@
-# Tana River Headwaters
-
 The Tana River, Kenya's longest river, originates in the Mount Kenya and Aberdare highlands that encompass [[Mount Kenya and the Embu]] territory. These headwaters provide water sources for Embu communities, support agriculture through natural flow and irrigation, and connect Embu territory to downstream regions through a vital hydrological system.
 
 ## Origins and Hydrology

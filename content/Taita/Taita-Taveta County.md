@@ -1,5 +1,3 @@
-# Taita-Taveta County
-
 Taita-Taveta County is located in southeastern Kenya, spanning from the Taita Hills to the coastal hinterland and lowland plains. The county was created as an administrative unit during Kenya's devolution process in 2013, bringing together the Taita and other communities under one county government.
 
 ## Geography and Territory

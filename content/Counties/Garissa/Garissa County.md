@@ -1,5 +1,3 @@
-# Garissa County
-
 Garissa County is a northeastern Kenyan county located on the Tana River, bordering the Somalia and sharing critical economic, cultural, and security frontlines with the Horn of Africa. With a population of approximately 750,000 (2019 census), the county covers 22,796 square kilometers and represents one of Kenya's most strategically important yet economically marginalized regions. The county capital, Garissa town, has evolved from a small trading post into a significant regional hub facilitating cross-border commerce between Kenya and Somalia.
 
 The county's geography is dominated by the [[Tana River in Garissa|Tana River]], which provides crucial water resources in an otherwise semi-arid landscape. The terrain ranges from riverine plains to acacia bushland, with annual rainfall averaging 250-400mm in most areas. This climatic profile has historically shaped settlement patterns and economic activities, with riverine communities practicing agriculture and fishing, while inland populations depend heavily on [[Garissa Pastoralism|pastoralism]].

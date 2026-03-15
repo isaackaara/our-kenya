@@ -1,5 +1,3 @@
-# Kenyan Asian Philanthropy
-
 Kenyan Asians have a strong tradition of philanthropy, giving back to communities through donations to education, health, religion, and culture. This philanthropic work reflects both business success and cultural values emphasizing [[community responsibility]].
 
 ## Major Foundations

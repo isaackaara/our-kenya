@@ -1,5 +1,3 @@
-# Migori Colonial History
-
 The Migori area, then part of South Nyanza District, was incorporated into British colonial administration during the late 19th and early 20th centuries. Colonial rule introduced administrative systems, economic changes, and social transformation.
 
 ## Early Colonial Period

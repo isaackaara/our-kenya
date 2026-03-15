@@ -1,5 +1,3 @@
-# Kajiado Livestock
-
 Livestock herding remains the traditional economic foundation of Kajiado [[../../Maasai/Maasai|Maasai]] communities, though contemporary pastoral systems face severe constraints from land loss, climate variability, and market pressures requiring adaptation and livelihood diversification strategies.
 
 Cattle ownership represents primary wealth and status indicator, with pastoral families managing mixed herds of cattle, goats, and sheep.

@@ -1,5 +1,3 @@
-# Narok Notable People
-
 Narok County has produced numerous prominent Kenyans who have achieved distinction in politics, business, conservation, academia, and entertainment sectors, influencing national policy and cultural representation.
 
 ## Political Leadership

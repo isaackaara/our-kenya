@@ -1,5 +1,3 @@
-# [[coastal]] [[land]] [[land question]]
-
 The coastal land question is the single most important and contested political issue for the Mijikenda peoples. It concerns the alienation of Mijikenda ancestral lands under Arab, Swahili, and British colonial rule, the creation of legal property systems that excluded Mijikenda ownership, and the ongoing struggle for recognition of indigenous land rights and restitution.
 
 ## Historical Land Alienation

@@ -1,5 +1,3 @@
-# Bomet Real Estate
-
 Real estate activity has expanded in Bomet town and surrounding areas, reflecting economic growth and urbanization. Property development provides investment opportunity and accommodates urban population growth.
 
 ## Urban Development

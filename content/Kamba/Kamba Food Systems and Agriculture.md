@@ -1,5 +1,3 @@
-# Kamba Food Systems and Agriculture
-
 The Kamba food system reflects the semi-arid environment of Ukambani, integrating pastoral livestock keeping, rain-dependent agriculture, and increasingly market-dependent commodity production. This note examines traditional systems, colonial transformations, and contemporary challenges.
 
 ## Traditional Food Systems (Pre-1900)

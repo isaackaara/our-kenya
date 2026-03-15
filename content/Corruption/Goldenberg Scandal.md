@@ -1,5 +1,3 @@
-# The Goldenberg Scandal: Kenya's Largest Post-Independence Fraud
-
 ## The Setup: A Non-Existent Commodity
 
 In the early 1990s, the Kenyan government established an export incentive scheme designed to boost foreign exchange earnings. The scheme paid cash subsidies to companies that exported certain commodities. In theory, this encouraged production and export.

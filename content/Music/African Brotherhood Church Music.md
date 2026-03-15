@@ -1,5 +1,3 @@
-# African Brotherhood Church Music
-
 The independent African churches, particularly the African Brotherhood Church (ABC) and similar movements, developed distinctive musical worship styles that dramatically departed from European missionary norms. These churches, which broke from mission control in the 1940s and 1950s, created sacred music that was unapologetically African while remaining Christian, demonstrating that African cultural expression and Christian faith were fully compatible.
 
 The African independent church movement emerged partly from dissatisfaction with European missionary control over African religious life. Missionaries often insisted that authentic Christianity required adopting European cultural forms, including music. African church leaders who founded independent churches rejected this equation, arguing that Christianity could be expressed through African cultural practices.

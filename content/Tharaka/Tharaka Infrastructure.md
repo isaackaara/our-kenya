@@ -1,5 +1,3 @@
-# Tharaka Infrastructure
-
 Infrastructure in Tharaka territory lags behind many other Kenyan regions, with gaps in road networks, electricity, water systems, and communications. Infrastructure [[Tharaka Economic Development]] is a priority for county government and development partners.
 
 ## Road Networks

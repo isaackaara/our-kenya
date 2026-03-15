@@ -1,5 +1,3 @@
-# Isiolo Ethnic Mix
-
 Isiolo County exemplifies Kenya's ethnic diversity. The county's population comprises multiple communities, each with distinct languages, pastoral traditions, and cultural practices. This diversity reflects centuries of movement, trade, and coexistence across the region.
 
 Borana herders, who speak the Oromo language, form a significant portion of the pastoralist population and maintain strong ties to the broader Oromo-speaking world extending into Ethiopia. Somali communities, particularly the Ajuran and Degodia clans, occupy areas with connections to Kenya's northeastern regions and the Horn of Africa. Samburu pastoralists, linguistically and culturally related to the Maasai, inhabit western sections.

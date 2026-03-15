@@ -1,5 +1,3 @@
-# Corruption Networks Kenya
-
 ## Overview
 
 [[Corruption in Kenya Overview|Corruption]] in Kenya does not operate through isolated individuals acting alone. Rather, corruption is coordinated through informal networks that span government agencies, private business, and organized crime. Understanding [[State Capture Kenya|corruption networks]] is essential to understanding how corruption persists despite anti-corruption efforts: attacks on individual nodes fail because the network structure remains intact.

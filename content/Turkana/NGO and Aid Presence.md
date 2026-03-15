@@ -1,5 +1,3 @@
-# NGO and Aid Presence
-
 Turkana County has become one of Kenya's and Africa's largest concentrations of international non-governmental organizations (NGOs) and humanitarian agencies. This aid presence has been driven by Turkana's status as a chronically [[Drought and Famine]]-affected region with significant humanitarian need, the presence of the [[Kakuma Refugee Camp]] Refugee Camp (housing 200,000+ refugees), and limited [[Turkana County Government]] capacity.
 
 ## Major NGOs and Humanitarian Organizations

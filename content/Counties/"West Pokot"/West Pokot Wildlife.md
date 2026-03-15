@@ -1,5 +1,3 @@
-# West Pokot Wildlife
-
 West Pokot County has diverse wildlife populations adapted to varied ecological zones. Large mammals including elephants, buffalo, leopards, and lions inhabit protected areas and wildlife dispersal zones. Smaller mammals including hyenas, jackals, warthogs, and rodents are common. Bird species diversity is significant, with resident and migratory species present seasonally. Reptiles and amphibians adapt to both lowland and highland ecosystems. Fish populations exist in rivers and occasional water bodies. Wildlife distribution reflects habitat suitability and conservation status. The Nasalot National Reserve protects wildlife habitat in the county. Human-wildlife conflict occurs when wildlife (particularly elephants and carnivores) damage crops or livestock. Hunting has reduced some species populations, though enforcement challenges remain.
 
 ## Protected Areas and Conservation

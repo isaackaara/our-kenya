@@ -1,5 +1,3 @@
-# Mobile Banking Kenya
-
 Beyond [[M-Pesa]], Kenya's [[major banks]] have developed [[mobile banking platforms]] and [[apps]] to serve customers [[digitally]]. These [[platforms]] enable [[account access]], [[fund transfers]], [[bill payments]], and [[loan applications]] via [[mobile phone]], competing with [[Mobile Money]] operators and serving the broader [[financial services market]].
 
 ## Bank Mobile Platforms

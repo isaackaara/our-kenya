@@ -1,5 +1,3 @@
-# Conservation Economics Kenya
-
 [[Conservation|Conservation]] generates substantial [[Economic Value|economic value]] in Kenya, with [[Wildlife Tourism|wildlife-based tourism]] and [[Ecosystem Services|ecosystem services]] contributing billions of Kenyan shillings annually to [[National Economy|national economy]]. However, conservation costs ([[Human-Wildlife Conflict|human-wildlife conflict]], [[Land Use Opportunity Costs|foregone land use]], [[Enforcement Costs|enforcement]]) create [[Economic Burdens|economic burdens]] borne unequally across society. The distribution of [[Conservation Benefits|benefits and costs]] raises questions about [[Equity and Conservation|equity]] in conservation.
 
 ## Tourism Revenue Generation

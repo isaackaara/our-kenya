@@ -1,5 +1,3 @@
-# Maasai Education: From Resistance to Enrollment, with Ongoing Tensions
-
 ## Historical Resistance to Formal Education
 
 The Maasai historically resisted formal (colonial and post-colonial) education. Sending children to school disrupted pastoral activity. School calendars didn't align with pastoral seasons. Formal education taught non-Maasai languages and values.

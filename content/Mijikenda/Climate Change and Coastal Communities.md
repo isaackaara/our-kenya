@@ -1,5 +1,3 @@
-# [[climate change]] Change and Coastal Communities
-
 Climate change presents significant challenges and threats to Mjikenda and other coastal communities. Changing rainfall patterns, increased temperatures, sea level rise, and increased extreme weather events affect agriculture, water availability, health, and livelihoods. Adaptation and mitigation are increasingly important development priorities.
 
 ## Rainfall Variability and [[drought]]

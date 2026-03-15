@@ -1,5 +1,3 @@
-# Nyamira Education
-
 Education is valued in Nyamira County with networks of primary schools, secondary schools, and training institutions. County government has expanded educational services and infrastructure following devolution.
 
 ## Schools

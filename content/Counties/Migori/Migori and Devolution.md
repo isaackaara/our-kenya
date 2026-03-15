@@ -1,5 +1,3 @@
-# Migori and Devolution
-
 Kenya's constitutional devolution transferred governance responsibilities to county governments, including Migori County. Devolution established directly elected county government responsible for health, education, water, agriculture, and other services.
 
 ## County Government Structure

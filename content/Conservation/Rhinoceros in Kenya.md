@@ -1,5 +1,3 @@
-# Rhinoceros in Kenya
-
 Kenya's [[rhino]] populations, including [[black rhino|black]] and [[white rhino|white rhinos]], have experienced catastrophic decline and intensive recovery efforts. The near-extinction of both species and subsequent conservation efforts represent both conservation tragedy and potential success story, depending on species and management approach.
 
 ## Black Rhino Status

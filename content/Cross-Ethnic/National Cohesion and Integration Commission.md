@@ -1,5 +1,3 @@
-# National Cohesion and Integration Commission
-
 The National Cohesion and Integration Commission (NCIC) was established following the 2007-2008 post-election violence to promote [[National Identity Beyond Tribe|national unity]] and prevent future ethnic conflicts. The NCIC was created by the National Cohesion and Integration Act (2008) and operates as an independent constitutional commission under the [[Kenya|2010 constitution]]. The commission's mandate includes investigating ethnic violence, promoting [[Inter-Faith Dialogue Kenya|inter-ethnic dialogue]], and developing policies for [[Reconciliation and Healing|conflict prevention]].
 
 The NCIC's formation reflected recognition that Kenya's existing institutions had failed to prevent ethnic conflict. During 2007-2008, law enforcement agencies either participated in violence or failed to prevent it. Political leadership sometimes explicitly encouraged ethnic mobilization. The NCIC was thus created partly as an accountability mechanism and partly as an institution for promoting reconciliation and conflict prevention.

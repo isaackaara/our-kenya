@@ -1,5 +1,3 @@
-# Siaya Politics
-
 [[Siaya County]] has a distinctive political character within Kenya's [[../../Luo/Luo|Luo]]-dominated western region, marked by strong participation in national politics, connection to opposition movements, and the influence of prominent political personalities. The county represents a politically active constituency with deep historical roots in Kenya's struggle for independence and post-independence nation-building.
 
 ## Historical Political Presence

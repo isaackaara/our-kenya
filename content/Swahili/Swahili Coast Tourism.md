@@ -1,5 +1,3 @@
-# Swahili Coast Tourism
-
 The Kenyan [[Swahili]] coast has become one of East Africa's primary tourist destinations, with beach resort development at Diani, Watamu, [[Malindi]], and [[Lamu]] attracting international tourists. Tourism brings economic benefits but also creates cultural pressures, environmental degradation, and tensions between tourism development and traditional livelihoods within [[Swahili Civilization Overview|Swahili communities]].
 
 ## Beach Resort Development

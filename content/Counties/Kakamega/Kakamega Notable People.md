@@ -1,5 +1,3 @@
-# Kakamega Notable People
-
 Kakamega County has produced numerous prominent Kenyans who have achieved distinction in government, academia, business, sports, arts, and other fields. These individuals have made significant contributions to Kenya's development while maintaining connections to home communities. Notable people from Kakamega reflect the region's emphasis on education and achievement.
 
 ## Political Leaders

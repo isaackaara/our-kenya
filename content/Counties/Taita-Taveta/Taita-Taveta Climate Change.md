@@ -1,5 +1,3 @@
-# Taita-Taveta Climate Change
-
 Climate change poses one of the most significant threats to the environment, economy, and livelihoods of Taita-Taveta County. The county's semi-arid and montane ecosystems show considerable sensitivity to changes in temperature and precipitation patterns. Observed climate trends over recent decades indicate increasing temperatures, increased frequency of extreme weather events, and shifting rainfall patterns that are already affecting agricultural production, water availability, and ecosystem function.
 
 Observed warming trends in Taita-Taveta County are consistent with broader East African climate change patterns. Temperature data from meteorological stations indicate warming of approximately 0.3 degrees Celsius per decade over the past 40 years. This warming has been accompanied by shifts in the timing and distribution of rainfall. The bimodal rainfall pattern characteristic of the region (long rains approximately April-May and short rains approximately October-November) shows increasing variability and, in some areas, a trend toward reduced annual precipitation.

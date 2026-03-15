@@ -1,5 +1,3 @@
-# 1974 Election Timeline
-
 The 1974 election occurred within a specific timeline of political events and represented a particular moment in Kenya's post-independence history. Understanding the timeline of the 1974 election provides context for how the election fit within broader political developments.
 
 **1972-1973:** The government prepared for the 1974 election. Boundaries of constituencies were reviewed, and some adjustments were made. The government announced that elections would be held in 1974 and that KANU primaries would take place before the general election.

@@ -1,5 +1,3 @@
-# Samburu County
-
 Samburu County is in north-central Kenya, spanning approximately 21,000 square kilometers. With a population of approximately 320,000 inhabitants, the county is dominated by the Samburu people, a pastoralist community closely related linguistically and culturally to the Maasai.
 
 Samburu County is renowned for exceptional wildlife diversity and the unique Samburu ecosystem. Samburu National Reserve, located on the Ewaso Nyiro River, protects populations of five distinctive species found in this region but rarely or never elsewhere in Kenya: the reticulated giraffe, Grevy's zebra, Somali ostrich, gerenuk, and Beisa oryx. These species adaptations showcase evolution in arid African landscapes.

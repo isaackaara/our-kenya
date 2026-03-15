@@ -1,5 +1,3 @@
-# Luo Political Philosophy
-
 The Luo political tradition rests on principles fundamentally different from those of hierarchically organized communities. Where other Kenyan groups emphasized wealth accumulation, land control, or kinship rank, the Luo developed a political culture centered on oratory, intellectual argument, and the right to challenge authority through words.
 
 ## The Tradition of Oratory

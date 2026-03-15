@@ -1,5 +1,3 @@
-# Kikuyu and Real Estate
-
 The relationship between the [[Kikuyu]] people and real estate investment has been shaped by historical land dispossession, colonial policies, post-independence land reform, and a deep cultural attachment to land ownership. The Kikuyu have become one of Kenya's dominant players in the property market, particularly in Nairobi and its surrounding areas, through the accumulation of capital, organized investment groups, and a tradition of viewing land as both economic asset and cultural heritage.
 
 ## Land as Cultural Identity

@@ -1,5 +1,3 @@
-# Mijikenda Women
-
 Women play important roles in [[Mijikenda Overview|Mjikenda society]] as farmers, traders, mothers, and increasingly as wage workers and political actors. The role of women has been shaped by traditional gender norms emphasizing male authority in public life while recognizing female contributions to economic production and family welfare. Mekatilili wa Menza represents the most famous example of female leadership and resistance, though many other Mjikenda women have contributed to their communities' welfare and development.
 
 ## Traditional Roles

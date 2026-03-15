@@ -1,5 +1,3 @@
-# Portuguese Domination
-
 Portuguese dominance of the East African coast lasted approximately from 1500 to 1698, spanning nearly two centuries. During this period, the Portuguese established military control through [[Fort Jesus]] and other fortifications, imposed tribute systems on [[Swahili Civilization Overview|Swahili city-states]], interfered in local politics, and encountered persistent [[Swahili Identity|Swahili resistance]] that ultimately contributed to Portuguese military exhaustion and withdrawal.
 
 ## Establishment of Control

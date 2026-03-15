@@ -1,5 +1,3 @@
-# Meru and the Tharaka
-
 The Tharaka people form a smaller ethnic community within Meru County, historically occupying the lower elevation zones to the south and southeast. The relationship between the [[../../Meru/Meru|Meru]] majority and the Tharaka minority reflects patterns of ethnic coexistence in Kenya's highlands. Tharaka interests and identity are often subsumed within Meru County institutions, creating representation challenges.
 
 ## Tharaka History and Settlement

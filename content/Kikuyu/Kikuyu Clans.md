@@ -1,5 +1,3 @@
-# Kikuyu Clans
-
 The Kikuyu people are organized into nine clans (also called moieties), each with associated founding ancestor, totem animal, and specific cultural identity. Clan membership is patrilineal, with individuals belonging to their father's clan. The clan system structures kinship relationships, marriage rules, and community identity.
 
 ## The Nine Clans

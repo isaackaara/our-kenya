@@ -1,5 +1,3 @@
-# Machakos County
-
 Machakos County is located east of Nairobi in the Rift Valley and Coastal regions of Kenya. With a population of approximately 1.4 million people, it is one of the most densely populated rural counties in the nation. The county is historically significant as the [[../../Kamba/Kamba|Kamba]] heartland and the site of one of the first Christian missionary stations in Kenya, established in 1895. Machakos town served as the first British administrative capital in the Kenyan interior, preceding Nairobi as the colonial headquarters from 1889 to 1899.
 
 The county is internationally recognized for the Machakos Miracle, an environmental transformation in which severely degraded hillsides from the colonial era were restored through terracing, tree planting, and soil conservation into productive agricultural land by the 1990s. This achievement stands as a rare African environmental success story. Today, Machakos County increasingly functions as a Nairobi dormitory county, with extensive commuter networks and peri-urban growth spreading eastward.

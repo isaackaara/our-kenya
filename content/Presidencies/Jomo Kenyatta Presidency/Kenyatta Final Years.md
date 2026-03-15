@@ -1,5 +1,3 @@
-# Kenyatta Final Years
-
 The final years of Jomo Kenyatta's presidency, from approximately 1974 to 1978, were marked by declining health, increasing isolation from day-to-day governance, and intensifying succession struggles within the government. While Kenyatta remained formally in control, his diminishing physical capacity created a power vacuum that ambitious subordinates competed to fill. These years set the stage for the transition to Daniel arap Moi's presidency and revealed the fragility of the personalistic, presidentialist system that had been established.
 
 By 1974, Kenyatta was in his eighties (exact dates of his birth remain uncertain, but he was born in the mid-1890s). He had suffered various health problems in previous years but had remained engaged in governance. However, by the mid-1970s, his health was deteriorating noticeably. He suffered from arthritis and other age-related ailments that reduced his mobility and affected his ability to engage in public activities. His hearing declined, and his overall physical vigor diminished significantly.

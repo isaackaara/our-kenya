@@ -1,5 +1,3 @@
-# The Great Rift Valley
-
 The [[Great Rift Valley]] is a massive geological feature running roughly north-south through East Africa, creating distinctive topography, ecology, and climate zones. It is one of the world's most remarkable geological formations and shapes [[East African Community]] geography fundamentally.
 
 ## Geographic Extent

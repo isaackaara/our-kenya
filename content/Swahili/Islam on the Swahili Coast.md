@@ -1,5 +1,3 @@
-# Islam on the Swahili Coast
-
 Islam arrived on the East African coast with [[Arab Settlement on the Coast|Arab and Persian traders]], probably beginning in the 8th-9th centuries CE. The religion gradually spread among coastal populations and eventually became the defining feature of [[Swahili Identity|Swahili identity]]. Islam provided ideological framework for urban civilization, legitimate authority for rulers, connections to [[The Indian Ocean World|a broader Islamic world]], and shared practice that bound together diverse coastal populations within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Early Arrival and Spread

@@ -1,5 +1,3 @@
-# Samburu Girls Education
-
 Girls' education in [[Samburu]] faces significant obstacles including [[Samburu Early Marriage|early marriage]], herding responsibilities, household duties, and cultural preferences for boys' education. Despite these challenges, girls' school enrollment has increased through education campaigns and policy efforts. Educational access remains unequal compared to boys, with enrollment and completion gaps persisting.
 
 ## Access Barriers

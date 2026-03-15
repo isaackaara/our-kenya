@@ -1,5 +1,3 @@
-# Colonial Administration
-
 The District Commissioner (DC) system was the backbone of colonial administration in Kenya. Young British men (often from Oxford and Cambridge) were appointed to govern vast territories with near-absolute power. The DC reported to the Provincial Commissioner, who reported to the Governor. This hierarchical structure allowed the Crown to govern Kenya with a minimal administrative footprint: sometimes a single DC and a handful of subordinates governed an area the size of a small country.
 
 ## The District Commissioner as Autocrat

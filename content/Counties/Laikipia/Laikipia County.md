@@ -1,5 +1,3 @@
-# Laikipia County
-
 Laikipia County is a semi-arid plateau county in central Kenya, north of [[../../Conservation/Mount Kenya National Park|Mount Kenya]]. The county stretches from the [[../../Conservation/Aberdare National Park|Aberdare Range]] in the south to the northern frontier. The population is approximately 520,000 people and is ethnically very mixed with [[../../Kikuyu/Kikuyu|Kikuyu]] smallholders in the south, large-scale ranches (many historically white settler farms, now mixed ownership), [[../../Maasai/Maasai|Maasai]] pastoralists, [[../../Samburu/Samburu|Samburu]] communities, Pokot, and Turkana peoples. Nanyuki is the most important town, shared with Meru County. Laikipia is famous worldwide for wildlife conservation with high concentrations of endangered species (elephant, black rhino, lion) outside national parks.
 
 ## Geography and Climate

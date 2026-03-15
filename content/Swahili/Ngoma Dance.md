@@ -1,5 +1,3 @@
-# Ngoma Dance
-
 Ngoma refers to the traditional dance traditions of the [[Swahili]] coast, encompassing various dances performed at different occasions. The term "ngoma" can refer both to the drums used and to the dances themselves. Different ngoma dances are performed for different social occasions, reflecting the social context and participants (particularly gender) within [[Swahili Civilization Overview|Swahili society]].
 
 ## Types of Ngoma Dances

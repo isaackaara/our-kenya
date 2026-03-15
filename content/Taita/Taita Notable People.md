@@ -1,5 +1,3 @@
-# Taita Notable People
-
 Several prominent Kenyans have Taita origins and have contributed to national politics, business, academia, and other fields. These individuals have risen to prominence while maintaining connections to their Taita heritage.
 
 ## Political Figures

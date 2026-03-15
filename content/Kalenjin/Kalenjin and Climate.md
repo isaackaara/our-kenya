@@ -1,5 +1,3 @@
-# Kalenjin and Climate
-
 The Kalenjin highlands experience variable rainfall and increasing climate variability, with drought and flooding becoming more frequent and intense. Pastoral and agricultural livelihoods in Kalenjin areas are highly vulnerable to climate shocks, with droughts devastating herds and reducing agricultural productivity.
 
 ## Climate Patterns and Variability

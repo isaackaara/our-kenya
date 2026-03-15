@@ -1,5 +1,3 @@
-# Mandera Timeline
-
 Mandera County's contemporary history reflects broader East African developments while embodying distinctive experiences of pastoral communities navigating colonialism, state formation, and contemporary security challenges.
 
 Pre-1880: Somali pastoral communities inhabit the region, managing rangelands through clan governance and maintaining trade networks across the Horn of Africa.

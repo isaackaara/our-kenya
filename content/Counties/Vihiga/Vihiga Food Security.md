@@ -1,5 +1,3 @@
-# Vihiga Food Security
-
 Vihiga County faces food security challenges from feeding an extremely dense population from limited land while maintaining quality agricultural production. Food production includes maize as staple, tea and vegetables as supplementary crops, and dairy products. Food security varies seasonally and with agricultural productivity. Poverty and income limitations constrain food access for lower-income populations.
 
 ## Food Production

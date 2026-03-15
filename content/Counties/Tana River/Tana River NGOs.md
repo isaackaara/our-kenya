@@ -1,5 +1,3 @@
-# Tana River NGOs
-
 Non-governmental organizations (NGOs) operate across Tana River County, implementing development projects, providing services, and supporting advocacy on diverse issues including education, healthcare, conservation, and peace-building. NGO presence has expanded substantially since the 1990s, though organizational capacity and sustainability vary widely.
 
 International NGOs including World Food Programme, Kenya Red Cross, and international conservation organizations implement large-scale programs in Tana River. These organizations provide humanitarian assistance during emergencies, operate development programs, and conduct advocacy. International NGO presence brings funding, technical expertise, and international attention to county issues. However, international NGO programs sometimes prioritize organizational mandates over community needs, and program withdrawal when funding ends creates sustainability challenges.

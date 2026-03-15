@@ -1,5 +1,3 @@
-# Tharaka Devolution
-
 The 2010 Kenyan constitution introduced devolved [[Tharaka-Nithi [[Tharaka-Nithi County]]]] through county government. For the Tharaka, devolution has created new opportunities and challenges for representation and resource management within Tharaka-Nithi County.
 
 ## The 2013 Transition

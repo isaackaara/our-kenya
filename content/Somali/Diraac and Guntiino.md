@@ -1,5 +1,3 @@
-# Diraac and Guntiino
-
 The diraac and guntiino are traditional [[Somali]] women's garments that reflect [[Somali|Somali cultural identity]], [[Islam in Kenyan Somali Life|Islamic modesty principles]], and aesthetic traditions. In Kenya, Somali women's dress blends traditional, Islamic, and contemporary modern styles, creating a distinctive visual culture in communities across northern Kenya and in [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]].
 
 ## The Diraac

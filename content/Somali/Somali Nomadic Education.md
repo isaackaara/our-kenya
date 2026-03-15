@@ -1,5 +1,3 @@
-# Somali [[Somali Nomadic Education|nomadic]] Education
-
 Providing quality education to nomadic pastoralist children in the Northern Frontier District presents a fundamental challenge to Kenya's education system. Somali [[Camel Economy|pastoral]] communities, whose livelihoods depend on livestock mobility across arid rangelands, confront schooling systems designed for settled populations.
 
 ## The Nomadic Education Gap

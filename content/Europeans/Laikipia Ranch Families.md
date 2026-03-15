@@ -1,5 +1,3 @@
-# Laikipia Ranch Families
-
 The Laikipia plateau, stretching north of the Equator at approximately 2,000-2,500 meters elevation, contains the highest concentration of white-owned land in contemporary Kenya. This sprawling region has become a distinctive microcosm of settler land ownership, wildlife conservation, pastoral community relations, and the fragility of white property claims in post-colonial Africa.
 
 ## The Geography and Settlement Pattern

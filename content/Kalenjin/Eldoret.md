@@ -1,5 +1,3 @@
-# [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]]
-
 Eldoret is the fifth largest city in Kenya and the de facto capital of the Kalenjin heartland in the Rift Valley. Founded as a staging post by South African Boer settlers in 1910, it has transformed into a global training hub for distance runners and a symbol of Kalenjin excellence in sport, education, and commerce.
 
 ## Key Facts

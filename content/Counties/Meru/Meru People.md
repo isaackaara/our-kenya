@@ -1,5 +1,3 @@
-# Meru People
-
 The Meru people form the dominant ethnic community in Meru County, comprising approximately 85 percent of the county population. They are a Bantu-speaking group with historical roots in the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region. The Meru speak the Kimeru language, which belongs to the Northeast Bantu language family and shares linguistic ties with neighboring communities.
 
 ## Historical Origins

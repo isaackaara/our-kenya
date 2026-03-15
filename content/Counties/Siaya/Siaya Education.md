@@ -1,5 +1,3 @@
-# Siaya Education
-
 Education in [[Siaya County]] includes primary schools, secondary schools, and tertiary institutions, though access and quality remain challenges. The education system reflects Kenya's national curriculum structure while being adapted to local conditions.
 
 ## Primary Education

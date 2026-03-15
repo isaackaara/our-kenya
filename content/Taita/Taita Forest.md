@@ -1,5 +1,3 @@
-# Taita Forest
-
 The Taita Hills contain remnant cloud forests that are among Kenya's most important and endangered ecosystems. These forests are critically important for water supply, biodiversity conservation, and as habitat for endemic species.
 
 ## Forest Characteristics

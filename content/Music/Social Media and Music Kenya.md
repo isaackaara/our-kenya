@@ -1,5 +1,3 @@
-# Social Media and Music Kenya
-
 Social media platforms, particularly TikTok, Instagram, Twitter, and Facebook, transformed Kenyan music discovery, promotion, and consumption in ways that fundamentally altered power dynamics between artists, audiences, and traditional gatekeepers like radio stations and music television. The shift from broadcast-based discovery to algorithm-driven, socially mediated music consumption represented perhaps the most significant structural change in Kenya's music ecosystem since the arrival of streaming platforms.
 
 TikTok's impact was particularly dramatic. The platform's algorithm, favoring short-form video content with trending audio, created possibilities for viral music success entirely independent of traditional promotion. A Kenyan song could go viral on TikTok through user-generated dance challenges, lip-sync videos, or meme formats without any radio play or professional marketing. [[Music/Gengetone Movement|Gengetone]] artists quickly understood this dynamic, creating music optimized for TikTok virality: short, catchy hooks; dance-friendly rhythms; lyrics that invited creative interpretation and user participation.

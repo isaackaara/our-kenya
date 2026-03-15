@@ -1,5 +1,3 @@
-# Homa Bay Women
-
 Women in Homa Bay County play central economic and social roles while facing significant constraints in resource access, decision-making authority, and opportunity. Gender relations reflect both traditional Luo customs and contemporary constitutional gender equality guarantees.
 
 ## Economic Roles and Livelihoods

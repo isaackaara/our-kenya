@@ -1,5 +1,3 @@
-# Homa Bay Youth
-
 Youth in Homa Bay County face substantial challenges in education access, employment, and income generation, driving migration and contributing to social tensions. The youth population represents a significant demographic proportion.
 
 ## Unemployment and Underemployment

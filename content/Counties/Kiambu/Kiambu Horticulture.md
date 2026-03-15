@@ -1,5 +1,3 @@
-# Kiambu Horticulture
-
 Cut flowers and vegetables grown in Kiambu are exported internationally, contributing significantly to Kenya's horticultural export sector. The county's cool highlands and good soils support high-quality flower and vegetable production for international markets. Flower farms, particularly in areas surrounding Nairobi, grow roses, carnations, and other ornamental flowers in greenhouses, shipping them by air to Europe and other markets.
 
 Vegetable production in Kiambu includes tomatoes, cabbages, onions, carrots, and other crops supplied to Nairobi and regional markets. Some vegetable farmers focus on export markets, producing to international standards and certifications. Horticulture provides income for both large commercial operations and smallholder farmers, though productivity and profitability vary significantly. Commercial farmers investing in irrigation, greenhouse technology, and improved varieties achieve higher yields and better market prices than smallholders with limited resources.

@@ -1,5 +1,3 @@
-# The Luo-Kikuyu Axis
-
 [[Kenya]]'s political history since 1963 turns on a single relationship: whether the [[Luo]] and [[Kikuyu]] are allied or opposed. When they govern together, they govern. When they fracture, the nation fractures. The pattern has repeated across three political generations.
 
 ## Key Facts

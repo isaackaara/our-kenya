@@ -1,5 +1,3 @@
-# Livestock Markets Northern Kenya
-
 [[Livestock Markets Northern Kenya|Livestock markets]] are the commercial backbone of the [[Northern Kenya Development Gap|northern Kenyan]] economy and essential to [[Kenyan Somali Identity|Somali]] pastoral communities. The major markets in [[Garissa County]], [[Wajir County]], [[Mandera County]], and Isiolo facilitate the buying and selling of cattle, goats, [[Camel Economy|camels]], and sheep. These markets connect [[NFD Pastoralism|pastoral]] producers to urban consumers and generate livelihoods for traders, brokers, and transport workers.
 
 ## Major Markets

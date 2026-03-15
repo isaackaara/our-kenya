@@ -1,5 +1,3 @@
-# Female Gospel Artists Kenya
-
 Female artists drove Kenya's [[Music/Kenyan Gospel Music Boom|gospel music explosion]] from the 1980s through 2000s, achieving commercial success and cultural influence that challenged patriarchal structures in both church and music industry. Women like Esther Wahome, Angela Chibalonza, Emmy Kosgei, and others demonstrated that female musicians could lead worship, dominate commercial gospel markets, and model empowered Christian womanhood.
 
 The [[Music/Praise and Worship Movement Kenya|charismatic Christianity movement]] created unprecedented opportunities for women in church music. Unlike traditional denominations that restricted women's ministry roles, charismatic churches welcomed female worship leaders who led mixed congregations in sung worship. This theological egalitarianism in worship transferred to commercial gospel music, where female artists achieved success unavailable in more restrictive church contexts.

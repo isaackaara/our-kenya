@@ -1,5 +1,3 @@
-# Shaba National Reserve
-
 Shaba National Reserve, situated in Isiolo County, is historically significant as the site of Joy Adamson's death in January 1980. Adamson, author of the acclaimed memoir "Born Free" about the lioness Elsa, was murdered at a ranger's compound in the reserve while working on wildlife conservation projects.
 
 Shaba shares ecological characteristics with neighbouring Samburu and Buffalo Springs reserves. The reserve protects diverse wildlife species adapted to arid and semi-arid conditions. Vegetation ranges from sparse scrubland to riverine forests along seasonal watercourses.

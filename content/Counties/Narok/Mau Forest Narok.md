@@ -1,5 +1,3 @@
-# Mau Forest Narok
-
 The Mau Forest complex in Narok County encompasses portions of Kenya's largest remaining closed-canopy forest, a critical watershed and biodiversity area that has experienced severe degradation from deforestation and encroachment over recent decades.
 
 The Mau Forest functions as one of Kenya's most important water towers, supplying rivers including the Mara River that feeds [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara ecosystem and downstream water users across multiple counties.

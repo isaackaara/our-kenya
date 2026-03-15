@@ -1,5 +1,3 @@
-# Kiraitu Murungi
-
 Kiraitu Murungi is the most prominent [[Meru people|Meru]] politician of the post-independence era. A lawyer by training, human rights activist, and political strategist, Murungi has held key positions in Kenya's government across multiple administrations.
 
 ## Early Life and Education

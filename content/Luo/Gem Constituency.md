@@ -1,5 +1,3 @@
-# Gem Constituency
-
 Gem Constituency, located in [[../Counties/Siaya/Siaya County|Siaya County]] in the Luo heartland, is one of Kenya's most intellectually and politically significant constituencies. Home to [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]], Atieno Odhiambo, and numerous other prominent Luo figures, Gem has fostered an intellectual tradition spanning education, literature, history, and political thought.
 
 ## Geography and Demographics

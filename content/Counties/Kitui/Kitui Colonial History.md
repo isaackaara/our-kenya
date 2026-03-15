@@ -1,5 +1,3 @@
-# Kitui Colonial History
-
 British colonial administration in Kitui followed broader patterns established in other Kenyan regions, introducing administrative controls, tax systems, and labour recruitment. The Kamba populations of Kitui resisted colonialism while eventually adapting to colonial administrative structures. Colonial impact on Kitui shaped the county's twentieth-century trajectory and contributed to later underdevelopment.
 
 Early British contact with Kitui occurred through missionary activity and trading expeditions. European explorers including Johann Ludwig Krapf traversed Kitui regions, observing geography and populations. Missionaries established presence before formal colonial administration.

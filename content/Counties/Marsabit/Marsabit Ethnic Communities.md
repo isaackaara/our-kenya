@@ -1,5 +1,3 @@
-# Marsabit Ethnic Communities
-
 Marsabit County's population comprises multiple ethnic communities, each with distinctive languages, pastoral traditions, and cultural practices. This diversity reflects adaptation to Marsabit's varied environments and historical migration and trading patterns.
 
 Borana, an Oromo-speaking pastoralist community, occupy sections of Marsabit County and maintain extensive connections to Borana populations in Ethiopia and other Kenyan counties. [[../../Somali/Somali|Somali]] traditionally herded cattle supplemented by camels and goats.

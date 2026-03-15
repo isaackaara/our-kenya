@@ -1,5 +1,3 @@
-# Kenya 2012 London Olympics: Rudisha's World Record
-
 Kenya's 2012 London Olympics appearance featured David Rudisha's historic 800m world record (1:40.91), representing one of the greatest individual Olympic performances in track and field. Rudisha's dominance in this event and his world record established Kenya as a power in middle-distance running. Kenya won seven gold medals at these Games, demonstrating consistent success across multiple distance events.
 
 ## See Also

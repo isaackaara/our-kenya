@@ -1,5 +1,3 @@
-# [[Giriama]] People
-
 The Giriama are the largest and most politically prominent of the nine [[Mijikenda]] sub-groups. They occupy primarily Kilifi County in the northern coast region of [[Kenya]], with their heartland stretching inland from Kilifi and Malindi. The Giriama have maintained a distinctive identity, resisted colonial domination more effectively than many other groups, and produced some of Kenya's most celebrated resistance figures.
 
 ## Population and Territory

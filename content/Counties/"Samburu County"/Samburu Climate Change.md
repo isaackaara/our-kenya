@@ -1,5 +1,3 @@
-# Samburu Climate Change and Drought
-
 Climate change poses a critical challenge to Samburu County. Scientific evidence indicates that Samburu's already semi-arid environment is becoming progressively more arid, with precipitation patterns becoming more erratic and droughts more frequent and severe.
 
 Temperature observations show consistent warming across the region. Maximum and minimum temperatures have increased over recent decades. Higher temperatures intensify evaporation, compounding the effects of reduced rainfall on water availability.

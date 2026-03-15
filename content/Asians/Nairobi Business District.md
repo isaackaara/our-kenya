@@ -1,5 +1,3 @@
-# Nairobi Business District
-
 [[Nairobi]]'s original commercial district was built by [[Asian merchants]] who understood urban commerce and had capital to invest. From a railway depot in 1899, Nairobi became a city largely shaped by Asian merchants' entrepreneurship and real estate investment.
 
 ## The Early Years: Railway Camp to Town

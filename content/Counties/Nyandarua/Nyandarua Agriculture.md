@@ -1,5 +1,3 @@
-# Nyandarua Agriculture
-
 Agriculture forms the foundation of Nyandarua's economy, adapted to the county's cool highland climate and high altitude. Wheat is the primary cash crop, supported by extensive smallholder cultivation. Dairy farming on lush pastures provides important income and nutrition. Potatoes supply food and income. Pyrethrum production, historically important, has declined but persists. Horticulture including vegetables and cut flowers provides supplementary income. Tea cultivation in lower-altitude zones complements highland crops.
 
 ## Wheat Production

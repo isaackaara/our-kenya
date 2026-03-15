@@ -1,5 +1,3 @@
-# Kiambu Politics
-
 Kiambu politics centers on [[../../Kikuyu/Kikuyu|Kikuyu]] identity, with the county being the Kikuyu heartland and therefore the political foundation for any nationally successful Kikuyu candidate or political movement. The county has consistently delivered voting blocs to Kikuyu presidential candidates, making it critical to election outcomes. However, Kiambu is not monolithic politically; internal divisions between Kikuyu factions, regions, and ideological groups can be fierce and consequential.
 
 The Kenyatta family connection is central to Kiambu politics. [[../../Kikuyu/Jomo Kenyatta|Jomo Kenyatta]]'s family estate at Gatundu in Kiambu made the area symbolically important to post-independence [[../../Kikuyu/Kikuyu|Kikuyu]] politics. Subsequent members of the Kenyatta family have maintained political prominence in the county. Land ownership concentrated in wealthy elite families has reinforced power imbalances and created grievances among landless or land-poor residents.

@@ -1,5 +1,3 @@
-# Mijikenda Cuisine
-
 Mijikenda cuisine reflects the coastal environment, agricultural products, and long history of trade. Traditional foods have adapted over centuries but retain distinctive characteristics rooted in the hinterland and coastal context.
 
 ## Staple Foods

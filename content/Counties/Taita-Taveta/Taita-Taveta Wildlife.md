@@ -1,5 +1,3 @@
-# Taita-Taveta Wildlife
-
 The wildlife of Taita-Taveta County is extraordinarily diverse, encompassing both the large mammal fauna of the Tsavo ecosystem and the endemic and specialized species of the montane forests. The county's wildlife is not uniformly distributed: the Tsavo National Parks harbour dense concentrations of elephants, lions, buffalo, and other large herbivores, while the Taita Hills support concentrated populations of endemic birds and small vertebrates found nowhere else on Earth. Wildlife conservation, human-wildlife conflict, and sustainable wildlife management constitute major challenges and opportunities.
 
 The flagship megafauna of Taita-Taveta's Tsavo region include African elephants, which form one of the largest elephant populations in Kenya. Tsavo is also home to substantial populations of lions, Cape buffalo, zebras, giraffes, wildebeest, and numerous antelope species. The presence of large predators and herbivores creates the dynamic wildlife communities characteristic of African savannas. Tsavo also supports populations of hippopotamus, crocodiles, and diverse reptile species.

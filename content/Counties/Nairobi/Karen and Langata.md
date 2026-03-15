@@ -1,5 +1,3 @@
-# Karen and Langata: Nairobi's Historic European Suburbs
-
 Karen and Langata are wealthy, low-density residential suburbs in the southern part of Nairobi that historically housed European settlers and continue to be among the city's most exclusive residential areas.
 
 ## Karen: The Coffee Farm Legacy

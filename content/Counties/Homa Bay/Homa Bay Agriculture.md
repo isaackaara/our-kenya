@@ -1,5 +1,3 @@
-# Homa Bay Agriculture
-
 Agriculture provides the primary livelihood for inland populations in Homa Bay County, complementing fishing in lakeshore communities. The agricultural sector is based primarily on smallholder subsistence production with limited commercialization.
 
 ## Primary Crops

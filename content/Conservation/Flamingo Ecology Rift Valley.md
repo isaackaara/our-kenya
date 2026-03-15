@@ -1,5 +1,3 @@
-# Flamingo Ecology Rift Valley
-
 [[Flamingos]] dominate Kenya's [[Rift Valley]] soda lakes, with millions of birds concentrating in certain [[Lakes|lakes]] under favorable conditions. [[Flamingo Populations|Flamingo populations]] are highly responsive to [[Water Chemistry|lake water chemistry]] and [[Productivity|productivity]], creating [[Population Fluctuations|dramatic population fluctuations]]. The flamingos are iconic symbols of Kenya's [[Wildlife|wildlife]] and [[Major Tourism Attractions|major tourism attractions]], particularly at [[Lake Nakuru]] and [[Lake Bogoria]].
 
 ## Lake Nakuru Flamingos

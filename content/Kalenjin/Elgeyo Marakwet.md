@@ -1,5 +1,3 @@
-# Elgeyo Marakwet
-
 Elgeyo Marakwet County encompasses two closely related but geographically distinct Kalenjin sub-groups: [[Kalenjin|Kalenjin]] (also called Keiyo) and [[Kalenjin|Kalenjin]]. Together they inhabit the western escarpment of Kenya's Great Rift Valley, with dramatically contrasting environments shaped by altitude and water availability.
 
 ## Geography: The Escarpment and the Valley

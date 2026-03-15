@@ -1,5 +1,3 @@
-# Female Genital Mutilation Campaign
-
 ## Historical Context
 
 Female genital mutilation (FGM) has historically been practiced in some Maasai communities as part of female initiation ceremonies. The practice involved cutting/altering female genitalia as a rite of passage marking transition to womanhood. The practice was connected to cultural expectations about female sexuality, marriageability, and social identity. Medicalized understanding views FGM as harmful to women's health and a violation of human rights.

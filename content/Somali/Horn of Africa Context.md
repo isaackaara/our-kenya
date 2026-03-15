@@ -1,5 +1,3 @@
-# Horn of Africa Context
-
 The [[Kenyan Somali|Kenyan Somali]] cannot be understood apart from broader [[Horn of Africa Context|Horn of Africa]] dynamics. The [[Somali]] people span multiple nation-states and political entities: the [[Somalia|Somali Republic]] (collapsed 1991), Somaliland (de facto independent since 1991), Puntland (autonomous since 1998), the Federal Government of Somalia (established 2012), and the [[Kenyan Somali Diaspora (Global)|Somali diaspora]] globally. Clan identity transcends these political boundaries. Understanding Kenyan Somali requires understanding how these entities connect to clan identity and trans-national Somali consciousness.
 
 ## Somalia's State Collapse

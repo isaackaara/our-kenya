@@ -1,5 +1,3 @@
-# West Pokot Pastoralism
-
 [[West Pokot Pastoralism]] remains the dominant livelihood system for significant populations in [[West Pokot County]], particularly in arid and semi-arid lowland areas where rainfall is insufficient for reliable rainfed agriculture. Pastoral production based on herds of cattle, goats, sheep, and camels provides subsistence food security through milk and meat products while livestock holdings represent accumulated wealth and economic security. The Pokot have developed sophisticated pastoral knowledge and production systems adapted to semi-arid environments, with complex social institutions organizing pastoral communities. Contemporary pastoral systems face multiple pressures from climate change, land scarcity, conflict, and market integration, creating challenges for pastoral livelihoods and pastoral communities. Understanding pastoralism is essential to understanding West Pokot economy and society.
 
 ## Livestock Types and Herd Composition

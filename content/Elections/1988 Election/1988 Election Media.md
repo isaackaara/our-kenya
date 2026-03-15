@@ -1,5 +1,3 @@
-# 1988 Election Media
-
 Media coverage of the 1988 election was constrained by government control and self-censorship. State media provided government-favorable coverage. International media coverage was critical of the election and documented the rigging. Kenyan newspapers provided limited critical reporting, though some journalists reported on the election controversially. The tension between state media control and growing international media attention to electoral fraud highlighted the limits of government media monopoly in the era of international news flow.
 
 ## See Also

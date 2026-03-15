@@ -1,5 +1,3 @@
-# Kirinyaga Youth
-
 Young people in Kirinyaga County face the challenge of accessing employment and building livelihoods in an economy dominated by agricultural production on small farms. Limited opportunities in agriculture push youth toward urban migration, education, and non-farm employment. Youth engagement in cooperative and community organizations remains important despite economic pressures. Many young people work in agricultural processing, services, and informal sectors.
 
 ## Agricultural Employment

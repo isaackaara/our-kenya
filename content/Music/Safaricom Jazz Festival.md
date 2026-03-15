@@ -1,5 +1,3 @@
-# Safaricom Jazz Festival
-
 The Safaricom Jazz Festival represents corporate cultural patronage at its most visible, demonstrating both the potential and limitations of private-sector support for arts in Kenya. Sponsored by telecommunications giant Safaricom, the festival has become one of East Africa's premier jazz events, bringing international jazz legends to Nairobi while supporting local talent development and using ticket sales and corporate funding to sustain programming that would be impossible through market mechanisms alone.
 
 The festival's origins lie in recognizing that jazz, while having devoted Kenyan audiences, could not generate sufficient commercial revenue to support high-quality events without external funding. Safaricom's sponsorship, typically around KES 2 million per edition, provided resources to book international headliners including Jonathan Butler, Jimmy Dludlu, Kunle Ayo, Salif Keita, and Chris Turner, artists whose fees would be prohibitive for independent promoters. This corporate backing transformed jazz from marginalized genre to premium cultural offering.

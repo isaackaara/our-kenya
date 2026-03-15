@@ -1,5 +1,3 @@
-# Kwale Real Estate
-
 Real estate development in Kwale, particularly concentrated along the Diani Beach corridor, has transformed coastal landscapes from primarily agricultural and fishing areas into mixed-use tourism and residential zones. Property values have escalated dramatically in accessible coastal areas, creating wealth opportunities for landowners while pricing out many community members from land ownership.
 
 Diani Beach has experienced the most intense real estate development, with numerous resort properties, residential villas, and commercial establishments covering previously agricultural land. Property values in Diani have increased exponentially over recent decades, making land ownership financially prohibitive for many local residents. Foreign and non-local investors have purchased substantial coastal land, converting it to tourist and residential purposes.

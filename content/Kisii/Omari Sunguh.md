@@ -1,5 +1,3 @@
-# Omari Sunguh
-
 Omari Sunguh was a Gusii politician and Member of Parliament who served from the late 1980s through the early 2000s, representing Kisii County constituencies. Sunguh exemplified the educated Gusii professional politician who bridged the gap between grassroots constituency politics and national political alignments.
 
 ## Early Life and Background

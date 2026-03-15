@@ -1,5 +1,3 @@
-# Maasai Mara National Reserve
-
 The Maasai Mara National Reserve is Kenya's most famous and most visited [[Kenya Conservation Overview|wildlife reserve]], containing extraordinary biodiversity and wildlife populations. The reserve encompasses approximately 1,500 square kilometers and protects diverse savanna ecosystems. The Great Migration of wildebeest and zebras across the Mara makes it globally significant for wildlife viewing.
 
 ## Geography and Ecosystem

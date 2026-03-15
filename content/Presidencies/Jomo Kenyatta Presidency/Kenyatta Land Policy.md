@@ -1,5 +1,3 @@
-# Kenyatta Land Policy
-
 Land was the most contested issue in Kenya's independence settlement. The colonial system had dispossessed Africans of vast territories, particularly in the White Highlands, which were reserved for European settlement. Kenyatta's government inherited a situation in which the most productive agricultural land in Kenya was still owned by European settlers, while millions of Africans had been pushed onto marginal reserves or existed as landless laborers. The transformation of this colonial land structure was therefore both economically and politically crucial.
 
 Kenyatta's approach to land reform became known as the "willing buyer, willing seller" scheme. Under this framework, the government would assist African Kenyans to purchase land from European settlers who were willing to sell, typically at market prices. The government provided loans and subsidies to facilitate these purchases, and the World Bank and bilateral donors (particularly Britain) provided financing for the overall land transfer program.

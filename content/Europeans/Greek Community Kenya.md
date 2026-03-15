@@ -1,5 +1,3 @@
-# Greek Community Kenya
-
 A significant Greek community established itself in colonial and post-colonial Kenya, primarily engaged in commerce, industry, and agriculture. The Greek presence, though smaller than British settlers, was economically important and culturally distinctive. Greeks occupied an intermediate position in colonial racial hierarchies, neither European settler dominance nor African subordination, though generally aligned with colonial interests.
 
 ## Early Greek Arrival

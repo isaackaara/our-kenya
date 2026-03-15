@@ -1,5 +1,3 @@
-# Kamba Timeline (Pre-Colonial to 2026)
-
 This chronological reference documents key dates and events in Kamba history from pre-colonial origins through 2026. Where precise dates are unknown, approximate periods are indicated.
 
 ## Pre-Colonial Era (Approximate 1400s-1880s)

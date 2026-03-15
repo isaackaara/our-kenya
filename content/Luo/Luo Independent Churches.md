@@ -1,5 +1,3 @@
-# Luo Independent Churches
-
 The Legio Maria church, founded in 1963, is one of East Africa's largest independent Christian denominations, with millions of members across Kenya, Tanzania, and Uganda. It is predominantly Luo, emerging from a uniquely Luo synthesis of Catholicism, African religious practice, and prophetic spirituality.
 
 ## Origins and Founding

@@ -1,5 +1,3 @@
-# Kenyan Nationalism History
-
 Kenyan [[National Identity Beyond Tribe|national identity]] is a constructed identity that emerged through colonial experience and [[Kenya Land and Freedom Army|independence struggle]], evolving from colonial to post-independence formations. The history of [[Kenyan Nationalism History|Kenyan nationalism]] demonstrates how [[Cross-Ethnic Kenya|national identity]] can develop even in the context of powerful ethnic particularism and colonial divide-and-rule tactics.
 
 The colonial state created administrative frameworks encompassing diverse ethnic groups under a single government. While colonial policy often manipulated ethnic divisions to facilitate control, the imposition of unified administration created shared institutional contexts. Kenyans from different ethnic groups encountered each other through colonial administrative hierarchies, mission schools, and labor systems. These encounters created possibilities for imagining a Kenya that transcended ethnic particularism.

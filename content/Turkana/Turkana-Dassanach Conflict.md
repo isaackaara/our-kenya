@@ -1,5 +1,3 @@
-# Turkana-Dassanach Conflict
-
 The Turkana and Dassanach are neighboring [[Turkana Pastoralism]] communities, with the Dassanach residing in a small territory on the far northern borders of Turkana County near [[Lake Turkana]] and extending into Ethiopia. The Dassanach are one of Kenya's smallest ethnic groups, with a population of only a few thousand people. Conflicts between Turkana and Dassanach have arisen over access to pastoral and fishing resources, with Ethiopian communities also involved in cross-border conflicts.
 
 ## The Dassanach People

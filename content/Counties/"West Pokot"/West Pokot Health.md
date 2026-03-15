@@ -1,5 +1,3 @@
-# West Pokot Health
-
 Health infrastructure in West Pokot County is limited, with hospital and health center services concentrated in Kapenguria and trading centers. Kapenguria County Hospital provides tertiary care including surgery, imaging, and laboratory services. Sub-county hospitals in trading centers provide secondary healthcare. Health centers at ward level provide primary care, preventive services, and maternal health. Dispensaries in trading centers provide basic services and medicine availability. Skilled birth attendants are present in facilities, though home deliveries remain common in pastoral areas. Immunization programs reach pastoral populations through mobile clinics and fixed facilities. Malaria treatment and prevention occurs in lowland areas where transmission is endemic. Tuberculosis and respiratory infection treatment are provided through facilities. HIV treatment services are available through public and NGO-supported programs.
 
 ## Health Challenges

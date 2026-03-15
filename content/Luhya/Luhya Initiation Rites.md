@@ -1,5 +1,3 @@
-# Luhya Initiation Rites
-
 Male circumcision is a central rite of passage in Luhya culture, marking the transition from boyhood to manhood and entry into full community membership. While the practice is universal or near-universal among Luhya sub-groups, the style, setting, and surrounding rituals vary considerably between groups.
 
 ## The Circumcision Season

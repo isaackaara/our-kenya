@@ -1,5 +1,3 @@
-# Siaya Diaspora
-
 Siaya residents have migrated to urban centers and international destinations in search of employment, education, and improved livelihoods, creating extensive diaspora networks. These diaspora communities maintain connections to Siaya and contribute financially and socially to home communities.
 
 ## Urban Migration Patterns

@@ -1,5 +1,3 @@
-# Kisumu and the Railway: Transformation from Lakeshore to City
-
 The Uganda Railway transformed Kisumu from a quiet lakeside settlement into a thriving colonial town and East Africa's primary inland port. The railway fundamentally reshaped the region's geography and economic patterns.
 
 ## Railway Terminus Importance

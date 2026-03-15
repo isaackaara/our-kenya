@@ -1,5 +1,3 @@
-# Kikuyu Gender and Sexuality
-
 Traditional Kikuyu society maintained distinct gender roles and sexual norms, with men occupying formal political authority and women managing household and agricultural production. Within these structures, women possessed real power and autonomy in domestic spheres, though formal political authority remained male-dominated.
 
 ## Traditional Gender Roles

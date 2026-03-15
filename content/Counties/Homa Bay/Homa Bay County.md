@@ -1,5 +1,3 @@
-# Homa Bay County
-
 Homa Bay County is located on the southern shore of [[../../Conservation/Lake Victoria Kenya.md|Lake Victoria]] in western Kenya. The county has an area of approximately 3,154 square kilometers and a population of approximately 1.2 million (2019 census). It is administratively organized into nine sub-counties with Homa Bay town serving as the county headquarters.
 
 Homa Bay is a predominantly [[../../Luo/Luo.md|Luo]] county with strong cultural, economic, and political connections to the wider [[../../Luo/Luo.md|Luo]] community. The county is notable for being the birthplace and burial site of [[../../Luo/Tom Mboya.md|Tom Mboya]], one of Kenya's most prominent independence-era political leaders. The county also contains [[Ruma National Park.md|Ruma National Park]], one of Kenya's most isolated and least-visited parks known for protecting Kenya's endangered roan antelope population.

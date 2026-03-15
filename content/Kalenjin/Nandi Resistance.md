@@ -1,5 +1,3 @@
-# Nandi Resistance
-
 The Nandi people (a Kalenjin sub-group) mounted the most prolonged armed resistance to British colonialism in Kenya, lasting roughly fifteen years (1890s-1905). Led by the Orkoiyot (spiritual and political leader) [[Koitalel Arap Samoei|Koitalel]] Arap Samoei, [[Kalenjin|Kalenjin]] resisted the construction of the Uganda Railway, raided supply lines, attacked colonial military parties, and maintained territorial independence long after other Kenyan communities had been conquered. Their resistance came to a tragic end in 1905 when Koitalel was assassinated by Colonel Richard Meinertzhagen during a peace meeting held under a supposed flag of truce.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# The Three-Tier Racial Hierarchy Legacy
-
 Colonial Kenya had a formal [[racial hierarchy]] inscribed in law and maintained through segregation. [[Europeans]] occupied the top tier (political power, land ownership, social privilege). Asians occupied the middle tier (commercial power, limited land rights, social restriction). [[Africans]] occupied the bottom tier (labour, restricted movement, no political voice). This hierarchy was not informal or customary; it was institutionalised in the Crown Lands Ordinance, in school systems, in hospital wards, and in the spatial organisation of cities.
 
 ## Spatial Segregation

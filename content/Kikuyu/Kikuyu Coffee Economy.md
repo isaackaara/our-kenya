@@ -1,5 +1,3 @@
-# Kikuyu Coffee Economy
-
 Coffee farming became central to Kikuyu wealth accumulation in the post-independence era, but the journey to coffee prosperity was marked by colonial exclusion, unequal market access, and economic volatility. The coffee industry transformed Kikuyu society and remains culturally and economically significant.
 
 ## Colonial Exclusion

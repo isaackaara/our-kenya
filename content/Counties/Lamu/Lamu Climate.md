@@ -1,5 +1,3 @@
-# Lamu Climate
-
 Lamu County experiences a tropical monsoon climate, characterized by warm temperatures year-round, distinct wet and dry seasons driven by monsoon winds, high humidity, and occasional tropical storms. The climate shapes agriculture, fishing, livelihoods, and daily life throughout the county.
 
 Temperature is warm year-round, with little seasonal variation. Mean annual temperature is approximately 26-28 degrees Celsius. The hottest months (October-March) see temperatures sometimes exceeding 35 degrees Celsius. The cooler months (June-August) are still warm but more pleasant, with sea breezes providing relief. Humidity is high year-round due to the proximity to the Indian Ocean, typically between 70-85%, making the heat feel more intense.

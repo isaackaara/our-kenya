@@ -1,5 +1,3 @@
-# Pokot People
-
 The Pokot (also called Suk) are a Kalenjin sub-group, see [[../../Kalenjin/Kalenjin.md]]. They are the dominant community in West Pokot County and surrounding areas. The Pokot historically practiced pastoral and agro-pastoral livelihoods, herding cattle, camels, and goats across semi-arid and highland landscapes. Pokot culture emphasizes age-set systems, warrior traditions, and community governance through elder councils. The Pokot language belongs to the Southern Nilotic language family within the Kalenjin language group. Pokot population is estimated at approximately 600,000-700,000 individuals, with significant communities in West Pokot and surrounding counties. The Pokot maintain strong cultural identity and pastoral values despite modernization pressures.
 
 ## Social Organization and Culture

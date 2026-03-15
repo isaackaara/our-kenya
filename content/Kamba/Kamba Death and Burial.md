@@ -1,5 +1,3 @@
-# Kamba Death and Burial
-
 The Kamba people have developed distinctive traditions around death and burial that reflect their cosmology and relationship with ancestors. These practices emphasize the continuity between the living and the deceased, with careful ritual attention paid to the treatment of the body and the transition of the dead into the ancestral realm.
 
 ## Burial Position and Orientation

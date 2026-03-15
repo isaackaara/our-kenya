@@ -1,5 +1,3 @@
-# Kikuyu Benga and Pop
-
 While Benga music originated with Luo musicians, Kikuyu artists significantly contributed to the genre and to Kenyan popular music more broadly. Kikuyu musical traditions, both traditional and contemporary, shaped Kenya's music landscape.
 
 ## Benga and Kikuyu Adaptation

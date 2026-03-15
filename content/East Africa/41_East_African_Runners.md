@@ -1,5 +1,3 @@
-# East African Runners
-
 Kenya and Ethiopia dominate long-distance running at the world level. The preponderance of Kenyan and Ethiopian runners winning marathons, half-marathons, and distance races is one of the world's most striking athletic phenomena. This dominance reflects [[Great Rift Valley]] altitude, geography, [[Kalenjin Nilo Saharan]] heritage, culture, and economics.
 
 ## Kenya's Running Dominance

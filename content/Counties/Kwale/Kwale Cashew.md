@@ -1,5 +1,3 @@
-# Kwale Cashew
-
 Cashew nut farming has emerged as a major cash crop in Kwale County over the past four decades, second only to coconut in agricultural importance. The cashew industry generates annual income estimated at 5 to 10 million US dollars for Kwale farmers and processors. Approximately 50,000 hectares of cashew plantations exist across the county, with thousands of smallholder farmers depending on cashew income for household cash flow and children's education costs.
 
 The cashew plant (Anacardium occidentale) originated in the Americas but has become thoroughly adapted to Kenyan coastal conditions. The tree produces a distinctive curved nut enclosed in a hard double shell containing toxic oils. The kernel (the edible part) is highly valued in international markets, commanding premium prices as a gourmet snack food. Cashew apples, the fleshy fruit attached to the nut, are nutritious but mostly consumed locally or processed into juice.

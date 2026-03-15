@@ -1,5 +1,3 @@
-# Embu Oral Traditions
-
 Embu oral traditions encompass proverbs, historical narratives, origin stories, and moral teachings transmitted through spoken [[Embu Language]] across generations. These traditions preserve cultural knowledge, moral values, and historical memory, though contemporary language shift and urbanization threaten transmission.
 
 ## Historical Narratives

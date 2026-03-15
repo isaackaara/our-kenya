@@ -1,5 +1,3 @@
-# Vihiga Notable People
-
 Vihiga County has produced numerous prominent Kenyans who have achieved distinction in government, education, business, and other fields. These individuals have made significant contributions to Kenya's national development while maintaining connections to home communities. Notable people from Vihiga reflect the county's educational tradition and diaspora prominence.
 
 ## Political Leaders

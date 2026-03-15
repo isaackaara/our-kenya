@@ -1,5 +1,3 @@
-# Kakamega Fishing
-
 Fishing in Kakamega County occurs in rivers and streams distributed throughout the region, providing protein sources and supplementary income for communities living near aquatic ecosystems. Fish species include tilapia, catfish, and other freshwater varieties adapted to local water conditions. Fishing is conducted at household and small commercial levels, contributing to household food security and local economies.
 
 ## Aquatic Resources

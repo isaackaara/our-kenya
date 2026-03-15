@@ -1,5 +1,3 @@
-# Nyandarua Health
-
 Healthcare in Nyandarua County comprises public facilities, private clinics, and traditional practitioners. The county referral hospital provides tertiary care. Health centers and dispensaries offer primary healthcare in rural areas. Private clinics supplement public services in urban centers. Healthcare coverage has expanded though access and quality challenges persist. Maternal and child health services remain important development priorities.
 
 ## Public Health Facilities

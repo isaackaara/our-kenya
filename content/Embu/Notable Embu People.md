@@ -1,5 +1,3 @@
-# Notable Embu People
-
 Prominent Kenyans of Embu origin have contributed to Kenyan [[Embu and National Politics]], professional sectors, business, and culture. These individuals have gained prominence through various fields including politics, academia, sports, business, and arts.
 
 ## Political Figures

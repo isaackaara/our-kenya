@@ -1,5 +1,3 @@
-# Kenyan Somali Cuisine Goes National
-
 [[Somali]] food culture, once largely confined to [[Somali]] communities in the north and the [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]] diaspora, has increasingly become visible and popular in broader Kenyan urban society. [[Somali]] restaurants in Nairobi have become successful commercial ventures. Somali dishes are served in mixed-ethnic environments. Broader Kenyan palates have been exposed to and increasingly appreciate Somali cuisine. This culinary crossover reflects both successful [[Somali]] entrepreneurship and broader cultural integration.
 
 ## Eastleigh as Culinary Hub

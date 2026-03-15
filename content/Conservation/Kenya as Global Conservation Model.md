@@ -1,5 +1,3 @@
-# Kenya as Global Conservation Model
-
 Kenya's [[Kenya Conservation Overview|conservation approaches]], innovations, and institutions have influenced global conservation practice and policy. Kenya has provided models, lessons, and technical expertise that other countries and organizations have adopted for wildlife conservation efforts.
 
 ## The Ivory Burning as Global Symbol

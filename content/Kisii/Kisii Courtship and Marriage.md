@@ -1,5 +1,3 @@
-# Kisii Courtship and Marriage
-
 Traditional [[Gusii people|Gusii]] courtship and [[Kisii Courtship and Marriage|marriage]] involved elaborate social processes spanning months or years, with distinct phases and rules governing interactions between young people, families, and [[Kisii Clan System|clan]] authorities. [[Kisii Courtship and Marriage|Marriage]] was fundamentally a [[Kisii Clan System|clan]] alliance, not merely a union of individuals.
 
 ## Traditional Courtship

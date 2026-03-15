@@ -1,5 +1,3 @@
-# The Bajuni People
-
 The [[Bajuni People]] are a coastal [[Swahili Regional Language]] people living on islands spanning the [[Kenya Somalia Border]] maritime boundary. They represent a unique case of a maritime community divided by an international boundary and facing distinctive challenges to cultural survival.
 
 ## Geographic Location

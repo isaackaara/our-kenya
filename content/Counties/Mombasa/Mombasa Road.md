@@ -1,5 +1,3 @@
-# The A109 Highway: Mombasa-Nairobi Road Connection
-
 The A109 highway is Kenya's most important road, connecting Mombasa on the Indian Ocean coast to Nairobi in the central highlands. The approximately 480-kilometer route carries enormous volumes of cargo, passengers, and commercial traffic.
 
 ## Historical Development

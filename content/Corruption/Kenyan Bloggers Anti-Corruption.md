@@ -1,5 +1,3 @@
-# Kenyan Bloggers Anti-Corruption
-
 ## Overview
 
 Kenyan bloggers, particularly in the 2000s-2010s, played an important role in exposing corruption by documenting government abuse, investigative research, and public commentary that bypassed traditional media. Bloggers like Ory Okolloh (Mzalendo.com), Dagoretti Corner, and others made government accountability more accessible to digital-literate audiences.

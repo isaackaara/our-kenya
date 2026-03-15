@@ -1,5 +1,3 @@
-# Rendille People
-
 The Rendille are a camel-herding people inhabiting the Chalbi Desert and surrounding arid regions. Linguistically and culturally related to [[../../Somali/Somali|Somali]], the Rendille maintain distinctive pastoral practices and cultural traditions adapted to Kenya's most extreme desert environments.
 
 Rendille pastoral economy centres on camels, which provide milk, meat, hides, and transport. Complementary livestock including goats and occasionally cattle supplement camel production. The balance between species reflects water availability, with camels dominant in extreme desert areas and other species more important in less arid zones.

@@ -1,5 +1,3 @@
-# Mandera Irrigation
-
 Irrigation development is pursued as a strategy to address food insecurity and pastoral production limitations, but has faced significant challenges in a region where water scarcity is the defining constraint. Multiple irrigation schemes have been initiated, with varying levels of success, but have failed to transform Mandera's food security or to substantially shift the economy from pastoralism to agriculture.
 
 ## Irrigation Potential and Constraints

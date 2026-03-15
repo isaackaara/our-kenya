@@ -1,5 +1,3 @@
-# Kwale Tourism
-
 Tourism is the dominant economic sector in Kwale County, generating the largest share of formal sector income and foreign exchange. The county attracts approximately 400,000 international tourists annually, primarily to Diani Beach and surrounding coastal resorts. The tourism economy provides employment for thousands of Kenyans and shapes coastal settlement patterns, infrastructure development, and cultural interactions.
 
 Diani Beach serves as the centerpiece of Kwale tourism, with the majority of beach resort hotels concentrated along its 25-kilometer stretch. Tourism infrastructure includes over 100 registered hotels ranging from budget accommodations costing 50 US dollars per night to luxury all-inclusive resorts charging 500 to 1000 US dollars or more. The resorts employ bartenders, cooks, cleaners, security personnel, guides, and managers, creating employment chains that extend into surrounding communities.

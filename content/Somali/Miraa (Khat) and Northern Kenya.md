@@ -1,5 +1,3 @@
-# Miraa (Khat) and Northern Kenya
-
 Khat (known locally as miraa, qaad, or qaadka) is a mild stimulant plant widely consumed in [[Kenyan Somali Identity|Somali]] communities across [[Northern Kenya Development Gap|northern Kenya]]. The leaf of Catha edulis contains cathinone and cathine, compounds that produce euphoria, alertness, and suppressed appetite. Khat is not illegal in Kenya, but its consumption is deeply embedded in [[Kenyan Somali Identity|Somali]] social and economic life. The supply chain from Meru's Nyambene Hills to northern Kenya and across borders to [[Somalia]] represents a significant commercial network.
 
 ## The Supply Chain

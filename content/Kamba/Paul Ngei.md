@@ -1,5 +1,3 @@
-# [[Paul Ngei|Paul Ngei]]
-
 Paul Ngei was a Kamba nationalist and independence hero who was detained alongside Jomo Kenyatta during the Mau Mau Emergency under Operation Jock Scott in October 1952. His story illustrates the gap between independence-era heroism and post-independence governance, as he later became involved in controversial misuse of public office.
 
 ## Key Facts

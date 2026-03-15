@@ -1,5 +1,3 @@
-# Interethnic Marriage Kenya
-
 Interethnic marriage in [[Kenya]] is increasingly common, particularly in [[Nairobi as Melting Pot|urban areas]], though exact prevalence is difficult to quantify from published statistics. Anecdotal evidence and emerging research suggest that a substantial minority of urban marriages cross ethnic lines, particularly among the educated middle class and among younger generations. The prevalence varies significantly by location, with urban areas showing higher rates than rural areas.
 
 Social attitudes toward interethnic marriage have shifted dramatically from the 1960s to the present day. In the immediate post-independence period, interethnic marriage was socially stigmatized, particularly between certain ethnic combinations. Marriages between members of historically political rivals (Kikuyu and Luo, for example) faced particular social resistance. Marriage partners of different ethnic backgrounds risked ostracism from their natal communities.

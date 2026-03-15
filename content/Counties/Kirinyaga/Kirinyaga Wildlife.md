@@ -1,5 +1,3 @@
-# Kirinyaga Wildlife
-
 Wildlife on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s Kirinyaga slopes represents part of Kenya's rich biodiversity. Forest ecosystems support diverse mammal, bird, and insect species. The protected Mount Kenya National Park preserves forest and alpine habitats. However, habitat loss to agriculture and settlements has reduced wildlife populations. Some species persist in the remaining forest areas while others face extinction risk.
 
 ## Forest Mammals

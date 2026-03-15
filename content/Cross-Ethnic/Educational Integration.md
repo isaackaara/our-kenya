@@ -1,5 +1,3 @@
-# Educational Integration
-
 [[Cross-Ethnic Kenya|Kenya's education system]] functions as an important arena of ethnic integration. National schools and universities bring together students from all ethnic backgrounds in shared learning environments. Boarding schools create intensive residential experiences where students develop relationships across ethnic lines. Educational integration contributes to development of cosmopolitan consciousness and [[Identity Without Roots|cross-ethnic bonds]] among Kenya's educated class.
 
 The colonial and post-colonial emphasis on English-language education created a common linguistic medium for education. Students from different ethnic language backgrounds learned English together. This common language facilitated cross-ethnic interaction and created opportunities for Kenyans to imagine themselves as a unified nation sharing educational institutions and credentials.

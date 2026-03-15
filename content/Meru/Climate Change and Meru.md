@@ -1,5 +1,3 @@
-# Climate Change and Meru
-
 Climate change poses significant challenges to [[Meru County]]'s ecosystems, agriculture, and communities. Observable changes to [[Mount Kenya]]'s glaciers, shifting rainfall patterns, and ecosystem stress require adaptation strategies and long-term planning.
 
 ## Mount Kenya Glacial Recession

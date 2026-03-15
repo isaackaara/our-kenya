@@ -1,5 +1,3 @@
-# Baringo Notable People
-
 Baringo County has produced prominent Kenyans achieving distinction in politics, business, conservation, academia, and other sectors. Daniel arap Moi represents the most prominent Baringo figure, though others have similarly influenced national development.
 
 ## Daniel Arap Moi

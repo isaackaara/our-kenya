@@ -1,5 +1,3 @@
-# Wajir Land
-
 Land ownership and management in Wajir County reflects the complex interaction between customary pastoral tenure systems and formal colonial and post-independence land policies. Traditional pastoral societies organize land use through clan-based grazing rights and water access allocations that developed over centuries. However, formal legal frameworks establish different ownership and use patterns, creating tensions between customary and statutory land systems.
 
 ## Customary Tenure Systems

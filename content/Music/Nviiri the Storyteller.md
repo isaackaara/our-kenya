@@ -1,5 +1,3 @@
-# Nviiri the Storyteller
-
 Nviiri Sande, performing as Nviiri the Storyteller, emerged from [[Music/Sauti Sol|Sauti Sol]]'s Sol Generation Records development pipeline to establish himself as one of Kenya's most distinctive singer-songwriters, blending Afropop with storytelling-driven lyrics that earned him his stage name. Born August 19, 1991, Nviiri gained mainstream recognition in 2019 following his Sol Generation signing and the release of "Extravaganza," a collaboration with Sauti Sol that showcased his melodic sensibility and lyrical craft.
 
 What distinguished Nviiri from many peers was his emphasis on narrative. Where much contemporary Kenyan pop prioritized hooks, dance rhythms, and production aesthetics, Nviiri centered storytelling: character-driven songs with clear narratives, emotional arcs, and attention to detail that rewarded close listening. This approach, reflected in his stage name, connected him to older traditions of African griots and storytellers while working within contemporary Afropop and R&B frameworks. The combination felt both fresh and rooted.

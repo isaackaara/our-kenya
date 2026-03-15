@@ -1,5 +1,3 @@
-# County Government Corruption
-
 ## Overview
 
 Devolution in the 2010 constitution created 47 county governments with their own budgets and [[Public Procurement Corruption|procurement]] authority. Counties immediately became sites of [[Corruption in Kenya Overview|corruption]] as county officials diverted ward development funds, engaged in procurement fraud, and stole development resources. The proliferation of 47 new corruption centers undermined rather than advanced development.

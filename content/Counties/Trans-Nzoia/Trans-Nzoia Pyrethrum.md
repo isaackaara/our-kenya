@@ -1,5 +1,3 @@
-# Trans-Nzoia Pyrethrum
-
 Pyrethrum (Tanacetum cinerariifolium) cultivation is an important cash crop in Trans-Nzoia County, particularly in higher-elevation zones. Pyrethrum flowers contain natural insecticidal compounds used in agricultural and household pest control products. The crop grows well in the cool, well-drained highland soils. Pyrethrum farming provides important cash income for participating farmers. The crop is labor-intensive, with careful harvesting and drying of flowers required. Cooperative societies and marketing channels link pyrethrum farmers to processing companies and export markets.
 
 ## Cultivation and Production

@@ -1,5 +1,3 @@
-# Nyamira Dairy
-
 Dairy farming has become increasingly important in Nyamira's agricultural economy, with the highland climate supporting productive cattle. The dairy sector provides household income and employment in marketing and processing.
 
 ## Production Systems

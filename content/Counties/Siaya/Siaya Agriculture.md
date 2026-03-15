@@ -1,5 +1,3 @@
-# Siaya Agriculture
-
 Agriculture remains the primary economic activity for the majority of [[Siaya County]]'s population, though the sector faces significant challenges from climate variability, limited input access, and market constraints. The agricultural economy is based primarily on smallholder subsistence farming with limited commercialization.
 
 ## Primary Crops

@@ -1,5 +1,3 @@
-# Safaricom Innovation
-
 Beyond M-Pesa, Safaricom has pioneered numerous financial services innovations that have transformed Kenya's economy and set global precedents. These services (M-Shwari, Fuliza, Lipa na M-Pesa, M-Akiba) demonstrate how a telecom company leveraged its platform to create an ecosystem of financial services.
 
 ## M-Shwari

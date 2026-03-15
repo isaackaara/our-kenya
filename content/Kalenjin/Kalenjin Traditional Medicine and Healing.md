@@ -1,5 +1,3 @@
-# Kalenjin Traditional Medicine and Healing
-
 ## Overview
 
 Kalenjin traditional medicine represents a sophisticated system of healing knowledge developed over centuries, integrating botanical remedies, ritual practice, spiritual belief, and practical anatomy. Healers, known as "woiyot" or traditional medicine practitioners, occupied positions of respect and authority in Kalenjin communities. Their knowledge, transmitted orally through apprenticeship, addressed physical ailments, spiritual imbalances, and the interconnections between body, society, and supernatural forces.

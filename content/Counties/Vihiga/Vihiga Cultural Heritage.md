@@ -1,5 +1,3 @@
-# Vihiga Cultural Heritage
-
 Maragoli communities in Vihiga maintain distinctive cultural heritage reflecting pre-colonial heritage and colonial and post-colonial adaptations. Cultural traditions include marriage practices, funeral ceremonies, leadership structures, and oral traditions. Contemporary Maragoli culture reflects both traditional practice and modern influences as younger generations navigate between heritage and contemporary contexts.
 
 ## Marriage and Kinship

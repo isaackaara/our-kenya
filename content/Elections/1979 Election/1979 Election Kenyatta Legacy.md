@@ -1,5 +1,3 @@
-# 1979 Election Kenyatta Legacy
-
 Jomo Kenyatta's death in August 1978, just over a year before the 1979 election, cast a significant shadow over the election. Candidates and the Moi government had to navigate questions about how to treat Kenyatta's legacy and how to position themselves relative to the founding president. The election was the first to take place after Kenyatta's death and was an opportunity to assess how his political legacy would be remembered and how his policies would be continued or modified.
 
 Moi's campaign message emphasized continuity with Kenyatta while suggesting new directions. The Nyayo philosophy's claim to be following "in Kenyatta's footprints" was an attempt to claim Kenyatta's legacy for the new president. The campaign suggested that Moi would continue Kenyatta's development agenda while bringing new leadership skills and new approaches to governance.

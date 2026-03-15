@@ -1,5 +1,3 @@
-# Ruto Presidency Timeline
-
 **2022**
 - June: The 2022 presidential election takes place, with William Ruto defeating Raila Odinga
 - Ruto wins with 50.5 percent of the vote in what observers describe as a surprising outcome

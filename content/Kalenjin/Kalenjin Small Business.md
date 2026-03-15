@@ -1,5 +1,3 @@
-# Kalenjin Small Business
-
 Kalenjin commercial activity in towns like [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] and smaller centers reflects diverse business enterprises. The dairy economy centered on mursik production, grain trading networks, and transport businesses demonstrate Kalenjin participation in commerce, though the scale and character differ from Kikuyu business networks.
 
 ## Dairy and Mursik Production

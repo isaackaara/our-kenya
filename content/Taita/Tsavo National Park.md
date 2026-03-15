@@ -1,5 +1,3 @@
-# Tsavo National Park
-
 The Tsavo ecosystem consists of two national parks (Tsavo East and Tsavo West) that together encompass one of the largest terrestrial protected areas in Kenya. The Taita Hills are surrounded by these parks and are intimately connected to them ecologically and economically.
 
 ## Geography and Coverage

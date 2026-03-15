@@ -1,5 +1,3 @@
-# Luo Women in History
-
 While Luo history is often written through the lens of male political leaders and nationalist figures, Luo women have played crucial roles as cultural bearers, intellectuals, political actors, and social organizers. Understanding Luo history requires attending to women's experiences, contributions, and agency.
 
 ## [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] (1930-2015)

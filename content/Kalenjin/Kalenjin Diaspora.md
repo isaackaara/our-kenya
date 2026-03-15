@@ -1,5 +1,3 @@
-# Kalenjin Diaspora
-
 The Kalenjin diaspora represents a significant global community primarily composed of distance runners on professional athletics circuits, but also including professionals in medical, academic, business, and other sectors. Diaspora Kalenjin maintain cultural and economic connections to home communities in the Rift Valley.
 
 ## Diaspora Athletes and Professional Circuits

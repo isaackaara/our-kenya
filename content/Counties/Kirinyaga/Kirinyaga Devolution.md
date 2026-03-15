@@ -1,5 +1,3 @@
-# Kirinyaga Devolution
-
 Kenya's 2010 constitution established a devolved system of governance with 47 county governments. Kirinyaga County government was created to manage local development and service provision. The county government comprises an elected governor, deputy governor, and county assembly representatives. This structure brought government closer to communities and created new opportunities for local participation in governance.
 
 ## County Government Structure

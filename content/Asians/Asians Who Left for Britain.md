@@ -1,5 +1,3 @@
-# Asians Who Left for Britain
-
 The mass emigration of Kenyan Asians to Britain between 1967 and 1968 was triggered by two converging crises: the [[Asians at Independence#Trade Licensing Act (1967)|Africanisation policies]] of Kenya's independent government and the passage of the [[Asians at Independence#The Commonwealth Immigrants Act (1968)|Commonwealth Immigrants Act]] in Britain. Thousands of Kenyan Asians, holding British passports (acquired during the colonial period), rushed to emigrate to Britain before the immigration door closed. This exodus represented a fundamental shift in the [[Asians in Kenya|Kenyan Asian]] community and had profound consequences for both Kenya and Britain.
 
 ## Kenyan Citizenship or British Passports

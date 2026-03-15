@@ -1,5 +1,3 @@
-# East African Music Crossovers
-
 East African popular music genres cross borders, with Kenyan benga music influencing Uganda and Tanzania, Tanzanian bongo flava achieving regional popularity, and broader musical exchange creating a regional music market. These crossovers reflect both cultural connection and commercialization.
 
 ## Benga Music (Kenya)

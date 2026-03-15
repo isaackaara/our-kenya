@@ -1,5 +1,3 @@
-# Nyandarua Cultural Sites
-
 [[../../Conservation/Aberdare National Park|Aberdare Range]] slopes contain sacred and culturally significant sites important to [[../../Kikuyu/Kikuyu|Kikuyu]] traditions. Sacred groves held spiritual significance. Some sites have been protected while others face pressure from development. Cultural preservation attempts to maintain knowledge and respect for important places. Historical sites mark colonial and [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] history.
 
 ## Sacred Groves

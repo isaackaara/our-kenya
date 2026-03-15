@@ -1,5 +1,3 @@
-# Kamba and WWI
-
 World War I (1914-1918) brought warfare to East African territories, with the British East Africa Campaign against German colonial forces in German East Africa. [[Kamba]] soldiers and civilians participated in this conflict, serving in the [[Kamba and the Military|King's African Rifles]] and other military units supporting the British war effort against German commander Paul Erich von Lettow-Vorbeck.
 
 ## The East Africa Campaign

@@ -1,5 +1,3 @@
-# Kenyan Somali in Politics
-
 [[Kenyan Somali Identity|Kenyan Somali]] have limited but growing representation in Kenya's national and county government. The largest [[Ogaden Clan Kenya|Somali]]-majority counties ([[Garissa County]], [[Wajir County]], [[Mandera County]], plus parts of Isiolo and Marsabit) elect governors and members of parliament. However, [[Kenyan Somali Identity|Somali]] representation in cabinet and senior national positions remains limited relative to population. The challenge of integrating a trans-national, historically marginalized minority into a nation-state designed without them remains unresolved.
 
 ## County Governors

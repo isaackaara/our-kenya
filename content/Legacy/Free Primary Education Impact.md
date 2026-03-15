@@ -1,5 +1,3 @@
-# Free Primary Education Impact
-
 In 2003, President Kibaki announced free primary education for all Kenyan children. Enrollment doubled overnight. Millions of children, particularly in poor and rural areas, went to school for the first time. The policy was a direct attack on one of colonialism's legacies: the exclusion of most Africans from formal education.
 
 The impact was transformative and chaotic. Classrooms became wildly overcrowded. Teachers, already scarce, were stretched impossibly thin. Schools that had been adequately resourced with fee-paying students suddenly had three times as many pupils and no additional funding. The physical infrastructure collapsed. Some schools taught in shifts. Textbooks were shared among many students. But children were learning to read and write who would otherwise never have had the chance.

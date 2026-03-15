@@ -1,5 +1,3 @@
-# Tigania East and West
-
 Tigania East and Tigania West are sub-counties in northern Meru County, encompassing the heart of Kenya's miraa-growing region in the Nyambene Hills. These sub-counties are administratively and economically defined by miraa cultivation and trade.
 
 ## Geographic Division

@@ -1,5 +1,3 @@
-# Luhya Urban Migration
-
 The Luhya have migrated to urban centers at significant rates since the colonial period, with acceleration following independence. Contemporary Luhya diaspora communities exist in major cities, particularly Nairobi, where they maintain distinct social networks while adapting to urban life.
 
 ## Nairobi as Primary Destination

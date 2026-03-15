@@ -1,5 +1,3 @@
-# Vihiga County
-
 Vihiga County is Kenya's smallest county by area (563 square kilometres) yet one of the most densely populated with approximately 1,000 people per square kilometre and total population of approximately 600,000. The Maragoli (also called Logoli), a [[../../Luhya/Luhya|Luhya]] sub-group, are the dominant ethnic population. Vihiga is essentially a highland rural area with Vihiga town as the small county headquarters. The county is distinguished by an extraordinary diaspora sending remittances from Nairobi, Mombasa, and international destinations, reflecting historical out-migration patterns.
 
 ## Key Characteristics

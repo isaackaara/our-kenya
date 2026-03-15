@@ -1,5 +1,3 @@
-# Luhya Christianity Deep Dive
-
 Christianity transformed Luhya society from the late 19th century onward, but the process was far from uniform. Different Christian denominations mapped onto specific Luhya sub-groups, creating distinct religious identities within the broader Luhya confederation. This religious geography remains visible today in the distribution of denominations across western Kenya.
 
 ## The Quakers in Maragoli

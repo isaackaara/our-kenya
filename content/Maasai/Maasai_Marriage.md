@@ -1,5 +1,3 @@
-# Maasai Marriage: Arranged Unions and Changing Agency
-
 ## Arranged Marriage and Bridewealth
 
 Marriage in traditional Maasai society is arranged between families, not chosen by individuals. Parents (primarily fathers) negotiate the union and arrange the bridewealth payment (*enkiama*, cattle transferred from the groom's family to the bride's).

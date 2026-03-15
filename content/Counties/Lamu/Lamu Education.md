@@ -1,5 +1,3 @@
-# Lamu Education
-
 Educational infrastructure in Lamu County is limited, and educational outcomes lag behind national averages. Access to schools, quality of instruction, retention rates, and completion rates all face challenges linked to poverty, geography, cultural factors, and limited resources.
 
 Primary education is the foundation. Primary schools are scattered across the county, though not uniformly distributed. Enrollment rates have increased significantly since the introduction of free primary education in Kenya (2003), and most children attend primary school for at least some years. However, completion rates remain problematic: many students do not complete primary school, particularly in poor families where labor is needed for household income.

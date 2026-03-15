@@ -1,5 +1,3 @@
-# Bungoma Colonial History
-
 Bungoma, historically known as Bungoma District within the broader North Nyanza administrative region, came under British colonial control in the early twentieth century. Colonial administration established political authority over the region, imposed taxation systems, promoted commercial agriculture, and constructed infrastructure facilitating colonial economic extraction. Colonial policies profoundly shaped contemporary Bungoma's social institutions, economic systems, and territorial organization.
 
 ## Colonial Conquest and Administration

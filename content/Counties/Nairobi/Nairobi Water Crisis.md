@@ -1,5 +1,3 @@
-# Nairobi's Water Crisis: Scarcity and Informal Vending
-
 Nairobi faces a chronic water shortage that affects millions of residents daily. The city's water demand far exceeds available supply, creating a crisis that has persisted for decades and shows signs of worsening due to climate change and population growth.
 
 

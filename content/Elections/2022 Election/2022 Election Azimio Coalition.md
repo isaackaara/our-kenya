@@ -1,5 +1,3 @@
-# 2022 Election Azimio Coalition
-
 The Azimio-One Kenya Coalition was the opposition alliance that contested the 2022 election under the presidential leadership of Raila Odinga, backed explicitly by outgoing President Uhuru Kenyatta. The Azimio coalition incorporated the Orange Democratic Movement (ODM), Uhuru Kenyatta's Jubilee Party, the Wiper Democratic Movement (though with split internal allegiances), and multiple smaller parties representing various regional constituencies. The coalition represented an attempt to unite Kenya's political elite behind Raila Odinga's fifth presidential candidacy and to prevent William Ruto from achieving national office.
 
 The coalition's formation reflected the handshake alliance established in March 2018, wherein Uhuru and Raila had committed to joint governance and political partnership. By 2022, with Uhuru's presidency coming to a constitutionally-mandated end, the natural succession within the elite partnership was for Uhuru to support Raila's return to the presidency. The Azimio coalition thus represented the institutionalization of the Uhuru-Raila alliance into a formal electoral partnership.

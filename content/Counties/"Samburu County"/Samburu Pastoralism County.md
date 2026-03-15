@@ -1,5 +1,3 @@
-# Samburu Pastoralism
-
 Pastoralism represents the dominant livelihood system across Samburu County. Herders raise cattle, camels, goats, and sheep, managing these animals according to seasonal rainfall patterns and grazing availability in the semi-arid environment.
 
 Cattle herding centres Samburu pastoralism. Cattle provide milk consumed within households and sold in markets, meat for special occasions and ceremonies, and calves for herd growth and wealth accumulation. Cattle-based wealth determines social status within pastoral societies.

@@ -1,5 +1,3 @@
-# Siaya Youth
-
 Youth in [[Siaya County]] face significant challenges in education completion, employment, and income generation, driving migration to urban areas and contributing to social tensions. The youth population represents a substantial proportion of the county's demographic structure.
 
 ## Unemployment and Underemployment

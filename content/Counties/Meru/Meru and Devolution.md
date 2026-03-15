@@ -1,5 +1,3 @@
-# Meru and Devolution
-
 Devolution of government to county level in Kenya beginning in 2013 transformed governance in Meru County. County government establishment created new institutions for local decision-making and service delivery. Meru County government has undertaken various development projects and programs aimed at improving agricultural productivity, healthcare, education, and infrastructure. Devolution has also created fiscal pressures and governance challenges.
 
 ## County Government Structure

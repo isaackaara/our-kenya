@@ -1,5 +1,3 @@
-# 1969 Election Timeline
-
 **1966, April**  -  [[Oginga Odinga]] resigns from KANU government and forms the [[Kenya People's Union]] (KPU) as legal opposition party.
 
 **1966-1969**  -  KPU functions as opposition party, holding rallies and organizing in Luo areas and among socialist-oriented intellectuals and workers.

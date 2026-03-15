@@ -1,5 +1,3 @@
-# Tana River Fishing
-
 Fishing represents a critical livelihood and protein source for communities throughout Tana River County, with particular significance in lower river zones and the Tana Delta where fisheries have sustained populations for centuries. Commercial and subsistence fisheries generate income and protein essential to food security, though fishery productivity has declined significantly due to overfishing, habitat degradation, dam operations affecting fish populations, and inadequate fishery management.
 
 The Tana River supports diverse fish species including tilapia, catfish, barbel, and mullet species adapted to river conditions. Fish populations are highest in lower river zones with deeper water and complex habitat. The delta provides critical fish nursery habitat, where juvenile fish grow before moving to mature habitat. Marine fish species also utilize the river mouth and adjacent coastal zones as feeding and breeding areas. This ecological linkage between river and coast makes delta ecosystem protection essential to marine fishery productivity.

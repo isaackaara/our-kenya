@@ -1,5 +1,3 @@
-# Bungoma Town
-
 Bungoma Town is the county headquarters and principal urban centre of Bungoma County, located near the Kenya-Uganda border. The town functions as the administrative, commercial, and service hub for the county and surrounding border regions. With population estimated at over 80,000, Bungoma Town has grown significantly since devolution, becoming an important regional trading and transport centre.
 
 ## Urban Development

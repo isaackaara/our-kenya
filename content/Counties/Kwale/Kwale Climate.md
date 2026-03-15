@@ -1,5 +1,3 @@
-# Kwale Climate
-
 Kwale County's tropical coastal climate is characterized by warm year-round temperatures, moderate to high rainfall concentrated in two rainy seasons, and influence from the Indian Ocean. The warm climate supports tropical vegetation including coconut palms, mangroves, and diverse forest species. However, seasonal rainfall variation creates periodic water scarcity and vulnerability to drought.
 
 Temperatures in Kwale remain relatively constant year-round, with mean annual temperature approximately 25 to 27 degrees Celsius. Coastal areas are slightly cooler due to ocean influence than inland areas. Daily temperature variation is minimal, with warm days and warm nights. Heat stress can be significant, particularly for populations engaged in physical labor or lacking cooling mechanisms.

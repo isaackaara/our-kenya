@@ -1,5 +1,3 @@
-# Isiolo Real Estate and Property Development
-
 The property market in Isiolo has transformed significantly with the arrival of infrastructure development projects, particularly the LAPSSET Corridor. Land values have increased dramatically as speculators anticipate future growth and development benefits.
 
 Isiolo town has experienced a real estate boom since 2015, with new commercial and residential construction projects undertaken by both individuals and companies. Buildings include hotels, shops, residential apartments, and office spaces catering to growing population and commercial activity.

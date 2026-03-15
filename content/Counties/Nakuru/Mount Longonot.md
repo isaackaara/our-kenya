@@ -1,5 +1,3 @@
-# Mount Longonot
-
 Mount Longonot is an extinct volcano in [[../Nakuru/Nakuru County|Nakuru County]], rising to approximately 2,776 meters above sea level. The mountain is now part of Mount Longonot National Park, a conservation area protecting the volcanic landscape and associated ecosystems. The mountain's name derives from [[../../Maasai/Maasai|Maasai]] word "oloonong'ot", meaning "mountain of many stripes", referring to the distinctive rock formations and erosion patterns on the slopes.
 
 The most popular activity is the crater rim walk, a challenging day hike that circumnavigates the crater floor around the summit. The walk offers spectacular Rift Valley views and is popular with local and international hikers. The crater interior contains lava flows, volcanic cones, and vegetation adapted to the harsh volcanic environment. The mountain is sacred to [[../../Maasai/Maasai|Maasai]] communities and has deep cultural and spiritual significance.

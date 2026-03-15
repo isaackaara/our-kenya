@@ -1,5 +1,3 @@
-# Arap Moi Family Legacy
-
 [[Daniel arap Moi|Daniel arap Moi]]'s presidency (1978,2002) fundamentally shaped Kalenjin politics and economics in post-independence Kenya. His death in February 2020 sparked intense scrutiny of the Moi family's vast wealth accumulation and ongoing political influence.
 
 ## The Moi Children and Political Succession

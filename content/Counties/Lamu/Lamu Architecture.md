@@ -1,5 +1,3 @@
-# Lamu Architecture
-
 Lamu's architecture represents one of the most distinctive and well-preserved regional traditions in East Africa. The Old Town of Lamu town showcases Swahili building practices refined over centuries of exchange between African, Arab, Persian, and Indian design traditions. The architectural vocabulary reflects adaptation to the hot, humid, salt-laden coastal environment as well as accumulated cultural preferences and economic conditions.
 
 The fundamental building material is coral stone, quarried locally from limestone deposits or harvested from coral platforms exposed at low tide. Coral stone is relatively soft when first cut and hardens over time with exposure to salt air. The stone provides excellent thermal mass, keeping buildings cool in extreme heat. Walls are typically 60-80 centimeters thick, providing insulation and structural stability.

@@ -1,5 +1,3 @@
-# Nyamira Health
-
 Healthcare in Nyamira County is delivered through public and private facilities with county government managing primary and secondary services. Health outcomes reflect the county's economic development and infrastructure investment.
 
 ## Health Facilities

@@ -1,5 +1,3 @@
-# 1983 Election Patronage
-
 Moi used development spending and government resources as patronage tools to reward loyal candidates and to support government-backed political outcomes. Government projects, roads, schools, and other development were allocated to constituencies based on political loyalty. Candidates who supported Moi received government backing for constituency development. This use of patronage during the election cemented Moi's control over the state apparatus and demonstrated his ability to distribute resources.
 
 ## See Also

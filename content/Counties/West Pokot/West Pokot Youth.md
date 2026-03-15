@@ -1,5 +1,3 @@
-# West Pokot Youth
-
 Youth in [[West Pokot County]] face particular challenges including limited education opportunities, high unemployment, poverty, and limited livelihood prospects. The youth population comprises a substantial share of the county's population but lacks resources and opportunities commensurate with their numbers. Youth unemployment is a critical challenge driving rural-urban migration and creating social tensions. Youth are involved in pastoral production, agriculture, petty trade, wage labor, and informal activities. Youth are also involved in conflict and security issues, with young men particularly involved in cattle rustling and armed violence. Understanding youth challenges is essential to understanding West Pokot's demographic structure and development prospects.
 
 ## Demographics and Population Structure

@@ -1,5 +1,3 @@
-# 1992 Election Youth Activism
-
 Kenya's youth in 1992 were at the forefront of the pro-democracy movement and the demand for multiparty elections. Young Kenyans who had grown up under single-party rule and who had experienced state repression and economic stagnation were motivated to organize for political change. Youth activism through the late 1980s and early 1990s had contributed significantly to the pressure that eventually forced the government to permit multiparty elections.
 
 University students had been particularly active in organizing pro-democracy movements. Despite government attempts to control campus activism and to limit student political organization, students at universities including the University of Nairobi had organized study groups, conducted public speaking, and circulated forbidden literature advocating for multiparty democracy and constitutional reform.

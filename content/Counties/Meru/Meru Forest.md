@@ -1,5 +1,3 @@
-# Meru Forest
-
 The [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forest extends across the higher elevation slopes of Meru County, comprising dense montane forest, bamboo forest, and alpine vegetation above 4,000 meters. The forest reserve is protected under Kenyan conservation law, though conservation challenges from human use persist. The forest plays crucial hydrological, biodiversity, and climate regulation roles for the county and region.
 
 ## Forest Composition

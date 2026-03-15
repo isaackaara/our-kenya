@@ -1,5 +1,3 @@
-# The Shifta War (1963-1967): The Somali Insurgency in Kenya
-
 The [[Shifta War Overview|Shifta War]] was a four-year armed insurgency (1963-1967) by [[Kenyan Somali Identity|Kenyan Somali]] seeking union with the newly independent [[Somalia|Somali]] Republic. Following Britain's 1963 decision to incorporate the [[Northern Frontier District]] into Kenya despite overwhelming [[Kenyan Somali Identity|Somali]] preference for union with [[Somalia]], armed resistance erupted. The Kenyan government's response was a brutal campaign of collective punishment that killed thousands of Somali civilians and [[NFD Pastoralism|pastoralists]], devastated pastoral economies, and created a lasting rupture between Kenyan Somali and the Kenyan state.
 
 ## Origins: Rejected Self-Determination

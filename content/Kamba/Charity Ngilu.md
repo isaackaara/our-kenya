@@ -1,5 +1,3 @@
-# [[Charity Ngilu|Charity Ngilu]]
-
 Charity Kaluki Ngilu (born 1952) is a pioneering Kamba politician and women's rights advocate whose achievements have made her a symbol of women's political participation in Kenya. Her breakthrough candidacy in the 1997 presidential election and her subsequent service as Health Minister and county governor have shaped Kamba and Kenyan politics.
 
 ## Early Career and Political Entry

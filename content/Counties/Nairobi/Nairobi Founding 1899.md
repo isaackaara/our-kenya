@@ -1,5 +1,3 @@
-# Nairobi Founded 1899: The Railway Depot That Became a City
-
 In 1899, the Uganda Railway selected a site on a swampy [[../../Maasai/Maasai|Maasai]] watering hole called "Enkare Nairobi" (meaning "cold water" in Maasai language) as the location for a railway depot and supply depot for the extension of the rail line westward. The site was chosen for its elevation (1,795 meters), reliable water supply, and central position on the rail route between the coast and [[../../Conservation/Lake Victoria Kenya|Lake Victoria]].
 
 ## The Early Colonial Town

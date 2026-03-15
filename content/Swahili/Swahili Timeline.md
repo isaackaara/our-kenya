@@ -1,5 +1,3 @@
-# Swahili Timeline
-
 A chronological reference of key dates in [[Swahili]] history from approximately 800 CE through 2026, covering the emergence of [[Swahili Civilization Overview|Swahili civilization]] through colonial and post-colonial periods within the [[The Indian Ocean World|Indian Ocean world]].
 
 ## Early Period (800-1200 CE)

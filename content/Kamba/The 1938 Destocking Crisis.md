@@ -1,5 +1,3 @@
-# The 1938 Destocking Crisis
-
 The British colonial government ordered compulsory destocking (culling) of Kamba cattle herds in 1938 as part of a soil conservation policy. The policy provoked the largest organized protest movement in Kenya before the Mau Mau Uprising. The crisis revealed Kamba determination to resist colonial environmental policies that threatened their pastoral livelihoods and cultural identity.
 
 ## Key Facts

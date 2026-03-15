@@ -1,5 +1,3 @@
-# East Africa Overview
-
 East Africa is a geographic and cultural region in the eastern portion of the African continent, encompassing countries with deep historical, linguistic, and economic ties. The region serves as a crucial crossroads between the Indian Ocean, the African interior, and global trade networks.
 
 ## Member States of East Africa

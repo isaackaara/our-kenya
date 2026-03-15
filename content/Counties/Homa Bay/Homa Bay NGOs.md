@@ -1,5 +1,3 @@
-# Homa Bay NGOs
-
 Non-governmental organizations work extensively in Homa Bay County, addressing development priorities including HIV prevention and treatment, health service provision, education support, and economic empowerment. NGOs supplement government services and implement targeted interventions.
 
 ## HIV and AIDS Organizations

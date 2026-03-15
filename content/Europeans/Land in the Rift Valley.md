@@ -1,5 +1,3 @@
-# Land in the Rift Valley
-
 The [[Rift Valley]] was the heartland of [[European settlement]] in colonial Kenya. The region's altitude, climate, and landscape made it suitable for [[European agriculture]]. It was also home to [[Maasai]], [[Nandi]], [[Kipsigis]], and other communities whose pastoralist and agricultural systems were disrupted by [[settler colonialism]]. The Rift Valley became the primary location of large settler estates and represented the core of the [[White Highlands]] system.
 
 ## Geography and Climate

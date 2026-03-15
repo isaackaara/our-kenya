@@ -1,5 +1,3 @@
-# Mandera NGOs
-
 Non-governmental organizations (NGOs) play a significant role in service delivery and development initiatives in Mandera County, filling gaps left by limited government capacity and resources. International and local NGOs implement humanitarian assistance programs, development projects, and service delivery across health, education, water, food security, and other sectors. However, the sustainability and coverage of NGO programs remain limited, and dependence on NGO services raises concerns about long-term development impact.
 
 ## NGO Presence and Roles

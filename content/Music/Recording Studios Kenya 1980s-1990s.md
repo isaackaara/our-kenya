@@ -1,5 +1,3 @@
-# Recording Studios Kenya 1980s-1990s
-
 Recording studios in Kenya during the 1980s and 1990s underwent dramatic transformation from professional facilities capable of producing world-class recordings to struggling operations barely surviving [[Music/Piracy and the Kenyan Music Industry|economic collapse]]. The era saw international record labels withdraw, independent River Road studios proliferate, and recording quality decline as musicians could not afford professional production that would be immediately pirated.
 
 The 1980s began with relatively robust studio infrastructure inherited from the 1970s golden age. Companies like Polygram and CBS operated professional studios in Nairobi equipped with quality recording equipment and staffed by experienced engineers. These facilities produced albums for Kenya's leading artists, maintaining production standards comparable to regional competitors in Nigeria, Congo, or South Africa.

@@ -1,5 +1,3 @@
-# Tana River Source: Kirinyaga
-
 The Tana River, Kenya's longest river, has its headwaters in the highlands of Kirinyaga County on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern slopes. The river originates from springs and streams fed by rainfall and water seepage from the mountain's forests. From its origin at approximately 4,000 meters elevation, the river flows eastward for over 600 kilometers to the Indian Ocean.
 
 ## Headwater Streams

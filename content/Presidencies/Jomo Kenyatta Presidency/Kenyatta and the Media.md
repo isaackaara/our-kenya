@@ -1,5 +1,3 @@
-# Kenyatta and the Media
-
 Jomo Kenyatta's presidency coincided with the transition from colonial-era press controls to the establishment of independent media in Kenya. However, despite the formal independence of the press, the Kenyatta government exercised significant influence over the media landscape through a combination of legal restrictions, economic pressure, and political intimidation. The relationship between Kenyatta and the media embodied the broader tension between nationalist rhetoric about freedom and actual political repression.
 
 In the immediate post-independence period, Kenya had a vibrant newspaper scene with several daily papers and numerous weekly and monthly publications. The major dailies included the East African Standard (later the Daily Nation), which was a continuation of a colonial-era paper, and the Kenya Times, which had pro-government leanings. Beyond these, there were numerous smaller publications and newspapers published in various ethnic languages.

@@ -1,5 +1,3 @@
-# Bomet Health
-
 Healthcare in Bomet County is delivered through public and private facilities with county government managing primary and secondary services. Health outcomes reflect economic development and service capacity.
 
 ## Health Facilities

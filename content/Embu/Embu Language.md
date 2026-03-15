@@ -1,5 +1,3 @@
-# Embu Language
-
 Kiembu (or Ikiembu) is the native language of the Embu people, classified as a Bantu language in the C-cluster (C30) alongside [[Embu and the Kikuyu]] and Meru. The language is mutually intelligible with Kikuyu and shares linguistic features with Meru, reflecting shared ancestry and centuries of contact among these Mount Kenya communities.
 
 ## Linguistic Classification

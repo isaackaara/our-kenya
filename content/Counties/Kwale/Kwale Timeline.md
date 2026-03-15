@@ -1,5 +1,3 @@
-# Kwale Timeline
-
 **Pre-1500s**: Digo and other Mijikenda peoples inhabit coastal regions, developing agricultural societies, trade networks, and governance systems.
 
 **1500s-1700s**: Portuguese trading posts established on coast. Arab-Swahili traders remain dominant along coast. Islamic influence continues expanding.

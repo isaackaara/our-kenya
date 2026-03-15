@@ -1,5 +1,3 @@
-# Kikuyu Women in History
-
 [[Kikuyu]] women have played essential but often understated roles in Kikuyu society, from pre-colonial times through contemporary Kenya. Their contributions span agriculture, ritual, politics, and resistance.
 
 ## Pre-Colonial Roles

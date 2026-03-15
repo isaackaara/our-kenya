@@ -1,5 +1,3 @@
-# Kakamega Biodiversity
-
 Kakamega County contains exceptional biodiversity centered on Kakamega Forest, which ranks among Africa's most biodiverse ecosystems. The forest harbours numerous endemic species found nowhere else in Kenya, making it globally significant for conservation. Plant, animal, and invertebrate diversity reflects the forest's unique ecological position as a fragment of the Congo Basin rainforest. Threats to forest integrity pose risks to this irreplaceable biodiversity.
 
 ## Plant Diversity

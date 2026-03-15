@@ -1,5 +1,3 @@
-# Kasigau
-
 Kasigau is a dramatic isolated volcanic hill located south of the main Taita Hills clusters. Rising sharply from the surrounding lowland plains, Kasigau is home to its own Taita community and is notable for its ecological importance and a carbon credit conservation program.
 
 ## Geography and Isolation

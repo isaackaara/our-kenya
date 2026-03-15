@@ -1,5 +1,3 @@
-# Wajir Health
-
 Healthcare delivery in Wajir County faces substantial challenges including limited facilities, acute staff shortages, supply chain disruptions, and low population literacy affecting health behaviors. Maternal and child mortality rates exceed national averages, disease burden remains high, and access to quality healthcare requires many residents to travel substantial distances. Development of health infrastructure and human resources represents a critical development need.
 
 ## Health Infrastructure

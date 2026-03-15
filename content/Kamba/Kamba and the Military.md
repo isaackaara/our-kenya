@@ -1,5 +1,3 @@
-# Kamba and the Military
-
 The Kamba have a disproportionate presence in Kenya's military, police, and security services, a pattern that stretches from the King's African Rifles (colonial era) through the modern Kenya Defence Force and National Police Service. This over-representation reflects the colonial and post-colonial channeling of the Kamba warrior tradition (anake) into formal military structures, creating a lasting impact on Kamba identity and their role in the Kenyan state.
 
 ## Key Facts

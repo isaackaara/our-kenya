@@ -1,5 +1,3 @@
-# 1974 Election Press
-
 The Kenyan press in 1974 reported on the election within the constraints of a one-party system and within the broader context of government oversight of media. Kenya had two main daily newspapers, the Nation and the Standard, both of which operated with government awareness and both of which self-censored to avoid conflict with the government. Despite these limitations, the press provided coverage of electoral campaigns, candidates, and political developments.
 
 The Nation newspaper, aligned with government interests, provided extensive coverage of KANU and government achievements. Election reporting in the Nation emphasized government success stories, candidates' promises to deliver development, and the virtues of KANU unity. The newspaper provided information about candidates, election dates, and campaign developments, but framed this information within a narrative of KANU strength and government effectiveness.

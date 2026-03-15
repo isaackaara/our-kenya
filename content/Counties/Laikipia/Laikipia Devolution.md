@@ -1,5 +1,3 @@
-# Laikipia Devolution
-
 Kenya's 2010 constitution established devolved county governance. Laikipia County government was created with elected governor and county assembly. The county manages education, healthcare, water, and local services. Devolution brought government closer to communities. However, governance challenges including capacity and corruption have affected service delivery. County government capacity development remains important.
 
 ## County Government Structure

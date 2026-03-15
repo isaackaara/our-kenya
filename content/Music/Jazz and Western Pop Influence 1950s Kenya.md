@@ -1,5 +1,3 @@
-# Jazz and Western Pop Influence 1950s Kenya
-
 American jazz and Western popular music reached Kenya in the 1950s through records, films, radio, and returning African soldiers, offering Kenyan musicians new sounds that some embraced enthusiastically while others viewed as cultural imperialism. The selective adoption and adaptation of these influences shaped the emerging [[Music/The Nairobi Sound 1950s|Nairobi urban music scene]].
 
 Jazz arrived in Kenya primarily through gramophone records. Albums by Louis Armstrong, Duke Ellington, Ella Fitzgerald, and other American jazz giants appeared in Nairobi record shops serving European and Asian communities. African musicians, through various means including employment as servants in European homes, gained access to these recordings. The improvisational freedom, rhythmic sophistication, and instrumental virtuosity of jazz fascinated many Kenyan musicians.

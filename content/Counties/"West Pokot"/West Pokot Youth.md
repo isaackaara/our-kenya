@@ -1,5 +1,3 @@
-# West Pokot Youth
-
 Youth in West Pokot County comprise approximately 60% of the population, representing substantial demographic challenge and opportunity. Many youth grow up in pastoral communities where livestock herding is primary economic activity. Youth participation in pastoralism is declining as land scarcity and conflict make pastoral livelihoods less viable. Formal employment opportunities are extremely limited in the county, with few government and private sector positions. Youth unemployment rates are high, particularly in towns. Some youth engage in livestock herding, while others seek employment in Kapenguria or neighboring counties. Youth who achieve higher education often migrate to other regions for employment.
 
 ## Youth Challenges and Engagement

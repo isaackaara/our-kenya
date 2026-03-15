@@ -1,5 +1,3 @@
-# Kisumu Post-Election Violence 2007-2008
-
 Kisumu was a hotspot of the 2007-2008 post-election violence that gripped Kenya after disputed presidential election results. The violence reflected Kisumu's role as [[../../Luo/Raila Odinga|Raila Odinga]]'s political stronghold and the intensity of opposition sentiment.
 
 ## Election Dispute and Trigger

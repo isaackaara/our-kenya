@@ -1,5 +1,3 @@
-# Community Benefits from Oil
-
 The discovery of [[Oil Discovery in Turkana]] in Turkana County generated expectations of significant community benefits including local employment, infrastructure development, revenue sharing, and improved services. However, actual benefits delivered to Turkana communities have been substantially less than promised, generating frustration and conflicts between communities and oil companies.
 
 ## Promised Community Benefits

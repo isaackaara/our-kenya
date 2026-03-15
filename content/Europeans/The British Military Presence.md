@@ -1,5 +1,3 @@
-# The British Military Presence
-
 The [[British Army Training Unit Kenya]] (BATUK) operates at [[Nanyuki]], in the foothills of [[Mount Kenya]] near the [[Laikipia Plains]]. BATUK provides [[training facilities]] for [[British military]] (and other [[Commonwealth]]) units. The presence of a [[foreign military facility]] on Kenyan soil, decades after [[independence]], remains a symbol of continued [[British influence]] and raises ongoing questions about [[Kenyan sovereignty]].
 
 ## Historical Origins and Justification

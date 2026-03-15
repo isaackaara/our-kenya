@@ -1,5 +1,3 @@
-# Kamba Language
-
 Kikamba (also known as Kamba) is a Bantu language spoken by approximately 5.4 million speakers across Kenya and neighboring regions. The language is central to Kamba identity while facing contemporary pressures from English and Swahili dominance.
 
 ## Linguistic Classification

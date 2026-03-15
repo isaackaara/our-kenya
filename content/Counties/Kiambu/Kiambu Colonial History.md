@@ -1,5 +1,3 @@
-# Kiambu Colonial History and the White Highlands
-
 [[../Kiambu/Kiambu County|Kiambu County]] was in the heart of Kenya's White Highlands, the colonial system of land alienation that reserved the most fertile, high-altitude land exclusively for European settler farmers. [[../../Kikuyu/Kikuyu|Kikuyu]] heartland was seen by colonial administrators as the most suitable location for European agriculture, creating intense competition for control of Kiambu's land.
 
 During the colonial period (1895-1963), the British colonial government expropriated vast tracts of [[../../Kikuyu/Kikuyu|Kikuyu]] land, displacing Kikuyu farmers and limiting their access to their ancestral territory. Some Kikuyu were offered employment as laborers on European farms, becoming "squatters" with limited rights. The colonial state created a racial hierarchy where European land rights were absolute and African land rights were contingent and restricted. Large European farms cultivated coffee, tea, and other high-value crops.

@@ -1,5 +1,3 @@
-# Denys Finch Hatton
-
 Denys George Finch Hatton (1887-1931) was a British aristocrat, big-game hunter, conservationist, and pilot who became a central figure in the cultural mythology of settler Kenya. He is most famous as Karen Blixen's lover and as a central figure in her memoir "Out of Africa." His life and death exemplified the glamour and excess of settler life, and his tragic plane crash became an iconic moment in colonial Kenya's history.
 
 ## Early Life and Arrival

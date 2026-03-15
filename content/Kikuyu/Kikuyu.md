@@ -1,5 +1,3 @@
-# Kikuyu History# Kikuyu History (Knowledge Graph)
-
 The Kikuyu (*Agikuyu* in their own language) are Kenya's largest ethnic group, numbering over 8 million people. Their history spans from mythological origins at the foot of [[Kirinyaga]] to the struggle for independence in 1963, a narrative woven through land, faith, resistance, and identity.
 
 ## The Story Arc

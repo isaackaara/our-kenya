@@ -1,5 +1,3 @@
-# Kajiado Land Sales
-
 Kajiado County has experienced massive and accelerating sales of [[../../Maasai/Maasai|Maasai]] group ranch and individual pastoral lands to external buyers, real estate developers, and non-Maasai investors, representing one of Kenya's most significant and contentious land transfers from pastoral to non-pastoral uses.
 
 The cumulative effect of decades of land sales has been substantial reduction in available pastoral territory and increasingly landlessness among pastoral families.

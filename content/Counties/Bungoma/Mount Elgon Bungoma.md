@@ -1,5 +1,3 @@
-# [[../../Conservation/Mount Elgon National Park|Mount Elgon]] Bungoma
-
 Mount Elgon is an extinct shield volcano straddling the Kenya-Uganda border, with significant portions of the mountain lying within Bungoma County. The mountain rises to 4,321 meters at Wagagai Peak and represents East Africa's second-highest mountain. Mount Elgon National Park encompasses the Kenyan portions of the mountain, including forest, caves, and wildlife habitat. The mountain is significant for biodiversity, water resources, and livelihoods.
 
 ## Geographic Features

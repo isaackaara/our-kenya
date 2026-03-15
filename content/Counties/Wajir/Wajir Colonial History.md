@@ -1,5 +1,3 @@
-# Wajir Colonial History
-
 Wajir's experience under British colonial rule reflected the broader colonial approach to Kenya's Northern Frontier District, treating the region as peripheral and investing minimally in infrastructure or development. The NFD remained administratively distinct from core colonial Kenya, with different governance structures and limited integration into colonial economic systems. This colonial marginalization established underdevelopment patterns that persisted long after independence, profoundly affecting contemporary Wajir County.
 
 ## Early Colonial Rule

@@ -1,5 +1,3 @@
-# Disaster Response and Solidarity
-
 Natural disasters and humanitarian crises create opportunities for [[Cross-Ethnic Kenya|cross-ethnic solidarity and cooperation]]. Earthquakes, floods, droughts, and disease outbreaks affect populations across ethnic lines. Disaster response requires coordination among people from different ethnic backgrounds. The shared vulnerability to disaster and collective need for response can transcend ethnic boundaries.
 
 The 1998 Nairobi embassy bombing demonstrated cross-ethnic mobilization around shared trauma. The bombing killed over 200 people, affecting Kenyans from all ethnic groups. The shared experience of loss and the collective grieving created opportunities for national mourning transcending ethnic particularism. Relief and reconstruction efforts involved cross-ethnic cooperation.

@@ -1,5 +1,3 @@
-# Agricultural Land and Politics
-
 Land ownership, agricultural capital accumulation, and political power are deeply intertwined in [[Kenya Economic Overview]]. The [[Kenyatta Family Business]] acquisition of vast agricultural estates at independence set a template: [[Post-Independence Economic Policy]] enables land acquisition and business accumulation. The Kenyatta family's acquisition of vast agricultural estates at independence set a template: political power enables land acquisition and business accumulation.
 
 ## Kenyatta Family Acquisition

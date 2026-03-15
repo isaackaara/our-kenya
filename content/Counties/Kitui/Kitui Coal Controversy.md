@@ -1,5 +1,3 @@
-# Kitui Coal Controversy
-
 The Kitui coal mining controversy represents a fundamental conflict between development aspirations and environmental imperatives. The debate centres on whether Kenya should extract massive coal deposits at Mui Basin, weighing economic development benefits against climate change and environmental costs. The controversy reflects broader global tensions about coal and development.
 
 Proponents of coal mining emphasize Kitui's severe underdevelopment and poverty. They argue that coal revenue could fund development, create employment, and improve infrastructure. They contend that Kenya's energy deficit necessitates diverse sources including coal and that mining would strengthen energy independence.

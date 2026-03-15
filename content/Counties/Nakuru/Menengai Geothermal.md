@@ -1,5 +1,3 @@
-# Menengai Geothermal Field
-
 The Menengai geothermal field is one of Kenya's major renewable energy developments, representing the country's effort to diversify away from hydroelectric and thermal fossil fuel generation. The field is located beneath and around Menengai Crater and is estimated to have significant untapped geothermal potential, capable of generating hundreds of megawatts of electricity.
 
 Kenya Electricity Generating Company (KenGen) began exploration at Menengai in the 1980s, drilling exploratory wells to assess the geothermal resource. Development has proceeded in phases, with multiple production wells completed and power generation facilities constructed. Menengai contributes incrementally to Kenya's national grid, and expansion is planned to significantly increase capacity.

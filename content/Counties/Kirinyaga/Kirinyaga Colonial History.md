@@ -1,5 +1,3 @@
-# Kirinyaga Colonial History
-
 Colonial administration shaped Kirinyaga District's development from the late 1800s onward. British colonial authorities incorporated [[../../Kikuyu/Kikuyu|Kikuyu]] territories into the East Africa Protectorate and later the Kenya Colony. The fertile [[../../Conservation/Mount Kenya National Park|Mount Kenya]] slopes, initially reserved for British settler farms, were eventually opened to limited African cultivation of cash crops under strict control. Colonial policies fundamentally altered land tenure, agricultural production, and Kikuyu society.
 
 ## Early Colonial Period

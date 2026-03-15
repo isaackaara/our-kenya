@@ -1,5 +1,3 @@
-# Ushahidi
-
 [[Ushahidi]] (meaning "testimony" in [[Swahili Kenya|Swahili]]) is an [[open-source Kenya|open-source]] [[crowdmapping Kenya|crowdmapping]] [[platform Kenya|platform]] created in [[Kenya]] in [[2008]] to map [[post-election violence Kenya|post-election violence]]. It became a global tool for [[crisis mapping Kenya|crisis mapping]], [[disaster response Kenya|disaster response]], and [[conflict monitoring Kenya|conflict monitoring]], demonstrating that [[Kenyan tech innovation Kenya|Kenyan tech innovation]] could have worldwide impact.
 
 ## Origins and the 2008 Post-Election Crisis

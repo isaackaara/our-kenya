@@ -1,5 +1,3 @@
-# Tharaka and Miraa
-
 Miraa (khat, Catha edulis) cultivation and use are significant in some East African regions. The extent of miraa cultivation in Tharaka territory is limited compared to major miraa-producing areas, though the substance is used and traded.
 
 ## Miraa in East Africa

@@ -1,5 +1,3 @@
-# Machakos Agriculture
-
 Agriculture remains the foundation of Machakos County's economy, despite urbanization and integration into the Nairobi metropolitan region. The county's semi-arid climate limits agricultural options, but Kamba farmers have developed diversified cropping systems that spread risk across multiple crops and seasons.
 
 Maize serves as the primary staple crop, providing carbohydrates for household consumption and cash income when prices favour sale. Vegetable production, including tomatoes, onions, cabbages, and leafy greens, has expanded significantly since the 1980s, particularly in areas with reliable water access. Vegetables offer higher cash returns per unit area than cereals and integrate well into Kamba market systems.

@@ -1,5 +1,3 @@
-# Mau Mau Songs and the Forest
-
 The songs sung in Kenya's forests by [[Kikuyu/Mau Mau Uprising|Mau Mau fighters]] between 1952 and 1960 constitute one of the most powerful bodies of resistance music in African history. These songs sustained morale during a brutal guerrilla war, preserved historical memory, communicated tactical information, and articulated a vision of liberation that transcended immediate military objectives.
 
 Mau Mau forest songs drew on deep wells of Kikuyu musical tradition. The call-and-response structure, fundamental to Kikuyu communal music, created collective solidarity among fighters. Traditional instruments, when available, included drums, rattles, and makeshift percussion. More often, songs were performed a cappella, with rhythmic clapping and foot-stomping providing accompaniment.

@@ -1,5 +1,3 @@
-# [[HIV AIDS]] at the Coast
-
 [[Kenya]]'s [[coastal]] region, including Kilifi and Kwale counties where Mjikenda populations are concentrated, experiences higher HIV and AIDS prevalence than Kenya's national average. The higher prevalence reflects multiple factors including sex tourism around beach resorts, transient populations, limited healthcare access, and social factors including inequality and gender-based violence.
 
 ## Coastal HIV Prevalence

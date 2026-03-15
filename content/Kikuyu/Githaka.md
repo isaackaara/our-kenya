@@ -1,5 +1,3 @@
-# Githaka
-
 *Githaka* (plural: *ithaka*) was the foundational land tenure system of the Kikuyu people, a form of family or sub-clan estate that was collectively owned, worked, and inherited across generations. It was not individual private property and not communal in the Western socialist sense; it was something more specific: a bounded family holding with clear customary rules of use, transfer, and inheritance. The destruction of *githaka* by British colonial policy is the deep wound beneath the [[Mau Mau Uprising]].
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Tsotso
-
 The Batsotso are a Luhya sub-group located in western Kakamega, forming part of the broader Luhya confederation. They maintain a distinct dialect and cultural identity while sharing many traditions with neighboring Luhya groups.
 
 ## Location and Geography

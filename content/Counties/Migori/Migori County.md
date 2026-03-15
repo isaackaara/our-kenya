@@ -1,5 +1,3 @@
-# Migori County
-
 Migori County is located in southwestern Kenya, bordering both Tanzania and [[../../Conservation/Lake Victoria Kenya.md|Lake Victoria]]. The county has an area of approximately 2,496 square kilometers and a population of approximately 1.2 million (2019 census). The county is administratively organized into nine sub-counties with Migori town serving as the county headquarters.
 
 Migori County is notable for its geographic position as a border county and for the Migori Gold Belt, which has seen centuries of artisanal and small-scale gold mining. The county has a mixed ethnic population, predominantly [[../../Luo/Luo.md|Luo]] (South Nyanza), with [[Kuria People.md|Kuria]], [[Suba People.md|Suba]], and other communities present. The county's position on both the Tanzania border and [[../../Conservation/Lake Victoria Kenya.md|Lake Victoria]] shore provides it with unique geographic characteristics and economic opportunities.

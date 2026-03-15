@@ -1,5 +1,3 @@
-# Tharaka Social Structure
-
 Tharaka society is organized around clans, lineages, and age grades. These social structures have shaped Tharaka life for generations and continue to influence contemporary social organization despite modernization.
 
 ## Clan Organization

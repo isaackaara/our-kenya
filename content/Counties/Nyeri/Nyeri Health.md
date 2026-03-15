@@ -1,5 +1,3 @@
-# Nyeri Health
-
 Healthcare in Nyeri County is provided through government and private facilities. Nyeri County Referral Hospital serves as the primary healthcare facility. Health centers and dispensaries provide basic services throughout the county. Healthcare outcomes in Nyeri are generally better than national averages due to higher incomes and better infrastructure. Maternal and child health programs receive priority focus.
 
 

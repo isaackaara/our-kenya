@@ -1,5 +1,3 @@
-# Mandera Kenya-Ethiopia Border
-
 The Kenya-Ethiopia border forms the western boundary of Mandera County, separating Kenya from the Somali Region of Ethiopia. This border, defined by colonial treaties signed between Britain and Italy in the 1890s, demarcates one of the world's more significant ethnic dividing lines, separating the same Somali pastoral populations despite being divided by an international boundary. The border is characterized by cross-border pastoral movement, trade, and kinship connections that transcend the formal boundary.
 
 ## Border Definition and Demarcation

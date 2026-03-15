@@ -1,5 +1,3 @@
-# Lake Victoria
-
 [[Lake Victoria]] is the world's second-largest freshwater lake by surface area and the largest freshwater lake in terms of water volume. Shared between Kenya, Uganda, and Tanzania, it is central to [[East African Community]] ecology, economy, and history.
 
 ## Size and Geography

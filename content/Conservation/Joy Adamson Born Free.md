@@ -1,5 +1,3 @@
-# Joy Adamson Born Free
-
 Joy Adamson's work rehabilitating Elsa the lioness and the subsequent book and film "Born Free" fundamentally transformed global attitudes toward [[Kenya as Global Conservation Model|wildlife]] and [[Kenya Conservation Overview|conservation]]. Adamson demonstrated that wild animals could be rehabilitated and released successfully, and her story captivated the world, influencing conservation sentiment for generations.
 
 ## Joy Adamson and Her Conservation Vision

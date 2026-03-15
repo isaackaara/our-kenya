@@ -1,5 +1,3 @@
-# Digo People
-
 The Digo are a [[../../Mijikenda/Mijikenda|Mijikenda]] sub-group and the dominant community of Kwale County. Numbering approximately 500,000 people, the Digo occupy the coastal regions south of Mombasa, with the greatest concentration in Kwale. Their language, Kidigo, belongs to the Bantu language family and is closely related to other Mijikenda languages. Today, most Digo speakers are bilingual or trilingual, speaking Kidigo at home, Swahili in commerce and education, and English in formal settings.
 
 Digo oral traditions trace their origins to migrations from the interior, though the precise timing and routes remain debated by historians. Archaeological evidence and linguistic studies suggest connections to broader Bantu expansions that populated East Africa over centuries. By the time of documented Arab and Portuguese contact on the coast in the 1500s, the Digo were already established in the coastal region, with complex systems of land use, trade, and social organization.

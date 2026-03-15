@@ -1,5 +1,3 @@
-# Embu in Nairobi
-
 Nairobi hosts Kenya's largest Embu [[Embu Diaspora]] population, with thousands of Embu residents working, studying, and conducting business in the capital. Embu communities in Nairobi have established organizations, social networks, and economic enterprises that create urban Embu identity while maintaining ties to home communities.
 
 ## Population and Settlement

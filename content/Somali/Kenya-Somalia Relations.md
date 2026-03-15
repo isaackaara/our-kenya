@@ -1,5 +1,3 @@
-# Kenya-Somalia Relations
-
 Kenya and [[Somalia]] have a complex bilateral relationship characterized by strategic cooperation, maritime disputes, security collaboration, and economic ties. The history includes the [[Kenya Somali and the Shifta War|Shifta War]] (1963-1967), the 1967 ceasefire, the 2011 [[Kenya's Military Intervention Somalia|Kenya military intervention in Somalia]], and ongoing security cooperation. The relationship is shaped by Kenya's need for stability in Somalia and Somalia's dependency on international support.
 
 ## The Shifta War and Legacy

@@ -1,5 +1,3 @@
-# Kalenjin Initiation Deep Dive
-
 The tumdo initiation ceremony represents the central rite of passage in Kalenjin societies, transforming boys into socially recognized men and binding them into permanent cohorts called age-sets. This ceremony and the seclusion period that follows embed individuals into community structures that shape their entire lives.
 
 ## The Circumcision and Age-Set Formation

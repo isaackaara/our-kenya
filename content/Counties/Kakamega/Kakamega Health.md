@@ -1,5 +1,3 @@
-# Kakamega Health
-
 Healthcare in Kakamega County is provided through a network of government facilities, private clinics, and traditional healers. Kakamega County Referral Hospital serves as the primary government healthcare facility for the county. The health system faces challenges from high population demand, limited resources, and disease burden patterns reflecting developmental constraints.
 
 ## Kakamega County Referral Hospital

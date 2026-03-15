@@ -1,5 +1,3 @@
-# The Giriama Uprising 1913-1914
-
 The [[Giriama]] Uprising of 1913-1914 (locally known as "Kondo ya Chembe," meaning "Champion's War") was one of East Africa's earliest and most significant organized anti-colonial resistance movements. Led by the iconic female leader [[Mekatilili wa Menza]], the uprising emerged from [[Giriama]] grievances regarding labor conscription, land seizure, and cultural erosion under British colonial rule.
 
 ## Causes and Context

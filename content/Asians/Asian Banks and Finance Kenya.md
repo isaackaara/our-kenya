@@ -1,5 +1,3 @@
-# Asian Banks and Finance Kenya
-
 [[Asian Kenyans|Asian]] communities established or were closely associated with financial institutions in [[Kenya]], including banks, microfinance operations, and credit societies. These institutions served both the [[Asian Kenyans|Asian]] community and broader [[Kenya]], facilitating [[commerce]] and credit.
 
 ## The Bank of Baroda

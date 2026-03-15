@@ -1,5 +1,3 @@
-# Turkana Fishing
-
 While [[Turkana Pastoralism]] is the dominant livelihood in Turkana, fishing provides important livelihood diversification and protein sources for Turkana and neighboring communities, particularly the El Molo people who fish [[Lake Turkana]] intensively. Fishing occurs primarily in Ferguson's Gulf on the western (Kenyan) side of the lake, where fish populations are concentrated and accessible.
 
 ## The El Molo and Fishing Communities

@@ -1,5 +1,3 @@
-# Taita Women
-
 Women in Taita society occupy distinct roles defined by age, marital status, and family position. While traditional structures were patriarchal, women have always exercised significant influence within family and community contexts.
 
 ## Traditional Roles

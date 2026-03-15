@@ -1,5 +1,3 @@
-# Nyeri Cooperatives
-
 Coffee cooperatives form the backbone of Nyeri's agricultural organization, with Othaya Farmers' Cooperative Society, Tetu Farmers' Cooperative, and Mathira Farmers' Cooperative managing significant volumes. Cooperatives operate coffee mills, manage exports, and provide input services. Dairy cooperatives also organize milk production and marketing. Cooperative membership provides farmers with assured markets and professional services. Cooperative governance and succession planning present ongoing challenges.
 
 

@@ -1,5 +1,3 @@
-# West Pokot Agriculture
-
 Agriculture occurs primarily in the highland zones of West Pokot County, where rainfall is sufficient and temperatures are suitable. Maize is the dominant cereal crop, providing household food security. Sorghum and millet cultivation provides drought-resistant grain production in marginal rainfall zones. Bean cultivation supplies protein and nitrogen fixation for soil fertility. Vegetables and fruits are produced in highland areas for household consumption and market sale. Wheat is cultivated in the highest-elevation zones. Potatoes provide important income and food in cool highland areas. Farming practices range from subsistence household production to commercial operations. Agricultural extension services support improved farming practices and input access.
 
 ## Highland Agricultural Systems

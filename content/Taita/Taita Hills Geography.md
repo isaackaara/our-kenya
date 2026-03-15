@@ -1,5 +1,3 @@
-# Taita Hills Geography
-
 The Taita Hills form a distinctive geographical zone in southeastern Kenya, characterized by three main hill clusters that rise sharply from the surrounding lowland plains. This topography has profoundly shaped Taita settlement patterns, agriculture, and culture.
 
 ## Three Main Hill Clusters

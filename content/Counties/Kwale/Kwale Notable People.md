@@ -1,5 +1,3 @@
-# Kwale Notable People
-
 Kwale County has produced numerous individuals who have achieved prominence at national and international levels in politics, business, academia, sports, and other fields. These notable people have contributed to Kenya's development while representing their county in national affairs.
 
 Coastal region political leaders including members of parliament and cabinet secretaries have come from Kwale families. Several Kwale leaders have served as ministers in Kenya's government, bringing coastal perspectives to national policy discussions. Some have been involved in land reform advocacy, seeking to address historical coastal land dispossession issues.

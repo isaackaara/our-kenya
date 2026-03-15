@@ -1,5 +1,3 @@
-# 1969 Election Results
-
 The 1969 Kenya election produced a complete KANU electoral dominance unprecedented in Kenyan electoral history. KANU won all 158 elective seats (the number of seats had expanded from the 117 in 1963), with no opposition party representation and no independent candidates winning seats. The results demonstrated KANU's monopoly control over electoral politics and the absence of meaningful opposition voice in parliament.
 
 The completeness of KANU's victory reflected both the banning of the Kenya People's Union and the single-party system that had been consolidated. Voters had no choice of parties to vote for; the only electoral choice available was among KANU candidates competing in party primaries. The election results thus showed KANU dominance not because voters were enthusiastically endorsing KANU but because the institutional structure of the election allowed no alternative.

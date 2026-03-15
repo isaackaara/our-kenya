@@ -1,5 +1,3 @@
-# Catherine Ndereba: Kenya's First Female Olympic Marathon Champion
-
 Catherine Ndereba stands as one of Kenya's greatest female distance runners, achieving unprecedented success in marathon racing. She won the Boston Marathon four times (1999, 2000, 2001, 2005), the London Marathon twice (2000, 2001), and Olympic silver in the marathon at Athens 2004. Additionally, she was two-time World Athletics Championships marathon gold medalist (1999, 2003). Ndereba's achievements elevated women's marathoning in Kenya and established her as among Africa's greatest female athletes.
 
 Ndereba was born in 1970 in Kenya and grew up in a rural community. Like many Kenyan distance runners, she ran from childhood. However, unlike male distance runners, who had established international opportunities by the 1980s, female distance runners in Kenya had minimal international competitive opportunities in the early years. Ndereba did not emerge as a major international competitor until the late 1990s.

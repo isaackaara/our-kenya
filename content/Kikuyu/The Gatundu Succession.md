@@ -1,5 +1,3 @@
-# The Gatundu Succession
-
 The Gatundu Succession crisis (1976-1978) represents the moment when Jomo Kenyatta's Kikuyu inner circle attempted to prevent Daniel arap Moi (a non-Kikuyu Kalenjin) from succeeding Kenyatta as president. The attempt failed, with significant consequences for Kikuyu political dominance and for the shape of Kenya's subsequent politics under Moi's rule.
 
 ## Kenyatta's Inner Circle and Kikuyu Dominance

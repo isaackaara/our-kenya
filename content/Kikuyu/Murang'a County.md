@@ -1,5 +1,3 @@
-# [[../Counties/Murang'a/Murang'a County|Murang'a County]]
-
 Murang'a County, formerly known as Muranga District and historically as Fort Hall during colonial times, is a Kikuyu county in the Central Highlands with deep significance in colonial history, the Mau Mau uprising, and Kenya's contemporary politics.
 
 ## Geography and Location

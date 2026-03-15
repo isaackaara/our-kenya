@@ -1,5 +1,3 @@
-# Kalenjin and World War I
-
 Kalenjin men participated in the King's African Rifles (KAR) during World War I (1914-1918), serving in the East African Campaign against German forces in German East Africa (present-day Tanzania) and neighboring territories. This participation represented both a continuation of pre-colonial warrior traditions and integration into colonial military structures.
 
 ## Historical Context

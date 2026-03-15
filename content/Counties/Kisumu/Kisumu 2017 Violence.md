@@ -1,5 +1,3 @@
-# Kisumu 2017 Election Violence: Ammunition Against Protesters
-
 The 2017 presidential election brought violence to Kisumu again, as protests erupted after [[../../Luo/Raila Odinga|Raila Odinga]] rejected the election results and called for opposition mobilization. Kisumu, as Odinga's stronghold, saw intense clashes between protesters and security forces.
 
 ## Election Dispute

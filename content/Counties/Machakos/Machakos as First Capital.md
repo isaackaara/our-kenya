@@ -1,5 +1,3 @@
-# Machakos as First Capital
-
 Machakos served as the first British colonial headquarters in the Kenyan interior from 1889 to 1899, occupying a brief but symbolically significant role in colonial administration. The British established their administrative presence in Machakos after initial coastal settlements, recognizing the town's strategic location and cooler highland climate.
 
 The decision to locate the colonial capital in Machakos reflected British surveying and administrative priorities of the late 1880s. From Machakos, colonial administrators coordinated the extension of British influence into the interior, the collection of hut taxes, and the organization of labour for colonial projects. The town housed the offices of the Imperial British East Africa Company and later the colonial administration.

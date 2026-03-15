@@ -1,5 +1,3 @@
-# Ewaso Nyiro River
-
 The Ewaso Nyiro River is the Samburu ecosystem's lifeline, providing permanent water flowing through arid and semi-arid regions. The river's year-round flow creates a linear oasis supporting vegetation and wildlife populations that would otherwise lack adequate water.
 
 The river originates in the Aberdare Range in central Kenya, flowing northeastward through Samburu County toward Lake Turkana. The river's course traverses diverse terrain, from highland forests to arid lowlands.

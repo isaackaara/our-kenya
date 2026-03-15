@@ -1,5 +1,3 @@
-# Kakamega Security
-
 Kakamega County faces various security challenges including property crime, violent crime, and organized crime activities affecting public safety and economic development. Crime patterns reflect broader security issues in high-density urban areas and rural regions with limited economic opportunity. Security services including police provide law enforcement though capacity and effectiveness constraints persist.
 
 ## Crime Patterns

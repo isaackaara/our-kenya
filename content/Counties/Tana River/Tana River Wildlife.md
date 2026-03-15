@@ -1,5 +1,3 @@
-# Tana River Wildlife
-
 Wildlife in Tana River County encompasses diverse species adapted to arid-to-semi-arid terrestrial environments and riverine-coastal aquatic ecosystems. The county's biodiversity reflects its position at the convergence of multiple ecological zones and its significance as habitat for species with restricted distributions. However, wildlife populations face mounting pressures from habitat loss, hunting, climate change, and development activities.
 
 Large mammals historically abundant in Tana River have been substantially depleted. Elephant populations have declined from thousands to very small numbers, primarily due to poaching and habitat loss. Rhinoceros populations have been essentially eliminated. Buffalo, zebra, and wildebeest populations are limited to scattered individuals and small groups in marginal habitats. Lion populations have declined markedly, with very few remaining in the county. Leopards persist in limited numbers in forested areas and escarpments. These large carnivores face habitat loss and prey scarcity constraining populations.

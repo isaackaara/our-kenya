@@ -1,5 +1,3 @@
-# Kisii Timeline
-
 This timeline traces major events in [[Kisii County.md|Kisii County's]] history from pre-colonial times through 2026, documenting the development of the region's economy, governance, and society.
 
 ## Pre-Colonial Era (Before 1890s)

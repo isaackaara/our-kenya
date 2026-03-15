@@ -1,5 +1,3 @@
-# The Military Legacy
-
 The King's African Rifles (KAR) was the colonial military force. Kenyans, particularly from certain regions, were recruited as soldiers and trained by the British. The KAR was used to suppress the Mau Mau rebellion and to maintain colonial control.
 
 After independence, the Kenya Defence Forces (KDF) was established as the successor to the KAR. The institutional continuities are substantial. The organizational structure, the rank system, the military ideology were inherited from the KAR. British military advisors remained influential in early KDF development.

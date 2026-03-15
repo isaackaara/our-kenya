@@ -1,5 +1,3 @@
-# West Pokot Infrastructure
-
 Infrastructure development in [[West Pokot County]] is substantially limited compared to other Kenya counties, with inadequate road networks, limited water supply, constrained electricity provision, and underdeveloped communication systems. Infrastructure deficits constrain economic development, limit service delivery access, and contribute to the county's marginalized position in the national economy. Poor road conditions limit market access and increase transport costs. Water supply inadequacy creates health and livelihood challenges. Limited electricity constrains business development and service provision. Communication infrastructure has expanded recently but remains limited in remote areas. Investment in infrastructure has been insufficient to meet growing needs from population growth and development demands. Understanding West Pokot's infrastructure challenges is fundamental to understanding development constraints and opportunities for improvement.
 
 ## Road Networks and Transportation

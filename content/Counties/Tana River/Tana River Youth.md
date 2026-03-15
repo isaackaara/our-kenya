@@ -1,5 +1,3 @@
-# Tana River Youth
-
 Youth in Tana River County face constrained livelihood opportunities, limited educational access, and vulnerability to conflict mobilization. The county's youth population is substantial relative to total population, reflecting high fertility rates, though limited economic opportunities create unemployment challenges.
 
 Educational access for youth has been constrained by poverty, inadequate school infrastructure, and early school leaving. School completion rates are low, with many youth not completing secondary education. Limited tertiary education access means few youth achieve higher education. This education deficit constrains youth employment prospects and earning capacity. Skills gaps between youth capabilities and employment requirements create mismatch between job availability and youth qualifications.

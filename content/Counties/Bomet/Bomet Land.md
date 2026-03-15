@@ -1,5 +1,3 @@
-# Bomet Land
-
 Land tenure in Bomet County reflects colonial land settlement patterns and contemporary property law. Land remains significant for agricultural livelihoods and wealth accumulation despite pressure from population growth.
 
 ## Land Tenure Systems

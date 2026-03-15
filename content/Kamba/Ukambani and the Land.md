@@ -1,5 +1,3 @@
-# Ukambani and the Land
-
 Ukambani is the semi-arid homeland of the Kamba people, encompassing Machakos, Kitui, and Makueni counties in eastern Kenya. With annual rainfall between 400-800mm and rocky, challenging terrain, Ukambani appeared to colonial officials as a degraded, overgrazed landscape in need of forcible intervention. Yet post-independence, the region underwent a remarkable recovery through local farmer innovation and investment in water harvesting and soil conservation techniques (ndithia), earning it the title of the "Machakos Miracle" in development literature.
 
 ## Key Facts

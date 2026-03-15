@@ -1,5 +1,3 @@
-# West Pokot Conflict
-
 [[West Pokot County]] has experienced persistent inter-communal conflict characterized by cattle rustling, territorial disputes, and armed violence involving [[Pokot People|Pokot]] communities and neighboring pastoral groups including Turkana in Kenya and Karamoja communities in Uganda. These conflicts have deep historical roots extending to pre-colonial times when pastoral communities competed for water and grazing resources, but contemporary conflicts are intensified by climate variability, small arms proliferation, land pressure, and state security responses. The conflicts have substantial humanitarian impacts including loss of life, displacement of populations, trauma, and disruption of livelihoods. Understanding West Pokot conflict requires examining both structural causes (resource competition, weak state capacity) and immediate triggers (specific raiding incidents, drought events) that generate cycles of violence.
 
 ## Historical Context of Pastoral Conflict

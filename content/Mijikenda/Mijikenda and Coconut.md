@@ -1,5 +1,3 @@
-# Mijikenda and Coconut
-
 The [[Coconut Palm Culture|coconut palm]] (Cocos nucifera) is central to [[Mijikenda Overview|Mijikenda]] coastal economy and culture. The coconut provides multiple products: coconut oil (for cooking and trade), coconut milk (for cooking), palm wine called mnazi (an alcoholic beverage of social significance), copra (dried coconut meat for trade), and coconut fiber (for rope, matting, and other purposes). The coconut harvest cycle, coconut processing, and palm wine tapping have been fundamental to Mijikenda livelihoods for centuries.
 
 ## Coconut Cultivation and Harvesting

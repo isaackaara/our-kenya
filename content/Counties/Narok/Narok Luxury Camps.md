@@ -1,5 +1,3 @@
-# Narok Luxury Camps
-
 Narok County's luxury safari camps and lodges represent Africa's most exclusive and high-end accommodation facilities, offering world-class amenities, gourmet cuisine, and premium safari experiences to international tourists and affluent visitors at daily rates exceeding USD 1,000 per person.
 
 ## Luxury Camp Categories

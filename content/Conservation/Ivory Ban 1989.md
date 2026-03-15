@@ -1,5 +1,3 @@
-# Ivory Ban 1989
-
 The 1989 international ban on elephant ivory trade represents a pivotal moment in global wildlife conservation policy. Driven by the catastrophic poaching of African elephants throughout the 1980s, the ban emerged from scientific evidence, political advocacy, and international negotiation. It fundamentally reshaped the conservation landscape and became a model for addressing wildlife trade threats.
 
 ## The Poaching Crisis Context

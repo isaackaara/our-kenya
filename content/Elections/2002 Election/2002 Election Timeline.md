@@ -1,5 +1,3 @@
-# 2002 Election Timeline
-
 **January 1998 to December 2001**: Moi serves his final constitutional term, as KANU faces declining governance capacity and economic crisis. Speculation grows about succession arrangements and the post-Moi transition.
 
 **Late 2001 to Early 2002**: [[Kibaki]], [[Raila]], and other opposition figures begin coalition negotiations. NARC emerges as the primary opposition coalition framework, uniting Democratic Party, NDP, and smaller parties.

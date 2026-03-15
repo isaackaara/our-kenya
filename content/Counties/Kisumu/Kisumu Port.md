@@ -1,5 +1,3 @@
-# Kisumu Port: Colonial Heyday to Contemporary Challenges
-
 Kisumu's port on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] was historically crucial for East African trade, connecting Kenya, Uganda, and Tanzania via water transport. The port's importance has declined, but efforts continue to revive its role.
 
 ## Colonial Heyday

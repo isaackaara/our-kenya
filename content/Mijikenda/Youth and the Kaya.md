@@ -1,5 +1,3 @@
-# Youth and the Kaya
-
 The relationship between young [[Mijikenda]] and the [[Kaya System|kaya]] system represents a central challenge to cultural continuity. The [[Kaya System|kaya]] system requires decades-long commitments to initiation and gradual advancement through elder grades, a model difficult to maintain in the context of formal education, urban employment, and global cultural influences. Many young [[Mijikenda]] have limited connection to the [[Kaya System|kaya]], raising questions about the long-term viability of the system.
 
 ## The Time Commitment Problem

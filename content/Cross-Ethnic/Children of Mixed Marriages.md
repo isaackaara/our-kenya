@@ -1,5 +1,3 @@
-# Children of Mixed Marriages
-
 Children born to parents from different ethnic groups occupy a distinctive and sometimes ambiguous position in [[Cross-Ethnic Kenya|Kenyan society]]. These children inherit plural ethnic heritages yet frequently do not identify exclusively with either parental heritage. The experience of being a "half-caste" or "mixed race" child (terms sometimes used though often resisted) shapes identity in ways distinct from children born within single-ethnic households.
 
 The linguistic experience of mixed-heritage children is often one of loss and incompletion. A child with a Kikuyu mother and a Luo father might grow up hearing neither language consistently spoken at home. Parents may communicate with each other in English or Swahili rather than in their ethnic languages. As a result, the child grows up without fluency in either parent's language, despite feeling affection for both parents and their communities. This phenomenon is becoming increasingly common in Nairobi and other urban areas.

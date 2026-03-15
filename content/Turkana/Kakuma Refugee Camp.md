@@ -1,5 +1,3 @@
-# Kakuma Refugee Camp
-
 [[Kakuma Refugee Camp]] is home to one of the world's largest and longest-running refugee camps, established in 1992 to host refugees fleeing conflicts in South Sudan, Somalia, Ethiopia, and elsewhere. The camp is located in Kakuma (formerly a small settlement in Turkana County) and now hosts over 200,000 refugees and internally displaced persons (IDPs), making it a significant demographic and economic center in the region.
 
 ## Establishment and History

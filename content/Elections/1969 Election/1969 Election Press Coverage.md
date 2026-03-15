@@ -1,5 +1,3 @@
-# 1969 Election Press Coverage
-
 Press coverage of the 1969 election took place in a narrowing political space where the government was consolidating single-party control and suppressing opposition. The Kenyan press, which included newspapers like the East African Standard and the Daily Nation, operated under increasing government pressure and self-censorship. The government's banning of the Kenya People's Union and its suppression of opposition meant that press coverage of alternatives to KANU was severely limited.
 
 The press coverage of the 1969 election focused heavily on KANU candidates, KANU campaign activities, and the government's assertions about the necessity of single-party unity. Coverage of the banning of the Kenya People's Union was minimal, and press reporting of the suppression of opposition generally accepted government justifications without critical scrutiny. The violence surrounding Tom Mboya's assassination and the Kisumu massacre received some press coverage, but with careful editorial framing that emphasized government claims about the necessity of order and security.

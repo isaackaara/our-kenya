@@ -1,5 +1,3 @@
-# John De Mathew
-
 John De Mathew, born John Ng'ang'a Mwangi in Gathiruini village, Mukurwe-ini sub-location of Gatanga Constituency, Murang'a County, became the undisputed king of [[Music/Mugithi Music Origins|mugithi music]] in the late 1990s and 2000s. His career spanning over 30 years produced more than 50 albums and established him as one of Kenya's most prolific and beloved vernacular musicians before his tragic death in a road accident on August 18, 2019.
 
 De Mathew represented mugithi's evolution from roadside performances to mainstream commercial success. Unlike earlier [[Music/Mugithi Music Origins|mugithi pioneers]], he recorded in professional studios, produced high-quality videos for [[Music/Kenyan Music Videos Origins|Kenyan television]], and built a national following that extended beyond Central Kenya's Kikuyu heartland. His music maintained mugithi's working-class authenticity while achieving unprecedented commercial reach.

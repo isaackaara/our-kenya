@@ -1,5 +1,3 @@
-# 2022 Election Technology
-
 The 2022 election deployed electronic and biometric systems similar to previous cycles, continuing Kenya's pattern of technological investment in electoral administration despite ongoing vulnerabilities and implementation challenges. The deployment of KIEMS (Kenya Integrated Election Management System) kits for result transmission, biometric verification systems, and computerized voter rolls represented continued evolution of Kenya's technological electoral infrastructure.
 
 The KIEMS system deployed in 2022 represented upgraded versions of electronic result transmission systems deployed in previous cycles. The system was intended to improve upon previous technological vulnerabilities and to enhance security and reliability of result transmission. However, observers and the four dissenting IEBC commissioners noted that the system continued to experience vulnerabilities and that electronic results diverged from paper-based results in ways suggesting potential system compromise or unreliability.

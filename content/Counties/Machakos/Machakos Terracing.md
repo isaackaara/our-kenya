@@ -1,5 +1,3 @@
-# Machakos Terracing
-
 Terracing in Machakos County represents a sophisticated soil conservation technology that transformed the landscape during the late twentieth century. Bench terraces, constructed by cutting horizontal platforms into hillsides, capture rainfall runoff and allow water and soil to accumulate rather than eroding downslope. This technique addresses the fundamental challenge of farming on sloped terrain in semi-arid environments.
 
 The adoption of terracing in Machakos accelerated during the 1980s and 1990s in response to visible environmental degradation and declining agricultural yields. Farmers constructed terraces manually, an extraordinarily labour-intensive undertaking. Women performed much of this labour, often working on hillside projects during seasons when agricultural work was minimal. The prevalence of female labour in terracing reflected both the agricultural division of labour in Kamba society and women's particular interest in food security.

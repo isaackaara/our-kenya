@@ -1,5 +1,3 @@
-# Embu Agriculture
-
 Embu agriculture encompasses diverse farming systems ranging from highland tea and coffee production to lowland rice irrigation and year-round horticultural cultivation. The [[Embu Tea [[Embu Coffee Sector]]]] remains the dominant livelihood source for most Embu households, though productivity pressures and market volatility create ongoing challenges.
 
 ## Farming Systems by Agroecology

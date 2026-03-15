@@ -1,5 +1,3 @@
-# European Conservation Establishment
-
 European-founded and European-led conservation organizations have played major roles in managing Kenya's wildlife and protected areas since the colonial period. Organizations including the African Wildlife Foundation (AWF), the David Sheldrick Wildlife Trust, the Born Free Foundation, and others control significant land and resources. However, scholars and African critics argue that conservation by Europeans represents a continuation of colonial land control, excluding African communities from resource access and decision-making.
 
 ## Major European-Founded Organizations

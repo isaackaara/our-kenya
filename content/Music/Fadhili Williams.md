@@ -1,5 +1,3 @@
-# Fadhili Williams
-
 Fadhili William Mdawida was Kenya's first pop star, the composer of "Malaika," arguably East Africa's most beloved song, and a figure whose musical legacy is inseparable from complicated questions of authorship, credit, and commercial exploitation. His career illuminates both the possibilities and the pitfalls faced by African musicians in the colonial and early independence periods.
 
 Born in 1938 in Mombasa to a family with roots in the coastal musical tradition, Fadhili grew up surrounded by [[Music/East African Indian Ocean Taarab History|taarab]], ngoma, and the eclectic sounds of port city life. He learned guitar as a teenager, initially playing in church and at informal gatherings. His musical education was autodidactic, learning by ear and through observation rather than formal training.

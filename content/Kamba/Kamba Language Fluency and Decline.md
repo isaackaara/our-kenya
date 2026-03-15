@@ -1,5 +1,3 @@
-# Kamba Language Fluency and Decline
-
 The Kikamba language (also called Akamba), a Bantu language of the C-group closely related to Kikuyu and Embu, faces accelerating decline as mother-tongue speakers shift to Swahili and English. This note documents language vitality in Ukambani and across the diaspora, and explores the implications for cultural continuity.
 
 ## Language Classification and Features

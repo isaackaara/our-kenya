@@ -1,5 +1,3 @@
-# Machakos Notable People
-
 Machakos County has produced numerous prominent Kenyans who have contributed to national politics, business, academia, and culture. These individuals have shaped Kenya's development trajectory and represent the county's intellectual and leadership resources.
 
 Dr. Julius Kariuki served as Vice President of Kenya during the postcolonial period and represented Machakos in national politics. His political career and policy positions influenced Kenya's early development trajectory. Dr. Nyambura Wa Mbugua, a prominent academic and women's rights advocate, emerged from Machakos background and contributed significantly to higher education and gender equality discourse.

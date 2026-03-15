@@ -1,5 +1,3 @@
-# Samburu Political Figures
-
 Prominent [[Samburu]] politicians have served in parliament, county government, and administration. These leaders have advocated [[Samburu]] interests within national political frameworks. Political figures have varied in effectiveness and integrity, with some gaining prominence through development focus while others faced corruption allegations. Political representation provides [[Samburu]] voice in governance decisions affecting [[Samburu Pastoralism|pastoralist]] communities.
 
 ## Parliamentary Representation

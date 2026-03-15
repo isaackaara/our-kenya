@@ -1,5 +1,3 @@
-# Nairobi's Climate: Altitude and Temperate Weather
-
 Nairobi's climate is unusual for its location on the equator. The city's altitude of 1,795 meters (approximately 5,900 feet) above sea level moderates temperatures, creating a pleasant temperate climate in contrast to the hot tropical climates found at lower elevations in Kenya.
 
 ## Temperate Climate

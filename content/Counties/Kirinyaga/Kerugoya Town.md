@@ -1,5 +1,3 @@
-# Kerugoya Town
-
 Kerugoya and Kutus are twin towns that together form the county headquarters of Kirinyaga County. Located in the central region of the county at a moderate elevation on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes, these towns serve as the administrative and commercial hub for the region. The towns have grown steadily as agricultural commerce, particularly coffee and rice trade, has expanded throughout the surrounding areas.
 
 ## Development and Infrastructure

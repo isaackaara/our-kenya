@@ -1,5 +1,3 @@
-# Oral Traditions and History Preservation
-
 Oral traditions are essential mechanisms through which [[Mijikenda]] preserve and transmit history, cultural knowledge, and identity. In societies with limited written documentation, oral traditions are primary historical source. However, contemporary pressures threaten oral tradition transmission, creating need for preservation efforts.
 
 ## Nature of Oral Traditions

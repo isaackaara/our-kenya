@@ -1,5 +1,3 @@
-# SGR and Wildlife Corridors
-
 The [[Standard Gauge Railway]] (SGR), a major infrastructure project connecting Kenya's cities, has intersected with critical [[Wildlife Corridors Kenya|wildlife corridors]], creating barriers to animal movement and presenting conservation challenges. The railway's routing through [[Nairobi National Park]] and other wildlife areas exemplifies conflicts between development and conservation.
 
 ## The Standard Gauge Railway Project

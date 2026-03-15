@@ -1,5 +1,3 @@
-# Nyamira Politics
-
 [[Nyamira County.md|Nyamira County]] politics reflects ethnic composition, class divisions, and competition for resources. Political dynamics shape county governance and development prioritization following the county's creation in 2013.
 
 ## Ethnic Dimensions

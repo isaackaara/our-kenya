@@ -1,5 +1,3 @@
-# Kamba in the Judiciary
-
 The Kamba have produced notable lawyers, judges, and magistrates who have contributed significantly to Kenya's legal system. The legal profession has been important for Kamba social mobility and has provided a pathway for educated Kamba to influence national governance.
 
 ## Legal Profession and Education

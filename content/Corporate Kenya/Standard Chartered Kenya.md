@@ -1,5 +1,3 @@
-# Standard Chartered Kenya
-
 [[Standard Chartered Kenya]] is the oldest [[foreign bank Kenya|foreign bank]] continuously operating in [[Kenya]]. It traces its origins to the [[colonial period Kenya|colonial period]] and has maintained a significant presence through [[independence Kenya|independence]], [[structural adjustment Kenya|structural adjustment]], and the [[digital revolution Kenya|digital revolution]]. Standard Chartered Kenya remains a major player in [[corporate banking Kenya|corporate]] and [[investment banking Kenya|investment banking]], though it is less prominent in [[retail banking Kenya|retail banking]] than local competitors.
 
 ## Colonial Origins (1904)

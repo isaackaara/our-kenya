@@ -1,5 +1,3 @@
-# The Villagisation Program
-
 The villagisation program (1954-1955) represents one of the most traumatic episodes in Kikuyu history. The British forcibly moved approximately 1.5 million Kikuyu, nearly the entire Kikuyu population, into enclosed villages surrounded by barbed wire and trenches. This program devastated Kikuyu society, disrupting agriculture, causing mass suffering, and fundamentally altering land relationships.
 
 ## Scale and Execution

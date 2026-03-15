@@ -1,5 +1,3 @@
-# Kakamega Climate Change
-
 Climate change poses significant challenges to Kakamega County's agriculture, water resources, and forest ecosystems. Projected changes in rainfall patterns, temperature increases, and extreme weather events threaten agricultural productivity and livelihoods. Climate change impacts intersect with existing pressures from population density and land scarcity, creating complex adaptation challenges.
 
 ## Rainfall Variability

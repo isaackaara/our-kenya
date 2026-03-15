@@ -1,5 +1,3 @@
-# Nyandarua Kikuyu Settlers
-
 Nyandarua County was heavily settled by Kikuyu smallholders following Kenya's independence in 1964. The Aberdare highlands had been reserved as White Highlands for European settler farms during the colonial period. After independence, the government implemented land redistribution schemes allocating land to African farmers. Kikuyu communities, who had been landless or land-poor during colonialism, received substantial allocations in Nyandarua. This settlement transformed the region from European estates to Kikuyu smallholder agriculture.
 
 ## Colonial Displacement

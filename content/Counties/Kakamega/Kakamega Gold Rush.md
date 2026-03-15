@@ -1,5 +1,3 @@
-# Kakamega Gold Rush
-
 A significant gold rush occurred in the Kakamega area during the 1930s, attracting prospectors and generating intense mineral extraction activity. The gold rush brought temporary prosperity to the region and stimulated economic activity, though ultimately yielding limited sustainable wealth compared to the disruption created. The event represents an important moment in Kakamega's economic history and demonstrates the speculative nature of resource-based economic activity.
 
 ## Discovery and Initial Rush

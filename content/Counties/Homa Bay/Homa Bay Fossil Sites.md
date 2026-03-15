@@ -1,5 +1,3 @@
-# Homa Bay Fossil Sites
-
 Homa Bay County, particularly Rusinga Island, contains important paleontological sites with fossil remains contributing significantly to understanding primate and human evolution. These sites have yielded important specimens and continue to support paleontological research.
 
 ## Rusinga Island Fossils

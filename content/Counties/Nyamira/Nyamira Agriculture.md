@@ -1,5 +1,3 @@
-# Nyamira Agriculture
-
 Agriculture is the foundation of [[Nyamira County.md|Nyamira County's]] economy, with [[Nyamira Tea.md|tea]] as dominant crop supplemented by diverse other agricultural activities. The agricultural sector employs the majority of the population and generates primary household incomes.
 
 ## Primary Crops

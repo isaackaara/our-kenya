@@ -1,5 +1,3 @@
-# West Pokot Irrigation
-
 [[West Pokot Irrigation]] schemes represent a major development strategy for improving agricultural production and food security in a county facing chronic water scarcity and rainfall variability. Irrigation development focuses on harnessing water from perennial rivers, particularly the Morun and Weiwei rivers that flow through the county, to enable year-round cultivation in an otherwise arid and semi-arid climate. Irrigated agriculture provides more reliable production than rainfed agriculture, enables cultivation during dry seasons, allows cultivation of higher-value crops, and creates opportunities for farmer income generation. However, irrigation scheme performance has been constrained by infrastructure maintenance challenges, conflicts over water allocation, and limited farmer capacity for intensive management. Understanding irrigation development in West Pokot is important for understanding food security and agricultural development prospects.
 
 ## Potential of Irrigation for Agricultural Development

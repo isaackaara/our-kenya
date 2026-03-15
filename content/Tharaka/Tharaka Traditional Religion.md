@@ -1,5 +1,3 @@
-# Tharaka Traditional Religion
-
 Tharaka traditional religion centers on [[Tharaka Oral Traditions]] in a high god, veneration of ancestors, and ritual specialists who mediate between the living and spirit worlds. The religious system is adapted to the semi-arid environment and its uncertainties.
 
 ## High God and Creation

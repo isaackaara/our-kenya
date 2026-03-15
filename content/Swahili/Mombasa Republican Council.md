@@ -1,5 +1,3 @@
-# Mombasa Republican Council
-
 The Mombasa Republican Council (MRC) is a secessionist movement that argues the coastal region (the "Pwani Province") should be independent from Kenya. The movement cites a 1895 treaty in which Britain leased the coastal strip from the Sultan of [[Zanzibar and Kenya|Zanzibar]] rather than acquiring it by conquest, arguing this treaty basis provides legal justification for independence. The movement has been banned by the Kenyan government, and its leaders have faced arrest and harassment from those opposing [[Swahili Identity|Swahili coastal autonomy]].
 
 ## Founding and Ideology

@@ -1,5 +1,3 @@
-# The Diaspora
-
 Millions of Kenyans live outside Kenya. They are in the United States, the United Kingdom, Canada, Australia, and throughout Africa. The Kenyan diaspora is substantial and economically significant.
 
 The diaspora was created by colonialism and its aftermath. Colonial education created aspirations for education and advancement that Kenya could not fully satisfy. Economic opportunities that were available in the metropole (the former colonial centers) seemed greater than opportunities at home. Many Kenyans, particularly the educated, migrated.

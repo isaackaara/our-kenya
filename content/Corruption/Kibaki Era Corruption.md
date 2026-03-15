@@ -1,5 +1,3 @@
-# Kibaki Era Corruption
-
 ## Overview
 
 The Mwai Kibaki presidency (2002-2013) began with commitments to anti-corruption reform and economic liberalization. The era saw rapid economic growth but also major corruption scandals including Anglo Leasing, major procurement frauds, and Eurobond controversies. The paradox of the Kibaki era was economic expansion alongside pervasive corruption that diverted resources from growth-enabling public services.

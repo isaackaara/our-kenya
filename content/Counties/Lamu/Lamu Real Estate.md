@@ -1,5 +1,3 @@
-# Lamu Real Estate
-
 The real estate market in Lamu County is experiencing significant transformation driven by heritage tourism, international investment, and domestic property speculation. Property values have risen sharply in Lamu town and surrounding areas, creating both opportunities and tensions around land, housing, and community displacement.
 
 Prior to the tourism boom and UNESCO designation, property in Lamu was relatively inexpensive and served primarily local resident needs. Houses were family properties occupied by multi-generational families. Real estate transactions were limited and often informal, based on customary arrangements rather than formal market sales.

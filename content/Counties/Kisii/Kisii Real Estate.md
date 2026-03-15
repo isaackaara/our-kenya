@@ -1,5 +1,3 @@
-# Kisii Real Estate
-
 Property development and real estate activity have expanded in Kisii town and surrounding areas, reflecting economic growth and urbanization. Real estate remains an important investment sector and wealth accumulation mechanism.
 
 ## Urban Development

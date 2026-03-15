@@ -1,5 +1,3 @@
-# Tana River Women
-
 Women in Tana River County face compounded challenges arising from poverty, limited economic opportunities, cultural restrictions on women's autonomy, and inadequate service access. Despite these constraints, women have developed livelihood strategies, organized community activities, and increasingly engaged in political and social advocacy.
 
 Livelihoods for women are diverse and often multiple. Agricultural production represents a primary livelihood for farming families, with women providing substantial labor though men often control land ownership and crop sales income. Fishing-related activities including fish processing and trade generate income for women in riverine zones. Petty trading in food and consumer goods provides income for women merchants. Casual wage labor, domestic service, and other informal employment generate income for women lacking other opportunities. Pastoralist women's livelihoods depend on livestock herding and pastoral products including milk and hides.

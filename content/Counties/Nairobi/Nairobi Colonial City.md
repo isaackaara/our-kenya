@@ -1,5 +1,3 @@
-# Nairobi Under Colonial Rule: Racial Segregation and Spatial Legacy
-
 Nairobi under British colonial administration became a masterclass in racial segregation. The city was deliberately divided into distinct neighborhoods, each corresponding to a racial or ethnic hierarchy that reflected the colonial worldview.
 
 ## The European Highlands

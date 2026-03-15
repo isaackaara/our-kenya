@@ -1,5 +1,3 @@
-# Railway Worker Experience
-
 Between 1896 and 1901, approximately 32,000 Indian labourers were recruited to build the [[Uganda Railway]], one of the most ambitious colonial infrastructure projects in Africa. These workers endured brutal conditions, disease, inadequate food, and a high death toll that reached approximately 2,500 lives lost, making the railway construction one of the most deadly periods in the history of indentured labour in East Africa.
 
 ## Recruitment and Departure

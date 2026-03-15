@@ -1,5 +1,3 @@
-# Iteso People
-
 The Iteso (also called Teso) are a Nilotic community straddling the Kenya-Uganda border. Iteso populations live in both Kenya and Uganda, with family and cultural connections across the border. In Kenya, Iteso communities are concentrated in Busia County (Teso ward and surrounding areas). The Iteso speak Ateso, a Nilotic language. Iteso traditionally practiced pastoralism combined with agriculture, herding cattle while cultivating crops. Iteso communities maintain strong pastoral cultural values including livestock ownership and age-set organization. Iteso settlements span agricultural and pastoral zones, with highland and lowland communities. Contemporary Iteso engage in diversified livelihoods including agriculture, trading, and employment. Cross-border family ties connect Iteso communities across the Kenya-Uganda boundary. Iteso contribute to Busia County's cultural and economic diversity. Political representation includes Iteso elected officials and community leaders.
 
 ## Pastoral and Agricultural Heritage

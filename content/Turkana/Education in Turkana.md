@@ -1,5 +1,3 @@
-# Education in Turkana
-
 [[Education in Turkana]] levels in Turkana County are among Kenya's lowest, with low primary school enrollment and completion rates and limited access to secondary education. Multiple factors contribute to this educational deficit, including nomadic [[Turkana Pastoralism]] lifestyles, early [[Turkana Marriage]] and pregnancy, poverty, [[Drought and Famine]], and distance to schools.
 
 ## Educational Challenges

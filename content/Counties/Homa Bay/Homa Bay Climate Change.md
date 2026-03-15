@@ -1,5 +1,3 @@
-# Homa Bay Climate Change
-
 Climate change represents an escalating challenge to Homa Bay County's livelihoods, food security, and environmental conditions. Observed changes in rainfall, temperatures, and ecological conditions are disrupting traditional livelihood systems.
 
 ## Observed Climate Trends

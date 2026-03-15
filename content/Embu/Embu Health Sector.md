@@ -1,5 +1,3 @@
-# Embu Health Sector
-
 Embu [[Embu County]] has expanded healthcare [[Embu Infrastructure]] and services since independence, with particular expansion since devolution in 2013. Health facilities range from basic health centers to the referral hospital. Access and quality remain variable, with disparities between urban and rural areas and socioeconomic status affecting health outcomes.
 
 ## Healthcare Facilities

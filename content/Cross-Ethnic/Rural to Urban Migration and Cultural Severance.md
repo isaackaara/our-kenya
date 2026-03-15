@@ -1,5 +1,3 @@
-# Rural to Urban Migration and Cultural Severance
-
 [[Kenya]]'s post-independence rural-to-urban migration severed the [[Language Mixing and Hybridity|cultural transmission chains]] that had sustained African identity, language, and social structure for centuries. This was not a gradual drift but a massive, rapid demographic shift that moved entire populations from contexts of [[Cross-Ethnic Kenya|cultural continuity]] to contexts of cultural erosion within a single generation.
 
 ## The Numbers Tell a Story

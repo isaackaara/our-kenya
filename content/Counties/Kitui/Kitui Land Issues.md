@@ -1,5 +1,3 @@
-# Kitui Land Issues
-
 Land tenure and land use conflicts in Kitui County reflect tensions between pastoral and agricultural land uses, colonial and postcolonial legal frameworks, population growth, and contemporary development pressures. Land issues profoundly affect livelihoods, agricultural development, and pastoral production in the county.
 
 Historically, Kamba pastoral and agricultural systems managed land through community-based tenure emphasizing collective access within family and clan territories. Colonial land policies disrupted these systems through individual titling, government reserves, and pastoral access restrictions. Colonial administration limited Kamba land access while demarcating government reserves.

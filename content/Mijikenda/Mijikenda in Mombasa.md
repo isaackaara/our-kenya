@@ -1,5 +1,3 @@
-# Mijikenda in Mombasa
-
 The [[Mijikenda]] constitute a significant but often invisible community within [[Mombasa]] County, despite the city being dominated politically and culturally by [[Swahili]], Arab-descended, and Asian populations. The [[Mijikenda]] presence in Mombasa reflects both historical migration and contemporary economic opportunism, as Mjikenda from Kilifi and Kwale counties seek employment in Mombasa's economy.
 
 ## Demographic Presence

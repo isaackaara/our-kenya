@@ -1,5 +1,3 @@
-# Masinde Muliro
-
 Masinde Muliro was a prominent Luhya political leader and co-founder of KADU (Kenya African Democratic Union), Kenya's first major opposition party at independence. His advocacy for federalism and regionalism made him a principled voice against centralized power, and his long political career spanned from the colonial period to the struggle for multiparty democracy.
 
 ## Key Facts

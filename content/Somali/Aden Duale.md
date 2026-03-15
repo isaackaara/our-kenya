@@ -1,5 +1,3 @@
-# Aden Duale
-
 Aden Bare Duale is one of Kenya's most prominent [[Somali]] politicians and arguably the highest-ranking Kenyan Somali in national government. Born 15 June 1969 in [[Garissa County]], Duale has held multiple cabinet-level positions and represents the significant political advancement of the [[Ogaden|Ogaden clan]] within Kenya's national system, though his career also reflects the complexities and challenges of [[Kenyan Somali Clan Politics|Somali political integration]].
 
 ## Early Career

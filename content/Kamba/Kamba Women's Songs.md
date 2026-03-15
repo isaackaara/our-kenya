@@ -1,5 +1,3 @@
-# Kamba Women's Songs
-
 Women's song traditions in [[Kamba]] culture encompassed initiation songs, work songs, mourning songs, and resistance songs. These vocal traditions, performed in collective settings, served important social, spiritual, and political functions, from transmitting cultural knowledge to expressing resistance and solidarity rooted in [[Kamba and Mau Mau|liberation struggles]].
 
 ## Mwali Songs and Female Initiation

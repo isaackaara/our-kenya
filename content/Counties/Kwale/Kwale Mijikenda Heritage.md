@@ -1,5 +1,3 @@
-# Kwale Mijikenda Heritage
-
 Kwale County is home to the southernmost communities of the [[../../Mijikenda/Mijikenda|Mijikenda]], the Bantu-speaking peoples of the Kenya coast. While the Digo form the largest Mijikenda sub-group in Kwale, the county also contains smaller populations of Duruma, Ribs, and historically Chonyi peoples. Together, these communities share cultural traditions, linguistic connections, and historical experiences that define the Mijikenda identity across the coastal region.
 
 The Mijikenda people have inhabited the Kenya coast for at least 500 years, with some evidence suggesting much longer occupation. They developed complex societies characterized by farming, fishing, trade, and craft specialization. Mijikenda communities maintained the famous kaya forests, sacred groves that served simultaneously as religious centers, defense fortifications, and repositories of oral history and cultural knowledge. The kayas were organized hierarchically, with initiation ceremonies marking transitions to adulthood and deeper participation in community affairs.

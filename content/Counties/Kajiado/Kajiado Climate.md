@@ -1,5 +1,3 @@
-# Kajiado Climate
-
 Kajiado County's climate is characterized as semi-arid to arid savanna with bimodal rainfall patterns, high temperature variation, and significant drought risk, creating substantial challenges for pastoral livelihoods and requiring adaptive water and rangeland management strategies.
 
 ## Rainfall Patterns

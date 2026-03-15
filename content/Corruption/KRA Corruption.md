@@ -1,5 +1,3 @@
-# KRA Corruption: Revenue Authority Under Capture
-
 ## The Institution and Its Vulnerabilities
 
 The Kenya Revenue Authority (KRA) is responsible for collecting taxes and customs duties. It is one of the largest and most important government institutions, handling billions of shillings annually.

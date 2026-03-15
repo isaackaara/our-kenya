@@ -1,5 +1,3 @@
-# Kiambu County
-
 Kiambu County is immediately north of Nairobi and is the heartland of the Kikuyu community. With a population of approximately 2.5 million, it is one of Kenya's most densely settled and economically productive counties. Kiambu contains many of Nairobi's satellite towns including Thika, Ruiru, Kiambu town, and Limuru. The county is one of Kenya's wealthiest, based on coffee, tea, horticulture, dairy, and manufacturing.
 
 Kiambu's role as the Kikuyu cultural and political core means it holds special significance in Kenyan history and contemporary politics. The county was at the epicenter of the Mau Mau uprising (1952-1960), with Kikuyu communities rising against British colonial rule and land dispossession. The Kenyatta family's homeland is in Kiambu (Gatundu), making the county politically symbolic for post-independence Kenya.

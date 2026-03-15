@@ -1,5 +1,3 @@
-# Laikipia Climate Change
-
 Climate change is altering rainfall patterns, temperatures, and water availability in Laikipia with significant implications for pastoral and agricultural livelihoods. Scientific observations document increasing temperatures and rainfall variability. Pastoralists report changed weather patterns. Drought frequency appears increasing. These changes threaten the pastoral productivity that supports much of the county's population.
 
 ## Rainfall Changes

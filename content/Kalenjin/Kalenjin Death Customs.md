@@ -1,5 +1,3 @@
-# Kalenjin Death Customs
-
 Kalenjin burial and death practices represent a profound transformation under colonialism and Christianization, shifting from a system rooted in ecological pragmatism and cosmological beliefs to practices reflecting new religious and social frameworks.
 
 ## Traditional Exposure Practice

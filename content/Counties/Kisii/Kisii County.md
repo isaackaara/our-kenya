@@ -1,5 +1,3 @@
-# Kisii County
-
 Kisii County is located in the western Kenya highlands, making it one of the nation's most densely populated rural counties. The county encompasses approximately 1,335 square kilometers and has a population of around 1.3 million people. The Gusii people are the dominant ethnic group and have shaped the county's cultural, economic, and social identity for centuries.
 
 ## Overview

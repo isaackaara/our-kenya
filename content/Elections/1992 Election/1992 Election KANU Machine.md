@@ -1,5 +1,3 @@
-# 1992 Election KANU Machine
-
 KANU's organizational machinery in 1992 demonstrated the party's continued capacity to mobilize voters and to deploy state resources for electoral advantage despite the return to multiparty competition. The KANU organization had been built over 29 years of single-party rule and had penetrated deeply into Kenya's administrative, security force, and patronage networks. The return to multiparty competition did not eliminate KANU's structural advantages; it merely placed them in an electoral context where opposition parties could theoretically challenge them.
 
 KANU's campaign mobilization depended on the party's control of state resources, civil service personnel, and security forces. Government vehicles were deployed for KANU campaign activities, government employees were mobilized for campaign work, and security forces were deployed in ways that advantaged KANU and undermined opposition campaigns. The government's ability to direct state resources toward partisan campaign purposes gave KANU advantages that opposition parties could not match with limited budgets and no access to state resources.

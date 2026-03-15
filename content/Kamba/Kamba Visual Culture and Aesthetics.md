@@ -1,5 +1,3 @@
-# Kamba Visual Culture and Aesthetics
-
 Kamba visual culture encompasses wood carving, decorative arts, body adornment, and architectural design. This note examines aesthetic principles, artistic traditions, and contemporary visual expression.
 
 ## Traditional Aesthetic Principles

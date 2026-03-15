@@ -1,5 +1,3 @@
-# Vihiga NGOs
-
 Numerous non-governmental organizations (NGOs) work in Vihiga County addressing development challenges including poverty, health, education, and environmental degradation. NGOs operate in partnership with government, communities, and diaspora to deliver services and facilitate development. NGO presence is substantial relative to government service capacity given county resource constraints.
 
 ## Service Delivery NGOs

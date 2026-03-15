@@ -1,5 +1,3 @@
-# Samburu Climate Change
-
 Climate change intensifies drought frequency and severity in [[Samburu]], threatening [[Samburu Pastoralism|pastoral viability]]. Rising temperatures and uncertain rainfall are creating acute pastoral system stress. Adaptation strategies include livelihood diversification, improved water management, and herd management changes. Climate projections suggest intensifying challenges requiring major pastoral system transformation.
 
 ## Climate Trends

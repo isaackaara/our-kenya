@@ -1,5 +1,3 @@
-# 1974 Election Regional Patterns
-
 The 1974 election revealed distinct regional voting patterns that reflected Kenya's ethnic, economic, and political geography. Different regions of Kenya exhibited different levels of political competition, different patterns of elite dominance, and different relationships to the national government. These regional patterns would become more pronounced and more politically significant in the decades following Kenyatta's death.
 
 Central Province, home to the Kikuyu ethnic group and the political base of Kenyatta's rule, remained firmly supportive of KANU and of candidates aligned with Kenyatta. Kikuyu politicians dominated the parliamentary representation from Central Province, and the region's political elite maintained close relationships with the national government. While there was competition within the KANU primary in Central Province, these contests occurred within a context of general support for Kenyatta and KANU.

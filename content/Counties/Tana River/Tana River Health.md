@@ -1,5 +1,3 @@
-# Tana River Health
-
 Health outcomes in Tana River County rank among Kenya's worst, reflecting inadequate healthcare infrastructure, limited access to services, poverty constraining healthcare utilization, and persistent disease burdens. Infant mortality, maternal mortality, and disease prevalence rates exceed national averages significantly, indicating systemic healthcare challenges requiring urgent intervention.
 
 Healthcare infrastructure is severely inadequate relative to population and service needs. Health facility density is among Kenya's lowest, with many communities facing journeys of 10-20 kilometers or more to access health services. Primary health clinics and dispensaries provide basic care in some locations but many communities lack any nearby facility. District hospitals are few, with many patients requiring transport to distant facilities for advanced care. Facility equipment and supplies are often inadequate, with diagnostic capabilities limited and essential medications frequently unavailable.

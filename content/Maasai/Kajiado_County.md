@@ -1,5 +1,3 @@
-# [[../Counties/Kajiado/Kajiado County|Kajiado County]]: Southern Maasai Land Under Pressure
-
 ## Geography and Strategic Position
 
 Kajiado County, located in southern Kenya, covers over 21,000 square kilometers. It borders Tanzania (south), Nairobi (north and east), and Nakuru counties (northwest).

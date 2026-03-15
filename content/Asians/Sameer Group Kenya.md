@@ -1,5 +1,3 @@
-# Sameer Group Kenya
-
 [[Sameer Group]], one of Kenya's major diversified business enterprises, built interests in [[automotive tires]], property development, and information technology sectors. The group exemplifies how some Asian entrepreneurs in post-independence Kenya diversified across multiple high-growth sectors rather than concentrating on single industries. Sameer Group's success in automotive tires reflected Kenya's growing transportation and vehicle sectors.
 
 ## Origins and Diversification Strategy

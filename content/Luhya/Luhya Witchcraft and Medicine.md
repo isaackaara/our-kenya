@@ -1,5 +1,3 @@
-# Luhya Witchcraft and Medicine
-
 Belief in witchcraft, harmful spirits, and the power of traditional medicine remains a significant part of Luhya society, coexisting alongside Christian faith and modern medical practice. These beliefs have deep historical roots and continue to shape how many Luhya communities understand illness, misfortune, and healing.
 
 ## Traditional Medical and Spiritual Practitioners

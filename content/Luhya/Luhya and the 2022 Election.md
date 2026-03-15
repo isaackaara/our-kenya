@@ -1,5 +1,3 @@
-# Luhya and the 2022 Election
-
 The 2022 Kenyan presidential election marked a significant political shift for the Luhya community, with major political leaders withdrawing support from opposition leader Raila Odinga to back Deputy President William Ruto's Kenya Kwanza coalition. This alliance decision had profound consequences for Luhya political positioning and intra-community divisions.
 
 ## Mudavadi's Calculation and Shift

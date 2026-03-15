@@ -1,5 +1,3 @@
-# Tana River Headwaters
-
 The [[Tana River]], Kenya's longest river, has its headwaters in the [[Mount Kenya]] massif, including the eastern and southern slopes where [[Meru]] and [[Tharaka]] communities live. The [[Tana River]] system is vital to water supplies throughout eastern Kenya and has major economic and ecological importance.
 
 ## Tana River Origins

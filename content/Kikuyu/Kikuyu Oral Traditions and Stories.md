@@ -1,5 +1,3 @@
-# Kikuyu Oral Traditions and Stories
-
 Kikuyu oral traditions form the foundation of Kikuyu cultural memory, identity, and values. These stories, transmitted through generations before written documentation, continue to shape Kikuyu understanding of history, morality, and social life.
 
 ## Foundational Creation and Origin Stories

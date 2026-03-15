@@ -1,5 +1,3 @@
-# Mombasa Tourism: Kenya's Beach Resort Capital
-
 Mombasa is Kenya's primary beach tourism destination, attracting both international tourists and domestic visitors seeking sun, sand, and Indian Ocean experiences. The tourism industry is a major employer and generator of foreign exchange for Mombasa and Kenya.
 
 ## Beaches and Resorts

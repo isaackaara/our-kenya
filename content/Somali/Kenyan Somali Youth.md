@@ -1,5 +1,3 @@
-# Kenyan Somali Youth
-
 [[Kenyan Somali Identity|Kenyan Somali]] youth in 2026 represent a generation shaped by conflict, marginalization, and opportunity. They face educational challenges, economic uncertainty, and [[Kenyan Somali and Security State|security]] concerns. However, they also represent potential for social change, economic innovation, and political transformation. Understanding Kenyan Somali youth requires attention to [[Mandera Education Challenges|education]], employment, tradition versus modernity, and [[Radicalisation in Kenya|radicalization]] risks.
 
 ## Education Access and Outcomes

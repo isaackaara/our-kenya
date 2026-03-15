@@ -1,5 +1,3 @@
-# Maralal International Camel Derby
-
 The Maralal International Camel Derby is an annual event held in Maralal, Samburu County, showcasing camel racing and Samburu pastoral culture. Held typically in August, the event attracts international participants, international media, and tourists from around the world.
 
 The event features camel races where competitors ride camels in competitive racing events. Camel racing requires skill and understanding of animal behaviour. Races draw riders from Samburu and neighbouring pastoral communities alongside international participants.

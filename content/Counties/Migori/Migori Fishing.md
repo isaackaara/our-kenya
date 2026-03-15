@@ -1,5 +1,3 @@
-# Migori Fishing
-
 Fishing represents the primary economic activity for Migori County's Lake Victoria shoreline communities. Approximately 1,290 fishing vessels operate from Migori's Lake Victoria shoreline according to Kenya Maritime Authority census data.
 
 ## Fish Species and Commercial Trade

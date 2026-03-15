@@ -1,5 +1,3 @@
-# Western Kenya Rainfall
-
 Western Kenya, where the Luhya homeland is situated, is one of Kenya's wettest regions. The area receives between 1500 and 2000 millimeters of rainfall annually (in some highland pockets, over 2000 millimeters), making it dramatically different from the arid and semi-arid zones that dominate much of the country. This abundant moisture shapes ecology, agriculture, disease patterns, settlement, and the entire rhythm of life in Luhya territory.
 
 ## Seasonal Patterns

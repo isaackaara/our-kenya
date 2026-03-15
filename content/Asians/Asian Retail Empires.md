@@ -1,5 +1,3 @@
-# Asian Retail Empires
-
 From the colonial-era [[duka]] (shop) networks to modern supermarkets and shopping malls, [[Asian Kenyans|Asian]] entrepreneurs built and dominated [[Kenya]]'s [[retail]] sector. The evolution from small, dispersed shops to large, centralized retail chains represented both technological and organizational transformation. Retailers like [[Nakumatt]] (founded by [[Atul Shah]], a [[Gujarati]] family enterprise) and others expanded [[retail]] distribution and raised consumer expectations for variety, quality, and shopping convenience.
 
 ## The Colonial Duka Foundation

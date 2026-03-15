@@ -1,5 +1,3 @@
-# Mijikenda and Kamba
-
 The [[Kamba]] (or Akamba), a Bantu-speaking people from the interior regions of Kenya, have had historical trading relationships with [[Mijikenda Overview|Mjikenda]]. These relationships have involved commerce in goods and occasional cultural exchange, shaped by geographic separation and different economic orientations.
 
 ## Kamba Homeland and People

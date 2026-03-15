@@ -1,5 +1,3 @@
-# Luhya Rainmaking
-
 In precolonial Luhya societies, drought posed an existential threat to communities dependent on rainfall for crops and pasture. Rainmaking ceremonies represented the spiritual and practical means by which communities addressed drought, invoking divine intervention through ritual specialists, sacrifice, and communal participation.
 
 ## The Ritual Specialists

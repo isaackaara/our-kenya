@@ -1,5 +1,3 @@
-# Kisii Economy Overview
-
 [[Kisii County.md|Kisii County's]] economy is primarily agricultural, centered on [[Kisii Tea Industry.md|tea]] cultivation and increasingly diversified farming activities. The county has established itself as one of Kenya's most economically dynamic rural regions despite challenges from land pressure and climate variability.
 
 ## Primary Economic Sectors

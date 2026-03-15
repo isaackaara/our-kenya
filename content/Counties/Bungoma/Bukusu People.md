@@ -1,5 +1,3 @@
-# [[../../Luhya/Luhya|Bukusu]] People
-
 The Bukusu are the largest [[../../Luhya/Luhya|Luhya]] sub-group, dominant in Bungoma County and extending into neighbouring regions. The Bukusu have a distinctive cultural identity marked by elaborate ceremonial traditions, particularly the biennial imbalu circumcision ceremony. Bukusu communities maintain social organization around age-grade systems and clan structures, while adapting to contemporary modern social patterns and economic realities.
 
 ## Historical Background

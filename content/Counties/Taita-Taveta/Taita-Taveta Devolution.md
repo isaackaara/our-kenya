@@ -1,5 +1,3 @@
-# Taita-Taveta Devolution
-
 The devolution of governance to county governments in Kenya, implemented following the 2010 constitutional reform, has substantially affected governance structures and development processes in Taita-Taveta County. The establishment of Taita-Taveta County Government in 2013 transferred numerous functions previously handled by the national government, including health services, education, agriculture, water supply, and local infrastructure development, to county-level authorities. This decentralization created both opportunities and challenges for the county's development trajectory.
 
 The Taita-Taveta County Government is headed by an elected county governor and deputy governor, with a county assembly composed of elected representatives from the county's electoral wards. The county government is further organized into various departments responsible for different sectors including agriculture, health, water, education, finance, and public works. The devolution system was intended to bring governance closer to citizens and enable more responsive and localized development planning.

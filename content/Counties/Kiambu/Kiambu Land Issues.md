@@ -1,5 +1,3 @@
-# Kiambu Land Issues
-
 Land in [[../Kiambu/Kiambu County|Kiambu County]] is extremely expensive and highly contested, with multiple competing claims to parcels based on historical title deeds, post-independence land transfers, customary rights, and recent purchases. The colonial land alienation and post-independence redistribution created incomplete records and overlapping claims that have never been fully resolved. Land that changed hands multiple times left gaps in documentation and created confusion about legitimate ownership.
 
 Contested land disputes in Kiambu involve individual property owners, families, and institutional claimants (churches, schools, government agencies). Some disputes trace back to colonial-era land transfers; others derive from post-independence redistribution; still others involve recent transactions where deed fraud or forged documents have been used. The absence of a comprehensive, reliable cadastral (property record) system has made dispute resolution extremely difficult, with many cases pending in courts for years or decades.

@@ -1,5 +1,3 @@
-# Ngong Hills
-
 The Ngong Hills are a ridge of seven peaks rising to 2,460 metres on the southwestern edge of Nairobi, forming a dramatic skyline visible across the city. For most Kenyans, the hills carry two distinct meanings: the romantic colonial association with Karen Blixen, and the darker resonance as the site where the body of [[JM Kariuki]] was found in 1975.
 
 ## Key Facts

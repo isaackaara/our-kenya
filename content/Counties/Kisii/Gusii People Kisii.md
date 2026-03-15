@@ -1,5 +1,3 @@
-# Gusii People
-
 The [[../../Kisii/Kisii.md|Gusii]] (Kisii) people are the dominant ethnic community in Kisii County, with a rich history spanning many centuries. They constitute the primary population of the region and have maintained distinct cultural, linguistic, and social practices throughout their history.
 
 ## Origins and Migration

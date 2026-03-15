@@ -1,5 +1,3 @@
-# Mandera Women
-
 Women in Mandera County face distinctive challenges and opportunities shaped by pastoral livelihood systems, Islamic cultural traditions, and development constraints. Women's roles in pastoral societies traditionally centered on household management, water and firewood collection, childcare, dairy product processing, and pastoral support, though contemporary economic pressures have expanded women's livelihood participation.
 
 Educational access for girls remains limited relative to boys, with girls' enrollment rates below boys' in both primary and secondary schools. Early marriage, domestic work responsibilities, and cultural preferences for boys' education constrain girls' educational participation. Gender disparities in educational outcomes affect women's earning potential and livelihood options.

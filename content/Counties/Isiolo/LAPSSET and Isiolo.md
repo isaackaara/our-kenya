@@ -1,5 +1,3 @@
-# LAPSSET and Isiolo
-
 The Lamu Port South Sudan Ethiopia Transport Corridor (LAPSSET) represents a transformative infrastructure project that positions Isiolo as a planned regional city node. Conceived in the 2000s, the project envisions integrated transport and development infrastructure connecting the Horn of Africa with Indian Ocean ports.
 
 LAPSSET's Isiolo component includes a new highway bypassing the existing A109 road, a standard gauge railway connection from Isiolo toward Lamu port, a petroleum pipeline extending north, and planned airport facilities. These elements aim to establish Isiolo as a logistics hub serving East Africa and the Horn of Africa.

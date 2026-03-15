@@ -1,5 +1,3 @@
-# Kikuyu Food Culture
-
 [[Kikuyu]] food reflects the group's agricultural heritage and expresses cultural values around family, ceremony, and abundance. Traditional Kikuyu cuisine centers on staple grains (maize, millet), legumes (beans, peas), vegetables, and occasional meat.
 
 ## Staple Dishes

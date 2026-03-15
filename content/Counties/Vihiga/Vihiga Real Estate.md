@@ -1,5 +1,3 @@
-# Vihiga Real Estate
-
 Property in Vihiga County is extremely valuable due to severe land scarcity, with real estate markets characterized by high prices and limited supply. Land has become an investment asset for those with capital. Both residential and agricultural property markets exist though distinction blurs given integrated land use. Real estate transactions involve both formal (registered title) and informal (customary) processes.
 
 ## Land Scarcity and Value

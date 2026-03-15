@@ -1,5 +1,3 @@
-# 2017 Election Business Community
-
 Kenya's business community faced significant uncertainty and risk during the 2017 election period, as electoral polarization and the subsequent Supreme Court nullification created extended periods of political crisis that threatened macroeconomic stability, investor confidence, and business operations. The business community's response to the election cycle revealed the interconnections between electoral politics and Kenya's economic trajectory and the ways in which political uncertainty could cascade into economic impacts.
 
 During the campaign period preceding August 8, business confidence declined as investors expressed concern about the polarized electoral environment and uncertainty regarding the election's conduct and outcomes. Some multinational corporations and foreign investors adopted wait-and-see postures, deferring investment decisions until the election outcome became clear. The Nairobi Securities Exchange experienced volatility as traders responded to electoral uncertainty, with stock prices fluctuating based on perceptions of which candidate victory would prove economically favorable.

@@ -1,5 +1,3 @@
-# Co-operative Bank Kenya
-
 The [[Co-operative Bank]] of [[Kenya]] is unique among Kenyan banks: it is majority-owned by the Kenya Union of Savings and Credit Cooperative Organisations (KUSCCO), representing the [[SACCO Movement Kenya|SACCO movement]]. The bank serves as the banker to [[Kenya]]'s [[The Cooperative Movement|cooperative sector]] and operates as a commercial bank serving cooperative societies and their members, reflecting the [[Agricultural]] and rural economy.
 
 ## Ownership Structure

@@ -1,5 +1,3 @@
-# Kisii Notable People
-
 [[Kisii County.md|Kisii County]] has produced numerous prominent Kenyans who have contributed significantly to the nation's political, economic, educational, and cultural development. These individuals have shaped Kenya's trajectory in various fields.
 
 ## Political Leaders

@@ -1,5 +1,3 @@
-# Maasai Beadwork: Color, Meaning, and Commercialization
-
 ## Elaborate Tradition of Beaded Jewelry
 
 Maasai beadwork is among the most intricate and iconic in East Africa. Women spend countless hours creating beaded collars (*enkiama*), bracelets, earrings, and headdresses using small glass beads, fine beading wire, and thread.

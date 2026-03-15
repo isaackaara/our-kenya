@@ -1,5 +1,3 @@
-# East Africa Protectorate to Colony
-
 The transition from the East Africa Protectorate (1895-1920) to the Kenya Colony (1920 onwards) marked a shift in colonial administration, settler status, and political structure. The protectorate was administered as British imperial territory with limited settler influence. The colony formalized settler political representation and commercial privileges, crystallizing the settler colonial character that would define Kenya until independence.
 
 ## The Protectorate Phase (1895-1920)

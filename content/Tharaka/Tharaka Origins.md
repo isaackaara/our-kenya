@@ -1,5 +1,3 @@
-# Tharaka Origins
-
 The origins of the Tharaka people are connected to broader Bantu-speaking migrations into East Africa. Archaeological and oral historical evidence suggests the Tharaka arrived in their current territory alongside or shortly after other Bantu speakers in the region.
 
 ## Relationship to Meru

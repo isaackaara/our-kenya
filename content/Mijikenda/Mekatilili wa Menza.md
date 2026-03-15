@@ -1,5 +1,3 @@
-# Mekatilili wa Menza
-
 Mekatilili wa Menza (c. 1860s-1924) was a [[Giriama People|Kenyan independence activist]] and female resistance leader who led the [[Giriama People]] against British colonial rule between 1912 and 1915. She is one of East Africa's most celebrated anti-colonial figures and the first recorded Kenyan woman to lead a political struggle for social change. She now appears on Kenya's 200-shilling note.
 
 ## Early Life

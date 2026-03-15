@@ -1,5 +1,3 @@
-# Standard Gauge Railway and Mombasa: Port Connection and Passenger Service
-
 The Standard Gauge Railway (SGR) is a modern railway line connecting Mombasa to Nairobi, with terminals at the Port of Mombasa and central Nairobi. Completed in 2017, the SGR was constructed with Chinese financing and technical support.
 
 ## Mombasa Port Terminal

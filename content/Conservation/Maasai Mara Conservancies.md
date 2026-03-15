@@ -1,5 +1,3 @@
-# Maasai Mara Conservancies
-
 The conservancies bordering the [[Maasai Mara National Reserve]] represent a distinctive model of [[Community Conservancies Model|community-based wildlife conservation]] where Maasai landowners lease land for conservation use while retaining ownership. These conservancies have become increasingly important for wildlife protection, extending the effective conservation area beyond the national reserve boundaries.
 
 ## Conservation Area Expansion

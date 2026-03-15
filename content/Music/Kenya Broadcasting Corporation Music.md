@@ -1,5 +1,3 @@
-# Kenya Broadcasting Corporation Music
-
 The Kenya Broadcasting Corporation's role in music fundamentally changed after 1990 rebranding from [[Music/Voice of Kenya and Music Policy|Voice of Kenya]], as it transitioned from unchallenged monopolist to one competitor among many in liberalized media environment. While KBC retained significant influence through the 1990s and 2000s, its dominance eroded as [[Music/FM Radio Revolution Kenya 1990s|private FM stations]] captured audiences and advertising revenue.
 
 The 1990 rebranding from Voice of Kenya to Kenya Broadcasting Corporation signaled attempt at modernization and partial independence from direct government control. An Act of Parliament (CAP 221) formally established KBC with mandate for independent and impartial broadcasting. However, reality fell short of rhetoric. KBC remained essentially state-controlled, with government appointing management and influencing programming decisions.

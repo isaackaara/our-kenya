@@ -1,5 +1,3 @@
-# Wajir Education
-
 Educational access and quality in Wajir County remain severely constrained by limited infrastructure, teacher shortages, insecurity, and low household incomes that prevent many families from affording school fees. The county has achieved progress in educational enrollment in recent years, particularly following the implementation of free primary education policies. However, completion rates remain low, and the quality of education delivered remains inadequate compared to national standards.
 
 ## School Infrastructure

@@ -1,5 +1,3 @@
-# Ruto Government Procurement: Early Corruption Concerns (2022-2025)
-
 ## The Transition Period
 
 When William Ruto took office in September 2022, he promised institutional reform and anti-corruption action. Early in his term, attention to procurement irregularities and corruption concerns began to emerge.

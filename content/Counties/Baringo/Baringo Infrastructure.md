@@ -1,5 +1,3 @@
-# Baringo Infrastructure
-
 Baringo County's infrastructure encompasses roads, water supply systems, electricity networks, and telecommunications services, with development concentrated on main transportation corridors and urban centers while pastoral areas remain underserved.
 
 ## Road Network

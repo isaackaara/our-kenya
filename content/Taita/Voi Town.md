@@ -1,5 +1,3 @@
-# Voi Town
-
 Voi is the largest urban center in Taita-Taveta County, located on the Mombasa-Nairobi highway and along the standard gauge railway line. The town serves as the primary commercial, transport, and administrative hub for the region.
 
 ## Location and Accessibility

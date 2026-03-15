@@ -1,5 +1,3 @@
-# Luhya in Uganda
-
 The Luhya people are not confined to Kenya's borders. Several Luhya sub-groups have significant populations across the Uganda border, particularly in the districts of Bugisu and Busia. This cross-border presence reflects historical migration patterns, shared cultural spheres, and the arbitrary nature of colonial boundaries that split communities in half.
 
 ## The Border and Community Division

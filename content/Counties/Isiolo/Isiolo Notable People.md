@@ -1,5 +1,3 @@
-# Isiolo Notable People
-
 Several prominent Kenyans trace their origins or have strong connections to Isiolo County, representing diverse fields including politics, conservation, literature, and business.
 
 Joy Adamson, author of "Born Free" and conservationist, worked extensively in Isiolo County at Shaba National Reserve where she was murdered in 1980. Her work raised international awareness about wildlife conservation and Kenya's natural heritage.

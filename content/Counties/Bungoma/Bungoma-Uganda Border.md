@@ -1,5 +1,3 @@
-# Bungoma-Uganda Border
-
 The Kenya-Uganda border traverses Bungoma County, creating unique border dynamics involving cross-border trade, migration, and regional cooperation. The Malaba border crossing represents the major road border point facilitating trade between Kenya and Uganda. Border communities engage in cross-border commerce, social relations, and family connections transcending formal international boundaries. Border security and customs administration affect commercial flows.
 
 ## Border Geography

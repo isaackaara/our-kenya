@@ -1,5 +1,3 @@
-# Thika Town
-
 Thika is an industrial town northeast of Nairobi, the second-largest urban center in [[../Kiambu/Kiambu County|Kiambu County]] after the Nairobi suburbs. The town was made famous internationally by Elspeth Huxley's novel "The Flame Trees of Thika" (1944), which depicted settler colonial life in the area. Thika developed as a center of industrial and agricultural activity, with textile mills and the Del Monte pineapple factory becoming major employers.
 
 The Del Monte Kenya operation, established in the 1960s, is one of East Africa's largest agro-industrial facilities. The plantation and canning factory employ thousands of workers directly and support thousands more in supply and distribution. Del Monte produces canned pineapple for export markets, particularly the United States and European countries. The operation generates significant foreign exchange for Kenya and has shaped Thika's economy and social life.

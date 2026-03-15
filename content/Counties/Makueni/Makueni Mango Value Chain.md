@@ -1,5 +1,3 @@
-# Makueni Mango Value Chain
-
 Makueni County has developed mango production and processing as a development priority, establishing a county-level mango processing plant as a flagship economic development project. The mango value chain exemplifies agricultural commercialization and value addition strategies in semi-arid contexts.
 
 Mango cultivation in Makueni occurs on diverse landholdings, from smallholder farmers producing mangoes as part of diversified agriculture to larger commercial orchards. Smallholder farmers often interplant mangoes with annual crops, using mangoes as long-term wealth accumulation. Commercial producers operate specialized orchards with attention to variety selection, tree management, and production optimization.

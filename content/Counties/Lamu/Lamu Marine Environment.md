@@ -1,5 +1,3 @@
-# Lamu Marine Environment
-
 The Lamu Archipelago is surrounded by one of the Indian Ocean's richest marine ecosystems, supporting exceptional biodiversity including coral reefs, seagrass beds, mangrove forests, and diverse fish, crustacean, and marine mammal populations. This marine environment is economically, ecologically, and culturally significant, but faces increasing pressures from overfishing, pollution, and climate change.
 
 Coral reefs are a defining feature of the Lamu marine environment. Fringing reefs (growing from the shore) and patch reefs (isolated coral formations) are distributed throughout the archipelago. These reefs are built by coral polyps and support extraordinary species diversity. Fish, mollusks, crustaceans, sea urchins, and countless other organisms depend on reef habitat. Coral reefs also protect the islands from wave energy and provide shelter for boats.

@@ -1,5 +1,3 @@
-# Zein Musical Party
-
 Zein Musical Party, founded in Mombasa in the 1930s, became the most celebrated Kenyan [[Music/East African Indian Ocean Taarab History|taarab]] ensemble of the colonial period and a pioneering force in establishing women as public performers of sophisticated coastal music. Led by Zein l'Abdin and featuring prominent women performers, the group demonstrated that women could master taarab's artistic complexities while navigating the social restrictions of a conservative Muslim society.
 
 Zein l'Abdin Mohamed, the group's founder and director, was a master oud player trained in the [[Music/Arab Musical Influence on the Kenya Coast|Arab classical tradition]]. He recognized that women's voices brought emotional qualities particularly suited to taarab's poetic content. In the early 1930s, he began recruiting and training women singers, a decision that was artistically visionary but socially controversial.

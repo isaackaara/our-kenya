@@ -1,5 +1,3 @@
-# Asians in Colonial Kenya
-
 Colonial Kenya operated under a rigid racial hierarchy: Europeans at the top, Asians in the middle, and Africans at the bottom. This structure was encoded in law, custom, and spatial segregation. Asians occupied an ambiguous position, economically important yet politically subordinated and socially despised.
 
 ## The Three-Tier Racial System

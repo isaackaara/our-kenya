@@ -1,5 +1,3 @@
-# Embu and National Politics
-
 Embu communities participate in Kenya's national political system through parliamentary elections, presidential voting, and national political [[GEMA Alliance]] formation. Embu voting patterns and political leadership have shaped national politics, particularly within GEMA frameworks and Mount Kenya regional politics.
 
 ## Electoral Participation

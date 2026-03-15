@@ -1,5 +1,3 @@
-# Luhya Timeline
-
 A chronological reference of major events in Luhya history from pre-colonial origins to 2026.
 
 ## Pre-Colonial Period (c. 1500-1800 CE)

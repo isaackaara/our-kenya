@@ -1,5 +1,3 @@
-# Kisii Soapstone Industry: Economic Analysis
-
 The Kisii soapstone (known locally as takatafu or kisii stone) industry is one of the region's most visible economic activities. The soft, easily carved stone has become a major export commodity and source of income for thousands of artisans, exporters, and middlemen. The industry exemplifies both the potential for artisanal export production in rural Kenya and the challenges of fair pricing, labor conditions, and supply chain control.
 
 ## Overview and Scale

@@ -1,5 +1,3 @@
-# Marsabit Town
-
 Marsabit town is the county headquarters, situated on the forested slopes of Mount Marsabit. The town occupies a unique position as a highland settlement rising above the surrounding Chalbi Desert, creating distinctive climatic and ecological conditions.
 
 The town serves as the administrative centre for Marsabit County government. Government offices, courts, and official buildings cluster in the town centre. The presence of county government institutions provides employment and services to surrounding communities.

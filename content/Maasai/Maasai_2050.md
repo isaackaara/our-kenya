@@ -1,5 +1,3 @@
-# Maasai 2050
-
 ## Future Trajectories
 
 The Maasai community faces multiple possible futures by 2050, each shaped by different combinations of factors: climate change impacts, land availability, education and employment opportunities, cultural change, government policy, and global economic conditions. These are not predetermined; they represent plausible scenarios depending on choices made in coming years by Maasai communities, government, and other actors.

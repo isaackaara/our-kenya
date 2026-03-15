@@ -1,5 +1,3 @@
-# Kakamega Town
-
 Kakamega Town is the largest urban centre in western Kenya and serves as the county headquarters. The town functions as a major commercial and administrative hub for the region, with a population estimated at over 100,000. It has experienced significant growth since devolution in 2013, becoming the focal point for trade, services, and government operations in Kakamega County and surrounding areas.
 
 ## Urban Development

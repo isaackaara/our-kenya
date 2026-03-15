@@ -1,5 +1,3 @@
-# Voice of Kenya Music Programming
-
 Voice of Kenya (VoK), the state broadcaster that dominated Kenya's airwaves from independence through the 1980s, wielded enormous power over which music Kenyans heard and how musical careers developed. The station's programming decisions shaped national taste, determined commercial success, and influenced the evolution of musical genres. VoK's music programming reflected government priorities, ethnic politics, commercial pressures, and the personal preferences of influential programmers, creating a complex system that both enabled and constrained musical creativity.
 
 VoK inherited infrastructure and practices from the colonial-era Kenya Broadcasting Service, which had served settler audiences while providing limited African programming. After independence in 1963, the renamed Voice of Kenya became a vehicle for [[Music and Nation Building Kenya 1963-1978|nation-building]], broadcasting in multiple languages and promoting African music. The early independence years saw dramatic expansion of music programming, with increased airtime for vernacular music and deliberate efforts to showcase Kenyan musical talent.

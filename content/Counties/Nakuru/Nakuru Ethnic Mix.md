@@ -1,5 +1,3 @@
-# Nakuru Ethnic Mix
-
 Nakuru County has Kenya's most ethnically diverse population, a direct result of the White Highlands settler colonial era and post-independence land redistribution policies. The county is home to [[../../Kikuyu/Kikuyu|Kikuyu]] (who migrated from central highlands after independence), [[../../Kalenjin/Kalenjin|Kalenjin]] (the original Rift Valley inhabitants), [[../../Luo/Luo|Luo]], [[../../Luhya/Luhya|Luhya]], [[../../Kamba/Kamba|Kamba]], [[../../Maasai/Maasai|Maasai]], and numerous other communities.
 
 The Kikuyu represent the largest immigrant community, moving into the Rift Valley after European farms were subdivided and redistributed following independence. The Kalenjin, comprising Tugen, Nandi, and Kipsigis subgroups, have historical claim as original inhabitants. This mixture created unprecedented economic opportunity but also recurring ethnic competition and violence.

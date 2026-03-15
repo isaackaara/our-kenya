@@ -1,5 +1,3 @@
-# Nyandarua Horticulture
-
 Horticultural production of vegetables and cut flowers provides income diversification for Nyandarua farmers. The favorable climate and water availability support year-round vegetable cultivation. Cut flowers for export markets command premium prices. Horticulture requires intensive labor but provides higher returns per unit area than field crops. Market access and price volatility create challenges for producers.
 
 ## Vegetable Production

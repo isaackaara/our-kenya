@@ -1,5 +1,3 @@
-# Mau Mau Uprising
-
 The Mau Mau Uprising (1952-1960), officially declared a State of Emergency by the British colonial government on 20 October 1952, was an armed conflict between the [[Kenya Land and Freedom Army]] (KLFA) and British colonial forces in Kenya. It was the most significant anti-colonial armed struggle in Kenyan history, and one of the most brutally suppressed. At its heart was a Kikuyu demand for the return of land stolen under the [[White Highlands]] policy, grounded in the same [[Githaka]] land philosophy that Kikuyu society had organised around for centuries.
 
 ## Key Facts

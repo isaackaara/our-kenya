@@ -1,5 +1,3 @@
-# Luo in the Professions
-
 The Luo community has produced a disproportionately large cohort of professionals and intellectuals in Kenya's modern professions, despite significant political marginalization. This paradox (professional excellence alongside political exclusion) shapes Luo identity and reflects historical patterns of investment in education.
 
 ## Education and Mission Schools

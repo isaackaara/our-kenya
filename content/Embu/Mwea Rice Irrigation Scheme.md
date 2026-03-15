@@ -1,5 +1,3 @@
-# Mwea Rice Irrigation Scheme
-
 The Mwea rice irrigation scheme, located in the Embu-Kirinyaga border region in the Tana River lowlands, represents one of Kenya's most significant rice-producing areas. Established as a planned settlement and irrigation project during the colonial period, Mwea has become a model (though imperfect) of irrigation development and smallholder productivity in Kenya.
 
 ## Historical Development

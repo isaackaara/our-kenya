@@ -1,5 +1,3 @@
-# Wangari Maathai Nyeri
-
 Wangari Maathai, the renowned environmental activist and Nobel Peace Prize winner, was born in Nyeri County in Ihithe village, Tetu constituency. Maathai's environmental work began in Kenya and extended to international advocacy. She founded the Green Belt Movement, a grassroots organization promoting environmental conservation and women's empowerment through tree planting. Her work transformed understanding of the relationship between environmental protection and human rights.
 
 ## Early Life

@@ -1,5 +1,3 @@
-# Kenya 1964 Tokyo Olympics: First Olympic Medal
-
 Kenya won its first Olympic medal at the 1964 Tokyo Olympics: Wilson Kiprugut won bronze in the 800 meters. This breakthrough medal established Kenya as capable of producing medal-worthy athletes and preceded Kenya's subsequent Olympic dominance. Kiprugut's bronze medal represented the beginning of Kenya's modern Olympic distance running era.
 
 ## See Also

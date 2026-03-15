@@ -1,5 +1,3 @@
-# Kakamega Politics
-
 Kakamega County's political landscape reflects broader western Kenya dynamics shaped by ethnic identity, regional competition, and national political alignments. Political contests at county, constituency, and ward levels mobilize significant participation. County governance since 2013 has involved competition among county governors and political factions representing different interests within the [[../../Luhya/Luhya|Luhya]] majority community.
 
 ## County Governance

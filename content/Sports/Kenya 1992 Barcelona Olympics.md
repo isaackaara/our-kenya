@@ -1,5 +1,3 @@
-# Kenya 1992 Barcelona Olympics: Eight Medals
-
 Kenya's 1992 Barcelona Olympics appearance saw Kenya win eight medals, including three golds, demonstrating sustained Olympic excellence. This medal count confirmed Kenya's established position as an Olympic distance running power and showed depth across multiple events.
 
 ## See Also

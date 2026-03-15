@@ -1,5 +1,3 @@
-# Women in Kenyan Business
-
 Women represent a growing but still underrepresented share of Kenya's business owners and corporate leadership. Female [[entrepreneurs Kenya|entrepreneurs]] face barriers to [[capital access Kenya|capital access]], [[business networks Kenya|business networks]], and [[gender discrimination Kenya|gender discrimination]], though progress is being made through [[women-focused initiatives Kenya|women-focused initiatives]].
 
 ## Overview

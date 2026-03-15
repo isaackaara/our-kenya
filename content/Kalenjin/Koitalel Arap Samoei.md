@@ -1,5 +1,3 @@
-# [[Koitalel Arap Samoei|Koitalel]] Arap Samoei
-
 Koitalel Arap Samoei (1849-1905) was the Orkoiyot (spiritual and political leader) of [[Kalenjin|Kalenjin]], a Kalenjin sub-group, and led one of Kenya's most prolonged anti-colonial resistance movements (approximately 1890s-1905). He unified Nandi communities against British colonialism, orchestrated resistance to the Uganda Railway construction, and coordinated military campaigns that imposed significant costs on the colonial project. His assassination by Colonel Richard Meinertzhagen in October 1905 during a peace meeting held under a supposed flag of truce remains a defining moment of colonial betrayal in Kenyan history.
 
 ## Key Facts

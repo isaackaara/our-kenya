@@ -1,5 +1,3 @@
-# Embu and the Tharaka
-
 The Tharaka are a smaller Bantu-speaking group inhabiting drier lowland areas within and adjacent to Embu territory. With a population under 100,000, the Tharaka maintain distinct identity while sharing cultural and linguistic affinity with the Embu. Historical relationships have included cooperation, intermarriage, and resource competition.
 
 ## Territory and [[Embu Climate and Environment]]

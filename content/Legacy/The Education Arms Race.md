@@ -1,5 +1,3 @@
-# The Education Arms Race
-
 In postcolonial Kenya, education became a primary vehicle for mobility. Education was the path to good jobs, to status, to escape from poverty. This created intense competition for access to good schools.
 
 Kenya developed a tiered system of schools. National schools (formerly colonial elite schools) were most prestigious. Provincial schools were next. District schools were less prestigious. Primary schools varied in quality. Private schools emerged as an alternative for those who could afford them.

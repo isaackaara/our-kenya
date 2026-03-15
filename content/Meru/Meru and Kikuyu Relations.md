@@ -1,5 +1,3 @@
-# Meru and Kikuyu Relations
-
 The [[Meru]], [[Kikuyu]], and [[Embu]] are collectively called the "[[Mount Kenya]] peoples" or historically referred to in various configurations (GEM = Gikuyu-Embu-Meru, GEMA = specific coalitions). These Mount Kenya communities share close linguistic and cultural relationships, have histories of trade and intermarriage, and have politically aligned at times despite differences.
 
 ## Linguistic and Cultural Proximity

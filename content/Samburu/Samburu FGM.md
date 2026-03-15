@@ -1,5 +1,3 @@
-# Samburu FGM
-
 Female genital mutilation (FGM) is practiced among some [[Samburu]] communities, typically occurring in adolescence before [[Samburu Marriage|marriage]]. FGM relates to female initiation, marriageability, and cultural identity. NGO campaigns and government policy prohibit FGM. Health risks, human rights concerns, and community resistance complicate policy implementation.
 
 ## Practice and Prevalence

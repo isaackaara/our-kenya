@@ -1,5 +1,3 @@
-# Vihiga Politics
-
 Vihiga County's political landscape reflects local interests shaped by ethnic Maragoli identity, out-migration patterns, and national political alignments. Political competition at county and constituency levels involves multiple candidates and factions. County governance since 2013 has involved elected governors navigating development priorities and governance challenges. Limited resources constrain development agenda.
 
 ## County Governance

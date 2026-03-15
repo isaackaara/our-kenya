@@ -1,5 +1,3 @@
-# Baringo Politics
-
 Baringo County's political landscape reflects the county's historical association with Daniel arap Moi, Tugen community political dominance, and ongoing electoral competition reflecting both inter-Tugen divisions and inter-ethnic dynamics within the county.
 
 ## Daniel Arap Moi's Legacy

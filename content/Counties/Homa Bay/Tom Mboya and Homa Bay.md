@@ -1,5 +1,3 @@
-# Tom Mboya and Homa Bay
-
 Thomas Joseph Mboya (1930-1969) was born on Rusinga Island in Homa Bay County and remains one of Kenya's most prominent and influential independence-era political leaders. His life and legacy are integrally connected to Homa Bay County and the Luo community.
 
 ## Early Life and Background

@@ -1,5 +1,3 @@
-# 1979 Election Women
-
 Women remained excluded from standing for Parliament in the 1979 election, continuing the pattern from the 1974 election. The Parliament elected in 1979 was entirely male. However, women participated actively in electoral politics as voters, campaigners, and community organizers.
 
 Women's voter participation in the 1979 election was significant. Women voted in their constituencies, and in many rural areas, women's voter turnout was high. Women evaluated candidates based on their records and promises regarding issues affecting women and families.

@@ -1,5 +1,3 @@
-# Europeans who Stayed
-
 While the majority of European settlers left Kenya after independence (1963), a minority remained and negotiated a place in independent Kenya. Those who stayed had varied motivations: economic investment in established farms, professional opportunities, intermarriage with Africans, conservation work, or simple attachment to Kenya as home. Their experience of being white in independent Kenya has been mixed, involving both privilege and marginalization.
 
 ## The Exodus and the Remaining

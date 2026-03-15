@@ -1,5 +1,3 @@
-# Kamba Judges and Legal Figures
-
 The Kamba have produced notable figures in Kenya's judiciary and legal profession, though documentation of specific named individuals and their achievements remains incomplete. The legal profession has served as pathway for educated Kamba to achieve prominence and influence in post-colonial Kenya.
 
 ## Representation in the Judiciary

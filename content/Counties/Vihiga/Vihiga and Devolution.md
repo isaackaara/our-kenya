@@ -1,5 +1,3 @@
-# Vihiga and Devolution
-
 Devolution of government functions to county level beginning in 2013 fundamentally restructured governance in Vihiga County. The constitutional framework established Vihiga County as a semi-autonomous administrative unit with elected county government responsible for service delivery and development planning. Devolution created opportunities for localized development prioritization while presenting governance challenges. Limited county fiscal resources have severely constrained development capacity.
 
 ## County Government Structure

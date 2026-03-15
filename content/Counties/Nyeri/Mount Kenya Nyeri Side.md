@@ -1,5 +1,3 @@
-# [[../../Conservation/Mount Kenya National Park|Mount Kenya]] Nyeri Side
-
 [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern and southwestern slopes, which border Nyeri County, provide access to the mountain's attractions including trekking routes, forest zones, and glaciated peaks. The Nyeri side offers distinct trekking experiences compared to the more heavily trafficked routes on other sides. The altitude, climate, and forest ecology of the Nyeri side create distinctive mountain experiences.
 
 ## Trekking Routes

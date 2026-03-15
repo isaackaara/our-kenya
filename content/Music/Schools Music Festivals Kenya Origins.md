@@ -1,5 +1,3 @@
-# Schools Music Festivals Kenya Origins
-
 The Kenya Music and Drama Festival, established in the 1920s, became one of the most important institutions shaping Kenya's musical culture. For generations, the annual competitions determined musical standards, discovered talent, disseminated repertoire, and created a national network of music education that transcended ethnic and regional boundaries.
 
 The festival's origins trace to colonial education policy and missionary musical ambitions. British educators in Kenya, drawing on the competitive music festival tradition common in Britain, established school music competitions as part of broader efforts to "civilize" African students through Western cultural practices. The earliest festivals, held in the 1920s, featured primarily [[Music/European Missionary Music in Kenya|European hymns and classical pieces]].

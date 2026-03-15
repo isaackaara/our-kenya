@@ -1,5 +1,3 @@
-# Nyandarua Education
-
 The education system in Nyandarua County follows Kenya's national structure with free primary education and fee-paying secondary education. Primary enrollment has increased substantially through free education policy. Secondary education serves fewer students with significant quality variation among schools. Technical and vocational training provides skills alternatives. University-age students typically attend institutions in major cities. Education quality remains a major development priority.
 
 ## Primary Education

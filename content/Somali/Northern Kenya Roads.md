@@ -1,5 +1,3 @@
-# Northern Kenya Roads
-
 Road infrastructure in northeastern Kenya stands as a critical constraint on economic development, human mobility, and state integration. The absence of reliable, well-maintained roads in [[Kenyan Somali Identity|Somali]]-inhabited regions of the [[Northern Frontier District]] has perpetuated isolation, limited market access, and contributed to intergenerational poverty.
 
 ## Major Routes and Their Condition

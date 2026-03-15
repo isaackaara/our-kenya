@@ -1,5 +1,3 @@
-# Mijikenda Artisans
-
 The [[Mijikenda Overview|Mijikenda peoples]] are known for distinctive craft traditions including the [[Vigango|vigango (memorial posts)]], weaving, pottery, and other crafts that reflect centuries of artistic development and cultural expression. These crafts have economic significance today while also facing pressures from modernization, market forces, and cultural change.
 
 ## Vigango Carved Posts

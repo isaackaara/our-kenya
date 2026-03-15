@@ -1,5 +1,3 @@
-# Mandera Health
-
 Health outcomes in Mandera County rank among Kenya's worst, with high maternal mortality rates, high child mortality rates, low health facility coverage, severe health worker shortages, and limited access to quality healthcare in one of the country's most resource-constrained and geographically remote regions. The county inherited colonial-era neglect of health infrastructure and continues to struggle with providing even basic health services to a dispersed pastoral population.
 
 ## Health Service Infrastructure

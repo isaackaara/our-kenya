@@ -1,5 +1,3 @@
-# Karen Blixen and the Colonial Myth
-
 Baroness Karen Christentze von Blixen-Finecke (pen name Isak Dinesen) owned a 4,000-acre coffee farm on the slopes of the Ngong Hills, southwest of Nairobi, from 1914 to 1931. The farm failed financially, and she left Kenya in 1931. But before leaving, she decided to write about her experience. "Out of Africa," published in 1937, won the Nobel Prize in Literature and became the most influential literary work about colonial Kenya. It created a myth of colonial Kenya that persists to this day.
 
 ## The Farm and Financial Failure

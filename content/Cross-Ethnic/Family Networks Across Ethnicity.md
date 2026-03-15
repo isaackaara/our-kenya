@@ -1,5 +1,3 @@
-# Family Networks Across Ethnicity
-
 Extended family networks in [[Cross-Ethnic Kenya|Kenya]] increasingly cross ethnic boundaries through intermarriage and migration. Contemporary Kenyans frequently have family members from different ethnic groups. Family gatherings, ceremonies, and daily life involve interaction with people of different ethnic backgrounds. The reality of extended families spanning multiple ethnic groups creates lived experience of ethnicity as permeable and family identity as [[Children of Mixed Marriages|multi-ethnic]].
 
 Interethnic marriage creates families where nuclear family members come from different ethnic backgrounds. The children of these unions have relatives across ethnic lines. Family ceremonies including weddings, funerals, and naming ceremonies bring together relatives from multiple ethnic communities. The requirement of hosting and participating in cross-ethnic family events creates routine cross-ethnic interaction for many Kenyans.

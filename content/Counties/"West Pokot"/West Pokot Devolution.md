@@ -1,5 +1,3 @@
-# West Pokot Devolution
-
 Constitutional devolution in 2013 transferred significant governance authority from central government to West Pokot County Government. The county operates under a devolved system with elected governor (executive head) and county assembly (legislative body). The governor and deputy governor are elected every five years as county chief executives. The county assembly comprises ward representatives (currently 22) elected from geographical constituencies. County government manages agriculture, health, education, water, local infrastructure, and other devolved functions. County government coordination involves collaboration with national government agencies operating in the county. Inter-county cooperation occurs through regional forums addressing shared challenges including pastoralist conflicts.
 
 ## County Governance Operations

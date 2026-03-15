@@ -1,5 +1,3 @@
-# Luo and Sports
-
 While Luo political and cultural prominence is well documented, the Luo community's significant role in Kenyan sports has received less scholarly attention. Sports serve as a venue for Luo athletic achievement, community identity, and social organization.
 
 ## Gor Mahia Football Club

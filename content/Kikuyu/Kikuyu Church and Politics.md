@@ -1,5 +1,3 @@
-# Kikuyu Church and Politics
-
 The entanglement of church and politics in Kikuyu central Kenya is profound, with religious institutions, particularly the Presbyterian Church of East Africa (PCEA) and evangelical churches, serving as platforms for political mobilization. Pastors endorse candidates from pulpits, churches host political rallies, and religious legitimacy is deployed to support political projects.
 
 ## Church as Community Institution

@@ -1,5 +1,3 @@
-# Murang'a Politics
-
 Political dynamics in Murang'a County reflect broader patterns in Kenyan politics while exhibiting county-specific features rooted in local history, ethnic composition, and power structures. Since independence, Murang'a politics has operated within Kenya's multi-level governance system, with county-level elected representatives competing for power and influence while ultimately operating within frameworks set by national government and constrained by national-level political dynamics.
 
 Electoral politics at the parliamentary level have historically dominated Murang'a's political participation, with constituency-level parliamentary races attracting intense competition. Multiple constituencies divide the county, with electoral contests focusing on candidates' perceived ability to secure development resources and represent local interests in parliament. Traditionally, parliamentary representatives enjoyed significant patronage power over constituency development, though devolution in 2013 has shifted some resources to county level.

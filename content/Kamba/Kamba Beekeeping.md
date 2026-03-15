@@ -1,5 +1,3 @@
-# Kamba Beekeeping
-
 Beekeeping has been deeply embedded in Kamba culture and economy for centuries, with evidence suggesting that the Kamba were trading honey and beeswax to coastal merchants long before European colonialism. Beekeeping remains an important livelihood strategy for contemporary Kamba farmers.
 
 ## Traditional Hive Construction

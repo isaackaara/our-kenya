@@ -1,5 +1,3 @@
-# Embu Music and Dance
-
 Embu traditional music and dance [[Embu Oral Traditions]] encompass genres performed during ceremonies, celebrations, courtship, and entertainment. These practices have evolved significantly through cultural [[Embu Generational Change]], yet maintain elements of traditional form, instrument use, and social significance.
 
 ## Traditional Music Forms

@@ -1,5 +1,3 @@
-# Lamu Women
-
 Women in Lamu County navigate complex social roles shaped by Islamic tradition, customary law, poverty, and gradual modernization. While women's status has improved in some areas (education access, paid employment), they continue to face constraints in property rights, family law, political participation, and decision-making authority.
 
 Islamic law and tradition significantly influence gender roles in Lamu, which is the most deeply Muslim county in Kenya. Qur'anic teachings and Islamic jurisprudence are interpreted to establish gender expectations: women's primary role is family and household, men are seen as economic providers and household heads. These teachings are more strictly interpreted in some families and communities than others, creating variation in women's autonomy.

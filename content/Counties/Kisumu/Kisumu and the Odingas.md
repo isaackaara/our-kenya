@@ -1,5 +1,3 @@
-# The Odinga Family: Kisumu's Political Dynasty
-
 The Odinga family has dominated Kisumu and Nyanza Region politics since independence, creating a political dynasty unmatched in Kenyan politics. The family's relationship to Kisumu is one of the most distinctive in African politics.
 
 ## Oginga Odinga: Independence Era Leader

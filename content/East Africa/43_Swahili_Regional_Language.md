@@ -1,5 +1,3 @@
-# Swahili as Regional Language
-
 Kiswahili (Swahili) has become the East African Community's official language and is increasingly used as a lingua franca across the broader region. Its emergence from the coast as a trade language to its current status as a major African language represents a unique linguistic history.
 
 ## The Origins of Swahili

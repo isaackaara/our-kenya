@@ -1,5 +1,3 @@
-# Bungoma Timeline
-
 This timeline documents key dates and events in Bungoma County history from pre-colonial times through 2026, marking transitions, significant developments, and events shaping the county's trajectory.
 
 ## Pre-Colonial Era (Before 1900)

@@ -1,5 +1,3 @@
-# Trans-Nzoia Wheat
-
 Wheat farming is a major agricultural enterprise in Trans-Nzoia County, functioning as both a food crop and valuable cash commodity. The cool highland climate and sufficient rainfall support high-quality wheat production. Trans-Nzoia is among Kenya's leading wheat-producing regions, with output supplying flour mills and bakeries across the country. Farmers grow improved wheat varieties selected for yield and disease resistance. The crop fits well into crop rotation systems with maize and other cereals.
 
 ## Production and Markets

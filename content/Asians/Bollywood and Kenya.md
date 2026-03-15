@@ -1,5 +1,3 @@
-# Bollywood and Kenya
-
 Bollywood films (Indian cinema produced in Mumbai) have been watched in Kenya since the 1950s. The films have shaped both Kenyan Asian and general Kenyan popular culture. Bollywood entertainment remains central to Asian cultural identity and has increasingly influenced mainstream Kenyan culture.
 
 ## The Star Cinema and Asian Cinemas

@@ -1,5 +1,3 @@
-# Marsabit Infrastructure
-
 Infrastructure development in Marsabit County reflects its vast area, sparse population, and remote location. The A2 highway represents the primary road connection, linking Marsabit to Isiolo and continuing toward Ethiopia. Road quality varies seasonally, with wet season rains sometimes rendering sections impassable.
 
 Water infrastructure remains critical for pastoral and human populations. Government boreholes, community wells, and private water systems provide access to groundwater. Water reliability varies with seasonal rainfall and long-term water table changes. Mount Marsabit's natural springs and crater lakes provide supplementary water sources.

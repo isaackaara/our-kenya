@@ -1,5 +1,3 @@
-# Samburu Land History
-
 [[Samburu]] ancestral territory has been substantially reduced through colonial-era land alienation and post-colonial land sales. Historical land claims to areas now in Laikipia (white-owned ranches) remain contested. Contemporary [[Samburu]] land access insecurity creates livelihood vulnerability and ongoing tension with neighbors and government.
 
 ## Pre-Colonial Territory

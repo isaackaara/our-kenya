@@ -1,5 +1,3 @@
-# 1983 Election Kalenjin Ascendancy
-
 Kalenjin politicians, Moi's ethnic group, gained significant representation in the 1983 parliament. The Kalenjin rise reflected Moi's use of state patronage to favor his ethnic community. Kalenjin MPs increased in number and gained ministerial positions and other government roles. This shift marked the beginning of Kalenjin political dominance that would characterize Moi's rule. The elevation of Kalenjin politicians at the expense of Kikuyu dominance represented a fundamental restructuring of Kenya's ethnic political balance.
 
 ## See Also

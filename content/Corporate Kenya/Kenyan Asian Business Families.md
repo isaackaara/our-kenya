@@ -1,5 +1,3 @@
-# Kenyan Asian Business Families
-
 Kenya's [[Asian]] (primarily [[Indian]]) [[business families]] are among the country's most successful and influential [[entrepreneurs]]. The [[Chandarias]], [[Voras]], [[Patels]], and others transitioned from [[colonial-era trading]] roles to industrial and commercial dominance in [[post-independence Kenya]].
 
 ## Colonial Origins

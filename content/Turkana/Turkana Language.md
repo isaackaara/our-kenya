@@ -1,5 +1,3 @@
-# Turkana Language
-
 The Turkana [[Turkana Language]] (Turkana or Ateker) is a Nilotic language belonging to the Ateker cluster within the broader Nilotic language family. It is spoken as a native language by the Turkana people and is closely related to the languages of neighboring Nilotic pastoralist peoples.
 
 ## Language Classification and Linguistic Relations

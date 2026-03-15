@@ -1,5 +1,3 @@
-# Embu and Christianity
-
 Christian missionary activity in Embu territory began in the late 19th century, with various denominations establishing churches and schools. Christianity gradually transformed Embu religious practice and social organization, becoming the dominant [[Embu Traditional Religion]] by the mid-20th century, though this transition occurred unevenly and persisting traditional beliefs interact with Christian practice.
 
 ## Early Mission Activity

@@ -1,5 +1,3 @@
-# Abdilatif Abdalla
-
 Abdilatif Abdalla (born 1946) is a Kenyan [[Swahili]] poet and political activist who was imprisoned by President Kenyatta's government for writing a political pamphlet (1969-1972). In exile he wrote "Sauti ya Dhiki" (Voice of Agony), one of the greatest collections of modern [[Swahili Poetry]]. Abdalla represents contemporary [[Swahili Language|Swahili]] literary achievement and political commitment to [[Islam on the Swahili Coast|Islamic and social justice]].
 
 ## Political Activism

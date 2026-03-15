@@ -1,5 +1,3 @@
-# Samburu National Reserve
-
 The [[Samburu National Reserve]] covers approximately 165 square kilometers protecting semi-arid wildlife and pastoral habitat. Established during colonial period, the reserve protects endangered species including Grevy's zebra, reticulated giraffe, and gerenuk. [[Samburu and Tourism|Tourism]] provides reserve revenue and employment, though [[Samburu]] community benefit remains contested and limited.
 
 ## Reserve Establishment and Management

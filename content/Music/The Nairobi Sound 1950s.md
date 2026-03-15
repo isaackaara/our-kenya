@@ -1,5 +1,3 @@
-# The Nairobi Sound 1950s
-
 In the late 1950s and early 1960s, a distinctive urban music emerged in Nairobi that synthesized influences from [[Music/Congolese Rumba Arrives in Kenya|Congolese rumba]], [[Music/Jazz and Western Pop Influence 1950s Kenya|American jazz]], [[Music/European Missionary Music in Kenya|mission church harmonies]], and various Kenyan traditional musics. This hybrid sound, never formally named but retrospectively called "The Nairobi Sound," represented Kenya's first mature urban popular music style.
 
 The Nairobi Sound was fundamentally guitar-driven. Acoustic guitars, and increasingly electric guitars as they became available, provided the melodic and rhythmic foundation. The guitar playing borrowed from Congolese rumba's intricate, interwoven melodic lines while incorporating rhythmic patterns from Kikuyu, Luo, and Kamba traditional music. The result was technically sophisticated and distinctly East African.

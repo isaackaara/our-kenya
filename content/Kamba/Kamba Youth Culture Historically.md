@@ -1,5 +1,3 @@
-# Kamba Youth Culture Historically
-
 The Kamba traditionally organized young men into age groups called *anake*, which performed essential military, economic, and social functions. The *anake* system created a structured pathway from boyhood through elderhood and served as a primary mechanism for transmitting cultural knowledge and maintaining social cohesion.
 
 ## The Anake Age Group

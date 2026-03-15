@@ -1,5 +1,3 @@
-# Ethics and Anti-Corruption Commission: Toothless Oversight
-
 ## Institutional Evolution
 
 Kenya has had multiple anti-corruption institutions with different names and mandates:

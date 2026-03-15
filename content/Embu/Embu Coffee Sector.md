@@ -1,5 +1,3 @@
-# Embu Coffee Sector
-
 Coffee farming on Embu's suitable slopes has historically provided significant cash income, though recent decades have brought challenges from low global prices, aging farmer populations, and crop diseases. Coffee quality remains recognized, though production has declined compared to peak periods.
 
 ## Coffee Growing Zones

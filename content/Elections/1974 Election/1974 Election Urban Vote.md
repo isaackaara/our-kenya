@@ -1,5 +1,3 @@
-# 1974 Election Urban Vote
-
 Nairobi and other urban areas in Kenya presented different electoral dynamics from rural constituencies in 1974. Urban voters were more educated, more exposed to media and political information, and less subject to chiefly or administrative influence than rural voters. Urban constituencies were also more economically diverse, with professional classes, traders, workers, and unemployed populations living alongside each other.
 
 Nairobi was Kenya's capital and largest city, home to government offices, businesses, universities, and the headquarters of major organizations. Nairobi's voters included government employees, businessmen, professionals, workers, and migrants from throughout Kenya seeking economic opportunity. Nairobi's electoral strength meant that candidates who could win Nairobi constituencies had significant parliamentary weight.

@@ -1,5 +1,3 @@
-# [[../Counties/Laikipia/Laikipia County|Laikipia County]] and the Maasai: From Pasture to Conservancy
-
 ## The Laikipia Plateau: Ancestral Dry-Season Grazing
 
 The Laikipia Plateau, located in central Kenya, was prime dry-season grazing land for the Maasai. During drought, when lowland pastures dried up, Maasai herds moved to Laikipia's higher elevation where rainfall and water were more reliable.

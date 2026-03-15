@@ -1,5 +1,3 @@
-# Eastleigh Security Crackdowns: Collective Punishment and Counter-Terrorism
-
 Post-2013, the Kenyan government conducted security operations in [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]] and other [[Somali]]-concentrated areas targeting terrorism suspects and undocumented migrants. The most notorious was Operation Usalama Watch (2014), which involved mass arrests, detention without due process, and abuse. These operations reproduced collective punishment logic from earlier eras, treating entire [[Kenyan Somali|Somali communities]] as security threats.
 
 ## The Westgate Mall Attack Context (2013)

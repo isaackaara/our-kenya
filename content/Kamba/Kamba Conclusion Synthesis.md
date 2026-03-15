@@ -1,5 +1,3 @@
-# Kamba Conclusion: Synthesis and Reflection (2026)
-
 This synthesis note draws together the Kamba vertical at 100 notes, examining major themes and trajectories as the Kamba enter 2026.
 
 ## Major Themes Across the Vertical

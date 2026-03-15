@@ -1,5 +1,3 @@
-# Siaya Colonial History
-
 The Siaya area, then part of Nyanza Province, was incorporated into the British colonial administrative system during the late 19th and early 20th centuries. Colonial administration transformed pre-existing social structures, imposed new legal and fiscal systems, and introduced economic changes that reshaped Siaya's society.
 
 ## Early Colonial Period

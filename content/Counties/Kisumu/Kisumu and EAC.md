@@ -1,5 +1,3 @@
-# Kisumu and the East African Community: Regional Trade Connections
-
 Kisumu benefits from East African Community (EAC) regional integration, which reduces trade barriers and increases commerce between Kenya, Uganda, Tanzania, Rwanda, Burundi, and other member states. [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] provides transport connections that benefit Kisumu's regional role.
 
 ## EAC Regional Integration

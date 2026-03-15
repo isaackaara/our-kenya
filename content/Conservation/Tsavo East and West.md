@@ -1,5 +1,3 @@
-# Tsavo East and West
-
 [[Tsavo East and West]] National Parks, together covering approximately 21,000 square kilometers, constitute Kenya's largest [[national park]] complex and one of Africa's largest protected areas. The parks are known for their large [[elephant]] populations and iconic red elephants, whose coloring results from rolling in red laterite soil. Tsavo contains diverse ecosystems and [[wildlife]], though the complex has experienced significant conservation challenges.
 
 ## Geography and Ecosystem Diversity

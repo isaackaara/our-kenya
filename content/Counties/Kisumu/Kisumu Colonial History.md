@@ -1,5 +1,3 @@
-# Kisumu Under Colonial Rule: Administration and Economic Exploitation
-
 Kisumu developed under British colonial administration as a strategic trading center and administrative hub for western Kenya. Colonial policies shaped the region's economy and social structure.
 
 ## Colonial Administration

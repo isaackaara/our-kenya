@@ -1,5 +1,3 @@
-# Kajiado Women
-
 Kajiado women, predominantly from [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] community, have maintained distinctive economic and social roles centered on household management, livestock care, and increasingly contemporary income-generating activities, while navigating cultural constraints and expanding opportunities.
 
 ## Traditional Economic Roles

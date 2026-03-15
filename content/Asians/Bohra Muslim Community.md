@@ -1,5 +1,3 @@
-# Bohra Muslim Community
-
 The Bohra Muslims (primarily Dawoodi Bohras) are a Shia Muslim community from Gujarat, India. In Kenya, they number perhaps 3,000 to 5,000. Bohras are known for business acumen, tight community organization, and remarkable endogamy (marriage within the community).
 
 ## Origins and Identity

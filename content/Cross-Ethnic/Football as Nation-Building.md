@@ -1,5 +1,3 @@
-# Football as Nation-Building
-
 The Kenyan national football team (Harambee Stars) theoretically represents all Kenyans regardless of ethnicity. In practice, the selection process is politically charged. However, the national team creates moments of genuine [[Cross-Ethnic Kenya|cross-ethnic unity]], particularly during World Cup qualification campaigns (Kenya has never qualified but has come close) and African Cup of Nations (AFCON) appearances. The contrast with Kenya's athletics dominance reveals something fundamental about Kenya's development: the country dominates marathon running but struggles at football, revealing the urban-rural divide and infrastructure gaps.
 
 ## Key Facts

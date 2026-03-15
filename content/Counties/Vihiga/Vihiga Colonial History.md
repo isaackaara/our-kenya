@@ -1,5 +1,3 @@
-# Vihiga Colonial History
-
 Vihiga, historically known as South Nyanza in the colonial administrative system, came under British colonial authority in the early twentieth century. Colonial administration established political control, imposed taxation, promoted commercial agriculture, and influenced social institutions. Colonial policies profoundly shaped contemporary Vihiga's characteristics including educational emphasis and out-migration patterns.
 
 ## Colonial Administration

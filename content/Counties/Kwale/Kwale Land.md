@@ -1,5 +1,3 @@
-# Kwale Land
-
 Land tenure and ownership patterns in Kwale reflect centuries of dispossession through colonialism and postcolonial development, creating persistent grievances and ongoing land conflicts. The shift from communal land use systems to individual private property ownership fundamentally altered land relationships and created conditions for wealth concentration and marginalization of poorer families.
 
 Historically, Kwale communities practiced communal land tenure where families held use rights to land through their clan or lineage group. Land was not owned in absolute terms but rather used for farming, grazing, and gathering. Women typically accessed land through male relatives (fathers, husbands, or brothers), creating gendered access to resources. This system allowed land use flexibility and community-level regulation of access.

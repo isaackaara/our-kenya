@@ -1,5 +1,3 @@
-# Kamba Women's Roles and Rights (Historical and Contemporary)
-
 Kamba women have historically held defined roles within society, with significant variation between leadership possibilities and structural constraints. This note examines women's traditional roles, colonial and post-colonial changes, and contemporary gender dynamics in Kamba society.
 
 ## Traditional Kamba Women's Roles

@@ -1,5 +1,3 @@
-# Mijikenda Fishermen
-
 The [[Mijikenda Overview|Mijikenda]] living in coastal and creek areas engage in fishing as a primary economic activity and as an important part of cultural identity and food security. Traditional Mijikenda fishing methods, knowledge of local fish species and seasonal patterns, and participation in fishing communities have deep historical roots and remain significant despite contemporary pressures.
 
 ## Traditional Fishing Methods

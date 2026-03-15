@@ -1,5 +1,3 @@
-# West Pokot Real Estate
-
 Real estate markets in West Pokot County are developing, with property transactions increasing in Kapenguria and trading centers. Pastoral communal ranches represent substantial land area under group management. Individual agricultural landholdings exist primarily in highland zones. Kapenguria urban property includes residential buildings, commercial structures, and government facilities. Land values in Kapenguria have appreciated substantially relative to pastoral areas. Property speculation and investment by external parties have increased. Pastoral land privatization is occurring gradually, creating individual plots from group ranches. Title registration for pastoral land remains incomplete, limiting formal land transactions.
 
 ## Property Markets and Transactions

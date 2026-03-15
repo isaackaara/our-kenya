@@ -1,5 +1,3 @@
-# Ethnic Business Networks
-
 Ethnic business networks structure significant dimensions of [[Economic Interdependence Kenya|Kenya's economy]]. Kikuyu business chamas (rotating savings associations), Luo professional networks, Somali commercial networks, and other ethnic commercial organizations operate as ethnic economic institutions. These networks demonstrate how business organization and economic opportunity can operate along ethnic lines, creating parallel economic structures organized around [[Cross-Ethnic Kenya|ethnic identity]].
 
 Kikuyu chamas represent savings and investment associations organized around ethnic identity. These associations pool savings from members and distribute accumulated funds to members in rotation. The associations operate based on trust relationships typically organized around ethnic solidarity. Participation in chamas provides access to capital for business purposes. The practice of rotating savings associations (chamas) exists across ethnic groups but has been particularly prominent among Kikuyu communities.

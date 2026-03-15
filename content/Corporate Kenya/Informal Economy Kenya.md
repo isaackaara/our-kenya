@@ -1,5 +1,3 @@
-# Informal Economy Kenya
-
 [[Kenya]]'s [[informal economy]] encompasses unregistered trading, micro-enterprises, and self-employment that operate outside formal regulation. The sector employs millions and generates significant economic activity, yet remains largely unmeasured and untaxed.
 
 ## See Also

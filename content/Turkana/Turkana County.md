@@ -1,5 +1,3 @@
-# Turkana County
-
 Turkana County is the largest county in Kenya by land area, covering approximately 77,000 square kilometers in the country's northwestern region. It borders Uganda, South Sudan, Ethiopia, and the county of Samburu, and includes the eastern shores of [[Lake Turkana]], the world's largest desert lake. The county represents one of Kenya's most arid and challenging environments.
 
 ## Geography and Terrain

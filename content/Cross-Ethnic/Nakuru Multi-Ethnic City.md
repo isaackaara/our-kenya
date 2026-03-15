@@ -1,5 +1,3 @@
-# Nakuru Multi-Ethnic City
-
 Nakuru is a major city in [[Kenya]]'s Rift Valley region, located between the Kikuyu-majority central highlands and the Kalenjin-majority Rift Valley. The city developed as a colonial trading and administrative center and has become a significant regional hub. Nakuru's location at the intersection of multiple ethnic territories has made it a [[Cross-Ethnic Kenya|natural meeting point]] for diverse communities.
 
 The city's population includes substantial numbers of Kikuyu migrants from the adjacent central highlands, Kalenjin people from the surrounding Rift Valley region, Luhya and Luo migrants from western Kenya, and smaller communities of other groups. The city's commercial orientation attracted traders and workers from across Kenya. Unlike ethnically homogeneous rural areas, Nakuru developed as a multi-ethnic urban center where people of diverse backgrounds worked, traded, and lived together.

@@ -1,5 +1,3 @@
-# Vihiga Tea
-
 Tea is a major cash crop in Vihiga County, providing important income for many farming families on intensively cultivated smallholdings. Tea cultivation on minimal plots requires careful management and good agronomic practices. Tea cooperatives organize leaf collection and marketing through formal tea auction systems. Tea production contributes significantly to Vihiga's agricultural income.
 
 ## Geographic Distribution

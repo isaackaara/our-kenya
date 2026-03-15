@@ -1,5 +1,3 @@
-# Kisii Diaspora
-
 Significant numbers of [[Kisii County.md|Kisii]] people reside outside their home county, particularly in Nairobi and other Kenyan cities, as well as internationally. The diaspora maintains connections to home while building lives and careers in other locations.
 
 ## Migration to Nairobi

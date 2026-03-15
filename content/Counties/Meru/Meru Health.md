@@ -1,5 +1,3 @@
-# Meru Health
-
 Healthcare in Meru County is provided through a network of facilities ranging from large referral hospitals to small community health dispensaries. The Meru Teaching and Referral Hospital serves as the county's flagship healthcare facility and primary referral center. Healthcare access remains unequal, with better services in urban centers and limited services in remote areas.
 
 ## Meru Teaching and Referral Hospital

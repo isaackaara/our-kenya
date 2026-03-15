@@ -1,5 +1,3 @@
-# Sagala Hills
-
 The Sagala range is a distinct geographic and demographic sub-group of the Taita Hills located to the north of the Dabida central cluster. Sagala has its own population center, ecological characteristics, and somewhat distinct community identity while remaining part of the broader Taita people.
 
 ## Geography

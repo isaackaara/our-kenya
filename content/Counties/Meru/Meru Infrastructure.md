@@ -1,5 +1,3 @@
-# Meru Infrastructure
-
 Infrastructure development in Meru County has improved in recent decades, though gaps remain in road quality, water supply, and energy access. The county's road network connects towns and trading centers, facilitating agricultural marketing and commerce. Investment in infrastructure has accelerated since devolution in 2013, with county governments prioritizing development projects.
 
 ## Road Network

@@ -1,5 +1,3 @@
-# Tourism Economic and Social Impacts
-
 Coastal tourism has become economically significant for Kenya, bringing foreign exchange, employment, and investment. [[Mijikenda]] and other coastal communities have experienced both benefits and negative impacts from tourism development. Understanding tourism's complex impacts illuminates opportunities and challenges.
 
 ## Tourism Growth on the Coast

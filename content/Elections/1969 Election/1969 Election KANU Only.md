@@ -1,5 +1,3 @@
-# 1969 Election KANU Only
-
 The 1969 election was the first Kenyan election in which a single party, the [[Kenya African National Union]] (KANU), contested all seats and won all contested races. This represented the culmination of Kenya's rapid transition from a contested multi-party system in 1963 to a single-party state in 1969. The transformation was neither accidental nor inevitable; it reflected deliberate decisions by [[Jomo Kenyatta]] and KANU's conservative leadership to eliminate opposition and to consolidate authoritarian control.
 
 Kenya's drift toward single-party rule had been foreshadowed in 1963 and 1964 by the dissolution of KADU and the defection of its members to KANU. However, the existence of the [[Kenya People's Union]] (KPU) under [[Oginga Odinga]]'s leadership from 1966 to 1969 had at least provided the institutional possibility of electoral competition. The government's ban on the KPU in October 1969, just weeks before the election, transformed Kenya into a de facto single-party state and made the 1969 election a competition within a single party rather than a contest between parties.

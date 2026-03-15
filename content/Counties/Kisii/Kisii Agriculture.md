@@ -1,5 +1,3 @@
-# Kisii Agriculture
-
 Agriculture is the foundation of [[Kisii County.md|Kisii County's]] economy, with a diverse range of crops and livestock systems adapted to the highland climate and soil conditions. The agricultural sector employs the majority of the county's population and generates most farm household income.
 
 ## Primary Crops

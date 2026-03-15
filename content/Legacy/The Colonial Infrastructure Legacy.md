@@ -1,5 +1,3 @@
-# The Colonial Infrastructure Legacy
-
 The Uganda Railway, completed in 1901, was Kenya's first major infrastructure project. It connected Mombasa to Uganda and was built with forced labor and at enormous human cost. The railway was not designed to develop Kenya for Kenyans; it was designed to extract wealth from Uganda and connect it to the Indian Ocean.
 
 The same logic applies to the road system, the ports, the administrative buildings. The British built infrastructure where it served extraction: roads from the White Highlands to Mombasa, harbors for exporting agricultural products, administrative centers to enforce control. They did not build where it would serve Kenyans' own development needs.

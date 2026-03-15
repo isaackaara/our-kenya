@@ -1,5 +1,3 @@
-# Kikuyu Resistance Pre-Mau Mau
-
 Before the armed uprising known as [[Mau Mau Uprising|Mau Mau]] (1952-1960), the [[Kikuyu]] engaged in sustained political resistance against British colonialism through the [[Kikuyu Central Association]] (KCA), independent schools, and organized protest campaigns. This 30-year period of political organizing and contestation built infrastructure and consciousness that would fuel the Emergency period uprising.
 
 ## Young Kikuyu Association and Early Protest

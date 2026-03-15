@@ -1,5 +1,3 @@
-# Luo Music Industry
-
 The Luo music industry extends far beyond the traditional instruments of nyatiti and ohangla to encompass [[[[Benga Music Origins.md|benga music]] Origins.md|Benga Music Origins]] (the most commercially successful Luo/Kenyan popular music genre), contemporary artists working in multiple genres, and a vibrant ecosystem of musicians, bands, producers, and recordings. The Luo musical tradition has shaped popular music throughout East Africa and continues to evolve.
 
 ## Benga Music: Origins and Development

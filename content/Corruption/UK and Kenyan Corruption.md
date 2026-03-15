@@ -1,5 +1,3 @@
-# UK and Kenyan Corruption: London as a Haven for Stolen Wealth
-
 ## Historical Relationship
 
 Kenya was a British colony until 1963. The postcolonial relationship between Kenya and Britain remained close. Kenya retained English as an official language, adopted British legal traditions, and maintained trade and financial ties.

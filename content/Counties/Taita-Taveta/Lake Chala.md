@@ -1,5 +1,3 @@
-# Lake Chala
-
 Lake Chala is a freshwater crater lake located on the Kenya-Tanzania border, approximately 50 kilometres northeast of Taveta town in Taita-Taveta County. This distinctive body of water sits at an elevation of 680 metres above sea level and represents one of the most geologically significant features in the region. The lake occupies a volcanic crater and measures approximately 3.5 kilometres in diameter, with depths reaching up to 92 metres in the central basin.
 
 The formation of Lake Chala dates back to volcanic activity during the late Quaternary period. The crater was created by a phreatomagmatic eruption, a type of volcanic explosion that occurs when magma interacts violently with groundwater. This geological process produced the deep, steep-sided crater that now holds the lake. The water is exceptionally clear, which has made it notable for both scientific research and as a natural resource. The lake's only significant outlet is subsurface seepage through porous volcanic rock, which maintains a relatively stable water level despite considerable evaporation in this semi-arid region.

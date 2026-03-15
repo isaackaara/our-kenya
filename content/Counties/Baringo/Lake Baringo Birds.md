@@ -1,5 +1,3 @@
-# Lake Baringo Birds
-
 Lake Baringo's avian diversity is extraordinary, with over 500 bird species recorded around the lake, representing one of Kenya's and East Africa's premier ornithological destinations. This remarkable bird concentration makes Lake Baringo a primary destination for serious birdwatchers and ornithological researchers.
 
 The lake's freshwater status and diverse habitat types support the exceptional bird species richness.

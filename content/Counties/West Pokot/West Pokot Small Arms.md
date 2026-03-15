@@ -1,5 +1,3 @@
-# West Pokot Small Arms
-
 Small arms proliferation in [[West Pokot County]] represents a critical security and development challenge that has fundamentally transformed conflict patterns, cattle rustling dynamics, and overall security environment in the county. The availability of automatic rifles and other small firearms originating primarily from Uganda and South Sudan has enabled large-scale armed conflict with casualty rates substantially higher than traditional pastoral raiding. Small arms proliferation is driven by regional conflicts in Uganda, South Sudan, and Somalia that generate weapons outflows, by weak border security allowing weapons trafficking, and by demand from pastoral communities seeking armed capacity. Understanding small arms proliferation is essential to understanding [[West Pokot Conflict]] dynamics and security challenges in the county.
 
 ## Sources and Supply Pathways

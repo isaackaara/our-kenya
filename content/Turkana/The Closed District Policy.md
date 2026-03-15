@@ -1,5 +1,3 @@
-# The Closed District Policy
-
 Following the 1918 punitive expedition, British [[Colonial Contact]] authorities designated Turkana District as a "closed district," a policy that fundamentally shaped the region's development (or lack thereof) for nearly a century. This policy of deliberate underdevelopment, isolation, and neglect created structural marginalization that persisted long after independence.
 
 ## Definition and Rationale

@@ -1,5 +1,3 @@
-# The Kenyan Constitution 2010
-
 The [[Kenyan Constitution]] adopted in December 2010 represents an attempt to transcend the [[ethnic bargaining]] that characterized previous constitutional arrangements. The 2010 constitution emerged from demands for constitutional reform following the [[2007-2008 post-election violence]], which revealed the dangers of unaccountable executive power and ethnic competition for control of the state.
 
 The 2010 constitution's preamble explicitly references diversity as a foundational feature of Kenya, acknowledging Kenya's multi-ethnic character. The constitution protects individual rights and specifically protects minority rights, creating constitutional frameworks for protecting communities against majoritarianism and state discrimination. The Bill of Rights applies to all Kenyans regardless of ethnicity.

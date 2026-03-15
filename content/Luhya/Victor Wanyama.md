@@ -1,5 +1,3 @@
-# Victor Wanyama
-
 Victor Wanyama is Kenya's most famous and accomplished footballer, known for his career as a central defensive midfielder across European professional football. Born in 1991 to a Kenyan football family with Luhya heritage, Wanyama rose from Nairobi academy football to become a consistent performer at elite European clubs.
 
 ## Early Life and Family Background

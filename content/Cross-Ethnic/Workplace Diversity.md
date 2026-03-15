@@ -1,5 +1,3 @@
-# Workplace Diversity
-
 Modern [[workplaces]] in [[Kenya]], particularly in [[formal sector]] organizations, function as [[cross-ethnic spaces]] where people of diverse backgrounds work together. [[Multinational corporations]], NGOs, government agencies, and large Kenyan firms employ workers from all ethnic groups. [[Workplace diversity policies]], professional norms emphasizing merit, and [[economic interdependence]] create conditions facilitating [[cross-ethnic cooperation]] and relationship development.
 
 Formal sector employment operates according to principles theoretically transcending ethnicity. Job qualifications, educational credentials, and work performance serve as selection criteria ostensibly neutral to ethnicity. Recruitment practices, while sometimes manifesting ethnic bias, are formally organized around ostensibly universal criteria. This formal organization creates frameworks for cross-ethnic hiring and employment.

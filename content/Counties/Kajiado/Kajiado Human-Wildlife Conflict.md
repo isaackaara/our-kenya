@@ -1,5 +1,3 @@
-# Kajiado Human-Wildlife Conflict
-
 Kajiado County experiences significant human-wildlife conflict involving lions, elephants, and other predators preying on livestock and occasionally attacking humans, creating tensions between wildlife conservation interests and pastoral community livelihoods and safety concerns.
 
 ## Livestock Predation

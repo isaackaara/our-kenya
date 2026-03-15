@@ -1,5 +1,3 @@
-# World Bank IMF Kenya Corruption
-
 ## Overview
 
 The World Bank and International Monetary Fund (IMF) have been engaged with Kenya for decades, providing loans and technical assistance conditional on economic and governance reforms. Both institutions have identified corruption as a development constraint but their leverage over Kenya has been limited by Kenya's strategic importance and domestic political resistance to reform.

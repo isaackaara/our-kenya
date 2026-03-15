@@ -1,5 +1,3 @@
-# Kakamega Music
-
 Traditional Kakamega music reflects [[../../Luhya/Luhya|Luhya]] cultural heritage, featuring distinctive instrumental traditions and vocal styles. The litungu (an eight-string lyre) represents an iconic traditional instrument central to Luhya musical identity. Music accompanies ceremonies, celebrations, and daily activities, maintaining cultural continuity across generations. Contemporary music styles blend traditional elements with modern influences.
 
 ## The Litungu

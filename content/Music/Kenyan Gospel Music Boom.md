@@ -1,5 +1,3 @@
-# Kenyan Gospel Music Boom
-
 The extraordinary explosion of Christian music in Kenya from the 1980s onward transformed the nation's musical landscape and created one of Africa's most vibrant gospel industries. What began as modest church choirs evolved into a commercial powerhouse that would eventually dominate Kenyan music when other genres faltered.
 
 Three factors converged to create this boom. First, the [[Music/Praise and Worship Movement Kenya|charismatic Christianity movement]] surged across Kenya in the 1970s and 1980s, bringing new worship styles that emphasized contemporary music over traditional hymns. Second, [[Music/Piracy and the Kenyan Music Industry|cassette piracy]] devastated secular music economically, but gospel music proved more resistant because churches provided built-in distribution networks and moral arguments against pirating Christian content. Third, [[Music/Moi Era Music and Censorship|government censorship]] made political or socially critical music dangerous, pushing talented musicians toward the safety of gospel.

@@ -1,5 +1,3 @@
-# The Third Culture Kenyan
-
 Some Kenyans grow up partially or entirely outside [[Kenya]], in [[diaspora contexts]], [[international schools]], or expatriate communities. These Kenyans, sometimes called "third culture kids" (TCKs), develop hybrid identities that fit no single ethnic category and often feel partially alienated from Kenya even as they claim Kenyan nationality. These individuals represent a growing phenomenon in globalized Kenya.
 
 The diaspora context produces distinctive identity formations. Kenyans living in the United States, United Kingdom, Canada, or other destination countries often maintain connections to Kenya while developing new identity dimensions through their residence abroad. Their children, born or raised abroad, grow up with Kenyan heritage but socialized into the culture of their country of residence. The resulting identity is neither fully Kenyan nor fully of the destination country but a hybrid formation.

@@ -1,5 +1,3 @@
-# Kamba Clan System
-
 The Kamba organize themselves into patrilineal clans (called *mbai* in singular, *mikai* in plural) that form the fundamental social structure of the society. Clan membership determines identity, establishes kinship obligations, regulates marriage, and influences access to land and dispute resolution.
 
 ## Major Clans

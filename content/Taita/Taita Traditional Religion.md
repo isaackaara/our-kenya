@@ -1,5 +1,3 @@
-# Taita Traditional Religion
-
 Taita traditional religion centers on belief in a high god, veneration of ancestors, and ritual specialists who mediate with the spirit world. The most distinctive feature is the vigango tradition, in which ancestors are honored through preserved skull relics.
 
 ## High God and Cosmology

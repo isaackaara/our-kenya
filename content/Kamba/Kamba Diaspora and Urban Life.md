@@ -1,5 +1,3 @@
-# Kamba Diaspora and Urban Life
-
 The Kamba diaspora extends far beyond Ukambani into Nairobi, military barracks, national parks, and tourist industries across Kenya. Urban Kamba maintain cultural identity while adapting to city life through distinctive occupations, neighborhoods, and community networks that preserve Kamba traditions in modern settings.
 
 ## Key Facts

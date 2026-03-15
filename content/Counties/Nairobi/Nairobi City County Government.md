@@ -1,5 +1,3 @@
-# Nairobi City County Government: Administration and Governance
-
 Nairobi is Kenya's capital city and the headquarters of the Nairobi City County, one of Kenya's 47 counties under the 2010 devolved governance system. The county government is responsible for local administration, service delivery, and urban planning.
 
 ## Governance Structure

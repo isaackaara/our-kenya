@@ -1,5 +1,3 @@
-# Colonial Music Censorship Kenya
-
 Colonial authorities in Kenya maintained a complex system of musical surveillance and censorship from the early 20th century through independence in 1963. What the government banned, monitored, and suppressed in Kenyan music reveals as much about colonial anxieties as about the music itself.
 
 The legal framework for censorship was established through various regulations, including the Seditious Offences Ordinance and local administrative rules that gave district commissioners broad powers to ban performances, confiscate instruments, and arrest musicians deemed threatening to public order. The definitions of "seditious" or "offensive" music were deliberately vague, allowing authorities wide discretion.

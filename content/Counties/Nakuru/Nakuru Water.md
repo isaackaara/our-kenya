@@ -1,5 +1,3 @@
-# Nakuru Water Supply and Crisis
-
 Water supply for Nakuru city is drawn primarily from [[../../Conservation/Lake Nakuru|Lake Nakuru]] basin and supplemented from other sources including boreholes and pipelines from surrounding areas. The city's water demand has grown dramatically with urbanization and population growth, while supply has not kept pace, creating a chronic water crisis.
 
 Nakuru's water infrastructure suffers from aging pipes with high leakage, inadequate treatment facilities, and unreliable power supply for pumping stations. The Nakuru Water and Sewerage Company struggles to generate revenue sufficient for maintenance and expansion, as many customers cannot afford to pay or have informal connections. Water rationing is common, with some areas receiving water only one or two days per week.

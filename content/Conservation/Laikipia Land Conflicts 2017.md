@@ -1,5 +1,3 @@
-# Laikipia Land Conflicts 2017
-
 In 2017, [[Laikipia Plateau]] experienced significant land-based violence when pastoralist communities, primarily Samburu and Pokot herders, invaded multiple private conservancies and ranches in protest over land access restrictions and economic marginalization. The invasions resulted in substantial wildlife and livestock deaths and demonstrated the fragility of [[Laikipia Conservancy Network|conservation models]] that exclude communities from land access and benefits.
 
 ## Background and Context

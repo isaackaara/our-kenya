@@ -1,5 +1,3 @@
-# Vihiga Quaker Heritage
-
 The Friends Africa Mission (Quaker) established one of Kenya's earliest Christian missions among the Maragoli in western Kenya, beginning operations in the early twentieth century. The mission founded schools, churches, and community institutions introducing Christianity and Western education. Quaker values of simplicity, community service, and peaceful engagement shaped relationships with local communities. Quaker heritage remains deeply embedded in Maragoli cultural identity.
 
 ## Mission Establishment

@@ -1,5 +1,3 @@
-# Meru Land Issues
-
 Land tenure in Meru County's high-potential agricultural areas has become increasingly complex, with fragmentation of holdings, disputes over rights, and challenges in accommodating new generations of users. Colonial policies introduced individual land title systems that overlaid earlier communal systems. Contemporary land issues reflect tensions between individual property rights, customary claims, and demographic pressures.
 
 ## Colonial Land Tenure Changes

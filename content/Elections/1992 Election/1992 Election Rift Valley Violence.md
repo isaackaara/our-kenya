@@ -1,5 +1,3 @@
-# 1992 Election Rift Valley Violence
-
 Ethnic violence in the Rift Valley killed thousands of people in the months preceding the 1992 election, creating an atmosphere of fear and communal grievance that shaped voter behavior and demonstrated the destabilizing effects of Kenya's return to multiparty competition. The violence appeared to be orchestrated or at least facilitated by government security forces, designed to intimidate opposition strongholds in the Rift Valley and to demonstrate the dangers of ethnic conflict that the government claimed opposition would bring.
 
 The violence targeted communities perceived as supporting opposition parties, particularly in areas where FORD-Kenya or FORD-Asili were organizing campaigns. Kikuyu and Luo communities in the Rift Valley were attacked by Kalenjin raiders, allegedly armed and coordinated by government security forces. Tens of thousands of people were displaced from their homes, and hundreds of thousand became refugees.

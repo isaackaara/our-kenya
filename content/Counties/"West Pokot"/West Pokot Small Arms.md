@@ -1,5 +1,3 @@
-# West Pokot Small Arms
-
 The proliferation of small arms in West Pokot County has significantly escalated pastoral conflict violence and insecurity. Firearms are widely distributed across pastoral communities, held for livestock protection and conflict. Access to weaponry transformed traditional cattle raiding from primarily livestock theft to lethal conflict. Armed groups use rifles, pistols, and occasional heavier weapons in pastoral raiding. Disarmament programs have attempted to reduce small arms availability, with limited success. Clandestine weapon caches and hidden arsenals persist despite collection efforts. Border regions (particularly Uganda border) provide firearm supply sources through smuggling. Pastoral youth particularly engage with small arms, complicating conflict resolution. Weak law enforcement reduces ability to control illegal weapons. Weapons trafficking networks operate across regional borders.
 
 ## Conflict Escalation and Violence Impact

@@ -1,5 +1,3 @@
-# Luo Prophets and Seers
-
 The *ajuoga* (diviners and healers) tradition is ancient in Luo culture. These specialists possessed supernatural knowledge, could communicate with the spirit world, and shaped major community decisions about war, migration, and alliance.
 
 ## The Diviner-Healer

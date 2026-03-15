@@ -1,5 +1,3 @@
-# Tharaka Climate
-
 The semi-arid climate of Tharaka territory is characterized by low and variable [[Tharaka Irrigation]], high temperatures, and periods of [[Tharaka and Drought]]. The climate shapes livelihood strategies and creates ongoing vulnerability to food insecurity.
 
 ## Rainfall Patterns

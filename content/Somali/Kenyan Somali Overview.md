@@ -1,5 +1,3 @@
-# Kenyan Somali Overview
-
 The Kenyan Somali are Kenya's largest pastoralist community and a trans-national people with deep cultural, linguistic, and religious ties to [[Somalia]], Ethiopia's Somali Region, and Djibouti. They represent one of East Africa's most cohesive ethnic groups, united by language, faith, and [[Somali Clan System Kenya|clan identity]] despite Kenya's colonial borders.
 
 ## Geography and Population

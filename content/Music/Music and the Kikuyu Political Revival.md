@@ -1,5 +1,3 @@
-# Music and the Kikuyu Political Revival
-
 [[Music/Mugithi Music Origins|Mugithi music]] and other Kikuyu cultural expressions became vehicles for ethnic political consciousness during the [[Presidencies/Daniel arap Moi Presidency|Moi era]] (1978-2002), when Kenya's largest ethnic group felt politically marginalized after Jomo Kenyatta's death. Music provided space for expressing Kikuyu identity, articulating community grievances, and maintaining ethnic solidarity when explicit political organization faced government suppression.
 
 Jomo Kenyatta's death in 1978 and succession by Kalenjin president Daniel arap Moi marked traumatic shift for Kikuyu political fortunes. After dominating post-independence politics, Kikuyu communities suddenly found themselves outside power centers. Moi's government systematically reduced Kikuyu influence in government, military, and state corporations, generating deep resentment that found expression through cultural rather than directly political channels.

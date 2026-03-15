@@ -1,5 +1,3 @@
-# Ivory Burns Kenya
-
 Kenya has conducted multiple symbolic ivory burns over three decades, burning confiscated ivory stockpiles to demonstrate commitment to wildlife protection and eliminate value from poached products. These dramatic events have become defining moments in Kenya's conservation identity and represent the intersection of environmental policy, political symbolism, and wildlife protection.
 
 ## The First Burn: July 1989

@@ -1,5 +1,3 @@
-# The Northern Frontier District Commission of Inquiry ([[The NFD Referendum 1963|1963]])
-
 Before Kenya's independence, the colonial administration faced a question about the future of the Northern Frontier District (NFD), a vast arid territory in northeastern Kenya inhabited almost entirely by Somali and other pastoralist communities. In 1963, Britain conducted a commission of inquiry to determine whether the NFD's population wished to remain part of Kenya or join the independent Somali Republic. The results were overwhelmingly in favor of joining [[Somalia State Collapse Effects on Kenya|Somalia]]. Britain ignored the findings and incorporated the NFD into Kenya anyway.
 
 ## Background: The NFD and Colonial Governance

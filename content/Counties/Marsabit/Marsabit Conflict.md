@@ -1,5 +1,3 @@
-# Marsabit Inter-Communal Conflict
-
 Marsabit County experiences periodic inter-communal conflicts reflecting competition over scarce water and pasture, political disputes, and tensions with historical roots. Conflicts range from localised disputes to broader clashes affecting multiple communities and sub-counties.
 
 Water scarcity, particularly during droughts, precipitates conflicts as communities and herds compete for access to boreholes, seasonal water sources, and [[../../Conservation/Lake Turkana|Lake Turkana]]. The Moyale conflict, historical tensions between Borana and Somali communities particularly in the Moyale border region, reflects this competition alongside political and cultural dimensions.

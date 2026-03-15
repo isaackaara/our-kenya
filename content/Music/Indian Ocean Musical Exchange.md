@@ -1,5 +1,3 @@
-# Indian Ocean Musical Exchange
-
 The Indian Ocean functioned for over a millennium as a vast musical commons, carrying melodies, instruments, rhythms, and performance styles between East Africa, the Arabian Peninsula, Persia, India, and Southeast Asia. The Kenya coast sat at the western edge of this network, absorbing and contributing to a musical culture that was profoundly cosmopolitan and creatively hybrid.
 
 Dhow trade, powered by monsoon winds, created the infrastructure for cultural exchange. Ships departing the Kenya coast during the northeast monsoon (November to March) carried not just ivory, mangrove poles, and slaves, but musicians, instruments, and songs. They returned during the southwest monsoon (April to October) laden with Persian carpets, Indian textiles, Omani dates, and new musical ideas. Sailors themselves were musical carriers, learning songs in port cities from Mozambique to Mumbai and singing them at their next destination.

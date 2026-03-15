@@ -1,5 +1,3 @@
-# Kitui Notable People
-
 Kitui County has produced numerous prominent Kenyans who have contributed to national politics, business, academia, and development. These individuals have shaped Kenya's development trajectory and represent the county's intellectual and leadership resources.
 
 Political leaders from Kitui have served in national government and county administration, influencing Kenya's political development. Kitui constituencies have elected members of parliament participating in national legislatures. Political leadership from Kitui has advocated for county development priorities.

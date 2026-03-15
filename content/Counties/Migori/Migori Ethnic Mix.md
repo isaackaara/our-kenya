@@ -1,5 +1,3 @@
-# Migori Ethnic Mix
-
 Migori County is ethnically diverse, with a mixed population including Luo (dominant, particularly South Nyanza Luo), Kuria, Suba, and other smaller communities. This ethnic diversity creates distinctive cultural and social dynamics.
 
 ## Luo Dominance and South Nyanza

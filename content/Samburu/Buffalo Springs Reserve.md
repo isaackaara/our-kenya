@@ -1,5 +1,3 @@
-# Buffalo Springs Reserve
-
 Buffalo Springs National Reserve covers approximately 200 square kilometers adjacent to [[Samburu National Reserve]], protecting semi-arid wildlife habitat and species. The reserve derives its name from a permanent water source (Buffalo Springs). Together with [[Samburu Reserve]], it provides important protected habitat for endangered species and semi-arid ecosystem conservation.
 
 ## Geography and Water Sources

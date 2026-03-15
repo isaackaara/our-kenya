@@ -1,5 +1,3 @@
-# Makueni Wildlife
-
 Makueni County borders the Tsavo ecosystem, placing it within an ecologically significant region supporting diverse wildlife populations. The county includes wildlife conservation areas and experiences human-wildlife interactions including conflict and coexistence. Wildlife conservation balances environmental protection with livelihood needs of local communities.
 
 Large mammals historically present in the Tsavo ecosystem and adjacent areas include elephants, buffalo, lions, and various antelope species. Habitat loss and human settlement have compressed wildlife into protected areas. Elephants occasionally move from protected areas into agricultural lands, destroying crops and threatening human life.

@@ -1,5 +1,3 @@
-# Kisa
-
 The Kisa are a smaller sub-group of the Luhya confederation, primarily located in [[../Counties/Kakamega/Kakamega County|Kakamega County]] in western Kenya. Despite their smaller population compared to larger Luhya groups like [[Luhya|Luhya]] or Maragoli, the Kisa maintain distinct cultural practices and a clear sense of sub-group identity.
 
 ## Location

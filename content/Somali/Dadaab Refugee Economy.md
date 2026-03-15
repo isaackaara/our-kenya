@@ -1,5 +1,3 @@
-# Dadaab Refugee Economy
-
 The [[Dadaab Refugee Complex|Dadaab refugee complex]] (comprising Hagadera, Dagahaley, and Ifo camps) has been operational since 1991 and hosts hundreds of thousands of refugees from [[Somalia]] and other countries. Despite its humanitarian purpose, Dadaab has developed its own internal economy comprising markets, informal businesses, and [[Hawala Money Transfer|trade networks]]. This camp economy is integrated with surrounding [[Kenyan Somali|Kenyan Somali communities]] in [[Garissa County]], creating complex economic and social relationships.
 
 ## The Camp Economy

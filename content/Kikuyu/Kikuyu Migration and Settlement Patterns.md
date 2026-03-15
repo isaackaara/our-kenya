@@ -1,5 +1,3 @@
-# Kikuyu Migration and Settlement Patterns
-
 The Kikuyu people's settlement of the Central Highlands and their patterns of migration, displacement, and resettlement form a crucial part of Kikuyu history and contemporary social structure.
 
 ## Pre-Colonial Settlement (c. 1500-1700 CE)

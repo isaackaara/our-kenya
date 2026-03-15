@@ -1,5 +1,3 @@
-# Kikuyu Livestock Tradition
-
 Before commercial agriculture, cattle and goats were central to [[Kikuyu]] wealth, social relationships, and spiritual life. Livestock functioned as prestige, insurance, bridewealth, sacrificial offerings, and means of exchange. The colonial and post-colonial transformation of land tenure disrupted pastoral production and altered the role of livestock in Kikuyu society.
 
 ## Cattle and Prestige

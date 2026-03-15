@@ -1,5 +1,3 @@
-# Land Tenure Post Independence
-
 The land question that drove Kikuyu politics from the colonial era into the twenty-first century was not resolved at independence. The *githaka* system, the family land tenure that the [[White Highlands]] land alienation had shattered (see [[Githaka]]), was not restored. Instead, what followed was a series of market-based transfers, elite accumulation, and resettlement schemes that delivered land to the politically connected and left many ordinary Kikuyu and Mau Mau veterans landless.
 
 ## Key Facts

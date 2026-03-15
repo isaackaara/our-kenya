@@ -1,5 +1,3 @@
-# 1983 Election Snap Context
-
 The decision to call a snap election in 1983 was made by Moi after the coup attempt and was calculated to serve specific political purposes. A snap election forced the dissolution of the parliament elected in 1979 and required all MPs to defend their seats in new primary contests. This gave Moi the opportunity to reshape Parliament according to his political preferences.
 
 The normal parliamentary term would have ended in 1984, roughly five years after the 1979 election. By calling elections in late 1983, Moi was exercising the constitutional right to dissolve Parliament early. The rationale given was that the government needed to demonstrate public support and to consolidate political unity after the coup attempt.

@@ -1,5 +1,3 @@
-# Bungoma Wheat
-
 Wheat farming in Bungoma County occurs in higher-altitude areas where elevation and temperature conditions suit wheat production. Wheat cultivation provides both household food security and cash income for farming families. Wheat farming has expanded as farmers recognize value in diversifying beyond traditional crops. Wheat production contributes to Kenya's wheat supply and import substitution.
 
 ## Geographic Distribution

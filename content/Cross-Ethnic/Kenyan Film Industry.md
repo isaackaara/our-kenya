@@ -1,5 +1,3 @@
-# Kenyan Film Industry
-
 The Kenyan film and television industry has been increasingly important in creating shared national narratives and [[Cross-Ethnic Kenya|cross-ethnic cultural consumption]]. Kenyan television stations including Citizen TV, NTV, KTN, and others broadcast programs to audiences across Kenya. Netflix and other streaming services have recently begun producing Kenyan content reaching global audiences. These media platforms require [[Nairobi Professional Class|production teams]] and audiences that cross ethnic boundaries.
 
 Kenyan television news operates as a multi-ethnic institution. Newscasters, journalists, and production teams include people from diverse ethnic backgrounds. News broadcasts reach audiences of all ethnicities. The news media's role in covering national events, including ethnic conflicts, shapes how different communities understand national events. The choice to broadcast in English and Swahili rather than ethnic languages positions national news as a cross-ethnic institution.

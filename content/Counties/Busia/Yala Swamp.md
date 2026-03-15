@@ -1,5 +1,3 @@
-# Yala Swamp
-
 The Yala Swamp is one of Kenya's largest wetlands, located primarily in Busia County. The swamp covers approximately 16,800 hectares (41,500 acres), making it a substantial ecological feature. The swamp is formed by the Yala River and seasonal flooding patterns. Water levels fluctuate seasonally, with high water in rainy seasons and lower levels in dry seasons. The swamp supports diverse vegetation adapted to wetland conditions. Fish populations in the swamp provide important livelihood for surrounding communities. Water from the swamp supports pastoral production in adjacent dry areas. The swamp is recognized as a Ramsar wetland site (internationally important) and provides multiple ecosystem services.
 
 ## Ecological Significance and Biodiversity

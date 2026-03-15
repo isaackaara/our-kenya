@@ -1,5 +1,3 @@
-# William Ruto: Corruption Allegations and Political Rise
-
 ## Pre-Presidential Allegations
 
 [[William Ruto]] became president of Kenya in 2022. Before his election, he had faced multiple corruption allegations and, significantly, [[International Criminal Court]] (ICC) charges.

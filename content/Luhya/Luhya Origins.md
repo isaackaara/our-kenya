@@ -1,5 +1,3 @@
-# Luhya Origins
-
 The Luhya are a Bantu-speaking people whose migration from the Congo basin into present-day western Kenya (approximately 15th-18th centuries) established them as one of Kenya's largest ethnic groups. Unlike the Nilotic Luo who migrated overland from the north, or [[../Kikuyu/Kikuyu|Kikuyu]] who settled the central highlands, the Luhya migrated in multiple waves into a densely forested, highland region. This geography shaped their settlement patterns, agricultural practices, and social organization, distinguishing them from neighboring groups.
 
 ## Key Facts

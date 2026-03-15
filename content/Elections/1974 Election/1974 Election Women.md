@@ -1,5 +1,3 @@
-# 1974 Election Women
-
 Women could not stand for parliamentary seats in the 1974 election, and the Parliament that resulted from the election contained no female MPs. This exclusion was the result of both custom and constitutional arrangements. However, women participated actively in the 1974 election as voters, campaigners, and organizers, and women's organizations played important political roles during the electoral campaign.
 
 The right to vote had been extended to women with Kenya's independence, and women participated in electoral politics from the first election in 1963. By 1974, women had participated in three national elections as voters. Women's voter turnout rates in rural areas were often high, and women were engaged political actors who paid attention to candidates' platforms and records.

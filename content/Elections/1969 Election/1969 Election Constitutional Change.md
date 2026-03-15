@@ -1,5 +1,3 @@
-# 1969 Election Constitutional Change
-
 The 1969 election reflected the constitutional evolution of Kenya from a multiparty parliamentary system established at independence toward a single-party presidential system. The constitutional framework within which the 1969 election took place embodied these evolutionary changes, particularly the consolidation of presidential power and the weakening of parliamentary oversight.
 
 The independence constitution of 1963 had established a Westminster parliamentary system with significant power in the hands of the Prime Minister (Kenyatta) but with some structural limitations on executive power. The constitution had provided for a bicameral legislature, regional governments with some powers, and a bill of rights. However, this original constitutional framework had been substantially amended during the 1963-1969 period, with each amendment serving to centralize power and to weaken structural constraints on executive authority.

@@ -1,5 +1,3 @@
-# Ruto Infrastructure Projects
-
 Infrastructure development has continued during [[William Ruto]]'s presidency, with emphasis somewhat different from previous administrations. Rather than the large-scale mega-projects emphasized under previous administrations, Ruto's approach has emphasized smaller-scale infrastructure benefiting local communities. The Standard Gauge Railway, a major Chinese-financed project begun under previous administrations, became operational during Ruto's presidency, though questions about sustainability and operating costs have persisted.
 
 Road rehabilitation and expansion have continued, with government resources directed to maintaining existing road networks and expanding into previously poorly connected areas. Water infrastructure development has continued, with efforts to improve urban water supply and expand rural water access. Power infrastructure has faced challenges, with electricity supply shortages occurring during periods of peak demand and low water levels affecting hydroelectric production.

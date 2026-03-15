@@ -1,5 +1,3 @@
-# 1979 Election
-
 The 1979 election was Kenya's fourth national election since independence and the first election held under President Daniel arap Moi, who assumed office following Jomo Kenyatta's death in August 1978. The election, held on November 8, 1979, took place in the context of Moi's declared "Nyayo" (footprints) philosophy, which promised a departure from some aspects of Kenyatta-era politics while maintaining political stability and KANU's monopoly on electoral competition.
 
 The 1979 election was significant because it marked the transition from Kenyatta's rule to Moi's leadership. It was an opportunity for Moi to demonstrate his political legitimacy and to establish his authority within KANU and the state. The election also provided an opportunity for Kenyatta-era politicians to either maintain their positions or to face political challenge in a new political order.

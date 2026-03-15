@@ -1,5 +1,3 @@
-# Turkana Politics
-
 Political systems in Turkana County operate through the devolved two-tier governance system established by Kenya's 2010 Constitution, with the county government as the primary local political institution and national government maintaining certain functions. County-level politics centers on the county governor, who is elected every five years and serves as chief executive of the county government, and the county assembly, comprising elected ward representatives. County-level electoral politics generate significant political activity, with candidates competing for gubernatorial and assembly positions.
 
 National-level politics in Turkana involves representation in the national parliament through constituencies covering the county. Parliamentary candidates compete for seats representing specific constituencies, with elected representatives responsible for legislative functions at the national level and constituency-level service provision. Turkana's parliamentary representation has generally been limited in national policy influence, reflecting the county's economic and political marginalization in national affairs.

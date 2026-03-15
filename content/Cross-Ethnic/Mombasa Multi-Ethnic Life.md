@@ -1,5 +1,3 @@
-# Mombasa Multi-Ethnic Life
-
 Mombasa, [[Kenya]]'s primary port city located on the Indian Ocean coast, represents one of East Africa's most historically [[Cross-Ethnic Kenya|cosmopolitan]] cities. For over a thousand years, Mombasa has been a meeting point for diverse peoples, religions, and cultures. [[Mombasa Multi-Ethnic Life|Swahili traders]], [[Islam in Kenya|Arab merchants]], Indian businesspeople, European colonizers, and migrants from Kenya's interior have all shaped Mombasa's character.
 
 The Old Town of Mombasa represents the city's historical layers. Narrow streets, coral stone buildings with intricate carvings, and mosques testify to centuries of Swahili and Arab settlement. The architecture preserves evidence of Hindu, Christian, and Muslim places of worship coexisting in proximity. The Old Town is not merely a historical artifact but a living neighborhood where multiple communities continue to interact.

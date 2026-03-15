@@ -1,5 +1,3 @@
-# Conseslus Kipruto
-
 Conseslus Kipruto is a Kipsigis Kalenjin distance runner specializing in the 3000 meters steeplechase. He achieved Olympic gold at Rio 2016, demonstrating Kalenjin and Kenyan excellence in one of Kenya's most successful events. His career also exemplifies the challenges elite Kenyan athletes face beyond competition.
 
 ## Rio 2016 Olympic Gold

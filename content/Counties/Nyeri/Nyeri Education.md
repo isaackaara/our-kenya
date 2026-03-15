@@ -1,5 +1,3 @@
-# Nyeri Education
-
 Nyeri County has a strong educational tradition dating to missionary school establishment in the early twentieth century. Nyeri High School and Tumutumu Girls are among the county's most prestigious educational institutions. The county maintains above-average educational attainment rates compared to national norms. Universities and technical colleges provide higher education access. Educational achievement has created pathways for professional and business careers.
 
 

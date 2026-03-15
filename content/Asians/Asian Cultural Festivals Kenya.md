@@ -1,5 +1,3 @@
-# Asian Cultural Festivals Kenya
-
 [[Diwali]] (the Festival of Lights), [[Eid]] ([[Islam|Islamic]] festival following [[Ramadan]]), [[Navratri]] (the nine-night [[Hinduism|Hindu]] festival celebrating the goddess), and other cultural and religious festivals celebrated by [[Asian Kenyans|Asian]] communities have become part of [[Kenya]]'s public cultural life. These festivals, while rooted in [[South Asia|South Asian]] religious and cultural traditions, have expanded beyond the [[Asian Kenyans|Asian]] community to involve broader [[Kenyan]] participation and recognition. Over time, [[Asian Kenyans|Asian]] festivals have been increasingly integrated into [[Kenya]]'s multicultural public calendar.
 
 ## Diwali Celebrations

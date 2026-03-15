@@ -1,5 +1,3 @@
-# [[../../Conservation/Mount Kenya National Park|Mount Kenya]]: Kirinyaga Side
-
 Mount Kenya's southern slopes form the dominant physical and cultural feature of Kirinyaga County. The mountain, known as Kirinyaga in [[../../Kikuyu/Kikuyu|Kikuyu]] (the name from which the county takes its official name), rises to 5,199 meters and dominates the landscape. The southern approaches present a different ecological and economic profile than other sides of the mountain, shaped by rainfall patterns, altitude zones, and human settlement.
 
 ## Forest Ecosystems

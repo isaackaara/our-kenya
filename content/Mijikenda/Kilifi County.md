@@ -1,5 +1,3 @@
-# Kilifi County
-
 Kilifi County is the heartland of the Giriama and northern Mijikenda peoples. Located in Kenya's coastal region, the county extends from the Sabaki River in the north to the Mombasa hinterland in the south, covering approximately 1,200 square kilometers with a diverse landscape of coastal plains, forests, creeks, and agricultural hinterland.
 
 ## Geography and Key Towns

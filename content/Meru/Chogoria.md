@@ -1,5 +1,3 @@
-# Chogoria
-
 Chogoria is a village on the southeastern slopes of [[Mount Kenya]], renowned as the starting point for the [[Chogoria Route]], one of the most scenic approaches to Mount Kenya's summit. The village combines trekking tourism with health services through the historic [[Chogoria Hospital]].
 
 ## Geography and Location

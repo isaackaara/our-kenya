@@ -1,5 +1,3 @@
-# 2007 Election Security Forces
-
 Kenya's security forces' response to post-election violence was inconsistent and, in some cases, appeared to condone or participate in violence. Police shootings of opposition supporters and informal settlement residents were documented. Extra-judicial killings were alleged in multiple locations. In some zones, security forces appeared to permit violence against particular communities while suppressing opposition political activity. This selective or inadequate security response contributed to the violence's magnitude and duration. The security forces' role became a focus of the Waki Commission investigation and eventual ICC cases.
 
 ## See Also

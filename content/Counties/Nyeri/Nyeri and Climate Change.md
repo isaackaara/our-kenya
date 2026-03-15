@@ -1,5 +1,3 @@
-# Nyeri and Climate Change
-
 Nyeri County faces climate change impacts including erratic rainfall affecting coffee and dairy production. Changing temperature and moisture patterns threaten traditional crop varieties and productivity. Farmers are adapting through improved irrigation, drought-resistant varieties, and adjusted planting dates. Water scarcity during extended dry seasons poses challenges. Agroforestry and sustainable agriculture practices offer adaptation strategies. Long-term climate projections suggest significant changes to highland agriculture.
 
 

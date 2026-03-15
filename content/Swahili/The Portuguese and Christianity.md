@@ -1,5 +1,3 @@
-# The Portuguese and Christianity
-
 The Portuguese brought Catholicism to the East African coast and attempted to convert the [[Swahili]] population to Christianity. However, their efforts met with extremely limited success. [[Swahili]] culture was deeply and thoroughly [[Islam|Islamic]], and religious conversion proved incompatible with [[Swahili]] identity, social organization, and existing commitments to [[Islam]]. The Portuguese-built churches represent some of the oldest Christian structures in sub-Saharan Africa, yet they ultimately failed to establish permanent Christianity on the coast.
 
 ## Portuguese Missionary Activities

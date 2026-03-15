@@ -1,5 +1,3 @@
-# John Ainsworth
-
 John Ainsworth (1864-1946) was one of the most significant British colonial administrators in Kenya. He served as the Collector (chief administrator) of Kikuyu and later as Provincial Commissioner, and he oversaw the establishment of colonial administration in Kenya's interior highlands. He was instrumental in creating the institutional framework of colonial Kenya during its formative years (1890s-1920s).
 
 ## Early Career and Appointment

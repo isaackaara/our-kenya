@@ -1,5 +1,3 @@
-# Makueni Infrastructure
-
 Infrastructure development in Makueni County has expanded gradually, though remains limited compared to more developed regions. The Nairobi-Mombasa highway passes through Makueni, providing critical road connectivity to national markets and coastal regions. This corridor supports trade and passenger movement, though road maintenance challenges persist.
 
 Rural road networks within Makueni remain underdeveloped, with many secondary and tertiary roads consisting of unimproved tracks. Seasonal rains create difficult driving conditions, with some roads becoming impassable during rainy seasons. Rural road improvement remains a county government priority, though budget constraints limit implementation.

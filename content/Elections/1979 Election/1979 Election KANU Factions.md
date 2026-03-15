@@ -1,5 +1,3 @@
-# 1979 Election KANU Factions
-
 The KANU party in 1979 continued to contain factions and internal groupings, though the factional landscape was reshaping as a result of the transition from Kenyatta to Moi. Different groupings of politicians aligned with different power centers within the party and the government, and these alignments affected electoral outcomes and parliamentary dynamics.
 
 Kalenjin politicians aligned with Moi formed a faction within KANU that was growing in influence. The rise of Moi to the presidency meant that Kalenjin politicians had greater access to power and patronage resources than they had under Kenyatta. Kalenjin politicians positioned themselves as supporters of Moi and of the Nyayo philosophy.

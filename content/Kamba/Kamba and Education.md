@@ -1,5 +1,3 @@
-# Kamba and Education
-
 Education has profoundly shaped Kamba society since the colonial period, yet the Kamba region has historically lagged behind other regions in educational attainment. This note examines education patterns, institutional development, and contemporary challenges in Kamba education (2000-2026).
 
 ## Colonial Education Establishment (1900-1963)

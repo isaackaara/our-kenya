@@ -1,5 +1,3 @@
-# 1974 Election Succession Question
-
 The 1974 election occurred against a backdrop of growing awareness that President Jomo Kenyatta, aged 80, would not remain president indefinitely. While Kenyatta's death in August 1978 was four years away, the question of succession was present in 1974, shaping political calculations and candidate positioning. The election was understood by many observers and politicians as potentially the last election in which Kenyatta would be president, lending the 1974 contest particular significance.
 
 The Constitution of Kenya provided that upon the death or removal of the president, the Vice President would assume the presidency. In 1974, Daniel arap Moi held the office of Vice President, making him the constitutional heir to the presidency. However, Kenyatta had not explicitly designated Moi as his political successor, and whether Moi would actually succeed to power when Kenyatta died remained uncertain. Kenyatta's control over the transition remained unclear to most observers.

@@ -1,5 +1,3 @@
-# Heritage Language Movements Kenya
-
 Against the tide of [[English in Kenya|English dominance]] and the structural forces that erode African languages in urban contexts, a counter-movement has emerged in [[Cross-Ethnic Kenya|Kenya]]. It is fragmented, under-resourced, and fighting against economic logic. But it exists, driven by linguists, cultural activists, writers, educators, and parents who believe that something essential is being lost.
 
 ## Government Policy Drift

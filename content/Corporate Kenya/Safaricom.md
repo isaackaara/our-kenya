@@ -1,5 +1,3 @@
-# [[Safaricom]]
-
 Safaricom is Kenya's dominant telecommunications company and one of Africa's most profitable corporations. Founded in 1997 as a joint venture between Telkom Kenya (60%) and Vodafone (40%), Safaricom has grown into a telecommunications and financial services giant with operations across East Africa and a market capitalisation exceeding KES 400 billion.
 
 ## Founding and Early Years (1997-2000)

@@ -1,5 +1,3 @@
-# Siaya Notable People
-
 [[Siaya County]] has produced nationally and internationally prominent individuals who have contributed to Kenya's political, economic, cultural, and intellectual development. These figures have shaped national discourse and development priorities.
 
 ## Political Figures

@@ -1,5 +1,3 @@
-# Land Rights Campaigns
-
 Multiple organizations and movements have worked on [[Mijikenda Land Rights|Mjikenda land rights]] issues, seeking to address the historical land alienation that remains the central political grievance of coastal communities. These campaigns operate at community, national, and international levels, using various strategies including legal advocacy, community organizing, and political lobbying.
 
 ## The National Land Commission

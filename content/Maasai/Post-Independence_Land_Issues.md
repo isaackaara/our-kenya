@@ -1,5 +1,3 @@
-# Post-Independence Land Issues
-
 ## Initial Expectations
 
 At Kenya's independence in 1964, many Maasai leaders believed that land losses under colonialism would be rectified. They expected the new Kenyan government to restore territories lost in the 1904 and 1911 treaties, allowing the Maasai to reclaim pastoral lands that had been granted to European settlers. These expectations were rooted in the anti-colonial rhetoric of independence movements, which often promised "return to our ancestors' lands" and restitution of pre-colonial territorial rights.

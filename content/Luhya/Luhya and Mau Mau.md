@@ -1,5 +1,3 @@
-# Luhya and Mau Mau
-
 The Mau Mau Uprising (1952-1960) was primarily a Kikuyu-led rebellion against British colonial rule, centered on issues of land dispossession and political exclusion in the central highlands. The Luhya, located in western Kenya, remained largely peripheral to the Mau Mau movement, though significant numbers of Luhya individuals participated and Luhya territories experienced some Mau Mau activity.
 
 ## Limited Luhya Participation

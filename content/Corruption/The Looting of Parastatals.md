@@ -1,5 +1,3 @@
-# The Looting of Parastatals: State Corporations Under Moi
-
 ## Parastatals as Targets
 
 State corporations, known in Kenya as [[parastatals]], were created to provide essential services (telecommunications, postal services, transportation) or produce essential goods (cereals, agricultural inputs). These corporations controlled valuable assets and generated significant revenue from their operations.

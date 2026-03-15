@@ -1,5 +1,3 @@
-# Isiolo Youth
-
 Youth unemployment represents a significant challenge in Isiolo County. The population skews young, with limited formal employment opportunities. Many school leavers find insufficient jobs matching their education levels.
 
 Traditional pastoral lifestyles offer declining opportunities as herd sizes diminish, land access restricts, and pastoral income becomes less reliable. Youth increasingly seek wage employment or urban-based livelihoods rather than inheriting pastoral lifestyles. However, formal employment remains scarce.

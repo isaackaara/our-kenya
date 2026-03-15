@@ -1,5 +1,3 @@
-# Indians and the Uganda Railway
-
 Between 1895 and 1903, the British imported approximately 32,000 indentured labourers from British India (primarily Punjab and Gujarat) to build the Uganda Railway from Mombasa to Kampala. This railway project, which required navigating disease, extreme terrain, and hostile environments, became the crucible in which the Indian East African diaspora was forged. Roughly 2,493 workers died during construction. Yet about 6,700 stayed after the rails were laid, setting the foundation for centuries of Indian commercial presence in Kenya.
 
 ## Key Facts

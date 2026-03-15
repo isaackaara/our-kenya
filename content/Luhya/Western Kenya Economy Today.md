@@ -1,5 +1,3 @@
-# Western Kenya Economy Today
-
 Western Kenya, comprising Kakamega, Bungoma, Vihiga, and Trans-Nzoia counties, represents one of Kenya's most important agricultural regions but has also experienced significant economic challenges. The regional economy is heavily dependent on agriculture, with significant contributions from informal trade and small-scale commerce.
 
 ## Agricultural Foundation

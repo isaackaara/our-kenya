@@ -1,5 +1,3 @@
-# Kisumu's Education Sector: University and Schools
-
 Kisumu is home to Maseno University and numerous primary and secondary schools. Education is an important sector for employment and human capital development.
 
 ## Maseno University

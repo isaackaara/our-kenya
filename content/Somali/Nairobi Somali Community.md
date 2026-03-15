@@ -1,5 +1,3 @@
-# Nairobi Somali Community
-
 [[Nairobi Somali Community|Nairobi]] hosts one of the world's largest urban [[Kenyan Somali Identity|Somali]] populations, including refugees from [[Somalia]], [[Kenyan Somali Identity|Kenyan Somali]]s migrated from [[NFD Pastoralism|pastoral]] regions, diaspora returnees, and [[Second Generation Somali Nairobi|second-generation]] urban-born Somalis. This diverse population extends far beyond [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]], encompassing professionals, refugees, traders, and youth with distinct experiences and relationships to [[Somali Clan System Kenya|Somali identity]].
 
 ## Refugee Population

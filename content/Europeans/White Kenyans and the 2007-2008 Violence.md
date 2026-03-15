@@ -1,5 +1,3 @@
-# White Kenyans and the 2007-2008 Violence
-
 The [[post-election violence]] following Kenya's disputed [[2007 presidential election]] was primarily an expression of [[African community conflict]], rooted in competition for [[political power]], [[economic resources]], and [[land]] between [[Kikuyu]], [[Luo]], [[Kalenjin]], and other groups. Yet white settler farms and businesses in certain regions (particularly [[Nakuru]], the [[Rift Valley]], and surrounding areas) were also attacked and destroyed during the violence, revealing the [[fragility]] of [[white economic position]] and [[property claims]] in Kenya and the ways [[historical settler land occupation]] could become a flashpoint during broader social conflict.
 
 ## The 2007 Election Context

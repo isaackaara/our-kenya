@@ -1,5 +1,3 @@
-# Urban Food Cultures
-
 [[Urban Kenya]]'s food cultures reflect [[multi-ethnic mixing]], with restaurants, street vendors, and home cooking incorporating dishes and ingredients from multiple ethnic traditions. [[Nairobi]] and other cities feature diverse cuisines. Kenyans increasingly consume foods originating from communities other than their own. The normalization of [[cross-ethnic food consumption]] represents a dimension of [[cultural integration]].
 
 Street food in Nairobi and other cities demonstrates culinary integration. Samosas, originally an Indian and coastal Arab food, are consumed universally across ethnic groups. Chapati, similarly, originated outside many communities but is now consumed everywhere. Coastal dishes like fish and seafood preparations are available in urban areas far from the coast. Urban street vendors cater to multi-ethnic clienteles with diverse food preferences.

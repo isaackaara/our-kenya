@@ -1,5 +1,3 @@
-# Trans-Nzoia Health
-
 Health infrastructure in Trans-Nzoia County includes hospitals, health centers, and dispensaries distributed across wards and locations. Kitale County Hospital is the main referral facility, providing tertiary healthcare including surgical services, imaging, and laboratory capacity. Sub-county hospitals in Kitale and other towns provide secondary care. Health centers and dispensaries at ward and location levels provide primary healthcare and preventive services. Health workers include nurses, clinical officers, health extension workers, and community health volunteers. Maternal and child health services are provided through antenatal clinics, immunization programs, and birth attendance services.
 
 ## Common Health Challenges

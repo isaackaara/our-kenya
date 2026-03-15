@@ -1,5 +1,3 @@
-# Gabra People
-
 The Gabra (also spelled Gabbra) are a camel-herding people primarily inhabiting the Chalbi Desert and adjacent arid zones of Marsabit County. The Gabra represent a pastoral community uniquely adapted to extreme desert conditions through distinctive livestock production systems and environmental knowledge.
 
 Gabra traditional economy centres on camel herding. Camels provide milk (the primary food in many pastoral households), meat for special occasions and trade, hides for leather goods, and transport. Camels' ability to survive extended droughts and minimal water conditions makes them ideal for the Chalbi Desert environment.

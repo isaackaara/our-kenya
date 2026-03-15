@@ -1,5 +1,3 @@
-# 1974 Election Development Agenda
-
 The development agenda was central to electoral campaigns in 1974. Candidates for parliamentary seats competed over who could deliver development to their constituencies. Development in this context meant schools, dispensaries (health clinics), water systems, roads, and other infrastructure. The campaign was fought around concrete promises to improve material conditions in constituencies.
 
 The Harambee philosophy, articulated by President Kenyatta, centered on the idea of national "pulling together" for development. Harambee committees organized community contributions to development projects. The government provided some funding, and communities provided labor and sometimes materials. This model of development was presented as distinctly Kenyan and as reflecting Kenya's values of self-reliance and community cooperation.

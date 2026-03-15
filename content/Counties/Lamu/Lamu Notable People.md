@@ -1,5 +1,3 @@
-# Lamu Notable People
-
 Throughout history and into the present day, Lamu County has produced individuals who have achieved prominence in scholarship, politics, business, culture, and other fields. These notable people have shaped Lamu's identity and represented the county's interests and culture on broader stages.
 
 Historically, Lamu's sultanate was ruled by sultans of Arab descent (typically Omani), who wielded political and economic power. These rulers are often cited in historical records, though individual biographical details are limited in some cases.

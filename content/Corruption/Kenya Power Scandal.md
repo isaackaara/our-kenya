@@ -1,5 +1,3 @@
-# Kenya Power Scandal
-
 ## Overview
 
 Kenya Power, the state-owned utility that controls 95% of electricity distribution in the country, has been the site of systematic institutional corruption. The 2021 scandal exposed an illegal connection racket, [[Procurement Corruption|tender fraud]], and executive-level theft that had persisted for over a decade largely unchecked.

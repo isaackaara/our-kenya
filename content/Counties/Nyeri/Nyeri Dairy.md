@@ -1,5 +1,3 @@
-# Nyeri Dairy
-
 Nyeri County is part of Kenya's central highlands dairy belt, where cool highland climate and fertile soils support productive dairy cattle farming. Dairy production integrates with crop farming, with farmers keeping 1 to 5 dairy cows alongside coffee and tea cultivation. Dairy cooperatives collect milk and supply major processors including Brookside and others. Dairy provides regular household income and complements seasonal cash crop income.
 
 

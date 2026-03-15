@@ -1,5 +1,3 @@
-# 1969 Election Economy Context
-
 Kenya's economic situation in 1969 provided important context for the election and for the government's assertions that single-party rule and centralized authority were necessary for economic development. In the six years since independence, Kenya had experienced moderate economic growth, with GDP growth rates averaging approximately 5-6 percent annually. The economy had shifted from colonial pattern production to post-colonial development, though the basic structure of Kenya's economy remained dependent on agriculture, international trade, and foreign investment.
 
 The Africanization policies that had been implemented since independence had resulted in the transfer of some business and commercial activities from colonial-era Asian and European ownership to African hands. However, the Africanization process had benefited primarily the connected and educated African elite, particularly those with political connections to the Kenyatta government. The majority of rural Kenyans and urban workers had not significantly benefited from independence-era economic changes.

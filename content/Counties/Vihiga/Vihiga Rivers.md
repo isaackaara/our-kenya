@@ -1,5 +1,3 @@
-# Vihiga Rivers
-
 Vihiga County's rivers and streams are important water sources and ecological features. Rivers provide water for household consumption, agriculture, and livestock. Stream ecosystems support fish populations and aquatic biodiversity. River valleys provide important ecological corridors and movement routes. Water quality degradation from human settlement and agricultural runoff affects rivers' capacity to support human and ecological needs.
 
 ## Major River Systems

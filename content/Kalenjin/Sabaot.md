@@ -1,5 +1,3 @@
-# Sabaot
-
 The Sabaot are a Kalenjin sub-group whose primary identity is inextricably linked to Mount Elgon (called Tulwetab Kony in Kalenjin), a dormant volcano that straddles the Kenya-Uganda border at approximately 4,321 metres elevation. Their territory covers the slopes and highlands of Mount Elgon in both countries, making them unique among Kalenjin sub-groups in spanning an international border.
 
 ## Geography and Identity

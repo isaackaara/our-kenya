@@ -1,5 +1,3 @@
-# 1979 Election Notable Losers
-
 Several prominent politicians were defeated in the 1979 KANU primary or chose not to contest for re-election, creating parliamentary turnover. Some of these losses reflected the political transition from Kenyatta to Moi and the adjustment of politicians to the new political order.
 
 Kenyatta-era figures who had been closely associated with the aging president sometimes struggled to maintain their parliamentary seats under the new Moi government. These losses reflected both changing political dynamics and constituency preferences for new representation.

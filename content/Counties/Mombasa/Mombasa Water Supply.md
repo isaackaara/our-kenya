@@ -1,5 +1,3 @@
-# Mombasa's Water Supply: Mzima Springs and Crises
-
 Mombasa relies on water transported from the Mzima Springs in Tsavo National Park, located approximately 200 kilometers inland. This water supply arrangement creates vulnerability and has led to recurring water crises affecting the city.
 
 ## Mzima Springs

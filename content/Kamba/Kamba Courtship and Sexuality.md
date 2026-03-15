@@ -1,5 +1,3 @@
-# Kamba Courtship and Sexuality
-
 Traditional [[Kamba]] courtship practices involved complex protocols governing interaction between unmarried men and women, with clear expectations about behavior appropriate to different stages of relationship. Sexual education occurred through [[Kamba Birth Rituals|initiation rites]], elder instruction, and practical learning through engagement with courtship processes themselves.
 
 ## Traditional Courtship Practices

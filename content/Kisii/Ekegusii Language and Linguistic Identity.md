@@ -1,5 +1,3 @@
-# Ekegusii Language and Linguistic Identity
-
 Ekegusii is the language spoken by the [[Gusii people|Gusii people]], a [[Bantu languages|Bantu language]] closely related to neighboring languages ([[Luhya languages|Luhya]], [[Kuria language|Kuria]]) but distinctly differentiated through centuries of separate development. The language carries cultural meanings and embodies [[Gusii people|Gusii]] identity, yet faces pressure from national languages ([[Swahili language|Swahili]] and [[English language|English]]) and potential long-term decline as younger generations increasingly adopt these languages.
 
 ## Linguistic Classification

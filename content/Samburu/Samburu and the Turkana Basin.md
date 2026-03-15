@@ -1,5 +1,3 @@
-# Samburu and the Turkana Basin
-
 Lake Turkana basin encompasses semi-arid territory including [[Samburu]] pastoral areas. The lake and associated ecosystem provide water, fish, and environmental resources. [[Samburu]] communities engage with the basin through [[Samburu Pastoralism|pastoralism]], fishing, and [[Samburu and Tourism|tourism]]. Environmental degradation threatens basin ecosystem functions and pastoral viability.
 
 ## Pastoralist Engagement

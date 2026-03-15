@@ -1,5 +1,3 @@
-# Pate Island
-
 Pate Island, located within [[Lamu|the Lamu Archipelago]] off the coast of northern Kenya, represents one of the significant but often overlooked centers of [[Swahili Civilization Overview|Swahili civilization]]. The island hosted multiple [[Swahili]] settlements with distinctive architectural remains and a complex political history involving competition between rival dynasties.
 
 ## Geography and Settlement

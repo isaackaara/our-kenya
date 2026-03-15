@@ -1,5 +1,3 @@
-# Gusii Storytelling and Oral Literature
-
 [[Gusii people|Gusii]] oral literature encompasses a rich tradition of storytelling, proverbs, myths, and narrative knowledge transmitted orally across generations. The tradition served educational, entertainment, and cultural preservation functions before [[Kisii Education Culture|literacy]] and mass media altered transmission patterns. Contemporary efforts to document and revitalize [[Gusii people|Gusii]] storytelling traditions aim to preserve cultural knowledge and provide cultural pride for younger generations.
 
 ## Forms of Oral Literature

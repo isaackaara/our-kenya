@@ -1,5 +1,3 @@
-# Qaadaa (Khat) Social Culture
-
 The afternoon qaad (or qaada) session is central to [[Kenyan Somali Identity|Somali]] male social life. Men gather, often daily in late afternoon, to chew [[Miraa (Khat) and Northern Kenya|khat]] leaves, chat, conduct business, and socialize. The qaad session is a ritualized space where social bonds are reinforced, news is exchanged, disputes are mediated, and community decisions are sometimes made. The practice is deeply culturally embedded, though it involves significant economic costs and some health risks.
 
 ## The Qaad Session

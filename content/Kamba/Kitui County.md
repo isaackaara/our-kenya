@@ -1,5 +1,3 @@
-# [[../Counties/Kitui/Kitui County|Kitui County]]
-
 Kitui County is the drier, more remote heartland of Kamba territory, located east of Machakos. With lower rainfall (approximately 400 millimeters annually), the county has historically maintained a more pastoral economy than western Ukambani. Its isolation from major colonial development meant both less disruption to traditional livelihoods and reduced access to education and services.
 
 ## Key Facts

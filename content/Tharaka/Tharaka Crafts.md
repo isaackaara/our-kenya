@@ -1,5 +1,3 @@
-# Tharaka Crafts
-
 Tharaka traditional crafts reflect practical needs and artistic expression, with particular specialization in calabash decoration and beadwork. These crafts have served both functional and social purposes.
 
 ## Calabash Decoration

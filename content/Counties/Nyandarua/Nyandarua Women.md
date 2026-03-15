@@ -1,5 +1,3 @@
-# Nyandarua Women
-
 Women in Nyandarua County provide essential labor in agricultural production, particularly in wheat, dairy, and potato cultivation. Despite significant agricultural contributions, women's land rights remain contested and women often lack land ownership on farms they work. Women's groups provide platforms for collective action and income generation. Education and healthcare remain important development priorities for women. Women's roles in households extend beyond farm work to encompass household management and childcare.
 
 ## Agricultural Labor

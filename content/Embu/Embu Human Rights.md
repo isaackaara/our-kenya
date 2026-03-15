@@ -1,5 +1,3 @@
-# Embu Human Rights
-
 Embu County has experienced various human rights challenges including police brutality, detention issues, political repression, and vulnerable group marginalization. International and Kenyan human rights organizations have documented concerns. Government and civil society initiatives attempt to address documented issues.
 
 ## Police Conduct and Brutality

@@ -1,5 +1,3 @@
-# NHIF Scandals: Repeated Theft from National Health Insurance
-
 ## The Institution Under Assault
 
 The National Hospital Insurance Fund (NHIF) is a state corporation intended to provide health insurance to Kenyans. It is financed through contributions from workers and government subsidies. The funds collected should be used to reimburse hospitals and healthcare providers for services rendered to NHIF members.

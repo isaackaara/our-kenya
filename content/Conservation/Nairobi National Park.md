@@ -1,5 +1,3 @@
-# Nairobi National Park
-
 [[Nairobi National Park]], established in 1946, is Kenya's oldest [[National Parks Kenya|national park]] and one of the world's few protected areas adjacent to a major city. The park protects savanna and [[Acacia woodland|acacia woodland]] ecosystems within sight of Nairobi's skyline. Despite urban proximity and [[habitat fragmentation|habitat fragmentation]], the park supports diverse [[wildlife]] and serves critical education and tourism functions.
 
 ## Location and Significance

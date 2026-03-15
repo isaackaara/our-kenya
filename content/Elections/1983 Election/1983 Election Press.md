@@ -1,5 +1,3 @@
-# 1983 Election Press
-
 The press in 1983 operated under tight constraints, with media self-censorship and government pressure limiting critical reporting. Newspapers focused on government announcements and positive campaign coverage. Critical analysis of the election or discussion of government manipulation was avoided. The press presented the election as a democratic exercise while omitting coverage of government control of primary outcomes. Radio and television were entirely state-controlled and provided government-favorable coverage.
 
 ## See Also

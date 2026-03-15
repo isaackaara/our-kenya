@@ -1,5 +1,3 @@
-# Mursik Deep Dive
-
 Mursik is the iconic Kalenjin fermented milk drink, consumed warm or cold, and stored in a traditional calabash gourd (also called a calabash or vessel). The drink has become deeply embedded in Kalenjin identity and is internationally recognized through photographs of Olympic athletes drinking mursik to celebrate their victories. The fermentation process, the specific materials involved, and the social meanings of mursik-sharing represent a complete food culture that deserves detailed examination.
 
 ## Traditional Fermentation Process

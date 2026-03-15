@@ -1,5 +1,3 @@
-# White Highlands
-
 The "White Highlands" was the colonial name for approximately 7.2 million acres of prime agricultural land in Kenya's central and Rift Valley regions that the British government reserved exclusively for European settlement between 1902 and independence. For the Kikuyu, this was not a remote policy matter, it was the direct seizure of their [[Githaka]] lands, the physical destruction of the divine land grant described in the [[Gikuyu and Mumbi]] origin myth, and the root cause of every major act of political resistance from [[Harry Thuku]] to the [[Mau Mau Uprising]].
 
 ## Key Facts

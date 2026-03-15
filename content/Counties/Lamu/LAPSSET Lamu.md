@@ -1,5 +1,3 @@
-# LAPSSET Lamu
-
 The LAPSSET Corridor (Lamu Port-South Sudan-Ethiopia Transport) is an ambitious regional development project with [[Lamu Port|Lamu Port]] as its anchor. The project aims to connect Kenya's coast (via the port at Lamu) to Ethiopia and South Sudan through road, rail, and pipeline infrastructure, creating a new transport corridor for the region. The project has profound implications for Lamu County and the broader region.
 
 LAPSSET was conceived in the early 2000s as part of Kenya's Vision 2030 development strategy. The rationale was to diversify Kenya's transport infrastructure (previously concentrated on the Mombasa corridor), to position Lamu as a major port, and to create transport links to landlocked regions (Ethiopia and South Sudan) where demand for imports is growing. The project was conceived during a period of regional optimism about growth in Ethiopia and South Sudan.

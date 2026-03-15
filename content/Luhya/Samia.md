@@ -1,5 +1,3 @@
-# Samia
-
 The Samia (also known as Basamia or Abasamia) are a Luhya sub-group with a unique distinction: they are a cross-border people, predominantly inhabiting the borderlands between western Kenya and eastern Uganda. The Samia are one of only a few Luhya sub-groups with substantial populations in both countries, making them key participants in the Kenya-Uganda border economy.
 
 ## Cross-Border Settlement

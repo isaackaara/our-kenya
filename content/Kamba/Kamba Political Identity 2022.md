@@ -1,5 +1,3 @@
-# Kamba Political Identity 2022
-
 The 2022 Kenyan presidential election revealed important patterns about [[Kamba]] political identity and voting behavior. While the [[Kamba]] did not produce a presidential candidate with significant national viability, their voting choice proved politically consequential, with [[Machakos County|Kamba counties]] playing important roles in the election outcome.
 
 ## Kalonzo's Relationship with Raila

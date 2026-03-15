@@ -1,5 +1,3 @@
-# Trans-Nzoia Women
-
 Women in Trans-Nzoia County play central roles in agricultural production, household management, and community welfare. Women manage household food security and nutrition, controlling decisions about food preparation and consumption. Women farmers operate plots ranging from household gardens to larger commercial farms, often under male-held titles despite substantial management and labor contributions. Women engage in agricultural labor intensively during planting and harvest seasons. Women's cooperatives and savings groups provide financial services and social support. Women's groups facilitate knowledge exchange, marketing of agricultural products, and social welfare activities.
 
 ## Economic Activities and Livelihoods

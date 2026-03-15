@@ -1,5 +1,3 @@
-# Chama and Self-Help Economics
-
 The chama is an indigenous financial institution found across East Africa. A chama is a group of people, typically women or from the same community, who meet regularly to save and lend money to each other. It is a rotating savings and credit association (ROSCA). Each member contributes a fixed amount to a shared pool. In turn, each member receives the entire pool periodically so they have a lump sum to invest or spend.
 
 Chamas predate the formal banking system. They emerged as a way for communities to accumulate capital, to manage risk, and to provide credit when formal banks were unavailable. They are rooted in communal values and reciprocity.

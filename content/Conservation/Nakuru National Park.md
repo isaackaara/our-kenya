@@ -1,5 +1,3 @@
-# Nakuru National Park
-
 Lake Nakuru National Park, located in the [[Rift Valley|Rift Valley]] approximately 160 kilometers from Nairobi, is Kenya's smallest national park by area but one of its most important for certain wildlife species. The park, established in 1968, centers on [[Lake Nakuru]], a shallow alkaline lake famous for its [[flamingo]] populations and more recently established as a critical [[black rhino sanctuary|black rhino sanctuary]].
 
 ## Lake Ecology and Flamingos

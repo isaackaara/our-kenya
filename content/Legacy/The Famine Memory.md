@@ -1,5 +1,3 @@
-# The Famine Memory
-
 Famine is periodic in arid and semi-arid regions of Kenya. The Rift Valley and northern Kenya receive unreliable rainfall. When the rains fail, grazing is scarce. Pastoral communities face starvation. Famine is not ancient history; it is a recurring reality.
 
 Before colonialism, communities had developed strategies to manage famine risk. They maintained herds in different ecological zones. They traded across regions. They had social mechanisms for sharing resources during shortage. These famine-coping strategies were embedded in social and economic systems designed for uncertainty.

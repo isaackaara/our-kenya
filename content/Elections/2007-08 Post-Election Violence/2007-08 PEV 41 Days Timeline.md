@@ -1,5 +1,3 @@
-# 2007-08 PEV 41 Days Timeline
-
 The 2007-08 Post-Election Violence unfolded over exactly 41 days, from December 30, 2007, to February 28, 2008. This timeline traces the escalation curve, key turning points, and the progression from electoral dispute to mediation to power-sharing agreement.
 
 **December 30, 2007, Dusk (Day 1):** [[Electoral Commission of Kenya|ECK]] Chairman [[Samuel Kivuitu|Samuel Kivuitu]] announces that incumbent President Mwai [[Kibaki]] has won the disputed election, with unofficial results showing Raila Odinga's National Democratic Alliance as the leading coalition. The margin is narrow enough to be contestable. Kibaki is immediately [[Kibaki Swearing-In|sworn in]] in a closed ceremony at State House garden without media broadcast, raising the symbolic and practical stakes. Raila's political operatives declare the election stolen.

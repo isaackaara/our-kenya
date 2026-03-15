@@ -1,5 +1,3 @@
-# Economic Interdependence Kenya
-
 [[Cross-Ethnic Kenya|Kenya's economy]] operates as an interdependent system requiring [[Cross-Ethnic Kenya|cross-ethnic cooperation]] for functioning. Supply chains, labor markets, and trade networks connect economic actors from all ethnic groups. The practical economic necessity of cross-ethnic coordination creates grounds for cooperation transcending ethnic boundaries. Economic interdependence can both promote cross-ethnic understanding and create tensions when economic interests conflict.
 
 Agricultural production for market sale involves cross-ethnic trade. Farmers from one region produce crops sold to traders and consumers from other regions. Coffee and tea producers from central highlands sell to buyers from across Kenya and internationally. Pastoralists sell livestock to traders from diverse ethnic backgrounds. The agricultural market system connects producers and consumers across ethnic lines.

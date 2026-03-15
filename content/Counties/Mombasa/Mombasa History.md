@@ -1,5 +1,3 @@
-# Mombasa's 2,000-Year History: Arab, Portuguese, Omani, and British Rule
-
 Mombasa has one of the longest documented histories of any African city. For over 2,000 years, it has served as a crucial node in Indian Ocean commerce, connecting East Africa to Arabia, the Persian Gulf, India, and beyond.
 
 ## Pre-Colonial Swahili Era (500-1500s)

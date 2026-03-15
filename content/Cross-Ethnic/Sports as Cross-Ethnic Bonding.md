@@ -1,5 +1,3 @@
-# Sports as Cross-Ethnic Bonding
-
 Sporting activities and competitions serve as important sites of cross-ethnic bonding in Kenya. Team sports including football, basketball, and rugby bring together players from different ethnic backgrounds on the same squads. Sports spectators gather to watch competitions, creating moments of shared emotional investment transcending ethnic divisions. The sports sector provides opportunities for cross-ethnic cooperation, friendship, and mutual respect.
 
 School sports competitions bring young people from different ethnic backgrounds into competitive and collaborative relationships. Inter-school sports days and national competitions feature teams representing schools from across Kenya. These competitions create opportunities for young people to interact across ethnic lines. Sports friendships sometimes persist into adulthood, creating lifelong bonds transcending ethnicity.

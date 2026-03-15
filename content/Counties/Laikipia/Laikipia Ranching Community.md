@@ -1,5 +1,3 @@
-# Laikipia Ranching Community
-
 The Laikipia ranching community comprises owners and operators of large-scale commercial cattle ranches. Historically, European settlers received large land allocations and developed commercial ranching enterprises. Post-independence, ranch ownership has become increasingly diverse. Contemporary ranchers include white Kenyans, Maasai entrepreneurs, and other Kenyan owners. Ranches operate commercial cattle enterprises on extensive land areas. The ranching community has significantly influenced Laikipia's economic development, politics, and social organization.
 
 ## Colonial Origins

@@ -1,5 +1,3 @@
-# Marehan Clan Kenya
-
 The [[Marehan Clan Kenya|Marehan]] are a [[Darod clan family|Darod]] sub-clan prominent in [[Mandera County]], Kenya's most remote and isolated county. The Marehan in Kenya, like all [[Darod clan family|Darod]], maintain transnational ties to the greater Marehan people of [[Somalia]] and Ethiopia. They practice [[Pastoralism and Climate Change|pastoralism]] and trade in one of Kenya's most challenging environments.
 
 ## Geography and Settlement

@@ -1,5 +1,3 @@
-# Luhya Healing Practices
-
 In traditional Luhya society, health was understood holistically, encompassing physical, spiritual, and social dimensions. The omukhululi (healer/diviner) occupied a crucial role in diagnosing and treating illness, drawing on botanical knowledge, spiritual authority, and social insight.
 
 ## The Omukhululi in Practice

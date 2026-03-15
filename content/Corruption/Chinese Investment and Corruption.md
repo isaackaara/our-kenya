@@ -1,5 +1,3 @@
-# Chinese Investment and Corruption: The SGR and Infrastructure Questions
-
 ## The Scale of Chinese Investment
 
 China has become a major investor in Kenya, particularly in [[Corruption and Infrastructure Quality|infrastructure]]. The Standard Gauge Railway represents the largest single Chinese project, but Chinese investment also includes:

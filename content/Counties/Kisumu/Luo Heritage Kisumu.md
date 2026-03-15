@@ -1,5 +1,3 @@
-# Kisumu as Cultural Capital of the Luo People
-
 Kisumu is the cultural heartland of [[../../Luo/Luo|Luo]] people, one of Kenya's largest and most influential ethnic groups. Luo language, culture, food, music, and political traditions are central to Kisumu's identity.
 
 ## Luo Population

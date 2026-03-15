@@ -1,5 +1,3 @@
-# Luo Cattle and Livestock
-
 Cattle are central to Luo culture and economy. They represent prestige wealth, social status, and the medium of exchange for bridewealth. The complex negotiations around cattle payments shape marriage relations and social obligations. Goats provide secondary wealth, but cattle carry the prestige and power.
 
 ## Bridewealth and Prestige

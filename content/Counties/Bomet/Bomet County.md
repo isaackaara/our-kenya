@@ -1,5 +1,3 @@
-# Bomet County
-
 Bomet County is located in the southwestern Rift Valley, centered on the [[../../Kalenjin/Kipsigis.md|Kipsigis]] sub-group of the [[../../Kalenjin/Kalenjin.md|Kalenjin]] people. The county encompasses 2,271 square kilometers and has a population of approximately 900,000. Bomet is the county headquarters located on the border with the [[../../Conservation/Maasai Mara National Reserve.md|Maasai Mara]] National Reserve.
 
 ## Overview

@@ -1,5 +1,3 @@
-# The Lancaster House Conferences
-
 The [[Lancaster House Conferences]] (1960-1962) were a series of [[negotiations]] held in [[London]] to determine the terms of Kenya's [[independence]]. The conferences negotiated the [[constitution]], [[political representation]], [[land rights]], and the transition from [[colonial rule]] to [[independent rule]]. [[Settlers]] participated indirectly through [[British representatives]], seeking to protect their [[property rights]] and [[economic interests]] even as [[political power]] transferred to [[African leadership]].
 
 ## Pre-Conference Context

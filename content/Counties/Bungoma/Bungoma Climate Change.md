@@ -1,5 +1,3 @@
-# Bungoma Climate Change
-
 Climate change poses significant challenges to Bungoma County's agriculture, water resources, and forest ecosystems. Rainfall pattern changes, temperature increases, and extreme weather events threaten agricultural productivity and livelihoods. Climate change intersects with existing pressures from population growth and land scarcity, creating complex adaptation challenges for communities.
 
 ## Rainfall Variability

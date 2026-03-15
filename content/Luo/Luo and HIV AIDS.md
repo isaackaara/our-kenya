@@ -1,5 +1,3 @@
-# Luo and HIV/AIDS
-
 Nyanza and Siaya counties, the heartland of Luo territory, have historically recorded Kenya's highest HIV prevalence rates. In the early 2000s, some surveys recorded HIV prevalence exceeding 20 percent in the general adult population, compared to Kenya's national average of 5-7 percent. This disparity has created an ongoing public health crisis with profound social and economic consequences for Luo communities. Understanding the drivers of high HIV prevalence and the community response is essential to understanding contemporary Luo life.
 
 ## Historical Prevalence and Epidemiology

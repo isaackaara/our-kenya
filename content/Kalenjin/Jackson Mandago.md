@@ -1,5 +1,3 @@
-# Jackson Mandago
-
 Jackson Kiplagat Arap Mandago (born May 5, 1974) is a Kenyan politician who served as the first Governor of [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] from 2013 to 2022. He is currently serving as the Senator for Uasin Gishu County since September 2022.
 
 ## Early Career and Education

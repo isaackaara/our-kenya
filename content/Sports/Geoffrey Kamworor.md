@@ -1,5 +1,3 @@
-# Geoffrey Kamworor: World Cross Country Champion and Half-Marathon Record Holder
-
 Geoffrey Kamworor is one of Kenya's elite distance runners, having won the World Cross Country Championships title and holding the half-marathon world record. He represents Kenya's continued dominance in cross country racing and emergence as a world record holder in road racing events.
 
 Born in 1992, Kamworor emerged as a promising distance runner in the late 2000s and early 2010s. He competed in national and regional championships before breaking through to international level. At the World Cross Country Championships, Kamworor won the title, confirming his status as one of the world's greatest cross country runners and continuing Kenya's dominance in this event.

@@ -1,5 +1,3 @@
-# The Iloikop Wars: 19th Century Civil War and Strategic Catastrophe
-
 ## Succession Conflict After Mbatiany's Death
 
 The Iloikop Wars were a series of civil conflicts within Maasai society in the 19th century. The wars started around 1830 and intensified after the death of the powerful laibon Mbatiany (around 1890).

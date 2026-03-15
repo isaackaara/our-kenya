@@ -1,5 +1,3 @@
-# Luhya Sexual Education in Initiation
-
 Among Bukusu and other Luhya sub-groups, male initiation through circumcision is far more than a physical rite. The seclusion period following the ritual involves intensive instruction in sexuality, adulthood, marriage, responsibility, and community membership. This knowledge transmission occurs within carefully structured gender-separated settings and is considered essential to becoming a fully adult man.
 
 ## The Seclusion Context

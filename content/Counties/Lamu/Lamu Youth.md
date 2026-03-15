@@ -1,5 +1,3 @@
-# Lamu Youth
-
 Youth in Lamu County (typically defined as ages 15-35) face distinctive challenges and opportunities. The demographic structure shows a youth bulge (a large proportion of the population is young), but limited economic opportunities in the county create pressure for outmigration. Education, employment, and social dynamics for youth in Lamu are shaped by isolation, cultural conservatism, and economic transition.
 
 Educational aspirations among Lamu youth are high. Young people value education as a path to better opportunities, and many pursue secondary and higher education. However, education costs (fees, boarding, materials) are prohibitive for poor families. The geographic distribution of schools means that secondary education requires migration away from home, which is costly and limits access particularly for girls in conservative families.

@@ -1,5 +1,3 @@
-# Bomet Women
-
 Women in Bomet County play vital roles in agricultural production while navigating persistent challenges in resource access and decision-making. Women's contributions support household food security and generate significant household income.
 
 ## Agricultural Participation

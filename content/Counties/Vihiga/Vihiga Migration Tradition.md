@@ -1,5 +1,3 @@
-# Vihiga Migration Tradition
-
 The Maragoli have a long-standing tradition of out-migration for employment and economic opportunity. Teachers, nurses, civil servants, and professionals from Vihiga are dispersed across Kenya and East Africa. Migration represents both individual livelihood strategy and community characteristic. Diaspora networks facilitate continuing migration and maintain home community connections.
 
 ## Historical Out-Migration

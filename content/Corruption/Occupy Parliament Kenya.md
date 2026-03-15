@@ -1,5 +1,3 @@
-# Occupy Parliament Kenya
-
 ## Overview
 
 Occupy Parliament Kenya was a citizen protest movement that emerged to challenge specific corruption and impunity issues, most prominently the 2012 MP salary increase scandal where MPs voted to increase their salaries significantly despite public opposition and despite the government's austerity rhetoric.

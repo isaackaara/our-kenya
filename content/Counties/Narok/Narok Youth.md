@@ -1,5 +1,3 @@
-# Narok Youth
-
 Narok County youth population faces distinctive opportunities and challenges shaped by pastoral heritage, tourism economy expansion, education access variations, and limited employment opportunities in traditional pastoral sectors.
 
 ## Economic Opportunities

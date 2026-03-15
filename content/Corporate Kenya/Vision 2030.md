@@ -1,5 +1,3 @@
-# Vision 2030
-
 In [[2008]], the [[Government of Kenya]] launched [[Vision 2030]], an ambitious [[long-term development blueprint Kenya|long-term development blueprint]] intended to transform [[Kenya]] into a [[middle-income country Kenya|middle-income country]] by [[2030]]. Developed during the administration of [[President Mwai Kibaki]], Vision 2030 represents Kenya's most comprehensive [[economic strategy Kenya|economic strategy]] document. However, the gap between vision and [[implementation Kenya|implementation]] has been substantial.
 
 ## The Vision Framework

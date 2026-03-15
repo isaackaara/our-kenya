@@ -1,5 +1,3 @@
-# Taita Hills
-
 The Taita Hills are a remarkable geographical and ecological feature of Taita-Taveta County, rising steeply from the Tsavo plains to elevations exceeding 2,200 metres. This isolated mountain range, located approximately 150 kilometres southwest of Nairobi and near the Kenya-Tanzania border, covers an area of approximately 1,200 square kilometres and forms the western boundary of the county. The hills are geologically distinct, composed primarily of Precambrian metamorphic rocks and granites overlain by volcanic deposits, with their distinctive escarpment visible from considerable distances across the surrounding lowlands.
 
 The formation of the Taita Hills dates to the Precambrian era, approximately 2.5 billion years ago, when granitic and metamorphic rocks were intruded and uplifted. Subsequent weathering and erosion have carved the complex topography of ridges, valleys, and steep slopes that characterize the hills today. The highest peaks include Kasigau (2,228 metres), Vuria (2,205 metres), and Sagalla (2,059 metres). Between these peaks lie fertile valleys such as Wundanyi, which has become the county headquarters.

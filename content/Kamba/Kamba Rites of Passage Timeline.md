@@ -1,5 +1,3 @@
-# Kamba Rites of Passage Timeline
-
 The [[Kamba]] life course is marked by ceremonial transitions acknowledging movement through socially significant stages. From birth through death, individual development involves ritual markers that integrate the person into [[Kamba Social Structure|community structures]] while transforming their social status and responsibilities.
 
 ## Birth and Naming Ceremony

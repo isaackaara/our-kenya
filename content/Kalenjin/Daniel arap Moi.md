@@ -1,5 +1,3 @@
-# [[Daniel arap Moi|Daniel arap Moi]]
-
 Daniel Toroitich arap Moi(September 2, 1924 - February 4, 2020) was Kenya's second president and the longest-serving president in the nation's history. A Tugen Kalenjin from Baringo District, he governed Kenya for 24 years(1978-2002), profoundly shaping the country's political trajectory, ethnic politics, and institutional development during a period marked by both authoritarianism and, ultimately, peaceful democratic transition.
 
 ## Early Life and Education

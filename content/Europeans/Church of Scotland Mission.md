@@ -1,5 +1,3 @@
-# Church of Scotland Mission
-
 The Church of Scotland Mission (CSM, initially called the Scottish Industrial Mission) was the second major Protestant mission in Kenya and became the most significant mission for the Kikuyu elite. Arriving in Kikuyu in 1898, the CSM established churches, schools, and training facilities that produced educated Kikuyu leaders. However, the CSM also became embroiled in cultural conflict, particularly over female circumcision, which put the mission in direct opposition to Kikuyu nationalism in the 1920s-1930s.
 
 ## Establishment and Expansion

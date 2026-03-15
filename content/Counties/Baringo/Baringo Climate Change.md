@@ -1,5 +1,3 @@
-# Baringo Climate Change
-
 Baringo County faces significant climate change impacts including increasing drought frequency and severity, rainfall pattern changes, rising temperatures, and cascading effects on pastoral livelihoods, water availability, and Lake Baringo ecosystem dynamics.
 
 ## Temperature Trends

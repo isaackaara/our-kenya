@@ -1,5 +1,3 @@
-# Tharaka Notable People
-
 Several prominent Kenyans have Tharaka origins and have contributed to national politics, business, academia, and other fields. These individuals represent Tharaka participation in modern Kenya while maintaining connections to their heritage.
 
 ## Political Figures

@@ -1,5 +1,3 @@
-# Robert Baden-Powell Nyeri
-
 Robert Stephenson Smyth Baden-Powell, the founder of the Boy Scouts (now known as Scouting), retired to Nyeri, Kenya in 1938 and spent the last three years of his life in the town. He died on 8 January 1941, and his grave at St Peter's Church in Nyeri has become a significant historical site. Baden-Powell's presence in Nyeri and his grave continue to attract international interest and serve as a historic landmark.
 
 ## Scouting Founder

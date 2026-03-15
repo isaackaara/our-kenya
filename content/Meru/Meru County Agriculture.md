@@ -1,5 +1,3 @@
-# Meru County Agriculture
-
 [[Meru County]]'s agriculture encompasses a diverse portfolio of crops suited to different altitude zones. The county's geography, with altitudes ranging from approximately 600 to over 5000 meters at [[Mount Kenya]]'s peak, creates varied agricultural potential and specialization.
 
 ## Altitude Zones and Crop Suitability

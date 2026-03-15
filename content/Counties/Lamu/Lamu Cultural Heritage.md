@@ -1,5 +1,3 @@
-# Lamu Cultural Heritage
-
 Lamu County is home to one of the world's most distinctive cultural traditions, the Swahili civilization, represented in living practices, oral traditions, material culture, and community life. The cultural heritage of Lamu encompasses Islamic traditions, Swahili language and literature, maritime knowledge, crafts, music, and social practices maintained by multiple generations.
 
 The Swahili language is central to Lamu's cultural identity. Swahili is a Bantu language deeply influenced by Arabic, reflecting the historical interaction between Bantu-speaking coastal communities and Arab and Persian traders and settlers. Swahili is spoken as a first or second language by nearly all residents of Lamu County. The language carries cultural meanings, historical memory, and identity. Swahili poetry traditions (particularly the centuries-old qasida form and the more modern tendi form) continue to be practiced by poets and scholars in Lamu.

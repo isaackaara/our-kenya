@@ -1,5 +1,3 @@
-# Mombasa
-
 Mombasa stands as the dominant [[Swahili]] city-state of the Kenyan coast and one of the most important ports in the entire [[The Indian Ocean World|Indian Ocean trade network]]. Its location on a protected harbor made it an ideal entrepot for trade, and its political significance shaped the history of the East African coast from at least the 12th century through the present day.
 
 ## Early History and Development

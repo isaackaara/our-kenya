@@ -1,5 +1,3 @@
-# Education Sector Corruption
-
 ## Overview
 
 Kenya's education sector has been ravaged by systematic corruption affecting every level: exam fraud, [[Ghost Workers Scandal|ghost teachers]] on payrolls, theft of bursary funds meant for poor students, and [[Procurement Corruption|procurement fraud]] in school infrastructure projects. These corrupt practices directly undermine educational quality and perpetuate inequality by denying resources to students who most need them.

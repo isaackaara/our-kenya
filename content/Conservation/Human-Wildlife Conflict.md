@@ -1,5 +1,3 @@
-# Human-Wildlife Conflict
-
 Human-wildlife conflict represents one of Kenya's most intractable [[Kenya Conservation Overview|conservation challenge]], reflecting the fundamental tension between [[Kenya Wildlife Service|wildlife protection]] and human livelihood. As human populations expand and [[Kenya as Global Conservation Model|wildlife habitat]] contracts, conflicts intensify, threatening both species and communities.
 
 ## Elephant Crop Raiding

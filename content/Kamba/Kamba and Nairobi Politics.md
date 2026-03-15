@@ -1,5 +1,3 @@
-# Kamba and Nairobi Politics
-
 Nairobi, Kenya's capital, hosts a significant Kamba population, particularly in the Eastlands area and in informal settlements. The Kamba in Nairobi maintain ethnic identity while participating in urban and national politics, creating a distinctive urban Kamba constituency separate from the Kamba regional heartland in Ukambani.
 
 ## Kamba Settlement in Nairobi

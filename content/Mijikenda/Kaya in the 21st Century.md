@@ -1,5 +1,3 @@
-# [[kaya]] in the [[contemporary]]
-
 The future of the kaya system in the 21st century remains uncertain. The kayas face multiple [[challenges]]: declining youth participation, climate change, deforestation, and the pull of modernization. Yet they also benefit from growing international recognition (through UNESCO World Heritage designation), from cultural preservation movements, and from some communities' commitment to maintaining traditions.
 
 ## The UNESCO Designation as Double-Edged Sword

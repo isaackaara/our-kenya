@@ -1,5 +1,3 @@
-# Music and the Multiparty Era
-
 Kenya's return to multiparty politics in 1991-2002 profoundly affected musical production, distribution, and content as musicians engaged with democratic transitions while navigating continued authoritarianism. The multiparty era saw music become explicitly political in ways impossible during single-party rule, though [[Presidencies/Daniel arap Moi Presidency|Moi's]] continued presidency until 2002 meant democratic opening remained incomplete and contested.
 
 The constitutional amendment permitting multiparty politics in December 1991 transformed political music's parameters. What had required coded language and strategic ambiguity during single-party dictatorship could now be expressed more directly, though [[Music/Moi Era Music and Censorship|censorship and intimidation]] persisted. Musicians tested boundaries, discovering how much explicit political content new dispensation permitted.

@@ -1,5 +1,3 @@
-# Kiambu Dairy Farming
-
 The dairy farming sector in Kiambu is significant, with numerous small-scale dairy farmers supplying milk to processors and consumers. Kiambu's favorable climate and established agricultural infrastructure support dairy cattle raising. The Kenya Co-operative Creameries (KCC), historically a major buyer of milk from Kiambu farmers, collapsed in the early 2000s, disrupting farmer incomes and market structures.
 
 Private processors, particularly Brookside Dairy, have emerged as major buyers of milk from Kiambu farmers. Brookside, connected to the Kenyatta family, is one of Kenya's largest dairy processors, collecting milk from thousands of farmers and selling processed products (pasteurized milk, yogurt, butter) throughout Kenya. The company has invested in milk collection infrastructure and farmer support services, creating stable market linkages.

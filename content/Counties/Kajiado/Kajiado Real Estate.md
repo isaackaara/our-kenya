@@ -1,5 +1,3 @@
-# Kajiado Real Estate
-
 Kajiado County's real estate market has experienced explosive growth reflecting Nairobi's urban expansion, rising land values, and investment speculation. Residential, commercial, and agricultural land markets have transformed pastoral territories into commodified property landscapes.
 
 ## Urban Property Development

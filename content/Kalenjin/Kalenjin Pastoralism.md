@@ -1,5 +1,3 @@
-# Kalenjin Pastoralism
-
 Traditional Kalenjin society, particularly among sub-groups like [[Kalenjin|Kalenjin]] and Tugen, was centered on cattle herding (pastoralism) and pastoral-agricultural mixed economies. The pastoral system organized Kalenjin communities through age-sets (singirwet, warrior cohorts), initiation rites (tumdo), and carefully managed cattle herding practices adapted to the Rift Valley's variable rainfall. While less dependent on pastoralism than [[../Maasai/Maasai|Maasai]], Kalenjin pastoral traditions shaped social organization, landscape use, and identity. Modern Kalenjin remain connected to pastoralism culturally even as economic participation has shifted toward agriculture and other sectors.
 
 ## Key Facts

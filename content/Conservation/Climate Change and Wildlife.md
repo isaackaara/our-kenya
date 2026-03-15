@@ -1,5 +1,3 @@
-# Climate Change and Wildlife
-
 [[Climate Change|Climate change]] is fundamentally altering Kenya's [[Wildlife Ecosystems|wildlife ecosystems]] through changing [[Rainfall Patterns|rainfall patterns]], rising temperatures, and shifting [[Ecological Conditions|ecological conditions]]. These changes affect [[Migration Pattern Changes|animal migration patterns]], [[Predator-Prey Dynamics|predator-prey dynamics]], [[Habitat Suitability|habitat suitability]], and [[Species Range Shifts|species distributions]]. Understanding [[Climate Impacts|climate impacts]] on wildlife is essential for [[Conservation Planning|conservation planning]] and predicting [[Ecosystem Changes|future ecosystem changes]].
 
 ## Rainfall Patterns and Drought Frequency

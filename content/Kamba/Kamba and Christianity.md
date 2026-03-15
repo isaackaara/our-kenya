@@ -1,5 +1,3 @@
-# Kamba and Christianity
-
 The Africa Inland Mission (AIM), founded in 1895 by Scottish-American missionary Peter Cameron Scott, chose Ukambani as its first mission field in East Africa. AIM established the earliest schools and clinics in Kamba territory, giving the Kamba community early access to Western education and rapid Christianization, though at the cost of traditional practices and beliefs.
 
 ## Key Facts

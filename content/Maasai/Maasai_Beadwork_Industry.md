@@ -1,5 +1,3 @@
-# Maasai Beadwork Industry
-
 ## Cultural Significance and History
 
 Beadwork is central to Maasai cultural identity and aesthetic expression. Traditionally, beads were made from bone, wood, and seeds, then increasingly from glass beads acquired through trade. Beaded ornaments indicate age, status, marital condition, and aesthetic preferences. Beadwork is worn by both men and women, though women typically wear more elaborate beadwork. Traditional beadwork patterns and colors carry cultural meaning and regional variation.

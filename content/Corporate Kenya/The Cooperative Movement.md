@@ -1,5 +1,3 @@
-# The Cooperative Movement
-
 [[Kenya]]'s [[cooperative movement Kenya|cooperative movement]] is one of [[Africa]]'s most developed. Over 14,000 [[cooperatives Kenya|cooperatives]] ([[coffee Kenya|coffee]], [[tea Kenya|tea]], [[dairy Kenya|dairy]], [[agricultural input Kenya|agricultural input]], [[SACCO Kenya|SACCO]], [[housing Kenya|housing]], and others) serve millions of [[members Kenya|members]] with combined assets exceeding KES 1 trillion.
 
 ## Historical Development

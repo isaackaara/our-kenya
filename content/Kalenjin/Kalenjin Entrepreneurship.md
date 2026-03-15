@@ -1,5 +1,3 @@
-# Kalenjin Entrepreneurship
-
 While Kalenjin identity is globally associated with distance running excellence, the community has developed substantial entrepreneurial activity across dairy, agriculture, trade, construction, and financial services. Kalenjin business leaders operate at multiple scales, from subsistence farmers diversifying into commerce to corporate executives managing major Kenyan enterprises.
 
 ## Mursik and Dairy Entrepreneurship

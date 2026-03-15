@@ -1,5 +1,3 @@
-# Kamba and Colonialism
-
 The Kamba experience of colonialism was distinctive in comparison to neighboring communities. While not escaping colonial extraction and control, the Kamba were initially more accommodating to British rule than [[../Kikuyu/Kikuyu|Kikuyu]], partly due to their history of trade exposure to foreign merchants. However, the 1938 destocking crisis (when the colonial government ordered massive forced cattle culling) provoked one of the largest pre-Mau Mau resistance movements in Kenya, demonstrating that even relatively compliant communities had limits to their tolerance of colonial coercion.
 
 ## Key Facts

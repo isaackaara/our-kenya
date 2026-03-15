@@ -1,5 +1,3 @@
-# Dholuo Language
-
 Dholuo is the language spoken by the Luo people of Kenya and Tanzania. It belongs to the Western Nilotic branch of the Nilo-Saharan language family, placing it in a linguistic family that stretches from Sudan through East Africa. Dholuo is the primary language of communication for approximately 5.2 million speakers, making it one of East Africa's major languages, though endangered in some urban and diaspora contexts.
 
 ## Linguistic Classification and Related Languages

@@ -1,5 +1,3 @@
-# Luo Social Structure
-
 Luo society is organized in concentric rings of kinship, from the family (doho) through village (gweng), clan (oganda or anyuola), and ultimately the entire Luo nation. This system was managed by councils of elders (jodongo) whose authority derived from age, wisdom, and lineage, not coercive force. The absence of circumcision as a cultural marker fundamentally distinguished Luo identity from neighboring Bantu and Cushitic groups.
 
 ## Key Facts

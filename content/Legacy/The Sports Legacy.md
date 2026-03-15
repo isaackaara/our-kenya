@@ -1,5 +1,3 @@
-# The Sports Legacy
-
 Kenya is globally renowned for distance running. Kenyan runners dominate the 5,000m, 10,000m, marathon, and half-marathon events. This is not random. The dominance is the product of specific conditions that emerged in postcolonial Kenya.
 
 Altitude training is part of the story. Running at high altitude builds aerobic capacity. The Rift Valley, where many of Kenya's champions are from, sits at 2,000+ meters. Kikuyu and Kalenjin communities in these regions have a tradition of running. But altitude and culture alone do not explain the success.

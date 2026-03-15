@@ -1,5 +1,3 @@
-# Migori Health
-
 The Migori County health system includes public health facilities and limited private healthcare. The system operates with significant resource constraints and heavy disease burden.
 
 ## Primary Health Facilities

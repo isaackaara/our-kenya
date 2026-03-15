@@ -1,5 +1,3 @@
-# Homa Bay Notable People
-
 Homa Bay County has produced nationally and internationally recognized individuals who have contributed to Kenya's political, intellectual, economic, and cultural development.
 
 ## Tom Mboya

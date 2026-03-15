@@ -1,5 +1,3 @@
-# The Director of Public Prosecutions: Gatekeeper of Justice
-
 ## The Role
 
 The Director of Public Prosecutions (DPP) is the chief prosecutor in Kenya. The DPP has authority to prosecute all criminal cases, including corruption cases.

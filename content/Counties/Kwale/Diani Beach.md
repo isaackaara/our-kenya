@@ -1,5 +1,3 @@
-# Diani Beach
-
 Diani Beach is Kenya's most famous beach resort, stretching approximately 25 kilometers along the coast south of Mombasa. The beach has become synonymous with Kenya's tourism industry, attracting thousands of international visitors annually and generating substantial foreign exchange. Fine white sand, clear turquoise waters, and reliable sunshine make Diani the centerpiece of Kenya's coastal tourism economy.
 
 The beach's development as a tourist destination began in the 1960s following Kenyan independence. Early hotels were modest, but by the 1980s and 1990s, international resort chains recognized Diani's potential. Today, the beach hosts numerous all-inclusive resorts ranging from budget lodges to five-star properties. These resorts provide employment for thousands of Kenyans, from hotel managers to waiters, cleaners, and maintenance staff. Tourism generates income that ripples through the entire coastal economy, supporting restaurants, shops, and transportation services.

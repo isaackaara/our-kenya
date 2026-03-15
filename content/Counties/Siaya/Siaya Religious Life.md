@@ -1,5 +1,3 @@
-# Siaya Religious Life
-
 [[Siaya County]] represents a predominantly Christian region with deep missionary history and contemporary Christian institutional presence. Christian faith coexists with traditional [[../../Luo/Luo|Luo]] spiritual beliefs and practices, creating a syncretic religious landscape.
 
 ## Christian Denominations

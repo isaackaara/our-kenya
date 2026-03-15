@@ -1,5 +1,3 @@
-# Diani Beach: Kenya's Premier Beach Resort
-
 Diani Beach, located approximately 30 kilometers south of Mombasa Island, is Kenya's most famous and developed beach resort destination. The beach stretches for about 25 kilometers along the Indian Ocean coast and features white sand, warm clear waters, and abundant coral reef life.
 
 ## Development and Tourism Infrastructure

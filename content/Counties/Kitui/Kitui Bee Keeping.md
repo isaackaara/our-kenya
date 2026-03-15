@@ -1,5 +1,3 @@
-# Kitui Bee Keeping
-
 Beekeeping in Kitui County's forests represents both a traditional livelihood and a modern economic enterprise. The practice integrates honey production with forest conservation, creating income while maintaining forest resources. Kitui's forest vegetation provides suitable habitat for diverse bee species and honey-producing activities.
 
 Traditional beekeeping involves identifying wild bee colonies in forest trees and harvesting honey using local knowledge and practices. Beekeepers recognize seasonal flowering patterns and bee behaviour, enabling sustainable honey harvesting. Traditional methods produce honey valued for quality and distinctive taste.

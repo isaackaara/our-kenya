@@ -1,5 +1,3 @@
-# Kericho Politics
-
 Kericho County's political history reflects broader patterns of Kenya's post-independence development, with significant local variation in political leadership and governance priorities. The county has produced several prominent national politicians, whose influence extended beyond regional boundaries. Political competition in Kericho has historically centred on ethnic ([[../../Kalenjin/Kalenjin|Kipsigis]]) solidarity, developmental priorities, and relationships with the tea industry.
 
 Electoral contests regularly feature debates about land redistribution, workers' rights, infrastructure development, and resource allocation. The tea industry's economic importance makes agricultural and trade policy central to local political discourse. Since the introduction of devolved government in 2013, county-level politics have gained prominence, with governors and county assemblies gaining new powers over local services, planning, and economic development. Political patronage networks often distribute government resources to constituencies and wards based on electoral support, shaping the geography of development projects.

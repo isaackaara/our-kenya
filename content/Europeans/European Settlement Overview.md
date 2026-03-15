@@ -1,5 +1,3 @@
-# European Settlement Overview
-
 The presence of Europeans in Kenya spans nearly two centuries, from initial missionary expeditions in the 1840s through the establishment of a substantial settler colonial society, and into a contemporary diaspora community. The arc of this presence defines much of Kenya's modern political, economic, and social history.
 
 ## Timeline of European Presence

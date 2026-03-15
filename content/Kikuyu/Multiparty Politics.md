@@ -1,5 +1,3 @@
-# Multiparty Politics
-
 The arc from single-party state to genuine political competition spans 1991 to 2002 in Kenya, bookended by the repeal of Section 2A, the constitutional clause that made KANU the sole legal party, and the first transfer of power between parties in December 2002. For the Kikuyu, this period was one of democratic resistance against the [[Daniel arap Moi Era]] and frustrated hopes: the opposition repeatedly failed to unify, allowing Moi to win two elections with minority support.
 
 ## Key Facts

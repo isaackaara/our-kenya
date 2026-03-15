@@ -1,5 +1,3 @@
-# Swahili Civilization Knowledge Graph
-
 Complete index of the Swahili vertical covering the East African coastal civilization from approximately 800 CE to the present. This [[Swahili|knowledge base]] explores the history, culture, and contemporary issues of [[Swahili]] civilization across the Indian Ocean coast.
 
 ## Overview

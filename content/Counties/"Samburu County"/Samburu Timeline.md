@@ -1,5 +1,3 @@
-# Samburu County Timeline
-
 ## Historical Timeline
 
 1890s,1900s: British colonial forces establish control over northern territories through military expeditions and administrative occupation. Samburu region becomes part of colonial administration.

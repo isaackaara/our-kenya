@@ -1,5 +1,3 @@
-# Nubian Community Kenya
-
 The [[Nubian community]] in Kenya is distinct from the South Asian communities that form the core of Kenya's Asian population. Nubians are descendants of Sudanese soldiers who served in the British colonial [[Kenya African Rifles]] (KAR), a military unit. These soldiers were settled in [[Kibera]] (Nairobi) beginning in 1904. The Nubian community has maintained distinctive identity, language, and culture while also integrating into Kenyan society. Contemporary Nubians face particular challenges regarding land rights in Kibera.
 
 ## Historical Origins and the KAR

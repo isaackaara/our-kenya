@@ -1,5 +1,3 @@
-# [[../../Maasai/Maasai|Maasai]] in Narok
-
 [[../../Maasai/Maasai|Maasai]] people form the dominant cultural and demographic community of Narok County, with a population of several hundred thousand who maintain pastoral traditions, land ownership claims, and cultural practices rooted in centuries of settlement in the region.
 
 The Maasai relationship with Narok has evolved significantly from exclusive pastoralist control to complex interactions with wildlife conservation, tourism development, and modern governance structures.

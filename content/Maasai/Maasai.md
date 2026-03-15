@@ -1,5 +1,3 @@
-# Maasai: The Most Visible Yet Misunderstood
-
 ## Opening: Icon vs. Insider Reality
 
 The Maasai are Kenya's most internationally recognized ethnic group. Their image dominates global imaginaries of Africa(red ochre bodies, braided warriors, the jumping moran). Yet this very fame masks profound marginalization.

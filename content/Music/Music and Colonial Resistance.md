@@ -1,5 +1,3 @@
-# Music and Colonial Resistance
-
 Throughout Kenya's colonial period, music functioned as a vehicle for protest, solidarity, and resistance. While colonial authorities could ban newspapers, arrest political leaders, and suppress organizations, music moved more fluidly, carrying coded messages, maintaining cultural pride, and building collective consciousness even under surveillance.
 
 The resistance songs of the colonial period operated on multiple levels simultaneously. On the surface, they appeared innocuous: love songs, work songs, celebrations of traditional life. Beneath this surface, layered meanings communicated political messages to those who knew how to listen. This double-coding allowed musicians to evade [[Music/Colonial Music Censorship Kenya|censorship]] while still performing resistance.

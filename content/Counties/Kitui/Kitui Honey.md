@@ -1,5 +1,3 @@
-# Kitui Honey
-
 Kitui County is one of Kenya's major honey-producing regions, with forest honey collection and beekeeping generating significant income for rural communities. The county's diverse vegetation and forests provide suitable habitat for honey-producing bee species. Honey production represents an important non-timber forest product.
 
 Forest honey collection represents traditional livelihood practice in Kitui. Beekeepers identify wild bee colonies in forest trees and collect honey using traditional methods. Forest honey is valued for superior taste and quality, commanding premium prices in markets.

@@ -1,5 +1,3 @@
-# Homa Bay Land Issues
-
 Land tenure and land-related conflicts represent significant governance challenges in Homa Bay County, affecting livelihood security and development. Land tenure systems combine customary, statutory, and semi-formal arrangements.
 
 ## Customary Land Tenure

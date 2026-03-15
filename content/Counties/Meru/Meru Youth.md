@@ -1,5 +1,3 @@
-# Meru Youth
-
 Meru County's youth face persistent challenges of unemployment and limited economic opportunities, driving rural-to-urban migration patterns. Youth unemployment remains stubbornly high despite educational attainment. The miraa trade has provided informal employment for some youth, though precarious earnings create long-term economic uncertainty. Urban migration, particularly to Nairobi, represents a coping strategy for underemployed rural youth.
 
 ## Employment Challenges

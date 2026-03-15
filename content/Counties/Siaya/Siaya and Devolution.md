@@ -1,5 +1,3 @@
-# Siaya and Devolution
-
 Kenya's 2010 constitutional devolution transferred significant governance responsibilities to county governments, including [[Siaya County]]. Devolution established directly elected county governments responsible for service delivery, development planning, and local governance.
 
 ## County Government Structure

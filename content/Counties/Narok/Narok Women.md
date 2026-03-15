@@ -1,5 +1,3 @@
-# Narok Women
-
 Narok women, primarily from [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] community, have maintained distinctive economic roles centered on livestock care, household management, and beadwork production while increasingly engaging with tourism and market-based activities in contemporary contexts.
 
 ## Traditional Economic Roles

@@ -1,5 +1,3 @@
-# Meru and Climate Change Adaptation
-
 ## Climate Change Impacts on Meru
 
 ### Temperature and Precipitation Changes

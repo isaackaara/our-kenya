@@ -1,5 +1,3 @@
-# Taita and Wildlife
-
 The Taita community's relationship with the wildlife of the surrounding Tsavo ecosystem is complex, characterized by both cultural coexistence and contemporary human-wildlife conflict. Community participation in wildlife management has become increasingly important.
 
 ## Traditional Wildlife Relationships

@@ -1,5 +1,3 @@
-# Samburu Pastoralism
-
 [[Samburu]] pastoralism represents an adaptive livelihood strategy for semi-arid environments, organized around [[Samburu Cattle Culture|cattle]], [[Samburu Camel Use|camel]], and goat herds. Seasonal migration, herd diversification, and social institutions enable resource access and risk management. Contemporary pressures from [[Samburu Climate Change|climate change]] and land loss threaten pastoral viability.
 
 ## Livestock Species and Herd Composition

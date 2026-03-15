@@ -1,5 +1,3 @@
-# Lake Nakuru National Park
-
 Lake Nakuru National Park protects the soda lake and surrounding ecosystem in Kenya's Rift Valley. The park is famous for its massive flamingo populations, which create the distinctive pink lake appearance. Nakuru has transitioned from a flamingo sanctuary to a [[Kenya as Global Conservation Model|rhino conservation area]], demonstrating ecosystem dynamics and conservation strategy shifts.
 
 ## Geography and Ecology

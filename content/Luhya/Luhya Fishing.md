@@ -1,5 +1,3 @@
-# Luhya Fishing
-
 While the Luhya are predominantly farmers and pastoral communities, some Luhya sub-groups maintain significant fishing economies through access to Lake Victoria and its rivers. The Samia, Banyore, and some populations in Busia County have deep-rooted fishing traditions that distinguish them from purely agricultural Luhya communities.
 
 ## Lake Victoria Fishing Communities

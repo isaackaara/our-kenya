@@ -1,5 +1,3 @@
-# Whistleblower Protection Kenya
-
 ## Overview
 
 Kenya has legal frameworks for whistleblower protection through the [[Witness Protection Act]] (2006) and other legislation, but protection is inadequate in practice. Whistleblowers who expose corruption face [[retaliation]], witness intimidation, and inadequate legal support. The case of [[John Githongo]], who exposed corruption at the highest levels of government and fled to exile in the United Kingdom, illustrates the gap between legal protection and actual safety for whistleblowers.

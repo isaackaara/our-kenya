@@ -1,5 +1,3 @@
-# Luhya Cattle and Livestock
-
 Cattle holding is central to Luhya culture and economy, representing wealth, status, and social standing. The prestige and value of cattle extend far beyond their economic utility as sources of meat, milk, and manure, reaching into marriage arrangements, social relationships, and cosmological beliefs.
 
 ## Cattle as Bridewealth

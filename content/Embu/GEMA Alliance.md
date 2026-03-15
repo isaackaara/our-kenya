@@ -1,5 +1,3 @@
-# GEMA Alliance
-
 The GEMA (Gikuyu, Embu, Meru Association) alliance represents a political and cultural coalition of three Mount Kenya Bantu communities. GEMA has functioned as a mutual aid association, cultural organization, and political bloc from the colonial period through contemporary times, shaping regional [[Embu and National Politics]] and national political alignments.
 
 ## Origins and Early Development

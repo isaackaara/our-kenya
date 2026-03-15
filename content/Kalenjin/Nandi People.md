@@ -1,5 +1,3 @@
-# Nandi People
-
 The Nandi are a major sub-group of the Kalenjin and constitute one of the most historically significant communities in the Rift Valley. With a population of nearly one million, [[Kalenjin|Kalenjin]] have left an indelible mark on Kenyan history through resistance to colonialism, contributions to global athletics, and their distinctive cultural traditions.
 
 ## Territory and Geography

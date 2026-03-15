@@ -1,5 +1,3 @@
-# Laikipia Health
-
 Healthcare in Laikipia County comprises public facilities, private clinics, and traditional practitioners. The county hospital provides tertiary care. Health centers and dispensaries offer primary healthcare. Private clinics supplement public services in towns. Healthcare coverage has expanded though access and quality challenges persist. Pastoral communities face particular healthcare access challenges. Maternal and child health services remain important priorities.
 
 ## Public Health System

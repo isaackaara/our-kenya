@@ -1,5 +1,3 @@
-# Ruto and Gachagua Impeachment
-
 The impeachment of Vice President Rigathi Gachagua in October 2024 represented a significant political upheaval in [[William Ruto]]'s presidency. Gachagua, a Kikuyu politician and political ally who had been elected alongside Ruto, faced impeachment allegations related to corruption and abuse of office. The impeachment process, conducted by the Kenyan parliament, resulted in Gachagua's removal from office. The impeachment exposed tensions within Ruto's political coalition and raised questions about governance stability.
 
 Gachagua had been a prominent political figure in Kikuyu-dominated regions and had played significant roles in previous administrations. His partnership with Ruto appeared to bridge Kalenjin and Kikuyu political communities. However, tensions between the two leaders emerged during Ruto's presidency, with Gachagua perceived as building independent political bases within Kikuyu communities. These tensions eventually led to the impeachment process and Gachagua's removal from office.

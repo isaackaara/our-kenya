@@ -1,5 +1,3 @@
-# Kakamega County
-
 Kakamega County is Kenya's most densely populated rural county, located in western Kenya with a population of approximately 1.9 million people. The county is the heartland of the [[../../Luhya/Luhya|Luhya]] people, particularly the Isukha, Idakho, and Tiriki sub-groups. It serves as a major agricultural hub with sugarcane as the dominant cash crop, while also containing Kakamega Forest, Kenya's only tropical rainforest. Kakamega town functions as the largest urban centre in western Kenya and the county headquarters.
 
 ## Key Characteristics

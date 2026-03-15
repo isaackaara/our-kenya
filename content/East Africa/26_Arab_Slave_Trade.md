@@ -1,5 +1,3 @@
-# The Arab Slave Trade Routes
-
 The 19th century [[Arab Slave Trade]] represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of [[East African Community]] and Central Africa to the coast at [[Zanzibar Revolution|Zanzibar]]. The routes passed through Kenyan territory, profoundly impacting interior communities.
 
 ## The Slave Trade System

@@ -1,5 +1,3 @@
-# Migori Agriculture
-
 Agriculture provides the primary livelihood for inland populations in Migori County, though productivity remains limited by climate variability and input constraints. The agricultural sector is based primarily on smallholder subsistence production.
 
 ## Primary Crops

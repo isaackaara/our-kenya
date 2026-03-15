@@ -1,5 +1,3 @@
-# Tachoni
-
 The Batachoni are one of the 18 Luhya sub-groups, located primarily in the borderlands of Bungoma and Kakamega counties in western Kenya. They are known for a distinct identity within the larger Luhya confederation, characterized by a unique dialect, warrior traditions, and historical ties to the Bukusu.
 
 ## Location and Geography

@@ -1,5 +1,3 @@
-# Kamba Kilumi Dance
-
 The *Kilumi* is the most important ceremonial dance in Kamba culture, performed to invoke rain, heal communities, and restore spiritual balance. The dance is associated with spirit possession and divination, and was traditionally performed during times of communal misfortune or when the community needed to communicate with the spirit realm.
 
 ## Sacred Significance and Purpose

@@ -1,5 +1,3 @@
-# Machakos Water
-
 Water scarcity represents the most critical development challenge facing Machakos County, with chronic insufficiency of reliable water supply for human consumption, livestock, and agriculture. The semi-arid climate and variable rainfall create persistent water deficits, while growing population increases demand.
 
 Groundwater supplies constitute the primary water source for much of Machakos County. Boreholes and shallow wells provide household and community water access in areas where groundwater is accessible. However, groundwater quality varies, with some areas experiencing high salinity unsuitable for drinking or irrigation. Groundwater depletion from over-extraction threatens long-term availability in some locations.

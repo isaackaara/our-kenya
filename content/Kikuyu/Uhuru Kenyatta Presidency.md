@@ -1,5 +1,3 @@
-# Uhuru Kenyatta Presidency
-
 Uhuru Muigai Kenyatta (born 26 October 1961) served as Kenya's fourth President from April 2013 to September 2022. The son of the founding father [[Jomo Kenyatta]], his presidency combined the weight of dynastic expectation, the jeopardy of International Criminal Court charges, a controversial second electoral cycle, and a late political realignment with his long-time rival Raila Odinga that upended the ethnic logic of Kenyan politics.
 
 ## Key Facts

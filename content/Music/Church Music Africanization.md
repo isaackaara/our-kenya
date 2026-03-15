@@ -1,5 +1,3 @@
-# Church Music Africanization
-
 The process by which African musicians adapted Western hymns, created new harmonies, and ultimately claimed sacred music as their own represents one of the most significant cultural transformations in Kenya's colonial and post-colonial history. Church music Africanization was not simply translation but creative reimagining that produced distinctly Kenyan forms of Christian worship.
 
 [[Music/European Missionary Music in Kenya|European missionary music]] arrived in Kenya with explicit goals of cultural transformation. Missionaries intended hymns to replace "pagan" musical practices and instill European aesthetic and spiritual values. Yet African musicians and congregations proved active agents rather than passive recipients, transforming what they received into something new.

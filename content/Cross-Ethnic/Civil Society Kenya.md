@@ -1,5 +1,3 @@
-# Civil Society Kenya
-
 Non-governmental organizations and [[Cross-Ethnic Kenya|civil society organizations]] operating in Kenya function as [[Cross-Ethnic Kenya|cross-ethnic institutions]]. Organizations including the Kenya Human Rights Commission, Transparency International Kenya, the Law Society of Kenya, and others work across ethnic lines toward common goals of human rights, anti-corruption, and social justice. These organizations transcend ethnic boundaries through focusing on universal principles and shared institutional missions.
 
 The Kenya Human Rights Commission, established in 1992 at the transition to multiparty politics, has operated as a cross-ethnic organization advocating for human rights protection. The commission's staff includes people from diverse ethnic backgrounds. The commission's mandate encompasses all Kenyans regardless of ethnicity. The organization's work has involved investigating human rights abuses committed by all actors and advocating for accountability regardless of the ethnicity of perpetrators or victims.

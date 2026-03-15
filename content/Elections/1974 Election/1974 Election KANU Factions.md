@@ -1,5 +1,3 @@
-# 1974 Election KANU Factions
-
 The KANU party in 1974 was not monolithic. Internal factions, regional groupings, and patron-client networks gave KANU an internal structure that shaped electoral outcomes and parliamentary dynamics. The party provided a framework for national politics, but within that framework, distinct political groups competed for influence and resources.
 
 Kikuyu politicians formed a significant faction within KANU. The Kikuyu dominated the government and held a disproportionate share of ministerial positions. The concentration of Kikuyu power reflected both Kenyatta's own Kikuyu identity and the fact that many of Kenya's founding nationalist leaders were Kikuyu. Kikuyu interests and Kikuyu unity were important factors in Kikuyu electoral politics.

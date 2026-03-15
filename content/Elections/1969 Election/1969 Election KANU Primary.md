@@ -1,5 +1,3 @@
-# 1969 Election KANU Primary
-
 In a single-party electoral system where KANU was the only legal party, the KANU primary elections became the site of real electoral competition. Party members competed for nomination as KANU candidates, and winning the primary nomination effectively guaranteed election to parliament, since all nominees would be elected as part of KANU's unopposed slate. The primary system thus transferred the mechanism of electoral choice from the general election to the intra-party primary contest.
 
 The KANU primaries attracted substantial participation and revealed internal party dynamics and factional competition. The primaries demonstrated that despite KANU's monopoly control over electoral politics, internal competition and disagreement persisted within the party. Candidates with different factional alignments, different regional bases, and different policy perspectives competed for nomination, and the primary results determined which factions and which regional interests would be represented in parliament.

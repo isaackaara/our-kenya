@@ -1,5 +1,3 @@
-# Luo Dance Forms
-
 Luo dance is integral to social occasions, expressing joy, grief, solidarity, and cultural identity. The *orutu* (fiddle) accompanies specific dances. The *dodo* dance and *moo nam* (lake dance) are distinctive Luo forms. Funerals feature celebratory dancing that honours the deceased, embodying the Luo concept that death is transition to ancestral status, not final loss.
 
 ## The Orutu and Associated Dances

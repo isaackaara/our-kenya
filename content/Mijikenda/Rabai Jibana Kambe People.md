@@ -1,5 +1,3 @@
-# Rabai, Jibana, and Kambe People
-
 The [[Rabai]], [[Jibana]], and [[Kambe]] are three [[Mijikenda]] sub-groups residing in Kilifi County and the Mombasa hinterland. These groups maintain distinct identities while participating in the broader [[Mijikenda]] cultural and linguistic networks. The [[Rabai]] hold particular historical significance as the site of the first Christian mission on the Kenya mainland.
 
 ## Rabai

@@ -1,5 +1,3 @@
-# Luo and Urban Economy
-
 Luo in Nairobi have historically concentrated in government service, journalism, and teaching. These professions capitalised on the Luo emphasis on education and the verbal skills associated with Luo culture. The Luo presence in Nairobi's Eastlands (Makadara, Umoja, Dandora) remains significant. The boda boda (motorcycle taxi) economy features substantial Luo representation. Market trading and informal commerce offer livelihoods for many Luo in urban areas.
 
 ## Government Service and Professional Employment

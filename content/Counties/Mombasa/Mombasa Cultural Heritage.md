@@ -1,5 +1,3 @@
-# Mombasa's Cultural Heritage: UNESCO Sites and Swahili Legacy
-
 Mombasa is recognized as a center of Swahili cultural heritage, with UNESCO World Heritage Site designations reflecting the city's historical and cultural significance. The city preserves centuries of cultural synthesis and Indian Ocean cosmopolitanism.
 
 ## UNESCO World Heritage Sites

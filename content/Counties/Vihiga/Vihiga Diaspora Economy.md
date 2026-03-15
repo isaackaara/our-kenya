@@ -1,5 +1,3 @@
-# Vihiga Diaspora Economy
-
 The Maragoli diaspora sends substantial remittances from Nairobi, Mombasa, and international destinations, creating an economy heavily dependent on diaspora income transfers. Remittances support household consumption, education, healthcare, and agricultural investments. The diaspora economy reflects both constraint (limited local opportunity) and opportunity (diaspora employment and earning). Diaspora connections are maintained through regular communication and periodic home visits.
 
 ## Diaspora Distribution

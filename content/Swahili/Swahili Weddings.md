@@ -1,5 +1,3 @@
-# Swahili Weddings
-
 [[Swahili]] wedding traditions are elaborate, multi-day ceremonies featuring distinctive rituals, music ([[Taarab Music|taarab]]), dancing ([[Ngoma Dance|ngoma]]), feasting, and the participation of extended family and community networks. The tradition places great emphasis on women's roles and networks, with female family members coordinating much of the celebration and providing support for the bride. Weddings represent major social events and economic investments within [[Swahili Civilization Overview|Swahili culture]].
 
 ## The Multiple Ceremonies

@@ -1,5 +1,3 @@
-# Gender and the State
-
 The relationship between gender and the Kenyan state is rooted in colonial law. The colonial state, based on British law, treated women as legal dependents of men. The state did not recognize women as full legal subjects.
 
 Independence changed the law in some respects but did not fully address the legal subordination of women. Marriage law continued to privilege men. Land law continued to make it difficult for women to own land. Women's legal capacity remained limited.

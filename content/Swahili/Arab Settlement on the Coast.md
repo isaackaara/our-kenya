@@ -1,5 +1,3 @@
-# Arab Settlement on the Coast
-
 Arab traders and settlers began arriving on the East African coast as early as the 8th century CE, establishing the foundations for [[Islam on the Swahili Coast|Islamic influence]] and the synthesis of Arab and African cultures that became distinctively [[Swahili]]. The early Arab presence was primarily commercial and religious, involving merchants seeking [[The Indian Ocean World|trade opportunities]] and Islamic teachers spreading their faith.
 
 ## Early Arab Traders

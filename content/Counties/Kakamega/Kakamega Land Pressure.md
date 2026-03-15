@@ -1,5 +1,3 @@
-# Kakamega Land Pressure
-
 Kakamega County experiences extreme land pressure resulting from exceptionally high population density combined with limited arable land availability. Population growth through natural increase and historical in-migration has led to progressive land subdivision through inheritance, reducing average holding sizes to levels inadequate for viable agricultural production. This situation creates profound social, economic, and environmental consequences shaping contemporary development challenges.
 
 ## Land Subdivision and Fragmentation

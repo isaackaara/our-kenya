@@ -1,5 +1,3 @@
-# West Pokot NGOs
-
 Numerous non-governmental organizations (NGOs) operate in West Pokot County, supporting peace, development, and humanitarian initiatives. International NGOs provide funding and technical expertise for county development programs. Local NGOs implement development and humanitarian activities with community engagement. Peace and conflict resolution NGOs work to reduce raiding and inter-communal violence. Development NGOs support water, health, education, and livelihood programming. Humanitarian NGOs provide emergency assistance during pastoral crises and droughts. Community-based organizations (CBOs) represent specific communities and coordinate local development. Religious organizations operate schools, health facilities, and social welfare programs. Advocacy organizations promote pastoral rights and climate justice. Research institutions study pastoral systems and conflicts. University partnerships support research and training.
 
 ## Focus Areas and Interventions

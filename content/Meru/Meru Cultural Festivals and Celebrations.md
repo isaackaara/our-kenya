@@ -1,5 +1,3 @@
-# Meru Cultural Festivals and Celebrations
-
 ## Traditional Ceremonial Celebrations
 
 ### Age Group Initiations

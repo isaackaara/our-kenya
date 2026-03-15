@@ -1,5 +1,3 @@
-# Makueni and the [[../../Kamba/Kamba|Kamba]]
-
 The Kamba people are the dominant ethnic group in Makueni County, forming the cultural foundation and primary population. The Kamba (also spelled Akamba) of Makueni share linguistic, cultural, and kinship ties with Kamba populations in neighbouring Machakos County, though distinct regional variations in dialect and cultural practice exist. Makueni represents the southern Kamba heartland.
 
 Kamba society in Makueni has traditionally organized through clan systems, age grades, and leadership structures. Traditional authority rested with councils of elders who resolved disputes, managed resources, and provided community guidance. These institutions have adapted to modern governance structures while retaining influence in some contexts.

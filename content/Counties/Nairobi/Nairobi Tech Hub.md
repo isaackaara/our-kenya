@@ -1,5 +1,3 @@
-# Nairobi's Tech Sector: Silicon Savannah
-
 Nairobi has emerged as East Africa's primary center for technology innovation and entrepreneurship, earning the nickname "Silicon Savannah." The city hosts a vibrant startup ecosystem, venture capital firms, tech incubators, and a growing community of software developers and digital entrepreneurs.
 
 ## The iHub and Early Ecosystem

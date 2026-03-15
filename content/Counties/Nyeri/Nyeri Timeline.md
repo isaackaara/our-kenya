@@ -1,5 +1,3 @@
-# Nyeri Timeline
-
 1900s: British colonial administration establishes Nyeri District as administrative center.
 1905-1920s: Christian missionaries establish schools and churches.
 1950-1960: Mau Mau uprising; Nyeri is epicenter of anti-colonial resistance. Dedan Kimathi leads forest fighters. British counterinsurgency operations.

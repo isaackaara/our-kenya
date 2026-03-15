@@ -1,5 +1,3 @@
-# Nyamira Notable People
-
 Nyamira County has produced various notable individuals contributing to Kenya's development across political, business, academic, and social sectors. These individuals represent diverse fields and have shaped their communities.
 
 ## Political Leaders

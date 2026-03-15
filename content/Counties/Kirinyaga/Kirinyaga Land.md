@@ -1,5 +1,3 @@
-# Kirinyaga Land
-
 Land in Kirinyaga County remains highly valued due to its agricultural productivity and proximity to [[../../Conservation/Mount Kenya National Park|Mount Kenya]]. Land tenure reflects a complex history of colonial alienation, [[../../Kikuyu/Kikuyu|Kikuyu]] claims to ancestral lands, post-independence redistribution, and current smallholder ownership. The agricultural value of land drives its market price, making land ownership a path to wealth. However, land pressure and subdivision among heirs has led to ever-smaller farm sizes.
 
 ## Historical Land Tenure

@@ -1,5 +1,3 @@
-# 1988 Election Church Response
-
 Churches in Kenya responded to the 1988 election with criticism and calls for democratic reform. The National Council of Churches of Kenya (NCCK) criticized the election and the mlolongo system. Catholic bishops spoke out against electoral fraud. Individual church leaders, including Timothy Njoya, called for democratic governance and multiparty democracy. Churches began to emerge as focal points of opposition to one-party rule. The church's criticism of the 1988 election was significant because it demonstrated that even traditionally cautious institutions would challenge the government when electoral manipulation became too brazen.
 
 ## See Also

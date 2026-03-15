@@ -1,5 +1,3 @@
-# Maragoli
-
 The Maragoli are a Luhya sub-group inhabiting [[../Counties/Vihiga/Vihiga County|Vihiga County]] in the central Luhya region. Despite occupying the smallest territorial area among Luhya sub-groups, Maragoli maintains the highest population density in the region. They are distinguished by early and enthusiastic adoption of Christian missionary education (particularly through Quaker missions) and have produced a disproportionately large number of Kenya's educated professionals, teachers, lawyers, and intellectuals relative to their population size.
 
 ## Key Facts

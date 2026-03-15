@@ -1,5 +1,3 @@
-# Cuban Music Influence via Congo
-
 One of the most remarkable musical journeys of the 20th century saw Cuban son and bolero travel across the Atlantic to Congo, undergo transformation, and then return to East Africa as [[Music/Congolese Rumba Arrives in Kenya|Congolese rumba]], profoundly shaping Kenyan dance floors. This circular route illuminates how African diaspora music reconnected with the continent through unexpected pathways.
 
 The Cuban connection began in the 1940s when Congolese musicians encountered Cuban records, primarily son and rumba, in Leopoldville (now Kinshasa) and Brazzaville. The music arrived through Belgian colonial networks; European record companies distributed Cuban recordings in Africa, often marketing them as exotic Latin sounds. What these companies did not fully appreciate was the underlying African musical DNA in Cuban music.

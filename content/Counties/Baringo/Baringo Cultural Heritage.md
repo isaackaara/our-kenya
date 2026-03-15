@@ -1,5 +1,3 @@
-# Baringo Cultural Heritage
-
 Baringo County's cultural heritage centers on Tugen pastoral traditions, ceremonial practices, artistic expressions, and knowledge systems accumulated across centuries of settlement in the Rift Valley. Tugen cultural practices continue despite modernization pressures and cultural change.
 
 ## Pastoral Knowledge Systems

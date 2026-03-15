@@ -1,5 +1,3 @@
-# Dedan Kimathi
-
 Dedan Kimathi Waciuri (31 October 1920, 18 February 1957) was the most famous commander of the [[Kenya Land and Freedom Army]], holding the self-styled rank of Field Marshal. A Nyeri-born Kikuyu who worked as a teacher and clerk before joining the forest fighters, Kimathi became the symbolic centre of the armed resistance, brilliant, ruthless, charismatic, and ultimately betrayed. He was captured in October 1956, tried, and hanged by the British colonial government on 18 February 1957.
 
 ## Key Facts

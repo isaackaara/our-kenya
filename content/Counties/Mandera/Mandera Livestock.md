@@ -1,5 +1,3 @@
-# Mandera Livestock
-
 Livestock production is the foundation of Mandera's economy and livelihoods, with pastoral herding being the primary productive activity for the majority of the population. The county's arid environment supports pastoralism better than agriculture, and pastoral production generates food, income, and wealth for pastoral households. However, livestock production is increasingly constrained by climate variability, resource scarcity, disease, and market challenges.
 
 ## Livestock Population and Species

@@ -1,5 +1,3 @@
-# Tabaka Village
-
 Tabaka village, located in southern [[Kisii County.md|Kisii County]], is internationally renowned as the center of Kenya's soapstone carving industry. The village and surrounding areas produce the majority of Kenya's soapstone sculptures and carvings that are exported worldwide.
 
 ## Location and Setting

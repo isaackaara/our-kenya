@@ -1,5 +1,3 @@
-# [[Cassava]] in Coastal Kenya
-
 Cassava (muhogo in [[Swahili]] and local languages) is the staple food crop of the [[Mijikenda]] and broader coastal Kenya. This hardy root crop, originally domesticated in tropical America and brought to Africa through Portuguese traders, became the foundation of coastal [[food security]]. Cassava's adaptability to sandy coastal soils, its tolerance of variable rainfall, and its high carbohydrate yield made it ideal for the coastal environment.
 
 ## Cassava as Staple Crop

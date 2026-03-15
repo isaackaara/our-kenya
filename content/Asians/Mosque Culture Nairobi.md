@@ -1,5 +1,3 @@
-# Mosque Culture Nairobi
-
 Mosques serving [[Muslim Indian Community Kenya|Muslim communities]] ([[Ismaili Muslims|Ismailis]], Sunnis, Bohras, Khojas) operate in Nairobi and other towns. Mosques serve prayer, education, community gathering, and charity. The [[Jamia Mosque]] is the most historic, built by [[A.M. Jeevanjee]] in 1925.
 
 ## The Jamia Mosque

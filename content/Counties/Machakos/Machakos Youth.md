@@ -1,5 +1,3 @@
-# Machakos Youth
-
 Youth in Machakos County face significant challenges related to unemployment, limited economic opportunities, and educational disparities, despite representing a substantial portion of the county population. The youth bulge, resulting from high fertility rates in previous decades, has created large cohorts of young people seeking employment and income opportunities.
 
 Rural youth employment remains limited, with few opportunities in agricultural or other sectors. Many young people migrate to Nairobi and other urban centres seeking wage employment or business opportunities. This rural-to-urban migration represents a survival strategy and aspiration for better livelihoods, though it also creates social challenges including family separation and urban unemployment.

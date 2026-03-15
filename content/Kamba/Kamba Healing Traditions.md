@@ -1,5 +1,3 @@
-# Kamba Healing Traditions
-
 In traditional [[Kamba]] society, the mundu mue (diviner-healer) occupied a central role in maintaining community health through diagnostic divination, herbal medicine preparation, and ritual healing. The mundu mue combined practical botanical knowledge with spiritual authority and social insight, treating illness as simultaneously physical, spiritual, and social phenomenon rooted in [[Kamba Religion and Cosmology|Kamba cosmology]].
 
 ## The Mundu Mue in Practice

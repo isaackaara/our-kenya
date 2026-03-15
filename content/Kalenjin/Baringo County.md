@@ -1,5 +1,3 @@
-# [[../Counties/Baringo/Baringo County|Baringo County]]
-
 Baringo County, located in the arid and semi-arid northern reaches of the Rift Valley, is home to multiple Kalenjin sub-groups, including [[Kalenjin|Kalenjin]] and Pokot. Known as "the land of a thousand views" for its dramatic scenery, Baringo faces distinct development challenges while holding significant ecological and geothermal potential.
 
 ## Geography and Demographics

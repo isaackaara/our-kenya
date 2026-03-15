@@ -1,5 +1,3 @@
-# Garissa Notable People
-
 [[Garissa County|Garissa County]] has produced and hosted individuals of regional and national significance across diverse fields including politics, business, security, humanitarian work, academia, and cultural production. While systematic documentation of notable Garissa figures remains incomplete, several individuals have achieved prominence through achievement in their respective fields or public recognition.
 
 Political leadership from Garissa has included members of parliament, county governors, and government administrators who have shaped Garissa's governance and representation. Garissa County's governors since devolution in 2013 have included individuals whose leadership has affected county development trajectory and institutional capacity. National parliamentarians from Garissa constituencies have represented the county in national politics, advocating for constituent interests and participating in national legislative processes.

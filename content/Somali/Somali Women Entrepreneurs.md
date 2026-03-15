@@ -1,5 +1,3 @@
-# Somali [[Somali Women Entrepreneurs|women entrepreneurs]] in Kenya
-
 Somali women have played a central and often underrecognized role in Kenya's Somali [[Somali Business Networks|business]] community, particularly in [[Eastleigh Economy|Eastleigh]], as merchants, traders, investors, and informal financial managers. Women entrepreneurs have built businesses in textiles, retail, real estate, money transfer, and hospitality, often navigating cultural expectations, male-dominated commercial spaces, and security profiling.
 
 ## Historical Role of Somali Women in Commerce

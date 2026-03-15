@@ -1,5 +1,3 @@
-# Kamba and Mining
-
 [[../Counties/Kitui/Kitui County|Kitui County]], the larger and drier Kamba region, sits atop significant mineral deposits that remain inadequately exploited or controlled by Kamba communities. Mining represents both potential economic opportunity and environmental threat to the pastoral and agricultural Kamba economy.
 
 ## Kitui's Mineral Endowment

@@ -1,5 +1,3 @@
-# Turkana Social Structure
-
 Turkana society is organized around patrilineal descent groups (clans), age-grades, and gerontocratic (elder-based) authority structures. These social institutions organize [[Turkana Pastoralism]] production, defense, decision-making, and [[Turkana-Pokot Conflict]] resolution. Understanding Turkana social organization is essential to understanding Turkana politics, pastoral economy, and cultural identity.
 
 ## Patrilineal Clans (Ekol)

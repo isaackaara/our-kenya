@@ -1,5 +1,3 @@
-# Kisumu Infrastructure: Roads, Rail, Airport, and Port
-
 Kisumu's infrastructure includes road networks, the Standard Gauge Railway connection, an airport, and the [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] port. Infrastructure development is essential for the city's economic future.
 
 ## Road Network

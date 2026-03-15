@@ -1,5 +1,3 @@
-# Mijikenda Overview
-
 The [[Giriama People|Mijikenda]] (meaning "nine villages" or "nine towns" in Bantu) are the largest indigenous community on the Kenya coast, comprising nine related Bantu-speaking ethnic groups. They inhabit the coastal hinterland of Kenya, primarily in Kilifi and Kwale counties, extending along a 200-kilometer stretch from the Tanzania border in the south to the Somali border region in the north.
 
 ## The Nine Sub-Groups

@@ -1,5 +1,3 @@
-# Kamba Religion and Cosmology
-
 Traditional Kamba religious belief centers on Ngai (also known as Mulungu or Asa), a supreme creator deity, combined with veneration of ancestral spirits and the ritual expertise of healers and diviners. Kamba cosmology shares some vocabulary and concepts with neighboring Kikuyu but maintains distinct practices and spiritual emphases.
 
 ## Key Facts

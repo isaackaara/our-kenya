@@ -1,5 +1,3 @@
-# Machakos Infrastructure
-
 Infrastructure development in Machakos County has shaped the county's integration into national markets and the Nairobi metropolitan region. The Nairobi-Mombasa highway, one of East Africa's most important transportation corridors, passes through Machakos, providing road connectivity to Nairobi, coastal ports, and inland regions. This highway facilitates movement of goods, services, and people while supporting commercial activities along the corridor.
 
 The Standard Gauge Railway (SGR), completed between Nairobi and Mombasa in 2017, also passes through Machakos County. The SGR provides high-capacity, modern transportation for freight and passengers, reducing transportation times and costs. Stations along the SGR create new development nodes and change accessibility patterns within the county. The SGR has had mixed effects, improving logistics for some enterprises while disrupting traditional transportation services.

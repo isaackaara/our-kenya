@@ -1,5 +1,3 @@
-# Vivian Cheruiyot: Four World Championship Golds and Olympic Champion
-
 Vivian Cheruiyot is one of Kenya's greatest female distance runners, having won four World Athletics Championships gold medals and an Olympic gold medal in the 5000 meters at the 2016 Rio Olympics. She is among the most successful female Kenyan athletes and has competed at world-class level across nearly two decades, demonstrating exceptional longevity and consistency in elite distance running.
 
 Born in 1983, Cheruiyot emerged as a promising distance runner in the early 2000s. She has competed at multiple World Championships and Olympic Games, gaining experience and improving throughout her career. Her earliest major success came in cross country competitions, where she demonstrated her distance running capability.

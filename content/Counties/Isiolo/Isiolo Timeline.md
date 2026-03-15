@@ -1,5 +1,3 @@
-# Isiolo County Timeline
-
 ## Historical Timeline
 
 1900s,1920s: British colonial administration establishes administrative centres and military installations in the Northern Frontier District, including present-day Isiolo area.

@@ -1,5 +1,3 @@
-# Old Town Mombasa
-
 The Old Town of [[Mombasa]] represents the surviving medieval [[Swahili Architecture|Swahili urban fabric]], with narrow streets, coral stone buildings, elaborately carved wooden doors, and colonial-era architecture. The Old Town reflects centuries of [[Swahili Civilization Overview|Swahili urban development]] and remains one of East Africa's most distinctive urban areas. UNESCO has recognized the Old Town for its architectural and cultural significance.
 
 ## Medieval Urban Fabric

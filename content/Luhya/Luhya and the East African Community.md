@@ -1,5 +1,3 @@
-# Luhya and the East African Community
-
 The East African Community (EAC) is a regional intergovernmental organization comprising East African countries committed to regional integration, free trade, and ultimately political federation. Kenya is a member of the EAC alongside Tanzania, Uganda, Burundi, South Sudan, and the Democratic Republic of Congo. For the Luhya, whose territories border Uganda and include the Busia border region, the EAC has implications for cross-border movement, trade, and community ties.
 
 ## EAC Structure and Kenya's Participation

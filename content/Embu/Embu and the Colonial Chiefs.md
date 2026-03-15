@@ -1,5 +1,3 @@
-# Embu and the Colonial Chiefs
-
 British colonial administration introduced the chief system as the primary governance mechanism in Embu territory. Colonial chiefs were appointed (not traditional leaders, though some were drawn from elite families) and served as intermediaries between colonial administration and local populations. The colonial chief system fundamentally altered Embu governance structures.
 
 ## Colonial Administrative System

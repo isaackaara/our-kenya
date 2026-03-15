@@ -1,5 +1,3 @@
-# Chinese Manufacturing Competition
-
 Chinese manufacturing firms and imports have increasingly competed with [[Kenya]]'s domestic [[manufacturing]] sector since the 1990s. This competition has pressured local producers of textiles, electronics, and consumer goods, reshaping the [[Manufacturing History Kenya|industrial landscape]].
 
 ## See Also

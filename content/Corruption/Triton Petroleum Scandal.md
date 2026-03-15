@@ -1,5 +1,3 @@
-# The Triton Petroleum Scandal: Phantom Oil Supplies and Fraudulent Documentation
-
 ## The Scheme: Oil Supply Fraud
 
 In 2009, it emerged that Triton Petroleum, a private fuel trading company, had been receiving government oil supplies worth billions of shillings using fraudulent documentation. The scheme involved the use of falsified certificates and documents to obtain petroleum products from government-controlled suppliers.

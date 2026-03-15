@@ -1,5 +1,3 @@
-# [[coastal]] [[intellectuals]] and [[writers]]
-
 Mjikenda and other coastal-origin writers, academics, and intellectuals have contributed to Kenyan and African thought, literature, and scholarship. Their work often addresses coastal history, culture, identity, and contemporary issues while engaging broader intellectual currents.
 
 ## Literary Writers

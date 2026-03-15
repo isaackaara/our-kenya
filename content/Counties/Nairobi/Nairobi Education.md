@@ -1,5 +1,3 @@
-# Nairobi's Education Sector: Schools and Universities
-
 Nairobi is the center of Kenya's education system, home to the country's best-performing schools and most prestigious universities. The concentration of educational institutions in the capital has made education an important sector for both local employment and the national economy.
 
 ## Primary and Secondary Schools

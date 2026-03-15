@@ -1,5 +1,3 @@
-# Wajir Peace Initiatives
-
 Wajir County achieved international recognition through the Wajir Women for Peace initiative of the 1990s, a remarkable grassroots peace-building effort demonstrating how local women mobilized to end devastating inter-communal violence. This initiative stands as a globally recognized example of women's peace leadership and community-driven conflict resolution. The success of Wajir's peace initiatives provides models for conflict resolution in pastoral societies facing resource competition and clan divisions.
 
 ## Pre-Initiative Violence

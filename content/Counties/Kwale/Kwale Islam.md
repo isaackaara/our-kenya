@@ -1,5 +1,3 @@
-# Kwale Islam
-
 Islam is the dominant religion in Kwale County, profoundly shaping cultural practices, social institutions, and daily life. Approximately 85 percent of Kwale residents identify as Muslim, making the county one of Kenya's most predominantly Islamic regions. The Islamic tradition on the coast has deep historical roots, arriving centuries ago through Arab and Persian traders and becoming interwoven with local Bantu cultures to create distinctive coastal Islamic identities.
 
 The spread of Islam along the Kenya coast occurred gradually over several centuries. Early Arab traders established settlements at coastal harbors, intermarrying with local populations and gradually introducing Islamic practices. The process accelerated in the 1800s as Arab traders expanded their commercial networks inland. By the time of British colonial rule, Islam was thoroughly established among coastal Bantu peoples, including the Digo.

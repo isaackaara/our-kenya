@@ -1,5 +1,3 @@
-# [[../../Maasai/Maasai|Maasai]] Mara National Reserve
-
 [[../../Maasai/Maasai|Maasai]] Mara National Reserve represents the Kenyan portion of the Serengeti ecosystem and ranks among the world's most significant wildlife conservation areas. Covering approximately 1,510 square kilometers, the Mara hosts spectacular biodiversity and serves as a crucial habitat for Africa's largest land migration event, the annual wildebeest migration.
 
 The reserve is named after the Maasai people who inhabit the surrounding lands and the Mara River that runs through the ecosystem. It functions as both a protected wildlife area and a symbol of Kenya's conservation heritage.

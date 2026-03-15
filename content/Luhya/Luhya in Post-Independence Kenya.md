@@ -1,5 +1,3 @@
-# Luhya in Post-Independence Kenya
-
 Since independence in 1963, the Luhya have remained the second largest ethnic group in Kenya (after the Kikuyu), but have consistently failed to produce a presidential candidate from their communities. This paradox of demographic strength but political marginalization has shaped Luhya political strategy and identity throughout Kenya's post-independence period.
 
 ## The KADU Period and Constitutional Negotiations

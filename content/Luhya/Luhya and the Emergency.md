@@ -1,5 +1,3 @@
-# Luhya and the Emergency
-
 The Kenya Emergency (1952-1960) was a period of armed conflict between British colonial forces and Mau Mau combatants seeking to end British colonial rule. While the Mau Mau movement was primarily a Kikuyu uprising based in the Central Highlands, the Kenya Emergency affected all of Kenya, including western Kenya where the Luhya reside. The Luhya experience of the Emergency differed substantially from [[../Kikuyu/Kikuyu|Kikuyu]] experience, reflecting their limited involvement in the Mau Mau organization and their distinct relationship with colonialism.
 
 ## The Mau Mau as a Kikuyu Movement

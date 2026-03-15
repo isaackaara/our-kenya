@@ -1,5 +1,3 @@
-# Secondary Towns Kenya
-
 Beyond the major metropolitan areas of [[Nairobi as Melting Pot|Nairobi]], Mombasa, Kisumu, and Nakuru, [[Kenya]] contains numerous secondary towns that serve as regional commercial and administrative centers. Towns such as Eldoret, Thika, Embu, Meru, Nyeri, and Kericho exemplify the pattern of [[Cross-Ethnic Kenya|ethnic mixing]] in urban settings throughout the country.
 
 Secondary towns develop as market centers drawing traders and workers from surrounding rural areas. These towns are typically located in regions associated with particular ethnic groups, yet the commercial and administrative functions of towns attract migrants from across Kenya. A secondary town in Kikuyu-majority territory will nonetheless attract Luo traders, Luhya workers, and others. Conversely, a town in Luo territory will have Kikuyu residents.

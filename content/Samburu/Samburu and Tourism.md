@@ -1,5 +1,3 @@
-# Samburu and Tourism
-
 Tourism in [[Samburu County]] centers on wildlife viewing ([[Samburu National Reserve]] and [[Buffalo Springs Reserve]]) and increasingly, cultural tourism featuring [[Samburu]] communities. Tourism provides income and employment, though economic benefits are unevenly distributed and cultural commodification raises concerns. Tourism represents secondary livelihood for [[Samburu Pastoralism|pastoral communities]] but growing economic importance.
 
 ## Wildlife Tourism

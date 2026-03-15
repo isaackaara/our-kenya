@@ -1,5 +1,3 @@
-# Transportation Networks
-
 [[Transportation networks]] in [[Kenya]], including roads, railways, and bus systems, connect communities across ethnic boundaries and create routine [[cross-ethnic contact]]. [[Matatus]] (shared minibuses), buses, trains, and other transportation modes bring passengers from different ethnic backgrounds into close physical proximity. The interdependence created by [[shared transportation infrastructure]] facilitates cross-ethnic interaction and normalizes cross-ethnic contact.
 
 The matatu system represents one of Kenya's most important cross-ethnic institutions. Matatus operate as shared transportation serving routes connecting towns and urban areas. Passengers travel together in close quarters, creating opportunities for interaction. Matatu operators and crews come from all ethnic backgrounds. The transportation system's necessity creates conditions where cross-ethnic contact is routine.

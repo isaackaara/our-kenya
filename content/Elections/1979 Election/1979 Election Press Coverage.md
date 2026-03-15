@@ -1,5 +1,3 @@
-# 1979 Election Press Coverage
-
 The Kenyan press in 1979 reported on the election within the framework of Kenya's one-party system and within the context of Moi's new government. The press provided coverage of electoral campaigns, candidates, and results, but this coverage operated within boundaries set by government policy and press self-censorship.
 
 The Nation newspaper, aligned with government interests, provided extensive coverage celebrating the 1979 election and Moi's government. Election reporting in the Nation emphasized the significance of the transition from Kenyatta to Moi, the success of the Nyayo philosophy, and candidates' promises to deliver development. The newspaper framed the 1979 election as a moment of national renewal under new leadership.

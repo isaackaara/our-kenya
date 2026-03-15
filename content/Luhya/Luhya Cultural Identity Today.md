@@ -1,5 +1,3 @@
-# Luhya Cultural Identity Today
-
 The Luhya confederation faces a paradox in 2026. As Kenya's second-largest ethnic group (approximately 3.5 million people), the Luhya have never held the presidency. Political representation and national influence remain limited compared to the group's size, raising persistent questions about whether the 18 sub-groups can achieve the cohesion necessary for national power.
 
 ## Key Facts

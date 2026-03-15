@@ -1,5 +1,3 @@
-# Kenya Elephant Population
-
 Kenya's elephant population has experienced one of the most dramatic wildlife conservation histories in Africa, encompassing catastrophic decline, international intervention, and partial recovery. The population trajectory tells the story of poaching crises, policy changes, and the complexity of large mammal conservation in a context of human development and wildlife management.
 
 ## Historical Population Estimates

@@ -1,5 +1,3 @@
-# Kenya Football Overview: The Underperforming Giant
-
 Kenya's football (soccer) talent pool is enormous relative to the nation's international competitive success. Despite having millions of football-loving youth and a significant professional league, Kenya's national team (Harambee Stars) has achieved minimal international success. Kenya has never won the Africa Cup of Nations and has failed to qualify for FIFA World Cups consistently.
 
 This gap between talent and achievement reflects governance failures at the Football Kenya Federation, corruption in the league system, poor player development infrastructure, and limited investment in football development compared to athletics. Kenya's greatest footballers (Victor Wanyama, Michael Olunga) have achieved success primarily in foreign leagues rather than advancing Kenya's national team.

@@ -1,5 +1,3 @@
-# Kenya Agricultural History
-
 Kenya's agricultural sector has undergone profound transformation from pre-colonial subsistence farming to colonial export plantations to post-independence smallholder-dominant [[Kenya Agricultural History]]. Agriculture remains culturally and economically central to Kenya, though its share of GDP has declined from over 45% in the 1960s to roughly 34% today.
 
 ## Pre-Colonial Agriculture

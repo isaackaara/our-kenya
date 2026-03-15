@@ -1,5 +1,3 @@
-# Luhya and Land
-
 Land is the fundamental resource in Luhya western Kenya, providing subsistence livelihoods for millions of small farmers while also being a source of intense conflict. The Luhya face multiple overlapping land pressures: high population density in a limited area, historical land appropriation during the colonial period (particularly in Trans-Nzoia), and contemporary conflicts over forest resources, grazing rights, and communal lands. Sugar production (Mumias Sugar) has shaped land use and created both opportunities and dependencies.
 
 ## Key Facts

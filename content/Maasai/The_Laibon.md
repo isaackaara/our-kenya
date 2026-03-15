@@ -1,5 +1,3 @@
-# The Laibon: Prophet, Spiritual Authority, and Political Advisor
-
 ## Role and Authority
 
 The *laibon* is a Maasai prophet-priest combining spiritual authority with practical political advice. The laibon is believed to have the ability to divine the future, interpret the will of Enkai (God), and offer guidance on critical community matters.

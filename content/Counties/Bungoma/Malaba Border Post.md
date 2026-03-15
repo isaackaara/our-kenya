@@ -1,5 +1,3 @@
-# Malaba Border Post
-
 Malaba is the major Kenya-Uganda road border crossing, serving as the principal formal point of international movement between Kenya and Uganda. Located in Bungoma County near Bungoma town, Malaba Border Post processes vehicles, cargo, passengers, and goods crossing between the two countries. The border post includes customs facilities, immigration offices, and vehicle inspection areas administering legal border crossing.
 
 ## Strategic Importance

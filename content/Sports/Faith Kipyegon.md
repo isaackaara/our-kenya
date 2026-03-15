@@ -1,5 +1,3 @@
-# Faith Kipyegon: Three Olympic Gold Medals in 1500 Meters
-
 Faith Kipyegon is Kenya's most decorated female athlete and among the greatest middle-distance runners in Olympic history. She has won three Olympic gold medals in the 1500 meters (2016 Rio, 2020 Tokyo, 2024 Paris), making her one of only a handful of athletes to win three or more Olympic golds in the same event. She has also set multiple world records and won World Championships gold medals, establishing herself as the dominant 1500-meter runner of her generation.
 
 Born in 1993 in Kenya, Kipyegon emerged as a promising junior runner in the early 2010s. She competed at the 2013 World Championships as a young athlete and continued to improve. By 2015, she was among the world's fastest 1500-meter runners. At the 2016 Rio Olympics, Kipyegon, then age 23, won the gold medal in the 1500 meters in 4:03.79. Her Olympic victory established her as a major distance runner and one of Kenya's greatest female athletes.

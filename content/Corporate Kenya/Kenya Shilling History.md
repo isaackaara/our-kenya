@@ -1,5 +1,3 @@
-# Kenya Shilling History
-
 The Kenya shilling (KES) is the [[currency]] of [[Kenya]] since [[independence]] in [[1964]]. Its history reflects Kenya's [[economic trajectory]]: from [[colonial]] legacy through post-independence stability, inflationary pressures, devaluation under structural adjustment, and chronic depreciation in recent decades.
 
 ## Key Historical Moments

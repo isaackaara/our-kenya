@@ -1,5 +1,3 @@
-# Luo in Nairobi
-
 The Luo presence in Nairobi represents one of the most significant internal migrations in Kenya's modern history. Today, Luo comprise roughly 10-12% of Nairobi's population (estimates vary from 400,000 to over 600,000 people), making them one of the capital's largest ethnic groups.
 
 ## Geographic Concentration

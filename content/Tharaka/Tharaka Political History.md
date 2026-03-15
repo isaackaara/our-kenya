@@ -1,5 +1,3 @@
-# Tharaka Political History
-
 Tharaka political participation in Kenya has been limited by their small population size. The Tharaka have maintained representation in national politics while sometimes feeling marginalized in broader political processes and resource allocation.
 
 ## Early Post-Independence Politics

@@ -1,5 +1,3 @@
-# Somalia's State Collapse (1991) and Effects on Kenya
-
 The collapse of the Somali state in 1991 had profound and lasting effects on Kenya, generating refugee influxes, creating security threats, destabilizing border regions, introducing arms flows, and paradoxically fueling Eastleigh's commercial boom. Understanding contemporary Kenya-Somali relations requires understanding how the 1991 collapse fundamentally altered Kenya's relationship with its northeastern neighbor.
 
 ## The Somalia Collapse and Regional Destabilization

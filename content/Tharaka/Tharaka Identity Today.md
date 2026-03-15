@@ -1,5 +1,3 @@
-# Tharaka Identity Today
-
 In 2026, Tharaka identity remains important while being increasingly influenced by urbanization, education, and national integration. The meaning of being Tharaka continues to evolve while maintaining connections to tradition.
 
 ## Rural versus Urban Identity

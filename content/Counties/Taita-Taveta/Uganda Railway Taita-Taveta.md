@@ -1,5 +1,3 @@
-# Uganda Railway Taita-Taveta
-
 The construction and operation of the Uganda Railway through Taita-Taveta had transformative effects on the county's settlement patterns, economy, and development trajectory. The railway, completed in 1903, connected Mombasa on the coast to Uganda, passing through the Taita-Taveta region. The railway represented the first major infrastructure project undertaken in the region and catalyzed colonial economic activities, urbanization, and integration of the region into colonial economic structures.
 
 The construction of the Uganda Railway occurred in phases between 1895 and 1903. The railway passed through Taita-Taveta territory following a route selected for practical engineering and economic considerations. The construction process required mobilization of substantial labour forces, including imported Indian coolies and local African workers. Railway construction involved clearing routes, building embankments, constructing bridges and drainage, and laying track.

@@ -1,5 +1,3 @@
-# Joy and George Adamson
-
 Joy Adamson (Austrian-born, 1910-1980) and George Adamson (British, 1906-1989) were wildlife conservationists who became internationally famous through the lion Elsa and the book "Born Free" (1960). Their story exemplified European engagement with Kenya's wildlife, while raising questions about conservation ethics, colonialism, and the romanticization of Africa. Both lived unconventional lives and both died violently in Kenya.
 
 ## Joy Adamson's Life and Work

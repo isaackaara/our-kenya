@@ -1,5 +1,3 @@
-# Tharaka Irrigation
-
 Irrigation [[Tharaka Agriculture]] is an increasingly important strategy for improving food security and generating agricultural income in the semi-arid Tharaka region. Irrigation [[Tharaka Climate]] utilize [[Tharaka River Systems]] from rivers and groundwater sources.
 
 ## Water Sources

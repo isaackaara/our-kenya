@@ -1,5 +1,3 @@
-# Batsotso
-
 The Batsotso (also spelled Tsotso) are one of the eighteen sub-groups of the Luhya (Abaluyia) people of western Kenya. They predominantly inhabit the western part of [[../Counties/Kakamega/Kakamega County|Kakamega County]], where they speak the Olutsotso dialect and maintain distinct cultural practices within the broader Luhya community.
 
 ## Territory and Geography

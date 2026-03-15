@@ -1,5 +1,3 @@
-# Kamba Supreme Being Deep Dive
-
 In [[Kamba]] traditional cosmology, the supreme spiritual power is known by different names across communities: Mulungu (the more common [[Kamba]] term) and sometimes Ngai (shared with [[../Kikuyu/Kikuyu|Kikuyu]] and other Bantu peoples). Understanding the [[Kamba]] supreme being concept requires attention to linguistic precision, the relationship between local and pan-Bantu terminology, and the integration of this concept with [[Kamba and Christianity|Christian belief systems]].
 
 ## Mulungu in Kamba Religion

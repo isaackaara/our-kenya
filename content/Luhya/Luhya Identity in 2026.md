@@ -1,5 +1,3 @@
-# Luhya Identity in 2026
-
 In 2026, Luhya identity represents a remarkable historical development: what was once a confederation of 18-20 largely separate sub-groups has become, for many Kenyans, a unified ethnic category. This pan-Luhya identity has solidified over the past century, particularly among urban populations and in national political contexts, though sub-group identities remain salient, especially in rural areas.
 
 ## The Historical Formation of Luhya Identity

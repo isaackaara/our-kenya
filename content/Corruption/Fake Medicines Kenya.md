@@ -1,5 +1,3 @@
-# Fake Medicines Kenya
-
 ## Overview
 
 Counterfeit and substandard medicines have circulated in Kenya's pharmaceutical supply chain for decades, killing patients and undermining the integrity of the health system. The Kenya Bureau of Standards (KEBS) was mandated to prevent this but repeatedly failed, either through corruption, under-resourcing, or institutional capture by pharmaceutical interests. This form of corruption directly links to [[Health Sector Corruption|healthcare sector failures]].

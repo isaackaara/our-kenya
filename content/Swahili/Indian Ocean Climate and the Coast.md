@@ -1,5 +1,3 @@
-# Indian Ocean Climate and the Coast
-
 The monsoon system that made [[The Indian Ocean World|Indian Ocean trade]] possible also shapes coastal ecology and climate. The long rains (March-May), the short rains (October-December), and the monsoon winds create distinctive seasonal patterns that enabled [[Arab Settlement on the Coast|Arab settlement]] and [[Chinese Contact with the Swahili Coast|maritime trade]]. The coral reef ecosystems support marine life and provide cultural and economic resources for [[Swahili]] communities. Climate change poses significant threats to coastal ecology and the communities depending on it.
 
 ## The Monsoon System

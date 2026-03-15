@@ -1,5 +1,3 @@
-# Nyamira Tea
-
 Tea is the dominant cash crop in [[Nyamira County.md|Nyamira County]], providing income for the majority of farming households and supporting the regional economy. The [[Nyamira County.md|tea]] industry operates through KTDA factory networks connecting smallholder farmers to regional and international markets.
 
 ## Production Scale

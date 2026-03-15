@@ -1,5 +1,3 @@
-# The NGO Complex
-
 Kenya is home to the United Nations' main African headquarters and hundreds of international non-governmental organizations. The NGO sector is enormous. International NGOs work in health, education, environment, governance, development. Kenyan NGOs partner with international NGOs or work independently.
 
 The development industry that grew up around these organizations is substantial. It generates jobs, brings foreign currency, and provides services that the state does not. But it also produces dependencies and distortions.

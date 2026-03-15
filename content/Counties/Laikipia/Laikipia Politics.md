@@ -1,5 +1,3 @@
-# Laikipia Politics
-
 Laikipia County's politics reflect its ethnically diverse and economically complex composition. Electoral competition involves multiple ethnic communities. Political parties compete for support among different populations. Wildlife conservation has become a political issue. Land tenure questions remain contentious. Governance challenges include capacity limitations and corruption. Devolved county government manages local affairs with varying effectiveness.
 
 ## Electoral Dynamics

@@ -1,5 +1,3 @@
-# Turkana Music and Dance
-
 Turkana [[Turkana Music and Dance]] and dance traditions reflect [[Turkana Pastoralism]] [[Turkana People Overview]], age-grade organization, and ritual occasions. Music and dance serve social, ceremonial, and entertainment functions, expressing cultural identity and providing occasions for community gathering and celebration.
 
 ## Musical Instruments

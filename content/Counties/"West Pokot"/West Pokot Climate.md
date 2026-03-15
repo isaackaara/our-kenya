@@ -1,5 +1,3 @@
-# West Pokot Climate
-
 West Pokot County experiences dramatic climate variation due to significant elevation differences. Lowland areas (below 1,200 meters) experience hot, semi-arid conditions with annual rainfall typically below 400-500 millimeters. Highland areas (1,500-2,500 meters elevation) experience cool, humid conditions with annual rainfall between 800-1,500 millimeters. Temperature decreases approximately 1 degree Celsius per 200 meters elevation gain. Maximum temperatures in lowlands can exceed 35 degrees Celsius, while highlands maintain moderate temperatures. Minimum temperatures in lowlands average 20-25 degrees Celsius, while highlands average 10-15 degrees Celsius. Rainfall is concentrated in two seasons (long rains March-June and short rains September-November). Rainfall variability creates significant uncertainty in pastoral and agricultural production.
 
 ## Climate Impacts and Extremes

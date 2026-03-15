@@ -1,5 +1,3 @@
-# Swahili in the Colonial Economy
-
 During the British colonial period (1895-1963), the [[Swahili]] adapted to colonial economic conditions, transitioning from a slave-based economy to one based on wage labor and trade. [[Swahili]] merchants, traders, and middlemen played important roles in the early colonial economy, utilizing their commercial knowledge and network connections to maintain economic influence under colonial rule.
 
 ## Transition from Slave-Based Economy

@@ -1,5 +1,3 @@
-# Wajir Wildlife
-
 Wildlife in Wajir County reflects adaptations to arid and semi-arid environments, with wildlife populations concentrated near water sources and more vegetated areas. Despite the harsh climate, Wajir supports populations of wildlife species including wild camels, antelopes, and various smaller mammals. Bird populations utilize Wajir as habitat and migration routes. Wildlife conservation faces challenges from pastoral land use, hunting, and climate change impacts on wildlife habitat.
 
 ## Large Mammals

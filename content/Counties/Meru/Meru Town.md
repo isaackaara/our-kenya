@@ -1,5 +1,3 @@
-# Meru Town
-
 Meru Town serves as the commercial and administrative hub of Meru County. Located at approximately 1,600 meters elevation in the mid-altitude agricultural zone, it functions as a regional service center for the surrounding agricultural communities. The town's strategic location makes it a natural gathering point for farmers bringing produce to market, traders sourcing agricultural inputs, and government administrators managing county affairs.
 
 ## Urban Development

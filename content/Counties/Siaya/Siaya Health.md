@@ -1,5 +1,3 @@
-# Siaya Health
-
 The [[Siaya County]] health system includes public health facilities ranging from health centers to the county referral hospital, as well as private health providers. The system faces significant challenges in service capacity, infrastructure, and affordability.
 
 ## Siaya County Referral Hospital

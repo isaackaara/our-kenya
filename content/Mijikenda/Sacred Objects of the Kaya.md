@@ -1,5 +1,3 @@
-# Sacred Objects of the Kaya
-
 The [[Mijikenda]] [[Kaya System|kayas]] contain sacred objects that embody spiritual power and ancestral presence. These objects are central to the religious and social life of kaya communities and are carefully guarded by elders as repositories of sacred knowledge and connection to the ancestors.
 
 ## The Fingo (Sacred Posts)

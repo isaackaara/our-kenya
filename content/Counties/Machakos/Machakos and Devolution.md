@@ -1,5 +1,3 @@
-# Machakos and Devolution
-
 Machakos County represents a significant devolution jurisdiction under Kenya's 2010 constitution, with a county government providing decentralized public services and development functions. Devolution transferred authority and resources from national government to 47 county governments, fundamentally reshaping governance structures and policy implementation in Machakos.
 
 The county government structure includes an elected governor as chief executive, county assembly members representing electoral wards, and county civil service implementing policies and providing services. This structure creates multiple levels of elected representatives accountable to local constituents. County budgets have grown substantially, providing resources for county government operations and development investments.

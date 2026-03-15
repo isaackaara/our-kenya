@@ -1,5 +1,3 @@
-# Maasai Religion: Enkai and the Sacred in Nature
-
 ## Enkai: God in Dual Manifestation
 
 The Maasai believe in a supreme being called Enkai (also spelled Engai or Ngai). Enkai is understood as both singular (one Creator God) and dual (possessing two aspects or faces).

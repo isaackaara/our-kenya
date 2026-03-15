@@ -1,5 +1,3 @@
-# Mijikenda Timeline
-
 A chronological reference of key dates in [[Mijikenda Overview|Mjikenda history]] from the [[Mijikenda Origins|Singwaya migration]] through 2026.
 
 ## Early Migrations and Settlement (1200-1700 CE)

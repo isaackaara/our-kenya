@@ -1,5 +1,3 @@
-# The Pinto Affair 1965: Political Murder and State Suppression
-
 ## Pio Gama Pinto
 
 Pio Gama Pinto was a left-wing activist and politician in early postcolonial Kenya. Pinto was a prominent member of the original KANU (Kenya African National Union) party and was an advocate for socialist policies and wealth redistribution.

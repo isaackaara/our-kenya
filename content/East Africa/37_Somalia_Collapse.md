@@ -1,5 +1,3 @@
-# The Somalia State Collapse Effects
-
 When the [[Somalia Collapse|Somali state]] collapsed in 1991, the consequences immediately reverberated across the broader [[East African Community]] region. The collapse of one nation's state institutions created security, humanitarian, and economic shocks that affected Kenya and the entire region.
 
 ## Somalia's Collapse

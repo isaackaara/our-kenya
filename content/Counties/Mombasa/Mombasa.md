@@ -1,5 +1,3 @@
-# Mombasa: Kenya's Second City and Historic Port
-
 Mombasa is Kenya's second-largest city and the nation's primary seaport, serving as the maritime gateway for East African trade. Located on the Indian Ocean coast, the city has a population of approximately 1.2 million and serves as the regional center for Coastal Kenya.
 
 ## Historical Significance

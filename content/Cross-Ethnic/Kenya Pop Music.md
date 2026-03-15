@@ -1,5 +1,3 @@
-# Kenya Pop Music
-
 Kenyan popular music represents one of the most important sites of [[Cross-Ethnic Kenya|cross-ethnic cultural integration]]. Genres that originated within particular ethnic or linguistic communities have become national phenomena, transcending their origins to achieve popularity across ethnic boundaries. [[Kenyan Hip-Hop|Benga, gengetone]], Afrobeats, and gospel music all represent examples of this process.
 
 Benga music originated in Luo communities of western Kenya, emerging from traditional Luo music forms and incorporating elements of Congolese rumba. Benga features rapid-fire drumming, electric guitar lines, and Swahili or Luo lyrics, often with humorous, provocative, or socially critical content. By the 1980s and 1990s, benga had become national phenomenon popular among Kenyans of all ethnic backgrounds. The music transcended its Luo origins to become associated with Nairobi urban culture generally.

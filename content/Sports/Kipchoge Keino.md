@@ -1,5 +1,3 @@
-# Kipchoge Keino: Kenya's Athletic Founding Father
-
 Kipchoge Keino is the single most important figure in the history of Kenyan athletics. His Olympic victories in 1968 and 1972, his world records and consistent excellence across the 1960s and 1970s, and his post-retirement institution-building through the Kipchoge Keino Foundation established the template for Kenyan distance running dominance that persists to the present day.
 
 Kip Keino was born in 1940 in Kipsamo, Nandi District, in the heart of Kenya's Rift Valley. He grew up in a pastoral and agricultural community, running from childhood as transportation. Like other Rift Valley youth, he had accumulated many thousands of running miles before formal athletics training began. In the early 1960s, Keino emerged as a middle-distance runner in Kenya's nascent athletics program. He competed in 1500 meters and 5000 meters distances, showing promise but not dominance.

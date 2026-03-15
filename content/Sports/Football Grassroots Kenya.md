@@ -1,5 +1,3 @@
-# Football Grassroots Kenya: Academies and Talent Development
-
 Kenya's football talent development relies on academies, schools, and informal neighborhood leagues. Established academies attempt to identify and develop young talent, but funding and coaching quality vary widely. Kenya's grassroots football infrastructure is less developed than the elite academy systems of European football nations, which contributes to Kenya's limited success in international football.
 
 ## See Also

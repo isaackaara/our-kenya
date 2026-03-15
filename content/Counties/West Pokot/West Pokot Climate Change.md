@@ -1,5 +1,3 @@
-# West Pokot Climate Change
-
 West Pokot County faces severe climate change impacts driven by changing global atmospheric conditions, with manifestations including altered precipitation patterns, rising temperatures, increased drought frequency, and intensified climate variability. The county's semi-arid and arid ecosystems are particularly vulnerable to climate disruption, as these environments have limited buffering capacity for precipitation or temperature changes. Climate change poses major threats to [[West Pokot Pastoralism|pastoral and agricultural production]] that forms the foundation of livelihoods for much of West Pokot's population. Scientific evidence documents observable changes in climate conditions over recent decades, with projections indicating continued and accelerated change in coming decades.
 
 ## Observable Climate Trends

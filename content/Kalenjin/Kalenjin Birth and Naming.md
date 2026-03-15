@@ -1,5 +1,3 @@
-# Kalenjin Birth and Naming
-
 Kalenjin naming traditions reflect a sophisticated classification system in which a person's name encodes the time of their birth, creating an intimate connection between individual identity and natural cycles. This system provided both practical genealogical information and conveyed something understood as essential about the individual's character and destiny.
 
 ## The Time-of-Birth Naming System

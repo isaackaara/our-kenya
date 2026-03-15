@@ -1,5 +1,3 @@
-# Kikuyu Central Association
-
 The Kikuyu Central Association (KCA) was the most important African political organisation in Kenya between 1924 and 1940, the direct institutional successor to [[Harry Thuku]]'s suppressed East African Association. It transformed Kikuyu grievances, primarily land alienation under the [[White Highlands]] system and the destruction of the [[Githaka]] tenure system, into organised political demands, and it launched the career of [[Jomo Kenyatta]], who served as its general secretary from 1928 before taking it to London.
 
 ## Key Facts

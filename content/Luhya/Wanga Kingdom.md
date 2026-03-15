@@ -1,5 +1,3 @@
-# Wanga Kingdom
-
 The Wanga sub-group of the Luhya people developed the most formalized political structure of any Luhya group. Under the hereditary leadership of the Nabongo (king), the Wanga Kingdom became a centralized Bantu state that drew the attention of British colonial powers.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Wildlife as Legacy
-
 Kenya's conservation system is a colonial inheritance. The British established game parks to protect wildlife, but these parks were established on land that communities had used for generations. The Maasai pastoralists who grazed cattle in the Rift Valley found their grazing lands converted into national parks and game reserves.
 
 The conservation philosophy was that wildlife should be preserved for its own sake and for the recreation of wealthy visitors. This logic required the exclusion of communities. Pastoralists were removed from land they had managed for centuries. The colonial state claimed ownership of wildlife and the land it lived on.

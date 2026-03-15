@@ -1,5 +1,3 @@
-# Corruption and Ethnic Politics
-
 ## Overview
 
 [[Corruption in Kenya Overview|Corruption]] in Kenya often uses ethnic framing (allocating resources to ethnic supporters, excluding ethnic opponents) but corruption itself is not ethnic. Rather, corruption is a tool used across all [[Corruption Networks Kenya|ethnic groups]] by political elites to consolidate power and accumulate wealth. Attributing corruption to ethnic characteristics perpetuates misunderstanding and enables corruption to persist by obscuring its institutional nature.

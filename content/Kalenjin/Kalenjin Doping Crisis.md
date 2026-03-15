@@ -1,5 +1,3 @@
-# Kalenjin Doping Crisis
-
 Kenya's athletics, and the Kalenjin runners who dominate it, have faced serious questions about systematic doping and use of performance-enhancing drugs. World Athletics and the World Anti-Doping Agency (WADA) placed Kenya under intensive monitoring, identifying widespread anti-doping violations that threatened Kenya's athletics credibility and the individual careers of implicated athletes.
 
 ## Scale of the Doping Problem

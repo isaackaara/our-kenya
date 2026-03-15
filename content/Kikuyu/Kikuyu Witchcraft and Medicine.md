@@ -1,5 +1,3 @@
-# Kikuyu Witchcraft and Medicine
-
 [[Kikuyu]] cosmology included sophisticated understandings of witchcraft (murogi), medicine (mundu mugo), and ritual pollution (thahu) that governed social relationships, healing, and moral order. These beliefs persisted through colonialism and remain influential even in contemporary urban Kikuyu communities.
 
 ## Murogi and Witchcraft

@@ -1,5 +1,3 @@
-# The Friends Church
-
 Quaker missionaries arrived in western Kenya in 1902 and found a community in Maragoli deeply receptive to education and Christian faith. Their arrival transformed the spiritual, educational, and social landscape of the Vihiga region, making it one of the densest Quaker populations on Earth.
 
 ## Key Facts

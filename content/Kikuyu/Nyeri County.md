@@ -1,5 +1,3 @@
-# [[../Counties/Nyeri/Nyeri County|Nyeri County]]
-
 Nyeri County is the intellectual heartland of Kikuyuland and the home county of former President Mwai Kibaki. Located in the Central Highlands, Nyeri has historically been a center of education, commerce, and political influence within the broader Kikuyu community.
 
 ## Geography and Location

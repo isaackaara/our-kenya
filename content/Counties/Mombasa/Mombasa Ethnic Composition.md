@@ -1,5 +1,3 @@
-# Mombasa's Ethnic and Cultural Composition
-
 Mombasa is home to diverse ethnic and cultural communities, reflecting centuries of Indian Ocean trade and migration. The city's cosmopolitan character reflects its historical importance as a trading center and its role as Kenya's primary port.
 
 ## Swahili

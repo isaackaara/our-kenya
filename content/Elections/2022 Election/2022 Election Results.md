@@ -1,5 +1,3 @@
-# 2022 Election Results
-
 The official results announced by the IEBC on August 15, 2022, indicated that William Ruto had won the 2022 presidential election with 50.49% of the valid votes cast (7,176,141 votes out of 14,212,587 total valid votes). Raila Odinga finished second with 48.85% (6,942,930 votes), resulting in a margin of just 233,211 votes between the two leading candidates. The narrow margin represented the third consecutively close presidential election in Kenya following 2013's 50.07% margin and 2017's 54% margin.
 
 Ruto's razor-thin 1.64 percentage point margin exceeded the 50% threshold required to avoid a runoff, though by only 89,874 votes above the mathematical 50% threshold. The proximity to the threshold meant that minor changes in voting patterns in contested constituencies could have altered the result and triggered a runoff election. The narrow margin also created grounds for Raila's subsequent Supreme Court petition challenging the results, alleging that the narrow margin reflected electoral manipulation rather than genuine voter preference.

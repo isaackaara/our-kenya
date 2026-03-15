@@ -1,5 +1,3 @@
-# Nyamira Climate Change
-
 Climate change impacts are increasingly affecting Nyamira's agricultural livelihoods and water resources. Rising temperatures and changing rainfall patterns create challenges for tea farming and food crop production in the county.
 
 ## Temperature Changes

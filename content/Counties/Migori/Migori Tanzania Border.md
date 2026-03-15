@@ -1,5 +1,3 @@
-# Migori Tanzania Border
-
 Migori County is bisected by the Kenya-Tanzania border, which runs through the county creating a unique border region with distinctive characteristics. The border affects trade, livelihood patterns, and community relationships.
 
 ## Border Geography and Location

@@ -1,5 +1,3 @@
-# Turkana-Samburu Conflict
-
 The Turkana and Samburu are neighboring Nilotic pastoralist communities with a conflictual history stretching back centuries. The Turkana expansion in the 18th-19th centuries displaced the Samburu from significant [[Turkana Pastoralism]] territories. Contemporary conflicts between the communities center on disputes over grazing land, water access, and cattle raiding, particularly in border areas of Turkana and Samburu counties.
 
 ## Historical Origins of Conflict

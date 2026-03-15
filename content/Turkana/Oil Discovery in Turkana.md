@@ -1,5 +1,3 @@
-# Oil Discovery in Turkana
-
 In 2012, the British [[Oil Discovery in Turkana]] company Tullow Oil announced the discovery of commercially viable oil reserves in the South Lokichar Basin of Turkana County, northwestern Kenya. The discovery marked a watershed moment in Turkana's history, offering the prospect of transformative economic development and resource revenues. However, the actual development of the resource has been slower and more contested than initially anticipated.
 
 ## The South Lokichar Basin Discovery

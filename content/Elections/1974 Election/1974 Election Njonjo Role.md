@@ -1,5 +1,3 @@
-# 1974 Election Njonjo Role
-
 Charles Njonjo, the Attorney General of Kenya and one of President Kenyatta's closest advisors, occupied a powerful position in 1974 and played an important role in the election. Njonjo was responsible for legal matters, including election administration and the interpretation of electoral law. His position gave him significant influence over how the election was conducted and how legal questions arising from the election were resolved.
 
 Njonjo was a Kikuyu from Central Province, like Kenyatta, and he was one of the few Kikuyu politicians besides Kenyatta who occupied a position of real national power. As Attorney General, he was one of the most senior figures in the government. His relationship with Kenyatta was close, and he was among Kenyatta's most trusted advisors. This closeness to the president gave Njonjo influence over national political developments.

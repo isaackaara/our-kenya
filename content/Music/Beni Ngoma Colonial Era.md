@@ -1,5 +1,3 @@
-# Beni Ngoma Colonial Era
-
 Beni ngoma was one of the strangest and most revealing musical phenomena of colonial East Africa: competitive dance societies that mimicked British military bands, complete with brass instruments, uniforms, and hierarchical titles, while remaining fundamentally African in social function and performance style. What began as parody evolved into a social institution that shaped urban African life for over half a century.
 
 The term "beni" derives from the English word "band," reflecting the origin of these associations in the late 19th century when African workers and soldiers first encountered European military bands. The "ngoma" component refers to the broader East African concept of dance, music, and social gathering. Together, beni ngoma represented a creative African response to colonial military culture.

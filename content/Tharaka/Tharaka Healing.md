@@ -1,5 +1,3 @@
-# Tharaka Healing
-
 Traditional Tharaka healing systems combine practical [[Tharaka Oral Traditions]] of medicinal plants with spiritual understanding of illness. Healers serve important roles in addressing [[Tharaka Health]] problems and maintaining community well-being.
 
 ## Traditional Healers

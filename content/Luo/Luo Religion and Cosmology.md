@@ -1,5 +1,3 @@
-# Luo Religion and Cosmology
-
 Luo spirituality centers on Nyasaye, a supreme creator deity, and juogi, ancestral spirits that mediate between the living and the divine. The lake figures prominently in this cosmology as a dwelling place of spirits and a source of Nyasaye's life-giving power. Burial customs, healing practices, and daily ethical conduct all reflect a worldview where the living and dead remain interconnected and interdependent.
 
 ## Key Facts

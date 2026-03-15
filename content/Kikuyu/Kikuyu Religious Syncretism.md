@@ -1,5 +1,3 @@
-# Kikuyu Religious Syncretism
-
 [[Kikuyu]] religious life represents a complex synthesis of indigenous spiritual traditions and [[Kikuyu and Christianity Today|Christianity]], creating distinctive patterns of belief and practice that have evolved since the 1800s.
 
 ## Pre-Colonial Kikuyu Spirituality

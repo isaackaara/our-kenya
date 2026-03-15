@@ -1,5 +1,3 @@
-# 1983 Election Results
-
 The 1983 election produced a parliament entirely composed of KANU nominees. No opposition candidates were elected, and all successful primary contestants became MPs. The 1983 parliament numbered approximately 160 MPs, similar to previous parliaments.
 
 The parliamentary composition reflected Moi's engineering of electoral outcomes. Kalenjin representation increased, reflecting Moi's political base. Some Kikuyu MPs retained their seats, but Kikuyu dominance was further reduced compared to 1979.

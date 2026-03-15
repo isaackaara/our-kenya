@@ -1,5 +1,3 @@
-# Kamba Political Figures
-
 The Kamba have produced significant political figures who have shaped Kenya's national politics, yet their influence often operates through a distinctive pattern: rather than occupying the presidency or the most dominant leadership positions, Kamba leaders frequently become kingmakers and power brokers who support or oppose presidents and determine outcomes at critical moments. This pattern reflects both Kamba political tradition and the region's relatively small population size compared to Kikuyu, Luo, or Kalenjin communities.
 
 ## Mulu Mutisya (Political Kingmaker)

@@ -1,5 +1,3 @@
-# Luo Farming Practices
-
 The Luo around [[../Conservation/Lake Victoria Kenya|Lake Victoria]] cultivated millet, sorghum, cassava, sweet potato, and groundnuts. Farming was sharply divided by gender, with women performing most cultivation. Millet beer (*bor*) featured centrally in ceremony, trade, and daily life. The shift from subsistence to market farming accelerated in the 20th century.
 
 ## Crops and Growing Patterns

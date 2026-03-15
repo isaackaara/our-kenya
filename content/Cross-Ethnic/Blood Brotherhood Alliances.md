@@ -1,5 +1,3 @@
-# Blood Brotherhood Alliances
-
 Before colonialism, [[Cross-Ethnic Kenya|Kenya's ethnic groups]] were not locked in eternal conflict. Formal peace and trade agreements bound them across ecological boundaries. The colonial-era narrative of "ancient tribal warfare" erased this history of [[Ethnic Business Networks|inter-ethnic diplomacy]].
 
 ## Key Facts

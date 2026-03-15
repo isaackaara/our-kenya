@@ -1,5 +1,3 @@
-# [[coconut palm]] Palm [[culture]]
-
 The coconut palm is so deeply integrated into [[Mijikenda]] life and economy that it shapes settlement patterns, economic activity, diet, and cultural practices. Coconut represents both tradition and colonial-era economic transformation.
 
 ## Ecological Adaptation

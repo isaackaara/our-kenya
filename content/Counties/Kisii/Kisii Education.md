@@ -1,5 +1,3 @@
-# Kisii Education
-
 Education is highly valued in [[Kisii County.md|Kisii County]], with extensive networks of primary schools, secondary schools, and higher education institutions. The county has established itself as an educational center in western Kenya, known for academic performance and educational innovations.
 
 ## Educational Institutions

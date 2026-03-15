@@ -1,5 +1,3 @@
-# Siaya Women
-
 Women in [[Siaya County]] play central roles in household economy, agriculture, and community life, though they face significant constraints in accessing resources, decision-making authority, and economic opportunities. Gender relations reflect both traditional [[../../Luo/Luo|Luo]] customs and modern constitutional guarantees of gender equality.
 
 ## Economic Roles

@@ -1,5 +1,3 @@
-# Kasigau Wildlife Corridor
-
 The Kasigau Corridor REDD+ project is a pioneering conservation initiative protecting wildlife movement between Tsavo East and Tsavo West national parks. The project represents one of Africa's first forest carbon credit programs and demonstrates an approach to integrating conservation with community economic development.
 
 ## Project Background

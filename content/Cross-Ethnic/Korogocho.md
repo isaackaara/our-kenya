@@ -1,5 +1,3 @@
-# Korogocho
-
 Korogocho is a [[Nairobi as Melting Pot|Nairobi]] informal settlement located in the northeastern part of the city, along the Nairobi River. The settlement emerged in the 1970s and 1980s as [[Rural to Urban Migration and Cultural Severance|rural-urban migration]] accelerated and urban demand for low-income housing outstripped formal supply. Like other informal settlements in Nairobi, Korogocho developed without formal planning or municipal oversight.
 
 Korogocho's population is estimated between 200,000 and 300,000 residents. The settlement is characterized by extremely dense housing, limited water and sanitation infrastructure, high levels of poverty, and limited formal employment opportunities. The environmental context is challenging, with proximity to the river creating flooding risks during heavy rains and water contamination concerns.

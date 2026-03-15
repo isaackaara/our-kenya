@@ -1,5 +1,3 @@
-# Ruto Hustler Nation Ideology
-
 The "hustler nation" ideology central to [[William Ruto]]'s political campaign and presidency emphasizes economic support for Kenya's informal sector workers, small-scale traders, and working-class populations. The ideology positions itself against what Ruto characterizes as "elite capture" of government resources and argues for directing resources to ordinary working people. The hustler nation narrative resonated with millions of Kenyans frustrated by economic stagnation and perceiving limited opportunities.
 
 The ideology rejects ethnic and regional politics, proposing instead a class-based politics in which working people of all backgrounds unite around economic interests. This framing represented a departure from Kenya's traditional ethnic-based political organization. The emphasis on the informal economy and small-scale entrepreneurship appealed to the majority of Kenyans earning livelihoods through informal sector activities. The ideology promised that government would support rather than regulate informal sector activity.

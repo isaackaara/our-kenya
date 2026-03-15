@@ -1,5 +1,3 @@
-# Kisumu Politics: Opposition Stronghold and Odinga Country
-
 Kisumu is Kenya's most dependable opposition stronghold, with voters consistently supporting opposition candidates in presidential and other elections. The city's politics are inseparable from the Odinga family, which has dominated [[../../Luo/Luo|Luo]] and Nyanza Region politics since independence.
 
 ## Opposition Voting Pattern

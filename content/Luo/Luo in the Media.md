@@ -1,5 +1,3 @@
-# Luo in the Media
-
 The Luo have achieved disproportionate prominence in Kenyan journalism and broadcasting, reflecting a tradition of eloquent public speech and verbal skill. Luo broadcasters and journalists have shaped Kenya's media landscape since independence. The Voice of Kenya (now KBC, Kenya Broadcasting Corporation) employed numerous Luo broadcasters from the 1960s onward. This visibility has both created opportunities for Luo professionals and reinforced stereotypes.
 
 ## The Tradition of Public Speech

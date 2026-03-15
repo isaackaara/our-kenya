@@ -1,5 +1,3 @@
-# Marama
-
 The Abamarama are a Luhya sub-group occupying Marama Location in Kakamega District, western Kenya. They form part of the larger Luhya confederation and maintain a distinct identity rooted in their specific geography and cultural heritage.
 
 ## Location and Geography

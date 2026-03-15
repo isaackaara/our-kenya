@@ -1,5 +1,3 @@
-# [[Chonyi]], [[Kauma]], and [[Ribe]] People
-
 The Chonyi, Kauma, and Ribe are three smaller [[Mijikenda]] sub-groups residing primarily in [[Kilifi County]]. Though less numerous than the Giriama or Duruma, they maintain distinct identities and cultural practices while participating in the broader Mijikenda network of kinship, language, and tradition.
 
 ## Chonyi

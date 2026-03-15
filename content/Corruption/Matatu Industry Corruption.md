@@ -1,5 +1,3 @@
-# Matatu Industry Corruption
-
 ## Overview
 
 The matatu (shared minibus) industry is structured around corruption. Traffic police extort daily payments from matatus (KES 50 to KES 500 per vehicle daily). The National Transport and Safety Authority (NTSA) licensing process involves corruption. Route franchises are controlled through informal payments. This [[Civil Service Salaries and Petty Corruption|corruption is normalized]] and affects the cost of public transportation for millions of ordinary Kenyans.

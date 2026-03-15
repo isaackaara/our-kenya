@@ -1,5 +1,3 @@
-# Education Paradox
-
 Kenya values education highly. The belief that education is the path to success is deep. Parents sacrifice to send children to school. Government, despite constraints, continues to invest in education. Education is seen as essential.
 
 But the paradox is that Kenya's education system produces many educated people for whom jobs do not exist. University graduates cannot find work. The education system produces credentials but not employment. The education system produces aspirations but not opportunities.

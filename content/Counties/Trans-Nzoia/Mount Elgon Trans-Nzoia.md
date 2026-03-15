@@ -1,5 +1,3 @@
-# [[../../Conservation/Mount Elgon National Park|Mount Elgon]] (Trans-Nzoia)
-
 Mount Elgon is an extinct volcanic mountain straddling the Kenya-Uganda border. The peak stands at 4,321 meters (14,177 feet) elevation, making it Kenya's second-highest mountain. The mountain dominates the western landscape of Trans-Nzoia County. Mount Elgon is massive in extent, with a base covering over 4,600 square kilometers. The mountain features a dramatic collapsed caldera at its summit, unusual geological formations, and diverse ecosystems ranging from tropical forest to alpine moorland. The border demarcation runs across the mountain, with portions in Kenya and Uganda.
 
 ## Ecological Importance

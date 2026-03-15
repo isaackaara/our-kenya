@@ -1,5 +1,3 @@
-# Kamba in International Relations and Kenya Trade
-
 The Kamba region has historically served as interface between interior East Africa and the Indian Ocean coast. Contemporary Kamba participate in Kenya's international trade, tourism, and diplomatic relations.
 
 ## Historical Trade Routes and Connections

@@ -1,5 +1,3 @@
-# Atieno Odhiambo
-
 E.S. Atieno Odhiambo (1945 or 1946 – 25 February 2009) was one of Kenya's most important academic historians. Born in Muhoroni, trained in Kenyan universities, and later a professor of history at Rice University (Houston, USA), Odhiambo wrote foundational works on Luo history, Kenyan nationalism, and African historiography. His scholarship illuminated the politics of knowledge and the sociology of power.
 
 ## Academic Career and Training

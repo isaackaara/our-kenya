@@ -1,5 +1,3 @@
-# Kenya 2020 Tokyo Olympics: Defending Champions
-
 Kenya's 2020 Tokyo Olympics (held in 2021 due to COVID) saw [[Eliud Kipchoge|Eliud Kipchoge]] successfully defend his marathon gold medal and [[Faith Kipyegon|Faith Kipyegon]] defend her 1500m gold medal. These repeat victories demonstrated sustained excellence and confirmed Kenya's dominance in these events across Olympic cycles.
 
 ## See Also

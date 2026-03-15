@@ -1,5 +1,3 @@
-# Kericho Agriculture
-
 While tea dominates Kericho's agricultural landscape, the county's farming economy encompasses several other important crops and livestock activities. Dairy farming represents a significant secondary agricultural sector, with numerous smallholder and commercial dairy operations supplying milk to local markets and regional processors. Many farmers integrate dairy cattle with tea production, using pasture land alongside their plots.
 
 Maize cultivation remains important for local food security and market supply, though production has faced challenges from increasingly erratic rainfall patterns. Pyrethrum, a flowering plant used in natural insecticide production, was historically significant in Kericho and remains present in some areas. Horticultural crops including vegetables, fruits, and flowers have expanded in recent years as farmers seek diversification beyond tea. The county's reliable rainfall and fertile volcanic soils support year-round production of these diverse crops, though climate variability increasingly threatens productivity.

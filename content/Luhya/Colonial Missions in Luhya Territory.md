@@ -1,5 +1,3 @@
-# Colonial Missions in Luhya Territory
-
 Christian missionary organizations played a central role in the colonization, administration, and cultural transformation of Luhya territories from the early 1900s onward. Multiple mission denominations established stations throughout the Luhya region, creating educational institutions, health facilities, and converting substantial portions of the Luhya population to Christianity. The missionary legacy remains profound in Luhya religious identity, educational institutions, and contemporary culture.
 
 ## Early Mission Penetration

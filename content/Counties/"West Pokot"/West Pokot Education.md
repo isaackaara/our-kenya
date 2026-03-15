@@ -1,5 +1,3 @@
-# West Pokot Education
-
 Education in West Pokot County serves pastoral and agricultural populations with limited school infrastructure. Primary schools are distributed across wards and trading centers, though some pastoral areas lack nearby schools. Enrollment rates are lower than agricultural regions due to pastoral livelihood demands and limited infrastructure. Secondary schools are concentrated in Kapenguria and other trading centers, requiring students to travel for higher education. Teacher recruitment and retention in remote areas is challenging due to limited amenities. Literacy rates in the county are lower than national average, reflecting limited educational access. Vocational training institutes provide technical skills training in practical fields like animal husbandry and mechanics.
 
 ## Education Systems and Challenges

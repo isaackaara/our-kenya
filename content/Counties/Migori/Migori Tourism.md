@@ -1,5 +1,3 @@
-# Migori Tourism
-
 Tourism in Migori County remains underdeveloped, though the county possesses potential attractions including Lake Victoria access, the Tanzania border area, and Mfangano Island. Tourism infrastructure and marketing remain limited.
 
 ## Lake Victoria Tourism

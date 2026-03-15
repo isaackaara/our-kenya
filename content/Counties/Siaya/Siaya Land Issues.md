@@ -1,5 +1,3 @@
-# Siaya Land Issues
-
 Land tenure and land-related conflicts represent critical governance challenges in [[Siaya County]], affecting livelihood security, poverty reduction, and development prospects. The county's land tenure systems combine customary, statutory, and semi-formal arrangements.
 
 ## Customary Land Tenure

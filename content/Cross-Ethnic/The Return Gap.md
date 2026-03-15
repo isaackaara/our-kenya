@@ -1,5 +1,3 @@
-# The Return Gap
-
 The moment an [[urban-born Kenyan]], especially one raised primarily in [[English]] and [[Swahili]], steps out of a [[matatu]] at the family shamba for a funeral or Christmas holiday, they experience a dissonance that has no name in English but is intimately familiar to millions across the continent. They are among their own people, speaking their own language, yet they are profoundly foreign.
 
 ## The Common Experience

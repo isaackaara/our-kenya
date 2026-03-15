@@ -1,5 +1,3 @@
-# Machakos Religious History
-
 Christianity became deeply embedded in Machakos County society following the establishment of the Africa Inland Mission station in 1895. The missionary activity and Christian conversion processes transformed Machakos religious landscape and created institutional structures that persist today. The strong Christian presence shapes contemporary Machakos society and culture.
 
 The Africa Inland Mission, a conservative evangelical organization, established theological approaches emphasizing personal conversion and Bible reading. These emphases influenced how Christianity developed in Machakos and shaped church organization and practice. AIM missionaries developed written forms of Kamba language and created biblical translations, linking literacy and Christianity.

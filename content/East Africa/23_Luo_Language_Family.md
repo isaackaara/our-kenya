@@ -1,5 +1,3 @@
-# The Luo Language Family Across East Africa
-
 The [[Luo Language Family]] represent a linguistic and cultural family distributed across Kenya, Uganda, South Sudan, and Ethiopia. They share common linguistic ancestry and maintain historical connections despite being separated by colonial borders.
 
 ## The Luo Language and Linguistics

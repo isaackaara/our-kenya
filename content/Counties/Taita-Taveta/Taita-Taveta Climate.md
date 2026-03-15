@@ -1,5 +1,3 @@
-# Taita-Taveta Climate
-
 The climate of Taita-Taveta County is characterized by semi-aridity, high inter-annual variability, and marked altitudinal variation. The county exhibits a diversity of climatic conditions ranging from the relatively humid montane climate of the Taita Hills to the hot, semi-arid climate of the Tsavo plains and coastal lowlands. This climate diversity creates distinct agro-ecological zones that influence vegetation patterns, agricultural potential, and human settlement distribution.
 
 The county receives its moisture primarily from the Indian Ocean. The northeast monsoon (Kaskazi), which dominates from December to March, brings variable precipitation to the coastal and eastern portions of the county. The southeast monsoon (Kusi), which prevails from June to August, brings limited moisture to this region. The bimodal rainfall pattern, characteristic of much of East Africa, is expressed in the county with long rains typically occurring during April and May, and short rains during October and November. However, both the timing and magnitude of these rains are highly variable from year to year.

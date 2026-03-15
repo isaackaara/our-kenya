@@ -1,5 +1,3 @@
-# Kikuyu Timeline
-
 A chronological reference of key dates and events in Kikuyu history from pre-colonial origins through 2026.
 
 ## Pre-Colonial Era

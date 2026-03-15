@@ -1,5 +1,3 @@
-# Mombasa's Healthcare Sector: Services and Challenges
-
 Mombasa's healthcare system includes public and private facilities, with the Coast General Teaching and Referral Hospital serving as the largest public hospital. The healthcare sector faces challenges including resource constraints, staffing shortages, and disease burden.
 
 ## Coast General Teaching and Referral Hospital

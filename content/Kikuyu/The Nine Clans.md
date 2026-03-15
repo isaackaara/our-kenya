@@ -1,5 +1,3 @@
-# The Nine Clans
-
 The nine *mbari* (clans) of the Kikuyu are the social backbone of the entire community, each descended from one of Mumbi's nine daughters in the [[Gikuyu and Mumbi]] origin myth. Clan membership was matrilineal in name but operated within a patriarchal inheritance structure: you belonged to your mother's clan, but land passed through your father's [[Githaka]] estate. The clans were not geographically separated, they lived side by side across the central highlands.
 
 ## Key Facts

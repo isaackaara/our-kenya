@@ -1,5 +1,3 @@
-# West Pokot Infrastructure
-
 Infrastructure in West Pokot County is limited relative to agricultural regions, reflecting pastoral settlement patterns and lower development priorities. The main highway connects Kapenguria to neighboring counties, linking to national networks. Regional roads provide access from Kapenguria to trading centers and pastoral zones. Many rural roads are unpaved and become impassable during rainy seasons, limiting market access. Road maintenance is insufficient due to funding constraints and difficult terrain. Mobile phone coverage is expanding but remains patchy in remote pastoral areas. Electricity connectivity is limited to Kapenguria and some trading centers, with rural electrification progressing slowly. Internet access is minimal outside of Kapenguria, limiting digital services access.
 
 ## Water and Service Infrastructure

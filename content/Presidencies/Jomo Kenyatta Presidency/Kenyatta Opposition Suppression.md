@@ -1,5 +1,3 @@
-# Kenyatta Opposition Suppression
-
 The suppression of political opposition was a defining feature of the Kenyatta presidency, despite the nationalist rhetoric about unity and democracy. While Kenya maintained formal democratic institutions, particularly a parliament and nominally competitive elections, the Kenyatta government systematically worked to eliminate genuine political competition and to consolidate one-party dominance. The methods employed included detention without trial, harassment of opposition candidates and supporters, control of media, and subtle forms of violence and intimidation.
 
 The first major opposition force to face suppression was the Kenya Peoples Union, formed by Oginga Odinga and other politicians in 1966. The KPU represented a more radical, egalitarian vision for Kenya and had particular appeal to Luo communities and to urban workers and youth. The government's response to the KPU was multifaceted: harassment of its leaders, denial of meeting permits, pressure on supporters to switch allegiance, and eventually, outright banning.

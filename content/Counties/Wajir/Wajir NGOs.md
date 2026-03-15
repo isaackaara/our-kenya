@@ -1,5 +1,3 @@
-# Wajir NGOs
-
 Non-governmental organizations (NGOs) play crucial roles in Wajir County, implementing humanitarian assistance, development programs, and peace-building initiatives addressing county challenges. NGOs provide services that government capacity cannot fully deliver, including emergency food assistance, healthcare support, water development, and education programs. These organizations work alongside community organizations and county government to address poverty, insecurity, and development needs.
 
 ## Humanitarian Organizations

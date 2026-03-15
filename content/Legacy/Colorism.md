@@ -1,5 +1,3 @@
-# Colorism
-
 Colonial Kenya formalised a three-tier racial hierarchy: European, Asian, African. This explicit ranking created associations between skin colour and social status that persist more than 60 years after independence. Kenya's skin-lightening industry (worth hundreds of millions of dollars annually) is a direct legacy of this colonial hierarchy.
 
 ## Key Facts

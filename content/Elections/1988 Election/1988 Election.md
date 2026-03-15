@@ -1,5 +1,3 @@
-# 1988 Election
-
 The 1988 election was the most controversial election in Kenya's post-independence history. Held on December 29, 1988, it introduced the mlolongo (queue voting) system, replacing the secret ballot with public queuing behind candidates' photographs. This system rendered voting public, eliminated voter secrecy, and facilitated massive rigging and manipulation of results. The 1988 election became a turning point that galvanized opposition to Moi's one-party rule and contributed to the Second Liberation movement for multiparty democracy.
 
 The mlolongo system meant voters had to queue publicly behind their chosen candidate's photo. Election officials could see who was voting for whom, enabling coercion and intimidation. In many constituencies, government officials or candidates' supporters controlled queues, moved voters between queues, and manipulated counts. The system made it impossible to rig elections discreetly, and rigging became brazen and visible.

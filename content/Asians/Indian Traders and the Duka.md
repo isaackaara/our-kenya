@@ -1,5 +1,3 @@
-# Indian Traders and the Duka
-
 The duka (a Swahili word for small shop) became the defining unit of Indian economic life in colonial and independent Kenya. What began as informal traders along the railway line evolved into a sophisticated network of retail, wholesale, and credit operations that connected European merchants at the top with African consumers at the bottom. By the 1930s, Indian merchants controlled the commercial middle layer of East African colonial society.
 
 ## The Commercial Hierarchy

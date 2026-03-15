@@ -1,5 +1,3 @@
-# Siaya HIV Crisis
-
 [[Siaya County]] carries one of the highest HIV burdens in Kenya, with prevalence rates estimated at approximately 19.3 percent, representing a severe public health emergency affecting the county's population, healthcare system, and economic productivity. Research published by the National Institutes of Health indicates Siaya had the highest HIV prevalence among Kenya's 47 counties, with approximately 123,000 people living with HIV.
 
 ## Prevalence and Demographics

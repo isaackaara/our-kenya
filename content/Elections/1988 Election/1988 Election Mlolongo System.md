@@ -1,5 +1,3 @@
-# 1988 Election Mlolongo System
-
 The mlolongo (queue voting) system introduced in 1988 replaced Kenya's previous voting method with a system in which voters lined up publicly behind their candidate's photograph. This system made voting public rather than secret, exposing each voter's choice to observation and potential coercion. Moi justified mlolongo as economical and efficient, but the actual effect was to enable systematic rigging and intimidation. Voters could be moved between queues, queue lengths could be miscounted, and government officials could pressure voters to join particular queues. International election observers condemned the system as incompatible with democratic voting.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Asians at Independence
-
 In 1963, Kenya became independent. Asians, who had built significant wealth but remained excluded from political power, faced an existential choice: take Kenyan citizenship and stay, or claim British citizenship and leave. Many chose Britain, viewing citizenship as insurance against an unknown future. This choice would prove consequential when Britain itself suddenly turned hostile to Asian immigrants.
 
 ## The Citizenship Question

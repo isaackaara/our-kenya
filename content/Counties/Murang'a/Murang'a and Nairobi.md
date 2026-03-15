@@ -1,5 +1,3 @@
-# Murang'a and Nairobi
-
 Murang'a County maintains profound historical and contemporary connections to Nairobi, Kenya's capital city, with these linkages structured by colonial labor systems, post-colonial economic integration, and ongoing migration patterns. The proximity of Murang'a to Nairobi (approximately 50-80 kilometers from Murang'a Town to central Nairobi depending on specific locations) creates spatial relationships that have shaped economic development, labor markets, cultural dynamics, and political networks since colonial times.
 
 Colonial labor recruitment systems initiated circular migration patterns linking Murang'a to Nairobi, with colonial administrators and capitalists requiring labor for the new urban economy being constructed in Nairobi. Kikuyu men from Murang'a were recruited as porters, construction workers, domestic servants, and lower-level administrative workers, establishing labor migration networks that channeled Murang'a workers into Nairobi employment. This colonial-era labor migration laid foundations for contemporary urban-rural connections that persist today.

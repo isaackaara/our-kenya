@@ -1,5 +1,3 @@
-# Kalenjin Identity and Running
-
 Distance-running excellence has become so central to Kalenjin public identity and self-conception that it shapes how the Kalenjin perceive themselves and how they are perceived globally. The omwony (runner in Kalenjin language) has become a contemporary equivalent of the warrior (moran), representing masculine ideal and community prestige. Yet the doping crisis threatens this identity by revealing that some celebrated achievements are illegitimate.
 
 ## Running as Modern Warrior Culture

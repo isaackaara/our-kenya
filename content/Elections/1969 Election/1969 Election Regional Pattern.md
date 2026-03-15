@@ -1,5 +1,3 @@
-# 1969 Election Regional Pattern
-
 The regional patterns in the 1969 election mirrored and reinforced the patterns established in 1963, with the addition of intensified ethnic polarization following Tom Mboya's assassination and the Kisumu massacre. The Kikuyu highlands continued to show overwhelming support for KANU and for candidates aligned with [[Jomo Kenyatta]]'s faction. The Luhya region continued to support KANU, though the region's influence within the party was declining as Kenyatta consolidated Kikuyu-dominated control.
 
 In Luo areas, KANU candidates won all contested seats, but with notably lower margins than in Kikuyu areas and with less enthusiasm among voters. The banning of the Kenya People's Union meant that Luo voters who opposed KANU had no legal party outlet for expressing opposition. Some Luo constituencies recorded lower voter turnout than in other regions, suggesting abstention as a form of political protest against the single-party system and against government violence.

@@ -1,5 +1,3 @@
-# Tharaka River Systems
-
 Tharaka territory is crossed by several river systems, primarily tributaries of the Tana River. These rivers are critical [[Tharaka Irrigation]] sources for human consumption, livestock, and agriculture in the semi-arid environment.
 
 ## Tana River Tributaries

@@ -1,5 +1,3 @@
-# Luhya Courtship Traditions
-
 Luhya courtship customs represent a complex system of social practices designed to facilitate mate selection while maintaining family honor, social stability, and community order. Courtship among the Luhya historically involved direct participation of parents, relatives, and community members rather than purely individual choice.
 
 ## Traditional Courtship Scenarios and Initiation

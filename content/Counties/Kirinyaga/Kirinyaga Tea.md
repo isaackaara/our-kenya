@@ -1,5 +1,3 @@
-# Kirinyaga Tea
-
 Tea cultivation occupies higher-altitude areas of Kirinyaga County above 1,500 meters where cool temperatures and abundant rainfall create ideal growing conditions. Tea bushes provide multiple harvests annually through continuous leaf plucking. Smallholder farmers cultivate tea on plots ranging from small gardens to several hectares. Tea provides regular income throughout the year and forms an important part of the agricultural economy in high-altitude zones.
 
 ## Growing Conditions

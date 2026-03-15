@@ -1,5 +1,3 @@
-# [[Xeer [[Xeer Customary Law|customary law]]|xeer]]: Somali Customary Law and Dispute Resolution in Kenya
-
 Xeer (also spelled "xer") is the Somali system of customary law for resolving disputes, managing resources, enforcing social norms, and administering justice. Operating alongside Kenya's formal legal system, xeer provides the primary dispute resolution mechanism for many Somali communities, particularly in pastoral areas. Xeer systems combine Islamic principles, tribal tradition, and customary practice into coherent legal frameworks.
 
 ## Origins and Foundations

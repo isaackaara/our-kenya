@@ -1,5 +1,3 @@
-# The Mazrui Family
-
 The [[Mazrui Family]] were an Arab-[[Swahili]] family that ruled [[Mombasa]] as governors for the Omani Sultanate during the 18th century, then rebelled against Omani authority in the early 19th century, attempting to establish independence. The British eventually intervened to support the Omani Busaidi dynasty, leading to the suppression of the Mazrui rebellion in 1837.
 
 ## Origins and Rise to Power

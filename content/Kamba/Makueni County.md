@@ -1,5 +1,3 @@
-# [[../Counties/Makueni/Makueni County|Makueni County]]
-
 Makueni County is the third major Kamba-majority county in Kenya, alongside Machakos and Kitui, comprising the southern portion of Ukambani. The county, primarily semi-arid with lower rainfall than adjacent areas, became notable for innovative governance and development approaches under Governor Kivutha Kibwana (2013-2022).
 
 ## Geography and Climate

@@ -1,5 +1,3 @@
-# Isiolo Politics
-
 Isiolo County's political history reflects both broader Kenya trajectories and local particularities. As a frontier region, colonial administrative arrangements treated Isiolo as a boundary zone between settled agricultural areas and pastoral territories, shaping governance approaches.
 
 Post-independence politics centred on integrating northern pastoral regions into the Kenyan state. Isiolo served as a focal point for this integration, with government services, education, and national infrastructure projects concentrated in the town. Political representation evolved through constituency demarcations that grouped diverse communities.

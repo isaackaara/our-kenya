@@ -1,5 +1,3 @@
-# Barack Obama Sr and Siaya
-
 Barack Hussein Obama Sr. (1936-1982) was born in the Rachuonyo District on the shores of [[../../Conservation/Lake Victoria Kenya|Lake Victoria]], but was raised in [[Kogelo Village|Nyang'oma Kogelo village]] in Siaya County. He became an internationally known economist, nationalist, and prominent figure in Kenya's post-independence politics. As the biological father of Barack Hussein Obama II (44th President of the United States), his connection to Siaya has given the county global recognition.
 
 ## Early Life and Education

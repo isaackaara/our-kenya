@@ -1,5 +1,3 @@
-# Taita and the Coast
-
 The Taita Hills sit at the intersection of inland and coastal East Africa. Over centuries, the Taita have maintained economic and cultural relationships with coastal Swahili communities, though they remain culturally and linguistically distinct.
 
 ## Historical Trade Networks

@@ -1,5 +1,3 @@
-# Taita-Taveta County
-
 Taita-Taveta County is located in the southernmost region of Kenya, bordering Tanzania to the south and west. The county covers an area of approximately 17,000 square kilometres and had a population of 364,827 according to the 2019 national census. The county is administratively divided into five sub-counties: Taita, Mwatate, Wundanyi, Taveta, and Voi. The county capital is Wundanyi, while Voi is the largest urban centre and primary commercial hub.
 
 The geography of Taita-Taveta is remarkably diverse. The western portion of the county is dominated by the [[Taita Hills]], an isolated mountain range rising to over 2,200 metres and featuring the highest concentration of endemic bird species in Africa. The eastern and southern portions are dominated by the vast Tsavo ecosystem, encompassing both [[Tsavo East National Park]] and [[Tsavo West National Park]]. These protected areas constitute the largest national park system in Kenya and harbour significant populations of elephants, lions, buffalo, and diverse other wildlife species. The southern boundary is formed by [[Lake Chala]], a crater lake straddling the Kenya-Tanzania border.

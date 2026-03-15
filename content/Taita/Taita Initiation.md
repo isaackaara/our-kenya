@@ -1,5 +1,3 @@
-# Taita Initiation
-
 Male circumcision is the most significant initiation ceremony in Taita society, marking the transition from boyhood to manhood and conferring adult status within the community. The ceremony carries profound cultural and social meaning.
 
 ## The Circumcision Ceremony

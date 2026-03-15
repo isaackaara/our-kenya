@@ -1,5 +1,3 @@
-# Nyamira Gusii Heritage
-
 The Gusii community is a primary ethnic group in Nyamira County, maintaining distinct cultural traditions and identity. Gusii heritage shapes community practices, social organization, and cultural expression in the county.
 
 ## Gusii Settlement

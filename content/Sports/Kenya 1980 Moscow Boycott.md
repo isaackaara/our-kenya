@@ -1,5 +1,3 @@
-# Kenya 1980 Moscow Boycott: Political Consequences
-
 Kenya boycotted the 1980 Moscow Olympics in protest of the Soviet invasion of Afghanistan. This boycott was coordinated among multiple Western and allied nations. Kenya's boycott, while politically justified, prevented Kenyan athletes from competing at a major Olympics during their peak years. The impact on individual athletes' careers (similar to the 1976 Montreal boycott) represented the cost of Kenya's geopolitical stance.
 
 ## See Also

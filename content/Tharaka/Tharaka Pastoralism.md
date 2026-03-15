@@ -1,5 +1,3 @@
-# Tharaka Pastoralism
-
 Pastoral [[Tharaka Land]] of cattle, goats, and sheep forms an important part of Tharaka livelihood systems, complementing agriculture. Pastoral activities are adapted to the semi-arid environment and provide milk, meat, and capital accumulation.
 
 ## Herd Composition

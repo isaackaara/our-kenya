@@ -1,5 +1,3 @@
-# Kwale Town
-
 Kwale town is the administrative headquarters of Kwale County, sitting about 50 kilometers inland from the coast. Unlike the famous beach resorts of Diani and Tiwi, Kwale town remains a modest agricultural and administrative center. The town has a population of approximately 20,000 people and serves as the nerve center for county government operations, housing the county commissioner's office, courts, and various government ministries.
 
 The town's character is distinctly inland and rural, despite its administrative importance. It functions primarily as a trading hub for the surrounding agricultural areas rather than a tourist destination. The main street contains shops selling goods to farmers and traders, small restaurants serving local food, and various government offices. Public transport consists of matatus (shared minibuses) connecting Kwale town to Mombasa and to smaller towns throughout the county.

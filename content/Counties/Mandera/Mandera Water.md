@@ -1,5 +1,3 @@
-# Mandera Water
-
 Water scarcity represents Mandera County's most critical resource constraint, with extreme aridity, limited rainfall, and declining groundwater availability creating persistent challenges for pastoral production, human consumption, and livelihood security. Annual rainfall of 200-400 millimeters concentrates in two unreliable rainy seasons, providing insufficient precipitation to support reliable surface water sources. Groundwater access has expanded through borehole development, but declining water yields and sustainability concerns raise questions about long-term water availability.
 
 The Daua River provides the most reliable surface water source, forming much of the Kenya-Ethiopia border. Seasonal watercourses including tributaries of the Jubba River provide temporary water sources during rainy seasons. However, these surface water sources are insufficient for year-round pastoral and human water needs.

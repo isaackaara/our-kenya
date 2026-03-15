@@ -1,5 +1,3 @@
-# Asian Kenyans and Land
-
 In colonial [[Kenya]], [[Asian Kenyans|Asians]] were prohibited from owning [[land]] in the [[White Highlands]] (the fertile central highlands). At [[independence]] (1963), this restriction was lifted, allowing [[Asian Kenyans|Asians]] to purchase [[land]]. Some [[Asian Kenyans|Asian]] families have since acquired significant landholdings, creating ongoing resentment and political tension.
 
 ## The Colonial Prohibition

@@ -1,5 +1,3 @@
-# State of Emergency 1952
-
 The Kenya State of Emergency, declared on October 20, 1952, and lasting until 1960, was the British colonial response to Mau Mau oath-taking campaigns and the emergence of armed Kikuyu resistance. The Emergency involved detention camps, villagisation programs, collective punishment, and counter-insurgency operations that devastated Kikuyu communities and remain controversial for their brutality.
 
 ## Trigger and Declaration

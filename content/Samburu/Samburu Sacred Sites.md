@@ -1,5 +1,3 @@
-# Samburu Sacred Sites
-
 [[Samburu]] traditional cosmology recognizes sacred mountains, water sources, and groves as dwelling places of spiritual forces. Mount Kenya holds significance in [[Samburu]] spiritual geography. Sacred sites feature in rituals and ancestor veneration. Sacred site significance has declined through [[Samburu and Christianity|Christianity]], though some communities maintain cultural value. Environmental conservation sometimes intersects with sacred site protection.
 
 ## Sacred Mountains

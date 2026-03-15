@@ -1,5 +1,3 @@
-# Ronald Ngala
-
 Ronald Ngala (1923-1972) was a [[Giriama]] politician and one of the most important coastal political leaders at Kenya's independence. As a founder and leader of the Kenya African Democratic Union (KADU), he advocated for coastal federalism and autonomy. His assassination in 1972 marked a tragic loss of coastal political voice.
 
 ## Early Life

@@ -1,5 +1,3 @@
-# Meru Circumcision (Ntanira na Mugambo)
-
 The [[Meru people|Meru community]] in [[Tharaka-Nithi County]] pioneered an alternative coming-of-age ritual called Ntanira na Mugambo (circumcision by words) in response to international advocacy against female genital mutilation (FGM). This innovation preserves cultural significance of female initiation while eliminating harmful physical cutting.
 
 ## Traditional Female Circumcision (FGM)

@@ -1,5 +1,3 @@
-# Isiolo Education
-
 Educational provision in Isiolo County faces challenges common to arid and pastoral regions: limited infrastructure, teacher shortages, student boarding costs, and the conflict between pastoral lifestyles and formal schooling requirements.
 
 Primary education expanded substantially post-independence, with government primary schools established in most sub-counties. Enrolment grew further after the 2008 abolition of primary school fees. However, completion rates remain below national averages, with many pastoral families withdrawing children for herding responsibilities.

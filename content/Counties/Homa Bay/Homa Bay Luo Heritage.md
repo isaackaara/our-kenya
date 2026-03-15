@@ -1,5 +1,3 @@
-# Homa Bay Luo Heritage
-
 Homa Bay County is a core region of Luo cultural and linguistic identity in Kenya. The overwhelming majority of the population speaks Dholuo (Luo language) and maintains strong cultural connections to broader Luo traditions and history.
 
 ## Luo Settlement and History

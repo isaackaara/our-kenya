@@ -1,5 +1,3 @@
-# Wangari Maathai
-
 Wangari Muta Maathai (1 April 1940, 25 September 2011) was a Kikuyu environmentalist, feminist, and democracy activist who founded the Green Belt Movement and became the first African woman to receive the Nobel Peace Prize, awarded in 2004. Born in [[Muranga]] district, she represents the continuity of Kikuyu resistance, from the [[Mau Mau Uprising]]'s fight for land to a 21st-century fight for the forests and public spaces of Kenya.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Coffee Industry Kenya
-
 [[Kenya]]'s Arabica coffee is among the world's premium varieties, known for distinct flavour profiles tied to specific origins (Nyeri, Kirinyaga, Murang'a). However, Kenya's [[Coffee Industry]] has faced severe challenges: boom-bust price cycles, [[Agricultural Cooperatives Kenya|cooperative mismanagement]], and climate stress. The industry reflects broader patterns of commodity dependence and [[Colonial Economy|colonial-era]] export agriculture. Production has contracted from peaks of 140,000 tonnes in the 1970s to roughly 40,000-50,000 tonnes today.
 
 ## Origins and the Boom Era

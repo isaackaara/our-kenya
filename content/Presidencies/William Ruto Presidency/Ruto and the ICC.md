@@ -1,5 +1,3 @@
-# Ruto and the ICC
-
 [[William Ruto]]'s presidency is complicated by his status as an individual previously charged by the International Criminal Court with crimes against humanity related to post-2007 election violence. The ICC charges against Ruto and former Vice President Joshua Sang alleged that the two orchestrated ethnic violence to mobilize political support. However, the ICC prosecution eventually withdrew charges due to insufficient evidence and witness intimidation, allowing Ruto to assume the presidency without facing trial.
 
 The withdrawal of ICC charges removed legal obstacles to Ruto's presidency but did not resolve questions about his alleged role in post-2007 violence. International observers and Kenyan human rights organizations questioned whether adequate justice had been achieved for violence survivors. The absence of criminal accountability raised concerns about impunity for political violence. Ruto's presidency thus operates in a context where allegations regarding his past conduct remain historically documented even without criminal conviction.

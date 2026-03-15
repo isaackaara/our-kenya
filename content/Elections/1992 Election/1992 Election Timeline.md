@@ -1,5 +1,3 @@
-# 1992 Election Timeline
-
 **1988, December**  -  [[Daniel arap Moi]] is reelected in single-party KANU election, still running unopposed or against only token opposition.
 
 **1990, July 7 (Saba Saba)**  -  Pro-democracy riots in Nairobi and other cities demand multiparty elections. Government security forces suppress riots violently.

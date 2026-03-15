@@ -1,5 +1,3 @@
-# Mombasa's Future: Port Expansion and Special Economic Zone
-
 Mombasa's future depends on leveraging its strategic position as East Africa's primary port while diversifying the economy and improving living standards for residents. Major development initiatives are proposed or underway.
 
 ## Port Expansion

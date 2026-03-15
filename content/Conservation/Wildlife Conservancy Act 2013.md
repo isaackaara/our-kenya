@@ -1,5 +1,3 @@
-# Wildlife Conservancy Act 2013
-
 The [[Wildlife Conservancy Act 2013]] is Kenya's primary [[wildlife protection]] legislation, providing legal framework for conservation of Kenya's [[wildlife]]. The act establishes the [[Kenya Wildlife Service]], defines wildlife protection and management authorities, and provides penalties for [[wildlife crimes]].
 
 ## Legislative Framework

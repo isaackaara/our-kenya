@@ -1,5 +1,3 @@
-# Kitale Museum
-
 The Kitale Museum is one of Kenya's important regional museums, located in the county headquarters. The museum maintains collections documenting natural history, ethnography, and cultural heritage of Trans-Nzoia and surrounding regions. The museum serves as a cultural and educational institution for residents and visitors. Exhibits showcase traditional artifacts, wildlife specimens, and historical documents. The museum contributes to preservation of regional knowledge and cultural memory. Staff conduct educational programs for schools and community groups.
 
 ## Collections and Exhibits

@@ -1,5 +1,3 @@
-# SACCO Movement Kenya
-
 The SACCO Movement (Savings and Credit Cooperative Organisations) is one of Kenya's most successful grassroots financial sectors. Over 14,000 registered SACCOs serve millions of Kenyans, with combined assets exceeding KES 700 billion. SACCOs provide savings services, small loans, and emergency credit to members, operating on cooperative principles (member ownership, democratic governance, profit-sharing).
 
 ## Origins and Growth

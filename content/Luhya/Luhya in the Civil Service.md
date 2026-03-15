@@ -1,5 +1,3 @@
-# Luhya in the Civil Service
-
 The Luhya people have occupied significant positions within Kenya's national civil service, military, and police force since independence. While formal representation data is limited, the presence of prominent Luhya figures in senior government roles, the judiciary, and security services demonstrates sustained Luhya engagement with state institutions and national governance.
 
 ## Historical Entry into the Civil Service

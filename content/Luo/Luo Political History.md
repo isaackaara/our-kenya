@@ -1,5 +1,3 @@
-# Luo Political History
-
 From independence in 1963 to 2026, the Luo community has occupied a unique position in Kenyan politics: consistently influential, consistently excluded from executive power, and perpetually cast in the opposition. This trajectory reflects both Luo political agency and structural marginalization in a state dominated by Kikuyu interests.
 
 ## The KANU Years (1963-1966): Promise and Partnership

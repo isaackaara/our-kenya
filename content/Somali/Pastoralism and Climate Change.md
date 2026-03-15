@@ -1,5 +1,3 @@
-# Pastoralism and Climate Change
-
 Pastoral livelihoods in [[Northern Kenya Development Gap|northern Kenya]], the foundation of [[Kenyan Somali Identity|Somali]] economy for centuries, are severely threatened by [[Pastoralism and Climate Change|climate change]]. Droughts are becoming more frequent and intense. Rainfall is more erratic. [[NFD Pastoralism|Pastoral]] production is becoming increasingly precarious. The 2011 drought (worst in 60 years) and 2022 drought (worst in 40 years) demonstrated the impact of climate variability on [[Livestock Markets Northern Kenya|pastoral]] communities. Climate projections suggest further intensification of arid conditions, threatening pastoralism's viability.
 
 ## Arid and Semi-Arid Conditions

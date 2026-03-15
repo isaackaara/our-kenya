@@ -1,5 +1,3 @@
-# Meru Colonial Land Policies and Resistance
-
 ## Early Colonial Land Occupation
 
 ### The Crown Lands Ordinance

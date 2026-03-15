@@ -1,5 +1,3 @@
-# Moi Era Music and Censorship
-
 The 24-year presidency of [[Presidencies/Daniel arap Moi Presidency|Daniel arap Moi]] (1978-2002) fundamentally transformed Kenya's music landscape through systematic censorship, political control, and the weaponization of cultural expression. What began as isolated bans evolved into a comprehensive apparatus of surveillance and suppression that would define an entire generation of Kenyan musicians.
 
 Moi's government inherited the [[Music/Voice of Kenya and Music Policy|Voice of Kenya]] broadcasting monopoly and immediately understood its power. After the [[Music/Music and the 1982 Coup Kenya|failed 1982 coup attempt]], music censorship intensified dramatically. The regime required musicians to submit lyrics for approval before broadcast, banned songs deemed politically subversive, and imprisoned artists who challenged the status quo. The state's Kenya Film and Classification Board became a primary instrument of control, while the [[Music/Kenya Broadcasting Corporation Music|Kenya Broadcasting Corporation]] served as gatekeeper for what Kenyans could hear.

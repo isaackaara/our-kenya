@@ -1,5 +1,3 @@
-# Nairobi as Melting Pot
-
 Nairobi was founded in 1899 as a railway depot for the Uganda-Kenya Railway, not as a planned capital city. It became [[Kenya]]'s capital by accident of geography and colonial convenience. Unlike most African capitals (which developed in the homeland of dominant ethnic groups), Nairobi belongs to no single ethnic group. The Maasai grazed the land, the British built the railway infrastructure, and eventually [[Rural to Urban Migration and Cultural Severance|everyone arrived seeking opportunity]].
 
 ## Key Facts

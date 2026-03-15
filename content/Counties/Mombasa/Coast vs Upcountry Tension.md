@@ -1,5 +1,3 @@
-# The Coast Land Problem: Coastal Grievances Against Upcountry Dominance
-
 The "Coast Land Problem" refers to a long-standing grievance held by coastal residents (particularly Swahili and [[../../Mijikenda/Mijikenda|Mijikenda]]) that they have been marginalized and dispossessed since Kenya's independence in 1964. The core complaint is that upcountry politicians and wealthy individuals, particularly [[../../Kikuyu/Kikuyu|Kikuyu]], have purchased and controlled increasingly large portions of coastal land, reducing opportunities for coastal residents.
 
 ## Land Alienation Since Independence

@@ -1,5 +1,3 @@
-# Lamu Climate Change
-
 Lamu County faces significant climate change risks, including sea-level rise, changing rainfall patterns, increasing temperatures, and ocean acidification. These changes threaten livelihoods (fishing, agriculture), infrastructure, and the long-term viability of settlements in this low-lying, water-stressed region.
 
 Sea-level rise is perhaps the most immediately threatening impact for Lamu. As global temperatures rise, ocean water expands and land-based glaciers and ice sheets melt, raising sea levels. Projections for the Indian Ocean region suggest sea-level rise of 40-100+ centimeters by 2100, depending on greenhouse gas emission scenarios. For Lamu, with much of the county at or near sea level, this rise poses existential threats.

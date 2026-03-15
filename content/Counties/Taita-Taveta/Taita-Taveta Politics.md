@@ -1,5 +1,3 @@
-# Taita-Taveta Politics
-
 Political development in Taita-Taveta County has been shaped by ethnic identities, colonial administrative legacies, independence-era state formation, and contemporary party politics. The political landscape is characterized by the dominance of Taita ethnic identity in county-level politics, competition between national-level political parties, and periodic tensions between community interests and national political alignments. Politics at both county and national levels significantly affect resource allocation and development priorities for the county.
 
 The Taita people's political identity became salient during the colonial period and strongly persists into contemporary times. During the independence movement and early post-independence period, Taita ethnic representation became important in national politics, with several Taita politicians serving in national government. The perception of Taita marginalization in national political processes has periodically generated demands for greater political recognition and resource allocation.

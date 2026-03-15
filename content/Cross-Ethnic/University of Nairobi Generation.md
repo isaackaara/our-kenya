@@ -1,5 +1,3 @@
-# University of Nairobi Generation
-
 The [[University of Nairobi]], [[Kenya]]'s oldest and most prestigious university, has served as a [[cross-ethnic meeting ground]] for generations of Kenyan students. Students attending the university come from across Kenya, representing all major ethnic groups and numerous smaller ones. The university experience shapes identity formation in ways that frequently transcend [[ethnic identification]].
 
 The University of Nairobi's residential system places students in halls of residence where they live alongside peers from diverse ethnic backgrounds. Haile Selassie Hall, University Hall, Taifa Hall, and other halls serve as communities where students develop close friendships, romantic relationships, and shared experiences. These relationships persist throughout students' careers and lives, creating lifelong networks that operate across ethnic lines.

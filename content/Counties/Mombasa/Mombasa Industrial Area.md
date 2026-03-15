@@ -1,5 +1,3 @@
-# Mombasa Industrial Area: Manufacturing and Processing
-
 The Mombasa Industrial Area is a clustering of small to medium manufacturing and processing enterprises located in the outskirts of Mombasa. The industrial area serves the coastal region's manufacturing needs and contributes to the local economy.
 
 ## Manufacturing Sectors

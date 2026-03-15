@@ -1,5 +1,3 @@
-# Winner-Takes-All Politics: Corruption as Political Necessity
-
 ## The Zero-Sum Game of Kenyan Politics
 
 Kenya's presidential system concentrates enormous power and resources in the presidency. The president controls state appointments, government contracts, land allocation, and other patronage. Losing a presidential election means losing access to all of these resources.

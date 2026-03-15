@@ -1,5 +1,3 @@
-# Mandera Kenya-Somalia Border
-
 The Kenya-Somalia border forms the eastern boundary of Mandera County, separating Kenya from Somalia and creating what is often characterized as one of Africa's most problematic international boundaries. This border, demarcated in colonial treaties between Britain and Italy in the 1890s, divides ethnically similar Somali pastoral populations and has been a zone of conflict, security challenges, humanitarian crises, and complex cross-border interactions for over a century.
 
 ## Border Definition and Demarcation

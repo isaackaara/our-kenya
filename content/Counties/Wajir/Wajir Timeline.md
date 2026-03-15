@@ -1,5 +1,3 @@
-# Wajir Timeline
-
 Key dates and events in Wajir County's history from colonial period through 2026, documenting major developments, conflicts, political transitions, and contemporary events shaping the county's trajectory.
 
 ## Colonial and Early Post-Independence Period

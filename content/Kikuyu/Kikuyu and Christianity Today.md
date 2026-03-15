@@ -1,5 +1,3 @@
-# Kikuyu and Christianity Today
-
 Kenya is among the most Christian countries in Africa, with [[Christianity]] deeply embedded in national identity and everyday life. [[Kikuyu]] Christianity has particular characteristics that distinguish it from Christianity in other Kenyan communities.
 
 ## The Prosperity Gospel

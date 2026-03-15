@@ -1,5 +1,3 @@
-# Kalenjin Witchcraft and Sorcery
-
 Kalenjin cosmology incorporated concepts of harmful spiritual forces and practitioners who could heal or cause harm through supernatural means. The medicine man (chemosit in Kalenjin languages) embodied these capabilities and occupied an ambiguous status in society, both feared for his potential to harm and valued for his ability to protect.
 
 ## Harmful Spiritual Forces

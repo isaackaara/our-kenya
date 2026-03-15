@@ -1,5 +1,3 @@
-# Meru in the Military
-
 ## Military Service Tradition
 
 ### Historical Context

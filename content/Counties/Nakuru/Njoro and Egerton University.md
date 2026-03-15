@@ -1,5 +1,3 @@
-# Njoro and Egerton University
-
 Njoro is a town in [[../Nakuru/Nakuru County|Nakuru County]] located at moderate elevation in the Rift Valley, historically developed around the Egerton agricultural estate. Egerton University, established in 1939 as the Imperial College of Agriculture, is one of Kenya's oldest universities and one of East Africa's premier agricultural research and training institutions.
 
 Egerton University specializes in agriculture, animal science, environmental management, and food science, reflecting Kenya's need for agricultural innovation and improved farming practices. The university operates experimental farms where students and researchers test improved crop varieties, livestock breeds, and farming techniques. Egerton's research has contributed to increased yields in wheat, maize, dairy, and horticulture across the Rift Valley and beyond.

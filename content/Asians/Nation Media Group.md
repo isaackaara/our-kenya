@@ -1,5 +1,3 @@
-# Nation Media Group
-
 The [[Nation Media Group]] (NMG) is East Africa's largest independent media company. Founded by the [[Aga Khan]] in 1959, NMG has wielded enormous influence over Kenya's public discourse through newspapers, television, and digital media. In March 2026, the Aga Khan announced the sale of his majority shareholding.
 
 ## Founding and Purpose

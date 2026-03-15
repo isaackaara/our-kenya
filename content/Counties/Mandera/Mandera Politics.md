@@ -1,5 +1,3 @@
-# Mandera Politics
-
 Mandera County politics reflects broader Kenyan democratic processes while embodying unique dynamics driven by pastoral governance traditions and clan competition. County-level elections determine the governor and county assembly membership through democratic contests involving national political party competition and local factional divisions.
 
 Electoral participation reflects pastoral community engagement with modern democratic systems, though geographical challenges in pastoral areas sometimes limit voting access. Electoral contests frequently align with pastoral clan affiliations, with Degodia and Garre communities supporting different candidates. National political coalitions influence county-level competition, with major national parties competing for county support.

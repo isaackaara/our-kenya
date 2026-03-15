@@ -1,5 +1,3 @@
-# Kamba Knowledge Systems and Epistemology
-
 The Kamba have developed distinctive ways of knowing and understanding the world. This note examines epistemology (theories of knowledge), ways of knowing, and contemporary knowledge dynamics.
 
 ## Traditional Ways of Knowing

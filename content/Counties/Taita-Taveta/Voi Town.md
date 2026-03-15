@@ -1,5 +1,3 @@
-# Voi Town
-
 Voi is the largest urban centre in Taita-Taveta County, serving as the county's primary commercial and service hub. Located on the main highway connecting Nairobi to the Tanzania border, Voi has a population estimated at 25,000-35,000 residents and functions as a significant commercial and transportation nexus for the county and broader southern Kenya region. The town's strategic location on the Kenya-Tanzania highway and at a railway junction have made it an important centre for trade, commerce, and service provision.
 
 The establishment and growth of Voi were substantially influenced by the [[Uganda Railway Taita-Taveta|Uganda Railway]], which passed through the area in the early 1900s. The railway created demand for supplies, services, and administrative facilities, catalyzing Voi's emergence as a railway town. Railway facilities including yards, workshops, and administrative offices were established in Voi, contributing to the town's economic importance and growth.

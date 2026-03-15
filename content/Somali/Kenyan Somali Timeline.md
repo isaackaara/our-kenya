@@ -1,5 +1,3 @@
-# Kenyan Somali Timeline
-
 A chronological reference of key dates and events in [[Kenyan Somali Identity|Kenyan Somali]] history from pre-colonial periods through 2026, documenting the major political, economic, social, and cultural transformations that have shaped the [[Somalia|Somali]] experience in Kenya.
 
 ## Pre-Colonial Period (Before 1895)

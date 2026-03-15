@@ -1,5 +1,3 @@
-# Kamba Military Figures
-
 The Kamba have contributed significantly to Kenya's military forces, with numerous senior officers and soldiers achieving distinction in Kenya Defence Forces and in colonial-era King's African Rifles service. Kamba military personnel have participated in colonial wars, post-independence conflicts, and peacekeeping operations.
 
 ## Colonial-Era Military Service

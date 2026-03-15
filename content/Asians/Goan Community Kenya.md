@@ -1,5 +1,3 @@
-# Goan Community Kenya
-
 Goans are Catholic Christians from Goa, a former Portuguese colony on the west coast of India (annexed by India in 1961). In Kenya, Goans numbered several thousand during the colonial period and today number perhaps 1,000 to 2,000. They occupied a distinct niche in colonial Kenya as English-speaking Catholic professionals trusted by British administrators.
 
 ## Origins and Identity

@@ -1,5 +1,3 @@
-# West Pokot Devolution
-
 The devolution of power from Kenya's national government to county governments, formally implemented in 2013 following the adoption of Kenya's 2010 constitution, represented a fundamental governance restructuring with profound implications for [[West Pokot County]]. Devolution created elected county governments responsible for service delivery, development planning, and resource management at the county level, replacing earlier centralized district-based administration. For West Pokot, devolution created new governance opportunities and challenges, introducing democratic governance structures at the county level while raising questions about county capacity to deliver services and manage development. The county government structure has created new political competition, leadership opportunities, and governance spaces, while simultaneously exposing capacity constraints and resource limitations that constrain service delivery and development outcomes.
 
 ## Constitutional Framework

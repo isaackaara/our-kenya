@@ -1,5 +1,3 @@
-# Samburu Education
-
 Education in [[Samburu]] faces challenges including [[Samburu Pastoralism|pastoral mobility]], school infrastructure gaps, and limited access in remote areas. Enrollment has expanded, though completion rates remain low compared to urban areas. Schools serve [[Samburu Pastoralism|pastoral communities]] with curricula not always reflecting pastoralist livelihoods. Technical and vocational education remains underdeveloped.
 
 ## Access Challenges

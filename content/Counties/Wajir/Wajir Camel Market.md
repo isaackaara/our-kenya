@@ -1,5 +1,3 @@
-# Wajir Camel Market
-
 The Wajir Camel Market stands as one of the largest and most important camel trading centers in East Africa, serving as a crucial economic hub for Wajir County and the broader region. This historic marketplace has functioned for decades as a primary venue where pastoral producers sell camels and other livestock to traders serving local, regional, and international meat and breeding stock markets. The market embodies the economic lifeblood of Wajir's pastoral communities and demonstrates the resilience of traditional trade systems even in remote and underdeveloped regions.
 
 ## Market Scale and Scope

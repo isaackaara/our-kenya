@@ -1,5 +1,3 @@
-# Nyamira Forests
-
 Forest resources in Nyamira County have been depleted through clearing for agriculture and settlement, with limited forest cover remaining. Forest conservation is increasingly important for water supply, biodiversity, and climate regulation.
 
 ## Forest Status

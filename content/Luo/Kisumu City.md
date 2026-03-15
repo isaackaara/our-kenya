@@ -1,5 +1,3 @@
-# [[../Counties/Kisumu/Kisumu County|Kisumu County]] City
-
 Kisumu stands as Kenya's third-largest city and the undisputed cultural capital of the Luo people. With a population exceeding 500,000, it serves as the commercial, administrative, and symbolic heart of Luo Nyanza.
 
 ## Founding and Colonial Origins

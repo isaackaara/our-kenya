@@ -1,5 +1,3 @@
-# Embu Traditional Religion
-
 The Embu practiced a traditional religion centered on Ngai (God), associated with Mount Kenya (Kirinyaga), complemented by veneration of ancestor spirits and ritual specialists. This cosmology has been significantly transformed by Christian missionary activity, though traditional beliefs persist alongside [[Embu and Christianity]] in hybrid forms.
 
 ## Ngai and Mount Kenya

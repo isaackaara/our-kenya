@@ -1,5 +1,3 @@
-# Equator Sound Recording Studio
-
 Equator Sound, established in Nairobi in the early 1950s, became East Africa's first major independent recording studio and launched the careers of numerous musicians who would define Kenyan popular music. The studio represented a crucial step in Africanizing the [[Music/East African Recording Industry Origins|recording industry]], moving from extractive European expeditions toward locally controlled musical production.
 
 The studio was founded by Charles Worrod, a settler with interests in the emerging African music market. While European-owned, Equator Sound differed from previous recording setups by maintaining permanent facilities in Nairobi rather than conducting temporary expeditions. This permanence allowed for regular recording sessions, ongoing relationships with musicians, and gradual technical improvement.

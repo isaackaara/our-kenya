@@ -1,5 +1,3 @@
-# Integrity Centre Kenya
-
 ## Overview
 
 The Integrity Centre (part of Transparency International Kenya) and similar civil society organizations focused on anti-corruption operate to promote ethical behavior, conduct research on corruption, and advocate for institutional reforms. However, the organizations' impact on actual corruption levels is constrained by political resistance to genuine reform.

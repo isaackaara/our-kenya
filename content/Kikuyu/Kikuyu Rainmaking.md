@@ -1,5 +1,3 @@
-# Kikuyu Rainmaking
-
 Rainmaking ceremonies were central to [[Kikuyu]] survival in the East African highlands. When drought threatened harvests and livestock, the community turned to arathi (prophets/seers) and athuri (elders) to conduct elaborate rituals designed to invoke Ngai's blessing and restore rainfall.
 
 ## The Arathi and Athuri

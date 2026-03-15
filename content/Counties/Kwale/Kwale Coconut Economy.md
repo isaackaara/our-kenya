@@ -1,5 +1,3 @@
-# Kwale Coconut Economy
-
 Coconut palms have shaped Kwale's economy and landscape for centuries, providing subsistence and commercial income for countless farming families. The coconut industry remains deeply embedded in Kwale's agricultural identity, despite diversification toward cashews and tourism. Coconuts produce multiple valuable products including copra (dried meat), coconut oil, coconut milk, and fibers, making the palm an exceptionally productive investment.
 
 Coconut cultivation in Kwale predates formal colonial administration, with Arab, Swahili, and local traders recognizing coconut's value for local consumption and export markets. Colonial-era coconut plantations, often held by European settlers or Arab merchants, produced copra for export. Post-independence, smallholder farmers increasingly dominated coconut cultivation, with family holdings replacing large estates.

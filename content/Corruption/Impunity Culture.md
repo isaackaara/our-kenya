@@ -1,5 +1,3 @@
-# Impunity Culture
-
 ## Overview
 
 Kenya has developed a culture of impunity where corruption is widely known but consequences for corrupt individuals are rare, prosecutions even rarer, and convictions rarest of all. This impunity culture is sustained by weak enforcement, political protection of powerful figures, and public resignation that corruption cannot be meaningfully addressed.

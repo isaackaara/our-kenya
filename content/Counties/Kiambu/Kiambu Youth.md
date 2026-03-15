@@ -1,5 +1,3 @@
-# Kiambu Youth Experience
-
 Kiambu's youth face significant challenges despite the county's wealth and proximity to Nairobi. Unemployment is a persistent problem, with many young people unable to secure stable employment despite education. The expectation that Nairobi employment would be accessible to Kiambu residents has not been realized for all, as urban employment is limited and competition is intense.
 
 Gang activity and crime in satellite towns (Thika, Ruiru, Kiambu) have been reported, particularly in informal settlements where economic opportunity is limited. Young men without legitimate employment sometimes engage in theft, robbery, or other criminal activities. Gang membership provides income, identity, and protection for some youth, though the violence and arrest risks are significant. Law enforcement responses have included sweeps and arrests, though these have not addressed underlying unemployment and economic hopelessness.

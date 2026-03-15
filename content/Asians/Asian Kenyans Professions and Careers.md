@@ -1,5 +1,3 @@
-# Asian Kenyans Professions and Careers
-
 Beyond merchant activity and business enterprises, [[Asian Kenyans]] have established significant presence in professional fields including [[medicine]], [[law]], [[engineering]], [[accounting]], and other professions. Professional careers have provided paths to upward mobility and income stability for many [[Asian Kenyans|Asian]] families. Professional success has enabled some [[Asian Kenyans]] to escape dependence on family businesses and create independent careers. However, professional fields have sometimes been dominated by men, with women finding fewer professional opportunities.
 
 ## Medical Profession and Healthcare

@@ -1,5 +1,3 @@
-# Siaya Horticulture
-
 Horticultural development represents a potential growth area for [[Siaya County]]'s agricultural economy, though current horticulture development remains limited. Horticultural crops including vegetables, fruits, and spices offer higher income potential than traditional field crops.
 
 ## Horticultural Potential

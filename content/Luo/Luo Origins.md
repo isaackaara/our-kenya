@@ -1,5 +1,3 @@
-# Luo Origins
-
 The Luo are a Nilotic people whose migration from present-day South Sudan into East Africa shaped the settlement patterns and political geography of the region. Multiple waves of Luo movement over at least five centuries, triggered partly by Islamic conquest and regional upheaval, established them as a dominant force around [[../Conservation/Lake Victoria Kenya|Lake Victoria]] by the 15th century.
 
 ## Key Facts

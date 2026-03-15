@@ -1,5 +1,3 @@
-# Feminist Movements Kenya
-
 Contemporary [[Cross-Ethnic Kenya|Kenyan feminism]] operates as a [[Civil Society Kenya|cross-ethnic movement]] emphasizing women's rights and gender equality. Feminist organizations and activists come from all ethnic backgrounds, united by shared commitment to addressing gender-based inequality. Feminist movements articulate demands using universal language emphasizing women's human rights transcending ethnic particularism.
 
 Kenyan feminist activism emerged more prominently from the 1980s onward, though women's organizations with gender-conscious missions existed earlier. The emergence of organized feminist activism coincided with Kenya's political liberalization and the expansion of women's education. Educated women, increasingly present in universities and professional settings, organized around gender equality issues.

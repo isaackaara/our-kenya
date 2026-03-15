@@ -1,5 +1,3 @@
-# Church as Colonial Tool
-
 Christian missions were agents of colonization. They arrived before colonial conquest was complete and eased the way for colonialism. The missionaries taught that Western civilization and Christian faith were inseparable. Conversion meant cultural transformation.
 
 Missions built schools that educated Africans into colonial culture. They taught that African spiritual practices were pagan and inferior. They taught obedience to authority, work discipline, sexual morality aligned with Victorian culture. The missionaries were doing what they understood as God's work but they were also doing colonialism's work.

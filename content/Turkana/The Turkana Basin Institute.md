@@ -1,5 +1,3 @@
-# The Turkana Basin Institute
-
 The Turkana Basin Institute (TBI) is a research organization focused on paleoanthropology (study of human origins and early human evolution) and related paleontological research in the Turkana region. The institute was founded by renowned paleoanthropologist Richard [[Richard Leakey in Turkana]] and Stony Brook University and operates research stations around [[Lake Turkana]] and in the surrounding Turkana Basin.
 
 ## History and Founding

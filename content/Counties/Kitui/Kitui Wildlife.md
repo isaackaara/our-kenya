@@ -1,5 +1,3 @@
-# Kitui Wildlife
-
 Kitui County supports wildlife populations within the broader Kora ecosystem and various conservation areas. The county experiences human-wildlife interactions including conflict and coexistence. Wildlife conservation balances environmental protection with livelihood needs of local communities. Kora National Reserve connects to Kitui wildlife conservation.
 
 Large mammals historically present in Kitui and surrounding regions include elephants, buffalo, lions, and various antelope species. Habitat loss and human settlement have compressed wildlife into protected areas and wildlife corridors. Wildlife populations remain vulnerable to habitat pressure and poaching.

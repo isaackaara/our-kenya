@@ -1,5 +1,3 @@
-# Mount Kenya National Park
-
 Mount Kenya National Park protects Africa's second-highest mountain and one of the world's most dramatic mountain environments. The park encompasses diverse ecosystems from montane forest to alpine moorland to glacial peaks. [[Mount Kenya]] is a UNESCO World Heritage Site and provides critical [[water conservation|water sources]] and habitat for unique alpine species.
 
 ## Geographic and Ecological Significance

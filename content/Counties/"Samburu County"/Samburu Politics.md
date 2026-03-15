@@ -1,5 +1,3 @@
-# Samburu County Politics and Governance
-
 Samburu County's political history reflects broader Kenya trajectories alongside local particularities related to pastoralism, wildlife conservation, and pastoral community engagement.
 
 Colonial administration of Samburu occurred through appointed headmen and colonial officials managing the region as a pastoral frontier. Colonial authorities maintained relatively light-touch administration while emphasising security and tax collection.

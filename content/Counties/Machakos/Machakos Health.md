@@ -1,5 +1,3 @@
-# Machakos Health
-
 Health infrastructure in Machakos County has expanded significantly under devolved governance, though quality and accessibility remain uneven across urban and rural areas. The county government operates dispensaries, health centres, and referral hospitals providing health services to county residents. Private health facilities also operate in urban areas and market centres, serving populations with ability to pay.
 
 Maternal and child health outcomes have improved in recent years due to expansion of healthcare infrastructure and maternal health services. However, rural areas continue to experience challenges accessing emergency obstetric care. Traditional birth attendants continue to manage many deliveries in remote locations, though skilled birth attendance has become more common.

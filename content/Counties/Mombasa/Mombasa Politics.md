@@ -1,5 +1,3 @@
-# Mombasa Politics: Elections and Governance
-
 Mombasa politics are dominated by the Orange Democratic Movement (ODM), an opposition party that has won every gubernatorial and presidential election in the city since 2007. Mombasa is considered an opposition stronghold and a key electoral battleground.
 
 ## ODM Dominance

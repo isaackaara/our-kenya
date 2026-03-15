@@ -1,5 +1,3 @@
-# [[Raila Odinga.md|Raila Odinga]] Biography
-
 Raila Amolo Odinga stands as the most politically consequential Luo figure of the post-2000 era, reshaping Kenyan politics through ambition, organizational capacity, and strategic coalition building.
 
 ## Early Life and Family

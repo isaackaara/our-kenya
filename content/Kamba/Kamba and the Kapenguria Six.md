@@ -1,5 +1,3 @@
-# Kamba and the Kapenguria Six
-
 [[Paul Ngei|Paul Ngei]], a prominent [[Kamba]] politician and leader, was among the six men detained at Kapenguria during the [[Kamba and Mau Mau|Mau Mau Emergency]], becoming the sole [[Kamba]] among Kenya's most famous independence detainees. His detention, subsequent release, and political career made him a symbolic figure of [[Kamba]] participation in Kenya's independence struggle and shaped [[Kamba]] political positioning in post-independence Kenya.
 
 ## The Kapenguria Six

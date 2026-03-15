@@ -1,5 +1,3 @@
-# Garissa County: Kenya's Largest Northeastern Urban Center
-
 [[Garissa County]], in northeastern Kenya, is the largest urban center in the region and the primary commercial hub connecting the Northern Frontier District to central Kenya. Garissa town has grown from a colonial outpost to a city of approximately 200,000+ residents, serving as administrative capital of [[Garissa County]] and economic center for the region.
 
 ## Geography and Strategic Position

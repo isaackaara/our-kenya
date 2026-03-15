@@ -1,5 +1,3 @@
-# Embu Marriage Customs
-
 Embu marriage customs traditionally involved elaborate ceremonies, bride wealth (mbari ki) transfers, and kinship regulations that structured alliance formation between clans. These practices have undergone significant transformation through Christian influence, statutory law, and contemporary social change.
 
 ## Bridewealth Exchange

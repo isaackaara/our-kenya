@@ -1,5 +1,3 @@
-# Faith Kipyegon
-
 Faith Kipyegon (born January 10, 1994) is a Nandi sub-group Kalenjin distance runner and three-time Olympic gold medallist, the first and only athlete to win three Olympic gold medals in the 1500-metres race. She is a world record holder in both the 1500 metres and the mile, and has emerged as the female face of Kenyan athletics and arguably the most accomplished female distance runner of her era.
 
 ## Ethnic and Geographic Identity

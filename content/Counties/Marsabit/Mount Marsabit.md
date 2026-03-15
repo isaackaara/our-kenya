@@ -1,5 +1,3 @@
-# Mount Marsabit
-
 Mount Marsabit is a forested volcanic mountain rising approximately 1,707 meters from the surrounding Chalbi Desert. The mountain creates a distinctive ecological and hydrological feature in otherwise extremely arid terrain, functioning as an oasis and water catchment.
 
 The mountain's volcanic origins created a crater-based topography. Multiple crater lakes occupy summit depressions, providing freshwater in an arid region. Lake Paradise (Sokorte Dika) and other crater lakes sustain aquatic ecosystems and provide water for wildlife and human communities.

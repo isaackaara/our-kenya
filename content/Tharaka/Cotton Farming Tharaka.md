@@ -1,5 +1,3 @@
-# [[Tharaka Agriculture]] [[Tharaka Agriculture]] Tharaka
-
 Cotton has been a significant cash crop in Tharaka territory, particularly during the [[Tharaka Colonial History]] period and continuing into contemporary times. Cotton cultivation provided income for farmers while affecting land use patterns.
 
 ## Colonial Cotton Introduction

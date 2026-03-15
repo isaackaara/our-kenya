@@ -1,5 +1,3 @@
-# 1969 Election Luo Exclusion
-
 The 1969 election marked the systematic political exclusion of the Luo community from Kenya's power structures, a process that had been building since independence but became explicit and violent in 1969. The Luo, Kenya's third-largest ethnic group after the Kikuyu and Luhya, had been central to Kenya's nationalist movement and to KANU's formation, but they faced increasing marginalization within KANU and within the Kenyatta government as power consolidated in Kikuyu hands.
 
 The marginalization of the Luo was not inevitable. In the early post-independence period, Luo leaders like [[Tom Mboya]] and [[Oginga Odinga]] held powerful positions within KANU and within the government. However, Kenyatta's consolidation of power systematically reduced Luo influence. Odinga was pushed out of the government and eventually out of KANU, forming the Kenya People's Union as an opposition party. Mboya was increasingly sidelined from government decision-making and was assassinated in July 1969, with circumstances that many believed implicated the government.

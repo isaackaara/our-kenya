@@ -1,5 +1,3 @@
-# Garissa Health Infrastructure
-
 [[Garissa County|Garissa County's]] health infrastructure remains inadequate to serve its population's healthcare needs. Despite improvements over the past decade, healthcare capacity, facility distribution, and staffing deficits persist, resulting in health outcomes below national averages and significant unmet healthcare needs.
 
 ## Facility Landscape

@@ -1,5 +1,3 @@
-# Kenyatta Presidency Timeline
-
 ## Key Dates 1963-1978
 
 **December 12, 1963** - Jomo Kenyatta inaugurated as first President of independent Kenya

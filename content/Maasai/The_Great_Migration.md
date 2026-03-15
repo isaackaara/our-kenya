@@ -1,5 +1,3 @@
-# The Great Migration
-
 ## Overview
 
 The Great Migration is the annual movement of wildebeest, zebra, and Thomson's gazelle between Tanzania's Serengeti National Park and Kenya's Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve. It is considered the world's greatest terrestrial wildlife spectacle, with approximately 1.5 million wildebeest, 200,000 zebra, and 400,000 Thomson's gazelle participating in the annual cycle. The migration occurs in response to seasonal rains and grass availability, following a largely predictable but complex annual pattern.

@@ -1,5 +1,3 @@
-# Social Media and Identity
-
 Social media platforms allow Kenyans to present identities beyond ethnic categorization. Online personas can emphasize professional identity, lifestyle interests, or ideological commitments rather than ethnic affiliation. Social media identity formation potentially represents a space where Kenyans construct identity independent of ethnic constraint. However, social media also facilitates ethnic organization and representation.
 
 Instagram and similar visual platforms allow people to curate and present aspects of identity. Kenyans build personal brands around interests including fashion, food, fitness, and art. These personal brands often transcend ethnic categorization, allowing followers to engage with creators based on interest rather than ethnic identity. The aesthetic focus of visual social media potentially reduces ethnic salience.

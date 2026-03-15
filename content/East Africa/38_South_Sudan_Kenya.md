@@ -1,5 +1,3 @@
-# South Sudan and Kenya
-
 Kenya played a crucial role in the [[South Sudan Kenya]] peace process and maintains significant involvement in [[South Sudan Kenya]]'s political and security situation. The Naivasha Comprehensive Peace Agreement (2005) was signed in Kenya and represented a turning point in African conflict resolution.
 
 ## The Second Sudanese Civil War

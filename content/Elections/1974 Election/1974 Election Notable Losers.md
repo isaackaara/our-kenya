@@ -1,5 +1,3 @@
-# 1974 Election Notable Losers
-
 The 1974 election produced unexpected results in which several sitting ministers and prominent MPs lost their parliamentary seats. These defeats signaled both the openness of KANU's internal competition and the risks that even senior politicians faced in constituencies where they had lost touch with constituents. The most notable losers were cabinet ministers and long-serving parliamentarians who had held their seats since independence or shortly thereafter.
 
 Among the most significant defeats was that of Daniel Kiplagat Arwings, a senior minister from the Rift Valley. Arwings had held ministerial positions and was considered an important figure in Rift Valley politics, but he lost his primary contest and failed to win a seat. Similarly, several ministers from other regions faced defeats. These losses indicated that ministerial status alone could not guarantee re-election in the competitive primary environment.

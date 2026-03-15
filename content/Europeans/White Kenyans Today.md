@@ -1,5 +1,3 @@
-# White Kenyans Today
-
 Contemporary [[white Kenyans]] (estimated 30,000-70,000) are a diverse community comprising [[settler descendants]], [[professional expatriates]], and [[recent arrivals]]. This population is far smaller and less politically dominant than [[colonial-era settlers]], but remains economically and culturally significant. The question of whether white Kenyans are truly accepted as [[Kenyans]], or remain [[expatriates]], remains contested.
 
 ## Population and Demographics

@@ -1,5 +1,3 @@
-# Kitui Mining Prospects
-
 Beyond coal deposits at Mui Basin, Kitui County has other mineral resources with development potential. Geological surveys have identified various mineral deposits including gemstones and industrial minerals. Mining prospects represent opportunities for economic development alongside environmental and social risks.
 
 Gemstone deposits in Kitui including tanzanite have attracted mining interest. However, artisanal gemstone mining has remained small-scale, often informal, and minimally regulated. Industrial gemstone mining development has remained limited.

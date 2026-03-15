@@ -1,5 +1,3 @@
-# George and Joy Adamson in Samburu
-
 George Adamson established Kora National Reserve in northern Kenya adjacent to [[Samburu]] region. Joy Adamson worked at Shaba Reserve (now [[Samburu National Reserve]]) and established international fame for wildlife rehabilitation work. Joy Adamson was murdered in 1980. The Adamsons' conservation work created [[Samburu and Tourism|tourism]] and international attention to northern Kenya wildlife and communities.
 
 ## George Adamson and Kora

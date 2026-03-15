@@ -1,5 +1,3 @@
-# Corruption in Healthcare Access
-
 ## Overview
 
 [[Corruption in Kenya Overview|Corruption]] determines healthcare access in Kenya. Patients with money for bribes receive care while patients without bribes are denied. Medicines are sold by health workers who should provide them free. Drugs are stolen from health facilities. These [[Civil Service Salaries and Petty Corruption|corrupt]] practices directly undermine public health and contribute to preventable deaths.

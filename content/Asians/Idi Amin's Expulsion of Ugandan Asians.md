@@ -1,5 +1,3 @@
-# Idi Amin's Expulsion of Ugandan Asians (and Kenya)
-
 In 1972, Uganda's military dictator Idi Amin expelled approximately 60,000 Asians from Uganda. Most fled through Kenya on their way to Britain, India, and other destinations. A small number settled in Kenya, affecting Kenya's Asian demographics and international relations.
 
 ## The Context in Uganda

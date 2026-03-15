@@ -1,5 +1,3 @@
-# Meru Language
-
 Kimeru is the language of the [[Meru people]], a [[Bantu language]] closely related to [[Gikuyu]] and [[Embu]]. Kimeru is spoken across different Meru sub-groups, with recognizable dialectical variations. The transmission of Kimeru to younger generations faces challenges from English and Swahili language dominance in education and urban contexts.
 
 ## Linguistic Classification

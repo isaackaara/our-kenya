@@ -1,5 +1,3 @@
-# 2007-2008 Post Election Violence
-
 The post-election violence that erupted across Kenya between late December 2007 and late February 2008 was the country's worst modern political crisis. More than 1,300 people were killed, over 600,000 were displaced, and patterns of ethnic violence, particularly against Kikuyu communities in the Rift Valley, revealed how deep the fault lines of land, historical grievance, and elite political manipulation ran beneath Kenya's surface.
 
 ## Key Facts

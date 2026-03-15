@@ -1,5 +1,3 @@
-# Olonana (Lenana)
-
 ## Identity and Names
 
 Olonana, more commonly known in historical records as Lenana, was a laibon (spiritual leader and powerful elder) of the Maasai who lived during the late 19th and early 20th centuries. Born approximately 1866, he lived through some of the most transformative decades in East African history: the Rinderpest catastrophe, Maasai civil war, and the arrival of British colonialism.

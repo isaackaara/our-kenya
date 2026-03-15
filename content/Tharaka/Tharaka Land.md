@@ -1,5 +1,3 @@
-# Tharaka Land
-
 The Tharaka occupy drier lowland [[Tharaka Origins]] east of Mount Kenya, characterized by semi-arid climate, variable rainfall, and terrain suited to pastoral and drought-resistant agricultural livelihoods.
 
 ## Geographic Characteristics

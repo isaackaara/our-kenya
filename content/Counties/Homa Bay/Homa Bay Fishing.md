@@ -1,5 +1,3 @@
-# Homa Bay Fishing
-
 Fishing represents the primary economic activity in Homa Bay County, with approximately 6,955 fishing vessels operating from the county's Lake Victoria shoreline according to Kenya Maritime Authority census data. The fishing industry provides livelihoods for thousands of fishermen, traders, and service workers.
 
 ## Fish Species and Commercial Trade

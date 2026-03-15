@@ -1,5 +1,3 @@
-# Asian Retailers Kenya
-
 [[Asian Kenyans|Asian]] merchants and entrepreneurs have been central to [[Kenya]]'s [[retail]] trade since the colonial period. From small duka walahs (shopkeepers) to major supermarket chains, [[Asian Kenyans|Asians]] have shaped [[Kenya]]'s [[retail]] landscape. Contemporary [[retail]] reflects this legacy.
 
 ## From Duka Wallah to Supermarkets

@@ -1,5 +1,3 @@
-# 1988 Election KANU Internal
-
 Even within KANU, opposition to mlolongo emerged. Some KANU politicians were uncomfortable with the queue voting system and its implications for electoral fairness. However, KANU remained subordinate to Moi's authority, and internal dissent could not effectively challenge the president's decision. The limited KANU internal opposition to mlolongo showed that even party insiders recognized the system's problems, but party discipline prevented effective resistance to Moi's electoral innovation.
 
 ## See Also

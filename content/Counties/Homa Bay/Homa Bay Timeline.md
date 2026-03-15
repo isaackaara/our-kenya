@@ -1,5 +1,3 @@
-# Homa Bay Timeline
-
 ## Key Dates in Homa Bay County History
 
 **15th-17th Centuries:** Luo migration into Lake Victoria region from southern Sudan and Uganda. Luo settlement of Homa Bay area.

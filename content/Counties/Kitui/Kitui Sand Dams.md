@@ -1,5 +1,3 @@
-# Kitui Sand Dams
-
 Sand dam technology provides water harvesting innovation addressing water scarcity in Kitui County. The technology involves constructing small dams across seasonal rivers to trap sand that subsequently holds water, providing dry-season water supply. Sand dams represent locally-implementable, low-cost infrastructure complementing boreholes and water storage tanks.
 
 Sand dam construction involves building barriers 1 to 4 meters high across seasonal river channels. During rainy seasons, flowing water is trapped and sand and sediment accumulate behind the dam. This trapped sand functions as a natural aquifer, storing water that remains available long after surface water disappears.

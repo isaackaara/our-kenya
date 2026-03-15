@@ -1,5 +1,3 @@
-# David Rudisha
-
 David Rudisha (born 1988) is an Olympic champion 800-metre runner and world record holder, widely recognized as one of the greatest middle-distance runners in history. Notably, Rudisha is MAASAI, not Kalenjin, a crucial distinction often blurred in discussions of Kenyan athletics. However, he trains within the Kalenjin-dominated running ecosystem, making him relevant to discussions of how regional geography and training culture shape athletic excellence across ethnic lines.
 
 ## Ethnic Identity: Maasai, Not Kalenjin

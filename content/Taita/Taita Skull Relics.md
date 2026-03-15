@@ -1,5 +1,3 @@
-# Taita Skull Relics
-
 The skull relic tradition is central to Taita cultural and religious practice. The specially constructed containers called fingo and the rituals surrounding them represent a sophisticated system of ancestor veneration now increasingly recognized as an important cultural heritage.
 
 ## Fingo Containers

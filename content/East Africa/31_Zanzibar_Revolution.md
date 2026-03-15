@@ -1,5 +1,3 @@
-# Zanzibar Revolution 1964
-
 In January 1964, the Arab ruling class of [[Zanzibar Revolution]] was violently overthrown in a revolution that shocked the region and led to [[Zanzibar Revolution|Zanzibar]]'s rapid union with Tanganyika to form Tanzania. The [[Zanzibar Revolution]] represented a major turning point in [[East African Community]] history.
 
 ## Pre-Revolutionary Zanzibar

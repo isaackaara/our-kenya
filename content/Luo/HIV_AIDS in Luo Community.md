@@ -1,5 +1,3 @@
-# HIV/AIDS in Luo Community
-
 [[../Counties/Homa Bay/Homa Bay County|Homa Bay County]] and Siaya counties have among Kenya's highest HIV prevalence rates, ranging from 13 to 28 percent among adults in hyper-endemic areas, compared to the national average of roughly 5 percent. The cultural practices cited as risk factors (levirate marriage, widow inheritance, sexual cleansing ceremonies) carry particular scrutiny. Yet the epidemic's complex causation involves poverty, health system weakness, mobile populations, and partner dynamics, not merely cultural practice. Community health responses, stigma reduction, and progress since the early 2000s have occurred, yet the burden remains severe.
 
 ## Epidemiology and Geography

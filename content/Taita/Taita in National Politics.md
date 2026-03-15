@@ -1,5 +1,3 @@
-# Taita in National Politics
-
 The Taita have maintained a presence in Kenya's national political landscape since independence, with various political figures emerging from the community and exercising influence at the national level.
 
 ## Early Post-Independence Politics

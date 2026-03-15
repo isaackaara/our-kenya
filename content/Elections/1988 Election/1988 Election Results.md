@@ -1,5 +1,3 @@
-# 1988 Election Results
-
 The 1988 parliament was composed entirely of KANU nominees. Results reflected government management of outcomes rather than voter preferences. Government-backed candidates were victorious regardless of actual voter sentiment. Many sitting MPs were defeated through rigged contests. Cabinet formation followed, with Moi appointing ministers from among the elected MPs. The parliament elected in 1988 was more explicitly a creation of government manipulation than any previous parliament.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Inter-Faith Dialogue Kenya
-
 Inter-faith dialogue initiatives bringing together [[Christianity Across Ethnic Lines|Christian]], [[Muslim]], Hindu, and other religious leaders represent [[Cross-Ethnic Kenya|cross-ethnic]] institutional responses to religious and ethnic tensions. Interfaith councils and dialogue organizations operate as [[Civil Society Kenya|cross-ethnic institutions]] committed to religious tolerance and intercommunal peace. The emphasis on shared religious values transcending ethnic identity creates frameworks for cross-ethnic religious cooperation.
 
 Interfaith councils at national and local levels bring together religious leaders from diverse traditions. These councils address religious concerns, coordinate on peace-building, and advocate for religious freedom. The participation of leaders from multiple traditions requires cross-ethnic cooperation around shared religious values. Council work creates relationships among religious leaders transcending ethnic boundaries.

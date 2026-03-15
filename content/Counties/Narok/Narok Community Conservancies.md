@@ -1,5 +1,3 @@
-# Narok Community Conservancies
-
 Community conservancies in Narok County represent private conservation initiatives established by [[../../Maasai/Maasai|Maasai]] landowners on group ranch and individual properties to protect wildlife while generating revenue through tourism and conservation fees.
 
 These conservancies function as wildlife management areas that operate alongside [[../../Maasai/Maasai|Maasai]] Mara National Reserve, collectively forming the greater Mara ecosystem. They allow landowners to maintain some tenure and management authority while participating in conservation.

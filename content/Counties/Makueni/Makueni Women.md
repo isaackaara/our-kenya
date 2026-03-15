@@ -1,5 +1,3 @@
-# Makueni Women
-
 Women in Makueni County maintain significant roles in agricultural production, household food security, and community wellbeing, though they face constraints including limited property rights, gender-based violence, and unequal access to resources. Women's economic contributions remain essential to household survival and community development.
 
 Women perform substantial agricultural labour including crop cultivation, weeding, harvesting, and postharvest processing. Women often manage household food crops while men manage cash crops, though this division is not absolute. Women's agricultural labour is often uncompensated family work, raising questions about resource access and control.

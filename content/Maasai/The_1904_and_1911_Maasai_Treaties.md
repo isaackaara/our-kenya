@@ -1,5 +1,3 @@
-# The 1904 and 1911 Maasai Treaties: Systematic Colonial Dispossession
-
 ## The 1904 Treaty: Central Rift Valley Ceded
 
 In 1904, the British colonial government negotiated an agreement with the Maasai leadership, claiming to grant them two territorial reserves in exchange for ceding the Central Rift Valley.

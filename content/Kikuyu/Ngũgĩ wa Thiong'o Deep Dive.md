@@ -1,5 +1,3 @@
-# Ngũgĩ wa Thiong'o Deep Dive
-
 Ngũgĩ wa Thiong'o (born 1938 in Limuru) is Kenya's most celebrated novelist and intellectual, whose literary work and cultural criticism have shaped debates about decolonization, language, and African identity for over sixty years.
 
 ## Early Life and Birth Name

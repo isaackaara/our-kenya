@@ -1,5 +1,3 @@
-# Bomet Kipsigis Culture
-
 The Kipsigis people in Bomet maintain distinctive cultural traditions reflecting their heritage and contemporary identity. Cultural practices shape community life and social organization.
 
 ## Initiation Ceremonies

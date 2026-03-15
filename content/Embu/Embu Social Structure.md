@@ -1,5 +1,3 @@
-# Embu Social Structure
-
 Embu social organization traditionally revolved around a clan (mbari) system, age grades, and the authority of elders in managing communal affairs. These structures have persisted through colonial and post-colonial periods, though modernization has altered their practical functions and scope.
 
 ## Clan Organization

@@ -1,5 +1,3 @@
-# Migori HIV
-
 Migori County has a high HIV burden, with prevalence rates estimated at approximately 7.02 percent among men. The HIV epidemic represents a serious public health challenge affecting the county's population and healthcare systems.
 
 ## Prevalence and Extent

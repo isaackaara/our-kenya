@@ -1,5 +1,3 @@
-# Bomet Education
-
 Education is highly valued in Bomet County, with extensive networks of primary and secondary schools. County government manages education service delivery following devolution in 2013.
 
 ## Schools

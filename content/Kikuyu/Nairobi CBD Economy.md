@@ -1,5 +1,3 @@
-# Nairobi CBD Economy
-
 Nairobi's central business district (CBD) is a major commercial center where Kikuyu presence is substantial, particularly in wholesale, retail, and informal sector businesses. The Kikuyu community's dominance in certain economic segments (particularly in the mitumba/second-hand clothing trade) demonstrates economic networks and business culture that have enabled Kikuyu commercial advancement in Kenya's largest city.
 
 ## Gikomba Market

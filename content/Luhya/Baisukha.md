@@ -1,5 +1,3 @@
-# Baisukha (Isukha)
-
 The Baisukha, more commonly known as the Isukha, are one of the more prominent Luhya sub-groups residing primarily in Kakamega District, western Kenya. The Isukha are particularly renowned for their association with the isukuti drum and dance tradition, recognized globally as a UNESCO Intangible Cultural Heritage form.
 
 ## Territory and Location

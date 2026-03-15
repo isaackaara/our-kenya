@@ -1,5 +1,3 @@
-# Ronald Ngala
-
 Ronald Ngala was a pivotal figure in Kenya's independence movement and early post-colonial politics, though he himself was not Luhya but rather Giriama/Mijikenda. However, his political partnership with Luhya leader Masinde Muliro and their co-founding of the Kenya African Democratic Union (KADU) made him profoundly important to Luhya political history and shaped the trajectory of western Kenya politics.
 
 ## KADU Founding and Federalism

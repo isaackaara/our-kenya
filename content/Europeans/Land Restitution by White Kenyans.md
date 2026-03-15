@@ -1,5 +1,3 @@
-# Land Restitution by White Kenyans
-
 While land restitution to dispossessed communities has been limited and incomplete in Kenya, a small number of [[White Farmers Today|European settler families]] and [[conservation]] organizations have voluntarily engaged in land return, ownership restructuring, or [[community partnership]] arrangements. These cases offer partial models of alternative pathways beyond simple maintenance of inherited [[settler]] property claims, though they also reveal the limitations of voluntary restitution as a response to systemic historical injustice.
 
 ## The Lewa Wildlife Conservancy Model

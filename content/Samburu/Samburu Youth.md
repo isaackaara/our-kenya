@@ -1,5 +1,3 @@
-# Samburu Youth
-
 [[Samburu]] youth navigate complex identities balancing [[Samburu Pastoralism|pastoral tradition]] and contemporary modernity. Educational access has expanded dramatically, creating divergence between educated and pastoral youth. Urban migration pulls youth away from [[Samburu Pastoralism|pastoral livelihoods]]. Youth unemployment creates frustration and social tension. Intergenerational conflict emerges as youth challenge traditional restrictions and expectations.
 
 ## Education and Ambition

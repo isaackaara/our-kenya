@@ -1,5 +1,3 @@
-# Sugar Importation Scandals
-
 ## Overview
 
 Kenya's sugar importation process has been the site of recurring corruption scandals where imported sugar is fraudulently labeled as industrial use sugar to evade import duties, then sold into the food supply. The practice has enriched politically connected importers while undermining Kenya's domestic sugar industry and generating government revenue losses estimated at billions of shillings.

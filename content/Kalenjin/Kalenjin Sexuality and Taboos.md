@@ -1,5 +1,3 @@
-# Kalenjin Sexuality and Taboos
-
 Sexual conduct among the Kalenjin was governed by explicit taboos and prohibitions encoded in initiation teaching, family instruction, and community norms. These taboos regulated sexual behavior, fertility, and reproduction, with violations subject to social sanctions, purification rituals, or even expulsion from community.
 
 ## Sexual Taboos in Initiation Teaching

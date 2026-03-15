@@ -1,5 +1,3 @@
-# Kenyan Asian Identity Today
-
 In 2026, Kenyan Asian identity is complex, multifaceted, and contested. Younger generations (third and fourth generation Kenyans) navigate questions of belonging, identity, and future commitment to Kenya. Their experience differs significantly from earlier immigrants and earlier generations.
 
 ## Third and Fourth Generation Reality

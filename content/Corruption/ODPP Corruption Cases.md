@@ -1,5 +1,3 @@
-# ODPP Corruption Cases
-
 ## Overview
 
 The Office of the Director of Public Prosecutions (ODPP) has prosecuted a limited number of high-profile corruption cases. However, conviction rates remain low, trials extend for decades, and major figures often escape accountability through legal technicalities or political intervention. Analysis of ODPP corruption cases reveals patterns of selective prosecution and prosecutorial weakness.

@@ -1,5 +1,3 @@
-# Johann Ludwig Krapf
-
 Johann Ludwig Krapf (1810-1881) was a German Protestant missionary and explorer who established the first Church Missionary Society mission on the Kenya mainland and became the first European to see Mount Kenya. His expeditions and maps fundamentally changed European geographical understanding of East Africa, though initially to skepticism.
 
 ## Early Life and Mission Work

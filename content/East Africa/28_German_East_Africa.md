@@ -1,5 +1,3 @@
-# German East Africa
-
 Tanzania was colonized by Germany (while Kenya was colonized by Britain), creating a political division that persists to this day. [[German East Africa]], established in the 1880s, represented one of the most developed German colonial territories in Africa.
 
 ## German Colonization

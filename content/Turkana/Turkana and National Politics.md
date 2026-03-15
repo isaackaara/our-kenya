@@ -1,5 +1,3 @@
-# Turkana and National Politics
-
 Turkana's political representation at Kenya's national level has historically been limited relative to the region's population and area, reflecting both geographic remoteness and limited political influence. However, the 2012 [[Oil Discovery in Turkana]] discovery has elevated Turkana's strategic importance within national politics, attracting greater political attention and creating new political dynamics.
 
 ## Historical Political Marginalization

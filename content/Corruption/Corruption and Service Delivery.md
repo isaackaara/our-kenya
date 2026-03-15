@@ -1,5 +1,3 @@
-# Corruption and Service Delivery
-
 ## Overview
 
 [[Corruption in Kenya Overview|Corruption]] directly undermines the quality and equity of public services. Money stolen from health budgets means fewer drugs in hospitals. Money stolen from education budgets means fewer schools or underpaid teachers. Money stolen from [[Corruption and Infrastructure Quality|road]] maintenance budgets means deteriorating infrastructure. The relationship between corruption and service delivery failure is direct and measurable.

@@ -1,5 +1,3 @@
-# Kamba and Climate Change
-
 Ukambani is among the regions of Kenya most vulnerable to climate change impacts, particularly regarding water availability and agricultural productivity. The semi-arid Kamba environment, already characterized by erratic rainfall and periodic droughts, faces increasing climatic stress that threatens livelihoods and forces adaptation.
 
 ## Ecological Vulnerability

@@ -1,5 +1,3 @@
-# Gujarati Hindus Kenya
-
 Gujarati Hindus are the largest Hindu community in Kenya and among the most economically visible Asian sub-groups. They arrived as merchants, traders, and laborers, and have built a parallel institutional world of temples, schools, and business networks.
 
 ## The Major Communities: Patels, Lohanas, and Bhatias

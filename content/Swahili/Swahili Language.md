@@ -1,5 +1,3 @@
-# Swahili Language
-
 Kiswahili (usually shortened to "[[Swahili Language|Swahili]]") is a Bantu language with significant Arabic vocabulary. The language became the lingua franca of East Africa and is today the most widely spoken African language in the world, with an estimated 100-200 million first and second language speakers. The language's history reflects [[Swahili Civilization Overview|Swahili civilization]]'s synthesis of African, Arab, and Asian influences.
 
 ## Linguistic Roots

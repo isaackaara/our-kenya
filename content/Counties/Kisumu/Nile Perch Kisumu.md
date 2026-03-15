@@ -1,5 +1,3 @@
-# The Nile Perch: Ecological Catastrophe and Export Industry
-
 The introduction of the Nile perch to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] in the 1950s-1960s represents one of the world's most significant ecological disasters. The predatory fish caused the extinction or near-extinction of hundreds of endemic fish species while creating a massive export industry in Kisumu and surrounding areas.
 
 ## Introduction and Rationale

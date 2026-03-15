@@ -1,5 +1,3 @@
-# Embu Land [[Embu Human Rights]] Today
-
 Contemporary Embu land issues involve registration, disputes, inheritance, and historical claims against colonial-era [[Embu Land Alienation]]. Land is highly valued as productive asset, wealth store, and identity marker. Unequal distribution persists, with some families holding substantial holdings while others remain landless.
 
 ## Land Registration and Titling

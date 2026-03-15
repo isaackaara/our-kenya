@@ -1,5 +1,3 @@
-# Meru Tourism
-
 Tourism in Meru County remains underdeveloped compared to major national destinations, yet the county possesses significant tourism attractions. Meru National Park, [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s northern circuit, and cultural attractions including miraa farms present opportunities for tourism development. The county government and private operators are gradually expanding tourism infrastructure and marketing.
 
 ## Meru National Park

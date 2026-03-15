@@ -1,5 +1,3 @@
-# Samburu Real Estate and Property Development
-
 The property market in Samburu County has experienced growth with development initiatives and tourism industry expansion, though at lower scales than urban centres.
 
 Maralal town has experienced property development with new commercial and residential construction projects undertaken by individuals and companies. Buildings include hotels, shops, residential apartments, and office spaces catering to growing population and commercial activity.

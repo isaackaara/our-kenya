@@ -1,5 +1,3 @@
-# Mixed Marriages and Mixed Families
-
 Over the course of the 20th and early 21st centuries, some [[European settler]] families in Kenya intermarried with [[Kenyans]] of various backgrounds, creating children and grandchildren with complex, multi-layered identities that complicate simple categories of "[[settler]]" or "Kenyan." These unions occurred across [[ethnic]], [[racial]], [[religious]], and class boundaries, though always against significant social resistance from both [[colonial-era]] and post-colonial communities.
 
 ## The Colonial Prohibition on Intermarriage

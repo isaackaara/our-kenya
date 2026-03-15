@@ -1,5 +1,3 @@
-# Nyeri Coffee
-
 Nyeri coffee is among the finest Arabica coffee in the world, recognized internationally for its distinctive flavor profile and quality. Coffee cultivation has been central to Nyeri's economy since the colonial period, and the county's coffee origin has developed significant brand recognition in specialty coffee markets. Coffee cooperatives play crucial roles in organizing production and accessing markets for thousands of smallholder farmers.
 
 ## Historical Development

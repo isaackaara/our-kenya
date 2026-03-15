@@ -1,5 +1,3 @@
-# Kikuyu Sub-group Tensions
-
 The [[Kikuyu]] are not a monolithic group. Significant regional and class differences divide the broader Kikuyu community, creating tensions that have shaped Kikuyu politics and identity.
 
 ## Four Regional Identities

@@ -1,5 +1,3 @@
-# Nyeri Town
-
 Nyeri Town serves as the county headquarters and primary commercial center of Nyeri County. Located at approximately 1,750 meters elevation on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern slopes, the town functions as an agricultural service center and regional trade hub. The colonial history of Nyeri Town as an administrative center continues to shape its role in contemporary governance.
 
 ## Historical Development

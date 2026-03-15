@@ -1,5 +1,3 @@
-# Amboseli National Park
-
 Amboseli National Park encompasses approximately 392 square kilometers in Kajiado County and represents Kenya's second most visited national park (after [[../../Maasai/Maasai|Maasai]] Mara). The park is internationally renowned for large elephant populations and the iconic view of Mount Kilimanjaro's snow-capped peaks framing the savanna landscape.
 
 Amboseli was designated as a national park in 1974 and functions as a major tourism destination, conservation area, and site of long-term wildlife research.

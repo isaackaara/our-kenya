@@ -1,5 +1,3 @@
-# The East Africa Campaign WWI
-
 The [[East Africa Campaign WWI]] was one of the war's most grueling theaters, conducted in disease-ridden tropical territory with enormous civilian casualties. It lasted from 1914 until the 1918 armistice and profoundly affected [[East African Community]] populations and societies.
 
 ## The Military Conflict

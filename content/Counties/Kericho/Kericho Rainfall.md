@@ -1,5 +1,3 @@
-# Kericho Rainfall
-
 Kericho county receives some of the most reliable and abundant rainfall in Kenya, with annual precipitation averaging 2,000 to 2,500 millimetres in many areas. The characteristic rainfall pattern features almost daily afternoon thunderstorms during the rainy seasons, creating a perpetually green landscape and humid microclimate. This exceptional rainfall regime, combined with the county's high elevation, creates ideal conditions for tea cultivation, as tea plants thrive in cool, wet highland environments with consistent moisture.
 
 The reliability of Kericho's rainfall distinguishes it from most other Kenyan regions, where droughts periodically devastate agriculture. However, climate change has begun altering traditional rainfall patterns, with increasing variability in timing and intensity affecting both agricultural planning and water resource management. Despite these emerging challenges, Kericho's rainfall remains its most valuable natural asset, supporting not only tea production but also the region's diverse agricultural economy and natural vegetation.

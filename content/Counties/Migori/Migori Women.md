@@ -1,5 +1,3 @@
-# Migori Women
-
 Women in Migori County play central economic and social roles while facing significant constraints in resource access and decision-making authority. Gender relations reflect traditional customs and contemporary constitutional equality guarantees.
 
 ## Economic Roles and Livelihoods

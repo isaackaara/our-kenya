@@ -1,5 +1,3 @@
-# Fort Jesus
-
 Fort Jesus, constructed by the Portuguese between 1593-1596 at [[Mombasa]], stands as one of the oldest surviving European military structures in sub-Saharan Africa. The fortress symbolizes the [[Portuguese Domination|Portuguese era of domination]] on the East African coast and later served as a symbol of [[The Omani Conquest|Omani]] and British control. Today it is a UNESCO World Heritage Site and [[Swahili Coast Tourism|museum]].
 
 ## Construction and Design

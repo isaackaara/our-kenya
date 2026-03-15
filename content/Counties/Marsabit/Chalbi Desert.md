@@ -1,5 +1,3 @@
-# Chalbi Desert
-
 The Chalbi Desert is one of the few true deserts in Kenya, occupying the lowland zones of Marsabit County. Covering approximately 2,500 square kilometers, the Chalbi represents an extreme arid environment where rainfall is minimal, vegetation is sparse, and water sources are scarce.
 
 The name "Chalbi" refers to the salt deposits and alkaline soils characteristic of the desert. Evaporation in the arid climate leaves mineral residues, creating salty, crusty surfaces in some areas. Water bodies in the desert tend to be alkaline or saline, unsuitable for direct human and livestock consumption.

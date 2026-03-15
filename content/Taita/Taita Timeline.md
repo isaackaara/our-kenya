@@ -1,5 +1,3 @@
-# Taita Timeline
-
 Key dates and periods in Taita history from pre-colonial times through 2026 provide a chronological framework for understanding Taita historical development.
 
 ## Pre-colonial Period (Before 1890s)

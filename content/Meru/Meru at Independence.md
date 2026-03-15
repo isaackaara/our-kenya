@@ -1,5 +1,3 @@
-# Meru at Independence
-
 Kenya's independence in 1963 marked a transition from colonial rule to African self-governance. [[Meru]] political figures played roles in shaping the new nation, though they occupied secondary positions relative to dominant [[Kikuyu]] under [[Jomo Kenyatta]].
 
 ## First Meru MPs and Political Alignments

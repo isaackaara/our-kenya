@@ -1,5 +1,3 @@
-# Tharaka Beekeeping
-
 Beekeeping is an increasingly important [[Tharaka Economic Development]] activity in Tharaka territory, providing income and contributing to food security. The practice combines [[Tharaka Traditional Religion]] knowledge with modern techniques and technology.
 
 ## Traditional Beekeeping

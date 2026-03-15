@@ -1,5 +1,3 @@
-# [[../Counties/Bungoma/Bungoma County|Bungoma County]] Politics
-
 Bungoma County is the heartland of [[Luhya|Luhya]] sub-group of the Luhya confederation. County politics have been shaped by Bukusu dominance, the biennial circumcision season, and relationships between Bungoma and neighboring Trans-Nzoia county.
 
 ## Bukusu Dominance

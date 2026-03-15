@@ -1,5 +1,3 @@
-# Maasai Architecture: Enkaji, Manyatta, and Pastoral Design
-
 ## The Enkaji: Portable Home
 
 The *enkaji* (Maasai house) is a low oval or circular structure, roughly 3 meters long and 2 meters high. The framework is built from flexible branches (often acacia) bent and lashed together.

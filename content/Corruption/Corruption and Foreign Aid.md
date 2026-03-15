@@ -1,5 +1,3 @@
-# Corruption and Foreign Aid
-
 ## Overview
 
 Kenya receives substantial foreign aid from bilateral and multilateral donors (World Bank, IMF, DFID, USAID, and others). [[Corruption in Kenya Overview|Corruption]] diverts a portion of this aid from intended purposes. Donor governments have occasionally responded to discovered corruption by suspending budget support, but aid flows have generally continued despite persistent corruption concerns.

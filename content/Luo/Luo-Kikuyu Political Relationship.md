@@ -1,5 +1,3 @@
-# Luo-Kikuyu Political Relationship
-
 The relationship between the Luo and Kikuyu communities forms the central axis of Kenyan democracy and is characterized by periodic alliance and periodic violent rupture across 60+ years. When allied (as in 1963 and 2002), these two numerically and politically dominant groups have formed governing coalitions. When opposed (as in 1966, 1969, and 2007), ethnic tensions have erupted into violence that kills hundreds or thousands. This pattern of alliance-betrayal-alliance, repeated across generations, reflects both the structural importance of Luo-Kikuyu cooperation and the deep suspicion and competition that underlies their relationship.
 
 ## Key Facts

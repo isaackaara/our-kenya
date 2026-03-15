@@ -1,5 +1,3 @@
-# Tharaka and the Kamba
-
 The Kamba (Akamba) border the Tharaka to the south, occupying areas in Machakos and Makueni counties. Tharaka-Kamba relationships have involved [[Tharaka Economic Development]], occasional conflict, and cross-border movements of people and goods.
 
 ## Geographic Boundaries

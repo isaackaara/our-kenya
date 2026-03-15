@@ -1,5 +1,3 @@
-# Ogaden Clan Kenya
-
 The [[Ogaden Clan Kenya|Ogaden]] are the largest [[Kenyan Somali Identity|Somali]] clan present in Kenya, concentrated primarily in [[Garissa County]]. The Ogaden belong to the [[Darod clan family]] and are part of the transnational Ogaden people whose territory spans Kenya, Ethiopia (the Somali Region, historically called the Ogaden), and [[Somalia]]. The Ogaden in Kenya maintain deep economic, cultural, and political connections to their kin across borders.
 
 ## Territory and Population

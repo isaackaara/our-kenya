@@ -1,5 +1,3 @@
-# Embu Crafts
-
 Embu traditional crafts include basketry, pottery, and ironwork. These crafts provided functional items for household use, ceremonial purposes, and trade. Contemporary craft production increasingly targets urban consumers and tourists, blending traditional techniques with modern market demands.
 
 ## Basketry

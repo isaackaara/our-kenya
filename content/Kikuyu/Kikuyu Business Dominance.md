@@ -1,5 +1,3 @@
-# Kikuyu Business Dominance
-
 The Kikuyu are Kenya's largest ethnic group and have been disproportionately represented in formal business, finance, real estate, and retail since independence. This economic profile has roots in colonial-era access to education (through the [[Githunguri Teachers College]] movement and missionary schooling), geographic proximity to Nairobi, and the patterns of post-independence land acquisition that favoured the Kikuyu elite. It has generated both real economic power and persistent political tension, especially during the [[Daniel arap Moi Era]] when economic resources and political marginalisation coexisted.
 
 ## Key Facts

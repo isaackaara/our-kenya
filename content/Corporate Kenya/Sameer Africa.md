@@ -1,5 +1,3 @@
-# Sameer Africa
-
 Sameer Africa is a diversified [[conglomerate Kenya|conglomerate]] operating in [[motors and parts Kenya|motors and parts]], [[industrial chemicals Kenya|industrial chemicals]], [[automotive assembly Kenya|automotive assembly]], and other sectors. Though diversified, Sameer's core business is vehicle assembly and automotive components. Like other local assemblers, Sameer has faced intense pressure from imported vehicles.
 
 ## Overview

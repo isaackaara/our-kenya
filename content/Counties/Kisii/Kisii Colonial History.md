@@ -1,5 +1,3 @@
-# Kisii Colonial History
-
 The colonial administration of Kisii District, originally known as [[Gusii People Kisii.md|Gusii]], transformed the region's economy, society, and governance structures. British colonial rule lasted approximately 70 years, from the 1890s until Kenya's independence in 1964.
 
 ## Early Colonial Contact

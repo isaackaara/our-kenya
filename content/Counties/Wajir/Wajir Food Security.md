@@ -1,5 +1,3 @@
-# Wajir Food Security
-
 Food insecurity represents one of Wajir County's most chronic and serious challenges, affecting substantial populations particularly during drought periods. The county's arid climate, limited agricultural production, pastoral livelihood dependence, and periodic environmental shocks create persistent vulnerability to food shortages. Malnutrition rates, particularly among children, remain elevated, and humanitarian assistance providing emergency food aid has become a regular feature of the county's development landscape.
 
 ## Causes of Food Insecurity

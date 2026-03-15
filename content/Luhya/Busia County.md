@@ -1,5 +1,3 @@
-# Busia County
-
 Busia County is a border county located in western Kenya where the Kenya-Uganda international boundary forms the western boundary. The Busia-Malaba border crossing is one of Kenya's busiest international borders, with enormous informal cross-border trade flows that dwarf official customs statistics.
 
 ## Geographic Location

@@ -1,5 +1,3 @@
-# Kabarnet Town
-
 Kabarnet serves as the county headquarters and principal urban center in Baringo County, located in the Tugen Hills at elevation approximately 1,950 meters. The town functions as the commercial and administrative hub for county government and surrounding pastoral and agricultural communities.
 
 Kabarnet has experienced gradual urbanization reflecting increased commercial activity, government administration, and service expansion. The town's climate and elevation make it an attractive location for agriculture and habitation.

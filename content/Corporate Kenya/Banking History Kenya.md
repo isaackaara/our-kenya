@@ -1,5 +1,3 @@
-# Banking History Kenya
-
 Kenya's banking sector has evolved from colonial trading bank outposts to a diversified system with multiple local banks, foreign banks, and digital financial services. The trajectory reflects Kenya's broader economic history: colonial extraction, post-independence state control, [[liberalisation]], crises, and adaptation to [[mobile money]].
 
 ## Colonial Era Banking (1900-1963)

@@ -1,5 +1,3 @@
-# Machakos Wildlife
-
 Machakos County supports diverse wildlife populations despite extensive human settlement and agricultural development. The county includes Ol Donyo Sabuk National Park, which protects wildlife habitat and provides recreational opportunities. Wildlife conservation in Machakos faces challenges from habitat loss, human-wildlife conflict, and poaching.
 
 Large mammals historically present in Machakos include elephants, buffalo, and various antelope species. Habitat fragmentation has compressed wildlife into protected areas and wildlife corridors, reducing populations and creating conflicts with human communities. Elephants occasionally emerge from protected areas into agricultural lands, destroying crops and threatening human life.

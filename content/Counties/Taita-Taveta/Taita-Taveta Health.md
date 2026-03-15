@@ -1,5 +1,3 @@
-# Taita-Taveta Health
-
 The health system in Taita-Taveta County consists of public health facilities managed by the county government, private health providers, and community health workers. The county faces significant health challenges including limited health infrastructure in rural areas, insufficient health personnel, and the burden of both communicable and non-communicable diseases affecting the population. Health service delivery varies considerably between urban centres and remote areas.
 
 The public health system is organized hierarchically with county hospitals (primarily Wundanyi County Hospital and Voi County Hospital), sub-county hospitals, health centres, and dispensaries distributed across the county. However, rural health facilities often lack adequate equipment, medicines, and personnel, resulting in poor service quality. Many residents in remote areas must travel considerable distances to access health facilities.

@@ -1,5 +1,3 @@
-# Homa Bay HIV
-
 Homa Bay County carries one of Kenya's highest HIV burdens, with prevalence rates among men recorded at approximately 7.91 percent, the highest among Kenya's 47 counties. Female prevalence rates are substantially higher. The HIV epidemic represents a critical public health emergency affecting the county's population and healthcare systems.
 
 ## Prevalence and Extent

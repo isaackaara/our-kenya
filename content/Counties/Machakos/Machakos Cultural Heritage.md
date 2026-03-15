@@ -1,5 +1,3 @@
-# Machakos Cultural Heritage
-
 Machakos County preserves and expresses a rich Kamba cultural heritage encompassing music, visual arts, language, kinship systems, and spiritual practices. This cultural legacy has deep historical roots and continues to shape contemporary Machakos identity despite modernization and globalization.
 
 The carving tradition represents Machakos's most internationally recognized cultural expression. Kamba wood carvers produce intricate sculptures from wood, creating both functional items and decorative pieces. Carving tradition reflects both aesthetic preferences and commercial adaptation to global markets. Kamba carvers developed export markets for their work, creating economic opportunities while transforming traditional crafts into commodities.

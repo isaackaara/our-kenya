@@ -1,5 +1,3 @@
-# The Kiama Courts
-
 The kiama was a council of elders that served as the primary institution for justice, governance, and religious ceremony in pre-colonial Kikuyu society. Each ridge (githaka) had its own kiama, and kiama councils existed at multiple levels, from local ridge courts to inter-ridge councils.
 
 ## Structure and Authority

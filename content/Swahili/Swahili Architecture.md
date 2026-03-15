@@ -1,5 +1,3 @@
-# Swahili Architecture
-
 The distinctive architecture of [[Swahili]] coastal towns represents a remarkable synthesis of African, Arab, Persian, and Indian design principles adapted to the tropical East African environment. [[Swahili]] buildings are among the most accomplished works of African architecture, demonstrating sophisticated understanding of climate, materials, aesthetics, and urban planning within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Coral Stone Construction

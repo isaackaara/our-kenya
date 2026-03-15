@@ -1,5 +1,3 @@
-# Wycliffe Oparanya
-
 Wycliffe Ambetsa Oparanya (born March 25, 1956) is a prominent Kenyan politician who served as the first Governor of [[../Counties/Kakamega/Kakamega County|Kakamega County]] from 2013 to 2022 and currently serves as Cabinet Secretary for Cooperatives and MSMEs (Micro, Small, and Medium Enterprises) in the Ruto administration. Oparanya's tenure as governor and his broader political career represent significant Luhya political leadership and involvement in county governance under Kenya's devolved system.
 
 ## Early Political Career

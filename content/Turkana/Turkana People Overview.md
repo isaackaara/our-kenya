@@ -1,5 +1,3 @@
-# Turkana People Overview
-
 The Turkana are a Nilotic pastoralist people of northwestern Kenya, primarily inhabiting Turkana County (formerly Turkana District), the largest county in Kenya by area at approximately 77,000 square kilometers (roughly the size of Scotland). With a population estimated between 900,000 and 1,000,000, they comprise the majority of residents in their eponymous county, though Turkana County is also home to Pokot, Samburu, Dassanach, and other communities.
 
 ## Nilotic Origins and Classification

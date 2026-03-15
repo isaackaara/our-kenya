@@ -1,5 +1,3 @@
-# Kenya Road Racing Economy: How Marathon Prize Money Transformed Running into Commerce
-
 Kenya's elite distance running would not exist in its current form without prize money from marathon racing. The economics of professional running have fundamentally shaped Kenya's athletic landscape. A Kenyan runner can earn more from winning a single major marathon than from any combination of track running or world championships. This economic structure, driven by international sponsorships and media rights, has transformed running from sport into livelihood and, for elite athletes, into path to wealth.
 
 Marathon racing, distinct from track distance running, developed as a professional sport beginning in the 1980s with events like New York, Boston, and Chicago. These races offered significant prize purses, with winners earning between $50,000 and $200,000 per race in the late 20th century. For Kenyan runners in the 1980s and 1990s, these sums were transformative. A single marathon win could generate annual income exceeding what most Kenyans earned in several years. This created immediate incentive for elite runners to specialize in marathon racing.

@@ -1,5 +1,3 @@
-# Luhya Crafts and Visual Culture
-
 Luhya communities have developed sophisticated crafts and visual traditions that reflect both aesthetic values and practical adaptation to the environment. These crafts have historically been essential for household function but also carry cultural significance and artistic value.
 
 ## Pottery

@@ -1,5 +1,3 @@
-# Healthcare Queue Jumping
-
 ## Overview
 
 Access to public health services in Kenya is determined in part by ability to pay informal charges. Patients seeking faster access or priority care pay health workers bribes. Patients seeking medicines pay nurses informal charges. This informal payment system creates inequality in access to care and extracts resources from poor patients, a form of [[Civil Service Salaries and Petty Corruption|petty corruption]] with major consequences.

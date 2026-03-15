@@ -1,5 +1,3 @@
-# Homa Bay Cultural Heritage
-
 Homa Bay County embodies distinctive Luo cultural practices and traditions that define community identity and continue to influence contemporary society. These traditions reflect centuries of Luo settlement and cultural development.
 
 ## Clan Organization and Leadership

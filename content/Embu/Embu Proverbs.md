@@ -1,5 +1,3 @@
-# Embu Proverbs
-
 Embu proverbs encode moral lessons, social norms, and practical wisdom in memorable, concise forms. These sayings, transmitted orally across generations, reflect Embu values, observations about human nature, and guidance for social behavior. Modern documentation has preserved some proverbs, though oral transmission continues to decline.
 
 ## Marriage and Family Proverbs

@@ -1,5 +1,3 @@
-# Ruma National Park
-
 Ruma National Park is Kenya's only terrestrial national park located in Nyanza Province, situated in Homa Bay County. The park covers an area of approximately 120 square kilometers and is dedicated to protecting Kenya's endangered roan antelope population.
 
 ## Significance as Last Roan Antelope Refuge

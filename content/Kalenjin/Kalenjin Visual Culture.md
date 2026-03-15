@@ -1,5 +1,3 @@
-# Kalenjin Visual Culture
-
 Traditional Kalenjin visual culture encompassed distinctive forms of bodily adornment, clothing, and decorative practices that communicated status, age, identity, and affiliation. Warrior aesthetics, in particular, created striking visual forms that encoded complex social and cultural meanings.
 
 ## Warrior Aesthetics and Ochre

@@ -1,5 +1,3 @@
-# Luhya Ancestor Beliefs
-
 In traditional Luhya cosmology, the ancestors (emisambwa in singular omusambwa) occupy a crucial position between the living and the divine. They are not gods, but rather the immediate spiritual presence in daily life, intervening in family affairs, agricultural fertility, and community wellbeing. The relationship between the living and their ancestors forms the moral and spiritual foundation of Luhya community life.
 
 ## The Concept of Emisambwa

@@ -1,5 +1,3 @@
-# Congolese Influence on Kenya 1980s
-
 Congolese rumba and soukous music achieved unprecedented influence over Kenya's musical landscape during the 1980s, creating hybrid sounds and establishing infrastructure that would outlast the genre's peak popularity. International stars like Kanda Bongo Man and Pepe Kalle toured Kenya regularly, while Kenyan-based Congolese musicians created permanent musical presence that transformed East African popular music.
 
 Tabu Ley Rochereau's April 1982 Nairobi concerts represented the apex of Congolese music's Kenyan dominance. His Maze orchestra performed to capacity crowds, demonstrating rumba's extraordinary cross-ethnic appeal. Unlike [[Music/Kenyan Benga Music|benga]] or other ethnic-specific genres, Lingala music attracted Kenyans across tribal boundaries, providing rare common cultural ground in increasingly divided nation under [[Presidencies/Daniel arap Moi Presidency|President Moi]].

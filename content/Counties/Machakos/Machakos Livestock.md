@@ -1,5 +1,3 @@
-# Machakos Livestock
-
 Livestock rearing remains integral to Machakos County livelihoods and economy, providing meat, milk, hides, and wealth accumulation despite environmental constraints. Cattle, goats, sheep, and camels adapted to semi-arid conditions constitute the principal livestock types. Livestock systems reflect both traditional pastoral practices and contemporary market integration.
 
 Cattle represent the most valued livestock in Machakos society, embodying wealth, status, and cultural identity in Kamba tradition. Traditional cattle rearing emphasized herd growth and cultural value, though increasingly cattle serve commercial meat and dairy production. Cattle require substantial grazing resources and water, making them vulnerable to drought.

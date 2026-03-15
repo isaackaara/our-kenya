@@ -1,5 +1,3 @@
-# Ruto Economic Record 2023-2025
-
 [[William Ruto]]'s economic record during 2023-2025 reflects mixed results combining growth initiatives with persistent macroeconomic challenges. Early years saw some economic growth, though inflation and external debt service have created pressures limiting expansionary policy options. The government's hustler nation programs, including the Hustler Fund and agricultural support initiatives, have aimed to support informal sector activity and smallholder farmers. However, questions remain regarding whether these programs have substantially improved economic conditions for intended beneficiaries.
 
 Agricultural expansion has continued to be important to Kenya's economy, with government policies emphasizing increased fertilizer use and improved seed varieties. However, persistent drought in pastoral regions has created humanitarian crises and undermined pastoral productivity. The government's response to drought has included emergency relief efforts and long-term development initiatives, though adequacy of response has been questioned.

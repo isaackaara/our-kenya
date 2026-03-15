@@ -1,5 +1,3 @@
-# Lion Population Kenya
-
 Kenya's lion population has declined substantially over recent decades, driven by habitat loss, prey depletion, disease, and [[Human-Wildlife Conflict|human persecution]]. Lions remain iconic to Kenya's [[Kenya as Global Conservation Model|wildlife]] and attract significant tourism interest. However, conservation of Kenya's lion population faces ongoing challenges including human-wildlife conflict and habitat fragmentation.
 
 ## Population Estimates and Trends

@@ -1,5 +1,3 @@
-# Hindu Temples Kenya
-
 Hindu temples in Kenya serve as religious centers for Hindu Kenyans (primarily Gujarati) and as cultural focal points for Hindu community life. The temples host religious worship, festivals, education, and social gatherings.
 
 ## The Swaminarayan Temple, Nairobi

@@ -1,5 +1,3 @@
-# Kajiado Climate Change
-
 Kajiado County faces significant climate change impacts including increasing drought frequency and severity, rainfall pattern changes, rising temperatures, and cascading effects on pastoral livelihoods, wildlife populations, and human food security across the region.
 
 ## Temperature Trends

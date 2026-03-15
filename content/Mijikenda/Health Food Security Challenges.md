@@ -1,5 +1,3 @@
-# [[health]] and [[food security]] [[challenges]]
-
 Mjikenda communities face ongoing challenges related to health and food security. These challenges are interconnected, with malnutrition affecting health and food insecurity contributing to multiple health problems. Understanding these challenges illuminates contemporary Mjikenda circumstances and development needs.
 
 ## Malnutrition and Stunting

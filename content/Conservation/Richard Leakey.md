@@ -1,5 +1,3 @@
-# Richard Leakey
-
 [[Richard Leakey]] is a renowned [[paleontologist]], [[paleoanthropologist]], and [[conservationist]] who served as Director of the [[Kenya Wildlife Service]] (1989-1994) and later held conservation leadership roles. Leakey's tenure at KWS transformed the organization into an effective conservation force, establishing a model for wildlife protection that influenced conservation globally.
 
 ## Paleontological Career

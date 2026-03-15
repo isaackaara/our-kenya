@@ -1,5 +1,3 @@
-# Nairobi's Healthcare Sector: Hospitals and Medical Services
-
 Nairobi is Kenya's primary healthcare hub, home to the country's largest concentration of hospitals, clinics, specialists, and medical infrastructure. The sector is divided between public hospitals, private hospitals and clinics, and international medical centers.
 
 ## Kenyatta National Hospital

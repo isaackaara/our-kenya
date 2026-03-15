@@ -1,5 +1,3 @@
-# Likoni Ferry: Bridge and Tragedies
-
 The Likoni ferry crossing, connecting Mombasa Island to the mainland south of the city, has been the site of multiple tragedies, including capsizing incidents and drownings that have claimed hundreds of lives over decades.
 
 ## Historic Ferry Service

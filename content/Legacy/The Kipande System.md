@@ -1,5 +1,3 @@
-# The Kipande System
-
 The kipande was the colonial pass book system. African men were required to carry a pass book (kipande in Swahili) that documented their identity, their location, their employer. The kipande was an instrument of control. Without a kipande, an African could be arrested.
 
 The kipande system was designed to control the movement of labor. It ensured that Africans worked where the colonial state wanted them to work (in settler farms, in mines, in colonial enterprises). It prevented the movement of African workers to urban areas where they might develop political consciousness or evade colonial labor demands.

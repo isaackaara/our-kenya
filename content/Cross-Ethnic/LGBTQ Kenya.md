@@ -1,5 +1,3 @@
-# LGBTQ Kenya
-
 The situation of [[LGBTQ Kenya|LGBTQ Kenyans]] reflects the intersection of sexual orientation and gender identity with ethnic, religious, and [[Kenyan Identity Evolution 1964-2026|national identities]]. [[Kenya]]'s colonial-era laws criminalizing same-sex conduct remain in effect, with a 2019 High Court ruling upholding these laws. Despite criminalization, LGBTQ communities exist and have engaged in activism. Both LGBTQ communities and opposition to LGBTQ rights operate across [[Cross-Ethnic Kenya|ethnic lines]].
 
 The legal situation for LGBTQ Kenyans is complex and precarious. Section 162 of Kenya's Penal Code criminalizes "carnal knowledge against the order of nature," which has been interpreted as criminalizing same-sex conduct. The penalty includes imprisonment. In 2019, the High Court had an opportunity to strike down the criminalizing provision but instead upheld it. This legal criminalization creates conditions of vulnerability for LGBTQ Kenyans.

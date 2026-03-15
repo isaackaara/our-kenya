@@ -1,5 +1,3 @@
-# 2022 Election Uhuru Betrayal
-
 The characterization of Uhuru Kenyatta's explicit backing of Raila Odinga against his own Deputy President William Ruto as a "betrayal" represented how Ruto's supporters and some analysts interpreted Uhuru's decision to endorse the opposition coalition. From Ruto's perspective, Uhuru's endorsement of Raila constituted a violation of the political partnership that had defined Jubilee and that should have culminated in Ruto's natural succession to the presidency.
 
 Ruto's claim to the presidency was grounded in constitutional eligibility and in political logic suggesting that as Deputy President, he possessed legitimate aspiration to succeed the outgoing president. Uhuru's five-year relationship with Ruto as running mate and Vice President created expectation, at least within Ruto's political circles, that Uhuru would support Ruto's presidential succession. The fact that Uhuru instead endorsed the opposition Raila thus appeared to Ruto's supporters as a fundamental breach of political partnership.

@@ -1,5 +1,3 @@
-# Irrigation Schemes Taita
-
 Irrigation agriculture in the lowland areas of Taita-Taveta represents an important strategy for agricultural intensification and improved food security in an environment with variable rainfall.
 
 ## Water Sources

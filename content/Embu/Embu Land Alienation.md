@@ -1,5 +1,3 @@
-# Embu Land Alienation
-
 Beginning in the 1890s and accelerating through the colonial period, white settler farmers acquired significant tracts of Embu-occupied land, particularly in the high-potential agricultural zones. This land alienation process dispossessed Embu farmers, concentrated wealth in settler hands, and created landlessness among formerly independent cultivators.
 
 ## Settlement Patterns

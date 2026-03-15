@@ -1,5 +1,3 @@
-# [[coastal]] [[forest biodiversity]] Biodiversity
-
 The coastal Kenyan lowland forests, including the kaya forests and other remnant forest patches, are recognized as one of the world's biodiversity hotspots. These forests are home to endemic [[species]] found nowhere else on Earth, making them of exceptional [[conservation]] value. However, deforestation and environmental degradation threaten these ecosystems and their endemic species.
 
 ## Biodiversity Hotspot Status

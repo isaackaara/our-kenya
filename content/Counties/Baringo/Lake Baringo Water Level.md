@@ -1,5 +1,3 @@
-# Lake Baringo Water Level
-
 Lake Baringo's water level has risen dramatically in recent years, particularly from 2020 onward, causing flooding of shoreline infrastructure, hotels, villages, and agricultural lands. This unexpected water level rise has created significant management challenges and displacement impacts for surrounding communities.
 
 ## Historical Water Level Patterns

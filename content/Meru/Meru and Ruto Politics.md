@@ -1,5 +1,3 @@
-# Meru and Ruto Politics
-
 The [[Meru]] voted strongly for [[William Ruto]] in the 2022 presidential election, aligning with the broader "[[Mount Kenya]] unity" that Ruto secured in the lead-up to his victory. The [[Meru]] political alignment with the Ruto government reflects both ethnic coalition politics and responses to policy agendas.
 
 ## 2022 Election Support

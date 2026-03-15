@@ -1,5 +1,3 @@
-# Busia Notable People
-
 Busia County has produced notable Kenyans in politics, business, sports, and civic leadership. Political leaders from the county include governors, parliament members, and government appointees. The county's most famous historical figure was Oginga Odinga, a nationalist and vice-president. Business entrepreneurs have established trading and agricultural enterprises. Sports personalities have participated in national and international competitions. Civil society leaders have organized community development and advocacy initiatives. Healthcare professionals have provided services in county health initiatives. Agricultural extension workers have promoted improved farming practices. Teachers and education leaders have contributed to literacy and development. Women leaders have promoted gender equality and women's empowerment. Religious leaders have provided spiritual guidance and community welfare services.
 
 ## Political Leadership

@@ -1,5 +1,3 @@
-# 1979 Election Regional Patterns
-
 The 1979 election revealed regional voting patterns that reflected Kenya's ethnic geography, economic differences, and political relationships with the new Moi government. Different regions of Kenya responded differently to Moi's rise to power and to the Nyayo philosophy, creating distinct regional political dynamics.
 
 Central Province, home to the Kikuyu, remained politically dominant in many respects. Kikuyu MPs remained numerous in Parliament, and Central Province retained substantial representation. However, the rise of Moi, a non-Kikuyu, meant that Central Province no longer had the privileged access to power that it had enjoyed under Kenyatta. This created complex feelings among Central Province politicians, some of whom supported Moi while others were concerned about the shift in the ethnic basis of power.

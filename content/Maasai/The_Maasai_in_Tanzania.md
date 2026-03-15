@@ -1,5 +1,3 @@
-# The Maasai in Tanzania: Cross-Border Communities and Different Fates
-
 ## Territory Divided by the Border
 
 The Maasai live on both sides of the Kenya-Tanzania border, a boundary imposed by colonial powers that cuts across ancestral Maasai territory. The Tanzanian Maasai occupy the Arusha region, parts of the Ngorongoro Crater area, and land adjacent to the Serengeti ecosystem.

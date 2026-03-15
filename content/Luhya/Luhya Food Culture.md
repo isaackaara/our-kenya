@@ -1,5 +1,3 @@
-# Luhya Food Culture
-
 Luhya food culture reflects the agricultural products, pastoral traditions, and social practices of the Luhya people of western Kenya. Traditional Luhya cuisine centers on staple grains, leafy vegetables, legumes, and meat, with distinct preparations for daily consumption and ceremonial feasts. The diet also includes traditional fermented beverages that occupy important roles in social and ceremonial contexts.
 
 ## Staple Foods and Daily Diet

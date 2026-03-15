@@ -1,5 +1,3 @@
-# Kisii Scientists and Academics
-
 The Gusii invested heavily in education from the missionary era onward, producing an educated elite that has contributed to science, medicine, academia, and professional fields. Kisii has generated numerous scholars, scientists, and academics who have worked at regional and national levels, though comprehensive documentation of these individuals remains limited.
 
 ## Educational Infrastructure and Production of Scholars

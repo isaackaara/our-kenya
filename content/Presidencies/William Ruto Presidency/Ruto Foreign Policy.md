@@ -1,5 +1,3 @@
-# Ruto Foreign Policy
-
 [[William Ruto]]'s foreign policy has maintained Kenya's traditional Western alignment while expanding engagement with China and other partners. Kenya's relationship with the United States remains the cornerstone of foreign policy, with continued military cooperation and development assistance. The government has pursued deepened engagement with regional partners on security issues, particularly regarding terrorism and maritime piracy threats.
 
 Kenya's military operations against Al-Shabaab in Somalia and throughout East Africa have continued under Ruto's leadership. The government maintains Kenyan military presence in Somalia as part of the African Union Mission (AMISOM and its successor ATMIS). Counter-terrorism cooperation with the United States, including special forces training and intelligence sharing, continues. Regional security challenges, including piracy and terrorism, drive Kenya's security partnerships.

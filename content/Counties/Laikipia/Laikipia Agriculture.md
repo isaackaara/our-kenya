@@ -1,5 +1,3 @@
-# Laikipia Agriculture
-
 Agriculture in Laikipia County varies by elevation and community. Smallholder farmers cultivate crops in southern altitude-suitable zones. Maize, beans, potatoes, and vegetables are primary crops. Livestock ranching dominates large-scale land use. Dairy farming provides secondary income on some farms. Horticulture provides supplementary income in favorable areas. Agricultural productivity is constrained by semi-arid conditions and water limitations in much of the county.
 
 ## Smallholder Farming

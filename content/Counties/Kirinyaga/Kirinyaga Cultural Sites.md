@@ -1,5 +1,3 @@
-# Kirinyaga Cultural Sites
-
 [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes contain sacred and culturally significant sites important to [[../../Kikuyu/Kikuyu|Kikuyu]] traditions and practices. These sites reflect Kikuyu spiritual beliefs and historical experiences. Some sites have been protected while others face pressure from agricultural expansion and development. Cultural preservation efforts attempt to maintain knowledge and respect for these important places.
 
 ## Sacred Groves

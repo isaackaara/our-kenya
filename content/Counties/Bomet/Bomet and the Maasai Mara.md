@@ -1,5 +1,3 @@
-# Bomet and the Maasai Mara
-
 Bomet County borders the Maasai Mara National Reserve, creating significant tourism, conservation, and economic development opportunities. The proximity to the Mara shapes county development priorities and livelihood strategies.
 
 ## Geographic Proximity

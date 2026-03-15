@@ -1,5 +1,3 @@
-# Trans-Nzoia Real Estate
-
 Real estate and property transactions have increased significantly in Trans-Nzoia County, particularly in Kitale and surrounding towns. Agricultural land remains the dominant property type, with farms ranging from small (2-5 acres) to large (50+ acres) landholdings. Land values have appreciated substantially, particularly for land near roads and water sources. Urban property development has expanded in Kitale, with residential buildings, commercial structures, and institutional facilities. Land subdivision is increasingly common, with larger farms divided into smaller plots for resale. Speculation on land values has increased, with some properties held for investment rather than productive use.
 
 ## Property Markets and Transactions

@@ -1,5 +1,3 @@
-# Kalenjin Weapons and Warfare Traditions
-
 ## Overview
 
 The Kalenjin developed sophisticated systems of weapons, combat techniques, and warfare practices adapted to pastoral and agricultural life in the Rift Valley. Their martial traditions emphasized individual prowess, age-set solidarity, and cattle raiding as a central economic and social activity. Weapons were not merely tools of combat but symbols of status, masculinity, and community identity.

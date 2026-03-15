@@ -1,5 +1,3 @@
-# Samburu People in Samburu County
-
 The Samburu are the dominant pastoralist community of Samburu County. Linguistically and culturally closely related to the Maasai, the Samburu maintain distinctive pastoral traditions, social organisation, and cultural practices that define community identity.
 
 Samburu pastoralism centres on cattle herding, supplemented by camels, goats, and sheep. Cattle provide milk for household consumption and sales, meat for special occasions and ceremonies, and calves for herd growth and wealth accumulation. Camels become increasingly important in the most arid areas where water and forage scarcity constrain cattle production.

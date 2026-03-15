@@ -1,5 +1,3 @@
-# Maasai Cultural Appropriation
-
 ## Global Fashion and Aesthetics
 
 Maasai-inspired aesthetics and designs have been widely adopted in global fashion, home decor, and consumer products. Western fashion designers have incorporated Maasai patterns, colors (particularly red), and design elements into runway collections. Home decor companies use Maasai-inspired patterns in furniture, textiles, and accessories. Consumer products (clothing, jewelry, home items) use Maasai branding and aesthetics. This global appropriation of Maasai culture generates enormous economic value, but Maasai benefit minimally.

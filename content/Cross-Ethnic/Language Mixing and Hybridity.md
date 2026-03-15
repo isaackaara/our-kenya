@@ -1,5 +1,3 @@
-# Language Mixing and Hybridity
-
 Code-switching between English, Swahili, and ethnic languages is routine practice among [[Kenya|Kenyans]], particularly in [[Nairobi as Melting Pot|urban]] and educated contexts. The linguistic hybridity demonstrates how Kenyans navigate multiple language systems and create new forms of expression transcending single languages. [[Language Mixing and Hybridity|Language mixing]] creates linguistic spaces neither purely ethnic nor purely national but hybrid and innovative.
 
 Urban Kenyans regularly code-switch between languages based on context, audience, and topic. A speaker might use English in professional settings, Swahili in public transport, and their ethnic language at home. The flexibility in language choice demonstrates that ethnic language knowledge does not require exclusive commitment to ethnicity. Speakers maintain competence in multiple languages.

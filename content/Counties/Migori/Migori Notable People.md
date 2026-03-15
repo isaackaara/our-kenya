@@ -1,5 +1,3 @@
-# Migori Notable People
-
 Migori County has produced nationally recognized individuals who have contributed to Kenya's political, intellectual, economic, and cultural development.
 
 ## Political Leaders

@@ -1,5 +1,3 @@
-# Kiambu County Timeline (1895-2026)
-
 1895-1963 - Colonial period. Kiambu is core area of the White Highlands. European settler farms displace [[../../Kikuyu/Kikuyu|Kikuyu]] farmers and limit Kikuyu access to their ancestral land.
 
 1910s-1940s - [[../../Kikuyu/Kikuyu|Kikuyu]] political and cultural organizations emerge in response to colonial dispossession and racial hierarchy.

@@ -1,5 +1,3 @@
-# Luo Futures
-
 The Luo community stands at a crossroads as of 2026. The historical trajectory of educated leadership, political engagement, and systematic marginalization from executive power has created a distinctive Luo political consciousness. Yet contemporary conditions (shift away from Raila's dominance, economic pressures, environmental changes, digital transformation) may reshape Luo futures in unpredictable ways. This note explores the central questions facing the Luo and possible trajectories.
 
 ## Political Marginalization under Ruto

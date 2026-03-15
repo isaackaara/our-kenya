@@ -1,5 +1,3 @@
-# Taita Sacred Sites
-
 Sacred sites in Taita cosmology include specific hills, trees, water sources, and forests that hold spiritual significance in Taita traditional religion and belief systems. These sites are connected to ancestor veneration and ritual practices.
 
 ## Sacred Hills

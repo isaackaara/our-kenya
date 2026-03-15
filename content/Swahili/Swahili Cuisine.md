@@ -1,5 +1,3 @@
-# Swahili Cuisine
-
 The [[Swahili]] coastal kitchen represents a fusion of African, Arab, Persian, and Indian culinary influences, reflecting centuries of [[The Indian Ocean World|Indian Ocean trade]] and cultural exchange. The cuisine emphasizes coconut milk, spices, seafood, and rice, creating distinctive dishes that are enjoyed throughout the [[Swahili]] coast and increasingly recognized in global culinary contexts within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Key Ingredients and Flavor Profile

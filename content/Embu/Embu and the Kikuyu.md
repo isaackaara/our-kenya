@@ -1,5 +1,3 @@
-# Embu and the Kikuyu
-
 The Embu and Kikuyu maintain historically close relationships rooted in shared ancestry, linguistic similarity, and Mount Kenya cultural complex membership. Yet political dynamics have rendered the Embu politically subordinate to the numerically larger Kikuyu, despite cultural and linguistic affinity. This relationship has shaped Embu identity and political strategy since the colonial period.
 
 ## Shared Ancestry and [[Embu Origins]]

@@ -1,5 +1,3 @@
-# Kipsigis
-
 The Kipsigis are the largest Kalenjin sub-group by population, centred in the Kericho and Bomet counties of the Rift Valley highlands. Historically pastoralists, they were transformed into a landless labour force on massive European tea estates during the colonial period. This history of land alienation remains a central grievance in contemporary Kipsigis identity and politics.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Bomet Economy Overview
-
 Bomet County's economy is primarily agriculture-based, with tea as the dominant cash crop supplemented by dairy farming and other agricultural activities. The county's economic structure reflects its highland location and agricultural orientation, with growing tourism potential from Maasai Mara proximity.
 
 ## Economic Structure

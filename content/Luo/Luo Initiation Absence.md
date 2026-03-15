@@ -1,5 +1,3 @@
-# Luo Initiation Absence
-
 The Luo are distinguished from nearly every other Kenyan ethnic group by their non-practice of male circumcision. This absence, however, is not an absence of initiation. The Luo have *nak* (tooth extraction) and various other rites of passage that serve the same social and spiritual functions as circumcision among circumcising peoples.
 
 ## Circumcision and Kenyan Identity

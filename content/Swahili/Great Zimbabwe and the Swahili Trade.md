@@ -1,5 +1,3 @@
-# Great Zimbabwe and the Swahili Trade
-
 Great Zimbabwe was a major gold-producing empire in the interior of southern Africa (in modern Zimbabwe). The gold produced in Zimbabwe traveled overland to the [[Swahili]] coast, where it was traded with merchants from across [[The Indian Ocean World|the Indian Ocean world]]. This gold trade was the engine of [[Kilwa Kisiwani]]'s wealth and power during the 13th-15th centuries.
 
 ## Great Zimbabwe Empire

@@ -1,5 +1,3 @@
-# Wajir Infrastructure
-
 Wajir County's infrastructure remains underdeveloped relative to other Kenyan regions, reflecting historical marginalization and continued limited investment. Road networks are minimal and often impassable during rainy seasons, telecommunications reach covers only parts of the county, and water and electricity supplies remain inadequate. These infrastructure deficits severely constrain economic development and service delivery to county populations.
 
 ## Road Networks

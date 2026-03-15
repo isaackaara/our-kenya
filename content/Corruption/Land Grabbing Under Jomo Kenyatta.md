@@ -1,5 +1,3 @@
-# Land Grabbing Under Jomo Kenyatta: Wealth Through Patronage
-
 ## Independence and Land Redistribution
 
 When Kenya achieved independence in 1963, one of the major policy questions was what would happen to land. During the colonial period, the British had allocated large tracts of land in fertile regions to European settlers. At independence, this settler-owned land represented a massive asset.

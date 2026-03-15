@@ -1,5 +1,3 @@
-# Kwale NGOs
-
 Non-governmental organizations operating in Kwale County address development challenges including healthcare, education, environmental conservation, and livelihood improvement. International and Kenyan NGOs implement programs funded by donors, with activities ranging from service provision to advocacy and community organizing.
 
 Healthcare NGOs implement maternal health programs, disease prevention, and health facility support. International NGOs including those focused on HIV/AIDS, malaria, and tuberculosis partner with local health systems to improve disease prevention and treatment. Healthcare NGOs have helped expand access to services in remote areas through mobile clinics and community health worker programs.

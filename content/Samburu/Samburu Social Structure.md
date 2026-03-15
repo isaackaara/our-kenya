@@ -1,5 +1,3 @@
-# Samburu Social Structure
-
 [[Samburu]] society organizes around patrilineal clans, age-grade systems, and elder authority. These social institutions structure political decision-making, resource allocation, and social relationships. Contemporary social change through education and urbanization is gradually transforming traditional structures, though considerable continuity persists.
 
 ## Clan Organization

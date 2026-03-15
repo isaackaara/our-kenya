@@ -1,5 +1,3 @@
-# Paul Tergat: Cross Country Legend and Marathon World Record Holder
-
 Paul Tergat is among Kenya's greatest distance runners, achieving dominance in both cross country running and marathon racing. In cross country, he won the World Championships four consecutive times (1996, 1997, 1998, 1999), missing only the 1995 championship in what would have been five consecutive titles. In marathon racing, Tergat set the world record (2:04:55 in Berlin 2003) and competed at multiple Olympic Games. His achievements across multiple disciplines (cross country, track, and road racing) demonstrate exceptional distance running versatility.
 
 Tergat was born in 1969 in Kenya's Rift Valley, in the [[../Kalenjin/Kalenjin|Kalenjin]] community. He grew up running from childhood and emerged as a promising distance runner in the late 1980s. By the early 1990s, Tergat was competing internationally in track and cross country events. His early major success came at the World Cross Country Championships, where he defeated established rivals and began his rise to dominance.

@@ -1,5 +1,3 @@
-# Maasai Colonial Resistance and Accommodation
-
 ## A Different Path
 
 Unlike many African communities that launched armed resistance against European colonization, the Maasai under laibon Lenana (Olonana) pursued a strategy of accommodation and negotiation with British colonial authorities. This choice was not capitulation but rather a calculation made under extraordinary circumstances of vulnerability.

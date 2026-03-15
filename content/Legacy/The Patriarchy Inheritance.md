@@ -1,5 +1,3 @@
-# The Patriarchy Inheritance
-
 Kenyan societies before colonialism had diverse gender systems. Some were patriarchal, others matrilineal or more fluid. Colonial law and Christian mission culture standardized and intensified patriarchy across Kenya.
 
 Colonial legal systems imposed a unified property law based on European patrilineal inheritance. Land, the fundamental asset, passed from father to son. When the British codified "customary law," they often chose the most patriarchal interpretation. Women lost rights they had exercised in some precolonial systems. The bride price, which in some contexts represented a reciprocal relationship, was reinterpreted as a transaction in which women were property.

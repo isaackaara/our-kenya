@@ -1,5 +1,3 @@
-# Mike Boit: The 800m Champion Whose Peak Years Were Lost to Boycott
-
 Mike Boit represented Kenya at the 1972 Munich Olympics and won the bronze medal in the 800 meters in 1:45.9, establishing himself as one of the world's finest middle-distance runners at age 23. Boit's victory was Kenya's fourth medal at Munich and demonstrated that Kenya's dominance extended beyond long-distance running into middle-distance events. However, Boit's greatest achievements would be constrained by geopolitical events beyond his control: the 1976 Montreal Olympics boycott erased what could have been his peak competitive years.
 
 Boit was born in 1949 in Kenya and emerged as a promising 800-meter runner in the early 1970s. At 1.91 meters tall (taller than most 800-meter specialists), Boit had a distinctive running style characterized by long strides and powerful finishing. In 1972, at the Munich Olympics, Boit ran 1:45.9, a time that placed him among the world's fastest 800-meter runners. His bronze medal demonstrated Kenya's capability in middle-distance events, not just long-distance.

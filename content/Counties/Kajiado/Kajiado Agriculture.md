@@ -1,5 +1,3 @@
-# Kajiado Agriculture
-
 Kajiado County's agricultural sector has expanded significantly, with smallholder farming increasingly replacing or supplementing traditional pastoral livelihoods, particularly in areas with better rainfall and closer proximity to Nairobi markets.
 
 Agricultural development has been both an adaptation to land constraints and a driver of land use change away from pastoral use.

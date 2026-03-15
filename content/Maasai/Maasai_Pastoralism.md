@@ -1,5 +1,3 @@
-# Maasai Pastoralism: Transhumance and Ecological Knowledge
-
 ## Transhumance: Following Rain
 
 Maasai pastoralism is nomadic(herds move seasonally following rainfall and grass availability). This practice, called transhumance, is not aimless wandering(it follows precise knowledge of water sources, grass types, disease vectors, and seasonal patterns accumulated over centuries).

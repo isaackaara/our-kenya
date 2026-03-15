@@ -1,5 +1,3 @@
-# Kisumu and Lake Victoria
-
 Kisumu is Kenya's third-largest city and the primary settlement on Lake Victoria. Located in Luo-majority western [[Kenya]], Kisumu has developed as a regional trading hub drawing communities from across the Lake Victoria basin. The city's economy is based on fish trade, agricultural commerce, and [[Cross-Ethnic Kenya|regional distribution]].
 
 The Lake Victoria trading system has historically brought diverse communities into economic contact. Fishermen from Luo, Luhya, and Somali communities work together on fishing vessels. Fish traders buying and selling at the dock include Kikuyu, Kamba, Luo, Asian, and other merchants. The port operations require coordination across ethnic lines. This [[Economic Interdependence Kenya|economic interdependence]] has created practical [[Cross-Ethnic Kenya|cross-ethnic coexistence]].

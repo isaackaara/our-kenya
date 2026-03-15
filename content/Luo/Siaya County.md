@@ -1,5 +1,3 @@
-# [[../Counties/Siaya/Siaya County|Siaya County]]
-
 Siaya County is the heartland of the Luo people in western Kenya, spreading across 2,530 square kilometers on the shores of [[../Conservation/Lake Victoria Kenya|Lake Victoria]] (Nam Lolwe). The county is bordered by Busia to the north, Kakamega and Vihiga to the northeast, and [[../Counties/Kisumu/Kisumu County|Kisumu County]] to the southeast, creating a landscape of waterfront fishing communities, agricultural zones, and cultural sites that form the center of Luo identity.
 
 ## Geography and Towns

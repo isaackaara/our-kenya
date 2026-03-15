@@ -1,5 +1,3 @@
-# Circumcision as Dividing Line
-
 A single cultural practice has shaped [[Cross-Ethnic Kenya|Kenya's political boundaries]] more than almost any other factor. Male circumcision divides Kenya's ethnic groups into the circumcised and the uncircumcised, and this division has been weaponised repeatedly in [[Ethnic Arithmetic in Politics|national politics]].
 
 ## Key Facts

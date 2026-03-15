@@ -1,5 +1,3 @@
-# Judiciary Corruption: The Bribery of Judges and Undermining of Justice
-
 ## Bribery of Judicial Officers
 
 Kenya's judiciary has been the subject of repeated corruption allegations and investigations. Judges and magistrates have been accused of accepting bribes to influence rulings. A litigant seeking a favorable judgment can allegedly pay a judge or magistrate in exchange for a favorable ruling.

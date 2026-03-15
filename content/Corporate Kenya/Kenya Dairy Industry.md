@@ -1,5 +1,3 @@
-# Kenya Dairy Industry
-
 Kenya's [[dairy sector]] is critical for [[nutrition]] and [[income]]. It comprises [[smallholder]] dairy farmers (the majority), [[large commercial farms]], and [[processing companies]]. Production and consumption vary geographically: Central and Western highlands are high-production zones; pastoralist areas rely primarily on pastoral milk.
 
 ## Production

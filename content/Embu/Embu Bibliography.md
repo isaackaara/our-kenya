@@ -1,5 +1,3 @@
-# Embu Bibliography
-
 Major academic and journalistic sources addressing Embu history, culture, and contemporary issues. This bibliography provides entry points for further research on the Embu people.
 
 ## Foundational Academic Sources

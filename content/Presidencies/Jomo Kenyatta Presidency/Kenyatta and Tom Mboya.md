@@ -1,5 +1,3 @@
-# Kenyatta and Tom Mboya
-
 The relationship between Jomo Kenyatta and [[Tom Mboya]] was one of the most significant political dynamics in Kenya's first presidency. It embodied the tension between Kikuyu and Luo interests, between different visions of economic organization, and ultimately, between two powerful politicians competing for dominance within Kenya's nationalist movement. Their relationship began as alliance, evolved into rivalry, and ended tragically with Mboya's assassination in 1969.
 
 Tom Mboya was a Luo who came to prominence as a labor union organizer and politician in the 1950s. He was articulate, charismatic, and internationally connected, particularly to Western governments and organizations. Mboya represented the Luo community's aspirations for power and influence in independent Kenya. He advocated for a more egalitarian, state-directed economy, what he termed African socialism, and he was deeply committed to pan-African solidarity and non-alignment in the Cold War.

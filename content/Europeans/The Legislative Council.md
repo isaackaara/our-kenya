@@ -1,5 +1,3 @@
-# The Legislative Council
-
 The [[Legislative Council]] (Legco) was Kenya's [[colonial legislature]], created in 1920 when Kenya transitioned from [[protectorate]] to [[colony status]]. The Legco was a key institution of [[colonial governance]], dominated by [[British officials]] and [[European settlers]] until the late 1950s. The gradual inclusion of [[African representation]] and [[Asian representation]] made the Legco an arena of [[anti-colonial struggle]], but also reflected Britain's eventual commitment to [[decolonization]].
 
 ## Creation and Structure

@@ -1,5 +1,3 @@
-# Luo Tooth Extraction
-
 The *nak* ceremony, in which the lower front incisors were extracted, was the central rite of passage for Luo youth and the defining initiation ritual. The practice is now largely discontinued, and its decline altered the entire structure of Luo coming-of-age culture.
 
 ## The Ceremony

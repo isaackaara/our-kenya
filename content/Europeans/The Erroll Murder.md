@@ -1,5 +1,3 @@
-# The Erroll Murder
-
 On January 24, 1941, [[Josslyn Hay]], 22nd [[Earl of Erroll]], was found shot dead in his Buick at a crossroads on the [[Nairobi-Ngong road]] in [[colonial Kenya]]. His murder became one of the most famous [[unsolved crimes]] in [[colonial history]], revealing the [[excess]] and [[moral disorder]] of [[settler society]] and becoming the basis for decades of speculation, books, films, and historical investigation.
 
 ## The Victim: Josslyn Hay

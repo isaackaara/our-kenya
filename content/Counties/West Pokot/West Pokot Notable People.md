@@ -1,5 +1,3 @@
-# West Pokot Notable People
-
 West Pokot has produced notable individuals who have achieved prominence in national and international arenas, including politicians, business leaders, educators, healthcare professionals, and cultural figures. These individuals have often left West Pokot to pursue opportunities in larger cities or internationally but maintain connections to their home county. Understanding notable people from West Pokot is important for understanding the county's contributions to national society and the brain drain that has characterized development in rural regions. Notable people often serve as role models for younger generations in the county.
 
 ## Political Leaders

@@ -1,5 +1,3 @@
-# Les Wanyika
-
 Les Wanyika emerged in 1978 as one of East Africa's most beloved rumba bands, formed when key members of Simba Wanyika split to create a new ensemble. The band's name, meaning "The Savannah Ones" in Swahili, signaled their continuation of the Wanyika family's musical legacy while establishing a distinct identity. Les Wanyika became synonymous with the golden era of [[Kenyan Dansi Orchestras|Kenyan and Tanzanian rumba]], blending Congolese musical influences with East African sensibilities to create a sound that dominated regional airwaves through the 1980s and into the 1990s.
 
 The band was founded by drummer Rashid Juma, guitarist Omar Shabani (known as Professor Omar Shabani), bassist Tommy Malanga, saxophonist Sijali Salum Zuwa, and Phoney Mkwanyule, all of whom left Simba Wanyika following internal disputes. This split was characteristic of East Africa's volatile music industry, where personnel changes and band divisions were constant. However, Les Wanyika's founders brought enough star power and musical skill to quickly establish themselves as competitors rather than mere offshoots of their former band.

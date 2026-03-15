@@ -1,5 +1,3 @@
-# Kalenjin Courtship
-
 Courtship practices among traditional Kalenjin youth involved age-set norms, warrior culture expressions, and restricted but real opportunities for young women and men to communicate interest and affection. The practices varied by sub-group and historical period but shared common features around gender, age, and community oversight.
 
 ## The Moran's Courtship Behavior

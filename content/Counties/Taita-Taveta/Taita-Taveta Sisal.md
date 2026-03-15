@@ -1,5 +1,3 @@
-# Taita-Taveta Sisal
-
 Sisal production in Taita-Taveta County was historically one of the dominant economic enterprises, with substantial estates established during the colonial period and peak production occurring from the 1950s through the 1970s. The [[sisal industry]] generated substantial employment, export revenue, and government taxation, fundamentally shaping the economic and social development of portions of the county. However, production has declined significantly since the 1980s due to global market changes, competition from synthetic alternatives, and shifting agricultural priorities.
 
 The introduction of sisal to Taita-Taveta occurred during the colonial period. Sisal, an agave plant producing valuable leaf fibre, was promoted by colonial administrators and European planters as a suitable export crop for the region. Large estates were established by European planters, who acquired land through colonial land alienation processes that displaced African populations. The sisal estates became economically dominant, particularly in areas adjacent to the Uganda Railway where transportation for export was available.

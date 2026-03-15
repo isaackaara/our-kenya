@@ -1,5 +1,3 @@
-# Motor Vehicle Assembly Kenya
-
 Kenya's vehicle assembly sector once employed thousands and served East African markets. However, protectionist policies, import liberalisation, and competition from imported vehicles have decimated the industry. Today, vehicle assembly has largely shifted to [[India]] and [[East Asia]], with Kenya importing finished vehicles rather than producing them locally.
 
 ## Historical Background

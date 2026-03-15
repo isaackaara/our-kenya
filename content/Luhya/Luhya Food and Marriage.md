@@ -1,5 +1,3 @@
-# Luhya Food and Marriage
-
 Luhya food traditions reflect the region's agricultural heritage and the importance of community gathering. Marriage customs involve extended negotiation, clan involvement, and the exchange of bride price, creating bonds between families and sub-groups.
 
 ## Key Facts

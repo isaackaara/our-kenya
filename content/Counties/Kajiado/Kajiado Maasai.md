@@ -1,5 +1,3 @@
-# Kajiado [[../../Maasai/Maasai|Maasai]]
-
 [[../../Maasai/Maasai|Maasai]] of Kajiado County constitute the predominant cultural and demographic community of the county, with a population of several hundred thousand maintaining pastoral traditions, cultural practices, and land ownership despite intense pressures from Nairobi's urban expansion and land privatization.
 
 Kajiado Maasai experience particularly acute pressures from proximity to Nairobi and the attractive land prices offered by external buyers, resulting in accelerated land sales and loss of pastoral territories compared to more distant pastoral areas.

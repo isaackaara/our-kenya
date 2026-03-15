@@ -1,5 +1,3 @@
-# Kakamega Climate
-
 Kakamega County experiences an equatorial climate characterized by consistent rainfall throughout much of the year, high temperatures, and significant humidity. The county receives bimodal rainfall with two distinct wet seasons (March-May and October-November) separated by relatively dry periods. The forest's presence influences local climate through moisture retention and temperature moderation. Climate patterns are central to agricultural productivity and environmental conditions.
 
 ## Rainfall Patterns

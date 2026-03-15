@@ -1,5 +1,3 @@
-# Embu Timeline
-
 This timeline marks significant events in Embu [[Embu Political History]] from pre-colonial times through 2026, encompassing migration, colonial contact, independence struggles, and contemporary governance.
 
 ## Pre-Colonial Era (to 1895)

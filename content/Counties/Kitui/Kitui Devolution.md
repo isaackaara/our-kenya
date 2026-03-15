@@ -1,5 +1,3 @@
-# Kitui Devolution
-
 Kitui County represents a devolution jurisdiction under Kenya's 2010 constitution, with county government providing decentralized public services and development functions. Devolution transferred authority and resources from national government to 47 county governments, fundamentally reshaping governance structures. Kitui's devolution journey reflects both achievements and challenges.
 
 The county government structure includes an elected governor as chief executive, county assembly members representing electoral wards, and county civil service implementing policies and providing services. This structure creates multiple elected representatives accountable to local constituents. County budgets have grown substantially.

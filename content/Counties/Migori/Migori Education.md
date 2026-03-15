@@ -1,5 +1,3 @@
-# Migori Education
-
 Education in Migori County includes primary, secondary, and some tertiary institutions, though access and quality remain limited by resource constraints. The system reflects Kenya's national curriculum adapted to local conditions.
 
 ## Primary Education

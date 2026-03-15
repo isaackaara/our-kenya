@@ -1,5 +1,3 @@
-# Somali Community and Security Profiling in Kenya
-
 Kenya's security services have used broad counter-terrorism authority to target [[Somali Community and Security Profiling|Somali communities]], treating the entire Somali population as potential security threats. This collective profiling has involved mass arrests, detention without due process, torture, and abuse documented by human rights organizations. The profiling reflects both legitimate security concerns about [[Al-Shabaab and Northern Kenya|Al-Shabaab]] recruitment and deep structural discrimination rooted in Kenya's post-independence history.
 
 ## Historical Origins of Somali Profiling

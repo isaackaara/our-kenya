@@ -1,5 +1,3 @@
-# Samburu Religion
-
 [[Samburu]] traditional religion centers on Nkai (God), understood as supreme creator and provider inhabiting the sky and high mountains. [[Samburu Laibon|Laibon]] (spiritual leaders and diviners) serve as intermediaries between human and spiritual realms. [[Samburu and Christianity|Christian missionary influence]] has transformed religious practice, creating syncretism of traditional and Christian elements among most contemporary [[Samburu]].
 
 ## Nkai (God) and Cosmology

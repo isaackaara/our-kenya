@@ -1,5 +1,3 @@
-# Kwale Agriculture
-
 Agriculture remains the primary livelihood for approximately 60 percent of Kwale's rural population, though productivity and income from farming have declined relative to tourism and other sectors. The county's tropical coastal climate, soils, and rainfall patterns support a distinctive agricultural portfolio centered on tree crops, particularly coconuts and cashews, supplemented by cassava, corn, beans, and fruits. Agricultural production has historically been constrained by land pressure, limited access to improved inputs, and climate variability including periodic droughts.
 
 Coconut palms dominate the agricultural landscape across Kwale, providing food, oil, fiber, and income for countless families. Coconut farming requires minimal inputs beyond initial planting, making it accessible to smallholder farmers with limited capital. A mature coconut palm produces copra (dried coconut meat) for sale to coconut oil millers, or whole coconuts for fresh market sale or processing. Coconut by-products including the husk, shell, and fronds provide materials for fiber production, charcoal, and animal bedding.

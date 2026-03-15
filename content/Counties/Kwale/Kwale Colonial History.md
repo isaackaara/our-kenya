@@ -1,5 +1,3 @@
-# Kwale Colonial History
-
 The colonial history of Kwale encompasses distinct periods of Arab, Portuguese, and British rule, each transforming coastal societies, economies, and territories in different ways. Kwale's experience as a coastal region differed significantly from interior Kenya, involving earlier contact with external traders, longer periods of non-British foreign rule, and particular vulnerabilities to slave trading and maritime exploitation.
 
 The coast has been part of Indian Ocean trade networks for at least 2,000 years, with evidence of Arab, Indian, and Persian commerce visible in archaeological remains. Arab and Swahili merchants established settlements, intermarried with local populations, and gradually introduced Islam. By the 1400s, the coast hosted several established trading towns under the control of merchant families and sultanates.

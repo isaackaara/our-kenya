@@ -1,5 +1,3 @@
-# Kapenguria Town
-
 Kapenguria is the county headquarters of West Pokot County and the main commercial center in this predominantly pastoral region. The town is located at approximately 1,800 meters elevation in the highland zone, providing a relatively cool climate. The town serves as administrative hub with government offices, courts, and county government facilities. Kapenguria has significant historical importance as the site of Jomo Kenyatta's detention during the colonial period. The town is the primary market center where pastoralists exchange livestock for agricultural goods and other commodities. Kapenguria has grown substantially since the 1980s, developing into a modern urban center with shops, hotels, and service facilities.
 
 ## Commerce and Services

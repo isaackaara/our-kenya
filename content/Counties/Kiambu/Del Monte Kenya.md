@@ -1,5 +1,3 @@
-# Del Monte Kenya
-
 Del Monte Kenya is one of East Africa's largest and most successful agro-industrial operations, combining pineapple plantation agriculture with industrial-scale canning and processing. The operation is located in Thika, [[../Kiambu/Kiambu County|Kiambu County]], and has been a major employer and foreign exchange earner for Kenya since the 1960s. The plantation covers thousands of hectares, and the canning facility processes hundreds of thousands of tons of pineapples annually for export markets, primarily the United States and Europe.
 
 Del Monte Kenya produces and exports canned pineapple as a finished product, with the company managing the entire value chain from farm management through processing, packaging, and international logistics. The operation employs several thousand workers directly, with agricultural workers, factory workers, and administrative staff. Additional employment is generated through supply chains, transporters, and service providers supporting the operation.

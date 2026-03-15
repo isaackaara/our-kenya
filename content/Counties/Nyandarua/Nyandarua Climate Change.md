@@ -1,5 +1,3 @@
-# Nyandarua Climate Change
-
 Climate change is altering rainfall patterns, temperatures, and water availability in Nyandarua with significant implications for agriculture and livelihoods. Scientific observations document increasing temperatures and changing rainfall. Farmers report altered growing seasons and increased variability. These changes threaten the agricultural productivity supporting the county's economy and population.
 
 ## Rainfall Changes

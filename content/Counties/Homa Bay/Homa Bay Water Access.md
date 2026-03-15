@@ -1,5 +1,3 @@
-# Homa Bay Water Access
-
 Water access remains a critical challenge for Homa Bay County despite the county's location on Lake Victoria. Limited water supply infrastructure, environmental degradation, and pollution constrain safe drinking water access.
 
 ## Lake Victoria Water Challenges

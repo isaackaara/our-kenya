@@ -1,5 +1,3 @@
-# Makueni Diaspora
-
 The Makueni diaspora comprises individuals and families who have migrated from Makueni County to Nairobi and other urban centres seeking employment, education, and economic opportunities. This diaspora maintains connections to home areas through visits, remittances, and cultural identity. The diaspora's economic and social contributions remain significant for Makueni.
 
 Rural to urban migration has characterized Makueni demographic change for decades, with young people particularly moving to cities. Nairobi hosts the largest Makueni diaspora population, providing employment and income opportunities unavailable in rural Makueni. Urban migrants often retain rural home areas and property.

@@ -1,5 +1,3 @@
-# Kwale Infrastructure
-
 Infrastructure development in Kwale reflects the county's dual character as both a tourism destination requiring modern facilities and a predominantly rural region with limited development. Transportation, water, electricity, and telecommunications infrastructure remain unevenly developed, with coastal resort areas relatively well-served while inland and remote areas face significant deficits.
 
 The primary transport link is the Mombasa-Kwale-Tanzania road, connecting coastal resorts to Mombasa urban markets and facilitating cross-border trade. This road has been progressively improved from a basic dirt track to an increasingly reliable paved highway. Improvements have reduced travel time and increased traffic volumes, benefiting tourism and commerce while creating safety challenges from increased vehicle speeds.

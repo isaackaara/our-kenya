@@ -1,5 +1,3 @@
-# Bungoma Coffee
-
 Coffee cultivation in Bungoma County occurs on [[../../Conservation/Mount Elgon National Park|Mount Elgon]] slopes where elevation and rainfall conditions suit coffee production. Coffee farming provides substantial cash income for farming families and contributes to Kenya's coffee exports. Coffee has expanded as farmers recognize value in cultivation. Quality improvements through agronomic advances have enhanced market competitiveness.
 
 ## Geographic Distribution

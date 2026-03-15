@@ -1,5 +1,3 @@
-# Narok Colonial History
-
 Narok County's colonial history reflects the British colonial administration's relationships with [[../../Maasai/Maasai|Maasai]] pastoralists, the imposition of formal boundaries on previously fluid pastoral territories, and the beginning of land tenure transformations that continue to shape contemporary politics.
 
 ## Early Colonial Contact

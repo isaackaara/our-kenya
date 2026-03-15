@@ -1,5 +1,3 @@
-# West Pokot Timeline
-
 This timeline documents major events and developments in [[West Pokot County]] and [[Pokot People]] history from pre-colonial times through contemporary period. This chronology provides context for understanding the county's historical development and contemporary circumstances.
 
 ## Pre-Colonial Period (Before 1890s)

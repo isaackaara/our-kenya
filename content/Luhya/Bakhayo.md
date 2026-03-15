@@ -1,5 +1,3 @@
-# Bakhayo
-
 The Bakhayo are a Luhya sub-group primarily residing in the Bungoma and [[../Counties/Kakamega/Kakamega County|Kakamega County]] region of western Kenya. They represent one of the smaller Luhya sub-groups and maintain distinct cultural practices and territorial identity within the broader Luhya confederation.
 
 ## Territory and Location

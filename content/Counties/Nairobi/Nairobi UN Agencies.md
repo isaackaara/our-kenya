@@ -1,5 +1,3 @@
-# Nairobi as UN Hub: UNEP and UN-Habitat Headquarters
-
 Nairobi is unique among African cities in hosting the headquarters of two major United Nations agencies: the United Nations Environment Programme (UNEP) and the United Nations Human Settlements Programme (UN-Habitat). This distinction reflects Kenya's diplomatic prominence and Nairobi's regional importance.
 
 ## UNEP: United Nations Environment Programme

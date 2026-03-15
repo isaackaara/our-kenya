@@ -1,5 +1,3 @@
-# Keiyo
-
 The Keiyo (also spelled Elgeyo) are a Kalenjin sub-group numbering approximately 144,000 people, inhabiting the western escarpment of Kenya's Great Rift Valley in what is now Elgeyo Marakwet County. Their name is closely associated with Keiyo District (now Elgeyo Marakwet County) and with some of Kenya's most celebrated distance runners.
 
 ## Geography: The Escarpment and Training Ground

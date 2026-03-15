@@ -1,5 +1,3 @@
-# Asian Banks Kenya
-
 [[Kenya]] has a legacy of Asian (Indian) community banks that were established to serve the Indian merchant and trader communities. These banks, while smaller than the major commercial banks, played important roles in financing [[Kenyan Asian Business Families|Asian commerce]] and remain functional today, though their market share has diminished. Their origins date to the [[Colonial Economy]] and [[Post-Independence Economic Policy|post-independence era]].
 
 ## Historical Role

@@ -1,5 +1,3 @@
-# West Pokot Health
-
 Health indicators and health service provision in [[West Pokot County]] are among the poorest in Kenya, reflecting poverty, limited health facility access, high disease burden, and inadequate health workforce. Maternal and child mortality rates exceed national averages, with deaths from preventable and treatable conditions remaining elevated. Malnutrition, malaria, respiratory infections, and diarrheal diseases impose substantial disease burdens. Health facility infrastructure is inadequate, with limited facilities in pastoral areas and limited provision of primary healthcare. Health workforce capacity is constrained by low numbers of trained health workers and inadequate training. Health financing is limited due to poverty and limited public resources. Understanding West Pokot's health challenges is fundamental to understanding human welfare and development outcomes in the county.
 
 ## Health Facility Infrastructure

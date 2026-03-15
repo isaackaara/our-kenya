@@ -1,5 +1,3 @@
-# 1992 Election Oginga Odinga
-
 [[Oginga Odinga]], now in his 80s and returning to electoral politics after decades of marginalization and house arrest, became FORD-Kenya's presidential candidate in the 1992 election. Odinga's return was a dramatic moment in Kenyan politics, representing the restoration of the elder statesman who had been forced from politics in 1966 and banned in 1969. His candidacy symbolized the continuity of opposition and the persistence of anti-Moi sentiment across multiple generations of Kenyan politics.
 
 Odinga's 1992 campaign positioned him as the representative of Luo interests and of the continuity of nationalist tradition. His long history of opposing Kikuyu (during the Kenyatta era) and later Kalenjin (Moi) dominance made him an attractive candidate for those seeking to restore balance to Kenya's political system. Odinga's international profile and his historical role as a nationalist leader gave him credibility and visibility.

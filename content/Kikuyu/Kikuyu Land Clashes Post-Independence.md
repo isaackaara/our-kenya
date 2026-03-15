@@ -1,5 +1,3 @@
-# Kikuyu Land Clashes Post-Independence
-
 The "willing buyer willing seller" land policy of post-independence Kenya created decades of violent conflict between [[Kikuyu]] settlers and host communities in the Rift Valley and Coast regions. These clashes (1992, 1997, [[2007-2008 Post Election Violence|2007]]) exposed fundamental contradictions in Kenya's approach to land and ethnic identity.
 
 ## The Willing Buyer Willing Seller Policy

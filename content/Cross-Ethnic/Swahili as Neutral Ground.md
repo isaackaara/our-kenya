@@ -1,5 +1,3 @@
-# Swahili as Neutral Ground
-
 Swahili is Kenya's national language, but it originated on the coast and is the first language of a relatively small portion of Kenya's population. Colonial administrators deliberately promoted it as the "neutral" language for inter-ethnic communication and record-keeping. The intent was administrative control. The outcome was national belonging.
 
 ## Key Facts

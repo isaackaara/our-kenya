@@ -1,5 +1,3 @@
-# Moi Presidency Timeline
-
 **1978**
 - August 22: [[Jomo Kenyatta]] dies after a lengthy illness
 - August 22: Daniel arap Moi is sworn in as the second president of Kenya

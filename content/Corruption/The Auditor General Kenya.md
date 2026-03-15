@@ -1,5 +1,3 @@
-# The Auditor General Kenya: Documenting Fraud Without Enforcing Accountability
-
 ## The Role and Mandate
 
 The Auditor General is constitutionally mandated to audit all public accounts. The Auditor General produces annual audit reports examining government expenditure across ministries and agencies.

@@ -1,5 +1,3 @@
-# Meru County Timeline
-
 This timeline documents key dates in Meru County's history from precolonial times through 2026. Major events include colonial administration, missionary activity, nationhood, and contemporary development.
 
 ## Precolonial Era (Before 1900)

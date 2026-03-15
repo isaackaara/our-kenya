@@ -1,5 +1,3 @@
-# 1988 Election Notable Purges
-
 Many prominent politicians were defeated or prevented from running in 1988. The rigged election removed sitting MPs aligned with factions outside Moi's control. Specific purges reflected government decisions to eliminate political rivals or to consolidate Moi's power. The 1988 election continued and intensified the pattern of using elections for political purge that had characterized the 1983 election.
 
 ## See Also

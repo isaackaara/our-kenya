@@ -1,5 +1,3 @@
-# The Handshake Pattern
-
 Across three generations, [[Kenya]]'s two largest ethnic groups have followed the same script: [[alliance]], [[fracture]], years of opposition, then sudden public reconciliation. The pattern suggests something deeper than electoral politics: a rhythm to how Kenya's political order regenerates.
 
 ## Key Facts

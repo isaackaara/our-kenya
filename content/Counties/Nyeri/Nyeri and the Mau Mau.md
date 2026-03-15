@@ -1,5 +1,3 @@
-# Nyeri and the Mau Mau
-
 Nyeri District was the heartland and epicenter of the Mau Mau uprising (1952-1960), Kenya's anticolonial armed movement. The district experienced intense military operations, extensive forest fighting, and significant loss of life. The uprising profoundly shaped Nyeri's social fabric, economy, and historical consciousness. Dedan Kimathi, the most famous Mau Mau commander, operated primarily from the Nyeri forest areas.
 
 ## Mau Mau Emergence

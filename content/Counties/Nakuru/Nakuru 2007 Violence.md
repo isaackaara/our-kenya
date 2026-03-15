@@ -1,5 +1,3 @@
-# Nakuru 2007 Post-Election Violence
-
 Nakuru town experienced some of the most horrific ethnic violence during Kenya's 2007-2008 post-election crisis. In January 2008, when ODM supporters (predominantly [[../../Kalenjin/Kalenjin|Kalenjin]] and [[../../Luo/Luo|Luo]]) disputed the presidential election results, violence erupted against [[../../Kikuyu/Kikuyu|Kikuyu]] communities, who were seen as supporters of the Kibaki government.
 
 Nakuru town became a killing field. Displaced persons from neighboring counties fled to Nakuru seeking safety, only to find the city itself a battleground. [[../../Kikuyu/Kikuyu|Kikuyu]] residents were targeted in markets, residential areas, and public spaces. The violence disrupted commerce, destroyed property, and killed hundreds. Makeshift IDP (Internally Displaced Persons) camps were established in Nakuru, with thousands living in precarious conditions for months.

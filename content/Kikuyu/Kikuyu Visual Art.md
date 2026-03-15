@@ -1,5 +1,3 @@
-# Kikuyu Visual Art
-
 Kikuyu visual art traditions include beadwork, body decoration at initiation ceremonies, contemporary painting and sculpture, and distinctive architectural forms. While less developed than the beadwork traditions of pastoral groups like [[../Maasai/Maasai|Maasai]], Kikuyu visual art expresses cultural identity and aesthetic values.
 
 ## Beadwork

@@ -1,5 +1,3 @@
-# Njuri Ncheke Deep Dive
-
 The [[Njuri Ncheke]] is the supreme council of elders of the [[Meru]] people and one of the most intact traditional governance institutions remaining in Kenya. The institution predates colonialism, survived colonial rule, and continues to exercise authority in [[Meru]] communities today.
 
 ## Structure and Organization

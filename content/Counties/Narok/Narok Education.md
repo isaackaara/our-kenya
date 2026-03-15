@@ -1,5 +1,3 @@
-# Narok Education
-
 Narok County's education sector provides primary and secondary schooling to pastoral and increasingly urban communities, reflecting challenges of pastoralist education traditions, resource constraints, and opportunities for human capital development in a tourism-driven economy.
 
 ## School Infrastructure

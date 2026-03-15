@@ -1,5 +1,3 @@
-# Tharaka Proverbs
-
 Traditional Tharaka proverbs encode cultural [[Tharaka Oral Traditions]] about proper behavior, family relationships, and appropriate responses to life's challenges. Proverbs remain important in Tharaka [[Tharaka Identity Today]] despite declining transmission to younger generations.
 
 ## Examples of Tharaka Proverbs

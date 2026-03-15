@@ -1,5 +1,3 @@
-# Kiambu Tea Estates
-
 The Limuru tea estates represent one of Kenya's most important tea-producing regions, with large commercial estates and numerous smallholder farmers contributing to significant tea output. The estates are located at high altitude with cool climate, suitable for producing high-quality tea. The estates grow Camellia sinensis plants, harvest tea leaves, and process them in numerous tea factories distributed throughout the region.
 
 Tea production in Limuru involves both large-scale commercial estates and smallholder farmers who supply their green leaf to processing factories. The harvest season is year-round in Kenya's tropical highlands, with productivity varying seasonally. Tea processing converts fresh leaves into dried leaf tea through withering, rolling, fermentation, and drying processes. The finished product is graded by quality level and sold through the Kenya Tea Board's auction system, where domestic processors and exporters purchase tea.

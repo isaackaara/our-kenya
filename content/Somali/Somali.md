@@ -1,5 +1,3 @@
-# Somali and Northern Kenya: Knowledge Graph Index
-
 This vertical documents the Somali people of Kenya and the broader Northern Kenya communities. The Somali are Kenya's largest pastoralist community, concentrated in North Eastern Kenya with deep historical, cultural, and linguistic ties to Somalia, Ethiopia's Somali Region, and Djibouti.
 
 ## Overview

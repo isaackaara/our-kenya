@@ -1,5 +1,3 @@
-# West Pokot County
-
 West Pokot County is in the northwestern Rift Valley region of Kenya, bordering Uganda to the west and south. The county has a population of approximately 700,000 people. The Pokot (also called Suk) are the dominant community, a Kalenjin sub-group with distinctive pastoral and agro-pastoral culture. The county borders Uganda and has connections to South Sudan via Turkana County to the north. Kapenguria is the county headquarters and main town. West Pokot is predominantly pastoral, with livestock (cattle, camels, goats) as primary livelihood for many communities. The county experiences dramatic topographical variation from hot, arid lowlands to cool, fertile highlands.
 
 ## Overview

@@ -1,5 +1,3 @@
-# Kenyatta and the Luo
-
 The relationship between the Kenyatta presidency and the Luo community was characterized by growing tension, marginalization, and periodic violence. While Kenyatta often invoked the ideal of national unity, his policies and the actions of his government consistently marginalized Luo interests and contributed to a pattern of ethnic differentiation in the distribution of state resources and political power. The climax of this relationship came with the [[Kisumu Massacre]] of 1969, which signaled the severe deterioration of Luo status under Kenyatta's rule.
 
 The Luo, a Nilotic people concentrated primarily in the Lake Victoria region and urban centers like Nairobi, represented a significant political and cultural force in Kenya at independence. They had produced important nationalist leaders, including Oginga Odinga, and they had a strong tradition of labor organization and working-class politics through figures like [[Tom Mboya]]. The Luo had hoped that independence would create space for greater influence in the new nation-state, and initially, the appointment of Oginga Odinga as Vice President seemed to suggest this.

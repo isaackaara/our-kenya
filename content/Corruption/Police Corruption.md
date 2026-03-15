@@ -1,5 +1,3 @@
-# Police Corruption in Kenya: Systematic Extortion and Violence
-
 ## The Scale and Normalization
 
 Corruption within the [[Kenya Police Service]] is systemic and normalized. Police officers extract bribes at roadblocks, demand payments from businesses in exchange for "protection," and conduct [[paid disappearances]] and executions.

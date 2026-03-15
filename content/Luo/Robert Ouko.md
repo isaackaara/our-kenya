@@ -1,5 +1,3 @@
-# Robert Ouko
-
 Dr. Robert John Ouko was one of Kenya's most accomplished and respected diplomats, rising to prominence as Foreign Minister during the latter years of the Moi regime. His assassination in February 1990 was one of the most significant political murders of the Moi era, triggering national outrage and galvanizing pro-democracy opposition.
 
 ## Early Career and Rise to Prominence

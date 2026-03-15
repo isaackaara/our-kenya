@@ -1,5 +1,3 @@
-# Laikipia Plateau
-
 The Laikipia plateau is the distinctive geographic feature of the county, a semi-arid highland plateau running from the [[../../Conservation/Aberdare National Park|Aberdare Range]] to the northern frontier. The plateau ranges in altitude from approximately 1,700 meters in the south to lower elevations in the north. Vegetation transitions from highland forest at the southern boundary to semi-arid grassland across the plateau. The plateau's landscape, climate, and water sources have shaped settlement patterns, land use, and economic activities. The transitional ecosystem supports both pastoral and wildlife conservation activities.
 
 ## Physical Geography

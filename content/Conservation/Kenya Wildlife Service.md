@@ -1,5 +1,3 @@
-# Kenya Wildlife Service
-
 The Kenya Wildlife Service (KWS) stands as one of Africa's most influential [[Kenya as Global Conservation Model|conservation institutions]]. Established in 1990, it consolidated wildlife management authority under a single government agency and became the focal point of Kenya's modern [[Kenya Conservation Overview|conservation identity]], particularly through its dramatic [[Ivory Burns Kenya|1989 ivory burning]] that helped shift global conservation policy.
 
 ## Establishment and Mandate

@@ -1,5 +1,3 @@
-# Story Trails
-
 *Navigate Kenya's history like swiping through stories. Each trail is a curated sequence of notes that build on each other.*
 
 ---

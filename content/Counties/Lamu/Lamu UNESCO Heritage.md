@@ -1,5 +1,3 @@
-# Lamu UNESCO Heritage
-
 The Old Town of Lamu was inscribed as a UNESCO World Heritage Site in 2001 (Site No. 500). The inscription recognized Lamu as an outstanding example of Swahili coastal architecture and culture, meeting UNESCO criteria for cultural significance, historical authenticity, and integrity.
 
 The inscription criteria cited were criteria (ii), (iii), (iv), and (vi). Criterion (ii) recognized Lamu as demonstrating "important human cultural and architectural exchanges" across the Indian Ocean. Criterion (iii) acknowledged the town as "an outstanding testimony to Swahili civilization" across several centuries. Criterion (iv) noted the distinctive Swahili architecture with coral stone construction, carved wooden doors, and street patterns. Criterion (vi) acknowledged Lamu's association with significant historical events and ideas related to Islamic culture and maritime trade.

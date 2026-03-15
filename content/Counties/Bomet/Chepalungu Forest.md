@@ -1,5 +1,3 @@
-# Chepalungu Forest
-
 Chepalungu Forest is an important water tower forest located in Bomet County, providing critical hydrological, ecological, and economic services to the county and surrounding regions. Forest conservation is essential for water supply and biodiversity protection.
 
 ## Forest Significance

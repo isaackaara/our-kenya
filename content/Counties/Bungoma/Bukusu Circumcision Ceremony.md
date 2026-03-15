@@ -1,5 +1,3 @@
-# [[../../Luhya/Luhya|Bukusu]] Circumcision Ceremony
-
 The Bukusu circumcision ceremony, known as imbalu, represents one of East Africa's most elaborate and visually striking initiation rituals. Performed every two years (historically, though timing has become irregular), the imbalu ceremonies last for extended periods with multiple stages of celebration, ritual performance, and community participation. The ceremony marks the transition from childhood to adulthood and establishes age-grade cohorts binding initiates through lifelong social relationships.
 
 ## Ceremony Structure and Timing

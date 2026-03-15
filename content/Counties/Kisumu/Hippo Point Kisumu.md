@@ -1,5 +1,3 @@
-# Hippo Point: Kisumu's Lake Access and Tourist Destination
-
 Hippo Point is the main public access point to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] in Kisumu. The area serves as a fishing harbor, informal market center, and tourist attraction offering views and sunset experiences.
 
 ## Location and Geography

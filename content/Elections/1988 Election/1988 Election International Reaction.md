@@ -1,5 +1,3 @@
-# 1988 Election International Reaction
-
 International observers and foreign governments responded to the 1988 election with criticism and concern. International election observers documented the mlolongo rigging and reported that the election did not meet international standards for fair and free elections. Western governments, while remaining supportive of Moi for Cold War strategic reasons, expressed concerns about electoral procedures. International human rights organizations criticized the detention of political prisoners and the electoral fraud. The international criticism damaged Kenya's international reputation but did not lead to significant international intervention.
 
 ## See Also

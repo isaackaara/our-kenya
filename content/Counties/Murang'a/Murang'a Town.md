@@ -1,5 +1,3 @@
-# Murang'a Town
-
 Murang'a Town serves as the county capital and primary commercial and administrative center, functioning as the hub for county government, commerce, education, and healthcare services. Established during the colonial period as the administrative center for Fort Hall District, the town has evolved from a colonial administrative post into a contemporary Kenyan county town reflecting both colonial urban planning legacies and post-colonial urban expansion dynamics.
 
 Colonial-period town development focused narrowly on administrative functions and European convenience, with the town serving primarily as a seat of district administration. Urban planning reflected colonial racial segregation patterns, with separate residential, commercial, and administrative zones demarcating European, Asian, and African spatial territories. Post-independence urban development has fundamentally reorganized these colonial spatial patterns, though some colonial infrastructure remains.

@@ -1,5 +1,3 @@
-# Aberdares (Nyandarua)
-
 The Aberdares mountain range, known as Nyandarua in Gikuyu, forms a dramatic spine of forest and moorland running north-south through central Kenya. This range served as the primary fortress and base of operations for Mau Mau fighters during the 1952-1960 State of Emergency and remains one of Kenya's most significant water towers and conservation areas.
 
 ## Geography and Names

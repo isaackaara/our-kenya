@@ -1,5 +1,3 @@
-# Nairobi's Green Spaces: Parks and Open Areas
-
 Despite rapid urbanization, Nairobi retains several important green spaces that provide recreational opportunities, environmental services, and respite from the urban environment. These include Uhuru Park, Central Park, and the City Forest.
 
 ## Uhuru Park

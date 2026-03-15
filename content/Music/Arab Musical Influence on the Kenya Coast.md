@@ -1,5 +1,3 @@
-# Arab Musical Influence on the Kenya Coast
-
 For over a thousand years, the Kenya coast has been shaped by Arab musical traditions carried across the Indian Ocean by dhow traders, settlers, and scholars. The oud, qanun, and maqam scales of Arab classical music blended with African rhythms and Swahili poetry to create a distinctive coastal soundscape that remains audible today.
 
 Arab contact with the [[Swahili/Swahili Civilization Overview|Swahili coast]] dates to at least the 8th century CE, intensifying during the Omani and Hadhrami migrations of the 17th through 19th centuries. These settlers brought sophisticated musical instruments and theoretical frameworks unknown in the African interior. The oud, a pear-shaped lute with a bent neck and typically eleven strings, became central to coastal elite musical culture. The qanun, a trapezoidal zither played with finger picks, added intricate melodic textures.

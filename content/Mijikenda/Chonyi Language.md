@@ -1,5 +1,3 @@
-# [[Chonyi]] Language
-
 The Chonyi language is one of nine closely related [[Mijikenda]] languages spoken in the coastal hinterland of Kenya. Like other Mjikenda languages, Chonyi is classified as an [[endangered language]] language facing pressure from [[Swahili]] and English, yet it encodes distinct cultural knowledge and represents the unique linguistic heritage of the Chonyi people.
 
 ## Linguistic Classification

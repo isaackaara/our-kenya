@@ -1,5 +1,3 @@
-# Kenya
-
 An interactive knowledge graph exploring the history, peoples, and cultures that shaped Kenya.
 
 Every note connects to others. Start anywhere.

@@ -1,5 +1,3 @@
-# The [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] River
-
 ## Geographic Location
 
 The Mara River originates in the Mau Forest Complex in Kenya's central highlands, approximately 2,600 meters above sea level. From its source, the river flows westward and southwestward through the Rift Valley, eventually crossing into [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve. The river flows through the reserve for approximately 50-60 kilometers before crossing into Tanzania and continuing to the Tanzanian plains.

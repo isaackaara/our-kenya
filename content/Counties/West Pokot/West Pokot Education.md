@@ -1,5 +1,3 @@
-# West Pokot Education
-
 [[West Pokot County]] faces significant challenges in education provision and educational outcomes, with school enrollment, completion rates, and learning quality substantially below national averages. The education system serves a dispersed rural and pastoral population with limited infrastructure and constrained government resources. While free primary education policies have expanded enrollment, attendance remains limited by poverty, opportunity costs of schooling, and household labor needs. Secondary school access remains very limited, restricting human capital development and long-term economic opportunities for West Pokot residents. Educational quality is constrained by inadequate facilities, under-qualified and understaffed schools, and limited instructional materials. Understanding West Pokot's education challenges is essential to understanding the county's limited economic opportunities and developmental prospects.
 
 ## Primary Education Access and Challenges

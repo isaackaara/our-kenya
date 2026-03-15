@@ -1,5 +1,3 @@
-# Youth Culture Kenya
-
 [[Kenyan youth culture]] crosses ethnic lines through shared interests in [[music]], [[fashion]], [[sports]], and [[social media]]. Young Kenyans from diverse ethnic backgrounds participate in [[common cultural forms]] and share aesthetic preferences, communication styles, and social practices. The development of youth culture transcending ethnicity reflects the multi-ethnic character of schools, cities, and digital spaces where youth congregate.
 
 Youth fashion in Kenya reflects both international and local influences. Young Kenyans adopt styles including streetwear, hip-hop influenced fashion, and contemporary international styles. Particular brands and aesthetic styles become fashionable among youth across ethnic lines. Fashion magazines, social media influencers, and peer networks spread fashion trends across ethnic boundaries. A young Kikuyu person and a young Luo person are more likely to share fashion interests with each other than with older members of their own ethnic communities.

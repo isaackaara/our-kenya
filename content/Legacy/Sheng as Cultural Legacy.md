@@ -1,5 +1,3 @@
-# Sheng as Cultural Legacy
-
 Sheng is a language born in Nairobi. It emerged from the mixing of Swahili, English, and African languages (particularly Kikuyu and Luhya) by urban youth in the 1960s and 1970s. It is not the language of any ethnic group. It is the language of urban mixing, of people from different communities living together, of youth creating new culture.
 
 Sheng is the linguistic product of urbanization and migration. When people from different regions migrate to the city, they bring their languages with them. They need to communicate with people who do not speak their ethnic language. They innovate. Sheng emerged as a practical response to the need to communicate across linguistic boundaries.

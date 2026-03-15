@@ -1,5 +1,3 @@
-# Makueni Food Security
-
 Food insecurity represents a chronic challenge for Makueni County, with significant population portions lacking reliable access to adequate food throughout the year. The semi-arid climate, erratic rainfall, and limited agricultural production create persistent food deficits. Food security fluctuates seasonally and varies with rainfall patterns, creating vulnerable populations.
 
 Household food production from agriculture and pastoral systems remains the primary food source for most Makueni populations. However, limited agricultural output due to rainfall variability and declining pastoral productivity creates food gaps. These gaps are typically filled through market purchases using cash income from employment, commerce, or livestock sales.

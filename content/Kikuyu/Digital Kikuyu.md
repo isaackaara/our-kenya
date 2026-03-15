@@ -1,5 +1,3 @@
-# Digital Kikuyu
-
 Contemporary Kikuyu communities are actively engaged with social media, online content creation, digital commerce, and virtual cultural expression. Digital platforms have created new spaces for Kikuyu cultural production, community connection, and political mobilization.
 
 ## Social Media Presence

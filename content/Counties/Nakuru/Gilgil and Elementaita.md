@@ -1,5 +1,3 @@
-# Gilgil Town and Lake Elementaita
-
 Gilgil is a small town in [[../Nakuru/Nakuru County|Nakuru County]] along the Nairobi to Naivasha road, serving as a market center for surrounding communities. The town is known for its agricultural hinterland (dairy farming, maize, vegetables) and its role as a transit point. Gilgil experienced significant disruption during the 2007-2008 post-election violence but has since been rebuilt and is gradually recovering.
 
 Lake Elemen[[../../Taita/Taita|Taita]] is a shallow alkaline lake in [[../Nakuru/Nakuru County|Nakuru County]], approximately 15 kilometers from Gilgil. The lake is famous for its large flamingo populations, attracted by the same algae that colors [[../../Conservation/Lake Nakuru|Lake Nakuru]]. Elementaita is also notable as a UNESCO World Heritage Site, recognized for its ecological significance as breeding and feeding grounds for hundreds of thousands of waterbirds. The lake's ecosystem supports diverse bird species, including eagles and herons.

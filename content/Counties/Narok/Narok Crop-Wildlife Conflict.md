@@ -1,5 +1,3 @@
-# Narok Crop-Wildlife Conflict
-
 Narok County experiences increasing conflict between expanding agricultural production (especially wheat farming) and wildlife conservation, as agricultural frontiers advance into ecosystems previously dominated by pastoral grazing and wildlife, creating direct competition for land and resources.
 
 ## Agricultural Expansion Into Wildlife Areas

@@ -1,5 +1,3 @@
-# Tana River Devolution
-
 Tana River County governance was transformed through Kenya's 2010 constitutional devolution system, which transferred substantial authority from the national government to 47 newly established county governments. Devolution created significant new opportunities for localized governance and service delivery while simultaneously exposing implementation challenges, capacity constraints, and political contestation in Tana River's governance structures.
 
 The 2010 Constitution established a two-tier government system comprising national government at the national level and county governments representing each county. This devolution transferred specific functions to counties including agriculture, local roads, health service delivery, water and sanitation, education quality assurance, and local economic development. Counties received revenue from the national treasury through a constitutionally-mandated allocation formula and could generate own-source revenue through local taxation and fees.

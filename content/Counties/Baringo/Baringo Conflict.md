@@ -1,5 +1,3 @@
-# Baringo Conflict
-
 Baringo County experiences inter-communal conflict between Tugen, Pokot, and Njemps communities competing over pastoral resources, land access, and cattle. These conflicts have periodically escalated into violence and require ongoing management and peacebuilding efforts.
 
 ## Historical Conflict Patterns

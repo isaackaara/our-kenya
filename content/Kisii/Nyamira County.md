@@ -1,5 +1,3 @@
-# Nyamira County
-
 Nyamira County was created in 2013 as part of Kenya's devolved governance structure, carved from the original Kisii County. The new county represents a smaller, more localized administrative unit focused on the southern portions of the former unified Kisii region, primarily home to Gusii communities.
 
 ## Creation and Governance

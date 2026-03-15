@@ -1,5 +1,3 @@
-# Embu Tea [[Embu Coffee Sector]]
-
 Tea cultivation on Embu's favorable slopes between 1,400 and 2,600 meters elevation provides significant cash income for thousands of smallholder farmers. Embu tea quality is recognized nationally and internationally. Global tea prices, tea cooperatives, and agricultural support services shape the tea sector's performance.
 
 ## Tea Growing Regions

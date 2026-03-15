@@ -1,5 +1,3 @@
-# Bungoma Politics
-
 Bungoma County's political landscape reflects complex dynamics shaped by [[../../Luhya/Luhya|Bukusu]] ethnic identity, internal sub-group divisions, border county positioning, and national political alignments. Political competition at county, constituency, and ward levels involves multiple candidates and factions representing different interests. County governance since 2013 has involved elected governors navigating developmental, administrative, and political challenges.
 
 ## County Governance

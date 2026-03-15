@@ -1,5 +1,3 @@
-# Kiambu Manufacturing Sector
-
 The Kiambu manufacturing base is concentrated in Thika and other urban centers, producing textiles, food products, pharmaceuticals, metal goods, and construction materials. The textile industry, historically dominant, has faced pressures from imports and competition from lower-cost producers. Rivatex East Africa, established in 1974, is a major textile mill that collapsed in the early 2000s but was revived in 2018 with government investment, now producing cloth for East African markets.
 
 Food processing in Kiambu includes Del Monte's pineapple canning operation, which is one of East Africa's largest agro-industrial facilities, and numerous smaller operations processing dairy, grains, and vegetables for domestic and export markets. Pharmaceutical manufacturing has expanded, with several companies producing medicines for Kenyan and regional markets. Metal fabrication and engineering works serve the construction industry and other manufacturing sectors, producing structural steel, tools, and equipment.

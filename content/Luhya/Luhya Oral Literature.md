@@ -1,5 +1,3 @@
-# Luhya Oral Literature
-
 Before widespread literacy and the dominance of written communication, Luhya communities maintained rich oral literary traditions including folktales, riddles, and proverbs. These oral forms functioned as entertainment, education, and repositories of cultural values and historical knowledge.
 
 ## Folktales (Litini)

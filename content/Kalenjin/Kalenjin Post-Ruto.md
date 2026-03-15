@@ -1,5 +1,3 @@
-# Kalenjin Post-Ruto
-
 With William Ruto's election as Kenya's president in 2022, the Kalenjin achieved political power at the national level. Ruto's presidency has major implications for Kalenjin communities, for Rift Valley regional politics, and for patterns of state resource allocation. Understanding Kalenjin post-Ruto politics requires examining patronage flows, regional development priorities, and the contradictions between Ruto's electoral promises and his political challenges.
 
 ## Presidential Authority and Patronage

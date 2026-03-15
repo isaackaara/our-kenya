@@ -1,5 +1,3 @@
-# Maasai and Islam
-
 ## Current Muslim Presence
 
 Islam has limited but growing presence in Maasai communities. The majority of Maasai identify as Christian (approximately 60-70%) or traditional African religious practitioners (remaining percentage). However, a small minority of Maasai (estimated 2-5%) identify as Muslim or practice Islam. This Muslim presence is concentrated in urban areas and border regions near predominantly Muslim communities.

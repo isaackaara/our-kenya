@@ -1,5 +1,3 @@
-# Mau Forest Crisis
-
 The Mau Forest Complex represents one of Africa's most important montane forests and also one of its most degraded. This vast forest system, the source of multiple major rivers and home to diverse ecosystems and communities, has undergone catastrophic deforestation and degradation over recent decades due to illegal logging, agricultural encroachment, and government settlement programs. The [[Mau Forest Controversy|Mau crisis]] exemplifies the collision between [[Kenya Conservation Overview|conservation]] objectives and development pressures.
 
 ## Geographic and Ecological Significance

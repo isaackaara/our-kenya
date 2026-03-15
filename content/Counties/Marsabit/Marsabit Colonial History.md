@@ -1,5 +1,3 @@
-# Marsabit Colonial History
-
 Marsabit became part of the British sphere of influence during the late nineteenth century partition of East Africa. Colonial administration of the region presented unique challenges given its vast territory, sparse population, arid environment, and remote location.
 
 The Northern Frontier District (NFD), comprising Marsabit and surrounding territories, received minimal colonial infrastructure investment compared to agriculturally productive highland regions. Colonial policy treated pastoral areas cautiously, with military activities prioritised over civilian development.

@@ -1,5 +1,3 @@
-# Kajiado Wildlife
-
 Kajiado County's wildlife populations inhabit the Amboseli ecosystem and surrounding pastoral and conservancy areas, comprising diverse mammal and bird species adapted to semi-arid and arid savanna habitats. Wildlife conservation and pastoral coexistence present ongoing challenges and opportunities.
 
 ## Large Mammal Populations

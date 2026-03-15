@@ -1,5 +1,3 @@
-# Kisumu Youth Unemployment: The Boda Boda Economy
-
 Kisumu faces very high youth unemployment, with limited formal job opportunities and an economy that has stagnated relative to national growth. The lack of opportunity has driven youth into the informal economy, particularly motorcycle taxi (boda boda) operations.
 
 ## Unemployment Crisis

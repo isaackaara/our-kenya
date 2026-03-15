@@ -1,5 +1,3 @@
-# Marsabit Politics and County Governance
-
 Marsabit County's political history reflects broader Kenya trajectories alongside local particularities related to pastoralism, border issues, and ethnic diversity. Colonial and post-colonial political development shaped current governance structures.
 
 Colonial administration treated Marsabit as part of the Northern Frontier District (NFD), a remotely governed frontier zone. Colonial authorities maintained light-touch administration through appointed headmen and colonial officials. Border management and security received substantial attention given Ethiopia's proximity.

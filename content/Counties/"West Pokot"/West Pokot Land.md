@@ -1,5 +1,3 @@
-# West Pokot Land
-
 Land tenure in West Pokot County is primarily communal pastoral land (group ranches) and individual smallholder holdings in agricultural zones. Communal pastoral land is collectively managed by pastoral communities through traditional governance structures and group ranch organizations. Individual land titles exist in limited areas, primarily agricultural highland zones and Kapenguria. Pastoral mobility has been constrained by land privatization and administrative boundaries. Community land holdings are increasingly formalized through group ranch registration. Title adjudication has been limited, leaving ownership documentation uncertain for many properties. Government and community-held land exists alongside individual private holdings. Land disputes arise from competing claims, inheritance, and boundary ambiguity.
 
 ## Pastoral Land Management

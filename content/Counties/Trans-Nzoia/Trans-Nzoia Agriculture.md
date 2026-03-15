@@ -1,5 +1,3 @@
-# Trans-Nzoia Agriculture
-
 Trans-Nzoia County has one of Kenya's most diverse and productive agricultural economies. The favorable highland climate (cool temperatures, adequate rainfall) supports year-round production of multiple crops. Agriculture is the foundation of the county economy and primary income source for the majority of residents. Smallholder farmers operate holdings averaging 2-10 acres, while some commercial farmers control larger estates. The county produces maize, wheat, sunflower, dairy products, pyrethrum, and various other crops. Agricultural extension services and cooperative societies provide technical support and market linkages.
 
 ## Crop Diversity

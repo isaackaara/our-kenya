@@ -1,5 +1,3 @@
-# Ogiek in Mau Forest
-
 The [[Ogiek]] are a [[hunter-gatherer]] community whose ancestral homeland encompasses the [[Mau Forest]] Complex and surrounding areas in Kenya's western highlands. For generations, the Ogiek have depended on the forest for hunting, honey gathering, and other subsistence practices. However, successive governments have progressively displaced Ogiek communities from the forest, first through colonial policies and subsequently through conservation and development initiatives.
 
 ## Ogiek History and Traditional Livelihoods

@@ -1,5 +1,3 @@
-# Nairobi's Cosmopolitan Ethnic Composition
-
 Nairobi is the most ethnically diverse city in Kenya, home to all 47 of Kenya's ethnic groups as well as significant Asian, Arab, European, and international populations. This extraordinary diversity reflects the city's role as Kenya's capital and economic hub, attracting migrants from across the country and around the world.
 
 ## Ethnic Groups Present

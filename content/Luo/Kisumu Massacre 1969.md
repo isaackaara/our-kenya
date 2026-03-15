@@ -1,5 +1,3 @@
-# [[../Counties/Kisumu/Kisumu County|Kisumu County]] Massacre 1969
-
 On October 25, 1969, President Jomo Kenyatta visited Kisumu to open the Russia-built Nyanza Provincial General Hospital. What began as a state ceremony became a turning point in post-independence Kenyan politics and in the relationship between the Luo community and the central government.
 
 ## Context: Political Tension

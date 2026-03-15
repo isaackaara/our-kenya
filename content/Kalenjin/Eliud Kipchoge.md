@@ -1,5 +1,3 @@
-# [[Eliud Kipchoge|Eliud Kipchoge]]
-
 Eliud Kipchoge (born 1984) is a Nandi Kalenjin athlete widely considered the greatest marathon runner of all time. On October 12, 2019, he made history by becoming the first human to run a marathon in under two hours, achieving a time of 1:59:40.2 in the INEOS 1:59 Challenge in Vienna, Austria. An Olympic gold medalist (2016 Tokyo, 2020 Los Angeles Olympics), world record holder, and nine-time World Marathon Majors champion, Kipchoge transcends sports to represent Kenya, the Kalenjin, and the human potential to exceed perceived limits.
 
 ## Key Facts

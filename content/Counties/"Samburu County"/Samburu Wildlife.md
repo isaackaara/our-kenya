@@ -1,5 +1,3 @@
-# Samburu Wildlife Beyond the Reserves
-
 Wildlife extends beyond Samburu County's formal game reserves into communal rangelands and pastoral territories. These unprotected areas host wildlife populations and represent wildlife habitat despite lacking official reserve status.
 
 The Ewaso Nyiro River ecosystem supports various wildlife species including buffalo, warthogs, baboons, and numerous bird species. Seasonal water availability concentrates wildlife along the river corridor. Pastoral communities coexist with wildlife in riverine areas.

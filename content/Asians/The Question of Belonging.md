@@ -1,5 +1,3 @@
-# The Question of Belonging
-
 The fundamental question facing Asians in Kenya is whether they truly [[belong]]. Are they [[Kenyans]] or perpetual foreigners? Are they rooted in Kenya or merely residing there temporarily? This question has haunted the community since the beginning and remains unresolved.
 
 ## The "Nowhere People" Dilemma

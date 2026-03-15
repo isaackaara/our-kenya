@@ -1,5 +1,3 @@
-# Equator at Nanyuki
-
 The equator passes through Nanyuki Town, making it a notable geographic location. The equator crossing is marked with a famous sign serving as a major tourist attraction. Visitors from throughout the world visit the equator crossing sign. The geographic significance has made Nanyuki internationally recognized. The equator becomes a cultural symbol for the region. Tourism to the equator provides economic benefits.
 
 ## Geographic Significance

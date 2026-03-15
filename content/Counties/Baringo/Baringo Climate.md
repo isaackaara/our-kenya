@@ -1,5 +1,3 @@
-# Baringo Climate
-
 Baringo County's climate is characterized as semi-arid savanna with significant altitude variation, bimodal rainfall patterns, and substantial seasonal and inter-annual rainfall variability. The semi-arid climate creates challenges for pastoral and agricultural livelihoods requiring adaptive management strategies.
 
 ## Rainfall Patterns

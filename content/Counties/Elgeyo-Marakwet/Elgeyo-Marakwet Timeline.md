@@ -1,5 +1,3 @@
-# Elgeyo-Marakwet Timeline
-
 ## Key Dates in Elgeyo-Marakwet History
 
 **Pre-1800s**: Elgeyo and Marakwet pastoral communities inhabit the Kerio Valley and surrounding highlands, maintain the Marakwet cliff irrigation system supporting agricultural production.

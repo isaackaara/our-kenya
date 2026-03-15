@@ -1,5 +1,3 @@
-# The Group Ranch System
-
 In the 1960s and 1970s, the Kenyan government implemented an ambitious policy to formalize pastoral land tenure: the group ranch system. The intention was to create a buffer against individual land sales and maintain communal pastoral resource management at scale. Instead, the group ranch system became a mechanism for privatization, subdivision, and the erosion of Maasai communal land rights.
 
 ## Origins and Intent

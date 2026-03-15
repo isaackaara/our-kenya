@@ -1,5 +1,3 @@
-# Busia Devolution
-
 Devolution transferred significant governance authority from central government to Busia County Government in 2013. The county operates under a devolved system with elected governor (executive head) and county assembly (legislative body). The governor and deputy governor are elected every five years as county chief executives. The county assembly comprises ward representatives (currently 30) elected from geographical constituencies. County government manages agriculture, health, education, water, local infrastructure, and other devolved functions. County government coordination involves collaboration with national government agencies. Inter-county cooperation occurs through regional forums addressing shared challenges.
 
 ## County Governance Functions

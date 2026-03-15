@@ -1,5 +1,3 @@
-# Meru Diaspora
-
 The [[Meru people|Meru]] diaspora comprises Meru people who have relocated to [[Nairobi]], other Kenyan urban centers, and internationally. The diaspora includes professionals, traders, students, and migrant workers who maintain varying degrees of connection to [[Meru County]] and broader Meru community.
 
 ## Nairobi-Based Diaspora

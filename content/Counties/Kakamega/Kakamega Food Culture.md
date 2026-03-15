@@ -1,5 +1,3 @@
-# Kakamega Food Culture
-
 Kakamega food culture reflects [[../../Luhya/Luhya|Luhya]] traditions emphasizing staple grains, legumes, vegetables, and occasional animal protein. Food traditions include both everyday meals and special occasion dishes marking cultural celebrations and ceremonies. Food practices adapt to agricultural seasons and contemporary food availability. Traditional foods remain important in community identity while contemporary food options expand through commercialization.
 
 ## Staple Foods

@@ -1,5 +1,3 @@
-# Lamu Old Town
-
 The Old Town of Lamu is the historic core of Lamu town, a district of winding coral rag streets, traditional houses, and the complete absence of motor vehicles. Spanning roughly 16 hectares, the Old Town contains approximately 700 buildings, nearly all constructed between the 18th and 19th centuries using coral stone, lime plaster, and imported timber.
 
 The architectural character of the Old Town is distinctly Swahili. Houses typically feature thick coral stone walls that provide thermal mass and protection against salt spray. Ground floors often contain shops, workshops, or storage (historically slave quarters or trade goods). Upper stories house family living spaces. Windows are small and deeply recessed, a design that provides ventilation while excluding intense heat and glare. The most distinctive feature of many houses is the carved wooden door frame, often elaborately decorated with geometric or floral patterns, inlaid with brass studs or painted in bright colors. These doors announce the owner's status and taste.

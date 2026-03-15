@@ -1,5 +1,3 @@
-# Migori Timeline
-
 ## Key Dates in Migori County History
 
 **15th-17th Centuries:** Luo migration into Lake Victoria region. Settlement of Migori area by Luo-speaking peoples.

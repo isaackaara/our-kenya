@@ -1,5 +1,3 @@
-# Kamba and the Slave Trade
-
 The [[Kamba]] participated in the coastal trade networks of East Africa during the 18th and 19th centuries, including involvement as middlemen in trade that encompassed slaves alongside ivory, gems, and other commodities. Understanding [[Kamba]] participation in the slave trade requires careful attention to the distinction between involvement in [[Kamba Trade Networks|trade networks]] and direct responsibility for slavery, while acknowledging [[Kamba]] agency in these systems.
 
 ## Kamba as Middlemen Traders

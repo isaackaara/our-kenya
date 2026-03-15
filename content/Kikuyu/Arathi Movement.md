@@ -1,5 +1,3 @@
-# Arathi Movement
-
 The arathi movement, also known as the Kikuyu Spirit Churches or Watu wa Mungu (People of God), emerged in the late 1920s and early 1930s as a syncretic religious movement that blended Christian theology with traditional Kikuyu spiritual practice. It represented a uniquely Kikuyu response to colonialism and missionary evangelization.
 
 ## Origins and Founders

@@ -1,5 +1,3 @@
-# Women's Peace Networks
-
 Turkana [[Turkana Women]] have emerged as active and important agents in peace building, forming women's organizations and networks that work to resolve conflicts between Turkana and neighboring communities (particularly Pokot and Samburu). These peace networks represent a distinctive form of grass-roots peace advocacy that has achieved significant results in reducing violence and building cross-community relationships.
 
 ## Emergence of Women's Peace Movements

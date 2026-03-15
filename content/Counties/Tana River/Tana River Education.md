@@ -1,5 +1,3 @@
-# Tana River Education
-
 Educational access and quality in Tana River County remain among Kenya's lowest despite formal constitutional commitments to free education. Education infrastructure is inadequate, teacher availability is limited, and student engagement is constrained by poverty, competing livelihood demands, and cultural practices that sometimes prioritize pastoral and farming activities over schooling.
 
 Enrollment rates in primary schools remain below national averages, with particular under-enrollment of girls. Cultural practices including early marriage and bride price systems have historically removed girls from schooling before completion. Boys in pastoral communities often herd livestock during school periods rather than attending class. Poverty forces families to choose between school costs and immediate consumption needs. Unpredictable rainfall and periodic droughts disrupt schooling as families migrate in search of water and pasture during drought episodes.

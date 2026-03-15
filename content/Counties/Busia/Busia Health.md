@@ -1,5 +1,3 @@
-# Busia Health
-
 Health infrastructure in Busia County includes hospitals, health centers, and dispensaries distributed across the county. Busia County Hospital in Busia town provides tertiary healthcare including surgery and laboratory services. Sub-county hospitals in trading centers provide secondary care. Health centers at ward and location levels provide primary healthcare and preventive services. Health workers include nurses, clinical officers, and community health volunteers. Maternal and child health services are provided through antenatal clinics and immunization programs. Communicable diseases including malaria (particularly in lower-elevation zones), diarrhea, and respiratory infections are prevalent. Non-communicable diseases including hypertension, diabetes, and cancers are increasing. HIV prevalence is notable, with treatment programs provided through facilities and NGOs. Health insurance coverage through National Health Insurance Fund is expanding.
 
 ## Common Health Challenges

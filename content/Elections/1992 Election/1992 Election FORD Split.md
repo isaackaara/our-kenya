@@ -1,5 +1,3 @@
-# 1992 Election FORD Split
-
 The [[Forum for the Restoration of Democracy]] (FORD), which had emerged as the initial focal point for opposition organizing against KANU in 1991, split into two competing parties before the 1992 election. The split created FORD-Kenya, led by [[Oginga Odinga]], and FORD-Asili, led by [[Kenneth Matiba]], along with a separate Democratic Party led by [[Mwai Kibaki]]. The division of the opposition among three parties was catastrophic for opposition prospects and was the primary reason that Moi and KANU won the election despite opposition votes substantially exceeding KANU votes in aggregate.
 
 The FORD split reflected both personal rivalries and ethnic and regional divisions within the opposition. Matiba, a wealthy Kikuyu businessman who had led a relatively isolated political comeback after suffering a stroke, competed with Odinga for leadership of the opposition. Matiba's FORD-Asili attempted to position itself as the party of Kikuyu interests, while Odinga's FORD-Kenya positioned itself as a continuation of Odinga's longstanding political tradition and claimed to represent broader pan-Kenyan opposition interests.

@@ -1,5 +1,3 @@
-# Kitui Food Security
-
 Food insecurity represents a chronic challenge for Kitui County, with significant population portions lacking reliable access to adequate food throughout the year. The semi-arid climate, erratic rainfall, and limited agricultural production create persistent food deficits. Food security fluctuates seasonally and varies with rainfall patterns.
 
 Household food production from agriculture and pastoral systems remains the primary food source for most Kitui populations. However, limited agricultural output due to rainfall variability and declining pastoral productivity creates food gaps. These gaps are filled through market purchases using cash income from employment, commerce, or livestock sales.

@@ -1,5 +1,3 @@
-# Tharaka Language
-
 The Tharaka language (Kitharaka) is a [[Tharaka and the Embu]] language spoken by approximately 200,000 to 250,000 people. Kitharaka is closely related to Kimeru but is recognized as a distinct language with its own phonological and grammatical features.
 
 ## Relationship to Kimeru

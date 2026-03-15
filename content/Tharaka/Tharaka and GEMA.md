@@ -1,5 +1,3 @@
-# Tharaka and GEMA
-
 The GEMA (Gikuyu-[[Tharaka and the Embu]]-Meru-Agikuyu) political [[Tharaka and the Meru]] groups together the Tharaka (through their Meru relationship), Gikuyu, Embu, and Agikuyu communities. The Tharaka's position within this bloc is somewhat marginal due to their smaller population.
 
 ## GEMA Coalition History

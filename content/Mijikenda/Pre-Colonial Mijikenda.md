@@ -1,5 +1,3 @@
-# Pre-Colonial Mijikenda
-
 Prior to British colonialism (before 1895), the [[Mijikenda]] peoples lived independently in fortified forest villages called [[Kaya System|kayas]], maintaining their own governance systems, trade relationships, and cultural traditions. They were neither isolated nor powerless but were integral to the broader East African coastal world, participating in [[Indian Ocean World|Indian Ocean]] trade networks and regional politics.
 
 ## The Kaya Governance System

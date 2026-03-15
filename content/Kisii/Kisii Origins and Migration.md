@@ -1,5 +1,3 @@
-# Kisii Origins and Migration
-
 The Gusii are a Bantu people who migrated to the Kisii Highlands approximately 400-500 years ago (roughly 1500-1600 CE), moving from the Mount Elgon region in what is now Uganda. Their migration and settlement transformed the highlands into a densely populated agricultural zone and brought them into contact with, and conflict with, the pastoral Maasai peoples who occupied adjacent regions.
 
 ## Bantu Origins and Early History

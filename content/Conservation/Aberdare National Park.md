@@ -1,5 +1,3 @@
-# Aberdare National Park
-
 Aberdare National Park protects the Aberdare Range, a mountain massif in central Kenya containing montane forest, moorland, and alpine ecosystems. The park encompasses approximately 77,000 hectares and is known for its mountain forest ecology and [[Wildlife Populations|wildlife]]. The park includes famous lodge facilities at [[The Ark and Treetops Lodges|Treetops]] where [[Queen Elizabeth II]] was when she learned of her accession to the throne. The park represents [[Protected Areas|protected area]] [[Conservation|conservation]] in Kenya's [[Climate Change|climate-vulnerable]] highlands.
 
 ## Geography and Ecology

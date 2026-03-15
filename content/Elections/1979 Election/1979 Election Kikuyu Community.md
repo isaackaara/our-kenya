@@ -1,5 +1,3 @@
-# 1979 Election Kikuyu Community
-
 The Kikuyu community faced a significant political transition in 1979 with the death of Kenyatta and the rise of Daniel arap Moi. Kenyatta had been Kikuyu, and his rule had been understood as reflecting Kikuyu political dominance and Kikuyu economic interests. The shift to Moi's leadership raised questions about how the Kikuyu political establishment would adapt and whether the community would maintain its privileged position in Kenya's political system.
 
 Kikuyu politicians elected in 1979 included sitting MPs who retained their seats and new MPs entering Parliament. The Kikuyu remained substantially represented in Parliament, though the specific composition of Kikuyu representation changed.

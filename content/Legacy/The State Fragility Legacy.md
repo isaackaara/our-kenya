@@ -1,5 +1,3 @@
-# The State Fragility Legacy
-
 Kenya's postcolonial state inherited colonial administrative structures. The colonial state was designed to extract resources and maintain control, not to provide services or build inclusive institutions. The postcolonial state had to transform these institutions for new purposes, but transformation has been incomplete.
 
 The state remains fragile. State institutions are weak. The courts are independent in principle but subject to political pressure in practice. The civil service is large but not always competent or honest. The police force is often corrupt and sometimes violent. The military is relatively professional but has also been used as a tool of political repression.

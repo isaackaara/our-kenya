@@ -1,5 +1,3 @@
-# Kamba Musical Instruments
-
 Kamba musical traditions relied on a distinctive set of instruments that produced the sounds and rhythms central to ceremonial, social, and recreational music. These instruments were handcrafted from natural materials and their mastery required training and skill.
 
 ## The Kivoti End-Blown Flute

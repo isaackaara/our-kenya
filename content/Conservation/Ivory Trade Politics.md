@@ -1,5 +1,3 @@
-# Ivory Trade Politics
-
 The international [[Ivory Ban 1989|ivory trade]] has been contested terrain in global [[Kenya as Global Conservation Model|conservation politics]], with Kenya taking a prominent position in advocacy for trade bans while southern African nations argued for sustainable use and regulated trade. These debates reveal fundamental disagreements about [[Kenya Conservation Overview|conservation philosophy]] and international authority.
 
 ## The CITES Framework

@@ -1,5 +1,3 @@
-# The Invented Identity
-
 One of the most remarkable examples of how colonial-era categorization created genuine ethnic identities is the invention of "Kalenjin." In the 1940s, a British colonial radio broadcaster at the Kenya Broadcasting Corporation (KBC) named John Arap Chemallan needed a single term to refer to a cluster of related Nilotic-speaking highland groups for vernacular radio broadcasts. He chose "Kalenjin," derived from [[Kalenjin|Kalenjin]] word "kalenjok" (meaning "I tell you"), which conveniently worked across the related dialects. What began as a broadcast convenience became, by independence in 1964, a politically unified and militarily mobilized ethnic identity.
 
 ## Key Facts

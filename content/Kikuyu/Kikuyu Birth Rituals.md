@@ -1,5 +1,3 @@
-# Kikuyu Birth Rituals
-
 Birth and the early years of life were marked by a series of rituals that bound the child to the community, to the githaka (clan territory), and to the spiritual order. These rituals structured the child's gradual incorporation into Kikuyu society.
 
 ## Naming Ceremonies

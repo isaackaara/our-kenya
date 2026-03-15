@@ -1,5 +1,3 @@
-# West Pokot Food Security
-
 Food security in [[West Pokot County]] remains precarious and inadequate for substantial portions of the population, with chronic and seasonal food insecurity driven by low agricultural and pastoral productivity in an arid and semi-arid climate, recurrent droughts causing livestock losses and crop failures, poverty limiting purchasing power for food access, and limited livelihood diversification. The county consistently ranks among Kenya's counties with highest levels of food insecurity and malnutrition, with children and pregnant women particularly vulnerable. Efforts to improve food security through agricultural development, irrigation schemes, and social protection programs have had limited impact relative to the scale of need. Understanding West Pokot's food security challenges is essential to understanding poverty, health, nutrition, and overall human welfare in the county.
 
 ## Causes of Food Insecurity

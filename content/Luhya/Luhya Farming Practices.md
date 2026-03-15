@@ -1,5 +1,3 @@
-# Luhya Farming Practices
-
 The Luhya are predominantly farmers, and agriculture has been the economic foundation of Luhya society for centuries. Western Kenya receives reliable rainfall, making it one of the most agriculturally productive regions of Kenya. This favorable environment has supported dense Luhya populations and a sophisticated agricultural system.
 
 ## Staple Crops

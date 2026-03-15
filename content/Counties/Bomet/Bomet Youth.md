@@ -1,5 +1,3 @@
-# Bomet Youth
-
 Youth in Bomet County face challenges accessing employment and establishing livelihoods. Limited land availability and restricted urban opportunities drive migration to other regions in search of economic possibilities.
 
 ## Employment Challenges

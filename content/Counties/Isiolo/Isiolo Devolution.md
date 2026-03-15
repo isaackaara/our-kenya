@@ -1,5 +1,3 @@
-# Isiolo Devolution and County Governance
-
 The 2010 Kenya Constitution established a devolved system transferring significant authority from national government to 47 county governments. Isiolo County Government, created in 2013 following the general election, exercises powers over health, education, agriculture, local infrastructure, and other functions.
 
 County government structure includes a governor (elected chief executive), county assembly (legislators), county cabinet (executives appointed by governor), and county administration (permanent civil service). This structure mirrors national government organisation but operates at county level.

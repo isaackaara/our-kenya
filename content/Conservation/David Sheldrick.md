@@ -1,5 +1,3 @@
-# David Sheldrick
-
 David Sheldrick (1920-1977) was a pioneering [[Wildlife Management|wildlife manager]] and [[Conservationist|conservationist]] who served as Warden of [[Tsavo East National Park]] and established [[Conservation Principles|foundational principles]] for [[Modern Conservation|modern conservation]] in [[East Africa]]. Though his life was cut short by illness, Sheldrick's [[Conservation Philosophy|conservation philosophy]] and practices profoundly influenced [[Wildlife Protection Approaches|wildlife protection approaches]] and were continued through the [[David Sheldrick Wildlife Trust]] established after his death by his wife [[Daphne Sheldrick]].
 
 ## Early Career and Conservation Philosophy

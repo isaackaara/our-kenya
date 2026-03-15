@@ -1,5 +1,3 @@
-# The Moran: Warriors, Icon, and Contradiction
-
 ## The Image the World Sees
 
 The Maasai moran (ilmurran, warrior) is the iconic image that defines the Maasai globally. Red ochre covering the body, intricate braids in the hair, a red shuka (cloth) worn loosely, and a long steel spear in hand. The moran is fierce, fearless, beautiful, and martial.

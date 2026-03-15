@@ -1,5 +1,3 @@
-# Environmental Movements
-
 [[Cross-Ethnic Kenya|Environmental conservation movements]] in Kenya function as [[Civil Society Kenya|cross-ethnic institutions]] mobilizing people around shared environmental concerns. The Green Belt Movement, conservation organizations, and environmental activism bring together Kenyans from all ethnic groups around environmental protection goals. The shared commitment to environmental conservation provides common cause transcending ethnic particularism.
 
 The Green Belt Movement, while founded in Kikuyu-majority territory, expanded to mobilize women and environmental activists from across Kenya. The movement's focus on tree-planting and environmental conservation attracted participants from all ethnic groups united by environmental commitment. The movement's work in different regions involved cooperation with local communities of diverse ethnic identities.

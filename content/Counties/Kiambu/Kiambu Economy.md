@@ -1,5 +1,3 @@
-# Kiambu Economy
-
 Kiambu's economy is built on agricultural production (coffee, tea, horticulture, dairy), manufacturing (textiles, food processing, pharmaceuticals), and increasingly, real estate and services. The county is one of Kenya's richest in terms of per capita income and asset ownership, driven by high-value agricultural exports and industrial production.
 
 Coffee farming is particularly important in Limuru and surrounding high-altitude areas, where volcanic soils and cool temperatures produce premium AA-grade coffee. Kiambu coffee is internationally recognized and commands high prices. Tea estates in Limuru complement coffee production. Horticulture (vegetables, cut flowers) has expanded significantly, providing income for smallholder and commercial farmers. Dairy farming supports milk production for urban markets, with numerous small producers supplying processing facilities.

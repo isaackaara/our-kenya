@@ -1,5 +1,3 @@
-# Barclays to Absa
-
 [[Barclays]] Bank [[Kenya]], one of Kenya's oldest foreign banks, underwent a major rebranding in 2020 when its British parent (Barclays PLC) divested its African operations to South African financial services company [[Absa]] Group. The transaction marked a symbolic shift in [[Banking History Kenya|Kenya's financial landscape]]: from British to [[South African]] ownership in a pattern reflecting broader geopolitical and economic changes.
 
 ## Barclays Era (1912-2020)

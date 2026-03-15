@@ -1,5 +1,3 @@
-# Independence 1963
-
 Kenya achieved independence, *uhuru*, on 12 December 1963, ending 68 years of British colonial rule that began with the establishment of the East Africa Protectorate in 1895. For the Kikuyu people, independence was the culmination of a half-century of organised resistance: from [[Harry Thuku]]'s 1922 protests to the [[Kikuyu Central Association]]'s political campaigns to the armed struggle of the [[Mau Mau Uprising]]. [[Jomo Kenyatta]], who had spent nine years in British detention, became Kenya's first Prime Minister. One year later, on 12 December 1964, Kenya became a republic and Kenyatta became its first President.
 
 ## Key Facts

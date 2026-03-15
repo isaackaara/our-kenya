@@ -1,5 +1,3 @@
-# Trans-Nzoia Food Security
-
 Trans-Nzoia County plays a critical role in Kenya's overall food security as the nation's largest agricultural producer. The county's maize and wheat production contribute substantially to national grain supplies. Good rainfall patterns and fertile soils generally support consistent production of food crops. Surplus production beyond household consumption is marketed to other regions, contributing to national food supply. The county experiences lower food insecurity compared to pastoral and arid regions. Household food security varies with farm size, production success, and income generation from agricultural activities.
 
 ## Production Capacity and Market Linkages

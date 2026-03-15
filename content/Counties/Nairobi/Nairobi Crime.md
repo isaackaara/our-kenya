@@ -1,5 +1,3 @@
-# Crime in Nairobi: Insecurity and Criminal Activity
-
 Nairobi faces significant crime challenges, ranging from street-level theft and mugging to organized crime, carjacking, and gang violence. Crime is a major concern for residents and a deterrent to investment and tourism.
 
 ## Street Crime

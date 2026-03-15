@@ -1,5 +1,3 @@
-# 1974 Election Opposition
-
 In a one-party system, formal opposition political parties did not exist in 1974. The opposition, to whatever extent it existed, was expressed within KANU itself. This internal opposition took the form of candidates challenging sitting politicians in KANU primary contests, of factions within the party competing for influence, and of individuals voicing dissent within the party structure. The question of how opposition could be expressed and maintained within a one-party system was an ongoing feature of Kenyan politics in this period.
 
 The competitive KANU primary of 1974 was the arena in which opposition and dissent could be expressed. Candidates seeking to oust sitting MPs could campaign on criticisms of the sitting MP's record, on promises to do better, and on alternative visions for constituency development. In this sense, primary competition created space for opposition within the party. Primary campaigns sometimes featured sharp criticism of sitting politicians, and voters could choose to remove sitting MPs whom they believed had not served them well.

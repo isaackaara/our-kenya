@@ -1,5 +1,3 @@
-# The NGO Economy
-
 The NGO sector in Kenya is not just a collection of organizations delivering services. It is an economy. Tens of thousands of Kenyans are employed by NGOs. International NGOs bring foreign currency. The NGO sector is a significant part of Kenya's employment and revenue structure.
 
 The existence of a large NGO sector reflects both Kenya's development needs and Kenya's limited state capacity. Many services that should be provided by the state are provided by NGOs instead. Healthcare, education, water, sanitation, all have significant NGO involvement.

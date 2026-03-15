@@ -1,5 +1,3 @@
-# Lake Victoria Kenya
-
 Lake Victoria, the world's second-largest freshwater lake, is shared by Kenya, Uganda, and Tanzania, with Kenya controlling approximately 30 percent of the lake surface. Lake Victoria supports major fisheries providing food security and livelihood for millions of people around the lake. However, the lake has undergone dramatic ecological changes from [[Nile Perch and Lake Victoria|invasive species]] introductions and environmental degradation that have disrupted fisheries and [[Kenya Conservation Overview|ecosystem]] function.
 
 ## Lake Victoria Geography and Ecology

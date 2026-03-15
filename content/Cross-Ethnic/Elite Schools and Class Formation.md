@@ -1,5 +1,3 @@
-# Elite Schools and Class Formation
-
 Kenya's top national schools, including Alliance High School, Starehe Boys' Centre, Nairobi School, Kenya High School, and Limuru Girls' School, serve as crucibles of [[Cross-Ethnic Kenya|cross-ethnic identity formation]]. These institutions bring together students from across Kenya, predominantly from affluent or academically talented backgrounds. The school experience creates distinctive bonds that frequently supersede ethnic identity.
 
 The national school system itself reflects post-independence ideology. Kenya's top schools are designated as "national schools," meaning they admit students from across the country rather than serving localized ethnic communities. The admission process emphasizes academic merit, though family connections and ability to pay fees also play roles. The result is that classmates come from diverse ethnic and geographic origins.

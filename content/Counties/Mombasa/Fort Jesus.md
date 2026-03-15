@@ -1,5 +1,3 @@
-# Fort Jesus: Portuguese Fortress and UNESCO World Heritage Site
-
 Fort Jesus is one of the most significant historical structures in East Africa. Built by the Portuguese in 1593, it served as a military stronghold and symbol of Portuguese power in the Indian Ocean. Today it is a UNESCO World Heritage Site and one of Kenya's major historical museums.
 
 ## Portuguese Construction (1593)

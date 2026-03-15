@@ -1,5 +1,3 @@
-# Luo Language Deep Dive
-
 Dholuo (the Luo language) represents a Western Nilotic language with approximately 3-4 million native speakers concentrated in Kenya's Nyanza region and significant diaspora communities. The language serves as marker of ethnic identity, vehicle for cultural transmission, and increasingly contested terrain in the face of urbanization and globalization.
 
 ## Linguistic Classification and Relationships

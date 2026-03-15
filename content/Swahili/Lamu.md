@@ -1,5 +1,3 @@
-# Lamu
-
 Lamu stands as the oldest continuously inhabited [[Swahili]] settlement in Kenya and one of the best-preserved examples of traditional [[Swahili Architecture|Swahili urban architecture]]. The Lamu Old Town was designated a UNESCO World Heritage Site in 2001, recognizing its outstanding universal value as a [[Swahili Identity|Swahili cultural landscape]].
 
 ## Early History

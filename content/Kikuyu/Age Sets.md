@@ -1,5 +1,3 @@
-# Age Sets
-
 The *mariika* (age set) system, singular *riika*, was the horizontal binding force of Kikuyu society, cutting across clan lines and creating bonds of loyalty that organised military service, civic duty, and social identity throughout a person's life. Where [[The Nine Clans]] provided vertical lineage identity, the *riika* provided horizontal peer solidarity. Together they created an interlocking social structure that was decentralised yet coherent.
 
 ## Key Facts

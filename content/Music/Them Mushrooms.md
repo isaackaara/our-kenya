@@ -1,5 +1,3 @@
-# Them Mushrooms
-
 Them Mushrooms brought Kenya's coastal sound to national and international prominence, creating distinctly Kenyan beach music that achieved commercial success while maintaining authentic connection to Swahili coast's musical traditions. The band's fifty-plus year career, from formation in 1969 through the 2000s and beyond, made them one of Kenya's most enduring musical institutions.
 
 Founded in Mombasa in 1969 as "Avenida Success" by the Harrison brothers (Teddy Kalanda, Billy Sarro, George Zirro, John Katana, and Pius Plato Chitianda "Jibaba"), the group rebranded in 1972 as Them Mushrooms. The name evoked mystical magic mushrooms of Africa's rainforests, signaling psychedelic and experimental ambitions unusual for East African popular music.

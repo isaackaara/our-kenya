@@ -1,5 +1,3 @@
-# Kamba and Independent Churches
-
 The Kamba people developed a distinctive relationship with Christian churches in Kenya, establishing and maintaining autonomous African-initiated churches that reflected their theological autonomy and cultural integration of faith. This history diverges significantly from churches imposed by foreign missionaries and reveals Kamba agency in religious life.
 
 ## The Africa Inland Mission and Schism

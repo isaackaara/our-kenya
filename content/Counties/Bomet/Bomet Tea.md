@@ -1,5 +1,3 @@
-# Bomet Tea
-
 Tea is the dominant cash crop in Bomet County, forming the economic foundation for farming households and the regional economy. Tea production operates through KTDA factory networks connecting smallholder farmers to regional and international markets.
 
 ## Production Scale

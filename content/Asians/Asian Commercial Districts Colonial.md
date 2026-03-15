@@ -1,5 +1,3 @@
-# Asian Commercial Districts Colonial
-
 By the early twentieth century, distinct [[Asian Kenyans|Asian]] commercial districts had emerged in the major towns of colonial [[Kenya]]. [[Nairobi]], [[Mombasa]], [[Kisumu]], and [[Nakuru]] all developed areas where [[Indian]] traders concentrated their businesses, residences, and community institutions. These districts became economic engines and centers of [[Indian]] community life, though they also became targets of resentment and later subject to colonial segregation policies.
 
 ## Nairobi's Bazaar District

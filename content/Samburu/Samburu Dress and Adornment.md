@@ -1,5 +1,3 @@
-# Samburu Dress and Adornment
-
 [[Samburu]] dress and body adornment represent distinctive cultural practice and visual identity markers. Traditional dress (shuka cloth), ochre body decoration, and [[Samburu Beadwork|beadwork]] create striking appearance that visually identifies [[Samburu]] ethnicity. Contemporary dress practices blend traditional elements with modern clothing among urban and younger [[Samburu]].
 
 ## Traditional Cloth (Shuka)

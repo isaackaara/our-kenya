@@ -1,5 +1,3 @@
-# Taita Identity Today
-
 In 2026, Taita identity remains important for many members of the community while being increasingly subject to influence from urbanization, education, and national integration. The meaning of being Taita continues to evolve while maintaining connections to historical traditions.
 
 ## Urban versus Rural Identity

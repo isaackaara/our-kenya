@@ -1,5 +1,3 @@
-# Meru Coffee
-
 Meru County produces high-altitude Arabica coffee renowned for its quality and distinct flavor characteristics. Coffee cultivation covers much of the mid-altitude zone (1,500 to 2,000 meters), where elevation and climate combine to create favorable growing conditions. Meru coffee competes with coffee from other Kenyan highland regions, including Nyeri and Murang'a, as among the finest Arabica varieties globally.
 
 ## Growing Regions

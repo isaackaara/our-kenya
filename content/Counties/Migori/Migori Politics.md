@@ -1,5 +1,3 @@
-# Migori Politics
-
 Migori County's politics reflect the region's Luo dominance and broader western Kenya opposition political traditions. The county participates actively in Kenya's competitive political system while experiencing local governance challenges.
 
 ## Political Participation

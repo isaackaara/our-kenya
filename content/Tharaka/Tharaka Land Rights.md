@@ -1,5 +1,3 @@
-# Tharaka [[Tharaka Land]] Rights
-
 Land [[Tharaka Social Structure]] in Tharaka territory has been transformed over time. Contemporary land rights issues involve questions about individual versus communal tenure, land access for youth, historical land disputes, and encroachment concerns.
 
 ## Traditional Land Tenure

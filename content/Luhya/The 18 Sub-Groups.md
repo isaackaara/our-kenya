@@ -1,5 +1,3 @@
-# The 18 Sub-Groups
-
 The Luhya confederation comprises 18 distinct sub-groups (sometimes counted as 16 or 17 depending on classification criteria). Each sub-group maintains its own historical traditions, ritual practices, territorial base, and sense of identity. While all speak related Bantu languages and share broad cultural features, the sub-groups are not uniformly integrated into a single "Luhya" consciousness in the way that Kikuyu maintain a strong unified identity. This confederation structure creates both strength (numerical size, regional dominance) and fragmentation (lack of unified political voice, difficulty coordinating action).
 
 ## The 18 Sub-Groups (by region and population)

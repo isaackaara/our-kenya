@@ -1,5 +1,3 @@
-# Mombasa and Climate Change: Sea Level Rise and Environmental Threats
-
 Mombasa, located at sea level on the Indian Ocean coast, faces particular vulnerability to climate change impacts including sea level rise, changing rainfall patterns, coral bleaching, and extreme weather events.
 
 ## Sea Level Rise

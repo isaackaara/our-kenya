@@ -1,5 +1,3 @@
-# 2007 Election ICC Cases
-
 The International Criminal Court opened investigations into the post-election violence, eventually opening cases against prominent political figures including [[Uhuru Kenyatta]] and [[William Ruto]]. The ICC Prosecutor alleged that these figures had orchestrated post-election violence to advance their political interests. The cases marked the first time the ICC had engaged with Kenya's politics. However, the cases eventually collapsed or were withdrawn due to insufficient evidence, witness tampering allegations, and political obstacles to prosecution. Nonetheless, the ICC engagement marked significant international accountability pressure and established precedent for potential future accountability for mass violence in Kenya.
 
 ## See Also

@@ -1,5 +1,3 @@
-# 1983 Election KANU Purge
-
 The 1983 election functioned as a deliberate purge of KANU of politicians suspected of disloyalty or of involvement in or sympathy with the 1982 coup attempt. Moi used the election machinery to remove sitting MPs and to prevent suspected dissidents from entering Parliament.
 
 The government exercised explicit control over KANU primary contests in 1983, more visibly than in previous elections. In many constituencies, government officials actively supported particular candidates and worked to ensure their victory. Candidates who were seen as insufficiently loyal to Moi faced difficulties in winning primary contests, even if they had strong constituency support.

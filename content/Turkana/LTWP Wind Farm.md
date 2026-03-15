@@ -1,5 +1,3 @@
-# LTWP Wind Farm
-
 The [[Lake Turkana]] Wind Power (LTWP) project at Loiyangalani in northwestern Turkana County is Kenya's largest [[LTWP Wind Farm]] and among Africa's largest wind power projects. The facility generates renewable electricity and supplies power to Kenya's national grid, contributing to Kenya's renewable energy goals and providing clean energy for Kenyan electricity consumers.
 
 ## Project Overview and Specifications

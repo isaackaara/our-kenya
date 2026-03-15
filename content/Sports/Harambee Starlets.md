@@ -1,5 +1,3 @@
-# Harambee Starlets: Kenya's Women's Football Team
-
 Harambee Starlets represent Kenya's national women's football team. The team has competed in Africa Cup of Nations tournaments and African Women's Championship qualifiers. Women's football in Kenya has grown from minimal investment and support to developing competitive programs, though the women's team remains less prominent than the men's team.
 
 ## See Also

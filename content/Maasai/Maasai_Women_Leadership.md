@@ -1,5 +1,3 @@
-# Maasai Women Leadership
-
 Maasai women occupy a complex social position: marginalized within patriarchal pastoral structures yet essential to household and community survival, and increasingly asserting leadership in community organizations, business, and advocacy. Contemporary Maasai women leadership represents both continuity with women's historical economic roles and rupture with traditional gender hierarchies.
 
 ## Traditional Maasai Gender Roles

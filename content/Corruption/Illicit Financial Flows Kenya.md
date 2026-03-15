@@ -1,5 +1,3 @@
-# Illicit Financial Flows Kenya
-
 ## Overview
 
 Illicit financial flows (IFFs) are transfers of money that are illegally earned, illegally transferred, or illegally used. Kenya loses an estimated USD 1-2 billion annually to illicit financial flows. These flows represent stolen government resources, proceeds of crime, and tax evasion transferred to foreign jurisdictions where they generate wealth for perpetrators while depriving Kenya of resources.

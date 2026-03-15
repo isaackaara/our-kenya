@@ -1,5 +1,3 @@
-# Export Processing Zones
-
 [[Kenya]]'s export processing zones (EPZs) are geographic areas with special regulatory status designed to attract manufacturing and export-oriented businesses. They reflect [[Post-Independence Economic Policy|development strategy]] focused on industrial growth and export revenue generation.
 
 ## See Also

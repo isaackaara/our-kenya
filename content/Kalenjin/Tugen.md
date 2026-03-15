@@ -1,5 +1,3 @@
-# Tugen
-
 The Tugen are a Kalenjin sub-group primarily inhabiting [[../Counties/Baringo/Baringo County|Baringo County]] in Kenya's Great Rift Valley, with smaller populations in Nakuru and Elgeyo Marakwet counties. Historically a smaller sub-group, numbering approximately 200,000 people, [[Kalenjin|Kalenjin]] achieved disproportionate political prominence through [[Daniel arap Moi|Daniel arap Moi]]'s presidency (1978,2002), when state patronage flowed to their region.
 
 ## Geography and Terrain

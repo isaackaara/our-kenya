@@ -1,5 +1,3 @@
-# Moyale Town and Border Trade
-
 Moyale is a significant town on the Kenya-Ethiopia border, straddling the international boundary in Marsabit County. The town serves as the primary commercial and administrative centre for trans-border trade and interaction between Kenya and Ethiopia.
 
 The town's location at the border makes it a crucial trade hub. Goods flow in both directions: Kenyan agricultural products, manufactured goods, and livestock move northward to Ethiopia. Ethiopian goods, particularly teff grain, coffee, and manufactured items flow southward to Kenya. Cross-border trade provides substantial income and employment.

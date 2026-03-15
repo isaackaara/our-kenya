@@ -1,5 +1,3 @@
-# Kenyan Asian Literature
-
 Several writers of South Asian descent have written about the Asian experience in East Africa, exploring themes of migration, belonging, identity, and displacement. Their works provide literary perspectives on the Asian experience and contribute to regional literature.
 
 ## M.G. Vassanji and the East African Asian Novel

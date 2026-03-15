@@ -1,5 +1,3 @@
-# Meru Town
-
 [[Meru town]] is the [[county seat]] and [[largest urban center]] in [[Meru County]], located at approximately 1500 meters altitude in the central [[Imenti]] region. The town serves as an [[administrative, commercial, and cultural hub]] for the county and the broader Meru region.
 
 ## Size and Urban Growth

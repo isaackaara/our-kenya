@@ -1,5 +1,3 @@
-# Corporate Kenya
-
 The economic and corporate history of [[Kenya]] is the story of extraction, adaptation, and entrepreneurship. From [[Colonial Economy|colonial commodity chains]] built to feed the British empire, to [[Post-Independence Economic Policy|post-independence state capitalism]] and [[Parastatals Kenya|parastatal dominance]], to today's private-sector-led model, Kenya's corporate sector reflects the deep structures of power, family, and capital accumulation that have shaped the nation.
 
 This vertical maps [[Kenya]]'s corporate landscape across [[Banking History Kenya|banking]], [[Telecoms History Kenya|telecommunications]], [[Kenya Agricultural History|agriculture]], [[Manufacturing History Kenya|manufacturing]], [[Silicon Savannah|technology]], [[Insurance History Kenya|insurance]], and [[Mombasa Port History|trade]]. It examines the companies, families, and regulatory frameworks that have defined Kenyan business.

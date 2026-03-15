@@ -1,5 +1,3 @@
-# Kisii Pyrethrum
-
 Pyrethrum farming has historically been important in [[Kisii County.md|Kisii County's]] agricultural economy, though production has declined from its peak in previous decades. Pyrethrum is a flowering plant whose dried flowers contain natural insecticide compounds.
 
 ## Historical Importance

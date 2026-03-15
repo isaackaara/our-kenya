@@ -1,5 +1,3 @@
-# Robert Ouko Murder 1990: A Foreign Minister's Death and Official Obstruction
-
 ## Robert Ouko: Prominent Minister
 
 Robert Ouko was Kenya's Minister of Foreign Affairs during Daniel arap Moi's presidency. Ouko was one of the most senior government officials and represented Kenya at international forums.

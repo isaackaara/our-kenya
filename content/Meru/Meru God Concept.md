@@ -1,5 +1,3 @@
-# Meru God Concept
-
 The [[Meru people|Meru]] supreme being is known as Murungu, a term that means both "God" and "spirit" in [[Kimeru language|Kimeru]] and other Bantu languages. The Meru concept of divinity evolved from precolonial religious thought and adapted through contact with [[Christianity]].
 
 ## Murungu: Supreme Being and Divine Spirit

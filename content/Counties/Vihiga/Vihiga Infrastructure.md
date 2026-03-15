@@ -1,5 +1,3 @@
-# Vihiga Infrastructure
-
 Vihiga County's infrastructure includes road networks, utilities, and communication systems supporting economic activity and service delivery in a small, densely populated area. Infrastructure development has been constrained by limited county resources and small geographic area. Connectivity to neighbouring areas remains important for market access and service availability.
 
 ## Road Network

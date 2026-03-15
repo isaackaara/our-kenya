@@ -1,5 +1,3 @@
-# Kisii Land Pressure
-
 The extremely high population density in [[Kisii County.md|Kisii County]] creates intense land pressure and systematic subdivision of family farms. This phenomenon has profound implications for agricultural productivity, family structure, and economic sustainability.
 
 ## Land Fragmentation

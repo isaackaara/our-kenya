@@ -1,5 +1,3 @@
-# Kirinyaga Kikuyu Heritage
-
 Kirinyaga County is the heartland of the Kikuyu people and their cultural traditions. The Kikuyu form the overwhelming majority of the population and have shaped the county's development, agricultural practices, and governance structures. The county's landscape holds deep cultural and spiritual significance within Kikuyu cosmology, particularly Mount Kenya (Kirinyaga in Kikuyu), which represents the sacred home of the Creator.
 
 ## Cultural Significance

@@ -1,5 +1,3 @@
-# 1979 Election Long-Term Impact
-
 The 1979 election was significant for establishing Moi's political legitimacy and for demonstrating that the transition from Kenyatta had occurred smoothly. The election provided a mandate for Moi's government and allowed him to consolidate his authority within the state and within KANU.
 
 The competitive KANU primary system that had been used in the 1974 election continued in 1979. However, the extent of government control over primary outcomes appeared to increase in 1979 compared to 1974. This pattern would intensify in subsequent elections as Moi consolidated personal power.

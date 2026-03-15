@@ -1,5 +1,3 @@
-# Iten Training Camp
-
 Iten is a town in Elgeyo Marakwet County, Kenya, recognized globally as one of the world's premier altitude training hubs for distance runners. Located at approximately 2,400 meters above sea level on the western escarpment of the Rift Valley, the town attracts elite and recreational runners from across the world seeking to maximize aerobic performance through high-altitude adaptation.
 
 ## Global Recognition and World Athletics Status

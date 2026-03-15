@@ -1,5 +1,3 @@
-# Kalenjin Timeline
-
 A chronological reference of key dates in Kalenjin history from pre-colonial origins through 2026.
 
 ## Pre-Colonial Period (ca. 500 CE - 1890s)

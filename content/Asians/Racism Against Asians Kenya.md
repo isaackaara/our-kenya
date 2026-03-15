@@ -1,5 +1,3 @@
-# Racism Against Asians Kenya
-
 Asian Kenyans face specific forms of racism and discrimination rooted in Kenya's colonial and post-colonial history. Ethnic slurs such as "mhindi" (derogatory term for Indians), political rhetoric blaming Asians for Kenya's economic problems, and occasionally physical attacks during election violence demonstrate that Asian Kenyans experience [[racism]] as an ongoing reality. This racism, while perhaps less extreme than in some contexts, represents a significant barrier to full acceptance and belonging.
 
 ## The "Mhindi" Slur and Ethnic Language

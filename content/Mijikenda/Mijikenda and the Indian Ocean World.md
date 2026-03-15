@@ -1,5 +1,3 @@
-# Mijikenda and the Indian Ocean World
-
 The [[Mijikenda]] coastal location positioned them within broader [[Indian Ocean World|Indian Ocean]] trade networks and cultural systems. While less central to these networks than [[Swahili]] coastal merchants, Mjikenda were affected by and participated in Indian Ocean commerce, influenced by Indian Ocean cultural patterns, and connected to peoples across the ocean.
 
 ## Indian Ocean Trade Networks

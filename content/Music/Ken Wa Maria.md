@@ -1,5 +1,3 @@
-# Ken Wa Maria
-
 Ken Wa Maria emerged as one of contemporary Kikuyu music's most important figures in the 1990s and 2000s, building on [[Music/Mugithi Music Origins|mugithi traditions]] while pushing the genre toward new artistic territory. His career represents the generation of artists who inherited mugithi's foundations from pioneers like [[Music/Joseph Kamaru|Joseph Kamaru]] and transformed it for modern audiences.
 
 Unlike earlier [[Music/Mugithi Music Origins|mugithi]] performers who often relied on raw, unpolished recordings, Ken Wa Maria invested in professional production values. His music featured sophisticated arrangements that maintained mugithi's essential accordion-and-guitar core while incorporating keyboards, synthesizers, and modern recording techniques. This approach attracted younger listeners who might have dismissed traditional mugithi as outdated while satisfying older fans who valued authentic Kikuyu musical expression.

@@ -1,5 +1,3 @@
-# Moses Mudavadi
-
 Moses Mudavadi served as Vice President of Kenya under President Daniel arap Moi from 1988 to 1991, making him one of the few Luhya leaders to hold one of Kenya's highest offices. His political career and style significantly influenced his son, Musalia Mudavadi, who inherited his Sabatia parliamentary seat and built on his father's political legacy.
 
 ## Life and Career

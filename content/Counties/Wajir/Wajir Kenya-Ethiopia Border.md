@@ -1,5 +1,3 @@
-# Wajir Kenya-Ethiopia Border
-
 The Kenya-Ethiopia border runs through portions of northwestern Wajir County, creating geopolitical dynamics shaped by colonial demarcation and contemporary cross-border relationships. The border separates pastoral communities who maintain traditional connections across the boundary. Border dynamics involve trade relationships, security concerns, and pastoral resource access issues.
 
 ## Border History

@@ -1,5 +1,3 @@
-# Busia Education
-
 Education infrastructure in Busia County includes primary schools, secondary schools, and some tertiary institutions. Primary education is compulsory under Kenyan law, with schools distributed across locations. Enrollment rates in primary education are relatively high. Secondary schools in Busia town and trading centers serve regional and local populations. National secondary schools attract high-achieving students from across Kenya. Private schools provide alternative education for families seeking fee-paying options. Technical and vocational training institutes offer practical skills training. Teacher recruitment and retention challenges affect teaching quality. School infrastructure varies, with urban schools better equipped than rural facilities. Literacy rates in the county exceed national average in some areas.
 
 ## Educational Institutions and Programs

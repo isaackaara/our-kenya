@@ -1,5 +1,3 @@
-# West Pokot Cultural Heritage
-
 West Pokot County has rich cultural heritage rooted in Pokot pastoral traditions. Pokot age-set systems structure social roles and cultural practices across the lifespan. Warrior (Il Cheron) traditions emphasized martial skills and livestock protection roles. Circumcision ceremonies mark important life transitions for young men and women. Traditional music and dance are central to Pokot cultural expression and community celebrations. Beekeeping represents traditional resource utilization and cultural knowledge. Oral history traditions preserve community memory and cultural values. Traditional leadership through councils of elders and clan structures continues in modified forms. Pokot language preservation efforts attempt to maintain linguistic heritage. Religious traditions include both traditional practices and Christian and Muslim faiths.
 
 ## Traditional Practices and Ceremonies

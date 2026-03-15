@@ -1,5 +1,3 @@
-# Kalenjin Hunting and Wildlife Traditions
-
 ## Overview
 
 Hunting held deep significance in Kalenjin society, operating simultaneously as subsistence activity, training ground for warriors, cultural practice, and relationship with the natural world. While primarily pastoralists, Kalenjin men maintained hunting traditions that reflected ecological knowledge, courage, and connection to ancestral lands. Game provided meat, hides, and materials for tools and ornamentation, while the hunt itself served as initiation and testing ground for young warriors.

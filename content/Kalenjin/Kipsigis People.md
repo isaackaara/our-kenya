@@ -1,5 +1,3 @@
-# Kipsigis People
-
 The Kipsigis are the largest and most populous sub-group of the Kalenjin, comprising approximately 30 percent of the broader Kalenjin community with a population exceeding 1.9 million as of 2019 census data. They occupy the fertile highlands of western Kenya and have become central to the nation's tea industry, while maintaining distinctive cultural practices and a strong sense of community identity.
 
 ## Territory

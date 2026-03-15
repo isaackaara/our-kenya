@@ -1,5 +1,3 @@
-# 2007 Election Diaspora
-
 Kenyans abroad, including diaspora communities in Europe, North America, and the Middle East, mobilized around the 2007 election in ways that differed from their roles in previous elections. Diaspora money flows to support both PNU and ODM campaigns increased. Social media, then emerging as a communication tool, allowed diaspora Kenyans to amplify opposition narratives and to pressure international governments for intervention. The diaspora's role demonstrated how globalized Kenya had become and how events in Kenya resonated within diaspora communities with deep continuing ties to home.
 
 ## See Also

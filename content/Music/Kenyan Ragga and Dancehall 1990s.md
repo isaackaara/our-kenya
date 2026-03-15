@@ -1,5 +1,3 @@
-# Kenyan Ragga and Dancehall 1990s
-
 Jamaican ragga and dancehall music achieved significant influence in Kenya during the 1990s, providing global musical connection for urban youth while establishing sonic and cultural templates that would shape Kenya's urban music development. The genre's rebellious energy, party aesthetics, and linguistic playfulness resonated with young Kenyans seeking alternatives to parent-generation music or American hip-hop dominance.
 
 Ragga (raggamuffin) and dancehall emerged from Jamaica in the 1980s as digital evolution of reggae, featuring electronic production, rapid-fire DJ vocals, and explicit content that shocked conservative sensibilities. Artists like Shabba Ranks, Buju Banton, Beenie Man, and Bounty Killer brought the sound to international prominence in the early 1990s, reaching Kenyan audiences through cassette imports and [[Music/FM Radio Revolution Kenya 1990s|FM radio]].

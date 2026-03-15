@@ -1,5 +1,3 @@
-# Northern Kenya Development Gap
-
 [[Northern Kenya Development Gap|Northern Kenya]] (particularly [[Garissa County]], [[Wajir County]], and [[Mandera County]]) represents Kenya's most underdeveloped region, with literacy rates, infrastructure, healthcare, and income far below national averages. This development gap reflects colonial-era neglect, post-independence marginalization, [[Kenyan Somali and Security State|insecurity]], and [[Pastoralism and Climate Change|climate]] vulnerability. Devolution since 2013 has increased county-level development responsibility but has not closed the gap.
 
 ## Comparative Indicators

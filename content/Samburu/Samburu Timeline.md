@@ -1,5 +1,3 @@
-# Samburu Timeline
-
 Major events in [[Samburu]] history from pre-colonial times through 2026. Dates reflect [[Samburu]] experiences, colonial administration, independence, and contemporary governance development.
 
 ## Pre-Colonial Era (to 1895)

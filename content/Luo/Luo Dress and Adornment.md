@@ -1,5 +1,3 @@
-# Luo Dress and Adornment
-
 Pre-colonial Luo dress centred on animal skins and beads. The *ogol* headpiece marked status. Beadwork, less elaborate than Maasai traditions, adorned bodies and signalled identity. White mourning wear at funerals distinguished grief states. Contemporary fashion reflects Luo identity in complex ways, with traditional dress appearing at ceremonies while Western clothing dominates daily life.
 
 ## Pre-Colonial Dress

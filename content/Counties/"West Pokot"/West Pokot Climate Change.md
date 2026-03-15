@@ -1,5 +1,3 @@
-# West Pokot Climate Change
-
 Climate change poses acute risks to West Pokot County's pastoral livelihood sustainability. Mean temperatures are gradually increasing across the county, affecting water availability and vegetation. Rainfall patterns are becoming increasingly erratic, with delayed onset and early cessation of seasonal rains. Precipitation intensity has changed, affecting infiltration and water availability. Drought frequency and severity are increasing, with multi-year droughts becoming more common. Water sources are drying up more frequently and remaining dry longer. Highland areas are becoming warmer, potentially affecting temperature-sensitive crops. Vegetation patterns are shifting, with potential changes in pastoral carrying capacity. Livestock heat stress affects animal productivity and mortality.
 
 ## Pastoral Production Impacts

@@ -1,5 +1,3 @@
-# Kisii Cultural Heritage
-
 The [[Gusii People Kisii.md|Gusii]] people possess a rich cultural heritage encompassing distinctive practices in initiation rituals, marriage customs, musical traditions, and social organization. These cultural practices continue to shape identity and community life in contemporary [[Kisii County.md|Kisii County]].
 
 ## Initiation Practices

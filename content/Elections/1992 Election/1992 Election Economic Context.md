@@ -1,5 +1,3 @@
-# 1992 Election Economic Context
-
 Kenya's economic situation in 1992 provided important context for the pro-democracy movement and for the government's eventual concession of multiparty elections. The Kenyan economy had stagnated through much of the 1980s and early 1990s, with economic growth rates declining from the 5-6% average of the 1960s and 1970s to near zero percent growth or negative growth in some years. The stagnation had created widespread unemployment, underemployment, and declining living standards, particularly for young Kenyans and for urban workers.
 
 Corruption under Moi's regime had reached unprecedented levels, with government officials and members of the ruling elite engaging in large-scale theft of public resources. Government projects were systematically diverted toward private enrichment, and development resources were distributed through patronage networks rather than on the basis of need or merit. The pervasiveness of corruption created deep public resentment and contributed to the demand for political change.

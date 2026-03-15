@@ -1,5 +1,3 @@
-# 1992 Election International Observers
-
 International observers from multiple countries and organizations monitored the 1992 Kenya election, marking the return of international scrutiny after 23 years of single-party rule when international observation had been either absent or perfunctory. The international observer missions documented extensive irregularities and concerns about fairness, but ultimately accepted the election as having sufficient legitimacy to represent Kenya's transition to multiparty democracy.
 
 The International Republican Institute (IRI), a US-based organization, deployed one of the most extensive observer missions. The IRI observers documented irregularities including ballot stuffing, voter intimidation, and security force interference in campaign activities. The IRI's report raised concerns about the election's fairness and about the government's deployment of state resources and security force power to advantage KANU.

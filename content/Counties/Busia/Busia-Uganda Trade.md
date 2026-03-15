@@ -1,5 +1,3 @@
-# Busia-Uganda Trade
-
 Cross-border trade between Kenya and Uganda flows primarily through Busia border crossing, making trade a central economic activity. Formal trade is regulated through customs authorities (Kenya Revenue Authority and Uganda Revenue Authority). Substantial informal trade complements formal channels, with goods moving outside official documentation. Bilateral trade agreements govern product movement and tariff rates. Regional trade integration (East African Community) influences trade patterns and preferences. Import and export flows reflect comparative advantages and consumer preferences. Trade creates employment for traders, transporters, customs brokers, and service providers. Border trade generates government revenue through customs duties and taxes. Trade stimulates development of border infrastructure and services. Economic interdependence from trade creates mutual interest in stable relations.
 
 ## Trade Patterns and Products

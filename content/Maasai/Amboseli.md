@@ -1,5 +1,3 @@
-# [[../Conservation/Amboseli National Park|Amboseli National Park]]: Elephants, Maasai Land, and Long-Term Research
-
 ## Amboseli National Park and Mount Kilimanjaro
 
 Amboseli National Park (392 km2) is located in [[../Counties/Kajiado/Kajiado County|Kajiado County]], in the shadow of Mount Kilimanjaro. The park is famous for large elephant herds and for the dramatic backdrop of Kilimanjaro(visible across the Tanzania border).

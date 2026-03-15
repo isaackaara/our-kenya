@@ -1,5 +1,3 @@
-# Hindu Community Colonial Kenya
-
 The Hindu community formed the largest religious group among South Asians in colonial Kenya, encompassing various castes and regional groups from India. Gujarati Hindus, particularly from trading castes such as the Banias, dominated the commercial sphere, while Punjabi Hindus and others contributed to the broader Hindu presence. The community established temples (mandirs), maintained religious observances, and developed distinct social and business networks that reinforced their economic position.
 
 ## Gujarati Hindu Dominance

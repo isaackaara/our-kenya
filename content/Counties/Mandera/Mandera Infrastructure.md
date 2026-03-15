@@ -1,5 +1,3 @@
-# Mandera Infrastructure
-
 Infrastructure development in Mandera County is limited compared to other Kenyan regions, with inadequate road networks, limited electricity provision, minimal water supply systems, and weak telecommunications coverage. These infrastructure deficits are both a result of historical colonial neglect and a continuing constraint on economic development and service delivery in one of Kenya's most remote counties.
 
 ## Road Infrastructure

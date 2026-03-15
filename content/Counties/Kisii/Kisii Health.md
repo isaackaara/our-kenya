@@ -1,5 +1,3 @@
-# Kisii Health
-
 Healthcare in [[Kisii County.md|Kisii County]] is delivered through a network of public and private facilities, with Kisii Teaching and Referral Hospital serving as the county's main health facility. Health outcomes reflect the county's economic development and access to healthcare services.
 
 ## Kisii Teaching and Referral Hospital

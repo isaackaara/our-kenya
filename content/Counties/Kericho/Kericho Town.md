@@ -1,5 +1,3 @@
-# Kericho Town
-
 Kericho Town serves as the county headquarters and principal urban centre for Kericho County. Located at approximately 2,000 metres elevation in the western Rift Valley highlands, the town has grown to become a major commercial and administrative hub for the region's tea industry. The town's economy is dominated by tea trading, processing facilities, and related service industries that support the thousands of tea estates surrounding it.
 
 The town centre features colonial architecture alongside modern commercial developments, with the distinctive Kericho Green Hotel serving as a landmark institution. Kericho's cool, wet climate makes it an attractive destination for both business and tourism, drawing visitors interested in tea estates and highland scenery. The town's infrastructure has expanded significantly since devolution in 2013, with improved water systems, electricity access, and road networks.

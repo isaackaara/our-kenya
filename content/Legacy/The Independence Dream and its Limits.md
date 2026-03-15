@@ -1,5 +1,3 @@
-# The Independence Dream and its Limits
-
 Kenyans fought for independence with promises of harambee (pulling together), of land redistribution, of freedom and self-determination. The dream was visceral: Africans would own their own country, Kenyans would no longer be subjects of a distant king, land stolen by colonialism would be returned to the people.
 
 The reality diverged immediately. Kenyatta's government, while genuinely independent, consolidated power within a narrow elite, many of whom were former colonial collaborators. The land issue, the burning question that had motivated Mau Mau, was "resolved" through schemes that concentrated land in the hands of well-connected Kenyans, not in the hands of the dispossessed.

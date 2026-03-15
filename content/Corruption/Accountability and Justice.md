@@ -1,5 +1,3 @@
-# Accountability and Justice
-
 ## Overview
 
 Justice for [[Corruption in Kenya Overview|corruption]] victims requires accountability mechanisms that Kenya's system has failed to provide. Victims of corruption (people denied services, students unable to attend school, patients unable to access healthcare) suffer consequences while perpetrators escape [[Corrupt Officials Who Faced Accountability|accountability]]. The absence of accountability perpetuates corruption and denies justice.

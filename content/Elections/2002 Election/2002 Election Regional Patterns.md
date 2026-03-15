@@ -1,5 +1,3 @@
-# 2002 Election Regional Patterns
-
 Regional voting patterns in 2002 revealed a dramatic realignment compared to 1997. Central Province maintained its overwhelming Kikuyu support for Kibaki (95 percent), but Nyanza Province shifted from divided 1997 (Raila 60 percent, Kibaki 31 percent) to united support for Kibaki-led NARC (85-90 percent). This Luo consolidation for NARC was unprecedented and driven by Raila's central role in building the coalition. Coastal regions voted substantially for NARC (55-60 percent) compared to historically lower opposition support. The Rift Valley showed declining KANU strength (40-45 percent versus historical 55-70 percent dominance). Only in specific Kalenjin-majority districts did KANU retain strong support, and even then at reduced levels compared to historical baselines. The near-unanimous anti-KANU vote across diverse regions demonstrated that Moi's political coalition had definitively lost its capacity to command national electoral support.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Muslim Indian Community Kenya
-
 The Muslim Indian community in colonial Kenya was internally diverse, encompassing [[Ismaili Muslims]] (followers of the [[Aga Khan]]), Ithnasheri Shia Muslims, [[Sunni Bohra|Sunni Bohras]], and other Muslim groups. Each community maintained distinct religious practices, organizational structures, and economic roles. The Muslim communities, while less numerically dominant than Hindus, exercised significant economic and social influence through merchant networks and philanthropic institutions.
 
 ## Ismaili Muslims (Khoja Muslims)

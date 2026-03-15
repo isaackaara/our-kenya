@@ -1,5 +1,3 @@
-# Kalenjin and the Mau Mau Period
-
 The Kalenjin were not central participants in the Mau Mau Uprising (1952-1960), which was primarily a Kikuyu movement. Instead, the Kalenjin experienced the Emergency period as a time of geographic safety and political opportunity, with some Kalenjin serving as Home Guard and auxiliary forces supporting British counter-insurgency, while others remained largely neutral.
 
 ## The Mau Mau Uprising Context

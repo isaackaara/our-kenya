@@ -1,5 +1,3 @@
-# Thika Superhighway
-
 The Thika Road superhighway (officially the A2 highway upgrade) was built between 2009 and 2012 and represents Kenya's first modern expressway system. The project aimed to decongest Nairobi traffic and improve connectivity to Thika and surrounding areas. The superhighway features multiple lanes, modern drainage, streetlights, and safety barriers, contrasting sharply with the previous two-lane road that was chronically congested.
 
 The superhighway construction was technologically and logistically challenging, requiring extensive earthworks, bridge construction, and coordination with existing traffic. The project was financed through a combination of government funds and development partner loans, with costs exceeding initial estimates. Construction took longer than planned but was eventually completed, creating a major infrastructure landmark.

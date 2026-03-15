@@ -1,5 +1,3 @@
-# Luo and the 2007 Election
-
 The disputed 2007 presidential election, won by [[Raila Odinga.md|Raila Odinga]]'s Orange Democratic Movement (ODM) in polling but awarded by electoral commission to Mwai Kibaki's team, triggered the most severe violence in Kenya since independence. [[../Counties/Kisumu/Kisumu County|Kisumu County]] and the Nyanza region became epicenters of the conflict, with Luo communities experiencing both perpetration of violence and harsh state reprisal. The crisis forced national and international reckoning with Kenya's ethnic tensions and the fragility of its democratic institutions.
 
 ## Key Facts

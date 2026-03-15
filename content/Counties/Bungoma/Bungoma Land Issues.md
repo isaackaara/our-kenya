@@ -1,5 +1,3 @@
-# Bungoma Land Issues
-
 Land tenure and land availability issues shape Bungoma's development trajectory. High population density relative to available land creates pressures on land subdivision and fragmentation. Smallholder land holdings have diminished through generational inheritance subdivision, reducing farm sizes below economically viable levels. Land disputes and tenure insecurity affect agricultural investment and productivity.
 
 ## Land Subdivision and Fragmentation

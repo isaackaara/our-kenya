@@ -1,5 +1,3 @@
-# [[Water Scarcity Northern Kenya|water scarcity]] Northern Kenya
-
 Water scarcity is the defining development challenge in Garissa, Wajir, and Mandera counties. These arid and semi-arid regions receive minimal rainfall (200-600mm annually) and face chronic water shortages. Access to safe water for human consumption and livestock is the primary concern of [[Camel Economy|pastoral]] communities. Climate change is intensifying the water crisis, making this challenge increasingly urgent.
 
 ## Aridity and Rainfall Patterns

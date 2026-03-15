@@ -1,5 +1,3 @@
-# Kalenjin Youth Identity
-
 Young Kalenjin in 2026 navigate complex and sometimes contradictory identity narratives. The Kalenjin are recognized internationally for running excellence and athletic achievement, creating an identity narrative of exceptional physical capability and discipline. Simultaneously, the Kalenjin's association with inter-ethnic violence during the 1992, 1997, and 2007,2008 post-election violence periods creates a counter-narrative of violence and ethnic extremism. How young Kalenjin make sense of these competing narratives shapes their sense of self and their place in Kenya's multi-ethnic society.
 
 ## The Running Excellence Narrative

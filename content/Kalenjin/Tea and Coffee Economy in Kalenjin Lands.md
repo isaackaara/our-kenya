@@ -1,5 +1,3 @@
-# Tea and Coffee Economy in Kalenjin Lands
-
 The Kipsigis territory (Kericho and Bomet counties) produces some of Kenya's finest tea and was historically Kenya's major tea-producing region. However, this agricultural wealth emerged through a profoundly inequitable process in which British colonial companies acquired Kipsigis land and [[Kalenjin|Kalenjin]] themselves became laborers on their own alienated land, a pattern that has only partially changed since independence.
 
 ## Colonial Land Alienation and Estate Establishment

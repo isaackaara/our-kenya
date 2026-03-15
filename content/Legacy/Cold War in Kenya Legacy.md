@@ -1,5 +1,3 @@
-# Cold War in Kenya Legacy
-
 During the Cold War, Kenya aligned firmly with the Western bloc. Kenyatta's government was pro-Western. Kenya allowed NATO intelligence operations (primarily CIA and British intelligence) on its territory. Western military aid flowed to Kenya.
 
 This alignment was not inevitable. Kenya could have pursued nonalignment, as some African countries did. But the Kenyan government chose alignment with the West. This choice reflected ideological affinity with Western capitalism, fear of communism and Soviet influence, and dependence on Western aid.

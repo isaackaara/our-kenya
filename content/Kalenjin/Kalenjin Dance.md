@@ -1,5 +1,3 @@
-# Kalenjin Dance
-
 Dance held profound significance in Kalenjin social life, functioning as ritual performance, celebratory expression, and a key component of major ceremonies including initiation, coming-of-age, and other transitions. Kalenjin dance traditions encompass multiple distinct forms, each with specific contexts and meanings.
 
 ## Tindinit Dance Form

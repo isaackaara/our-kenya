@@ -1,5 +1,3 @@
-# Maragoli People
-
 The Maragoli (also called Logoli) are a [[../../Luhya/Luhya|Luhya]] sub-group primarily inhabiting Vihiga County. The Maragoli are distinctive within the Luhya cluster for their unusually high rates of out-migration and diaspora presence. Maragoli communities maintain cultural identity through language, social organization, and ongoing connections to home communities. Contemporary Maragoli identity reflects both traditional heritage and extensive diaspora experience.
 
 ## Historical Background

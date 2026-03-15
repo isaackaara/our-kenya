@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]] and the Forest
-
 The Mount Kenya forest has provided vital resources to Embu communities for centuries, including water sources, timber, medicinal plants, and [[Embu Wildlife]]. Contemporary relationships are complex, involving livelihood dependence, conservation requirements, and property claims. Deforestation and environmental degradation threaten forest functions.
 
 ## Forest Resources

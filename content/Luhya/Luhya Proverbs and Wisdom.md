@@ -1,5 +1,3 @@
-# Luhya Proverbs and Wisdom
-
 Luhya proverbs (olusamia in some dialects) are traditional wise sayings that encode values, lessons, and accumulated knowledge about social relationships, ethics, and practical life. Proverbs enable speakers to communicate significant meaning concisely, using figurative language tied to shared cultural understanding. Luhya proverbs reveal core values of community, hard work, respect for elders, pragmatism, and balanced social relationships. They remain significant in contemporary Luhya culture, though transmission to younger generations faces challenges from urbanization and educational change.
 
 ## Functions and Use of Proverbs

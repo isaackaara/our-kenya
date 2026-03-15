@@ -1,5 +1,3 @@
-# West Pokot Mining
-
 [[West Pokot County]] has gold deposits and other mineral resources that have attracted mining activity at small and artisanal scales. Mining represents a potential revenue source and livelihood opportunity but also creates environmental and social concerns. Gold is the primary mineral of commercial interest, with both legal and informal mining occurring. Mining activity has expanded in recent years as economic pressures have driven people to seek mineral extraction as livelihood. However, mining represents a small portion of the county economy relative to agriculture and pastoralism. Understanding mining's role in West Pokot's economy and its environmental and social impacts is important for understanding livelihood diversification and natural resource management.
 
 ## Gold Deposits and Distribution

@@ -1,5 +1,3 @@
-# Maize and Food Security
-
 [[Maize]] is [[Kenya's]] [[dietary staple]]. The crop is grown by [[millions]] of [[smallholders]] primarily for [[own consumption]], with a [[portion]] sold [[locally]]. [[Food security]] in Kenya hinges substantially on [[maize production]], making the sector [[intensely political]].
 
 ## Production and Consumption

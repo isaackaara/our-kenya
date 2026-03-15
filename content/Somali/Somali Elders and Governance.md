@@ -1,5 +1,3 @@
-# Somali Elders and Traditional Governance (Odayaasha)
-
 The odayaasha (Somali for elders) are the custodians of customary law, dispute resolution, and community representation in Somali societies, including Kenya's Somali communities. These respected individuals, typically men who have accumulated wealth, clan respect, and spiritual authority through age and experience, manage justice, mediate disputes, and represent communities to state institutions and other clans.
 
 ## The Role of Odayaasha

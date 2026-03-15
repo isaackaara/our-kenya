@@ -1,5 +1,3 @@
-# Kenyan Somali Clan Politics
-
 [[Somali]] clan identity is one of the most powerful organizing forces in [[Somali|Somali]] political life, including in Kenya. Clan shapes voting behavior, access to resources, marriage patterns, leadership, and intercommunal relations. Understanding Somali politics requires understanding clan structure. However, clan politics can also fuel conflict and undermine national unity.
 
 ## Clan Distribution and County Politics

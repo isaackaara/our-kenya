@@ -1,5 +1,3 @@
-# Vihiga Health
-
 Healthcare in Vihiga County is provided through government health facilities, private clinics, and traditional practitioners operating with severe resource constraints. Health services face challenges from high population density, limited resources, and disease burden. Government facilities provide basic services though capacity remains constrained. Health outcomes reflect developmental constraints and limited service capacity.
 
 ## Government Health Facilities

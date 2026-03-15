@@ -1,5 +1,3 @@
-# Baringo Land
-
 Baringo County's land tenure system reflects historical colonial transformations of pastoral commons into individual and group holdings, with contemporary challenges of land fragmentation, privatization, and disputes over land rights between pastoralists, conservation initiatives, and commercial developers.
 
 ## Group Ranch Conversion

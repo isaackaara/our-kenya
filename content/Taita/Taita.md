@@ -1,5 +1,3 @@
-# Taita
-
 The Taita (also called Dawida) are a Bantu-speaking people of the Taita Hills in Taita-Taveta County, southeastern Kenya, near the Tanzania border. They number approximately 350,000 people and occupy one of Kenya's most distinctive geographical and ecological zones.
 
 ## Geography and Territory

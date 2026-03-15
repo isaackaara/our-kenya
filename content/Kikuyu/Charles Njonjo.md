@@ -1,5 +1,3 @@
-# Charles Njonjo
-
 Charles Mugane Njonjo (23 January 1920, 2 January 2022) was Kenya's first post-independence Attorney General, a constitutional architect of the Kenyatta state, and one of the most distinctive figures in Kenyan political history. A Kikuyu from [[Kiambu]] who dressed in three-piece suits, carried a walking stick, and styled himself the "Duke of Kabeteshire", a title with no legal basis that he wore with complete convictionCharles Mugane Njonjo (23 January 1920, 2 January 2022) was Kenya's first post-independence Attorney General, a constitutional architect of the Kenyatta state, and one of the most distinctive figures in Kenyan political history. A Kikuyu from [[Kiambu]] who dressed in three-piece suits, carried a walking stick, and styled himself the "Duke of Kabeteshire", a title with no legal basis that he wore with complete conviction (Njonjo), was simultaneously a symbol of Kikuyu establishment power and a figure who rhetorically distanced himself from ethnic politics.
 
 ## Key Facts

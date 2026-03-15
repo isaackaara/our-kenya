@@ -1,5 +1,3 @@
-# Tharaka Youth
-
 Youth unemployment and limited economic opportunities are significant challenges in Tharaka territory, driving migration to urban areas and contributing to social concerns.
 
 ## Employment Landscape

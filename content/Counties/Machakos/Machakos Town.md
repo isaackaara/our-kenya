@@ -1,5 +1,3 @@
-# Machakos Town
-
 Machakos town, locally known as Machakostown, holds a unique place in Kenyan colonial history as the first British administrative centre in the Kenyan interior. Located approximately 60 kilometers southeast of Nairobi, the town sits on elevated terrain at about 1,600 meters above sea level, providing a cooler climate than Nairobi itself.
 
 The town developed rapidly after British settlement in the late 1880s. It served as the seat of colonial administration from 1889 onwards, making it the effective capital of British East Africa before the railway terminus and administrative functions shifted to Nairobi in 1899. The establishment of administrative infrastructure, government buildings, and missionary stations in Machakos town reflected British confidence in the area's strategic importance.

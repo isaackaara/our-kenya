@@ -1,5 +1,3 @@
-# Vigango Art and Commemoration
-
 [[Vigango]] (singular: kigango) are wooden carved grave markers created by some [[Mijikenda]] peoples to honor deceased persons, particularly important individuals. The carved figures and their cultural significance represent distinctive [[Mijikenda]] artistic and spiritual practices. [[Vigango]] are important cultural heritage and artistic expression.
 
 ## Physical Characteristics

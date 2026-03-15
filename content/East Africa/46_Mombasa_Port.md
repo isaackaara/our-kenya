@@ -1,5 +1,3 @@
-# Mombasa Port Regional Role
-
 The [[Mombasa Port]] is [[East African Community]]'s primary ocean port and the economic gateway for landlocked neighbors. It serves Uganda, Rwanda, Burundi, South Sudan, and eastern DRC, making it one of Africa's most strategically important ports and a major node in [[East African Community]] regional economics.
 
 ## Port Capacity and Operations

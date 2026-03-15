@@ -1,5 +1,3 @@
-# 1974 Election Kenyatta Campaign
-
 President Jomo Kenyatta's campaign in 1974 was his final electoral campaign, though he did not personally campaign in the modern sense. As the incumbent president and the commanding figure of Kenyan politics for fifteen years, Kenyatta's presence loomed over the entire election. His health was declining, though this was not widely acknowledged publicly, and his campaign message centered on his record of nation-building and the economic achievements of independent Kenya.
 
 The government machinery was fully deployed to support KANU candidates loyal to Kenyatta. Cabinet ministers, regional administrators, and KANU party officials all campaigned on the theme of stability, development, and the continuation of Kenyatta's policies. The message was that voting for KANU, and by extension for Kenyatta's vision, was voting for continued prosperity and order.

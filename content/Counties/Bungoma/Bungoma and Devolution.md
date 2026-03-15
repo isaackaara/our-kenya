@@ -1,5 +1,3 @@
-# Bungoma and Devolution
-
 Devolution to county level beginning in 2013 fundamentally restructured governance in Bungoma County. The constitutional framework established Bungoma County as a semi-autonomous administrative unit with elected county government responsible for service delivery, development planning, and resource management. Devolution created opportunities for localized development prioritization while presenting governance and implementation challenges.
 
 ## County Government Structure

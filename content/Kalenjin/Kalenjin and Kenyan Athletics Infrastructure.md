@@ -1,5 +1,3 @@
-# Kalenjin and Kenyan Athletics Infrastructure
-
 Beyond individual Kalenjin runners lies an entire ecosystem of athletics infrastructure that has made Kenya(and particularly the Kalenjin region) the world's distance running superpower. This infrastructure encompasses governance institutions, training camps, coaching systems, athlete management, sponsorship networks, anti-doping bodies, and international connections that collectively produce an extraordinary concentration of world-class distance runners.
 
 ## Key Facts

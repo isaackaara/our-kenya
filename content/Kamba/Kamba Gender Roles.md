@@ -1,5 +1,3 @@
-# Kamba Gender Roles
-
 Traditional Kamba society maintained distinct gender roles based on an ideological division of labor and male patriarchal authority. However, women held recognized responsibilities, controlled certain resources, and exercised influence in defined domains, creating a system of gender complementarity alongside male dominance.
 
 ## Male Roles and Activities

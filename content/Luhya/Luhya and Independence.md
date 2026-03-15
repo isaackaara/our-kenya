@@ -1,5 +1,3 @@
-# Luhya and Independence
-
 The path to Kenyan independence in 1963-1964 involved political negotiations among competing ethnic groups and ideological factions. The Luhya, through KADU (Kenya African Democratic Union) and its key leaders Masinde Muliro and Ronald Ngala, articulated a vision of federalism (majimboism) designed to protect minority rights. However, the Luhya gained limited benefit from this advocacy, as KADU was dissolved and absorbed into KANU shortly after independence, leaving the Luhya politically subordinated within Kenya's post-independence power structure.
 
 ## KADU and the Majimbo Vision

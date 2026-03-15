@@ -1,5 +1,3 @@
-# Kakamega Colonial History
-
 Kakamega, historically known as North Nyanza during the colonial period, came under British colonial administration at the turn of the twentieth century. The region was integrated into Kenya's colonial economy through administrative structures, missionary activity, taxation systems, and commercial crop promotion. Colonial policies profoundly shaped settlement patterns, economic systems, and social institutions that persist into the present era.
 
 ## Early Conquest and Administration

@@ -1,5 +1,3 @@
-# Nairobi National Park: Wildlife in the Capital
-
 [[../../Conservation/Nairobi National Park|Nairobi National Park]] is the only national park located within the boundaries of a capital city in the world. Established in 1946, it covers approximately 117 square kilometers and protects a substantial population of large African megafauna, including lions, leopards, rhinoceros, buffalo, giraffe, and zebra.
 
 ## Establishment and History

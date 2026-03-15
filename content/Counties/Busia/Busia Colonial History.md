@@ -1,5 +1,3 @@
-# Busia Colonial History
-
 Colonial administration of Busia region began in the 1890s following British military campaigns. The region was incorporated into the East Africa Protectorate and subsequently colonial Kenya. Colonial boundaries divided ethnic communities across administrative and international boundaries. European settlers did not substantially colonize Busia as they did highlands regions. Colonial administration focused on tax collection and administrative control. Education was limited, with missions providing some schooling. Busia's border location made it economically significant for colonial trade. The Yala Swamp and Lake Victoria were recognized as important resources. Colonial policies restricted movement and trade across emerging borders. Post-World War I colonial administration consolidated control. The transition to Kenya independence involved Busia in nationalist movements.
 
 ## Administrative Development and Indigenous Authority

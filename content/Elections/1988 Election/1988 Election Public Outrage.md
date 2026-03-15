@@ -1,5 +1,3 @@
-# 1988 Election Public Outrage
-
 Public reaction to the 1988 election was one of massive outrage. The visible rigging, the brazen manipulation of queues, and the obvious predetermined results created widespread anger. Kenyans from all social backgrounds expressed disgust at the electoral fraud. Churches criticized the election, lawyers challenged it, civil society organizations protested, and ordinary citizens voiced their anger. The 1988 election demonstrated that Moi's regime had lost the minimal legitimacy that even authoritarian one-party states require. The outrage from the 1988 election would fuel the Second Liberation movement that challenged one-party rule.
 
 ## See Also

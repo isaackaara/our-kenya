@@ -1,5 +1,3 @@
-# Meru Independent Churches
-
 Independent and [[Pentecostal|Pentecostal]] churches have experienced significant growth in Meru territory from the late 20th century onward. These churches represent a diversification of [[Kenyan Christianity]] and reflect evolving religious preferences among Meru communities.
 
 ## Emergence of Independent Churches

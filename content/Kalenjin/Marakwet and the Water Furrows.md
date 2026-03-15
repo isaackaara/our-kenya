@@ -1,5 +1,3 @@
-# Marakwet and the Water Furrows
-
 The Marakwet(also spelled Markweta), a Kalenjin sub-group living on the Cherangani escarpment above the Kerio Valley, have constructed and maintained one of the world's most remarkable indigenous irrigation systems. The Sirikwa furrows, spanning hundreds of kilometres of intricately engineered channels running from highland forests to the valley floor, represent an extraordinary feat of pre-industrial hydraulic engineering that has sustained agriculture for over 400 years and continues to function today.
 
 ## Key Facts

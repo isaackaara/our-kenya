@@ -1,5 +1,3 @@
-# Wajir Water
-
 Water scarcity represents the fundamental resource constraint defining Wajir County's development challenges and shaping livelihood strategies. The region's extreme aridity means water availability remains critically inadequate for human consumption, livestock needs, and agricultural development. Water management, particularly borehole development and maintenance, ranks as a primary development priority. Water insecurity affects health, nutrition, livelihoods, and overall human welfare throughout the county.
 
 ## Water Sources and Availability

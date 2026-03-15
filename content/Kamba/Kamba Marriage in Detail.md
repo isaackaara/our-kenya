@@ -1,5 +1,3 @@
-# Kamba Marriage in Detail
-
 Kamba marriage traditions involve elaborate courtship, bridewealth negotiations, ceremonial procedures, and ongoing social relationships between two families. The institution reflects Kamba values around kinship, economic exchange, gender roles, and the continuity of lineages.
 
 ## Courtship and the Mwethia Tradition

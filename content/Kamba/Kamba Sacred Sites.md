@@ -1,5 +1,3 @@
-# Kamba Sacred Sites
-
 Sacred sites in [[Ukambani Environment|Ukambani]] represent geographic locations where spiritual power concentrated and where communities conducted rituals, sought healing, and appealed to divine forces. These sites, ranging from hills and groves to trees and water sources, functioned as focal points for [[Kamba Religion and Cosmology|religious practice]] and continue to hold significance in contemporary [[Kamba]] consciousness.
 
 ## Sacred Hills and Mountains

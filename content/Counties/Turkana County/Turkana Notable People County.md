@@ -1,5 +1,3 @@
-# Turkana Notable People County
-
 Turkana County has produced individuals who have achieved prominence in various fields including politics, business, academia, sports, and cultural leadership. These notable Turkana people have contributed to national development, promoted Turkana interests, and demonstrated the county's human capital potential despite limited educational and economic resources. Political figures include Turkana county governors and national political leaders who have pursued development agendas, though with variable success in improving county conditions.
 
 Business leaders from Turkana have established enterprises spanning pastoralist enterprises, trade, transport, and service sectors. Successful entrepreneurs have created employment and contributed to economic development, though the scale of business enterprises remains modest relative to other regions. Athletes from Turkana have achieved prominence in national and international sports competitions. Long-distance runners, in particular, have represented Kenya internationally, bringing honor to their communities and demonstrating athletic talent in global sporting events.

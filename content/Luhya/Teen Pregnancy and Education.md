@@ -1,5 +1,3 @@
-# Teen Pregnancy and Education
-
 Teen pregnancy is a significant social and educational challenge in western Kenya, the heartland of Luhya territory. The counties of Kakamega, Bungoma, Vihiga, and Trans-Nzoia have reported among Kenya's highest rates of adolescent pregnancy, with profound consequences for girls' educational attainment, economic prospects, and social standing.
 
 ## Epidemiology and Rates

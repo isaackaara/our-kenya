@@ -1,5 +1,3 @@
-# Nyatiti
-
 The nyatiti is an eight-string plucked lyre, played while held against the chest or stomach, with the player dancing or swaying. It is one of Africa's most distinctive instruments and remains central to Luo musical identity. Masters of the nyatiti (*janyatiti*) are honoured as keepers of cultural tradition.
 
 ## Physical Description and Playing Technique

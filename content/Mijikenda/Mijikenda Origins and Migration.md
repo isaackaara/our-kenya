@@ -1,5 +1,3 @@
-# Mijikenda Origins and Migration
-
 The origins of the [[Mijikenda Overview|Mijikenda peoples]] are reconstructed from oral traditions, archaeological evidence, and linguistic studies. Their migration from the interior to the Kenya coast in the sixteenth or seventeenth century represents a major population movement that established the ethnic geography of the coastal hinterland.
 
 ## Oral Traditions and Singwaya

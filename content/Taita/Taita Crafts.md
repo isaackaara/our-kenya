@@ -1,5 +1,3 @@
-# Taita Crafts
-
 Taita traditional crafts reflect both artistic expression and practical necessity. These crafts have served functional purposes while embodying aesthetic values and cultural knowledge.
 
 ## Basketry and Weaving

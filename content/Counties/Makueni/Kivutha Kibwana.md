@@ -1,5 +1,3 @@
-# Kivutha Kibwana
-
 Kivutha Kibwana served as Governor of Makueni County from 2013 to 2022, earning recognition as one of Kenya's most respected and innovative county leaders. Kibwana, a law professor with academic background and professional expertise, brought intellectual depth and reform orientation to county governance. His tenure exemplified devolution's potential for transformative local governance.
 
 Before his governorship, Kibwana had a career as a legal scholar and human rights advocate, establishing credibility as a development-oriented intellectual. His election as governor reflected voter confidence in his development vision and reform commitment. Kibwana's governance approach emphasized innovation, transparency, and community-centred development.

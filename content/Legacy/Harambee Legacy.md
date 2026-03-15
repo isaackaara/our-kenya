@@ -1,5 +1,3 @@
-# Harambee Legacy
-
 Harambee means "pulling together" in Swahili. Kenyatta made it the national motto at independence and it became the framework for community self-help development. Community members would contribute money, labor, or materials to build a school, a dispensary, a water tank. The government would sometimes match funding. Harambee was presented as an African alternative to state-provided services, rooted in communal traditions.
 
 In its genuine moments, harambee worked. Communities built schools when the state would not. Matatus were purchased through harambee contributions. Villages constructed cattle dips and grain stores. The tradition tapped into real communal capacity and produced real results. Many Kenyans, especially in rural areas, got their education because of harambee school building in the 1960s and 1970s.

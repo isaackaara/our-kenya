@@ -1,5 +1,3 @@
-# Turkana in Independent Kenya
-
 When Kenya gained independence from Britain in 1964, Turkana County (then Turkana District) inherited the structural marginalization created by decades of [[Colonial Contact]] neglect and the closed district policy. Despite independence, successive Kenyan governments continued to treat Turkana as a peripheral region with low development priority, resulting in persistent poverty, minimal infrastructure, and cycles of [[Drought and Famine]] and famine.
 
 ## Post-Independence Marginalization

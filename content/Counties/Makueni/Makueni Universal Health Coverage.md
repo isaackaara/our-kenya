@@ -1,5 +1,3 @@
-# Makueni Universal Health Coverage
-
 Makueni County pioneered a county-level universal health coverage (UHC) model, establishing one of Kenya's first affordable, comprehensive primary healthcare programmes. The programme charged eligible households KES 500 annually for access to primary healthcare services, including free maternity care, medication provision, and disease management.
 
 The UHC programme design reflected Kibwana's vision of equitable, accessible healthcare. Rather than relying on individual ability to pay per service, the annual membership model provided predictable revenue for county health services while removing cost barriers for care-seeking. The programme particularly emphasized maternal health, recognizing that safe delivery and postnatal care reduce maternal and infant mortality.

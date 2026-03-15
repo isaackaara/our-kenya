@@ -1,5 +1,3 @@
-# The Church in Public Life
-
 The role of Christian churches in Kenya's public sphere is extraordinary by global standards. Churches are not peripheral. They are central institutions that provide education, healthcare, moral authority, and increasingly, political voice.
 
 During colonialism, churches were often collaborators, but they also became sites of refuge and dissent. Mission schools became the only places where Africans could get education. Mission hospitals provided healthcare in the countryside. But churches also harbored resistance to colonial rule.

@@ -1,5 +1,3 @@
-# Kikuyu Horticulture
-
 The [[Kikuyu]] regions of central Kenya, particularly around Thika, Kiambu, and Murang'a, became Kenya's horticulture heartland. Kikuyu smallholders integrated into global agricultural supply chains producing fresh vegetables, fruits, and cut flowers for export to European supermarkets and markets.
 
 ## Major Crops

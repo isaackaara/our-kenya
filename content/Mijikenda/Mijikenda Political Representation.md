@@ -1,5 +1,3 @@
-# Mijikenda Political Representation
-
 [[Mijikenda Overview|Mijikenda communities']] representation in Kilifi, Kwale, and Mombasa county governments and in national politics reflects broader patterns of coastal political marginalization. Though numerically significant, Mijikenda political power has been constrained by fragmentation, elite capture, and competition from migrant groups in urban areas.
 
 ## National Political Representation

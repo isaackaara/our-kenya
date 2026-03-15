@@ -1,5 +1,3 @@
-# Machakos Land Issues
-
 Land tenure and land use challenges in Machakos County reflect tensions between semi-arid pastoral ecology, agricultural settlement patterns, colonial and postcolonial legal frameworks, and contemporary urbanization pressures. These issues have profound implications for livelihoods, environmental management, and social equity.
 
 Historically, Kamba pastoral and agricultural systems managed land through community-based tenure systems emphasizing collective access within family and clan territories. Colonial land policies disrupted these systems, introducing individual titling, government reserves, and restricted pastoral access. The colonial administration allocated land to European settlers and urban development, restricting Kamba access to historically used territories.

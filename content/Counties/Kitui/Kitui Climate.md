@@ -1,5 +1,3 @@
-# Kitui Climate
-
 Kitui County experiences a semi-arid climate characterized by low, variable rainfall, high temperatures, and substantial seasonal variation. The county receives bimodal rainfall with long rains from March to May and short rains from October to December. Rainfall timing and quantity are highly variable, with some years bringing abundant precipitation while others experience severe drought.
 
 Annual rainfall in Kitui averages 400 to 600 millimeters in most areas, though this average masks significant variability. Some years receive half this average while others substantially exceed it. This unpredictability creates fundamental challenges for water availability and agriculture. Communities must constantly manage drought risk.

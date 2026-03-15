@@ -1,5 +1,3 @@
-# Lamu Islam
-
 Islam is the dominant faith in Lamu County, shaping social life, governance, law, and cultural practices. The Swahili and Bajuni populations are overwhelmingly Muslim, with mosque attendance high and Islamic practice woven into daily rhythms. The county headquarters of Lamu town contains numerous mosques and is considered a significant Islamic heritage site in East Africa.
 
 The history of Islam in Lamu extends back to at least the 8th century, when Arab and Persian merchants established trading posts on the East African coast. Islam spread gradually through commercial networks, intermarriage, and conversion. By the medieval period, the coastal cities of East Africa, including Lamu, were firmly Islamic. The faith became inseparable from Swahili identity, such that "Swahili" came to mean "Muslim" in many contexts.

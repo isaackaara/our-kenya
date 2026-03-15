@@ -1,5 +1,3 @@
-# Kwale Climate Change
-
 Climate change poses profound threats to Kwale County's economy, ecology, and human welfare, with manifestations already visible in changing rainfall patterns, sea level rise, and ecosystem disruptions. The county's heavy dependence on climate-sensitive sectors including agriculture, tourism, and fisheries makes it particularly vulnerable to climate impacts.
 
 Changing rainfall patterns represent the most immediately visible climate change impact in Kwale. Rainfall has become more irregular and less predictable, with some years experiencing severe droughts. The 2010-2011 drought devastated pastoral and agricultural communities throughout the region. Traditional knowledge based on past climate patterns becomes less reliable for predicting future weather.

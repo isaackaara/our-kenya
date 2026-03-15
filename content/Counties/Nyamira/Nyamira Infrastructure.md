@@ -1,5 +1,3 @@
-# Nyamira Infrastructure
-
 Nyamira County infrastructure supports agricultural commerce, service delivery, and connectivity. Road networks, water systems, and utilities connect the county to regional and national markets.
 
 ## Road Networks

@@ -1,5 +1,3 @@
-# Kenya Conservation Overview
-
 Kenya stands as one of Africa's leading conservation nations, home to some of the world's most iconic wildlife and managing an extensive system of protected areas spanning over 8% of the country's landmass. This overview traces Kenya's conservation journey from colonial game reserves to modern community-based models.
 
 ## The National Park System

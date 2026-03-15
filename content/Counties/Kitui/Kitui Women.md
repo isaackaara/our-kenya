@@ -1,5 +1,3 @@
-# Kitui Women
-
 Women in Kitui County maintain significant roles in agricultural production, household food security, and community wellbeing, though they face constraints including limited property rights, gender-based violence, and unequal resource access. Women's economic contributions remain essential to household survival and community development.
 
 Women perform substantial agricultural labour including crop cultivation, weeding, harvesting, and postharvest processing. Women often manage household food crops while men manage some cash crops, though this division varies. Women's agricultural labour is often uncompensated family work.

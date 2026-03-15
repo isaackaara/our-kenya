@@ -1,5 +1,3 @@
-# The Omo River and Lake Turkana
-
 The Omo River, originating in the Ethiopian highlands and flowing southward through the Omo Valley, is the primary water source for [[Lake Turkana]], contributing approximately 90 percent of the lake's inflow. The river's flows have been dramatically reduced in recent decades due to dam construction in Ethiopia, particularly the Gibe III dam completed in 2016. This reduction has caused the lake level to drop significantly, threatening the [[Turkana Pastoralism]] and fishing economies that depend on the lake and generating a major transnational water [[Turkana-Pokot Conflict]].
 
 ## The Omo River System

@@ -1,5 +1,3 @@
-# Laikipia Climate
-
 Laikipia County experiences a semi-arid climate with altitude-dependent temperature and rainfall variation. The plateau at 1,700 to 2,500 meters receives 500 to 1,500 millimeters of annual rainfall depending on location. Cool temperatures characterize the plateau. Seasonal rainfall variability creates agricultural and pastoral challenges. Drought periods occur periodically threatening pastoral and agricultural productivity. Climate change is increasing rainfall unpredictability and temperature.
 
 ## Rainfall Pattern

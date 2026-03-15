@@ -1,5 +1,3 @@
-# Kisii Tea Industry
-
 Tea is the dominant cash crop in [[Kisii County.md|Kisii County]], forming the backbone of the regional economy and providing livelihoods for hundreds of thousands of farmers. The industry represents one of Kenya's most successful smallholder agricultural sectors.
 
 ## Historical Development

@@ -1,5 +1,3 @@
-# Swahili Proverbs
-
 The [[Swahili]] have a rich tradition of proverbs (methali za Kiswahili) that encode wisdom, moral lessons, and observations about human nature and proper behavior. [[Swahili Proverbs|Swahili proverbs]] are transmitted orally and appear in printed form (particularly on [[Swahili Dress|kanga cloths]]), expressing [[Swahili Identity|cultural values]] and providing guidance for ethical living within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Characteristics of Swahili Proverbs

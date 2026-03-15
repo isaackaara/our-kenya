@@ -1,5 +1,3 @@
-# Kajiado Colonial History
-
 Kajiado's colonial history reflects British colonial administration of [[../../Maasai/Maasai|Maasai]] territories, treaties formalizing land boundaries and reserves, and the imposition of colonial governance structures on pastoral societies.
 
 ## Early Colonial Period

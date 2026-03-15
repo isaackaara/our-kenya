@@ -1,5 +1,3 @@
-# 1979 Election Notable Winners
-
 The 1979 election produced a new parliamentary generation while retaining some figures from earlier parliaments. Significant politicians were elected or re-elected to Parliament, establishing themselves as important figures in Kenya's post-Kenyatta politics.
 
 Among notable winners were sitting MPs who successfully defended their seats against primary challenges. These incumbents demonstrated sufficient constituency support and political standing to win re-election. Many of these successful incumbents went on to hold ministerial positions or to exercise significant parliamentary influence.

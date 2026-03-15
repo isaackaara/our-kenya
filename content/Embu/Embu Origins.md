@@ -1,5 +1,3 @@
-# Embu Origins
-
 The Embu trace their origins to Bantu-speaking populations that migrated into the Mount Kenya region over several centuries, arriving roughly 500-1000 years before the colonial period. According to Embu oral [[Embu Oral Traditions]], the community's founding ancestors emerged from the [[Embu and the Kikuyu]] area to the west or from mixed Bantu sources, establishing settlements on the southeastern slopes of Mount Kenya (Kirinyaga).
 
 ## The Mount Kenya Cultural Complex

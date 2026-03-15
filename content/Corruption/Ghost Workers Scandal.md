@@ -1,5 +1,3 @@
-# Ghost Workers Scandal
-
 ## Overview
 
 Kenya's government payroll has consistently included "ghost workers": employees who exist on the books and are paid salaries but do not actually work or do not work for the government. Audits have identified tens of thousands of ghost workers costing the government billions of shillings annually. The practice represents a systematic transfer of public resources from legitimate service delivery to private accounts, similar to patterns in [[Education Sector Corruption]] and health services.

@@ -1,5 +1,3 @@
-# Vihiga Agriculture
-
 Vihiga County's agriculture is conducted on extremely small, intensively cultivated plots in an intensely populated landscape. Tea, maize, vegetables, and dairy represent primary agricultural activities on minimal landholdings. Agricultural production provides household subsistence and limited cash income, though insufficient for supporting populations without off-farm income. Intensity of cultivation approaches horticultural rather than traditional agricultural patterns.
 
 ## Tea Production

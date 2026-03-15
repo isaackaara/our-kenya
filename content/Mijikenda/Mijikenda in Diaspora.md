@@ -1,5 +1,3 @@
-# Mijikenda in Diaspora
-
 [[Mijikenda]] diaspora refers to [[Mijikenda]] peoples living outside their home territories in Kilifi and Kwale counties. Urban migration has created substantial [[Mijikenda]] communities in [[Mombasa]], [[Nairobi]], and other cities. Diaspora [[Mijikenda]] maintain connections to home while adapting to urban life.
 
 ## Urban Migration Patterns

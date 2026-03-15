@@ -1,5 +1,3 @@
-# Meru Women's Leadership and Politics
-
 ## Traditional Women's Authority
 
 ### The Women's Assembly

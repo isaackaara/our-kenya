@@ -1,5 +1,3 @@
-# 1992 Election Moi Campaign
-
 [[Daniel arap Moi]]'s 1992 campaign leveraged the full power of the state apparatus to mobilize KANU support and to undermine opposition candidates. Moi had governed Kenya for 14 years since assuming the presidency in 1978 and had built a sophisticated apparatus of patronage, ethnic mobilization, and security force control that he deployed in the 1992 campaign with full effect.
 
 The Moi campaign utilized state resources at an unprecedented scale. Government resources were deployed for KANU campaign activities, including vehicles, fuel, and government-paid staff time. Government projects and development activities were timed to provide visible benefits just before the election. The government's control of the civil service meant that civil servants could be pressured to support KANU or risk losing their positions.

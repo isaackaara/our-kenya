@@ -1,5 +1,3 @@
-# Nyeri and Devolution
-
 Nyeri County government was established in 2013 with elected county governor and assembly. County development initiatives have focused on agricultural support, healthcare expansion, and infrastructure improvement. County governance varies in quality and effectiveness. Service delivery has decentralized from national government, potentially improving local responsiveness. Funding constraints limit development ambitions. Inter-county coordination occurs on shared resources and regional interests.
 
 

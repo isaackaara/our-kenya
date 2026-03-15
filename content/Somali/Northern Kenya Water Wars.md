@@ -1,5 +1,3 @@
-# Northern Kenya Water Wars
-
 Water scarcity and competition over limited water sources represents a critical driver of conflict and livelihood insecurity in arid and semi-arid northeastern Kenya. [[Kenyan Somali Identity|Somali]] pastoral communities, alongside Borana, Gabra, Samburu, and other pastoral groups, engage in recurring conflicts over water access that intersect with [[Livestock Markets Northern Kenya|livestock]] production, migration patterns, and [[Somali Clan System Kenya|clan identities]].
 
 ## Water Scarcity and Geography

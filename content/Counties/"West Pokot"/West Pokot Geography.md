@@ -1,5 +1,3 @@
-# West Pokot Geography
-
 West Pokot County has dramatic topographical variation, transitioning from hot, arid Rift Valley lowlands to cool, well-watered highlands. The landscape ranges from approximately 1,000 meters elevation in the south to over 2,500 meters in the northern highlands. The Cherangany Hills form the eastern boundary, creating a major water tower and highland zone. Mount Sekerr and other peaks dominate sections of the landscape. The county is bounded by Uganda to the west and south, and by Turkana County to the north. River systems (Turkwel, Suam, Weiwei) drain the highlands toward the lowlands and eventually into larger water systems. The terrain includes escarpments, gorges, and river valleys creating complex topography.
 
 ## Ecological Zones and Climate

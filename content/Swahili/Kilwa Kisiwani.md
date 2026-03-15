@@ -1,5 +1,3 @@
-# Kilwa Kisiwani
-
 Kilwa Kisiwani (located on an island off the coast of modern Tanzania) was the most powerful and economically dominant [[Swahili]] city-state during its height in the 13th-15th centuries. The city controlled the gold trade from [[Great Zimbabwe and the Swahili Trade|the interior of southern Africa]] (particularly [[Great Zimbabwe and the Swahili Trade|Great Zimbabwe]]) and accumulated extraordinary wealth, which was invested in impressive stone architecture and urban development. Today the ruins of Kilwa are a UNESCO World Heritage Site within the [[Swahili Civilization Overview|Swahili world]].
 
 ## Early History and Rise to Dominance

@@ -1,5 +1,3 @@
-# Taita-Taveta Women
-
 Women in Taita-Taveta County face complex challenges related to economic opportunities, land rights, reproductive health, education access, and political representation. While women's legal rights have been strengthened through national constitutional reforms and gender equality legislation, traditional gender norms persist in many communities, limiting women's full exercise of their rights and opportunities. Contemporary women's organizations and government initiatives address gender equality, though implementation remains uneven.
 
 The role of women in the agricultural economy is central, with women comprising a substantial proportion of agricultural producers and food producers. In the Taita Hills, women engage in cultivation of food crops, vegetable production, and small-scale cash cropping. In pastoral areas, women manage household activities and contribute to livestock production. Despite their economic contributions, women often have limited control over the products of their labour or income generated from agriculture.

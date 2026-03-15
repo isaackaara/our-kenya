@@ -1,5 +1,3 @@
-# Luo Political Voice Post-2022
-
 After [[Raila Odinga.md|Raila Odinga]]'s defeat in the August 2022 presidential election, the Luo community faced a moment of political recalibration and reflection. The post-2022 period represents a turning point in Luo political representation and raises questions about the future direction of Luo political leadership, generational transitions, and the Luo-Kikuyu political axis that has dominated Kenyan politics.
 
 ## Raila's Defeat and Its Meaning

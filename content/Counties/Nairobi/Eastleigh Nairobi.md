@@ -1,5 +1,3 @@
-# Eastleigh: Nairobi's Somali Commercial District
-
 Eastleigh is a neighborhood in northeastern Nairobi that has become the primary commercial center for [[../../Somali/Somali|Somali]] community in Kenya. Known colloquially as "Little Mogadishu," Eastleigh is a vibrant, densely packed commercial district where wholesale trade, money transfer services, and ethnic enterprises dominate the economy.
 
 ## Origins and Development

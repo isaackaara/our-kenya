@@ -1,5 +1,3 @@
-# Kamba and WWII
-
 The Kamba played a significant and distinguished role in World War II, particularly in the Burma Campaign and North Africa operations. Their military service during this period proved decisive in key theaters of war and shaped the trajectory of Kamba political consciousness in the post-war nationalist movement.
 
 ## The Burma Campaign

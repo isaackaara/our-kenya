@@ -1,5 +1,3 @@
-# Nyandarua Notable People
-
 Several prominent Kenyans have come from Nyandarua County, contributing to politics, business, education, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Nyandarua's agricultural base and [[../../Kikuyu/Kikuyu|Kikuyu]] prominence have produced numerous leaders. Political families sometimes maintain influence across generations.
 
 ## Political Leaders

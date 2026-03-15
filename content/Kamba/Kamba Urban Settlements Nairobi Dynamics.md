@@ -1,5 +1,3 @@
-# Kamba Urban Settlements: Nairobi and Other Towns
-
 Kamba populations in urban areas (particularly Nairobi) experience distinct dynamics from rural counterparts. This note examines urban settlement patterns, socioeconomic conditions, and cultural implications.
 
 ## Kamba in Nairobi

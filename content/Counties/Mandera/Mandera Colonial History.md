@@ -1,5 +1,3 @@
-# Mandera Colonial History
-
 The colonial period in Mandera (1895-1963) was marked by late and limited British administrative penetration, indirect governance through local systems, and a broader pattern of colonial neglect that established enduring patterns of marginalization. Mandera, located in the remote northeastern frontier of Kenya, was among the last areas the British brought under formal colonial control and received minimal investment or administrative attention during the colonial era.
 
 ## Initial Contact and Subjugation

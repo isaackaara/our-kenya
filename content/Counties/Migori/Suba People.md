@@ -1,5 +1,3 @@
-# Suba People
-
 The Suba are a Bantu-speaking people with historical settlements in the Lake Victoria region, particularly on Mfangano Island and surrounding islands and shoreline areas in Migori County. The Suba have undergone substantial linguistic and cultural assimilation into the Luo community, though distinct Suba identity persists.
 
 ## Origins and Settlement

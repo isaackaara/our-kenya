@@ -1,5 +1,3 @@
-# Kilifi County Development
-
 Kilifi County, the heartland of Giriama and other northern Mjikenda peoples, has experienced significant development changes over recent decades. Understanding Kilifi County's development involves examining geography, economic activities, infrastructure, governance, and challenges facing the county and its residents.
 
 ## Geography and Administrative Organization

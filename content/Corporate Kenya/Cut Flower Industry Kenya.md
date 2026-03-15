@@ -1,5 +1,3 @@
-# Cut Flower Industry Kenya
-
 [[Kenya]] is the world's third-largest exporter of cut flowers (after the Netherlands and Ecuador), with annual exports exceeding USD 800 million. The industry employs roughly 100,000+ people and is concentrated around [[Lake Naivasha]]. However, the industry faces mounting [[Environmental Issues Kenya|environmental]] and [[labour]] concerns. It reflects Kenya's role in global [[Horticulture Export Industry|horticulture]] supply chains.
 
 ## Lake Naivasha Hub

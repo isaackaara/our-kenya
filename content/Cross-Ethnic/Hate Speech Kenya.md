@@ -1,5 +1,3 @@
-# Hate Speech Kenya
-
 Documented cases of ethnic hate speech in [[Cross-Ethnic Kenya|Kenyan politics and media]] reveal how political conflict can activate linguistic violence transcending normal discourse norms. Hate speech has occurred particularly during electoral periods and in contexts of political tension. The role of vernacular radio in spreading ethnic propaganda and hate speech is particularly documented, with radio becoming a medium for incitement during periods of political instability.
 
 The 2007-2008 post-election violence was preceded and accompanied by documented hate speech. Vernacular radio stations, broadcasting in Kikuyu, Luo, Kalenjin, and other languages, reportedly broadcast inflammatory speeches and propaganda. Political leaders delivered speeches containing ethnic incitement and dehumanizing language directed at other communities. The hate speech contributed to the escalation of political tensions into communal violence.

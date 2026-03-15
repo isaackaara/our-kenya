@@ -1,5 +1,3 @@
-# Kikuyu Age Sets
-
 The rika (age set) system was a fundamental organizing principle of Kikuyu society, creating cohorts that lasted a lifetime and transcended family and clan divisions. Boys who underwent circumcision together formed a rika that became their primary social and political cohort throughout their lives.
 
 ## The System

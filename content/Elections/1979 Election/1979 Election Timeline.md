@@ -1,5 +1,3 @@
-# 1979 Election Timeline
-
 The 1979 election occurred within a timeline shaped by Kenyatta's death and the transition to Moi's leadership. The specific timing and sequence of events that constituted the 1979 election provide context for understanding how the election fit within broader political developments.
 
 **August 22, 1978:** President Jomo Kenyatta died. Daniel arap Moi automatically became president under constitutional succession provisions. The transition of power occurred smoothly, with the armed forces and state machinery accepting Moi as the new president.

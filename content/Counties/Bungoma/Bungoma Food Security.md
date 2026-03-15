@@ -1,5 +1,3 @@
-# Bungoma Food Security
-
 Bungoma County has substantial capacity to produce food through agriculture, yet faces food security challenges from variable production, population pressures, and poverty. Food production includes staple crops (maize, wheat), cash crops (sugarcane), and supplementary foods (vegetables, legumes, livestock products). Food security varies seasonally and with agricultural productivity, requiring complementary livelihood strategies.
 
 ## Food Production

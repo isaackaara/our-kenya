@@ -1,5 +1,3 @@
-# Tharaka Education
-
 Education in Tharaka communities has been shaped by missionary activity, colonial policies, and post-independence national education systems. Mission [[Tharaka Colonial History]] remain important alongside government institutions.
 
 ## Mission Schools

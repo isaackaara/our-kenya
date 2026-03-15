@@ -1,5 +1,3 @@
-# Public Procurement Corruption: Inflated Contracts and Tender Rigging
-
 ## The Scale of Procurement
 
 Government procurement (government purchases of goods and services) represents the largest single category of government expenditure. Estimates suggest that procurement represents 30-40 percent of total government spending, potentially reaching KES 200+ billion annually.

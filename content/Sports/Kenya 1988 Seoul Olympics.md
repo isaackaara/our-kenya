@@ -1,5 +1,3 @@
-# Kenya 1988 Seoul Olympics: The Golden Generation
-
 Kenya's 1988 Seoul Olympics appearance saw the nation achieve four gold medals in athletics, establishing Kenya as a dominant Olympic power. The team included [[John Ngugi|John Ngugi]] (5000m), [[Peter Rono|Peter Rono]] (1500m), [[Paul Ereng|Paul Ereng]] (800m), and a gold in the 4x400m relay. This breadth of success across multiple distance events demonstrated Kenya's depth of running talent.
 
 The 1988 Games represented Kenya's breakthrough to consistent Olympic presence and medal production. The four golds confirmed that Kenya had established institutional and cultural systems for producing Olympic-level distance runners.

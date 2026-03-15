@@ -1,5 +1,3 @@
-# Wajir Pastoralism
-
 Pastoralism represents the fundamental economic system and way of life for the majority of Wajir County's population. Camel herding emerges as the dominant pastoral activity, with these animals perfectly adapted to the extreme arid conditions characterizing the region. The pastoral economy of Wajir is deeply embedded in cultural identity, social organization, and environmental adaptation strategies developed over centuries of inhabitation in northeastern Kenya's harsh landscape.
 
 ## Camel Herding as Primary Livelihood

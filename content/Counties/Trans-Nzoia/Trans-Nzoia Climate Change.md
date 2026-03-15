@@ -1,5 +1,3 @@
-# Trans-Nzoia Climate Change
-
 Climate change poses increasing risks to Trans-Nzoia County's agricultural productivity and food security. Mean temperatures are gradually increasing, potentially making highland areas less suitable for temperature-sensitive crops. Rainfall patterns are becoming increasingly erratic, with delayed onset of seasonal rains affecting planting timing. Precipitation intensity has increased, causing waterlogging and soil erosion in some areas. Drought frequency and severity have increased, with multi-year droughts occurring more frequently. New pests and diseases are appearing in previously safe zones as temperature changes alter ecological suitability. Highland crops (wheat, potatoes) face increasing risks as warming progresses. Livestock health and productivity are affected by changing climate and vegetation patterns.
 
 ## Agricultural Adaptation Responses

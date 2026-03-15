@@ -1,5 +1,3 @@
-# 1969 Election Youth
-
 Kenya's youth in 1969, particularly those who had come of age since independence in 1963, were entering Kenya's political system in a context profoundly different from that of their predecessors. These young Kenyans had not participated in the nationalist movement or the Mau Mau rebellion; they were products of post-independence Kenya and its educational system. The 1969 election was a formative political experience for this generation, introducing them to Kenya's electoral system and to its limitations.
 
 Many of Kenya's youth who participated in voting in 1969 were voting for the first time, experiencing Kenya's single-party electoral system as their initial political encounter. For Kikuyu youth, the voting experience was largely integrated into KANU's organizational networks and ethnic mobilization structures. The oathing campaigns of 1969 explicitly targeted youth, seeking to bind young Kikuyu to KANU and to Kenyatta through ritual and oath-taking. Youth organized into KANU youth wings, and their participation in party politics was channeled through these organizations.

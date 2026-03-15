@@ -1,5 +1,3 @@
-# Ngugi wa Thiong'o
-
 Ngugi wa Thiong'o (born 5 January 1938 in Limuru, [[Kiambu]]) is Kenya's most internationally celebrated novelist and one of Africa's most important literary figures. His trajectory, from English-language novelist to Gikuyu-language writer, from professor to political prisoner to exile, maps the tensions at the heart of the post-independence Kikuyu experience: the question of who the liberation was for, and in whose language it would be told.
 
 ## Key Facts

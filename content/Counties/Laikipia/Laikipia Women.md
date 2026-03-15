@@ -1,5 +1,3 @@
-# Laikipia Women
-
 Women in Laikipia County play important roles in pastoral, agricultural, and conservation activities. Women provide essential labor in pastoral communities and smallholder farms. Women's land rights remain contested despite legal recognition. Women's groups provide platforms for economic and social action. Education remains important for women's economic independence. Healthcare access, particularly reproductive health, remains important development priority.
 
 ## Pastoral Women

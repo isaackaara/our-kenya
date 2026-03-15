@@ -1,5 +1,3 @@
-# Radicalisation of Somali Youth in Kenya
-
 Some [[Kenyan Somali Identity|Somali Kenyans]] have been radicalized into [[Al-Shabaab in Kenya|Al-Shabaab]] and other militant organizations, motivated by complex factors including [[Kenyan Somali in Politics|political marginalization]], economic desperation, [[Kenyan Somali and Security State|security]] profiling, and ideological appeal of jihadist movements. Understanding radicalization requires examining both individual vulnerability factors and structural conditions that create grievances.
 
 ## Radicalisation Pathways

@@ -1,5 +1,3 @@
-# Kenya Land and Freedom Army
-
 The Mau Mau movement, formally known as the Kenya Land and Freedom Army (KLFA), emerged in the early 1950s as a [[Kenyan Nationalism History|rebellion against British colonial rule]]. While often remembered as a primarily Kikuyu movement, the Mau Mau war involved people from other ethnic groups, particularly Embu and Meru, revealing [[Cross-Ethnic Kenya|cross-ethnic dimensions]] of anti-colonial resistance.
 
 The primary drivers of Mau Mau rebellion were colonial land alienation and racial discrimination. The colonial state had seized productive land in the central highlands and distributed it to white settlers. The Kikuyu people, whose traditional lands were appropriated, experienced severe economic and social disruption. The rebellion emerged from this context of dispossession and racial subordination.

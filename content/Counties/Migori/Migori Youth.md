@@ -1,5 +1,3 @@
-# Migori Youth
-
 Youth in Migori County face substantial employment and income generation challenges, driving migration and contributing to social tensions. The youth population represents a significant demographic proportion.
 
 ## Unemployment and Underemployment

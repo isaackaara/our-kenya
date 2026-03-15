@@ -1,5 +1,3 @@
-# Kenyan Somali and Security State
-
 The Kenyan state has historically regarded the [[Kenyan Somali Identity|Somali]] community with suspicion, viewing them as potentially disloyal due to their trans-national ties and past secessionist movement. This suspicion has manifested in harsh [[Shifta War Overview|security]] policies, collective punishment, and marginalization. The relationship between the Somali community and Kenya's security apparatus remains fraught and characterized by mutual distrust.
 
 ## Historical Roots of Suspicion

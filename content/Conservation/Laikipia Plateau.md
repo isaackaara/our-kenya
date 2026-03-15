@@ -1,5 +1,3 @@
-# Laikipia Plateau
-
 Laikipia Plateau, located in central Kenya at approximately 2,000 meters elevation, represents a unique landscape: a mosaic of private ranches, community conservancies, national reserves, and pastoral group ranches. Spanning approximately 9,400 square kilometers, Laikipia contains one of Kenya's highest concentrations of large wildlife outside of the [[Kenya Conservation Overview|national park system]].
 
 ## Mixed Land Tenure System

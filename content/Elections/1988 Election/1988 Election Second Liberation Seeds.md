@@ -1,5 +1,3 @@
-# 1988 Election Second Liberation Seeds
-
 The 1988 election planted seeds that would grow into the Second Liberation movement for multiparty democracy. The visible rigging and brazen electoral fraud delegitimized the one-party system. The public outrage demonstrated that Kenyans would resist electoral manipulation. Churches, lawyers, civil society organizations, and ordinary citizens recognized that one-party democracy could not be reformed and that multiparty competition was necessary. The 1988 election convinced many Kenyans that the Moi government had to be fundamentally challenged.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Makueni NGO Sector
-
 Non-governmental organizations operating in Makueni County focus on water, food security, health, education, and development support. The NGO sector complements government services and implements development programmes addressing Makueni's critical challenges. NGOs work in partnership with county government, communities, and international donors.
 
 Water organizations have been particularly prominent in Makueni, given the county's chronic water scarcity. NGOs support sand dam construction, water point management, and water conservation technologies. Community-based water management organizations operate water systems with NGO support.

@@ -1,5 +1,3 @@
-# Tiriki
-
 The Tiriki are a sub-group of the Luhya confederation located primarily in [[../Counties/Vihiga/Vihiga County|Vihiga County]], in the fertile hills of western Kenya. Their name derives from their geographical location and migration history from [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]], and they are particularly noted for their circumcision ceremonies (Imbalu) which feature elaborate masking and body paint traditions.
 
 ## Unique Cultural Position: Circumcision from Nandi Contact

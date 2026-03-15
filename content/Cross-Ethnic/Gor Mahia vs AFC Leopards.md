@@ -1,5 +1,3 @@
-# Gor Mahia vs AFC Leopards
-
 Kenya's oldest and most intense football rivalry is the Mashemeji Derby (the "Family Clash"), between Gor Mahia and AFC Leopards. The two clubs represent Luo and Luhya ethnic identities respectively. The rivalry has occasionally sparked ethnic violence. It is also one of the most visible, [[Cross-Ethnic Kenya|peaceable expressions of ethnic competition]] in Kenyan culture.
 
 ## Key Facts

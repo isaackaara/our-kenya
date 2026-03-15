@@ -1,5 +1,3 @@
-# Luhya Women in Politics
-
 Luhya women have entered electoral politics and held significant political offices in the post-independence and particularly post-2010 periods, though they remain underrepresented in senior positions compared to their population share.
 
 ## County and National Politics

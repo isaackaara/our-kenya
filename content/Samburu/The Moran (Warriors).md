@@ -1,5 +1,3 @@
-# The Moran (Warriors)
-
 The lmuran (warriors or moran in English) represent a distinct male age grade in [[Samburu]] society, occupying a privileged yet restricted social position. Moran culture emphasizes warrior virtues, distinctive [[Samburu Dress and Adornment|dress and adornment]], and social prestige. The moran system has persisted through cultural change, though contemporary functions have evolved.
 
 ## Age Grade Definition and Entry

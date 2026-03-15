@@ -1,5 +1,3 @@
-# Kisumu Founded 1901: Railway Terminus Becomes City
-
 Kisumu was founded in 1901 as the western terminus of the Uganda Railway. Originally called Port Florence, the settlement emerged at a strategic location on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]'s eastern shore where the railway line terminated and water transport connections began.
 
 ## The Uganda Railway Terminus

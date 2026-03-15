@@ -1,5 +1,3 @@
-# Devolution Legacy
-
 Kenya's 2010 constitution devolved significant power from the central government to 47 counties. This represented a fundamental shift in how Kenya was governed. Instead of a highly centralized state, Kenya adopted a two-tier system with national and county governments sharing power.
 
 The promise of devolution was genuine and appealing. Services would reach people at the local level rather than being controlled from Nairobi. Communities would have representation in government closer to home. The dominance of a few ethnic groups in national politics would be diluted as county governments represented local constituencies. Previously neglected areas might finally receive investment and attention.

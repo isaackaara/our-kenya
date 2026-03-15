@@ -1,5 +1,3 @@
-# Luo Ancestor Veneration
-
 Ancestral spirits are central to Luo spirituality. The *juogi* (plural of *juok*) are not understood as dead but as active presences in family life, requiring regular attention and capable of causing illness if neglected.
 
 ## The Nature of Ancestral Spirits

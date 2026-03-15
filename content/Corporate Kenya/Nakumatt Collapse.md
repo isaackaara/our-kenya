@@ -1,5 +1,3 @@
-# Nakumatt Collapse
-
 Nakumatt was once Kenya's largest [[Retail Revolution Kenya]] chain, with 60+ stores across East Africa. It collapsed spectacularly in 2018 due to overexpansion, debt accumulation, supplier abandonment, and alleged management fraud. The collapse devastated suppliers and employees and accelerated consolidation in Kenya's retail sector.
 
 ## Rise and Dominance

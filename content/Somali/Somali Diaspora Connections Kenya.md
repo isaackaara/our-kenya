@@ -1,5 +1,3 @@
-# Somali Diaspora Connections to Kenya: Remittances, Investment, and Transnational Networks
-
 The global Somali diaspora (concentrated in the USA, UK, Canada, Scandinavia, and other countries) maintains active connections to Kenya through remittances, real estate and business investment, and transnational family networks. These diaspora connections generate capital flows estimated in the hundreds of millions of dollars annually, supporting Kenya-based Somali families and financing commercial ventures.
 
 ## Diaspora Population and Geographic Distribution

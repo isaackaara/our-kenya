@@ -1,5 +1,3 @@
-# Hawala Money Transfer
-
 Hawala (also called hundi) is an informal money transfer system that has existed for centuries and remains essential to [[Somali]] economic life in Kenya and the [[Horn of Africa Context|Horn of Africa]]. Money is transferred without physical movement of currency, relying on networks of trusted brokers. The system enables remittances from [[Kenyan Somali Diaspora (Global)|diaspora]] to families in Kenya and [[Somalia]] and facilitates international trade.
 
 ## How Hawala Works

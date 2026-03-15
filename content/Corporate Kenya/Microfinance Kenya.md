@@ -1,5 +1,3 @@
-# [[Microfinance Kenya]] Kenya
-
 Microfinance institutions in Kenya provide banking and lending services to low-income individuals and micro-enterprises excluded from the mainstream banking system. Kenya's microfinance sector has been one of Africa's most developed, though it faces competition from mobile money providers and digital lenders.
 
 ## Major Microfinance Institutions

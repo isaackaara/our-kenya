@@ -1,5 +1,3 @@
-# Kisii and Migration
-
 Land pressure, limited local economic opportunities, and the search for better livelihoods have driven substantial Gusii migration. From the colonial period through contemporary times, significant Gusii populations have migrated to Nairobi, the Rift Valley, Uganda, Tanzania, and other destinations. This diaspora has reshaped Gusii society, created transnational networks, and positioned the Gusii as a dispersed yet internally connected population.
 
 ## Historical Migration Patterns (Colonial Period)

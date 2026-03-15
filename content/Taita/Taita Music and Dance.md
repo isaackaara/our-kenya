@@ -1,5 +1,3 @@
-# Taita Music and Dance
-
 Traditional Taita music and dance forms serve religious, social, and entertainment purposes. These art forms reflect Taita cultural values and have evolved as the community has engaged with modern influences.
 
 ## Traditional Musical Instruments

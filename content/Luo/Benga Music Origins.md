@@ -1,5 +1,3 @@
-# [[Benga Music Origins.md|benga music]] Origins
-
 Benga emerged in Nairobi in the 1960s as Luo musicians adapted traditional Luo musical forms to electric guitar. The genre became Kenya's national popular music, dominating airwaves and dance halls for decades. Daniel Owino Misiani pioneered the form and remains its most celebrated exponent.
 
 ## Emergence in Nairobi

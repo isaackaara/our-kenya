@@ -1,5 +1,3 @@
-# Bomet Politics
-
 Bomet County politics reflects Kipsigis ethnic identity and competition for county resources. Political dynamics shape governance and development following the county's establishment in 2013 under Kenya's devolution framework.
 
 ## Political Competition

@@ -1,5 +1,3 @@
-# Mamlaka Hill Chapel Music
-
 Mamlaka Hill Chapel, established in Nairobi during the charismatic church boom of the 1980s, became one of Kenya's most influential centers for contemporary Christian music. The megachurch's music ministry shaped the sound of Kenyan gospel, trained generations of worship leaders, and demonstrated how churches could function as professional music production centers.
 
 The church exemplified the [[Music/Praise and Worship Movement Kenya|praise and worship movement's]] transformative impact on Kenyan Christianity. Unlike traditional churches with formal liturgies and hymn-based worship, Mamlaka Hill embraced contemporary musical forms, investing in professional sound systems, instruments, and trained musicians. Sunday services featured extended worship sessions with live bands performing at levels matching or exceeding secular concert standards.

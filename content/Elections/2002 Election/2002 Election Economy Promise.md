@@ -1,5 +1,3 @@
-# 2002 Election Economy Promise
-
 Kibaki's campaign made expansive economic promises: zero tolerance for corruption, free primary education, expanded healthcare, infrastructure development, and rapid GDP growth. These promises resonated with voters exhausted by the economic crisis of 1997-2002. Kibaki positioned himself as a technocrat who could rapidly restore economic performance and restore investor confidence. The promise of economic renewal through institutional reform and anti-corruption campaigns became central to NARC's appeal, particularly to business interests, educated voters, and those concerned about Kenya's international economic standing. Whether these promises could be fulfilled remained an open question, but they provided voters with hope for change.
 
 ## See Also

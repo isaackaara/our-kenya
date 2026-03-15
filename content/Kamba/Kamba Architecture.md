@@ -1,5 +1,3 @@
-# Kamba Architecture
-
 The traditional Kamba homestead (musyi) displays distinctive architectural features reflecting [[Kamba Social Structure|social organization]], [[Kamba Gender Roles|gender roles]], and adaptation to semi-arid environments. These structures, while transformed by modern materials and designs, continue to shape [[Kamba|Kamba]] spatial organization and domestic life.
 
 ## The Homestead Layout

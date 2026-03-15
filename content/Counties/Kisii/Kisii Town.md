@@ -1,5 +1,3 @@
-# Kisii Town
-
 Kisii town, officially designated Gusii City, is the county headquarters and commercial hub of southwestern Kenya. Located in the heart of Kisii County, the town serves as the administrative and economic center for the region's 1.3 million residents.
 
 ## History and Development

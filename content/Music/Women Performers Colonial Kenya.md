@@ -1,5 +1,3 @@
-# Women Performers Colonial Kenya
-
 Women who performed music publicly in colonial Kenya occupied a difficult social position, navigating between artistic ambition, economic necessity, and conservative social norms that viewed female public performance as morally suspect. Their stories reveal the intersection of gender, colonialism, and musical culture, demonstrating both constraints and creative strategies for navigating those constraints.
 
 The social stigma was intense and multifaceted. In many Kenyan communities, respectable women did not perform publicly beyond ceremonial contexts controlled by elders and community structures. Public performance, particularly for payment and in venues associated with drinking and dancing, was associated with prostitution or moral looseness. Women who pursued musical careers risked their reputations and often faced family rejection.

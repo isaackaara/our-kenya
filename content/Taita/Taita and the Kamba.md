@@ -1,5 +1,3 @@
-# Taita and the Kamba
-
 The Kamba (also known as Akamba) are neighboring Bantu-speaking people who live immediately north of the Taita Hills. The Taita and Kamba have maintained relationships characterized by trade, some intermarriage, and periodic conflict over resources.
 
 ## Neighboring Peoples

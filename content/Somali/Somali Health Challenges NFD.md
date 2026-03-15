@@ -1,5 +1,3 @@
-# Somali Health Challenges NFD
-
 The [[Water Scarcity Northern Kenya|Northern Frontier District]] counties with significant Somali populations, particularly Wajir, Mandera, and Garissa, face acute health challenges substantially exceeding national averages. These challenges reflect infrastructure deficits, poverty, pastoral livelihood stresses, and historical underinvestment in healthcare systems serving marginalized communities.
 
 ## Maternal and Child Mortality

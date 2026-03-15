@@ -1,5 +1,3 @@
-# Kalenjin Food and Ceremony
-
 Kalenjin food and ritual ceremonies are central to cultural identity, marking life transitions, reinforcing community bonds, and embodying ecological adaptation to Rift Valley environments. Distinctive foods, fermented beverages, and ceremonies encode Kalenjin history, social organization, and values.
 
 ## Key Foods

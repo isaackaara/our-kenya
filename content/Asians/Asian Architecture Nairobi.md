@@ -1,5 +1,3 @@
-# Asian Architecture Nairobi
-
 The visual character and [[architecture]] of [[Nairobi]], particularly in older neighborhoods, was shaped by [[Asian Kenyans|Asian]] builders, merchants, and designers. [[Asian Kenyans|Asian]]-built structures reflect both [[India|Indian]] [[architecture|architectural]] traditions and adaptation to [[East Africa|East African]] climate and materials.
 
 ## The Distinctive Style

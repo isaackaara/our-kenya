@@ -1,5 +1,3 @@
-# George Ramogi
-
 George Ramogi (died 1997) was a pioneering [[Benga Music|benga]] guitarist and bandleader who helped establish the genre's foundational sound in the early 1960s. Known as one of the "fathers of Luo Benga" alongside [[D.O. Misiani]], Ramogi founded the Continental Kilo Jazz Band (C.K. Jazz) in 1965, which became one of Kenya's most influential musical groups. His guitar technique, which translated traditional [[Luo]] nyatiti patterns to the electric guitar, set the standard that subsequent benga musicians would follow.
 
 Ramogi began his musical career in the late 1950s, performing with various bands in Nairobi's emerging music scene. In 1965, he formed the Luo Sweet Band with several colleagues, which quickly evolved into the Continental Kilo Jazz Band. The name reflected the band's aspirations: "Continental" suggested international sophistication, while "Kilo" honored Ramogi's patron, politician C.K. Argwings-Kodhek, a prominent [[Luo]] lawyer and independence hero who supported the arts. When Argwings-Kodhek died in 1969 under mysterious circumstances, Ramogi dedicated several compositions to his memory.

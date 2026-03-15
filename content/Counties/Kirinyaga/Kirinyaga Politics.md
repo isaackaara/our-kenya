@@ -1,5 +1,3 @@
-# Kirinyaga Politics
-
 Kirinyaga's political history reflects its [[../../Kikuyu/Kikuyu|Kikuyu]] majority population, agricultural prosperity, and central role in Kenya's post-independence development. Political leadership has generally come from educated Kikuyu elites with business and farming interests. The county has produced several national politicians and government ministers. Electoral politics focus on agricultural issues, infrastructure development, and resource allocation.
 
 ## Post-Independence Development

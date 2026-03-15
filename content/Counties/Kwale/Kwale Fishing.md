@@ -1,5 +1,3 @@
-# Kwale Fishing
-
 Fishing represents one of Kwale's most important economic sectors, providing food and income for thousands of families while contributing significantly to national fish production. The combination of artisanal small-scale fishing, semi-industrial operations, and tourism-oriented sport fishing creates a complex and sometimes contentious marine resource utilization landscape.
 
 Artisanal fishing, conducted by individual fishers or small family-based crews using non-motorized or small motorized boats, dominates coastal fishing in Kwale. Fishers use handlines, small nets, traps, and other traditional methods to target reef fish, pelagic species, and shellfish. Artisanal fishing communities living directly on beaches have practiced fishing for centuries, with accumulated knowledge of fish behavior, seasonality, and marine ecology.

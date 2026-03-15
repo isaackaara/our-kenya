@@ -1,5 +1,3 @@
-# Narok Climate
-
 Narok County's climate is characterized by savanna grassland conditions with seasonal rainfall variations that support pastoral livelihoods, wildlife populations, and increasingly rainfed agriculture in elevated areas.
 
 ## Rainfall Patterns

@@ -1,5 +1,3 @@
-# The Eurobond Controversy: USD 1 Billion Missing
-
 ## The Issuance
 
 In June 2014, the Kenyan government issued a [[Eurobond]] worth USD 2 billion. A Eurobond is an international bond issued in foreign currency (in this case, US dollars) on international capital markets.

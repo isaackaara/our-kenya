@@ -1,5 +1,3 @@
-# Meru Beadwork and Crafts
-
 ## Overview
 
 Traditional [[Meru people|Meru]] beadwork and crafts represent centuries of artistic expression and cultural identity. These handcrafted items, created primarily by women, carry deep cultural significance in marking life stages, social status, and ethnic identity. The crafts include intricate beadwork, pottery, basketry, and woodwork that once served essential economic and ceremonial functions.

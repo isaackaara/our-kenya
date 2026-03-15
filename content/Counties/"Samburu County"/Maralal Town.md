@@ -1,5 +1,3 @@
-# Maralal Town
-
 Maralal is Samburu County's headquarters, a highland town situated at approximately 2,300 meters elevation in the Samburu landscape. The town's higher elevation creates cooler, more temperate conditions than surrounding pastoral rangelands, providing relief from the county's lower-altitude heat.
 
 The town functions as the administrative centre for Samburu County government. Government offices, courts, and administrative buildings cluster in the town centre. Government presence provides employment and services to surrounding communities.

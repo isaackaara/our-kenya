@@ -1,5 +1,3 @@
-# Samburu County
-
 [[Samburu County]] covers approximately 20,203 square kilometers of semi-arid northern Kenya, located between the Equator and the Ethiopian border. The county consists of [[Maralal Town|Maralal]] as the capital town, with other towns including Baragoi and Wamba. The terrain is characterized by low rainfall, sparse vegetation, and water scarcity, shaping livelihood strategies and development challenges.
 
 ## Geography and Terrain

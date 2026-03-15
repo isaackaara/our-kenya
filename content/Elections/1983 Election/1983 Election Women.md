@@ -1,5 +1,3 @@
-# 1983 Election Women
-
 Women remained excluded from standing for Parliament in 1983, continuing the pattern from previous elections. Women participated as voters and organizers but could not be elected. Women's organizations mobilized women voters, but the lack of female candidates meant that women's parliamentary representation remained at zero.
 
 ## See Also

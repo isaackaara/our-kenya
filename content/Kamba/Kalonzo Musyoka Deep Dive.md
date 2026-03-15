@@ -1,5 +1,3 @@
-# Kalonzo Musyoka Deep Dive
-
 Stephen Kalonzo Musyoka (born 1953, Tseikuru, [[../Counties/Kitui/Kitui County|Kitui County]]) is a prominent Kamba lawyer and politician whose career spans over 40 years. His trajectory illustrates both the opportunities for Kamba advancement in independent Kenya and the challenges of building national political coalitions outside the dominant ethnic alliances.
 
 ## Early Career and Legal Background

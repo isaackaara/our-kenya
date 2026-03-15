@@ -1,5 +1,3 @@
-# Bomet Town
-
 Bomet town is the county headquarters and administrative center of Bomet County, serving as the commercial hub for the southwestern Rift Valley region. The town's strategic location supports regional commerce and provides access to the Maasai Mara ecosystem.
 
 ## Location and Significance

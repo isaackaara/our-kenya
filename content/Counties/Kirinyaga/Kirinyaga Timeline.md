@@ -1,5 +1,3 @@
-# Kirinyaga Timeline
-
 This timeline documents major events and developments in Kirinyaga County's history through 2026.
 
 ## Pre-Colonial Period

@@ -1,5 +1,3 @@
-# Miraa and Health Debate
-
 [[Miraa]] chewing is surrounded by scientific, social, and political debate about its health effects, addictive properties, and social contexts. The debate reflects different perspectives on whether [[miraa]] should be regulated, permitted, or encouraged as an agricultural product in [[Igembe]] and [[Tigania]].
 
 ## Health Effects and Scientific Evidence

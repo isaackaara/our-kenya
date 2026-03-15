@@ -1,5 +1,3 @@
-# 1983 Election Post-Coup Atmosphere
-
 Kenya in the months following the August 1982 air force coup attempt was marked by fear, suspicion, and security crackdowns. The failed coup had shocked the political establishment and had prompted the government to arrest hundreds of suspected conspirators and to implement tight security measures throughout the country.
 
 The coup attempt itself had been carried out by junior air force officers who had seized the air force base at Embakasi and had briefly held military installations. The coup was suppressed by loyal military units within hours, and the conspirators were arrested. However, the attempt had demonstrated the possibility of coup plotting and had raised questions about the loyalty of the military and the security of the political order.

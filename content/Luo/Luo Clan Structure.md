@@ -1,5 +1,3 @@
-# Luo Clan Structure
-
 Luo society is organised into twelve major clans (oganda), each occupying distinct territories and maintaining founding myths and genealogies. Clan identity shapes marriage rules, dispute resolution, and social belonging. The largest clans, Seme, Gem, Alego, Uyoma, and Asembo, remain powerful political and cultural units.
 
 ## The Major Clans

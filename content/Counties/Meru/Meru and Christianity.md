@@ -1,5 +1,3 @@
-# Meru and Christianity
-
 Methodist and Catholic missionaries transformed Meru's religious landscape beginning in the early twentieth century. Prior to missionary activity, Meru communities adhered to traditional African religious systems centered on belief in Ngai (God), residing on [[../../Conservation/Mount Kenya National Park|Mount Kenya]], and veneration of ancestors. Missionary activity introduced Christianity as an alternative religious framework and became intertwined with colonial administration, education, and social change.
 
 ## Methodist Mission

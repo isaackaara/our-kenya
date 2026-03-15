@@ -1,5 +1,3 @@
-# Baidakho (Idakho)
-
 The Baidakho, also known as Abitakho or Abidakho, are a Luhya sub-group primarily residing in [[../Counties/Kakamega/Kakamega County|Kakamega County]], western Kenya. They occupy the southern region of Kakamega District (now administratively organized as Ikolomani Constituency) and speak Lwidakho, the Idakho dialect of the Luhya language family.
 
 ## Territory and Location

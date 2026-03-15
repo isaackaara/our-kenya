@@ -1,5 +1,3 @@
-# 2013 Election Timeline
-
 This timeline documents key dates and events in Kenya's 2013 general election process, from campaign initiation through the Supreme Court petition outcome.
 
 ## Pre-Election Phase

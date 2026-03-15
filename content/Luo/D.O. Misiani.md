@@ -1,5 +1,3 @@
-# D.O. Misiani
-
 Daniel Owino Misiani (February 22, 1940 to May 17, 2006) was a Tanzanian-born musician based in Kenya who became one of East Africa's most influential musicians and the principal architect of [[[[Benga Music Origins.md|benga music]] Origins.md|Benga Music Origins]] as a defined genre. Known as the "King of History" in Kenya and as "the grandfather of benga" internationally, Misiani led the Shirati Jazz collective for decades and created a body of work that documented Kenyan history, politics, and social life while entertaining millions.
 
 ## Early Life and Musical Beginnings

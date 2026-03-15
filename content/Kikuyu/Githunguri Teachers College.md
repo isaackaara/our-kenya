@@ -1,5 +1,3 @@
-# Githunguri Teachers College
-
 The Kenya African Teachers College at Githunguri, usually called Githunguri Teachers College, was the crown jewel of the Kikuyu independent education movement, founded in 1939 in [[Kiambu]] district as a direct response to missionary control of African education. It trained African teachers for independent schools across East and Central Africa, and under [[Jomo Kenyatta]]'s leadership as principal from 1946, it became the intellectual and political hub of Kikuyu nationalism in the years immediately before the [[Mau Mau Uprising]].
 
 ## Key Facts

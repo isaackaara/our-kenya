@@ -1,5 +1,3 @@
-# Nakuru City
-
 Nakuru city was founded in 1904 as a railway station on the Uganda Railway line. The railway brought settlers, traders, and administrative officials to what became the fourth-largest city in Kenya. The name "Nakuru" derives from [[../../Maasai/Maasai|Maasai]] word "narkuriok", meaning "dusty" or "place of dust", referring to the arid landscape of the early settlement period.
 
 The city evolved rapidly after independence. By the 1980s, Nakuru had become a major commercial and industrial hub. Today it serves as the provincial headquarters of the former Rift Valley Province and is the capital of [[../Nakuru/Nakuru County|Nakuru County]]. The city's economy centers on agriculture (coffee, pyrethrum), industry (cement, creameries), horticulture, and increasingly, real estate development.

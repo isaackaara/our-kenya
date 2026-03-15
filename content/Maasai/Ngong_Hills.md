@@ -1,5 +1,3 @@
-# Ngong Hills
-
 ## Geographic Location
 
 The Ngong Hills are a prominent geographic feature southwest of Nairobi, roughly 15 kilometers from the city center. They form a ridge of hills running in a north-south direction, with peaks reaching approximately 2,400 meters above sea level. The hills are visible from Nairobi and have served as a landmark and border marker for centuries. The ridge overlooks the Rift Valley to the west.

@@ -1,5 +1,3 @@
-# Nyamira Food Culture
-
 The communities in Nyamira County have developed distinctive food traditions reflecting agricultural production and cultural practices. Food culture remains central to family life, celebrations, and social identity.
 
 ## Traditional Staples

@@ -1,5 +1,3 @@
-# Ismaili Community
-
 The Ismaili Muslims, followers of the Aga Khan(the hereditary Imam of the Shia Ismaili tradition), have been present in East Africa since the 19th century. The community represents approximately 25 to 30 million adherents globally(about 5% of the world's Shia Muslim population). In Kenya and East Africa, Ismailis have played a significant role in commerce, education, healthcare, and philanthropy through the Aga Khan Development Network(AKDN), an institutional ecosystem that has transformed community life across the region.
 
 ## Key Facts

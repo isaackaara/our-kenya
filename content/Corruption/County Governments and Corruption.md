@@ -1,5 +1,3 @@
-# County Governments and Corruption: Devolution and New Centers of Graft
-
 ## The 2010 Constitution and Devolution
 
 Kenya's 2010 constitution devolved significant power and resources to 47 county governments. Each county has its own governor, county assembly, and allocated budget.

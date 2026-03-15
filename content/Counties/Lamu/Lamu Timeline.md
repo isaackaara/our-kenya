@@ -1,5 +1,3 @@
-# Lamu Timeline
-
 Key dates and events in Lamu County history and contemporary development through 2026.
 
 Pre-1700: Swahili settlements on Lamu Island established, trading in the Indian Ocean network. Settlement evidence from archaeology suggests habitation dating back to the medieval period.

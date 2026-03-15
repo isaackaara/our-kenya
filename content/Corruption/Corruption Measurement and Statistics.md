@@ -1,5 +1,3 @@
-# Corruption Measurement and Statistics
-
 ## Overview
 
 Measuring [[Corruption in Kenya Overview|corruption]] is methodologically challenging because much corruption occurs covertly. However, multiple approaches provide estimates of corruption scale: (1) public perception surveys, (2) expert assessments, (3) financial [[Auditor General Role|audits]], (4) reported bribery experiences. These measures converge on conclusion that corruption is endemic and substantial in Kenya.

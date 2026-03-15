@@ -1,5 +1,3 @@
-# Music and HIV AIDS Awareness Kenya
-
 Kenyan musicians addressed the HIV/AIDS epidemic that devastated East Africa from the 1980s through 2000s, using their platforms to educate, reduce stigma, and promote prevention. While the crisis killed musicians and decimated communities, it also demonstrated music's power as public health communication tool and social advocacy medium.
 
 The [[Cross-Ethnic/HIV AIDS in Kenya|epidemic]] emerged in Kenya during the 1980s when disease remained poorly understood and deeply stigmatized. Early responses included denial, fear, and discrimination against infected persons. Musicians faced difficult choices: ignore crisis affecting their communities or risk social and commercial consequences of addressing taboo subject.

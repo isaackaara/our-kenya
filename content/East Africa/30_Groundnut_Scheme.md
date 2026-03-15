@@ -1,5 +1,3 @@
-# The East African Groundnut Scheme
-
 After World War II, Britain attempted a massive agricultural development scheme in Tanganyika (now Tanzania) to grow groundnuts (peanuts) on an industrial scale. The [[Groundnut Scheme]] became one of the most infamous colonial development failures and serves as a cautionary tale about top-down development hubris.
 
 ## The Scheme's Origins

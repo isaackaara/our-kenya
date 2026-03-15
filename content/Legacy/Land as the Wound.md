@@ -1,5 +1,3 @@
-# Land as the Wound
-
 Every major ethnic conflict in Kenya traces back to land. Every major ethnic grievance involves dispossession. Land is not "one issue among many" in Kenya. It is the issue that underlies all others. Understanding Kenya requires understanding the colonial seizure of land and the post-colonial redistribution of dispossessed land that created new grievances.
 
 ## Key Facts

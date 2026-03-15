@@ -1,5 +1,3 @@
-# Political Reform and Unity
-
 Political reform initiatives addressing [[Kenya]]'s electoral system and governance structures represent attempts to transcend [[Cross-Ethnic Kenya|ethnic politics]] through institutional redesign. The 2010 constitution's devolution framework, proportional representation elements, and protective mechanisms for minorities demonstrate efforts to structure [[National Identity Beyond Tribe|politics beyond ethnic competition]]. The question of whether institutional reform can reduce ethnic political salience remains contested.
 
 Devolution, creating forty-seven county governments with elected governors and assemblies, attempted to distribute political power and resources beyond the national level. Devolution theoretically reduces the winner-take-all character of presidential politics by creating multiple loci of power and resource distribution. Devolution's effects on ethnic politics remain mixed. Counties have sometimes reproduced ethnic voting patterns at local level. However, some evidence suggests that county politics sometimes operates along different lines than national politics.

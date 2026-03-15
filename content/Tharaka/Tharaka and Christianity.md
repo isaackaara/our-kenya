@@ -1,5 +1,3 @@
-# Tharaka and Christianity
-
 Christian missionary activity in the Tharaka-Nithi region led to widespread conversion among the Tharaka and transformation of religious practice. Various Christian denominations are now present in the region.
 
 ## Missionary Activity

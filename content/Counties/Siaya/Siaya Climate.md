@@ -1,5 +1,3 @@
-# Siaya Climate
-
 [[Siaya County]]'s climate is shaped by its location on the northeastern shore of [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] and its position within Kenya's tropical and subtropical climatic zones. The county experiences a warm, humid climate with significant seasonal rainfall variation.
 
 ## Temperature Patterns

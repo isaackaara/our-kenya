@@ -1,5 +1,3 @@
-# 2002 Election Civil Society
-
 Civil society organizations played expanded roles in 2002 compared to 1997, conducting voter education, election monitoring, and advocacy for institutional reform. Churches, human rights organizations, and community groups mobilized constituencies and provided platforms for opposition candidates. The Kenya Human Rights Commission, civil society coordinating bodies, and women's and youth organizations all contributed to creating an informed electorate. International donors continued supporting civil society democracy work, creating resources for monitoring and voter education. Civil society's contributions to the 2002 election were recognized by international observers as supporting the improved quality of the election compared to 1997.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Bamarama (Marama)
-
 The Bamarama, commonly referred to as the Marama, are a Luhya sub-group residing primarily in [[../Counties/Kakamega/Kakamega County|Kakamega County]], western Kenya. The Marama occupy their own distinct territory within the greater Luhya region and maintain cultural practices and language that identify them within the broader Luhya confederation.
 
 ## Territory

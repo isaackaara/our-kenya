@@ -1,5 +1,3 @@
-# Narok Health
-
 Narok County's health sector faces challenges of limited facility density, resource constraints, disease burden including climate-related illnesses, and service gaps particularly affecting pastoral communities in remote areas.
 
 ## Healthcare Infrastructure

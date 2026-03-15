@@ -1,5 +1,3 @@
-# Bunge la Mwananchi
-
 ## Overview
 
 Bunge la Mwananchi (Parliament of Citizens) is a grassroots participatory [[Corruption in Kenya Overview|democracy]] initiative that holds regular public forums in Nairobi's parks where ordinary citizens discuss policy issues and hold government accountable. The initiative has been a venue for citizens to discuss [[Anti-Corruption Civil Society|corruption]], governance failures, and policy concerns without relying on formal political institutions.

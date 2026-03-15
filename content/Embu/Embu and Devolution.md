@@ -1,5 +1,3 @@
-# Embu and Devolution
-
 The 2010 Kenyan constitution's devolution framework created Embu [[Embu County]] as a semi-autonomous governance unit with elected governor and county assembly. This devolution has significantly shaped Embu political dynamics and service delivery, enabling county-specific policy and resource allocation while creating governance challenges.
 
 ## County Government Structure

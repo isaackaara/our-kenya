@@ -1,5 +1,3 @@
-# [[Giriama]] [[language]] and [[dialects]]
-
 The Giriama language is the most widely spoken Mjikenda language due to the Giriama being the largest sub-group. Giriama carries distinctive cultural knowledge and continues to be used in many Giriama communities, though it faces pressure from Swahili and English. Understanding Giriama language and its dialects illuminates Giriama cultural and social organization.
 
 ## Linguistic Status and Classification

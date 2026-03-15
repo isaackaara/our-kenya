@@ -1,5 +1,3 @@
-# West Pokot Climate
-
 The climate of [[West Pokot County]] is characterized as semi-arid to arid, with significant spatial variation driven by elevation gradients ranging from approximately 1,000 meters in the Rift Valley floor to over 2,500 meters in the [[Cherangany Hills]]. This elevation variation creates distinct climatic zones from hot, dry lowlands to cooler, relatively wetter highlands, generating microclimates that support different livelihood systems and vegetation types. Water availability, governed by irregular and insufficient rainfall, is the primary climatic constraint affecting agricultural production, pastoral systems, and human settlements throughout the county. Understanding West Pokot's climate is essential to understanding the economic, social, and political dynamics of the region.
 
 ## Precipitation Patterns

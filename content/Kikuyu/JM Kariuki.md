@@ -1,5 +1,3 @@
-# JM Kariuki
-
 Josiah Mwangi Kariuki (1929-1975) was a Kikuyu politician, former Mau Mau detainee, and populist Member of Parliament whose murder became the defining scandal of the [[Kenyatta Presidency]]. He was the loudest voice for economic justice in post-independence Kenya, and he paid for it with his life.
 
 ## Key Facts

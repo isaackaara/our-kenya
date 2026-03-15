@@ -1,5 +1,3 @@
-# Kwale County
-
 Kwale County is the southernmost Mijikenda homeland, primarily inhabited by the Digo and Duruma sub-groups. Located south of Mombasa, the county covers approximately 4,000 square kilometers of mixed coastal and inland terrain, with a population of approximately 867,000 according to the 2019 census.
 
 ## Geography and Location

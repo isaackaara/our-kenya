@@ -1,5 +1,3 @@
-# Jua Kali Sector
-
 The [[Jua Kali]] sector comprises Kenya's informal artisanal and small-scale manufacturing, including welding, metalwork, carpentry, and other skilled trades. The sector operates outside formal regulation but employs hundreds of thousands and produces goods and services for local markets.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Wajir Climate
-
 Wajir County experiences one of Kenya's most extreme arid climates, characterized by minimal rainfall, high temperatures, and severe seasonality affecting all aspects of human and environmental systems. The climate shapes pastoral livelihood systems, water availability, vegetation patterns, and food security dynamics. Climate patterns demonstrate high inter-annual variability, with some years experiencing destructive droughts while others receive unexpected rainfall.
 
 ## Temperature and Aridity

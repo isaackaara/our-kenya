@@ -1,5 +1,3 @@
-# 2002 Rainbow Coalition
-
 Mwai Kibaki's 2002 presidential election victory was premised on the [[Rainbow Coalition]] (NARC), a genuinely cross-ethnic political alliance that defeated the KANU government and Daniel arap Moi's chosen successor, Uhuru Kenyatta. The coalition demonstrated the possibility of constructing and implementing a [[Cross-Ethnic Kenya|cross-ethnic political alliance]] at the national level, though the coalition's rapid dissolution also revealed the fragility of such arrangements.
 
 The Rainbow Coalition brought together political leaders and movements from multiple ethnic communities. Mwai Kibaki, a Kikuyu politician and former Vice President, ran as the presidential candidate. Raila Odinga, a prominent Luo politician and previously Kibaki's political rival, agreed to campaign for Kibaki with the expectation of becoming Prime Minister. Kalonzo Musyoka, a Kamba politician, served as Vice Presidential candidate. Leaders from other communities including Kalenjin, Luhya, and others joined the coalition.

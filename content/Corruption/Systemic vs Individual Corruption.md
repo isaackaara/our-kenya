@@ -1,5 +1,3 @@
-# Systemic vs Individual Corruption
-
 ## Overview
 
 Corruption in Kenya is often portrayed as individual moral failures: a dishonest official, a greedy businessperson. However, analysis of corruption patterns reveals that corruption is systemic, operating through institutions and sustained by structures that remain in place regardless of which individuals occupy positions. Understanding this distinction is crucial for effective anti-corruption strategy.

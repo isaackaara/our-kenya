@@ -1,5 +1,3 @@
-# Marsabit County Timeline
-
 ## Historical Timeline
 
 1890s,1900s: British colonial forces establish control over northern territories through military expeditions and administrative occupation. Marsabit region becomes part of the Northern Frontier District (NFD).

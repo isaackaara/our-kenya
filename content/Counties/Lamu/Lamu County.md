@@ -1,5 +1,3 @@
-# Lamu County
-
 Lamu County is Kenya's northernmost coastal county and home to one of the world's best-preserved Swahili settlements. Located at the mouth of the Indian Ocean, the county comprises the Lamu Archipelago (Lamu Island, Pate Island, Siyu Island, and smaller islets) plus a strip of mainland. With a population of approximately 140,000, it is Kenya's smallest county by population.
 
 The county is the cultural and historical heart of Kenya's Islamic heritage. Lamu town, the county headquarters, is a UNESCO World Heritage Site inscribed in 2001. The historic Old Town of Lamu represents centuries of Swahili civilization, with its winding streets, coral rag architecture, carved wooden doors, and complete absence of motor vehicles (donkeys remain the primary transport).

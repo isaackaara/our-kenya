@@ -1,5 +1,3 @@
-# 1983 Election Notable Figures
-
 Notable figures in the 1983 election included cabinet ministers who retained influence, rising Kalenjin politicians who gained prominence under Moi, and sitting MPs who either successfully defended their seats or were defeated in government-controlled primary contests. Key figures included those aligned with Moi who were rewarded with parliamentary seats and ministerial positions, and those viewed as potential threats who were removed from office or prevented from returning to Parliament.
 
 ## See Also

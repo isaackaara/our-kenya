@@ -1,5 +1,3 @@
-# 2022 Election Campaign Finance
-
 The 2022 election was characterized as Kenya's most expensive election in the country's history, with both the Kenya Kwanza and Azimio coalitions deploying unprecedented financial resources for campaign activities, media advertising, and voter mobilization. The escalating campaign expenditures reflected the centrality of financial resources to modern political campaigns and raised questions regarding the relationship between campaign spending and electoral outcomes.
 
 Kenya Kwanza's campaign finance position benefited substantially from William Ruto's personal wealth and business networks. Ruto, a billionaire businessman with interests across multiple economic sectors, was capable of providing substantial personal financing for the campaign. Additionally, Ruto's political networks and business relationships provided access to donor financing from business actors supporting his candidacy. Kenya Kwanza's campaign was estimated to have deployed financial resources exceeding KES 10 billion, a record amount for a Kenyan presidential campaign.

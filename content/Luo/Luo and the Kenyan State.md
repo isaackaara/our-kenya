@@ -1,5 +1,3 @@
-# Luo and the Kenyan State
-
 The Luo relationship with Kenya's central state is characterised by persistent opposition and marginalisation. The Luo were politically dominant in the independence movement (through [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] and [[Tom Mboya.md|Tom Mboya]]) but were marginalised from power after 1963. Except for brief periods (2002-2007, 2008-2013), the Luo have been in opposition to state power since independence. This political exclusion has had profound consequences for development and resource distribution in Luo areas.
 
 ## Independence and Early Hope

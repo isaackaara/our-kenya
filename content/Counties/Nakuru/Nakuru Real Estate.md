@@ -1,5 +1,3 @@
-# Nakuru Real Estate Market
-
 Nakuru's real estate market experienced rapid growth during 2010-2020, transforming the city into one of Kenya's fastest-growing urban centers. The expansion was driven by Nairobi's congestion and high real estate costs, which pushed middle-class residents and investors to seek more affordable opportunities in Nakuru. The Standard Gauge Railway connection to Nairobi further encouraged suburban development, as the commute became more feasible.
 
 Real estate development includes residential estates, commercial complexes, and industrial parks. Upscale neighborhoods have emerged in areas like Solai and Westlands, attracting wealthy residents and retirement communities. Middle-income housing developments in Eastleigh, Majengo, and other areas house workers and families. Informal settlements continue to expand, housing lower-income residents in sometimes precarious conditions.

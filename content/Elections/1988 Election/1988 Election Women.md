@@ -1,5 +1,3 @@
-# 1988 Election Women
-
 Women remained excluded from standing for Parliament in 1988, continuing decades of exclusion. Women participated as voters in the mlolongo system, but their votes were vulnerable to coercion and manipulation. Women's organizations participated in the post-election outrage and contributed to civil society opposition to the election fraud. Women would play important roles in the subsequent democracy movement.
 
 ## See Also

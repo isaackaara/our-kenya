@@ -1,5 +1,3 @@
-# Sheikh al-Amin Mazrui
-
 Sheikh al-Amin Ali Mazrui (1891-1947) was a prominent [[Mombasa]] Islamic scholar and one of the first coastal religious figures to advocate for African independence in the context of coastal Muslim politics. He represents an important figure in early African nationalism and in [[Swahili]] Islamic intellectual history within [[The Mazrui Family]].
 
 ## Life and Context

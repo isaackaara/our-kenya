@@ -1,5 +1,3 @@
-# Nyamira County
-
 Nyamira County is a small highland county carved out of the former Kisii District in 2013 when Kenya's constitutional devolution came into effect. Located in the western highlands of Kenya, the county encompasses 912 square kilometers and has a population of approximately 700,000 people.
 
 ## Overview

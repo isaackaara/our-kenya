@@ -1,5 +1,3 @@
-# [[kaya forests]] [[UNESCO]] World [[heritage]]
-
 The [[sacred]] Mjikenda kaya forests were inscribed as a UNESCO World Heritage Site in 2008, recognizing their outstanding cultural and natural value. The inscription includes eleven kaya forests spread across 200 kilometers of the Kenya coast. The UNESCO designation provides international recognition and legal protection for these sacred sites but has also created tensions between local governance traditions and international heritage management frameworks.
 
 ## The UNESCO Inscription

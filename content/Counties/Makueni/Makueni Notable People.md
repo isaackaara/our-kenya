@@ -1,5 +1,3 @@
-# Makueni Notable People
-
 Makueni County has produced numerous prominent Kenyans who have contributed to national politics, business, academia, and development. These individuals have shaped Kenya's development trajectory and represent the county's intellectual and leadership resources.
 
 Kivutha Kibwana emerged as the most prominent contemporary Makueni figure, serving as county governor from 2013 to 2022. His intellectual approach to governance and implementation of innovative health and development programmes earned recognition nationally and internationally. Kibwana remains influential in Makueni politics.

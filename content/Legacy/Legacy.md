@@ -1,5 +1,3 @@
-# Legacy
-
 The Legacy vertical examines the long-term cultural, psychological, and social legacies of Kenya's history. What has been inherited from colonialism, from independence, from migration, from religion, from language policy. This is a thematic vertical, not tied to any one ethnic group.
 
 ## Core Legacies

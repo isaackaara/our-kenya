@@ -1,5 +1,3 @@
-# Makueni Climate
-
 Makueni County experiences a semi-arid climate characterized by low, erratic rainfall, high temperatures, and substantial seasonal variation. The county receives bimodal rainfall with long rains from March to May and short rains from October to December. However, rainfall timing and quantity are highly variable, with some years seeing abundant precipitation while others experience devastating drought.
 
 Annual rainfall in Makueni averages 500 to 700 millimeters in some areas, though this average masks significant variability. Some years may receive half this average while others substantially exceed it. This unpredictability creates fundamental challenges for water availability, agriculture, and pastoral production. Communities must manage constant drought risk.

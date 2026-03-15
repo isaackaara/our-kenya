@@ -1,5 +1,3 @@
-# Gen Z Kenya
-
 Gen Z Kenya refers to the generation born after 1996, who organised the 2024 Finance Bill protests entirely through [[Digital Communities Kenya|online platforms]] (TikTok, X, Instagram). What makes this generation genuinely [[Cross-Ethnic Kenya|cross-ethnic]] is unprecedented: they communicate in Sheng and English rather than ethnic languages, organise through digital networks rather than through ethnic community structures, and their political identity is generational rather than ethnic. This represents a historically significant break from [[Ethnic Arithmetic in Politics|Kenya's ethnic voting and mobilisation patterns]].
 
 ## Key Facts

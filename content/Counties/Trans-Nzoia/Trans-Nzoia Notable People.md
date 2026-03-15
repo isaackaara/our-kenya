@@ -1,5 +1,3 @@
-# Trans-Nzoia Notable People
-
 Trans-Nzoia County has produced notable Kenyans in various fields including politics, sports, academics, and business. The county's prominence in national agriculture makes agricultural sector figures prominent. Political leaders from the county include governors, parliament members, and ministerial appointees. Sports personalities from the county participate in national and international competitions, particularly in athletics and soccer. Business entrepreneurs have established agricultural trading and processing enterprises in the county. Academic and professional figures from Trans-Nzoia have contributed to national intellectual and institutional development. Notable people from the county maintain connections to their communities while pursuing careers nationally and internationally.
 
 ## Political and Business Leaders

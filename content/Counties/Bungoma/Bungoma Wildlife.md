@@ -1,5 +1,3 @@
-# Bungoma Wildlife
-
 [[../../Conservation/Mount Elgon National Park|Mount Elgon]] National Park on Bungoma's portion protects significant wildlife including elephants, buffalo, forest antelope, and other mammal species. Bird diversity is high with numerous endemic and regionally restricted species. Mount Elgon's forested slopes provide habitat for wildlife adapted to cool, moist conditions. Park management faces challenges from human population pressures and resource constraints.
 
 ## Large Mammals

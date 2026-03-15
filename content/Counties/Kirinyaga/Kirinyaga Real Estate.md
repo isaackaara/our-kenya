@@ -1,5 +1,3 @@
-# Kirinyaga Real Estate
-
 The real estate market in Kirinyaga County, particularly in Kerugoya and surrounding areas, has grown as urbanization and economic development advance. Land and property values have increased substantially over recent decades. Residential, commercial, and agricultural land markets exist with varying levels of formality. Population growth and economic activity drive property demand in urban areas.
 
 ## Urban Residential Property

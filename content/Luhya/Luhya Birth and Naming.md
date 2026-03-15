@@ -1,5 +1,3 @@
-# Luhya Birth and Naming
-
 The naming of children is a central ritual in Luhya culture that reflects deep beliefs about ancestry, cosmology, and the connection between the living and the dead. Naming ceremonies mark the integration of the newborn into the family and clan and establish the child's place in the flow of generations.
 
 ## Naming Tradition and Principles

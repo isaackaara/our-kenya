@@ -1,5 +1,3 @@
-# Mijikenda Traditional Religion
-
 The [[Mijikenda Overview|Mijikenda traditional religious system]] is based on relationships with [[Witchcraft and Mijikenda Society|ancestral spirits]], divine power expressed through natural phenomena, and the mediation of ritual specialists. This system remains important in many communities despite centuries of Christian and Islamic missionary presence.
 
 ## Koma (Ancestral Spirits)

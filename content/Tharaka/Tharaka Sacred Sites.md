@@ -1,5 +1,3 @@
-# Tharaka Sacred Sites
-
 Sacred sites in Tharaka cosmology include hills, trees, water sources, and forests that hold [[Tharaka Traditional Religion]] significance and are subject to ritual protocols and use restrictions. These sites serve as focal points for spiritual practice and community identity.
 
 ## Sacred Hills

@@ -1,5 +1,3 @@
-# Meru Climate Change
-
 Meru County faces significant climate change impacts, including increasingly erratic rainfall patterns, rising temperatures, and altered agricultural seasons. Climate variability already affects crop yields and water availability. Farmers report changes in planting and harvest seasons, and extended drought periods are becoming more frequent. Climate change poses substantial risks to the agricultural economy that dominates Meru livelihoods.
 
 ## Rainfall Changes

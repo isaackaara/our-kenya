@@ -1,5 +1,3 @@
-# Maasai Music and Song: Vocal Tradition and Cultural Expression
-
 ## Vocal Music Without Instruments
 
 Maasai music is primarily vocal. Traditionally, no instruments are used(no drums, no horns, no stringed instruments). The human voice is the sole musical medium.

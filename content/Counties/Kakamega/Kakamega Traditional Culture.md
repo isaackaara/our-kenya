@@ -1,5 +1,3 @@
-# Kakamega Traditional Culture
-
 Kakamega [[../../Luhya/Luhya|Luhya]] communities maintain distinctive cultural traditions including initiation practices, marriage customs, funeral practices, and social hierarchies adapted across time. Traditional culture reflects both pre-colonial heritage and adaptations to colonial and post-colonial contexts. Cultural practices persist alongside contemporary modernization, with varying degrees of continuation and transformation across different communities and age groups.
 
 ## Initiation Practices

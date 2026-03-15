@@ -1,5 +1,3 @@
-# Meru and Tourism
-
 Tourism in [[Meru]] County includes national park visits, [[Mount Kenya]] trekking, and emerging cultural tourism focused on [[Njuri Ncheke]] traditions and [[miraa]] culture. The sector generates income for guides, lodge operators, and related services.
 
 ## Meru National Park

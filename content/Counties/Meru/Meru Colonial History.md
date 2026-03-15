@@ -1,5 +1,3 @@
-# Meru Colonial History
-
 Meru District came under British colonial administration in the early twentieth century, initially through indirect rule systems that incorporated traditional leadership structures. The colonial administration established Meru as a district under the broader Rift Valley Province framework, with administrative headquarters at Meru Town. Colonial policies shaped land tenure, agricultural production, and social organization in ways that persisted beyond independence.
 
 ## Early Colonial Administration

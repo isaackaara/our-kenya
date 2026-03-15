@@ -1,5 +1,3 @@
-# Richard Leakey KWS
-
 [[Richard Leakey]]'s tenure as Director of the [[Kenya Wildlife Service]] from 1989 to 1994 represents a transformative period in African [[wildlife conservation]]. Leakey took control of a dysfunctional bureaucracy and transformed the KWS into an effective, armed conservation force capable of protecting wildlife from [[poaching]]. His administration became a model for aggressive conservation and remains controversial for its methods.
 
 ## Background and Appointment

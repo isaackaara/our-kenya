@@ -1,5 +1,3 @@
-# Kwale Cultural Heritage
-
 The cultural heritage of Kwale County reflects the distinctive blend of Digo Bantu traditions, Islamic influences, and contemporary Kenyan identity. Cultural practices including music, dance, food, clothing, and oral traditions connect Kwale residents to their history while adapting to contemporary contexts.
 
 Music and dance represent important cultural expressions in Kwale communities. Taarab, the coastal Islamic-influenced music style, remains popular particularly among older generations. Taarab poetry addresses themes of love, loss, and social commentary, with elaborate orchestrations. Contemporary youth engage with global music genres including hip-hop and reggae while also maintaining interest in coastal music traditions.

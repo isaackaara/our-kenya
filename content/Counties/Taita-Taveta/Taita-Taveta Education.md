@@ -1,5 +1,3 @@
-# Taita-Taveta Education
-
 Education in Taita-Taveta County reflects both the opportunities and challenges characteristic of rural Kenyan counties. The county has a network of primary schools, secondary schools, and Early Childhood Development (ECD) centres distributed across its geography, though access and quality of education vary considerably between urban areas, rural farming communities, and remote pastoral regions. The educational system has undergone significant changes following the implementation of devolved governance and curriculum reforms.
 
 Primary education in Taita-Taveta is provided through government schools (managed by the county government), private schools, and community-based institutions. While primary school enrollment has increased substantially over recent decades, driven by free primary education policies initiated nationally, quality of education remains variable. Schools in the Taita Hills generally have better infrastructure and educational outcomes than those in more remote lowland areas. Challenges include inadequate school infrastructure, shortage of teaching materials, and teacher absenteeism in remote areas.

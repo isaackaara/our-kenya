@@ -1,5 +1,3 @@
-# Environmental Concerns Oil
-
 [[Oil Discovery in Turkana]] production in Turkana County presents multiple environmental risks and concerns specific to the arid ecosystem, vulnerable [[Turkana Pastoralism]] economy, and limited environmental infrastructure. These concerns have generated opposition to oil development from environmental and human rights organizations and from some Turkana communities.
 
 ## Water Quality and Contamination Risks

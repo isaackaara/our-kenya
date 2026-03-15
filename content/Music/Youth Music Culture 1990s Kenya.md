@@ -1,5 +1,3 @@
-# Youth Music Culture 1990s Kenya
-
 Kenyan youth in the 1990s developed distinctive musical culture that bridged global hip-hop, R&B, and ragga influences with emerging local urban sounds, setting foundation for genge and other genres that would dominate the 2000s. This generation, coming of age during [[Music/Music and the Multiparty Era|multiparty politics]] and [[Music/FM Radio Revolution Kenya 1990s|FM radio liberalization]], consumed music differently than their parents, creating new cultural patterns that would reshape Kenya's musical landscape.
 
 The generation born in late 1970s and early 1980s experienced music through radically different infrastructure than previous generations. [[Music/FM Radio Revolution Kenya 1990s|Private FM stations]] like Kiss 100 and Capital FM provided constant exposure to international hip-hop and R&B. These youth never knew [[Music/Kenya Broadcasting Corporation Music|KBC's]] monopoly era, taking media plurality as normal rather than revolutionary.

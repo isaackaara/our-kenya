@@ -1,5 +1,3 @@
-# Kalenjin Oral Literature
-
 Kalenjin oral traditions encompass folktales (motirenik), proverbs (leel), riddles, and narrative histories that transmitted knowledge, values, and collective memory across generations. These traditions functioned simultaneously as entertainment, education, moral instruction, and historical record in societies without writing.
 
 ## Motirenik: Folktales

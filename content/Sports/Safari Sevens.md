@@ -1,5 +1,3 @@
-# Safari Sevens: Nairobi's Annual International Rugby Event
-
 The Safari Sevens is an annual international rugby sevens tournament held in Nairobi. Established as an invitational tournament, Safari Sevens attracts international teams and has become a significant fixture in the sevens rugby calendar. The tournament's success reflects Kenya's rugby sevens popularity and Nairobi's capability to host international sporting events.
 
 ## See Also

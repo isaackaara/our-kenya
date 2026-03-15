@@ -1,5 +1,3 @@
-# Land as Corruption Currency: Property as Patronage
-
 ## Land as Primary Patronage Tool
 
 In Kenya, land has been the primary currency of political patronage. A politician can offer land to an ally. Land is concrete, valuable, and permanent. Unlike cash (which can be spent), land represents long-term wealth.

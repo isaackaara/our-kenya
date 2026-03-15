@@ -1,5 +1,3 @@
-# Baringo Women
-
 Baringo women, predominantly from the Tugen community, have maintained distinctive economic roles centered on household management, livestock care, and increasingly contemporary income-generating activities, while navigating cultural constraints and expanding opportunities.
 
 ## Traditional Economic Roles

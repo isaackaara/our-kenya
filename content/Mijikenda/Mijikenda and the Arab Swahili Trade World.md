@@ -1,5 +1,3 @@
-# Mijikenda and the Arab/Swahili Trade World
-
 The [[Mijikenda]] peoples were active participants in the [[Indian Ocean World]] from at least the 16th century onward. Their relationship to Arab and [[Swahili]] merchants, while economically complementary, was marked by asymmetries of power and prestige that positioned the [[Mijikenda]] as suppliers of primary goods and labor while Arabs and Swahili controlled commerce, finance, and prestige in coastal society.
 
 ## The East African Slave Trade

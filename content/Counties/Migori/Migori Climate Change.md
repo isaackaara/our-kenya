@@ -1,5 +1,3 @@
-# Migori Climate Change
-
 Climate change represents an escalating challenge to Migori County's livelihoods, food security, and environmental conditions. Observed changes in rainfall patterns, temperatures, and ecological conditions are disrupting traditional livelihood systems.
 
 ## Observed Climate Trends

@@ -1,5 +1,3 @@
-# Marsabit Crater Lakes
-
 Mount Marsabit's crater-based topography created multiple freshwater lakes occupying summit depressions. These crater lakes represent unique freshwater resources in an arid region, supporting distinctive aquatic ecosystems and providing water for wildlife and human communities.
 
 Lake Paradise (locally known as Sokorte Dika) represents the most prominent crater lake. The name "Paradise" reflects its oasis characteristics and lush surrounding vegetation contrasting sharply with the surrounding desert. The lake's freshwater supports fish populations and serves as critical water source.

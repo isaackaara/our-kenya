@@ -1,5 +1,3 @@
-# Mumias Sugar
-
 The Mumias Sugar Company was established in 1971 following a government development feasibility study. It grew to become East Africa's largest sugar producer and dominated the economy of western Kenya for decades. By the 2010s, the company had collapsed under debt, mismanagement, and competition from cheap imported sugar.
 
 ## Key Facts

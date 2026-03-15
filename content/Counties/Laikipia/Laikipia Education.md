@@ -1,5 +1,3 @@
-# Laikipia Education
-
 The education system in Laikipia County follows Kenya's national structure. Primary education is officially free though some costs persist. Secondary education requires tuition payment limiting access. Technical and vocational training provides skills alternatives. Education quality varies between schools. Pastoral communities have lower school enrollment. Girls' enrollment is lower in pastoral areas due to early marriage.
 
 ## Primary Education

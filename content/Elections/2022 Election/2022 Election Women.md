@@ -1,5 +1,3 @@
-# 2022 Election Women
-
 The 2022 election continued implementation of the constitutional gender quota requiring that no more than two-thirds of elected officials be of the same gender. The quota's application resulted in increased female representation in the National Assembly and county governments, though with persistent implementation challenges and substantive discrimination against female candidates persisting despite formal quota requirements.
 
 In parliamentary elections, female candidates competed for numerous seats, with direct election results indicating that women won approximately 96 of 290 elected seats (33%), below the two-thirds threshold. This shortfall meant that the nomination mechanism again would be required to provide additional female representatives to achieve overall gender balance. The reliance on nomination for gender parity meant that women's representation continued to depend on party compliance with quota requirements rather than on demonstrated electoral viability in competitive contests.

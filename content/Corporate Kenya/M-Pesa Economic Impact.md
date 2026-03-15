@@ -1,5 +1,3 @@
-# M-Pesa Economic Impact
-
 [[M-Pesa]]'s introduction in [[2007]] had [[transformative]] [[economic effects]] on [[Kenya]], [[accelerating]] [[financial inclusion]], enabling [[new business models]], and reshaping [[consumer behaviour]]. The platform took [[18%]] of Kenyans with [[formal financial access]] to over [[83%]] by [[2020]], fundamentally changing the nature of Kenya's economy.
 
 ## Financial Inclusion

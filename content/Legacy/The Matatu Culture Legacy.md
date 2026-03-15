@@ -1,5 +1,3 @@
-# The Matatu Culture Legacy
-
 The matatu is a minibus that serves as Kenya's primary form of public transport in urban and rural areas. A matatu is small, crowded, decorated with art and slogans, usually played loud music. The matatu is chaotic, colorful, unpredictable. It is also quintessentially Kenyan.
 
 The matatu is not simply a transportation mechanism. It is a cultural institution. The matatu body, painted with biblical quotes, images of Kenyan leaders, artwork, is a canvas for Kenyan visual culture. The matatu interior, decorated with lights and cushions, is a space of aesthetic expression.

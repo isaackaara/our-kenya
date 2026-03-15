@@ -1,5 +1,3 @@
-# 1983 Election Moi Consolidation
-
 The 1983 election was central to Moi's consolidation of personal control over KANU and the state. The snap election allowed Moi to reshape Parliament according to his political preferences and to remove sitting MPs who might constrain his authority.
 
 Moi used the election to demonstrate his control over the political machinery and his ability to determine electoral outcomes. The explicit government management of primary contests showed that Moi could engineer the selection of parliamentarians loyal to him.

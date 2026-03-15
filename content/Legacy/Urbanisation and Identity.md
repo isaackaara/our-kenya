@@ -1,5 +1,3 @@
-# Urbanisation and Identity
-
 Kenya has urbanized dramatically since independence. In 1960, perhaps 5-10 percent of Kenyans were urban. Today, nearly 40 percent are urban. Millions have moved from rural areas to cities in search of jobs and opportunity.
 
 Urbanization created a new kind of Kenyan identity. In rural areas, people were defined by their ethnic group, by their family, by their location. In cities, people encountered people from different ethnic groups, from different regions, from different religious backgrounds.

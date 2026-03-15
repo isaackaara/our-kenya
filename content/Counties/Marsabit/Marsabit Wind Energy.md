@@ -1,5 +1,3 @@
-# [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power Project
-
 The Lake Turkana Wind Power project (LTWP) represents the largest wind farm in Africa and a transformative energy and development project in Marsabit County. The project harnesses the region's consistent winds for electricity generation and transmission to Kenya's national grid.
 
 The project is located in Loiyangalani in Marsabit County, where geographical and climatic conditions create strong, consistent winds suitable for large-scale wind power generation. The proposed facility includes numerous wind turbines and associated infrastructure.

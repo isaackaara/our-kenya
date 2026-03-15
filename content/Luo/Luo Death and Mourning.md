@@ -1,5 +1,3 @@
-# Luo Death and Mourning
-
 Death among the Luo triggers an elaborate sequence of rituals extending from the moment of death through the funeral, the ghost-driving ceremony (*tero buru*), mourning periods, and inheritance. Each phase has specific protocols and spiritual meanings.
 
 ## The Moment of Death

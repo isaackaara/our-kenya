@@ -1,5 +1,3 @@
-# Disarmament Programmes
-
 The Kenyan [[Turkana County Government]] has repeatedly implemented disarmament programs in [[Turkana Pastoralism]] regions (particularly Turkana, Samburu, and Pokot counties) to reduce the availability of firearms and thereby reduce pastoral conflicts and cattle raiding. Disarmament has been attempted through multiple approaches but has achieved only limited success.
 
 ## Rationale for Disarmament

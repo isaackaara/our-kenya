@@ -1,5 +1,3 @@
-# Laikipia Maasai
-
 The Maasai communities in Laikipia have inhabited pastoral areas for centuries. Traditional pastoral livelihoods centered on cattle herding. Maasai land has been substantially converted to ranches and conservancies. Contemporary Maasai communities face tensions between pastoral traditions and land use restrictions. Land rights and resource access remain contested. Some Maasai have adapted to ranching employment and other economic activities.
 
 ## Pastoral Traditions

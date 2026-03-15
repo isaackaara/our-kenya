@@ -1,5 +1,3 @@
-# Kamba and Nairobi Growth
-
 Nairobi's southward expansion is progressively consuming [[../Counties/Machakos/Machakos County|Machakos County]] land, transforming rural Kamba territory into industrial and residential zones. This metropolitan encroachment represents dramatic alteration of Kamba geography, economy, and identity.
 
 ## Geographic Extent of Growth

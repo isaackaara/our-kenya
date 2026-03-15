@@ -1,5 +1,3 @@
-# Westlands and Parklands: Nairobi's Asian Quarters
-
 Westlands and Parklands are two adjacent neighborhoods in northwestern Nairobi that historically housed and continue to house the city's Asian (Indian, Pakistani, and Gujarati) commercial and residential populations.
 
 ## Westlands: Commercial Hub

@@ -1,5 +1,3 @@
-# Wote Town
-
 Wote is a small market town serving as the county headquarters of Makueni County. Located in the semi-arid lands, Wote functions as the administrative and commercial centre for the county. The town is relatively modest in size compared to major Kenyan urban centres, reflecting both the semi-arid environment and the rural character of the broader county.
 
 Wote town has grown gradually as the seat of county government and the principal commercial hub for county trade. Government offices, administrative facilities, and county services concentrate in Wote, making the town the focal point for county residents seeking services. The town hosts educational institutions, health facilities, and banking services supporting the broader county population.

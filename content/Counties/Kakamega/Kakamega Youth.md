@@ -1,5 +1,3 @@
-# Kakamega Youth
-
 Kakamega County's youth (ages 15-35) face significant challenges including limited employment opportunities, land scarcity, and constrained economic prospects despite high education levels. Youth unemployment is widespread, particularly for secondary and tertiary education graduates facing limited formal sector job availability. Youth constitute a large proportion of Kakamega's population given high fertility rates, intensifying pressure on limited economic opportunities.
 
 ## Employment Challenges

@@ -1,5 +1,3 @@
-# Luhya Resistance to Colonialism
-
 The Luhya response to British colonialism was neither uniform nor consistently accommodating. While the Wanga Kingdom under Nabongo Mumia negotiated partnerships with the British, other Luhya communities, particularly the Bukusu, resisted colonial authority and encroachment. These varied responses reflected different pre-colonial political structures, distinct economic interests, and individual leadership decisions.
 
 ## Bukusu Resistance

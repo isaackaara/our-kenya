@@ -1,5 +1,3 @@
-# Nyeri Tourism
-
 Tourism in Nyeri County centers on wildlife and historical attractions. Aberdare National Park attracts visitors for game viewing and trekking. Treetops Lodge remains the most famous accommodation, historically significant and offering premium wildlife experiences. [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern approaches provide trekking opportunities. Cultural tourism potential includes coffee farm visits and Kikuyu heritage experiences. Accommodation infrastructure is developing to support tourism growth.
 
 

@@ -1,5 +1,3 @@
-# Wajir Agriculture
-
 Agriculture plays a limited but important role in Wajir County's economy, constrained by the region's arid climate and water scarcity. Unlike the pastoral economy that dominates livelihoods, agricultural production remains supplementary, with irrigation schemes along seasonal river valleys representing the primary agricultural activity. These irrigation projects provide crucial food security contributions during drought periods while also offering employment and cash income opportunities for participants.
 
 ## Environmental Constraints

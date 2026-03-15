@@ -1,5 +1,3 @@
-# The Kenya Shilling
-
 The [[Kenya shilling]] ([[KES]], symbol: KSh) is the [[currency Kenya|currency]] of [[Kenya]] since [[independence Kenya|independence]] in [[1964]]. Its [[history Kenya|history]] reflects Kenya's broader [[economic trajectory Kenya|economic trajectory]]: [[colonial legacy Kenya|colonial legacy]], [[post-independence stability Kenya|post-independence stability]], [[inflationary pressures Kenya|inflationary pressures]], [[devaluation Kenya|devaluation]] under [[structural adjustment Kenya|structural adjustment]], and [[chronic depreciation Kenya|chronic depreciation]] in recent decades.
 
 ## Pre-Independence: East African Shilling

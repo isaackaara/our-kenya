@@ -1,5 +1,3 @@
-# Kisii Youth
-
 Youth in [[Kisii County.md|Kisii County]] face complex circumstances shaped by high population density, limited agricultural land, and restricted urban employment opportunities. Youth unemployment and migration have become defining challenges for the county's demographic profile.
 
 ## Employment Challenges

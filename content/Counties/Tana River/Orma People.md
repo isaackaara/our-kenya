@@ -1,5 +1,3 @@
-# Orma People
-
 The Orma are a pastoral Cushitic people primarily inhabiting the semi-arid rangelands and riverine areas of Tana River County. Numbering approximately 100,000 to 150,000 people, the Orma maintain pastoral traditions centered on cattle herding, though many have diversified into mixed agro-pastoral economies in recent decades. They speak the Orma language, a Cushitic language distinct from the Bantu languages of neighboring farming communities, reflecting both distinct ancestry and centuries of separate cultural development.
 
 Orma oral traditions and historical sources indicate migration from the Horn of Africa, likely in the 16th and 17th centuries, though exact chronologies remain debated among scholars. Some accounts suggest movement southward from Somalia or eastern Ethiopia, driven by factors including warfare, drought, and pastoral expansion. The Orma established themselves in the Tana River region during a period when water and grazing resources could support expanded pastoral populations. This historical settlement pattern shaped Orma territorial claims and resource management systems that persist today.

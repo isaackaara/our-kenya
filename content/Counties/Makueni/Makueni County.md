@@ -1,5 +1,3 @@
-# Makueni County
-
 Makueni County is located south of Machakos County in Kenya's semi-arid lands, with a population of approximately 1 million people. The county is predominantly Kamba, sharing linguistic, cultural, and historical connections with northern Machakos. Wote serves as the county headquarters. Makueni is known for innovative county governance under Governor Kivutha Kibwana, a law professor and development reformer.
 
 The county borders the dry Athi River and the Tsavo ecosystem, placing it within a crucial conservation and pastoral region. The semi-arid climate and erratic rainfall create persistent challenges for agriculture, pastoral livelihoods, and water security. Despite these environmental constraints, Makueni has gained recognition as a devolution success story, implementing innovative development programmes and governance practices.

@@ -1,5 +1,3 @@
-# Nyandarua Colonial History
-
 Nyandarua was part of the White Highlands, the exclusive European settler zone during colonialism. The fertile Aberdare highland slopes attracted European settlers seeking agricultural land. Colonial authorities alienated the highlands from [[../../Kikuyu/Kikuyu|Kikuyu]] communities, confining them to crowded reserves. European settler farms developed commercial wheat and dairy production. Colonial administration, land policies, and labor systems fundamentally shaped Nyandarua's development trajectory.
 
 ## European Settlement

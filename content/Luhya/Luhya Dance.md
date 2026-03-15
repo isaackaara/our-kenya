@@ -1,5 +1,3 @@
-# Luhya Dance
-
 Dance is central to Luhya cultural expression and is integral to celebrations, ceremonies, and the marking of important life transitions. Luhya dance traditions demonstrate the sophisticated embodied knowledge and aesthetic values of western Kenya communities.
 
 ## The Isukuti Dance

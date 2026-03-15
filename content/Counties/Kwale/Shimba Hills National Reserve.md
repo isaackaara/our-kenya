@@ -1,5 +1,3 @@
-# Shimba Hills National Reserve
-
 The Shimba Hills National Reserve, located approximately 30 kilometers south of Mombasa, is Kenya's only coastal forest national reserve and a globally significant site for biodiversity conservation. The reserve covers approximately 305 square kilometers of relatively pristine coastal forest and grassland at elevations between 150 and 455 meters above sea level. The higher elevation compared to surrounding coastal areas creates a distinct ecosystem with different rainfall patterns, temperature regimes, and vegetation than lowland areas.
 
 The Shimba Hills were gazetted as a protected area in 1968, recognizing their ecological importance and vulnerability to human pressure. The reserve's establishment came after decades of forest clearance for timber, charcoal production, and agricultural expansion. Colonial foresters had already recognized the area's botanical significance before independence. Post-independence, the creation of the national reserve represented a commitment to preserving one of East Africa's most distinctive forests.

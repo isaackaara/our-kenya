@@ -1,5 +1,3 @@
-# Nairobi Post-Election Violence 2007-2008
-
 Following the disputed presidential election results in December 2007, Nairobi erupted into communal violence. The city's informal settlements became flashpoints for ethnic and political violence, as supporters of competing candidates clashed, and grievances over land, economic opportunity, and political power exploded into violence.
 
 ## Election Dispute and Trigger

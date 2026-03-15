@@ -1,5 +1,3 @@
-# 1988 Election Saba Saba Connection
-
 The Saba Saba (seven-seven) riot of July 7, 1990, was directly connected to the 1988 election outrage. The 1988 election rigging had created a reservoir of public anger and disgust that persisted for over a year. When a minor incident on July 7, 1990, occurred, it triggered massive public protests. The Saba Saba riots represented the eruption of anger from the 1988 election and marked the beginning of the public challenge to Moi's one-party rule. The connection between 1988 electoral fraud and the 1990 democracy movement shows how electoral manipulation can backfire and destabilize authoritarian rule.
 
 ## See Also

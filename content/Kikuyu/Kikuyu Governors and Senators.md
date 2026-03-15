@@ -1,5 +1,3 @@
-# Kikuyu Governors and Senators
-
 The [[Kenyan Constitution (2010)|2010 constitution]] introduced devolution, creating 47 county governments with elected governors and county assemblies. This transformation decentralized power and created new sites of political competition. Kikuyu-dominated counties became centers of Kikuyu political power and resource control.
 
 ## [[../Counties/Kirinyaga/Kirinyaga County|Kirinyaga County]]

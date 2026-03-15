@@ -1,5 +1,3 @@
-# 2007 Election Timeline
-
 **March to November 2007**: Campaign period officially opens. [[Kibaki]]'s [[Party of National Unity (PNU)]] campaigns emphasizing economic growth and continuity. [[Raila]]'s [[Orange Democratic Movement (ODM)]] campaigns emphasizing constitutional reform, devolution, and restoration of Prime Minister position. Ethnic mobilization increases as both campaigns appeal to regional constituencies.
 
 **December 27, 2007**: Polling day. High turnout of approximately 65-70 percent. Early results suggest competitive race with outcomes uncertain through evening of polling day.

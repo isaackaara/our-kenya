@@ -1,5 +1,3 @@
-# Identity Without Roots
-
 A particular psychological and social condition has emerged among millions of [[Cross-Ethnic Kenya|urban-raised Kenyans]] born between 1970 and 2010. They belong to an ethnic group by legal category, by descent, by family naming, by the expectations of relatives and strangers. Yet they are strangers to the cultural practices, language, land, and networks that give that ethnic identity meaning. They are Kenyan without the moorings of ethnicity, ethnic without the substance of culture.
 
 ## The Specific Alienation

@@ -1,5 +1,3 @@
-# Samburu National Reserve
-
 Samburu National Reserve is a game reserve located on the Ewaso Nyiro River in Samburu County. The reserve protects diverse wildlife adapted to arid and semi-arid conditions and represents an important conservation area in Kenya's wildlife protected area system.
 
 The Ewaso Nyiro River flows through the reserve, providing permanent water supporting wildlife and vegetation. The river creates a linear oasis in arid surroundings. Dry season wildlife concentrations along the river create exceptional viewing opportunities for tourists.

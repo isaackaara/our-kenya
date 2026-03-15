@@ -1,5 +1,3 @@
-# Happy Valley Set
-
 The Happy Valley set was a group of wealthy British and Anglo-Irish aristocrats and adventurers who settled in the Wanjohi Valley (located in what is now Nyandarua County) in the 1920s-1940s. The group became infamous for decadent social practices, including open affairs, drug use, and lavish parties. The 1941 murder of Josslyn Hay, 22nd Earl of Erroll, became the defining scandal of the group and provided insight into the excess and social breakdown of wealthy settler society.
 
 ## The Wanjohi Valley Community

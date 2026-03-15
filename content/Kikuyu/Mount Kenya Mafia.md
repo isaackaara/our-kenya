@@ -1,5 +1,3 @@
-# [[../Conservation/Mount Kenya National Park|Mount Kenya]] Mafia
-
 "Mount Kenya Mafia" is the informal name given to the inner circle of Kikuyu businessmen-politicians who dominated access to state power and resources during the [[Mwai Kibaki]] presidency (2002-2013). The term, used by political analysts, journalists, and rivals, evokes both geographic identity (the Mount Kenya region"Mount Kenya Mafia" is the informal name given to the inner circle of Kikuyu businessmen-politicians who dominated access to state power and resources during the [[Mwai Kibaki]] presidency (2002-2013). The term, used by political analysts, journalists, and rivals, evokes both geographic identity (the Mount Kenya region (Nyeri), Kirinyaga, Murang'a, Kiambu, as the Kikuyu heartland) and the opacity of their operations.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Kamba in Machakos
-
 The Kamba people are the dominant ethnic group in Machakos County, forming the cultural and social foundation of the region. The Kamba (also spelled Akamba), traditionally pastoralists and agriculturalists, have inhabited the semi-arid lands of eastern Kenya for centuries before European colonization. Machakos represents the historical and cultural heartland of the [[../../Kamba/Kamba|Kamba]] nation.
 
 Kamba society traditionally organized itself around clan systems, age-grade institutions, and leadership structures centered on respected elders. The Kamba developed sophisticated systems of land management, water harvesting, and drought-coping mechanisms adapted to the semi-arid environment. Their mastery of these systems enabled them to maintain relatively stable populations and trading networks despite climatic variability.

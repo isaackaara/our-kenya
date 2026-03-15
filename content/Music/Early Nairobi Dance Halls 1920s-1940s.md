@@ -1,5 +1,3 @@
-# Early Nairobi Dance Halls 1920s-1940s
-
 Colonial Nairobi developed a nightlife culture in the 1920s through 1940s that was racially segregated, culturally hybrid, and musically innovative. Dance halls catering to different racial groups created parallel musical worlds that occasionally intersected, producing the early foundations of Kenya's urban music scene.
 
 European dance halls occupied the most prestigious locations. The Muthaiga Country Club, Norfolk Hotel, and New Stanley Hotel hosted regular dances featuring European dance bands playing foxtrots, waltzes, and later swing music. These venues were exclusively for whites, with African workers allowed only as servants. The music was imported directly from Europe and America, performed by European musicians or occasionally by white Kenyan bands imitating European styles.

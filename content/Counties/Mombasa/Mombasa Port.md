@@ -1,5 +1,3 @@
-# Mombasa Port: East Africa's Largest Seaport
-
 The Port of Mombasa is the largest and most important seaport in East Africa. It serves Kenya, Uganda, Tanzania, Rwanda, Burundi, and parts of South Sudan and Ethiopia, making it a critical node in regional trade and economic development.
 
 ## Historical Development

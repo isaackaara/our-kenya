@@ -1,5 +1,3 @@
-# Somali [[Somali Piracy and Kenya|piracy]] and Kenya
-
 Somali piracy, primarily from 2008 to 2012, disrupted [[Somali Piracy and Kenya|Indian Ocean]] shipping routes near Kenya and had economic and security implications for Kenya's coastal regions. Pirates hijacked merchant vessels, demanded ransom, and disrupted international trade passing through waters near Kenya. While piracy has subsided, the phenomenon shaped regional security discourse and affected Kenyan coastal commerce.
 
 ## Timeline and Scale

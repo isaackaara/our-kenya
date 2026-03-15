@@ -1,5 +1,3 @@
-# Nairobi and the Kikuyu Diaspora
-
 The Kikuyu presence in Nairobi is foundational to the city's creation and development. Nairobi has a Kikuyu-majority or near-majority population, and Kikuyu are overrepresented in the city's professional, commercial, and political classes. Kikuyu have also migrated to the diaspora, establishing communities in the UK, US, South Africa, and other countries.
 
 ## Nairobi's Kikuyu Population

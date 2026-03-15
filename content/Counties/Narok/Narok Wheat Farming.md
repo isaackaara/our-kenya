@@ -1,5 +1,3 @@
-# Narok Wheat Farming
-
 Narok County, particularly the Mau Escarpment and Trans-Mara regions, forms Kenya's second most significant wheat-producing area after the highlands of Central Kenya. Large-scale commercial wheat farms operate on the elevated plateaus where altitude and climate conditions favor wheat cultivation.
 
 The wheat farming sector provides employment, generates export revenue, and has transformed land use patterns in previously pastoral areas.

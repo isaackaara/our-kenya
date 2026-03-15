@@ -1,5 +1,3 @@
-# 21st Century Poaching
-
 Poaching resurged in Kenya and across Africa in the 2000s and 2010s, despite the [[1989 Ivory Ban]] and conservation efforts that had reduced poaching pressure in the 1990s. This resurgence demonstrates that [[Conservation and Corruption|conservation]] gains can be reversed and that addressing demand-side drivers remains critical. The resurgence connects to rising Asian demand and involves complex [[Wildlife Trafficking Networks|trafficking networks]].
 
 ## Resurgence Beginning (circa 2008)

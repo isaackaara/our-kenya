@@ -1,5 +1,3 @@
-# Laikipia Youth
-
 Young people in Laikipia County face limited opportunities in an economy dominated by ranching, conservation, and pastoralism. Youth unemployment is elevated. Pastoral youth face particular challenges as herding becomes economically marginal. Urban migration draws youth seeking economic opportunity. Education investments seek non-traditional employment. Youth organizations provide platforms for collective action. Youth engagement in conservation and tourism provides some employment.
 
 ## Agricultural and Pastoral Employment

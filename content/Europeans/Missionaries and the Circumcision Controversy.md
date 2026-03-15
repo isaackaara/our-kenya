@@ -1,5 +1,3 @@
-# Missionaries and the Circumcision Controversy
-
 The female circumcision controversy of 1929-1932 in colonial Kenya (particularly centred on the [[Kikuyu]] people) was a critical moment in which [[Christian missionaries]], especially the [[Church of Scotland Mission]], attempted to eradicate the indigenous practice of female circumcision (*irua ria aka*). The resulting crisis inadvertently catalysed [[Kikuyu nationalist]] consciousness, accelerated the [[independence movement]], and demonstrated how cultural interventions could trigger political awakening.
 
 ## Historical Context

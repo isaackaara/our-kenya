@@ -1,5 +1,3 @@
-# Asian Response to 2007-2008
-
 The [[post-election violence]] that erupted in [[Kenya]] following the disputed presidential [[election]] of 2007 had significant impacts on [[Asian Kenyans|Asian]] [[Kenyan]] communities. [[Asian Kenyans|Asian]] businesses and [[property]] were targets of looting and destruction. [[Asian Kenyans|Asian]] community members faced harassment and intimidation. The [[violence]] highlighted the precarious position of [[Asian Kenyans]] during periods of ethnic and political conflict. The experience generated important reflections about security, belonging, and [[identity]] within the [[Asian Kenyans|Asian]] community.
 
 ## The 2007-2008 Post-Election Context

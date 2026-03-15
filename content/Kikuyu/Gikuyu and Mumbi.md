@@ -1,5 +1,3 @@
-# Gikuyu and Mumbi
-
 Gikuyu and Mumbi are the mythological founders of the Kikuyu people, the Adam and Eve of the *Agikuyu* world. According to oral tradition, [[Ngai]], the supreme deity, created Gikuyu first, then gave him a wife named Mumbi, whose name means "creator" or "moulder." Together they settled at *Mukurwe wa Nyagathanga*, a sacred fig tree site in present-day [[Muranga]], and became the ancestors of an entire nation.
 
 ## Key Facts

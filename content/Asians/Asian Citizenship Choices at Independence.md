@@ -1,5 +1,3 @@
-# Asian Citizenship Choices at Independence
-
 When [[Kenya]] achieved [[independence]] on December 12, 1963, one of the first major issues facing [[Asian Kenyans|Asians]] was [[citizenship]]. The [[British Colonial Empire|British colonial]] government required [[Asian Kenyans|Asians]] to declare whether they wished to become [[Kenya|Kenyan]] [[citizens]] or retain [[British citizenship]]. This choice had profound implications for legal status, economic rights, and future prospects.
 
 ## The Citizenship Requirement

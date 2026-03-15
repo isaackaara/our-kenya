@@ -1,5 +1,3 @@
-# Mombasa Island: Geography and Connectivity
-
 Mombasa Island forms the historic and commercial heart of Mombasa. The island is separated from the mainland by water bodies and connected by several bridges and ferry crossings. The island's strategic location on a deep-water harbor has made it a major port throughout history.
 
 ## Island Geography

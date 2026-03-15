@@ -1,5 +1,3 @@
-# Asians who Stayed
-
 Hundreds of thousands of Asians emigrated from Kenya between 1963 and 1980, yet tens of thousands chose to remain. Those who stayed made a conscious commitment to Kenya, took Kenyan citizenship, invested in businesses and real estate, and worked to become integrated into Kenya's society. Their stories and choices shaped contemporary Kenya.
 
 ## Why They Stayed

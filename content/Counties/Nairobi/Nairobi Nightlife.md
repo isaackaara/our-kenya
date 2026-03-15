@@ -1,5 +1,3 @@
-# Nairobi's Nightlife and Entertainment Scene
-
 Nairobi is East Africa's premier entertainment and nightlife destination, hosting a vibrant ecosystem of bars, nightclubs, restaurants, live music venues, and entertainment establishments. The city's nightlife attracts both local residents and international tourists.
 
 ## Bar and Club Culture

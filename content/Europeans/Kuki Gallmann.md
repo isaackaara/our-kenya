@@ -1,5 +1,3 @@
-# Kuki Gallmann
-
 Kuki Gallmann (1943-) is an Italian-born Kenyan citizen who has spent decades managing a large conservancy in Laikipia and writing about her African experiences. Her 1991 memoir "I Dreamed of Africa" provided a contemporary account of European life in Kenya post-independence. However, her story also illustrates ongoing land tensions, conservation conflicts, and the position of Europeans in post-colonial Kenya, particularly during the Laikipia land clashes of the 2010s.
 
 ## Early Life and Arrival in Kenya

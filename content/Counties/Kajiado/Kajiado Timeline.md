@@ -1,5 +1,3 @@
-# Kajiado Timeline
-
 Key dates and events in Kajiado County's history from pre-colonial times through 2026.
 
 ## Pre-Colonial and Early Colonial Period

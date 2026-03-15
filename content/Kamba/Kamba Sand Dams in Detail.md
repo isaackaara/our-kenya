@@ -1,5 +1,3 @@
-# Kamba Sand Dams in Detail
-
 Sand dams represent an indigenous water conservation technology, adapted and scaled in [[Kamba]] territories as a response to chronic water scarcity. These structures, built in seasonal riverbeds by trapping water behind sand barriers, have provided crucial water security improvements for [[Kamba]] communities, particularly in [[Ukambani Environment|Ukambani's semi-arid regions]].
 
 ## Technology and Design

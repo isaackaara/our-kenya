@@ -1,5 +1,3 @@
-# Homa Bay Health
-
 The Homa Bay County health system includes public health facilities ranging from primary health centers to the county referral hospital, complemented by limited private healthcare provision. The system faces challenges from resource constraints and heavy disease burden.
 
 ## Primary Health Facilities

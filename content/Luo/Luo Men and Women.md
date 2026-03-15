@@ -1,5 +1,3 @@
-# Luo Men and Women
-
 Traditional Luo society maintained distinct gender roles that assigned economic, social, and spiritual responsibilities according to gender. While these roles were never absolute or unchanging, they structured Luo social organization and persist in modified form into the contemporary period.
 
 ## Men: Fishermen, Pastoralists, and Warriors

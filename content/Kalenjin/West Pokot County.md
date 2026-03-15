@@ -1,5 +1,3 @@
-# West Pokot County
-
 West Pokot County, located in Kenya's remote northwestern corner, represents the most marginalized and underdeveloped Kalenjin territory. Arid and pastoralist, with limited state infrastructure, West Pokot faces chronic development deficits, while cattle raiding and cross-border conflict with the Turkana create persistent security challenges.
 
 ## Geography and Demographics

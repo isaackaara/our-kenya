@@ -1,5 +1,3 @@
-# Kalenjin and Running Economy
-
 The extraordinary dominance of Kalenjin runners in global distance running has created a substantial economic ecosystem. Elite runners, coaches, agents, training camps, and sponsorships generate millions of dollars in Kenya. However, wealth from running is distributed unevenly, with some athletes becoming wealthy while many others struggle.
 
 ## Prize Money and Sponsorships

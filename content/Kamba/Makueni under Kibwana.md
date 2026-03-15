@@ -1,5 +1,3 @@
-# Makueni under Kibwana
-
 [[Kivutha Kibwana Deep Dive|Kivutha Kibwana]]'s tenure as Governor of [[Makueni County]] (2013-2022) represented a distinctive approach to county governance, emphasizing transparency, health service expansion, and food security initiatives. [[Makueni County|Makueni]] under Kibwana became cited internationally as a model for effective devolved governance in Kenya.
 
 ## The Kibwana Governance Model

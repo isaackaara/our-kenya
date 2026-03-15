@@ -1,5 +1,3 @@
-# Samburu and the Colonial Period
-
 British colonial administration extended to [[Samburu]] territory in the late nineteenth century, fundamentally altering [[Samburu]] political structures and land access. Colonial policies established administrative districts, introduced taxation, and displaced [[Samburu]] from productive lands. The colonial period set conditions shaping post-colonial [[Samburu]] development challenges.
 
 ## Early Colonial Contact

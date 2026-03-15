@@ -1,5 +1,3 @@
-# Luo and the Mau Mau
-
 The Mau Mau Uprising (1952-1960) was overwhelmingly a Kikuyu and Embu phenomenon, centered in the central highlands and driven by Kikuyu grievances over land dispossession. The Luo experience of the Emergency was distinctly peripheral, and their political response shaped Kenya's independence movement in unexpected ways.
 
 ## Luo Limited Participation in Mau Mau

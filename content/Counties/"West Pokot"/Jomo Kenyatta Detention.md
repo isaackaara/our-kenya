@@ -1,5 +1,3 @@
-# Jomo Kenyatta Detention
-
 Jomo Kenyatta, Kenya's first president, was detained at Kapenguria by the British colonial government from 1952 to 1961. The detention was part of the colonial response to the Mau Mau Rebellion and nationalist movements challenging British rule. Kenyatta was arrested in April 1952 on charges of organizing the Mau Mau Rebellion, accusations he denied. His trial was held at Kapenguria, generating international attention and becoming a significant episode in Kenya's independence struggle. The trial proceedings were controversial, with questions about procedural fairness and evidence validity. Kenyatta was convicted and sentenced to imprisonment, then transferred to the remote Lokitaung location in northern Kenya for the remainder of his detention.
 
 ## The Trial and Controversy

@@ -1,5 +1,3 @@
-# Meru National Park
-
 Meru National Park spans approximately 870 square kilometers in eastern Meru County and neighboring areas, encompassing savanna grasslands, riverine forests, and varied wildlife habitats. The park is historically significant as the location where Joy Adamson raised Elsa the lioness and documented the lion's eventual return to the wild. Today, the park functions as a critical wildlife conservation area and tourist destination.
 
 ## Elsa the Lioness and Joy Adamson

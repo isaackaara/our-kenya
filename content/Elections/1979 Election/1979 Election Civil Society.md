@@ -1,5 +1,3 @@
-# 1979 Election Civil Society
-
 Churches and religious organizations played important roles in Kenyan civil society during the 1979 election. The churches remained relatively independent from government, though operating within a context of government awareness and occasional pressure. Religious leaders and church organizations were attentive to political developments and to questions of justice and governance.
 
 The National Council of Churches of Kenya (NCCK) continued to serve as an umbrella organization for Protestant churches. The NCCK engaged with political and social issues and had the potential to influence public discourse, though it was cautious in its approach to controversial political matters during the early Moi period.

@@ -1,5 +1,3 @@
-# Arror and Kimwarer Dams
-
 ## Overview
 
 The Arror and Kimwarer dam projects in the Kerio Valley represent one of Kenya's largest [[Corruption and Infrastructure Quality|infrastructure corruption]] cases. The Kenyan government signed contracts worth KES 21 billion (approximately USD 193 million) with Italian construction firm CMC di Ravenna for two hydroelectric dams. The projects were promised but the dams were never built, and the allocated funds disappeared into the pockets of government officials and their associates.

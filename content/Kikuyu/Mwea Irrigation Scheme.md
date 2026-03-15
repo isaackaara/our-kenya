@@ -1,5 +1,3 @@
-# Mwea Irrigation Scheme
-
 The Mwea Irrigation Development Scheme is one of Kenya's oldest, largest, and most significant irrigation projects, producing a major share of the country's domestic rice supply. Located in the semi-arid lower Tana region spanning Kirinyaga and Nyeri counties, Mwea has shaped Kikuyu agricultural innovation, tenant farmer livelihoods, and contentious water politics for over half a century.
 
 ## Historical Origins and Colonial Establishment

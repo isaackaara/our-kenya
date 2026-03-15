@@ -1,5 +1,3 @@
-# Luhya Political Figures
-
 The Luhya have produced several major political figures and are represented in Kenya's upper echelons of government. However, a distinctive pattern emerges: despite being the second-largest ethnic group, the Luhya have never produced a president, and their political leaders have often competed against each other rather than uniting behind a single candidate or party. This fragmentation reflects both the confederation structure of Luhya identity (no single "Luhya consciousness") and the broader politics of ethnic competition in Kenya.
 
 ## Key Figures

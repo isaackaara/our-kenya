@@ -1,5 +1,3 @@
-# Kisumu City County Government: Administration and Governance
-
 Kisumu City County is one of Kenya's 47 counties under the 2010 devolved governance system. The county government is responsible for local service delivery, development, and governance.
 
 ## Governance Structure

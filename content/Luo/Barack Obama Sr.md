@@ -1,5 +1,3 @@
-# [[Barack Obama Sr.md|Barack Obama Sr]].
-
 Barack Hussein Obama Sr. (1936-1982) was a Luo economist whose mobility through [[Tom Mboya.md|Tom Mboya]]'s Kennedy Airlift program exemplifies both the ambitions and vulnerabilities of educated Luo professionals in postcolonial Kenya. His marriage to Ann Dunham, an American anthropologist, while studying in Hawaii, produced Barack Hussein Obama Jr., who would become the 44th President of the United States. Obama Sr. represented the educated Luo elite whose prominence in the 1960s made them targets during the ethnic tensions of the Moi era.
 
 ## Key Facts

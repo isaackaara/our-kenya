@@ -1,5 +1,3 @@
-# Abagusii Cosmology
-
 The [[Gusii people|Gusii]] spiritual world, before and after [[Kisii Christianity Today|Christian conversion]], was organized around a complex pantheon of divine and ancestral forces. Traditional Gusii cosmology understood the universe as a multilayered realm where the supreme being, ancestors, and living humans interacted through ritual, misfortune, and moral transgression.
 
 ## Engoro (The Supreme Being)

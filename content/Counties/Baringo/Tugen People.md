@@ -1,5 +1,3 @@
-# Tugen People
-
 The Tugen represent a Kalenjin sub-group inhabiting the Tugen Hills and surrounding areas of Baringo County. The Tugen community, numbering several hundred thousand, maintains pastoral and increasingly agricultural livelihoods and cultural traditions rooted in centuries of settlement in the Rift Valley.
 
 The Tugen community of Daniel arap Moi achieved particular prominence through Moi's long political career and presidency, raising the profile of the Tugen within Kenya's political consciousness.

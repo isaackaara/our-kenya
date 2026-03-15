@@ -1,5 +1,3 @@
-# Kisii Politics
-
 [[Kisii County.md|Kisii County]] has a complex political history shaped by ethnic identity, class divisions, and competition for resources. Political dynamics significantly influence county governance and the distribution of development benefits.
 
 ## Post-Independence Politics

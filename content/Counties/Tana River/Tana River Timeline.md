@@ -1,5 +1,3 @@
-# Tana River Timeline
-
 This timeline summarizes major events, developments, and transitions shaping Tana River history from pre-colonial times through the contemporary period.
 
 Pre-1500: Archaeological evidence indicates human settlement along the Tana River for thousands of years. Pastoral and hunter-gatherer communities utilize river and delta resources. Swahili trading settlements emerge along the lower Tana River and coast, engaging in Indian Ocean commerce.

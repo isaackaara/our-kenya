@@ -1,5 +1,3 @@
-# Kisii Cooking Traditions and Food Culture
-
 [[Gusii people|Gusii]] cuisine reflects the agricultural products of the [[Kisii County|Kisii Highlands]] and incorporates cultural practices and values around food production, preparation, and consumption. Traditional [[Gusii people|Gusii]] foods are increasingly supplemented by modern commercial products, though traditional dishes remain culturally significant and are prepared for ceremonies and family meals.
 
 ## Staple Foods and Agricultural Production

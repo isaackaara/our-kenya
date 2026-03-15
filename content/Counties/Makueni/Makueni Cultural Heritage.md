@@ -1,5 +1,3 @@
-# Makueni Cultural Heritage
-
 Makueni County preserves Kamba cultural traditions encompassing music, visual arts, language, kinship systems, and spiritual practices. This cultural heritage has deep historical roots and continues shaping contemporary Makueni identity despite modernization and globalization pressures. Cultural preservation and transmission remain ongoing challenges.
 
 The Kamba carving tradition represents a distinctive artistic and commercial expression. Carvers create wooden sculptures ranging from functional items to decorative pieces. Carving requires skilled craftsmanship and knowledge of wood working. Export markets have transformed carving from local craft to commercial enterprise.

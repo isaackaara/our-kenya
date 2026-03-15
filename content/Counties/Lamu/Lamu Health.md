@@ -1,5 +1,3 @@
-# Lamu Health
-
 Health infrastructure and health outcomes in Lamu County are significantly below national standards, reflecting limited resources, geographic isolation, and challenges in recruiting and retaining health professionals. Infectious diseases, maternal and child health, and non-communicable diseases are major health challenges.
 
 The main health facility is Lamu District Hospital, located in Lamu town. It serves as the referral center for the county, handling complicated cases and providing inpatient services. However, the hospital is under-resourced, operating with limited medical equipment, inconsistent medicine supplies, and insufficient staffing. Infrastructure challenges include unreliable water and electricity supply, which affect hospital operations.

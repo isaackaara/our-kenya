@@ -1,5 +1,3 @@
-# Nyamira Cultural Heritage
-
 The communities in Nyamira County maintain rich cultural traditions encompassing initiation ceremonies, marriage customs, musical practices, and social organization. Cultural heritage shapes identity and community life while adapting to contemporary contexts.
 
 ## Gusii Traditions

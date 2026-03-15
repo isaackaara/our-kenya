@@ -1,5 +1,3 @@
-# Trans-Nzoia Politics
-
 Trans-Nzoia County has a complex political history shaped by ethnic diversity, land distribution patterns, and regional economic importance. Pre-independence Kenya saw the county (then part of Rift Valley region) contested between European settler interests and African nationalist movements. The Mau Mau Rebellion (1952-1960) affected the region, with both fighters and loyalists present. Post-independence political competition has involved multiple ethnic groups competing for representation and resource allocation. County governance was centralized under national administration until devolution reforms in 2013.
 
 ## County Governance Structure

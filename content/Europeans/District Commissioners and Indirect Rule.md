@@ -1,5 +1,3 @@
-# District Commissioners and Indirect Rule
-
 The District Commissioner (DC) was the central figure in Kenya's colonial administration. Working within Lugard's Indirect Rule framework, DCs administered large territories by working through appointed African chiefs who were subordinate to the colonial state. This system allowed the colonial government to govern vast areas with relatively few European administrators while co-opting African leadership into the colonial system.
 
 ## The DC System

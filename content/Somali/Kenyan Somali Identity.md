@@ -1,5 +1,3 @@
-# Kenyan Somali Identity
-
 The [[Kenyan Somali]] navigate a complex, often contradictory identity: they are Kenyan citizens with legal rights and obligations, yet they are also part of a trans-national [[Somali]] people with cultural, linguistic, and religious ties spanning [[Somalia]], Ethiopia, Djibouti, and diaspora communities globally. This dual identity, celebrated by some as reflecting cosmopolitanism, creates tension and challenge for others, particularly in contexts where the Kenyan state demands singular national loyalty.
 
 ## Kenyan Citizenship and Rights

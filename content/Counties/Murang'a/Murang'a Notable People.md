@@ -1,5 +1,3 @@
-# Murang'a Notable People
-
 Murang'a County has produced numerous political, cultural, and business figures who have exercised influence at national and regional levels, reflecting the county's demographic significance and its educated elite's prominent position in Kenyan public affairs. From nationalist leaders during the anti-colonial struggle through post-independence political leadership to contemporary business and cultural figures, Murang'a has contributed substantially to shaping Kenya's trajectory.
 
 Dedan Kimathi Waciuri, known as "Field Marshal" Dedan Kimathi, stands as among the most celebrated figures in Murang'a's history. As a leader of the Mau Mau rebellion (1952-1960), Kimathi organized guerrilla forces operating from Murang'a forests, becoming the most visible Kikuyu rebel leader. He was eventually captured and executed in 1957, becoming a martyr symbol for Kenyan nationalism. Kimathi's legacy remains powerful in Murang'a, with monuments, streets, and institutions bearing his name. His strategic innovations in guerrilla warfare and his defiant rhetoric against colonialism earned him iconic status in post-colonial Kenya.

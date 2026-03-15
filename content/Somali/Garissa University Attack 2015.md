@@ -1,5 +1,3 @@
-# Garissa University Attack 2015
-
 On 2 April 2015, [[Al-Shabaab]] gunmen attacked Garissa University College in [[Garissa County]], Kenya's largest [[Somali]]-populated county. They killed 147 students and staff, making it one of Kenya's worst terrorist attacks since the 1998 US Embassy bombing and the most deadly terror attack on a Kenyan university. The assault occurred in the heartland of the [[Kenyan Somali|Kenyan Somali community]], in a region already devastated by [[Eastleigh Security Crackdowns|security crackdowns]] and marginalization.
 
 ## The Attack

@@ -1,5 +1,3 @@
-# Nyandarua Infrastructure
-
 Infrastructure in Nyandarua County includes roads, electricity, water supply, healthcare facilities, and education systems. Development has occurred unevenly, with better services in Ol Kalou and other market centers than in remote rural areas. Roads connect market centers though many feeder roads remain unpaved and inaccessible during rains. Electricity reaches most settlements though grid reliability varies. Water supply systems exist but often inadequate. Telecommunications networks provide mobile phone coverage to most areas.
 
 ## Road Networks

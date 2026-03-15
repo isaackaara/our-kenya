@@ -1,5 +1,3 @@
-# Kalenjin and the Environment
-
 The Kalenjin highlands (Mau Forest, Cherangani, Nandi Hills) form Kenya's critical water towers, providing water to arid and semi-arid lowlands. However, extensive encroachment by settlers (including Kalenjin politicians allocating forest land to supporters) has led to massive deforestation, triggering a 2009-2010 eviction that devastated thousands while failing to permanently stop encroachment.
 
 ## Water Tower Geography

@@ -1,5 +1,3 @@
-# [[Giriama]] [[uprising]] Historical Context
-
 The 1913-1914 Giriama Uprising occurred in a context of [[colonial]] expansion, labor demands, and existing tensions between colonial authority and Giriama communities. Understanding the historical context illuminates causes, participants, and significance of this important [[resistance]] movement.
 
 ## Pre-uprising Colonial Relations

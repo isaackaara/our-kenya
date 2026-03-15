@@ -1,5 +1,3 @@
-# Kajiado Education
-
 Kajiado County's education sector faces distinctive challenges of integrating traditionally nomadic pastoral communities with formal schooling systems, resource constraints, and varying education quality, while education access has improved substantially in recent decades.
 
 ## School Infrastructure

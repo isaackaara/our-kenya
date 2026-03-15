@@ -1,5 +1,3 @@
-# Kenyan Asians Overview
-
 Kenyan Asians are people of South Asian origin (primarily Indian, Pakistani, Gujarati, Sikh, Goan, and other communities) who have lived in Kenya for centuries. They number between 80,000 and 120,000 today, down from a peak of approximately 176,000 at independence in 1963.
 
 ## Who Are the Kenyan Asians?

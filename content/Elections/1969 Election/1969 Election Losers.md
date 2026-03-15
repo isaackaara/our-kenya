@@ -1,5 +1,3 @@
-# 1969 Election Losers
-
 The 1969 election produced clear losers, though the loss took different forms depending on the context. The most obvious loser was [[Oginga Odinga]], the formative nationalist figure and elder statesman of Kenyan politics, who was banned from contesting the election and whose Kenya People's Union had been declared illegal. Odinga's exclusion from the 1969 election marked the effective end of his political career at the national level, though he would attempt a political comeback decades later.
 
 Other losers included Kenya People's Union members and independent candidates who attempted to contest without party affiliation. These candidates faced government harassment, security force intimidation, and voter reluctance to support candidates who opposed KANU. Most KPU members who attempted independent candidacies were unsuccessful, and the banning of the party meant that KPU members had no organizational mechanism for coordinating campaigns or mobilizing supporters.

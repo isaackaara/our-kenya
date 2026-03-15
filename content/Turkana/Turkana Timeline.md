@@ -1,5 +1,3 @@
-# Turkana Timeline
-
 This chronological reference presents key dates and events in Turkana history from the 18th century [[Turkana Origins and Migration]] through 2026, providing a framework for understanding major developments in Turkana society, economy, politics, and environment.
 
 ## Pre-Colonial Period

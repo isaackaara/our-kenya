@@ -1,5 +1,3 @@
-# Kogelo Village
-
 Kogelo is a small village in [[Siaya County]], Kenya, best known as the ancestral home of [[Barack Obama Sr and Siaya|Barack Hussein Obama Sr.]] and the paternal family of former US President Barack Hussein Obama II. The village is located in Nyang'oma location and had a population of approximately 17,294 as of 2008.
 
 ## Geography and Setting

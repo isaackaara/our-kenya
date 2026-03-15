@@ -1,5 +1,3 @@
-# Enoosupukia 1993: Ethnic Cleansing and Land Claims
-
 ## The Expulsion of Kikuyu Farmers
 
 In October 1992 (just before Kenya's multi-party elections), Kikuyu farmers were forcibly expelled from Enoosupukia hills in Narok District. The expulsion was violent and traumatic.

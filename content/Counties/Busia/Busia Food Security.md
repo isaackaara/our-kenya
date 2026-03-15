@@ -1,5 +1,3 @@
-# Busia Food Security
-
 Busia County generally maintains reasonable food security due to reliable rainfall and diverse agricultural production. Maize and bean cultivation provide household food security and surplus for market sale. Fish production from Lake Victoria and swamps supplements household protein consumption. Vegetable production improves household nutrition diversity. Sugarcane farming provides income enabling food purchase. Livestock (dairy, meat) supplements household protein. Food production generally exceeds household consumption in most years. Good rainfall reliability supports consistent production. However, poverty limits purchasing power for some households despite local food production. Climate variability creates periodic food shortages in drought years. Post-harvest losses affect available food quantity. Food storage at household level is often inadequate for off-season consumption.
 
 ## Production Capacity and Market Linkages

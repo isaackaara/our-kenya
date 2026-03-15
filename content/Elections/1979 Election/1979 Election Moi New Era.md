@@ -1,5 +1,3 @@
-# 1979 Election Moi New Era
-
 President Daniel arap Moi's declared "Nyayo" philosophy was central to his campaign message in the 1979 election. Nyayo, meaning footprints or following in footsteps, presented Moi's rule as a continuation of Kenyatta's legacy while promising new directions and new approaches to governance. The Nyayo philosophy emphasized stability, development, and unity, but it also signaled a potential shift in political style from Kenyatta's personal rule.
 
 Moi presented himself as a reconciler and a unifier. Unlike Kenyatta, whose rule had been marked by concentration of power among a narrow Kikuyu elite, Moi emphasized the inclusion of different ethnic groups and different regions in the political system. The promise of Nyayo was that under Moi, Kenyan politics would be more balanced and more inclusive than they had been under Kenyatta.

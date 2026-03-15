@@ -1,5 +1,3 @@
-# Eastleigh Real Estate: Somali Property Development and Diaspora Investment
-
 [[Somali]] investors have transformed [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]] through large-scale real estate development, converting a middle-class residential neighborhood into a dense, multi-story commercial and residential hub. The real estate boom has been financed partly by local merchant capital and partly by diaspora investment from the global [[Somali]] diaspora (USA, UK, Canada, Scandinavia).
 
 ## Scale of Real Estate Development

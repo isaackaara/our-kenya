@@ -1,5 +1,3 @@
-# Music Award Shows Kenya
-
 The Kisima Music Awards and other recognition programs that emerged in the 1990s and 2000s attempted to celebrate Kenyan musical excellence while navigating industry politics, commercial pressures, and accusations of corruption that plagued award schemes from inception. These awards reflected tensions between artistic merit and commercial success, national versus ethnic music, and subjective taste versus objective criteria.
 
 The Kisima Awards, founded in 1994 by Pete Odera and legendary producer Tedd Josiah, became Kenya's most prominent music recognition program. Named after the Swahili word for "well," Kisima originally sought to acknowledge talent across performing arts before focusing exclusively on music. The awards ran until 1997, then folded, only to be revived in later years with updated processes and broader regional scope.

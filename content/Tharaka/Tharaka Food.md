@@ -1,5 +1,3 @@
-# Tharaka Food
-
 Tharaka food [[Tharaka Oral Traditions]] reflects adaptation to the semi-arid environment and the mixed agricultural-pastoral livelihoods that characterize the region. Traditional [[Tharaka Agriculture]] is based on staple [[Tharaka Pastoralism]], legumes, and pastoral products.
 
 ## Staple Grains

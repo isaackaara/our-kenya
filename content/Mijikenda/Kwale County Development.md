@@ -1,5 +1,3 @@
-# Kwale County Development
-
 Kwale County, the southern coastal county and heartland of Digo and Duruma peoples, has experienced significant development changes. Understanding Kwale County development requires examining geography, economy, governance, and challenges specific to this region.
 
 ## Geography and Location

@@ -1,5 +1,3 @@
-# Laikipia Kikuyu Smallholders
-
 Kikuyu farming communities in southern Laikipia practice smallholder agriculture on limited land holdings. Kikuyu settlement in Laikipia occurred through colonial-era and post-independence processes. Smallholders cultivate crops suited to their altitude and climate zones. Relationships between smallholder farmers and the large-scale ranching sector have been complex. Land fragmentation through inheritance has reduced farm sizes. Kikuyu smallholders have adopted diverse livelihood strategies adapted to their circumstances.
 
 ## Settlement Patterns

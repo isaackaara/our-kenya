@@ -1,5 +1,3 @@
-# Pyrethrum and Sisal
-
 Pyrethrum and sisal were important colonial-era cash crops that defined regional economies. Both have declined due to global competition, changing markets, and crop shifts.
 
 ## Pyrethrum

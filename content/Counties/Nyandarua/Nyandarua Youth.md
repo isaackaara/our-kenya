@@ -1,5 +1,3 @@
-# Nyandarua Youth
-
 Young people in Nyandarua County face limited opportunities in an economy dominated by smallholder agriculture. Limited farm profitability and small farm sizes push youth toward urban migration, education, and non-farm employment. Youth engagement in agriculture has declined as a proportion of employment. Many young people work in agricultural processing, services, and informal sectors. Youth organizations provide platforms for collective action though coverage remains limited.
 
 ## Agricultural Employment

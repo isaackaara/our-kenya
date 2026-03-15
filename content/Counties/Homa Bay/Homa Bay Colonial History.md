@@ -1,5 +1,3 @@
-# Homa Bay Colonial History
-
 The Homa Bay area, then part of South Nyanza District, was incorporated into British colonial administration during the late 19th and early 20th centuries. Colonial rule introduced administrative structures, economic changes, and social transformation that reshaped pre-existing societies.
 
 ## Early Colonial Period

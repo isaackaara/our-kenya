@@ -1,5 +1,3 @@
-# Kenyan Comedy and Ethnic Humour
-
 Kenyan comedy has historically relied heavily on ethnic stereotyping and ethnic humor. Comedians have built careers on imitating accents, exaggerating ethnic characteristics, and performing ethnic caricatures. The most prominent comedy platforms, including the Churchill Show, have featured ethnic humor as central to their entertainment model. This humor has reflected and reinforced [[Cross-Ethnic Kenya|ethnic stereotypes]] while simultaneously transcending ethnic boundaries to entertain [[Nairobi as Melting Pot|multi-ethnic audiences]].
 
 The Churchill Show, a comedy television program that aired from 1993 onward, became the most prominent platform for Kenyan comedians. The show featured comedians performing before live audiences, delivering stand-up comedy sets. A significant portion of the humor involved ethnic jokes, with comedians imitating accents and performing ethnic stereotypes. Comedians would perform as Kikuyu businesspeople, Luo fishermen, Somali traders, or other ethnic stereotypes.

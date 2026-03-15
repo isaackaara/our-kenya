@@ -1,5 +1,3 @@
-# Sports: Kenya as a Sporting Nation
-
 Kenya has produced some of the world's most dominant athletes across multiple sports, punching far above its demographic weight. While distance running remains the nation's signature excellence, Kenya competes at the highest levels in rugby sevens, football, rally racing, and emerging sports. This vertical documents Kenya's sporting legacy, its greatest athletes, institutional structures, controversies, and economic ecosystem.
 
 ## Athletics (Distance Running Dominance)

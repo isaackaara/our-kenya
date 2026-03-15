@@ -1,5 +1,3 @@
-# Wajir Cultural Heritage
-
 Wajir County's cultural heritage reflects centuries of Somali settlement and pastoral tradition, embodying distinctive practices in music, dance, poetry, kinship systems, and religious observance. The [[../../Somali/Somali|Somali]] culture dominant in Wajir demonstrates remarkable resilience despite modern pressures and social change. Cultural expressions serve important social functions including conflict resolution, historical preservation, and community identity maintenance.
 
 ## Oral Traditions and Poetry

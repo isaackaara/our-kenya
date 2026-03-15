@@ -1,5 +1,3 @@
-# Kalenjin Women's Roles
-
 Kalenjin women's traditional roles centered on agriculture, homestead management, livestock care, and reproduction. While not formally holding political power in the male-dominated warrior and elder councils, women exercised significant authority within household and domestic spheres and controlled essential economic and reproductive functions.
 
 ## Agricultural Work and Household Management

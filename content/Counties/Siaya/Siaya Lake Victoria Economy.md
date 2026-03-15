@@ -1,5 +1,3 @@
-# Siaya Lake Victoria Economy
-
 [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] forms the northeastern boundary of [[Siaya County]] and has historically been the foundation of the regional economy. Fishing represents the primary livelihood for thousands of Siaya residents, with commercial and artisanal fishing operations dominating the lakeshore settlements and beach management units.
 
 ## Fishing Fleet and Operations

@@ -1,5 +1,3 @@
-# Taita Education History
-
 The history of education among the Taita reflects the influence of Christian missions, colonial policies, and post-independence national education systems. Mission schools became the primary pathway to Western education in the region.
 
 ## Mission Schools and Christian Education

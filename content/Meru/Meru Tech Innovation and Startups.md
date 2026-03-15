@@ -1,5 +1,3 @@
-# Meru Tech Innovation and Startups
-
 ## Digital Access and Penetration
 
 ### Mobile Phone and Internet Access

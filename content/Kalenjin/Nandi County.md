@@ -1,5 +1,3 @@
-# [[../Counties/Nandi/Nandi County|Nandi County]]
-
 Nandi County is the homeland of [[Kalenjin|Kalenjin]] people, the second-largest Kalenjin sub-group. Nandi history encompasses the longest and most sustained colonial resistance in East Africa, home to one of the world's greatest distance runners, legendary cryptids embedded in oral tradition, and some of Kenya's most productive tea-growing highlands. The Nandi represent a unique blend of militant resistance, athletic excellence, and cultural continuity.
 
 ## Key Facts

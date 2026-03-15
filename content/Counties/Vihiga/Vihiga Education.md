@@ -1,5 +1,3 @@
-# Vihiga Education
-
 Vihiga County has a strong educational tradition reflecting missionary educational investment and community commitment to education. High proportions of Maragoli populations work as teachers, civil servants, and professionals in fields requiring advanced education. The county has primary schools, secondary schools, and vocational institutions distributed throughout. Education is valued as a pathway to professional employment and out-migration opportunity.
 
 ## Primary and Secondary Education

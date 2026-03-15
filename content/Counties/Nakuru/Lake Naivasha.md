@@ -1,5 +1,3 @@
-# Lake Naivasha
-
 [[../../Conservation/Lake Naivasha|Lake Naivasha]] is a freshwater Rift Valley lake, the largest body of freshwater in the Rift Valley system. Unlike the saline [[../../Conservation/Lake Nakuru|Lake Nakuru]], Naivasha's fresh water makes it unique and ecologically valuable. The lake supports a diverse wildlife population, including fish, hippos (the largest population in Kenya), waterfowl, and herbivores on its shores.
 
 The lake's name comes from [[../../Maasai/Maasai|Maasai]] "Nai'posha" meaning "the place of the rough water", referring to the unpredictable weather patterns that generate sudden storms. [[../../Conservation/Lake Naivasha|Lake Naivasha]] has a fascinating history of ecological fluctuation, with water levels rising and falling dramatically over decades. During dry periods, the hippo population suffers; during wet periods, the lake supports abundant life.

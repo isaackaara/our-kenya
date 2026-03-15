@@ -1,5 +1,3 @@
-# Trans-Nzoia Conflict
-
 Inter-communal conflict over land and resources has been a recurring challenge in Trans-Nzoia County. The most significant conflict episode was [[../../Kalenjin/Kalenjin|Kalenjin]] Land Defence Force (SLDF) insurgency (2006-2008), based primarily in [[../../Conservation/Mount Elgon National Park|Mount Elgon]] but affecting neighboring Trans-Nzoia areas. Conflicts have emerged between Sabaot communities and non-Sabaot settlers, particularly regarding Mount Elgon forest land control. Disputes between pastoralist communities (Pokot, Samburu) and agricultural communities have occurred, with cattle raiding as a tactic. Water and pasture access disputes have generated conflict in pastoral and semi-pastoral zones. Land boundary disputes between neighboring farms can escalate to community-level tensions.
 
 ## SLDF Insurgency and Land Tensions

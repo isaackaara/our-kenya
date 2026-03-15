@@ -1,5 +1,3 @@
-# Makueni Land Issues
-
 Land tenure and land use conflicts in Makueni County reflect tensions between pastoral and agricultural land uses, colonial and postcolonial legal frameworks, population growth, and contemporary development pressures. Land issues profoundly affect livelihoods, agricultural development, and pastoral production.
 
 Historically, Kamba pastoral and agricultural systems managed land through community-based tenure emphasizing collective access within family and clan territories. Colonial land policies disrupted these systems through individual titling, government reserves, and pastoral access restrictions. Colonial administration allocated land to European settlers and urban development, restricting Kamba access.

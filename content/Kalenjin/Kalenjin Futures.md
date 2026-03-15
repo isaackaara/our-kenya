@@ -1,5 +1,3 @@
-# Kalenjin Futures
-
 The Kalenjin community faces critical questions in 2026 regarding political power, economic sustainability, environmental change, and cultural identity. The Kalenjin golden era (athletically and politically dominant from the 1980s through early 2000s) is at an inflection point, with multiple trajectories possible.
 
 ## Political Power Under William Ruto

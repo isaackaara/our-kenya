@@ -1,5 +1,3 @@
-# Kalenjin Music Traditions
-
 Kalenjin musical traditions encompass diverse instruments, vocal forms, and performance contexts that have shaped social life and religious expression. Traditional music was inseparable from ritual, celebration, and community gathering; the shift to contemporary music genres reflects broader cultural transformations.
 
 ## Musical Instruments

@@ -1,5 +1,3 @@
-# Corporate Kenya Timeline
-
 A chronological overview of key events in [[Kenya]]'s corporate and economic history, from [[Colonial Economy|colonial]] establishment through [[Post-Independence Economic Policy|post-independence]] development to contemporary times. The timeline captures major milestones in [[Banking History Kenya|banking]], [[Telecoms History Kenya|telecommunications]], [[Manufacturing History Kenya|manufacturing]], and other sectors.
 
 ## See Also

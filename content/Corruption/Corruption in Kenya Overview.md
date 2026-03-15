@@ -1,5 +1,3 @@
-# Corruption in Kenya: A Structural Overview
-
 ## International Standing
 
 Kenya ranks 143rd out of 180 countries on Transparency International's Corruption Perceptions Index (CPI) as of 2024, with a score of 33/100 (lower is more corrupt). This places Kenya in the lower half of global rankings and among the most corrupt countries in East Africa. The trend has fluctuated since 2012 (when Kenya scored 27/100), with brief improvements during reform moments, notably improving to 37 in 2017 under anti-corruption rhetoric, before declining again.

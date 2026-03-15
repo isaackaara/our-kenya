@@ -1,5 +1,3 @@
-# Kalenjin and ICC
-
 The International Criminal Court (ICC) cases arising from Kenya's 2007,08 post-election violence are centrally connected to Kalenjin history and contemporary politics. Two prominent cases involved alleged Kalenjin perpetrators: William Ruto (later Kenya's president) and Joshua arap Sang (a radio broadcaster). Understanding the ICC cases requires examining the charges, the legal processes, how Kalenjin communities experienced the ICC intervention, and whether the process advanced justice.
 
 ## The Charges and Legal Framework

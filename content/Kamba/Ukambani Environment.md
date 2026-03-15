@@ -1,5 +1,3 @@
-# Ukambani Environment
-
 Ukambani, the semi-arid territory of the Kamba people, shaped every aspect of their economy, culture, and ecological practices. The landscape of acacia woodland, seasonal rivers, and sparse rainfall produced a pastoral and farming society adapted to aridity. The famous "Machakos miracle" demonstrated Kamba environmental agency through indigenous terracing and conservation techniques, though climate change now threatens to reverse these gains.
 
 ## Key Facts

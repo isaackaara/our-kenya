@@ -1,5 +1,3 @@
-# Wanjiku Kamau and the 2010 Constitution
-
 "Wanjiku" (meaning "ordinary citizen" or referring to the common people) became a symbol of popular participation in Kenya's 2010 constitutional reform process. The constitutional referendum of August 4, 2010 represented a historic moment where Kikuyu civil society and ordinary Kikuyu played significant roles in Kenya's constitutional transformation.
 
 ## The Constitutional Process

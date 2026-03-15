@@ -1,5 +1,3 @@
-# Aberdare National Park
-
 Aberdare National Park protects the high moorland and forest ecosystems of the Aberdare Range. The park was established to conserve forest habitat, protect water sources, and preserve wildlife. Park management is the responsibility of the Kenya Wildlife Service. The park is famous for its wildlife viewing facilities including the Ark Lodge and Treetops Lodge. Rhino populations in the park are significant for Kenya's conservation efforts.
 
 ## Park Establishment

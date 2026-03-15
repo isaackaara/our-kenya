@@ -1,5 +1,3 @@
-# Meru Education
-
 Meru County has developed a system of primary, secondary, and tertiary education institutions serving the county's growing population. Educational attainment in Meru is relatively high compared to many Kenyan counties, reflecting the historical investment by Christian missionaries and the community's emphasis on education as a path to advancement. Chuka University, located in the county, provides higher education access.
 
 ## Primary Education

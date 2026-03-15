@@ -1,5 +1,3 @@
-# Luo Music and Culture
-
 The Luo have contributed profoundly to Kenya's cultural landscape, particularly through music. Ohangla, benga, and the traditional nyatiti define Luo musical identity. [[Benga Music Origins.md|benga music]], which originated among Luo musicians in the 1950s-1960s, became Kenya's dominant popular music style. Oral poetry, proverbs, and narrative traditions preserve Luo values and historical consciousness across generations.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Mombasa Road and Taita
-
 The Mombasa-Nairobi highway (A109) is one of Kenya's most important transport corridors, passing through Taita-Taveta County. The highway has transformed regional commerce and connectivity while creating both opportunities and challenges for Taita communities.
 
 ## Route and Strategic Importance

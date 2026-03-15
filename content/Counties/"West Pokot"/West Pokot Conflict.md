@@ -1,5 +1,3 @@
-# West Pokot Conflict
-
 West Pokot County experiences recurring inter-communal conflict, primarily driven by competition for pastoral resources (water, grazing). Cattle raiding between Pokot, Turkana, Marakwet, and Samburu communities represents the dominant conflict pattern. Seasonal droughts intensify competition for scarce water and pasture, triggering raiding cycles. Small arms proliferation has made raiding more lethal since the 1980s. Intra-Pokot conflict between territorial sub-groups (Soy vs Mosop) has generated violence and displacement. Resource-based conflicts over water points and highland grazing territories persist. Competing land claims between pastoral and agricultural communities in highlands generate tension. Political competition has sometimes mobilized ethnic conflict for electoral purposes.
 
 ## Armed Raiding and Violence

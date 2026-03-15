@@ -1,5 +1,3 @@
-# Tharaka Marriage
-
 Tharaka marriage practices involve bridewealth transfer, family negotiations, and the creation of bonds between clans. Marriage arrangements reflect social status and lineage relationships.
 
 ## Bridewealth System

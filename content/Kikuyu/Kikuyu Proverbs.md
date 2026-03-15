@@ -1,5 +1,3 @@
-# Kikuyu Proverbs
-
 [[Kikuyu]] oral tradition includes numerous proverbs and sayings (siila in [[Gikuyu Language|Gikuyu]]) that encode cultural values, moral teachings, and practical wisdom. These sayings were used for education, guidance in decision-making, and entertainment. They reveal what the Kikuyu valued: respect, community, wisdom, and proper conduct.
 
 ## Representative Proverbs

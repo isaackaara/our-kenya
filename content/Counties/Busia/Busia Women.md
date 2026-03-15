@@ -1,5 +1,3 @@
-# Busia Women
-
 Women in Busia County play central roles in agricultural production, household management, and community welfare. Women manage household food security and nutrition through food preparation and consumption decisions. Women farmers operate plots ranging from household gardens to larger holdings. Women engage in agricultural labor intensively during planting and harvest. Women's cooperative societies and savings groups provide financial services and social support. Women's participation in trade (agricultural products, consumer goods) generates household income. Women engage in fish processing and marketing. Women manage household water collection and fuel procurement. Women's groups facilitate knowledge exchange and community development.
 
 ## Economic Activities and Roles

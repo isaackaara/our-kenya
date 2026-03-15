@@ -1,5 +1,3 @@
-# Kisumu's Economy: Fishing, Agriculture, and Regional Decline
-
 Kisumu's economy is based on fishing, agriculture (particularly sugar, cotton, and rice), small manufacturing, regional trade, and service industries. However, the city has experienced economic decline relative to highland regions and the national economy.
 
 ## Fishing Industry

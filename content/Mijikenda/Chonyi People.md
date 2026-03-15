@@ -1,5 +1,3 @@
-# [[Chonyi]] People
-
 The Chonyi are a [[Mijikenda]] sub-group living primarily in [[Kilifi County]]. Smaller than the Giriama or Digo but with distinctive cultural and historical characteristics, the Chonyi represent one branch of the broader Mijikenda diaspora along the Kenya coast.
 
 ## Geography and Homeland

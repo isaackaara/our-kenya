@@ -1,5 +1,3 @@
-# Maasai in WWII
-
 ## Colonial Military Service
 
 During World War II (1939-1945), the Maasai community contributed to the British colonial war effort through military recruitment and support roles. Maasai men were recruited into the King's African Rifles (KAR), the main colonial military force in East Africa, and served in various theaters of the war. This participation was not voluntary in all cases, as colonial authorities implemented conscription and labor requisitioning systems.

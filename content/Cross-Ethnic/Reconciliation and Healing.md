@@ -1,5 +1,3 @@
-# Reconciliation and Healing
-
 Reconciliation and healing initiatives following conflict represent deliberate efforts to restore [[Cross-Ethnic Kenya|cross-ethnic relations]] damaged by violence. Truth commissions, victim support programs, and grassroots reconciliation activities attempt to address trauma and rebuild [[Cross-Ethnic Kenya|community trust]]. These initiatives demonstrate both possibilities and limitations of conflict healing in ethnically divided societies.
 
 Following 2007-2008 post-election violence, Kenya established institutional mechanisms for reconciliation. The Truth, Justice and Reconciliation Commission (TJRC) investigated violence, documented abuses, and attempted to foster healing. The TJRC's work involved gathering testimony from victims of all ethnic backgrounds and attempting to promote shared understanding.

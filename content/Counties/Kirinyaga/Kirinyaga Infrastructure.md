@@ -1,5 +1,3 @@
-# Kirinyaga Infrastructure
-
 Infrastructure in Kirinyaga County reflects its agricultural economy and central highland location. Road networks connect farming areas to markets and administrative centers. Electricity reaches most settled areas though grid reliability varies. Water supply systems exist but often struggle to meet demand. Telecommunications networks provide mobile phone coverage to most areas.
 
 ## Road Network

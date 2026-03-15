@@ -1,5 +1,3 @@
-# Somali Investment in Nairobi Real Estate
-
 Somali entrepreneurs and investors have increasingly directed capital into Nairobi real estate, becoming significant property developers and investors across multiple neighborhoods. Real estate investment represents wealth accumulation strategy, asset diversification, and geographic expansion of Somali capital beyond traditional trade-oriented sectors.
 
 ## Capital Sources

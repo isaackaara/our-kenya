@@ -1,5 +1,3 @@
-# Nyamira Diaspora
-
 Nyamira people have migrated to Nairobi and other cities in search of employment and economic opportunities. The diaspora maintains connections to home while building lives in urban areas, with significant remittances supporting rural families.
 
 ## Migration to Nairobi

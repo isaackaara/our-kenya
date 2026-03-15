@@ -1,5 +1,3 @@
-# Kirinyaga Health
-
 Healthcare in Kirinyaga County follows Kenya's national structure with public and private health services. The county referral hospital provides tertiary care in Kerugoya. Health centers and dispensaries offer primary healthcare services in market centers and rural areas. Private clinics supplement public services in urban areas. Healthcare coverage has expanded but significant access and quality challenges persist.
 
 ## Public Health System

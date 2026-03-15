@@ -1,5 +1,3 @@
-# Maasai and the Mau Mau: Non-Participation and Pragmatism
-
 ## The Mau Mau as Kikuyu Movement
 
 The Mau Mau Uprising (1952-1960) was primarily a Kikuyu-led armed rebellion against British colonial rule. The movement emerged from Kikuyu grievances over land dispossession and political marginalization.

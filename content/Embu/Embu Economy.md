@@ -1,5 +1,3 @@
-# Embu Economy
-
 The Embu economy is predominantly agricultural, with tea, coffee, and horticultural crops as primary income generators. Smallholder farming dominates the landscape, though farm sizes have declined due to population pressure and land fragmentation. Agricultural marketing, trade, and services in Embu town provide complementary economic activity.
 
 ## Cash Crop Production

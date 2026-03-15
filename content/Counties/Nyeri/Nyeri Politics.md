@@ -1,5 +1,3 @@
-# Nyeri Politics
-
 Nyeri County is a Kikuyu political stronghold with a long history of influence in national politics. The county represents a significant voting bloc and has produced national political leaders. County politics remain competitive internally, with multiple factions competing for governorship and parliamentary seats. Nyeri's political culture emphasizes education, entrepreneurship, and commercial development.
 
 ## National Political Influence

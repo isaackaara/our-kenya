@@ -1,5 +1,3 @@
-# Homa Bay Tourism
-
 Tourism in Homa Bay County remains underdeveloped, though the county possesses significant tourism potential including Ruma National Park, Rusinga Island, and Lake Victoria attractions. Tourism infrastructure and marketing remain limited.
 
 ## Ruma National Park Tourism

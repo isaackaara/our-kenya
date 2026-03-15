@@ -1,5 +1,3 @@
-# Kamba Oral Literature
-
 The Kamba maintain a rich tradition of oral literature including proverbs (*nthimo*), folktales (*ngano*), and riddles (*keele*). These narrative and aphoristic forms encode cultural values, historical knowledge, practical wisdom, and entertainment.
 
 ## Nthimo: Kamba Proverbs

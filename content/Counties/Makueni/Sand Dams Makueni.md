@@ -1,5 +1,3 @@
-# Sand Dams Makueni
-
 Sand dams represent a significant water harvesting technology innovation pioneered in Makueni County by the Utooni Development Organisation and community-based water programmes. The technology addresses water scarcity through simple, locally-implementable infrastructure construction that provides dry-season water supply.
 
 Sand dam construction involves building small dams across seasonal rivers, typically 1 to 4 meters high. During rainy seasons, these dams trap flowing water and allow sand and sediment to accumulate behind the dam. This accumulated sand and sediment functions as a natural aquifer, holding water that remains available long after surface water disappears.

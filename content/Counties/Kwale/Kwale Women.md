@@ -1,5 +1,3 @@
-# Kwale Women
-
 Women in Kwale County play central roles in household food security, income generation, and community welfare while facing significant inequalities in land access, education, healthcare, and political representation. Cultural norms emphasizing male authority, limited economic opportunities, and inadequate institutional support constrain women's development and well-being.
 
 Economically, women engage in agriculture, trading, small-scale business, and service provision. Women typically handle household food production and marketing, generating income for household needs. Women dominate some informal sector activities including street trading, small restaurant operations, and domestic service. However, women face constraints including limited credit access, market information, and assets to invest.

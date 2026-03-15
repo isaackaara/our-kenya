@@ -1,5 +1,3 @@
-# Isiolo Infrastructure
-
 Infrastructure development in Isiolo reflects its pivotal role linking central Kenya with northern regions. The A109 highway, connecting Nairobi to Isiolo and historically serving as the main tarmac access route to the north, shaped settlement and trade patterns. The road's condition and maintenance directly affect regional commerce and connectivity.
 
 Water infrastructure remains critical for a semi-arid county. Boreholes, shallow wells, and the Ewaso Nyiro River provide the water supply for human consumption, livestock, and agricultural irrigation. Water availability limits settlement expansion and pastoral movement patterns.

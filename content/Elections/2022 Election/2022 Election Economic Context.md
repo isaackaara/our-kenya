@@ -1,5 +1,3 @@
-# 2022 Election Economic Context
-
 Kenya's 2022 election occurred in context of escalating economic challenges including inflation, currency depreciation, debt accumulation, and reduced foreign exchange reserves. These economic pressures created electoral conditions wherein voters prioritized economic management and cost-of-living concerns, enabling candidates offering economic relief narratives to resonate more effectively than candidates emphasizing institutional reform or political continuity.
 
 Inflation had accelerated during 2022, with consumer prices rising particularly for food and fuel, core necessities for lower-income households. The inflation reached levels exceeding 8-9% by August 2022, representing the highest rates in several years. Households struggled with increased living costs and reduced purchasing power, creating economic anxiety regarding household financial stability. The inflation was particularly severe for lower-income households, whose spending was concentrated on food and fuel and whose real incomes had stagnated or declined in the context of currency depreciation.

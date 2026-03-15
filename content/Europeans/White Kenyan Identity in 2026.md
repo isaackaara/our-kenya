@@ -1,5 +1,3 @@
-# White Kenyan Identity in 2026
-
 In 2026, [[white Kenyans]] exist in a state of [[ambiguous belonging]] that has defined their position since [[independence]] in 1963. They are [[Kenyan]] by [[citizenship]], birth, and often by [[emotional attachment]] and long residence. Yet they remain marked as [[foreign]], as [[outsiders]], as the [[descendants]] and [[representatives]] of [[colonial dispossession]]. The question of [[white Kenyan identity]] in 2026 remains fundamentally unresolved: are white Kenyans truly Kenyan, or are they [[expatriates]] whose presence in Kenya is contingent on [[politics]], [[economics]], and [[security circumstances]]?
 
 ## The Fundamental Ambiguity

@@ -1,5 +1,3 @@
-# Kikuyu Town
-
 [[../../Kikuyu/Kikuyu|Kikuyu]] town is a satellite town west of Nairobi in [[../Kiambu/Kiambu County|Kiambu County]], historically notable as the site of early missionary activity and Christian educational institutions. The Church of Scotland mission established a significant presence in Kikuyu in the late colonial period, including a mission station and educational facilities. The town's name, "Kikuyu", refers to the ethnic community, and the town has become emblematic of Kikuyu cultural identity.
 
 Alliance High School, Kenya's most elite secondary school, is located in [[../../Kikuyu/Kikuyu|Kikuyu]] town and was founded in 1926 by the Alliance of Protestant Missions. The school has produced generations of Kenya's intellectual, political, and business elite, making it perhaps the single most important institution for shaping Kenya's post-independence leadership. An Alliance education became a credential of tremendous prestige and social importance.

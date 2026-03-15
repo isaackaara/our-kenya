@@ -1,5 +1,3 @@
-# Busia HIV
-
 HIV prevalence in Busia County exceeds national average, reflecting vulnerabilities from border location and transient populations. Border trading communities have elevated infection rates due to partnership behaviors and mobile populations. Fishing communities have traditionally high HIV prevalence related to livelihoods and social behaviors. Mobile populations (traders, transporters) have higher infection rates than settled populations. Trucking operations along major highways contribute to transmission through trucker-sex worker interactions. School-age girls have elevated infection rates, reflecting intergenerational and economic disparities. Stigma associated with HIV status affects disclosure and treatment uptake. Knowledge of HIV transmission is generally high but behavioral change has been limited. Access to prevention services (condoms, testing) is available but utilization varies.
 
 ## HIV Impact and Treatment

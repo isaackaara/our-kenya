@@ -1,5 +1,3 @@
-# Trans-Nzoia County
-
 Trans-Nzoia County is located in the northern Rift Valley, approximately 350 kilometers northwest of Nairobi. The county seat is Kitale, a major agricultural trading hub. Trans-Nzoia is known nationally and internationally as Kenya's grain basket, producing the majority of the nation's maize, wheat, and dairy products.
 
 ## Geography and Name

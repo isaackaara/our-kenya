@@ -1,5 +1,3 @@
-# Makueni Livestock
-
 Livestock rearing remains essential to Makueni County livelihoods, providing protein, milk, hides, and wealth accumulation in households across pastoral and agro-pastoral zones. Cattle, goats, sheep, and camels constitute the principal livestock types, with animal husbandry adapted to semi-arid environmental constraints.
 
 Pastoral and agro-pastoral livelihood systems integrate livestock with some agricultural production. Pastoral households rely primarily on livestock for income and food, with agriculture providing supplementary production. Agro-pastoral households balance livestock and crop production, maintaining herds while cultivating crops.

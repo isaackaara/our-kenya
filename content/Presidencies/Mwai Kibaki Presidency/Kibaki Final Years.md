@@ -1,5 +1,3 @@
-# Kibaki Final Years
-
 The final years of [[Mwai Kibaki]]'s presidency, from 2010 to 2013, were characterized by lame duck politics, visible health decline, and preparation for succession. The period was dominated by constitutional transition implementation and by election preparations as Kibaki's two-term presidency neared its conclusion. Kibaki's reduced visibility and apparent disengagement from day-to-day governance reflected both his aging and the diminishing political power of a president no longer able to influence succession dynamics.
 
 Kibaki's health became an increasingly visible issue during his final years. He appeared less frequently in public. When he did appear, observers noted apparent difficulty in walking and occasional confusion. Speculation about his cognitive state and physical capacity to govern circulated among political observers. The constitution that had been adopted in 2010 specified that the presidency would be limited to two terms, with the 2013 election being Kibaki's final election cycle. The constitutional term limit meant that Kibaki would not be able to run for reelection regardless of his health or preference.

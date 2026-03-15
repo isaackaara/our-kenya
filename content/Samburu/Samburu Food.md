@@ -1,5 +1,3 @@
-# Samburu Food
-
 The [[Samburu]] [[Samburu Pastoralism|pastoral]] diet is based primarily on milk (the most important food source), complemented by meat and blood from livestock, and increasingly, grains and other foods purchased through markets. [[Samburu Pastoralism|Pastoral economy]] structures food production, with diet varying by season and pastoral productivity. Contemporary dietary change reflects market integration and livelihood diversification.
 
 ## Milk as Primary Food

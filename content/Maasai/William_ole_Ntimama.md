@@ -1,5 +1,3 @@
-# William ole Ntimama: Power, Land Rights, and Ethnic Violence
-
 ## The Most Powerful Maasai Politician (Post-Independence)
 
 William Ronkorua ole Ntimama (1930-2016) was the most influential Maasai politician of the post-independence era. He served for 25 years as Member of Parliament for Narok and held cabinet positions under Moi.

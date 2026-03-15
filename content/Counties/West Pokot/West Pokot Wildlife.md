@@ -1,5 +1,3 @@
-# West Pokot Wildlife
-
 [[West Pokot County]] has diverse wildlife populations reflecting varied ecological zones ranging from highland forests to arid lowlands. Wildlife includes large mammals, birds, reptiles, and invertebrates adapted to the county's climate and ecology. Wildlife conservation occurs through protected areas including national parks and reserves, though conservation is constrained by land pressure, habitat loss, and human-wildlife conflict. Understanding West Pokot's wildlife is important for understanding ecosystem services, tourism potential, and conservation challenges in the county.
 
 ## Large Mammals

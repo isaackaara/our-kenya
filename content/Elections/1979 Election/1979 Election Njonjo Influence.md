@@ -1,5 +1,3 @@
-# 1979 Election Njonjo Influence
-
 Charles Njonjo, the Attorney General under Kenyatta, retained his position in the Moi government and remained a senior government official during the 1979 election. Njonjo's role as Attorney General meant that he continued to have responsibility for legal matters and electoral administration. His influence in the 1979 election reflected his continued importance in the Moi government.
 
 Njonjo was a Kikuyu politician who had been closely associated with Kenyatta. The transition from Kenyatta to Moi created potential uncertainty about Njonjo's political future. However, Moi retained Njonjo in his government, suggesting that the Attorney General remained valuable to the new president or that Moi judged it politically useful to maintain him in office.

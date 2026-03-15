@@ -1,5 +1,3 @@
-# Rift Valley Violence
-
 The Rift Valley has experienced three major episodes of election-related ethnic violence (1992, 1997, 2007) rooted fundamentally in the Kalenjin land grievance. While described as "tribal violence" or "ethnic clashes" by media and observers, these conflicts were triggered not by ancient hatred but by specific post-independence land policies that created a generation of landless Kalenjin living alongside Kikuyu settlers. Political leaders mobilized ethnic identity to redirect land grievance into violence, making the conflicts both tragic and preventable.
 
 ## Key Facts

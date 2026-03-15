@@ -1,5 +1,3 @@
-# Vihiga Town
-
 Vihiga Town is the small county headquarters of Vihiga County, serving as the administrative and commercial centre for the tiny county. With population estimated at approximately 10,000-15,000, Vihiga Town is considerably smaller than headquarters of other Kenyan counties. The town provides administrative functions and limited commercial services to surrounding rural areas. Urban growth has been modest reflecting the county's small size and limited economic base.
 
 ## Urban Functions

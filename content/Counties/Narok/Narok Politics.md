@@ -1,5 +1,3 @@
-# Narok Politics
-
 Narok County's political history reflects broader patterns of ethnic politics, land disputes, and power consolidation in Kenyan politics, with significant influence from prominent [[../../Maasai/Maasai|Maasai]] political dynasties and ongoing debates about land, resources, and governance.
 
 ## Political Leadership and Dynasties

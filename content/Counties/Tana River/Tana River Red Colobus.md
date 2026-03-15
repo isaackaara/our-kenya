@@ -1,5 +1,3 @@
-# Tana River Red Colobus
-
 The Tana River Red Colobus is an endangered primate endemic to the Tana River basin, representing one of Africa's rarest and most geographically restricted primate species. This medium-sized colobus monkey, distinguished by its distinctive red and black coloration, has been reduced to a fragmented population of only 150 to 400 individuals surviving in isolated forest patches along the Tana River in Kenya. The species is critically dependent on riverine forest habitat that continues to face degradation from multiple human impacts.
 
 The Red Colobus scientific name is Procolobus rufomitratus, reflecting its reddish coloration (rufus) and distinctive cap-like head marking. Adult males and females exhibit similar red and black coloration though individuals vary in exact coloration. Body length ranges approximately 40-50 centimeters with a distinctly long tail providing balance in arboreal movement. Infants are born with pale natal coloration that darkens as they mature. Sexual dimorphism is minor, with limited size difference between males and females.

@@ -1,5 +1,3 @@
-# Eastlands Nairobi
-
 Eastlands comprises the working-class African residential areas east of the Nairobi CBD. These neighborhoods, including Pumwani, Shauri Moyo, Makadara, Jericho, Bahati, Kaloleni, Kayole, and Mathare, have been the primary residential zones for [[Cross-Ethnic Kenya|Nairobi's urban African population]] since the colonial period. The area developed as a consequence of racial segregation policies that reserved central Nairobi for white settlers and created African residential zones away from the city center.
 
 The defining characteristic of Eastlands is its multi-ethnic composition. Unlike some areas that developed ethnic enclaves, Eastlands attracted migrants from across Kenya seeking urban employment. Workers in the colonial and post-colonial service sector came from Kikuyu, Luo, Luhya, Kamba, and other communities. This mixture was partly economic (Eastlands offered affordable housing) and partly structural (employers drew workers from diverse ethnic backgrounds).

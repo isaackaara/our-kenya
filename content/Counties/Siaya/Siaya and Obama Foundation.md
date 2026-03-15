@@ -1,5 +1,3 @@
-# Siaya and Obama Foundation
-
 The Obama Foundation, established by former US President Barack Hussein Obama, has engaged with Kenya and [[Siaya County]], leveraging the presidential connection to advance development initiatives. The Foundation focuses on leadership development, civic engagement, and community empowerment.
 
 ## Foundation Presence in Kenya

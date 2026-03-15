@@ -1,5 +1,3 @@
-# Luo and the British
-
 The encounter between the Luo and British colonialism reshaped Luo territory, administration, and social structure from the 1890s onward. The British established themselves in Luo country not through initial military conquest, but through pragmatic negotiation with local leaders, followed by administrative consolidation and missionary penetration that fundamentally altered Luo life.
 
 ## Early Contact and Initial Cooperation

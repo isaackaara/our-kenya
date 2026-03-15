@@ -1,5 +1,3 @@
-# Treetops Lodge
-
 Treetops Lodge is a famous wildlife viewing lodge in the Aberdare National Park, known internationally for its historic association with Queen Elizabeth II. On 6 February 1952, the young Princess Elizabeth was staying at Treetops when she received notification that her father, King George VI, had died and she had become Queen. This historic event transformed Treetops into an iconic site in both British and Kenyan history.
 
 ## Architectural Design

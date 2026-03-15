@@ -1,5 +1,3 @@
-# Kenyan Music Videos Origins
-
 The early history of Kenyan music videos in the 1990s transformed how audiences experienced music and how artists promoted their work. The introduction of private television stations like KTN and later Citizen TV created platforms for visual music content that had previously been impossible under [[Music/Kenya Broadcasting Corporation Music|KBC's]] limited television programming.
 
 Before television liberalization, visual music content in Kenya was extremely limited. KBC Television occasionally aired music performances or imported international music videos, but dedicated music video programming was virtually non-existent. This meant Kenyan musicians had little incentive to invest in video production when no broadcast outlets existed.

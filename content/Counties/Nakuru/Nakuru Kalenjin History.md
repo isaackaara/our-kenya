@@ -1,5 +1,3 @@
-# Nakuru Kalenjin History
-
 [[../../Kalenjin/Kalenjin|Kalenjin]] peoples, comprising Tugen, Nandi, Kipsigis, Pokot, Marakwet, Sebei, and other subgroups, have inhabited the Rift Valley highlands for centuries. They are primarily pastoralists and agriculturalists, with cattle herding representing a central part of Kalenjin culture and economy. The Kalenjin claim deep historical and cultural attachment to the Rift Valley landscape, which they view as their ancestral territory.
 
 During the colonial period, the British established the Rift Valley as part of the White Highlands, displacing or restricting [[../../Kalenjin/Kalenjin|Kalenjin]] pastoral movements and appropriating the most valuable land for European farmers. Kalenjin communities were pushed to marginal areas while settlers developed the best farmland. This dispossession created long-standing grievances that persisted into post-independence Kenya.

@@ -1,5 +1,3 @@
-# Kitui Cultural Heritage
-
 Kitui County preserves Kamba cultural traditions encompassing music, visual arts, language, kinship systems, and spiritual practices. This cultural heritage has deep historical roots and continues shaping contemporary Kitui identity despite modernization and globalization pressures. Cultural preservation and transmission remain ongoing challenges.
 
 The Kamba carving tradition represents a distinctive artistic expression found in Kitui and other Kamba regions. Carvers create wooden sculptures reflecting local aesthetics and commercial market demands. Carving provides income for artisans while maintaining traditional craft knowledge.

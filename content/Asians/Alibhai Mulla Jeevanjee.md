@@ -1,5 +1,3 @@
-# Alibhai Mulla Jeevanjee
-
 [[Alibhai Mulla Jeevanjee]] (1856-1939) was the most important [[Indians in Kenya|Indian]] figure in colonial [[East Africa|East African]] history and a pivotal architect of modern [[Nairobi]]. A [[Dawoodi Bohra]] merchant from [[Karachi]], Jeevanjee arrived in [[East Africa]] in 1890, became a labour contractor for the [[Uganda Railway]], transformed into Nairobi's first major property developer, founded [[East Africa]]'s first [[newspaper]], and championed [[Indian]] political rights in the face of colonial racial hierarchies. His legacy is embedded in Nairobi's physical infrastructure and media landscape.
 
 ## Early Life and Migration

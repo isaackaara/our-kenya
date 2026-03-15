@@ -1,5 +1,3 @@
-# Urban Language Break
-
 The systematic severance of African children from their [[mother tongues]] in Kenya's post-independence decades represents one of the most profound unspoken cultural transformations of the modern era. What began as a [[colonial imposition]] became, paradoxically, an aspiration inherited by the first generation of African parents to have real educational authority over their own children.
 
 ## The Colonial Foundation

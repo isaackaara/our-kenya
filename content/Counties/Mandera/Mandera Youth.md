@@ -1,5 +1,3 @@
-# Mandera Youth
-
 Youth in Mandera County face limited economic opportunities, educational constraints, and social pressures that shape livelihood choices and migration decisions. Youth unemployment remains high, with limited formal sector job opportunities and constrained livelihood options in pastoral production systems. These constraints have driven youth migration to urban centers and other regions seeking employment.
 
 Educational access remains limited for youth, with secondary school capacity insufficient for all primary school graduates. Limited tertiary education opportunities mean most youth lack access to higher education. Technical and vocational training opportunities remain minimal. These educational constraints limit employment prospects and earning potential.

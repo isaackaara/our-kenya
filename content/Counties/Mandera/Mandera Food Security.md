@@ -1,5 +1,3 @@
-# Mandera Food Security
-
 Mandera County faces chronic food insecurity rooted in its arid pastoral environment, dependence on rainfed pastoral production, limited agricultural development, and repeated drought cycles that devastate livestock herds and leave populations dependent on humanitarian assistance. Food insecurity in Mandera is not a temporary crisis but a structural condition affecting large portions of the population, exacerbated by climate change, conflict, and limited economic diversification.
 
 ## Structural Causes of Food Insecurity

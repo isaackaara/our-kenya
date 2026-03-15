@@ -1,5 +1,3 @@
-# Wajir Youth
-
 Young people in Wajir County face distinctive challenges including limited economic opportunities, pastoral livelihoods that provide insufficient income, inadequate educational access, and insecurity affecting safety and development prospects. The youth bulge characteristic of pastoral populations creates pressures as large numbers of young people enter adulthood with few available employment options. Youth engagement in development processes and security challenges represents a critical contemporary concern.
 
 ## Demographic Context

@@ -1,5 +1,3 @@
-# Busia Politics
-
 Busia County has a complex political history involving ethnic politics, economic interests, and national political dynamics. Pre-independence politics involved competing for representation and colonial administrative authority. Post-independence politics centralized Busia within national political structures. County administrative divisions were established in post-colonial period. The 2013 constitutional devolution created Busia County Government with elected governance structures. County-level governance represents a significant institutional change. Electoral politics involve competition between multiple ethnic groups and political parties. Economic interests (particularly sugar industry) influence political agendas. Border location affects regional political dynamics and cross-border relationships.
 
 ## County Government Structure

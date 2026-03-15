@@ -1,5 +1,3 @@
-# Eunoto Ceremony: Transition to Elderhood
-
 ## The Ceremony of Transformation
 
 The eunoto is one of the most significant ceremonies in Maasai life. It marks the transition of a generation of moran from warrior status to elder status. The ceremony is elaborate, lasting four days, and involves the entire community.

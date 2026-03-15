@@ -1,5 +1,3 @@
-# East African Gramophone Records 1920s
-
 The first recordings of East African music represent a pivotal moment in the region's cultural history: the transition from purely oral/performance tradition to fixed, reproducible sound. Between 1928 and 1931, Columbia Records and His Master's Voice (HMV) sent recording expeditions to East Africa, capturing the first commercial recordings of Kenyan, Ugandan, and Tanzanian musicians.
 
 Columbia's expedition arrived in 1928, equipped with portable recording equipment that, while primitive by later standards, was revolutionary for its time. Engineers set up in Nairobi, Mombasa, and several upcountry towns, advertising for musicians to come record. The response was enthusiastic but also cautious. Many musicians had never seen recording equipment and were uncertain whether their music would be fairly compensated or appropriately represented.

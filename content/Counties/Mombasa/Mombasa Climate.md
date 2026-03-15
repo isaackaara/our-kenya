@@ -1,5 +1,3 @@
-# Mombasa's Climate: Hot, Humid Coastal Weather
-
 Mombasa's climate is tropical, characterized by hot, humid weather year-round. The city is located near the equator at sea level, resulting in consistently warm temperatures and substantial rainfall during the rainy seasons.
 
 ## Temperature

@@ -1,5 +1,3 @@
-# Miraa Economy Meru
-
 Miraa (Catha edulis), known internationally as khat and locally in Kenya as miraa, dominates the cash crop economy of Meru County. The county produces nearly all of Kenya's miraa supply, with estimates suggesting 95 percent or more of national production originates from Meru. The miraa trade generates substantial income for thousands of farmers, traders, and transport operators throughout the Nyambene Hills region.
 
 ## Botanical and Ecological Requirements

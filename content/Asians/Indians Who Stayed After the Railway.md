@@ -1,5 +1,3 @@
-# Indians Who Stayed After the Railway
-
 When the Uganda Railway was completed in 1901, the British colonial authorities expected the majority of the 32,000 Indian labourers to be repatriated to India. However, thousands of these workers chose to remain in East Africa. These men made a conscious decision to transition from temporary labourers to permanent settlers, shifting from railway work to trade and commerce. This decision was pivotal in establishing the foundations of the South Asian business community in colonial Kenya.
 
 ## The Repatriation Plan

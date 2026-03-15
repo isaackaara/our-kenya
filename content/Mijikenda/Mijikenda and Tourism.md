@@ -1,5 +1,3 @@
-# Mijikenda and Tourism
-
 The [[Mijikenda]] hinterland sits behind one of Kenya's major beach tourism zones, including Diani Beach, Watamu, and Malindi. Tourism development has had profound and contradictory effects on [[Mijikenda]] communities: bringing wage employment opportunities, infrastructure development, and market access while simultaneously driving land alienation, cultural commodification, and economic inequality.
 
 ## Tourism Development and Land Alienation

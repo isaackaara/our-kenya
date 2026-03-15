@@ -1,5 +1,3 @@
-# Kitui Infrastructure
-
 Infrastructure in Kitui County remains underdeveloped relative to needs, reflecting historical neglect and resource constraints. The large county area and dispersed population create challenges for infrastructure provision. Limited infrastructure constrains economic development and service delivery.
 
 Road networks in Kitui remain inadequate for transportation needs. The Nairobi-Mombasa highway passes through the western portions of Kitui, providing main corridor connectivity. Secondary and tertiary roads connecting rural areas remain poor quality, with many consisting of unimproved tracks. Seasonal rains create difficult driving conditions.

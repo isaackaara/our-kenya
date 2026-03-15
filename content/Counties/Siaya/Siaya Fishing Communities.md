@@ -1,5 +1,3 @@
-# Siaya Fishing Communities
-
 Fishing communities along [[Siaya County]]'s [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] shoreline represent distinct settlements with specialized economies and social structures. These communities maintain unique cultural practices, livelihood systems, and vulnerability profiles.
 
 ## Major Fishing Settlements

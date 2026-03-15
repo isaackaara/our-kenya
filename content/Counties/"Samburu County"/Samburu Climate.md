@@ -1,5 +1,3 @@
-# Samburu Climate
-
 Samburu County experiences a semi-arid climate reflecting its location in Kenya's pastoral belt. Rainfall is the primary climatic concern, as water availability shapes all aspects of human settlement and livestock production.
 
 Annual rainfall averages approximately 400,600 millimeters, with significant variation between areas and years. Highland areas around Maralal receive higher rainfall than lowland pastoral zones. This variability reflects topographic variation and distance from moisture-bearing wind patterns.

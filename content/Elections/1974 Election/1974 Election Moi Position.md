@@ -1,5 +1,3 @@
-# 1974 Election Moi Position
-
 Daniel arap Moi served as Vice President of Kenya in 1974, a position he had held since 1967. As Vice President, Moi was constitutionally the successor to the presidency, meaning that upon Kenyatta's death or removal from office, Moi would automatically assume the presidency. However, the Vice Presidency in Kenya was not necessarily a path to real power, and observers in 1974 were uncertain whether Moi would actually exercise significant authority if he became president.
 
 Moi was a Kalenjin politician from the Rift Valley. He had originally been among those political figures co-opted into Kenyatta's government after independence and had remained in government since that time. As Vice President, Moi held a position of formal authority, but his real power and influence were uncertain. He had not been granted a major portfolio in addition to the vice presidency, and he did not control a large patronage network comparable to those of some senior Kikuyu politicians.

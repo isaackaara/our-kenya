@@ -1,5 +1,3 @@
-# [[initiation]] [[systems]] among [[Mijikenda]]
-
 The Mjikenda peoples maintain age and gender-based initiation systems marking transitions to adulthood and integrating individuals into adult society. These systems involve specific knowledge transmission, ritual ceremonies, and profound social significance, though contemporary pressures are transforming them.
 
 ## Gender-Based Initiation

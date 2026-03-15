@@ -1,5 +1,3 @@
-# [[../Counties/Kisumu/Kisumu County|Kisumu County]] City Deep Dive
-
 Kisumu is Kenya's third largest city and the principal city of western Kenya. Founded as a colonial port (originally Port Florence) where the Uganda Railway terminated at [[../Conservation/Lake Victoria Kenya|Lake Victoria]] in 1901, Kisumu became an economic and administrative hub. Post-independence decline, driven by Luo political marginalisation, reduced investment and opportunity. Recent years have seen revival, with infrastructure improvements and renewed interest in Kisumu as a potential lake economy hub.
 
 ## Colonial Founding and Port Economy

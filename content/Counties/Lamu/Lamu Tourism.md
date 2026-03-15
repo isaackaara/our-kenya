@@ -1,5 +1,3 @@
-# Lamu Tourism
-
 Tourism is now a major economic sector in Lamu County, driven by the international reputation of [[Lamu Old Town|Lamu Old Town]] as a UNESCO World Heritage Site and a destination for cultural heritage tourism. The county attracts backpackers, adventure travelers, luxury tourists, and cultural pilgrims seeking authentic Swahili experience. Tourism has created employment, generated government revenue, and brought international investment, but it has also transformed traditional communities and created new social tensions.
 
 The modern tourism boom in Lamu began in the 1990s. International guidebooks started featuring Lamu as a destination. The UNESCO inscription in 2001 raised international awareness. By the 2000s, tourism had become a significant sector. Hotels, restaurants, travel agencies, and tourism-related businesses proliferated. Today, the tourism economy provides employment for perhaps 30-40% of Lamu town's workforce, directly or indirectly.

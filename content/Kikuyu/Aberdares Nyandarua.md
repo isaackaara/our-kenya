@@ -1,5 +1,3 @@
-# Aberdares (Nyandarua)
-
 The [[../Conservation/Aberdare National Park|Aberdare]] mountain range, called Nyandarua in Gikuyu, is a critical highland ecosystem located above Nyeri and Murang'a. The Aberdares served as base for Mau Mau forest fighters during the Emergency and continue to function as water tower and wildlife habitat. The range exemplifies Kikuyu sacred geography and ecological significance.
 
 ## Geography and Physical Features

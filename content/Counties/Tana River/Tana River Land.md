@@ -1,5 +1,3 @@
-# Tana River Land
-
 Land ownership, access, and use in Tana River County involve competing claims, contested rights, and disputes rooted in historical colonialism, customary practices, and contemporary legal frameworks. Land tenure insecurity has been a persistent constraint on development and a significant source of inter-communal conflict, with Pokomo-Orma land disputes being the most prominent conflict driver.
 
 Traditional land tenure systems prior to colonialism involved customary rights to land based on community membership and use. Pastoral communities held rangeland under communal management with individual herding rights, while farming communities held cultivated plots under usufruct systems. These systems were adapted to resource availability and reflected ecological knowledge developed over generations. Leadership structures managed resource allocation and settled disputes through traditional justice systems.

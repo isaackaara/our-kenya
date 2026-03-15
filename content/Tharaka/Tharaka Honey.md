@@ -1,5 +1,3 @@
-# Tharaka Honey
-
 Honey has traditionally been important in Tharaka society and economy. Both wild honey collection and managed [[Tharaka Beekeeping]] have been sources of food and [[Tharaka Economic Development]] for Tharaka communities.
 
 ## Wild Honey Collection

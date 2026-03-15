@@ -1,5 +1,3 @@
-# Taita-Taveta Timeline
-
 The history of Taita-Taveta County spans centuries, from pre-colonial settlement through colonial rule to contemporary devolved governance. This timeline presents major events, transitions, and developments that have shaped the county's development trajectory and contemporary character.
 
 Pre-1800s: The Taita people establish settlement in the Taita Hills, developing agricultural systems and social organizations adapted to the mountain environment. Oral traditions indicate long historical occupation of the hills.

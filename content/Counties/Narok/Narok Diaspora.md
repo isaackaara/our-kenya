@@ -1,5 +1,3 @@
-# Narok Diaspora
-
 Narok County residents have migrated extensively to urban centers in Kenya, particularly Nairobi, seeking employment, education, and commercial opportunities. This diaspora maintains connections to home areas while increasingly adopting urban economic activities and lifestyles.
 
 ## Urban Migration Patterns

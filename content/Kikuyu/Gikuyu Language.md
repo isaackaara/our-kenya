@@ -1,5 +1,3 @@
-# Gikuyu Language
-
 Gikuyu (Kikuyu) is a Bantu language spoken by the Kikuyu people of central Kenya. As a Bantu language, it shares structural features with other Bantu languages while maintaining distinct vocabulary, grammar, and sound system. The language is closely related to the languages of neighboring groups, particularly Embu and Meru.
 
 ## Linguistic Classification and Relationships

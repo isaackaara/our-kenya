@@ -1,5 +1,3 @@
-# Marsabit Notable People
-
 Several prominent Kenyans trace their origins or have strong connections to Marsabit County, representing diverse fields including politics, conservation, literature, and business.
 
 Political leaders from Marsabit have served in national parliament and county government. County governors and members of parliament represent Marsabit's interests in national forums. Their work includes advocating for pastoralist development, security, and regional integration.

@@ -1,5 +1,3 @@
-# Samburu Marriage
-
 [[Samburu]] marriage involves age-grade restrictions, elder-arranged partnerships, and bride wealth transfers. The marriage system structures gender relations and creates alliances between families. Contemporary pressure from education and urbanization are gradually transforming marriage practices, though arranged marriage and bride wealth persist in many communities.
 
 ## Age-Grade Marriage Restrictions

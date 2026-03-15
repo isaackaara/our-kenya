@@ -1,5 +1,3 @@
-# West Pokot Timeline
-
 This timeline documents key dates and events in West Pokot County history from the colonial period through 2026.
 
 ## Early Colonial Period (1895-1920s)

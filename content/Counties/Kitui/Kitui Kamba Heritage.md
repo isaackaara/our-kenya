@@ -1,5 +1,3 @@
-# Kitui Kamba Heritage
-
 The Kamba people of Kitui constitute the eastern Kamba heartland, maintaining distinctive cultural traditions reflecting adaptation to semi-arid environment and historical development. Kitui Kamba share linguistic and kinship ties with Machakos and Makueni Kamba while developing region-specific cultural variations and practices.
 
 Kamba oral history emphasizes movement and settlement patterns across the eastern regions. Kitui Kamba maintain genealogical knowledge linking contemporary communities to founding groups. Oral traditions preserve knowledge of ancestral lands, leadership lineages, and significant historical events.

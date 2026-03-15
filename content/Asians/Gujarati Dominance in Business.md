@@ -1,5 +1,3 @@
-# Gujarati Dominance in Business
-
 The Gujarati community (from Gujarat state in western India) came to dominate Kenyan Asian business to an extraordinary degree. Gujaratis comprise approximately 60-70% of Kenya's Asian population but occupy perhaps 80-90% of prominent merchant and business positions. The sources of Gujarati dominance include historical trading traditions, the Gujarati language's role as a lingua franca among Asian communities, established family business networks, and cultural values emphasizing commerce and entrepreneurship.
 
 ## The Gujarati Trading Tradition

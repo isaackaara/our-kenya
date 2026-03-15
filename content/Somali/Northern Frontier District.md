@@ -1,5 +1,3 @@
-# Northern Frontier District
-
 The [[Northern Frontier District]] (NFD) was one of the most distinctive colonial administrative entities in East Africa. Under British rule (1905-1963), it was treated fundamentally differently from the rest of Kenya, reflecting both strategic calculations and racial ideology.
 
 ## Colonial Administration

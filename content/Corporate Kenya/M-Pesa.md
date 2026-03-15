@@ -1,5 +1,3 @@
-# M-Pesa
-
 [[M-Pesa]] (meaning [[mobile money]] in [[Swahili]]) is the world's most [[successful]] [[mobile money platform]] and the product that transformed [[Kenya's financial system]]. Launched by [[Safaricom]] in [[March 2007]], M-Pesa enabled ordinary Kenyans to [[send money]], [[pay bills]], and [[access credit]] via [[SMS]], displacing [[traditional banking]] and [[informal money transfer]] systems.
 
 ## Pre-Launch Context

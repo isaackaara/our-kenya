@@ -1,5 +1,3 @@
-# Embu Generational Change
-
 Embu identity and practice have transformed dramatically across generations as urbanization, education, language shift, and global cultural influence reshape what it means to be Embu. Younger generations navigate between traditional Embu identity and contemporary cosmopolitan identities, creating generational tensions and cultural evolution.
 
 ## Education and Urbanization

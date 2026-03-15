@@ -1,5 +1,3 @@
-# Samburu Diaspora
-
 [[Samburu]] people live in Nairobi and other urban centers, maintaining ties to home communities through remittances and visits. Urban [[Samburu]] navigate between [[Samburu Pastoralism|pastoral identity]] and urban life. Diaspora communities maintain cultural identity through churches, associations, and [[Samburu Language|language]] use. Return migration occurs as individuals retire or respond to community needs.
 
 ## Urban Migration Patterns

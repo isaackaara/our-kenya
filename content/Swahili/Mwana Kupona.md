@@ -1,5 +1,3 @@
-# Mwana Kupona
-
 Mwana Kupona binti Msham (circa 1810-1860) stands as the greatest classical [[Swahili Poetry|Swahili female poet]]. She lived in [[Lamu]] and created the Utendi wa Mwana Kupona (The Poem of Mwana Kupona), a lengthy poetic work that provides advice to her daughter about being a proper Muslim wife, managing a household, and living virtuously. The work is recognized as a masterpiece of classical African literature within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Life and Context

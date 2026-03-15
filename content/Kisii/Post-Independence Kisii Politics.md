@@ -1,5 +1,3 @@
-# Post-Independence Kisii Politics
-
 The Gusii entered independence in 1964 as a politically cohesive community with strong missionary-educated leadership. During the Kenyatta and Moi eras, Kisii established itself as a significant political force, though the region remained economically secondary to major coffee and tea zones in Central Kenya.
 
 ## The Kenyatta Era (1964-1978)

@@ -1,5 +1,3 @@
-# Kenyatta Key Speeches
-
 Jomo Kenyatta's most significant speeches defined his presidency and established the themes that would characterize his rule. These speeches, delivered at moments of historical importance, articulated his vision for independent Kenya and served as rhetorical platforms for building political consensus and projecting presidential authority. Examining Kenyatta's key speeches reveals the gap between his nationalist rhetoric and the realities of his governance.
 
 The independence speech, delivered on December 12, 1963, at the moment of independence, was Kenyatta's first major address as head of state. In this speech, Kenyatta articulated the vision of a unified, developing nation transcending ethnic divisions. He called on Kenyans to work together for the benefit of the nation and invoked ideals of independence, dignity, and progress. The independence speech established themes of national unity and development that Kenyatta would return to repeatedly throughout his presidency.

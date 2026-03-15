@@ -1,5 +1,3 @@
-# iHub Nairobi
-
 [[iHub Nairobi]] (launched in [[2010]] as the first [[tech co-working space Kenya|tech co-working space]] in [[Nairobi]]) became the symbolic heart of [[Silicon Savannah]]. Founded by [[Erik Hersman]], iHub provided [[workspace Kenya|workspace]], [[mentorship Kenya|mentorship]], and [[community Kenya|community]] for [[tech entrepreneurs Kenya|tech entrepreneurs]]. By being an affordable, central gathering place for [[tech talent Kenya|tech talent]], iHub catalysed the formation of [[Nairobi]]'s [[tech ecosystem Kenya|tech ecosystem]].
 
 ## Founding and Early Years

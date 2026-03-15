@@ -1,5 +1,3 @@
-# Kamba Entrepreneurship and Business Culture
-
 The Kamba have a long tradition of merchant activity and entrepreneurship, from pre-colonial trade networks through contemporary small business ventures in Nairobi and diaspora cities. This note examines Kamba business orientations, trading networks, capital formation, and the contemporary entrepreneurial landscape.
 
 ## Historical Merchant Tradition

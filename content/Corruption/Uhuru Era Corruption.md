@@ -1,5 +1,3 @@
-# Uhuru Era Corruption
-
 ## Overview
 
 The [[Uhuru Kenyatta]] presidency (2013-2022) was marked by tension between anti-corruption rhetoric and continued corruption at high levels of government. Major scandals ([[NYS Scandal]], [[KEMSA Scandal]], [[Eurobond]]) emerged during the era. The president campaigned on anti-corruption platforms while government officials implicated in major scandals often escaped prosecution.

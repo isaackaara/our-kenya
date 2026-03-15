@@ -1,5 +1,3 @@
-# Kenyan Somali in Nairobi Business
-
 While [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]] has become synonymous with [[Kenyan Somali Identity|Somali]] entrepreneurship in [[Nairobi Somali Community|Nairobi]], [[Somali Business Networks|Somali business]] activity extends far beyond this single neighborhood. Somali entrepreneurs operate across Nairobi's diverse economic sectors, from retail and [[Somali Business Networks|wholesale]] to [[Hawala Money Transfer|finance]], technology, and professional services.
 
 ## Eastleigh and Beyond

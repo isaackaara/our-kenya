@@ -1,5 +1,3 @@
-# Nyandarua White Highlands History
-
 Nyandarua County was part of the White Highlands, the fertile agricultural region reserved exclusively for European settlers during the colonial period. The Aberdare highlands' fertile soils, cool climate, and abundant rainfall made them attractive for European wheat and dairy farming. [[../../Kikuyu/Kikuyu|Kikuyu]] communities were excluded from these lands and confined to overcrowded reserves. Post-independence land redistribution returned former settler farms to African ownership, fundamentally transforming Nyandarua's economy and society.
 
 ## Colonial Land Alienation

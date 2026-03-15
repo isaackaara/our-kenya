@@ -1,5 +1,3 @@
-# Imbalu
-
 Imbalu is [[Luhya|Luhya]] (and some Sabaot) male circumcision ceremony, held every two years in August. The ceremony is one of East Africa's most spectacular public cultural events, drawing hundreds of thousands of visitors to [[../Counties/Bungoma/Bungoma County|Bungoma County]]. For Bukusu youth (typically ages 15-18), imbalu marks the transition from boyhood to manhood and full social membership. The ceremony involves ritual purification, public circumcision, and days of music, dancing, processions, and celebration.
 
 ## Key Facts

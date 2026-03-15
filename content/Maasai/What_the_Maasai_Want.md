@@ -1,5 +1,3 @@
-# What the Maasai Want
-
 ## Land Rights and Territorial Recognition
 
 A consistent demand from Maasai community organizations is recognition and restitution of territorial rights lost through colonialism and post-colonial land loss. The 1904 and 1911 treaties ceded vast Maasai territories to colonial authorities. Post-colonial period has seen continued land loss through national parks, group ranch subdivision, and urban expansion. Maasai civil society organizations demand legal recognition of historical territorial claims and restoration of stolen lands where possible. Some organizations advocate for collective land rights reinforcing pastoralist use.

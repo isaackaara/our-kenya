@@ -1,5 +1,3 @@
-# Ruto Cabinet
-
 [[William Ruto]]'s cabinet appointments, announced upon assuming the presidency in September 2022, reflected his commitment to balancing various coalition partners and regional interests while centralizing authority in the presidency. The cabinet included both experienced government officials and newcomers to high office. Ruto appointed ministers from his Kenya Kwanza coalition partners, including the Democratic Alliance Party and other allied parties. The cabinet composition revealed Ruto's political strategy of building coalitions while maintaining presidential control.
 
 The cabinet initially reflected ethnic balance, with Ruto attempting to represent Kenya's diverse regions and communities. However, Kalenjin and other Rift Valley groups received disproportionate representation reflecting the Kenya Kwanza coalition's regional base. This ethnic composition, while less explicitly segregated than previous cabinets, continued patterns of ethnic favoritism in ministerial distribution. The finance portfolio and other economically important positions went to individuals aligned with Ruto's economic philosophy.

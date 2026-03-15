@@ -1,5 +1,3 @@
-# Kitui Health
-
 Health infrastructure in Kitui County has expanded with devolved governance, though quality and accessibility remain uneven across the large dispersed county. The county government operates dispensaries, health centres, and Kitui County Hospital providing health services. Private health facilities operate in towns, serving populations with ability to pay.
 
 Health worker shortages persist in Kitui, with rural areas particularly affected. Healthcare worker distribution remains uneven, with concentration in urban areas and scarcity in remote locations. Health worker motivation and retention remain challenges due to difficult working conditions and limited resources.

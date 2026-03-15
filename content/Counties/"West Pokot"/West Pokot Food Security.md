@@ -1,5 +1,3 @@
-# West Pokot Food Security
-
 West Pokot County faces significant food insecurity challenges due to arid pastoralism and climate variability. Agricultural production in highlands provides supplementary food but cannot feed entire county. Pastoral milk production varies seasonally and with drought cycles. Meat availability from livestock is limited by survival of herds and slaughtering decisions. Seasonal and chronic food insecurity affect substantial portions of the population. Drought crises (every 3-7 years) create acute food shortages requiring external assistance. Children and women are particularly vulnerable to food insecurity impacts. Poverty limits purchasing power for households to buy food when production is insufficient. Conflict disrupts food production and market access during raiding episodes.
 
 ## Production Capacity and Challenges

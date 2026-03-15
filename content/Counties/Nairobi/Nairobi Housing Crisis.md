@@ -1,5 +1,3 @@
-# Nairobi's Housing Crisis: Formal vs. Informal
-
 Nairobi faces a severe housing deficit, with millions of residents living in informal settlements while the city also hosts luxury apartment complexes and high-end residential developments. The disconnect between housing supply and demand, combined with inequality, defines the contemporary housing crisis.
 
 ## The Deficit

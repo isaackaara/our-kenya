@@ -1,5 +1,3 @@
-# Luo Youth and Identity
-
 Contemporary Luo youth, particularly urban and educated cohorts, navigate multiple identities: Luo ethnicity, Kenyan nationalism, global digital culture, and professional aspirations. They are digital natives, often more connected to the internet than to oral tradition. Yet Luo identity persists as a powerful cultural marker. The question remains whether the Luo-Kikuyu political axis will continue to define youth politics or whether generational shifts will create different solidarities.
 
 ## Urban Luo Youth

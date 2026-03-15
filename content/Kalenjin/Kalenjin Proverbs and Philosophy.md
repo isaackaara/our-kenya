@@ -1,5 +1,3 @@
-# Kalenjin Proverbs and Philosophy
-
 Kalenjin oral tradition, preserved through proverbs (siila), riddles (lakweit), and narrative, encodes cultural values, moral teachings, and practical wisdom. These sayings served as educational tools for elders instructing youth, as guidance for moral conduct, and as entertainment in evening gatherings. They reveal Kalenjin priorities: respect for elders, courage, hospitality, kinship obligations, and harmony with the environment.
 
 ## Representative Proverbs

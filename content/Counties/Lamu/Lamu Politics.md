@@ -1,5 +1,3 @@
-# Lamu Politics
-
 Lamu County's politics are shaped by its unique position as Kenya's smallest and most isolated county, with a culturally distinct Muslim population, limited economic resources, and competing development pressures. Political dynamics include clan-based voting, Islamic institutional influence, and tensions over development models.
 
 Post-independence Kenya inherited the colonial administrative structure, with Lamu as a district. Local governance was initially through appointed district commissioners, though gradually electoral systems were introduced. When Kenya established multi-party democracy in the 1990s, Lamu benefited from democratic freedoms, though political participation was limited by isolation and low literacy rates.

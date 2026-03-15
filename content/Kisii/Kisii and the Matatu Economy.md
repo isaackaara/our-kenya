@@ -1,5 +1,3 @@
-# Kisii and the Matatu Economy
-
 Kisii town is one of Kenya's major transport hubs, serving as a nexus for matatus (shared minibuses) and long-distance buses connecting the Lake Region to Nairobi, Kisumu, Nakuru, and cross-border routes to Uganda and Tanzania. The matatu economy in Kisii generates substantial income and employment, reflecting the town's strategic geographic position.
 
 ## Geographic Significance

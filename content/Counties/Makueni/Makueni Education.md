@@ -1,5 +1,3 @@
-# Makueni Education
-
 Education in Makueni County provides critical human capital development pathways, though access and quality remain limited by resource constraints and geographic challenges. Primary and secondary schools are distributed throughout the county, with access varying by location and household income. School infrastructure ranges from well-resourced facilities in towns to basic structures in remote areas.
 
 Primary education has expanded significantly following free primary education policy introduction in 2003, though quality concerns persist. Student-teacher ratios remain high, learning materials are limited, and infrastructure maintenance is inadequate in many schools. Rural schools often lack basic facilities including adequate classrooms, water, and sanitation.

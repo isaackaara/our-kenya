@@ -1,5 +1,3 @@
-# Vigango
-
 The [[Vigango]] (singular: kigango) are tall carved wooden memorial posts erected after the death of important Gohu elders in [[Mijikenda]] society. They represent one of Africa's most distinctive sculptural traditions and are now recognized internationally as significant works of art, though this recognition has created complications for their cultural significance and preservation.
 
 ## Cultural Significance and Carving

@@ -1,5 +1,3 @@
-# Wildlife Corridors Kenya
-
 [[Wildlife Corridors Kenya|Wildlife corridors]] are habitat connections linking fragmented [[protected areas]] and allowing [[wildlife]] movement between isolated populations. As protected areas become increasingly surrounded by human settlement and agricultural land, corridors become critical for maintaining gene flow between populations, allowing species range expansion, and supporting wildlife migrations. Kenya has initiated corridor protection efforts, though implementation remains incomplete.
 
 ## Habitat Fragmentation and Isolation

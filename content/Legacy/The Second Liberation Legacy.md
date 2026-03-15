@@ -1,5 +1,3 @@
-# The Second Liberation Legacy
-
 The struggle for multiparty democracy in Kenya (late 1980s to 1991) is sometimes called the "second liberation." The first liberation was independence from Britain. The second was liberation from the authoritarian single-party state that independent Kenya had become.
 
 By the late 1980s, Moi's regime was deeply repressive. Political dissent was dangerous. The regime had enriched a narrow elite while impoverishing most Kenyans. Pressure for change built from multiple directions. Donor countries, particularly Western governments, made continued aid conditional on democratic reform. Kenyan civil society activists, particularly within the churches and universities, demanded change. International pressure mounted.

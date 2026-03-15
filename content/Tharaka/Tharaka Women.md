@@ -1,5 +1,3 @@
-# Tharaka Women
-
 Women in Tharaka society hold defined roles related to household management, food production, and child care, though women also exercise authority within [[Tharaka Marriage]] and community contexts. The roles and status of women have evolved through colonial, Christian, and contemporary influences.
 
 ## Traditional Roles

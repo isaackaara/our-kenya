@@ -1,5 +1,3 @@
-# Corruption and Elections
-
 ## Overview
 
 [[Corruption in Kenya Overview|Corruption]] and elections form a vicious cycle in Kenya. Corrupt money finances political campaigns. Winning political office enables the victors to recoup their electoral investment through [[State Capture Kenya|corruption]]. The political economy of corruption ensures that those who engage in corruption are rewarded with political power, and those who gain political power are incentivized to engage in corruption.

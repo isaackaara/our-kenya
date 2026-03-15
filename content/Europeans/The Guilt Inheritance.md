@@ -1,5 +1,3 @@
-# The Guilt Inheritance
-
 A distinctive [[psychological]] and [[moral experience]] emerges for [[white Kenyans]] born into the fourth, fifth, and sixth generations of [[settler families]]: the experience of inheriting [[wealth]], [[land]], and [[privilege]] that is structurally dependent on [[historical dispossession]], without having personally committed the dispossession. This creates a specific form of [[guilt]], [[anxiety]], and [[moral dissonance]] that shapes the psychological world of contemporary white Kenyans in ways both subtle and dramatic.
 
 ## The Structure of the Inheritance

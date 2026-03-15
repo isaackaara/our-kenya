@@ -1,5 +1,3 @@
-# Rabai People
-
 The [[Rabai]] are the [[Mijikenda]] sub-group closest to [[Mombasa]], living in Kilifi County and having had centuries of contact with the cosmopolitan coastal city. The [[Rabai]] hold a distinctive place in [[Mijikenda]] and East African history due to their proximity to [[Mombasa]] and their role in early Christian missionary work.
 
 ## Geography and Location

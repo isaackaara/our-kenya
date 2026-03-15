@@ -1,5 +1,3 @@
-# Mombasa Republican Council: The Secessionist Movement
-
 The Mombasa Republican Council (MRC) is a secessionist political movement that periodically demands coastal autonomy or complete independence from Kenya. The movement reflects deep-rooted grievances among coastal residents regarding marginalization, land dispossession, and national government neglect.
 
 ## Origins and Ideology

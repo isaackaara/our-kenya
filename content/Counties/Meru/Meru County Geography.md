@@ -1,5 +1,3 @@
-# Meru County Geography
-
 Meru County occupies the northeastern and eastern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]], extending from tropical lowlands at approximately 300 meters above sea level to the alpine zone at 5,199 meters. This dramatic elevation range of nearly 5,000 meters creates distinct climatic and ecological zones that shape settlement patterns, agriculture, and livelihoods across the county.
 
 ## Topography and Elevation Zones

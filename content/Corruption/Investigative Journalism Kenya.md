@@ -1,5 +1,3 @@
-# Investigative Journalism Kenya
-
 ## Overview
 
 Investigative journalists in Kenya have exposed major corruption cases through dogged reporting, document analysis, and whistleblower interviews. Journalists have uncovered scandals that government audits missed or that official investigations failed to resolve. The work of investigative journalists has been crucial in bringing corruption to public attention.

@@ -1,5 +1,3 @@
-# Meru County
-
 Meru County sits on the northeastern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] and is home to approximately 1.5 million people. The county is named after the [[../../Meru/Meru|Meru]] people, who form the dominant ethnic community. Meru Town serves as the county headquarters and functions as a vital agricultural service center for the region.
 
 The county encompasses diverse landscapes, ranging from 300 meters above sea level in the lowlands to 5,199 meters at [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s peak. This elevation range creates distinct ecological zones that support varied agricultural activities. The Nyambene Hills on the western slopes are the epicenter of Kenya's miraa (khat) production.

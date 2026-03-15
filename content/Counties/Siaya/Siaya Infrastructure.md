@@ -1,5 +1,3 @@
-# Siaya Infrastructure
-
 Transportation and communication infrastructure in [[Siaya County]] remain underdeveloped relative to national standards, constraining economic activity and access to services. Road networks connect major population centers, though condition and maintenance remain problematic.
 
 ## Road Network

@@ -1,5 +1,3 @@
-# Italian Prisoners of War Kenya
-
 During World War II, Kenya held significant numbers of Italian prisoners of war (POWs) captured from Italian East Africa (Ethiopia, Eritrea, Somalia) and from Italian forces operating in the East Africa theater. These prisoners, held in camps including the famous Camp 354 near Nanyuki, made contributions to Kenya's infrastructure and culture while enduring imprisonment. Their presence represented a unique convergence of World War II global conflict and colonial Kenya's role in the war.
 
 ## Italian Defeat in East Africa

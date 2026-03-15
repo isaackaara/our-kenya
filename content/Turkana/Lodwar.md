@@ -1,5 +1,3 @@
-# Lodwar
-
 [[Lodwar]] is the capital of Turkana County and its largest urban center, located in the southeastern portion of the county near the eastern shores of [[Lake Turkana]]. Historically a small administrative outpost, Lodwar has grown significantly since devolution (2013) and the 2012 [[Oil Discovery in Turkana]] discovery, becoming a center for county [[Turkana County Government]], commerce, and oil-related activities.
 
 ## Historical Development

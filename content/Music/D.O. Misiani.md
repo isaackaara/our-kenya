@@ -1,5 +1,3 @@
-# D.O. Misiani
-
 Daniel Owino Misiani (1940-2006) was born in Shirati, Tanzania, near the Kenyan border, and became the most influential figure in [[Benga Music|benga]] history. Known as the "King of History" in Kenya and the "grandfather of benga" internationally, Misiani led Shirati Jazz (later Shirati Jazz Band) for over four decades, composing hundreds of songs that chronicled Kenyan social and political life. His music combined [[Luo]] traditional rhythms with electric instrumentation, establishing the template that defined the genre's golden age.
 
 Misiani grew up in a musical family in Tanzania's Mara Region, learning traditional Luo instruments before moving to Kenya in 1964. He settled in Nairobi at the height of the city's music boom, joining a vibrant scene that included [[George Ramogi]], [[Fadhili Williams Later Career|Fadhili Williams]], and Daudi Kabaka. Inspired by the success of early electric guitarists, Misiani made his first recordings in 1965, drawing directly from the nyatiti patterns he had absorbed in childhood. His early hits demonstrated that benga could be both commercially viable and culturally authentic.

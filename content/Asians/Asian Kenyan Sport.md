@@ -1,5 +1,3 @@
-# Asian Kenyan Sport
-
 [[Kenyans]] of [[Asian Kenyans|Asian]] descent have participated in [[Kenya]]'s [[sports]] at both amateur and professional levels, though their presence is not as prominent as in other sectors. Some [[Asian Kenyans]] have achieved notable [[sports|sporting]] success.
 
 ## Participation and Sports Culture

@@ -1,5 +1,3 @@
-# Samburu-Pokot Conflict
-
 [[Samburu]]-Pokot pastoral conflicts involve cattle raiding, territorial disputes, and resource competition in border zones. Like [[Samburu-Turkana Conflict|Samburu-Turkana conflicts]], these center on pastoralist competition for scarce water and grazing resources. Contemporary conflicts have intensified due to arms availability and climate-driven resource scarcity.
 
 ## Shared Border Zones

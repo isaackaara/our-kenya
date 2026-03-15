@@ -1,5 +1,3 @@
-# Tana River Primate Reserve
-
 The Tana River Primate National Reserve represents a critical conservation effort protecting one of Africa's most endangered and geographically restricted primate species, the Tana River Red Colobus. Established in 1976 as a national reserve, the protected area encompasses approximately 169 square kilometers of riverine forest within Tana River County, providing habitat critical to the survival of globally endangered species found nowhere else on Earth.
 
 The reserve was established through recognition that riverine forest along the Tana River supports unique fauna dependent on this specialized habitat. Upstream dam construction and human settlement expansion threatened remaining forest. International conservation interest, particularly from primatology researchers, contributed to establishment decisions. The reserve objective was to protect habitat and wildlife population, though establishment created tensions with surrounding communities whose livelihoods had depended on reserve resources.

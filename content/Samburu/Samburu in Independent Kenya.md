@@ -1,5 +1,3 @@
-# Samburu in Independent Kenya
-
 At independence (1964), [[Samburu]] communities became citizens of independent Kenya, participating in national political and economic systems. [[Samburu]] representation through elected politicians has provided some voice in national governance. Pastoralist interests have competed with national development priorities. Devolution (2013) created county-level governance enabling [[Samburu]]-specific policy focus.
 
 ## Post-Independence Transition

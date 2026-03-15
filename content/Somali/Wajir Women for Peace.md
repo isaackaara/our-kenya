@@ -1,5 +1,3 @@
-# [[Wajir County|Wajir]] [[Wajir Women for Peace|women for peace]]
-
 The Wajir Women for Peace group represents a pioneering women-led peace initiative in Kenya and the broader Horn of Africa. Emerging during the height of interclan violence in Wajir County in the early 1990s, the group's mobilization demonstrated women's distinctive capacity to bridge [[Somali Clan System Kenya|clan]] divides and pursue reconciliation, challenging patriarchal assumptions about women's public roles and peacebuilding authority.
 
 ## Origins and Context

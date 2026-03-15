@@ -1,5 +1,3 @@
-# Bungoma Agriculture
-
 Bungoma County's economy is predominantly agricultural with sugarcane, maize, wheat, and coffee as primary crops. Agricultural production varies by elevation, with lowland areas suitable for sugarcane and maize, while higher-altitude areas support wheat and coffee. Smallholder farmers dominate agricultural production, though larger farms and commercial operations exist. Agriculture provides livelihoods for the majority of Bungoma's population.
 
 ## Sugarcane Production

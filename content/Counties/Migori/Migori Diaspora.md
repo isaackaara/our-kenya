@@ -1,5 +1,3 @@
-# Migori Diaspora
-
 Migori residents have migrated to urban centers and international destinations in search of employment and education, creating diaspora networks. These networks maintain connections to home communities and contribute financially.
 
 ## Urban Migration Patterns

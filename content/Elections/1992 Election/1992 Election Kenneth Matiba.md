@@ -1,5 +1,3 @@
-# 1992 Election Kenneth Matiba
-
 [[Kenneth Matiba]], a Kikuyu businessman, emerged as a challenger to Moi from within the Kikuyu community, running as FORD-Asili's presidential candidate in 1992. Matiba represented a different model of opposition leadership than Odinga: younger (though already in his 60s), successful in business, and representative of educated, entrepreneurial Kikuyu elites who sought to dislodge Moi's regime and restore Kikuyu political influence (which had been largely subordinated to Moi's Kalenjin dominance since 1978).
 
 Matiba had not been a prominent political figure before the 1992 election. His political emergence was sudden and dramatic, and his campaign was backed by substantial business resources that he deployed to compete with Moi's state-financed campaign and with Odinga's elder statesman appeal. Matiba's wealth and his business success were presented as qualifications for leadership, contrasting with Odinga's elderly status and historical role.

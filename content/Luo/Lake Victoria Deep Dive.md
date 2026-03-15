@@ -1,5 +1,3 @@
-# [[../Conservation/Lake Victoria Kenya|Lake Victoria]] Deep Dive
-
 Lake Victoria is the world's second-largest freshwater lake by surface area, with a total area of 68,800 square kilometers. It is shared between Kenya, Uganda, and Tanzania, and forms a natural boundary and connection point among these three nations. For the Luo people and wider East African communities, Lake Victoria represents both an ecological system and an economic heartland.
 
 ## Geological History

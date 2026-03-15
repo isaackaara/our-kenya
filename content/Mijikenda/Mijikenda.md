@@ -1,5 +1,3 @@
-# Mijikenda Knowledge Graph
-
 The Mijikenda (meaning "nine villages") are the largest indigenous community on the Kenya coast, comprising nine related Bantu-speaking peoples spread from Kilifi County in the north to Kwale County in the south. This knowledge graph maps their history, culture, governance, and contemporary challenges.
 
 ## Overview and Identity

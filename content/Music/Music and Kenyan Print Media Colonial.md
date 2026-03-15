@@ -1,5 +1,3 @@
-# Music and Kenyan Print Media Colonial
-
 How newspapers reviewed, promoted, and occasionally suppressed music during Kenya's colonial period reveals the complex role of print media in shaping musical culture and public taste. The press functioned as gatekeeper, promoter, censor, and critic, wielding significant power over which musicians gained recognition and which remained obscure.
 
 Colonial Kenya's newspaper landscape was racially segregated. The *East African Standard* served primarily European settlers, focusing on European cultural events and occasionally covering African music as exotic curiosity. The *Daily Nation* and *East African Chronicle*, which emerged later, targeted African and Asian readerships with broader cultural coverage. This segregation meant musical coverage differed dramatically across publications.

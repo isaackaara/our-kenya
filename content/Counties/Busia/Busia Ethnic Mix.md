@@ -1,5 +1,3 @@
-# Busia Ethnic Mix
-
 Busia County has one of Kenya's most diverse ethnic compositions, with multiple groups coexisting. Luhya communities are substantial, including Samia, Teso (Tirichi), and Marachi sub-groups. Luo communities are significant, particularly in Lake Victoria shoreline areas. Iteso (Teso) communities from Uganda straddle the Kenya-Uganda border, with population on both sides. Kamba, Kikuyu, and other settler communities have migrated to Busia for economic opportunities. Other groups including Somali and Asian traders reside in Busia town. Religious diversity includes Christianity (Catholics, Protestants), Islam, and traditional beliefs. Ethnic intermarriage has increased, creating families with multiple ethnic backgrounds. Ethnic cooperation in agriculture and trading demonstrates economic complementarity. Political representation reflects ethnic composition through electoral systems. Cultural diversity is both resource and potential source of tension.
 
 ## Historical Settlement Patterns

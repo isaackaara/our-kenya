@@ -1,5 +1,3 @@
-# Corruption and Business Climate
-
 ## Overview
 
 [[Corruption in Kenya Overview|Corruption]] increases the cost of doing business in Kenya. Businesses must budget for informal payments to government officials, [[Customs Corruption Kenya|customs]] agents, and intermediaries. These "facilitation payments" are not explicitly taxed but are effective taxes on business revenue. High corruption costs have been cited by investors as a constraint on investment and business expansion.

@@ -1,5 +1,3 @@
-# Samburu Music
-
 [[Samburu]] musical traditions include [[The Moran (Warriors)|moran warrior songs]], women's blessing songs, and various ceremonial music forms. These traditions use distinctive instruments and vocal styles. Music plays important roles in social bonding, ritual, and entertainment. Contemporary music incorporates modern genres alongside traditional forms.
 
 ## Moran Warrior Songs

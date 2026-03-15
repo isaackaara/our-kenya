@@ -1,5 +1,3 @@
-# Nyamira Kipsigis
-
 The Kipsigis are a Kalenjin sub-group with communities in eastern portions of Nyamira County, particularly in areas bordering Bomet County. The Kipsigis maintain distinct cultural traditions and represent an important ethnic community in the county.
 
 ## Kipsigis in Nyamira

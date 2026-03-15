@@ -1,5 +1,3 @@
-# Lamu Donkeys
-
 Donkeys are the iconic transport animals of Lamu Island, carrying goods, people, and supplies through the narrow streets of Lamu town and surrounding settlements. The prohibition on motorized vehicles on Lamu Island (maintained by local custom and regulation) means that donkeys, hand carts, and manual transport are the only practical means of moving goods. This reliance on donkeys is both a practical necessity and a defining feature of Lamu's character.
 
 Historically, donkeys were introduced to the East African coast through Arab and Persian trade networks, likely arriving centuries ago. They are well-adapted to hot, arid environments and require relatively modest feed and water. In the Lamu context, they became the standard transport animal, replacing or supplementing human porters for heavier loads.

@@ -1,5 +1,3 @@
-# Swahili Civilization Overview
-
 The [[Swahili]] represent one of East Africa's greatest civilizations, a Bantu-speaking coastal people who built sophisticated urban city-states along the East African littoral from Somalia in the north to Mozambique in the south, with settlements extending across [[The Indian Ocean World|the Indian Ocean]] to [[Zanzibar and Kenya|Zanzibar]], Pemba, Comoros, and beyond.
 
 ## Origins and Identity

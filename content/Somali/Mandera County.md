@@ -1,5 +1,3 @@
-# Mandera County
-
 [[Mandera County]] is Kenya's most remote and isolated county, located at the extreme northeastern corner bordering both Ethiopia and [[Somalia]]. It is one of Kenya's most arid, poorest, and least developed counties. The [[Marehan Clan Kenya|Marehan]] and other [[Darod clan family|Darod]] clans are the primary populations. Mandera faces extraordinary development challenges: extreme isolation, minimal infrastructure, severe water scarcity, limited economic opportunity, and persistent security threats from [[Al-Shabaab in Kenya|Al-Shabaab]].
 
 ## Geography and Isolation

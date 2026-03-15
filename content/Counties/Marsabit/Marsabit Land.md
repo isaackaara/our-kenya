@@ -1,5 +1,3 @@
-# Marsabit Land Tenure and Pastoral Rights
-
 Land tenure in Marsabit County reflects complex overlaps between customary pastoral systems, colonial legal frameworks, and contemporary national law. These different systems sometimes create conflict over access and use rights.
 
 Customary pastoral land tenure allocated grazing areas to communities based on historical occupation and water access. Territorial rights operated at community level rather than individual household level. Seasonal movement patterns recognised shifting resource availability. These systems sustained pastoral production for centuries.

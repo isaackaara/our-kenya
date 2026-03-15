@@ -1,5 +1,3 @@
-# Joy Adamson in Shaba National Reserve
-
 Joy Adamson (1910,1980) was a conservationist and author best known for her book "Born Free" (1960), which documented her work raising the lioness Elsa at Shaba National Reserve in Isiolo County. Adamson's work made her internationally famous and established her as a pioneer in wildlife conservation.
 
 Born in Austria as Friederike Victoria Gessner, Adamson moved to Kenya in the 1930s and married George Adamson, a British game warden. The couple worked together on wildlife conservation projects, establishing a reputation for innovative approaches to animal rehabilitation and release.

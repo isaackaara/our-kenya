@@ -1,5 +1,3 @@
-# Mijikenda at Independence
-
 When Kenya achieved independence from British colonial rule on December 12, 1963, the [[Mijikenda]] peoples faced a new set of political and economic challenges. While independence promised self-determination and national development, the [[Mijikenda]] quickly found themselves marginalized in a nation dominated by upland ethnic groups, particularly the Kikuyu and Luo.
 
 ## Political Marginalization

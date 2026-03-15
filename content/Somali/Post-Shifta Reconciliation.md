@@ -1,5 +1,3 @@
-# Post-Shifta Reconciliation and Somali Political Incorporation
-
 After the formal end of the [[Shifta War Overview|Shifta War]] in 1967, Kenya faced the challenge of politically and socially reincorporating [[Kenyan Somali Identity|Somali]] communities into the Kenyan state. This process has been incomplete and fraught, characterized by episodic attempts at reconciliation, continued marginalization, and recurring cycles of violence and state repression.
 
 ## The Immediate Post-Shifta Period (1967-1980)

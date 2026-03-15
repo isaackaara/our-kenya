@@ -1,5 +1,3 @@
-# [[kaya]] [[elders]]
-
 The kaya elders are the spiritual and governance leaders of [[Mijikenda]] society. They maintain the [[sacred]] forests, perform ritual ceremonies, adjudicate disputes according to customary law, and guard sacred knowledge and objects. The kaya elder system, organized through the Gohu (senior) and Vaya (junior) councils, represents centuries of accumulated institutional practice and remains central to Mjikenda cultural identity despite modernization and colonial disruption.
 
 ## The Gohu and Vaya Councils

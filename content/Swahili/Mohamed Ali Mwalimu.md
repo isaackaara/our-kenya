@@ -1,5 +1,3 @@
-# Mohamed Ali Mwalimu
-
 Mohamed Ali Mwalimu is a prominent [[Swahili]] political figure and intellectual from the Kenyan coast. He has been involved in coastal politics, education, and cultural advocacy. "Mwalimu" means "teacher" in [[Swahili Language|Swahili]], a title indicating his role as educator and intellectual leader dedicated to [[Swahili in Education|coastal education]].
 
 ## Educational Leadership

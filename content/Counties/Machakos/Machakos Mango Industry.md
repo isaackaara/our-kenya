@@ -1,5 +1,3 @@
-# Machakos Mango Industry
-
 Machakos County produces some of Kenya's highest-quality mangoes, with the fruit becoming a major agricultural commodity and export product. The Machakos mango industry demonstrates successful agricultural commercialization and market integration, though it faces ongoing challenges including market access, value chain organization, and climate vulnerability.
 
 Mango cultivation in Machakos occurs across diverse environments, from small holdings to larger commercial orchards. Smallholder farmers often interplant mangoes with annual crops, using mangoes as a long-term investment providing annual income. Commercial mango producers operate specialized orchards with careful management of tree health, pruning, and pest management.

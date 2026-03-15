@@ -1,5 +1,3 @@
-# Corruption Timeline: Kenya From Independence Through 2026
-
 ## 1963: Independence
 - Kenya becomes independent
 - [[Daniel arap Moi and State Capture|Jomo Kenyatta]] becomes first president

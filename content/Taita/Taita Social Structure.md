@@ -1,5 +1,3 @@
-# Taita Social Structure
-
 Taita society is organized around clans and lineages, with a system of age grades and elder councils that govern community affairs. This social structure has proven resilient and continues to shape Taita communities today.
 
 ## Clan Organization

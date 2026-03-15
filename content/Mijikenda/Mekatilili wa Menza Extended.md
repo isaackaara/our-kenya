@@ -1,5 +1,3 @@
-# Mekatilili wa Menza: Extended Legacy
-
 Mekatilili wa Menza's legacy has extended far beyond her historical era (c. 1860s-1924). Her story has been recovered, reinterpreted, and celebrated in contemporary Kenya as a symbol of female leadership, anti-colonial resistance, and coastal pride. The recovery of Mekatilili's history from colonial archives and popular memory represents a process of historical reconstruction and meaning-making by multiple actors across generations.
 
 ## The 200-Shilling Note

@@ -1,5 +1,3 @@
-# Mijikenda in Nairobi
-
 The [[Mijikenda]] diaspora in [[Nairobi]] represents a significant but often undercounted urban [[Mijikenda]] population. Young [[Mijikenda]], particularly from Kilifi and Kwale, migrate to Kenya's capital seeking employment, education, and economic opportunity. The Nairobi-based [[Mijikenda]] maintain varying degrees of connection to coastal homeland communities and to coastal Mijikenda identity.
 
 ## Migration Patterns

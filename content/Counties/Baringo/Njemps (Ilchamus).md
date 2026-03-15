@@ -1,5 +1,3 @@
-# Njemps (Ilchamus)
-
 The Njemps (also called Ilchamus) represent a small community living on the shores of Lake Baringo, numbering approximately 5,000 to 10,000 individuals. The Njemps maintain distinct cultural practices and livelihoods centered on fishing and pastoralism adapted to lake-shore environments.
 
 The Njemps are linguistically and culturally related to [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]], sharing some pastoralist heritage while maintaining distinctive fishing traditions.

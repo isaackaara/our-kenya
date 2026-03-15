@@ -1,5 +1,3 @@
-# Ngong Hills
-
 The Ngong Hills represent a distinctive ridgeline on [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] escarpment located west of Nairobi in Kajiado County, forming a prominent landscape feature visible from Nairobi and providing scenic vistas across the surrounding plains and toward the Rift Valley.
 
 The hills reach elevations of approximately 2,600 meters at their highest point and create a characteristic ridgeline profile visible across vast distances.

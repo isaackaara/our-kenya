@@ -1,5 +1,3 @@
-# Sabaot Land Defence Force
-
 [[../../Kalenjin/Kalenjin|Kalenjin]] Land Defence Force (SLDF) was an armed insurgent group that operated primarily in [[../../Conservation/Mount Elgon National Park|Mount Elgon]] area spanning Trans-Nzoia and Elgeyo-Marakwet counties (2006-2008). The SLDF emerged from Sabaot community grievances over land access, forest control, and what they viewed as illegal settlement by non-Sabaot groups on ancestral Sabaot territory. The conflict was particularly bitter because it involved violence between Sabaot sub-groups (Soy and Mosop communities), creating internal community fragmentation. The insurgency was motivated by competition for Mount Elgon forest resources and land ownership disputes that traced back to colonial allocation and post-independence redistribution patterns.
 
 ## Conflict Violence and Casualties

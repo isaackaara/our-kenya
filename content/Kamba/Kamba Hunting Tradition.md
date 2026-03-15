@@ -1,5 +1,3 @@
-# Kamba Hunting Tradition
-
 The Kamba were renowned throughout East Africa as skilled hunters, particularly known for elephant hunting and the production of high-quality poison for arrows. Hunting was a major source of wealth, prestige, and important trade goods including ivory and hides.
 
 ## Hunters and Hunting Techniques

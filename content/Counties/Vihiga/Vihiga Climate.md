@@ -1,5 +1,3 @@
-# Vihiga Climate
-
 Vihiga County experiences a highland climate with consistent rainfall, high humidity, and moderate temperatures. The county receives bimodal rainfall with two distinct wet seasons. Rainfall reliability is generally good, supporting diverse crop production. Climate variation is limited across the small county. Climate patterns are generally favourable for agriculture though rainfall variability creates periodic challenges.
 
 ## Rainfall Patterns

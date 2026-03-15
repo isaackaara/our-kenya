@@ -1,5 +1,3 @@
-# Voting Across Ethnic Lines
-
 Documented cases exist where Kenyans have voted against their ethnic community's preferred candidate, demonstrating that [[ethnic voting]] is not absolute and that conditions exist allowing for [[cross-ethnic political coalition]] formation. Understanding the conditions under which [[cross-ethnic voting]] occurs and its implications for [[Kenyan democracy]] is important for assessing possibilities for transcending [[ethnic politics]].
 
 The 2002 presidential election provides significant evidence of cross-ethnic voting. Mwai Kibaki, a Kikuyu candidate running under the NARC (National Rainbow Coalition) coalition, won the 2002 election with support from communities beyond Kikuyu voters. Kalenjin voters, having predominantly supported Daniel arap Moi in previous elections, shifted substantially to Kibaki. Luhya, Luo, and other communities also supported Kibaki. The cross-ethnic coalition that elected Kibaki demonstrated the possibility of transcending ethnic voting patterns.

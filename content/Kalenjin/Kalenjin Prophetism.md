@@ -1,5 +1,3 @@
-# Kalenjin Prophetism
-
 The orkoiyot (or oibon in some dialects) tradition represents a distinctive form of spiritual and political leadership in Kalenjin societies, wherein a sacred leader merges prophecy with strategic leadership, religious authority with military command. The orkoiyot was understood as a prophet, rainmaker, spiritual guide, and community mediator rolled into a single person who could access divine knowledge and channel it to community benefit.
 
 ## The Orkoiyot Role

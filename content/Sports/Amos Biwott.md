@@ -1,5 +1,3 @@
-# Amos Biwott: The Steeplechase Innovator with an Unorthodox Technique
-
 Amos Biwott, representing Kenya at the 1968 Mexico City Olympics, won the gold medal in the 3000 meters steeplechase in 8:51.0, becoming Kenya's third gold medalist at those historic Games. More notable than his medal itself was his steeplechase technique, which was fundamentally different from the approach used by European steeplechasers and represented innovation born from Kenya's running culture rather than coaching tradition.
 
 Steeplechase, as contested internationally, involves running 3000 meters while negotiating 28 barriers (small hurdles, 0.91 meters high) and 7 water jumps. The water jump, unique to steeplechase, consists of a final barrier with a water pit on the landing side. Proper steeplechase technique requires athletes to develop specific barrier-clearing skills, usually learned through years of training and coaching.

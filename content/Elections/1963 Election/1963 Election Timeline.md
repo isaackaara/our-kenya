@@ -1,5 +1,3 @@
-# 1963 Election Timeline
-
 **1962, November**  -  Second Lancaster House Constitutional Conference concludes, establishing the framework for Kenya's independence elections.
 
 **1963, January**  -  Kenya Broadcasting Corporation begins official campaign coverage. KANU and KADU candidates register for election. Election campaign activities intensify across Kenya's constituencies.

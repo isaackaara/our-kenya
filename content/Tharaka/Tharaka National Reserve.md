@@ -1,5 +1,3 @@
-# Tharaka National Reserve
-
 The Tharaka National Reserve (now considered part of the Meru National Park [[Tharaka Climate]]) is a [[Tharaka-Nithi County]] [[Tharaka and Wildlife]] area in Tharaka-Nithi County. The reserve supports important wildlife populations and has significance for both [[Tharaka Forest]] and community livelihoods.
 
 ## Geographic Location

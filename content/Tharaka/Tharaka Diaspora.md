@@ -1,5 +1,3 @@
-# Tharaka Diaspora
-
 Tharaka communities have migrated to [[Tharaka Economic Development]] areas, particularly Nairobi, creating diaspora communities that maintain connections to home while engaging with urban life and employment.
 
 ## [[Tharaka and the Meru]] Patterns

@@ -1,5 +1,3 @@
-# Telkom Kenya
-
 [[Telkom Kenya]] is a [[fixed-line telecommunications Kenya|fixed-line telecommunications]] operator that was split from the [[Posts and Telecommunications Kenya|Posts and Telecommunications]] parastatal in 1998. As a [[landline Kenya|landline]]-focused incumbent, Telkom has struggled to compete as [[mobile Kenya|mobile]] and [[internet Kenya|internet]] services displaced [[traditional telephony Kenya|traditional telephony]].
 
 ## Overview

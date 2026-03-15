@@ -1,5 +1,3 @@
-# Swahili Identity
-
 The question of who qualifies as [[Swahili]] has generated scholarly debate and practical social consequences throughout history. [[Swahili Identity|Swahili identity]] is not purely ethnic, linguistic, religious, or cultural, but rather a complex synthesis drawing on all these dimensions. The criteria for inclusion have also shifted over time and continue to be contested in contemporary Kenya within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Competing Definitions

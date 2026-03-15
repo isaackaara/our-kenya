@@ -1,5 +1,3 @@
-# Ol Kalou Town
-
 Ol Kalou is the county headquarters of Nyandarua County, located in the cool highlands at approximately 2,400 meters elevation. The town serves as the administrative center for county government functions. Market activities center on agricultural trading, particularly wheat and dairy products. The highland location creates a distinctive cool climate in the town. Services including government offices, banks, schools, and health facilities serve surrounding communities.
 
 ## Administrative Functions

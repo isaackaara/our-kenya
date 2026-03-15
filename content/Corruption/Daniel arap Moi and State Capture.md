@@ -1,5 +1,3 @@
-# Daniel arap Moi and State Capture: The Presidency as Personal Business
-
 ## The 24-Year Rule
 
 Daniel arap Moi served as president of Kenya from 1978 to 2002, a period of 24 years. During this period, the Kenyan [[State Capture Kenya|state]] was systematically looted. Government resources, land, and contracts were allocated to Moi's family, his political allies, and his business associates.

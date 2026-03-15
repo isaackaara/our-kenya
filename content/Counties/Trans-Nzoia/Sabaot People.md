@@ -1,5 +1,3 @@
-# Sabaot People
-
 [[../../Kalenjin/Kalenjin|Kalenjin]] are a Kalenjin sub-group, see [[../../Kalenjin/Kalenjin.md]]. They are indigenous to the [[../../Conservation/Mount Elgon National Park|Mount Elgon]] region spanning Trans-Nzoia and Elgeyo-Marakwet counties. The Sabaot traditionally practiced pastoralism combined with highland agriculture, exploiting the diverse ecological zones of Mount Elgon. The name Sabaot means "people of the plateau" in their language. Their ancestral territory centers on Mount Elgon and its surrounding highlands. The Sabaot maintain distinct cultural practices, including age-set systems, ceremonial traditions, and oral histories.
 
 ## Social Structure and Culture

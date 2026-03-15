@@ -1,5 +1,3 @@
-# Kiambu Real Estate Boom
-
 Kiambu's real estate market has experienced explosive growth as Nairobi's congestion and high property prices pushed middle-class residents to seek affordable housing in Kiambu's satellite towns (Ruiru, Thika, Kiambu town). The Thika Superhighway, completed in 2012, dramatically reduced commute times and accelerated the transformation of Kiambu's rural and agricultural landscape into suburban residential and commercial development.
 
 Real estate developers have subdivided agricultural land (particularly coffee and tea estates) into residential plots, creating dozens of new residential estates in Ruiru, Thika, Kiambu, and surrounding areas. These developments range from upscale estates with large plots and modern amenities to middle-income housing to budget housing for lower-income residents. Commercial real estate (office parks, shopping centers) has followed residential development, creating nodes of retail and service activity.

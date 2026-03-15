@@ -1,5 +1,3 @@
-# Private School Kids
-
 The International School of Kenya, Peponi School, Rosslyn Academy, and similar private international schools create a distinctive class of [[Kenya|Kenyans]] with pronounced international cultural orientation. These schools, which charge annual fees exceeding the annual income of most Kenyans, serve predominantly the children of expatriates and affluent Kenyan families. The educational model emphasizes [[Cross-Ethnic Kenya|international curricula]], expatriate staff, and English-language instruction.
 
 The student bodies of international schools are typically diverse in terms of national origins, though relatively homogeneous in terms of class position. Students include the children of diplomats, expatriate business people, international organization staff, and wealthy Kenyans. The schools bring together students from multiple nationalities, creating a [[Nairobi as Melting Pot|global cosmopolitan peer group]] rather than a nationally specific community.

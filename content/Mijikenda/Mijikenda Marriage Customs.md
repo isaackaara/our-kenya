@@ -1,5 +1,3 @@
-# Mijikenda Marriage Customs
-
 Marriage among [[Mijikenda Overview|Mijikenda]] is a complex institution involving families, economic transactions, ritual, and social integration. Marriage customs vary somewhat among the nine sub-groups, but common patterns reflect shared cultural heritage.
 
 ## Bridewealth (Mahari)

@@ -1,5 +1,3 @@
-# 1983 Election
-
 The 1983 election was a snap election called by President Daniel arap Moi in the aftermath of the August 1982 air force coup attempt and the subsequent consolidation of his political power. Held on November 26, 1983, the election was used by Moi to cement his control of KANU and the state after a period of intense political turbulence. The election was one of the most controlled elections in Kenya's post-independence history, with government management of primary outcomes more explicit than in previous elections.
 
 The 1983 election followed shortly after the failed coup attempt of August 1982, which had shaken the political order and had prompted the government to arrest numerous suspected conspirators and to purge government personnel. The election was called as a tool for consolidating Moi's power in the wake of the coup attempt and for removing from Parliament any politicians suspected of disloyalty.

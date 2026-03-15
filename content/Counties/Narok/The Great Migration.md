@@ -1,5 +1,3 @@
-# The Great Migration
-
 The Great Migration represents one of the world's largest terrestrial animal migrations, an annual cyclical movement of approximately 1.5 million wildebeest along with zebras and gazelles between the Serengeti National Park in Tanzania and [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara National Reserve in Kenya.
 
 This migration is driven by seasonal rainfall patterns and the availability of fresh grazing lands. The herds follow the rains in a clockwise pattern, moving between two ecosystems that are separated by the Mara River, a geographic boundary that presents formidable challenges during river crossings.

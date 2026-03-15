@@ -1,5 +1,3 @@
-# Shimba Hills and Digo Territory
-
 The Shimba Hills form a distinctive geographic and ecological region within Kwale County, the southern [[Digo]] homeland. The hills represent an important biodiversity area while also being central to [[Digo]] territorial identity, cultural practice, and contemporary conservation-development tensions.
 
 ## Geography and Ecology

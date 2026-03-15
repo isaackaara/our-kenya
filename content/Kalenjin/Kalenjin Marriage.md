@@ -1,5 +1,3 @@
-# Kalenjin Marriage
-
 Marriage among the Kalenjin represents a complex social institution that negotiates kinship bonds, transfers wealth, establishes sexual and reproductive relationships, and creates alliance between families and clans. Traditional Kalenjin marriage practices, while varying by sub-group, share common structural features around bride-wealth, clan exogamy, and elders' authority.
 
 ## Bride-Wealth and the Chemosit

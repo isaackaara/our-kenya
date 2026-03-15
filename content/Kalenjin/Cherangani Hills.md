@@ -1,5 +1,3 @@
-# Cherangani Hills
-
 The Cherangani Hills are a highland massif straddling West Pokot and Trans-Nzoia counties, forming one of Kenya's five major water towers. The range provides water to multiple river systems, protects diverse ecosystems, and has been home to Sengwer indigenous communities for centuries. However, the Cherangani forest is also a site of ongoing conflict over conservation, indigenous land rights, and state authority, with the Sengwer community facing persistent pressure from the Kenya Forest Service.
 
 ## Key Facts

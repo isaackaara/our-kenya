@@ -1,5 +1,3 @@
-# Eastlands: Nairobi's Post-Independence Working-Class Suburbs
-
 Eastlands refers to the cluster of working-class residential suburbs on the eastern side of Nairobi, including Buruburu, Umoja, Embakasi, and Kayole. These areas were developed in the post-independence period (from 1964 onward) as planned residential quarters for African workers and lower-middle-class families.
 
 ## Colonial Origins

@@ -1,5 +1,3 @@
-# Samburu Cattle Culture
-
 Cattle hold profound cultural meaning in [[Samburu]] society, representing wealth, identity, social status, and spiritual significance. Cattle provide milk, meat, and products forming economic basis. Cattle ownership enables [[Samburu Marriage|marriage]], establishes prestige, and functions in ceremonial contexts. [[Samburu Pastoralism|Pastoral identity]] centers on cattle cultural importance.
 
 ## Wealth and Status

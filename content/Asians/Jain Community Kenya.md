@@ -1,5 +1,3 @@
-# Jain Community Kenya
-
 Jains are followers of Jainism, a religious tradition originating in India emphasizing non-violence (ahimsa), asceticism, and strict vegetarianism. In Kenya, Jains number perhaps 500 to 1,000, making them a very small community. Despite their small size, Jains have been prominent in the textile and diamond trade and maintain distinctive religious and cultural practices.
 
 ## Origins and Identity

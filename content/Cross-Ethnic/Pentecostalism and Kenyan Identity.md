@@ -1,5 +1,3 @@
-# Pentecostalism and Kenyan Identity
-
 Pentecostalism has experienced explosive growth in [[Kenya]] since the 1980s, transforming the religious landscape and creating new possibilities for [[Cross-Ethnic Kenya|cross-ethnic religious community]]. Pentecostal churches emphasize the Holy Spirit's direct activity, glossolalia (speaking in tongues), miraculous healing, and spiritual warfare. The movement has attracted converts from across Kenya's ethnic communities, creating [[Nairobi as Melting Pot|multi-ethnic congregations]] emphasizing spiritual experience over ethnic identity.
 
 The growth of Pentecostalism in Kenya reflects several factors. The movement offers spirituality emphasizing direct divine encounter, which appeals to believers seeking more charismatic religious experience than traditional Protestant denominations provided. Pentecostalism's emphasis on practical morality and worldly success appeals to upwardly mobile urbanites. The flexibility of Pentecostal organizational structures allows rapid expansion and adaptation to local contexts.

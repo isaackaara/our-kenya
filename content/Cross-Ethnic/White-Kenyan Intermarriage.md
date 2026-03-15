@@ -1,5 +1,3 @@
-# White-Kenyan Intermarriage
-
 Marriages between [[white Kenyans]] and [[African Kenyans]] represent an extreme case of ethnic (or racial) exogamy, historically subject to intense taboo and social prohibition. The evolution of attitudes toward such marriages from the 1960s to the present reveals profound changes in [[Kenyan race relations]] and the ideology of post-colonial nationalism.
 
 During the colonial period, marriages between white settlers and African women were formally and informally forbidden. The colonial state maintained strict racial hierarchies that defined interracial sexual relationships as transgressive. White Kenyan settlers departed Kenya at independence, and the small white population remaining or immigrating afterward was generally separated from the African majority by language, economic position, education, and social networks.

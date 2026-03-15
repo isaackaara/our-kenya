@@ -1,5 +1,3 @@
-# Bien-Aimé Baraza
-
 Bien-Aimé Baraza emerged from [[Music/Sauti Sol|Sauti Sol]], Kenya's most internationally successful band, to establish himself as a solo artist whose work bridges the gap between Kenya's street music traditions and the polished Afropop that dominates continental markets. As Sauti Sol's lead vocalist, Bien contributed to the band's Grammy-certified work on Burna Boy's "Twice as Tall" album, earning recognition as a Grammy-certified songwriter, a milestone that positioned him among East Africa's elite music producers and writers.
 
 His role in Sauti Sol extended beyond performance. As a co-founder of Sol Generation Records alongside his bandmates, Bien helped build infrastructure that developed new Kenyan talent including [[Music/Nviiri the Storyteller|Nviiri the Storyteller]] and [[Music/Bensoul|Bensoul]]. This A&R work, identifying and nurturing emerging artists, demonstrated business acumen that would serve him well in his solo transition. The label became a finishing school for a new generation of Kenyan Afropop artists who could navigate both local and international markets.

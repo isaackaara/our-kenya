@@ -1,5 +1,3 @@
-# Kamba in the Safari Industry
-
 The Kamba hunting tradition, dating back centuries, positioned them as valued trackers and guides in Kenya's modern safari industry. This economic niche represents a contemporary expression of Kamba martial and hunting skills, though unequal power dynamics with safari operators persist.
 
 ## Historical Hunting Foundation

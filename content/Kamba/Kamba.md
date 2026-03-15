@@ -1,5 +1,3 @@
-# Kamba (Akamba)
-
 The Kamba are a Bantu people of eastern Kenya who built their identity on three remarkable things: long-distance trade that spanned from the Swahili coast to the interior highlands, a warrior tradition that made them invaluable soldiers to colonial powers, and distinctive crafts like wood carving that remain globally recognized. Before colonialism, Kamba traders (called athambuki or atenganye) were the primary middlemen connecting the coast and the interior, carrying ivory, beeswax, and iron goods in caravans that shaped East African commerce for centuries.
 
 ## Hub: Kamba Knowledge Graph

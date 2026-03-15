@@ -1,5 +1,3 @@
-# Luo Christianity
-
 Christianity's encounter with Luo society began in the late 19th century through Christian missionary activity. The relationship between Christian faith and Luo traditional religion and culture remains a complex and ongoing negotiation, characterized by both adoption and tension.
 
 ## Early Missionary Contact

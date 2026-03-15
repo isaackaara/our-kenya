@@ -1,5 +1,3 @@
-# Sports Administrators Kenya: Leadership, Accountability, and Conflicts of Interest
-
 Kenyan sports administrators  -  those who lead athletics federations, football associations, and rugby unions  -  have varied dramatically in competence, integrity, and commitment to development. Some administrators have achieved meaningful governance improvements. Others have been implicated in corruption, election fraud, and financial mismanagement.
 
 The absence of institutional accountability mechanisms means that administrator misconduct often goes unpunished unless international bodies (World Athletics, FIFA, CAF) intervene. This creates persistent governance weakness across Kenyan sports.

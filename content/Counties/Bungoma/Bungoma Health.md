@@ -1,5 +1,3 @@
-# Bungoma Health
-
 Healthcare in Bungoma County is provided through government health facilities, private clinics, and traditional practitioners. Bungoma County Referral Hospital serves as the primary government facility providing specialized services. Health system capacity has expanded through devolution though challenges from demand, resources, and disease burden persist.
 
 ## Bungoma County Referral Hospital

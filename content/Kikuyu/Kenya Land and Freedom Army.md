@@ -1,5 +1,3 @@
-# Kenya Land and Freedom Army
-
 The Kenya Land and Freedom Army (KLFA) was the formal military name of the movement the British called "Mau Mau." The organisation itself always preferred KLFA, the British used "Mau Mau" deliberately, as the nationalist J.M. Kariuki later wrote, to deny the movement international legitimacy by making it sound like something barbaric and irrational rather than a recognisable armed liberation struggle. The name encodes the movement's two core demands: land (restoration of [[Githaka]]) and freedom (*uhuru*).
 
 ## Key Facts

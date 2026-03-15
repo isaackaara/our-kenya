@@ -1,5 +1,3 @@
-# Hola Town
-
 Hola is a small town in Tana River County's Garissa District, located in a semi-arid zone along the Tana River valley. The settlement developed around the colonial-era detention camp and administrative center, and today serves as a minor trading post and agricultural processing node. Hola's significance in Kenyan history stems primarily from the 1959 massacre at its detention facility, an event that shaped colonial policy and public opinion toward independence.
 
 The site that became Hola was chosen by colonial authorities for its strategic location within the river valley and relative isolation from population centers. During the Mau Mau Emergency, the colonial government established a detention camp there to hold suspected insurgents and captured guerrillas. The camp became a center for forced labor programs, interrogation, and military detention. Colonial administrators referred to detention operations as "rehabilitation" and "resettlement," though in practice they involved harsh conditions, inadequate food and medical care, and systematic coercion.

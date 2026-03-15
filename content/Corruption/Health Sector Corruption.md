@@ -1,5 +1,3 @@
-# Health Sector Corruption
-
 ## Overview
 
 Corruption in Kenya's health sector operates at multiple levels: drug theft from public hospitals, [[Procurement Corruption|procurement fraud]] for medical supplies, absenteeism among paid health workers, and informal payments that gate access to care. These corrupt practices undermine the quality and equity of public health services, with consequences that include preventable deaths among vulnerable populations.

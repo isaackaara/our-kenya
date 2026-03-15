@@ -1,5 +1,3 @@
-# Lake Turkana
-
 [[Lake Turkana]] is the world's largest desert lake and the world's largest alkaline (soda) lake, covering approximately 6,405 square kilometers with a maximum depth of approximately 254 meters. Located in northwestern Kenya with extensions into Ethiopia, the lake is 290 kilometers long and between 16 and 56 kilometers wide. The lake is known as the Jade Sea for the distinctive greenish color of its waters, caused by algae and suspended sediments.
 
 ## Geography and Formation

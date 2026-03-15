@@ -1,5 +1,3 @@
-# Luhya and KANU
-
 The Luhya relationship with KANU (Kenya African National Union), the ruling party that dominated Kenya for four decades (1964-2002), reveals a complex political narrative of cooperation, subordination, and incomplete power. Despite being Kenya's second largest ethnic group, the Luhya occupied supporting rather than leading roles within KANU's political machinery, a pattern that shaped post-independence Luhya political history and contemporary ethnic politics.
 
 ## KADU Dissolution and KANU Absorption (1964)

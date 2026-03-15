@@ -1,5 +1,3 @@
-# Luhya Football Culture
-
 AFC Leopards, commonly known as Ingwe (the Leopard in Luo, though the club represents Luhya identity), is the Luhya primary football club and one of Kenya's two largest football clubs. The rivalry between AFC Leopards (Luhya) and Gor Mahia (Luo) has evolved into the Mashemeji Derby, one of East Africa's most watched and most ethnically charged sporting events. Football serves as an arena where ethnic identity, regional pride, and community solidarity are expressed and enacted week after week.
 
 ## Key Facts

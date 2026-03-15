@@ -1,5 +1,3 @@
-# The Luo Union
-
 The Luo Union (East Africa) is one of Kenya's oldest ethnic welfare associations, established in the early colonial period as a mechanism for Luo community self-organization and mutual support. The Union sought to maintain cultural identity among the Luo diaspora, provide social services, and fund education. Its history and functions illuminate how ethnic associations have shaped Kenyan civil society outside formal state structures.
 
 ## Origins and Early Development

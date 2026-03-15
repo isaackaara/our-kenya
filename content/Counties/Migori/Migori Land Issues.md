@@ -1,5 +1,3 @@
-# Migori Land Issues
-
 Land tenure and land-related conflicts represent significant challenges in Migori County, affecting livelihood security and development. Land tenure systems combine customary, statutory, and semi-formal arrangements.
 
 ## Customary Land Tenure

@@ -1,5 +1,3 @@
-# Kitui Agriculture
-
 Agriculture in Kitui County operates within semi-arid environmental constraints, with crop and livestock production integrated to manage climatic risk. The county's agricultural system emphasizes drought-resistant crops and pastoral production adapted to water scarcity and variable rainfall.
 
 Sorghum and millet serve as traditional staple grains requiring less water than maize and tolerating poor soils. These grains provide carbohydrates and calories for household consumption and occasional market sale. Traditional cultivation practices maintain soil health through crop rotation.

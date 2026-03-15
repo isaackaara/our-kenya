@@ -1,5 +1,3 @@
-# Homa Bay Education
-
 Education in Homa Bay County includes primary schools, secondary schools, and some tertiary institutions, though access and quality remain constrained by limited resources and infrastructure. The education system reflects Kenya's national curriculum while adapted to local conditions.
 
 ## Primary Education

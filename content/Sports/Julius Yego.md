@@ -1,5 +1,3 @@
-# Julius Yego: The YouTube Javelin Thrower Who Became World Champion
-
 Julius Yego is Kenya's most prominent field event athlete and among Africa's greatest javelin throwers. He is the 2015 World Athletics Championships javelin gold medalist and 2016 Olympic silver medalist (92.72m). Uniquely, Yego taught himself javelin throwing by watching instructional videos on YouTube, without formal coaching, making him one of sport's most distinctive autodidact success stories.
 
 Born in 1989, Yego grew up in rural Kenya without access to formal athletics coaching or javelin training facilities. In his early 20s, motivated by desire to become an elite athlete, Yego began researching javelin technique online. Finding no local coaching available, he studied YouTube videos of world-class javelin throwers, analyzing their techniques frame by frame, and taught himself the sport through this video analysis and experimentation. This unconventional training methodology proved remarkably effective.

@@ -1,5 +1,3 @@
-# Kenya Somali and the Shifta War
-
 The Shifta War (1963-1967) was the defining event in [[Kenyan Somali]] history and remains central to their relationship with the Kenyan state. It was an armed conflict between the Kenyan government and [[Somali]] secessionists who sought to join the newly independent [[Somalia|Somali Republic]]. The war ended in a ceasefire, not a decisive victory, and its legacy of mutual suspicion persists today.
 
 ## Context and Causes

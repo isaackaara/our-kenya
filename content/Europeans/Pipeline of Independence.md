@@ -1,5 +1,3 @@
-# Pipeline of Independence
-
 Between 1959 and 1963, Kenya transitioned from [[emergency]] [[colonial rule]] toward [[independence]]. This "pipeline" of [[decolonization]] involved several key stages: the end of the [[Emergency]], [[African political representation]] expansion, [[nationalist organization]], the [[Lancaster House conferences]], [[elections]], and finally independence on December 12, 1963. The transition was managed (largely negotiated) rather than revolutionary, reflecting Britain's strategic [[decolonization approach]] and [[settler anxieties]] about [[African rule]].
 
 ## The End of Emergency (1959-1960)

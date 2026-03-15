@@ -1,5 +1,3 @@
-# Kenya Doping Crisis: Systemic Failures and the Athletics Integrity Unit
-
 Beginning in 2012, Kenya experienced a wave of doping violations among elite distance runners that exposed endemic failures in the nation's anti-doping systems and governance structures. Between 2012 and 2020, more than 50 Kenyan elite runners tested positive for banned substances, predominantly erythropoietin (EPO) and testosterone. This scale of violations was unprecedented for any athletics nation relative to population. The crisis prompted intervention from World Athletics, establishment of an independent anti-doping body, and investigations into systemic governance failures at Athletics Kenya (AK).
 
 The first major violation came in 2012 when [[Liliya Shobukhova]], a Russian marathon runner, confessed to paying Kenyan coaches to create a doping scheme. This revelation, combined with subsequent testing, exposed the fact that numerous Kenyan runners were using EPO and other banned substances without detection. The question immediately arose: how had Kenya's testing and oversight systems failed so comprehensively that dozens of doping athletes remained undetected?

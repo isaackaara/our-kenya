@@ -1,5 +1,3 @@
-# 1983 Election Timeline
-
 **August 1982:** Air force coup attempt occurs and is suppressed. The government arrests suspected conspirators and implements security crackdowns. Charles Njonjo is accused of involvement and begins process of removal from power.
 
 **September-October 1982:** The government consolidates control following the coup attempt. Political purges continue. Detention of suspected dissidents escalates. The political atmosphere becomes charged with fear and loyalty testing.

@@ -1,5 +1,3 @@
-# Second Generation Somali in Nairobi: Hybrid Identity and Urban Belonging
-
 [[Second Generation Somali Nairobi|Second-generation Somali]] in [[Nairobi Somali Community|Nairobi]] (youth born to [[Kenyan Somali Identity|Somali]] parents in Nairobi or who migrated to Nairobi in early childhood) occupy distinctive identity positions. Raised in Kenya's capital city, they are fluent in Swahili, English, and Somali, and navigate hybrid identities combining [[Somali Clan System Kenya|Somali]] cultural and family identity with urban Kenyan upbringing and increasingly, global identity through digital connectivity and diaspora influence.
 
 ## Demographics and Generational Cohort

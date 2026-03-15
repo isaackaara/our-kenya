@@ -1,5 +1,3 @@
-# Tegla Loroupe: Marathon Pioneer and Pokot Peace Ambassador
-
 Tegla Loroupe, representing Kenya in the 1990s and 2000s, twice held the women's marathon world record and competed at three Olympic Games. She was the first Kenyan woman and among the first African women to achieve international prominence in marathoning. Beyond athletics, Loroupe has become internationally known as a peace ambassador, using her platform to advocate for peace in the Pokot region of Kenya and South Sudan.
 
 Loroupe was born in 1973 in Pokot District in northwestern Kenya. The Pokot are a pastoral community, not historically known for distance running production in the way that [[../Kalenjin/Kalenjin|Kalenjin]] or Luo communities are. Loroupe's emergence as a world-class marathoner was therefore atypical. She was among the first women from pastoral communities in Kenya to break through to international athletic prominence.

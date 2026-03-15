@@ -1,5 +1,3 @@
-# [[kaya]] [[conservation]] [[challenges]]
-
 The [[Mijikenda]] kaya [[forests]] face mounting pressures from environmental degradation, economic exploitation, social transformation, and conflicting management systems. Conserving these sacred sites requires balancing spiritual significance, biodiversity protection, and the material needs of surrounding communities.
 
 ## Timber Extraction and Poaching

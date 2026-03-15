@@ -1,5 +1,3 @@
-# Chinese in Kenya
-
 After 2000, China emerged as a major investor in Kenyan infrastructure, particularly through Belt and Road Initiative projects. The flagship was the Standard Gauge Railway (SGR), completed in 2017 at a cost of $3.6 billion, financed almost entirely by Chinese loans. This represents a new form of Asian presence in Kenya, one that is explicitly structural, state-backed, and more powerful than any previous Asian community. Yet it echoes the Indian railway experience in haunting ways.
 
 ## The Standard Gauge Railway (2015-2017)

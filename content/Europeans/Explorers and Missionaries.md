@@ -1,5 +1,3 @@
-# Explorers and Missionaries
-
 The first Europeans to see Mount Kenya and Mount Kilimanjaro were not soldiers or administrators but missionaries and explorers. Johann Ludwig Krapf and Johannes Rebmann, German missionaries working for the Church Missionary Society, sighted Mount Kenya in 1849 and Kilimanjaro in 1848. They were not the first white people to traverse East Africa, but they were among the first to penetrate inland from the coast and to map significant topographical features. Their work enabled the geographical knowledge that would later justify conquest.
 
 ## The Missionary Argument

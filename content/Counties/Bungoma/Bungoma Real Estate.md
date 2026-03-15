@@ -1,5 +1,3 @@
-# Bungoma Real Estate
-
 The property market in Bungoma town and surrounding areas reflects growing urban demand for residential and commercial properties. Real estate development has accelerated with devolution and economic growth. Property prices have increased substantially as demand exceeds available property. Both formal and informal property markets operate, serving different market segments.
 
 ## Residential Property

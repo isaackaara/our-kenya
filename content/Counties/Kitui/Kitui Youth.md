@@ -1,5 +1,3 @@
-# Kitui Youth
-
 Youth in Kitui County face significant employment and livelihood challenges despite representing a substantial population portion. Limited economic opportunities, inadequate education, and rural semi-arid location create barriers to income generation and life advancement. Youth unemployment and underemployment remain persistent development challenges.
 
 Rural employment opportunities in agriculture and pastoral sectors remain limited, with insufficient labour demand to employ growing youth cohorts. Many young people seek migration to Nairobi and other urban centres for wage employment or business opportunities. Rural-to-urban migration represents a livelihood strategy though it creates social disruptions.

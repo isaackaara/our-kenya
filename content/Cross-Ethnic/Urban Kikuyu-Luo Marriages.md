@@ -1,5 +1,3 @@
-# Urban Kikuyu-Luo Marriages
-
 Marriages between [[Kikuyu]] and [[Luo]] people are historically significant because these two communities have been [[Kenya]]'s largest and most politically powerful ethnic groups, often positioned in opposition to each other in political competition. The emergence of [[Kikuyu-Luo intermarriage]], particularly in urban contexts, represents a striking transformation in [[ethnic relations]].
 
 The historical relationship between Kikuyu and Luo communities has been marked by intense political competition and conflict. The Kikuyu-dominated KANU party and Luo-aligned political movements competed for control of the post-independence state. The 1992 and 1997 multiparty elections saw severe ethnic polarization, with Kikuyu and Luo communities often supporting opposing candidates. This political rivalry translated into hostile ethnic stereotyping, with each community developing negative generalizations about the other.

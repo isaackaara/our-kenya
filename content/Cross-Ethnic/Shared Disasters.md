@@ -1,5 +1,3 @@
-# Shared Disasters
-
 Certain events affected all [[Kenya|Kenyans]] simultaneously and created bonds of [[Cross-Ethnic Kenya|shared memory]] that transcended ethnic identity. These disasters reveal a deeper layer of Kenyan unity: the experience of [[National Identity Beyond Tribe|collective vulnerability]].
 
 ## Key Events

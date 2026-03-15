@@ -1,5 +1,3 @@
-# Kenyan Somali at Independence
-
 The period around Kenya's independence in 1963 was transformative and traumatic for the [[Kenyan Somali Identity|Somali]] of the [[Northern Frontier District]]. They faced a critical choice: accept incorporation into Kenya without the self-determination they believed they had earned, or fight for union with [[Somalia]]. The 1962 referendum demonstrated their clear preference for Somali unification, yet the British and Kenyan governments refused to honour it.
 
 ## The 1962 Referendum

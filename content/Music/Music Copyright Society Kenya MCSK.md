@@ -1,5 +1,3 @@
-# Music Copyright Society Kenya MCSK
-
 The Music Copyright Society of Kenya (MCSK) stands at the center of Kenya's most persistent music industry controversy: the collection and distribution of royalties owed to artists whose work is played publicly. Established as a collective management organization to represent over 16,000 members, MCSK's history has been marked by legal battles, licensing disputes, allegations of financial mismanagement, and ongoing questions about whether the organization serves artists' interests or exploits them.
 
 MCSK's mandate is straightforward: collect royalties when music is played in public venues (bars, restaurants, matatus, hotels, radio stations, etc.), then distribute those collections to rights holders. In functional copyright ecosystems, collective management organizations provide essential service, allowing artists to earn from their work without individually monitoring every venue that plays their music. But MCSK's execution of this mandate has been contested repeatedly, generating lawsuits, regulatory interventions, and widespread artist skepticism about the organization's effectiveness and integrity.

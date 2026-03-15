@@ -1,5 +1,3 @@
-# Tharaka Music and Dance
-
 Traditional Tharaka music and dance forms serve ceremonial, social, and entertainment purposes. These art forms reflect Tharaka [[Tharaka Identity Today]] values and adaptation to the semi-arid environment.
 
 ## Musical Instruments

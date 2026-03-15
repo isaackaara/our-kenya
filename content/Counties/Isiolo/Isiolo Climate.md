@@ -1,5 +1,3 @@
-# Isiolo Climate
-
 Isiolo County experiences a semi-arid to arid climate reflecting its location in Kenya's northern pastoral belt. Rainfall is the primary climatic concern, as water availability shapes all aspects of human settlement and livestock production.
 
 Annual rainfall averages approximately 500-700 millimeters in higher elevation areas and drops to 300-400 millimeters in lowland zones. This variability reflects topographic variation and distance from moisture-bearing wind patterns. Rainfall is highly seasonal and unreliable, with significant year-to-year variation.

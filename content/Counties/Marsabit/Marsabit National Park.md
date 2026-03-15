@@ -1,5 +1,3 @@
-# Marsabit National Park
-
 Marsabit National Park encompasses Mount Marsabit's forested slopes and crater areas. The park protects diverse wildlife adapted to arid and semi-arid conditions and represents an important conservation area in Kenya's wildlife protected area system.
 
 The park is famous for its elephant populations, particularly the tusked elephants known internationally as the Marsabit elephants. These elephants develop large tusks, making them notable for wildlife researchers and photographers. The park's elephant population reflects broader conservation concerns about ivory poaching and human-wildlife conflict.

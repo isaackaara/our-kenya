@@ -1,5 +1,3 @@
-# IMF and World Bank Conditionality: External Pressure and Kenya's Evasion
-
 ## Structural Adjustment and Governance Conditions
 
 Kenya has been a recipient of IMF and World Bank lending for decades. Both institutions have attached conditions (conditionality) to their loans.

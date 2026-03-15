@@ -1,5 +1,3 @@
-# Tharaka Timeline
-
 Key dates and periods in Tharaka [[Tharaka Origins]] from pre-colonial times through 2026 provide a chronological framework for understanding historical [[Tharaka Economic Development]].
 
 ## Pre-colonial [[Tharaka Colonial History]] (Before 1890s)

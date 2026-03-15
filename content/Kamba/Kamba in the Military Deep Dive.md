@@ -1,5 +1,3 @@
-# Kamba in the Military Deep Dive
-
 The Kamba have maintained a disproportionately high presence in Kenya's military and security services across three centuries, from the King's African Rifles through the modern Kenya Defence Force. This overrepresentation reflects both the channeling of the warrior tradition (anake) into colonial and post-colonial military structures and deliberate British recruitment policies that recognized Kamba martial reputation.
 
 ## King's African Rifles (1902-1961)

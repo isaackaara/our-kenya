@@ -1,5 +1,3 @@
-# 1969 Election International Reaction
-
 The international response to Kenya's 1969 election and its consolidation of single-party rule was muted and generally accepting. Western governments, particularly the United States and Britain, regarded Kenya's single-party system as a manageable adaptation to African political realities and viewed the Kenyatta government as sufficiently pro-Western and anti-communist to merit continued support despite its authoritarian characteristics.
 
 The United States, engaged in Cold War competition for influence in Africa, was concerned primarily with Kenya's alignment rather than with its democratic procedures. The Kenyatta government had demonstrated consistent Western alignment, had attracted American investment, and had permitted American military presence and intelligence operations in Kenya. Kenya's movement toward single-party rule was not viewed by American policymakers as a threat to American interests; rather, the consolidation of single-party authority was seen as potentially stabilizing for American strategy in East Africa.

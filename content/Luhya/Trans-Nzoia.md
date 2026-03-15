@@ -1,5 +1,3 @@
-# Trans-Nzoia
-
 [[../Counties/Trans-Nzoia/Trans-Nzoia County|Trans-Nzoia County]] lies in the Rift Valley-Western border zone, historically designated as part of the "White Highlands" where European settlers dominated agriculture. After independence, the county was resettled by Luhya, Kalenjin, Kikuyu, and other ethnic groups, creating an ethnically mixed agricultural region with persistent land tensions.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Embu Healing Practices
-
 Embu healing [[Embu Oral Traditions]] encompass herbal medicine, ritual healing, and specialist practitioners. These practices coexist with modern biomedical healthcare in contemporary Embu, with many households utilizing both traditional and modern healing approaches.
 
 ## Traditional Medicinal Plants

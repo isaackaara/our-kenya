@@ -1,5 +1,3 @@
-# Women in Kisumu's Economy: Market Traders and Fish Processors
-
 Women play crucial economic roles in Kisumu, particularly as market traders, fish processors, and informal service providers. Women's economic activities sustain millions of livelihoods and are essential to household survival.
 
 ## Market Traders

@@ -1,5 +1,3 @@
-# Kikuyu Education Systems
-
 Education has been central to Kikuyu identity and social mobility since colonial times. The Kikuyu have invested heavily in schooling, creating distinctive educational patterns and achievements.
 
 ## Pre-Colonial Learning

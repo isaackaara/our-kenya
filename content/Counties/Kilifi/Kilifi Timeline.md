@@ -1,5 +1,3 @@
-# Kilifi Timeline
-
 Kilifi County's history spans millennia, from early Bantu-speaking communities to its contemporary role as a major coastal economic zone. The county's development reflects the broader patterns of East African coastal settlement, Islamic expansion, colonial conquest, and post-independence nation-building.
 
 The archaeological record suggests Bantu-speaking peoples inhabited the [[Kilifi County|Kilifi coastal regions]] from at least the second century CE. These communities developed sophisticated adaptations to marine environments, engaging in fishing, coastal agriculture, and Indian Ocean trade networks. The [[Giriama People|Giriama]], the largest contemporary Mijikenda sub-group, trace their oral histories to inland migrations centuries before the Common Era, though exact dating remains contested among historians and archaeologists.

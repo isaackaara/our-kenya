@@ -1,5 +1,3 @@
-# The Kaya System
-
 The [[Kaya System|kaya]] (plural: makaya) is the defining institution of [[Mijikenda]] society. Each [[Kaya System|kaya]] is a fortified forest village built on a hilltop, surrounded by dense indigenous forest that provides both defense and sacred enclosure. The [[Kaya System|kaya]] served simultaneously as a permanent settlement, a political capital, a spiritual sanctuary, and a repository of cultural knowledge and ritual practice. The term "kaya" refers both to the physical settlement and to the sacred forest that surrounds and defines it.
 
 ## Physical Structure and Defensive Function

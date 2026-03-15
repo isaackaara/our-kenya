@@ -1,5 +1,3 @@
-# Luo Origins and Migration
-
 The Luo people's origins lie in the Nilotic migrations that began around 1000 AD, when groups of Southern Luo speakers began moving southward from the Bahr el Ghazal region in what is now South Sudan. This multi-generational migration, spanning nearly a thousand years, represents one of the great population movements of East African history.
 
 ## The Nilotic Route

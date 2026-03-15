@@ -1,5 +1,3 @@
-# Poaching Crisis (1970s-1980s)
-
 The [[poaching crisis]] of the 1970s and 1980s represents the most severe conservation threat in Kenya's history. Industrial-scale killing devastated [[elephant]] and [[rhino]] populations, eliminating centuries of evolutionary accumulation within a single decade. The crisis revealed systemic conservation failures and governmental corruption.
 
 ## Scope and Scale

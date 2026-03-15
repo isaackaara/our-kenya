@@ -1,5 +1,3 @@
-# Kikuyu Futures
-
 The Kikuyu people in 2026 occupy a paradoxical position in Kenya's political economy. By virtually every measure of economic and educational attainment, the Kikuyu are the wealthiest, most educated, and most politically dominant ethnic community in the nation. Yet for the first time since independence in 1963, the Kikuyu do not hold the presidency, nor do they control the executive apparatus of state power. This realignment raises fundamental questions about the future of Kikuyu influence, the sustainability of their economic dominance without political power, and the internal fractures exposed by this historical moment.
 
 ## Economic and Educational Dominance

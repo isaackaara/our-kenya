@@ -1,5 +1,3 @@
-# Kikuyu Entrepreneurs Deep Dive
-
 The [[Kikuyu]] people have built a distinctive tradition of entrepreneurship and commercial enterprise dating back centuries. This tradition, rooted in pre-colonial exchange networks and reshaped by colonial and post-independence experiences, has made Kikuyu entrepreneurs a dominant force in Kenya's modern economy.
 
 ## Historical Roots: Agikuyu as Traders and Farmers

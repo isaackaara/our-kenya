@@ -1,5 +1,3 @@
-# West Pokot Cultural Heritage
-
 The cultural heritage of [[West Pokot County]] encompasses the distinctive traditions, practices, and knowledge systems developed by the [[Pokot People|Pokot]] and other communities inhabiting the region over centuries of settlement and adaptation to semi-arid environments. This cultural heritage reflects centuries of pastoral and agricultural production, sophisticated ecological knowledge, distinctive artistic and musical traditions, oral literature, and complex social institutions. The Pokot cultural heritage is increasingly threatened by cultural change driven by modernization, education, religious conversion, and economic transformation, while simultaneously being increasingly recognized as valuable knowledge and cultural expression worthy of preservation. Understanding West Pokot's cultural heritage is essential to understanding contemporary Pokot identity and to evaluating efforts to preserve cultural knowledge against pressure for cultural change.
 
 ## Pastoral Knowledge and Practices

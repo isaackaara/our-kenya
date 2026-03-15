@@ -1,5 +1,3 @@
-# Chira
-
 Chira is a foundational concept in Luo cosmology and social regulation. It is often glossed in English as "pollution," "curse," or "taboo," but it is more precisely understood as a system of cosmic consequence for violating social norms. Chira is not merely superstition but a coherent regulatory mechanism that governs sexual behavior, kinship obligations, mourning practices, and inheritance rights. Understanding chira is essential to understanding Luo society and its persistence even among educated, Christian, and urban Luo.
 
 ## Definition and Manifestation

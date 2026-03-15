@@ -1,5 +1,3 @@
-# The Mau Mau Legacy
-
 Mau Mau was a rebellion against colonial rule, concentrated among Kikuyu people and focused on land reclamation and self-determination. From 1952 to 1960, Mau Mau fighters resisted the British colonial state. The rebellion was brutal on both sides. The British used collective punishment, detention, torture. Mau Mau fighters killed collaborators and colonial supporters.
 
 Estimates of deaths vary widely, from 11,000 to over 100,000 Kenyans killed, the vast majority Kikuyu. Approximately 150 European settlers and colonial officials were killed. The British response was disproportionate and aimed at total suppression of the movement and the Kikuyu people.

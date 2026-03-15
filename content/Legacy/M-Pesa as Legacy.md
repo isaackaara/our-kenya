@@ -1,5 +1,3 @@
-# M-Pesa as Legacy
-
 M-Pesa launched in 2007 as a mobile money service run by Safaricom, Kenya's largest telecommunications company. The service allowed people to send money via text message from one mobile phone to another. It was revolutionary.
 
 Kenya had low rates of bank account ownership. Most Kenyans, particularly in rural areas, did not have access to formal banking. Sending money from one place to another required either physically traveling or using informal money transfer services that were sometimes unreliable or expensive.

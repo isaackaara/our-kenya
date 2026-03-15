@@ -1,5 +1,3 @@
-# Nyeri Agriculture
-
 Nyeri County's economy is fundamentally agricultural, with coffee, tea, dairy, and horticultural crops providing the primary income sources. The county's favorable climate and fertile volcanic soils support diverse crop production. Agricultural cooperatives organize commodity marketing and farmer services. Most Nyeri farmers operate smallholdings and depend on cooperatives for market access and input supply.
 
 ## Coffee Production

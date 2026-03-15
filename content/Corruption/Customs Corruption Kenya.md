@@ -1,5 +1,3 @@
-# Customs Corruption Kenya
-
 ## Overview
 
 The Kenya Revenue Authority (KRA) Customs department, responsible for collecting import duties and preventing smuggling, is itself the site of endemic [[Corruption in Kenya Overview|corruption]]. Officials at Mombasa port and inland borders systematically undervalue imports to reduce duty collection, facilitate [[Corruption Networks Kenya|smuggling]], and pocket bribes. The practice costs the government billions in lost tax revenue annually.

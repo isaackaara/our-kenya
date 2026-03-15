@@ -1,5 +1,3 @@
-# Trans-Nzoia Ethnic Mix
-
 Trans-Nzoia County has one of Kenya's most complex and diverse ethnic compositions. [[../../Kalenjin/Kalenjin|Kalenjin]] (a Kalenjin sub-group) are the indigenous population, historically concentrated in the [[../../Conservation/Mount Elgon National Park|Mount Elgon]] region. Bukusu Luhya communities settled in parts of the county and maintain strong cultural presence. Kikuyu settlers arrived during and after the colonial period and developed significant landholdings. Luo communities, particularly from Kisumu and Siaya regions, migrated to the county for agricultural opportunities. Other groups including Marakwet, Samburu, and Somali traders are also present.
 
 ## Historical Settlement Patterns

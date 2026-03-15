@@ -1,5 +1,3 @@
-# Mandera Devolution
-
 The devolution of powers to county governments following Kenya's 2010 constitutional reform brought significant institutional change and infrastructure development to Mandera for the first time, establishing a county government with revenue sources and administrative structures separate from the national government. This devolutionary framework, implemented beginning in 2013, fundamentally transformed Mandera's governance structures and created new opportunities and challenges for local development.
 
 ## Constitutional Framework

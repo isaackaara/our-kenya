@@ -1,5 +1,3 @@
-# Kirinyaga Coffee
-
 Kirinyaga coffee ranks among the most sought-after single-origin coffees in the world. The county's high-altitude slopes, rich volcanic soil, optimal rainfall, and cool temperatures create exceptional growing conditions. The Kirinyaga designation on international coffee markets commands premium prices, making coffee the economic backbone of the county and the primary source of cash income for thousands of smallholder farmers.
 
 ## Production and Quality

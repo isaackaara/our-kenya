@@ -1,5 +1,3 @@
-# Samburu Oral Literature
-
 [[Samburu]] oral traditions include [[Samburu Proverbs|proverbs]], stories, [[Samburu Music|songs]], and historical narratives transmitted through spoken language. Oral literature preserves cultural knowledge, moral values, and historical memory. [[Samburu Language|Language shift]] threatens oral tradition transmission. Documentation efforts aim to preserve traditions before knowledge is lost.
 
 ## Proverbs and Wisdom

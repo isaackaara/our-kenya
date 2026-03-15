@@ -1,5 +1,3 @@
-# Kajiado Infrastructure
-
 Kajiado County's infrastructure includes roads connecting to Nairobi and Tanzania, water supply systems, electricity networks, and telecommunications services, with development focused on main transportation corridors and urban centers while rural pastoral areas remain underserved.
 
 ## Road Network

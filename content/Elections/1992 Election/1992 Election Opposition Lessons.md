@@ -1,5 +1,3 @@
-# 1992 Election Opposition Lessons
-
 The 1992 election was a watershed moment in Kenya's opposition political history, but it also revealed limitations and strategic errors that would shape opposition behavior in subsequent elections. The opposition emerged from the 1992 election with parliamentary representation for the first time in 29 years, but with the acute realization that their collective votes could have defeated the incumbent if they had been unified.
 
 The most obvious lesson of the 1992 election was the necessity of opposition unity. The division of opposition support among three presidential candidates, none of whom could defeat Moi individually, demonstrated the catastrophic consequences of opposition fragmentation. Opposition leaders learned that their personal rivalries and ethnic differences had to be subordinated to the goal of defeating Moi. Subsequent elections in 1997 and later would see opposition attempts to create electoral alliances and to coordinate support for single candidates.

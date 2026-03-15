@@ -1,5 +1,3 @@
-# Machakos Education
-
 Education in Machakos County reflects broader patterns of expansion and quality challenges across Kenya's education system. Primary and secondary schools are distributed throughout the county, though access varies by location and household income. The county has historically invested in education infrastructure as a development priority under the devolved governance system.
 
 Primary education access has expanded substantially since the introduction of free primary education in 2003, though quality and completion rates vary. Secondary school attendance has increased, though costs remain prohibitive for many rural households. Rural secondary schools often face challenges including insufficient facilities, limited teaching staff, and inadequate learning materials.

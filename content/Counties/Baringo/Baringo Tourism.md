@@ -1,5 +1,3 @@
-# Baringo Tourism
-
 Baringo County's tourism sector centers on Lake Baringo activities including hippo boat rides, birdwatching expeditions, and island visits, generating income and employment for surrounding communities while creating opportunities for ecotourism and sustainable livelihood development.
 
 ## Lake Baringo Tourism Activities

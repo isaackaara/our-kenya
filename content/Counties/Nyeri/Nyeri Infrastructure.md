@@ -1,5 +1,3 @@
-# Nyeri Infrastructure
-
 Nyeri County's infrastructure includes roads connecting the county to Nairobi and [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region towns. The Nairobi-Nanyuki highway runs through Nyeri. Secondary roads connect market centers and constituencies. Power supply reaches most urban areas and many rural locations through Kenya Power and Lighting Company. Water supply systems serve towns, though rural water access remains inadequate in some areas.
 
 

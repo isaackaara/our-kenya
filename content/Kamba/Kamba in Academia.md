@@ -1,5 +1,3 @@
-# Kamba in Academia
-
 Kamba scholars and academics have contributed to Kenya's intellectual life, university system, and research enterprise, though documentation of specific named figures remains incomplete. The academic profession represents advancement opportunity for educated Kamba and platform for intellectual contribution.
 
 ## University Expansion and Access

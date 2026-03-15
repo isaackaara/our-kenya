@@ -1,5 +1,3 @@
-# Karen and Langata Old Families
-
 The Nairobi suburbs of Karen and Langata, situated roughly 15-20 kilometers southwest of the colonial city center, were the heartland of the European settler farming community closest to Nairobi. As Nairobi expanded during the 20th century, these agricultural areas were gradually consumed by suburban development, transforming farms into high-value residential suburbs. The white settler families who controlled land in these areas made the transition from farming to urban professional and business life, creating a distinctive community that was more integrated into Nairobi's multiracial professional world than the upcountry ranch families of Laikipia or the Rift Valley.
 
 ## The Colonial Farming Frontier

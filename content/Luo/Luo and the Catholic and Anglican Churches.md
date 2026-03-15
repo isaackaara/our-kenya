@@ -1,5 +1,3 @@
-# Luo and the Catholic and Anglican Churches
-
 The arrival of missionary Christianity among the Luo, beginning in the early 1900s, profoundly shaped Luo education, culture, and identity. Two Christian denominations dominated: the Church Missionary Society (CMS, Anglican) and the Catholic Church (Mill Hill Fathers initially, later other orders). These missions offered education, medical care, and spiritual teaching while simultaneously transforming Luo social structures and cultural practices.
 
 ## Church Missionary Society (CMS) and Maseno

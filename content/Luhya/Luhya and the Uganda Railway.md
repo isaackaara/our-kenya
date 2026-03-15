@@ -1,5 +1,3 @@
-# Luhya and the Uganda Railway
-
 The Uganda Railway, constructed between 1895 and 1902, represented a transformative force in western Kenya. The Kisumu branch line of this railway system passed directly through Luhya territory, bringing unprecedented economic, social, and cultural disruption alongside new opportunities for trade and employment.
 
 ## Railway Construction Through Luhya Territory

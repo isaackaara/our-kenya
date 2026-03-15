@@ -1,5 +1,3 @@
-# Kikuyu Traditional Technology
-
 The [[Kikuyu]] developed sophisticated technologies for agriculture, construction, metalworking, and land management. These technologies emerged from the Kikuyu understanding of their environment and reflected practical knowledge and skilled craftsmanship.
 
 ## Ironworking and Metalsmithing

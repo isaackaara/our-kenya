@@ -1,5 +1,3 @@
-# Karen Blixen
-
 Karen Blixen (pen name Isak Dinesen, 1885-1962) was a Danish author who farmed at the foot of the Ngong Hills near Nairobi from 1914 to 1931. She became one of the most famous chroniclers of settler Kenya through her 1937 memoir "Out of Africa," which romanticized European settlement and shaped international perceptions of Kenya as an exotic colonial paradise. Her farm, now the Karen Blixen Museum, remains a significant tourist destination and symbol of Kenya's colonial heritage.
 
 ## Life in Kenya

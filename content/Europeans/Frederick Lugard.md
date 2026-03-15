@@ -1,5 +1,3 @@
-# Frederick Lugard
-
 Frederick John Dealtry Lugard, First Baron Lugard (1858-1945), was a British imperial administrator and military officer who established the framework for British control in Uganda and Nigeria, and whose theories of colonial governance shaped British rule across Africa. Though his direct involvement in Kenya was limited, his administrative philosophy and earlier work in Uganda profoundly influenced how the East Africa Protectorate was governed.
 
 ## Early Military Career and Uganda

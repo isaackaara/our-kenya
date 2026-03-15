@@ -1,5 +1,3 @@
-# Luo Language
-
 Dholuo (pronounced doh-LOO-oh) is the language of the Luo people, spoken by approximately 4.2 million people in Kenya and Tanzania. Dholuo is a Nilotic language, meaning it belongs to the Western Nilotic language group, and it is completely unrelated to Swahili or Bantu languages. The linguistic distance between Luo and neighboring Bantu-speaking groups reflects the Luo's distinct historical origins and migration patterns in the region.
 
 ## Linguistic Classification

@@ -1,5 +1,3 @@
-# The Cradle of Humankind
-
 The East Turkana region of the Turkana Basin has produced more early hominin (human ancestor) fossils than almost any other location on earth, earning it the designation as part of Earth's "Cradle of Humankind." The concentration of fossil discoveries in this region over the past 60+ years has made East Turkana one of the world's most important sites for understanding human origins and evolution.
 
 ## Geological and Paleontological Significance

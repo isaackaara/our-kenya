@@ -1,5 +1,3 @@
-# Wajir Security
-
 Wajir County faces significant and persistent security challenges that profoundly affect governance, economic development, and civilian safety. The region's remote location, proximity to the Somalia border, and history of inter-communal resource conflicts create a complex security environment characterized by threats from Al-Shabaab militant activities, inter-clan violence, and occasional criminal activity. These security challenges represent one of the most serious obstacles to Wajir County's development and humanitarian response efforts.
 
 ## Al-Shabaab Threat

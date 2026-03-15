@@ -1,5 +1,3 @@
-# 1974 Election Long-Term Impact
-
 The 1974 election had significant long-term consequences for Kenyan politics and shaped developments that would unfold over the following decades. The election was the last election of Kenyatta's era and was a transitional moment in which political alignments and power structures would shift after his death in 1978.
 
 The competitive KANU primary of 1974 established a precedent for primary competition that would continue in subsequent elections. The government's tolerance for primary competition in 1974 was not repeated in later elections, but the 1974 primary system created expectations and demonstrated that internal KANU competition was possible. This precedent was relevant to political debates about democratic reform in subsequent years.

@@ -1,5 +1,3 @@
-# Samburu Bibliography
-
 Major academic and journalistic sources addressing [[Samburu]] history, culture, and contemporary issues. Entry points for further research on [[Samburu]] people and [[Samburu Pastoralism|pastoralist communities]] in Kenya.
 
 ## Foundational Sources

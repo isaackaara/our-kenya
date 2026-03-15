@@ -1,5 +1,3 @@
-# Borana of Marsabit
-
 [[../../Somali/Somali|Somali]] are an Oromo-speaking pastoralist community distributed across southern Ethiopia, northern Kenya, and the Kenya-Ethiopia borderlands. In Marsabit County, Borana pastoralists form a significant population engaged in cattle, camel, and goat herding across varied ecological zones.
 
 Borana pastoral systems centre on cattle wealth accumulation, with extensive herds managed across multiple territories. During droughts, camels become increasingly important as they survive extended water and forage stress better than cattle. Goats provide supplementary income and quick-response food security.

@@ -1,5 +1,3 @@
-# Moi Era Corruption Economy
-
 ## Overview
 
 The Daniel arap Moi presidency (1978-2002) was characterized by systematic, institutionalized corruption. The "Moi corruption economy" operated as a planned system where corrupt proceeds were distributed to political loyalists to maintain political support. Corruption was not aberrant but was central to the political economy of the regime.

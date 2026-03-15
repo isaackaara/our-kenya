@@ -1,5 +1,3 @@
-# Tana River Climate Change
-
 Tana River County faces severe and accelerating climate change impacts that compound existing development challenges and threaten livelihoods across agricultural, pastoral, and fishing communities. The county's arid and semi-arid character leaves it particularly vulnerable to rainfall variability and temperature increases, with changing climate patterns disrupting water availability, agricultural productivity, and ecosystem function.
 
 Temperature increases across Tana River have been documented across recent decades, with mean annual temperatures rising approximately 0.3 to 0.5 degrees Celsius per decade in many areas. Higher temperatures increase evaporative demand from soils and water bodies, reducing water availability for crops, livestock, and human consumption. Heat stress on livestock reduces productivity and reproductive rates, threatening pastoral livelihoods. Rising temperatures also shift disease ecology, expanding ranges of tick-borne diseases affecting cattle and other livestock.

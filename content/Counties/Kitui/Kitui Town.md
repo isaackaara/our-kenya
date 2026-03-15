@@ -1,5 +1,3 @@
-# Kitui Town
-
 Kitui town is the county headquarters and primary commercial centre of Kitui County. Located in the central region of the county, Kitui town functions as the administrative and economic focal point. The town is relatively modest in size compared to major Kenyan urban centres, reflecting both the county's underdevelopment and semi-arid environment.
 
 Kitui town has grown gradually as the seat of county government and principal commercial hub. Government offices, administrative facilities, and county services concentrate in Kitui town. The town provides banking, trading, and services for the broader county population.

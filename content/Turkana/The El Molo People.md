@@ -1,5 +1,3 @@
-# The El Molo People
-
 The El Molo are a very small ethnic community living primarily on the southern shores of [[Lake Turkana]] in northwestern Kenya, making them one of Kenya's smallest ethnic groups. Historically, the El Molo population numbered only a few hundred to a thousand people. Traditionally fisher-hunter-gatherers, the El Molo have maintained distinct cultural practices and [[Turkana Language]] while facing pressure from larger neighboring groups.
 
 ## Population and Distribution

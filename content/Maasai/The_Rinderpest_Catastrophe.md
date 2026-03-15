@@ -1,5 +1,3 @@
-# The Rinderpest Catastrophe
-
 ## The Epidemic
 
 Rinderpest, a viral cattle plague, swept across East Africa between 1890 and 1892. The disease originated in North Africa and traveled along trade routes, devastating pastoral communities dependent on livestock. For the Maasai, whose entire economic, cultural, and social system rested on cattle wealth, rinderpest proved catastrophic.

@@ -1,5 +1,3 @@
-# Church and National Politics
-
 Churches function as [[Christianity Across Ethnic Lines|cross-ethnic public spaces]] in [[Cross-Ethnic Kenya|Kenya]], providing platforms for addressing national political issues. Church leadership, drawing from diverse ethnic backgrounds, sometimes speaks out on matters of national importance. Religious institutions provide neutral ground where people from different ethnic backgrounds can gather, and religious language provides frames that can transcend ethnic particularism.
 
 The role of churches in Kenya's pro-democracy movement is notable. Religious leaders, including both Protestant and Catholic bishops, advocated for democratic reform during the late 1980s and early 1990s. Church services and religious gatherings provided spaces where pro-democracy messages could be articulated. Religious frames emphasizing human dignity and justice provided theological justifications for democratization.

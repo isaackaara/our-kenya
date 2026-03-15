@@ -1,5 +1,3 @@
-# Water Rights Legacy
-
 Colonial water law established that water belonged to the crown. In a colonial context, this meant water was owned by the colonial state. Communities that had relied on springs, rivers, and wells for generations suddenly had to seek permission from the colonial authorities to use water.
 
 This was a radical change. In precolonial Kenya, water rights were embedded in community relationships to landscape. A community that had always drunk from a particular spring had rights to that water. These rights were not written in law; they were embedded in custom and relationship.

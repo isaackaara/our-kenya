@@ -1,5 +1,3 @@
-# Aberdare National Park Nyeri
-
 Aberdare National Park spans portions of Nyeri, Murang'a, and Kiambu counties, with significant portions in Nyeri. The park encompasses the Aberdare Range, a mountainous area reaching 3,999 meters at Point Lenana. The park is historically and ecologically significant, providing wildlife habitat and containing the famous Treetops Lodge where Queen Elizabeth II received notification of her accession to the British throne in 1952.
 
 ## Geography

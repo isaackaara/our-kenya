@@ -1,5 +1,3 @@
-# Mugumo Tree
-
 The mugumo tree, scientifically known as Ficus thonningii, is the sacred fig tree at the heart of Kikuyu spiritual practice. It serves as the primary interface between the Kikuyu people and the divine, functioning as an altar where ancestors gathered to pray and conduct sacrifices to Ngai (God).
 
 ## Spiritual Significance

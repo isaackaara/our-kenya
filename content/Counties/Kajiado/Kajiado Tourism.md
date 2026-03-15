@@ -1,5 +1,3 @@
-# Kajiado Tourism
-
 Kajiado County's tourism sector centers on Amboseli National Park wildlife tourism, community conservancies, and increasingly cultural tourism experiences, generating significant revenue while creating employment and livelihood opportunities within and beyond the county.
 
 ## Amboseli Tourism

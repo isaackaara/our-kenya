@@ -1,5 +1,3 @@
-# 2013 Election
-
 The 2013 Kenyan general election was held on March 4, 2013, marking the first presidential and parliamentary contest under the 2010 Constitution. It represented a watershed moment for Kenya's democratic architecture, introducing devolved governance through county elections, constitutional running mates, and a new electoral commission while simultaneously being dominated by the specter of International Criminal Court (ICC) prosecutions against the leading candidates.
 
 The election resulted in victory for Uhuru Kenyatta, who secured 50.07% of the presidential vote, narrowly avoiding a runoff and returning to power just over a decade after the disputed 2007 election that precipitated post-election violence. His running mate, William Ruto, similarly triumphed despite both facing ICC charges related to 2007 violence. This outcome confounded many analysts who had predicted the ICC factor would be disqualifying, revealing instead that the political calculations of Kenyan voters encompassed complexity beyond international justice considerations.

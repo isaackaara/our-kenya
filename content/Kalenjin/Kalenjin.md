@@ -1,5 +1,3 @@
-# Kalenjin
-
 The Kalenjin identity paradox is one of the most striking examples in world history of how a label invented for administrative convenience became a genuine, politically cohesive ethnic identity. In the 1940s, a radio broadcaster (John Arap Chemallan) used [[Kalenjin|Kalenjin]] word "Kalenjin" (meaning "I tell you") as a shorthand for a cluster of related Nilotic-speaking highland peoples (Nandi, Kipsigis, Tugen, Marakwet, Pokot, Sabaot, and others). By independence, this broadcast convenience had evolved into a unified political bloc with shared identity. Today, the Kalenjin are known for athletic dominance in global running, political power (including the presidency), historical resistance to colonialism, and a festering land grievance rooted in post-independence settler colonialism that has repeatedly sparked ethnic violence.
 
 ## Hub: Kalenjin Knowledge Graph

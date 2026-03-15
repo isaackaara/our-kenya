@@ -1,5 +1,3 @@
-# Tharaka Forest
-
 Tharaka territory includes remnants of dry forest ecosystem that are ecologically important and provide [[Tharaka Beekeeping]] for community use. The forests face pressure from deforestation and degradation.
 
 ## Forest Characteristics

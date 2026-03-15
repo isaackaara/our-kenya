@@ -1,5 +1,3 @@
-# Bungoma Cultural Heritage
-
 Bungoma [[../../Luhya/Luhya|Bukusu]] communities maintain distinctive cultural heritage marked by the elaborate imbalu circumcision ceremony, traditional music and dance, marriage practices, and social organization systems. Cultural traditions reflect pre-colonial heritage while adapting to contemporary contexts through generations. Younger generations navigate between traditional cultural practices and contemporary modern influences.
 
 ## Imbalu Ceremony

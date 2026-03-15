@@ -1,5 +1,3 @@
-# Gusii Storytelling
-
 The [[Gusii people|Gusii]] oral literature tradition (amasimba in [[Ekegusii Language|Ekegusii]]) preserved cultural knowledge, moral teachings, and entertainment through folktales, narratives, and epic recitations. The storytelling tradition was central to [[Gusii people|Gusii]] education and cultural transmission before [[Kisii Education Culture|literacy]] and mass media displaced oral forms.
 
 ## Narrative Traditions

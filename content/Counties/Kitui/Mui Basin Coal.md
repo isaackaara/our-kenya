@@ -1,5 +1,3 @@
-# Mui Basin Coal
-
 The Mui Basin coal deposits in Kitui County represent one of Africa's largest coal reserves, with estimates exceeding 400 million tonnes of economically extractable coal. The coal's thermal characteristics make it suitable for power generation and industrial applications. The deposits' existence has shaped development discourse in Kitui for decades.
 
 The coal was identified through geological surveys and exploration work conducted during Kenya's energy planning processes. The deposits' magnitude attracted attention from energy planners, mining companies, and development advocates seeking to solve Kenya's energy deficit and create Kitui development opportunity.

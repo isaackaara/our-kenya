@@ -1,5 +1,3 @@
-# Kalenjin Games and Sports (Traditional)
-
 Traditional Kalenjin competitive activities included archery, wrestling, stick fighting, and running, reflecting pastoralist and warrior culture. These activities were not organized as formal sports in modern sense but were embedded in community life, warfare training, and celebration. The transition from traditional physical culture to modern athletics represents significant cultural change.
 
 ## Archery

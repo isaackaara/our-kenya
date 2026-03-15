@@ -1,5 +1,3 @@
-# Nyandarua Politics
-
 Nyandarua's political landscape reflects post-independence development and [[../../Kikuyu/Kikuyu|Kikuyu]] political dominance in central Kenya. Political leadership has traditionally come from educated Kikuyu elites with agricultural and business interests. The county has produced national politicians including government ministers and parliament members. Electoral politics focus on agricultural development, infrastructure, and service provision. Devolution in 2013 created new governance structures bringing government closer to communities.
 
 ## Post-Independence Political Development

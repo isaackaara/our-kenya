@@ -1,5 +1,3 @@
-# Kakamega Education
-
 Kakamega County has a strong educational infrastructure reflecting historical missionary investment and post-independence education expansion. The county is home to Masinde Muliro University of Science and Technology, numerous secondary schools, and primary schools distributed across the region. Education is highly valued in Kakamega communities and represents an important pathway for social mobility.
 
 ## Primary and Secondary Education

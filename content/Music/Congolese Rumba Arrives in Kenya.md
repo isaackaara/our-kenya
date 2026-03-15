@@ -1,5 +1,3 @@
-# Congolese Rumba Arrives in Kenya
-
 The arrival of Congolese rumba and soukous in East Africa during the 1950s transformed Kenyan popular music more profoundly than any other single influence. The guitar-driven, rhythmically sophisticated music from Congo offered a modern African sound that was neither colonial European nor "traditional," opening possibilities that Kenyan musicians eagerly explored.
 
 Congolese music reached Kenya through multiple channels. Gramophone records, imported via [[Music/East African Gramophone Records 1920s|Nairobi's growing record shops]], brought sounds by Franco, Tabu Ley Rochereau, and other Congolese stars to Kenyan audiences. Traveling Congolese bands performed in Nairobi, Mombasa, and Kisumu, demonstrating techniques and styles in person. The spread of [[Music/Radio Voice of Kenya Origins|radio broadcasting]] accelerated the circulation, with Congolese recordings receiving significant airplay.

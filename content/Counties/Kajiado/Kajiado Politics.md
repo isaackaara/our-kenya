@@ -1,5 +1,3 @@
-# Kajiado Politics
-
 Kajiado County's political landscape reflects ethnic [[../../Maasai/Maasai|Maasai]] dominance, pastoral community interests, and increasingly urbanization-related political changes as Nairobi expansion creates new constituencies and voter bases with urban-origin political interests distinct from traditional pastoral politics.
 
 ## Ethnic Politics

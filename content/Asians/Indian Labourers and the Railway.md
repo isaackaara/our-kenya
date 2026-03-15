@@ -1,5 +1,3 @@
-# Indian Labourers and the Railway
-
 The Uganda Railway (1896-1901) was constructed by approximately 32,000 indentured Indian laborers recruited from Punjab and Gujarat. The railway transformed East African geography and politics, and shaped the composition and scale of the Asian community in Kenya.
 
 ## Recruitment and Numbers

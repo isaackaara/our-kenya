@@ -1,5 +1,3 @@
-# 2022 Election Coast and Northeast
-
 The coastal region (Mombasa, Kilifi, Lamu, Tana River) and northeastern Kenya (Garissa, Wajir, Mandera, Isiolo) are historically marginal areas in Kenya's political geography, characterized by lower population density, limited resource allocation from the national government, and peripheral integration into national economic systems. The 2022 election results in these regions reflected patterns wherein opposition Azimio achieved dominance while Kenya Kwanza demonstrated limited penetration.
 
 Coastal regions voted predominantly for Azimio, with Raila achieving vote shares exceeding 60% in most coastal counties. The coastal region's opposition preference reflected ongoing disaffection from the incumbent government and perception that opposition coalitions might provide greater attention to coastal community interests than governing coalitions traditionally had. The coastal voting pattern was consistent with 2013 and 2017 patterns, suggesting stable opposition allegiance among coastal constituencies.

@@ -1,5 +1,3 @@
-# [[../../Kalenjin/Kalenjin|Nandi]] Timeline
-
 ## Key Dates in Nandi History
 
 **1895-1905**: Nandi resistance to British colonialism under leadership of Koitalel arap Samoei, representing one of the longest and most effective anti-colonial resistances in East Africa.

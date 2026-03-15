@@ -1,5 +1,3 @@
-# Pokot People
-
 The Pokot are a Kalenjin-speaking pastoral people who constitute the dominant ethnic group in [[West Pokot County]] in northwestern Kenya and southwestern Uganda. As one of Kenya's major Kalenjin sub-groups, the Pokot have historically organized their society around pastoral production, with cattle serving as the foundation of wealth, social organization, and cultural practice. The Pokot are known for their distinctive cultural practices, warrior traditions, and sophisticated livestock management systems developed over centuries in the semi-arid and arid environments of northwestern Kenya. Their history encompasses pre-colonial autonomous political organization, colonial conquest and administrative incorporation, and contemporary engagement with modern Kenyan governance and economy.
 
 ## Language and Ethnic Identity

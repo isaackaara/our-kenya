@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]] and the Meru
-
 The Meru inhabit the northern slopes of Mount Kenya, occupying territory adjacent to Embu lands and sharing the Mount Kenya cultural complex. Embu and Meru are linguistically closely related, share similar social organization, and have maintained [[GEMA Alliance]] relationships throughout history while maintaining distinct ethnic identities and territorial claims.
 
 ## Shared Mount Kenya Complex

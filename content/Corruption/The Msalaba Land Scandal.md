@@ -1,5 +1,3 @@
-# The Msalaba Land Scandal: Land Grabbing in the Moi Era
-
 ## Land Grabbing as Patronage
 
 Land has been one of the primary currencies of political patronage in Kenya since independence. During the Moi era, government land in valuable locations was allocated to politically connected individuals. The Msalaba scandal exemplified this practice.

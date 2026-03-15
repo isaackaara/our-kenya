@@ -1,5 +1,3 @@
-# [[../../Conservation/Aberdare National Park|Aberdare Range]]
-
 The Aberdare Range, known as Nyandarua in [[../../[[../../Kikuyu/Kikuyu|Kikuyu]]/Kikuyu|Kikuyu]] language, runs through Nyandarua County and forms a major topographic feature of central Kenya. The mountain range rises to approximately 4,000 meters at its highest points. Moorland and forest ecosystems dominate the high elevations. The range forms an important water tower that supplies water to central Kenya. The Aberdare Range's forests and water resources are critical to regional hydrology and ecology.
 
 ## Physical Geography

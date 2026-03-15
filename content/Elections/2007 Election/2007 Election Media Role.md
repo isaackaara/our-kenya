@@ -1,5 +1,3 @@
-# 2007 Election Media Role
-
 Kenya's media played contested roles during the election and post-election violence. Some media outlets, particularly certain radio stations, broadcast content that many observers characterized as hate speech and incitement to violence, with ethnic groups being portrayed as threats to other communities. Other media outlets provided relatively balanced coverage of the political crisis and violence. The media's role in either exacerbating or mitigating violence became a major focus of post-election analysis. International observers and civil society called for media accountability and reforms to prevent similar harmful content in future elections.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Mombasa's Food Culture: Coastal Cuisine and Spice Heritage
-
 Mombasa's food culture reflects centuries of Indian Ocean trade and cultural exchange. The coastal cuisine features fresh seafood, rice dishes, coconut-based preparations, and spices from the Indian subcontinent, Arabia, and beyond.
 
 ## Pilau

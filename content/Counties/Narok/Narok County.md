@@ -1,5 +1,3 @@
-# Narok County
-
 Narok County is located in the southern Rift Valley of Kenya, home to the world-renowned [[../../Maasai/Maasai|Maasai]] Mara National Reserve. With a population of approximately 1.2 million, the county is predominantly Maasai and serves as Kenya's premier wildlife tourism destination. The region combines pastoral traditions, extensive wheat farming on the Mau Escarpment, and a thriving tourism economy centered on safari activities and wildlife conservation.
 
 Narok town functions as the county headquarters and gateway to [[../../Maasai/Maasai|Maasai]] Mara, making it the commercial and administrative heart of the region.

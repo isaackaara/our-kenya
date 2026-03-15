@@ -1,5 +1,3 @@
-# [[gender]] [[roles]] and [[women]] [[leadership]]
-
 [[Mijikenda]] gender systems define distinct roles for men and women, yet provide some contexts in which women exercise significant authority. Understanding Mjikenda gender systems illuminates both constraints on women and possibilities for female leadership.
 
 ## Patriarchal Structure

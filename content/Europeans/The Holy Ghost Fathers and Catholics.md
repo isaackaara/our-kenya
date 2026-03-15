@@ -1,5 +1,3 @@
-# The Holy Ghost Fathers and Catholics
-
 [[Catholic missionary presence]] in Kenya came primarily through the [[Holy Ghost Fathers]] (Congregation of the Holy Ghost, also called [[Spiritans]]), the [[Consolata Fathers]] (Italian missionary society), and the [[Mill Hill Missionaries]]. The Holy Ghost Fathers were the primary [[Catholic organization]], establishing [[missions]] among the [[Kikuyu]], coastal communities, and other [[ethnic groups]]. Catholic missions competed with [[Protestant organizations]] for [[converts]] and [[influence]], establishing schools, churches, and communities that became permanent features of [[Kenyan Christianity]].
 
 ## The Holy Ghost Fathers in Kenya

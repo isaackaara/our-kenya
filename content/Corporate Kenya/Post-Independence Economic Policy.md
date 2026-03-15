@@ -1,5 +1,3 @@
-# Post-Independence Economic Policy
-
 At independence in 1964, [[Kenya]] faced a fundamental choice: what kind of economy would the new nation build? [[Jomo Kenyatta]] and his advisors chose a mixed economy, with substantial [[State Ownership Kenya]] and control alongside a private sector. This approach, captured in Sessional Paper No. 10 of 1965 titled "African Socialism and its Application to Planning in Kenya," defined Kenya's economic structure for the next two decades.
 
 ## Sessional Paper No. 10 (1965): "African Socialism"

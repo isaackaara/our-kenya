@@ -1,5 +1,3 @@
-# Kirinyaga Geography
-
 [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga in Gikuyu) is Africa's second-highest mountain and a geographical and cultural centerpiece of the Kikuyu landscape. The mountain is a UNESCO World Heritage site, a critical water source, and a location of major ecological and cultural significance.
 
 ## Physical Geography

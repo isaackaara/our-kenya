@@ -1,5 +1,3 @@
-# Wildlife and Maasai Coexistence: A Disrupted Partnership
-
 ## Traditional Maasai-Wildlife Relationship
 
 Historically, the Maasai did not hunt wildlife for food(this was taboo). Maasai pastoralism focused on cattle and small stock, not hunting.

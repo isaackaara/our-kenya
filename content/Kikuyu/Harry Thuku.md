@@ -1,5 +1,3 @@
-# Harry Thuku
-
 Harry Thuku (1895-1970) was the first mass African nationalist in Kenya's history, a telephone operator turned political organiser who mobilised thousands before the [[Kikuyu Central Association]] even existed. His arrest in March 1922 triggered what became known as the Norfolk Hotel (or Nairobi) massacre, in which colonial police fired on a crowd of protesters outside Nairobi's Central Police Station, killing at least 25 people. He was exiled for nine years and returned a more cautious, ultimately conservative figure.
 
 ## Key Facts

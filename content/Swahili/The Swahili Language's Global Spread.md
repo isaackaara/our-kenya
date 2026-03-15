@@ -1,5 +1,3 @@
-# The Swahili Language's Global Spread
-
 [[Swahili Language|Kiswahili]] is now an official language of the African Union and the most widely spoken African language, with an estimated 100-200 million first and second language speakers globally. The language spread from the East African coast through multiple pathways: the Arab slave trade routes extending inland, colonial administration and language policies, post-independence national language policies (particularly Tanzania's), and modern education and media.
 
 ## Historical Spread

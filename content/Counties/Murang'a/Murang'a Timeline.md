@@ -1,5 +1,3 @@
-# Murang'a Timeline
-
 Murang'a County's history reflects broader patterns of Kikuyu development, colonial conquest, anti-colonial resistance, and post-colonial modernization, with key events marking the county's evolution from independent Kikuyu territory to colonial district to contemporary county.
 
 Pre-1890: Murang'a functions as an independent Kikuyu territory, governed through localized clan councils and age-grade institutions. The region maintains trade networks with coastal regions and surrounding Kikuyu and other communities. Mount Kenya and the Aberdares provide sacred and resource-rich sites central to Kikuyu worldview and livelihood systems.

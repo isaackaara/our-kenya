@@ -1,5 +1,3 @@
-# 1992 Election Mwai Kibaki
-
 [[Mwai Kibaki]], a veteran KANU politician who had been Finance Minister under Moi, switched to opposition politics in 1992 by forming the Democratic Party and running as its presidential candidate. Kibaki represented a different model of opposition leadership than either Odinga or Matiba: he was a longtime insider to the Moi regime who had been pushed out and was now seeking to return to power through opposition politics. Kibaki's candidacy demonstrated the instability of Moi's coalition and the realignment of ethnic and factional politics that occurred when competitive elections returned.
 
 Kibaki, like Matiba, was a Kikuyu, reflecting the reality that opposition challenges to Moi came primarily from the Kikuyu community, which had lost political dominance after Kenyatta's death. Kibaki's campaign positioned the Democratic Party as a centrist alternative to both FORD-Kenya and FORD-Asili, attempting to appeal to voters seeking competent, technocratic governance without ethnic extremism.

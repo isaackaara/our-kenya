@@ -1,5 +1,3 @@
-# West Pokot NGOs
-
 Non-governmental organizations (NGOs) play an important role in service delivery and development programming in [[West Pokot County]], supplementing limited government capacity and resources through implementation of development projects and service provision. NGOs operate in areas including health, education, water, food security, livelihood development, peace and conflict resolution, and human rights advocacy. International NGOs provide funding and technical support while Kenyan and local NGOs implement programs. NGO presence and scale of operations varies across the county, with greater concentration in more accessible areas. Understanding the NGO sector is important for understanding development efforts and partnerships in West Pokot.
 
 ## Healthcare NGOs

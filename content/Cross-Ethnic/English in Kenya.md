@@ -1,5 +1,3 @@
-# English in Kenya
-
 English functions as the language of power, education, and aspiration in contemporary [[Cross-Ethnic Kenya|Kenya]]. While Swahili is the official national language, English serves as the language of government, higher education, commerce, and professional life. The dominance of English creates a linguistic hierarchy where fluent English speakers possess cultural and economic advantages over those with limited English proficiency.
 
 English arrived in Kenya through colonization and became embedded in the colonial administrative and educational system. Colonial authorities promoted English as the language of the state and education, marginalizing indigenous languages. At independence, Kenya's leaders chose to maintain English as a language of government and higher education, while designating Swahili as the national language and Kiswahili instruction in primary schools.

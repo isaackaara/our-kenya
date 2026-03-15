@@ -1,5 +1,3 @@
-# Narok Town
-
 ## Geographic Location and Development
 
 Narok town is the county capital of [[../Counties/Narok/Narok County|Narok County]] and the major commercial hub for the southern Maasai region. Located in the Rift Valley at approximately 1,900 meters elevation, Narok serves as the gateway to [[../Conservation/Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] National Reserve. The town is approximately 120 kilometers southwest of Nairobi via the Nairobi-Narok-Mara highway. Narok town has expanded significantly since the 1980s as tourism to the Mara has grown.

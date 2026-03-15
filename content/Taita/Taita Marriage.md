@@ -1,5 +1,3 @@
-# Taita Marriage
-
 Taita marriage practices involve complex systems of bridewealth, ceremonies, and kinship rules that bind families and clans together and establish social standing and mutual obligations.
 
 ## Bridewealth System

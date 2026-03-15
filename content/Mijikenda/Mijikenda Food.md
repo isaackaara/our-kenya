@@ -1,5 +1,3 @@
-# Mijikenda Food
-
 [[Mijikenda Cuisine|Mjikenda cuisine]] reflects the coastal and hinterland environments, making use of locally available agricultural products, fish, coconut, and diverse plant foods. The staple foods (cassava, fish, coconut) have been supplemented by vegetables, grains, and other items through trade and cultural exchange. Mjikenda food practices carry cultural meaning and remain important to identity despite modernization.
 
 ## Cassava as Staple

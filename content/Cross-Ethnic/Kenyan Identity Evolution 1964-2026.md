@@ -1,5 +1,3 @@
-# Kenyan Identity Evolution 1964-2026
-
 The evolution of [[Kenya|Kenyan]] national identity from independence in 1964 to 2026 reflects shifts in the relationship between ethnic and [[National Identity Beyond Tribe|national identity]]. At independence, [[Kenyan Nationalism History|Kenyan nationalism]] was constructed through anti-colonial struggle and the assertion of [[Cross-Ethnic Kenya|unified national identity]]. By 2026, Kenya's national identity encompasses acknowledgment of pluralism, minority protections, and devolved governance. The trajectory demonstrates both progress toward ethnic transcendence and persistence of ethnic salience.
 
 In 1964 at independence, Kenya's founding elites asserted unified national identity. The national anthem in Swahili and English, the national flag, and other national symbols represented the nation as encompassing all Kenyans regardless of ethnicity. Harambee (pull together) was adopted as the national motto. Early post-independence discourse emphasized national unity and transcendence of ethnic particularism.

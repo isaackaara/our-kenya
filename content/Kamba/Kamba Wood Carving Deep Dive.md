@@ -1,5 +1,3 @@
-# Kamba Wood Carving Deep Dive
-
 The Kamba are among Africa's most renowned wood carvers, with a tradition spanning centuries. Wood carving is understood by the Kamba as one manifestation of Ngai's (God's) creative work, and traditionally only men engaged in the craft, though contemporary practice has attracted some women.
 
 ## Techniques and Tools

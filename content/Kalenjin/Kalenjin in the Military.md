@@ -1,5 +1,3 @@
-# Kalenjin in the Military
-
 Kalenjin participation in Kenya's Defence Forces reflects both the historical warrior traditions embedded in Kalenjin culture and broader patterns of ethnic representation in the Kenya military. The Kalenjin warrior tradition, with its emphasis on courage, martial skill, and age-set military organization, provided cultural predisposition toward military service, though the transition from pastoral warrior culture to modern military service involved significant transformations.
 
 ## Colonial Military Recruitment

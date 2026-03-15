@@ -1,5 +1,3 @@
-# Trans-Nzoia Education
-
 Education infrastructure in Trans-Nzoia County includes primary schools, secondary schools, and some tertiary institutions. Primary education is compulsory under Kenyan law, with schools distributed across wards and locations to enable access. Enrollment rates are high in the county, with approximately 90% of school-age children attending primary school. Secondary schools in Kitale and other towns serve regional and local populations. National secondary schools (operated by the national government) attract high-achieving students from across Kenya. Private schools provide alternative educational options for families seeking fee-paying education.
 
 ## Educational Institutions and Programs

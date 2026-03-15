@@ -1,5 +1,3 @@
-# Kalenjin Origins
-
 The Kalenjin are not a single ancient tribe but a cluster of Nilotic-speaking highland peoples who share linguistic and cultural affinities. The major sub-groups include Nandi, Kipsigis (the largest), Tugen, Marakwet, Pokot, Sabaot, Terik, Elgeyo, and Keiyo. They originated from the Nile Valley region (Sudan area) and migrated southward, settling on the highlands and escarpments surrounding the Rift Valley in what is now the western and central highlands of Kenya. Before the twentieth century, these groups identified primarily with their own sub-ethnic category rather than a unified "Kalenjin" identity.
 
 ## Key Facts

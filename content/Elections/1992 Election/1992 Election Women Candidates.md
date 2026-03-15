@@ -1,5 +1,3 @@
-# 1992 Election Women Candidates
-
 Women's candidacy in the 1992 election increased modestly compared to previous elections, reflecting some opening of political space and some women's activism to secure political representation. However, women remained severely underrepresented, with only a handful of female candidates winning elective seats and with women comprising less than 5% of the parliamentary candidates from major parties.
 
 The barriers to female political participation remained substantial. Cultural expectations about female domesticity, limited access to campaign financing, and the male dominance of party hierarchies all constrained women's ability to compete for candidacy and to win elections. Additionally, the ethnic polarization and communal violence that characterized the 1992 election disproportionately affected women, both as victims of violence and as heads of households disrupted by displacement.

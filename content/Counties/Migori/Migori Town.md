@@ -1,5 +1,3 @@
-# Migori Town
-
 Migori town is the administrative capital and principal commercial center of Migori County. Located in the interior of the county, the town serves as the hub for government activity, commerce, and service provision.
 
 ## Location and Function

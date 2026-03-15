@@ -1,5 +1,3 @@
-# Safari Rally Notable Drivers: World Champions and International Talent
-
 The Safari Rally has attracted some of the world's greatest drivers. Shekhar Mehta (India-based, driving for Kenya) won the Safari Rally five times, more than any other driver. Bjorn Waldegaard (Sweden) and Carlos Sainz (Spain) are among international rally champions who won the Safari Rally. These victories by world-class drivers confirm the rally's prestige and difficulty.
 
 ## See Also

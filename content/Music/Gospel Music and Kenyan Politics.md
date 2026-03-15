@@ -1,5 +1,3 @@
-# Gospel Music and Kenyan Politics
-
 Gospel music's relationship with Kenyan politics evolved from calculated distance during authoritarian rule to strategic engagement during democratic transitions, reflecting broader dynamics between religious institutions and political power. Gospel artists navigated this complex terrain carefully, understanding that their platforms carried political weight even when claiming apolitical spirituality.
 
 During the [[Presidencies/Daniel arap Moi Presidency|Moi era]], gospel music offered political safety that secular music could not. While [[Music/Moi Era Music and Censorship|government censorship]] targeted political critique in secular songs, gospel artists enjoyed relative freedom provided they avoided explicit political content. This created perverse incentive: talented musicians chose gospel partly to escape political surveillance facing secular artists.

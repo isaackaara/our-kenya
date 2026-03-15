@@ -1,5 +1,3 @@
-# William Ruto
-
 William Kipchoge Ruto is the fifth President of Kenya (2022-present) and represents a remarkable personal ascent from street hawker in [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] to the highest office in the nation. A member of [[Kalenjin|Kalenjin]] sub-group of the Kalenjin, Ruto was indicted for crimes against humanity by the International Criminal Court for alleged orchestration of post-election violence in 2007-2008, though charges were dropped in 2016 due to witness tampering. His presidency represents a continuation of Kalenjin political presence (after Moi's era ended in 2002) and a break from [[../Kikuyu/Kikuyu|Kikuyu]]-dominated presidencies of Mwai Kibaki and Uhuru Kenyatta.
 
 ## Key Facts

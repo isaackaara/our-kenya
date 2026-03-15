@@ -1,5 +1,3 @@
-# Somali Women Education
-
 Somali girls and women in Kenya face specific, compounded barriers to [[Somali Women Education|education]] that extend beyond gender disadvantages observed in other Kenyan communities. Cultural norms, early [[Somali Wedding Traditions|marriage]] practices, insecurity, and poverty create distinct educational marginalization for Somali females in the Northern Frontier District and Nairobi.
 
 ## Historical Context

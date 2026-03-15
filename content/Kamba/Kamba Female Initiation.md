@@ -1,5 +1,3 @@
-# Kamba Female Initiation
-
 The Kamba traditionally conducted elaborate female initiation ceremonies that marked the transition from girlhood to womanhood, conferred adult status, and prepared girls for marriage and motherhood. Female initiation held equal ceremonial and social significance to male circumcision in Kamba society, despite its near-complete disappearance in the contemporary era due to legal prohibition and changing values.
 
 ## The Traditional Ceremony

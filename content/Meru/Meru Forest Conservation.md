@@ -1,5 +1,3 @@
-# Meru Forest Conservation
-
 The Meru forest reserve on [[Mount Kenya]]'s eastern side is a critical ecosystem containing biodiversity, water resources, and cultural values. Conservation challenges including encroachment, charcoal burning, and commercial logging require active management and community engagement.
 
 ## Forest Reserve Designation

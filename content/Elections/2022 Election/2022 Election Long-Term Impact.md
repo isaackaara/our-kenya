@@ -1,5 +1,3 @@
-# 2022 Election Long-Term Impact
-
 The 2022 election's long-term significance extended beyond the immediate electoral victory to reshape Kenya's political coalitions, establish new governmental priorities, and demonstrate capacity for electoral realignment despite persistent structural voting patterns. The election established William Ruto as President with a mandate to implement bottom-up economics and to address economic challenges that had characterized his campaign messaging.
 
 The regional realignment that the 2022 election represented was historically significant. The demonstrated capacity of opposition candidates to penetrate traditionally dominant regional strongholds through effective campaigning and through invocation of economic rather than ethnic appeals suggested that regional voting patterns, while persistent, could be shifted. The Mt. Kenya shift from overwhelming Uhuru support to divided support between Ruto and Azimio demonstrated that regional political loyalty was not immutable and that effective campaigning could alter regional voting outcomes.

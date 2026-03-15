@@ -1,5 +1,3 @@
-# 2007 Election Women
-
 Women experienced post-election violence as disproportionate targets and as active political participants. Gender-based violence, including sexual assault, was documented during the violence. Women's participation in peace-building and reconciliation efforts emerged as significant in some contexts. Women candidates continued to represent only approximately 5-7 percent of parliamentary candidates in 2007, similar to previous elections. The experience of post-election violence and women's roles in peace-building contributed to advocacy for constitutional reforms addressing gender representation and protection, which were partially incorporated into the 2010 Constitution.
 
 ## See Also

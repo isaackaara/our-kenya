@@ -1,5 +1,3 @@
-# 2022 Election Youth Vote
-
 Young voters (ages 18-35) represented a substantial demographic in Kenya's 2022 electorate and comprised approximately 40% of registered voters. The youth vote in 2022 demonstrated substantial political engagement through digital platforms, attendance at campaign rallies, and participation in political discourse. However, youth voting behavior, while displaying greater digital sophistication than older voters, remained substantially determined by regional and ethnic factors similar to the broader electorate.
 
 William Ruto's hustler narrative proved particularly resonant with youth voters. The framing of Ruto as the candidate of ordinary Kenyans struggling economically and of entrepreneurs seeking to succeed through individual effort and initiative appealed to young voters concerned with employment, income generation, and economic opportunity. The bottom-up economics policy platform, emphasizing support for small business and microfinance, presented a vision of economic empowerment that resonated with youth constituencies facing limited formal employment opportunities.

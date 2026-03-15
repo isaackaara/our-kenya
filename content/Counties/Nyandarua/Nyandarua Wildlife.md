@@ -1,5 +1,3 @@
-# Nyandarua Wildlife
-
 Wildlife on the [[../../Conservation/Aberdare National Park|Aberdare Range]] represents part of Kenya's biodiversity. Forest ecosystems support diverse species. Aberdare National Park protects forest and alpine habitats. However, habitat loss has reduced wildlife populations. Some species face extinction risk. Conservation efforts attempt to protect remaining wildlife while balancing community interests.
 
 ## Forest Mammals

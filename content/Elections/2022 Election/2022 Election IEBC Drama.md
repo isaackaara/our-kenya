@@ -1,5 +1,3 @@
-# 2022 Election IEBC Drama
-
 The August 2022 election results announcement was marked by dramatic institutional dissent within the IEBC as four of seven commissioners publicly dissented from the results announced by the electoral commission chairman. This institutional division echoed the 2017 experience of commission-internal conflict and raised immediate questions regarding the reliability and legitimacy of the announced results.
 
 The dissenting commissioners, led by commissioner Justus Nyangaya, issued a public statement during the results announcement ceremony indicating that they could not endorse the announced results and that they possessed concerns regarding the IEBC's result tabulation procedures. The statement suggested that electronic result transmission systems had been compromised and that irregularities in the counting process had occurred that affected the reliability of the final result figures.

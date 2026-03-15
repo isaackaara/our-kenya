@@ -1,5 +1,3 @@
-# Bomet NGOs
-
 Non-governmental organizations (NGOs) and development organizations provide services and support community development in health, agriculture, education, and governance across Bomet County.
 
 ## Development Focus Areas

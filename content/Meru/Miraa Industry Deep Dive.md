@@ -1,5 +1,3 @@
-# Miraa (Khat) Industry Deep Dive
-
 [[Miraa]] (khat, Catha edulis) cultivation and trade constitute the most valuable agricultural enterprise in [[Meru]] territory, particularly in the [[Tigania]] and [[Igembe]] sub-counties of the [[Nyambene Hills]]. The [[miraa]] industry generates enormous income for producers and traders and represents a significant portion of Kenya's agricultural export value.
 
 ## Production Scale and Geography

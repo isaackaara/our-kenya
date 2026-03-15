@@ -1,5 +1,3 @@
-# Lamu Colonial History
-
 Lamu's colonial history spans two periods of external rule: Omani Arab period (roughly 1700-1880s) and British colonial period (1895-1963). These periods shaped Lamu's political institutions, land tenure systems, and economic structures in ways that persist to the present.
 
 The Omani Arab period began after the rise of the Omani Sultanate in the Arabian Peninsula. Oman, a maritime trading power in the Indian Ocean, sought to extend its influence along the East African coast. By the early 18th century, Omani forces had captured major coastal cities, including Mombasa, Zanzibar, and eventually Lamu. Lamu became a sultanate within the Omani empire, ruled by a sultan (typically of Omani descent) who governed from Lamu town.

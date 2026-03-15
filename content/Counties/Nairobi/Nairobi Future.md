@@ -1,5 +1,3 @@
-# Nairobi's Future: Development Plans and Aspirations
-
 Nairobi's future depends on addressing critical challenges while leveraging its position as East Africa's economic center. Multiple development initiatives are underway or proposed to transform the city.
 
 ## Smart City Initiative

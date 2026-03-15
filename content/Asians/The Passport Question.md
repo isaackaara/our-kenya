@@ -1,5 +1,3 @@
-# The Passport Question
-
 At [[independence]] in 1963, Kenyan Asians faced a momentous choice regarding citizenship and nationality. Those who held [[British passports]] (awarded during the colonial period) had the option to maintain British nationality and the theoretical right to live in Britain. Those who chose to take [[Kenyan citizenship]] renounced their British nationality and committed themselves to remaining in Kenya. This choice, often referred to as "the passport question," determined whether Asians would have an escape route from Kenya if circumstances became untenable, and had profound consequences for individual families and the broader Asian community.
 
 ## Colonial Citizenship Status

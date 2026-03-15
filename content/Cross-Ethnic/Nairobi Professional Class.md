@@ -1,5 +1,3 @@
-# Nairobi Professional Class
-
 The lawyers, doctors, bankers, engineers, tech workers, and consultants of [[Nairobi as Melting Pot|Nairobi]] constitute a distinctive [[Nairobi Professional Class|professional class]] that often shares more culture with peers from different ethnic backgrounds than with members of their own ethnic communities in rural areas. This professional class is the product of Kenya's education expansion and the globalization of [[Cross-Ethnic Kenya|professional fields]].
 
 Nairobi professionals work in contexts emphasizing merit, credentials, and professional competence. Law firms, hospitals, banks, technology companies, and consulting firms employ professionals from diverse ethnic backgrounds. Professional identity (lawyer, doctor, engineer) frequently supersedes ethnic identity in these workplaces. Colleagues of different ethnicities work together, socialize at professional events, and sometimes develop intimate relationships.

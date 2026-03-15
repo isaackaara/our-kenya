@@ -1,5 +1,3 @@
-# 1992 Election Media Freedom
-
 The 1992 election marked the beginning of a period of relative media opening in Kenya, with independent newspapers and magazines permitted to provide coverage of opposition campaigns and to criticize the government. However, broadcast media remained substantially under government control, and the government still exercised significant pressure on media organizations to limit coverage of opposition activities.
 
 Independent print media, including newspapers like the Daily Nation and the East African Standard, provided more balanced coverage of the 1992 campaign than had been available during the single-party era. While these newspapers still faced government pressure and self-censorship, they reported on opposition campaign activities and published opposition perspectives on government policy more extensively than during previous elections.

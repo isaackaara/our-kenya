@@ -1,5 +1,3 @@
-# Crown Lands Ordinance
-
 The Crown Lands Ordinances of 1902 and 1915 were the legal foundation for European land ownership in colonial Kenya. These ordinances declared most of Kenya's territory to be Crown land (government property) and restricted large-scale land grants to Europeans only. The ordinances created the legal mechanism for systematic land alienation from African communities and for the establishment of the White Highlands as exclusively European territory.
 
 ## The 1902 Ordinance

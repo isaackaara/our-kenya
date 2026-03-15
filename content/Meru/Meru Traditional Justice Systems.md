@@ -1,5 +1,3 @@
-# Meru Traditional Justice Systems
-
 ## Overview
 
 The [[Meru people]] developed [[sophisticated justice systems]] based on [[community participation]], [[restoration]], and [[social order maintenance]]. These systems operated through [[councils of elders]], [[community assemblies]], and established procedures for resolving disputes. The justice systems reflected values of [[accountability]], [[compensation]], and [[community healing]].

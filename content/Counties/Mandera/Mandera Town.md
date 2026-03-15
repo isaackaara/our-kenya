@@ -1,5 +1,3 @@
-# Mandera Town
-
 Mandera town is the administrative, commercial, and cultural hub of Mandera County, serving as the county capital and primary urban center. The town has grown substantially from a small trading post into a significant commercial center, driven by its strategic location at the tri-border convergence of Kenya, Ethiopia, and Somalia and its role as a gateway for cross-border trade. The town hosts county government offices, commercial activities, and services that serve both urban residents and pastoral populations from surrounding areas.
 
 ## Location and Strategic Significance

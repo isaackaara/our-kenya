@@ -1,5 +1,3 @@
-# Taita Hills Climate Change
-
 The Taita Hills, which benefit from higher rainfall than surrounding lowlands, are increasingly affected by changing climate patterns. Shifting rainfall, temperature increases, and drought frequency are affecting agriculture, water availability, and forest ecosystems.
 
 ## Changing Rainfall Patterns

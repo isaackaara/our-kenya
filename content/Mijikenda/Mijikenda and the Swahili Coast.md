@@ -1,5 +1,3 @@
-# Mijikenda and the Swahili Coast
-
 The relationship between [[Mijikenda]] hinterland communities and the [[Swahili Coast|Swahili]] coastal towns represents centuries of economic exchange, cultural influence in both directions, and complex power dynamics. This relationship has shaped both Swahili coastal civilization and [[Mijikenda]] society.
 
 ## The Swahili Coastal Towns

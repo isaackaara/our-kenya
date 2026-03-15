@@ -1,5 +1,3 @@
-# Nairobi's Informal Settlements: Africa's Largest Slums
-
 Nairobi is home to some of the world's largest informal settlements, where an estimated 60 percent of the city's population lives despite occupying only 5 percent of the land. The principal slums are Kibera, Mathare, Korogocho, and Mukuru.
 
 ## Kibera

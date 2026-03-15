@@ -1,5 +1,3 @@
-# Europeans and the Coast
-
 European presence on the Kenyan coast differed significantly from highland settler colonialism. Mombasa, Malindi, and other coastal towns had long histories of Arab-Swahili Islamic culture and commerce. European presence was more mercantile and administrative than agricultural. Coastal Europeans were fewer than highland settlers and faced different social and cultural contexts.
 
 ## The Coastal Region Pre-Colonialism

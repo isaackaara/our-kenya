@@ -1,5 +1,3 @@
-# Nyeri Youth
-
 Nyeri youth face employment challenges despite relatively high educational attainment. Agricultural cooperative succession represents an opportunity for youth engagement in farming. Urban migration to Nairobi continues as youth seek formal employment and urban opportunities. Youth unemployment and underemployment drive migration patterns. Educational completion rates are relatively high, but job opportunities remain limited.
 
 

@@ -1,5 +1,3 @@
-# Bomet Water Resources
-
 Water resources in Bomet County support agricultural production, domestic use, and livestock needs. Water availability varies seasonally with implications for food security and livelihoods.
 
 ## Water Sources

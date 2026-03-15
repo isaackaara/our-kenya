@@ -1,5 +1,3 @@
-# Embu Youth Unemployment
-
 Youth unemployment in Embu County represents a significant challenge, with school graduates and young adults struggling to find formal employment. Limited job creation, rural location, and competition for limited positions create unemployment and underemployment affecting youth welfare and social stability.
 
 ## Scale of Youth Unemployment

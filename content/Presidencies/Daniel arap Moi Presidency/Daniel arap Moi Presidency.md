@@ -1,5 +1,3 @@
-# Daniel arap Moi Presidency
-
 The presidency of Daniel arap Moi from 1978 to 2002 represented a critical period in Kenya's post-independence history. Over 24 years, Moi transformed Kenya's political system from a relatively open one-party state into an increasingly authoritarian regime, particularly during the 1980s. His presidency saw significant economic decline, massive corruption scandals, but also periods of growth and eventual return to multiparty democracy in the 1990s. Moi's long tenure made him one of Africa's longest-serving leaders and left a complex and contested legacy.
 
 Moi came to the presidency unexpectedly. When Jomo Kenyatta died in 1978, his Vice President, Daniel arap Moi, a [[Kalenjin]] from the Rift Valley, assumed the presidency. Moi had been relatively quiet and subordinate under Kenyatta, which may have helped him emerge as Kenyatta's successor rather than more powerful figures like Charles Njonjo. His ascension to power represented a transition from Kikuyu to Kalenjin leadership, which initially promised to dilute Kikuyu dominance of the state.

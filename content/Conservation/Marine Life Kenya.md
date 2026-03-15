@@ -1,5 +1,3 @@
-# Marine Life Kenya
-
 Kenya's [[Malindi Marine Reserve|marine ecosystems]] are among the most biodiverse in the Indian Ocean, encompassing coral reefs, seagrass beds, mangrove forests, and deep-water environments. The coast supports extraordinary marine biodiversity and provides critical ecosystem services to coastal communities. [[Kenya Conservation Overview|Marine conservation]] is an emerging priority as ocean degradation accelerates.
 
 ## Coral Reefs and Reef Ecosystems

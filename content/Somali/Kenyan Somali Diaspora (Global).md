@@ -1,5 +1,3 @@
-# Kenyan Somali Diaspora (Global)
-
 Substantial [[Kenyan Somali|Kenyan Somali]] populations have migrated to Western countries and the Gulf, forming diaspora communities in the UK, USA, Canada, Scandinavia, Australia, and Middle Eastern states. These diaspora communities maintain connections to Kenya and the [[Horn of Africa Context|Horn of Africa]] through family ties, remittances, investment, and cultural practices. The global [[Somali]] diaspora has created transnational networks connecting Somali in Kenya to co-ethnics worldwide.
 
 ## Migration Patterns

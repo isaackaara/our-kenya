@@ -1,5 +1,3 @@
-# Dedan Kimathi
-
 Dedan Kimathi Wacinaina (1921 or 1922 to 18 February 1957) was the most famous Mau Mau commander and an iconic figure in Kenya's independence struggle. Kimathi led guerrilla forces from the Nyeri forest area, gaining widespread renown for his military leadership and commitment to fighting British colonial rule. He was captured in 1956 and executed in 1957, becoming a martyr and hero in Kikuyu and Kenyan national consciousness.
 
 ## Early Life

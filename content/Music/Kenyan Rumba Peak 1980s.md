@@ -1,5 +1,3 @@
-# Kenyan Rumba Peak 1980s
-
 The 1980s marked the zenith of [[Music/Congolese Influence on Kenya 1980s|Congolese rumba's]] dominance in Kenyan popular music before economic collapse and shifting tastes initiated its decline. Lingala music from Zaire (now Democratic Republic of Congo) had dominated East African nightlife since the 1970s, but the early-to-mid 1980s represented the genre's absolute peak in Kenya's musical consciousness.
 
 The music's appeal transcended ethnic boundaries in ways that few Kenyan genres could match. [[Music/Kenyan Benga Music|Benga]] remained popular but primarily among specific ethnic communities. Rumba, sung in Lingala and lacking explicit ethnic associations for Kenyan audiences, provided politically neutral entertainment in increasingly tense political environment under [[Presidencies/Daniel arap Moi Presidency|President Moi]].

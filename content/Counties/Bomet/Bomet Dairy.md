@@ -1,5 +1,3 @@
-# Bomet Dairy
-
 Dairy farming has become increasingly important in Bomet's agricultural economy, with the highland climate providing ideal conditions for productive cattle. The dairy sector provides household income and employment in marketing and processing.
 
 ## Production Systems

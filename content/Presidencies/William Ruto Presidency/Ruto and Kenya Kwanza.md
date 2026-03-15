@@ -1,5 +1,3 @@
-# Ruto and Kenya Kwanza
-
 The Kenya Kwanza coalition, formed to support [[William Ruto]]'s 2022 presidential bid, represented a realignment of Kenya's political forces. The coalition united Ruto's Kalenjin-based support with the Democratic Alliance Party and other allied parties. Kenya Kwanza positioned itself against the Jubilee party and the Azimio coalition led by Raila Odinga and Uhuru Kenyatta. The coalition's victory in 2022 demonstrated its effectiveness in mobilizing voters.
 
 Kenya Kwanza's core messaging emphasized economic support for working-class Kenyans through the hustler nation ideology. The coalition presented itself as an alternative to what it characterized as corrupt, elite-dominated governance. The coalition's appeal extended beyond traditional Kalenjin constituencies, with Ruto winning votes in multiple regions. However, post-election analysis revealed that ethnic voting patterns persisted, with Kenya Kwanza performing strongest in Ruto's regional base.

@@ -1,5 +1,3 @@
-# Boer Settlers Kenya
-
 After the [[Anglo-Boer Wars]] (1899-1902), when British forces defeated the Boer (Afrikaner) republics of South Africa, some Boer families migrated to Kenya seeking refuge from British rule and new opportunities for settlement. The Boers who came to Kenya established themselves primarily in the Uasin Gishu plateau region (now Eldoret's hinterland) in the western highlands. Though numerically smaller than British settlers, the Boers brought distinctive agricultural knowledge and established an enduring Afrikaner community in Kenya.
 
 ## Anglo-Boer Wars and Migration

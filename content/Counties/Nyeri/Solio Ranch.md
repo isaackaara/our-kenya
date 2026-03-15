@@ -1,5 +1,3 @@
-# Solio Ranch
-
 Solio Ranch is a privately owned wildlife sanctuary near Nyeri County, dedicated to African rhinoceros conservation and breeding. The ranch operates as a fenced wildlife conservancy protecting endangered black and white rhinoceros from poaching. Solio has successfully bred significant numbers of rhinos, contributing to species recovery. The ranch combines conservation with ecotourism, allowing visitors to observe protected animals.
 
 ## Rhino Conservation

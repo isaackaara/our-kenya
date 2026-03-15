@@ -1,5 +1,3 @@
-# West Pokot Real Estate
-
 Real estate development and property markets in [[West Pokot County]] remain underdeveloped relative to other Kenyan counties, reflecting limited urbanization, low purchasing power, and limited commercial activity. However, property development and real estate transactions do occur in urban areas including [[Kapenguria Town]] and other trading centers. Real estate development is constrained by land tenure insecurity, limited access to credit for construction, and limited commercial opportunity. Understanding real estate markets is relevant to understanding urbanization and economic development in West Pokot.
 
 ## Urban Property Markets

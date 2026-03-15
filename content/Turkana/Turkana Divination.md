@@ -1,5 +1,3 @@
-# Turkana Divination
-
 The ngimurok (diviners and prophets) occupy a distinctive and powerful role in Turkana society. They use specialized ritual practices, particularly the reading of animal entrails (akimat), to divine the future and provide guidance on critical decisions including raiding, [[Turkana Origins and Migration]], [[Turkana-Pokot Conflict]] resolution, and responses to environmental crises.
 
 ## The Ngimurok Role

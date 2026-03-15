@@ -1,5 +1,3 @@
-# Nile Perch and Lake Victoria
-
 [[Lake Victoria]]'s ecological transformation following the introduction of [[Nile perch]] represents one of history's most dramatic human-caused [[ecosystem collapse|ecosystem collapses]]. The perch introduction demonstrates how a single species addition can devastate ecosystem integrity, with consequences that extend beyond the lake to regional food security and livelihoods.
 
 ## The Introduction (1950s)

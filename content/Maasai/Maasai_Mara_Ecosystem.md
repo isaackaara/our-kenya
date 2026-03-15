@@ -1,5 +1,3 @@
-# Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] Ecosystem: Spectacle and Fragility
-
 ## The Mara-Serengeti System
 
 The Maasai Mara and the Serengeti National Park (in Tanzania) together form one ecosystem. The two protected areas are separated by the Kenya-Tanzania border but are ecologically continuous.

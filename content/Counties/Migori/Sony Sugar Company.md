@@ -1,5 +1,3 @@
-# Sony Sugar Company
-
 Sony Sugar (South Nyanza Sugar Company) is a government sugar company located in Migori County, southwestern Kenya. The company was established in 1979 and operates a sugar mill processing sugarcane into raw sugar. The company serves as a major employer and economic actor in the region.
 
 ## Company History and Establishment

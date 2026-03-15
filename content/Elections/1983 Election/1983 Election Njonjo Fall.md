@@ -1,5 +1,3 @@
-# 1983 Election Njonjo Fall
-
 Charles Njonjo, the Attorney General who had served as a senior government official under both Kenyatta and Moi, fell from power in the wake of the 1982 coup attempt. Njonjo was publicly accused of involvement in or knowledge of the coup and was forced to resign from office. His fall from power was dramatic and deliberate, involving public humiliation and declarations of his disloyalty.
 
 Njonjo was detained and investigated following the coup attempt. He was accused of being involved in coup plotting or of failing to report coup conspirators to the government. The exact nature of the charges against Njonjo has been debated, with some sources suggesting that the coup involvement accusations were exaggerated or false and that Njonjo was actually purged for political reasons.

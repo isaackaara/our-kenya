@@ -1,5 +1,3 @@
-# Nandi Rail Raids
-
 The Nandi deliberately sabotaged the construction of the Uganda Railway from approximately 1895 to 1906 as a calculated form of colonial resistance. Rather than viewing the railway as a neutral infrastructure project, [[Kalenjin|Kalenjin]] recognized it as an instrument that would consolidate British administrative control and enable economic extraction. The rail raids exemplify how indigenous groups understood colonialism's mechanisms and responded strategically.
 
 ## Construction Timeline and Strategic Importance

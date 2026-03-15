@@ -1,5 +1,3 @@
-# The Nairobi Skyline as Legacy
-
 Nairobi's skyline is a text written in concrete and steel. Read it chronologically and you read Kenya's history.
 
 The colonial-era buildings are sturdy and modest. The Stanley Hotel, the old government offices, the colonial administrative center. They were built to last and to embody authority. They reflected colonial confidence that they would be the permanent center of control.

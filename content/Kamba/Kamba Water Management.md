@@ -1,5 +1,3 @@
-# Kamba Water Management
-
 In a semi-arid environment, water management is essential for survival. The Kamba developed and adopted multiple water conservation and harvesting technologies that enabled settlement and agricultural production in water-scarce areas. These include terracing, rock catchments, and most notably, sand dams, a technology that originated among the Kamba and has been adopted globally.
 
 ## Ndithia Terracing Tradition

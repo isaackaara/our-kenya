@@ -1,5 +1,3 @@
-# Laikipia Colonial History
-
 Laikipia was part of the White Highlands during colonialism, with European settlers receiving large land allocations. Colonial authorities excluded pastoral communities from prime plateau lands. Settler ranches developed commercial cattle production. Colonial administration maintained settler privilege. Pastoralist marginalization created long-standing grievances. Colonial land allocation fundamentally shaped contemporary land distribution and conflicts.
 
 ## European Settlement

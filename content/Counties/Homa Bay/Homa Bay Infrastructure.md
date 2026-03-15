@@ -1,5 +1,3 @@
-# Homa Bay Infrastructure
-
 Infrastructure in Homa Bay County remains underdeveloped relative to national standards, with limited road networks, water supply systems, and electricity access constraining economic development and service provision.
 
 ## Road Network

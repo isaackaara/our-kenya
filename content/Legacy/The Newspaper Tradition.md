@@ -1,5 +1,3 @@
-# The Newspaper Tradition
-
 Kenya has a relatively free and vigorous press by African standards. The Daily Nation, founded in 1960, and The Standard, a colonial-era newspaper that continued after independence, have been central institutions of Kenyan public discourse. Newspapers in Kenya are not simply news media. They are sites of political debate, platforms for civil society, spaces where power is scrutinized.
 
 This tradition did not emerge automatically. It emerged from struggle. During the Moi era, the press was heavily censored. Newspapers that published dissenting views were banned. Journalists were arrested. But the press, while constrained, maintained a degree of independence that was remarkable in the African context.

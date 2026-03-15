@@ -1,5 +1,3 @@
-# Wajir Devolution
-
 Devolution in Wajir County represents the implementation of Kenya's 2010 constitutional reform decentralizing government functions and resources to 47 county governments. Wajir County, as one of these counties, received authority over functions including health, education, water, agriculture, and local economic development. Devolution aimed to bring governance closer to local populations and allow greater community participation in development planning and resource allocation.
 
 ## Constitutional Framework

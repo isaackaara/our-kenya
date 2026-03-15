@@ -1,5 +1,3 @@
-# Kakamega Infrastructure
-
 Kakamega County's infrastructure systems include road networks, utilities, and communication networks that support economic activity and service delivery. Infrastructure development has been prioritized through both national and county government investments, though infrastructure remains strained by high population density and economic constraints. The Western Bypass represents a significant modern infrastructure project affecting regional connectivity.
 
 ## Road Network

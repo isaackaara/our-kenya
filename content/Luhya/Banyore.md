@@ -1,5 +1,3 @@
-# Banyore
-
 The Banyore (also known as Banyole) are a Luhya sub-group with a unique distinction: they are a cross-border people, inhabiting territory on both sides of the Kenya-Uganda international boundary. This situation makes them an important case study of how colonial borders split ethnically coherent communities and the consequences of that partition.
 
 ## Cross-Border Identity

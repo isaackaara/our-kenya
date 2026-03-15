@@ -1,5 +1,3 @@
-# The Lunatic Express
-
 The [[Uganda Railway]] (1896-1901) was sarcastically nicknamed the "Lunatic Line" or "Lunatic Express" by British critics who deemed it a wasteful imperial project. The nickname reflected skepticism about the railway's economic viability, but the project proceeded and fundamentally transformed East Africa.
 
 ## Why "Lunatic"?

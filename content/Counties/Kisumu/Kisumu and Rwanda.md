@@ -1,5 +1,3 @@
-# Kisumu and Rwanda: A Development Comparison
-
 A notable development comparison exists between Kisumu, Kenya's third city, and Kigali, Rwanda's capital. Despite similar colonial histories and East African regional positions, Kigali has developed into a significantly more organized and developed city than Kisumu, despite being further from the coast.
 
 ## Population and Size

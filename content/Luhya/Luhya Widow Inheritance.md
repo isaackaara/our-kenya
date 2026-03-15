@@ -1,5 +1,3 @@
-# Luhya Widow Inheritance
-
 Widow inheritance, known as the levirate custom, is a traditional practice among Luhya sub-groups where a widow is inherited by a male relative of her deceased husband. This practice served important social and economic functions in pre-colonial and early colonial Luhya society by protecting widows and their children within the extended family structure. Modern human rights concerns, particularly regarding HIV transmission and gender equality, have challenged the institution.
 
 ## The Levirate Institution and Its Purpose

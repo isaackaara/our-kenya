@@ -1,5 +1,3 @@
-# Luhya Political Future
-
 The Luhya are Kenya's second-largest ethnic group, comprising approximately 14 percent of the national population. Yet despite their numerical significance and long history of political engagement, the Luhya have never produced a Kenyan president. Understanding the barriers to Luhya presidential achievement and the political strategies that might overcome them is essential to analyzing Kenya's ethnopolitical dynamics and the Luhya future political trajectory.
 
 ## Numerical Significance and Political Marginalization

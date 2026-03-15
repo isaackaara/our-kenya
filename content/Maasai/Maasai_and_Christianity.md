@@ -1,5 +1,3 @@
-# Maasai and Christianity
-
 ## Missionary Activity and History
 
 Christian missionaries began arriving in Maasai territory in the late 19th century, coinciding with colonial expansion. Various Christian denominations (Catholic, Anglican, Lutheran, Seventh Day Adventist, African Inland Church) established missions and conducted evangelization activities. The missionaries established schools, health services, and churches, gradually building Christian presence in Maasai areas. By the 20th century, Christianity had become established in Maasai communities, though indigenous beliefs remained influential.

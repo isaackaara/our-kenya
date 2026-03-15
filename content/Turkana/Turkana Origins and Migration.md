@@ -1,5 +1,3 @@
-# Turkana Origins and Migration
-
 The Turkana are believed to have originated in the Mount Moroto area of what is now northeastern Uganda, where related Nilotic pastoralist peoples (Karamojong, Toposa) continue to inhabit. Between the 16th and 19th centuries, the Turkana gradually migrated northward and westward into their current territory in what is now northwestern Kenya, a process driven by ecological pressures, population growth, and the search for pastoralist opportunities.
 
 ## Early Origins and the Moroto Connection

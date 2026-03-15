@@ -1,5 +1,3 @@
-# Kenyatta Legacy
-
 The legacy of Jomo Kenyatta's fifteen-year presidency is complex and contested, reflecting the multiple ways in which his rule shaped Kenya's political, economic, and social future. While Kenyatta is celebrated as the founding father who led Kenya to independence and who presided over the creation of the basic institutions of the modern nation-state, his presidency also established patterns of authoritarianism, ethnic favoritism, and inequality that would haunt Kenya for decades.
 
 Kenyatta's primary achievement was to preside over Kenya's transition from colony to independent nation-state. He provided a unifying symbol and a narrative of national purpose at a crucial moment. His invocation of Harambee and his emphasis on national unity, while often belied by his actual policies, created an ideal of national cooperation that resonated with many Kenyans. He successfully navigated the complex negotiations required to move from colonial rule to independence without the kind of catastrophic violence that accompanied independence in some African countries.

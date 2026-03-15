@@ -1,5 +1,3 @@
-# The Asian Commercial Legacy
-
 Asian traders, primarily from India and Pakistan, arrived in Kenya during the colonial period. They were initially brought as laborers for the Uganda Railway but many settled and established themselves in commerce. Under colonialism, Asians occupied a middle position between Europeans and Africans, as merchants and clerks.
 
 The duka (small shop) run by an Indian trader became a fixture of Kenyan commercial life. In towns and rural trading centers, the duka wallah (shop owner) was often the first person with commercial goods, credit, and commercial information. The duka became the commercial hub of rural life.

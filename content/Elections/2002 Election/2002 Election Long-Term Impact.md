@@ -1,5 +1,3 @@
-# 2002 Election Long-Term Impact
-
 The 2002 election's most significant long-term impact was demonstrating that peaceful democratic transitions were possible in Kenya and across East Africa. Kibaki's landslide victory over KANU showed that even an incumbent with control of state machinery could be defeated through opposition coalition-building and changed international context. The election established that Kenyan voters, given a clear choice and some confidence that their vote would be counted, would overwhelmingly choose political change.
 
 However, the election also contained seeds of future conflict. The [[Memorandum of Understanding]] between Kibaki and Raila, when violated, created bitterness that would drive the 2007 election's tensions. The dominance of ethnic voting patterns, while facilitating NARC's coalition-building, would become more rigid and violent in subsequent contests. The assumption that institutional reform and anti-corruption campaigns would follow automatically from changing government would be disappointed as Kibaki's presidency failed to deliver on promised reforms.

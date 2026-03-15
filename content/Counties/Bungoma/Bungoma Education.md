@@ -1,5 +1,3 @@
-# Bungoma Education
-
 Bungoma County has a developing educational infrastructure with primary and secondary schools distributed across the region and Kibabii University serving as the county's primary higher education institution. Education is valued in Bungoma communities as a pathway for social mobility and employment. School enrollment rates are relatively high reflecting community commitment to education.
 
 ## Primary and Secondary Education

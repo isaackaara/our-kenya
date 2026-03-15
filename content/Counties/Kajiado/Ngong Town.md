@@ -1,5 +1,3 @@
-# Ngong Town
-
 Ngong town is a residential and agricultural center in Kajiado County located on the Ngong Hills approximately 30 kilometers west of Nairobi, made famous through Karen Blixen's memoir "Out of Africa" and the subsequent film adaptation of the same title.
 
 Ngong has developed as an upscale residential area serving Nairobi commuters and retired residents, with a climate and elevation attractive for horticulture, floriculture, and tea production alongside residential settlement.

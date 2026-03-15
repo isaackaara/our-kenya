@@ -1,5 +1,3 @@
-# [[../Counties/Migori/Migori County|Migori County]]
-
 Migori County is the southernmost Luo territory in Kenya, bordering Tanzania across the Kenya-Tanzania border. The county's economy, geography, and politics are shaped by its border location, its gold resources, fishing, sugar production, and [[../Conservation/Lake Victoria Kenya|Lake Victoria]] access.
 
 ## Geography and Location

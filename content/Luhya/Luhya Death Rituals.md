@@ -1,5 +1,3 @@
-# Luhya Death Rituals
-
 Death is a major event in Luhya society that triggers a series of rituals designed to mark the transition of the deceased to ancestral status, manage mourning grief, and protect the living from spiritual pollution. These customs vary across sub-groups but share common themes of respect for the deceased, community participation, and restoration of social equilibrium.
 
 ## Burial Customs

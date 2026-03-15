@@ -1,5 +1,3 @@
-# Mijikenda Initiation
-
 [[Initiation Systems among Mijikenda|Initiation ceremonies]] are central to [[Mijikenda Overview|Mjikenda society]], marking the transition of youth into adulthood and integrating them into the broader community. Male and female initiations involve ritual practices, teaching of cultural knowledge and values, and the formation of bonds between initiates and their communities. These ceremonies have been maintained despite colonial disruption and modern pressures, though participation rates have declined.
 
 ## Male Initiation

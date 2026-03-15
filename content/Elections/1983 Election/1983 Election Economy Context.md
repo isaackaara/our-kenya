@@ -1,5 +1,3 @@
-# 1983 Election Economy Context
-
 Kenya's economy in 1983 was deteriorating. Inflation was rising, agricultural productivity was declining, and the government faced budget deficits. Coffee prices were declining, reducing export revenues. The economy provided a difficult context for campaigning, but the government's control of campaign messaging prevented open discussion of economic problems. The economic crisis would deepen in subsequent years.
 
 ## See Also

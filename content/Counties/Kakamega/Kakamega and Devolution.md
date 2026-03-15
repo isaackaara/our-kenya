@@ -1,5 +1,3 @@
-# Kakamega and Devolution
-
 Devolution of government functions to county level beginning in 2013 fundamentally restructured governance in Kakamega County. The new constitutional framework established Kakamega as a semi-autonomous administrative unit with elected county government responsible for service delivery, development planning, and resource management. Devolution created new opportunities for local development prioritization while presenting governance and capacity challenges.
 
 ## County Government Structure

@@ -1,5 +1,3 @@
-# Machakos vs Kitui Kamba
-
 While the Kamba nation shares language, culture, and history, the two primary Kamba regions (Machakos and Kitui, now also including Makueni) have developed distinct characteristics shaped by geography, colonial history, and contemporary development patterns. These regional differences create complementarity and occasional tension within Kamba identity.
 
 ## Machakos Characteristics

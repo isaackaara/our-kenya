@@ -1,5 +1,3 @@
-# Matatu Culture in Nairobi: The Minibus Phenomenon
-
 Matatus are shared minibus taxis that form the backbone of Nairobi's public transportation system. These colorful vehicles, decorated with graffiti, religious slogans, and elaborate artwork, carry an estimated 2 to 3 million passengers daily throughout the city.
 
 ## Origins and Economic Importance

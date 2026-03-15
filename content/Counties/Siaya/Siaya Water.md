@@ -1,5 +1,3 @@
-# Siaya Water
-
 Water access remains a critical challenge for [[Siaya County]] despite the county's location on the shore of [[../../Conservation/Lake Victoria Kenya|Lake Victoria]], East Africa's largest freshwater body. Limited water supply infrastructure, environmental degradation, and pollution constrain access to safe drinking water.
 
 ## Lake Victoria Water Challenges

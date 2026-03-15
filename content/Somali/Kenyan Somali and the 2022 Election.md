@@ -1,5 +1,3 @@
-# Kenyan Somali and the 2022 Election
-
 Kenya's 2022 general election saw significant political competition for [[Kenyan Somali Identity|Somali]] votes, with implications for [[Northern Kenya Development Gap|northern Kenya]]'s political representation and national coalition-building. Historically, the Opposition (ODM and predecessor parties) won strong support from [[Ogaden Clan Kenya|Somali]]-majority counties. However, in 2022, President Ruto's Kenya Kwanza coalition actively courted the north, with mixed results in different counties.
 
 ## Historical Opposition Support

@@ -1,5 +1,3 @@
-# 2007 Election Long-Term Impact
-
 The 2007 election's most significant long-term impact was the impetus it created for constitutional reform. The violence, the disputed election results, and the failure of existing institutions to prevent or contain the crisis all demonstrated that Kenya's 1997-2002 electoral framework was inadequate. The post-election mediation agreement committed Kenya to comprehensive constitutional review, which resulted in the 2010 Constitution. This new constitution incorporated devolution, gender parity requirements, strengthened judicial independence, and other reforms designed to prevent future electoral violence.
 
 Additionally, the 2007 election and its aftermath established precedent for international accountability engagement through the ICC. The precedent of ICC investigations into Kenya's post-election violence shaped how subsequent African elections and violent crises would be understood within international legal frameworks. The 2010 Constitution similarly established new norms for constitutional governance and democratic procedure in Kenya.

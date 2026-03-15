@@ -1,5 +1,3 @@
-# 1992 Election Donor Leverage
-
 The 1992 Kenya election was directly precipitated by donor pressure for multiparty democratic reform. Western donors, particularly the United States and European countries, had made clear that continued development aid and structural adjustment financing were conditional on Kenya's adoption of multiparty democracy. The threat of aid suspension created sufficient economic pressure on the [[Daniel arap Moi]] government to force its acceptance of electoral competition that it would have preferred to avoid.
 
 Kenya's economic dependence on external finance made donor leverage particularly effective. The government relied on World Bank structural adjustment programs, IMF financing, and bilateral development assistance from Western countries. Donors coordinated to enforce conditionality, making clear that aid would be suspended if the government did not permit multiparty elections and political competition.

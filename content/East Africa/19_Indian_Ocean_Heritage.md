@@ -1,5 +1,3 @@
-# Indian Ocean Shared Heritage
-
 The [[Swahili Regional Language]] coast of [[East African Community]] (Kenya, Tanzania, and extending to Mozambique) shares a distinctive cultural and historical heritage shaped by centuries of maritime trade, Arab and Asian influence, and coastal ecosystems.
 
 ## The Swahili Coast Peoples

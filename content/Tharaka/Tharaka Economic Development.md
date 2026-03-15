@@ -1,5 +1,3 @@
-# Tharaka Economic Development
-
 Economic development in Tharaka territory faces challenges from the semi-arid environment, limited infrastructure, and small market size. Development strategies focus on agriculture, pastoralism, irrigation, and emerging sectors.
 
 ## Development Constraints

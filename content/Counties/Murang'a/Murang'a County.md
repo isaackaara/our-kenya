@@ -1,5 +1,3 @@
-# Murang'a County
-
 Murang'a County, located in the Central Highlands of Kenya in the historical heartland of Kikuyu territory, represents a region of profound historical significance, substantial economic production, and complex contemporary development challenges. Established as a county under Kenya's devolved governance system in 2013, Murang'a extends across approximately 2,329 square kilometers of territory ranging from the slopes of Mount Kenya and the Aberdare Range down to the lower Tana River basin. With a population exceeding 500,000 and densities among Kenya's highest in rural areas, Murang'a reflects broader patterns of population pressure, agricultural transformation, and inequality affecting the Kenyan countryside.
 
 The county's geography and ecology are defined by dramatic elevation changes, with high-altitude zones receiving substantial rainfall and supporting high-value perennial crops (coffee, tea, dairy), while lower zones experience semi-arid conditions more suitable for pastoral and drought-resistant agriculture. This ecological stratification structures economic activities, settlement patterns, and water availability across the county.

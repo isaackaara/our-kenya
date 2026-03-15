@@ -1,5 +1,3 @@
-# Lamu Maulidi Festival
-
 The Maulidi Festival is Lamu's most significant annual celebration, a week-long Islamic festival honoring the birth of the Prophet Muhammad. Held in the Islamic month of Rabi al-Awwal (typically September-October in the Gregorian calendar), the festival draws tens of thousands of pilgrims from across East Africa, including Kenya, Tanzania, Uganda, and Somalia. For this period, Lamu becomes a destination of religious pilgrimage and cultural celebration.
 
 The festival has ancient roots in Islamic tradition, though its current form in Lamu likely developed during the 19th century when Lamu was a prosperous trading town. The festival may have been influenced by similar Maulidi celebrations in the Arab world, particularly in Egypt, and by Sufi devotional practices that emphasize the veneration of the Prophet.

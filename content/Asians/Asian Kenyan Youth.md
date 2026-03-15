@@ -1,5 +1,3 @@
-# Asian Kenyan Youth
-
 Youth of [[Asian Kenyans|Asian]] descent in [[Kenya]] today (born 1990s-2010s) represent fully [[Kenyan]] generations. Many are educated professionals or pursuing higher [[education]]. They navigate [[identity]] questions, career choices, and questions about [[Kenya]]'s future. Their experience differs significantly from earlier [[Asian Kenyans|Asian]] immigrants.
 
 ## Education and Professional Aspiration

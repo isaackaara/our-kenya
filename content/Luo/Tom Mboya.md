@@ -1,5 +1,3 @@
-# [[Tom Mboya.md|Tom Mboya]]
-
 Tom Mboya (1930-1969) was Kenya's most influential labor leader and an architect of independence. He organized the "Kennedy Airlift" that sent hundreds of Kenyan students to American universities, positioned himself as a potential successor to Kenyatta, and represented Luo aspirations for educated, cosmopolitan leadership. His assassination in July 1969, carried out under circumstances that suggested ethnic targeting, marked a turning point in Luo-Kikuyu relations and Kenyan politics.
 
 ## Key Facts

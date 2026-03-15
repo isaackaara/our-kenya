@@ -1,5 +1,3 @@
-# Meru Cultural Sites
-
 Meru County contains various sacred sites, shrines, and culturally significant locations important to Meru traditions and identity. [[../../Conservation/Mount Kenya National Park|Mount Kenya]] itself holds spiritual significance as the dwelling place of Ngai (God) in Meru cosmology. Other sacred sites include groves, peaks, and places associated with important historical or spiritual events. Cultural heritage protection efforts aim to preserve these sites against development pressures and changing social practices.
 
 ## [[../../Conservation/Mount Kenya National Park|Mount Kenya]] as Sacred Site

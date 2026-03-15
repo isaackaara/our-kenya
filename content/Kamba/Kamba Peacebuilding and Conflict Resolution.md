@@ -1,5 +1,3 @@
-# Kamba Peacebuilding and Conflict Resolution
-
 The Kamba have developed traditional conflict resolution mechanisms, while also experiencing modern disputes. This note examines traditional approaches, contemporary applications, and peacebuilding efforts.
 
 ## Traditional Conflict Resolution Mechanisms

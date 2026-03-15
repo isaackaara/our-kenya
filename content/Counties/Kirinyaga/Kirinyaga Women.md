@@ -1,5 +1,3 @@
-# Kirinyaga Women
-
 Women in Kirinyaga County play central roles in agricultural production, particularly in the coffee and tea sectors. Women perform much of the labor for planting, weeding, harvesting, and post-harvest processing. Despite their agricultural contributions, women's land rights remain contested and women often lack ownership of the farms they work. Women's groups provide platforms for collective action and income generation. Education and healthcare remain important development priorities for women.
 
 ## Agricultural Labor

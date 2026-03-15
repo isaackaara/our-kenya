@@ -1,5 +1,3 @@
-# Nyamira Timeline
-
 This timeline documents major events in Nyamira County history from its creation in 2013 through 2026, tracing governance development, economic progress, and social change.
 
 ## Pre-County Era (Before 2013)

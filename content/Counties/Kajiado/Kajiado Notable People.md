@@ -1,5 +1,3 @@
-# Kajiado Notable People
-
 Kajiado County has produced prominent Kenyans achieving distinction in politics, business, conservation, academics, and other sectors, influencing national policy and development trajectories.
 
 ## Political Leadership

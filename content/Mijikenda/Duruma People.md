@@ -1,5 +1,3 @@
-# [[Duruma]] People
-
 The Duruma are a Mjikenda sub-group living in Kwale County and parts of Kilifi County in the southern [[coastal]] hinterland. The Duruma represent one branch of the broader Mjikenda diaspora and maintain distinctive cultural and linguistic features reflecting their specific history and environment.
 
 ## Geography and Territory

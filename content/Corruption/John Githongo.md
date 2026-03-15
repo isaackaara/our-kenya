@@ -1,5 +1,3 @@
-# John Githongo: Whistleblower and the Price of Accountability
-
 ## Background and Appointment
 
 John Githongo was appointed as Permanent Secretary for Ethics and Governance by President Mwai Kibaki in 2003. The position was created specifically to combat corruption, positioning Githongo at a critical point in Kenya's anti-corruption institutions.

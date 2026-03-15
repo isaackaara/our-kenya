@@ -1,5 +1,3 @@
-# 2007 Election Nairobi Violence
-
 Nairobi's informal settlements, particularly Mathare, Kibera, and Kawangware, experienced intense political violence in which opposition supporters attacked government installations, police stations, and Kikuyu-owned businesses. The violence in urban areas was somewhat different from rural ethnic cleansing but was nonetheless systematic and directed against particular targets. Hundreds died in urban violence, with informal settlement residents bearing the highest casualty rates. The violence demonstrated that post-election conflict transcended rural ethnic divisions and extended into urban political contestation.
 
 ## See Also

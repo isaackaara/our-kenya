@@ -1,5 +1,3 @@
-# Radio Voice of Kenya Origins
-
 The establishment of broadcast radio in Kenya fundamentally transformed how music circulated, who could access it, and which musical forms gained national prominence. The Voice of Kenya, established in 1927 as a colonial service and expanded significantly in the 1950s, became the most powerful force in shaping Kenya's musical culture.
 
 Radio broadcasting in Kenya began modestly in 1927 when the colonial government established a station primarily to serve the European settler community. Early broadcasts featured European classical music, news from Britain, and occasional light entertainment. African and Asian communities had virtually no access or representation in these early years.

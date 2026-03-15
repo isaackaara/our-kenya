@@ -1,5 +1,3 @@
-# Siaya County
-
 Siaya County is located on the northeastern shore of [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] in western Kenya. It is one of Kenya's 47 counties with an area of approximately 2,530 square kilometers and a population of 993,183 (2019 census). The county is administratively divided into six sub-counties, with [[Siaya Town]] serving as the county headquarters.
 
 Siaya is recognized as a core [[../../Luo/Luo|Luo]] county with deep cultural and historical significance. The county is notably the ancestral home of [[Barack Obama Sr and Siaya|Barack Obama Sr.]], father of former US President Barack Obama, connecting the region to global prominence. The county carries a significant health burden, with HIV prevalence rates among the highest in Kenya (approximately 19.3% in some estimates), presenting major challenges for public health infrastructure and community wellbeing.

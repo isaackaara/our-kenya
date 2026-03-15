@@ -1,5 +1,3 @@
-# Manufacturing History Kenya
-
 Kenya's [[manufacturing sector]] has evolved from [[colonial]] [[settler industries]] to a [[post-independence]] [[mixed economy]] with [[private]] and [[state enterprises]], and currently a [[declining sector]] facing [[competition]] from [[Chinese imports]].
 
 ## Colonial Era Manufacturing

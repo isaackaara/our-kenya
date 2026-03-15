@@ -1,5 +1,3 @@
-# Mombasa's Mosques: Religious Architecture and Heritage
-
 Mombasa's mosques are important cultural, religious, and architectural landmarks reflecting centuries of Islamic presence and influence on the Swahili coast. The mosques represent diverse architectural styles and periods.
 
 ## Mandhry Mosque

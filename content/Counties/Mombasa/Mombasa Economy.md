@@ -1,5 +1,3 @@
-# Mombasa's Economy: Beyond the Port
-
 While the port dominates Mombasa's economic profile, the city's economy encompasses tourism, retail, manufacturing, fishing, and service sectors that collectively employ tens of thousands and contribute substantially to the regional and national economy.
 
 ## Port-Related Industries

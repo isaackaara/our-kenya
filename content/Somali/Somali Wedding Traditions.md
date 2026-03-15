@@ -1,5 +1,3 @@
-# Somali [[Somali Wedding Traditions|wedding]] Traditions in Kenya
-
 Somali wedding ceremonies are elaborate, multi-day celebrations combining Islamic ritual, customary practice, and elaborate gift-giving. Weddings serve social functions beyond the couple's union: they formalize [[Somali Clan System Kenya|clan]] alliances, demonstrate family wealth and status, and create reciprocal obligations between families and clans.
 
 ## Pre-Wedding Negotiations and Engagement

@@ -1,5 +1,3 @@
-# Kamba Environmental Knowledge Systems
-
 The Kamba have developed sophisticated systems of environmental knowledge adapted to semi-arid conditions. This note examines traditional ecological knowledge (TEK), current environmental management, and contemporary conservation approaches.
 
 ## Traditional Ecological Knowledge (TEK)

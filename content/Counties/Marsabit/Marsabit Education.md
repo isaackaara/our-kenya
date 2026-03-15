@@ -1,5 +1,3 @@
-# Marsabit Education
-
 Educational provision in Marsabit County faces challenges common to arid pastoral regions: limited infrastructure, teacher shortages, high student boarding costs, and the conflict between pastoral lifestyles and formal schooling requirements.
 
 Primary education expanded post-independence, with government primary schools established in most sub-counties. Enrolment grew further after 2008 abolition of primary school fees. However, completion rates remain below national averages, with many pastoral families withdrawing children for herding or other family responsibilities.

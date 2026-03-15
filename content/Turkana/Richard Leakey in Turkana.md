@@ -1,5 +1,3 @@
-# Richard Leakey in Turkana
-
 Richard Erskine Frere [[Richard Leakey in Turkana]] (1944-2022) was a world-renowned paleoanthropologist who led paleontological expeditions and fossil discoveries in the Turkana region of Kenya. His work, particularly in the East Turkana area on the eastern shore of [[Lake Turkana]], contributed more than any other individual to our understanding of human evolution.
 
 ## Early Career and Training

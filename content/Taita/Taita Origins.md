@@ -1,5 +1,3 @@
-# Taita Origins
-
 The origins of the Taita people are attested through both oral traditions and archaeological evidence. Oral historians describe migration narratives from the north and west, suggesting the Taita arrived in the hills gradually over centuries, settling into the hills from the surrounding plains.
 
 ## Archaeological Evidence

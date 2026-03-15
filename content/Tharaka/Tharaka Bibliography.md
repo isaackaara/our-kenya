@@ -1,5 +1,3 @@
-# Tharaka Bibliography
-
 Major [[Tharaka Oral Traditions]] and references for research on the Tharaka people and Tharaka-Nithi County.
 
 ## Academic Works

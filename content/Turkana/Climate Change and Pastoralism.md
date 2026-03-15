@@ -1,5 +1,3 @@
-# Climate Change and Pastoralism
-
 [[Climate Change and Pastoralism]] is making droughts more frequent and severe in Turkana, threatening the [[Turkana Pastoralism]] economy that remains the primary livelihood for most Turkana people. Climate models project increasing temperatures, more erratic rainfall, and more frequent severe droughts by 2050. These changes pose existential challenges to [[Turkana Pastoralism]] and require significant adaptation strategies.
 
 ## Climate Change Projections for Turkana

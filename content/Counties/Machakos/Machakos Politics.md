@@ -1,5 +1,3 @@
-# Machakos Politics
-
 Machakos County has a distinctive political history shaped by Kamba cultural traditions of leadership, colonial and postcolonial governance structures, and contemporary devolved democracy. The Kamba political tradition emphasized consensus-based decision-making through councils of elders, with leadership authority distributed across multiple levels rather than concentrated in single individuals.
 
 The colonial period disrupted traditional Kamba political structures by imposing appointed chiefs and native authorities under British supervision. These administrative instruments collected taxes, mobilized labour, and enforced colonial regulations. The transition from traditional to colonial authority created social tensions that persisted through the twentieth century.

@@ -1,5 +1,3 @@
-# Vihiga Women
-
 Women in Vihiga County play central roles in agricultural production, household management, and community development while navigating persistent gender inequalities and structural barriers. Women constitute approximately half the population and perform substantial agricultural labour while maintaining primary responsibility for household food security and childcare. Economic and social opportunities have expanded though significant constraints persist.
 
 ## Agricultural Roles

@@ -1,5 +1,3 @@
-# Muindi Mbingu
-
 Muindi Mbingu (Samuel Muindi Mbingu, born 1893, died 1953) was a Kamba activist and trader who became a national hero through his leadership of the 1938 destocking crisis resistance. Though little-known outside Kamba communities, he led one of the largest organized protests in pre-independence Kenya and earned recognition through Muindi Mbingu Street in Nairobi's Central Business District.
 
 ## Key Facts

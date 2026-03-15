@@ -1,5 +1,3 @@
-# Maize Farming in the Rift Valley
-
 The Rift Valley, particularly the Uasin Gishu plateau and surrounding regions, evolved into Kenya's primary maize-producing zone following land alienation and post-independence resettlement. This transformation made Uasin Gishu and neighboring districts Kenya's "grain basket," with significant implications for national food security, agricultural politics, and Kalenjin rural economies.
 
 ## Colonial Land Alienation and Early Maize Production

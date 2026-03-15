@@ -1,5 +1,3 @@
-# Turkana Urbanisation
-
 [[Turkana Origins and Migration]] of Turkana people from [[Turkana Pastoralism]] areas to towns (particularly [[Lodwar]], Nairobi, and other urban centers) has accelerated in recent decades. Urbanization reflects both push factors ([[Drought and Famine]], pastoral decline, limited opportunities) and pull factors (urban employment, services, commercial opportunities). Urban Turkana experience significant identity challenges and economic vulnerability as they shift from pastoral to urban livelihoods.
 
 ## Migration Patterns

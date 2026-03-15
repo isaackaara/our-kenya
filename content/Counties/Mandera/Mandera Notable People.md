@@ -1,5 +1,3 @@
-# Mandera Notable People
-
 Mandera County has produced various notable individuals who have achieved prominence in politics, business, civil society, and academia. These individuals represent Mandera's contributions to Kenya's development and demonstrate the human capital potential of the region, though many notable Mandera natives have been forced to seek opportunities outside the county due to limited economic development and institutional capacity within Mandera.
 
 ## Political Leaders

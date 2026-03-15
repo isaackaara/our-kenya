@@ -1,5 +1,3 @@
-# Luo and the Informal Economy
-
 The Luo have been prominent in Kenya's informal economy since the postcolonial period. Migrating to urban centers (primarily Nairobi) for wage work opportunities, many Luo established themselves in informal sectors, including jua kali (informal manufacturing), matatu operations, boda boda motorcycle transport, and petty trading. These informal economic activities have provided livelihoods for hundreds of thousands of Luo while creating a visible and sometimes controversial Luo urban presence.
 
 ## The Jua Kali Sector

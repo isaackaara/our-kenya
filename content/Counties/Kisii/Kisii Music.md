@@ -1,5 +1,3 @@
-# Kisii Music
-
 The [[Gusii People Kisii.md|Gusii]] (Kisii) people have developed a distinctive musical tradition reflecting their cultural values, historical experiences, and contemporary life. Music remains integral to ceremonies, celebrations, and community identity.
 
 ## Traditional Music

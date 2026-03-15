@@ -1,5 +1,3 @@
-# Samburu Laibon
-
 The laibon is the spiritual leader and diviner in [[Samburu]] society, providing guidance on important decisions and community matters. Laibon practice divination, healing, and ritual leadership. These spiritual leaders hold respected positions in community governance and decision-making, though influence varies across communities and time periods.
 
 ## Divination and Leadership

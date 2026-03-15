@@ -1,5 +1,3 @@
-# [[[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Deep Dive
-
 Jaramogi Oginga Odinga (1911-1994) ranks among Kenya's most consequential political figures and the foundational patriarchal figure of the Odinga political dynasty that shaped Luo and Kenyan politics across generations.
 
 ## Early Life and Colonial Career

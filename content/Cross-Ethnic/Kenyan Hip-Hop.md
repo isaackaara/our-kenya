@@ -1,5 +1,3 @@
-# Kenyan Hip-Hop
-
 Kenyan hip-hop represents a distinctive cultural form blending American hip-hop influences with Kenyan linguistic, musical, and social contexts. The genre has become increasingly important in [[Nairobi as Melting Pot|Kenyan youth culture]], with Kenyan artists producing music in English, Swahili, and [[Sheng Evolution|Sheng]]. Hip-hop's emphasis on social commentary and its association with youth across ethnic lines has made it an important vehicle for [[Cross-Ethnic Kenya|cross-ethnic cultural expression]].
 
 Kenyan hip-hop emerged in the 1980s and 1990s as [[Nairobi as Melting Pot|Nairobi youth]] became exposed to American hip-hop through media and international influences. Local artists began producing hip-hop in English and Swahili, adapting the genre to Kenyan contexts. Early Kenyan hip-hop artists like Poxi Presha brought both American hip-hop aesthetics and local Nairobi urban sensibilities to the genre.

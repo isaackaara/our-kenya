@@ -1,5 +1,3 @@
-# Islam in Kenya
-
 Islam in [[Kenya]] crosses ethnic boundaries, claiming adherents from [[Mombasa Multi-Ethnic Life|coastal Swahili and Arab communities]], [[Somali]], Oromo, and converted communities throughout the country. Islam's theological universalism and its material presence through mosques, schools, and social institutions create possibilities for [[Cross-Ethnic Kenya|cross-ethnic Muslim community]] formation. However, the relationship between Islam and ethnicity in Kenya is complex, with some Muslim communities maintaining ethnic identity alongside religious identity.
 
 Coastal Islamic communities, particularly in Mombasa and other coastal towns, represent the longest-established Muslim presence in Kenya. Swahili Muslims, whose heritage extends back centuries, practice Islam integrated with Swahili cultural identity. Arab merchant communities present for centuries maintain distinct cultural practices. These coastal communities practiced Islam for centuries before colonial arrival.

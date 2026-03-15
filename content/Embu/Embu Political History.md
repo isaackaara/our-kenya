@@ -1,5 +1,3 @@
-# Embu Political History
-
 Embu political history since independence reflects both the community's internal development and its subordinate position within Kenya's larger Kikuyu-dominated political order. The GEMA alliance (Gikuyu, Embu, Meru Association) has shaped Embu voting patterns and political leadership structures since the 1960s.
 
 ## Early Independence Period (1964-1978)

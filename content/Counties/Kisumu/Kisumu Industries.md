@@ -1,5 +1,3 @@
-# Kisumu's Industries: Manufacturing and Processing
-
 Kisumu hosts several industrial enterprises engaged in manufacturing and processing, contributing to the city's economy. However, industrial development lags behind Nairobi and other highland areas.
 
 ## Pan Paper Mill

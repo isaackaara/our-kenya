@@ -1,5 +1,3 @@
-# Kirinyaga Horticulture
-
 Horticultural production of vegetables and cut flowers provides income diversification for Kirinyaga farmers. The favorable climate and availability of water support vegetable cultivation year-round. Cut flowers destined for export markets command premium prices. Horticulture requires more intensive labor than large-scale crops but provides higher returns per unit area. However, market access and price volatility create challenges for horticultural producers.
 
 ## Vegetable Production

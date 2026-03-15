@@ -1,5 +1,3 @@
-# Mumias Sugar Company
-
 Mumias Sugar Company was once Kenya's largest sugar producer and a major regional industrial employer, operating at the centre of Kakamega County's economic life. Founded in 1970 as a state-owned enterprise, the company expanded significantly through the 1970s and 1980s, processing sugarcane from thousands of smallholder farmers across Kakamega and neighbouring counties. The company's trajectory from market dominance to financial crisis reflects broader challenges in Kenya's sugar sector.
 
 ## Establishment and Growth

@@ -1,5 +1,3 @@
-# Makueni Timeline
-
 Key dates in Makueni County history through 2026:
 
 1895: Africa Inland Mission (AIM) establishes missionary presence in Kamba regions, beginning systematic Christian conversion.

@@ -1,5 +1,3 @@
-# Kikuyu Diaspora Beyond Kenya
-
 While the majority of [[Kikuyu]] people live in Kenya's Central Highlands, significant Kikuyu populations have migrated to other regions of East Africa, across Africa, and globally, creating diaspora communities with distinctive characteristics and connections to the homeland.
 
 ## Regional East African Migration (1900s-Present)

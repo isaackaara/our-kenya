@@ -1,5 +1,3 @@
-# Lamu Port
-
 Lamu Port is a deep-water container port under construction on the mainland just south of Lamu town, developed as part of the [[LAPSSET Lamu|LAPSSET]] corridor project. The port is designed to compete with Mombasa's older facilities, offering modern container-handling infrastructure and an alternative gateway for maritime trade in the Indian Ocean region.
 
 The port site was selected for its natural deep-water anchorage, protected from monsoon winds by natural geography. Unlike Mombasa, which has a shallow harbor requiring constant dredging, Lamu's deep water can accommodate large modern container vessels without extensive maintenance dredging. The site also offers space for expansion and associated logistics infrastructure.

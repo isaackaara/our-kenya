@@ -1,5 +1,3 @@
-# Local Content Turkana Oil
-
 Kenyan [[Oil Discovery in Turkana]] policy and international best practices emphasize "local content" requirements, intended to ensure that oil development benefits local workers, businesses, and communities. Local content encompasses employment of local workers in oil sector jobs, procurement of goods and services from local suppliers, training and skills development, and reinvestment of profits locally.
 
 ## Local Content Policy Framework

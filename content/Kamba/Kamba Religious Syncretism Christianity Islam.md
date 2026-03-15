@@ -1,5 +1,3 @@
-# Kamba Religious Syncretism: Christianity, Islam, and Traditional Beliefs
-
 The Kamba have undergone significant religious transformations since the late 19th century, with Christianity becoming the dominant faith while traditional beliefs and practices persist in complex syncretic forms. This note examines religious pluralism, conversion patterns, and contemporary religious dynamics.
 
 ## Traditional Kamba Religion (Pre-1900)

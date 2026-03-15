@@ -1,5 +1,3 @@
-# Wajir Livestock Trade
-
 Livestock trade represents the economic foundation of Wajir County, connecting pastoral producers with consumers throughout Kenya and beyond. Camels, cattle, and goats raised by Wajir's pastoral communities move through trading networks to regional and national meat markets. The livestock trade generates substantial income for pastoral producers, traders, and service providers, though market volatility and environmental shocks create income instability affecting pastoral livelihoods.
 
 ## Trade Networks and Routes

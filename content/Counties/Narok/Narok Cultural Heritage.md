@@ -1,5 +1,3 @@
-# Narok Cultural Heritage
-
 Narok County's cultural heritage centers on [[../../Maasai/Maasai|Maasai]] pastoral traditions, ceremonial practices, artistic expressions, and knowledge systems accumulated across centuries of settlement and adaptation in the Rift Valley region.
 
 ## Pastoral Knowledge Systems

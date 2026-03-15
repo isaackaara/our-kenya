@@ -1,5 +1,3 @@
-# KACC and EACC History
-
 ## Overview
 
 The Kenya Anti-Corruption Commission (KACC), established in 2003, was intended to be an independent body with investigative and prosecutorial powers to combat corruption. It was renamed the Ethics and Anti-Corruption Commission (EACC) in 2011 under the new constitution. However, both iterations have been hampered by institutional weaknesses, political interference, and failure to secure convictions of major figures.

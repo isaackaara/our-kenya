@@ -1,5 +1,3 @@
-# Bomet Tea History
-
 Tea farming in Bomet County has a history spanning from colonial introduction through development into a dominant agricultural sector. The industry's evolution shaped economic and social structures in the region.
 
 ## Colonial Introduction

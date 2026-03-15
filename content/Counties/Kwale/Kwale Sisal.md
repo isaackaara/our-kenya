@@ -1,5 +1,3 @@
-# Kwale Sisal
-
 Sisal cultivation, once an important crop in Kwale County, represented a significant economic activity during mid-20th century, though production has declined substantially in recent decades. Sisal's history in Kwale reflects broader shifts in agricultural priorities and global commodity markets affecting coastal Kenya.
 
 Sisal (Agave sisalana) was introduced to Kenya during the colonial period as an export crop. The plant produces strong fibers from its leaves that were harvested, dried, and processed for export to international markets. Sisal fiber was used for rope, twine, and other products where strong, durable fiber was valued. Colonial administrators promoted sisal cultivation, particularly on larger plantations.

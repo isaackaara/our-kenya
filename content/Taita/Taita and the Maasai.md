@@ -1,5 +1,3 @@
-# Taita and the Maasai
-
 The Taita Hills have long been surrounded by Maasai pastoralists in the lowland plains. The relationship between the Taita and Maasai has been characterized by both peaceful coexistence and periodic conflict over resources and raids.
 
 ## Maasai Pastoralism in Surrounding Lowlands

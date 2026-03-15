@@ -1,5 +1,3 @@
-# Auditor General Role
-
 ## Overview
 
 The Auditor General is constitutionally mandated to audit government accounts, identify financial irregularities, and report findings to Parliament. However, the office has repeatedly issued audit reports documenting massive [[Corruption in Kenya Overview|corruption]], misappropriation, and waste while few of the accused individuals have faced meaningful consequences. This gap between audit findings and accountability reveals systemic impunity.

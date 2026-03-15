@@ -1,5 +1,3 @@
-# Kamba Oathing and Curses
-
 The Kamba, like many East African societies, employed formal oath ceremonies as mechanisms for binding individuals to commitments, guaranteeing truthfulness in disputes, and establishing ritual alliances. Oaths were understood to invoke supernatural sanctions, with breaking an oath believed to result in severe consequences including illness, madness, or death. This system of oath-taking created a form of social regulation that transcended purely human enforcement.
 
 ## The Muma Oath Ceremony

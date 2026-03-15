@@ -1,5 +1,3 @@
-# Skull Repatriation Taita
-
 In 1985, Edinburgh University's Natural History Museum held Taita human skull relics that had been taken by colonial missionaries and anthropologists. The repatriation of these sacred objects represents an important chapter in the broader story of returning cultural heritage to Africa.
 
 ## Historical Context

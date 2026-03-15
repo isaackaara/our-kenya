@@ -1,5 +1,3 @@
-# Kakamega Tea
-
 Tea cultivation in Kakamega County occurs primarily in higher-altitude areas where elevation and temperature conditions suit tea plant growth. Tea production provides supplementary income for farming families and diversifies agricultural portfolios beyond predominant sugarcane. Tea expansion represents farmers' efforts to increase agricultural diversity and resilience. While less dominant than sugarcane, tea constitutes a significant and growing agricultural sub-sector.
 
 ## Geographic Distribution

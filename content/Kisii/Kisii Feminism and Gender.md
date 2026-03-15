@@ -1,5 +1,3 @@
-# Kisii Feminism and Gender
-
 The Gusii have historically maintained rigid gender hierarchies, with women occupying subordinate positions in family, clan, and public life. [[Kisii Female Circumcision|Female genital mutilation]] (FGM), [[Kisii Marriage Customs|bride price]], polygamy, and male authority in inheritance and property have been central to traditional gender arrangements. Contemporary feminist and gender rights activism in Kisii has challenged these structures, producing significant but incomplete transformations in gender relations.
 
 ## Traditional Gender Hierarchies

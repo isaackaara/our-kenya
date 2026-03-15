@@ -1,5 +1,3 @@
-# Harry Thuku and Asian Solidarity
-
 Harry Thuku (1895-1970) was a Kikuyu nationalist and anti-colonial activist. In 1922, his arrest sparked the first major protest against British colonial rule in Kenya. Some evidence suggests that Asian community members showed solidarity with Thuku and the African protest movement, representing rare moments of Asian-African political alignment against colonialism.
 
 ## Who Was Harry Thuku?

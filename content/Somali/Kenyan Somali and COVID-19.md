@@ -1,5 +1,3 @@
-# Kenyan Somali and COVID-19
-
 The COVID-19 pandemic affected [[Kenyan Somali Identity|Kenyan Somali]] communities disproportionately due to underlying health vulnerabilities, limited [[Northern Kenya Development Gap|healthcare infrastructure]] in the north, and specific economic impacts on [[Pastoralism and Climate Change|pastoral]] and informal economies. The pandemic disrupted [[Mandera Education Challenges|education]], trade, and livelihoods, while healthcare access in [[Northern Kenya Development Gap|northern Kenya]] remained severely constrained.
 
 ## Health Infrastructure Gaps

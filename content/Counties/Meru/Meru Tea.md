@@ -1,5 +1,3 @@
-# Meru Tea
-
 Tea cultivation occurs across the mid to high altitude zones of Meru County, where elevation and rainfall support productive tea estates and smallholder farms. The county's tea production supplements Kenya's national output, which ranks Kenya among the world's top tea producers. Meru tea is processed in factories throughout the county and exported internationally or supplied to domestic markets.
 
 ## Growing Zones

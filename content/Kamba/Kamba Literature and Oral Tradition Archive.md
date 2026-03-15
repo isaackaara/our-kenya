@@ -1,5 +1,3 @@
-# Kamba Literature and Oral Tradition Archive
-
 Kamba oral literature represents centuries of accumulated knowledge, values, and historical memory. This note catalogs key genres and themes in Kamba oral tradition and examines the state of documentation and preservation.
 
 ## Major Genres of Kamba Oral Literature

@@ -1,5 +1,3 @@
-# Uhuru Kenyatta Era Corruption: 2013-2022
-
 ## The Presidency
 
 Uhuru Kenyatta served as president of Kenya from 2013 to 2022. He was the son of Jomo Kenyatta, Kenya's first president. The Kenyatta family's prominence, including their substantial land holdings from the earlier era, continued into Uhuru's presidency.

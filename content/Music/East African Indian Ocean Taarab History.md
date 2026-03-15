@@ -1,5 +1,3 @@
-# East African Indian Ocean Taarab History
-
 Taarab represents East Africa's most sophisticated musical art form, born from centuries of [[Music/Indian Ocean Musical Exchange|Indian Ocean cultural exchange]] and reaching its mature form in Zanzibar before spreading to the Kenya coast. The music combines [[Music/Arab Musical Influence on the Kenya Coast|Arab maqam scales]], Swahili poetry, African rhythms, and later Indian film music influences into a genre that is cosmopolitan, emotionally complex, and distinctly coastal.
 
 The origins of taarab trace to the late 19th century Zanzibar court of Sultan Barghash, who patronized Arab classical music and sent musicians to study in Cairo and Muscat. These musicians returned with ouds, qanuns, violins, and knowledge of maqam theory, establishing Zanzibar as a center of sophisticated musical culture. The term "taarab" derives from the Arabic word for "to be moved emotionally," indicating the music's intended effect.

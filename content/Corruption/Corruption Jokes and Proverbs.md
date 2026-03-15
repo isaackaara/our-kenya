@@ -1,5 +1,3 @@
-# Corruption Jokes and Proverbs
-
 ## Overview
 
 Ordinary Kenyans discuss and normalize [[Corruption in Kenya Overview|corruption]] through humor, slang, and proverbs. Terms like "kitu kidogo" (small thing, bribes), "chai" (tea, bribes), "facilitation" (improper payments), and jokes about [[Civil Service Salaries and Petty Corruption|corruption]] reflect how corruption is understood and naturalized in everyday discourse.

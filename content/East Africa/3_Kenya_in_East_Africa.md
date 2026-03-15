@@ -1,5 +1,3 @@
-# Kenya in East Africa
-
 Kenya occupies a unique and dominant position within the [[East African Community]], serving simultaneously as the economic engine, diplomatic center, and geographical gateway for the broader region.
 
 ## Nairobi as Regional Capital

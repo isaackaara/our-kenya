@@ -1,5 +1,3 @@
-# Luhya Language
-
 The Luhya "language" is not a single unified language but a cluster of 14 to 20 related but distinct languages, depending on classification. This linguistic diversity reflects the Luhya confederation's nature as a political and cultural alliance of largely independent sub-groups.
 
 ## Key Facts

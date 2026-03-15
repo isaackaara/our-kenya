@@ -1,5 +1,3 @@
-# East Africa Timeline
-
 A chronological reference of key dates in [[East African Community]] regional history from 1800 through 2026, tracking major political, economic, and social events shaping the region.
 
 ## 1800s

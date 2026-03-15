@@ -1,5 +1,3 @@
-# Daniel arap Moi Era
-
 Daniel Toroitich arap Moi (2 September 1924, 4 February 2020) served as Kenya's second President from 1978 to 2002, the longest presidential tenure in the country's history. A Kalenjin from the Tugen sub-group, Moi succeeded Jomo Kenyatta and spent his first years dismantling Kikuyu political dominance, then ruling through patronage, fear, and the philosophy he called *Nyayo* ("footsteps" in Swahili, meaning he would follow in Kenyatta's footsteps). The Moi era was the crucible in which Kikuyu democratic resistance was forged.
 
 ## Key Facts

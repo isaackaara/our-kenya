@@ -1,5 +1,3 @@
-# Vihiga Religious Life
-
 Vihiga County has a strong Christian tradition, particularly the Friends Church (Quaker), which established one of Kenya's earliest missions in the region. Christianity is deeply integrated into Maragoli identity and community life. Religious institutions provide not only spiritual guidance but also social services, education, and community organization. Traditional spiritual beliefs persist alongside contemporary Christian practice.
 
 ## Christian Predominance

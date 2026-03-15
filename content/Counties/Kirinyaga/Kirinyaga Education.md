@@ -1,5 +1,3 @@
-# Kirinyaga Education
-
 The education system in Kirinyaga County reflects Kenya's national curriculum and structure while developing locally. Primary education is free and officially compulsory, leading to increasing enrollment rates. Secondary education serves fewer students and requires tuition payment. Quality varies between schools, with urban and well-funded institutions generally providing better resources and outcomes than rural and underfunded facilities.
 
 ## Primary Education

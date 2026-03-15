@@ -1,5 +1,3 @@
-# Kajiado Devolution
-
 Kajiado County government operates under Kenya's 2010 Constitution devolved governance structure, with county-level elected leadership managing education, health, agriculture, water, and local development, while national government agencies retain responsibility for Amboseli National Park and other protected areas.
 
 ## County Leadership Structure

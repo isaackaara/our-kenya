@@ -1,5 +1,3 @@
-# 1983 Election International Context
-
 The 1983 election took place in a Cold War context with Kenya firmly in the Western bloc. The coup attempt had raised some international concern about Kenya's stability, but Western governments remained supportive of Moi's government as a preferable alternative to communism. International observers viewed Moi's consolidation of power with some concern but did not intervene. Kenya's strategic importance to the West ensured continued support despite the consolidation of authoritarianism.
 
 ## See Also

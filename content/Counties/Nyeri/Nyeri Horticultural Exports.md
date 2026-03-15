@@ -1,5 +1,3 @@
-# Nyeri Horticultural Exports
-
 Nyeri County has developed significant horticultural export sectors including cut flowers and vegetables. Flower production occurs under contract with exporters serving international markets. Vegetable production (particularly French beans) is exported to European retailers. Horticultural crops provide higher per-hectare returns than traditional crops. Export-oriented production requires infrastructure, capital, and technical knowledge. Horticultural development has created employment and new livelihood opportunities.
 
 

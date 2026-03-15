@@ -1,5 +1,3 @@
-# Samburu Women and Beadwork
-
 Women in Samburu County carry substantial economic and social responsibilities within pastoral and diversified livelihoods. In pastoral households, women typically manage milk production and marketing, while men control cattle sales. This division shapes household income and decision-making.
 
 Samburu women are renowned for elaborate beadwork, creating distinctive ornaments reflecting aesthetic values and social identity. Beadwork serves as cultural expression, income generation, and ritual ornamentation. Women produce beadwork individually and in cooperative groups.

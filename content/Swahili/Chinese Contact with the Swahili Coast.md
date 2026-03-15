@@ -1,5 +1,3 @@
-# Chinese Contact with the Swahili Coast
-
 The Chinese admiral Zheng He sent treasure fleet voyages to the East African coast in the early 15th century (approximately 1418 and 1421). These voyages visited coastal ports including [[Malindi]] and other [[Swahili]] cities. A giraffe was brought from [[Malindi]] to the Chinese imperial court, demonstrating direct contact between the [[Swahili Coast Tourism|Swahili coast]] and China. These voyages represent one of the most impressive maritime achievements of the pre-colonial world within [[The Indian Ocean World]].
 
 ## Zheng He's Voyages

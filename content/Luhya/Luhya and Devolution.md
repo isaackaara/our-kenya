@@ -1,5 +1,3 @@
-# Luhya and Devolution
-
 The 2010 Kenyan Constitution introduced a devolved system of government, creating 47 county governments with significant autonomy and resources. This constitutional change had profound implications for the Luhya, whose concentrated territorial base meant that Luhya-dominated counties (Kakamega, Bungoma, Vihiga, and partially Trans-Nzoia) gained control of substantial governance and development resources previously held exclusively by the central government. Devolution represented a partial realization of the federalism vision that KADU, the Luhya-associated party, had championed at independence fifty years earlier.
 
 ## Constitutional Framework and County Creation

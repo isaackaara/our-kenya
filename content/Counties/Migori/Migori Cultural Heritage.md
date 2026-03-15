@@ -1,5 +1,3 @@
-# Migori Cultural Heritage
-
 Migori County embodies diverse cultural traditions from its Luo, Kuria, Suba, and other communities. These traditions define community identities and continue to influence contemporary society.
 
 ## Luo Cultural Practices

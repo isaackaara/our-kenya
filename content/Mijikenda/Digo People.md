@@ -1,5 +1,3 @@
-# [[Digo]] People
-
 The Digo are the southernmost and most southern-oriented [[Mijikenda]] sub-group, inhabiting primarily Kwale County south of Mombasa and extending into Tanzania. They are the third-largest Mijikenda group by population and the most Islamised, reflecting their proximity to major Swahili [[coastal]] towns and cultural integration with Islamic East African coast.
 
 ## Territory and Geography

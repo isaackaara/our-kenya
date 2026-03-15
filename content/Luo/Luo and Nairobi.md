@@ -1,5 +1,3 @@
-# Luo and Nairobi
-
 Nairobi, Kenya's capital city, has been home to substantial Luo populations since the colonial period. The migration of Luo to Nairobi for employment, education, and entrepreneurship has created distinct urban Luo communities while maintaining ties to rural Nyanza. The Luo presence in Nairobi has shaped both the city and Luo identity in complex ways.
 
 ## Early Luo Migration to Nairobi

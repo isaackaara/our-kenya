@@ -1,5 +1,3 @@
-# Tharaka Initiation
-
 Male circumcision is the most significant initiation [[Tharaka Social Structure]] in Tharaka society, marking transition from boyhood to adulthood. The ceremony has profound social, cultural, and spiritual significance despite changes in practice over time.
 
 ## The Circumcision Ceremony

@@ -1,5 +1,3 @@
-# Nyandarua Dairy
-
 Dairy farming in Nyandarua County's cool highlands produces substantial milk supplied to central Kenya urban markets. Abundant pasture, cool climate, and established cooperative systems support productive dairy operations. Smallholder farmers maintain dairy cattle as primary livelihood activity. The Nyandarua Dairy Cooperative serves thousands of member farmers. Milk sales provide regular income throughout the year for farming families.
 
 ## Highland Pastures

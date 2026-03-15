@@ -1,5 +1,3 @@
-# Kitui NGOs
-
 Non-governmental organizations operating in Kitui County focus on water, food security, health, education, and development support. The NGO sector complements government services and implements development programmes addressing Kitui's critical challenges. NGOs work in partnership with county government, communities, and international donors.
 
 Water organizations have been particularly prominent in Kitui, given the county's chronic water scarcity. NGOs support sand dam construction, water point management, water conservation technologies, and water governance. Community-based water management organizations operate water systems with NGO support.

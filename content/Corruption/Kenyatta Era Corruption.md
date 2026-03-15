@@ -1,5 +1,3 @@
-# Kenyatta Era Corruption
-
 ## Overview
 
 Corruption during Jomo Kenyatta's presidency (1963-1978) was systematic and enabled the rapid accumulation of wealth by the Kenyatta family and their political allies. The pattern established during this era (conversion of political power into personal wealth through control of land and state resources) persisted through subsequent administrations and became a defining feature of Kenyan politics.

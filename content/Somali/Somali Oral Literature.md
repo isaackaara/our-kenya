@@ -1,5 +1,3 @@
-# Somali [[Somali Oral Literature|oral literature]]
-
 Somali oral tradition represents one of Africa's richest literary heritage systems, developed over centuries by pastoralist societies in the Horn of Africa. Among Kenyan Somali communities, these oral forms remain vital expressions of cultural identity, historical memory, and social values.
 
 ## Forms of Somali Poetry

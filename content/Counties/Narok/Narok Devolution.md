@@ -1,5 +1,3 @@
-# Narok Devolution
-
 Narok County government operates under Kenya's 2010 Constitution devolved governance structure, with county-level elected leadership managing education, health, agriculture, water, and local development within the county while national government agencies retain responsibility for wildlife, immigration, and certain economic sectors.
 
 ## County Leadership Structure

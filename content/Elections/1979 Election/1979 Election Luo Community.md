@@ -1,5 +1,3 @@
-# 1979 Election Luo Community
-
 The Luo community in 1979 was politically marginalized but potentially positioned to benefit from Moi's promise of more inclusive governance. The Luo had experienced significant political disadvantage under Kenyatta following Oginga Odinga's conflict with the president in 1966. The release of Odinga and other political prisoners before the 1979 election created hope among some Luos that the new Moi government might offer greater political inclusion for the Luo community.
 
 Luo MPs elected in the 1979 election represented constituencies in Luo Nyanza and in other areas with significant Luo populations. The number of Luo MPs reflected the region's population, but Luo political influence in the national government remained limited compared to Kikuyu influence.

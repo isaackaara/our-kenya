@@ -1,5 +1,3 @@
-# Kikuyu Circumcision Ceremony
-
 The Kikuyu circumcision ceremony (irua) is a rite of passage marking transition from childhood to adulthood. The ceremony involves the physical circumcision (irua ria anake for men, irua ria atumia for women) and an extended seclusion period during which initiates receive intensive education in cultural knowledge, sexual education, and adult responsibilities.
 
 ## Age and Timing

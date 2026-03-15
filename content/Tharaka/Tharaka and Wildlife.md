@@ -1,5 +1,3 @@
-# Tharaka and Wildlife
-
 The relationship between Tharaka communities and wildlife is complex and evolving. Communities depend on wildlife for tourism income but also experience conflicts from wildlife damage to crops and livestock.
 
 ## Traditional Wildlife Relationships

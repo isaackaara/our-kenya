@@ -1,5 +1,3 @@
-# Kenyatta Development Projects
-
 The Kenyatta presidency invested substantially in infrastructure and development projects, creating a visible legacy of roads, schools, hospitals, and communications facilities. These projects embodied the government's modernization agenda and served as concrete evidence of progress. However, the geographic and sectoral distribution of development projects also reflected political patronage, ethnic preferences, and elite interests, creating patterns of inequality that would persist long after Kenyatta's death.
 
 The road network was perhaps the most tangible development achievement of the Kenyatta era. The government invested heavily in upgrading and expanding the road system, which had been limited and colonial in character. New roads connected Nairobi to regional centers, improved intra-regional connectivity, and facilitated commerce. The construction of major highways, such as the road connecting Nairobi to Mombasa and improved connections to Uganda and Tanzania, reflected the government's regional ambitions and the importance of trade for Kenya's economy.

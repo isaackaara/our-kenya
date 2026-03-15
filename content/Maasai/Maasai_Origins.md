@@ -1,5 +1,3 @@
-# Maasai Origins: Nilotic Arrivals from the North
-
 ## Migration from the Nile Valley
 
 The Maasai originate from Nilotic peoples of the Nile Valley in what is now South Sudan and northern Uganda. Archaeological and linguistic evidence confirms their descent from Nilo-Saharan-speaking pastoral communities who began migrating southward around the 15th century.

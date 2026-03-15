@@ -1,5 +1,3 @@
-# Marachi
-
 The Bamarachi are a Luhya sub-group found primarily in Busia County, in the Lake Victoria region of western Kenya. They occupy a strategic position at the interface between Luhya, Luo, and Ugandan communities, which has shaped their distinctive cultural practices and social identity.
 
 ## Location and Geography

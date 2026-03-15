@@ -1,5 +1,3 @@
-# Taita Diaspora
-
 Taita communities have migrated to urban areas, particularly Mombasa and Nairobi, creating diaspora communities that maintain connections to their home hills while engaging with urban life and livelihoods.
 
 ## Migration Patterns

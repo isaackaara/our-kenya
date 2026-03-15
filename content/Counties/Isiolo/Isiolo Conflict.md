@@ -1,5 +1,3 @@
-# Isiolo Inter-Communal Conflict
-
 Isiolo County experiences periodic inter-communal conflicts reflecting competition over water and pasture, political disputes, and historical tensions between groups. Conflicts range from localised disputes to broader clashes affecting multiple sub-counties.
 
 Water scarcity precipitates conflicts as communities and herds compete for access to limited sources. The Ewaso Nyiro River, boreholes, and pan water are focal points of tension during droughts. Disputes over water access sometimes escalate to armed confrontation.

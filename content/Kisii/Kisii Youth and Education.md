@@ -1,5 +1,3 @@
-# Kisii Youth and Education
-
 The [[Gusii]] have historically invested heavily in [[education]] as a pathway to advancement and modernization. From the mission education era through to the contemporary period, Kisii communities have sent their youth to school at high rates, producing an educated population and generating high expectations for educated employment. However, contemporary Kisii youth face challenges of graduate unemployment, limited job opportunities, and forced migration to urban centers.
 
 ## Educational Investment and Cultural Value

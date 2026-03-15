@@ -1,5 +1,3 @@
-# Kwale Politics
-
 Kwale County's political history reflects broader patterns of Kenya's post-independence development, including the dominance of certain ethnic and political families, competition for resources and representation, and the evolution from centralized to devolved governance. Political participation has been high, with electoral turnout often exceeding 70 percent in presidential and general elections. The county has produced several nationally prominent politicians who have served at ministerial level.
 
 The Digo, as the dominant ethnic group, have historically held significant political representation though contested by other communities seeking voice and resources. Early post-independence politics saw the emergence of powerful political families and individual politicians who accumulated land, business interests, and patronage networks. These politicians typically represented their constituencies in parliament and leveraged national office for local benefits.

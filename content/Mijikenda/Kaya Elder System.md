@@ -1,5 +1,3 @@
-# [[kaya]] Elder [[system]]
-
 The vaya ([[elders]]) are custodians of the [[Mijikenda]] sacred kaya forests and keepers of sacred knowledge. This elder system represents centuries-old institutional arrangements for managing sacred spaces and transmitting cultural knowledge across generations, though contemporary challenges threaten its sustainability.
 
 ## The Vaya (Elders)

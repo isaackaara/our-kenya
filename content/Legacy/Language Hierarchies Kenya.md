@@ -1,5 +1,3 @@
-# Language Hierarchies Kenya
-
 Colonialism created a hierarchy of languages in Kenya. At the top was English, the language of power and prestige. In the middle was Swahili, the language of commerce and the colonial administration. At the bottom were the African languages: Kikuyu, Luhya, Kalenjin, Maasai, Samburu, and others.
 
 This hierarchy was not natural or neutral. It reflected colonial power. English was the language of the colonizer. Knowing English was essential for access to education, to well-paying jobs, to power. Swahili was the language of the colonial state's dealings with the African population. African languages were positioned as local, as limited, as insufficient for modern life.

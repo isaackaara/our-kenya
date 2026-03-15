@@ -1,5 +1,3 @@
-# Taita Oral Literature
-
 Taita oral literature includes stories, proverbs, riddles, and historical narratives that have been transmitted orally through generations. This body of literature encodes cultural values, historical knowledge, and lessons for living.
 
 ## Stories and Narratives

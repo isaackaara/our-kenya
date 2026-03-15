@@ -1,5 +1,3 @@
-# Asian Kenya Timeline
-
 A chronological reference of major dates and events in the history of [[Asian Kenyans|Asians]] in [[Kenya]], from the [[Indian Ocean]] trading era through 2026.
 
 ## Pre-Colonial Era

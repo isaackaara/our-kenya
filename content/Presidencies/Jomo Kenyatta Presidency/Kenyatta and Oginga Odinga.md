@@ -1,5 +1,3 @@
-# Kenyatta and Oginga Odinga
-
 The split between Jomo Kenyatta and [[Oginga Odinga]] represented one of the defining political ruptures of Kenya's early independence. Odinga, a veteran Luo nationalist and politician, had been chosen as Vice President under Kenyatta at independence. However, their relationship deteriorated rapidly, leading to Odinga's resignation from government in 1966 and his formation of an opposition party. This break set the pattern for Kenyan politics: ethnic divisions, competition over resources, and the dominance of Kikuyu political interests.
 
 Oginga Odinga came from a prominent Luo family and had been a leading nationalist voice in the independence struggle. He had significant prestige in the Luo community and among pan-African circles. He represented the more radical wing of Kenya's independence movement, advocating for African socialism, non-alignment in the Cold War, and a more egalitarian approach to wealth distribution. These positions had made him a hero to many Africans, particularly to the working class and the youth.

@@ -1,5 +1,3 @@
-# The Madhvani Group
-
 The [[Madhvani family]] is a Kenyan-Ugandan [[business dynasty]] that built a [[sugar empire]] across East Africa. They exemplify the large-scale industrial enterprises that some Asian families developed, though their operations are primarily in Uganda with some Kenyan interests.
 
 ## Origins and Business Focus

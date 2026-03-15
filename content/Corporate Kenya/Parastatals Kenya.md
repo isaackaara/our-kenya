@@ -1,5 +1,3 @@
-# Parastatals Kenya
-
 Parastatals (state-owned enterprises or statutory corporations) dominated Kenya's economy from independence until the structural adjustment era of the 1990s. They were intended to be vehicles for development and economic transformation. Instead, many became venues for corruption, inefficiency, and political patronage. The parastatal sector's decline and privatisation is one of the defining stories of post-independence Kenya.
 
 ## The Parastatal Model

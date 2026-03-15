@@ -1,5 +1,3 @@
-# Kakamega Agriculture
-
 Kakamega County's economy is predominantly agricultural, with sugarcane as the dominant cash crop, complemented by tea, maize, and livestock production. The county's fertile volcanic soils and reliable rainfall support diverse crop production systems adapted to the region's high population density. Agriculture provides livelihoods for the majority of Kakamega's population and drives the local economy.
 
 ## Sugarcane Production

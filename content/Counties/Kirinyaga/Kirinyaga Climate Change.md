@@ -1,5 +1,3 @@
-# Kirinyaga Climate Change
-
 Climate change is altering rainfall patterns, temperatures, and water availability in Kirinyaga County with significant implications for agriculture and livelihoods. Scientific observations document increasing temperatures and changing rainfall patterns. Farmers report altered growing seasons and increased variability. These changes threaten the agricultural productivity that has historically supported the county's economy and population.
 
 ## Rainfall Changes

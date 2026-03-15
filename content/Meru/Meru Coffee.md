@@ -1,5 +1,3 @@
-# Meru Coffee
-
 The Meru highlands support [[coffee]] cultivation alongside [[Meru Tea|tea]]. Coffee growing has been an important part of the [[Meru County|Meru]] economy since the colonial period, though it has always been secondary to tea in terms of volume and value of production.
 
 ## Growing Regions and Cooperatives

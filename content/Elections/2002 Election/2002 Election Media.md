@@ -1,5 +1,3 @@
-# 2002 Election Media
-
 Independent media's expansion proved decisive for NARC's campaign reach in 2002. Commercial radio stations including Capital FM, Citizen Radio, and Swahili-language stations provided platforms for diverse candidate voices, reducing state broadcasting monopoly dominance. Print media continued providing more balanced coverage than state television. This expanded media landscape allowed opposition candidates to reach voters more effectively than in 1997. State broadcasting continued favoring government candidates, but its monopoly power had sufficiently eroded that opposition messaging could penetrate voter consciousness through multiple channels. The "pumbavu" recording circulated widely through informal networks and independent media, demonstrating the difficulty of suppressing damaging information when independent media infrastructure existed.
 
 ## See Also

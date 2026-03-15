@@ -1,5 +1,3 @@
-# Kivutha Kibwana Deep Dive
-
 Kivutha Kibwana represents a distinctive trajectory in post-colonial Kenyan politics and governance. A constitutional law expert, political organizer, and devolution innovator, Kibwana transitioned from academic and ministerial roles to county governor, pioneering governance models internationally recognized as models for African devolution.
 
 ## Academic Foundation

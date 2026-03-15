@@ -1,5 +1,3 @@
-# Isiolo Livestock Trade
-
 Isiolo functions as a major livestock trading centre linking pastoral production areas in the north with urban markets in southern Kenya. The Isiolo livestock market facilitates transactions involving thousands of animals annually.
 
 The trading system operates through multiple channels. Pastoralists sell animals to traders and wholesalers who aggregate livestock for transport to major urban markets. Butcheries and restaurants purchase animals through distributors. Pastoralists sometimes transport animals directly to urban markets, though traders typically dominate large-scale transactions.

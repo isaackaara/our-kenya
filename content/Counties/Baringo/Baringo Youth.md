@@ -1,5 +1,3 @@
-# Baringo Youth
-
 Baringo County youth population faces distinctive opportunities and challenges shaped by pastoral heritage, education access improvements, limited pastoral sector employment, and migration toward urban areas seeking employment and educational advancement.
 
 ## Education and Skills Development

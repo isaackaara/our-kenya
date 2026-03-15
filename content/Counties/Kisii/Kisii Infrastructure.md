@@ -1,5 +1,3 @@
-# Kisii Infrastructure
-
 [[Kisii County.md|Kisii County]] has developed substantial road and transportation infrastructure connecting the region to major Kenyan cities and neighboring counties. Infrastructure development remains ongoing as the county government prioritizes connectivity and service delivery.
 
 ## Road Networks

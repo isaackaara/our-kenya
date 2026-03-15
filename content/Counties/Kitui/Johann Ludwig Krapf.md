@@ -1,5 +1,3 @@
-# Johann Ludwig Krapf
-
 Johann Ludwig Krapf was a German Protestant missionary who made significant contributions to European knowledge of East Africa. In 1849, while stationed in the Kitui region, Krapf became the first European to observe [[../../Conservation/Mount Kenya National Park|Mount Kenya]] from a distance, making an important geographical discovery that furthered European knowledge of East African geography.
 
 Krapf served as a missionary in East Africa during the mid-nineteenth century, working to establish Christian missions and convert African populations. His work brought him into contact with various East African communities including the [[../../Kamba/Kamba|Kamba]] populations of Kitui. Missionaries like Krapf served as both spiritual teachers and information sources for European geographical and scientific knowledge.

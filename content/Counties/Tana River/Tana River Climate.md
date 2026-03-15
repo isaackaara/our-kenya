@@ -1,5 +1,3 @@
-# Tana River Climate
-
 Tana River County experiences an arid to semi-arid climate characterized by low and erratic rainfall, high temperatures, and pronounced dry seasons. The county's climatic conditions fundamentally shape human settlement patterns, economic activities, and ecosystem composition, with water availability as the primary limiting factor for human and animal populations.
 
 Annual rainfall ranges from approximately 300 millimeters in the most arid lowland areas to 800 millimeters in wetter zones closer to the Tana River and in higher elevation areas. This compares to Kenya's national average of approximately 600 millimeters, placing Tana River well below the semi-arid threshold. Rainfall is concentrated in two rainy seasons: the long rains (March-May) and short rains (October-December), with minimal precipitation during the other months. Dry seasons include the dry period from January-February and the longer period from June-September. Within these general patterns, substantial spatial variation occurs due to topography and proximity to water sources.

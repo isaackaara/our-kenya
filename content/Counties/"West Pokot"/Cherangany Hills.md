@@ -1,5 +1,3 @@
-# Cherangany Hills
-
 The Cherangany Hills form a major geographic and hydrological feature spanning West Pokot and Trans-Nzoia counties. The hills reach elevations exceeding 2,500 meters, making them a significant water tower for the western region. The Cherangany Hills support montane forests with diverse flora adapted to highland conditions. The hills have reliable rainfall, generating springs and streams that feed lowland water systems. The Cherangany Hills are a critical water source for pastoral and agricultural populations across both counties. The hills provide grazing areas for pastoral communities during dry seasons when lowland water sources dry. Highland agricultural populations utilize water from mountain springs for household consumption and irrigation.
 
 ## Ecological Importance

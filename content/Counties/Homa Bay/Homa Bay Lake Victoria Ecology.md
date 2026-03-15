@@ -1,5 +1,3 @@
-# Homa Bay Lake Victoria Ecology
-
 Lake Victoria's ecological conditions directly shape Homa Bay County's fishing economy and environmental conditions. The lake's ecological health affects fish productivity and community livelihoods dependent on the lake.
 
 ## Water Quality and Pollution

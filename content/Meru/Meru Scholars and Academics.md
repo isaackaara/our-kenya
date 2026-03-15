@@ -1,5 +1,3 @@
-# Meru Scholars and Academics
-
 ## Overview
 
 Meru has produced notable [[scholars]], [[academics]], [[researchers]], and [[writers]] who have contributed significantly to [[Kenyan intellectual life]] and academic disciplines. These individuals have advanced knowledge in fields including [[medicine]], [[law]], [[agriculture]], [[social sciences]], and [[humanities]]. Their contributions span local, national, and international academic communities.

@@ -1,5 +1,3 @@
-# [[Karisa Maitha]]
-
 Karisa Maitha was a prominent Giriama politician who served as a Member of Parliament and held ministerial positions in the Kenyan government. Maitha represented Giriama political participation in national politics and demonstrates the advancement of Mjikenda into higher political positions, though such advancement has remained limited relative to upland ethnic groups.
 
 ## Political Career

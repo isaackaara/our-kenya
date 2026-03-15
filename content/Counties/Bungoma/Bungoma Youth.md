@@ -1,5 +1,3 @@
-# Bungoma Youth
-
 Bungoma County's youth face significant challenges including limited formal employment opportunities, land scarcity, and constrained economic prospects despite education investments. Youth unemployment is widespread, particularly among secondary and tertiary education graduates. Youth comprise a substantial proportion of Bungoma's population given high fertility rates, intensifying demand for education, employment, and services.
 
 ## Employment Challenges

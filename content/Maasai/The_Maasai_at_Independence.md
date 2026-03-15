@@ -1,5 +1,3 @@
-# The Maasai at Independence
-
 ## Kenya's Independence Context
 
 When Kenya achieved independence from British colonial rule in 1964, the Maasai community faced a complex political situation. The new Kenyan nation was predominantly Kikuyu in leadership (President Jomo Kenyatta was Kikuyu), and political alignments reflected ethnic and regional tensions from the colonial period. The Maasai, as a large pastoral minority, were uncertain about their position in the new state.

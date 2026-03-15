@@ -1,5 +1,3 @@
-# Bomet Agriculture
-
 Agriculture is the foundation of Bomet County's economy, with tea as dominant crop supplemented by diverse farming activities. The agricultural sector employs the majority of the population and generates primary household incomes.
 
 ## Primary Crops

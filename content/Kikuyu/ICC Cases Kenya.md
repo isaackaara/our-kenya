@@ -1,5 +1,3 @@
-# ICC Cases Kenya
-
 The International Criminal Court's Kenya cases were the most prominent international legal proceedings to arise from the [[2007-2008 Post Election Violence]], and the most consequential political event of the 2013 election cycle. Both the Kenyan President and his deputy were under indictment for crimes against humanity when they took office, a situation without precedent in the ICC's history.
 
 ## Key Facts

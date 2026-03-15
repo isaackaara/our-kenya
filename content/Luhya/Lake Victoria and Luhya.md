@@ -1,5 +1,3 @@
-# Lake Victoria and Luhya
-
 Lake Victoria, the world's second-largest freshwater lake by surface area, forms the western boundary of Luhya territory. For certain Luhya sub-groups, particularly the Samia and Banyore, the lake is not merely a geographic boundary but a central economic and cultural space. Fishing, trade, transport, and identity are all shaped by the lake and its resources.
 
 ## Luhya Sub-Groups on the Shoreline

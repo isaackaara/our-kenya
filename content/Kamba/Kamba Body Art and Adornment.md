@@ -1,5 +1,3 @@
-# Kamba Body Art and Adornment
-
 Traditional Kamba body decoration involved scarification, beadwork, ornaments, and jewelry that signified status, age, gender, and social position. These practices encoded Kamba identity into the body and reflected aesthetic and social values distinct from neighboring peoples.
 
 ## Scarification Patterns

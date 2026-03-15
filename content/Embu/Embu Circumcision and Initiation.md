@@ -1,5 +1,3 @@
-# Embu Circumcision and Initiation
-
 Male circumcision and age-grade initiation ceremonies hold profound social, cultural, and spiritual significance in Embu society. These practices have persisted through cultural [[Embu Generational Change]], though modified forms and reduced frequency characterize contemporary practice compared to pre-colonial patterns.
 
 ## Traditional Circumcision Practice

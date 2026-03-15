@@ -1,5 +1,3 @@
-# Samburu Health
-
 Health indicators in [[Samburu County]] remain relatively poor compared to national averages, with challenges including limited facility access, health worker shortages, and disease burdens (malaria in lower zones, respiratory infections). Maternal and child health have improved with service expansion. Healthcare infrastructure remains inadequate relative to population needs.
 
 ## Health Facilities

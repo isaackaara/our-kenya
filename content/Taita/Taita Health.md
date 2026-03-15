@@ -1,5 +1,3 @@
-# Taita Health
-
 Health infrastructure and health outcomes in Taita-Taveta County reflect both progress in health service delivery and ongoing challenges related to poverty, distance, and capacity constraints.
 
 ## Health Service Infrastructure

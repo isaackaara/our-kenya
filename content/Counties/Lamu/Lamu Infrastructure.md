@@ -1,5 +1,3 @@
-# Lamu Infrastructure
-
 Lamu County's infrastructure is limited by its island geography and isolation, making development more expensive and challenging than mainland regions. Key infrastructure (transportation, water, energy, telecommunications) remains below national standards, constraining economic development and service delivery.
 
 Transportation infrastructure presents unique challenges. Lamu Island has no roads suitable for cars, with donkeys and foot traffic remaining the primary movement means. The narrow streets of Lamu town preclude road development. On the wider areas of the islands and mainland, there are some roads, but many are unpaved and in poor condition, impassable during rainy seasons.

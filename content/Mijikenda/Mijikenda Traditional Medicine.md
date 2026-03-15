@@ -1,5 +1,3 @@
-# Mijikenda Traditional Medicine
-
 The [[Mijikenda Overview|Mjikenda]] maintain distinctive [[Mijikenda Healing Practices|medical traditions]] rooted in centuries of accumulated knowledge about local plants, herbs, and healing practices. These traditions are administered by medicine persons called muganga (singular) or waganga (plural), who possess knowledge of medicinal plants and healing techniques. Mjikenda traditional medicine coexists with Islam-influenced healing practices (dawa ya miti) and increasingly with biomedical healthcare.
 
 ## The Muganga and Healing Knowledge

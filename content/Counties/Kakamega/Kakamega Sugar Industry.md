@@ -1,5 +1,3 @@
-# Kakamega Sugar Industry
-
 Sugarcane is the dominant cash crop in Kakamega County, forming the backbone of the county's agricultural economy and providing income for thousands of farming families. The sugar industry has shaped economic patterns, settlement, and development priorities across the region for over a century. Kakamega became the centre of Kenya's sugar production through colonial-era investments and post-independence expansion.
 
 ## Historical Development

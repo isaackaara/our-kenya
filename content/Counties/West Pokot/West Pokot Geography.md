@@ -1,5 +1,3 @@
-# West Pokot Geography
-
 [[West Pokot County]] is characterized by dramatic variations in elevation, climate, and ecology across its approximately 9,200 square kilometers, creating distinct geographic zones that shape livelihood systems, development patterns, and human settlement. The county ranges from hot arid lowlands in the [[Kerio Valley]] at approximately 1,000 meters elevation to cool highlands in the [[Cherangany Hills]] exceeding 2,500 meters elevation. These elevation gradients create marked differences in temperature, rainfall, and vegetation across short distances, resulting in distinct geographic regions with different productive potential and livelihood systems. Understanding West Pokot's geography is fundamental to understanding the county's pastoral and agricultural economy, water resources, infrastructure challenges, and development potential.
 
 ## Topography and Geological Features

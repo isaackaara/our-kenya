@@ -1,5 +1,3 @@
-# Land Tenure in Meru
-
 Land tenure in [[Meru County]] reflects historical changes from communal family land systems through colonial appropriation to contemporary individual titling. Contemporary land issues in Meru include disputes, family subdivision, environmental concerns, and questions about pastoral community land rights.
 
 ## Precolonial Communal Systems

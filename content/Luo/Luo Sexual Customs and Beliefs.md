@@ -1,5 +1,3 @@
-# Luo Sexual Customs and Beliefs
-
 Sexuality in Luo culture is governed by the *chira* system, a complex of taboos and regulations. Sexual practice is not private but embedded in social, spiritual, and kinship obligations. Traditional courtship included formalised sexual play among unmarried youth. Widow inheritance and sexual cleansing customs continue to shape Luo sexual culture and pose contemporary health challenges.
 
 ## The Chira System

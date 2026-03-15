@@ -1,5 +1,3 @@
-# Kitui Timeline
-
 Key dates in Kitui County history through 2026:
 
 1849: Johann Ludwig Krapf becomes first European to observe [[../../Conservation/Mount Kenya National Park|Mount Kenya]] from Kitui region, contributing to European geographical knowledge.

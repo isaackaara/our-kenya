@@ -1,5 +1,3 @@
-# Busia Border Crossing
-
 The Busia border post is one of Kenya's busiest international crossings, handling substantial formal and informal trade with Uganda. The border demarcation line divides Busia town, with Busia, Kenya on the east and Busia, Uganda on the west. Formal trade through the border is regulated by customs authorities (Kenya Revenue Authority on Kenyan side, Uganda Revenue Authority on Ugandan side). The border post processes thousands of traders, travelers, and vehicles daily. Immigration and customs facilities control movement and goods crossing. Border security involves both countries' authorities. The crossing facilitates regional economic integration and trade flows. Informal cross-border trade complements formal channels.
 
 ## Trade Flows and Economic Impact

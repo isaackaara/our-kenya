@@ -1,5 +1,3 @@
-# Football Kenya Federation: Governance Failures and FIFA Interventions
-
 The Football Kenya Federation (FKF) is the governing body for football in Kenya. Like Athletics Kenya, the FKF has experienced repeated governance scandals, financial mismanagement, and corruption allegations. FIFA has intervened multiple times, suspending Kenya from international competition due to governance failures. These interventions reflect the poor institutional quality of Kenya's football administration.
 
 ## See Also

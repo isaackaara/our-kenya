@@ -1,5 +1,3 @@
-# [[../Counties/Bomet/Bomet County|Bomet County]]
-
 Bomet County is located in the Rift Valley region of Kenya, representing [[Kalenjin|Kalenjin]] heartland. The county was initially established as Bomet District in 1992 (carved from the former Kericho District) and transitioned to county status under Kenya's 2010 constitutional devolution framework.
 
 ## Geography and Administration

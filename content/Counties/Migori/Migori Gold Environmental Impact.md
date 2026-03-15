@@ -1,5 +1,3 @@
-# Migori Gold Environmental Impact
-
 Artisanal and small-scale gold mining in the Migori Gold Belt has created significant environmental degradation and health hazards. Mercury contamination from gold processing represents the most serious environmental impact.
 
 ## Mercury Contamination

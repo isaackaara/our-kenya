@@ -1,5 +1,3 @@
-# The Arab Community in Mombasa: Hadrami and Omani Heritage
-
 The Arab community in Mombasa has deep historical roots, dating back over 1,000 years to the founding of the Swahili trading civilization. Contemporary Arab communities in Mombasa are predominantly of Hadrami Arab (from Yemen) and Omani Arab descent, though numbers are declining.
 
 ## Hadrami Arabs

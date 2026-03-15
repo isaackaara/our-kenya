@@ -1,5 +1,3 @@
-# Baringo County
-
 Baringo County is located in the central Rift Valley, centered on Lake Baringo (a freshwater lake famous for hippos, crocodiles, and over 500 bird species) and the Tugen Hills. With a population of approximately 700,000, the county is predominantly Tugen (a Kalenjin sub-group) and Njemps (Ilchamus) communities.
 
 The county holds historical significance as the home of Daniel arap Moi, Kenya's second President who ruled from 1978 to 2002. Kabarnet functions as the county headquarters and administrative center.

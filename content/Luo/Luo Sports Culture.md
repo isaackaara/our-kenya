@@ -1,5 +1,3 @@
-# Luo Sports Culture
-
 Luo youth have excelled in various sports, particularly field events (middle-distance running, long-distance running, and jumps). Beyond Gor Mahia FC, Luo athletes have achieved prominence in boxing, wrestling, and other sports. Traditional physical culture (wrestling, spear throwing, boat racing on the lake) formed the foundation of Luo athletic excellence.
 
 ## Traditional Physical Culture

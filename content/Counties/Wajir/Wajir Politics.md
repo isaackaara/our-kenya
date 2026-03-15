@@ -1,5 +1,3 @@
-# Wajir Politics
-
 Wajir County's political history reflects broader patterns in Kenya's Northern Frontier District while also demonstrating distinctive local dynamics shaped by pastoral societies, Somali clan structures, and security challenges. Contemporary politics in Wajir involves interactions between traditional clan leadership, county government institutions established through devolution, national government representatives, and civil society organizations. Political competition, governance capacity, and resource allocation remain central concerns in county development.
 
 ## Pre-Colonial and Colonial Period

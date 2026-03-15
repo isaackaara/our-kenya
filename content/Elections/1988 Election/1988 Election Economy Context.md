@@ -1,5 +1,3 @@
-# 1988 Election Economy Context
-
 Kenya's economy in 1988 was deteriorating significantly. Inflation was high, agricultural productivity was declining, and government budget deficits persisted. The economic crisis created public discontent that combined with electoral fraud outrage to fuel opposition. Economic decline under one-party rule was becoming apparent, contributing to the eventual challenge to the one-party system.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Wajir Kenya-Somalia Border
-
 The Kenya-Somalia border runs through Wajir County, creating complex geopolitical dynamics shaped by colonial history, post-independence territorial disputes, security challenges, and transnational community connections. The border's remoteness and limited government enforcement capacity create challenges for border management and security. Traditional cross-border relationships and contemporary security concerns interact in shaping border dynamics.
 
 ## Border History

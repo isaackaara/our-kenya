@@ -1,5 +1,3 @@
-# [[Raila Odinga.md|Raila Odinga]]
-
 Raila Amolo Odinga (born 1945) is the son of [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] and the most prominent Luo political figure of the post-Jaramogi era. Subjected to detention without trial and torture under Daniel arap Moi, Raila emerged in the multi-party period as the leader of the Orange Democratic Movement (ODM) and a four-time presidential candidate. His role as Prime Minister under Mwai Kibaki (2008-2013) and his controversial "Handshake" with Uhuru Kenyatta in 2018 have made him a central (and divisive) figure in Kenyan politics.
 
 ## Key Facts

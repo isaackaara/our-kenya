@@ -1,5 +1,3 @@
-# Embu in the Mau Mau
-
 The Embu community participated significantly in the Land and Freedom Army (Mau Mau) uprising (1952-1960), contributing thousands of fighters, supplies, and logistical support to the anti-colonial struggle. Embu fighters operated primarily in the Mount Kenya [[Embu and the Forest]] region, where terrain and forest cover provided strategic advantages against British counterinsurgency operations.
 
 ## Fighters and Operations

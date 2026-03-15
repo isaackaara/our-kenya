@@ -1,5 +1,3 @@
-# Marsabit Health Infrastructure
-
 Health infrastructure in Marsabit County remains limited relative to population needs. The county operates a small number of health facilities including Marsabit County Referral Hospital and scattered health centres and dispensaries in sub-counties.
 
 Distance to health services poses challenges for rural residents. Many people travel long distances to reach the nearest health facility, which may lack medicines, equipment, or trained staff. This geographic barrier contributes to high maternal and child mortality in remote areas.

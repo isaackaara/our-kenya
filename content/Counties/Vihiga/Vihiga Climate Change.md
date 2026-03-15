@@ -1,5 +1,3 @@
-# Vihiga Climate Change
-
 Climate change poses significant challenges to Vihiga County's densely populated agricultural system. Rainfall pattern changes, temperature increases, and extreme weather events threaten agricultural productivity and livelihoods. Climate change intersects with existing severe land pressure and environmental degradation, creating compounding challenges for sustainable livelihood maintenance. Adaptation capacity is limited by resource constraints and minimal landholdings.
 
 ## Rainfall Variability

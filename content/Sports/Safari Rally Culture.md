@@ -1,5 +1,3 @@
-# Safari Rally Culture: Spectators, Villages, and National Obsession
-
 The Safari Rally generates remarkable public enthusiasm across Kenya. Spectators camp roadside for days, entire communities mobilize to cheer drivers, and village stops become focal points of national attention. This cultural engagement with motorsport is unmatched by other sports in Kenya. The rally represents a unique moment when international motorsport and Kenyan community enthusiasm converge.
 
 The Safari Rally's cultural significance transcends sport and represents a national celebration of Kenya's landscape and international prestige.

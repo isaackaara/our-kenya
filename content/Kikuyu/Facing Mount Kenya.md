@@ -1,5 +1,3 @@
-# Facing [[../Conservation/Mount Kenya National Park|Mount Kenya]]
-
 Published in 1938, *Facing Mount Kenya: The Tribal Life of the Gikuyu* was [[Jomo Kenyatta]]'s anthropological study of Kikuyu society, written under the supervision of Bronislaw Malinowski at the London School of Economics. It is simultaneously a work of scholarship, a political manifesto, and an act of cultural resistance, the first major English-language account of Kikuyu society written by a Kikuyu person, at a time when African peoples were almost exclusively written *about*, never permitted to write for themselves.
 
 ## Key Facts

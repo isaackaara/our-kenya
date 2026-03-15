@@ -1,5 +1,3 @@
-# Kajiado County
-
 Kajiado County is located south of Nairobi, stretching from the capital's urban fringe across semi-arid lowlands to the Tanzania border. With a population of approximately 1.1 million, the county is predominantly [[../../Maasai/Maasai|Maasai]] and experiences rapid transformation as Nairobi's urban expansion extends into traditional pastoral territories.
 
 The county encompasses Amboseli National Park (famous for elephants viewed against Mount Kilimanjaro), extensive community conservancies, and rapidly developing urban satellite towns including Kitengela, Rongai, and Kiserian that effectively function as extensions of Nairobi's sprawl.

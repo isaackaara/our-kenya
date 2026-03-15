@@ -1,5 +1,3 @@
-# African Gospel Music Kenya
-
 Kenyan gospel music's evolution from American imitation to distinctly African expression represents one of the most significant cultural achievements of Kenya's [[Music/Kenyan Gospel Music Boom|gospel explosion]]. By the 1990s and 2000s, Kenyan artists had developed gospel sounds that honored African musical traditions while maintaining Christian theological content, resolving tensions between faith and cultural identity that had plagued African Christianity since colonial missions.
 
 Early [[Music/Praise and Worship Movement Kenya|charismatic worship]] in Kenya closely imitated American and British models. Songs, arrangements, and performance styles replicated Western evangelical templates with little adaptation to African contexts. This imitation reflected both reverence for Western Christianity and limited confidence in indigenous African Christian expression's legitimacy.

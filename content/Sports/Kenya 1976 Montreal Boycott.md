@@ -1,5 +1,3 @@
-# Kenya 1976 Montreal Boycott: When Politics Erased Olympic Opportunity
-
 Kenya, along with 28 other African nations, boycotted the 1976 Montreal Olympics in protest of New Zealand's refusal to condemn South African apartheid and New Zealand's decision to allow a rugby team to compete in New Zealand against apartheid South Africa. This geopolitical stance was principled but had consequences: elite Kenyan athletes at their competitive peaks, including [[Mike Boit|Mike Boit]], were denied the opportunity to compete at the Olympic Games.
 
 Mike Boit, Kenya's 800-meter specialist, was 27 years old at the 1976 Olympics and at his peak competitive years. Missing the Olympics during this window permanently limited his Olympic medal count and legacy. Similar impacts affected other Kenyan athletes who would have been strong contenders for medals in 1976.

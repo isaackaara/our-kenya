@@ -1,5 +1,3 @@
-# Kalenjin Body Adornment
-
 Body adornment among the Kalenjin served aesthetic, status, and functional purposes. Beadwork, ochre, and other adornments were gendered and age-set specific, communicating status, age, marital condition, and warrior achievement. The specific meaning of adornments differed by gender, age-set, and community.
 
 ## Beadwork Traditions

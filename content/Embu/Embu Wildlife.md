@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]] Wildlife
-
 Embu County's diverse elevation zones support varied wildlife populations. Mount Kenya [[Embu and the Forest]] zone supports forest-specific species. Lower elevation zones support savanna and semi-arid adapted species. The Mwea National Reserve provides significant wildlife habitat. Climate change and habitat loss threaten many species.
 
 ## Forest Wildlife

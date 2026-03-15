@@ -1,5 +1,3 @@
-# The Kenya Oil Project
-
 The Kenya [[Oil Discovery in Turkana]] Project encompasses the development, production, and export of oil discovered in Turkana County's South Lokichar Basin. The project includes the Early Oil Pilot Scheme (EOPS) for initial extraction and truck-based export, and longer-term pipeline infrastructure (part of the broader LAPSSET corridor proposal) for larger-scale production.
 
 ## Early Oil Pilot Scheme (EOPS)

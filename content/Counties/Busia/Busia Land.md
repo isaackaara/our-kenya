@@ -1,5 +1,3 @@
-# Busia Land
-
 Land tenure in Busia County is predominantly individual ownership through title deeds, with some communal holdings in pastoral areas. Land privatization has been extensive, replacing colonial and post-independence communal tenure systems. Individual landholdings range from small plots (0.25 acres) to larger commercial farms. Title registration provides legal ownership documentation. Agricultural land is the dominant land type, with some pastoral communal ranches. Government and community-held land exists alongside private holdings. Land inheritance follows customary rules, often favoring male heirs. Land subdivision from inheritance creates farm fragmentation. Young farmers face land access difficulties due to limited availability and high prices. Land disputes arise from competing claims, inheritance ambiguity, and boundary uncertainties.
 
 ## Land Acquisition and Disputes

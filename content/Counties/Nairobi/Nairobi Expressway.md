@@ -1,5 +1,3 @@
-# Nairobi Expressway: The Toll Road Solution
-
 The Nairobi Expressway, officially opened in March 2022, is a 27-kilometer elevated toll highway connecting Nairobi's southern suburbs to the central business district. It was built by the China Road and Bridge Corporation (CRBC) and is operated under a public-private partnership model with toll revenues supporting operation and maintenance.
 
 ## Construction and Financing

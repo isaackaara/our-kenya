@@ -1,5 +1,3 @@
-# Somali Business Networks in Kenya
-
 [[Somali Business Networks|Somali business]] success in Kenya depends on formal and informal networks organized partly by [[Somali Clan System Kenya|clan]] affiliation, partly by [[Kenyan Somali Diaspora (Global)|diaspora]] connections, and increasingly by professional networks and shared commercial interest. These networks reduce transaction costs, enable access to capital and information, and connect Kenya-based businesses to global supply chains and diaspora investment.
 
 ## Clan-Based Networks

@@ -1,5 +1,3 @@
-# West Pokot Notable People
-
 West Pokot County has produced notable Kenyans in politics, peace advocacy, sports, and business. Political leaders from the county include governors, parliament members, and government appointees. Peace advocates from West Pokot have worked to reduce inter-communal conflict and promote pastoral reconciliation. Sports personalities from the county have participated in national and international competitions. Business entrepreneurs have established pastoral product trading and processing enterprises. Civil society leaders have organized community development and advocacy initiatives. Religious leaders have promoted interfaith dialogue and community welfare. Academic researchers from the county have studied pastoral systems and conflicts. Healthcare workers have supported health services in the county. Women leaders have promoted women's empowerment and gender equality. Many notable people maintain connections to home communities while pursuing careers elsewhere.
 
 ## Political and Advocacy Leaders

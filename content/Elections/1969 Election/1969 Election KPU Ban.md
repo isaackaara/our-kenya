@@ -1,5 +1,3 @@
-# 1969 Election KPU Ban
-
 The banning of the [[Kenya People's Union]] (KPU) in October 1969, just weeks before the election, was the decisive act that transformed Kenya into a single-party state. [[Jomo Kenyatta]]'s government declared the KPU illegal and banned [[Oginga Odinga]] and other KPU leaders from holding office or campaigning. The ban was justified on grounds of national security and public order, but it represented a naked suppression of political opposition and a consolidation of KANU's monopoly control over Kenya's electoral system.
 
 The KPU had been established in 1966 by Odinga after his resignation from KANU and the government. The party had attracted substantial support, particularly among Luo voters who felt excluded from KANU's centralizing authority and among intellectuals and workers who favored Odinga's socialist platform. In the years between 1966 and 1969, the KPU had functioned as Kenya's main opposition party, holding rallies, publishing manifestoes, and preparing for electoral competition against KANU in a multiparty system.

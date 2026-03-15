@@ -1,5 +1,3 @@
-# Civil Service Salaries and Petty Corruption: The Economy of Bribes
-
 ## The Wage-Corruption Link
 
 Kenya's civil service is severely underpaid. A Kenya Police officer earns approximately KES 30,000-40,000 monthly (USD 230-310). A junior [[Customs Corruption Kenya|customs]] official earns similarly. A junior nurse earns KES 25,000-35,000 monthly.

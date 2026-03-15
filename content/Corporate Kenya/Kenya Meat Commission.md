@@ -1,5 +1,3 @@
-# [Title to be filled]
-
 [Substantive overview of the topic with key points]
 
 Kenya's economy encompasses diverse sectors and industries, each with historical significance and contemporary challenges.

@@ -1,5 +1,3 @@
-# 1979 Election Detainee Release
-
 One of the most significant early acts of Moi's government was the release of political prisoners who had been detained under Kenyatta. These prisoners had been held in various detention facilities across Kenya, some for extended periods, and their release was celebrated as evidence of Moi's commitment to reconciliation and to a more open political system than Kenyatta had maintained.
 
 Among the significant detainees released was Sergei Kubai, who had been imprisoned for his involvement in radical politics and labor organizing. Kubai's release was symbolically important because it suggested that the new government would tolerate dissent and organizing that the Kenyatta regime had suppressed. However, Kubai's subsequent re-detention would demonstrate that the tolerance implied by initial releases had limits.

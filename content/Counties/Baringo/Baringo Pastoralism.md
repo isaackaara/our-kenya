@@ -1,5 +1,3 @@
-# Baringo Pastoralism
-
 Baringo County's pastoral communities traditionally managed cattle and camel herds as primary livelihood and wealth indicator, with pastoral systems adapted to semi-arid climate and seasonal water availability. Contemporary pastoral systems increasingly combine livestock with agriculture and other livelihood activities.
 
 ## Pastoral Production Systems

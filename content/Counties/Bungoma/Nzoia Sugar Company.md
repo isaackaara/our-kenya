@@ -1,5 +1,3 @@
-# Nzoia Sugar Company
-
 Nzoia Sugar Company is a government-owned sugar factory located in Bungoma County, serving as a major industrial facility processing sugarcane from the county and surrounding regions. The company operates as a state enterprise under government ownership and management, representing significant public investment in sugar production infrastructure. The factory provides employment and processes farmer output, though operational and financial challenges persist.
 
 ## Establishment and Operations

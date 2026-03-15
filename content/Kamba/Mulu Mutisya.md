@@ -1,5 +1,3 @@
-# Mulu Mutisya
-
 Mulu Mutisya emerged as the dominant Kamba political figure from the 1970s through the 1990s. His rise to power, his relationship with Moi's KANU government, and his legacy as a "king of the Kamba" reveal tensions between ethnic leadership and regime loyalty in single-party Kenya.
 
 ## Rise to Political Power

@@ -1,5 +1,3 @@
-# Adani Deal Controversy: Infrastructure and Aviation Contracts Withdrawn
-
 ## The Proposed Deals
 
 In 2024, the [[William Ruto Corruption Allegations|Ruto government]] entered into negotiations with Adani Group (Indian conglomerate based in Mumbai, led by Gautam Adani) for two major contracts:

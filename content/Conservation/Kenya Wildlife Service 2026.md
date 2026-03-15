@@ -1,5 +1,3 @@
-# Kenya Wildlife Service 2026
-
 The [[Kenya Wildlife Service|Kenya Wildlife Service]] (KWS) is the primary government agency responsible for [[Kenya Conservation Overview|wildlife conservation and management]] in Kenya, operating under the Ministry of Tourism. The organization has evolved substantially since its establishment, with varying effectiveness and capacity. As of 2026, KWS faces ongoing challenges including funding constraints, staffing pressures, corruption risks, and adaptation to contemporary conservation challenges including climate change and community engagement.
 
 ## Organization and Mandate

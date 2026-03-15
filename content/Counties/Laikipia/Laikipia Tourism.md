@@ -1,5 +1,3 @@
-# Laikipia Tourism
-
 High-end wildlife tourism is a major economic sector in Laikipia County. Ranches and conservancies operate tourism lodges providing accommodation and safari experiences. International visitors seek wildlife viewing on the Laikipia plateau. Tourism generates substantial revenue supporting conservation and employment. Nanyuki serves as a tourism hub with accommodations and services. Tourism infrastructure has expanded as demand has grown.
 
 ## Lodge Operations

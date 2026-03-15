@@ -1,5 +1,3 @@
-# Garissa University Attack
-
 On April 2, 2015, Al-Shabaab gunmen attacked Garissa University College, killing 148 people (mostly students), making it the deadliest terrorist attack in Kenya since the 1998 US Embassy bombing. The attack had profound impacts on Kenya's security, education policy, and national conversation about terrorism.
 
 The attack began in the morning when armed gunmen entered the university campus. They separated students by religion, targeting Christian students while allowing Muslim students to leave. The gunmen conducted a prolonged siege, firing on students in dormitories and buildings. Security forces eventually arrived and engaged the attackers, but casualties were already catastrophic. Nearly all victims were students, many from Christian backgrounds from southern Kenya.

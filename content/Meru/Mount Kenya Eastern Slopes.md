@@ -1,5 +1,3 @@
-# Mount Kenya Eastern Slopes
-
 The eastern slopes of [[Mount Kenya]] hold significance for the [[Meru]] people from ecological, cultural, and economic perspectives. These slopes are less visited by tourists and trekkers than the main western approaches but contain important biodiversity and are home to [[Meru]] communities including [[Tharaka]].
 
 ## Geography and Ecology

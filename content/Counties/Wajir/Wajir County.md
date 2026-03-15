@@ -1,5 +1,3 @@
-# Wajir County
-
 Wajir County is one of Kenya's most remote and challenging administrative regions, located in the northeastern corner of the country bordering Somalia and Ethiopia. The county covers an expansive area of approximately 20,000 square kilometers of predominantly arid and semi-arid landscape. With a population of approximately 800,000 people, Wajir is one of the least densely populated counties in Kenya, reflecting the harsh environmental conditions and limited economic opportunities that characterize the region.
 
 The county is named after its headquarters, Wajir Town, a significant trade center in Kenya's Northern Frontier District (NFD). Wajir County's administrative organization includes several subcounties and numerous wards, structured to serve a population spread across vast distances with minimal infrastructure.

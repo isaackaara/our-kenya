@@ -1,5 +1,3 @@
-# Anti-Corruption Civil Society: Fighting Graft Without Government
-
 ## The Landscape
 
 Kenya has a robust [[Corruption in Kenya Overview|civil society]] sector dedicated to fighting corruption. These organizations conduct investigations, publish reports, advocate for reform, and monitor government institutions.

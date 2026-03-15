@@ -1,5 +1,3 @@
-# Kenyatta Cabinet
-
 Jomo Kenyatta's inner circle was a carefully balanced assembly of competing political factions, regional interests, and ambitious individuals. The cabinet served as both a governing body and a mechanism through which Kenyatta consolidated power. Understanding its composition and dynamics is essential to understanding how the Kenyatta presidency actually functioned.
 
 The most prominent figure in the early cabinet was [[Oginga Odinga]], the Vice President who represented the Luo community and embodied a more radical, socialist-leaning vision for Kenya's future. Odinga was a powerful politician in his own right with a substantial following, particularly among the Luo. His presence in the cabinet was partly a reconciliation gesture from Kenyatta to the non-Kikuyu communities, yet it also created tension. Odinga and Kenyatta represented different visions for Kenya: Odinga favored a more state-directed economy and sought to balance out Kenyatta's Kikuyu centrism with Luo interests.

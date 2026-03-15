@@ -1,5 +1,3 @@
-# The Anglo Leasing Scandal: Security Contracts Worth USD 800 Million
-
 ## A New Form of Fraud
 
 The Anglo Leasing scandal was exposed in 2004, during the presidency of Mwai Kibaki. Unlike [[Goldenberg Scandal|Goldenberg]], which involved phantom commodity exports, Anglo Leasing involved phantom security contracts. The government awarded massive contracts for security equipment and services that either did not exist or were grossly overpriced.

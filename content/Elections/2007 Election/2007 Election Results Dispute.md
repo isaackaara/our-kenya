@@ -1,5 +1,3 @@
-# 2007 Election Results Dispute
-
 The official ECK result announced that [[Kibaki]] won with approximately 4.3 million votes (59 percent) compared to [[Raila]]'s approximately 2.9 million votes (41 percent). However, ODM's parallel vote tabulation suggested different results, with some ODM calculations suggesting that Raila had actually won. International observers, while not conducting a definitive parallel count, documented numerous irregularities and stated that they could not verify the ECK's announced results. The disputed results, combined with Kivuitu's later admission of uncertainty, created widespread perception that Kibaki had stolen the election. This perception drove the violence that followed, as opposition supporters viewed the announced results as illegitimate.
 
 ## See Also

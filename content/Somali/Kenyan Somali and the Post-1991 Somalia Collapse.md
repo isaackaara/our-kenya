@@ -1,5 +1,3 @@
-# Kenyan Somali and the Post-1991 Somalia Collapse
-
 When the [[Somalia|Somali]] state collapsed in 1991 following the overthrow of Siad Barre's dictatorship, waves of refugees crossed into Kenya seeking safety. This created one of the world's largest refugee complexes at [[Dadaab Refugee Complex]], profoundly affecting the [[Kenyan Somali Identity|Kenyan Somali]] community. The collapse transformed the relationship between Kenya's Somali and [[Somalia|Somalia]]'s collapse dramatically altered Somali life in Kenya.
 
 ## The 1991 Collapse

@@ -1,5 +1,3 @@
-# Athi River Town
-
 Athi River, officially known as Mavoko, is an industrial satellite town located on the border between Nairobi and Machakos Counties on the Nairobi-Mombasa highway. The town has emerged as a major industrial and commercial centre serving the greater Nairobi metropolitan area. Its strategic location provides access to Nairobi markets while offering lower-cost land and flexible regulatory environments compared to the capital city.
 
 The town's development accelerated significantly during the 1990s and 2000s as industrial enterprises relocated from Nairobi proper seeking cheaper land and manufacturing space. Today, Athi River hosts numerous manufacturing facilities, warehouses, and commercial establishments. The town functions as a logistics hub for goods destined for Nairobi and beyond.

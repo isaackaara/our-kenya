@@ -1,5 +1,3 @@
-# Nairobi's Economy: Financial Hub of East Africa
-
 Nairobi's economy is the largest in East Africa and generates approximately 25 to 30 percent of Kenya's total GDP. The city is the regional center for financial services, telecommunications, manufacturing, retail, and international development organizations.
 
 ## Financial Services

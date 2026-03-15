@@ -1,5 +1,3 @@
-# Trans-Nzoia Timeline
-
 This timeline documents key dates and events in Trans-Nzoia County history from the colonial period through 2026.
 
 ## Early Colonial Period (1895-1920s)

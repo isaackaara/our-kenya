@@ -1,5 +1,3 @@
-# Somali and Kenyan Citizenship: Documentation Barriers and Identity Ambiguity
-
 Many Somali in Kenya face difficulty obtaining and maintaining Kenyan identity documents, despite being Kenyan citizens by birth or long-term residence. Systematic barriers to ID card access have created profound citizenship and identity challenges, with Somali youth particularly affected. The documentation barriers function as both practical constraints on employment and education and symbolic assertions of non-belonging.
 
 ## Legal Framework and Citizenship Rights

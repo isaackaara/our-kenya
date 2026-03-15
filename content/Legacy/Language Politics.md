@@ -1,5 +1,3 @@
-# Language Politics
-
 Kenya has over 60 indigenous languages. Colonial policy suppressed most of them in schools, restricting African education to Swahili and English. Post-independence policy continued this suppression. The result: many Kenyan languages are endangered and losing speakers with each generation. The question remains unresolved: how does Kenya balance national unity (which seems to require shared languages) with cultural preservation (which requires maintaining indigenous languages)?
 
 ## Key Facts

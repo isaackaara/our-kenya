@@ -1,5 +1,3 @@
-# Busia Sugar
-
 Sugarcane farming and sugar production are central to Busia County's agricultural economy. The Mumias Sugar Company, based in Kakamega County, sources substantial cane from Busia farmers. Smallholder and large-scale farmers cultivate sugarcane on varying landholdings. Sugarcane provides more stable income than other crops due to contract farming arrangements. The growing cycle (18-24 months) provides continuous harvesting and income flow. Land contracts between farmers and the sugar company provide input credit and guaranteed markets. Cooperative unions organize smallholder farmers for collective action. Sugarcane processing into sugar and molasses generates industrial employment. By-products (bagasse) are utilized for fuel and animal feed. Market demand for sugar remains strong regionally and nationally.
 
 ## Production and Contracting

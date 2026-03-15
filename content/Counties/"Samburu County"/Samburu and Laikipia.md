@@ -1,5 +1,3 @@
-# Samburu and Laikipia Plateau Relationships
-
 The Samburu community's relationship with the Laikipia plateau reflects complex interactions between pastoral systems, conservation initiatives, and land use change. Samburu pastoralists have historical connections to Laikipia grazing lands through pastoral movement patterns.
 
 The Laikipia plateau, adjacent to Samburu County and lying between Samburu and the central highlands, supports pastoral grazing communities including Samburu herders who traditionally accessed Laikipia's pastures seasonally. This access provided crucial dry season grazing when lower-altitude pastoral areas experienced forage scarcity.

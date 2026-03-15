@@ -1,5 +1,3 @@
-# Luo Birth Customs
-
 Birth among the Luo is surrounded by ritual, naming practice, and spiritual binding of the child to the family homestead. The newborn is not simply arrived but integrated through ceremony, naming, and food practices.
 
 ## The Role of the Grandmother

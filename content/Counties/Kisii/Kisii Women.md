@@ -1,5 +1,3 @@
-# Kisii Women
-
 Women play central roles in [[Kisii County.md|Kisii County's]] agricultural economy and society, contributing substantially to household food security, income generation, and community development. Despite their contributions, women face persistent challenges in accessing resources and decision-making power.
 
 ## Agricultural Production

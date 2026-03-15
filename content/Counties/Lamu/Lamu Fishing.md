@@ -1,5 +1,3 @@
-# Lamu Fishing
-
 Fishing is the traditional livelihood of Lamu's coastal communities, providing protein and income for thousands of [[Bajuni People|Bajuni]] and Swahili families. The Lamu Archipelago's surrounding waters are rich in fish species, and dhow fishing in the Indian Ocean remains a major economic activity despite pressures from modern industrial fishing, climate change, and the shift of younger workers to tourism and service sectors.
 
 The traditional fishing technology is the dhow, a wooden sailing vessel with one or two triangular sails. Dhows have been used for Indian Ocean trade and fishing for centuries, representing a sophisticated adaptation to the monsoon winds and ocean currents of the region. In Lamu, dhows range from small boats for near-shore fishing to larger vessels for deep-sea fishing trips lasting several days. The construction of dhows is a specialized craft, with boat builders using timber (historically mangrove wood, now increasingly imported timber due to mangrove depletion) and traditional joinery techniques.

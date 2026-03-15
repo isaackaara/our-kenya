@@ -1,5 +1,3 @@
-# Nyamira Land
-
 Land tenure in Nyamira County reflects customary systems and modern property law. Land pressure from high population density creates tensions and disputes affecting agricultural productivity and economic development.
 
 ## Land Tenure Systems

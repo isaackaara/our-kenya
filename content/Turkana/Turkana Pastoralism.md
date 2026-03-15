@@ -1,5 +1,3 @@
-# Turkana Pastoralism
-
 The Turkana are primarily nomadic (or semi-nomadic) pastoralists whose livelihood centers on the herding and management of livestock. [[Turkana Pastoralism]] is not merely an economic activity but a foundational aspect of Turkana identity, social organization, and cultural values. The Turkana herd primarily cattle, camels, goats, sheep, and donkeys, each species adapted to particular ecological conditions and [[Drought and Famine]] resilience.
 
 ## Livestock Types and Their Roles

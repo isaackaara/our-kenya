@@ -1,5 +1,3 @@
-# Tharaka and Drought
-
 The Tharaka have adapted to a semi-arid environment characterized by periodic droughts. Recurring drought remains the most serious environmental hazard faced by Tharaka communities, creating food security crises and threatening livestock wealth.
 
 ## Drought Occurrence

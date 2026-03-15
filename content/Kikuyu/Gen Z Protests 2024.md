@@ -1,5 +1,3 @@
-# Gen Z Protests 2024
-
 In June and July 2024, Kenya was shaken by a wave of protests unlike anything in its post-independence history: leaderless, cross-ethnic, digitally organised by Generation Z citizens (those born after roughly 1996), and aimed at the Finance Bill 2024 that proposed new taxes during an acute cost-of-living crisis. The protests forced the most significant political capitulation of the [[William Ruto Presidency]], and announced a new generation of Kenyan civic identity that cut across the ethnic voting patterns that had defined every election since 1992.
 
 ## Key Facts

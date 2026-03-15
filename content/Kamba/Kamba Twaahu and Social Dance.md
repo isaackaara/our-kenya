@@ -1,5 +1,3 @@
-# Kamba Twaahu and Social Dance
-
 Beyond the sacred Kilumi dance, the Kamba engaged in various social and competitive dances that served entertainment, courtship, and community bonding functions. These dances reflected Kamba values of achievement, aesthetic appreciation, and intergenerational transmission of cultural knowledge.
 
 ## Mwali and Young Women's Dance

@@ -1,5 +1,3 @@
-# Daniel arap Moi and Baringo
-
 Daniel arap Moi (1924-2020) was Kenya's second President, serving from 1978 to 2002 and becoming Africa's longest-serving head of state at the time of his retirement. Moi was born in Baringo County into the Tugen community and remained closely associated with the county throughout his political career.
 
 Moi's presidency profoundly shaped Kenya's political, economic, and social development, and his Baringo origins influenced his relationship with pastoral communities and Rift Valley development priorities.

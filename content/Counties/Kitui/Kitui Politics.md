@@ -1,5 +1,3 @@
-# Kitui Politics
-
 Kitui County politics reflects broader Kenyan patterns of ethnic mobilization, personality-driven leadership, and competition for state resources. The Kamba constitute the dominant ethnic group, with Kamba political preferences significantly shaping electoral outcomes. Political competition in Kitui involves multiple parties competing for governorship and assembly positions.
 
 Precolonial Kamba political structures emphasized consensus-based decision-making through councils of elders. Colonial administration disrupted these structures through imposed chiefs and administrative authorities. Postcolonial politics introduced national parties and electoral competition, transforming political organization substantially.

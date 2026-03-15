@@ -1,5 +1,3 @@
-# Witchcraft in Kisii Society
-
 The Gusii have historically maintained strong beliefs in witchcraft (oborogi), understanding it as a real and dangerous form of harmful power. Witchcraft accusations have been a persistent feature of Gusii society, and in the contemporary period, the issue has taken on tragic dimensions as alleged witches (particularly elderly women) have been subjected to mob violence and killing.
 
 ## Witchcraft in Traditional Gusii Cosmology

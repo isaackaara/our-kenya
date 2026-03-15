@@ -1,5 +1,3 @@
-# Kajiado Youth
-
 Kajiado youth navigate distinctive opportunities and challenges shaped by pastoral heritage, land loss, education access improvements, urban-proximity employment opportunities, and limited economic prospects in traditional pastoral sectors.
 
 ## Education and Skills Development

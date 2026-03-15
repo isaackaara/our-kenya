@@ -1,5 +1,3 @@
-# The Land Question
-
 Land has been the fundamental issue in Kenyan history. The White Highlands, the best agricultural land, were declared property of the British Crown and given to settlers from Europe. Kikuyu, Maasai, and other communities lost access to land that they had occupied.
 
 The land seizure was the deepest wound of colonialism. It was not an abstract political domination. It was the loss of the ground you stood on, the source of your livelihood, the place of your ancestors. Land dispossession was cultural destruction.

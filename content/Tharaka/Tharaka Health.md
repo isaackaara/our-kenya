@@ -1,5 +1,3 @@
-# Tharaka Health
-
 Health infrastructure and health outcomes in Tharaka territory reflect both progress in health service delivery and ongoing challenges related to poverty, distance, and capacity constraints.
 
 ## Health Service Infrastructure

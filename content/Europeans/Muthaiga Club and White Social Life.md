@@ -1,5 +1,3 @@
-# Muthaiga Club and White Social Life
-
 The [[Muthaiga Country Club]], founded in 1913 in the [[Nairobi]] suburb of Muthaiga, remains the most iconic institution of [[settler-era]] social life in Kenya. Originally established as an exclusive space for [[white settler elite]] (with explicit exclusion of [[Africans]], [[Asians]], and other non-whites), Muthaiga symbolizes the [[social segregation]] and [[class hierarchy]] that defined [[colonial]] and early post-colonial Kenya. In 2026, Muthaiga has undergone formal [[racial integration]] while remaining culturally shaped by its [[settler origins]], functioning as a microcosm of [[white Kenyan identity]] and social continuity.
 
 ## The Colonial Muthaiga: The Heart of Happy Valley

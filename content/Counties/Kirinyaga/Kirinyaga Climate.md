@@ -1,5 +1,3 @@
-# Kirinyaga Climate
-
 Kirinyaga County experiences the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] microclimate, characterized by substantial rainfall, moderate temperatures, and seasonal variation. The altitude gradient from the lowland plains to the high mountain slopes creates multiple distinct climate zones. This climatic diversity supports varied agricultural production including coffee, tea, rice, dairy, and horticulture. Climate variability, including periodic droughts, affects agricultural productivity and food security.
 
 ## Rainfall Pattern

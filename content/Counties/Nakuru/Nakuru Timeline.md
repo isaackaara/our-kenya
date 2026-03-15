@@ -1,5 +1,3 @@
-# Nakuru County Timeline (1900-2026)
-
 1904 - Nakuru railway station established as a colonial administrative and commercial settlement.
 
 1920s-1960s - White Highlands period, with European settler farms dominating Nakuru agriculture and politics.

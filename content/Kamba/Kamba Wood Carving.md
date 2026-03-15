@@ -1,5 +1,3 @@
-# Kamba Wood Carving
-
 Kamba wood carving is the most globally recognizable Kamba cultural product, visible in tourist markets across Kenya and museums worldwide. The Wamunyu market in Machakos district has become the carving capital of Kenya, with organized cooperatives and thousands of artisans producing intricate wooden sculptures, figurines, and decorative pieces for local, regional, and international markets. The craft represents both traditional Kamba artistry and a remarkable example of commercialization and cooperative organization in colonial and post-independence Africa.
 
 ## Key Facts

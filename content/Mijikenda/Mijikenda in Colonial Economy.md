@@ -1,5 +1,3 @@
-# Mijikenda in Colonial Economy
-
 The British colonial period transformed [[Mijikenda]] economic life, incorporating [[Mijikenda]] communities into a colonial capitalist system structured to benefit European settlers and British commercial interests. This integration was often experienced as exploitation and deepened inequalities.
 
 ## Labor Demands and Taxation

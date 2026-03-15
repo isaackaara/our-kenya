@@ -1,5 +1,3 @@
-# Busia Fishing
-
 Fishing is an important livelihood in Busia County, particularly in areas with water access. Lake Victoria shoreline provides significant fishing grounds. The Yala Swamp supports fish production and livelihood activities. Rivers and seasonal water bodies provide supplementary fishing opportunities. Commercial fishing operations use larger boats and nets. Smallholder fishing uses canoes and nets for household consumption and market sale. Fish species include tilapia, catfish, and other freshwater species. Fish trading networks distribute fresh and processed fish to regional markets. Fish meal and fertilizer production utilizes fish waste. Employment in fishing includes boat operators, net makers, and traders. Women participate significantly in fish processing and trading.
 
 ## Lake Victoria and Swamp Fishing

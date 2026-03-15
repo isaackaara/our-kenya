@@ -1,5 +1,3 @@
-# Islam in Northern Kenya
-
 Islam is central to [[Kenyan Somali|Kenyan Somali]] identity and life. The [[Kenyan Somali]] are overwhelming Sunni Muslims, primarily of the Shafi'i school of jurisprudence. Islam structures family law, inheritance, social ethics, and community governance. Mosques serve as community centres. Religious education through madrasas is important for youth formation. However, the religious landscape has been transformed in recent decades by the growth of Salafi and Wahhabi movements funded by Gulf donors, creating tensions with traditional Sufism.
 
 ## Sunni Islam and Shafi'i School

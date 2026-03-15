@@ -1,5 +1,3 @@
-# Kipchoge Keino
-
 Kipchoge Keino is recognized as the father of Kenyan athletics and one of the greatest distance runners in history. His Olympic victories established Kenya as a major force in global athletics, opened pathways for generations of Kenyan runners, and created a legacy of philanthropy and leadership that extended far beyond sport.
 
 ## Olympic Victories

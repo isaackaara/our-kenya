@@ -1,5 +1,3 @@
-# Paul Ereng: The Young Turkana 800m Champion
-
 Paul Ereng represented Kenya at the 1988 Seoul Olympics and won the gold medal in the 800 meters in 1:46.46, becoming Kenya's 800-meter Olympic champion. What made Ereng's victory notable was his youth and relative inexperience: at age 21, Ereng was among the youngest runners to win Olympic 800-meter gold, and his achievement was particularly striking because he had barely competed internationally before being selected for Kenya's Olympic team.
 
 Ereng was born in 1967 in Turkana District, in northwestern Kenya. The Turkana people are primarily pastoral, not known historically for distance running production in the way that the [[../Kalenjin/Kalenjin|Kalenjin]] people are. Ereng's emergence as an elite 800-meter runner represented an atypical career trajectory for a Kenyan athlete at that era: most elite Kenyans at that time were long-distance runners from the Rift Valley.

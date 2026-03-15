@@ -1,5 +1,3 @@
-# 2017 Election Timeline
-
 This timeline documents key dates and events in Kenya's 2017 general election process, from campaign initiation through the handshake reconciliation in March 2018.
 
 ## Pre-Election Phase

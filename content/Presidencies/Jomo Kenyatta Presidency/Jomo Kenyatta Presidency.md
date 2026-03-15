@@ -1,5 +1,3 @@
-# Jomo Kenyatta Presidency
-
 The presidency of Jomo Kenyatta from 1963 to 1978 marked Kenya's transition from colonial possession to independent nation-state. As the country's first president, Kenyatta presided over the crucial period of nation-building that would set the trajectory for decades to come. His tenure was characterized by the pursuit of national unity under the rallying cry of "Harambee" (pulling together), yet it was also marked by significant contradictions between rhetoric and reality.
 
 Kenyatta brought considerable symbolic weight to independence. His detention by the British colonial authorities at [[Kapenguria|Kenyatta Detention Legacy]] from 1952 to 1961 had made him a nationalist symbol, and his release and ascension to leadership was welcomed as the crowning moment of the anti-colonial struggle. Yet his presidency would evolve into something more complex and contested than many independence-era nationalists had envisioned.

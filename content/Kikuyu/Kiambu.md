@@ -1,5 +1,3 @@
-# Kiambu
-
 Kiambu is the southernmost district of the traditional Kikuyu homeland, the frontier zone where the Kikuyu expansion of the 18th and 19th centuries pushed closest to what would become Nairobi. It is the most politically significant Kikuyu district in the colonial era: proximity to Nairobi made it the entry point for missionary education, wage labour, and colonial administration, and it produced [[Harry Thuku]], [[Jomo Kenyatta]], and many of the [[Kikuyu Central Association]]'s founding members.
 
 ## Key Facts

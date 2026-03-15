@@ -1,5 +1,3 @@
-# Ethiopia and Kenya
-
 [[Ethiopia Kenya]] maintain complex relationships shaped by shared borders, pastoral communities, regional leadership ambitions, and contemporary infrastructure projects. Ethiopia, as the only African nation that resisted colonization, brings historical distinctiveness to [[East African Community]] relationships.
 
 ## Shared Border Communities

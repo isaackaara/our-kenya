@@ -1,5 +1,3 @@
-# Bomet Climate
-
 Bomet County experiences a highland climate with cool temperatures and bimodal rainfall, creating favorable agricultural conditions in many areas. Climate patterns significantly influence farming systems and livelihood activities.
 
 ## Climate Type

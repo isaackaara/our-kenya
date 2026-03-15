@@ -1,5 +1,3 @@
-# Kibera: Africa's Largest Informal Settlement
-
 Kibera is the largest informal settlement in sub-Saharan Africa. Located in the southwestern part of Nairobi, it covers approximately 6 square kilometers and houses an estimated 250,000 to over 1 million residents, making it one of the densest urban settlements on the continent.
 
 ## Origins: Nubian KAR Soldiers

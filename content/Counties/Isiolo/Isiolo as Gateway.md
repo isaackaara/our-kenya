@@ -1,5 +1,3 @@
-# Isiolo as the Gateway to the North
-
 Isiolo occupies a pivotal geographical position in Kenya's history and contemporary development. For much of the twentieth century, Isiolo marked the terminus of reliable paved road infrastructure, making it the literal boundary between motorised transport and pastoral economies dependent on animal movement and foot tracks.
 
 This "end of tarmac" role gave Isiolo disproportionate importance. Supply lines from Nairobi ended here. Northern traders and pastoralists collected goods at Isiolo for distribution further north to Marsabit, Moyale, and beyond. The town became essential infrastructure for any movement between the agricultural central highlands and the arid pastoralist north.

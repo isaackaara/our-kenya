@@ -1,5 +1,3 @@
-# Mandera Education Challenges
-
 [[Mandera County]] faces distinctive challenges in expanding and improving educational access and quality. As one of Kenya's most remotely located, lowest-development counties with a predominantly pastoral [[Kenyan Somali Identity|Somali]] population, [[Mandera County]]'s [[Mandera Education Challenges|education system]] struggles with infrastructure gaps, resource constraints, and cultural factors limiting educational participation, particularly for girls and in secondary schooling.
 
 ## Enrollment and Participation Gaps

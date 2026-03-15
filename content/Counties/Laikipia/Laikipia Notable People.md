@@ -1,5 +1,3 @@
-# Laikipia Notable People
-
 Several prominent Kenyans have come from Laikipia County, contributing to politics, conservation, business, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Laikipia's wildlife conservation prominence has produced conservation leaders. Ranching and business leaders have emerged from the county. Political representation has influenced national policies.
 
 ## Conservation Leaders

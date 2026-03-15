@@ -1,5 +1,3 @@
-# Marsabit Pastoralism
-
 Pastoralism represents the dominant livelihood system across Marsabit County. Herders raise camels, cattle, and goats, adapted to the county's arid environments through centuries of ecological knowledge and cultural development.
 
 Camel herding dominates in the Chalbi Desert and most arid zones. Camels survive on minimal water and sparse forage, making them the only livestock species feasible in extreme desert areas. Camels produce milk consumed within households and sold in markets. Camel meat provides protein. Hides produce leather goods.

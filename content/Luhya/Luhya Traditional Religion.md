@@ -1,5 +1,3 @@
-# Luhya Traditional Religion
-
 Before widespread Christian conversion in the twentieth century, the Luhya possessed a sophisticated religious system centered on a supreme being, ancestor veneration, sacred places, and professional spiritual practitioners. While Christianity now dominates, many Luhya communities maintain overlapping belief systems that blend Christian and traditional elements.
 
 ## The Supreme Being: Were (Wele)

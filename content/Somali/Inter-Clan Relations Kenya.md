@@ -1,5 +1,3 @@
-# Inter-Clan Relations in Kenya
-
 [[Somali]] clan relations in Kenya reflect centuries of pastoral competition, colonial boundaries that cut across clan territories, and the destabilizing effects of the [[Somalia|Somali state collapse]] in 1991. Within Kenya, different [[Somali]] clans coexist, cooperate, and conflict in patterns shaped by geography, resources, politics, and diaspora investment.
 
 ## Geographic Distribution and Territorial Identity

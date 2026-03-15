@@ -1,5 +1,3 @@
-# Sisal Estates Taita
-
 The lowland areas of Taita-Taveta were converted into sisal estates during the colonial period. These estates, many of which were European-owned, became a significant feature of the regional economy and have had lasting effects on land use and community development.
 
 ## Sisal Cultivation and History

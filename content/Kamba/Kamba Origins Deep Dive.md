@@ -1,5 +1,3 @@
-# Kamba Origins Deep Dive
-
 The [[Kamba]] (Akamba in singular form) are of Bantu origin, believed to have originated from the Congo Basin region of Central Africa before their historical migration to present-day Kenya. Their origins, migration routes, and establishment of major [[Kamba Clan System|clans]] represent a complex process spanning multiple centuries and involving relationships with multiple neighboring groups.
 
 ## Bantu Origins and Initial Migration

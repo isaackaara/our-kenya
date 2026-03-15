@@ -1,5 +1,3 @@
-# 1988 Election Rubia Detention
-
 Charles Rubia, a prominent Kikuyu politician, was detained for calling for multiparty democracy. Rubia's detention followed his public advocacy for democratic reform and came in the aftermath of the 1988 election outrage. Like Matiba, Rubia was accused of sedition and was held without trial for extended periods. Rubia's detention demonstrated government intolerance of criticism and of calls for political reform. Both Matiba and Rubia would become prominent figures in the subsequent democracy movement.
 
 ## See Also

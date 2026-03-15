@@ -1,5 +1,3 @@
-# 1974 Election International Context
-
 The 1974 election took place in a specific international context shaped by Cold War dynamics, regional politics, and global economic developments. Kenya's position as a stable, pro-Western nation in East Africa was important to its international relationships, and the 1974 election was understood in part through the lens of Cold War competition.
 
 The Cold War was a fundamental feature of international politics in 1974. Kenya was clearly aligned with the Western bloc, maintaining close relationships with the United States and Western European countries. Soviet influence in East Africa was strong in some countries, particularly in Ethiopia and Somalia, but Kenya maintained distance from Soviet influence and from communist movements.

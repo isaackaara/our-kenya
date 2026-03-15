@@ -1,5 +1,3 @@
-# Mwea Irrigation Scheme
-
 The Mwea Rice Irrigation Scheme represents the largest rice-growing area in Kenya, covering approximately 30,000 acres in the lowland plains below [[../../Conservation/Mount Kenya National Park|Mount Kenya]]. Established to utilize the waters of the Tana River and its tributaries, the scheme has transformed semi-arid lowlands into productive rice paddies. The scheme employs thousands of farmers and produces a significant portion of Kenya's domestically consumed rice.
 
 ## Historical Development

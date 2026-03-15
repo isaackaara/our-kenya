@@ -1,5 +1,3 @@
-# Mombasa Youth Radicalisation: Al-Shabaab Recruitment
-
 Mombasa and the coastal region have been identified as areas of concern for recruitment of youth by al-Shabaab, a militant organization based in [[../../Somali/Somali|Somali]]a. The recruitment, while not universal, reflects socioeconomic marginalization, grievances, and identity factors.
 
 ## Recruitment Patterns

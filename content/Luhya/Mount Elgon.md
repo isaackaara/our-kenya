@@ -1,5 +1,3 @@
-# [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-
 Mount Elgon is an ancient extinct volcano straddling the Kenya-Uganda border. Sacred to both the Sabaot (a Kalenjin sub-group) and [[Luhya|Luhya]] (Luhya), the mountain's caves, wildlife, and land have been central to the region's identity and, more recently, the site of violent conflict.
 
 ## Key Facts

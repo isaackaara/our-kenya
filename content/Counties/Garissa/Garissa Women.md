@@ -1,5 +1,3 @@
-# Garissa Women
-
 [[Garissa County|Garissa women]] face multiple intersecting challenges of gender inequality, poverty, limited educational access, and cultural practices that constrain livelihood opportunities and autonomy. Women comprise approximately 50 percent of Garissa's population yet exercise limited political authority, control disproportionately limited land and productive resources, and experience health and economic vulnerabilities distinct from those affecting male populations.
 
 Traditional pastoral social organization in [[Somali in Garissa|Somali]] and other pastoral communities assigned women specific roles including domestic labor (water collection, firewood gathering, food preparation), dairy production and processing, childcare, and household resource management. These roles, while culturally significant and essential to pastoral household survival, provided limited income-generating opportunities and public authority. Contemporary women continue these traditional roles while increasingly engaging in market-oriented economic activities.

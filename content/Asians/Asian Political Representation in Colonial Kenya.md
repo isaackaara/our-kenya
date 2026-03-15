@@ -1,5 +1,3 @@
-# Asian Political Representation in Colonial Kenya
-
 For most of the colonial period, [[Asian Kenyans|Asians]] had no political representation. By the late colonial era (1920s onward), the [[British]] established separate "[[Asian Kenyans|Asian]] seats" in the [[Legislative Council]], allowing limited [[Asian Kenyans|Asian]] political voice while maintaining racial segregation of representation.
 
 ## Early Exclusion from Politics

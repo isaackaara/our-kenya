@@ -1,5 +1,3 @@
-# Kenyatta Economic Policy
-
 Jomo Kenyatta's economic policies have often been described through the lens of "African Socialism," a term he invoked to describe Kenya's development approach. However, the reality was significantly more capitalist than the rhetoric suggested. Kenyatta's economic vision prioritized the creation of an African business class, integration with Western markets and capital, and the modernization of Kenya's economy within a broadly pro-capitalist framework.
 
 When Kenya gained independence in 1963, the country inherited a colonial economic structure oriented toward extractive industries, settler agriculture, and the servicing of British interests. Kenyatta's government faced the fundamental question: how should this colonial economy be transformed to serve African interests? His answer was pragmatic and gradualist, prioritizing stability and growth over radical redistribution.

@@ -1,5 +1,3 @@
-# Baringo Colonial History
-
 Baringo's colonial history reflects British colonial administration of Tugen and other communities, land tenure transformations, and the imposition of colonial governance structures on pastoral societies.
 
 ## Early Colonial Contact

@@ -1,5 +1,3 @@
-# William Ruto Presidency
-
 William Samoei Ruto (born 21 December 1966) became Kenya's fifth President on 13 September 2022, winning a narrow victory in an election that scrambled the ethnic coalitions that had dominated Kenyan politics since [[2007-2008 Post Election Violence]]. A Kalenjin from Sugoi, Nandi County, Ruto built his 2022 campaign on a "Hustler" narrative that explicitly positioned him against the dynastic politics of both the Kenyatta and Odinga families, while drawing heavily on Kikuyu votes that his predecessor Uhuru Kenyatta had tried to direct toward Odinga.
 
 ## Key Facts

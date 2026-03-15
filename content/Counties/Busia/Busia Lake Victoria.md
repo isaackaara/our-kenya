@@ -1,5 +1,3 @@
-# Busia Lake Victoria
-
 Busia County has a small shoreline on Lake Victoria (approximately 20-30 kilometers), providing access to one of Africa's largest lakes. Lake Victoria is a critical resource for fishing, water supply, and livelihood. The lake borders Tanzania, Uganda, and Kenya, making it a shared resource. Fish stocks provide protein for regional populations. Water from the lake supports some agricultural irrigation. Transport across the lake connects fishing communities. The shoreline is home to fishing communities with traditional livelihoods. Lake islands provide additional fishing grounds and settlement areas. Water hyacinth invasion periodically affects lake productivity. Pollution from agricultural runoff affects water quality. Lake level fluctuations respond to rainfall and evaporation patterns.
 
 ## Fishing and Livelihood

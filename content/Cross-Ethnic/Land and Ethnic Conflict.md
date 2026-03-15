@@ -1,5 +1,3 @@
-# Land and Ethnic Conflict
-
 Land conflicts in [[Kenya]] frequently acquire ethnic dimensions. The Rift Valley, the coastal region, and the Mt. Elgon area have experienced repeated [[Cross-Ethnic Kenya|land-related communal conflicts]] often articulated in ethnic terms. The historical dynamics of land alienation, dispossession, and territorial claims create contexts where land disputes intersect with [[Kenyan Identity Evolution 1964-2026|ethnic identity]] in volatile ways.
 
 The Rift Valley has experienced repeated land-related communal violence. The region's history of white settler colonization created racial dispossession. Post-colonial land distribution involved complex negotiations across ethnic lines. Kikuyu migration into the Rift Valley, settling in areas historically inhabited by Kalenjin and other groups, created demographic changes. These demographic shifts and competing territorial claims have generated violent conflict, particularly during electoral periods.

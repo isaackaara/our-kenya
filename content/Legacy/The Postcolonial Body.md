@@ -1,5 +1,3 @@
-# The Postcolonial Body
-
 Colonialism imposed racial categories on Kenya. The British divided people into racial groups: Europeans, Asians (primarily Indians), and Africans. Each group occupied a different position in the colonial hierarchy. Europeans ruled. Asians occupied a middle position as merchants and clerks. Africans were subordinate.
 
 These categories were not natural or inevitable. Before colonialism, Kenyans identified by clan, by kingdom, by language, by religion. Racial classification was a colonial invention that imposed a new framework of identity and hierarchy.

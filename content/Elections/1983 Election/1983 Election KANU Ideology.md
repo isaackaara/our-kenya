@@ -1,5 +1,3 @@
-# 1983 Election KANU Ideology
-
 KANU in 1983 emphasized stability, national unity, and development under Moi's Nyayo philosophy. The party ideology stressed the importance of Moi's personal leadership and loyalty to the president. KANU continued to present itself as the embodiment of Kenyan nationalism and as the sole legitimate political organization. The ideology provided cover for increasing authoritarianism by framing it as serving national development and unity.
 
 ## See Also

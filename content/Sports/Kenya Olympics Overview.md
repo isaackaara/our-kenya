@@ -1,5 +1,3 @@
-# Kenya Olympics Overview: A Complete Olympic History
-
 Kenya's Olympic history spans from 1956 Melbourne (first appearance, no medals) through 2024 Paris. Kenya has won a total of approximately 110 Olympic medals in athletics, with roughly 40-50 gold medals. Kenya's medal count has grown substantially from the 1960s through the 2000s, with particular peaks in 1988 (four golds), 2012 (seven golds), and consistent medal production in most recent Olympics.
 
 Kenya's Olympic dominance is concentrated in athletics, specifically distance running events (5000m, 10000m, marathon, steeplechase). Kenya has not achieved significant Olympic success in non-athletic disciplines, though modest achievements in other sports have occurred.

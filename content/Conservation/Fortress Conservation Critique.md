@@ -1,5 +1,3 @@
-# Fortress Conservation Critique
-
 [[Fortress Conservation|Fortress conservation]] models, which establish [[Protected Areas|protected areas]] as exclusive zones for [[Wildlife|wildlife]] with minimal human presence, have dominated [[African Conservation Strategies|African conservation strategies]] including Kenya's. Critics argue that fortress models [[Community Exclusion|exclude indigenous communities]], [[Land Rights Violations|violate land rights]], create [[Unjust Cost-Benefit Distributions|unjust cost-benefit distributions]], and may be [[Conservation Effectiveness|ineffective]] without [[Community Support|community support]]. The [[Colonial Heritage|colonial heritage]] of fortress conservation reflects historical patterns of [[Land Appropriation|land appropriation]].
 
 ## Definition and Approach

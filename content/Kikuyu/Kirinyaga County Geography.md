@@ -1,5 +1,3 @@
-# [[../Counties/Kirinyaga/Kirinyaga County|Kirinyaga County]] Geography
-
 Kirinyaga County, named after [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga means "mountain of brightness" in Gikuyu), encompasses the southern slopes and foothills of Mount Kenya, Kenya's second-highest mountain. The county represents a significant agricultural and political center within the wider Kikuyu region, with unique geography linking highland tea production to the famous Mwea irrigation rice scheme.
 
 ## Location and Boundaries

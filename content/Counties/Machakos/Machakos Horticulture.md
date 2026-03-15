@@ -1,5 +1,3 @@
-# Machakos Horticulture
-
 The horticultural export sector in Machakos County has experienced rapid expansion since the 1990s, driven by global demand for fresh produce and improved transportation infrastructure. Machakos has emerged as a significant supplier of vegetables and flowers to international markets, particularly the European Union.
 
 Vegetable exports from Machakos include French beans, snow peas, baby corn, and various leafy greens destined for European supermarkets. These exports require compliance with stringent food safety and quality standards, leading to the development of export-oriented production clusters in high-potential zones within the county. Smallholder farmers have increasingly integrated into export value chains through farmer groups and contract farming arrangements.

@@ -1,5 +1,3 @@
-# Kericho Tea Gardens
-
 The Kericho highlands (encompassing [[../Counties/Kericho/Kericho County|Kericho County]] in the broader tea-growing regions of the Rift Valley) represent one of Africa's visually striking landscapes: rolling hills blanketed entirely with tea plants in an endless tapestry of green. The landscape is at once beautiful and politically complex, as it represents both agricultural wealth and the legacy of colonial land alienation and continued foreign control of resources.
 
 ## The Landscape

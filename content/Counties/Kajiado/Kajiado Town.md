@@ -1,5 +1,3 @@
-# Kajiado Town
-
 Kajiado town serves as the county headquarters and principal urban center in Kajiado County, functioning as the commercial and administrative hub for the county government and surrounding pastoral and increasingly urban communities.
 
 The town is located on the main highway connecting Nairobi to the Tanzania border at Namanga, making it a transportation hub linking Kenya and Tanzania. Kajiado town has experienced gradual urbanization reflecting increased commercial activity, government administration, and transportation services.

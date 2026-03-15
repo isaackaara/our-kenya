@@ -1,5 +1,3 @@
-# 2022 Election Kenya Kwanza
-
 Kenya Kwanza was the electoral coalition that supported William Ruto's presidential candidacy in 2022, bringing together the United Democratic Alliance (UDA, Ruto's personal party), the ANC (Amani National Congress) led by Musalia Mudavadi, Ford-Kenya led by Moses Wetangula, and smaller allied parties. The coalition secured victory with Ruto's 50.49% presidential victory and established control of parliament through winning 167 out of 290 National Assembly seats.
 
 The Kenya Kwanza coalition's formation represented a strategic consolidation of anti-Jubilee forces following the handshake that had united Uhuru and Raila. While the handshake had temporarily unified much of Kenya's political elite around the Uhuru-Raila partnership, it had simultaneously marginalized William Ruto and created opening for Ruto to assemble alternative coalition. Kenya Kwanza thus represented the political vehicle through which Ruto could challenge the handshake alliance and position himself as champion of those excluded from the elite reconciliation.

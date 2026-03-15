@@ -1,5 +1,3 @@
-# Siaya Luo Heritage
-
 [[Siaya County]] is a core region of [[../../Luo/Luo|Luo]] culture and history in Kenya. The Luo people form the overwhelming majority of the county's population and have maintained their cultural traditions, language ([[../../Luo/Dholuo Language|Dholuo]]), and social structures in this region for centuries. The county represents one of the primary homelands of the Nilotic Luo people who migrated into the [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] region from southern Sudan and Uganda beginning in the 15th century.
 
 ## Luo Settlement and Migration

@@ -1,5 +1,3 @@
-# [[Equity Bank]]
-
 [[Equity Bank]] is one of [[Kenya]]'s great corporate success stories. Founded as Equity Building Society in 1984 as a savings cooperative serving rural areas near Nairobi, it was transformed into a [[commercial bank]] by visionary leadership and a mass-market strategy. The [[SACCO Movement Kenya|savings cooperative]] model was transformed into [[Banking History Kenya|modern retail banking]] serving the [[Financial Inclusion Kenya|previously unbanked]]. By 2026, Equity is Kenya's second-largest bank by assets and largest by customer numbers, with over 14 million accounts and operations across East and Central Africa.
 
 ## Origins: Equity Building Society (1984)

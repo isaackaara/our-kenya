@@ -1,5 +1,3 @@
-# Music Unions Early Kenya
-
 The first attempts to organize musicians in Kenya, protect their rights, and establish professional structures emerged in the 1950s and early 1960s as the [[Music/East African Recording Industry Origins|recording industry]] matured and musicians recognized their exploitation by record companies and venue owners. These early unionization efforts faced significant obstacles but established foundations for later musicians' advocacy.
 
 The need for collective organization became apparent as musicians confronted systematic exploitation. Record companies paid minimal one-time fees for recordings that generated substantial ongoing profits. Performance venues underpaid musicians or failed to pay at all. No copyright protections existed for African musicians, allowing their compositions to be appropriated without compensation. [[Music/Fadhili Williams|Fadhili William's experience with "Malaika"]] exemplified this exploitation.

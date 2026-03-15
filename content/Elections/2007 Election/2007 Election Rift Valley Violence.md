@@ -1,5 +1,3 @@
-# 2007 Election Rift Valley Violence
-
 The Rift Valley experienced the most severe violence of the post-election crisis, with organized ethnic cleansing of Kikuyu settlers and other non-Kalenjin communities in districts including Eldoret, Naivasha, and Nakuru. Local Kalenjin leaders mobilized constituencies, articulating grievances about historical Kikuyu land acquisition and marginalisation under Kibaki's government. The violence was particularly organized in Eldoret, where hundreds were killed in attacks on Kikuyu-associated neighborhoods. Thousands fled to refugee camps or informal settlements. Churches were burned, homes destroyed, and survivors reported systematic patterns of ethnic targeting.
 
 ## See Also

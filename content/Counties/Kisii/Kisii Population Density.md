@@ -1,5 +1,3 @@
-# Kisii Population Density
-
 [[Kisii County.md|Kisii County]] has one of Kenya's highest rural population densities, with approximately 1.3 million people occupying 1,335 square kilometers. This density of roughly 973 people per square kilometer reflects the county's favorable agricultural conditions and historical settlement patterns.
 
 ## Density Comparison

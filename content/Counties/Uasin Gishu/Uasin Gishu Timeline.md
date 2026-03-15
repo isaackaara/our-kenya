@@ -1,5 +1,3 @@
-# Uasin Gishu Timeline
-
 This timeline documents major events and developments in [[Uasin Gishu]] County's history, from the pre-colonial era through the present.
 
 ## Pre-colonial Era

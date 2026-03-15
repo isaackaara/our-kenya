@@ -1,5 +1,3 @@
-# Kenya Economic Overview
-
 Kenya's [[Kenya Economic Overview]] in 2026 is a complex mix of agriculture, services, and manufacturing. With a population exceeding 54 million and a GDP of approximately USD 112 billion (nominal), Kenya has become East Africa's largest economy and one of the continent's more diversified.
 
 ## Economic Structure (2026)

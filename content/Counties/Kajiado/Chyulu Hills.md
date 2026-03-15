@@ -1,5 +1,3 @@
-# Chyulu Hills
-
 The Chyulu Hills represent a young volcanic mountain range in Kajiado County, extending from Kajiado toward Amboseli and characterized by recent lava flows, cave systems, and distinctive volcanic landscape features. The hills support tourism activities including hiking, wildlife viewing, and lodge accommodations.
 
 The Chyulu Hills are geologically young, with volcanic activity occurring within the last 500 years, and represent a dramatic landscape feature visible across the surrounding plains.

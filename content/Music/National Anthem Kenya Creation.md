@@ -1,5 +1,3 @@
-# National Anthem Kenya Creation
-
 The creation of Kenya's national anthem, "Ee Mungu Nguvu Yetu" (Oh God of All Creation), in 1963 represented a deliberate effort to forge national unity through music. The anthem's composition, musical characteristics, and symbolic meanings reveal how the new nation used sound to articulate its identity and aspirations.
 
 The anthem was commissioned in late 1962 or early 1963 as Kenya prepared for independence. The task of composition fell to a committee that included members of the Kenya Music Festival organization, government officials, and musicians. The committee's mandate was to create an anthem that would be musically accessible, emotionally moving, politically appropriate, and capable of uniting Kenya's diverse ethnic groups.

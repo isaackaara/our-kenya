@@ -1,5 +1,3 @@
-# Laikipia Rhinos
-
 Laikipia County holds the majority of Kenya's black rhino population outside of national parks. Wildlife conservancies on the Laikipia plateau protect significant rhino populations. Black rhinos are endangered species with global populations severely depleted. Laikipia rhinos represent crucial population reservoir. Conservation efforts focus on anti-poaching protection and population monitoring. However, poaching pressure remains significant. International demand for rhino horn creates persistent threats.
 
 ## Black Rhino Populations

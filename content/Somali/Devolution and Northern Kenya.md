@@ -1,5 +1,3 @@
-# Devolution and Governance in Northern Kenya (Wajir, Mandera, Garissa Counties)
-
 Kenya's 2010 Constitution devolved substantial government authority and resources to 47 county governments, including three northern counties ([[Wajir County]], [[Mandera County]], [[Garissa County]]) that are [[Somali]]-majority. Devolution was intended to bring governance closer to local communities and enable localized development. However, implementation has been uneven, county governments face resource constraints and institutional weaknesses, and development gaps have persisted.
 
 ## Devolution Framework and Constitutional Basis

@@ -1,5 +1,3 @@
-# West Pokot Colonial History
-
 The colonial history of West Pokot reflects the broader patterns of British imperial conquest and administrative incorporation of East African territories during the late 19th and 20th centuries. The region occupied by present-day [[West Pokot County]] was incorporated into British colonial rule gradually through military campaigns, administrative imposition, and economic integration into colonial trade networks. The colonial period fundamentally transformed Pokot society through changes to political organization, land tenure, labor systems, and cultural practices. Understanding West Pokot's colonial experience is essential to understanding how the region's contemporary development challenges originated and how colonial policies shaped post-independence trajectories.
 
 ## Pre-Colonial Period and Early Contact

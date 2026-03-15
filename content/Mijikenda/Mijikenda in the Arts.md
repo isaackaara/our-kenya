@@ -1,5 +1,3 @@
-# Mijikenda in the Arts
-
 [[Mijikenda]] artists, musicians, writers, and cultural producers have made contributions to Kenya's national cultural life, though their visibility in dominant cultural narratives remains limited. [[Mijikenda]] cultural production reflects both traditional practices and contemporary engagement with global artistic forms.
 
 ## Music and Performance

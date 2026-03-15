@@ -1,5 +1,3 @@
-# Lewa Wildlife Conservancy
-
 Lewa Wildlife Conservancy is a pioneering community-based conservancy on the Laikipia plateau with an international reputation for wildlife conservation excellence. The conservancy demonstrates that private conservation can achieve high standards of species protection while providing employment and community benefits. Lewa was established as a private wildlife sanctuary and has expanded conservation activities. The conservancy combines wildlife protection with community development and tourism operations.
 
 ## Conservation Model

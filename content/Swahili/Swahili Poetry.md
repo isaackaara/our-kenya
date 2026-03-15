@@ -1,5 +1,3 @@
-# Swahili Poetry
-
 The [[Swahili]] coast produced a rich literary tradition of poetry that stands as one of East Africa's great cultural heritages. Classical [[Swahili Poetry|Swahili poetry]] developed distinctive forms (the utendi or epic poem, the shairi or four-line stanza, the tenzi or narrative poem) and addressed both secular and religious themes. The greatest classical poets ([[Mwana Kupona]], [[Fumo Liyongo]]) created works of enduring literary significance within [[Swahili Civilization Overview|Swahili civilization]].
 
 ## Classical Forms

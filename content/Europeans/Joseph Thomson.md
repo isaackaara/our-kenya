@@ -1,5 +1,3 @@
-# Joseph Thomson
-
 Joseph Thomson (1858-1894) was a Scottish geologist and explorer whose 1882-1883 expedition through Maasailand to Lake Victoria was the first significant European exploration of Kenya's interior. He successfully traversed territory that had been closed to European passage and returned with detailed scientific observations and maps. Though he lived only 37 years, Thomson became one of the most respected explorers of East Africa.
 
 ## Early Career and the Central African Expedition

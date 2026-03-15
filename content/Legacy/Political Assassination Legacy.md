@@ -1,5 +1,3 @@
-# Political Assassination Legacy
-
 Kenya has a pattern of political assassinations. Pio Gama Pinto was assassinated in 1965, in the early years of independence. Tom Mboya, a prominent nationalist and politician, was assassinated in 1969. J.M. Kariuki, a powerful politician and former freedom fighter, was assassinated in 1975. Robert Ouko, a prominent businessman and politician, was assassinated in 1990.
 
 These assassinations were prominent cases. There were others. In some cases, the perpetrators were caught and tried. In others, the cases went unsolved or the evidence was weak. In several cases, political elites were strongly suspected but never prosecuted.

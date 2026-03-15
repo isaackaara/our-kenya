@@ -1,5 +1,3 @@
-# Mijikenda and Orma
-
 The [[Orma]] are a Cushitic-speaking pastoral community living in the Tana River area north of [[Mijikenda]] territory. Historical relations between Mjikenda and Orma have involved trade, conflict, and periodic cooperation, shaped by different economic systems and territorial claims.
 
 ## The Orma People

@@ -1,5 +1,3 @@
-# Luo Colonial Period
-
 The Luo colonial experience began with British contact in the 1890s and shaped the community's response to imperial rule. The Luo response to colonialism differed markedly from resistance movements among other Kenyan ethnic groups (such as the Nandi), reflecting distinct patterns of initial accommodation, selective adoption of colonial institutions, and the gradual erosion of Luo political autonomy.
 
 ## Early British Contact (1896-1900)

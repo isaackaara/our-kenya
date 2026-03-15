@@ -1,5 +1,3 @@
-# Nyandarua Timeline
-
 This timeline documents major events and developments in Nyandarua County's history through 2026.
 
 ## Pre-Colonial Period

@@ -1,5 +1,3 @@
-# Taita Agriculture
-
 The Taita are renowned throughout Kenya for their agricultural expertise, particularly their development of intensive terrace farming on steep hillsides. This farming system has allowed the Taita to achieve high population densities and food security in an otherwise challenging environment.
 
 ## Terrace Farming Systems

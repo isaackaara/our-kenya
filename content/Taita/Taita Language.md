@@ -1,5 +1,3 @@
-# Taita Language
-
 The Taita language, known as Kitaita or Kidawida, is a Bantu language spoken by approximately 350,000 people in the Taita Hills and diaspora communities. The language has distinctive features that set it apart from neighboring Bantu languages.
 
 ## Linguistic Classification

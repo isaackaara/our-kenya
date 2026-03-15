@@ -1,5 +1,3 @@
-# Taita and Christianity
-
 Christianity came to the Taita Hills through the work of the Church Missionary Society (CMS), which established missions beginning in the late 19th century. The transformation of religious practice was gradual but profound, ultimately reshaping Taita spiritual life.
 
 ## The CMS Mission

@@ -1,5 +1,3 @@
-# 1997 Election Timeline
-
 **January 1997**: [[Moi]] announces plans for presidential succession, initially floating the possibility of passing power to a successor while maintaining authority through the presidency, or alternatively, seeking to remain in power. International observers and opposition figures respond with concerns about the constitutionality and democratic implications of various succession scenarios.
 
 **February to March 1997**: Opposition parties begin coordinating pressure for electoral reforms through what would become the [[Inter-Parties Parliamentary Group (IPPG)]] negotiations. Civil society organizations, including churches and human rights groups, join calls for reform. The government signals its intention to hold elections within the calendar year, compressing the timeline for campaign preparation.

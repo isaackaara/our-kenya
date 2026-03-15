@@ -1,5 +1,3 @@
-# Murang'a
-
 *Murang'a*, known during the colonial period as Fort Hall, is the historical heartland of the Kikuyu people, the district in central Kenya where the founding myth of [[Gikuyu and Mumbi]] is rooted and where the oldest continuous Kikuyu settlements existed. If [[Kirinyaga]] is the spiritual centre of Kikuyu identity, Murang'a is its geographic cradle.
 
 ## Key Facts

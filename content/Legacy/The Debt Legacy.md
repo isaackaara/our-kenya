@@ -1,5 +1,3 @@
-# The Debt Legacy
-
 Kenya inherited colonial infrastructure that was designed for extraction. After independence, the state had to invest in roads, schools, hospitals, services to reach populations. These investments required borrowing.
 
 Kenya's debt accumulated over decades. Loans from the World Bank, the IMF, bilateral donors, and commercial lenders financed development. The debt served purposes. Schools and hospitals were built. Roads were constructed. But the debt also created constraints on Kenya's policy autonomy.

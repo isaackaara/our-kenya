@@ -1,5 +1,3 @@
-# Luo Funeral Traditions
-
 Luo funeral traditions are among the most elaborate and consequential in Kenya, reflecting deep commitments to honoring the dead, maintaining kinship bonds, and regulating community relationships. Funerals are major social, economic, and spiritual events that shape Luo life cycles and economic behavior.
 
 ## The Tero Buru (Driving Away the Ghost)

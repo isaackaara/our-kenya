@@ -1,5 +1,3 @@
-# Sheng Evolution
-
 Sheng is a youth language and slang that originated in [[Nairobi as Melting Pot|Nairobi]] in the 1980s and has evolved into a national phenomenon by 2026. The language developed in Eastlands neighborhoods where students from [[Cross-Ethnic Kenya|multiple language communities]] attended school together. Sheng emerged as a solution to [[Language Mixing and Hybridity|communication across linguistic boundaries]], incorporating vocabulary from English, Swahili, and multiple ethnic languages.
 
 The early development of Sheng reflected the multi-ethnic character of Nairobi schools. Students whose mother tongues included Kikuyu, Luo, Luhya, Kamba, and others needed a common language for peer communication. English and Swahili were available, but Sheng provided a youth-specific register that allowed peer-bonding and differentiation from adult authority. The language incorporated insults, boasts, sexual references, and social commentary in ways that English and Swahili lacked.

@@ -1,5 +1,3 @@
-# Turkana Marriage
-
 Turkana [[Turkana Marriage]] is a complex social institution involving elaborate ceremonies, significant economic transactions (bridewealth payments in livestock), and the creation of alliances between clans and families. Marriage is central to Turkana social reproduction and defines key relationships and obligations across generations.
 
 ## Betrothal and Arrangement

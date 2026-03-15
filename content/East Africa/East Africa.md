@@ -1,5 +1,3 @@
-# East Africa Vertical - Knowledge Graph Index
-
 A comprehensive reference covering Kenya's place in the broader East African context, from colonial boundaries to contemporary regional politics.
 
 ## Overview

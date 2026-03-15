@@ -1,5 +1,3 @@
-# Tharaka
-
 The Tharaka are a small Bantu-speaking [[Tharaka Social Structure]] of Tharaka-Nithi County in the drier lowlands east of Mount Kenya. They number approximately 200,000 to 250,000 [[Tharaka Origins]] and occupy a distinct territory characterized by semi-arid climate and mixed agricultural-pastoral livelihoods.
 
 ## Origins and Relationships

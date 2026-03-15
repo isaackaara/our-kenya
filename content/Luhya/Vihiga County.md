@@ -1,5 +1,3 @@
-# [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-
 Vihiga County is Kenya's smallest county by area and one of the most densely populated. The county, with headquarters in the town of Mbale (also called Maragoli), is the heartland of the Maragoli sub-group and represents a unique development model shaped by high population density, reliable rainfall, and strong educational investment.
 
 ## Geography and Landscape

@@ -1,5 +1,3 @@
-# Lake Baringo
-
 Lake Baringo represents a freshwater Rift Valley lake located in Baringo County, covering approximately 168 square kilometers and famous for hippos, crocodiles, and extraordinary bird diversity (over 500 recorded bird species). The lake functions as a significant ecological resource, tourism destination, and water source for surrounding communities.
 
 Lake Baringo is Kenya's most accessible large freshwater lake and serves as a major ornithological destination for birdwatchers and ecotourism visitors.

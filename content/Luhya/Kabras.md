@@ -1,5 +1,3 @@
-# Kabras
-
 The Kabras are one of the larger sub-groups of the Luhya confederation, primarily located in [[../Counties/Kakamega/Kakamega County|Kakamega County]]. Traditionally settlement in the Malava area of the county near [[../Conservation/Kakamega Forest|Kakamega Forest]], the Kabras occupy a central place in western Kenya's cultural and economic landscape.
 
 ## Location and Geography

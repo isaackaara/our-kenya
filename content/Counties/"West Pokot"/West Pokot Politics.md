@@ -1,5 +1,3 @@
-# West Pokot Politics
-
 West Pokot County has a complex political history involving colonial administration, ethnic politics, and contemporary devolution. Pre-independence period saw colonial administration of pastoral Pokot territory with limited infrastructure. Post-independence governments worked to integrate pastoral regions into national political structures. County administrative divisions were established in post-colonial period, though rural services remained limited. The 2013 constitutional devolution created West Pokot County Government with elected governance structures. County-level governance was a significant institutional change from prior administrative arrangements. Electoral politics have involved competition between Pokot sub-groups and ethnic groups for representation and resource allocation.
 
 ## County Government Structure

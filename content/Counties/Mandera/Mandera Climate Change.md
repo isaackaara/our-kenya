@@ -1,5 +1,3 @@
-# Mandera Climate Change
-
 Climate change poses an existential threat to Mandera County, where increasing temperatures, shifting rainfall patterns, and intensifying drought cycles are undermining pastoral production and threatening the survival of one of Kenya's most vulnerable populations. The county, already marginal in terms of climate, is experiencing rapid transformation that is outpacing traditional adaptation mechanisms and demanding urgent policy responses.
 
 ## Temperature and Aridity Trends

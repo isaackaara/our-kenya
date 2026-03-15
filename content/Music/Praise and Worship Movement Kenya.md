@@ -1,5 +1,3 @@
-# Praise and Worship Movement Kenya
-
 The charismatic Christianity wave that swept Kenya in the 1970s and 1980s fundamentally transformed not just religious practice but the nation's entire musical culture. The praise and worship movement introduced contemporary musical forms into Kenyan churches, creating demand for a new type of Christian music that would fuel the [[Music/Kenyan Gospel Music Boom|gospel music explosion]].
 
 Unlike established mainline churches (Anglican, Presbyterian, Catholic) with their formal liturgies and traditional hymns, the new Pentecostal and charismatic congregations embraced spontaneous worship, emotional expressiveness, and contemporary musical instruments. Churches like Nairobi Chapel, [[Music/Mamlaka Hill Chapel Music|Mamlaka Hill Chapel]], and Nairobi Pentecostal Church led this transformation, attracting thousands of worshippers, particularly young urban Kenyans, with services that felt culturally relevant and emotionally engaging.

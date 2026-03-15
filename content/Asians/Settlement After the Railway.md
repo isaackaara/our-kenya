@@ -1,5 +1,3 @@
-# Settlement After the Railway
-
 When the [[Uganda Railway]] was completed in 1901, approximately 2,500 Indian laborers and artisans chose to remain in East Africa rather than return to India. Their decision to stay established the foundation of the permanent Asian community in Kenya. Subsequent waves of [[Indian merchants]], traders, and professionals further expanded the community.
 
 ## Why Some Stayed

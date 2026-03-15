@@ -1,5 +1,3 @@
-# Trans-Nzoia Dairy
-
 Dairy farming is a significant and growing agricultural enterprise in Trans-Nzoia County, particularly in the cool highland areas. The favorable climate (cool temperatures, high rainfall) supports year-round grazing and high-quality milk production. Dairy cattle breeds including Friesian, Jersey, and crossbreeds are common in the county. Smallholder dairy farmers typically keep 2 to 5 dairy cows, while some commercial operations manage larger herds. Dairy provides steady income compared to cereal farming and helps maintain soil fertility through manure. Milk production is year-round, with seasonal variations reflecting pasture availability.
 
 ## Milk Production and Marketing

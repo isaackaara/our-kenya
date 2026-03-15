@@ -1,5 +1,3 @@
-# Meru Notable People
-
 Meru County has produced notable individuals who have achieved prominence in national and international contexts. These individuals have contributed to Kenya's development through careers in government, business, academia, and civil society. Their achievements reflect Meru community's engagement with national life and commitment to education and advancement.
 
 ## Political Leaders

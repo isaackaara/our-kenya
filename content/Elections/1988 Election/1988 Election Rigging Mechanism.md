@@ -1,5 +1,3 @@
-# 1988 Election Rigging Mechanism
-
 The mlolongo system enabled rigging through queue manipulation, miscounting, and coercion. Government officials and candidate supporters controlled queues, moved voters between queues, and intimidated voters into supporting government-backed candidates. Election officials could see actual vote distributions and manipulate counts to produce predetermined results. The rigging was so extensive that actual voter preferences bore little relationship to announced results. In many constituencies, results were determined in advance by government officials, and the mlolongo process was merely theater to legitimize predetermined outcomes.
 
 ## See Also

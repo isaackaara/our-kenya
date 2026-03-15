@@ -1,5 +1,3 @@
-# Embu Diaspora
-
 The Embu diaspora represents internal migration primarily to [[Embu in Nairobi]] and other urban centers, as well as some international migration. Urban Embu maintain ties to home communities through remittances, visits, and return migration. Diaspora communities create economic linkages and cultural bridges between rural and urban environments.
 
 ## Nairobi Embu Community

@@ -1,5 +1,3 @@
-# 2007 Election Waki Commission
-
 The Commission of Inquiry into Post-Election Violence, headed by Justice Philip Waki, conducted extensive investigation into the causes, patterns, and perpetrators of post-election violence. The Waki Commission produced a comprehensive report documenting 1,300 deaths, 600,000 displaced, and systematic patterns of ethnic violence. Critically, the Commission compiled a sealed envelope containing the names of alleged perpetrators and was submitted to the Kenyan government with the understanding that if the government did not establish domestic accountability mechanisms, the envelope would be transmitted to the ICC. The government's refusal to open the envelope or to pursue domestic accountability led to the ICC's own investigations and case openings.
 
 ## See Also

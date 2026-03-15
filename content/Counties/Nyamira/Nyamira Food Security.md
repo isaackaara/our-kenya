@@ -1,5 +1,3 @@
-# Nyamira Food Security
-
 Food security in Nyamira County reflects agricultural production, market access, and household income. The tea-dominated economy creates dependency on markets for staple foods while climate variability affects production stability.
 
 ## Food Production

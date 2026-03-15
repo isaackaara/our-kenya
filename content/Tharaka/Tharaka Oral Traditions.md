@@ -1,5 +1,3 @@
-# Tharaka Oral Traditions
-
 Tharaka oral literature includes [[Tharaka Language]], proverbs, riddles, and historical narratives that encode cultural [[Tharaka Identity Today]], values, and historical memory. These traditions have been transmitted orally through generations but face declining transmission in contemporary times.
 
 ## Stories and Narratives

@@ -1,5 +1,3 @@
-# Tsavo East National Park
-
 Tsavo East National Park is one of the two major components of the Tsavo National Parks system, covering an area of approximately 13,747 square kilometres and extending across portions of Taita-Taveta, Kitui, and Makueni counties. The park represents one of the largest and most ecologically significant protected wildlife areas in Kenya and Africa, encompassing diverse savanna ecosystems that support substantial populations of elephants, lions, buffalo, and numerous other wildlife species. Tsavo East's ecological importance, wildlife populations, and landscape values make it central to Kenya's wildlife conservation and tourism economy.
 
 The geography of Tsavo East is characterized by semi-arid savanna vegetation dominated by acacia scrubland, grasslands, and scattered bush. The Galana River, the park's major water source, provides critical dry-season water supply for wildlife. The landscape is undulating, with volcanic rock outcrops and varied topography creating diverse microhabitats and visual landscapes. The park's vastness and apparent wilderness character make it a significant landscape resource.

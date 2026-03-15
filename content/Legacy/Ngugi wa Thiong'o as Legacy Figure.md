@@ -1,5 +1,3 @@
-# Ngugi wa Thiong'o as Legacy Figure
-
 Ngugi wa Thiong'o, born in 1938, is the defining literary voice of Kenya's postcolonial consciousness. His novels (Weep Not Child, A Grain of Wheat, Devil on the Cross) are unflinching explorations of colonialism, land dispossession, and the betrayals of independence.
 
 Ngugi's most distinctive choice was to write in Gikuyu and Swahili rather than English. This was a deliberate decolonial act. In 1986, he made a public commitment to writing only in African languages, rejecting English as the language of his most serious literary work. This positioned him against the educated elite's assumption that serious literature must be in English.

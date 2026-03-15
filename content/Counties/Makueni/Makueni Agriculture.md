@@ -1,5 +1,3 @@
-# Makueni Agriculture
-
 Agriculture in Makueni County operates within semi-arid environmental constraints, requiring specialized crop selection and management practices. The county's agricultural system emphasizes drought-resistant crops including sorghum, millet, green grams, and cassava. These traditional staple crops have supported Makueni populations for generations due to their adaptation to water scarcity and poor soil conditions.
 
 Sorghum and millet production represents the traditional grain base of Makueni agriculture. These grains require less water than maize and tolerate poor soils, making them well-suited to semi-arid conditions. Sorghum and millet provide carbohydrates, calories, and nutritional content for household consumption and occasional market sale. Traditional cultivation practices maintain soil health through crop rotation.

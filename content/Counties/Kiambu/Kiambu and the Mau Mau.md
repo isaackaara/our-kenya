@@ -1,5 +1,3 @@
-# Kiambu and the Mau Mau Uprising
-
 Kiambu was the epicenter of the Mau Mau uprising (1952-1960), Kenya's most significant anti-colonial movement. The Mau Mau was overwhelmingly [[../../Kikuyu/Kikuyu|Kikuyu]] in composition, driven by land dispossession, labor exploitation, and political marginalization. [[../Kiambu/Kiambu County|Kiambu County]] was the violent heart of the rebellion, with Mau Mau fighters operating in the forests surrounding the highlands, attacking European settlers and their African collaborators.
 
 The uprising combined nationalist ideology with deeply personal struggles for land recovery. Mau Mau fighters (often young men with no land or employment prospects) took oaths binding them to the cause and engaged in guerrilla warfare. The British colonial response was massive: the government declared an emergency (1952-1960), deployed military forces, and imprisoned tens of thousands of [[../../Kikuyu/Kikuyu|Kikuyu]] in detention camps. Thousands of Kikuyu fighters, civilians, and colonial forces were killed.

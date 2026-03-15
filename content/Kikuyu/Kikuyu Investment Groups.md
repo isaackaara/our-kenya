@@ -1,5 +1,3 @@
-# Kikuyu Investment Groups
-
 The chama (investment group) tradition is a distinctive feature of Kikuyu economic culture, representing small savings and investment cooperatives where members pool capital for collective investment or loans to individual members. Chamas have been credited with enabling Kikuyu economic advancement, financing real estate, business ventures, and other assets.
 
 ## The Chama Tradition

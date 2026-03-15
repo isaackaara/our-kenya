@@ -1,5 +1,3 @@
-# Lamu Town
-
 Lamu town is the county headquarters and one of the oldest and best-preserved urban settlements on the East African coast. Located on Lamu Island, the town sits on a sheltered harbor that has hosted maritime trade for over two millennia. It serves as the administrative, commercial, and cultural center of Lamu County, with a population of approximately 15,000 residents.
 
 The town's historical significance lies in its role as a major node in the Indian Ocean trading system. From the 8th century onward, Arab, Persian, and later European merchants established themselves here, creating a cosmopolitan port city. Lamu town became a sultanate in its own right, rivaling Mombasa and Zanzibar for dominance of the coastal trade. By the 19th century, the town had accumulated considerable wealth from the slave trade, clove plantations, and maritime commerce. This prosperity is reflected in the architecture, which showcases centuries of refinement and cultural exchange.

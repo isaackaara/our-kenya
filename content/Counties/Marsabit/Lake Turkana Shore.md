@@ -1,5 +1,3 @@
-# [[../../Conservation/Lake Turkana|Lake Turkana]]'s Eastern Shore in Marsabit County
-
 Lake Turkana's eastern shore forms Marsabit County's eastern boundary. Known as the "jade sea" for its distinctive green-blue colour, Lake Turkana represents the world's largest permanent desert lake and a critical freshwater resource for the arid region.
 
 The lake's shoreline communities include Turkana pastoralists and fisher folk engaging in both pastoral and aquatic livelihoods. Fish populations historically supported fishing communities, though overfishing and environmental changes have affected fish productivity in recent decades.

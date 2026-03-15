@@ -1,5 +1,3 @@
-# Nam Lolwe
-
 [[../Conservation/Lake Victoria Kenya|Lake Victoria]], known to the Luo as *Nam Lolwe* (the great water). The spiritual, economic, and cultural center of Luo civilization. The name *Lolwe* implies horizons beyond sight, reflecting the Luo's spiritual appreciation of the lake as a sacred and boundless expanse central to their identity and survival.
 
 ## Key Facts

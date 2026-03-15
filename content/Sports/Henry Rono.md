@@ -1,5 +1,3 @@
-# Henry Rono: Four World Records in 81 Days and Athletics' Greatest Tragedy
-
 Henry Rono stands alone in distance running history for setting four world records in 81 days in 1978. Between April 8 and June 27, 1978, Rono established world records in 5000 meters, 3000 meters steeplechase, 10,000 meters, and 3000 meters. No distance runner in history, before or after, has achieved world records across such range in such compressed timeframe. This accomplishment remains unmatched in athletics. Yet Rono's life trajectory after 1978 represents one of sport's greatest tragedies: a world-class athlete whose genius was destroyed by alcoholism and personal crisis.
 
 Rono was born in 1952 in Nandi District, in Kenya's Rift Valley, to a pastoral family. Like other Rift Valley youth, he ran from childhood and emerged as a talented distance runner by his teenage years. In the early 1970s, Rono entered elite competition, showing promise in middle-distance and long-distance events. By 1975, he was competing internationally and winning major races. However, he had not yet established himself as the dominant force he would briefly become.

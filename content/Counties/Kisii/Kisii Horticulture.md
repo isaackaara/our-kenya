@@ -1,5 +1,3 @@
-# Kisii Horticulture
-
 Vegetable and fruit production (horticulture) has grown as an important agricultural activity in [[Kisii County.md|Kisii County]], providing farmers with additional income and supplying regional markets with fresh produce. Horticulture complements [[Kisii Tea Industry.md|tea]] farming and contributes to household food security.
 
 ## Vegetable Production

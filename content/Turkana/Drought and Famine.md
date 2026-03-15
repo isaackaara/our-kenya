@@ -1,5 +1,3 @@
-# Drought and Famine
-
 The Turkana have been repeatedly affected by severe droughts and famines throughout recorded history. Major droughts occurred in 1984, 1992, 2011, and 2022, each causing significant human suffering, livestock losses, and economic disruption. Droughts are recurring features of life in Turkana's arid environment, triggering humanitarian crises and generating aid dependency.
 
 ## The 1984 Famine

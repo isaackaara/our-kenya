@@ -1,5 +1,3 @@
-# Busia Agriculture
-
 Agriculture is the primary economic activity in Busia County, involving crop cultivation and livestock keeping. Sugarcane is the dominant commercial crop, providing significant income for participating farmers. Maize cultivation provides household food security and surplus for market sale. Beans and other legumes provide protein and nitrogen fixation for soil fertility. Vegetables and fruits are produced for household consumption and market sale. Fish farming and lake fishing supplement agricultural production. Dairy farming in some areas provides milk and meat production. Smallholder farmers operate holdings averaging 2-5 acres. Agricultural extension services support improved farming practices. Cooperative societies provide input credit and marketing services. Land is increasingly privatized with title deeds replacing communal holdings.
 
 ## Sugarcane and Commercial Agriculture

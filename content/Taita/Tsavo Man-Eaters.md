@@ -1,5 +1,3 @@
-# Tsavo Man-Eaters
-
 The Tsavo man-eating lions are one of the most famous predator incidents in human history. In 1898, two lions killed approximately 135 Indian railway workers during the construction of the Uganda Railway through Tsavo, a low-point in the Taita-Taveta region between the hills and the coast.
 
 ## The Incidents of 1898

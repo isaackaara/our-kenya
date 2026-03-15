@@ -1,5 +1,3 @@
-# Trans-Nzoia Youth
-
 Youth in Trans-Nzoia County comprise approximately 60% of the population, representing both demographic opportunity and development challenge. Most youth grow up in agricultural communities where farming and agro-business are primary economic activities. Youth face limited formal employment opportunities outside of agriculture and agricultural services. Agricultural extension services encourage youth participation in farming through programs promoting improved varieties and techniques. Some youth engage in agro-processing (maize milling, oil pressing) as small-scale enterprises. Youth-led cooperative societies have emerged, pooling resources for input purchase and product marketing.
 
 ## Employment and Livelihoods

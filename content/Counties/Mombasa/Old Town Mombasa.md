@@ -1,5 +1,3 @@
-# Old Town Mombasa: Historic Swahili and Arab Quarter
-
 The Old Town of Mombasa is the historic heart of the city, preserving centuries of Swahili and Arab heritage. The area's distinctive architecture, narrow winding streets, carved wooden doors, and mosques reflect centuries of cultural synthesis and Indian Ocean trade connections.
 
 ## Architectural Character

@@ -1,5 +1,3 @@
-# Tsavo West National Park
-
 Tsavo West National Park is the western component of the Tsavo National Parks system, covering an area of approximately 9,065 square kilometres across portions of Taita-Taveta, Kajiado, and Rift Valley regions. The park encompasses diverse ecosystems including savanna grasslands, acacia woodland, volcanic landscapes, and water resources including permanent springs. Tsavo West's ecological significance, wildlife populations, and scenic landscapes make it a major conservation asset and important tourism destination within Kenya's national park system.
 
 The geography of Tsavo West is more diverse than Tsavo East, encompassing volcanic features, permanent water sources, and varied topography. The Chyulu Hills, a mountain range of volcanic origin, dominate portions of the park. Kilimanjaro (shared with Tanzania) forms the southern boundary. Permanent springs, including Mzima Springs, provide critical dry-season water supply for wildlife and create distinctive wetland habitats. The Tsavo River provides seasonal water.

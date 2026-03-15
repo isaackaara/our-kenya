@@ -1,5 +1,3 @@
-# Female Genital Mutilation in Somali Communities
-
 Female Genital Mutilation (FGM) has historically had high prevalence in [[Kenyan Somali|Kenyan Somali communities]], among the highest rates in Kenya. The practice involves cutting, removal, or alteration of female genital tissue for non-medical reasons. FGM is deeply embedded in some [[Somali]] cultural practices, though opposition to the practice has grown within Somali communities and internationally. Kenya has criminalized FGM since 2011, and campaigns to end it continue, though prevalence remains a concern.
 
 ## Prevalence and Scale

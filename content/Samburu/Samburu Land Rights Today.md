@@ -1,5 +1,3 @@
-# Samburu Land Rights Today
-
 Contemporary [[Samburu]] land rights involve tenure insecurity, land disputes, and conflict over pastoral resource access. Most [[Samburu]] lack formal title deeds, creating tenure vulnerability. Communal land grazing on government land remains precarious. Land registration efforts aim to formalize tenure, though coverage remains incomplete. Water source access often more critical than formal land ownership for pastoral viability.
 
 ## Tenure Insecurity

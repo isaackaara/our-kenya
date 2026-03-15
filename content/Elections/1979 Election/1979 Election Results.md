@@ -1,5 +1,3 @@
-# 1979 Election Results
-
 The 1979 election produced a parliament entirely composed of KANU nominees, continuing the one-party system. All successful primary candidates were elected to Parliament unopposed, and no independent or opposition candidates were elected. The parliament elected in 1979 numbered approximately 160 MPs, similar in size to the 1974 parliament.
 
 The 1979 results showed significant continuity in the regional distribution of parliamentary seats. Central Province retained the largest number of seats, though specific numbers varied as constituency boundaries had been adjusted. The Rift Valley maintained significant representation, with Kalenjin politicians occupying many seats. Luo Nyanza, Western Kenya, and other regions had representation proportional to their populations and administrative divisions.

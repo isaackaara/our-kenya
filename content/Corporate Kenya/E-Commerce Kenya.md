@@ -1,5 +1,3 @@
-# E-Commerce Kenya
-
 E-commerce in [[Kenya]] has grown through platforms like [[Jumia]], [[Jiji]], and others, enabling online retail and marketplace transactions. The sector reflects [[Internet Kenya|internet adoption]] and digital payment infrastructure, though growth faces logistics and payment challenges.
 
 ## See Also

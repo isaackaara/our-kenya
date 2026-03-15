@@ -1,5 +1,3 @@
-# 1969 Election Women
-
 Women's participation in the 1969 election was substantially constrained by the same structural limitations that had affected women's participation in 1963: limited access to candidacy, cultural restrictions on female political leadership, and the subordination of women's issues within male-dominated parties and campaigns. The election produced even fewer female candidates than 1963, reflecting women's continued marginalization from Kenya's political system.
 
 The number of female candidates in 1969 was minimal, perhaps even lower than in 1963. The constitutional and legal barriers to female candidacy that had constrained participation in 1963 remained in place in 1969. Additionally, the single-party system and the dominance of KANU primaries meant that women had limited opportunity to challenge male dominance within party structures or to establish independent political bases outside the party.

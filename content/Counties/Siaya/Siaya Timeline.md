@@ -1,5 +1,3 @@
-# Siaya Timeline
-
 ## Key Dates in Siaya County History
 
 **15th-17th Centuries:** [[../../Luo/Luo Origins and Migration|Luo migration]] into the [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] region from southern Sudan and Uganda. Settlement of the Siaya area by Luo-speaking peoples.

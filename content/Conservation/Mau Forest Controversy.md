@@ -1,5 +1,3 @@
-# Mau Forest Controversy
-
 The [[Mau Forest Crisis|Mau Complex]] (locally called Mau Forest) is Kenya's largest and most critical forest system, covering approximately 400,000 hectares (1 million acres) in the southwestern highlands. The forest serves as a water tower supplying multiple rivers and thousands of liters of water daily to surrounding regions. However, the forest has experienced catastrophic degradation due to political allocation, illegal logging, and settlement pressure.
 
 ## Forest Significance and Watershed Function

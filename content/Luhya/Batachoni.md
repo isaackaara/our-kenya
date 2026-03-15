@@ -1,5 +1,3 @@
-# Batachoni (Tachoni)
-
 The Batachoni, commonly known as the Tachoni or Sabaot, are a distinct ethnic group residing primarily in [[../Counties/Bungoma/Bungoma County|Bungoma County]], western Kenya. While historically classified by some sources as an independent tribe rather than a Luhya sub-group, the Tachoni share considerable cultural, linguistic, and historical connections with the Luhya community and have been traditionally counted among the Luhya confederation.
 
 ## Territory and Location

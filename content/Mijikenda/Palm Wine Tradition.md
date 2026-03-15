@@ -1,5 +1,3 @@
-# Palm Wine Tradition
-
 Mnazi (palm wine) is a traditional beverage with deep cultural and social significance in [[Mijikenda]] life. The production, consumption, and social context of mnazi reflect important aspects of coastal culture.
 
 ## Production and Tapping

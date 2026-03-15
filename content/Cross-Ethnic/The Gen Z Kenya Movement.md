@@ -1,5 +1,3 @@
-# The Gen Z Kenya Movement
-
 The [[2024 Finance Bill]] protests, organized primarily by [[Gen Z]] Kenyans through [[social media]], demonstrated notable [[cross-ethnic mobilization]] capacity among younger Kenyans. Young Kenyans from diverse ethnic backgrounds organized collectively to oppose government financial policies, suggesting that shared concerns around economic justice and governmental accountability can transcend ethnic boundaries for this generation.
 
 The Finance Bill of 2024 proposed tax increases on various economic activities and was broadly perceived as economically regressive and inimical to young people's economic interests. Young Kenyans, facing high unemployment rates, expensive education, and limited economic opportunities, perceived the bill as threatening their limited economic resources. The Finance Bill galvanized youth across ethnic lines around a shared economic grievance.

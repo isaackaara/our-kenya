@@ -1,5 +1,3 @@
-# Shifta War Atrocities and Collective Punishment
-
 The [[Shifta War Overview|Shifta War]] (1963-1967) and its aftermath were marked by documented atrocities against [[Kenyan Somali Identity|Somali]] civilians and [[NFD Pastoralism|pastoralists]]. Rather than targeting specific insurgents, Kenyan security forces conducted campaigns of collective punishment, including mass detention, livestock confiscation, and extrajudicial killings. These abuses established a pattern of state violence against Somali communities that would persist into subsequent decades, culminating in the [[Wagalla Massacre 1984|Wagalla Massacre]] (1984).
 
 ## Documented Patterns of Abuse

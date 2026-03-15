@@ -1,5 +1,3 @@
-# Somali Clan System in Kenya
-
 The Somali clan system is the foundational architecture of Somali society in Kenya, organizing identity, loyalty, and social obligation across politics, business, marriage, and resource management. Unlike Western nation-states built on civic citizenship, [[Somali Clan System Kenya|Somali clans]] function as multi-layered descent groups where family lineage, not geography, defines belonging and obligation.
 
 ## The Major Clan Families

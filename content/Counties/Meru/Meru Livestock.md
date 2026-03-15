@@ -1,5 +1,3 @@
-# Meru Livestock
-
 Livestock farming, particularly cattle dairy production, integrates with crop agriculture across much of Meru County. Dairy cattle provide milk for household consumption and sale to cooperative collection centers. Small ruminants (goats, sheep) supplement household incomes and provide stores of wealth. Livestock integrate into farming systems as sources of manure, transport, and insurance against crop failure.
 
 ## Dairy Cattle Production

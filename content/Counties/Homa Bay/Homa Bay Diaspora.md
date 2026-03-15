@@ -1,5 +1,3 @@
-# Homa Bay Diaspora
-
 Homa Bay residents have migrated extensively to urban centers and internationally in search of employment and education, creating diaspora networks that maintain connections to home communities. These networks contribute financially and socially to development.
 
 ## Urban Migration Patterns

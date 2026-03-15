@@ -1,5 +1,3 @@
-# 1963 Election Regional Pattern
-
 The 1963 election results revealed clear regional patterns of support that reflected Kenya's ethnic geography and the differential appeal of KANU and KADU in different communities. These patterns would persist as the foundation of Kenyan electoral politics for the next three decades, establishing ethnic voting blocs as the primary mechanism of political organization and representation.
 
 In the central highlands (Kikuyu areas including Kiambu, Muranga, and Nyeri districts), KANU won virtually all contested seats with overwhelming majorities. Kikuyu voters gave KANU over 90 percent support, a level of uniformity that reflected both the party's domination of the nationalist movement and the personal prestige of [[Jomo Kenyatta]], himself a Kikuyu elder. The Embu and Meru communities, ethnically close to the Kikuyu and similarly integrated into the colonial cash economy, showed similar patterns of support for KANU.

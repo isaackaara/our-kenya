@@ -1,5 +1,3 @@
-# Happy Valley
-
 The "Happy Valley" was a social set of European settlers based in the Wanjohi Valley near Gilgil, in the central highlands, during the 1920s-1940s. They are remembered as a symbol of colonial decadence: wealthy, drug-addicted, sexually transgressive, and indifferent to the poverty of the African workers and communities that surrounded them. The 1941 murder of Josslyn Hay, 22nd Earl of Erroll, became the most notorious incident of the era and the subject of later books and films.
 
 ## The Social Set

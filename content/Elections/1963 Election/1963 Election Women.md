@@ -1,5 +1,3 @@
-# 1963 Election Women
-
 Women's participation in the 1963 election was historically significant as Kenya's first democratic contest under universal adult suffrage, yet the barriers to female political participation remained substantial. Approximately 10 percent of the electorate were female voters, indicating strong female turnout despite a political culture that had historically marginalized women's political voice. However, female candidates faced severe obstacles, and only one woman won an elective seat.
 
 The lone female winner was Margaret Kenyatta, the daughter of [[Jomo Kenyatta]], who won the Kisii Central seat. Her victory was exceptional and likely reflected her family's political prominence more than a broader opening of parliamentary politics to women. Margaret Kenyatta's presence in parliament offered visible representation of female political participation, but her single voice was insufficient to shift parliamentary gender dynamics or challenge the male domination of post-independence politics.

@@ -1,5 +1,3 @@
-# Lamu Devolution
-
 Lamu County was created in 2013 following Kenya's constitutional devolution, which redistributed governmental authority from the national government to 47 newly created counties. Devolution brought significant changes to governance structure, service delivery, and development planning in Lamu, with mixed results.
 
 Prior to devolution, Lamu was administered as a district within the Coast Province, governed by a centrally-appointed district commissioner and national government structures. Local authorities had limited autonomy, and development decisions were made by the national government. Devolution moved considerable governance authority to the local level.

@@ -1,5 +1,3 @@
-# Healthcare and Ethnicity
-
 Healthcare provision in [[Cross-Ethnic Kenya|Kenya]] operates as a [[Civil Society Kenya|cross-ethnic service system]]. Public health facilities, private clinics, and NGO health programs serve patients from all ethnic groups. Healthcare workers from all ethnic backgrounds treat patients of diverse ethnicities. The health system's universal mandate creates frameworks for cross-ethnic service provision and interaction.
 
 Public health facilities funded and operated by the government serve entire geographic areas regardless of patients' ethnicity. District hospitals, health centers, and dispensaries provide services to populations including multiple ethnic groups. Healthcare workers in these facilities include people from various ethnic backgrounds. The shared commitment to health provision creates institutional frameworks transcending ethnicity.

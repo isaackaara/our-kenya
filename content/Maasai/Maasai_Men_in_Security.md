@@ -1,5 +1,3 @@
-# Maasai Men in Security
-
 ## Reputation and Demand
 
 Maasai men are highly valued in Kenya's security sector due to their reputation for courage, strength, and warrior traditions. Banks, hotels, businesses, government institutions, and private homes employ Maasai men as security guards. This demand reflects both cultural reputation (Maasai warrior identity is globally known) and practical assessment (physical strength, reliability). The reputation as warriors translates into perceived security competence.

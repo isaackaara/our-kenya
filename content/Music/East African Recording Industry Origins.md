@@ -1,5 +1,3 @@
-# East African Recording Industry Origins
-
 The East African recording industry emerged in the 1920s through 1950s as a colonial enterprise dominated by European companies, yet it created infrastructure and opportunities that African musicians would eventually claim for themselves. Understanding this industry's origins reveals the economic structures that shaped who could record, what music reached audiences, and how musical creativity was commodified.
 
 The first commercial recordings of East African music came from expeditions by Columbia Records and His Master's Voice (HMV) in the late 1920s and early 1930s. These companies, based in Britain, saw potential markets in colonial Africa. Their [[Music/East African Gramophone Records 1920s|recording expeditions]] were extractive: engineers arrived with portable equipment, recorded dozens of musicians over a few weeks, pressed records in London, and sold them back to East African consumers at substantial markups.

@@ -1,5 +1,3 @@
-# Vihiga Environmental Degradation
-
 Vihiga County faces severe environmental degradation from population pressure exceeding environmental carrying capacity. Deforestation has removed most tree cover except small scattered patches. Soil degradation from intensive cultivation reduces long-term productivity. Water source pollution affects household water security. Environmental degradation threatens both livelihood sustainability and quality of life.
 
 ## Deforestation and Tree Loss

@@ -1,5 +1,3 @@
-# Harry Belafonte Kenya Connection
-
 The complex history of "Malaika" and Harry Belafonte's role in its international journey illuminates the fraught relationship between African musicians and Western artists who popularized their work. Belafonte's version of the song, originally by [[Music/Fadhili Williams|Fadhili William]], brought East African music to global audiences but also exemplified the exploitative structures that denied African creators fair compensation.
 
 Harry Belafonte, the Jamaican-American singer who became internationally famous for popularizing Caribbean music in the 1950s, encountered "Malaika" in the early 1960s. The song's melody, haunting lyrics about unattainable love due to poverty, and Swahili language appealed to Belafonte's interest in African and diaspora music. He recorded his version, which appeared on his 1962 album "The Many Moods of Belafonte."

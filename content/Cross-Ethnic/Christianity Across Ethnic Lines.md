@@ -1,5 +1,3 @@
-# Christianity Across Ethnic Lines
-
 Christian churches in [[Cross-Ethnic Kenya|Kenya]] function as [[Civil Society Kenya|cross-ethnic religious and social spaces]]. The Catholic Church, Presbyterian Church of East Africa, African Inland Church, and numerous Pentecostal denominations all maintain congregations drawn from multiple ethnic groups. The Christian faith transcends ethnic particularism through theological emphasis on universal human brotherhood and salvation available to all peoples.
 
 The Catholic Church in Kenya has a long history predating independence. The church's organizational hierarchy, centralized theology, and international character created institutional frameworks transcending ethnic boundaries. Catholic parishes serve congregations of mixed ethnicity. Catholic clergy come from diverse ethnic backgrounds. The church's operation as an international institution creates identity dimensions independent of ethnic affiliation.

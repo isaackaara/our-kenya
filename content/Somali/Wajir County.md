@@ -1,5 +1,3 @@
-# [[Wajir County|Wajir]] County
-
 Wajir County is home to the Degodia clan (Hawiye) and other Somali groups. The county is known historically as the site of the 1984 Wagalla Massacre, one of Kenya's worst human rights atrocities. However, Wajir is also known for the Wajir [[Wajir Peace Accord|peace]] and Development Committee (WPDC), a grassroots peace-building initiative that became a nationally and internationally recognized model for community-led conflict resolution. The county represents both Kenya's worst state violence and hopeful community resilience.
 
 ## The Wagalla Massacre Legacy

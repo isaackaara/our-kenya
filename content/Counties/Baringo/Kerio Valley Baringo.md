@@ -1,5 +1,3 @@
-# Kerio Valley Baringo
-
 The Kerio Valley runs through Baringo County as a spectacular rift valley formation, featuring steep escarpment walls, dramatic landscape features, and challenging topography. The valley represents a significant geographic feature with cultural, ecological, and tourism significance.
 
 The Kerio Valley separates Baringo from West Pokot County, with the valley floor and escarpment walls creating distinctive landscape characteristics.

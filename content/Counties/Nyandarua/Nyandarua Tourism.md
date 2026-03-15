@@ -1,5 +1,3 @@
-# Nyandarua Tourism
-
 Tourism to Aberdare National Park facilities provides income and employment in Nyandarua. The Ark Lodge and Treetops Lodge attract international wildlife viewers. Park wildlife viewing generates tourism revenue. However, local communities see limited direct benefits from tourism. Tourism development occurs with mixed environmental impacts. Balancing tourism with conservation and community interests remains challenging.
 
 ## Wildlife Viewing Facilities

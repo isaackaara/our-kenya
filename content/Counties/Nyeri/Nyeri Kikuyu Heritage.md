@@ -1,5 +1,3 @@
-# Nyeri Kikuyu Heritage
-
 Nyeri County is the heartland of Kikuyu culture and identity. The Kikuyu people, Kenya's largest ethnic group, have their cultural center in the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] highlands that include Nyeri. Kikuyu language, traditions, initiation practices, and social organizations maintain strong presence in Nyeri. The county represents the geographic and cultural core of Kikuyu civilization.
 
 ## Language and Culture

@@ -1,5 +1,3 @@
-# Nakuru Politics
-
 [[../Nakuru/Nakuru County|Nakuru County]] politics is characterized by intense [[../../Kalenjin/Kalenjin|Kalenjin]] versus [[../../Kikuyu/Kikuyu|Kikuyu]] competition, reflecting the demographic tensions rooted in colonial land alienation and post-independence resettlement. The two communities represent nearly equal populations in the county, creating a volatile political balance where no single group can dominate without mobilizing ethnically.
 
 Historically, [[../../Kalenjin/Kalenjin|Kalenjin]] community (particularly Tugen) dominated through the Moi presidency (1978-2002), when [[../../Kalenjin/Daniel arap Moi|Daniel arap Moi]], a Tugen from the Rift Valley, controlled Kenya. Moi used political patronage and state resources to entrench Kalenjin political and economic dominance. After Moi's departure, political power became more contested, with [[../../Kikuyu/Kikuyu|Kikuyu]] candidates winning several election cycles but never achieving decisive control.

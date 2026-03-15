@@ -1,5 +1,3 @@
-# [[Somali Language Kenya|Somali language]] Kenya
-
 The Somali language (af Soomaali) is an East Cushitic language of the Afroasiatic family, not a Bantu language. It is spoken by approximately 15 to 20 million people across Somalia, Kenya, Ethiopia (Somali Region), and Djibouti. In Kenya, Somali is the primary language of the Somali ethnic group, though it faces limited institutional support and is not taught in most schools.
 
 ## Language Classification and Characteristics

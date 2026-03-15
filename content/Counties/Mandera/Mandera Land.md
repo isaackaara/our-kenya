@@ -1,5 +1,3 @@
-# Mandera Land
-
 Land in Mandera County is predominantly held and used under customary tenure systems based on pastoral clan ownership, with limited formal land registration and ongoing tensions between customary and statutory land rights. The rangelands that constitute most of Mandera's land base are traditionally managed through clan-based resource access systems, though these systems are increasingly stressed by population pressure, resource scarcity, and government attempts at formalization.
 
 ## Land Tenure Systems

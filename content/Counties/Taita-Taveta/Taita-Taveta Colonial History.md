@@ -1,5 +1,3 @@
-# Taita-Taveta Colonial History
-
 The colonial period, spanning approximately the 1890s to 1963, profoundly transformed Taita-Taveta County, reshaping land tenure systems, settlement patterns, economic structures, and social organization. The arrival of European colonial forces initiated a series of changes that disrupted traditional authority structures, introduced new forms of economic exploitation, and ultimately provoked nationalist resistance that culminated in independence.
 
 The earliest European penetration of the Taita-Taveta region occurred in the context of the broader European colonization of East Africa in the late 19th century. German and British forces competed for territorial control following the Berlin Conference (1884-1885), which allocated East African territories to European powers. The region eventually fell within the British sphere of influence, being incorporated into the East Africa Protectorate in 1895, which subsequently became the Kenya Colony.

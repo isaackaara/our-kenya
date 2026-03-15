@@ -1,5 +1,3 @@
-# Samburu Notable People
-
 Several prominent Kenyans trace their origins or have strong connections to Samburu County, representing diverse fields including politics, conservation, literature, and business.
 
 Political leaders from Samburu have served in national parliament and county government. County governors and members of parliament represent Samburu's interests in national forums. Their work includes advocating for pastoral development, water security, and protection of pastoral rights.

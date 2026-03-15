@@ -1,5 +1,3 @@
-# 1969 Election Winners
-
 The 1969 election produced clear winners in terms of parliamentary seats and positions within KANU's hierarchy, but the winners were predominantly those who had demonstrated loyalty to [[Jomo Kenyatta]] and who embodied the Kikuyu political dominance that had characterized post-independence Kenya. The election resulted in a parliament composed of 158 KANU members, with the party hierarchy choosing which of these members would hold ministerial positions.
 
 The big winners in the 1969 election were incumbent KANU members who had been successful in KANU primary contests. Candidates aligned with Kenyatta's faction and candidates with strong ethnic bases in the Kikuyu highlands won decisively. The election permitted those with strongest party connections and access to government patronage to secure parliamentary positions, often with little real competition.

@@ -1,5 +1,3 @@
-# Asset Recovery Kenya
-
 ## Overview
 
 The Assets Recovery Agency (ARA) was established to recover assets stolen through [[Corruption in Kenya Overview|corruption]]. However, ARA has recovered only a small fraction of stolen assets despite billions of shillings being stolen over decades. The agency has faced institutional constraints, political interference, and jurisdictional limitations that have rendered it largely ineffective in its core mandate.

@@ -1,5 +1,3 @@
-# Swahili as National Bond
-
 [[Kiswahili]] serves as the thread connecting all Kenyans despite the persistence of [[ethnic languages]]. Designated as [[Kenya]]'s national language at independence, [[Swahili]] functions as the primary language of [[national integration]], taught in all schools and understood across ethnic boundaries. The role of Swahili in national identity and cross-ethnic communication reflects the language's historical development as a trade language transcending ethnic boundaries.
 
 Swahili originated as a trade language on the East African coast, developing through interaction between Bantu peoples, Arab merchants, and others. The language incorporates vocabulary from Arabic, English, Portuguese, and Indian languages alongside Bantu grammar and roots. This mixed character makes Swahili intrinsically cosmopolitan and non-ethnic. No single ethnic group claims Swahili as their ancestral language, allowing the language to function as a neutral national vehicle.

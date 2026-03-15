@@ -1,5 +1,3 @@
-# Nakuru Tourism
-
 Nakuru is a major tourism destination in Kenya's Rift Valley, attracting both domestic and international visitors seeking to experience Kenya's natural and cultural heritage. [[../../Conservation/Lake Nakuru|Lake Nakuru]] National Park, with its famous flamingos and rhino sanctuary, is the main attraction. [[../../Conservation/Lake Naivasha|Lake Naivasha]] offers opportunities for boat tours, bird watching, and hippo viewing. [[../../Conservation/Hell's Gate National Park|Hell's Gate National Park]], between Naivasha and Nakuru, is known for geothermal steam, dramatic gorge landscapes, and adventure tourism (gorge walks, cycling, rock climbing).
 
 Mount Longonot is an extinct volcano now part of a national park, offering a challenging crater rim walk with spectacular Rift Valley views. The region's diverse ecosystems support a wide variety of wildlife, including zebra, giraffe, buffalo, antelope, and carnivores, drawing safari tourists. Tourism infrastructure includes lodges, camps, restaurants, and transport services concentrated in major towns and around protected areas.

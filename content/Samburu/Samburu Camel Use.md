@@ -1,5 +1,3 @@
-# Samburu Camel Use
-
 [[Samburu]] have increasingly adopted camels for [[Samburu Pastoralism|pastoral production]], particularly in drier zones where [[Samburu Cattle Culture|cattle]] productivity declines. Camels provide milk, transportation, and meat. Camel herding provides adaptation strategy for increasingly arid conditions. Camel cultural integration reflects livelihood adaptation to environmental change and pastoralist resilience.
 
 ## Camel Adaptability

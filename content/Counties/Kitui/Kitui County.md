@@ -1,5 +1,3 @@
-# Kitui County
-
 Kitui County is the eastern Kamba heartland in Kenya's semi-arid lands, covering 24,385 square kilometers and making it one of Kenya's largest counties by area. With a population of approximately 1.2 million people, Kitui is predominantly Kamba. Kitui town serves as the county headquarters. The county is one of Kenya's most underdeveloped regions despite substantial mineral wealth, particularly coal deposits in the Mui Basin.
 
 Kitui County exemplifies the development paradox in which resource-rich regions sometimes experience limited economic benefits. Massive coal reserves estimated at over 400 million tonnes remain unmined due to environmental, developmental, and political controversy. The debate about whether to extract coal has dominated Kitui policy discourse for decades.

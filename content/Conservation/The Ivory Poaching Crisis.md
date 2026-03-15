@@ -1,5 +1,3 @@
-# The Ivory Poaching Crisis
-
 The global [[ivory]] poaching crisis of 2008-2014 nearly reversed Kenya's [[elephant]] recovery, with poaching reaching levels comparable to the 1980s catastrophe. The crisis demonstrated that wildlife conservation progress remains vulnerable to resurgent poaching pressure driven by international demand, [[organized crime|organized criminal networks]], and inadequate enforcement.
 
 ## Context and Scale

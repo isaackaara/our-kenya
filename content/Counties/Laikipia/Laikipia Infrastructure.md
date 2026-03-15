@@ -1,5 +1,3 @@
-# Laikipia Infrastructure
-
 Infrastructure in Laikipia County serves the dispersed population and economic activities. Nanyuki airport provides air access. Road networks connect towns though many feeder roads remain unpaved. Electricity reaches most settlements. Water supply systems support urban and some rural areas. Telecommunications provide mobile phone coverage. Healthcare and education facilities serve communities. Infrastructure development has been uneven across the county.
 
 ## Transportation

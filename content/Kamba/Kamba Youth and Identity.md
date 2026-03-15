@@ -1,5 +1,3 @@
-# Kamba Youth and Identity
-
 The young [[Kamba]] in 2026 navigate complex identity terrain, balancing inherited cultural traditions with contemporary opportunities and global influences. Youth from traditionally [[Kamba Military Figures|martial]] and [[Kamba Wood Carving|artisanal]] backgrounds face questions about cultural continuity while pursuing education and urban careers.
 
 ## Wood Carving Tradition and Youth

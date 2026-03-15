@@ -1,5 +1,3 @@
-# Isiolo Food Security
-
 Food insecurity represents a persistent challenge in Isiolo County, driven by climatic variability, pastoral production risks, and limited livelihood diversification. Chronic food insecurity affects significant proportions of the population even during normal years.
 
 Rainfall failure triggers food crises as livestock die and pastoral households lose income and food sources. Humanitarian responses including emergency food aid become necessary during severe droughts. Major droughts in 1984-1985, 2010-2011, and 2019-2020 created large-scale food emergencies requiring international assistance.

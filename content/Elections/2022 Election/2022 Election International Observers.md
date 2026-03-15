@@ -1,5 +1,3 @@
-# 2022 Election International Observers
-
 International election observation missions from numerous countries, regional organizations, and international bodies deployed observers to Kenya during the 2022 election, providing independent assessments of electoral conduct, institutional performance, and the quality of Kenya's democratic processes. The observer community's assessments ranged from cautiously positive to concerned regarding various dimensions of the election's administration and outcomes.
 
 The European Union Election Observation Mission (EU EOM) deployed extensive observers across Kenya, providing comprehensive monitoring of campaign conduct, election-day procedures, and result tabulation. The EU's assessments acknowledged institutional improvements and generally procedurally-sound election conduct while noting irregularities in specific locations and ongoing vulnerabilities in electronic transmission systems. The EU's final report offered cautious assessment that while the election had proceeded largely in accordance with procedural requirements, significant institutional challenges persisted.

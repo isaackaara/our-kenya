@@ -1,5 +1,3 @@
-# Achieng Oneko
-
 Ramogi Achieng Oneko (1920-2007) was a Kenyan freedom fighter, journalist, and politician, considered a national hero. As a member of the Kapenguria Six (detained for alleged Mau Mau connections), a Cabinet minister, and a persistent opponent of postcolonial authoritarianism, Oneko exemplified Luo intellectual engagement in Kenya's political struggles.
 
 ## Early Life and Education

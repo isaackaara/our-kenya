@@ -1,5 +1,3 @@
-# Machakos Climate
-
 Machakos County experiences a semi-arid climate characterized by low and erratic rainfall, high temperatures, and significant seasonal variation. These climatic conditions shape agricultural patterns, water availability, and livelihood strategies throughout the county. Climate variability presents ongoing development challenges.
 
 Rainfall in Machakos follows a bimodal pattern with two rainy seasons: the long rains from March to May and the short rains from October to December. However, rainfall in both seasons is unreliable, with considerable year-to-year variation. Some years experience abundant rains supporting good agricultural harvests, while other years see devastating droughts causing crop failure and livestock mortality.

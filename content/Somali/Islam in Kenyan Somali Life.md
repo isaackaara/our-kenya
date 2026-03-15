@@ -1,5 +1,3 @@
-# Islam in Kenyan Somali Life: Religion, Identity, and Social Practice
-
 Islam is the foundational religious and cultural identity for virtually all [[Somali]] communities in Kenya. Islam shapes daily life, legal frameworks (through customary Islamic law), family relationships, political mobilization, and community identity. [[Kenyan Somali]] Islam combines Shafi'i school jurisprudence, Sufi traditions, and more recently, Salafi movements, creating a complex religious landscape.
 
 ## Islamic Law and Daily Practice

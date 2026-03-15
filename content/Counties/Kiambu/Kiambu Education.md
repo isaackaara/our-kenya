@@ -1,5 +1,3 @@
-# Kiambu Education System
-
 [[../Kiambu/Kiambu County|Kiambu County]]'s education system is relatively well-developed, reflecting the county's wealth and [[../../Kikuyu/Kikuyu|Kikuyu]] community's emphasis on education. Alliance High School in Kikuyu is Kenya's most elite secondary school, while other secondary schools including Limuru Girls, Tigoni High School, and numerous others serve students from Kiambu and beyond. Primary education has expanded significantly, with both public and private schools available throughout the county.
 
 Universities are limited in Kiambu itself, though several private universities have established campuses in Nairobi suburbs. The county has numerous primary schools providing education to children in both urban and rural areas. Quality varies significantly between well-funded private schools serving wealthy families and under-resourced public schools in poor areas. Technical and vocational training institutes provide skills training in construction, automotive, and other trades.

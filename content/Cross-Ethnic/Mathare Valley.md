@@ -1,5 +1,3 @@
-# Mathare Valley
-
 Mathare Valley is [[Nairobi as Melting Pot|Nairobi]]'s second-largest informal settlement, located in the north-central part of the city along the Mathare River. With an estimated population of over 500,000 residents, Mathare Valley has evolved into a sprawling, densely populated urban neighborhood. The settlement began in the 1950s as a collection of makeshift structures along the river, initially housing [[Rural to Urban Migration and Cultural Severance|workers seeking employment]] in the rapidly expanding colonial and early post-colonial city.
 
 Mathare Valley's growth accelerated after independence as [[Rural to Urban Migration and Cultural Severance|rural-urban migration]] intensified. The informal structure of the settlement meant that housing could expand to accommodate newcomers regardless of formal planning. Unlike planned neighborhoods with ethnic clustering, Mathare developed as a primarily economic zone where people of all backgrounds could afford accommodation. Kikuyu, Luo, Luhya, Kamba, and other communities settled in the valley, creating a [[Cross-Ethnic Kenya|mosaic of linguistic and cultural groups]].

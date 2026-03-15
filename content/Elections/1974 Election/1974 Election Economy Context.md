@@ -1,5 +1,3 @@
-# 1974 Election Economy Context
-
 Kenya's economy in 1974 was characterized by strong agricultural performance and commodity export revenues that funded government spending and development projects. The global commodity boom of the early 1970s benefited Kenya significantly, as agricultural exports (coffee, tea, sisal) commanded high prices on international markets. This economic context shaped the 1974 election, allowing the government to fund visible development projects and to distribute patronage resources to political allies.
 
 The global oil crisis of 1973 had created disruption in many African economies, but Kenya's agricultural exports were in demand as oil-producing nations increased their own economic activity and purchases of agricultural commodities. Kenya's currency remained relatively strong, and foreign exchange reserves were adequate. This economic strength allowed the government to maintain development spending and to support constituencies through infrastructure investment.

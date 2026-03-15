@@ -1,5 +1,3 @@
-# Kamba Games and Sports
-
 Traditional Kamba games and sports included wrestling, archery, racing, and skill competitions that served entertainment, training, and cultural purposes. Contemporary Kamba participation in national and international sports represents continuation of these competitive traditions in modern forms.
 
 ## Traditional Wrestling

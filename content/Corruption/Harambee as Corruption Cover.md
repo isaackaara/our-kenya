@@ -1,5 +1,3 @@
-# Harambee as Corruption Cover: Laundering Graft as Charity
-
 ## Harambee Tradition
 
 Harambee is a Swahili word meaning "pull together." In Kenya, harambee refers to a community self-help tradition where communities organize fundraising events (harambees) to finance development projects: building schools, constructing water systems, health facilities, or other community needs.

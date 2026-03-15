@@ -1,5 +1,3 @@
-# Corruption and Infrastructure Quality
-
 ## Overview
 
 [[Corruption in Kenya Overview|Infrastructure corruption]] directly affects infrastructure quality and durability. Roads built through [[Public Procurement Corruption|corrupt procurement]] deteriorate rapidly. Buildings constructed by corrupt contractors collapse. Water systems installed corruptly fail within months. The correlation between corruption and infrastructure failure is direct and measurable.

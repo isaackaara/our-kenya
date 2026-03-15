@@ -1,5 +1,3 @@
-# Oil Community Conflicts
-
 The [[Oil Discovery in Turkana]] sector development in Turkana County has generated significant conflicts between Turkana communities and oil companies (primarily Tullow Oil and Total) over land compensation, environmental impacts, employment, and community benefits. These conflicts have manifested in community protests, road blockades, and disputes over contract terms and benefit-sharing.
 
 ## Land Acquisition and Compensation Disputes

@@ -1,5 +1,3 @@
-# Mohamed Yusuf Haji
-
 Mohamed Yusuf Haji is a prominent [[Kenyan Somali Identity|Kenyan Somali]] politician who has held significant cabinet positions, making him one of the highest-ranking [[Kenyan Somali in Politics|Somali]] officials in Kenya's government. He has served as Defence Minister, Interior Minister, and held other senior positions across multiple administrations. His career represents [[Kenyan Somali Identity|Somali]] political advancement in Kenya, though career trajectory has been marked by both achievements and controversies.
 
 ## Political Career

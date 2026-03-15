@@ -1,5 +1,3 @@
-# Kapenguria Town
-
 Kapenguria is the county headquarters of [[West Pokot County]], located in the northwestern region of Kenya near the border with Uganda. The town serves as the administrative, commercial, and social center for West Pokot, housing government offices, businesses, schools, and health facilities that serve the broader county population. Beyond its contemporary administrative role, Kapenguria holds significant historical importance as the site of a controversial 1952-1961 detention of [[Jomo Kenyatta Detention|Jomo Kenyatta]], Kenya's first independent president, making the town a site of major national historical significance.
 
 ## Location and Geography

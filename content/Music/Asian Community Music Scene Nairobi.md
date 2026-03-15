@@ -1,5 +1,3 @@
-# Asian Community Music Scene Nairobi
-
 Nairobi's Asian community, particularly Indians, Goans, and Pakistanis, created a vibrant musical culture during the colonial period that profoundly influenced Kenya's broader music scene while remaining partially segregated from both European and African musical worlds. This community's contributions to Kenyan music deserve recognition beyond their often-overlooked supporting roles.
 
 The Asian community in Kenya, primarily descended from laborers brought to build the Uganda Railway in the 1890s and subsequent merchants and professionals, maintained strong musical connections to the subcontinent. Indian film music, particularly Bollywood soundtracks, circulated widely through records, radio, and live performances. Community gatherings featured performances of classical Indian music, ghazals, bhajans, and popular film songs.

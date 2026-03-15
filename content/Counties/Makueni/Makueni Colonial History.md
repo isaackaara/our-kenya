@@ -1,5 +1,3 @@
-# Makueni Colonial History
-
 British colonial administration in Makueni followed patterns established in other Kenyan regions, introducing administrative controls, tax systems, and labour recruitment. The Kamba populations of what became Makueni resisted colonialism while eventually adapting to colonial administrative structures. Colonial impact on Makueni shaped the county's twentieth-century trajectory.
 
 Early British contact with Makueni occurred through missionary activity and trading expeditions. The Africa Inland Mission and other missionary organizations preceded formal colonial administration, establishing institutional presence. Missionaries served as cultural intermediaries and colonial information sources.

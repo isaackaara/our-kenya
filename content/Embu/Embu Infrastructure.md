@@ -1,5 +1,3 @@
-# Embu Infrastructure
-
 Embu [[Embu County]] has expanded infrastructure dramatically since independence and particularly since [[Embu and Devolution]] (2013 onwards). Roads, electricity, water systems, and telecommunications have improved, though gaps remain between urban and rural areas, and between well-served and marginalized locations.
 
 ## Road Infrastructure

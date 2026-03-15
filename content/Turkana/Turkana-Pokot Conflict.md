@@ -1,5 +1,3 @@
-# Turkana-Pokot Conflict
-
 The Turkana and Pokot communities, neighboring pastoralist groups sharing the borders of northern Kenya, have engaged in persistent cattle raiding and armed [[Turkana-Pokot Conflict]] for decades. This conflict has killed hundreds of people, displaced communities, and disrupted [[Turkana Pastoralism]] livelihoods, intensifying significantly since the 1980s as modern weapons have become more accessible.
 
 ## Historical Background

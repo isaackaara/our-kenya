@@ -1,5 +1,3 @@
-# Kitui Climate Change
-
 Climate change has intensified in Kitui County, manifesting as increased temperature, delayed rainy seasons, shortened rainy season duration, and increased rainfall variability. These changes have exacerbated drought frequency, extended drought duration, and compromised water security. Worsening drought and its impact on livelihoods represent major development challenges.
 
 Observed temperature increases have been documented through meteorological records and community observations. Pastoralists and farmers report that conditions have become hotter, with higher peak temperatures during dry seasons. Temperature increases stress vegetation, livestock, and human populations.

@@ -1,5 +1,3 @@
-# Asian Kenyan Identity 2026
-
 In 2026, the question of what it means to be [[Asian Kenyans|Asian]] and [[Kenyan]] remains complex and contested. Are [[Asian Kenyans]] accepted as [[Kenyan]]? The insider-outsider question persists more than 160 years after the first [[Asian Kenyans|Asian]] labourers arrived. Despite contributions to [[Kenya]]'s [[economy]], [[culture]], and [[development]], [[Asian Kenyans]] sometimes remain viewed with ambivalence, and full acceptance as genuine [[Kenyans]] remains unresolved for many.
 
 ## The Long-Standing Question

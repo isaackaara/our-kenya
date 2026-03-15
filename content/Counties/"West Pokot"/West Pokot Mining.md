@@ -1,5 +1,3 @@
-# West Pokot Mining
-
 Mineral resources in West Pokot County include gold, gemstones (tourmaline, garnets), and other minerals. Mining activities are primarily artisanal and small-scale, with limited formal mining operations. Gold mining concentrates in specific locations where ore deposits are accessible. Gemstone extraction occurs through panning and informal mining. Mining provides income for communities in areas with mineral deposits. Mining operations are largely unregulated, with limited government oversight. Environmental impacts from mining include water pollution and habitat degradation. Land-use conflicts arise between mining and pastoral or agricultural interests. Community benefit-sharing from mining is limited, creating tension with mining operators. Mining safety is minimal, exposing workers to significant injury risks.
 
 ## Mineral Resources and Deposits

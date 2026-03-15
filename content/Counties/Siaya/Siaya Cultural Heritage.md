@@ -1,5 +1,3 @@
-# Siaya Cultural Heritage
-
 Siaya County embodies distinctive [[../../Luo/Luo|Luo]] cultural practices, traditions, and knowledge systems that have been maintained and adapted over centuries. These cultural practices define community identity and continue to influence contemporary social life.
 
 ## Traditional Leadership and Clans

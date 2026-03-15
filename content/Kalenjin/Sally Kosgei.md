@@ -1,5 +1,3 @@
-# Sally Kosgei
-
 Sally Kosgei is a prominent Kalenjin woman who achieved distinction through careers in academia, public service, and diplomacy, serving as ambassador, head of public service, and cabinet minister under multiple Kenyan administrations. Her career represents unusual prominence for a Kalenjin woman and reflects broader changes in gender roles and opportunities in post-colonial Kenya.
 
 ## Early Career and Academic Background

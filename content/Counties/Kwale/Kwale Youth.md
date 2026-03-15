@@ -1,5 +1,3 @@
-# Kwale Youth
-
 Youth in Kwale County face significant challenges including limited employment opportunities, pressure to migrate to urban areas, inadequate educational quality, and social pressures including substance abuse and early marriage. Yet youth also represent potential development agents, with increasing education levels, technological adaptability, and creativity.
 
 Employment opportunities for Kwale youth remain limited outside the tourism sector. Agriculture provides limited income for youth lacking substantial landholdings. Formal sector employment is scarce, pushing many youth toward informal sector work including street vending, casual labor, and service provision. Youth unemployment rates in coastal Kenya exceed national averages, creating social and economic challenges.

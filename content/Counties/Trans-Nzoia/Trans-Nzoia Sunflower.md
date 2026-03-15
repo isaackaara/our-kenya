@@ -1,5 +1,3 @@
-# Trans-Nzoia Sunflower
-
 Sunflower cultivation has become an increasingly important agricultural enterprise in Trans-Nzoia County. The crop is valued for oil production, with seeds pressed into cooking oil, margarine, and animal feed. Sunflower grows well in the county's highland climate and fits into crop rotation systems with cereals. Farmers plant improved sunflower varieties selected for yield and disease resistance. The bright yellow flowers dominate portions of the agricultural landscape during the growing season. Sunflower has lower input costs compared to some alternative crops, making it accessible to smallholder farmers.
 
 ## Production and Processing

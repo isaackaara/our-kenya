@@ -1,5 +1,3 @@
-# Trans-Nzoia Infrastructure
-
 Trans-Nzoia County has developed road and communication infrastructure supporting agricultural commerce and regional connectivity. The county is served by the main highway connecting Kisumu to the Uganda border at Busia and Malaba, passing through Kitale. Regional roads link Kitale to Eldoret, Kisii, and other regional centers. Rural roads provide access from trading centers to farm areas, though many remain unpaved and impassable during rainy seasons. Road maintenance is managed by national and county government agencies, though funding constraints limit maintenance capacity. The road network enables agricultural product transport, market access, and passenger movement.
 
 ## Telecommunications and Service Infrastructure

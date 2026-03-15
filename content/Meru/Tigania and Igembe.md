@@ -1,5 +1,3 @@
-# Tigania and Igembe
-
 [[Tigania]] and [[Igembe]] are [[Meru]] sub-groups occupying the northern portions of Meru territory, particularly the [[Nyambene Hills]]. These sub-groups are historically and economically defined by their association with [[miraa]] (khat) cultivation and trade, which has become the dominant economic activity and cultural marker of [[Tigania]] and [[Igembe]] identity in the modern era.
 
 ## Territory and Geography

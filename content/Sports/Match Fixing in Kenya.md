@@ -1,5 +1,3 @@
-# Match Fixing in Kenya: Betting Company Influence and Investigations
-
 Evidence of match fixing in Kenyan football has emerged in investigations by betting monitoring organizations and law enforcement. The involvement of betting companies in sports sponsorship has created perverse incentives for match manipulation. Several Kenyan football matches have been investigated for suspicious betting patterns indicating potential fixing. The scale of match fixing in Kenya remains difficult to determine, but evidence suggests systemic involvement of betting interests in Kenyan football.
 
 ## See Also

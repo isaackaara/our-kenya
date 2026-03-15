@@ -1,5 +1,3 @@
-# Land Fragmentation in Kisii
-
 The Kisii Highlands have experienced extreme land fragmentation, resulting in many households holding plots smaller than 0.5 acres. This fragmentation is unsustainable for agriculture, threatens food security, and has driven migration, landlessness, and rural poverty. Land fragmentation is among the most significant contemporary challenges facing Kisii.
 
 ## Origins of Land Fragmentation

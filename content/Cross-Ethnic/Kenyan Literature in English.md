@@ -1,5 +1,3 @@
-# Kenyan Literature in English
-
 Kenyan authors writing in English have created bodies of work reaching national and international audiences. Writers including Binyavanga Wainaina, Yvonne Adhiambo Owuor, Ngugi wa Thiong'o, Aravind Adiga, and others have produced literature addressing [[Kenyan Identity Evolution 1964-2026|Kenyan themes]] for readers across [[Kenya]], Africa, and globally. The choice to write in English connects these authors to [[Nairobi Professional Class|international literary networks]] while allowing them to address [[Private School Kids|Kenyan audiences educated in English]].
 
 Binyavanga Wainaina's essays and memoir work reflect on Kenyan identity, African identity, and the experience of gay identity in East Africa. His writing addresses Kenyan readers across ethnic boundaries. Wainaina's work often critiques ethnic nationalism and promotes inclusive conceptions of Kenyan and African identity. His essay "How to Write about Africa" became widely read as a critique of Western representations of Africa.

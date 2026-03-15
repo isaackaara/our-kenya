@@ -1,5 +1,3 @@
-# Standard Gauge Railway
-
 The Standard Gauge Railway (SGR) connecting Mombasa to Nairobi (completed 2017) is Kenya's most significant infrastructure investment of the 21st century. Costing over USD 5 billion (nearly double initial estimates), financed primarily by Chinese loans, the railway has raised questions about sustainability, profitability, and Kenya's debt burden.
 
 ## Project Overview

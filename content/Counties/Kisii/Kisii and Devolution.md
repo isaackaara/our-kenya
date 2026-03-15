@@ -1,5 +1,3 @@
-# Kisii and Devolution
-
 The 2010 Kenya Constitution created a devolved system of governance establishing [[Kisii County.md|Kisii County]] as a constitutional entity with its own elected governor, county assembly, and administrative structures. Devolution has transformed county governance and resource management.
 
 ## Constitutional Framework

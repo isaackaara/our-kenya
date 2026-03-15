@@ -1,5 +1,3 @@
-# Kalenjin Supreme Being
-
 Asis is the supreme deity in Kalenjin cosmology, typically personified by the sun and understood as the creator and sustainer of life and the universe. The name appears with minor variations across Kalenjin sub-groups (Asista in some dialects) and represents one of two principal deities in Kalenjin natural philosophy, the other being Ilat (associated with destructive natural forces like thunder and lightning).
 
 ## Asis as Sun Deity

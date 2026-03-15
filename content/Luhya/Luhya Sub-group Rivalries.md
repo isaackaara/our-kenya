@@ -1,5 +1,3 @@
-# Luhya Sub-group Rivalries
-
 While the Luhya confederation remains a coherent ethnic entity, significant internal tensions and rivalries exist between sub-groups, reflecting competition for political resources, historical cultural differences, and demographic inequalities.
 
 ## Bukusu Versus Maragoli

@@ -1,5 +1,3 @@
-# Makueni Cotton
-
 Cotton has historically been a significant cash crop in Makueni County, supporting farm household incomes and creating employment in cotton trade. Cotton cultivation has experienced significant decline in recent decades due to pest problems, price fluctuations, and competition from other crops. However, cotton retains importance in the Makueni agricultural economy.
 
 Cotton cultivation in Makueni occurs on smallholder farms, with farmers integrating cotton with food crops. Cotton provides cash income while food crops provide household consumption. Cotton's longer growth cycle and lower water requirements compared to maize make it suitable for semi-arid conditions.

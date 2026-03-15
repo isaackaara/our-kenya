@@ -1,5 +1,3 @@
-# Maasai Land Loss: Systematic Dispossession from 1904 to Present
-
 ## The 1904 Treaty: Rift Valley Ceded
 
 The 1904 "treaty" (actually a coerced agreement) was the first major colonial land grab. The Maasai agreed to vacate the prime pastoral lands in the Central Rift Valley (areas like the Suswa region, Ol Kalou, Ol Jororok, and Naivasha zone).

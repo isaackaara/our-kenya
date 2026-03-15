@@ -1,5 +1,3 @@
-# Siaya Climate Change
-
 Climate change represents an escalating challenge to [[Siaya County]]'s livelihoods, food security, and development prospects. Observed changes in rainfall patterns, temperatures, and ecological conditions are disrupting traditional livelihood systems and creating new vulnerabilities.
 
 ## Observed Climate Changes

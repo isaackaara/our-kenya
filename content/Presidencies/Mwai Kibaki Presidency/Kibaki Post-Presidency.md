@@ -1,5 +1,3 @@
-# Kibaki Post-Presidency
-
 [[Mwai Kibaki]]'s transition to life after the presidency following the March 2013 election and subsequent Uhuru Kenyatta inauguration marked the conclusion of his public political career. Unlike some African leaders who have wielded significant influence over successor administrations or pursued post-presidency political activities, Kibaki largely withdrew from active politics. His post-presidency period has been characterized by relative obscurity and limited public engagement, a stark contrast to his 10 years in office.
 
 The peaceful transition of power from Kibaki to Kenyatta occurred without significant incident. Kibaki attended Kenyatta's inauguration and conducted constitutional formalities associated with the transition. The smooth transition contrasted with Kenya's preceding political instability and represented an achievement in Kenya's democratic development. However, the transition also revealed Kibaki's political weakness in his final years, as he could not significantly influence succession outcomes or position his preferred successors for future political advancement.

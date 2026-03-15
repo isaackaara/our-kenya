@@ -1,5 +1,3 @@
-# Harambee
-
 Harambee (Swahili: "all pull together") was Jomo Kenyatta's national motto and development philosophy. Community self-help fundraising events became the primary mechanism for funding schools, hospitals, and infrastructure in post-independence Kenya. These events demonstrated genuine [[Cross-Ethnic Kenya|cross-ethnic solidarity]], with communities of different ethnic backgrounds contributing collectively to shared development goals.
 
 ## Key Facts

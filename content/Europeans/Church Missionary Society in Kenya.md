@@ -1,5 +1,3 @@
-# Church Missionary Society in Kenya
-
 The Church Missionary Society (CMS) was the dominant Protestant missionary organization in Kenya during the colonial era. It established the first sustained European presence in Kenya's interior, created a network of schools and churches that educated Kenya's emerging elite, and shaped Christian expansion among multiple ethnic groups (the Kikuyu, Luo, Luhya, and others). The CMS's institutional presence and methods became templates for other missions.
 
 ## Early Presence and Establishment

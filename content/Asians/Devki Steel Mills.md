@@ -1,5 +1,3 @@
-# Devki Steel Mills
-
 Devki Group, led by Narendra Raval (known as the "Steel King"), became one of East Africa's most prominent steel and industrial enterprises. Starting with steel rolling mills, Devki Group expanded into cement manufacturing, construction materials, and national school construction projects. The group exemplifies how some Asian entrepreneurs identified critical industrial needs in Kenya's developing economy and built major enterprises to meet those needs.
 
 ## Narendra Raval and the Steel Vision

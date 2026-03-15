@@ -1,5 +1,3 @@
-# West Pokot Irrigation
-
 Irrigation schemes in West Pokot County enable agricultural production in water-scarce zones and provide dry-season supplement to rainfed production. Community-based irrigation projects utilize seasonal river flows and boreholes for agricultural water. Small-scale irrigated plots provide household food security and income. Larger commercial irrigation schemes operate with government support. Water harvesting dams capture seasonal rainfall for irrigation. Drip irrigation technology is being promoted for water-efficient production. Pastoral zones utilize limited irrigation to reduce livestock dependence and diversify livelihoods. Highland irrigation supplements Highland natural rainfall for off-season production. Irrigation agriculture provides vegetables and fruits for household consumption and market sale.
 
 ## Irrigation Infrastructure and Management

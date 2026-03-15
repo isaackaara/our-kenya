@@ -1,5 +1,3 @@
-# Isiolo County
-
 Isiolo County sits in central Kenya as the gateway to the arid north. With a population of approximately 300,000, it is small by inhabitants but strategically vital as the historical terminus of the paved road and the beginning of the pastoral north. Isiolo town serves as the county headquarters and functions as a major livestock trading centre linking northern pastoralists with southern markets.
 
 The county embodies remarkable ethnic diversity. Borana, Somali (Ajuran and Degodia clans), Samburu, Meru settlers, Turkana, and others coexist within its borders. This diversity reflects its position as a crossroads between distinct ecological and cultural zones.

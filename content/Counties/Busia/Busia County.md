@@ -1,5 +1,3 @@
-# Busia County
-
 Busia County is in western Kenya on the Uganda border, adjacent to Siaya and Kakamega counties. The county has a population of approximately 900,000 people. It is the most ethnically diverse county in western Kenya, with Luhya (Samia, Teso, Marachi sub-groups), Luo, and Iteso communities. The Busia border crossing with Uganda is one of Kenya's busiest international crossings. Busia town is the county headquarters and main commercial hub. The county is primarily agricultural and pastoral, with sugarcane farming as a major commercial crop. The Yala Swamp (one of Kenya's largest wetlands) is located in Busia County. Lake Victoria shoreline in the south provides fishing opportunities and connections to Siaya County.
 
 ## Overview

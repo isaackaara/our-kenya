@@ -1,5 +1,3 @@
-# AFRICOG Kenya
-
 ## Overview
 
 AFRICOG (Africa Centre for Open Governance) is Kenya's most effective [[Anti-Corruption Civil Society|civil society organization]] focused on [[Corruption in Kenya Overview|anti-corruption]] and governance accountability. AFRICOG combines research, legal action, and advocacy to challenge corruption and to hold government accountable through courts when other mechanisms fail.

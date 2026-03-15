@@ -1,5 +1,3 @@
-# Meru Honey
-
 Meru County has emerged as Kenya's leading honey-producing county, with production estimated at 2,000 to 3,000 metric tons annually. The diverse vegetation covering the county's slopes, combined with a favorable climate, supports large populations of honeybees. Honey production provides supplementary income for thousands of smallholder farmers and has attracted commercial operators to the region.
 
 ## Ecological Support for Beekeeping

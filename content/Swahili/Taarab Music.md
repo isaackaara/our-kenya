@@ -1,5 +1,3 @@
-# Taarab Music
-
 Taarab is the distinctive musical tradition of the [[Swahili]] coast, blending African rhythmic traditions with Arab, Persian, and Indian musical influences. The music features orchestras with instruments including the oud (a stringed instrument), violin, accordion, and percussion instruments. Taarab lyrics are poetic, sung in [[Swahili Language|Swahili]], and often address themes of love, loss, social commentary, and life circumstances. Originally performed primarily for elite audiences, taarab has become more widely performed and is featured at [[Swahili Weddings|weddings]] and public celebrations.
 
 ## Musical Roots and Development

@@ -1,5 +1,3 @@
-# Pastoralism in the Northern Frontier District
-
 The [[Northern Frontier District]] (now [[Wajir County]], [[Mandera County]], and [[Garissa County]]) is semi-arid to arid rangeland where [[Kenyan Somali Identity|Somali]] and other pastoral communities have practiced mobile [[Pastoralism and Climate Change|pastoralism]] for centuries. Camels, cattle, goats, and sheep are the primary livestock, adapted to an environment of low rainfall, seasonal water availability, and sparse vegetation. Pastoralism remains the economic foundation of the NFD, though it is increasingly vulnerable to drought, [[Pastoralism and Climate Change|climate change]], and market fluctuations.
 
 ## Livestock Species and Herd Composition

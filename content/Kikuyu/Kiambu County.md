@@ -1,5 +1,3 @@
-# [[../Counties/Kiambu/Kiambu County|Kiambu County]]
-
 Kiambu County is the Kikuyu heartland closest to Nairobi, representing both the historical and contemporary center of Kikuyu political and economic power. The county has experienced dramatic transformation from rural agricultural zone to peri-urban sprawl, fundamentally reshaping Kikuyu demographics, land ownership, and political identity.
 
 ## Geography and Setting

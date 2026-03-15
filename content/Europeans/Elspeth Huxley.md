@@ -1,5 +1,3 @@
-# Elspeth Huxley
-
 Elspeth Joscelin Huxley (1907-1997) was a British author, journalist, and producer who was born in Kenya and became one of the most significant chroniclers of settler Kenya. Her memoir "The Flame Trees of Thika" (1959) and her biography of Lord Delamere "White Man's Country" (1935) provided important literary and historical accounts of settler life. Though she left Kenya in her youth, she remained deeply engaged with Kenyan politics and history throughout her long life.
 
 ## Early Life in Kenya

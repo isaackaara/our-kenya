@@ -1,5 +1,3 @@
-# Narok Climate Change
-
 Narok County faces increasing climate change impacts including changing rainfall patterns, rising temperatures, increasing drought frequency and severity, and impacts on livestock production, wildlife migration patterns, and ecosystem stability across the region.
 
 ## Temperature Trends

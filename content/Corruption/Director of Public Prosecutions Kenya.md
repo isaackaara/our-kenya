@@ -1,5 +1,3 @@
-# Director of Public Prosecutions Kenya
-
 ## Overview
 
 The Director of Public Prosecutions (DPP) holds constitutional authority to prosecute all public crime in Kenya. The office is responsible for [[Accountability and Justice|anti-corruption prosecutions]] of government officials. However, the DPP has been subject to political interference and has failed to secure convictions in most major [[Corruption in Kenya Overview|corruption]] cases. This institutional failure has perpetuated impunity among [[Corrupt Officials Who Faced Accountability|corrupt officials]].

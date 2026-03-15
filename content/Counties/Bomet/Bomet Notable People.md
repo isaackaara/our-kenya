@@ -1,5 +1,3 @@
-# Bomet Notable People
-
 Bomet County has produced various notable individuals contributing to Kenya's development in political, business, academic, and social fields. These individuals represent diverse sectors and have contributed significantly.
 
 ## Political Leaders

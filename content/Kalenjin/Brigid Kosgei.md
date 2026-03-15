@@ -1,5 +1,3 @@
-# Brigid Kosgei
-
 Brigid Kosgei is a Nandi Kalenjin marathon runner who holds the women's marathon world record in mixed-sex competition. Her achievements represent the apex of Kalenjin women's athletic excellence and demonstrate the extraordinary capacity of Kalenjin runners to excel at the highest levels of global sport.
 
 ## Marathon World Record

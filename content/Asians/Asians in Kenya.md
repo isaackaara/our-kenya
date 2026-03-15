@@ -1,5 +1,3 @@
-# Asians in Kenya: Knowledge Graph Index
-
 This vertical documents the history, communities, and contributions of South Asians (people of Indian, Pakistani, Gujarati, Sikh, Goan, and other South Asian origin) in Kenya from pre-colonial times through 2026.
 
 ## Overview and Identity

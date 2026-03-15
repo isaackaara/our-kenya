@@ -1,5 +1,3 @@
-# Asenath Bole Odaga
-
 Asenath Bole Odaga was a Luo author of children's literature and one of the founders of the Kenyan children's literature tradition. Her work established children's literature as a vital and respectable genre in Kenya, demonstrating that stories for young people could be both entertaining and educationally valuable.
 
 ## Pioneering Children's Literature

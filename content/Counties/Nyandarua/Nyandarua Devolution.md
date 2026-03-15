@@ -1,5 +1,3 @@
-# Nyandarua Devolution
-
 Kenya's 2010 constitution established devolved county governance. Nyandarua County government was created with elected governor and assembly. The county manages education, healthcare, water, and agriculture services. Devolution brought government closer to communities. However, governance challenges including capacity constraints and corruption have affected service delivery. County government relies substantially on national transfers for funding.
 
 ## County Government Structure

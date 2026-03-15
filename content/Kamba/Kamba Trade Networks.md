@@ -1,5 +1,3 @@
-# Kamba Trade Networks
-
 Long before colonialism disrupted East African commerce, the Kamba controlled the most sophisticated trading networks of the interior. Known as athambuki or atenganye (traders), Kamba merchants developed caravans that moved goods from the semi-arid interior to the Swahili coast and back again, becoming the indispensable middlemen between the coast and the highlands for centuries. This pre-colonial economic dominance was one of the great untold stories of East African history.
 
 ## Key Facts

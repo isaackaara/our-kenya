@@ -1,5 +1,3 @@
-# Kwale Education
-
 Educational infrastructure and outcomes in Kwale reflect broader patterns of regional inequality in Kenya, with the coastal county experiencing lower literacy rates, fewer qualified teachers, and less educational investment than some interior regions. Despite challenges, education has become increasingly valued by Kwale families, with primary school enrollment rates exceeding 90 percent and secondary enrollment increasing substantially.
 
 Primary education is provided through government schools, private schools, and Islamic madrasas. Government primary schools, while offering free or low-cost education, often face resource constraints including insufficient classrooms, limited learning materials, and inadequate teacher numbers. Private schools, concentrated in urban areas and beach towns, offer education to families able to pay fees but are inaccessible to many poorer families. Madrasas provide Islamic education, teaching Quranic studies and Arabic alongside secular subjects in some cases.

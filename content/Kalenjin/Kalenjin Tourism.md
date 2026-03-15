@@ -1,5 +1,3 @@
-# Kalenjin Tourism
-
 Tourism plays a modest but growing role in Kalenjin areas, centered on running tourism, Rift Valley scenery, and flower and tea estate tourism. Visitors come to train with Kalenjin runners, trek Mount Kenya, visit geothermal features, and experience Kalenjin culture, creating economic opportunities for guides, hosts, and hospitality workers.
 
 ## Running Tourism

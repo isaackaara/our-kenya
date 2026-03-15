@@ -1,5 +1,3 @@
-# Mandera Cultural Heritage
-
 Somali pastoral cultural heritage in Mandera County represents centuries of accumulated knowledge, artistic traditions, and social practices adapted to arid rangeland living. This distinctive heritage encompasses pastoral production systems, oral literature traditions, Islamic cultural expressions, and social institutions that provide cultural continuity despite contemporary modernization pressures.
 
 Poetry represents a foundational cultural tradition, with Somali pastoral poetry conveying historical narratives, values, and social commentary. Pastoral poets achieved and maintain social status through poetic excellence. Poetry competitions and public recitations remain culturally significant despite modernization. Written documentation of Somali poetry has been limited, with oral transmission remaining primary.

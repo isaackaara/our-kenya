@@ -1,5 +1,3 @@
-# Corruption Reform Prospects
-
 ## Overview
 
 Reducing [[Corruption in Kenya Overview|corruption]] in Kenya faces structural obstacles. Those benefiting from corruption have power to resist reforms. International pressure for reform has been limited by Kenya's strategic importance. [[Anti-Corruption Civil Society|Civil society]] efforts, while important, have not achieved systemic change. The prospects for meaningful anti-corruption reform depend on whether political incentives for reform can be generated.

@@ -1,5 +1,3 @@
-# Trans-Nzoia Devolution
-
 Devolution transferred significant governance authority from central government to county government in 2013 following constitutional reform. Trans-Nzoia County Government operates under a devolved system with elected governor (executive head) and county assembly (legislative body). The county government manages agriculture, health, education, water, local infrastructure, and other devolved functions. The governor and deputy governor are elected every five years. County assembly comprises ward representatives (currently 30) elected from geographical constituencies. County government staff execute administrative functions across departments and directorates.
 
 ## County Governance Functions

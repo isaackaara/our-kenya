@@ -1,5 +1,3 @@
-# Baringo Devolution
-
 Baringo County government operates under Kenya's 2010 Constitution devolved governance structure, with county-level elected leadership managing education, health, agriculture, water, and local development, while national government agencies retain certain regulatory and specialized responsibilities.
 
 ## County Leadership Structure

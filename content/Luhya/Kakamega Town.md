@@ -1,5 +1,3 @@
-# Kakamega Town
-
 Kakamega is the administrative and commercial capital of western Kenya, serving as the heart of Luhya territory. The town's history spans colonial governance, a dramatic gold rush, and modern development as the economic hub of the region.
 
 ## Key Facts

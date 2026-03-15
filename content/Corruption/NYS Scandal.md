@@ -1,5 +1,3 @@
-# The NYS Scandal: Youth Service Funds Stolen Twice
-
 ## The National Youth Service
 
 The National Youth Service (NYS) is a Kenyan government institution established to provide training and employment for young Kenyans. It operates under the [[Ministry of Devolution]]. In principle, public funds allocated to NYS should be used to provide vocational training, skills development, and [[employment support]].

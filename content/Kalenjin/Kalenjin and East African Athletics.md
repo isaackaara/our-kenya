@@ -1,5 +1,3 @@
-# Kalenjin and East African Athletics
-
 Kenya and Ethiopia have dominated global distance running since the 1968 Mexico City Olympics, establishing East Africa as the undisputed heartland of endurance athletics. However, Kalenjin Kenyan runners and Ethiopian Oromo and Amhara runners represent distinct populations whose dominance emerges from different but comparable combinations of genetic, cultural, economic, and training factors.
 
 ## Comparative Dominance: Kenya and Ethiopia

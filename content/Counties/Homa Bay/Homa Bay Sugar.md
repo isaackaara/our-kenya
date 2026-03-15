@@ -1,5 +1,3 @@
-# Homa Bay Sugar
-
 Sugarcane cultivation represents an important agricultural enterprise in Homa Bay County, though the sector faces challenges from market volatility and input costs. Sugarcane production provides income to farming families and employment to sugar factory workers.
 
 ## Sugarcane Production

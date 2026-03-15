@@ -1,5 +1,3 @@
-# Samburu Proverbs
-
 [[Samburu]] proverbs encode wisdom, moral values, and pastoral knowledge in memorable, concise forms. Proverbs address [[Samburu Pastoralism|pastoral livelihoods]], leadership, [[Samburu Marriage|marriage]], friendship, and [[The Moran (Warriors)|warrior virtues]]. Traditional proverb use in community settings transmits cultural values. [[Samburu Language|Language shift]] threatens proverb knowledge transmission. Contemporary documentation preserves some proverbs though oral transmission continues declining.
 
 ## Pastoral Wisdom Proverbs

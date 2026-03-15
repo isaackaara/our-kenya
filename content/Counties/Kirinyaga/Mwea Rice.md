@@ -1,5 +1,3 @@
-# Mwea Rice
-
 The Mwea Tebere lowlands, supplied by Tana River tributaries, have become Kenya's rice heartland through systematic irrigation development. The lowland plains at approximately 900 to 1,100 meters elevation benefit from warm temperatures, adequate water supply, and fertile soils. These conditions allow reliable rice cultivation year-round, making Mwea the country's most productive rice zone.
 
 ## Irrigation Infrastructure

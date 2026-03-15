@@ -1,5 +1,3 @@
-# Meru Agriculture Overview
-
 Meru County's economy depends fundamentally on agriculture, which employs over 70 percent of the county's population and generates the majority of rural incomes. The diverse agricultural production system combines cash crops with food crops, creating a portfolio that balances market income with household food security.
 
 ## Cash Crops

@@ -1,5 +1,3 @@
-# Nyandarua Pyrethrum
-
 Pyrethrum, a natural insecticide derived from Chrysanthemum cinerariifolium flowers, was historically one of Nyandarua's important cash crops. The cool highland climate provided ideal growing conditions. Pyrethrum was cultivated extensively during the colonial period and post-independence. However, production has declined significantly in recent decades due to low international prices, processing challenges, and competition from synthetic pesticides. Though production has diminished, pyrethrum persists in some areas and represents an important part of Nyandarua's agricultural history.
 
 ## Growing Conditions

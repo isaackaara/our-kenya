@@ -1,5 +1,3 @@
-# [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]]
-
 Uasin Gishu County, located in the western highlands of the Rift Valley, is Kenya's grain basket and a major center of athletic excellence. The county seat of [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] has emerged as a hub for world-class distance runners, while the broader county economy centers on grain cultivation and mixed farming.
 
 ## Agricultural Production

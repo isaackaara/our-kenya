@@ -1,5 +1,3 @@
-# Kenyan Somali at Independence Negotiations
-
 The Lancaster House constitutional negotiations (1960-1962) represent a critical moment when the [[Kenyan Somali Identity|Kenyan Somali]] sought to shape their own political future. However, the Somali voice was marginalized in these negotiations, and the outcome reflected Kenyan nationalist (KANU) priorities, not [[Somali Clan System Kenya|Somali]] interests. The failure to achieve self-determination at Lancaster House set the stage for the [[Shifta War Overview]].
 
 ## Lancaster House Conference

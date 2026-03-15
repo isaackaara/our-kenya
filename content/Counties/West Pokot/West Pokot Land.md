@@ -1,5 +1,3 @@
-# West Pokot Land
-
 Land tenure and land use in [[West Pokot County]] are characterized by dynamic tensions between traditional pastoral land concepts and modern property rights frameworks, between individual land ownership and communal access rights, and between conservation priorities and livelihood production needs. Land scarcity relative to population and livestock numbers creates pressure and conflict over land access and use. Insecure land tenure undermines farmer and pastoral incentives for land improvement and investment. Land disputes are frequent, creating community conflicts and preventing productive resource use. Understanding West Pokot's land situation is fundamental to understanding pastoralism, agriculture, and broader development challenges in the county.
 
 ## Traditional Pastoral Land Concepts

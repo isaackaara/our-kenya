@@ -1,5 +1,3 @@
-# Tharaka and the Meru
-
 The Tharaka and Meru share close linguistic and cultural ties, with the Tharaka sometimes classified as a Meru sub-group. However, the Tharaka maintain a distinct identity, and relationships between the two communities are complex, involving shared ancestry, political tensions, and occasional cooperation.
 
 ## Shared Ancestry and Origins

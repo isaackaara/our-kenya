@@ -1,5 +1,3 @@
-# 1969 Election Long-Term Impact
-
 The 1969 election had profound and enduring consequences for Kenya's political trajectory that shaped the country's development for the subsequent two decades and beyond. The election ratified single-party rule and eliminated any possibility of near-term return to multiparty democracy. The impact of 1969 would not be reversed until the early 1990s when donor pressure and internal reform movements forced the government to legalize opposition parties.
 
 The establishment of single-party rule in 1969 fundamentally changed the nature of electoral competition in Kenya. For the subsequent 23 years (1969-1992), elections in Kenya were contests within KANU rather than between parties. This intra-party competition, while providing some element of choice to voters, was substantially constrained by government control of the nomination process and by security force interference in campaign activities. The single-party system provided a mechanism for managed contestation that allowed the regime to claim democratic legitimacy while preventing genuine threat to government authority.

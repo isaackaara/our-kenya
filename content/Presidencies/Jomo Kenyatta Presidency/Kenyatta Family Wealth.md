@@ -1,5 +1,3 @@
-# Kenyatta Family Wealth
-
 One of the most significant and controversial aspects of the Kenyatta presidency was the rapid accumulation of personal and family wealth by Kenyatta and his close associates. While Kenyatta came to power as an independence leader and nationalist symbol, his presidency was marked by the conversion of political power into personal and family economic gain. The Kenyatta family's wealth accumulation became a symbol of the corruption and elite enrichment that characterized the period.
 
 Kenyatta began his presidency as a relatively wealthy individual, but his wealth increased dramatically during his years in office. Land became the primary vehicle for wealth accumulation. Through various mechanisms, Kenyatta and members of his family acquired large tracts of land, particularly in the central highlands and in other agriculturally productive regions. Some of this land was purchased through the government's land transfer programs, where Kenyatta's proximity to power and access to credit gave him advantages over other potential buyers. Other land was acquired through grants or special arrangements that were not available to ordinary citizens.

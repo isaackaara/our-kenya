@@ -1,5 +1,3 @@
-# Kisumu's Climate: Hot, Humid Lakeside Conditions
-
 Kisumu's climate is hot and humid year-round, characteristic of tropical lakeside locations. The city's location on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] creates a warm, humid environment with substantial annual rainfall.
 
 ## Temperature

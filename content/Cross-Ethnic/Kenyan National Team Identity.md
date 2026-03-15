@@ -1,5 +1,3 @@
-# Kenyan National Team Identity
-
 Kenyan national sports teams, including the national football team (Harambee Stars), athletics teams, and rugby teams (KCR), create possibilities for [[Cross-Ethnic Kenya|cross-ethnic national feeling]] and identification. Sporting competitions unite [[Kenya|Kenyans]] in support of national teams competing internationally. The success or failure of national teams becomes a matter of [[National Identity Beyond Tribe|national pride]] or disappointment transcending ethnic boundaries.
 
 The Harambee Stars, Kenya's national football team, has historically been a focus of national pride. Kenyans from all ethnic backgrounds follow the team, support it in international competitions, and celebrate or mourn based on the team's performance. The national football team provides a symbol of Kenya as a unified nation competing against other nations. The stars themselves come from diverse ethnic backgrounds, representing Kenya as a multi-ethnic nation.

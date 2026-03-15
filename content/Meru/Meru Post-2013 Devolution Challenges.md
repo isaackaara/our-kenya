@@ -1,5 +1,3 @@
-# Meru Post-2013 Devolution Challenges
-
 ## The Devolution Framework
 
 ### Constitutional Devolution Structure

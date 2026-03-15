@@ -1,5 +1,3 @@
-# Music as Memory Kenya
-
 Specific songs became permanently attached to national events, tragedies, and celebrations in Kenya's collective memory, creating musical archive of the nation's emotional history from the Moi era through the 2000s. These sonic markers served as mnemonic devices that instantly evoked specific moments, demonstrating music's unique power to encode and transmit collective memory across generations.
 
 The [[Music/Music and the 1982 Coup Kenya|August 1, 1982 failed coup attempt]] became associated with specific musical choices. The government's decision to flood [[Music/Kenya Broadcasting Corporation Music|state radio]] with [[Music/Congolese Influence on Kenya 1980s|Congolese rumba]] immediately after the coup meant that Tabu Ley and Franco became sonic markers of that traumatic day. For Kenyans who experienced the coup, those songs permanently evoked the fear and uncertainty of that Sunday morning.

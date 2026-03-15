@@ -1,5 +1,3 @@
-# Geothermal Energy Turkana
-
 Turkana County has significant wind power potential and some [[Geothermal Energy Turkana]] energy potential. While the major geothermal fields (Menengai and Olkaria) are located in other Kenyan regions, the Turkana region's geological and meteorological conditions create potential for renewable energy development.
 
 ## Wind Power Potential

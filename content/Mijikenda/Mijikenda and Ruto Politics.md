@@ -1,5 +1,3 @@
-# Mijikenda and Ruto Politics
-
 The 2022 Kenyan presidential election marked a significant political moment for the coast. President William Ruto and his United Democratic Alliance (UDA) campaigned extensively on the coast, seeking to break the region's historical voting pattern of supporting opposition candidates. The [[Mijikenda]] vote, as part of the broader coastal electorate, reflected both the region's historical political positioning and contemporary political dynamics.
 
 ## Historical Coastal Opposition

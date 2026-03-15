@@ -1,5 +1,3 @@
-# Manu Chandaria
-
 [[Manilal Premchand Chandaria]] (born March 1, 1929) is one of Kenya's most respected businessmen and the paradigmatic example of the Asian who remained in Kenya, built a massive enterprise, and became a significant [[philanthropist]]. Chandaria is approaching 97 years old (as of 2026) and remains active in business and philanthropy.
 
 ## Early Life and Education

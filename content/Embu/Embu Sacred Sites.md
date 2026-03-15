@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]] Sacred Sites
-
 Embu traditional cosmology recognized sacred trees, hills, rivers, and groves as dwelling places of spiritual forces. These sites featured in ritual activity, ancestor veneration, and community ceremonies. Sacred site significance has diminished with Christian conversion, though some sites retain cultural value.
 
 ## Mount Kenya

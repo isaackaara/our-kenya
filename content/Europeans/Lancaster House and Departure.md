@@ -1,5 +1,3 @@
-# Lancaster House and Departure
-
 The Lancaster House Conferences (held in 1960 and 1962) were the formal negotiation of Kenya's independence from Britain. They addressed the fundamental question that colonialism had left unresolved: what would happen to European settler land when African majority rule was established? The "willing buyer, willing seller" compromise allowed settlers to keep their land (if they could, and would, buy it at full market value), but it did not guarantee their political power. The result was that most European settlers left Kenya between 1960 and 1975, taking their wealth with them.
 
 ## The Settler Fear

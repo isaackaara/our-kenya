@@ -1,5 +1,3 @@
-# Kitui Water Scarcity
-
 Water scarcity represents the central development challenge in Kitui County, constraining agricultural production, limiting pastoral systems, and threatening human health. The semi-arid climate combined with variable rainfall creates persistent water deficits that infrastructure development has struggled to overcome. Water security directly affects human welfare and economic productivity.
 
 Groundwater sources including boreholes and shallow wells provide primary water access for many Kitui communities. However, groundwater accessibility varies substantially across the county. Some areas have accessible groundwater while others experience severe groundwater depletion. Groundwater quality varies, with salinity problems in some locations limiting suitability for drinking.

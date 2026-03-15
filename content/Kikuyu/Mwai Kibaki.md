@@ -1,5 +1,3 @@
-# Mwai Kibaki
-
 Emilio Stanley Mwai Kibaki (15 November 1931, 21 April 2022) was Kenya's third President, serving from December 2002 to April 2013. A Kikuyu economist from Nyeri, Kibaki's decade in office was defined by genuine economic growth, transformative social policy, a catastrophic disputed election, and post-election violence that fractured Kenya along ethnic lines in ways that reshaped the country's politics permanently.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# NHIF History
-
 The National Hospital Insurance Fund (NHIF) is Kenya's primary social health insurance programme, covering millions of Kenyans with inpatient medical benefits. Established post-independence, NHIF has faced persistent challenges: inadequate funding, poor service quality, and limited coverage of outpatient care.
 
 ## Overview

@@ -1,5 +1,3 @@
-# Colonial Roots of Patronage: How Britain Built Kenya's Corruption System
-
 ## The Indirect Rule System
 
 The British [[Corruption and Colonial Legacy|colonial administration]] in Kenya (1895-1963) did not govern through direct European bureaucratic rule. Instead, it developed a system of "indirect rule" that relied on appointed African chiefs who served as intermediaries between colonial authority and local populations.

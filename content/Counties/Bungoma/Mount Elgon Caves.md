@@ -1,5 +1,3 @@
-# [[../../Conservation/Mount Elgon National Park|Mount Elgon]] Caves
-
 Mount Elgon's volcanic geology creates numerous caves including Kitum Cave and other formations. These caves have served historically as shelter, salt mining sites, and elephant visitation destinations. Kitum Cave has received international scientific attention for its unusual geology and wildlife activity. The caves represent unique geological and ecological features contributing to Mount Elgon's ecological significance.
 
 ## Kitum Cave

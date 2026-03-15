@@ -1,5 +1,3 @@
-# Kamba Rainmaking
-
 The Kamba, living in a semi-arid environment prone to severe droughts, developed elaborate rainmaking ceremonies as central religious and community rituals. These ceremonies were conducted by specialized ritual practitioners and involved the entire community in seeking divine favor for one of the most critical resources for pastoral and agricultural survival.
 
 ## The Mundu Mue and Rainmaking Authority

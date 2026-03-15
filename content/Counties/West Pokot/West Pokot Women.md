@@ -1,5 +1,3 @@
-# West Pokot Women
-
 Women in [[West Pokot County]] face multiple challenges and inequalities while simultaneously making substantial contributions to household and community welfare. [[Pokot People|Pokot]] women operate within patriarchal social systems that limit economic opportunities and political participation. Women bear primary responsibility for household food security, child care, and domestic labor while having limited control over productive assets and resources. Women's health and education outcomes remain below national averages. However, women's groups and women's organizations have increasingly mobilized for women's rights and development. Understanding women's situations is essential to understanding West Pokot poverty, development, and social welfare.
 
 ## Gender Roles and Social Organization

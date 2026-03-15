@@ -1,5 +1,3 @@
-# Baringo Agriculture
-
 Baringo County's agricultural sector encompasses smallholder farming in the Tugen Hills and elevated areas where rainfall and climate support crop production. Agricultural activities increasingly supplement or replace pastoral livelihoods.
 
 ## Crops and Production Systems

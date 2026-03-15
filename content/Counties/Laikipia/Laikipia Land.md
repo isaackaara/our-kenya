@@ -1,5 +1,3 @@
-# Laikipia Land
-
 Laikipia County has the most contested land tenure situation of any Kenyan county. Colonial settler land allocation remains largely in place. Large ranches, initially European-owned, are now increasingly in Kenyan hands. Wildlife conservancies occupy significant areas. Smallholder farmers hold limited land. Pastoral communities claim historic rights to currently alienated lands. Land disputes remain unresolved. The 2017-2018 invasions expressed escalated land tenure conflicts.
 
 ## Colonial Land Allocation

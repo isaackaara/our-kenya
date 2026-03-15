@@ -1,5 +1,3 @@
-# Equity Bank and Financial Inclusion
-
 Equity Bank was founded by James Mwangi as Equity Building Society, originally a small SACCO (savings and credit cooperative) focused on people saving for housing. The institution was deliberately designed to serve previously unbanked Kenyans.
 
 Most Kenyan banks, inherited from or modeled on colonial banking, required large minimum balances and served the wealthy and the formal sector. Small farmers, traders, and workers in the informal economy could not access banking services.

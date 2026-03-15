@@ -1,5 +1,3 @@
-# Ismaili Community Kenya
-
 The Ismaili Muslims (followers of the Aga Khan, the hereditary Imam of the Shia Imami Ismaili community) are the most economically and institutionally prominent Muslim Asian community in Kenya. They are estimated to number 20,000 to 30,000 in Kenya, but their influence far exceeds their numbers.
 
 ## Who Are the Ismailis?

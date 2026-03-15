@@ -1,5 +1,3 @@
-# Bamburi Cement
-
 [[Bamburi]] Cement, based in [[Mombasa]], is East Africa's largest cement producer and a flagship [[Manufacturing]] enterprise. Established in 1951, it dominates the regional [[East Africa Trade Flows|East African]] market and is a key industrial employer. The company reflects [[Post-Independence Economic Policy|post-independence]] patterns of industrial capital concentration.
 
 ## History

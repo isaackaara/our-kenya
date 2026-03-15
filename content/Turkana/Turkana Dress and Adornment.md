@@ -1,5 +1,3 @@
-# Turkana Dress and Adornment
-
 Turkana material [[Turkana People Overview]], particularly dress and bodily adornment, communicates identity, status, age, marital status, and wealth. Distinctive styles of clothing, jewelry, and body decoration are recognizable markers of Turkana identity and vary across gender, age, and social position.
 
 ## Women's Dress and Adornment

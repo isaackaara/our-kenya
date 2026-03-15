@@ -1,5 +1,3 @@
-# Ruto Corruption Allegations
-
 Corruption allegations have dogged [[William Ruto]]'s career and presidency. Questions regarding how Ruto accumulated substantial wealth have persisted throughout his political career. Allegations suggest that government contracts and irregular dealings with state entities enriched Ruto and his business associates. However, Ruto has consistently denied corruption allegations and presented his wealth as product of legitimate business success. The lack of prosecutions or convictions related to alleged corruption has meant that allegations remain unproven in legal proceedings.
 
 During Ruto's presidency, corruption scandals have continued to affect government officials despite anti-corruption rhetoric. Numerous cabinet members and senior government officials have faced corruption allegations. Slow-moving investigations and limited prosecutions have contributed to perceptions that anti-corruption commitments are rhetorical rather than substantive. The pattern reflects broader challenges Kenya faces in establishing effective anti-corruption enforcement.

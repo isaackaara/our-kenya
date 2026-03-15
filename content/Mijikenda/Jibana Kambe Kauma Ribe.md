@@ -1,5 +1,3 @@
-# [[Jibana]] [[Kambe]] [[Kauma]] [[Ribe]]
-
 The Jibana, Kambe, Kauma, and Ribe are the four smallest [[Mijikenda]] sub-groups, each with distinct territories, histories, and contemporary situations. Together they comprise a significant but often overlooked portion of the Mijikenda population.
 
 ## Overview of the Four Groups

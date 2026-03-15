@@ -1,5 +1,3 @@
-# Dance Bands of Post-WWII Kenya
-
 The orchestras that played Nairobi's hotels, clubs, and social halls in the late 1940s and 1950s represented a crucial transitional period in Kenyan music: the professionalization of African musicians, the synthesis of multiple musical influences, and the emergence of distinctly Kenyan urban popular music. These dance bands created the musical foundation for independence-era cultural expression.
 
 World War II profoundly affected Kenya's musical landscape. African soldiers who served in the King's African Rifles encountered diverse musical styles in Burma, North Africa, and elsewhere. They learned to play Western instruments, performed in military bands, and absorbed jazz, swing, and other genres. When these veterans returned to Kenya in the late 1940s, they brought musical skills, instruments, and ambitions to create professional musical careers.

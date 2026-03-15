@@ -1,5 +1,3 @@
-# Kisii Climate
-
 [[Kisii County.md|Kisii County]] experiences a highland climate characterized by relatively cool temperatures, high rainfall, and favorable agricultural conditions. The bimodal rainfall pattern (two rainy seasons) strongly influences agricultural cycles and economic activities.
 
 ## Climate Type

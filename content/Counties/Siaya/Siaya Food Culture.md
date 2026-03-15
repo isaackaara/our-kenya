@@ -1,5 +1,3 @@
-# Siaya Food Culture
-
 The food culture of [[Siaya County]] reflects the agricultural and fishing economies, using local ingredients to create distinctive dishes. Lakeside location and agricultural production shape dietary patterns and traditional food preparation.
 
 ## Staple Foods

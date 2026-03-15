@@ -1,5 +1,3 @@
-# Nakuru County
-
 Nakuru is Kenya's fourth-largest city and the capital of Nakuru County in the Rift Valley. The county encompasses the Great Rift Valley floor, including Lake Nakuru, Lake Naivasha, and Mount Longonot. With a city population of approximately 570,000 and a county population of 2.2 million, Nakuru has Kenya's most mixed ethnic composition due to White Highlands settler history and subsequent African resettlement.
 
 The county's economy is diverse, encompassing agriculture (wheat, maize, pyrethrum, dairy), horticulture, industry (cement, creameries), and tourism. Nakuru's ethnic diversity (Kikuyu, Kalenjin, Luo, Luhya, Kamba) has produced both economic dynamism and recurring ethnic tensions, most notably during the 2007-2008 post-election crisis and the 1992-1993 Molo clashes.

@@ -1,5 +1,3 @@
-# Marsabit Climate
-
 Marsabit County experiences arid and semi-arid climates reflecting its location in Kenya's extreme northern pastoral belt. Rainfall is the primary climatic concern, as water availability shapes all aspects of human settlement and livestock production.
 
 Annual rainfall averages approximately 300,500 millimeters, with significant variation between areas and years. Mount Marsabit's elevation generates higher rainfall, supporting forest vegetation and springs. Lowland areas including the Chalbi Desert receive minimal rainfall, sometimes less than 250 millimeters annually.

@@ -1,5 +1,3 @@
-# Kamba Origins
-
 The Kamba (also spelled Akamba) are a Bantu people whose origins trace to a merger of Eastern Bantu communities around the fifteenth century, possibly originating near Mount Kilimanjaro before settling in what is now Machakos, Kitui, and Makueni counties in eastern Kenya (collectively called Ukambani). The semi-arid landscape of their settlement became inseparable from their identity, fostering a culture of trade, resilience, and adaptability that would define them for centuries.
 
 ## Key Facts

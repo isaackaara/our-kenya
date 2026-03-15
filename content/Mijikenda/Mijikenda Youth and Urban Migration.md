@@ -1,5 +1,3 @@
-# Mijikenda Youth and Urban Migration
-
 Young [[Mijikenda Overview|Mijikenda]] migrate from rural coastal areas to urban centers, particularly Mombasa and Nairobi, seeking economic opportunities, education, and modern lifestyles. This migration creates new identities and challenges while reshaping rural communities they leave behind.
 
 ## Motivations for Migration

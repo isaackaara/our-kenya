@@ -1,5 +1,3 @@
-# Kisii Climate Change
-
 Climate change impacts are increasingly affecting [[Kisii County.md|Kisii County's]] agricultural economy, water resources, and livelihoods. Rising temperatures, changing rainfall patterns, and increased climate variability pose significant challenges to farming communities and development efforts.
 
 ## Temperature Changes

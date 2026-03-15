@@ -1,5 +1,3 @@
-# Migori Climate
-
 Migori County's climate reflects its location on Lake Victoria's shore and in the tropical and subtropical zones. The lake's moderating influence creates a warm, humid climate with significant seasonal precipitation variation.
 
 ## Temperature Patterns

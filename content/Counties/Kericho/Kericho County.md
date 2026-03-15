@@ -1,5 +1,3 @@
-# Kericho County
-
 Kericho County is located in the western Rift Valley highlands of Kenya, with an estimated population of approximately 950,000 people. The county stands as the heartland of Kenya's tea industry, with the Kericho tea estates ranking among the most productive in the world, generating millions of tonnes of black tea for export annually. The [[../../Kalenjin/Kalenjin|Kipsigis]] people, a [[../../Kalenjin/Kalenjin|Kalenjin]] sub-group, form the dominant community in the county. Kericho town serves as the county headquarters and main economic centre.
 
 The county's geography, climate, and colonial history have fundamentally shaped its development as a tea-producing region. Understanding Kericho requires examining its natural advantages, the impact of colonial land alienation, the tea industry's complex role in local society, and the ongoing challenges and opportunities facing the county.

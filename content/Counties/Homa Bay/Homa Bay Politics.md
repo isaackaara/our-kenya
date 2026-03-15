@@ -1,5 +1,3 @@
-# Homa Bay Politics
-
 Homa Bay County represents a politically active region within the Luo-dominated western Kenya, characterized by strong participation in national politics and opposition movements. The county's politics are shaped by the Luo political tradition and connections to nationally prominent figures.
 
 ## Political Presence and National Engagement

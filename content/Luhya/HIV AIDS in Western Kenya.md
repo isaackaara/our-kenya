@@ -1,5 +1,3 @@
-# HIV/AIDS in Western Kenya
-
 Western Kenya, including Kakamega, Bungoma, Vihiga, and Busia counties with substantial Luhya populations, has experienced consistently elevated HIV prevalence rates compared to many other Kenyan regions. The region shares this burden with Nyanza province (Luo-dominated areas), representing one of Kenya's HIV/AIDS hotspots. Understanding the epidemiology, transmission dynamics, and health response is essential to comprehending contemporary public health challenges in Luhya territories.
 
 ## Regional Epidemiology and Prevalence

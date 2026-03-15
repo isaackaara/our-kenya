@@ -1,5 +1,3 @@
-# Kisii Healing Traditions
-
 The Gusii healing system combined spiritual diagnosis, herbal knowledge, and ritual action. The omoragori (diviner-healer) occupied a central position in Gusii health care, diagnosing the spiritual causes of illness and prescribing remedies that integrated herbal and spiritual components. Contemporary Kisii health care remains shaped by this dual system of traditional healing and biomedical medicine.
 
 ## The Omoragori (Diviner-Healer)

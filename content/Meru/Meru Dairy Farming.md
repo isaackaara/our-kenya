@@ -1,5 +1,3 @@
-# Meru Dairy Farming
-
 The [[Meru County|Meru]] highlands support dairy farming as an important agricultural activity complementary to crop production. The relatively cool climate and adequate forage availability make dairy farming viable for Meru farmers.
 
 ## Dairy Cooperatives and Organization

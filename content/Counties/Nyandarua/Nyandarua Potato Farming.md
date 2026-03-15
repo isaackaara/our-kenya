@@ -1,5 +1,3 @@
-# Nyandarua Potato Farming
-
 Potato is a major food crop in Nyandarua's cool highlands, providing carbohydrate staple and cash income for many farming families. The cool highland climate provides ideal conditions for potato cultivation. Potatoes can be grown at higher altitudes than many crops. Production supports household food security and local market sales. Modern improved varieties have increased yields substantially. However, potato diseases and pests create ongoing management challenges.
 
 ## Growing Conditions

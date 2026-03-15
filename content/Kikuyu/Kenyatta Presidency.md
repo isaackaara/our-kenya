@@ -1,5 +1,3 @@
-# Kenyatta Presidency
-
 Jomo Kenyatta, serving as Prime Minister (1963-1964) and President (1964-1978), established Kikuyu political dominance in post-independence Kenya and implemented policies that consolidated power within a Kikuyu-aligned elite. His presidency generated the political structures and patronage networks that would benefit Kikuyu communities for decades.
 
 ## Kenyatta's Background and Legitimacy

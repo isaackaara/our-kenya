@@ -1,5 +1,3 @@
-# 2007 Election National Accord
-
 The National Accord and Reconciliation Agreement, finalized in February 2008, created a Grand Coalition government with [[Kibaki]] remaining as President and [[Raila]] becoming Prime Minister with substantive powers. The Accord also created a Cabinet with balanced representation of both PNU and ODM factions. Additionally, the Accord established mechanisms for investigating post-election violence and committed both parties to constitutional reform (which would eventually result in the 2010 Constitution). The Accord represented a compromise in which both sides claimed partial victory: Kibaki retained the presidency but granted Raila the Prime Minister position he had been denied in 2002.
 
 ## See Also

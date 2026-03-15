@@ -1,5 +1,3 @@
-# [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] Tourism Economy
-
 ## Scale and Significance
 
 The Maasai Mara National Reserve is one of the world's premier wildlife tourism destinations. The Mara covers approximately 1,510 square kilometers and attracts over 300,000 international tourists annually. Tourism to the Mara generates several hundred million USD annually in economic value, making it one of Kenya's most important economic assets. For Maasai communities adjacent to the Mara, tourism represents both significant economic opportunity and complex challenges.

@@ -1,5 +1,3 @@
-# Baringo Education
-
 Baringo County's education sector provides primary and secondary schooling to pastoral, agricultural, and urban communities, with challenges of limited resources, quality variations, and adapting formal education to pastoral livelihood contexts.
 
 ## School Infrastructure

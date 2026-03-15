@@ -1,5 +1,3 @@
-# Luo in Journalism and Media
-
 The Luo have been disproportionately represented in Kenya's journalism, broadcasting, and media sectors since the colonial period. This prominence reflects both Luo educational investment in mission schools and a cultural orientation toward intellectual work, political engagement, and public communication. Luo journalists have shaped Kenyan media narratives, investigative reporting, and broadcasting in significant ways.
 
 ## Historical Presence in Kenyan Journalism

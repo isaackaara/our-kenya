@@ -1,5 +1,3 @@
-# Marsabit Development Organisations
-
 Non-governmental organisations (NGOs) operate extensively in Marsabit County, addressing development challenges including health, education, pastoral livelihood support, conflict resolution, and governance.
 
 International NGOs including CARE International, Oxfam, Save the Children, World Food Programme, and World Vision implement programmes addressing food security, water access, health, and education. These organisations bring funding and technical expertise supporting county development.

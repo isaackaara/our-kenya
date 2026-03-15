@@ -1,5 +1,3 @@
-# Nyamira Creation
-
 Nyamira County was created in 2013 as part of Kenya's constitutional devolution process following the adoption of the 2010 Constitution. The county was carved from the former Kisii District, establishing a separate governance entity with its own elected government.
 
 ## Constitutional Context

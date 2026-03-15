@@ -1,5 +1,3 @@
-# Mandera Tri-Border
-
 The Mandera tri-border region, where Kenya, Ethiopia, and Somalia converge, represents one of Africa's most complex and strategically significant border zones. This region of pastoral, cultural, and commercial convergence is defined by the meeting of Somali, Oromo, and other ethnic groups; flows of cross-border commerce and pastoral movement; and multiple layers of governance and political authority. The tri-border zone presents both opportunities for regional integration and challenges related to security, sovereignty, and resource management.
 
 ## Geographic and Administrative Definition

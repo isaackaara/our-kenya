@@ -1,5 +1,3 @@
-# Bidco Africa
-
 [[Bidco]] Africa is a major [[Manufacturing|manufacturing]] and consumer goods company in [[Kenya]], operating in edible oils, margarine, personal care products, and other sectors. The company serves [[East Africa]] and operates regional manufacturing facilities.
 
 ## See Also

@@ -1,5 +1,3 @@
-# Mandera Climate
-
 Mandera County's climate is defined by extreme aridity and unpredictable rainfall patterns that shape every aspect of life in this remote northeastern Kenyan region. Located in the Horn of Africa, the county experiences some of the most severe and variable climatic conditions in Kenya, with direct consequences for pastoral livelihoods, food security, water availability, and human settlement patterns.
 
 ## Climatic Characteristics

@@ -1,5 +1,3 @@
-# Chandaria Group
-
 The Chandaria family, particularly Manu Chandaria (born 1929), built one of East Africa's most successful industrial empires. The Comcraft Group, the holding company for the Chandaria business interests, encompasses companies in paper manufacturing, packaging, stationery, steel, and other industrial sectors. Manu Chandaria has been recognized as one of Africa's most successful industrialists and philanthropists, and the Chandaria story exemplifies how some Asian entrepreneurs adapted to post-independence Kenya and built major industrial enterprises.
 
 ## Early Business Background

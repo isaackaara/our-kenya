@@ -1,5 +1,3 @@
-# Mfangano Island
-
 Mfangano Island is located in Lake Victoria's eastern portion at the mouth of the Winam Gulf in Migori County. The island covers approximately 56 to 65 square kilometers and rises to 1,694 meters at Mount Kwitutu. The island has a population estimated at over 26,000 residents and is the principal home of the Suba community.
 
 ## Geography and Topography

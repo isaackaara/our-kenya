@@ -1,5 +1,3 @@
-# Gusii Music: Deep Dive
-
 The [[Gusii people|Gusii]] musical tradition is one of [[East Africa|East Africa's]] richest, centered on distinctive instruments, scales, and social contexts. The obokano (eight-stringed lyre) stands as the iconic [[Gusii people|Gusii]] instrument, but the musical world extends far beyond single instruments to encompass complex harmonic traditions, ceremonial music, and contemporary fusion genres.
 
 ## The Obokano: Core Instrument

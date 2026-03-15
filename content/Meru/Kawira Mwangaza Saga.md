@@ -1,5 +1,3 @@
-# Kawira Mwangaza Impeachment Crisis
-
 Kawira Mwangaza was elected [[Meru County]] Governor in 2022, becoming the first female governor of Meru County. Her tenure was marked by dramatic political turbulence, including impeachment attempts, reinstatement, and ongoing institutional crises that tested Kenya's [[devolved governance]] system.
 
 ## Election and Inauguration

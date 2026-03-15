@@ -1,5 +1,3 @@
-# The Slave Trade's End
-
 The British campaign to end the Indian Ocean slave trade was a 19th-century initiative that led to the abolition of the East African slave trade and slavery in the region. The Royal Navy's anti-slavery patrols interdicted slave ships and created barriers to the trade. The Sultan of [[Zanzibar]] abolished the slave trade under British pressure in 1873, with formal slavery abolition in 1897.
 
 ## British Anti-Slavery Campaign

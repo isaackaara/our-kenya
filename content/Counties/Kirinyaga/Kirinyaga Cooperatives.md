@@ -1,5 +1,3 @@
-# Kirinyaga Cooperatives
-
 Agricultural cooperatives form the backbone of Kirinyaga's agricultural marketing system. Coffee, tea, and dairy cooperatives provide services to smallholder farmers including input supply, product collection, processing, and marketing. The cooperative system allows smallholders to achieve economies of scale and market power individually unattainable. However, cooperative governance challenges and sometimes ineffective management affect their performance.
 
 ## Coffee Cooperatives

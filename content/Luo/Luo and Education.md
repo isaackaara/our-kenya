@@ -1,5 +1,3 @@
-# Luo and Education
-
 The Luo embraced missionary education in the colonial period with particular enthusiasm, establishing themselves as a disproportionately educated elite in early post-independence Kenya. This pursuit of formal education became central to Luo identity and social mobility, producing political leaders, intellectuals, labor organizers, and professionals who shaped the nation's trajectory. The educational success of Luo communities was not inevitable but resulted from specific decisions to invest in schooling and to position education as a pathway to colonial and post-colonial power.
 
 ## Key Facts

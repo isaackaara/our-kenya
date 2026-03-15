@@ -1,5 +1,3 @@
-# Mijikenda and the Slave Trade
-
 The East African slave trade profoundly affected [[Mijikenda]] communities over several centuries. [[Mijikenda]] peoples were both targets for enslavement and participants in the slave trade system, creating complex and sometimes tragic historical dynamics.
 
 ## The Trans-Indian Ocean Trade

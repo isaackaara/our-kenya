@@ -1,5 +1,3 @@
-# Mandera County
-
 Mandera County is Kenya's most remote and least-developed county, occupying the northeastern corner where Kenya, Somalia, and Ethiopia converge at a tri-border point. With a population of approximately 900,000 and predominantly [[../../Somali/Somali|Somali]] communities (particularly Degodia and Garre clans), Mandera represents one of Kenya's most challenging administrative regions. The county's extreme remoteness, arid environment, chronic food insecurity, and significant security challenges related to Al-Shabaab activities make development particularly difficult.
 
 ## Geography and Location

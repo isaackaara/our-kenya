@@ -1,5 +1,3 @@
-# Corruption and Colonial Legacy
-
 ## Overview
 
 Kenya's [[Corruption in Kenya Overview|corruption]] patterns have roots in [[Colonial Roots of Patronage|colonial administration]]. The colonial state extracted resources for the benefit of the colonizing power, establishing precedent for state institutions being used for private enrichment rather than public service. Post-independence elites inherited these state institutions and adapted them to extract wealth for themselves, continuing the colonial pattern under new management.

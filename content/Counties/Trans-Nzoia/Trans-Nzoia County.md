@@ -1,5 +1,3 @@
-# Trans-Nzoia County
-
 Trans-Nzoia County is Kenya's "breadbasket" (one of the country's most productive agricultural regions). Located in the western highlands on the Uganda border, it is home to approximately 1.1 million people. The county is known for maize, wheat, and sunflower production. Kitale serves as the county headquarters and main commercial hub. [[../../Conservation/Mount Elgon National Park|Mount Elgon]] dominates the western landscape on the Uganda border. The county has a complex ethnic composition including Sabaot (Kalenjin), Luhya (Bukusu and other sub-groups), Kikuyu settlers, Luo, and other communities.
 
 ## Overview

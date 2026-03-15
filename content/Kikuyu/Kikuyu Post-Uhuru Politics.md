@@ -1,5 +1,3 @@
-# Kikuyu Post-Uhuru Politics
-
 With Uhuru Kenyatta's departure from the presidency in 2022, Kikuyu political dominance at the national level ended. The Uhuru presidency (2013-2022) had attempted to restore Kikuyu political power after the Moi era, but Uhuru's endorsement of Raila Odinga in the 2022 election failed, and his political project collapsed. Kikuyu political power has shifted toward county governors and local leaders.
 
 ## Uhuru's Political Project

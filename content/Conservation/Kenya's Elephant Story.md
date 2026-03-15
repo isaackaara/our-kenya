@@ -1,5 +1,3 @@
-# Kenya's Elephant Story
-
 Kenya's [[Kenya Elephant Population|elephant population]] has experienced one of conservation history's most dramatic collapses and partial recovery, serving as a cautionary tale about extinction risk and a rare example of successful population rebound. This arc from abundance to near-extinction to recovery defines modern [[Kenya Conservation Overview|conservation]] in Kenya.
 
 ## Pre-Poaching Abundance

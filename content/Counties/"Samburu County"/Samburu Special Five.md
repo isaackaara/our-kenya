@@ -1,5 +1,3 @@
-# Samburu Special Five Species
-
 The Samburu ecosystem hosts five distinctive wildlife species found in this region but rarely or never elsewhere in Kenya. These species showcase evolutionary adaptations to arid African landscapes and represent significant conservation and tourism value.
 
 Reticulated giraffe (Giraffa camelopardalis reticulata) exhibits a distinctive netted coat pattern of dark lines separating buff-coloured polygonal areas. This subspecies evolved in arid regions and occupies the Samburu ecosystem. Reticulated giraffes browse on acacia trees, reaching foliage inaccessible to other herbivores.

@@ -1,5 +1,3 @@
-# Mombasa's Security Challenges: Crime and Drug Trade
-
 Mombasa faces significant security challenges including drug trafficking, gang activity, theft, and organized crime. The port city's location on international sea routes makes it a transit point for drugs destined for regional and international markets.
 
 ## Drug Trade

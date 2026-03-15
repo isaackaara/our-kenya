@@ -1,5 +1,3 @@
-# Laikipia Conservancy Network
-
 [[Laikipia Plateau]], located in central Kenya between Mount Kenya and the Rift Valley, has become Africa's most concentrated privately and community-managed [[Kenya Conservation Overview|wildlife conservation landscape]]. The plateau encompasses a network of dozens of conservancies and ranches dedicated to wildlife protection, representing an alternative [[Kenya as Global Conservation Model|conservation approach]] to state-managed national parks.
 
 ## Geographic and Ecological Significance

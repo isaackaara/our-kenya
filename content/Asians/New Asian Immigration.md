@@ -1,5 +1,3 @@
-# New Asian Immigration
-
 New waves of Asian immigration to Kenya in recent decades include Chinese workers and investors, [[Indian IT workers]] and entrepreneurs, Bangladeshi garment workers, and other recent South Asians. These newer Asian communities occupy different economic niches and have different relationships to the established Kenyan Asian community than the long-settled community did. The interactions between new immigrants and established Kenyans of Asian descent reveal both economic integration and communal tensions.
 
 ## Chinese Workers and Investors

@@ -1,5 +1,3 @@
-# Mijikenda Healing Practices
-
 [[Mijikenda Traditional Medicine|Traditional medicine]] and healing practices remain important in [[Mijikenda Overview|Mijikenda communities]] despite the presence of modern biomedicine. Healing is understood as addressing both physical symptoms and spiritual causes of illness, with specialized practitioners who combine practical knowledge of plants with spiritual authority.
 
 ## Healers and Diviners (Aganga)

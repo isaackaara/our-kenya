@@ -1,5 +1,3 @@
-# Kamba Social Structure
-
 The Kamba organized themselves through a decentralized system of clans, councils of elders, and age-sets, but unlike the Wanga Luhya or other Bantu peoples, they never developed a centralized hereditary kingdom. This structure enabled flexibility and broad participation in decision-making, though it also prevented the concentrated military power that centralized states could mobilize.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Tharaka and the Embu
-
 The Embu are neighboring Bantu-speaking people who occupy areas south of Tharaka territory. The Tharaka and Embu are distantly related through shared Bantu origins and have maintained relationships characterized by [[Tharaka Economic Development]] and periodic interaction.
 
 ## Geographic Proximity

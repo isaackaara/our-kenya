@@ -1,5 +1,3 @@
-# 1974 Election Results
-
 The 1974 election resulted in a Parliament composed entirely of KANU nominees, as expected in a one-party system. All candidates who won their KANU primary contests were elected to Parliament, and no independent or opposition candidates were elected. The election produced a parliament of approximately 160 MPs (the exact number varied slightly over time), all of whom were members of KANU.
 
 The parliamentary composition of 1974 reflected both continuity and change. Many MPs from the previous parliament were re-elected, including ministers and senior figures. However, the competitive KANU primary had produced significant turnover, with perhaps 30 to 40 percent of seats going to new MPs. This level of turnover was higher than in the previous 1969 election, where the government had more actively suppressed internal competition.

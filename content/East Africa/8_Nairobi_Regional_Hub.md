@@ -1,5 +1,3 @@
-# Nairobi as Regional Hub
-
 [[Nairobi Regional Hub]]'s emergence as East Africa's primary hub for international organizations, finance, and professional services has made it the de facto capital of the [[East African Community]], wielding influence far beyond Kenya's borders.
 
 ## International Organizations

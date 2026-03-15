@@ -1,5 +1,3 @@
-# Wilson Kipsang: Berlin Marathon World Record Holder and Olympic Champion
-
 Wilson Kipsang set the marathon world record at the 2013 Berlin Marathon in 2:03:23, becoming the first human to run a sub-2:04 marathon and establishing one of the fastest marathon times ever recorded. He also won the Olympic gold medal in the marathon at the 2012 London Olympics in 2:04:12, representing Kenya's Olympic marathon dominance. Kipsang's achievements demonstrated Kenya's capability to produce world-record marathon runners consistently across multiple generations.
 
 Born in 1982, Kipsang emerged as a promising long-distance runner in the 1990s and 2000s. He initially competed in track distance running before transitioning to marathoning. His breakthrough in marathon racing came in the mid-2000s when he began competing in major marathons and winning races. By 2008, Kipsang was among the world's elite marathoners, consistently running times under 2:05.

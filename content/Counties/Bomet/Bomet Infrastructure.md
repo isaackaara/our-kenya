@@ -1,5 +1,3 @@
-# Bomet Infrastructure
-
 Bomet County infrastructure supports agricultural commerce, service delivery, and regional connectivity. Road networks, water systems, and utilities connect the county to Kericho, Narok, and the Maasai Mara.
 
 ## Road Networks

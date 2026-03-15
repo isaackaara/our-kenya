@@ -1,5 +1,3 @@
-# [[coastal]] [[marginalization]]
-
 The Kenya coast has historically felt marginalized by the national government, which has been dominated by upland ethnic groups, particularly the Kikuyu and to a lesser extent the Luo and other western groups. This marginalization shapes contemporary coastal politics and has spawned movements demanding greater regional autonomy or secession.
 
 ## Historical Roots

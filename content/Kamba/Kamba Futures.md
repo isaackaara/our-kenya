@@ -1,5 +1,3 @@
-# Kamba Futures (2026 and Beyond)
-
 The Kamba enter 2026 at a historical inflection point. The stable political consensus that sustained their leadership through the Moi era has dissolved, the carving industry faces existential pressure from synthetic alternatives and shifting tourism, and climate change threatens the pastoral and agricultural base of Ukambani. This note examines the central questions and possible futures facing the Kamba in the coming decade.
 
 ## Political Leadership in Crisis

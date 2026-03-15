@@ -1,5 +1,3 @@
-# Kenneth Matiba
-
 Kenneth Stanley Njindo Matiba (1 June 1932, 15 April 2018) was a Kikuyu businessman and politician who became the central Kikuyu figure of Kenya's democracy movement. His willingness to confront Daniel arap Moi publicly, his subsequent detention, the stroke he suffered in custody, and his partial recovery to contest the 1992 presidency made him a symbol of both democratic courage and the cost of opposing the Moi state.
 
 ## Key Facts

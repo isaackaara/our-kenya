@@ -1,5 +1,3 @@
-# Conservation vs Land Rights
-
 One of the most fundamental tensions in African [[Conservation|conservation]] is the conflict between [[Conservation Objectives|conservation objectives]] and the [[Land Rights|land rights]] of [[Indigenous Communities|communities]] who have occupied and managed these lands for generations. Kenya's [[Conservation History|conservation history]] exemplifies this tension, with multiple [[Displaced Communities|communities]] displaced or restricted in [[Land Use|land use]] by [[Conservation Initiatives|conservation initiatives]] without adequate [[Consultation|consultation]] or [[Compensation|compensation]]. The [[Ogiek Case|Ogiek court victory]] represents a landmark recognition of [[Indigenous Land Rights|indigenous rights]].
 
 ## The Fortress Conservation Model

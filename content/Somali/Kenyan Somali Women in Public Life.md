@@ -1,5 +1,3 @@
-# Kenyan Somali Women in Public Life
-
 [[Kenyan Somali Identity|Kenyan Somali]] women have increasingly entered public life as activists, entrepreneurs, politicians, and professionals. While women's representation remains limited relative to men, particularly in [[Kenyan Somali in Politics|politics]], [[Kenyan Somali Identity|Somali]] women have established themselves in [[Somali Business Networks|business]], civil society, education, and increasingly, electoral politics. Their advancement reflects broader social change within Somali communities and greater educational opportunities for women.
 
 ## Political Participation

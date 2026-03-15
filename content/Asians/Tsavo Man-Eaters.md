@@ -1,5 +1,3 @@
-# Tsavo Man-Eaters
-
 In 1898-1899, two lions attacked railway construction workers at the [[Tsavo River]] site, killing an estimated 35 to 135 people (historical accounts vary). The episode became one of East Africa's most famous stories, blending natural history, colonial violence, and the vulnerability of [[Indian laborers]].
 
 ## The Attack Period

@@ -1,5 +1,3 @@
-# Eugene Wamalwa
-
 Eugene Wamalwa is a contemporary Luhya politician who has held significant political office under multiple presidents, demonstrating the continued capacity of Luhya leaders to access high national positions despite their failure to win the presidency in recent decades.
 
 ## Parliamentary Career

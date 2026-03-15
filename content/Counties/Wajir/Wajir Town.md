@@ -1,5 +1,3 @@
-# Wajir Town
-
 Wajir Town serves as the administrative headquarters and largest urban center of Wajir County in northeastern Kenya. Situated in Kenya's Northern Frontier District, Wajir Town functions as a crucial commercial and trade hub for the region, despite its remote location and challenging environment. The town has gradually developed from a small trading post into a significant commercial center, though it remains one of Kenya's most remote urban areas.
 
 ## Geography and Location

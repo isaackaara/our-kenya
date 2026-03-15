@@ -1,5 +1,3 @@
-# Kamba and Wildlife Corridors
-
 Ukambani borders three major national parks and reserves: Tsavo East National Park, Tsavo West National Park, and Amboseli National Park. The Kamba territories adjacent to these protected areas experience wildlife-human conflicts, have histories of hunting and poaching, and have increasingly engaged with conservation as an economic and cultural domain.
 
 ## Wildlife Boundaries and Human-Animal Conflict

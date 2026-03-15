@@ -1,5 +1,3 @@
-# Mugithi Music Origins
-
 Mugithi music emerged in the 1970s as a distinctly Kikuyu working-class genre that would become one of Kenya's most enduring musical traditions. Born from roadside performances, wedding celebrations, and community gatherings, mugithi represented a fusion of traditional Kikuyu musical forms with modern instruments, particularly the accordion and guitar brought home by World War II veterans.
 
 The genre's name derives from the Kikuyu word describing a train-like dance formation where participants hold each other from behind, moving in synchronized steps. This physical expression of communal solidarity mirrored mugithi's social function as music of and for ordinary people. Unlike elite-oriented genres, mugithi thrived in informal venues: bars, marketplaces, weddings, and circumcision ceremonies across Central Kenya.

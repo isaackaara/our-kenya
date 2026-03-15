@@ -1,5 +1,3 @@
-# Flower Farming in [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]]
-
 Eldoret and the surrounding Uasin Gishu plateau have emerged as a significant horticultural production zone, particularly for cut flower production targeting export markets. The region's altitude (around 2,100 metres), cool nights, and highland climate create ideal conditions for growing high-quality roses, carnations, and other cut flowers destined primarily for European markets.
 
 ## Geographic Suitability

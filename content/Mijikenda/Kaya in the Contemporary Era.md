@@ -1,5 +1,3 @@
-# [[kaya]] in the [[contemporary]] Era
-
 The sacred kaya forests face unprecedented pressures in the twenty-first century, yet they remain culturally central to [[Mijikenda]] communities. Contemporary engagement with the kayas involves balancing spiritual significance, conservation objectives, development pressures, and community interests.
 
 ## UNESCO Recognition and Its Impacts

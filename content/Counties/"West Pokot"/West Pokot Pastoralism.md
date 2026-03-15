@@ -1,5 +1,3 @@
-# West Pokot Pastoralism
-
 Pastoralism is the dominant livelihood system in West Pokot County, with cattle, camels, and goats providing primary production. The semi-arid lowlands support pastoral production through seasonal grazing and water source utilization. Pastoral production requires sophisticated knowledge of animal husbandry, breeding, and disease management. Livestock provides meat, milk, hides, and blood (traditionally) for pastoral diets. Livestock ownership provides social status and political influence within pastoral communities. Pastoral production is closely tied to rainfall patterns and water availability, creating seasonal movement patterns. The pastoral economy links to market economies through livestock sales and milk marketing.
 
 ## Livestock Types and Production

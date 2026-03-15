@@ -1,5 +1,3 @@
-# Nyamira and Devolution
-
 Nyamira County governance has operated under Kenya's devolution framework since 2013, managing county functions and delivering services to residents. Devolution has decentralized governance and enabled localized service delivery and development planning.
 
 ## Constitutional Framework

@@ -1,5 +1,3 @@
-# Benga Music
-
 Benga music emerged in the late 1950s and early 1960s as the defining genre of Kenyan popular music, blending traditional [[Luo]] musical forms with modern electric instrumentation. The genre originated in [[Cross-Ethnic/Nyanza Province|Nyanza Province]] around Lake Victoria, where Luo musicians translated the intricate patterns of the nyatiti (an eight-stringed lyre) and orutu (single-stringed fiddle) onto electric guitars, creating a sound that would dominate Kenyan airwaves for decades.
 
 The musical architecture of benga centers on interlocking guitar patterns that mimic the nyatiti's syncopated melodies. The electric bass guitar replicates the rhythmic foundation traditionally provided by the nyatiti's lower strings, while lead guitarists engage in rapid fingerpicking that produces the genre's characteristic bright, pulsing sound. The sizzling hi-hat drumming, played in rapid sixteenth-note patterns, drives the music forward at a tempo that makes benga immediately danceable. This technical innovation allowed Luo musicians to preserve their cultural sonic identity while embracing modernity.

@@ -1,5 +1,3 @@
-# Bajuni People
-
 The Bajuni are a Swahili sub-group inhabiting the Lamu Archipelago and the coast of southern Somalia. Numbering several thousand, they occupy a distinct ecological and cultural niche: they are primarily seafarers and fisher-folk, with deep maritime knowledge and traditions. The name "Bajuni" derives from the Bantu word for "those of the sea" or "island people."
 
 Historically, the Bajuni developed as a maritime community adapted to the archipelago's island environment. They built and sailed dhows, fished the rich waters of the Indian Ocean, and engaged in maritime trade. Unlike some coastal communities that are primarily traders or farmers, the Bajuni maintained a strong direct connection to the sea itself. They possessed sophisticated knowledge of monsoon winds, ocean currents, fish behavior, and navigation.

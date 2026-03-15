@@ -1,5 +1,3 @@
-# 1983 Election Regional Patterns
-
 Regional voting patterns in 1983 reflected the government's political consolidation and Moi's use of state machinery to favor certain regions and candidates. The Rift Valley, Moi's base, saw increased representation. Central Province, historically dominant but no longer politically central, retained seats but with changed composition. Luo Nyanza remained marginalized. The regional distribution of government resources was increasingly tied to political loyalty.
 
 ## See Also

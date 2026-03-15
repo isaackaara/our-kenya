@@ -1,5 +1,3 @@
-# Samburu Conflict with Neighbouring Communities
-
 Samburu County experiences periodic conflicts with neighbouring communities reflecting competition over land and water, cattle rustling, and inter-ethnic tensions. Conflicts range from localised disputes to broader clashes affecting multiple areas.
 
 Water scarcity, particularly during droughts, precipitates conflicts as communities and herds compete for access to boreholes, seasonal water sources, and the Ewaso Nyiro River. Water is essential for pastoral survival, making water competition acute during droughts.

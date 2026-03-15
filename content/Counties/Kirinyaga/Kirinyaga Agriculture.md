@@ -1,5 +1,3 @@
-# Kirinyaga Agriculture
-
 Agriculture forms the foundation of Kirinyaga County's economy and defines the lives of most residents. The county's agricultural success reflects its ideal climate, fertile volcanic soils, and proximity to water sources. Coffee dominates the mid-altitude zones as the primary cash crop. Tea cultivation thrives at higher elevations. Rice farming in the lowland Mwea plains provides staple food production. Dairy farming on the slopes provides both subsistence and market income. Horticulture, including cut flowers and vegetables, provides additional income diversification.
 
 ## Coffee Production System

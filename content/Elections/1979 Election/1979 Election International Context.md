@@ -1,5 +1,3 @@
-# 1979 Election International Context
-
 The 1979 election took place in an international context shaped by Cold War competition, regional African politics, and global economic developments. Kenya's position as a stable, pro-Western nation remained important to its international relationships, even as the transition in presidential leadership raised questions about political stability.
 
 The Cold War in 1979 was intensifying in some respects. The Soviet Union's invasion of Afghanistan in December 1979 heightened Cold War tensions. Kenya, as a pro-Western nation in East Africa, was valued by Western governments as a partner in Cold War competition.

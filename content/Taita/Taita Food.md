@@ -1,5 +1,3 @@
-# Taita Food
-
 Taita food culture reflects both traditional ingredients and contemporary influences. The diet has long been based on locally grown crops adapted to the Taita Hills environment, supplemented by pastoral products where available.
 
 ## Traditional Staple Crops

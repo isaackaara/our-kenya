@@ -1,5 +1,3 @@
-# David Rudisha: The 800m World Record Holder and Maasai Champion
-
 David Rudisha holds the world record in the 800 meters (1:40.91, set at the London 2012 Olympics) and won the Olympic gold medal at both 2012 London and 2016 Rio Olympics. His 1:40.91 time remains one of the greatest single performances in track and field history and represents the most dominant 800-meter performance at an Olympic Games. Rudisha is [[../Maasai/Maasai|Maasai]], representing one of Kenya's major ethnic communities and one of the few Maasai who have achieved Olympic gold in athletics.
 
 Rudisha was born in 1988 in the Maasai community in Kenya's Rift Valley region. While the [[../Kalenjin/Kalenjin|Kalenjin]] have dominated Kenya's distance running at longer distances (5000 meters and above), Rudisha emerged as Kenya's greatest middle-distance specialist (800 meters). He grew up running from childhood and emerged as a promising junior runner in the early 2000s.

@@ -1,5 +1,3 @@
-# Nyeri County
-
 Nyeri County sits on the southern and southwestern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]], with a population of approximately 760,000. The county is the heartland of Kikuyu culture and was the epicenter of the Mau Mau uprising during Kenya's independence struggle. Nyeri Town, the county headquarters, is historically significant as the burial place of Robert Baden-Powell, founder of the international Scouting movement.
 
 Nyeri County produces Kenya's finest coffee, with the Nyeri origin commanding premium prices in international specialty coffee markets. The county's agricultural economy also includes significant tea and dairy production. The Aberdare National Park spans portions of the county and includes the famous Treetops Lodge, where Queen Elizabeth II learned she had become Queen in 1952.

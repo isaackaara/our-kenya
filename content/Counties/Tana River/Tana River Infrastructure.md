@@ -1,5 +1,3 @@
-# Tana River Infrastructure
-
 Infrastructure development in Tana River County lags national standards significantly, with inadequate roads, water systems, electricity networks, telecommunications, and other infrastructure constraining economic development and service delivery. This infrastructure deficit reflects both historical under-investment during the colonial and early post-independence periods and continued budget constraints limiting county government investment capacity.
 
 Road infrastructure remains a critical bottleneck. The main highway connecting Mombasa to the north traverses the county but many secondary and tertiary roads are unpaved and unmaintained. During rainy seasons, many roads become impassable, cutting off communities from markets and services. Road maintenance responsibility is divided between national and county governments, with coordination challenges resulting in deferred maintenance. Limited road transportation makes market access difficult for producers and increases consumer goods costs through transport expenses. Public transportation service is limited, with few bus services connecting county towns and districts.

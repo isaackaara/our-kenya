@@ -1,5 +1,3 @@
-# Kakamega Women
-
 Women in Kakamega County play central roles in agricultural production, household management, and community development while navigating persistent gender inequalities and constraints. Women constitute approximately half the population and perform substantial portions of agricultural labour, particularly in crops including tea and vegetables, alongside primary responsibility for household food security and childcare. Economic, educational, and social opportunities for women have expanded considerably while structural barriers persist.
 
 ## Agricultural Roles

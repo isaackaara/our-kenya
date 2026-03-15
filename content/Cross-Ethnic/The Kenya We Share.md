@@ -1,5 +1,3 @@
-# The Kenya We Share
-
 What do Kenyans share across ethnic lines in 2026? A synthesis of national experiences and markers of [[Kenyan identity]] that cut across ethnic difference. These shared elements form the basis for a [[cross-ethnic national identity]], though they coexist (sometimes uneasily) with persistent [[ethnic loyalties]] and divisions.
 
 ## What Kenyans Share

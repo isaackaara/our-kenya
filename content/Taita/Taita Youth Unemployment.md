@@ -1,5 +1,3 @@
-# Taita Youth Unemployment
-
 Youth unemployment is a significant challenge in Taita-Taveta County, driving migration to urban areas and contributing to social challenges including increased crime and substance abuse.
 
 ## Employment Landscape

@@ -1,5 +1,3 @@
-# Ohangla Music
-
 Ohangla is the most distinctly Luo musical form, characterised by the *ohangla* drum and call-and-response vocals. Traditionally played at funerals and celebrations, ohangla blends mourning and joy, serving both commemorative and entertainment purposes. Contemporary ohangla artists have adapted the form to modern production, while the core style remains recognisably traditional.
 
 ## The Ohangla Drum and Vocals

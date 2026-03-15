@@ -1,5 +1,3 @@
-# Trans-Nzoia Cultural Heritage
-
 Trans-Nzoia County has rich and diverse cultural heritage reflecting its multi-ethnic composition. Sabaot cultural traditions include age-set systems, ceremonial practices, and oral histories centered on [[../../Conservation/Mount Elgon National Park|Mount Elgon]]. Bukusu Luhya cultural practices include circumcision ceremonies, dance traditions, and community work parties (bulungi). Kikuyu communities maintain cultural practices including initiation ceremonies and traditional conflict resolution mechanisms. Luo cultural heritage includes music, dance, and oral traditions. Inter-ethnic cultural interaction has created shared cultural elements while maintaining distinct community identities. Cultural practices are transmitted through families, community events, and increasingly through formal education and media.
 
 ## Traditional Practices and Ceremonies

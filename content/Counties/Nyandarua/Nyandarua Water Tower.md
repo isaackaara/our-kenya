@@ -1,5 +1,3 @@
-# Nyandarua Water Tower
-
 The [[../../Conservation/Aberdare National Park|Aberdare Range]] functions as a critical water tower for central Kenya, capturing rainfall and supplying water to downstream areas through streams and rivers. Forest cover on the range regulates water release to lower elevations. The water supply serves millions of people throughout central Kenya and supports agricultural irrigation. Water security for the region depends on maintaining forest cover and protecting water sources in Nyandarua. Climate change and population growth threaten water availability.
 
 ## Rainfall Capture

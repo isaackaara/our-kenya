@@ -1,5 +1,3 @@
-# Kakamega Forest
-
 Kakamega Forest is Kenya's only tropical rainforest and the easternmost extent of the Congo Basin rainforest system. Located in western Kenya, this 238-square-kilometer forest fragment represents a unique and [[Kenya as Global Conservation Model|globally significant ecosystem]]. The forest is home to plant and animal species found nowhere else in Kenya and contains a biological diversity rivaling much larger [[Kenya Conservation Overview|protected areas]].
 
 ## Geographic Location and Significance

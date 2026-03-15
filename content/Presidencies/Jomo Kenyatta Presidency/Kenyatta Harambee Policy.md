@@ -1,5 +1,3 @@
-# Kenyatta Harambee Policy
-
 "Harambee," meaning "pulling together" in Swahili, became the defining slogan and policy framework of Kenyatta's presidency. Introduced as a rallying cry for national unity and collective development, the Harambee movement represented both an ideological principle and a practical mechanism for mobilizing communities, labor, and capital for nation-building projects. However, like many aspects of Kenyatta's presidency, the gap between rhetoric and reality was substantial.
 
 The Harambee concept drew on genuine East African cultural traditions of communal labor and mutual assistance. In precolonial and colonial times, communities would organize collective work parties (harambee) to accomplish tasks that required coordinated effort: building homes, clearing land, or constructing community infrastructure. Kenyatta elevated this concept into a national development philosophy, arguing that independent Kenya would be built through the voluntary cooperation and self-help efforts of its citizens, working together under government guidance.

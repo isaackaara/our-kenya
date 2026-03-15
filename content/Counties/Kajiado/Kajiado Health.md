@@ -1,5 +1,3 @@
-# Kajiado Health
-
 Kajiado County's health sector provides services to pastoral, agricultural, and increasingly urban populations, with challenges of limited facility density, resource constraints, and disease burdens reflecting environmental conditions and pastoral livelihood vulnerabilities.
 
 ## Healthcare Infrastructure

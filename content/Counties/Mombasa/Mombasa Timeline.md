@@ -1,5 +1,3 @@
-# Mombasa Timeline: Key Historical Dates
-
 ## 800-1000 CE
 Arab and Swahili traders establish prosperous trading settlements on the Mombasa coast, beginning recorded Mombasa history.
 

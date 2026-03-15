@@ -1,5 +1,3 @@
-# Decolonising the Mind
-
 Decolonization of the mind is the process of undoing the internalized belief that European culture, European knowledge, European ways of being are superior to African culture, African knowledge, and African ways of being.
 
 Colonialism was not just political and economic. It was psychological. It taught Africans to value things European and to devalue things African. It taught that European languages were sophisticated and African languages were primitive. That European history was important and African history was folklore. That European aesthetics were beautiful and African aesthetics were savage or crude.

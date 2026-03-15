@@ -1,5 +1,3 @@
-# Luhya Smallholder Economy
-
 The typical Luhya household economy in 2026 centers on smallholder agriculture, small-scale livestock raising, and remittances from urban family members. Land fragmentation and rapid population growth have created an economy characterized by small holdings (typically 1-3 acres), mixed farming strategies, and heavy reliance on off-farm income sources.
 
 ## Land Holdings and Fragmentation

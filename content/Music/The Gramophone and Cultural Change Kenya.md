@@ -1,5 +1,3 @@
-# The Gramophone and Cultural Change Kenya
-
 The introduction of the gramophone to Kenya in the 1920s fundamentally altered the relationship between communities and their music, transforming sound from ephemeral performance into reproducible commodity. This technological shift had profound cultural, economic, and social consequences that shaped how Kenyans experienced and valued music.
 
 Before the gramophone, music existed only in the moment of performance. To hear a particular song or musician required being physically present when and where the performance occurred. Music was inherently local, tied to specific occasions, communities, and performers. The gramophone severed these connections, making music portable, repeatable, and detachable from its original contexts.

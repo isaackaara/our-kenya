@@ -1,5 +1,3 @@
-# Kalenjin Land Grievance
-
 The Kalenjin land grievance is rooted in a specific historical sequence: the British colonial government alienated the best Kalenjin highland land for white settler farms (the "White Highlands"), and then, after independence, the "willing buyer willing seller" land policy permitted Kikuyu settlers to purchase Kalenjin land in massive quantities. This two-stage dispossession (first by British settlers, then by Kikuyu settlers) created a festering resentment that has triggered ethnic violence in 1992, 1997, and 2007, making land the primary driver of Rift Valley ethnic conflict.
 
 ## Key Facts

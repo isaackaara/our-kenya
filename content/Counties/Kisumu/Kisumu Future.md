@@ -1,5 +1,3 @@
-# Kisumu's Future: The City of Choice Plan and Development Aspirations
-
 Kisumu envisions itself as "Kisumu City of Choice," a transformed regional center offering quality services, economic opportunity, and attractive living conditions. The vision encompasses lakefront development, improved infrastructure, and enhanced regional integration.
 
 ## City of Choice Vision

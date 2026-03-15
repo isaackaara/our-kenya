@@ -1,5 +1,3 @@
-# Fumo Liyongo
-
 Fumo Liyongo is a legendary [[Swahili]] warrior-poet, probably from the 13th century CE, though his historical existence is debated. He appears as the central figure in numerous epic poems ([[Swahili Poetry|tenzi]]) celebrating his battles, his wit, his strength, and his eventual betrayal and murder by his own son. Fumo Liyongo represents the closest thing the [[Swahili]] coast has to a mythic hero comparable to epic heroes of other cultures.
 
 ## Historical Status

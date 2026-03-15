@@ -1,5 +1,3 @@
-# Ol Pejeta Conservancy
-
 Ol Pejeta Conservancy is the largest black rhino sanctuary in East Africa, protecting critical populations of endangered species. The conservancy covers approximately 90,000 acres and serves as home to some of Kenya's last northern white rhinos. Ol Pejeta operates as a private conservancy with conservation and tourism as core functions. Wildlife protection through armed rangers prevents poaching. Tourism generates revenue supporting conservation and employment.
 
 ## Black Rhino Conservation

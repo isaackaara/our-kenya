@@ -1,5 +1,3 @@
-# Kirinyaga Notable People
-
 Several prominent Kenyans have come from Kirinyaga County, contributing to politics, business, education, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Kirinyaga's agricultural prosperity and [[../../Kikuyu/Kikuyu|Kikuyu]] prominence in post-independence Kenya have produced numerous leaders and innovators.
 
 ## Political Leaders

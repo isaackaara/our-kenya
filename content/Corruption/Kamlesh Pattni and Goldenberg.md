@@ -1,5 +1,3 @@
-# Kamlesh Pattni: The Businessman Behind Goldenberg
-
 ## Rise and Goldenberg
 
 Kamlesh Pattni was a Kenyan-Asian businessman who founded Goldenberg International in the early 1990s. Through Goldenberg, Pattni became one of the wealthiest individuals in Kenya by virtue of the export subsidy scheme.

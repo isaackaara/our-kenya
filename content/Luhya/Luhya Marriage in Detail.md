@@ -1,5 +1,3 @@
-# Luhya Marriage in Detail
-
 The Luhya marriage process is elaborate, involving extended negotiation, multiple ceremonies, and transition of bride from natal family to marital household. While contemporary marriage has become simplified and individualized, traditional processes remain important in many communities and shape cultural values around marriage and kinship.
 
 ## The Oluhia (Bridewealth) Negotiation

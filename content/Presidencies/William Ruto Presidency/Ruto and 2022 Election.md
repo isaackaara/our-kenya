@@ -1,5 +1,3 @@
-# Ruto and 2022 Election
-
 The 2022 presidential election delivered an unexpected outcome that defied most pre-election polling and political expectations. [[William Ruto]]'s Kenya Kwanza coalition defeated Raila Odinga's Azimio coalition in an election that exposed limitations of traditional ethnic-based political predictions. The election result reflected voter desire for political change and economic policy reorientation, though questions remained about whether the election truly represented a break from ethnic politics or merely realignment of ethnic coalitions.
 
 Ruto's campaign centered on the hustler nation ideology and promises of direct economic support to ordinary Kenyans. The campaign messaging appealed to voters frustrated by economic stagnation and perceiving limited opportunities. Ruto positioned himself as an outsider and alternative to the established political order represented by both incumbent President Kenyatta and opposition leader Odinga. The campaign successfully mobilized support in multiple regions, not exclusively in Ruto's Kalenjin base.

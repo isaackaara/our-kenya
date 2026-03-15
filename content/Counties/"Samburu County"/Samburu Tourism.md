@@ -1,5 +1,3 @@
-# Samburu County Tourism
-
 Tourism represents a growing economic sector in Samburu County. The combination of exceptional wildlife, the Samburu National Reserve, and the Samburu culture as a tourist attraction creates diversified tourism opportunities.
 
 Samburu National Reserve attracts both international and domestic tourists seeking wildlife viewing. The reserve's accessibility (more accessible than more remote northern reserves), permanent water creating seasonal wildlife concentrations, and the Samburu Special Five species create compelling tourist attractions.

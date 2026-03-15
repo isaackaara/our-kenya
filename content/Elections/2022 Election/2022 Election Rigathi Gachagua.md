@@ -1,5 +1,3 @@
-# 2022 Election Rigathi Gachagua
-
 Rigathi Gachagua, the running mate selected by William Ruto for the 2022 election, was a Kikuyu politician from Mathira constituency in Nyeri County who had built significant political and business influence particularly in Mt. Kenya region. Gachagua's selection as running mate was intended to strengthen Ruto's appeal in Central Kenya and to demonstrate that a Ruto government would be sensitive to Mt. Kenya regional interests despite Ruto's Kalenjin ethnicity and the regional shift away from Kikuyu presidential dominance.
 
 Gachagua brought formidable assets to the Kenya Kwanza ticket. He possessed substantial business interests, including investments in transportation, hospitality, and other commercial sectors, and had accumulated considerable personal wealth. This business experience complemented Ruto's own business background and reinforced the Kenya Kwanza campaign's emphasis on economic entrepreneurship and business-friendly governance. Gachagua's business credibility suggested that a Ruto-Gachagua government would prioritize private sector development and would be accessible to business interests.

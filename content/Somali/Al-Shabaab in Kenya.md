@@ -1,5 +1,3 @@
-# Al-Shabaab in Kenya: Terrorism, Regional Conflict, and Security Response
-
 [[Al-Shabaab]], a [[Somali]] militant organization affiliated with Al-Qaeda, has conducted dozens of attacks in Kenya since approximately 2011. These attacks have killed thousands and shaped Kenya's security policy, particularly toward [[Kenyan Somali|Somali communities]]. Al-Shabaab's presence reflects [[Kenya's Military Intervention Somalia|Kenya's military intervention in Somalia]] and broader regional instability in the [[Horn of Africa Context|Horn of Africa]].
 
 ## Origins and Organizational Context

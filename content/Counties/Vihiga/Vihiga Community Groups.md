@@ -1,5 +1,3 @@
-# Vihiga Community Groups
-
 Self-help groups and cooperatives play important roles in Vihiga's community life, organizing collective economic activity, mutual support, and development initiatives. Women's savings groups (merry-go-rounds) provide financial services and social networks. Agricultural cooperatives organize input purchasing and product marketing. Community-based organizations address local development priorities. These organizations represent grassroots development agents adapting to local conditions.
 
 ## Women's Savings Groups

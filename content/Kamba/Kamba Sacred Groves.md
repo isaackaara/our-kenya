@@ -1,5 +1,3 @@
-# Kamba Sacred Groves
-
 The Kamba maintained sacred groves, known as *ithembo* (singular *ithembo*) or *mathembo*, that served as powerful ritual centers for religious ceremonies, rainmaking, ancestor communication, and community healing. These groves were physical embodiments of Kamba cosmology and spiritual authority, carefully guarded and administered by designated families and ritual specialists.
 
 ## Function and Sacred Purpose

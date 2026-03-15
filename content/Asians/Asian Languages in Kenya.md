@@ -1,5 +1,3 @@
-# Asian Languages in Kenya
-
 The [[Asian Kenyans|Asian]] communities in [[Kenya]] speak multiple heritage languages including [[Gujarati]] (the most dominant), [[Punjabi]], [[Hindi]], [[Kutchi]], [[Urdu]], and various others. However, the use of heritage languages has been declining, particularly among third and fourth-generation [[Asian Kenyans|Asian]] [[Kenyans]]. [[English language|English]] and [[Swahili]] (and to some extent [[Kenya]]'s [[African languages]]) have become the primary languages of younger [[Kenyans]] of [[Asian Kenyans|Asian]] descent, while heritage languages are increasingly used only in family and community religious contexts.
 
 ## Gujarati Dominance

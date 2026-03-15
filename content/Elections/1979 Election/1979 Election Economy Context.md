@@ -1,5 +1,3 @@
-# 1979 Election Economy Context
-
 Kenya's economy in 1979 was in transition, facing challenges that had begun to emerge in the late 1970s. Unlike the relatively prosperous economic context of 1974, the 1979 election took place amid rising inflation, growing budget deficits, and questions about the sustainability of Kenya's development model.
 
 The second oil crisis of 1978-1979 put pressure on Kenya's economy. Oil prices had risen again, and Kenya's oil import bill was substantial. Kenya, which depended on imported petroleum, faced higher energy costs that affected both the government budget and the broader economy.

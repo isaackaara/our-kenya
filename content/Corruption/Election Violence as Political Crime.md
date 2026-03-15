@@ -1,5 +1,3 @@
-# Election Violence as Political Crime: Corruption Through Violence
-
 ## Violence as Political Transaction
 
 Election violence in Kenya has been systematic, organized, and often funded by politicians. This violence is a form of corruption: politicians are essentially buying violence as a tool for electoral advantage. When a politician pays youths to engage in violence against opposition areas, the politician is corrupting the [[Electoral Corruption Kenya|electoral process]] through violence. When violence is used to suppress voter turnout in opposition strongholds, it is an illegitimate exercise of political power.

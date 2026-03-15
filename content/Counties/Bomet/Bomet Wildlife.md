@@ -1,5 +1,3 @@
-# Bomet Wildlife
-
 Wildlife bordering the Maasai Mara ecosystem creates both conservation opportunities and human-wildlife conflict challenges in Bomet County. Wildlife management requires balancing conservation with community livelihood protection.
 
 ## Wildlife Species

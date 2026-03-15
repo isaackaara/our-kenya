@@ -1,5 +1,3 @@
-# Taita Endemic Birds
-
 The Taita Hills are home to several bird species that are found nowhere else on earth. These endemic species make the Taita Hills one of the world's most important sites for avian biodiversity and conservation.
 
 ## Taita Falcon

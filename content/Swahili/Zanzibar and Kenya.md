@@ -1,5 +1,3 @@
-# Zanzibar and Kenya
-
 [[Zanzibar]] was the capital of a vast [[Indian Ocean]] empire centered on Omani Arab authority that dominated the East African coast from the late 17th century through the 19th century. The Sultan of [[Zanzibar]] authority extended over the Kenyan coast, making [[Zanzibar]] the ultimate source of political authority for coastal Kenyan regions. [[Zanzibar]] also served as the center of the East African slave trade during its peak in the 19th century.
 
 ## Zanzibar's Rise to Power

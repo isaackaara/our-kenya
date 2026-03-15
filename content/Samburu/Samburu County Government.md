@@ -1,5 +1,3 @@
-# Samburu County Government
-
 [[Samburu County]] government established by 2010 constitution comprises elected governor, county assembly, and appointed officers. County governance addresses pastoral development, drought management, education, and health. Governance capacity and resource constraints affect implementation effectiveness. County government provides platform for [[Samburu]]-specific policy development.
 
 ## County Structure

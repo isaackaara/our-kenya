@@ -1,5 +1,3 @@
-# Marsabit Women
-
 Women in Marsabit County carry substantial economic and social responsibilities within pastoral and diversified livelihoods. In pastoral households, women typically manage milk production and marketing, while men control cattle sales. This division shapes household income and decision-making.
 
 Customary practices including early marriage and female genital modification (FGM) continue in some communities, though changing under pressure from education, government policy, and women's rights campaigns. Devolved health education emphasises reproductive health and family planning.

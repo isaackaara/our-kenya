@@ -1,5 +1,3 @@
-# 2022 Election Timeline
-
 This timeline documents key dates and events in Kenya's 2022 general election process, from campaign commencement through Supreme Court petition resolution.
 
 ## Pre-Election Phase

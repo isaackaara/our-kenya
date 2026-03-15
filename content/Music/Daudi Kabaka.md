@@ -1,5 +1,3 @@
-# Daudi Kabaka
-
 Daudi Kabaka was one of East Africa's first superstars, a musician whose career in the 1950s and early 1960s helped define what Kenyan popular music could be. His blend of traditional Kikuyu musical elements, rumba rhythms, and sophisticated guitar work created a template that influenced generations of musicians.
 
 Born in 1939 in Murang'a, Central Kenya, Kabaka grew up during a period of intense social change. His musical education began in [[Music/Mission Church Choirs Kenya|mission schools]], where he learned to read music notation and sing in four-part harmony. This formal training, combined with deep knowledge of Kikuyu musical traditions, gave him a unique foundation.

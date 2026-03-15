@@ -1,5 +1,3 @@
-# Kakamega Urban Growth
-
 Kakamega town and surrounding peri-urban areas have experienced significant growth since the 1990s, transforming from a small administrative centre into a bustling regional urban area. Population increases reflect both natural growth and rural-to-urban migration seeking employment and services. Urban expansion has created new economic opportunities alongside infrastructure challenges and social pressures.
 
 ## Population Growth

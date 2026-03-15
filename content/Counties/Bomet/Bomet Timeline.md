@@ -1,5 +1,3 @@
-# Bomet Timeline
-
 This timeline documents major events in Bomet County history from colonial times through 2026, tracing governance transformation, economic development, and social change.
 
 ## Colonial Period (1890s-1963)

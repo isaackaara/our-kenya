@@ -1,5 +1,3 @@
-# Kalenjin Architecture
-
 Traditional Kalenjin homestead design reflected social structure, pastoral economy, and defensive requirements. The organization of houses, cattle enclosures, and community meeting places created settlements expressing Kalenjin values and social relationships. Contemporary housing reflects transition to modern construction and urban life, though some communities maintain traditional architectural elements.
 
 ## Homestead Organization

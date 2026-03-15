@@ -1,5 +1,3 @@
-# Nyeri Land Issues
-
 Land tenure in Nyeri County involves individual land titles and smallhold fragmentation. Colonial policies introduced individual land ownership, displacing communal systems. Inheritance patterns have divided holdings across generations, creating fragmentation. Land disputes over boundaries and inheritance rights are common. Women's land rights have improved legally but face implementation challenges. Land market activity is significant, with values rising in accessible areas.
 
 

@@ -1,5 +1,3 @@
-# Samba Mapangala Later Career
-
 Samba Mapangala's remarkable longevity spanning five decades made him one of East Africa's most enduring musical figures, demonstrating how exceptional talent combined with strategic adaptation could sustain career through massive industry changes. Born in Matadi, Democratic Republic of Congo, but spending most of his musical life in Kenya, Mapangala built legacy as bridge between Congolese rumba traditions and East African musical innovation.
 
 Mapangala formed Orchestra Virunga in Kenya during the late 1970s, establishing the band as one of the region's premier [[Music/Congolese Influence on Kenya 1980s|Lingala music]] ensembles. Through the 1980s, during [[Music/Kenyan Rumba Peak 1980s|Kenyan rumba's peak popularity]], Virunga dominated Nairobi's nightclub circuit, performing at Garden Square and other venues to audiences that could not get enough authentic Congolese sound.

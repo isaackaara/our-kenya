@@ -1,5 +1,3 @@
-# Turkana County Government
-
 Following Kenya's devolution of governmental powers through the 2010 Constitution, Turkana County [[Turkana County Government]] was established in 2013 as an autonomous administrative and service delivery entity. County government has responsibility for local development, service provision, and resource management in Turkana County.
 
 ## Devolution and County Government Establishment

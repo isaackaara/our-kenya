@@ -1,5 +1,3 @@
-# Tana River Politics
-
 Political processes in Tana River County reflect competition between ethnic communities, struggles over resource allocation, and broader national political dynamics. Local politics have been characterized by ethnic mobilization, patronage distribution, and limited institutional capacity for inclusive governance.
 
 Pre-colonial political organization involved community-based leadership structures centered on village elders and councils. Pokomo farming communities had localized leadership managing resource allocation and dispute settlement. Pastoral Orma societies had age-set and elder-based governance with flexible territorial arrangements. These systems emphasized consensus and community participation in decision-making.

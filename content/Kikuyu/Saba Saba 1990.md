@@ -1,5 +1,3 @@
-# Saba Saba 1990
-
 *Saba Saba* ("seven seven" in Swahili) refers to July 7, 1990, the date of a planned pro-democracy rally at Kamukunji grounds in Nairobi that became a turning point in Kenya's transition from one-party rule to multiparty democracy. Though the rally was violently dispersed and its organisers had already been detained, the date entered Kenyan political memory as a rallying cry that has been invoked at every subsequent moment of democratic crisis.
 
 ## Key Facts

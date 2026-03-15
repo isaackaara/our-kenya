@@ -1,5 +1,3 @@
-# Narok Ballooning
-
 Hot air ballooning over [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara represents one of Africa's most distinctive and popular safari tourism activities, with daily balloon flights providing aerial perspectives of wildlife, landscapes, and the Great Migration for visitors willing to pay premium rates.
 
 ## Ballooning Operations

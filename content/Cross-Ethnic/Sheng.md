@@ -1,5 +1,3 @@
-# Sheng
-
 Sheng is the language of [[Nairobi as Melting Pot|Nairobi]], a creole that emerged in the city's low-income estates (particularly Eastlands areas: [[Mathare Valley|Mathare]], [[Eastleigh Nairobi|Eastleigh]], Kayole, Huruma) in the early 1970s. It mixes Swahili grammar with English, Kikuyu, Luo, Luhya, and other vocabulary. Examples: *mader* (mother, from Kikuyu), *pads* (house), *mathree* (matatu, from Kikuyu). Sheng evolved rapidly and now has sub-dialects by neighbourhood and generation.
 
 ## Key Facts

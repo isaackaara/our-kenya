@@ -1,5 +1,3 @@
-# Turkana Land Rights
-
 Turkana pastoralists have traditionally held land through collective use rights organized at the clan and community level, not through individual private ownership. [[Turkana Land Rights]] are embedded in oral traditions and customary law. However, modern Kenyan law emphasizes individual landownership, creating legal ambiguities and vulnerabilities for [[Turkana Pastoralism]] communities whose land tenure systems do not fit the individual private property model.
 
 ## Traditional Pastoral Land Tenure

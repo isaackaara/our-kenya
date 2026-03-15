@@ -1,5 +1,3 @@
-# Kitengela
-
 Kitengela represents the largest urban satellite town in Kajiado County and effectively functions as an extension of Nairobi's urban sprawl, with rapidly expanding residential, commercial, and mixed-use development driven by proximity to Nairobi and relative affordability compared to Nairobi proper.
 
 Located approximately 25 to 40 kilometers south of central Nairobi along the Nairobi-Namanga highway, Kitengela has transformed from a small pastoral settlement into a sprawling urban center with a population estimated at 200,000 or more.

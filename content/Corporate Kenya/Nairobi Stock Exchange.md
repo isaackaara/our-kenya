@@ -1,5 +1,3 @@
-# Nairobi [[Nairobi Stock Exchange]]
-
 The Nairobi Securities Exchange (NSE, formerly Nairobi Stock Exchange) is East Africa's oldest and largest stock exchange. Founded in 1954 during the colonial period, it has served as the primary mechanism for corporate capital raising and equity investment in Kenya for over 70 years. However, its growth has been constrained by limited liquidity, concentrated ownership, and the dominance of a few large-cap stocks.
 
 ## Colonial Origins (1954)

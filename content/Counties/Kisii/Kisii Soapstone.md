@@ -1,5 +1,3 @@
-# Kisii Soapstone Carving
-
 Kisii soapstone carving represents one of Kenya's most distinctive artisanal crafts, centered in [[Tabaka Village.md|Tabaka]] village in southern [[Kisii County.md|Kisii County]]. The industry has become a significant economic activity and cultural export, generating income for thousands of craftspeople and their families.
 
 ## The Stone

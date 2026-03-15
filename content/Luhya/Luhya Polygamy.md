@@ -1,5 +1,3 @@
-# Luhya Polygamy
-
 Polygamy, specifically polygyny (one man with multiple wives), has been a historically significant marriage practice among the Luhya people of western Kenya. Polygamous marriage reflected and reinforced social hierarchies, economic status, and gender relations within traditional Luhya society. While Christian missions and civil law have challenged the practice, polygamy remains a cultural institution, though with declining prevalence and modified social acceptance.
 
 ## Economic Foundations of Polygamy

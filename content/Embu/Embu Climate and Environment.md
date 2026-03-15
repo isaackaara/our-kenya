@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]] Climate and Environment
-
 Embu County's environmental conditions range from forested highlands to semi-arid lowlands, with significant variation in rainfall, temperature, and vegetation across elevation zones. Climate change is intensifying droughts and reducing rainfall reliability, threatening agricultural productivity and water security.
 
 ## Rainfall Patterns

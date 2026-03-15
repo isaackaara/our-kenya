@@ -1,5 +1,3 @@
-# Naivasha Flower Farms
-
 The shores of [[../../Conservation/Lake Naivasha|Lake Naivasha]] host Kenya's largest concentration of cut flower farming operations, making the region one of the world's most important sources of fresh flowers for European markets. Hundreds of large and small farms grow roses, carnations, and other flowers year-round under greenhouse systems, exporting directly to EU supermarkets and florists via air freight from Nairobi.
 
 The flower industry has transformed the Naivasha economy, creating thousands of jobs and generating significant foreign exchange for Kenya. Workers in flower farms (predominantly women) earn wages that, while modest by international standards, represent important income for rural families. The farms employ both permanent staff and seasonal workers, with working conditions and pay varying significantly between major exporters and smaller operations.

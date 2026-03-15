@@ -1,5 +1,3 @@
-# Maasai Language and Preservation
-
 The Maasai language (Maa) is a Nilotic language spoken by roughly 1.5 million people across Kenya and Tanzania. It is the primary identity marker for Maasai ethnic consciousness and the vehicle through which pastoral knowledge, oral history, and cultural values are transmitted. Yet Maa faces significant pressure from English, Swahili, and the mechanisms of modern nation-states that privilege dominant languages. Language preservation has become a cultural and political priority.
 
 ## Linguistic Features

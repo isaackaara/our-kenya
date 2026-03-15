@@ -1,5 +1,3 @@
-# Illegal Wildlife Trade
-
 Kenya is a significant player in global illegal wildlife trafficking, serving as both a source country where wildlife is poached and a transit country where illegal wildlife products pass through on their way to international markets. The illegal wildlife trade represents a major conservation threat, particularly for endangered species including rhinos, elephants, and pangolins.
 
 ## Scale and Economic Value

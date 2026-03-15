@@ -1,5 +1,3 @@
-# Kikuyu Business Networks
-
 The Kikuyu developed distinctive business and commercial networks that enabled economic cooperation and wealth accumulation. These networks operated through formal institutions (like the Kikuyu Central Association) and informal mechanisms (like investment groups and trading networks).
 
 ## Early Cooperative Banking

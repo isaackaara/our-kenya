@@ -1,5 +1,3 @@
-# Kamba Visual Arts Beyond Carving
-
 While [[Kamba Wood Carving|wood carving]] dominates external perception of [[Kamba]] visual arts, traditional [[Kamba]] artistic expression extended to multiple other forms: basketry, pottery, body decoration, and other visual arts reflecting aesthetic values and practical functions. Understanding [[Kamba Visual Culture and Aesthetics|Kamba visual arts]] comprehensively requires attention to these diverse expressions.
 
 ## Basketry Traditions

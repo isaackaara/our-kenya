@@ -1,5 +1,3 @@
-# Bungoma Women
-
 Women in Bungoma County play central roles in agricultural production, household management, and community development while navigating persistent gender inequalities and structural barriers. Women constitute approximately half the population and perform substantial agricultural labour while maintaining primary responsibility for household food security and childcare. Economic and social opportunities for women have expanded though significant constraints persist.
 
 ## Agricultural Roles

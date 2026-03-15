@@ -1,5 +1,3 @@
-# Tharaka and the Church
-
 Christian churches have significant presence in Tharaka communities and play important roles in spiritual life, community organizing, and social services.
 
 ## Missionary Denominations

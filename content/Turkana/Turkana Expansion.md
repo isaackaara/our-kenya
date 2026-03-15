@@ -1,5 +1,3 @@
-# Turkana Expansion
-
 The Turkana underwent a dramatic territorial expansion during the 18th and 19th centuries, transitioning from a relatively localized [[Turkana Pastoralism]] group in the Mount Moroto region to a dominant force across a vast territory in northwestern Kenya. This expansion was characterized by aggressive pastoral competition, warrior [[Turkana People Overview]], and the displacement of neighboring groups, particularly the Samburu.
 
 ## The Warrior Culture

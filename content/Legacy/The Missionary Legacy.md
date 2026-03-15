@@ -1,5 +1,3 @@
-# The Missionary Legacy
-
 Christian missionaries arrived in Kenya in the 19th century as both spiritual teachers and agents of colonization. They built schools and hospitals that genuinely met needs, yet those institutions came with an implicit message: that African spiritual practices were pagan and inferior, that salvation required adopting not just Christianity but European culture as a package.
 
 The physical legacy is substantial. Mission schools educated generations of Kenyans. Mission hospitals provided healthcare in areas the colonial state neglected. But the cultural legacy cuts deeper. Indigenous spiritual practices (the veneration of sacred groves, the role of seers and healers, the integration of spiritual and material life) were displaced or driven underground. Conversion often meant a clean break from ancestral practice, a choice presented as moral but experienced as cultural erasure.

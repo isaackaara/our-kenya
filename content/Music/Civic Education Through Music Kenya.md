@@ -1,5 +1,3 @@
-# Civic Education Through Music Kenya
-
 Music became essential vehicle for civic education in Kenya from the multiparty era through the 2000s, as musicians used their platforms to educate voters, promote peaceful elections, and build civic consciousness. This transformation of popular music into tool for democratic participation reflected both musicians' social engagement and recognition that music uniquely reached audiences unreachable through conventional civic education.
 
 The transition to multiparty democracy in 1991-1992 created unprecedented demand for voter education. After decades of single-party rule under [[Presidencies/Daniel arap Moi Presidency|Moi]], many Kenyans lacked understanding of democratic processes. How did voter registration work? What happened at polling stations? Why did votes matter? Musicians addressed these fundamental questions through songs that made abstract civic concepts concrete and memorable.

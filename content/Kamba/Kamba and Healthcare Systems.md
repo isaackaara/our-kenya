@@ -1,5 +1,3 @@
-# Kamba and Healthcare Systems
-
 Healthcare in Ukambani reflects the broader challenges of service delivery in semi-arid, lower-income regions. This note examines the healthcare landscape, disease burden, traditional and modern medicine integration, and contemporary health challenges facing the Kamba population (2000-2026).
 
 ## Health Infrastructure and Access

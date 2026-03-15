@@ -1,5 +1,3 @@
-# Kalenjin Governors
-
 Kenya's 2010 constitutional devolution created county-level governance structures with elected governors and county assemblies responsible for local development and service delivery. Kalenjin counties (Uasin Gishu, Nandi, Kericho, Baringo, and Elgeyo Marakwet) have elected governors from their dominant communities, reflecting the political strength of Kalenjin communities in these regions.
 
 ## County Governance Under Devolution

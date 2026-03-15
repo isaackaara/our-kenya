@@ -1,5 +1,3 @@
-# 1992 Election Regional Patterns
-
 The 1992 election revealed clear regional voting patterns reflecting ethnic identity, Rift Valley violence, and the geographic distribution of opposition strength. [[Daniel arap Moi]]'s KANU won decisively in the Rift Valley, reflecting strong Kalenjin ethnic support and the intimidating effect of pre-election violence in opposition strongholds. Moi won over 50% of the Rift Valley vote, demonstrating his base of ethnic support among Kalenjin communities.
 
 In Luo areas (Nyanza region), FORD-Kenya under [[Oginga Odinga]] won decisively, reflecting Luo preference for the party of their ethnic elder and historic opposition to Kalenjin (Moi) and Kikuyu (Kenyatta/Kikuyu establishment) dominance. FORD-Kenya won over 60% in Luo constituencies, demonstrating the party's ethnic base of support.

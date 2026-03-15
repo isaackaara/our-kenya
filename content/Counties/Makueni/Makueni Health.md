@@ -1,5 +1,3 @@
-# Makueni Health
-
 Health infrastructure and service delivery in Makueni County represent a mixed picture of innovation alongside persistent challenges. The county pioneered universal health coverage, yet faces ongoing resource constraints and implementation challenges. Healthcare accessibility and quality remain problematic in many areas.
 
 The Makueni UHC programme provides subsidized primary healthcare access, representing significant achievement in health service expansion. However, the programme operates within broader health system limitations including inadequate staffing, limited medications, and insufficient facility infrastructure. Referral services and specialized healthcare remain constrained.

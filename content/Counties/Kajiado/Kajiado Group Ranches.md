@@ -1,5 +1,3 @@
-# Kajiado Group Ranches
-
 Kajiado group ranches were established as collective landholdings in the 1960s and 1970s as a formalization of pastoral commons under colonial and post-colonial land administration policies. These group ranches underwent subdivision and privatization from the 1980s onward, with land parcels sold to external buyers and pastoral territories fragmented.
 
 Group ranches represented a transitional institutional form between traditional communal pastoral land management and modern private land tenure systems.

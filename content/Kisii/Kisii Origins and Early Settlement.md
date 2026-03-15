@@ -1,5 +1,3 @@
-# Kisii Origins and Early Settlement
-
 The Gusii occupation of the Kisii Highlands transformed the region from sparsely populated to one of East Africa's most densely settled areas. Early settlement patterns, clan organization, and adaptation to highland ecology shaped Gusii society in fundamental ways. Archaeological and oral evidence provide complementary accounts of early Gusii settlement and social development.
 
 ## Pre-Settlement Occupation

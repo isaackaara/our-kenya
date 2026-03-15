@@ -1,5 +1,3 @@
-# JM Kariuki Assassination 1975: Political Murder and Buried Investigation
-
 ## JM Kariuki: The Populist MP
 
 Josiah Mwangi Kariuki was a prominent Member of Parliament known for populist politics. Kariuki campaigned against wealth inequality and advocated for wealth redistribution. He was particularly critical of the concentration of wealth among the African elite and the continuation of colonial-era disparities.

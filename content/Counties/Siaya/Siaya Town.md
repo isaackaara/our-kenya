@@ -1,5 +1,3 @@
-# Siaya Town
-
 Siaya town is the administrative headquarters and principal commercial center of [[Siaya County]]. It serves as the nucleus of government activity, housing the county government offices, courts, and administrative departments. The town functions as a market hub for the surrounding agricultural and fishing communities.
 
 ## Setting

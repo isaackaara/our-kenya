@@ -1,5 +1,3 @@
-# Nairobi's Founding
-
 [[Nairobi]] was established in 1899 as a [[railway camp]] at a swampy crossing point (the name derives from the [[Maasai]] word for cold water). The [[Uganda Railway]] (British East Africa Railway) chose the site for its central location and elevation. What began as a temporary [[railway camp]] gradually became the [[colonial administration]]'s capital, eventually becoming Kenya's major city and East Africa's primary urban center.
 
 ## Origin as Railway Camp

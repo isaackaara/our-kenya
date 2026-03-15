@@ -1,5 +1,3 @@
-# Isiolo County: The Mixed Frontier
-
 [[Isiolo County]] in central Kenya functions as the gateway to northeastern Kenya, a transitional region where [[Somali]], Borana (Oromo), Samburu, Meru, and other communities coexist, trade, and compete. Unlike the more homogeneous [[Somali]]-majority counties of [[Wajir County]], [[Mandera County]], and [[Garissa County]], Isiolo's demography reflects centuries of pastoral migration, trade, and intermarriage.
 
 ## Geography and Strategic Position

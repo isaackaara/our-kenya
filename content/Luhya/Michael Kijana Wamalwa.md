@@ -1,5 +1,3 @@
-# Michael Kijana Wamalwa
-
 Michael Kijana Wamalwa was a charismatic Luhya lawyer, politician, and statesman whose life and death mark a critical turning point in post-Cold War Kenyan politics and in Luhya political representation.
 
 ## Early Political Career and Pro-Democracy Movement

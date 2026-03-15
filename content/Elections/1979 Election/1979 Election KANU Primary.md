@@ -1,5 +1,3 @@
-# 1979 Election KANU Primary
-
 The 1979 KANU primary was held in the context of the transition from Kenyatta's rule to Moi's leadership. While the basic structure of primary competition continued from the 1974 election, the political dynamics were different. The primary was an opportunity for politicians to establish their standing with the new president and to demonstrate their support for Moi's government.
 
 The Moi government allowed competitive primary elections in 1979, though with greater oversight than Kenyatta's government had exercised in 1974. The government did not prevent internal KANU competition, but it monitored primary contests and exerted pressure in ways that favored candidates aligned with Moi. The balance between genuine primary competition and government influence was more visible in 1979 than it had been in 1974.

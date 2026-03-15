@@ -1,5 +1,3 @@
-# Boda Boda Economy in Western Kenya
-
 Western Kenya, particularly the border regions and cities, is the heartland of the boda boda (motorcycle taxi) economy in Kenya. The boda boda industry represents one of the largest informal transportation sectors in the region, providing employment to hundreds of thousands of operators and significant income for riders and motorcycle owners. The Luhya and Luo populations dominate the operator class, though the industry has expanded to include participants from all ethnic groups.
 
 ## Origins and Etymology

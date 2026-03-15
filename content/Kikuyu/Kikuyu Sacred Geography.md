@@ -1,5 +1,3 @@
-# Kikuyu Sacred Geography
-
 The Kikuyu understood their landscape as a sacred moral geography in which territorial, spiritual, and social systems were interwoven. The geography was centered on [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga) as the axis mundi (sacred center) and extended outward through ridges that radiated from the mountain like spokes on a wheel.
 
 ## The Nine Clans and the Moiety System

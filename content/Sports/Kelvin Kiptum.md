@@ -1,5 +1,3 @@
-# Kelvin Kiptum: Marathon World Record and Tragic Death
-
 Kelvin Kiptum set the marathon world record of 2:00:35 at the 2023 Chicago Marathon, becoming the second-fastest marathoner of all time and the first to run sub-2:01 in official competition (after Eliud Kipchoge's 1:59:40 in controlled conditions). However, Kiptum's career was cut short by his tragic death in February 2024, at age 24, when he and his coach were killed in a car accident in Kenya.
 
 Kiptum emerged as a promising marathoner in the early 2020s. He made his marathon debut in 2021 and rapidly improved, running times that progressed toward world-record pace. By 2023, he was among the world's fastest marathoners and set his world record at Chicago. His rapid improvement and young age suggested he would potentially become one of the dominant marathoners of his generation.

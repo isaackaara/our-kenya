@@ -1,5 +1,3 @@
-# Boston Marathon Kenya: How Boston Became a Kenyan Race
-
 The Boston Marathon, held annually since 1897 and one of the world's most prestigious marathons, has become almost exclusively dominated by Kenyan runners since 1988. From 1988 through 2024, Kenyan runners have won the Boston Marathon men's race 18 times. Kenyan women have also won Boston multiple times, with [[Catherine Ndereba|Catherine Ndereba]] winning four times. The Boston Marathon represents one of the clearest examples of Kenya's absolute dominance in marathon racing.
 
 The shift toward Kenyan dominance in Boston began in 1988 when Ibrahim Hussein, a Kenyan marathoner, won the race. This victory opened the door for subsequent Kenyan runners. Throughout the 1990s and 2000s, as Kenya's marathon infrastructure and prize money ecosystem developed, more Kenyan athletes competed in Boston. By the 2000s, Kenyan runners were winning the majority of Boston Marathons annually.

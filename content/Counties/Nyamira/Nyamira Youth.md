@@ -1,5 +1,3 @@
-# Nyamira Youth
-
 Youth in Nyamira County face significant challenges accessing employment and establishing livelihoods. Limited land availability and restricted urban opportunities drive youth migration to other regions in search of economic opportunities.
 
 ## Employment Challenges

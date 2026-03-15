@@ -1,5 +1,3 @@
-# Baringo Timeline
-
 Key dates and events in Baringo County's history from pre-colonial times through 2026.
 
 ## Pre-Colonial and Early Colonial Period

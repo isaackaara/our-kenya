@@ -1,5 +1,3 @@
-# Independence Anthems Kenya
-
 The music of Kenya's independence celebrations in December 1963 marked the culmination of decades of struggle and the beginning of a new national project. The songs performed at these celebrations, particularly the [[Music/National Anthem Kenya Creation|newly created national anthem]] "Ee Mungu Nguvu Yetu," transformed resistance music into national ceremony and individual ethnic traditions into pan-Kenyan symbols.
 
 The independence celebrations on December 12, 1963, when Kenya became a sovereign nation, featured elaborate musical programming. Choirs performed the new national anthem, bands played Kenyan and African freedom songs, and traditional musicians from various communities demonstrated Kenya's cultural diversity. The musical choices reflected the dual goals of the moment: celebrating liberation from colonial rule and building a unified national identity.

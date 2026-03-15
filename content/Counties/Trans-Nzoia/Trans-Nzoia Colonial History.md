@@ -1,5 +1,3 @@
-# Trans-Nzoia Colonial History
-
 The colonial period (1895-1963) fundamentally shaped Trans-Nzoia's demographic, economic, and political structure. The region was declared part of the White Highlands (areas reserved for European settler farming under British colonial policy). European farmers acquired substantial land blocks, establishing commercial farms producing maize, wheat, and other export crops. The colonial administration developed infrastructure including roads, schools, and administrative posts to support settler agriculture. Colonial policies restricted African land ownership and labor rights, confining African populations to limited areas or drawing them as farm laborers.
 
 ## European Settlement and Land Alienation

@@ -1,5 +1,3 @@
-# Mombasa's Education Sector: Schools and Universities
-
 Mombasa is home to numerous primary and secondary schools and higher education institutions, contributing significantly to the city's economy and serving the educational needs of the coastal region.
 
 ## Primary and Secondary Schools

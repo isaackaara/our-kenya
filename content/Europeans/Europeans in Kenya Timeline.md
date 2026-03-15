@@ -1,5 +1,3 @@
-# Europeans in Kenya Timeline
-
 A chronological reference of key dates in European presence in Kenya from first contact through 2026.
 
 ## 1840s-1880s (Explorer Era)

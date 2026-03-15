@@ -1,5 +1,3 @@
-# Parachute Band Kenya
-
 While Parachute Band originated in New Zealand rather than Kenya, the international worship band became influential in shaping how Kenyan churches approached contemporary Christian music in the 2000s. Their music exemplified the global charismatic worship movement that inspired Kenya's own [[Music/Praise and Worship Movement Kenya|praise and worship transformation]].
 
 Formed in 1996 to lead worship at New Zealand's Parachute Festival, the original Parachute Band lineup led by Wayne Huirua, Libby Huirua, and Chris de Jong pioneered a contemporary worship sound that blended indie-rock sensibilities with charismatic theology. Their music incorporated influences from The Killers, One Republic, and Passion Pit, creating worship that felt culturally current rather than stylistically isolated from mainstream music.

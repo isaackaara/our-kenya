@@ -1,5 +1,3 @@
-# Kikuyu and the Finance Bill 2024
-
 The Finance Bill 2024 protests (June 2024) created significant political tension within [[Kikuyu]] communities. The bill, introduced by President [[William Ruto]]'s government (with significant Kalenjin support), faced [[Gen Z Protests 2024|Gen Z-led protests]] that were joined by many young Kikuyu. The protests against a Kalenjin-led government demonstrated internal Kikuyu political divisions and questioned assumptions about ethnic bloc voting.
 
 ## The Finance Bill and Protest Trigger

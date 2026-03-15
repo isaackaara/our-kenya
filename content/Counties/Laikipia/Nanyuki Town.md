@@ -1,5 +1,3 @@
-# Nanyuki Town
-
 Nanyuki is the most important town in Laikipia County, located at the base of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] on the equator. The town is shared between Laikipia and Meru counties. The equator passes through Nanyuki with a famous equator crossing sign serving as a tourist attraction. Nanyuki serves as the commercial hub for the Laikipia plateau. The town hosts administrative offices, businesses, educational institutions, and healthcare facilities serving the surrounding region.
 
 ## Location and Significance

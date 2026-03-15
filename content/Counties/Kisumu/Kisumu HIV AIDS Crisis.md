@@ -1,5 +1,3 @@
-# Kisumu and Nyanza: Kenya's HIV and AIDS Crisis Center
-
 Nyanza Province (and Kisumu specifically) has historically had Kenya's highest HIV prevalence rates, making it the center of Kenya's HIV and AIDS epidemic. The disease has had enormous health, social, and economic impacts on the region.
 
 ## High Prevalence Rates

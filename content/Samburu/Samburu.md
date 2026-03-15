@@ -1,5 +1,3 @@
-# Samburu
-
 The [[Samburu]] are a Nilotic semi-nomadic pastoral people inhabiting north-central Kenya, with a population of approximately 300,000. They are closely related to the [[Samburu Language|Maasai]], speaking a mutually intelligible dialect of the Maa language. The [[Samburu]] are famous for their elaborate [[Samburu Beadwork|beadwork]], vibrant [[Samburu Dress and Adornment|dress]], distinctive [[The Moran (Warriors)|warrior traditions]], and resistance to cultural assimilation compared to many other Kenyan communities.
 
 ## Territory and Geography

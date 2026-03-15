@@ -1,5 +1,3 @@
-# Swahili Dress
-
 The distinctive dress traditions of the [[Swahili]] coast reflect both cultural values and practical adaptation to the tropical coastal climate. The kanga (a printed cotton cloth worn by women) and the kikoi (a striped cloth worn by men) are emblematic of [[Swahili Identity|Swahili identity]] and are worn across the [[Swahili]] coast and increasingly recognized globally as iconic African textiles within [[Swahili Civilization Overview|Swahili culture]].
 
 ## The Kanga

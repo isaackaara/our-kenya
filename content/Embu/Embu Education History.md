@@ -1,5 +1,3 @@
-# Embu Education History
-
 Education in Embu has undergone significant transformation from pre-colonial knowledge transmission through mission schools to contemporary public and private education systems. Mission schools established the educational foundation during the colonial period, though access remained limited. Post-colonial expansion dramatically increased school capacity and literacy rates.
 
 ## Pre-Colonial Learning

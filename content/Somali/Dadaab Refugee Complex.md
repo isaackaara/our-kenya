@@ -1,5 +1,3 @@
-# Dadaab Refugee Complex
-
 The Dadaab refugee complex is one of the world's largest and longest-running refugee camps, comprising three camps (Hagadera, Dagahaley, and Ifo) located in [[Garissa County]], Kenya. Established in 1991 following [[Somalia|Somalia's state collapse]], Dadaab has hosted hundreds of thousands of refugees for over three decades. It is a permanent temporary settlement: humanitarian in purpose but increasingly a durable solution for populations that have nowhere else to go.
 
 ## Establishment and Growth

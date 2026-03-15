@@ -1,5 +1,3 @@
-# Embu Women
-
 Embu women play central roles in household economics, [[Embu Agriculture]], child-rearing, and increasingly, formal employment and political representation. Women's positions and agency have transformed significantly from pre-colonial patterns through colonial disruption to contemporary assertion of [[Embu Human Rights]] and participation.
 
 ## Traditional Roles

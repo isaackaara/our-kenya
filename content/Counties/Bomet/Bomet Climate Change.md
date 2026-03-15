@@ -1,5 +1,3 @@
-# Bomet Climate Change
-
 Climate change impacts are increasingly affecting Bomet's agricultural livelihoods and water resources. Rising temperatures and changing rainfall patterns create challenges for tea farming and dairy production.
 
 ## Temperature Changes

@@ -1,5 +1,3 @@
-# Baringo Geothermal
-
 Baringo County's Rift Valley location provides geothermal resources including hot springs and geothermal heat reservoirs that represent potential for electricity generation and direct-use applications. Kenya's geothermal potential is concentrated in Rift Valley counties including Baringo.
 
 ## Geothermal Resources and Characteristics

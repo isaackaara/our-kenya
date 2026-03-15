@@ -1,5 +1,3 @@
-# [[fishermen]] and [[marine resources]] Resources
-
 Some Mjikenda communities, particularly those in close proximity to the ocean and rivers, engage in fishing as an economic activity. Fishing provides protein, income, and cultural significance in Mjikenda societies, though modern pressures threaten marine resource sustainability.
 
 ## [[coastal]] Fishing Communities

@@ -1,5 +1,3 @@
-# Kwale Health
-
 Healthcare access and health outcomes in Kwale County reflect the broader pattern of coastal region marginalization in Kenya, with the county experiencing higher maternal mortality ratios, higher rates of infectious diseases, and lower healthcare facility density than national averages. Despite these challenges, health service coverage has expanded significantly since devolution in 2013, with increased county government investment in health infrastructure and personnel.
 
 The county health system includes county referral hospitals, sub-county hospitals, health centers, and community health posts distributed across the county. Diani, as a major beach town, has private healthcare facilities serving tourists and wealthy residents, creating disparities in access. However, the majority of Kwale residents rely on public health facilities, many of which operate with insufficient staff and equipment.

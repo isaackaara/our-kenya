@@ -1,5 +1,3 @@
-# Tana River Colonial History
-
 British colonial rule transformed Tana River from a region of independent kingdoms and trading networks into an administered territory of the Kenya protectorate and later Kenya colony. Colonial administration introduced new governance structures, taxation systems, and development visions that reshaped Tana River societies, economies, and relationships with the environment.
 
 Early European contact with the Tana River region occurred through Portuguese and later Swahili traders exploring the East African coast. The lower Tana River mouth had been a significant trading node within Indian Ocean networks for centuries before European arrival. When the British established the East Africa Protectorate in 1895, they inherited complex pre-existing political arrangements and trading relationships. However, British authorities sought to establish direct administrative control, displacing existing power structures and introducing colonial governance.

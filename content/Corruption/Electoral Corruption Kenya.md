@@ -1,5 +1,3 @@
-# Electoral Corruption Kenya
-
 ## Overview
 
 Kenya's electoral processes have been systematically corrupted through voter buying, where candidates and parties pay cash or goods to voters in exchange for votes, and through [[Kemsa Scandal|IEBC contractor]] scandals where election administration is compromised through fraud. These practices undermine the democratic principle of free and fair elections and enable the wealthy and politically connected to buy political power.

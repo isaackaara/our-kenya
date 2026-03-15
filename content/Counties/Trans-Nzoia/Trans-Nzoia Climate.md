@@ -1,5 +1,3 @@
-# Trans-Nzoia Climate
-
 Trans-Nzoia County experiences a cool, highland tropical climate characterized by high rainfall and moderate temperatures. The county elevation ranges from approximately 1,200 meters in the south to 2,500 meters in the north, creating altitude-based climate variations. Temperatures are moderate year-round, with maximum temperatures averaging 24-26°C and minimum temperatures averaging 12-15°C. The county receives substantial rainfall, particularly on [[../../Conservation/Mount Elgon National Park|Mount Elgon]]'s western slopes facing Uganda. Annual rainfall varies geographically, ranging from approximately 1,200 millimeters in lower areas to over 2,000 millimeters at higher elevations.
 
 ## Rainfall Patterns and Seasons

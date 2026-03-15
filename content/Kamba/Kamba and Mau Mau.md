@@ -1,5 +1,3 @@
-# Kamba and Mau Mau
-
 The Kamba participation in the Mau Mau Rebellion (1952-1960) remains complex and contested. While the Mau Mau was primarily a Kikuyu movement rooted in Kikuyu land grievances and Kikuyu political organization, the British colonial authorities feared that Mau Mau could spread to other ethnic groups, including the Kamba. Some Kamba were indeed oathed and participated in the rebellion, though Kamba participation was limited compared to Kikuyu involvement.
 
 ## Kamba Oathing and Recruitment

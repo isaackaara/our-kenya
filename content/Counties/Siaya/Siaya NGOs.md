@@ -1,5 +1,3 @@
-# Siaya NGOs
-
 Non-governmental organizations work extensively in [[Siaya County]], addressing priority development issues including HIV prevention and treatment, health service provision, education support, and economic empowerment. NGOs supplement government services and implement targeted interventions.
 
 ## HIV and AIDS Organizations

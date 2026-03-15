@@ -1,5 +1,3 @@
-# Wajir Climate Change
-
 Climate change poses escalating threats to Wajir County's pastoral economies and human populations, manifesting through increased drought frequency and severity, shifting rainfall patterns, rising temperatures, and rangeland desertification. Scientific evidence indicates that Wajir is experiencing climate change impacts more intensely than many Kenyan regions due to the baseline aridity and limited adaptive capacity. Climate change threatens pastoral livelihood sustainability and increases vulnerability to food insecurity and humanitarian crises.
 
 ## Temperature Increases

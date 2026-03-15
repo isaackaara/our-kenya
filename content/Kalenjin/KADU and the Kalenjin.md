@@ -1,5 +1,3 @@
-# KADU and the Kalenjin
-
 The Kenya African Democratic Union (KADU) was founded in 1960 as the political vehicle for smaller ethnic groups seeking protection against dominance by the larger Kikuyu and Luo groups. [[Daniel arap Moi|Daniel arap Moi]], a Kalenjin from Baringo, was a founding member and key leader. KADU advocated majimbo (federalism) as the constitutional framework for post-independence Kenya, attempting to preserve regional autonomy and protect minority group interests.
 
 ## KADU's Founding and Political Platform

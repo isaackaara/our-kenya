@@ -1,5 +1,3 @@
-# Cross-Ethnic Connections
-
 Kenya's story is often told as the story of separate ethnic groups. But the most important patterns in Kenyan history are the patterns that connect peoples across ethnic lines: political alliances, trade networks, shared cultural practices, and common disasters that created bonds stronger than the boundaries between groups.
 
 ## The Core Patterns

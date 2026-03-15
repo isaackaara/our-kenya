@@ -1,5 +1,3 @@
-# [[coastal]] [[land]] Problems [[Kenya]]
-
 Land issues on the Kenya coast are among the most complex and contested in the country, involving colonial-era alienation, post-colonial governance failures, and ongoing struggles by indigenous Mijikenda and other coastal communities for control of their ancestral territories.
 
 ## Colonial Land Alienation

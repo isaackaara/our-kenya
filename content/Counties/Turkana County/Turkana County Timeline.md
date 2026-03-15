@@ -1,5 +1,3 @@
-# Turkana County Timeline
-
 This timeline documents major events, developments, and transformations in Turkana County's history from pre-colonial times through the contemporary period.
 
 **Pre-1900:** Turkana pastoral societies develop and expand across northwestern Kenya, establishing territorial claims and developing pastoral systems adapted to arid environments. Oral traditions indicate migrations, conflicts with neighboring groups, and gradual consolidation of territorial control.

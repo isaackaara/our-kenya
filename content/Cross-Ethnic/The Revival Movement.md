@@ -1,5 +1,3 @@
-# The Revival Movement
-
 The [[East African Revival]], known locally as the [[Balokole movement]] (those who are "saved" or "born again"), swept through [[Protestant churches]] across East Africa from the 1930s through the 1950s. The movement emphasized personal conversion experience, holiness, and evangelical zeal. The Revival's [[cross-ethnic character]] made it historically significant as a pre-independence movement transcending ethnic boundaries.
 
 The Revival originated in Rwanda in the 1930s and spread through Uganda and Kenya. The movement reached Kenya through missionary and evangelical networks, with particular influence in western Kenya and central highlands areas. Revival preachers traveled across ethnic boundaries, preaching conversion and calling for transformed Christian life. Revival emphasizing emotional religious experience and personal encounter with the divine attracted followers from multiple ethnic communities.

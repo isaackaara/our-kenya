@@ -1,5 +1,3 @@
-# Trans-Nzoia Land Issues
-
 Land issues are central to Trans-Nzoia County's contemporary politics and social dynamics. The colonial period established European control over large portions of productive highland territory, displacing and confining African populations. Post-independence land redistribution (1960s-1970s) transferred expropriated European farms to African purchasers, primarily benefiting connected political elites and specific ethnic groups. Kikuyu communities received substantial land allocations through government settlement schemes, establishing permanent presence in the county. Sabaot communities have contested these settlements, particularly in [[../../Conservation/Mount Elgon National Park|Mount Elgon]] areas, claiming ancestral land rights.
 
 ## Ownership Patterns and Disputes

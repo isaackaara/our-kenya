@@ -1,5 +1,3 @@
-# Samia People
-
 The Samia are a Luhya sub-group, see [[../../Luhya/Luhya.md]]. They are primarily concentrated in Samia ward and surrounding areas of Busia County. The Samia speak a language classified within the Bantu language family. Samia traditionally practiced agriculture combined with fishing where Lake Victoria shoreline provided water access. Samia settlements are primarily in agricultural zones with reliable rainfall. The Samia have a rich cultural heritage including age-set systems, naming ceremonies, and marriage practices. Samia oral traditions include histories of settlement and important cultural figures. Contemporary Samia engage in agriculture, trading, government employment, and other modern livelihoods. Samia maintain strong community identity and cultural connections. Political representation includes Samia elected officials and community leaders. The Samia contribute substantially to Busia County's agricultural and cultural life.
 
 ## Traditional and Contemporary Culture

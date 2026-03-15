@@ -1,5 +1,3 @@
-# Ruto and Gen Z Protests 2024
-
 The Gen Z protests of 2024 represent significant grassroots mobilization against Ruto's government, centered initially on opposition to the Finance Bill 2023 and expanding to broader governance and economic concerns. The protests, organized primarily through social media platforms without traditional political party leadership, demonstrated the capacity of young Kenyans to mobilize outside traditional political structures. The June 2024 parliament storming incident, in which protestors breached parliament buildings, represented an escalation of protest tactics.
 
 The protests revealed deep public discontent with government policies and broader governance concerns. Young Kenyans expressed frustration with unemployment, high living costs, corruption, and limited opportunities. The protests transcended ethnic divisions, with participants from diverse communities united around common grievances. The movement's primary organization through social media and the absence of traditional political leadership differentiated it from earlier Kenyan protest movements.

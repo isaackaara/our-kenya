@@ -1,5 +1,3 @@
-# Malindi Marine Reserve
-
 Malindi Marine National Park and Reserve, located on Kenya's north coast near the town of Malindi, was East Africa's first [[Marine Life Kenya|marine protected area]], established in 1968. The park protects coral reefs, fish communities, and associated marine life, providing a model for [[Kenya as Global Conservation Model|marine conservation]] that has been replicated across the region. Malindi remains an important conservation area and a significant source of tourism revenue.
 
 ## Establishment and Historical Significance

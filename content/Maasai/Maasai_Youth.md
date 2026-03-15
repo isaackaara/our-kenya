@@ -1,5 +1,3 @@
-# Maasai Youth
-
 ## The Connected Generation
 
 Today's Maasai youth, aged 15-35, have grown up with mobile phones, social media, and global connectivity. This generation has unprecedented access to information and global cultural influences. They are aware of how Maasai culture is perceived globally (often through tourism, media, and social media representations). They have access to music, videos, and entertainment from around the world. This digital connectivity has transformed Maasai youth experience compared to previous generations.

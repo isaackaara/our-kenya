@@ -1,5 +1,3 @@
-# Migori Lake Victoria
-
 Migori County's Lake Victoria shoreline supports extensive fishing communities and provides economic opportunities through fish production and trade. The lake represents the principal economic foundation for lakeshore communities.
 
 ## Fishing Communities and Population

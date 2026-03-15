@@ -1,5 +1,3 @@
-# Mijikenda and Independence
-
 Kenyan independence in 1964 transformed political relationships and opened opportunities for [[Mijikenda Overview|Mijikenda]] participation in national life, though coastal communities remained marginalized in many respects. Independence created both aspirations and disappointments for Mijikenda peoples.
 
 ## Coastal Political Movements

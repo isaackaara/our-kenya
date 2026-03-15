@@ -1,5 +1,3 @@
-# Garissa County Economy
-
 [[Garissa County]] is the economic centre of Kenya's [[Somali]] regions, with a more developed infrastructure than Wajir or Mandera. The county's economy is rooted in pastoral production, livestock trade, the presence of the [[Dadaab Refugee Complex]], and increasingly, education (through Garissa University) and commerce. However, the economy remains fragile and heavily dependent on pastoral livelihoods and humanitarian assistance.
 
 ## Pastoral Foundation

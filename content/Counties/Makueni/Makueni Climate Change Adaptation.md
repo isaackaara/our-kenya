@@ -1,5 +1,3 @@
-# Makueni Climate Change Adaptation
-
 Makueni County communities are implementing various adaptation strategies responding to intensified drought, delayed rains, and increased climatic variability. Community-led adaptation approaches combined with government and NGO support seek to build resilience to climate change impacts on agriculture, water, and livelihoods.
 
 Water harvesting technologies including sand dams, water tanks, and borehole development provide dry-season water storage enabling drinking water access and livestock watering. These technologies help communities adapt to seasonal water scarcity and extend usable water during drought periods.

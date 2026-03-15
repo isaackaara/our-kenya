@@ -1,5 +1,3 @@
-# Laikipia Conflict
-
 Laikipia County has experienced significant conflict reflecting tensions between wildlife conservation, large-scale ranching, and pastoral land use. Pastoralists claim historic grazing rights to areas now controlled as ranches and conservancies. Conservation priorities restrict pastoral resource access. Land use competition has escalated into armed conflict. The 2017-2018 invasion of ranches and conservancies represented peak conflict expression. However, underlying tensions remain unresolved. Multiple stakeholders with competing interests complicate conflict resolution.
 
 ## Historical Tensions

@@ -1,5 +1,3 @@
-# Kenya Marathon Majors: Commercializing the World's Biggest Marathons
-
 Kenya's athletes and agents have systematically dominated the World Marathon Majors, the six largest and most prestigious marathons globally (Boston, Chicago, London, Berlin, New York, Tokyo). This dominance is not accidental but the result of coordinated effort by Kenyan agents who manage elite runner careers, strategic race selection, and alliance between Kenyan management companies and international marathon organizers.
 
 The World Marathon Majors represent the highest prize purses in professional running. Winners earn $200,000 or more, making World Marathon Majors races the primary income source for elite distance runners. Kenyan agents have leveraged Kenya's running talent and international reputation to secure prominent positions in World Marathon Majors races for their managed athletes.

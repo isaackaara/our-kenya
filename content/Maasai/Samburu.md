@@ -1,5 +1,3 @@
-# Samburu: Cousins of the Maasai, Cousins in Marginalization
-
 ## Related Nilotic People, Similar Culture
 
 The Samburu are linguistic and cultural cousins of the Maasai. They speak [[../Samburu/Samburu|Samburu]] language (closely related to Maa) and practice pastoral transhumance (seasonal movement following rainfall).

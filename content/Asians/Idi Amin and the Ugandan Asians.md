@@ -1,5 +1,3 @@
-# Idi Amin and the Ugandan Asians
-
 In August 1972, Idi Amin issued a decree expelling all non-citizen Asians from Uganda. Approximately 60,000 people were given 90 days to leave their homes, businesses, and the only country many of them had ever known. Though the expulsion occurred in Uganda, its shock waves reverberated across East Africa and hardened the resolve of Kenyan Asians that their position was fundamentally precarious. What happened in Uganda could happen anywhere in the region.
 
 ## The Expulsion (August 1972)

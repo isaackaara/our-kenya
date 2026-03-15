@@ -1,5 +1,3 @@
-# Nairobi Expansion into Kajiado
-
 Nairobi's southward urban expansion into Kajiado County represents one of Kenya's most significant contemporary urbanization phenomena, with what was exclusively pastoral [[../../Maasai/Maasai|Maasai]] territory being progressively converted into residential suburbs, commercial properties, and industrial zones as Nairobi's housing demand drives development into surrounding areas.
 
 The expansion has occurred particularly along the southern ring road and along highways extending toward Tanzania, transforming pastoral landscapes into urban satellite towns.

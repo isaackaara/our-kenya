@@ -1,5 +1,3 @@
-# Luhya Music Traditions
-
 Luhya musical traditions are central to cultural life, marking celebrations, ceremonies, work activities, and transitions from one life stage to another. The distinctive instruments and performance styles of Luhya music reflect the creativity and cultural heritage of western Kenya.
 
 ## The Isukuti Drum

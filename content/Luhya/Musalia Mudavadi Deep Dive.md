@@ -1,5 +1,3 @@
-# Musalia Mudavadi Deep Dive
-
 Wycliffe Musalia Mudavadi stands as one of the most prominent and enduring Luhya political figures, embodying the paradox of political ambition, ministerial service, and electoral near-misses that has characterized Luhya political experience in post-independence Kenya.
 
 ## Early Life and Entry to Politics

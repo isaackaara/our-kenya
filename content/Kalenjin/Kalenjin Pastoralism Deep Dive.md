@@ -1,5 +1,3 @@
-# Kalenjin Pastoralism Deep Dive
-
 Pastoral herding of cattle formed the economic and social foundation of pre-colonial Kalenjin societies, a system that persisted into the colonial era despite significant disruption and gradual transition toward settled agriculture. Understanding Kalenjin pastoralism requires attention to the specific breeds, the social institutions organizing herding, the cosmological significance of cattle, and the raiding practices that functioned as formalized economic institutions rather than simple theft.
 
 ## Cattle Breeds and Livestock

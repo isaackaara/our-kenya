@@ -1,5 +1,3 @@
-# Colonial Contact
-
 British [[Colonial Contact]] contact with the Turkana people was late (compared to other Kenyan communities), characterized by violence and conquest, and fundamentally disrupted Turkana [[Turkana Pastoralism]] and political systems. The definitive moment of colonial conquest was the 1918 punitive expedition against the Turkana, one of the largest and most brutal military operations mounted by British colonial authorities in Kenya.
 
 ## Late Contact with Colonial Powers

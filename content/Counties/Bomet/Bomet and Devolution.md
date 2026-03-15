@@ -1,5 +1,3 @@
-# Bomet and Devolution
-
 Bomet County governance has operated under Kenya's devolution framework since 2013, managing county functions and delivering services. Devolution has decentralized governance and enabled localized service delivery.
 
 ## Constitutional Framework

@@ -1,5 +1,3 @@
-# Mandera Cross-Border Trade
-
 Cross-border trade represents the economic foundation of Mandera County, with the tri-border location enabling commerce in livestock, pastoral products, and manufactured goods flowing between Kenya, Ethiopia, and Somalia. This informal cross-border commerce generates substantial income for pastoral producers, traders, and transport operators while remaining largely outside formal government regulation and taxation systems.
 
 Livestock forms the primary trade commodity, with pastoral producers selling cattle, camels, goats, and sheep to traders who export animals across borders into Ethiopia and Somalia. Kenyan pastoral livestock reaches regional markets where pastoral populations and urban centers generate demand. These livestock trade flows involve hundreds of millions of shillings in annual transactions.

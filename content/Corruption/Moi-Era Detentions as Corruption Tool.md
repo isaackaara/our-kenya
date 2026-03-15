@@ -1,5 +1,3 @@
-# Moi-Era Detentions: Using State Power to Suppress Accountability
-
 ## Detention Without Trial
 
 Under [[Daniel arap Moi and State Capture|Daniel arap Moi]], detention without trial was used as a political and corruption-suppression tool. Individuals who exposed corruption or opposed the regime were detained indefinitely without charge. This effectively silenced whistleblowers and investigators.

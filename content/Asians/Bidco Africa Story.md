@@ -1,5 +1,3 @@
-# Bidco Africa Story
-
 Bidco Africa, founded by Vimal Shah, became one of East Africa's most successful consumer goods companies. Starting from modest beginnings in edible oils and fats, Bidco Africa expanded into soaps, personal care products, and other consumer goods, eventually becoming a household brand across East Africa. The company exemplifies how some Asian entrepreneurs in post-independence Kenya built major businesses by focusing on consumer goods manufacturing and understanding local markets.
 
 ## Vimal Shah and Early Beginnings

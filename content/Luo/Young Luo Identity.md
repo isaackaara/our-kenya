@@ -1,5 +1,3 @@
-# Young Luo Identity
-
 Young Luo (Gen Z, born 1995-2012) construct their Luo identity differently from their parents and grandparents. Urban-based, digitally connected, educated, and facing a distinct economic and political landscape, younger Luo are renegotiating what it means to be Luo in 2026. This identity construction reflects both cultural continuity and profound rupture with earlier Luo social forms.
 
 ## Urban and Diaspora Contexts

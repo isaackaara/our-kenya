@@ -1,5 +1,3 @@
-# Mandera Security
-
 Security challenges represent Mandera County's most defining contemporary issue, with Al-Shabaab militant activities, intercommunal pastoral conflicts, and criminal insecurity creating persistent humanitarian and development constraints. The tri-border location facilitating militant group infiltration from Somalia and Ethiopia, porous international borders enabling weapons trafficking, and limited government security force capacity have created a security environment persistently challenging state authority and civilian safety.
 
 Al-Shabaab has established operational capacity in the tri-border region, conducting multiple attacks against civilian targets, government facilities, and security forces. Bombing attacks, armed assaults, and ambushes have resulted in significant casualties. The group's ability to operate across borders and retreat into Somalia enables operational persistence despite Kenyan security force countermeasures.

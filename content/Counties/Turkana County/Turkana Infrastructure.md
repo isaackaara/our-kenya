@@ -1,5 +1,3 @@
-# Turkana Infrastructure
-
 Infrastructure development in Turkana County has been limited historically, constraining economic development and service delivery. Roads, electricity, water supply, telecommunications, and other infrastructure elements remain substantially below national standards. Limited infrastructure has contributed to Turkana's economic marginalization and created barriers to service access and economic opportunity. Road infrastructure in Turkana has improved in recent years but remains inadequate for development needs.
 
 The A109 highway connects Lodwar to Kitale and the west, providing the primary link to national road networks. However, the road quality is poor, with frequent deterioration and maintenance challenges. Secondary roads within the county connecting Lodwar to other towns remain unpaved and difficult to traverse during rainy seasons. Most rural and pastoral areas lack all-weather road access, limiting market connectivity and service access. Road transportation is slow and unreliable, increasing transport costs for goods and services.

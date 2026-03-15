@@ -1,5 +1,3 @@
-# Samburu Beadwork
-
 [[Samburu]] beadwork represents sophisticated artistic tradition executed primarily by [[Samburu Women|women]], with distinctive patterns, colors, and designs. Elaborate beaded necklaces, bracelets, anklets, and other adornments are stacked on the neck and body, creating striking visual appearance. Beadwork serves aesthetic, status, and cultural identity functions while providing income for women artisans.
 
 ## Bead Types and Materials

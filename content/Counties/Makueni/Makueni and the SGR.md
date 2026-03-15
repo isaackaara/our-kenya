@@ -1,5 +1,3 @@
-# Makueni and the SGR
-
 The Standard Gauge Railway (SGR), opened in 2017, passes through Makueni County along the Nairobi-Mombasa corridor, providing modern rail transportation linking the county to national markets and the coastal port. The SGR represents significant infrastructure investment affecting Makueni's economic geography and transportation patterns.
 
 The SGR route passes through the western portions of Makueni County, connecting Nairobi to the coastal city of Mombasa. Railway stations serve as nodal points along the corridor, with potential for commercial development and freight handling. The SGR provides high-speed, high-capacity transportation for freight and passengers, reducing transportation times and costs compared to road transport.

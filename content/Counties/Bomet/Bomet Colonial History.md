@@ -1,5 +1,3 @@
-# Bomet Colonial History
-
 The Kipsigis region of present-day Bomet experienced British colonial administration from the 1890s until Kenya's independence in 1964. Colonial rule transformed economic, social, and governance structures in the region.
 
 ## Early Colonial Contact

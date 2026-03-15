@@ -1,5 +1,3 @@
-# Machakos and Nairobi
-
 Machakos County has become increasingly integrated into the Nairobi metropolitan region as a satellite dormitory county, with extensive commuting networks, peri-urban development, and economic interdependence. This integration reflects both Nairobi's spatial expansion and Machakos's accessibility via well-developed road networks.
 
 The Nairobi-Mombasa highway passes through Machakos County, connecting Nairobi to the coastal region and creating nodal points for commercial development along the corridor. Towns like Athi River, located on the Nairobi-Machakos border, have developed as industrial satellites and commuter towns, with significant manufacturing, warehousing, and commercial activities. The physical and economic distances between central Nairobi and Machakos have compressed dramatically over the past two decades.

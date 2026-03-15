@@ -1,5 +1,3 @@
-# Meru Sub-Group Relations
-
 The different Meru [[sub-groups]] ([[Imenti]], [[Tharaka]], [[Tigania]], [[Igembe]], [[Chuka]], and others) maintain a complex set of relationships characterized by both solidarity and periodic tensions. These relationships are mediated through [[shared institutions]], [[common culture]] and [[language]], and [[differential economic interests]].
 
 ## Shared Njuri Ncheke Institution

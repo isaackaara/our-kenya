@@ -1,5 +1,3 @@
-# Taita-Taveta Infrastructure
-
 Infrastructure development in Taita-Taveta County remains incomplete, with significant gaps in road networks, water supply systems, energy access, and telecommunications that constrain economic development and service delivery. The remoteness of the county and dispersed settlement patterns make infrastructure provision costly, while limited county government budgets restrict investment capacity. However, infrastructure development is considered critical for achieving the county's development goals.
 
 The road network in Taita-Taveta is composed of national highways, county roads, and community access roads in varying states of repair. The main north-south corridor connecting Nairobi to the Tanzania border passes through Voi, with branch roads extending to various parts of the county. However, many rural roads remain poorly maintained or entirely inaccessible during the rainy season, limiting market access and service delivery. Road infrastructure development and maintenance have been constrained by inadequate funding and competing priorities.

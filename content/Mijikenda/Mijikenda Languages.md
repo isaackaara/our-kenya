@@ -1,5 +1,3 @@
-# Mijikenda Languages
-
 The [[Mijikenda Overview|nine Mjikenda sub-groups]] speak nine related [[Giriama Language and Dialects|Bantu languages]], sometimes classified as dialects of a single language and sometimes as distinct but mutually intelligible languages. Giriama is the most widely spoken and serves as a lingua franca among some Mjikenda sub-groups. However, all Mjikenda languages are in decline as Swahili and English increasingly dominate communication, raising concerns about language preservation and cultural transmission.
 
 ## Mutual Intelligibility and Classification

@@ -1,5 +1,3 @@
-# Maralal Town
-
 Maralal is [[Samburu County]] capital and largest urban center, serving as administrative hub, market center, and commercial focus. The town provides government services, banking, healthcare, and limited tourism services. Maralal's [[International Camel Derby]] held annually attracts tourists and generates economic activity. Urban population is predominantly [[Samburu]] though includes other ethnic groups.
 
 ## Urban Infrastructure and Services

@@ -1,5 +1,3 @@
-# The Running Phenomenon
-
 The Kalenjin are globally dominant in long-distance running, particularly marathon and middle-distance events. This dominance is rooted in multiple factors: the high altitude of Kalenjin highlands (1,500-2,500 meters), biomechanical advantages (long legs relative to body mass, thin ankles), genetic adaptation to altitude, but also and critically, economic exclusion and limited alternative pathways to social mobility. Athletic scholarships to universities (both within Kenya and internationally) have become a primary route out of rural poverty for Kalenjin youth, particularly in regions where coffee and tea cultivation came to Kikuyu areas first, leaving Kalenjin economically marginalized longer.
 
 ## Key Facts

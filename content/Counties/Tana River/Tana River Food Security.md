@@ -1,5 +1,3 @@
-# Tana River Food Security
-
 Food insecurity is endemic in Tana River County, with substantial populations facing chronic food deficiency and periodic acute hunger during drought episodes. Multiple factors contribute to food insecurity including arid climate with erratic rainfall, pastoral livelihood vulnerability to livestock loss during droughts, agricultural production constraints, market access limitations, poverty limiting purchasing capacity, and conflict disrupting livelihood activities.
 
 Chronic food insecurity affects significant populations year-round, even in non-drought periods. Household food production from pastoralism and farming is often insufficient to meet annual food needs, with many families requiring supplementary food from markets or assistance programs to avoid hunger. Poverty limits ability to purchase food commercially, leaving vulnerable populations dependent on own production or external assistance.

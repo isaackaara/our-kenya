@@ -1,5 +1,3 @@
-# Piracy and the Kenyan Music Industry
-
 Cassette piracy destroyed the economics of Kenyan music in the 1980s and 1990s, transforming what had been viable commercial industry into precarious survival economy where artists could rarely profit from recordings. The crisis fundamentally altered how Kenyan musicians made money, what kind of music they produced, and which genres could survive economically.
 
 The piracy wave began in the mid-1980s as cheap cassette duplication technology became widely available. Unauthorized copies of popular albums flooded markets at fraction of legitimate recordings' cost. Street vendors along Nairobi's River Road and in marketplaces nationwide sold pirated cassettes openly, with law enforcement either unable or unwilling to stop them. Corrupt officials colluded with pirate cartels, accepting bribes to ignore intellectual property violations.

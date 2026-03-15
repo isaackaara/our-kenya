@@ -1,5 +1,3 @@
-# [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]]
-
 The towering Luo political figure of 20th-century Kenya. Jaramogi Amollo Oginga Odinga (October 1911 – 20 January 1994) was Kenya's first Vice President and the most powerful Luo voice in post-independence politics. His decades-long struggle against Kikuyu-dominated governance defined East African socialism and left an enduring mark on Kenyan political culture.
 
 ## Key Facts

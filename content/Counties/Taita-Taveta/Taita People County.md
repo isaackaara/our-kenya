@@ -1,5 +1,3 @@
-# Taita People County
-
 The Taita people are a Bantu-speaking ethnic group indigenous to the Taita Hills region of southern Taita-Taveta County. The Taita constitute the largest ethnic group within the county and have inhabited the hills and surrounding lowlands for at least the past 500 years, with oral traditions and archaeological evidence suggesting even deeper historical roots. The term "Taita" derives from the Bantu word meaning "people of the hills," reflecting their strong association with the mountainous terrain.
 
 Traditional Taita society was organized into a decentralized system of geographically-based units, each with its own leadership structure and ritual specialists. The major territorial divisions included Wundanyi (the largest and most densely populated section), Mbololo, Chawia, Kasigau, and Sagalla. Each division maintained distinct dialects, cultural practices, and social institutions, though they were unified by common language, ancestry, and ritual practices. The Taita engaged in intensive agriculture on the fertile hillslopes, cultivating maize, beans, sorghum, and millet, combined with livestock keeping, particularly cattle and goats.

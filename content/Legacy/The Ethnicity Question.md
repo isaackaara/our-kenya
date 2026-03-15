@@ -1,5 +1,3 @@
-# The Ethnicity Question
-
 Ethnicity in Kenya is both a precolonial reality and a colonial creation. Precolonial Kenya had communities, clans, regions with their own identities. But the modern ethnic categories (Kikuyu, Luo, Maasai, etc.) were partially created or crystallized by colonialism.
 
 The British classified people into ethnic groups. This classification was convenient for administration and it was backed by power. The classification became real. People understood themselves in these terms. Ethnic identity became a primary way of understanding oneself and relating to others.

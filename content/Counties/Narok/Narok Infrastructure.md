@@ -1,5 +1,3 @@
-# Narok Infrastructure
-
 Narok County's infrastructure remains a significant constraint on economic development and service delivery, with the Narok-Mara road historically characterized as one of Kenya's poorest-maintained highways. Recent improvements seek to enhance connectivity to the tourism sector and regional trade.
 
 ## Road Network

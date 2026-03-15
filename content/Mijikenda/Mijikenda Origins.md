@@ -1,5 +1,3 @@
-# Mijikenda Origins
-
 The [[Mijikenda Overview|Mijikenda peoples]] trace their origins to a place called [[Singwaya|Singwaya]] (also written Shungwaya), located in what is now southern Somalia or northern Kenya, according to their widespread oral tradition. The migration southward from Singwaya represents a foundational narrative that binds the nine groups together, though historians debate whether this represents literal historical fact or a mythical framework that emerged later to consolidate ethnic identity.
 
 ## The Singwaya Tradition

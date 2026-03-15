@@ -1,5 +1,3 @@
-# Eastleigh Economy: "Little Mogadishu" as East Africa's Commercial Hub
-
 [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh]], a district in Nairobi's eastern suburbs, has emerged as one of East Africa's most dynamic commercial and residential centers, driven almost entirely by [[Somali]] entrepreneurs and merchants. Known colloquially as "Little Mogadishu," Eastleigh has become a model of informal economic dynamism, generating an estimated USD 1-2 billion in annual commerce through wholesale trade, construction, real estate, [[Hawala Money Transfer|money transfer]], and import-export businesses.
 
 ## Origins of the Eastleigh Somali Commercial Hub

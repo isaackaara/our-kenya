@@ -1,5 +1,3 @@
-# Kamba in the Gig Economy and Digital Work (2010-2026)
-
 The rise of gig economy and digital work platforms has created new income opportunities for Kamba, particularly urban-based youth. This note examines participation patterns, earnings, challenges, and implications.
 
 ## Digital Work Platforms and Participation

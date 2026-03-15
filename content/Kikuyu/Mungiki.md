@@ -1,5 +1,3 @@
-# Mungiki
-
 *Mungiki* (from the Gikuyu word *muingi*, meaning "multitude" or "masses") emerged in the late 1980s as a Kikuyu youth movement asserting traditional cultural identity and resisting both the Moi state and the perceived abandonment of Kikuyu values by the post-independence elite. By the 2000s it had transformed into a criminal organisation of significant reach, extorting *matatu* (minibus taxi) operators, running neighbourhood protection rackets, and conducting ritualised oathing, while retaining a cultural grievance narrative that gave it popular roots the state struggled to fully erase.
 
 ## Key Facts

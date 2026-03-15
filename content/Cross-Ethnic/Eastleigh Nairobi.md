@@ -1,5 +1,3 @@
-# Eastleigh Nairobi
-
 Eastleigh is a Nairobi neighborhood that underwent dramatic transformation from a mixed residential area to a Somali-dominated commercial and residential hub. Located northeast of the CBD, Eastleigh in the 1980s was a middle-class residential zone with diverse inhabitants. The transformation began in the late 1980s and accelerated through the 1990s as [[Immigration and Integration|Somali refugees]] arrived in Nairobi following state collapse in Somalia in 1991.
 
 The mechanics of Eastleigh's transformation reveal how entrepreneurship and ethnic networks can reshape urban geography. Somali traders possessed capital, trade networks, and commercial expertise. Properties in Eastleigh were available and affordable. Somali business owners purchased buildings and properties, converting residential space to commercial use. By the 2000s, Eastleigh had become effectively a Somali commercial district, known as "Helipad" or "Little Mogadishu."

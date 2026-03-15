@@ -1,5 +1,3 @@
-# Second Liberation Music Kenya
-
 The pro-democracy movement of 1990-2002 generated powerful protest music that challenged authoritarian rule, demanded multiparty democracy, and articulated popular grievances against [[Presidencies/Daniel arap Moi Presidency|President Moi's]] government. This second liberation music, echoing independence-era freedom songs but addressing contemporary struggles, demonstrated music's enduring power as political resistance tool in Kenya.
 
 The movement for multiparty democracy emerged in the late 1980s and early 1990s as opposition to Moi's increasingly repressive single-party state intensified. While [[Music/Moi Era Music and Censorship|government censorship]] suppressed explicit political critique, musicians found creative ways to challenge power, using allegory, coded language, and strategic ambiguity to evade punishment while delivering subversive messages.

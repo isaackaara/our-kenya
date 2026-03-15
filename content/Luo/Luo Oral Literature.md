@@ -1,5 +1,3 @@
-# Luo Oral Literature
-
 Luo oral literature encompasses *sigana* (folktales), *pakruok* (praise songs), *thum* (riddles), and *Dho kuoyo* (tongue twisters). These forms were transmitted around evening fires, encoding cultural values, historical memory, and entertaining instruction. [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] and other modern writers emerged from and were shaped by this oral tradition.
 
 ## Sigana: Folktales

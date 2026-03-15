@@ -1,5 +1,3 @@
-# Busia Youth
-
 Youth in Busia County comprise approximately 60% of the population, representing significant demographic opportunity and challenge. Most youth grow up in agricultural communities where farming and trading provide livelihoods. Youth face limited formal employment outside agriculture and border trade. Agricultural extension services encourage youth participation through improved technology programs. Some youth engage in sugarcane farming, fishing, and vegetable production. Youth-led cooperative societies mobilize resources for production and marketing. Youth unemployment rates are high, particularly in trading centers. Some youth migrate to urban areas seeking formal employment. Rural youth increasingly engage with mobile-based economic activities.
 
 ## Livelihoods and Employment

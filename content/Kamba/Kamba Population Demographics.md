@@ -1,5 +1,3 @@
-# Kamba Population Demographics (1960-2026)
-
 Kamba population has grown significantly since independence while distributing across wider geographic areas. This note documents population size, growth patterns, distribution, and demographic characteristics.
 
 ## Historical Population Growth

@@ -1,5 +1,3 @@
-# The Handshake 2018
-
 On 9 March 2018, President Uhuru Kenyatta and opposition leader Raila Odinga shook hands outside Harambee House in Nairobi, a gesture that ended months of post-election political crisis following the disputed 2017 election and launched a political alliance that transformed Kenya's ethnic political geometry. The handshake was unexpected, divisive, and consequential.
 
 ## Key Facts

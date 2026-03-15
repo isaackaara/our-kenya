@@ -1,5 +1,3 @@
-# Lamu Agriculture
-
 Agriculture in Lamu County is limited by the environment: the islands have limited arable land, sandy soils, and a tropical climate with distinct wet and dry seasons. Coconut farming is the primary agricultural activity, followed by subsistence cultivation of cassava, maize, and vegetables in small plots. Livestock (goats, sheep, cattle, and chickens) are kept at household level.
 
 Coconuts are the signature crop of the Lamu archipelago. Coconut palms grow readily in the sandy, saline soils of the islands and are adapted to the tropical coastal climate. Coconut products include fresh coconuts (for domestic consumption and sale), dried coconut meat (copra) for export, and coconut oil. Coconut palms also provide materials: the wood is used for construction, fronds for weaving roofs and mats, and husks for fiber.

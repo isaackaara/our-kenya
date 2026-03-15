@@ -1,5 +1,3 @@
-# Luo Age Groups
-
 Luo society was organised into age grades and age sets that determined social responsibilities, ritual participation, and political authority. The *oganda* and *doho* structures classified men and women into life stages, with each stage carrying distinct rights and duties.
 
 ## The Oganda and Doho Structure

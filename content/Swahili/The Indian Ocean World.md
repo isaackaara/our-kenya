@@ -1,5 +1,3 @@
-# The Indian Ocean World
-
 The pre-colonial [[Indian Ocean]] functioned as an integrated economic and cultural zone in which the [[Swahili]] coast played a crucial intermediary role. The monsoon wind system enabled regular maritime trade and contact across vast distances, creating a world-system centuries before European global integration.
 
 ## The Monsoon System

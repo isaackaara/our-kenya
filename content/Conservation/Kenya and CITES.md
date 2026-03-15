@@ -1,5 +1,3 @@
-# Kenya and CITES
-
 Kenya is a signatory to [[Ivory Trade Politics|CITES]] (Convention on International Trade in Endangered Species), an international agreement regulating [[Illegal Wildlife Trade|wildlife trade]]. Kenya's participation in CITES provides framework for controlling illegal wildlife trafficking and implementing international [[Kenya as Global Conservation Model|conservation standards]].
 
 ## CITES Membership

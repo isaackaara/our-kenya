@@ -1,5 +1,3 @@
-# Turkana Youth County
-
 The youth population in Turkana County, numbering several hundred thousand individuals under age 35, faces significant challenges related to employment, education, and social development. High unemployment and underemployment rates among youth contribute to poverty and limit economic opportunity. Limited educational access and quality contribute to low human capital development. Limited livelihood options beyond pastoralism create challenges for youth who wish to transition away from pastoral livelihoods.
 
 Youth employment challenges are substantial and systemic. Formal sector employment opportunities are extremely limited, with few companies operating in Turkana and limited government employment. Wage employment in informal sectors including trade and transport is available but offers limited income and job security. Self-employment in petty trading and service provision is common but generates subsistence-level incomes. Agricultural and pastoral production, traditional livelihood systems, are increasingly viewed as unattractive by youth seeking alternative livelihoods and modern income sources.

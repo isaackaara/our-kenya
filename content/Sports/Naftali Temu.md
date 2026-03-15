@@ -1,5 +1,3 @@
-# Naftali Temu: Kenya's First Olympic Gold Medalist
-
 Naftali Temu holds the distinction of being Kenya's first Olympic gold medalist, winning the 10,000 meters at the 1968 Mexico City Olympics in 28:24.2. While [[Kipchoge Keino|Kipchoge Keino]]'s 1500 meters victory has received more historical prominence, Temu's achievement was equally groundbreaking and preceded Keino's by several days in the competition schedule. Temu's victory demonstrated that Kenya could produce world-class distance runners across multiple race distances.
 
 Temu was born in 1947 in Nandi District, in Kenya's Rift Valley. Like many Rift Valley runners, he grew up running long distances as transportation and for pastoral work. He began formal athletics training in the early 1960s and emerged as a promising 10,000-meter runner by the mid-1960s. By 1968, Temu held the Kenyan national record for 10,000 meters and was identified as a medal prospect for the Mexico City Olympics.

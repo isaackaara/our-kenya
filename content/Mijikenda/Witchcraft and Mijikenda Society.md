@@ -1,5 +1,3 @@
-# Witchcraft and Mijikenda Society
-
 Belief in witchcraft (uchawi) is widespread in [[Mijikenda]] society and significantly shapes social relations, community dynamics, and responses to misfortune. Witchcraft accusations carry severe consequences and reveal important aspects of [[Mijikenda]] social structure and anxieties.
 
 ## Concepts of Witchcraft

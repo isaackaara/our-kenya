@@ -1,5 +1,3 @@
-# Fintech Kenya
-
 [[Kenya]]'s fintech sector has grown rapidly, enabled by [[mobile infrastructure]], [[regulatory]] openness, and demand for accessible [[financial services]]. Platforms like [[Tala]], [[Branch]], [[PesaLink]], and [[Pesapal]] offer lending, [[payments]], and other services outside [[traditional banking]] channels. The sector reflects [[Silicon Savannah|Kenya's tech ambitions]] and [[M-Pesa Economic Impact|mobile money success]].
 
 ## Key Players

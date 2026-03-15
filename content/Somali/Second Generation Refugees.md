@@ -1,5 +1,3 @@
-# Second Generation Refugees: Youth Born in Kenya's Refugee Camps
-
 Second-generation Somali refugees (youth born in Kenya's refugee camps or in Kenya to refugee parents) face distinctive challenges and opportunities. These young people have never lived in Somalia, have limited connection to their parents' homeland, and navigate complex identities as Kenyans who are not Kenyan citizens, and Somali who have little lived experience of Somalia.
 
 ## Demographic Scale

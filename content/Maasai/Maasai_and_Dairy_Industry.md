@@ -1,5 +1,3 @@
-# Maasai and the Dairy Industry
-
 ## Pastoral Dairy Tradition
 
 Maasai have traditionally relied on pastoral cattle for milk production. Milk from pastoral herds is primary food source, particularly during dry seasons when meat production is limited. Pastoralists drink milk fresh, fermented, or mixed with blood. Milk production by pastoral herds is relatively low compared to dairy breeds, but milk is essential for pastoral household nutrition and survival. Milk production is managed by women and children.

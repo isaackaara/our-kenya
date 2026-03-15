@@ -1,5 +1,3 @@
-# Taita-Taveta Land
-
 Land tenure and land use in Taita-Taveta County reflect complex historical processes, contemporary demographic pressures, and competing economic interests. The county encompasses diverse land-use zones including intensively cultivated agricultural areas in the Taita Hills, pastoral rangelands in the semi-arid lowlands, and protected wildlife areas including the Tsavo National Parks. Land access, control, and use have been profoundly affected by colonial rule, independence-era policies, and contemporary devolution, creating a complex landscape of land rights and land-use conflicts.
 
 The colonial period initiated radical transformations in land tenure systems in Taita-Taveta. Substantial areas were alienated as Crown Land for European settler farms and sisal estates, dispossessing African populations of land and restricting them to limited reserves. The Taita Hills were partly designated as Crown Land for forest reserves, further restricting local land access. These colonial land alienations left lasting impacts on land distribution and access.

@@ -1,5 +1,3 @@
-# School Bursary Corruption
-
 ## Overview
 
 Constituency and ward bursary funds are allocated by elected representatives to support poor students' access to secondary education. These funds are meant to be distributed to students meeting poverty criteria. However, bursaries are systematically diverted to political supporters, given to students from wealthy families with connections, and stolen by officials. The corruption undermines the stated goal of reducing educational inequality.

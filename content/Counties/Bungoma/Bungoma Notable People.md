@@ -1,5 +1,3 @@
-# Bungoma Notable People
-
 Bungoma County has produced numerous prominent Kenyans achieving distinction in government, education, business, sports, and other fields. Notable people from Bungoma have contributed significantly to Kenya's national development while maintaining connections to home communities. These individuals reflect the region's value of education and achievement.
 
 ## Political Leaders

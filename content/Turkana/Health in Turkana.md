@@ -1,5 +1,3 @@
-# Health in Turkana
-
 [[Health in Turkana]] indicators in Turkana County are among Kenya's worst, with high maternal mortality, high child mortality, malnutrition, and limited healthcare infrastructure. These poor health outcomes reflect poverty, limited health services, poor nutrition, and environmental conditions.
 
 ## Health Indicators

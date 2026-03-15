@@ -1,5 +1,3 @@
-# 1988 Election Moi Rationale
-
 Moi justified the mlolongo system as economical and efficient, arguing that it would reduce electoral costs and would simplify voting procedures. The government also argued that mlolongo would increase participation by making voting easier for rural voters. However, the actual rationale was political. The queue system enabled the government to control voting outcomes more thoroughly than secret ballot systems. By making voting public, Moi could observe and manipulate vote distributions directly. The mlolongo system represented Moi's explicit choice to abandon even the pretense of democratic elections in favor of openly controlled electoral processes.
 
 ## See Also

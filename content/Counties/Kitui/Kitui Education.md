@@ -1,5 +1,3 @@
-# Kitui Education
-
 Education in Kitui County has expanded significantly, though quality, completion rates, and access remain limited by resource constraints and geographic challenges. Primary and secondary schools are distributed throughout the county, with access varying by location and household income. The county government has invested in education as a development priority.
 
 Primary education access expanded substantially following free primary education policy introduction in 2003, though quality concerns persist. Student-teacher ratios remain high, learning materials are limited, and infrastructure maintenance is inadequate in many schools. Rural schools often lack basic facilities including classrooms, water, and sanitation.

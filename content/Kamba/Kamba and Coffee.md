@@ -1,5 +1,3 @@
-# Kamba and Coffee
-
 Coffee production represents a secondary economic activity for some Kamba smallholders, though the crop does not dominate Kamba agricultural output as it does in central Kenyan highlands. Climate, altitude, and colonial development patterns explain the limited Kamba participation in Kenya's coffee economy.
 
 ## Geography and Climate Constraints

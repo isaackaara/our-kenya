@@ -1,5 +1,3 @@
-# Tharaka-Nithi County
-
 Tharaka-Nithi County is located in central Kenya, with elevation ranging from high-altitude Mount Kenya areas (over 5,000 meters) to lower-altitude semi-arid lowlands (below 1,000 meters). The county includes territory of the Tharaka, Chuka, Igambi/Imenti and other communities.
 
 ## Geography and Terrain

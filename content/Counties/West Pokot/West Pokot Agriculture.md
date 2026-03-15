@@ -1,5 +1,3 @@
-# West Pokot Agriculture
-
 Agriculture in [[West Pokot County]] represents a significant but constrained sector of the economy, competing for resources and land with pastoral production in an environment where rainfall is unreliable and land resources are contested. The county's arid and semi-arid climate creates fundamental challenges for rainfed agriculture, with cropping success heavily dependent on precipitation timing and adequacy. Despite these constraints, agricultural production has expanded over recent decades as population growth, land pressure, and market opportunities have incentivized cultivation. Contemporary agriculture in West Pokot encompasses both smallholder rainfed production and more intensive irrigated agriculture along river valleys, with crops including maize, beans, sorghum, millet, and horticultural products.
 
 ## Rainfed Agriculture and Crops

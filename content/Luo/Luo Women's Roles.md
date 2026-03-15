@@ -1,5 +1,3 @@
-# Luo Women's Roles
-
 Luo women's traditional roles centred on agriculture, reproduction, and household management. The ideal woman (*jaber*) was beautiful, accomplished, industrious, and a good mother. While property rights were historically limited, women's economic roles gave them agency and influence. Contemporary Luo women have achieved high education levels and political prominence.
 
 ## Traditional Agricultural Roles

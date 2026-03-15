@@ -1,5 +1,3 @@
-# Kericho Timeline
-
 ## Key Dates in Kericho History
 
 **Early 1900s**: British colonizers identify Kericho region as suitable for tea cultivation; alienation of [[../../Kalenjin/Kalenjin|Kipsigis]] lands begins for European tea estates.

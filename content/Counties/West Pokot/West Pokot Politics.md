@@ -1,5 +1,3 @@
-# West Pokot Politics
-
 Politics in [[West Pokot County]] reflects national political competition and democratic institutions while also incorporating ethnic identities and local political dynamics. Political competition at the county level has intensified since devolution created elected county governors and county assemblies. Electoral competition has provided opportunities for political participation and political change while also reinforcing ethnic political divisions. Political leadership has influenced county development priorities and resource allocation. Understanding West Pokot politics is important for understanding governance, development policy, and resource allocation in the county.
 
 ## Electoral History and Governance

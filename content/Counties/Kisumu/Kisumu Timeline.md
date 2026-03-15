@@ -1,5 +1,3 @@
-# Kisumu Timeline: Key Historical Dates
-
 ## 1901
 Kisumu founded as Port Florence, the western terminus of the Uganda Railway.
 

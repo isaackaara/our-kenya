@@ -1,5 +1,3 @@
-# Rusinga Island
-
 Rusinga Island is located in Lake Victoria at the mouth of the Winam Gulf in Homa Bay County. The island covers an area of approximately 27 square kilometers and is known for its distinctive black sand beaches composed of magnetite and garnet crystals. The island is accessible by boat from Homa Bay town and by road causeway in recent years.
 
 ## Geography and Geology

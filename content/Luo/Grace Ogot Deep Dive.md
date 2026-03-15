@@ -1,5 +1,3 @@
-# [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] Deep Dive
-
 Grace Emily Ogot (15 May 1930 – 18 March 2015) was a nurse, broadcaster, writer, and politician who became the first woman to publish a novel in English from East Africa. Her *The Promised Land* (1966) and short story collection *Land Without Thunder* (1968) drew on Luo oral traditions while achieving literary sophistication and international recognition. Her political career (MP for Gem, 1985) and family connection to [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] placed her at the centre of Luo intellectual and political life.
 
 ## Life and Early Career

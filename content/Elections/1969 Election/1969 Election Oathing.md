@@ -1,5 +1,3 @@
-# 1969 Election Oathing
-
 Oathing ceremonies conducted by Kikuyu networks during 1969 were an intensification of political mobilization tactics that had originated during the Mau Mau rebellion. The ceremonies involved ritual oaths taken by Kikuyu youth and adults, in which participants swore loyalty to KANU, to the Kenyatta government, and to Kikuyu communal interests. The oaths frequently included ethnic content, explicitly identifying KANU and the government with Kikuyu power and with the idea that Kikuyu political dominance was natural and justified.
 
 The oathing campaigns of 1969 were a response to political instability and communal anxiety among the Kikuyu. The assassination of Tom Mboya, the subsequent violence, and the sense that KANU's monopoly power might be challenged by the Kenya People's Union had created fear among Kikuyu constituencies that their political dominance might be threatened. The oathing campaigns served to mobilize Kikuyu support for KANU and to reinforce ethnic solidarity and political cohesion.

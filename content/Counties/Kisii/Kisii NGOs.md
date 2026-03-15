@@ -1,5 +1,3 @@
-# Kisii NGOs
-
 Numerous non-governmental organizations (NGOs) and development organizations work in [[Kisii County.md|Kisii County]], providing services and supporting community development in agriculture, health, education, gender equality, and poverty reduction.
 
 ## Health Organizations

@@ -1,5 +1,3 @@
-# Meru Water
-
 Water resources are abundant in the higher elevation zones of Meru County, with [[../../Conservation/Mount Kenya National Park|Mount Kenya]] serving as the primary water tower. Rivers and springs fed by [[../../Conservation/Mount Kenya National Park|Mount Kenya]] rainfall provide permanent water sources. Lower elevations experience greater water scarcity, particularly during dry seasons. Water management and development projects aim to expand access and regulate water allocation among competing users.
 
 ## [[../../Conservation/Mount Kenya National Park|Mount Kenya]] as Water Source

@@ -1,5 +1,3 @@
-# Kisumu's Fishing Industry: Lake Victoria's Economic Lifeline
-
 The fishing industry is the largest economic sector in Kisumu and surrounding areas, employing hundreds of thousands directly and indirectly. [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]'s fish stocks support livelihoods and provide protein for millions.
 
 ## Fish Landing Sites

@@ -1,5 +1,3 @@
-# Kamba Music
-
 Kamba music and dance traditions reflect a distinctive aesthetic rooted in the rhythms and social structures of Ukambani society. The kilumi dance and associated music represent one dimension of Kamba artistic expression, while mwali (initiation songs) mark ceremonial passages and community identity. Beyond specific genres, the Kamba oral tradition of nthimo (proverbs and wise sayings) preserves knowledge and values that connect past and present generations.
 
 ## Key Facts

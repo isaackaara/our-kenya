@@ -1,5 +1,3 @@
-# Colonial Education Legacy
-
 The educational system Kenya inherited from colonialism left a profound imprint on national identity. Mission schools, the backbone of colonial education, taught Kenyan children to value English history, British literature, and European civilization while treating African histories and languages as primitive or irrelevant. This curriculum encoded a psychological hierarchy: European knowledge was "proper" knowledge, while local knowledge was folk tradition at best.
 
 The prestige attached to British educational models persists. The 8-4-4 system (now 2-6-3-4) inherited structures and curricula assumptions from colonial times. English remains the language of educational gatekeeping and upward mobility. A Kenyan student who excels in English and reads Shakespeare without knowing their own oral literature has internalized the colonial lesson: that foreign culture is superior.

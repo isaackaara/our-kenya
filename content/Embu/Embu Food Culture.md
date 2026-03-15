@@ -1,5 +1,3 @@
-# Embu Food Culture
-
 Embu food culture reflects the community's agroecological environment, agricultural practices, and cultural preferences. Traditional foods centered on maize, beans, and tubers, supplemented by seasonal vegetables and occasional meat. Modern Embu diet increasingly incorporates purchased foods and diverse cuisines alongside traditional staples.
 
 ## Staple Foods

@@ -1,5 +1,3 @@
-# Turkana Boy
-
 "[[Turkana Boy]]," formally known as KNM-WT 15000, is the most complete skeleton of an early human ancestor ever discovered. The specimen was discovered in 1984 at Nariokotome on the western shore of [[Lake Turkana]] by Kamoya Kimeu, a renowned fossil hunter. The skeleton is approximately 1.6 million years old and is attributed to Homo ergaster, an early human species.
 
 ## Discovery and Excavation

@@ -1,5 +1,3 @@
-# Meru Architecture
-
 ## Traditional Meru Homestead
 
 ### The Mucibi (Main House)

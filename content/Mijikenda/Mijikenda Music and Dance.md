@@ -1,5 +1,3 @@
-# Mijikenda Music and Dance
-
 Music and dance are central to [[Mijikenda Overview|Mjikenda cultural expression]] and social life. Traditional instruments, dance forms, and musical styles reflect centuries of coastal cultural development and engagement with broader Indian Ocean musical traditions. Contemporary Mjikenda music incorporates traditional forms alongside modern genres influenced by global music markets.
 
 ## Chakacha Dance

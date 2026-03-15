@@ -1,5 +1,3 @@
-# Government Digitisation
-
 [[Kenya]]'s government digitisation initiatives aim to modernize public service delivery through digital infrastructure, online platforms, and e-government services. These efforts reflect broader [[Silicon Savannah|tech sector]] growth and [[Internet Kenya|internet adoption]].
 
 ## See Also

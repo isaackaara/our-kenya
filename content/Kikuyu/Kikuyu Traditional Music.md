@@ -1,5 +1,3 @@
-# Kikuyu Traditional Music
-
 [[Kikuyu]] traditional music and dance expressed community values, celebrated ceremonies, and transmitted cultural knowledge across generations. While the mission churches suppressed traditional music during colonialism, it experienced revival in contemporary forms.
 
 ## Musical Forms

@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]]
-
 The Embu are a Bantu-speaking people inhabiting the southeastern slopes of Mount Kenya in present-day Embu [[Embu County]], Kenya. With a population of approximately 600,000, they form part of the Mount Kenya cultural complex, sharing deep ancestral ties with the Kikuyu and Meru communities. The Embu have maintained a distinct cultural identity while navigating political subordination to the larger Kikuyu community throughout modern history.
 
 ## Territory and Geography

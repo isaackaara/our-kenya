@@ -1,5 +1,3 @@
-# Malindi
-
 Malindi occupies a distinctive place in [[Swahili]] history as the site of crucial contact between the Portuguese explorer [[Vasco da Gama and the Coast|Vasco da Gama]] and [[The Indian Ocean World|the Indian Ocean world]] in 1498. Though less politically dominant than [[Mombasa]] and smaller than some other [[Swahili Civilization Overview|Swahili cities]], Malindi's historical importance derives largely from this moment of first European contact with the East African coast.
 
 ## Early History

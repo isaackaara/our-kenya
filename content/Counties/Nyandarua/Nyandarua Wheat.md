@@ -1,5 +1,3 @@
-# Nyandarua Wheat
-
 Nyandarua County is Kenya's premier wheat-growing region, alongside Uasin Gishu County. The cool highland climate, altitude range of 2,000 to 2,800 meters, and abundant rainfall create ideal conditions for wheat cultivation. Smallholder farmers cultivate wheat as a primary cash crop. Wheat production from Nyandarua contributes significantly to Kenya's national wheat supply. The crop has been central to the county's agricultural economy since settler era development.
 
 ## Growing Conditions

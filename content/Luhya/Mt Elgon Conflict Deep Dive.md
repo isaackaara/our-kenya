@@ -1,5 +1,3 @@
-# Mt Elgon Conflict Deep Dive
-
 The [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]] insurgency (2006-2008) was one of Kenya's worst post-independence internal conflicts, centered on land disputes in the Trans-Nzoia, Bungoma, and Mount Elgon region and resulting in severe violence, displacement, and loss of life.
 
 ## The Sabaot Land Defence Force (SLDF)

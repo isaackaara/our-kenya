@@ -1,5 +1,3 @@
-# Mijikenda and Kenya Identity
-
 The [[Mijikenda]] fit complexly within Kenya's national identity and narrative. They are the largest indigenous population of the Kenya coast, representing an ancient Bantu-speaking heritage rooted in the East African hinterland. Yet coastal culture is often identified with [[Swahili Coast|Swahili]] and Arab heritage in national discourse, marginalizing Mjikenda claims to coastal indigeneity and to a central role in Kenya's national story.
 
 ## Coastal Indigeneity and Colonial History

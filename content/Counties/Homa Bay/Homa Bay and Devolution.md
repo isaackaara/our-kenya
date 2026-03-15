@@ -1,5 +1,3 @@
-# Homa Bay and Devolution
-
 Kenya's 2010 constitutional devolution transferred governance responsibilities to county governments, including Homa Bay County. Devolution established directly elected county government responsible for health, education, water, agriculture, and other development services.
 
 ## County Government Structure

@@ -1,5 +1,3 @@
-# East African Breweries
-
 [[East African Breweries]] is the dominant [[brewing]] company in [[Kenya]], producing beer and other beverages including the iconic [[Tusker]] brand. The company reflects colonial-era industrial patterns and remains a major [[Manufacturing|manufacturing]] employer.
 
 ## See Also

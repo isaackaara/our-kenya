@@ -1,5 +1,3 @@
-# European Missionary Music in Kenya
-
 When [[Europeans/European Settlers Kenya|European missionaries]] arrived in Kenya during the late 19th century, they brought with them an unexpected weapon: music. Protestant and Catholic missions understood that hymns, taught in local languages and sung in four-part harmony, could reshape spiritual life, social organization, and cultural identity more profoundly than sermons alone.
 
 The first missionaries, arriving in the 1840s along the coast and pushing inland by the 1890s, faced the challenge of making Christianity comprehensible and appealing to communities with rich musical traditions of their own. Johann Ludwig Krapf of the Church Missionary Society began translating hymns into Swahili as early as the 1840s. By the 1890s, missionary stations across Kenya were teaching European hymn melodies with translated lyrics, creating a hybrid musical form that would dominate Kenyan sacred music for over a century.

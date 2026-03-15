@@ -1,5 +1,3 @@
-# Lamu Land
-
 Land tenure and land use in Lamu County are complex, shaped by Islamic law, customary practice, colonial land registration, and post-colonial state law. The integration of these legal systems creates ambiguity, and contemporary pressures (development projects, property speculation, conservation) are creating new land conflicts.
 
 Historically, land in Lamu was held according to Islamic principles (where individuals hold usufruct rights but land ultimately belongs to Allah and cannot be permanently alienated) and customary law, where clans or families controlled areas. These systems allowed for flexibility: land could be used for farming, fishing, grazing, or dwelling based on need and custom.

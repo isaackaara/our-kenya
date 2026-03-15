@@ -1,5 +1,3 @@
-# Submarine Cables Kenya
-
 Submarine fiber-optic cables landing at [[Mombasa]] transformed [[Kenya]]'s [[internet access Kenya|internet access]] and enabled the [[tech sector Kenya|tech sector]]. Cables deployed since 2009 (SEACOM, TEAMS, EASSy, LION2) reduced bandwidth costs from USD 1000+ per Mbps to USD 1-5 per Mbps.
 
 ## Overview

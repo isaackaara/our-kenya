@@ -1,5 +1,3 @@
-# Nairobi's Traffic Crisis: Congestion and Solutions
-
 Nairobi faces one of sub-Saharan Africa's worst traffic congestion problems. The city's rapid growth has far outpaced the development of road infrastructure, creating gridlock during peak hours and endemic delays that affect productivity, pollution levels, and quality of life.
 
 ## Root Causes

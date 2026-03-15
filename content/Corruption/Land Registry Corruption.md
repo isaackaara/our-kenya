@@ -1,5 +1,3 @@
-# Land Registry Corruption
-
 ## Overview
 
 The Lands Registry has functioned as one of Kenya's primary corruption hotspots. The registry holds monopoly control over property title registration and land ownership records. Officials have systematically double-allocated land, created falsified ownership documents, and facilitated politically connected land grabbing, generating estimated losses in the billions of shillings in lost public and private assets.

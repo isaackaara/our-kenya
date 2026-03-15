@@ -1,5 +1,3 @@
-# Bomet Cooperatives
-
 Farmer cooperatives play critical roles in Bomet's agricultural economy, particularly in tea and dairy marketing. These organizations facilitate collective action, input supply, and market access for farming communities.
 
 ## Tea Cooperatives

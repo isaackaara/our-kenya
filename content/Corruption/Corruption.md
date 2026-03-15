@@ -1,5 +1,3 @@
-# Corruption Vertical Index
-
 A comprehensive knowledge graph of corruption, institutional decay, and political scandal in Kenya's history from colonial times through 2026.
 
 ## Overview

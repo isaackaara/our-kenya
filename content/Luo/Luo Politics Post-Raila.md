@@ -1,5 +1,3 @@
-# Luo Politics Post-Raila
-
 In 2024, [[Raila Odinga.md|Raila Odinga]], Kenya's dominant opposition leader for nearly two decades, pivoted away from electoral politics to pursue the African Union Commission Chairperson position. This transition marked a generational and strategic shift in Luo political leadership. The question of what Luo politics looks like after Raila, and whether the Luo will develop a new political strategy or remain defined by perpetual opposition, remains unresolved as of 2026.
 
 ## Raila's Departure: The 2024 Pivot

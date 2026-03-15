@@ -1,5 +1,3 @@
-# West Pokot Women
-
 Women in West Pokot County play important but often underrecognized roles in pastoral and agricultural production. Women manage households and care responsibilities while engaging in pastoral production activities. Women participate in milk marketing, generating household income from dairy products. Women engage in water and firewood collection, requiring substantial daily labor investment. Traditional decision-making authority in pastoral societies was primarily male, though women's voices increasingly influence household decisions. Women's education levels are lower than men's due to cultural preferences and limited school access. Women face barriers to land ownership, with customary inheritance patterns often favoring male heirs. Marriage practices affect women's rights and autonomous decision-making capacity.
 
 ## Economic and Social Roles

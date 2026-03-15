@@ -1,5 +1,3 @@
-# Community Conservation Model
-
 [[Community Conservation|Community conservation]] represents a fundamental shift in [[Conservation Philosophy|conservation philosophy]], recognizing that sustainable [[Wildlife Protection|wildlife protection]] requires local [[Community Support|community support]] and [[Benefit-Sharing|benefit-sharing]]. This model emerged from recognition that [[Fortress Conservation|fortress conservation]] (excluding communities from [[Protected Areas|protected areas]]) was ecologically and socially unsustainable. The model requires integration of [[Community Interests|community interests]] with [[Conservation Objectives|conservation objectives]].
 
 ## Philosophical Shift

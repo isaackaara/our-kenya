@@ -1,5 +1,3 @@
-# KEMSA Scandal
-
 ## Overview
 
 The Kenya Medical Supplies Authority (KEMSA) scandal of 2020 revealed massive [[Procurement Corruption|procurement fraud]] during the COVID-19 pandemic response. Between April and June 2020, the state agency responsible for procuring essential medicines and medical supplies lost KES 7.8 billion (approximately USD 72 million) through inflated contracts for personal protective equipment (PPE), ventilators, and other critical supplies.

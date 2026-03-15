@@ -1,5 +1,3 @@
-# Gor Mahia Deep History
-
 Gor Mahia (Gor Obunga) was an 18th century Luo figure of the Kanyamwa clan, legendary for his supernatural powers. He could transform into animals, disappear, and call lightning. He developed prophetic powers and became a healer and political leader. The football club Gor Mahia FC, founded in 1968, carries his supernatural aura and has become Kenya's most successful football club.
 
 ## The Legend of Gor Mahia

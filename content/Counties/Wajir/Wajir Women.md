@@ -1,5 +1,3 @@
-# Wajir Women
-
 Women in Wajir County navigate complex social environments shaped by patriarchal Somali pastoral societies, Islamic traditions, and contemporary development efforts promoting gender equality. Women's roles center on household management, childcare, water and fuel collection, and small-scale livelihood activities including milk sales and petty trading. Despite historical marginalization from formal education and political decision-making, Wajir women have demonstrated remarkable agency through peace-building initiatives and community organizing.
 
 ## Traditional Roles and Responsibilities

@@ -1,5 +1,3 @@
-# Mijikenda Christians
-
 [[Christianity]] has been important in [[Mijikenda Overview|Mijikenda communities]] since [[Mijikenda and Christian Missions|missionary work began in the nineteenth century]]. Christian conversion transformed aspects of Mijikenda culture while Mjikenda adapted Christianity to local contexts, creating a distinctive form of coastal Christianity.
 
 ## Early Christian Missions

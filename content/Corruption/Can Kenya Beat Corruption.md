@@ -1,5 +1,3 @@
-# Can Kenya Beat Corruption? Prospects for Reform and Institutional Change
-
 ## The Historical Pattern
 
 Kenya's historical pattern of [[Corruption in Kenya Overview|corruption]] has been consistent across administrations:

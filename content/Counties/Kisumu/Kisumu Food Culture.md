@@ -1,5 +1,3 @@
-# Kisumu's Food Culture: Luo Cuisine and Lake Traditions
-
 Kisumu's food culture reflects its location on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] and its [[../../Luo/Luo|Luo]] cultural heritage. The cuisine features fresh fish, grains, vegetables, and traditional Luo food preparations.
 
 ## Omena

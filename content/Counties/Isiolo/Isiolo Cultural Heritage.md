@@ -1,5 +1,3 @@
-# Isiolo Cultural Heritage
-
 Isiolo County's diverse ethnic composition creates a rich cultural landscape encompassing multiple languages, art forms, religious practices, and social traditions.
 
 Borana culture emphasises pastoral wealth accumulation, age-based social organisation, and the gada system of generational leadership. Cattle-based rituals and naming ceremonies mark important life transitions. [[../../Somali/Somali|Somali]] language, an Oromo dialect, carries cultural knowledge and identity.

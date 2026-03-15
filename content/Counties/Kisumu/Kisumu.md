@@ -1,5 +1,3 @@
-# Kisumu: Kenya's Third City and Luo Heartland
-
 Kisumu is Kenya's third-largest city, located on the shores of Lake Victoria in western Kenya. With a city population of approximately 600,000 and a county population of 1.2 million, Kisumu serves as the regional hub for the surrounding area and the cultural heartland of the Luo people.
 
 ## Historical Significance

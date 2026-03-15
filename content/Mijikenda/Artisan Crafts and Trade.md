@@ -1,5 +1,3 @@
-# Artisan Crafts and Trade
-
 [[Mijikenda]] engage in various craft production, including basketry, [[pottery]], [[woodworking]], and other crafts. These crafts are economically important, culturally significant, and increasingly directed toward tourist markets. Craft production represents both traditional cultural practice and contemporary economic survival strategy.
 
 ## Basketry and Weaving

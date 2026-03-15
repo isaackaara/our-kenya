@@ -1,5 +1,3 @@
-# Mission Church Choirs Kenya
-
 The mission church choirs of colonial Kenya created an extraordinary choral culture that shaped the country's musical landscape for generations. Schools like Alliance High School, Mang'u High School, and Kagumo Teachers' College became legendary not just for academic excellence but for producing choirs whose technical precision and emotional power set standards that endure today.
 
 Alliance High School, founded in 1926 by the Protestant missions as a secondary school for the most academically promising African students, developed a choral program that became inseparable from its identity. Under the direction of mission-trained music teachers, Alliance choirs learned to perform complex European choral works: Handel's "Messiah," excerpts from Bach cantatas, and intricate arrangements of hymns in four, five, and six-part harmony. The annual Alliance choir performances became social events, drawing audiences from across Nairobi.

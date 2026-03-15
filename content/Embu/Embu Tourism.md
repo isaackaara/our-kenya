@@ -1,5 +1,3 @@
-# [[Mount Kenya and the Embu]] Tourism
-
 Tourism in Embu County centers on Mount Kenya trekking opportunities accessible from the south, game viewing at Mwea National Reserve, and cultural tourism. While tourism remains less developed than other Kenyan regions, it provides employment and economic activity in specific areas.
 
 ## Mount Kenya Trekking

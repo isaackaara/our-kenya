@@ -1,5 +1,3 @@
-# Turkana Women
-
 Turkana [[Turkana Women]] occupy distinct and complex roles in Turkana society, performing critical labor in [[Turkana Pastoralism]] production while existing within patriarchal social structures that limit formal authority. In recent decades, women's organizations have emerged as important actors in peace building and community advocacy.
 
 ## Women's Labour and Pastoral Production

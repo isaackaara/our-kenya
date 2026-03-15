@@ -1,5 +1,3 @@
-# Hell's Gate National Park
-
 Hell's Gate National Park sits near [[Lake Naivasha]] in Kenya's [[Rift Valley]] and is one of the country's most dramatic and [[Accessible Protected Areas|accessible protected areas]]. The park features [[Hell's Gate Gorge|a steep-walled gorge]], [[Geothermal Springs|geothermal springs]], and [[Unique Rock Formations|unique rock formations]] that inspired scenes in "The Lion King." Named for the narrow gorge entrance, Hell's Gate offers visitors opportunities for [[Rock Climbing|rock climbing]], [[Cycling|cycling]], and [[Hiking|hiking]] alongside [[Wildlife|wildlife]]. The park demonstrates integration of [[Energy Development|energy development]] (geothermal) with conservation.
 
 ## Geology and Landscape

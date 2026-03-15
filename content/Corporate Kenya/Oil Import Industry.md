@@ -1,5 +1,3 @@
-# [Note Title]
-
 [Substantive overview of the topic]
 
 ## Overview

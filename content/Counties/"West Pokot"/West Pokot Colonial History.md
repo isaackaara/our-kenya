@@ -1,5 +1,3 @@
-# West Pokot Colonial History
-
 Colonial administration of the Pokot territory began in the late 1890s, following British military campaigns against resistance. The remote, pastoral nature of the territory meant colonial control was initially light, with limited administrative infrastructure. Colonial policy emphasized livestock taxation and grain production, conflicting with pastoral production preferences. The Pokot were incorporated into colonial jurisdiction through administrative appointments and revenue demands. World War I and World War II affected pastoral populations through livestock requisitions and recruitment pressures. Colonial education was limited in pastoral areas, with few schools established. Missionary activity provided some education and health services, though penetration was limited compared to agricultural regions.
 
 ## Colonial Administration and Resistance

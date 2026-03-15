@@ -1,5 +1,3 @@
-# Nyambene Hills
-
 The Nyambene Hills form a mountainous range on the western side of Meru County, rising to elevations between 1,400 and 2,100 meters above sea level. The hills span approximately 1,500 square kilometers and are the geographic heart of Kenya's miraa production. The range derives its name from the Nyambene people, an earlier community historically associated with the region.
 
 ## Geology and Topography

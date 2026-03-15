@@ -1,5 +1,3 @@
-# Kwale Marine
-
 The marine environment of Kwale County encompasses coral reef ecosystems, seagrass beds, and mangrove forests supporting extraordinary biodiversity and sustaining livelihoods of thousands of fishing families. The Diani-Chale Marine Protected Area and other designated conservation areas aim to protect marine ecosystems while permitting sustainable use. However, overfishing, pollution, and climate change threaten marine resources.
 
 Coral reefs stretching along Kwale's coast form part of the Swahili coast's reef system, among Africa's most biodiverse marine ecosystems. The reefs support thousands of fish species providing food and income for fishing communities. Coral reef fish include groupers, snappers, emperors, and numerous ornamental species. Reef-associated organisms including lobsters, octopuses, and sea urchins are harvested for food and commerce.

@@ -1,5 +1,3 @@
-# Jomo Kenyatta
-
 Jomo Kenyatta, born Kamau wa Ngengi around 1897 in [[Kiambu]], is the defining figure of modern Kikuyu and Kenyan history: anthropologist, nationalist, accused insurrectionary, long-term prisoner, and ultimately the first Prime Minister and President of independent Kenya. His life spans the entire arc of colonialism and decolonisation, and his relationship with his own people was never simple.
 
 ## Key Facts

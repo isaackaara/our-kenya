@@ -1,5 +1,3 @@
-# Luhya Writers and Intellectuals
-
 The Luhya have produced writers, poets, academics, and intellectuals who have contributed to Kenyan and East African intellectual life. These figures have worked across literature, academia, social commentary, and cultural analysis.
 
 ## Intellectual Traditions in Maragoli

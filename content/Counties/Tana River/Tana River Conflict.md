@@ -1,5 +1,3 @@
-# Tana River Conflict
-
 Tana River County has experienced significant inter-communal violence throughout its history, with conflicts between Pokomo farmers and Orma pastoralists being the most prominent and destructive in recent decades. These conflicts reflect competition for scarce water and land resources, accumulated historical grievances, weak state capacity for conflict prevention, and arms proliferation enabling organized violence.
 
 Historical raiding between pastoral and farming communities along the Tana River extends back centuries, with both Orma pastoralists and Pokomo farmers engaging in raids to acquire livestock, water access, and territorial control. These historical raids were typically limited in scale and intensity, with traditional negotiation and compensation systems managing conflict. Elders from competing communities could negotiate settlements and arrange compensation payments restoring relationships. However, colonial disruption of these traditional mechanisms and post-independence political-economic changes have transformed conflict patterns.

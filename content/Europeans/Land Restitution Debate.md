@@ -1,5 +1,3 @@
-# Land Restitution Debate
-
 Contemporary Kenya debates whether European-descended landowners should be required to restitute or redistribute land acquired through colonialism. The debate involves questions of justice, property rights, compensation, and how to address colonial wrongs nearly 60 years after independence. Kenya's approach has been gradual and market-based, unlike Zimbabwe's more radical approach, but tensions persist.
 
 ## The Historical Claim

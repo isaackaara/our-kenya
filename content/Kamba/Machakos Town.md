@@ -1,5 +1,3 @@
-# Machakos Town
-
 Machakos (originally called Masaku, after a local Kamba leader) was Kenya's first inland colonial capital. The British established their regional administrative headquarters there in 1887, making it the first administrative center of British East Africa. The town remained the capital until 1899, when the railway reached Nairobi and administrative power shifted inland.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Migori Gold Mining
-
 The Migori Gold Belt represents a region of historical and contemporary gold mining in southwestern Kenya. Artisanal and small-scale gold mining has been practiced for decades, providing income to mining communities while creating significant environmental and health challenges.
 
 ## Gold Mining History

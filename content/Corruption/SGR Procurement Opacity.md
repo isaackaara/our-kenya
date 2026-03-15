@@ -1,5 +1,3 @@
-# SGR Procurement Opacity: Railway Contract Without Competitive Bidding
-
 ## The Standard Gauge Railway Project
 
 The Standard Gauge Railway (SGR) is a modern railway connecting Mombasa (on the coast) to Nairobi (the capital). The railway was designed for both passenger and freight transport.

@@ -1,5 +1,3 @@
-# Ngai
-
 *Ngai* is the supreme deity of the Kikuyu people, a distant, singular, and all-powerful creator God who dwells on the peaks of [[Kirinyaga]] ([[../Conservation/Mount Kenya National Park|Mount Kenya]]). Unlike many African religious systems, Kikuyu theology is essentially monotheistic at its summit: *Ngai* has no consort, no divine offspring, and no competing pantheon. The relationship between *Ngai* and the Kikuyu people is direct, mediated through prayer, sacrifice, and the physical orientation toward the mountain.
 
 ## Key Facts

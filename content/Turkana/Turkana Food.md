@@ -1,5 +1,3 @@
-# Turkana Food
-
 The Turkana diet is fundamentally shaped by [[Turkana Pastoralism]]. The primary foods are milk, blood, and meat from [[Turkana Pastoralism]] livestock, with supplementation from grains and gathered plant foods. In contemporary times, market-purchased grains and other foods have supplemented traditional pastoral diet.
 
 ## Pastoral Diet Staples

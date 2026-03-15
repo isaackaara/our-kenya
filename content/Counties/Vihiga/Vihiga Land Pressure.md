@@ -1,5 +1,3 @@
-# Vihiga Land Pressure
-
 Vihiga County experiences extreme land pressure from the combination of exceptionally high population density (approximately 1,000 people per km²) and limited arable land availability. Land subdivision through inheritance has reduced holdings to levels below economic viability for agricultural production. The situation represents an extreme case of land pressure affecting livelihood sustainability and creating profound social and economic consequences.
 
 ## Land Subdivision to Microscale

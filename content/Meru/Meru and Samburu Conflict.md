@@ -1,5 +1,3 @@
-# Meru and Samburu Conflict
-
 The [[Meru]] in the north share territorial and resource boundaries with the [[Samburu]] and other pastoralist communities. This proximity has historically created tensions related to land access, grazing rights, cattle raiding, and resource competition affecting [[Tharaka]] particularly.
 
 ## Territorial Boundaries

@@ -1,5 +1,3 @@
-# Nairobi: Kenya's Capital City
-
 Nairobi is Kenya's capital and East Africa's largest city, with a metropolitan population of 4 to 5 million people. Founded in 1899 as a railway depot on the Uganda Railway, it has grown into the region's dominant financial, commercial, and cultural hub. The city sits at an altitude of 1,795 meters, giving it a temperate climate unusual for equatorial Africa.
 
 ## Overview

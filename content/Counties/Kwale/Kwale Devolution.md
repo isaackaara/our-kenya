@@ -1,5 +1,3 @@
-# Kwale Devolution
-
 Kwale County's devolved governance structure emerged from Kenya's 2010 constitutional reform, which established 47 semi-autonomous county governments with elected governors and county assemblies. Devolution aimed to bring government closer to citizens, decentralize development, and enable counties to address local priorities more responsively than highly centralized national government allowed.
 
 The county governance structure includes the county executive (governor and cabinet secretaries) and county assembly (elected representatives from 6 wards). The governor serves a five-year term and heads county administration. The county assembly legislates on county matters and provides oversight of executive actions. This structure mirrors national government organization at smaller scale.

@@ -1,5 +1,3 @@
-# 1992 Election Results
-
 The 1992 Kenya election produced a victory for [[Daniel arap Moi]] and KANU, but with the president securing only 36.4% of the vote while opposition candidates collectively received over 60% of the vote. Moi's victory was thus a product of opposition fragmentation rather than genuine majority support. The presidential results showed Moi with 36.4%, followed by [[Oginga Odinga]] with approximately 27%, [[Kenneth Matiba]] with approximately 26%, and [[Mwai Kibaki]] with approximately 8%.
 
 In parliamentary elections, KANU won 100 of 188 elective seats, compared to FORD-Kenya's 31 seats, FORD-Asili's 31 seats, Democratic Party's 23 seats, and various smaller parties and independent candidates making up the remainder. KANU's parliamentary dominance, while less overwhelming than in the single-party era, remained substantial and reflected the party's organizational advantages, resource mobilization capacity, and state power deployment.

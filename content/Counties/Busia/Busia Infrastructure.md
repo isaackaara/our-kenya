@@ -1,5 +1,3 @@
-# Busia Infrastructure
-
 Busia County has developed road and communication infrastructure supporting agricultural commerce and border trade. The main highway connects Busia to Kisumu and other regional centers, facilitating road transport. Secondary roads link Busia to neighboring counties and trading centers. Many rural roads remain unpaved and are impassable during rainy seasons. Road maintenance funding is limited relative to network extent. Mobile phone coverage is extensive across the county. Electricity connectivity exists in Busia town and major trading centers, with rural electrification progressing. Water supply systems provide piped water in Busia town, with limited rural access. Banks and financial institutions operate in Busia, providing credit and deposit services. Health facilities include hospitals and health centers distributed across the county. Schools serve urban and surrounding populations.
 
 ## Border Infrastructure and Trade Facilities

@@ -1,5 +1,3 @@
-# Kiambu Coffee
-
 Kiambu and Limuru coffee estates produce some of Kenya's finest AA-grade coffee, recognized internationally for quality and commanding premium prices on world markets. Coffee farming in Kiambu originated during the colonial period, when European settlers established estates in the high-altitude areas. After independence, some estates were subdivided into smallholder plots, though large commercial estates remain significant.
 
 Coffee production in Kiambu involves both large-scale commercial estates and numerous smallholder farmers, who together produce substantial volumes. The volcanic soils and cool highland climate of Kiambu create ideal growing conditions for coffee. The harvest season (September-December) brings intense activity as farmers pick ripe berries and transport them to processing facilities. Coffee cherries must be processed quickly, requiring wet mills distributed throughout the coffee zones.

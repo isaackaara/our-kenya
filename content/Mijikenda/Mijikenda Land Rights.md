@@ -1,5 +1,3 @@
-# Mijikenda Land Rights
-
 [[Mijikenda Overview|Mijikenda communities]] face profound [[Coastal Land Question|land rights challenges]], as colonial-era alienation and post-colonial land grabbing have dispossessed them of territories their ancestors inhabited for centuries. Land remains central to Mijikenda economic survival, cultural identity, and spiritual practice.
 
 ## Customary Land Rights

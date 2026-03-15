@@ -1,5 +1,3 @@
-# Maasai Futures: Existential Questions for 2026
-
 ## The Central Question: Pastoral Viability
 
 The fundamental question facing the Maasai in 2026 is whether pastoral life can continue as a viable livelihood and cultural practice.

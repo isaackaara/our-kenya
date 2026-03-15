@@ -1,5 +1,3 @@
-# Somali [[Somali Refugee Experience|refugee]] Experience in Kenya
-
 Since 1991, when the Somali state collapsed into civil war, Kenya has hosted hundreds of thousands of Somali refugees. The refugee experience encompasses multiple contexts: life in the [[Dadaab Refugee Complex|Dadaab]] refugee complex (the world's largest for years), urban refugee communities in Nairobi and other cities, limited legal status and work rights, and the constant threat of forced return (refoulement) to conflict.
 
 ## The Post-1991 Influx

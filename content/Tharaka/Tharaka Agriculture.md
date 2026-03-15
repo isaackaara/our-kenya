@@ -1,5 +1,3 @@
-# Tharaka Agriculture
-
 Tharaka agriculture is adapted to the semi-arid environment through cultivation of drought-resistant [[Tharaka Food]] and diversification of strategies to cope with variable rainfall and occasional drought.
 
 ## Drought-Resistant Crops

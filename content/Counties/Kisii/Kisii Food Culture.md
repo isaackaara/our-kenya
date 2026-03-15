@@ -1,5 +1,3 @@
-# Kisii Food Culture
-
 The [[Gusii People Kisii.md|Gusii]] people have developed distinctive food traditions combining traditional staples with contemporary ingredients. Food culture remains central to family life, celebrations, and social identity in [[Kisii County.md|Kisii County]].
 
 ## Traditional Staple Foods

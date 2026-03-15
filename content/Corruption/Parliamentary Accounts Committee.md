@@ -1,5 +1,3 @@
-# Parliamentary Accounts Committee: Oversight Without Enforcement
-
 ## The Committee and Its Role
 
 The Parliamentary Accounts Committee (PAC) is a parliamentary committee tasked with examining government expenditure and holding the executive accountable.

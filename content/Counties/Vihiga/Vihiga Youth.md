@@ -1,5 +1,3 @@
-# Vihiga Youth
-
 Vihiga County's youth face significant challenges including severe land scarcity, limited formal employment opportunities, and constrained economic prospects. Youth unemployment is widespread despite high education levels. Youth comprise a substantial proportion of Vihiga's population given high fertility rates, intensifying demand for education, employment, and services. Out-migration is the primary livelihood strategy for most educated youth.
 
 ## Employment Challenges

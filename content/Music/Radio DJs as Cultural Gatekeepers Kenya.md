@@ -1,5 +1,3 @@
-# Radio DJs as Cultural Gatekeepers Kenya
-
 Radio DJs emerged as powerful cultural arbiters in Kenya's 1990s and 2000s liberalized broadcasting environment, wielding unprecedented influence over musical tastes, artist careers, and popular culture generally. Unlike the anonymous announcers of [[Music/Kenya Broadcasting Corporation Music|KBC's]] monopoly era, [[Music/FM Radio Revolution Kenya 1990s|private FM]] DJs developed celebrity personalities that made them cultural authorities whose playlist selections could make or break musical careers.
 
 The transformation began with Capital FM and Kiss 100's introduction of personality-driven radio in the mid-1990s. Rather than merely playing music, DJs developed distinctive voices, catch phrases, and on-air personas that attracted loyal followings. Audiences tuned in not just for music but for specific DJ's commentary, humor, and cultural perspective.

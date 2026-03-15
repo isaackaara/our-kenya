@@ -1,5 +1,3 @@
-# Swahili Slavery
-
 The East African slave trade was an ancient institution, with enslaved people being traded and exported from the East African coast for centuries. However, the scale and intensity of the slave trade increased dramatically during the 18th-19th centuries (particularly the 19th century) when demand from Arab states, the Persian Gulf, and Indian Ocean islands reached unprecedented levels. The [[Swahili]] coast served as a crucial transshipment point for enslaved Africans exported across [[The Indian Ocean World|the Indian Ocean]].
 
 ## Ancient and Medieval Slavery

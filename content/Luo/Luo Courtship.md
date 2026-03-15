@@ -1,5 +1,3 @@
-# Luo Courtship
-
 Traditional Luo courtship was a carefully choreographed social process that blended family oversight, peer interaction, and ritualized encounters. The transition from courtship to marriage involved stages of increasing formality, from youth gatherings to formal bridewealth negotiations.
 
 ## The Duol: The Bachelor's Hut

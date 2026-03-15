@@ -1,5 +1,3 @@
-# Telecoms History Kenya
-
 Kenya's [[telecommunications sector Kenya|telecommunications sector]] has transformed from a [[state monopoly Kenya|state monopoly]] into a [[competitive market Kenya|competitive multi-operator market]]. The industry's evolution reflects broader [[economic liberalisation Kenya|economic liberalisation]] and [[technological change Kenya|technological change]]: from landline dominance to mobile revolution, from government control to private competition, and from voice-centric to data-centric services.
 
 ## Colonial Era and Monopoly (1900-1991)

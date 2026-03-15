@@ -1,5 +1,3 @@
-# Kenyatta Rise to Power
-
 Jomo Kenyatta's path to the presidency was anything but straightforward. Born Kamau wa Ngengi in Kikuyuland around 1894, he would undergo multiple transformations before emerging as Kenya's first elected president in 1963. His rise to power was shaped by his experience as a colonial subject, his time abroad, and crucially, his detention by the British authorities that paradoxically made him a nationalist hero.
 
 Kenyatta's early life was spent in the Kikuyu heartland. He received mission education, worked as a water clerk, and eventually made his way to Nairobi where he worked in various administrative roles. In the 1920s, he became involved in the Kikuyu Central Association, a community organization that advocated for Kikuyu interests. This experience exposed him to political organization and representation, skills that would define his later career.

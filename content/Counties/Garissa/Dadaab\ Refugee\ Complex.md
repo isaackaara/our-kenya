@@ -1,5 +1,3 @@
-# Dadaab Refugee Complex
-
 The Dadaab refugee camps in Garissa County represent the world's largest refugee complex, hosting at their peak over 500,000 Somali refugees fleeing civil conflict in Somalia. Established in 1991-1992, the camps have become a permanent humanitarian presence, raising complex questions about refugee rights, humanitarian burden-sharing, and the politics of displacement.
 
 The camps consist of three sites: Ifo, Hagadera, and Kambioos, spread across approximately 100 square kilometers. The camps were initially intended to be temporary, but decades later, they remain. Many refugees have lived their entire lives in the camps, with children born and raised in the camps.

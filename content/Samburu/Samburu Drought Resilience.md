@@ -1,5 +1,3 @@
-# Samburu Drought Resilience
-
 [[Samburu]] [[Samburu Pastoralism|pastoral communities]] employ traditional and contemporary strategies to cope with recurring drought. Herd diversification, pastoral networks, and water point development provide traditional resilience. Contemporary drought response includes government aid, NGO support, and livelihood diversification. [[Samburu Climate Change|Climate change]] threatens pastoral system viability by intensifying drought frequency and severity.
 
 ## Traditional Coping Mechanisms

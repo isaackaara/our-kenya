@@ -1,5 +1,3 @@
-# Ethnic Arithmetic in Politics
-
 Ethnic arithmetic, the calculation that presidential candidates make regarding their running mates and coalition partners to "balance" the ticket, is a defining feature of [[Cross-Ethnic Kenya|Kenyan electoral politics]]. The practice demonstrates how ethnic identity remains central to political strategy despite national institutional frameworks theoretically transcending ethnicity. Presidential candidates seek running mates and coalition partners from different ethnic groups, attempting to assemble coalitions perceived as capable of winning election by assembling support from multiple [[2002 Rainbow Coalition|ethnic voting blocs]].
 
 The 2002 election exemplified ethnic arithmetic in its NARC coalition. Kibaki, a Kikuyu candidate, selected Kalonzo Musyoka, a Kamba politician, as running mate. This pairing attempted to balance Kikuyu and Kamba interests. Raila Odinga, a Luo politician, supported Kibaki, supposedly ensuring Luo support. The coalition attempted to assemble the multi-ethnic coalition through selection of leaders from different groups.

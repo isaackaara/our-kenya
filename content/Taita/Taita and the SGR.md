@@ -1,5 +1,3 @@
-# Taita and the SGR
-
 The Standard Gauge Railway (SGR) was constructed between Mombasa and Nairobi between 2014 and 2017, passing through Taita-Taveta County. The railway follows a route similar to the original Uganda Railway and has renewed the region's importance as a transport corridor.
 
 ## Route and Stations

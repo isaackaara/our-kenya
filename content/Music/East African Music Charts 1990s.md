@@ -1,5 +1,3 @@
-# East African Music Charts 1990s
-
 Music charts in Kenya and East Africa during the 1990s operated through informal, often controversial systems that determined which songs received airplay and commercial success before the internet enabled data-driven rankings. These charts, published in newspapers and broadcast on radio, wielded enormous power over artists' careers while remaining vulnerable to manipulation and corruption.
 
 Unlike Western music industries with rigorous sales tracking and scientific audience measurement, Kenya's 1990s charts relied on methods that combined legitimate popularity indicators with subjective editorial decisions, record company influence, and outright payola. This created system where chart positions reflected complex interplay of actual popularity, promotional budgets, and personal relationships rather than pure market performance.

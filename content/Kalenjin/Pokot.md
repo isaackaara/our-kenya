@@ -1,5 +1,3 @@
-# Pokot
-
 The Pokot are the most pastoral and, in contemporary terms, the most economically marginalized of the Kalenjin sub-groups. Living in the arid and remote West Pokot County on Kenya's border with Uganda, they maintain pastoral livelihoods centred on cattle, face intense pressure from development, and are often caught in cycles of cattle raiding, disarmament campaigns, and insurgent conflict. The Pokot experience represents the limits of Kalenjin political and economic integration into the modern Kenyan state.
 
 ## Key Facts

@@ -1,5 +1,3 @@
-# Nyamira Women
-
 Women in Nyamira County play vital roles in agricultural production and household management while navigating persistent challenges in resource access and decision-making power. Women's contributions support household food security and generate significant household income.
 
 ## Agricultural Participation

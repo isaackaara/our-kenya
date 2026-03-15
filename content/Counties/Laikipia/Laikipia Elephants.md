@@ -1,5 +1,3 @@
-# Laikipia Elephants
-
 Laikipia County has one of Africa's densest elephant populations with thousands of individuals inhabiting ranches and conservancies. Elephants use extensive ranges creating both conservation opportunities and human-wildlife conflict. Elephant populations support wildlife tourism providing economic incentive for conservation. However, elephant damage to crops and infrastructure creates conflict with pastoralists and farmers. Population management balances conservation with conflict mitigation.
 
 ## Population Density

@@ -1,5 +1,3 @@
-# Dadaab Refugee Complex Closure Threats
-
 Kenya has repeatedly threatened to close [[Dadaab Refugee Complex|Dadaab refugee complex]] (2016, 2023) despite housing hundreds of thousands of refugees for over 30 years. These threats have created constant anxiety among refugee communities and raised legal and humanitarian concerns about forced return to conflict situations in [[Somalia|Somalia]].
 
 ## Origins of Closure Pressure

@@ -1,5 +1,3 @@
-# Isiolo Colonial History
-
 Colonial administration of Isiolo formed part of broader British policy toward Kenya's frontier territories. The Northern Frontier District (NFD), comprising arid and semi-arid regions including present-day Isiolo, received limited administrative investment compared to the agriculturally productive highlands.
 
 British colonial policy treated pastoral areas cautiously. Early colonial military expeditions established administrative outposts to suppress local resistance, collect taxes, and prevent cross-border movement. Isiolo gradually evolved into one such administrative centre, with a district commissioner's office and small garrison.

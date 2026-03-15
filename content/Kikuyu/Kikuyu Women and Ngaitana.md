@@ -1,5 +1,3 @@
-# Kikuyu Women and Ngaitana
-
 The 1929 female circumcision controversy represents one of the most contested moments in Kikuyu colonial history, when [[Kikuyu]] girls and women defied missionary demands and colonial authority by circumcising themselves in an act of cultural resistance.
 
 ## The Colonial Context

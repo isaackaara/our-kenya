@@ -1,5 +1,3 @@
-# Samburu and the NGO Sector
-
 Numerous international and Kenyan NGOs operate in [[Samburu County]] addressing pastoral development, drought response, girls' education, health services, and human rights. NGO presence has expanded dramatically since 1990s. NGO programs provide services, advocacy, and livelihood support. Coordination challenges and sustainability questions affect NGO effectiveness.
 
 ## NGO Types and Mandates

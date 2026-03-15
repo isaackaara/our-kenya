@@ -1,5 +1,3 @@
-# Mandera Education
-
 Education in Mandera County faces formidable challenges including extremely low enrollment rates, high dropout rates, limited school infrastructure, severe teacher shortages, and among the lowest educational attainment levels in Kenya. The county inherited colonial-era neglect of education and continues to struggle with providing quality education to a dispersed pastoral population in one of Kenya's most remote and resource-constrained regions.
 
 ## Current State of Educational Access

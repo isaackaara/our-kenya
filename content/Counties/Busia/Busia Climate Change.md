@@ -1,5 +1,3 @@
-# Busia Climate Change
-
 Climate change poses moderate risks to Busia County's agricultural production and livelihoods. Mean temperatures are gradually increasing, with potential impacts on crop suitability. Rainfall patterns are becoming increasingly variable, with implications for agricultural timing. Some seasons experience delayed onset or early cessation of rains. Extreme rainfall events can cause flooding and crop damage. Prolonged dry periods periodically disrupt production. Pest and disease patterns are shifting with temperature and rainfall changes. Lake Victoria water levels are affected by regional climate patterns. Fishing productivity may be affected by water temperature and ecosystem changes. Agricultural systems are adapting to changing conditions. Climate information services support farmer decision-making.
 
 ## Agricultural and Livelihood Impacts

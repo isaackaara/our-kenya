@@ -1,5 +1,3 @@
-# Busia NGOs
-
 Numerous non-governmental organizations (NGOs) operate in Busia County supporting development, health, education, and humanitarian initiatives. International NGOs provide funding and technical expertise for county programs. Local NGOs implement community-based development and service delivery. Health-focused NGOs support health facility operations and disease programs. Education NGOs support school infrastructure and teacher training. Agricultural development NGOs promote improved farming practices. Water and sanitation NGOs develop water systems. Community-based organizations (CBOs) represent specific communities and coordinate local initiatives. Religious organizations operate schools, health facilities, and social welfare. Research institutions study regional issues including HIV, agriculture, and livelihoods. University partnerships support research and training. Development coordination groups align NGO activities with government priorities.
 
 ## Focus Areas and Programming

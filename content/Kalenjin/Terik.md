@@ -1,5 +1,3 @@
-# Terik
-
 The Terik are one of the smallest Kalenjin sub-groups, with a population of approximately 120,000, inhabiting areas near Nandi Hills in [[../Counties/Nandi/Nandi County|Nandi County]] and adjacent regions of Kakamega County in western Kenya. Their smallness and geographic position at the edge of Kalenjin territory have made them one of the least documented sub-groups in Kalenjin studies.
 
 ## Location and Geographic Isolation

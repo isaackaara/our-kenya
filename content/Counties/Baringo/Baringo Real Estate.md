@@ -1,5 +1,3 @@
-# Baringo Real Estate
-
 Baringo County's real estate market encompasses property development in Kabarnet and surrounding towns, tourism-related commercial properties, and pastoral land sales, reflecting gradually increasing investment interest and property commodification in the county.
 
 Real estate development has been more limited than in counties with more direct Nairobi proximity or stronger tourism development.

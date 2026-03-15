@@ -1,5 +1,3 @@
-# Mijikenda and Mombasa
-
 The relationship between [[Mijikenda]] hinterland communities and [[Mombasa]], Kenya's major coastal city, is complex, involving economic dependence, cultural difference, political tension, and deep historical connections. This relationship has shaped both coastal development and Mijikenda society.
 
 ## Historical Connections

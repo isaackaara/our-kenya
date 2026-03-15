@@ -1,5 +1,3 @@
-# Embu County
-
 Embu County, located in east-central Kenya, covers approximately 2,554 square kilometers at the southeastern base of Mount Kenya. The county seat is Embu town, which serves as the administrative, commercial, and cultural hub of the region. The county's geography spans highland forests (up to 3,000 meters elevation) to warmer lowland valleys and irrigated plains.
 
 ## Geography and Climate

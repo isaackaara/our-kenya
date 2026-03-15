@@ -1,5 +1,3 @@
-# [[Giriama]] [[women]]'s [[status]]
-
 Giriama women occupy a complex position in [[society]] with significant economic roles, ritual responsibilities, and some areas of authority, though male dominance in formal decision-making limits their overall power. The example of Mekatilili wa Menza demonstrates that women could exercise leadership in certain circumstances.
 
 ## Economic Roles and Agricultural Work

@@ -1,5 +1,3 @@
-# The Berlin Conference and East Africa
-
 The [[Berlin Conference East Africa]] of 1884-1885 formalized European colonial partition of Africa, establishing the international borders that define East Africa today. These borders were drawn by European powers with minimal knowledge of African geography, populations, or natural divisions, creating lasting tensions.
 
 ## The Conference Context

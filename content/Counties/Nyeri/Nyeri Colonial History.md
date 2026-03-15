@@ -1,5 +1,3 @@
-# Nyeri Colonial History
-
 British colonial administration established Nyeri District as an important administrative center in the early twentieth century. Fort Hall (in neighboring Murang'a) and Nyeri administrative posts formed the structure of colonial control in the central highlands. Land appropriation by European settlers affected Nyeri areas less than other highlands regions but still displaced Kikuyu communities. Colonial education through missions transformed religious and social life. Colonial taxation and forced labor affected rural populations.
 
 

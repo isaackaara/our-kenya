@@ -1,5 +1,3 @@
-# Kenyan Asian Media
-
 Media produced by and for the Kenyan Asian community includes newspapers, radio stations, television programming, and digital content. These media serve to communicate within communities, preserve culture, and give voice to Asian concerns.
 
 ## Historical Asian Newspapers

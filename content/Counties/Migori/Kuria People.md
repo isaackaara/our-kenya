@@ -1,5 +1,3 @@
-# Kuria People
-
 The Kuria are a Bantu-speaking people who straddle the Kenya-Tanzania border in southwestern Kenya and Tanzania. Approximately half the Kuria population resides in Kenya, predominantly in Kuria West and Kuria East sub-counties of Migori County. The Kuria maintain distinctive cultural traditions and have their own language, Ekegusii-related linguistic patterns.
 
 ## Language and Identity

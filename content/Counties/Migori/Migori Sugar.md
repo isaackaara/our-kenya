@@ -1,5 +1,3 @@
-# Migori Sugar
-
 Sugarcane cultivation represents an important commercial agricultural enterprise in Migori County, with farming families growing cane for sale to the Sony Sugar Company. Sugar production provides significant cash income while supporting sugar factory employment.
 
 ## Sugarcane Production Area

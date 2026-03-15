@@ -1,5 +1,3 @@
-# Boda Boda Economy
-
 The boda boda (motorcycle taxi) economy employs hundreds of thousands of young men across all ethnic groups in all parts of Kenya. The boda boda sector operates as an explicitly [[Cross-Ethnic Kenya|cross-ethnic economic space]], with riders and customers transcending ethnic boundaries through routine daily interaction. The sector represents one of [[Economic Interdependence Kenya|Kenya's largest informal employment sectors]] and demonstrates how economic necessity and opportunity create [[Economic Interdependence Kenya|cross-ethnic cooperation]].
 
 The boda boda sector emerged in the 1990s and expanded dramatically in the 2000s. Motorcycle taxis provide affordable transportation in urban and rural areas, filling gaps in formal transport systems. The sector's rapid expansion created massive employment for young men lacking formal sector opportunities. The relative ease of entry into the business made it attractive to people from all ethnic backgrounds.

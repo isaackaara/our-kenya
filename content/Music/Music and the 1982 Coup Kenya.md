@@ -1,5 +1,3 @@
-# Music and the 1982 Coup Kenya
-
 The failed air force coup of August 1, 1982 fundamentally altered Kenya's musical landscape and established patterns of state control that would persist for two decades. Musicians faced immediate pressure to demonstrate loyalty to [[Presidencies/Daniel arap Moi Presidency|President Daniel arap Moi]], transforming Kenyan popular music from a space of creative expression into a tool of regime legitimation.
 
 The coup attempt began early on Sunday morning when junior air force officers seized [[Music/Voice of Kenya and Music Policy|Voice of Kenya]] radio facilities and declared the government overthrown. Within hours, army units loyal to Moi crushed the uprising, but the trauma reverberated through Kenya's cultural institutions. The government disbanded the entire Kenya Air Force, launched mass arrests of suspected sympathizers, and instituted sweeping security measures that touched every aspect of public life, including music.

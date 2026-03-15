@@ -1,5 +1,3 @@
-# Kisumu's Healthcare Sector: Services and Challenges
-
 Kisumu's healthcare system includes public and private facilities, with Jaramogi Oginga Odinga Teaching and Referral Hospital serving as the largest public facility. The healthcare sector faces significant resource and capacity challenges.
 
 ## Jaramogi Oginga Odinga Teaching and Referral Hospital

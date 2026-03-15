@@ -1,5 +1,3 @@
-# Indian Ocean Trading History
-
 South Asian (particularly Gujarati) merchants have been part of the East African Indian Ocean trade network for at least 1,500 years, long before British colonialism. They were not imposed on East Africa by colonial authorities; they were already embedded in the region's economic and social fabric.
 
 ## Gujarati Ships on the East African Coast

@@ -1,5 +1,3 @@
-# Samburu Colonial History
-
 Samburu became part of the British sphere of influence during the late nineteenth century partition of East Africa. Colonial administration of the region presented unique challenges given vast territory, pastoral populations, and remote location.
 
 Samburu District, as colonial authorities designated it, received limited colonial infrastructure investment compared to agriculturally productive highland regions. Colonial policy treated pastoral areas cautiously, with security concerns prioritised over civilian development.

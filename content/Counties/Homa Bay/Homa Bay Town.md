@@ -1,5 +1,3 @@
-# Homa Bay Town
-
 Homa Bay town is the administrative capital and principal commercial center of Homa Bay County. Located on the shore of Lake Victoria, the town serves as the hub for government activity, commerce, and service provision in the county.
 
 ## Location and Setting

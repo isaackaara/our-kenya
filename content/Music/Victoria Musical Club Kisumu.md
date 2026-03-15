@@ -1,5 +1,3 @@
-# Victoria Musical Club Kisumu
-
 Victoria Musical Club in Kisumu served as one of Western Kenya's most important venues for live music from the 1970s through the 1990s, playing crucial role in [[Music/Kenyan Benga Music|benga music's]] development and providing platform where Luo musicians honed skills and built audiences. The club's significance extended beyond mere entertainment venue to cultural institution that preserved and promoted Luo musical traditions while facilitating their evolution into modern commercial forms.
 
 Located in Kisumu, Kenya's third-largest city and principal urban center for Luo people, Victoria Musical Club occupied strategic position in Western Kenya's musical ecosystem. The club drew audiences from across Nyanza region, creating concentrated market for Luo music that supported professional musical careers unavailable in smaller, scattered communities.

@@ -1,5 +1,3 @@
-# Wajir Notable People
-
 Wajir County has produced several notable Kenyans who have achieved prominence in politics, business, humanitarian work, and other fields. These individuals have contributed to national development while often maintaining connections to their Wajir origins. Their achievements demonstrate possibilities for advancement despite Wajir's challenging circumstances and remote location.
 
 ## Political Figures

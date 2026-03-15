@@ -1,5 +1,3 @@
-# Immigration and Integration
-
 [[Cross-Ethnic Kenya|Kenya]] hosts immigrant populations from East Africa, Africa broadly, and globally. Immigrants from Uganda, Tanzania, Somalia, and other countries settle in Kenya and integrate into communities. Additionally, Kenyans living abroad in [[Diaspora Networks Kenya|diaspora communities]] maintain transnational connections. Immigration and emigration create transnational dimensions to Kenyan identity and complicate the relationship between national and ethnic identity.
 
 East African migrants, particularly from Uganda and Tanzania, settle in Kenya seeking economic opportunities. These migrants work in various sectors and settle in urban and rural areas. The integration of East African migrants into Kenyan society involves navigation of both national and ethnic identity. Migrant communities sometimes maintain cultural and social organizations based on country of origin while also integrating into Kenyan communities.

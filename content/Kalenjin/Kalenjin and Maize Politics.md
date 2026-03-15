@@ -1,5 +1,3 @@
-# Kalenjin and Maize Politics
-
 The Rift Valley, home to most Kalenjin populations, functions as Kenya's primary grain production zone. Maize farming dominates the agricultural economy across Baringo, Uasin Gishu, Trans-Nzoia, Nandi, and Kericho counties. However, Kalenjin farmers face systematic political pressure through government price controls, import policy, and the monopolistic buying practices of the National Cereals and Produce Board (NCPB).
 
 ## The National Cereals and Produce Board (NCPB)

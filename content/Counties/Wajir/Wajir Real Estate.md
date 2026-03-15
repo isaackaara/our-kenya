@@ -1,5 +1,3 @@
-# Wajir Real Estate
-
 Real estate development in Wajir County remains limited due to the region's remoteness, low population density, limited economic development, and restricted purchasing power. Wajir Town hosts the majority of developed real estate, with commercial and residential properties concentrated in the town center. Property values remain relatively low due to limited demand and security concerns. Real estate investment opportunities exist but require understanding of local market conditions and long-term development prospects.
 
 ## Wajir Town Properties

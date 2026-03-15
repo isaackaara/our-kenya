@@ -1,5 +1,3 @@
-# Luhya Entrepreneurs
-
 The Luhya people have a tradition of entrepreneurship and business activity, though perhaps less visible and celebrated than the commercial networks of [[../Kikuyu/Kikuyu|Kikuyu]] or the historically mercantile Swahili. Luhya-origin business people have established enterprises across agriculture, trade, manufacturing, services, and finance. Notable individuals and family firms demonstrate the breadth of Luhya business engagement.
 
 ## Agricultural Entrepreneurs

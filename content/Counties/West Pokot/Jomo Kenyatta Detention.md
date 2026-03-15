@@ -1,5 +1,3 @@
-# Jomo Kenyatta Detention
-
 Jomo Kenyatta, the primary nationalist leader of Kenya and eventual first president of the independent nation, was detained in [[Kapenguria Town]] from 1952 to 1961, spanning most of the critical decade leading up to Kenyan independence. His imprisonment during the [[West Pokot Colonial History|colonial period]] remains one of the most significant and controversial episodes in Kenya's path to independence, reflecting the intensity of British colonial efforts to suppress nationalist movements and the central role Kenyatta played in Kenya's political transformation. The detention fundamentally shaped the trajectory of the independence movement and Kenyatta's subsequent political leadership.
 
 ## Background and Arrest

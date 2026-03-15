@@ -1,5 +1,3 @@
-# Young Kamba Today
-
 The identity and experience of young Kamba in 2026 is shaped by complex interactions between traditional cultural heritage and modern globalized forces. Young Kamba navigate between rural and urban contexts, between ethnic identity and cosmopolitan identity, and between cultural preservation and contemporary opportunity.
 
 ## Urban versus Rural Divide

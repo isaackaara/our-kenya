@@ -1,5 +1,3 @@
-# YouTube and Kenyan Music
-
 YouTube's transformation into Kenya's primary platform for music discovery, consumption, and artist revenue represents one of the most significant shifts in the country's music ecosystem over the past two decades. What began as a video-sharing website became the de facto distribution platform, marketing channel, and revenue source for Kenyan musicians, fundamentally altering power dynamics between artists and traditional gatekeepers like radio stations and record labels.
 
 The platform's importance to Kenyan music predates YouTube Music's formal 2023 launch in Kenya. For over a decade before official streaming services arrived, Kenyan artists uploaded music videos to YouTube, accumulating millions of views and building audiences entirely outside traditional media structures. [[Music/Ethic Entertainment|Ethic Entertainment]]'s "Lamba Lolo," which launched [[Music/Gengetone Movement|Gengetone]] in May 2018, was a YouTube phenomenon first, accumulating over 4 million views before radio stations even considered playing it. This YouTube-first model bypass traditional gatekeepers entirely.

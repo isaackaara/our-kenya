@@ -1,5 +1,3 @@
-# Kamba Birth Rituals
-
 The Kamba people mark the arrival of a newborn with ceremonies that integrate the child into the family, the living community, and ultimately into continuity with ancestral lineages. Birth rituals among the Kamba are complex, involving both household-level ceremonies and broader community recognition, with particular emphasis placed on naming and the specific status of first children and twins.
 
 ## The Birth Ceremony

@@ -1,5 +1,3 @@
-# Pio Gama Pinto
-
 [[Pio Gama Pinto]] (1927-1965) was a [[Goan]] Kenyan [[communist]], journalist, and anti-colonial activist. He was one of the most radical voices in Kenya's independence struggle and remains an iconic figure in Kenyan left-wing politics. He was assassinated in 1965, barely two years after independence, likely on government orders.
 
 ## Early Life and Background

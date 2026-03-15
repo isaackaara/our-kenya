@@ -1,5 +1,3 @@
-# Legio Maria Deep Dive
-
 Legio Maria (Legion of Mary), also known as Legio Maria of African Church Mission, is the largest independent African church with Roman Catholic origins. Founded in 1963 by Luo Catholics, it has grown into a movement spanning East Africa with millions of adherents. The church represents a unique synthesis of Catholic liturgical forms and African spiritual practices, particularly Luo cosmological concepts of divine intermediaries and spirit possession.
 
 ## Origins: Simeon Ondeto and Gaudencia Aoko

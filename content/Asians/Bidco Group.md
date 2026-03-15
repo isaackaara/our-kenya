@@ -1,5 +1,3 @@
-# Bidco Group
-
 Bidco Africa (oils, fats, hygiene, personal care, and food products) is one of Kenya's largest manufacturers. Founded by the Vimal Shah family (Kenyan Asian), Bidco has grown into a multi-billion dollar conglomerate with operations across Africa. It exemplifies the success possible for Asians who adapted to post-colonial Kenya.
 
 ## Founding and Early Years

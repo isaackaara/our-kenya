@@ -1,5 +1,3 @@
-# Garissa Timeline
-
 This timeline documents significant events, transitions, and developments in [[Garissa County|Garissa County's]] documented history from the pre-colonial period through the contemporary era.
 
 ## Pre-Colonial (Before 1880)

@@ -1,5 +1,3 @@
-# 1992 Election Pressure for Reform
-
 The transition to multiparty elections in 1992 was not voluntarily chosen by the [[Daniel arap Moi]] government; it was forced through sustained pressure from multiple sources, including Western donors, the Christian church, civil society organizations, and political activists who had mobilized for constitutional reform since the late 1980s. The pressure built gradually through the late 1980s, intensifying in the early 1990s until the government could no longer resist without risking international isolation and economic consequences.
 
 The [[Saba Saba]] riots of July 1990 marked a watershed moment in the pro-democracy movement. The riots, initially triggered by political disputes within the ruling KANU party, evolved into broader demands for multiparty democracy and constitutional reform. While the government suppressed the riots through security force repression, the event demonstrated the depth of popular discontent with single-party rule and the vulnerability of the regime to internal pressure.

@@ -1,5 +1,3 @@
-# Eliud Kipchoge: The Greatest Marathoner of All Time
-
 Eliud Kipchoge is widely recognized as the greatest marathon runner of all time. He has won two Olympic gold medals (2016 Rio, 2020 Tokyo), set the marathon world record (2:01:39 in Berlin 2022), and became the first human to break two hours in marathoning with a time of 1:59:40 in a controlled environment (Vienna 2019, INEOS 159 Challenge). Kipchoge's sustained excellence across 15 years of elite competition, combined with his remarkable mental toughness and consistency, has revolutionized understanding of human endurance capability.
 
 Born in 1984 in Kenya's Rift Valley, Kipchoge emerged as a promising 5000-meter runner in the early 2000s. He competed at the 2004 Athens Olympics in the 5000 meters and ran sub-13 minute times, establishing himself as a quality distance runner. However, unlike many Kenyan distance runners who specialize in long-distance track or cross country, Kipchoge transitioned toward marathon racing in his late 20s.

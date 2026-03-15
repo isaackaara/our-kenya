@@ -1,5 +1,3 @@
-# Kibaki Presidency Timeline
-
 **2002**
 - November: Mwai Kibaki, leading the National Alliance Rainbow Coalition (NARC), campaigns for presidency with anti-corruption and reform platform
 - December 27: General elections are held with international observation

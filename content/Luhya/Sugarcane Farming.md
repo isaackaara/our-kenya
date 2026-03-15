@@ -1,5 +1,3 @@
-# Sugarcane Farming
-
 Sugarcane farming has been a central economic mainstay for communities in western Kenya, particularly in [[../Counties/Kakamega/Kakamega County|Kakamega County]] where the Luhya people have historically relied on sugarcane cultivation and marketing as a significant source of cash income. The sugarcane belt of western Kenya represents one of Kenya's major agricultural zones, though the industry has faced substantial challenges in recent decades, particularly following the collapse of the Mumias Sugar Company.
 
 ## Geographic Distribution and the Sugar Belt

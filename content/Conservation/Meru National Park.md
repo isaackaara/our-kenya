@@ -1,5 +1,3 @@
-# Meru National Park
-
 Meru National Park, located in eastern Kenya near the town of Meru, is a 870-square-kilometer protected area with a remarkable [[Joy Adamson Born Free|conservation history]]. The park is famous as the location where [[Joy Adamson Born Free|Joy Adamson raised Elsa]], the lioness featured in the book and film "Born Free," which profoundly influenced global [[Kenya as Global Conservation Model|conservation attitudes]]. The park combines stunning scenery with wildlife diversity and cultural significance.
 
 ## Geography and Ecology

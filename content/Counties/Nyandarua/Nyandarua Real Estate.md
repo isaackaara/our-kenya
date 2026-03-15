@@ -1,5 +1,3 @@
-# Nyandarua Real Estate
-
 The real estate market in Nyandarua County, particularly in Ol Kalou, has grown with urbanization and economic development. Land and property values have increased substantially. Residential, commercial, and agricultural land markets exist with varying formality. Population growth and economic activity drive property demand in urban areas. Land values reflect location, proximity to services, and agricultural potential.
 
 ## Urban Residential Property

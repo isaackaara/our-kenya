@@ -1,5 +1,3 @@
-# Coast Development Gap
-
 Despite being Kenya's primary tourism hub and possessing substantial economic resources through international [[Swahili Coast Tourism|tourism]], the Kenyan coast ranks among the country's poorest regions. This paradox reflects structural inequality that affects [[Swahili]] communities despite their historical prominence and contemporary economic importance:
 
 - **Infrastructure gaps:** Ports, roads, and utilities lag behind other regions

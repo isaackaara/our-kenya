@@ -1,5 +1,3 @@
-# Tsavo Man-Eaters
-
 The Tsavo Man-Eaters refer to two lions that killed numerous railway workers during the construction of the Uganda Railway in the Tsavo region of present-day Taita-Taveta County during 1898. These lions became historically significant as subjects of scientific study, popular literature, and global cultural attention. The incident represented an exceptional case of human predation by lions and contributed to popular and scientific understanding of lion behaviour and the historical narrative of railway construction in East Africa.
 
 The incident occurred during the construction phase of the Uganda Railway, which passed through the Tsavo region. The railway project, undertaken by the British colonial administration, required mobilization of substantial labour forces. Indian coolies (indentured labourers) and African workers were employed in railway construction. The workers lived in temporary camps along the railway route while engaged in track laying and related construction activities.

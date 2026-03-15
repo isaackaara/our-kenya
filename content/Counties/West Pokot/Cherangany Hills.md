@@ -1,5 +1,3 @@
-# Cherangany Hills
-
 The Cherangany Hills represent one of Kenya's most important water towers, a mountainous massif that straddles the border between [[West Pokot County]] and Trans-Nzoia County in the northwestern region of Kenya. Rising to elevations exceeding 2,500 meters, the range forms a critical ecological and hydrological feature that supplies water to millions of people across multiple counties and Uganda. The mountains are characterized by dense montane forests, diverse wildlife, complex topography, and a range of microclimates that support both pastoralist and agricultural communities in an otherwise semi-arid landscape.
 
 ## Geography and Topography

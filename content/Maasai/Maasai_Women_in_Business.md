@@ -1,5 +1,3 @@
-# Maasai Women in Business
-
 ## Entrepreneurship Context
 
 Maasai women have increasingly engaged in business and entrepreneurial activities, reflecting both economic necessity and growing opportunities. As pastoral income has become less reliable, women have diversified into commercial activities. Traditionally, women's economic roles were limited to pastoral support (milk management, water collection), but contemporary Maasai women are engaging in diverse business enterprises.

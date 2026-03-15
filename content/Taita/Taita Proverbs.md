@@ -1,5 +1,3 @@
-# Taita Proverbs
-
 Traditional Taita proverbs encode cultural wisdom about proper behavior, family relationships, and responses to life's challenges. These concise expressions are used in teaching, dispute resolution, and communication of values.
 
 ## Examples of Taita Proverbs

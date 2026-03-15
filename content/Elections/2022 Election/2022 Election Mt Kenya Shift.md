@@ -1,5 +1,3 @@
-# 2022 Election Mt. Kenya Shift
-
 The most critical electoral shift in 2022 was the movement of Kikuyu-majority Mt. Kenya region voters from their 2017 support for incumbent President Uhuru Kenyatta to 2022 support for challenger William Ruto. This regional shift was decisive in enabling Ruto's victory despite his lack of traditional geographic dominance in high-population regions. Approximately 40% of Mt. Kenya votes shifted to Ruto from the approximately 80%+ support that Uhuru had achieved in 2017, enabling Ruto's narrow 50.49% national victory.
 
 The Mt. Kenya shift reflected multiple contributing factors. First, Uhuru's explicit endorsement of Raila Odinga against his own Deputy President William Ruto created division within the Kikuyu community. Some Kikuyu voters, seeing Uhuru's choice as a betrayal of Ruto and a violation of political partnership, responded by supporting Ruto in defiance of Uhuru's endorsement. The perception that Uhuru had unfairly blocked Ruto's access to the presidency resonated with voters viewing the presidency as legitimately belonging to Ruto through political succession logic.

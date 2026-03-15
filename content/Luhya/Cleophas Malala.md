@@ -1,5 +1,3 @@
-# Cleophas Malala
-
 Cleophas Malala is a Kenyan politician who has held significant positions in [[../Counties/Kakamega/Kakamega County|Kakamega County]] and national politics. He served as Senator for Kakamega County (2017-2022) representing the Amani National Congress (ANC) party, and later served as Secretary General of the United Democratic Alliance (UDA) party. Malala's political career represents a different trajectory within Luhya politics compared to traditional establishment figures, positioning him as a counter-narrative voice in a region historically dominated by the opposition coalition.
 
 ## Early Political Representation

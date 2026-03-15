@@ -1,5 +1,3 @@
-# Indian Ocean Trade Before the Railway
-
 South Asian traders, particularly from Gujarat and the Malabar coast, had maintained a significant presence on the East African coast for centuries before the British decided to build the Uganda Railway. This trade predated European colonialism by many centuries and was part of the broader Indian Ocean trading network that connected Arabia, India, East Africa, and Southeast Asia through established monsoon routes.
 
 ## Pre-Railway Asian Presence

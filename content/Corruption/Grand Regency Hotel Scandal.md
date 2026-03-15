@@ -1,5 +1,3 @@
-# The Grand Regency Hotel Scandal: Asset Disposition Without Process
-
 ## The Hotel and Its History
 
 The Grand Regency Hotel (also known as the Regency Hotel) was one of Nairobi's premier hotels, located in the city center. It had operated as a significant tourist facility and business venue since the 1970s. By the 2000s, it was an established asset on Kenya's hospitality landscape and, implicitly, a national resource.

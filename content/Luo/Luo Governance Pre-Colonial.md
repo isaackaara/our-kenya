@@ -1,5 +1,3 @@
-# Luo Governance Pre-Colonial
-
 The Luo had no centralised kingdom. Political authority was distributed among clan leaders and councils of elders. The *ker* (leopard-skin chief) was primarily a ritual and spiritual leader, not a political ruler. Decision-making was consensual, with elder councils deliberating and seeking consensus rather than imposing orders.
 
 ## Absence of Centralised Authority

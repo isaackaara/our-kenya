@@ -1,5 +1,3 @@
-# The Somali Poetry Tradition in Kenya
-
 Somali has one of Africa's richest oral poetry traditions, with sophisticated genres, political significance, and cultural centrality. The tradition is maintained in Kenya's Somali communities through oral transmission, written collections, and contemporary adaptation, though pressures from written education and mass media threaten traditional knowledge transmission.
 
 ## The Gabay: Classical Long Poem

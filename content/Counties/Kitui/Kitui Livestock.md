@@ -1,5 +1,3 @@
-# Kitui Livestock
-
 Livestock rearing remains essential to Kitui County livelihoods, providing meat, milk, hides, and wealth accumulation. Cattle, goats, sheep, and camels constitute principal livestock types, with animal husbandry adapted to semi-arid environmental constraints. Pastoral and agro-pastoral livelihood systems remain dominant in many Kitui areas.
 
 Pastoral and agro-pastoral livelihood systems integrate livestock with some agricultural production. Pastoral households rely primarily on livestock for income and food, with agriculture providing supplements. Agro-pastoral households balance livestock and crop production, maintaining herds while cultivating crops.

@@ -1,5 +1,3 @@
-# Music Videos and Visual Culture Kenya
-
 The evolution of Kenyan music videos from VHS-era low-budget productions to viral [[Music/YouTube and Kenyan Music|YouTube]] content maps technological transformation and aesthetic shifts that fundamentally changed how Kenyan music was consumed, marketed, and valued. Music videos became not supplementary promotional tools but primary artistic products, with visual aesthetics, narrative content, and production quality often mattering as much as or more than the music itself in determining commercial success.
 
 The VHS era, spanning the 1990s and early 2000s, established Kenyan music video conventions: limited budgets, simple concepts, heavy reliance on performance footage interspersed with location shots. Production quality varied wildly, from professional work approaching international standards to amateur productions shot on consumer cameras with no lighting or editing sophistication. But even crude videos served essential function: they made music visual, providing content for television music shows that were primary discovery mechanisms before internet distribution.

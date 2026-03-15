@@ -1,5 +1,3 @@
-# Kakamega Timeline
-
 This timeline documents key dates and events in Kakamega County history from the pre-colonial period through 2026, marking transitions, developments, and significant occurrences shaping the county's trajectory.
 
 ## Pre-Colonial Era (Before 1900)

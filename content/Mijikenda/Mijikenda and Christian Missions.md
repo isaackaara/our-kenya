@@ -1,5 +1,3 @@
-# Mijikenda and Christian Missions
-
 [[Christianity|Christian missionary activity]] had a profound but uneven impact on [[Mijikenda Overview|Mijikenda society]]. The establishment of the first Christian mission on the Kenya mainland at Rabai in 1844, combined with later mission efforts, introduced Christianity to coastal populations and created nodes of cultural change, refuge, and social disruption that continue to shape Mijikenda religious and cultural landscape today.
 
 ## The Rabai Mission (1844)

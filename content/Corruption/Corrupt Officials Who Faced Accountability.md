@@ -1,5 +1,3 @@
-# Corrupt Officials Who Faced Accountability: The Rare Cases
-
 ## The Rareness of Accountability
 
 Prosecution and conviction of [[Corruption in Kenya Overview|corrupt]] officials in Kenya is rare. Out of documented cases of major [[Goldenberg Scandal|corruption]] ([[Anglo Leasing Scandal|Anglo Leasing]], NYS, NHIF, etc.), very few have resulted in conviction and imprisonment of those responsible.

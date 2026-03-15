@@ -1,5 +1,3 @@
-# Bungoma Infrastructure
-
 Bungoma County's infrastructure includes road networks, railway connections, utilities, and communication systems supporting economic activity and service delivery. Infrastructure development has been prioritized through national and county investments, though remains strained by population density and economic constraints. The road network and railway connectivity position Bungoma as a regional transit hub.
 
 ## Road Network

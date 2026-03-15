@@ -1,5 +1,3 @@
-# Lake Victoria: The World's Second-Largest Freshwater Lake
-
 [[../../Conservation/Lake Victoria Kenya|Lake Victoria]], on whose shores Kisumu sits, is the world's second-largest freshwater lake by surface area (approximately 68,800 square kilometers). The lake is shared by Kenya, Uganda, and Tanzania and is central to Kisumu's geography, economy, and culture.
 
 ## Size and Geography

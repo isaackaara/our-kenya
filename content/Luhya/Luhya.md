@@ -1,5 +1,3 @@
-# Luhya
-
 The Luhya (also Luyia or Abaluhyia) are the second largest ethnic group in Kenya, comprising approximately 14 percent of the population (about 6.8 million people). However, unlike [[../Kikuyu/Kikuyu|Kikuyu]] or Luo, who maintain relatively unified ethnic identities, the Luhya are a confederation of 18 distinct sub-groups who share related Bantu languages and neighboring territories but maintain separate histories, ritual practices, and identities. This confederation paradox (a large ethnic group without a single "Luhya" consciousness) shapes their politics, culture, and historical trajectory. The sub-groups occupy western Kenya, primarily in Kakamega, Bungoma, Vihiga, and Trans-Nzoia counties, where they have developed distinct relationships to land, farming, and regional trade.
 
 ## Origins and Migrations

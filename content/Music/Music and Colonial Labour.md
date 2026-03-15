@@ -1,5 +1,3 @@
-# Music and Colonial Labour
-
 Work songs in colonial Kenya's railways, farms, and construction sites served multiple functions simultaneously: coordinating collective labor, expressing frustrations with exploitative conditions, maintaining cultural identity, and creating moments of dignity within degrading circumstances. These songs represent an often-overlooked dimension of Kenya's musical history and labor struggles.
 
 The construction of the Uganda Railway (1896-1901) and subsequent railway maintenance employed thousands of African workers under harsh conditions. Railway gangs developed work songs that synchronized hammering, lifting, and other physically demanding tasks. The rhythmic structure of these songs matched the rhythm of work itself, increasing efficiency while making labor more bearable.

@@ -1,5 +1,3 @@
-# Taita and Devolution
-
 The 2010 Kenyan constitution introduced devolved governance through county government, creating Taita-Taveta County in 2013. This shift has fundamentally altered how the Taita Hills community is governed and how local resources are managed.
 
 ## The 2013 Transition

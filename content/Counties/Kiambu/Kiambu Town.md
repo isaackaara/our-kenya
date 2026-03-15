@@ -1,5 +1,3 @@
-# Kiambu Town
-
 Kiambu town is the county headquarters and administrative center of [[../Kiambu/Kiambu County|Kiambu County]], serving as the seat of the county government since devolution in 2013. The town is the commercial and institutional hub of the county, hosting county government offices, courts, police headquarters, and other administrative institutions. Kiambu town's economic importance is based on government employment, wholesale trade, retail commerce, and agricultural marketing.
 
 The town hosts the county referral hospital, numerous health clinics, and private medical facilities serving county residents. Educational institutions include primary and secondary schools, teacher training colleges, and vocational training centers. Market infrastructure for agricultural products (coffee, tea, horticulture) connects farmers with buyers and traders. Banks, mobile money services, and microfinance institutions provide financial services to residents and traders.

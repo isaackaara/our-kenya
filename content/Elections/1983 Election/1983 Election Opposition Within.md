@@ -1,5 +1,3 @@
-# 1983 Election Opposition Within
-
 Opposition in 1983 was constrained to exist only within KANU, given the one-party system. The government's explicit control over primary contests left little room for meaningful internal opposition. Candidates who challenged government-favored candidates faced obstacles. The security atmosphere following the coup attempt intimidated dissent. Sitting MPs who attempted to resist government pressure sometimes found themselves defeated in primary contests. Opposition, to the extent it existed, was expressed through the muted resistance of politicians unable to defeat government-backed candidates.
 
 ## See Also

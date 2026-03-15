@@ -1,5 +1,3 @@
-# Nyala
-
 The Banyala are one of the larger Luhya sub-groups, with a population of 227,165 according to Kenya's census data. They occupy parts of western Kenya and form an integral part of the broader Luhya confederation while maintaining distinct cultural practices and identity.
 
 ## Location and Geography

@@ -1,5 +1,3 @@
-# White Highlands in Nakuru
-
 The Nakuru area was at the heart of Kenya's White Highlands, the most valuable settler agricultural zone reserved exclusively for European farmers during colonial rule. Beginning in the 1900s, British settlers established large farms in Nakuru and surrounding areas, growing coffee, pyrethrum, sisal, and dairy cattle.
 
 The White Highlands were justified by the colonial administration as "unused land" suitable for European settlement, despite [[../../Maasai/Maasai|Maasai]] and [[../../Kalenjin/Kalenjin|Kalenjin]] pastoralists having used the area for centuries. The colonial government expropriated the land, removed or restricted African populations, and offered long-term leases to British settlers. By the 1950s, Nakuru had become a prosperous settler farming community with European-style towns, schools, and institutions.

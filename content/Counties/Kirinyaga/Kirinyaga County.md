@@ -1,5 +1,3 @@
-# Kirinyaga County
-
 Kirinyaga County occupies the southern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] in central Kenya. This small, densely populated agricultural county has a population of approximately 620,000 people. The county is predominantly [[../../Kikuyu/Kikuyu|Kikuyu]] and is known worldwide for producing some of Kenya's most sought-after coffee. Kerugoya and Kutus serve as the twin county headquarters, while the Tana River, Kenya's longest river, has its headwaters in Kirinyaga.
 
 ## Geography and Climate

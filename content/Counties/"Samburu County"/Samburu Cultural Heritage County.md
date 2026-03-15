@@ -1,5 +1,3 @@
-# Samburu Cultural Heritage and Practices
-
 Samburu County's distinctive cultural heritage reflects the Samburu community's pastoral traditions, artistic expressions, and social organisation systems developed and maintained over centuries.
 
 Samburu language (Samburu or Maa) continues as the primary language, though Swahili and English use has increased with education and urbanisation. The language carries cultural knowledge and identity.

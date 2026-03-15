@@ -1,5 +1,3 @@
-# Taveta Town
-
 Taveta is a significant urban centre located in the southeastern portion of Taita-Taveta County, situated near the Kenya-Tanzania border approximately 15 kilometres south of [[Lake Chala]]. The town serves as the administrative headquarters of Taveta Sub-County and functions as a commercial and service hub for the surrounding region. Taveta's location on the Kenya-Tanzania border gives it strategic importance for cross-border trade and informal economic activities.
 
 The population of Taveta is estimated at approximately 20,000-30,000 residents, with substantial fluctuation related to informal economic activities, border trade dynamics, and seasonal migration. The town has experienced significant growth in recent decades, with urban expansion creating both opportunities and challenges related to service delivery and urban planning. The population is ethnically diverse, including substantial Taita, Maasai, and migrant populations from other regions.

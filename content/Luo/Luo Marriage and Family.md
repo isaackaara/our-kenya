@@ -1,5 +1,3 @@
-# Luo Marriage and Family
-
 Luo marriage and family systems reflect a complex interweaving of kinship obligations, economic transactions, spiritual concerns, and social responsibilities. These systems remain partially traditional (even among Christian and urban Luo) and are essential to understanding Luo social structure, wealth distribution, and identity.
 
 ## Ayie (Bridewealth)

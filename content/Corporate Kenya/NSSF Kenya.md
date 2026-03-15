@@ -1,5 +1,3 @@
-# NSSF Kenya
-
 The National Social Security Fund (NSSF) is Kenya's mandatory retirement savings scheme for private sector workers. Established in 1965, NSSF collects contributions from employees and employers and manages accumulated savings, investing in real estate, fixed income, and equities.
 
 ## Overview

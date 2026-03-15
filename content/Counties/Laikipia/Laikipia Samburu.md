@@ -1,5 +1,3 @@
-# Laikipia Samburu
-
 The Samburu community inhabits the northern parts of Laikipia County in semi-arid pastoral areas. Samburu pastoral traditions emphasize camel and livestock herding. The community has inhabited northern Laikipia for centuries maintaining pastoral livelihoods. Contemporary Samburu face similar land use pressures and pastoral challenges as other pastoral communities. Climate variability and land restrictions have threatened pastoral viability. Some Samburu communities have diversified livelihoods adapted to contemporary circumstances.
 
 ## Pastoral Culture and Traditions

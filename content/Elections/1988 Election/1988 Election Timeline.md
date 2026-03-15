@@ -1,5 +1,3 @@
-# 1988 Election Timeline
-
 **1988 Early:** Moi government announces the mlolongo (queue voting) system for the 1988 election. The decision generates controversy and criticism from churches, civil society, and international observers.
 
 **September 1988:** KANU primary elections begin using the mlolongo system. Public queuing behind candidates becomes the voting method. Rigging and queue manipulation become visible as the election process unfolds.

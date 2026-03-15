@@ -1,5 +1,3 @@
-# Kamba Warriors
-
 The Kamba warrior tradition (the anake, young men of warrior age) earned them a fearsome reputation across East Africa. Known for skilled raiding, courage in combat, and a disciplined martial culture, Kamba warriors conducted cattle raids against neighboring communities (especially [[../Maasai/Maasai|Maasai]]) that kept them well-armed and militarily experienced. This reputation made them invaluable to the British, who recruited Kamba soldiers heavily into the King's African Rifles and deployed them across multiple wars and theaters of conflict.
 
 ## Key Facts

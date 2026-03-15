@@ -1,5 +1,3 @@
-# Isiolo Pastoralism
-
 Pastoralism remains the dominant livelihood system across much of Isiolo County. Herders raise cattle, camels, and goats, managing these animals according to seasonal rainfall patterns and grazing availability in the semi-arid environment.
 
 Cattle represent the traditional form of wealth and social status. They provide milk for household consumption and sale, meat for special occasions and trade, and calves for herd growth. Camels, increasingly important in the driest areas, survive extended droughts better than cattle and produce milk even during dry seasons. Goats provide supplementary income and meat while requiring less water than larger animals.

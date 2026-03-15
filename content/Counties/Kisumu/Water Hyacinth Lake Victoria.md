@@ -1,5 +1,3 @@
-# Water Hyacinth: Invasive Species Crisis on Lake Victoria
-
 The water hyacinth, an invasive aquatic plant, has infested [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] from the 1990s onward, creating massive ecological and economic problems. The plant blocks harbors, clogs fishing nets, kills fish, and disrupts human activities on the lake.
 
 ## Biological Characteristics

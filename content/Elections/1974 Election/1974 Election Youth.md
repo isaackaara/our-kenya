@@ -1,5 +1,3 @@
-# 1974 Election Youth
-
 The 1974 election revealed generational tensions in Kenyan politics, with younger voters and younger candidates challenging some of the older generation of politicians who had held power since independence. Youth represented both a significant electoral force, as the population of Kenya was young, and a potential challenge to the political order, as younger Kenyans were better educated and more skeptical of some aspects of the post-independence settlement.
 
 Younger candidates, many of them university-educated or educated at secondary schools, brought different perspectives and skills to electoral politics. They were fluent in English, often sophisticated in their understanding of policy, and could articulate modernizing visions for Kenya. Some younger candidates posed explicit challenges to older MPs, arguing that new ideas and new energy were needed to take Kenya forward.

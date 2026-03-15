@@ -1,5 +1,3 @@
-# Samburu County Infrastructure
-
 Infrastructure development in Samburu County reflects its pastoral character and remote location. The A65 highway represents the primary road connection, linking Maralal to Isiolo and Nairobi. Road quality varies seasonally, with wet season rains sometimes constraining travel.
 
 Water infrastructure remains critical for pastoral and human populations. Government boreholes, community wells, and natural water sources provide access to water. The Ewaso Nyiro River offers permanent water, though distance and access restrictions affect utilisation.

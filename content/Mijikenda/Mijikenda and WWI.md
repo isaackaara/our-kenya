@@ -1,5 +1,3 @@
-# Mijikenda and World War One
-
 World War One profoundly affected the [[Mijikenda]] and other coastal populations, though the Kenya coast experienced less direct combat than German East Africa or the interior highlands. The [[Mijikenda]] experience of the Great War (1914-1918) involved conscription as porters, economic disruption, and the strains of imperial warfare on a marginal colonial region.
 
 ## The East Africa Campaign

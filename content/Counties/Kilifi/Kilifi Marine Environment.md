@@ -1,5 +1,3 @@
-# Kilifi Marine Environment
-
 Kilifi County's marine ecosystems represent some of East Africa's most biologically diverse and economically productive coastal habitats. The county's marine zone encompasses coral reefs, mangrove forests, seagrass beds, and open water environments that support fisheries, tourism, and broader ecological functions essential to regional and global climate stability.
 
 The [[Kilifi County|Kilifi coast]] stretches approximately 60 kilometers along the Indian Ocean, encompassing diverse marine habitats. Coral reefs fringing the coast create complex three-dimensional structures supporting hundreds of fish species, crustaceans, mollusks, and other organisms. The reefs at [[Malindi Town|Malindi]], [[Watamu|Watamu]], and other locations provide snorkeling and diving opportunities attracting international tourists. Reef quality and fish populations vary spatially, with protected marine reserves showing greater diversity and larger fish sizes than heavily fished areas.

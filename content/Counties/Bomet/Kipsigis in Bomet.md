@@ -1,5 +1,3 @@
-# Kipsigis in Bomet
-
 The Kipsigis are the dominant ethnic community in Bomet County, representing a major Kalenjin sub-group. Kipsigis identity, culture, and economic activities form the foundation of community life and county development.
 
 ## Kipsigis Heritage

@@ -1,5 +1,3 @@
-# Tharaka [[Tharaka Political History]] History
-
 The Tharaka territory came under [[Tharaka and the Church]] colonial [[Tharaka Devolution]] at the end of the 19th century. Colonial rule imposed new governance systems, taxation, and [[Tharaka Land Rights]] tenure arrangements that affected Tharaka communities.
 
 ## Early Colonial Contact

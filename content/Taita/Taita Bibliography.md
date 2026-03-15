@@ -1,5 +1,3 @@
-# Taita Bibliography
-
 Major sources and references for research on the Taita people and Taita-Taveta County.
 
 ## Academic Works

@@ -1,5 +1,3 @@
-# The Matatu Economy
-
 [[Kenya]]'s informal minibus transport network is not an [[ethnic institution]], but a [[cross-ethnic labour market]]. The [[matatu]] system reveals how different communities are bound together through daily economic necessity and how [[economic interdependence]] can transcend [[ethnic identity]].
 
 ## Key Facts

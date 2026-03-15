@@ -1,5 +1,3 @@
-# Nairobi Central Business District: From Colonial Admin to Modern Financial Hub
-
 The Central Business District (CBD) of Nairobi evolved from a colonial administrative center into East Africa's most important financial hub. The CBD sits in the geographic heart of the city, anchored around City Square and bounded by major arterial roads.
 
 ## Colonial Administrative Center

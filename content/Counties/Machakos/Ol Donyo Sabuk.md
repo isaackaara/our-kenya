@@ -1,5 +1,3 @@
-# Ol Donyo Sabuk
-
 Ol Donyo Sabuk, whose name means "Big Bull" in the [[../../Maasai/Maasai|Maasai]] language, is an isolated mountain located east of Nairobi on the border between Machakos and Kajiado Counties. The mountain reaches approximately 2,146 meters above sea level and is protected as Ol Donyo Sabuk National Park. The park covers 2,032 hectares of forest and grassland habitat.
 
 The mountain's isolation from other highlands creates unique ecological conditions, with vegetation and wildlife populations adapted to the specific local environment. The park supports forest elephants, buffaloes, antelopes, and diverse bird species. The combination of forest and open grassland habitats within the park provides diverse ecological niches.

@@ -1,5 +1,3 @@
-# Kalenjin and the Moi Era
-
 [[Daniel arap Moi|Daniel arap Moi]] (1924-2020), a member of [[Kalenjin|Kalenjin]] sub-group of the Kalenjin, served as Kenya's second president from 1978 to 2002. His 24-year presidency represented the Kalenjin people's first (and thus far only) turn at national executive power. Moi consolidated his authority partly through promoting Kalenjin allies to positions of power, redistributing state resources toward Kalenjin regions, and using Kalenjin ethnic solidarity as a political foundation, particularly in contests against other ethnic blocs. His presidency fundamentally transformed Kalenjin political identity, making them a national political force.
 
 ## Key Facts

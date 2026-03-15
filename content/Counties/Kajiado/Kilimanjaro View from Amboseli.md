@@ -1,5 +1,3 @@
-# Kilimanjaro View from Amboseli
-
 The iconic view of Mount Kilimanjaro's snow-capped peaks from Amboseli National Park represents one of Africa's most photographed and iconic landscapes, with the dormant volcano's distinctive massif framed against the savanna providing visitors and photographers with unparalleled scenic beauty and cultural significance.
 
 Kilimanjaro, Africa's highest mountain at 5,895 meters, is located across the Kenya-Tanzania border in Tanzania's Kilimanjaro Region. The mountain is visible from much of Amboseli and surrounding areas on clear days, though dust and atmospheric conditions sometimes obscure the view.

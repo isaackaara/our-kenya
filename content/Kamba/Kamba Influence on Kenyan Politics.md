@@ -1,5 +1,3 @@
-# Kamba Influence on Kenyan Politics
-
 The Kamba have exercised significant influence on Kenyan national politics since independence, despite being approximately 5-6% of the population. This influence has fluctuated dramatically based on the political skills of Kamba leaders and the broader configuration of Kenyan ethnic politics.
 
 ## Early Independence (1964-1978): [[Paul Ngei|Paul Ngei]]'s Prominence

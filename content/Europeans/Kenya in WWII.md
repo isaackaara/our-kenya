@@ -1,5 +1,3 @@
-# Kenya in WWII
-
 Kenya was a significant location in World War II, serving as a staging ground for the East Africa Campaign against Italian forces in East Africa (Ethiopia, Eritrea, Somalia). European settlers participated in the military effort, and thousands of Italian prisoners of war were held in Kenyan camps. Kenya's colonial economy and society were disrupted but also stimulated by war-related activities and military expenditures.
 
 ## The East Africa Campaign

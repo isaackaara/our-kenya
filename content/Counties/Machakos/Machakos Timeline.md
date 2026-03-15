@@ -1,5 +1,3 @@
-# Machakos Timeline
-
 Key dates in Machakos County history through 2026:
 
 1889: British establish Machakos as the first inland colonial administrative centre in Kenya.

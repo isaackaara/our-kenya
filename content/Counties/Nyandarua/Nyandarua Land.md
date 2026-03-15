@@ -1,5 +1,3 @@
-# Nyandarua Land
-
 Land in Nyandarua County has undergone transformation from European settler farms to African smallholder ownership. Post-independence settlement schemes distributed former settler land to African families. Contemporary landholding reflects this redistribution with most residents holding small plots. Land tenure has stabilized though conflicts over boundaries and ownership claims persist. Land values have increased with agricultural productivity and population growth.
 
 ## Historical Land Tenure

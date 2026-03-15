@@ -1,5 +1,3 @@
-# Taita-Taveta Youth
-
 The youth population of Taita-Taveta County comprises a large proportion of the total population, with demographic studies indicating that approximately 60-70 percent of the county population is below age 30. This large youth cohort faces significant challenges related to unemployment, limited educational opportunities, restricted economic opportunities, and social marginalization. Youth development, employment creation, and meaningful youth participation in governance constitute major development priorities for the county.
 
 Unemployment among youth in Taita-Taveta is particularly acute, with limited formal employment opportunities. The county's economy, based primarily on agriculture, pastoralism, and tourism, offers limited wage employment for youth without specialized skills. School-to-work transition is difficult for many graduates, with few opportunities for skilled or semi-skilled employment. Youth migration to urban centres, particularly Nairobi and Mombasa, is common as youth seek employment opportunities elsewhere.

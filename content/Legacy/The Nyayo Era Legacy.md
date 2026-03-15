@@ -1,5 +1,3 @@
-# The Nyayo Era Legacy
-
 Daniel arap Moi led Kenya from 1978 to 2002, a period of 24 years defined by a philosophy called Nyayo. Nyayo means "footsteps" and referred to following in Kenyatta's footsteps. But under Moi, Nyayo became code for personal loyalty to the president, not loyalty to principles, not loyalty to the constitution, loyalty to Moi.
 
 Nyayo created a culture of obedience. Kenyans were expected to show physical respect to the president (standing when he entered, applauding on cue). Criticism was dangerous. Intellectuals, journalists, and activists were arrested, tortured, or disappeared. The universities, once sites of political discourse, were neutered. Professors learned not to speak. Students learned not to question.

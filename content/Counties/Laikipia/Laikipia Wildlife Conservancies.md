@@ -1,5 +1,3 @@
-# Laikipia Wildlife Conservancies
-
 Laikipia County contains some of Africa's highest concentrations of endangered wildlife outside national parks. Wildlife conservancies protect ecosystems and species through various conservation models. Ol Pejeta Conservancy, Lewa Wildlife Conservancy, Borana Conservancy, and Segera Conservancy represent major conservation areas. These conservancies employ hundreds of people in wildlife protection, tourism, and research. Tourism to conservancies generates substantial revenue supporting conservation and local employment.
 
 ## Conservancy Model

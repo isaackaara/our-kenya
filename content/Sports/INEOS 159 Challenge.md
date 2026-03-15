@@ -1,5 +1,3 @@
-# INEOS 159 Challenge: Kipchoge's Sub-Two-Hour Achievement
-
 The INEOS 159 Challenge was an organized marathon attempt conducted on October 12, 2019, in Vienna, Austria, specifically designed to enable [[Eliud Kipchoge|Eliud Kipchoge]] to break the two-hour barrier in marathon running. The project was funded by multinational company INEOS and involved optimized conditions, scientific support, and a team of elite pacing runners.
 
 Kipchoge ran 1:59:40, becoming the first human to complete a marathon in under two hours. This achievement, while conducted in controlled conditions (similar to the Breaking2 project), represented a historic symbolic milestone in human athletic performance.

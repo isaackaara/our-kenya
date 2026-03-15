@@ -1,5 +1,3 @@
-# Victoria Jazz Band
-
 Victoria Jazz Band (also known as Victoria C.K. Jazz, Victoria Kings Jazz, and through various iterations, simply Victoria Jazz) emerged in the late 1960s as one of the premier [[Benga Music|benga]] orchestras, bringing the [[Luo]]-originated genre to Nairobi's urban audiences. The band drew heavily from [[George Ramogi|George Ramogi's]] guitar techniques and training, establishing itself as a cornerstone of the benga scene through the 1970s and 1980s. Dr. Mengo, one of the band's key figures, was a direct protege of Ramogi, ensuring continuity in the [[Benga Guitar Technique|benga guitar tradition]].
 
 The band's various names reflected both personnel changes and efforts to honor patrons. The "C.K." designation paid tribute to C.K. Argwings-Kodhek, the [[Luo]] lawyer and politician who supported musicians before his death in 1969. "Victoria" referenced Lake Victoria, the cultural heartland of [[Luo Benga and Nyanza Identity|Luo music and identity]]. This naming pattern placed the band squarely within the Luo cultural movement that used benga to assert ethnic pride during the [[Presidencies/Jomo Kenyatta Presidency|Kenyatta era]].

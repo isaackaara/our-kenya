@@ -1,5 +1,3 @@
-# Mandera Pastoralism
-
 Pastoralism is the dominant livelihood system in Mandera County, with pastoral livestock production defining the economy, social organization, resource management, and cultural identity of the region for centuries. The [[Somali]] pastoralist communities of Mandera, particularly the Degodia and Garre clans, have developed sophisticated pastoral production systems adapted to life in the arid Horn of Africa, though contemporary pastoralism faces unprecedented challenges from climate change, resource scarcity, conflict, and economic transformation.
 
 ## Pastoral History and Traditions

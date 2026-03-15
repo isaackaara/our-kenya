@@ -1,5 +1,3 @@
-# Digital Communities Kenya
-
 Digital platforms including social media, online gaming, and internet forums create [[Cross-Ethnic Kenya|cross-ethnic communities]] where Kenyans interact based on shared interests rather than ethnic identity. Online communities focused on particular interests (gaming, music, politics, hobbies) bring together participants from all ethnic backgrounds. The relative anonymity and interest-based organization of digital spaces create conditions potentially facilitating [[Gen Z Kenya|cross-ethnic connection]].
 
 Facebook, Instagram, X (Twitter), and other social media platforms host Kenyan users from all ethnic groups. These platforms enable people to maintain connections across geographic and ethnic lines. Social media allows formation of interest-based communities transcending ethnic particularism. Online movements and campaigns can mobilize people across ethnic boundaries around shared interests or concerns.

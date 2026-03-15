@@ -1,5 +1,3 @@
-# 1969 Election Kisumu Massacre
-
 In October 1969, [[Jomo Kenyatta]] visited Kisumu, the Luo heartland, during his election campaign. The visit, intended to rally KANU support in a predominantly Luo area, became an occasion of violence when security forces opened fire on Luo civilians who had gathered to hear Kenyatta speak. The exact death toll remains disputed, with estimates ranging from dozens to over 100 killed, but the massacre was a shocking demonstration of state violence and marked a turning point in Kenya's slide toward authoritarianism.
 
 The Kisumu massacre took place in a context of heightened ethnic tension following Tom Mboya's assassination in July 1969. The Luo community, grieving Mboya's death and resentful of what was perceived as Kikuyu political dominance, reacted with anger to Kenyatta's visit. Large numbers of Luo youth gathered during the campaign event, some to cheer but many to protest, and the gathering became chaotic. Security forces responded to the crowd with live ammunition, firing indiscriminately into the mass of people, killing civilians including women and children.

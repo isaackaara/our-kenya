@@ -1,5 +1,3 @@
-# Lewa Wildlife Conservancy
-
 Lewa Wildlife Conservancy, located on [[Laikipia Plateau]] in central Kenya, is one of Africa's most successful private wildlife conservancies and a pioneering [[Kenya as Global Conservation Model|model for conservation]] integrated with commercial operations. Established in 1995, Lewa has become an international benchmark for conservation effectiveness and sustainable use integration.
 
 ## History and Founding

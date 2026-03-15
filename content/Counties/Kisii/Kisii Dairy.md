@@ -1,5 +1,3 @@
-# Kisii Dairy
-
 Dairy farming has become increasingly important in [[Kisii County.md|Kisii County's]] agricultural economy, with the cool highland climate providing ideal conditions for productive dairy cattle. The sector provides income for farming families and employment in milk processing and marketing.
 
 ## Production Systems

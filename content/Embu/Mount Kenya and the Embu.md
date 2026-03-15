@@ -1,5 +1,3 @@
-# Mount Kenya and the Embu
-
 Mount Kenya (Kirinyaga in Embu language) holds profound spiritual and cultural significance for the Embu people, who inhabit its southeastern slopes and have oriented their cosmology, identity, and ritual life around the sacred mountain for centuries. The Embu view Mount Kenya as the dwelling place of Ngai (God) and as the ancestral focal point of their civilization.
 
 ## Sacred Status

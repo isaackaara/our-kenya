@@ -1,5 +1,3 @@
-# Meru Macadamia
-
 Macadamia nut cultivation has emerged as a growing cash crop in Meru County, with production concentrated in suitable elevation zones. Macadamia trees thrive in highland areas with moderate rainfall and cool temperatures. The crop provides farmers with an alternative to traditional coffee and tea production, though commercial viability remains lower than for more established crops.
 
 ## Growing Conditions

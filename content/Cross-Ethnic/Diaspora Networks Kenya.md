@@ -1,5 +1,3 @@
-# Diaspora Networks Kenya
-
 Kenyan [[Cross-Ethnic Kenya|diaspora communities]] maintain transnational networks connecting them to Kenya while integrating into destination countries. Diaspora organizations organize Kenyans abroad around shared nationality and often around ethnic identity. The diaspora's relationship to Kenya and to ethnic identity demonstrates how nationality and ethnicity operate as transnational dimensions of identity.
 
 Kenyan diaspora communities exist in the United States, United Kingdom, Canada, Australia, and other destination countries. These communities maintain associations, religious organizations, and social networks. Diaspora members send remittances to family in Kenya, participate in family ceremonies through video calls and occasional visits, and maintain emotional attachment to Kenya.

@@ -1,5 +1,3 @@
-# Camel Economy
-
 The camel is the foundation of the [[Somali]] pastoral economy in Kenya. A single camel is traditionally worth more than a cow or multiple goats combined, making camels the primary store of wealth and the most valuable asset in [[Kenyan Somali|Somali herding]] households. Camels provide milk, meat, blood (in times of need), hides, and social prestige. In an arid and semi-arid environment, the camel's ability to survive on sparse vegetation and produce milk year-round, even during drought, makes it irreplaceable.
 
 ## Value and Wealth

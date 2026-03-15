@@ -1,5 +1,3 @@
-# Nakuru Agriculture
-
 [[../Nakuru/Nakuru County|Nakuru County]]'s agricultural economy is diverse, reflecting its varied climate zones and soil types. The Rift Valley's broad plateau supports large-scale wheat farming, while middlealtitude areas produce maize and pyrethrum. The Rift Valley is Kenya's dairy heartland, and Nakuru County is a major milk production zone, with numerous dairy farms supplying the Kenya Co-operative Creameries (KCC) and private processors.
 
 Pyrethrum, a natural insecticide derived from a flowering plant, was historically a major cash crop in the region, though cultivation has declined. Horticulture (vegetables and cut flowers) is increasingly important in the Naivasha area. Coffee farming occurs at higher elevations. The combination of these crops creates a resilient agricultural base, though farmers face challenges including land fragmentation, climate variability, input costs, and market access.

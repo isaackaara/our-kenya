@@ -1,5 +1,3 @@
-# National Identity Beyond Tribe
-
 The construction of [[Kenyan Identity Evolution 1964-2026|Kenyan national identity]] has involved attempts to imagine [[Kenya]] as a [[Cross-Ethnic Kenya|unified nation]] transcending ethnic particularism. While these attempts have been only partially successful, the consistent assertion of [[National Identity Beyond Tribe|national identity]] alongside ethnic identity creates possibilities for people to identify as Kenyans in ways that encompass but do not eliminate ethnic identity. The category of "Kenyan" itself functions as a [[Cross-Ethnic Kenya|cross-ethnic identity]].
 
 National identity is constructed through multiple institutional and cultural channels. National symbols including the flag, coat of arms, and national anthem are designed to represent all Kenyans. National holidays commemorate shared historical moments. The national anthem, sung in Swahili and English rather than ethnic languages, assert Kenyan unity. National media broadcasts news and entertainment to the entire population. These institutions create frameworks for imagining Kenya as a unified nation.

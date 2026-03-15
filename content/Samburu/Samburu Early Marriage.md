@@ -1,5 +1,3 @@
-# Samburu Early Marriage
-
 Early marriage of girls, typically to men substantially older, remains practiced in some [[Samburu]] communities despite government policy prohibitions. Early marriage constrains [[Samburu Girls Education|girls' education]], affects health outcomes, and reduces girls' autonomy. NGO campaigns addressing early marriage have had variable impact on cultural practice persistence.
 
 ## Prevalence and Age Patterns

@@ -1,5 +1,3 @@
-# Kalenjin Women Athletes
-
 Beyond the extraordinary achievements of Faith Kipyegon and Brigid Kosgei, numerous Kalenjin women have established themselves as elite distance runners, competing at Olympic and world championship levels. These athletes represent both Kalenjin athletic dominance and the expansion of opportunities for women in professional athletics.
 
 ## Faith Kipyegon

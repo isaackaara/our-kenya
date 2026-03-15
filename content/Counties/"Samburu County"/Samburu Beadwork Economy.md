@@ -1,5 +1,3 @@
-# Samburu Beadwork Economy
-
 Samburu beadwork represents both profound cultural expression and significant economic activity. Elaborate beaded ornaments created by Samburu women showcase aesthetic values while generating income for individuals and communities.
 
 Traditional beadwork serves cultural functions, with different beaded ornaments marking status, age, and life stage. Warriors wear distinctive beaded ornaments reflecting their age-grade status. Married women wear different beadwork patterns than unmarried women. Beadwork announces social identity and position within the community.

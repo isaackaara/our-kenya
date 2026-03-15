@@ -1,5 +1,3 @@
-# The Indian Ocean Legacy
-
 Kenya's coast was part of the Indian Ocean world long before colonialism. For a thousand years, the Swahili civilization flourished on the East African coast. Arab traders, Asian merchants, and African merchants exchanged goods, ideas, and culture across the Indian Ocean.
 
 Swahili civilization represents a unique cultural synthesis. Swahili language emerged as a blend of Bantu languages with Arabic and Indian vocabulary. Swahili architecture incorporated Islamic design with African building traditions. Swahili cuisine reflects Arab spices, Indian cooking techniques, and African staples. The Swahili people are products of this Indian Ocean mixing.

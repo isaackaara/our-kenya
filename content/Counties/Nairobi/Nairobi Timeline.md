@@ -1,5 +1,3 @@
-# Nairobi Timeline: Key Dates in City History
-
 ## 1899
 Nairobi founded as a railway depot on the Uganda Railway at the location of [[../../Maasai/Maasai|Maasai]] watering hole "Enkare Nairobi" (cold water).
 

@@ -1,5 +1,3 @@
-# Athletics Integrity Unit Kenya: Fighting Doping and Corruption
-
 The Athletics Integrity Unit (AIU), created by World Athletics in 2017, conducts independent investigations into anti-doping violations and breaches of competition rules. Kenya has been the focus of extensive AIU investigations due to the scale of doping violations and governance failures in Kenyan athletics.
 
 The AIU's investigations of Kenyan athletes revealed systemic doping at certain training camps and among specific coaching relationships. The AIU has sanctioned numerous Kenyan athletes and coaches for violations. While AIU investigations have improved enforcement, underlying governance failures at Athletics Kenya persist.

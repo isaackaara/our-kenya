@@ -1,5 +1,3 @@
-# Taita Colonial History
-
 The Taita Hills came under British colonial administration in the late 19th century as the British established control over East Africa. The colonial period involved the imposition of new systems of governance, taxation, and land rights that fundamentally altered Taita society.
 
 ## Early Colonial Administration

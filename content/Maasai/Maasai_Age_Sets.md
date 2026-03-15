@@ -1,5 +1,3 @@
-# Maasai Age Sets: The Elaborate Ilkiama System
-
 ## The Age-Set Framework
 
 The Maasai age-set system (ilkiama) is one of the most complex and enduring systems of social organization in Africa. It orders Maasai male society into life stages, each with distinct roles, responsibilities, and restrictions.

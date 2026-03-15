@@ -1,5 +1,3 @@
-# Makueni Water
-
 Water scarcity represents the defining development challenge for Makueni County, constraining agricultural production, limiting pastoral systems, and threatening human health. The semi-arid climate and erratic rainfall create persistent water deficits that infrastructure development has struggled to overcome.
 
 Groundwater sources including boreholes and shallow wells provide primary water access for many Makueni communities. However, groundwater is not uniformly accessible, with depth to water varying substantially across the county. Some areas have accessible groundwater while others experience severe groundwater depletion. Groundwater quality also varies, with salinity problems in some locations limiting suitability for drinking and irrigation.

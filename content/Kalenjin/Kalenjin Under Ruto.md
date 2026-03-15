@@ -1,5 +1,3 @@
-# Kalenjin Under Ruto
-
 With William Ruto's election as president in 2022, the Kalenjin returned to executive power for the first time since [[Daniel arap Moi|Daniel arap Moi]] left office in 2002. Ruto's presidency has brought cabinet representation, patronage benefits, and policy priorities reflecting Kalenjin interests, though evaluations of delivery and outcomes remain contested.
 
 ## Ruto's Political Rise

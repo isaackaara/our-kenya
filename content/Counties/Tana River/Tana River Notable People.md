@@ -1,5 +1,3 @@
-# Tana River Notable People
-
 Tana River County has produced and hosted various notable individuals who have influenced county, regional, and national affairs through politics, business, conservation, and social leadership. These individuals have shaped Tana River's development trajectory and contributed to broader Kenyan and East African society.
 
 Colonial-era leaders negotiated with British authorities regarding land, taxation, and administration. While detailed historical records of these early leaders are limited, colonial documents reference conversations with local leaders. However, colonial authorities often appointed leaders who lacked traditional authority, disrupting existing leadership structures.
