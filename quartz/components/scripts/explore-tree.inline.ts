@@ -6,8 +6,8 @@ document.addEventListener("nav", async () => {
   if (!container) return
 
   const rawRoot = container.dataset.root || ""
-  // Convert folder name to slug prefix: "Coast History" -> "coast-history"
-  const slugPrefix = rawRoot.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "")
+  // Convert folder name to slug prefix preserving Quartz case: "Coast History" -> "Coast-History"
+  const slugPrefix = rawRoot.replace(/\s+/g, "-")
 
   // fetchData is the global Quartz content index promise
   const data = await fetchData
