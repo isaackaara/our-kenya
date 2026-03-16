@@ -30,6 +30,7 @@ import TrailNav, { TrailHistoryRail } from "./TrailNav"
 import TrailHub from "./TrailHub"
 import DailyThemeGrid from "./DailyThemeGrid"
 import RailaGraph from "./RailaGraph"
+import KnowledgeGraphs from "./KnowledgeGraphs"
 import FloatingContribute from "./FloatingContribute"
 
 export {
@@ -66,5 +67,6 @@ export {
   TrailHub,
   DailyThemeGrid,
   RailaGraph,
+  KnowledgeGraphs,
   FloatingContribute,
 }

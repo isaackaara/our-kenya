@@ -74,13 +74,11 @@ Every theme has its own index. Start at any node - the graph takes you further.
 <p><a href="STORY-TRAILS">Browse all Story Trails</a></p>
 </div>
 
-## Raila Odinga: A Political Map
+## Explore Kenya's Story
 
-Kenya's most consequential opposition figure. Five elections, one handshake, a continent-wide career.
+Ten knowledge graphs. Each one a different corner of Kenya's history. Click any node to read the full story.
 
-<div id="ok-raila-graph"></div>
-
-*Click any node to explore that story.*
+<div id="ok-knowledge-graphs"></div>
 
 ## How this works
 

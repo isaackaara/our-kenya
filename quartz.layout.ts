@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.FloatingContribute(),
-    Component.RailaGraph(),
+    Component.KnowledgeGraphs(),
     Component.DailyThemeGrid(),
     Component.ConditionalRender({
       component: Component.ContributeForm(),
