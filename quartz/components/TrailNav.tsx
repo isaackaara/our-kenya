@@ -169,14 +169,16 @@ export default ((opts?: TrailNavOptions) => {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 36px;
-    padding: 0 1rem;
+    min-height: 36px;
+    padding: 0.4rem 1rem;
     background: var(--gray);
     color: rgba(255, 255, 255, 0.95);
     text-decoration: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     transition: filter 0.15s;
     box-shadow: 0 2px 4px rgba(0, 0, 6, 0.15);
+    box-sizing: border-box;
+    width: 100%;
   }
 
   .trail-history-strip:hover {
@@ -195,9 +197,10 @@ export default ((opts?: TrailNavOptions) => {
     flex: 1;
     font-size: 0.75rem;
     font-weight: 500;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    line-height: 1.3;
   }
 
   .trail-history-chevron {
@@ -322,9 +325,10 @@ export default ((opts?: TrailNavOptions) => {
     border-radius: 4px;
     transition: background 0.15s;
     max-width: 45%;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    box-sizing: border-box;
   }
 
   .trail-top-prev {
