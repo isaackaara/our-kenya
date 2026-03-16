@@ -31,7 +31,7 @@ Reforestation initiatives attempt to restore tree cover. Soil conservation proje
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

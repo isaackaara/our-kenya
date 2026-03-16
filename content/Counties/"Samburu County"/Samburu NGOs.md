@@ -24,8 +24,8 @@ NGO coordination mechanisms including county development forums facilitate infor
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. NGO Coordination Board Kenya: Registered Organisations Operating in Northern Kenya. https://www.ngoboard.or.ke/

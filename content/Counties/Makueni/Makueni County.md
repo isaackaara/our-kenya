@@ -8,7 +8,7 @@ Makueni County exemplifies both the challenges and opportunities of development 
 
 All 30 notes in this county:
 
-1. [[Makueni and the [[../../Kamba/Kamba|Kamba]]
+1. [[Kamba|Kamba]]
 3. [[Kivutha Kibwana]]
 4. [[Makueni Universal Health Coverage]]
 5. [[Makueni Agriculture]]
@@ -45,7 +45,7 @@ Semi-arid development, innovative governance, water scarcity solutions, health s
 ## See Also
 
 - [[Makueni County|Makueni County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Makueni Devolution Success|Devolution Success]]
 - [[Sand Dams Makueni|Sand Dams (water technology)]]
 - [[Makueni Climate Change Adaptation|Climate Adaptation]]

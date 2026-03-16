@@ -38,7 +38,7 @@ Within KANU, Luhya politicians often found themselves on the losing side of fact
 
 ## Mau Mau Legacy and Luhya Ambiguity
 
-The Mau Mau Rebellion (1952-1960), which was primarily a Kikuyu uprising, created ambiguity in Luhya relationships with both the British and [[../Kikuyu/Kikuyu|Kikuyu]]-dominated independence movement. The Luhya had not produced a major Mau Mau faction, limiting their claim to nationalist credentials and leaving them somewhat outside the independence struggle narrative. This positioned them as secondary figures entering KANU somewhat reluctantly, seeking accommodation rather than dominance.
+The Mau Mau Rebellion (1952-1960), which was primarily a Kikuyu uprising, created ambiguity in Luhya relationships with both the British and [[Kikuyu|Kikuyu]]-dominated independence movement. The Luhya had not produced a major Mau Mau faction, limiting their claim to nationalist credentials and leaving them somewhat outside the independence struggle narrative. This positioned them as secondary figures entering KANU somewhat reluctantly, seeking accommodation rather than dominance.
 
 ## Kenyatta Era (1964-1978)
 
@@ -57,11 +57,11 @@ The Luhya experience within KANU demonstrates a pattern of political subordinati
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

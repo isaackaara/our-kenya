@@ -8,7 +8,7 @@ Human-elephant conflict (HEC) occurs when wild elephants raid crops in agricultu
 
 ## Geographic Distribution
 
-Elephant crop raiding in Maasai territory is concentrated in areas adjacent to protected wildlife areas, particularly around [[../Conservation/Amboseli National Park|Amboseli National Park]] National Park, [[../Conservation/Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] National Reserve, and Kilimanjaro National Park (in Tanzania). Communities in [[../Counties/Kajiado/Kajiado County|Kajiado County]] near Amboseli experience regular elephant raids. Communities adjacent to the Mara also face HEC, though the problem is less severe than in other regions. The problem is worse in areas where crops (maize, beans) are more extensively cultivated.
+Elephant crop raiding in Maasai territory is concentrated in areas adjacent to protected wildlife areas, particularly around [[Amboseli National Park|Amboseli National Park]] National Park, [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] National Reserve, and Kilimanjaro National Park (in Tanzania). Communities in [[Kajiado County|Kajiado County]] near Amboseli experience regular elephant raids. Communities adjacent to the Mara also face HEC, though the problem is less severe than in other regions. The problem is worse in areas where crops (maize, beans) are more extensively cultivated.
 
 ## Affected Communities
 
@@ -66,12 +66,12 @@ HEC is likely to increase as human populations expand into areas used by elephan
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

@@ -120,7 +120,7 @@ Persistent barriers include:
 
 ### Machakos vs. Kitui
 
-[[../Counties/Machakos/Machakos County|Machakos County]] (wealthier, closer to Nairobi) has better educational outcomes:
+[[Machakos County|Machakos County]] (wealthier, closer to Nairobi) has better educational outcomes:
 
 - **Machakos**: Approximately 75-80% primary completion rate (2024)
 - **Kitui**: Approximately 55-65% primary completion rate (2024)

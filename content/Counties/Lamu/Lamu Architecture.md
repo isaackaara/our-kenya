@@ -30,7 +30,7 @@ Modern challenges to traditional architecture include the need for modern utilit
 - [[Lamu Real Estate|Lamu Real Estate]]
 - [[Lamu Infrastructure|Lamu Infrastructure]]
 - [[Bajuni People|Bajuni People]]
-- [[../../Swahili/Swahili|Swahili Culture and History]]
+- [[Swahili|Swahili Culture and History]]
 
 ## Sources
 

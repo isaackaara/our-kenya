@@ -15,7 +15,7 @@ The economic model that Kenyatta had established, based on capitalism, private p
 Moi's relationship to Kenyatta's legacy thus involved careful appropriation: taking credit for Kenyatta's development achievements while actually dismantling the political structures that had supported those achievements. The transition from Kenyatta to Moi was smooth partly because Moi maintained the superficial continuity of institutions and rhetoric while actually transforming the power structures that animated those institutions. This transformation would not become fully evident until several years into Moi's presidency, by which time the reconsolidation of power in his personal hands had already proceeded far.
 
 ## See Also
-[[Jomo Kenyatta/Legacy]]
+[[Legacy]]
 [[Moi Succession 1978]]
 [[Moi Consolidation of Power 1978-1985]]
 [[Moi Nyayo Philosophy]]

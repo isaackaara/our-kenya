@@ -2,7 +2,7 @@ The Siaya area, then part of Nyanza Province, was incorporated into the British 
 
 ## Early Colonial Period
 
-British penetration into the Siaya region began in the 1890s as colonial forces extended administrative control into the Nyanza interior. The [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] shore had already seen some non-African contact through Arab traders and missionaries in preceding decades. Colonial forces established administrative posts and began the process of integrating the [[../../Luo/Luo|Luo]] population into the colonial state apparatus.
+British penetration into the Siaya region began in the 1890s as colonial forces extended administrative control into the Nyanza interior. The [[Lake Victoria Kenya|Lake Victoria]] shore had already seen some non-African contact through Arab traders and missionaries in preceding decades. Colonial forces established administrative posts and began the process of integrating the [[Luo|Luo]] population into the colonial state apparatus.
 
 ## Administrative Organization
 
@@ -22,13 +22,13 @@ Siaya communities displayed varied responses to colonialism, ranging from resist
 
 ## See Also
 
-- [[../../Luo/Luo Colonial Period|Luo Colonial Period]]
-- [[../../Luo/Luo and the British|Luo and the British]]
+- [[Luo Colonial Period|Luo Colonial Period]]
+- [[Luo and the British|Luo and the British]]
 - [[Siaya Luo Heritage]]
 - [[Siaya Timeline]]
 - [[Siaya Politics]]
-- [[../../Luo/Luo Traditional Governance|Luo Traditional Governance]]
-- [[../Kisumu/Kisumu Colonial History|Kisumu Colonial History]]
+- [[Luo Traditional Governance|Luo Traditional Governance]]
+- [[Kisumu Colonial History|Kisumu Colonial History]]
 
 ## Sources
 

@@ -46,7 +46,7 @@ Food in Mombasa carries cultural and historical significance, representing centu
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

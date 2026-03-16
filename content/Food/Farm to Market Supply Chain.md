@@ -12,10 +12,10 @@ By the late 20th century, the emergence of supermarkets in major urban areas int
 
 ## See Also
 
-[[Food and Agriculture/Market Infrastructure]]
-[[Food and Agriculture/Farmer Cooperatives]]
-[[Food and Agriculture/Food Waste Management]]
-[[Food and Agriculture/Food Markets Distribution]]
+[[Market Infrastructure]]
+[[Farmer Cooperatives]]
+[[Food Waste Management]]
+[[Food Markets Distribution]]
 [[Labour/Trading and Commerce]]
 [[Poverty/Rural Marketing Constraints]]
 

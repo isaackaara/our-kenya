@@ -34,8 +34,8 @@ Water is managed by water service providers licensed by the national regulator. 
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Water. (2020). Water Supply, Homa Bay. https://www.water.go.ke/

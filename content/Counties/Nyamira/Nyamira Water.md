@@ -86,8 +86,8 @@ Water and sanitation integration:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Water, Sanitation and Irrigation (2023). "County Water Resource Assessment: Nyamira". https://www.water.go.ke

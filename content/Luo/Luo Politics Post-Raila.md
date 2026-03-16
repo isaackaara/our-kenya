@@ -12,7 +12,7 @@ With Raila's reduced focus on Kenyan elections, Luo political leadership fragmen
 
 **Pragmatic engagement:** Other Luo leaders negotiated with the Ruto administration, seeking ministerial positions, development resources, or parliamentary positions. This strategy abandoned opposition positioning in favor of insider access, reflecting calculations about the futility of perpetual opposition without electoral success.
 
-**Regional focus:** Some Luo politicians concentrated on county-level politics in Siaya, [[../Counties/Kisumu/Kisumu County|Kisumu County]], [[../Counties/Homa Bay/Homa Bay County|Homa Bay County]], and [[../Counties/Migori/Migori County|Migori County]] counties, pursuing governorships and county assembly seats rather than national-level positions.
+**Regional focus:** Some Luo politicians concentrated on county-level politics in Siaya, [[../Counties/Kisumu/Kisumu County|Kisumu County]], [[Homa Bay County|Homa Bay County]], and [[Migori County|Migori County]] counties, pursuing governorships and county assembly seats rather than national-level positions.
 
 ## Younger Luo Leaders and the Question of Direction
 

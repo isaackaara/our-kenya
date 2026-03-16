@@ -1,4 +1,4 @@
-Nairobi's southward expansion is progressively consuming [[../Counties/Machakos/Machakos County|Machakos County]] land, transforming rural Kamba territory into industrial and residential zones. This metropolitan encroachment represents dramatic alteration of Kamba geography, economy, and identity.
+Nairobi's southward expansion is progressively consuming [[Machakos County|Machakos County]] land, transforming rural Kamba territory into industrial and residential zones. This metropolitan encroachment represents dramatic alteration of Kamba geography, economy, and identity.
 
 ## Geographic Extent of Growth
 
@@ -50,7 +50,7 @@ This cultural erasure represents identity loss beyond economic impacts. Kamba co
 
 ## County-Level Dynamics
 
-[[../Counties/Makueni/Makueni County|Makueni County]] (the drier southern Kamba region) has experienced less Nairobi pressure than Machakos County. However, Machakos County government has conflicting incentives: development pressure generates property tax revenue and creates jobs, but threatens rural livelihoods and sustainability.
+[[Makueni County|Makueni County]] (the drier southern Kamba region) has experienced less Nairobi pressure than Machakos County. However, Machakos County government has conflicting incentives: development pressure generates property tax revenue and creates jobs, but threatens rural livelihoods and sustainability.
 
 Makueni under Governor Kibwana (2013-2022) explicitly prioritized rural development and pastoral sustainability. Machakos County governance has been more varied, with some administrations facilitating development conversion of land.
 

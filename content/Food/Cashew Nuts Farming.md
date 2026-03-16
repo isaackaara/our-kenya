@@ -12,9 +12,9 @@ Environmental and social considerations shaped the sustainability of cashew cult
 
 ## See Also
 
-[[Food and Agriculture/Agroforestry Systems]]
-[[Food and Agriculture/Agricultural Imports]]
-[[Food and Agriculture/Food Trade Exports]]
+[[Agroforestry Systems]]
+[[Agricultural Imports]]
+[[Food Trade Exports]]
 [[Coast History/Economic Activity]]
 [[Labour/Agricultural Employment]]
 [[Poverty/Rural Livelihoods]]

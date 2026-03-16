@@ -9,7 +9,7 @@ Dairy cooperative unions provide federation, training, and market linkage servic
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8765en/
 2. https://www.standardmedia.co.ke/counties/article/2000987654/dairy-farmers-transnzoia

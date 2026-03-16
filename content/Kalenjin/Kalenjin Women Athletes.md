@@ -2,7 +2,7 @@ Beyond the extraordinary achievements of Faith Kipyegon and Brigid Kosgei, numer
 
 ## Faith Kipyegon
 
-Faith Kipyegon, a Nandi Kalenjin from Kapsabet in [[../Counties/Nandi/Nandi County|Nandi County]], is among the greatest female middle-distance runners in history. She holds the world record in the 1500 meters with a time of 3:49.04, set in Paris in August 2024. She has won multiple Olympic medals, including gold in the 1500 meters at both Rio 2016 and Tokyo 2020 Olympics. She also holds the 5000 meters personal best of 14:41.55.
+Faith Kipyegon, a Nandi Kalenjin from Kapsabet in [[Nandi County|Nandi County]], is among the greatest female middle-distance runners in history. She holds the world record in the 1500 meters with a time of 3:49.04, set in Paris in August 2024. She has won multiple Olympic medals, including gold in the 1500 meters at both Rio 2016 and Tokyo 2020 Olympics. She also holds the 5000 meters personal best of 14:41.55.
 
 Kipyegon's achievements represent extraordinary consistency and excellence at the highest level of global athletics. Her world record in the 1500 meters places her among the fastest women ever to run the distance. Her Olympic gold medals confirm her status as one of the greatest contemporary female distance runners.
 

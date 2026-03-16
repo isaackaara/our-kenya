@@ -34,7 +34,7 @@ The MRC remains active but has not achieved significant political power. Mainstr
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

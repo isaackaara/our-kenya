@@ -1,4 +1,4 @@
-The [[../../Conservation/Aberdare National Park|Aberdare Range]] functions as a critical water tower for central Kenya, capturing rainfall and supplying water to downstream areas through streams and rivers. Forest cover on the range regulates water release to lower elevations. The water supply serves millions of people throughout central Kenya and supports agricultural irrigation. Water security for the region depends on maintaining forest cover and protecting water sources in Nyandarua. Climate change and population growth threaten water availability.
+The [[Aberdare National Park|Aberdare Range]] functions as a critical water tower for central Kenya, capturing rainfall and supplying water to downstream areas through streams and rivers. Forest cover on the range regulates water release to lower elevations. The water supply serves millions of people throughout central Kenya and supports agricultural irrigation. Water security for the region depends on maintaining forest cover and protecting water sources in Nyandarua. Climate change and population growth threaten water availability.
 
 ## Rainfall Capture
 
@@ -28,11 +28,11 @@ Climate change threatens water availability through altered rainfall patterns. I
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

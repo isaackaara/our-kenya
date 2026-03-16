@@ -16,7 +16,7 @@ Environmental conservation organisations collaborate with communities on wildlif
 
 NGO coordination mechanisms including county development forums facilitate information sharing and avoid duplication. However, coordination remains imperfect and tensions sometimes arise over funding competition and programme priorities.
 
-The [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power project involvement creates opportunities for community development partnerships with project proponents.
+The [[Lake Turkana|Lake Turkana]] Wind Power project involvement creates opportunities for community development partnerships with project proponents.
 
 
 ## See Also

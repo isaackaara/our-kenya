@@ -4,7 +4,7 @@ Male circumcision ceremonies generate the richest initiation music across most K
 
 The musical content of initiation songs varies by community but generally includes several key themes. Songs teach about sexual behavior and marriage responsibilities, using metaphorical language to convey explicit information while maintaining cultural decorum. They transmit community history and clan lineages, ensuring initiates know their ancestry and social position. They articulate gender-specific responsibilities, defining what it means to be a proper man or woman in that particular society. They encode moral values and behavioral norms, warning against laziness, cowardice, sexual impropriety, or disrespect toward elders. This pedagogical content transforms initiation from purely physical procedure into comprehensive educational experience, with music serving as both curriculum and teaching method.
 
-Female initiation music, where it existed, addressed different themes reflecting distinct female social roles. [[Music/Kamba Mwali Songs|Kamba mwali songs]] taught about menstruation, sexual intercourse, pregnancy, childbirth, infant care, and relationships with husbands, co-wives, and in-laws. The songs prepared girls psychologically for marriage and motherhood while helping them endure the physical pain of clitoridectomy. Similar practices existed among [[Kikuyu/Kikuyu Origins|Kikuyu]], [[Mijikenda/Mijikenda Origins|Mijikenda]], and other communities, though the specific repertoires and performance contexts varied. The widespread abandonment of female circumcision due to health concerns, legal prohibition, and changing social values has largely silenced these songs, which exist primarily in elderly women's memories and archival recordings.
+Female initiation music, where it existed, addressed different themes reflecting distinct female social roles. [[Kamba Mwali Songs|Kamba mwali songs]] taught about menstruation, sexual intercourse, pregnancy, childbirth, infant care, and relationships with husbands, co-wives, and in-laws. The songs prepared girls psychologically for marriage and motherhood while helping them endure the physical pain of clitoridectomy. Similar practices existed among [[Kikuyu/Kikuyu Origins|Kikuyu]], [[Mijikenda Origins|Mijikenda]], and other communities, though the specific repertoires and performance contexts varied. The widespread abandonment of female circumcision due to health concerns, legal prohibition, and changing social values has largely silenced these songs, which exist primarily in elderly women's memories and archival recordings.
 
 The musical structure of initiation songs typically follows call-and-response patterns, with lead singers initiating phrases that groups answer. This structure creates communal participation, bonding initiates to each other and to the broader community performing the ceremony. The repetition inherent in call-and-response singing ensures message retention, key lyrics repeating until they become permanently imprinted in initiates' memories. The rhythmic patterns often accelerate and intensify as ceremonies progress, creating emotional crescendos that heighten psychological impact and facilitate the altered consciousness states that mark successful ritual transformation.
 
@@ -21,12 +21,12 @@ Contemporary preservation efforts face tensions between documenting vanishing tr
 The question facing initiation music is whether the social practices that gave it meaning can survive in forms recognizable to earlier generations, or whether modernity has irreversibly transformed the contexts that sustained this music. Can hospital circumcision incorporate meaningful musical education? Can alternative rites of passage without physical cutting maintain initiation music's pedagogical and spiritual functions? Or does the music's power depend on circumstances contemporary Kenya has mostly abandoned, making preservation efforts mere nostalgic gestures toward irretrievable pasts?
 
 ## See Also
-- [[Music/Kamba Mwali Songs]]
-- [[Music/Kikuyu Traditional Music]]
-- [[Music/Maasai Singing and Olaranyani]]
-- [[Music/Kalenjin Choral Traditions]]
-- [[Music/Women's Music Traditions Kenya]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
+- [[Kamba Mwali Songs]]
+- [[Kikuyu Traditional Music]]
+- [[Maasai Singing and Olaranyani]]
+- [[Kalenjin Choral Traditions]]
+- [[Women's Music Traditions Kenya]]
+- [[Music and Pre-Christian Religion Kenya]]
 - [[Kikuyu/Kikuyu Origins]]
 - [[Maasai/Maasai Age-Grade System]]
 

@@ -2,7 +2,7 @@ Luo youth have excelled in various sports, particularly field events (middle-dis
 
 ## Traditional Physical Culture
 
-Pre-colonial and colonial-era Luo youth engaged in wrestling, spear throwing, boat racing on [[../Conservation/Lake Victoria Kenya|Lake Victoria]], and other physical contests. These activities developed strength, agility, and courage. Warriors were trained in physical combat and endurance.
+Pre-colonial and colonial-era Luo youth engaged in wrestling, spear throwing, boat racing on [[Lake Victoria Kenya|Lake Victoria]], and other physical contests. These activities developed strength, agility, and courage. Warriors were trained in physical combat and endurance.
 
 Boat racing was distinctive to the Luo, reflecting their relationship with the lake. Young men raced boats, demonstrating skill and strength in a context directly relevant to fishing and livelihoods.
 

@@ -1,8 +1,8 @@
-The Terik are one of the smallest Kalenjin sub-groups, with a population of approximately 120,000, inhabiting areas near Nandi Hills in [[../Counties/Nandi/Nandi County|Nandi County]] and adjacent regions of Kakamega County in western Kenya. Their smallness and geographic position at the edge of Kalenjin territory have made them one of the least documented sub-groups in Kalenjin studies.
+The Terik are one of the smallest Kalenjin sub-groups, with a population of approximately 120,000, inhabiting areas near Nandi Hills in [[Nandi County|Nandi County]] and adjacent regions of Kakamega County in western Kenya. Their smallness and geographic position at the edge of Kalenjin territory have made them one of the least documented sub-groups in Kalenjin studies.
 
 ## Location and Geographic Isolation
 
-The Terik inhabit territory that straddles the boundary between Kalenjin and Bantu-speaking peoples. To their west and northwest live [[../Luhya/Luhya|Luhya]] (a Bantu group), creating a frontier zone where cultural, linguistic, and economic exchange has historically occurred. This position has exposed the Terik to influences from neighboring communities in ways that shaped their cultural practices.
+The Terik inhabit territory that straddles the boundary between Kalenjin and Bantu-speaking peoples. To their west and northwest live [[Luhya|Luhya]] (a Bantu group), creating a frontier zone where cultural, linguistic, and economic exchange has historically occurred. This position has exposed the Terik to influences from neighboring communities in ways that shaped their cultural practices.
 
 ## Cultural Borrowing and Adaptation
 

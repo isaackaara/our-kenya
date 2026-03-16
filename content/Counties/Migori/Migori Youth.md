@@ -38,8 +38,8 @@ Government and NGO youth programs provide skills training and employment facilit
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Youth Survey. (2019). Youth Employment. https://www.cbs.go.ke/

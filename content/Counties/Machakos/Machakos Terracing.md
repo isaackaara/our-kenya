@@ -12,7 +12,7 @@ The widespread adoption of terracing represents a major shift in Machakos land u
 ## See Also
 
 - [[Machakos County|Machakos County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Machakos Terracing|Terracing (agricultural tradition)]]
 - [[The Machakos Miracle|Devolution Success]]
 - [[Machakos Mango Industry|Mango Industry]]

@@ -10,13 +10,13 @@ Contemporary Makueni society remains demographically and culturally Kamba, thoug
 
 ## Related Links
 
-[[../../Kamba/Kamba]]
+[[Kamba]]
 
 
 ## See Also
 
 - [[Makueni County|Makueni County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Makueni Devolution Success|Devolution Success]]
 - [[Sand Dams Makueni|Sand Dams (water technology)]]
 - [[Makueni Climate Change Adaptation|Climate Adaptation]]

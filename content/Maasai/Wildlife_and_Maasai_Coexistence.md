@@ -12,7 +12,7 @@ The savanna grassland ecosystem in Maasai territory supported millions of wild a
 
 ## Scientific Recognition of Pastoral Benefits
 
-Recent ecological research has documented the benefits of pastoral grazing for ecosystem health. The University of Michigan study (published in PNAS) found that Maasai pastoral practices in the [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] had negligible negative effects on ecosystem integrity.
+Recent ecological research has documented the benefits of pastoral grazing for ecosystem health. The University of Michigan study (published in PNAS) found that Maasai pastoral practices in the [[Maasai Mara National Reserve|Maasai Mara National Reserve]] had negligible negative effects on ecosystem integrity.
 
 In fact, moderate grazing can benefit grassland ecosystems by preventing woody encroachment and maintaining grass-dominated habitats that wildlife requires.
 
@@ -47,10 +47,10 @@ Yet understanding historical coexistence offers lessons for designing more equit
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

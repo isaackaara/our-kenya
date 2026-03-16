@@ -71,7 +71,7 @@ Moi died on February 4, 2020, at age 95. Historical assessment continues to evol
 
 ## Related
 
-[[../Kikuyu/Daniel arap Moi Era]] | [[Kalenjin and the Moi Era]] | [[Nandi Resistance]]
+[[Daniel arap Moi Era]] | [[Kalenjin and the Moi Era]] | [[Nandi Resistance]]
 
 ## See Also
 

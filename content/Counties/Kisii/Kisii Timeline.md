@@ -24,7 +24,7 @@ This timeline traces major events in [[Kisii County|Kisii County's]] history fro
 - [[Kisii Politics|Politics]]
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Tea Industry|Tea Industry]]
-- [[../../Luo/Nyanza Province History|Regional History]]
+- [[Nyanza Province History|Regional History]]
 - 1963: Kenya independence, Kisii District established as administrative unit
 
 ## Early Post-Independence (1963-1980s)

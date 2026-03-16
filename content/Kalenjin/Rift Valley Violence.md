@@ -2,7 +2,7 @@ The Rift Valley has experienced three major episodes of election-related ethnic 
 
 ## Key Facts
 
-- **1992 violence**: Following the reintroduction of multiparty democracy, Kalenjin youth attacked Kikuyu settlements in Rift Valley areas (Molo, Nakuru, [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], Kericho), killing hundreds and displacing tens of thousands
+- **1992 violence**: Following the reintroduction of multiparty democracy, Kalenjin youth attacked Kikuyu settlements in Rift Valley areas (Molo, Nakuru, [[Uasin Gishu County|Uasin Gishu County]], Kericho), killing hundreds and displacing tens of thousands
 - **1997 violence**: A second wave of Rift Valley violence erupted during the 1997 presidential election campaign, again targeting Kikuyu settlers and internally displacing over 75,000 people
 - **2007-2008 violence**: Post-election violence (following the disputed Kibaki-Raila election) included major Kalenjin attacks on Kikuyu in the Rift Valley, killing thousands and displacing hundreds of thousands
 - **Cumulative toll**: Since 1992, Rift Valley violence has killed approximately 5,000 people and displaced 75,000-300,000 (exact figures disputed)

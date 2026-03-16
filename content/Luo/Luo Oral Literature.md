@@ -51,7 +51,7 @@ Efforts to document and preserve oral literature exist. Scholars record stories 
 
 ## Sources
 
-1. Kipury, N. (1983). Oral Literature of [[../Maasai/Maasai|Maasai]]. Heinemann Kenya. https://www.worldcat.org/title/oral-literature-of-the-maasai/oclc/11768206
+1. Kipury, N. (1983). Oral Literature of [[Maasai|Maasai]]. Heinemann Kenya. https://www.worldcat.org/title/oral-literature-of-the-maasai/oclc/11768206
 
 2. Atieno Odhiambo, E. S. (1990). Siaya: The Historical Anthropology of an African Landscape. James Currey Publishers, Oxford. https://www.worldcat.org/title/siaya-the-historical-anthropology-of-an-african-landscape/oclc/21084547
 

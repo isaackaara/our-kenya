@@ -28,7 +28,7 @@ Lake Natron in northern Tanzania is a highly alkaline lake used by Maasai pastor
 
 ## Lake Magadi: Water Level Decline
 
-Lake Magadi in Kenya's Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] ecosystem is an alkaline lake that was historically important for pastoral water. The lake has experienced declining water levels, reflecting both climate change impacts on regional precipitation and upstream water extraction. Lake level decline reduces water availability during droughts and affects the aquatic ecology of the lake.
+Lake Magadi in Kenya's Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] ecosystem is an alkaline lake that was historically important for pastoral water. The lake has experienced declining water levels, reflecting both climate change impacts on regional precipitation and upstream water extraction. Lake level decline reduces water availability during droughts and affects the aquatic ecology of the lake.
 
 ## Pastoral System Adaptation
 
@@ -70,12 +70,12 @@ Maasai development strategies must account for climate change impacts. Developme
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

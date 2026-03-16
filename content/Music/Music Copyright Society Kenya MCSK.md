@@ -12,20 +12,20 @@ The fundamental problem MCSK embodies is trust collapse. Even when the organizat
 
 Alternative collection mechanisms have struggled to gain traction. The Performers Rights Society of Kenya and the Kenya Association of Music Producers exist alongside MCSK, creating potential competition but also fragmentation that confuses both artists and businesses required to pay royalties. Some artists have attempted direct licensing, negotiating individually with venues and media outlets, but this approach only works for high-profile musicians with leverage and resources to enforce agreements.
 
-The international dimensions complicate matters further. Kenyan music played internationally should generate royalties collected by foreign collecting societies and remitted to MCSK for distribution to Kenyan rights holders. But if MCSK lacks proper licensing or credibility with international partners, these revenue streams may not flow properly. [[Music/Sauti Sol|Sauti Sol]]'s international success, [[Music/Diaspora Kenyan Music|diaspora consumption]] of Kenyan music, and [[Music/Music Streaming and Kenyan Artists|streaming]] platforms' global reach all create royalty obligations that require functional collection infrastructure.
+The international dimensions complicate matters further. Kenyan music played internationally should generate royalties collected by foreign collecting societies and remitted to MCSK for distribution to Kenyan rights holders. But if MCSK lacks proper licensing or credibility with international partners, these revenue streams may not flow properly. [[Sauti Sol|Sauti Sol]]'s international success, [[Diaspora Kenyan Music|diaspora consumption]] of Kenyan music, and [[Music Streaming and Kenyan Artists|streaming]] platforms' global reach all create royalty obligations that require functional collection infrastructure.
 
-The [[Presidencies/William Ruto Presidency/William Ruto Presidency|post-2022 government]] has periodically signaled interest in copyright reform and better protection for artists, but concrete action has been limited. Political will to fix MCSK's dysfunction runs up against vested interests benefiting from the current chaotic system. Reforming copyright collection would require regulatory capacity, political will, and likely new legislation, all scarce commodities in Kenya's often-dysfunctional governance ecosystem.
+The [[William Ruto Presidency|post-2022 government]] has periodically signaled interest in copyright reform and better protection for artists, but concrete action has been limited. Political will to fix MCSK's dysfunction runs up against vested interests benefiting from the current chaotic system. Reforming copyright collection would require regulatory capacity, political will, and likely new legislation, all scarce commodities in Kenya's often-dysfunctional governance ecosystem.
 
 For working Kenyan musicians, MCSK's failures translate directly into lost income. A song played hundreds of times daily across Nairobi's matatus should generate meaningful royalties. Radio hits should produce sustainable income streams beyond initial performance fees. International streaming should trigger cross-border royalty flows. But in practice, most Kenyan artists see nothing, or almost nothing, from these uses of their work. The gap between theoretical copyright protection and practical royalty collection remains vast, and MCSK, rather than bridging that gap, has become its symbol.
 
 The ongoing MCSK crisis reflects broader challenges in Kenya's creative industries: weak regulatory enforcement, organizational dysfunction, power imbalances between artists and intermediaries, and persistent questions about whether institutional frameworks serve creators or extract from them. Until MCSK is fundamentally reformed or replaced with credible alternatives, Kenya's musicians will continue creating valuable work while struggling to capture fair value from it. The battle over royalties is not just about money; it is about whether Kenya's music industry can develop functional institutions that protect and empower artists rather than exploiting them.
 
 ## See Also
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
-- [[Music/Music Streaming and Kenyan Artists|Music Streaming and Kenyan Artists]]
-- [[Music/Diaspora Kenyan Music|Diaspora Kenyan Music]]
-- [[Music/Sauti Sol|Sauti Sol]]
-- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Music Streaming and Kenyan Artists|Music Streaming and Kenyan Artists]]
+- [[Diaspora Kenyan Music|Diaspora Kenyan Music]]
+- [[Sauti Sol|Sauti Sol]]
+- [[William Ruto Presidency|William Ruto Presidency]]
 - [[Corruption/Anglo Leasing|Anglo Leasing]]
 
 ## Sources

@@ -2,7 +2,7 @@ Land tenure in Marsabit County reflects complex overlaps between customary pasto
 
 Customary pastoral land tenure allocated grazing areas to communities based on historical occupation and water access. Territorial rights operated at community level rather than individual household level. Seasonal movement patterns recognised shifting resource availability. These systems sustained pastoral production for centuries.
 
-Colonial and post-colonial governments introduced individual titling, national reserves, and protected areas overlapping customary territories. Marsabit National Park, Mount Marsabit Forest Reserve, and [[../../Conservation/Lake Turkana|Lake Turkana]] Water Catchment protections restrict pastoral access to historical grazing lands.
+Colonial and post-colonial governments introduced individual titling, national reserves, and protected areas overlapping customary territories. Marsabit National Park, Mount Marsabit Forest Reserve, and [[Lake Turkana|Lake Turkana]] Water Catchment protections restrict pastoral access to historical grazing lands.
 
 The 2010 Constitution provides for both private land ownership and community rights. Devolution transferred some land management functions to county governments. Land disputes between communities, between pastoralists and protected area authorities, and between individuals claiming rights through different systems remain common.
 

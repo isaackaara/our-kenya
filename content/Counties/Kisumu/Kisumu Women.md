@@ -46,7 +46,7 @@ Women's trader associations and cooperatives provide mutual support, savings pro
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

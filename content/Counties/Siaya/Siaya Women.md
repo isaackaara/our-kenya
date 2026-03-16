@@ -1,4 +1,4 @@
-Women in [[Siaya County]] play central roles in household economy, agriculture, and community life, though they face significant constraints in accessing resources, decision-making authority, and economic opportunities. Gender relations reflect both traditional [[../../Luo/Luo|Luo]] customs and modern constitutional guarantees of gender equality.
+Women in [[Siaya County]] play central roles in household economy, agriculture, and community life, though they face significant constraints in accessing resources, decision-making authority, and economic opportunities. Gender relations reflect both traditional [[Luo|Luo]] customs and modern constitutional guarantees of gender equality.
 
 ## Economic Roles
 
@@ -26,8 +26,8 @@ Girls' education has expanded, though completion rates remain lower than boys'. 
 
 ## See Also
 
-- [[../../Luo/Luo Women's Roles|Luo Women's Roles]]
-- [[../../Luo/Luo Women in History|Luo Women in History]]
+- [[Luo Women's Roles|Luo Women's Roles]]
+- [[Luo Women in History|Luo Women in History]]
 - [[Siaya Agriculture]]
 - [[Siaya Lake Victoria Economy]]
 - [[Siaya Land Issues]]

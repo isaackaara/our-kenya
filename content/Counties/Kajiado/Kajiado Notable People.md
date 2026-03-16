@@ -2,7 +2,7 @@ Kajiado County has produced prominent Kenyans achieving distinction in politics,
 
 ## Political Leadership
 
-Kajiado has produced multiple Members of Parliament and government officials who have shaped pastoral policy and national governance. Political leadership has primarily drawn from [[../../Maasai/Maasai|Maasai]] pastoral elites.
+Kajiado has produced multiple Members of Parliament and government officials who have shaped pastoral policy and national governance. Political leadership has primarily drawn from [[Maasai|Maasai]] pastoral elites.
 
 ## Conservation and Environmental Leaders
 
@@ -33,8 +33,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Politics|Kajiado Politics
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

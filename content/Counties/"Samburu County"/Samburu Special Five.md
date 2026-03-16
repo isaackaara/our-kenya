@@ -20,8 +20,8 @@ Wildlife conservation in the Samburu ecosystem focuses on protecting these disti
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Wildlife Service: Samburu Special Five Species Ecological Survey. https://www.kws.go.ke/

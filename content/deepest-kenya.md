@@ -10,7 +10,7 @@ These are not the famous stories. They are the ones that make you put your phone
 
 ---
 
-## [[Swahili/Swahili Architecture|Swahili Architecture]]
+## [[Swahili Architecture|Swahili Architecture]]
 
 The building language of the Indian Ocean coast
 
@@ -18,7 +18,7 @@ Wonder ★★★★★★★★★★  10/10
 
 ---
 
-## [[Turkana/Turkana Boy|Turkana Boy]]
+## [[Turkana Boy|Turkana Boy]]
 
 1.6 million years old, found by a lake
 
@@ -26,7 +26,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Turkana/The Cradle of Humankind|The Cradle of Humankind]]
+## [[The Cradle of Humankind|The Cradle of Humankind]]
 
 Where our species began
 
@@ -34,7 +34,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Swahili/Swahili Slavery|Swahili Slavery]]
+## [[Swahili Slavery|Swahili Slavery]]
 
 The trade route nobody talks about
 
@@ -42,7 +42,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Swahili/Fort Jesus|Fort Jesus]]
+## [[Fort Jesus|Fort Jesus]]
 
 Five empires. One fortress.
 
@@ -50,7 +50,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Religion/Zoroastrianism Kenya Ancient Traditions|Zoroastrianism and Ancient Traditions in Kenya]]
+## [[Zoroastrianism Kenya Ancient Traditions|Zoroastrianism and Ancient Traditions in Kenya]]
 
 Ancient Persian fire tradition, still practiced in Nairobi
 
@@ -58,7 +58,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Maasai/Ole_Tipis|Ole Tipis]]
+## [[Ole_Tipis|Ole Tipis]]
 
 The elder who changed everything
 
@@ -66,7 +66,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Swahili/The Indian Ocean World|The Indian Ocean World]]
+## [[The Indian Ocean World|The Indian Ocean World]]
 
 The sea that connected civilisations
 
@@ -82,7 +82,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Coast History/Beach Resorts History|Beach Resorts History]]
+## [[Beach Resorts History|Beach Resorts History]]
 
 The coast before the tourists
 
@@ -90,7 +90,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Music/Music and the 1969 Political Crisis|Music and the 1969 Political Crisis]]
+## [[Music and the 1969 Political Crisis|Music and the 1969 Political Crisis]]
 
 When music became dangerous
 
@@ -98,7 +98,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Maasai/The_Rinderpest_Catastrophe|The Rinderpest Catastrophe]]
+## [[The_Rinderpest_Catastrophe|The Rinderpest Catastrophe]]
 
 The disease that almost ended a people
 
@@ -106,7 +106,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Maasai/Eunoto_Ceremony|Eunoto Ceremony]]
+## [[Eunoto_Ceremony|Eunoto Ceremony]]
 
 The day a boy becomes a man
 
@@ -114,7 +114,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Cross-Ethnic/Urban Language Break|Urban Language Break]]
+## [[Urban Language Break|Urban Language Break]]
 
 How Sheng was born in Nairobi's estates
 
@@ -122,7 +122,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Cross-Ethnic/The Revival Movement|The Revival Movement]]
+## [[The Revival Movement|The Revival Movement]]
 
 The spiritual wave that crossed every tribe
 
@@ -130,7 +130,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Music/FM Radio Revolution Kenya 1990s|FM Radio Revolution]]
+## [[FM Radio Revolution Kenya 1990s|FM Radio Revolution]]
 
 How FM radio cracked open Kenyan culture
 
@@ -138,7 +138,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Literature/Agitprop Theater Drama|Agitprop Theater and Drama]]
+## [[Agitprop Theater Drama|Agitprop Theater and Drama]]
 
 Theatre as resistance
 
@@ -146,7 +146,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Asians/Indian Labourers and the Railway|Indian Labourers and the Railway]]
+## [[Indian Labourers and the Railway|Indian Labourers and the Railway]]
 
 The men who built the Lunatic Express and never went home
 
@@ -154,7 +154,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Somali/Kenyan Somali and the Post-1991 Somalia Collapse|Kenyan Somali and the Post-1991 Somalia Collapse]]
+## [[Kenyan Somali and the Post-1991 Somalia Collapse|Kenyan Somali and the Post-1991 Somalia Collapse]]
 
 What happens to a diaspora when home disappears
 

@@ -1,10 +1,10 @@
-The [[../Conservation/Aberdare National Park|Aberdare]] mountain range, called Nyandarua in Gikuyu, is a critical highland ecosystem located above Nyeri and Murang'a. The Aberdares served as base for Mau Mau forest fighters during the Emergency and continue to function as water tower and wildlife habitat. The range exemplifies Kikuyu sacred geography and ecological significance.
+The [[Aberdare National Park|Aberdare]] mountain range, called Nyandarua in Gikuyu, is a critical highland ecosystem located above Nyeri and Murang'a. The Aberdares served as base for Mau Mau forest fighters during the Emergency and continue to function as water tower and wildlife habitat. The range exemplifies Kikuyu sacred geography and ecological significance.
 
 ## Geography and Physical Features
 
 The Aberdare range runs north to south above the Kikuyu highlands. The mountains reach approximately 3,994 meters (13,104 feet) at the highest peaks. The range receives substantial rainfall, with forested slopes and moorland above the forest belt.
 
-Multiple rivers originate in [[../Conservation/Aberdare National Park|Aberdare]], flowing down to supply water to surrounding lowlands. These rivers are critical water sources for communities below.
+Multiple rivers originate in [[Aberdare National Park|Aberdare]], flowing down to supply water to surrounding lowlands. These rivers are critical water sources for communities below.
 
 The range was named after Lord Aberdare by colonial administrators. The Gikuyu name Nyandarua persists in Kikuyu usage.
 
@@ -16,7 +16,7 @@ The national park provides space for wildlife including elephants, buffalo, leop
 
 ## Mau Mau Base
 
-During the Mau Mau Uprising (1952-1960), [[../Conservation/Aberdare National Park|Aberdare]] served as base for Mau Mau forest fighters. The forest provided concealment and defensive advantage. Fighters organized guerrilla operations from Aberdare forests.
+During the Mau Mau Uprising (1952-1960), [[Aberdare National Park|Aberdare]] served as base for Mau Mau forest fighters. The forest provided concealment and defensive advantage. Fighters organized guerrilla operations from Aberdare forests.
 
 The British counter-insurgency operations targeted Aberdare forests, conducting sweeps and establishing military positions to prevent Mau Mau operations. The forests were bombed and ravaged during counter-insurgency operations.
 
@@ -42,7 +42,7 @@ Communities in surrounding areas use Aberdare resources including water, collect
 
 ## Kikuyu Sacred Connections
 
-The Aberdares, like [[../Conservation/Mount Kenya National Park|Mount Kenya]], have spiritual significance in Kikuyu cosmology. The mountains are connected to traditional Kikuyu spiritual practices and are understood as part of Kikuyu sacred landscape.
+The Aberdares, like [[Mount Kenya National Park|Mount Kenya]], have spiritual significance in Kikuyu cosmology. The mountains are connected to traditional Kikuyu spiritual practices and are understood as part of Kikuyu sacred landscape.
 
 ## Climate and Ecosystem Changes
 

@@ -18,7 +18,7 @@ Venture capital investment in Nairobi's tech sector has grown substantially, wit
 
 ## Linkage to Corporate Kenya
 
-See [[../../Corporate Kenya/Silicon Savannah]] for a comprehensive overview of Kenya's technology sector and the role of Nairobi as its epicenter.
+See [[Silicon Savannah]] for a comprehensive overview of Kenya's technology sector and the role of Nairobi as its epicenter.
 
 ## Global Recognition
 
@@ -34,8 +34,8 @@ The sector faces challenges including limited access to capital for most startup
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

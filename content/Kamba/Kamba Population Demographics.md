@@ -56,19 +56,19 @@ Based on projections from census data and estimates:
 
 ### County-Level Distribution (2024)
 
-**[[../Counties/Machakos/Machakos County|Machakos County]]** (largest and wealthiest Kamba concentration):
+**[[Machakos County|Machakos County]]** (largest and wealthiest Kamba concentration):
 
 - **Estimated population**: Approximately 1,450,000 total; approximately 900,000-1,000,000 Kamba (approximately 60-70% of county)
 - **Density**: Higher than Kitui; more urbanized and wealthier
 - **Major towns**: Machakos, Athi River, Mlolongo, Kangundo
 
-**[[../Counties/Kitui/Kitui County|Kitui County]]** (more pastoral, drier):
+**[[Kitui County|Kitui County]]** (more pastoral, drier):
 
 - **Estimated population**: Approximately 1,000,000 total; approximately 700,000-800,000 Kamba (approximately 70-80% of county)
 - **Density**: Lower than Machakos; more rural
 - **Major towns**: Kitui, Mwingi, Mutomo
 
-**[[../Counties/Makueni/Makueni County|Makueni County]]** (created 2013, ethnically mixed):
+**[[Makueni County|Makueni County]]** (created 2013, ethnically mixed):
 
 - **Estimated population**: Approximately 900,000 total; approximately 250,000-350,000 Kamba (approximately 25-40% of county)
 - **Mixed population**: Significant Maasai, Samburu, and other populations

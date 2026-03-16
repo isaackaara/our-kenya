@@ -18,7 +18,7 @@ The parastatal sector also demonstrated how Moi's regime operated through patron
 [[Kenya/Parastatals]]
 [[Moi Economic Policy 1978-1990]]
 [[Structural Adjustment Programs Kenya]]
-[[Corruption/Kenya]]
+[[Kenya]]
 [[Kenya/Infrastructure Development]]
 [[Moi and International Donors]]
 

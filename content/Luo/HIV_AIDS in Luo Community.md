@@ -2,13 +2,13 @@
 title: HIV AIDS in Luo Community
 ---
 
-[[../Counties/Homa Bay/Homa Bay County|Homa Bay County]] and Siaya counties have among Kenya's highest HIV prevalence rates, ranging from 13 to 28 percent among adults in hyper-endemic areas, compared to the national average of roughly 5 percent. The cultural practices cited as risk factors (levirate marriage, widow inheritance, sexual cleansing ceremonies) carry particular scrutiny. Yet the epidemic's complex causation involves poverty, health system weakness, mobile populations, and partner dynamics, not merely cultural practice. Community health responses, stigma reduction, and progress since the early 2000s have occurred, yet the burden remains severe.
+[[Homa Bay County|Homa Bay County]] and Siaya counties have among Kenya's highest HIV prevalence rates, ranging from 13 to 28 percent among adults in hyper-endemic areas, compared to the national average of roughly 5 percent. The cultural practices cited as risk factors (levirate marriage, widow inheritance, sexual cleansing ceremonies) carry particular scrutiny. Yet the epidemic's complex causation involves poverty, health system weakness, mobile populations, and partner dynamics, not merely cultural practice. Community health responses, stigma reduction, and progress since the early 2000s have occurred, yet the burden remains severe.
 
 ## Epidemiology and Geography
 
 Luo regions bear a disproportionate share of Kenya's HIV burden. As of 2023, [[../Counties/Kisumu/Kisumu County|Kisumu County]] had 128,091 people living with HIV; Homa Bay had 120,600; and Siaya had 96,297. These three counties together account for significant portions of Kenya's total 1.4 million people living with HIV.
 
-The high prevalence concentrates in fishing communities around [[../Conservation/Lake Victoria Kenya|Lake Victoria]], where mobile populations, transactional sex, and limited health access intersect.
+The high prevalence concentrates in fishing communities around [[Lake Victoria Kenya|Lake Victoria]], where mobile populations, transactional sex, and limited health access intersect.
 
 ## Risk Factors and Cultural Practices
 

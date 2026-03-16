@@ -12,8 +12,8 @@ NGO coordination forums attempt to align activities and reduce duplication. Coun
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/ngos-west-pokot
 2. https://www.globalpeaceinitiative.org/regions/west-pokot-organizations

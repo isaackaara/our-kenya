@@ -14,7 +14,7 @@ Digital transformation affected Sunday Nation alongside other print publications
 [[Print Journalism Digital]]
 [[Taifa Leo Swahili Press]]
 [[Media Ownership Control]]
-[[Presidencies/Jomo Kenyatta]]
+[[Jomo Kenyatta]]
 
 ## Sources
 1. https://www.nationmedia.com/who-we-are/history/

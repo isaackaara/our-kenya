@@ -290,7 +290,7 @@ Potential solutions include:
 ## Sources
 
 1. Heine, Bernd. *Status and Use of African Lingua Francas* (Siegfried Müller, 1970), comparative analysis of African languages and oral traditions, https://www.siemenmuller.com/
-2. Kipury, Naomi. *Oral Literature of [[../Maasai/Maasai|Maasai]]* (East African Educational Publishers, 1983), methodology applicable to Kamba oral literature documentation, https://www.eastafricanpublishers.com/
+2. Kipury, Naomi. *Oral Literature of [[Maasai|Maasai]]* (East African Educational Publishers, 1983), methodology applicable to Kamba oral literature documentation, https://www.eastafricanpublishers.com/
 3. Mathu, Namu. "Oral Traditions and Cultural Memory in East Africa," *Journal of Eastern African Studies*, Vol. 15, No. 2 (2021), pages 234-251, https://www.tandfonline.com/doi/abs/10.1080/17531055.2021.1900123
 4. Waterman, Richard A. "African Influence on the Music of the Americas," in *Acculturation in the Americas* (edited by Tax, 1952), foundational work on African cultural transmission, https://www.amanatculturalpress.org/
 5. Cosentino, Donald J. (editor). *Sacred Arts of Haitian Vodou* (UCLA Fowler Museum of Cultural History, 1995), comparative approach to documentation of African diaspora and African oral traditions, https://www.fowler.ucla.edu/

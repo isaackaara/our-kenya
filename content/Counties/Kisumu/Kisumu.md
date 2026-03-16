@@ -62,7 +62,7 @@ Kisumu sits at Lake Victoria's edge in a warm, humid climate. The lakeside locat
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

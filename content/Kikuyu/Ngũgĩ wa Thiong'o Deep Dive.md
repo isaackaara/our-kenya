@@ -53,7 +53,7 @@ Ngũgĩ wa Thiong'o represents Kikuyu intellectual excellence and the Kikuyu con
 His commitment to writing in Gikuyu and to decolonial thought represents a model of cultural commitment that prioritizes the liberation and dignity of African peoples.
 
 ---
-**See Also:** [[../Legacy/Decolonising the Mind]], [[Nairobi and the Kikuyu Diaspora]], [[Kikuyu Benga and Pop]]
+**See Also:** [[Decolonising the Mind]], [[Nairobi and the Kikuyu Diaspora]], [[Kikuyu Benga and Pop]]
 
 ## See Also
 
@@ -63,5 +63,5 @@ His commitment to writing in Gikuyu and to decolonial thought represents a model
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 

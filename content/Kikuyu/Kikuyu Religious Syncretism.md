@@ -3,7 +3,7 @@
 ## Pre-Colonial Kikuyu Spirituality
 
 ### Ngai (God) and Sacred Geography
-Pre-colonial Kikuyu spirituality centered on Ngai, understood as the supreme creator and force. Ngai was associated with [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga), the sacred mountain where Kikuyu made sacrificial offerings and sought Ngai's blessing.
+Pre-colonial Kikuyu spirituality centered on Ngai, understood as the supreme creator and force. Ngai was associated with [[Mount Kenya National Park|Mount Kenya]] (Kirinyaga), the sacred mountain where Kikuyu made sacrificial offerings and sought Ngai's blessing.
 
 Sacred groves and the mugumo tree (fig tree) were sites of ritual activity and community gathering. Kikuyu spiritual specialists (diviners, ritual leaders, healers) maintained relationships with the spiritual world on behalf of communities.
 

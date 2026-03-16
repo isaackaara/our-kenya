@@ -9,8 +9,8 @@ School infrastructure in rural areas is often inadequate, with limited facilitie
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Education|Education]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Education|Education]]
 ## Sources
 1. https://www.education.go.ke/statistics-and-reports
 2. https://www.standardmedia.co.ke/counties/article/2001234567/education-challenges-transnzoia

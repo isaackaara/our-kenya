@@ -42,7 +42,7 @@ Solutions proposed include leak reduction in distribution networks, increased tr
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

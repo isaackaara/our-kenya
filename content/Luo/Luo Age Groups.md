@@ -26,7 +26,7 @@ Age grades determined military organisation. Warriors formed the fighting force.
 
 ## Comparison with Other Nilotic Systems
 
-[[../Kikuyu/Kikuyu|Kikuyu]] had similar age-set systems (*rika*). [[../Kalenjin/Kalenjin|Kalenjin]] also employed age sets. Yet the specifics varied. The Luo *doho* system was not as formalised as some highland systems. Age-mates did not undergo identical initiations together (since *nak* could occur across several years). Yet the principle that age created persistent social units was strong.
+[[Kikuyu|Kikuyu]] had similar age-set systems (*rika*). [[Kalenjin|Kalenjin]] also employed age sets. Yet the specifics varied. The Luo *doho* system was not as formalised as some highland systems. Age-mates did not undergo identical initiations together (since *nak* could occur across several years). Yet the principle that age created persistent social units was strong.
 
 ## Contemporary Status
 

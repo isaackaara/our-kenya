@@ -42,7 +42,7 @@ Kisumu's industrial sector has potential for expansion and productivity improvem
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

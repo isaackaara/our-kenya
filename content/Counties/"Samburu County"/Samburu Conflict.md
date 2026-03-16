@@ -22,8 +22,8 @@ National policy frameworks including the National Cohesion and Integration Commi
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. UN Office for the Coordination of Humanitarian Affairs: Samburu County Conflict Report 2023. https://www.unocha.org/

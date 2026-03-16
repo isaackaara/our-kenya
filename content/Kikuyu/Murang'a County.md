@@ -2,7 +2,7 @@ Murang'a County, formerly known as Muranga District and historically as Fort Hal
 
 ## Geography and Location
 
-Murang'a County spans approximately 2,325 square kilometers in the central highlands. The county lies east of [[../Conservation/Aberdare National Park|Aberdare]] range and south of the equator. Murang'a town, the county seat, serves as the commercial and administrative center. The county's terrain includes fertile agricultural land, river valleys, and highland areas suitable for tea and coffee production.
+Murang'a County spans approximately 2,325 square kilometers in the central highlands. The county lies east of [[Aberdare National Park|Aberdare]] range and south of the equator. Murang'a town, the county seat, serves as the commercial and administrative center. The county's terrain includes fertile agricultural land, river valleys, and highland areas suitable for tea and coffee production.
 
 ## Colonial History and the Fort Hall Name
 
@@ -46,7 +46,7 @@ Under Kenya's 2010 constitution, Murang'a became an autonomous county with an el
 ### Governor Irungu Kang'ata
 Irungu Kang'ata was elected governor of Murang'a County in 2022. Kang'ata is a prominent Kikuyu politician who previously served as a senator representing Murang'a. He gained national attention when he publicly broke with President Uhuru Kenyatta in 2021, opposing Kenyatta's political handshake with opposition leader Raila Odinga.
 
-Kang'ata's political trajectory reflects broader Kikuyu political dynamics and changing alliances within the [[../Conservation/Mount Kenya National Park|Mount Kenya]] region. His 2022 gubernatorial victory demonstrated continued Kikuyu voter enthusiasm for locally-rooted leaders.
+Kang'ata's political trajectory reflects broader Kikuyu political dynamics and changing alliances within the [[Mount Kenya National Park|Mount Kenya]] region. His 2022 gubernatorial victory demonstrated continued Kikuyu voter enthusiasm for locally-rooted leaders.
 
 ## Land and Historical Consciousness
 
@@ -75,7 +75,7 @@ Murang'a remains strongly Kikuyu in culture and language. The Kikuyu language is
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

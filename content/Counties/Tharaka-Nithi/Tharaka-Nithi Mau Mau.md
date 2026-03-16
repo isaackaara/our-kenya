@@ -16,8 +16,8 @@ The rebellion was effectively suppressed by 1956, though fighting continued unti
 [[Chuka Mwimbi People|Chuka Mwimbi People]]
 [[Tharaka-Nithi Colonial History|Tharaka-Nithi Colonial History]]
 [[Tharaka-Nithi Politics|Tharaka-Nithi Politics]]
-[[../../Political/Mau Mau Uprising|Mau Mau Uprising]]
-[[../../Counties/Meru County|Meru County]]
+[[Mau Mau Uprising|Mau Mau Uprising]]
+[[Meru County|Meru County]]
 
 ## Sources
 

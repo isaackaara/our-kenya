@@ -12,7 +12,7 @@ Conflict involvement represents a concerning risk. Youth with limited opportunit
 
 Development programmes targeting youth skills training, entrepreneurship support, and employment generation operate with mixed results due to funding constraints and programme design challenges. Government and NGO initiatives attempt to provide pathways out of unemployment.
 
-The [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power project creates some employment opportunities for skilled and unskilled workers, though benefits distribution remains contested.
+The [[Lake Turkana|Lake Turkana]] Wind Power project creates some employment opportunities for skilled and unskilled workers, though benefits distribution remains contested.
 
 Social services addressing youth mental health and substance abuse remain underdeveloped.
 
@@ -20,7 +20,7 @@ Social services addressing youth mental health and substance abuse remain underd
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Youth|Youth]]
+[[Marsabit Youth|Youth]]
 ## Sources
 
 1. Kenya National Youth Service: Youth Employment Survey, Northern Regions 2022. https://www.nysc.go.ke/

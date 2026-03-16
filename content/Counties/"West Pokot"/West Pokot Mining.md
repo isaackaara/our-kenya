@@ -12,8 +12,8 @@ Mining income supplements pastoral and agricultural livelihoods in mineral-rich 
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/mining-west-pokot
 2. https://www.icmm.com/en-gb/news/media-releases/2020/mining-in-kenya

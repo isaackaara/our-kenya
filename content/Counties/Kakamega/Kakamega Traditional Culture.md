@@ -1,4 +1,4 @@
-Kakamega [[../../Luhya/Luhya|Luhya]] communities maintain distinctive cultural traditions including initiation practices, marriage customs, funeral practices, and social hierarchies adapted across time. Traditional culture reflects both pre-colonial heritage and adaptations to colonial and post-colonial contexts. Cultural practices persist alongside contemporary modernization, with varying degrees of continuation and transformation across different communities and age groups.
+Kakamega [[Luhya|Luhya]] communities maintain distinctive cultural traditions including initiation practices, marriage customs, funeral practices, and social hierarchies adapted across time. Traditional culture reflects both pre-colonial heritage and adaptations to colonial and post-colonial contexts. Cultural practices persist alongside contemporary modernization, with varying degrees of continuation and transformation across different communities and age groups.
 
 ## Initiation Practices
 
@@ -27,7 +27,7 @@ Younger generations navigate between traditional cultural practices and contempo
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

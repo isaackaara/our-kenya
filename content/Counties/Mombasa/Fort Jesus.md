@@ -32,7 +32,7 @@ The fort is architecturally significant as an example of European fortification 
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

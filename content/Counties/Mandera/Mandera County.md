@@ -1,4 +1,4 @@
-Mandera County is Kenya's most remote and least-developed county, occupying the northeastern corner where Kenya, Somalia, and Ethiopia converge at a tri-border point. With a population of approximately 900,000 and predominantly [[../../Somali/Somali|Somali]] communities (particularly Degodia and Garre clans), Mandera represents one of Kenya's most challenging administrative regions. The county's extreme remoteness, arid environment, chronic food insecurity, and significant security challenges related to Al-Shabaab activities make development particularly difficult.
+Mandera County is Kenya's most remote and least-developed county, occupying the northeastern corner where Kenya, Somalia, and Ethiopia converge at a tri-border point. With a population of approximately 900,000 and predominantly [[Somali|Somali]] communities (particularly Degodia and Garre clans), Mandera represents one of Kenya's most challenging administrative regions. The county's extreme remoteness, arid environment, chronic food insecurity, and significant security challenges related to Al-Shabaab activities make development particularly difficult.
 
 ## Geography and Location
 
@@ -8,7 +8,7 @@ The landscape consists almost entirely of arid plains with minimal vegetation. T
 
 ## People and Culture
 
-Mandera's population is predominantly Somali, with the Degodia and Garre clans representing the largest groups. These pastoral communities maintain strong cultural identity centered on livestock herding, Islamic faith, and clan structures. The [[../../Somali/Somali|Somali]] language is primary, with Arabic and increasingly English and Swahili used alongside Somali.
+Mandera's population is predominantly Somali, with the Degodia and Garre clans representing the largest groups. These pastoral communities maintain strong cultural identity centered on livestock herding, Islamic faith, and clan structures. The [[Somali|Somali]] language is primary, with Arabic and increasingly English and Swahili used alongside Somali.
 
 Islamic practice is central to community life, with mosques serving as religious and community centers. Traditional pastoral knowledge and practices remain important despite modern pressures and economic change.
 
@@ -67,7 +67,7 @@ This vertical contains 30 detailed notes covering Mandera County across its geog
 
 ## See Also
 
-- [[../../Somali/Somali]]
+- [[Somali]]
 - [[../../Somali/Somali Clans]]
 - [[Mandera Town]]
 - [[Mandera Pastoralism]]

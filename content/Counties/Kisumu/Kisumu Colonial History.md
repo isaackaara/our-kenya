@@ -42,7 +42,7 @@ Colonial authorities suppressed nationalist political activity and organized res
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

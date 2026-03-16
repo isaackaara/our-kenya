@@ -1,4 +1,4 @@
-Kajiado women, predominantly from [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] community, have maintained distinctive economic and social roles centered on household management, livestock care, and increasingly contemporary income-generating activities, while navigating cultural constraints and expanding opportunities.
+Kajiado women, predominantly from [[Maasai|Maasai]]/Maasai|Maasai]] community, have maintained distinctive economic and social roles centered on household management, livestock care, and increasingly contemporary income-generating activities, while navigating cultural constraints and expanding opportunities.
 
 ## Traditional Economic Roles
 
@@ -30,7 +30,7 @@ Female genital cutting remains practiced despite legal prohibition and advocacy 
 
 ## Cross-References
 
-See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], [[../../Maasai/Maasai|Maasai]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], [[Maasai|Maasai]]
 
 
 ## See Also
@@ -39,8 +39,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], 
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

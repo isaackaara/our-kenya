@@ -64,8 +64,8 @@ Community figures include:
 - [[Bomet Politics|Politics]]
 - [[Bomet Agriculture|Agriculture]]
 - [[Bomet Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Library Service (2023). "Notable People by County". https://www.nls.or.ke

@@ -14,11 +14,11 @@ Several factors constrain Maasai school enrollment. Poverty is a primary constra
 
 Maasai communities' pastoral lifestyle necessitates boarding schools. Pastoral families move seasonally with their herds, making daily school attendance impossible. Therefore, most Maasai students attend boarding schools where they live during school terms (typically 3 months per term). Boarding school education removes students from pastoral training and family responsibilities but ensures regular school attendance despite pastoral mobility.
 
-## Schools in [[../Counties/Narok/Narok County|Narok County]]
+## Schools in [[Narok County|Narok County]]
 
 Narok County has numerous secondary schools, ranging from national schools (centralized, highly competitive, high-quality) to district and private schools (more accessible, variable quality). Prominent schools include Narok High School, Narok School (mixed), and various private institutions. These schools serve Narok County and surrounding regions, drawing students from pastoral and agricultural backgrounds. Quality and resources vary significantly between schools.
 
-## Schools in [[../Counties/Kajiado/Kajiado County|Kajiado County]]
+## Schools in [[Kajiado County|Kajiado County]]
 
 Kajiado County schools include both Nairobi-adjacent schools (influenced by urban development) and rural pastoral schools. Kajiado High School and other county schools serve the pastoral population. The proximity to Nairobi means that some Kajiado families send children to Nairobi schools, creating educational stratification based on wealth. Rural pastoral families often send children to boarding schools within Kajiado, though educational quality is sometimes limited.
 
@@ -78,12 +78,12 @@ Maasai communities need education systems that: (1) improve quality to ensure ge
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

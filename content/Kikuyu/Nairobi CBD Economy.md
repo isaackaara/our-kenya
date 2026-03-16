@@ -62,7 +62,7 @@ This culture is not unique to Kikuyu but is particularly developed and transmitt
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

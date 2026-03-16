@@ -8,7 +8,7 @@ Work songs and herding songs constitute important traditional categories. Somali
 
 Wedding music represents another major category, with multi-day celebrations featuring elaborate musical performances. Women perform dances called niiko and batar characterized by vigorous shoulder shaking and hip movements, their performances both celebrating the bride and displaying female vitality and fertility. Men perform dhaanto, energetic jumping dances resembling the athletic performances of [[Maasai/Maasai Age-Grade System|Maasai]] warriors. The wedding songs address themes of marriage, family alliances, and relationships between clans, their lyrics sometimes encoding political messages about inter-clan relations that the wedding symbolizes.
 
-The Somali civil war beginning in 1991 profoundly affected Somali music in Kenya. Hundreds of thousands of Somali refugees fled to Kenya, particularly to sprawling camps in Dadaab and Kakuma but also to Nairobi, bringing musicians and musical practices from Somalia proper. This influx revitalized Somali musical life in Kenya while also creating new fusion forms as Somali musicians encountered Kenyan popular music. Some Somali-Kenyan artists blend traditional heeso with Kenyan genres like [[Music/Luo Benga Origins|benga]], creating hybrid sounds that appeal to both Somali and non-Somali audiences.
+The Somali civil war beginning in 1991 profoundly affected Somali music in Kenya. Hundreds of thousands of Somali refugees fled to Kenya, particularly to sprawling camps in Dadaab and Kakuma but also to Nairobi, bringing musicians and musical practices from Somalia proper. This influx revitalized Somali musical life in Kenya while also creating new fusion forms as Somali musicians encountered Kenyan popular music. Some Somali-Kenyan artists blend traditional heeso with Kenyan genres like [[Luo Benga Origins|benga]], creating hybrid sounds that appeal to both Somali and non-Somali audiences.
 
 Contemporary Somali music in Kenya exists in complex relationship with global Somali culture. Artists in Mogadishu, Hargeisa (Somaliland), and the diaspora in Europe, North America, and the Middle East produce music that circulates via satellite television, YouTube, and streaming platforms, reaching Somali communities in Kenya almost instantaneously. This creates musical communities transcending national boundaries, with Somali-Kenyans participating in musical conversations spanning the entire Somali-speaking world. Young Somali-Kenyans might feel more connection to musicians in London or Minneapolis than to their Kikuyu or Luo fellow Kenyan citizens, reflecting the complex, sometimes ambivalent relationship between Somali communities and the Kenyan state.
 
@@ -21,12 +21,12 @@ Islamic revival movements in Somali communities have created tensions around mus
 The future of Somali music in Kenya depends partly on whether Somali-Kenyans become more integrated into national life or remain marginalized and oriented toward Somalia and the global Somali diaspora. If integration proceeds, Somali music might achieve greater visibility in Kenyan popular culture, contributing distinctive elements to the national soundscape. If marginalization persists, Somali music will likely continue thriving primarily within Somali communities, its richness and sophistication unknown to most other Kenyans. Either way, the music will continue serving crucial functions within Somali communities, preserving linguistic heritage, articulating social concerns, and maintaining cultural identity under challenging circumstances.
 
 ## See Also
-- [[Music/Turkana Music and Dance]]
-- [[Swahili/Swahili Civilization Overview]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
+- [[Turkana Music and Dance]]
+- [[Swahili Civilization Overview]]
+- [[Music and Pre-Christian Religion Kenya]]
 - [[Cross-Ethnic/Somali Integration Debates]]
-- [[Music/Women's Music Traditions Kenya]]
-- [[Music/Work Songs and Agricultural Music Kenya]]
+- [[Women's Music Traditions Kenya]]
+- [[Work Songs and Agricultural Music Kenya]]
 
 ## Sources
 1. Samatar, Said S. Oral Poetry and Somali Nationalism: The Case of Sayyid Mahammad 'Abdille Hasan. Cambridge: Cambridge University Press, 1982.

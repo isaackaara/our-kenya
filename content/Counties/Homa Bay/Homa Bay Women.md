@@ -34,8 +34,8 @@ Women's groups and savings associations provide platforms for collective action 
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Human Rights Watch. (2019). Kenya: Women's Rights. https://www.hrw.org/

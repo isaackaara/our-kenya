@@ -9,7 +9,7 @@ Wheat flour is a staple in Kenyan diets, used for bread, pastries, and other foo
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.feedthefuture.gov/article/wheat-production-kenya
 2. https://www.aljazeera.com/features/2021/8/2/how-farmers-in-kenya-are-adapting-to-climate-change

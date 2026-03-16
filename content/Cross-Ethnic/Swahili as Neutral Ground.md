@@ -47,4 +47,4 @@ The tension remains unresolved.
 
 ## Related
 
-[[../Swahili/Swahili Origins]] | [[../Kikuyu/Ngugi wa Thiong'o]] | [[../Legacy/Language Politics]]
+[[../Swahili/Swahili Origins]] | [[../Kikuyu/Ngugi wa Thiong'o]] | [[Language Politics]]

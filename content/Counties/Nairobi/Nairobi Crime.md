@@ -10,7 +10,7 @@ Vehicle theft and carjacking have been problems in Nairobi, with organized gangs
 
 ## Gang Activity
 
-Nairobi has numerous criminal gangs, some with ethnic or neighborhood-based identities. The Gaza gang, traditionally a [[../../Somali/Somali|Somali]]-based criminal organization, has been involved in robbery, mugging, and drug trafficking. The Mungiki, a [[../../Kikuyu/Kikuyu|Kikuyu]]-based group, has been involved in extortion and violence. Gang violence occasionally erupts into turf wars and public violence.
+Nairobi has numerous criminal gangs, some with ethnic or neighborhood-based identities. The Gaza gang, traditionally a [[Somali|Somali]]-based criminal organization, has been involved in robbery, mugging, and drug trafficking. The Mungiki, a [[Kikuyu|Kikuyu]]-based group, has been involved in extortion and violence. Gang violence occasionally erupts into turf wars and public violence.
 
 ## Drug Trafficking
 
@@ -38,8 +38,8 @@ The Kenya Police Service faces resource constraints, corruption allegations, and
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

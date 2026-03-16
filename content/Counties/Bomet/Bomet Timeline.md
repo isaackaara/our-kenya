@@ -88,8 +88,8 @@ This timeline documents major events in Bomet County history from colonial times
 - [[Bomet Politics|Politics]]
 - [[Bomet Agriculture|Agriculture]]
 - [[Bomet Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Bomet County Government (2023). "County History and Development Records". https://www.bometcounty.go.ke

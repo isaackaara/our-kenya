@@ -7,7 +7,7 @@ Use of traditional oathing ceremonies to maintain Kikuyu political unity.
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu Livestock Tradition]]
+- [[Kikuyu Livestock Tradition]]
 
 ## Sources
 *To be added*

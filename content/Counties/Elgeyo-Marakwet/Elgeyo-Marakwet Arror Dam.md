@@ -2,12 +2,12 @@ The Arror Dam represents a controversial water infrastructure project in Elgeyo-
 
 However, the projects proceeded without actual dam construction, with government funds disbursed to contractors who failed to deliver. Investigations revealed massive corruption involving public officials, private contractors, and financial institutions. The Arror and Kimwarer Dams corruption scandal represents one of Kenya's largest infrastructure corruption cases, involving billions of public funds meant for development. No dams were constructed despite substantial government payments to supposedly responsible companies. The scandal exposed accountability gaps in Kenya's public procurement and oversight systems. Following exposure and public outcry, the government conducted investigations and initiated legal proceedings against implicated officials and contractors. The scandal damaged public trust in government capability and integrity. The unbuilt dams represent unrealized development potential for water security and irrigation in Elgeyo-Marakwet and neighbouring regions. The corruption scandal reflects broader governance challenges in Kenya's infrastructure development sector. Lessons from the Arror and Kimwarer dams include the importance of transparent procurement, active oversight, and public accountability.
 
-See also: [[../../Corruption/Arror and Kimwarer Dams]]
+See also: [[Arror and Kimwarer Dams]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

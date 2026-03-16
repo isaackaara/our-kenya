@@ -20,8 +20,8 @@ Mitigation efforts address climate change at national and global scales, though 
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. IPCC: Climate Change and Its Impacts on East Africa. Fifth Assessment Report. https://www.ipcc.ch/

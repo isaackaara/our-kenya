@@ -1,6 +1,6 @@
-David Rudisha holds the world record in the 800 meters (1:40.91, set at the London 2012 Olympics) and won the Olympic gold medal at both 2012 London and 2016 Rio Olympics. His 1:40.91 time remains one of the greatest single performances in track and field history and represents the most dominant 800-meter performance at an Olympic Games. Rudisha is [[../Maasai/Maasai|Maasai]], representing one of Kenya's major ethnic communities and one of the few Maasai who have achieved Olympic gold in athletics.
+David Rudisha holds the world record in the 800 meters (1:40.91, set at the London 2012 Olympics) and won the Olympic gold medal at both 2012 London and 2016 Rio Olympics. His 1:40.91 time remains one of the greatest single performances in track and field history and represents the most dominant 800-meter performance at an Olympic Games. Rudisha is [[Maasai|Maasai]], representing one of Kenya's major ethnic communities and one of the few Maasai who have achieved Olympic gold in athletics.
 
-Rudisha was born in 1988 in the Maasai community in Kenya's Rift Valley region. While the [[../Kalenjin/Kalenjin|Kalenjin]] have dominated Kenya's distance running at longer distances (5000 meters and above), Rudisha emerged as Kenya's greatest middle-distance specialist (800 meters). He grew up running from childhood and emerged as a promising junior runner in the early 2000s.
+Rudisha was born in 1988 in the Maasai community in Kenya's Rift Valley region. While the [[Kalenjin|Kalenjin]] have dominated Kenya's distance running at longer distances (5000 meters and above), Rudisha emerged as Kenya's greatest middle-distance specialist (800 meters). He grew up running from childhood and emerged as a promising junior runner in the early 2000s.
 
 By 2007, Rudisha was competing at international level in 800-meter races. His early performances showed capability but not dominance. However, over the next few years, Rudisha improved dramatically. Working with his coach Renato Canova (an Italian coach based in Kenya), Rudisha refined his training methodology and tactical approach. The combination of genetic predisposition, altitude training, quality coaching, and personal dedication produced remarkable results.
 
@@ -16,7 +16,7 @@ At the 2016 Rio Olympics, Rudisha won the gold medal again, though his time (1:4
 
 However, Rudisha's career also experienced injury and decline. After 2016, he struggled with injuries and was unable to compete at his previous level. He did not compete at the 2020 Olympics (held in 2021 due to COVID delay). His peak was extraordinary but relatively brief, spanning from 2008-2016 with his greatest achievement coming at 2012.
 
-Rudisha's legacy is secured as the world record holder and two-time Olympic champion in the 800 meters. He represents Kenya's capability in middle-distance running and, as a [[../Maasai/Maasai|Maasai]] athlete, contributed to broadening Kenya's athletic legacy beyond the [[../Kalenjin/Kalenjin|Kalenjin]] dominance in distance running.
+Rudisha's legacy is secured as the world record holder and two-time Olympic champion in the 800 meters. He represents Kenya's capability in middle-distance running and, as a [[Maasai|Maasai]] athlete, contributed to broadening Kenya's athletic legacy beyond the [[Kalenjin|Kalenjin]] dominance in distance running.
 
 ## See Also
 

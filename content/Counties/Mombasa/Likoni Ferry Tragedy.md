@@ -43,7 +43,7 @@ Ferry passengers are predominantly lower-income residents who cannot afford car 
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

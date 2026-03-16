@@ -8,7 +8,7 @@ Karen's large plots, surrounded by gardens and shaded by acacia and cedar trees,
 
 ## Langata: The Southern Reserve
 
-Langata, adjacent to Karen, developed similarly as a low-density European residential area. The neighborhood's proximity to the [[../../Conservation/Nairobi National Park|Nairobi National Park]] made it attractive to wildlife enthusiasts and conservationists. Langata remained less developed than Karen and more rural in character.
+Langata, adjacent to Karen, developed similarly as a low-density European residential area. The neighborhood's proximity to the [[Nairobi National Park|Nairobi National Park]] made it attractive to wildlife enthusiasts and conservationists. Langata remained less developed than Karen and more rural in character.
 
 ## Post-Independence Transition
 
@@ -24,8 +24,8 @@ Both Karen and Langata remain Nairobi's most exclusive residential areas, with l
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

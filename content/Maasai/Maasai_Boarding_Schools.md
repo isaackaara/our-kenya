@@ -12,9 +12,9 @@ This model became dominant in Maasai regions during the post-independence period
 
 ## Key Institutions
 
-**St. Jude's Illasit Secondary School** in [[../Counties/Narok/Narok County|Narok County]] is among the oldest and most respected Maasai boarding schools. Established in the 1960s, it serves boys from across the Rift Valley and has produced educated men who return to influence pastoral communities.
+**St. Jude's Illasit Secondary School** in [[Narok County|Narok County]] is among the oldest and most respected Maasai boarding schools. Established in the 1960s, it serves boys from across the Rift Valley and has produced educated men who return to influence pastoral communities.
 
-**Loitokitok Girls Secondary School** in [[../Counties/Kajiado/Kajiado County|Kajiado County]] educates young women from Maasai families. Girls' education in pastoral societies faces particular resistance: families often prefer daughters to remain home for household duties and early marriage is common. Boarding schools allow girls to complete secondary education away from immediate family pressure.
+**Loitokitok Girls Secondary School** in [[Kajiado County|Kajiado County]] educates young women from Maasai families. Girls' education in pastoral societies faces particular resistance: families often prefer daughters to remain home for household duties and early marriage is common. Boarding schools allow girls to complete secondary education away from immediate family pressure.
 
 Other major institutions include Narok School, St. Anne's Narok, and various primary boarding facilities scattered across Maasai territory. These schools operate on a typical British-influenced calendar with term breaks aligning to national holidays, not pastoral seasons.
 
@@ -50,12 +50,12 @@ Some schools have attempted to bridge divides: incorporating Maasai language ins
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

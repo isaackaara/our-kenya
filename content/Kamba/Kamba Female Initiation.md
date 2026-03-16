@@ -24,7 +24,7 @@ When Christian missionaries arrived in Kamba territories in the late 19th and 20
 
 This missionary opposition was highly effective in areas where church authority was strongest. By the mid-20th century, educated Kamba families, particularly those connected to mission churches and colonial administration, began abandoning the practice. The post-independence Kenyan government did not immediately criminalize female circumcision, but public health campaigns and gradual legislative pressure mounted through the late 20th century.
 
-In 1956, [[../Meru/Meru|Meru]] people (linguistically and culturally related to the Kamba) experienced a dramatic resistance moment: when male elders banned female circumcision, thousands of girls and young women circumcised themselves with razor blades over three years in an act of defiance, known as the *Ngaitana* ("I will circumcise myself") movement. This episode illustrates the depth of cultural attachment to the practice and the tensions between traditional autonomy and colonial/missionary pressure.
+In 1956, [[Meru|Meru]] people (linguistically and culturally related to the Kamba) experienced a dramatic resistance moment: when male elders banned female circumcision, thousands of girls and young women circumcised themselves with razor blades over three years in an act of defiance, known as the *Ngaitana* ("I will circumcise myself") movement. This episode illustrates the depth of cultural attachment to the practice and the tensions between traditional autonomy and colonial/missionary pressure.
 
 ## Legal Status and Current Practice
 

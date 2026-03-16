@@ -2,7 +2,7 @@ David Rudisha (born 1988) is an Olympic champion 800-metre runner and world reco
 
 ## Ethnic Identity: Maasai, Not Kalenjin
 
-Rudisha comes from [[../Maasai/Maasai|Maasai]] community, specifically from the Kilgoris area of Kenya where Maasai and Kalenjin communities meet. This geographic reality means that Rudisha, while ethnically Maasai, operates within and benefits from the Kalenjin-dominated running training ecosystem (particularly Iten and the Rift Valley's high-altitude zones).
+Rudisha comes from [[Maasai|Maasai]] community, specifically from the Kilgoris area of Kenya where Maasai and Kalenjin communities meet. This geographic reality means that Rudisha, while ethnically Maasai, operates within and benefits from the Kalenjin-dominated running training ecosystem (particularly Iten and the Rift Valley's high-altitude zones).
 
 This distinction is important because media coverage and popular discourse often conflate Kenyan distance running excellence with Kalenjin ethnicity, undercounting Maasai and other ethnic groups' contributions. Rudisha's success demonstrates that the running phenomenon is not ethnically bounded but is rooted in geographic, altitudinal, and infrastructural factors that transcend ethnic lines.
 

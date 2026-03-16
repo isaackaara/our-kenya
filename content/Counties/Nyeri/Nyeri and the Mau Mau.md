@@ -6,7 +6,7 @@ The Mau Mau movement emerged from Kikuyu grievances over colonial land appropria
 
 ## Forest Warfare
 
-Mau Mau fighters established forest camps in the Aberdare and [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forests, which bordered Nyeri. The dense forest provided cover for guerrilla operations. Forest fighters conducted attacks on colonial administration, settler farms, and targeted Kikuyu loyalists. The British military launched extensive counterinsurgency operations, including the use of bombers and large ground forces.
+Mau Mau fighters established forest camps in the Aberdare and [[Mount Kenya National Park|Mount Kenya]] forests, which bordered Nyeri. The dense forest provided cover for guerrilla operations. Forest fighters conducted attacks on colonial administration, settler farms, and targeted Kikuyu loyalists. The British military launched extensive counterinsurgency operations, including the use of bombers and large ground forces.
 
 ## Detention Camps
 
@@ -33,8 +33,8 @@ Mau Mau history remains central to Nyeri identity and to national Kenyan conscio
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

@@ -20,7 +20,7 @@ Contemporary Kikuyu identity integrates pre-colonial cultural heritage, colonial
 - [[Murang'a Colonial History|Colonial Period]]
 - [[Murang'a Timeline|Historical Development]]
 - [[Murang'a Women|Women's Roles]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (ethnic group)]]
+- [[Kikuyu|Kikuyu (ethnic group)]]
 
 ## Sources
 

@@ -30,7 +30,7 @@ Certain locations within Kamba territory held particular efficacy for rainmaking
 
 ## Kamba versus Kikuyu Rainmaking
 
-While [[../Kikuyu/Kikuyu|Kikuyu]] people, Kamba neighbors to the north, also practiced rainmaking ceremonies, the Kamba approach differed in certain respects. The Kikuyu rainmaking ceremony was often called the rain-making by the elders on Mount Kenya, and emphasized the role of the mountain itself as a sacred site where Mulungu (Ngai) was understood to dwell. The Kamba, lacking a dominant mountain feature in their landscape, developed rainmaking practices centered on sacred groves and trees, with the *mundu mue* as the central ritual authority.
+While [[Kikuyu|Kikuyu]] people, Kamba neighbors to the north, also practiced rainmaking ceremonies, the Kamba approach differed in certain respects. The Kikuyu rainmaking ceremony was often called the rain-making by the elders on Mount Kenya, and emphasized the role of the mountain itself as a sacred site where Mulungu (Ngai) was understood to dwell. The Kamba, lacking a dominant mountain feature in their landscape, developed rainmaking practices centered on sacred groves and trees, with the *mundu mue* as the central ritual authority.
 
 The Kamba rainmaking did not emphasize the participation of age-grade systems or warrior regiments in the same way that Kikuyu ceremonies sometimes did. Instead, Kamba rainmaking drew on the broader community and emphasized the intercessory role of ancestors. The Kamba system was also more decentralized, with different *mundu mue* and different sacred groves conducting ceremonies, whereas some Kikuyu rainmaking involved coordination across larger regions.
 

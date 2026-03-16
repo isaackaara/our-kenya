@@ -32,7 +32,7 @@ Efforts to document and preserve Lamu's cultural heritage are undertaken by loca
 - [[Lamu Architecture|Lamu Architecture]]
 - [[Lamu Tourism|Lamu Tourism]]
 - [[Bajuni People|Bajuni People]]
-- [[../../Swahili/Swahili|Swahili Culture and History]]
+- [[Swahili|Swahili Culture and History]]
 
 ## Sources
 

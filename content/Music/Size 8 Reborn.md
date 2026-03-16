@@ -1,6 +1,6 @@
 Linet Munyali's transformation from Size 8, secular genge artist discovered by producer Clemo at Calif Records, to Size 8 Reborn, gospel megastar and ordained minister, represents one of Kenya's most famous religious conversions and most successful musical reinventions. Her 2013 transition from secular to gospel music was not just a personal spiritual journey but a public performance of redemption that resonated across Kenya's complex religious landscape, demonstrating that born-again Christianity could accommodate celebrity, commerce, and cultural influence.
 
-As Size 8, she emerged during [[Music/Genge Music Origins|genge]]'s commercial peak in the mid-2000s, riding the same wave that propelled [[Music/Nonini|Nonini]] and [[Music/Jua Cali|Jua Cali]] to stardom. Her secular work, performed entirely in [[Music/Sheng Language and Kenyan Music|Sheng]], established her as one of few successful female artists in a male-dominated genre. But by the early 2010s, her secular career had plateaued, and personal struggles with relationships and public scrutiny took their toll. The spiritual transformation, she later explained, came from genuine religious experience rather than cynical career calculation, but the timing allowed for remarkable professional reinvention.
+As Size 8, she emerged during [[Genge Music Origins|genge]]'s commercial peak in the mid-2000s, riding the same wave that propelled [[Nonini|Nonini]] and [[Jua Cali|Jua Cali]] to stardom. Her secular work, performed entirely in [[Sheng Language and Kenyan Music|Sheng]], established her as one of few successful female artists in a male-dominated genre. But by the early 2010s, her secular career had plateaued, and personal struggles with relationships and public scrutiny took their toll. The spiritual transformation, she later explained, came from genuine religious experience rather than cynical career calculation, but the timing allowed for remarkable professional reinvention.
 
 The transition was executed with sophisticated brand management. Rather than abandoning her established name and starting from scratch, she added "Reborn" as a suffix, signaling transformation while maintaining brand recognition. This strategy acknowledged that her secular fans represented a potential gospel audience: young urban Kenyans who might not respond to traditional gospel but would follow an artist they already knew into new terrain. The approach proved brilliant. Her debut gospel single "Mateke" became a massive hit, demonstrating that born-again credentials did not require abandoning contemporary production or street sensibility.
 
@@ -17,14 +17,14 @@ The Size 8 Reborn brand extended beyond music into entrepreneurship, ministry, a
 By the mid-2020s, Size 8 Reborn was arguably Kenya's most recognizable gospel artist, more commercially successful in gospel than she ever was in secular music. Her trajectory validated the conversion narrative while demonstrating that religious transformation could be personally authentic and professionally strategic simultaneously. For Kenya's flourishing contemporary gospel scene, Size 8 provided a template: maintain production quality, embrace contemporary sounds, speak in your generation's language, and demonstrate that faith can coexist with success. Her journey from Calif Records to ordained ministry, from Size 8 to Size 8 Reborn, mapped the evolution of Kenyan gospel from marginalized traditionalism to mainstream cultural force.
 
 ## See Also
-- [[Music/Genge Music Origins|Genge Music Origins]]
-- [[Music/Nonini|Nonini]]
-- [[Music/Jua Cali|Jua Cali]]
-- [[Music/Bahati Gospel Kenya|Bahati Gospel Kenya]]
-- [[Music/Guardian Angel Kenya Gospel|Guardian Angel Kenya Gospel]]
-- [[Music/Music and Religion Kenya Contemporary|Music and Religion Kenya Contemporary]]
-- [[Music/Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Genge Music Origins|Genge Music Origins]]
+- [[Nonini|Nonini]]
+- [[Jua Cali|Jua Cali]]
+- [[Bahati Gospel Kenya|Bahati Gospel Kenya]]
+- [[Guardian Angel Kenya Gospel|Guardian Angel Kenya Gospel]]
+- [[Music and Religion Kenya Contemporary|Music and Religion Kenya Contemporary]]
+- [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 
 ## Sources
 1. "Here Are Some Of Kenyan Musicians Who Quit The Secular World To Become Church Ministers," Boombuzz, https://www.boomplay.com/buzz/3861258

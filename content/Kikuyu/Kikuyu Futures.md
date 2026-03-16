@@ -12,7 +12,7 @@ The Kikuyu agricultural sector, particularly tea and coffee farming, remains eco
 
 When Uhuru Kenyatta, a Kikuyu, left office in 2022, he attempted to transfer Kikuyu political power to Raila Odinga, a Luo, in a strategic alliance popularly called "The Handshake." This decision was intended to preserve Kikuyu elite interests in a post-Uhuru political arrangement. However, the strategy failed when William Ruto, a Kalenjin from Rift Valley, won the 2022 presidential election with support that included significant Kikuyu backing.
 
-The failure of Uhuru's succession strategy exposed deep fractures within the Kikuyu elite. Not all Kikuyu followed the Kenyatta faction's endorsement of Raila. Rural and provincial Kikuyu, along with Kikuyu from the [[../Conservation/Mount Kenya National Park|Mount Kenya]] region, supported Ruto or remained non-aligned. The Kikuyu are no longer a monolithic political bloc voting as a single entity(a change from the Kenyatta and Kibaki eras).
+The failure of Uhuru's succession strategy exposed deep fractures within the Kikuyu elite. Not all Kikuyu followed the Kenyatta faction's endorsement of Raila. Rural and provincial Kikuyu, along with Kikuyu from the [[Mount Kenya National Park|Mount Kenya]] region, supported Ruto or remained non-aligned. The Kikuyu are no longer a monolithic political bloc voting as a single entity(a change from the Kenyatta and Kibaki eras).
 
 With no Kikuyu in the presidency for the first time since independence, political power has shifted to other communities. County governors, however, have emerged as new centres of power, and the Kikuyu have maintained significant control at the devolved level in Kiambu, Muranga, Nyeri, and Kirinyaga counties.
 

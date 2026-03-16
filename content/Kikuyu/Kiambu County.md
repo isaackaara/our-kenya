@@ -2,7 +2,7 @@ Kiambu County is the Kikuyu heartland closest to Nairobi, representing both the 
 
 ## Geography and Setting
 
-Kiambu lies on the southern slopes of [[../Conservation/Aberdare National Park|Aberdare]] and the Kangaita plateau, with Nairobi to its south. The county covers approximately 2,500 square kilometers, with elevations ranging from 1,400 to 2,500 meters. Major towns include Kiambu town, Thika, Ruiru, Limuru, Limuru, Karura, Gatundu, Gichugu, and Murang'a Road. The peri-urban expansion has blurred boundaries between Kiambu and Nairobi, with suburbs like Ruiru and Thika now functioning as extended Nairobi neighborhoods.
+Kiambu lies on the southern slopes of [[Aberdare National Park|Aberdare]] and the Kangaita plateau, with Nairobi to its south. The county covers approximately 2,500 square kilometers, with elevations ranging from 1,400 to 2,500 meters. Major towns include Kiambu town, Thika, Ruiru, Limuru, Limuru, Karura, Gatundu, Gichugu, and Murang'a Road. The peri-urban expansion has blurred boundaries between Kiambu and Nairobi, with suburbs like Ruiru and Thika now functioning as extended Nairobi neighborhoods.
 
 ## The Kenyatta Family Base
 

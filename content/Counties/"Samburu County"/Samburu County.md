@@ -50,8 +50,8 @@ This hub lists all 30 county notes:
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: County Population and Area Data, 2019 Census. https://www.knbs.or.ke/

@@ -18,7 +18,7 @@ Environmental change including deforestation and climate change affects flowerin
 ## See Also
 
 - [[Kitui County|Kitui County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Kitui Sand Dams|Sand Dams (water technology)]]
 - [[Kitui Coal Controversy|Coal Mining]]
 - [[Kitui Bee Keeping|Beekeeping]]

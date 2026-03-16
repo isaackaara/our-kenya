@@ -140,8 +140,8 @@ Economic development depends on:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics (2023). "County Economic Survey: Nyamira 2022". https://www.knbs.or.ke

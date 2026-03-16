@@ -73,8 +73,8 @@ Gusii in Nyamira navigate:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Levine, Donald N. (1979). "Way of the Warrior: Reflections on the Gusii of East Africa". University of Chicago Press. https://www.uchicago.edu

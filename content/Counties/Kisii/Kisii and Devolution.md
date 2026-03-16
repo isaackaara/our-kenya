@@ -24,7 +24,7 @@ The county government includes:
 - [[Kisii Infrastructure|Infrastructure]]
 - [[Kisii Economy Overview|Economy]]
 - [[Kisii Education|Education]]
-- [[../../Luo/Luo and the Kenyan State|State Relations]]
+- [[Luo and the Kenyan State|State Relations]]
 - Ward-level governance and representation
 
 ## Devolved Functions

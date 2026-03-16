@@ -7,7 +7,7 @@ Daniel arap Moi retired from the presidency in December 2002 after 24 years in p
 ## See Also
 [[Presidencies/Daniel arap Moi Presidency/Moi Presidency]]
 [[Presidencies/Mwai Kibaki Presidency/Kibaki Presidency]]
-[[Presidencies/Daniel arap Moi Presidency/Moi in Retirement at Kabarak]]
+[[Moi in Retirement at Kabarak]]
 
 ## Sources
 1. Hornsby, Charles. 'Kenya: A History Since Independence.' I.B. Tauris, 2012.

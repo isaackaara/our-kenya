@@ -12,7 +12,7 @@ The relationship between crop and livestock production in Machakos reflects broa
 ## See Also
 
 - [[Machakos County|Machakos County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Machakos Terracing|Terracing (agricultural tradition)]]
 - [[The Machakos Miracle|Devolution Success]]
 - [[Machakos Mango Industry|Mango Industry]]

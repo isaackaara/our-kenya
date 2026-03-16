@@ -1,4 +1,4 @@
-Bungoma County's political landscape reflects complex dynamics shaped by [[../../Luhya/Luhya|Bukusu]] ethnic identity, internal sub-group divisions, border county positioning, and national political alignments. Political competition at county, constituency, and ward levels involves multiple candidates and factions representing different interests. County governance since 2013 has involved elected governors navigating developmental, administrative, and political challenges.
+Bungoma County's political landscape reflects complex dynamics shaped by [[Luhya|Bukusu]] ethnic identity, internal sub-group divisions, border county positioning, and national political alignments. Political competition at county, constituency, and ward levels involves multiple candidates and factions representing different interests. County governance since 2013 has involved elected governors navigating developmental, administrative, and political challenges.
 
 ## County Governance
 
@@ -23,7 +23,7 @@ County political processes shape allocation of development resources toward infr
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

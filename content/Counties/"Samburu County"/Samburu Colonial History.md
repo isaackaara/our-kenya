@@ -22,8 +22,8 @@ Late colonial period (1950s,1960s) saw increased nationalist agitation. Samburu 
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. British National Archives: Colonial Office Files on Northern Kenya Districts. https://www.nationalarchives.gov.uk/

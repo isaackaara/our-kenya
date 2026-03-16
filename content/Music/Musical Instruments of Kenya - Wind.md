@@ -14,18 +14,18 @@ Reed instruments, though less common than flutes or horns, appeared in some Keny
 
 The ocarina, a vessel flute producing distinctive mellow tones, appears sporadically in Kenyan traditional music, with examples found among several communities. These instruments, made from clay or carved from soft wood, demonstrate sophisticated understanding of acoustic principles required to create vessel instruments producing consistent pitches. Their relative rarity compared to tubular flutes may reflect construction challenges or specific cultural factors limiting their adoption. The ocarina's presence in Kenya connects to broader African and global ocarina traditions, suggesting either independent invention or cultural diffusion across long distances.
 
-Christian missionary activity indirectly affected traditional wind instruments through introduction of Western band instruments including clarinets, trumpets, trombones, and harmonicas. Mission schools established brass bands and wind ensembles, teaching European instruments and musical repertoires. Many African converts learned Western wind instruments while abandoning or devaluing traditional forms. The [[Music/Swahili Beni Dance|beni]] dance societies on the coast creatively appropriated European military band instruments, creating hybrid musical forms that maintained African aesthetics while employing European instrumentation. This pattern of selective adoption, adaptation, and synthesis characterizes much of Kenya's musical encounter with European colonialism.
+Christian missionary activity indirectly affected traditional wind instruments through introduction of Western band instruments including clarinets, trumpets, trombones, and harmonicas. Mission schools established brass bands and wind ensembles, teaching European instruments and musical repertoires. Many African converts learned Western wind instruments while abandoning or devaluing traditional forms. The [[Swahili Beni Dance|beni]] dance societies on the coast creatively appropriated European military band instruments, creating hybrid musical forms that maintained African aesthetics while employing European instrumentation. This pattern of selective adoption, adaptation, and synthesis characterizes much of Kenya's musical encounter with European colonialism.
 
 Contemporary traditional wind instruments face severe preservation challenges. The herding contexts that sustained much flute playing have declined with agricultural mechanization and changing economic patterns. Young people generally prefer modern instruments to traditional flutes and horns. The knowledge required to construct quality traditional wind instruments resides primarily with elderly practitioners, creating urgency for documentation before skills disappear. Some cultural activists work to record construction techniques and performance practices, while others establish training programs teaching young people traditional wind instruments. However, such efforts reach limited audiences and cannot fully replace the organic cultural transmission that occurred when wind instruments remained embedded in daily life.
 
 The question facing traditional wind instruments parallels challenges confronting other endangered Kenyan musical practices: can they remain relevant in contemporary contexts, or do they survive primarily as museum artifacts and occasional revival performances? Can wind instruments adapt to new musical situations while maintaining connections to traditional playing styles and social functions? The answers will determine whether future generations know traditional wind instruments through living practice or only through archival recordings and historical accounts.
 
 ## See Also
-- [[Music/Musical Instruments of Kenya - Strings]]
-- [[Music/Musical Instruments of Kenya - Percussion]]
-- [[Music/Kikuyu Traditional Music]]
-- [[Music/Turkana Music and Dance]]
-- [[Music/Swahili Beni Dance]]
+- [[Musical Instruments of Kenya - Strings]]
+- [[Musical Instruments of Kenya - Percussion]]
+- [[Kikuyu Traditional Music]]
+- [[Turkana Music and Dance]]
+- [[Swahili Beni Dance]]
 - [[Maasai/Maasai Age-Grade System]]
 
 ## Sources

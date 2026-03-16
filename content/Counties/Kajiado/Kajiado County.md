@@ -1,4 +1,4 @@
-Kajiado County is located south of Nairobi, stretching from the capital's urban fringe across semi-arid lowlands to the Tanzania border. With a population of approximately 1.1 million, the county is predominantly [[../../Maasai/Maasai|Maasai]] and experiences rapid transformation as Nairobi's urban expansion extends into traditional pastoral territories.
+Kajiado County is located south of Nairobi, stretching from the capital's urban fringe across semi-arid lowlands to the Tanzania border. With a population of approximately 1.1 million, the county is predominantly [[Maasai|Maasai]] and experiences rapid transformation as Nairobi's urban expansion extends into traditional pastoral territories.
 
 The county encompasses Amboseli National Park (famous for elephants viewed against Mount Kilimanjaro), extensive community conservancies, and rapidly developing urban satellite towns including Kitengela, Rongai, and Kiserian that effectively function as extensions of Nairobi's sprawl.
 
@@ -44,8 +44,8 @@ Kajiado town functions as the county headquarters and administrative center.
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

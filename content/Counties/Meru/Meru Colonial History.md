@@ -2,7 +2,7 @@ Meru District came under British colonial administration in the early twentieth 
 
 ## Early Colonial Administration
 
-British colonial forces and officials expanded into the [[../../Meru/Meru|Meru]] region in the early 1900s, establishing administrative posts and asserting control over the territory. The colonial government initially relied on indirect rule, working through existing Meru community leaders and age-set organizations to levy taxes and maintain order. Local chiefs appointed by the colonial administration became intermediaries between the colonial state and Meru communities.
+British colonial forces and officials expanded into the [[Meru|Meru]] region in the early 1900s, establishing administrative posts and asserting control over the territory. The colonial government initially relied on indirect rule, working through existing Meru community leaders and age-set organizations to levy taxes and maintain order. Local chiefs appointed by the colonial administration became intermediaries between the colonial state and Meru communities.
 
 ## Missionary Activities
 
@@ -34,9 +34,9 @@ Colonial policies integrated Meru into broader colonial economic systems. Export
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

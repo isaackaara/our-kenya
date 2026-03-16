@@ -76,8 +76,8 @@ Cultural knowledge transmission:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Museum (2023). "Nyamira Cultural Heritage Documentation". https://www.museums.or.ke

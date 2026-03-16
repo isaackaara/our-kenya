@@ -1,4 +1,4 @@
-Kerugoya and Kutus are twin towns that together form the county headquarters of Kirinyaga County. Located in the central region of the county at a moderate elevation on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes, these towns serve as the administrative and commercial hub for the region. The towns have grown steadily as agricultural commerce, particularly coffee and rice trade, has expanded throughout the surrounding areas.
+Kerugoya and Kutus are twin towns that together form the county headquarters of Kirinyaga County. Located in the central region of the county at a moderate elevation on [[Mount Kenya National Park|Mount Kenya]]'s slopes, these towns serve as the administrative and commercial hub for the region. The towns have grown steadily as agricultural commerce, particularly coffee and rice trade, has expanded throughout the surrounding areas.
 
 ## Development and Infrastructure
 
@@ -10,17 +10,17 @@ The twin towns are centers of agricultural commerce. Banks, input supply shops, 
 
 ## Demographics and Services
 
-The population comprises primarily [[../../Kikuyu/Kikuyu|Kikuyu]] traders, farmers, and service providers. Schools and health facilities serve the local population and surrounding areas. The towns have attracted diverse commercial interests, reflecting the prosperity of the surrounding agricultural zones.
+The population comprises primarily [[Kikuyu|Kikuyu]] traders, farmers, and service providers. Schools and health facilities serve the local population and surrounding areas. The towns have attracted diverse commercial interests, reflecting the prosperity of the surrounding agricultural zones.
 
 
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

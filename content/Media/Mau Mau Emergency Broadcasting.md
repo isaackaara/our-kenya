@@ -13,7 +13,7 @@ The Mau Mau Emergency's impact on press freedom lasted through the 1950s and int
 [[Kenya Broadcasting Early]]
 [[Voice of Kenya Mau Mau Emergency]]
 [[Media Independence Coverage]]
-[[Presidencies/Jomo Kenyatta]]
+[[Jomo Kenyatta]]
 [[History/Mau Mau]]
 
 ## Sources

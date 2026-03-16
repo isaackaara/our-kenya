@@ -10,7 +10,7 @@ However, maize farming on large settler estates was initially subordinate to oth
 
 Following independence, the Kenyan government initiated land resettlement schemes that transferred large settler-owned farms to African farmers. Uasin Gishu (and other Rift Valley districts) benefited from these resettlement programs, with substantial acreage transferred to African ownership. Maize farming expanded substantially as smallholder and medium-scale African farmers took control of previously settler-owned land.
 
-The Rift Valley's altitude (1,800,2,300 metres depending on location), volcanic soils, and reliable rainfall made it ideal for maize production. Uasin Gishu, with [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] as its major town and commercial hub, became the center of maize farming and processing.
+The Rift Valley's altitude (1,800,2,300 metres depending on location), volcanic soils, and reliable rainfall made it ideal for maize production. Uasin Gishu, with [[Uasin Gishu County|Uasin Gishu County]] as its major town and commercial hub, became the center of maize farming and processing.
 
 ## Uasin Gishu as Grain Basket
 

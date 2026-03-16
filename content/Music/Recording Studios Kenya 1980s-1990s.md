@@ -1,4 +1,4 @@
-Recording studios in Kenya during the 1980s and 1990s underwent dramatic transformation from professional facilities capable of producing world-class recordings to struggling operations barely surviving [[Music/Piracy and the Kenyan Music Industry|economic collapse]]. The era saw international record labels withdraw, independent River Road studios proliferate, and recording quality decline as musicians could not afford professional production that would be immediately pirated.
+Recording studios in Kenya during the 1980s and 1990s underwent dramatic transformation from professional facilities capable of producing world-class recordings to struggling operations barely surviving [[Piracy and the Kenyan Music Industry|economic collapse]]. The era saw international record labels withdraw, independent River Road studios proliferate, and recording quality decline as musicians could not afford professional production that would be immediately pirated.
 
 The 1980s began with relatively robust studio infrastructure inherited from the 1970s golden age. Companies like Polygram and CBS operated professional studios in Nairobi equipped with quality recording equipment and staffed by experienced engineers. These facilities produced albums for Kenya's leading artists, maintaining production standards comparable to regional competitors in Nigeria, Congo, or South Africa.
 
@@ -6,13 +6,13 @@ However, the mid-1980s cassette piracy wave devastated studio economics. Interna
 
 Nairobi's River Road area emerged as center for independent music recording. Small studios operated by Kenyan entrepreneurs filled the void left by international labels' departure. These operations ran on shoestring budgets, using basic equipment and charging rates that struggling musicians could afford. The River Road model prioritized accessibility over quality, enabling production to continue when professional studios had collapsed.
 
-[[Music/Mugithi Music Origins|Mugithi musicians]] and other vernacular artists became primary clients for River Road studios. These artists recorded in Kikuyu, Luo, Kalenjin, and other languages largely ignored by English-oriented professional facilities. River Road studios developed expertise in ethnic music production, understanding the specific sonic requirements of different genres and communities.
+[[Mugithi Music Origins|Mugithi musicians]] and other vernacular artists became primary clients for River Road studios. These artists recorded in Kikuyu, Luo, Kalenjin, and other languages largely ignored by English-oriented professional facilities. River Road studios developed expertise in ethnic music production, understanding the specific sonic requirements of different genres and communities.
 
 Recording quality suffered industry-wide during this period. River Road studios lacked high-end equipment and acoustically treated spaces that professional production required. Musicians recorded in noisy environments using basic microphones and mixing boards. The lo-fi aesthetic became normalized as economic realities made professional production unaffordable for most artists.
 
-However, some musicians and producers argued this lo-fi quality had authentic appeal. Raw, unpolished recordings signaled music made by and for working people rather than corporate products. Particularly for genres like [[Music/Mugithi Music Origins|mugithi]], the rough sound became part of the authentic working-class aesthetic that audiences valued.
+However, some musicians and producers argued this lo-fi quality had authentic appeal. Raw, unpolished recordings signaled music made by and for working people rather than corporate products. Particularly for genres like [[Mugithi Music Origins|mugithi]], the rough sound became part of the authentic working-class aesthetic that audiences valued.
 
-[[Music/Kenyan Gospel Music Boom|Gospel musicians]] sometimes accessed better recording facilities through church resources. Wealthier churches invested in recording equipment, creating church-based studios that produced gospel albums. This infrastructure advantage partly explains gospel music's superior production quality compared to struggling secular genres during this period.
+[[Kenyan Gospel Music Boom|Gospel musicians]] sometimes accessed better recording facilities through church resources. Wealthier churches invested in recording equipment, creating church-based studios that produced gospel albums. This infrastructure advantage partly explains gospel music's superior production quality compared to struggling secular genres during this period.
 
 Recording sessions were often rushed and minimal. Studios charged by the hour, and cash-strapped musicians recorded quickly to minimize costs. This time pressure reduced opportunities for experimentation, multiple takes, or careful mixing. The result was functional but not polished recordings that captured performances without refining them.
 
@@ -20,7 +20,7 @@ Technical limitations constrained creative ambitions. Limited track capabilities
 
 Some artists attempted self-production, purchasing basic recording equipment for home studios. This DIY approach traded professional facilities for creative control and eliminated studio rental costs. However, the quality typically suffered even compared to modest River Road studios.
 
-[[Music/Congolese Influence on Kenya 1980s|Rumba]] and other complex genres requiring multitrack recording and sophisticated mixing particularly struggled with degraded studio infrastructure. The elaborate arrangements characteristic of Congolese music demanded professional facilities that increasingly did not exist in Kenya. This technical limitation disadvantaged genres requiring sophisticated production compared to simpler forms.
+[[Congolese Influence on Kenya 1980s|Rumba]] and other complex genres requiring multitrack recording and sophisticated mixing particularly struggled with degraded studio infrastructure. The elaborate arrangements characteristic of Congolese music demanded professional facilities that increasingly did not exist in Kenya. This technical limitation disadvantaged genres requiring sophisticated production compared to simpler forms.
 
 By the 1990s, studio landscape was entirely transformed from the decade earlier. Professional facilities had largely disappeared. River Road studios dominated production for local artists. Recording quality had declined significantly. However, music production continued, demonstrating industry's resilience despite infrastructure collapse.
 
@@ -31,13 +31,13 @@ Some studios adapted by diversifying revenue. They offered jingle production for
 The studio situation began improving in late 1990s and early 2000s as digital recording technology became available. Computer-based recording offered quality approaching professional analog equipment at fraction of the cost. This democratized access to decent recording capabilities, though truly professional production remained beyond most artists' reach.
 
 ## See Also
-- [[Music/Piracy and the Kenyan Music Industry]]
-- [[Music/Mugithi Music Origins]]
-- [[Music/Kenyan Gospel Music Boom]]
-- [[Music/Congolese Influence on Kenya 1980s]]
+- [[Piracy and the Kenyan Music Industry]]
+- [[Mugithi Music Origins]]
+- [[Kenyan Gospel Music Boom]]
+- [[Congolese Influence on Kenya 1980s]]
 - [[Music/Kenyan Benga Music]]
-- [[Music/FM Radio Revolution Kenya 1990s]]
-- [[Music/Youth Music Culture 1990s Kenya]]
+- [[FM Radio Revolution Kenya 1990s]]
+- [[Youth Music Culture 1990s Kenya]]
 
 ## Sources
 1. Music In Africa. "Digital technology and the music recording industry in Kenya." June 7, 2017. https://www.musicinafrica.net/magazine/digital-technology-and-music-recording-industry-kenya

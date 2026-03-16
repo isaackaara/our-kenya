@@ -18,7 +18,7 @@ Subdivision created individual plot parcels typically of 10 to 40 hectares per h
 
 Following privatization, landowners became free to sell their parcels to outside buyers. Market sales accelerated as land values rose and external demand increased.
 
-The majority of Kajiado group ranch land has been purchased by non-[[../../Maasai/Maasai|Maasai]] and non-pastoral buyers, converting pastoral territory into non-pastoral uses.
+The majority of Kajiado group ranch land has been purchased by non-[[Maasai|Maasai]] and non-pastoral buyers, converting pastoral territory into non-pastoral uses.
 
 ## Consequences
 
@@ -37,8 +37,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Land Sales|Kajiado Land S
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

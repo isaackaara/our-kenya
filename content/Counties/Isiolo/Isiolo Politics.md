@@ -12,7 +12,7 @@ County development planning shapes infrastructure investment, education expansio
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Politics|Politics]]
+[[Isiolo Politics|Politics]]
 ## Sources
 
 1. Constitution of Kenya 2010: County Government Framework. https://www.parliament.go.ke/

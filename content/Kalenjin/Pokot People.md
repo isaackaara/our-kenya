@@ -4,7 +4,7 @@ title: Pokot People
 
 # Pokot People
 
-The Pokot are a Kalenjin pastoralist group concentrated in West Pokot County and parts of [[../Counties/Baringo/Baringo County|Baringo County]] in northwestern Kenya. With a population estimated at 800,000 to over one million, they represent one of the larger Kalenjin sub-groups. The Pokot historically inhabited the semi-arid lowlands and highlands between the Turkana Desert to the north and the Rift Valley escarpment to the south, a geography that shaped their identity as agro-pastoralists more committed to livestock herding than most other Kalenjin groups.
+The Pokot are a Kalenjin pastoralist group concentrated in West Pokot County and parts of [[Baringo County|Baringo County]] in northwestern Kenya. With a population estimated at 800,000 to over one million, they represent one of the larger Kalenjin sub-groups. The Pokot historically inhabited the semi-arid lowlands and highlands between the Turkana Desert to the north and the Rift Valley escarpment to the south, a geography that shaped their identity as agro-pastoralists more committed to livestock herding than most other Kalenjin groups.
 
 ## Historical Identity and Settlement
 
@@ -36,7 +36,7 @@ Historical neglect under the Moi era (1978-2002) and inconsistent development at
 
 The Pokot economy remains primarily pastoral, with livestock serving as the primary asset and store of wealth. Cattle are central to marriage negotiations, wealth ranking, and social status. A typical pastoral household owns cattle, goats, and sometimes camels adapted to semi-arid conditions. However, the commercialization of pastoral products (hides, milk, and live animal sales) is underdeveloped compared to neighboring Turkana areas.
 
-Increasingly, some Pokot households engage in mixed farming, cultivating maize, beans, and indigenous vegetables in higher-rainfall areas. However, agricultural productivity is constrained by erratic rainfall and soil degradation. Remittances from Pokot workers in urban centers (Nairobi, Kisumu, [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]]) provide important income for some families.
+Increasingly, some Pokot households engage in mixed farming, cultivating maize, beans, and indigenous vegetables in higher-rainfall areas. However, agricultural productivity is constrained by erratic rainfall and soil degradation. Remittances from Pokot workers in urban centers (Nairobi, Kisumu, [[Uasin Gishu County|Uasin Gishu County]]) provide important income for some families.
 
 Female-headed households are common, reflecting male out-migration and conflict casualties. Women engage in petty trading, beer-brewing, and small-scale agriculture. Girls' school attendance has improved but remains below national averages. Early marriage and early pregnancy remain significant barriers to female education.
 

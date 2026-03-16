@@ -1,4 +1,4 @@
-Kisumu benefits from East African Community (EAC) regional integration, which reduces trade barriers and increases commerce between Kenya, Uganda, Tanzania, Rwanda, Burundi, and other member states. [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] provides transport connections that benefit Kisumu's regional role.
+Kisumu benefits from East African Community (EAC) regional integration, which reduces trade barriers and increases commerce between Kenya, Uganda, Tanzania, Rwanda, Burundi, and other member states. [[Lake Victoria Kenya|Lake Victoria]] provides transport connections that benefit Kisumu's regional role.
 
 ## EAC Regional Integration
 
@@ -10,7 +10,7 @@ Prior to the 1977 EAC collapse, Kisumu served as a crucial trade hub connecting 
 
 ## Lake Victoria Trade Routes
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] provides water transport connections between Kenya, Uganda, and Tanzania. Goods and people can be transported via the lake, with Kisumu serving as a port. Lake transport reduces costs and environmental impact compared to road transport.
+[[Lake Victoria Kenya|Lake Victoria]] provides water transport connections between Kenya, Uganda, and Tanzania. Goods and people can be transported via the lake, with Kisumu serving as a port. Lake transport reduces costs and environmental impact compared to road transport.
 
 ## Uganda and Tanzania Connections
 
@@ -18,7 +18,7 @@ Kisumu is positioned to serve as a distribution hub for goods destined for weste
 
 ## Fish Trade
 
-Fish from [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] is traded across borders, with Kisumu serving as a processing and trading hub. Fish exports to international markets represent regional economic activity.
+Fish from [[Lake Victoria Kenya|Lake Victoria]] is traded across borders, with Kisumu serving as a processing and trading hub. Fish exports to international markets represent regional economic activity.
 
 ## Regional Supply Chains
 
@@ -42,7 +42,7 @@ Regional competition from other cities and ports (Dar es Salaam, Mombasa, Kigali
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

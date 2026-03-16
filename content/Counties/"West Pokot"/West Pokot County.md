@@ -47,8 +47,8 @@ The county landscape transitions from the Rift Valley floor (approximately 1,000
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://en.wikipedia.org/wiki/West_Pokot_County
 2. https://www.globalpeaceinitiative.org/regions/west-pokot-kenya

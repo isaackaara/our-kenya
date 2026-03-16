@@ -7,7 +7,7 @@ Kikuyu Central Association's petition to the British Parliament regarding land g
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu Central Association]]
+- [[Kikuyu Central Association]]
 
 ## Sources
 *To be added*

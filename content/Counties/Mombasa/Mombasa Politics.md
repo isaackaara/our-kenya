@@ -2,7 +2,7 @@ Mombasa politics are dominated by the Orange Democratic Movement (ODM), an oppos
 
 ## ODM Dominance
 
-The ODM, led by opposition icon [[../../Luo/Raila Odinga|Raila Odinga]], has won overwhelming support in Mombasa since 2007. The party's dominance reflects the city's historical orientation toward opposition politics and the political coalition of coastal peoples with western and other regions against the dominant [[../../Kikuyu/Kikuyu|Kikuyu]]-led governments.
+The ODM, led by opposition icon [[Raila Odinga|Raila Odinga]], has won overwhelming support in Mombasa since 2007. The party's dominance reflects the city's historical orientation toward opposition politics and the political coalition of coastal peoples with western and other regions against the dominant [[Kikuyu|Kikuyu]]-led governments.
 
 ## Ali Hassan Joho: The Joho Era
 
@@ -14,7 +14,7 @@ Despite ODM dominance, gubernatorial elections are hotly contested, with candida
 
 ## Ethnic Politics
 
-Mombasa's politics are influenced by ethnic divisions, with Swahili, [[../../Mijikenda/Mijikenda|Mijikenda]], and upcountry migrants supporting different candidates and parties. Political competition is sometimes articulated along ethnic lines, with appeals to ethnic pride and interests.
+Mombasa's politics are influenced by ethnic divisions, with Swahili, [[Mijikenda|Mijikenda]], and upcountry migrants supporting different candidates and parties. Political competition is sometimes articulated along ethnic lines, with appeals to ethnic pride and interests.
 
 ## Governance Challenges
 
@@ -22,7 +22,7 @@ Mombasa's county government faces challenges including service delivery deficits
 
 ## The "Coast Land Problem"
 
-A central political issue in Mombasa and coastal Kenya is the "Coast Land Problem," a grievance that upcountry (particularly [[../../Kikuyu/Kikuyu|Kikuyu]]) settlers have purchased land on the coast since independence, reducing land available to coastal residents. This grievance fuels political rhetoric and ethnic tension.
+A central political issue in Mombasa and coastal Kenya is the "Coast Land Problem," a grievance that upcountry (particularly [[Kikuyu|Kikuyu]]) settlers have purchased land on the coast since independence, reducing land available to coastal residents. This grievance fuels political rhetoric and ethnic tension.
 
 ## National Politics
 
@@ -34,7 +34,7 @@ Mombasa's presidential voting patterns show consistent support for opposition ca
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

@@ -74,8 +74,8 @@ Town expansion prospects include:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Nyamira County Government (2023). "Town Development Report: Nyamira Urban Center". https://www.nyamiracounty.go.ke

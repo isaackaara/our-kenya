@@ -2,7 +2,7 @@ Female journalists in Kenya have increased substantially since the 1980s-90s, tr
 
 Pre-1990s Kenyan media, particularly print and broadcast, was male-dominated. Few women worked in journalism; those who did were often concentrated in "women's interest" or domestic-focused sections. Editorial leadership, from editors-in-chief to senior reporters, remained exclusively or near-exclusively male. Women's underrepresentation in media meant women's perspectives and experiences received minimal journalistic attention.
 
-The [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi era]] media environment, characterized by government censorship and control, affected female and male journalists differently. Government suppression of press freedom particularly constrained women journalists who attempted investigations of corruption or human rights violations. Female journalists faced additional gender-based harassment from authorities attempting to intimidate them from critical reporting.
+The [[Daniel arap Moi Presidency|Moi era]] media environment, characterized by government censorship and control, affected female and male journalists differently. Government suppression of press freedom particularly constrained women journalists who attempted investigations of corruption or human rights violations. Female journalists faced additional gender-based harassment from authorities attempting to intimidate them from critical reporting.
 
 The 1992 transition to multi-party democracy opened media space and expanded journalism opportunities. New publications emerged; existing outlets expanded editorial staff. This expansion created opportunities for female journalists to enter newsrooms. Women began establishing themselves as reporters, editors, and eventually news directors. Female journalists increased representation in major newspapers and broadcast stations.
 
@@ -23,7 +23,7 @@ The 2010 constitutional framework and contemporary media regulations include gen
 [[Women Leadership Capacity]]
 [[Gender-Based Violence]]
 [[Women Organizations Advocacy]]
-[[Corruption/Corruption|Investigative Journalism]]
+[[Corruption|Investigative Journalism]]
 [[Women Safety Urban Planning]]
 
 ## Sources

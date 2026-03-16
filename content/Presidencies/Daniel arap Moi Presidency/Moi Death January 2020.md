@@ -20,7 +20,7 @@ Moi's death marked the end of an era in Kenyan politics, though the marks of tha
 [[Kenya/Truth and Reconciliation]]
 [[Moi and the Kalenjin]]
 [[Kenya/Contemporary Politics]]
-[[Corruption/Kenya]]
+[[Kenya]]
 
 ## Sources
 1. https://www.bbc.com/news/world-africa-51049255 (accessed 2024)

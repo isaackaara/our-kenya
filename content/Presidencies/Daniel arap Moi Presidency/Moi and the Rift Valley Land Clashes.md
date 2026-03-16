@@ -18,7 +18,7 @@ International investigation into the land clashes came only after Moi's presiden
 [[Kenya/Ethnic Violence]]
 [[Moi and the Kalenjin]]
 [[Elections/1992 General Election]]
-[[Elections/1997 Election Violence]]
+[[1997 Election Violence]]
 [[Moi Legacy]]
 [[Cross-Ethnic/Land and Ethnicity]]
 

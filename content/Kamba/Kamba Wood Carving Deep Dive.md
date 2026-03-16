@@ -32,7 +32,7 @@ Contemporary carvers continue to produce distinctive work. Some have gained inte
 
 ## The Wamunyu Cooperative
 
-The Wamunyu Wood Carvers Cooperative, located in Mwala (along the Machakos-Kitui road) in [[../Counties/Machakos/Machakos County|Machakos County]], represents an important effort to organize carvers, maintain quality standards, promote fair trade, and market Kamba carving collectively. The cooperative includes dozens of carvers who display and sell their work from a central location.
+The Wamunyu Wood Carvers Cooperative, located in Mwala (along the Machakos-Kitui road) in [[Machakos County|Machakos County]], represents an important effort to organize carvers, maintain quality standards, promote fair trade, and market Kamba carving collectively. The cooperative includes dozens of carvers who display and sell their work from a central location.
 
 The Wamunyu cooperative demonstrates the value of collective action in marketing and in maintaining the carving tradition. The cooperative has achieved recognition both locally and internationally, attracting visitors and international buyers. The organization maintains a tree nursery to replace wood harvested for carving, addressing environmental sustainability.
 

@@ -75,8 +75,8 @@ Government involvement includes:
 - [[Bomet Politics|Politics]]
 - [[Bomet Agriculture|Agriculture]]
 - [[Bomet Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Bomet County Government (2023). "Urban Development and Land Use Plan". https://www.bometcounty.go.ke

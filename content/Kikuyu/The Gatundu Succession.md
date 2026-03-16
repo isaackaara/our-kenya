@@ -65,7 +65,7 @@ The Gatundu succession crisis and Moi's subsequent presidency created lasting im
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

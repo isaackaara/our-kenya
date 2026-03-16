@@ -4,7 +4,7 @@ Nyamira County is a small highland county carved out of the former Kisii Distric
 
 The county is characterized by:
 - Highland elevation and cool climate
-- Mixed [[../../Kisii/Kisii|Gusii]] and [[../../Kalenjin/Kipsigis|Kipsigis]] ethnic composition
+- Mixed [[Kisii|Gusii]] and [[Kipsigis|Kipsigis]] ethnic composition
 - Tea as the dominant cash crop
 - Dense rural population with high economic activity
 - Nyamira town serving as county headquarters
@@ -35,9 +35,9 @@ The county's economy rests primarily on:
 ## Cultural Composition
 
 Nyamira's population includes:
-- [[../../Kisii/Kisii|Gusii]] people (primary ethnic group)
-- [[../../Kalenjin/Kipsigis|Kipsigis]] people (in eastern portions)
-- Links to broader [[../../Kalenjin/Kalenjin|Kalenjin]] identity in some areas
+- [[Kisii|Gusii]] people (primary ethnic group)
+- [[Kipsigis|Kipsigis]] people (in eastern portions)
+- Links to broader [[Kalenjin|Kalenjin]] identity in some areas
 - Diverse religious communities
 - Increasing ethnic mixing through marriage and settlement
 
@@ -46,8 +46,8 @@ Nyamira's population includes:
 - [[Nyamira Gusii Heritage|Gusii Heritage]]
 - [[Nyamira Kipsigis|Kipsigis People]]
 - [[Nyamira Tea|Tea Industry]]
-- [[../../Kisii/Kisii County|Kisii County]]
-- [[../../Kalenjin/Kalenjin|Kalenjin People]]
+- [[Kisii County|Kisii County]]
+- [[Kalenjin|Kalenjin People]]
 - [[Nyamira Creation|County Creation History]]
 
 ## Governance

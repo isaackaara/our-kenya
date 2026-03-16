@@ -20,8 +20,8 @@ Climate change is intensifying precipitation variability and increasing aridity.
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Meteorological Department: Climate Records and Analysis, Northern Kenya. https://www.meteo.go.ke/

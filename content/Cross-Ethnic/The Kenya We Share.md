@@ -28,4 +28,4 @@ These markers of shared [[Kenyan identity]] are real but fragile. The 2007-08 vi
 
 ## Related
 
-[[../Cross-Ethnic/Sheng]] | [[../Cross-Ethnic/Harambee]] | [[../Cross-Ethnic/M-Pesa Effect]] | [[../Cross-Ethnic/Nairobi as Melting Pot]] | [[../Cross-Ethnic/Football as Nation-Building]] | [[../Legacy/Land as the Wound]] | [[../Legacy/Decolonising the Mind]]
+[[Sheng]] | [[Harambee]] | [[../Cross-Ethnic/M-Pesa Effect]] | [[Nairobi as Melting Pot]] | [[Football as Nation-Building]] | [[Land as the Wound]] | [[Decolonising the Mind]]

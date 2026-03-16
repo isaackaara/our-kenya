@@ -12,7 +12,7 @@ Educational infrastructure includes primary schools, secondary schools, and tert
 
 Transport infrastructure development centres on road improvement. The A2 highway serves as the main transport corridor. Local roads and tracks serve pastoral communities, though many remain in poor condition.
 
-The [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power project represents significant infrastructure development, with transmission lines and associated facilities linking the project to the national grid.
+The [[Lake Turkana|Lake Turkana]] Wind Power project represents significant infrastructure development, with transmission lines and associated facilities linking the project to the national grid.
 
 
 ## See Also

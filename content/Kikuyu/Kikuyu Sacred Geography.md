@@ -1,4 +1,4 @@
-The Kikuyu understood their landscape as a sacred moral geography in which territorial, spiritual, and social systems were interwoven. The geography was centered on [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga) as the axis mundi (sacred center) and extended outward through ridges that radiated from the mountain like spokes on a wheel.
+The Kikuyu understood their landscape as a sacred moral geography in which territorial, spiritual, and social systems were interwoven. The geography was centered on [[Mount Kenya National Park|Mount Kenya]] (Kirinyaga) as the axis mundi (sacred center) and extended outward through ridges that radiated from the mountain like spokes on a wheel.
 
 ## The Nine Clans and the Moiety System
 
@@ -16,7 +16,7 @@ The Kikuyuland landscape is characterized by north-south running mountain ridges
 
 Key ridges included those in present-day Nyeri, Murang'a, Kirinyaga, and Kiambu counties. Each ridge had its own kiama (council of elders), its mugumo tree for ceremonies, its boundary rivers, and its local burial customs.
 
-## The Second Mountain: Nyandarua ([[../Conservation/Aberdare National Park|Aberdare]])
+## The Second Mountain: Nyandarua ([[Aberdare National Park|Aberdare]])
 
 The Aberdare Range, known in Kikuyu as Nyandarua (meaning "drying place of hides"), served as the second sacred mountain, marking the western boundary of the original Kikuyu territory. The Nyandarua mountains were a source of water, forest resources, and spiritual power. They also served as a refuge during raids and conflicts.
 

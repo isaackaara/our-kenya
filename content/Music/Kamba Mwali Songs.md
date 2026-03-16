@@ -2,13 +2,13 @@ The mwali songs of the [[Kamba/Kamba Culture and Identity|Kamba]] people constit
 
 Mwali initiation occurred during specific seasons, usually during school holidays when girls could undergo the procedure without disrupting education. Families from a region would coordinate timing, creating cohorts of initiates who underwent the ceremony together, their shared experience creating lifelong bonds. The musical component extended across several stages. In the weeks preceding the actual cutting, initiates learned preparatory songs teaching them about the ceremony's meaning, proper behavior, and the responsibilities of womanhood. These songs often used metaphorical language, referring to initiation obliquely rather than explicitly, requiring initiates to interpret symbolic meanings with guidance from older women.
 
-On the day of the procedure, specific songs accompanied each phase. Morning songs helped initiates overcome fear, emphasizing bravery and the honor of joining the community of adult women. During the actual cutting, women sang continuously, creating a sonic environment that supported the initiate's endurance while also drowning out any cries of pain that might bring shame. The songs' rhythmic intensity helped initiates enter altered states of consciousness that made the pain more bearable, similar to the trance-inducing function of [[Music/Kamba Music and Kilumi|kilumi]] drumming. Post-cutting songs celebrated successful completion and began teaching about sexual behavior, marital duties, and childbearing.
+On the day of the procedure, specific songs accompanied each phase. Morning songs helped initiates overcome fear, emphasizing bravery and the honor of joining the community of adult women. During the actual cutting, women sang continuously, creating a sonic environment that supported the initiate's endurance while also drowning out any cries of pain that might bring shame. The songs' rhythmic intensity helped initiates enter altered states of consciousness that made the pain more bearable, similar to the trance-inducing function of [[Kamba Music and Kilumi|kilumi]] drumming. Post-cutting songs celebrated successful completion and began teaching about sexual behavior, marital duties, and childbearing.
 
 The healing period following initiation lasted several weeks, during which initiates lived in seclusion, their bodies recovering while they absorbed intensive education about adult responsibilities. Music structured this liminal time, with specific songs for morning, afternoon, and evening. The lyrics addressed topics like menstruation management, sexual intercourse, pregnancy, childbirth, and infant care, information considered too sensitive for children but essential for adult women. The songs also taught domestic skills, agricultural knowledge, and proper behavior toward in-laws, husbands, and co-wives. The musical form made this vast curriculum memorable, with catchy melodies and repetitive structures ensuring retention.
 
 The musical style of mwali songs drew from broader [[Kamba/Kamba Culture and Identity|Kamba]] musical traditions while incorporating distinctive elements specific to initiation contexts. Call-and-response patterns predominated, with a lead singer initiating phrases that the group answered, creating communal participation that reinforced shared identity. The rhythms often derived from work songs, their steady patterns coordinating group activity just as agricultural songs synchronized hoeing and harvesting. However, mwali songs featured special melodic intervals and ornamentations marking them as ceremonial rather than secular music.
 
-Instrumentation was minimal compared to other [[Kamba/Kamba Culture and Identity|Kamba]] musical forms like [[Music/Kamba Music and Kilumi|kilumi]]. The human voice dominated, with hand-clapping and foot-stamping providing rhythmic accompaniment. Sometimes women wore ankle bells or rattles that created polyrhythmic layers as they danced. This vocal emphasis reflected the intimate, women-only nature of the ceremony. Drums, typically associated with male musicians in Kamba culture, were usually absent from mwali contexts, making the practice distinctly feminine terrain.
+Instrumentation was minimal compared to other [[Kamba/Kamba Culture and Identity|Kamba]] musical forms like [[Kamba Music and Kilumi|kilumi]]. The human voice dominated, with hand-clapping and foot-stamping providing rhythmic accompaniment. Sometimes women wore ankle bells or rattles that created polyrhythmic layers as they danced. This vocal emphasis reflected the intimate, women-only nature of the ceremony. Drums, typically associated with male musicians in Kamba culture, were usually absent from mwali contexts, making the practice distinctly feminine terrain.
 
 The colonial period brought intense pressure against female circumcision and its associated music. Missionaries condemned the practice as barbaric, threatening to excommunicate Christian families who allowed daughters to undergo initiation. Colonial administrators passed regulations against circumcision, though enforcement was inconsistent. The 1920s female circumcision controversy in [[Kikuyu/Kikuyu Origins|Kikuyu]] areas resonated in Kamba country, where similar debates erupted about cultural authenticity versus Christian modernity. Some [[Kamba/Kamba Culture and Identity|Kamba]] communities maintained the practice secretly; others modified ceremonies to exclude cutting while preserving mwali songs and the educational curriculum they carried.
 
@@ -19,13 +19,13 @@ Some cultural preservation efforts attempt to document mwali songs before the la
 Alternative initiation ceremonies have emerged that retain educational and ceremonial aspects while eliminating cutting. These programs sometimes incorporate traditional songs, adapting lyrics to reflect changed values. Some celebrate menarche as an alternative marker of womanhood, using music to teach sexual health information within frameworks that respect tradition while rejecting harmful practices. Whether these adaptations constitute authentic continuity or irretrievable rupture with the past remains contested within [[Kamba/Kamba Culture and Identity|Kamba]] communities.
 
 ## See Also
-- [[Music/Kamba Music and Kilumi]]
+- [[Kamba Music and Kilumi]]
 - [[Kamba/Kamba Culture and Identity]]
-- [[Music/Women's Music Traditions Kenya]]
-- [[Music/Music and Initiation Rites]]
+- [[Women's Music Traditions Kenya]]
+- [[Music and Initiation Rites]]
 - [[Kikuyu/Kikuyu Origins]]
-- [[Music/Kikuyu Traditional Music]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
+- [[Kikuyu Traditional Music]]
+- [[Music and Pre-Christian Religion Kenya]]
 
 ## Sources
 1. Kavyu, Paul. An Introduction to Kamba Music. Nairobi: East African Literature Bureau, 1980.

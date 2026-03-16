@@ -18,7 +18,7 @@ During the Mwai Kibaki presidency, Ngilu served as Health Minister, where she wo
 
 Later she served as Minister of Water and Irrigation, gaining experience in another crucial development portfolio. Her technical knowledge and serious approach to policy distinguished her from politicians focused primarily on patronage.
 
-## [[../Counties/Kitui/Kitui County|Kitui County]] Governorship
+## [[Kitui County|Kitui County]] Governorship
 
 When Kenya's devolved governance system was implemented in 2013, Ngilu ran for and was elected as the inaugural Governor of Kitui County (2013-2022). Her governorship made her the second-most-powerful elected Kamba politician after the Machakos governor.
 

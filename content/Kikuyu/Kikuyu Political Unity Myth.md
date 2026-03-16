@@ -7,7 +7,7 @@ Myth of Kikuyu political unity versus the reality of internal divisions.
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu and Christianity Today]]
+- [[Kikuyu and Christianity Today]]
 
 ## Sources
 *To be added*

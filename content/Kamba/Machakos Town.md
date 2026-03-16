@@ -6,7 +6,7 @@ Machakos (originally called Masaku, after a local Kamba leader) was Kenya's firs
 - Served as the first trading post, mission station, and colonial administrative seat in the interior
 - Was initially planned to become the future capital of Kenya but lost that status when the railway arrived in Nairobi in 1899
 - The British relocated their headquarters to Nairobi in 1899, after which Machakos declined in national importance
-- Remains the capital of [[../Counties/Machakos/Machakos County|Machakos County]] and a major commercial and administrative center in eastern Kenya
+- Remains the capital of [[Machakos County|Machakos County]] and a major commercial and administrative center in eastern Kenya
 - Under former governor Alfred Mutua, Machakos underwent urban renewal projects including the Machakos People's Park transformation
 - The town has experienced modernization and growth as a county capital and regional hub
 
@@ -14,7 +14,7 @@ Machakos (originally called Masaku, after a local Kamba leader) was Kenya's firs
 Machakos represents the first phase of British colonial expansion in East Africa. Its earlier status as the capital before Nairobi is often forgotten in broader Kenyan history, yet it played a crucial role in establishing colonial administration and trade networks in the region.
 
 ## Related
-[[Kamba Origins]] | [[../Europeans/Colonial Administration]] | [[Kitui County]] | [[Ukambani Environment]]
+[[Kamba Origins]] | [[Colonial Administration]] | [[Kitui County]] | [[Ukambani Environment]]
 
 ## See Also
 

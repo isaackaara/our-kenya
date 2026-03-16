@@ -34,8 +34,8 @@ Suba communities represent minority populations within the broader Luo-dominated
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Paukwa. (2024). Suba Community Profile. https://www.paukwa.or.ke/

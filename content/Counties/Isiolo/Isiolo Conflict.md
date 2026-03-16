@@ -20,7 +20,7 @@ National policy frameworks including the National Cohesion and Integration Commi
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Conflict|Conflict]]
+[[Isiolo Conflict|Conflict]]
 ## Sources
 
 1. UN Office for the Coordination of Humanitarian Affairs: Isiolo County Conflict Report 2023. https://www.unocha.org/

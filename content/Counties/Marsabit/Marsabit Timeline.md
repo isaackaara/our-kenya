@@ -16,7 +16,7 @@
 
 1980s,1990s: Drought cycles create food crises. Inter-communal conflicts intensify over water and pasture competition. Government security responses increase.
 
-2000s: LAPSSET Corridor project conceived as regional development framework. [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power project planning begins.
+2000s: LAPSSET Corridor project conceived as regional development framework. [[Lake Turkana|Lake Turkana]] Wind Power project planning begins.
 
 2010: Kenya adopts new Constitution establishing devolved government system.
 

@@ -13,7 +13,7 @@ The preservation and accessibility of Ng'weno's archive through Moi University a
 [[Media Independence Coverage]]
 [[Kenya Times Government]]
 [[Press Freedom Authoritarian]]
-[[Presidencies/Daniel Arap Moi]]
+[[Daniel Arap Moi]]
 [[Documentary Film Production]]
 
 ## Sources

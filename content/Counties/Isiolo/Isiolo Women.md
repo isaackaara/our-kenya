@@ -18,7 +18,7 @@ Political representation of women in county government has increased following c
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Women|Women]]
+[[Isiolo Women|Women]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: Gender and Inequality Data. 2023. https://www.knbs.or.ke/

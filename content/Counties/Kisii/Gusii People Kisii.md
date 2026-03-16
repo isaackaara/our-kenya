@@ -1,4 +1,4 @@
-The [[../../Kisii/Kisii|Gusii]] (Kisii) people are the dominant ethnic community in Kisii County, with a rich history spanning many centuries. They constitute the primary population of the region and have maintained distinct cultural, linguistic, and social practices throughout their history.
+The [[Kisii|Gusii]] (Kisii) people are the dominant ethnic community in Kisii County, with a rich history spanning many centuries. They constitute the primary population of the region and have maintained distinct cultural, linguistic, and social practices throughout their history.
 
 ## Origins and Migration
 
@@ -6,7 +6,7 @@ The Gusii people originated from the northeast highlands of present-day Kenya an
 
 ## Language
 
-The Gusii speak [[../../Kisii/Ekegusii Language and Linguistic Identity|Ekegusii]], a Bantu language that remains widely spoken throughout the county. The language preserves important cultural knowledge and continues to be transmitted to younger generations through families and educational institutions.
+The Gusii speak [[Ekegusii Language and Linguistic Identity|Ekegusii]], a Bantu language that remains widely spoken throughout the county. The language preserves important cultural knowledge and continues to be transmitted to younger generations through families and educational institutions.
 
 ## Social Structure
 
@@ -26,7 +26,7 @@ Today, the Gusii people maintain strong cultural identity while adapting to mode
 - [[Kisii County|Kisii County]]
 - [[Kisii Cultural Heritage|Cultural Heritage]]
 - [[Kisii Social Structure|Social Structure]]
-- [[../../Kisii/Kisii Clan System|Clan Systems]]
+- [[Kisii Clan System|Clan Systems]]
 - [[Kisii Food Culture|Food Culture]]
 - [[Kisii Women|Women and Gender]]
 

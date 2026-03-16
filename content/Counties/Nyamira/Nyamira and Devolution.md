@@ -96,8 +96,8 @@ Devolution development priorities:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Institute for Public Policy Research and Analysis (2023). "Devolution: Progress and Challenges Report". https://www.kippra.or.ke

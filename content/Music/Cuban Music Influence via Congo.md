@@ -1,4 +1,4 @@
-One of the most remarkable musical journeys of the 20th century saw Cuban son and bolero travel across the Atlantic to Congo, undergo transformation, and then return to East Africa as [[Music/Congolese Rumba Arrives in Kenya|Congolese rumba]], profoundly shaping Kenyan dance floors. This circular route illuminates how African diaspora music reconnected with the continent through unexpected pathways.
+One of the most remarkable musical journeys of the 20th century saw Cuban son and bolero travel across the Atlantic to Congo, undergo transformation, and then return to East Africa as [[Congolese Rumba Arrives in Kenya|Congolese rumba]], profoundly shaping Kenyan dance floors. This circular route illuminates how African diaspora music reconnected with the continent through unexpected pathways.
 
 The Cuban connection began in the 1940s when Congolese musicians encountered Cuban records, primarily son and rumba, in Leopoldville (now Kinshasa) and Brazzaville. The music arrived through Belgian colonial networks; European record companies distributed Cuban recordings in Africa, often marketing them as exotic Latin sounds. What these companies did not fully appreciate was the underlying African musical DNA in Cuban music.
 
@@ -10,23 +10,23 @@ This Africanized Cuban music then spread eastward. By the 1950s, Congolese rumba
 
 The guitar playing technique was perhaps the most significant transfer. Cuban son featured guitars playing multiple interlocking melodic lines, a technique called "tumbao." Congolese guitarists adapted this, creating elaborate patterns that Kenyan musicians then studied and emulated. The distinctive sound of Kenyan guitar-based music owes substantial debt to this Cuba-Congo-Kenya transmission chain.
 
-Rhythmically, the Cuban clave, a five-stroke pattern that organizes son and rumba, influenced Kenyan rhythmic conceptions. While not always played explicitly, the clave's underlying logic, the way it creates rhythmic tension and resolution, appeared in how Kenyan drummers and guitarists organized musical time. This was particularly evident in [[Music/The Nairobi Sound 1950s|urban Nairobi music]] of the late 1950s and early 1960s.
+Rhythmically, the Cuban clave, a five-stroke pattern that organizes son and rumba, influenced Kenyan rhythmic conceptions. While not always played explicitly, the clave's underlying logic, the way it creates rhythmic tension and resolution, appeared in how Kenyan drummers and guitarists organized musical time. This was particularly evident in [[The Nairobi Sound 1950s|urban Nairobi music]] of the late 1950s and early 1960s.
 
 The lyrics and themes also showed Cuban influence, though more subtly. Cuban son often dealt with romantic love, social life, and everyday struggles in accessible, conversational language. This approach influenced how Kenyan musicians wrote songs, moving away from the more formal or traditional lyrical structures toward direct, emotionally immediate expression.
 
-By the 1960s, the Cuban influence was so thoroughly absorbed and transformed that few Kenyan listeners consciously recognized it. When they heard a band playing rumba-influenced music at a [[Music/Early Nairobi Dance Halls 1920s-1940s|Nairobi dance hall]], they were hearing the end point of a decades-long musical migration: African rhythms that had gone to Cuba, been transformed into son, traveled to Congo, been re-Africanized as rumba, and finally reached Kenya in a form both familiar and new.
+By the 1960s, the Cuban influence was so thoroughly absorbed and transformed that few Kenyan listeners consciously recognized it. When they heard a band playing rumba-influenced music at a [[Early Nairobi Dance Halls 1920s-1940s|Nairobi dance hall]], they were hearing the end point of a decades-long musical migration: African rhythms that had gone to Cuba, been transformed into son, traveled to Congo, been re-Africanized as rumba, and finally reached Kenya in a form both familiar and new.
 
 This triangular exchange demonstrates the complexity of African musical modernity. Kenyan musicians were not simply receiving Western influence or maintaining isolated traditional practices. They were participating in vast transnational networks of African diaspora musical circulation, with Cuban music serving as one node in a much larger web of exchange.
 
 The irony was rich: European colonial record companies, seeking to market exotic Latin music, inadvertently facilitated a reconnection between African diaspora music and continental African traditions. The music traveled through colonial commercial networks but carried meanings and possibilities that exceeded colonial intentions.
 
 ## See Also
-- [[Music/Congolese Rumba Arrives in Kenya]]
-- [[Music/The Nairobi Sound 1950s]]
-- [[Music/Dance Bands of Post-WWII Kenya]]
-- [[Music/Daudi Kabaka]]
-- [[Music/East African Recording Industry Origins]]
-- [[Music/Indian Ocean Musical Exchange]]
+- [[Congolese Rumba Arrives in Kenya]]
+- [[The Nairobi Sound 1950s]]
+- [[Dance Bands of Post-WWII Kenya]]
+- [[Daudi Kabaka]]
+- [[East African Recording Industry Origins]]
+- [[Indian Ocean Musical Exchange]]
 
 ## Sources
 1. Roberts, John Storm. "The Latin Tinge: The Impact of Latin American Music on the United States." Oxford University Press, 1999. https://global.oup.com/academic/product/the-latin-tinge-9780195121018

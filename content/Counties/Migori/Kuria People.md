@@ -34,8 +34,8 @@ The Kuria represent a minority within Migori County, though significant in numbe
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Kuria People. https://en.wikipedia.org/wiki/Kuria_people

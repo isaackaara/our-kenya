@@ -18,7 +18,7 @@ Livestock-crop integration increases household resilience to environmental varia
 ## See Also
 
 - [[Makueni County|Makueni County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Makueni Devolution Success|Devolution Success]]
 - [[Sand Dams Makueni|Sand Dams (water technology)]]
 - [[Makueni Climate Change Adaptation|Climate Adaptation]]

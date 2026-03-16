@@ -14,7 +14,7 @@ By 2026, the Gachagua impeachment was viewed as an echo of PEV-era politics: eth
 [[2007-08 PEV 2022 Election Echo|2022 Election Echo]]
 [[2007-08 PEV Gen Z Protests 2024|Gen Z Protests 2024]]
 [[2007-08 PEV Impunity|Impunity]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 
 ## Sources
 

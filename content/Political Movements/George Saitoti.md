@@ -7,7 +7,7 @@ Professor George Saitoti was a mathematician turned politician who served as Ken
 ## See Also
 - [[Presidencies/Daniel arap Moi Presidency/Moi Presidency]]
 - [[Maasai/Maasai in Kenyan Politics]]
-- [[Corporate Kenya/Goldenberg Scandal]]
+- [[Goldenberg Scandal]]
 
 ## Sources
 1. Hornsby, Charles. "Kenya: A History Since Independence." I.B. Tauris, 2012.

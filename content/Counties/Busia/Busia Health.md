@@ -10,7 +10,7 @@ Rural residents often face long distances to health facilities. Mobile health cl
 ## See Also
 
 [[../../Busia/Busia|Busia County]]
-[[../../Busia/Busia Health|Health]]
+[[Busia Health|Health]]
 ## Sources
 1. https://www.health.go.ke/county-health-profiles/busia
 2. https://www.standardmedia.co.ke/counties/article/2000987654/health-busia

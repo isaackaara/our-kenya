@@ -116,8 +116,8 @@ This timeline documents major events in Nyamira County history from its creation
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Nyamira County Government (2023). "County History and Development Records". https://www.nyamiracounty.go.ke

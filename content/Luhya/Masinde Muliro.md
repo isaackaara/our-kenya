@@ -14,15 +14,15 @@ Masinde Muliro was a prominent Luhya political leader and co-founder of KADU (Ke
 Muliro's federalism concept emerged from the Luhya confederation's own decentralized structure. He recognized that Kenya's diverse ethnic groups might coexist more peacefully under a federal system that guaranteed regional autonomy. His vision was rejected, but it remained influential in later constitutional reform debates.
 
 ## Related
-[[Luhya Political Figures]] | [[Luhya Cultural Identity Today]] | [[../Kikuyu/Kenyatta Presidency]]
+[[Luhya Political Figures]] | [[Luhya Cultural Identity Today]] | [[Kenyatta Presidency]]
 
 ## See Also
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

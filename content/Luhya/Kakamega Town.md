@@ -6,8 +6,8 @@ Kakamega is the administrative and commercial capital of western Kenya, serving 
 - Geologist Albert Ernest Kitson's reports suggested substantial gold deposits, fueling the rush
 - Thousands of fortune seekers flooded into the region, disrupting local communities and land use
 - The gold rush was short-lived; by the late 1930s most prospectors had departed, leaving a transformed landscape
-- Kakamega town today remains the county capital of [[../Counties/Kakamega/Kakamega County|Kakamega County]] and a key commercial and trading center in western Kenya
-- The town sits near the [[[[../Conservation/Kakamega Forest|Kakamega Forest]]]], one of Kenya's most important remaining tropical forests
+- Kakamega town today remains the county capital of [[Kakamega County|Kakamega County]] and a key commercial and trading center in western Kenya
+- The town sits near the [[Kakamega Forest|Kakamega Forest]]]], one of Kenya's most important remaining tropical forests
 
 ## Gold Rush Legacy
 The 1930s rush left behind abandoned mines, environmental changes, and social disruption. Yet it also accelerated the town's growth and infrastructure development. Kakamega moved from a quiet colonial post to a bustling town that never fully returned to its pre-rush character.
@@ -19,9 +19,9 @@ The 1930s rush left behind abandoned mines, environmental changes, and social di
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

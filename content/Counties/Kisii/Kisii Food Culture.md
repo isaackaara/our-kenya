@@ -49,7 +49,7 @@ Special foods prepare for important occasions:
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Music|Music and Culture]]
 - [[Kisii Cultural Heritage|Cultural Heritage]]
-- [[../../Luo/Luo Food Culture|Luo Food Culture]]
+- [[Luo Food Culture|Luo Food Culture]]
 - Funeral rite foods
 - Holiday and religious celebration dishes
 

@@ -19,7 +19,7 @@ The Kabarak ranch also represented a microcosm of Kenya's land question: the acc
 [[Moi Post-Presidency]]
 [[Moi and the Kalenjin]]
 [[Kenya/Land Reform]]
-[[Corruption/Kenya]]
+[[Kenya]]
 [[Moi Legacy]]
 
 ## Sources

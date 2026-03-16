@@ -11,7 +11,7 @@ In 1955, Moi left teaching to become a local government councilman in Baringo. T
 The teaching years are often overlooked in narratives of Moi's rise, treated as a prelude to more dramatic events. Yet they were crucial in revealing the model of leadership Moi would later employ: hierarchical, disciplinary, paternalistic, and intolerant of challenge. The classroom taught him that authority flows from position rather than consensus, that obedience is the primary virtue, and that the leader's role is to direct rather than to listen. These lessons, learned and reinforced across more than a decade, would structure his presidency.
 
 ## See Also
-[[Colonial Kenya/Education]]
+[[Education]]
 [[Moi Rise to Power]]
 [[Moi and Education]]
 [[Kalenjin/Leadership]]

@@ -6,7 +6,7 @@ title: Kajiado County
 
 Kajiado County, located in southern Kenya, covers over 21,000 square kilometers. It borders Tanzania (south), Nairobi (north and east), and Nakuru counties (northwest).
 
-The county includes Mount Kilimanjaro (visible from Kajiado, though on Tanzania side), the [[../Conservation/Amboseli National Park|Amboseli National Park]] basin, parts of the Rift Valley, and expansive pastoral rangeland.
+The county includes Mount Kilimanjaro (visible from Kajiado, though on Tanzania side), the [[Amboseli National Park|Amboseli National Park]] basin, parts of the Rift Valley, and expansive pastoral rangeland.
 
 Kajiado is a Maasai-dominant county(Maasai are roughly 70% of population, with Kikuyu, Kamba, and others making up the remainder).
 
@@ -51,10 +51,10 @@ Whether this transition preserves Maasai cultural identity and land rights remai
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

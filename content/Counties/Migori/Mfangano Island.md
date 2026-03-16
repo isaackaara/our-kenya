@@ -38,8 +38,8 @@ The island offers tourism potential through natural beauty, Suba cultural experi
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Mfangano Island. https://en.wikipedia.org/wiki/Mfangano_Island

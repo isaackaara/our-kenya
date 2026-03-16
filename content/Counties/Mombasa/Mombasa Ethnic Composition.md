@@ -6,7 +6,7 @@ The Swahili are the indigenous coastal people and the dominant cultural group in
 
 ## Mijikenda
 
-[[../../Mijikenda/Mijikenda|Mijikenda]] are Bantu-speaking peoples of the coastal region, comprising nine ethno-linguistic groups including Digo, Duruma, and Rabai. Many Mijikenda migrated to Mombasa seeking economic opportunities, becoming laborers, traders, and service workers.
+[[Mijikenda|Mijikenda]] are Bantu-speaking peoples of the coastal region, comprising nine ethno-linguistic groups including Digo, Duruma, and Rabai. Many Mijikenda migrated to Mombasa seeking economic opportunities, becoming laborers, traders, and service workers.
 
 ## Arab Community
 
@@ -14,7 +14,7 @@ Arabs, particularly from Oman and Hadramaut (Yemen), have a long history in Momb
 
 ## Somali
 
-[[../../Somali/Somali|Somali]] community has grown substantially in recent decades due to migration from Somalia and economic activity in trade. Eastleigh in Nairobi is more famous as a Somali commercial center, but Somali traders and communities are also present in Mombasa's port areas.
+[[Somali|Somali]] community has grown substantially in recent decades due to migration from Somalia and economic activity in trade. Eastleigh in Nairobi is more famous as a Somali commercial center, but Somali traders and communities are also present in Mombasa's port areas.
 
 ## Asian
 
@@ -22,7 +22,7 @@ The Indian, Pakistani, Gujarati, and other South Asian communities have long his
 
 ## Upcountry Migrants
 
-[[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Luo/Luo|Luo]], [[../../Kamba/Kamba|Kamba]], and people from other highland ethnic groups have migrated to Mombasa seeking employment. Many work as laborers, in services, trade, and small business. Upcountry migrants have become a substantial portion of the population.
+[[Kikuyu|Kikuyu]], [[Luo|Luo]], [[Kamba|Kamba]], and people from other highland ethnic groups have migrated to Mombasa seeking employment. Many work as laborers, in services, trade, and small business. Upcountry migrants have become a substantial portion of the population.
 
 ## International Community
 
@@ -42,7 +42,7 @@ Despite ethnic diversity, Mombasa has developed a cosmopolitan culture in which 
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

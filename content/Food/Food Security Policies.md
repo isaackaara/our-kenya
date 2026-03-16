@@ -18,10 +18,10 @@ By century's end, food security policies remained central to government agricult
 
 ## See Also
 
-[[Food and Agriculture/Famine History Kenya]]
-[[Food and Agriculture/Nutrition Programs]]
-[[Food and Agriculture/Food Aid Programs]]
-[[Food and Agriculture/Agricultural Research]]
+[[Famine History Kenya]]
+[[Nutrition Programs]]
+[[Food Aid Programs]]
+[[Agricultural Research]]
 [[Health/Malnutrition and Food Security]]
 [[Poverty/Food Insecurity and Vulnerability]]
 

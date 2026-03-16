@@ -1,4 +1,4 @@
-Meru County is part of the GEMA bloc, an informal political grouping that aligns closely with the [[../../Kikuyu/Kikuyu|Kikuyu]] political establishment. GEMA refers to Gikuyu, Embu, and Meru, the three Bantu-speaking highland communities that share cultural ties and historically coordinated political action. This alignment has shaped Meru County's political trajectory and voting patterns since Kenya's independence.
+Meru County is part of the GEMA bloc, an informal political grouping that aligns closely with the [[Kikuyu|Kikuyu]] political establishment. GEMA refers to Gikuyu, Embu, and Meru, the three Bantu-speaking highland communities that share cultural ties and historically coordinated political action. This alignment has shaped Meru County's political trajectory and voting patterns since Kenya's independence.
 
 ## GEMA Alliance
 
@@ -30,9 +30,9 @@ Meru County politics continue to feature competition between different political
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

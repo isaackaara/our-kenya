@@ -31,7 +31,7 @@ The Banyore maintain strong identification with the Luhya confederation despite 
 ## References
 
 - The Star (Kenya). Siaya, Vihiga, Kisumu Leaders Clash in Border Row. February 24, 2021.
-- Grokipedia. [[../Counties/Vihiga/Vihiga County|Vihiga County]]. Accessed January 2026.
+- Grokipedia. [[Vihiga County|Vihiga County]]. Accessed January 2026.
 - Life and Peace Institute. Cross-Border Dynamics Research.
 
 ## Related Notes
@@ -45,9 +45,9 @@ The Banyore maintain strong identification with the Luhya confederation despite 
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

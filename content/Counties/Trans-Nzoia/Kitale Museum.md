@@ -9,7 +9,7 @@ The museum operates as a public institution, welcoming school groups, researcher
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.kenyatourism.go.ke/experience/kitale-museum
 2. https://museums.or.ke/member-museums/kitale-museum

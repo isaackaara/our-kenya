@@ -14,7 +14,7 @@ Moi's vice-presidential years reveal a patient, calculating politician who under
 
 ## See Also
 [[Moi Rise to Power]]
-[[Jomo Kenyatta/Legacy]]
+[[Legacy]]
 [[Moi and the Kalenjin]]
 [[Kenya/Coffee Boom]]
 [[Moi Succession 1978]]

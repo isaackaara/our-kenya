@@ -18,7 +18,7 @@ Mitigation efforts address climate change at national and global scales, though 
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Climate Change|Climate Change]]
+[[Isiolo Climate Change|Climate Change]]
 ## Sources
 
 1. IPCC: Climate Change and Its Impacts on East Africa. Fifth Assessment Report. https://www.ipcc.ch/

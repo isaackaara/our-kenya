@@ -7,7 +7,7 @@ title: "Female Circumcision Controversy"
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu Circumcision Ceremony]]
+- [[Kikuyu Circumcision Ceremony]]
 
 ## Sources
 *To be added*

@@ -16,7 +16,7 @@ Reproductive health services, including family planning and maternal care, face 
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Health|Health]]
+[[Isiolo Health|Health]]
 ## Sources
 
 1. Ministry of Health: County Health Profiles. Isiolo 2023. https://www.health.go.ke/

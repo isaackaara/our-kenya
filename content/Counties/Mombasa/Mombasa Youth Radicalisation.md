@@ -1,8 +1,8 @@
-Mombasa and the coastal region have been identified as areas of concern for recruitment of youth by al-Shabaab, a militant organization based in [[../../Somali/Somali|Somali]]a. The recruitment, while not universal, reflects socioeconomic marginalization, grievances, and identity factors.
+Mombasa and the coastal region have been identified as areas of concern for recruitment of youth by al-Shabaab, a militant organization based in [[Somali|Somali]]a. The recruitment, while not universal, reflects socioeconomic marginalization, grievances, and identity factors.
 
 ## Recruitment Patterns
 
-Al-Shabaab has recruited fighters and supporters from Mombasa and surrounding coastal areas, with recruiters targeting disaffected youth, particularly those with family connections to [[../../Somali/Somali|Somali]]a or Islamic communities. Some recruits have traveled to Somalia to join the organization.
+Al-Shabaab has recruited fighters and supporters from Mombasa and surrounding coastal areas, with recruiters targeting disaffected youth, particularly those with family connections to [[Somali|Somali]]a or Islamic communities. Some recruits have traveled to Somalia to join the organization.
 
 ## Socioeconomic Drivers
 
@@ -14,7 +14,7 @@ Coastal Muslim youth may experience marginalization in a nominally secular state
 
 ## Family and Community Factors
 
-Some recruitment reflects family and community connections to [[../../Somali/Somali|Somali]]a or to radical Islamic ideology. Charismatic preachers or recruiters may influence youth through mosques or informal networks.
+Some recruitment reflects family and community connections to [[Somali|Somali]]a or to radical Islamic ideology. Charismatic preachers or recruiters may influence youth through mosques or informal networks.
 
 ## Government Response
 
@@ -26,7 +26,7 @@ NGOs and community organizations work on youth engagement, economic opportunity 
 
 ## Deterrent Effects
 
-Some youth who were recruited have returned and shared negative experiences, potentially serving as deterrents to recruitment. Others have been killed in [[../../Somali/Somali|Somali]]a, creating family tragedy that serves as a caution to potential recruits.
+Some youth who were recruited have returned and shared negative experiences, potentially serving as deterrents to recruitment. Others have been killed in [[Somali|Somali]]a, creating family tragedy that serves as a caution to potential recruits.
 
 ## Intelligence Operations
 
@@ -38,7 +38,7 @@ Security operations and intelligence gathering in Muslim communities raise civil
 
 ## Regional Factors
 
-Al-Shabaab's presence in southern [[../../Somali/Somali|Somali]]a makes the coastal regions of Kenya vulnerable to recruitment and potential attacks. The organization maintains cross-border networks and operational reach.
+Al-Shabaab's presence in southern [[Somali|Somali]]a makes the coastal regions of Kenya vulnerable to recruitment and potential attacks. The organization maintains cross-border networks and operational reach.
 
 
 ## See Also
@@ -46,7 +46,7 @@ Al-Shabaab's presence in southern [[../../Somali/Somali|Somali]]a makes the coas
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

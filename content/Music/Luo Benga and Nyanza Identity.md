@@ -1,6 +1,6 @@
-[[Benga Music|Benga]] functioned as far more than entertainment for [[Luo]] communities during the 1960s and 1970s. It became a vehicle for asserting cultural identity, expressing political grievances, and maintaining community cohesion in a post-independence Kenya where Luo people felt increasingly marginalized. The genre's origins in traditional Luo music (particularly the nyatiti lyre and orutu fiddle), its use of Dholuo language, and its connection to [[Cross-Ethnic/Nyanza Province|Nyanza Province's]] social life made benga an embodiment of Luo cultural vitality and a response to political exclusion under the [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta presidency]].
+[[Benga Music|Benga]] functioned as far more than entertainment for [[Luo]] communities during the 1960s and 1970s. It became a vehicle for asserting cultural identity, expressing political grievances, and maintaining community cohesion in a post-independence Kenya where Luo people felt increasingly marginalized. The genre's origins in traditional Luo music (particularly the nyatiti lyre and orutu fiddle), its use of Dholuo language, and its connection to [[Cross-Ethnic/Nyanza Province|Nyanza Province's]] social life made benga an embodiment of Luo cultural vitality and a response to political exclusion under the [[Jomo Kenyatta Presidency|Kenyatta presidency]].
 
-The development of benga coincided with Luo political marginalization. [[Luo/Oginga Odinga|Oginga Odinga]], who had been Kenya's first vice president, fell out with Kenyatta in the mid-1960s and was eventually forced out of government. The [[Music and the 1969 Political Crisis|1969 assassination of Tom Mboya]], a rising Luo political star, and the subsequent Kisumu Massacre deepened Luo communities' sense of grievance. In this context, benga's popularity took on political significance. Every benga song played on the radio or at a nightclub affirmed Luo cultural presence in a nation where Luo political voice was being suppressed.
+The development of benga coincided with Luo political marginalization. [[Oginga Odinga|Oginga Odinga]], who had been Kenya's first vice president, fell out with Kenyatta in the mid-1960s and was eventually forced out of government. The [[Music and the 1969 Political Crisis|1969 assassination of Tom Mboya]], a rising Luo political star, and the subsequent Kisumu Massacre deepened Luo communities' sense of grievance. In this context, benga's popularity took on political significance. Every benga song played on the radio or at a nightclub affirmed Luo cultural presence in a nation where Luo political voice was being suppressed.
 
 [[D.O. Misiani]], [[George Ramogi]], and other benga pioneers were cultural heroes in Nyanza Province, celebrated not just for musical talent but for their role in maintaining Luo pride. Their success demonstrated that Luo culture could thrive despite political marginalization, that traditional musical forms could be modernized without being abandoned, and that Luo musicians could compete successfully in Kenya's commercial music industry. The [[Benga Guitar Technique|technical sophistication]] of benga guitar playing became a source of pride, showing that Luo musicians were second to none in skill and creativity.
 
@@ -28,8 +28,8 @@ The relationship between benga and Luo identity evolved in subsequent decades as
 - [[George Ramogi]]
 - [[Benga and Political Protest]]
 - [[Music and the 1969 Political Crisis]]
-- [[Luo/Oginga Odinga]]
-- [[Luo/Tom Mboya]]
+- [[Oginga Odinga]]
+- [[Tom Mboya]]
 - [[Kenyatta Era Music and Politics]]
 
 ## Sources

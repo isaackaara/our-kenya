@@ -6,7 +6,7 @@ Rainfall variability and reduction are projected to continue. Models suggest pre
 
 Drought impacts on pastoral livelihoods are substantial and increasing. Extended droughts reduce pasture availability. Livestock productivity declines dramatically. Animal mortality increases. Pastoralists lose accumulated wealth rapidly. Recent droughts (2010,2011 and 2019,2022) caused devastating livestock losses and widespread food emergencies.
 
-Water resources face increasing stress. Lower rainfall and higher evaporation reduce river flows and groundwater recharge. [[../../Conservation/Lake Turkana|Lake Turkana]]'s level has fluctuated historically and could decline further. Groundwater-dependent communities face risks of declining water tables and borehole failure.
+Water resources face increasing stress. Lower rainfall and higher evaporation reduce river flows and groundwater recharge. [[Lake Turkana|Lake Turkana]]'s level has fluctuated historically and could decline further. Groundwater-dependent communities face risks of declining water tables and borehole failure.
 
 Ecosystem degradation results from combination of climate stress and land use pressure. Vegetation productivity declines. Soil erosion increases. Wildlife habitat degrades. Biodiversity declines.
 
@@ -18,7 +18,7 @@ Mitigation efforts address climate change at national and global scales, though 
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Climate Change|Climate Change]]
+[[Marsabit Climate Change|Climate Change]]
 ## Sources
 
 1. IPCC: Climate Change and Its Impacts on East Africa. Fifth Assessment Report. https://www.ipcc.ch/

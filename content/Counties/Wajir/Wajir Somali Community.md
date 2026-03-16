@@ -1,4 +1,4 @@
-The [[../../Somali/Somali|Somali]] community forms the overwhelming majority population of Wajir County, with their presence defining the cultural, social, and economic fabric of the region. The Somali people have inhabited the arid lands of northeastern Kenya for centuries, developing sophisticated pastoral systems adapted to extreme environmental conditions. Wajir represents one of the most solidly Somali-populated regions in Kenya, with the community maintaining strong cultural identity and pastoral traditions despite significant modern pressures.
+The [[Somali|Somali]] community forms the overwhelming majority population of Wajir County, with their presence defining the cultural, social, and economic fabric of the region. The Somali people have inhabited the arid lands of northeastern Kenya for centuries, developing sophisticated pastoral systems adapted to extreme environmental conditions. Wajir represents one of the most solidly Somali-populated regions in Kenya, with the community maintaining strong cultural identity and pastoral traditions despite significant modern pressures.
 
 ## Clan Composition
 
@@ -37,7 +37,7 @@ Contemporary challenges including conflict, drought, and economic disruption thr
 ## See Also
 
 - [[Wajir County]]
-- [[../../Somali/Somali]]
+- [[Somali]]
 - [[Wajir Pastoralism]]
 - [[Wajir Cultural Heritage]]
 - [[Wajir Women]]

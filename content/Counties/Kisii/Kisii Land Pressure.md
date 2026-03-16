@@ -24,7 +24,7 @@ High land pressure results from:
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Population Pressure|Population Pressure]]
 - [[Gusii People Kisii|Gusii People]]
-- [[../../Luo/Luo and Land|Land Issues Across Ethnic Groups]]
+- [[Luo and Land|Land Issues Across Ethnic Groups]]
 - Desire to retain social status through land ownership
 
 ## Economic Consequences

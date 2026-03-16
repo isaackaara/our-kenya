@@ -10,9 +10,9 @@ Technical and vocational training institutions in Nakuru provide skills training
 [[Nakuru Timeline]]
 [[Lake Nakuru]]
 [[Lake Naivasha]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 [[Nakuru City]]
-[[../../Conservation/Hell's Gate National Park|Hell's Gate]]
+[[Hell's Gate National Park|Hell's Gate]]
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Education_in_Kenya

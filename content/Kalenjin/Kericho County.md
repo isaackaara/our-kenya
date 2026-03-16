@@ -1,5 +1,5 @@
 ---
-title: [[../Counties/Kericho/Kericho County|Kericho County]]
+title: [[Kericho County|Kericho County]]
 ---
 
 # Kericho County

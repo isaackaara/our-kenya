@@ -3,8 +3,8 @@
 ## Ethnic Dimensions
 
 Political competition involves:
-- [[../../Kisii/Kisii|Gusii]] majority representation
-- [[../../Kalenjin/Kipsigis|Kipsigis]] minority political participation
+- [[Kisii|Gusii]] majority representation
+- [[Kipsigis|Kipsigis]] minority political participation
 - Ethnic voting patterns
 - Competition for representation
 - Intercommunal political negotiations
@@ -27,7 +27,7 @@ County politics structured around:
 - [[Nyamira Gusii Heritage|Gusii Heritage]]
 - [[Nyamira Kipsigis|Kipsigis Presence]]
 - [[Nyamira and Devolution|Devolution]]
-- [[../../Kisii/Kisii Politics|Kisii Politics Comparison]]
+- [[Kisii Politics|Kisii Politics Comparison]]
 
 ## Political Competition
 

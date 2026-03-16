@@ -3,7 +3,7 @@ The towering Luo political figure of 20th-century Kenya. Jaramogi Amollo Oginga 
 ## Key Facts
 
 - **Full name and title**: Born Obadiah Adonijah, he renounced his Christian names and became Oginga Odinga. The title *Jaramogi* (man of Ramogi) was bestowed upon him by the Luo, linking him directly to the foundational ancestor [[Ramogi]]
-- **Vice President (1964-1966)**: When Kenya became a Republic in December 1964, Jaramogi became the nation's first Vice President under President [[../Kikuyu/Jomo Kenyatta]]. His tenure lasted until 14 April 1966
+- **Vice President (1964-1966)**: When Kenya became a Republic in December 1964, Jaramogi became the nation's first Vice President under President [[Jomo Kenyatta]]. His tenure lasted until 14 April 1966
 - **Ideological clash with Kenyatta**: Jaramogi championed closer ties with the Soviet Union, China, and socialist nations (the Warsaw Pact), while Kenyatta oriented Kenya toward the United States and the Western bloc. This fundamental disagreement over Kenya's post-colonial path drove their split
 - **Kenya People's Union (1966)**: Jaramogi resigned from office and the Kenya African National Union (KANU) in 1966 to form the Kenya People's Union (KPU), a socialist opposition party
 - **KPU banned (1969)**: Following the [[../Counties/Kisumu/Kisumu County|Kisumu County]] massacre in October 1969 (when 11 people were killed during political unrest at a hospital opening Kenyatta was attending), the KPU was banned and Jaramogi was arrested and detained for 18 months until 27 March 1971. Kenya became a de facto one-party state under KANU

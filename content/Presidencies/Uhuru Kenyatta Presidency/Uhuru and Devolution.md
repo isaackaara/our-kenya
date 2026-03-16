@@ -19,7 +19,7 @@ Despite corruption and dysfunction, devolution delivered tangible benefits that 
 - [[Uhuru and Corruption]]
 - [[Building Bridges Initiative]]
 - [[Kikuyu/Kikuyu Political Power]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 - [[Corruption/State Capture]]
 
 ## Sources

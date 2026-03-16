@@ -8,7 +8,7 @@ A consistent demand from Maasai community organizations is recognition and resti
 
 ## Tourism Revenue Sharing
 
-Maasai communities adjacent to major tourism attractions (Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]], [[../Conservation/Amboseli National Park|Amboseli National Park]]) argue that tourism revenue should be shared more equitably with communities whose territories host the attractions. Currently, international tourists spend hundreds of millions of dollars annually, with limited amounts reaching local communities. Maasai organizations demand transparent benefit-sharing agreements, increased community lodge ownership, and taxation of lodges with revenues returned to communities. This is among the most consistent demands.
+Maasai communities adjacent to major tourism attractions (Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]], [[Amboseli National Park|Amboseli National Park]]) argue that tourism revenue should be shared more equitably with communities whose territories host the attractions. Currently, international tourists spend hundreds of millions of dollars annually, with limited amounts reaching local communities. Maasai organizations demand transparent benefit-sharing agreements, increased community lodge ownership, and taxation of lodges with revenues returned to communities. This is among the most consistent demands.
 
 ## Education Investment
 
@@ -86,12 +86,12 @@ The future of Maasai communities will be shaped by extent to which these demands
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

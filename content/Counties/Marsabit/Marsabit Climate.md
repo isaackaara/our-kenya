@@ -6,7 +6,7 @@ Rainfall is highly seasonal and unreliable, with significant year-to-year variat
 
 Temperatures are high year-round, with average daily maxima often exceeding 30 degrees Celsius in lowland areas. Mount Marsabit's elevation creates cooler conditions than surrounding regions. Diurnal temperature variation can be substantial, with cool nights and hot days.
 
-Evaporation rates are high, making water retention and storage challenging. [[../../Conservation/Lake Turkana|Lake Turkana]]'s salinity gradually increases due to net evaporation. River flows decrease significantly during dry seasons.
+Evaporation rates are high, making water retention and storage challenging. [[Lake Turkana|Lake Turkana]]'s salinity gradually increases due to net evaporation. River flows decrease significantly during dry seasons.
 
 Drought represents the most significant climatic threat. Multi-year droughts (1984,1985 and 2010,2011 and ongoing conditions in recent years) devastate pastoral production as livestock die and pasture and water disappear.
 
@@ -18,7 +18,7 @@ Climate change is intensifying precipitation variability and increasing aridity.
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Climate|Climate]]
+[[Marsabit Climate|Climate]]
 ## Sources
 
 1. Kenya Meteorological Department: Climate Records and Analysis, Northern Kenya. https://www.meteo.go.ke/

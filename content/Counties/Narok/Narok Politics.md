@@ -1,4 +1,4 @@
-Narok County's political history reflects broader patterns of ethnic politics, land disputes, and power consolidation in Kenyan politics, with significant influence from prominent [[../../Maasai/Maasai|Maasai]] political dynasties and ongoing debates about land, resources, and governance.
+Narok County's political history reflects broader patterns of ethnic politics, land disputes, and power consolidation in Kenyan politics, with significant influence from prominent [[Maasai|Maasai]] political dynasties and ongoing debates about land, resources, and governance.
 
 ## Political Leadership and Dynasties
 
@@ -33,8 +33,8 @@ See also: [[Narok County|Narok County]], [[Narok Colonial History|Narok Colonial
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

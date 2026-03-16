@@ -71,9 +71,9 @@ Today, Luhya religious practice represents a complex overlapping of Christian id
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

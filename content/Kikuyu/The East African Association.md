@@ -7,7 +7,7 @@ Early political organization founded by Harry Thuku in 1921 to address Kikuyu gr
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Harry Thuku]]
+- [[Harry Thuku]]
 
 ## Sources
 *To be added*

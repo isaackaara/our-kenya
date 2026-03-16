@@ -11,7 +11,7 @@ Documentary filmmaking in contemporary Kenya reflects the medium's evolution fro
 ## See Also
 [[Film/Cinema of Kenya]]
 [[Media Ownership Control]]
-[[Journalism/Investigative Journalism]]
+[[Investigative Journalism]]
 [[Cultural/Representation]]
 [[Technology/Digital Media Kenya]]
 [[Women/Gender Media Representation]]

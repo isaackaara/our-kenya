@@ -8,13 +8,13 @@ The economic impact on musicians was catastrophic. Artists who invested thousand
 
 Recording companies that had sustained Kenya's music industry through the 1970s collapsed or withdrew. International labels like Polygram and CBS closed Kenyan operations. Domestic companies like Associated Press struggled to survive. By the late 1980s, the formal recording industry had largely disintegrated, replaced by informal River Road producers operating in legal gray zones themselves sometimes pirating content.
 
-[[Music/Kenyan Gospel Music Boom|Gospel music]] proved somewhat resistant to piracy's worst effects. Churches provided built-in distribution networks that bypassed pirate-dominated retail channels. Christian moral arguments against theft convinced some believers to purchase legitimate gospel recordings. Additionally, gospel artists could generate income through church performances when album sales failed. This relative resilience partly explains gospel's boom while other genres collapsed.
+[[Kenyan Gospel Music Boom|Gospel music]] proved somewhat resistant to piracy's worst effects. Churches provided built-in distribution networks that bypassed pirate-dominated retail channels. Christian moral arguments against theft convinced some believers to purchase legitimate gospel recordings. Additionally, gospel artists could generate income through church performances when album sales failed. This relative resilience partly explains gospel's boom while other genres collapsed.
 
-Different musical genres faced piracy's impact differently. [[Music/Kenyan Rumba Peak 1980s|Congolese rumba]] artists suffered severely because they depended on album sales for income. [[Music/Mugithi Music Origins|Mugithi]] and other vernacular genres adapted by emphasizing live performances, where piracy could not compete. Artists shifted business models from recording-centric to performance-centric economics.
+Different musical genres faced piracy's impact differently. [[Kenyan Rumba Peak 1980s|Congolese rumba]] artists suffered severely because they depended on album sales for income. [[Mugithi Music Origins|Mugithi]] and other vernacular genres adapted by emphasizing live performances, where piracy could not compete. Artists shifted business models from recording-centric to performance-centric economics.
 
 The crisis pushed musicians toward live performance as primary income source. Wedding gigs, corporate events, club residencies, and roadside concerts became essential. Artists who excelled at live performance survived; those who depended on studio recording skills struggled. This shift favored certain musical styles and disadvantaged others, fundamentally altering Kenya's musical landscape.
 
-[[Music/Recording Studios Kenya 1980s-1990s|Recording studio economics]] also transformed. Professional studios charging premium rates lost business to lo-fi operations offering cheap, quick recording. Quality declined as artists could not justify investing in expensive production that would be immediately pirated. This created vicious cycle: lower quality recordings sold fewer legitimate copies, reinforcing piracy's dominance.
+[[Recording Studios Kenya 1980s-1990s|Recording studio economics]] also transformed. Professional studios charging premium rates lost business to lo-fi operations offering cheap, quick recording. Quality declined as artists could not justify investing in expensive production that would be immediately pirated. This created vicious cycle: lower quality recordings sold fewer legitimate copies, reinforcing piracy's dominance.
 
 Legal frameworks proved inadequate. Kenya's copyright law existed but enforcement was non-existent. The Music Copyright Society of Kenya (MCSK) formed to collect royalties and combat piracy but lacked resources and political support to significantly impact the problem. Prosecutions were rare and penalties minimal, creating risk-free environment for pirates.
 
@@ -25,13 +25,13 @@ International comparisons were stark. While Nigerian, Congolese, and South Afric
 The piracy era's legacy persists. By normalizing free music access, cassette piracy created expectations that would later complicate digital music's monetization. Kenyan consumers had experienced decades of essentially free music access; convincing them to pay for digital downloads or streaming proved challenging. The trauma also made Kenyan musicians suspicious of recording industry promises, preferring independent distribution even after piracy declined.
 
 ## See Also
-- [[Music/Kenyan Gospel Music Boom]]
-- [[Music/Recording Studios Kenya 1980s-1990s]]
-- [[Music/Mugithi Music Origins]]
-- [[Music/Kenyan Rumba Peak 1980s]]
-- [[Music/FM Radio Revolution Kenya 1990s]]
-- [[Music/Music Award Shows Kenya]]
-- [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency]]
+- [[Kenyan Gospel Music Boom]]
+- [[Recording Studios Kenya 1980s-1990s]]
+- [[Mugithi Music Origins]]
+- [[Kenyan Rumba Peak 1980s]]
+- [[FM Radio Revolution Kenya 1990s]]
+- [[Music Award Shows Kenya]]
+- [[Daniel arap Moi Presidency]]
 
 ## Sources
 1. Africa Center. "Why Does Kenya's Music Industry Struggle? And How to Fix It." https://theafricacenter.org/news/detail/Why-Does-Kenyas-Music-Industry-Struggle-and-How-to-Fix-It

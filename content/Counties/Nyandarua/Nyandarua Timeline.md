@@ -1,7 +1,7 @@
 This timeline documents major events and developments in Nyandarua County's history through 2026.
 
 ## Pre-Colonial Period
-- Traditional [[../../Kikuyu/Kikuyu|Kikuyu]] settlement and land use
+- Traditional [[Kikuyu|Kikuyu]] settlement and land use
 - Sacred groves and ceremonial sites
 - Age-set initiation systems and social organization
 - Pastoral and agricultural economy
@@ -11,7 +11,7 @@ This timeline documents major events and developments in Nyandarua County's hist
 - 1904: Kikuyu Reserve established, excluding Africans from highlands
 - 1920s: Limited African settlement in some areas
 - 1950s: Aberdare National Park established
-- 1952-1960: [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] uprising, significant Nyandarua participation
+- 1952-1960: [[Mau Mau Uprising|Mau Mau]] uprising, significant Nyandarua participation
 - 1960: State of Emergency lifted
 
 ## Post-Independence Period (1964-1989)
@@ -62,11 +62,11 @@ This timeline documents major events and developments in Nyandarua County's hist
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

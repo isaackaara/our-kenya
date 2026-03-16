@@ -2,7 +2,7 @@ Nyeri County is the intellectual heartland of Kikuyuland and the home county of 
 
 ## Geography and Location
 
-Nyeri County lies in the central highlands of Kenya, bounded by [[../Conservation/Aberdare National Park|Aberdare]] mountain range to the west. The county's terrain ranges from highland forest to agricultural plateau, with altitudes reaching 2,500 meters in some areas. The county covers approximately 2,361 square kilometers.
+Nyeri County lies in the central highlands of Kenya, bounded by [[Aberdare National Park|Aberdare]] mountain range to the west. The county's terrain ranges from highland forest to agricultural plateau, with altitudes reaching 2,500 meters in some areas. The county covers approximately 2,361 square kilometers.
 
 ## Historical Significance
 
@@ -12,7 +12,7 @@ One of Nyeri's most notable historical landmarks is St. Peter's Church, where Lo
 
 ## The Mwai Kibaki Era
 
-Nyeri is best known as the home county of Mwai Kibaki, Kenya's third president (2002-2013). Kibaki's presidency marked a significant shift in Kikuyu political representation and national development priorities. Under Kibaki, the county saw significant infrastructure development, and Nyeri became synonymous with the "[[../Conservation/Mount Kenya National Park|Mount Kenya]] Mafia" political network that wielded considerable influence during his tenure.
+Nyeri is best known as the home county of Mwai Kibaki, Kenya's third president (2002-2013). Kibaki's presidency marked a significant shift in Kikuyu political representation and national development priorities. Under Kibaki, the county saw significant infrastructure development, and Nyeri became synonymous with the "[[Mount Kenya National Park|Mount Kenya]] Mafia" political network that wielded considerable influence during his tenure.
 
 ## Economic Base
 
@@ -61,7 +61,7 @@ Nyeri remains a stronghold of Kikuyu cultural traditions and identity. The count
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

@@ -24,7 +24,7 @@ The relationship between Murang'a and Nairobi creates both opportunities and cha
 - [[Murang'a Politics|National Networks]]
 - [[Murang'a Horticulture|Urban Vegetable Supply]]
 - [[Murang'a Cottage Industries|Urban Markets]]
-- [[../../Kenya/Nairobi|Capital City]]
+- [[Nairobi|Capital City]]
 
 ## Sources
 

@@ -10,7 +10,7 @@ A conservancy visitor pays USD 50-100+ per night. The community receives a perce
 
 Key conservancies include:
 
-- **Olare Orok Conservancy** (Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] adjacent, Maasai-owned)
+- **Olare Orok Conservancy** (Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] adjacent, Maasai-owned)
 - **Mara North Conservancy** (northern Mara region)
 - **Naboisho Conservancy** (southern Mara region)
 - **Ol Kinyei Conservancy** (eastern Mara region)
@@ -44,10 +44,10 @@ The conservancy model will likely persist and expand (as climate change makes pa
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

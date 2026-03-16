@@ -2,7 +2,7 @@ Wycliffe Musalia Mudavadi stands as one of the most prominent and enduring Luhya
 
 ## Early Life and Entry to Politics
 
-Born on September 21, 1960, in Sabatia, [[../Counties/Vihiga/Vihiga County|Vihiga County]], Mudavadi is the son of Moses Mudavadi, who served as Vice President of Kenya under President Daniel arap Moi from 1988 to 1991. This family connection positioned Mudavadi within Kenya's political elite from birth, though his political career would unfold on its own trajectory.
+Born on September 21, 1960, in Sabatia, [[Vihiga County|Vihiga County]], Mudavadi is the son of Moses Mudavadi, who served as Vice President of Kenya under President Daniel arap Moi from 1988 to 1991. This family connection positioned Mudavadi within Kenya's political elite from birth, though his political career would unfold on its own trajectory.
 
 Mudavadi's mother is a land economist, and his background included exposure to national-level politics and sophisticated political networks from an early age. This family background shaped his later political approach and gave him connections across Kenya's political establishment.
 
@@ -70,9 +70,9 @@ His appointment to the Prime Cabinet Secretary position represents a recognition
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

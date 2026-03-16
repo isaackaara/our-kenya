@@ -1,12 +1,12 @@
-Bomet County is located in the southwestern Rift Valley, centered on the [[../../Kalenjin/Kipsigis|Kipsigis]] sub-group of the [[../../Kalenjin/Kalenjin|Kalenjin]] people. The county encompasses 2,271 square kilometers and has a population of approximately 900,000. Bomet is the county headquarters located on the border with the [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]] National Reserve.
+Bomet County is located in the southwestern Rift Valley, centered on the [[Kipsigis|Kipsigis]] sub-group of the [[Kalenjin|Kalenjin]] people. The county encompasses 2,271 square kilometers and has a population of approximately 900,000. Bomet is the county headquarters located on the border with the [[Maasai Mara National Reserve|Maasai Mara]] National Reserve.
 
 ## Overview
 
 The county is characterized by:
 - Southwestern Rift Valley location
-- [[../../Kalenjin/Kipsigis|Kipsigis]] ethnic dominance
+- [[Kipsigis|Kipsigis]] ethnic dominance
 - Tea as the dominant cash crop
-- Highlands adjacent to the [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]] ecosystem
+- Highlands adjacent to the [[Maasai Mara National Reserve|Maasai Mara]] ecosystem
 - Strategic location for tourism and agriculture
 - Bomet town serving as county administrative center
 
@@ -33,8 +33,8 @@ County economy centered on:
 ## Ethnic Composition
 
 Primary population includes:
-- [[../../Kalenjin/Kipsigis|Kipsigis]] (dominant [[../../Kalenjin/Kalenjin|Kalenjin]] sub-group)
-- Other [[../../Kalenjin/Kalenjin|Kalenjin]] groups
+- [[Kipsigis|Kipsigis]] (dominant [[Kalenjin|Kalenjin]] sub-group)
+- Other [[Kalenjin|Kalenjin]] groups
 - Diverse ethnic mixing
 - Religious diversity
 - Cultural integration
@@ -97,8 +97,8 @@ County importance reflects:
 
 - [[Kipsigis in Bomet|Kipsigis People]]
 - [[Bomet Tea|Tea Industry]]
-- [[../../Kalenjin/Kalenjin|Kalenjin People]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
+- [[Kalenjin|Kalenjin People]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Bomet and the Maasai Mara|Mara Relations]]
 - [[Chepalungu Forest|Chepalungu Forest]]
 ## Sources

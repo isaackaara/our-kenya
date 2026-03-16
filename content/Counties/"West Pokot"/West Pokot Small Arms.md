@@ -12,8 +12,8 @@ Government disarmament programs target pastoral weapons through mandatory surren
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.amnesty.org/en/documents/AFR32/001/2008/en/
 2. https://www.standardmedia.co.ke/counties/article/2000654321/small-arms-west-pokot

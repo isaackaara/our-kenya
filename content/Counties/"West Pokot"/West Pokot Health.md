@@ -12,8 +12,8 @@ Rural populations often face long distances to health facilities, limiting emerg
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.health.go.ke/county-health-profiles/west-pokot
 2. https://www.standardmedia.co.ke/counties/article/2000987654/health-west-pokot

@@ -24,7 +24,7 @@ Contemporary research indicates that the Kikuyu acquired a disproportionately la
 
 ## Nairobi Property Market and Urban Investment
 
-The explosive growth of Nairobi from the 1960s onward created unprecedented opportunities for real estate speculation and investment. Kikuyu entrepreneurs, capitalizing on their access to capital and business networks, became major players in Nairobi's property market. Areas including Westlands, Muthaiga, Brookside, Kilimani, Langata, and various suburbs in [[../Counties/Kiambu/Kiambu County|Kiambu County]] saw significant Kikuyu-led property development and acquisition.
+The explosive growth of Nairobi from the 1960s onward created unprecedented opportunities for real estate speculation and investment. Kikuyu entrepreneurs, capitalizing on their access to capital and business networks, became major players in Nairobi's property market. Areas including Westlands, Muthaiga, Brookside, Kilimani, Langata, and various suburbs in [[Kiambu County|Kiambu County]] saw significant Kikuyu-led property development and acquisition.
 
 Kikuyu investment in Nairobi real estate served multiple functions. For individuals, it represented wealth accumulation, capital appreciation, and a hedge against inflation. For communities, it created a foothold in the capital city and facilitated the growth of the Kikuyu diaspora within Nairobi. For enterprises, it provided collateral for business expansion and symbols of achieved status.
 

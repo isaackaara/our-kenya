@@ -1,20 +1,20 @@
-Kisumu is the cultural heartland of [[../../Luo/Luo|Luo]] people, one of Kenya's largest and most influential ethnic groups. Luo language, culture, food, music, and political traditions are central to Kisumu's identity.
+Kisumu is the cultural heartland of [[Luo|Luo]] people, one of Kenya's largest and most influential ethnic groups. Luo language, culture, food, music, and political traditions are central to Kisumu's identity.
 
 ## Luo Population
 
-Kisumu is the center of [[../../Luo/Luo|Luo]] settlement and identity in Kenya. The Luo, numbering approximately 4 to 5 million, are concentrated in Nyanza Region and its surrounding areas, with Kisumu as the regional center.
+Kisumu is the center of [[Luo|Luo]] settlement and identity in Kenya. The Luo, numbering approximately 4 to 5 million, are concentrated in Nyanza Region and its surrounding areas, with Kisumu as the regional center.
 
 ## Language
 
-[[../../Luo/Luo|Luo]] is the primary language of Kisumu, spoken in homes, markets, schools, and government. Luo language is preserved and transmitted through family, school, and community institutions.
+[[Luo|Luo]] is the primary language of Kisumu, spoken in homes, markets, schools, and government. Luo language is preserved and transmitted through family, school, and community institutions.
 
 ## Cultural Identity
 
-Kisumu residents, whether [[../../Luo/Luo|Luo]] or migrants, participate in Luo cultural practices and express Luo cultural identity. The city celebrates Luo music, dance, food, and social traditions.
+Kisumu residents, whether [[Luo|Luo]] or migrants, participate in Luo cultural practices and express Luo cultural identity. The city celebrates Luo music, dance, food, and social traditions.
 
 ## Music and Arts
 
-Benga music, originating from [[../../Luo/Luo|Luo]] communities, is popular throughout Kisumu. Live music venues feature Benga performers and traditional Luo music. Music remains an important cultural expression and entertainment form.
+Benga music, originating from [[Luo|Luo]] communities, is popular throughout Kisumu. Live music venues feature Benga performers and traditional Luo music. Music remains an important cultural expression and entertainment form.
 
 ## Food Culture
 
@@ -42,7 +42,7 @@ Kisumu residents express strong cultural pride in their Luo heritage, viewing Ki
 
 ## See also
 
-For broader Luo context, see [[../../Luo/Luo]].
+For broader Luo context, see [[Luo]].
 
 
 ## See Also
@@ -50,7 +50,7 @@ For broader Luo context, see [[../../Luo/Luo]].
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

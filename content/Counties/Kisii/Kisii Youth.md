@@ -24,7 +24,7 @@ Many youth migrate in search of opportunities:
 - [[Kisii Diaspora|Diaspora]]
 - [[Kisii Land Pressure|Land Pressure]]
 - [[Gusii People Kisii|Gusii People]]
-- [[../../Luo/Young Luo Identity|Luo Youth Comparison]]
+- [[Young Luo Identity|Luo Youth Comparison]]
 - Circular migration maintaining rural family connections
 
 ## Entrepreneurship and Innovation

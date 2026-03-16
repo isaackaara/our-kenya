@@ -1,4 +1,4 @@
-Nandi County is located in the western Rift Valley highlands with an estimated population of approximately 900,000 people. The Nandi people, a [[../../Kalenjin/Kalenjin|Kalenjin]] sub-group, form the dominant community and maintain strong cultural identity and historical consciousness. The county is renowned for three distinctive characteristics: the Nandi people's extraordinarily effective resistance to British colonialism from 1895 to 1905, their dominant representation in world distance running, and significant tea, dairy, and agricultural production.
+Nandi County is located in the western Rift Valley highlands with an estimated population of approximately 900,000 people. The Nandi people, a [[Kalenjin|Kalenjin]] sub-group, form the dominant community and maintain strong cultural identity and historical consciousness. The county is renowned for three distinctive characteristics: the Nandi people's extraordinarily effective resistance to British colonialism from 1895 to 1905, their dominant representation in world distance running, and significant tea, dairy, and agricultural production.
 
 Kapsabet serves as the county headquarters, a town internationally recognized as a training base for elite distance runners. Understanding Nandi requires examining its colonial history of resistance, the cultural and environmental factors supporting distance running excellence, the contemporary economic importance of agriculture and tea production, and the ongoing tension between rural livelihoods and youth migration toward urban and athletics opportunities.
 
@@ -25,7 +25,7 @@ Kapsabet serves as the county headquarters, a town internationally recognized as
 19. [[Nandi Climate]]
 20. [[Nandi Cultural Heritage]]
 21. [[Nandi Dairy]]
-22. [[Nandi and [[../Kakamega/Kakamega County|Kakamega]]
+22. [[Kakamega County|Kakamega]]
 24. [[Nandi Food Culture]]
 25. [[Nandi Spirits and Religion]]
 26. [[Nandi Diaspora]]
@@ -37,7 +37,7 @@ Kapsabet serves as the county headquarters, a town internationally recognized as
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

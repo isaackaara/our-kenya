@@ -2,7 +2,7 @@ This timeline documents key dates and events in Kakamega County history from the
 
 ## Pre-Colonial Era (Before 1900)
 
-[[../../Luhya/Luhya|Luhya]] communities including Isukha, Idakho, and Tiriki occupy and settle the Kakamega region, developing agricultural and pastoral production systems, establishing social institutions and governance structures, and creating cultural traditions.
+[[Luhya|Luhya]] communities including Isukha, Idakho, and Tiriki occupy and settle the Kakamega region, developing agricultural and pastoral production systems, establishing social institutions and governance structures, and creating cultural traditions.
 
 ## Colonial Period (1900-1963)
 
@@ -36,7 +36,7 @@ Climate change adaptation remains critical priority. Sugarcane industry restruct
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

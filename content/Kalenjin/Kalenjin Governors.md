@@ -4,19 +4,19 @@ Kenya's 2010 constitutional devolution created county-level governance structure
 
 The devolution system transferred significant resources and responsibilities from the national government to county governments. Counties control budgets for local development, education, health, agriculture, and other services. This shift meant that county-level politics became consequential, with governors emerging as significant political figures controlling substantial resources and able to advance development agendas in their regions.
 
-## [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]]
+## [[Uasin Gishu County|Uasin Gishu County]]
 
-Uasin Gishu County has produced prominent governors including Jackson Mandago (2013,2022) and Jonathan Bii (2022,). Mandago's governorship saw significant investment in county infrastructure, agricultural development, and urban services. As the county containing [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], Uasin Gishu's governor oversees urban development in the region's economic center.
+Uasin Gishu County has produced prominent governors including Jackson Mandago (2013,2022) and Jonathan Bii (2022,). Mandago's governorship saw significant investment in county infrastructure, agricultural development, and urban services. As the county containing [[Uasin Gishu County|Uasin Gishu County]], Uasin Gishu's governor oversees urban development in the region's economic center.
 
-## [[../Counties/Nandi/Nandi County|Nandi County]]
+## [[Nandi County|Nandi County]]
 
 Nandi County has been governed by governors including Cleophas Lagat (2013,2022) and Stephen Sang (2022,). Nandi's governance has similarly focused on agricultural development, rural infrastructure, and service delivery in a county where farming remains economically central.
 
-## [[../Counties/Kericho/Kericho County|Kericho County]]
+## [[Kericho County|Kericho County]]
 
 Kericho County (the heart of Kenya's tea-producing region) has been governed by governors including Paul Chepkwony (2013,2022) and others. Kericho's gubernatorial politics must navigate the tension between large multinational tea estates and smallholder tea farming, and between national agricultural policies and local farmer interests.
 
-## [[../Counties/Baringo/Baringo County|Baringo County]]
+## [[Baringo County|Baringo County]]
 
 Baringo County has been governed by Stanley Kiptis and others. Baringo's governance challenges include managing conflict between pastoral and agricultural communities, addressing land disputes, and securing water resources in a semi-arid region.
 

@@ -7,7 +7,7 @@ Historian Caroline Elkins's influential work documenting British atrocities duri
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Wanjiku Kamau and the 2010 Constitution]]
+- [[Wanjiku Kamau and the 2010 Constitution]]
 
 ## Sources
 *To be added*

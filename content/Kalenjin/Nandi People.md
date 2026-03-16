@@ -2,7 +2,7 @@ The Nandi are a major sub-group of the Kalenjin and constitute one of the most h
 
 ## Territory and Geography
 
-The Nandi traditionally inhabited and continue to reside in what is today [[../Counties/Nandi/Nandi County|Nandi County]] in the western Rift Valley, an area characterized by fertile highland zones. The Nandi Hills form the geographic and cultural heart of their homeland, offering terrain that proved instrumental in their ability to conduct protracted resistance against British occupation. The region's elevation and forest cover (including portions of the Mau Forest) provided both agricultural productivity and strategic advantage during colonial conflicts.
+The Nandi traditionally inhabited and continue to reside in what is today [[Nandi County|Nandi County]] in the western Rift Valley, an area characterized by fertile highland zones. The Nandi Hills form the geographic and cultural heart of their homeland, offering terrain that proved instrumental in their ability to conduct protracted resistance against British occupation. The region's elevation and forest cover (including portions of the Mau Forest) provided both agricultural productivity and strategic advantage during colonial conflicts.
 
 ## Colonial Resistance
 

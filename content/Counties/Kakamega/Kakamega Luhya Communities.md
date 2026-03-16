@@ -1,4 +1,4 @@
-Kakamega County is the heartland of the Luhya people, with three major sub-groups comprising the dominant population: the Isukha, Idakho, and Tiriki. These Luhya communities maintain distinct cultural practices while sharing broader Luhya traditions in language, social organization, and agricultural systems. The Maragoli (also called Logoli), another Luhya sub-group, primarily inhabit [[../Vihiga/Vihiga County|Vihiga]] County but have historical and cultural ties to Kakamega.
+Kakamega County is the heartland of the Luhya people, with three major sub-groups comprising the dominant population: the Isukha, Idakho, and Tiriki. These Luhya communities maintain distinct cultural practices while sharing broader Luhya traditions in language, social organization, and agricultural systems. The Maragoli (also called Logoli), another Luhya sub-group, primarily inhabit [[Vihiga County|Vihiga]] County but have historical and cultural ties to Kakamega.
 
 ## The Isukha
 
@@ -18,12 +18,12 @@ All Luhya sub-groups in Kakamega have experienced significant social change due 
 
 ## Cross-Luhya Links
 
-[[../../Luhya/Luhya]]
+[[Luhya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

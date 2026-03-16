@@ -1,4 +1,4 @@
-Kirinyaga's political history reflects its [[../../Kikuyu/Kikuyu|Kikuyu]] majority population, agricultural prosperity, and central role in Kenya's post-independence development. Political leadership has generally come from educated Kikuyu elites with business and farming interests. The county has produced several national politicians and government ministers. Electoral politics focus on agricultural issues, infrastructure development, and resource allocation.
+Kirinyaga's political history reflects its [[Kikuyu|Kikuyu]] majority population, agricultural prosperity, and central role in Kenya's post-independence development. Political leadership has generally come from educated Kikuyu elites with business and farming interests. The county has produced several national politicians and government ministers. Electoral politics focus on agricultural issues, infrastructure development, and resource allocation.
 
 ## Post-Independence Development
 
@@ -28,11 +28,11 @@ Like other Kenyan counties, Kirinyaga faces challenges related to corruption and
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

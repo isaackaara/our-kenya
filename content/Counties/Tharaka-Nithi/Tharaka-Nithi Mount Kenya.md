@@ -1,4 +1,4 @@
-Mount Kenya's eastern slopes form the western boundary of Tharaka-Nithi County, and the mountain dominates the region's geography, climate, and ecology. The eastern face rises from approximately 1,000 meters in the lowland zones to the mountain's peak at 5,199 meters, with zones of forest, scrubland, and alpine grassland creating distinct ecological bands. The [[../../Conservation/Mount Kenya National Park|Mount Kenya National Park]] and Forest Reserve protect the upper slopes, while the lower zones integrate into communal and private lands where Chuka, Mwimbi, and Tharaka communities engage in agriculture, pastoralism, and resource extraction.
+Mount Kenya's eastern slopes form the western boundary of Tharaka-Nithi County, and the mountain dominates the region's geography, climate, and ecology. The eastern face rises from approximately 1,000 meters in the lowland zones to the mountain's peak at 5,199 meters, with zones of forest, scrubland, and alpine grassland creating distinct ecological bands. The [[Mount Kenya National Park|Mount Kenya National Park]] and Forest Reserve protect the upper slopes, while the lower zones integrate into communal and private lands where Chuka, Mwimbi, and Tharaka communities engage in agriculture, pastoralism, and resource extraction.
 
 The mountain's influence on climate is profound. The eastern slopes receive significantly higher rainfall than the lowlands to the east, with moisture-laden air from the Indian Ocean flowing upslope and releasing precipitation. Upper-zone areas receive 2,000-2,500mm annually, supporting dense forests and intensive agriculture. The lower slopes receive 1,000-1,500mm, sufficient for coffee and tea cultivation. Below that, rainfall declines sharply, creating the dry lowlands occupied by the Tharaka where annual precipitation drops to 400-600mm.
 
@@ -10,7 +10,7 @@ Water is the mountain's most crucial resource. Multiple rivers originate on the 
 
 ## See Also
 
-[[../../Conservation/Mount Kenya National Park|Mount Kenya National Park]]
+[[Mount Kenya National Park|Mount Kenya National Park]]
 [[Tharaka-Nithi County|Tharaka-Nithi County]]
 [[Tharaka-Nithi Climate|Tharaka-Nithi Climate]]
 [[Tharaka-Nithi Wildlife|Tharaka-Nithi Wildlife]]

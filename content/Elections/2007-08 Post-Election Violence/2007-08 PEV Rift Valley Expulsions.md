@@ -16,7 +16,7 @@ The expulsions also had consequences for Kalenjin communities. While the displac
 [[2007-08 PEV Kalenjin Warriors|Kalenjin Warriors]]
 [[2007-08 PEV Land Unresolved|Land Unresolved]]
 [[2007-08 PEV IDPs in 2026|IDPs in 2026]]
-[[../../Corruption/Corruption|Corruption and Land Alienation]]
+[[Corruption|Corruption and Land Alienation]]
 
 ## Sources
 

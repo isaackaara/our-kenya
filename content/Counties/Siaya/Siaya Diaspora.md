@@ -2,7 +2,7 @@ Siaya residents have migrated to urban centers and international destinations in
 
 ## Urban Migration Patterns
 
-Rural-to-urban migration has directed Siaya residents toward [[../Kisumu/Kisumu|Kisumu City]], Nairobi, and other urban centers. Young people migrate in search of wage employment and urban opportunities. Seasonal migration for temporary employment represents another migration pattern.
+Rural-to-urban migration has directed Siaya residents toward [[Kisumu|Kisumu City]], Nairobi, and other urban centers. Young people migrate in search of wage employment and urban opportunities. Seasonal migration for temporary employment represents another migration pattern.
 
 ## Nairobi Diaspora
 
@@ -22,12 +22,12 @@ Clan associations and regional associations in urban areas provide community org
 
 ## See Also
 
-- [[../../Luo/Luo in Nairobi|Luo in Nairobi]]
-- [[../../Luo/Luo and Nairobi|Luo and Nairobi]]
+- [[Luo in Nairobi|Luo in Nairobi]]
+- [[Luo and Nairobi|Luo and Nairobi]]
 - [[Siaya Youth]]
 - [[Siaya County]]
 - [[Barack Obama Sr and Siaya]]
-- [[../../Luo/Luo and Urban Economy|Luo and Urban Economy]]
+- [[Luo and Urban Economy|Luo and Urban Economy]]
 - [[Kogelo Village]]
 
 ## Sources

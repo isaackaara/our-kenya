@@ -34,8 +34,8 @@ County government incorporates climate change in development planning. Climate-s
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Meteorological Department. (2021). Climate Profile, Homa Bay. https://www.meteo.go.ke/

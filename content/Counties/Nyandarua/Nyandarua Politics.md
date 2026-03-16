@@ -1,4 +1,4 @@
-Nyandarua's political landscape reflects post-independence development and [[../../Kikuyu/Kikuyu|Kikuyu]] political dominance in central Kenya. Political leadership has traditionally come from educated Kikuyu elites with agricultural and business interests. The county has produced national politicians including government ministers and parliament members. Electoral politics focus on agricultural development, infrastructure, and service provision. Devolution in 2013 created new governance structures bringing government closer to communities.
+Nyandarua's political landscape reflects post-independence development and [[Kikuyu|Kikuyu]] political dominance in central Kenya. Political leadership has traditionally come from educated Kikuyu elites with agricultural and business interests. The county has produced national politicians including government ministers and parliament members. Electoral politics focus on agricultural development, infrastructure, and service provision. Devolution in 2013 created new governance structures bringing government closer to communities.
 
 ## Post-Independence Political Development
 
@@ -28,11 +28,11 @@ Political discourse emphasizes wheat productivity improvement, water development
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

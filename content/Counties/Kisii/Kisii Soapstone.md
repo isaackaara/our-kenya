@@ -39,7 +39,7 @@ Beyond economic importance, soapstone carving preserves traditional artistic ski
 - [[Kisii Cultural Heritage|Cultural Heritage]]
 - [[Kisii Economy Overview|County Economy]]
 - [[Kisii Urban Economy|Urban Economy]]
-- [[../../Kalenjin/Kalenjin Visual Culture|Kalenjin Crafts Comparison]]
+- [[Kalenjin Visual Culture|Kalenjin Crafts Comparison]]
 
 ## Sources
 

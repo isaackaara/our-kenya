@@ -34,8 +34,8 @@ The border region has generally experienced peace, though occasional security in
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Borders Authority. (2020). Border Information. https://www.kba.go.ke/

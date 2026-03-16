@@ -1,4 +1,4 @@
-The Chuka and Mwimbi are closely related sub-groups of the larger [[../../Meru/Meru|Meru]] ethnic family, occupying the well-watered eastern slopes of Mount Kenya within Tharaka-Nithi County. With a combined population of approximately 250,000 in the county, they are the largest ethnic group in the region and have historically been sedentary agriculturalists, cultivating coffee, tea, pulses, and food crops on the fertile volcanic slopes where rainfall exceeds 1,500mm annually. Though distinct from the lowland [[Tharaka People County|Tharaka]] community, the Chuka and Mwimbi share pastoral heritage and cultural practices with their Meru cousins and maintain close inter-marriage and trade ties with neighboring [[../../Counties/Meru County|Meru County]] communities.
+The Chuka and Mwimbi are closely related sub-groups of the larger [[Meru|Meru]] ethnic family, occupying the well-watered eastern slopes of Mount Kenya within Tharaka-Nithi County. With a combined population of approximately 250,000 in the county, they are the largest ethnic group in the region and have historically been sedentary agriculturalists, cultivating coffee, tea, pulses, and food crops on the fertile volcanic slopes where rainfall exceeds 1,500mm annually. Though distinct from the lowland [[Tharaka People County|Tharaka]] community, the Chuka and Mwimbi share pastoral heritage and cultural practices with their Meru cousins and maintain close inter-marriage and trade ties with neighboring [[Meru County|Meru County]] communities.
 
 The names "Chuka" and "Mwimbi" refer to specific geographic regions rather than sharply differentiated ethnic groups. The Chuka occupy the central zone, historically settled around what is now Chuka Town and the surrounding highlands. The Mwimbi occupy areas to the north and northwest, closer to the Meru border and higher altitude zones. Both speak the Kichuka language, a Bantu dialect closely related to Kimeru, and share social organization, initiation practices, and religious traditions. Intermarriage between Chuka and Mwimbi is common, and the terms are sometimes used interchangeably to describe the mountain-slope communities collectively.
 
@@ -12,13 +12,13 @@ Culturally, Chuka-Mwimbi society is highly Christian, with both Catholic and Pro
 
 ## See Also
 
-[[../../Meru/Meru|Meru]]
+[[Meru|Meru]]
 [[Tharaka-Nithi County|Tharaka-Nithi County]]
 [[Tharaka People County|Tharaka People County]]
 [[Tharaka-Nithi Coffee|Tharaka-Nithi Coffee]]
 [[Tharaka-Nithi Tea|Tharaka-Nithi Tea]]
 [[Tharaka-Nithi Mau Mau|Tharaka-Nithi Mau Mau]]
-[[../../Counties/Meru County|Meru County]]
+[[Meru County|Meru County]]
 
 ## Sources
 

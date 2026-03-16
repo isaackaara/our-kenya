@@ -67,7 +67,7 @@ Raila's positioning in continental African politics suggests that Luo leaders ca
 ## Cross-links
 - [[Raila Odinga]]
 - [[Luo-Kikuyu Political Relationship]]
-- [[../Kikuyu/William Ruto Presidency]] (hypothetical)
+- [[William Ruto Presidency]] (hypothetical)
 - [[Jaramogi Oginga Odinga]]
 ## See Also
 

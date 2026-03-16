@@ -20,7 +20,7 @@ The political impact of the first term was to create new power centers independe
 - [[2007 Post-Election Violence]]
 - [[Elections/2017 Presidential Election]]
 - [[Kikuyu/Kikuyu Political Power]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 
 ## Sources
 1. "Kenya's First Generation of County Governments: An Assessment," Institute of Economic Affairs Kenya, 2017. https://www.ieakenya.or.ke/publications/first-generation-county-governments

@@ -21,7 +21,7 @@ Challenges to the World Heritage status include water scarcity (particularly acu
 - [[Lamu Architecture|Lamu Architecture]]
 - [[Lamu Tourism|Lamu Tourism]]
 - [[Lamu Real Estate|Lamu Real Estate]]
-- [[../../Swahili/Swahili|Swahili Culture]]
+- [[Swahili|Swahili Culture]]
 - [[Lamu Colonial History|Lamu Colonial History]]
 
 ## Sources

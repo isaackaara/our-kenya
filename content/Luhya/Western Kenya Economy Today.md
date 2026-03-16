@@ -40,7 +40,7 @@ Infrastructure development has been uneven, with main highway corridors well-dev
 
 ## Urban Centers
 
-Kakamega town serves as the regional center for [[../Counties/Kakamega/Kakamega County|Kakamega County]], offering government services, banking, education, and commerce. The town has grown significantly since the 1990s, though growth has been slower than some other regional centers.
+Kakamega town serves as the regional center for [[Kakamega County|Kakamega County]], offering government services, banking, education, and commerce. The town has grown significantly since the 1990s, though growth has been slower than some other regional centers.
 
 Kisumu, the largest city in western Kenya (and technically outside Luhya territory proper, though culturally linked), serves as the main urban center for the broader region, with major port facilities, industrial plants, and commercial activities.
 
@@ -64,7 +64,7 @@ Climate change represents a growing threat, with changing rainfall patterns affe
 
 - Wikipedia. Luhya People. December 2025.
 - Kakamega County Government. History and Culture.
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]. History and Culture.
+- [[Vihiga County|Vihiga County]]. History and Culture.
 - Grokipedia. Busia County. January 2026.
 
 ## Related Notes
@@ -73,7 +73,7 @@ Climate change represents a growing threat, with changing rainfall patterns affe
 [[Trans-Nzoia]]
 [[Luhya Farming Practices]]
 [[Kakamega County]]
-[[[[../Counties/Bungoma/Bungoma County|Bungoma County]]]]
+[[Bungoma County|Bungoma County]]]]
 [[Busia County]]
 [[Vihiga County]]
 
@@ -81,9 +81,9 @@ Climate change represents a growing threat, with changing rainfall patterns affe
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

@@ -14,15 +14,15 @@ Mount Elgon is an ancient extinct volcano straddling the Kenya-Uganda border. Sa
 Mount Elgon's significance as a sacred site contrasts sharply with its modern history as a zone of violence and displacement. The conflict revealed tensions between ethnic identity, land claims, and state authority in a region with deep historical and spiritual meaning.
 
 ## Related
-[[Bukusu]] | [[../Kalenjin/Kalenjin Pastoralism]] | [[Luhya and Land]]
+[[Bukusu]] | [[Kalenjin Pastoralism]] | [[Luhya and Land]]
 
 ## See Also
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

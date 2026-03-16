@@ -1,4 +1,4 @@
-[[../../Conservation/Aberdare National Park|Aberdare Range]] slopes contain sacred and culturally significant sites important to [[../../Kikuyu/Kikuyu|Kikuyu]] traditions. Sacred groves held spiritual significance. Some sites have been protected while others face pressure from development. Cultural preservation attempts to maintain knowledge and respect for important places. Historical sites mark colonial and [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] history.
+[[Aberdare National Park|Aberdare Range]] slopes contain sacred and culturally significant sites important to [[Kikuyu|Kikuyu]] traditions. Sacred groves held spiritual significance. Some sites have been protected while others face pressure from development. Cultural preservation attempts to maintain knowledge and respect for important places. Historical sites mark colonial and [[Mau Mau Uprising|Mau Mau]] history.
 
 ## Sacred Groves
 
@@ -20,11 +20,11 @@ Memorials commemorate historical events and individuals. Graves of prominent ind
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

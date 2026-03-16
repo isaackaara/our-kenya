@@ -20,7 +20,7 @@ Moi's engagement with the World Bank and IMF thus demonstrates how international
 [[Moi and International Donors]]
 [[Kenya/Economic Decline 1980s]]
 [[Moi and USAID]]
-[[Corruption/Kenya]]
+[[Kenya]]
 
 ## Sources
 1. https://www.worldbank.org/en/country/kenya/brief/history (accessed 2024)

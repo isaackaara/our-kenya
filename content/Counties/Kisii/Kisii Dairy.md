@@ -72,7 +72,7 @@ Sustainable dairy development requires:
 - [[Kisii Climate Change|Climate Change]]
 - [[Kisii Farming Practices|Farming Practices]]
 - [[Kisii Economy Overview|County Economy]]
-- [[../../Kalenjin/Kalenjin Pastoralism|Kalenjin Pastoralism]]
+- [[Kalenjin Pastoralism|Kalenjin Pastoralism]]
 
 ## Sources
 

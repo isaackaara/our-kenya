@@ -16,7 +16,7 @@ Informal education through community-based programmes and NGO initiatives supple
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Education|Education]]
+[[Isiolo Education|Education]]
 ## Sources
 
 1. Ministry of Education: Education Sector Plan 2022,2026. https://www.education.go.ke/

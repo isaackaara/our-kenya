@@ -18,9 +18,9 @@ Gender segregation in colonial labor created different musical traditions. Men's
 
 The songs served psychological survival functions. Colonial labor was often dehumanizing, treating African workers as interchangeable units of production. Creating music, even in work contexts, reasserted humanity, creativity, and cultural identity. The act of singing together created solidarity and collective identity among workers from diverse ethnic backgrounds.
 
-Recording and documentation of work songs was minimal. Unlike [[Music/East African Indian Ocean Taarab History|taarab]] or church music, work songs were not considered worthy of recording by the colonial [[Music/East African Recording Industry Origins|music industry]]. They circulated orally, evolving locally, and most have been lost except where later ethnomusicologists documented them.
+Recording and documentation of work songs was minimal. Unlike [[East African Indian Ocean Taarab History|taarab]] or church music, work songs were not considered worthy of recording by the colonial [[East African Recording Industry Origins|music industry]]. They circulated orally, evolving locally, and most have been lost except where later ethnomusicologists documented them.
 
-The relationship to [[Music/Music and Colonial Resistance|broader resistance]] was implicit rather than explicit. Work songs rarely called for rebellion or violence, but they maintained dignity and solidarity, essential preconditions for organized resistance. The musical traditions developed in labor contexts informed later political songs and labor organizing efforts.
+The relationship to [[Music and Colonial Resistance|broader resistance]] was implicit rather than explicit. Work songs rarely called for rebellion or violence, but they maintained dignity and solidarity, essential preconditions for organized resistance. The musical traditions developed in labor contexts informed later political songs and labor organizing efforts.
 
 Some work songs crossed from labor contexts into broader circulation. Particularly catchy or emotionally powerful songs migrated from railways or farms to urban entertainment venues, where they were performed in modified forms. This migration documented the songs' artistic value beyond their immediate functional purposes.
 
@@ -29,12 +29,12 @@ Post-independence, work songs largely disappeared as labor contexts changed. Mec
 Work songs represent music at its most fundamental: sound created by people performing difficult labor together, making that labor bearable, and asserting their humanity against systems that denied it. These songs were not art for art's sake but music as survival strategy, cultural maintenance, and subtle resistance.
 
 ## See Also
-- [[Music/Music and Colonial Resistance]]
-- [[Music/Beni Ngoma Colonial Era]]
+- [[Music and Colonial Resistance]]
+- [[Beni Ngoma Colonial Era]]
 - [[Europeans/European Settlers Kenya]]
-- [[Music/Colonial Music Censorship Kenya]]
-- [[Music/Mau Mau Songs and the Forest]]
-- [[Music/Women Performers Colonial Kenya]]
+- [[Colonial Music Censorship Kenya]]
+- [[Mau Mau Songs and the Forest]]
+- [[Women Performers Colonial Kenya]]
 
 ## Sources
 1. Van Zwanenberg, R.M.A. "Colonial Capitalism and Labour in Kenya 1919-1939." East African Literature Bureau, 1975. https://www.worldcat.org/title/colonial-capitalism-and-labour-in-kenya/oclc/2123456

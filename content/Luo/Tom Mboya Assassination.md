@@ -1,4 +1,4 @@
-On July 5, 1969, Tom Mboya, the brilliant, charismatic Minister of Economic Planning, was shot dead on a Nairobi street in broad daylight. His assassination shattered the Luo community, triggered a state crackdown, and set in motion the political rupture between the Luo and [[../Kikuyu/Kikuyu|Kikuyu]] that would define Kenyan politics for decades.
+On July 5, 1969, Tom Mboya, the brilliant, charismatic Minister of Economic Planning, was shot dead on a Nairobi street in broad daylight. His assassination shattered the Luo community, triggered a state crackdown, and set in motion the political rupture between the Luo and [[Kikuyu|Kikuyu]] that would define Kenyan politics for decades.
 
 ## Tom Mboya: The Fallen Leader
 

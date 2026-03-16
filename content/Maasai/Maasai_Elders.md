@@ -20,7 +20,7 @@ Some famous laibons wielded enormous influence (Mbatiany in the 19th century, Ol
 
 In the contemporary era, elder councils operate alongside county governments, national politicians, and state administration. This creates multiple and sometimes competing authority structures.
 
-A [[../Counties/Narok/Narok County|Narok County]] Governor is elected through national politics. But local elder councils retain moral authority and can influence community behavior (especially regarding pastoral movement, marriage customs, and dispute resolution).
+A [[Narok County|Narok County]] Governor is elected through national politics. But local elder councils retain moral authority and can influence community behavior (especially regarding pastoral movement, marriage customs, and dispute resolution).
 
 The formal state does not recognize elder councils as an official governance body, yet they continue to function and hold legitimacy among Maasai communities.
 
@@ -31,10 +31,10 @@ Elder councils are predominantly male. Women rarely serve as formal elders, thou
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

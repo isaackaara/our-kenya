@@ -1,8 +1,8 @@
-Kirinyaga County, named after [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga means "mountain of brightness" in Gikuyu), encompasses the southern slopes and foothills of Mount Kenya, Kenya's second-highest mountain. The county represents a significant agricultural and political center within the wider Kikuyu region, with unique geography linking highland tea production to the famous Mwea irrigation rice scheme.
+Kirinyaga County, named after [[Mount Kenya National Park|Mount Kenya]] (Kirinyaga means "mountain of brightness" in Gikuyu), encompasses the southern slopes and foothills of Mount Kenya, Kenya's second-highest mountain. The county represents a significant agricultural and political center within the wider Kikuyu region, with unique geography linking highland tea production to the famous Mwea irrigation rice scheme.
 
 ## Location and Boundaries
 
-Kirinyaga County lies immediately south and east of Mount Kenya, covering approximately 1,202 square kilometers. Its borders include [[../Counties/Murang'a/Murang'a County|Murang'a County]] to the west, [[../Counties/Nyeri/Nyeri County|Nyeri County]] to the north, Embu County to the east, and Machakos County to the south. The county seat, Kerugoya (formerly called Kutus), sits at approximately 1,450 meters elevation on the central plateau.
+Kirinyaga County lies immediately south and east of Mount Kenya, covering approximately 1,202 square kilometers. Its borders include [[Murang'a County|Murang'a County]] to the west, [[Nyeri County|Nyeri County]] to the north, Embu County to the east, and Machakos County to the south. The county seat, Kerugoya (formerly called Kutus), sits at approximately 1,450 meters elevation on the central plateau.
 
 ## Mount Kenya and Highland Terrain
 
@@ -22,7 +22,7 @@ Kerugoya (population approximately 40,000) serves as the county capital and prim
 
 ## Rainfall and Water Resources
 
-Kirinyaga receives varied rainfall depending on elevation and exposure. Highland areas receive 1,500-2,000 millimeters annually, supporting both rain-fed agriculture and forests. Lowland areas around Mwea receive 600-800 millimeters, making rainfed agriculture unreliable and creating the rationale for irrigation. The Tana River, originating in [[../Conservation/Aberdare National Park|Aberdare]], provides perennial water and has been dammed upstream at various points, affecting downstream flow to Mwea.
+Kirinyaga receives varied rainfall depending on elevation and exposure. Highland areas receive 1,500-2,000 millimeters annually, supporting both rain-fed agriculture and forests. Lowland areas around Mwea receive 600-800 millimeters, making rainfed agriculture unreliable and creating the rationale for irrigation. The Tana River, originating in [[Aberdare National Park|Aberdare]], provides perennial water and has been dammed upstream at various points, affecting downstream flow to Mwea.
 
 ## Population and Demographics
 
@@ -52,7 +52,7 @@ Kirinyaga includes portions of Mount Kenya National Park and forest reserves. Co
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

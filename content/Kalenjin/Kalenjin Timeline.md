@@ -44,7 +44,7 @@ A chronological reference of key dates in Kalenjin history from pre-colonial ori
 
 **2013** - First county elections under devolution. Jackson Mandago elected first Uasin Gishu governor. Kalenjin political influence becomes dispersed across multiple county offices rather than concentrated at national level.
 
-**2013-2022** - Gideon Moi serves as Senator for [[../Counties/Baringo/Baringo County|Baringo County]] with overwhelming electoral support (80% majority).
+**2013-2022** - Gideon Moi serves as Senator for [[Baringo County|Baringo County]] with overwhelming electoral support (80% majority).
 
 **2016** - Rio Olympics. Kalenjin athletes dominate Kenyan medal count, particularly in distance running events.
 

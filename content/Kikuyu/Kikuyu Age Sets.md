@@ -10,7 +10,7 @@ The rika transcended family and clan. Your rika-mates were not necessarily your 
 
 Each rika had a specific name that often reflected historical events or characteristics. Named age sets included those known for their military prowess, their wisdom, their generosity, or significant events that occurred during their initiation period. These names persisted for generations and became historical markers.
 
-The Kikuyu could identify major historical events by referencing age set names. A particular rika might be remembered as "the generation that fought [[../Maasai/Maasai|Maasai]]" or "the generation born during the great famine." Knowing a person's rika was knowing their place in Kikuyu history.
+The Kikuyu could identify major historical events by referencing age set names. A particular rika might be remembered as "the generation that fought [[Maasai|Maasai]]" or "the generation born during the great famine." Knowing a person's rika was knowing their place in Kikuyu history.
 
 ## Social Functions
 

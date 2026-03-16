@@ -73,8 +73,8 @@ Youth development priorities include:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Youth Programme (2022). "Youth Employment and Migration: Western Kenya Analysis". https://www.kenyayouth.go.ke

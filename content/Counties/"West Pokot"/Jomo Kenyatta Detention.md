@@ -12,8 +12,8 @@ Kenyatta's detention removed a key independence movement leader for nearly a dec
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Jomo_Kenyatta#Detention
 2. https://www.standardmedia.co.ke/counties/article/2000654321/kenyatta-detention-kapenguria-history

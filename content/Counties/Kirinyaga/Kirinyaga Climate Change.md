@@ -18,7 +18,7 @@ Reduced rainfall reliability affects crop yields particularly in rainfed agricul
 
 ## Ecosystem Impacts
 
-Forest productivity changes affect water supply and biodiversity. Alpine ecosystems on [[../../Conservation/Mount Kenya National Park|Mount Kenya]] are experiencing changes with warming. Reduced water availability threatens downstream ecosystems. Invasive species benefit from changing conditions. Climate change threatens biodiversity conservation in protected areas.
+Forest productivity changes affect water supply and biodiversity. Alpine ecosystems on [[Mount Kenya National Park|Mount Kenya]] are experiencing changes with warming. Reduced water availability threatens downstream ecosystems. Invasive species benefit from changing conditions. Climate change threatens biodiversity conservation in protected areas.
 
 ## Community Responses
 
@@ -36,11 +36,11 @@ Projections suggest continued warming and rainfall variability. Agricultural pro
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

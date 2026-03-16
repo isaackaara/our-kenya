@@ -8,17 +8,17 @@ After initial suspension, Kisima returned with increased funding from government
 
 In 2004, Kisima expanded to East African scope, incorporating artists from Uganda and Tanzania alongside Kenyan nominees. This regional approach recognized musical cross-pollination across borders and created larger, more competitive awards. However, it also complicated judging by requiring evaluation across different national music scenes.
 
-Multiple genre categories attempted to acknowledge Kenya's musical diversity: gospel, [[Music/Kenyan Benga Music|benga]], [[Music/Mugithi Music Origins|mugithi]], hip-hop, and others received separate recognition rather than forcing comparison across incompatible styles. This categorical approach pleased artists working in specific genres but created perception that awards lacked overall artistic hierarchy.
+Multiple genre categories attempted to acknowledge Kenya's musical diversity: gospel, [[Music/Kenyan Benga Music|benga]], [[Mugithi Music Origins|mugithi]], hip-hop, and others received separate recognition rather than forcing comparison across incompatible styles. This categorical approach pleased artists working in specific genres but created perception that awards lacked overall artistic hierarchy.
 
 Controversies surrounded nomination and voting processes throughout awards' history. Artists and fans complained about perceived favorites receiving recognition regardless of merit. Accusations surfaced that corporate sponsorship influenced outcomes, with commercially successful but artistically mediocre artists winning over more talented competitors lacking promotional budgets.
 
-The relationship between [[Music/East African Music Charts 1990s|music charts]] and awards proved complicated. Chart performance influenced award nominations, but chart manipulation through [[Music/Radio DJs as Cultural Gatekeepers Kenya|DJ payola]] meant awards potentially rewarded commercial gaming rather than artistic excellence. Critics argued awards should apply independent artistic standards rather than merely ratifying commercial success.
+The relationship between [[East African Music Charts 1990s|music charts]] and awards proved complicated. Chart performance influenced award nominations, but chart manipulation through [[Radio DJs as Cultural Gatekeepers Kenya|DJ payola]] meant awards potentially rewarded commercial gaming rather than artistic excellence. Critics argued awards should apply independent artistic standards rather than merely ratifying commercial success.
 
-[[Music/Kenyan Gospel Music Boom|Gospel music]] often received separate award categories, recognizing both genre's commercial significance and its distinct market. Gospel awards attracted massive Christian audiences, making them commercially important for sponsors. However, separation reinforced division between sacred and secular music industries.
+[[Kenyan Gospel Music Boom|Gospel music]] often received separate award categories, recognizing both genre's commercial significance and its distinct market. Gospel awards attracted massive Christian audiences, making them commercially important for sponsors. However, separation reinforced division between sacred and secular music industries.
 
 Other award schemes emerged alongside Kisima, including Chaguo la Teeniez, Extreme Awards, and the Groove Awards (for gospel music). This proliferation created competitive awards landscape where artists potentially won multiple recognitions or felt snubbed by programs they deemed less legitimate than others.
 
-The awards' economic impact proved significant for winners. Recognition attracted booking requests, increased fees, and enhanced credibility that translated to commercial opportunities. In industry where [[Music/Piracy and the Kenyan Music Industry|piracy]] destroyed recording revenue, awards' promotional value became particularly important for sustaining musical careers.
+The awards' economic impact proved significant for winners. Recognition attracted booking requests, increased fees, and enhanced credibility that translated to commercial opportunities. In industry where [[Piracy and the Kenyan Music Industry|piracy]] destroyed recording revenue, awards' promotional value became particularly important for sustaining musical careers.
 
 However, awards also faced accusations of ethnic favoritism. Kikuyu artists allegedly dominated certain categories while Luo, Kalenjin, or coastal musicians felt marginalized. These ethnic tensions reflected broader Kenyan political and social divisions while demonstrating difficulty of creating truly national awards in ethnically divided society.
 
@@ -29,12 +29,12 @@ By the late 2000s, frustration with awards' credibility had intensified. Some es
 The decline of traditional music awards in late 2000s and 2010s, with Kisima experiencing seven-year hiatus, reflected both funding challenges and credibility crisis. When awards reemerged, they faced task of rebuilding trust while adapting to digital music era that complicated traditional recognition categories.
 
 ## See Also
-- [[Music/East African Music Charts 1990s]]
-- [[Music/Radio DJs as Cultural Gatekeepers Kenya]]
-- [[Music/Piracy and the Kenyan Music Industry]]
-- [[Music/Kenyan Gospel Music Boom]]
-- [[Music/FM Radio Revolution Kenya 1990s]]
-- [[Music/Mugithi Music Origins]]
+- [[East African Music Charts 1990s]]
+- [[Radio DJs as Cultural Gatekeepers Kenya]]
+- [[Piracy and the Kenyan Music Industry]]
+- [[Kenyan Gospel Music Boom]]
+- [[FM Radio Revolution Kenya 1990s]]
+- [[Mugithi Music Origins]]
 - [[Music/Kenyan Benga Music]]
 
 ## Sources

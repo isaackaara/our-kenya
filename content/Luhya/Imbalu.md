@@ -1,4 +1,4 @@
-Imbalu is [[Luhya|Luhya]] (and some Sabaot) male circumcision ceremony, held every two years in August. The ceremony is one of East Africa's most spectacular public cultural events, drawing hundreds of thousands of visitors to [[../Counties/Bungoma/Bungoma County|Bungoma County]]. For Bukusu youth (typically ages 15-18), imbalu marks the transition from boyhood to manhood and full social membership. The ceremony involves ritual purification, public circumcision, and days of music, dancing, processions, and celebration.
+Imbalu is [[Luhya|Luhya]] (and some Sabaot) male circumcision ceremony, held every two years in August. The ceremony is one of East Africa's most spectacular public cultural events, drawing hundreds of thousands of visitors to [[Bungoma County|Bungoma County]]. For Bukusu youth (typically ages 15-18), imbalu marks the transition from boyhood to manhood and full social membership. The ceremony involves ritual purification, public circumcision, and days of music, dancing, processions, and celebration.
 
 ## Key Facts
 
@@ -17,15 +17,15 @@ Imbalu is not merely a medical procedure but a comprehensive ritual that publicl
 
 ## Related
 
-[[Bukusu]] | [[The 18 Sub-Groups]] | [[Luhya Origins]] | [[../Cross-Ethnic/Circumcision as Dividing Line]]
+[[Bukusu]] | [[The 18 Sub-Groups]] | [[Luhya Origins]] | [[Circumcision as Dividing Line]]
 
 ## See Also
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

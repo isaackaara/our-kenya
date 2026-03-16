@@ -9,8 +9,8 @@ Presidential, gubernatorial, parliamentary, and ward elections occur at regular 
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Politics|Politics]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Politics|Politics]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Trans-Nzoia_County#Politics
 2. https://www.iebc.or.ke/electoral-data

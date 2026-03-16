@@ -2,7 +2,7 @@ Macadamia nut cultivation has emerged as a growing cash crop in Meru County, wit
 
 ## Growing Conditions
 
-Macadamia trees are native to Australia but thrive in tropical and subtropical highlands. In Meru County, macadamia grows well at elevations between 1,200 and 2,000 meters with annual rainfall above 1,000 millimeters. The trees prefer well-drained volcanic soils common in the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region. Macadamia production requires 6 to 8 years from planting to first significant harvest, demanding patient capital investment.
+Macadamia trees are native to Australia but thrive in tropical and subtropical highlands. In Meru County, macadamia grows well at elevations between 1,200 and 2,000 meters with annual rainfall above 1,000 millimeters. The trees prefer well-drained volcanic soils common in the [[Mount Kenya National Park|Mount Kenya]] region. Macadamia production requires 6 to 8 years from planting to first significant harvest, demanding patient capital investment.
 
 ## Production Area
 
@@ -34,9 +34,9 @@ Macadamia cultivation is expected to expand in Meru County as farmers seek diver
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

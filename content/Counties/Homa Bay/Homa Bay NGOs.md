@@ -34,8 +34,8 @@ Human rights and governance organizations engage in community advocacy and gover
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. NGO Coordination Board Kenya. (2021). NGOs Directory. https://www.ngocsk.org/

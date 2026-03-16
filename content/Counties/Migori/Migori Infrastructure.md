@@ -34,8 +34,8 @@ Biogas, solar, kerosene, and wood represent primary household energy sources. Fu
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics. (2019). Infrastructure Census. https://statskenya.co.ke/

@@ -1,4 +1,4 @@
-Uasin Gishu County, located in the western highlands of the Rift Valley, is Kenya's grain basket and a major center of athletic excellence. The county seat of [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] has emerged as a hub for world-class distance runners, while the broader county economy centers on grain cultivation and mixed farming.
+Uasin Gishu County, located in the western highlands of the Rift Valley, is Kenya's grain basket and a major center of athletic excellence. The county seat of [[Uasin Gishu County|Uasin Gishu County]] has emerged as a hub for world-class distance runners, while the broader county economy centers on grain cultivation and mixed farming.
 
 ## Agricultural Production
 
@@ -16,7 +16,7 @@ While Kalenjin (particularly Nandi and other sub-groups) form the majority popul
 
 ## Historical Significance
 
-Historically, Uasin Gishu was a Kalenjin stronghold. The Nandi displaced [[../Maasai/Maasai|Maasai]] from the region in pre-colonial times and used it as grazing land. During colonial period, Afrikaner farmers from South Africa settled around Eldoret and Nyahururu, establishing farms and creating a European settler presence. These settlers introduced new farming techniques and exported-oriented agriculture, though most left after independence.
+Historically, Uasin Gishu was a Kalenjin stronghold. The Nandi displaced [[Maasai|Maasai]] from the region in pre-colonial times and used it as grazing land. During colonial period, Afrikaner farmers from South Africa settled around Eldoret and Nyahururu, establishing farms and creating a European settler presence. These settlers introduced new farming techniques and exported-oriented agriculture, though most left after independence.
 
 The county's political history during the Moi era (1978-2002) reflected its Kalenjin demographic majority, with strong political alignment with the regime. Post-Moi, the county has witnessed more competitive politics among Kalenjin sub-groups and between ethnic groups over county resources and representation.
 

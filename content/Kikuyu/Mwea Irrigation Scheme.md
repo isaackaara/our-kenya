@@ -10,7 +10,7 @@ The scheme initially received mixed results, but by the 1970s and 1980s, rice pr
 
 The Mwea scheme depends on water diverted from the Tana River, Kenya's longest river. The primary intake at Mutindwa dam captures water channeled through the Mwea-Tebere canal, which delivers water across approximately 6,500 hectares of irrigable land. The scheme includes secondary canals, tertiary channels, and individual plot water connections distributed to tenant farmers. The National Irrigation Authority (NIA), established in 2018, manages overall scheme operations, though governance remains contested.
 
-Water availability fluctuates significantly with Tana River flows, which are affected by rainfall in [[../Conservation/Aberdare National Park|Aberdare]], upstream dam operations at Seven Forks, and competing demands from other counties (particularly Tana County).
+Water availability fluctuates significantly with Tana River flows, which are affected by rainfall in [[Aberdare National Park|Aberdare]], upstream dam operations at Seven Forks, and competing demands from other counties (particularly Tana County).
 
 ## Production and Economic Significance
 
@@ -72,7 +72,7 @@ Large-scale irrigation withdrawals have reduced dry-season flows in the Tana Riv
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

@@ -1,13 +1,13 @@
-The Kericho tea industry represents one of Kenya's most significant economic sectors, with the county producing approximately 60 percent of Kenya's total tea output. The Kericho tea estates were established during the colonial period beginning in the early 1900s, initially on land alienated from the [[../../Kalenjin/Kalenjin|Kipsigis]] people. Major tea companies operating in the region include Brooke Bond (which later became Unilever Tea Kenya), James Finlay, and Eastern Produce Kenya, each controlling thousands of hectares of plantation.
+The Kericho tea industry represents one of Kenya's most significant economic sectors, with the county producing approximately 60 percent of Kenya's total tea output. The Kericho tea estates were established during the colonial period beginning in the early 1900s, initially on land alienated from the [[Kalenjin|Kipsigis]] people. Major tea companies operating in the region include Brooke Bond (which later became Unilever Tea Kenya), James Finlay, and Eastern Produce Kenya, each controlling thousands of hectares of plantation.
 
 The industry's development required the systematic displacement of Kipsigis communities from their ancestral lands, which were deemed ideal for tea cultivation due to reliable rainfall and high altitude. Tea production became integrated into the colonial cash economy, with estates employing thousands of workers, predominantly women, in the labour-intensive work of tea plucking and processing. The post-independence period saw partial land redistribution and the emergence of smallholder tea farms alongside large estates, creating a more diverse production landscape.
 
-See also: [[../../Corporate Kenya/Tea Industry Kenya]]
+See also: [[Tea Industry Kenya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

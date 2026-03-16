@@ -14,9 +14,9 @@ Them Mushrooms' musical evolution incorporated contemporary influences while mai
 
 The group's contribution to Kenya's musical infrastructure extended beyond their own recordings. They demonstrated that regional music could achieve national success without abandoning distinctive characteristics. Their example inspired musicians from other regions to embrace rather than disguise ethnic or regional identities. Coastal music became recognized as legitimate genre within Kenya's musical plurality rather than exotic curiosity.
 
-Them Mushrooms navigated [[Music/Piracy and the Kenyan Music Industry|cassette piracy]] through aggressive touring and leveraging their brand recognition. Beach hotel residencies, tourism industry connections, and international performance opportunities provided income streams beyond album sales. Their music's association with tourism made them valuable to hospitality industry willing to pay premium rates.
+Them Mushrooms navigated [[Piracy and the Kenyan Music Industry|cassette piracy]] through aggressive touring and leveraging their brand recognition. Beach hotel residencies, tourism industry connections, and international performance opportunities provided income streams beyond album sales. Their music's association with tourism made them valuable to hospitality industry willing to pay premium rates.
 
-The band's relationship with [[Music/Kenyan Music Videos Origins|music videos]] helped establish their visual identity. Videos showcasing coastal beaches, traditional Swahili dress, and ocean imagery reinforced their brand as ambassadors of coastal culture. These productions made them instantly recognizable and differenti ated their aesthetic from inland-focused Kenyan music.
+The band's relationship with [[Kenyan Music Videos Origins|music videos]] helped establish their visual identity. Videos showcasing coastal beaches, traditional Swahili dress, and ocean imagery reinforced their brand as ambassadors of coastal culture. These productions made them instantly recognizable and differenti ated their aesthetic from inland-focused Kenyan music.
 
 Fifty years after formation, Them Mushrooms remained active, having achieved legendary status in Kenyan music. Their longevity testified to coastal music's enduring appeal and the Harrison brothers' artistic vision. They proved that Kenyan bands could maintain commercial viability and artistic relevance across decades, rare achievement in Kenya's volatile music industry.
 
@@ -24,12 +24,12 @@ The band's legacy includes not just their hits but their demonstration that regi
 
 ## See Also
 - [[Music/Kenyan Benga Music]]
-- [[Music/Piracy and the Kenyan Music Industry]]
-- [[Music/Kenyan Music Videos Origins]]
-- [[Music/Recording Studios Kenya 1980s-1990s]]
-- [[Music/FM Radio Revolution Kenya 1990s]]
-- [[Music/East African Music Charts 1990s]]
-- [[Music/Music Award Shows Kenya]]
+- [[Piracy and the Kenyan Music Industry]]
+- [[Kenyan Music Videos Origins]]
+- [[Recording Studios Kenya 1980s-1990s]]
+- [[FM Radio Revolution Kenya 1990s]]
+- [[East African Music Charts 1990s]]
+- [[Music Award Shows Kenya]]
 
 ## Sources
 1. Wikipedia. "Them Mushrooms." September 16, 2025. https://en.wikipedia.org/wiki/Them_Mushrooms

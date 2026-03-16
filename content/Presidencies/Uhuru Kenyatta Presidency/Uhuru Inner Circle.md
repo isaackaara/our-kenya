@@ -6,8 +6,8 @@ Uhuru Kenyatta's inner circle combined family members, loyalists from his Kiambu
 
 ## See Also
 [[Presidencies/Uhuru Kenyatta Presidency/Uhuru Presidency]]
-[[Presidencies/Uhuru Kenyatta Presidency/The Handshake March 2018]]
-[[Presidencies/Uhuru Kenyatta Presidency/BBI Process]]
+[[The Handshake March 2018]]
+[[BBI Process]]
 
 ## Sources
 1. Nation Media Group political coverage 2013-2022.

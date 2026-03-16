@@ -1,4 +1,4 @@
-[[../Kiambu/Kiambu County|Kiambu County]]'s health infrastructure includes county hospitals, national government health facilities, and private medical facilities serving the population. Thika Level 5 Hospital is the major public teaching hospital, offering inpatient and outpatient services and training health professionals. Kiambu County Hospital in Kiambu town provides county-level referral services. Numerous health centers and dispensaries provide primary care throughout the county.
+[[Kiambu County|Kiambu County]]'s health infrastructure includes county hospitals, national government health facilities, and private medical facilities serving the population. Thika Level 5 Hospital is the major public teaching hospital, offering inpatient and outpatient services and training health professionals. Kiambu County Hospital in Kiambu town provides county-level referral services. Numerous health centers and dispensaries provide primary care throughout the county.
 
 Private health facilities, including hospitals and clinics, serve patients able to pay and are concentrated in urban areas. Nairobi's proximity means that Kiambu residents with serious health conditions requiring specialized care often seek treatment in the capital. Maternal and child health services have improved but remain limited in rural areas. Disease burden includes communicable diseases (malaria, tuberculosis) and increasingly, chronic diseases (hypertension, diabetes) associated with urbanization and lifestyle changes.
 
@@ -10,7 +10,7 @@ Health system challenges in Kiambu include staff shortages (particularly in rura
 [[Kiambu Timeline]]
 [[Kiambu Colonial History]]
 [[Kiambu as Kikuyu Heartland]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 [[Kiambu Economy]]
 [[Thika Town]]
 ## Sources

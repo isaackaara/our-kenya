@@ -10,7 +10,7 @@ The Mau Forest Escarpment is the largest indigenous montane forest in East Afric
 
 The Mau Forest Escarpment feeds approximately 12 major rivers, making it indispensable to the hydrological systems of the broader East African region. Rivers flowing from the Mau include:
 
-- The Mara River, which flows southwest into [[../Maasai/Maasai|Maasai]] Mara and eventually to Lake Victoria (forming the transboundary river between Kenya and Tanzania)
+- The Mara River, which flows southwest into [[Maasai|Maasai]] Mara and eventually to Lake Victoria (forming the transboundary river between Kenya and Tanzania)
 - The Njoro River, which flows northwest into Lake Nakuru and supports the Nakuru ecosystem
 - The Sondu River and Nyando River, which flow southwest into Lake Victoria
 - The Ewaso Nyiro and other tributaries flowing into various lowland ecosystems

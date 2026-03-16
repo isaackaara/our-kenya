@@ -23,7 +23,7 @@ Kenya's [[Constitutional Reform 2010|2010 Constitution]] recognized education as
 [[Girls School Performance]]
 [[Childcare Early Development]]
 [[Maternal Health Childbirth]]
-[[Education/Education|Educational Systems]]
+[[Education|Educational Systems]]
 [[Women Leadership Capacity]]
 
 ## Sources

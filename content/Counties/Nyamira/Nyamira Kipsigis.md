@@ -94,8 +94,8 @@ Kipsigis communities face:
 - [[Nyamira Politics|Politics]]
 - [[Nyamira Agriculture|Agriculture]]
 - [[Nyamira Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kipchoge Keino Institute (2021). "Kalenjin Peoples and Communities of East Africa". https://www.kipchogeinstitute.org

@@ -16,11 +16,11 @@ By the late 20th century, Green Revolution technologies had become substantially
 
 ## See Also
 
-[[Food and Agriculture/Agricultural Research]]
-[[Food and Agriculture/Crop Variety Development]]
-[[Food and Agriculture/Fertilizer Use]]
-[[Food and Agriculture/Pesticide Application]]
-[[Food and Agriculture/Irrigation Development]]
+[[Agricultural Research]]
+[[Crop Variety Development]]
+[[Fertilizer Use]]
+[[Pesticide Application]]
+[[Irrigation Development]]
 [[Poverty/Technology Adoption and Inequality]]
 
 ## Sources

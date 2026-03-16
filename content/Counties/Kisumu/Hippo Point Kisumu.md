@@ -1,8 +1,8 @@
-Hippo Point is the main public access point to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] in Kisumu. The area serves as a fishing harbor, informal market center, and tourist attraction offering views and sunset experiences.
+Hippo Point is the main public access point to [[Lake Victoria Kenya|Lake Victoria]] in Kisumu. The area serves as a fishing harbor, informal market center, and tourist attraction offering views and sunset experiences.
 
 ## Location and Geography
 
-Hippo Point is located on the [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] shoreline in Kisumu. The shallow water and sandy beach create a natural gathering point for fishers, traders, and visitors.
+Hippo Point is located on the [[Lake Victoria Kenya|Lake Victoria]] shoreline in Kisumu. The shallow water and sandy beach create a natural gathering point for fishers, traders, and visitors.
 
 ## Fishing Harbor
 
@@ -14,11 +14,11 @@ Economic activity at Hippo Point includes fishing, fish trading, food and bevera
 
 ## Tourism Attraction
 
-Hippo Point attracts tourists, both local and international, seeking [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] experiences. The sunset views from the point are particularly popular. Tourism enterprises including restaurants and bars operate at the point.
+Hippo Point attracts tourists, both local and international, seeking [[Lake Victoria Kenya|Lake Victoria]] experiences. The sunset views from the point are particularly popular. Tourism enterprises including restaurants and bars operate at the point.
 
 ## Scenic Views
 
-The sunset views from Hippo Point are stunning, with the sun setting over [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]'s expansive water. This natural attraction draws tourists and residents seeking leisure.
+The sunset views from Hippo Point are stunning, with the sun setting over [[Lake Victoria Kenya|Lake Victoria]]'s expansive water. This natural attraction draws tourists and residents seeking leisure.
 
 ## Infrastructure
 
@@ -30,7 +30,7 @@ Hippo Point faces environmental challenges including water pollution, waste accu
 
 ## Cultural Significance
 
-Hippo Point holds cultural significance as a place of work and leisure for Kisumu residents. The point represents the city's connection to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] and fishing traditions.
+Hippo Point holds cultural significance as a place of work and leisure for Kisumu residents. The point represents the city's connection to [[Lake Victoria Kenya|Lake Victoria]] and fishing traditions.
 
 ## Safety Concerns
 
@@ -46,7 +46,7 @@ Proposed lakefront development plans envision improved infrastructure and amenit
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

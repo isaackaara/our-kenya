@@ -1,5 +1,5 @@
 ## 1899
-Nairobi founded as a railway depot on the Uganda Railway at the location of [[../../Maasai/Maasai|Maasai]] watering hole "Enkare Nairobi" (cold water).
+Nairobi founded as a railway depot on the Uganda Railway at the location of [[Maasai|Maasai]] watering hole "Enkare Nairobi" (cold water).
 
 ## 1900
 Nairobi becomes the primary administrative center for the East Africa Protectorate, replacing Mombasa.
@@ -14,7 +14,7 @@ Land allocated to Nubian soldiers of the King's African Rifles (KAR) at Kibera, 
 First hospital established in Nairobi.
 
 ## 1946
-[[../../Conservation/Nairobi National Park|Nairobi National Park]] established to protect wildlife south of the city.
+[[Nairobi National Park|Nairobi National Park]] established to protect wildlife south of the city.
 
 ## 1964
 Kenyan independence; Nairobi becomes the capital of the Republic of Kenya.
@@ -61,8 +61,8 @@ Planned initiatives include Smart City development, BRT system expansion, housin
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

@@ -30,7 +30,7 @@ Many luxury camps emphasize community partnerships, local employment, and conser
 
 ## Cross-References
 
-See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[../../Maasai/Maasai|[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve]]
+See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Maasai|[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve]]
 
 
 ## See Also
@@ -39,8 +39,8 @@ See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist E
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

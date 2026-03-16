@@ -1,4 +1,4 @@
-The relationship between the Luo and Nam Lolwe ([[../Conservation/Lake Victoria Kenya|Lake Victoria]]) defines their economic life, cosmology, and historical identity. Fishing rights and access to the lake structured social organization and shaped how Luo communities understood ownership, inheritance, and obligation in ways fundamentally different from the land-based tenure systems of neighboring Kikuyu and Luhya peoples. The introduction of the Nile perch in the 1950s sparked an ecological catastrophe that transformed the lake and threatened Luo livelihoods.
+The relationship between the Luo and Nam Lolwe ([[Lake Victoria Kenya|Lake Victoria]]) defines their economic life, cosmology, and historical identity. Fishing rights and access to the lake structured social organization and shaped how Luo communities understood ownership, inheritance, and obligation in ways fundamentally different from the land-based tenure systems of neighboring Kikuyu and Luhya peoples. The introduction of the Nile perch in the 1950s sparked an ecological catastrophe that transformed the lake and threatened Luo livelihoods.
 
 ## Key Facts
 

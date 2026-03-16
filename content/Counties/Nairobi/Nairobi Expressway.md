@@ -6,7 +6,7 @@ The expressway was constructed between 2019 and 2022 at a total cost of approxim
 
 ## Route and Features
 
-The expressway runs from the [[../../Kikuyu/Jomo Kenyatta|Jomo Kenyatta]] International Airport area northward through Nairobi's southern suburbs (Mbagathi, Bomas of Kenya, Buona Vista) to the northwestern parts of the city (Westlands, the University of Nairobi). The elevated design allows traffic to bypass congested surface streets. Exit ramps connect to major neighborhoods and business centers.
+The expressway runs from the [[Jomo Kenyatta|Jomo Kenyatta]] International Airport area northward through Nairobi's southern suburbs (Mbagathi, Bomas of Kenya, Buona Vista) to the northwestern parts of the city (Westlands, the University of Nairobi). The elevated design allows traffic to bypass congested surface streets. Exit ramps connect to major neighborhoods and business centers.
 
 ## Toll System
 
@@ -26,8 +26,8 @@ The expressway has attracted both praise and criticism. Supporters credit it wit
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

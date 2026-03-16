@@ -6,7 +6,7 @@ title: Narok County
 
 Narok County, located in the Rift Valley in southwestern Kenya, is the primary Maasai region. The county covers over 17,000 square kilometers and is home to several major Maasai sections(Purko, Matapato, Loitokitok, Kaputiei among others).
 
-The Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve covers about 1,821 square kilometers in Narok. The majority of the county is pastoral rangeland, though some agricultural areas exist in the higher elevation zones.
+The Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve covers about 1,821 square kilometers in Narok. The majority of the county is pastoral rangeland, though some agricultural areas exist in the higher elevation zones.
 
 Narok County is one of two "Maasai counties"(the other being Kajiado). These are the counties where Maasai are the plurality or majority population.
 
@@ -45,10 +45,10 @@ County government has limited capacity to address these challenges(budget constr
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

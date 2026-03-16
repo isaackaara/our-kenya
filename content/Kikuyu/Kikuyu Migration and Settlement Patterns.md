@@ -3,7 +3,7 @@ The Kikuyu people's settlement of the Central Highlands and their patterns of mi
 ## Pre-Colonial Settlement (c. 1500-1700 CE)
 
 ### Initial Migration
-The agikuyu migrated into the fertile Central Highlands around [[../Conservation/Mount Kenya National Park|Mount Kenya]] and [[../Conservation/Aberdare National Park|Aberdare]] range during the period roughly 1500-1700 CE. Multiple waves of migration brought Kikuyu populations from lower-altitude areas into the highlands.
+The agikuyu migrated into the fertile Central Highlands around [[Mount Kenya National Park|Mount Kenya]] and [[Aberdare National Park|Aberdare]] range during the period roughly 1500-1700 CE. Multiple waves of migration brought Kikuyu populations from lower-altitude areas into the highlands.
 
 The exact origins and timing remain subjects of historical debate, but oral traditions emphasize arrival from the south and east, with settlement organized around available land and water resources.
 

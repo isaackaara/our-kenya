@@ -9,8 +9,8 @@ Highland pastures support dairy cattle production, with milk supplying local con
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Agriculture|Agriculture]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Agriculture|Agriculture]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/
 2. https://www.standardmedia.co.ke/counties/article/2001045678/agriculture-feeds-transnzoia-families

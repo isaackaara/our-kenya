@@ -6,8 +6,8 @@ William Ruto's inner circle consists of politicians, technocrats, and business a
 
 ## See Also
 [[Presidencies/William Ruto Presidency/Ruto Presidency]]
-[[Presidencies/William Ruto Presidency/Ruto and Gachagua Impeachment]]
-[[Presidencies/William Ruto Presidency/Ruto Cabinet]]
+[[Ruto and Gachagua Impeachment]]
+[[Ruto Cabinet]]
 
 ## Sources
 1. Nation Media Group coverage 2022-2024.

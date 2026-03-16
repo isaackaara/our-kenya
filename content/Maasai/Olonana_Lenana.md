@@ -20,7 +20,7 @@ Lenana's crucial strategic decision was to ally with British colonial authoritie
 
 ## Treaty Negotiations
 
-Lenana signed two major treaties with British colonial authorities. The 1904 treaty formally ceded northern Maasai territories (including the central highlands) to European settlers. In exchange, the Maasai received defined reserve territories primarily in the south (future [[../Counties/Kajiado/Kajiado County|Kajiado County]]). The 1911 treaty further reduced Maasai territorial claims. Both treaties were negotiated by Lenana with the British colonial administration. Whether he fully understood the permanence of these land losses, or believed they were temporary arrangements that might be reversed, remains historically uncertain.
+Lenana signed two major treaties with British colonial authorities. The 1904 treaty formally ceded northern Maasai territories (including the central highlands) to European settlers. In exchange, the Maasai received defined reserve territories primarily in the south (future [[Kajiado County|Kajiado County]]). The 1911 treaty further reduced Maasai territorial claims. Both treaties were negotiated by Lenana with the British colonial administration. Whether he fully understood the permanence of these land losses, or believed they were temporary arrangements that might be reversed, remains historically uncertain.
 
 ## The Land Question
 
@@ -50,12 +50,12 @@ Lenana's life is frequently invoked in contemporary Maasai political discourse. 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

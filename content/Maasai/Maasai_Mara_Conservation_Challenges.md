@@ -8,7 +8,7 @@ The Maasai Mara National Reserve is surrounded by increasingly intensive agricul
 
 ## Human Population Growth
 
-Human population in areas surrounding [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] has grown substantially. More people mean more pressure on land, more pastoral herds, more settlements, and more resource extraction. Population growth in [[../Counties/Narok/Narok County|Narok County]] means increased demand for water, grazing land, and timber. This human population pressure translates into pressure on the reserve's boundaries and resources.
+Human population in areas surrounding [[Maasai Mara National Reserve|Maasai Mara National Reserve]] has grown substantially. More people mean more pressure on land, more pastoral herds, more settlements, and more resource extraction. Population growth in [[Narok County|Narok County]] means increased demand for water, grazing land, and timber. This human population pressure translates into pressure on the reserve's boundaries and resources.
 
 ## Vehicle Traffic and Tourist Impact
 
@@ -66,12 +66,12 @@ The Maasai Mara faces multiple, intersecting conservation challenges. No single 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

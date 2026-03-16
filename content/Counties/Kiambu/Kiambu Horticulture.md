@@ -10,7 +10,7 @@ Horticulture exports generate significant foreign exchange and employment but fa
 [[Kiambu Timeline]]
 [[Kiambu Colonial History]]
 [[Kiambu as Kikuyu Heartland]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 [[Kiambu Economy]]
 [[Thika Town]]
 ## Sources

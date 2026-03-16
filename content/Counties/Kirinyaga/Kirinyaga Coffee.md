@@ -18,17 +18,17 @@ Coffee provides direct income to over 100,000 farming households. The cooperativ
 
 ## Environmental Considerations
 
-Coffee farming on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes exists within sensitive forest ecosystems. The need to maintain forest cover for water security and biodiversity conservation creates ongoing tensions with the economic imperative for coffee expansion. Sustainable farming practices and shade-grown coffee systems seek to balance production with environmental protection.
+Coffee farming on [[Mount Kenya National Park|Mount Kenya]]'s slopes exists within sensitive forest ecosystems. The need to maintain forest cover for water security and biodiversity conservation creates ongoing tensions with the economic imperative for coffee expansion. Sustainable farming practices and shade-grown coffee systems seek to balance production with environmental protection.
 
 
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

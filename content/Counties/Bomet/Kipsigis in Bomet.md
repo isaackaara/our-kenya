@@ -96,8 +96,8 @@ Kipsigis communities navigate:
 - [[Bomet Politics|Politics]]
 - [[Bomet Agriculture|Agriculture]]
 - [[Bomet Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kipchoge Keino Institute (2021). "Kipsigis People and Kalenjin Heritage". https://www.kipchogeinstitute.org

@@ -25,10 +25,10 @@ The Kenyatta government's rhetoric of national unity and of Harambee (pulling to
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
 - [[Kenyatta and Tom Mboya|Kenyatta and Tom Mboya]]
 - [[Kenyatta and Oginga Odinga|Kenyatta and Oginga Odinga]]
-- [[../../Luo/Tom Mboya|Tom Mboya]]
+- [[Tom Mboya|Tom Mboya]]
 - [[../../Kisumu Massacre|Kisumu Massacre]]
 - [[../../Kenya Ethnic Politics|Kenya Ethnic Politics]]
-- [[../../Luo/Oginga Odinga|Oginga Odinga]]
+- [[Oginga Odinga|Oginga Odinga]]
 
 ## Sources
 

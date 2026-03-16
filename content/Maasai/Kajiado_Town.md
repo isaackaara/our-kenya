@@ -4,7 +4,7 @@ title: Kajiado Town
 
 ## County Capital Status
 
-Kajiado town serves as the county seat and capital of [[../Counties/Kajiado/Kajiado County|Kajiado County]]. Located approximately 50 kilometers south of Nairobi on the Nairobi-Mombasa highway, Kajiado has grown from a small pastoral trading center to a urban town. The town's proximity to Nairobi makes it increasingly integrated into Nairobi's peri-urban zone. Government administrative functions are concentrated in Kajiado town.
+Kajiado town serves as the county seat and capital of [[Kajiado County|Kajiado County]]. Located approximately 50 kilometers south of Nairobi on the Nairobi-Mombasa highway, Kajiado has grown from a small pastoral trading center to a urban town. The town's proximity to Nairobi makes it increasingly integrated into Nairobi's peri-urban zone. Government administrative functions are concentrated in Kajiado town.
 
 ## Strategic Location
 
@@ -66,12 +66,12 @@ Kajiado town's future will be shaped by: continued Nairobi expansion, land tenur
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

@@ -46,7 +46,7 @@ The Marakwet furrows are comparable to other indigenous irrigation systems globa
 
 ## Related
 
-[[../Kikuyu/Githaka]] | [[Cherangani Hills]] | [[Kalenjin Pastoralism]] | [[Kalenjin Origins]]
+[[Githaka]] | [[Cherangani Hills]] | [[Kalenjin Pastoralism]] | [[Kalenjin Origins]]
 
 ## See Also
 

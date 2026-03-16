@@ -2,7 +2,7 @@ Kakamega County's infrastructure systems include road networks, utilities, and c
 
 ## Road Network
 
-Kakamega is served by major trunk roads connecting to Nairobi, the Kenyan coast, Uganda, and other regional centres. The B4 highway connects Kakamega town to [[../../Kisii/Kisii|Kisii]] and onwards to central Kenya. Numerous secondary and tertiary roads connect towns, markets, and communities, though many remain unpaved and face maintenance challenges during rainy seasons.
+Kakamega is served by major trunk roads connecting to Nairobi, the Kenyan coast, Uganda, and other regional centres. The B4 highway connects Kakamega town to [[Kisii|Kisii]] and onwards to central Kenya. Numerous secondary and tertiary roads connect towns, markets, and communities, though many remain unpaved and face maintenance challenges during rainy seasons.
 
 ## Western Bypass
 
@@ -23,7 +23,7 @@ Infrastructure faces strain from high population density and limited maintenance
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

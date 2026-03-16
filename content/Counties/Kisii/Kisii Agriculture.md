@@ -44,7 +44,7 @@ County government and NGOs provide extension services supporting farmers in adop
 - [[Kisii Farming Practices|Farming Practices]]
 - [[Kisii Climate Change|Climate Change Impacts]]
 - [[Kisii Food Culture|Food Culture]]
-- [[../../Kalenjin/Kalenjin Pastoralism|Pastoralism Systems]]
+- [[Kalenjin Pastoralism|Pastoralism Systems]]
 
 ## Sources
 

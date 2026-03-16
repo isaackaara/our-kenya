@@ -34,8 +34,8 @@ Sugarcane cultivation requires significant water inputs. Industrial water use af
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Sony Sugar Company. (2024). Company Profile. https://sonysugar.co.ke/

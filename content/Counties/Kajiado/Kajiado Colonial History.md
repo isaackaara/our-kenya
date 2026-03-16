@@ -1,4 +1,4 @@
-Kajiado's colonial history reflects British colonial administration of [[../../Maasai/Maasai|Maasai]] territories, treaties formalizing land boundaries and reserves, and the imposition of colonial governance structures on pastoral societies.
+Kajiado's colonial history reflects British colonial administration of [[Maasai|Maasai]] territories, treaties formalizing land boundaries and reserves, and the imposition of colonial governance structures on pastoral societies.
 
 ## Early Colonial Period
 
@@ -6,7 +6,7 @@ British colonial contact with Maasai territories in Kajiado occurred through tra
 
 ## Maasai Agreements and Land Alienation
 
-A series of treaties between British colonial authorities and Maasai leaders, including [[../../Maasai/Maasai|Maasai]] Agreements of 1904 and 1911, formalized territorial boundaries and established Maasai reserves.
+A series of treaties between British colonial authorities and Maasai leaders, including [[Maasai|Maasai]] Agreements of 1904 and 1911, formalized territorial boundaries and established Maasai reserves.
 
 These agreements alienated previously Maasai-controlled territories, opening some areas to European settler settlement while concentrating Maasai populations into defined reserve areas.
 
@@ -39,8 +39,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], 
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

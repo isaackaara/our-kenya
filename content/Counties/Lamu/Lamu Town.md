@@ -21,7 +21,7 @@ Challenges facing the town include water scarcity, limited healthcare facilities
 - [[Lamu Architecture|Lamu Architecture]]
 - [[Lamu Islam|Lamu Islam]]
 - [[Lamu Tourism|Lamu Tourism]]
-- [[../../Swahili/Swahili|Swahili Culture]]
+- [[Swahili|Swahili Culture]]
 - [[Lamu Colonial History|Lamu Colonial History]]
 
 ## Sources

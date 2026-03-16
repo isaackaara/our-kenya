@@ -1,4 +1,4 @@
-Nyandarua County experiences the cool highland climate of the [[../../Conservation/Aberdare National Park|Aberdare Range]], characterized by substantial rainfall, moderate temperatures, and seasonal variation. The altitude range from 2,000 to 2,800 meters and high rainfall (often exceeding 1,500 millimeters annually) support agricultural productivity. Multiple rainy seasons provide reliable moisture for crops. Cool temperatures limit crop options to cool-weather crops. Climate variability, including periodic droughts, affects agricultural productivity.
+Nyandarua County experiences the cool highland climate of the [[Aberdare National Park|Aberdare Range]], characterized by substantial rainfall, moderate temperatures, and seasonal variation. The altitude range from 2,000 to 2,800 meters and high rainfall (often exceeding 1,500 millimeters annually) support agricultural productivity. Multiple rainy seasons provide reliable moisture for crops. Cool temperatures limit crop options to cool-weather crops. Climate variability, including periodic droughts, affects agricultural productivity.
 
 ## Rainfall Pattern
 
@@ -28,11 +28,11 @@ Climate change is altering rainfall patterns and increasing temperature. Some ev
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

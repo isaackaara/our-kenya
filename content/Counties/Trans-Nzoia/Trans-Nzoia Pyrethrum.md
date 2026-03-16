@@ -9,7 +9,7 @@ Kenya is a major global pyrethrum producer, with Trans-Nzoia contributing a sign
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca9876en/
 2. https://www.pbk.co.ke/farmers-information

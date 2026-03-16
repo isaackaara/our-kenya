@@ -14,7 +14,7 @@ The routes and timing are determined by elder knowledge, experience from previou
 
 Each Maasai section has traditional wet-season grazing zones (closer to settlements) and dry-season zones (often in peripheral areas or protected areas that are raided for grazing).
 
-The Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] was historically a crucial dry-season grazing area. When the reserve was established in 1961, the Maasai lost access to pasture land they had used for centuries. This initiated the conflict between conservation and pastoralism that persists today.
+The Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] was historically a crucial dry-season grazing area. When the reserve was established in 1961, the Maasai lost access to pasture land they had used for centuries. This initiated the conflict between conservation and pastoralism that persists today.
 
 ## The Cattle Camp vs. Permanent Settlement
 
@@ -43,10 +43,10 @@ The question facing the Maasai in 2026 is whether pastoralism can adapt to these
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

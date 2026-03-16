@@ -22,7 +22,7 @@ Religious leaders including bishops and prominent pastors have guided spiritual 
 
 ## Artists and Cultural Practitioners
 
-Musicians, artists, and cultural practitioners have expressed [[../../Luhya/Luhya|Bukusu]] creative traditions. Cultural figures have contributed to Kenya's arts and entertainment sectors. Performers have adapted traditional cultures to contemporary contexts. Cultural contributions maintain heritage while engaging contemporary audiences.
+Musicians, artists, and cultural practitioners have expressed [[Luhya|Bukusu]] creative traditions. Cultural figures have contributed to Kenya's arts and entertainment sectors. Performers have adapted traditional cultures to contemporary contexts. Cultural contributions maintain heritage while engaging contemporary audiences.
 
 ## Academic Production
 
@@ -31,7 +31,7 @@ Kibabii University has produced graduates achieving prominence in various fields
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

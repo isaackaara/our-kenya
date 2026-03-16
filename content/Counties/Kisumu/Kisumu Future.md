@@ -34,7 +34,7 @@ Effective governance, institutional capacity, reduced corruption, and service de
 
 ## Environmental Restoration
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] water quality restoration, shoreline rehabilitation, and ecosystem improvement would support fishing industries, tourism, and public health.
+[[Lake Victoria Kenya|Lake Victoria]] water quality restoration, shoreline rehabilitation, and ecosystem improvement would support fishing industries, tourism, and public health.
 
 ## Housing and Settlement
 
@@ -54,7 +54,7 @@ Realizing Kisumu's development vision requires substantial financial investment 
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

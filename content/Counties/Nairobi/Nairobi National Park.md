@@ -1,8 +1,8 @@
-[[../../Conservation/Nairobi National Park|Nairobi National Park]] is the only national park located within the boundaries of a capital city in the world. Established in 1946, it covers approximately 117 square kilometers and protects a substantial population of large African megafauna, including lions, leopards, rhinoceros, buffalo, giraffe, and zebra.
+[[Nairobi National Park|Nairobi National Park]] is the only national park located within the boundaries of a capital city in the world. Established in 1946, it covers approximately 117 square kilometers and protects a substantial population of large African megafauna, including lions, leopards, rhinoceros, buffalo, giraffe, and zebra.
 
 ## Establishment and History
 
-The park was originally established as the Royal [[../../Conservation/Nairobi National Park|Nairobi National Park]] in 1946 to protect wildlife on the plains south of the city. It was renamed Nairobi National Park in 1964 after Kenyan independence. The park's proximity to the city made it a tourist attraction and a symbol of Kenya's commitment to wildlife conservation.
+The park was originally established as the Royal [[Nairobi National Park|Nairobi National Park]] in 1946 to protect wildlife on the plains south of the city. It was renamed Nairobi National Park in 1964 after Kenyan independence. The park's proximity to the city made it a tourist attraction and a symbol of Kenya's commitment to wildlife conservation.
 
 ## Wildlife and Ecosystems
 
@@ -10,7 +10,7 @@ The park protects diverse ecosystems, from grasslands to acacia forests to the A
 
 ## Iconic Backdrop
 
-The park's location creates an iconic image: a wild landscape with roaming lions and rhinos silhouetted against the modern skyline of Nairobi's buildings and skyscrapers. This juxtaposition has made [[../../Conservation/Nairobi National Park|Nairobi National Park]] internationally famous and symbolically important to Kenya's conservation identity.
+The park's location creates an iconic image: a wild landscape with roaming lions and rhinos silhouetted against the modern skyline of Nairobi's buildings and skyscrapers. This juxtaposition has made [[Nairobi National Park|Nairobi National Park]] internationally famous and symbolically important to Kenya's conservation identity.
 
 ## Threats from Urban Expansion
 
@@ -26,8 +26,8 @@ The park generates substantial tourism revenue, with thousands of visitors annua
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

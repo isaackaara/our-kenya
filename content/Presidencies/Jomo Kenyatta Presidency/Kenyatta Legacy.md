@@ -29,7 +29,7 @@ Today, Kenyatta is remembered as a complex figure: the founding father who led K
 - [[Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
 - [[Kenyatta Economic Policy|Kenyatta Economic Policy]]
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
-- [[../Daniel arap Moi Presidency/Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
+- [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[../../Kenya Independence|Kenya Independence]]
 - [[../../Kenya Nation-Building|Kenya Nation-Building]]
 - [[../../Kenya Post-Colonial Politics|Kenya Post-Colonial Politics]]

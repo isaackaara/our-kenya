@@ -29,7 +29,7 @@ The crop required significant labor, particularly during harvest periods, making
 - [[Kisii Tea Industry|Tea Industry]]
 - [[Kisii Colonial History|Colonial History]]
 - [[Kisii Economy Overview|County Economy]]
-- [[../../Conservation/Conservation Economics Kenya|Conservation Economics]]
+- [[Conservation Economics Kenya|Conservation Economics]]
 
 ## Decline in Production
 

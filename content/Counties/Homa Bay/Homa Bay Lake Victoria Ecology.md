@@ -34,8 +34,8 @@ Lake Victoria conservation programs focus on sustainable fishing practices, habi
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. FAO. (2020). Lake Victoria Fisheries Assessment. https://www.fao.org/

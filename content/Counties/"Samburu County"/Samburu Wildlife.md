@@ -22,8 +22,8 @@ Human-wildlife conflict, particularly livestock predation by carnivores, creates
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Wildlife Service: Wildlife Population Surveys Outside Protected Areas. https://www.kws.go.ke/

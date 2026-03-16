@@ -43,4 +43,4 @@ The Axis is not about ethnic essentialism. It is about geography, numbers, and t
 
 ## Related
 
-[[The Handshake Pattern]] | [[../Kikuyu/Jomo Kenyatta]] | [[../Kikuyu/Mwai Kibaki]] | [[../Kikuyu/Uhuru Kenyatta]] | [[../Luo/Oginga Odinga]] | [[../Luo/Raila Odinga]]
+[[The Handshake Pattern]] | [[Jomo Kenyatta]] | [[Mwai Kibaki]] | [[../Kikuyu/Uhuru Kenyatta]] | [[Oginga Odinga]] | [[Raila Odinga]]

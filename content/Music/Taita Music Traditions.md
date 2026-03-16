@@ -1,4 +1,4 @@
-The Taita people of the Taita Hills in southeastern Kenya occupy a unique geographic and cultural position between the coastal lowlands and the interior highlands, their music reflecting this intermediacy through synthesis of coastal Swahili influences, Kamba musical connections, and distinctive practices evolved in the fertile, isolated Taita Hills. The hills' relative inaccessibility until the colonial period allowed Taita musical traditions to develop with some autonomy from both coastal and inland influences, though trade connections and intermarriage with [[Kamba/Kamba Culture and Identity|Kamba]], [[Swahili/Swahili Civilization Overview|Swahili]], and [[Mijikenda/Mijikenda Origins|Mijikenda]] populations created musical exchanges visible in instrumentation, vocal styles, and repertoires. Taita music centers on agricultural and ceremonial contexts, with songs and instrumental music marking planting and harvest seasons, initiation ceremonies, weddings, funerals, and other social events that structure community life in the hills' terraced agricultural landscapes.
+The Taita people of the Taita Hills in southeastern Kenya occupy a unique geographic and cultural position between the coastal lowlands and the interior highlands, their music reflecting this intermediacy through synthesis of coastal Swahili influences, Kamba musical connections, and distinctive practices evolved in the fertile, isolated Taita Hills. The hills' relative inaccessibility until the colonial period allowed Taita musical traditions to develop with some autonomy from both coastal and inland influences, though trade connections and intermarriage with [[Kamba/Kamba Culture and Identity|Kamba]], [[Swahili Civilization Overview|Swahili]], and [[Mijikenda Origins|Mijikenda]] populations created musical exchanges visible in instrumentation, vocal styles, and repertoires. Taita music centers on agricultural and ceremonial contexts, with songs and instrumental music marking planting and harvest seasons, initiation ceremonies, weddings, funerals, and other social events that structure community life in the hills' terraced agricultural landscapes.
 
 Taita musical instruments include several distinctive types reflecting the community's Bantu heritage and regional connections. Drums of various sizes provide rhythmic foundation for ceremonial music and dances, with skilled drummers creating intricate polyrhythmic patterns that can sustain hours-long performances. The kayamba, a percussion instrument made from woven plant materials filled with seeds or pebbles, appears in wedding music and other celebrations, creating rattling sounds that accompany singing and dancing. Flutes carved from bamboo or other plant materials produce melodic music, with young herders traditionally playing while tending livestock. The musical bow, though less common than among some other Kenyan communities, appears in certain contexts, suggesting ancient connections to broader African musical bow traditions.
 
@@ -21,13 +21,13 @@ Contemporary efforts to preserve Taita music face typical challenges: elderly pr
 The question facing Taita music is whether it can evolve to address contemporary Taita concerns while maintaining connections to historical traditions, or whether rapid cultural change will sever those connections, leaving only archival recordings and elderly memories as evidence of once-vibrant musical culture. The answer likely depends on whether younger Taita generations value cultural continuity enough to invest effort in learning and adapting traditional music, and whether Taita society can imagine futures where traditional culture remains relevant rather than merely nostalgic.
 
 ## See Also
-- [[Music/Kamba Music and Kilumi]]
+- [[Kamba Music and Kilumi]]
 - [[Kamba/Kamba Culture and Identity]]
-- [[Music/Mijikenda Musical Traditions]]
-- [[Music/Work Songs and Agricultural Music Kenya]]
-- [[Music/Music and Initiation Rites]]
-- [[Music/Musical Instruments of Kenya - Percussion]]
-- [[Music/Funeral Music Traditions Kenya]]
+- [[Mijikenda Musical Traditions]]
+- [[Work Songs and Agricultural Music Kenya]]
+- [[Music and Initiation Rites]]
+- [[Musical Instruments of Kenya - Percussion]]
+- [[Funeral Music Traditions Kenya]]
 
 ## Sources
 1. Harris, Grace. Casting Out Anger: Religion Among the Taita of Kenya. Cambridge: Cambridge University Press, 1978.

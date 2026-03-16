@@ -1,4 +1,4 @@
-The Bakhayo are a Luhya sub-group primarily residing in the Bungoma and [[../Counties/Kakamega/Kakamega County|Kakamega County]] region of western Kenya. They represent one of the smaller Luhya sub-groups and maintain distinct cultural practices and territorial identity within the broader Luhya confederation.
+The Bakhayo are a Luhya sub-group primarily residing in the Bungoma and [[Kakamega County|Kakamega County]] region of western Kenya. They represent one of the smaller Luhya sub-groups and maintain distinct cultural practices and territorial identity within the broader Luhya confederation.
 
 ## Territory and Location
 
@@ -10,7 +10,7 @@ According to 2019 census data, the Bakhayo population stood at approximately 68,
 
 ## Unique Circumcision Pattern
 
-The Bakhayo, along with other groups historically neighboring [[../Luo/Luo|Luo]] (such as the Basonga), do not practice male circumcision as a traditional rite of passage. This distinguishes them from the majority of Luhya sub-groups including [[Luhya|Luhya]], Banyore, Batsotso, Idakho, Isukha, Kabras, Kisa, Logoli, Marama, Tachoni, Tiriki, and Wanga, who all practice circumcision. The absence of this practice may reflect historical cultural borrowing from Luo neighbors or distinct pre-Luhya origins.
+The Bakhayo, along with other groups historically neighboring [[Luo|Luo]] (such as the Basonga), do not practice male circumcision as a traditional rite of passage. This distinguishes them from the majority of Luhya sub-groups including [[Luhya|Luhya]], Banyore, Batsotso, Idakho, Isukha, Kabras, Kisa, Logoli, Marama, Tachoni, Tiriki, and Wanga, who all practice circumcision. The absence of this practice may reflect historical cultural borrowing from Luo neighbors or distinct pre-Luhya origins.
 
 ## Social Structure and Clans
 
@@ -33,11 +33,11 @@ Modern Bakhayo communities, like other rural western Kenya populations, face cha
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

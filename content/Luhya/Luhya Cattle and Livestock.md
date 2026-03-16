@@ -48,7 +48,7 @@ Chickens provide eggs for household consumption and income from sale. Chicken re
 ## References
 
 - Wikipedia. Luhya People. December 2025.
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]] Government. History and Culture.
+- [[Kakamega County|Kakamega County]] Government. History and Culture.
 
 ## Related Notes
 
@@ -60,9 +60,9 @@ Chickens provide eggs for household consumption and income from sale. Chicken re
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

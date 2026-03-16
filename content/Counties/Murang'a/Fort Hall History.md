@@ -13,7 +13,7 @@ At independence in 1963, the district was renamed Murang'a, reclaiming the pre-c
 - [[Murang'a and the Mau Mau|Mau Mau Uprising]]
 - [[Murang'a Town|Town Development]]
 - [[Murang'a Kikuyu Identity|Kikuyu Identity]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (ethnic group)]]
+- [[Kikuyu|Kikuyu (ethnic group)]]
 
 ## Sources
 

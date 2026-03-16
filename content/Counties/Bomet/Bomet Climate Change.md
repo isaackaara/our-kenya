@@ -76,8 +76,8 @@ Mitigation efforts include:
 - [[Bomet Politics|Politics]]
 - [[Bomet Agriculture|Agriculture]]
 - [[Bomet Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Meteorological Department (2023). "Climate Projections: Kenya 2023-2050". https://www.meteo.go.ke

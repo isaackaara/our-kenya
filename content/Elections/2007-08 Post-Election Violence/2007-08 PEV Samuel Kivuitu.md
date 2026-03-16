@@ -12,7 +12,7 @@ The ECK was dissolved in 2009 as part of constitutional reform. Its successor, t
 
 ## See Also
 
-[[../2007 Election/2007 Election|2007 Election]]
+[[2007 Election|2007 Election]]
 [[2007-08 PEV Kibaki Swearing-In|Kibaki Swearing-In]]
 [[2007-08 PEV Raila Odinga Response|Raila Odinga Response]]
 [[2007-08 PEV New IEBC|New IEBC]]

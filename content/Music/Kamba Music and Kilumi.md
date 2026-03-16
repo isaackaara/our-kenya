@@ -17,13 +17,13 @@ Contemporary kilumi faces challenges beyond religious opposition. The music's tr
 The kilumi tradition connects to broader [[Kamba/Kamba Culture and Identity|Kamba]] musical heritage, which includes work songs, initiation music, wedding celebrations, and secular dance forms. The drumming patterns and vocal styles appearing in kilumi inform other Kamba musical expressions, creating continuity across sacred and secular domains. Understanding kilumi therefore provides insight into the deeper structures organizing all Kamba music, revealing how rhythm, melody, movement, and spiritual belief interweave in Kamba cosmology.
 
 ## See Also
-- [[Music/Kamba Mwali Songs]]
+- [[Kamba Mwali Songs]]
 - [[Kamba/Kamba Culture and Identity]]
-- [[Music/Music and Healing Traditions Kenya]]
-- [[Music/Women's Music Traditions Kenya]]
-- [[Music/Musical Instruments of Kenya - Percussion]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
-- [[Music/Funeral Music Traditions Kenya]]
+- [[Music and Healing Traditions Kenya]]
+- [[Women's Music Traditions Kenya]]
+- [[Musical Instruments of Kenya - Percussion]]
+- [[Music and Pre-Christian Religion Kenya]]
+- [[Funeral Music Traditions Kenya]]
 
 ## Sources
 1. Kavyu, Paul. An Introduction to Kamba Music. Nairobi: East African Literature Bureau, 1980.

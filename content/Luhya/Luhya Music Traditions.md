@@ -10,7 +10,7 @@ The isukuti is particularly associated with the Isukha and Idakho sub-groups of 
 
 ## The Litungu Lyre
 
-The litungu is an 8-string lyre played particularly among [[Luhya|Luhya]] and other northern Luhya communities. The litungu is similar to [[../Luo/Luo|Luo]] nyatiti (also an 8-string lyre) but maintains its own distinct aesthetic and playing technique. The litungu is used for solo performance and for accompaniment of sung stories and proverbs.
+The litungu is an 8-string lyre played particularly among [[Luhya|Luhya]] and other northern Luhya communities. The litungu is similar to [[Luo|Luo]] nyatiti (also an 8-string lyre) but maintains its own distinct aesthetic and playing technique. The litungu is used for solo performance and for accompaniment of sung stories and proverbs.
 
 The litungu produces a mellow, contemplative sound and is often played by male performers, though women also play the instrument. The music is associated with storytelling, courting, and reflective occasions.
 
@@ -54,9 +54,9 @@ The combination of singing, drumming, and dancing creates participatory performa
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

@@ -1,4 +1,4 @@
-*Kirinyaga*, "place of brightness" or "mountain of whiteness" in Kikuyu, is the name for [[../Conservation/Mount Kenya National Park|Mount Kenya]], the second-highest peak in Africa at 5,199 metres. It is the physical and spiritual centre of the Kikuyu world: the home of [[Ngai]], the place where the divine first spoke to [[Gikuyu and Mumbi]], and the compass by which every traditional Kikuyu homestead was oriented. For the Agikuyu, Kirinyaga is not a backdrop. It is the point around which everything else revolves.
+*Kirinyaga*, "place of brightness" or "mountain of whiteness" in Kikuyu, is the name for [[Mount Kenya National Park|Mount Kenya]], the second-highest peak in Africa at 5,199 metres. It is the physical and spiritual centre of the Kikuyu world: the home of [[Ngai]], the place where the divine first spoke to [[Gikuyu and Mumbi]], and the compass by which every traditional Kikuyu homestead was oriented. For the Agikuyu, Kirinyaga is not a backdrop. It is the point around which everything else revolves.
 
 ## Key Facts
 

@@ -7,7 +7,7 @@ Legal case brought by Mau Mau veterans against the British government, settled i
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Mwea Irrigation Scheme]]
+- [[Mwea Irrigation Scheme]]
 
 ## Sources
 *To be added*

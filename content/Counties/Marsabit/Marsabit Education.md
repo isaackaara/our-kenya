@@ -20,7 +20,7 @@ Higher education opportunity for Marsabit students requires migration to urban c
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Education|Education]]
+[[Marsabit Education|Education]]
 ## Sources
 
 1. Ministry of Education: Education Sector Plan 2022,2026. https://www.education.go.ke/

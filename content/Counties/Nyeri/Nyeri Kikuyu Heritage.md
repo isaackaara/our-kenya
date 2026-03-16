@@ -1,4 +1,4 @@
-Nyeri County is the heartland of Kikuyu culture and identity. The Kikuyu people, Kenya's largest ethnic group, have their cultural center in the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] highlands that include Nyeri. Kikuyu language, traditions, initiation practices, and social organizations maintain strong presence in Nyeri. The county represents the geographic and cultural core of Kikuyu civilization.
+Nyeri County is the heartland of Kikuyu culture and identity. The Kikuyu people, Kenya's largest ethnic group, have their cultural center in the [[Mount Kenya National Park|Mount Kenya]] highlands that include Nyeri. Kikuyu language, traditions, initiation practices, and social organizations maintain strong presence in Nyeri. The county represents the geographic and cultural core of Kikuyu civilization.
 
 ## Language and Culture
 
@@ -10,11 +10,11 @@ Initiation ceremonies historically marked transitions to adulthood and created a
 
 ## Territorial Identity
 
-The [[../../Conservation/Mount Kenya National Park|Mount Kenya]] area, centered on Nyeri, represents the core Kikuyu territorial homeland. Historical narratives emphasize the region as the site of Kikuyu emergence and cultural development. Strong attachment to ancestral land remains central to Kikuyu identity.
+The [[Mount Kenya National Park|Mount Kenya]] area, centered on Nyeri, represents the core Kikuyu territorial homeland. Historical narratives emphasize the region as the site of Kikuyu emergence and cultural development. Strong attachment to ancestral land remains central to Kikuyu identity.
 
 ## Religious Traditions
 
-Traditional Kikuyu religious beliefs centered on Ngai (God) residing on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]. These beliefs persist alongside Christianity, with some Kikuyu maintaining syncretistic practices blending Christian faith with traditional reverence. [[../../Conservation/Mount Kenya National Park|Mount Kenya]] retains sacred significance for many Kikuyu.
+Traditional Kikuyu religious beliefs centered on Ngai (God) residing on [[Mount Kenya National Park|Mount Kenya]]. These beliefs persist alongside Christianity, with some Kikuyu maintaining syncretistic practices blending Christian faith with traditional reverence. [[Mount Kenya National Park|Mount Kenya]] retains sacred significance for many Kikuyu.
 
 ## Historical Consciousness
 
@@ -29,8 +29,8 @@ Community organizations work to preserve Kikuyu cultural traditions threatened b
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

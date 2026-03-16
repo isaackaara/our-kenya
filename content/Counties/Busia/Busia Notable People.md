@@ -10,7 +10,7 @@ Business entrepreneurs have established successful trading and agricultural ente
 ## See Also
 
 [[../../Busia/Busia|Busia County]]
-[[../../Busia/Busia Notable People|Notable People]]
+[[Busia Notable People|Notable People]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Category:People_from_Busia_County
 2. https://www.standardmedia.co.ke/counties/article/2001234567/notable-people-busia

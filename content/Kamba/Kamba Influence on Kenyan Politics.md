@@ -204,9 +204,9 @@ Kamba political elite have circulated through various positions:
 
 Voting patterns vary within Kamba region:
 
-- **[[../Counties/Machakos/Machakos County|Machakos County]]**: More urban, wealthier, more volatile voting patterns
-- **[[../Counties/Kitui/Kitui County|Kitui County]]**: More rural, pastoralist-influenced, traditionally more conservative
-- **[[../Counties/Makueni/Makueni County|Makueni County]]**: Divided between Kamba and other ethnic groups, less unified voting
+- **[[Machakos County|Machakos County]]**: More urban, wealthier, more volatile voting patterns
+- **[[Kitui County|Kitui County]]**: More rural, pastoralist-influenced, traditionally more conservative
+- **[[Makueni County|Makueni County]]**: Divided between Kamba and other ethnic groups, less unified voting
 
 ### Urban-Rural Divide
 

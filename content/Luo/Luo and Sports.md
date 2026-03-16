@@ -6,7 +6,7 @@ Gor Mahia Football Club (also spelled Gor Mahia) is one of Kenya's most successf
 
 ### Gor Mahia the Legend
 
-Gor Mahia (son of Ogada, grandson of Ogallo) was born on the shores of [[../Conservation/Lake Victoria Kenya|Lake Victoria]] in the late 18th century and became a legendary figure in Luo oral tradition. According to legend, Gor's grandfather Ogallo performed a ritual involving his mother's ashes, which became the source of Gor's extraordinary powers. The miraculous things that Gor performed earned him the name "Mahia," which means strange, lethal, and supernatural in Dholuo language.
+Gor Mahia (son of Ogada, grandson of Ogallo) was born on the shores of [[Lake Victoria Kenya|Lake Victoria]] in the late 18th century and became a legendary figure in Luo oral tradition. According to legend, Gor's grandfather Ogallo performed a ritual involving his mother's ashes, which became the source of Gor's extraordinary powers. The miraculous things that Gor performed earned him the name "Mahia," which means strange, lethal, and supernatural in Dholuo language.
 
 Gor Mahia's legendary abilities included prophecy, herbal healing, and manipulation of supernatural forces. He became a paramount chief and exceptional warrior, ruling with authority and wielding powers that astonished neighboring communities. Gor Mahia represented an ideal of Luo manhood and leadership, combining martial prowess, spiritual power, and wisdom.
 
@@ -43,7 +43,7 @@ While women's participation in football has grown, sports (particularly football
 
 ## Cross-links
 - [[Luo Music and Culture]]
-- [[../Cross-Ethnic/Gor Mahia vs AFC Leopards]] (hypothetical)
+- [[Gor Mahia vs AFC Leopards]] (hypothetical)
 - [[Luo Social Structure]]
 ## See Also
 

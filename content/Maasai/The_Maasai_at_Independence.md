@@ -12,7 +12,7 @@ The crucial political divide at independence centered on two major political par
 
 ## Maasai Association with KADU
 
-The Maasai community was heavily associated with KADU and the majimbo federal proposal. Maasai leaders reasoned that federalism would preserve Maasai control over their remaining territories and allow them to govern pastoral affairs independently. KADU also promised that a federal structure would prevent dominant ethnic groups (particularly [[../Kikuyu/Kikuyu|Kikuyu]]) from overwhelming minority interests. For the Maasai, federalism represented a way to protect pastoralism and territorial control after decades of colonial restrictions and land loss.
+The Maasai community was heavily associated with KADU and the majimbo federal proposal. Maasai leaders reasoned that federalism would preserve Maasai control over their remaining territories and allow them to govern pastoral affairs independently. KADU also promised that a federal structure would prevent dominant ethnic groups (particularly [[Kikuyu|Kikuyu]]) from overwhelming minority interests. For the Maasai, federalism represented a way to protect pastoralism and territorial control after decades of colonial restrictions and land loss.
 
 ## Land Question at Independence
 
@@ -32,7 +32,7 @@ At independence, many Maasai believed their territories would be secure and thei
 
 ## National Parks and Conservancies
 
-Instead of land restitution, the post-independence government expanded the national park system. The [[../Conservation/Amboseli National Park|Amboseli National Park]] National Park and expanded Maasai Mara Reserve put significant Maasai territories under strict wildlife conservation rules. Maasai pastoral use was restricted in these areas. The government justified the parks as national heritage and tourism resources, but many Maasai saw them as further land loss, this time to wildlife conservation rather than European settlement.
+Instead of land restitution, the post-independence government expanded the national park system. The [[Amboseli National Park|Amboseli National Park]] National Park and expanded Maasai Mara Reserve put significant Maasai territories under strict wildlife conservation rules. Maasai pastoral use was restricted in these areas. The government justified the parks as national heritage and tourism resources, but many Maasai saw them as further land loss, this time to wildlife conservation rather than European settlement.
 
 ## Pastoral Decline Begins
 
@@ -58,12 +58,12 @@ The Maasai experience at independence established patterns that would persist th
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

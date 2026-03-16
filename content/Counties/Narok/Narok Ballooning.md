@@ -1,4 +1,4 @@
-Hot air ballooning over [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara represents one of Africa's most distinctive and popular safari tourism activities, with daily balloon flights providing aerial perspectives of wildlife, landscapes, and the Great Migration for visitors willing to pay premium rates.
+Hot air ballooning over [[Maasai|Maasai]]/Maasai|Maasai]] Mara represents one of Africa's most distinctive and popular safari tourism activities, with daily balloon flights providing aerial perspectives of wildlife, landscapes, and the Great Migration for visitors willing to pay premium rates.
 
 ## Ballooning Operations
 
@@ -37,8 +37,8 @@ See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist E
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

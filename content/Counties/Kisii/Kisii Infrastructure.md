@@ -33,7 +33,7 @@ Kisii town serves as a regional transportation hub with:
 - [[Kisii Economy Overview|County Economy]]
 - [[Kisii and Devolution|Devolution]]
 - [[Kisii Land Pressure|Land Issues]]
-- [[../../Conservation/SGR and Wildlife Corridors|Wildlife Corridors]]
+- [[SGR and Wildlife Corridors|Wildlife Corridors]]
 
 ## Water and Sanitation
 

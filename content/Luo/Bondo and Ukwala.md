@@ -1,8 +1,8 @@
-Bondo and Ukwala are northern sub-counties of [[../Counties/Siaya/Siaya County|Siaya County]], located in the Luo heartland north of [[../Counties/Kisumu/Kisumu County|Kisumu County]]. These areas are historically and culturally significant as fishing and agricultural communities, with deep connections to [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]'s family roots and to the broader landscape of Luo cultural identity.
+Bondo and Ukwala are northern sub-counties of [[Siaya County|Siaya County]], located in the Luo heartland north of [[../Counties/Kisumu/Kisumu County|Kisumu County]]. These areas are historically and culturally significant as fishing and agricultural communities, with deep connections to [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]'s family roots and to the broader landscape of Luo cultural identity.
 
 ## Geography and Economy
 
-Bondo and Ukwala occupy fertile land near [[../Conservation/Lake Victoria Kenya|Lake Victoria]]. Fishing is a primary economic activity, with fish landing sites providing livelihoods for hundreds of families. Agriculture (millet, sorghum, cassava, vegetables) supplements fishing income.
+Bondo and Ukwala occupy fertile land near [[Lake Victoria Kenya|Lake Victoria]]. Fishing is a primary economic activity, with fish landing sites providing livelihoods for hundreds of families. Agriculture (millet, sorghum, cassava, vegetables) supplements fishing income.
 
 The climate is tropical, with significant rainfall supporting agriculture. The population is dense in some areas and sparse in others, reflecting differential agricultural viability and migration patterns.
 
@@ -14,7 +14,7 @@ The region has been the site of important political movements, from anti-colonia
 
 ## Fishing Communities
 
-The northern Siaya fishing communities are among Kenya's most active fishing populations. Fish landing sites like Mbita (technically in [[../Counties/Homa Bay/Homa Bay County|Homa Bay County]] but closely linked to northern Siaya) are major centres of fish trade.
+The northern Siaya fishing communities are among Kenya's most active fishing populations. Fish landing sites like Mbita (technically in [[Homa Bay County|Homa Bay County]] but closely linked to northern Siaya) are major centres of fish trade.
 
 The Nile perch commercial fishing industry has transformed fishing, creating wage employment but also causing ecological damage and cultural disruption. The challenge of balancing commercial fishing with sustainable livelihoods remains acute.
 

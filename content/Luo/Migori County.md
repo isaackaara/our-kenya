@@ -1,4 +1,4 @@
-Migori County is the southernmost Luo territory in Kenya, bordering Tanzania across the Kenya-Tanzania border. The county's economy, geography, and politics are shaped by its border location, its gold resources, fishing, sugar production, and [[../Conservation/Lake Victoria Kenya|Lake Victoria]] access.
+Migori County is the southernmost Luo territory in Kenya, bordering Tanzania across the Kenya-Tanzania border. The county's economy, geography, and politics are shaped by its border location, its gold resources, fishing, sugar production, and [[Lake Victoria Kenya|Lake Victoria]] access.
 
 ## Geography and Location
 
@@ -46,8 +46,8 @@ Migori County faces development challenges including limited infrastructure, wat
 
 ## Cross-links
 - [[Luo Land and Fishing]]
-- [[[[../Counties/Siaya/Siaya County|Siaya County]]]]
-- [[[[../Counties/Homa Bay/Homa Bay County|Homa Bay County]]]]
+- [[Siaya County|Siaya County]]]]
+- [[Homa Bay County|Homa Bay County]]]]
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]], [[Lake Victoria Deep Dive|Lake Victoria]]

@@ -20,8 +20,8 @@ Scientific research on wildlife populations, ecology, and behaviour occurs withi
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Wildlife Service: Samburu National Reserve Management Plan 2023,2027. https://www.kws.go.ke/

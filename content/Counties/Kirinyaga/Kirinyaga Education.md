@@ -22,7 +22,7 @@ Adult literacy programs serve adults who did not complete primary education. The
 
 ## Language of Instruction
 
-English is the official language of instruction from primary education onward. [[../../Kikuyu/Kikuyu|Kikuyu]] language is spoken at home and in community contexts but is increasingly supplemented by English. Code-switching between English and Kikuyu is common in households and informal settings. Language instruction policies reflect national priorities regarding English fluency for economic integration.
+English is the official language of instruction from primary education onward. [[Kikuyu|Kikuyu]] language is spoken at home and in community contexts but is increasingly supplemented by English. Code-switching between English and Kikuyu is common in households and informal settings. Language instruction policies reflect national priorities regarding English fluency for economic integration.
 
 ## Educational Challenges
 
@@ -32,11 +32,11 @@ Teacher shortages affect rural areas and less popular schools. Infrastructure in
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

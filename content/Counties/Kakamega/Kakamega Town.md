@@ -10,12 +10,12 @@ The town hosts the county headquarters and major administrative buildings, along
 
 ## Socioeconomic Significance
 
-As the gateway to western Kenya, Kakamega Town connects communities from neighbouring counties. The town's economic activities center on trade, transport, and services, with numerous matatu terminals connecting it to Nairobi, [[../../Kisii/Kisii|Kisii]], and border areas. Financial services, telecommunications, and modern retail establishments have expanded significantly in recent years.
+As the gateway to western Kenya, Kakamega Town connects communities from neighbouring counties. The town's economic activities center on trade, transport, and services, with numerous matatu terminals connecting it to Nairobi, [[Kisii|Kisii]], and border areas. Financial services, telecommunications, and modern retail establishments have expanded significantly in recent years.
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

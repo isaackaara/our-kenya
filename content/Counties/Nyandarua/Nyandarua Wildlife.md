@@ -1,8 +1,8 @@
-Wildlife on the [[../../Conservation/Aberdare National Park|Aberdare Range]] represents part of Kenya's biodiversity. Forest ecosystems support diverse species. Aberdare National Park protects forest and alpine habitats. However, habitat loss has reduced wildlife populations. Some species face extinction risk. Conservation efforts attempt to protect remaining wildlife while balancing community interests.
+Wildlife on the [[Aberdare National Park|Aberdare Range]] represents part of Kenya's biodiversity. Forest ecosystems support diverse species. Aberdare National Park protects forest and alpine habitats. However, habitat loss has reduced wildlife populations. Some species face extinction risk. Conservation efforts attempt to protect remaining wildlife while balancing community interests.
 
 ## Forest Mammals
 
-[[../../Conservation/Mount Kenya National Park|Mount Kenya]] forests support elephants, buffalo, and antelope species. Primates including colobus monkeys inhabit forests. Small carnivores and other mammals hunt prey. Wildlife populations have declined from historical levels.
+[[Mount Kenya National Park|Mount Kenya]] forests support elephants, buffalo, and antelope species. Primates including colobus monkeys inhabit forests. Small carnivores and other mammals hunt prey. Wildlife populations have declined from historical levels.
 
 ## Protected Areas
 
@@ -20,11 +20,11 @@ Some species face extinction risk. Forest fragmentation threatens species requir
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

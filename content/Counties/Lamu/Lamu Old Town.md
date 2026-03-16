@@ -22,7 +22,7 @@ Yet the Old Town remains inhabited by resident Swahili and Bajuni families who m
 - [[Lamu Donkeys|Lamu Donkeys]]
 - [[Lamu Tourism|Lamu Tourism]]
 - [[Lamu Real Estate|Lamu Real Estate]]
-- [[../../Swahili/Swahili|Swahili Settlements]]
+- [[Swahili|Swahili Settlements]]
 
 ## Sources
 

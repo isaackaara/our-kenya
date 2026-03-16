@@ -2,9 +2,9 @@ Wangari Muta Maathai (1940-2011) was a Kenyan environmental and political activi
 
 In 1977, facing the environmental degradation of Nairobi's green spaces and observing the deforestation driven by commercial interests, Maathai founded the Green Belt Movement as a grassroots organization to plant trees and restore forests. The movement began with a simple act: planting seven trees in Karura Forest to commemorate UN Environment Day. What started as a local initiative grew into a continent-wide environmental restoration program that empowered predominantly women participants to plant over 50 million trees across Kenya and neighboring countries.
 
-Maathai's activism was inseparable from her advocacy for women's rights and political freedom. The Green Belt Movement actively recruited women farmers and villagers, giving them agency in environmental restoration while simultaneously addressing economic needs through tree nurseries that provided income. She linked deforestation to the broader patterns of corruption and poor governance, positioning environmental protection as intrinsically connected to [[Presidencies/Presidencies|democratic accountability]] and public resource management.
+Maathai's activism was inseparable from her advocacy for women's rights and political freedom. The Green Belt Movement actively recruited women farmers and villagers, giving them agency in environmental restoration while simultaneously addressing economic needs through tree nurseries that provided income. She linked deforestation to the broader patterns of corruption and poor governance, positioning environmental protection as intrinsically connected to [[Presidencies|democratic accountability]] and public resource management.
 
-Her political courage was tested repeatedly under the [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi regime]]. Maathai publicly opposed the government's Karura Forest land-grabbing schemes in the 1990s, leading to confrontations with police and security forces. In 1989, she staged a hunger strike to demand the release of political prisoners. Her activism earned her harassment, arrest, and international attention, transforming her into a symbol of both environmental stewardship and resistance to authoritarian governance.
+Her political courage was tested repeatedly under the [[Daniel arap Moi Presidency|Moi regime]]. Maathai publicly opposed the government's Karura Forest land-grabbing schemes in the 1990s, leading to confrontations with police and security forces. In 1989, she staged a hunger strike to demand the release of political prisoners. Her activism earned her harassment, arrest, and international attention, transforming her into a symbol of both environmental stewardship and resistance to authoritarian governance.
 
 In 2002, Maathai was elected to Parliament representing [[Nairobi/Constituencies|Karura constituency]], representing a convergence of her environmental and political trajectories. She served as Assistant Minister for Environment, Conservation and Wildlife under President Mwai Kibaki, where she advocated for stronger environmental protection laws and continued her work on the Green Belt Movement, which the government officially recognized.
 
@@ -19,8 +19,8 @@ Maathai passed away in September 2011 following a prolonged battle with cancer. 
 [[Women Organizations Advocacy]]
 [[Female Entrepreneurs Business]]
 [[Women Leadership Capacity]]
-[[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi Era Governance]]
-[[Corruption/Corruption|Institutional Corruption]]
+[[Daniel arap Moi Presidency|Moi Era Governance]]
+[[Corruption|Institutional Corruption]]
 [[Women Land Rights]]
 [[Education/Higher Education]]
 

@@ -13,7 +13,7 @@ These colonial restrictions on press freedom created the context into which inde
 [[East African Standard]]
 [[Mau Mau Emergency Broadcasting]]
 [[Media Independence Coverage]]
-[[Presidencies/Jomo Kenyatta]]
+[[Jomo Kenyatta]]
 [[Education/Colonial Kenya]]
 
 ## Sources

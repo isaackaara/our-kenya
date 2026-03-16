@@ -29,7 +29,7 @@ Other Kamba may have contributed to legal scholarship and judicial decision-maki
 
 ## Post-2010 Constitution Era
 
-The 2010 Constitution's implementation has created new legal opportunities and judicial work. County governments (41 counties nationwide) require legal expertise for contracts, disputes, and governance. [[../Counties/Makueni/Makueni County|Makueni County]] government under Kibwana demonstrated that legal expertise could be deployed for public service and good governance.
+The 2010 Constitution's implementation has created new legal opportunities and judicial work. County governments (41 counties nationwide) require legal expertise for contracts, disputes, and governance. [[Makueni County|Makueni County]] government under Kibwana demonstrated that legal expertise could be deployed for public service and good governance.
 
 New judicial institutions (Supreme Court restructured, specialized divisions created) required additional judges and legal personnel. These institutional expansions created additional space for Kamba lawyers and judges.
 

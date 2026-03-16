@@ -1,4 +1,4 @@
-Colonial administration shaped Kirinyaga District's development from the late 1800s onward. British colonial authorities incorporated [[../../Kikuyu/Kikuyu|Kikuyu]] territories into the East Africa Protectorate and later the Kenya Colony. The fertile [[../../Conservation/Mount Kenya National Park|Mount Kenya]] slopes, initially reserved for British settler farms, were eventually opened to limited African cultivation of cash crops under strict control. Colonial policies fundamentally altered land tenure, agricultural production, and Kikuyu society.
+Colonial administration shaped Kirinyaga District's development from the late 1800s onward. British colonial authorities incorporated [[Kikuyu|Kikuyu]] territories into the East Africa Protectorate and later the Kenya Colony. The fertile [[Mount Kenya National Park|Mount Kenya]] slopes, initially reserved for British settler farms, were eventually opened to limited African cultivation of cash crops under strict control. Colonial policies fundamentally altered land tenure, agricultural production, and Kikuyu society.
 
 ## Early Colonial Period
 
@@ -20,9 +20,9 @@ Colonial authorities restricted African coffee cultivation to limited areas and 
 
 The colonial government established administrative centers, police stations, and courts. Local administrators (District Officers) wielded substantial power over local communities. Appointed chiefs served as intermediaries between colonial authorities and local populations. This administrative structure bypassed existing Kikuyu political institutions and social organization.
 
-## [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] Uprising
+## [[Mau Mau Uprising|Mau Mau]] Uprising
 
-By the 1950s, discontent with colonial rule culminated in [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] uprising. Kikuyu communities, frustrated by land dispossession and limited economic opportunities, joined or supported the rebellion. The uprising was largest in Kikuyu areas including Kirinyaga District. British counterinsurgency campaigns suppressed the rebellion through military force, detention, and detention camps.
+By the 1950s, discontent with colonial rule culminated in [[Mau Mau Uprising|Mau Mau]] uprising. Kikuyu communities, frustrated by land dispossession and limited economic opportunities, joined or supported the rebellion. The uprising was largest in Kikuyu areas including Kirinyaga District. British counterinsurgency campaigns suppressed the rebellion through military force, detention, and detention camps.
 
 ## Transition to Independence
 
@@ -32,11 +32,11 @@ The Mau Mau uprising and subsequent negotiations led to Kenya's independence in 
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

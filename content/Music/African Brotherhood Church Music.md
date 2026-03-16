@@ -14,13 +14,13 @@ Women's roles in independent church music were complex. Some independent churche
 
 The instruments expanded beyond drums and voices. Rattles, bells, and various percussion instruments from traditional music appeared in worship. Some churches incorporated Western instruments like guitars and keyboards but played them with distinctly African techniques and rhythms. The instrumentation was eclectic, prioritizing spiritual effectiveness over cultural purity.
 
-The relationship between independent church music and [[Music/Music and Colonial Resistance|colonial resistance]] was complex. While not explicitly political, these churches' affirmation of African cultural worth implicitly challenged colonial assertions of European superiority. Singing, dancing, and drumming in ways missionaries had condemned was a form of cultural resistance, asserting African dignity and autonomy.
+The relationship between independent church music and [[Music and Colonial Resistance|colonial resistance]] was complex. While not explicitly political, these churches' affirmation of African cultural worth implicitly challenged colonial assertions of European superiority. Singing, dancing, and drumming in ways missionaries had condemned was a form of cultural resistance, asserting African dignity and autonomy.
 
-Recording and dissemination of independent church music occurred primarily through informal networks. These churches lacked access to [[Music/East African Recording Industry Origins|commercial recording infrastructure]], so their music circulated through live performance and oral transmission. This oral character gave the music flexibility and local variation absent from standardized mission hymns.
+Recording and dissemination of independent church music occurred primarily through informal networks. These churches lacked access to [[East African Recording Industry Origins|commercial recording infrastructure]], so their music circulated through live performance and oral transmission. This oral character gave the music flexibility and local variation absent from standardized mission hymns.
 
 The sonic landscape was dramatically different from mission church worship. Independent church services were loud, rhythmically complex, and participatory. Multiple rhythms overlapped, voices interwove in spontaneous harmonies, and the overall effect was immersive rather than contemplative. This sound expressed a different understanding of how music facilitates divine encounter.
 
-By independence in 1963, independent African churches had established themselves as permanent features of Kenya's religious landscape. Their musical innovations influenced even mission churches, which gradually incorporated more African elements into worship. The boundary between "mission" and "independent" church music became increasingly porous as [[Music/Church Music Africanization|Africanization proceeded]].
+By independence in 1963, independent African churches had established themselves as permanent features of Kenya's religious landscape. Their musical innovations influenced even mission churches, which gradually incorporated more African elements into worship. The boundary between "mission" and "independent" church music became increasingly porous as [[Church Music Africanization|Africanization proceeded]].
 
 The theological significance was profound. Independent church music embodied an African Christian theology that did not simply translate European Christianity but fundamentally reconceived it. The music was not illustration of theology but constitutive of it: the sound was the theology made audible.
 
@@ -29,12 +29,12 @@ Contemporary Kenyan Pentecostal and charismatic Christianity draws heavily on in
 African Brotherhood Church music demonstrated that African Christianity need not sound European. It proved that drums, dancing, and participatory worship were compatible with Christian faith. In doing so, these churches liberated African Christians to worship in culturally authentic ways, creating forms of sacred music that were both deeply African and genuinely Christian.
 
 ## See Also
-- [[Music/Church Music Africanization]]
-- [[Music/European Missionary Music in Kenya]]
-- [[Music/Mission Church Choirs Kenya]]
-- [[Music/Music and Colonial Resistance]]
+- [[Church Music Africanization]]
+- [[European Missionary Music in Kenya]]
+- [[Mission Church Choirs Kenya]]
+- [[Music and Colonial Resistance]]
 - [[Europeans/European Settlers Kenya]]
-- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
+- [[Jomo Kenyatta Presidency]]
 
 ## Sources
 1. Barrett, David B. "Schism and Renewal in Africa: An Analysis of Six Thousand Contemporary Religious Movements." Oxford University Press, 1968. https://global.oup.com/academic/product/schism-and-renewal-in-africa-9780195002577

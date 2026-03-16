@@ -2,7 +2,7 @@
 
 ## Political Figures
 
-[[../../Luo/Raila Odinga|Raila Amolo Odinga]] represents the most nationally prominent contemporary political figure from Siaya. His father, [[../../Luo/Jaramogi Oginga Odinga|Oginga Odinga]], was a nationalist leader and Vice President during the Jomo Kenyatta era. Both shaped [[../../Luo/Luo|Luo]] political representation and opposition politics.
+[[Raila Odinga|Raila Amolo Odinga]] represents the most nationally prominent contemporary political figure from Siaya. His father, [[Jaramogi Oginga Odinga|Oginga Odinga]], was a nationalist leader and Vice President during the Jomo Kenyatta era. Both shaped [[Luo|Luo]] political representation and opposition politics.
 
 ## Economic and Business Leaders
 
@@ -31,11 +31,11 @@ Athletes and cultural performers from Siaya have achieved recognition at nationa
 ## See Also
 
 - [[Barack Obama Sr and Siaya]]
-- [[../../Luo/Raila Odinga|Raila Odinga]]
-- [[../../Luo/Jaramogi Oginga Odinga|Oginga Odinga]]
+- [[Raila Odinga|Raila Odinga]]
+- [[Jaramogi Oginga Odinga|Oginga Odinga]]
 - [[Siaya Politics]]
 - [[Siaya Luo Heritage]]
-- [[../../Luo/Luo Political History|Luo Political History]]
+- [[Luo Political History|Luo Political History]]
 - [[Kogelo Village]]
 
 ## Sources

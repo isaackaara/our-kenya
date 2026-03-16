@@ -17,7 +17,7 @@ The handshake's most concrete output was the [[Building Bridges Initiative]] (BB
 - [[2017 Repeat Election and Raila Boycott]]
 - [[Building Bridges Initiative]]
 - [[Uhuru and William Ruto Fallout]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 - [[Cross-Ethnic/Kikuyu-Kalenjin Alliance]]
 
 ## Sources

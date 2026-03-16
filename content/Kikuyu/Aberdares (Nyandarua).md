@@ -2,11 +2,11 @@ The Aberdares mountain range, known as Nyandarua in Gikuyu, forms a dramatic spi
 
 ## Geography and Names
 
-Nyandarua (literally "the drying place" in Gikuyu) forms a highland massif with peaks reaching 4,001 meters at Point Lenana and 3,999 meters at Old Peak. The range receives 1,500 to 2,500 millimeters of annual rainfall, creating dense forest and moorland ecosystems. The eastern and western slopes descend steeply to Kikuyu territories below, creating natural defensibility. Colonial mapmakers called it [[../Conservation/Aberdare National Park|Aberdare]], after the Marquess of Aberdare, a British financier and politician.
+Nyandarua (literally "the drying place" in Gikuyu) forms a highland massif with peaks reaching 4,001 meters at Point Lenana and 3,999 meters at Old Peak. The range receives 1,500 to 2,500 millimeters of annual rainfall, creating dense forest and moorland ecosystems. The eastern and western slopes descend steeply to Kikuyu territories below, creating natural defensibility. Colonial mapmakers called it [[Aberdare National Park|Aberdare]], after the Marquess of Aberdare, a British financier and politician.
 
 ## Mau Mau and the State of Emergency
 
-During the 1952-1960 State of Emergency, [[../Conservation/Aberdare National Park|Aberdare]] became the principal base for forest fighters opposing British colonial rule and European settler dominance. The range's dense forest, steep terrain, and isolation from major colonial administrative centers made it ideal for guerrilla resistance. Fighters including Dedan Kimathi, Stanley Mathenge, and others established supply lines, hideouts, and operational bases in the forest. The British counter-insurgency campaign employed scorched earth tactics, destroying forests suspected of harboring fighters and displacing tens of thousands of Kikuyu civilians to create "protected" villages.
+During the 1952-1960 State of Emergency, [[Aberdare National Park|Aberdare]] became the principal base for forest fighters opposing British colonial rule and European settler dominance. The range's dense forest, steep terrain, and isolation from major colonial administrative centers made it ideal for guerrilla resistance. Fighters including Dedan Kimathi, Stanley Mathenge, and others established supply lines, hideouts, and operational bases in the forest. The British counter-insurgency campaign employed scorched earth tactics, destroying forests suspected of harboring fighters and displacing tens of thousands of Kikuyu civilians to create "protected" villages.
 
 The Aberdares' role in Mau Mau resistance has made the range emblematic of Kikuyu anti-colonial struggle and land dispossession. Many contemporary Kikuyu view the Aberdares as a sacred landscape of nationalist memory.
 
@@ -32,7 +32,7 @@ The Aberdares face contemporary pressures including poaching, logging, encroachm
 
 ## Sacred and Cultural Significance
 
-In Kikuyu tradition, [[../Conservation/Mount Kenya National Park|Mount Kenya]] and the Aberdares (Nyandarua) rank among the most sacred spaces. The mountains are associated with Ngai (God) and are places where spiritual leaders conduct rainmaking and other rituals. The Aberdares' role in Mau Mau resistance has deepened its sacred status as a site of nationalist sacrifice and Kikuyu resilience.
+In Kikuyu tradition, [[Mount Kenya National Park|Mount Kenya]] and the Aberdares (Nyandarua) rank among the most sacred spaces. The mountains are associated with Ngai (God) and are places where spiritual leaders conduct rainmaking and other rituals. The Aberdares' role in Mau Mau resistance has deepened its sacred status as a site of nationalist sacrifice and Kikuyu resilience.
 
 ## See Also
 

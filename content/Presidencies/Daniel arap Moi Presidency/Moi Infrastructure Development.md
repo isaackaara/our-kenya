@@ -21,7 +21,7 @@ The concentration of infrastructure investment in politically favoured regions p
 [[Moi Economic Record]]
 [[Moi Coffee Boom 1977-1979]]
 [[Moi and the Kalenjin]]
-[[Corruption/Kenya]]
+[[Kenya]]
 [[Kenya/Regional Development]]
 
 ## Sources

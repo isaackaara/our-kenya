@@ -8,7 +8,7 @@ In 1904, the British colonial government negotiated an agreement with the Maasai
 
 The 1904 agreement is called a "treaty," though it was not negotiated between equals. The Maasai were weakened by the Iloikop Wars and rinderpest. British military force backed the agreement.
 
-The Maasai agreed to vacate prime pastoral lands in the Rift Valley (areas like Suswa, Ol Kalou, Ol Jororok, Naivasha) and move to two designated reserves(northern reserve in [[../Counties/Laikipia/Laikipia County|Laikipia County]]; southern reserve in Kajiado and Loita).
+The Maasai agreed to vacate prime pastoral lands in the Rift Valley (areas like Suswa, Ol Kalou, Ol Jororok, Naivasha) and move to two designated reserves(northern reserve in [[Laikipia County|Laikipia County]]; southern reserve in Kajiado and Loita).
 
 The British intended the Rift Valley lands for white settler colonization(farms and ranches). The reserves were meant to contain the Maasai.
 
@@ -49,10 +49,10 @@ The 1904-1911 treaties set a precedent for systematic Maasai land loss that has 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

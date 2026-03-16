@@ -2,7 +2,7 @@ Agriculture in Laikipia County varies by elevation and community. Smallholder fa
 
 ## Smallholder Farming
 
-[[../../Kikuyu/Kikuyu|Kikuyu]] smallholders cultivate crops on limited holdings. Food crops provide household consumption. Market sales provide cash income. Extension services provide limited support. Market access challenges affect farmers. Land fragmentation limits farm sizes.
+[[Kikuyu|Kikuyu]] smallholders cultivate crops on limited holdings. Food crops provide household consumption. Market sales provide cash income. Extension services provide limited support. Market access challenges affect farmers. Land fragmentation limits farm sizes.
 
 ## Cattle Ranching
 
@@ -24,11 +24,11 @@ Limited water availability constrains agricultural expansion. Seasonal water str
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

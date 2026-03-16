@@ -26,7 +26,7 @@ Tugen cultural practices including ceremonies and traditions continue, though ad
 
 ## Cross-References
 
-See also: [[Baringo County|Baringo County]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[Daniel arap Moi and Baringo|Daniel arap Moi and Baringo]]
+See also: [[Baringo County|Baringo County]], [[Kalenjin|Kalenjin]], [[Daniel arap Moi and Baringo|Daniel arap Moi and Baringo]]
 
 
 ## See Also
@@ -35,8 +35,8 @@ See also: [[Baringo County|Baringo County]], [[../../Kalenjin/Kalenjin|Kalenjin]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Baringo Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

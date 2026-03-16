@@ -5,7 +5,7 @@ The Kenya Land and Freedom Army (KLFA) was the formal military name of the movem
 - The KLFA was primarily composed of Kikuyu fighters, with significant participation from Embu and Meru communities; smaller units from Kamba and Maasai also fought
 - It grew from networks of oath-takers (*itura* cells) in Nairobi's African estates and in the squatter communities displaced from [[White Highlands]] farms
 - The *githaka* oath (*muma wa githaka*) was the binding ceremony, fighters swore to reclaim the land or die trying; the oathing ceremonies were ritually elaborate and spiritually grounded in Kikuyu tradition (see [[Ngai]])
-- Forest fighters operated primarily from [[../Conservation/Mount Kenya National Park|Mount Kenya]] forests and the [[../Conservation/Aberdare National Park|Aberdare]] Range (the Nyandarua mountains), forest areas that bordered the traditional Kikuyu homeland around [[Kirinyaga]]
+- Forest fighters operated primarily from [[Mount Kenya National Park|Mount Kenya]] forests and the [[Aberdare National Park|Aberdare]] Range (the Nyandarua mountains), forest areas that bordered the traditional Kikuyu homeland around [[Kirinyaga]]
 - Field Marshal [[Dedan Kimathi]] was the most prominent KLFA commander, leading the Mount Kenya forest section
 - Other commanders included General China (Waruhiu Itote), Field Marshal Musa Mwariama (Meru section), and Stanley Mathenge
 - At its peak the KLFA had an estimated 35,000 or more fighters; many more were in the passive wing, urban oath-takers who supplied food, information, and money

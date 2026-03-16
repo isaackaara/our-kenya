@@ -18,7 +18,7 @@ The art collection also reflected the broader problem of how Kenya would address
 [[Moi Post-Presidency]]
 [[Moi and the Kalenjin]]
 [[Kenya/Cultural Heritage]]
-[[Corruption/Kenya]]
+[[Kenya]]
 [[Moi Legacy]]
 [[Kenya/Truth and Reconciliation]]
 

@@ -5,7 +5,7 @@ The Africa Inland Mission (AIM), founded in 1895 by Scottish-American missionary
 - Scott and his first mission party (including his sister Margaret, Willis Hotchkiss, and others) arrived on the East African coast in October 1895
 - AIM established Ukambani as its primary mission field, making the region the center of early missionary work in Kenya
 - The mission quickly established four stations: Kalamba, Sakai, Kilungu, and Kangundo in Kamba territory
-- Peter Cameron Scott, the AIM founder, is buried near Nzawi in [[../Counties/Machakos/Machakos County|Machakos County]], a site of pilgrimage for mission-oriented Christians
+- Peter Cameron Scott, the AIM founder, is buried near Nzawi in [[Machakos County|Machakos County]], a site of pilgrimage for mission-oriented Christians
 - AIM built schools and clinics that provided education and basic healthcare, giving Kamba people early access to Western learning
 - The trade-off was rapid Christianization and pressure to abandon traditional religious practices and ceremonies
 - The Kamba church today is a significant Christian presence in the region, with many Kamba identifying as Christian

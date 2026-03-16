@@ -2,7 +2,7 @@ The Ngong Hills are a ridge of seven peaks rising to 2,460 metres on the southwe
 
 ## Key Facts
 
-- Located approximately 20 kilometres southwest of central Nairobi; the name derives from [[../Maasai/Maasai|Maasai]] word *enkong'u*, meaning "knuckles", referring to the shape of the peaks
+- Located approximately 20 kilometres southwest of central Nairobi; the name derives from [[Maasai|Maasai]] word *enkong'u*, meaning "knuckles", referring to the shape of the peaks
 - Karen Blixen, the Danish author of *Out of Africa* (1937), farmed in the area now called Karen at the foot of the hills; she wrote of the Ngong Hills as the place she loved most in Africa; her lover Denys Finch Hatton is buried there
 - On 4 March 1975, the mutilated body of MP [[JM Kariuki]] was found near the Ngong Hills, the site was chosen for its remoteness and the body was left where it would eventually be discovered; the location entered Kenyan political memory as a symbol of impunity
 - [[Wangari Maathai]]'s Green Belt Movement planted trees across the Ngong Forest Reserve adjacent to the hills, her environmental activism intersected here with the politics of land and state violence

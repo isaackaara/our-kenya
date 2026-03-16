@@ -1,4 +1,4 @@
-Machakos County hosts one of the earliest and most influential Christian missionary stations established in the Kenyan interior. The Africa Inland Mission (AIM), a Protestant evangelical organization, founded its Kenyan mission station in Machakos in 1895. This mission predated most other Christian establishments in East Africa and played a foundational role in the spread of Christianity across the [[../../Kamba/Kamba|Kamba]] region.
+Machakos County hosts one of the earliest and most influential Christian missionary stations established in the Kenyan interior. The Africa Inland Mission (AIM), a Protestant evangelical organization, founded its Kenyan mission station in Machakos in 1895. This mission predated most other Christian establishments in East Africa and played a foundational role in the spread of Christianity across the [[Kamba|Kamba]] region.
 
 The AIM mission in Machakos established schools, medical facilities, and churches that gradually introduced Christian theology and Western education to Kamba communities. Early missionaries learned Kamba language and culture, creating written forms of the language and translating biblical texts. This linguistic and cultural work had profound consequences for Kamba identity and governance.
 
@@ -12,7 +12,7 @@ The religious legacy of these missions persists in Machakos County, where Christ
 ## See Also
 
 - [[Machakos County|Machakos County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Machakos Terracing|Terracing (agricultural tradition)]]
 - [[The Machakos Miracle|Devolution Success]]
 - [[Machakos Mango Industry|Mango Industry]]

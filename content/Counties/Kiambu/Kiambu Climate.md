@@ -1,4 +1,4 @@
-[[../Kiambu/Kiambu County|Kiambu County]] is located at moderate to high altitude (approximately 1,500-2,000 meters), creating a cool highland climate distinct from Nairobi's warmer conditions. The highland climate is favorable for agriculture, particularly coffee, tea, and horticulture, which require cool temperatures and high rainfall. Temperatures are moderate year-round, rarely exceeding 25 degrees Celsius and frequently dropping to 10-15 degrees at night.
+[[Kiambu County|Kiambu County]] is located at moderate to high altitude (approximately 1,500-2,000 meters), creating a cool highland climate distinct from Nairobi's warmer conditions. The highland climate is favorable for agriculture, particularly coffee, tea, and horticulture, which require cool temperatures and high rainfall. Temperatures are moderate year-round, rarely exceeding 25 degrees Celsius and frequently dropping to 10-15 degrees at night.
 
 Rainfall in Kiambu is generally abundant compared to many Kenyan regions, with the county receiving 1,200-1,600 millimeters annually depending on location. Two main rainy seasons (March-May and October-November) are supplemented by smaller rainfall events during other months. The relatively abundant rainfall supports dense vegetation and agriculture without irrigation in most areas. However, rainfall is variable, with occasional droughts affecting agricultural output and pastoral livelihoods.
 
@@ -10,7 +10,7 @@ The highland climate supports a distinctive ecosystem with native forests and ve
 [[Kiambu Timeline]]
 [[Kiambu Colonial History]]
 [[Kiambu as Kikuyu Heartland]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 [[Kiambu Economy]]
 [[Thika Town]]
 ## Sources

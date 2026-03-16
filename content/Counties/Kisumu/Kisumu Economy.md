@@ -2,7 +2,7 @@ Kisumu's economy is based on fishing, agriculture (particularly sugar, cotton, a
 
 ## Fishing Industry
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] fishing is the largest economic sector, employing tens of thousands directly (fishers, processors, traders) and indirectly (merchants, transporters, service providers). Fish remains an important export product and source of foreign exchange.
+[[Lake Victoria Kenya|Lake Victoria]] fishing is the largest economic sector, employing tens of thousands directly (fishers, processors, traders) and indirectly (merchants, transporters, service providers). Fish remains an important export product and source of foreign exchange.
 
 ## Sugar Production
 
@@ -14,7 +14,7 @@ Cotton production was historically important in the region. Although cotton prod
 
 ## Rice Cultivation
 
-Rice cultivation in low-lying areas around [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] provides income for farming families and contributes to food security.
+Rice cultivation in low-lying areas around [[Lake Victoria Kenya|Lake Victoria]] provides income for farming families and contributes to food security.
 
 ## Small Manufacturing
 
@@ -50,7 +50,7 @@ The informal economy is significant, with street traders, small services, and in
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

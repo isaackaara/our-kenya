@@ -1,4 +1,4 @@
-Dairy farming on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes provides important income and nutrition for Kirinyaga families. The cool highland climate and grass pastures support dairy cattle. Both improved breeds and indigenous cattle are maintained. Farmers sell milk to cooperatives or directly to consumers. Dairy provides more frequent income than coffee's annual harvest. Income from milk sales supports schooling and healthcare for farming families.
+Dairy farming on [[Mount Kenya National Park|Mount Kenya]]'s slopes provides important income and nutrition for Kirinyaga families. The cool highland climate and grass pastures support dairy cattle. Both improved breeds and indigenous cattle are maintained. Farmers sell milk to cooperatives or directly to consumers. Dairy provides more frequent income than coffee's annual harvest. Income from milk sales supports schooling and healthcare for farming families.
 
 ## Cattle Breeds
 
@@ -36,11 +36,11 @@ Cattle health affects milk production and herd sustainability. Veterinary servic
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

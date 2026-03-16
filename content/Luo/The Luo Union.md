@@ -2,7 +2,7 @@ The Luo Union (East Africa) is one of Kenya's oldest ethnic welfare associations
 
 ## Origins and Early Development
 
-The Luo Union was founded in the early colonial era, emerging from the needs of Luo people living in urban centers and away from their home communities. Like other ethnic welfare associations in colonial Kenya (such as [[../Kikuyu/Kikuyu|Kikuyu]] Central Association), the Luo Union provided a vehicle for ethnic community organization and solidarity in contexts of colonial rule.
+The Luo Union was founded in the early colonial era, emerging from the needs of Luo people living in urban centers and away from their home communities. Like other ethnic welfare associations in colonial Kenya (such as [[Kikuyu|Kikuyu]] Central Association), the Luo Union provided a vehicle for ethnic community organization and solidarity in contexts of colonial rule.
 
 The organization's original functions included providing welfare support (loans, mutual aid, financial assistance) to members in need, maintaining cultural practices and identity among diaspora populations, funding educational initiatives, and advocating for Luo community interests within the colonial political system.
 

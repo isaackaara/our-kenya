@@ -2,7 +2,7 @@
 
 ## The Moi Children and Political Succession
 
-Moi had several children with his first wife Lena. His sons, particularly Gideon Moi (born 1963), represent the continuation of family political power. Gideon served as Senator for [[../Counties/Baringo/Baringo County|Baringo County]] from 2013 to 2022 with overwhelming support (80% landslide victory), establishing himself as the designated political heir. He is currently the National Chairman of KANU (Kenya African National Union), the party that ruled Kenya for decades under his father.
+Moi had several children with his first wife Lena. His sons, particularly Gideon Moi (born 1963), represent the continuation of family political power. Gideon served as Senator for [[Baringo County|Baringo County]] from 2013 to 2022 with overwhelming support (80% landslide victory), establishing himself as the designated political heir. He is currently the National Chairman of KANU (Kenya African National Union), the party that ruled Kenya for decades under his father.
 
 Gideon lost his seat in the 2022 Senate elections to UDA's William Cheptumo but remains a significant political voice through KANU leadership. His siblings include Phillip Moi, Jonathan Moi, Raymond Moi (former MP for Rongai), and daughters Jennifer Jemutai Kositany, Doris Moi, and June Moi.
 

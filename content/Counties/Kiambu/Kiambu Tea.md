@@ -10,7 +10,7 @@ Kenya is one of the world's largest tea producers and exporters, with significan
 [[Kiambu Timeline]]
 [[Kiambu Colonial History]]
 [[Kiambu as Kikuyu Heartland]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 [[Kiambu Economy]]
 [[Thika Town]]
 ## Sources

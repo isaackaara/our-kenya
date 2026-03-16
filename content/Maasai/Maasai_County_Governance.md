@@ -4,13 +4,13 @@ title: Maasai County Governance
 
 ## Devolution Context
 
-Kenya's 2010 constitution introduced devolution, creating 47 county governments with significant autonomy over local development, budgets, and service delivery. The Maasai heartland is primarily encompassed by two counties: Narok and Kajiado, with smaller Maasai populations in Samburu, [[../Counties/Laikipia/Laikipia County|Laikipia County]], and Bomet counties. Devolution was intended to bring government closer to communities and allow for localized development policies responsive to regional needs.
+Kenya's 2010 constitution introduced devolution, creating 47 county governments with significant autonomy over local development, budgets, and service delivery. The Maasai heartland is primarily encompassed by two counties: Narok and Kajiado, with smaller Maasai populations in Samburu, [[Laikipia County|Laikipia County]], and Bomet counties. Devolution was intended to bring government closer to communities and allow for localized development policies responsive to regional needs.
 
-## [[../Counties/Narok/Narok County|Narok County]]
+## [[Narok County|Narok County]]
 
-Narok County, covering approximately 17,000 square kilometers, is the larger of the two primary Maasai counties. The county is home to [[../Conservation/Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] National Reserve, which generates substantial tourism revenue. Narok County has a diverse economy: pastoral livestock in lower-rainfall areas, agriculture in higher-rainfall regions, and tourism centered on the Mara. The county capital, Narok Town, serves as a commercial hub for the region.
+Narok County, covering approximately 17,000 square kilometers, is the larger of the two primary Maasai counties. The county is home to [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] National Reserve, which generates substantial tourism revenue. Narok County has a diverse economy: pastoral livestock in lower-rainfall areas, agriculture in higher-rainfall regions, and tourism centered on the Mara. The county capital, Narok Town, serves as a commercial hub for the region.
 
-## [[../Counties/Kajiado/Kajiado County|Kajiado County]]
+## [[Kajiado County|Kajiado County]]
 
 Kajiado County, covering approximately 21,000 square kilometers, extends from the Tanzania border northward to the outskirts of Nairobi. The county is less economically diverse than Narok, with predominantly pastoral economy in the south and increasing peri-urban development around Kajiado Town as Nairobi expands. Kajiado borders Nairobi directly, making it subject to intense urbanization pressures and land speculation.
 
@@ -66,12 +66,12 @@ Both counties face ongoing challenges: climate change impacts on pastoral lands,
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

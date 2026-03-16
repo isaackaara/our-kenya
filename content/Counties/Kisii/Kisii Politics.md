@@ -37,7 +37,7 @@ County government has expanded services including education, healthcare, and inf
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Women|Women in Politics]]
 - [[Kisii Youth|Youth Activism]]
-- [[../../Luo/Luo Political History|Luo Political Comparison]]
+- [[Luo Political History|Luo Political Comparison]]
 
 ## Sources
 

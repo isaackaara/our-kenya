@@ -6,7 +6,7 @@ Young people from pastoral areas migrate to Nairobi and other cities to pursue s
 
 The pastoral economy increasingly cannot support growing populations, creating economic necessity for migration and livelihood diversification beyond livestock herding.
 
-## Nairobi [[../../Maasai/Maasai|Maasai]] Communities
+## Nairobi [[Maasai|Maasai]] Communities
 
 Substantial Maasai populations concentrate in Nairobi's suburban and informal settlement areas including Kitengela and other southern suburbs. These communities often maintain cultural connections while engaging primarily with urban economies.
 
@@ -39,8 +39,8 @@ See also: [[Narok County|Narok County]], [[Narok Youth|Narok Youth]], [[Narok De
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

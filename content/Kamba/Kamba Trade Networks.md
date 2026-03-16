@@ -11,7 +11,7 @@ Long before colonialism disrupted East African commerce, the Kamba controlled th
 
 ## The Kamba as Economic Innovators
 
-The Kamba trading system represented one of Africa's great examples of specialization-driven commerce. Lacking the agricultural surplus of highland peoples and the pastoral wealth of [[../Maasai/Maasai|Maasai]], the Kamba created value through expertise, trustworthiness, and a monopoly on information about markets and routes. They understood which goods were scarce in which regions and priced accordingly.
+The Kamba trading system represented one of Africa's great examples of specialization-driven commerce. Lacking the agricultural surplus of highland peoples and the pastoral wealth of [[Maasai|Maasai]], the Kamba created value through expertise, trustworthiness, and a monopoly on information about markets and routes. They understood which goods were scarce in which regions and priced accordingly.
 
 ## Why the Kamba Dominated
 
@@ -27,7 +27,7 @@ Several factors combined to make the Kamba the dominant traders of the interior:
 The arrival of British colonialism fundamentally disrupted Kamba trading networks. Colonial officials imposed direct control over commerce, redirected trade through colonial infrastructure (railways, ports), taxed traders, and eventually monopolized certain goods. By the 1920s, the Kamba trading era that had flourished for centuries had largely ended, replaced by wage labor and colonial commodity markets.
 
 ## Related
-[[Kamba Origins]] | [[Kamba Warriors]] | [[Kamba and Colonialism]] | [[../Swahili|Swahili]] | [[../Kikuyu|Kikuyu]]
+[[Kamba Origins]] | [[Kamba Warriors]] | [[Kamba and Colonialism]] | [[Swahili|Swahili]] | [[Kikuyu|Kikuyu]]
 
 ## See Also
 

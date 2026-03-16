@@ -34,7 +34,7 @@ From the widow's perspective, the brother or designated man became her new husba
 
 A controversial Luo custom involved sexual cleansing of a widow after her husband's death. The widow was expected to engage in sexual intercourse with a designated "cleanser" (often the brother-in-law or a specialist) without a condom, to purify her of the spiritual contamination associated with her husband's death. This custom was understood as removing dangerous spiritual forces that could harm the widow or the community.
 
-The practice posed devastating health consequences. In the context of Luo regions with very high HIV prevalence (13-28 percent in [[../Counties/Homa Bay/Homa Bay County|Homa Bay County]] and Siaya), the unprotected sexual cleansing dramatically increased transmission risk, particularly for newly widowed women.
+The practice posed devastating health consequences. In the context of Luo regions with very high HIV prevalence (13-28 percent in [[Homa Bay County|Homa Bay County]] and Siaya), the unprotected sexual cleansing dramatically increased transmission risk, particularly for newly widowed women.
 
 Public health campaigns, human rights advocates, and religious leaders have worked to discourage the practice. Legal reforms have occurred. Yet the custom has not entirely disappeared, particularly in rural areas where traditional authority remains strong.
 

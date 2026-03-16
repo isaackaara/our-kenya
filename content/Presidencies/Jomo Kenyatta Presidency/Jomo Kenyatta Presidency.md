@@ -34,11 +34,11 @@ Kenyatta's answers to these questions proved deeply consequential. His emphasis 
 
 ## See Also
 
-- [[../../Kikuyu/Kikuyu|Kikuyu]]
-- [[../Daniel arap Moi Presidency/Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
-- [[../Mwai Kibaki Presidency/Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
+- [[Kikuyu|Kikuyu]]
+- [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
+- [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[../../Kenya Independence/Kenya Independence|Kenya Independence]]
-- [[../../Harambee|Harambee]]
+- [[Harambee|Harambee]]
 - [[../../Kenya Land Reform|Kenya Land Reform]]
 
 ## Sources

@@ -16,7 +16,7 @@ The gap between healthcare rhetoric and reality reflected broader patterns in Uh
 - [[Uhuru and Corruption]]
 - [[Uhuru Big Four Agenda]]
 - [[Uhuru Economic Record]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 - [[Kikuyu/Kikuyu Political Power]]
 - [[Uhuru Legacy Assessment]]
 

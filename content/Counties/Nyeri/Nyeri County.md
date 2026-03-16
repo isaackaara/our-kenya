@@ -1,10 +1,10 @@
-Nyeri County sits on the southern and southwestern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]], with a population of approximately 760,000. The county is the heartland of Kikuyu culture and was the epicenter of the Mau Mau uprising during Kenya's independence struggle. Nyeri Town, the county headquarters, is historically significant as the burial place of Robert Baden-Powell, founder of the international Scouting movement.
+Nyeri County sits on the southern and southwestern slopes of [[Mount Kenya National Park|Mount Kenya]], with a population of approximately 760,000. The county is the heartland of Kikuyu culture and was the epicenter of the Mau Mau uprising during Kenya's independence struggle. Nyeri Town, the county headquarters, is historically significant as the burial place of Robert Baden-Powell, founder of the international Scouting movement.
 
 Nyeri County produces Kenya's finest coffee, with the Nyeri origin commanding premium prices in international specialty coffee markets. The county's agricultural economy also includes significant tea and dairy production. The Aberdare National Park spans portions of the county and includes the famous Treetops Lodge, where Queen Elizabeth II learned she had become Queen in 1952.
 
 ## Geography and Climate
 
-The county encompasses the cool, well-watered southern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]], with elevations ranging from 1,200 to 5,199 meters. The highland climate supports intensive agriculture. The Aberdare Range lies on the western boundary. The county is well-positioned between Nairobi and central highland regions.
+The county encompasses the cool, well-watered southern slopes of [[Mount Kenya National Park|Mount Kenya]], with elevations ranging from 1,200 to 5,199 meters. The highland climate supports intensive agriculture. The Aberdare Range lies on the western boundary. The county is well-positioned between Nairobi and central highland regions.
 
 ## Economic Drivers
 
@@ -23,7 +23,7 @@ This vertical contains 30 interconnected notes covering Nyeri County's geography
 [[Nyeri Coffee]]
 [[Nyeri and the Mau Mau]]
 [[Aberdare National Park Nyeri]]
-[[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+[[Mount Kenya National Park|Mount Kenya]]
 [[Nyeri Agriculture]]
 [[Nyeri Politics]]
 [[Nyeri Kikuyu Heritage]]
@@ -53,8 +53,8 @@ This vertical contains 30 interconnected notes covering Nyeri County's geography
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

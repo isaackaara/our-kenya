@@ -12,8 +12,8 @@ Irrigated plots produce vegetables (tomatoes, onions, kale, peppers), beans, and
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8765en/
 2. https://www.standardmedia.co.ke/counties/article/2000987654/irrigation-west-pokot

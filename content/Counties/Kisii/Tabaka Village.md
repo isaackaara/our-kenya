@@ -120,7 +120,7 @@ Beyond economic importance, soapstone carving:
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Cultural Heritage|Cultural Heritage]]
 - [[Kisii Economy Overview|County Economy]]
-- [[../../Conservation/Tourism Revenue and Communities|Tourism Revenue]]
+- [[Tourism Revenue and Communities|Tourism Revenue]]
 
 ## Future Prospects
 

@@ -1,4 +1,4 @@
-Gatundu is a town in [[../Kiambu/Kiambu County|Kiambu County]] that has symbolic and political significance as the home of Kenya's founding president [[../../Kikuyu/Jomo Kenyatta|Jomo Kenyatta]] and the location of the Kenyatta family estate. Kenyatta's homestead in Gatundu served as his residence and power base, particularly after his release from colonial detention in 1964. Gatundu became synonymous with the Kenyatta family's political dominance and with [[../../Kikuyu/Kikuyu|Kikuyu]] political power in post-independence Kenya.
+Gatundu is a town in [[Kiambu County|Kiambu County]] that has symbolic and political significance as the home of Kenya's founding president [[Jomo Kenyatta|Jomo Kenyatta]] and the location of the Kenyatta family estate. Kenyatta's homestead in Gatundu served as his residence and power base, particularly after his release from colonial detention in 1964. Gatundu became synonymous with the Kenyatta family's political dominance and with [[Kikuyu|Kikuyu]] political power in post-independence Kenya.
 
 The Gatundu estate is a large, well-developed property that has housed the Kenyatta family for decades. Control over Gatundu and its symbolic importance has been contested within the Kenyatta family, with succession creating internal divisions. The estate represents both familial wealth and national political significance, as it has been the location where important political decisions have been made and where political visitors have sought audience with the Kenyatta family.
 
@@ -10,7 +10,7 @@ Gatundu's political significance derives entirely from the Kenyatta family's pre
 [[Kiambu Timeline]]
 [[Kiambu Colonial History]]
 [[Kiambu as Kikuyu Heartland]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 [[Kiambu Economy]]
 [[Thika Town]]
 ## Sources

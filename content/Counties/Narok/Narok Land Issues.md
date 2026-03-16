@@ -8,13 +8,13 @@ From the 1980s onward, group ranches underwent subdivision and conversion to ind
 
 ## Land Sales and Privatization
 
-Individual [[../../Maasai/Maasai|Maasai]] landowners have sold land parcels to external investors, agricultural companies, and non-Maasai buyers. These sales have been driven by cash needs, education costs, veterinary input expenses, and attraction to modern consumption goods.
+Individual [[Maasai|Maasai]] landowners have sold land parcels to external investors, agricultural companies, and non-Maasai buyers. These sales have been driven by cash needs, education costs, veterinary input expenses, and attraction to modern consumption goods.
 
 The cumulative effect of land sales has been reduction in pastoral land available for grazing and increasing landlessness among Maasai families.
 
 ## Conservation Land Status
 
-Portions of Narok County land are designated as conservation areas within or adjacent to [[../../Maasai/Maasai|Maasai]] Mara National Reserve or private conservancies. Conservation designations restrict agricultural and pastoral use, creating tensions between conservation objectives and community land use aspirations.
+Portions of Narok County land are designated as conservation areas within or adjacent to [[Maasai|Maasai]] Mara National Reserve or private conservancies. Conservation designations restrict agricultural and pastoral use, creating tensions between conservation objectives and community land use aspirations.
 
 ## Land Disputes
 
@@ -37,8 +37,8 @@ See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

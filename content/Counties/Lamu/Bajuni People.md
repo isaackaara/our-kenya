@@ -20,7 +20,7 @@ Today, the Bajuni community includes fishers who continue traditional practices,
 - [[Lamu Fishing|Lamu Fishing]]
 - [[Lamu Islam|Lamu Islam]]
 - [[Lamu Cultural Heritage|Lamu Cultural Heritage]]
-- [[../../Swahili/Swahili|Swahili Culture and History]]
+- [[Swahili|Swahili Culture and History]]
 - [[Lamu Land|Lamu Land]]
 - [[Lamu Women|Lamu Women]]
 

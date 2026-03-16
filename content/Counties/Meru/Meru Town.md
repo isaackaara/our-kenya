@@ -2,7 +2,7 @@ Meru Town serves as the commercial and administrative hub of Meru County. Locate
 
 ## Urban Development
 
-The town has grown substantially since it was designated as the county headquarters following the devolution of government in 2013. Main Street runs through the commercial center, where shops, banks, and trading posts cluster. The town center includes the [[../../Meru/Meru|Meru]] County Government offices, numerous supermarkets catering to farmers and traders, and informal markets where agricultural produce changes hands daily.
+The town has grown substantially since it was designated as the county headquarters following the devolution of government in 2013. Main Street runs through the commercial center, where shops, banks, and trading posts cluster. The town center includes the [[Meru|Meru]] County Government offices, numerous supermarkets catering to farmers and traders, and informal markets where agricultural produce changes hands daily.
 
 ## Economic Significance
 
@@ -22,9 +22,9 @@ Meru Town hosts the main hospitals and health centers serving the county. Educat
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

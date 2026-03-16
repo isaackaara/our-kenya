@@ -22,8 +22,8 @@ Economic benefits and cultural importance make the camel derby a significant ann
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Tourism Board: Maralal International Camel Derby Guide. https://www.tourism.go.ke/

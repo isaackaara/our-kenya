@@ -2,7 +2,7 @@ Nyeri County's economy is fundamentally agricultural, with coffee, tea, dairy, a
 
 ## Coffee Production
 
-Coffee remains the dominant agricultural commodity, providing the highest per-hectare returns. Coffee cultivation is concentrated on the southern [[../../Conservation/Mount Kenya National Park|Mount Kenya]] slopes where altitude and climate are optimal. Coffee cooperatives manage processing and marketing. Quality Nyeri coffee commands premium prices internationally.
+Coffee remains the dominant agricultural commodity, providing the highest per-hectare returns. Coffee cultivation is concentrated on the southern [[Mount Kenya National Park|Mount Kenya]] slopes where altitude and climate are optimal. Coffee cooperatives manage processing and marketing. Quality Nyeri coffee commands premium prices internationally.
 
 ## Tea Cultivation
 
@@ -29,8 +29,8 @@ Farmers often integrate multiple commodities on their holdings, balancing cash c
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

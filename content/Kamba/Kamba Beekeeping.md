@@ -26,7 +26,7 @@ These cooperatives often promote both traditional bark hives and modern box hive
 
 ## Kamba Contribution to Kenya's Honey Industry
 
-The Kamba areas, particularly [[../Counties/Kitui/Kitui County|Kitui County]], are among Kenya's significant honey-producing regions. Kamba honey is known for quality and distinctive taste, with some brands marketed as artisanal or organic Kamba honey. The honey is sold in local markets, in Nairobi urban centers, and increasingly through online platforms and export markets.
+The Kamba areas, particularly [[Kitui County|Kitui County]], are among Kenya's significant honey-producing regions. Kamba honey is known for quality and distinctive taste, with some brands marketed as artisanal or organic Kamba honey. The honey is sold in local markets, in Nairobi urban centers, and increasingly through online platforms and export markets.
 
 Several honey brands and enterprises in the Kamba region have achieved national recognition and commercial viability, contributing to rural income and attracting young people to beekeeping as a livelihood strategy. This contrasts with many traditional livelihoods that have become economically unviable.
 

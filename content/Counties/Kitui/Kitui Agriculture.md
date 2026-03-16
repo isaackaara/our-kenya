@@ -18,7 +18,7 @@ Agricultural productivity in Kitui remains limited by water availability, poor s
 ## See Also
 
 - [[Kitui County|Kitui County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Kitui Sand Dams|Sand Dams (water technology)]]
 - [[Kitui Coal Controversy|Coal Mining]]
 - [[Kitui Bee Keeping|Beekeeping]]

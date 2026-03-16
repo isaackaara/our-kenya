@@ -12,7 +12,7 @@ Inter-county cooperation occurs through councils of governors and sector-specifi
 
 Community participation mechanisms including public participation in budgeting and planning, citizen petitions, and accountability mechanisms theoretically increase responsiveness. Implementation effectiveness remains variable, with some communities better positioned to participate than others.
 
-The [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power project creates complex coordination requirements between county government, national authorities, and the private company operator.
+The [[Lake Turkana|Lake Turkana]] Wind Power project creates complex coordination requirements between county government, national authorities, and the private company operator.
 
 
 ## See Also

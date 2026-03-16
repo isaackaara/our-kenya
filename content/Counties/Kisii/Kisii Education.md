@@ -32,8 +32,8 @@ Beyond Kisii University, students access higher education through:
 - [[Kisii Youth|Youth and Education]]
 - [[Kisii Women|Women Education]]
 - [[Kisii Economy Overview|County Economy]]
-- [[../../Luo/Luo and Education|Luo Educational Patterns]]
-- [[../../Kalenjin/Kalenjin and East African Athletics|Athletics Focus]]
+- [[Luo and Education|Luo Educational Patterns]]
+- [[Kalenjin and East African Athletics|Athletics Focus]]
 
 ## Educational Performance
 

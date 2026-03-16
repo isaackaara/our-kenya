@@ -3,13 +3,13 @@ The Luhya confederation comprises 18 distinct sub-groups (sometimes counted as 1
 ## The 18 Sub-Groups (by region and population)
 
 **Largest and Most Established:**
-- **Bukusu**: Located in [[../Counties/Bungoma/Bungoma County|Bungoma County]], the largest Luhya sub-group. Famous for the imbalu (circumcision ceremony) held every two years. Population concentrated in the Bungoma area
+- **Bukusu**: Located in [[Bungoma County|Bungoma County]], the largest Luhya sub-group. Famous for the imbalu (circumcision ceremony) held every two years. Population concentrated in the Bungoma area
 - **Maragoli**: Located in Vihiga County, the smallest territory but highest population density. Known for early adoption of Christianity and education through Quaker missions. Maragoli territory is the most densely populated area in Luhya region
 - **Banyala**: Located in Kakamega and Bungoma counties. Maintain a distinct identity and language (Bantu language related to Luhya proper)
 - **Banyore**: Inhabit areas in Kisumu and Vihiga counties. Maintain a presence on the fringes of Luo territory
 
 **Central Luhya Sub-Groups:**
-- **Batsotso**: Located in [[../Counties/Kakamega/Kakamega County|Kakamega County]], primarily agricultural communities
+- **Batsotso**: Located in [[Kakamega County|Kakamega County]], primarily agricultural communities
 - **Bavugisu**: Located in Kakamega County and extending into adjacent areas
 - **Bawanga**: A smaller sub-group located in Kakamega and Bungoma
 - **Bamarama**: Located in Vihiga and Kakamega counties
@@ -32,7 +32,7 @@ Each sub-group maintains its own clan structures, marriage customs, land tenure 
 
 ## The Confederation Paradox
 
-Despite their size (14% of Kenya's population), the Luhya have produced no president and few nationally prominent political leaders. This results partly from their confederation structure, which means that Luhya political elites often compete against each other for leadership, fragmenting Luhya political power. Unlike [[../Kikuyu/Kikuyu|Kikuyu]] (whose unified identity supports coordinated political action) or [[../Luo/Luo|Luo]] (whose Nilotic heritage and shared opposition to Kikuyu dominance creates alliance), the Luhya struggle to mobilize as a bloc.
+Despite their size (14% of Kenya's population), the Luhya have produced no president and few nationally prominent political leaders. This results partly from their confederation structure, which means that Luhya political elites often compete against each other for leadership, fragmenting Luhya political power. Unlike [[Kikuyu|Kikuyu]] (whose unified identity supports coordinated political action) or [[Luo|Luo]] (whose Nilotic heritage and shared opposition to Kikuyu dominance creates alliance), the Luhya struggle to mobilize as a bloc.
 
 ## Related
 
@@ -42,9 +42,9 @@ Despite their size (14% of Kenya's population), the Luhya have produced no presi
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

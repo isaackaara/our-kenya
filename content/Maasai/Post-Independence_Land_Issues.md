@@ -12,7 +12,7 @@ The new Kenyan government, however, had no interest in redistributing European s
 
 ## National Park Expansion
 
-Rather than land restitution, the post-independence government expanded the national park and wildlife reserve system. The [[../Conservation/Amboseli National Park|Amboseli National Park]] National Park was formally established (it had been a game reserve under colonialism, but independence gave it stronger protection as a national asset). The Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve was expanded and more stringently protected. Lake Nakuru, Lake Naivasha, and other protected areas further reduced lands available for Maasai pastoral use.
+Rather than land restitution, the post-independence government expanded the national park and wildlife reserve system. The [[Amboseli National Park|Amboseli National Park]] National Park was formally established (it had been a game reserve under colonialism, but independence gave it stronger protection as a national asset). The Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve was expanded and more stringently protected. Lake Nakuru, Lake Naivasha, and other protected areas further reduced lands available for Maasai pastoral use.
 
 ## Wildlife Conservation Priority
 
@@ -58,12 +58,12 @@ The Group Ranch system was supposed to provide security and allow for gradual, c
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

@@ -6,7 +6,7 @@ But even during his gospel peak, Bahati courted controversy in ways that disting
 
 His marriage and family life became inseparable from his public persona. The relationship dramas, the public displays of affection, the social media oversharing, all fed the celebrity machine while generating criticism from traditionalists who felt gospel artists should model different values. Bahati's response, implicit in his continued success, was that modern ministry required modern communication, that reaching contemporary audiences meant meeting them in the spaces they inhabited, including reality television and Instagram.
 
-The gradual shift from gospel toward secular music was neither clean break nor simple evolution. Bahati began collaborating with [[Music/Gengetone Movement|gengetone]] artists and other mainstream acts, producing work that blurred lines between sacred and secular. By 2021, his album "Love Like This" firmly positioned him in secular territory, generating both praise for his musical evolution and backlash from gospel fans who felt betrayed. His explanation, that he was tired of hypocrisy and judgment in the gospel industry, revealed the tensions beneath contemporary Kenyan gospel's glossy surface.
+The gradual shift from gospel toward secular music was neither clean break nor simple evolution. Bahati began collaborating with [[Gengetone Movement|gengetone]] artists and other mainstream acts, producing work that blurred lines between sacred and secular. By 2021, his album "Love Like This" firmly positioned him in secular territory, generating both praise for his musical evolution and backlash from gospel fans who felt betrayed. His explanation, that he was tired of hypocrisy and judgment in the gospel industry, revealed the tensions beneath contemporary Kenyan gospel's glossy surface.
 
 His critique of gospel industry dynamics was sharp and personal. "I hate people who behave like they are holier than thou," Bahati said in interviews, describing how he had learned not to judge after watching his late brother struggle with alcoholism and diabetes. The gospel industry's judgmentalism, its purity politics, and its gate-keeping about who qualified as authentic ministry, all came under fire. Bahati positioned himself as rejecting false piety in favor of honest engagement with life's complexities.
 
@@ -19,12 +19,12 @@ Critics argued that Bahati represented everything wrong with contemporary Kenyan
 By the mid-2020s, Bahati existed in liminal space: no longer easily categorized as gospel artist but carrying gospel credentials and audience; secular in content but shaped by religious background; celebrity first but still capable of producing spiritually resonant work when it served his purposes. His journey revealed that Kenya's sacred/secular musical boundaries were more porous than official categories suggested, that artists could move between worlds, and that audiences would follow charisma and talent across theological dividing lines. Bahati's gospel chapter closed, but its influence on his celebrity, his audience, and his business model remained foundational.
 
 ## See Also
-- [[Music/Size 8 Reborn|Size 8 Reborn]]
-- [[Music/Guardian Angel Kenya Gospel|Guardian Angel Kenya Gospel]]
-- [[Music/Music and Religion Kenya Contemporary|Music and Religion Kenya Contemporary]]
-- [[Music/Gengetone Movement|Gengetone Movement]]
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
-- [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
+- [[Size 8 Reborn|Size 8 Reborn]]
+- [[Guardian Angel Kenya Gospel|Guardian Angel Kenya Gospel]]
+- [[Music and Religion Kenya Contemporary|Music and Religion Kenya Contemporary]]
+- [[Gengetone Movement|Gengetone Movement]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Social Media and Music Kenya|Social Media and Music Kenya]]
 
 ## Sources
 1. "Singer Bahati reveals why he no longer identifies as a gospel musician," The Standard, https://www.standardmedia.co.ke/entertainment/article/2001380481/singer-bahati-reveals-why-he-no-longer-identifies-as-a-gospel-musician

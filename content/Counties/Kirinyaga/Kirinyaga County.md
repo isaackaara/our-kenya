@@ -1,4 +1,4 @@
-Kirinyaga County occupies the southern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] in central Kenya. This small, densely populated agricultural county has a population of approximately 620,000 people. The county is predominantly [[../../Kikuyu/Kikuyu|Kikuyu]] and is known worldwide for producing some of Kenya's most sought-after coffee. Kerugoya and Kutus serve as the twin county headquarters, while the Tana River, Kenya's longest river, has its headwaters in Kirinyaga.
+Kirinyaga County occupies the southern slopes of [[Mount Kenya National Park|Mount Kenya]] in central Kenya. This small, densely populated agricultural county has a population of approximately 620,000 people. The county is predominantly [[Kikuyu|Kikuyu]] and is known worldwide for producing some of Kenya's most sought-after coffee. Kerugoya and Kutus serve as the twin county headquarters, while the Tana River, Kenya's longest river, has its headwaters in Kirinyaga.
 
 ## Geography and Climate
 
@@ -25,7 +25,7 @@ The economy is anchored by coffee production, which commands premium prices on i
 5. Mount Kenya Kirinyaga Side
 6. Mwea Irrigation Scheme
 7. Mwea Rice
-8. Kirinyaga and [[../../Kikuyu/[[../../Kikuyu/Mau Mau Uprising|Mau Mau]] Uprising|Mau Mau]]
+8. Kirinyaga and [[Mau Mau Uprising|Mau Mau]] Uprising|Mau Mau]]
 9. Tana River Source Kirinyaga
 10. Kirinyaga Agriculture
 11. Kirinyaga Politics
@@ -53,11 +53,11 @@ The economy is anchored by coffee production, which commands premium prices on i
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

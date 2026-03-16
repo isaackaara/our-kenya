@@ -22,8 +22,8 @@ Many notable Samburu people migrate to urban centres for employment and educatio
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Archives: Political Profiles of Samburu Leaders and Public Figures. https://www.archives.go.ke/

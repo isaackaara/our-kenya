@@ -16,7 +16,7 @@ The historical significance of the December 30 swearing-in became clearer in ret
 [[2007-08 PEV Samuel Kivuitu|Samuel Kivuitu]]
 [[2007-08 PEV Raila Odinga Response|Raila Odinga Response]]
 [[2007-08 PEV International Pressure|International Pressure]]
-[[../2007 Election/2007 Election|2007 Election]]
+[[2007 Election|2007 Election]]
 
 ## Sources
 

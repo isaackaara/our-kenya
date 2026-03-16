@@ -12,8 +12,8 @@ Presidential, gubernatorial, and parliamentary elections occur in five-year cycl
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/politics/west-pokot
 2. https://www.iebc.or.ke/electoral-data

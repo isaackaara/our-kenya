@@ -1,4 +1,4 @@
-[[Siaya County]] has a distinctive political character within Kenya's [[../../Luo/Luo|Luo]]-dominated western region, marked by strong participation in national politics, connection to opposition movements, and the influence of prominent political personalities. The county represents a politically active constituency with deep historical roots in Kenya's struggle for independence and post-independence nation-building.
+[[Siaya County]] has a distinctive political character within Kenya's [[Luo|Luo]]-dominated western region, marked by strong participation in national politics, connection to opposition movements, and the influence of prominent political personalities. The county represents a politically active constituency with deep historical roots in Kenya's struggle for independence and post-independence nation-building.
 
 ## Historical Political Presence
 
@@ -6,11 +6,11 @@ Siaya has produced nationally prominent politicians throughout Kenya's independe
 
 ## Raila Odinga Connection
 
-Siaya is strongly associated with [[../../Luo/Raila Odinga|Raila Amolo Odinga]], a major opposition politician who has been Kenya's Prime Minister (2008-2012) and multiple-time presidential candidate. Odinga's father, [[../../Luo/Jaramogi Oginga Odinga|Oginga Odinga]], was a prominent nationalist and opposition leader who represented the Luo region's political voice during the Jomo Kenyatta era. The Odinga family's roots in Siaya make the county a stronghold of Odinga's political influence.
+Siaya is strongly associated with [[Raila Odinga|Raila Amolo Odinga]], a major opposition politician who has been Kenya's Prime Minister (2008-2012) and multiple-time presidential candidate. Odinga's father, [[Jaramogi Oginga Odinga|Oginga Odinga]], was a prominent nationalist and opposition leader who represented the Luo region's political voice during the Jomo Kenyatta era. The Odinga family's roots in Siaya make the county a stronghold of Odinga's political influence.
 
 ## Luo Opposition Tradition
 
-Siaya is part of a broader [[../../Luo/Luo Political History|Luo political tradition]] emphasizing opposition to Kikuyu-led administrations, autonomy for the Luo community, and resistance to what some Luo intellectuals characterize as historical marginalization. This opposition tradition has deep historical roots and remains influential in local political mobilization.
+Siaya is part of a broader [[Luo Political History|Luo political tradition]] emphasizing opposition to Kikuyu-led administrations, autonomy for the Luo community, and resistance to what some Luo intellectuals characterize as historical marginalization. This opposition tradition has deep historical roots and remains influential in local political mobilization.
 
 ## County Governance
 
@@ -22,13 +22,13 @@ Siaya County voting patterns show consistent support for opposition-aligned pres
 
 ## See Also
 
-- [[../../Luo/Raila Odinga|Raila Odinga]]
-- [[../../Luo/Jaramogi Oginga Odinga|Oginga Odinga]]
-- [[../../Luo/Luo Political History|Luo Political History]]
+- [[Raila Odinga|Raila Odinga]]
+- [[Jaramogi Oginga Odinga|Oginga Odinga]]
+- [[Luo Political History|Luo Political History]]
 - [[Siaya Notable People]]
 - [[Siaya and Devolution]]
-- [[../../Luo/Luo and the Kenyan State|Luo and the Kenyan State]]
-- [[../Kisumu/Kisumu Politics|Kisumu Politics]]
+- [[Luo and the Kenyan State|Luo and the Kenyan State]]
+- [[Kisumu Politics|Kisumu Politics]]
 
 ## Sources
 

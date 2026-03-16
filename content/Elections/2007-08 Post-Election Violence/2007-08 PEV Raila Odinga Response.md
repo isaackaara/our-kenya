@@ -16,7 +16,7 @@ The longer-term implications of Raila's role in the violence were complex. His s
 [[2007-08 PEV Samuel Kivuitu|Samuel Kivuitu]]
 [[2007-08 PEV Kofi Annan Mediation|Kofi Annan Mediation]]
 [[2007-08 PEV National Accord|National Accord]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 
 ## Sources
 

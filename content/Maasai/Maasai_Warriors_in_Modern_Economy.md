@@ -14,7 +14,7 @@ The wage (USD 200-400 per month) is modest by international standards but signif
 
 ## Kenya Wildlife Service Rangers and Guides
 
-The Kenya Wildlife Service (KWS) employs rangers to patrol protected areas and combat poaching. Maasai rangers are recruited, particularly for reserves in Maasai regions([[../Conservation/Amboseli National Park|Amboseli National Park]], [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]).
+The Kenya Wildlife Service (KWS) employs rangers to patrol protected areas and combat poaching. Maasai rangers are recruited, particularly for reserves in Maasai regions([[Amboseli National Park|Amboseli National Park]], [[Maasai Mara National Reserve|Maasai Mara National Reserve]]).
 
 Ranger work is wage employment(USD 150-300 per month) but also connects to pastoralism and conservation. Rangers gain income and status in modern economy while remaining in Maasai territories.
 
@@ -45,10 +45,10 @@ The choice between pastoral/pastoral-adjacent work (herding, ranger, guide) and 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

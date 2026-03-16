@@ -12,18 +12,18 @@ Ticket pricing balanced accessibility with revenue generation. Premium pricing, 
 
 The festival's international dimension connected Kenyan jazz musicians and audiences to global jazz networks. Local artists sharing stages with international legends gained exposure, credibility, and learning opportunities impossible to replicate through purely domestic programming. Young Kenyan jazz musicians studying these international artists absorbed influences and techniques that enriched local jazz development, creating mentorship pipelines that extended beyond formal educational institutions.
 
-The festival also highlighted ongoing tensions about what counts as "Kenyan music" worthy of major corporate support. While [[Music/Gengetone Movement|gengetone]] dominated youth culture and commercial charts, it received minimal corporate sponsorship compared to jazz, a genre with limited local following but middle-class and expatriate appeal. This disparity revealed class and cultural biases in how corporate cultural patronage was distributed, favoring forms aligned with aspirational middle-class identity over genres rooted in informal settlements.
+The festival also highlighted ongoing tensions about what counts as "Kenyan music" worthy of major corporate support. While [[Gengetone Movement|gengetone]] dominated youth culture and commercial charts, it received minimal corporate sponsorship compared to jazz, a genre with limited local following but middle-class and expatriate appeal. This disparity revealed class and cultural biases in how corporate cultural patronage was distributed, favoring forms aligned with aspirational middle-class identity over genres rooted in informal settlements.
 
-Safaricom's cultural investments extended beyond jazz to include [[Music/Blankets and Wine Festival|Blankets and Wine]] sponsorships and other music programming, but jazz received particularly sustained attention. The company's marketing team recognized that jazz festival sponsorship provided specific brand benefits: association with sophistication, culture, and social responsibility that mass-market genre sponsorships might not deliver. This calculation shaped what cultural programming received corporate backing and what did not.
+Safaricom's cultural investments extended beyond jazz to include [[Blankets and Wine Festival|Blankets and Wine]] sponsorships and other music programming, but jazz received particularly sustained attention. The company's marketing team recognized that jazz festival sponsorship provided specific brand benefits: association with sophistication, culture, and social responsibility that mass-market genre sponsorships might not deliver. This calculation shaped what cultural programming received corporate backing and what did not.
 
 By the mid-2020s, the Safaricom Jazz Festival had established itself as permanent fixture in Nairobi's cultural calendar, with annual editions bringing world-class jazz to East Africa while supporting local talent development. The model's sustainability remained tied to corporate willingness to maintain sponsorship, raising questions about what happens to cultural programming dependent on corporate goodwill if economic conditions change or marketing priorities shift. But in the present, the festival demonstrated that corporate cultural patronage, despite limitations and class biases, could create valuable cultural infrastructure in contexts where government and market mechanisms fell short.
 
 ## See Also
-- [[Music/Blankets and Wine Festival|Blankets and Wine Festival]]
-- [[Music/Concert Culture Kenya|Concert Culture Kenya]]
-- [[Music/Kenyan Music at International Festivals|Kenyan Music at International Festivals]]
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
-- [[Music/Gengetone Movement|Gengetone Movement]]
+- [[Blankets and Wine Festival|Blankets and Wine Festival]]
+- [[Concert Culture Kenya|Concert Culture Kenya]]
+- [[Kenyan Music at International Festivals|Kenyan Music at International Festivals]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Gengetone Movement|Gengetone Movement]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
 
 ## Sources

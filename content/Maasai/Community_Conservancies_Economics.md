@@ -12,7 +12,7 @@ Community conservancies generate revenue through multiple sources: (1) tourist b
 
 ## Olare Orok Conservancy
 
-Olare Orok Conservancy, located in [[../Counties/Laikipia/Laikipia County|Laikipia County]] District, is one of East Africa's most successful community conservancies. The conservancy covers approximately 100,000 acres and is owned and managed by the Maasai community. It operates multiple tourist lodges and generates substantial tourism revenue. The conservancy has maintained wildlife populations while providing economic returns to community members. Olare Orok demonstrates that community-based conservation can be economically viable.
+Olare Orok Conservancy, located in [[Laikipia County|Laikipia County]] District, is one of East Africa's most successful community conservancies. The conservancy covers approximately 100,000 acres and is owned and managed by the Maasai community. It operates multiple tourist lodges and generates substantial tourism revenue. The conservancy has maintained wildlife populations while providing economic returns to community members. Olare Orok demonstrates that community-based conservation can be economically viable.
 
 ## Land Area and Wildlife Carrying Capacity
 
@@ -34,9 +34,9 @@ Conservancies distribute benefits to community members through multiple mechanis
 
 Based on conservancy financial data, per-household annual benefits vary widely. In well-functioning conservancies like Olare Orok, households may receive USD 500-2,000 annually in direct payments plus employment income for members working in conservancy operations. In less successful conservancies, benefits may be USD 100-500 annually. These returns supplement pastoral income and have substantial household-level economic impact, though they cannot typically sustain households without other income sources.
 
-## Comparison with [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] North Conservancy
+## Comparison with [[Maasai Mara National Reserve|Maasai Mara National Reserve]] North Conservancy
 
-Mara North Conservancy, adjacent to [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve, is another significant Maasai-operated conservancy. Mara North covers approximately 81,000 acres and operates multiple lodges generating tourism revenue. The conservancy has demonstrated economic success, though with ongoing challenges in benefit distribution and community satisfaction. Comparing Olare Orok and Mara North illustrates variation in conservancy success based on management, lodge quality, and market positioning.
+Mara North Conservancy, adjacent to [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve, is another significant Maasai-operated conservancy. Mara North covers approximately 81,000 acres and operates multiple lodges generating tourism revenue. The conservancy has demonstrated economic success, though with ongoing challenges in benefit distribution and community satisfaction. Comparing Olare Orok and Mara North illustrates variation in conservancy success based on management, lodge quality, and market positioning.
 
 ## Conservancy Management Structure
 
@@ -74,12 +74,12 @@ Conservancy long-term sustainability requires: (1) wildlife population stability
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

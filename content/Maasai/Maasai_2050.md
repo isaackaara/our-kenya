@@ -90,17 +90,17 @@ By 2050, critical decisions made in coming years will shape outcomes: government
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 
 1. Thornton, Philip K., van de Steeg, Jeannette, Notenbaert, An, and Herrero, Mario. "The Impacts of Climate Change on Livestock Systems in Developing Countries." Global Food Security, Vol. 8, 2016, pp. 71-78. https://doi.org/10.1016/j.gfs.2016.04.002
-2. Ogutu, Joseph O., Piepho, Hans-Peter, and Dublin, Holly T. "Connectivity of the Serengeti [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] Ecosystem." African Journal of Ecology, Vol. 54, No. 4, 2016, pp. 424-434. https://doi.org/10.1111/aje.12319
+2. Ogutu, Joseph O., Piepho, Hans-Peter, and Dublin, Holly T. "Connectivity of the Serengeti [[Maasai Mara National Reserve|Maasai Mara National Reserve]] Ecosystem." African Journal of Ecology, Vol. 54, No. 4, 2016, pp. 424-434. https://doi.org/10.1111/aje.12319
 3. Hodgson, Dorothy L. (editor). "Rethinking Pastoralism in Africa: Gender, Culture and the Myth of the Patriarchal Pastoralist." James Currey Publishers, 2000. https://www.jamesrcurrey.com/books/rethinking-pastoralism-in-africa
 4. United Nations Environment Programme. "East Africa Pastoral Regions: Futures Analysis to 2050." https://www.unep.org/
 

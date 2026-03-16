@@ -18,7 +18,7 @@ Food security remains linked to broader development challenges including poverty
 ## See Also
 
 - [[Kitui County|Kitui County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Kitui Sand Dams|Sand Dams (water technology)]]
 - [[Kitui Coal Controversy|Coal Mining]]
 - [[Kitui Bee Keeping|Beekeeping]]

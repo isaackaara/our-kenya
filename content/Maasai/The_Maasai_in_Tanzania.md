@@ -14,7 +14,7 @@ The Kenyan and Tanzanian governments have pursued different policies toward thei
 
 Tanzania's Julius Nyerere government (post-independence) pushed for collectivization and villagization (Ujamaa policy). Maasai pastoral mobility was constrained more severely in Tanzania than in Kenya. This created different social pressures and accelerated education and wage labor integration faster in Tanzania.
 
-Kenya's post-colonial governments were less uniformly anti-pastoral, though the national parks policy (Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]], [[../Conservation/Amboseli National Park|Amboseli National Park]]) also restricted Maasai grazing. Narok and Kajiado counties developed political economies where Maasai politicians could leverage pastoral identity and conservation tourism.
+Kenya's post-colonial governments were less uniformly anti-pastoral, though the national parks policy (Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]], [[Amboseli National Park|Amboseli National Park]]) also restricted Maasai grazing. Narok and Kajiado counties developed political economies where Maasai politicians could leverage pastoral identity and conservation tourism.
 
 ## Herding Across Borders
 
@@ -25,10 +25,10 @@ The Tanzanian Maasai are generally less politically prominent in regional discou
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

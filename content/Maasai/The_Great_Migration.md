@@ -4,7 +4,7 @@ title: The Great Migration
 
 ## Overview
 
-The Great Migration is the annual movement of wildebeest, zebra, and Thomson's gazelle between Tanzania's Serengeti National Park and Kenya's Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve. It is considered the world's greatest terrestrial wildlife spectacle, with approximately 1.5 million wildebeest, 200,000 zebra, and 400,000 Thomson's gazelle participating in the annual cycle. The migration occurs in response to seasonal rains and grass availability, following a largely predictable but complex annual pattern.
+The Great Migration is the annual movement of wildebeest, zebra, and Thomson's gazelle between Tanzania's Serengeti National Park and Kenya's Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve. It is considered the world's greatest terrestrial wildlife spectacle, with approximately 1.5 million wildebeest, 200,000 zebra, and 400,000 Thomson's gazelle participating in the annual cycle. The migration occurs in response to seasonal rains and grass availability, following a largely predictable but complex annual pattern.
 
 ## Scale and Numbers
 
@@ -12,7 +12,7 @@ The migration involves the largest herds of large terrestrial mammals remaining 
 
 ## Annual Cycle
 
-The migration follows a predictable annual cycle driven by rainfall patterns in the Serengeti ecosystem. January-March is the calving season in the southern Serengeti short-grass plains, where millions of wildebeest give birth. As the rains decline in late March-May, grass availability declines, triggering northward movement. May-June sees the herds moving northward, crossing the Grumeti River. July-August brings the herds to [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] in Kenya. September-October sees the herds crossing the Mara River back into Tanzania. By November-December, the herds have returned to the southern Serengeti.
+The migration follows a predictable annual cycle driven by rainfall patterns in the Serengeti ecosystem. January-March is the calving season in the southern Serengeti short-grass plains, where millions of wildebeest give birth. As the rains decline in late March-May, grass availability declines, triggering northward movement. May-June sees the herds moving northward, crossing the Grumeti River. July-August brings the herds to [[Maasai Mara National Reserve|Maasai Mara National Reserve]] in Kenya. September-October sees the herds crossing the Mara River back into Tanzania. By November-December, the herds have returned to the southern Serengeti.
 
 ## Mara River Crossings
 
@@ -62,12 +62,12 @@ The future of the Great Migration depends on conservation of the Serengeti-Mara 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

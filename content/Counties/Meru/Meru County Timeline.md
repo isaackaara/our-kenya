@@ -2,7 +2,7 @@ This timeline documents key dates in Meru County's history from precolonial time
 
 ## Precolonial Era (Before 1900)
 
-Meru people inhabited [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes for centuries, developing agricultural systems suited to highland conditions. Communities organized around clans and age-sets with decentralized leadership structures. Traditional beliefs centered on Ngai (God) residing on [[../../Conservation/Mount Kenya National Park|Mount Kenya]].
+Meru people inhabited [[Mount Kenya National Park|Mount Kenya]]'s slopes for centuries, developing agricultural systems suited to highland conditions. Communities organized around clans and age-sets with decentralized leadership structures. Traditional beliefs centered on Ngai (God) residing on [[Mount Kenya National Park|Mount Kenya]].
 
 ## Colonial Period (1900-1963)
 
@@ -14,7 +14,7 @@ Meru people inhabited [[../../Conservation/Mount Kenya National Park|Mount Kenya
 
 1920s-1940s: Colonial agricultural extension promotes coffee and tea production.
 
-1950-1960: Mau Mau uprising affects Meru District. Forest fighters operate in [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forest. Colonial administration restricts movement and implements counterinsurgency measures.
+1950-1960: Mau Mau uprising affects Meru District. Forest fighters operate in [[Mount Kenya National Park|Mount Kenya]] forest. Colonial administration restricts movement and implements counterinsurgency measures.
 
 1963: Kenya achieves independence. Meru District becomes part of independent Kenya under national government.
 
@@ -62,9 +62,9 @@ Meru people inhabited [[../../Conservation/Mount Kenya National Park|Mount Kenya
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

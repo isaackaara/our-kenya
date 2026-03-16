@@ -18,7 +18,7 @@ The family's business interests were sometimes defended as evidence of Moi's com
 [[Moi Land Grabbing]]
 [[Moi Kabarak Ranch]]
 [[Moi Art Collection]]
-[[Corruption/Kenya]]
+[[Kenya]]
 [[Moi Post-Presidency]]
 [[Moi Legacy and Assessment]]
 

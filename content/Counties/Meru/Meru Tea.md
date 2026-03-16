@@ -2,7 +2,7 @@ Tea cultivation occurs across the mid to high altitude zones of Meru County, whe
 
 ## Growing Zones
 
-Tea cultivation concentrates in elevations between 1,400 and 2,200 meters, where temperatures and rainfall favor continuous leaf growth throughout the year. The western and southwestern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] receive persistent moisture from orographic rainfall, creating ideal conditions. Tea estates and smallholder farms intersperse with coffee and other crops across suitable elevations.
+Tea cultivation concentrates in elevations between 1,400 and 2,200 meters, where temperatures and rainfall favor continuous leaf growth throughout the year. The western and southwestern slopes of [[Mount Kenya National Park|Mount Kenya]] receive persistent moisture from orographic rainfall, creating ideal conditions. Tea estates and smallholder farms intersperse with coffee and other crops across suitable elevations.
 
 ## Production and Processing
 
@@ -30,9 +30,9 @@ Tea production depends on consistent rainfall and moderate temperatures. Drought
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

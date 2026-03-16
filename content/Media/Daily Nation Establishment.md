@@ -13,7 +13,7 @@ The newspaper's establishment also represented Kenya's media landscape's moderni
 [[Sunday Nation]]
 [[Taifa Leo Swahili Press]]
 [[Media Ownership Control]]
-[[Presidencies/Jomo Kenyatta]]
+[[Jomo Kenyatta]]
 [[Press Freedom Colonial]]
 
 ## Sources

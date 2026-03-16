@@ -4,7 +4,7 @@ Teen pregnancy is a significant social and educational challenge in western Keny
 
 Nationally, Kenya's teen pregnancy rate has fluctuated between 15-18% of adolescent girls aged 15-19 years, varying by region and time period. Western Kenya consistently reports rates at or above the national average, with some districts showing rates exceeding 20%.
 
-[[../Counties/Kakamega/Kakamega County|Kakamega County]], particularly in rural zones, has documented high teen pregnancy incidence. [[../Counties/Bungoma/Bungoma County|Bungoma County]] similarly shows significant rates, particularly in pastoral and agro-pastoral areas where educational enrollment and gender equity in schooling have lagged. Vihiga and Trans-Nzoia counties also report substantial teen pregnancy prevalence.
+[[Kakamega County|Kakamega County]], particularly in rural zones, has documented high teen pregnancy incidence. [[Bungoma County|Bungoma County]] similarly shows significant rates, particularly in pastoral and agro-pastoral areas where educational enrollment and gender equity in schooling have lagged. Vihiga and Trans-Nzoia counties also report substantial teen pregnancy prevalence.
 
 Data collection is imperfect, as some pregnancies are terminated or result in miscarriage, and reporting may not capture all cases. Nonetheless, systematic surveys by the Kenya Demographic and Health Survey (DHS), the Central Bureau of Statistics, and NGO research have established that early pregnancy is common in the region.
 
@@ -75,11 +75,11 @@ Prevention of teen pregnancy is thus a health priority as well as an educational
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

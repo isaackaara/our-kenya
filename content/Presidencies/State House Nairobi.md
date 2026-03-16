@@ -6,8 +6,8 @@ State House Nairobi is the official residence and principal workplace of the Pre
 
 ## See Also
 [[Counties/Nairobi/Kilimani]]
-[[Presidencies/Presidential Powers in Kenya]]
-[[Presidencies/Jomo Kenyatta Presidency/Kenyatta Presidency]]
+[[Presidential Powers in Kenya]]
+[[Kenyatta Presidency]]
 
 ## Sources
 1. Hornsby, Charles. 'Kenya: A History Since Independence.' I.B. Tauris, 2012.

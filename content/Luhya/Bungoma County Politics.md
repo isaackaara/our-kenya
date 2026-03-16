@@ -18,7 +18,7 @@ Bungoma's political calendar is significantly influenced by the biennial circumc
 
 The circumcision season brings young men from surrounding areas to Bungoma for initiation ceremonies, temporarily creating large gatherings and public celebrations. The season influences campaign timing for political candidates and shapes the rhythm of county life.
 
-## Relationship to [[../Counties/Trans-Nzoia/Trans-Nzoia County|Trans-Nzoia County]]
+## Relationship to [[Trans-Nzoia County|Trans-Nzoia County]]
 
 Bungoma and Trans-Nzoia counties share borders and interact politically and economically. Some Bukusu populations extend into Trans-Nzoia, while Trans-Nzoia has significant populations of Kalenjin (Nandi and Pokot) and other groups. Inter-county relations have involved both cooperation (on shared development challenges like water) and competition for resources.
 
@@ -57,9 +57,9 @@ No specific sources were identified for this overview; it represents synthesis o
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

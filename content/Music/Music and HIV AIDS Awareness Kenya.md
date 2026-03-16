@@ -4,17 +4,17 @@ The [[Cross-Ethnic/HIV AIDS in Kenya|epidemic]] emerged in Kenya during the 1980
 
 Some artists chose silence, understanding that songs about AIDS could alienate audiences or attract accusations. Others used coded language, discussing "disease" or "sickness" without explicit HIV/AIDS references. But by the 1990s, as epidemic's scale became undeniable, more musicians engaged directly with educational and advocacy messaging.
 
-[[Music/Kenyan Gospel Music Boom|Gospel musicians]] led initial HIV/AIDS awareness efforts. Christian artists framed prevention through abstinence and faithfulness messaging compatible with church teachings. Songs encouraged moral behavior, compassion for infected persons, and faith in God's protection. This approach, while sometimes moralistic, reduced stigma by presenting AIDS as health rather than purely moral issue.
+[[Kenyan Gospel Music Boom|Gospel musicians]] led initial HIV/AIDS awareness efforts. Christian artists framed prevention through abstinence and faithfulness messaging compatible with church teachings. Songs encouraged moral behavior, compassion for infected persons, and faith in God's protection. This approach, while sometimes moralistic, reduced stigma by presenting AIDS as health rather than purely moral issue.
 
 [[Music/Philly Lutaaya Uganda influence|International influences]] shaped Kenyan musicians' approaches. Ugandan musician Philly Lutaaya's 1989 public disclosure of his HIV status and subsequent advocacy inspired East African artists. His example demonstrated that musicians could use platforms for public health messaging without ending careers.
 
-Government and NGO partnerships brought resources to musicians willing to produce HIV/AIDS awareness songs. USAID, WHO, and other organizations funded recording and distribution of educational music. These partnerships made AIDS awareness songs economically viable when [[Music/Piracy and the Kenyan Music Industry|cassette piracy]] destroyed most music sales. Artists could earn income producing socially beneficial content.
+Government and NGO partnerships brought resources to musicians willing to produce HIV/AIDS awareness songs. USAID, WHO, and other organizations funded recording and distribution of educational music. These partnerships made AIDS awareness songs economically viable when [[Piracy and the Kenyan Music Industry|cassette piracy]] destroyed most music sales. Artists could earn income producing socially beneficial content.
 
 The most effective AIDS awareness songs balanced education with entertainment. Heavy-handed messaging alienated audiences; purely educational lyrics lacked commercial appeal. Successful artists embedded prevention messages within compelling melodies, making songs people wanted to hear repeatedly, thus reinforcing educational content.
 
-Swahili and vernacular language songs reached audiences beyond English-speaking elite. [[Music/Mugithi Music Origins|Mugithi]] and other ethnic-language genres addressed AIDS within cultural contexts that mainstreamed national campaigns missed. Local idioms and culturally specific references made abstract health messages personally relevant.
+Swahili and vernacular language songs reached audiences beyond English-speaking elite. [[Mugithi Music Origins|Mugithi]] and other ethnic-language genres addressed AIDS within cultural contexts that mainstreamed national campaigns missed. Local idioms and culturally specific references made abstract health messages personally relevant.
 
-Female artists brought particular credibility to HIV/AIDS advocacy. [[Music/Female Gospel Artists Kenya|Women musicians]] addressed gender dynamics of infection, women's vulnerability, and need for empowerment. Their songs challenged cultural practices facilitating HIV transmission while advocating for women's agency in protecting their health.
+Female artists brought particular credibility to HIV/AIDS advocacy. [[Female Gospel Artists Kenya|Women musicians]] addressed gender dynamics of infection, women's vulnerability, and need for empowerment. Their songs challenged cultural practices facilitating HIV transmission while advocating for women's agency in protecting their health.
 
 Campaigns targeted specific behaviors. Songs promoted condom use, voluntary testing and counseling, faithfulness to partners, and support for infected persons. Each message required careful crafting to navigate cultural sensitivities while delivering clear health information. Musicians became de facto public health communicators, translating medical knowledge into accessible musical messages.
 
@@ -30,12 +30,12 @@ The HIV/AIDS campaigns demonstrated music's public health potential. Subsequentl
 
 ## See Also
 - [[Cross-Ethnic/HIV AIDS in Kenya]]
-- [[Music/Kenyan Gospel Music Boom]]
-- [[Music/Civic Education Through Music Kenya]]
-- [[Music/Female Gospel Artists Kenya]]
-- [[Music/Mugithi Music Origins]]
-- [[Music/Gospel Music and Kenyan Politics]]
-- [[Music/FM Radio Revolution Kenya 1990s]]
+- [[Kenyan Gospel Music Boom]]
+- [[Civic Education Through Music Kenya]]
+- [[Female Gospel Artists Kenya]]
+- [[Mugithi Music Origins]]
+- [[Gospel Music and Kenyan Politics]]
+- [[FM Radio Revolution Kenya 1990s]]
 
 ## Sources
 1. Academia.edu. "Music as Social Discourse: The Contribution of Popular Music to the Awareness and Prevention of HIV/AIDS in Nairobi, Kenya." September 22, 2014. https://www.academia.edu/8446621/MUSIC_AS_SOCIAL_DISCOURSE_THE_CONTRIBUTION_OF_POPULAR_MUSIC_TO_THE_AWARENESS_AND_PREVENTION_OF_HIV_AIDS_IN_NAIROBI_KENYA

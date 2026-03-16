@@ -29,7 +29,7 @@ The Eldoret highlands' climate and altitude make them ideal for cut flower culti
 
 ## Related
 
-[[../Europeans/White Highlands and Settler Society]] | [[The Running Phenomenon]] | [[Eliud Kipchoge]]
+[[White Highlands and Settler Society]] | [[The Running Phenomenon]] | [[Eliud Kipchoge]]
 
 ## See Also
 

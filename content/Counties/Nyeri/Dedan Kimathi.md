@@ -2,7 +2,7 @@ Dedan Kimathi Wacinaina (1921 or 1922 to 18 February 1957) was the most famous M
 
 ## Early Life
 
-Kimathi was born in Nyeri, in the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region. He had limited formal education but developed into an intelligent and articulate leader. He worked in various jobs before joining the Mau Mau movement. His background in the Nyeri area gave him knowledge of local terrain valuable for guerrilla operations.
+Kimathi was born in Nyeri, in the [[Mount Kenya National Park|Mount Kenya]] region. He had limited formal education but developed into an intelligent and articulate leader. He worked in various jobs before joining the Mau Mau movement. His background in the Nyeri area gave him knowledge of local terrain valuable for guerrilla operations.
 
 ## Mau Mau Leadership
 
@@ -10,7 +10,7 @@ Kimathi emerged as a military leader during the Mau Mau uprising, organizing for
 
 ## Military Operations
 
-Kimathi commanded guerrilla forces operating from the Aberdare and [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forests bordering Nyeri. His forces conducted attacks on colonial administration outposts, settler farms, and targeted Kikuyu loyalists. The British military devoted substantial resources to capturing Kimathi. Multiple engagements occurred between Kimathi's forces and British troops.
+Kimathi commanded guerrilla forces operating from the Aberdare and [[Mount Kenya National Park|Mount Kenya]] forests bordering Nyeri. His forces conducted attacks on colonial administration outposts, settler farms, and targeted Kikuyu loyalists. The British military devoted substantial resources to capturing Kimathi. Multiple engagements occurred between Kimathi's forces and British troops.
 
 ## Capture and Trial
 
@@ -33,8 +33,8 @@ Commemorations of Kimathi's death occur annually, with gatherings at his burial 
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

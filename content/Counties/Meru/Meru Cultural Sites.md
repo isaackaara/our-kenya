@@ -1,8 +1,8 @@
-Meru County contains various sacred sites, shrines, and culturally significant locations important to Meru traditions and identity. [[../../Conservation/Mount Kenya National Park|Mount Kenya]] itself holds spiritual significance as the dwelling place of Ngai (God) in Meru cosmology. Other sacred sites include groves, peaks, and places associated with important historical or spiritual events. Cultural heritage protection efforts aim to preserve these sites against development pressures and changing social practices.
+Meru County contains various sacred sites, shrines, and culturally significant locations important to Meru traditions and identity. [[Mount Kenya National Park|Mount Kenya]] itself holds spiritual significance as the dwelling place of Ngai (God) in Meru cosmology. Other sacred sites include groves, peaks, and places associated with important historical or spiritual events. Cultural heritage protection efforts aim to preserve these sites against development pressures and changing social practices.
 
-## [[../../Conservation/Mount Kenya National Park|Mount Kenya]] as Sacred Site
+## [[Mount Kenya National Park|Mount Kenya]] as Sacred Site
 
-[[../../Conservation/Mount Kenya National Park|Mount Kenya]], known as Kirenyaa in Kimeru language, holds central spiritual importance in Meru culture and religion. Traditional belief holds that Ngai (God) resides on the mountain peak. Initiation ceremonies, prayers, and spiritual practices traditionally involved orientation toward [[../../Conservation/Mount Kenya National Park|Mount Kenya]]. The mountain's sacredness in Meru cosmology continues despite Christianity's spread, with many Meru blending Christian faith with traditional mountain reverence.
+[[Mount Kenya National Park|Mount Kenya]], known as Kirenyaa in Kimeru language, holds central spiritual importance in Meru culture and religion. Traditional belief holds that Ngai (God) resides on the mountain peak. Initiation ceremonies, prayers, and spiritual practices traditionally involved orientation toward [[Mount Kenya National Park|Mount Kenya]]. The mountain's sacredness in Meru cosmology continues despite Christianity's spread, with many Meru blending Christian faith with traditional mountain reverence.
 
 ## Sacred Groves
 
@@ -38,9 +38,9 @@ Younger generations increasingly disconnect from traditional cultural sites and 
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

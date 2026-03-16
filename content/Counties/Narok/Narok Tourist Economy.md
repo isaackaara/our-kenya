@@ -1,4 +1,4 @@
-The tourism economy forms the largest sector of Narok County's economy, with [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara National Reserve and surrounding private conservancies attracting hundreds of thousands of international visitors annually who generate billions of Kenyan Shillings in revenue.
+The tourism economy forms the largest sector of Narok County's economy, with [[Maasai|Maasai]]/Maasai|Maasai]] Mara National Reserve and surrounding private conservancies attracting hundreds of thousands of international visitors annually who generate billions of Kenyan Shillings in revenue.
 
 Tourism in Narok encompasses accommodation services, safari operations, transportation, food services, cultural experiences, and wildlife-related activities that employ thousands of residents directly and indirectly.
 
@@ -35,8 +35,8 @@ See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai M
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

@@ -4,7 +4,7 @@ Kalenjin musical traditions encompass diverse instruments, vocal forms, and perf
 
 The terer is a traditional stringed instrument similar to a lyre or harp, using gut strings stretched over a resonating body. The instrument is played solo, typically by a skilled musician, and produces a gentle, meditative sound suited to storytelling or intimate performance. The terer is less common in contemporary practice but remains culturally valued as a symbol of traditional heritage.
 
-The sesentet is a fiddle-type stringed instrument, played with a bow to produce sustained tones and varied dynamics. The instrument has East African parallels among other groups (the Luo nyatiti, [[../Luhya/Luhya|Luhya]] litungu), suggesting regional musical contact and cultural exchange.
+The sesentet is a fiddle-type stringed instrument, played with a bow to produce sustained tones and varied dynamics. The instrument has East African parallels among other groups (the Luo nyatiti, [[Luhya|Luhya]] litungu), suggesting regional musical contact and cultural exchange.
 
 The bugandit (alternatively called bugandindet) is the Kalenjin name for a stringed lyre instrument similar to those played across East Africa. The bugandit produces a gentle, relaxing sound and was traditionally played solo with accompaniment from singing.
 

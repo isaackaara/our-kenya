@@ -1,6 +1,6 @@
 Elgeyo-Marakwet County is located in the western Rift Valley with an estimated population of approximately 500,000 people. The county is renowned for three distinctive features: the dramatic Kerio Valley forming a spectacular section of the Great Rift Valley, the town of Iten which stands as the world capital of distance running, and the Marakwet cliff irrigation systems representing one of Kenya's most remarkable pre-colonial engineering achievements.
 
-The county encompasses diverse elevation zones from the Kerio Valley floor to the Elgeyo Escarpment summit, creating varied agricultural zones and ecosystems. Elgeyo and Marakwet peoples, both [[../../Kalenjin/Kalenjin|Kalenjin]] sub-groups, represent the dominant communities. Iten serves as the county headquarters and has become an internationally recognized training centre for elite distance runners. Understanding Elgeyo-Marakwet requires examining its distinctive geography, the engineering heritage of ancient irrigation systems, the contemporary phenomenon of running excellence, and the agricultural and pastoral economy supporting county communities.
+The county encompasses diverse elevation zones from the Kerio Valley floor to the Elgeyo Escarpment summit, creating varied agricultural zones and ecosystems. Elgeyo and Marakwet peoples, both [[Kalenjin|Kalenjin]] sub-groups, represent the dominant communities. Iten serves as the county headquarters and has become an internationally recognized training centre for elite distance runners. Understanding Elgeyo-Marakwet requires examining its distinctive geography, the engineering heritage of ancient irrigation systems, the contemporary phenomenon of running excellence, and the agricultural and pastoral economy supporting county communities.
 
 ## Notes in This County
 
@@ -38,7 +38,7 @@ The county encompasses diverse elevation zones from the Kerio Valley floor to th
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

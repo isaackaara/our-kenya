@@ -24,8 +24,8 @@ Pastoral land conversion to property development creates tensions between proper
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: Real Estate Market Analysis, Samburu County 2023. https://www.knbs.or.ke/

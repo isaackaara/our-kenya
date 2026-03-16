@@ -1,4 +1,4 @@
-Narok County's cultural heritage centers on [[../../Maasai/Maasai|Maasai]] pastoral traditions, ceremonial practices, artistic expressions, and knowledge systems accumulated across centuries of settlement and adaptation in the Rift Valley region.
+Narok County's cultural heritage centers on [[Maasai|Maasai]] pastoral traditions, ceremonial practices, artistic expressions, and knowledge systems accumulated across centuries of settlement and adaptation in the Rift Valley region.
 
 ## Pastoral Knowledge Systems
 
@@ -30,7 +30,7 @@ Younger generations increasingly adopt urban lifestyles, formal education, and n
 
 ## Cross-References
 
-See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Women|Narok Women]], [[../../Maasai/Maasai|Maasai]]
+See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Women|Narok Women]], [[Maasai|Maasai]]
 
 
 ## See Also
@@ -39,8 +39,8 @@ See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

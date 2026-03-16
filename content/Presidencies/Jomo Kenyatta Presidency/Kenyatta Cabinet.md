@@ -25,8 +25,8 @@ The cabinet's primary function evolved over time. In the early years (1963-1967)
 - [[Kenyatta and Tom Mboya|Kenyatta and Tom Mboya]]
 - [[Kenyatta and Oginga Odinga|Kenyatta and Oginga Odinga]]
 - [[Kenyatta Final Years|Kenyatta Final Years]]
-- [[../../Luo/Oginga Odinga|Oginga Odinga]]
-- [[../../Kikuyu/Mwai Kibaki|Mwai Kibaki]]
+- [[Oginga Odinga|Oginga Odinga]]
+- [[Mwai Kibaki|Mwai Kibaki]]
 
 ## Sources
 

@@ -1,6 +1,6 @@
-Narok County is located in the southern Rift Valley of Kenya, home to the world-renowned [[../../Maasai/Maasai|Maasai]] Mara National Reserve. With a population of approximately 1.2 million, the county is predominantly Maasai and serves as Kenya's premier wildlife tourism destination. The region combines pastoral traditions, extensive wheat farming on the Mau Escarpment, and a thriving tourism economy centered on safari activities and wildlife conservation.
+Narok County is located in the southern Rift Valley of Kenya, home to the world-renowned [[Maasai|Maasai]] Mara National Reserve. With a population of approximately 1.2 million, the county is predominantly Maasai and serves as Kenya's premier wildlife tourism destination. The region combines pastoral traditions, extensive wheat farming on the Mau Escarpment, and a thriving tourism economy centered on safari activities and wildlife conservation.
 
-Narok town functions as the county headquarters and gateway to [[../../Maasai/Maasai|Maasai]] Mara, making it the commercial and administrative heart of the region.
+Narok town functions as the county headquarters and gateway to [[Maasai|Maasai]] Mara, making it the commercial and administrative heart of the region.
 
 ## Key Topics
 
@@ -42,8 +42,8 @@ Narok town functions as the county headquarters and gateway to [[../../Maasai/Ma
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

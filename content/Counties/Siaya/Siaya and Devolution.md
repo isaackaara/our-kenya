@@ -27,7 +27,7 @@ Siaya County works with national government agencies in areas of shared responsi
 - [[Siaya Infrastructure]]
 - [[Siaya Health]]
 - [[Siaya Education]]
-- [[../Kisumu/Kisumu and EAC|Kisumu and EAC]]
+- [[Kisumu and EAC|Kisumu and EAC]]
 - [[Siaya Town]]
 
 ## Sources

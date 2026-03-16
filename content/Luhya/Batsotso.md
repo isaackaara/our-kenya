@@ -1,4 +1,4 @@
-The Batsotso (also spelled Tsotso) are one of the eighteen sub-groups of the Luhya (Abaluyia) people of western Kenya. They predominantly inhabit the western part of [[../Counties/Kakamega/Kakamega County|Kakamega County]], where they speak the Olutsotso dialect and maintain distinct cultural practices within the broader Luhya community.
+The Batsotso (also spelled Tsotso) are one of the eighteen sub-groups of the Luhya (Abaluyia) people of western Kenya. They predominantly inhabit the western part of [[Kakamega County|Kakamega County]], where they speak the Olutsotso dialect and maintain distinct cultural practices within the broader Luhya community.
 
 ## Territory and Geography
 
@@ -35,11 +35,11 @@ The Batsotso coexist within a network of eighteen Luhya sub-groups, sometimes co
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

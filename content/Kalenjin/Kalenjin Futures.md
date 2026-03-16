@@ -32,7 +32,7 @@ Kalenjin territories face severe climate change impacts. Baringo and West Pokot 
 
 Pastoral Kalenjin (Pokot, segments of Marakwet and Nandi) face transition pressures toward settled agriculture or out-migration. This transition may be economically necessary but culturally disruptive. Younger generations may not inherit pastoralist livelihoods, creating identity and livelihood discontinuity.
 
-Mau Forest hydrology is threatened by climate change and forest degradation, potentially disrupting water supply to downstream agricultural zones. Kalenjin farmers in [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], Iten, and Kericho depend on reliable water for tea, maize, and dairy productivity.
+Mau Forest hydrology is threatened by climate change and forest degradation, potentially disrupting water supply to downstream agricultural zones. Kalenjin farmers in [[Uasin Gishu County|Uasin Gishu County]], Iten, and Kericho depend on reliable water for tea, maize, and dairy productivity.
 
 Climate adaptation strategies remain underdeveloped, and government support for Kalenjin communities affected by drought remains inadequate. Large-scale migration out of drought-affected zones is increasingly common.
 

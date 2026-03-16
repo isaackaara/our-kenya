@@ -14,7 +14,7 @@ Access to healthcare is mediated by ability to pay, distance to facilities, and 
 ## See Also
 
 - [[Machakos County|Machakos County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Machakos Terracing|Terracing (agricultural tradition)]]
 - [[The Machakos Miracle|Devolution Success]]
 - [[Machakos Mango Industry|Mango Industry]]

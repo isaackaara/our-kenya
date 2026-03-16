@@ -12,8 +12,8 @@ Agricultural land in highlands is increasingly individually owned through title 
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.globaladvancingjustice.org/news/land-tenure-pastoral-west-pokot
 2. https://www.standardmedia.co.ke/counties/article/2000654321/land-disputes-west-pokot

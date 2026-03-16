@@ -1,4 +1,4 @@
-The Laikipia plateau is the distinctive geographic feature of the county, a semi-arid highland plateau running from the [[../../Conservation/Aberdare National Park|Aberdare Range]] to the northern frontier. The plateau ranges in altitude from approximately 1,700 meters in the south to lower elevations in the north. Vegetation transitions from highland forest at the southern boundary to semi-arid grassland across the plateau. The plateau's landscape, climate, and water sources have shaped settlement patterns, land use, and economic activities. The transitional ecosystem supports both pastoral and wildlife conservation activities.
+The Laikipia plateau is the distinctive geographic feature of the county, a semi-arid highland plateau running from the [[Aberdare National Park|Aberdare Range]] to the northern frontier. The plateau ranges in altitude from approximately 1,700 meters in the south to lower elevations in the north. Vegetation transitions from highland forest at the southern boundary to semi-arid grassland across the plateau. The plateau's landscape, climate, and water sources have shaped settlement patterns, land use, and economic activities. The transitional ecosystem supports both pastoral and wildlife conservation activities.
 
 ## Physical Geography
 
@@ -32,11 +32,11 @@ The plateau supports high wildlife concentrations. Conservation efforts focus on
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

@@ -34,7 +34,7 @@ The park faces pressures from surrounding communities seeking grazing land and f
 
 ## See Also
 
-[[../../Conservation/Aberdare National Park]]
+[[Aberdare National Park]]
 
 ## Sources
 

@@ -9,7 +9,7 @@ Kitale has a modern hospital, schools, and municipal infrastructure serving a po
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Kitale
 2. https://www.aljazeera.com/news/longform/2021/7/22/kenya-crop-crisis-as-drought-drains-the-breadbasket

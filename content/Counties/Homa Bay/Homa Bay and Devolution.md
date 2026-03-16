@@ -30,8 +30,8 @@ Counties operate with chronic fiscal constraints limiting service quality. Depen
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Constitution of Kenya. (2010). Chapter 11, Devolved Government. https://www.parliament.go.ke/

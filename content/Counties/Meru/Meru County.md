@@ -1,10 +1,10 @@
-Meru County sits on the northeastern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] and is home to approximately 1.5 million people. The county is named after the [[../../Meru/Meru|Meru]] people, who form the dominant ethnic community. Meru Town serves as the county headquarters and functions as a vital agricultural service center for the region.
+Meru County sits on the northeastern slopes of [[Mount Kenya National Park|Mount Kenya]] and is home to approximately 1.5 million people. The county is named after the [[Meru|Meru]] people, who form the dominant ethnic community. Meru Town serves as the county headquarters and functions as a vital agricultural service center for the region.
 
-The county encompasses diverse landscapes, ranging from 300 meters above sea level in the lowlands to 5,199 meters at [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s peak. This elevation range creates distinct ecological zones that support varied agricultural activities. The Nyambene Hills on the western slopes are the epicenter of Kenya's miraa (khat) production.
+The county encompasses diverse landscapes, ranging from 300 meters above sea level in the lowlands to 5,199 meters at [[Mount Kenya National Park|Mount Kenya]]'s peak. This elevation range creates distinct ecological zones that support varied agricultural activities. The Nyambene Hills on the western slopes are the epicenter of Kenya's miraa (khat) production.
 
 ## Economic Pillars
 
-Meru County's economy rests on several agricultural commodities. Miraa production dominates in the Nyambene Hills and is exported to Somalia and the [[../../Somali/Somali|Somali]] diaspora globally. High-altitude coffee grows on the mountain slopes and competes with the finest Arabica from Kenya's other highland regions. Tea cultivation thrives in the mid-altitude zones. Honey production has made Meru Kenya's leading honey-producing county, with brands like Forest Honey gaining recognition. Macadamia nuts, French beans, and cattle dairy farming supplement the agricultural portfolio.
+Meru County's economy rests on several agricultural commodities. Miraa production dominates in the Nyambene Hills and is exported to Somalia and the [[Somali|Somali]] diaspora globally. High-altitude coffee grows on the mountain slopes and competes with the finest Arabica from Kenya's other highland regions. Tea cultivation thrives in the mid-altitude zones. Honey production has made Meru Kenya's leading honey-producing county, with brands like Forest Honey gaining recognition. Macadamia nuts, French beans, and cattle dairy farming supplement the agricultural portfolio.
 
 ## County Hub
 
@@ -46,9 +46,9 @@ This vertical contains 30 interconnected notes covering Meru County's geography,
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

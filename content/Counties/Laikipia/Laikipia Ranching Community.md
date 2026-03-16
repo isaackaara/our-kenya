@@ -30,7 +30,7 @@ Ranch owners have wielded significant political influence. Commercial ranching h
 
 ## See Also
 
-[[../../Europeans/Laikipia Ranch Families]]
+[[Laikipia Ranch Families]]
 
 ## Sources
 

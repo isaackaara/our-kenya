@@ -34,8 +34,8 @@ Communities responded variably to colonialism, with some resistance and widespre
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Oxford Research Encyclopedia. (2020). Colonial Kenya. https://oxfordre.com/

@@ -7,7 +7,7 @@ Kenyatta's role in establishing Githunguri Teachers College.
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Jomo Kenyatta]]
+- [[Jomo Kenyatta]]
 
 ## Sources
 *To be added*

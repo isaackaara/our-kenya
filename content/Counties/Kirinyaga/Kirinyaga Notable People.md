@@ -1,4 +1,4 @@
-Several prominent Kenyans have come from Kirinyaga County, contributing to politics, business, education, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Kirinyaga's agricultural prosperity and [[../../Kikuyu/Kikuyu|Kikuyu]] prominence in post-independence Kenya have produced numerous leaders and innovators.
+Several prominent Kenyans have come from Kirinyaga County, contributing to politics, business, education, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Kirinyaga's agricultural prosperity and [[Kikuyu|Kikuyu]] prominence in post-independence Kenya have produced numerous leaders and innovators.
 
 ## Political Leaders
 
@@ -32,11 +32,11 @@ Religious leaders have shaped moral and spiritual life. Church pastors and leade
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

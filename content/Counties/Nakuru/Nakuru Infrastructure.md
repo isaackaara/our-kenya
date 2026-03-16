@@ -2,7 +2,7 @@ Nakuru's road infrastructure includes the A104 highway, a major north-south rout
 
 The Standard Gauge Railway (SGR) reaches from Nairobi to Nakuru, with an extension to Naivasha under development. The railway has transformed freight and passenger movement in the region, though its economic impact remains contested. Railway stations in Nakuru and Naivasha serve as nodes for regional transport connectivity. The SGR project is part of a broader plan to extend the railway to Kisumu and beyond, though financing and construction progress have been delayed.
 
-Water infrastructure is critical for Nakuru's growing population. The city depends on water from [[../../Conservation/Lake Nakuru|Lake Nakuru]] basin and other sources, but supply is frequently inadequate during dry seasons. Water treatment and distribution systems are overstretched, creating periodic water rationing and service interruptions. Electricity supply, while improving, remains unreliable in some areas, constraining industrial development and household comfort.
+Water infrastructure is critical for Nakuru's growing population. The city depends on water from [[Lake Nakuru|Lake Nakuru]] basin and other sources, but supply is frequently inadequate during dry seasons. Water treatment and distribution systems are overstretched, creating periodic water rationing and service interruptions. Electricity supply, while improving, remains unreliable in some areas, constraining industrial development and household comfort.
 
 
 ## See Also
@@ -10,9 +10,9 @@ Water infrastructure is critical for Nakuru's growing population. The city depen
 [[Nakuru Timeline]]
 [[Lake Nakuru]]
 [[Lake Naivasha]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 [[Nakuru City]]
-[[../../Conservation/Hell's Gate National Park|Hell's Gate]]
+[[Hell's Gate National Park|Hell's Gate]]
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Nakuru_infrastructure

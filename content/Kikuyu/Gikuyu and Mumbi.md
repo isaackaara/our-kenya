@@ -2,7 +2,7 @@ Gikuyu and Mumbi are the mythological founders of the Kikuyu people, the Adam an
 
 ## Key Facts
 
-- [[Ngai]] led Gikuyu to the summit of [[Kirinyaga]] ([[../Conservation/Mount Kenya National Park|Mount Kenya]]) and showed him all the land below, granting it to him and his descendants
+- [[Ngai]] led Gikuyu to the summit of [[Kirinyaga]] ([[Mount Kenya National Park|Mount Kenya]]) and showed him all the land below, granting it to him and his descendants
 - Mumbi and Gikuyu had nine daughters: *Wanjiru, Wambui, Njeri, Wanjiku, Nyambura, Wairumu, Waithira, Wangari,* and *Wangui*
 - They had no sons; when the daughters came of age, Gikuyu prayed under a sacred *mugumo* (fig) tree and nine men appeared the next morning to marry them
 - The nine daughters became the mothers of [[The Nine Clans]], each clan is named after one of Mumbi's daughters

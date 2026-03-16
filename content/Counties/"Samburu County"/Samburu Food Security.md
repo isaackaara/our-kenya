@@ -22,8 +22,8 @@ Livelihood diversification through tourism employment, trading, and other non-pa
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Famine Early Warning Systems Network: Samburu County Food Security Analysis. https://www.fews.net/

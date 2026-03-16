@@ -29,7 +29,7 @@ Agricultural NGOs focus on:
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Women|Women Development]]
 - [[Kisii Education|Education]]
-- [[../../Conservation/Conservation NGOs Kenya|Conservation Organizations]]
+- [[Conservation NGOs Kenya|Conservation Organizations]]
 
 Agricultural organizations help farmers adopt improved practices and increase productivity.
 

@@ -25,7 +25,7 @@ The festival has also been subject to security concerns. In 2012 and 2013, secur
 - [[Lamu Cultural Heritage|Lamu Cultural Heritage]]
 - [[Lamu Tourism|Lamu Tourism]]
 - [[Bajuni People|Bajuni People]]
-- [[../../Swahili/Swahili|Swahili Culture and History]]
+- [[Swahili|Swahili Culture and History]]
 - [[Lamu Architecture|Lamu Architecture]]
 
 ## Sources

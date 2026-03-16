@@ -6,9 +6,9 @@ Healthcare in Ukambani reflects the broader challenges of service delivery in se
 
 As of 2024, Kamba-inhabited counties have:
 
-- **[[../Counties/Machakos/Machakos County|Machakos County]]**: Approximately 280-320 health facilities (government and private combined)
-- **[[../Counties/Kitui/Kitui County|Kitui County]]**: Approximately 200-240 health facilities
-- **[[../Counties/Makueni/Makueni County|Makueni County]]**: Approximately 120-150 health facilities
+- **[[Machakos County|Machakos County]]**: Approximately 280-320 health facilities (government and private combined)
+- **[[Kitui County|Kitui County]]**: Approximately 200-240 health facilities
+- **[[Makueni County|Makueni County]]**: Approximately 120-150 health facilities
 
 Total approximately 600-710 facilities serving approximately 1.3-1.5 million Kamba (approximately 1 facility per 2,000-2,500 people, worse than national average of 1 per 1,500 people).
 

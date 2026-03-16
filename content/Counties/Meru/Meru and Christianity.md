@@ -1,4 +1,4 @@
-Methodist and Catholic missionaries transformed Meru's religious landscape beginning in the early twentieth century. Prior to missionary activity, Meru communities adhered to traditional African religious systems centered on belief in Ngai (God), residing on [[../../Conservation/Mount Kenya National Park|Mount Kenya]], and veneration of ancestors. Missionary activity introduced Christianity as an alternative religious framework and became intertwined with colonial administration, education, and social change.
+Methodist and Catholic missionaries transformed Meru's religious landscape beginning in the early twentieth century. Prior to missionary activity, Meru communities adhered to traditional African religious systems centered on belief in Ngai (God), residing on [[Mount Kenya National Park|Mount Kenya]], and veneration of ancestors. Missionary activity introduced Christianity as an alternative religious framework and became intertwined with colonial administration, education, and social change.
 
 ## Methodist Mission
 
@@ -34,9 +34,9 @@ Today, Christianity is the dominant religion in Meru County, with Methodist, Cat
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

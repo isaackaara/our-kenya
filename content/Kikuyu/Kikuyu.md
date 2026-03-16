@@ -16,7 +16,7 @@ This knowledge graph follows five threads:
 - [[Gikuyu and Mumbi]], the founding couple and their nine daughters
 - [[The Nine Clans]], the clans that descended from Mumbi's daughters
 - [[Kikuyu Clans]], clan exogamy, contemporary functions in inheritance and identity
-- [[Kirinyaga]]- [[Kirinyaga]] ([[../Conservation/Mount Kenya National Park|Mount Kenya]]), as the home of God
+- [[Kirinyaga]]- [[Kirinyaga]] ([[Mount Kenya National Park|Mount Kenya]]), as the home of God
 - [[Ngai]], the Kikuyu supreme deity
 
 ### Land and Society

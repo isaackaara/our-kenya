@@ -44,7 +44,7 @@ The county economy is anchored in agriculture, with the National Cereals and Pro
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Trans-Nzoia_County
 2. https://www.globaladvancingjustice.org/news/2020/3/24/mount-elgon-forest-recovery-and-sabaot-land-rights-trans-nzoia

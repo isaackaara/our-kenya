@@ -20,7 +20,7 @@ His ministerial service marked a shift from pure intellectual opposition to gove
 
 ## Governor and Devolution Innovation (2013-2022)
 
-Kibwana's most significant impact came through his governance of [[../Counties/Makueni/Makueni County|Makueni County]] (2013-2022, serving two five-year terms). Makueni County became internationally recognized as a model devolution government, cited by development organizations and governance experts.
+Kibwana's most significant impact came through his governance of [[Makueni County|Makueni County]] (2013-2022, serving two five-year terms). Makueni County became internationally recognized as a model devolution government, cited by development organizations and governance experts.
 
 ### Universal Health Coverage
 

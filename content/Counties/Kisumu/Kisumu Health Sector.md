@@ -2,7 +2,7 @@ Kisumu's healthcare system includes public and private facilities, with Jaramogi
 
 ## Jaramogi Oginga Odinga Teaching and Referral Hospital
 
-Jaramogi Hospital (formerly Kisumu Hospital) is Kisumu's primary public healthcare facility and the regional referral hospital for Nyanza. The hospital provides acute care, serves as a teaching facility for health professional training, and is named after the prominent [[../../Luo/Luo|Luo]] politician.
+Jaramogi Hospital (formerly Kisumu Hospital) is Kisumu's primary public healthcare facility and the regional referral hospital for Nyanza. The hospital provides acute care, serves as a teaching facility for health professional training, and is named after the prominent [[Luo|Luo]] politician.
 
 ## Hospital Challenges
 
@@ -42,7 +42,7 @@ Health provision in informal settlements is extremely limited. Basic clinics and
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

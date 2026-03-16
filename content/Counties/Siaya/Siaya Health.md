@@ -31,7 +31,7 @@ The health workforce includes doctors, nurses, clinical officers, and health wor
 - [[Siaya Women]]
 - [[Siaya Climate]]
 - [[Siaya NGOs]]
-- [[../Kisumu/Kisumu Health Sector|Kisumu Health Sector]]
+- [[Kisumu Health Sector|Kisumu Health Sector]]
 - [[Siaya Water]]
 
 ## Sources

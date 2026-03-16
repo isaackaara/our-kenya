@@ -1,4 +1,4 @@
-The Luhya people have a tradition of entrepreneurship and business activity, though perhaps less visible and celebrated than the commercial networks of [[../Kikuyu/Kikuyu|Kikuyu]] or the historically mercantile Swahili. Luhya-origin business people have established enterprises across agriculture, trade, manufacturing, services, and finance. Notable individuals and family firms demonstrate the breadth of Luhya business engagement.
+The Luhya people have a tradition of entrepreneurship and business activity, though perhaps less visible and celebrated than the commercial networks of [[Kikuyu|Kikuyu]] or the historically mercantile Swahili. Luhya-origin business people have established enterprises across agriculture, trade, manufacturing, services, and finance. Notable individuals and family firms demonstrate the breadth of Luhya business engagement.
 
 ## Agricultural Entrepreneurs
 
@@ -77,11 +77,11 @@ Some Luhya-founded digital platforms and tech startups have attracted investment
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

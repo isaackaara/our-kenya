@@ -16,7 +16,7 @@ The repeat election's legacy was profound polarization and institutional damage.
 - [[Raila Odinga]]
 - [[Elections/2017 Presidential Election]]
 - [[The Handshake March 2018]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 - [[Kikuyu/Kikuyu Political Power]]
 - [[2007 Post-Election Violence]]
 

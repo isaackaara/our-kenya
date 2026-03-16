@@ -9,7 +9,7 @@ Land scarcity affects younger generations seeking farm land for agricultural act
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/real-estate-kitale-transnzoia
 2. https://www.propertykenya.com/kitale-real-estate

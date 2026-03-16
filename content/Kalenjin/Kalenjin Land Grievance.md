@@ -7,7 +7,7 @@ The Kalenjin land grievance is rooted in a specific historical sequence: the Bri
 - **Limited compensation**: Kalenjin were confined to reserves and offered minimal compensation, creating generations of landlessness within their own homeland
 - **Independence expectations**: At independence (1964), Kalenjin communities expected land to revert to them, restoring ancestral territories
 - **"Willing buyer willing seller" policy**: Instead of returning land to former owners, the post-independence government allowed landowners (mostly white settlers and later Kikuyu investors) to sell land on the open market
-- **Kikuyu land purchase**: Under this policy, Kikuyu investors purchased vast tracts of Kalenjin land in the 1960s-1980s, particularly in areas like Kericho, [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], and Nakuru
+- **Kikuyu land purchase**: Under this policy, Kikuyu investors purchased vast tracts of Kalenjin land in the 1960s-1980s, particularly in areas like Kericho, [[Uasin Gishu County|Uasin Gishu County]], and Nakuru
 - **Demographic transformation**: Areas that had been Kalenjin majority became increasingly Kikuyu, as settlers purchased land and moved their families into what Kalenjin viewed as their ancestral territories
 - **Landlessness and marginalization**: Many Kalenjin were left landless in their own region, while Kikuyu settlers (often from highland areas near Nairobi) bought the most productive land cheaply
 - **No historical precedent**: Unlike the British (external colonizers), Kikuyu settlers were fellow Africans, making the dispossession feel like betrayal by the independence government

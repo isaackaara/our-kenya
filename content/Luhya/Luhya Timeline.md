@@ -10,7 +10,7 @@ A chronological reference of major events in Luhya history from pre-colonial ori
 
 **1890s**: British colonial forces arrive in western Kenya. The Wanga Kingdom, under Nabongo (King) Mumia, enters into collaboration with British colonial administrators. This alliance strengthens Mumia's position relative to other Luhya leaders and positions the Wanga as privileged intermediaries in colonial governance structures.
 
-**1902**: The Friends Africa Mission (Quaker) arrives in Maragoli (Luhya territory in what is now [[../Counties/Vihiga/Vihiga County|Vihiga County]]). This marks the beginning of sustained Christian missionary presence among the Luhya. The Quakers establish schools and mission stations that would significantly influence education and religious practice.
+**1902**: The Friends Africa Mission (Quaker) arrives in Maragoli (Luhya territory in what is now [[Vihiga County|Vihiga County]]). This marks the beginning of sustained Christian missionary presence among the Luhya. The Quakers establish schools and mission stations that would significantly influence education and religious practice.
 
 **1910s**: Colonial administration expands throughout Luhya territory. The British divide the region into administrative districts and introduce taxation systems. Luhya youth are increasingly recruited or coerced into wage labor (colonial administration, railways, plantations).
 
@@ -70,7 +70,7 @@ A chronological reference of major events in Luhya history from pre-colonial ori
 
 **2013**: First elections under the devolved system. Luhya governors are elected in Kakamega, Bungoma, Vihiga. Trans-Nzoia elects a governor who may or may not be Luhya. County assemblies with Luhya majorities are elected. Luhya youth and women gain opportunities in county administration previously unavailable.
 
-**2013**: Mumias Sugar Company, historically a major employer and symbol of Luhya economic success, enters severe decline. Sugar prices collapse, and the company struggles with management and technical issues. This creates economic hardship in [[../Counties/Kakamega/Kakamega County|Kakamega County]] and symbolizes broader agricultural challenges.
+**2013**: Mumias Sugar Company, historically a major employer and symbol of Luhya economic success, enters severe decline. Sugar prices collapse, and the company struggles with management and technical issues. This creates economic hardship in [[Kakamega County|Kakamega County]] and symbolizes broader agricultural challenges.
 
 ## Contemporary Luhya (2013-2026)
 
@@ -87,11 +87,11 @@ A chronological reference of major events in Luhya history from pre-colonial ori
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

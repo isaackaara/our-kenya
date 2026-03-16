@@ -3,7 +3,7 @@ A chronological reference of key dates and events in Kikuyu history from pre-col
 ## Pre-Colonial Era
 
 ### c. 1500-1700 CE
-The agikuyu (Kikuyu people) migrate from lower-altitude areas into the fertile Central Highlands of present-day Kenya. Settlement occurs around [[../Conservation/Mount Kenya National Park|Mount Kenya]] and [[../Conservation/Aberdare National Park|Aberdare]] mountain range. The Kikuyu develop sophisticated agricultural and pastoral systems adapted to highland ecology.
+The agikuyu (Kikuyu people) migrate from lower-altitude areas into the fertile Central Highlands of present-day Kenya. Settlement occurs around [[Mount Kenya National Park|Mount Kenya]] and [[Aberdare National Park|Aberdare]] mountain range. The Kikuyu develop sophisticated agricultural and pastoral systems adapted to highland ecology.
 
 ### Pre-1880s
 Kikuyu society organizes through age sets, clans, and localized councils. Trade networks connect Kikuyu farmers to coastal and valley merchants. The Kikuyu accumulate wealth through cattle, land, and agricultural surplus.

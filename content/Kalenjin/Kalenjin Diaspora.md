@@ -38,7 +38,7 @@ Some diaspora have returned to Kenya for political candidacy or senior administr
 
 Remittance flows from diaspora Kalenjin to home communities support household economies, education, and business investment. Running athletes, in particular, generate substantial income that flows back to Kenya through family support and property investment.
 
-Diaspora investment in Kenyan real estate, particularly in [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], Iten, and Nairobi, has contributed to property market inflation. Diaspora-owned rental properties, business ventures, and agricultural land represent significant accumulated wealth in home regions.
+Diaspora investment in Kenyan real estate, particularly in [[Uasin Gishu County|Uasin Gishu County]], Iten, and Nairobi, has contributed to property market inflation. Diaspora-owned rental properties, business ventures, and agricultural land represent significant accumulated wealth in home regions.
 
 ## Challenges and Tensions
 

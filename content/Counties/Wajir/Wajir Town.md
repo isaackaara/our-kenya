@@ -18,7 +18,7 @@ Government offices, including the county headquarters, are located in Wajir Town
 
 ## Culture and Community
 
-Wajir Town reflects the dominant [[../../Somali/Somali|Somali]] culture of the region, with Arabic and Somali serving as primary languages alongside Swahili and English. The town's architecture includes both traditional structures and modern commercial buildings. Islamic faith is central to community life, with several mosques serving the population.
+Wajir Town reflects the dominant [[Somali|Somali]] culture of the region, with Arabic and Somali serving as primary languages alongside Swahili and English. The town's architecture includes both traditional structures and modern commercial buildings. Islamic faith is central to community life, with several mosques serving the population.
 
 The town experiences significant seasonal variation in population, with larger numbers of traders and herders present during the dry season when pastoral migration increases. The wet season sees different population patterns as nomadic herders move with their livestock.
 

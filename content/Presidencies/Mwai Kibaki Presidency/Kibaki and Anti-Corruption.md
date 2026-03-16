@@ -27,7 +27,7 @@ By the end of Kibaki's presidency, corruption remained endemic in Kenyan governa
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Kenya Corruption|Kenya Corruption]]
 - [[Kenya Governance|Kenya Governance]]
-- [[Corruption/Anglo Leasing Scandal|Anglo-Leasing Scandal]]
+- [[Anglo Leasing Scandal|Anglo-Leasing Scandal]]
 - [[Kenya Rule of Law|Kenya Rule of Law]]
 
 ## Sources

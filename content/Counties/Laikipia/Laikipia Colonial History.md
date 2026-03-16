@@ -16,9 +16,9 @@ Colonial District Officers administered Laikipia. Settler interests influenced a
 
 Pastoral communities provided labor for settler farms. Labor was coerced and underpaid. Labor recruitment depended on taxation forcing wage labor participation. Pastoral people were incorporated into settler economy on unfavorable terms.
 
-## [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] Uprising
+## [[Mau Mau Uprising|Mau Mau]] Uprising
 
-[[../../Kikuyu/Mau Mau Uprising|Mau Mau]] uprising (1952-1960) had pastoral participant involvement. Pastoralist grievances motivated some rebellion participation. British counterinsurgency suppressed the uprising. Mau Mau participation in Laikipia was less prominent than in [[../../Kikuyu/Kikuyu|Kikuyu]] areas.
+[[Mau Mau Uprising|Mau Mau]] uprising (1952-1960) had pastoral participant involvement. Pastoralist grievances motivated some rebellion participation. British counterinsurgency suppressed the uprising. Mau Mau participation in Laikipia was less prominent than in [[Kikuyu|Kikuyu]] areas.
 
 ## Transition to Independence
 
@@ -32,11 +32,11 @@ Colonial land allocation created patterns persisting to present. Settler ranches
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

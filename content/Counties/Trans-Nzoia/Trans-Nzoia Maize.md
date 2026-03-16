@@ -9,7 +9,7 @@ Maize from Trans-Nzoia contributes substantially to Kenya's overall food securit
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/
 2. https://www.businessdailyafrica.com/bd/markets/commodities/maize-output-faces-new-headwinds-3909826-article.html

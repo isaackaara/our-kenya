@@ -2,7 +2,7 @@ Land in Nyandarua County has undergone transformation from European settler farm
 
 ## Historical Land Tenure
 
-Colonial authorities alienated Aberdare highlands for European settlement. [[../../Kikuyu/Kikuyu|Kikuyu]] were excluded from these lands and confined to crowded reserves. Post-independence land redistribution returned settler farms to African ownership. Settlement schemes allocated land to selected beneficiaries. This transformation of land tenure was fundamental to post-independence development.
+Colonial authorities alienated Aberdare highlands for European settlement. [[Kikuyu|Kikuyu]] were excluded from these lands and confined to crowded reserves. Post-independence land redistribution returned settler farms to African ownership. Settlement schemes allocated land to selected beneficiaries. This transformation of land tenure was fundamental to post-independence development.
 
 ## Smallholder Farm Sizes
 
@@ -32,11 +32,11 @@ Land around Ol Kalou and other towns has been converted to urban use. Urban expa
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

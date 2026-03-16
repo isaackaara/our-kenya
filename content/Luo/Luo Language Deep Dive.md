@@ -32,7 +32,7 @@ Tonal systems in Nilotic languages similarly show historical development, with s
 
 ## Vocabulary and Cultural Semantics
 
-Dholuo vocabulary reveals cultural priorities and historical experiences. The language contains extensive vocabulary for cattle (breeds, colors, configurations, behavioral states), reflecting pastoralist heritage. Fish terminology similarly reflects [[../Conservation/Lake Victoria Kenya|Lake Victoria]]'s importance.
+Dholuo vocabulary reveals cultural priorities and historical experiences. The language contains extensive vocabulary for cattle (breeds, colors, configurations, behavioral states), reflecting pastoralist heritage. Fish terminology similarly reflects [[Lake Victoria Kenya|Lake Victoria]]'s importance.
 
 Kinship terminology displays complexity permitting fine-grained distinctions between relative types based on generation, gender, descent line, and relative age. This semantic richness reflects social organization emphasis on kinship.
 

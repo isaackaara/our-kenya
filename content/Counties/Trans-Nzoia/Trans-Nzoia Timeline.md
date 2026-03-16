@@ -45,7 +45,7 @@ This timeline documents key dates and events in Trans-Nzoia County history from 
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Trans-Nzoia_County
 2. https://www.standardmedia.co.ke/counties/trans-nzoia-history

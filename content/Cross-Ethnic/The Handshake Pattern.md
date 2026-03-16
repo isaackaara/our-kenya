@@ -48,4 +48,4 @@ The handshake is not a permanent settlement. It is a pause. The cycle continues.
 
 ## Related
 
-[[The Luo-Kikuyu Axis]] | [[../Kikuyu/Jomo Kenyatta]] | [[../Kikuyu/Mwai Kibaki]] | [[../Kikuyu/Uhuru Kenyatta]] | [[../Kikuyu/The Handshake 2018]] | [[../Luo/Oginga Odinga]] | [[../Luo/Raila Odinga]]
+[[The Luo-Kikuyu Axis]] | [[Jomo Kenyatta]] | [[Mwai Kibaki]] | [[../Kikuyu/Uhuru Kenyatta]] | [[The Handshake 2018]] | [[Oginga Odinga]] | [[Raila Odinga]]

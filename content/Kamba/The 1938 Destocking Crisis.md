@@ -15,7 +15,7 @@ The British colonial government ordered compulsory destocking (culling) of Kamba
 The 1938 destocking crisis demonstrates Kamba political agency and capacity for organized collective action decades before independence. The successful resistance showed that pastoral communities could effectively challenge colonial policy through mass mobilization, a lesson that would resurface during the Mau Mau period.
 
 ## Related
-[[Muindi Mbingu]] | [[Kamba and Colonialism]] | [[Ukambani Environment]] | [[../Kikuyu/Kikuyu Central Association]]
+[[Muindi Mbingu]] | [[Kamba and Colonialism]] | [[Ukambani Environment]] | [[Kikuyu Central Association]]
 
 ## See Also
 

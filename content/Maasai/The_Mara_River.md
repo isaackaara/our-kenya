@@ -4,7 +4,7 @@ title: The Mara River
 
 ## Geographic Location
 
-The Mara River originates in the Mau Forest Complex in Kenya's central highlands, approximately 2,600 meters above sea level. From its source, the river flows westward and southwestward through the Rift Valley, eventually crossing into [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve. The river flows through the reserve for approximately 50-60 kilometers before crossing into Tanzania and continuing to the Tanzanian plains.
+The Mara River originates in the Mau Forest Complex in Kenya's central highlands, approximately 2,600 meters above sea level. From its source, the river flows westward and southwestward through the Rift Valley, eventually crossing into [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve. The river flows through the reserve for approximately 50-60 kilometers before crossing into Tanzania and continuing to the Tanzanian plains.
 
 ## Ecosystem Lifeline
 
@@ -70,12 +70,12 @@ The Mara River faces multiple threats from deforestation, water extraction, clim
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

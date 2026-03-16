@@ -10,9 +10,9 @@ COVID-19 pandemic impacts included overwhelmed health facilities, vaccine rollou
 [[Nakuru Timeline]]
 [[Lake Nakuru]]
 [[Lake Naivasha]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 [[Nakuru City]]
-[[../../Conservation/Hell's Gate National Park|Hell's Gate]]
+[[Hell's Gate National Park|Hell's Gate]]
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Healthcare_in_Kenya

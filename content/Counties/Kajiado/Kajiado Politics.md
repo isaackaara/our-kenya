@@ -1,10 +1,10 @@
-Kajiado County's political landscape reflects ethnic [[../../Maasai/Maasai|Maasai]] dominance, pastoral community interests, and increasingly urbanization-related political changes as Nairobi expansion creates new constituencies and voter bases with urban-origin political interests distinct from traditional pastoral politics.
+Kajiado County's political landscape reflects ethnic [[Maasai|Maasai]] dominance, pastoral community interests, and increasingly urbanization-related political changes as Nairobi expansion creates new constituencies and voter bases with urban-origin political interests distinct from traditional pastoral politics.
 
 ## Ethnic Politics
 
 Maasai ethnicity remains the dominant political basis for representation and mobilization, with Maasai political candidates and platforms dominating electoral competition.
 
-Political clans within [[../../Maasai/Maasai|Maasai]] community compete for regional political leadership and resource allocation.
+Political clans within [[Maasai|Maasai]] community compete for regional political leadership and resource allocation.
 
 ## Electoral Politics
 
@@ -37,8 +37,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Devolution|Kajiado Devolu
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

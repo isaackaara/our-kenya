@@ -2,7 +2,7 @@
 
 ## Prevalence and Demographics
 
-The HIV prevalence rate in Siaya County is significantly higher than the national average of approximately 4.7 percent. Surveillance data shows that both men and women are affected, with Siaya recording a male HIV prevalence of 7.13 percent according to Kenya's national health statistics. The distribution of infection includes both urban and rural populations, though [[Siaya Fishing Communities|fishing communities]] along [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] show elevated infection rates.
+The HIV prevalence rate in Siaya County is significantly higher than the national average of approximately 4.7 percent. Surveillance data shows that both men and women are affected, with Siaya recording a male HIV prevalence of 7.13 percent according to Kenya's national health statistics. The distribution of infection includes both urban and rural populations, though [[Siaya Fishing Communities|fishing communities]] along [[Lake Victoria Kenya|Lake Victoria]] show elevated infection rates.
 
 ## Contributing Factors
 
@@ -19,10 +19,10 @@ The high HIV burden has profound effects on families, with many households exper
 ## See Also
 
 - [[Siaya Health]]
-- [[../../Luo/HIV_AIDS in Luo Community|HIV/AIDS in Luo Community]]
-- [[../../Luo/Luo and HIV AIDS|Luo and HIV AIDS]]
+- [[HIV_AIDS in Luo Community|HIV/AIDS in Luo Community]]
+- [[Luo and HIV AIDS|Luo and HIV AIDS]]
 - [[Siaya Fishing Communities]]
-- [[../Kisumu/Kisumu HIV AIDS Crisis|Kisumu HIV AIDS Crisis]]
+- [[Kisumu HIV AIDS Crisis|Kisumu HIV AIDS Crisis]]
 - [[Siaya NGOs]]
 - [[Siaya Women]]
 

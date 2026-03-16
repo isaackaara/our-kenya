@@ -35,7 +35,7 @@ County government incorporates climate change considerations in development plan
 - [[Siaya Water]]
 - [[Siaya Fishing Communities]]
 - [[Siaya Health]]
-- [[../../Conservation/Climate Change and Kenyan Wildlife|Climate Change and Kenyan Wildlife]]
+- [[Climate Change and Kenyan Wildlife|Climate Change and Kenyan Wildlife]]
 - [[Siaya Lake Victoria Economy]]
 
 ## Sources

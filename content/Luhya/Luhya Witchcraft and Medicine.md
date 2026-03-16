@@ -24,7 +24,7 @@ The eshisio is understood as a harmful spirit entity that may be sent by a witch
 
 Despite the conversion of the overwhelming majority of Luhya to Christianity, belief in witchcraft, spirit possession, and traditional medicine persists and coexists with Christian practice. Many Luhya Christians see no contradiction in attending church on Sunday and consulting a traditional healer during the week if a family member is seriously ill.
 
-Some Christian churches have attempted to suppress traditional beliefs, condemning witchcraft beliefs as superstition incompatible with Christian faith. Baptist churches in areas like [[../Counties/Vihiga/Vihiga County|Vihiga County]] have explicitly opposed African traditional religious practices, viewing syncretic worship as a threat to Christian purity.
+Some Christian churches have attempted to suppress traditional beliefs, condemning witchcraft beliefs as superstition incompatible with Christian faith. Baptist churches in areas like [[Vihiga County|Vihiga County]] have explicitly opposed African traditional religious practices, viewing syncretic worship as a threat to Christian purity.
 
 However, many Luhya have maintained their traditional beliefs while adapting to Christian identity. This reflects both the deep cultural roots of witchcraft and spirit beliefs and the human tendency to maintain multiple, sometimes contradictory, frameworks for understanding misfortune and seeking healing.
 
@@ -64,9 +64,9 @@ The persistence of traditional medical and spiritual beliefs reflects both the l
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

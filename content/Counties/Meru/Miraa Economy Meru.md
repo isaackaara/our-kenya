@@ -14,7 +14,7 @@ Meru County produces an estimated 200,000 to 250,000 metric tons of miraa annual
 
 ## Markets and Export
 
-Somalia and the [[../../Somali/Somali|Somali]] diaspora represent the primary export markets for Meru miraa. Kenya's trade with Somalia, despite political complications, continues partly because of the lucrative miraa commerce. Miraa shipments travel from Meru to Mombasa or Nairobi, then by air to Mogadishu and other East African destinations. The trade also supplies Somali communities in Kenya and throughout the East African region.
+Somalia and the [[Somali|Somali]] diaspora represent the primary export markets for Meru miraa. Kenya's trade with Somalia, despite political complications, continues partly because of the lucrative miraa commerce. Miraa shipments travel from Meru to Mombasa or Nairobi, then by air to Mogadishu and other East African destinations. The trade also supplies Somali communities in Kenya and throughout the East African region.
 
 ## Economic Impact
 
@@ -30,9 +30,9 @@ International narcotics regulations complicate miraa commerce, as several countr
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

@@ -24,7 +24,7 @@ His legacy is inseparable from the centralization of power and wealth that chara
 - [[GEMA - Gikuyu Embu Meru Association]]
 - [[Provincial Administration Kenyatta Era]]
 - [[Kikuyu/Kikuyu Political Elite]]
-- [[Corruption/Kenyatta Era Corruption]]
+- [[Kenyatta Era Corruption]]
 
 ## Sources
 1. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctvk8w1j7

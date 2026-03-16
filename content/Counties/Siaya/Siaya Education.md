@@ -27,10 +27,10 @@ Challenges to education quality and access include inadequate school infrastruct
 ## See Also
 
 - [[Siaya Youth]]
-- [[../../Luo/Luo and Education|Luo and Education]]
+- [[Luo and Education|Luo and Education]]
 - [[Siaya County]]
 - [[Siaya Women]]
-- [[../Kisumu/Kisumu Education|Kisumu Education]]
+- [[Kisumu Education|Kisumu Education]]
 - [[Siaya Health]]
 - [[Siaya Infrastructure]]
 

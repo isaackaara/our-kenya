@@ -2,7 +2,7 @@ While the Kamba nation shares language, culture, and history, the two primary Ka
 
 ## Machakos Characteristics
 
-[[../Counties/Machakos/Machakos County|Machakos County]] is closer to Nairobi (approximately 60 kilometers), positioned in the transition zone between the highlands and the semi-arid lowlands. The proximity to Nairobi has meant earlier and more intensive contact with colonial administration, with urbanization, and with modern economic opportunities.
+[[Machakos County|Machakos County]] is closer to Nairobi (approximately 60 kilometers), positioned in the transition zone between the highlands and the semi-arid lowlands. The proximity to Nairobi has meant earlier and more intensive contact with colonial administration, with urbanization, and with modern economic opportunities.
 
 Machakos was at the forefront of colonial-era land conservation efforts (the "Machakos Miracle"), making it nationally known for development experimentation. This history created a pattern of innovation and engagement with external development actors.
 
@@ -12,7 +12,7 @@ The Machakos Kamba are generally understood as more commercially active, more "m
 
 ## Kitui Characteristics
 
-[[../Counties/Kitui/Kitui County|Kitui County]] is more remote, more arid, and more rural. The geography is more challenging, with lower rainfall and more limited arable land. The area was more peripheral to colonial development efforts and has remained somewhat geographically isolated from major urban centers.
+[[Kitui County|Kitui County]] is more remote, more arid, and more rural. The geography is more challenging, with lower rainfall and more limited arable land. The area was more peripheral to colonial development efforts and has remained somewhat geographically isolated from major urban centers.
 
 Kitui is known for extensive pastoralism, with large herds of livestock providing livelihood for many. The arid environment requires pastoral mobility and traditional herding practices that remain more prominent in Kitui than in Machakos.
 

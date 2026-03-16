@@ -22,7 +22,7 @@ Luo cultural practices in Homa Bay include marriage customs involving bride pric
 
 ## Link to Broader Luo Culture
 
-[[../../Luo/Luo]]
+[[Luo]]
 
 ## See Also
 
@@ -30,8 +30,8 @@ Luo cultural practices in Homa Bay include marriage customs involving bride pric
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Luo Peoples. https://en.wikipedia.org/wiki/Luo_peoples

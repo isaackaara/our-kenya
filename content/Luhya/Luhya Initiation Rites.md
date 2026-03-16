@@ -45,7 +45,7 @@ Among the Bukusu, Tachoni, and (to a much lesser extent) the Nyala and Kabras, t
 
 Among other Luhya groups in Kakamega, with the exception of the Tiriki, modern hospital circumcision has largely replaced traditional forest ceremonies. Nowadays, initiates in these communities are usually circumcised in a clinical setting with no seclusion period. Upon healing, a celebration or party is held for the initiate, who then usually returns to school to continue studies.
 
-The Tiriki maintain distinctive circumcision ceremonies with elaborate masks and body paint comparable to those of [[../Kalenjin/Kalenjin|Kalenjin]] Terik, reflecting their unique cultural borrowing from Kalenjin neighbors.
+The Tiriki maintain distinctive circumcision ceremonies with elaborate masks and body paint comparable to those of [[Kalenjin|Kalenjin]] Terik, reflecting their unique cultural borrowing from Kalenjin neighbors.
 
 ## Gendered Dimensions
 
@@ -78,9 +78,9 @@ Christian conversion and modern education have both reduced the practice of trad
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

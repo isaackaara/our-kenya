@@ -1,4 +1,4 @@
-The Kisa are a smaller sub-group of the Luhya confederation, primarily located in [[../Counties/Kakamega/Kakamega County|Kakamega County]] in western Kenya. Despite their smaller population compared to larger Luhya groups like [[Luhya|Luhya]] or Maragoli, the Kisa maintain distinct cultural practices and a clear sense of sub-group identity.
+The Kisa are a smaller sub-group of the Luhya confederation, primarily located in [[Kakamega County|Kakamega County]] in western Kenya. Despite their smaller population compared to larger Luhya groups like [[Luhya|Luhya]] or Maragoli, the Kisa maintain distinct cultural practices and a clear sense of sub-group identity.
 
 ## Location
 
@@ -43,9 +43,9 @@ The Kisa remain in Kakamega County and continue to practice their cultural tradi
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

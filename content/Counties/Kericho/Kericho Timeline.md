@@ -1,6 +1,6 @@
 ## Key Dates in Kericho History
 
-**Early 1900s**: British colonizers identify Kericho region as suitable for tea cultivation; alienation of [[../../Kalenjin/Kalenjin|Kipsigis]] lands begins for European tea estates.
+**Early 1900s**: British colonizers identify Kericho region as suitable for tea cultivation; alienation of [[Kalenjin|Kipsigis]] lands begins for European tea estates.
 
 **1908**: Early European tea plantations established in Kericho; colonial administration consolidates control.
 
@@ -29,7 +29,7 @@
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

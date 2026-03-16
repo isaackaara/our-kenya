@@ -10,7 +10,7 @@ The town's economy centers on trade, retail, wholesale distribution, and transpo
 
 ## Administrative Functions
 
-[[../Kakamega/Kakamega County|Kakamega]] serves as the county seat with government offices, treasury, and administrative departments. The county assembly meets in Bungoma to conduct legislative business. County service delivery functions operate from Bungoma town offices. Coordination with national government agencies occurs in the town.
+[[Kakamega County|Kakamega]] serves as the county seat with government offices, treasury, and administrative departments. The county assembly meets in Bungoma to conduct legislative business. County service delivery functions operate from Bungoma town offices. Coordination with national government agencies occurs in the town.
 
 ## Social Services
 
@@ -23,7 +23,7 @@ Bungoma's proximity to the Uganda border and Malaba border crossing creates uniq
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

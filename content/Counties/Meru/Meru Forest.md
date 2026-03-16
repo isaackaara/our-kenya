@@ -1,4 +1,4 @@
-The [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forest extends across the higher elevation slopes of Meru County, comprising dense montane forest, bamboo forest, and alpine vegetation above 4,000 meters. The forest reserve is protected under Kenyan conservation law, though conservation challenges from human use persist. The forest plays crucial hydrological, biodiversity, and climate regulation roles for the county and region.
+The [[Mount Kenya National Park|Mount Kenya]] forest extends across the higher elevation slopes of Meru County, comprising dense montane forest, bamboo forest, and alpine vegetation above 4,000 meters. The forest reserve is protected under Kenyan conservation law, though conservation challenges from human use persist. The forest plays crucial hydrological, biodiversity, and climate regulation roles for the county and region.
 
 ## Forest Composition
 
@@ -6,7 +6,7 @@ The montane forest begins around 2,000 meters elevation and extends upward, with
 
 ## Water Generation
 
-The [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forest serves as Kenya's most important water tower, capturing moisture from trade wind clouds and storing water in soils and aquifers. The forest supplies permanent water to numerous streams and springs that flow toward lower elevations. Rivers originating in the forest provide water for agriculture, pastoral use, and household consumption across Meru County. Water security throughout the county depends on forest conservation.
+The [[Mount Kenya National Park|Mount Kenya]] forest serves as Kenya's most important water tower, capturing moisture from trade wind clouds and storing water in soils and aquifers. The forest supplies permanent water to numerous streams and springs that flow toward lower elevations. Rivers originating in the forest provide water for agriculture, pastoral use, and household consumption across Meru County. Water security throughout the county depends on forest conservation.
 
 ## Biodiversity
 
@@ -14,7 +14,7 @@ The forest supports diverse plant and animal life adapted to highland conditions
 
 ## Conservation Status
 
-The [[../../Conservation/Mount Kenya National Park|Mount Kenya]] forest reserve is protected under Kenyan law administered by the Kenya Forest Service. Despite legal protection, the forest faces conservation challenges including illegal logging, charcoal production, and encroachment for agriculture. Grazing by pastoral communities and wildlife impact vegetation and soils. Conservation efforts attempt to balance protection with the needs of surrounding communities.
+The [[Mount Kenya National Park|Mount Kenya]] forest reserve is protected under Kenyan law administered by the Kenya Forest Service. Despite legal protection, the forest faces conservation challenges including illegal logging, charcoal production, and encroachment for agriculture. Grazing by pastoral communities and wildlife impact vegetation and soils. Conservation efforts attempt to balance protection with the needs of surrounding communities.
 
 ## Management Challenges
 
@@ -30,9 +30,9 @@ Meru communities depend on forest resources for fuel, construction materials, an
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

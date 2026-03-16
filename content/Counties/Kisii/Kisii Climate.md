@@ -29,7 +29,7 @@ The reliable bimodal rainfall pattern contrasts with drier regions and supports 
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Tea Industry|Tea Production]]
 - [[Kisii Dairy|Dairy Farming]]
-- [[../../Conservation/Climate Change and Kenyan Wildlife|Wildlife Climate Impacts]]
+- [[Climate Change and Kenyan Wildlife|Wildlife Climate Impacts]]
 
 ## Agricultural Implications
 

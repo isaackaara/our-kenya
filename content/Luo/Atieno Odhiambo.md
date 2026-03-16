@@ -38,7 +38,7 @@ His specific work on Luo history and Siaya Region remains the most authoritative
 
 ---
 
-**See also**: [[Luo Women in History]], [[[[../Counties/Siaya/Siaya County|Siaya County]]]], [[Gem Constituency]]
+**See also**: [[Luo Women in History]], [[Siaya County|Siaya County]]]], [[Gem Constituency]]
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

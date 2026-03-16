@@ -1,16 +1,16 @@
-The introduction of the Nile perch to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] in the 1950s-1960s represents one of the world's most significant ecological disasters. The predatory fish caused the extinction or near-extinction of hundreds of endemic fish species while creating a massive export industry in Kisumu and surrounding areas.
+The introduction of the Nile perch to [[Lake Victoria Kenya|Lake Victoria]] in the 1950s-1960s represents one of the world's most significant ecological disasters. The predatory fish caused the extinction or near-extinction of hundreds of endemic fish species while creating a massive export industry in Kisumu and surrounding areas.
 
 ## Introduction and Rationale
 
-The Nile perch was introduced to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]], ostensibly to improve fisheries productivity. The fish was large, growing to 180 kilograms or more, and was believed to offer commercial fishing opportunities. The introduction was conducted without adequate environmental assessment of consequences.
+The Nile perch was introduced to [[Lake Victoria Kenya|Lake Victoria]], ostensibly to improve fisheries productivity. The fish was large, growing to 180 kilograms or more, and was believed to offer commercial fishing opportunities. The introduction was conducted without adequate environmental assessment of consequences.
 
 ## Ecological Devastation
 
-The Nile perch is a voracious predator. Once established, it preyed extensively on endemic fish species, particularly cichlid fish species that had evolved over millions of years in [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]. Hundreds of endemic fish species were driven to extinction or near-extinction. The lake's biodiversity was catastrophically reduced.
+The Nile perch is a voracious predator. Once established, it preyed extensively on endemic fish species, particularly cichlid fish species that had evolved over millions of years in [[Lake Victoria Kenya|Lake Victoria]]. Hundreds of endemic fish species were driven to extinction or near-extinction. The lake's biodiversity was catastrophically reduced.
 
 ## Lost Species
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] had supported some 500 endemic fish species found nowhere else in the world. The Nile perch introduction caused the extinction of an estimated 200 to 300 species. This represents an enormous loss of biodiversity and evolutionary heritage.
+[[Lake Victoria Kenya|Lake Victoria]] had supported some 500 endemic fish species found nowhere else in the world. The Nile perch introduction caused the extinction of an estimated 200 to 300 species. This represents an enormous loss of biodiversity and evolutionary heritage.
 
 ## Export Industry Creation
 
@@ -22,7 +22,7 @@ Nile perch fishing, processing, and export generate employment and income for hu
 
 ## Economic Dependence
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] communities have become economically dependent on Nile perch export income. While this provides livelihoods, it creates vulnerability to market price fluctuations and international trade dynamics.
+[[Lake Victoria Kenya|Lake Victoria]] communities have become economically dependent on Nile perch export income. While this provides livelihoods, it creates vulnerability to market price fluctuations and international trade dynamics.
 
 ## Fishing Pressure
 
@@ -42,7 +42,7 @@ Limited conservation efforts attempt to protect remaining endemic fish species i
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

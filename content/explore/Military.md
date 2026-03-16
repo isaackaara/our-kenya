@@ -15,14 +15,14 @@ From colonial forces to independent military, Kenya's security institutions and 
 ### Armed Forces
 - [[Military/Kenya Defence Forces|Kenya Defence Forces]]
 - [[Military/Kenya Army|Kenya Army]]
-- [[Military/Kenya Navy|Kenya Navy]]
-- [[Military/Kenya Air Force|Kenya Air Force]]
+- [[Kenya Navy|Kenya Navy]]
+- [[Kenya Air Force|Kenya Air Force]]
 
 ### Conflicts
 - [[Military/World War I Kenya|World War I]]
 - [[Military/World War II Kenya|World War II]]
-- [[Military/Mau Mau Uprising|Mau Mau Uprising]]
-- [[Military/Shifta War|Shifta War]]
+- [[Mau Mau Uprising|Mau Mau Uprising]]
+- [[Shifta War|Shifta War]]
 
 ### Security Operations
 - [[Military/Military Coups Kenya|Coup Attempts]]

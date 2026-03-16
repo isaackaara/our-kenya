@@ -30,8 +30,8 @@ Athletes and cultural performers achieve recognition at national and regional le
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Notable Kenyans. https://en.wikipedia.org/wiki/

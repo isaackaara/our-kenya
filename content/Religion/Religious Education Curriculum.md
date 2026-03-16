@@ -16,7 +16,7 @@ Post-independence Kenya inherited deeply contested approaches to religious educa
 [[Religious Opposition Colonialism]]
 [[Religion Kenyan Literature]]
 [[Education/Missionary Education]]
-[[Women/Religious Education Women Colonial]]
+[[Religious Education Women Colonial]]
 
 ## Sources
 

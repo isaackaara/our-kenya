@@ -34,8 +34,8 @@ Fishing communities face health challenges including elevated HIV prevalence ass
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Maritime Authority. (2023). Fishing Vessel Census Report. https://www.kma.go.ke/

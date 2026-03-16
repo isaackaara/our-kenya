@@ -1,6 +1,6 @@
-Tharaka-Nithi County sits on the eastern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]], occupying the dryland lowlands and mountain foothills between Meru and Embu counties in central Kenya. With a population of approximately 400,000, the county is defined by sharp ecological contrasts: the arid Tharaka plains to the east and the cooler, well-watered slopes rising toward Mount Kenya's peaks. The county headquarters, [[Chuka Town|Chuka]], serves as the commercial and administrative heart, a bustling miraa trading hub that connects the pastoral communities below with the agricultural zones above.
+Tharaka-Nithi County sits on the eastern slopes of [[Mount Kenya National Park|Mount Kenya]], occupying the dryland lowlands and mountain foothills between Meru and Embu counties in central Kenya. With a population of approximately 400,000, the county is defined by sharp ecological contrasts: the arid Tharaka plains to the east and the cooler, well-watered slopes rising toward Mount Kenya's peaks. The county headquarters, [[Chuka Town|Chuka]], serves as the commercial and administrative heart, a bustling miraa trading hub that connects the pastoral communities below with the agricultural zones above.
 
-Two distinct Bantu-speaking communities inhabit Tharaka-Nithi, each with their own economies, settlement patterns, and cultural traditions. The [[Tharaka People County|Tharaka]] occupy the dry lowlands in the eastern portions of the county, traditionally pastoral and semi-pastoral peoples known for livestock herding, millet cultivation, and an ancient tradition of cliff beekeeping that remains central to their identity. The [[Chuka Mwimbi People|Chuka and Mwimbi]] communities live on the mountain slopes, closely related to the larger [[../../Meru/Meru|Meru]] ethnic group, and have historically focused on sedentary agriculture including coffee, tea, and food crops suited to higher altitudes and reliable rainfall.
+Two distinct Bantu-speaking communities inhabit Tharaka-Nithi, each with their own economies, settlement patterns, and cultural traditions. The [[Tharaka People County|Tharaka]] occupy the dry lowlands in the eastern portions of the county, traditionally pastoral and semi-pastoral peoples known for livestock herding, millet cultivation, and an ancient tradition of cliff beekeeping that remains central to their identity. The [[Chuka Mwimbi People|Chuka and Mwimbi]] communities live on the mountain slopes, closely related to the larger [[Meru|Meru]] ethnic group, and have historically focused on sedentary agriculture including coffee, tea, and food crops suited to higher altitudes and reliable rainfall.
 
 The county's economy revolves around [[Tharaka-Nithi Miraa|miraa (khat) cultivation]], which dominates cash crop production and drives the regional trade system. Chuka functions as one of East Africa's largest miraa markets, with bundles exported daily to Somalia, Ethiopia, and across the horn of Africa via informal networks that predate modern borders. Beyond miraa, the [[Tharaka-Nithi Coffee|coffee estates]] on the mountain slopes generate significant income, [[Tharaka-Nithi Tea|tea farming]] thrives in the highest altitude zones, and [[Tharaka-Nithi Dairy|dairy cooperatives]] on the cooler slopes supply milk to regional markets. The lower zones support [[Tharaka-Nithi Beekeeping|traditional beekeeping]], [[Tharaka-Nithi Agriculture|millet and pulse farming]], and livestock production adapted to semi-arid conditions.
 
@@ -43,11 +43,11 @@ Historically, the Chuka and Mwimbi played significant roles in the [[Tharaka-Nit
 
 ## See Also
 
-[[../../Tharaka/Tharaka|Tharaka (ethnic)]]
-[[../../Meru/Meru|Meru]]
-[[../../Counties/Meru County|Meru County]]
-[[../../Counties/Embu County|Embu County]]
-[[../../Conservation/Mount Kenya National Park|Mount Kenya National Park]]
+[[Tharaka|Tharaka (ethnic)]]
+[[Meru|Meru]]
+[[Meru County|Meru County]]
+[[Embu County|Embu County]]
+[[Mount Kenya National Park|Mount Kenya National Park]]
 [[../../Economic/Miraa Trade|Miraa Trade]]
 [[Chuka Town|Chuka Town]]
 

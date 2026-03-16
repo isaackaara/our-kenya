@@ -1,6 +1,6 @@
 The Samburu people of north-central Kenya, pastoralist cousins of the [[Maasai/Maasai Age-Grade System|Maasai]] who speak a closely related Maa language and share many cultural practices, have developed musical traditions that both overlap with and distinguish themselves from Maasai music, creating a distinct sonic identity that reflects Samburu cultural pride and historical autonomy. Like the [[Maasai/Maasai Age-Grade System|Maasai]], Samburu music is almost entirely vocal, with instruments playing minimal roles in a musical culture that elevates the human voice to supreme status. However, Samburu songs feature distinctive melodic patterns, lyrical themes, and performance contexts that mark them as specifically Samburu rather than merely northern Maasai variants, asserting cultural particularity that Samburu people fiercely defend against external attempts at cultural homogenization.
 
-The nkoshoke is the central Samburu musical form, collective singing sessions where warriors (lmurran) gather to perform, their voices blending in complex harmonies while executing vigorous jumping dances. The musical structure resembles [[Music/Maasai Singing and Olaranyani|Maasai enkiama]], with a lead singer establishing melodic and rhythmic patterns that the group then elaborates through overlapping vocal parts. However, Samburu nkoshoke features distinct melodic intervals, ornamental patterns, and rhythmic structures recognizable to knowledgeable listeners as specifically Samburu. The songs address warrior life, cattle, romantic relationships with young women, relationships between age-sets, and occasionally political events affecting Samburu communities.
+The nkoshoke is the central Samburu musical form, collective singing sessions where warriors (lmurran) gather to perform, their voices blending in complex harmonies while executing vigorous jumping dances. The musical structure resembles [[Maasai Singing and Olaranyani|Maasai enkiama]], with a lead singer establishing melodic and rhythmic patterns that the group then elaborates through overlapping vocal parts. However, Samburu nkoshoke features distinct melodic intervals, ornamental patterns, and rhythmic structures recognizable to knowledgeable listeners as specifically Samburu. The songs address warrior life, cattle, romantic relationships with young women, relationships between age-sets, and occasionally political events affecting Samburu communities.
 
 Age-grade systems fundamentally organize Samburu society and musical practice. Male Samburu progress through clearly demarcated life stages, each with associated songs, dances, and musical responsibilities. Young boys tend livestock and sing herding songs. Circumcised youth enter warrior grades (lmurran), adopting warrior songs that celebrate masculine prowess, cattle wealth, and romantic conquests. Upon marrying and becoming fathers, men transition to elder status, abandoning warrior songs for more contemplative music reflecting different life priorities. This age-based musical differentiation maintains social order and provides sonic markers of status transitions.
 
@@ -21,12 +21,12 @@ Yet Samburu music demonstrates remarkable persistence. Circumcision ceremonies c
 The Samburu situation parallels challenges facing [[Maasai/Maasai Age-Grade System|Maasai]] and other pastoralist musical traditions, but Samburu cultural pride and historical resistance to assimilation suggest potential resilience. If Samburu identity remains valued by younger generations and if pastoralist livelihoods survive climate change and development pressures, Samburu music will likely persist in adapted forms. If assimilation accelerates and pastoralism collapses, musical traditions may survive only as archival recordings and occasional revival performances divorced from living social contexts that gave them meaning.
 
 ## See Also
-- [[Music/Maasai Singing and Olaranyani]]
+- [[Maasai Singing and Olaranyani]]
 - [[Maasai/Maasai Age-Grade System]]
-- [[Music/Turkana Music and Dance]]
-- [[Music/Warrior Songs Kenya]]
-- [[Music/Music and Initiation Rites]]
-- [[Music/Women's Music Traditions Kenya]]
+- [[Turkana Music and Dance]]
+- [[Warrior Songs Kenya]]
+- [[Music and Initiation Rites]]
+- [[Women's Music Traditions Kenya]]
 - [[Conservation/Pastoralism and Conservation]]
 
 ## Sources

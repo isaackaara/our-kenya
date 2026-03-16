@@ -32,7 +32,7 @@ By the late 1970s, the development projects of the Kenyatta era had created sign
 - [[../../Kenya Infrastructure History|Kenya Infrastructure History]]
 - [[../../Kenya Education History|Kenya Education History]]
 - [[../../Kenya Healthcare|Kenya Healthcare]]
-- [[../../Nairobi Development|Nairobi Development]]
+- [[Nairobi Development|Nairobi Development]]
 
 ## Sources
 

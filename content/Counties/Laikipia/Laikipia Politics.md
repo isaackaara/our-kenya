@@ -6,7 +6,7 @@ National political party competition occurs in county elections. Ethnic voting p
 
 ## Ethnic Politics
 
-Multiple ethnic communities represent different political interests. [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Maasai/Maasai|Maasai]], [[../../Samburu/Samburu|Samburu]], Pokot, and Turkana communities have distinct priorities. Elite members mobilize ethnic constituencies. Ethnic coalitions form and shift between elections. Ethnic tensions influence electoral outcomes.
+Multiple ethnic communities represent different political interests. [[Kikuyu|Kikuyu]], [[Maasai|Maasai]], [[Samburu|Samburu]], Pokot, and Turkana communities have distinct priorities. Elite members mobilize ethnic constituencies. Ethnic coalitions form and shift between elections. Ethnic tensions influence electoral outcomes.
 
 ## Conservation Politics
 
@@ -24,11 +24,11 @@ County government structure includes governor and assembly. Executive department
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

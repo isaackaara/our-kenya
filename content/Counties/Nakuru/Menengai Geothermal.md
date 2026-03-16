@@ -10,11 +10,11 @@ Geothermal development offers advantages (renewable, baseload power, lower emiss
 [[Nakuru Timeline]]
 [[Lake Nakuru]]
 [[Lake Naivasha]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 [[Nakuru City]]
-[[../../Conservation/Hell's Gate National Park|Hell's Gate]]
+[[Hell's Gate National Park|Hell's Gate]]
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Geothermal_power_in_Kenya
 2. https://www.kengen.co.ke/menengai-geothermal-project/
-3. [[../../Corporate Kenya/KenGen]]
+3. [[KenGen]]

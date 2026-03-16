@@ -16,7 +16,7 @@ Customary land tenure systems persist alongside government titling, with communi
 ## See Also
 
 - [[Makueni County|Makueni County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Makueni Devolution Success|Devolution Success]]
 - [[Sand Dams Makueni|Sand Dams (water technology)]]
 - [[Makueni Climate Change Adaptation|Climate Adaptation]]

@@ -1,4 +1,4 @@
-Kisumu's infrastructure includes road networks, the Standard Gauge Railway connection, an airport, and the [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] port. Infrastructure development is essential for the city's economic future.
+Kisumu's infrastructure includes road networks, the Standard Gauge Railway connection, an airport, and the [[Lake Victoria Kenya|Lake Victoria]] port. Infrastructure development is essential for the city's economic future.
 
 ## Road Network
 
@@ -10,15 +10,15 @@ The Standard Gauge Railway line connects Nairobi to Mombasa but does not current
 
 ## Kisumu International Airport
 
-Kisumu has an international airport, Kisumu International Airport (KSM), which provides air connections to Nairobi, Mombasa, and other regional destinations. The airport serves tourism, business travel, and cargo transport. However, flight frequency is limited compared to Nairobi's [[../../Kikuyu/Jomo Kenyatta|Jomo Kenyatta]] International Airport.
+Kisumu has an international airport, Kisumu International Airport (KSM), which provides air connections to Nairobi, Mombasa, and other regional destinations. The airport serves tourism, business travel, and cargo transport. However, flight frequency is limited compared to Nairobi's [[Jomo Kenyatta|Jomo Kenyatta]] International Airport.
 
 ## Port Facilities
 
-Kisumu port provides water transport connectivity on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]. Modern port facilities are limited, though fishing-related port activities continue. Port modernization and expansion would enhance regional trade potential.
+Kisumu port provides water transport connectivity on [[Lake Victoria Kenya|Lake Victoria]]. Modern port facilities are limited, though fishing-related port activities continue. Port modernization and expansion would enhance regional trade potential.
 
 ## Water Supply Infrastructure
 
-Kisumu water supply relies on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] and groundwater sources. Water supply infrastructure is aging and inadequate for the city's needs. Water shortage is a persistent challenge.
+Kisumu water supply relies on [[Lake Victoria Kenya|Lake Victoria]] and groundwater sources. Water supply infrastructure is aging and inadequate for the city's needs. Water shortage is a persistent challenge.
 
 ## Electricity Supply
 
@@ -46,7 +46,7 @@ Kisumu requires investment in road maintenance, water supply expansion, improved
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

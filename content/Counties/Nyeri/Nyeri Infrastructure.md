@@ -1,12 +1,12 @@
-Nyeri County's infrastructure includes roads connecting the county to Nairobi and [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region towns. The Nairobi-Nanyuki highway runs through Nyeri. Secondary roads connect market centers and constituencies. Power supply reaches most urban areas and many rural locations through Kenya Power and Lighting Company. Water supply systems serve towns, though rural water access remains inadequate in some areas.
+Nyeri County's infrastructure includes roads connecting the county to Nairobi and [[Mount Kenya National Park|Mount Kenya]] region towns. The Nairobi-Nanyuki highway runs through Nyeri. Secondary roads connect market centers and constituencies. Power supply reaches most urban areas and many rural locations through Kenya Power and Lighting Company. Water supply systems serve towns, though rural water access remains inadequate in some areas.
 
 
 ## See Also
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

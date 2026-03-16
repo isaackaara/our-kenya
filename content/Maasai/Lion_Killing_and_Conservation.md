@@ -24,7 +24,7 @@ The program pays guardians (USD 10-15 per day) to protect lions, monitor their h
 
 The program leverages Maasai knowledge and respect for lions to achieve conservation outcomes. Former lion hunters become lion protectors.
 
-The program operates in the [[../Conservation/Amboseli National Park|Amboseli National Park]]-Tsavo ecosystem and has expanded to other regions. It is based in southern Kenya, in Maasai territory.
+The program operates in the [[Amboseli National Park|Amboseli National Park]]-Tsavo ecosystem and has expanded to other regions. It is based in southern Kenya, in Maasai territory.
 
 ## Integration of Conservation and Cultural Practice
 
@@ -55,10 +55,10 @@ Lion Guardians offers a model for conservation that respects Indigenous peoples,
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

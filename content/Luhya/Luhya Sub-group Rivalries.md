@@ -2,9 +2,9 @@ While the Luhya confederation remains a coherent ethnic entity, significant inte
 
 ## Bukusu Versus Maragoli
 
-The Bukusu, the largest Luhya sub-group concentrated in [[../Counties/Bungoma/Bungoma County|Bungoma County]], and the Maragoli, the second-largest sub-group concentrated in [[../Counties/Vihiga/Vihiga County|Vihiga County]], represent the two dominant poles in Luhya politics and culture. The Bukusu are known for their elaborate circumcision ceremonies and their historically fierce resistance to colonial rule, while the Maragoli are associated with high literacy rates and academic achievement.
+The Bukusu, the largest Luhya sub-group concentrated in [[Bungoma County|Bungoma County]], and the Maragoli, the second-largest sub-group concentrated in [[Vihiga County|Vihiga County]], represent the two dominant poles in Luhya politics and culture. The Bukusu are known for their elaborate circumcision ceremonies and their historically fierce resistance to colonial rule, while the Maragoli are associated with high literacy rates and academic achievement.
 
-The Bukusu-Maragoli distinction reflects geographical separation, distinct historical trajectories, and different cultural emphasis. In [[../Counties/Kakamega/Kakamega County|Kakamega County]] politics, where Bukusu populations are significant, competition between these sub-group interests has been visible in county government elections and resource allocation.
+The Bukusu-Maragoli distinction reflects geographical separation, distinct historical trajectories, and different cultural emphasis. In [[Kakamega County|Kakamega County]] politics, where Bukusu populations are significant, competition between these sub-group interests has been visible in county government elections and resource allocation.
 
 ## Bukusu Separate Identity
 
@@ -49,9 +49,9 @@ No specific sources were used for this overview; it represents synthesis of gene
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

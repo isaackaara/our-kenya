@@ -8,7 +8,7 @@ The 2010 devolution of power transferred significant authority to county governm
 
 Electoral politics often reflect ethnic identities, with communities supporting candidates perceived as their representatives. The sizeable populations of Borana, Gabra, Rendille, Turkana, and other communities create multi-ethnic electoral dynamics. Tensions over representation and resource allocation periodically surface.
 
-County development planning shapes infrastructure investment, education expansion, and health service distribution. The [[../../Conservation/Lake Turkana|Lake Turkana]] Wind Power project creates new political dynamics around land, employment, and development benefits.
+County development planning shapes infrastructure investment, education expansion, and health service distribution. The [[Lake Turkana|Lake Turkana]] Wind Power project creates new political dynamics around land, employment, and development benefits.
 
 Security challenges including conflict, banditry, and cross-border issues require political attention. County government coordinates with national security agencies and provincial authorities on security matters.
 
@@ -20,7 +20,7 @@ Access to national government resources and development projects depends partly 
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Politics|Politics]]
+[[Marsabit Politics|Politics]]
 ## Sources
 
 1. Constitution of Kenya 2010: County Government Framework. https://www.parliament.go.ke/

@@ -1,11 +1,11 @@
-The [[../../Kalenjin/Kalenjin|Kipsigis]] people of Kericho County maintain distinctive cultural traditions rooted in their pastoral heritage, though these traditions have been transformed by colonialism, economic change, and modernization. Traditional Kipsigis society was organized around age-sets (ipinda), pastoral wealth accumulation, and warrior traditions, with cultural practices reflecting pastoral livelihoods and values.
+The [[Kalenjin|Kipsigis]] people of Kericho County maintain distinctive cultural traditions rooted in their pastoral heritage, though these traditions have been transformed by colonialism, economic change, and modernization. Traditional Kipsigis society was organized around age-sets (ipinda), pastoral wealth accumulation, and warrior traditions, with cultural practices reflecting pastoral livelihoods and values.
 
 Kipsigis oral traditions, music, dance, and storytelling continue to transmit cultural knowledge and history, though primarily among older generations. Traditional ceremonies marking life transitions (birth, coming-of-age, marriage, death) maintain cultural significance, though increasingly incorporating Christian or Islamic elements. Material culture including traditional crafts, clothing, and household items reflects Kipsigis identity, though much traditional clothing has been replaced by Western dress. Language preservation represents a contemporary cultural concern, as increasing numbers of young people speak English or Swahili more fluently than Kipsigis. Contemporary cultural organizations and community groups work to preserve and promote Kipsigis heritage through events, educational programmes, and documentation projects. Museums and cultural centres attempt to collect and display cultural artefacts and knowledge. The integration of Kipsigis cultural identity with national Kenyan identity and global influences creates ongoing negotiations of what constitutes "authentic" Kipsigis culture.
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] forms the northeastern boundary of [[Siaya County]] and has historically been the foundation of the regional economy. Fishing represents the primary livelihood for thousands of Siaya residents, with commercial and artisanal fishing operations dominating the lakeshore settlements and beach management units.
+[[Lake Victoria Kenya|Lake Victoria]] forms the northeastern boundary of [[Siaya County]] and has historically been the foundation of the regional economy. Fishing represents the primary livelihood for thousands of Siaya residents, with commercial and artisanal fishing operations dominating the lakeshore settlements and beach management units.
 
 ## Fishing Fleet and Operations
 
@@ -27,11 +27,11 @@ Fishing communities have unique health challenges, including elevated HIV preval
 ## See Also
 
 - [[Siaya Fishing Communities]]
-- [[../../Luo/Luo Fishing Economy Deep Dive|Luo Fishing Economy]]
-- [[../../Luo/Luo and the Fish Trade|Luo and the Fish Trade]]
-- [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]
+- [[Luo Fishing Economy Deep Dive|Luo Fishing Economy]]
+- [[Luo and the Fish Trade|Luo and the Fish Trade]]
+- [[Lake Victoria Kenya|Lake Victoria]]
 - [[Siaya Women]]
-- [[../Kisumu/Kisumu Fishing Industry|Kisumu Fishing Industry]]
+- [[Kisumu Fishing Industry|Kisumu Fishing Industry]]
 - [[Siaya Climate Change]]
 
 ## Sources

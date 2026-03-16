@@ -14,7 +14,7 @@ Diani is notable as a site for the conservation of the endangered Angolan black 
 
 ## Local Communities and Livelihood
 
-Local communities, including fishers and [[../../Mijikenda/Mijikenda|Mijikenda]] residents, have traditional livelihoods associated with the beach. Fishing and beach activities have been affected by tourism development and marine conservation measures, creating tensions between conservation and livelihood needs.
+Local communities, including fishers and [[Mijikenda|Mijikenda]] residents, have traditional livelihoods associated with the beach. Fishing and beach activities have been affected by tourism development and marine conservation measures, creating tensions between conservation and livelihood needs.
 
 ## Economic Impact
 
@@ -38,7 +38,7 @@ Diani is accessible by road from Mombasa and from the Nairobi-Mombasa highway. M
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

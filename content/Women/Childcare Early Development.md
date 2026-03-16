@@ -23,7 +23,7 @@ Contemporary early childhood development has become policy priority. The governm
 [[Female Headed Households]]
 [[Women Informal Economy]]
 [[Women Leadership Capacity]]
-[[Education/Education|Educational Systems]]
+[[Education|Educational Systems]]
 
 ## Sources
 

@@ -1,12 +1,12 @@
-The Tharaka people form a smaller ethnic community within Meru County, historically occupying the lower elevation zones to the south and southeast. The relationship between the [[../../Meru/Meru|Meru]] majority and the Tharaka minority reflects patterns of ethnic coexistence in Kenya's highlands. Tharaka interests and identity are often subsumed within Meru County institutions, creating representation challenges.
+The Tharaka people form a smaller ethnic community within Meru County, historically occupying the lower elevation zones to the south and southeast. The relationship between the [[Meru|Meru]] majority and the Tharaka minority reflects patterns of ethnic coexistence in Kenya's highlands. Tharaka interests and identity are often subsumed within Meru County institutions, creating representation challenges.
 
 ## Tharaka History and Settlement
 
-The Tharaka people have occupied the lowland areas (below 1,500 meters) on the southern and southeastern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]], adjacent to Meru. Oral traditions suggest the Tharaka migrated to the region in antiquity, establishing settlements in areas more suitable to their pastoral and agricultural practices. The Tharaka language belongs to the Northeast Bantu family and shares linguistic ties with Meru and Embu languages.
+The Tharaka people have occupied the lowland areas (below 1,500 meters) on the southern and southeastern slopes of [[Mount Kenya National Park|Mount Kenya]], adjacent to Meru. Oral traditions suggest the Tharaka migrated to the region in antiquity, establishing settlements in areas more suitable to their pastoral and agricultural practices. The Tharaka language belongs to the Northeast Bantu family and shares linguistic ties with Meru and Embu languages.
 
 ## Geographic Distribution
 
-Tharaka communities concentrate in Tharaka Nithi constituency and portions of other constituencies in southern Meru County. The terrain in Tharaka areas is more arid and less densely populated than the [[../../Meru/Meru|Meru]] highland areas. Population density and agricultural productivity are lower than in the high-altitude Meru zones, reflecting climatic differences and suitability for different livelihood systems.
+Tharaka communities concentrate in Tharaka Nithi constituency and portions of other constituencies in southern Meru County. The terrain in Tharaka areas is more arid and less densely populated than the [[Meru|Meru]] highland areas. Population density and agricultural productivity are lower than in the high-altitude Meru zones, reflecting climatic differences and suitability for different livelihood systems.
 
 ## Economic Activities
 
@@ -34,9 +34,9 @@ At county level, Tharaka interests are represented through Tharaka Nithi constit
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

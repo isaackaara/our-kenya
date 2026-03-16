@@ -21,7 +21,7 @@ The 2006,2008 conflict left lasting trauma on Sabaot communities. Many were disp
 The Sabaot remain demographically small and economically marginal within national politics. Mount Elgon retains significance for conservation (a national park was established) and agriculture. Sabaot communities continue to advocate for land rights recognition and fair compensation for losses during the insurgency.
 
 ## Cross-Links
-- [[../Luhya/Mount Elgon]]
+- [[Mount Elgon]]
 - [[Kalenjin Origins]]
 - [[Rift Valley Violence]]
 

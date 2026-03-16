@@ -25,7 +25,7 @@ How history will judge Uhuru's decade depends partly on unknowable futures. If K
 - [[Elections/2022 Presidential Election]]
 - [[Uhuru Infrastructure Agenda]]
 - [[Kikuyu/Kikuyu Political Power]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 
 ## Sources
 1. "Uhuru Kenyatta's Legacy: Infrastructure and Debt," The Economist Intelligence Unit, September 2022. https://www.eiu.com/n/uhuru-kenyatta-legacy-infrastructure-debt/

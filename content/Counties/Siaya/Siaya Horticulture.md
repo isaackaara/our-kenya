@@ -10,7 +10,7 @@ Horticultural production remains limited compared to staple crops, with most hor
 
 ## Market Opportunities
 
-Growing urban demand for vegetables and fruits creates potential for horticulture commercialization. Urban consumers in [[../Kisumu/Kisumu|Kisumu]] and Nairobi provide market outlets for high-quality horticultural products. Export markets for specific crops offer potential high-value opportunities.
+Growing urban demand for vegetables and fruits creates potential for horticulture commercialization. Urban consumers in [[Kisumu|Kisumu]] and Nairobi provide market outlets for high-quality horticultural products. Export markets for specific crops offer potential high-value opportunities.
 
 ## Constraints to Development
 
@@ -18,7 +18,7 @@ Limited access to improved seeds, fertilizers, and technical knowledge constrain
 
 ## Irrigation Potential
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] proximity offers irrigation potential for horticultural production, though irrigation infrastructure remains limited. Small-scale irrigation schemes have been developed in some locations but remain insufficient relative to potential.
+[[Lake Victoria Kenya|Lake Victoria]] proximity offers irrigation potential for horticultural production, though irrigation infrastructure remains limited. Small-scale irrigation schemes have been developed in some locations but remain insufficient relative to potential.
 
 ## Extension Support
 
@@ -35,7 +35,7 @@ Soil conservation and water harvesting support horticultural development. Drip i
 - [[Siaya Water]]
 - [[Siaya Climate]]
 - [[Siaya Women]]
-- [[../../Luo/Luo Farming Practices|Luo Farming Practices]]
+- [[Luo Farming Practices|Luo Farming Practices]]
 - [[Siaya Land Issues]]
 
 ## Sources

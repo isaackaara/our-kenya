@@ -9,7 +9,7 @@ Mount Elgon is central to Sabaot cultural identity and oral history. The mountai
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Mount_Elgon
 2. https://www.kws.go.ke/page/mount-elgon-national-park

@@ -7,7 +7,7 @@ Controversial oath administered to Kikuyu elites after Tom Mboya's assassination
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Oathing and Kikuyu Solidarity]]
+- [[Oathing and Kikuyu Solidarity]]
 
 ## Sources
 *To be added*

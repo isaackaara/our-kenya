@@ -1,20 +1,20 @@
-Kisumu's food culture reflects its location on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] and its [[../../Luo/Luo|Luo]] cultural heritage. The cuisine features fresh fish, grains, vegetables, and traditional Luo food preparations.
+Kisumu's food culture reflects its location on [[Lake Victoria Kenya|Lake Victoria]] and its [[Luo|Luo]] cultural heritage. The cuisine features fresh fish, grains, vegetables, and traditional Luo food preparations.
 
 ## Omena
 
-Omena refers to small, sardine-like fish caught in [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]. Omena is a staple protein source for Kisumu residents and is prepared dried, fried, or cooked in various ways. Omena is eaten with ugali (maize porridge), rice, or other grains. The fish is affordable and nutritious.
+Omena refers to small, sardine-like fish caught in [[Lake Victoria Kenya|Lake Victoria]]. Omena is a staple protein source for Kisumu residents and is prepared dried, fried, or cooked in various ways. Omena is eaten with ugali (maize porridge), rice, or other grains. The fish is affordable and nutritious.
 
 ## Ugali
 
-Ugali, a maize porridge staple in East Africa, is central to [[../../Luo/Luo|Luo]] cuisine. Ugali provides carbohydrate energy and is eaten with protein (fish, meat, beans) and vegetable accompaniments.
+Ugali, a maize porridge staple in East Africa, is central to [[Luo|Luo]] cuisine. Ugali provides carbohydrate energy and is eaten with protein (fish, meat, beans) and vegetable accompaniments.
 
 ## Fresh Fish
 
-Fresh fish from [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] is a primary protein source. Fish is prepared grilled, fried, boiled, or cooked in sauces. Fish availability and affordability make it a dietary staple.
+Fresh fish from [[Lake Victoria Kenya|Lake Victoria]] is a primary protein source. Fish is prepared grilled, fried, boiled, or cooked in sauces. Fish availability and affordability make it a dietary staple.
 
 ## Vegetables and Greens
 
-Local vegetables including leafy greens (sukuma wiki), okra, tomatoes, onions, and others feature in [[../../Luo/Luo|Luo]] cuisine. Gardens and markets provide vegetables for household consumption.
+Local vegetables including leafy greens (sukuma wiki), okra, tomatoes, onions, and others feature in [[Luo|Luo]] cuisine. Gardens and markets provide vegetables for household consumption.
 
 ## Fruits
 
@@ -46,7 +46,7 @@ Kisumu's markets are vibrant centers of food trade. Fish markets, vegetable mark
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

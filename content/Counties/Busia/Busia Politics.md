@@ -10,7 +10,7 @@ Presidential, gubernatorial, and parliamentary elections occur in five-year cycl
 ## See Also
 
 [[../../Busia/Busia|Busia County]]
-[[../../Busia/Busia Politics|Politics]]
+[[Busia Politics|Politics]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/politics/busia
 2. https://www.iebc.or.ke/electoral-data

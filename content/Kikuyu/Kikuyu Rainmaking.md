@@ -6,7 +6,7 @@ The arathi were male and female prophets who possessed spiritual insight and the
 
 ## The Ngorowe Ceremony
 
-The ngorowe was a primary rainmaking ritual performed during severe droughts. The ceremony involved sacrifices of livestock (particularly fattened rams or goats), with blood and smoke offered at sacred sites. Elders would kill the sacrificial animal, and the roasted meat's smoke would be directed toward [[../Conservation/Mount Kenya National Park|Mount Kenya]] and the sky, symbolically offering the feast to Ngai to attract rain clouds.
+The ngorowe was a primary rainmaking ritual performed during severe droughts. The ceremony involved sacrifices of livestock (particularly fattened rams or goats), with blood and smoke offered at sacred sites. Elders would kill the sacrificial animal, and the roasted meat's smoke would be directed toward [[Mount Kenya National Park|Mount Kenya]] and the sky, symbolically offering the feast to Ngai to attract rain clouds.
 
 ## Sacred Sites
 

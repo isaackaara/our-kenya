@@ -1,4 +1,4 @@
-[[../Conservation/Lake Victoria Kenya|Lake Victoria]] fish trade represents one of the most economically significant sectors in Luo Nyanza, generating livelihoods for tens of thousands and connecting the region to national and international markets.
+[[Lake Victoria Kenya|Lake Victoria]] fish trade represents one of the most economically significant sectors in Luo Nyanza, generating livelihoods for tens of thousands and connecting the region to national and international markets.
 
 ## Geographic Centers and Landing Sites
 

@@ -17,8 +17,8 @@ Kisii County is one of Kenya's most economically active regions in western Kenya
 - [[Kisii Tea Industry|Tea Industry]]
 - [[Kisii Soapstone|Soapstone Carving]]
 - [[Kisii Agriculture|Agriculture]]
-- [[../../Luo/Luo|Luo People]] (neighboring ethnic group)
-- [[../../Kisii/Kisii|Kisii Ethnic Vertical]]
+- [[Luo|Luo People]] (neighboring ethnic group)
+- [[Kisii|Kisii Ethnic Vertical]]
 - [[Kisii Politics|County Politics]]
 
 ## 30 Key Notes in This Vertical

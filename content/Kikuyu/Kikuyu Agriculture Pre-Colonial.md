@@ -7,7 +7,7 @@ Pre-colonial Kikuyu agricultural practices and farming systems.
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu Horticulture]]
+- [[Kikuyu Horticulture]]
 
 ## Sources
 *To be added*

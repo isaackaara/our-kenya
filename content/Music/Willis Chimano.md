@@ -1,4 +1,4 @@
-Willis Chimano is a vocalist, visual artist, and the creative conscience of [[Music/Sauti Sol|Sauti Sol]]. His voice, rich and capable of both tenderness and power, carried some of the band's most memorable melodies. But his importance to Sauti Sol extended far beyond singing. Chimano brought a visual intelligence to the band that shaped how they were perceived, how they moved on stage, how they existed as a cultural force. He studied fine art deliberately, thinking about color and composition. That training informed the band's aesthetic choices, their music videos, and his public presentation. Chimano understood that in the 2010s, music was image and identity as much as sound.
+Willis Chimano is a vocalist, visual artist, and the creative conscience of [[Sauti Sol|Sauti Sol]]. His voice, rich and capable of both tenderness and power, carried some of the band's most memorable melodies. But his importance to Sauti Sol extended far beyond singing. Chimano brought a visual intelligence to the band that shaped how they were perceived, how they moved on stage, how they existed as a cultural force. He studied fine art deliberately, thinking about color and composition. That training informed the band's aesthetic choices, their music videos, and his public presentation. Chimano understood that in the 2010s, music was image and identity as much as sound.
 
 His fashion identity became part of the band's signature. Chimano wore color and texture distinctly his own, understanding visual presentation as artistic expression. He was claiming space through how he looked, how he moved, what he wore.
 
@@ -9,9 +9,9 @@ After Sauti Sol's 2023 hiatus, Chimano launched "Chimano the Human," a solo proj
 Chimano's role within Sauti Sol was unique because he was the member most willing to be visibly, unapologetically himself. In a band where each member had distinct gifts, Chimano's gift was vision: the ability to imagine how something could look and feel, then make that imagination real. His vulnerability, his willingness to claim space for his identity, his refusal to conform to what the industry expected of African musicians, that defined his contribution. He didn't just sing for Sauti Sol. He helped the band become the kind of cultural force that could inspire people to imagine different possibilities for themselves.
 
 ## See Also
-- [[Music/Sauti Sol|Sauti Sol]]
-- [[Music/Bien-Aime Baraza|Bien-Aime Baraza]]
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Sauti Sol|Sauti Sol]]
+- [[Bien-Aime Baraza|Bien-Aime Baraza]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 
 ## Sources
 1. "Willis Chimano," Wikipedia, accessed March 2026

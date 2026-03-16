@@ -17,7 +17,7 @@ The contrast between Mandela's approach to truth and reconciliation and Moi's av
 ## See Also
 [[Kenya/Foreign Policy]]
 [[Moi Foreign Policy]]
-[[Nelson Mandela/Legacy]]
+[[Legacy]]
 [[Kenya/Truth and Reconciliation]]
 [[Moi and Uganda]]
 [[Moi Post-Presidency]]

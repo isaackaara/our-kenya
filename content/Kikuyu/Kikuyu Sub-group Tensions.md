@@ -10,7 +10,7 @@ The major Kikuyu sub-groups correspond to geographic regions with distinct chara
 
 - **Murang'a:** The central Kikuyu region, associated with the [[Mau Mau Uprising]] (Dedan Kimathi originated from Murang'a). Murang'a has a reputation for militant nationalism and connection to land rights movements.
 
-- **Kirinyaga:** The easternmost region, closer to [[../Conservation/Mount Kenya National Park|Mount Kenya]]. Kirinyaga is often viewed as more conservative and traditional. The region produces tea and has developed somewhat differently from other Kikuyu areas.
+- **Kirinyaga:** The easternmost region, closer to [[Mount Kenya National Park|Mount Kenya]]. Kirinyaga is often viewed as more conservative and traditional. The region produces tea and has developed somewhat differently from other Kikuyu areas.
 
 ## Historical Origins of Tension
 

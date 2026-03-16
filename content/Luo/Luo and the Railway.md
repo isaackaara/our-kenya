@@ -2,7 +2,7 @@ The Uganda Railway, completed from Mombasa to [[../Counties/Kisumu/Kisumu County
 
 ## The Railway Terminus at Kisumu
 
-The Uganda Railway was constructed beginning in 1896, with the goal of reaching the interior of the Uganda Protectorate. The railway was a major feat of imperial engineering, spanning approximately 580 miles from the Indian Ocean port of Mombasa to the eastern shore of [[../Conservation/Lake Victoria Kenya|Lake Victoria]]. The line reached Kisumu (then called Port Florence) on December 20, 1901, making it the terminus of the railway system.
+The Uganda Railway was constructed beginning in 1896, with the goal of reaching the interior of the Uganda Protectorate. The railway was a major feat of imperial engineering, spanning approximately 580 miles from the Indian Ocean port of Mombasa to the eastern shore of [[Lake Victoria Kenya|Lake Victoria]]. The line reached Kisumu (then called Port Florence) on December 20, 1901, making it the terminus of the railway system.
 
 The choice of Kisumu as the terminus was significant. Located on Lake Victoria, Kisumu served as a transshipment point where goods from Uganda and the interior could be loaded onto steamships for transport across the lake. For the British imperial project, Kisumu became the gateway through which resources (ivory, hides, cotton, and other commodities) from Uganda and the East African interior could be extracted and shipped to coastal ports for export to Britain.
 

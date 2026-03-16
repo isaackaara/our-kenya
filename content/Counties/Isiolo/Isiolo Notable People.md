@@ -22,7 +22,7 @@ Many notable Isiolo people migrate to urban centres for employment and education
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Notable People|Notable People]]
+[[Isiolo Notable People|Notable People]]
 ## Sources
 
 1. Adamson, J. (1960). Born Free: A Lioness of Two Worlds. Pantheon Books.

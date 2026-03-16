@@ -18,7 +18,7 @@ The 2017-2018 invasion represented military phase of conflict. Armed herders con
 
 ## Community Divisions
 
-Ethnic divisions reinforce conflict patterns. [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Maasai/Maasai|Maasai]], [[../../Samburu/Samburu|Samburu]], Pokot, and Turkana communities have divergent interests. Elite interests within communities complicate unified positions. Community leadership has sometimes mobilized ethnic grievances for political purposes.
+Ethnic divisions reinforce conflict patterns. [[Kikuyu|Kikuyu]], [[Maasai|Maasai]], [[Samburu|Samburu]], Pokot, and Turkana communities have divergent interests. Elite interests within communities complicate unified positions. Community leadership has sometimes mobilized ethnic grievances for political purposes.
 
 ## Conflict Resolution Efforts
 
@@ -36,11 +36,11 @@ Conflict reduction depends on addressing land tenure questions. Climate change m
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

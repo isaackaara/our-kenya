@@ -1,4 +1,4 @@
-The Kenya Emergency (1952-1960) was a period of armed conflict between British colonial forces and Mau Mau combatants seeking to end British colonial rule. While the Mau Mau movement was primarily a Kikuyu uprising based in the Central Highlands, the Kenya Emergency affected all of Kenya, including western Kenya where the Luhya reside. The Luhya experience of the Emergency differed substantially from [[../Kikuyu/Kikuyu|Kikuyu]] experience, reflecting their limited involvement in the Mau Mau organization and their distinct relationship with colonialism.
+The Kenya Emergency (1952-1960) was a period of armed conflict between British colonial forces and Mau Mau combatants seeking to end British colonial rule. While the Mau Mau movement was primarily a Kikuyu uprising based in the Central Highlands, the Kenya Emergency affected all of Kenya, including western Kenya where the Luhya reside. The Luhya experience of the Emergency differed substantially from [[Kikuyu|Kikuyu]] experience, reflecting their limited involvement in the Mau Mau organization and their distinct relationship with colonialism.
 
 ## The Mau Mau as a Kikuyu Movement
 
@@ -56,18 +56,18 @@ When Kenya moved toward independence in the late 1950s and early 1960s, the Luhy
 
 ## Contrast with Other Communities
 
-The Luhya Emergency experience contrasted with that of other communities. The Kikuyu, as the primary Mau Mau base, experienced the Emergency most severely, with mass detention, military operations, and severe disruption of social and economic life. The Luo, while not centrally involved in Mau Mau, had produced nationalist political leaders who negotiated Kenya's independence. The Luhya occupied a middle position, neither experiencing the trauma of the Kikuyu nor producing the nationalist leadership of groups like [[../Luo/Luo|Luo]].
+The Luhya Emergency experience contrasted with that of other communities. The Kikuyu, as the primary Mau Mau base, experienced the Emergency most severely, with mass detention, military operations, and severe disruption of social and economic life. The Luo, while not centrally involved in Mau Mau, had produced nationalist political leaders who negotiated Kenya's independence. The Luhya occupied a middle position, neither experiencing the trauma of the Kikuyu nor producing the nationalist leadership of groups like [[Luo|Luo]].
 
 
 ## See Also
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

@@ -20,7 +20,7 @@ Pastoralist women face particular challenges balancing pastoral livelihoods with
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Women|Women]]
+[[Marsabit Women|Women]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: Gender and Inequality Data, 2023. https://www.knbs.or.ke/

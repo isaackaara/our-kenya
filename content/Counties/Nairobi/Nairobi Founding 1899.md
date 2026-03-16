@@ -1,4 +1,4 @@
-In 1899, the Uganda Railway selected a site on a swampy [[../../Maasai/Maasai|Maasai]] watering hole called "Enkare Nairobi" (meaning "cold water" in Maasai language) as the location for a railway depot and supply depot for the extension of the rail line westward. The site was chosen for its elevation (1,795 meters), reliable water supply, and central position on the rail route between the coast and [[../../Conservation/Lake Victoria Kenya|Lake Victoria]].
+In 1899, the Uganda Railway selected a site on a swampy [[Maasai|Maasai]] watering hole called "Enkare Nairobi" (meaning "cold water" in Maasai language) as the location for a railway depot and supply depot for the extension of the rail line westward. The site was chosen for its elevation (1,795 meters), reliable water supply, and central position on the rail route between the coast and [[Lake Victoria Kenya|Lake Victoria]].
 
 ## The Early Colonial Town
 
@@ -14,8 +14,8 @@ By 1905, Nairobi was incorporated as a municipal council with European colonists
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

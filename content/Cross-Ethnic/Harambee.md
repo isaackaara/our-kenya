@@ -23,4 +23,4 @@ The harambee philosophy represents a genuine expression of African communalism a
 
 ## Related
 
-[[../Cross-Ethnic/Nairobi as Melting Pot]] | [[../Cross-Ethnic/The Kenya We Share]] | [[../Legacy/The Education Arms Race]]
+[[Nairobi as Melting Pot]] | [[The Kenya We Share]] | [[The Education Arms Race]]

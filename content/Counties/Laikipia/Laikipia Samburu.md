@@ -34,7 +34,7 @@ Pastoral diets have traditionally provided nutrition. However, drought and econo
 
 ## See Also
 
-[[../../Samburu/Samburu]]
+[[Samburu]]
 
 ## Sources
 

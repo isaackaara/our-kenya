@@ -1,4 +1,4 @@
-Nyandarua was part of the White Highlands, the exclusive European settler zone during colonialism. The fertile Aberdare highland slopes attracted European settlers seeking agricultural land. Colonial authorities alienated the highlands from [[../../Kikuyu/Kikuyu|Kikuyu]] communities, confining them to crowded reserves. European settler farms developed commercial wheat and dairy production. Colonial administration, land policies, and labor systems fundamentally shaped Nyandarua's development trajectory.
+Nyandarua was part of the White Highlands, the exclusive European settler zone during colonialism. The fertile Aberdare highland slopes attracted European settlers seeking agricultural land. Colonial authorities alienated the highlands from [[Kikuyu|Kikuyu]] communities, confining them to crowded reserves. European settler farms developed commercial wheat and dairy production. Colonial administration, land policies, and labor systems fundamentally shaped Nyandarua's development trajectory.
 
 ## European Settlement
 
@@ -18,7 +18,7 @@ Colonial taxation forced Africans into wage labor. Tax collection served both re
 
 ## Resistance and Conflict
 
-Kikuyu resistance to colonial rule escalated over time. [[../../Kikuyu/[[../../Kikuyu/Mau Mau Uprising|Mau Mau]] Uprising|Mau Mau]] uprising (1952-1960) had significant participation from Nyandarua communities. Rebellion targeted colonial authority and settler privilege. British counterinsurgency campaigns suppressed the rebellion through military force and detention camps.
+Kikuyu resistance to colonial rule escalated over time. [[Mau Mau Uprising|Mau Mau]] Uprising|Mau Mau]] uprising (1952-1960) had significant participation from Nyandarua communities. Rebellion targeted colonial authority and settler privilege. British counterinsurgency campaigns suppressed the rebellion through military force and detention camps.
 
 ## Land Questions
 
@@ -32,11 +32,11 @@ Mau Mau uprising and subsequent negotiations led to Kenya's independence in 1964
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

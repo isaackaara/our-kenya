@@ -1,6 +1,6 @@
 The [[Kenyan Constitution (2010)|2010 constitution]] introduced devolution, creating 47 county governments with elected governors and county assemblies. This transformation decentralized power and created new sites of political competition. Kikuyu-dominated counties became centers of Kikuyu political power and resource control.
 
-## [[../Counties/Kirinyaga/Kirinyaga County|Kirinyaga County]]
+## [[Kirinyaga County|Kirinyaga County]]
 
 Kirinyaga county (centered on Kerugoya) covers the easternmost Kikuyu region and includes significant tea-growing areas.
 
@@ -8,7 +8,7 @@ Kirinyaga county (centered on Kerugoya) covers the easternmost Kikuyu region and
 
 - **[[Anne Waiguru]] (2017-present):** Waiguru became Kikuyu's and Kenya's first female governor when she won election in 2017. She has been re-elected, becoming a prominent political figure in Kikuyu politics. Her governorship challenged gender assumptions about leadership and demonstrated female political viability.
 
-## [[../Counties/Nyeri/Nyeri County|Nyeri County]]
+## [[Nyeri County|Nyeri County]]
 
 Nyeri county covers the historical heartland of Nyeri region.
 
@@ -16,7 +16,7 @@ Nyeri county covers the historical heartland of Nyeri region.
 
 Nyeri politics reflects the region's educational and professional class orientation, with educated professionals dominating county politics.
 
-## [[../Counties/Murang'a/Murang'a County|Murang'a County]]
+## [[Murang'a County|Murang'a County]]
 
 Murang'a county covers the central Kikuyu region, historically associated with Mau Mau and land rights.
 
@@ -24,7 +24,7 @@ Murang'a county covers the central Kikuyu region, historically associated with M
 
 - **Irungu Kang'ata:** Emerged as Murang'a senator and political figure, representing the county in the Senate and engaging in national politics.
 
-## [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+## [[Kiambu County|Kiambu County]]
 
 Kiambu county covers the southernmost Kikuyu region, closest to Nairobi, and includes significant business and commercial activity.
 

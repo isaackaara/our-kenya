@@ -1,6 +1,6 @@
 Marsabit County is Kenya's largest county by area (approximately 70,961 square kilometers, about 12% of Kenya's total land area) but remains one of the least populated, with approximately 460,000 inhabitants. This vast arid and semi-arid region in northern Kenya borders Ethiopia and contains some of Kenya's most challenging terrain alongside remarkable ecological and cultural features.
 
-The county encompasses the Chalbi Desert, one of the few true deserts in Kenya, occupying the lowland zones. [[../../Conservation/Lake Turkana|Lake Turkana]]'s eastern shore forms the county's eastern boundary. Mount Marsabit, a forested volcanic mountain rising dramatically from the surrounding desert, serves as the county headquarters and creates a unique oasis environment.
+The county encompasses the Chalbi Desert, one of the few true deserts in Kenya, occupying the lowland zones. [[Lake Turkana|Lake Turkana]]'s eastern shore forms the county's eastern boundary. Mount Marsabit, a forested volcanic mountain rising dramatically from the surrounding desert, serves as the county headquarters and creates a unique oasis environment.
 
 Marsabit's ethnic composition reflects its geographical position at the intersection of multiple pastoral systems. Borana, Gabra, Rendille, Turkana, and other communities inhabit different zones, each adapted to the county's varied environmental conditions. This diversity creates rich cultural traditions alongside occasional tensions over resource access.
 

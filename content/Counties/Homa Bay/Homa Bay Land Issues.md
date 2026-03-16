@@ -34,8 +34,8 @@ Access to Lake Victoria shoreline for fishing and water use creates land-related
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Land Commission. (2020). Land Policy Review. https://www.landcommission.go.ke/

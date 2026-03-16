@@ -1,4 +1,4 @@
-[[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes contain sacred and culturally significant sites important to [[../../Kikuyu/Kikuyu|Kikuyu]] traditions and practices. These sites reflect Kikuyu spiritual beliefs and historical experiences. Some sites have been protected while others face pressure from agricultural expansion and development. Cultural preservation efforts attempt to maintain knowledge and respect for these important places.
+[[Mount Kenya National Park|Mount Kenya]]'s slopes contain sacred and culturally significant sites important to [[Kikuyu|Kikuyu]] traditions and practices. These sites reflect Kikuyu spiritual beliefs and historical experiences. Some sites have been protected while others face pressure from agricultural expansion and development. Cultural preservation efforts attempt to maintain knowledge and respect for these important places.
 
 ## Sacred Groves
 
@@ -18,7 +18,7 @@ Kikuyu burial sites on Mount Kenya contain remains of ancestors. Burial practice
 
 ## Colonial Period Sites
 
-Sites related to colonial period history exist throughout Kirinyaga. Locations of colonial administrative centers and forts exist. Sites of rebellion activity during [[../../Kikuyu/[[../../Kikuyu/Mau Mau Uprising|Mau Mau]] Uprising|Mau Mau]] uprising are remembered. War memorials and cemeteries mark colonial period violence. These sites maintain historical memory of colonial experiences.
+Sites related to colonial period history exist throughout Kirinyaga. Locations of colonial administrative centers and forts exist. Sites of rebellion activity during [[Mau Mau Uprising|Mau Mau]] Uprising|Mau Mau]] uprising are remembered. War memorials and cemeteries mark colonial period violence. These sites maintain historical memory of colonial experiences.
 
 ## Missionary and Religious Sites
 
@@ -32,11 +32,11 @@ Memorials commemorate Mau Mau fighters and independence struggle participants. I
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

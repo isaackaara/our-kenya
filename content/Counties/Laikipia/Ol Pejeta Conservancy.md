@@ -30,7 +30,7 @@ Ol Pejeta's success in rhino conservation is internationally recognized. Conserv
 
 ## See Also
 
-[[../../Conservation/Rhino Conservation Kenya]]
+[[Rhino Conservation Kenya]]
 
 ## Sources
 

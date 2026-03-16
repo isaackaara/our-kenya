@@ -1,4 +1,4 @@
-Kisumu's climate is hot and humid year-round, characteristic of tropical lakeside locations. The city's location on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] creates a warm, humid environment with substantial annual rainfall.
+Kisumu's climate is hot and humid year-round, characteristic of tropical lakeside locations. The city's location on [[Lake Victoria Kenya|Lake Victoria]] creates a warm, humid environment with substantial annual rainfall.
 
 ## Temperature
 
@@ -18,7 +18,7 @@ Seasons are primarily distinguished by rainfall patterns rather than temperature
 
 ## Lake Victoria Influence
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] moderates climate and influences local weather patterns. The large water body affects wind patterns, moisture, and local rainfall.
+[[Lake Victoria Kenya|Lake Victoria]] moderates climate and influences local weather patterns. The large water body affects wind patterns, moisture, and local rainfall.
 
 ## Malaria Risk
 
@@ -46,7 +46,7 @@ Kisumu residents adapt their activities to seasonal patterns, with adjustments t
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

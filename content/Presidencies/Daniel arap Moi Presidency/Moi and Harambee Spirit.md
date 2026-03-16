@@ -14,7 +14,7 @@ Despite the Nyayo philosophy's intended supersession of harambee, the concept re
 
 ## See Also
 [[Moi Nyayo Philosophy]]
-[[Jomo Kenyatta/Legacy]]
+[[Legacy]]
 [[Kenya/National Identity]]
 [[Moi and Harambee]]
 [[Kenya/Development Philosophy]]

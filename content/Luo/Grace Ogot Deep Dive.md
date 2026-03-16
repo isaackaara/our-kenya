@@ -2,7 +2,7 @@ Grace Emily Ogot (15 May 1930 – 18 March 2015) was a nurse, broadcaster, write
 
 ## Life and Early Career
 
-Grace Ogot was born in [[../Counties/Siaya/Siaya County|Siaya County]] in Luo heartland. She trained as a nurse and worked in Kenya and abroad. She also worked in broadcasting, particularly with Kenya's radio and television services, bringing her into contact with media and public communication.
+Grace Ogot was born in [[Siaya County|Siaya County]] in Luo heartland. She trained as a nurse and worked in Kenya and abroad. She also worked in broadcasting, particularly with Kenya's radio and television services, bringing her into contact with media and public communication.
 
 Ogot was related to Jaramogi Oginga Odinga: she was his niece, placing her within Kenya's most prominent Luo political family. This family connection shaped her networks and her understanding of Luo history and politics.
 

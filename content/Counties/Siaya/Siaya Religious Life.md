@@ -1,4 +1,4 @@
-[[Siaya County]] represents a predominantly Christian region with deep missionary history and contemporary Christian institutional presence. Christian faith coexists with traditional [[../../Luo/Luo|Luo]] spiritual beliefs and practices, creating a syncretic religious landscape.
+[[Siaya County]] represents a predominantly Christian region with deep missionary history and contemporary Christian institutional presence. Christian faith coexists with traditional [[Luo|Luo]] spiritual beliefs and practices, creating a syncretic religious landscape.
 
 ## Christian Denominations
 
@@ -18,7 +18,7 @@ Kenyan Christianity incorporates indigenous elements, creating distinctive theol
 
 ## Traditional Spiritual Practices
 
-Traditional [[../../Luo/Luo Religion and Cosmology|Luo spiritual beliefs]] persist alongside [[../../Luo/Luo Christianity|Christianity]], with some individuals maintaining belief in ancestral spirits and traditional healers. Witchcraft accusations remain present despite Christian teachings. Sacred groves and traditional ritual sites maintain spiritual significance for some community members.
+Traditional [[Luo Religion and Cosmology|Luo spiritual beliefs]] persist alongside [[Luo Christianity|Christianity]], with some individuals maintaining belief in ancestral spirits and traditional healers. Witchcraft accusations remain present despite Christian teachings. Sacred groves and traditional ritual sites maintain spiritual significance for some community members.
 
 ## Religious Conflict and Coexistence
 
@@ -30,10 +30,10 @@ Churches address social issues including sexual morality, alcohol consumption, a
 
 ## See Also
 
-- [[../../Luo/Luo Christianity|Luo Christianity]]
-- [[../../Luo/Luo Religion and Cosmology|Luo Religion and Cosmology]]
-- [[../../Luo/Luo Independent Churches|Luo Independent Churches]]
-- [[../../Luo/Legio Maria Deep Dive|Legio Maria]]
+- [[Luo Christianity|Luo Christianity]]
+- [[Luo Religion and Cosmology|Luo Religion and Cosmology]]
+- [[Luo Independent Churches|Luo Independent Churches]]
+- [[Legio Maria Deep Dive|Legio Maria]]
 - [[Siaya Cultural Heritage]]
 - [[Siaya Colonial History]]
 - [[Siaya HIV Crisis]]

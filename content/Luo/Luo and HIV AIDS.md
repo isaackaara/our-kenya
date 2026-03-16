@@ -4,7 +4,7 @@ Nyanza and Siaya counties, the heartland of Luo territory, have historically rec
 
 The origins of elevated HIV prevalence in Nyanza and Siaya are debated among epidemiologists and social scientists. Several factors have been identified by researchers:
 
-Geographic factors: The location of [[../Conservation/Lake Victoria Kenya|Lake Victoria]] and trade routes made Nyanza an economic hub historically. This economic centrality facilitated labor migration and mobility, potentially creating networks for HIV transmission.
+Geographic factors: The location of [[Lake Victoria Kenya|Lake Victoria]] and trade routes made Nyanza an economic hub historically. This economic centrality facilitated labor migration and mobility, potentially creating networks for HIV transmission.
 
 Sexual behavior patterns: Some researchers have attributed elevated prevalence to patterns of multiple concurrent partnerships and cross-generational sex (older men with younger women), citing Luo cultural practices, though this attribution has been criticized as culturally essentialist.
 

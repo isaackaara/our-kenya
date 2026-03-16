@@ -36,7 +36,7 @@ By the late 1970s, when Kenyatta died, political patronage was so deeply embedde
 - [[GEMA - Gikuyu Embu Meru Association]]
 - [[Mbiyu Koinange]]
 - [[Provincial Administration Kenyatta Era]]
-- [[Corruption/Kenyatta Era Corruption]]
+- [[Kenyatta Era Corruption]]
 
 ## Sources
 1. Widner, Jennifer A. *The Rise of a Party-State in Kenya: From "Harambee!" to "Nyayo!"*. University of California Press, 1992. https://www.ucpress.edu/book/9780520073937/the-rise-of-a-party-state-in-kenya

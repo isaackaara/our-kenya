@@ -2,7 +2,7 @@ Kisumu stands as Kenya's third-largest city and the undisputed cultural capital 
 
 ## Founding and Colonial Origins
 
-The British established Kisumu in 1901 as the terminus of the Uganda Railway. The completion of the railway connection transformed it from a minor trading post into a strategic port city. The British choice reflected imperial interests in controlling [[../Conservation/Lake Victoria Kenya|Lake Victoria]] trade routes and establishing a gateway to Uganda.
+The British established Kisumu in 1901 as the terminus of the Uganda Railway. The completion of the railway connection transformed it from a minor trading post into a strategic port city. The British choice reflected imperial interests in controlling [[Lake Victoria Kenya|Lake Victoria]] trade routes and establishing a gateway to Uganda.
 
 As a port city, Kisumu became an entrepot for goods moving between the colony and Uganda. The harbor facilitated export of agricultural products and import of manufactured goods. This commercial importance attracted Indian merchants, European traders, and local merchant communities, establishing Kisumu's multicultural character early.
 

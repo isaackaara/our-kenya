@@ -10,7 +10,7 @@ The region experiences two rainy seasons: the long rains (April to June) and the
 
 ## People and Culture
 
-The dominant population of Wajir County is [[../../Somali/Somali|Somali]], with the Ogaden clan being the most prominent group, though Degodia and other Somali clans also inhabit the region. The Somali people of Wajir maintain deep pastoral traditions centered on livestock herding, particularly camels, which have adapted well to the arid environment. Pastoral livelihoods form the backbone of the economy and define the social structure and cultural identity of the region.
+The dominant population of Wajir County is [[Somali|Somali]], with the Ogaden clan being the most prominent group, though Degodia and other Somali clans also inhabit the region. The Somali people of Wajir maintain deep pastoral traditions centered on livestock herding, particularly camels, which have adapted well to the arid environment. Pastoral livelihoods form the backbone of the economy and define the social structure and cultural identity of the region.
 
 Somali culture in Wajir emphasizes hospitality, oral traditions, Islamic faith, and strong clan structures. The community maintains historical trade networks that extend across borders into Somalia and Ethiopia, creating a cross-border economic and cultural sphere that often transcends national boundaries.
 
@@ -67,7 +67,7 @@ This vertical contains 30 detailed notes covering Wajir County's geography, peop
 
 ## See Also
 
-- [[../../Somali/Somali|Somali]]
+- [[Somali|Somali]]
 - [[../../Somali/Somali Clans|Somali Clans]]
 - [[Wajir Town]]
 - [[Wajir Pastoralism]]

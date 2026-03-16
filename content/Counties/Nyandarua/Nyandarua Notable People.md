@@ -1,4 +1,4 @@
-Several prominent Kenyans have come from Nyandarua County, contributing to politics, business, education, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Nyandarua's agricultural base and [[../../Kikuyu/Kikuyu|Kikuyu]] prominence have produced numerous leaders. Political families sometimes maintain influence across generations.
+Several prominent Kenyans have come from Nyandarua County, contributing to politics, business, education, and other fields. These individuals have shaped Kenyan development and influenced national affairs. Nyandarua's agricultural base and [[Kikuyu|Kikuyu]] prominence have produced numerous leaders. Political families sometimes maintain influence across generations.
 
 ## Political Leaders
 
@@ -24,11 +24,11 @@ Community activists have advocated for development and rights. Cooperative leade
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

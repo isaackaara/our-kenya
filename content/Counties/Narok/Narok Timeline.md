@@ -2,7 +2,7 @@ Key dates and events in Narok County's history from pre-colonial times through 2
 
 ## Pre-Colonial and Early Colonial Period
 
-1880s-1890s: [[../../Maasai/Maasai|Maasai]] pastoral territories encompass vast areas of southern Kenya including present-day Narok region. Colonial contact occurs through traders and explorers.
+1880s-1890s: [[Maasai|Maasai]] pastoral territories encompass vast areas of southern Kenya including present-day Narok region. Colonial contact occurs through traders and explorers.
 
 1904-1911: Maasai Agreements formalize Maasai territorial boundaries and establish reserves, alienating previously controlled lands. Land areas are allocated for European settlement and colonial administration.
 
@@ -49,8 +49,8 @@ Key dates and events in Narok County's history from pre-colonial times through 2
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

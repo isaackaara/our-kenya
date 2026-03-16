@@ -18,10 +18,10 @@ Supply chain vulnerabilities emerged as urban food demand concentrated purchasin
 
 ## See Also
 
-[[Food and Agriculture/Food Markets Distribution]]
-[[Food and Agriculture/Market Infrastructure]]
-[[Food and Agriculture/School Feeding]]
-[[Food and Agriculture/Street Food Culture]]
+[[Food Markets Distribution]]
+[[Market Infrastructure]]
+[[School Feeding]]
+[[Street Food Culture]]
 [[Labour/Urban Food Sector Employment]]
 [[Poverty/Urban Food Security]]
 

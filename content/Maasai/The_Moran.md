@@ -6,7 +6,7 @@ title: The Moran
 
 The Maasai moran (ilmurran, warrior) is the iconic image that defines the Maasai globally. Red ochre covering the body, intricate braids in the hair, a red shuka (cloth) worn loosely, and a long steel spear in hand. The moran is fierce, fearless, beautiful, and martial.
 
-This image sells tourism, fashion, and global imaginaries of Africa. A moran can earn money at [[../Conservation/Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] posing for tourist photographs. The global "Maasai warrior" identity is commodified and packaged.
+This image sells tourism, fashion, and global imaginaries of Africa. A moran can earn money at [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]] posing for tourist photographs. The global "Maasai warrior" identity is commodified and packaged.
 
 ## The Actual Role: Protection and Community Defense
 
@@ -29,10 +29,10 @@ The transition is culturally understood as a death and rebirth(the moran dies; t
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

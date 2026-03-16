@@ -1,4 +1,4 @@
-Livestock herding remains the traditional economic foundation of Kajiado [[../../Maasai/Maasai|Maasai]] communities, though contemporary pastoral systems face severe constraints from land loss, climate variability, and market pressures requiring adaptation and livelihood diversification strategies.
+Livestock herding remains the traditional economic foundation of Kajiado [[Maasai|Maasai]] communities, though contemporary pastoral systems face severe constraints from land loss, climate variability, and market pressures requiring adaptation and livelihood diversification strategies.
 
 Cattle ownership represents primary wealth and status indicator, with pastoral families managing mixed herds of cattle, goats, and sheep.
 
@@ -39,8 +39,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], 
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

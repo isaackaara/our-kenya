@@ -12,8 +12,8 @@ Pastoral youth training programs promote improved livestock production and manag
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/youth-challenges-west-pokot
 2. https://www.unicef.org/kenya/youth-employment

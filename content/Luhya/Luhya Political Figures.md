@@ -14,7 +14,7 @@ The Luhya have produced several major political figures and are represented in K
 
 ## The Fragmentation Pattern
 
-A consistent pattern in Luhya politics is that major figures compete against each other for leadership rather than uniting. Masinde Muliro, Moses Mudavadi, Kijana Wamalwa, and Musalia Mudavadi all sought or held positions of power, but rarely unified the Luhya community behind a single candidate or strategy. This contrasts with [[../Luo/Luo|Luo]] (who broadly united behind Oginga Odinga and later Raila Odinga) or [[../Kikuyu/Kikuyu|Kikuyu]] (who maintained coordinated political action despite internal differences)
+A consistent pattern in Luhya politics is that major figures compete against each other for leadership rather than uniting. Masinde Muliro, Moses Mudavadi, Kijana Wamalwa, and Musalia Mudavadi all sought or held positions of power, but rarely unified the Luhya community behind a single candidate or strategy. This contrasts with [[Luo|Luo]] (who broadly united behind Oginga Odinga and later Raila Odinga) or [[Kikuyu|Kikuyu]] (who maintained coordinated political action despite internal differences)
 
 ## Why No President?
 
@@ -32,9 +32,9 @@ Several factors explain Luhya absence from the presidency:
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

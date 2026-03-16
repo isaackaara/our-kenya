@@ -21,7 +21,7 @@ The Uhuru-Raila relationship's broader significance lies in what it reveals abou
 - [[Uhuru and William Ruto Fallout]]
 - [[Elections/2022 Presidential Election]]
 - [[Raila Odinga]]
-- [[Luo/Luo Political History]]
+- [[Luo Political History]]
 - [[Kikuyu/Kikuyu Political Power]]
 - [[Cross-Ethnic/Political Coalitions]]
 

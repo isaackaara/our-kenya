@@ -40,7 +40,7 @@ The Finance Bill protests (2023) saw Gen Z from all ethnic groups unite around s
 - [[The Running Phenomenon]]
 - [[Rift Valley Violence]]
 - [[Kalenjin and ICC]]
-- [[../Cross-Ethnic/Gen Z Kenya]]
+- [[Gen Z Kenya]]
 
 ## See Also
 

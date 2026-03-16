@@ -38,8 +38,8 @@ Sony Sugar represents a major economic enterprise in the region, affecting livel
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Sony Sugar Company. (2024). Company Information. https://sonysugar.co.ke/

@@ -38,8 +38,8 @@ Artisanal mining's informal nature complicates environmental regulation. Enforce
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Migori County. (2024). Mercury Reduction Efforts. https://migori.go.ke/

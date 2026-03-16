@@ -12,8 +12,8 @@ Healthcare professionals have provided services in pastoral health initiatives. 
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Category:People_from_West_Pokot_County
 2. https://www.standardmedia.co.ke/counties/article/2001234567/notable-people-west-pokot

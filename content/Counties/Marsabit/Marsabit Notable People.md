@@ -20,7 +20,7 @@ Many notable Marsabit people migrate to urban centres for employment and educati
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Notable People|Notable People]]
+[[Marsabit Notable People|Notable People]]
 ## Sources
 
 1. Kenya National Archives: Political Profiles of Marsabit Leaders and Public Figures. https://www.archives.go.ke/

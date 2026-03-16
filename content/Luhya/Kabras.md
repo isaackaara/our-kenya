@@ -1,4 +1,4 @@
-The Kabras are one of the larger sub-groups of the Luhya confederation, primarily located in [[../Counties/Kakamega/Kakamega County|Kakamega County]]. Traditionally settlement in the Malava area of the county near [[../Conservation/Kakamega Forest|Kakamega Forest]], the Kabras occupy a central place in western Kenya's cultural and economic landscape.
+The Kabras are one of the larger sub-groups of the Luhya confederation, primarily located in [[Kakamega County|Kakamega County]]. Traditionally settlement in the Malava area of the county near [[Kakamega Forest|Kakamega Forest]], the Kabras occupy a central place in western Kenya's cultural and economic landscape.
 
 ## Location and Geography
 
@@ -47,9 +47,9 @@ The Kabras remain primarily in Kakamega County and maintain strong cultural iden
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

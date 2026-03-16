@@ -19,7 +19,7 @@ Key features included:
 
 The colonial government viewed the arathi movement as subversive. In 1931, colonial administrative files labeled them as "false prophets" engaged in sedition. By the 1930s, many arathi were detained without trial, accused of collaborating with the Kikuyu Central Association and other anti-colonial organizations.
 
-Jomo Kenyatta wrote about the arathi in his ethnographic work "Facing [[../Conservation/Mount Kenya National Park|Mount Kenya]]," referring to them as watu wa Mungu (people of God) or arathi (prophets). His account, while sympathetic in some respects, noted their rejection of colonial authority.
+Jomo Kenyatta wrote about the arathi in his ethnographic work "Facing [[Mount Kenya National Park|Mount Kenya]]," referring to them as watu wa Mungu (people of God) or arathi (prophets). His account, while sympathetic in some respects, noted their rejection of colonial authority.
 
 ## Contemporary Presence
 

@@ -25,4 +25,4 @@ International football matches create moments when Kenyans of all ethnic groups 
 
 ## Related
 
-[[../Cross-Ethnic/Gor Mahia vs AFC Leopards]] | [[../Cross-Ethnic/The Running Phenomenon]] | [[../Cross-Ethnic/The Kenya We Share]]
+[[Gor Mahia vs AFC Leopards]] | [[The Running Phenomenon]] | [[The Kenya We Share]]

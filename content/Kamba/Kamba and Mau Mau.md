@@ -4,7 +4,7 @@ The Kamba participation in the Mau Mau Rebellion (1952-1960) remains complex and
 
 Some Mau Mau organizers extended recruitment efforts to non-Kikuyu areas, including Kamba territories. Kamba individuals, particularly those with Kikuyu connections or those sympathetic to anti-colonial resistance, could be oathed into the movement. The Mau Mau oath ceremonies used traditional oath-taking traditions (adapted from Kikuyu practice) to bind participants to secrecy and commitment to the rebellion.
 
-The Kamba oath tradition (*muma*) provided a cultural template for accepting Mau Mau oaths. The concept of binding oath, with supernatural consequences for breaking the oath, was familiar to Kamba understanding. Mau Mau oath-administrators adapted the oath-taking ceremonies to recruit Kamba, though Kamba participants remained a small minority compared to [[../Kikuyu/Kikuyu|Kikuyu]] core of the movement.
+The Kamba oath tradition (*muma*) provided a cultural template for accepting Mau Mau oaths. The concept of binding oath, with supernatural consequences for breaking the oath, was familiar to Kamba understanding. Mau Mau oath-administrators adapted the oath-taking ceremonies to recruit Kamba, though Kamba participants remained a small minority compared to [[Kikuyu|Kikuyu]] core of the movement.
 
 ## Colonial Countermeasures and Detention
 

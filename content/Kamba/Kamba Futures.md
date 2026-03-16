@@ -172,5 +172,5 @@ The answer will determine whether the next generation sees themselves as Kamba (
 1. Kalonzo, Musyoka. "Political Leadership and Ethnic Mobilization in Kenya," *East African Journal of Political Science*, Vol. 14, No. 3 (2023), https://www.eajps.org/kalonzo-2023
 2. Makau, John and Njue, Patricia. "Climate Change and Pastoral Livelihoods in Semi-Arid Kenya," *Environmental Research Letters*, Vol. 18, No. 4 (2023), article 045003, https://iopscience.iop.org/article/10.1088/1748-9326/acbd7a
 3. Musyoka, Grace. "The Kamba Carving Industry: Crisis and Prospects," *Journal of African Tourism Studies*, Vol. 8, No. 2 (2024), pages 45-68, https://www.afritouristjournal.org/
-4. Wanjiru, Samuel and Kamau, David. "Nairobi Sprawl and Land Pressure in [[../Counties/Machakos/Machakos County|Machakos County]]," *Urban Studies Review East Africa*, Vol. 22, No. 1 (2025), https://www.usrejournal.org/
+4. Wanjiru, Samuel and Kamau, David. "Nairobi Sprawl and Land Pressure in [[Machakos County|Machakos County]]," *Urban Studies Review East Africa*, Vol. 22, No. 1 (2025), https://www.usrejournal.org/
 5. Kimani, Beatrice. "Youth, Digital Culture, and Ethnic Identity in Contemporary Kenya," *Journal of African Studies*, Vol. 51, No. 4 (2025), pages 102-127, https://www.jstor.org/stable/jafrican2025

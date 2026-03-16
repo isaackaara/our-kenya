@@ -18,7 +18,7 @@ Inter-ethnic relationships between Gabra and neighbouring Borana and Rendille co
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Notable People|Notable People]]
+[[Marsabit Notable People|Notable People]]
 ## Sources
 
 1. Gufu, O. (1999). Pastoral Commoners and Market Elites: The Borana and Rendille of Northern Kenya. PhD dissertation, University of Uppsala.

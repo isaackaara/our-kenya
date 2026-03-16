@@ -1,4 +1,4 @@
-The Bukusu are the largest Luhya sub-group, concentrated in [[../Counties/Bungoma/Bungoma County|Bungoma County]] in northwestern Kenya. They are distinguished by their practice of male circumcision (imbalu), a public ceremony held every two years in August that is one of East Africa's most dramatic cultural events. Bukusu territory borders [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]] and has been a site of ongoing land conflicts with the Sabaot (a Kalenjin group) and internal Mosop/Bukusu tensions over grazing and forest rights.
+The Bukusu are the largest Luhya sub-group, concentrated in [[Bungoma County|Bungoma County]] in northwestern Kenya. They are distinguished by their practice of male circumcision (imbalu), a public ceremony held every two years in August that is one of East Africa's most dramatic cultural events. Bukusu territory borders [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]] and has been a site of ongoing land conflicts with the Sabaot (a Kalenjin group) and internal Mosop/Bukusu tensions over grazing and forest rights.
 
 ## Key Facts
 
@@ -22,9 +22,9 @@ For Bukusu, the imbalu ceremony is not merely a medical procedure but a public a
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

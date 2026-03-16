@@ -1,4 +1,4 @@
-Kakamega Forest is the last significant remnant of the Central African tropical rainforest ecosystem in Kenya, located in the heart of Luhya territory in [[../Counties/Kakamega/Kakamega County|Kakamega County]]. The forest covers approximately 238 square kilometers and contains exceptional biodiversity, including 16 bird species found nowhere else in Kenya and numerous endangered mammal species. The forest faces intense conservation challenges from population pressure, illegal logging, agricultural encroachment, and tensions between local community land use rights and fortress conservation approaches.
+Kakamega Forest is the last significant remnant of the Central African tropical rainforest ecosystem in Kenya, located in the heart of Luhya territory in [[Kakamega County|Kakamega County]]. The forest covers approximately 238 square kilometers and contains exceptional biodiversity, including 16 bird species found nowhere else in Kenya and numerous endangered mammal species. The forest faces intense conservation challenges from population pressure, illegal logging, agricultural encroachment, and tensions between local community land use rights and fortress conservation approaches.
 
 ## Key Facts
 
@@ -28,9 +28,9 @@ The relationship between Kakamega Forest conservation and Luhya communities is c
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

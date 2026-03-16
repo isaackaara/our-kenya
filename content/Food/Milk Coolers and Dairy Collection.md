@@ -16,9 +16,9 @@ By the late 20th century, milk cooler density had expanded substantially in prod
 
 ## See Also
 
-[[Food and Agriculture/Dairy Industry Development]]
-[[Food and Agriculture/Dairy Processing]]
-[[Food and Agriculture/Supply Chain Management]]
+[[Dairy Industry Development]]
+[[Dairy Processing]]
+[[Supply Chain Management]]
 [[Labour/Rural Employment in Dairy]]
 [[Women/Agricultural Production Roles]]
 [[Poverty/Smallholder Dairy Market Access]]

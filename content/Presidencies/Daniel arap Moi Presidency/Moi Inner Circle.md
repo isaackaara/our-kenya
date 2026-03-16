@@ -6,8 +6,8 @@ Daniel arap Moi's inner circle evolved over his 24 year presidency, reflecting s
 
 ## See Also
 [[Presidencies/Daniel arap Moi Presidency/Moi Presidency]]
-[[Political Movements/George Saitoti]]
-[[Corporate Kenya/Goldenberg Scandal]]
+[[George Saitoti]]
+[[Goldenberg Scandal]]
 
 ## Sources
 1. Hornsby, Charles. 'Kenya: A History Since Independence.' I.B. Tauris, 2012.

@@ -40,9 +40,9 @@ The county's economy is diverse, encompassing agriculture (wheat, maize, pyrethr
 [[Nakuru Timeline]]
 [[Lake Nakuru]]
 [[Lake Naivasha]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 [[Nakuru City]]
-[[../../Conservation/Hell's Gate National Park|Hell's Gate]]
+[[Hell's Gate National Park|Hell's Gate]]
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Nakuru_County

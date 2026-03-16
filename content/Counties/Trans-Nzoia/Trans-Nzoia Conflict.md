@@ -1,4 +1,4 @@
-Inter-communal conflict over land and resources has been a recurring challenge in Trans-Nzoia County. The most significant conflict episode was [[../../Kalenjin/Kalenjin|Kalenjin]] Land Defence Force (SLDF) insurgency (2006-2008), based primarily in [[../../Conservation/Mount Elgon National Park|Mount Elgon]] but affecting neighboring Trans-Nzoia areas. Conflicts have emerged between Sabaot communities and non-Sabaot settlers, particularly regarding Mount Elgon forest land control. Disputes between pastoralist communities (Pokot, Samburu) and agricultural communities have occurred, with cattle raiding as a tactic. Water and pasture access disputes have generated conflict in pastoral and semi-pastoral zones. Land boundary disputes between neighboring farms can escalate to community-level tensions.
+Inter-communal conflict over land and resources has been a recurring challenge in Trans-Nzoia County. The most significant conflict episode was [[Kalenjin|Kalenjin]] Land Defence Force (SLDF) insurgency (2006-2008), based primarily in [[../../Conservation/Mount Elgon National Park|Mount Elgon]] but affecting neighboring Trans-Nzoia areas. Conflicts have emerged between Sabaot communities and non-Sabaot settlers, particularly regarding Mount Elgon forest land control. Disputes between pastoralist communities (Pokot, Samburu) and agricultural communities have occurred, with cattle raiding as a tactic. Water and pasture access disputes have generated conflict in pastoral and semi-pastoral zones. Land boundary disputes between neighboring farms can escalate to community-level tensions.
 
 ## SLDF Insurgency and Land Tensions
 The Sabaot Land Defence Force (SLDF) emerged from grievances over Mount Elgon forest access and land ownership. The group targeted what they perceived as illegal settlers on Sabaot ancestral land. Violence resulted in deaths (estimated 300 to 1,000), injuries, and displacement of families. Government security operations aimed at insurgency suppression involved heavy-handed tactics including armed operations and forced disarmament. Extrajudicial killings were documented during security operations. The conflict generated significant displacement, with families fleeing to relatives or urban areas. Traumatization of affected populations has had lasting psychological impacts. Truth and reconciliation initiatives have been limited, with grievances remaining unresolved in some communities.
@@ -9,8 +9,8 @@ Community dialogue processes attempt to build understanding between previously c
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Conflict|Conflict]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Conflict|Conflict]]
 ## Sources
 1. https://www.globaladvancingjustice.org/news/sldf-mount-elgon-conflict
 2. https://www.amnesty.org/en/documents/AFR32/001/2008/en/

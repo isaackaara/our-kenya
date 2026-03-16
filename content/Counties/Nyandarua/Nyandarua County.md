@@ -1,4 +1,4 @@
-Nyandarua County is a cool, high-altitude county in the Aberdare highlands west of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] in central Kenya. The county has a population of approximately 640,000 people, predominantly [[../../Kikuyu/Kikuyu|Kikuyu]]. The [[../../Conservation/Aberdare National Park|Aberdare Range]] runs through the county, its forest and moorland creating Kenya's highest rainfall areas. Nyandarua is Kenya's premier wheat-growing county and one of its main dairy regions. The cool highland climate creates ideal conditions for cool-weather agriculture. Ol Kalou serves as the county headquarters.
+Nyandarua County is a cool, high-altitude county in the Aberdare highlands west of [[Mount Kenya National Park|Mount Kenya]] in central Kenya. The county has a population of approximately 640,000 people, predominantly [[Kikuyu|Kikuyu]]. The [[Aberdare National Park|Aberdare Range]] runs through the county, its forest and moorland creating Kenya's highest rainfall areas. Nyandarua is Kenya's premier wheat-growing county and one of its main dairy regions. The cool highland climate creates ideal conditions for cool-weather agriculture. Ol Kalou serves as the county headquarters.
 
 ## Geography and Altitude
 
@@ -65,11 +65,11 @@ Post-independence land redistribution brought Kikuyu smallholder settlers to for
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

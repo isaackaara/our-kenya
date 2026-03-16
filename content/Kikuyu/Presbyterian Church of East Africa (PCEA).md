@@ -7,7 +7,7 @@ Largest Presbyterian denomination in Kenya, historically associated with the Kik
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu Church and Politics]]
+- [[Kikuyu Church and Politics]]
 
 ## Sources
 *To be added*

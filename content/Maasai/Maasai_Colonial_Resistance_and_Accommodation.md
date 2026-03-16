@@ -16,7 +16,7 @@ The laibon Lenana calculated that cooperation with British authority offered bet
 
 ## The 1904 Treaty
 
-Lenana signed the 1904 treaty, which formally ceded northern Maasai territories to British colonial authorities to make room for European settler farms in the Kenya highlands. In exchange, the Maasai received defined reserve territories in southern Kenya (primarily what became [[../Counties/Kajiado/Kajiado County|Kajiado County]]). The treaty included clauses protecting Maasai grazing rights and acknowledging Maasai authority over pastoral practices within their reserved lands. Whether Lenana fully understood the permanence of these land losses, or whether he believed he was negotiating a temporary arrangement, remains historically debated.
+Lenana signed the 1904 treaty, which formally ceded northern Maasai territories to British colonial authorities to make room for European settler farms in the Kenya highlands. In exchange, the Maasai received defined reserve territories in southern Kenya (primarily what became [[Kajiado County|Kajiado County]]). The treaty included clauses protecting Maasai grazing rights and acknowledging Maasai authority over pastoral practices within their reserved lands. Whether Lenana fully understood the permanence of these land losses, or whether he believed he was negotiating a temporary arrangement, remains historically debated.
 
 ## The 1911 Treaty
 
@@ -46,12 +46,12 @@ Lenana's accommodation strategy established a precedent. Later Maasai leaders, f
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

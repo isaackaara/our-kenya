@@ -1,7 +1,7 @@
 This timeline documents major events and developments in Kirinyaga County's history through 2026.
 
 ## Pre-Colonial Period
-- Traditional [[../../Kikuyu/Kikuyu|Kikuyu]] settlement and land use on [[../../Conservation/Mount Kenya National Park|Mount Kenya]] slopes
+- Traditional [[Kikuyu|Kikuyu]] settlement and land use on [[Mount Kenya National Park|Mount Kenya]] slopes
 - Sacred groves, ceremonial sites, and cultural practices
 - Age-set initiation systems and social organization
 - Pastoral and agricultural economy
@@ -10,7 +10,7 @@ This timeline documents major events and developments in Kirinyaga County's hist
 - 1890s: European colonial establishment in Mount Kenya region
 - 1904: Kikuyu Reserve established, limiting African land rights
 - 1920s: Limited African cash crop cultivation permitted
-- 1952-1960: [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] uprising, Kirinyaga District participation
+- 1952-1960: [[Mau Mau Uprising|Mau Mau]] uprising, Kirinyaga District participation
 - 1960: State of Emergency lifted, transition to independence
 
 ## Post-Independence Period (1964-1989)
@@ -64,11 +64,11 @@ This timeline documents major events and developments in Kirinyaga County's hist
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

@@ -38,8 +38,8 @@ Tourism development must balance economic benefits with conservation and communi
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Tourism Authority. (2020). Tourism Development Strategy. https://www.ktb.go.ke/

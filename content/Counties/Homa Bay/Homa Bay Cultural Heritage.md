@@ -34,8 +34,8 @@ Modern cultural expressions including music, theater, and visual arts incorporat
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. UNESCO. (2020). Intangible Cultural Heritage in Kenya. https://ich.unesco.org/

@@ -34,8 +34,8 @@ The paleontological sites require protection from erosion and illegal collecting
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. National Museums of Kenya. (2020). Fossil Sites Report. https://nmk.go.ke/

@@ -14,7 +14,7 @@ The youth population represents both an economic dividend (productive workforce)
 ## See Also
 
 - [[Machakos County|Machakos County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Machakos Terracing|Terracing (agricultural tradition)]]
 - [[The Machakos Miracle|Devolution Success]]
 - [[Machakos Mango Industry|Mango Industry]]

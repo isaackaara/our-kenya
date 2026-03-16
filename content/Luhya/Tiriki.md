@@ -1,10 +1,10 @@
-The Tiriki are a sub-group of the Luhya confederation located primarily in [[../Counties/Vihiga/Vihiga County|Vihiga County]], in the fertile hills of western Kenya. Their name derives from their geographical location and migration history from [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]], and they are particularly noted for their circumcision ceremonies (Imbalu) which feature elaborate masking and body paint traditions.
+The Tiriki are a sub-group of the Luhya confederation located primarily in [[Vihiga County|Vihiga County]], in the fertile hills of western Kenya. Their name derives from their geographical location and migration history from [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]], and they are particularly noted for their circumcision ceremonies (Imbalu) which feature elaborate masking and body paint traditions.
 
 ## Unique Cultural Position: Circumcision from Nandi Contact
 
 The Tiriki occupy a distinctive place in Luhya ethnography because they adopted the elaborate form of male circumcision from their Nandi (Kalenjin) neighbors through sustained pre-colonial cross-ethnic contact, rather than developing the practice independently as most other Luhya sub-groups did. This makes the Tiriki initiation rite more similar to Nandi circumcision ceremonies than to those of most Luhya groups.
 
-The Tiriki Imbalu involves forest seclusion, masked dancers wearing elaborate body paint, and ritual instruction in survival skills and community responsibilities. The masks and costumes used are aesthetically similar to those found among [[../Kalenjin/Kalenjin|Kalenjin]] Terik, suggesting long-standing cultural exchange. This pattern reveals that pre-colonial Kenya witnessed significant cross-ethnic contact, trade, and cultural borrowing among neighboring communities, challenging the notion that ethnic groups existed in isolation.
+The Tiriki Imbalu involves forest seclusion, masked dancers wearing elaborate body paint, and ritual instruction in survival skills and community responsibilities. The masks and costumes used are aesthetically similar to those found among [[Kalenjin|Kalenjin]] Terik, suggesting long-standing cultural exchange. This pattern reveals that pre-colonial Kenya witnessed significant cross-ethnic contact, trade, and cultural borrowing among neighboring communities, challenging the notion that ethnic groups existed in isolation.
 
 ## Location and Landscape
 
@@ -39,9 +39,9 @@ Today the Tiriki remain primarily in Vihiga County and continue to practice thei
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

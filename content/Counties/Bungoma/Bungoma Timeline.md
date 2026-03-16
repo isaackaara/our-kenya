@@ -2,7 +2,7 @@ This timeline documents key dates and events in Bungoma County history from pre-
 
 ## Pre-Colonial Era (Before 1900)
 
-[[../../Luhya/Luhya|Bukusu]] communities settle and develop agriculture and pastoral production systems in Bungoma region. Social institutions, governance structures, and cultural traditions (including imbalu ceremony) are established. Regional trade and interaction with neighbouring communities develops.
+[[Luhya|Bukusu]] communities settle and develop agriculture and pastoral production systems in Bungoma region. Social institutions, governance structures, and cultural traditions (including imbalu ceremony) are established. Regional trade and interaction with neighbouring communities develops.
 
 ## Colonial Period (1900-1963)
 
@@ -31,7 +31,7 @@ This timeline documents key dates and events in Bungoma County history from pre-
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

@@ -10,7 +10,7 @@ Maize production in Busia contributes to both household consumption and regional
 ## See Also
 
 [[../../Busia/Busia|Busia County]]
-[[../../Busia/Busia Agriculture|Agriculture]]
+[[Busia Agriculture|Agriculture]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/
 2. https://www.standardmedia.co.ke/counties/article/2001045678/agriculture-busia

@@ -15,7 +15,7 @@ Paul Ngei was a Kamba nationalist and independence hero who was detained alongsi
 Ngei's experience exemplifies how many independence-era activists were disappointed by post-independence governance. The skills and idealism that made him valuable during the anti-colonial struggle did not translate into ethical governance, and his fall from grace illustrated the difference between heroism and statesmanship.
 
 ## Related
-[[Kamba Political Figures]] | [[../Kikuyu/Kenyatta Presidency]] | [[Kamba and Colonialism]]
+[[Kamba Political Figures]] | [[Kenyatta Presidency]] | [[Kamba and Colonialism]]
 
 ## See Also
 

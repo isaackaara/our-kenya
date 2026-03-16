@@ -19,13 +19,13 @@ Contemporary Isukuti exists in multiple forms simultaneously. Rural communities 
 The future of Isukuti depends partly on whether [[Luhya/Luhya Cultural Identity|Luhya]] ethnic consciousness remains strong enough to motivate investment in cultural transmission. The Luhya are Kenya's second-largest ethnic group but lack the political cohesion of smaller groups, with sub-group identities sometimes trumping broader Luhya solidarity. If Isukuti can function as a unifying symbol of Luhya identity, it may thrive. If sub-group divisions deepen or if Luhya identity fragments under pressure from Christianity, modernization, and globalization, Isukuti may survive only as museum artifact rather than living tradition.
 
 ## See Also
-- [[Music/Luhya Ingoma Music]]
+- [[Luhya Ingoma Music]]
 - [[Luhya/Luhya Cultural Identity]]
-- [[Music/Musical Instruments of Kenya - Percussion]]
-- [[Music/Music and Initiation Rites]]
-- [[Music/Music and Marriage Ceremonies]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
-- [[Music/Warrior Songs Kenya]]
+- [[Musical Instruments of Kenya - Percussion]]
+- [[Music and Initiation Rites]]
+- [[Music and Marriage Ceremonies]]
+- [[Music and Pre-Christian Religion Kenya]]
+- [[Warrior Songs Kenya]]
 
 ## Sources
 1. Were, Gideon S. A History of the Abaluyia of Western Kenya, c. 1500-1930. Nairobi: East African Publishing House, 1967.

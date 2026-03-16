@@ -2,9 +2,9 @@ Daniel Owino Misiani (1940-2006) was born in Shirati, Tanzania, near the Kenyan 
 
 Misiani grew up in a musical family in Tanzania's Mara Region, learning traditional Luo instruments before moving to Kenya in 1964. He settled in Nairobi at the height of the city's music boom, joining a vibrant scene that included [[George Ramogi]], [[Fadhili Williams Later Career|Fadhili Williams]], and Daudi Kabaka. Inspired by the success of early electric guitarists, Misiani made his first recordings in 1965, drawing directly from the nyatiti patterns he had absorbed in childhood. His early hits demonstrated that benga could be both commercially viable and culturally authentic.
 
-Shirati Jazz, named after Misiani's birthplace, became one of Kenya's most popular bands in the late 1960s. The group's lineup changed frequently, but Misiani's songwriting and lead vocals remained constant. His lyrical approach set him apart from contemporaries. Where other benga musicians focused on romance and social commentary, Misiani directly addressed [[Benga and Political Protest|political issues]], critiquing corruption, inequality, and the [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta government's]] treatment of [[Luo]] communities. Songs like "Bwana Misiani" and "Raila Odinga" became anthems for opposition supporters.
+Shirati Jazz, named after Misiani's birthplace, became one of Kenya's most popular bands in the late 1960s. The group's lineup changed frequently, but Misiani's songwriting and lead vocals remained constant. His lyrical approach set him apart from contemporaries. Where other benga musicians focused on romance and social commentary, Misiani directly addressed [[Benga and Political Protest|political issues]], critiquing corruption, inequality, and the [[Jomo Kenyatta Presidency|Kenyatta government's]] treatment of [[Luo]] communities. Songs like "Bwana Misiani" and "Raila Odinga" became anthems for opposition supporters.
 
-The political content of Misiani's music brought severe consequences. Authorities detained him multiple times during the 1970s and 1980s, accusing him of inciting ethnic tensions. The [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi regime]] banned several of his songs from [[Voice of Kenya Music Programming|Voice of Kenya radio]], limiting his commercial reach but enhancing his reputation as a fearless truth-teller. Misiani refused to soften his message, even when persecution threatened his livelihood. His determination inspired younger musicians to use benga as a vehicle for social criticism.
+The political content of Misiani's music brought severe consequences. Authorities detained him multiple times during the 1970s and 1980s, accusing him of inciting ethnic tensions. The [[Daniel arap Moi Presidency|Moi regime]] banned several of his songs from [[Voice of Kenya Music Programming|Voice of Kenya radio]], limiting his commercial reach but enhancing his reputation as a fearless truth-teller. Misiani refused to soften his message, even when persecution threatened his livelihood. His determination inspired younger musicians to use benga as a vehicle for social criticism.
 
 Misiani's exile to Tanzania in the late 1970s resulted from political pressure, though he continued performing and recording. He eventually returned to Kenya, where his popularity never waned despite government hostility. His bands (Shirati Jazz went through several iterations) remained in demand at nightclubs, weddings, and political rallies. The intricate [[Benga Guitar Technique|guitar work]] in his arrangements set standards that subsequent benga bands struggled to match.
 
@@ -19,8 +19,8 @@ Misiani died in a car accident near Kisumu in 2006, ending a career that spanned
 - [[Benga and Political Protest]]
 - [[Luo Benga and Nyanza Identity]]
 - [[Music and the 1969 Political Crisis]]
-- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
-- [[Luo/Oginga Odinga]]
+- [[Jomo Kenyatta Presidency]]
+- [[Oginga Odinga]]
 
 ## Sources
 1. "Daniel Owino Misiani (1940-2006)", Another World? East Africa and the Global 1960s, https://globaleastafrica.org/global-lives/daniel-owino-misiani-1940-2006

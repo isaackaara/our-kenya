@@ -32,7 +32,7 @@ The Kipsigis maintain distinctive cultural practices, including initiation cerem
 
 ## Related
 
-[[../Europeans/White Highlands and Settler Society]] | [[Kalenjin Land Grievance]] | [[Kalenjin Origins]]
+[[White Highlands and Settler Society]] | [[Kalenjin Land Grievance]] | [[Kalenjin Origins]]
 
 ## See Also
 

@@ -12,8 +12,8 @@ Kapenguria's colonial-era significance as a detention site gives it historical i
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Kapenguria
 2. https://www.standardmedia.co.ke/counties/article/2000654321/kapenguria-town-development

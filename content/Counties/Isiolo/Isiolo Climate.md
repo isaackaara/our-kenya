@@ -16,7 +16,7 @@ Climate change is intensifying precipitation variability and increasing aridity.
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Climate|Climate]]
+[[Isiolo Climate|Climate]]
 ## Sources
 
 1. Kenya Meteorological Department: Climate Records and Analysis. https://www.meteo.go.ke/

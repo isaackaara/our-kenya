@@ -1,4 +1,4 @@
-Kisumu is the largest city in the Luo heartland and the main port on [[../Conservation/Lake Victoria Kenya|Lake Victoria]]. Once a prosperous trading hub and administrative center under colonial rule, Kisumu became a symbol of Luo marginalization under postcolonial governments. The city has served as the epicenter of Luo-Kikuyu conflict, hosting the Kisumu Massacre in 1969 and becoming a major flashpoint during the 2007-2008 post-election violence.
+Kisumu is the largest city in the Luo heartland and the main port on [[Lake Victoria Kenya|Lake Victoria]]. Once a prosperous trading hub and administrative center under colonial rule, Kisumu became a symbol of Luo marginalization under postcolonial governments. The city has served as the epicenter of Luo-Kikuyu conflict, hosting the Kisumu Massacre in 1969 and becoming a major flashpoint during the 2007-2008 post-election violence.
 
 ## Key Facts
 

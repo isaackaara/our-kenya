@@ -18,7 +18,7 @@ Large,scale Kalenjin maize traders operate at county and regional levels, sellin
 
 ## Construction and Real Estate
 
-Kalenjin entrepreneurs have been prominent in construction and real estate, particularly in [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], Nakuru, and Iten. Capital accumulated through agriculture or running-economy employment has been channeled into property development. Construction firms owned by Kalenjin have executed government contracts, private projects, and housing developments.
+Kalenjin entrepreneurs have been prominent in construction and real estate, particularly in [[Uasin Gishu County|Uasin Gishu County]], Nakuru, and Iten. Capital accumulated through agriculture or running-economy employment has been channeled into property development. Construction firms owned by Kalenjin have executed government contracts, private projects, and housing developments.
 
 Eldoret's rapid urbanization (growth from a small town to Kenya's fifth-largest city) has generated significant real estate opportunities. Kalenjin property developers have built residential complexes, office buildings, and commercial centers. Some developers have expanded into multiple counties, establishing regional construction profiles.
 

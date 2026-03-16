@@ -22,7 +22,7 @@ Marriage and kinship ceremonies remain culturally significant, reflecting Islami
 - [[Mandera County]]
 - [[Mandera Notable People]]
 - [[Mandera Timeline]]
-- [[../../Somali/Somali]]
+- [[Somali]]
 
 ## Sources
 

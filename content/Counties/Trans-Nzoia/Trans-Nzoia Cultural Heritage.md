@@ -9,8 +9,8 @@ Music and dance remain important in community celebrations and social events. Ch
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Cultural Heritage|Cultural Heritage]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Cultural Heritage|Cultural Heritage]]
 ## Sources
 1. https://www.kenyapedia.com/culture/
 2. https://www.standardmedia.co.ke/counties/article/2000654321/cultural-heritage-transnzoia

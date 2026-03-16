@@ -2,7 +2,7 @@ Siaya town is the administrative headquarters and principal commercial center of
 
 ## Setting
 
-The town is situated in the interior of Siaya County, accessible by road from the main [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] shore settlements. It is the focal point for inter-county trade and transportation, with regular market days drawing traders and farmers from surrounding areas. The architecture reflects a typical Kenyan market town pattern, with government buildings, commercial structures, and residential areas organized around the central marketplace.
+The town is situated in the interior of Siaya County, accessible by road from the main [[Lake Victoria Kenya|Lake Victoria]] shore settlements. It is the focal point for inter-county trade and transportation, with regular market days drawing traders and farmers from surrounding areas. The architecture reflects a typical Kenyan market town pattern, with government buildings, commercial structures, and residential areas organized around the central marketplace.
 
 ## Economy
 
@@ -22,7 +22,7 @@ The town has experienced gradual development with improved road access, electric
 - [[Siaya Infrastructure]]
 - [[Siaya and Devolution]]
 - [[Siaya Agriculture]]
-- [[../Kisumu/Kisumu|Kisumu City]]
+- [[Kisumu|Kisumu City]]
 - [[Siaya Politics]]
 - [[Siaya Health]]
 

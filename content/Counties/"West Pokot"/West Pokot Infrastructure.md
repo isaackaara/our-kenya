@@ -12,8 +12,8 @@ Geographic remoteness limits infrastructure investment feasibility and economic 
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000987654/infrastructure-west-pokot
 2. https://www.worldbank.org/en/country/kenya/brief/rural-infrastructure

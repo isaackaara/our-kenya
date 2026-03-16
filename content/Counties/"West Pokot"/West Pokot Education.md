@@ -12,8 +12,8 @@ County government invests in school infrastructure and teacher recruitment to ex
 - [["West Pokot" Politics|Politics]]
 - [["West Pokot" Agriculture|Agriculture]]
 - [["West Pokot" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.education.go.ke/statistics-and-reports
 2. https://www.standardmedia.co.ke/counties/article/2001234567/education-west-pokot

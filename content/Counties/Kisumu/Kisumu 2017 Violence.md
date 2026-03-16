@@ -1,8 +1,8 @@
-The 2017 presidential election brought violence to Kisumu again, as protests erupted after [[../../Luo/Raila Odinga|Raila Odinga]] rejected the election results and called for opposition mobilization. Kisumu, as Odinga's stronghold, saw intense clashes between protesters and security forces.
+The 2017 presidential election brought violence to Kisumu again, as protests erupted after [[Raila Odinga|Raila Odinga]] rejected the election results and called for opposition mobilization. Kisumu, as Odinga's stronghold, saw intense clashes between protesters and security forces.
 
 ## Election Dispute
 
-The 2017 election was controversial, with [[../../Luo/Raila Odinga|Raila Odinga]] claiming electoral fraud. The opposition called for mass action and protests, particularly in opposition strongholds.
+The 2017 election was controversial, with [[Raila Odinga|Raila Odinga]] claiming electoral fraud. The opposition called for mass action and protests, particularly in opposition strongholds.
 
 ## Security Response
 
@@ -22,7 +22,7 @@ The use of live ammunition against protesters brought international media attent
 
 ## Political Fallout
 
-The violence intensified opposition to the government and strengthened [[../../Luo/Raila Odinga|Raila Odinga]]'s narrative of state repression. The violence motivated opposition supporters.
+The violence intensified opposition to the government and strengthened [[Raila Odinga|Raila Odinga]]'s narrative of state repression. The violence motivated opposition supporters.
 
 ## Community Impact
 
@@ -38,7 +38,7 @@ Limited accountability for those who used excessive force occurred. This lack of
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

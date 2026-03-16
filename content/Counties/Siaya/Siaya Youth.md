@@ -14,7 +14,7 @@ Youth show limited interest in agriculture, perceiving farming as low-income and
 
 ## Migration to Urban Areas
 
-Migration to [[../Kisumu/Kisumu|Kisumu City]] and Nairobi in search of employment and income represents a major youth livelihood strategy. Seasonal migration for casual labor and permanent urban relocation are common patterns. Migration creates rural labor shortages but also provides rural remittance income.
+Migration to [[Kisumu|Kisumu City]] and Nairobi in search of employment and income represents a major youth livelihood strategy. Seasonal migration for casual labor and permanent urban relocation are common patterns. Migration creates rural labor shortages but also provides rural remittance income.
 
 ## Informal Economic Activity
 
@@ -30,13 +30,13 @@ Government and NGO youth programs provide skills training, microfinance access, 
 
 ## See Also
 
-- [[../../Luo/Young Luo Identity|Young Luo Identity]]
-- [[../../Luo/Luo Youth and Identity|Luo Youth and Identity]]
+- [[Young Luo Identity|Young Luo Identity]]
+- [[Luo Youth and Identity|Luo Youth and Identity]]
 - [[Siaya Education]]
 - [[Siaya Diaspora]]
 - [[Siaya Agriculture]]
 - [[Siaya HIV Crisis]]
-- [[../Kisumu/Kisumu Youth Unemployment|Kisumu Youth Unemployment]]
+- [[Kisumu Youth Unemployment|Kisumu Youth Unemployment]]
 
 ## Sources
 

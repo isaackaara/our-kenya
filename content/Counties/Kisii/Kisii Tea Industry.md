@@ -41,7 +41,7 @@ The industry faces challenges including climate variability, aging tea bushes re
 - [[Kisii Dairy|Dairy Farming]]
 - [[Kisii Colonial History|Colonial History]]
 - [[Kisii Economy Overview|County Economy]]
-- [[../../Conservation/Conservation Economics Kenya|Conservation Economics]]
+- [[Conservation Economics Kenya|Conservation Economics]]
 
 ## Sources
 

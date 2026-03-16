@@ -18,7 +18,7 @@ Mental health and substance abuse services remain underdeveloped. Limited suppor
 ## See Also
 
 [[../../Marsabit/Marsabit|Marsabit County]]
-[[../../Marsabit/Marsabit Health|Health]]
+[[Marsabit Health|Health]]
 ## Sources
 
 1. Ministry of Health: County Health Profiles, Marsabit 2023. https://www.health.go.ke/

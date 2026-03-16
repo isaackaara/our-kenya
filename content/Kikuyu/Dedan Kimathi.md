@@ -4,7 +4,7 @@ Dedan Kimathi Waciuri (31 October 1920, 18 February 1957) was the most famous co
 
 - Born in Nyeri district on 31 October 1920; educated at missionary schools and worked as a teacher and later as a clerk for a timber company
 - Joined the [[Kenya Land and Freedom Army]] after the declaration of the State of Emergency in October 1952 (see [[Mau Mau Uprising]])
-- Operated primarily from the forests of [[../Conservation/Mount Kenya National Park|Mount Kenya]] and [[../Conservation/Aberdare National Park|Aberdare]] (Nyandarua), the same forests that border [[Kirinyaga]], the spiritual heartland of the Kikuyu
+- Operated primarily from the forests of [[Mount Kenya National Park|Mount Kenya]] and [[Aberdare National Park|Aberdare]] (Nyandarua), the same forests that border [[Kirinyaga]], the spiritual heartland of the Kikuyu
 - Declared himself "Field Marshal" and "Knight Commander of the African Empire", titles that were partly military organisation, partly psychological defiance of colonial authority
 - Led the Mount Kenya forest section of the KLFA, organising supply lines, commanding military operations, and maintaining discipline among fighters who were chronically short of weapons and food
 - His capture on 21 October 1956, after being shot in the leg and found hiding near Nyeri, marked the military defeat of the KLFA's main force

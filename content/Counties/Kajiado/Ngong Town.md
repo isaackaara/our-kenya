@@ -10,7 +10,7 @@ Colonial administrative infrastructure made Ngong a small but significant admini
 
 ## Geographic Setting
 
-Ngong is located on the Ngong Hills, distinctive ridgelines on [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] escarpment west of Nairobi. The elevation (approximately 1,500 to 2,600 meters) provides cooler climate than surrounding lowlands.
+Ngong is located on the Ngong Hills, distinctive ridgelines on [[Maasai|Maasai]]/Maasai|Maasai]] escarpment west of Nairobi. The elevation (approximately 1,500 to 2,600 meters) provides cooler climate than surrounding lowlands.
 
 The hills provide scenic views toward Nairobi and the surrounding plains, making the area aesthetically attractive for residential settlement.
 
@@ -37,8 +37,8 @@ See also: [[Kajiado County|Kajiado County]], [[Ngong Hills|Ngong Hills]], [[Nair
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

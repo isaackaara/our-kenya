@@ -1,4 +1,4 @@
-Sugarcane farming has been a central economic mainstay for communities in western Kenya, particularly in [[../Counties/Kakamega/Kakamega County|Kakamega County]] where the Luhya people have historically relied on sugarcane cultivation and marketing as a significant source of cash income. The sugarcane belt of western Kenya represents one of Kenya's major agricultural zones, though the industry has faced substantial challenges in recent decades, particularly following the collapse of the Mumias Sugar Company.
+Sugarcane farming has been a central economic mainstay for communities in western Kenya, particularly in [[Kakamega County|Kakamega County]] where the Luhya people have historically relied on sugarcane cultivation and marketing as a significant source of cash income. The sugarcane belt of western Kenya represents one of Kenya's major agricultural zones, though the industry has faced substantial challenges in recent decades, particularly following the collapse of the Mumias Sugar Company.
 
 ## Geographic Distribution and the Sugar Belt
 
@@ -99,11 +99,11 @@ Sugarcane cultivation requires substantial water input. In water-limited environ
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

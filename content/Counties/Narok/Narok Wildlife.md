@@ -1,4 +1,4 @@
-Narok County's wildlife represents one of Africa's most significant concentrations of large mammal populations, with [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara ecosystem supporting lions, cheetahs, leopards, elephants, rhinoceros, buffalo, and hundreds of other mammal and bird species in landscapes shaped by pastoral and conservation management systems.
+Narok County's wildlife represents one of Africa's most significant concentrations of large mammal populations, with [[Maasai|Maasai]]/Maasai|Maasai]] Mara ecosystem supporting lions, cheetahs, leopards, elephants, rhinoceros, buffalo, and hundreds of other mammal and bird species in landscapes shaped by pastoral and conservation management systems.
 
 ## Large Carnivores
 
@@ -39,8 +39,8 @@ See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai M
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

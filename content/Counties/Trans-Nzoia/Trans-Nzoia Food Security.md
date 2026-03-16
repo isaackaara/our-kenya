@@ -9,7 +9,7 @@ Climate variability and drought cycles create periodic food insecurity risks. Pe
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/
 2. https://www.standardmedia.co.ke/counties/article/2001045678/food-security-transnzoia

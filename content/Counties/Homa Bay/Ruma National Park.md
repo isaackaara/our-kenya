@@ -38,8 +38,8 @@ Challenges include habitat degradation from invasive species, poaching pressure,
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Wildlife Service. (2021). Ruma National Park Management Plan. https://kws.go.ke/

@@ -10,7 +10,7 @@ The mountain's white snow contrasts dramatically with the brown and green savann
 
 ## Cultural and Economic Significance
 
-For [[../../Maasai/Maasai|Maasai]] and other regional communities, Kilimanjaro holds cultural significance as a sacred mountain and reference point in traditional knowledge systems. The mountain's water sources support regional ecosystems and human populations.
+For [[Maasai|Maasai]] and other regional communities, Kilimanjaro holds cultural significance as a sacred mountain and reference point in traditional knowledge systems. The mountain's water sources support regional ecosystems and human populations.
 
 Kilimanjaro views have become a key tourism marketing element for Amboseli, with the Kilimanjaro view included in virtually all tourism marketing materials and forming the defining characteristic of Amboseli tourism experiences.
 
@@ -29,8 +29,8 @@ See also: [[Kajiado County|Kajiado County]], [[Amboseli National Park|Amboseli N
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

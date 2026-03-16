@@ -24,7 +24,7 @@ The mechanism was simple: privatization required only a majority vote or ministe
 
 ## The Kajiado and Narok Pattern
 
-[[../Counties/Kajiado/Kajiado County|Kajiado County]]'s group ranches, established in the 1970s, had largely been subdivided by the 1990s. Narok followed a similar trajectory. By 2000, many ranches existed only on paper: the land had been divided among private title holders, original shareholders had sold their allocations, and the communal grazing system had fragmented into isolated private parcels.
+[[Kajiado County|Kajiado County]]'s group ranches, established in the 1970s, had largely been subdivided by the 1990s. Narok followed a similar trajectory. By 2000, many ranches existed only on paper: the land had been divided among private title holders, original shareholders had sold their allocations, and the communal grazing system had fragmented into isolated private parcels.
 
 Kajiado's Olkejuado group ranch (established 1970) is a well-documented case. By the 2010s, the ranch had been subdivided into thousands of individual plots. The communal grazing resource was lost. Maasai herders could no longer move livestock across the former group ranch; they were now trespassers on land owned by absent investors.
 
@@ -58,12 +58,12 @@ The group ranch system is now taught in Kenyan curricula as a policy failure: an
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

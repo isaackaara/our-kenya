@@ -1,4 +1,4 @@
-Narok women, primarily from [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] community, have maintained distinctive economic roles centered on livestock care, household management, and beadwork production while increasingly engaging with tourism and market-based activities in contemporary contexts.
+Narok women, primarily from [[Maasai|Maasai]]/Maasai|Maasai]] community, have maintained distinctive economic roles centered on livestock care, household management, and beadwork production while increasingly engaging with tourism and market-based activities in contemporary contexts.
 
 ## Traditional Economic Roles
 
@@ -37,8 +37,8 @@ See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

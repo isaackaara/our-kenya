@@ -2,7 +2,7 @@ Kakamega County is Kenya's most densely populated rural county, with approximate
 
 ## Comparative Density
 
-Kakamega's population density ranks among the highest in rural sub-Saharan Africa. For context, the national Kenyan average is approximately 100 people per square kilometre, making Kakamega eight times more densely populated. Only [[../Vihiga/Vihiga County|Vihiga]] County approaches or exceeds Kakamega's density among Kenyan rural counties.
+Kakamega's population density ranks among the highest in rural sub-Saharan Africa. For context, the national Kenyan average is approximately 100 people per square kilometre, making Kakamega eight times more densely populated. Only [[Vihiga County|Vihiga]] County approaches or exceeds Kakamega's density among Kenyan rural counties.
 
 ## Historical Development
 
@@ -23,7 +23,7 @@ Population density contributes to youth unemployment, out-migration, and pressur
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

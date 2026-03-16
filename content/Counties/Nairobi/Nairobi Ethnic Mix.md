@@ -2,7 +2,7 @@ Nairobi is the most ethnically diverse city in Kenya, home to all 47 of Kenya's 
 
 ## Ethnic Groups Present
 
-All 47 ethnic groups of Kenya are represented in Nairobi's population, though in varying proportions. The largest communities include [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Luo/Luo|Luo]], [[../../Luhya/Luhya|Luhya]], [[../../Kamba/Kamba|Kamba]], Samburu, [[../../Maasai/Maasai|Maasai]], [[../../Meru/Meru|Meru]], and others. Each community has established neighborhoods, cultural institutions, churches, mosques, and social organizations.
+All 47 ethnic groups of Kenya are represented in Nairobi's population, though in varying proportions. The largest communities include [[Kikuyu|Kikuyu]], [[Luo|Luo]], [[Luhya|Luhya]], [[Kamba|Kamba]], Samburu, [[Maasai|Maasai]], [[Meru|Meru]], and others. Each community has established neighborhoods, cultural institutions, churches, mosques, and social organizations.
 
 ## Asian Presence
 
@@ -30,8 +30,8 @@ Many Nairobi residents, particularly those born and raised in the city, identify
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

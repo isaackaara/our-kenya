@@ -1,4 +1,4 @@
-The Luo relationship with [[../Conservation/Lake Victoria Kenya|Lake Victoria]] defined their culture and economy. Specific fishing techniques, cooperative fishing groups, fish processing and preservation, and the *omena* (dried silverfish) trade created an economy entirely distinct from farming. The introduction of the Nile perch in the 1950s-60s devastated endemic fish species but created a new commercial fishing industry.
+The Luo relationship with [[Lake Victoria Kenya|Lake Victoria]] defined their culture and economy. Specific fishing techniques, cooperative fishing groups, fish processing and preservation, and the *omena* (dried silverfish) trade created an economy entirely distinct from farming. The introduction of the Nile perch in the 1950s-60s devastated endemic fish species but created a new commercial fishing industry.
 
 ## Fishing Techniques
 

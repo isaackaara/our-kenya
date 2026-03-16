@@ -1,4 +1,4 @@
-The Bamarama, commonly referred to as the Marama, are a Luhya sub-group residing primarily in [[../Counties/Kakamega/Kakamega County|Kakamega County]], western Kenya. The Marama occupy their own distinct territory within the greater Luhya region and maintain cultural practices and language that identify them within the broader Luhya confederation.
+The Bamarama, commonly referred to as the Marama, are a Luhya sub-group residing primarily in [[Kakamega County|Kakamega County]], western Kenya. The Marama occupy their own distinct territory within the greater Luhya region and maintain cultural practices and language that identify them within the broader Luhya confederation.
 
 ## Territory
 
@@ -43,11 +43,11 @@ The Marama maintain distinct identity within the broader Luhya confederation whi
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

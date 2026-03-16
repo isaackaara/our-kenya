@@ -19,7 +19,7 @@ The broader East African region was reshaped by the relative decline of Tanzania
 [[Kenya/Foreign Policy]]
 [[Moi Foreign Policy]]
 [[East Africa/Regional Integration]]
-[[Julius Nyerere/Legacy]]
+[[Legacy]]
 [[Moi and Uganda]]
 
 ## Sources

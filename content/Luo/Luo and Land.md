@@ -1,4 +1,4 @@
-The Luo relationship to land differs significantly from that of other Kenyan communities, particularly [[../Kikuyu/Kikuyu|Kikuyu]]. While land scarcity and its control have been defining features of Kikuyu political economy, the Luo have historically had abundant land relative to population. Yet land tenure remains culturally and spiritually significant among the Luo, structured around the ancestral homestead and burial practices.
+The Luo relationship to land differs significantly from that of other Kenyan communities, particularly [[Kikuyu|Kikuyu]]. While land scarcity and its control have been defining features of Kikuyu political economy, the Luo have historically had abundant land relative to population. Yet land tenure remains culturally and spiritually significant among the Luo, structured around the ancestral homestead and burial practices.
 
 ## The Ancestral Homestead (Dala)
 

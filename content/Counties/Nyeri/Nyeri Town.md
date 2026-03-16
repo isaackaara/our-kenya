@@ -1,4 +1,4 @@
-Nyeri Town serves as the county headquarters and primary commercial center of Nyeri County. Located at approximately 1,750 meters elevation on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern slopes, the town functions as an agricultural service center and regional trade hub. The colonial history of Nyeri Town as an administrative center continues to shape its role in contemporary governance.
+Nyeri Town serves as the county headquarters and primary commercial center of Nyeri County. Located at approximately 1,750 meters elevation on [[Mount Kenya National Park|Mount Kenya]]'s southern slopes, the town functions as an agricultural service center and regional trade hub. The colonial history of Nyeri Town as an administrative center continues to shape its role in contemporary governance.
 
 ## Historical Development
 
@@ -29,8 +29,8 @@ Urban growth has created housing shortages and informal settlement expansion in 
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

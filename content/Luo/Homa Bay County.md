@@ -1,4 +1,4 @@
-Homa Bay County is the southernmost Luo territory, stretching along the [[../Conservation/Lake Victoria Kenya|Lake Victoria]] shoreline in Kenya's southwestern region. As a predominantly lakeside county, Homa Bay's economy, ecology, and culture are inseparable from Nam Lolwe (Lake Victoria). The county faces both economic opportunity (through fishing) and public health challenges (high HIV/AIDS prevalence) that distinguish it within the Luo region.
+Homa Bay County is the southernmost Luo territory, stretching along the [[Lake Victoria Kenya|Lake Victoria]] shoreline in Kenya's southwestern region. As a predominantly lakeside county, Homa Bay's economy, ecology, and culture are inseparable from Nam Lolwe (Lake Victoria). The county faces both economic opportunity (through fishing) and public health challenges (high HIV/AIDS prevalence) that distinguish it within the Luo region.
 
 ## Geography and Islands
 

@@ -9,8 +9,8 @@ Rural residents often face long distances to health facilities, limiting access 
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Health|Health]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Health|Health]]
 ## Sources
 1. https://www.health.go.ke/county-health-profiles/transnzoia
 2. https://www.standardmedia.co.ke/counties/article/2000987654/health-services-transnzoia

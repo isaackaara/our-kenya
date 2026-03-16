@@ -2,7 +2,7 @@ Nyeri coffee is among the finest Arabica coffee in the world, recognized interna
 
 ## Historical Development
 
-Coffee was introduced to the Nyeri region in the colonial period as part of British efforts to develop highland agriculture. Favorable growing conditions on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern slopes supported productive coffee cultivation. Coffee quickly became the dominant cash crop, with both estate and smallholder farms expanding throughout suitable elevation zones. Cooperative marketing developed during the colonial period and expanded after independence.
+Coffee was introduced to the Nyeri region in the colonial period as part of British efforts to develop highland agriculture. Favorable growing conditions on [[Mount Kenya National Park|Mount Kenya]]'s southern slopes supported productive coffee cultivation. Coffee quickly became the dominant cash crop, with both estate and smallholder farms expanding throughout suitable elevation zones. Cooperative marketing developed during the colonial period and expanded after independence.
 
 ## Quality Characteristics
 
@@ -10,7 +10,7 @@ Nyeri coffee develops distinctive flavor notes attributed to the region's high a
 
 ## Growing Zones
 
-Coffee cultivation concentrates at elevations between 1,500 and 2,000 meters, where altitude slows cherry ripening and allows flavor compound development. The southern and southwestern slopes of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] provide ideal growing conditions. Multiple constituencies within Nyeri County contain coffee-growing areas, with varying suitability based on altitude and rainfall.
+Coffee cultivation concentrates at elevations between 1,500 and 2,000 meters, where altitude slows cherry ripening and allows flavor compound development. The southern and southwestern slopes of [[Mount Kenya National Park|Mount Kenya]] provide ideal growing conditions. Multiple constituencies within Nyeri County contain coffee-growing areas, with varying suitability based on altitude and rainfall.
 
 ## Cooperative System
 
@@ -33,8 +33,8 @@ Small average farm sizes (often less than one hectare) limit individual farmer p
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

@@ -16,7 +16,7 @@ The acquittal had multiple implications. For Uhuru, it was a complete vindicatio
 [[2007-08 PEV Naivasha Reprisals|Naivasha Reprisals]]
 [[2007-08 PEV ICC Uhuru Case|ICC Uhuru Case]]
 [[2007-08 PEV ICC Collapse|ICC Collapse]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Kikuyu|Kikuyu]]
 
 ## Sources
 

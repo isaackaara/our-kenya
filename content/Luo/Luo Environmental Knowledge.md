@@ -1,4 +1,4 @@
-The Luo people accumulated deep and detailed knowledge of the [[../Conservation/Lake Victoria Kenya|Lake Victoria]] ecosystem over centuries of inhabitation and engagement with the lake's resources. This traditional ecological knowledge encompassed fish species identification and naming, seasonal patterns of fishing, sacred areas and taboos, weather prediction, and sophisticated understanding of the lake's ecological dynamics. This knowledge system parallels and, in many cases, predates scientific ecological study.
+The Luo people accumulated deep and detailed knowledge of the [[Lake Victoria Kenya|Lake Victoria]] ecosystem over centuries of inhabitation and engagement with the lake's resources. This traditional ecological knowledge encompassed fish species identification and naming, seasonal patterns of fishing, sacred areas and taboos, weather prediction, and sophisticated understanding of the lake's ecological dynamics. This knowledge system parallels and, in many cases, predates scientific ecological study.
 
 ## Fish Species Identification and Nomenclature
 

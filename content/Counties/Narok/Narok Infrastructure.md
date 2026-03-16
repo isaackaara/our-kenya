@@ -2,7 +2,7 @@ Narok County's infrastructure remains a significant constraint on economic devel
 
 ## Road Network
 
-The primary road connecting Nairobi to Narok town and [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara has historically been in poor condition, with unpaved sections, potholes, and deteriorating surfaces creating difficult travel conditions and extending journey times.
+The primary road connecting Nairobi to Narok town and [[Maasai|Maasai]]/Maasai|Maasai]] Mara has historically been in poor condition, with unpaved sections, potholes, and deteriorating surfaces creating difficult travel conditions and extending journey times.
 
 Recent major road improvement projects have aimed to tarmac the Narok-Mara highway, improving journey times from Nairobi to tourist destinations and reducing transportation costs. These improvements support tourism development and regional trade connectivity.
 
@@ -37,8 +37,8 @@ See also: [[Narok County|Narok County]], [[Narok Town|Narok Town]], [[Narok Tour
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

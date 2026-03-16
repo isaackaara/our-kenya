@@ -1,4 +1,4 @@
-Narok County's colonial history reflects the British colonial administration's relationships with [[../../Maasai/Maasai|Maasai]] pastoralists, the imposition of formal boundaries on previously fluid pastoral territories, and the beginning of land tenure transformations that continue to shape contemporary politics.
+Narok County's colonial history reflects the British colonial administration's relationships with [[Maasai|Maasai]] pastoralists, the imposition of formal boundaries on previously fluid pastoral territories, and the beginning of land tenure transformations that continue to shape contemporary politics.
 
 ## Early Colonial Contact
 
@@ -8,7 +8,7 @@ The British colonial administration recognized Maasai pastoralist authority stru
 
 ## Maasai Agreements and Land Alienation
 
-A series of treaties between British colonial authorities and Maasai leaders, including [[../../Maasai/Maasai|Maasai]] Agreements of 1904 and 1911, formalized Maasai territorial boundaries and established reserves. These agreements pushed Maasai pastoral territories into designated areas, alienating previously accessible lands.
+A series of treaties between British colonial authorities and Maasai leaders, including [[Maasai|Maasai]] Agreements of 1904 and 1911, formalized Maasai territorial boundaries and established reserves. These agreements pushed Maasai pastoral territories into designated areas, alienating previously accessible lands.
 
 The southern highlands of Narok and surrounding areas were opened to European settler colonization under the Crown Lands Ordinance, which classified these lands as state property available for European lease and eventual ownership.
 
@@ -35,8 +35,8 @@ See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

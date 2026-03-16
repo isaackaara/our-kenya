@@ -1,6 +1,6 @@
 The Njemps (also called Ilchamus) represent a small community living on the shores of Lake Baringo, numbering approximately 5,000 to 10,000 individuals. The Njemps maintain distinct cultural practices and livelihoods centered on fishing and pastoralism adapted to lake-shore environments.
 
-The Njemps are linguistically and culturally related to [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]], sharing some pastoralist heritage while maintaining distinctive fishing traditions.
+The Njemps are linguistically and culturally related to [[Maasai|Maasai]]/Maasai|Maasai]], sharing some pastoralist heritage while maintaining distinctive fishing traditions.
 
 ## Language and Identity
 
@@ -37,8 +37,8 @@ See also: [[Baringo County|Baringo County]], [[Lake Baringo|Lake Baringo]], [[Tu
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Baringo Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

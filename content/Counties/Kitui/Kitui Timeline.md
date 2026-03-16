@@ -1,6 +1,6 @@
 Key dates in Kitui County history through 2026:
 
-1849: Johann Ludwig Krapf becomes first European to observe [[../../Conservation/Mount Kenya National Park|Mount Kenya]] from Kitui region, contributing to European geographical knowledge.
+1849: Johann Ludwig Krapf becomes first European to observe [[Mount Kenya National Park|Mount Kenya]] from Kitui region, contributing to European geographical knowledge.
 
 1895: Africa Inland Mission (AIM) establishes missionary presence in Kamba regions of Kitui.
 
@@ -36,7 +36,7 @@ Key dates in Kitui County history through 2026:
 ## See Also
 
 - [[Kitui County|Kitui County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Kitui Sand Dams|Sand Dams (water technology)]]
 - [[Kitui Coal Controversy|Coal Mining]]
 - [[Kitui Bee Keeping|Beekeeping]]

@@ -1,4 +1,4 @@
-Vihiga County is Kenya's most densely populated county with approximately 1,000 people per square kilometre, far exceeding even [[../Kakamega/Kakamega County|Kakamega]] County's density. The extreme density is a defining characteristic creating profound implications for land availability, environmental management, economic opportunity, and social services. Population remains concentrated in the small land area despite continuous out-migration.
+Vihiga County is Kenya's most densely populated county with approximately 1,000 people per square kilometre, far exceeding even [[Kakamega County|Kakamega]] County's density. The extreme density is a defining characteristic creating profound implications for land availability, environmental management, economic opportunity, and social services. Population remains concentrated in the small land area despite continuous out-migration.
 
 ## Comparative Density
 
@@ -27,7 +27,7 @@ The sustainability of current population density remains uncertain. Environmenta
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

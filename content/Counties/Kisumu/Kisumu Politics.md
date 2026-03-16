@@ -1,4 +1,4 @@
-Kisumu is Kenya's most dependable opposition stronghold, with voters consistently supporting opposition candidates in presidential and other elections. The city's politics are inseparable from the Odinga family, which has dominated [[../../Luo/Luo|Luo]] and Nyanza Region politics since independence.
+Kisumu is Kenya's most dependable opposition stronghold, with voters consistently supporting opposition candidates in presidential and other elections. The city's politics are inseparable from the Odinga family, which has dominated [[Luo|Luo]] and Nyanza Region politics since independence.
 
 ## Opposition Voting Pattern
 
@@ -6,11 +6,11 @@ Since independence in 1964, Kisumu has consistently voted for opposition candida
 
 ## Oginga Odinga: The Founder
 
-Oginga Odinga, the first African to lead a nationalist political party in Kenya (the KPU) and the first Vice President of independent Kenya, was from Kisumu and [[../../Luo/Luo|Luo]] heartland. Odinga opposed post-independence governments, particularly [[../../Kikuyu/Kikuyu|Kikuyu]]-dominated Kenyatta administration, creating a tradition of opposition politics.
+Oginga Odinga, the first African to lead a nationalist political party in Kenya (the KPU) and the first Vice President of independent Kenya, was from Kisumu and [[Luo|Luo]] heartland. Odinga opposed post-independence governments, particularly [[Kikuyu|Kikuyu]]-dominated Kenyatta administration, creating a tradition of opposition politics.
 
 ## Raila Odinga: The Contemporary Icon
 
-[[../../Luo/Raila Odinga|Raila Odinga]], Oginga Odinga's son, became the opposition's leading figure from the 1990s onward. Raila twice ran for president (2007, 2017) and led opposition coalitions. Kisumu strongly supported Raila in both campaigns, viewing him as their community's representative and national political voice.
+[[Raila Odinga|Raila Odinga]], Oginga Odinga's son, became the opposition's leading figure from the 1990s onward. Raila twice ran for president (2007, 2017) and led opposition coalitions. Kisumu strongly supported Raila in both campaigns, viewing him as their community's representative and national political voice.
 
 ## Post-Election Violence
 
@@ -22,7 +22,7 @@ The ODM, Raila's political vehicle, wins overwhelming support in Kisumu. The par
 
 ## Ethnic Politics
 
-Kisumu politics are heavily influenced by ethnic dynamics. [[../../Luo/Luo|Luo]] voters support leaders perceived as Luo community representatives. Political competition is partly articulated along ethnic lines.
+Kisumu politics are heavily influenced by ethnic dynamics. [[Luo|Luo]] voters support leaders perceived as Luo community representatives. Political competition is partly articulated along ethnic lines.
 
 ## Governance and Development
 
@@ -34,7 +34,7 @@ Opposition politics is central to Kisumu's political identity and community cons
 
 ## See also
 
-For broader context, see [[../../Luo/Luo Political History]].
+For broader context, see [[Luo Political History]].
 
 
 ## See Also
@@ -42,7 +42,7 @@ For broader context, see [[../../Luo/Luo Political History]].
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

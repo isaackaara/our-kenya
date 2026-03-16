@@ -4,7 +4,7 @@ title: Eliud Kipchoge Deep Dive
 
 # Eliud Kipchoge Deep Dive
 
-Eliud Kipchoge is widely recognized as the greatest marathon runner in history. Born on November 5, 1984, in Kapsisiywa village, [[../Counties/Nandi/Nandi County|Nandi County]], Kenya, Kipchoge is a member of [[Kalenjin|Kalenjin]] sub-group of the Kalenjin people. His achievements have redefined the limits of human endurance in distance running and have made him a global icon of athletic excellence and Kenyan sporting dominance.
+Eliud Kipchoge is widely recognized as the greatest marathon runner in history. Born on November 5, 1984, in Kapsisiywa village, [[Nandi County|Nandi County]], Kenya, Kipchoge is a member of [[Kalenjin|Kalenjin]] sub-group of the Kalenjin people. His achievements have redefined the limits of human endurance in distance running and have made him a global icon of athletic excellence and Kenyan sporting dominance.
 
 ## Early Life and Origins
 

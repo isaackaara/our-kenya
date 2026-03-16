@@ -34,8 +34,8 @@ Women's groups and savings associations provide collective platforms. Economic e
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Human Rights Watch. (2019). Kenya: Women's Rights. https://www.hrw.org/

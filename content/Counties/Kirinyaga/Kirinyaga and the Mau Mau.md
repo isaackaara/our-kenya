@@ -1,4 +1,4 @@
-Kirinyaga District was a significant theater of the Mau Mau uprising, a major anti-colonial resistance movement that lasted from 1952 to 1960. [[../../[[../../Kikuyu/Kikuyu|Kikuyu]]/Kikuyu|Kikuyu]]-dominated county provided both fighters and resources for the rebellion against British colonial rule. The district's dense population, agricultural prosperity, and Kikuyu cultural identity made it a strategic area for the movement.
+Kirinyaga District was a significant theater of the Mau Mau uprising, a major anti-colonial resistance movement that lasted from 1952 to 1960. [[Kikuyu|Kikuyu]]/Kikuyu|Kikuyu]]-dominated county provided both fighters and resources for the rebellion against British colonial rule. The district's dense population, agricultural prosperity, and Kikuyu cultural identity made it a strategic area for the movement.
 
 ## Participation and Grievances
 
@@ -28,11 +28,11 @@ Debates continue regarding the rebellion's nature, the violence employed by both
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

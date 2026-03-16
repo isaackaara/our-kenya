@@ -1,4 +1,4 @@
-[[../../Maasai/Maasai|Maasai]] of Kajiado County constitute the predominant cultural and demographic community of the county, with a population of several hundred thousand maintaining pastoral traditions, cultural practices, and land ownership despite intense pressures from Nairobi's urban expansion and land privatization.
+[[Maasai|Maasai]] of Kajiado County constitute the predominant cultural and demographic community of the county, with a population of several hundred thousand maintaining pastoral traditions, cultural practices, and land ownership despite intense pressures from Nairobi's urban expansion and land privatization.
 
 Kajiado Maasai experience particularly acute pressures from proximity to Nairobi and the attractive land prices offered by external buyers, resulting in accelerated land sales and loss of pastoral territories compared to more distant pastoral areas.
 
@@ -26,7 +26,7 @@ Kajiado Maasai maintain cultural identity and practices despite urbanization pre
 
 ## Cross-References
 
-See also: [[Kajiado County|Kajiado County]], [[../../Maasai/Maasai|Maasai]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]], [[Kajiado Land Sales|Kajiado Land Sales]]
+See also: [[Kajiado County|Kajiado County]], [[Maasai|Maasai]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]], [[Kajiado Land Sales|Kajiado Land Sales]]
 
 
 ## See Also
@@ -35,8 +35,8 @@ See also: [[Kajiado County|Kajiado County]], [[../../Maasai/Maasai|Maasai]], [[N
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

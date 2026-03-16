@@ -25,7 +25,7 @@ The Harambee concept would outlive Kenyatta and continue to be used by subsequen
 - [[Kenyatta Economic Policy|Kenyatta Economic Policy]]
 - [[Kenyatta Development Projects|Kenyatta Development Projects]]
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
-- [[../../Harambee|Harambee]]
+- [[Harambee|Harambee]]
 - [[../../Kenya Nation-Building|Kenya Nation-Building]]
 - [[../../Kenya Education History|Kenya Education History]]
 

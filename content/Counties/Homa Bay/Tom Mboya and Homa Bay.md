@@ -26,7 +26,7 @@ Mboya's legacy influences contemporary Luo politics and opposition movements. Hi
 
 ## Link to Tom Mboya
 
-[[../../Luo/Tom Mboya]]
+[[Tom Mboya]]
 
 ## See Also
 
@@ -34,8 +34,8 @@ Mboya's legacy influences contemporary Luo politics and opposition movements. Hi
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Tom Mboya. https://en.wikipedia.org/wiki/Tom_Mboya

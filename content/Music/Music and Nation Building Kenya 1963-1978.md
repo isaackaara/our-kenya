@@ -1,4 +1,4 @@
-Music played a central role in Kenya's nation-building project during the first fifteen years of independence, serving as both a vehicle for constructing [[Cross-Ethnic/Kenya National Identity|national identity]] and a site where tensions between ethnic loyalties and national unity played out. The [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta government]] recognized that creating a sense of Kenyan nationhood required more than political institutions and economic development; it demanded cultural expressions that could unite diverse populations while validating their distinct traditions. Popular music became one arena where this complex balancing act was attempted.
+Music played a central role in Kenya's nation-building project during the first fifteen years of independence, serving as both a vehicle for constructing [[Cross-Ethnic/Kenya National Identity|national identity]] and a site where tensions between ethnic loyalties and national unity played out. The [[Jomo Kenyatta Presidency|Kenyatta government]] recognized that creating a sense of Kenyan nationhood required more than political institutions and economic development; it demanded cultural expressions that could unite diverse populations while validating their distinct traditions. Popular music became one arena where this complex balancing act was attempted.
 
 The challenge was formidable. Kenya's boundaries, drawn by colonial powers, encompassed over forty ethnic groups with distinct languages, customs, and musical traditions. Pre-independence musical life was primarily local and ethnic, with Luo listening to nyatiti music, Kikuyu to traditional songs, coastal communities to taarab, and so forth. Creating a unified national soundscape while respecting this diversity required careful navigation. The government's approach combined promotion of pan-ethnic genres (like [[Kenyan Dansi Orchestras|Swahili rumba]]) with support for vernacular music that could represent specific communities within a national framework.
 
@@ -24,7 +24,7 @@ By the end of the Kenyatta era in 1978, music had created both connection and di
 
 ## See Also
 - [[Voice of Kenya Music Programming]]
-- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
+- [[Jomo Kenyatta Presidency]]
 - [[Cross-Ethnic/Kenya National Identity]]
 - [[Benga Music]]
 - [[Luo Benga and Nyanza Identity]]

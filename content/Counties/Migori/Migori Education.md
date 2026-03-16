@@ -30,8 +30,8 @@ Overcrowded classrooms, inadequate teaching materials, and limited equipment con
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Ministry of Education. (2019). Education Statistics by County. https://www.education.go.ke/

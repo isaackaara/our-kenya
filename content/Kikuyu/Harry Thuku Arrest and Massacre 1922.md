@@ -7,7 +7,7 @@ The arrest of Harry Thuku and the subsequent massacre of protesters in Nairobi o
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Harry Thuku]]
+- [[Harry Thuku]]
 
 ## Sources
 *To be added*

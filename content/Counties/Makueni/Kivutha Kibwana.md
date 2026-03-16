@@ -14,7 +14,7 @@ Kibwana's tenure ended in 2022 due to constitutional term limits. His legacy inc
 ## See Also
 
 - [[Makueni County|Makueni County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Makueni Devolution Success|Devolution Success]]
 - [[Sand Dams Makueni|Sand Dams (water technology)]]
 - [[Makueni Climate Change Adaptation|Climate Adaptation]]

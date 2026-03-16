@@ -1,12 +1,12 @@
-Nyeri County contains sacred sites and cultural locations important to Kikuyu heritage. [[../../Conservation/Mount Kenya National Park|Mount Kenya]] holds spiritual significance as the traditional dwelling of Ngai (God). Sacred groves, though threatened by development, remain culturally important. Burial grounds and cemetery sites maintain ancestral significance. Sites associated with Mau Mau struggle have historical importance. Cultural heritage protection efforts attempt to preserve sites against development pressures.
+Nyeri County contains sacred sites and cultural locations important to Kikuyu heritage. [[Mount Kenya National Park|Mount Kenya]] holds spiritual significance as the traditional dwelling of Ngai (God). Sacred groves, though threatened by development, remain culturally important. Burial grounds and cemetery sites maintain ancestral significance. Sites associated with Mau Mau struggle have historical importance. Cultural heritage protection efforts attempt to preserve sites against development pressures.
 
 
 ## See Also
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

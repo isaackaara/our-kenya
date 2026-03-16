@@ -1,4 +1,4 @@
-The [[Giriama People|Giriama]] comprise the largest sub-group of the [[../../Mijikenda/Mijikenda|Mijikenda]] confederation, with approximately 700,000 people concentrated in [[Kilifi County|Kilifi County]] and surrounding coastal regions of Kenya's coast. The Giriama language, Chigiriama, belongs to the Bantu language family and shares linguistic features with other Mijikenda languages while maintaining distinctive vocabulary reflecting Giriama-specific historical experiences and environmental knowledge. Today, most Giriama speakers are multilingual, speaking Chigiriama at home within family contexts, Kiswahili in commerce and educational settings, and English in formal bureaucratic interactions. This linguistic diversity reflects centuries of cultural adaptation to coastal environments and more recent integration into Kenyan national structures.
+The [[Giriama People|Giriama]] comprise the largest sub-group of the [[Mijikenda|Mijikenda]] confederation, with approximately 700,000 people concentrated in [[Kilifi County|Kilifi County]] and surrounding coastal regions of Kenya's coast. The Giriama language, Chigiriama, belongs to the Bantu language family and shares linguistic features with other Mijikenda languages while maintaining distinctive vocabulary reflecting Giriama-specific historical experiences and environmental knowledge. Today, most Giriama speakers are multilingual, speaking Chigiriama at home within family contexts, Kiswahili in commerce and educational settings, and English in formal bureaucratic interactions. This linguistic diversity reflects centuries of cultural adaptation to coastal environments and more recent integration into Kenyan national structures.
 
 Giriama oral histories, maintained by specialist historians and elder genealogists, trace community migrations from interior regions centuries before the Common Era, though precise historical timelines remain contested among academic historians and oral tradition keepers. Archaeological evidence suggests Bantu-speaking peoples inhabited the Kilifi coastal regions for many centuries before documented Arab and European contact, with settlement sites showing continuous occupation across multiple millennia. The Giriama developed complex societies featuring distinctive governance systems organized through age grades and elder councils, sophisticated religious practices centered on sacred [[Giriama Kaya Forests|Kaya forests]], and diverse economic organizations strategically adapted to coastal environmental conditions including marine, agricultural, and trading activities.
 
@@ -18,7 +18,7 @@ Contemporary Giriama communities face significant interconnected challenges incl
 
 ## See Also
 
-- [[../../Mijikenda/Mijikenda|Mijikenda Confederation]]
+- [[Mijikenda|Mijikenda Confederation]]
 - [[Kilifi County|Kilifi County Overview]]
 - [[Kilifi Cultural Heritage|Kilifi Cultural Heritage]]
 - [[Kilifi Islam|Kilifi Islam]]

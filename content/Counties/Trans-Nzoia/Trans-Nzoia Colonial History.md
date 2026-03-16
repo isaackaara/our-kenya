@@ -9,7 +9,7 @@ The Mau Mau Rebellion (1952-1960) disrupted colonial order and accelerated decol
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/White_Highlands
 2. https://www.britannica.com/place/Kenya/Colonial-period

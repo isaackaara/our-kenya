@@ -9,7 +9,7 @@ Sunflower oil is a cooking staple in Kenyan households and food preparation. The
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca9876en/
 2. https://www.standardmedia.co.ke/business/article/2000987654/sunflower-farming-brightens-prospects

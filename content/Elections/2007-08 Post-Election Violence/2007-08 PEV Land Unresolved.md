@@ -14,7 +14,7 @@ By 2026, land rights in the Rift Valley had de facto been settled through occupa
 [[2007-08 PEV IDPs in 2026|IDPs in 2026]]
 [[2007-08 PEV Victims and Reparations|Victims and Reparations]]
 [[2007-08 PEV 2010 Constitution|2010 Constitution]]
-[[../../Corruption/Corruption|Corruption and Land Alienation]]
+[[Corruption|Corruption and Land Alienation]]
 
 ## Sources
 

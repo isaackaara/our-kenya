@@ -1,6 +1,6 @@
 Isiolo County's diverse ethnic composition creates a rich cultural landscape encompassing multiple languages, art forms, religious practices, and social traditions.
 
-Borana culture emphasises pastoral wealth accumulation, age-based social organisation, and the gada system of generational leadership. Cattle-based rituals and naming ceremonies mark important life transitions. [[../../Somali/Somali|Somali]] language, an Oromo dialect, carries cultural knowledge and identity.
+Borana culture emphasises pastoral wealth accumulation, age-based social organisation, and the gada system of generational leadership. Cattle-based rituals and naming ceremonies mark important life transitions. [[Somali|Somali]] language, an Oromo dialect, carries cultural knowledge and identity.
 
 Somali communities maintain Islamic religious traditions, distinctive clothing styles, and trading customs. Poetry holds special cultural significance in Somali society, with competitions and performances serving educational and entertainment functions.
 
@@ -20,7 +20,7 @@ Archaeological and historical sites reflect long human occupation. Rock art, set
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Cultural Heritage|Cultural Heritage]]
+[[Isiolo Cultural Heritage|Cultural Heritage]]
 ## Sources
 
 1. Anthropological Association of Kenya: Isiolo Cultural Heritage Survey 2022. https://www.aak.or.ke/

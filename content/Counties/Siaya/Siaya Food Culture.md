@@ -6,7 +6,7 @@ Ugali (maize meal) remains the principal staple, serving as the base for most me
 
 ## Fish and Protein Sources
 
-Fish from [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] represents an important protein source, particularly in lakeside communities. Omena (dried small fish) provides affordable protein and serves as a relish with ugali. Chicken, goats, and beef are consumed during celebrations and on occasions when affordable.
+Fish from [[Lake Victoria Kenya|Lake Victoria]] represents an important protein source, particularly in lakeside communities. Omena (dried small fish) provides affordable protein and serves as a relish with ugali. Chicken, goats, and beef are consumed during celebrations and on occasions when affordable.
 
 ## Vegetables and Fruits
 
@@ -30,11 +30,11 @@ Fish markets and agricultural markets provide venues for food trade and commerce
 
 ## See Also
 
-- [[../../Luo/Luo Food Culture|Luo Food Culture]]
+- [[Luo Food Culture|Luo Food Culture]]
 - [[Siaya Fishing Communities]]
 - [[Siaya Agriculture]]
 - [[Siaya Lake Victoria Economy]]
-- [[../Kisumu/Kisumu Food Culture|Kisumu Food Culture]]
+- [[Kisumu Food Culture|Kisumu Food Culture]]
 - [[Siaya Health]]
 - [[Siaya Cultural Heritage]]
 

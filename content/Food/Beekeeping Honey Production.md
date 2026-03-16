@@ -13,8 +13,8 @@ Challenges to beekeeping development included limited access to improved hive te
 ## See Also
 
 [[Colonial Kenya/Agricultural Innovation in the Highlands]]
-[[Food and Agriculture/Agroforestry Systems]]
-[[Food and Agriculture/Organic Farming]]
+[[Agroforestry Systems]]
+[[Organic Farming]]
 [[Food and Agriculture/Rural Livelihoods and Subsistence]]
 [[Health/Nutrition and Traditional Foods]]
 [[Labour/Smallholder Farmer Cooperatives]]

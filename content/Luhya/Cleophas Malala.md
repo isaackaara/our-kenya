@@ -1,4 +1,4 @@
-Cleophas Malala is a Kenyan politician who has held significant positions in [[../Counties/Kakamega/Kakamega County|Kakamega County]] and national politics. He served as Senator for Kakamega County (2017-2022) representing the Amani National Congress (ANC) party, and later served as Secretary General of the United Democratic Alliance (UDA) party. Malala's political career represents a different trajectory within Luhya politics compared to traditional establishment figures, positioning him as a counter-narrative voice in a region historically dominated by the opposition coalition.
+Cleophas Malala is a Kenyan politician who has held significant positions in [[Kakamega County|Kakamega County]] and national politics. He served as Senator for Kakamega County (2017-2022) representing the Amani National Congress (ANC) party, and later served as Secretary General of the United Democratic Alliance (UDA) party. Malala's political career represents a different trajectory within Luhya politics compared to traditional establishment figures, positioning him as a counter-narrative voice in a region historically dominated by the opposition coalition.
 
 ## Early Political Representation
 
@@ -22,7 +22,7 @@ The UDA is the party of President William Ruto, who won Kenya's presidential ele
 
 ## Counter-Narrative in Western Kenya Politics
 
-Malala's career, particularly his alignment with the UDA and Ruto administration, represents a counter-narrative to the traditional opposition orientation of Luhya politics. For much of Kenya's post-2002 period, the Luhya have been concentrated in opposition coalitions aligned with Raila Odinga and [[../Luo/Luo|Luo]]. Malala's position in the ruling UDA party and in Ruto's government attempts to reorient Luhya political allegiance toward the center.
+Malala's career, particularly his alignment with the UDA and Ruto administration, represents a counter-narrative to the traditional opposition orientation of Luhya politics. For much of Kenya's post-2002 period, the Luhya have been concentrated in opposition coalitions aligned with Raila Odinga and [[Luo|Luo]]. Malala's position in the ruling UDA party and in Ruto's government attempts to reorient Luhya political allegiance toward the center.
 
 ## Outspoken Political Voice
 
@@ -53,11 +53,11 @@ While Malala himself is male, Luhya politics has increasingly incorporated women
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

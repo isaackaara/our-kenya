@@ -1,4 +1,4 @@
-[[../../Maasai/Maasai|Maasai]] people form the dominant cultural and demographic community of Narok County, with a population of several hundred thousand who maintain pastoral traditions, land ownership claims, and cultural practices rooted in centuries of settlement in the region.
+[[Maasai|Maasai]] people form the dominant cultural and demographic community of Narok County, with a population of several hundred thousand who maintain pastoral traditions, land ownership claims, and cultural practices rooted in centuries of settlement in the region.
 
 The Maasai relationship with Narok has evolved significantly from exclusive pastoralist control to complex interactions with wildlife conservation, tourism development, and modern governance structures.
 
@@ -18,7 +18,7 @@ Maasai cultural practices including beadwork, pastoral knowledge, and traditiona
 
 ## Cross-References
 
-See also: [[../../Maasai/Maasai|Maasai]], [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Narok Land Issues|Narok Land Issues]]
+See also: [[Maasai|Maasai]], [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Narok Land Issues|Narok Land Issues]]
 
 
 ## See Also
@@ -27,8 +27,8 @@ See also: [[../../Maasai/Maasai|Maasai]], [[Narok County|Narok County]], [[Narok
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

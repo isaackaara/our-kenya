@@ -51,7 +51,7 @@ Nevertheless, agriculture remains the primary economic activity for the majority
 ## References
 
 - Wikipedia. Luhya People. December 2025.
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]] Government. History and Culture.
+- [[Kakamega County|Kakamega County]] Government. History and Culture.
 - Scribd. Overview of Luhya Culture in Kenya.
 - Kakamega County Government. County History and Culture.
 
@@ -66,9 +66,9 @@ Nevertheless, agriculture remains the primary economic activity for the majority
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

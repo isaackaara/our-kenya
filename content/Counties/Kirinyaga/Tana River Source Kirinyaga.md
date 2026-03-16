@@ -1,4 +1,4 @@
-The Tana River, Kenya's longest river, has its headwaters in the highlands of Kirinyaga County on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s southern slopes. The river originates from springs and streams fed by rainfall and water seepage from the mountain's forests. From its origin at approximately 4,000 meters elevation, the river flows eastward for over 600 kilometers to the Indian Ocean.
+The Tana River, Kenya's longest river, has its headwaters in the highlands of Kirinyaga County on [[Mount Kenya National Park|Mount Kenya]]'s southern slopes. The river originates from springs and streams fed by rainfall and water seepage from the mountain's forests. From its origin at approximately 4,000 meters elevation, the river flows eastward for over 600 kilometers to the Indian Ocean.
 
 ## Headwater Streams
 
@@ -32,11 +32,11 @@ Protected areas within Mount Kenya conserve forest cover in critical water-sourc
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

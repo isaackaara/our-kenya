@@ -22,8 +22,8 @@ Climate change affects the Ewaso Nyiro's flow through impacts on upper catchment
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Water Resources Management Authority: River Basin Profiles and Flow Data. https://www.wrma.or.ke/

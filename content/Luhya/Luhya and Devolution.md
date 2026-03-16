@@ -10,19 +10,19 @@ Kenya's 2010 Constitution fundamentally restructured the country's governance sy
 
 The Luhya population is concentrated in several counties:
 
-#### [[../Counties/Kakamega/Kakamega County|Kakamega County]]
+#### [[Kakamega County|Kakamega County]]
 
 Kakamega is the most Luhya-dominated county, with overwhelming Luhya majority population. The county includes most of the historic Kakamega District and parts of surrounding areas. Kakamega is Kenya's third-most populous county and represents the core Luhya political and economic territory.
 
-#### [[../Counties/Bungoma/Bungoma County|Bungoma County]]
+#### [[Bungoma County|Bungoma County]]
 
 Bungoma County has a substantial Luhya population, though with minorities of Sabaot, Tachoni, and other groups. Luhya sub-groups including [[Luhya|Luhya]] form a majority of Bungoma's population.
 
-#### [[../Counties/Vihiga/Vihiga County|Vihiga County]]
+#### [[Vihiga County|Vihiga County]]
 
 Vihiga County is predominantly Luhya (specifically Maragoli sub-group), with Luhya representing the overwhelming majority of the population.
 
-#### [[../Counties/Trans-Nzoia/Trans-Nzoia County|Trans-Nzoia County]] (Partial)
+#### [[Trans-Nzoia County|Trans-Nzoia County]] (Partial)
 
 Parts of Trans-Nzoia County have Luhya populations, though the county is ethnically mixed. Luhya constitute a significant minority within Trans-Nzoia.
 
@@ -117,11 +117,11 @@ Devolution has provided the Luhya with substantial governance authority and reso
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

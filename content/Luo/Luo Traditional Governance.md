@@ -1,4 +1,4 @@
-The Luo political system prior to colonial contact lacked the centralized kingship found among groups like the Wanga Kingdom or the hierarchical age-grade systems of [[../Maasai/Maasai|Maasai]]. Instead, Luo governance was fundamentally decentralized, organized around clans and clan elders, with limited scope for individual rulers.
+The Luo political system prior to colonial contact lacked the centralized kingship found among groups like the Wanga Kingdom or the hierarchical age-grade systems of [[Maasai|Maasai]]. Instead, Luo governance was fundamentally decentralized, organized around clans and clan elders, with limited scope for individual rulers.
 
 ## Clan Structure and Authority
 

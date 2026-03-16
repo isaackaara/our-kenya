@@ -2,7 +2,7 @@ The mugumo tree, scientifically known as Ficus thonningii, is the sacred fig tre
 
 ## Spiritual Significance
 
-The mugumo tree is not the dwelling place of Ngai. Rather, it is where the Kikuyu gathered to make offerings and prayers facing [[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga), which is understood as the portal where prayers ascend to the divine. The tree itself represents a sacred space for communion with the spiritual world.
+The mugumo tree is not the dwelling place of Ngai. Rather, it is where the Kikuyu gathered to make offerings and prayers facing [[Mount Kenya National Park|Mount Kenya]] (Kirinyaga), which is understood as the portal where prayers ascend to the divine. The tree itself represents a sacred space for communion with the spiritual world.
 
 ## Sacrifice and Ritual
 
@@ -39,5 +39,5 @@ Among traditional Kikuyu communities, the mugumo tree remains a symbol of cultur
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 

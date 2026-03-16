@@ -6,13 +6,13 @@ The venue's heyday coincided with [[Music/Kenyan Benga Music|benga's]] peak popu
 
 Victoria Musical Club operated within broader network of Luo musical venues including clubs in Nairobi's Eastlands and along Lake Victoria's shores. However, Kisumu's position as regional capital gave Victoria Musical Club particular prestige. Success there signaled broader Western Kenya viability and often preceded national recognition.
 
-The club's musical programming emphasized Luo artists performing benga, Ohangla, and other Luo-rooted genres. This ethnic specificity reflected Kisumu's demographics and Victoria Musical Club's business model targeting primarily Luo audiences. However, the club occasionally featured [[Music/Congolese Influence on Kenya 1980s|Congolese rumba]] bands and other non-Luo acts, demonstrating some musical eclecticism.
+The club's musical programming emphasized Luo artists performing benga, Ohangla, and other Luo-rooted genres. This ethnic specificity reflected Kisumu's demographics and Victoria Musical Club's business model targeting primarily Luo audiences. However, the club occasionally featured [[Congolese Influence on Kenya 1980s|Congolese rumba]] bands and other non-Luo acts, demonstrating some musical eclecticism.
 
 Live performances at Victoria Musical Club followed patterns common to Kenyan club circuit: extended sets allowing musicians to showcase virtuosity, audience participation and dancing, and social atmosphere where music provided backdrop for drinking, socializing, and romance. The club functioned as social institution beyond pure entertainment venue.
 
 Economic realities shaped Victoria Musical Club's operations. Cover charges, drink sales, and modest artist fees created tight financial margins that required balancing artistic quality against commercial viability. The club needed to book popular artists drawing crowds while managing costs within narrow budgets typical of provincial Kenya nightlife.
 
-[[Music/Piracy and the Kenyan Music Industry|Cassette piracy's]] economic devastation in late 1980s and 1990s actually increased Victoria Musical Club's importance for musicians. As recording revenue collapsed, live performance became even more crucial income source. Musicians intensified touring, making regular club appearances that generated sustainable earnings when album sales could not.
+[[Piracy and the Kenyan Music Industry|Cassette piracy's]] economic devastation in late 1980s and 1990s actually increased Victoria Musical Club's importance for musicians. As recording revenue collapsed, live performance became even more crucial income source. Musicians intensified touring, making regular club appearances that generated sustainable earnings when album sales could not.
 
 However, Kenya's economic difficulties in the 1990s stressed club operations. Reduced disposable incomes meant smaller audiences and lower drink sales. Some patrons shifted from expensive live music clubs to cheaper entertainment options. Victoria Musical Club, like venues across Kenya, struggled with declining attendance and revenues.
 
@@ -27,11 +27,11 @@ By the 2000s, Victoria Musical Club's golden era had passed, though the venue's 
 ## See Also
 - [[Music/Kenyan Benga Music]]
 - [[Music/Luo Musical Traditions]]
-- [[Music/Recording Studios Kenya 1980s-1990s]]
-- [[Music/Piracy and the Kenyan Music Industry]]
-- [[Music/Congolese Influence on Kenya 1980s]]
-- [[Music/FM Radio Revolution Kenya 1990s]]
-- [[Music/Music and the Multiparty Era]]
+- [[Recording Studios Kenya 1980s-1990s]]
+- [[Piracy and the Kenyan Music Industry]]
+- [[Congolese Influence on Kenya 1980s]]
+- [[FM Radio Revolution Kenya 1990s]]
+- [[Music and the Multiparty Era]]
 
 ## Sources
 1. KAMP. "The Evolution of Kenyan Music." https://www.kamp.or.ke/index.php/en/kamp-media/latest-news/179-the-evolution-of-kenyan-music-a-look-into-the-rich-history-of-traditional-and-popular-styles

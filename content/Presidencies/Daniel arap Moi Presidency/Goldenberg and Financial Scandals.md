@@ -17,7 +17,7 @@ The Anglo Leasing scandal, which overlapped temporally with Goldenberg and which
 ## See Also
 [[Goldenberg Scandal]]
 [[Anglo Leasing Scandal Origins]]
-[[Corruption/Kenya]]
+[[Kenya]]
 [[Moi Economic Record]]
 [[Moi Post-Presidency]]
 [[Kenya/Financial Crisis]]

@@ -16,10 +16,10 @@ By the late 20th century, smallholder farm productivity had increased substantia
 
 ## See Also
 
-[[Food and Agriculture/Agricultural Research]]
-[[Food and Agriculture/Extension Services Agriculture]]
-[[Food and Agriculture/Fertilizer Use]]
-[[Food and Agriculture/Crop Variety Development]]
+[[Agricultural Research]]
+[[Extension Services Agriculture]]
+[[Fertilizer Use]]
+[[Crop Variety Development]]
 [[Labour/Smallholder Agricultural Development]]
 [[Poverty/Agricultural Productivity Constraints]]
 

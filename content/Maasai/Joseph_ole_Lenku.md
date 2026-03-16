@@ -2,7 +2,7 @@
 title: Joseph ole Lenku
 ---
 
-## [[../Counties/Kajiado/Kajiado County|Kajiado County]] Governor and National Politics
+## [[Kajiado County|Kajiado County]] Governor and National Politics
 
 Joseph ole Lenku is a contemporary Maasai politician, having served as Kajiado County Governor. He represents the new generation of Maasai political leadership in the devolved governance system.
 
@@ -37,10 +37,10 @@ The extent to which contemporary Maasai political leadership can transform commu
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

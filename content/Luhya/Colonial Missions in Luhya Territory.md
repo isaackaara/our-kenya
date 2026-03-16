@@ -18,7 +18,7 @@ The Mill Hill Fathers, a Dutch Catholic order, established Catholic missions in 
 
 ### Kakamega Educational Legacy
 
-The Mill Hill Fathers' educational institutions in [[../Counties/Kakamega/Kakamega County|Kakamega County]] created a legacy of Catholic-run schools that became prominent in Luhya education. Catholic schools established by the Mill Hill Fathers gained reputations for quality education and produced educated Luhya leaders and professionals.
+The Mill Hill Fathers' educational institutions in [[Kakamega County|Kakamega County]] created a legacy of Catholic-run schools that became prominent in Luhya education. Catholic schools established by the Mill Hill Fathers gained reputations for quality education and produced educated Luhya leaders and professionals.
 
 ### Hospital and Health Services
 
@@ -99,11 +99,11 @@ Contemporary Luhya Christians evaluate the mission legacy with mixed perspective
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

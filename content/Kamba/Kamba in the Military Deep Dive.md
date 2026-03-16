@@ -2,7 +2,7 @@ The Kamba have maintained a disproportionately high presence in Kenya's military
 
 ## King's African Rifles (1902-1961)
 
-The British colonial administration established the King's African Rifles (KAR) in 1902 as the primary military force for East Africa. Ukambani became one of the key recruitment zones, second only to traditional warrior societies among [[../Kikuyu/Kikuyu|Kikuyu]] and Maasai.
+The British colonial administration established the King's African Rifles (KAR) in 1902 as the primary military force for East Africa. Ukambani became one of the key recruitment zones, second only to traditional warrior societies among [[Kikuyu|Kikuyu]] and Maasai.
 
 ### Recruitment Patterns
 

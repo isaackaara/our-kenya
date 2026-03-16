@@ -9,8 +9,8 @@ Youth representation in governance has increased through youth representative po
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Youth|Youth]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Youth|Youth]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/youth-challenges-transnzoia
 2. https://www.unicef.org/kenya/youth-employment

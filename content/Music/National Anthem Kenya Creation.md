@@ -2,9 +2,9 @@ The creation of Kenya's national anthem, "Ee Mungu Nguvu Yetu" (Oh God of All Cr
 
 The anthem was commissioned in late 1962 or early 1963 as Kenya prepared for independence. The task of composition fell to a committee that included members of the Kenya Music Festival organization, government officials, and musicians. The committee's mandate was to create an anthem that would be musically accessible, emotionally moving, politically appropriate, and capable of uniting Kenya's diverse ethnic groups.
 
-The melody was adapted from a [[Music/European Missionary Music in Kenya|traditional Kenyan hymn]] or folk song, though the exact origins remain somewhat disputed. Some sources suggest it drew on Pokomo musical traditions, others point to broader East African melodic patterns. The adaptation rather than wholly original composition made the anthem immediately familiar-sounding to many Kenyans, easing its acceptance.
+The melody was adapted from a [[European Missionary Music in Kenya|traditional Kenyan hymn]] or folk song, though the exact origins remain somewhat disputed. Some sources suggest it drew on Pokomo musical traditions, others point to broader East African melodic patterns. The adaptation rather than wholly original composition made the anthem immediately familiar-sounding to many Kenyans, easing its acceptance.
 
-The musical structure follows European hymn conventions: stately tempo, four-part harmony suitable for massed singing, simple melodic contour, and straightforward rhythm. This structure reflected the reality that [[Music/Mission Church Choirs Kenya|mission school choral training]] had prepared most educated Kenyans to sing in precisely this style. The anthem was accessible because it sounded like church music.
+The musical structure follows European hymn conventions: stately tempo, four-part harmony suitable for massed singing, simple melodic contour, and straightforward rhythm. This structure reflected the reality that [[Mission Church Choirs Kenya|mission school choral training]] had prepared most educated Kenyans to sing in precisely this style. The anthem was accessible because it sounded like church music.
 
 The lyrics, written in Swahili, Kenya's national language, were carefully crafted to be inclusive and aspirational. "Ee Mungu Nguvu Yetu" invokes God's blessing, acknowledging Kenya's predominantly Christian population while avoiding specific Christian imagery that might exclude Muslims. References to "peace," "unity," and "liberty" articulated the new nation's stated values.
 
@@ -20,9 +20,9 @@ Comparing Kenya's anthem to those of other newly independent African nations rev
 
 The anthem's reception was generally positive, though not universally enthusiastic. Some musicians and intellectuals felt it was too conventional, too similar to colonial-era church music. They wanted something more distinctly African, perhaps incorporating traditional instruments or rhythms. Others praised its accessibility and its success in creating instant national unity through familiar musical language.
 
-Teaching the anthem became a priority in schools. [[Music/Schools Music Festivals Kenya Origins|Music festivals]] featured anthem performances, with schools competing to deliver the most moving renditions. This institutionalization embedded the anthem deeply in Kenyan civic culture, ensuring each generation learned it.
+Teaching the anthem became a priority in schools. [[Schools Music Festivals Kenya Origins|Music festivals]] featured anthem performances, with schools competing to deliver the most moving renditions. This institutionalization embedded the anthem deeply in Kenyan civic culture, ensuring each generation learned it.
 
-The anthem's meaning evolved post-independence. During the [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta era]], it often accompanied state celebrations emphasizing unity and development. Later, during more difficult political periods, the anthem's calls for peace and liberty took on ironic or aspirational meanings, reminding Kenyans of unfulfilled independence promises.
+The anthem's meaning evolved post-independence. During the [[Jomo Kenyatta Presidency|Kenyatta era]], it often accompanied state celebrations emphasizing unity and development. Later, during more difficult political periods, the anthem's calls for peace and liberty took on ironic or aspirational meanings, reminding Kenyans of unfulfilled independence promises.
 
 International sporting events gave the anthem new contexts and meanings. When Kenyan athletes won medals at global competitions, "Ee Mungu Nguvu Yetu" played to international audiences, representing Kenya to the world. These moments generated patriotic pride, with the anthem becoming associated with Kenyan excellence.
 
@@ -31,12 +31,12 @@ The anthem's religious language occasionally generated debate. Should a secular 
 "Ee Mungu Nguvu Yetu" endures as Kenya's anthem over six decades after independence. Its familiarity, its association with national celebrations and achievements, and its role in civic education have made it a stable element of Kenyan identity. The anthem represents continuity amid political changes, a sonic constant as everything else evolved.
 
 ## See Also
-- [[Music/Independence Anthems Kenya]]
+- [[Independence Anthems Kenya]]
 - [[Elections/1963 Independence Election]]
-- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
-- [[Music/European Missionary Music in Kenya]]
-- [[Music/Mission Church Choirs Kenya]]
-- [[Music/Schools Music Festivals Kenya Origins]]
+- [[Jomo Kenyatta Presidency]]
+- [[European Missionary Music in Kenya]]
+- [[Mission Church Choirs Kenya]]
+- [[Schools Music Festivals Kenya Origins]]
 
 ## Sources
 1. Ogot, Bethwell A. "Decolonization and Independence in Kenya 1940-1963." James Currey, 1995. https://www.jamescurrey.com/product/decolonization-and-independence-in-kenya-1940-93/

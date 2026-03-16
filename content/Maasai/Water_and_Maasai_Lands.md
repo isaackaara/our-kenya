@@ -6,9 +6,9 @@ title: Water and Maasai Lands
 
 Water is the most critical resource in Maasai territory. Major water sources include:
 
-- **[[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] River** (flows through [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]])
+- **[[Maasai Mara National Reserve|Maasai Mara National Reserve]] River** (flows through [[Maasai Mara National Reserve|Maasai Mara National Reserve]])
 - **Ewaso Nyiro River** (primary water source for northern Maasai and Samburu)
-- **Kilimanjaro aquifer** (underground water supporting [[../Conservation/Amboseli National Park|Amboseli National Park]] region)
+- **Kilimanjaro aquifer** (underground water supporting [[Amboseli National Park|Amboseli National Park]] region)
 - Seasonal streams and temporary water holes
 
 In semi-arid pastoral systems, access to water determines the carrying capacity of the land. During droughts, water sources determine survival.
@@ -60,10 +60,10 @@ The future of Maasai pastoralism may depend as much on securing water rights as 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

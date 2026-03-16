@@ -4,7 +4,7 @@ title: Samburu Deep Dive
 
 ## Geographic Territory
 
-The Samburu inhabit Samburu County in northern Kenya, as well as parts of Isiolo and [[../Counties/Laikipia/Laikipia County|Laikipia County]] counties. Their territory covers approximately 21,000 square kilometers in the Rift Valley and adjacent plains. The Samburu landscape is arid to semi-arid, with annual rainfall typically 300-600 millimeters. The terrain includes mountains (Samburu Range, Matthew's Range), river valleys, and semi-desert plains. The Samburu River is an important water source.
+The Samburu inhabit Samburu County in northern Kenya, as well as parts of Isiolo and [[Laikipia County|Laikipia County]] counties. Their territory covers approximately 21,000 square kilometers in the Rift Valley and adjacent plains. The Samburu landscape is arid to semi-arid, with annual rainfall typically 300-600 millimeters. The terrain includes mountains (Samburu Range, Matthew's Range), river valleys, and semi-desert plains. The Samburu River is an important water source.
 
 ## Ethnic Identity and Language
 
@@ -12,7 +12,7 @@ The Samburu are closely related to the Maasai, speaking Samburu language (Sambur
 
 ## Pastoral Economy
 
-Like the Maasai, [[../Samburu/Samburu|Samburu]] are primarily pastoral, raising cattle, goats, camels, and sheep. The arid Samburu territory makes camels particularly important for Samburu pastoralism compared to Maasai pastoralism. Camel herding is culturally valued and economically important. Samburu pastoral practices are adapted to the arid environment, with different grazing and water management strategies than more southern pastoral communities.
+Like the Maasai, [[Samburu|Samburu]] are primarily pastoral, raising cattle, goats, camels, and sheep. The arid Samburu territory makes camels particularly important for Samburu pastoralism compared to Maasai pastoralism. Camel herding is culturally valued and economically important. Samburu pastoral practices are adapted to the arid environment, with different grazing and water management strategies than more southern pastoral communities.
 
 ## Age-Set System
 
@@ -28,7 +28,7 @@ Samburu territory includes important wildlife reserves: Samburu National Reserve
 
 ## Tourism Economy
 
-Samburu National Reserve attracts international tourists seeking wildlife viewing and cultural experiences. The reserve has lodges and tourist infrastructure. Tourism provides employment and income to Samburu communities through guide work, hotel employment, and conservancy revenue sharing. However, tourism income remains limited compared to Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] tourism. Tourism market for Samburu region is smaller and less developed.
+Samburu National Reserve attracts international tourists seeking wildlife viewing and cultural experiences. The reserve has lodges and tourist infrastructure. Tourism provides employment and income to Samburu communities through guide work, hotel employment, and conservancy revenue sharing. However, tourism income remains limited compared to Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]] tourism. Tourism market for Samburu region is smaller and less developed.
 
 ## Climate and Drought
 
@@ -86,12 +86,12 @@ Samburu communities face similar futures to Maasai: pastoral system sustainabili
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

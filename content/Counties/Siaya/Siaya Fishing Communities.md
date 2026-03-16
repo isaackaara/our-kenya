@@ -1,4 +1,4 @@
-Fishing communities along [[Siaya County]]'s [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] shoreline represent distinct settlements with specialized economies and social structures. These communities maintain unique cultural practices, livelihood systems, and vulnerability profiles.
+Fishing communities along [[Siaya County]]'s [[Lake Victoria Kenya|Lake Victoria]] shoreline represent distinct settlements with specialized economies and social structures. These communities maintain unique cultural practices, livelihood systems, and vulnerability profiles.
 
 ## Major Fishing Settlements
 
@@ -31,12 +31,12 @@ Healthcare, education, and other services are often distant from fishing settlem
 ## See Also
 
 - [[Siaya Lake Victoria Economy]]
-- [[../../Luo/Luo Fishing Economy Deep Dive|Luo Fishing Economy]]
-- [[../../Luo/Luo and the Fish Trade|Luo and the Fish Trade]]
+- [[Luo Fishing Economy Deep Dive|Luo Fishing Economy]]
+- [[Luo and the Fish Trade|Luo and the Fish Trade]]
 - [[Siaya HIV Crisis]]
 - [[Siaya Health]]
-- [[../Kisumu/Kisumu Fishing Industry|Kisumu Fishing Industry]]
-- [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]
+- [[Kisumu Fishing Industry|Kisumu Fishing Industry]]
+- [[Lake Victoria Kenya|Lake Victoria]]
 
 ## Sources
 

@@ -1,4 +1,4 @@
-In 2017-2018, armed herders, primarily from Pokot and [[../../Samburu/Samburu|Samburu]] communities, invaded Laikipia ranches and wildlife conservancies. The invasions reflected pastoralist grievances over land access restrictions and conservation boundaries. Invaders killed wildlife including endangered rhinos and elephants. Ranch and conservancy workers were killed. The invasions represented escalation of land use conflicts. Political context included national elections and wider political upheaval. Security responses involved police and military interventions. The invasions highlighted deep conflicts between conservation, ranching, and pastoralism.
+In 2017-2018, armed herders, primarily from Pokot and [[Samburu|Samburu]] communities, invaded Laikipia ranches and wildlife conservancies. The invasions reflected pastoralist grievances over land access restrictions and conservation boundaries. Invaders killed wildlife including endangered rhinos and elephants. Ranch and conservancy workers were killed. The invasions represented escalation of land use conflicts. Political context included national elections and wider political upheaval. Security responses involved police and military interventions. The invasions highlighted deep conflicts between conservation, ranching, and pastoralism.
 
 ## Context and Causes
 
@@ -24,11 +24,11 @@ Security operations increased on ranches and conservancies. Community tensions r
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

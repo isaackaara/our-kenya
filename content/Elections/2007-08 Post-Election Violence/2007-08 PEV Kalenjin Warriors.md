@@ -16,7 +16,7 @@ Post-violence, Kalenjin Warriors demobilized or transitioned to other roles. Som
 [[2007-08 PEV William Ruto Role|William Ruto Role]]
 [[2007-08 PEV Land Unresolved|Land Unresolved]]
 [[2007-08 PEV Politicians and Militias|Politicians and Militias]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 
 ## Sources
 

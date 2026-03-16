@@ -2,7 +2,7 @@ Ramogi Achieng Oneko (1920-2007) was a Kenyan freedom fighter, journalist, and p
 
 ## Early Life and Education
 
-Achieng Oneko was born in 1920 in Tieng'a village, Uyoma sub-location, in Bondo District (in present-day [[../Counties/Siaya/Siaya County|Siaya County]]). He received his education at Maseno School, the prestigious Anglican mission school that trained a generation of Luo and Kenya's elite. Maseno education provided Oneko with English literacy, intellectual formation, and exposure to nationalist ideas that were circulating in the late colonial period.
+Achieng Oneko was born in 1920 in Tieng'a village, Uyoma sub-location, in Bondo District (in present-day [[Siaya County|Siaya County]]). He received his education at Maseno School, the prestigious Anglican mission school that trained a generation of Luo and Kenya's elite. Maseno education provided Oneko with English literacy, intellectual formation, and exposure to nationalist ideas that were circulating in the late colonial period.
 
 ## Arrest and the Kapenguria Six (1952-1961)
 

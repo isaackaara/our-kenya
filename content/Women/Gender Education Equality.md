@@ -24,7 +24,7 @@ Contemporary educational gender equality efforts include pregnant girl and young
 [[Girls School Performance]]
 [[Gender-Based Violence]]
 [[Childcare Early Development]]
-[[Education/Education|Educational Systems]]
+[[Education|Educational Systems]]
 [[Women Leadership Capacity]]
 
 ## Sources

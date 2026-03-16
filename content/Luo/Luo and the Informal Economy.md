@@ -20,7 +20,7 @@ The sector nevertheless provided income for thousands of Luo youth who lacked fo
 
 ## Petty Trading and Small-Scale Commerce
 
-Luo traders engaged in petty commerce: selling vegetables, fruits, fish, charcoal, and other commodities in markets and streets. This sector required minimal capital and offered flexibility, making it attractive to women and men without formal employment. Luo traders, many working in Nairobi's sprawling informal markets, established networks with rural suppliers (often in Nyanza) to source commodities. The fish trade, in particular, involved Luo traders transporting fish from [[../Conservation/Lake Victoria Kenya|Lake Victoria]] to urban markets.
+Luo traders engaged in petty commerce: selling vegetables, fruits, fish, charcoal, and other commodities in markets and streets. This sector required minimal capital and offered flexibility, making it attractive to women and men without formal employment. Luo traders, many working in Nairobi's sprawling informal markets, established networks with rural suppliers (often in Nyanza) to source commodities. The fish trade, in particular, involved Luo traders transporting fish from [[Lake Victoria Kenya|Lake Victoria]] to urban markets.
 
 ## Women in the Informal Economy
 

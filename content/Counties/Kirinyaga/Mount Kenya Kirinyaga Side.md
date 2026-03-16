@@ -1,4 +1,4 @@
-Mount Kenya's southern slopes form the dominant physical and cultural feature of Kirinyaga County. The mountain, known as Kirinyaga in [[../../Kikuyu/Kikuyu|Kikuyu]] (the name from which the county takes its official name), rises to 5,199 meters and dominates the landscape. The southern approaches present a different ecological and economic profile than other sides of the mountain, shaped by rainfall patterns, altitude zones, and human settlement.
+Mount Kenya's southern slopes form the dominant physical and cultural feature of Kirinyaga County. The mountain, known as Kirinyaga in [[Kikuyu|Kikuyu]] (the name from which the county takes its official name), rises to 5,199 meters and dominates the landscape. The southern approaches present a different ecological and economic profile than other sides of the mountain, shaped by rainfall patterns, altitude zones, and human settlement.
 
 ## Forest Ecosystems
 
@@ -24,11 +24,11 @@ Mount Kenya holds profound spiritual significance in Kikuyu tradition and belief
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

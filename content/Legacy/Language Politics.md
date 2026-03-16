@@ -51,7 +51,7 @@ There are experiments in mother-tongue instruction and bilingual education. But 
 
 ## Related
 
-[[../Kikuyu/Ngugi wa Thiong'o]] | [[../Cross-Ethnic/Swahili as Neutral Ground]] | [[../Legacy/Decolonising the Mind]]
+[[../Kikuyu/Ngugi wa Thiong'o]] | [[Swahili as Neutral Ground]] | [[Decolonising the Mind]]
 
 ## See Also
 

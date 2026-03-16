@@ -10,7 +10,7 @@ The Luhya "language" is not a single unified language but a cluster of 14 to 20 
 - Linguists classify Luhya as part of the Greater Luyia languages, a macrolanguage cluster within the Bantu family
 
 ## Confederation Paradox
-The existence of 18 sub-groups with 14-20 distinct languages illustrates why the Luhya confederation has never achieved the political cohesion of groups like [[../Kikuyu/Kikuyu|Kikuyu]] or Luo. Language is both a cultural asset and a barrier to unity, reflecting the Luhya choice to remain a confederation rather than consolidate into a single ethnic nation.
+The existence of 18 sub-groups with 14-20 distinct languages illustrates why the Luhya confederation has never achieved the political cohesion of groups like [[Kikuyu|Kikuyu]] or Luo. Language is both a cultural asset and a barrier to unity, reflecting the Luhya choice to remain a confederation rather than consolidate into a single ethnic nation.
 
 ## Related
 [[The 18 Sub-Groups]] | [[Bukusu]] | [[Maragoli]] | [[Luhya Cultural Identity Today]]
@@ -19,9 +19,9 @@ The existence of 18 sub-groups with 14-20 distinct languages illustrates why the
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

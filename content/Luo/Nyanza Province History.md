@@ -2,7 +2,7 @@ Nyanza Province was one of Kenya's eight administrative provinces prior to the 2
 
 ## Colonial Origins and Structure
 
-The province was established during the British colonial period as a geographic and administrative unit for imperial control. The first provincial commissioner of Nyanza was C.H. Hobley, known by the Luo as "Obilo." The British colonial administration organized the province around Kisumu as its capital, capitalizing on the city's position as the [[../Conservation/Lake Victoria Kenya|Lake Victoria]] terminus of the Uganda Railway.
+The province was established during the British colonial period as a geographic and administrative unit for imperial control. The first provincial commissioner of Nyanza was C.H. Hobley, known by the Luo as "Obilo." The British colonial administration organized the province around Kisumu as its capital, capitalizing on the city's position as the [[Lake Victoria Kenya|Lake Victoria]] terminus of the Uganda Railway.
 
 The colonial provincial administration worked with appointed chiefs and headmen to collect taxes, enforce colonial regulations, and govern the African population. However, the Luo's decentralized pre-colonial political structures meant that these appointed officials often had little traditional mandate or legitimacy. The colonial chief was an artificial creation of British administrative convenience, superimposed onto Luo clan structures.
 
@@ -16,7 +16,7 @@ Under Moi's rule (1978-2002), the political marginalization of Nyanza and the Lu
 
 ## Economic and Social Character
 
-During the provincial period, Nyanza encompassed six administrative districts: Kisumu, Siaya, [[../Counties/Homa Bay/Homa Bay County|Homa Bay County]], [[../Counties/Migori/Migori County|Migori County]], Kisii, and Kericho. The province's economy was based on agriculture (maize, sugarcane, tea in highland areas), fishing from Lake Victoria, and commerce centered on Kisumu. The port at Kisumu, though declining in importance after the collapse of the East African Community in 1977, remained symbolically and economically significant.
+During the provincial period, Nyanza encompassed six administrative districts: Kisumu, Siaya, [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], Kisii, and Kericho. The province's economy was based on agriculture (maize, sugarcane, tea in highland areas), fishing from Lake Victoria, and commerce centered on Kisumu. The port at Kisumu, though declining in importance after the collapse of the East African Community in 1977, remained symbolically and economically significant.
 
 The province's population was predominantly rural, with Kisumu as the only major urban center. Literacy rates and school enrollment were relatively high (due to the mission school legacy), but economic opportunities were limited compared to central Kenya or Nairobi. This combination of educational investment and limited economic opportunity drove substantial out-migration, particularly of educated Luo to Nairobi and other urban centers.
 

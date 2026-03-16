@@ -34,8 +34,8 @@ Border location creates land-related issues with cross-border land claims. Commu
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Land Commission. (2020). Land Policy Review. https://www.landcommission.go.ke/

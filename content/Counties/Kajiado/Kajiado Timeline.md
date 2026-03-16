@@ -2,7 +2,7 @@ Key dates and events in Kajiado County's history from pre-colonial times through
 
 ## Pre-Colonial and Early Colonial Period
 
-1880s-1890s: [[../../Maasai/Maasai|Maasai]] pastoral territories encompass vast areas including present-day Kajiado. Colonial contact occurs through traders and explorers.
+1880s-1890s: [[Maasai|Maasai]] pastoral territories encompass vast areas including present-day Kajiado. Colonial contact occurs through traders and explorers.
 
 1904-1911: Maasai Agreements formalize territorial boundaries and establish Maasai reserves, alienating previously controlled lands to European settlement.
 
@@ -45,8 +45,8 @@ Key dates and events in Kajiado County's history from pre-colonial times through
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

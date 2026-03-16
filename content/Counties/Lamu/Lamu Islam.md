@@ -25,7 +25,7 @@ Islam also shapes community ethics regarding hospitality, charity (zakat), and s
 - [[Bajuni People|Bajuni People]]
 - [[Lamu Cultural Heritage|Lamu Cultural Heritage]]
 - [[Lamu Women|Lamu Women]]
-- [[../../Swahili/Swahili|Swahili Culture and History]]
+- [[Swahili|Swahili Culture and History]]
 - [[Lamu Colonial History|Lamu Colonial History]]
 
 ## Sources

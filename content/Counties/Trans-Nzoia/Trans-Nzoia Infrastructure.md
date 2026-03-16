@@ -9,7 +9,7 @@ The NCPB grain storage silos at Kitale represent major agricultural infrastructu
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.kra.org.ke/business/counties/transnzoia-infrastructure
 2. https://www.standardmedia.co.ke/counties/article/2000987654/infrastructure-gaps-hamper-growth

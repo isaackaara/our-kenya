@@ -20,8 +20,8 @@ Contemporary Samburu engage with formal education, government, wage employment, 
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Anthropological Association of Kenya: Samburu Community Profile and Ethnographic Study. https://www.aak.or.ke/

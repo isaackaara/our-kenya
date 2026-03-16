@@ -7,7 +7,7 @@ Jomo Kenyatta's years in London as KCA representative, student, and political ac
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Jomo Kenyatta]]
+- [[Jomo Kenyatta]]
 
 ## Sources
 *To be added*

@@ -1,4 +1,4 @@
-[[../Conservation/Lake Victoria Kenya|Lake Victoria]], known to the Luo as *Nam Lolwe* (the great water). The spiritual, economic, and cultural center of Luo civilization. The name *Lolwe* implies horizons beyond sight, reflecting the Luo's spiritual appreciation of the lake as a sacred and boundless expanse central to their identity and survival.
+[[Lake Victoria Kenya|Lake Victoria]], known to the Luo as *Nam Lolwe* (the great water). The spiritual, economic, and cultural center of Luo civilization. The name *Lolwe* implies horizons beyond sight, reflecting the Luo's spiritual appreciation of the lake as a sacred and boundless expanse central to their identity and survival.
 
 ## Key Facts
 
@@ -15,7 +15,7 @@ The Luo perception of Nam Lolwe contrasts sharply with agrarian ethnic groups (K
 
 ## Related
 
-[[Ramogi]] | [[[[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]]] | [[../Kikuyu/The Handshake 2018]]
+[[Ramogi]] | [[[[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]]] | [[The Handshake 2018]]
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

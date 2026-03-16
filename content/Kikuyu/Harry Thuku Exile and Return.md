@@ -7,7 +7,7 @@ Harry Thuku's detention and exile from 1922 to 1930 and his subsequent political
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Harry Thuku]]
+- [[Harry Thuku]]
 
 ## Sources
 *To be added*

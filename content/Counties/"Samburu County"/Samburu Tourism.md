@@ -22,8 +22,8 @@ Conservation benefits arise from tourism revenue supporting reserve management a
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Tourism Board: Northern Kenya Tourist Attractions Guide. https://www.tourism.go.ke/

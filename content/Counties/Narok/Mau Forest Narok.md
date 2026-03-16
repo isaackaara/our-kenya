@@ -1,6 +1,6 @@
 The Mau Forest complex in Narok County encompasses portions of Kenya's largest remaining closed-canopy forest, a critical watershed and biodiversity area that has experienced severe degradation from deforestation and encroachment over recent decades.
 
-The Mau Forest functions as one of Kenya's most important water towers, supplying rivers including the Mara River that feeds [[../../[[../../Maasai/Maasai|Maasai]]/Maasai|Maasai]] Mara ecosystem and downstream water users across multiple counties.
+The Mau Forest functions as one of Kenya's most important water towers, supplying rivers including the Mara River that feeds [[Maasai|Maasai]]/Maasai|Maasai]] Mara ecosystem and downstream water users across multiple counties.
 
 ## Forest Significance
 
@@ -33,8 +33,8 @@ See also: [[Narok County|Narok County]], [[The Great Migration|The Great Migrati
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

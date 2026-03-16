@@ -52,7 +52,7 @@ Health service access in Lake Baringo area is limited. Distance from health faci
 
 ## Tourism Potential
 
-Lake Baringo attracts some tourism, with water-based tourism (boat tours, fishing, birdwatching) and cultural tourism. However, Lake Baringo tourism is underdeveloped compared to Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]. Ilchamus communities could potentially benefit from tourism development, but infrastructure and marketing for Baringo tourism remain limited. Tourism development could provide alternative income source.
+Lake Baringo attracts some tourism, with water-based tourism (boat tours, fishing, birdwatching) and cultural tourism. However, Lake Baringo tourism is underdeveloped compared to Maasai [[Maasai Mara National Reserve|Maasai Mara National Reserve]]. Ilchamus communities could potentially benefit from tourism development, but infrastructure and marketing for Baringo tourism remain limited. Tourism development could provide alternative income source.
 
 ## NGO and Development Organization Presence
 
@@ -78,12 +78,12 @@ Ilchamus future depends on: water security around Lake Baringo, pastoral system 
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

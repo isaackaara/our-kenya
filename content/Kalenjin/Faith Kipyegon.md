@@ -2,7 +2,7 @@ Faith Kipyegon (born January 10, 1994) is a Nandi sub-group Kalenjin distance ru
 
 ## Ethnic and Geographic Identity
 
-Kipyegon comes from [[Kalenjin|Kalenjin]] sub-group of the Kalenjin ([[../Counties/Nandi/Nandi County|Nandi County]], specifically from Keringet in [[../Counties/Kericho/Kericho County|Kericho County]]). Her roots are in the Rift Valley's high-altitude training regions, and she represents the Kalenjin dominance in Kenyan distance running, particularly among women runners.
+Kipyegon comes from [[Kalenjin|Kalenjin]] sub-group of the Kalenjin ([[Nandi County|Nandi County]], specifically from Keringet in [[Kericho County|Kericho County]]). Her roots are in the Rift Valley's high-altitude training regions, and she represents the Kalenjin dominance in Kenyan distance running, particularly among women runners.
 
 ## Olympic Gold Medals
 

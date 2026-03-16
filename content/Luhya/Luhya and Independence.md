@@ -4,7 +4,7 @@ The path to Kenyan independence in 1963-1964 involved political negotiations amo
 
 ### Formation and Leadership
 
-KADU was founded in 1960 as a political alternative to KANU (Kenya African National Union). The party's leadership included Masinde Muliro of the Luhya, Ronald Ngala of [[../Luo/Luo|Luo]]-related Taita, and Daniel arap Moi of [[../Kalenjin/Kalenjin|Kalenjin]]. These leaders represented communities (the Luhya, Taita, and Kalenjin) that feared domination by the two largest ethnic groups, [[../Kikuyu/Kikuyu|Kikuyu]] and Luo, both of which were heavily represented in KANU.
+KADU was founded in 1960 as a political alternative to KANU (Kenya African National Union). The party's leadership included Masinde Muliro of the Luhya, Ronald Ngala of [[Luo|Luo]]-related Taita, and Daniel arap Moi of [[Kalenjin|Kalenjin]]. These leaders represented communities (the Luhya, Taita, and Kalenjin) that feared domination by the two largest ethnic groups, [[Kikuyu|Kikuyu]] and Luo, both of which were heavily represented in KANU.
 
 ### Majimboism as Political Vision
 
@@ -73,11 +73,11 @@ The 2010 Kenyan Constitution, adopted decades after independence, introduced dev
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

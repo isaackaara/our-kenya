@@ -22,7 +22,7 @@ Electricity access has expanded in Meru County through Kenya Power and Lighting 
 
 ## Healthcare Facilities
 
-Meru County hosts the [[../../Meru/Meru|Meru]] Teaching and Referral Hospital, the county's largest healthcare facility. Smaller district and health centers provide basic services throughout the county. Healthcare infrastructure remains inadequate in some remote areas, requiring patients to travel long distances for specialized care.
+Meru County hosts the [[Meru|Meru]] Teaching and Referral Hospital, the county's largest healthcare facility. Smaller district and health centers provide basic services throughout the county. Healthcare infrastructure remains inadequate in some remote areas, requiring patients to travel long distances for specialized care.
 
 ## Educational Infrastructure
 
@@ -34,9 +34,9 @@ Secondary schools are distributed throughout the county, though infrastructure q
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

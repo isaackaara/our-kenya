@@ -6,7 +6,7 @@ Historical rainfall patterns in Meru are becoming less predictable, with longer 
 
 ## Temperature Trends
 
-Temperatures in Meru County have risen over recent decades, with highland areas experiencing warming at rates above global averages. Higher temperatures accelerate crop water stress and affect timing of flowering and maturation. Coffee and tea, sensitive to temperature changes, show altered phenology (timing of life cycle events). Alpine vegetation on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s peaks is migrating upward, contracting habitat.
+Temperatures in Meru County have risen over recent decades, with highland areas experiencing warming at rates above global averages. Higher temperatures accelerate crop water stress and affect timing of flowering and maturation. Coffee and tea, sensitive to temperature changes, show altered phenology (timing of life cycle events). Alpine vegetation on [[Mount Kenya National Park|Mount Kenya]]'s peaks is migrating upward, contracting habitat.
 
 ## Agricultural Production Impacts
 
@@ -26,7 +26,7 @@ Farmers are adapting to climate change through various strategies including impr
 
 ## Mitigation Opportunities
 
-Forest conservation on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes provides global climate benefits through carbon storage while providing local benefits through water security. Sustainable agriculture practices reduce emissions and improve soil carbon. Renewable energy adoption (solar, wind) could reduce dependence on fossil fuels. However, mitigation investments require funding and policy support beyond county capacity.
+Forest conservation on [[Mount Kenya National Park|Mount Kenya]]'s slopes provides global climate benefits through carbon storage while providing local benefits through water security. Sustainable agriculture practices reduce emissions and improve soil carbon. Renewable energy adoption (solar, wind) could reduce dependence on fossil fuels. However, mitigation investments require funding and policy support beyond county capacity.
 
 
 ## See Also
@@ -34,9 +34,9 @@ Forest conservation on [[../../Conservation/Mount Kenya National Park|Mount Keny
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

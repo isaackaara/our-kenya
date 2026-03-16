@@ -1,4 +1,4 @@
-Stephen Kalonzo Musyoka (born 1953, Tseikuru, [[../Counties/Kitui/Kitui County|Kitui County]]) is a prominent Kamba lawyer and politician whose career spans over 40 years. His trajectory illustrates both the opportunities for Kamba advancement in independent Kenya and the challenges of building national political coalitions outside the dominant ethnic alliances.
+Stephen Kalonzo Musyoka (born 1953, Tseikuru, [[Kitui County|Kitui County]]) is a prominent Kamba lawyer and politician whose career spans over 40 years. His trajectory illustrates both the opportunities for Kamba advancement in independent Kenya and the challenges of building national political coalitions outside the dominant ethnic alliances.
 
 ## Early Career and Legal Background
 
@@ -18,7 +18,7 @@ In 2007, Musyoka ran for the presidency, finishing third in a crowded field behi
 
 In 2013 and again in 2017, Musyoka ran as running mate to Raila Odinga under the Orange Democratic Movement (ODM) or related coalition banners. These choices reflected Musyoka's effort to build broader national alliances, but they also subordinated him to Raila's leadership and failed to generate winning coalitions in either election.
 
-Musyoka's electoral decisions were often made strategically, attempting to position himself and the Kamba community within Kenya's dominant political coalitions. However, Kamba political weight could not match that of [[../Kikuyu/Kikuyu|Kikuyu]], Luo, or Kalenjin communities, limiting his ability to dictate terms or win national office.
+Musyoka's electoral decisions were often made strategically, attempting to position himself and the Kamba community within Kenya's dominant political coalitions. However, Kamba political weight could not match that of [[Kikuyu|Kikuyu]], Luo, or Kalenjin communities, limiting his ability to dictate terms or win national office.
 
 ## 2022 Shift and Wiper Party
 

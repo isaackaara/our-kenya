@@ -16,7 +16,7 @@ By February 2008, violence in Mombasa subsided, but structural effects persisted
 [[2007-08 PEV Death Toll and Documentation|Death Toll and Documentation]]
 [[2007-08 PEV Impunity|Impunity]]
 [[2007-08 PEV International Pressure|International Pressure]]
-[[../../Corruption/Corruption|Corruption]]
+[[Corruption|Corruption]]
 
 ## Sources
 

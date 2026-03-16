@@ -2,7 +2,7 @@ Lamu County is Kenya's northernmost coastal county and home to one of the world'
 
 The county is the cultural and historical heart of Kenya's Islamic heritage. Lamu town, the county headquarters, is a UNESCO World Heritage Site inscribed in 2001. The historic Old Town of Lamu represents centuries of Swahili civilization, with its winding streets, coral rag architecture, carved wooden doors, and complete absence of motor vehicles (donkeys remain the primary transport).
 
-The dominant communities are the [[../../Swahili/Swahili|Swahili]] and the [[Bajuni People|Bajuni]], with smaller populations of other coastal groups. The county is overwhelmingly Muslim, with Islam deeply woven into daily life, festivals, and governance.
+The dominant communities are the [[Swahili|Swahili]] and the [[Bajuni People|Bajuni]], with smaller populations of other coastal groups. The county is overwhelmingly Muslim, with Islam deeply woven into daily life, festivals, and governance.
 
 Economically, Lamu depends on fishing, coconut farming, and increasingly on heritage and cultural tourism. The tourism sector has grown significantly, attracting visitors to experience authentic Swahili culture and architecture. However, the county faces major development pressures. The LAPSSET Corridor project (with Lamu Port as its anchor) represents a transformative initiative that has already begun reshaping land tenure, community relations, and the island's future trajectory.
 
@@ -43,7 +43,7 @@ Infrastructure is minimal by national standards. There are no roads on Lamu Isla
 
 ## See Also
 
-- [[../../Swahili/Swahili|Swahili Culture and History]]
+- [[Swahili|Swahili Culture and History]]
 - [[../../Indian Ocean/Indian Ocean Trade|Indian Ocean Trade Routes]]
 - [[../Mombasa/Mombasa County|Mombasa County]]
 - [[../../Coast Region/Coast Region|Kenya's Coast Region]]

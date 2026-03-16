@@ -1,8 +1,8 @@
-The "Coast Land Problem" refers to a long-standing grievance held by coastal residents (particularly Swahili and [[../../Mijikenda/Mijikenda|Mijikenda]]) that they have been marginalized and dispossessed since Kenya's independence in 1964. The core complaint is that upcountry politicians and wealthy individuals, particularly [[../../Kikuyu/Kikuyu|Kikuyu]], have purchased and controlled increasingly large portions of coastal land, reducing opportunities for coastal residents.
+The "Coast Land Problem" refers to a long-standing grievance held by coastal residents (particularly Swahili and [[Mijikenda|Mijikenda]]) that they have been marginalized and dispossessed since Kenya's independence in 1964. The core complaint is that upcountry politicians and wealthy individuals, particularly [[Kikuyu|Kikuyu]], have purchased and controlled increasingly large portions of coastal land, reducing opportunities for coastal residents.
 
 ## Land Alienation Since Independence
 
-From independence onward, wealthy investors and politicians from the highlands (particularly [[../../Kikuyu/Kikuyu|Kikuyu]] elites) invested in purchasing coastal land for tourism development, residential compounds, and commercial use. Coastal residents, lacking capital, have been unable to compete in land markets and have lost access to traditionally held lands.
+From independence onward, wealthy investors and politicians from the highlands (particularly [[Kikuyu|Kikuyu]] elites) invested in purchasing coastal land for tourism development, residential compounds, and commercial use. Coastal residents, lacking capital, have been unable to compete in land markets and have lost access to traditionally held lands.
 
 ## Economic Marginalization
 
@@ -10,7 +10,7 @@ Coastal residents perceive themselves as economically marginalized in the nation
 
 ## Political Grievances
 
-The Coast Region has historically supported opposition candidates and resists the dominance of central highland (particularly [[../../Kikuyu/Kikuyu|Kikuyu]]) political leadership. The political grievance reflects economic marginalization and cultural resentment.
+The Coast Region has historically supported opposition candidates and resists the dominance of central highland (particularly [[Kikuyu|Kikuyu]]) political leadership. The political grievance reflects economic marginalization and cultural resentment.
 
 ## The Mombasa Republican Council
 
@@ -38,7 +38,7 @@ The Coast Land Problem has parallels with indigenous land dispossession in other
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

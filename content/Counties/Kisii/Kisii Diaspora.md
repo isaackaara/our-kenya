@@ -28,7 +28,7 @@ Urban migration patterns reflect economic opportunity distribution across Kenya.
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Youth|Youth Migration]]
 - [[Kisii Women|Women in Diaspora]]
-- [[../../Luo/Luo in Nairobi|Luo Diaspora]]
+- [[Luo in Nairobi|Luo Diaspora]]
 - [[Kisii Economy Overview|County Economy]]
 
 ## International Migration

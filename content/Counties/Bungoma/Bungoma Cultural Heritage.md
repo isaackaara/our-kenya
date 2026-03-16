@@ -1,4 +1,4 @@
-Bungoma [[../../Luhya/Luhya|Bukusu]] communities maintain distinctive cultural heritage marked by the elaborate imbalu circumcision ceremony, traditional music and dance, marriage practices, and social organization systems. Cultural traditions reflect pre-colonial heritage while adapting to contemporary contexts through generations. Younger generations navigate between traditional cultural practices and contemporary modern influences.
+Bungoma [[Luhya|Bukusu]] communities maintain distinctive cultural heritage marked by the elaborate imbalu circumcision ceremony, traditional music and dance, marriage practices, and social organization systems. Cultural traditions reflect pre-colonial heritage while adapting to contemporary contexts through generations. Younger generations navigate between traditional cultural practices and contemporary modern influences.
 
 ## Imbalu Ceremony
 
@@ -31,7 +31,7 @@ Younger generations adapt cultural traditions to contemporary contexts. Some pra
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

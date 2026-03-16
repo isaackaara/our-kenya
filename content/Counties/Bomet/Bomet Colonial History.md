@@ -78,8 +78,8 @@ Colonial period legacy includes:
 - [[Bomet Politics|Politics]]
 - [[Bomet Agriculture|Agriculture]]
 - [[Bomet Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. British Colonial Office (1960). "Administrative Records: Kericho District 1920-1960". The National Archives UK. https://www.nationalarchives.gov.uk

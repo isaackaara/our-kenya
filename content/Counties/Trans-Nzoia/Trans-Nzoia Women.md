@@ -9,8 +9,8 @@ Women's representation in county government has increased, with female county as
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Women|Women]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Women|Women]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/women-empowerment-transnzoia
 2. https://www.unwomen.org/en/news/stories/2021/3/kenyas-women-farmers

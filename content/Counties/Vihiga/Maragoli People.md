@@ -1,4 +1,4 @@
-The Maragoli (also called Logoli) are a [[../../Luhya/Luhya|Luhya]] sub-group primarily inhabiting Vihiga County. The Maragoli are distinctive within the Luhya cluster for their unusually high rates of out-migration and diaspora presence. Maragoli communities maintain cultural identity through language, social organization, and ongoing connections to home communities. Contemporary Maragoli identity reflects both traditional heritage and extensive diaspora experience.
+The Maragoli (also called Logoli) are a [[Luhya|Luhya]] sub-group primarily inhabiting Vihiga County. The Maragoli are distinctive within the Luhya cluster for their unusually high rates of out-migration and diaspora presence. Maragoli communities maintain cultural identity through language, social organization, and ongoing connections to home communities. Contemporary Maragoli identity reflects both traditional heritage and extensive diaspora experience.
 
 ## Historical Background
 
@@ -26,12 +26,12 @@ Modern Maragoli navigate between traditional practice and diaspora experience. H
 
 ## Cross-Link
 
-[[../../Luhya/Luhya]]
+[[Luhya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

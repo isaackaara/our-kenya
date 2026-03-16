@@ -2,7 +2,7 @@ Ketebul Music, established in early 2007, represents Kenya's most sustained and 
 
 The organization's archival work addresses urgent need. Kenya's musical history, particularly recordings from the mid-20th century, exists in fragmented, often inaccessible forms: deteriorating tapes in private collections, colonial-era field recordings held by foreign institutions, oral histories residing only in aging musicians' memories. Without systematic preservation, this heritage faced permanent loss as physical media degraded, rights holders died, and knowledge remained untransmitted to younger generations. Ketebul's intervention, while limited by funding and capacity, established frameworks for how cultural preservation could function in resource-constrained contexts.
 
-The Retracing series demonstrates historical research applied to musical heritage. Editions examining Kikuyu popular music, Kenya's songs of protest, and other thematic investigations combine musicological analysis with oral history, contextualizing musical developments within broader social and political histories. The project "Retracing Kenya's Songs of Protest" directly connected musical production to political resistance, documenting how musicians engaged with [[Elections/2007 Election/2007 Election|post-election violence]], [[Corruption/Anglo Leasing|corruption scandals]], and other political developments through song. This work validated music as historical source material worthy of serious scholarly attention.
+The Retracing series demonstrates historical research applied to musical heritage. Editions examining Kikuyu popular music, Kenya's songs of protest, and other thematic investigations combine musicological analysis with oral history, contextualizing musical developments within broader social and political histories. The project "Retracing Kenya's Songs of Protest" directly connected musical production to political resistance, documenting how musicians engaged with [[2007 Election|post-election violence]], [[Corruption/Anglo Leasing|corruption scandals]], and other political developments through song. This work validated music as historical source material worthy of serious scholarly attention.
 
 Ketebul's relationship with the International Library of African Music (ILAM) and participation in the "Beyond the Digital Return" project exemplified decolonial approaches to archival work. ILAM holds extensive field recordings made by Hugh Tracey in Kenya during the 1950s, materials that documented Kenyan musical traditions but remained inaccessible to the communities from which they were extracted. Ketebul's work repatriating and re-contextualizing these recordings, returning them to Kenya and to the communities where they were originally recorded, represented practical decolonization of cultural knowledge.
 
@@ -16,16 +16,16 @@ Ketebul's work also highlights structural challenges facing cultural preservatio
 
 The organization's presence at international platforms like WOMEX (Worldwide Music Expo) signals recognition of Ketebul's importance beyond Kenya. International music industry professionals, scholars, and cultural organizations recognize Ketebul as serious, credible operation doing important work. This international recognition helps attract funding and partnerships while validating the importance of Kenyan musical heritage to global audiences.
 
-For contemporary musicians, particularly those engaged with Kenya's musical history like [[Music/Sauti Sol|Sauti Sol]] or artists incorporating traditional sounds into modern productions, Ketebul's archives provide essential resources. Access to historical recordings allows contemporary artists to study precedents, sample material (with appropriate permissions and credits), and situate their own work within longer musical traditions. This creates continuity connecting past and present that might otherwise be lost.
+For contemporary musicians, particularly those engaged with Kenya's musical history like [[Sauti Sol|Sauti Sol]] or artists incorporating traditional sounds into modern productions, Ketebul's archives provide essential resources. Access to historical recordings allows contemporary artists to study precedents, sample material (with appropriate permissions and credits), and situate their own work within longer musical traditions. This creates continuity connecting past and present that might otherwise be lost.
 
 Ketebul Music's significance extends beyond the specific recordings and research they have produced. The organization demonstrates that intentional cultural preservation is possible even in resource-constrained environments, that decolonial archival work can return knowledge to communities it was extracted from, and that musical heritage deserves the same care and resources as other forms of cultural heritage. In a country where so much cultural knowledge has been lost to neglect, conflict, and lack of systematic preservation, Ketebul represents possibility: that Kenya's musical heritage can be documented, preserved, and made accessible to current and future generations who will use it to understand where they come from and imagine where they might go.
 
 ## See Also
-- [[Music/Genge Music Origins|Genge Music Origins]]
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
-- [[Music/Sauti Sol|Sauti Sol]]
-- [[Music/YouTube and Kenyan Music|YouTube and Kenyan Music]]
-- [[Elections/2007 Election/2007 Election|2007 Election]]
+- [[Genge Music Origins|Genge Music Origins]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Sauti Sol|Sauti Sol]]
+- [[YouTube and Kenyan Music|YouTube and Kenyan Music]]
+- [[2007 Election|2007 Election]]
 - [[Corruption/Anglo Leasing|Anglo Leasing]]
 
 ## Sources

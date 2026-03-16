@@ -15,7 +15,7 @@ The 1982 coup attempt represented the first major test of Moi's consolidated pow
 ## See Also
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
-- [[../../Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
+- [[Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
 - [[Charles Njonjo|Charles Njonjo]]
 - [[Kalenjin Politics in Kenya|Kalenjin Politics in Kenya]]
 - [[Kenya Vice Presidency|Kenya Vice Presidency]]

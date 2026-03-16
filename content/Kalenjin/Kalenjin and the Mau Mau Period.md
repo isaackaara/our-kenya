@@ -2,7 +2,7 @@ The Kalenjin were not central participants in the Mau Mau Uprising (1952-1960), 
 
 ## The Mau Mau Uprising Context
 
-The Kenya Emergency was declared in October 1952 in response to Mau Mau oath-taking campaigns and armed resistance, primarily by Kikuyu from Central Kenya. The British response included detention of thousands of Kikuyu, villagisation (forced movement into guarded villages), collective punishment of communities suspected of Mau Mau support, and counter-insurgency operations in [[../Kikuyu/Kikuyu|Kikuyu]] highlands.
+The Kenya Emergency was declared in October 1952 in response to Mau Mau oath-taking campaigns and armed resistance, primarily by Kikuyu from Central Kenya. The British response included detention of thousands of Kikuyu, villagisation (forced movement into guarded villages), collective punishment of communities suspected of Mau Mau support, and counter-insurgency operations in [[Kikuyu|Kikuyu]] highlands.
 
 The Mau Mau was explicitly a Kikuyu movement, arising from Kikuyu land grievances, colonial land policies affecting Kikuyu disproportionately, and Kikuyu political mobilization. The forest fighters (commonly called Mau Mau) were predominantly Kikuyu, though some Meru and Embu joined. The movement did not spread to Kalenjin territory or secure significant Kalenjin participation.
 

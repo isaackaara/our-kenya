@@ -27,7 +27,7 @@ The village has received some government and international development attention
 - [[Siaya County]]
 - [[Siaya Luo Heritage]]
 - [[Siaya Agriculture]]
-- [[../../Luo/Luo|Luo people]]
+- [[Luo|Luo people]]
 - [[Siaya Diaspora]]
 
 ## Sources

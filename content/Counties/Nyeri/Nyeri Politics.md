@@ -2,7 +2,7 @@ Nyeri County is a Kikuyu political stronghold with a long history of influence i
 
 ## National Political Influence
 
-Nyeri has consistently voted for GEMA (Gikuyu, Embu, Meru) aligned candidates and policies. The county's voting bloc is closely monitored by national political players. Multiple Nyeri-based presidents and senior government officials have shaped national policy. Political alignment with [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region interests remains strong.
+Nyeri has consistently voted for GEMA (Gikuyu, Embu, Meru) aligned candidates and policies. The county's voting bloc is closely monitored by national political players. Multiple Nyeri-based presidents and senior government officials have shaped national policy. Political alignment with [[Mount Kenya National Park|Mount Kenya]] region interests remains strong.
 
 ## County-Level Competition
 
@@ -14,15 +14,15 @@ High educational attainment in Nyeri creates a politically engaged population wi
 
 ## Regional Coordination
 
-Nyeri County government coordinates with other central highland counties on shared interests. [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region coordination occurs informally through political and administrative networks.
+Nyeri County government coordinates with other central highland counties on shared interests. [[Mount Kenya National Park|Mount Kenya]] region coordination occurs informally through political and administrative networks.
 
 
 ## See Also
 
 - [[Nyeri County|Nyeri County Hub]]
 - [[Nyeri Kikuyu Heritage|Kikuyu Heritage]]
-- [[../../Conservation/Aberdare National Park|Aberdare National Park]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
+- [[Aberdare National Park|Aberdare National Park]]
+- [[Mount Kenya National Park|Mount Kenya]]
 - [[Nyeri Coffee|Coffee Production]]
 - [[Dedan Kimathi|Mau Mau History]]
 - [[Nyeri Tourism|Tourism]]

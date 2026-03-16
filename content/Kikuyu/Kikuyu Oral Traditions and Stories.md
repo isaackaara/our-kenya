@@ -3,7 +3,7 @@ Kikuyu oral traditions form the foundation of Kikuyu cultural memory, identity, 
 ## Foundational Creation and Origin Stories
 
 ### Gikuyu and Mumbi
-The most central origin story tells of [[Gikuyu and Mumbi]], the progenitors of the [[Kikuyu]] people. According to this tradition, Gikuyu was placed by Ngai (God) on [[../Conservation/Mount Kenya National Park|Mount Kenya]] with Mumbi and saw a beautiful land in the highlands, which he was given to settle and cultivate.
+The most central origin story tells of [[Gikuyu and Mumbi]], the progenitors of the [[Kikuyu]] people. According to this tradition, Gikuyu was placed by Ngai (God) on [[Mount Kenya National Park|Mount Kenya]] with Mumbi and saw a beautiful land in the highlands, which he was given to settle and cultivate.
 
 From Gikuyu and Mumbi came nine daughters (representing the [[Kikuyu Clans|Kikuyu nine clans]]), establishing matrilineal descent that continues to structure Kikuyu identity. The tale explains Kikuyu settlement of the highlands, validates Kikuyu territorial claims, and establishes the primacy of Mount Kenya as sacred geography.
 

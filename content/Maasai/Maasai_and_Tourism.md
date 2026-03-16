@@ -4,7 +4,7 @@ title: Maasai and Tourism
 
 ## Most Photographed People in Kenya
 
-The Maasai are Kenya's most photographed ethnic group. Tourism to Kenya centers largely on wildlife viewing([[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]], [[../Conservation/Amboseli National Park|Amboseli National Park]], other reserves), and the Maasai feature prominently in the tourism package.
+The Maasai are Kenya's most photographed ethnic group. Tourism to Kenya centers largely on wildlife viewing([[Maasai Mara National Reserve|Maasai Mara National Reserve]], [[Amboseli National Park|Amboseli National Park]], other reserves), and the Maasai feature prominently in the tourism package.
 
 Maasai cultural villages near the Mara charge foreign tourists between USD 30-50 per person for a few hours of cultural immersion(dancing, beadwork demonstration, home tours). These village visits are packaged by tourism operators and marketed globally.
 
@@ -37,10 +37,10 @@ The tension persists between the need for income (especially as pastoralism beco
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

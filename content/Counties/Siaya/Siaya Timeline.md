@@ -1,6 +1,6 @@
 ## Key Dates in Siaya County History
 
-**15th-17th Centuries:** [[../../Luo/Luo Origins and Migration|Luo migration]] into the [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] region from southern Sudan and Uganda. Settlement of the Siaya area by Luo-speaking peoples.
+**15th-17th Centuries:** [[Luo Origins and Migration|Luo migration]] into the [[Lake Victoria Kenya|Lake Victoria]] region from southern Sudan and Uganda. Settlement of the Siaya area by Luo-speaking peoples.
 
 **1890s:** British colonial penetration into the Nyanza region begins. Colonial administrative posts established in Siaya area.
 
@@ -8,11 +8,11 @@
 
 **1913:** [[Barack Obama Sr and Siaya|Barack Hussein Obama Sr.]] born (year estimates vary, some sources cite 1936).
 
-**1952-1960:** [[../../Luo/Luo and the Mau Mau|Mau Mau]] Rebellion period affects Nyanza region. Siaya participates in independence struggle.
+**1952-1960:** [[Luo and the Mau Mau|Mau Mau]] Rebellion period affects Nyanza region. Siaya participates in independence struggle.
 
 **1963:** Kenya independence declared. Siaya becomes part of independent Kenya. Nyanza Province governance continues.
 
-**1966:** [[../../Luo/Jaramogi Oginga Odinga|Oginga Odinga]] becomes Vice President of Kenya, representing Nyanza region political prominence.
+**1966:** [[Jaramogi Oginga Odinga|Oginga Odinga]] becomes Vice President of Kenya, representing Nyanza region political prominence.
 
 **1969:** Oginga Odinga loses political position. Beginning of opposition politics tradition in Siaya.
 
@@ -36,13 +36,13 @@
 
 ## See Also
 
-- [[../../Luo/Luo Origins and Migration|Luo Origins and Migration]]
+- [[Luo Origins and Migration|Luo Origins and Migration]]
 - [[Siaya Colonial History]]
-- [[../../Luo/Jaramogi Oginga Odinga|Oginga Odinga]]
+- [[Jaramogi Oginga Odinga|Oginga Odinga]]
 - [[Barack Obama Sr and Siaya]]
 - [[Siaya Politics]]
 - [[Siaya and Devolution]]
-- [[../../Luo/Luo Political History|Luo Political History]]
+- [[Luo Political History|Luo Political History]]
 
 ## Sources
 

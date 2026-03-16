@@ -20,8 +20,8 @@ Wildlife tourism creates infrastructure development including accommodation faci
 - [["Samburu County" Politics|Politics]]
 - [["Samburu County" Agriculture|Agriculture]]
 - [["Samburu County" Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Transport: Road Network Maps and Maintenance Schedule, Northern Kenya. https://www.transport.go.ke/

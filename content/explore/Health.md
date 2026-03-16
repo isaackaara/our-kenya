@@ -14,7 +14,7 @@ From colonial medicine to modern healthcare systems and public health challenges
 
 ### Healthcare System
 - [[Health/Kenyatta National Hospital|Kenyatta National Hospital]]
-- [[Health/NHIF History|NHIF]]
+- [[NHIF History|NHIF]]
 - [[Health/Universal Health Coverage|Universal Health Coverage]]
 - [[Health/Healthcare Financing Kenya|Healthcare Financing]]
 

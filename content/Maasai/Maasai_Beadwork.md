@@ -31,7 +31,7 @@ Wealthy families display more elaborate beadwork. A woman with a husband of high
 
 ## Commercialization and Tourism
 
-Maasai beadwork is now heavily commercialized. Tourist villages near the [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] sell beaded jewelry to visitors. Maasai women make beaded items specifically for sale, rather than exclusively for personal or family use.
+Maasai beadwork is now heavily commercialized. Tourist villages near the [[Maasai Mara National Reserve|Maasai Mara National Reserve]] sell beaded jewelry to visitors. Maasai women make beaded items specifically for sale, rather than exclusively for personal or family use.
 
 This commercialization has economic benefits(women can earn income from beadwork) but also risks. Mass-produced tourist beadwork is often lower quality and uses non-traditional colors or designs. The authentic cultural meaning of beadwork can be reduced to exotic trinkets.
 
@@ -48,10 +48,10 @@ The future of Maasai beadwork involves balance between honoring tradition and ad
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

@@ -2,7 +2,7 @@
 
 ## Key Facts
 
-- *Mukurwe wa Nyagathanga*, the sacred fig tree site where [[Gikuyu and Mumbi]] are said to have first settled, is located in modern [[../Counties/Murang'a/Murang'a County|Murang'a County]]; it remains a place of cultural pilgrimage and has been designated a national monument
+- *Mukurwe wa Nyagathanga*, the sacred fig tree site where [[Gikuyu and Mumbi]] are said to have first settled, is located in modern [[Murang'a County|Murang'a County]]; it remains a place of cultural pilgrimage and has been designated a national monument
 - Archaeologically, Kikuyu ancestors of the Thagicu group had established a cultural core in the highlands around present-day Murang'a by approximately the 13th century CE before the southward migration into [[Kiambu]] in the 18th and 19th centuries
 - The British established a garrison called Fort Hall here in the 1890s as part of their pacification campaign; the area's Kikuyu population actively resisted early colonial incursion
 - Murang'a was renamed from Fort Hall to its present Kikuyu name after [[Independence 1963]], one of many symbolic reversals of colonial nomenclature

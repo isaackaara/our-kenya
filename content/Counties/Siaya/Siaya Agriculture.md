@@ -31,7 +31,7 @@ Agricultural income is supplemented by informal trading, casual labor, and migra
 - [[Siaya Land Issues]]
 - [[Siaya Horticulture]]
 - [[Siaya Fishing Communities]]
-- [[../../Luo/Luo Farming Practices|Luo Farming Practices]]
+- [[Luo Farming Practices|Luo Farming Practices]]
 - [[Siaya Lake Victoria Economy]]
 
 ## Sources

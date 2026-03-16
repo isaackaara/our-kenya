@@ -16,7 +16,7 @@ The town's physical appearance reflects resource constraints, with basic infrast
 ## See Also
 
 - [[Kitui County|Kitui County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Kitui Sand Dams|Sand Dams (water technology)]]
 - [[Kitui Coal Controversy|Coal Mining]]
 - [[Kitui Bee Keeping|Beekeeping]]

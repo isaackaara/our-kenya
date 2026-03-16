@@ -26,7 +26,7 @@ Kenya's role as a refugee host nation and the experiences of displaced communiti
 ### Refugee Policy
 - [[Refugees/Refugee Law Kenya|Refugee Law]]
 - [[Refugees/UNHCR Kenya|UNHCR Operations]]
-- [[Refugees/Refugee Integration|Integration Policies]]
+- [[Refugee Integration|Integration Policies]]
 
 ---
 

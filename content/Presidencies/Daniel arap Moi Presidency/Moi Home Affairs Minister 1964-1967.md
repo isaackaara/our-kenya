@@ -15,7 +15,7 @@ The Security Council created in 1966 gave Moi, as Home Affairs Minister, a forma
 By 1967, when Moi relinquished the Home Affairs Ministry to become Vice President, he had already established himself as a master of the security state and a man capable of translating political will into violent action. His three years as Home Affairs Minister were formative in creating the patterns that would structure his presidency: the willingness to deploy state violence, the construction of loyalty networks within the security forces, and the view that criticism or opposition was inherently seditious and requiring suppression.
 
 ## See Also
-[[Kenya/Shifta War]]
+[[Shifta War]]
 [[Moi and the GSU]]
 [[Moi Detention Policy]]
 [[Moi Rise to Power]]

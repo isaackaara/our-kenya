@@ -1,12 +1,12 @@
-Tourism in Meru County remains underdeveloped compared to major national destinations, yet the county possesses significant tourism attractions. Meru National Park, [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s northern circuit, and cultural attractions including miraa farms present opportunities for tourism development. The county government and private operators are gradually expanding tourism infrastructure and marketing.
+Tourism in Meru County remains underdeveloped compared to major national destinations, yet the county possesses significant tourism attractions. Meru National Park, [[Mount Kenya National Park|Mount Kenya]]'s northern circuit, and cultural attractions including miraa farms present opportunities for tourism development. The county government and private operators are gradually expanding tourism infrastructure and marketing.
 
 ## Meru National Park
 
 Meru National Park remains the primary wildlife tourism destination in the county. The park's history connected to Elsa the lioness continues to attract tourists interested in the Born Free narrative. The park offers game drives and guided walks, with accommodation at various lodges and camping sites within and near the park. Tourism revenues from the park support conservation and local employment.
 
-## [[../../Conservation/Mount Kenya National Park|Mount Kenya]] Northern Circuit
+## [[Mount Kenya National Park|Mount Kenya]] Northern Circuit
 
-[[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s northern circuit provides trekking and climbing routes distinct from the more heavily trafficked southern and western approaches. The northern routes are less crowded, providing a more isolated wilderness experience. The Timau route and other northern approaches start from Meru County and pass through Meru communities. Porter employment and accommodation provide local economic benefit.
+[[Mount Kenya National Park|Mount Kenya]]'s northern circuit provides trekking and climbing routes distinct from the more heavily trafficked southern and western approaches. The northern routes are less crowded, providing a more isolated wilderness experience. The Timau route and other northern approaches start from Meru County and pass through Meru communities. Porter employment and accommodation provide local economic benefit.
 
 ## Miraa Farm Tourism
 
@@ -34,9 +34,9 @@ Meru County government and private tourism operators are working to market the c
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

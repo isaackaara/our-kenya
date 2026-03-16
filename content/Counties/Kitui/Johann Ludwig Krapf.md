@@ -1,8 +1,8 @@
-Johann Ludwig Krapf was a German Protestant missionary who made significant contributions to European knowledge of East Africa. In 1849, while stationed in the Kitui region, Krapf became the first European to observe [[../../Conservation/Mount Kenya National Park|Mount Kenya]] from a distance, making an important geographical discovery that furthered European knowledge of East African geography.
+Johann Ludwig Krapf was a German Protestant missionary who made significant contributions to European knowledge of East Africa. In 1849, while stationed in the Kitui region, Krapf became the first European to observe [[Mount Kenya National Park|Mount Kenya]] from a distance, making an important geographical discovery that furthered European knowledge of East African geography.
 
-Krapf served as a missionary in East Africa during the mid-nineteenth century, working to establish Christian missions and convert African populations. His work brought him into contact with various East African communities including the [[../../Kamba/Kamba|Kamba]] populations of Kitui. Missionaries like Krapf served as both spiritual teachers and information sources for European geographical and scientific knowledge.
+Krapf served as a missionary in East Africa during the mid-nineteenth century, working to establish Christian missions and convert African populations. His work brought him into contact with various East African communities including the [[Kamba|Kamba]] populations of Kitui. Missionaries like Krapf served as both spiritual teachers and information sources for European geographical and scientific knowledge.
 
-Krapf's observation of [[../../Conservation/Mount Kenya National Park|Mount Kenya]] represented a significant moment in European geographical discovery. The mountain's sighting from Kitui demonstrated the mountain's prominence and visibility from eastern locations. This observation contributed to European understanding of East African geography and attracted subsequent explorers.
+Krapf's observation of [[Mount Kenya National Park|Mount Kenya]] represented a significant moment in European geographical discovery. The mountain's sighting from Kitui demonstrated the mountain's prominence and visibility from eastern locations. This observation contributed to European understanding of East African geography and attracted subsequent explorers.
 
 Krapf's work in Kitui contributed to early missionary establishment in the region. His linguistic and cultural knowledge of East African communities enabled missionary activity and cross-cultural communication. Missionary work by Krapf and colleagues laid foundations for later Christian institutional expansion.
 
@@ -16,7 +16,7 @@ Krapf's life illustrates the role of individual European actors in shaping Europ
 ## See Also
 
 - [[Kitui County|Kitui County Hub]]
-- [[../../Kamba/Kamba|Kamba (ethnic group)]]
+- [[Kamba|Kamba (ethnic group)]]
 - [[Kitui Sand Dams|Sand Dams (water technology)]]
 - [[Kitui Coal Controversy|Coal Mining]]
 - [[Kitui Bee Keeping|Beekeeping]]

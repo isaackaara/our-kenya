@@ -6,7 +6,7 @@ title: William ole Ntimama
 
 William Ronkorua ole Ntimama (1930-2016) was the most influential Maasai politician of the post-independence era. He served for 25 years as Member of Parliament for Narok and held cabinet positions under Moi.
 
-He was also [[../Counties/Narok/Narok County|Narok County]] Council chairman for 15 years (before devolution), wielding tremendous local power.
+He was also [[Narok County|Narok County]] Council chairman for 15 years (before devolution), wielding tremendous local power.
 
 Ntimama became synonymous with Maasai interests in national politics. He used his position to fight for Maasai land rights and to protect Maasai territorial claims.
 
@@ -47,10 +47,10 @@ Modern Maasai leaders must navigate this complexity(how to defend Maasai interes
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

@@ -4,13 +4,13 @@
 
 1952-1960 - Mau Mau uprising affects [[../Nakuru/Nakuru County|Nakuru County]], though violence concentrates more in central highlands.
 
-1963 - Kenya independence. White farms subdivided and redistributed to African buyers, primarily wealthy [[../../Kikuyu/Kikuyu|Kikuyu]].
+1963 - Kenya independence. White farms subdivided and redistributed to African buyers, primarily wealthy [[Kikuyu|Kikuyu]].
 
-1968 - [[../../Conservation/Lake Nakuru|Lake Nakuru]] National Park established to protect flamingo populations and Rift Valley ecology.
+1968 - [[Lake Nakuru|Lake Nakuru]] National Park established to protect flamingo populations and Rift Valley ecology.
 
-1978-2002 - Moi presidency. Nakuru benefits from [[../../Kalenjin/Kalenjin|Kalenjin]] political dominance (Moi is Tugen). [[../../Kikuyu/Kikuyu|Kikuyu]] settlement in Rift Valley accelerates despite Kalenjin objections.
+1978-2002 - Moi presidency. Nakuru benefits from [[Kalenjin|Kalenjin]] political dominance (Moi is Tugen). [[Kikuyu|Kikuyu]] settlement in Rift Valley accelerates despite Kalenjin objections.
 
-1992-1993 - Molo ethnic clashes in Nakuru County targeting [[../../Kikuyu/Kikuyu|Kikuyu]] settlers, signaling multi-party democracy's violence potential.
+1992-1993 - Molo ethnic clashes in Nakuru County targeting [[Kikuyu|Kikuyu]] settlers, signaling multi-party democracy's violence potential.
 
 2007-2008 - Post-election violence devastates Nakuru town, with ethnic attacks on Kikuyu communities.
 
@@ -36,9 +36,9 @@
 [[Nakuru Timeline]]
 [[Lake Nakuru]]
 [[Lake Naivasha]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 [[Nakuru City]]
-[[../../Conservation/Hell's Gate National Park|Hell's Gate]]
+[[Hell's Gate National Park|Hell's Gate]]
 ## Sources
 
 1. https://en.wikipedia.org/wiki/Nakuru_County_history

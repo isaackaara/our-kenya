@@ -12,7 +12,7 @@ Conservationists from Narok have pioneered community-based wildlife conservation
 
 ## Business and Entrepreneurship
 
-[[../../Maasai/Maasai|Maasai]] entrepreneurs have established safari camps, hospitality businesses, and conservation enterprises, building tourism operations that generate substantial employment and revenue.
+[[Maasai|Maasai]] entrepreneurs have established safari camps, hospitality businesses, and conservation enterprises, building tourism operations that generate substantial employment and revenue.
 
 ## Academic and Professional Leaders
 
@@ -37,8 +37,8 @@ See also: [[Narok County|Narok County]], [[Narok Politics|Narok Politics]], [[Na
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

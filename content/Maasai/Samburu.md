@@ -1,6 +1,6 @@
 ## Related Nilotic People, Similar Culture
 
-The Samburu are linguistic and cultural cousins of the Maasai. They speak [[../Samburu/Samburu|Samburu]] language (closely related to Maa) and practice pastoral transhumance (seasonal movement following rainfall).
+The Samburu are linguistic and cultural cousins of the Maasai. They speak [[Samburu|Samburu]] language (closely related to Maa) and practice pastoral transhumance (seasonal movement following rainfall).
 
 The Samburu have similar warrior traditions (warrior age grades), beadwork, and pastoral aesthetics to the Maasai. The two groups share deep cultural similarities rooted in common Nilotic ancestry.
 
@@ -14,7 +14,7 @@ This reflects partly demographics(Samburu population is roughly 250,000, smaller
 
 ## Samburu National Reserve
 
-Samburu National Reserve is a wildlife conservation area in Samburu territory. Like [[../Conservation/Maasai [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]], the reserve restricts pastoral access and generates tourism revenue.
+Samburu National Reserve is a wildlife conservation area in Samburu territory. Like [[Maasai Mara National Reserve|Maasai Mara National Reserve]] National Reserve|Maasai Mara National Reserve]], the reserve restricts pastoral access and generates tourism revenue.
 
 The Samburu face similar conservation conflicts as the Maasai(wildlife protection vs. pastoral rights, unequal benefit sharing from tourism).
 
@@ -39,10 +39,10 @@ Both Samburu and Maasai face similar challenges in the 21st century(climate chan
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

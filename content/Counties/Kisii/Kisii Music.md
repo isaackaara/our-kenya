@@ -48,8 +48,8 @@ Modern [[Gusii People Kisii|Gusii]] musicians include:
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Cultural Heritage|Cultural Heritage]]
 - [[Kisii Food Culture|Food Culture]]
-- [[../../Luo/Luo Music Industry|Luo Music Comparison]]
-- [[../../Kalenjin/Kalenjin Music Traditions|Kalenjin Music]]
+- [[Luo Music Industry|Luo Music Comparison]]
+- [[Kalenjin Music Traditions|Kalenjin Music]]
 
 Contemporary Gusii music blends traditional elements with modern musical styles.
 

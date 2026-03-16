@@ -21,10 +21,10 @@ The question facing Maasai music is whether it can adapt to twenty-first-century
 ## See Also
 - [[Maasai/Maasai Age-Grade System]]
 - [[Maasai/Maasai Culture and Identity]]
-- [[Music/Samburu Songs and Dance]]
-- [[Music/Warrior Songs Kenya]]
-- [[Music/Music and Initiation Rites]]
-- [[Music/Women's Music Traditions Kenya]]
+- [[Samburu Songs and Dance]]
+- [[Warrior Songs Kenya]]
+- [[Music and Initiation Rites]]
+- [[Women's Music Traditions Kenya]]
 - [[Conservation/Maasai and Conservation]]
 
 ## Sources

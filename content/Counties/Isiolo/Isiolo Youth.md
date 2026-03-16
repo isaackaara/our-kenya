@@ -18,7 +18,7 @@ Social services addressing youth mental health and substance abuse remain underd
 ## See Also
 
 [[../../Isiolo/Isiolo|Isiolo County]]
-[[../../Isiolo/Isiolo Youth|Youth]]
+[[Isiolo Youth|Youth]]
 ## Sources
 
 1. Kenya National Youth Service: Youth Employment Survey, Northern Regions 2022. https://www.nysc.go.ke/

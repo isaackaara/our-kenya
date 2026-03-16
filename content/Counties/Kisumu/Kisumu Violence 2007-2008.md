@@ -1,8 +1,8 @@
-Kisumu was a hotspot of the 2007-2008 post-election violence that gripped Kenya after disputed presidential election results. The violence reflected Kisumu's role as [[../../Luo/Raila Odinga|Raila Odinga]]'s political stronghold and the intensity of opposition sentiment.
+Kisumu was a hotspot of the 2007-2008 post-election violence that gripped Kenya after disputed presidential election results. The violence reflected Kisumu's role as [[Raila Odinga|Raila Odinga]]'s political stronghold and the intensity of opposition sentiment.
 
 ## Election Dispute and Trigger
 
-The 2007 presidential election results announcing incumbent Mwai Kibaki's victory sparked immediate outcry, as many believed the election had been rigged in Kibaki's favor. Opposition supporters, including strong [[../../Luo/Raila Odinga|Raila Odinga]] supporters in Kisumu, took to the streets in protest.
+The 2007 presidential election results announcing incumbent Mwai Kibaki's victory sparked immediate outcry, as many believed the election had been rigged in Kibaki's favor. Opposition supporters, including strong [[Raila Odinga|Raila Odinga]] supporters in Kisumu, took to the streets in protest.
 
 ## Violence in Kisumu
 
@@ -10,7 +10,7 @@ Kisumu saw intense violence as opposition supporters clashed with security force
 
 ## Ethnic Dimensions
 
-Like other violence hotspots, Kisumu's violence had ethnic dimensions, with [[../../Luo/Luo|Luo]] residents targeted and non-Luo residents fleeing or being attacked. The violence reflected frustration with [[../../Kikuyu/Kikuyu|Kikuyu]] political dominance and Luo underrepresentation in national government.
+Like other violence hotspots, Kisumu's violence had ethnic dimensions, with [[Luo|Luo]] residents targeted and non-Luo residents fleeing or being attacked. The violence reflected frustration with [[Kikuyu|Kikuyu]] political dominance and Luo underrepresentation in national government.
 
 ## Casualties and Displacement
 
@@ -34,7 +34,7 @@ The violence left lasting psychological trauma and community division. Trust bet
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

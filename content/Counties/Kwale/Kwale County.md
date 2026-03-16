@@ -1,6 +1,6 @@
 Kwale County occupies the southern Kenya coast, extending south from Mombasa to the Tanzanian border. The county covers approximately 4,241 square kilometers and has a population of around 900,000 people. It is one of Kenya's most important coastal regions, blending African, Arab, and Indian Ocean cultures into a distinctive identity. The county's economy centers on tourism, agriculture, and fishing, with tourism providing the most visible income through world-famous beach resorts.
 
-The [[../../Mijikenda/Mijikenda|Mijikenda]] people dominate the county, with the Digo sub-group forming the largest population. Kwale town serves as the county headquarters, though it remains a small inland settlement. The county extends from the urban sprawl of Mombasa in the north to remote border areas in the south, encompassing everything from densely developed beach towns to sparse inland forests.
+The [[Mijikenda|Mijikenda]] people dominate the county, with the Digo sub-group forming the largest population. Kwale town serves as the county headquarters, though it remains a small inland settlement. The county extends from the urban sprawl of Mombasa in the north to remote border areas in the south, encompassing everything from densely developed beach towns to sparse inland forests.
 
 The county's geography defines its character. Diani Beach ranks as Kenya's most famous beach resort, drawing international tourists and generating millions in annual revenue. Inland, the Shimba Hills National Reserve protects one of East Africa's most remarkable coastal forests, home to endemic plant species and a significant elephant population. The warm Indian Ocean waters support thriving coral reef ecosystems and traditional dhow fishing communities.
 
@@ -58,9 +58,9 @@ This vertical documents Kwale's complete character across economy, culture, geog
 - [[../Mombasa/Mombasa County|Mombasa County]]
 - [[../../Regions/Coastal Region|Coastal Region Kenya]]
 - [[../../Tanzanian Border|Tanzanian Border Region]]
-- [[../../Mijikenda/Mijikenda|Mijikenda]]
+- [[Mijikenda|Mijikenda]]
 - [[../../Conservation/Shimba Hills|Shimba Hills]]
-- [[../Kilifi/Kilifi County|Kilifi County]]
+- [[Kilifi County|Kilifi County]]
 
 ## Sources
 

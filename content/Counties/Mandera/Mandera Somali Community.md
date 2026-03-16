@@ -1,4 +1,4 @@
-The [[../../Somali/Somali|Somali Kenyan community]] forms the overwhelming majority of Mandera County's population, with pastoral traditions, Islamic faith, and Somali language and culture providing the defining characteristics of community identity. The Degodia and Garre clans represent the largest pastoral groups, though other Somali clans maintain smaller populations in the county.
+The [[Somali|Somali Kenyan community]] forms the overwhelming majority of Mandera County's population, with pastoral traditions, Islamic faith, and Somali language and culture providing the defining characteristics of community identity. The Degodia and Garre clans represent the largest pastoral groups, though other Somali clans maintain smaller populations in the county.
 
 Pastoral traditions deeply embed Somali community identity, with livestock production, pastoral mobility, and pastoral knowledge systems retaining centrality despite contemporary economic transformation. Pastoral values including honor, hospitality, and warrior ethos continue to influence community behavior and decision-making despite modernization pressures.
 
@@ -14,7 +14,7 @@ Kinship and family structures remain strong, with extended family networks provi
 
 ## See Also
 
-- [[../../Somali/Somali]]
+- [[Somali]]
 - [[../../Somali/Somali Clans]]
 - [[Mandera County]]
 - [[Mandera Pastoralism]]

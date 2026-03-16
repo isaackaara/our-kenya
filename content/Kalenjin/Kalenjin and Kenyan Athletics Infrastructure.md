@@ -3,7 +3,7 @@ Beyond individual Kalenjin runners lies an entire ecosystem of athletics infrast
 ## Key Facts
 
 - Athletics Kenya(AK) is the national governing body for athletics, responsible for team selection, rule enforcement, and domestic competition
-- High-altitude training camps in [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]] and Iten serve as development centres for elite runners
+- High-altitude training camps in [[Uasin Gishu County|Uasin Gishu County]] and Iten serve as development centres for elite runners
 - Kaptagat running camps in Trans-Nzoia and similar centres cluster elite and sub-elite runners
 - Shoe brand competition(Nike, Adidas, On Running, Saucony, others) for athlete sponsorships is intense
 - Athlete agents and managers mediate between runners and international competition, sometimes exploitative

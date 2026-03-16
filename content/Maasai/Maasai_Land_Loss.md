@@ -6,7 +6,7 @@ title: Maasai Land Loss
 
 The 1904 "treaty" (actually a coerced agreement) was the first major colonial land grab. The Maasai agreed to vacate the prime pastoral lands in the Central Rift Valley (areas like the Suswa region, Ol Kalou, Ol Jororok, and Naivasha zone).
 
-In exchange, the British promised the Maasai two reserves(one in [[../Counties/Laikipia/Laikipia County|Laikipia County]] in the north, one in Kajiado and Loita in the south). The Rift Valley lands where the British wanted to settle white farmers were now cleared of Maasai.
+In exchange, the British promised the Maasai two reserves(one in [[Laikipia County|Laikipia County]] in the north, one in Kajiado and Loita in the south). The Rift Valley lands where the British wanted to settle white farmers were now cleared of Maasai.
 
 The treaty was not negotiated equally(the Maasai were weakened by the Iloikop Wars and concurrent rinderpest plague; British military power was overwhelming). The Maasai had little bargaining power.
 
@@ -20,7 +20,7 @@ The Laikipia Plateau today is a mix of white-owned ranches (now private conserva
 
 ## Post-Independence Continuation
 
-After Kenyan independence in 1964, the government continued the land loss pattern. National parks ([[../Conservation/Amboseli National Park|Amboseli National Park]], parts of the [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]) were established, further restricting Maasai grazing access.
+After Kenyan independence in 1964, the government continued the land loss pattern. National parks ([[Amboseli National Park|Amboseli National Park]], parts of the [[Maasai Mara National Reserve|Maasai Mara National Reserve]]) were established, further restricting Maasai grazing access.
 
 In the 1970s and 1980s, private conservancies were established on Maasai land (often under lease agreements that benefited large landowners but not ordinary herders).
 
@@ -30,7 +30,7 @@ Land privatization policies accelerated after the 1990s. Individual title deeds 
 
 The most recent and most destructive phase is rapid individual land sales. Maasai men, having formal title deeds to plots, sell to real estate speculators and developers. Once sold, the land is converted to private farms, residential subdivisions, or commercial enterprises.
 
-The Athi-Kaputiei plains (between Nairobi and Kajiado) have been largely sold and developed. The Kenya Wildlife Service estimates that 80% of pastoral land in [[../Counties/Kajiado/Kajiado County|Kajiado County]] has been privatized or formally protected.
+The Athi-Kaputiei plains (between Nairobi and Kajiado) have been largely sold and developed. The Kenya Wildlife Service estimates that 80% of pastoral land in [[Kajiado County|Kajiado County]] has been privatized or formally protected.
 
 The land sales crisis is an existential threat to pastoralism. Unlike colonial land loss (which was imposed externally), land sales are internal(individual Maasai men choose to sell). This makes the problem harder to collectively resist.
 
@@ -45,10 +45,10 @@ The message was clear(colonial law would not protect Maasai land rights). The Ma
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

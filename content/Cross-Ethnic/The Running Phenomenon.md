@@ -52,4 +52,4 @@ This is not to diminish their achievement. The work, discipline, and talent requ
 
 ## Related
 
-[[../Kalenjin/Kalenjin Origins]] | [[../Kalenjin/Kalenjin and the Land]] | [[../Kalenjin/Eliud Kipchoge]] | [[../Kalenjin/Kipchoge Evans Kipchoge]] | [[../Kikuyu/Kikuyu Economic Dominance]]
+[[Kalenjin Origins]] | [[../Kalenjin/Kalenjin and the Land]] | [[Eliud Kipchoge]] | [[../Kalenjin/Kipchoge Evans Kipchoge]] | [[../Kikuyu/Kikuyu Economic Dominance]]

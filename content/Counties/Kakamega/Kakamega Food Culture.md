@@ -1,4 +1,4 @@
-Kakamega food culture reflects [[../../Luhya/Luhya|Luhya]] traditions emphasizing staple grains, legumes, vegetables, and occasional animal protein. Food traditions include both everyday meals and special occasion dishes marking cultural celebrations and ceremonies. Food practices adapt to agricultural seasons and contemporary food availability. Traditional foods remain important in community identity while contemporary food options expand through commercialization.
+Kakamega food culture reflects [[Luhya|Luhya]] traditions emphasizing staple grains, legumes, vegetables, and occasional animal protein. Food traditions include both everyday meals and special occasion dishes marking cultural celebrations and ceremonies. Food practices adapt to agricultural seasons and contemporary food availability. Traditional foods remain important in community identity while contemporary food options expand through commercialization.
 
 ## Staple Foods
 
@@ -27,7 +27,7 @@ Urban food preferences emphasize convenience foods and international cuisines. P
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

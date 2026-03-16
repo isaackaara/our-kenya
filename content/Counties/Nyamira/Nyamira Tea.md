@@ -14,7 +14,7 @@ Tea production in Nyamira involves:
 
 - [[Nyamira County|Nyamira County]]
 - [[Nyamira Agriculture|Agriculture]]
-- [[../../Kisii/Kisii Tea Industry|Kisii Tea Comparison]]
+- [[Kisii Tea Industry|Kisii Tea Comparison]]
 - [[Nyamira Dairy|Dairy Production]]
 - [[Nyamira Climate|Climate]]
 - [[Nyamira Economy Overview|County Economy]]

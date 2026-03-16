@@ -49,7 +49,7 @@ Kenya and Somalia attempt cooperation on security and border management. Regiona
 - [[Wajir Security]]
 - [[Wajir Livestock Trade]]
 - [[Wajir Somali Community]]
-- [[../../Somali/Somali]]
+- [[Somali]]
 - [[Wajir Peace Initiatives]]
 
 ## Sources

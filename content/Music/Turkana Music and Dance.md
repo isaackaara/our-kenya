@@ -1,6 +1,6 @@
 The Turkana people of northwestern Kenya, pastoralists inhabiting one of the planet's harshest environments around Lake Turkana, have developed musical traditions intimately tied to their mobile lifestyle, livestock-centered economy, and fierce cultural pride that has resisted colonial and post-colonial assimilation pressures more successfully than many Kenyan communities. Turkana music emphasizes vocal performance and portable percussion instruments compatible with nomadic existence, creating soundscapes that echo across arid landscapes where rainfall is scarce, temperatures extreme, and survival depends on intimate knowledge of terrain, water sources, and livestock behavior. The music functions not as entertainment separate from daily life but as integral component of social organization, marking ceremonies, coordinating labor, asserting identity, and maintaining cultural continuity across generations.
 
-The adungu, a bow-shaped lyre with five to eight strings, stands as Turkana music's most distinctive instrument. The musician holds the adungu against the body, plucking strings while sometimes using the instrument's resonating chamber to modulate tone. The resulting sound is delicate and melodic, providing accompaniment to songs or existing as instrumental music. The adungu belongs to a family of bowl lyres found across northeastern Africa, with variants among the [[Luo/Luo Origins and Migration|Luo]] (nyatiti) and other communities, suggesting ancient musical connections across the region. The instrument's portability makes it ideal for pastoralist lifestyles, easily carried during seasonal migrations between grazing areas.
+The adungu, a bow-shaped lyre with five to eight strings, stands as Turkana music's most distinctive instrument. The musician holds the adungu against the body, plucking strings while sometimes using the instrument's resonating chamber to modulate tone. The resulting sound is delicate and melodic, providing accompaniment to songs or existing as instrumental music. The adungu belongs to a family of bowl lyres found across northeastern Africa, with variants among the [[Luo Origins and Migration|Luo]] (nyatiti) and other communities, suggesting ancient musical connections across the region. The instrument's portability makes it ideal for pastoralist lifestyles, easily carried during seasonal migrations between grazing areas.
 
 Turkana vocal music features distinctive singing styles marked by call-and-response patterns, vocal ornamentation including ululation and vibrato, and lyrics addressing topics from cattle to warfare to social relationships. Women's songs differ from men's in content, vocal range, and social function. Women sing lullabies, grinding songs accompanying food preparation, and ceremonial songs for weddings and initiations. Men sing warrior songs celebrating raids (in pre-colonial times), praise songs for respected elders and successful herders, and songs accompanying livestock management. The lyrics employ poetic devices including metaphor, allusion, and symbolic language requiring cultural knowledge to fully decode.
 
@@ -21,13 +21,13 @@ Contemporary Turkana music faces familiar challenges across Kenya's traditional 
 Yet Turkana musical pride persists, particularly around the adungu as symbol of Turkana cultural distinctiveness. Some contemporary musicians incorporate adungu into fusion music blending traditional and modern elements. Cultural activists work to document traditional songs before elderly practitioners die. The Turkana people's historical resistance to assimilation suggests cultural resilience that may sustain musical traditions even under adverse circumstances. Whether such resilience proves sufficient against twenty-first-century pressures remains uncertain, but Turkana music demonstrates remarkable persistence given decades of neglect and marginalization.
 
 ## See Also
-- [[Music/Somali Music in Kenya]]
-- [[Music/Samburu Songs and Dance]]
-- [[Music/The Nyatiti]]
-- [[Music/Musical Instruments of Kenya - Strings]]
-- [[Music/Warrior Songs Kenya]]
-- [[Music/Work Songs and Agricultural Music Kenya]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
+- [[Somali Music in Kenya]]
+- [[Samburu Songs and Dance]]
+- [[The Nyatiti]]
+- [[Musical Instruments of Kenya - Strings]]
+- [[Warrior Songs Kenya]]
+- [[Work Songs and Agricultural Music Kenya]]
+- [[Music and Pre-Christian Religion Kenya]]
 
 ## Sources
 1. Gulliver, P.H. The Family Herds: A Study of Two Pastoral Tribes in East Africa, The Jie and Turkana. London: Routledge & Kegan Paul, 1955.

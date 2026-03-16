@@ -1,4 +1,4 @@
-Kajiado County has experienced massive and accelerating sales of [[../../Maasai/Maasai|Maasai]] group ranch and individual pastoral lands to external buyers, real estate developers, and non-Maasai investors, representing one of Kenya's most significant and contentious land transfers from pastoral to non-pastoral uses.
+Kajiado County has experienced massive and accelerating sales of [[Maasai|Maasai]] group ranch and individual pastoral lands to external buyers, real estate developers, and non-Maasai investors, representing one of Kenya's most significant and contentious land transfers from pastoral to non-pastoral uses.
 
 The cumulative effect of decades of land sales has been substantial reduction in available pastoral territory and increasingly landlessness among pastoral families.
 
@@ -43,8 +43,8 @@ See also: [[Kajiado County|Kajiado County]], [[Kajiado Group Ranches|Kajiado Gro
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

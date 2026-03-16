@@ -1,4 +1,4 @@
-Alfred Nganga Mutua (born 1971, Machakos) represents a different trajectory than his Kamba political peers. A media personality turned politician, Mutua built his career on populism, controversy, and showmanship, establishing himself as [[../Counties/Machakos/Machakos County|Machakos County]]'s most visible governor before being appointed to national cabinet.
+Alfred Nganga Mutua (born 1971, Machakos) represents a different trajectory than his Kamba political peers. A media personality turned politician, Mutua built his career on populism, controversy, and showmanship, establishing himself as [[Machakos County|Machakos County]]'s most visible governor before being appointed to national cabinet.
 
 ## Television Presenter Background
 

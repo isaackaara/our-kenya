@@ -9,8 +9,8 @@ County government climate action plans address mitigation and adaptation priorit
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Climate Change|Climate Change]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Climate Change|Climate Change]]
 ## Sources
 1. https://www.worldbank.org/en/country/kenya/climate
 2. https://www.standardmedia.co.ke/counties/article/2001234567/climate-change-transnzoia-breadbasket

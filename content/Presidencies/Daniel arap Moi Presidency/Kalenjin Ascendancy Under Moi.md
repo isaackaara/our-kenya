@@ -6,8 +6,8 @@ The Kalenjin community's political and economic ascendancy under Daniel arap Moi
 
 ## See Also
 [[Presidencies/Daniel arap Moi Presidency/Moi Presidency]]
-[[Presidencies/Jomo Kenyatta Presidency/Asian Community Under Kenyatta]]
-[[Presidencies/William Ruto Presidency/Ruto Cabinet]]
+[[Asian Community Under Kenyatta]]
+[[Ruto Cabinet]]
 
 ## Sources
 1. Hornsby, Charles. 'Kenya: A History Since Independence.' I.B. Tauris, 2012.

@@ -50,4 +50,4 @@ The tradition of Mekatilili, Nyanjiru, and Maathai is alive but often unnamed.
 
 ## Related
 
-[[../Giriama/Mekatilili wa Menza]] | [[../Kikuyu/Mary Muthoni Nyanjiru]] | [[../Kikuyu/Harry Thuku]] | [[../Kikuyu/Wangari Maathai]] | [[../Kikuyu/Green Belt Movement]]
+[[Mekatilili wa Menza]] | [[Mary Muthoni Nyanjiru]] | [[Harry Thuku]] | [[Wangari Maathai]] | [[Green Belt Movement]]

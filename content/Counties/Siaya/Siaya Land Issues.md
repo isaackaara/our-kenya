@@ -30,13 +30,13 @@ County development planning incorporates land issues, with land tenure security 
 
 ## See Also
 
-- [[../../Luo/Luo and Land|Luo and Land]]
+- [[Luo and Land|Luo and Land]]
 - [[Siaya Women]]
 - [[Siaya Agriculture]]
-- [[../../Luo/Luo Clan Structure|Luo Clan Structure]]
+- [[Luo Clan Structure|Luo Clan Structure]]
 - [[Siaya and Devolution]]
 - [[Siaya County]]
-- [[../../Luo/Luo Traditional Governance|Luo Traditional Governance]]
+- [[Luo Traditional Governance|Luo Traditional Governance]]
 
 ## Sources
 

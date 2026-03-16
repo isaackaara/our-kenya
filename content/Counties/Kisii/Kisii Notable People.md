@@ -29,7 +29,7 @@ Education remains highly valued in [[Kisii County|Kisii]] culture, producing num
 - [[Kisii Education|Education]]
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Women|Women Leaders]]
-- [[../../Luo/Tom Mboya|Tom Mboya - Comparative Figure]]
+- [[Tom Mboya|Tom Mboya - Comparative Figure]]
 
 ## Business and Entrepreneurship
 

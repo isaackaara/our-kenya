@@ -1,4 +1,4 @@
-The Luo are a Nilotic people with a population of approximately 10 percent of Kenya and a dominant presence on the shores of [[../Conservation/Lake Victoria Kenya|Lake Victoria]] (Nam Lolwe). With a history spanning at least five centuries in present-day Kenya, the Luo have shaped the nation's labor movements, political contests, musical traditions, and cultural identity. Their language (Dholuo) is widely spoken in Nyanza Region (Siaya, [[../Counties/Kisumu/Kisumu County|Kisumu County]], [[../Counties/Homa Bay/Homa Bay County|Homa Bay County]], [[../Counties/Migori/Migori County|Migori County]] counties) and among diaspora communities.
+The Luo are a Nilotic people with a population of approximately 10 percent of Kenya and a dominant presence on the shores of [[Lake Victoria Kenya|Lake Victoria]] (Nam Lolwe). With a history spanning at least five centuries in present-day Kenya, the Luo have shaped the nation's labor movements, political contests, musical traditions, and cultural identity. Their language (Dholuo) is widely spoken in Nyanza Region (Siaya, [[../Counties/Kisumu/Kisumu County|Kisumu County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]] counties) and among diaspora communities.
 
 ## Origins and Social Structure
 
@@ -10,7 +10,7 @@ The Luo are a Nilotic people with a population of approximately 10 percent of Ke
 
 ## Geography and Counties
 
-[[[[../Counties/Siaya/Siaya County|Siaya County]]]] | [[Homa Bay County]] | [[Migori County]] | [[Kisumu]] | [[Kisumu City]] | [[Kisumu City Deep Dive]] | [[Kisumu Massacre 1969]] | [[Gem Constituency]] | [[Bondo and Ukwala]] | [[Nyanza Province History]]
+[[Siaya County|Siaya County]]]] | [[Homa Bay County]] | [[Migori County]] | [[Kisumu]] | [[Kisumu City]] | [[Kisumu City Deep Dive]] | [[Kisumu Massacre 1969]] | [[Gem Constituency]] | [[Bondo and Ukwala]] | [[Nyanza Province History]]
 
 ## Culture, Education, and Leadership
 

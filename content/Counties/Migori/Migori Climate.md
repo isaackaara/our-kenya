@@ -26,8 +26,8 @@ Livelihoods follow seasonal patterns, with farming during rains and intensified 
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Meteorological Department. (2020). Climate Data, Migori. https://www.meteo.go.ke/

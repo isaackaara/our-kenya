@@ -34,8 +34,8 @@ Water access on the island depends on boreholes, rainwater harvesting, and Lake 
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Rusinga Island. https://en.wikipedia.org/wiki/Rusinga_Island

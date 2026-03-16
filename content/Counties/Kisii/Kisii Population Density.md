@@ -16,7 +16,7 @@ The density far exceeds the Kenyan rural average of approximately 100 people per
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Population Pressure|Population Pressure]]
 - [[Kisii Infrastructure|Infrastructure]]
-- [[../../Luo/Luo and Land|Land Issues Across Groups]]
+- [[Luo and Land|Land Issues Across Groups]]
 
 ## Historical Factors
 

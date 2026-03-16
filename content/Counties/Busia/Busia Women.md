@@ -10,7 +10,7 @@ Women's representation in county government has increased through elected and no
 ## See Also
 
 [[../../Busia/Busia|Busia County]]
-[[../../Busia/Busia Women|Women]]
+[[Busia Women|Women]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/women-empowerment-busia
 2. https://www.unwomen.org/en/news/stories/2021/3/kenyas-women-farmers

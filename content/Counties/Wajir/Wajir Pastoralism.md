@@ -2,7 +2,7 @@ Pastoralism represents the fundamental economic system and way of life for the m
 
 ## Camel Herding as Primary Livelihood
 
-Camels dominate Wajir's pastoral economy because of their exceptional adaptation to arid environments. These animals can survive extended periods without water, subsist on sparse vegetation unsuitable for other livestock, and produce milk, meat, and materials for trade. For Wajir's [[../../Somali/Somali|Somali]] pastoralists, camels represent wealth, prestige, and economic security.
+Camels dominate Wajir's pastoral economy because of their exceptional adaptation to arid environments. These animals can survive extended periods without water, subsist on sparse vegetation unsuitable for other livestock, and produce milk, meat, and materials for trade. For Wajir's [[Somali|Somali]] pastoralists, camels represent wealth, prestige, and economic security.
 
 A typical pastoral household in Wajir maintains mixed herds combining camels with cattle and goats. Camels provide primary income through milk sales and animal trade, while cattle and goats offer secondary economic returns and represent backup resources during camel losses. This diversification reduces vulnerability to single-species disease or market fluctuations.
 

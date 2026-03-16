@@ -191,4 +191,4 @@ Ethnobotanical studies in Kalenjin areas document medicinal plants and healing p
 
 1. https://pmc.ncbi.nlm.nih.gov/articles/PMC3974104/ (Study of medicinal plants used by Marakwet Community in Kenya, documenting Kalenjin healing practices and plant remedies)
 2. https://pmc.ncbi.nlm.nih.gov/articles/PMC5717785/ (Medicinal plants and healing methods used by traditional healers in Elgeyo Marakwet County, comprehensive documentation of traditional practices)
-3. https://aphrc.org/blogarticle/being-a-traditional-healer-is-a-calling-an-encounter-with-a-traditional-medicine-woman-in-baringo-county/ (Encounter with traditional healer in [[../Counties/Baringo/Baringo County|Baringo County]] documenting contemporary healing practices and therapeutic approaches)
+3. https://aphrc.org/blogarticle/being-a-traditional-healer-is-a-calling-an-encounter-with-a-traditional-medicine-woman-in-baringo-county/ (Encounter with traditional healer in [[Baringo County|Baringo County]] documenting contemporary healing practices and therapeutic approaches)

@@ -26,7 +26,7 @@ GEMA's legacy is the blueprint for ethnic political organization in Kenya. It de
 - [[Kenyatta and Daniel arap Moi as VP]]
 - [[Kenyatta Family Land Acquisitions]]
 - [[Kikuyu/Kikuyu Business Elite]]
-- [[Corruption/Kenyatta Era Corruption]]
+- [[Kenyatta Era Corruption]]
 
 ## Sources
 1. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctvk8w1j7

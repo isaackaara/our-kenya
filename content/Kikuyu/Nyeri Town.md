@@ -1,4 +1,4 @@
-Nyeri Town is the capital of [[../Counties/Nyeri/Nyeri County|Nyeri County]] in the central highlands of Kenya, and has emerged as the intellectual and cultural heartland of the Kikuyu people. Situated approximately 140 kilometers north of Nairobi and positioned at the foot of [[../Conservation/Mount Kenya National Park|Mount Kenya]], Nyeri has historically been a centre of education, political thought, and development within Kikuyu society.
+Nyeri Town is the capital of [[Nyeri County|Nyeri County]] in the central highlands of Kenya, and has emerged as the intellectual and cultural heartland of the Kikuyu people. Situated approximately 140 kilometers north of Nairobi and positioned at the foot of [[Mount Kenya National Park|Mount Kenya]], Nyeri has historically been a centre of education, political thought, and development within Kikuyu society.
 
 ## Historical Significance
 
@@ -36,7 +36,7 @@ The political identity of Nyeri, as articulated by both its county governor and 
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

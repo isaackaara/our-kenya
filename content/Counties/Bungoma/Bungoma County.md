@@ -1,4 +1,4 @@
-Bungoma County is located in western Kenya on the Kenya-Uganda border, with a population of approximately 1.7 million. The [[../../Luhya/Luhya|Bukusu]], the largest [[../../Luhya/Luhya|Luhya]] sub-group, form the dominant ethnic population. The county is characterized by significant agricultural production (sugarcane, maize, wheat), the Chetambe Hills, and [[../../Conservation/Mount Elgon National Park|Mount Elgon]], which it shares with Trans-Nzoia County and Uganda. Bungoma town serves as the county headquarters. The county's location on the Kenya-Uganda border makes cross-border trade and regional dynamics significant to economic life.
+Bungoma County is located in western Kenya on the Kenya-Uganda border, with a population of approximately 1.7 million. The [[Luhya|Bukusu]], the largest [[Luhya|Luhya]] sub-group, form the dominant ethnic population. The county is characterized by significant agricultural production (sugarcane, maize, wheat), the Chetambe Hills, and [[../../Conservation/Mount Elgon National Park|Mount Elgon]], which it shares with Trans-Nzoia County and Uganda. Bungoma town serves as the county headquarters. The county's location on the Kenya-Uganda border makes cross-border trade and regional dynamics significant to economic life.
 
 ## Key Characteristics
 - **Population:** approximately 1.7 million
@@ -56,12 +56,12 @@ Bungoma County is located in western Kenya on the Kenya-Uganda border, with a po
 29. [[Bungoma Timeline]]
 
 ## Cross-County Links
-- [[../../Luhya/Luhya]]
+- [[Luhya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

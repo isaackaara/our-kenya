@@ -1,6 +1,6 @@
-Community conservancies in Narok County represent private conservation initiatives established by [[../../Maasai/Maasai|Maasai]] landowners on group ranch and individual properties to protect wildlife while generating revenue through tourism and conservation fees.
+Community conservancies in Narok County represent private conservation initiatives established by [[Maasai|Maasai]] landowners on group ranch and individual properties to protect wildlife while generating revenue through tourism and conservation fees.
 
-These conservancies function as wildlife management areas that operate alongside [[../../Maasai/Maasai|Maasai]] Mara National Reserve, collectively forming the greater Mara ecosystem. They allow landowners to maintain some tenure and management authority while participating in conservation.
+These conservancies function as wildlife management areas that operate alongside [[Maasai|Maasai]] Mara National Reserve, collectively forming the greater Mara ecosystem. They allow landowners to maintain some tenure and management authority while participating in conservation.
 
 ## Major Conservancies
 
@@ -33,8 +33,8 @@ See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai M
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

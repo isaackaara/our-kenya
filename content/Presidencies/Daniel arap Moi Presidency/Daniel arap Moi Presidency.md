@@ -32,10 +32,10 @@ Moi's presidency can be divided into distinct phases. The early years (1978-1982
 
 ## See Also
 
-- [[../Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
-- [[../Mwai Kibaki Presidency/Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[../../Kalenjin/Daniel arap Moi|Daniel arap Moi]]
-- [[../../Kalenjin/Kalenjin|Kalenjin]]
+- [[Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
+- [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
+- [[Daniel arap Moi|Daniel arap Moi]]
+- [[Kalenjin|Kalenjin]]
 - [[../../Kenya Authoritarianism|Kenya Authoritarianism]]
 - [[../../Kenya Post-Colonial Politics|Kenya Post-Colonial Politics]]
 

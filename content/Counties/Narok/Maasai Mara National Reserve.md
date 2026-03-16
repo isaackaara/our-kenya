@@ -1,4 +1,4 @@
-[[../../Maasai/Maasai|Maasai]] Mara National Reserve represents the Kenyan portion of the Serengeti ecosystem and ranks among the world's most significant wildlife conservation areas. Covering approximately 1,510 square kilometers, the Mara hosts spectacular biodiversity and serves as a crucial habitat for Africa's largest land migration event, the annual wildebeest migration.
+[[Maasai|Maasai]] Mara National Reserve represents the Kenyan portion of the Serengeti ecosystem and ranks among the world's most significant wildlife conservation areas. Covering approximately 1,510 square kilometers, the Mara hosts spectacular biodiversity and serves as a crucial habitat for Africa's largest land migration event, the annual wildebeest migration.
 
 The reserve is named after the Maasai people who inhabit the surrounding lands and the Mara River that runs through the ecosystem. It functions as both a protected wildlife area and a symbol of Kenya's conservation heritage.
 
@@ -18,7 +18,7 @@ The Mara faces pressures from human encroachment, livestock grazing, habitat los
 
 ## Cross-References
 
-See also: [[The Great Migration|The Great Migration]], [[Maasai in Narok|Maasai in Narok]], [[Narok Tourist Economy|Narok Tourist Economy]], [[../../Maasai/Maasai|Maasai]]
+See also: [[The Great Migration|The Great Migration]], [[Maasai in Narok|Maasai in Narok]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Maasai|Maasai]]
 
 
 ## See Also
@@ -27,8 +27,8 @@ See also: [[The Great Migration|The Great Migration]], [[Maasai in Narok|Maasai 
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

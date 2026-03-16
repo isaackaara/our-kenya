@@ -1,12 +1,12 @@
-Water resources are abundant in the higher elevation zones of Meru County, with [[../../Conservation/Mount Kenya National Park|Mount Kenya]] serving as the primary water tower. Rivers and springs fed by [[../../Conservation/Mount Kenya National Park|Mount Kenya]] rainfall provide permanent water sources. Lower elevations experience greater water scarcity, particularly during dry seasons. Water management and development projects aim to expand access and regulate water allocation among competing users.
+Water resources are abundant in the higher elevation zones of Meru County, with [[Mount Kenya National Park|Mount Kenya]] serving as the primary water tower. Rivers and springs fed by [[Mount Kenya National Park|Mount Kenya]] rainfall provide permanent water sources. Lower elevations experience greater water scarcity, particularly during dry seasons. Water management and development projects aim to expand access and regulate water allocation among competing users.
 
-## [[../../Conservation/Mount Kenya National Park|Mount Kenya]] as Water Source
+## [[Mount Kenya National Park|Mount Kenya]] as Water Source
 
-[[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s forest cover captures moisture from trade wind clouds, storing precipitation in soils and underground aquifers. This water storage effect ensures that [[../../Conservation/Mount Kenya National Park|Mount Kenya]] rivers flow year-round, providing reliable water supplies even during dry seasons. The forest-water connection means that forest conservation directly supports water security. Degradation of [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s forest threatens water supplies.
+[[Mount Kenya National Park|Mount Kenya]]'s forest cover captures moisture from trade wind clouds, storing precipitation in soils and underground aquifers. This water storage effect ensures that [[Mount Kenya National Park|Mount Kenya]] rivers flow year-round, providing reliable water supplies even during dry seasons. The forest-water connection means that forest conservation directly supports water security. Degradation of [[Mount Kenya National Park|Mount Kenya]]'s forest threatens water supplies.
 
 ## River Systems
 
-The Ewaso Nyiro River and its tributaries originate in the [[../../Conservation/Mount Kenya National Park|Mount Kenya]] region and flow through Meru County. Permanent rivers including the Ura River and others provide water for domestic, agricultural, and pastoral use. Seasonal streams flow during rainy periods but may dry up during dry seasons. Water from these rivers supports agriculture, particularly in lower-altitude zones.
+The Ewaso Nyiro River and its tributaries originate in the [[Mount Kenya National Park|Mount Kenya]] region and flow through Meru County. Permanent rivers including the Ura River and others provide water for domestic, agricultural, and pastoral use. Seasonal streams flow during rainy periods but may dry up during dry seasons. Water from these rivers supports agriculture, particularly in lower-altitude zones.
 
 ## Irrigation Development
 
@@ -34,9 +34,9 @@ Allocation of water between agricultural, pastoral, domestic, and environmental 
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

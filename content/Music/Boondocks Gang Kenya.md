@@ -1,12 +1,12 @@
-Boondocks Gang emerged from Githurai and Kayole, suburban estates on Nairobi's periphery, as [[Music/Gengetone Movement|Gengetone]] diversified beyond its Umoja and Dandora origins. Comprising Exray (Bobby), Odi wa Murang'a (Frank), and Maddox (Edward), with a DJ completing the crew, the group formed in 2018 as the gengetone wave was just beginning to crest. Their December 2018 single "Reing" signaled their arrival, but it was their consistent output and willingness to experiment with drill influences that distinguished them within the crowded gengetone landscape.
+Boondocks Gang emerged from Githurai and Kayole, suburban estates on Nairobi's periphery, as [[Gengetone Movement|Gengetone]] diversified beyond its Umoja and Dandora origins. Comprising Exray (Bobby), Odi wa Murang'a (Frank), and Maddox (Edward), with a DJ completing the crew, the group formed in 2018 as the gengetone wave was just beginning to crest. Their December 2018 single "Reing" signaled their arrival, but it was their consistent output and willingness to experiment with drill influences that distinguished them within the crowded gengetone landscape.
 
-What set Boondocks apart was their incorporation of drill music aesthetics into the [[Music/Genge Music Origins|gengetone]] framework. While groups like [[Music/Ethic Entertainment|Ethic Entertainment]] and [[Music/Sailors Guild Kenya|Sailors Guild]] stayed closer to dancehall and reggaeton influences, Boondocks experimented with the darker, more aggressive sonics associated with Chicago and UK drill. The slower tempos, ominous production, and menacing delivery created a different energy than the dance-oriented tracks dominating gengetone. This sonic diversity helped establish that gengetone was not a monolithic sound but a broad movement capable of incorporating various influences.
+What set Boondocks apart was their incorporation of drill music aesthetics into the [[Genge Music Origins|gengetone]] framework. While groups like [[Ethic Entertainment|Ethic Entertainment]] and [[Sailors Guild Kenya|Sailors Guild]] stayed closer to dancehall and reggaeton influences, Boondocks experimented with the darker, more aggressive sonics associated with Chicago and UK drill. The slower tempos, ominous production, and menacing delivery created a different energy than the dance-oriented tracks dominating gengetone. This sonic diversity helped establish that gengetone was not a monolithic sound but a broad movement capable of incorporating various influences.
 
 Exray, in particular, became known for his signature line "Taniuwa Ah!" and his aggressive delivery style. Among the youngest successful Kenyan rappers, Exray demonstrated technical skills that went beyond the simple hooks and chants that characterized some gengetone. His wordplay, flow variations, and rhythmic complexity suggested a deeper engagement with hip hop craft than was typical in the genre. This technical proficiency earned respect from hip hop purists who might otherwise have dismissed gengetone as unsophisticated.
 
 The group's estate origins remained central to their identity and content. Songs addressed the specific experiences of youth in Githurai and Kayole, areas that, while part of greater Nairobi, had distinct cultures and concerns from more central estates like Umoja or Dandora. This geographic diversity within gengetone was important: it demonstrated that the movement was not limited to particular neighborhoods but reflected broader youth experiences across [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] and working-class areas.
 
-Boondocks Gang's career trajectory followed patterns established by earlier gengetone groups: DIY production, [[Music/YouTube and Kenyan Music|YouTube]]-first distribution, estate-based performances, and aggressive [[Music/Social Media and Music Kenya|social media]] promotion. But they also benefited from infrastructure that had developed since Ethic's breakthrough. By 2018-2019, gengetone had established distribution channels, promotional networks, and audience expectations that new groups could tap into. The ecosystem was maturing, even if slowly.
+Boondocks Gang's career trajectory followed patterns established by earlier gengetone groups: DIY production, [[YouTube and Kenyan Music|YouTube]]-first distribution, estate-based performances, and aggressive [[Social Media and Music Kenya|social media]] promotion. But they also benefited from infrastructure that had developed since Ethic's breakthrough. By 2018-2019, gengetone had established distribution channels, promotional networks, and audience expectations that new groups could tap into. The ecosystem was maturing, even if slowly.
 
 The group navigated label relationships more successfully than some peers. They worked with Big Beats and CMG, established industry players who provided production resources and promotional support while allowing the group to maintain creative control. These partnerships represented a middle path between the complete DIY approach of early gengetone and the potentially exploitative major label deals that had burned other artists. The model was not perfect, but it suggested emerging frameworks for how gengetone artists could access industry resources without surrendering autonomy.
 
@@ -19,14 +19,14 @@ By the mid-2020s, as gengetone's commercial dominance waned, Boondocks Gang main
 Boondocks Gang's significance extends beyond their specific hits or commercial success. They demonstrated gengetone's stylistic range, proved that artists from various Nairobi estates could access the movement's commercial potential, and showed how global influences could be incorporated without losing local authenticity. In a genre often dismissed as simplistic or derivative, Boondocks brought technical skill and sonic experimentation that enriched gengetone's overall tapestry. They were not the movement's biggest stars, but they were important contributors to its depth and diversity.
 
 ## See Also
-- [[Music/Gengetone Movement|Gengetone Movement]]
-- [[Music/Ethic Entertainment|Ethic Entertainment]]
-- [[Music/Sailors Guild Kenya|Sailors Guild Kenya]]
-- [[Music/Genge Music Origins|Genge Music Origins]]
+- [[Gengetone Movement|Gengetone Movement]]
+- [[Ethic Entertainment|Ethic Entertainment]]
+- [[Sailors Guild Kenya|Sailors Guild Kenya]]
+- [[Genge Music Origins|Genge Music Origins]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
-- [[Music/YouTube and Kenyan Music|YouTube and Kenyan Music]]
-- [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
-- [[Music/Gengetone and Social Commentary|Gengetone and Social Commentary]]
+- [[YouTube and Kenyan Music|YouTube and Kenyan Music]]
+- [[Social Media and Music Kenya|Social Media and Music Kenya]]
+- [[Gengetone and Social Commentary|Gengetone and Social Commentary]]
 
 ## Sources
 1. "Boondocks Gang members and latest songs," Tuko.co.ke, September 4, 2020, https://www.tuko.co.ke/377753-boondocks-gang-members-latest-songs.html

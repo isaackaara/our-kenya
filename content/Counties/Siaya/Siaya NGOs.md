@@ -22,7 +22,7 @@ Microfinance organizations provide credit and savings services to individuals an
 
 ## Conservation and Environmental Organizations
 
-Environmental organizations work on water conservation, wetland protection, and sustainable resource management. [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] conservation efforts engage fishing communities in conservation practices.
+Environmental organizations work on water conservation, wetland protection, and sustainable resource management. [[Lake Victoria Kenya|Lake Victoria]] conservation efforts engage fishing communities in conservation practices.
 
 ## Governance and Rights Organizations
 

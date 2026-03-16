@@ -1,4 +1,4 @@
-Gor Mahia FC, founded in 1968, is Kenya's most supported football club and represents the [[../Luo/Luo|Luo]] community. The club's name derives from an ancestral Luo figure. Gor Mahia has won Kenya's top domestic league multiple times and represents Luo identity and pride in Kenyan football.
+Gor Mahia FC, founded in 1968, is Kenya's most supported football club and represents the [[Luo|Luo]] community. The club's name derives from an ancestral Luo figure. Gor Mahia has won Kenya's top domestic league multiple times and represents Luo identity and pride in Kenyan football.
 
 The club's support base extends beyond Luo communities and has become nationally significant. Gor Mahia matches attract the largest crowds in Kenya's football league and generate intense passion among supporters.
 

@@ -17,9 +17,9 @@ By the late 20th century, spice trade patterns in Kenya reflected global commodi
 ## See Also
 
 [[Coast History/Trade Networks and Commerce]]
-[[Food and Agriculture/Food Trade Exports]]
-[[Food and Agriculture/Horticultural Sector]]
-[[Food and Agriculture/Herbal Medicine and Food Plants]]
+[[Food Trade Exports]]
+[[Horticultural Sector]]
+[[Herbal Medicine and Food Plants]]
 [[Labour/Trading and Merchant Communities]]
 [[Health/Traditional Medicine and Healing]]
 

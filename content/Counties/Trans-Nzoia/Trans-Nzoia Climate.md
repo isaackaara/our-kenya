@@ -9,8 +9,8 @@ The cool climate and reliable rainfall make Trans-Nzoia suitable for diverse cro
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Climate|Climate]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Climate|Climate]]
 ## Sources
 1. https://www.worldbank.org/en/country/kenya/climate
 2. https://www.standardmedia.co.ke/counties/article/2001234567/climate-change-transnzoia

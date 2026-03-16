@@ -30,7 +30,7 @@ The port generates significant government revenue through tariffs and fees, and 
 
 ## See also
 
-For broader context, see [[../../Corporate Kenya/Mombasa Port History]].
+For broader context, see [[Mombasa Port History]].
 
 
 ## See Also
@@ -38,7 +38,7 @@ For broader context, see [[../../Corporate Kenya/Mombasa Port History]].
 [[Mombasa Timeline]]
 [[Mombasa History]]
 [[Mombasa Port]]
-[[../../Mijikenda/Mijikenda|Mijikenda]]
+[[Mijikenda|Mijikenda]]
 [[Mombasa Economy]]
 [[Fort Jesus]]
 ## Sources

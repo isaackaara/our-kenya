@@ -1,6 +1,6 @@
 ## Amboseli National Park and Mount Kilimanjaro
 
-Amboseli National Park (392 km2) is located in [[../Counties/Kajiado/Kajiado County|Kajiado County]], in the shadow of Mount Kilimanjaro. The park is famous for large elephant herds and for the dramatic backdrop of Kilimanjaro(visible across the Tanzania border).
+Amboseli National Park (392 km2) is located in [[Kajiado County|Kajiado County]], in the shadow of Mount Kilimanjaro. The park is famous for large elephant herds and for the dramatic backdrop of Kilimanjaro(visible across the Tanzania border).
 
 Amboseli is Maasai ancestral land, historically used for dry-season grazing. The park was established to protect wildlife and create a tourism destination.
 
@@ -22,7 +22,7 @@ Local Maasai communities are supposed to benefit through revenue sharing, employ
 
 Maasai loss of grazing land (removed from park) is not compensated by tourism revenue. The economic trade-off(loss of pastoral land + gain in tourism revenue) is not equal.
 
-Community conservancies (like those around the [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]) have emerged partly as response to this inequitable arrangement.
+Community conservancies (like those around the [[Maasai Mara National Reserve|Maasai Mara National Reserve]]) have emerged partly as response to this inequitable arrangement.
 
 ## Ecosystem and Rainfall Dependence
 
@@ -41,10 +41,10 @@ However, conservation success for wildlife may come at the cost of pastoral excl
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

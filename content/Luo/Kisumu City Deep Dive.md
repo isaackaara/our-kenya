@@ -1,4 +1,4 @@
-Kisumu is Kenya's third largest city and the principal city of western Kenya. Founded as a colonial port (originally Port Florence) where the Uganda Railway terminated at [[../Conservation/Lake Victoria Kenya|Lake Victoria]] in 1901, Kisumu became an economic and administrative hub. Post-independence decline, driven by Luo political marginalisation, reduced investment and opportunity. Recent years have seen revival, with infrastructure improvements and renewed interest in Kisumu as a potential lake economy hub.
+Kisumu is Kenya's third largest city and the principal city of western Kenya. Founded as a colonial port (originally Port Florence) where the Uganda Railway terminated at [[Lake Victoria Kenya|Lake Victoria]] in 1901, Kisumu became an economic and administrative hub. Post-independence decline, driven by Luo political marginalisation, reduced investment and opportunity. Recent years have seen revival, with infrastructure improvements and renewed interest in Kisumu as a potential lake economy hub.
 
 ## Colonial Founding and Port Economy
 
@@ -46,7 +46,7 @@ The city's cultural significance as Luo heartland remains strong. Kisumu is the 
 
 ---
 
-**See also**: [[[[../Counties/Siaya/Siaya County|Siaya County]]]], [[Kisumu]], [[Luo and Urban Economy]]
+**See also**: [[Siaya County|Siaya County]]]], [[Kisumu]], [[Luo and Urban Economy]]
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

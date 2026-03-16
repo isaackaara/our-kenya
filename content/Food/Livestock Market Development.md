@@ -14,8 +14,8 @@ Livestock diseases and quality concerns shaped market development. Colonial and 
 
 ## See Also
 
-[[Food and Agriculture/Livestock Farming Systems]]
-[[Food and Agriculture/Meat Processing Plants]]
+[[Livestock Farming Systems]]
+[[Meat Processing Plants]]
 [[Maasai/Pastoral Economy]]
 [[Labour/Pastoral Production and Commerce]]
 [[Poverty/Pastoral Vulnerability]]

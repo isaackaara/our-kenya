@@ -12,18 +12,18 @@ The social functions of beni extended far beyond entertainment. Beni societies p
 
 Women participated in beni, though often in separate or auxiliary roles. Women's beni groups developed their own competitive traditions, sometimes explicitly challenging male groups. Gender dynamics within beni reflected broader tensions in urban African society about changing roles and power relations.
 
-The relationship between beni and colonial authorities was complex. Some administrators viewed beni as harmless entertainment that channeled African energies away from political agitation. Others saw potential for disorder, particularly when beni competitions escalated into violence. [[Music/Colonial Music Censorship Kenya|Colonial censorship]] occasionally targeted beni songs perceived as politically subversive, though the coded nature of many beni lyrics made surveillance difficult.
+The relationship between beni and colonial authorities was complex. Some administrators viewed beni as harmless entertainment that channeled African energies away from political agitation. Others saw potential for disorder, particularly when beni competitions escalated into violence. [[Colonial Music Censorship Kenya|Colonial censorship]] occasionally targeted beni songs perceived as politically subversive, though the coded nature of many beni lyrics made surveillance difficult.
 
-By the 1930s and 1940s, beni faced competition from newer musical forms like [[Music/Congolese Rumba Arrives in Kenya|Congolese rumba]] and [[Music/The Nairobi Sound 1950s|early Kenyan pop]]. Younger urbanites found beni old-fashioned, associated with their parents' generation. Yet beni persisted in modified forms, influencing later brass band traditions and competitive music cultures.
+By the 1930s and 1940s, beni faced competition from newer musical forms like [[Congolese Rumba Arrives in Kenya|Congolese rumba]] and [[The Nairobi Sound 1950s|early Kenyan pop]]. Younger urbanites found beni old-fashioned, associated with their parents' generation. Yet beni persisted in modified forms, influencing later brass band traditions and competitive music cultures.
 
 Beni represented a creative African navigation of colonial power. By mimicking European military pageantry while infusing it with African musical and social logics, beni participants both acknowledged colonial dominance and subtly undermined it. The imitation was always imperfect, always excessive, always carrying a hint of mockery alongside genuine admiration for the spectacle.
 
 ## See Also
-- [[Music/Early Nairobi Dance Halls 1920s-1940s]]
-- [[Music/Colonial Music Censorship Kenya]]
-- [[Music/The Nairobi Sound 1950s]]
-- [[Music/Music and Colonial Labour]]
-- [[Swahili/Swahili Civilization Overview]]
+- [[Early Nairobi Dance Halls 1920s-1940s]]
+- [[Colonial Music Censorship Kenya]]
+- [[The Nairobi Sound 1950s]]
+- [[Music and Colonial Labour]]
+- [[Swahili Civilization Overview]]
 - [[Europeans/European Settlers Kenya]]
 
 ## Sources

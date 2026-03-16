@@ -13,8 +13,8 @@ KBC's transition from colonial broadcaster to national institution to monopoly s
 [[Television History Kenya]]
 [[Voice of Kenya Mau Mau Emergency]]
 [[Kenya Broadcasting Early]]
-[[Presidencies/Jomo Kenyatta]]
-[[Presidencies/Daniel Arap Moi]]
+[[Jomo Kenyatta]]
+[[Daniel Arap Moi]]
 
 ## Sources
 1. https://kbc.go.ke/about/

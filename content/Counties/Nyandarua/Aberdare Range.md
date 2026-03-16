@@ -1,4 +1,4 @@
-The Aberdare Range, known as Nyandarua in [[../../[[../../Kikuyu/Kikuyu|Kikuyu]]/Kikuyu|Kikuyu]] language, runs through Nyandarua County and forms a major topographic feature of central Kenya. The mountain range rises to approximately 4,000 meters at its highest points. Moorland and forest ecosystems dominate the high elevations. The range forms an important water tower that supplies water to central Kenya. The Aberdare Range's forests and water resources are critical to regional hydrology and ecology.
+The Aberdare Range, known as Nyandarua in [[Kikuyu|Kikuyu]]/Kikuyu|Kikuyu]] language, runs through Nyandarua County and forms a major topographic feature of central Kenya. The mountain range rises to approximately 4,000 meters at its highest points. Moorland and forest ecosystems dominate the high elevations. The range forms an important water tower that supplies water to central Kenya. The Aberdare Range's forests and water resources are critical to regional hydrology and ecology.
 
 ## Physical Geography
 
@@ -36,11 +36,11 @@ The range captures moisture from winds, creating abundant rainfall. Rainfall on 
 ## See Also
 
 - [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

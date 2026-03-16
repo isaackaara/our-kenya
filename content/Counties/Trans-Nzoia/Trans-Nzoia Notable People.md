@@ -9,8 +9,8 @@ Athletes from the county have participated in national and international sports 
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
-[[../../Trans-Nzoia/Trans-Nzoia Notable People|Notable People]]
+[[Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia Notable People|Notable People]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Category:People_from_Trans-Nzoia_County
 2. https://www.standardmedia.co.ke/counties/article/2001234567/notable-people-transnzoia

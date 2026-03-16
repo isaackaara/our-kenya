@@ -24,4 +24,4 @@
 
 ## Related
 
-[[../Cross-Ethnic/Nairobi as Melting Pot]] | [[../Cross-Ethnic/The Kenya We Share]] | [[../Asians/Asian Kenyans Today]]
+[[Nairobi as Melting Pot]] | [[The Kenya We Share]] | [[Asian Kenyans Today]]

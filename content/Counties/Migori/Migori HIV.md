@@ -34,8 +34,8 @@ HIV prevention programs emphasize behavior change communication, condom distribu
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Stats Kenya. (2022). HIV and AIDS by County. https://statskenya.co.ke/

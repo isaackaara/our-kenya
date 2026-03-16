@@ -8,7 +8,7 @@ Hunts typically involved groups of men equipped with bows and arrows, spears, an
 
 ## Poison Arrows and Big Game
 
-The Kamba were particularly known for their use of poison-tipped arrows, especially for hunting large game like elephants. The poison was extracted from plants or prepared through traditional recipes known only to specialist poison-makers. The poison was applied to arrow tips and stored carefully, wrapped in grass bundles. The Kamba also sold poison to neighboring groups like [[../Maasai/Maasai|Maasai]], creating a trade in this specialized product.
+The Kamba were particularly known for their use of poison-tipped arrows, especially for hunting large game like elephants. The poison was extracted from plants or prepared through traditional recipes known only to specialist poison-makers. The poison was applied to arrow tips and stored carefully, wrapped in grass bundles. The Kamba also sold poison to neighboring groups like [[Maasai|Maasai]], creating a trade in this specialized product.
 
 Poisoned arrows were lethal even to large animals, allowing hunters to bring down elephants and other dangerous game. The ivory from killed elephants was a highly valuable trade commodity that the Kamba sold to coastal traders for centuries before colonial rule.
 

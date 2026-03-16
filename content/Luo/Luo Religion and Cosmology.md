@@ -7,7 +7,7 @@ Luo spirituality centers on Nyasaye, a supreme creator deity, and juogi, ancestr
 - **Chik nyaluo (ancestral presence)**: This phrase refers to the collective ancestral presence in Luo communities. The living consult ancestors through divination, prayer, and dreams
 - **Ajuoga (diviner/healer)**: These specialists (also called seers or prophets) possess knowledge of healing herbs, divination methods, and spiritual insight. An ajuoga might interpret dreams, identify the spiritual cause of illness, or prescribe ritual remedies. These practitioners occupy a space between the community and the spirit world
 - **Chira (supernatural illness)**: Violation of ritual protocols or kinship obligations can result in chira, a supernatural affliction believed to strike the offender or their family members. Chira can only be healed through public confession, compensation, and ritual purification performed by elders
-- **The lake as sacred space**: Nam Lolwe ([[../Conservation/Lake Victoria Kenya|Lake Victoria]]) is more than a source of food. It is the dwelling place of ancestral spirits and a manifestation of Nyasaye's creative power. Stories of water spirits (nyakach) inhabiting certain sections of the lake, and of mysterious protective forces, reflect the lake's numinous status
+- **The lake as sacred space**: Nam Lolwe ([[Lake Victoria Kenya|Lake Victoria]]) is more than a source of food. It is the dwelling place of ancestral spirits and a manifestation of Nyasaye's creative power. Stories of water spirits (nyakach) inhabiting certain sections of the lake, and of mysterious protective forces, reflect the lake's numinous status
 - **Burial customs**: Traditional Luo burial practices include interring the dead in the family homestead, often with the body facing toward the lake. This positioning reflects the spiritual significance of Nam Lolwe and ties the deceased to ancestral lands and waters
 - **Relationship between living and dead**: Death does not sever the connection between the living and deceased. A family's prosperity, health, and social standing depend partly on maintaining good relations with juogi through proper burial, remembrance, and ritual offering
 
@@ -25,4 +25,4 @@ The Luo worldview does not divide the sacred and profane into separate spheres. 
 
 2. Cohen, D. W. (1980). The River-Lake Nilotes from the Fifteenth to the Nineteenth Century. In R. Oliver & M. Mathew (Eds.), History of East Africa, Vol. 1. Oxford University Press.
 
-3. Kipury, N. (1983). Oral Literature of [[../Maasai/Maasai|Maasai]]. Heinemann Kenya. https://www.worldcat.org/title/oral-literature-of-the-maasai/oclc/11768206
+3. Kipury, N. (1983). Oral Literature of [[Maasai|Maasai]]. Heinemann Kenya. https://www.worldcat.org/title/oral-literature-of-the-maasai/oclc/11768206

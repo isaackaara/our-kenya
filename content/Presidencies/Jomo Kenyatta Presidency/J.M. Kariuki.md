@@ -34,7 +34,7 @@ For the Kenyatta regime, Kariuki's assassination marked a turning point from aut
 - [[Land Policy Post-Independence]]
 - [[Charles Njonjo]]
 - [[Mbiyu Koinange]]
-- [[Corruption/Kenyatta Era Corruption]]
+- [[Kenyatta Era Corruption]]
 
 ## Sources
 1. Kinyatti, Maina wa. *J.M.: A Political Biography of J.M. Kariuki*. East African Educational Publishers, 2019. https://www.eastafricanpublishers.com/product/j-m-a-political-biography-of-j-m-kariuki

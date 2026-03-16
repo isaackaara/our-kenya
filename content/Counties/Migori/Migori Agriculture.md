@@ -38,8 +38,8 @@ Agricultural extension services provide limited support. Farmer groups facilitat
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Agriculture. (2020). Migori Agricultural Profile. https://www.agriculture.go.ke/

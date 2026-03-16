@@ -2,7 +2,7 @@ This timeline documents major events and developments in Laikipia County's histo
 
 ## Pre-Colonial Period
 - Traditional pastoral settlement and land use
-- [[../../Maasai/Maasai|Maasai]], [[../../Samburu/Samburu|Samburu]], Pokot, and Turkana pastoral traditions
+- [[Maasai|Maasai]], [[Samburu|Samburu]], Pokot, and Turkana pastoral traditions
 - Cattle herding economies
 - Social organization through age-set systems
 
@@ -11,7 +11,7 @@ This timeline documents major events and developments in Laikipia County's histo
 - 1904: European settler farms established
 - 1920s: Colonial land allocation finalized
 - 1950s: Wildlife conservation efforts begin
-- 1952-1960: [[../../Kikuyu/Mau Mau Uprising|Mau Mau]] uprising, limited Laikipia participation
+- 1952-1960: [[Mau Mau Uprising|Mau Mau]] uprising, limited Laikipia participation
 - 1960: State of Emergency lifted
 
 ## Post-Independence Period (1964-1989)
@@ -63,11 +63,11 @@ This timeline documents major events and developments in Laikipia County's histo
 ## See Also
 
 - [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 

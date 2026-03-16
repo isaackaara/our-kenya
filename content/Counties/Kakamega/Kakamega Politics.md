@@ -1,4 +1,4 @@
-Kakamega County's political landscape reflects broader western Kenya dynamics shaped by ethnic identity, regional competition, and national political alignments. Political contests at county, constituency, and ward levels mobilize significant participation. County governance since 2013 has involved competition among county governors and political factions representing different interests within the [[../../Luhya/Luhya|Luhya]] majority community.
+Kakamega County's political landscape reflects broader western Kenya dynamics shaped by ethnic identity, regional competition, and national political alignments. Political contests at county, constituency, and ward levels mobilize significant participation. County governance since 2013 has involved competition among county governors and political factions representing different interests within the [[Luhya|Luhya]] majority community.
 
 ## County Governance
 
@@ -19,7 +19,7 @@ Political processes shape prioritization of development projects, budget allocat
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

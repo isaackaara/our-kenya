@@ -2,7 +2,7 @@ The Luhya have produced writers, poets, academics, and intellectuals who have co
 
 ## Intellectual Traditions in Maragoli
 
-The Maragoli sub-group, located in [[../Counties/Vihiga/Vihiga County|Vihiga County]], has been noted for high education rates and an academic tradition. Maragoli communities, despite the county's small area and high population density, have produced many graduates and professionals. This intellectual tradition reflects both cultural values emphasizing education and historical access to mission schools.
+The Maragoli sub-group, located in [[Vihiga County|Vihiga County]], has been noted for high education rates and an academic tradition. Maragoli communities, despite the county's small area and high population density, have produced many graduates and professionals. This intellectual tradition reflects both cultural values emphasizing education and historical access to mission schools.
 
 The Friends (Quaker) Church established significant educational institutions in Maragoli in the early twentieth century, creating educational opportunities that became the foundation for higher literacy and educational advancement in the region.
 
@@ -51,9 +51,9 @@ No specific sources were used for this overview; it represents a synthesis of ge
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 

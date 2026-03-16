@@ -41,9 +41,9 @@ This stratification indicates rapid generational decline, with each younger coho
 
 ### Geographic Variation
 
-- **[[../Counties/Kitui/Kitui County|Kitui County]] (rural)**: Highest preservation, approximately 70-80% first-language fluency across age groups
-- **[[../Counties/Machakos/Machakos County|Machakos County]] (mixed)**: Approximately 50-60% first-language fluency, with urban areas showing lower rates
-- **[[../Counties/Makueni/Makueni County|Makueni County]]**: Approximately 40-50% first-language fluency
+- **[[Kitui County|Kitui County]] (rural)**: Highest preservation, approximately 70-80% first-language fluency across age groups
+- **[[Machakos County|Machakos County]] (mixed)**: Approximately 50-60% first-language fluency, with urban areas showing lower rates
+- **[[Makueni County|Makueni County]]**: Approximately 40-50% first-language fluency
 - **Nairobi**: Approximately 20-30% among Kamba residents
 - **International diaspora**: Approximately 5-15% among diaspora youth
 

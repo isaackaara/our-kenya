@@ -2,7 +2,7 @@ Meru County has emerged as Kenya's leading honey-producing county, with producti
 
 ## Ecological Support for Beekeeping
 
-The vegetation diversity across Meru County's elevation zones ensures flowering plants throughout the year, providing consistent nectar and pollen sources for honeybees. Forest areas, particularly on [[../../Conservation/Mount Kenya National Park|Mount Kenya]]'s slopes, support diverse flowering plants. Agricultural zones with coffee, tea, and fruit trees provide additional forage. The high altitude and moderate temperatures create conditions favorable for healthy bee populations.
+The vegetation diversity across Meru County's elevation zones ensures flowering plants throughout the year, providing consistent nectar and pollen sources for honeybees. Forest areas, particularly on [[Mount Kenya National Park|Mount Kenya]]'s slopes, support diverse flowering plants. Agricultural zones with coffee, tea, and fruit trees provide additional forage. The high altitude and moderate temperatures create conditions favorable for healthy bee populations.
 
 ## Traditional and Modern Beekeeping
 
@@ -30,9 +30,9 @@ Pests, particularly the small hive beetle, damage hives and reduce productivity.
 - [[Meru County|Meru County Hub]]
 - [[Meru People|Meru People]]
 - [[Meru Coffee|Coffee Production]]
-- [[../../Kikuyu/Kikuyu|Kikuyu (neighboring ethnic group)]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya]]
-- [[../../Conservation/Meru National Park|Meru National Park]]
+- [[Kikuyu|Kikuyu (neighboring ethnic group)]]
+- [[Mount Kenya National Park|Mount Kenya]]
+- [[Meru National Park|Meru National Park]]
 - [[Meru Tourism|Tourism]]
 
 ## Sources

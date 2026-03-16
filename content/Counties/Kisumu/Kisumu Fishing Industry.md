@@ -1,4 +1,4 @@
-The fishing industry is the largest economic sector in Kisumu and surrounding areas, employing hundreds of thousands directly and indirectly. [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]'s fish stocks support livelihoods and provide protein for millions.
+The fishing industry is the largest economic sector in Kisumu and surrounding areas, employing hundreds of thousands directly and indirectly. [[Lake Victoria Kenya|Lake Victoria]]'s fish stocks support livelihoods and provide protein for millions.
 
 ## Fish Landing Sites
 
@@ -46,7 +46,7 @@ For the Nile perch story, see [[Nile Perch Kisumu]]. For water hyacinth, see [[W
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

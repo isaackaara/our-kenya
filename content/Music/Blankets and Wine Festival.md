@@ -2,11 +2,11 @@ Blankets and Wine transformed from a small monthly outdoor music event into one 
 
 The concept was simple but powerful: bring your own blanket and wine, enjoy afternoon music in outdoor settings, experience diverse artists across genres in family-friendly environments. The blanket-and-wine framing lowered barriers compared to traditional concerts requiring purchased seating or expensive VIP sections. Attendees could picnic, socialize, and experience music in relaxed settings where the focus was atmosphere and community rather than just performance. This model proved wildly successful, attracting crowds that included families, couples, friend groups, and individuals seeking cultural experiences beyond Nairobi's often-chaotic nightlife.
 
-Musically, Blankets and Wine prioritized diversity. Lineups featured Kenyan artists alongside acts from across Africa and occasionally international performers. Genres spanned Afrobeat, soul, jazz, Afropop, reggae, and contemporary fusion sounds, deliberately avoiding narrow focus that might limit audience appeal. This curatorial approach introduced Kenyan audiences to new artists and sounds while providing established acts with quality platforms to perform. [[Music/Sauti Sol|Sauti Sol]], [[Music/Bensoul|Bensoul]], and numerous other Kenyan artists used Blankets and Wine as career-building platforms.
+Musically, Blankets and Wine prioritized diversity. Lineups featured Kenyan artists alongside acts from across Africa and occasionally international performers. Genres spanned Afrobeat, soul, jazz, Afropop, reggae, and contemporary fusion sounds, deliberately avoiding narrow focus that might limit audience appeal. This curatorial approach introduced Kenyan audiences to new artists and sounds while providing established acts with quality platforms to perform. [[Sauti Sol|Sauti Sol]], [[Bensoul|Bensoul]], and numerous other Kenyan artists used Blankets and Wine as career-building platforms.
 
 International headliners brought global credibility. Nigerian star Tems headlined the September 2025 edition, marking a significant moment when a rising global Afrobeats artist chose Nairobi as a tour destination worth investing in. Such bookings signaled that Kenya's music market had matured enough to attract international artists who might previously have skipped East Africa entirely or limited regional stops to more established markets like South Africa or Nigeria.
 
-The festival's cultural impact extended beyond music into fashion, social dynamics, and lifestyle branding. Attendees treated Blankets and Wine as occasions to dress well, to be seen, to perform aspirational middle-class identity. The event became Instagram-optimized: picturesque settings, well-dressed crowds, quality musical performances, all highly shareable on [[Music/Social Media and Music Kenya|social media]]. This social media visibility created virtuous cycle where attending became itself a status signal, driving more attendance and more visibility.
+The festival's cultural impact extended beyond music into fashion, social dynamics, and lifestyle branding. Attendees treated Blankets and Wine as occasions to dress well, to be seen, to perform aspirational middle-class identity. The event became Instagram-optimized: picturesque settings, well-dressed crowds, quality musical performances, all highly shareable on [[Social Media and Music Kenya|social media]]. This social media visibility created virtuous cycle where attending became itself a status signal, driving more attendance and more visibility.
 
 Creative Director Muthoni Ndonga, known professionally as Muthoni Drummer Queen, brought artistic vision and curatorial expertise that distinguished Blankets and Wine from more commercial festival operations. Her emphasis on quality, artist development, and creating holistic cultural experiences rather than just concerts elevated the festival beyond simple entertainment into cultural institution. Recent editions emphasized "Onja Onja," spotlighting Kenya's growing house music scene and drawing continental attention to local electronic music developments.
 
@@ -19,12 +19,12 @@ Venue changes reflected the festival's growth and Nairobi's evolving cultural ge
 By the mid-2020s, Blankets and Wine had established itself as essential Nairobi cultural infrastructure, as important to the city's music ecosystem as recording studios or radio stations. It provided artists with quality performance opportunities, audiences with curated cultural experiences, and the city with regular affirmation that Nairobi could support world-class musical programming. The festival demonstrated that Kenya's creative industries could build sustainable institutions if combining artistic vision, professional execution, strategic partnerships, and genuine commitment to quality. In a cultural landscape often dominated by chaotic improvisation, Blankets and Wine represented intentionality, consistency, and the possibility that Kenyan cultural institutions could be built to last.
 
 ## See Also
-- [[Music/Concert Culture Kenya|Concert Culture Kenya]]
-- [[Music/Safaricom Jazz Festival|Safaricom Jazz Festival]]
-- [[Music/Sauti Sol|Sauti Sol]]
-- [[Music/Bensoul|Bensoul]]
-- [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
-- [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
+- [[Concert Culture Kenya|Concert Culture Kenya]]
+- [[Safaricom Jazz Festival|Safaricom Jazz Festival]]
+- [[Sauti Sol|Sauti Sol]]
+- [[Bensoul|Bensoul]]
+- [[Social Media and Music Kenya|Social Media and Music Kenya]]
+- [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
 
 ## Sources

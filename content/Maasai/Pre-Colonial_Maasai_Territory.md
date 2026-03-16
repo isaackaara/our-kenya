@@ -8,7 +8,7 @@ Before colonial conquest in the late 19th century, the Maasai controlled vast te
 
 ## Territorial Extent
 
-The pre-colonial Maasai heartland encompassed approximately 160,000 square kilometers. This included the central highlands of present-day Kenya, the Rift Valley floor, the Serengeti and Ngorongoro regions of Tanzania, and extensive grazing lands in what are now Narok, Kajiado, Samburu, and [[../Counties/Laikipia/Laikipia County|Laikipia County]] counties. The Maasai made strategic use of different ecosystems: highland pastures during dry seasons, Rift Valley water sources during droughts, and coastal raid networks for additional wealth acquisition.
+The pre-colonial Maasai heartland encompassed approximately 160,000 square kilometers. This included the central highlands of present-day Kenya, the Rift Valley floor, the Serengeti and Ngorongoro regions of Tanzania, and extensive grazing lands in what are now Narok, Kajiado, Samburu, and [[Laikipia County|Laikipia County]] counties. The Maasai made strategic use of different ecosystems: highland pastures during dry seasons, Rift Valley water sources during droughts, and coastal raid networks for additional wealth acquisition.
 
 ## Expansion Peak (18th Century)
 
@@ -20,7 +20,7 @@ The Maasai expansion displaced or incorporated several pre-existing communities.
 
 ## Strategic Control Points
 
-Key water and grazing areas gave the Maasai immense power. Lake Natron in Tanzania provided critical dry-season water. The [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]] River and its surrounding grasslands supported the annual wildebeest migrations and sustained Maasai herds. Strategic mountain passes, particularly through the central highlands, allowed the Maasai to control trade routes and levy tribute on caravans moving inland from the coast.
+Key water and grazing areas gave the Maasai immense power. Lake Natron in Tanzania provided critical dry-season water. The [[Maasai Mara National Reserve|Maasai Mara National Reserve]] River and its surrounding grasslands supported the annual wildebeest migrations and sustained Maasai herds. Strategic mountain passes, particularly through the central highlands, allowed the Maasai to control trade routes and levy tribute on caravans moving inland from the coast.
 
 ## Coastal Raids and Trade
 
@@ -46,12 +46,12 @@ The memory of pre-colonial Maasai territorial dominance remains central to conte
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

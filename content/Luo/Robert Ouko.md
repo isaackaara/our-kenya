@@ -49,7 +49,7 @@ Contemporary debates about national reconciliation, transitional justice, and ac
 ## Cross-links
 - [[[[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]]]
 - [[Luo-Kikuyu Political Relationship]]
-- [[../Kikuyu/Daniel arap Moi Era]]
+- [[Daniel arap Moi Era]]
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

@@ -2,7 +2,7 @@ The Kenya African Democratic Union (KADU) was founded in 1960 as the political v
 
 ## KADU's Founding and Political Platform
 
-KADU was formally established in 1960, though its intellectual foundations developed during the transition period following the Mau Mau Emergency. The party's core constituency included the Kalenjin (particularly represented by Moi), [[../Maasai/Maasai|Maasai]], Turkana, and other pastoral and minority groups. KADU leaders feared that immediate independence under majority rule, dominated by the numerically larger Kikuyu and Luo (who founded KANU, the Kenya African National Union), would marginalize smaller groups in resource distribution and political representation.
+KADU was formally established in 1960, though its intellectual foundations developed during the transition period following the Mau Mau Emergency. The party's core constituency included the Kalenjin (particularly represented by Moi), [[Maasai|Maasai]], Turkana, and other pastoral and minority groups. KADU leaders feared that immediate independence under majority rule, dominated by the numerically larger Kikuyu and Luo (who founded KANU, the Kenya African National Union), would marginalize smaller groups in resource distribution and political representation.
 
 KADU's central policy proposal was majimbo (regional federation), a constitutional structure that would devolve significant power to regional assemblies, limiting central government authority. Under majimbo, regions would control land, taxation, and other resources, preventing centralized control by any single ethnic group. This federalist vision reflected KADU's commitment to protecting the interests of smaller groups that could not compete effectively in a unitary, majority-rule system.
 

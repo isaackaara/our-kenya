@@ -28,7 +28,7 @@ Livestock systems include:
 - [[Nyamira Tea|Tea Industry]]
 - [[Nyamira Dairy|Dairy Farming]]
 - [[Nyamira Climate|Climate]]
-- [[../../Kisii/Kisii Agriculture|Kisii Agriculture]]
+- [[Kisii Agriculture|Kisii Agriculture]]
 - [[Nyamira Economy Overview|County Economy]]
 
 ## Farming Systems

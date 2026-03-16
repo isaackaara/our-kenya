@@ -25,4 +25,4 @@ Gen Z Kenya's 2024 protests represent a potential structural break in Kenyan pol
 
 ## Related
 
-[[../Cross-Ethnic/Sheng]] | [[../Cross-Ethnic/Nairobi as Melting Pot]] | [[../Kikuyu/Gen Z Protests 2024]]
+[[Sheng]] | [[Nairobi as Melting Pot]] | [[Gen Z Protests 2024]]

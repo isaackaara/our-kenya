@@ -1,4 +1,4 @@
-The complex history of "Malaika" and Harry Belafonte's role in its international journey illuminates the fraught relationship between African musicians and Western artists who popularized their work. Belafonte's version of the song, originally by [[Music/Fadhili Williams|Fadhili William]], brought East African music to global audiences but also exemplified the exploitative structures that denied African creators fair compensation.
+The complex history of "Malaika" and Harry Belafonte's role in its international journey illuminates the fraught relationship between African musicians and Western artists who popularized their work. Belafonte's version of the song, originally by [[Fadhili Williams|Fadhili William]], brought East African music to global audiences but also exemplified the exploitative structures that denied African creators fair compensation.
 
 Harry Belafonte, the Jamaican-American singer who became internationally famous for popularizing Caribbean music in the 1950s, encountered "Malaika" in the early 1960s. The song's melody, haunting lyrics about unattainable love due to poverty, and Swahili language appealed to Belafonte's interest in African and diaspora music. He recorded his version, which appeared on his 1962 album "The Many Moods of Belafonte."
 
@@ -6,7 +6,7 @@ Belafonte's version altered the original significantly. His arrangement featured
 
 The credit and compensation issues were deeply problematic. While Belafonte's recording credited "Malaika" as a traditional East African folk song, the composition was actually Fadhili William's, even if it incorporated traditional melodic elements. This "traditional" designation meant no royalties flowed to Fadhili when Belafonte's version sold thousands of copies worldwide.
 
-Whether Belafonte knew the song's true authorship remains unclear. The [[Music/East African Recording Industry Origins|colonial recording industry's]] poor documentation of African musicians' work, combined with common assumptions that African music was collectively created folklore rather than individual composition, created ambiguity. Belafonte may have genuinely believed he was recording a traditional song.
+Whether Belafonte knew the song's true authorship remains unclear. The [[East African Recording Industry Origins|colonial recording industry's]] poor documentation of African musicians' work, combined with common assumptions that African music was collectively created folklore rather than individual composition, created ambiguity. Belafonte may have genuinely believed he was recording a traditional song.
 
 The broader pattern was clear: Western artists routinely appropriated African music, sometimes with credit, often without, rarely with fair compensation. Paul Simon's later "Graceland" album (1980s) would replay these dynamics, though with somewhat more attention to crediting South African musicians. The structural inequalities that enabled this appropriation traced to colonialism, racism, and the international music industry's power imbalances.
 
@@ -14,7 +14,7 @@ Fadhili William's response to Belafonte's version was reportedly mixed. On one h
 
 Other artists also covered "Malaika" following Belafonte's version. Miriam Makeba, Boney M., and numerous others recorded it, each version generating revenue that rarely reached Kenya. The song became a standard, performed at weddings and concerts worldwide, its Kenyan origins acknowledged variously or forgotten entirely depending on the performer.
 
-The song's international success did boost Kenyan musicians' awareness of intellectual property issues. The blatant injustice of "Malaika's" story galvanized efforts to establish better [[Music/Music Unions Early Kenya|copyright protections]] and musician advocacy. The case became a rallying point for arguments that African musicians deserved the same protections as Western artists.
+The song's international success did boost Kenyan musicians' awareness of intellectual property issues. The blatant injustice of "Malaika's" story galvanized efforts to establish better [[Music Unions Early Kenya|copyright protections]] and musician advocacy. The case became a rallying point for arguments that African musicians deserved the same protections as Western artists.
 
 Belafonte's broader relationship with African liberation movements complicates simple narratives of cultural exploitation. He was actively involved in civil rights struggles, supported African independence movements financially, and used his platform to advocate for decolonization. His engagement with African music was part of a political commitment to Pan-Africanism and Black solidarity, not merely commercial opportunism.
 
@@ -27,12 +27,12 @@ The "Malaika" story raises enduring questions about cultural exchange versus cul
 For Kenya, "Malaika" became both point of pride and painful reminder. Pride because the song demonstrated Kenyan musical creativity's global appeal. Painful because that creativity was never fairly compensated. The song's international journey exemplified post-colonial economic structures that, even after political independence, continued extracting African value for others' benefit.
 
 ## See Also
-- [[Music/Fadhili Williams]]
-- [[Music/East African Recording Industry Origins]]
-- [[Music/Music Unions Early Kenya]]
-- [[Music/The Gramophone and Cultural Change Kenya]]
+- [[Fadhili Williams]]
+- [[East African Recording Industry Origins]]
+- [[Music Unions Early Kenya]]
+- [[The Gramophone and Cultural Change Kenya]]
 - [[Elections/1963 Independence Election]]
-- [[Swahili/Swahili Civilization Overview]]
+- [[Swahili Civilization Overview]]
 
 ## Sources
 1. Belafonte, Harry and Michael Schnayerson. "My Song: A Memoir." Alfred A. Knopf, 2011. https://www.penguinrandomhouse.com/books/204704/my-song-by-harry-belafonte-with-michael-schnayerson/

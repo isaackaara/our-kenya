@@ -1,4 +1,4 @@
-Kisumu's port on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] was historically crucial for East African trade, connecting Kenya, Uganda, and Tanzania via water transport. The port's importance has declined, but efforts continue to revive its role.
+Kisumu's port on [[Lake Victoria Kenya|Lake Victoria]] was historically crucial for East African trade, connecting Kenya, Uganda, and Tanzania via water transport. The port's importance has declined, but efforts continue to revive its role.
 
 ## Colonial Heyday
 
@@ -46,7 +46,7 @@ Kisumu port faces challenges including poor infrastructure, limited regional dem
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

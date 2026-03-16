@@ -34,7 +34,7 @@ Public health campaigns in the region have long prioritized malaria prevention t
 
 The reliable rainfall and fertile soils of western Kenya historically attracted dense settlement. Population densities in Luhya territory are among Kenya's highest, with many areas sustaining 300-500 or more persons per square kilometer. This contrasts sharply with the low population densities of arid northern and eastern Kenya, where water scarcity has always limited settlement size.
 
-Villages and towns cluster along river valleys and in areas with reliable water sources, even though rainfall is generally abundant. Land-use patterns reflect agricultural production, with homesteads interspersed among fields and some forested areas (such as [[../Conservation/Kakamega Forest|Kakamega Forest]]) remaining less densely settled.
+Villages and towns cluster along river valleys and in areas with reliable water sources, even though rainfall is generally abundant. Land-use patterns reflect agricultural production, with homesteads interspersed among fields and some forested areas (such as [[Kakamega Forest|Kakamega Forest]]) remaining less densely settled.
 
 Urban centers in western Kenya, such as Kisumu and Kakamega, grew partly because the surrounding region could support dense populations through agriculture. Roads, water systems, and markets all developed within the context of a relatively wet and productive region.
 
@@ -65,11 +65,11 @@ These variations have disrupted planting calendars, reduced yields, and forced a
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

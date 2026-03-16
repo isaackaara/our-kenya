@@ -34,8 +34,8 @@ HIV prevention programs emphasize behavior change communication, condom distribu
 - [[Homa Bay Politics|Politics]]
 - [[Homa Bay Agriculture|Agriculture]]
 - [[Homa Bay Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Stats Kenya. (2022). HIV and AIDS in Kenya by County. https://statskenya.co.ke/

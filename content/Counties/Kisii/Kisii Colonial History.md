@@ -33,8 +33,8 @@ Colonialism brought:
 - [[Gusii People Kisii|Gusii People]]
 - [[Kisii Tea Industry|Tea Industry]]
 - [[Kisii Politics|Politics]]
-- [[../../Luo/Luo and the British|Luo Colonial Experience]]
-- [[../../Kisii/Gusii and the Mau Mau|Gusii Mau Mau Resistance]]
+- [[Luo and the British|Luo Colonial Experience]]
+- [[Gusii and the Mau Mau|Gusii Mau Mau Resistance]]
 
 ## Social and Cultural Change
 

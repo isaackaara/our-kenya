@@ -32,7 +32,7 @@ The family's land empire persisted long after Kenyatta's death in 1978. His wido
 - [[J.M. Kariuki]]
 - [[Provincial Administration Kenyatta Era]]
 - [[Political Patronage Kenyatta Era]]
-- [[Corruption/Kenyatta Era Corruption]]
+- [[Kenyatta Era Corruption]]
 
 ## Sources
 1. Kanyinga, Karuti. *Re-distribution from Above: The Politics of Land Rights and Squatting in Coastal Kenya*. Nordic Africa Institute, 2000. https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A277893

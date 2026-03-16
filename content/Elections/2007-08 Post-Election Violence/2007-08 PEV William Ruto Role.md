@@ -16,7 +16,7 @@ By 2026, Ruto's presidency and Kalenjin prominence in national politics represen
 [[2007-08 PEV ICC Ruto Case|ICC Ruto Case]]
 [[2007-08 PEV Politicians and Militias|Politicians and Militias]]
 [[2007-08 PEV Rift Valley Expulsions|Rift Valley Expulsions]]
-[[../../Kalenjin/Kalenjin|Kalenjin]]
+[[Kalenjin|Kalenjin]]
 
 ## Sources
 

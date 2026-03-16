@@ -1,4 +1,4 @@
-Thika Town, located in [[../Counties/Kiambu/Kiambu County|Kiambu County]] approximately 50 kilometres northeast of Nairobi, is known as the "Blue-Bell Town" (a name derived from bluebells that grew in the area). It has evolved into one of Kenya's most industrialized urban centres, serving as a major manufacturing hub and a gateway to the central highlands. Thika's economic importance, literary heritage, and cultural significance make it a notable site in the Kikuyu landscape.
+Thika Town, located in [[Kiambu County|Kiambu County]] approximately 50 kilometres northeast of Nairobi, is known as the "Blue-Bell Town" (a name derived from bluebells that grew in the area). It has evolved into one of Kenya's most industrialized urban centres, serving as a major manufacturing hub and a gateway to the central highlands. Thika's economic importance, literary heritage, and cultural significance make it a notable site in the Kikuyu landscape.
 
 ## Industrial Hub and Manufacturing Economy
 
@@ -50,7 +50,7 @@ Thika benefits from reliable water resources, including several rivers and strea
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 
 ## Sources
 

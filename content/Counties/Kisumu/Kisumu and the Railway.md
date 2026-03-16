@@ -2,11 +2,11 @@ The Uganda Railway transformed Kisumu from a quiet lakeside settlement into a th
 
 ## Railway Terminus Importance
 
-The railway terminus made Kisumu the junction between rail and water transport. This junction created an essential transshipment point for cargo moving between the interior and the coast, and between the railway network and [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] waterways.
+The railway terminus made Kisumu the junction between rail and water transport. This junction created an essential transshipment point for cargo moving between the interior and the coast, and between the railway network and [[Lake Victoria Kenya|Lake Victoria]] waterways.
 
 ## Displacement of Dhow Trade
 
-Prior to the railway, dhow sailing vessels dominated [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] trade. Dhows transported cargo between lakeside communities and distant ports. The railway disrupted this traditional water-based trade, concentrating trade at Kisumu and the rail terminus. This disruption affected traditional dhow traders who lost market share to the more efficient railway.
+Prior to the railway, dhow sailing vessels dominated [[Lake Victoria Kenya|Lake Victoria]] trade. Dhows transported cargo between lakeside communities and distant ports. The railway disrupted this traditional water-based trade, concentrating trade at Kisumu and the rail terminus. This disruption affected traditional dhow traders who lost market share to the more efficient railway.
 
 ## Cargo Flows
 
@@ -42,7 +42,7 @@ The railway's role in Kisumu's founding created a lasting imprint. Kisumu's impo
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

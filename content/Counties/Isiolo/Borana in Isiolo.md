@@ -1,4 +1,4 @@
-[[../../Somali/Somali|Somali]] are an Oromo-speaking pastoralist community distributed across southern Ethiopia, northern Kenya, and the Kenya-Ethiopia borderlands. In Isiolo County, they represent one of the primary pastoral communities and maintain extensive cultural and economic linkages with their counterparts across the border in Ethiopia.
+[[Somali|Somali]] are an Oromo-speaking pastoralist community distributed across southern Ethiopia, northern Kenya, and the Kenya-Ethiopia borderlands. In Isiolo County, they represent one of the primary pastoral communities and maintain extensive cultural and economic linkages with their counterparts across the border in Ethiopia.
 
 Borana pastoralism traditionally centers on cattle herding, supplemented by camels and goats in more arid zones. The community's social structure organizes around age grades, territorial grazing rights, and the gada system (an age-based leadership and generational succession model). Water and pasture access shape Borana movement patterns across Isiolo's semi-arid landscape.
 

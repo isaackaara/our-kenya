@@ -1,4 +1,4 @@
-The founding ancestor and culture hero of the Luo people. Ramogi Ajwang led the Luo migration from the north (Sudan/South Sudan) around 1500 AD and established them at [[../Conservation/Lake Victoria Kenya|Lake Victoria]], becoming the legendary progenitor of all Luo clans. He holds the same mythological and foundational role in Luo tradition as Gikuyu and Mumbi do in Kikuyu culture.
+The founding ancestor and culture hero of the Luo people. Ramogi Ajwang led the Luo migration from the north (Sudan/South Sudan) around 1500 AD and established them at [[Lake Victoria Kenya|Lake Victoria]], becoming the legendary progenitor of all Luo clans. He holds the same mythological and foundational role in Luo tradition as Gikuyu and Mumbi do in Kikuyu culture.
 
 ## Key Facts
 

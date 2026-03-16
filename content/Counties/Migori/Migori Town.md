@@ -30,8 +30,8 @@ Migori town has experienced modest growth with improved road connectivity. Town 
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. County Government of Migori. (2021). County Profile. https://migori.go.ke/

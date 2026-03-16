@@ -106,8 +106,8 @@ Real estate trends suggest:
 - [[Kisii Politics|Politics]]
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kisii County Government (2023). "Urban Development and Land Use Plan 2023-2028". https://www.kisiicounty.go.ke

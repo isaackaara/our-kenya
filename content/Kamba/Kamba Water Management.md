@@ -18,7 +18,7 @@ Sand dams represent perhaps the most significant Kamba contribution to global wa
 
 Water can then be extracted from the saturated sand using shallow wells or simple hand pumps. The sand protects the water from evaporation and contamination, making sand dams highly efficient for semi-arid regions with unreliable rainfall patterns.
 
-The sand dam technology emerged among the Kamba, particularly in [[../Counties/Kitui/Kitui County|Kitui County]], as a response to persistent drought in the mid-20th century. During a crippling drought in the 1970s, a respected Kamba engineer and technician suggested sand dams as a potential solution. The idea was tested and found effective, eventually spreading beyond the Kamba to other arid and semi-arid regions of Kenya.
+The sand dam technology emerged among the Kamba, particularly in [[Kitui County|Kitui County]], as a response to persistent drought in the mid-20th century. During a crippling drought in the 1970s, a respected Kamba engineer and technician suggested sand dams as a potential solution. The idea was tested and found effective, eventually spreading beyond the Kamba to other arid and semi-arid regions of Kenya.
 
 By the 1980s and 1990s, international development organizations recognized sand dams as an appropriate technology for arid regions. The technology has since been adopted in Ethiopia, Mali, Niger, Burkina Faso, Uganda, and other countries facing similar water scarcity challenges. Sand dams have contributed to the success of the Machakos district in sustaining agricultural production despite drought.
 
@@ -34,7 +34,7 @@ In the 21st century, Kamba water management combines traditional approaches with
 
 Water harvesting at the household level, using tanks to capture roof runoff, has become widespread in towns and in some rural areas. Matatu (minibus) water distribution systems transport water from reliable sources to water-stressed areas during dry seasons.
 
-Climate change and increasingly severe droughts have intensified pressure on water resources. Competing demands from conservation areas (Tsavo East and West, Amboseli), pastoral and agricultural communities, and urban centers create water allocation conflicts. [[../Counties/Makueni/Makueni County|Makueni County]] has made water security a development priority, with county government coordination of sand dam construction and maintenance.
+Climate change and increasingly severe droughts have intensified pressure on water resources. Competing demands from conservation areas (Tsavo East and West, Amboseli), pastoral and agricultural communities, and urban centers create water allocation conflicts. [[Makueni County|Makueni County]] has made water security a development priority, with county government coordination of sand dam construction and maintenance.
 
 ---
 

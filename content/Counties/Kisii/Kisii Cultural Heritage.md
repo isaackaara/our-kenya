@@ -29,7 +29,7 @@ Modern Kenya's legal marriage frameworks now coexist with customary marriage pra
 - [[Kisii Music|Music Traditions]]
 - [[Kisii Food Culture|Food Culture]]
 - [[Kisii Women|Women's Roles]]
-- [[../../Luo/Luo Religion and Cosmology|Religious Traditions Comparison]]
+- [[Luo Religion and Cosmology|Religious Traditions Comparison]]
 
 ## Music and Dance Traditions
 

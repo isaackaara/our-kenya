@@ -26,7 +26,7 @@ Scientists have proposed multiple hypotheses to explain the Kalenjin and Oromo c
 
 ## Training Culture Differences
 
-Kenya and Ethiopia differ in training philosophy and organization. Kenyan runners, particularly the Kalenjin training camps in Iten and [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], typically emphasize high-volume aerobic running and long-term periodization. Ethiopian coaches, particularly those training in the Addis Ababa and Arsi regions, tend toward slightly higher intensity interval work and faster threshold running.
+Kenya and Ethiopia differ in training philosophy and organization. Kenyan runners, particularly the Kalenjin training camps in Iten and [[Uasin Gishu County|Uasin Gishu County]], typically emphasize high-volume aerobic running and long-term periodization. Ethiopian coaches, particularly those training in the Addis Ababa and Arsi regions, tend toward slightly higher intensity interval work and faster threshold running.
 
 These differences likely reflect coach preference and historical precedent rather than fundamental physiological necessity. Both training philosophies produce world-class athletes, suggesting multiple valid approaches rather than a single optimal system.
 

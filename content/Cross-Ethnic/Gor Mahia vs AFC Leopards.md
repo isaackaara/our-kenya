@@ -39,4 +39,4 @@ The derby remains central to Kenyan football culture and to how Kenya performs a
 
 ## Related
 
-[[../Luo/Luo Music and Culture]] | [[../Luhya/Luhya Football Culture]] | [[../Luo/Luo Origins]] | [[../Luhya/Luhya Origins]]
+[[Luo Music and Culture]] | [[Luhya Football Culture]] | [[Luo Origins]] | [[Luhya Origins]]

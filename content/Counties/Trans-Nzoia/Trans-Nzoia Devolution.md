@@ -9,7 +9,7 @@ County government receives equitable share funding from national government reve
 
 ## See Also
 
-[[../../Trans-Nzoia/Trans-Nzoia|Trans-Nzoia County]]
+[[Trans-Nzoia|Trans-Nzoia County]]
 ## Sources
 1. https://www.constitution.go.ke/the-constitution/
 2. https://www.standardmedia.co.ke/counties/article/2001345678/county-governance-transnzoia

@@ -24,7 +24,7 @@ Contemporary Kipsigis economy combines multiple strategies. In addition to tea c
 
 ## Mau Mau Period
 
-The Kipsigis, like other Kalenjin groups, were not part of the Mau Mau Uprising (1952-1960), which was primarily a Kikuyu movement. Some Kipsigis served as Home Guard fighters supporting the British during the Emergency, while others remained neutral or sympathetic to Mau Mau ideals without formal participation. The geographic separation of Kipsigis territory from [[../Kikuyu/Kikuyu|Kikuyu]] Central Highlands meant that the Emergency's violence occurred elsewhere, though Kipsigis soldiers and police participated in counter-insurgency operations.
+The Kipsigis, like other Kalenjin groups, were not part of the Mau Mau Uprising (1952-1960), which was primarily a Kikuyu movement. Some Kipsigis served as Home Guard fighters supporting the British during the Emergency, while others remained neutral or sympathetic to Mau Mau ideals without formal participation. The geographic separation of Kipsigis territory from [[Kikuyu|Kikuyu]] Central Highlands meant that the Emergency's violence occurred elsewhere, though Kipsigis soldiers and police participated in counter-insurgency operations.
 
 ## Political Representation
 

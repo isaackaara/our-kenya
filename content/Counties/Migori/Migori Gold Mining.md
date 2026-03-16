@@ -34,8 +34,8 @@ Mining communities are organized through mining associations and groups. Communi
 - [[Migori Politics|Politics]]
 - [[Migori Agriculture|Agriculture]]
 - [[Migori Education|Education]]
-- [[../../Conservation/Conservation|Conservation]]
-- [[../../Luo/Luo|Luo Ethnic Comparison]]
+- [[Conservation|Conservation]]
+- [[Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. ResearchGate. (2022). Migori Gold Mining Belt. https://www.researchgate.net/

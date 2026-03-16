@@ -1,4 +1,4 @@
-Luo food culture is intimately connected to geography, lake resources, and seasonal agriculture. The Luo diet centers on fish and maize meal, reflecting the community's historical reliance on [[../Conservation/Lake Victoria Kenya|Lake Victoria]] and farming. Food practices carry social meaning, with cooking and sharing food being central to kinship obligations and community solidarity.
+Luo food culture is intimately connected to geography, lake resources, and seasonal agriculture. The Luo diet centers on fish and maize meal, reflecting the community's historical reliance on [[Lake Victoria Kenya|Lake Victoria]] and farming. Food practices carry social meaning, with cooking and sharing food being central to kinship obligations and community solidarity.
 
 ## Staple Foods
 

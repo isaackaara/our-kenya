@@ -1,4 +1,4 @@
-Kakamega County is Kenya's most densely populated rural county, located in western Kenya with a population of approximately 1.9 million people. The county is the heartland of the [[../../Luhya/Luhya|Luhya]] people, particularly the Isukha, Idakho, and Tiriki sub-groups. It serves as a major agricultural hub with sugarcane as the dominant cash crop, while also containing Kakamega Forest, Kenya's only tropical rainforest. Kakamega town functions as the largest urban centre in western Kenya and the county headquarters.
+Kakamega County is Kenya's most densely populated rural county, located in western Kenya with a population of approximately 1.9 million people. The county is the heartland of the [[Luhya|Luhya]] people, particularly the Isukha, Idakho, and Tiriki sub-groups. It serves as a major agricultural hub with sugarcane as the dominant cash crop, while also containing Kakamega Forest, Kenya's only tropical rainforest. Kakamega town functions as the largest urban centre in western Kenya and the county headquarters.
 
 ## Key Characteristics
 - **Population density:** approximately 800 people per km²
@@ -56,14 +56,14 @@ Kakamega County is Kenya's most densely populated rural county, located in weste
 29. [[Kakamega Timeline]]
 
 ## Cross-County Links
-- [[../../Luhya/Luhya]]
-- [[../../Conservation/Kakamega Forest]]
+- [[Luhya]]
+- [[Kakamega Forest]]
 - [[../../Corporate Kenya/Sugar Industry Kenya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[Luhya|Luhya]], [[Kalenjin|Kalenjin]], [[Kikuyu|Kikuyu]], [[Conservation|Conservation]], [[Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

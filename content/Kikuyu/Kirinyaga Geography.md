@@ -1,4 +1,4 @@
-[[../Conservation/Mount Kenya National Park|Mount Kenya]] (Kirinyaga in Gikuyu) is Africa's second-highest mountain and a geographical and cultural centerpiece of the Kikuyu landscape. The mountain is a UNESCO World Heritage site, a critical water source, and a location of major ecological and cultural significance.
+[[Mount Kenya National Park|Mount Kenya]] (Kirinyaga in Gikuyu) is Africa's second-highest mountain and a geographical and cultural centerpiece of the Kikuyu landscape. The mountain is a UNESCO World Heritage site, a critical water source, and a location of major ecological and cultural significance.
 
 ## Physical Geography
 
@@ -6,7 +6,7 @@ Mount Kenya stands at 5,199 meters (17,057 feet) elevation, with three principal
 
 Glaciers cover the summit area, though the glaciers are retreating rapidly due to climate change and global warming. The glaciers that covered much more extensive areas decades ago now comprise reduced ice fields, indicating warming trend affecting the mountain.
 
-The mountain's slopes drain into multiple rivers that form important water sources for central Kenya. Mount Kenya is part of the larger water tower system including [[../Conservation/Aberdare National Park|Aberdare]] (Nyandarua) that provides water to the arid and semi-arid lowlands of Kenya.
+The mountain's slopes drain into multiple rivers that form important water sources for central Kenya. Mount Kenya is part of the larger water tower system including [[Aberdare National Park|Aberdare]] (Nyandarua) that provides water to the arid and semi-arid lowlands of Kenya.
 
 ## Ecological Zones
 
@@ -62,5 +62,5 @@ The mountain remains symbol of Kikuyu identity and continues to appear in cultur
 - [[Githaka|Githaka]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
-- [[../Counties/Kiambu/Kiambu County|Kiambu County]]
+- [[Kiambu County|Kiambu County]]
 

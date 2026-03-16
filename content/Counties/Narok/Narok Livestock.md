@@ -1,4 +1,4 @@
-Livestock herding has formed the historical economic foundation of [[../../Maasai/Maasai|Maasai]] pastoral communities in Narok County, with cattle representing primary wealth, status, and means of subsistence, though contemporary livestock systems face challenges from population growth, land constraints, and climate variability.
+Livestock herding has formed the historical economic foundation of [[Maasai|Maasai]] pastoral communities in Narok County, with cattle representing primary wealth, status, and means of subsistence, though contemporary livestock systems face challenges from population growth, land constraints, and climate variability.
 
 ## Pastoral Production Systems
 
@@ -39,8 +39,8 @@ See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
-- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
-- [[../../Conservation/Human-Wildlife Conflict|Wildlife Conflict]]
+- [[Maasai Mara National Reserve|Maasai Mara]]
+- [[Human-Wildlife Conflict|Wildlife Conflict]]
 - [[../../Maasai/The Maasai|Maasai Culture]]
 
 ## Sources

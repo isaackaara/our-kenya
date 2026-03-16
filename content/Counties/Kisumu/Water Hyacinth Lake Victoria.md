@@ -1,4 +1,4 @@
-The water hyacinth, an invasive aquatic plant, has infested [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] from the 1990s onward, creating massive ecological and economic problems. The plant blocks harbors, clogs fishing nets, kills fish, and disrupts human activities on the lake.
+The water hyacinth, an invasive aquatic plant, has infested [[Lake Victoria Kenya|Lake Victoria]] from the 1990s onward, creating massive ecological and economic problems. The plant blocks harbors, clogs fishing nets, kills fish, and disrupts human activities on the lake.
 
 ## Biological Characteristics
 
@@ -6,7 +6,7 @@ Water hyacinth is a floating aquatic plant with large leaves, purple flowers, an
 
 ## Invasion Timeline
 
-Water hyacinth appeared in [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] in the 1990s, possibly arriving via international ballast water or other vectors. Once introduced, the plant spread rapidly throughout the lake, becoming established throughout the lake region.
+Water hyacinth appeared in [[Lake Victoria Kenya|Lake Victoria]] in the 1990s, possibly arriving via international ballast water or other vectors. Once introduced, the plant spread rapidly throughout the lake, becoming established throughout the lake region.
 
 ## Environmental Impacts
 
@@ -30,7 +30,7 @@ Weevils that feed on water hyacinth have been introduced in efforts to control t
 
 ## Ongoing Challenge
 
-Water hyacinth remains a persistent challenge to [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]'s ecology and human use. Periods of infestation are followed by periods of relative suppression, but the plant remains present and threatening.
+Water hyacinth remains a persistent challenge to [[Lake Victoria Kenya|Lake Victoria]]'s ecology and human use. Periods of infestation are followed by periods of relative suppression, but the plant remains present and threatening.
 
 ## Climate and Eutrophication
 
@@ -42,7 +42,7 @@ Water hyacinth proliferation is exacerbated by nutrient pollution (eutrophicatio
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

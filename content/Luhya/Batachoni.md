@@ -1,4 +1,4 @@
-The Batachoni, commonly known as the Tachoni or Sabaot, are a distinct ethnic group residing primarily in [[../Counties/Bungoma/Bungoma County|Bungoma County]], western Kenya. While historically classified by some sources as an independent tribe rather than a Luhya sub-group, the Tachoni share considerable cultural, linguistic, and historical connections with the Luhya community and have been traditionally counted among the Luhya confederation.
+The Batachoni, commonly known as the Tachoni or Sabaot, are a distinct ethnic group residing primarily in [[Bungoma County|Bungoma County]], western Kenya. While historically classified by some sources as an independent tribe rather than a Luhya sub-group, the Tachoni share considerable cultural, linguistic, and historical connections with the Luhya community and have been traditionally counted among the Luhya confederation.
 
 ## Territory and Location
 
@@ -39,11 +39,11 @@ Precise population figures for the Tachoni are difficult to establish, given cla
 
 - [[Luhya|Luhya]]
 - [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
-- [[../Conservation/Kakamega Forest|Kakamega Forest]]
-- [[../Counties/Kakamega/Kakamega County|Kakamega County]]
-- [[../Counties/Bungoma/Bungoma County|Bungoma County]]
-- [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Kakamega Forest|Kakamega Forest]]
+- [[Kakamega County|Kakamega County]]
+- [[Bungoma County|Bungoma County]]
+- [[Vihiga County|Vihiga County]]
+- [[Conservation|Conservation Overview]]
 
 ## Sources
 

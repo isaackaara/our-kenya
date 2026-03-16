@@ -1,8 +1,8 @@
-Kisumu was founded in 1901 as the western terminus of the Uganda Railway. Originally called Port Florence, the settlement emerged at a strategic location on [[../../Conservation/Lake Victoria Kenya|Lake Victoria]]'s eastern shore where the railway line terminated and water transport connections began.
+Kisumu was founded in 1901 as the western terminus of the Uganda Railway. Originally called Port Florence, the settlement emerged at a strategic location on [[Lake Victoria Kenya|Lake Victoria]]'s eastern shore where the railway line terminated and water transport connections began.
 
 ## The Uganda Railway Terminus
 
-The Uganda Railway, completed in 1901, stretched approximately 960 kilometers from the coastal port of Mombasa to the interior of East Africa. The decision to terminate the railway at Kisumu reflected the strategic importance of [[../../Conservation/Lake Victoria Kenya|Lake Victoria]] as a waterway for transport and trade with Uganda and Tanzania.
+The Uganda Railway, completed in 1901, stretched approximately 960 kilometers from the coastal port of Mombasa to the interior of East Africa. The decision to terminate the railway at Kisumu reflected the strategic importance of [[Lake Victoria Kenya|Lake Victoria]] as a waterway for transport and trade with Uganda and Tanzania.
 
 ## Port Florence Origins
 
@@ -22,7 +22,7 @@ The railway terminus created economic opportunities. Cargo from the surrounding 
 
 ## Lake Transport
 
-[[../../Conservation/Lake Victoria Kenya|Lake Victoria]] transport connections were crucial to Kisumu's importance. Steamships operated between Kisumu, Uganda, and Tanzania, extending the railway's reach across the water. This water transport made Kisumu a critical junction for East African trade.
+[[Lake Victoria Kenya|Lake Victoria]] transport connections were crucial to Kisumu's importance. Steamships operated between Kisumu, Uganda, and Tanzania, extending the railway's reach across the water. This water transport made Kisumu a critical junction for East African trade.
 
 ## Population Growth
 
@@ -34,7 +34,7 @@ As a colonial town offering employment and trading opportunities, Kisumu attract
 [[Kisumu Timeline]]
 [[Kisumu Founding]]
 [[Lake Victoria Kisumu]]
-[[../../Luo/Luo|Luo]]
+[[Luo|Luo]]
 [[Kisumu Economy]]
 [[Kisumu Port]]
 ## Sources

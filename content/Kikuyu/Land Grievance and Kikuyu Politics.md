@@ -7,7 +7,7 @@ The central role of land dispossession in shaping Kikuyu political consciousness
 *This note requires additional research and expansion to meet the Gold Standard.*
 
 ## See Also
-- [[Kikuyu/Kikuyu and Real Estate]]
+- [[Kikuyu and Real Estate]]
 
 ## Sources
 *To be added*

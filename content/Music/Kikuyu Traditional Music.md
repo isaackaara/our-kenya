@@ -12,17 +12,17 @@ Christian missionaries, particularly those from the Church of Scotland Mission w
 
 Colonial rule and urbanization further disrupted traditional Kikuyu music. Young people migrating to Nairobi, Nakuru, and other towns for wage labor encountered diverse musical influences and often rejected traditional forms as backward. The Mau Mau insurgency (1952-1960) complicated matters further, as colonial authorities banned gatherings where traditional music might occur, fearing such events facilitated oath-taking and rebel organization. Ironically, Mau Mau fighters themselves created new songs expressing resistance and maintaining morale in forest hideouts, blending traditional melodic elements with revolutionary content.
 
-Post-independence saw contradictory trends. President [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Jomo Kenyatta]], himself [[Kikuyu/Kikuyu Origins|Kikuyu]], promoted certain traditional cultural expressions as part of nation-building, establishing institutions like the Bomas of Kenya to preserve traditional music and dance. However, this state-sponsored preservation often ossified living traditions into static performances for tourists rather than maintaining music's organic social functions. Meanwhile, popular forms like [[Music/Kikuyu Mugithi Music|mugithi]] emerged, blending traditional melodic and lyrical elements with modern instrumentation, creating continuity with the past while adapting to contemporary contexts.
+Post-independence saw contradictory trends. President [[Jomo Kenyatta Presidency|Jomo Kenyatta]], himself [[Kikuyu/Kikuyu Origins|Kikuyu]], promoted certain traditional cultural expressions as part of nation-building, establishing institutions like the Bomas of Kenya to preserve traditional music and dance. However, this state-sponsored preservation often ossified living traditions into static performances for tourists rather than maintaining music's organic social functions. Meanwhile, popular forms like [[Kikuyu Mugithi Music|mugithi]] emerged, blending traditional melodic and lyrical elements with modern instrumentation, creating continuity with the past while adapting to contemporary contexts.
 
 ## See Also
-- [[Music/Kikuyu Mugithi Music]]
+- [[Kikuyu Mugithi Music]]
 - [[Kikuyu/Kikuyu Origins]]
-- [[Music/Music and Initiation Rites]]
-- [[Music/Women's Music Traditions Kenya]]
-- [[Music/Work Songs and Agricultural Music Kenya]]
+- [[Music and Initiation Rites]]
+- [[Women's Music Traditions Kenya]]
+- [[Work Songs and Agricultural Music Kenya]]
 - [[Kikuyu/Kikuyu Culture and Identity]]
-- [[Music/Musical Instruments of Kenya - Wind]]
-- [[Music/Music and Pre-Christian Religion Kenya]]
+- [[Musical Instruments of Kenya - Wind]]
+- [[Music and Pre-Christian Religion Kenya]]
 
 ## Sources
 1. Kenyatta, Jomo. Facing Mount Kenya: The Tribal Life of the Gikuyu. London: Secker and Warburg, 1938. (Reprinted: London: Vintage, 1965.)

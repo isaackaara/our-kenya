@@ -18,7 +18,7 @@ The Nairobi River has become severely degraded, serving as an open sewer for par
 
 ## Green Space Preservation
 
-Efforts are ongoing to preserve and expand Nairobi's green spaces against development pressure. This includes protecting [[../../Conservation/Nairobi National Park|Nairobi National Park]], Uhuru Park, and the Karura Forest from commercial encroachment.
+Efforts are ongoing to preserve and expand Nairobi's green spaces against development pressure. This includes protecting [[Nairobi National Park|Nairobi National Park]], Uhuru Park, and the Karura Forest from commercial encroachment.
 
 ## Infrastructure Investment
 
@@ -38,8 +38,8 @@ Climate change adaptation measures are increasingly important, including water h
 [[Nairobi Timeline]]
 [[Nairobi Ethnic Mix]]
 [[Nairobi Economy]]
-[[../../Conservation/Nairobi National Park|Nairobi National Park]]
-[[../../Kikuyu/Kikuyu|Kikuyu]]
+[[Nairobi National Park|Nairobi National Park]]
+[[Kikuyu|Kikuyu]]
 [[Nairobi Colonial City]]
 ## Sources
 

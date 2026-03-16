@@ -1,4 +1,4 @@
-Iten is a small town nestled at 2,400 metres in [[Kalenjin|Kalenjin]] Hills near [[../Counties/Uasin Gishu/Uasin Gishu County|Uasin Gishu County]], transformed into the world's premier high-altitude distance running training centre. Athletes from across Africa and the globe come to train in an ecosystem that combines geography, cultural heritage, and economic necessity in creating world champions.
+Iten is a small town nestled at 2,400 metres in [[Kalenjin|Kalenjin]] Hills near [[Uasin Gishu County|Uasin Gishu County]], transformed into the world's premier high-altitude distance running training centre. Athletes from across Africa and the globe come to train in an ecosystem that combines geography, cultural heritage, and economic necessity in creating world champions.
 
 ## Key Facts
 

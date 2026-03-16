@@ -17,7 +17,7 @@ Each section has its own territory, elders' councils, and sometimes competing po
 
 ## Territory as Political Definition
 
-A Maasai person's section is defined by which dry-season and wet-season grazing areas their family uses. Section boundaries roughly correspond to county lines in modern Kenya (Purko and Loitokitok in [[../Counties/Narok/Narok County|Narok County]]; Kaputiei and Loitokitok sections in [[../Counties/Kajiado/Kajiado County|Kajiado County]]).
+A Maasai person's section is defined by which dry-season and wet-season grazing areas their family uses. Section boundaries roughly correspond to county lines in modern Kenya (Purko and Loitokitok in [[Narok County|Narok County]]; Kaputiei and Loitokitok sections in [[Kajiado County|Kajiado County]]).
 
 These grazing territories are ancestral claims, not formal administrative boundaries. Climate change and land privatization now make these traditional boundaries obsolete(pastoral mobility is constrained; individual land titling allows one person to sell what was communal grazing land).
 
@@ -30,10 +30,10 @@ Climate change and development pressure require Maasai unity across sections. Su
 ## See Also
 
 - [[Maasai|Maasai]]
-- [[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]]
-- [[../Conservation/Amboseli National Park|Amboseli National Park]]
-- [[../Counties/Narok/Narok County|Narok County]]
-- [[../Counties/Kajiado/Kajiado County|Kajiado County]]
-- [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation|Conservation Overview]]
+- [[Maasai Mara National Reserve|Maasai Mara National Reserve]]
+- [[Amboseli National Park|Amboseli National Park]]
+- [[Narok County|Narok County]]
+- [[Kajiado County|Kajiado County]]
+- [[Laikipia County|Laikipia County]]
+- [[Conservation|Conservation Overview]]
 

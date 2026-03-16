@@ -1,8 +1,8 @@
-Barack Hussein Obama Sr. (1936-1982) was born in the Rachuonyo District on the shores of [[../../Conservation/Lake Victoria Kenya|Lake Victoria]], but was raised in [[Kogelo Village|Nyang'oma Kogelo village]] in Siaya County. He became an internationally known economist, nationalist, and prominent figure in Kenya's post-independence politics. As the biological father of Barack Hussein Obama II (44th President of the United States), his connection to Siaya has given the county global recognition.
+Barack Hussein Obama Sr. (1936-1982) was born in the Rachuonyo District on the shores of [[Lake Victoria Kenya|Lake Victoria]], but was raised in [[Kogelo Village|Nyang'oma Kogelo village]] in Siaya County. He became an internationally known economist, nationalist, and prominent figure in Kenya's post-independence politics. As the biological father of Barack Hussein Obama II (44th President of the United States), his connection to Siaya has given the county global recognition.
 
 ## Early Life and Education
 
-Obama Sr. was born into a [[../../Luo/Luo|Luo]] family of modest means and was educated in Kenya before winning a scholarship to study in the United States. He attended Harvard University in the late 1950s and early 1960s, where he earned degrees in economics and political science. During his time in America, he married Ann Dunham, a white American woman from Kansas, with whom he had Barack Hussein Obama II (born 1961).
+Obama Sr. was born into a [[Luo|Luo]] family of modest means and was educated in Kenya before winning a scholarship to study in the United States. He attended Harvard University in the late 1950s and early 1960s, where he earned degrees in economics and political science. During his time in America, he married Ann Dunham, a white American woman from Kansas, with whom he had Barack Hussein Obama II (born 1961).
 
 ## Return to Kenya and Political Career
 
@@ -21,9 +21,9 @@ Obama Sr. died in a car accident in Nairobi in 1982, shortly after the election 
 - [[Kogelo Village]]
 - [[Siaya Luo Heritage]]
 - [[Siaya Notable People]]
-- [[../../Luo/Barack Obama Sr|Barack Obama Sr]] (biographical)
+- [[Barack Obama Sr|Barack Obama Sr]] (biographical)
 - [[Siaya and Obama Foundation]]
-- [[../../Luo/Luo|Luo people]]
+- [[Luo|Luo people]]
 - [[Siaya Diaspora]]
 
 ## Sources

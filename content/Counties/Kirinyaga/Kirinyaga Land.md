@@ -1,4 +1,4 @@
-Land in Kirinyaga County remains highly valued due to its agricultural productivity and proximity to [[../../Conservation/Mount Kenya National Park|Mount Kenya]]. Land tenure reflects a complex history of colonial alienation, [[../../Kikuyu/Kikuyu|Kikuyu]] claims to ancestral lands, post-independence redistribution, and current smallholder ownership. The agricultural value of land drives its market price, making land ownership a path to wealth. However, land pressure and subdivision among heirs has led to ever-smaller farm sizes.
+Land in Kirinyaga County remains highly valued due to its agricultural productivity and proximity to [[Mount Kenya National Park|Mount Kenya]]. Land tenure reflects a complex history of colonial alienation, [[Kikuyu|Kikuyu]] claims to ancestral lands, post-independence redistribution, and current smallholder ownership. The agricultural value of land drives its market price, making land ownership a path to wealth. However, land pressure and subdivision among heirs has led to ever-smaller farm sizes.
 
 ## Historical Land Tenure
 
@@ -32,11 +32,11 @@ Land around Kerugoya has increasingly been converted from agricultural to urban 
 ## See Also
 
 - [[Kirinyaga Kikuyu Heritage|Kirinyaga Kikuyu Heritage]]
-- [[../../Kikuyu/Kikuyu|Kikuyu Culture]]
-- [[../../Kikuyu/Mau Mau Uprising|Mau Mau History]]
+- [[Kikuyu|Kikuyu Culture]]
+- [[Mau Mau Uprising|Mau Mau History]]
 - [[Kirinyaga Land|Land Issues]]
-- [[../../Conservation/Mount Kenya National Park|Mount Kenya Conservation]]
-- [[../../Conservation/Aberdare National Park|Aberdare Conservation]]
+- [[Mount Kenya National Park|Mount Kenya Conservation]]
+- [[Aberdare National Park|Aberdare Conservation]]
 
 ## Sources
 
