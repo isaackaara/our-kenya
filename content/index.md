@@ -80,7 +80,7 @@ Every theme has its own index. Start at any node - the graph takes you further.
 
 ## Explore Kenya's Story
 
-Fifty-four knowledge graphs. Each one a different corner of Kenya's history. Click any node to read the full story.
+Fifty-eight knowledge graphs. Each one a different corner of Kenya's history. Click any node to read the full story.
 
 <div id="ok-knowledge-graphs"></div>
 
