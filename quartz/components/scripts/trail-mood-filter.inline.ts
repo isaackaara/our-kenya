@@ -1,8 +1,8 @@
 (function() {
   var FILTER_CSS_ID = "ok-mood-filter-style";
+  var SCROLL_KEY = "trailHubScrollY";
+  var FILTER_KEY = "trailHubFilter";
 
-  // Keyword-based matching on data-name + data-description attributes
-  // Scores are all bunched (avg 8.5 emotion, 8.1 wonder) so keywords are more reliable
   function textOf(card: Element): string {
     var el = card as HTMLElement
     return ((el.dataset.name || "") + " " + (el.dataset.description || "")).toLowerCase()
@@ -70,9 +70,17 @@
     document.head.appendChild(style);
   }
 
-  function getTrailKey(card: Element): string {
-    var href = card.getAttribute("href") || "";
-    return href.replace(/^\//, "");
+  function getFilterFromHash(): string {
+    var hash = window.location.hash; // e.g. "#filter=heavy"
+    var m = hash.match(/^#filter=([a-z]+)$/);
+    return m ? m[1] : "all";
+  }
+
+  function setFilterInHash(filterId: string) {
+    var newHash = filterId === "all" ? "" : "#filter=" + filterId;
+    // replaceState keeps URL tidy without adding a history entry for filter changes
+    var url = window.location.pathname + window.location.search + newHash;
+    history.replaceState(null, "", url);
   }
 
   function applyFilter(filterId: string) {
@@ -94,8 +102,15 @@
     }
   }
 
-  function injectFilterBar() {
-    if (document.querySelector(".ok-mood-filters")) return;
+  function saveScrollAndFilter() {
+    sessionStorage.setItem(SCROLL_KEY, String(window.scrollY));
+    sessionStorage.setItem(FILTER_KEY, getFilterFromHash());
+  }
+
+  function injectFilterBar(activeId: string) {
+    // Remove stale bar if any (re-init on nav)
+    var existing = document.querySelector(".ok-mood-filters");
+    if (existing) existing.remove();
 
     var grid = document.getElementById("trail-grid");
     if (!grid) return;
@@ -105,7 +120,7 @@
 
     FILTERS.forEach(function(f) {
       var pill = document.createElement("button");
-      pill.className = "ok-mood-pill" + (f.id === "all" ? " active" : "");
+      pill.className = "ok-mood-pill" + (f.id === activeId ? " active" : "");
       pill.dataset.filter = f.id;
       pill.textContent = f.label;
       bar.appendChild(pill);
@@ -117,10 +132,20 @@
     bar.addEventListener("click", function(e) {
       var pill = (e.target as Element).closest(".ok-mood-pill");
       if (!pill) return;
+      var filterId = (pill as HTMLElement).dataset.filter || "all";
       bar.querySelectorAll(".ok-mood-pill").forEach(function(p) { p.classList.remove("active"); });
       pill.classList.add("active");
-      applyFilter((pill as HTMLElement).dataset.filter || "all");
+      setFilterInHash(filterId);
+      applyFilter(filterId);
+      // Clear saved scroll when user explicitly changes filter
+      sessionStorage.removeItem(SCROLL_KEY);
     });
+
+    // Save scroll position whenever a trail card link is clicked
+    grid.addEventListener("click", function(e) {
+      var link = (e.target as Element).closest("a");
+      if (link) saveScrollAndFilter();
+    }, true);
   }
 
   function init() {
@@ -131,7 +156,33 @@
     if (!grid) return;
 
     injectStyles();
-    injectFilterBar();
+
+    // Determine which filter to apply: sessionStorage (back nav) > URL hash > "all"
+    var savedFilter = sessionStorage.getItem(FILTER_KEY);
+    var hashFilter = getFilterFromHash();
+
+    var activeId = "all";
+    if (savedFilter && savedFilter !== "all") {
+      activeId = savedFilter;
+      // Promote saved filter into hash so it's visible in URL
+      setFilterInHash(activeId);
+    } else if (hashFilter !== "all") {
+      activeId = hashFilter;
+    }
+
+    injectFilterBar(activeId);
+    applyFilter(activeId);
+
+    // Restore scroll position if returning from a trail
+    var savedScroll = sessionStorage.getItem(SCROLL_KEY);
+    if (savedScroll) {
+      sessionStorage.removeItem(SCROLL_KEY);
+      sessionStorage.removeItem(FILTER_KEY);
+      // requestAnimationFrame ensures DOM has settled before scrolling
+      requestAnimationFrame(function() {
+        window.scrollTo({ top: parseInt(savedScroll!, 10), behavior: "instant" });
+      });
+    }
   }
 
   if (document.readyState === "loading") {
