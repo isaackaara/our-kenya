@@ -7,7 +7,7 @@ Our Kenya is free, forever. No paywalls. No ads. No accounts.
 
 Every note is open to everyone. That is the point. It stays that way.
 
-If this archive has taken you somewhere you didn't expect -- taught you something, settled an argument, helped with school or work, or just made Kenya's history feel less like a list of dates -- consider supporting it. It funds the research, the hosting, and the time it takes to get things right.
+If this archive has taken you somewhere you didn't expect - taught you something, settled an argument, helped with school or work, or just made Kenya's history feel less like a list of dates - consider supporting it. It funds the research, the hosting, and the time it takes to get things right.
 
 This is still a beginning. Your support helps us write the rest.
 

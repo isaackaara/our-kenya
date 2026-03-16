@@ -71,7 +71,7 @@ Start anywhere. Every note connects outward.
 
 ## The 47 Counties
 
-Every county in Kenya has 30 notes -- geography, history, politics, economy, and the people who shaped it.
+Every county in Kenya has 30 notes - geography, history, politics, economy, and the people who shaped it.
 
 [[Counties/Nairobi County/Nairobi History|Nairobi]] · [[Counties/Mombasa County/Mombasa History|Mombasa]] · [[Counties/Kisumu County/Kisumu History|Kisumu]] · [[Counties/Nakuru County/Nakuru History|Nakuru]] · [[Counties/Eldoret City History|Uasin Gishu]] · [[Counties/Kiambu County/Kiambu History|Kiambu]] · [[Counties/Machakos County/Machakos History|Machakos]] · [[Counties/Kilifi County/Kilifi History|Kilifi]] · [[Counties/Turkana County/Turkana History|Turkana]] · [[Counties/Mandera County/Mandera History|Mandera]]
 
@@ -81,7 +81,7 @@ Every county in Kenya has 30 notes -- geography, history, politics, economy, and
 
 ## Story Trails
 
-Curated paths through the vault -- follow a single thread from start to finish.
+Curated paths through the vault - follow a single thread from start to finish.
 
 [[STORY-TRAILS|Browse all 141 Story Trails →]]
 

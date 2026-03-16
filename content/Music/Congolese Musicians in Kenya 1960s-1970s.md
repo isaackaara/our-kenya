@@ -39,5 +39,5 @@ The legacy of Congolese musicians in Kenya extends beyond specific individuals t
 
 ## Sources
 1. "The sonic river: How Congolese rumba became East Africa's most enduring sound", The Citizen, https://www.thecitizen.co.tz/tanzania/news/entertainment/the-sonic-river-how-congolese-rumba-became-east-africa-s-most-enduring-sound-5072830
-2. "Samba Mapangala and Virunga -- African Classics Project", East African Music, https://eastafricanmusic.com/samba_ACproject.htm
+2. "Samba Mapangala and Virunga - African Classics Project", East African Music, https://eastafricanmusic.com/samba_ACproject.htm
 3. "Digital Technology and the Music Recording Industry in Nairobi, Kenya", Music in Africa, https://www.musicinafrica.net/sites/default/files/attachments/article/201607/eisenbergmusdigwebreport-final-301015.pdf

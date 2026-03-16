@@ -26,7 +26,7 @@ Later albums like "Virunga Volcano" and "Feet on Fire" continued to build Virung
 - [[Pan-African Music Exchange 1960s]]
 
 ## Sources
-1. "Samba Mapangala and Virunga -- African Classics Project", East African Music, https://eastafricanmusic.com/samba_ACproject.htm
+1. "Samba Mapangala and Virunga - African Classics Project", East African Music, https://eastafricanmusic.com/samba_ACproject.htm
 2. "Orchestre Virunga", Jabulani Radio, https://www.jabulaniradio.com/artists/orchestre-virunga-154
 3. "Frank Bessem's Musiques d'Afrique / Kenya : Samba Mapangala & Orchestre Virunga", https://www.musiques-afrique.net/restofafrica/art-virunga.html
 4. "Samba Mapangala", Wikipedia, https://en.wikipedia.org/wiki/Samba_Mapangala

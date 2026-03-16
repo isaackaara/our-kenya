@@ -1,4 +1,4 @@
-Kenya's corporate elite -- the individuals and families controlling major businesses -- reflect the political economy of independence. The [[Kenyatta family]], the [[Moi family]], and connected business families accumulated wealth through [[parastatals Kenya|parastatals]], [[privatisation Kenya|privatisation]], and [[government contracts Kenya|government contracts]]. Political access was more important than operational skill.
+Kenya's corporate elite - the individuals and families controlling major businesses - reflect the political economy of independence. The [[Kenyatta family]], the [[Moi family]], and connected business families accumulated wealth through [[parastatals Kenya|parastatals]], [[privatisation Kenya|privatisation]], and [[government contracts Kenya|government contracts]]. Political access was more important than operational skill.
 
 ## Overview
 

@@ -7,7 +7,7 @@ cssclasses:
 
 <div class="ok-hero">
 <p class="ok-tagline">History written by Kenyans, for everyone.</p>
-<p class="ok-intro">3,900 notes. 47 counties. Five presidencies. Hundreds of ethnic stories. One connected knowledge graph of Kenya's past -- and present.</p>
+<p class="ok-intro">3,900 notes. 47 counties. Five presidencies. Hundreds of ethnic stories. One connected knowledge graph of Kenya's past - and present.</p>
 <div class="ok-cta-row">
 <a href="Kenya" class="ok-cta-primary">Start exploring</a>
 <a href="STORY-TRAILS" class="ok-cta-secondary">Browse Story Trails</a>
@@ -66,7 +66,7 @@ Ten journeys that changed how we see Kenya. Each one pulls you deeper.
 
 ## Explore by theme
 
-Every theme has its own index. Start at any node -- the graph takes you further.
+Every theme has its own index. Start at any node - the graph takes you further.
 
 <div class="ok-verticals" id="ok-theme-grid"></div>
 
@@ -74,7 +74,7 @@ Every theme has its own index. Start at any node -- the graph takes you further.
 (function() {
   var themes = [
     {name:"Presidencies",href:"/Presidencies",tag:"Five men. One republic. Six decades of power."},
-    {name:"Counties",href:"/Counties",tag:"All 47 counties -- history, geography, and the stories inside them."},
+    {name:"Counties",href:"/Counties",tag:"All 47 counties - history, geography, and the stories inside them."},
     {name:"Elections",href:"/Elections",tag:"Every general election from 1963. The contests that shaped the nation."},
     {name:"Corruption",href:"/Corruption",tag:"Goldenberg. Anglo Leasing. Eurobond. The patronage state in full."},
     {name:"Sports",href:"/Sports",tag:"The runners, the footballers, the rugby sevens, and what sport means here."},
@@ -84,20 +84,20 @@ Every theme has its own index. Start at any node -- the graph takes you further.
     {name:"Kalenjin",href:"/Kalenjin",tag:"Runners, the Rift Valley, Moi, and a constructed identity."},
     {name:"Swahili",href:"/Swahili",tag:"The coast, the city-states, the Indian Ocean, a thousand years of trade."},
     {name:"Legacy",href:"/Legacy",tag:"Colonialism's afterlife: land, language, church, and the wounds that won't close."},
-    {name:"East Africa",href:"/East-Africa",tag:"Kenya in its regional context -- the EAC, the borders, the shared history."},
+    {name:"East Africa",href:"/East-Africa",tag:"Kenya in its regional context - the EAC, the borders, the shared history."},
     {name:"Maasai",href:"/Maasai",tag:"Cattle, beadwork, warriors, and a culture that refused to disappear."},
-    {name:"Indian Ocean",href:"/Indian-Ocean",tag:"Kenya's eastern face -- the dhows, the traders, the monsoon economy."},
+    {name:"Indian Ocean",href:"/Indian-Ocean",tag:"Kenya's eastern face - the dhows, the traders, the monsoon economy."},
     {name:"Women",href:"/Women",tag:"From Wangari to Mekatilili. The women who shaped Kenya."},
     {name:"Religion",href:"/Religion",tag:"Mission schools, mosques, revival, and the competition for Kenyan souls."},
     {name:"Land",href:"/Land",tag:"Who owns Kenya? The question that has never been answered."},
-    {name:"Music",href:"/Music",tag:"Benga, taarab, gospel, genge -- the soundtrack of a nation."},
+    {name:"Music",href:"/Music",tag:"Benga, taarab, gospel, genge - the soundtrack of a nation."},
     {name:"Mau Mau",href:"/Mau-Mau",tag:"The forest war, the detention camps, the unfinished reckoning."},
     {name:"Nairobi",href:"/Nairobi",tag:"From a railway depot to East Africa's capital city."},
-    {name:"Diaspora",href:"/Diaspora",tag:"Kenyans abroad -- who left, why they left, and what they carried."},
+    {name:"Diaspora",href:"/Diaspora",tag:"Kenyans abroad - who left, why they left, and what they carried."},
     {name:"Trade",href:"/Trade",tag:"The economy of East Africa, from the caravan routes to M-Pesa."},
-    {name:"Education",href:"/Education",tag:"The school system that built a nation -- and its limits."},
+    {name:"Education",href:"/Education",tag:"The school system that built a nation - and its limits."},
     {name:"Media",href:"/Media",tag:"Radio, newspapers, TV, and the fight for a free press."},
-    {name:"Constitution",href:"/Constitution",tag:"The long road to the 2010 constitution -- Kenya's second republic."}
+    {name:"Constitution",href:"/Constitution",tag:"The long road to the 2010 constitution - Kenya's second republic."}
   ];
   function seededShuffle(arr, seed) {
     var a = arr.slice();
@@ -135,7 +135,7 @@ Every theme has its own index. Start at any node -- the graph takes you further.
 
 Our Kenya is a knowledge graph. Every note connects to others via wikilinks. The graph view on the right shows those connections in real time.
 
-Start anywhere -- [[Kenya]], a county, a president, an election. Follow any link. You're in.
+Start anywhere - [[Kenya]], a county, a president, an election. Follow any link. You're in.
 
 There is no right place to begin. There is no wrong turn.
 
