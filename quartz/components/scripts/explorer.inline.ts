@@ -209,7 +209,13 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
-    // Create and insert new content
+    // Clear existing nodes (except overflow-end sentinel) before re-inserting.
+    // Prevents duplicates when nav fires multiple times or after micromorph.
+    const overflowEnd = explorerUl.querySelector(".overflow-end")
+    while (explorerUl.firstChild) explorerUl.removeChild(explorerUl.firstChild)
+    if (overflowEnd) explorerUl.appendChild(overflowEnd)
+
+    // Create and insert new content before the overflow-end sentinel
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
       const node = child.isFolder
@@ -269,12 +275,28 @@ document.addEventListener("prenav", async () => {
   sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString())
 })
 
+// ── Burger guard: MutationObserver removes hide-until-loaded the instant it
+// appears (handles both initial HTML and any micromorph re-additions).
+function removeHideUntilLoaded() {
+  document.querySelectorAll<HTMLElement>(".mobile-explorer.hide-until-loaded").forEach((el) => {
+    el.classList.remove("hide-until-loaded")
+  })
+}
+
+// Run once immediately in case the DOM is already in place
+removeHideUntilLoaded()
+
+// Watch for the class being (re-)added at any time
+const _burgObserver = new MutationObserver(removeHideUntilLoaded)
+_burgObserver.observe(document.body, {
+  subtree: true,
+  attributes: true,
+  attributeFilter: ["class"],
+})
+
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  // Remove hide-until-loaded FIRST — before any async work that might throw
-  for (const explorer of document.getElementsByClassName("explorer")) {
-    const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (mobileExplorer) mobileExplorer.classList.remove("hide-until-loaded")
-  }
+  // Belt-and-suspenders removal in case MutationObserver hasn't fired yet
+  removeHideUntilLoaded()
 
   const currentSlug = e.detail.url
   try {
@@ -283,6 +305,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     console.warn("[explorer] setupExplorer failed:", err)
     return
   }
+
+  // Remove again after async setup (micromorph may have re-added it)
+  removeHideUntilLoaded()
 
   // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {

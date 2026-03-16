@@ -57,7 +57,8 @@ const GRAPH_CATEGORIES: GraphCategory[] = [
   { label: "Culture", topics: ["sheng-language","benga-music","safari-rally","maasai-culture","swahili-architecture","kikuyu-oral-tradition"] },
   { label: "Economy", topics: ["mpesa","tea-industry","flower-farming","nse","kenya-tourism"] },
   { label: "Sports",  topics: ["kenya-athletics","harambee-stars","marathon-champions","otieno-wandera"] },
-  { label: "Society", topics: ["women-parliament","land-clashes","pastoral-communities","urban-migration","kenyan-diaspora","education-history","media-history","religious-diversity","climate-drought","conservation-history"] },
+  { label: "Society",   topics: ["women-parliament","land-clashes","pastoral-communities","urban-migration","kenyan-diaspora","education-history","media-history","religious-diversity","climate-drought","conservation-history"] },
+  { label: "Corporate", topics: ["safaricom-story","equity-bank-story","nakumatt-collapse","kenya-airways-story"] },
 ]
 
 function nodeRadius(type: string) {
@@ -1445,6 +1446,124 @@ const GRAPH_DATA: Record<string, GraphDataset> = {
       { source: "leakey-c",     target: "ivory-c",      type: "event",   label: "Leakey orchestrated burn" },
     ],
   },
+
+  // =========================================================
+  // CORPORATE KENYA
+  // =========================================================
+
+  "safaricom-story": {
+    id: "safaricom-story",
+    label: "Safaricom",
+    nodes: [
+      { id: "safaricom",    label: "Safaricom",              type: "center",  href: "/Corporate-Kenya/Safaricom",              desc: "Kenya's largest company. 40 million subscribers. Bigger than most African banks." },
+      { id: "mpesa-c",      label: "M-Pesa",                 type: "concept", href: "/Corporate-Kenya/M-Pesa",                 desc: "Launched 2007. 50 million users across Africa. Rewired how money moves in Kenya." },
+      { id: "airtel-c",     label: "Airtel Kenya",           type: "entity",  href: "/Corporate-Kenya/Airtel-Kenya",           desc: "Safaricom's biggest rival. Telkom's successor. Still a distant second." },
+      { id: "telkom-c",     label: "Telkom Kenya",           type: "entity",  href: "/Corporate-Kenya/Telkom-Kenya",           desc: "State telco. Partial privatisation. Struggled to compete. Near collapse." },
+      { id: "fintech-c",    label: "Fintech Kenya",          type: "concept", href: "/Corporate-Kenya/Fintech-Kenya",          desc: "The M-Pesa effect: hundreds of fintechs built on top of mobile money rails." },
+      { id: "silicon-c",   label: "Silicon Savannah",        type: "concept", href: "/Corporate-Kenya/Silicon-Savannah",       desc: "Nairobi's tech ecosystem. iHub. Ushahidi. Kenya as Africa's startup capital." },
+      { id: "cbk-c",        label: "Central Bank of Kenya",  type: "entity",  href: "/Corporate-Kenya/Central-Bank-of-Kenya",  desc: "Regulator. Set the rules for M-Pesa. A rare case of a regulator enabling innovation." },
+      { id: "safaricom-inn",label: "Safaricom Innovation",   type: "concept", href: "/Corporate-Kenya/Safaricom-Innovation",   desc: "Lipa Na M-Pesa. Bonga Points. Safaricom as Kenya's infrastructure layer." },
+      { id: "ihub-c",       label: "iHub Nairobi",           type: "place",   href: "/Corporate-Kenya/iHub-Nairobi",           desc: "Nairobi innovation hub. Launched 2010. Incubated over 170 tech companies." },
+      { id: "mobile-bank-c",label: "Mobile Banking Kenya",   type: "concept", href: "/Corporate-Kenya/Mobile-Banking-Kenya",   desc: "Before M-Pesa, 80% of Kenyans were unbanked. After: most Africans who have sent money have used mobile banking." },
+    ],
+    links: [
+      { source: "safaricom",  target: "mpesa-c",       type: "product",  label: "launched M-Pesa 2007" },
+      { source: "safaricom",  target: "airtel-c",      type: "rival",    label: "dominant vs rival" },
+      { source: "safaricom",  target: "telkom-c",      type: "rival",    label: "outcompeted" },
+      { source: "safaricom",  target: "fintech-c",     type: "platform", label: "M-Pesa enabled" },
+      { source: "safaricom",  target: "silicon-c",     type: "ecosystem",label: "anchored" },
+      { source: "cbk-c",      target: "safaricom",     type: "regulates",label: "licensed + regulated" },
+      { source: "safaricom",  target: "safaricom-inn", type: "product",  label: "innovation layer" },
+      { source: "silicon-c",  target: "ihub-c",        type: "place",    label: "iHub as HQ" },
+      { source: "mpesa-c",    target: "mobile-bank-c", type: "impact",   label: "transformed" },
+      { source: "fintech-c",  target: "ihub-c",        type: "place",    label: "incubated at" },
+    ],
+  },
+
+  "equity-bank-story": {
+    id: "equity-bank-story",
+    label: "Equity Bank",
+    nodes: [
+      { id: "equity-b",     label: "Equity Bank",            type: "center",  href: "/Corporate-Kenya/Equity-Bank",            desc: "Started as a failed building society in 1984. Now Africa's largest bank by customers." },
+      { id: "kcb-b",        label: "Kenya Commercial Bank",  type: "entity",  href: "/Corporate-Kenya/Kenya-Commercial-Bank",  desc: "State bank. KCB vs Equity: the defining rivalry of Kenyan banking." },
+      { id: "cbk-b",        label: "Central Bank of Kenya",  type: "entity",  href: "/Corporate-Kenya/Central-Bank-of-Kenya",  desc: "Regulated both. The CBK that nearly killed Equity in the 1990s also saved it." },
+      { id: "bank80s-b",    label: "1980s Bank Collapses",   type: "event",   href: "/Corporate-Kenya/The-1980s-Bank-Collapses",desc: "Pan African Bank, Trade Bank. State looting. A decade of institutional failure." },
+      { id: "sacco-b",      label: "SACCO Movement",         type: "concept", href: "/Corporate-Kenya/SACCO-Movement-Kenya",   desc: "Cooperative banking predated Equity. SACCOs served rural Kenya before commercial banks cared." },
+      { id: "micro-b",      label: "Microfinance Kenya",     type: "concept", href: "/Corporate-Kenya/Microfinance-Kenya",     desc: "Equity entered the market banks ignored. Smallholder farmers. Street traders. Teachers." },
+      { id: "mpesa-b",      label: "M-Pesa Integration",     type: "concept", href: "/Corporate-Kenya/Mobile-Banking-Kenya",   desc: "Equity fought M-Pesa at first. Then integrated. Now both are Kenyan financial infrastructure." },
+      { id: "coop-b",       label: "Co-operative Bank",      type: "entity",  href: "/Corporate-Kenya/Co-operative-Bank-Kenya",desc: "The cooperative movement's bank. Third player. Equity-KCB-Coop shape Kenyan banking." },
+      { id: "asian-banks-b",label: "Asian Banks Kenya",      type: "entity",  href: "/Corporate-Kenya/Asian-Banks-Kenya",      desc: "Barclays, Standard Chartered, Bank of Baroda. Colonial-era banks Equity disrupted." },
+      { id: "banking-hist", label: "Banking History Kenya",  type: "concept", href: "/Corporate-Kenya/Banking-History-Kenya",  desc: "From colonial-era banks serving settlers to a continent-wide banking revolution." },
+    ],
+    links: [
+      { source: "equity-b",   target: "kcb-b",       type: "rival",    label: "defining rivalry" },
+      { source: "cbk-b",      target: "equity-b",    type: "regulates",label: "nearly closed, then licensed" },
+      { source: "bank80s-b",  target: "equity-b",    type: "context",  label: "context of failure" },
+      { source: "equity-b",   target: "micro-b",     type: "serves",   label: "banking the unbanked" },
+      { source: "sacco-b",    target: "equity-b",    type: "preceded", label: "cooperative model" },
+      { source: "equity-b",   target: "mpesa-b",     type: "integrates",label: "mobile integration" },
+      { source: "equity-b",   target: "coop-b",      type: "competes", label: "cooperative banking" },
+      { source: "asian-banks-b",target:"equity-b",   type: "disrupted",label: "Equity disrupted" },
+      { source: "equity-b",   target: "banking-hist",type: "part-of",  label: "rewrote the story" },
+    ],
+  },
+
+  "nakumatt-collapse": {
+    id: "nakumatt-collapse",
+    label: "Nakumatt Collapse",
+    nodes: [
+      { id: "nakumatt",     label: "Nakumatt",                type: "center",  href: "/Corporate-Kenya/Nakumatt-Collapse",         desc: "East Africa's biggest supermarket chain. 65 stores. 20,000+ jobs. Collapsed in 3 years." },
+      { id: "supermarkets", label: "Supermarket Industry",    type: "concept", href: "/Corporate-Kenya/Supermarket-Industry-Kenya",desc: "Nakumatt vs Uchumi vs Tuskys. The retail wars that reshaped how Kenya shops." },
+      { id: "asian-biz-n",  label: "Asian Business Families", type: "concept", href: "/Corporate-Kenya/Kenyan-Asian-Business-Families", desc: "The Shah family built Nakumatt. Asian entrepreneurship as Kenyan retail backbone." },
+      { id: "nakumatt-asian",label:"Nakumatt and Asian Business",type:"event", href: "/Asians/Nakumatt-and-Asian-Business",         desc: "The Nakumatt story is also the story of Asian families who built Kenyan retail." },
+      { id: "equity-n",     label: "Equity Bank (creditor)",  type: "entity",  href: "/Corporate-Kenya/Equity-Bank",               desc: "One of many banks left with unpaid loans when Nakumatt imploded." },
+      { id: "kcb-n",        label: "KCB (creditor)",          type: "entity",  href: "/Corporate-Kenya/Kenya-Commercial-Bank",     desc: "KCB exposure to Nakumatt: hundreds of millions. Wrote most of it off." },
+      { id: "kra-n",        label: "Kenya Revenue Authority", type: "entity",  href: "/Corporate-Kenya/Kenya-Revenue-Authority",   desc: "KRA tax arrears accelerated collapse. Nakumatt owed billions in unpaid taxes." },
+      { id: "private-eq-n", label: "Private Equity Kenya",    type: "concept", href: "/Corporate-Kenya/Private-Equity-in-Kenya",   desc: "Actis tried to rescue Nakumatt. The deal collapsed. PE limits in African retail exposed." },
+      { id: "informal-n",   label: "Informal Economy",        type: "concept", href: "/Corporate-Kenya/Informal-Economy-Kenya",    desc: "The Jua Kali sector that outlasted Nakumatt. Formal retail failed; informal thrived." },
+      { id: "econ-policy-n",label: "Post-Independence Policy",type: "concept", href: "/Corporate-Kenya/Post-Independence-Economic-Policy",desc: "The regulatory environment that allowed Nakumatt to grow unchecked -- and collapse without accountability." },
+    ],
+    links: [
+      { source: "nakumatt",    target: "supermarkets",  type: "part-of",  label: "dominated the sector" },
+      { source: "asian-biz-n", target: "nakumatt",      type: "founded",  label: "Shah family built it" },
+      { source: "nakumatt-asian",target:"nakumatt",     type: "story",    label: "Asian business story" },
+      { source: "equity-n",   target: "nakumatt",       type: "creditor", label: "unpaid loans" },
+      { source: "kcb-n",      target: "nakumatt",       type: "creditor", label: "unpaid loans" },
+      { source: "kra-n",      target: "nakumatt",       type: "pressure", label: "tax arrears" },
+      { source: "private-eq-n",target:"nakumatt",       type: "rescue",   label: "failed bailout" },
+      { source: "nakumatt",   target: "informal-n",     type: "contrast", label: "informal sector survived" },
+      { source: "econ-policy-n",target:"nakumatt",      type: "context",  label: "regulatory failure" },
+    ],
+  },
+
+  "kenya-airways-story": {
+    id: "kenya-airways-story",
+    label: "Kenya Airways",
+    nodes: [
+      { id: "kq",           label: "Kenya Airways",         type: "center",  href: "/Corporate-Kenya/Kenya-Airways",            desc: "The Pride of Africa. Accumulated billions in losses. Bailed out multiple times. Still flying." },
+      { id: "trade-kq",     label: "East Africa Trade",     type: "concept", href: "/Corporate-Kenya/East-Africa-Trade-Flows",  desc: "Kenya as the regional hub. Nairobi connecting East Africa to the world." },
+      { id: "corridor-kq",  label: "Northern Corridor",     type: "concept", href: "/Corporate-Kenya/Northern-Corridor-Kenya",  desc: "The road and rail corridor KQ supports. Mombasa to Kampala to Kigali." },
+      { id: "nse-kq",       label: "Nairobi Stock Exchange",type: "entity",  href: "/Corporate-Kenya/Nairobi-Stock-Exchange",   desc: "KQ listed on the NSE. Shareholders watched the share price collapse for a decade." },
+      { id: "unions-kq",    label: "Trade Unions",          type: "concept", href: "/Corporate-Kenya/Trade-Union-History-Kenya",desc: "Pilot strikes. Ground crew stoppages. Labour relations at KQ shaped Kenya's union story." },
+      { id: "vision2030-kq",label: "Vision 2030",           type: "concept", href: "/Corporate-Kenya/Vision-2030",              desc: "KQ as infrastructure for Vision 2030. Nairobi as the Dubai of Africa. Never quite happened." },
+      { id: "sgr-kq",       label: "Standard Gauge Railway",type: "event",   href: "/Corporate-Kenya/Standard-Gauge-Railway",   desc: "SGR was meant to complement KQ. The two together as Kenya's transport play." },
+      { id: "parastatals-kq",label:"Parastatals Kenya",     type: "concept", href: "/Corporate-Kenya/Parastatals-Kenya",        desc: "KQ is the definitive case study of a parastatal that cannot be saved and cannot be let go." },
+      { id: "lapsset-kq",   label: "Lamu Port LAPSSET",    type: "concept", href: "/Corporate-Kenya/Lamu-Port-LAPSSET",        desc: "LAPSSET would feed a second KQ hub. $24B infrastructure gamble still incomplete." },
+      { id: "uk-trade-kq",  label: "Kenya-UK Trade",        type: "concept", href: "/Corporate-Kenya/Kenya-UK-Trade",           desc: "KQ's Nairobi-London route. Cut flowers, business class, Kenyans in diaspora." },
+    ],
+    links: [
+      { source: "kq",        target: "trade-kq",     type: "enables",  label: "regional connectivity" },
+      { source: "kq",        target: "corridor-kq",  type: "supports", label: "logistics hub" },
+      { source: "nse-kq",    target: "kq",           type: "lists",    label: "listed, share price collapsed" },
+      { source: "unions-kq", target: "kq",           type: "pressure", label: "labour disputes" },
+      { source: "vision2030-kq",target:"kq",         type: "narrative",label: "in the vision" },
+      { source: "sgr-kq",    target: "kq",           type: "parallel", label: "transport strategy" },
+      { source: "parastatals-kq",target:"kq",        type: "category", label: "definitive case" },
+      { source: "lapsset-kq",target: "kq",           type: "future",   label: "second hub planned" },
+      { source: "kq",        target: "uk-trade-kq",  type: "route",    label: "flagship Nairobi-London" },
+    ],
+  },
+
 }
 
 // --- Build flat list from categories ---
@@ -1466,16 +1585,20 @@ function buildKnowledgeGraphs() {
   // --- Inject styles ---
   const styleEl = document.createElement("style")
   styleEl.textContent = `
-    .ok-dropdown-btn{width:100%;background:#1a1a1a;color:#ffffff;border:none;border-radius:6px;padding:10px 16px;font-size:14px;font-family:Inter,system-ui,sans-serif;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:opacity 0.2s;}
-    .ok-dropdown-btn:hover{opacity:0.9;}
+    .ok-dropdown-btn{width:100%;background:#ffffff;color:#1a1a1a;border:1.5px solid #1a1a1a;border-radius:6px;padding:10px 16px;font-size:14px;font-family:Inter,system-ui,sans-serif;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:background 0.15s,color 0.15s;}
+    .ok-dropdown-btn:hover{background:#f5f5f5;}
+    .ok-dropdown-btn.ok-open{background:#1a1a1a;color:#ffffff;border-color:#1a1a1a;}
     .ok-dropdown-panel{position:absolute;top:calc(100% + 4px);left:0;right:0;background:#fff;border:1px solid #c8c2b8;border-radius:6px;max-height:320px;overflow-y:auto;z-index:100;box-shadow:0 4px 16px rgba(0,0,0,0.12);}
     @media(max-width:640px){.ok-dropdown-panel{max-height:240px;}}
     .ok-dropdown-panel.ok-hidden{display:none;}
     .ok-cat-header{position:sticky;top:0;background:#f5f0e8;color:#1a1a1a;font-weight:700;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.08em;padding:6px 14px;border-bottom:1px solid #e0d8ce;}
     .ok-topic-item{padding:8px 14px;font-size:13px;font-family:Inter,system-ui,sans-serif;cursor:pointer;color:#333;transition:background 0.15s;}
-    .ok-topic-item:hover{background:#e8f0eb;}
+    .ok-topic-item:hover{background:#f0f0f0;}
     .ok-topic-item.ok-selected{background:#1a1a1a;color:#ffffff;}
     .ok-graph-title{color:#1a1a1a;font-weight:700;font-size:14px;font-family:Inter,system-ui,sans-serif;margin:8px 0 4px 0;}
+    .ok-quickpills{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
+    .ok-pill{background:#ffffff;color:#1a1a1a;border:1px solid #1a1a1a;border-radius:20px;padding:5px 13px;font-size:12px;font-family:Inter,system-ui,sans-serif;cursor:pointer;transition:background 0.15s,color 0.15s;white-space:nowrap;}
+    .ok-pill:hover,.ok-pill.ok-pill-active{background:#1a1a1a;color:#ffffff;}
   `
   document.head.appendChild(styleEl)
 
@@ -1521,6 +1644,7 @@ function buildKnowledgeGraphs() {
           updateBtn()
           buildPanel()
           closePanel()
+          buildPills()
           switchGraph()
         })
         dropPanel.appendChild(item)
@@ -1532,11 +1656,13 @@ function buildKnowledgeGraphs() {
 
   function openPanel() {
     dropPanel.classList.remove("ok-hidden")
+    dropBtn.classList.add("ok-open")
     panelOpen = true
   }
 
   function closePanel() {
     dropPanel.classList.add("ok-hidden")
+    dropBtn.classList.remove("ok-open")
     panelOpen = false
   }
 
@@ -1550,6 +1676,35 @@ function buildKnowledgeGraphs() {
   dropPanel.addEventListener("click", e => e.stopPropagation())
 
   updateBtn()
+
+  // --- Quick-select pills ---
+  const QUICK_PICKS = [
+    "raila","jomo-kenyatta","wangari-maathai","mau-mau","pev-2007",
+    "mpesa","swahili-coast","nairobi-city","marathon-champions","dedan-kimathi",
+    "tom-mboya","conservation-history","safari-rally","lamu-island","women-parliament",
+  ]
+  const pillsRow = document.createElement("div")
+  pillsRow.className = "ok-quickpills"
+  function buildPills() {
+    pillsRow.innerHTML = ""
+    QUICK_PICKS.forEach(id => {
+      const g = GRAPH_DATA[id]
+      if (!g) return
+      const pill = document.createElement("button")
+      pill.className = "ok-pill" + (id === currentGraphId ? " ok-pill-active" : "")
+      pill.textContent = g.label
+      pill.addEventListener("click", () => {
+        if (id === currentGraphId) return
+        currentGraphId = id
+        updateBtn()
+        buildPills()
+        switchGraph()
+      })
+      pillsRow.appendChild(pill)
+    })
+  }
+  buildPills()
+  container.appendChild(pillsRow)
 
   // --- Hint text ---
   const hint = document.createElement("p")
