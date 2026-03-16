@@ -246,7 +246,7 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       
       <div class="trail-grid" id="trail-grid">
         {trails.map(trail => (
-          <a href={`/Trails/${trail.name.replace(/\s+/g, '-').replace(/[^a-zA-Z0-9\-]/g, '')}`} class="trail-card" data-category={trail.category} data-name={trail.name.toLowerCase()} data-description={trail.description.toLowerCase()}>
+          <a href={`/Trails/${trail.name.replace(/\s+/g, '-').replace(/[^a-zA-Z0-9:-]/g, '')}`} class="trail-card" data-category={trail.category} data-name={trail.name.toLowerCase()} data-description={trail.description.toLowerCase()}>
             <div class="trail-card-header">
               <h3 class="trail-card-name">{trail.name}</h3>
               <span class="trail-card-category">{trail.category}</span>
@@ -265,7 +265,7 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     name: t.name, 
     category: t.category,
     description: t.description,
-    firstStop: '/Trails/' + t.name.replace(/\\s+/g, '-').replace(/[^a-zA-Z0-9\\-]/g, '')
+    firstStop: '/Trails/' + t.name.replace(/\\s+/g, '-').replace(/[^a-zA-Z0-9:-]/g, '')
   })))};
   
   const total = trailData.length;
@@ -326,7 +326,11 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     });
   }
   
-  document.addEventListener('DOMContentLoaded', init);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
   document.addEventListener('nav', init);
 })();
         `

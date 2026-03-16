@@ -21,6 +21,9 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      - name: Build Pagefind search index
+        run: npx pagefind --site public --output-path public/pagefind
+
       - name: Slim search index (Cloudflare 25MB file limit)
         run: |
           node -e "
