@@ -32,11 +32,21 @@
       "  margin-bottom: 0.5rem;",
       "}",
       "#ok-daily-note .ok-dn-title:hover { text-decoration: underline; }",
+      "#ok-daily-note .ok-dn-excerpt {",
+      "  font-size: 0.88rem;",
+      "  color: var(--darkgray);",
+      "  margin: 0.4rem 0 0.6rem 0;",
+      "  line-height: 1.5;",
+      "  font-style: italic;",
+      "}",
       "#ok-daily-note .ok-dn-scores {",
       "  font-size: 0.82rem;",
       "  color: var(--darkgray);",
-      "  margin-top: 0.6rem;",
+      "  margin-top: 0.25rem;",
       "  letter-spacing: 0.5px;",
+      "  display: flex;",
+      "  flex-direction: column;",
+      "  gap: 4px;",
       "}"
     ].join("\n");
     document.head.appendChild(style);
@@ -89,11 +99,39 @@
 
     var scoreRow = document.createElement("div");
     scoreRow.className = "ok-dn-scores";
-    scoreRow.textContent = "Wonder " + renderStars(score.w) + "  Emotion " + renderStars(score.e);
+    var wRow = document.createElement("span");
+    wRow.textContent = "Wonder " + renderStars(score.w);
+    var eRow = document.createElement("span");
+    eRow.textContent = "Emotion " + renderStars(score.e);
+    scoreRow.appendChild(wRow);
+    scoreRow.appendChild(eRow);
+
+    var excerpt = document.createElement("div");
+    excerpt.className = "ok-dn-excerpt";
 
     wrap.appendChild(label);
     wrap.appendChild(link);
+    wrap.appendChild(excerpt);
     wrap.appendChild(scoreRow);
+
+    // Fetch excerpt from the note page
+    fetch(url)
+      .then(function(r) { return r.text(); })
+      .then(function(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, "text/html");
+        var article = doc.querySelector("article") || doc.querySelector(".popover-hint") || doc.querySelector("main");
+        if (!article) return;
+        var paras = article.querySelectorAll("p");
+        for (var i = 0; i < paras.length; i++) {
+          var text = paras[i].textContent.trim();
+          if (text.length > 40) {
+            excerpt.textContent = text.length > 100 ? text.slice(0, 100).trimEnd() + "..." : text;
+            break;
+          }
+        }
+      })
+      .catch(function() {});
   }
 
   function init() {
