@@ -365,14 +365,15 @@ body:has(article.homepage) .content-meta {
 }
 
 /* Search results - dark mode text fix */
-/* In dark mode: --dark = #ebebec (light text), --light = #161618 (dark bg) */
-[saved-theme="dark"] .result-card > h3 {
+[saved-theme="dark"] .result-card .card-title,
+[saved-theme="dark"] .result-card h3 {
   color: var(--dark) !important;
 }
 
-[saved-theme="dark"] .result-card > p,
-[saved-theme="dark"] .result-card > p * {
-  color: var(--darkgray) !important;
+[saved-theme="dark"] .result-card .card-description,
+[saved-theme="dark"] .result-card p,
+[saved-theme="dark"] .result-card p * {
+  color: var(--dark) !important;
 }
 
 [saved-theme="dark"] .preview-container,
