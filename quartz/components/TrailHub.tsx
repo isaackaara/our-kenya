@@ -13,6 +13,7 @@ const TrailHubCSS = `
 .trail-hub-search {
   width: 100%;
   max-width: 100%;
+  box-sizing: border-box;
   padding: 0.6rem 1rem;
   font-size: 0.9375rem;
   border: 1.5px solid var(--lightgray);
