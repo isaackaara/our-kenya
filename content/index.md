@@ -84,7 +84,9 @@ Kenya's most consequential opposition figure. Five elections, one handshake, a c
 
 ## How this works
 
-Our Kenya is a knowledge graph. Every note connects to others. The graph view on the right shows those connections in real time.
+Our Kenya is a knowledge graph built from primary sources, oral histories, and documented research. 6,547 notes. 56,252 mapped connections between people, events, places, and ideas.
+
+Each note is written to be finished in under two minutes. History does not have to be a textbook.
 
 Start anywhere - [[Kenya]], a county, a president, an election. Follow any link. You're in.
 
