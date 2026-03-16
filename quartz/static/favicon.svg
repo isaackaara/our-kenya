@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="10" fill="#1b3d2f"/>
+  <rect width="64" height="64" rx="10" fill="#1a1a1a"/>
   <text x="32" y="45" text-anchor="middle" font-family="Schibsted Grotesk, Inter, system-ui, sans-serif" font-size="30" letter-spacing="-1">
-    <tspan font-weight="400" fill="#f5f0e8" opacity="0.6">O</tspan><tspan font-weight="700" fill="#f5f0e8">K</tspan>
+    <tspan font-weight="400" fill="none" stroke="#808080" stroke-width="2">O</tspan><tspan font-weight="700" fill="#ffffff">K</tspan>
   </text>
 </svg>

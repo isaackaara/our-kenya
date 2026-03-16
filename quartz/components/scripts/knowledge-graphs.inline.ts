@@ -643,6 +643,7 @@ function tryInit() {
 document.addEventListener("nav", () => {
   const el = document.getElementById("ok-knowledge-graphs")
   if (el) {
+    el.innerHTML = ""
     el.dataset.rendered = ""
     buildKnowledgeGraphs()
   }
