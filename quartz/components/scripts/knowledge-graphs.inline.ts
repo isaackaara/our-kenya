@@ -1732,7 +1732,8 @@ function buildKnowledgeGraphs() {
   }
 
   function updateBtn() {
-    dropBtn.innerHTML = `<span>${getLabel()}</span><span style="font-size:11px;margin-left:8px;">&#9660;</span>`
+    const total = GRAPHS_FLAT.length
+    dropBtn.innerHTML = `<span>${getLabel()}</span><span style="display:flex;align-items:center;gap:8px;flex-shrink:0;margin-left:12px;"><span style="font-size:11px;opacity:0.55;">${total} graphs</span><span style="font-size:11px;">&#9660;</span></span>`
   }
 
   function buildPanel() {
