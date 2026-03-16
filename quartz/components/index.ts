@@ -29,6 +29,7 @@ import ShareButton from "./ShareButton"
 import TrailNav, { TrailHistoryRail } from "./TrailNav"
 import TrailHub from "./TrailHub"
 import DailyThemeGrid from "./DailyThemeGrid"
+import RailaGraph from "./RailaGraph"
 
 export {
   ArticleTitle,
@@ -63,4 +64,5 @@ export {
   TrailHistoryRail,
   TrailHub,
   DailyThemeGrid,
+  RailaGraph,
 }
