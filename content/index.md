@@ -24,21 +24,17 @@ Ten journeys that changed how we see Kenya. Each one pulls you deeper.
 <strong>The Reluctant Father</strong>
 <span>Kenyatta: from detainee to founding father.</span>
 </a>
-<a href="/Trails/Mau-Mau:-The-Forest-War" class="ok-vertical-card">
-<strong>Mau Mau: The Forest War</strong>
-<span>The guerrilla war that broke British Kenya.</span>
+<a href="/Trails/Swahili:-A-Thousand-Years" class="ok-vertical-card">
+<strong>Swahili: A Thousand Years</strong>
+<span>City-states, dhows, monsoons, and a thousand years of Indian Ocean trade.</span>
 </a>
-<a href="/Trails/Tom-Mboya:-The-Man-Who-Should-Have-Been-President" class="ok-vertical-card">
-<strong>Tom Mboya: The Man Who Should Have Been President</strong>
-<span>The assassination that changed everything.</span>
-</a>
-<a href="/Trails/When-Kenya-Burned:-2007-08" class="ok-vertical-card">
-<strong>When Kenya Burned: 2007-08</strong>
-<span>1,300 dead. How democracy failed.</span>
+<a href="/Trails/The-Handshake" class="ok-vertical-card">
+<strong>The Handshake</strong>
+<span>Uhuru and Raila, 2018. The deal that rewrote Kenyan politics.</span>
 </a>
 <a href="/Trails/The-Running-Phenomenon" class="ok-vertical-card">
 <strong>The Running Phenomenon</strong>
-<span>How a small community became the world's greatest runners.</span>
+<span>Why Kalenjin runners dominate distance running - and what Kipchoge means.</span>
 </a>
 <a href="/Trails/Goldenberg:-The-Heist" class="ok-vertical-card">
 <strong>Goldenberg: The Heist</strong>

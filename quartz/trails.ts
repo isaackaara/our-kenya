@@ -8,6 +8,7 @@ export interface Trail {
   name: string
   category: string
   description: string  // 1-2 sentences shown on STORY-TRAILS page
+  emotionalScore?: number  // 1=neutral/uplifting, 10=heavy trauma
   stops: TrailStop[]
 }
 
@@ -17,6 +18,7 @@ export const trails: Trail[] = [
     name: "The Reluctant Father",
     category: "Presidencies",
     description: "Jomo Kenyatta's journey from mission school student to founding father of independent Kenya.",
+    emotionalScore: 4,
     stops: [
       { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Rise to Power", title: "Rise to Power" },
       { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Detention Legacy", title: "The Detention Years" },
@@ -32,6 +34,7 @@ export const trails: Trail[] = [
     name: "The Schoolmaster Dictator",
     category: "Presidencies",
     description: "Daniel arap Moi's transformation from quiet vice president to Kenya's longest-serving ruler.",
+    emotionalScore: 5,
     stops: [
       { slug: "Presidencies/Daniel arap Moi Presidency/Moi Rise to Power", title: "The Quiet Vice President" },
       { slug: "Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency", title: "Inheriting Power" },
@@ -47,6 +50,7 @@ export const trails: Trail[] = [
     name: "Mau Mau: The Forest War",
     category: "Independence & Resistance",
     description: "The oath, the forest fighters, Dedan Kimathi, and the State of Emergency that shaped modern Kenya.",
+    emotionalScore: 8,
     stops: [
       { slug: "Kikuyu/Kikuyu Resistance Pre-Mau Mau", title: "Seeds of Resistance" },
       { slug: "Kikuyu/Harry Thuku", title: "Harry Thuku's Arrest" },
@@ -63,6 +67,7 @@ export const trails: Trail[] = [
     name: "Tom Mboya: The Man Who Should Have Been President",
     category: "People & Biography",
     description: "Labor organizer, Pan-Africanist, architect of independence, and the assassination that changed Kenya's trajectory.",
+    emotionalScore: 7,
     stops: [
       { slug: "Luo/Tom Mboya", title: "The Young Organizer" },
       { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Tom Mboya", title: "Kenyatta's Right Hand" },
@@ -78,6 +83,7 @@ export const trails: Trail[] = [
     name: "When Kenya Burned: 2007-08",
     category: "Politics & Elections",
     description: "A disputed election, post-election violence, the ICC, and the handshake that redefined Kenyan politics.",
+    emotionalScore: 9,
     stops: [
       { slug: "Elections/2007 Election/2007 Election", title: "The Election" },
       { slug: "Elections/2007-08 Post-Election Violence/2007-08 PEV Kibaki Swearing-In", title: "Sworn In at Night" },
@@ -94,6 +100,7 @@ export const trails: Trail[] = [
     name: "The Running Phenomenon",
     category: "Sports",
     description: "Why Kalenjin runners dominate distance running, the science of Iten, and Kipchoge's moonshot.",
+    emotionalScore: 2,
     stops: [
       { slug: "Kalenjin/Kalenjin Origins", title: "Who Are the Kalenjin?" },
       { slug: "Kalenjin/Kalenjin Identity and Running", title: "Running as Identity" },
@@ -109,6 +116,7 @@ export const trails: Trail[] = [
     name: "Goldenberg: The Heist",
     category: "Corruption & Scandals",
     description: "The corruption scandal that nearly bankrupted Kenya and the man who walked away rich.",
+    emotionalScore: 5,
     stops: [
       { slug: "Corruption/Goldenberg Scandal", title: "The Gold Export Scam" },
       { slug: "Corruption/Kamlesh Pattni and Goldenberg", title: "Kamlesh Pattni" },
@@ -123,6 +131,7 @@ export const trails: Trail[] = [
     name: "The Land Question",
     category: "Land & Economy",
     description: "From colonial theft to today's land clashes, the question that refuses to die.",
+    emotionalScore: 6,
     stops: [
       { slug: "Kikuyu/White Highlands", title: "The White Highlands" },
       { slug: "Kikuyu/Kenya Land and Freedom Army", title: "Land and Freedom" },
@@ -138,6 +147,7 @@ export const trails: Trail[] = [
     name: "Swahili: A Thousand Years",
     category: "Coast & Swahili",
     description: "The Swahili coast, Indian Ocean trade, city-states, and Islam's arrival in East Africa.",
+    emotionalScore: 2,
     stops: [
       { slug: "Swahili/Swahili Civilization Overview", title: "The Swahili World" },
       { slug: "Swahili/The Indian Ocean World", title: "The Indian Ocean Trade" },
@@ -153,6 +163,7 @@ export const trails: Trail[] = [
     name: "Wangari Maathai: Trees and Freedom",
     category: "People & Biography",
     description: "The Green Belt Movement, the Nobel Prize, and resistance to authoritarianism.",
+    emotionalScore: 3,
     stops: [
       { slug: "Kikuyu/Wangari Maathai", title: "Wangari Maathai" },
       { slug: "Conservation/Green Belt Movement", title: "The Green Belt Movement" },
@@ -167,6 +178,7 @@ export const trails: Trail[] = [
     name: "Raila Odinga: Five Campaigns",
     category: "Politics & Elections",
     description: "Raila's five presidential runs and what they reveal about Kenyan democracy.",
+    emotionalScore: 4,
     stops: [
       { slug: "Luo/Raila Odinga Biography", title: "The Raila Story" },
       { slug: "Elections/1997 Election/1997 Election", title: "1997: The First Run" },
@@ -182,6 +194,7 @@ export const trails: Trail[] = [
     name: "The Ivory Wars",
     category: "Conservation & Wildlife",
     description: "Poaching crisis, the war on elephants, and the ivory burn that shocked the world.",
+    emotionalScore: 6,
     stops: [
       { slug: "Conservation/The Ivory Poaching Crisis", title: "The Poaching Epidemic" },
       { slug: "Conservation/Poaching Crisis 1970s-1980s", title: "The 1970s-80s Crisis" },
@@ -197,6 +210,7 @@ export const trails: Trail[] = [
     name: "Dadaab: The World's Largest Camp",
     category: "Politics & Elections",
     description: "Somali refugees, the world's largest refugee complex, and the politics of hospitality.",
+    emotionalScore: 7,
     stops: [
       { slug: "Somali/Dadaab Refugee Complex", title: "Dadaab Opens" },
       { slug: "Somali/Somali Refugee Experience", title: "Life in the Camp" },
@@ -211,6 +225,7 @@ export const trails: Trail[] = [
     name: "The Hustler's Gambit: William Ruto",
     category: "Presidencies",
     description: "From Eldoret chicken seller to Kenya's president, the hustler narrative and what it means.",
+    emotionalScore: 3,
     stops: [
       { slug: "Presidencies/William Ruto Presidency/Ruto Rise to Power", title: "The Rise" },
       { slug: "Presidencies/William Ruto Presidency/Ruto Hustler Nation Ideology", title: "Hustler Nation" },
@@ -226,6 +241,7 @@ export const trails: Trail[] = [
     name: "Tsavo: Lions and Railway",
     category: "Conservation & Wildlife",
     description: "The Man-Eaters of Tsavo, the Uganda Railway, and the birth of Kenya's conservation movement.",
+    emotionalScore: 4,
     stops: [
       { slug: "Counties/Taita-Taveta/Uganda Railway Taita-Taveta", title: "Building the Railway" },
       { slug: "Counties/Taita-Taveta/Tsavo Man-Eaters", title: "The Man-Eaters" },
@@ -241,6 +257,7 @@ export const trails: Trail[] = [
     name: "The Handshake",
     category: "Politics & Elections",
     description: "Uhuru and Raila's 2018 deal, what it meant, and how it reshaped Kenyan politics.",
+    emotionalScore: 3,
     stops: [
       { slug: "Elections/2017 Election/2017 Election", title: "The 2017 Election" },
       { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru 2017 Election", title: "Uhuru's Second Term" },
@@ -255,6 +272,7 @@ export const trails: Trail[] = [
     name: "Benga: The Sound of Kenya",
     category: "Music & Arts",
     description: "Luo benga music, D.O. Misiani, and the soundtrack of independent Kenya.",
+    emotionalScore: 2,
     stops: [
       { slug: "Luo/Benga Music Origins", title: "Benga Is Born" },
       { slug: "Luo/D.O. Misiani", title: "D.O. Misiani" },
@@ -269,6 +287,7 @@ export const trails: Trail[] = [
     name: "The Coastal Land Problem",
     category: "Coast & Swahili",
     description: "Arab land grants, Crown land, squatters, and the land question at the coast.",
+    emotionalScore: 5,
     stops: [
       { slug: "Swahili/Arab Settlement on the Coast", title: "Arab Settlement" },
       { slug: "Swahili/The Omani Conquest", title: "Omani Rule" },
@@ -283,6 +302,7 @@ export const trails: Trail[] = [
     name: "Anglo Leasing: Phantom Contracts",
     category: "Corruption & Scandals",
     description: "The procurement scandal that defined the Kibaki era and exposed the scale of state capture.",
+    emotionalScore: 5,
     stops: [
       { slug: "Corruption/Anglo Leasing Scandal", title: "The Phantom Contracts" },
       { slug: "Corruption/Kibaki Era Corruption", title: "Kibaki's Corruption Record" },
@@ -297,6 +317,7 @@ export const trails: Trail[] = [
     name: "Lake Turkana: The Jade Sea",
     category: "Conservation & Wildlife",
     description: "Fossils, Turkana Boy, wind power, and the Omo River threat to Africa's largest desert lake.",
+    emotionalScore: 3,
     stops: [
       { slug: "Turkana/Lake Turkana", title: "The Jade Sea" },
       { slug: "Turkana/The Cradle of Humankind", title: "The Cradle of Humankind" },
@@ -313,6 +334,7 @@ export const trails: Trail[] = [
       name: "The Reluctant Father of the Nation",
       category: "Presidencies",
       description: "Kenyatta: mission school boy to first president",
+      emotionalScore: 4,
       stops: [
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Legacy", title: "Early Life" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Pan-Africanism", title: "Kenya African Union" },
@@ -329,6 +351,7 @@ export const trails: Trail[] = [
       name: "The Schoolmaster Who Became a Dictator",
       category: "Presidencies",
       description: "Daniel arap Moi: the quiet vice president who ruled for 24 years",
+      emotionalScore: 5,
       stops: [
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Personal Style and Image", title: "Early Life and Rise" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Vice President 1967-1978", title: "Vice President" },
@@ -345,6 +368,7 @@ export const trails: Trail[] = [
       name: "The Economist Who Saved Kenya",
       category: "Presidencies",
       description: "Mwai Kibaki: what actually happened during the economic miracle of 2003-2007",
+      emotionalScore: 3,
       stops: [
         { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Legacy", title: "Early Life" },
         { slug: "Presidencies/Mwai Kibaki Presidency/Kibaki Final Years", title: "Opposition Years" },
@@ -360,6 +384,7 @@ export const trails: Trail[] = [
       name: "The Son's Burden",
       category: "Presidencies",
       description: "Uhuru Kenyatta: the dynasty, the ICC, the handshake",
+      emotionalScore: 5,
       stops: [
         { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Kenyatta Early Political Career", title: "Early Life" },
         { slug: "Presidencies/Uhuru Kenyatta Presidency/Uhuru Political Rise", title: "Political Rise" },
@@ -376,6 +401,7 @@ export const trails: Trail[] = [
       name: "The Hustler's Gambit",
       category: "Presidencies",
       description: "William Ruto: from chicken seller to president, the story of Kenya's most controversial politician",
+      emotionalScore: 3,
       stops: [
         { slug: "Presidencies/William Ruto Presidency/Ruto Early Life and Privilege", title: "Early Life" },
         { slug: "Presidencies/William Ruto Presidency/Ruto Political Rise", title: "Political Rise" },
@@ -391,6 +417,7 @@ export const trails: Trail[] = [
       name: "The Vice Presidents Who Never Were",
       category: "Politics & Elections",
       description: "Five men who came close and what happened to each",
+      emotionalScore: 4,
       stops: [
         { slug: "Political Movements/Oginga Odinga", title: "Oginga Odinga" },
         { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
@@ -408,6 +435,7 @@ export const trails: Trail[] = [
       name: "Kapenguria: The Trial That Made a Nation",
       category: "Independence & Resistance",
       description: "The political show trial of Jomo Kenyatta and its lasting impact",
+      emotionalScore: 6,
       stops: [
         { slug: "Kikuyu/Mau Mau Uprising", title: "Mau Mau Uprising" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kapenguria trial 1952-1953", title: "Kapenguria Trial" },
@@ -422,6 +450,7 @@ export const trails: Trail[] = [
       name: "State House, Nairobi: What Happens Inside",
       category: "Presidencies",
       description: "The machinery of Kenyan executive power across all five presidencies",
+      emotionalScore: 3,
       stops: [
         { slug: "Presidencies/State House Nairobi", title: "State House" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta in literature", title: "Kenyatta Inner Circle" },
@@ -437,6 +466,7 @@ export const trails: Trail[] = [
       name: "The Coup That Almost Happened",
       category: "Presidencies",
       description: "The 1982 air force coup attempt: what went wrong and how close it came",
+      emotionalScore: 7,
       stops: [
         { slug: "Presidencies/Daniel arap Moi Presidency/Pre-Coup Political Climate", title: "Pre-Coup Climate" },
         { slug: "Presidencies/Daniel arap Moi Presidency/1982 Coup Attempt", title: "The Coup Attempt" },
@@ -451,6 +481,7 @@ export const trails: Trail[] = [
       name: "Succession Politics: The Kenyan Way",
       category: "Presidencies",
       description: "How power has transferred (or nearly not transferred) across five transitions",
+      emotionalScore: 4,
       stops: [
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta death August 22 1978", title: "1978: Kenyatta Death" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Succession 1978", title: "1978: Moi Succession" },
@@ -467,6 +498,7 @@ export const trails: Trail[] = [
       name: "The Detainees",
       category: "Independence & Resistance",
       description: "Every major political detention in Kenya's history, from Kenyatta to Koigi wa Wamwere",
+      emotionalScore: 8,
       stops: [
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Detention at Lokitaung", title: "Kenyatta at Lokitaung" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Political Patronage Kenyatta Era", title: "Kenyatta Era Detentions" },
@@ -484,6 +516,7 @@ export const trails: Trail[] = [
       name: "1969: The Year Kenya Changed",
       category: "Politics & Elections",
       description: "Tom Mboya's assassination, the Kisumu Massacre, the one-party creep",
+      emotionalScore: 9,
       stops: [
         { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination 1969", title: "Mboya Assassination" },
@@ -499,6 +532,7 @@ export const trails: Trail[] = [
       name: "The Nyayo Era: Fear and Development",
       category: "Presidencies",
       description: "How Moi built roads and broke people simultaneously",
+      emotionalScore: 6,
       stops: [
         { slug: "Presidencies/Daniel arap Moi Presidency/Nyayo Philosophy", title: "Nyayo Philosophy" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Economic Record", title: "Development Record" },
@@ -515,6 +549,7 @@ export const trails: Trail[] = [
       name: "Second Liberation: The Multiparty Struggle",
       category: "Politics & Elections",
       description: "How Kenya got back democracy in 1991-2002",
+      emotionalScore: 5,
       stops: [
         { slug: "Political Movements/The Second Liberation", title: "The Second Liberation" },
         { slug: "Political Movements/Saba Saba 1990", title: "Saba Saba 1990" },
@@ -531,6 +566,7 @@ export const trails: Trail[] = [
       name: "The Constitution of 2010",
       category: "Politics & Elections",
       description: "The long road to the new constitution and how it remade Kenya",
+      emotionalScore: 3,
       stops: [
         { slug: "Political Movements/Constitutional Reform Movement", title: "Reform Movement" },
         { slug: "Presidencies/Mwai Kibaki Presidency/2005 Referendum", title: "2005 Referendum" },
@@ -546,6 +582,7 @@ export const trails: Trail[] = [
       name: "Tribalism and the State",
       category: "Politics & Elections",
       description: "How ethnicity became the operating system of Kenyan politics",
+      emotionalScore: 5,
       stops: [
         { slug: "Cross-Ethnic/Ethnic Arithmetic in Politics", title: "Ethnic Arithmetic" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Asian Community Under Kenyatta", title: "Kikuyu Dominance" },
@@ -562,6 +599,7 @@ export const trails: Trail[] = [
       name: "The Handshake",
       category: "Politics & Elections",
       description: "Uhuru and Raila's mysterious 2018 deal and what it meant for everything",
+      emotionalScore: 3,
       stops: [
         { slug: "Elections/2017 Election/2017 Election Handshake Prelude", title: "Handshake Prelude" },
         { slug: "Presidencies/Uhuru Kenyatta Presidency/The Handshake March 2018", title: "The Handshake" },
@@ -576,6 +614,7 @@ export const trails: Trail[] = [
       name: "Dynasty vs. Hustler: 2022",
       category: "Politics & Elections",
       description: "The election that defined a generation",
+      emotionalScore: 4,
       stops: [
         { slug: "Elections/2022 Election/2022 Election Hustler Narrative", title: "Hustler Narrative" },
         { slug: "Elections/2022 Election/2022 Election Kenya Kwanza", title: "Kenya Kwanza" },
@@ -591,6 +630,7 @@ export const trails: Trail[] = [
       name: "Foreign Policy: Kenya and the World",
       category: "Presidencies",
       description: "How each president positioned Kenya internationally",
+      emotionalScore: 3,
       stops: [
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Foreign Policy", title: "Kenyatta Foreign Policy" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi Foreign Policy", title: "Moi Foreign Policy" },
@@ -606,6 +646,7 @@ export const trails: Trail[] = [
       name: "If Mboya Had Lived",
       category: "People & Biography",
       description: "A counterfactual: what Kenya might have been without the 1969 assassination",
+      emotionalScore: 4,
       stops: [
         { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination 1969", title: "Assassination" },
@@ -621,6 +662,7 @@ export const trails: Trail[] = [
       name: "Gikuyu and Mumbi: The Creation Story",
       category: "Kikuyu",
       description: "The Kikuyu origin myth and what it tells us about identity",
+      emotionalScore: 2,
       stops: [
         { slug: "Kikuyu/Kikuyu Clans", title: "The People of the Fig Tree" },
         { slug: "Kikuyu/Kikuyu Education Systems", title: "Gikuyu and Mumbi" },
@@ -635,6 +677,7 @@ export const trails: Trail[] = [
       name: "The Ridge Farmers",
       category: "Kikuyu",
       description: "How the Kikuyu agricultural system worked before colonialism",
+      emotionalScore: 2,
       stops: [
         { slug: "Kikuyu/Kikuyu Agriculture Pre-Colonial", title: "The Ridge System" },
         { slug: "Kikuyu/Kikuyu Land Tenure (Githaka)", title: "Githaka: The Family Estate" },
@@ -650,6 +693,7 @@ export const trails: Trail[] = [
       name: "The Githaka: Land as Life",
       category: "Land & Economy",
       description: "The Kikuyu land tenure system and why its theft caused a revolution",
+      emotionalScore: 6,
       stops: [
         { slug: "Kikuyu/Kikuyu Land Tenure (Githaka)", title: "What Githaka Meant" },
         { slug: "Europeans/The White Highlands", title: "The Theft of the Highlands" },
@@ -665,6 +709,7 @@ export const trails: Trail[] = [
       name: "Harry Thuku and the First Protest",
       category: "Independence & Resistance",
       description: "The 1922 Harry Thuku arrest and the first mass political action in Kenya",
+      emotionalScore: 6,
       stops: [
         { slug: "Kikuyu/Harry Thuku", title: "The First Political Organizer" },
         { slug: "Kikuyu/The East African Association", title: "Cross-Ethnic Organizing, 1921" },
@@ -679,6 +724,7 @@ export const trails: Trail[] = [
       name: "The KCA and the Birth of Kikuyu Politics",
       category: "Kikuyu",
       description: "The Kikuyu Central Association from 1921 to Kenyatta",
+      emotionalScore: 4,
       stops: [
         { slug: "Kikuyu/Kikuyu Central Association", title: "The First Political Party" },
         { slug: "Kikuyu/KCA Land Petition to London", title: "Appealing to the King" },
@@ -694,6 +740,7 @@ export const trails: Trail[] = [
       name: "Facing Mount Kenya",
       category: "Kikuyu",
       description: "Kenyatta's anthropological masterwork as political act",
+      emotionalScore: 2,
       stops: [
         { slug: "Kikuyu/Facing Mount Kenya", title: "The Book That Defined a People" },
         { slug: "Kikuyu/Kenyatta and Malinowski", title: "Anthropology as Resistance" },
@@ -708,6 +755,7 @@ export const trails: Trail[] = [
       name: "The Oathing Ceremonies",
       category: "Kikuyu",
       description: "The controversial oathing that bound Kikuyu together during and after Mau Mau",
+      emotionalScore: 5,
       stops: [
         { slug: "Kikuyu/Kikuyu Livestock Tradition", title: "The Sacred Bond" },
         { slug: "Kikuyu/Mau Mau Oaths", title: "The Oaths of Unity and Combat" },
@@ -723,6 +771,7 @@ export const trails: Trail[] = [
       name: "Mau Mau: The Forest War",
       category: "Independence & Resistance",
       description: "Into the Aberdare forest with Dedan Kimathi and the Land and Freedom Army",
+      emotionalScore: 8,
       stops: [
         { slug: "Kikuyu/Mau Mau Uprising", title: "The War for Land and Freedom" },
         { slug: "Kikuyu/Kenya Land and Freedom Army", title: "The Forest Fighters" },
@@ -740,6 +789,7 @@ export const trails: Trail[] = [
       name: "The Home Guard: Kikuyu Against Kikuyu",
       category: "Independence & Resistance",
       description: "The loyalists who fought alongside the British, and how that schism lasted for decades",
+      emotionalScore: 8,
       stops: [
         { slug: "Kikuyu/The Kikuyu Home Guard", title: "Collaborators or Survivors?" },
         { slug: "Kikuyu/Chiefs and Loyalists", title: "The Colonial Administration's Allies" },
@@ -755,6 +805,7 @@ export const trails: Trail[] = [
       name: "Dedan Kimathi's Last Days",
       category: "Independence & Resistance",
       description: "Capture, trial, and execution: the making of a martyr",
+      emotionalScore: 9,
       stops: [
         { slug: "Kikuyu/Dedan Kimathi", title: "Field Marshal Kimathi" },
         { slug: "Kikuyu/Kimathi Capture 1956", title: "The Trap and the Betrayal" },
@@ -769,6 +820,7 @@ export const trails: Trail[] = [
       name: "The Emergency Detention Camps",
       category: "Independence & Resistance",
       description: "Hola, Manyani, and the system of colonial violence",
+      emotionalScore: 10,
       stops: [
         { slug: "Kikuyu/The Villagisation Program", title: "Forced Removal and Containment" },
         { slug: "Kikuyu/Detention Camps", title: "The Camp System" },
@@ -784,6 +836,7 @@ export const trails: Trail[] = [
       name: "The Gikuyu and Mumbi Movement",
       category: "Kikuyu",
       description: "Post-independence Kikuyu ethnic mobilization",
+      emotionalScore: 4,
       stops: [
         { slug: "Kikuyu/Kikuyu Central Association", title: "The Ethnic Alliance" },
         { slug: "Kikuyu/GEMA and Kikuyu Unity", title: "Business and Politics Combined" },
@@ -798,6 +851,7 @@ export const trails: Trail[] = [
       name: "Wangari Maathai: The Woman Who Planted Trees",
       category: "People & Biography",
       description: "From Nyeri to Oslo, the Green Belt Movement",
+      emotionalScore: 3,
       stops: [
         { slug: "Conservation/Wangari Maathai", title: "Nyeri's Daughter" },
         { slug: "Conservation/Green Belt Movement", title: "Trees, Women, Democracy" },
@@ -813,6 +867,7 @@ export const trails: Trail[] = [
       name: "The Mount Kenya Mafia",
       category: "Kikuyu",
       description: "How Kikuyu business elites captured the Kenyan economy",
+      emotionalScore: 5,
       stops: [
         { slug: "Kikuyu/Mount Kenya Mafia", title: "The Business Elite" },
         { slug: "Kikuyu/Kenyatta Family Business", title: "The First Family's Empire" },
@@ -829,6 +884,7 @@ export const trails: Trail[] = [
       name: "Kirinyaga: The Coffee Country",
       category: "Land & Economy",
       description: "The political economy of Kenya's best single-origin coffee",
+      emotionalScore: 3,
       stops: [
         { slug: "Counties/Kirinyaga/Kirinyaga County", title: "The Land Between the Rivers" },
         { slug: "Counties/Kirinyaga/Kirinyaga Coffee", title: "The Best Bean in Kenya" },
@@ -844,6 +900,7 @@ export const trails: Trail[] = [
       name: "The Murang'a Massacre and the Banana Hill Blues",
       category: "Politics & Elections",
       description: "Post-election violence in Kikuyu heartland",
+      emotionalScore: 9,
       stops: [
         { slug: "Counties/Murang'a/Murang'a County", title: "Fort Hall and the Kikuyu Heartland" },
         { slug: "Elections/2007-08 Post-Election Violence/2007-08 PEV Nairobi Gangs", title: "The Mungiki Factor" },
@@ -858,6 +915,7 @@ export const trails: Trail[] = [
       name: "Presbyterian Kenya: The Church and the Kikuyu",
       category: "Religion & Culture",
       description: "The Church of Scotland Mission and its extraordinary influence",
+      emotionalScore: 3,
       stops: [
         { slug: "Kikuyu/Presbyterian Mission to the Kikuyu", title: "The Scots Arrive" },
         { slug: "Europeans/Church of Scotland Mission", title: "Thogoto and Tumutumu" },
@@ -873,6 +931,7 @@ export const trails: Trail[] = [
       name: "Githunguri: The Independent School Movement",
       category: "Kikuyu",
       description: "Kikuyu-owned schools as anti-colonial resistance",
+      emotionalScore: 4,
       stops: [
         { slug: "Kikuyu/Kikuyu Independent Schools", title: "The Schools We Built Ourselves" },
         { slug: "Kikuyu/Githunguri Teachers College", title: "The Crown Jewel" },
@@ -887,6 +946,7 @@ export const trails: Trail[] = [
       name: "The Kikuyu Diaspora",
       category: "Kikuyu",
       description: "From Kiambu to Kisumu to Westlands: how the Kikuyu colonised Kenya's economy",
+      emotionalScore: 3,
       stops: [
         { slug: "Kikuyu/Kikuyu in Nairobi", title: "The City of the Kikuyu" },
         { slug: "Kikuyu/Kikuyu Expansion into the Rift Valley", title: "Settling the White Highlands" },
@@ -902,6 +962,7 @@ export const trails: Trail[] = [
       name: "Ngai on Kirinyaga: Kikuyu Spirituality",
       category: "Religion & Culture",
       description: "The pre-Christian religious world of the mountain",
+      emotionalScore: 2,
       stops: [
         { slug: "Kikuyu/Kikuyu Traditional Technology", title: "Ngai, the Creator" },
         { slug: "Kikuyu/Mount Kenya Mafia", title: "Kirinyaga: The Mountain of Brightness" },
@@ -917,6 +978,7 @@ export const trails: Trail[] = [
       name: "From the Nile to the Lake",
       category: "Luo",
       description: "The southward migration of the Luo people, where they came from and how they got here",
+      emotionalScore: 2,
       stops: [
         { slug: "Luo/Luo Origins and Migration", title: "Origins and Migration" },
         { slug: "Luo/Luo Origins", title: "Luo Origins" },
@@ -932,6 +994,7 @@ export const trails: Trail[] = [
       name: "The Fishing Economy of Lake Victoria",
       category: "Luo",
       description: "How the lake shaped Luo society, economy, and identity",
+      emotionalScore: 2,
       stops: [
         { slug: "Luo/Lake Victoria Deep Dive", title: "Lake Victoria" },
         { slug: "Luo/Luo Fishing Economy Deep Dive", title: "The Fishing Economy" },
@@ -947,6 +1010,7 @@ export const trails: Trail[] = [
       name: "Luo Funerary Customs",
       category: "Luo",
       description: "Why Luo burial rites became a political battleground in Kenya",
+      emotionalScore: 5,
       stops: [
         { slug: "Luo/Luo Death and Mourning", title: "Death and Mourning" },
         { slug: "Luo/Luo Funeral Traditions", title: "Funeral Traditions" },
@@ -961,6 +1025,7 @@ export const trails: Trail[] = [
       name: "Grace Ogot: The First Voice",
       category: "People & Biography",
       description: "Kenya's first published female author, the nurse who wrote the nation",
+      emotionalScore: 2,
       stops: [
         { slug: "Luo/Grace Ogot Deep Dive", title: "Grace Ogot" },
         { slug: "Luo/Luo Oral Literature", title: "Oral Literature Traditions" },
@@ -975,6 +1040,7 @@ export const trails: Trail[] = [
       name: "Tom Mboya: The Man Who Should Have Been President",
       category: "Luo",
       description: "Labor leader, Pan-Africanist, assassination victim",
+      emotionalScore: 7,
       stops: [
         { slug: "Luo/Tom Mboya", title: "Tom Mboya" },
         { slug: "Elections/1963 Election/1963 Election Tom Mboya", title: "1963 Election Role" },
@@ -991,6 +1057,7 @@ export const trails: Trail[] = [
       name: "Oginga Odinga: Not Yet Uhuru",
       category: "Luo",
       description: "The original opposition, from independence ally to Kenya's first dissident",
+      emotionalScore: 5,
       stops: [
         { slug: "Luo/Jaramogi Oginga Odinga", title: "Jaramogi Oginga Odinga" },
         { slug: "Luo/Oginga Odinga Deep Dive", title: "Oginga Odinga Deep Dive" },
@@ -1007,6 +1074,7 @@ export const trails: Trail[] = [
       name: "Barack Obama Sr: The Brilliant Wastrel",
       category: "People & Biography",
       description: "The Siaya economist whose American son became president",
+      emotionalScore: 3,
       stops: [
         { slug: "Luo/Barack Obama Sr", title: "Barack Obama Sr" },
         { slug: "Counties/Siaya/Barack Obama Sr and Siaya", title: "Barack Obama Sr and Siaya" },
@@ -1021,6 +1089,7 @@ export const trails: Trail[] = [
       name: "Jaramogi's Ghost: The Luo Opposition Tradition",
       category: "Luo",
       description: "How the Luo community became permanently oppositional, and why",
+      emotionalScore: 5,
       stops: [
         { slug: "Luo/Luo Political History", title: "Luo Political History" },
         { slug: "Luo/Luo and the Kenyan State", title: "Luo and the Kenyan State" },
@@ -1036,6 +1105,7 @@ export const trails: Trail[] = [
       name: "Raila Odinga: Five Elections",
       category: "Politics & Elections",
       description: "The man who ran for president five times and what each campaign meant",
+      emotionalScore: 4,
       stops: [
         { slug: "Luo/Raila Odinga", title: "Raila Odinga" },
         { slug: "Luo/Raila Odinga Biography", title: "Raila Biography" },
@@ -1053,6 +1123,7 @@ export const trails: Trail[] = [
       name: "The Kisumu Massacre, 1969",
       category: "Luo",
       description: "When Kenyatta's security forces opened fire on a crowd greeting Odinga",
+      emotionalScore: 10,
       stops: [
         { slug: "Luo/Kisumu Massacre 1969", title: "The Kisumu Massacre 1969" },
         { slug: "Counties/Kisumu/Kisumu Colonial History", title: "Kisumu Under Colonial Rule" },
@@ -1067,6 +1138,7 @@ export const trails: Trail[] = [
       name: "Omena: The Economy of Small Fish",
       category: "Luo",
       description: "The political economy of the Nile perch invasion and the collapse of the traditional fishery",
+      emotionalScore: 4,
       stops: [
         { slug: "Luo/Luo Fishing Economy Deep Dive", title: "The Fishing Economy" },
         { slug: "Counties/Kisumu/Nile Perch Kisumu", title: "The Nile Perch: Ecological Catastrophe" },
@@ -1082,6 +1154,7 @@ export const trails: Trail[] = [
       name: "Rusinga Island: Tom Mboya's Home",
       category: "Luo",
       description: "The island, the fossils, the politics, the annual pilgrimage to his grave",
+      emotionalScore: 3,
       stops: [
         { slug: "Counties/Homa Bay/Rusinga Island", title: "Rusinga Island" },
         { slug: "Luo/Tom Mboya", title: "Tom Mboya" },
@@ -1096,6 +1169,7 @@ export const trails: Trail[] = [
       name: "Luo Benga Music",
       category: "Music & Arts",
       description: "From D.O. Misiani to Ayub Ogada: the guitar music of Lake Victoria",
+      emotionalScore: 2,
       stops: [
         { slug: "Luo/Benga Music Origins", title: "Benga Music Origins" },
         { slug: "Luo/D.O. Misiani", title: "D.O. Misiani" },
@@ -1111,6 +1185,7 @@ export const trails: Trail[] = [
       name: "The Siaya HIV Crisis",
       category: "Luo",
       description: "Why Siaya County has Kenya's highest HIV rate and what happened as a result",
+      emotionalScore: 7,
       stops: [
         { slug: "Luo/HIV_AIDS in Luo Community", title: "HIV/AIDS in Luo Community" },
         { slug: "Luo/Luo and HIV AIDS", title: "Luo and HIV/AIDS" },
@@ -1126,6 +1201,7 @@ export const trails: Trail[] = [
       name: "Luo Christianity: The Legio Maria Church",
       category: "Religion & Culture",
       description: "The breakaway Catholic movement that became one of Kenya's most distinctive religious traditions",
+      emotionalScore: 3,
       stops: [
         { slug: "Luo/Legio Maria Deep Dive", title: "Legio Maria Deep Dive" },
         { slug: "Luo/Luo Independent Churches", title: "Luo Independent Churches" },
@@ -1140,6 +1216,7 @@ export const trails: Trail[] = [
       name: "Nyanza: The Forgotten Province",
       category: "Luo",
       description: "How political marginalization shaped the economic underdevelopment of Luo Kenya",
+      emotionalScore: 5,
       stops: [
         { slug: "Luo/Nyanza Province History", title: "Nyanza Province History" },
         { slug: "Counties/Kisumu/Kisumu Economy", title: "Kisumu's Economy: Fishing, Agriculture, and Regional Decline" },
@@ -1156,6 +1233,7 @@ export const trails: Trail[] = [
       name: "The Luo and the Kikuyu: A Political History",
       category: "Luo",
       description: "The alliance, the rupture, and the recurring pattern of Kenya's central political divide",
+      emotionalScore: 5,
       stops: [
         { slug: "Luo/Luo-Kikuyu Political Relationship", title: "Luo-Kikuyu Political Relationship" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Oginga Odinga", title: "Kenyatta and Oginga Odinga" },
@@ -1172,6 +1250,7 @@ export const trails: Trail[] = [
       name: "Alego: Home of the Obamas",
       category: "Luo",
       description: "Following the Obama Sr story from Kogelo to Harvard and back",
+      emotionalScore: 3,
       stops: [
         { slug: "Counties/Siaya/Kogelo Village", title: "Kogelo Village" },
         { slug: "Luo/Barack Obama Sr", title: "Barack Obama Sr" },
@@ -1187,6 +1266,7 @@ export const trails: Trail[] = [
       name: "The Dholuo Language",
       category: "Luo",
       description: "How language preservation became political resistance",
+      emotionalScore: 3,
       stops: [
         { slug: "Luo/Dholuo Language", title: "Dholuo Language" },
         { slug: "Luo/Luo Language Deep Dive", title: "Luo Language Deep Dive" },
@@ -1201,6 +1281,7 @@ export const trails: Trail[] = [
       name: "Lupita Nyong'o: The Global Luo",
       category: "People & Biography",
       description: "Kisumu to Yale to Hollywood and what it says about modern Kenya",
+      emotionalScore: 2,
       stops: [
         { slug: "Luo/Luo and Sports", title: "Luo Diaspora" },
         { slug: "Luo/Young Luo Identity", title: "Young Luo Identity" },
@@ -1215,6 +1296,7 @@ export const trails: Trail[] = [
       name: "The Great Migration: Following the Wildebeest",
       category: "Conservation & Wildlife",
       description: "From the Serengeti to the Mara and back, the greatest wildlife spectacle on earth",
+      emotionalScore: 2,
       stops: [
         { slug: "Conservation/The Great Migration", title: "The Great Migration" },
         { slug: "Conservation/Maasai Mara National Reserve", title: "Maasai Mara National Reserve" },
@@ -1230,6 +1312,7 @@ export const trails: Trail[] = [
       name: "Ivory Wars: How Kenya Saved Its Elephants",
       category: "Conservation & Wildlife",
       description: "The poaching crisis of the 1970s-80s, the ivory burn, and the recovery",
+      emotionalScore: 6,
       stops: [
         { slug: "Conservation/Kenya's Elephant Story", title: "Kenya's Elephant Story" },
         { slug: "Conservation/Poaching Crisis 1970s-1980s", title: "Poaching Crisis (1970s-1980s)" },
@@ -1246,6 +1329,7 @@ export const trails: Trail[] = [
       name: "The White Rhino: A Species on the Edge",
       category: "Conservation & Wildlife",
       description: "From Ol Pejeta to the last two northern white rhinos on earth",
+      emotionalScore: 5,
       stops: [
         { slug: "Conservation/Rhinoceros in Kenya", title: "Rhinoceros in Kenya" },
         { slug: "Conservation/Rhino Conservation Kenya", title: "Rhino Conservation Kenya" },
@@ -1261,6 +1345,7 @@ export const trails: Trail[] = [
       name: "Richard Leakey: The Man Who Built Conservation",
       category: "Conservation & Wildlife",
       description: "Paleontologist, KWS director, politician, survivor of a plane crash",
+      emotionalScore: 4,
       stops: [
         { slug: "Conservation/Richard Leakey", title: "Richard Leakey" },
         { slug: "Conservation/Richard Leakey KWS", title: "Richard Leakey KWS" },
@@ -1277,6 +1362,7 @@ export const trails: Trail[] = [
       name: "Joy and George Adamson: Born Free",
       category: "Conservation & Wildlife",
       description: "The lions of Meru, the book, the film, Joy's murder at Shaba, George's murder in Kora",
+      emotionalScore: 7,
       stops: [
         { slug: "Conservation/Joy Adamson Born Free", title: "Joy Adamson Born Free" },
         { slug: "Counties/Meru/Meru National Park", title: "Meru National Park" },
@@ -1293,6 +1379,7 @@ export const trails: Trail[] = [
       name: "The Maasai Mara: Paradise and Its Price",
       category: "Conservation & Wildlife",
       description: "How Kenya's most visited reserve works, who benefits, and what's at risk",
+      emotionalScore: 2,
       stops: [
         { slug: "Conservation/Maasai Mara National Reserve", title: "Maasai Mara National Reserve" },
         { slug: "Counties/Narok/Maasai Mara National Reserve", title: "Maasai Mara in Narok County" },
@@ -1308,6 +1395,7 @@ export const trails: Trail[] = [
       name: "Mount Kenya: The Sacred Mountain",
       category: "Conservation & Wildlife",
       description: "The geology, the ecology, the glaciers, the sacred significance to the Kikuyu",
+      emotionalScore: 2,
       stops: [
         { slug: "Conservation/Mount Kenya National Park", title: "Mount Kenya National Park" },
         { slug: "Kikuyu/Mount Kenya Mafia", title: "Mount Kenya and the Kikuyu" },
@@ -1323,6 +1411,7 @@ export const trails: Trail[] = [
       name: "Lake Turkana: The Jade Sea",
       category: "Conservation & Wildlife",
       description: "The world's largest alkaline lake, the wind farm, the fossil sites, the fishing communities",
+      emotionalScore: 3,
       stops: [
         { slug: "Counties/Turkana County/Lake Turkana", title: "Lake Turkana" },
         { slug: "Counties/Turkana County/Lake Turkana Wind Power", title: "Lake Turkana Wind Power" },
@@ -1339,6 +1428,7 @@ export const trails: Trail[] = [
       name: "Tsavo: Lions and Railway",
       category: "Conservation & Wildlife",
       description: "The Man-Eaters of Tsavo, the Uganda Railway, and how a park bigger than Wales was born",
+      emotionalScore: 4,
       stops: [
         { slug: "Conservation/Tsavo East and West", title: "Tsavo East and West" },
         { slug: "Asians/Tsavo Man-Eaters", title: "Tsavo Man-Eaters" },
@@ -1354,6 +1444,7 @@ export const trails: Trail[] = [
       name: "Hell's Gate: Walk Among the Wildlife",
       category: "Conservation & Wildlife",
       description: "Kenya's only walking national park and what happened to make it possible",
+      emotionalScore: 2,
       stops: [
         { slug: "Conservation/Hell's Gate National Park", title: "Hell's Gate National Park" },
         { slug: "Counties/Nakuru/Hell's Gate National Park", title: "Hell's Gate National Park" },
@@ -1368,6 +1459,7 @@ export const trails: Trail[] = [
       name: "The Rhino Ark",
       category: "Conservation & Wildlife",
       description: "Fencing Mount Kenya and the Aberdares to save what's left",
+      emotionalScore: 3,
       stops: [
         { slug: "Conservation/Rhino Conservation Kenya", title: "Rhino Conservation Kenya" },
         { slug: "Conservation/Mount Kenya National Park", title: "Mount Kenya National Park" },
@@ -1382,6 +1474,7 @@ export const trails: Trail[] = [
       name: "David Sheldrick's Elephants",
       category: "Conservation & Wildlife",
       description: "The orphanage, the fostering, the rewilding: how Daphne Sheldrick built a global conservation model",
+      emotionalScore: 2,
       stops: [
         { slug: "Conservation/David Sheldrick", title: "David Sheldrick" },
         { slug: "Conservation/Daphne Sheldrick", title: "Daphne Sheldrick" },
@@ -1397,6 +1490,7 @@ export const trails: Trail[] = [
       name: "Black Rhino Recovery",
       category: "Conservation & Wildlife",
       description: "From 300 survivors to 1,000 and counting",
+      emotionalScore: 4,
       stops: [
         { slug: "Conservation/Rhinoceros in Kenya", title: "Rhinoceros in Kenya" },
         { slug: "Conservation/Rhino Conservation Kenya", title: "Rhino Conservation Kenya" },
@@ -1411,6 +1505,7 @@ export const trails: Trail[] = [
       name: "The Community Conservancy Model",
       category: "Conservation & Wildlife",
       description: "How Northern Kenya saved its wildlife by empowering communities, not fencing them out",
+      emotionalScore: 3,
       stops: [
         { slug: "Conservation/Community Conservancies Model", title: "Community Conservancies Model" },
         { slug: "Conservation/Community Conservation Model", title: "Community Conservation Model" },
@@ -1427,6 +1522,7 @@ export const trails: Trail[] = [
       name: "Lake Nakuru: The Flamingo Mystery",
       category: "Conservation & Wildlife",
       description: "The pink spectacle, the pollution, and the flamingos' disappearance",
+      emotionalScore: 4,
       stops: [
         { slug: "Conservation/Lake Nakuru National Park", title: "Lake Nakuru National Park" },
         { slug: "Counties/Nakuru/Lake Nakuru", title: "Lake Nakuru" },
@@ -1441,6 +1537,7 @@ export const trails: Trail[] = [
       name: "Grevy's Zebra: Racing Extinction",
       category: "Conservation & Wildlife",
       description: "Kenya's most endangered large mammal and the race to save it",
+      emotionalScore: 5,
       stops: [
         { slug: "Conservation/Grevy's Zebra", title: "Grevy's Zebra" },
         { slug: "Counties/Samburu County/Samburu National Reserve County", title: "Samburu National Reserve" },
@@ -1455,6 +1552,7 @@ export const trails: Trail[] = [
       name: "The Tana River Red Colobus",
       category: "Conservation & Wildlife",
       description: "Africa's most endangered monkey, found nowhere else on earth",
+      emotionalScore: 5,
       stops: [
         { slug: "Counties/Tana River/Tana River Red Colobus", title: "Tana River Red Colobus" },
         { slug: "Counties/Tana River/Tana River Primate Reserve", title: "Tana River Primate Reserve" },
@@ -1468,6 +1566,7 @@ export const trails: Trail[] = [
       name: "Kenya Wildlife Service: The KWS Story",
       category: "Conservation & Wildlife",
       description: "From creation to crisis to recovery",
+      emotionalScore: 4,
       stops: [
         { slug: "Conservation/Kenya Wildlife Service", title: "Kenya Wildlife Service" },
         { slug: "Conservation/Richard Leakey KWS", title: "Richard Leakey KWS" },
@@ -1483,6 +1582,7 @@ export const trails: Trail[] = [
       name: "The Trophy Hunting Ban",
       category: "Conservation & Wildlife",
       description: "Kenya's 1977 ban and what happened next",
+      emotionalScore: 4,
       stops: [
         { slug: "Conservation/Trophy Hunting Ban Kenya", title: "Trophy Hunting Ban Kenya" },
         { slug: "Conservation/Conservation Timeline Kenya", title: "Conservation Timeline Kenya" },
@@ -1497,6 +1597,7 @@ export const trails: Trail[] = [
       name: "The Ivory Trade Politics",
       category: "Conservation & Wildlife",
       description: "CITES, the international ivory trade, and Kenya's fight to keep the ban",
+      emotionalScore: 5,
       stops: [
         { slug: "Conservation/Ivory Trade Politics", title: "Ivory Trade Politics" },
         { slug: "Conservation/Kenya and CITES", title: "Kenya and CITES" },
@@ -1513,6 +1614,7 @@ export const trails: Trail[] = [
       name: "The Warrior Society",
       category: "Maasai",
       description: "How the Maasai age-grade system transforms boys into moran warriors and warriors into elders",
+      emotionalScore: 3,
       stops: [
         { slug: "Maasai/Maasai_Age_Sets", title: "The Age-Grade System" },
         { slug: "Maasai/Maasai_Birth_and_Childhood", title: "Birth and Early Years" },
@@ -1529,6 +1631,7 @@ export const trails: Trail[] = [
       name: "Cattle Culture and Identity",
       category: "Maasai",
       description: "Why cattle are not just wealth but the sacred center of Maasai life and worldview",
+      emotionalScore: 2,
       stops: [
         { slug: "Maasai/Maasai_Cattle_Culture", title: "Cattle as Sacred Gift" },
         { slug: "Maasai/Maasai_Pastoralism", title: "Transhumance and Ecological Knowledge" },
@@ -1544,6 +1647,7 @@ export const trails: Trail[] = [
       name: "Systematic Land Loss",
       category: "Maasai",
       description: "From the 1904 colonial treaties through group ranches to today's existential land sales crisis",
+      emotionalScore: 7,
       stops: [
         { slug: "Maasai/Pre-Colonial_Maasai_Territory", title: "The Original Maasai Lands" },
         { slug: "Maasai/The_1904_and_1911_Maasai_Treaties", title: "Colonial Dispossession Begins" },
@@ -1561,6 +1665,7 @@ export const trails: Trail[] = [
       name: "The Maasai Mara Ecosystem",
       category: "Maasai",
       description: "How ancestral Maasai land became Kenya's most famous national reserve and global wildlife spectacle",
+      emotionalScore: 5,
       stops: [
         { slug: "Maasai/The_Maasai_Mara", title: "Ancestral Land Becomes Reserve" },
         { slug: "Conservation/Maasai Mara National Reserve", title: "The National Reserve" },
@@ -1577,6 +1682,7 @@ export const trails: Trail[] = [
       name: "Maasai Women: Builders and Agents",
       category: "Maasai",
       description: "How Maasai women build homes, lead change, and challenge both tradition and outsider assumptions",
+      emotionalScore: 2,
       stops: [
         { slug: "Maasai/Maasai_Women", title: "Women's Traditional Roles" },
         { slug: "Maasai/Maasai_Architecture", title: "Women Build the Enkaji" },
@@ -1593,6 +1699,7 @@ export const trails: Trail[] = [
       name: "Wildlife: From Coexistence to Conflict",
       category: "Maasai",
       description: "The disrupted partnership between Maasai pastoralists and East African wildlife",
+      emotionalScore: 5,
       stops: [
         { slug: "Maasai/Wildlife_and_Maasai_Coexistence", title: "Traditional Coexistence" },
         { slug: "Maasai/Lion_Killing_and_Conservation", title: "Lions: From Rite to Crime" },
@@ -1608,6 +1715,7 @@ export const trails: Trail[] = [
       name: "Colonial Encounter and Resistance",
       category: "Maasai",
       description: "How the Maasai navigated British colonialism through both resistance and strategic accommodation",
+      emotionalScore: 6,
       stops: [
         { slug: "Maasai/Pre-Colonial_Maasai_Territory", title: "Before the British" },
         { slug: "Maasai/Maasai_Colonial_Resistance_and_Accommodation", title: "Resistance and Pragmatism" },
@@ -1623,6 +1731,7 @@ export const trails: Trail[] = [
       name: "The Maasai Brand",
       category: "Maasai",
       description: "How the Maasai became Kenya's global icon while remaining politically marginalized at home",
+      emotionalScore: 4,
       stops: [
         { slug: "Maasai/Maasai_Brand", title: "The Global Icon" },
         { slug: "Maasai/Maasai_Cultural_Appropriation", title: "When the Brand Is Stolen" },
@@ -1638,6 +1747,7 @@ export const trails: Trail[] = [
       name: "Pastoralism Under Pressure",
       category: "Maasai",
       description: "How climate change, land sales, and development threaten the viability of Maasai pastoralism",
+      emotionalScore: 5,
       stops: [
         { slug: "Maasai/Maasai_Pastoralism", title: "Traditional Pastoral Practice" },
         { slug: "Maasai/Water_and_Maasai_Lands", title: "Water: The Growing Crisis" },
@@ -1653,6 +1763,7 @@ export const trails: Trail[] = [
       name: "The Beadwork Economy",
       category: "Maasai",
       description: "From women's art to commercial industry, how beadwork became both cultural expression and income",
+      emotionalScore: 2,
       stops: [
         { slug: "Maasai/Maasai_Beadwork", title: "Color, Meaning, and Identity" },
         { slug: "Maasai/Maasai_Visual_Culture", title: "Aesthetic Traditions" },
@@ -1668,6 +1779,7 @@ export const trails: Trail[] = [
       name: "Maasai Across Borders",
       category: "Maasai",
       description: "The Maasai community spans Kenya and Tanzania, with different colonial histories and modern fates",
+      emotionalScore: 4,
       stops: [
         { slug: "Maasai/Pre-Colonial_Maasai_Territory", title: "One Territory, No Borders" },
         { slug: "Maasai/The_Maasai_in_Tanzania", title: "Cross-Border Communities" },
@@ -1682,6 +1794,7 @@ export const trails: Trail[] = [
       name: "The Education Journey",
       category: "Maasai",
       description: "From resistance to enrollment, how Maasai attitudes toward formal education have shifted",
+      emotionalScore: 3,
       stops: [
         { slug: "Maasai/Maasai_Education", title: "From Resistance to Enrollment" },
         { slug: "Maasai/Maasai_Birth_and_Childhood", title: "Traditional Socialization" },
@@ -1697,6 +1810,7 @@ export const trails: Trail[] = [
       name: "The Laibon System",
       category: "Maasai",
       description: "Spiritual authority, prophecy, and political power in Maasai society from past to present",
+      emotionalScore: 3,
       stops: [
         { slug: "Maasai/The_Laibon", title: "Prophet and Spiritual Authority" },
         { slug: "Maasai/Maasai_Religion", title: "Enkai and the Sacred" },
@@ -1711,6 +1825,7 @@ export const trails: Trail[] = [
       name: "Maasai in Tourism",
       category: "Maasai",
       description: "The complex reality of being Kenya's tourism icon, from cultural performances to conservation economics",
+      emotionalScore: 4,
       stops: [
         { slug: "Maasai/Maasai_and_Tourism", title: "Icon, Spectacle, Reality" },
         { slug: "Maasai/Maasai_Brand", title: "The Maasai as Global Brand" },
@@ -1726,6 +1841,7 @@ export const trails: Trail[] = [
       name: "The Iloikop Wars",
       category: "Maasai",
       description: "The 19th century civil wars between Maasai groups that weakened them before colonial conquest",
+      emotionalScore: 7,
       stops: [
         { slug: "Maasai/Pre-Colonial_Maasai_Territory", title: "Before the Wars" },
         { slug: "Maasai/The_Iloikop_Wars", title: "19th Century Civil War" },
@@ -1740,6 +1856,7 @@ export const trails: Trail[] = [
       name: "Marriage and Family",
       category: "Maasai",
       description: "Arranged marriages, bridewealth, polygamy, and how Maasai family structures are changing",
+      emotionalScore: 4,
       stops: [
         { slug: "Maasai/Maasai_Marriage", title: "Marriage Arrangements and Agency" },
         { slug: "Maasai/Maasai_Birth_and_Childhood", title: "Childhood and Socialization" },
@@ -1755,6 +1872,7 @@ export const trails: Trail[] = [
       name: "Religion and Cosmology",
       category: "Maasai",
       description: "Enkai, the sacred in nature, and how Christianity is reshaping Maasai spiritual life",
+      emotionalScore: 3,
       stops: [
         { slug: "Maasai/Maasai_Religion", title: "Enkai and the Sacred in Nature" },
         { slug: "Maasai/The_Laibon", title: "Spiritual Authority" },
@@ -1770,6 +1888,7 @@ export const trails: Trail[] = [
       name: "Food and Drought",
       category: "Maasai",
       description: "How drought, climate change, and food insecurity are forcing adaptation in Maasai diet and livelihood",
+      emotionalScore: 6,
       stops: [
         { slug: "Maasai/Maasai_Cattle_Culture", title: "The Traditional Diet" },
         { slug: "Maasai/Maasai_Pastoralism", title: "Pastoral Mobility" },
@@ -1785,6 +1904,7 @@ export const trails: Trail[] = [
       name: "The Amboseli Story",
       category: "Maasai",
       description: "Elephants, long-term research, Maasai land rights, and the complex politics of Kenya's most researched park",
+      emotionalScore: 4,
       stops: [
         { slug: "Maasai/Amboseli", title: "Maasai Land Becomes Park" },
         { slug: "Conservation/Amboseli National Park", title: "The National Park" },
@@ -1800,6 +1920,7 @@ export const trails: Trail[] = [
       name: "Urban Maasai",
       category: "Maasai",
       description: "From rural pastoralists to Nairobi security guards, how Maasai navigate urban life while maintaining identity",
+      emotionalScore: 4,
       stops: [
         { slug: "Maasai/Maasai_Warriors_in_Modern_Economy", title: "From Moran to Wage Labor" },
         { slug: "Maasai/Maasai_Men_in_Security", title: "Security Work in the City" },
@@ -1816,6 +1937,7 @@ export const trails: Trail[] = [
     name: "The Song That Crossed the World",
     category: "Music & Arts",
     description: "Malaika's journey from Kenya to Harry Belafonte's stage, disputed authorship, and the homecoming of Africa's most-covered song.",
+    emotionalScore: 3,
     stops: [
       { slug: "Music/Fadhili Williams", title: "Fadhili Williams" },
       { slug: "Music/Harry Belafonte Kenya Connection", title: "Harry Belafonte's Cover" },
@@ -1831,6 +1953,7 @@ export const trails: Trail[] = [
     name: "Sounds of the Mau Mau",
     category: "Music & Arts",
     description: "From Kikuyu initiation songs to coded resistance anthems in the forest, the music they sang when words were weapons.",
+    emotionalScore: 6,
     stops: [
       { slug: "Kikuyu/Kikuyu Traditional Music", title: "Before the War" },
       { slug: "Music/Mau Mau Songs and the Forest", title: "Songs in the Forest" },
@@ -1846,6 +1969,7 @@ export const trails: Trail[] = [
     name: "Benga: Kenya's Electric Revolution",
     category: "Music & Arts",
     description: "How a Luo village music style with a guitar plugged in became the national soundtrack in one generation.",
+    emotionalScore: 2,
     stops: [
       { slug: "Luo/Nyatiti", title: "The Luo Lyre" },
       { slug: "Music/Luo Benga Origins", title: "Birth of Benga" },
@@ -1862,6 +1986,7 @@ export const trails: Trail[] = [
     name: "The Voice They Tried to Silence",
     category: "Music & Arts",
     description: "D.O. Misiani's political songs, his clash with Moi's government, and how they tried to erase music that spoke too loudly.",
+    emotionalScore: 6,
     stops: [
       { slug: "Music/D.O. Misiani", title: "The Musician" },
       { slug: "Music/Benga and Political Protest", title: "Songs Against Power" },
@@ -1877,6 +2002,7 @@ export const trails: Trail[] = [
     name: "A Thousand Years of Coastal Sound",
     category: "Music & Arts",
     description: "Arab traders, the oud arriving in Mombasa, Swahili taarab — how the Indian Ocean made music that is entirely Kenyan.",
+    emotionalScore: 2,
     stops: [
       { slug: "Swahili/Indian Ocean Climate and the Coast", title: "The Ocean Highway" },
       { slug: "Swahili/Arab Settlement on the Coast", title: "Arab Settlement" },
@@ -1892,6 +2018,7 @@ export const trails: Trail[] = [
     name: "From Cattle Camp to Concert Hall",
     category: "Music & Arts",
     description: "How Maasai vocal music — purely unaccompanied, rooted in warrior culture — reached world music stages without losing its soul.",
+    emotionalScore: 2,
     stops: [
       { slug: "Maasai/Maasai_Music_and_Song", title: "Maasai Vocal Tradition" },
       { slug: "Maasai/Maasai_Warrior_Initiation", title: "Warrior Songs" },
@@ -1907,6 +2034,7 @@ export const trails: Trail[] = [
     name: "The Drum That Built a Nation",
     category: "Music & Arts",
     description: "Percussion traditions from 40+ communities converging into something called 'Kenyan music' — the rhythm of independence.",
+    emotionalScore: 2,
     stops: [
       { slug: "Music/Musical Instruments of Kenya - Percussion", title: "Kenya's Drums" },
       { slug: "Luhya/Luhya Music Traditions", title: "Luhya Isukuti" },
@@ -1922,6 +2050,7 @@ export const trails: Trail[] = [
     name: "Gengetone: The Streets Speak",
     category: "Music & Arts",
     description: "Five broke kids from Nairobi's estates made a genre, got condemned by Parliament, played at State House, and changed Kenyan pop.",
+    emotionalScore: 3,
     stops: [
       { slug: "Music/Gengetone Movement", title: "The Gengetone Wave" },
       { slug: "Cross-Ethnic/Sheng", title: "Sheng Language" },
@@ -1937,6 +2066,7 @@ export const trails: Trail[] = [
     name: "Gospel Takeover",
     category: "Music & Arts",
     description: "How Christian music went from mission hymnals to Kenya's dominant popular genre in 40 years.",
+    emotionalScore: 2,
     stops: [
       { slug: "Music/Church Music Africanization", title: "Africanizing Hymns" },
       { slug: "Music/Mission Church Choirs Kenya", title: "Mission Choirs" },
@@ -1952,6 +2082,7 @@ export const trails: Trail[] = [
     name: "The Nyatiti Player and the President",
     category: "Music & Arts",
     description: "The Luo lyre's journey from ritual instrument to Ayub Ogada's global career — what it means in a modern Luo household.",
+    emotionalScore: 2,
     stops: [
       { slug: "Luo/Nyatiti", title: "The Luo Lyre" },
       { slug: "Music/The Nyatiti", title: "The Instrument" },
@@ -1967,6 +2098,7 @@ export const trails: Trail[] = [
     name: "Mugithi Nights: The Bar Where Kenya Talks",
     category: "Music & Arts",
     description: "The Kikuyu roadside music tradition that is more political than any parliament — John De Mathew's life and death.",
+    emotionalScore: 4,
     stops: [
       { slug: "Music/Kikuyu Mugithi Music", title: "Mugithi Music" },
       { slug: "Music/Mugithi Music Origins", title: "Birth of Mugithi" },
@@ -1982,6 +2114,7 @@ export const trails: Trail[] = [
     name: "Piracy Killed the Star",
     category: "Music & Arts",
     description: "How cassette piracy in the 1980s-90s destroyed the economics of Kenyan music and why it still echoes today.",
+    emotionalScore: 4,
     stops: [
       { slug: "Music/Recording Industry Kenya 1960s-1970s", title: "Golden Age of Recording" },
       { slug: "Music/Piracy and the Kenyan Music Industry", title: "The Piracy Plague" },
@@ -1997,6 +2130,7 @@ export const trails: Trail[] = [
     name: "Beadwork and Song: Maasai Women's World",
     category: "Music & Arts",
     description: "Maasai women's music traditions run parallel to men's — what they sing in ceremonies that men never attend.",
+    emotionalScore: 2,
     stops: [
       { slug: "Maasai/Maasai_Music_and_Song", title: "Maasai Song Traditions" },
       { slug: "Maasai/Maasai_Women", title: "Maasai Women" },
@@ -2012,6 +2146,7 @@ export const trails: Trail[] = [
     name: "FM Radio Changed Everything",
     category: "Music & Arts",
     description: "Capital FM arrives in 1996, the playlist wars begin, and two stations rewire what Kenyans listen to within a decade.",
+    emotionalScore: 2,
     stops: [
       { slug: "Music/Radio Voice of Kenya Origins", title: "VOK Monopoly" },
       { slug: "Music/FM Radio Revolution Kenya 1990s", title: "FM Radio Arrives" },
@@ -2027,6 +2162,7 @@ export const trails: Trail[] = [
     name: "Sauti Sol: How Four Boys from Nairobi Went Global",
     category: "Music & Arts",
     description: "The full arc from school choir to Grammy nomination to African pop royalty.",
+    emotionalScore: 2,
     stops: [
       { slug: "Music/Sauti Sol", title: "Sauti Sol" },
       { slug: "Music/Kenyan Music Videos Origins", title: "Music Video Era" },
@@ -2042,6 +2178,7 @@ export const trails: Trail[] = [
     name: "The Taarab Queens",
     category: "Music & Arts",
     description: "How women performers dominated Swahili coastal music while navigating a conservative society.",
+    emotionalScore: 3,
     stops: [
       { slug: "Music/Mombasa Taarab", title: "Mombasa Taarab" },
       { slug: "Music/East African Indian Ocean Taarab History", title: "Taarab History" },
@@ -2057,6 +2194,7 @@ export const trails: Trail[] = [
     name: "Music Under Moi",
     category: "Music & Arts",
     description: "Which songs got banned, which musicians were jailed or exiled, how others found coded ways to criticize power.",
+    emotionalScore: 7,
     stops: [
       { slug: "Music/Moi Era Music and Censorship", title: "Moi's Censorship" },
       { slug: "Presidencies/Daniel arap Moi Presidency/Moi and the Media", title: "Media Control" },
@@ -2072,6 +2210,7 @@ export const trails: Trail[] = [
     name: "Isukuti: The Drum UNESCO Almost Lost",
     category: "Music & Arts",
     description: "The Luhya Isukuti drum tradition, why it was nearly extinct, the effort to save it.",
+    emotionalScore: 3,
     stops: [
       { slug: "Music/Luhya Isukuti Drum Music", title: "The Isukuti Drum" },
       { slug: "Luhya/Luhya Music Traditions", title: "Luhya Music" },
@@ -2087,6 +2226,7 @@ export const trails: Trail[] = [
     name: "Sheng Speaks: How a Street Language Became Pop Culture",
     category: "Music & Arts",
     description: "Sheng's journey from Eastlands slang to Genge's lingua franca to mainstream Kenyan identity.",
+    emotionalScore: 2,
     stops: [
       { slug: "Cross-Ethnic/Sheng", title: "Sheng Language" },
       { slug: "Cross-Ethnic/Sheng Evolution", title: "Sheng Evolution" },
@@ -2102,6 +2242,7 @@ export const trails: Trail[] = [
     name: "The Independence Songbook",
     category: "Music & Arts",
     description: "The music written for Kenya's independence, the national anthem story, what played at Uhuru Gardens on December 12, 1963.",
+    emotionalScore: 2,
     stops: [
       { slug: "Music/Independence Anthems Kenya", title: "Independence Songs" },
       { slug: "Music/National Anthem Kenya Creation", title: "National Anthem" },
