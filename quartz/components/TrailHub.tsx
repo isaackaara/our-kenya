@@ -265,7 +265,7 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     name: t.name, 
     category: t.category,
     description: t.description,
-    firstStop: '/Trails/' + t.name.replace(/\\s+/g, '-').replace(/[^a-zA-Z0-9:-]/g, '')
+    firstStop: t.stops.length > 0 ? '/' + t.stops[0].slug.split('/').map((seg: string) => seg.replace(/\s/g, '-').replace(/&/g, '-and-').replace(/%/g, '-percent')).join('/') : '/Trails/' + t.name.replace(/\\s+/g, '-').replace(/[^a-zA-Z0-9:-]/g, '')
   })))};
   
   const total = trailData.length;
