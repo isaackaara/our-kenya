@@ -450,11 +450,17 @@ function buildKnowledgeGraphs() {
 
   const W = graphWrap.clientWidth || 700
 
-  // Zoom
+  // Zoom — only on Ctrl+wheel or trackpad pinch; normal scroll passes through to page
   const zoomBehavior = zoom<SVGSVGElement, unknown>()
     .scaleExtent([0.3, 3])
+    .filter((event) => {
+      if (event.type === "wheel") return event.ctrlKey || event.metaKey
+      return !event.button
+    })
     .on("zoom", (event) => gRoot.attr("transform", event.transform))
   svg.call(zoomBehavior as any)
+  // Prevent D3 from swallowing wheel events that aren't zoom-intended
+  svgEl.addEventListener("wheel", (e) => { if (!e.ctrlKey && !e.metaKey) e.stopPropagation() }, { passive: true })
 
   // Defs for markers - create once
   const defs = svg.append("defs")
