@@ -9,8 +9,9 @@
     style.textContent = [
       ".ok-trail-arc { margin-top: 6px; display: flex; flex-direction: column; gap: 3px; }",
       ".ok-arc-row { display: flex; align-items: center; gap: 6px; }",
-      ".ok-arc-label { font-size: 10px; color: var(--gray); width: 36px; flex-shrink: 0;",
-      "  font-family: Inter, system-ui, sans-serif; text-transform: uppercase; letter-spacing: 0.05em; }",
+      ".ok-arc-label { font-size: 10px; color: var(--gray); width: 46px; flex-shrink: 0;",
+      "  font-family: Inter, system-ui, sans-serif; text-transform: uppercase; letter-spacing: 0.05em;",
+      "  white-space: nowrap; overflow: hidden; }",
       ".ok-arc-bar { flex: 1; height: 4px; background: var(--lightgray); border-radius: 2px; overflow: hidden; }",
       ".ok-arc-fill { height: 100%; border-radius: 2px; transition: width 0.3s ease; }",
       ".ok-arc-emotion { background: linear-gradient(to right, #c2603a, #8b1a1a); }",

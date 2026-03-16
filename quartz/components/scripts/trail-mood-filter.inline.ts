@@ -18,15 +18,15 @@
       ".ok-mood-filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1.25rem; }",
       ".ok-mood-pill {",
       "  padding: 0.4rem 0.9rem; font-size: 0.8rem; font-weight: 500;",
-      "  background: var(--light); color: var(--darkgray);",
-      "  border: 1px solid var(--lightgray); border-radius: 20px;",
+      "  background: var(--light); color: var(--dark);",
+      "  border: 1px solid var(--lightgray); border-radius: 4px;",
       "  cursor: pointer; white-space: nowrap; min-height: 32px;",
       "  transition: all 0.15s; font-family: inherit;",
       "  display: inline-flex; align-items: center; gap: 4px;",
       "}",
       ".ok-mood-pill:hover { border-color: var(--secondary); color: var(--secondary); }",
       ".ok-mood-pill.active {",
-      "  background: #1b3d2f; color: #f5f0e8; border-color: #1b3d2f;",
+      "  background: var(--secondary); color: white; border-color: var(--secondary);",
       "}"
     ].join("\n");
     document.head.appendChild(style);

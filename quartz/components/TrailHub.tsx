@@ -211,18 +211,20 @@ const TrailHubCSS = `
   gap: 0.4rem;
   font-size: 0.875rem;
   font-weight: 600;
-  color: #f5f0e8;
-  background: var(--secondary);
+  color: var(--dark);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
   text-decoration: none;
   padding: 0.5rem 1rem;
-  border-radius: 6px;
+  border-radius: 4px;
   margin-top: 0.5rem;
-  transition: background 0.15s ease, opacity 0.15s ease;
+  transition: background 0.15s ease, border-color 0.15s ease;
   letter-spacing: 0.01em;
 }
 
 .trail-card-link:hover {
-  opacity: 0.88;
+  border-color: var(--secondary);
+  color: var(--secondary);
   text-decoration: none;
 }
 
