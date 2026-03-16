@@ -303,3 +303,24 @@ window.addEventListener("resize", function () {
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
   return collapsed ? folderElement.classList.remove("open") : folderElement.classList.add("open")
 }
+
+// On initial page load the nav event may fire before this module is evaluated.
+// Run mobile explorer init immediately so hide-until-loaded is always removed.
+function initMobileExplorer() {
+  for (const explorer of document.getElementsByClassName("explorer")) {
+    const mobileExplorer = explorer.querySelector(".mobile-explorer")
+    if (!mobileExplorer) continue
+    if (mobileExplorer.checkVisibility()) {
+      explorer.classList.add("collapsed")
+      explorer.setAttribute("aria-expanded", "false")
+      document.documentElement.classList.remove("mobile-no-scroll")
+    }
+    mobileExplorer.classList.remove("hide-until-loaded")
+  }
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initMobileExplorer)
+} else {
+  initMobileExplorer()
+}
