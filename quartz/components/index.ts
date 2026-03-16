@@ -37,6 +37,7 @@ import TrailScores from "./TrailScores"
 import TrailMoodFilter from "./TrailMoodFilter"
 import DailyNote from "./DailyNote"
 import ExploreTree from "./ExploreTree"
+import SiteNav from "./SiteNav"
 
 export {
   ArticleTitle,
@@ -79,4 +80,5 @@ export {
   TrailMoodFilter,
   DailyNote,
   ExploreTree,
+  SiteNav,
 }

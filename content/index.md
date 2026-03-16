@@ -78,11 +78,15 @@ Every theme has its own index. Start at any node - the graph takes you further.
 <p><a href="STORY-TRAILS">Browse all Story Trails</a></p>
 </div>
 
+<div class="ok-graph-section">
+
 ## Explore Kenya's Story
 
 Fifty-eight knowledge graphs. Each one a different corner of Kenya's history. Click any node to read the full story.
 
 <div id="ok-knowledge-graphs"></div>
+
+</div>
 
 ## How this works
 

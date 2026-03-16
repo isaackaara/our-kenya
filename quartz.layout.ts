@@ -83,6 +83,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.SiteNav(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),

@@ -439,3 +439,113 @@ body:has(article.homepage) .content-meta {
     margin-left: 0.5rem;
   }
 }
+
+// ── Site Nav (desktop links + mobile burger) ──────────────────────────────
+
+.ok-sitenav-wrapper {
+  position: relative;
+}
+
+// Desktop: nav links below search
+.ok-sitenav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  margin-top: 1rem;
+
+  @media (max-width: 800px) {
+    display: none;
+  }
+}
+
+.ok-sitenav-link {
+  display: block;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.88rem;
+  color: var(--darkgray);
+  text-decoration: none;
+  border-radius: 4px;
+
+  &:hover {
+    color: var(--dark);
+    background: var(--lightgray);
+    text-decoration: none;
+  }
+}
+
+// Mobile: burger button
+.ok-burger {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  color: var(--darkgray);
+  line-height: 1;
+
+  @media (max-width: 800px) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+// Mobile: full-screen overlay menu
+.ok-nav-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: var(--light);
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+
+  &.is-open {
+    display: flex;
+  }
+}
+
+.ok-nav-close {
+  align-self: flex-end;
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  color: var(--darkgray);
+  padding: 0.25rem 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.ok-nav-overlay-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ok-nav-overlay-link {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--dark);
+  text-decoration: none;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--lightgray);
+
+  &:hover {
+    color: var(--secondary);
+    text-decoration: none;
+  }
+}
+
+// ── Knowledge graph section container ────────────────────────────────────
+
+.ok-graph-section {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1.75rem;
+  margin: 2.5rem 0;
+  background: var(--light);
+
+  h2 {
+    margin-top: 0;
+  }
+}
