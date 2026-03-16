@@ -1,4 +1,4 @@
 <div class="trail-intro-page">
 <p class="trail-intro-paragraph">Daniel arap Moi was a teacher in Baringo when most of Kenya's future leaders were agitating for independence. He joined politics late, became vice president under Jomo Kenyatta because he seemed unthreatening, and took office in August 1978 when Kenyatta died. The first years were marked by cautious reform. Then came the coup attempt in 1982, and Moi's government turned inward. By the 1990s, detention without trial had returned, the press was muzzled, and a entire generation had known only one president. This trail traces how a modest man from Kabarak became the face of authoritarian rule in Kenya.</p>
-<a href="/Presidencies/Daniel-arap-Moi-Presidency/Moi-Early-Life-and-Rise" class="trail-begin-btn">Begin Trail →</a>
+<a href="/Presidencies/Daniel-arap-Moi-Presidency/Moi-Personal-Style-and-Image" class="trail-begin-btn">Begin Trail →</a>
 </div>
