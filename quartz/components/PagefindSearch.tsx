@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+// @ts-ignore
+import script from "./scripts/pagefind-search.inline"
 
 const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
@@ -23,86 +25,10 @@ const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps)
           <div id="pagefind-search"></div>
         </div>
       </div>
-      <script dangerouslySetInnerHTML={{ __html: `
-(function() {
-  let loaded = false;
-  function setup() {
-    const trigger = document.getElementById('pagefind-trigger');
-    const container = document.getElementById('pagefind-container');
-    const closeBtn = document.getElementById('pagefind-close');
-    if (!trigger || !container || !closeBtn) return;
-
-    trigger.onclick = async function() {
-      container.style.display = '';
-      container.style.pointerEvents = 'auto';
-      if (!loaded) {
-        loaded = true;
-        const link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = '/pagefind/pagefind-ui.css';
-        document.head.appendChild(link);
-        const script = document.createElement('script');
-        script.src = '/pagefind/pagefind-ui.js';
-        script.onload = function() {
-          new PagefindUI({ element: '#pagefind-search', showSubResults: true });
-          setTimeout(function() {
-            var input = document.querySelector('#pagefind-search input');
-            if (input) input.focus();
-            var searchEl = document.getElementById('pagefind-search');
-            if (searchEl) {
-              var emptyObserver = new MutationObserver(function() {
-                var existing = searchEl.querySelector('.ok-search-empty');
-                var message = searchEl.querySelector('.pagefind-ui__message');
-                var results = searchEl.querySelectorAll('.pagefind-ui__result');
-                var searchInput = searchEl.querySelector('input');
-                var hasQuery = searchInput && searchInput.value.trim() !== '';
-                if (message && results.length === 0 && hasQuery) {
-                  if (!existing) {
-                    var div = document.createElement('div');
-                    div.className = 'ok-search-empty';
-                    div.innerHTML = '<p>We don\'t have anything on this yet.</p><p>ourkenya.com is a living archive. If this story matters, help us tell it.</p><a href="/contribute" class="ok-btn ok-btn-primary">Suggest this topic \u2192</a>';
-                    searchEl.appendChild(div);
-                  }
-                } else {
-                  if (existing) existing.remove();
-                }
-              });
-              emptyObserver.observe(searchEl, { childList: true, subtree: true });
-            }
-          }, 100);
-        };
-        document.head.appendChild(script);
-      } else {
-        setTimeout(function() {
-          var input = document.querySelector('#pagefind-search input');
-          if (input) input.focus();
-        }, 100);
-      }
-    };
-
-    closeBtn.onclick = function() {
-      container.style.display = 'none';
-      container.style.pointerEvents = 'none';
-    };
-
-    container.onclick = function(e) {
-      if (e.target === container) {
-        container.style.display = 'none';
-        container.style.pointerEvents = 'none';
-      }
-    };
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', setup);
-  } else {
-    setup();
-  }
-  document.addEventListener('nav', function() { loaded = false; setup(); });
-})();
-      `}} />
     </div>
   )
 }
+
+PagefindSearch.afterDOMLoaded = script
 
 export default (() => PagefindSearch) satisfies QuartzComponentConstructor
