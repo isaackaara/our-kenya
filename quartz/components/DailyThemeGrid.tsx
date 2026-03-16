@@ -59,6 +59,11 @@ DailyThemeGrid.afterDOMLoaded = `
   }
   render();
   document.addEventListener("nav", render);
+  // Fallback: module evaluation may race with SPA boot - fire again once page settles
+  if (document.readyState !== "complete") {
+    window.addEventListener("load", render);
+  }
+  setTimeout(render, 50);
 })();
 `
 
