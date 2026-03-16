@@ -1,13 +1,13 @@
 ---
 title: Our Kenya
-description: History written by Kenyans, for everyone. 3,900 notes on Kenya's counties, peoples, elections, and presidencies.
+description: History written by Kenyans, for everyone. 6,547 notes, 131 trails, and 56,000 connections across Kenya's history.
 cssclasses:
   - homepage
 ---
 
 <div class="ok-hero">
 <p class="ok-tagline">History written by Kenyans, for everyone.</p>
-<p class="ok-intro">3,900 notes. 47 counties. Five presidencies. Hundreds of ethnic stories. One connected knowledge graph of Kenya's past - and present.</p>
+<p class="ok-intro">6,547 notes. 56,000 connections. 131 trails through Kenya's history. One knowledge graph.</p>
 <div class="ok-cta-row">
 <a href="Kenya" class="ok-cta-primary">Start exploring</a>
 <a href="STORY-TRAILS" class="ok-cta-secondary">Browse Story Trails</a>
