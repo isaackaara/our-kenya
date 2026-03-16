@@ -28,9 +28,26 @@ const TrailHubCSS = `
 
 .trail-hub-categories {
   display: flex;
-  flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 1.5rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 8px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--lightgray) transparent;
+}
+
+.trail-hub-categories::-webkit-scrollbar {
+  height: 4px;
+}
+
+.trail-hub-categories::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.trail-hub-categories::-webkit-scrollbar-thumb {
+  background: var(--lightgray);
+  border-radius: 2px;
 }
 
 .trail-category-tab {
