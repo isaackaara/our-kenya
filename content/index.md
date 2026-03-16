@@ -9,8 +9,8 @@ cssclasses:
 <p class="ok-tagline">Kenya's history, written together.</p>
 <p class="ok-intro">6,547 notes. 56,000 connections. 131 trails through Kenya's history. One knowledge graph. This archive is incomplete. Every story missing is an invitation.</p>
 <div class="ok-cta-row">
-<a href="contribute" class="ok-cta-primary">Help write the rest</a>
-<a href="Kenya" class="ok-cta-secondary">Start exploring</a>
+<a href="contribute" class="ok-cta-primary">Help Write the Rest</a>
+<a href="Kenya" class="ok-cta-secondary">Start Exploring</a>
 <a href="STORY-TRAILS" class="ok-cta-outline">Browse Story Trails</a>
 </div>
 </div>
@@ -21,7 +21,7 @@ cssclasses:
 
 ## Explore by storyline
 
-Ten journeys that changed how we see Kenya. Each one pulls you deeper.
+141 journeys that changed how we see Kenya. Each one pulls you deeper.
 
 <div class="ok-verticals">
 <a href="/Trails/The-Reluctant-Father" class="ok-vertical-card">

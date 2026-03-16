@@ -1,0 +1,4 @@
+<div class="trail-intro-page">
+<p class="trail-intro-paragraph">Wangari Maathai planted her first trees in her backyard in Karura in 1977, seven seedlings meant to stop soil erosion. A decade later, the Green Belt Movement had mobilized thousands of women across Kenya to plant millions of trees, turning environmental restoration into a form of political resistance. Moi's government saw the threat: women organizing outside state control, claiming public land, challenging the patronage system that clear-cut forests for profit. Maathai was beaten, detained, vilified in parliament. She kept planting. This trail follows her path from the slopes of Mount Kenya to the Nobel Prize, through the years when planting trees was a subversive act.</p>
+<a href="/Kikuyu/Wangari-Maathai" class="trail-begin-btn">Begin Trail →</a>
+</div>

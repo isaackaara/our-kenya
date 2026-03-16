@@ -1,0 +1,4 @@
+<div class="trail-intro-page">
+<p class="trail-intro-paragraph">Oginga Odinga was vice president when Kenya became a republic in 1964, the most powerful Luo in government, the man many thought would succeed Kenyatta. He resigned in 1966, formed an opposition party, and spent the rest of his life trying to return to power. He never did. Joseph Murumbi lasted seven months as vice president before he quit in frustration. Mwai Kibaki served for a decade under Moi, always the understudy, never the lead. This trail examines the men who held Kenya's second-highest office and found themselves sidelined, marginalized, or forced out before they could rise further.</p>
+<a href="/Political-Movements/Oginga-Odinga" class="trail-begin-btn">Begin Trail →</a>
+</div>
