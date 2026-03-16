@@ -12,8 +12,8 @@ The free maternity policy implemented in 2013 increased facility delivery rates 
 [[Maternal Mortality Reduction|Maternal Mortality Reduction]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
-[[Poverty and Health|Poverty]]
+[[Health|Hospital Infrastructure Standards]]
+[[Poverty|Poverty]]
 [[Reproductive Health Services|Reproductive Health Services]]
 
 ## Sources

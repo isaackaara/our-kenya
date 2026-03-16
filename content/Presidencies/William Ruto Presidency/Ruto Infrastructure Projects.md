@@ -7,7 +7,7 @@ The infrastructure agenda has been complicated by questions about corruption in 
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Infrastructure|Kenya Infrastructure]]
+- [[IT Infrastructure Kenya|Kenya Infrastructure]]
 - [[Standard Gauge Railway|Standard Gauge Railway]]
 - [[Kenya Development Projects|Kenya Development Projects]]
 

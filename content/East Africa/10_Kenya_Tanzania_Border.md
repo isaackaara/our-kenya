@@ -63,16 +63,16 @@ Today, the [[Kenya]] at Namanga is one of [[East African Community]]'s busiest b
 - Passenger traffic (buses and matatus connecting Nairobi to Dar es Salaam)
 - Bilateral commerce (Kenya's industrial goods flowing south, Tanzania's minerals flowing north)
 
-However, non-tariff barriers, inefficient customs procedures, and occasional trade disputes create friction despite the [[EAC Common Market]] Protocol.
+However, non-tariff barriers, inefficient customs procedures, and occasional trade disputes create friction despite the [[5_EAC_Common_Market]] Protocol.
 
 ## See Also
 
 - [[East Africa]]
 - [[Maasai]]
-- [[Mount Kilimanjaro]]
-- [[EAC Common Market]]
+- [[17_Mount_Kilimanjaro]]
+- [[5_EAC_Common_Market]]
 - [[East Africa]]
-- [[EAC Political Federation]]
+- [[6_EAC_Political_Federation]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -18,7 +18,7 @@ County government prioritizes pastoral support, drought management, education ex
 - [[Samburu Education]]
 - [[Samburu Health]]
 - [[Samburu Pastoralism]]
-- [[Governance in Kenya]]
+- [[Women in County Governance Kenya]]
 
 ## Sources
 

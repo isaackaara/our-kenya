@@ -22,7 +22,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Transportation Infrastructure]]
 - [[Kenya Economic Overview]]
 - [[East Africa]]
-- [[Pipeline Infrastructure Kenya]]
+- [[IT Infrastructure Kenya]]
 
 ## Sources
 

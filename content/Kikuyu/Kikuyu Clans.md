@@ -63,7 +63,7 @@ Contemporary clan narratives have been recorded and documented by scholars, thou
 - [[Gikuyu and Mumbi]]
 - [[Kikuyu Origins]]
 - [[Githaka]]
-- [[Kikuyu Marriage Practices]]
+- [[Kikuyu]]
 
 ## See Also
 

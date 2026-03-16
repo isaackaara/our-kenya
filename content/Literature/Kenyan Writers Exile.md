@@ -6,7 +6,7 @@ Other Kenyan writers fled or were forced into exile for political reasons or eco
 
 Exile reconfigured literary production itself. Writers separated from immediate communities and publishers had to develop new strategies for reaching audiences. Some, like Ngugi, wrote about exile experience directly, exploring themes of displacement, nostalgia, alienation, and the psychological toll of separation from homeland and intimate communities. The distance afforded by exile simultaneously created opportunities for critical perspective on Kenya's politics and culture.
 
-The [[postcolonial nationalism]] of independent Kenya proved hostile to writers perceived as undermining state authority or challenging official narratives. State censorship, restricted publication permits, and pressure from government agents discouraged critical literary production. Writers addressing sensitive topics like [[Mau Mau Emergency]] violence, government corruption, or ethnic tensions risked legal prosecution or extra-legal harassment. Exile offered escape from such pressures, though at the cost of physical separation from creative communities.
+The [[postcolonial nationalism]] of independent Kenya proved hostile to writers perceived as undermining state authority or challenging official narratives. State censorship, restricted publication permits, and pressure from government agents discouraged critical literary production. Writers addressing sensitive topics like [[Mau Mau Emergency Broadcasting]] violence, government corruption, or ethnic tensions risked legal prosecution or extra-legal harassment. Exile offered escape from such pressures, though at the cost of physical separation from creative communities.
 
 Paradoxically, exile enhanced some writers' international reputations. Writing from abroad, they could address African experiences for global audiences without immediate vulnerability to state repression. The transnational circulation of exile literature helped establish African literary voices in international publishing and academic contexts, though often mediating African reality through frameworks shaped by exile experience rather than present participation in home communities.
 
@@ -20,7 +20,7 @@ Contemporary writers continue engaging exile as literary theme and actual experi
 [[Diaspora Writers]]
 [[State Censorship and Literature]]
 [[Mau Mau Emergency Narratives]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Transnational African Literature]]
 
 ## Sources

@@ -12,8 +12,8 @@ However, the development focus in Mombasa also created tensions. Environmental a
 
 [[Mombasa Port Development]]
 [[Coastal Kenya Development]]
-[[Standard Gauge Railway Kenya]]
-[[Port Infrastructure East Africa]]
+[[Standard Gauge Railway]]
+[[Port Infrastructure]]
 [[Kibaki Development Projects]]
 [[Kenya Regional Development]]
 

@@ -22,7 +22,7 @@ The decline of traditional naval forces under sail reflected technological chang
 
 [[Merchant Vessel Armament]]
 [[Piracy Trade Safety]]
-[[Maritime Security]]
+[[Maritime Security Indian Ocean]]
 [[Harbor Facilities]]
 [[Trade Route Safety]]
 

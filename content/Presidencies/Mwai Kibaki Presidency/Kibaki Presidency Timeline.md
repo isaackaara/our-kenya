@@ -78,7 +78,7 @@
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Kenya 2007 Election|Kenya 2007 Election]]
-- [[Kenya 2010 Constitution|Kenya 2010 Constitution]]
+- [[Constitution of Kenya 2010|Kenya 2010 Constitution]]
 - [[Kenya Post-Election Violence 2008|Kenya Post-Election Violence 2008]]
 - [[William Ruto Presidency|William Ruto Presidency]]
 

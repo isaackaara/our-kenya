@@ -1,4 +1,4 @@
-The [[Clove Production Trade]] represents a distinct phase in Indian Ocean commerce when spice production shifted from exclusive Indonesian sources to newly cultivated plantations on Zanzibar. The introduction of clove cultivation to Zanzibar in the late 18th century transformed the island's economy and positioned it as the dominant spice-producing center of the Indian Ocean world. The shift from trade in spices produced elsewhere to production and trade in locally grown spices created new profit opportunities and contributed to the unprecedented rise of Zanzibar's commercial and political importance during the 19th century.
+The [[Clove Production]] represents a distinct phase in Indian Ocean commerce when spice production shifted from exclusive Indonesian sources to newly cultivated plantations on Zanzibar. The introduction of clove cultivation to Zanzibar in the late 18th century transformed the island's economy and positioned it as the dominant spice-producing center of the Indian Ocean world. The shift from trade in spices produced elsewhere to production and trade in locally grown spices created new profit opportunities and contributed to the unprecedented rise of Zanzibar's commercial and political importance during the 19th century.
 
 The introduction of clove plants to Zanzibar occurred during a period when Arab merchants were establishing increasing control over East African commerce. The Omani Arab sultanate that governed Zanzibar recognized the potential for agricultural production to complement merchant trading activities. The island's tropical climate proved suitable for clove cultivation, and the success of initial plantings encouraged expansion of cultivation across both Zanzibar and the neighboring island of Pemba.
 
@@ -23,10 +23,10 @@ The post-abolition period saw declining profitability of clove production as alt
 ## See Also
 
 [[Plantation Slavery]]
-[[Zanzibar Connections]]
-[[Spice Trade Routes]]
+[[Zanzibar Connections Kenya]]
+[[Spice Trade]]
 [[Merchant Networks]]
-[[Omani Rule]]
+[[Omani Rule Coast]]
 
 ## Sources
 

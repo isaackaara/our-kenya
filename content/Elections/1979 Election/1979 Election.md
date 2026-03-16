@@ -17,7 +17,7 @@ The 1979 election, while superficially similar to the 1974 election in its struc
 ## See Also
 - [[Daniel arap Moi]]
 - [[Jomo Kenyatta]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[Nyala]]
 - [[KANU Party]]
 - [[Kenya]]

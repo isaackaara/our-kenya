@@ -65,7 +65,7 @@ Some cultural organizations work to preserve knowledge of traditional technologi
 ## See Also
 
 - [[Kikuyu Sacred Geography]]
-- [[Kikuyu Agriculture|Agriculture and Food Systems]]
+- [[Kikuyu Agriculture Pre-Colonial|Agriculture and Food Systems]]
 - [[Nyandarua Forest]]
 - [[Kikuyu Livestock Tradition]]
 - [[Kikuyu Witchcraft and Medicine]]

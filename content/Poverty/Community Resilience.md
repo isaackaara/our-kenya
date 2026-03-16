@@ -9,7 +9,7 @@ The relationship between external interventions and community resilience is comp
 The challenges to community resilience in Kenya are substantial. Urbanization and labor migration weaken social bonds as community members move away. Natural resource scarcity limits resilience: pastoralists with insufficient grazing cannot maintain herd diversity; farmers with minimal land cannot diversify. Climate change increases shock frequency and severity, exceeding adaptive capacity. Inequality limits resilience: wealthier community members may withdraw from collective systems, reducing communal commitment. Conflict traumatizes communities, disrupting social trust. These pressures suggest community resilience requires not only community strengthening but also broader development enabling adequate livelihoods and environmental sustainability. Resilience without livelihood sufficiency enables survival in poverty rather than poverty exit.
 
 ## See Also
-[[Resilience Building]], [[Vulnerability Poverty]], [[Community Organization]], [[Collective Action]], [[Social Capital]], [[Livelihood Diversification]], [[Natural Resource Management]], [[Economic Stability]]
+[[Resilience Building]], [[Vulnerability Poverty]], [[Refugee Community Organization]], [[Collective Action]], [[Social Capital]], [[Livelihood Diversification]], [[Natural Resource Management]], [[Economic Stability]]
 
 ## Sources
 1. UNDP (2016). "Kenya Community Resilience Assessment and Program." https://www.undp.org

@@ -33,7 +33,7 @@ By the late 1970s, the Kenyan economy was substantially more African in ownershi
 ## See Also
 - [[Asian Community Under Kenyatta]]
 - [[Kenyanization Policy]]
-- [[Trade Licensing Act 1967]]
+- [[1967 Trade Licensing Act]]
 - [[GEMA - Gikuyu Embu Meru Association]]
 - [[Political Patronage Kenyatta Era]]
 - [[Land Policy Post-Independence]]

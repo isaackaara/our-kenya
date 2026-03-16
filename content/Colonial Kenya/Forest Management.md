@@ -17,7 +17,7 @@ The expansion of forest reserves also served settler expansion indirectly. By re
 [[Land Alienation]]
 [[Colonial Wildlife Policy]]
 [[Colonial Native Reserves]]
-[[Environmental Degradation Colonial]]
+[[Environmental Art]]
 [[Ogiek\ Community\ History]]
 [[Forest\ Rights\ Land]]
 

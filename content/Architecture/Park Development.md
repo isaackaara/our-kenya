@@ -14,7 +14,7 @@ Community participation in park development and maintenance can improve outcomes
 
 ## See Also
 
-[[Urban Green Spaces]], [[Garden Design]], [[Urban Planning Development]], [[Nairobi National Park]], [[Recreation Facilities]], [[Community Development]], [[Environmental Design]]
+[[Urban Green Spaces]], [[Garden Design]], [[Urban Planning Development]], [[Nairobi National Park]], [[Recreation Facilities]], [[Community Development]], [[Environmental Art]]
 
 ## Sources
 

@@ -10,11 +10,11 @@ The existence of the second wife highlighted the gap between Kibaki's public per
 
 ## See Also
 
-[[Kibaki Personal Life]]
-[[Lucy Kibaki First Lady]]
-[[Polygamy and Law Kenya]]
+[[Kibaki and the ICC]]
+[[Kibaki and Lucy Kibaki First Lady Controversies]]
+[[Polygamy Law Debates Kenya]]
 [[Presidential Conduct and Authority]]
-[[Gender and Marriage Kenya]]
+[[Gender Pay Gap]]
 [[Kenya Elite and Private Conduct]]
 
 ## Sources

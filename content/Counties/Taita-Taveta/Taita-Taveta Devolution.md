@@ -22,7 +22,7 @@ Despite these challenges, devolution has created opportunities for more localize
 - [[Taita-Taveta County]]
 - [[County Government Kenya]]
 - [[Local Governance]]
-- [[Public Service Kenya]]
+- [[Public Art]]
 - [[Health]]
 - [[Education]]
 - [[Bomet Water Resources]]

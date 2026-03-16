@@ -10,7 +10,7 @@ Mobile penetration's trajectory demonstrated market forces at work in technology
 
 ## See Also
 
-[[Mobile Internet Growth]], [[Safaricom History]], [[Digital Divide Issues]], [[Financial Inclusion]], [[Communication Technology]], [[Infrastructure Development]]
+[[Mobile Internet Growth]], [[Safaricom History]], [[Digital Divide Issues]], [[Financial Inclusion]], [[Technology]], [[Infrastructure Development]]
 
 ## Sources
 

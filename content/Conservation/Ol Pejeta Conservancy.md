@@ -58,7 +58,7 @@ Ol Pejeta's role as repository for the last northern white rhinos gives it inter
 - [[Endangered Species]] - Critical species recovery
 - [[Anti-Poaching Technology]] - Security operations
 - [[Community Conservancies Model]] - Benefit sharing approaches
-- [[Private Conservation Model]] - Sustainability challenges
+- [[Conservation]] - Sustainability challenges
 
 ## Sources
 

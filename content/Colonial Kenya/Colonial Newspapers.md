@@ -20,7 +20,7 @@ By independence, the newspaper industry had transformed from a settler-dominated
 [[Colonial Censorship]]
 [[Colonial Publishing]]
 [[Anti-Colonial Resistance]]
-[[Colonial Media]]
+[[Music and Kenyan Print Media Colonial]]
 [[Independence Movements]]
 [[African Nationalism]]
 

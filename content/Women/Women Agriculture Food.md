@@ -22,7 +22,7 @@ Climate change has produced particular impacts on women farmers. Drought and rai
 [[Female Entrepreneurs Business]]
 [[Women Cooperatives Economic]]
 [[Women Informal Economy]]
-[[Food Security]]
+[[Food Security Policies]]
 [[Pastoralism]]
 
 ## Sources

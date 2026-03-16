@@ -1,6 +1,6 @@
 Security sector reform in Kenya, implemented through phases between 2008 and 2020, represented an attempt to transform military and police institutions from colonial legacy organizations operating largely outside democratic accountability to institutions subordinated to civilian democratic control, emphasizing human rights compliance, institutional transparency, and professional standards. The [[2010 Constitution|2010 constitutional reforms]] provided the legal and institutional framework for reform, establishing explicit civilian oversight mechanisms and requiring security force alignment with constitutional human rights protections.
 
-The [[Security Sector Reform]] programme initiated in 2008 under international donor support targeted institutional restructuring, leadership change, training curriculum revision, and integration of human rights standards into security force operations. The primary components included establishment of [[Civilian Military Oversight|civilian oversight authorities]], development of new operational doctrine emphasizing civilian protection, recruitment of leadership committed to institutional reform, and training of personnel in international humanitarian law and human rights standards.
+The [[Security Sector Reform]] programme initiated in 2008 under international donor support targeted institutional restructuring, leadership change, training curriculum revision, and integration of human rights standards into security force operations. The primary components included establishment of [[Civilian-Military-Oversight|civilian oversight authorities]], development of new operational doctrine emphasizing civilian protection, recruitment of leadership committed to institutional reform, and training of personnel in international humanitarian law and human rights standards.
 
 The [[Kenya Police]] underwent particularly extensive reform, including establishment of the [[Independent Police Oversight Board]] in 2011, revision of use-of-force regulations, implementation of community policing principles, and creation of internal affairs units investigating police misconduct. By 2018, approximately 18000 police personnel had completed human rights and international law training modules. However, institutional culture remained resistant, with police leadership frequently prioritizing crime reduction and security goals over human rights compliance in operational decisions.
 
@@ -12,8 +12,8 @@ Reform implementation faced persistent obstacles including insufficient financia
 
 [[Kenya Defence Force]]
 [[Kenya Police]]
-[[Civilian Military Oversight]]
-[[Human Rights Enforcement]]
+[[Civilian-Military-Oversight]]
+[[Human-Rights-Enforcement]]
 [[Armed Forces Infrastructure]]
 [[2010 Constitution]]
 [[Corruption Military Institutions]]

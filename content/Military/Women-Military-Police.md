@@ -10,13 +10,13 @@ Maternity and family accommodation for female military and police personnel rema
 
 ## See Also
 
-[[Gender Security Forces]]
+[[Gender-Security-Forces]]
 [[Kenya Defence Force]]
 [[Kenya Police]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 [[Armed Forces Infrastructure]]
 [[Civilian Defence Cooperation]]
-[[LGBTQ+ Military Rights]]
+[[LGBTQ+-Military-Rights]]
 
 ## Sources
 

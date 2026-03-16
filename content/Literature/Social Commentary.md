@@ -1,6 +1,6 @@
 Social commentary through literature emerged as significant form of cultural and political intervention in Kenya, with writers employing narrative, poetry, and essays to address social problems and advocate for transformation. Rather than distant artistic reflection, social commentary literature engaged urgent contemporary concerns with intention to mobilize consciousness and inspire action.
 
-[[Meja Mwangi]]'s urban novels exemplified social commentary literature, depicting poverty, unemployment, and desperation in postcolonial Nairobi while implicitly critiquing structural inequalities. His unflinching representation of urban suffering functioned as social commentary documenting government failures and elite indifference.
+[[Meja Mwangi Novels]]'s urban novels exemplified social commentary literature, depicting poverty, unemployment, and desperation in postcolonial Nairobi while implicitly critiquing structural inequalities. His unflinching representation of urban suffering functioned as social commentary documenting government failures and elite indifference.
 
 Postcolonial writers engaged social commentary addressing colonialism's legacies, governmental corruption, and the failure of independence to deliver promised transformation. Literature provided vehicle for articulating social critique when direct political speech faced suppression or danger.
 
@@ -17,7 +17,7 @@ Environmental issues increasingly featured in contemporary social commentary lit
 ## See Also
 [[Meja Mwangi Novels]]
 [[Postcolonial Literature Movement]]
-[[Feminist Literature Kenya]]
+[[Literature]]
 [[Environmental Literature]]
 [[Political Novels Satire]]
 [[Social Justice Kenya]]

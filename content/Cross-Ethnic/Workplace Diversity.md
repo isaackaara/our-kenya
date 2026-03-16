@@ -18,7 +18,7 @@ Workplace cooperation, even when constrained by ethnic dynamics, creates practic
 - [[Professional Networks Kenya]]
 - [[Economic Interdependence Kenya]]
 - [[Class and Ethnic Identity]]
-- [[Gender and Workplace]]
+- [[Gender Pay Gap]]
 - [[Trade Unions Kenya]]
 
 ## Sources

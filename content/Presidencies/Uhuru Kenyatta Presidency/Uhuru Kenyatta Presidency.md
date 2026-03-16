@@ -31,7 +31,7 @@ Uhuru's tenure began with a narrow electoral victory in 2013 against Raila Oding
 17. [[Uhuru Post-Presidency]] - AU infrastructure envoy role and continued political relevance
 18. [[Uhuru Legacy]] - The infrastructure president who left debt, constitution, and fracture
 19. [[Uhuru Presidency Timeline]] - Key dates 2013-2022
-20. [[Uhuru Constitutional Governance]] - The 2010 constitution under Uhuru's stewardship
+20. [[Uhuru BBI]] - The 2010 constitution under Uhuru's stewardship
 
 ## Key Themes
 
@@ -58,8 +58,8 @@ The handshake in 2018 was pivotal globally, attracting international attention a
 ## See Also
 
 - [[Jomo Kenyatta]]
-- [[Kibaki Administration]]
-- [[2010 Kenyan Constitution]]
+- [[Kibaki and the ICC]]
+- [[The Kenyan Constitution 2010]]
 - [[Post-Election Violence (2007-2008)]]
 - [[Kikuyu]]
 - [[Jubilee Party]]

@@ -11,7 +11,7 @@ The camp population reflects deep demographic skewing. As of 2015, approximately
 [[Kakuma Refugee Camp]]
 [[Kenya Refugee Policy]]
 [[UNHCR Operations Kenya]]
-[[Somali Civil War]]
+[[Somali]]
 [[2011 East Africa Drought]]
 [[Voluntary Repatriation]]
 

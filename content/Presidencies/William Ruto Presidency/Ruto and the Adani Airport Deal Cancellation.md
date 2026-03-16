@@ -11,7 +11,7 @@ The Adani episode also damaged Kenya's reputation among international investors,
 ## See Also
 [[Ruto Infrastructure Projects]]
 [[Foreign Direct Investment Kenya]]
-[[Public-Private Partnerships Risk]]
+[[Public Art]]
 [[Aviation Sector Modernization]]
 [[Government Transparency and Mega-Projects]]
 [[Kenya's International Relations Investment]]

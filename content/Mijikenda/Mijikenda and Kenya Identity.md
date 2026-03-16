@@ -8,7 +8,7 @@ The Mjikenda emphasize their long history on the coast, their [[Kaya System|kaya
 
 ## Political Marginalization and National Narrative
 
-In Kenya's national political narrative, the coast remains marginal. The story of Kenya's national development emphasizes the highlands (Kikuyu areas) and to a lesser extent the western region (Luo and Luhya areas). The coast, and the Mjikenda who inhabit it, appear in national narratives primarily as sources of colonial-era resistance (through the [[Giriama Uprising 1913-1914|Giriama Uprising]]) or as marginal populations.
+In Kenya's national political narrative, the coast remains marginal. The story of Kenya's national development emphasizes the highlands (Kikuyu areas) and to a lesser extent the western region (Luo and Luhya areas). The coast, and the Mjikenda who inhabit it, appear in national narratives primarily as sources of colonial-era resistance (through the [[The Giriama Uprising 1913-1914|Giriama Uprising]]) or as marginal populations.
 
 The Mjikenda are vastly underrepresented in Kenya's cultural and political leadership relative to their population size. This underrepresentation reflects both colonial-era marginalization and post-colonial continuation of highland-dominated politics.
 

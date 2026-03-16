@@ -10,7 +10,7 @@ The platform's evolution reflected Kenya's broadening digital ambitions. Integra
 
 ## See Also
 
-[[Safaricom History]], [[Fintech Development]], [[Digital Payment Systems]], [[Mobile Banking Services]], [[Diaspora Remittances]], [[Entrepreneurship Kenya]], [[Financial Inclusion]]
+[[Safaricom History]], [[Fintech Development]], [[Digital Payment Systems]], [[Mobile Banking Services]], [[Uhuru and Diaspora Remittances]], [[Entrepreneurship Kenya]], [[Financial Inclusion]]
 
 ## Sources
 

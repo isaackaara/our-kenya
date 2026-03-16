@@ -10,7 +10,7 @@ Computer vision applications addressed specific operational challenges in logist
 
 ## See Also
 
-[[Artificial Intelligence Kenya]], [[Agricultural Technology]], [[Health Tech Innovations]], [[Fintech Development]], [[Data Analysis]], [[Tech Startups Ecosystem]]
+[[Artificial Intelligence Kenya]], [[Technology]], [[Health Tech Innovations]], [[Fintech Development]], [[Data Analysis]], [[Tech Startups Ecosystem]]
 
 ## Sources
 

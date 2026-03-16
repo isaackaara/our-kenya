@@ -1,4 +1,4 @@
-Refugee return programs in Kenya operated under assumption that displaced populations would eventually repatriate to origin countries, yet implemented returns cautiously given persistent security threats, infrastructure destruction, and political instability in source nations. [[UNHCR]] coordinated return programs in partnership with origin countries including [[Somalia]] and [[South Sudan]]. Return programs existed in multiple forms: voluntary repatriation (refugees initiating return requests), organized repatriation (UNHCR-coordinated movements), tripartite agreements (origin, host, and UNHCR commitment to facilitate returns), and contested repatriation (government pressure toward involuntary return). Return timelines, conditions, and scale varied substantially across periods and origin countries.
+Refugee return programs in Kenya operated under assumption that displaced populations would eventually repatriate to origin countries, yet implemented returns cautiously given persistent security threats, infrastructure destruction, and political instability in source nations. [[UNHCR Operations Kenya]] coordinated return programs in partnership with origin countries including [[Somalia]] and [[South Sudan]]. Return programs existed in multiple forms: voluntary repatriation (refugees initiating return requests), organized repatriation (UNHCR-coordinated movements), tripartite agreements (origin, host, and UNHCR commitment to facilitate returns), and contested repatriation (government pressure toward involuntary return). Return timelines, conditions, and scale varied substantially across periods and origin countries.
 
 Somali repatriation emerged as major programmatic focus following the 2013 tripartite agreement between Kenya, Somalia, and UNHCR pacing voluntary returns to Somalia. The agreement responded partly to security concerns following terrorist attacks in Kenya, partly to Kenyan government frustration with permanent refugee presence, and partly to improving security in certain Somali regions. However, security remained volatile; while some southern Somalia areas including Kismayo, Baidoa, and Luuq achieved relative stability, northern regions remained highly insecure. Repatriation proceeded cautiously with UNHCR verification of return area security and beneficiary informed consent. However, the government subsequently threatened camp closure and forced repatriation, violating the voluntary principle. Between 2014 and 2016, returnee numbers increased; by February 2014, approximately 80,000-100,000 Somali refugees had voluntarily repatriated, substantially reducing Dadaab population.
 
@@ -12,7 +12,7 @@ Return challenges reflected fundamental obstacles. Repatriation succeeded only w
 [[Involuntary Repatriation]]
 [[Return Monitoring]]
 [[Reintegration Assistance]]
-[[Somali Civil War]]
+[[Somali]]
 [[South Sudan Crisis]]
 
 ## Sources

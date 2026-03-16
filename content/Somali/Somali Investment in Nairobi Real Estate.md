@@ -126,12 +126,12 @@ Somali real estate investment is likely to continue as capital accumulation amon
 
 However, heightened scrutiny of Somali financial flows and terrorism financing concerns may constrain some investment activities. Security and regulatory uncertainties create risks for large-scale development projects.
 
-Overall, Somali capital deployment in Nairobi real estate represents successful economic integration and wealth-building. Property investment has transformed [[Eastleigh (Little Mogadishu)|Eastleigh's physical and economic landscape]], extended Somali economic presence throughout Nairobi, and created durable asset bases for investor families.
+Overall, Somali capital deployment in Nairobi real estate represents successful economic integration and wealth-building. Property investment has transformed [[Eastleigh Nairobi (Little Mogadishu)|Eastleigh's physical and economic landscape]], extended Somali economic presence throughout Nairobi, and created durable asset bases for investor families.
 
 ## See Also
 
 - [[Somali Diaspora Connections Kenya]]
-- [[Eastleigh (Little Mogadishu)]]
+- [[Eastleigh Nairobi (Little Mogadishu)]]
 - [[Somali Women Entrepreneurs]]
 - [[Somalia State Collapse Effects on Kenya]]
 - [[Nairobi Somali Community]]

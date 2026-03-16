@@ -19,7 +19,7 @@ By the late 1980s and 1990s, the cabinet system had become widely criticized as 
 ## See Also
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
-- [[Nicholas Biwott|Nicholas Biwott]]
+- [[Moi and Nicholas Biwott|Nicholas Biwott]]
 - [[Kenya Cabinet System|Kenya Cabinet System]]
 - [[Moi and the Kalenjin|Moi and the Kalenjin]]
 - [[Goldenberg Scandal|Goldenberg Scandal]]

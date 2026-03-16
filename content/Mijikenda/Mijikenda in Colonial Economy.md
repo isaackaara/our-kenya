@@ -34,7 +34,7 @@ As Mijikenda became integrated into the cash economy, some fell into debt to mer
 
 ## Resistance and Adaptation
 
-[[Mijikenda]] communities were not passive. Some resisted colonial economic demands, as seen in the [[Giriama Uprising 1913-1914|1913-1914 Giriama Uprising]], where refusal to migrate for labor was a central complaint. Others adapted strategically, seeking education, accumulating capital, or building trade relationships. The colonial economy created opportunities for some while impoverishing others.
+[[Mijikenda]] communities were not passive. Some resisted colonial economic demands, as seen in the [[The Giriama Uprising 1913-1914|1913-1914 Giriama Uprising]], where refusal to migrate for labor was a central complaint. Others adapted strategically, seeking education, accumulating capital, or building trade relationships. The colonial economy created opportunities for some while impoverishing others.
 
 ## See Also
 

@@ -19,7 +19,7 @@ Technology has created new possibilities for language preservation literature. D
 - [[Swahili Literary Tradition]]
 - [[Oral Poetry Traditions]]
 - [[Libraries Archives]]
-- [[Educational Literature Development]]
+- [[Literature]]
 
 ## Sources
 1. Mazrui, Ali A. & Mazrui, Alamin Y. "The Power of Babel: Language and Governance in the African Experience." University of Chicago Press, 1998.

@@ -46,7 +46,7 @@ The combination of Christian identity, educational credential, and witchcraft be
 
 ## See Also
 
-- [[Kiama Courts]]
+- [[The Kiama Courts]]
 - [[Kikuyu Birth Rituals]]
 - [[Kikuyu and Christianity Today]]
 - [[Kikuyu Religious Syncretism]]

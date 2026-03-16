@@ -9,10 +9,10 @@ Commercial wood carving supplies tourist markets, interior design, and fine art 
 ## See Also
 - [[Sculpture Practice Kenya]]
 - [[Material Culture Heritage]]
-- [[Craft Economics and Markets]]
+- [[Craft Markets]]
 - [[Traditional Artistic Techniques]]
 - [[Functional and Decorative Arts]]
-- [[Tourism and Craft Production]]
+- [[Art Tourism]]
 - [[Contemporary Sculpture Practice]]
 
 ## Sources

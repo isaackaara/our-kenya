@@ -15,7 +15,7 @@ Worker cooperative sustainability challenges included member mobility and partic
 - [[Self-Employment]]
 - [[Union Democracy]]
 - [[Collective Bargaining]]
-- [[Labor Rights]]
+- [[Labor Rights Awareness]]
 
 ## Sources
 1. https://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_123029.pdf

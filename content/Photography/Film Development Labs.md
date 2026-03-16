@@ -8,11 +8,11 @@ From the 1960s onward, commercial film labs serving photographers and the public
 
 ## See Also
 - [[Professional Photography Infrastructure]]
-- [[Darkroom Technology]]
+- [[Technology]]
 - [[Chemical Processes Photography]]
 - [[Urban Service Economies]]
 - [[Professional Development Services]]
-- [[Photography Studios]]
+- [[Studio Photography]]
 - [[Digital Transition Photography]]
 
 ## Sources

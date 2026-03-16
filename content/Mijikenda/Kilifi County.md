@@ -31,7 +31,7 @@ Kilifi County is politically significant as the heartland of Giriama political m
 - [[Kaya Forests UNESCO Heritage]] - Sacred groves attracting cultural tourism
 - [[Mijikenda Land Rights]] - Land pressure and tenure issues
 - [[Coastal Forest Biodiversity]] - Forest ecosystems in the region
-- [[Watamu Marine National Park]] - Marine conservation area
+- [[Watamu]] - Marine conservation area
 - [[Kilifi County Development]] - Contemporary development challenges
 
 ## Sources

@@ -56,7 +56,7 @@ Mombasa is irreplaceable infrastructure for East Africa. All seaborne trade for 
 - [[Mombasa Port Operations]]
 - [[Mombasa Port Corruption]]
 - [[Kenya]]
-- [[Trade History Kenya]]
+- [[Trade Union History Kenya]]
 - [[East Africa]]
 - [[IT Infrastructure Kenya]]
 - [[East Africa]]

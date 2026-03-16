@@ -2,7 +2,7 @@
 title: EAC Common Market
 ---
 
-The [[EAC Common Market]] Protocol, signed in 2010 and implemented the same year, represents the most ambitious effort at regional economic integration in East Africa. It establishes the framework for free movement of goods, services, capital, and labor across member states.
+The [[5_EAC_Common_Market]] Protocol, signed in 2010 and implemented the same year, represents the most ambitious effort at regional economic integration in East Africa. It establishes the framework for free movement of goods, services, capital, and labor across member states.
 
 ## The Four Freedoms
 
@@ -55,7 +55,7 @@ EAC trade has increased significantly since 2010, though most flows remain bilat
 ## See Also
 
 - [[EAC History]]
-- [[EAC Political Federation]]
+- [[6_EAC_Political_Federation]]
 - [[Kenya]]
 - [[Kenya]]
 - [[East Africa]]

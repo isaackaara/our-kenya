@@ -20,10 +20,10 @@ The poem's global circulation through English translation paradoxically extended
 [[Song of Lawino Analysis]]
 [[Postcolonial Literature Movement]]
 [[Oral Poetry Traditions]]
-[[Language and Decolonization]]
+[[Luo Language]]
 [[Women Writers East Africa]]
 [[Cultural Authenticity Debates]]
-[[Makerere University Literary Culture]]
+[[Moi University]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Okot_p'Bitek - Comprehensive biography and literary achievement

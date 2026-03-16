@@ -23,11 +23,11 @@ The [[East African Community]] includes ten member nations:
 
 The region is defined by three major ecosystems:
 
-**The [[Great Rift Valley]]** runs north to south through Kenya, Ethiopia, and into Tanzania, creating a series of freshwater lakes (Turkana, Baringo, Nakuru, Naivasha, Magadi) and geothermal potential.
+**The [[16_Great_Rift_Valley]]** runs north to south through Kenya, Ethiopia, and into Tanzania, creating a series of freshwater lakes (Turkana, Baringo, Nakuru, Naivasha, Magadi) and geothermal potential.
 
-**[[Lake Victoria]]**, the world's second-largest freshwater lake, is shared between Kenya, Uganda, and Tanzania. It is the source of the [[Nile River System]] and supports millions dependent on its fisheries.
+**[[Lake Victoria]]**, the world's second-largest freshwater lake, is shared between Kenya, Uganda, and Tanzania. It is the source of the [[18_Nile_River_System]] and supports millions dependent on its fisheries.
 
-**The [[Indian Ocean Heritage]]** stretches from Somalia through Kenya and Tanzania to Mozambique, forming the Swahili coast heritage zone with coral reef ecosystems and centuries of Arab, Persian, and Asian trade connections.
+**The [[19_Indian_Ocean_Heritage]]** stretches from Somalia through Kenya and Tanzania to Mozambique, forming the Swahili coast heritage zone with coral reef ecosystems and centuries of Arab, Persian, and Asian trade connections.
 
 ## The East African Community (EAC)
 
@@ -59,7 +59,7 @@ The region controls critical trade routes, sits on the Indian Ocean, and include
 
 - [[Kenya]]
 - [[EAC History]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[Nairobi]]
 - [[East Africa]]
 - [[East Africa]]

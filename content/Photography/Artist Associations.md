@@ -7,13 +7,13 @@ Artist associations advocate for public policy supporting the arts including fun
 International connections through artist associations link Kenyan practitioners with regional and global artistic communities. Associations facilitate artist exchange, collaborative projects, and participation in international exhibitions and opportunities. Connections to international art worlds provide exposure, professional development, and economic opportunities for Kenyan artists. However, international orientations may also shape associations' priorities and potentially divert resources from local community building. The evolution of artist associations reflects broader professionalization of visual arts in Kenya.
 
 ## See Also
-- [[Artist Cooperatives Kenya]]
+- [[Artist Cooperatives]]
 - [[Professional Organizations Kenya]]
 - [[Art Advocacy and Policy]]
-- [[Artist Support Services]]
-- [[Community Arts Networks]]
+- [[support]]
+- [[Moi and the Luo Community]]
 - [[International Artist Connections]]
-- [[Professional Development Art]]
+- [[Professional Development]]
 
 ## Sources
 1. https://www.akdn.org/arts - Arts Organizations Kenya

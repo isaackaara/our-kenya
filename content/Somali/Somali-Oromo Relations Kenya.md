@@ -127,7 +127,7 @@ Long-term coexistence depends on:
 - [[Water Scarcity Northern Kenya]]
 - [[Somali Clan System Kenya]]
 - [[Wajir Peace Accord]]
-- [[Nomadic Pastoralism Northern Kenya]]
+- [[NFD Pastoralism]]
 - [[Somali Health Challenges NFD]]
 
 ## Sources

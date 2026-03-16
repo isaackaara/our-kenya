@@ -4,7 +4,7 @@ title: The Miraa (Khat) Economy
 
 # Miraa Economy: Kenya's Cash Crop Boom and International Trade
 
-The [[Igembe]] sub-group of [[Meru]], particularly in northern [[Igembe]] County, has become synonymous with [[miraa]] (khat, *Catha edulis*) production. The [[miraa]] economy has transformed [[Igembe]] from a subsistence agricultural region into an international commodity producer, though this success remains vulnerable to regulatory changes.
+The [[Tigania and Igembe]] sub-group of [[Meru]], particularly in northern [[Tigania and Igembe]] County, has become synonymous with [[miraa]] (khat, *Catha edulis*) production. The [[miraa]] economy has transformed [[Tigania and Igembe]] from a subsistence agricultural region into an international commodity producer, though this success remains vulnerable to regulatory changes.
 
 ## What is Miraa (Khat)?
 

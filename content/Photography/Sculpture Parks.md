@@ -10,7 +10,7 @@ Documentation through photography captures sculptural forms while spatial relati
 [[Stone Sculpture]]
 [[Metal Sculpture]]
 [[Public Art]]
-[[Art Museums Collections]]
+[[Colonial Museums Collections]]
 [[Environmental Art]]
 [[Monument Restoration]]
 

@@ -49,7 +49,7 @@ British historians and officials initially disputed Elkins' account, but subsequ
 ## Cross-Links
 - [[Mau Mau Uprising]]
 - [[Kikuyu Sacred Geography]]
-- [[Kikuyu Land Grievance]]
+- [[Land Grievance and Kikuyu Politics]]
 - [[Kenya Land and Freedom Army]]
 - [[The Villagisation Program]]
 

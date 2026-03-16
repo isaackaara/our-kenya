@@ -8,7 +8,7 @@ The opportunities of digital television extended beyond transmission improvement
 
 The consolidation of broadcasting infrastructure during digital transition reflected economic pressures and consolidation opportunities. Large broadcasters could more readily afford digital transmission infrastructure upgrading than small broadcasters. Some smaller broadcasters closed operations rather than invest in digital infrastructure. The transition to digital meant that industry consolidation accelerated as small operators exited. The reduced number of broadcasters that emerged from digital transition potentially reduced competition and content diversity unless regulatory authorities enforced plurality protections.
 
-See Also: [[Digital Broadcasting Standards]], [[Television Operations]], [[Cable Television]], [[Satellite Broadcasting]], [[Free-to-Air Broadcasting]], [[Broadcasting Commission]], [[Television Infrastructure]]
+See Also: [[Digital Broadcasting Standards]], [[Television Operations]], [[Cable Television]], [[Satellite Broadcasting]], [[Free-to-Air Broadcasting]], [[KTN Broadcasting]], [[Television Infrastructure]]
 
 Sources:
 1. https://www.ictb.org.ke/

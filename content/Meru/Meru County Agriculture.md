@@ -43,7 +43,7 @@ Historical land subdivision (through inheritance and sales) has created many sma
 - [[Meru Coffee]]
 - [[Miraa]]
 - [[Climate Change and Meru]]
-- [[Meru Land Tenure]]
+- [[Land Tenure in Meru]]
 
 ## Sources
 

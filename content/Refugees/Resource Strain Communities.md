@@ -12,8 +12,8 @@ Resource management required governance mechanisms allocating scarce resources e
 [[Refugee Environmental Impact]]
 [[Deforestation Issues]]
 [[Water Scarcity Conflicts]]
-[[Community Coexistence]]
-[[Development Refugee-affected Areas]]
+[[Moi and the Luo Community]]
+[[Development Aid]]
 
 ## Sources
 

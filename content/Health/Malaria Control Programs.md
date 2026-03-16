@@ -13,7 +13,7 @@ Challenges to malaria elimination in Kenya include drug resistance, insecticide 
 [[Colonial Medicine Healthcare|Colonial Medicine Healthcare]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Health|Hospital Infrastructure Standards]]
-[[Ministry of Health Kenya|Healthcare Policy Evolution]]
+[[Health|Healthcare Policy Evolution]]
 [[Environmental Health Hazards|Environmental Health Hazards]]
 
 ## Sources

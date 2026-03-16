@@ -4,7 +4,7 @@ Ruto's Christian identity is not performative in the way it is for many politici
 
 During his time as Deputy President under [[Uhuru Kenyatta]], Ruto cultivated relationships with influential evangelical pastors and bishops, particularly in the Pentecostal movement. He donated generously to church building projects, funded pastors' vehicles and sound systems, and showed up at church events to offer support and visibility. These donations were not just acts of charity. They were political investments. Pastors, particularly in the Pentecostal tradition, wield enormous influence over their congregations, and their endorsements can swing votes. Ruto understood this, and he built a network of church leaders who saw him as their champion in government.
 
-The 2022 presidential campaign was heavily shaped by religious mobilization. Ruto's campaign framed the election as a spiritual battle between the "hustler nation," which was portrayed as righteous and God-fearing, and the "dynasties" of [[Uhuru Kenyatta]] and [[Raila Odinga]], which were portrayed as corrupt and godless. Pastors across the country endorsed Ruto from the pulpit, held prayer rallies for his victory, and organized voter registration drives in their congregations. Some churches distributed campaign materials, and there were reports of pastors telling congregants that voting for Raila was a sin. The religious mobilization was a significant factor in Ruto's [[2022 Election Victory]].
+The 2022 presidential campaign was heavily shaped by religious mobilization. Ruto's campaign framed the election as a spiritual battle between the "hustler nation," which was portrayed as righteous and God-fearing, and the "dynasties" of [[Uhuru Kenyatta]] and [[Raila Odinga]], which were portrayed as corrupt and godless. Pastors across the country endorsed Ruto from the pulpit, held prayer rallies for his victory, and organized voter registration drives in their congregations. Some churches distributed campaign materials, and there were reports of pastors telling congregants that voting for Raila was a sin. The religious mobilization was a significant factor in Ruto's [[2022 Election]].
 
 Once in office, Ruto continued to center religion in his presidency. He regularly invites pastors to State House for prayer sessions, particularly during political crises. After the [[Finance Bill 2024 and Gen Z Uprising]], Ruto hosted a national prayer day and asked Kenyans to pray for the country rather than protest. Critics saw this as an attempt to deflect accountability by framing political problems as spiritual issues. Ruto also established a Presidential Working Party on Religious Harmony, ostensibly to address interfaith tensions, but many saw it as a way to formalize his ties to religious leaders.
 
@@ -19,7 +19,7 @@ By 2024, Ruto's church relationships remained one of his strongest political ass
 ## See Also
 - [[Ruto Early Life and Poverty Narrative]]
 - [[Ruto and William Ruto Foundation]]
-- [[2022 Election Victory]]
+- [[2022 Election]]
 - [[Ruto and the Shakahola Massacre]]
 - [[Finance Bill 2024 and Gen Z Uprising]]
 - [[Ruto Hustler Narrative]]

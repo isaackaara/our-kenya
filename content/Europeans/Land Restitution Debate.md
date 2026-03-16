@@ -110,7 +110,7 @@ The land restitution debate ultimately raises questions about how to address col
 
 - [[Crown Lands Ordinance]] - Legal mechanism for land seizure
 - [[White Highlands]] - Territory of settlement
-- [[Squatter System in Kenya]] - Labor system on European farms
+- [[The Squatter System]] - Labor system on European farms
 - [[Laikipia Ranch Families]] - Contemporary settler land holdings
 - [[Europeans who Stayed]] - Post-independence European residents
 - [[Mau Mau Uprising]] - Uprising over land dispossession

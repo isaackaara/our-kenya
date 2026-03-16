@@ -9,7 +9,7 @@ The relationship between multidimensional and income poverty varies. Some region
 The policy application of multidimensional poverty assessment includes targeting and priority-setting. Poor populations can be classified by deprivation pattern: food-insecure populations receive food programming; health-deprived populations receive healthcare; education-deprived populations receive school programming. Simultaneously, programs addressing multiple deprivations simultaneously (cash transfers combined with education subsidies, healthcare linkage, etc.) show greater impact than single-dimension programs. However, multidimensional poverty measurement is more complex than income measurement; implementation requires sophisticated data collection and analysis. Some contexts adopt multidimensional poverty while others emphasize simpler income-based approaches.
 
 ## See Also
-[[Poverty Measurement]], [[Income Inequality]], [[Deprivation]], [[Capability Approach]], [[Development Indicators]], [[Service Access]], [[Food Insecurity]], [[Education Access]]
+[[Poverty Measurement]], [[Income Inequality]], [[Deprivation]], [[Capability Approach]], [[Development Aid]], [[Service Access]], [[Food Insecurity]], [[Education Access]]
 
 ## Sources
 1. United Nations Development Programme (2019). "Global Multidimensional Poverty Index: Kenya Report." https://www.undp.org

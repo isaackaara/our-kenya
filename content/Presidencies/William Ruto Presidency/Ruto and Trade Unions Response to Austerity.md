@@ -10,7 +10,7 @@ The labor conflict under Ruto revealed the limitations of populist campaign posi
 
 ## See Also
 [[Ruto Labor Relations and Trade Unions]]
-[[Public Sector Employment Under Ruto]]
+[[Public Art]]
 [[Wage Stagnation and Inflation Kenya]]
 [[Labor Rights and Government Policy]]
 [[Strikes and Industrial Action Kenya]]

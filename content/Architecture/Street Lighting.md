@@ -14,7 +14,7 @@ The relationship between street lighting and economic activity involves night-ti
 
 ## See Also
 
-[[Sidewalk Infrastructure]], [[Public Space]], [[Urban Planning Development]], [[Electricity Infrastructure]], [[Technology]], [[Corruption]], [[Transportation Infrastructure]]
+[[Sidewalk Infrastructure]], [[Public Art]], [[Urban Planning Development]], [[Electricity Infrastructure]], [[Technology]], [[Corruption]], [[Transportation Infrastructure]]
 
 ## Sources
 

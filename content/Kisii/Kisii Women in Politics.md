@@ -62,7 +62,7 @@ Kisii women face barriers to political participation:
 
 Women's electoral representation has grown but remains limited:
 
-- **2013 Election:** The [[2013]] general election saw increased women's representation through the devolution system and constitutional [[gender quotas]].
+- **2013 Election:** The [[2013]] general election saw increased women's representation through the devolution system and constitutional [[Gender Electoral Quotas]].
 
 - **2017 and 2022 Elections:** Subsequent elections have maintained or slightly increased women's representation.
 

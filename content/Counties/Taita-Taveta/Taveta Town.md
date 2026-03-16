@@ -25,9 +25,9 @@ Contemporary development challenges for Taveta include infrastructure developmen
 - [[Voi Town]]
 - [[Lake Chala]]
 - [[Kenya]]
-- [[Urban Development Kenya]]
+- [[Development Aid]]
 - [[Mandera Cross-Border Trade]]
-- [[Taveta Sub-County]]
+- [[Taita-Taveta County]]
 
 ## Sources
 1. Taita-Taveta County Government. "Taveta Sub-County Development Plan." (2022). https://www.taitataveta.go.ke

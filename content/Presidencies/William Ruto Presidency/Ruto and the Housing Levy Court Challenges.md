@@ -13,8 +13,8 @@ By 2024-2025, the housing levy remained in partial suspension pending final cour
 [[Housing Access and Affordability Kenya]]
 [[Taxation and Constitutional Law Kenya]]
 [[Labor Relations Housing Policy]]
-[[Affordable Housing Implementation Challenges]]
-[[Urban Development and Housing]]
+[[Affordable Housing]]
+[[Development Aid]]
 
 ## Sources
 1. https://www.standardmedia.co.ke/business/article/2001398765-housing-levy-court-case-ruto

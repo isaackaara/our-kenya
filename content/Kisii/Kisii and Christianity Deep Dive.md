@@ -1,4 +1,4 @@
-The [[Gusii Highlands]] experienced one of the most dramatic Christian conversions in East Africa. By the early 2000s, over 85% of the population identified as Christian, and the region became known as deeply religious. This transformation happened over roughly eight decades (1910-1990), driven by specific missionary organizations and Gusii receptiveness to Christian education.
+The [[Gusii and the Mau Mau]] experienced one of the most dramatic Christian conversions in East Africa. By the early 2000s, over 85% of the population identified as Christian, and the region became known as deeply religious. This transformation happened over roughly eight decades (1910-1990), driven by specific missionary organizations and Gusii receptiveness to Christian education.
 
 ## Early Missionary Presence (1905-1920)
 

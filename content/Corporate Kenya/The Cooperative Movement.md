@@ -1,8 +1,8 @@
-[[Kenya]]'s [[cooperative movement Kenya|cooperative movement]] is one of [[Africa]]'s most developed. Over 14,000 [[cooperatives Kenya|cooperatives]] ([[coffee Kenya|coffee]], [[tea Kenya|tea]], [[dairy Kenya|dairy]], [[agricultural input Kenya|agricultural input]], [[SACCO Kenya|SACCO]], [[housing Kenya|housing]], and others) serve millions of [[members Kenya|members]] with combined assets exceeding KES 1 trillion.
+[[Kenya]]'s [[cooperative movement Kenya|cooperative movement]] is one of [[Africa]]'s most developed. Over 14,000 [[cooperatives Kenya|cooperatives]] ([[Coffee Industry Kenya|coffee]], [[tea Kenya|tea]], [[Kenya Dairy Industry|dairy]], [[agricultural input Kenya|agricultural input]], [[SACCO Movement Kenya|SACCO]], [[housing Kenya|housing]], and others) serve millions of [[members Kenya|members]] with combined assets exceeding KES 1 trillion.
 
 ## Historical Development
 
-Cooperatives emerged in [[colonial Kenya]] as [[farmers associations Kenya|farmers associations]]. [[Luhya in Post-Independence Kenya|Post-independence]], they became central to [[agricultural development strategy Kenya|agricultural development strategy]]. By the 1970s, virtually every agricultural community had a cooperative.
+Cooperatives emerged in [[colonial Kenya]] as [[farmers associations Kenya|farmers associations]]. [[Luhya in Post-Independence Kenya|Post-independence]], they became central to [[Development Aid|agricultural development strategy]]. By the 1970s, virtually every agricultural community had a cooperative.
 
 ## Types and Functions
 
@@ -34,7 +34,7 @@ Cooperatives remain important but face governance challenges. Modernisation (dig
 - [[Agricultural Cooperatives]]
 - [[Member-Based Organisations Kenya]]
 - [[Post-Independence Economic Policy]]
-- [[Rural Development Kenya]]
+- [[Development Aid]]
 - [[Women in County Governance Kenya]]
 - [[Agricultural Marketing Kenya]]
 

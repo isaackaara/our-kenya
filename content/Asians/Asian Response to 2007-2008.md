@@ -70,7 +70,7 @@ Some Asian community leaders and organizations became more engaged in political 
 - [[Asian Kenyans Today]]
 - [[2007-2008 Kenya election crisis]]
 - [[Ethnic violence Kenya]]
-- [[Minority communities Kenya]]
+- [[Shia Islam Kenya Minority Communities]]
 
 ## Sources
 

@@ -17,7 +17,7 @@ The 1969 election took place in the shadow of Mboya's death, with the security f
 - [[1969 Election Kisumu Massacre]]
 - [[1969 Election Luo Exclusion]]
 - [[Kenya]]
-- [[Ethnic Politics Kenya]]
+- [[Kibaki and Ethnic Politics Mount Kenya Dominance]]
 - [[Political Assassination Kenya]]
 
 ## Sources

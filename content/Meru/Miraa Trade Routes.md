@@ -4,7 +4,7 @@ title: Miraa Trade Routes and Supply Chain Logistics
 
 # Miraa Trade Routes: From Igembe Farm to Global Markets
 
-The [[miraa]] (khat) trade involves one of East Africa's most sophisticated and time-sensitive supply chains. The product's perishability (losing potency within 24-48 hours) creates urgency and complexity in transport from [[Igembe]] to [[Nairobi]] and international markets.
+The [[miraa]] (khat) trade involves one of East Africa's most sophisticated and time-sensitive supply chains. The product's perishability (losing potency within 24-48 hours) creates urgency and complexity in transport from [[Tigania and Igembe]] to [[Nairobi]] and international markets.
 
 ## The Harvest to Market Journey
 

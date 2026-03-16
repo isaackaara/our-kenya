@@ -11,9 +11,9 @@ The NSE's development under Kibaki contributed to Kenya's positioning as East Af
 ## See Also
 
 [[Nairobi Securities Exchange History]]
-[[Capital Markets Kenya Development]]
+[[Art Markets Kenya]]
 [[Privatisation and Equity Markets]]
-[[Financial Markets Regulation Kenya]]
+[[Art Markets Kenya]]
 [[Kibaki Economic Record]]
 [[East African Financial Hubs]]
 

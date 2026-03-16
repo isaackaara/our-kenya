@@ -20,10 +20,10 @@ Land use considerations involved tension between tobacco cultivation and food pr
 
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
-[[Export Economy Kenya]]
+[[The NGO Economy]]
 [[Commodity Marketing Systems]]
 [[Health]]
-[[Environmental Resource Management]]
+[[Environmental Art]]
 [[Agricultural Labor Systems]]
 
 ## Sources

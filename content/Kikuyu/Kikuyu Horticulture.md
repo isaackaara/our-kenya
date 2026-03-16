@@ -59,7 +59,7 @@ Yet the established infrastructure, skilled labor, market relationships, and pro
 - [[Kikuyu Coffee Economy]]
 - [[Kikuyu Tea Farming]]
 - [[Kikuyu Business Networks]]
-- [[Kikuyu Agriculture|Agriculture and Farming]]
+- [[Kikuyu Agriculture Pre-Colonial|Agriculture and Farming]]
 - [[Kikuyu Entrepreneurs Deep Dive]]
 - [[Kikuyu Diaspora Beyond Kenya]]
 - [[Kenya Export Economy]]

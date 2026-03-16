@@ -38,7 +38,7 @@ The Catholic missions converted substantial portions of the [[Meru people]] popu
 
 ## Hospital and Healthcare
 
-The Catholic Church established [[health facilities]]:  
+The Catholic Church established [[Health]]:  
 
 - Mission hospitals providing medical services
 - Rural health posts

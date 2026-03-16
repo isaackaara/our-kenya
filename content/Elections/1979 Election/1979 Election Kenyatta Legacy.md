@@ -19,7 +19,7 @@ The 1979 election was an opportunity to move past Kenyatta-era politics without 
 - [[1979 Election]]
 - [[Daniel arap Moi]]
 - [[Nyala]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[Kenya]]
 
 ## Sources

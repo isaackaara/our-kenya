@@ -20,9 +20,9 @@ Contemporary women writers continue engaging Mugo's example as they develop femi
 [[The Trial of Dedan Kimathi]]
 [[Postcolonial Literature Movement]]
 [[African Feminist Thought]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Ngugi wa Thiong'o Literature]]
-[[Makerere University Literary Culture]]
+[[Moi University]]
 [[Theater and Politics Africa]]
 
 ## Sources

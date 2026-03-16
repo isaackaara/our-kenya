@@ -12,7 +12,7 @@ Photography workshops and non-formal training programs expanded significantly fr
 - [[Visual Arts Education]]
 - [[Photojournalism Practice]]
 - [[Technical Skills Training]]
-- [[Art School Development]]
+- [[Law School Development]]
 - [[Media Professional Development]]
 
 ## Sources

@@ -16,7 +16,7 @@ By the 1950s, the DC position was coming under pressure from both colonial refor
 
 [[Local Administration]]
 [[Colonial Courts Justice]]
-[[District Commissioner Colonial Role]]
+[[District Commissioner Role]]
 [[Colonial Police Force]]
 [[Hut Tax Implementation]]
 [[Land Alienation]]

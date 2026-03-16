@@ -4,7 +4,7 @@ title: Meru Origins and Migration
 
 # Meru Origins: The Mbwa Migration and Settlement
 
-The Meru account of their origins, preserved in [[oral tradition]], speaks of a great ancestral [[migration]] from a place called [[Mbwa]]. This location has been subject to historical interpretation (sometimes identified as the [[Mombasa]] coastal region, sometimes understood as a more mythological or spiritual point of departure).
+The Meru account of their origins, preserved in [[Kamba Literature and Oral Tradition Archive]], speaks of a great ancestral [[migration]] from a place called [[Mbwa]]. This location has been subject to historical interpretation (sometimes identified as the [[Mombasa]] coastal region, sometimes understood as a more mythological or spiritual point of departure).
 
 ## The Mbwa Tradition
 

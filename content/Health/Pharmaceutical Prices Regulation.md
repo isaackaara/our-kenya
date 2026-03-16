@@ -24,7 +24,7 @@ The rise of counterfeit and substandard medicines created additional challenges.
 - [[HIV AIDS Epidemic Kenya]]
 - [[Out-of-Pocket Health]]
 - [[Healthcare Policy Evolution]]
-- [[Poverty Health Impacts]]
+- [[Poverty]]
 
 ## Sources
 1. Tran, B.X., et al. "Challenges in managing the first-line antiretroviral therapy in sub-Saharan Africa." Health Economics Review 6.1 (2016): 31.

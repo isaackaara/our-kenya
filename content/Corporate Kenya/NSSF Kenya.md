@@ -18,11 +18,11 @@ NSSF reform discussions focus on voluntary contributions, investment returns, an
 ## See Also
 
 - [[Pension Sector Kenya]]
-- [[Social Security Kenya]]
+- [[Job Security]]
 - [[Nairobi Stock Exchange]]
 - [[Banking History Kenya]]
 - [[Insurance Industry Kenya]]
-- [[Investment Management Kenya]]
+- [[Art Investment]]
 - [[Parastatals Kenya]]
 
 ## Sources

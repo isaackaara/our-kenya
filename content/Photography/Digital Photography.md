@@ -7,13 +7,13 @@ Digital photography democratized the medium further by making high-quality image
 Professional photographers adapted to digital workflow while some maintained film-based practice for aesthetic reasons. Digital photography enabled specialized fields like drone photography and advanced computational photography that film could not achieve. Image editing software became essential professional tools, requiring photographers to develop new technical skills beyond camera operation. Digital archives posed challenges around storage, preservation, and access that differed from physical negatives and prints. Contemporary Kenyan photography exists within predominantly digital ecosystems, though debates about the medium's aesthetics, environmental impacts, and creative possibilities continue.
 
 ## See Also
-- [[Photography Technology Transitions]]
+- [[Technology]]
 - [[Social Media and Visual Culture]]
-- [[Digital Image Editing]]
+- [[Digital Art]]
 - [[Professional Photography Practice]]
 - [[Smartphone Photography]]
 - [[Image Archives and Preservation]]
-- [[Digital Divides and Access]]
+- [[Digital Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Digital_photography - Digital Photography History

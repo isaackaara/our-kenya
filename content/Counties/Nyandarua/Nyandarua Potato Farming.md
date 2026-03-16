@@ -31,7 +31,7 @@ Late blight (Phytophthora infestans) is a major disease in cool, wet highland en
 
 ## See Also
 
-- [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
+- [[Kikuyu|Nyandarua Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]

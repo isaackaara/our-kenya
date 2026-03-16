@@ -8,12 +8,12 @@ Contemporary comics in Kenya employ diverse genres and approaches from superhero
 
 ## See Also
 - [[Sequential Art and Narrative]]
-- [[Graphic Novels Kenya]]
-- [[Comic Publishing]]
+- [[Novels Mau Mau]]
+- [[Comic Art]]
 - [[Visual Storytelling]]
 - [[Character Design]]
 - [[Cartooning Practice]]
-- [[Digital Comics]]
+- [[Digital Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Comic_art - Comic Art History

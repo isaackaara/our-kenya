@@ -10,7 +10,7 @@ Critics of the foundation argued that it blurred the line between private charit
 
 Ruto defended the foundation as a legitimate exercise of personal generosity and social responsibility. He pointed out that the state had failed to deliver basic services to millions of Kenyans, and that private actors, including politicians, had a moral duty to step in. He also framed the foundation's work in Christian terms, quoting scripture and presenting charity as a religious obligation. The foundation's activities, he argued, were no different from the philanthropic work done by wealthy individuals around the world.
 
-But the political benefits were undeniable. By the time Ruto ran for president in 2022, he had built a vast network of people who felt personally indebted to him. Teachers, pastors, students, and community leaders who had received foundation support became grassroots organizers for his campaign. The foundation had created a political infrastructure that could be activated when needed, and it played a significant role in his [[2022 Election Victory]].
+But the political benefits were undeniable. By the time Ruto ran for president in 2022, he had built a vast network of people who felt personally indebted to him. Teachers, pastors, students, and community leaders who had received foundation support became grassroots organizers for his campaign. The foundation had created a political infrastructure that could be activated when needed, and it played a significant role in his [[2022 Election]].
 
 After Ruto became president, the foundation's activities slowed down, partly because Ruto now had access to state resources and partly to avoid the appearance of using charity for political purposes while in office. But the foundation had already served its purpose. It had carried Ruto through a decade of political wilderness and positioned him as a leader who delivered, not just promised. The foundation was not just charity. It was statecraft by other means.
 
@@ -18,7 +18,7 @@ After Ruto became president, the foundation's activities slowed down, partly bec
 - [[Ruto Early Life and Poverty Narrative]]
 - [[Ruto Hustler Narrative]]
 - [[Ruto and Church Relationships]]
-- [[2022 Election Victory]]
+- [[2022 Election]]
 - [[Kalenjin/Kalenjin Political Identity]]
 - [[Corruption/Political Philanthropy and Patronage]]
 - [[Uhuru Kenyatta]]

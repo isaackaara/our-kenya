@@ -2,7 +2,7 @@ Land issues on the Kenya coast are among the most complex and contested in the c
 
 ## Colonial Land Alienation
 
-During the British colonial period, vast areas of the Kenya coast were declared "government land" or allocated to Arab and Asian landlords based on earlier Sultanate concessions that the British incorporated into colonial law. These designations ignored Mijikenda customary claims and tenure. Mijikenda communities found their ancestral lands legally transformed into government or private property. The colonial legal system did not recognize customary tenure, creating a fundamental rupture in land [[land rights]].
+During the British colonial period, vast areas of the Kenya coast were declared "government land" or allocated to Arab and Asian landlords based on earlier Sultanate concessions that the British incorporated into colonial law. These designations ignored Mijikenda customary claims and tenure. Mijikenda communities found their ancestral lands legally transformed into government or private property. The colonial legal system did not recognize customary tenure, creating a fundamental rupture in land [[Land Rights Campaigns]].
 
 ## Arab and Asian Landlords
 
@@ -51,7 +51,7 @@ International and domestic human rights organizations have documented dispossess
 ## See Also
 
 - [[Coastal Land Question]] - Historical context
-- [[Coast [[marginalization]]]] - Systemic inequality
+- [[Coast Marginalization]]]] - Systemic inequality
 - [[Kaya Conservation Challenges]] - Land use tensions
 - [[Climate Change and Coastal Communities]] - Environmental pressure
 - [[Giriama Uprising Historical Context]] - Historical dispossession

@@ -51,12 +51,12 @@ The combination of traditional foods with market goods characterizes contemporar
 
 ## See Also
 
-- [[Meru Culture]]
+- [[Meru Food Culture]]
 - [[Meru Farming Practices]]
 - [[Meru Agricultural]]
 - [[Meru Social Practices]]
 - [[Kenya Food Culture]]
-- [[African Food Traditions]]
+- [[Food]]
 
 ---
 

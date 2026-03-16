@@ -1,12 +1,12 @@
 Climate change presents significant challenges and threats to Mjikenda and other coastal communities. Changing rainfall patterns, increased temperatures, sea level rise, and increased extreme weather events affect agriculture, water availability, health, and livelihoods. Adaptation and mitigation are increasingly important development priorities.
 
-## Rainfall Variability and [[drought]]
+## Rainfall Variability and [[Drought and Famine]]
 
 East African coastal regions, including Mjikenda territories, are experiencing increased rainfall variability. Wet seasons have become less reliable, with delayed or reduced rainfall. Dry seasons have intensified, with droughts becoming more frequent and severe. Drought stress affects agriculture, pastoral activity, and water availability. Multiple successive droughts create cumulative stress on communities and environments. Rainfall unpredictability makes agricultural planning difficult.
 
 ## Agricultural Impacts
 
-Agricultural productivity is directly affected by rainfall variability. Crop failures occur when rainfall is insufficient. Soil moisture stress limits plant growth. Extended droughts can result in complete crop failure. Pastoral communities experience livestock losses during droughts. Agricultural productivity declines affect [[food security]] and income. Climate stress disproportionately affects rain-dependent small-scale farmers common in Mjikenda areas.
+Agricultural productivity is directly affected by rainfall variability. Crop failures occur when rainfall is insufficient. Soil moisture stress limits plant growth. Extended droughts can result in complete crop failure. Pastoral communities experience livestock losses during droughts. Agricultural productivity declines affect [[Food Security Policies]] and income. Climate stress disproportionately affects rain-dependent small-scale farmers common in Mjikenda areas.
 
 ## Water Scarcity
 

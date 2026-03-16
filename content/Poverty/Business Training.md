@@ -35,7 +35,7 @@ Training impact is constrained by complementary barriers. Capital constraint mea
 ## See Also
 
 - [[Entrepreneurship Support]]
-- [[Business Development]]
+- [[Small Business Development]]
 - [[Informal Sector]]
 - [[Job Creation]]
 - [[Skill Gaps]]

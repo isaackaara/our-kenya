@@ -9,7 +9,7 @@ Ceramic sculpture and fine art ceramics explore ceramics as primary artistic med
 ## See Also
 - [[Clay and Material Properties]]
 - [[Pottery Techniques]]
-- [[Kiln Technology and Firing]]
+- [[Technology]]
 - [[Sculptural Ceramics]]
 - [[Functional Pottery Production]]
 - [[Glaze Chemistry]]

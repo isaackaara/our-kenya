@@ -1,6 +1,6 @@
 Historical fiction in Kenya engages the nation's past through narrative strategies allowing imaginative engagement with history while raising questions about truth, interpretation, and literature's relationships to historical knowledge. Rather than mere entertainment, Kenyan historical fiction functions as serious intellectual work addressing how societies understand and remember their pasts.
 
-Postcolonial Kenya saw flourishing of historical fiction as writers sought to reclaim and reinterpret colonial history and anticolonial struggle through literary forms. Novelists addressing colonialism, [[Mau Mau Emergency]], and independence movement drew on historical research while employing fictional narrative to explore psychological dimensions and moral complexity of historical events. This combination of historical foundation and fictional development created literature of distinctive aesthetic and intellectual significance.
+Postcolonial Kenya saw flourishing of historical fiction as writers sought to reclaim and reinterpret colonial history and anticolonial struggle through literary forms. Novelists addressing colonialism, [[Mau Mau Emergency Broadcasting]], and independence movement drew on historical research while employing fictional narrative to explore psychological dimensions and moral complexity of historical events. This combination of historical foundation and fictional development created literature of distinctive aesthetic and intellectual significance.
 
 [[A Grain of Wheat]] by [[Ngugi wa Thiong'o]] exemplifies historical fiction's capacities, using fictional narrative addressing independence moment to explore historical reckoning and moral complexity. The novel's engagement with specific historical events through characters' psychological experience demonstrated how fiction could illuminate historical periods while maintaining artistic integrity.
 
@@ -25,7 +25,7 @@ Contemporary historical fiction in Kenya continues engaging the nation's past, a
 [[Postcolonial Literature Movement]]
 [[Ngugi wa Thiong'o Literature]]
 [[Charity Waciuma Autobiography]]
-[[Colonial History Narratives]]
+[[4_EAC_History]]
 [[National Identity Kenya]]
 [[Women's Historical Writing]]
 

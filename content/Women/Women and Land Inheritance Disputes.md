@@ -25,7 +25,7 @@ Women-headed households suffer disproportionate dispossession. When husbands die
 [[Kikuyu History Social Structure]]
 [[Women Property Rights Marriage]]
 [[Customary Law Women]]
-[[Gender Economic Inequality]]
+[[Gender Pay Gap]]
 
 ## Sources
 

@@ -146,7 +146,7 @@ Environmental degradation represents one of the most significant long-term chall
 
 - [[Kisii County]] - administrative and geographic context
 - [[Kisii Farming Practices]] - agricultural drivers
-- [[Forest conservation in Kenya]] - restoration efforts
+- [[Conservation]] - restoration efforts
 - [[Climate change impacts in East Africa]] - environmental threats
-- [[Water scarcity in Kenya]] - resource stress
+- [[Water Scarcity Northern Kenya]] - resource stress
 - [[Soil degradation in Africa]] - ecological impacts

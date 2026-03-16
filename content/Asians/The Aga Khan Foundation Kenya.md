@@ -1,4 +1,4 @@
-The [[Aga Khan Development Network]] (AKDN) has been one of the most significant institutional presences in Kenya, operating hospitals, schools, media companies, and other service organizations. The AKDN's work in Kenya has touched millions of lives and has made the [[Aga Khan]] one of the most influential figures in East African development.
+The [[Development Aid]] (AKDN) has been one of the most significant institutional presences in Kenya, operating hospitals, schools, media companies, and other service organizations. The AKDN's work in Kenya has touched millions of lives and has made the [[Aga Khan]] one of the most influential figures in East African development.
 
 ## Hospitals and Healthcare
 

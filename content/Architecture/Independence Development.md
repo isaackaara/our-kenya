@@ -17,7 +17,7 @@ Contemporary reflections on independence-era development recognize both symbolic
 [[Colonial Legacy]]
 [[Urban Planning Development]]
 [[Nairobi Built Environment]]
-[[Highland Development]]
+[[Development Aid]]
 [[Industrial Building Design]]
 [[Education]]
 [[Presidencies]]

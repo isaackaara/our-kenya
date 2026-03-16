@@ -9,7 +9,7 @@ The political strategies of resistance involve engaging authorities, politicians
 The relationship between community resistance and broader rights movements is significant. Successful resistance affirms that communities have agency and can challenge state power; this has consciousness-raising effects beyond the immediate case. Resistance raises awareness of land rights and housing rights; social movements emerge demanding systematic change. However, successful resistance at small scale does not prevent systematic displacement patterns; large-scale structural change requires systemic political and legal reforms. Community resistance is crucial for preventing individual evictions and asserting human rights; however, fundamental housing security requires legal frameworks protecting tenure and preventing unjust displacement.
 
 ## See Also
-[[Eviction Displacement]], [[Land Rights]], [[Civil Society]], [[Human Rights]], [[Housing Rights]], [[Activism and Advocacy]], [[Community Organization]], [[Legal Recourse]]
+[[Eviction Displacement]], [[Land Rights Campaigns]], [[Civil Society Kenya]], [[Human Rights Military Operations]], [[Housing Rights]], [[Activism and Advocacy]], [[Refugee Community Organization]], [[Legal Recourse]]
 
 ## Sources
 1. Kenya Human Rights Commission (2018). "Community Resistance to Forced Eviction: Documentation and Analysis." https://www.khrc.or.ke

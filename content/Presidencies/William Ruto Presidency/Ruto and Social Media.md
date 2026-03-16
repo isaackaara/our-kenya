@@ -4,7 +4,7 @@ Ruto's Twitter (now X) account, which has over 5 million followers, is his prima
 
 The Ruto digital machine also includes a vast network of influencers, bloggers, and online activists who amplify his message and attack his critics. These digital operatives, often referred to as "Ruto bloggers," are organized, well-funded, and relentless. They flood social media with pro-Ruto content, defend him against criticism, and launch coordinated attacks on opposition figures, journalists, and civil society activists. The ecosystem is sophisticated, with some influencers earning significant income from government-aligned contracts, advertising, and patronage. The line between organic support and paid propaganda is often impossible to distinguish.
 
-This digital army was particularly effective during the [[2022 Election Victory]], where Ruto's team out-messaged the Azimio coalition online. They framed the election as a battle between the "hustler nation" and the "dynasties," and they used memes, videos, and viral content to spread that narrative. Raila's campaign, by contrast, relied on traditional media and rallies, and was slow to adapt to the digital battlefield. By the time Raila's team recognized the importance of social media, Ruto had already won the online war.
+This digital army was particularly effective during the [[2022 Election]], where Ruto's team out-messaged the Azimio coalition online. They framed the election as a battle between the "hustler nation" and the "dynasties," and they used memes, videos, and viral content to spread that narrative. Raila's campaign, by contrast, relied on traditional media and rallies, and was slow to adapt to the digital battlefield. By the time Raila's team recognized the importance of social media, Ruto had already won the online war.
 
 But social media also became a liability for Ruto during the [[Finance Bill 2024 and Gen Z Uprising]]. The [[Gen Z Kenya Political Awakening]] was organized almost entirely on TikTok, X, and WhatsApp. Young Kenyans used social media to coordinate protests, share information about police violence, and mock the government's propaganda. Ruto's digital influencers tried to counter the narrative, but they were overwhelmed. The Gen Z protesters were decentralized, anonymous, and impossible to co-opt. When Ruto's bloggers tried to discredit the protests as foreign-funded or politically motivated, they were met with ridicule and evidence of police brutality that went viral within minutes.
 
@@ -18,7 +18,7 @@ By 2024, Ruto's relationship with social media was a double-edged sword. It had 
 - [[Ruto Inauguration and First 100 Days]]
 - [[Finance Bill 2024 and Gen Z Uprising]]
 - [[Gen Z Kenya Political Awakening]]
-- [[2022 Election Victory]]
+- [[2022 Election]]
 - [[Ruto and Media]]
 - [[eCitizen and Digital Government Ruto]]
 - [[Corruption/Digital Disinformation and State Propaganda]]

@@ -82,12 +82,12 @@ By 2026, Vision 2030 is in its final years. A new long-term framework (Vision 20
 ## See Also
 
 - [[Kenya]]
-- [[Development Planning Kenya]]
+- [[Development Aid]]
 - [[Mwai Kibaki]]
-- [[Infrastructure Projects Kenya]]
+- [[IT Infrastructure Kenya]]
 - [[Standard Gauge Railway]]
 - [[Kenya]]
-- [[Economic Development Kenya]]
+- [[Development Aid]]
 
 ## Sources
 

@@ -10,7 +10,7 @@ Talent availability and cost competitiveness supported software industry growth.
 
 ## See Also
 
-[[App Development Industry]], [[Tech Startups Ecosystem]], [[Coding Bootcamps Kenya]], [[Entrepreneurship Kenya]], [[Technology Education Programs]], [[Diaspora Innovation]]
+[[App Development Industry]], [[Tech Startups Ecosystem]], [[Coding Bootcamps Kenya]], [[Entrepreneurship Kenya]], [[Technology Education Programs]], [[Tech Innovation Diaspora]]
 
 ## Sources
 

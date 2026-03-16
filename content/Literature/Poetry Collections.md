@@ -1,6 +1,6 @@
 Poetry collections represent significant literary form in Kenya, serving as vehicles through which poets achieve publication and reach readers while maintaining artistic autonomy and formal innovation. The publication history of Kenyan poetry collections reveals poets' engagement with both postcolonial themes and universal human experiences, creating work of diverse aesthetic and political commitments.
 
-[[Jared Angira]]'s serial poetry collections established model for Kenyan poetry's institutional development. [[Juices]] (1970), [[Silent Voices]] (1972), [[Soft Corals]] (1973), and subsequent volumes demonstrated sustained poetic achievement across decades, establishing poetry collections' legitimacy as serious literary form. Angira's prolific output established that Kenyan poets could sustain careers producing substantial bodies of verse.
+[[Jared Angira Poetry]]'s serial poetry collections established model for Kenyan poetry's institutional development. [[Juices]] (1970), [[Silent Voices]] (1972), [[Soft Corals]] (1973), and subsequent volumes demonstrated sustained poetic achievement across decades, establishing poetry collections' legitimacy as serious literary form. Angira's prolific output established that Kenyan poets could sustain careers producing substantial bodies of verse.
 
 Poetry collections functioned as singular artistic statements, with individual collections presenting coherent aesthetic visions and thematic explorations. Poets carefully sequenced poems within collections to create narrative arcs or philosophical progressions, with collection structure enhancing individual poems' meanings. This artistry of collection construction made poetry collections more than mere aggregations of previously published poems.
 
@@ -14,7 +14,7 @@ Poetry collections in Swahili and other African languages represented important 
 
 Postcolonial poets engaged poetry collections as opportunities to address decolonization, cultural authenticity, and national identity. Some poets drew explicitly on oral traditions and indigenous poetic forms, using poetry collections to assert African aesthetic values. Others engaged international modernist and contemporary poetic movements, incorporating these influences while maintaining African specificity.
 
-Women poets increasingly published collections, establishing female presence within Kenya's poetic tradition. [[Micere Mugo]]'s poetry collections addressed feminist concerns while engaging broader postcolonial political commitments. The expansion of women's poetic collections meant female voices received more substantial representation within Kenya's poetry tradition, though male-authored collections continued dominating in numbers and cultural prestige.
+Women poets increasingly published collections, establishing female presence within Kenya's poetic tradition. [[Micere Mugo Feminist Literature]]'s poetry collections addressed feminist concerns while engaging broader postcolonial political commitments. The expansion of women's poetic collections meant female voices received more substantial representation within Kenya's poetry tradition, though male-authored collections continued dominating in numbers and cultural prestige.
 
 Thematic coherence and formal innovation both characterized significant poetry collections. Some collections unified around specific themes or narrative arcs, while others explored formal experimentation with poetic structure and language. The most distinguished collections often accomplished both thematic richness and formal sophistication, achieving artistic complexity and emotional power.
 
@@ -26,10 +26,10 @@ Contemporary poetry collections in Kenya continue exploring diverse aesthetic ap
 [[Jared Angira Poetry]]
 [[Postcolonial Literature Movement]]
 [[Oral Poetry Traditions]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Literary Journals Publishing]]
 [[Publishing Industry Kenya]]
-[[Contemporary Kenyan Poetry]]
+[[Kenyan Hip-Hop]]
 
 ## Sources
 1. https://africanpoetics.unl.edu/index-of-poets/item/apdp.person.002655 - Angira's poetry collection achievements

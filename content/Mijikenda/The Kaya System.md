@@ -24,7 +24,7 @@ The kaya system was tied to elaborate male and female initiation ceremonies. You
 
 ## The Kaya System Under Colonial Rule
 
-During the British colonial period (1895-1963), the [[Kaya System|kayas]] came under pressure. The British viewed the [[Kaya System|kayas]] as centers of resistance and cultural conservatism that impeded colonial administration. During the [[Giriama Uprising 1913-1914|Giriama Uprising]] of 1913-1914, the British specifically targeted the [[Kaya System|kayas]], burning settlements and razing sacred spaces as punishment. The burning of Kaya Fungo, the sacred center of the [[Giriama]], symbolized the colonial assault on the [[Kaya System|kaya system]].
+During the British colonial period (1895-1963), the [[Kaya System|kayas]] came under pressure. The British viewed the [[Kaya System|kayas]] as centers of resistance and cultural conservatism that impeded colonial administration. During the [[The Giriama Uprising 1913-1914|Giriama Uprising]] of 1913-1914, the British specifically targeted the [[Kaya System|kayas]], burning settlements and razing sacred spaces as punishment. The burning of Kaya Fungo, the sacred center of the [[Giriama]], symbolized the colonial assault on the [[Kaya System|kaya system]].
 
 Following the uprising, the British imposed colonial rule more directly, and the kayas gradually ceased to function as permanent settlements. The colonial government encouraged or forced the Mijikenda to relocate outside the kayas, establishing communities in areas more accessible to colonial administration and labor recruitment. By the mid-20th century, the kayas had largely been abandoned as places of primary residence, though they retained and continue to retain profound sacred significance.
 

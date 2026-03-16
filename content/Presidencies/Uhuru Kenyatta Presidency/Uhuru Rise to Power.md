@@ -43,7 +43,7 @@ By 2013, Uhuru had transformed from political heir apparent who lost to a more s
 - [[Mwai Kibaki]]
 - [[Raila Odinga]]
 - [[Jubilee Party]]
-- [[2007-2008 Post-Election Violence]]
+- [[2007-2008 Post Election Violence]]
 - [[2013 Kenyan Election]]
 - [[Kikuyu]]
 

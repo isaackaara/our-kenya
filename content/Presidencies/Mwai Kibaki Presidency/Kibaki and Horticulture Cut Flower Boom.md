@@ -11,7 +11,7 @@ Despite these challenges, the horticulture sector represented a success story fo
 ## See Also
 
 [[Kenya Agricultural Exports]]
-[[Horticulture Industry Kenya]]
+[[Tea Industry Kenya]]
 [[Cut Flower Production Kenya]]
 [[Agricultural Commercialisation]]
 [[Water Resources and Agriculture]]

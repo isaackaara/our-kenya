@@ -10,10 +10,10 @@ International forensic examination in terrorism contexts often involved [[Interp
 
 ## See Also
 
-[[Forensic Investigation Units]]
+[[Forensic-Investigation-Units]]
 [[Kenya Police]]
 [[Kenya Defence Force]]
-[[Homicide Investigation]]
+[[Homicide-Investigation]]
 [[Counterterrorism Operations Kenya]]
 [[Armed Forces Infrastructure]]
 [[Forensic Evidence Handling]]

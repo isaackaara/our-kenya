@@ -107,5 +107,5 @@ The integration of biomedical and traditional practices reflects Kisii pragmatis
 - [[Abagusii Cosmology]] - spiritual significance of naming
 - [[Kisii Circumcision]] - life stage transitions
 - [[Kisii Death and Burial]] - lifecycle rituals
-- [[Maternal health in Kenya]] - biomedical integration
+- [[Health]] - biomedical integration
 - [[Traditional African birth practices]] - comparative perspective

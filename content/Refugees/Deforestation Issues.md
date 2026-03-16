@@ -11,7 +11,7 @@ Long-term environmental implications of deforestation extended beyond immediate 
 [[Refugee Environmental Impact]]
 [[Water Scarcity Conflicts]]
 [[Host Community Relations]]
-[[Environmental Sustainability Camps]]
+[[Environmental Art]]
 [[Arid Ecosystem Degradation]]
 [[Pastoral Land Use]]
 

@@ -12,8 +12,8 @@ By 2024-2025, the supplementary budget cuts had become emblematic of Ruto's gove
 [[Ruto Second Budget and Austerity]]
 [[IMF Program Kenya Conditionality]]
 [[Government Revenue and Debt Service]]
-[[Development Spending Constraints]]
-[[Public Service Delivery Impact]]
+[[Development Aid]]
+[[Public Art]]
 [[Fiscal Consolidation and Social Protection]]
 
 ## Sources

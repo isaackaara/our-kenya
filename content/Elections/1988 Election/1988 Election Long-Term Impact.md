@@ -2,7 +2,7 @@ The 1988 election was Kenya's most consequential election for democracy and auth
 
 ## See Also
 - [[1988 Election]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Daniel arap Moi]]
 - [[Kenya]]
 - [[Kenya]]

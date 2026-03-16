@@ -28,7 +28,7 @@ Healthcare facilities require expansion and equipment improvement. Educational i
 
 ## Cross-References
 
-See also: [[Narok County|Narok County]], [[Narok Town|Narok Town]], [[Narok Tourism|Narok Tourist Economy]]
+See also: [[Narok County|Narok County]], [[Narok Town|Narok Town]], [[Art Tourism|Narok Tourist Economy]]
 
 
 ## See Also

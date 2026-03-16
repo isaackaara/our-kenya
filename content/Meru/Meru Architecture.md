@@ -58,12 +58,12 @@ Contemporary architects occasionally reference these traditional design principl
 
 ## See Also
 
-- [[Meru Culture]]
+- [[Meru Food Culture]]
 - [[Meru Homestead]]
 - [[Meru Crafts]]
 - [[Meru Food Culture]]
 - [[Kenya Traditional Architecture]]
-- [[Sustainable Architecture in Africa]]
+- [[Architecture]]
 
 ## Sources
 

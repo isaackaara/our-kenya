@@ -10,7 +10,7 @@ Contemporary logo design navigates multiple platforms including print, digital s
 - [[Branding and Identity]]
 - [[Visual Symbol Design]]
 - [[Corporate Identity Systems]]
-- [[Typography in Logo Design]]
+- [[Logo Design]]
 - [[Color Strategy Design]]
 - [[Professional Graphic Design]]
 - [[Brand Management]]

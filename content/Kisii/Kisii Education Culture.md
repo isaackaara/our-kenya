@@ -130,7 +130,7 @@ The educational culture that emerged from land scarcity has created a human capi
 - [[Kisii County]] - administrative context
 - [[Kisii Diaspora]] - educated out-migration
 - [[Seventh-day Adventist education in Kenya]] - mission school influence
-- [[School fees and access in Kenya]] - education economics
+- [[School Fees Access]] - education economics
 - [[Teacher quality in Kenya]] - implementation challenges
 - [[Gender and education in Kenya]] - equity issues
 

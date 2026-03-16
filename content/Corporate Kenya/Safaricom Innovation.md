@@ -51,7 +51,7 @@ Safaricom is likely to continue innovating in financial services. Future opportu
 - [[M-Pesa Economic Impact]]
 - [[Mobile Banking Kenya]]
 - [[Financial Innovation Kenya]]
-- [[Digital Payments Kenya]]
+- [[Digital Art]]
 - [[Microfinance Kenya]]
 - [[Kenya]]
 

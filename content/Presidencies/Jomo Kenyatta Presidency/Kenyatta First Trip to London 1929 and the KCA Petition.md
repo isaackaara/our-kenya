@@ -16,7 +16,7 @@ Kenyatta initially returned to Kenya in 1930, but the political ground had shift
 [[Kenyatta Rise to Power]]
 [[Facing Mount Kenya book 1938]]
 [[Kenyatta in wartime Britain]]
-[[Pan-Africanism and Kenyatta]]
+[[Kenyatta and Pan-Africanism]]
 
 ## Sources
 

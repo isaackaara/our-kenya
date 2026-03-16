@@ -1,4 +1,4 @@
-[[Silicon Savannah]] is the moniker for [[Nairobi]]'s [[Tech Startups Ecosystem|tech startup ecosystem]]. Emerging in the early 2010s, the ecosystem was enabled by three factors: cheap [[bandwidth Kenya|bandwidth]] ([[Submarine Cables Kenya|submarine cables]], 2009), a [[young population Kenya|young educated population]], and [[mobile money Kenya|mobile money]] infrastructure.
+[[Silicon Savannah]] is the moniker for [[Nairobi]]'s [[Tech Startups Ecosystem|tech startup ecosystem]]. Emerging in the early 2010s, the ecosystem was enabled by three factors: cheap [[bandwidth Kenya|bandwidth]] ([[Submarine Cables Kenya|submarine cables]], 2009), a [[young population Kenya|young educated population]], and [[Mobile Money Revolution Kenya|mobile money]] infrastructure.
 
 ## Enabling Factors
 

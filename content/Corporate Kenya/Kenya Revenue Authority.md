@@ -82,7 +82,7 @@ The government has targeted a tax-to-GDP ratio of 22% by 2030 (up from roughly 1
 - [[Informal Economy Kenya]]
 - [[Post-Independence Economic Policy]]
 - [[Kenya Shilling History]]
-- [[Public Finance Kenya]]
+- [[Public Art]]
 - [[Smuggling and Border Control Kenya]]
 
 ## Sources

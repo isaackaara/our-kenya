@@ -17,7 +17,7 @@ The regional patterns of the 1992 election thus demonstrated the ethnic basis of
 - [[Regional Politics Kenya]]
 - [[Rift Valley Politics]]
 - [[Electoral Geography]]
-- [[Opposition Geographic Distribution]]
+- [[Moi and the Opposition]]
 - [[Electoral Polarization]]
 
 ## Sources

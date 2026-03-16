@@ -10,7 +10,7 @@ The Alliance experience also socialised Kibaki into a particular form of Kenyan 
 
 ## See Also
 
-[[Alliance High School History]]
+[[Alliance High School]]
 [[Kenya Colonial Education System]]
 [[Educational Elite in Post-Independence Kenya]]
 [[Kibaki Education and Training]]

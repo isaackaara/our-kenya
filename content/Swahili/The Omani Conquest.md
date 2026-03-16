@@ -1,4 +1,4 @@
-The Omani Arabs expelled the Portuguese from the East African coast in the late 17th century, ending Portuguese dominance and establishing [[Omani]] authority that would persist through the 19th century. The expulsion of the Portuguese was not a single military event but rather a process of Omani expansion and Portuguese military pressure over decades, culminating in [[Oman|Oman's]] control of the coast by approximately 1698.
+The Omani Arabs expelled the Portuguese from the East African coast in the late 17th century, ending Portuguese dominance and establishing [[Omani Rule Coast]] authority that would persist through the 19th century. The expulsion of the Portuguese was not a single military event but rather a process of Omani expansion and Portuguese military pressure over decades, culminating in [[Oman|Oman's]] control of the coast by approximately 1698.
 
 ## Portuguese Decline
 

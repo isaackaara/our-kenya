@@ -14,7 +14,7 @@ Lake Victoria covers approximately 68,800 square kilometers, with:
 
 The lake is relatively shallow (mean depth of 40 meters, maximum depth of 84 meters), making it vulnerable to pollution and nutrient loading. It has no permanent outflow; water exits via evaporation and the Nile River outlet.
 
-The [[Nile River System]]'s primary source (the most distant hydrological origin) is in the Bujumbura region of Burundi, but the Nile's major flow originates in [[Lake Victoria]]. The outlet channel runs from [[Lake Victoria]] through Uganda toward the Mediterranean.
+The [[18_Nile_River_System]]'s primary source (the most distant hydrological origin) is in the Bujumbura region of Burundi, but the Nile's major flow originates in [[Lake Victoria]]. The outlet channel runs from [[Lake Victoria]] through Uganda toward the Mediterranean.
 
 ## Fishing Economy
 
@@ -56,7 +56,7 @@ These cities have historically been centers of cross-border commerce and cultura
 
 ## The Nile Source Question
 
-[[Lake Victoria]] is the major source of the [[Nile River System]]. The Nile, flowing north through Sudan and Egypt for thousands of kilometers, is one of the world's great rivers and central to Egyptian civilization and water security.
+[[Lake Victoria]] is the major source of the [[18_Nile_River_System]]. The Nile, flowing north through Sudan and Egypt for thousands of kilometers, is one of the world's great rivers and central to Egyptian civilization and water security.
 
 The outlet from [[Lake Victoria]] represents the start of the Nile's long journey. For Egypt and Sudan, [[Lake Victoria]]'s water is crucial to their survival. This has made East African water resources a matter of significant international concern and geopolitical importance.
 
@@ -80,17 +80,17 @@ These challenges threaten both the fishery's long-term viability and the lake's 
 
 - Disputes over fishing rights and quotas
 - Disagreements over pollution control standards
-- Tensions over water allocation (particularly as the [[Nile River System]] becomes increasingly contested globally)
+- Tensions over water allocation (particularly as the [[18_Nile_River_System]] becomes increasingly contested globally)
 - Inconsistent enforcement of shared regulations
 
 ## See Also
 
 - [[Kenya]]
 - [[Kenya]]
-- [[Nile River System]]
-- [[Great Rift Valley]]
+- [[18_Nile_River_System]]
+- [[16_Great_Rift_Valley]]
 - [[East Africa]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[East Africa Timeline]]
 
 ## Sources

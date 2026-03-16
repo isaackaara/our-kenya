@@ -10,11 +10,11 @@ Strengthening rural healthcare access requires investment in facility infrastruc
 
 ## See Also
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
-[[Poverty and Health|Poverty]]
+[[Health|Hospital Infrastructure Standards]]
+[[Poverty|Poverty]]
 [[Maternal Mortality Reduction|Maternal Mortality Reduction]]
 [[Water Sanitation Health|Water Sanitation Health]]
-[[Presidencies of Kenya|Presidencies]]
+[[Presidencies|Presidencies]]
 
 ## Sources
 1. https://www.health.go.ke/

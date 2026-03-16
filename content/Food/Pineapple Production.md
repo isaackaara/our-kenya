@@ -20,7 +20,7 @@ Nutritionally, pineapple provided important micronutrients and represented diver
 
 [[Fruit Production Sector]]
 [[Horticultural Sector]]
-[[Export Economy Kenya]]
+[[The NGO Economy]]
 [[Smallholder Agriculture]]
 [[Agroforestry Systems]]
 [[Food Processing Industry]]

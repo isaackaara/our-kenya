@@ -11,8 +11,8 @@ Contemporary TB control efforts emphasize early case detection through community
 ## See Also
 [[HIV/AIDS Epidemic Kenya|HIV/AIDS Epidemic Kenya]]
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
-[[Poverty and Health|Poverty]]
+[[Health|Hospital Infrastructure Standards]]
+[[Mental Health Poverty|Poverty]]
 [[Urban Slum Health Services|Urban Slum Health Services]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 

@@ -21,7 +21,7 @@ The decline of sisal in Kwale reflects broader agricultural transitions toward m
 - [[Kwale Cashew|Kwale Cashew]]
 - [[Kwale Coconut Economy|Kwale Coconut Economy]]
 - [[Kwale Colonial History|Kwale Colonial History]]
-- [[Kwale Economy|Kwale Economy]]
+- [[Kwale Coconut Economy|Kwale Economy]]
 
 ## Sources
 

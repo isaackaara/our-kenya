@@ -21,7 +21,7 @@ The decline of wine trading as alternative beverages became available and as Isl
 ## See Also
 
 [[Merchant Networks]]
-[[Minority Communities]]
+[[Shia Islam Kenya Minority Communities]]
 [[Islamic Law]]
 [[Trade Routes Networks]]
 [[Discreet Commerce]]

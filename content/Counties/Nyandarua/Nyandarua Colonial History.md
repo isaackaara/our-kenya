@@ -31,7 +31,7 @@ Mau Mau uprising and subsequent negotiations led to Kenya's independence in 1964
 
 ## See Also
 
-- [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
+- [[Kikuyu|Nyandarua Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]

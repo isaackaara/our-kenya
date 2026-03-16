@@ -1,4 +1,4 @@
-The [[British Army Training Unit Kenya]] (BATUK) operates at [[Nanyuki]], in the foothills of [[Mount Kenya]] near the [[Laikipia Plains]]. BATUK provides [[training facilities]] for [[British Military Assistance Kenya]] (and other [[Kenya at the Commonwealth Games]]) units. The presence of a [[foreign military facility]] on Kenyan soil, decades after [[independence]], remains a symbol of continued [[British influence]] and raises ongoing questions about [[Kenya]].
+The [[Luo and the British]] (BATUK) operates at [[Nanyuki]], in the foothills of [[Mount Kenya]] near the [[Laikipia Plains]]. BATUK provides [[training facilities]] for [[British Military Assistance Kenya]] (and other [[Kenya at the Commonwealth Games]]) units. The presence of a [[Military]] on Kenyan soil, decades after [[independence]], remains a symbol of continued [[Luo and the British]] and raises ongoing questions about [[Kenya]].
 
 ## Historical Origins and Justification
 

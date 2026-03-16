@@ -37,7 +37,7 @@ While qaad sessions remain important in Somali communities, patterns are changin
 - [[Garissa County]]
 - [[Wajir County]]
 - [[Pastoralism and Climate Change]]
-- [[Somali Social Institutions]]
+- [[Somali]]
 
 ## Sources
 

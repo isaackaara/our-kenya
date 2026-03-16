@@ -22,7 +22,7 @@ By the 1950s, African scientists and scholars increasingly questioned the coloni
 [[Colonial Knowledge Production]]
 [[Colonial Anthropology]]
 [[Colonial Medicine Healthcare]]
-[[Colonial Agriculture]]
+[[Kikuyu Agriculture Pre-Colonial]]
 [[Scientific Colonialism]]
 [[Indigenous Knowledge Systems]]
 

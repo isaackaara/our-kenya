@@ -3,8 +3,8 @@ Kenya's security forces' response to post-election violence was inconsistent and
 ## See Also
 
 - [[Post-Election Violence]]
-- [[Police violence Kenya]]
-- [[Security forces accountability]]
+- [[Kenya Police]]
+- [[Job Security]]
 - [[Extra-judicial killings Kenya]]
 
 ## Sources

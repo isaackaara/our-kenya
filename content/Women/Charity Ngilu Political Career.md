@@ -25,7 +25,7 @@ Ngilu's career contributions included establishing that women could successfully
 [[Women Parliament Kenya]]
 [[Female Government Representation]]
 [[Women Politics Electoral]]
-[[Women Economic Empowerment]]
+[[Women Economic Empowerment Kenya]]
 [[Women Leadership Capacity]]
 [[Gender Electoral Quotas]]
 

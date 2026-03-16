@@ -27,7 +27,7 @@ The equator becomes culturally significant locally. Nanyuki identity is connecte
 
 ## See Also
 
-- [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
+- [[Kikuyu|Laikipia Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]

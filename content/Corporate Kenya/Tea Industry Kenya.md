@@ -71,7 +71,7 @@ Kenya's tea industry is likely to remain a major export. However, growth will be
 
 ## See Also
 
-- [[Agricultural History Kenya]]
+- [[Kenya Agricultural History]]
 - [[Cooperative Movement Kenya]]
 - [[Coffee Industry Kenya]]
 - [[Kenya Exports]]

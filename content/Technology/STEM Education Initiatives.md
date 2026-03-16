@@ -10,7 +10,7 @@ International STEM education programs brought advanced methodologies and resourc
 
 ## See Also
 
-[[Computer Science Education]], [[Tech Education Programs]], [[Education Policy Kenya]], [[University Research Programs]], [[Technology Innovation]], [[Entrepreneurship Kenya]]
+[[Computer Science Education]], [[Tech Education Programs]], [[Education Policy Kenya]], [[Moi University]], [[Health Technology Innovation]], [[Entrepreneurship Kenya]]
 
 ## Sources
 

@@ -14,7 +14,7 @@ The integration of passive design strategies, reducing mechanical systems depend
 
 [[Green Building Standards]]
 [[Climate Resilience]]
-[[Environmental Urban Design]]
+[[Environmental Art]]
 [[Modern Construction Techniques]]
 [[Energy Infrastructure]]
 [[Water Infrastructure]]

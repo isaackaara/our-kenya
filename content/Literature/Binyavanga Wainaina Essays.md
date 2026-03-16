@@ -12,9 +12,9 @@ Wainaina's directorship of the Chinua Achebe Center for African Writers and Arti
 
 ## See Also
 [[Kwani Magazine Kenya]]
-[[Contemporary Kenyan Writers]]
+[[Kenyan Hip-Hop]]
 [[African Identity Essays]]
-[[Literary Journalism East Africa]]
+[[Art Journalism]]
 [[Postcolonial Theory and Writing]]
 [[Memoir and Autobiography Kenya]]
 [[Pan-African Literary Networks]]

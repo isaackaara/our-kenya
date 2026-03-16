@@ -10,11 +10,11 @@ Advocacy efforts by LGBTQ+ organizations including the [[Kenya Human Rights Comm
 
 ## See Also
 
-[[Women Military Police]]
-[[Gender Security Forces]]
+[[Women-Military-Police]]
+[[Gender-Security-Forces]]
 [[Kenya Defence Force]]
 [[Kenya Police]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 [[Kenya Penal Code]]
 [[Armed Forces Infrastructure]]
 

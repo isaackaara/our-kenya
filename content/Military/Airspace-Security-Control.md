@@ -6,17 +6,17 @@ The [[Kenya Air Force|air force]] played significant roles in internal security 
 
 Airspace security coordination with civil aviation developed through the [[Kenya Civil Aviation Authority]], which maintained civilian aircraft tracking and flight authorization. Protocols for military intercept of unidentified or unauthorized aircraft remained classified, though incidents of military aircraft intercepting civilian aircraft were rare. By 2015, joint civil-military coordination had substantially improved, with enhanced radar coverage and communication systems enabling real-time information sharing.
 
-Technical capacity limitations constrained airspace security effectiveness, particularly regarding detection of low-altitude aircraft and unmanned systems. By 2020, the air force operated approximately 55 aircraft with maintenance and spare parts constraints limiting operational readiness to approximately 70 percent of fleet strength. Proposed air force modernization programmes included acquisition of advanced fighter jets and air defence systems, though budget constraints and competing security priorities delayed implementation. Regional coordination with [[Uganda]], [[Tanzania]], and other [[East African Community|East African]] neighbours regarding airspace security and aircraft interception proceeded through informal mechanisms rather than formal institutional integration.
+Technical capacity limitations constrained airspace security effectiveness, particularly regarding detection of low-altitude aircraft and unmanned systems. By 2020, the air force operated approximately 55 aircraft with maintenance and spare parts constraints limiting operational readiness to approximately 70 percent of fleet strength. Proposed air force modernization programmes included acquisition of advanced fighter jets and air defence systems, though budget constraints and competing security priorities delayed implementation. Regional coordination with [[Uganda Railway Taita-Taveta]], [[Tanzania]], and other [[East African Community|East African]] neighbours regarding airspace security and aircraft interception proceeded through informal mechanisms rather than formal institutional integration.
 
 ## See Also
 
 [[Kenya Air Force]]
 [[Border Security Management]]
-[[Coastal Security Management]]
+[[Coastal-Security-Management]]
 [[Somalia]]
 [[Counterterrorism Operations Kenya]]
 [[Armed Forces Infrastructure]]
-[[Regional Security Cooperation]]
+[[Regional-Security-Cooperation]]
 
 ## Sources
 

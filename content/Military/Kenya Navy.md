@@ -24,7 +24,7 @@ Naval infrastructure development was prioritised to improve operational readines
 
 [[Kenya Defence Force History]]
 [[Armed Forces Infrastructure]]
-[[Maritime Security Operations]]
+[[Job Security]]
 [[Kenya Air Force]]
 [[Somalia Intervention AMISOM]]
 

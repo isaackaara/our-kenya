@@ -1,4 +1,4 @@
-When [[Kenya]] achieved [[independence]] on December 12, 1963, one of the first major issues facing [[Asian Kenyans|Asians]] was [[Citizenship Dual Nationality]]. The [[British Colonial Empire|British colonial]] government required [[Asian Kenyans|Asians]] to declare whether they wished to become [[Kenya|Kenyan]] [[Citizenship Dual Nationality]] or retain [[British citizenship]]. This choice had profound implications for legal status, economic rights, and future prospects.
+When [[Kenya]] achieved [[independence]] on December 12, 1963, one of the first major issues facing [[Asian Kenyans|Asians]] was [[Citizenship Dual Nationality]]. The [[Luo and the British|British colonial]] government required [[Asian Kenyans|Asians]] to declare whether they wished to become [[Kenya|Kenyan]] [[Citizenship Dual Nationality]] or retain [[Luo and the British]]. This choice had profound implications for legal status, economic rights, and future prospects.
 
 ## The Citizenship Requirement
 

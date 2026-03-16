@@ -16,7 +16,7 @@ Contemporary sewage treatment increasingly incorporates sustainability principle
 
 ## See Also
 
-[[Water Infrastructure]], [[Waste Management]], [[Public Health Communication]], [[Urban Planning Development]], [[Environmental Design]], [[Technology]], [[Urban Slums Growth]]
+[[Water Infrastructure]], [[Waste Management]], [[Public Health Communication]], [[Urban Planning Development]], [[Environmental Art]], [[Technology]], [[Urban Slums Growth]]
 
 ## Sources
 

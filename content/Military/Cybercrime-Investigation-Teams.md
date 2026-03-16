@@ -10,8 +10,8 @@ International cooperation through [[Interpol]], [[Europol]], and bilateral law e
 
 ## See Also
 
-[[Police Detective Systems]]
-[[Fraud Investigation Units]]
+[[Police-Detective-Systems]]
+[[Fraud-Investigation-Units]]
 [[Kenya Police]]
 [[Directorate of Criminal Investigations]]
 [[Organized Crime Kenya]]

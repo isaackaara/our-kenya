@@ -9,7 +9,7 @@ Occupational health hazards in informal settlements include informal waste picki
 Strengthening health services in informal settlements requires investment in public facility infrastructure and staffing, regulation and oversight of private facilities, community health worker support, and community mobilization addressing underlying factors. Food security, livelihood support, housing improvement, and education complement health services in addressing root causes of poor health. However, informal settlements remain among Kenya's most neglected areas in terms of health and development investment. Sustained government commitment to informal settlement residents' health remains necessary for improving population health and reducing inequalities.
 
 ## See Also
-[[Poverty and Health|Poverty]]
+[[Mental Health Poverty|Poverty]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Water Sanitation Health|Water Sanitation Health]]
 [[Cholera Outbreaks Response|Cholera Outbreaks Response]]

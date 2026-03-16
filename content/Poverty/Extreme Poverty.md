@@ -9,7 +9,7 @@ Interventions targeting extreme poverty are limited. Cash transfer programs prov
 The relationship between extreme poverty and violations of human rights and dignity is significant. Extremely poor individuals are particularly vulnerable to exploitation including forced labor, trafficking, and sexual violence. Their desperation prevents them from asserting rights; their lack of alternatives prevents escape. Extremely poor children work in hazardous activities; they are trafficked. Extremely poor women engage in transactional sex. Extremely poor individuals are sometimes criminalized for survival activities (begging, theft). This creates situations where those most needing protection face greatest vulnerability. Fundamental protection would require both poverty elimination and strengthened rights protections.
 
 ## See Also
-[[Poverty Measurement]], [[Poverty Line]], [[Destitution]], [[Street Children]], [[Homelessness]], [[Human Rights Violations]], [[Social Protection]], [[Survival Strategies]]
+[[Poverty Measurement]], [[Poverty Line]], [[Destitution]], [[Street Children]], [[Homelessness Rates]], [[Human Rights Violations]], [[Social Protection]], [[Survival Strategies]]
 
 ## Sources
 1. World Bank (2015). "Kenya Poverty and Shared Prosperity Report: The Ultra-Poor." http://documents.worldbank.org

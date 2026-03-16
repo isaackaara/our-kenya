@@ -18,8 +18,8 @@ Environmental and social dimensions of coffee production included pesticide use 
 [[Land Distribution Kenya]]
 [[Kikuyu]]
 [[Colonial Agricultural Policy]]
-[[Rural Development Policies]]
-[[Export Economy Kenya]]
+[[Development Aid]]
+[[The NGO Economy]]
 [[Smallholder Agriculture]]
 
 ## Sources

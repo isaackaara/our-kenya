@@ -7,9 +7,9 @@ Inflation management and fiscal sustainability became major policy challenges. K
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Hustler Nation|Hustler Nation]]
+- [[Ruto Hustler Nation Ideology|Hustler Nation]]
 - [[Kenya Economic Policy|Kenya Economic Policy]]
-- [[Kenya Agriculture|Kenya Agriculture]]
+- [[Women and Agriculture Land Kenya|Kenya Agriculture]]
 
 ## Sources
 

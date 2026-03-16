@@ -5,9 +5,9 @@
 - [[Kenya Breweries and Tusker]] - Tusker brand and brewing history
 - [[Manufacturing History Kenya]] - Industrial sector development
 - [[East Africa Trade Flows]] - Regional beverage markets
-- [[Alcohol Industry Kenya]] - Brewing and spirits production
+- [[Tea Industry Kenya]] - Brewing and spirits production
 - [[Post-Independence Economic Policy]] - Industrial inheritance
-- [[Foreign Investment Kenya]] - Multinational ownership in Kenya
+- [[Art Investment]] - Multinational ownership in Kenya
 - [[Nairobi Stock Exchange]] - Listed brewing companies
 
 ## Sources

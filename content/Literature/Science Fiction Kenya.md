@@ -25,10 +25,10 @@ Contemporary Kenyan science fiction reflects increasing engagement with technolo
 ## See Also
 [[Technology and Literature Kenya]]
 [[Speculative Fiction Africa]]
-[[Postcolonial Futures]]
+[[Luo Futures]]
 [[Environmental Literature]]
 [[Gender and Science Fiction]]
-[[Digital Culture Kenya]]
+[[Digital Art]]
 [[Genre Fiction Africa]]
 
 ## Sources

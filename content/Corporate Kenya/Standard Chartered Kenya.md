@@ -1,4 +1,4 @@
-[[Standard Chartered Kenya]] is the oldest [[foreign bank Kenya|foreign bank]] continuously operating in [[Kenya]]. It traces its origins to the [[colonial period Kenya|colonial period]] and has maintained a significant presence through [[Luhya in Post-Independence Kenya|independence]], [[structural adjustment Kenya|structural adjustment]], and the [[digital revolution Kenya|digital revolution]]. Standard Chartered Kenya remains a major player in [[corporate banking Kenya|corporate]] and [[investment banking Kenya|investment banking]], though it is less prominent in [[retail banking Kenya|retail banking]] than local competitors.
+[[Standard Chartered Kenya]] is the oldest [[foreign bank Kenya|foreign bank]] continuously operating in [[Kenya]]. It traces its origins to the [[colonial period Kenya|colonial period]] and has maintained a significant presence through [[Luhya in Post-Independence Kenya|independence]], [[structural adjustment Kenya|structural adjustment]], and the [[Digital Art|digital revolution]]. Standard Chartered Kenya remains a major player in [[Corporate Kenya|corporate]] and [[Art Investment|investment banking]], though it is less prominent in [[retail banking Kenya|retail banking]] than local competitors.
 
 ## Colonial Origins (1904)
 
@@ -43,7 +43,7 @@ Standard Chartered Kenya is likely to remain a significant but secondary player 
 - [[Banking History Kenya]]
 - [[Foreign Banks Kenya]]
 - [[Colonial Economic Legacy Kenya]]
-- [[Corporate Banking Kenya]]
+- [[Corporate Kenya]]
 - [[Nairobi Stock Exchange]]
 - [[Kenya Commercial Bank]]
 - [[Equity Bank]]

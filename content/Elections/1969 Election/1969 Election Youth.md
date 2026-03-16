@@ -14,7 +14,7 @@ For educated youth, particularly those who had been exposed to university educat
 - [[Youth Activism Kenya]]
 - [[Generation and Politics]]
 - [[Luhya in Post-Independence Kenya]]
-- [[KANU Youth Wings]]
+- [[Moi and KANU]]
 - [[Political Socialization]]
 - [[Opposition Movements Kenya]]
 

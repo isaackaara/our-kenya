@@ -31,7 +31,7 @@ Land around Ol Kalou and other towns has been converted to urban use. Urban expa
 
 ## See Also
 
-- [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
+- [[Kikuyu|Nyandarua Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]

@@ -9,7 +9,7 @@ By Uhuru's second term, youth unemployment had become politically explosive. You
 Uhuru left office without solving the youth crisis. His successor inherited an even larger cohort of unemployed youth, their resentment of the political class sharpened by years of unmet promises and structural economic exclusion.
 
 ## See Also
-[[Youth Employment in East Africa]]
+[[Youth Employment]]
 [[Uhuru Big Four Agenda Implementation]]
 [[Kenya's Skills Gap and Education]]
 [[Manufacturing Decline Under Uhuru]]

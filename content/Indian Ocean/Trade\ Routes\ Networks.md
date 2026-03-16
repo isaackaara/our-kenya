@@ -4,7 +4,7 @@ The primary maritime trade routes followed the monsoon wind patterns that determ
 
 The integrated maritime and overland routes extended the reach of Indian Ocean commerce far beyond coastal regions. Interior trade routes connecting to East African coast passed through established trading posts where merchants would gather to exchange goods. The [[Caravan Routes Interior]] extended hundreds of kilometers inland, reaching toward the Zambezi region in the south and the Great Lakes region to the west. These interior routes required different technologies than maritime commerce: instead of sailing vessels, merchants used human porters and pack animals to transport goods. The integration of maritime and overland networks created economic interdependence between coastal and interior regions.
 
-The [[Spice Trade Routes]] represent perhaps the most famous trading system, moving Indonesian spices through Indian intermediaries to markets throughout the Islamic world and beyond. Merchants would purchase spices at source, transport them to Indian collecting points, and then arrange shipment across the Indian Ocean to Arab and African markets. The multiple stages of this trade created opportunities for merchants at each location to add value through processing, repackaging, or simple hold-for-profit strategies. The ability to consolidate spices from diverse sources in a single location like Zanzibar created competitive advantages that justified the high costs of maintaining large trading entrepots.
+The [[Spice Trade]] represent perhaps the most famous trading system, moving Indonesian spices through Indian intermediaries to markets throughout the Islamic world and beyond. Merchants would purchase spices at source, transport them to Indian collecting points, and then arrange shipment across the Indian Ocean to Arab and African markets. The multiple stages of this trade created opportunities for merchants at each location to add value through processing, repackaging, or simple hold-for-profit strategies. The ability to consolidate spices from diverse sources in a single location like Zanzibar created competitive advantages that justified the high costs of maintaining large trading entrepots.
 
 The [[Gold Trading Networks]] driving much early European interest in East Africa reflected demand from Islamic mints and decorative crafts throughout the Mediterranean and Islamic worlds. Gold sources in the Zimbabwe region required merchant networks extending far into the interior to reach producers and secure adequate supply volumes. These trading networks depended on maintaining peaceful relationships with interior African kingdoms that controlled gold sources and the trade routes connecting them to coastal regions. The gold trade generated sufficient wealth that Arab and Indian merchants invested heavily in establishing stable relationships with interior rulers.
 
@@ -24,7 +24,7 @@ The sophistication of these trading networks by the medieval period represented 
 
 ## See Also
 
-[[Spice Trade Routes]]
+[[Spice Trade]]
 [[Gold Trading Networks]]
 [[Ivory Trade Networks]]
 [[Caravan Routes Interior]]

@@ -12,7 +12,7 @@ Strengthening mining health and safety requires regulation of mining activities,
 [[Occupational Health Safety|Occupational Health Safety]]
 [[Environmental Health Hazards|Environmental Health Hazards]]
 [[Water Sanitation Health|Water Sanitation Health]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
 

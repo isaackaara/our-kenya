@@ -10,7 +10,7 @@ Health monitoring applications expanded through wearable sensors tracking vital 
 
 ## See Also
 
-[[Internet of Things Devices]], [[Agricultural Technology]], [[Environmental Monitoring]], [[Health Tech Innovations]], [[Data Analysis]], [[Wearable Technology]]
+[[Internet of Things Devices]], [[Technology]], [[Environmental Art]], [[Health Tech Innovations]], [[Data Analysis]], [[Wearable Technology]]
 
 ## Sources
 

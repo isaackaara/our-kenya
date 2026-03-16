@@ -14,7 +14,7 @@ A contradictory assessment is therefore unavoidable: Uhuru built real infrastruc
 [[Uhuru Debt Crisis]]
 [[Uhuru Infrastructure Agenda]]
 [[Kenya's Fiscal Sustainability]]
-[[Standard Gauge Railway Project]]
+[[Standard Gauge Railway]]
 [[Infrastructure Investment and Growth]]
 [[Institutional Capacity and Development]]
 

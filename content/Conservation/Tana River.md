@@ -69,7 +69,7 @@ The Tana River's future depends on balancing hydroelectric and irrigation develo
 - [[Siaya Fishing Communities]] - Livelihood impacts
 - [[Pastoralists and Conservation]] - Pastoral water needs
 - [[Wetland ecosystems]] - Delta habitat protection
-- [[Hydroelectric power Kenya]] - Infrastructure development
+- [[Kenya Power]] - Infrastructure development
 - [[Water resource management]] - Integrated approaches
 - [[Climate Change and Wildlife]] - Environmental change impacts
 - [[Wildlife Corridors Kenya]] - Species connectivity

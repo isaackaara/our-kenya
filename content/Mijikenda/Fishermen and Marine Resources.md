@@ -2,7 +2,7 @@ Some Mjikenda communities, particularly those in close proximity to the ocean an
 
 ## [[coastal]] Fishing Communities
 
-Mjikenda living close to the ocean engage in marine fishing. These communities have developed specialized knowledge about fishing techniques, [[fish]] species, seasonal patterns, and marine resource management. Fishing is traditionally conducted from small boats or from shore using nets, traps, and hooks. The craft of fishing is transmitted from senior to junior fishers through apprenticeship and socialization.
+Mjikenda living close to the ocean engage in marine fishing. These communities have developed specialized knowledge about fishing techniques, [[Fish Farming Development]] species, seasonal patterns, and marine resource management. Fishing is traditionally conducted from small boats or from shore using nets, traps, and hooks. The craft of fishing is transmitted from senior to junior fishers through apprenticeship and socialization.
 
 ## River Fishing
 

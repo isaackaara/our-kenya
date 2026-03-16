@@ -10,8 +10,8 @@ Commercial galleries selling photography as art have created markets for photogr
 - [[Art Markets Kenya]]
 - [[Contemporary Art Galleries]]
 - [[Art Exhibition Spaces]]
-- [[Photography as Fine Art]]
-- [[Gallery Economics and Operations]]
+- [[Fine Art Photography]]
+- [[Gallery Operations]]
 - [[Art Commerce and Patronage]]
 - [[Urban Cultural Institutions]]
 

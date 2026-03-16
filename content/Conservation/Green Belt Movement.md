@@ -1,4 +1,4 @@
-The [[Green Belt Movement]], founded by [[Wangari Maathai]] in Kenya in 1977, pioneered a [[Community-Based Approach|community-based approach]] to [[Conservation|environmental conservation]] through [[Grassroots Tree-Planting|grassroots tree-planting]] and [[Environmental Activism|environmental activism]]. The movement has become an [[Internationally Recognized Model|internationally recognized model]] for linking [[Conservation|conservation]], [[Women|women's empowerment]], and [[Social Justice|social justice]]. The movement demonstrates the [[Conservation|political dimensions]] of conservation and [[Environmental Activism Risks|risks]] faced by environmental activists.
+The [[Green Belt Movement]], founded by [[Wangari Maathai]] in Kenya in 1977, pioneered a [[Moi and the Luo Community|community-based approach]] to [[Conservation|environmental conservation]] through [[Grassroots Tree-Planting|grassroots tree-planting]] and [[Environmental Art|environmental activism]]. The movement has become an [[Internationally Recognized Model|internationally recognized model]] for linking [[Conservation|conservation]], [[Women|women's empowerment]], and [[Social Justice|social justice]]. The movement demonstrates the [[Conservation|political dimensions]] of conservation and [[Environmental Art|risks]] faced by environmental activists.
 
 ## Founding and Origins
 
@@ -63,7 +63,7 @@ Additionally, some conservation ecologists debate the merits of reforestation wi
 ## See Also
 
 - [[Wangari Maathai]]
-- [[Environmental Activism Kenya]]
+- [[Environmental Art]]
 - [[Forest Protection and Restoration]]
 - [[Women]]
 - [[Conservation]]

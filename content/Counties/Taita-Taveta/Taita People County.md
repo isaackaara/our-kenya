@@ -18,7 +18,7 @@ Contemporary Taita identity combines elements of tradition and modernity. Cultur
 - [[Taita-Taveta Cultural Heritage]]
 - [[Taita-Taveta Colonial History]]
 - [[Taita]]
-- [[Land in Taita-Taveta]]
+- [[Taita-Taveta Land]]
 - [[Taita-Taveta Politics]]
 
 ## Sources

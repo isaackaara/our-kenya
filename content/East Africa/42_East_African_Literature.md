@@ -108,7 +108,7 @@ East African writers have shaped global literature:
 - [[Zanzibar]]
 - [[Kenya]]
 - [[East African Community]]
-- [[Indian Ocean Heritage]]
+- [[19_Indian_Ocean_Heritage]]
 - [[East African Music Charts 1990s]]
 - [[East Africa Timeline]]
 

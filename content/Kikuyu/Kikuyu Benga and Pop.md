@@ -42,7 +42,7 @@ Kikuyu music also expresses Kikuyu ethnic identity and cultural pride. The promi
 
 - [[Digital Kikuyu|Digital Kikuyu]]
 - [[Gikuyu Language|Gikuyu Language]]
-- [[Kikuyu Cultural Identity|Kikuyu Cultural Identity]]
+- [[Kikuyu|Kikuyu Cultural Identity]]
 - [[Jomo Kenyatta|Jomo Kenyatta]]
 - [[Gen Z Protests 2024|Gen Z Protests 2024]]
 - [[Mau Mau Uprising|Mau Mau Uprising]]

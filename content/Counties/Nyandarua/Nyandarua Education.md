@@ -31,7 +31,7 @@ Teacher shortages affect rural areas. Infrastructure inadequacies include limite
 
 ## See Also
 
-- [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
+- [[Kikuyu|Nyandarua Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]

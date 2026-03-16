@@ -24,7 +24,7 @@ Witnesses have been approached by intermediaries with offers of money or threats
 
 ## John Githongo Case
 
-John Githongo was appointed as anti-corruption tsar by [[President Kibaki]] in 2003 with a mandate to investigate corruption within government. Githongo uncovered evidence of massive corruption at the highest levels of the [[Kibaki administration]], including involvement by cabinet ministers and the president's family.
+John Githongo was appointed as anti-corruption tsar by [[Kibaki and the ICC]] in 2003 with a mandate to investigate corruption within government. Githongo uncovered evidence of massive corruption at the highest levels of the [[Kibaki and the ICC]], including involvement by cabinet ministers and the president's family.
 
 When Githongo reported his findings, he faced pressure from government officials to drop investigations. Rather than accepting protection from his own government (which was implicated in the corruption), Githongo fled to exile in the United Kingdom in 2004, where he wrote an explosive dossier documenting the corruption he had discovered.
 
@@ -50,7 +50,7 @@ However, most corruption victims (ordinary citizens, small businesses) lack reso
 - [[Impunity Culture]] - systemic patterns enabling retaliation
 - [[Anti-Corruption Civil Society]] - civil society support for whistleblowers
 - [[Transparency International Kenya]] - international advocacy
-- [[Public Officers Ethics Act]] - legal framework
+- [[Public Art]] - legal framework
 
 ## Sources
 

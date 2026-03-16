@@ -7,7 +7,7 @@ The foundation's activities reflected Kibaki's continued belief in the importanc
 ## See Also
 
 [[Kibaki Legacy and Foundation]]
-[[Philanthropy in Kenya]]
+[[Asian Philanthropy Kenya]]
 [[Post-Presidential Engagement Kenya]]
 [[Education and Development Kenya]]
 

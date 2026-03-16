@@ -100,7 +100,7 @@ The growth of strictly evangelical [[Christianity]] and [[Islam]] has led some a
 
 ## See Also
 
-- [[Meru Culture]]
+- [[Meru Food Culture]]
 - [[Meru Age Sets]]
 - [[Meru Circumcision Ntanira na Mugambo]]
 - [[Meru Food Culture]]

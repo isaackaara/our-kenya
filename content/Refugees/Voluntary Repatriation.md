@@ -12,7 +12,7 @@ Successful voluntary repatriation required origin country stability and receivin
 [[Involuntary Repatriation]]
 [[Return Monitoring]]
 [[Reintegration Assistance]]
-[[Somali Civil War]]
+[[Somali]]
 [[Refugee Solutions]]
 
 ## Sources

@@ -27,7 +27,7 @@ Mobile phone networks provide coverage to most areas. Internet connectivity has 
 
 ## See Also
 
-- [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
+- [[Kikuyu|Laikipia Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]

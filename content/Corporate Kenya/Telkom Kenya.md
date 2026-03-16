@@ -2,7 +2,7 @@
 
 ## Overview
 
-Telkom once had a [[monopoly Kenya|monopoly]] on [[telephone Kenya|telephone]] services. Today, it operates a small [[fixed-line network Kenya|fixed-line network]] and [[broadband Kenya|broadband]] services, but [[market share Kenya|market share]] is minimal.
+Telkom once had a [[monopoly Kenya|monopoly]] on [[telephone Kenya|telephone]] services. Today, it operates a small [[fixed-line network Kenya|fixed-line network]] and [[broadband Kenya|broadband]] services, but [[The Kenya We Share|market share]] is minimal.
 
 ## Key Points
 
@@ -22,8 +22,8 @@ Telkom's future is uncertain without significant [[restructuring Kenya|restructu
 - [[Safaricom]]
 - [[Technology]]
 - [[Post-Independence Economic Policy]]
-- [[Monopoly Markets Kenya]]
-- [[Infrastructure Decline Kenya]]
+- [[Art Markets Kenya]]
+- [[IT Infrastructure Kenya]]
 
 ## Sources
 

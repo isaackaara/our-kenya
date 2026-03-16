@@ -42,7 +42,7 @@ Contemporary Kikuyu, like many Kenyan groups, have inherited strong prohibition 
 
 ## Colonialism and Change
 
-[[Colonial rule]] disrupted traditional gender relationships through wage labor, urbanization, and changed property relations. Men increasingly entered wage labor and formal employment, while women remained in agriculture. This shift initially strengthened male economic independence from women but also created new forms of women's economic activity.
+[[Asian Kenyans Under Colonial Rule]] disrupted traditional gender relationships through wage labor, urbanization, and changed property relations. Men increasingly entered wage labor and formal employment, while women remained in agriculture. This shift initially strengthened male economic independence from women but also created new forms of women's economic activity.
 
 Christian teaching and missionary influence introduced new gender norms that sometimes reinforced patriarchy (male spiritual headship) while also creating education opportunities for women and new roles in church structures.
 
@@ -69,7 +69,7 @@ The transition from male-dominated authority systems toward more egalitarian par
 - [[Kikuyu Birth Rituals]]
 - [[Kikuyu Circumcision Ceremony]]
 - [[Kikuyu Clans]]
-- [[Kikuyu Marriage Practices]]
+- [[Kikuyu]]
 
 ## Sources
 

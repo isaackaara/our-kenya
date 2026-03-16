@@ -11,11 +11,11 @@ The relationship between Kibaki and other powerful figures in Kenyatta's governm
 ## See Also
 
 [[Kenyatta Cabinet and Government]]
-[[Post-Independence Economic Policy Kenya]]
-[[Kenyanisation Process]]
+[[Post-Independence Economic Policy]]
+[[BBI Process]]
 [[Finance Ministry Kenya History]]
-[[Kikuyu Economic Consolidation]]
-[[Treasury and Central Bank of Kenya]]
+[[Kikuyu]]
+[[Central Bank of Kenya]]
 
 ## Sources
 

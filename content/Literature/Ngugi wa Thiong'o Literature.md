@@ -16,7 +16,7 @@ Ngugi's theoretical interventions fundamentally reshaped how African literature 
 [[Decolonial Theory and Writing]]
 [[Kenyan Writers Exile]]
 [[A Grain of Wheat Analysis]]
-[[Language and Colonialism in African Writing]]
+[[Luo Language]]
 [[Mau Mau and Literature]]
 
 ## Sources

@@ -23,7 +23,7 @@ Climate change and environmental issues gradually became more prominent in Kenya
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Kenya Foreign Relations|Kenya Foreign Relations]]
 - [[Kenya East African Community|Kenya East African Community]]
-- [[Kenya Somalia Relations|Kenya Somalia Relations]]
+- [[Kenya-Somalia Relations|Kenya Somalia Relations]]
 - [[Kenya United States Relations|Kenya United States Relations]]
 
 ## Sources

@@ -1,4 +1,4 @@
-[[Barclays to Absa]] Bank [[Kenya]], one of Kenya's oldest foreign banks, underwent a major rebranding in 2020 when its British parent (Barclays PLC) divested its African operations to South African financial services company [[Kisa]] Group. The transaction marked a symbolic shift in [[Banking History Kenya|Kenya's financial landscape]]: from British to [[South African]] ownership in a pattern reflecting broader geopolitical and economic changes.
+[[Barclays to Absa]] Bank [[Kenya]], one of Kenya's oldest foreign banks, underwent a major rebranding in 2020 when its British parent (Barclays PLC) divested its African operations to South African financial services company [[Kisa]] Group. The transaction marked a symbolic shift in [[Banking History Kenya|Kenya's financial landscape]]: from British to [[Moi and South Africa]] ownership in a pattern reflecting broader geopolitical and economic changes.
 
 ## Barclays Era (1912-2020)
 
@@ -55,9 +55,9 @@ Absa Bank Kenya is a significant but secondary player in Kenya's banking market.
 - [[Banking History Kenya]] - Evolution of Kenya's banking system
 - [[Kenya Commercial Bank]] - Largest domestic bank competitor
 - [[Equity Bank]] - Leading mass-market competitor
-- [[Foreign Investment Kenya]] - Foreign ownership patterns in Kenyan finance
+- [[Art Investment]] - Foreign ownership patterns in Kenyan finance
 - [[Central Bank of Kenya]] - Regulatory oversight
-- [[South African Investment Kenya]] - South African capital flows into Kenya
+- [[Moi and South Africa]] - South African capital flows into Kenya
 - [[Nairobi Stock Exchange]] - Absa listing and capital markets
 
 ## Sources

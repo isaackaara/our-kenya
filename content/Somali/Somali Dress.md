@@ -136,7 +136,7 @@ Dress carries religious and cultural meaning:
 
 - [[Somali Wedding Traditions]]
 - [[Somali Music and Poetry]]
-- [[Somali Culture and Identity]]
+- [[Somali]]
 - [[Somali Food in Kenya]]
 - [[Nairobi Eastleigh Community]]
 

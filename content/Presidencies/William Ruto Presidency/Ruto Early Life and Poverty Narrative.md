@@ -18,7 +18,7 @@ Whether the chicken-selling story is 100% accurate or partly mythologized is alm
 - [[Ruto Hustler Narrative]]
 - [[Kalenjin/Kalenjin Political Identity]]
 - [[Daniel arap Moi]]
-- [[2022 Election Victory]]
+- [[2022 Election]]
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
 - [[Corruption/Wealth Accumulation by Political Elite]]
 - [[Ruto and the Kalenjin Community]]

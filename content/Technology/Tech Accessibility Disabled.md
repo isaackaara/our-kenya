@@ -14,7 +14,7 @@ Government initiatives addressing disability have created some technology-specif
 
 [[Computer Science Education]]
 [[Coding Bootcamps Kenya]]
-[[Tech Accessibility]]
+[[Tech Accessibility Disabled]]
 [[Tech Community Culture]]
 [[Tech Mentorship Programs]]
 [[Digital Divide Issues]]

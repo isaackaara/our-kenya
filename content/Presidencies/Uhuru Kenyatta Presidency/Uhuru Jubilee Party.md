@@ -51,7 +51,7 @@ The party's decline reflected the broader reality that in post-2010 Kenya, polit
 - [[United Democratic Alliance]]
 - [[Kikuyu]]
 - [[Kalenjin]]
-- [[Kenyan Party System]]
+- [[Kenyan Hip-Hop]]
 
 ## Sources
 

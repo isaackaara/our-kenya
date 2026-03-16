@@ -16,13 +16,13 @@ The rise of European merchant companies in the Indian Ocean eventually challenge
 
 The gender composition of Indian merchant communities in East Africa reflected both patterns of migration and labor dynamics. Early migrants were predominantly male, marrying locally and producing mixed-heritage populations over generations. Some Indian merchants married women from local trading families, creating kinship networks that reinforced commercial relationships. These family connections created advantages in negotiating complex commercial relationships with local merchants who might prefer to work with people connected through kinship ties.
 
-Indian merchants participated actively in the [[Swahili Synthesis Culture]], though maintaining distinct cultural practices that marked them as distinct from local populations. They adopted Swahili language for daily commerce, participated in local legal systems, and lived in residential patterns that gradually integrated with local urban development. Yet they maintained separate religious institutions, distinct business practices, and economic networks that extended back to India. This positioning between full integration and maintained distinctiveness characterized successful diaspora merchant communities throughout the Indian Ocean world.
+Indian merchants participated actively in the [[Swahili]], though maintaining distinct cultural practices that marked them as distinct from local populations. They adopted Swahili language for daily commerce, participated in local legal systems, and lived in residential patterns that gradually integrated with local urban development. Yet they maintained separate religious institutions, distinct business practices, and economic networks that extended back to India. This positioning between full integration and maintained distinctiveness characterized successful diaspora merchant communities throughout the Indian Ocean world.
 
 ## See Also
 
-[[Swahili Synthesis Culture]]
+[[Swahili]]
 [[Textile Trade Patterns]]
-[[Zanzibar Connections]]
+[[Zanzibar Connections Kenya]]
 [[Credit Systems Indian Ocean]]
 [[Merchant Networks]]
 

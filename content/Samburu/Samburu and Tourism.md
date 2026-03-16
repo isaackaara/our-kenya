@@ -49,8 +49,8 @@ Tourism marketing by national and international agencies promotes Kenya and [[Sa
 - [[Samburu National Reserve]]
 - [[Buffalo Springs Reserve]]
 - [[Maralal Town]]
-- [[Samburu Culture]]
-- [[Sustainable Tourism in East Africa]]
+- [[Samburu Cattle Culture]]
+- [[Art Tourism]]
 
 ## Sources
 

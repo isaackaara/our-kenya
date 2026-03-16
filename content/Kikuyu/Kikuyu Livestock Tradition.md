@@ -20,7 +20,7 @@ A suitor's family paid livestock to compensate the bride's family for losing her
 
 ## Sacrifice and Ceremony
 
-Livestock sacrifice was central to Kikuyu religious and social ceremony. When a [[Kiama courts|kiama court]] made decisions, a goat was sacrificed to seal the judgment. The blood of the sacrificial animal was poured on the earth, invoking Ngai and the ancestors to witness the decision.
+Livestock sacrifice was central to Kikuyu religious and social ceremony. When a [[The Kiama Courts|kiama court]] made decisions, a goat was sacrificed to seal the judgment. The blood of the sacrificial animal was poured on the earth, invoking Ngai and the ancestors to witness the decision.
 
 At [[Kikuyu Rainmaking|rainmaking ceremonies]], fattened lambs were sacrificed and roasted, their meat and smoke offered to Ngai. Marriage ceremonies, initiation rites, and community celebrations all involved livestock sacrifice and feasting.
 
@@ -47,7 +47,7 @@ Despite the decline of livestock as a central economic institution, cattle and g
 ## See Also
 
 - [[Kikuyu Sacred Geography]]
-- [[Kiama Courts]]
+- [[The Kiama Courts]]
 - [[Kikuyu Proverbs]]
 - [[Kikuyu Rainmaking]]
 - [[Kikuyu Traditional Technology]]

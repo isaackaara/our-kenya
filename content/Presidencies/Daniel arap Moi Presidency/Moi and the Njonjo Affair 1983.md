@@ -20,7 +20,7 @@ The Njonjo affair established a pattern that would repeat throughout Moi's presi
 [[Moi Cabinet and Loyalists]]
 [[Kikuyu/Political Leadership]]
 [[Kenya/Early Independence]]
-[[Moi Consolidation of Power]]
+[[Moi Consolidation of Power 1978-1985]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

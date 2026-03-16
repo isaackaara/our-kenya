@@ -24,7 +24,7 @@ The development of specialized equipment for shallow-water navigation included s
 [[Pilot Knowledge]]
 [[Harbor Facilities]]
 [[River Navigation]]
-[[Coastal Commerce]]
+[[Coastal Commerce Credit Systems]]
 
 ## Sources
 

@@ -43,10 +43,10 @@ Mining needs to be integrated with broader county development. Mining activity s
 ## See Also
 
 [[West Pokot County]]
-[[West Pokot Economy]]
+[[Pokot]]
 [[West Pokot Land]]
 [[West Pokot Youth]]
-[[West Pokot Environment]]
+[[Pokot]]
 
 ## Sources
 

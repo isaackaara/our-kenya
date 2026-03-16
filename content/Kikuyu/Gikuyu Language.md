@@ -46,7 +46,7 @@ However, young Kikuyu, who may speak English as their primary language, can stil
 
 ## See Also
 
-- [[Ngũgĩ wa Thiong'o|Ngũgĩ wa Thiong'o]]
+- [[Ngũgĩ wa Thiong'o Deep Dive|Ngũgĩ wa Thiong'o]]
 - [[Jomo Kenyatta|Jomo Kenyatta]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
 - [[Kikuyu Central Association|Kikuyu Central Association]]

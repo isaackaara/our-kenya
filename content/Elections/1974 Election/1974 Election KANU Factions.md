@@ -24,7 +24,7 @@ The question of succession shaped factional alignments in 1974. Different politi
 - [[Kikuyu]]
 - [[Kalenjin]]
 - [[Luo]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya: A Reappraisal." Eastern Africa Studies, 1976.

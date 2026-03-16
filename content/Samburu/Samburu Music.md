@@ -30,7 +30,7 @@ Community and cultural organizations attempt to document and preserve [[Samburu]
 
 ## See Also
 
-- [[Samburu Culture]]
+- [[Samburu Cattle Culture]]
 - [[Samburu Oral Literature]]
 - [[Samburu Language]]
 - [[The Moran (Warriors)]]

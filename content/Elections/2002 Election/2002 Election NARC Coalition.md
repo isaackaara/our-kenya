@@ -1,6 +1,6 @@
 The National Rainbow Coalition (NARC) represented Kenya's most successful opposition coalition structure, uniting diverse ethnic and regional constituencies behind [[Kibaki]] and delivering a landslide victory that defeated [[Moi]]'s KANU regime. NARC was not a single political party but rather a pre-election coalition agreement in which multiple parties and independent candidates coordinated their campaign efforts, explicitly committed to supporting a Kibaki presidency, and negotiated a power-sharing arrangement that would govern the post-election government formation. This coalition model directly addressed the fragmentation that had plagued opposition politics in 1997.
 
-NARC was built on three principal bases: the [[Kibaki Democratic Party Founding 1991]], which retained its Kikuyu constituency and institutional infrastructure; the [[National Development Party (NDP)]], which brought Luo support and [[Raila Odinga]]'s political momentum; and numerous smaller parties and independent candidates representing other regions and constituencies (KENDA from Kamba lands, Safina with business elite backing, and dozens of smaller regional parties). The coalition explicitly included politicians from diverse ethnic backgrounds: not only Kikuyu and Luo but also Kisii politicians, Kamba representatives, and candidates from coastal constituencies.
+NARC was built on three principal bases: the [[Kibaki Democratic Party Founding 1991]], which retained its Kikuyu constituency and institutional infrastructure; the [[Development Aid]], which brought Luo support and [[Raila Odinga]]'s political momentum; and numerous smaller parties and independent candidates representing other regions and constituencies (KENDA from Kamba lands, Safina with business elite backing, and dozens of smaller regional parties). The coalition explicitly included politicians from diverse ethnic backgrounds: not only Kikuyu and Luo but also Kisii politicians, Kamba representatives, and candidates from coastal constituencies.
 
 The [[Memorandum of Understanding (MOU)]] between Kibaki and [[Taita]] formed the coalition's constitutional foundation. The MOU specified that Kibaki would be the coalition's presidential candidate (in recognition of his status as Democratic Party leader and his broader national profile), while Raila would hold the Prime Minister position if NARC won the election. The MOU also outlined tentative cabinet positions and power-sharing arrangements that would govern a NARC government. This explicit power-sharing arrangement was unprecedented in Kenyan opposition politics and represented a significant organizational innovation: rather than opposition unity dissolving into conflict over post-election government formation (as had occurred in some African countries), NARC pre-negotiated these arrangements.
 
@@ -22,7 +22,7 @@ However, NARC's post-election history would prove tragic: the coalition that had
 - [[Mwai Kibaki]]
 - [[Raila Odinga]]
 - [[2002 Election MOU]]
-- [[Opposition coalitions in Africa]]
+- [[Moi and the Opposition]]
 - [[Kenya]]
 
 ## Sources

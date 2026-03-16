@@ -49,7 +49,7 @@ Coffee farming in Meru continues but remains secondary to tea and miraa. Some fa
 ## See Also
 
 - [[Meru Coffee]]
-- [[Meru Agriculture]]
+- [[Meru Agriculture Overview]]
 - [[Meru Tea]]
 - [[Meru Cooperatives]]
 - [[Meru County Agriculture]]

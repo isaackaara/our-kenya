@@ -1,4 +1,4 @@
-[[Kenya]] including [[Maendeleo ya Wanawake Organization]] and the [[Green Belt Movement]] have organized across ethnic lines, demonstrating the possibility of [[Women]] transcending ethnic particularism. These organizations have mobilized women from different ethnic backgrounds around shared interests in development, environmentalism, and women's rights. The cross-ethnic character of women's organizations suggests that [[gender identity]] can provide sufficient grounds for solidarity.
+[[Kenya]] including [[Maendeleo ya Wanawake Organization]] and the [[Green Belt Movement]] have organized across ethnic lines, demonstrating the possibility of [[Women]] transcending ethnic particularism. These organizations have mobilized women from different ethnic backgrounds around shared interests in development, environmentalism, and women's rights. The cross-ethnic character of women's organizations suggests that [[Gender Pay Gap]] can provide sufficient grounds for solidarity.
 
 Maendeleo ya Wanawake (Progress for Women) is a women's organization operating in Kenya since the colonial period. While the organization has historical associations with particular ethnic groups and regions, it has evolved into a national organization serving women across ethnic boundaries. The organization focuses on women's development, income generation, and empowerment. Membership and leadership reflect Kenya's ethnic diversity.
 
@@ -17,7 +17,7 @@ The visibility of women in [[cross-ethnic organizing]] raises questions about ge
 - [[Women Across Tribes]]
 - [[Feminist Movements Kenya]]
 - [[Peace-Building Kenya]]
-- [[Gender and Ethnic Identity]]
+- [[Gender Pay Gap]]
 - [[Wangari Maathai]]
 
 ## Sources

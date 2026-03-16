@@ -12,8 +12,8 @@ Colonial archives in London, Nairobi, and private collections contain approximat
 - [[Early Nairobi Settlement]]
 - [[Wildlife in Colonial Consciousness]]
 - [[Imperial Archive and Records]]
-- [[Photography as Colonial Tool]]
-- [[Museum Collections Kenya]]
+- [[Colonial Photography]]
+- [[Art Museum Collections]]
 
 ## Sources
 1. https://www.britishmuseum.org/research/collection_online/search.aspx - Colonial Photography Collections

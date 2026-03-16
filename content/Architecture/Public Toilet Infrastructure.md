@@ -14,7 +14,7 @@ The integration of public toilets into public spaces affects design. Toilets loc
 
 ## See Also
 
-[[Sidewalk Infrastructure]], [[Water Infrastructure]], [[Sewage Systems]], [[Public Space]], [[Urban Slums Growth]], [[Public Health Communication]], [[Informal Market Structures]]
+[[Sidewalk Infrastructure]], [[Water Infrastructure]], [[Sewage Systems]], [[Public Art]], [[Urban Slums Growth]], [[Public Health Communication]], [[Informal Market Structures]]
 
 ## Sources
 

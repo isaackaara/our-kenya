@@ -4,7 +4,7 @@ Mjikenda and other coastal-origin writers, academics, and intellectuals have con
 
 Coastal and Mjikenda-origin writers have published fiction, poetry, and creative works. These writers draw on coastal and Mijikenda experiences and cultural resources. Some focus explicitly on coastal history and culture, while others address universal human themes through coastal sensibilities. Coastal literature in Swahili, English, and other languages contributes to Kenyan literary traditions. Writers including novelists, poets, and dramatists have emerged from coastal communities.
 
-## [[scholars]] and Academics
+## [[Meru Scholars and Academics]] and Academics
 
 Academics from coastal communities, including Mjikenda scholars, have pursued university education and scholarly work. These scholars work in various disciplines including history, anthropology, literature, law, and others. Some focus their research on coastal and Mijikenda topics, providing insider perspectives on their communities. Coastal scholars have contributed to understanding East African history, culture, and contemporary issues. Access to higher education has increased the number of coastal academics, though coastal representation in universities remains limited.
 

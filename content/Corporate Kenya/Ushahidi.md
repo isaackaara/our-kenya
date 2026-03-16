@@ -46,7 +46,7 @@ Ushahidi demonstrated that Kenya could produce globally-significant technology i
 - [[Kenya]]
 - [[Open Source Kenya]]
 - [[Crisis Response Kenya]]
-- [[Digital Humanitarianism]]
+- [[Digital Art]]
 - [[Post-Election Violence]]
 
 ## Sources

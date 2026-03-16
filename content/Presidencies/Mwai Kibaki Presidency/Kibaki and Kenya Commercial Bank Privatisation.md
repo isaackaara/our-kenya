@@ -11,11 +11,11 @@ The partial privatisation of KCB reflected the broader pattern of Kibaki's gover
 ## See Also
 
 [[Kenya Commercial Bank History]]
-[[Privatisation in Kenya]]
+[[Kibaki and Kenya Commercial Bank Privatisation]]
 [[Banking Sector Kenya]]
-[[Financial Markets Development Kenya]]
+[[Art Markets Kenya]]
 [[State Enterprises Privatisation]]
-[[Kibaki Economic Policy]]
+[[Economic Policy Kibaki - Second Term]]
 
 ## Sources
 

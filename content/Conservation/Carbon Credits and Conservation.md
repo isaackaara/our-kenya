@@ -76,9 +76,9 @@ Carbon finance has potential to generate substantial revenue for conservation, b
 - [[Community Conservancies Model]]
 - [[Forest Protection in Kenya]]
 - [[Ecosystem Services Valuation]]
-- [[Community Benefits and Distribution]]
+- [[Moi and the Luo Community]]
 - [[Northern Rangelands Trust]]
-- [[Sustainable Development Goals]]
+- [[Development Aid]]
 
 ## Sources
 

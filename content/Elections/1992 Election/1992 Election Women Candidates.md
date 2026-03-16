@@ -15,7 +15,7 @@ The 1992 election thus demonstrated both progress and continued barriers to wome
 - [[1992 Election]]
 - [[Women]]
 - [[Female Candidates]]
-- [[Gender and Democracy]]
+- [[Gender Pay Gap]]
 - [[Women]]
 - [[Electoral Representation Women]]
 - [[Barriers to Political Participation]]

@@ -8,11 +8,11 @@ The National Museum faces ongoing challenges including limited funding, conserva
 
 ## See Also
 - [[Museum Collections and Curation]]
-- [[National Identity and Museums]]
-- [[Colonial Collections]]
-- [[Conservation Practices]]
+- [[National Museum]]
+- [[Colonial Museums Collections]]
+- [[Conservation]]
 - [[Public Education and Museums]]
-- [[Cultural Heritage Preservation]]
+- [[Heritage Preservation]]
 - [[Repatriation and Cultural Justice]]
 
 ## Sources

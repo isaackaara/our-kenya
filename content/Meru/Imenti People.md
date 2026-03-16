@@ -29,8 +29,8 @@ The Imenti's size and central location mean they interact closely with other Mer
 - [[Meru people]]
 - [[Njuri Ncheke]]
 - [[Meru Clan System]]
-- [[Meru Culture]]
-- [[Meru Agriculture]]
+- [[Meru Food Culture]]
+- [[Meru Agriculture Overview]]
 - [[Meru County]]
 
 ## Sources

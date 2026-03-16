@@ -19,7 +19,7 @@ Digital platforms have expanded interview accessibility. Online archives make pu
 ## See Also
 - [[Publishing Industry Kenya]]
 - [[Literary Magazines Kenya]]
-- [[Authors]]
+- [[Women Writers Authors Kenya]]
 - [[Journalism Literature]]
 - [[Media]]
 - [[Writers Associations]]

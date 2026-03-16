@@ -16,9 +16,9 @@ Colonial language policy also advantaged particular African groups. Populations 
 
 [[Colonial Education System]]
 [[Mission Schools Colonial Era]]
-[[English Language Dominance]]
+[[Luo Language]]
 [[Swahili Language Development]]
-[[Language Loss Africa]]
+[[Luo Language]]
 [[Cultural Transmission]]
 
 ## Sources

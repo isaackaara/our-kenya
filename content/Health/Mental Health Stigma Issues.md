@@ -1,6 +1,6 @@
 Mental health stigma in Kenya represents a significant barrier to treatment-seeking and service provision for people with mental health conditions. Social stigma, defined as negative attitudes and beliefs about people with mental illness, affects individuals and families, reducing help-seeking and treatment adherence. Discriminatory behavior toward mentally ill individuals occurs in healthcare settings, workplaces, schools, and communities. Traditional beliefs attributing mental illness to witchcraft, demonic possession, or ancestral retribution discourage biomedical treatment-seeking. Some communities address mental illness through traditional and spiritual healing rather than mental health services.
 
-The [[Ministry of Health]] recognizes mental health stigma as an impediment to service access and outcome, incorporating anti-stigma messaging into health communications. Mental health awareness campaigns promote understanding of mental illness as treatable health conditions rather than moral failures or supernatural afflictions. Health worker training includes stigma reduction and respectful treatment of mentally ill individuals. However, health workers themselves sometimes harbor stigmatizing beliefs limiting empathic care.
+The [[Health]] recognizes mental health stigma as an impediment to service access and outcome, incorporating anti-stigma messaging into health communications. Mental health awareness campaigns promote understanding of mental illness as treatable health conditions rather than moral failures or supernatural afflictions. Health worker training includes stigma reduction and respectful treatment of mentally ill individuals. However, health workers themselves sometimes harbor stigmatizing beliefs limiting empathic care.
 
 Discrimination against people with mental illness extends to employment, affecting economic opportunities and contributing to poverty. Employers sometimes refuse to hire individuals with mental health histories or fire workers when mental illness emerges. School exclusion based on mental health status prevents education access. Family members sometimes hide relatives with mental illness, limiting their social participation and treatment access. Suicidality stigma particularly constrains help-seeking, with some cultures viewing suicide as bringing shame to family.
 
@@ -12,9 +12,9 @@ Sustained effort to reduce mental health stigma requires multi-level interventio
 [[Mental Health Services|Mental Health Services]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Substance Abuse Treatment|Substance Abuse Treatment]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Education|Education]]
-[[Human Rights and Health|Presidencies]]
+[[Health|Presidencies]]
 
 ## Sources
 1. https://ncbi.nlm.nih.gov/pmc/articles/PMC7433266

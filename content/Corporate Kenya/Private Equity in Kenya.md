@@ -21,7 +21,7 @@ Sector growth and development depends on [[Investment Kenya]], [[Technology]], a
 - [[Venture Capital Kenya]]
 - [[Kenya]]
 - [[Silicon Savannah]]
-- [[Corporate Governance Kenya]]
+- [[Corporate Kenya]]
 - [[Financial Systems Kenya]]
 
 ## Sources

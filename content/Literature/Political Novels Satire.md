@@ -17,8 +17,8 @@ The relationship between satirical literature and actual political change remain
 [[Meja Mwangi Novels]]
 [[State Censorship and Literature]]
 [[Political Thought Kenya]]
-[[Governance Kenya]]
-[[Social Commentary Literature]]
+[[Women in County Governance Kenya]]
+[[Social Commentary]]
 [[Literary Resistance Kenya]]
 
 ## Sources

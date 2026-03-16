@@ -19,7 +19,7 @@ By the end of 2024, Kenya effectively had no coherent opposition. Raila had been
 - [[Rigathi Gachagua Impeachment]]
 - [[Gen Z Kenya Political Awakening]]
 - [[Finance Bill 2024 and Gen Z Uprising]]
-- [[2022 Election Victory]]
+- [[2022 Election]]
 - [[Raila Odinga]]
 - [[Kalenjin/Kalenjin Political Strategy]]
 - [[Elections/Opposition Politics in Kenya]]

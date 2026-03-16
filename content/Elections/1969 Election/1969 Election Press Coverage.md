@@ -15,7 +15,7 @@ The press coverage of the 1969 election thus did not provide Kenyan voters with 
 - [[Media]]
 - [[State Propaganda]]
 - [[Kenya Broadcasting Corporation]]
-- [[Journalism and Politics Kenya]]
+- [[Art Journalism]]
 - [[Information Control]]
 
 ## Sources

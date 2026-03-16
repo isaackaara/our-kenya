@@ -16,7 +16,7 @@ Contemporary sprawl management in Kenya remains inadequate to control expansion 
 [[Urban Planning Development]]
 [[Satellite Towns]]
 [[Infrastructure Investment]]
-[[Environmental Urban Design]]
+[[Environmental Art]]
 [[Sustainability Design]]
 [[Climate Resilience]]
 

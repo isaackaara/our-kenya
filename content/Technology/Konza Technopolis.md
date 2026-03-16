@@ -10,7 +10,7 @@ Konza's significance transcended its immediate economic impact. The technopolis 
 
 ## See Also
 
-[[Economic Development Policy]], [[Technology Policy Kenya]], [[Business Process Outsourcing]], [[Software Industry Kenya]], [[Special Economic Zones]], [[Infrastructure Development]]
+[[Development Aid]], [[Technology]], [[BBI Process]], [[Tea Industry Kenya]], [[Special Economic Zones]], [[Infrastructure Development]]
 
 ## Sources
 

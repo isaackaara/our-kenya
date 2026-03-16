@@ -22,7 +22,7 @@ JKIA is East Africa's largest and most modern airport. It serves as the region's
 
 Most East African travelers to Europe, North America, or Asia connect through JKIA, giving Kenya control over aviation flows. Airlines based in Kenya (Kenya Airways) historically dominated East African aviation before low-cost carriers and competing airlines fragmented the market.
 
-The Adani Group's controversial 2024 concession to operate [[JKIA Airport]] sparked major protests in Kenya but represents efforts to modernize the airport's management and capacity.
+The Adani Group's controversial 2024 concession to operate [[49_JKIA_Airport]] sparked major protests in Kenya but represents efforts to modernize the airport's management and capacity.
 
 ## Financial Services Hub
 
@@ -75,9 +75,9 @@ Nairobi's security challenges (terrorism, crime) occasionally disrupt regional o
 ## See Also
 
 - [[Kenya]]
-- [[JKIA Airport]]
+- [[49_JKIA_Airport]]
 - [[East Africa]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[Kenya]]
 - [[Chinese Investment and Corruption]]
 

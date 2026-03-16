@@ -10,12 +10,12 @@ Veterans organizations and international NGOs including [[International Committe
 
 ## See Also
 
-[[Military Medical Services]]
-[[Veterans Services Kenya]]
+[[Military-Medical-Services]]
+[[Veterans-Services-Kenya]]
 [[Somalia]]
 [[Counterterrorism Operations Kenya]]
 [[Kenya Defence Force]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 [[Armed Forces Infrastructure]]
 
 ## Sources

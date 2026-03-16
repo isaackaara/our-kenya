@@ -1,4 +1,4 @@
-A chronological record of major [[Conservation|conservation events]], [[Conservation|policy changes]], and [[Ecological Milestones|ecological milestones]] in Kenya's history from 1900 through 2026. The timeline documents the evolution from [[Colonial Game Preservation|colonial game preservation]] through [[Poaching Crisis 1970s-1980s|intensive poaching crises]] to [[Modern Conservation Models|contemporary conservation approaches]] including [[Community Conservancies Model|community conservancies]] and [[International Cooperation|international cooperation]].
+A chronological record of major [[Conservation|conservation events]], [[Conservation|policy changes]], and [[Ecological Milestones|ecological milestones]] in Kenya's history from 1900 through 2026. The timeline documents the evolution from [[Colonial Game Preservation|colonial game preservation]] through [[Poaching Crisis 1970s-1980s|intensive poaching crises]] to [[Conservation|contemporary conservation approaches]] including [[Community Conservancies Model|community conservancies]] and [[International Cooperation|international cooperation]].
 
 ## Early Period (1900-1945)
 

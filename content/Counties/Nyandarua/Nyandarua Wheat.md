@@ -35,7 +35,7 @@ Wheat productivity depends on adequate rainfall at critical growth stages. Irreg
 
 ## See Also
 
-- [[Nyandarua Kikuyu Heritage|Nyandarua Kikuyu Heritage]]
+- [[Kikuyu|Nyandarua Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Nyandarua Land|Land Issues]]

@@ -4,7 +4,7 @@ The Kenya coast has historically felt marginalized by the national government, w
 
 During the colonial period, the British focused investment and attention on the fertile highlands, which became the center of European settler colonialism. The coast, while commercially valuable (particularly for trade), was treated as peripheral to the colonial system's core concerns. This colonial-era marginalization persisted into the post-colonial period.
 
-At independence, the dominant political faction (KANU) was led by Kikuyu elites centered on President Jomo Kenyatta. The government's [[development]] priorities focused on the highlands and on western regions allied with Luo leadership. The coast, despite being home to major populations (Swahili, Mjikenda, and others), received limited national investment and political attention.
+At independence, the dominant political faction (KANU) was led by Kikuyu elites centered on President Jomo Kenyatta. The government's [[Development Aid]] priorities focused on the highlands and on western regions allied with Luo leadership. The coast, despite being home to major populations (Swahili, Mjikenda, and others), received limited national investment and political attention.
 
 ## Economic Marginalization
 

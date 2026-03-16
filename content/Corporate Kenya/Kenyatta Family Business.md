@@ -44,7 +44,7 @@ The Kenyatta family's business empire will likely persist, though subject to per
 - [[Land and Politics Kenya]]
 - [[Parastatals Kenya]]
 - [[Kenya]]
-- [[Political Economy of Kenya]]
+- [[The NGO Economy]]
 
 ## Sources
 

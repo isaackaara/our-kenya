@@ -49,7 +49,7 @@ After independence, Christianity expanded substantially in Kikuyu areas. Kikuyu 
 - African Independent Churches
 
 ### African Independent Churches
-[[Kikuyu]]-founded [[African Independent Churches|African Independent Churches]] emerged, blending Christian theology with African cultural elements. These churches emphasized African leadership, African interpretations of Scripture, and accommodation of cultural practices (e.g., polygamy).
+[[Kikuyu]]-founded [[Independent African Churches|African Independent Churches]] emerged, blending Christian theology with African cultural elements. These churches emphasized African leadership, African interpretations of Scripture, and accommodation of cultural practices (e.g., polygamy).
 
 ### Revival Movements
 Evangelical and Pentecostal movements gained significant followings among Kikuyu from the 1980s onward. These movements emphasized personal spiritual experience, healing, and transformation.
@@ -101,7 +101,7 @@ Christian churches took various stances on female circumcision, polygamy, marria
 - [[Kikuyu and Christianity Today]]
 - [[Kikuyu Sacred Geography]]
 - [[Mau Mau Uprising]]
-- [[African Independent Churches]]
+- [[Independent African Churches]]
 - [[Kikuyu Witchcraft and Medicine]]
 - [[Kikuyu Rainmaking]]
 - [[Gikuyu and Mumbi]]

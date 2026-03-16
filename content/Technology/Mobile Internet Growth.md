@@ -10,7 +10,7 @@ Mobile internet's quality and speed improved substantially as operators deployed
 
 ## See Also
 
-[[Mobile Penetration Kenya]], [[Smartphone Technology]], [[Internet Connectivity Progress]], [[E-Commerce Platforms Kenya]], [[Social Media Kenya]], [[Digital Services]]
+[[Mobile Penetration Kenya]], [[Technology]], [[Internet Connectivity Progress]], [[E-Commerce Platforms Kenya]], [[Social Media Kenya]], [[Digital Art]]
 
 ## Sources
 

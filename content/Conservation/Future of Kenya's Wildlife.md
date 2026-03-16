@@ -1,4 +1,4 @@
-Kenya's [[Wildlife Future|wildlife future]] depends on managing [[Interconnected Challenges|interconnected challenges]]: [[Population Growth Pressure|human population growth]] increasing [[Land Pressure|land pressure]], [[Climate Change Impacts|climate change]] altering [[Rainfall Patterns|rainfall patterns]], [[Poaching Persistence|continued poaching]] driven by [[International Demand|international demand]], [[Habitat Fragmentation|habitat fragmentation]] from [[Infrastructure Development|infrastructure development]], and [[Limited Conservation Resources|limited resources]] for [[Conservation|conservation]]. However, grounds for hope exist in [[Conservation|successful conservation examples]] and [[Emerging Conservation Models|emerging community conservation models]].
+Kenya's [[Future of Kenya's Wildlife|wildlife future]] depends on managing [[Interconnected Challenges|interconnected challenges]]: [[Population Pressure|human population growth]] increasing [[Land Pressure|land pressure]], [[Climate Change Impacts|climate change]] altering [[Rainfall Patterns|rainfall patterns]], [[Poaching Persistence|continued poaching]] driven by [[International Demand|international demand]], [[Habitat Fragmentation|habitat fragmentation]] from [[Infrastructure Development|infrastructure development]], and [[Conservation|limited resources]] for [[Conservation|conservation]]. However, grounds for hope exist in [[Conservation|successful conservation examples]] and [[Conservation|emerging community conservation models]].
 
 ## Population Growth Pressure
 
@@ -91,7 +91,7 @@ The question is whether Kenya's population and government will commit to sharing
 - [[Conservation Economics Kenya]]
 - [[Habitat Corridors Kenya]]
 - [[Protected Areas Management]]
-- [[Sustainable Development Goals]]
+- [[Development Aid]]
 - [[Conservation Timeline Kenya]]
 
 ## Sources

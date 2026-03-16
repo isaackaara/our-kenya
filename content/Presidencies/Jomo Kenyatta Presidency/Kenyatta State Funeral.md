@@ -15,7 +15,7 @@ Kenyatta's burial took place in Gatundu, his home region, rather than in Nairobi
 [[Kenyatta death August 22 1978]]
 [[Kenyatta Legacy]]
 [[Kenyatta Final Years]]
-[[Daniel arap Moi as VP]]
+[[Daniel arap Moi]]
 [[Kenyatta Presidency Timeline]]
 
 ## Sources

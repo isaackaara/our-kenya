@@ -20,7 +20,7 @@ Literary journals facilitated critical conversation, with journals publishing re
 [[University of Nairobi Literary Culture]]
 [[Literary Journals Publishing]]
 [[African Literary Theory]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Book Reviews Media]]
 
 ## Sources

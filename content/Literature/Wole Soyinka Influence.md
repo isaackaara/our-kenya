@@ -22,7 +22,7 @@ The continuing global circulation of Soyinka's work ensures his ongoing influenc
 [[African Dramatic Traditions]]
 [[Ngugi wa Thiong'o Literature]]
 [[Theater and Politics Africa]]
-[[Language and Colonialism]]
+[[Luo Language]]
 [[African Literary Canonization]]
 
 ## Sources

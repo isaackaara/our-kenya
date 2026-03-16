@@ -63,13 +63,13 @@ Ruto's administration inherited corruption from Uhuru's tenure but also faced it
 ## See Also
 
 - [[Uhuru Economic Record]]
-- [[Uhuru and Government]]
+- [[Uhuru BBI]]
 - [[Kenya Anti-Corruption Commission]]
 - [[Jubilee Party]]
-- [[2010 Constitution Accountability Provisions]]
+- [[The Constitution of 2010]]
 - [[Kenya Judiciary and Corruption]]
 - [[Ruto Anti-Corruption Claims]]
-- [[Public Finance Management Kenya]]
+- [[Public Art]]
 
 ## Sources
 

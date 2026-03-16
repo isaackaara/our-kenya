@@ -20,7 +20,7 @@ The Swahili coastal peoples developed a distinctive culture blending African, Ar
 
 Between roughly 1000 CE and 1500 CE, the [[Swahili]] coast hosted a distinctive civilization:
 
-**Trading Networks**: [[Swahili]] merchants traded with [[Arab Slave Trade]] networks, Persian, Indian, and Chinese traders, exchanging African goods (ivory, gold, slaves) for Asian manufactures and spices.
+**Trading Networks**: [[Swahili]] merchants traded with [[26_Arab_Slave_Trade]] networks, Persian, Indian, and Chinese traders, exchanging African goods (ivory, gold, slaves) for Asian manufactures and spices.
 
 **Architectural Tradition**: [[Swahili]] coastal towns developed distinctive architecture with coral stone buildings, intricate carved doors, and coastal fortifications.
 
@@ -93,8 +93,8 @@ The [[Swahili]] coast represents a shared cultural space for Kenya, Tanzania, an
 - [[Swahili]]
 - [[Mombasa Port]]
 - [[Zanzibar]]
-- [[Arab Slave Trade]]
-- [[Omani Empire]]
+- [[26_Arab_Slave_Trade]]
+- [[27_Omani_Empire]]
 - [[East Africa]]
 - [[East African Music Charts 1990s]]
 

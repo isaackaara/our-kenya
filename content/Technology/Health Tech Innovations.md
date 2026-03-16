@@ -10,7 +10,7 @@ Community health worker technology equipped health workers with tools improving 
 
 ## See Also
 
-[[Artificial Intelligence Kenya]], [[Mobile Banking Services]], [[Education Technology]], [[Telemedicine Services]], [[Hospital Management]], [[Health Policy Kenya]]
+[[Artificial Intelligence Kenya]], [[Mobile Banking Services]], [[Education Technology Computers]], [[Telemedicine Services Development]], [[Hospital Management]], [[Health]]
 
 ## Sources
 

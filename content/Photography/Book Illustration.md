@@ -10,7 +10,7 @@ Academic and non-fiction book illustration serves explanatory and informational 
 - [[Children's Literature Kenya]]
 - [[Literary Culture Kenya]]
 - [[Publishing Industry Kenya]]
-- [[Illustration Specialization]]
+- [[Illustration Art]]
 - [[Visual Narrative]]
 - [[Information Design]]
 - [[Educational Publishing]]

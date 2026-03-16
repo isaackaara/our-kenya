@@ -14,7 +14,7 @@ Construction activity has expanded moderately with some new commercial structure
 - [[Mandera Devolution]]
 - [[Mandera Land]]
 - [[Mandera Infrastructure]]
-- [[Mandera Economy]]
+- [[The NGO Economy]]
 
 ## Sources
 

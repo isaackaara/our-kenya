@@ -17,7 +17,7 @@ The Hurlingham experience illustrates broader patterns of Nairobi's spatial tran
 [[Residential Suburbs]]
 [[Commercial Building]]
 [[Nairobi Built Environment]]
-[[Mixed-Use Development]]
+[[Development Aid]]
 [[Traffic Management]]
 
 ## Sources

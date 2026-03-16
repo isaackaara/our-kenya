@@ -13,7 +13,7 @@ Informal sector awareness campaigns presented distinct challenges given workers'
 - [[Worker Awareness Campaigns]]
 - [[Worker Education]]
 - [[Labor NGOs]]
-- [[Labor Rights]]
+- [[Labor Rights Awareness]]
 - [[Informal Sector Labor Rights]]
 - [[Women Work Conditions]]
 

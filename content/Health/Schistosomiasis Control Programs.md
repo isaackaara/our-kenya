@@ -14,7 +14,7 @@ Kenya's schistosomiasis control programs have achieved reductions in infection p
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
 [[Parasitic Diseases Kenya|Parasitic Diseases Kenya]]
-[[Poverty and Health|Poverty]]
+[[Mental Health Poverty|Poverty]]
 
 ## Sources
 1. https://www.who.int/teams/control-of-neglected-tropical-diseases/schistosomiasis-and-soil-transmitted-helminthiasis/schistosomiasis

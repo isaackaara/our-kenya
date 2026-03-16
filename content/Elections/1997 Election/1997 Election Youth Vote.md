@@ -17,7 +17,7 @@ The marginalization of youth-specific politics in 1997 would be partially addres
 ## See Also
 
 - [[1997 Election]]
-- [[Youth in Kenyan politics]]
+- [[Kenyan Hip-Hop]]
 - [[Urban politics in Kenya]]
 - [[Unemployment]]
 - [[2002 Election youth]]

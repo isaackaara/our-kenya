@@ -11,7 +11,7 @@ Contemporary Kenyan metal sculptors create work exhibited in galleries and publi
 - [[Foundry and Casting Processes]]
 - [[Monumental Sculpture]]
 - [[Material Properties and Aesthetics]]
-- [[Public Art Kenya]]
+- [[Director of Public Prosecutions Kenya]]
 - [[Sculpture Exhibitions]]
 - [[Contemporary Sculptural Practice]]
 

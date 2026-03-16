@@ -18,10 +18,10 @@ The relationship between environmental literature and environmental activism pro
 [[Postcolonial Literature Movement]]
 [[Climate Change Kenya]]
 [[Wangari Maathai Activism]]
-[[Poetry Collections Kenya]]
+[[Poetry Collections]]
 [[Children's Literature Kenya]]
-[[Social Commentary Literature]]
-[[Environmental Justice Kenya]]
+[[Social Commentary]]
+[[Environmental Art]]
 
 ## Sources
 1. https://scholarmedia.africa/climate-change/roots-of-resilience-african-literatures-response-to-climate-challenges/ - Kenyan environmental literature and climate change engagement

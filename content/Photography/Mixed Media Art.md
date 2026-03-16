@@ -13,7 +13,7 @@ Contemporary mixed media practice in Kenya reflects artistic sophistication and 
 - [[Sculpture Practice]]
 - [[Contemporary Art Techniques]]
 - [[Hybrid Artistic Forms]]
-- [[Digital and Analog Art]]
+- [[Digital Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Mixed_media - Mixed Media Art

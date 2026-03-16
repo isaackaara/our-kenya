@@ -63,7 +63,7 @@ The question of whether Uhuru's family would face wealth recovery proceedings (g
 - [[Uhuru Kenyatta Presidency]]
 - [[William Ruto]]
 - [[African Union]]
-- [[Kikuyu Political Leadership]]
+- [[Kikuyu]]
 - [[Kenya Accountability and Justice]]
 - [[Post-Presidential Politics in Africa]]
 - [[Infrastructure Development Africa]]

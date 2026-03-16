@@ -5,7 +5,7 @@
 - [[Manufacturing History Kenya]] - Industrial production and export focus
 - [[Kenya Exports]] - Export commodities and trade patterns
 - [[Structural Adjustment Kenya]] - Liberalization policies enabling EPZs
-- [[Foreign Investment Kenya]] - Attracting multinational manufacturing
+- [[Art Investment]] - Attracting multinational manufacturing
 - [[Mombasa Port]] - Port proximity to export facilities
 - [[Vision 2030]] - Contemporary industrial policy
 - [[Kenya Economic Overview]] - Macroeconomic development strategy

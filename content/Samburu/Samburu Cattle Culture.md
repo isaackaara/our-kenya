@@ -18,7 +18,7 @@ Cattle have spiritual value in Samburu cosmology. Cattle are offered in ritual c
 - [[Samburu Social Structure]]
 - [[Samburu Marriage]]
 - [[Samburu Religion]]
-- [[Livestock and Wealth Systems]]
+- [[Wealth Gap]]
 
 ## Sources
 

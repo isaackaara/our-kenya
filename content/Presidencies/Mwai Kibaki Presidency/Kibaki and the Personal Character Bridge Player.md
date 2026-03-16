@@ -13,7 +13,7 @@ Nevertheless, those who knew Kibaki personally often remarked on his courtesy, h
 [[Kenya Elite and International Cosmopolitanism]]
 [[Political Leadership Styles in Africa]]
 [[Kibaki Presidency Personal Dimensions]]
-[[Lucy Kibaki First Lady]]
+[[Kibaki and Lucy Kibaki First Lady Controversies]]
 [[Intellectual Culture Kenya]]
 
 ## Sources

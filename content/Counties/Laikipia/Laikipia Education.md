@@ -27,7 +27,7 @@ University students attend institutions in major cities. Higher education access
 
 ## See Also
 
-- [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
+- [[Kikuyu|Laikipia Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]

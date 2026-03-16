@@ -3,10 +3,10 @@ The National Accord and Reconciliation Agreement, finalized in February 2008, cr
 ## See Also
 
 - [[2007 Election]]
-- [[Kibaki's presidency]]
+- [[Presidency Of Moi]]
 - [[Raila's Prime Minister role]]
 - [[Kenya]]
-- [[Power-sharing agreements Kenya]]
+- [[Kenya Power]]
 
 ## Sources
 

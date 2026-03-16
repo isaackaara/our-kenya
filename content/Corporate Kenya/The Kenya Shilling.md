@@ -2,7 +2,7 @@ The [[Kenya Shilling History]] ([[Kisa]], symbol: KSh) is the [[currency Kenya|c
 
 ## Pre-Independence: East African Shilling
 
-Before [[1977]], [[Kenya]], [[Uganda Railway Taita-Taveta]], and [[Tanzania]] shared a common [[currency Kenya|currency]]: the [[East Africa]] (first issued in [[1921]]) as the [[currency Kenya|currency]] of the [[East Africa]]). The East African shilling was tied to the [[British pound sterling]] and later to the [[International Monetary Fund]]'s [[Special Drawing Rights]] ([[SDR]]).
+Before [[1977]], [[Kenya]], [[Uganda Railway Taita-Taveta]], and [[Tanzania]] shared a common [[currency Kenya|currency]]: the [[East Africa]] (first issued in [[1921]]) as the [[currency Kenya|currency]] of the [[East Africa]]). The East African shilling was tied to the [[Luo and the British]] and later to the [[International Monetary Fund]]'s [[Special Drawing Rights]] ([[SDR]]).
 
 The East African Currency Board managed monetary policy for all three East African states. However, political tensions and economic divergences led to the eventual collapse of the East African Community in 1977, which necessitated separate currencies.
 
@@ -99,7 +99,7 @@ Short-term stabilisation is possible through higher interest rates or capital co
 - [[Monetary Policy Kenya]]
 - [[Exchange Rate Kenya]]
 - [[Economic Stability Kenya]]
-- [[International Trade Kenya]]
+- [[Kamba in International Relations Kenya Trade]]
 - [[East Africa]]
 - [[Inflation Kenya]]
 

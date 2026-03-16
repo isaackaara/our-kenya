@@ -8,7 +8,7 @@ Contemporary Kenyan beadwork artists navigate between cultural tradition and art
 
 ## See Also
 - [[Maasai Culture and Beadwork]]
-- [[Traditional Crafts Kenya]]
+- [[Traditional Crafts]]
 - [[Jewelry Making]]
 - [[Cultural Material Traditions]]
 - [[Craft Commerce and Tourism]]

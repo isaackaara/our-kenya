@@ -13,8 +13,8 @@ By the time Kananu's term ended with the 2022 elections, Nairobi had experienced
 [[Uhuru and Devolution]]
 [[County Governors and Presidential Influence]]
 [[Nairobi Governance Crises 2013-2022]]
-[[Kenyatta Family Political Influence]]
-[[Constitutional Devolution Framework Kenya]]
+[[Kenyatta and the Luo]]
+[[Devolution Kenya]]
 
 ## Sources
 1. https://www.standardmedia.co.ke/politics/article/2001158567-who-is-anne-kananu-nairobi-governor

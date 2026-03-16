@@ -14,9 +14,9 @@ The constitutional context of the 1969 election thus reflected Kenya's constitut
 
 - [[1969 Election]]
 - [[Kenya]]
-- [[Presidential Power Kenya]]
+- [[Kenya Power]]
 - [[Parliamentary Decline]]
-- [[Constitutional Development Kenya]]
+- [[Development Aid]]
 - [[Executive Authority]]
 - [[Electoral Systems and Constitutions]]
 

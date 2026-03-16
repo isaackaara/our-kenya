@@ -21,7 +21,7 @@ The absence of environmental accountability for Moi's government reflected the b
 [[Moi and Wangari Maathai]]
 [[Moi and the Kalenjin]]
 [[Kenya/Natural Resources]]
-[[Uhuru Park Controversy]]
+[[Uhuru BBI]]
 [[Moi Legacy]]
 
 ## Sources

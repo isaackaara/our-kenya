@@ -17,7 +17,7 @@ Contemporary subdivision patterns face challenges from land scarcity and densifi
 [[Urban Expansion]]
 [[Informal Settlements]]
 [[Residential Architecture]]
-[[Development Scheme]]
+[[Development Aid]]
 [[Urban Densification]]
 
 ## Sources

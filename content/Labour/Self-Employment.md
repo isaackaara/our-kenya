@@ -15,7 +15,7 @@ Social protection for self-employed workers remained virtually absent throughout
 - [[Cooperative Movements]]
 - [[Savings Groups]]
 - [[Microfinance Workers]]
-- [[Labor Rights]]
+- [[Labor Rights Awareness]]
 
 ## Sources
 1. https://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_123029.pdf

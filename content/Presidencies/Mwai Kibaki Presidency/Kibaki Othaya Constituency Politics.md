@@ -10,11 +10,11 @@ However, Kibaki's focus on the presidency and national politics inevitably reduc
 
 ## See Also
 
-[[Othaya Constituency Kenya]]
-[[Constituency Politics Kenya]]
+[[Gem Constituency]]
+[[Gem Constituency]]
 [[Nyeri District Politics]]
 [[Mount Kenya Region Politics]]
-[[Kibaki Home Base]]
+[[Kibaki and the ICC]]
 [[Representation and Patronage Kenya]]
 
 ## Sources

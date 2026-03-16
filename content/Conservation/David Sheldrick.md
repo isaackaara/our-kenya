@@ -38,7 +38,7 @@ Sheldrick's conservation approaches influenced conservation management across Ea
 - [[Tsavo National Park]]
 - [[Wildlife Research and Data]]
 - [[Anti-Poaching Operations]]
-- [[Elephant and Rhino Protection]]
+- [[The Rhino Ark]]
 - [[Conservation]]
 - [[Animal Welfare and Conservation Integration]]
 

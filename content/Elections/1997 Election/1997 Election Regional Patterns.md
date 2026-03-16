@@ -19,7 +19,7 @@ The regional patterns thus reveal the fundamental challenge confronting the oppo
 - [[1997 Election Results]]
 - [[Ethnic voting in Kenya]]
 - [[Kenya]]
-- [[Regional development in Kenya]]
+- [[Development Aid]]
 - [[1997 Election Kibaki DP]]
 - [[1997 Election Raila Odinga]]
 

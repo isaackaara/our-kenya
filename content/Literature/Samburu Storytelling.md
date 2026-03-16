@@ -18,7 +18,7 @@ Contemporary initiatives for Samburu literary and linguistic preservation includ
 - [[Language Preservation Literature]]
 - [[Kenyan Language Literature]]
 - [[Libraries Archives]]
-- [[Educational Literature Development]]
+- [[Literature]]
 - [[Diaspora Communities]]
 
 ## Sources

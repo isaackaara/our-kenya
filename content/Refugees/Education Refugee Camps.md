@@ -13,7 +13,7 @@ Education outcomes reflected both achievement and constraint. Students attending
 [[University Access Refugees]]
 [[Dadaab Refugee Camp]]
 [[Kakuma Refugee Camp]]
-[[Teacher Training Programs]]
+[[Job Training Programs]]
 
 ## Sources
 

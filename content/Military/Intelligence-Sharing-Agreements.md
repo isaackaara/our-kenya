@@ -1,8 +1,8 @@
-Intelligence sharing agreements between Kenya and bilateral partners including [[Uganda]], [[Tanzania]], [[United States]], and [[United Kingdom]] have provided operational mechanisms for coordinating counterterrorism responses, maritime security operations, and border security enforcement since the late 1990s. The [[Kenya Intelligence Services]], operating as classified institutions, maintain [[Intelligence Sharing Agreements]] with foreign intelligence agencies, though terms and extent of information exchange remain largely confidential and subject to ongoing political negotiation.
+Intelligence sharing agreements between Kenya and bilateral partners including [[Uganda Railway Taita-Taveta]], [[Tanzania]], [[United States Military Partnerships]], and [[United Kingdom]] have provided operational mechanisms for coordinating counterterrorism responses, maritime security operations, and border security enforcement since the late 1990s. The [[Intelligence Services Kenya]], operating as classified institutions, maintain [[Intelligence-Sharing-Agreements]] with foreign intelligence agencies, though terms and extent of information exchange remain largely confidential and subject to ongoing political negotiation.
 
-The [[Five Eyes]] coalition, though Kenya is not a formal participant, includes mechanisms for sharing intelligence with [[United States|American]] and [[British]] counterparts through bilateral arrangements. The [[Kenya Intelligence Services]] personnel receive training from [[CIA]] and [[MI6]] operatives stationed in Nairobi, while Kenya shares regional security intelligence regarding [[Somalia]] and [[East Africa|East African]] threats. By 2008, intelligence sharing regarding [[Al-Shabaab Threats Kenya|Al-Shabaab]] activity and cross-border movement enabled targeted military operations against militant cells.
+The [[The Big Five]] coalition, though Kenya is not a formal participant, includes mechanisms for sharing intelligence with [[United States Military Partnerships|American]] and [[British]] counterparts through bilateral arrangements. The [[Intelligence Services Kenya]] personnel receive training from [[CIA]] and [[MI6]] operatives stationed in Nairobi, while Kenya shares regional security intelligence regarding [[Somalia]] and [[East Africa|East African]] threats. By 2008, intelligence sharing regarding [[Al-Shabaab Threats Kenya|Al-Shabaab]] activity and cross-border movement enabled targeted military operations against militant cells.
 
-Regional intelligence coordination through the [[East African Community|East African Community]] framework operated through the [[East African Intelligence Committee]], which convened quarterly to discuss transnational security threats. Intelligence regarding trafficking networks, refugee movements, and militant activity was shared among [[Kenya]], [[Uganda]], [[Tanzania]], [[Burundi]], and [[Rwanda]] security services, though institutional capacity for processing and analyzing shared intelligence varied significantly. By 2015, the committee had developed standard protocols for intelligence classification, handling, and dissemination to prevent unauthorized disclosure.
+Regional intelligence coordination through the [[East African Community|East African Community]] framework operated through the [[East African Intelligence Committee]], which convened quarterly to discuss transnational security threats. Intelligence regarding trafficking networks, refugee movements, and militant activity was shared among [[Kenya]], [[Uganda Railway Taita-Taveta]], [[Tanzania]], [[Burundi]], and [[Rwanda]] security services, though institutional capacity for processing and analyzing shared intelligence varied significantly. By 2015, the committee had developed standard protocols for intelligence classification, handling, and dissemination to prevent unauthorized disclosure.
 
 Israeli intelligence services, particularly [[Mossad]] personnel stationed in [[East Africa]], provided technical training and operational coordination for counterterrorism operations targeting [[Al-Shabaab Threats Kenya|Al-Shabaab]] cells. The arrangement included provision of signals intelligence capability, targeting analysis, and strike coordination. The extent of [[Israel|Israeli]] operational involvement in Kenya remained classified, though occasional public incidents revealed the depth of cooperation. A 2014 operation targeting militant leadership in Nairobi was later documented as coordinated between [[Kenya]] and [[Israel|Israeli]] operatives.
 
@@ -10,12 +10,12 @@ Institutional tensions around intelligence sharing related to security classific
 
 ## See Also
 
-[[Kenya Intelligence Services]]
+[[Intelligence Services Kenya]]
 [[Counterterrorism Operations Kenya]]
-[[Regional Security Cooperation]]
+[[Regional-Security-Cooperation]]
 [[East African Community]]
 [[Somalia]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 [[Armed Forces Infrastructure]]
 
 ## Sources

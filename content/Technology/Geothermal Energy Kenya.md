@@ -10,7 +10,7 @@ Geothermal energy's reliability and capacity factor advantages supported Kenya's
 
 ## See Also
 
-[[Renewable Energy Tech]], [[Energy Access]], [[Climate Change Response]], [[Infrastructure Development]], [[Environmental Conservation]], [[Technology Policy Kenya]]
+[[Renewable Energy Tech]], [[Energy Access]], [[Climate Change Response]], [[Infrastructure Development]], [[Female Environmental Conservation]], [[Technology]]
 
 ## Sources
 

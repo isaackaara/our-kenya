@@ -1,4 +1,4 @@
-The [[Tharaka]] are a [[Meru]] sub-group inhabiting the dry lowlands to the east of the main [[Meru]] highlands. The [[Tharaka]] territory is now administratively part of [[Tharaka-Nithi County]]. The [[Tharaka]] represent a distinct ecological and cultural adaptation within the broader [[Meru]] identity, with pastoral and semi-pastoral orientation differing from highland [[Imenti]].
+The [[Tharaka]] are a [[Meru]] sub-group inhabiting the dry lowlands to the east of the main [[Meru]] highlands. The [[Tharaka]] territory is now administratively part of [[Tharaka-Nithi County]]. The [[Tharaka]] represent a distinct ecological and cultural adaptation within the broader [[Meru]] identity, with pastoral and semi-pastoral orientation differing from highland [[Imenti People]].
 
 ## Territory and Ecology
 

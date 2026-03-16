@@ -7,7 +7,7 @@ tags: kisii gusii circumcision initiation fgc male female
 
 ## Male Circumcision (Okwaroka)
 
-Male [[Circumcision|circumcision]] is the central rite of passage in [[Gusii people|Gusii]] society, marking the transition from boyhood to manhood. The term okwaroka means "leaving the nest" in [[Ekegusii Language|Ekegusii]], symbolizing the severance from childhood and maternal care.
+Male [[Circumcision as Dividing Line|circumcision]] is the central rite of passage in [[Gusii people|Gusii]] society, marking the transition from boyhood to manhood. The term okwaroka means "leaving the nest" in [[Ekegusii Language and Linguistic Identity|Ekegusii]], symbolizing the severance from childhood and maternal care.
 
 **Age and timing:**
 

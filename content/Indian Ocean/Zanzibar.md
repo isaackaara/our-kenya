@@ -19,11 +19,11 @@ Culturally, Zanzibar remains central to Swahili identity and the Indian Ocean he
 ## See Also
 
 [[Zanzibar Revolution]]
-[[Omani Empire]]
-[[Arab Slave Trade]]
-[[Indian Ocean Heritage]]
+[[27_Omani_Empire]]
+[[26_Arab_Slave_Trade]]
+[[19_Indian_Ocean_Heritage]]
 [[Swahili Regional Language]]
-[[Coast History]]
+[[Coast-History]]
 [[Kenya Somalia Border]]
 
 ## Sources

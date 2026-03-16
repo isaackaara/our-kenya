@@ -45,7 +45,7 @@ This vertical maps [[Kenya]]'s corporate landscape across [[Banking History Keny
 - [[Coffee Industry Kenya]]
 - [[Cut Flower Industry Kenya]]
 - [[Horticulture Export]]
-- [[Sugar Industry Kenya]]
+- [[Tea Industry Kenya]]
 - [[Maize and Food Security]]
 - [[The Cooperative Movement]]
 - [[Kenya Dairy Industry]]

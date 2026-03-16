@@ -17,7 +17,7 @@ By the mid-twentieth century, this rigid racial hierarchy had generated profound
 ## See Also
 [[Segregation Policies]]
 [[Colonial Class System]]
-[[Colonial Discrimination]]
+[[Colonial Racial Discrimination]]
 [[Color Bar Employment]]
 [[Education]]
 [[Kikuyu]]

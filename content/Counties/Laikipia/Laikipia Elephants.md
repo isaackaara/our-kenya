@@ -31,7 +31,7 @@ Elephant movement and ecology research occurs on Laikipia lands. Research inform
 
 ## See Also
 
-- [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
+- [[Kikuyu|Laikipia Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]

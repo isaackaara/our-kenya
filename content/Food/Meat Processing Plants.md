@@ -24,8 +24,8 @@ Urban meat consumption patterns reflected income and cultural preferences. Highe
 [[Food Processing Industry]]
 [[Livestock Farming Systems]]
 [[Food Safety Standards]]
-[[Urban Food Systems]]
-[[Export Economy Kenya]]
+[[Urban Food Supply Systems]]
+[[The NGO Economy]]
 [[Labor Systems Agriculture]]
 
 ## Sources

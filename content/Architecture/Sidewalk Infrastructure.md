@@ -16,7 +16,7 @@ The integration of utilities into sidewalk infrastructure (water pipes, sewer li
 
 ## See Also
 
-[[Street Lighting]], [[Urban Planning Development]], [[Transportation Infrastructure]], [[Public Space]], [[Poverty]], [[Urban Design Standards]], [[Infrastructure]]
+[[Street Lighting]], [[Urban Planning Development]], [[Transportation Infrastructure]], [[Public Art]], [[Poverty]], [[Urban Design Standards]], [[Infrastructure]]
 
 ## Sources
 

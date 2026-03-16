@@ -100,7 +100,7 @@ Chinese investment has geopolitical significance:
 
 - [[East Africa]]
 - [[Mombasa Port]]
-- [[JKIA Airport]]
+- [[49_JKIA_Airport]]
 - [[East Africa]]
 - [[Nairobi]]
 - [[Uhuru and Lamu Port LAPSSET Corridor]]

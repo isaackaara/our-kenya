@@ -13,7 +13,7 @@ The transition from analog to digital design tools from the 1990s onward transfo
 - [[Typography Design]]
 - [[Branding and Identity Design]]
 - [[Professional Design Practice]]
-- [[Digital Design Tools]]
+- [[Digital Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Graphic_design - Graphic Design History

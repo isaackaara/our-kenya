@@ -10,7 +10,7 @@ Affordability and technical barriers constrained wearable technology expansion a
 
 ## See Also
 
-[[Sensor Technology Applications]], [[Health Tech Innovations]], [[Mobile Technology]], [[Fitness and Wellness]], [[Technology Innovation]], [[Consumer Technology]]
+[[Sensor Technology Applications]], [[Health Tech Innovations]], [[Technology]], [[Fitness and Wellness]], [[Health Technology Innovation]], [[Technology]]
 
 ## Sources
 

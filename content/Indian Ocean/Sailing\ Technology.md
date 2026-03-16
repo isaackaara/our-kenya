@@ -1,4 +1,4 @@
-The [[Sailing Technology]] innovations developed through Indian Ocean maritime practice reflected continuous efforts to improve speed, efficiency, and safety of ocean vessels. The technological developments included improvements in sail design, rigging arrangements, hull construction, and navigation instruments. The diffusion of technological innovations across maritime communities meant that improvements developed in one region gradually spread to other regions.
+The [[Sailing Technology Evolution]] innovations developed through Indian Ocean maritime practice reflected continuous efforts to improve speed, efficiency, and safety of ocean vessels. The technological developments included improvements in sail design, rigging arrangements, hull construction, and navigation instruments. The diffusion of technological innovations across maritime communities meant that improvements developed in one region gradually spread to other regions.
 
 The lateen sail represented the dominant innovation in Indian Ocean sailing technology, providing superior performance in monsoon wind conditions compared to square sails common in Mediterranean and Northern European maritime traditions. The triangular sail shape allowed more efficient capture of wind from various angles. The ability to sail closer to the wind direction meant that vessels could maintain forward progress even when ideal wind conditions were not available. The adoption of lateen sails by maritime communities throughout the Indian Ocean reflected recognition of superior performance characteristics.
 
@@ -22,7 +22,7 @@ The regional variation in sailing technology reflected local optimization and ac
 
 [[Dhow Culture Navigation]]
 [[Sailing Innovation]]
-[[Navigation Technology]]
+[[Technology]]
 [[Maritime Traditions]]
 [[Merchant Vessels]]
 

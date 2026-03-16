@@ -32,7 +32,7 @@ Kisii County has developed dense educational infrastructure:
 
 ## Secondary School Environment
 
-[[Kisii School|Kisii secondary schools]] are competitive and academically rigorous. Students compete fiercely for limited secondary school places (admission is competitive and merit-based). The secondary school environment emphasizes:
+[[Kisii|Kisii secondary schools]] are competitive and academically rigorous. Students compete fiercely for limited secondary school places (admission is competitive and merit-based). The secondary school environment emphasizes:
 
 1. **Academic competition** - students are ranked and compared; high achievers are celebrated
 2. **Discipline and order** - boarding schools maintain strict discipline and hierarchical structures

@@ -10,11 +10,11 @@ Procurement fraud investigations targeting government and corporate purchasing i
 
 ## See Also
 
-[[Police Detective Systems]]
-[[Money Laundering Investigations]]
+[[Police-Detective-Systems]]
+[[Money-Laundering-Investigations]]
 [[Kenya Anti-Corruption Commission]]
 [[Financial Crimes Unit]]
-[[Cybercrime Investigation Teams]]
+[[Cybercrime-Investigation-Teams]]
 [[Corruption Military Institutions]]
 [[Armed Forces Infrastructure]]
 

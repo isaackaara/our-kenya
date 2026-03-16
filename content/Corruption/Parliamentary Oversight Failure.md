@@ -1,6 +1,6 @@
 ## Overview
 
-Parliament is constitutionally vested with oversight authority over the [[Executive Branch]]. The [[Public Accounts Committee]] (PAC) and [[Public Investments Committee]] (PIC) are meant to examine government spending and hold officials accountable for financial irregularities. However, parliamentary oversight has been systematically weak, with many MPs failing to scrutinize spending because they themselves are beneficiaries of corrupt systems or lack political will to challenge powerful figures.
+Parliament is constitutionally vested with oversight authority over the [[Executive Branch]]. The [[Public Art]] (PAC) and [[Public Art]] (PIC) are meant to examine government spending and hold officials accountable for financial irregularities. However, parliamentary oversight has been systematically weak, with many MPs failing to scrutinize spending because they themselves are beneficiaries of corrupt systems or lack political will to challenge powerful figures.
 
 ## Committee Composition and Conflicts
 
@@ -49,7 +49,7 @@ International donors ([[World Bank IMF Kenya Corruption]], [[International Monet
 ## See Also
 
 - [[Corruption]] - broader parliamentary role in corruption
-- [[Public Accounts Committee]] - specific oversight body
+- [[Public Art]] - specific oversight body
 - [[Procurement Corruption]] - spending under weak oversight
 - [[Political Patronage Networks]] - why oversight is selective
 - [[Judiciary Corruption]] - judicial failure to hold officials accountable

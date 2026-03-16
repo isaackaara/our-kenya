@@ -11,7 +11,7 @@ Documentation and preservation of installation art pose significant challenges s
 - [[Spatial Experience and Art]]
 - [[Contemporary Art Formats]]
 - [[Immersive Art Experience]]
-- [[Public Art Kenya]]
+- [[Director of Public Prosecutions Kenya]]
 - [[Installation Documentation]]
 - [[Environmental Art]]
 

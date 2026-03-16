@@ -26,7 +26,7 @@ Notable people from the county are sometimes invoked in political rhetoric and r
 - [[Kenya]]
 - [[Kenya]]
 - [[Sports in Kenyan Schools]]
-- [[Business in Kenya]]
+- [[Women in Business Management Kenya]]
 - [[Cultural Leadership]]
 
 ## Sources

@@ -10,7 +10,7 @@ Automation's labor market implications generated policy discussions as manufactu
 
 ## See Also
 
-[[Manufacturing Technology]], [[Logistics Innovation]], [[Health Tech Innovations]], [[Education Technology]], [[Labor Market Kenya]], [[Technology Policy Kenya]]
+[[Technology]], [[Logistics Innovation]], [[Health Tech Innovations]], [[Education Technology Computers]], [[Labor Market Kenya]], [[Technology]]
 
 ## Sources
 

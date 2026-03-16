@@ -16,7 +16,7 @@ The campaign demonstrated the advantages that an incumbent government possesses 
 
 - [[1992 Election]]
 - [[Daniel arap Moi]]
-- [[KANU Campaign Strategy]]
+- [[Moi and KANU]]
 - [[Elections]]
 - [[Ethnic Mobilization 1992]]
 - [[Media]]

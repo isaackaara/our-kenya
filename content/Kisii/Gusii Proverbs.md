@@ -1,4 +1,4 @@
-[[Gusii people|Gusii]] oral wisdom is encoded in proverbs (osigochi in [[Ekegusii Language|Ekegusii]]), which distill cultural values into memorable phrases. These proverbs were traditionally spoken by [[Kisii Elders and Governance|elders]] during disputes, celebrations, and ceremonies, serving as ethical guides and social correctives.
+[[Gusii people|Gusii]] oral wisdom is encoded in proverbs (osigochi in [[Ekegusii Language and Linguistic Identity|Ekegusii]]), which distill cultural values into memorable phrases. These proverbs were traditionally spoken by [[Kisii Elders and Governance|elders]] during disputes, celebrations, and ceremonies, serving as ethical guides and social correctives.
 
 ## Proverbs on Hard Work and Persistence
 

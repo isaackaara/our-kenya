@@ -13,13 +13,13 @@ Sameer is owned by the [[Sameer Group Kenya]], a [[Kenya|Kenya-based enterprise]
 
 ## Outlook
 
-Automotive assembly in Kenya faces structural challenges without protective tariffs. Sameer's future depends on competing through efficiency or focusing on [[specialty markets Kenya|specialty markets]].
+Automotive assembly in Kenya faces structural challenges without protective tariffs. Sameer's future depends on competing through efficiency or focusing on [[Art Markets Kenya|specialty markets]].
 
 ## See Also
 
 - [[Motor Vehicle Assembly Kenya]]
 - [[Hardware Manufacturing Kenya]]
-- [[Automotive Industry Kenya]]
+- [[Tea Industry Kenya]]
 - [[Business Groups Kenya]]
 - [[Industrial Competitiveness Kenya]]
 - [[Trade Liberalisation Kenya]]

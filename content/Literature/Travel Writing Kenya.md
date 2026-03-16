@@ -24,10 +24,10 @@ Contemporary travel writing in Kenya continues developing, with digital media en
 [[Kenyan Tourism]]
 [[Environmental Literature]]
 [[Cultural Encounters Literature]]
-[[Urban Literature Kenya]]
+[[Literature]]
 [[Women Travelers Kenya]]
 [[Postcolonial Representation]]
-[[Geography and Literature]]
+[[Literature]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Kenya_Literature_Bureau - Travel writing publishing

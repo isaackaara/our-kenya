@@ -1,4 +1,4 @@
-[[Mijikenda]] engage in various craft production, including basketry, [[pottery]], [[woodworking]], and other crafts. These crafts are economically important, culturally significant, and increasingly directed toward tourist markets. Craft production represents both traditional cultural practice and contemporary economic survival strategy.
+[[Mijikenda]] engage in various craft production, including basketry, [[Pottery Tradition]], [[woodworking]], and other crafts. These crafts are economically important, culturally significant, and increasingly directed toward tourist markets. Craft production represents both traditional cultural practice and contemporary economic survival strategy.
 
 ## Basketry and Weaving
 
@@ -14,7 +14,7 @@ Some Mjikenda engage in woodworking and carving, producing items for domestic us
 
 ## Traditional Knowledge and Techniques
 
-Craft production is based on traditional knowledge about materials, techniques, and aesthetics. This knowledge is transmitted from [[elders]] to younger artisans through [[apprenticeship]] and observation. Knowledge includes understanding of plants and materials (which plants are suitable for basketry, where to find materials, when to harvest), techniques of working materials, and design aesthetics. Loss of traditional knowledge threatens craft continuation.
+Craft production is based on traditional knowledge about materials, techniques, and aesthetics. This knowledge is transmitted from [[elders]] to younger artisans through [[Apprenticeship Systems]] and observation. Knowledge includes understanding of plants and materials (which plants are suitable for basketry, where to find materials, when to harvest), techniques of working materials, and design aesthetics. Loss of traditional knowledge threatens craft continuation.
 
 ## Economic Importance
 

@@ -19,7 +19,7 @@ For Kenyan citizens, the EAC has created practical changes including simplified 
 ## See Also
 
 [[EAC History]]
-[[EAC Common Market]]
+[[5_EAC_Common_Market]]
 [[East Africa]]
 [[Kenya]]
 [[East Africa]]

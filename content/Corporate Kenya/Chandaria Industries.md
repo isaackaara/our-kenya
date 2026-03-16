@@ -4,7 +4,7 @@ The [[Chandaria]] family is one of [[Kenya]]'s leading industrial dynasties, wit
 
 - [[Kenyan Asian Business Families]] - Overview of Asian-owned business enterprises
 - [[Manufacturing History Kenya]] - Industrial development
-- [[Packaging Industry Kenya]] - Packaging manufacturing sector
+- [[Tea Industry Kenya]] - Packaging manufacturing sector
 - [[Family-Owned Conglomerates Kenya]] - Multi-sector family businesses
 - [[Post-Independence Economic Policy]] - Africanization and business opportunities
 - [[Corporate Kenya]] - Business landscape overview

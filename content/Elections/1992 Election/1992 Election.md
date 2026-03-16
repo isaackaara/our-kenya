@@ -35,7 +35,7 @@ The election also set the stage for the subsequent two decades of Kenya's politi
 - [[Daniel arap Moi]]
 - [[Oginga Odinga]]
 - [[Kenya]]
-- [[Multiparty Elections Kenya]]
+- [[Elections]]
 - [[Donor Pressure Kenya]]
 - [[Civil Society Kenya]]
 - [[Ethnic Violence Kenya]]

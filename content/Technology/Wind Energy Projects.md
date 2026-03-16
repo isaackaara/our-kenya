@@ -10,7 +10,7 @@ Environmental considerations included impacts on bird and bat populations and la
 
 ## See Also
 
-[[Renewable Energy Tech]], [[Energy Access]], [[Environmental Conservation]], [[Climate Change Response]], [[Infrastructure Development]], [[Technology Policy Kenya]]
+[[Renewable Energy Tech]], [[Energy Access]], [[Female Environmental Conservation]], [[Climate Change Response]], [[Infrastructure Development]], [[Technology]]
 
 ## Sources
 

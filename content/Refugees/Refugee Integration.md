@@ -8,9 +8,9 @@ Social integration reflected ethnic and cultural factors. Refugee populations ma
 
 ## See Also
 
-[[Refugee Integration Resettlement]]
+[[Refugee Integration]]
 [[Host Community Relations]]
-[[Refugee Economic Integration]]
+[[Refugee Integration]]
 [[Kenya Refugee Policy]]
 [[Urban Refugees]]
 [[Community Dispute Resolution]]

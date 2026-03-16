@@ -18,7 +18,7 @@ Anglo Leasing also became a template for future corruption. The pattern of phant
 - [[John Githongo and the Whistleblower Moment]]
 - [[Kibaki and the Mount Kenya Mafia]]
 - [[NARC Coalition Formation]]
-- [[Corruption in Kenya]]
+- [[Corruption in Kenya Overview]]
 - [[Raila Odinga]]
 - [[2007 Election Disputed Results]]
 - [[Kikuyu]]

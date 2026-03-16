@@ -6,7 +6,7 @@ Written Swahili literature emerged in the 18th century, recorded initially in Ar
 
 The [[utenzi]] form, a narrative poem composed of four-line stanzas, became the dominant classical Swahili literary genre. Poems like the [[Utenzi wa Shufaka]] exemplify the form's capacity to narrate religious instruction, historical events, and romantic adventures with elaborate verbal artistry. The tradition produced works addressing themes of Islamic law, legendary heroes, and moral instruction while maintaining accessibility to oral audiences.
 
-The [[Utendi wa Mwana Kupona]] (1858), attributed to Mwana Kupona binti Msham of Lamu, stands as a didactic masterpiece composed by one of Swahili literature's first identifiable female authors. The poem offers moral instruction to the composer's daughter through elaborate verse, addressing marriage, domesticity, and feminine virtue within Islamic frameworks. The work's circulation across East African Swahili-speaking regions established Mwana Kupona as a foundational figure in women's literary authority.
+The [[Mwana Kupona]] (1858), attributed to Mwana Kupona binti Msham of Lamu, stands as a didactic masterpiece composed by one of Swahili literature's first identifiable female authors. The poem offers moral instruction to the composer's daughter through elaborate verse, addressing marriage, domesticity, and feminine virtue within Islamic frameworks. The work's circulation across East African Swahili-speaking regions established Mwana Kupona as a foundational figure in women's literary authority.
 
 The tradition similarly encompassed religious poetry, secular love poetry, and historical chronicles. [[Al Inkishafi]] (The Soul's Awakening), attributed to Sayyid Abdallah bin Ali bin Nasir of Lamu in the 19th century, represents Swahili literature's capacity for philosophical depth, treating themes of mortality, spiritual awakening, and the transience of worldly pleasure with moving eloquence.
 
@@ -17,9 +17,9 @@ The transition to Latin script in the colonial period altered but did not dimini
 ## See Also
 [[Oral Poetry Traditions]]
 [[Islamic Learning East Africa]]
-[[Coastal Swahili Societies]]
+[[Swahili]]
 [[Women Writers East Africa]]
-[[Colonial Language and Writing]]
+[[Luo Language]]
 [[Postcolonial Literature Movement]]
 [[East African Literary History]]
 

@@ -8,7 +8,7 @@ The programming acquisition and production functions represented major operation
 
 The operational reliability of broadcasting required redundant systems and technical protocols ensuring service continuity. Technical failures creating broadcasting interruptions represented operational failures reflecting negatively on broadcaster professional competence. The implementation of backup systems, emergency protocols, and technical training ensured that unexpected technical problems could be addressed without service interruption. The professional reputation of broadcasters partly rested on reliable operations providing consistent programming delivery.
 
-See Also: [[Television Studios]], [[Broadcasting Commission]], [[Film Production Companies]], [[News Broadcasting]], [[Content Rating Systems]], [[Digital Television]], [[Broadcasting License]]
+See Also: [[Television Studios]], [[KTN Broadcasting]], [[Film Production Companies]], [[News Broadcasting]], [[Content Rating Systems]], [[Digital Television]], [[Broadcasting License]]
 
 Sources:
 1. https://www.broadcast-engineers-association-kenya.org/

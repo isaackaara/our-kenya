@@ -38,7 +38,7 @@ While Somali is the dominant language of the Somali people, there is some lingui
 - [[Somali Poetry Tradition]]
 - [[Somali and Kenyan Citizenship]]
 - [[Somali Nomadic Education]]
-- [[Somali Culture and Identity]]
+- [[Somali]]
 
 ## Sources
 

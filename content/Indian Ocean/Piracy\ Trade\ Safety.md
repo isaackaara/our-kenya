@@ -22,7 +22,7 @@ The decline of Mediterranean piracy following European naval dominance reflected
 
 [[Naval Defense]]
 [[Merchant Vessel Armament]]
-[[Maritime Security]]
+[[Maritime Security Indian Ocean]]
 [[Trade Route Safety]]
 [[Merchant Networks]]
 

@@ -18,7 +18,7 @@ Educational curricula in Kenya gradually incorporated Swahili literature, creati
 - [[Oral Poetry Traditions]]
 - [[Literary Journals Publishing]]
 - [[Performance Poetry]]
-- [[Educational Literature Development]]
+- [[Literature]]
 - [[Postcolonial Literature Movement]]
 
 ## Sources

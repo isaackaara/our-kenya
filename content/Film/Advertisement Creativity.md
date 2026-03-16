@@ -8,7 +8,7 @@ Humor emerged as a distinctive creative approach in Kenyan advertising, with man
 
 The evaluation of advertising creativity developed increasingly sophisticated approaches as marketing sophistication increased. Advertising agencies conducted pre-testing of creative concepts with focus groups and quantitative research examining how audiences responded to proposed advertisements. Post-campaign analysis examined sales impact, brand awareness changes, and audience recall of advertising messages. These evaluation frameworks positioned advertising creativity as a measurable investment rather than artistic expression disconnected from business objectives. The professionalization of advertising creativity assessment created pressure for creative effectiveness alongside creative distinction.
 
-See Also: [[Advertising Commercial]], [[Television Advertising]], [[Marketing Communications]], [[Brand Advertising]], [[Television Studios]], [[Film Production Companies]], [[Sponsorship Deals]]
+See Also: [[Advertising Commercial]], [[Television Advertising]], [[Marketing Communications]], [[Advertising Art]], [[Television Studios]], [[Film Production Companies]], [[Sponsorship Deals]]
 
 Sources:
 1. https://www.advertising-association-kenya.org/

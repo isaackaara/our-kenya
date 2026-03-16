@@ -60,7 +60,7 @@ The cycle also contributed to Uhuru's later pivot toward Raila (the handshake), 
 - [[Jubilee Party]]
 - [[Independent Electoral and Boundaries Commission]]
 - [[Post-Election Violence (2007-2008)]]
-- [[Kenyan Constitution 2010]]
+- [[The Kenyan Constitution 2010]]
 - [[Uhuru Handshake]]
 
 ## Sources

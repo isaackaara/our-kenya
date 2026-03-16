@@ -14,7 +14,7 @@ School architecture in informal settlements presents distinctive challenges: ove
 
 ## See Also
 
-[[Residential Architecture]], [[Nairobi Built Environment]], [[School Infrastructure]], [[Modern Construction Techniques]], [[Urban Slums Growth]], [[Education]]
+[[Residential Architecture]], [[Nairobi Built Environment]], [[School Architecture Infrastructure]], [[Modern Construction Techniques]], [[Urban Slums Growth]], [[Education]]
 
 ## Sources
 

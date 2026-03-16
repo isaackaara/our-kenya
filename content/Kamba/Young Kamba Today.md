@@ -60,7 +60,7 @@ The future of Kamba identity and cultural traditions among young people remains 
 
 ---
 
-**See Also:** [[Kamba and Christianity]], [[Kamba Education]], [[Young Kenya]]
+**See Also:** [[Kamba and Christianity]], [[Kamba and Education]], [[Young Kenya]]
 
 ## See Also
 

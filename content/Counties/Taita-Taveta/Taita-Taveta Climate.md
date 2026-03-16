@@ -19,7 +19,7 @@ The distinct climatic zones of the county have historically shaped settlement pa
 - [[Taita Hills]]
 - [[Taita-Taveta Climate Change]]
 - [[Tsavo East National Park]]
-- [[Agriculture in Taita-Taveta]]
+- [[Taita-Taveta Agriculture]]
 - [[East Africa]]
 - [[Water Resources Kenya]]
 

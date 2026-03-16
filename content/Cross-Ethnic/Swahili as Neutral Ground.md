@@ -41,7 +41,7 @@ The tension remains unresolved.
 - [[Swahili as National Bond]]
 - [[Heritage Language Movements Kenya]]
 - [[English in Kenya]]
-- [[Decolonisation and Language]]
+- [[Luo Language]]
 - [[Linguistic Diversity and Unity]]
 - [[Colonial Language Policy]]
 

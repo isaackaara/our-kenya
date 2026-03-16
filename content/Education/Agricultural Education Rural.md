@@ -13,7 +13,7 @@ By the 1990s and 2000s, increased focus on rural entrepreneurship and livelihood
 ## See Also
 [[Technical Vocational Training]]
 [[8-4-4 System Implementation]]
-[[Rural Education Inequality]]
+[[Urban Rural Education Inequality]]
 [[Pastoralist Education]]
 [[Primary Curriculum Evolution]]
 

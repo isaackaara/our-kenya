@@ -20,7 +20,7 @@ The infrastructure development legacy is complicated by concerns about sustainab
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Kibaki Economic Record|Kibaki Economic Record]]
-- [[Kenya Infrastructure|Kenya Infrastructure]]
+- [[IT Infrastructure Kenya|Kenya Infrastructure]]
 - [[Kenya Water Management|Kenya Water Management]]
 - [[Kenya Transportation|Kenya Transportation]]
 

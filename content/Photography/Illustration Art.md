@@ -7,10 +7,10 @@ The relationship between illustration and fine art has remained contested, with 
 Contemporary Kenyan illustration practices serve diverse functions from children's book illustration to editorial illustration to artistic illustration exploring visual themes. Digital tools have expanded illustration possibilities and accessibility. Illustrators work across print and digital media developing work for varied applications. Illustration remains vital practice within Kenya's visual culture serving communication, commercial, educational, and artistic functions. The continued development of illustration reflects ongoing demands for visual communication and expressive possibilities of illustrative media.
 
 ## See Also
-- [[Children's Book Illustration]]
-- [[Editorial Illustration]]
-- [[Scientific Illustration]]
-- [[Commercial Illustration]]
+- [[Book Illustration]]
+- [[Illustration Art]]
+- [[Illustration Art]]
+- [[Illustration Art]]
 - [[Illustrator Practice and Style]]
 - [[Visual Storytelling]]
 - [[Artistic Drawing Practice]]

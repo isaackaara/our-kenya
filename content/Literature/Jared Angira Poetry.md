@@ -17,10 +17,10 @@ The poet's work addresses persistent themes of love, mortality, and social injus
 Angira's continuing presence in East African literary culture, maintained through continued recognition and reprinting, ensures that contemporary poets encounter his work as foundational achievement. The density and discipline of his verse, combined with emotional accessibility, creates poetry that rewards both scholarly attention and general readership.
 
 ## See Also
-[[Kenyan Poetry Traditions]]
+[[Kenyan Hip-Hop]]
 [[Postcolonial Literature Movement]]
 [[University of Nairobi Literary Culture]]
-[[English Language Poetry Africa]]
+[[Luo Language]]
 [[Love and Mortality Poetry]]
 [[Civil Service and Writing Kenya]]
 [[East African Literary Journals]]

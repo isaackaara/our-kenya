@@ -1,4 +1,4 @@
-Lake Nakuru National Park, located in the [[Rift Valley|Rift Valley]] approximately 160 kilometers from Nairobi, is Kenya's smallest national park by area but one of its most important for certain wildlife species. The park, established in 1968, centers on [[Lake Nakuru]], a shallow alkaline lake famous for its [[Flamingo Ecology Rift Valley]] populations and more recently established as a critical [[black rhino sanctuary|black rhino sanctuary]].
+Lake Nakuru National Park, located in the [[Rift Valley|Rift Valley]] approximately 160 kilometers from Nairobi, is Kenya's smallest national park by area but one of its most important for certain wildlife species. The park, established in 1968, centers on [[Lake Nakuru]], a shallow alkaline lake famous for its [[Flamingo Ecology Rift Valley]] populations and more recently established as a critical [[The Rhino Ark|black rhino sanctuary]].
 
 ## Lake Ecology and Flamingos
 
@@ -43,7 +43,7 @@ The park demonstrates conservation principles and challenges: intensive manageme
 ## See Also
 
 - [[Rhino Conservation Kenya]] - Black rhino recovery strategies
-- [[Lake ecology]] - Alkaline water systems
+- [[Homa Bay Lake Victoria Ecology]] - Alkaline water systems
 - [[Flamingo Ecology Rift Valley]] - Bird conservation
 - [[Water Stress and Climate Vulnerability]] - Lake ecosystem resilience
 - [[Human-Wildlife Conflict]] - Hippo management issues

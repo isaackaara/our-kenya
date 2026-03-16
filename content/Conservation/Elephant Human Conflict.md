@@ -1,4 +1,4 @@
-[[Human-Elephant_Conflict|Human-elephant conflict]] represents one of Kenya's most challenging [[Wildlife Conservation Problems|wildlife conservation problems]], where [[Elephant Crop Raiding|elephants raid crops]], destroy [[Infrastructure Damage|property]], and occasionally [[Human Mortality|kill people]], while humans hunt and kill elephants in retaliation. This conflict creates enormous tensions between [[Conservation|wildlife conservation]] and [[Community Livelihood Protection|community livelihood protection]], with [[Communities|communities]] bearing [[Disproportionate Costs|disproportionate costs]] of [[Conservation|elephant conservation]]. The [[Inequitable Distribution|inequitable distribution]] of costs and benefits drives opposition to conservation.
+[[Human-Elephant_Conflict|Human-elephant conflict]] represents one of Kenya's most challenging [[Conservation|wildlife conservation problems]], where [[Elephant Crop Raiding|elephants raid crops]], destroy [[Infrastructure Damage|property]], and occasionally [[Human Mortality|kill people]], while humans hunt and kill elephants in retaliation. This conflict creates enormous tensions between [[Conservation|wildlife conservation]] and [[Moi and the Luo Community|community livelihood protection]], with [[Communities|communities]] bearing [[Disproportionate Costs|disproportionate costs]] of [[Conservation|elephant conservation]]. The [[Inequitable Distribution|inequitable distribution]] of costs and benefits drives opposition to conservation.
 
 ## Scale and Frequency
 
@@ -76,7 +76,7 @@ Conservation organizations have increasingly focused on education and community 
 
 - [[Amboseli National Park]]
 - [[Compensation and Mitigation Programs]]
-- [[Community Engagement and Coexistence]]
+- [[Moi and the Luo Community]]
 - [[Elephant Population Management]]
 - [[Wildlife Corridors Kenya]]
 - [[Conservation Economics Kenya]]

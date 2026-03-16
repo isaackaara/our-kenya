@@ -9,7 +9,7 @@ Trauma recovery in poor communities faces multiple barriers. Mental health servi
 The relationship between collective trauma and poverty requires structural intervention. Post-conflict societies face mass trauma affecting multiple population members, creating community-wide healing needs. Displacement from disasters or conflict requires not only trauma treatment but also livelihood restoration and housing reconstruction. Truth and reconciliation processes, while addressing historical trauma, do not automatically restore economic circumstances. Reparations for past violence are limited in Kenya; trauma remains largely unaddressed at scale. Community healing approaches including ceremony, storytelling, and collective reflection have value but require professional support integration. Fundamental trauma recovery requires simultaneous mental health treatment, livelihood restoration, and social reconstruction.
 
 ## See Also
-[[Mental Health Poverty]], [[Violence and Poverty]], [[Sexual Violence]], [[Child Abuse]], [[Displacement]], [[Post-Conflict Recovery]], [[PTSD]], [[Community Resilience]]
+[[Mental Health Poverty]], [[Poverty]], [[2007-08 PEV Sexual Violence]], [[Child Abuse]], [[Displacement]], [[Post-Conflict Recovery]], [[PTSD]], [[Community Resilience]]
 
 ## Sources
 1. World Health Organization (2013). "Psychological First Aid in Kenya: Implementation Guidelines." https://www.who.int

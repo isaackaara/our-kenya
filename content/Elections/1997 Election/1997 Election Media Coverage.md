@@ -23,7 +23,7 @@ International observers documented these media disparities and included them in 
 - [[Independent media in Kenya]]
 - [[Media]]
 - [[Kenya]]
-- [[Journalism in Moi's Kenya]]
+- [[Art Journalism]]
 
 ## Sources
 

@@ -93,7 +93,7 @@ Their success has normative effects, encouraging other women to pursue business 
 - [[Somali Women Education]]
 - [[Somali Diaspora Connections Kenya]]
 - [[Somali Investment in Nairobi Real Estate]]
-- [[Eastleigh (Little Mogadishu)]]
+- [[Eastleigh Nairobi (Little Mogadishu)]]
 - [[Somali Political Representation Kenya]]
 
 ## Sources

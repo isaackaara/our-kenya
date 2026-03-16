@@ -1,4 +1,4 @@
-[[Flamingos]] dominate Kenya's [[Rift Valley]] soda lakes, with millions of birds concentrating in certain [[Lakes|lakes]] under favorable conditions. [[Flamingo Populations|Flamingo populations]] are highly responsive to [[Water Chemistry|lake water chemistry]] and [[Smallholder Farm Productivity|productivity]], creating [[Population Fluctuations|dramatic population fluctuations]]. The flamingos are iconic symbols of Kenya's [[Wildlife|wildlife]] and [[Major Tourism Attractions|major tourism attractions]], particularly at [[Lake Nakuru]] and [[Lake Bogoria]].
+[[Flamingos]] dominate Kenya's [[Rift Valley]] soda lakes, with millions of birds concentrating in certain [[Marsabit Crater Lakes|lakes]] under favorable conditions. [[Flamingo Populations|Flamingo populations]] are highly responsive to [[Water Chemistry|lake water chemistry]] and [[Smallholder Farm Productivity|productivity]], creating [[Population Fluctuations|dramatic population fluctuations]]. The flamingos are iconic symbols of Kenya's [[Wildlife|wildlife]] and [[Art Tourism|major tourism attractions]], particularly at [[Lake Nakuru]] and [[Lake Bogoria]].
 
 ## Lake Nakuru Flamingos
 
@@ -31,7 +31,7 @@ Changing rainfall patterns from climate change affect lake water levels and prod
 - [[Rift Valley Lakes]]
 - [[Climate Change and Wildlife]]
 - [[Algal Productivity]]
-- [[Tourism and Wildlife]]
+- [[Wildlife Tourism Revenue]]
 - [[Water Chemistry and Ecosystems]]
 
 ## Sources

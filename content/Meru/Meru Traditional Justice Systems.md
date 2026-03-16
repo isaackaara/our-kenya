@@ -1,6 +1,6 @@
 ## Overview
 
-The [[Meru people]] developed [[sophisticated justice systems]] based on [[community participation]], [[restoration]], and [[social order maintenance]]. These systems operated through [[councils of elders]], [[community assemblies]], and established procedures for resolving disputes. The justice systems reflected values of [[accountability]], [[compensation]], and [[community healing]].
+The [[Meru people]] developed [[sophisticated justice systems]] based on [[Moi and the Luo Community]], [[Monument Restoration]], and [[social order maintenance]]. These systems operated through [[councils of elders]], [[Moi and the Luo Community]], and established procedures for resolving disputes. The justice systems reflected values of [[Accountability and Justice]], [[compensation]], and [[Moi and the Luo Community]].
 
 ## The Elder Council (Njuri Ncheke) in Justice
 

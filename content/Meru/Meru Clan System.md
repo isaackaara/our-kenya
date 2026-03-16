@@ -8,7 +8,7 @@ The [[Meru people|Meru]] clan system, known as mugwe (plural: migwe), organizes 
 
 ## Clan Identity and Function
 
-Each mugwe represents a descent group claiming common ancestry. The term "mugwe" is used both for the clan itself and, historically, for the [[mugwe|sacred leader or ritual specialist]] who represented the clan spiritually.
+Each mugwe represents a descent group claiming common ancestry. The term "mugwe" is used both for the clan itself and, historically, for the [[The Mugwe|sacred leader or ritual specialist]] who represented the clan spiritually.
 
 **Exogamy Rule**: Marriage must occur between people from different clans. This rule prevents intra-clan marriages and creates networks of kinship and alliance across the entire Meru community.
 

@@ -11,8 +11,8 @@ School-to-work transitions for secondary completers showed mixed outcomes. Stude
 [[Education Refugee Camps]]
 [[University Access Refugees]]
 [[Dadaab Refugee Camp]]
-[[Teacher Training Programs]]
-[[Refugee Livelihood Programs]]
+[[Job Training Programs]]
+[[Livelihood Programs]]
 [[Educational Quality Standards]]
 
 ## Sources

@@ -5,7 +5,7 @@ Charles Rubia, a prominent Kikuyu politician, was detained for calling for multi
 - [[Charles Rubia]]
 - [[Daniel arap Moi]]
 - [[Kenya]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Kenya]]
 
 ## Sources

@@ -1,10 +1,10 @@
-Charity Waciuma emerged as one of Kenya's pioneering woman autobiographers, her work [[Daughter of Mumbi]] (1969) offering rare early testimony of a woman's experience during the [[Mau Mau Emergency]] and colonial transition. Born in 1936, Waciuma presents a distinctive literary and historical voice, narrating her coming-of-age in Kikuyu society during turbulent decades of colonial oppression and anticolonial struggle.
+Charity Waciuma emerged as one of Kenya's pioneering woman autobiographers, her work [[Daughter of Mumbi]] (1969) offering rare early testimony of a woman's experience during the [[Mau Mau Emergency Broadcasting]] and colonial transition. Born in 1936, Waciuma presents a distinctive literary and historical voice, narrating her coming-of-age in Kikuyu society during turbulent decades of colonial oppression and anticolonial struggle.
 
 [[Daughter of Mumbi]] unfolds as a bildungsroman tracing Waciuma's psychological and social development from childhood through young adulthood. The autobiography's title references the foundational Kikuyu mother Mumbi, anchoring Waciuma's personal narrative within collective Kikuyu history and mythology. Through this framing, Waciuma's individual story becomes instantiation of Kikuyu women's larger experiences during colonial crisis.
 
 The work centers on themes of cultural conflict and psychological strain as Waciuma navigates between traditional Kikuyu identities and the modernizing pressures of colonial education and her father's embrace of British colonial rule. Her father, represented as aligned with colonial authority, creates household tensions as he encourages English education and Christian conversion while Waciuma remains drawn to Kikuyu tradition, language, and cultural identity. This familial conflict materializes the larger postcolonial tension between tradition and modernity.
 
-Waciuma's narrative registers the violence of the [[Mau Mau Emergency]] not as abstract historical event but as lived reality disrupting family life, dividing communities, and creating terror within villages. The autobiography presents how emergency violence infiltrated intimate domestic spaces, forcing young people to navigate impossible choices between competing loyalties and identities. Her account offers rare testimony to women's experiences during the conflict, which colonial narratives typically centered on male combatants.
+Waciuma's narrative registers the violence of the [[Mau Mau Emergency Broadcasting]] not as abstract historical event but as lived reality disrupting family life, dividing communities, and creating terror within villages. The autobiography presents how emergency violence infiltrated intimate domestic spaces, forcing young people to navigate impossible choices between competing loyalties and identities. Her account offers rare testimony to women's experiences during the conflict, which colonial narratives typically centered on male combatants.
 
 The work's literary significance lies partly in its early articulation of women's perspectives on decolonization and national transformation. Rather than treating women as background figures in nationalist struggle, Waciuma centers female consciousness and subjectivity, asserting that women's psychological experiences and intellectual responses to colonialism deserved serious attention. Her autobiography contributed to establishing women's voices as central to how Kenya's postcolonial literature addressed its own history.
 
@@ -18,12 +18,12 @@ The autobiography's circulation in scholarly and pedagogical contexts ensured th
 
 ## See Also
 [[Mau Mau Emergency Narratives]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Postcolonial Literature Movement]]
 [[Autobiography and History Kenya]]
-[[Kikuyu Culture and Literature]]
+[[Kikuyu]]
 [[Colonial Education Kenya]]
-[[Gender and Nationalism Africa]]
+[[Gender Pay Gap]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Charity_Waciuma - Biographical overview and literary significance

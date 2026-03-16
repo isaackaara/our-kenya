@@ -9,7 +9,7 @@ The most contentious regulatory moments emerge when authorities implement major 
 The evolution of regulation has included some recognition of trader rights and livelihood validity. Some cities have designated vending zones and implemented transparent licensing procedures, reducing informal payments. Community negotiation between traders and authorities has sometimes produced acceptable regulations. International organizations including the ILO have promoted trader-rights approaches emphasizing dialogue and negotiation rather than enforcement. However, systematic trader legalization remains limited. The poorest traders lack resources for licensing; regulations remain unaffordable. Fundamental shift would require municipal authorities to view street traders as legitimate economic actors deserving service and regulation respect, rather than squatters to be removed.
 
 ## See Also
-[[Hawking Vending]], [[Informal Sector]], [[Market Stalls]], [[Small Retail Trade]], [[Urban Governance]], [[Poverty Measurement]], [[Labour Rights]], [[Informal Economy]]
+[[Hawking Vending]], [[Informal Sector]], [[Market Stalls]], [[Small Retail Trade]], [[Urban Governance]], [[Poverty Measurement]], [[Labour]], [[Informal Economy]]
 
 ## Sources
 1. International Labour Organization (2015). "Street Vendors and Informal Trade Regulation in Kenya." https://www.ilo.org

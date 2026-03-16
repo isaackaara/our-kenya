@@ -10,7 +10,7 @@ Solar hot water heating systems reduced household energy consumption and operati
 
 ## See Also
 
-[[Renewable Energy Tech]], [[Energy Access]], [[Climate Change Response]], [[Technology Policy Kenya]], [[Smart Grid Technology]], [[Entrepreneurship Kenya]]
+[[Renewable Energy Tech]], [[Energy Access]], [[Climate Change Response]], [[Technology]], [[Smart Grid Technology]], [[Entrepreneurship Kenya]]
 
 ## Sources
 

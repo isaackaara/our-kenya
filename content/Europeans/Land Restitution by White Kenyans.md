@@ -1,4 +1,4 @@
-While land restitution to dispossessed communities has been limited and incomplete in Kenya, a small number of [[White Farmers Today|European settler families]] and [[conservation]] organizations have voluntarily engaged in land return, ownership restructuring, or [[community partnership]] arrangements. These cases offer partial models of alternative pathways beyond simple maintenance of inherited [[settler]] property claims, though they also reveal the limitations of voluntary restitution as a response to systemic historical injustice.
+While land restitution to dispossessed communities has been limited and incomplete in Kenya, a small number of [[White Farmers Today|European settler families]] and [[conservation]] organizations have voluntarily engaged in land return, ownership restructuring, or [[Moi and the Luo Community]] arrangements. These cases offer partial models of alternative pathways beyond simple maintenance of inherited [[settler]] property claims, though they also reveal the limitations of voluntary restitution as a response to systemic historical injustice.
 
 ## The Lewa Wildlife Conservancy Model
 
@@ -68,7 +68,7 @@ Land reform activism by dispossessed communities and progressive Kenyans has per
 - [[The White Highlands]]
 - [[Land Tenure Reform and Europeans]]
 - [[Settler Families Across Generations]]
-- [[Lewa Conservancy]] (conservation partnership model)
+- [[Lewa Wildlife Conservancy]] (conservation partnership model)
 - [[Land in the Rift Valley]]
 
 ## Sources

@@ -70,7 +70,7 @@ Health responses in NFD have been supported by international NGOs (Médecins San
 
 The Kenyan government has implemented county health department strengthening, but under-resourced county budgets (despite devolution) have constrained progress. Some targeted programs (immunization, malaria control, tuberculosis) have shown improvements, but comprehensive health system strengthening remains incomplete.
 
-Health challenges in [[Somali-majority NFD|Somali-majority NFD counties]] represent a profound equity issue. These counties have experienced historical marginalization, infrastructure underinvestment, and ongoing insecurity that together produce health outcomes substantially worse than national averages. Addressing these challenges requires substantial investment in healthcare infrastructure, human resources, and integrated development addressing poverty, [[Water Scarcity Northern Kenya|food security, and water access]].
+Health challenges in [[Somali|Somali-majority NFD counties]] represent a profound equity issue. These counties have experienced historical marginalization, infrastructure underinvestment, and ongoing insecurity that together produce health outcomes substantially worse than national averages. Addressing these challenges requires substantial investment in healthcare infrastructure, human resources, and integrated development addressing poverty, [[Water Scarcity Northern Kenya|food security, and water access]].
 
 ## See Also
 

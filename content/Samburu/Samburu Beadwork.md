@@ -36,10 +36,10 @@ Despite modernization pressures, younger Samburu women continue beadwork traditi
 
 - [[Samburu Women]]
 - [[Samburu Dress and Adornment]]
-- [[Samburu Culture]]
+- [[Samburu Cattle Culture]]
 - [[Samburu Social Structure]]
-- [[Gender Roles in Samburu Society]]
-- [[Traditional Arts and Crafts]]
+- [[Gender Pay Gap]]
+- [[Traditional Crafts]]
 
 ## Intergenerational Transmission
 

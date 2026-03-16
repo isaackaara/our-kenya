@@ -4,7 +4,7 @@ Kenyan novels addressing the Mau Mau Emergency emerged as central to postcolonia
 
 The narrative structures of Mau Mau novels often fragmented chronology and perspective, mirroring the fragmented nature of colonial violence and its lasting psychological impacts. Non-linear narratives, multiple viewpoints, and unreliable narration allowed novelists to convey the confusion and trauma of emergency violence while challenging readers to construct meaning from fragmented accounts. These formal innovations demonstrated literature's capacity to register historical complexity.
 
-Women's perspectives on Mau Mau emerged through novels including [[Charity Waciuma]]'s [[Daughter of Mumbi]] (1969), centering female experiences of emergency violence typically marginalized in historical accounts. Women's novels addressed gendered violence, family fragmentation, and the specific costs that women bore during conflict. These narratives demonstrated how historical events affected women and men differently.
+Women's perspectives on Mau Mau emerged through novels including [[Charity Waciuma Autobiography]]'s [[Daughter of Mumbi]] (1969), centering female experiences of emergency violence typically marginalized in historical accounts. Women's novels addressed gendered violence, family fragmentation, and the specific costs that women bore during conflict. These narratives demonstrated how historical events affected women and men differently.
 
 Mau Mau novels addressed the violence committed by both colonial authorities and freedom fighters, refusing to present the conflict as simple moral binary. Novelists explored how colonial violence had preceded and prompted anticolonial violence, while simultaneously registering the human costs of armed struggle. This analytical sophistication meant Mau Mau novels engaged serious ethical questions rather than providing simple celebratory narratives.
 
@@ -25,9 +25,9 @@ Contemporary Mau Mau novels continue engaging the Emergency as historical event,
 [[Charity Waciuma Autobiography]]
 [[Postcolonial Literature Movement]]
 [[Ngugi wa Thiong'o Literature]]
-[[Women Writers Kenya]]
-[[Trauma and Literature]]
-[[Historical Fiction Kenya]]
+[[Women Writers Authors Kenya]]
+[[Literature]]
+[[Historical Fiction]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Ng%C5%A9g%C4%A9_wa_Thiong'o - A Grain of Wheat and Mau Mau narratives

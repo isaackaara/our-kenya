@@ -14,10 +14,10 @@ Water supply systems developed during colonialism required substantial ongoing m
 
 ## See Also
 
-[[Colonial Infrastructure Development]]
+[[Moi Infrastructure Development]]
 [[Colonial Urban Planning]]
 [[Colonial Irrigation Schemes]]
-[[Environmental Degradation Colonial]]
+[[Environmental Art]]
 [[Drought Management]]
 [[Water Rights Management]]
 

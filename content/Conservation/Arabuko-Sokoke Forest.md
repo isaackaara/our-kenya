@@ -40,7 +40,7 @@ The forest's proximity to the coast makes it potentially vulnerable to sea-level
 
 - [[Coastal Ecosystems Kenya]]
 - [[Endemic Species and Endemism]]
-- [[Bird Conservation Areas]]
+- [[Conservation]]
 - [[Forest Protection and Illegal Logging]]
 - [[Human Communities and Forest Use]]
 - [[Conservation NGOs Kenya]]

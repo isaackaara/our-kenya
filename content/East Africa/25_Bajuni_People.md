@@ -32,7 +32,7 @@ The Bajuni speak Bajuni, a Swahili dialect with distinctive features:
 
 The [[Bajuni People]] have a long history as maritime traders and fishermen:
 
-**Trade Networks**: Historically, [[Bajuni People]] merchants participated in Indian Ocean trade networks, trading with [[Arab Slave Trade]] partners, Persian, Indian, and Asian traders.
+**Trade Networks**: Historically, [[Bajuni People]] merchants participated in Indian Ocean trade networks, trading with [[26_Arab_Slave_Trade]] partners, Persian, Indian, and Asian traders.
 
 **Dhow Sailing**: The [[Bajuni People]] are renowned for traditional dhow sailing and maritime expertise. Dhow building and sailing remain culturally significant despite modernization.
 
@@ -102,7 +102,7 @@ Contemporary trends affecting Bajuni:
 - [[Kenya]]
 - [[Somali]]
 - [[Mombasa Port]]
-- [[Indian Ocean Heritage]]
+- [[19_Indian_Ocean_Heritage]]
 - [[Zanzibar]]
 - [[East Africa Timeline]]
 

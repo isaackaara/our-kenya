@@ -18,7 +18,7 @@ The 2000s and 2010s saw continued advocacy for mental health as a human rights i
 - [[Healthcare Policy Evolution]]
 - [[Hospital Infrastructure Standards]]
 - [[Patient Rights Protection]]
-- [[Colonial Kenya Healthcare]]
+- [[Colonial Kenya]]
 
 ## Sources
 1. Kiima, David and Jenkins, Rachel. "Mental health policy in East Africa: Context, situation analysis and advocacy for change." African Journal of Psychiatry 13.4 (2010): 262-276.

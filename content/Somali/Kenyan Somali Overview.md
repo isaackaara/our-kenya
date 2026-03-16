@@ -31,7 +31,7 @@ The Kenyan Somali story is inseparable from broader forces: British colonial adm
 - [[Somali Clan System Kenya]]
 - [[Islam in Northern Kenya]]
 - [[Kenyan Somali Identity]]
-- [[Wagalla Massacre 1984]]
+- [[The Wagalla Massacre 1984]]
 - [[Dadaab Refugee Complex]]
 - [[Al-Shabaab in Kenya]]
 

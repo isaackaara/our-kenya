@@ -4,7 +4,7 @@ Karisa Maitha was a prominent Giriama politician who served as a Member of Parli
 
 Karisa Maitha served as MP representing a [[coastal]] constituency during multiple parliamentary terms. He held ministerial positions in the Kibaki government (2003-2013), giving him access to national decision-making and resources. Maitha's ministerial tenure placed him among the few Mjikenda individuals to occupy such high political office.
 
-As a minister, Maitha had opportunities to advocate for coastal issues at national level and to influence policy and resource allocation. However, ministerial positions held by individual coastal politicians have had limited impact on coastal development and on addressing core coastal grievances regarding [[land rights]] and resource control.
+As a minister, Maitha had opportunities to advocate for coastal issues at national level and to influence policy and resource allocation. However, ministerial positions held by individual coastal politicians have had limited impact on coastal development and on addressing core coastal grievances regarding [[Land Rights Campaigns]] and resource control.
 
 ## Representation of Giriama Interests
 

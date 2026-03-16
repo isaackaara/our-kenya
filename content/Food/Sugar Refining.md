@@ -22,9 +22,9 @@ Environmental impacts of sugar processing included water consumption in processi
 [[Food Processing Industry]]
 [[Smallholder Agriculture]]
 [[Cash Crops Development]]
-[[Industrial Development Kenya]]
-[[Export Economy Kenya]]
-[[Environmental Resource Management]]
+[[Development Aid]]
+[[The NGO Economy]]
+[[Environmental Art]]
 
 ## Sources
 

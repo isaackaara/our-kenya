@@ -22,7 +22,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Mombasa Port History]]
 - [[Transport Infrastructure Kenya]]
 - [[Kenya Economic Overview]]
-- [[Trade and Commerce]]
+- [[Trade Commerce Control]]
 
 ## Sources
 

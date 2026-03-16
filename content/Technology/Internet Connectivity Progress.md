@@ -10,7 +10,7 @@ Affordability remained a persistent challenge despite connectivity expansion. Da
 
 ## See Also
 
-[[Mobile Internet Growth]], [[Fiber Optic Infrastructure]], [[Digital Divide Issues]], [[E-Commerce Platforms Kenya]], [[Education Technology]], [[Infrastructure Development]]
+[[Mobile Internet Growth]], [[Fiber Optic Infrastructure]], [[Digital Divide Issues]], [[E-Commerce Platforms Kenya]], [[Education Technology Computers]], [[Infrastructure Development]]
 
 ## Sources
 

@@ -101,7 +101,7 @@ These youth are sometimes bridges between traditional elder authority (their par
 ## See Also
 
 - [[Dadaab Refugee Complex]]
-- [[Somali State Collapse Effects on Kenya]]
+- [[Somali]]
 - [[Nairobi Somali Community]]
 - [[Kenyan Somali Identity]]
 - [[Second Generation Somali Nairobi]]

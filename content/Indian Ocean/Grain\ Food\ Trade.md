@@ -1,10 +1,10 @@
-The [[Grain Food Trade]] moved agricultural products across Indian Ocean networks, supplying port cities with food required to support large urban populations. Unlike luxury commodities like spices and gold, grain commerce served basic subsistence needs while creating the economic foundation for maritime cities. The grain trade integrated coastal urban centers with agricultural hinterlands, creating economic dependence that influenced political relationships and settlement patterns.
+The [[Food]] moved agricultural products across Indian Ocean networks, supplying port cities with food required to support large urban populations. Unlike luxury commodities like spices and gold, grain commerce served basic subsistence needs while creating the economic foundation for maritime cities. The grain trade integrated coastal urban centers with agricultural hinterlands, creating economic dependence that influenced political relationships and settlement patterns.
 
 The primary grain sources supplying Indian Ocean markets included rice from river valleys and low-lying regions, wheat from highland areas, and millet and other cereals from diverse regions. The variation in agricultural production across different ecological zones created natural trade networks where regions with grain surplus would export to regions dependent on grain imports. The grain trade thus reflected fundamental geographic differences in agricultural productivity and population distribution.
 
 The storage and preservation of grain created particular challenges. Moisture infiltration, insect infestation, and rodent damage could destroy grain stores during long-distance transport. The development of storage facilities in port cities provided buffering that allowed separation of supply timing from consumption timing. A port city could accumulate grain supplies during harvest season and distribute grain throughout the year as local markets demanded. The management of grain stores thus created important economic functions that generated employment and contributed to urban economic development.
 
-The integration of [[Grain Food Trade]] into broader merchant networks meant that grain merchants handled multiple commodities simultaneously. A merchant might transport grain on one route while carrying higher-value spices on another. The flexibility of cargo mix allowed merchants to optimize use of available shipping capacity and reduce risk through diversification. The grain trade provided volume that sustained merchant operations even when luxuries proved unprofitable.
+The integration of [[Food]] into broader merchant networks meant that grain merchants handled multiple commodities simultaneously. A merchant might transport grain on one route while carrying higher-value spices on another. The flexibility of cargo mix allowed merchants to optimize use of available shipping capacity and reduce risk through diversification. The grain trade provided volume that sustained merchant operations even when luxuries proved unprofitable.
 
 The political importance of grain control reflected the dependence of urban populations on grain imports. Rulers controlling grain supplies could exercise significant political power through control of food resources. The merchant communities controlling grain trade thus exercised political influence beyond their direct economic importance. The ability to disrupt grain supplies created leverage that grain merchants could exercise in political negotiations with rulers.
 
@@ -20,8 +20,8 @@ The persistence of grain trade networks throughout the colonial period and beyon
 
 ## See Also
 
-[[Food Trade Networks]]
-[[Urban Food Security]]
+[[Food]]
+[[Food]]
 [[Agricultural Trade]]
 [[Merchant Networks]]
 [[Trade Routes Networks]]

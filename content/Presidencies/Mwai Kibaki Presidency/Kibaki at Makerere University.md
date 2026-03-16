@@ -10,12 +10,12 @@ The intellectual formation Kibaki received at Makerere was crucial in shaping hi
 
 ## See Also
 
-[[Makerere University History]]
+[[Moi University]]
 [[East African Intellectual Networks]]
 [[Economics Education in Colonial Africa]]
-[[Pan-Africanism and the University]]
+[[Moi University]]
 [[Post-War Economic Theory]]
-[[Kibaki Intellectual Formation]]
+[[Kibaki and the ICC]]
 
 ## Sources
 

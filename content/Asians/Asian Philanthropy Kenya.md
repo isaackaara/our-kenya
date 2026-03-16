@@ -1,4 +1,4 @@
-[[Asian Kenyans|Asian]] philanthropic contributions to [[Kenya]] have been substantial, though sometimes underrecognized. [[Manu Chandaria]]'s [[Chandaria Foundation]], the [[Aga Khan Development Network]], and other [[Asian Kenyans|Asian]]-led philanthropic organizations have invested in [[education]], [[Health]], and community development. These philanthropic contributions serve both to address social needs and to enhance the image and social standing of [[Asian Kenyans|Asian]] entrepreneurs within [[Kenya]].
+[[Asian Kenyans|Asian]] philanthropic contributions to [[Kenya]] have been substantial, though sometimes underrecognized. [[Manu Chandaria]]'s [[Chandaria Foundation]], the [[Development Aid]], and other [[Asian Kenyans|Asian]]-led philanthropic organizations have invested in [[education]], [[Health]], and community development. These philanthropic contributions serve both to address social needs and to enhance the image and social standing of [[Asian Kenyans|Asian]] entrepreneurs within [[Kenya]].
 
 ## The Chandaria Foundation and Manu Chandaria
 
@@ -66,7 +66,7 @@ Asian philanthropic initiatives have generated positive community responses when
 - [[Asian Kenyans Today]]
 - [[Asian Community Schools Today]]
 - [[Manu Chandaria]]
-- [[Corporate social responsibility Kenya]]
+- [[Corporate Kenya]]
 
 ## Sources
 

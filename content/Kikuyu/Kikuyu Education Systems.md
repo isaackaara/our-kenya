@@ -103,7 +103,7 @@ However, challenges persist:
 - [[Gikuyu Language]]
 - [[Kikuyu Central Association]]
 - [[Mau Mau Uprising]]
-- [[Post-Independence Kenya]]
+- [[Luhya in Post-Independence Kenya]]
 
 ## Sources
 

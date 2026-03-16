@@ -50,7 +50,7 @@ Younger [[Samburu]] women pursue education and employment, sometimes departing f
 - [[Samburu Beadwork]]
 - [[Samburu Early Marriage]]
 - [[Samburu Health]]
-- [[Gender Roles in Pastoralist Societies]]
+- [[Gender Pay Gap]]
 
 ## Sources
 

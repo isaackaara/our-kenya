@@ -9,7 +9,7 @@ The practice raises questions about artistic freedom, property rights, and urban
 ## See Also
 [[Street Art Murals]]
 [[Public Art]]
-[[Youth Culture]]
+[[Youth Culture Kenya]]
 [[Street Photography]]
 [[Urban Planning Development]]
 [[Contemporary Art Galleries]]

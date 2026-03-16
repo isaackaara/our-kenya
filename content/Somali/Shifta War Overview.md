@@ -67,7 +67,7 @@ Kenya's later military intervention in Somalia (Operation Linda Nchi, 2011) took
 - [[Shifta War Atrocities]]
 - [[Northern Frontier District]]
 - [[Kenyan Somali at Independence]]
-- [[Wagalla Massacre 1984]]
+- [[The Wagalla Massacre 1984]]
 - [[Kenyan Somali and Security State]]
 - [[Post-Shifta Reconciliation]]
 - [[Somalia State Collapse Effects on Kenya]]

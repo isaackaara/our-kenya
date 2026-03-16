@@ -10,9 +10,9 @@ Despite these problems, the CDF represented an attempt to involve elected repres
 
 ## See Also
 
-[[Decentralisation and Development Kenya]]
-[[Constituency Politics Kenya]]
-[[Public Finance Management Kenya]]
+[[Development Aid]]
+[[Gem Constituency]]
+[[Public Art]]
 [[Corruption in Development Projects]]
 [[Local Government Kenya]]
 [[Parliamentary Representation and Development]]

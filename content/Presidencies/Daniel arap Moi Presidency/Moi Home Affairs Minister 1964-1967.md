@@ -20,7 +20,7 @@ By 1967, when Moi relinquished the Home Affairs Ministry to become Vice Presiden
 [[Moi Detention Policy]]
 [[Moi Rise to Power]]
 [[Nyayo House Torture Chambers]]
-[[Moi and Internal Security]]
+[[Internal Security Operations]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

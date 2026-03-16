@@ -46,7 +46,7 @@ Formal occasions (weddings, ceremonies, celebrations) typically feature traditio
 - [[The Moran (Warriors)]]
 - [[Samburu Women]]
 - [[Samburu Social Structure]]
-- [[Samburu Culture]]
+- [[Samburu Cattle Culture]]
 - [[African Clothing Traditions]]
 
 ## Sources

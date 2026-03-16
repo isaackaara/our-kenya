@@ -24,11 +24,11 @@ Within a single household, the shift was generational and rapid. Grandparents sp
 
 The pattern that emerged was stark. The first-generation urban child (born late 1960s or early 1970s) typically understood their mother tongue when grandparents or rural relatives spoke it but could not respond comfortably. They were passive speakers, able to comprehend but not to produce. Their own children (born late 1980s onward) often could not understand the language at all, except for a handful of words and phrases.
 
-By the 1990s, entire cohorts of [[urban-born Kenyans]] could not speak their [[ethnic language]] with any confidence. Some could not speak it at all. This was true across every major ethnic group that produced an urban middle class: [[Kikuyu]], [[Luo]], [[Luhya]], [[Kamba]], [[Kalenjin]]. The [[urban schooling system]], inherited from colonialism and deliberately perpetuated by African parents seeking advantage for their children, had accomplished in thirty years what might have taken longer through more indirect means.
+By the 1990s, entire cohorts of [[urban-born Kenyans]] could not speak their [[Luo Language]] with any confidence. Some could not speak it at all. This was true across every major ethnic group that produced an urban middle class: [[Kikuyu]], [[Luo]], [[Luhya]], [[Kamba]], [[Kalenjin]]. The [[urban schooling system]], inherited from colonialism and deliberately perpetuated by African parents seeking advantage for their children, had accomplished in thirty years what might have taken longer through more indirect means.
 
 ## The Evidence
 
-Scholars documenting this phenomenon have identified it as [[language shift]], a sociolinguistic process where entire speech communities abandon one language in favor of another within a single or two generations. The causes are structural: when the dominant language (English) carries social capital and the minority language (the mother tongue) does not, speakers rationally choose the dominant language for their children. When coupled with the schooling system's English-only policies and the urban environment's linguistic diversity (which makes monolingual vernacular speech impossible anyway), the shift becomes nearly inevitable.
+Scholars documenting this phenomenon have identified it as [[Luo Language]], a sociolinguistic process where entire speech communities abandon one language in favor of another within a single or two generations. The causes are structural: when the dominant language (English) carries social capital and the minority language (the mother tongue) does not, speakers rationally choose the dominant language for their children. When coupled with the schooling system's English-only policies and the urban environment's linguistic diversity (which makes monolingual vernacular speech impossible anyway), the shift becomes nearly inevitable.
 
 The loss is not equally distributed. Rural Kenyans who remained in their home areas continued speaking their mother tongues fluently. But the urban Kenyan child of the professional class, particularly in Nairobi, grew up between two languages and fully native to neither. [[English]] was their first language, [[Swahili]] their street language, and the mother tongue a heritage they understood theoretically but could not practice.
 
@@ -39,7 +39,7 @@ The loss is not equally distributed. Rural Kenyans who remained in their home ar
 - [[Heritage Language Movements Kenya]]
 - [[English in Kenya]]
 - [[Sheng]]
-- [[Language and Belonging]]
+- [[Luo Language]]
 
 ## Sources
 

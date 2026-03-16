@@ -129,7 +129,7 @@ Food is connected to regional identity:
 - [[Maasai]]
 - [[Luo Language]]
 - [[Swahili]]
-- [[Indian Ocean Heritage]]
+- [[19_Indian_Ocean_Heritage]]
 - [[East Africa]]
 - [[East African Music Charts 1990s]]
 - [[East Africa Timeline]]

@@ -79,7 +79,7 @@ Cheetah populations in Kenya appear relatively stable compared to more endangere
 - [[Maasai Mara National Reserve]]
 - [[Tsavo National Park]]
 - [[Human-Cheetah Conflict]]
-- [[Wildlife Tourism Value]]
+- [[Art Tourism]]
 - [[Habitat Fragmentation]]
 
 ## Sources

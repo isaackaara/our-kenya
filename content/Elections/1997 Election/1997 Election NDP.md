@@ -21,7 +21,7 @@ The NDP thus represents a transitional moment in Kenyan opposition politics: the
 - [[National Rainbow Coalition (NARC)]]
 - [[2002 Election Raila Odinga]]
 - [[Luo]]
-- [[Opposition parties in Kenya]]
+- [[Moi and the Opposition]]
 
 ## Sources
 

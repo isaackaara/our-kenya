@@ -51,7 +51,7 @@ Lake Victoria's transformation represents a cautionary example for invasive spec
 
 - [[Kenya and CITES]] - International species protection agreements
 - [[Illegal Wildlife Trade]] - Species exploitation impacts
-- [[Lake ecology]] - Freshwater ecosystem conservation
+- [[Homa Bay Lake Victoria Ecology]] - Freshwater ecosystem conservation
 - [[Invasive species management]] - Prevention and control strategies
 - [[Conservation Economics Kenya]] - Economic development tradeoffs
 - [[Kenya Wildlife Service]] - National conservation management

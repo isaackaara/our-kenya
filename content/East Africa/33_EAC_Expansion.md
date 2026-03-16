@@ -12,7 +12,7 @@ The [[East African Community]]'s membership has grown dramatically:
 
 **Rwanda and Burundi (2007)**: Both nations joined the [[East African Community]], doubling its membership.
 
-**South Sudan (2016)**: The newly independent nation became an [[East African Community]] member despite [[South Sudan Kenya]] conflicts.
+**South Sudan (2016)**: The newly independent nation became an [[East African Community]] member despite [[38_South_Sudan_Kenya]] conflicts.
 
 **Democratic Republic of Congo (2022)**: The DRC, Africa's second-largest nation by population, joined the [[East African Community]], dramatically expanding its geographic and economic scope.
 
@@ -95,11 +95,11 @@ Despite challenges, expansion offers potential benefits:
 ## See Also
 
 - [[EAC History]]
-- [[EAC Common Market]]
-- [[EAC Political Federation]]
+- [[5_EAC_Common_Market]]
+- [[6_EAC_Political_Federation]]
 - [[Somalia]]
-- [[Rwanda Kenya]]
-- [[South Sudan Kenya]]
+- [[39_Rwanda_Kenya]]
+- [[38_South_Sudan_Kenya]]
 - [[East Africa Timeline]]
 
 ## Sources

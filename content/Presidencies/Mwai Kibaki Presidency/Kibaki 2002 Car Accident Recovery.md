@@ -14,7 +14,7 @@ The accident and Kibaki's response to it became part of his political mythology,
 [[Kibaki Health Issues and Governance]]
 [[NARC Coalition Formation]]
 [[Moi Authoritarian Rule End]]
-[[Kibaki Personal Resilience]]
+[[Kibaki and the ICC]]
 
 ## Sources
 

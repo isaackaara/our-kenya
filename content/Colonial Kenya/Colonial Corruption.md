@@ -10,7 +10,7 @@ The [[Colonial Nepotism|nepotism]] endemic to colonial administration overlapped
 
 Misappropriation of colonial revenues represented another significant corruption category. Tax revenues, collected from African populations and trading enterprises, were diverted into private accounts through falsified records and unreported expenditures. Auditing mechanisms, weak and understaffed, failed to detect systematic embezzlement. Some district commissioners were later discovered to have accumulated substantial personal fortunes during their tenure, wealth unexplained by official salaries.
 
-The [[Colonial Monopolies|monopoly systems]] controlling key trade goods created rents that attracted systematic corruption. Officials controlling import licenses, currency exchange, and grain distribution extracted personal compensation from merchants seeking access. These corrupt arrangements inflated prices for African consumers while generating private income for officials.
+The [[Colonial Export Monopolies|monopoly systems]] controlling key trade goods created rents that attracted systematic corruption. Officials controlling import licenses, currency exchange, and grain distribution extracted personal compensation from merchants seeking access. These corrupt arrangements inflated prices for African consumers while generating private income for officials.
 
 Corruption also operated at the intersection of the colonial state and settler enterprise. Large landowners provided loans to colonial officials in exchange for administrative decisions favoring their interests. This blurred the boundary between legitimate influence and corrupt exchanges, creating systems of mutual obligation that subordinated administrative integrity to settler interests.
 

@@ -10,7 +10,7 @@ Equity considerations addressed gender imbalances in computer science. Low femal
 
 ## See Also
 
-[[Tech Education Programs]], [[STEM Education Initiatives]], [[University Research Programs]], [[Software Development Companies]], [[Technology Innovation]], [[Education Policy Kenya]]
+[[Tech Education Programs]], [[STEM Education Initiatives]], [[Moi University]], [[Software Development Companies]], [[Health Technology Innovation]], [[Education Policy Kenya]]
 
 ## Sources
 

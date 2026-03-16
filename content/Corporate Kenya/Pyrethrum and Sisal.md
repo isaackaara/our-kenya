@@ -22,7 +22,7 @@ Both crops left legacies in their production regions. Rift Valley communities gr
 
 ## See Also
 
-- [[Agricultural History Kenya]]
+- [[Kenya Agricultural History]]
 - [[Colonial Economy]]
 - [[Export Crops Kenya]]
 - [[Regional Economic Development Kenya]]

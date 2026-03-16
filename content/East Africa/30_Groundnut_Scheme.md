@@ -2,7 +2,7 @@
 title: Groundnut Scheme
 ---
 
-After World War II, Britain attempted a massive agricultural development scheme in Tanganyika (now Tanzania) to grow groundnuts (peanuts) on an industrial scale. The [[Groundnut Scheme]] became one of the most infamous colonial development failures and serves as a cautionary tale about top-down development hubris.
+After World War II, Britain attempted a massive agricultural development scheme in Tanganyika (now Tanzania) to grow groundnuts (peanuts) on an industrial scale. The [[30_Groundnut_Scheme]] became one of the most infamous colonial development failures and serves as a cautionary tale about top-down development hubris.
 
 ## The Scheme's Origins
 
@@ -22,7 +22,7 @@ The scheme was extraordinarily ambitious:
 
 **Capital Investment**: Enormous capital was invested in equipment, infrastructure, and administration, representing a substantial portion of Britain's post-war capital.
 
-**Organizational Scale**: The [[Groundnut Scheme]] represented one of the largest coordinated agricultural development efforts of its time.
+**Organizational Scale**: The [[30_Groundnut_Scheme]] represented one of the largest coordinated agricultural development efforts of its time.
 
 **Timeline**: The scheme operated from 1947 until its abandonment in 1951, a five-year period.
 
@@ -64,13 +64,13 @@ The scheme had lasting consequences for Tanganyika:
 
 **Colonial Resentment**: The failure of an expensive British scheme implemented without local input created resentment against British colonial rule, contributing to independence movements.
 
-**Post-Colonial Policy**: Tanganyika's post-independence government was skeptical of large-scale development schemes, partly due to the [[Groundnut Scheme]] experience.
+**Post-Colonial Policy**: Tanganyika's post-independence government was skeptical of large-scale development schemes, partly due to the [[30_Groundnut_Scheme]] experience.
 
 ## Historical Significance
 
 The scheme has become a famous case study in development failure:
 
-**Development Studies**: The [[Groundnut Scheme]] is taught in development studies and economics courses as an example of how not to undertake development projects.
+**Development Studies**: The [[30_Groundnut_Scheme]] is taught in development studies and economics courses as an example of how not to undertake development projects.
 
 **Lessons Learned**: The scheme illustrates the dangers of:
 

@@ -20,7 +20,7 @@ The experience of the 1974 election provided a baseline against which subsequent
 
 ## See Also
 - [[1974 Election]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[1979 Election]]
 - [[1983 Election]]
 - [[Kenya]]

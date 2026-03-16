@@ -17,7 +17,7 @@ The confining function of reserves emerged clearly during periods of nationalist
 [[Land Alienation]]
 [[Settler Farming System]]
 [[Game Reserve Establishment]]
-[[Colonial Environmental Degradation]]
+[[Environmental Art]]
 [[District Commissioner Role]]
 [[Indirect Rule System]]
 

@@ -17,12 +17,12 @@ The horticultural sector's integration into global supply chains made it vulnera
 ## See Also
 
 [[Crop Farming Evolution]]
-[[Export Economy Kenya]]
+[[The NGO Economy]]
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
 [[Land Distribution Kenya]]
 [[International Trade Policy]]
-[[Environmental Resource Management]]
+[[Environmental Art]]
 
 ## Sources
 

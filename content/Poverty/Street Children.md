@@ -9,7 +9,7 @@ Health outcomes for street children are severely compromised. Malnutrition and s
 Interventions targeting street children have expanded since the 1990s, with various NGOs operating rescue, rehabilitation, and reintegration programs. [[Street Children Rescue|Street outreach programs]] employ social workers conducting peer education, health service linkages, and counseling; [[Children's Shelters|shelter facilities]] provide transitional housing, nutrition, and basic services; educational programs offer non-formal learning pathways when formal school reentry is infeasible; livelihood training aims to create income alternatives to sex work and crime; and family reunification attempts to facilitate household reintegration when safe. However, program capacity remains inadequate relative to street population scale, and reintegration success rates are modest, with many children returning to streets due to family dysfunction, economic necessity, or identity orientation toward street community.
 
 ## See Also
-[[Child Labor Poverty]], [[Child Trafficking]], [[Street Children Rescue]], [[Children's Shelters]], [[Urban Poverty]], [[Education Access]], [[Sexual Exploitation]], [[Malnutrition and Stunting Effects]]
+[[Child Labor Poverty]], [[Child Trafficking]], [[Street Children Rescue]], [[Children's Shelters]], [[Urban Poverty]], [[Education Access]], [[Sexual Exploitation Prevention]], [[Malnutrition Stunting Effects]]
 
 ## Sources
 1. UNICEF (2015). "The State of the World's Children: Reimagining Childhood." https://www.unicef.org

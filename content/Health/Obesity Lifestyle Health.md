@@ -12,9 +12,9 @@ Obesity management in health facilities is limited, with few specialized service
 [[Non-Communicable Diseases|Non-Communicable Diseases]]
 [[Diabetes Non-Communicable|Diabetes Non-Communicable]]
 [[Nutrition Food Security|Nutrition Food Security]]
-[[Physical Activity Health|Healthcare Policy Evolution]]
+[[Health|Healthcare Policy Evolution]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 
 ## Sources
 1. https://www.health.go.ke/

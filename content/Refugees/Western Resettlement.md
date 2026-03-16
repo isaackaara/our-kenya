@@ -10,7 +10,7 @@ Integration in Western resettlement countries demonstrated mixed outcomes. Succe
 
 [[Resettlement Third Countries]]
 [[Resettlement Countries]]
-[[Refugee Integration Resettlement]]
+[[Refugee Integration]]
 [[Third Country Solutions]]
 [[American Refugee Resettlement]]
 [[International Resettlement]]

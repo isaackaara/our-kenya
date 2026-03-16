@@ -22,7 +22,7 @@ These institutions represented an ambitious attempt at regional integration, rar
 
 The first EAC dissolved in 1977 due to a combination of political, ideological, and economic factors:
 
-**Ideological Differences**: Tanzania under Julius Nyerere pursued an explicitly socialist path (ujamaa) while Kenya under Jomo Kenyatta maintained a capitalist, market-oriented economy. Uganda under [[Idi Amin]] (1971-1979) pursued a chaotic and violent dictatorship that alienated neighbors.
+**Ideological Differences**: Tanzania under Julius Nyerere pursued an explicitly socialist path (ujamaa) while Kenya under Jomo Kenyatta maintained a capitalist, market-oriented economy. Uganda under [[Idi Amin and the Ugandan Asians]] (1971-1979) pursued a chaotic and violent dictatorship that alienated neighbors.
 
 **Trade Imbalances**: Kenya's more developed economy benefited disproportionately from the common market. Industrial goods flowed from Kenya to Tanzania and Uganda, while those countries shipped raw materials northward. Tanzania and Uganda felt exploited.
 
@@ -73,8 +73,8 @@ The most ambitious goal remains an East African Political Federation, which woul
 
 ## See Also
 
-- [[EAC Common Market]]
-- [[EAC Political Federation]]
+- [[5_EAC_Common_Market]]
+- [[6_EAC_Political_Federation]]
 - [[EAC Expansion]]
 - [[Kenya]]
 - [[Zanzibar]]

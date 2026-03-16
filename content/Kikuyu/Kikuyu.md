@@ -111,7 +111,7 @@ The story did not end with *uhuru*. Political power, land, and economic inequali
 ## See Also
 
 - [[Kenya History Overview]]
-- [[Kenyan Ethnic Groups]]
+- [[Kenyan Hip-Hop]]
 - [[Nairobi History]]
 - [[Kenya Independence]]
 - [[Mau Mau Legacy]]

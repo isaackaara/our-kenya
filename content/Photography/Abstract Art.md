@@ -13,7 +13,7 @@ Contemporary abstract art in Kenya continues as significant artistic practice. A
 - [[Painting Traditions Kenya]]
 - [[Geometric Abstraction]]
 - [[Expressive Abstraction]]
-- [[Contemporary Abstract Art]]
+- [[Abstract Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Abstract_art - Abstract Art History

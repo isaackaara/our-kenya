@@ -24,7 +24,7 @@ Post-2010 devolution has nonetheless created infrastructure for women's politica
 [[Female Government Representation]]
 [[Women Politics Electoral]]
 [[Women Leadership Capacity]]
-[[Electoral Quotas Gender]]
+[[Gender Electoral Quotas]]
 [[Democratic Governance Kenya]]
 
 ## Sources

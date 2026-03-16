@@ -14,7 +14,7 @@ The integration of green space into building design, including green roofs, vert
 
 ## See Also
 
-[[Urban Planning Development]], [[Nairobi Built Environment]], [[Nairobi National Park]], [[Environmental Design]], [[Park Development]], [[Garden Design]], [[Sustainability Design]]
+[[Urban Planning Development]], [[Nairobi Built Environment]], [[Nairobi National Park]], [[Environmental Art]], [[Park Development]], [[Garden Design]], [[Sustainability Design]]
 
 ## Sources
 

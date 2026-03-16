@@ -12,9 +12,9 @@ The period of Kibaki's marginalisation coincided with the broader deterioration 
 
 [[Moi Centralisation of Power]]
 [[Kenya Economic Decline 1980s-1990s]]
-[[KANU and Authoritarian Rule]]
-[[Kikuyu Marginalisation Under Moi]]
-[[Opposition Emergence Kenya]]
+[[Moi and KANU]]
+[[Kikuyu]]
+[[Moi and the Opposition]]
 [[Technical Expertise and Political Power]]
 
 ## Sources

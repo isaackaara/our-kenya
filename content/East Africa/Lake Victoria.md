@@ -21,10 +21,10 @@ The Victoria Lake Basin Commission provides a framework for transboundary manage
 [[Luo]]
 [[Kisumu]]
 [[East African Community]]
-[[East Africa Overview]]
-[[Nyanza Province]]
-[[Indian Ocean Heritage]]
-[[Kenya Uganda Border]]
+[[2_East_Africa_Overview]]
+[[Nyanza Province History]]
+[[19_Indian_Ocean_Heritage]]
+[[11_Kenya_Uganda_Border]]
 
 ## Sources
 

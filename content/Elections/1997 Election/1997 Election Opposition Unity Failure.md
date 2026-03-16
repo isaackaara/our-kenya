@@ -8,7 +8,7 @@ The timing of the [[1997 Election IPPG Reforms]] and the compressed election tim
 
 Personal rivalries and ambitions also played a role in opposition fragmentation. Each presidential candidate possessed egos, constituencies, and desires for power that made it difficult to defer to rivals. Kibaki, as the Democratic Party leader and the most established opposition figure, expected to be treated as the natural leader of the opposition. Raila, despite being younger and less experienced in electoral politics, believed that his intellectual energy and more radical opposition stance qualified him for leadership. These rivalries were not unique to Kenya (they appear in opposition politics across Africa), but they were consequential for electoral outcomes in a system where unity was essential to defeating incumbency.
 
-The opposition's failure to unite also reflected the absence of institutions or mechanisms for managing opposition coalition-building. Unlike some democratic systems where opposition parties cooperate through formal parliamentary structures or cross-party committees, Kenya's opposition parties remained largely separate organizational entities without strong mechanisms for coordination. The [[IPPG]] had created some coordination capacity, but it was designed primarily to negotiate with the government, not to manage opposition internal coordination.
+The opposition's failure to unite also reflected the absence of institutions or mechanisms for managing opposition coalition-building. Unlike some democratic systems where opposition parties cooperate through formal parliamentary structures or cross-party committees, Kenya's opposition parties remained largely separate organizational entities without strong mechanisms for coordination. The [[1997 Election IPPG Reforms]] had created some coordination capacity, but it was designed primarily to negotiate with the government, not to manage opposition internal coordination.
 
 International actors and domestic civil society organizations worked to encourage opposition unity in 1997, but with limited effect. International donors and democracy promotion organizations pushed for coalition-building, recognizing that opposition unity was essential to defeating Moi. Civil society figures, including clergy and human rights activists, similarly urged opposition candidates to coordinate. However, these external pressures could not override the structural obstacles and personal rivalries that prevented genuine coalition-building.
 
@@ -19,7 +19,7 @@ The 1997 opposition failure became a lesson absorbed by opposition figures, most
 ## See Also
 
 - [[1997 Election]]
-- [[Opposition parties in Kenya]]
+- [[Moi and the Opposition]]
 - [[2002 Election NARC Coalition]]
 - [[Kibaki's political trajectory]]
 - [[Raila's political trajectory]]

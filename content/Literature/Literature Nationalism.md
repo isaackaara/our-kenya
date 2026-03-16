@@ -8,9 +8,9 @@ By the late 1960s, however, literary nationalism grew more critical and complex.
 
 Writers articulated growing tension between literary nationalism addressing the imagined community of the nation and particular ethnic, class, and gendered communities experiencing marginalization within the nationalist project. [[Meja Wangi]]'s urban novels presented poor Nairobi residents excluded from nationalist narratives celebrating Kenya's development and progress. His literature insisted that nationalism must address urban poverty and class inequality rather than assuming national interest could transcend social division.
 
-Women writers particularly engaged nationalism critically, questioning whether national liberation had advanced gender equality or merely transferred patriarchal authority from colonial administrators to independent nationalist leaders. [[Grace Ogot]] and [[Charity Waciuma]] presented female experiences suggesting that nationalism had inadequately addressed women's liberation, that national independence did not automatically translate into women's freedom.
+Women writers particularly engaged nationalism critically, questioning whether national liberation had advanced gender equality or merely transferred patriarchal authority from colonial administrators to independent nationalist leaders. [[Grace Ogot]] and [[Charity Waciuma Autobiography]] presented female experiences suggesting that nationalism had inadequately addressed women's liberation, that national independence did not automatically translate into women's freedom.
 
-Poetry addressed nationalism through distinct registers. [[Jared Angira]]'s verse grappled with nationalism's emotional and psychological dimensions, exploring both the aspirations nationalism promised and the disappointments it delivered. His work demonstrated that poetry could maintain sophisticated engagement with nationalist ideology while refusing uncritical celebration.
+Poetry addressed nationalism through distinct registers. [[Jared Angira Poetry]]'s verse grappled with nationalism's emotional and psychological dimensions, exploring both the aspirations nationalism promised and the disappointments it delivered. His work demonstrated that poetry could maintain sophisticated engagement with nationalist ideology while refusing uncritical celebration.
 
 [[Postcolonial nationalism]] in Kenya increasingly manifested as single-party state ideology, with government suppressing literature perceived as threatening national stability. Writers addressing corruption, inequality, and authoritarian governance encountered censorship and harassment, experiencing firsthand how postcolonial nationalism constrained intellectual freedom. This repression drove some writers toward [[kenyan writers exile]] while others developed strategies for critical engagement within constrained circumstances.
 
@@ -24,7 +24,7 @@ Contemporary Kenyan literature continues engaging nationalism critically, questi
 [[State Censorship and Literature]]
 [[Ethnic Identity Literature Kenya]]
 [[Women and Nationalism]]
-[[Class and Literature Kenya]]
+[[Literature]]
 [[Pan-African Literary Networks]]
 
 ## Sources

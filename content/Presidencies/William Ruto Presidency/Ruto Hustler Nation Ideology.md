@@ -8,7 +8,7 @@ However, the actual implementation of hustler nation policies has revealed tensi
 
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Kenya Political Ideology|Kenya Political Ideology]]
-- [[Kenya Informal Economy|Kenya Informal Economy]]
+- [[Informal Economy Kenya|Kenya Informal Economy]]
 - [[Kenya Electoral Politics|Kenya Electoral Politics]]
 
 ## Sources

@@ -15,7 +15,7 @@ Picket line dynamics within multi-union workplaces created coordination challeng
 - [[Protest Movements]]
 - [[Cross-Union Cooperation]]
 - [[Police Violence Labour]]
-- [[Labor Rights]]
+- [[Labor Rights Awareness]]
 
 ## Sources
 1. https://khrc.or.ke/publications/

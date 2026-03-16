@@ -50,7 +50,7 @@ Government property is located in towns for administrative facilities. Public la
 [[Kapenguria Town]]
 [[West Pokot Land]]
 [[West Pokot Infrastructure]]
-[[West Pokot Economy]]
+[[Pokot]]
 
 ## Sources
 

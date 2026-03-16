@@ -1,6 +1,6 @@
 Five years after his respectable second-place finish in 1992, Kibaki contested the 1997 presidential election once again as the Democratic Party candidate. The 1997 election was marked by further fragmentation of the opposition, with multiple candidates competing for the anti-Moi vote. Kibaki's campaign emphasised continuity from 1992, building on his established position as the leading educated, technocratic opposition figure. However, the political landscape had shifted in ways that disadvantaged him relative to other opposition candidates who had made greater inroads into rural constituencies and built stronger regional political machines.
 
-The principal challenge to Kibaki's candidacy in 1997 came from the emergence of Raila Odinga as a prominent opposition figure capable of mobilising the [[Luo]] and western constituencies, and from [[Kalonzo Musyoka]], who appealed to [[Kamba]] voters in the south-east. The proliferation of opposition candidates meant that the opposition vote was split three ways among Kibaki, Raila, and Kalonzo, with Moi able to secure victory with less than 40 percent of the total vote. The Kikuyu vote, Kibaki's base, was not sufficient on its own to secure the presidency, and Kibaki's appeal across other ethnic groups remained limited.
+The principal challenge to Kibaki's candidacy in 1997 came from the emergence of Raila Odinga as a prominent opposition figure capable of mobilising the [[Luo]] and western constituencies, and from [[Kalonzo Musyoka Deep Dive]], who appealed to [[Kamba]] voters in the south-east. The proliferation of opposition candidates meant that the opposition vote was split three ways among Kibaki, Raila, and Kalonzo, with Moi able to secure victory with less than 40 percent of the total vote. The Kikuyu vote, Kibaki's base, was not sufficient on its own to secure the presidency, and Kibaki's appeal across other ethnic groups remained limited.
 
 In the 1997 election results, Kibaki finished in third place behind Moi and Raila Odinga, receiving approximately 18 percent of the presidential vote. This result was a significant setback for Kibaki. It suggested that his appeal was declining and that other opposition figures were more effective at building cross-ethnic coalitions. The 1997 outcome forced Kibaki to reconsider his political strategy. Remaining as the Democratic Party candidate appeared to be a recipe for repeated electoral defeat so long as the opposition remained fragmented.
 
@@ -11,9 +11,9 @@ The period following the 1997 election saw Kibaki maintaining his position as th
 ## See Also
 
 [[1997 Kenya Elections]]
-[[Opposition Fragmentation 1997]]
+[[Moi and the Opposition]]
 [[Democratic Party Electoral Weakness]]
-[[Kibaki Political Decline 1990s]]
+[[Kibaki and the ICC]]
 [[Raila Odinga Political Rise]]
 [[Elections/ Democracy Kenya]]
 

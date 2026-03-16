@@ -3,7 +3,7 @@ Kibaki's campaign made expansive economic promises: zero tolerance for corruptio
 ## See Also
 
 - [[2002 Election]]
-- [[Kibaki's presidency]]
+- [[Presidency Of Moi]]
 - [[Kenya]]
 - [[2002 Election Kibaki Campaign]]
 - [[Economic policy Kenya]]

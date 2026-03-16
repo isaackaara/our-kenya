@@ -1,6 +1,6 @@
 The dhow represents one of the Indian Ocean's most enduring maritime technologies, a versatile sailing vessel whose design evolved over centuries to serve multiple purposes across diverse trading environments. From the medieval period through the modern era, dhow construction and navigation embodied accumulated knowledge about ocean conditions, materials science, and the practical requirements of long-distance commerce.
 
-[[Dhow Construction Techniques]] varied regionally but shared fundamental principles adapted to Indian Ocean conditions. These vessels typically featured a wooden hull built from locally available timber, with framework composed of coconut wood and planking from mangoes or other dense trees found along the coast. Rather than nailing frames together, traditional shipwrights employed sewn construction, lashing wooden pieces with coconut fiber rope in patterns that allowed flexibility during rough seas. This technique, called [[Sailing Technology]], proved more resilient than rigid frame construction in waters where sudden storms could strike without warning.
+[[Dhow Construction]] varied regionally but shared fundamental principles adapted to Indian Ocean conditions. These vessels typically featured a wooden hull built from locally available timber, with framework composed of coconut wood and planking from mangoes or other dense trees found along the coast. Rather than nailing frames together, traditional shipwrights employed sewn construction, lashing wooden pieces with coconut fiber rope in patterns that allowed flexibility during rough seas. This technique, called [[Sailing Technology Evolution]], proved more resilient than rigid frame construction in waters where sudden storms could strike without warning.
 
 The distinctive [[Ship Types Designs]] included the substantial ocean-going dhow used for long-distance trade, typically measuring 60 to 100 feet in length with a capacity to carry 100 to 200 tons of cargo. Coastal variants were smaller and faster, designed for quick trading runs between nearby ports. The triangular [[Compass Use|sail]] configuration, called a lateen sail, allowed vessels to tack against the wind more efficiently than square sails, an advantage that European observers noted with appreciation when they first encountered these vessels. The hull design kept the vessel riding high in the water, minimizing draft and allowing navigation into shallow harbors without requiring extensive dredging or harbor works.
 
@@ -21,7 +21,7 @@ Dhows remained dominant in Indian Ocean commerce even after European vessels app
 ## See Also
 
 [[Ship Types Designs]]
-[[Sailing Technology]]
+[[Sailing Technology Evolution]]
 [[Monsoon Winds]]
 [[Coastal Fortifications]]
 [[Pilot Knowledge]]

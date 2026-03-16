@@ -22,7 +22,7 @@ The evolution of navigational technology incorporated gradual improvements in in
 
 [[Dhow Culture Navigation]]
 [[Merchant Vessels]]
-[[Sailing Technology]]
+[[Sailing Technology Evolution]]
 [[Port Infrastructure]]
 [[Maritime Trade Networks]]
 

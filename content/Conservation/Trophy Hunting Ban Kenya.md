@@ -66,7 +66,7 @@ Kenya's hunting ban remains in place, with no indication of imminent changes in 
 - [[Pastoralists and Conservation]] - Livelihood impacts
 - [[Wildlife Conservancy Act 2013]] - Legal framework
 - [[Conservation vs Land Rights]] - Use and rights tensions
-- [[Tanzania hunting policy]] - Regional comparison
+- [[Moi and Tanzania]] - Regional comparison
 
 ## Sources
 

@@ -14,7 +14,7 @@ The coastal region's marine and fishing industries offer technology opportunitie
 
 [[Regional Tech Disparity]]
 [[Tech Startups Ecosystem]]
-[[Digital Innovation]]
+[[Mombasa Digital Innovation]]
 [[Nakuru Tech Community]]
 [[Kisumu Tech Hub]]
 [[E-Commerce Platforms Kenya]]

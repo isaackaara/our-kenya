@@ -133,7 +133,7 @@ Understanding radicalization is complicated by:
 - [[Second Generation Refugees]]
 - [[Garissa University Attack 2015]]
 - [[Nairobi Westgate Attack 2013]]
-- [[Somali Counter-Radicalization Programs]]
+- [[Somali]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ Odinga finished second in the presidential race with approximately 27% of the vo
 - [[1992 Election]]
 - [[Oginga Odinga]]
 - [[Moi and FORD-Kenya]]
-- [[Opposition Leadership]]
+- [[Moi and the Opposition]]
 - [[Elder Statesmen and Politics]]
 - [[Luo]]
 - [[Presidential Candidates 1992]]

@@ -18,11 +18,11 @@ NHIF reform is central to Kenya's [[Universal Health Coverage]] goals. Digital s
 ## See Also
 
 - [[Health]]
-- [[Social Security Kenya]]
+- [[Job Security]]
 - [[NSSF Kenya]]
 - [[Parastatal Reform Kenya]]
-- [[Medical Insurance Kenya]]
-- [[Public Healthcare Kenya]]
+- [[Art Insurance]]
+- [[Public Art]]
 - [[Vision 2030]]
 
 ## Sources

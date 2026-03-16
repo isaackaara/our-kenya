@@ -19,7 +19,7 @@ Contemporary efforts to revive sisal production have been limited, with limited 
 ## See Also
 - [[Taita-Taveta County]]
 - [[Taita-Taveta Colonial History]]
-- [[Agricultural Exports Kenya]]
+- [[Kenya Exports]]
 - [[Economic History Kenya]]
 - [[Labour]]
 - [[Voi Town]]

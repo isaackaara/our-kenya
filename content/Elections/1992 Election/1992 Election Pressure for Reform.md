@@ -15,7 +15,7 @@ The government resisted these pressures for several years, arguing that multipar
 - [[1992 Election]]
 - [[Daniel arap Moi]]
 - [[Saba Saba Riots]]
-- [[Church and Politics Kenya]]
+- [[Moi and the Church]]
 - [[Civil Society Kenya]]
 - [[Donor Conditionality]]
 - [[Constitutional Reform Kenya]]

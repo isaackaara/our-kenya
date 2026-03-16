@@ -67,7 +67,7 @@ This pattern has parallels in other forms of money laundering: using legitimate 
 - [[Illicit Financial Flows Kenya]]
 - [[Impunity Culture]]
 - [[Corruption]]
-- [[Community Participation and Patronage]]
+- [[Moi and the Luo Community]]
 
 ## Sources
 

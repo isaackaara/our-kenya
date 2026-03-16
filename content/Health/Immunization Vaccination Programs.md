@@ -13,7 +13,7 @@ Challenges to maintaining high immunization coverage include vaccine hesitancy i
 [[Vaccine-Preventable Diseases|Vaccine-Preventable Diseases]]
 [[Polio Eradication Efforts|Polio Eradication Efforts]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Ministry of Health Kenya|Healthcare Policy Evolution]]
+[[Health|Healthcare Policy Evolution]]
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
 
 ## Sources

@@ -41,7 +41,7 @@ Meru forest reserves are significant for climate change mitigation (forest carbo
 - [[Mount Kenya]]
 - [[Climate Change and Meru]]
 - [[Kenya Forest Conservation]]
-- [[Water Resources in Meru]]
+- [[Meru Water]]
 - [[Ecosystem Services Africa]]
 - [[Kenya Biodiversity]]
 

@@ -1,4 +1,4 @@
-Amboseli National Park, located beneath [[Mount Kilimanjaro]]'s snow-capped peaks in southern Kenya, protects an ecosystem famous for its large [[Elephant Populations and Behavior|elephant herds]] and spectacular mountain views. The park's [[Water Sources and Hydrology|water sources]], fed by subterranean flows from Kilimanjaro, support wildlife concentrations in an arid landscape. Amboseli is internationally significant for [[Cynthia Moss|elephant research]] and [[Conservation|conservation]], hosting decades of long-term [[Research and Monitoring|research]] on elephant populations and [[Human-Wildlife Conflict|human-wildlife dynamics]].
+Amboseli National Park, located beneath [[17_Mount_Kilimanjaro]]'s snow-capped peaks in southern Kenya, protects an ecosystem famous for its large [[Elephant Populations and Behavior|elephant herds]] and spectacular mountain views. The park's [[Water Sources and Hydrology|water sources]], fed by subterranean flows from Kilimanjaro, support wildlife concentrations in an arid landscape. Amboseli is internationally significant for [[Cynthia Moss|elephant research]] and [[Conservation|conservation]], hosting decades of long-term [[Research and Monitoring|research]] on elephant populations and [[Human-Wildlife Conflict|human-wildlife dynamics]].
 
 ## Geography and Setting
 
@@ -62,7 +62,7 @@ Multiple research programs operate in Amboseli, contributing to conservation kno
 - [[Elephant Population Trends]]
 - [[Maasai]]
 - [[Protected Areas Kenya]]
-- [[Water Security and Climate Change]]
+- [[Job Security]]
 - [[Conservation]]
 - [[Elephant Human Conflict]]
 

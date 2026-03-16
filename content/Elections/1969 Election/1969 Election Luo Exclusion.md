@@ -16,7 +16,7 @@ The 1969 election thus ratified the political marginalization of the Luo and est
 - [[Tom Mboya]]
 - [[Oginga Odinga]]
 - [[1969 Election Kisumu Massacre]]
-- [[Ethnic Politics Kenya]]
+- [[Kibaki and Ethnic Politics Mount Kenya Dominance]]
 - [[Luo]]
 - [[Somali Political Representation Kenya]]
 

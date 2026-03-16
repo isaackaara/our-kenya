@@ -20,8 +20,8 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Post-Independence Economic Policy]]
 - [[Kenya]]
 - [[Hardware Manufacturing Kenya]]
-- [[Colonial Labour Systems]]
-- [[Workers Movement Kenya]]
+- [[Labour]]
+- [[The Gen Z Kenya Movement]]
 - [[Economic Justice Kenya]]
 
 ## Sources

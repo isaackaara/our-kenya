@@ -15,7 +15,7 @@ Post-independence Kikuyu Christianity became fully Kikuyu. Kikuyu theological ed
 - [[Kikuyu|Kikuyu]]
 - [[Christianity and Colonial Missions]]
 - [[Mau Mau rebellion]]
-- [[Evangelical Christianity and Witchcraft|Witchcraft and Christian Conversion]]
+- [[Luo Christianity|Witchcraft and Christian Conversion]]
 - [[Missionary Arrival and Settlement]]
 - [[Independent African Churches]]
 

@@ -52,7 +52,7 @@ The nomadic education challenge remains largely unresolved: formal schooling sys
 - [[Water Scarcity Northern Kenya]]
 - [[Somali Health Challenges NFD]]
 - [[Wajir County]]
-- [[Nomadic Pastoralism Northern Kenya]]
+- [[NFD Pastoralism]]
 
 ## Sources
 

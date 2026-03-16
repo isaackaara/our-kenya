@@ -7,7 +7,7 @@ tags: kisii gusii churches seventh-day adventist catholic charismatic
 
 ## Religious Transformation
 
-[[Christian religion|Christianity]] transformed [[Gusii people|Gusii]] society from the early twentieth century onward. Today, [[Gusii people|Kisii]] is predominantly [[Christian religion|Christian]], with competing [[Christian religion|Christian]] denominational presences.
+[[Music and Pre-Christian Religion Kenya|Christianity]] transformed [[Gusii people|Gusii]] society from the early twentieth century onward. Today, [[Gusii people|Kisii]] is predominantly [[Music and Pre-Christian Religion Kenya|Christian]], with competing [[Music and Pre-Christian Religion Kenya|Christian]] denominational presences.
 
 ## Seventh-day Adventist Church
 

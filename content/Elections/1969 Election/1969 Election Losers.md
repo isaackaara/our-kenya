@@ -13,7 +13,7 @@ The broader losers in the 1969 election were those who had hoped for multiparty 
 - [[1969 Election]]
 - [[1969 Election KPU Ban]]
 - [[Oginga Odinga]]
-- [[Political Opposition Kenya]]
+- [[Moi and the Opposition]]
 - [[Electoral Competition]]
 - [[Elections]]
 - [[Excluded Communities]]

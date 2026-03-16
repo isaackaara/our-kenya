@@ -8,7 +8,7 @@ The [[Luo Language]] represent a linguistic and cultural family distributed acro
 
 [[Luo Language]] is a Nilo-Saharan language spoken in several closely related varieties across East Africa:
 
-**Linguistic Classification**: [[Luo Language]] belongs to the Nilotic language family, which includes numerous languages spoken by pastoral and agricultural peoples across the [[Nile River System]] valley regions.
+**Linguistic Classification**: [[Luo Language]] belongs to the Nilotic language family, which includes numerous languages spoken by pastoral and agricultural peoples across the [[18_Nile_River_System]] valley regions.
 
 **Mutual Intelligibility**: The various Luo-related languages (Luo proper, Acholi, Langi, Alur, Padhola) are not mutually intelligible but share considerable vocabulary and structural similarities.
 
@@ -103,7 +103,7 @@ For Luo-speaking peoples, ethnic identity often competes with national identity:
 - [[Kenya]]
 - [[Lake Victoria]]
 - [[Kalenjin]]
-- [[Nile River System]]
+- [[18_Nile_River_System]]
 - [[East Africa]]
 - [[East Africa]]
 - [[East Africa Timeline]]

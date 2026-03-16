@@ -15,7 +15,7 @@ The 1988 election was a catastrophic exercise in electoral manipulation that bac
 - [[Daniel arap Moi]]
 - [[1988 Election Rigging Mechanism]]
 - [[Saba Saba 1990]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Kenya]]
 
 ## Sources

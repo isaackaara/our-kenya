@@ -6,7 +6,7 @@ The post-election violence triggered significant international responses. The Af
 - [[Kamba in International Relations Kenya Trade]]
 - [[Donor pressure Kenya]]
 - [[United Nations Kenya]]
-- [[African Union Kenya]]
+- [[Kenya African Union founding and Kenyatta as president]]
 
 ## Sources
 

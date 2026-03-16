@@ -1,4 +1,4 @@
-[[Conservation|Conservation]] generates substantial [[Economic Value|economic value]] in Kenya, with [[Wildlife Tourism Revenue|wildlife-based tourism]] and [[Ecosystem Services|ecosystem services]] contributing billions of Kenyan shillings annually to [[National Economy|national economy]]. However, conservation costs ([[Human-Wildlife Conflict|human-wildlife conflict]], [[Land Use Opportunity Costs|foregone land use]], [[Enforcement Costs|enforcement]]) create [[Economic Burdens|economic burdens]] borne unequally across society. The distribution of [[Conservation|benefits and costs]] raises questions about [[Conservation|equity]] in conservation.
+[[Conservation|Conservation]] generates substantial [[Economic Value|economic value]] in Kenya, with [[Wildlife Tourism Revenue|wildlife-based tourism]] and [[Ecosystem Services|ecosystem services]] contributing billions of Kenyan shillings annually to [[The NGO Economy|national economy]]. However, conservation costs ([[Human-Wildlife Conflict|human-wildlife conflict]], [[Land Use Opportunity Costs|foregone land use]], [[Enforcement Costs|enforcement]]) create [[Economic Burdens|economic burdens]] borne unequally across society. The distribution of [[Conservation|benefits and costs]] raises questions about [[Conservation|equity]] in conservation.
 
 ## Tourism Revenue Generation
 
@@ -65,7 +65,7 @@ These valuation methods, though imperfect, provide economic arguments for conser
 ## See Also
 
 - [[Wildlife Tourism Revenue]]
-- [[Community Benefits and Costs]]
+- [[Moi and the Luo Community]]
 - [[Human-Wildlife Conflict]]
 - [[Ecosystem Services Valuation]]
 - [[Conservation]]

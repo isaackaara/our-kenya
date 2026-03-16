@@ -53,7 +53,7 @@ Government and NGO programs aim to support youth development through various int
 [[West Pokot County]]
 [[West Pokot Conflict]]
 [[West Pokot Education]]
-[[West Pokot Economy]]
+[[Pokot]]
 [[West Pokot Politics]]
 
 ## Sources

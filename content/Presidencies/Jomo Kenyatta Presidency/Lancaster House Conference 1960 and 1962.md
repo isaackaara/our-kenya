@@ -14,7 +14,7 @@ The implications of the Lancaster House Conferences extended far beyond the imme
 
 [[Kenyatta release April 1961]]
 [[Kenyatta Rise to Power]]
-[[Kenyatta Cabinet Formation 1963]]
+[[Jomo Kenyatta Cabinet Formation 1963]]
 [[Kenya Independence 1963]]
 [[Kenyatta Economic Policy]]
 

@@ -18,7 +18,7 @@ The fragmentation of FORD stands as a cautionary case about opposition unity. Th
 - [[Forum for the Restoration of Democracy (FORD)]]
 - [[Moi and FORD-Kenya]]
 - [[FORD-Asili]]
-- [[Opposition parties in Kenya]]
+- [[Moi and the Opposition]]
 - [[1992 Election]]
 
 ## Sources

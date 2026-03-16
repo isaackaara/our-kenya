@@ -74,7 +74,7 @@ This represents a significant shift from the pre-2010 period when Kikuyu politic
 - [[Kikuyu Sub-group Tensions]]
 - [[Anne Waiguru]]
 - [[Kenya Devolution]]
-- [[Kikuyu County Politics]]
+- [[Kikuyu]]
 - [[Kenyan Constitution (2010)]]
 - [[Kikuyu Land Clashes Post-Independence]]
 

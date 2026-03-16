@@ -20,7 +20,7 @@ The relationship between creative non-fiction and literary market economics invo
 - [[Autobiography Memoirs]]
 - [[Travel Writing Kenya]]
 - [[Food Writing Cuisine]]
-- [[Essays]]
+- [[Binyavanga Wainaina Essays]]
 - [[Literary Magazines Kenya]]
 
 ## Sources

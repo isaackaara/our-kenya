@@ -9,7 +9,7 @@ Infrastructure challenges in squatter settlements are severe. Water access is ty
 The relationship between squatter settlements and state policy is contradictory. Government periodically announces slum clearance initiatives, framing removal as urban improvement. However, relocation programs lack destination sites and compensation; displaced residents typically return or move to other squatter areas. Conversely, community demands for land recognition and service access receive periodic attention from sympathetic leaders. Some settlements have negotiated recognized status and formalized land allocation. International development organizations support squatter upgrading through infrastructure and governance strengthening. This creates dynamic situations where settlements exist in ambiguous legal status, neither fully authorized nor completely evicted, with tenure and infrastructure improvements contingent on political patronage and community organization capacity.
 
 ## See Also
-[[Urban Poverty]], [[Housing Shortage]], [[Eviction Displacement]], [[Land Tenure Systems]], [[Community Governance]], [[Infrastructure Access]], [[Municipal Planning]], [[Informal Settlements]]
+[[Urban Poverty]], [[Housing Shortage]], [[Eviction Displacement]], [[Land Tenure Systems]], [[Moi and the Luo Community]], [[Infrastructure Access]], [[Municipal Planning]], [[Informal Settlements]]
 
 ## Sources
 1. UN-Habitat (2014). "The State of African Cities 2014: Re-imagining sustainable urban transitions." https://unhabitat.org

@@ -2,7 +2,7 @@
 title: Rwanda Kenya
 ---
 
-[[Rwanda Kenya]] is an [[East African Community]] member and maintains significant economic and political relationships with Kenya. [[Rwanda Kenya]]'s post-genocide recovery and emergence as a development success story have shaped its regional positioning.
+[[39_Rwanda_Kenya]] is an [[East African Community]] member and maintains significant economic and political relationships with Kenya. [[39_Rwanda_Kenya]]'s post-genocide recovery and emergence as a development success story have shaped its regional positioning.
 
 ## The Rwandan Genocide (1994)
 
@@ -30,15 +30,15 @@ After the genocide, Rwanda underwent dramatic reconstruction:
 
 ## Rwanda-Kenya Economic Ties
 
-[[Rwanda Kenya]] and Kenya maintain significant economic relationships:
+[[39_Rwanda_Kenya]] and Kenya maintain significant economic relationships:
 
-**Trade**: [[Rwanda Kenya]] is a landlocked country dependent on ports. [[Mombasa Port]] in Kenya is [[Rwanda Kenya]]'s primary international maritime gateway.
+**Trade**: [[39_Rwanda_Kenya]] is a landlocked country dependent on ports. [[Mombasa Port]] in Kenya is [[39_Rwanda_Kenya]]'s primary international maritime gateway.
 
-**Northern Corridor**: [[Rwanda Kenya]] depends on the Northern Corridor (road and rail infrastructure from [[Mombasa Port]] through Kenya and Uganda) for international trade.
+**Northern Corridor**: [[39_Rwanda_Kenya]] depends on the Northern Corridor (road and rail infrastructure from [[Mombasa Port]] through Kenya and Uganda) for international trade.
 
-**Investment**: Kenyan businesses and investors are present in [[Rwanda Kenya]].
+**Investment**: Kenyan businesses and investors are present in [[39_Rwanda_Kenya]].
 
-**Regional Integration**: [[Rwanda Kenya]]'s [[East African Community]] membership links it economically to Kenya and other member states.
+**Regional Integration**: [[39_Rwanda_Kenya]]'s [[East African Community]] membership links it economically to Kenya and other member states.
 
 ## Rwanda as Development Success
 
@@ -100,7 +100,7 @@ Rwanda and Kenya represent different visions for East Africa:
 - [[Kenya]]
 - [[Mombasa Port]]
 - [[Nairobi]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[East Africa]]
 - [[East Africa Timeline]]
 

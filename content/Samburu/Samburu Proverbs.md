@@ -17,7 +17,7 @@ Scholarly documentation and recording efforts preserve [[Samburu]] proverbs. How
 - [[Samburu Oral Literature]]
 - [[Samburu Language]]
 - [[Samburu Social Structure]]
-- [[Samburu Culture]]
+- [[Samburu Cattle Culture]]
 - [[Wisdom Traditions in Africa]]
 
 ## Sources

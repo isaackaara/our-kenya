@@ -2,7 +2,7 @@ Homicide investigation capacity within the [[Kenya Police|police]] Directorate o
 
 The [[Kenya Police|police]] homicide investigation procedures developed gradually from colonial-era criminal investigation methods and were substantially reformed after the [[2010 Constitution|2010 constitutional reforms]] to emphasize rights protection and evidence-based prosecution rather than coercive interrogation. By 2015, homicide investigation training curricula incorporated international standards emphasizing suspect rights, contamination prevention, and evidence chain-of-custody procedures. However, operational implementation remained inconsistent, with police detectives frequently employing aggressive interrogation tactics and conducting investigations without adequate legal representation for suspects.
 
-Violent crime hotspots in Nairobi's low-income districts, including [[Kibera]], [[Mathare]], and [[Eastlands]], generated concentrated homicide caseloads exceeding the investigative capacity of local detective units. By 2018, these districts alone accounted for approximately 35 to 40 percent of Nairobi homicides, with investigations proceeding slowly and clearance rates below 25 percent. Community trust in police investigations remained low, with residents frequently attributing police involvement in crimes they investigated or expressing concern that investigations would not proceed against politically connected suspects.
+Violent crime hotspots in Nairobi's low-income districts, including [[Kibera]], [[Mathare Valley]], and [[Eastlands Nairobi]], generated concentrated homicide caseloads exceeding the investigative capacity of local detective units. By 2018, these districts alone accounted for approximately 35 to 40 percent of Nairobi homicides, with investigations proceeding slowly and clearance rates below 25 percent. Community trust in police investigations remained low, with residents frequently attributing police involvement in crimes they investigated or expressing concern that investigations would not proceed against politically connected suspects.
 
 Forensic evidence utilization in homicide investigation remained limited by inadequate laboratory capacity and constrained DNA analysis capability. By 2018, approximately 25 to 30 percent of homicide investigations incorporated forensic analysis, compared to approximately 85 percent for comparable homicides in developed police systems. Ballistics analysis, DNA evidence, and fingerprint analysis remained unavailable for majority of cases due to capacity constraints and investigation prioritization based on suspect status rather than evidence preservation protocols.
 
@@ -10,13 +10,13 @@ Cold case investigations of unsolved homicides remained virtually non-existent, 
 
 ## See Also
 
-[[Police Detective Systems]]
-[[Forensic Investigation Units]]
+[[Police-Detective-Systems]]
+[[Forensic-Investigation-Units]]
 [[Kenya Police]]
 [[Directorate of Criminal Investigations]]
 [[Violent Crime Kenya]]
 [[Nairobi Security]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 
 ## Sources
 

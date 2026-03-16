@@ -12,8 +12,8 @@ Mutahi Kagwe's subsequent political career, which included a bid for the preside
 
 [[Kibaki Cabinet and Government]]
 [[Ministers and Business Interests Kenya]]
-[[Health Sector Governance Kenya]]
-[[Environmental Management Kenya]]
+[[Health]]
+[[Environmental Art]]
 [[Conflict of Interest in Government]]
 [[Corruption/ Scandals and Accountability]]
 

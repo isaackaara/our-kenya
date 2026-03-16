@@ -25,7 +25,7 @@ Bamburi will likely remain East Africa's largest cement producer. Growth depends
 - [[Manufacturing History Kenya]] - Industrial development and cement sector evolution
 - [[Mombasa Port History]] - Geographic advantage and trade infrastructure
 - [[East Africa Trade Flows]] - Regional commerce and construction materials markets
-- [[Environmental Impact Kenya]] - Cement production and environmental compliance
+- [[Environmental Art]] - Cement production and environmental compliance
 - [[Industrial Monopolies Kenya]] - Market concentration in East African industries
 - [[Post-Independence Economic Policy]] - State and private sector industrial strategy
 - [[Infrastructure Development Kenya]] - Construction demand and cement consumption

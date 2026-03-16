@@ -24,8 +24,8 @@ Contemporary reassessment of Kenyatta's political writings grapples with this co
 [[Colonial Literature Kenya]]
 [[Decolonization and Writing]]
 [[Postcolonial Literature Movement]]
-[[Kikuyu Culture and Literature]]
-[[Anthropology and Literature]]
+[[Kikuyu]]
+[[Literature]]
 [[Political Thought Kenya]]
 [[National Identity Kenya]]
 

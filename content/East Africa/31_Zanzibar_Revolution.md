@@ -10,7 +10,7 @@ In January 1964, the Arab ruling class of [[Zanzibar]] was violently overthrown 
 
 **Sultan Jamshid bin Abdullah**: The last Sultan of [[Zanzibar|Zanzibar]], who ruled from 1954 until the revolution.
 
-**Arab Dominance**: The Sultan and Arab merchant class controlled the island's government, trade, and resources under [[Omani Empire]] legacy.
+**Arab Dominance**: The Sultan and Arab merchant class controlled the island's government, trade, and resources under [[27_Omani_Empire]] legacy.
 
 **Subordinate African Majority**: The majority African population (roughly 80 percent of the population) held subordinate status, working as clove plantation laborers or small farmers.
 
@@ -72,7 +72,7 @@ The revolution created a significant refugee crisis:
 
 **Displaced Persons**: Thousands of Arabs fled to Arab countries (Oman, Saudi Arabia, UAE), to other East African nations, or to Europe.
 
-**Lost Heritage**: The Arab community that had dominated [[Zanzibar|Zanzibar]] for centuries (from the [[Omani Empire]] period) was dispersed, ending centuries of Arab political dominance on the island.
+**Lost Heritage**: The Arab community that had dominated [[Zanzibar|Zanzibar]] for centuries (from the [[27_Omani_Empire]] period) was dispersed, ending centuries of Arab political dominance on the island.
 
 **Diaspora Communities**: [[Zanzibar|Zanzibar]]'s Arab diaspora communities in Oman and other Arab nations maintain cultural connections to [[Zanzibar|Zanzibar]].
 
@@ -90,9 +90,9 @@ The Zanzibar Revolution remains historically significant:
 
 ## See Also
 
-- [[Omani Empire]]
-- [[Arab Slave Trade]]
-- [[Indian Ocean Heritage]]
+- [[27_Omani_Empire]]
+- [[26_Arab_Slave_Trade]]
+- [[19_Indian_Ocean_Heritage]]
 - [[EAC History]]
 - [[Kenya]]
 - [[Swahili]]

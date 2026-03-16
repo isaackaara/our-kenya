@@ -4,7 +4,7 @@ title: The 2014 UK Ban on Khat and Its Impact on Igembe
 
 # The UK Khat Ban: Economic Crisis for Igembe
 
-In 2014, the United Kingdom banned [[khat]] ([[miraa]]), dealing a severe economic blow to [[Igembe]] farmers and traders who had developed substantial export markets to the UK's [[Somali]] diaspora.
+In 2014, the United Kingdom banned [[khat]] ([[miraa]]), dealing a severe economic blow to [[Tigania and Igembe]] farmers and traders who had developed substantial export markets to the UK's [[Somali]] diaspora.
 
 ## The Ban Decision
 

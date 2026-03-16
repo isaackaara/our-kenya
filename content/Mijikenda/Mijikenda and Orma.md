@@ -1,12 +1,12 @@
-The [[Orma]] are a Cushitic-speaking pastoral community living in the Tana River area north of [[Mijikenda]] territory. Historical relations between Mjikenda and Orma have involved trade, conflict, and periodic cooperation, shaped by different economic systems and territorial claims.
+The [[Orma People]] are a Cushitic-speaking pastoral community living in the Tana River area north of [[Mijikenda]] territory. Historical relations between Mjikenda and Orma have involved trade, conflict, and periodic cooperation, shaped by different economic systems and territorial claims.
 
 ## The Orma People
 
-The [[Orma]] are pastoral communities primarily engaged in livestock herding. They live in the Tana River region, an area of semi-arid pastoral lands suitable for pastoralism but less suitable for agricultural settlement. The Orma speak a Cushitic language (Orma language), linking them linguistically to other pastoral communities in the Horn of Africa region rather than to Bantu speakers like [[Mijikenda]]. Orma social organization emphasizes kinship and lineage systems structuring pastoral communities.
+The [[Orma People]] are pastoral communities primarily engaged in livestock herding. They live in the Tana River region, an area of semi-arid pastoral lands suitable for pastoralism but less suitable for agricultural settlement. The Orma speak a Cushitic language (Orma language), linking them linguistically to other pastoral communities in the Horn of Africa region rather than to Bantu speakers like [[Mijikenda]]. Orma social organization emphasizes kinship and lineage systems structuring pastoral communities.
 
 ## Geography and Territory
 
-[[Orma]] territory borders [[Mijikenda]] territory along the Tana River and surrounding areas. The Tana River defines a rough boundary between pastoral and agricultural zones. Tana River itself has been a focal point for both Orma and Mjikenda, providing water, fishing opportunities, and trade connections. Seasonal movement of Orma pastoralists sometimes brings herds into areas also used by Mjikenda, creating potential for conflict over water and grazing.
+[[Orma People]] territory borders [[Mijikenda]] territory along the Tana River and surrounding areas. The Tana River defines a rough boundary between pastoral and agricultural zones. Tana River itself has been a focal point for both Orma and Mjikenda, providing water, fishing opportunities, and trade connections. Seasonal movement of Orma pastoralists sometimes brings herds into areas also used by Mjikenda, creating potential for conflict over water and grazing.
 
 ## Economic Exchange
 

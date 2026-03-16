@@ -2,7 +2,7 @@
 title: East African Runners
 ---
 
-Kenya and Ethiopia dominate long-distance running at the world level. The preponderance of Kenyan and Ethiopian runners winning marathons, half-marathons, and distance races is one of the world's most striking athletic phenomena. This dominance reflects [[Great Rift Valley]] altitude, geography, [[Kalenjin]] heritage, culture, and economics.
+Kenya and Ethiopia dominate long-distance running at the world level. The preponderance of Kenyan and Ethiopian runners winning marathons, half-marathons, and distance races is one of the world's most striking athletic phenomena. This dominance reflects [[16_Great_Rift_Valley]] altitude, geography, [[Kalenjin]] heritage, culture, and economics.
 
 ## Kenya's Running Dominance
 
@@ -34,7 +34,7 @@ Within Kenya, a specific ethnic group, the [[Kalenjin]], produces a disproportio
 
 **Over-Representation**: [[Kalenjin]] runners are massively over-represented among Kenya's elite distance runners, despite [[Kalenjin]] representing roughly 10-15 percent of Kenya's population.
 
-**Iten Town**: The town of Iten in the [[Great Rift Valley]] has become the world's center for distance running training, hosting numerous elite Kenyan runners and international athletes seeking high-altitude training.
+**Iten Town**: The town of Iten in the [[16_Great_Rift_Valley]] has become the world's center for distance running training, hosting numerous elite Kenyan runners and international athletes seeking high-altitude training.
 
 **Training Culture**: Iten has developed a distinctive training culture, with many elite runners training together and sharing knowledge.
 
@@ -112,11 +112,11 @@ East African distance running dominance has global effects:
 
 ## See Also
 
-- [[Great Rift Valley]]
+- [[16_Great_Rift_Valley]]
 - [[Kalenjin]]
 - [[Kenya]]
 - [[East African Community]]
-- [[Mount Kilimanjaro]]
+- [[17_Mount_Kilimanjaro]]
 - [[East Africa]]
 - [[East Africa Timeline]]
 

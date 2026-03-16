@@ -13,7 +13,7 @@ County governors since 2013 have determined county governance direction and reso
 - [[Samburu County Government]]
 - [[Samburu County]]
 - [[Samburu Pastoralism]]
-- [[Governance in Kenya]]
+- [[Women in County Governance Kenya]]
 - [[Electoral Politics in Kenya]]
 
 ## Sources

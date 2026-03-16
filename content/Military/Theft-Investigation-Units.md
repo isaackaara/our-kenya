@@ -10,9 +10,9 @@ Cybercrime investigations overlapping with theft including online fraud, digital
 
 ## See Also
 
-[[Police Detective Systems]]
-[[Fraud Investigation Units]]
-[[Cybercrime Investigation Teams]]
+[[Police-Detective-Systems]]
+[[Fraud-Investigation-Units]]
+[[Cybercrime-Investigation-Teams]]
 [[Kenya Police]]
 [[Organized Crime Kenya]]
 [[Violent Crime Kenya]]

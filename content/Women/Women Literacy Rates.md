@@ -22,7 +22,7 @@ The COVID-19 pandemic reversed literacy progress for girls. School closures in 2
 [[Female Education Barriers]]
 [[Girls School Performance]]
 [[Maternal Health Childbirth]]
-[[Women Economic Empowerment]]
+[[Women Economic Empowerment Kenya]]
 [[Gender School Curriculum]]
 [[Female Entrepreneurs Business]]
 

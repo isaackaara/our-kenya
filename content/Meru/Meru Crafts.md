@@ -70,7 +70,7 @@ However, some craftspeople continue traditional practices, and there is growing 
 
 - [[Meru Beadwork and Crafts]]
 - [[Meru Architecture]]
-- [[Meru Culture]]
+- [[Meru Food Culture]]
 - [[Meru Material Culture]]
 - [[Traditional African Arts]]
 - [[Kenya Cultural Heritage]]

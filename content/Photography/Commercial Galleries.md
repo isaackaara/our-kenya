@@ -8,12 +8,12 @@ Commercial galleries have professionalized art dealing and created economic sust
 
 ## See Also
 - [[Art Markets Kenya]]
-- [[Gallery Business Operations]]
+- [[Gallery Operations]]
 - [[Artist Representation and Markets]]
 - [[Collector Economies]]
 - [[Cultural Entrepreneurship]]
 - [[Real Estate and Gallery Location]]
-- [[Art Economics Kenya]]
+- [[Conservation Economics Kenya]]
 
 ## Sources
 1. https://www.artbase.co.ke/ - Kenyan Galleries

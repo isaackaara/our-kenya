@@ -17,7 +17,7 @@ The integration of Kenyan literary materials into library and archive collection
 ## See Also
 - [[National Archives]]
 - [[Publishing Industry Kenya]]
-- [[Educational Literature Development]]
+- [[Literature]]
 - [[Language Preservation Literature]]
 - [[Oral History Projects]]
 - [[Literary Journals Publishing]]

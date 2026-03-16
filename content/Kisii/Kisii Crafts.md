@@ -85,11 +85,11 @@ The decline of traditional crafts like pottery and basket weaving reflects broad
 
 ## See Also
 
-- [[Soapstone carving in Kisii]] - dominant craft tradition
+- [[Kisii Soapstone Carving]] - dominant craft tradition
 - [[Kisii Cooking Traditions and Food Culture]] - pottery function
 - [[Artisan traditions in Kenya]] - crafts context
-- [[Gender and craft production]] - women's economic roles
-- [[Cultural heritage preservation]] - documentation efforts
+- [[Gender Pay Gap]] - women's economic roles
+- [[Heritage Preservation]] - documentation efforts
 - [[Material culture in Africa]] - anthropological perspective
 
 ---

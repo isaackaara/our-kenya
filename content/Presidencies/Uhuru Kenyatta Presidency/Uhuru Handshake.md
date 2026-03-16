@@ -67,7 +67,7 @@ However, the handshake did not resolve Kenya's underlying political tensions. Et
 - [[Building Bridges Initiative]]
 - [[Orange Democratic Movement]]
 - [[Jubilee Party]]
-- [[Kenyan Politics Post-2010]]
+- [[Kenyan Hip-Hop]]
 
 ## Sources
 

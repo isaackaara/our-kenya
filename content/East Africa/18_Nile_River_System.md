@@ -2,24 +2,24 @@
 title: Nile River System
 ---
 
-The [[Nile River System]], one of the world's longest rivers, originates in the East African highlands and flows north through Sudan to Egypt. The Nile's upper reaches flow through or originate in [[East African Community]], making East African water resources crucial to downstream countries.
+The [[18_Nile_River_System]], one of the world's longest rivers, originates in the East African highlands and flows north through Sudan to Egypt. The Nile's upper reaches flow through or originate in [[East African Community]], making East African water resources crucial to downstream countries.
 
 ## The Nile's Source in East Africa
 
-The [[Nile River System]]'s water originates from multiple sources in East Africa. [[Lake Victoria]], shared between Kenya, Uganda, and Tanzania, is the Nile's major source of sustained water flow. The White Nile outlet from [[Lake Victoria]] represents the beginning of the [[Nile River System]] proper.
+The [[18_Nile_River_System]]'s water originates from multiple sources in East Africa. [[Lake Victoria]], shared between Kenya, Uganda, and Tanzania, is the Nile's major source of sustained water flow. The White Nile outlet from [[Lake Victoria]] represents the beginning of the [[18_Nile_River_System]] proper.
 
 Other Nile sources include:
 
 - The Blue Nile, originating in Ethiopian highlands
 - Various tributaries flowing from Uganda, Kenya, and other [[East African Community]] countries
 
-The entire [[Nile River System]]'s upper portion depends on East African rainfall and water resources. [[East Africa]] directly affect water flow to Sudan and Egypt.
+The entire [[18_Nile_River_System]]'s upper portion depends on East African rainfall and water resources. [[East Africa]] directly affect water flow to Sudan and Egypt.
 
 ## Lake Victoria and the Nile
 
-As discussed in the [[Lake Victoria]] note, the lake is the [[Nile River System]]'s major source. The outlet from [[Lake Victoria]] flows into the Kafu River in Uganda, which eventually feeds into the White [[Nile River System]] proper near Masindi, Uganda.
+As discussed in the [[Lake Victoria]] note, the lake is the [[18_Nile_River_System]]'s major source. The outlet from [[Lake Victoria]] flows into the Kafu River in Uganda, which eventually feeds into the White [[18_Nile_River_System]] proper near Masindi, Uganda.
 
-For Egypt and Sudan, [[Lake Victoria]] represents a critical water reserve and the start of the [[Nile River System]]'s journey to the Mediterranean.
+For Egypt and Sudan, [[Lake Victoria]] represents a critical water reserve and the start of the [[18_Nile_River_System]]'s journey to the Mediterranean.
 
 ## The Nile Basin Initiative
 
@@ -67,11 +67,11 @@ These trends make Nile water increasingly contested and create potential for fut
 ## See Also
 
 - [[Lake Victoria]]
-- [[Great Rift Valley]]
+- [[16_Great_Rift_Valley]]
 - [[Kenya]]
 - [[Ethiopia Kenya]]
 - [[East Africa]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[East Africa Timeline]]
 
 ## Sources

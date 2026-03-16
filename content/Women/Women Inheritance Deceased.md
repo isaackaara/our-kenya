@@ -21,7 +21,7 @@ Property knowledge gaps constrain women's inheritance protection. Many women lac
 [[Female Inheritance Disputes]]
 [[Women Land Rights]]
 [[Women Property Rights Marriage]]
-[[Customary Law]]
+[[Xeer Customary Law]]
 [[Constitutional Reform 2010]]
 
 ## Sources

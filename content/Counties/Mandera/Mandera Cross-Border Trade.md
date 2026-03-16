@@ -19,7 +19,7 @@ Informal credit mechanisms finance cross-border trade, with established traders 
 - [[Mandera Livestock]]
 - [[Mandera Kenya-Ethiopia Border]]
 - [[Mandera Kenya-Somalia Border]]
-- [[Mandera Economy]]
+- [[The NGO Economy]]
 
 ## Sources
 

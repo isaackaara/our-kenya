@@ -96,7 +96,7 @@ The [[East Africa]] had lasting consequences:
 - [[East Africa]]
 - [[East Africa]]
 - [[Kenya]]
-- [[Groundnut Scheme]]
+- [[30_Groundnut_Scheme]]
 - [[East Africa Timeline]]
 
 ## Sources

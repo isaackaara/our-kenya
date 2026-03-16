@@ -13,7 +13,7 @@ The 1992 election demonstrated both the strength of KANU's organizational appara
 ## See Also
 
 - [[1992 Election]]
-- [[KANU Organization]]
+- [[Moi and KANU]]
 - [[Party Machines]]
 - [[Electoral Machinery]]
 - [[Elections]]

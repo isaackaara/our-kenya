@@ -10,7 +10,7 @@ Security infrastructure supporting digital payments evolved continuously as frau
 
 ## See Also
 
-[[M-Pesa Mobile Money]], [[E-Commerce Platforms Kenya]], [[Fintech Development]], [[Mobile Banking Services]], [[Cybersecurity Banking]], [[Retail Technology]]
+[[M-Pesa Mobile Money]], [[E-Commerce Platforms Kenya]], [[Fintech Development]], [[Mobile Banking Services]], [[Cybersecurity Banking]], [[Technology]]
 
 ## Sources
 

@@ -45,8 +45,8 @@ The tradition of Mekatilili, Nyanjiru, and Maathai is alive but often unnamed.
 - [[Women Across Ethnic Lines]]
 - [[Feminist Movements Kenya]]
 - [[Anti-Colonial Resistance Kenya]]
-- [[Environmental Justice Kenya]]
-- [[Gender and Nation-Building]]
+- [[Environmental Art]]
+- [[Gender Pay Gap]]
 
 ## Related
 

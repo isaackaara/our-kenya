@@ -16,7 +16,7 @@ By the 1950s, religious transformation had proceeded substantially, with Christi
 
 [[Christian Missions Colonial]]
 [[Islamic Institutions Colonial]]
-[[Traditional Religion Suppression]]
+[[Religion]]
 [[Independent African Churches]]
 [[Religion]]
 [[Witchcraft Laws]]

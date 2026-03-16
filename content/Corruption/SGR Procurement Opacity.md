@@ -11,7 +11,7 @@ The contract for constructing the SGR was awarded to [[China Road and Bridge Cor
 The procurement process for the SGR was unusual in several respects:
 
 - **Government-to-government arrangement:** Rather than a competitive international bid, the contract was negotiated directly between the Kenyan government and the Chinese government
-- **Bypassed standard procurement:** Kenya's [[Public Procurement and Asset Disposal Act]] requires competitive bidding for major government contracts. The SGR appeared to bypass these requirements
+- **Bypassed standard procurement:** Kenya's [[Public Art]] requires competitive bidding for major government contracts. The SGR appeared to bypass these requirements
 - **Loan financing:** The Kenyan government financed the SGR through loans from China's Export-Import Bank (EXIM Bank)
 - **Linked package:** The loan was conditional on awarding the contract to CRBC
 

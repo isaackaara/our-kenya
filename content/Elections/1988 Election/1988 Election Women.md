@@ -5,7 +5,7 @@ Women remained excluded from standing for Parliament in 1988, continuing decades
 - [[Women]]
 - [[Kenya]]
 - [[Maendeleo ya Wanawake Organization]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Music and Gender Kenya Contemporary]]
 
 ## Sources

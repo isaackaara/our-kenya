@@ -114,7 +114,7 @@ The Westgate attack has been memorialized in Kenyan culture and memory:
 - [[Somalia State Collapse Effects on Kenya]]
 - [[Somali Refugee Experience]]
 - [[Somali and Kenyan Citizenship]]
-- [[Eastleigh (Little Mogadishu)]]
+- [[Eastleigh Nairobi (Little Mogadishu)]]
 
 ## Sources
 

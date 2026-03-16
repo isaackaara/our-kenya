@@ -12,7 +12,7 @@ The prices of copper reflected both production costs in interior regions and mar
 
 The metalworking traditions developed in different regions of the Indian Ocean world incorporated copper into distinctive artifact types. Copper vessels in Arab and Persian styles represented different designs from copper objects produced in African regions. The availability of copper in different market centers contributed to the development of regional metalworking traditions adapted to locally available materials. The trade in both raw copper and finished copper objects created multiple levels of commercial activity from mining communities through final consumers.
 
-The [[Sailing Technology]] of Indian Ocean vessels required copper fittings and reinforcements that created significant demand for copper. The sheathing of wooden vessels with copper plates protected them against shipworm and other marine organisms that would otherwise bore into wooden hulls, extending vessel lifespan significantly. The availability of copper supplies thus had direct implications for maritime capability and the sustainability of long-distance trading networks. Regions with reliable copper sources developed particular naval advantages.
+The [[Sailing Technology Evolution]] of Indian Ocean vessels required copper fittings and reinforcements that created significant demand for copper. The sheathing of wooden vessels with copper plates protected them against shipworm and other marine organisms that would otherwise bore into wooden hulls, extending vessel lifespan significantly. The availability of copper supplies thus had direct implications for maritime capability and the sustainability of long-distance trading networks. Regions with reliable copper sources developed particular naval advantages.
 
 The environmental impact of intensified copper mining driven by expanding trade networks reflected the increasing extraction rates needed to supply expanding markets. The mining communities that had traditionally produced copper for local and regional markets found themselves under pressure to expand production to supply international markets. The environmental consequences of mining expansion included deforestation for charcoal needed in smelting processes and the disruption of water sources through mining and smelting operations.
 
@@ -23,10 +23,10 @@ The persistence of copper trade within interior regions even as Indian Ocean lon
 ## See Also
 
 [[Metal Trade Networks]]
-[[Interior Trade Routes]]
+[[Trade Routes Interior]]
 [[Merchant Networks]]
 [[Mining Communities]]
-[[Sailing Technology]]
+[[Sailing Technology Evolution]]
 
 ## Sources
 

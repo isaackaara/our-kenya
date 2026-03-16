@@ -2,7 +2,7 @@
 title: JKIA Airport
 ---
 
-[[JKIA Airport]] is [[East African Community]]'s largest and most developed aviation hub, serving as the region's primary international gateway. The airport's significance extends beyond Kenya to the entire [[East African Community]] region and beyond.
+[[49_JKIA_Airport]] is [[East African Community]]'s largest and most developed aviation hub, serving as the region's primary international gateway. The airport's significance extends beyond Kenya to the entire [[East African Community]] region and beyond.
 
 ## Airport Infrastructure
 
@@ -20,15 +20,15 @@ JKIA is East Africa's premier airport facility:
 
 ## Regional Hub Status
 
-[[JKIA Airport]] serves as [[East African Community]]'s primary aviation hub:
+[[49_JKIA_Airport]] serves as [[East African Community]]'s primary aviation hub:
 
-**Hub Function**: Most [[East African Community]] travelers to Europe, Asia, North America, and the Middle East connect through [[JKIA Airport]].
+**Hub Function**: Most [[East African Community]] travelers to Europe, Asia, North America, and the Middle East connect through [[49_JKIA_Airport]].
 
-**Connecting Passengers**: A significant portion of [[JKIA Airport]]'s passenger traffic is connecting traffic, not originating in or destined for [[Nairobi]].
+**Connecting Passengers**: A significant portion of [[49_JKIA_Airport]]'s passenger traffic is connecting traffic, not originating in or destined for [[Nairobi]].
 
-**Airlines**: Multiple international airlines use [[JKIA Airport]] as a regional hub, with Kenya Airways (Kenya's national carrier) making [[JKIA Airport]] its primary hub.
+**Airlines**: Multiple international airlines use [[49_JKIA_Airport]] as a regional hub, with Kenya Airways (Kenya's national carrier) making [[49_JKIA_Airport]] its primary hub.
 
-**Route Network**: [[JKIA Airport]] hosts connections to major global destinations, making it the region's international gateway.
+**Route Network**: [[49_JKIA_Airport]] hosts connections to major global destinations, making it the region's international gateway.
 
 ## Airline Operations
 

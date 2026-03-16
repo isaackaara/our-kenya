@@ -21,7 +21,7 @@ The 1997 election result demonstrated the limitations of an opposition strategy 
 - [[Democratic Party (Kenya)]]
 - [[2002 Election Kibaki Campaign]]
 - [[Kikuyu]]
-- [[Opposition parties in Kenya]]
+- [[Moi and the Opposition]]
 
 ## Sources
 

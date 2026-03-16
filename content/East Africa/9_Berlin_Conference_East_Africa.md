@@ -16,7 +16,7 @@ The Conference and subsequent bilateral treaties between European powers establi
 
 **[[Kenya]]**: Britain claimed territory north to the Sudan border. The Kenya-Uganda border was established as a north-south line, dividing the East African plateau and separating peoples who had migrated and traded across the region for centuries.
 
-**[[Kenya]]**: Britain claimed Kenya (then British East Africa). Germany claimed Tanganyika (then [[East Africa]]). The border between them was established as a line running from [[Mount Kilimanjaro]] in the south northward to the Uganda border. This line cut through [[Maasai]] pastoral lands and divided cultural groups.
+**[[Kenya]]**: Britain claimed Kenya (then British East Africa). Germany claimed Tanganyika (then [[East Africa]]). The border between them was established as a line running from [[17_Mount_Kilimanjaro]] in the south northward to the Uganda border. This line cut through [[Maasai]] pastoral lands and divided cultural groups.
 
 **[[Kenya]]**: The northern border between British East Africa and Ethiopia (which resisted colonization) was established through bilateral agreement between Britain and Ethiopia, creating what became the Northern Frontier District of Kenya.
 

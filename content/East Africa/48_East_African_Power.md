@@ -8,7 +8,7 @@ The [[East Africa]] Pool (EAPP) coordinates electricity generation and distribut
 
 Kenya leads [[East African Community]] in geothermal electricity generation:
 
-**Geothermal Capacity**: Kenya operates the largest geothermal power plants in Africa, centered in the Olkaria field in the [[Great Rift Valley]].
+**Geothermal Capacity**: Kenya operates the largest geothermal power plants in Africa, centered in the Olkaria field in the [[16_Great_Rift_Valley]].
 
 **Production**: Geothermal power provides roughly 35-40 percent of Kenya's electricity supply, one of the highest geothermal shares globally.
 
@@ -118,10 +118,10 @@ East Africa's energy future appears oriented toward:
 
 ## See Also
 
-- [[Great Rift Valley]]
+- [[16_Great_Rift_Valley]]
 - [[East Africa]]
 - [[Kenya]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[East Africa]]
 - [[Uhuru and Lamu Port LAPSSET Corridor]]
 - [[East Africa Timeline]]

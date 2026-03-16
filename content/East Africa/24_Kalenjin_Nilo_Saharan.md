@@ -12,19 +12,19 @@ The [[Kalenjin]] peoples of Kenya are part of a broader Nilo-Saharan linguistic 
 
 **Linguistic Ties**: All [[Kalenjin]] varieties share common vocabulary and structure, indicating a shared linguistic origin within the last 1,000 years.
 
-**Geographic Distribution**: [[Kalenjin]] speakers occupy the western highlands of Kenya, particularly the [[Great Rift Valley]] and surrounding plateaus.
+**Geographic Distribution**: [[Kalenjin]] speakers occupy the western highlands of Kenya, particularly the [[16_Great_Rift_Valley]] and surrounding plateaus.
 
 ## Kalenjin Communities in Kenya
 
 Kenya hosts the largest concentration of [[Kalenjin]] speakers:
 
-**Kalenjin Proper (Kale)**: Roughly 500,000 speakers in the [[Great Rift Valley]] region.
+**Kalenjin Proper (Kale)**: Roughly 500,000 speakers in the [[16_Great_Rift_Valley]] region.
 
-**Nandi**: Roughly 700,000 speakers in the highlands west of the [[Great Rift Valley]], known for pastoralism and agricultural innovation.
+**Nandi**: Roughly 700,000 speakers in the highlands west of the [[16_Great_Rift_Valley]], known for pastoralism and agricultural innovation.
 
 **Kipsigis**: Roughly 500,000 speakers in the southwestern highlands, with strong pastoral and agricultural traditions.
 
-**Tugen**: Roughly 200,000 speakers in the [[Great Rift Valley]] floor and surrounding areas.
+**Tugen**: Roughly 200,000 speakers in the [[16_Great_Rift_Valley]] floor and surrounding areas.
 
 **Marakwet**: Roughly 150,000 speakers in the northern highlands, known for irrigation agriculture.
 
@@ -88,17 +88,17 @@ The [[Kenya]] divides [[Kalenjin]]-related communities:
 
 **Ethnic Consciousness**: [[Kalenjin]] have developed a strong sense of ethnic identity, often organizing politically along ethnic lines.
 
-**Regional Identity**: [[Kalenjin]] are often identified with Kenya's [[Great Rift Valley]] region, particularly the highlands and plateau areas.
+**Regional Identity**: [[Kalenjin]] are often identified with Kenya's [[16_Great_Rift_Valley]] region, particularly the highlands and plateau areas.
 
 **National Integration**: Simultaneously, [[Kalenjin]] have integrated into broader Kenyan national identity and participate across all sectors of Kenyan society.
 
 ## See Also
 
-- [[Great Rift Valley]]
+- [[16_Great_Rift_Valley]]
 - [[Kenya]]
 - [[Luo Language]]
 - [[Maasai]]
-- [[Mount Kilimanjaro]]
+- [[17_Mount_Kilimanjaro]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -22,7 +22,7 @@ The connection between Kogelo and the Obama family carries broader meaning for K
 
 ## Cross-links
 - [[Raila Odinga]]
-- [[Barack Obama Sr.]]
+- [[Barack Obama Sr]]
 - [[Luo Origins]]
 - [[Luo Land and Fishing]]
 ## See Also

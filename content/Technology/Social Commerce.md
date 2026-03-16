@@ -10,7 +10,7 @@ Peer recommendation commerce recognized value of trusted networks for purchasing
 
 ## See Also
 
-[[E-Commerce Platforms Kenya]], [[Social Media Kenya]], [[Digital Marketing Tools]], [[Mobile Internet Growth]], [[Entrepreneurship Kenya]], [[Consumer Technology]]
+[[E-Commerce Platforms Kenya]], [[Social Media Kenya]], [[Digital Marketing Tools]], [[Mobile Internet Growth]], [[Entrepreneurship Kenya]], [[Technology]]
 
 ## Sources
 

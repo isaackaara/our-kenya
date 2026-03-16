@@ -11,7 +11,7 @@ Samburu youth enlist in KDF seeking employment and income. Military service prov
 ## See Also
 
 - [[Samburu Youth]]
-- [[Samburu Economy]]
+- [[Samburu Beadwork Economy]]
 - [[Samburu Pastoralism]]
 - [[Kenya Defence Forces]]
 - [[Employment in East Africa]]

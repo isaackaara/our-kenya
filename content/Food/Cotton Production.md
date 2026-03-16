@@ -20,11 +20,11 @@ Land pressure and crop competition meant cotton cultivation competed for land wi
 
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
-[[Textile Industry History]]
+[[Tea Industry History]]
 [[Pesticide Use Agriculture]]
 [[Commodity Price Volatility]]
 [[Water Resources Management]]
-[[Export Economy Kenya]]
+[[The NGO Economy]]
 
 ## Sources
 

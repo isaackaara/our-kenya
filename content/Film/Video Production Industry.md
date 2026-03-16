@@ -8,7 +8,7 @@ Training and skills development within the video production industry occurred pr
 
 The transition to digital production technologies democratized video production by reducing technical barriers and capital requirements. Digital cameras, non-linear editing software, and web-based distribution platforms enabled individuals to produce broadcast-quality content with modest equipment investments. This democratization created abundance of video content and challenged established production companies' market dominance. The most successful producers adapted by specializing in complex productions requiring substantial technical expertise and creative direction rather than competing on basic production services where newer entrants could match quality at lower cost.
 
-See Also: [[Film Production Companies]], [[Television Studios]], [[Advertising Commercial]], [[Wedding Video Industry]], [[Corporate Video]], [[Documentary Film]], [[Television Broadcasting]]
+See Also: [[Film Production Companies]], [[Television Studios]], [[Advertising Commercial]], [[Wedding Video Industry]], [[Corporate Video]], [[Documentary Film]], [[KTN Broadcasting]]
 
 Sources:
 1. https://www.video-producers-association-kenya.org/

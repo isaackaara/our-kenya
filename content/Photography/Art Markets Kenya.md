@@ -9,7 +9,7 @@ Art market dynamics reward certain work while marginalizing other practice. Mark
 ## See Also
 - [[Contemporary Art Economics]]
 - [[Gallery Business Models]]
-- [[Collector Networks Kenya]]
+- [[Collector Networks]]
 - [[Art Pricing and Valuation]]
 - [[Artist Representation]]
 - [[Commercial versus Artistic Value]]

@@ -1,4 +1,4 @@
-The [[World Food Programme]] (WFP) assumed responsibility for food distribution in Kenya's refugee camps, coordinating the provision of monthly rations intended to meet minimum caloric and nutritional requirements for hundreds of thousands of refugee residents. Standard rations in [[Dadaab Refugee Camp|Dadaab]] and [[Kakuma Refugee Camp|Kakuma]] consisted of cereal, legumes, oil, and sugar, distributed through registered household heads. However, rationing proved deeply inadequate relative to actual needs. Newly arrived refugees faced processing delays averaging 12 days before receiving initial rations; this delay period created acute food insecurity and malnourishment among populations arriving in weakened condition from protracted displacement journeys. Vulnerable populations including children under five and pregnant and lactating women received priority ration distribution, acknowledging their heightened health risks.
+The [[Food]] (WFP) assumed responsibility for food distribution in Kenya's refugee camps, coordinating the provision of monthly rations intended to meet minimum caloric and nutritional requirements for hundreds of thousands of refugee residents. Standard rations in [[Dadaab Refugee Camp|Dadaab]] and [[Kakuma Refugee Camp|Kakuma]] consisted of cereal, legumes, oil, and sugar, distributed through registered household heads. However, rationing proved deeply inadequate relative to actual needs. Newly arrived refugees faced processing delays averaging 12 days before receiving initial rations; this delay period created acute food insecurity and malnourishment among populations arriving in weakened condition from protracted displacement journeys. Vulnerable populations including children under five and pregnant and lactating women received priority ration distribution, acknowledging their heightened health risks.
 
 Food security remained precarious throughout the camps' histories. WFP budgets consistently failed to expand proportionally with refugee population growth. Periodic humanitarian funding shortfalls resulted in ration reductions; in times of global humanitarian budget constraints, refugee rations contracted substantially. These reductions created documented impacts on refugee nutrition, health outcomes, and social stability. Malnourished populations experienced higher disease incidence and mortality, particularly among young children. School attendance declined when households could not afford school meals or lacked energy for educational engagement. Food insecurity occasionally triggered community tension and violence; documented instances of ration distribution disputes and organized theft indicated the desperation accompanying food scarcity.
 
@@ -13,7 +13,7 @@ Food distribution systems reflected broader tensions within refugee governance. 
 [[Refugee Business Opportunities]]
 [[Malnutrition Child Health]]
 [[Dadaab Refugee Camp]]
-[[World Food Programme Kenya]]
+[[Food]]
 
 ## Sources
 

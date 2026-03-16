@@ -24,8 +24,8 @@ Aquaculture growth remained hindered by technical, economic, and institutional c
 [[Fishing Aquaculture]]
 [[Water Resources Management]]
 [[Food Security Policies]]
-[[Environmental Sustainability]]
-[[Market Development Agriculture]]
+[[Environmental Art]]
+[[Development Aid]]
 [[Smallholder Agriculture]]
 
 ## Sources

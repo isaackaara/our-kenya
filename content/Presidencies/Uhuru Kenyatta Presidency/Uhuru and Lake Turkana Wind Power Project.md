@@ -13,7 +13,7 @@ By Uhuru's presidency's end, Lake Turkana Wind Power had become a functioning bu
 [[Renewable Energy Development Kenya]]
 [[Uhuru and Climate Change Policy]]
 [[Infrastructure Development Northern Kenya]]
-[[Private Investment in Kenya Energy]]
+[[Art Investment]]
 [[Electricity Generation Capacity Kenya]]
 
 ## Sources

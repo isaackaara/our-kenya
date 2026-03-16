@@ -24,7 +24,7 @@ The COVID-19 pandemic highlighted needs for regional coordination that had weake
 - [[Healthcare Worker Shortages]]
 - [[Health Ministry Reorganization]]
 - [[Hospital Infrastructure Standards]]
-- [[Presidencies Kenya]]
+- [[Presidencies]]
 
 ## Sources
 1. Tsofa, B., et al. "How do health systems adapt? The experience of the Kenyan health system in transitioning to devolved provision." Health Policy and Planning 32.8 (2017): 1168-1180.

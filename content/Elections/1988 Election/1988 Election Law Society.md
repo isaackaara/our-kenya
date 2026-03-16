@@ -5,7 +5,7 @@ Kenyan lawyers challenged the 1988 election and the mlolongo system in court. Th
 - [[Law Society Kenya]]
 - [[Kenya]]
 - [[Kenya]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Daniel arap Moi]]
 
 ## Sources

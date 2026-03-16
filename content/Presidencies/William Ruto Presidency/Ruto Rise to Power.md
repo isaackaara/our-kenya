@@ -1,4 +1,4 @@
-[[William Kipchoge Arap Ruto]]'s ascent to Kenya's presidency from background in business and politics represented an unconventional political trajectory. Born in 1966 to a Kalenjin pastoral family, Ruto pursued higher education and emerged as a businessman in the dairy industry and other ventures before entering politics. His political rise accelerated during [[Daniel arap Moi]]'s presidency and continued under subsequent administrations. Ruto accumulated substantial wealth, sometimes attributed to business acumen and sometimes questioned as potentially deriving from corrupt deals. His eventual presidency came despite facing International Criminal Court charges related to post-2007 election violence.
+[[William Ruto]]'s ascent to Kenya's presidency from background in business and politics represented an unconventional political trajectory. Born in 1966 to a Kalenjin pastoral family, Ruto pursued higher education and emerged as a businessman in the dairy industry and other ventures before entering politics. His political rise accelerated during [[Daniel arap Moi]]'s presidency and continued under subsequent administrations. Ruto accumulated substantial wealth, sometimes attributed to business acumen and sometimes questioned as potentially deriving from corrupt deals. His eventual presidency came despite facing International Criminal Court charges related to post-2007 election violence.
 
 Ruto entered parliament representing his Rift Valley constituency in 1997. As a relatively young politician with business experience, he attracted attention and opportunities. Under Moi's government, Ruto benefited from patronage networks and government contracts that enhanced his business interests. His political prominence expanded during this period, positioning him as a rising political figure within the Kalenjin community. The 1982 coup attempt and subsequent consolidation of Moi's Kalenjin base created opportunities for politically connected Kalenjin businesspeople and politicians.
 
@@ -16,7 +16,7 @@ The 2022 election victory surprised many observers who had predicted Raila Oding
 
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Kenya 2022 Election|Kenya 2022 Election]]
-- [[Kalenjin Politics|Kalenjin Politics]]
+- [[Kalenjin and Maize Politics|Kalenjin Politics]]
 - [[International Criminal Court Kenya|International Criminal Court Kenya]]
 
 ## Sources

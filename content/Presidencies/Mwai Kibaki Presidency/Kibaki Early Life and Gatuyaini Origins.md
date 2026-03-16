@@ -10,12 +10,12 @@ By the time Kibaki left Nyeri for secondary education, he was already marked by 
 
 ## See Also
 
-[[Kikuyu Kingdoms and Leadership|Kikuyu Leadership]]
-[[Nyeri District in the Colonial Period]]
+[[Kikuyu|Kikuyu Leadership]]
+[[Nyeri and the Mau Mau]]
 [[Kenya Colonial Elite Formation]]
 [[Early Life of Kenyan Presidents]]
 [[Central Province Agriculture and Commerce]]
-[[Kikuyu Entrepreneurship Colonial Era]]
+[[Kikuyu]]
 
 ## Sources
 

@@ -2,7 +2,7 @@ Public reaction to the 1988 election was one of massive outrage. The visible rig
 
 ## See Also
 - [[1988 Election]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Kenya]]
 - [[Churches Kenya]]
 - [[Saba Saba 1990]]

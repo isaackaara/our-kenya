@@ -10,7 +10,7 @@ Real estate and infrastructure applications utilized drone photography for prope
 
 ## See Also
 
-[[Unmanned Aerial Vehicles]], [[Agricultural Technology]], [[Conservation Technology]], [[Logistics Innovation]], [[Technology Innovation]], [[Regulatory Framework]]
+[[Unmanned Aerial Vehicles]], [[Technology]], [[Conservation Technology]], [[Logistics Innovation]], [[Health Technology Innovation]], [[Regulatory Framework]]
 
 ## Sources
 

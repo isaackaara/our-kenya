@@ -15,7 +15,7 @@ Educational technology has created new contexts for literacy movements. Digital 
 Contemporary literacy movements in Kenya continue addressing persistent gaps in literacy access and quality. While basic literacy levels have improved substantially since independence, challenges remain including low reading comprehension, limited engagement with literary culture among some populations, and the quality of literacy instruction in resource-constrained schools.
 
 ## See Also
-- [[Educational Literature Development]]
+- [[Literature]]
 - [[Libraries Archives]]
 - [[Language Preservation Literature]]
 - [[Kenyan Language Literature]]

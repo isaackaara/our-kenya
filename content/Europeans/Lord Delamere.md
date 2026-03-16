@@ -1,4 +1,4 @@
-[[Hugh Cholmondeley]], 3rd Baron Delamere (1870-1931), was the most influential [[1963 Election European Settlers]] in Kenya's history. He arrived in 1897, acquired vast tracts of land in the [[Rift Valley]], pioneered large-scale [[European agriculture]] in the highlands, and became the political leader of the [[settler community]]. His vision of Kenya as a "white man's country" with reserved lands for [[European Settlement Overview]] shaped [[colonial land policy]] and created resentment that would fuel [[anti-colonial resistance]].
+[[Hugh Cholmondeley]], 3rd Baron Delamere (1870-1931), was the most influential [[1963 Election European Settlers]] in Kenya's history. He arrived in 1897, acquired vast tracts of land in the [[Rift Valley]], pioneered large-scale [[European agriculture]] in the highlands, and became the political leader of the [[Moi and the Luo Community]]. His vision of Kenya as a "white man's country" with reserved lands for [[European Settlement Overview]] shaped [[colonial land policy]] and created resentment that would fuel [[anti-colonial resistance]].
 
 ## Early Life and Arrival
 

@@ -23,7 +23,7 @@ Moi's presidency saw some manufacturing development, particularly in food proces
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Goldenberg Scandal|Goldenberg Scandal]]
 - [[Kenya Structural Adjustment|Kenya Structural Adjustment]]
-- [[Kenya Agriculture|Kenya Agriculture]]
+- [[Women and Agriculture Land Kenya|Kenya Agriculture]]
 - [[Kenya Tourism|Kenya Tourism]]
 
 ## Sources

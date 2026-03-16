@@ -53,7 +53,7 @@ The SGR's future depends on improving operational efficiency and demand. Additio
 - [[Chinese Investment Kenya]]
 - [[Transport Kenya]]
 - [[East Africa]]
-- [[Regional Railway Networks Kenya]]
+- [[Luo and the Railway]]
 
 ## Sources
 

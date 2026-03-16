@@ -1,4 +1,4 @@
-[[Women]] in [[Meru society]] navigate [[traditional roles and expectations]] alongside [[contemporary opportunities]] for [[education]], [[employment]], and [[political participation]]. [[Gender relations]] in Meru reflect both continuity with [[precolonial practices]] and significant changes brought by [[colonialism]], [[Christianity]], and [[modernization]].
+[[Women]] in [[Meru society]] navigate [[traditional roles and expectations]] alongside [[contemporary opportunities]] for [[education]], [[employment]], and [[Asian Political Participation]]. [[Coastal Gender Relations]] in Meru reflect both continuity with [[precolonial practices]] and significant changes brought by [[colonialism]], [[Christianity]], and [[modernization]].
 
 ## Traditional Gender Roles
 

@@ -62,7 +62,7 @@ The future of Asian political participation depends on multiple factors includin
 - [[Asian Kenyans and Politics]]
 - [[Asian Kenyan Identity 2026]]
 - [[Kenya]]
-- [[Ethnic politics Kenya]]
+- [[Kibaki and Ethnic Politics Mount Kenya Dominance]]
 
 ## Sources
 

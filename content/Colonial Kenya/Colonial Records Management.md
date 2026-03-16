@@ -22,7 +22,7 @@ The recognition of records management as important administrative function has l
 [[Colonial Archives]]
 [[Colonial Bureaucracy]]
 [[Colonial Administration]]
-[[Historical Documentation]]
+[[Art Documentation]]
 [[Colonial Knowledge Production]]
 
 ## Sources

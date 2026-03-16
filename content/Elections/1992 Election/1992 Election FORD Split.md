@@ -15,7 +15,7 @@ The FORD split also reflected the absence of institutional mechanisms for opposi
 - [[Oginga Odinga]]
 - [[Kenneth Matiba]]
 - [[Mwai Kibaki]]
-- [[Opposition Coalition]]
+- [[Moi and the Opposition]]
 - [[Electoral Systems and Outcomes]]
 
 ## Sources

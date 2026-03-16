@@ -18,8 +18,8 @@ By the 1950s, nationalist movements identified inadequate social services as evi
 
 ## See Also
 [[Education]]
-[[Colonial Healthcare]]
-[[Colonial Discrimination]]
+[[Colonial Medicine Healthcare]]
+[[Colonial Racial Discrimination]]
 [[Colonial Class System]]
 [[Missionisation]]
 [[African Welfare]]

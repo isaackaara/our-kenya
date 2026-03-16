@@ -14,7 +14,7 @@ The scandal and its inadequate resolution revealed the disconnect between Uhuru'
 [[Uhuru Youth Unemployment Policy]]
 [[Justice Sector Reforms 2013-2022]]
 [[Transparency in Government Kenya]]
-[[Public Fund Management Failures]]
+[[Public Art]]
 
 ## Sources
 1. https://www.standardmedia.co.ke/politics/article/2001169835/the-nys-scandal-791m-loss-that-changed-nothing

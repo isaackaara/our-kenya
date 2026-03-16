@@ -20,7 +20,7 @@ The architectural and urban design legacy of colonialism reflects historical pow
 [[Highland Settler Farms]]
 [[Railway Station Architecture]]
 [[Independence Development]]
-[[British Rule Kenya]]
+[[Luo and the British]]
 
 ## Sources
 

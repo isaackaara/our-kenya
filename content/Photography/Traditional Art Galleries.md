@@ -13,7 +13,7 @@ The categorization of art as traditional versus contemporary reflects power rela
 - [[Art Historical Narratives]]
 - [[Gallery Categorization Practices]]
 - [[Art Market Segmentation]]
-- [[Museum Collection Policies]]
+- [[Moi Art Collection]]
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/collections - NMK Traditional Art

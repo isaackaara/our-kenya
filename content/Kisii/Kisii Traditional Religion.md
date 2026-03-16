@@ -19,7 +19,7 @@ Religious practice focused more on appeasing spirits and ancestors than on direc
 
 ## Ancestor Spirits (Ebirecha)
 
-Ancestor spirits, called [[ebirecha]] in [[Ekegusii Language]], were central to Gusii religious life:
+Ancestor spirits, called [[ebirecha]] in [[Ekegusii Language and Linguistic Identity]], were central to Gusii religious life:
 
 **Function and significance:**
 

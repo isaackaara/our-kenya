@@ -128,7 +128,7 @@ Contemporary Somali weddings face challenges including:
 - [[Somali Elders and Governance]]
 - [[Somali Women Entrepreneurs]]
 - [[Xeer Customary Law]]
-- [[Somali Culture and Identity]]
+- [[Somali]]
 
 ## Sources
 

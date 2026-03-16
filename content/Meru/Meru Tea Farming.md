@@ -4,7 +4,7 @@ title: Meru Tea Farming and KTDA
 
 # Tea Farming in Meru: KTDA Smallholders and Highland Economy
 
-The [[Meru highlands]], particularly [[Imenti]] North and Central divisions, have become significant [[tea-growing]] regions. [[Tea]] production rivals [[miraa]] as an [[economic mainstay]] and represents a more [[stable, internationally regulated commodity]] than the volatile miraa market.
+The [[Meru highlands]], particularly [[Imenti People]] North and Central divisions, have become significant [[tea-growing]] regions. [[Tea]] production rivals [[miraa]] as an [[economic mainstay]] and represents a more [[stable, internationally regulated commodity]] than the volatile miraa market.
 
 ## Geography and Climate Suitability
 
@@ -79,7 +79,7 @@ Some Meru tea farmers have experimented with alternative crops or value-added pr
 
 ## See Also
 
-- [[Meru Agriculture]]
+- [[Meru Agriculture Overview]]
 - [[Meru Economic Development]]
 - [[Meru Sub-groups]]
 - [[Meru and Climate Change Adaptation]]

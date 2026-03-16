@@ -22,7 +22,7 @@ The practice remains contested within women's rights discourse in Kenya. While s
 [[Women Organizations Advocacy]]
 [[Reproductive Rights Advocacy]]
 [[Religion/Religion in Kenya|Religious Perspectives]]
-[[Human Rights]]
+[[Human Rights Military Operations]]
 
 ## Sources
 

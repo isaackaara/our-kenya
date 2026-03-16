@@ -38,7 +38,7 @@ Some argue that Asians' political marginalization reflects their own choices: th
 - [[Asian Political Representation in Colonial Kenya]]
 - [[Asian Kenyan Identity 2026]]
 - [[Kenya]]
-- [[Ethnic politics Kenya]]
+- [[Kibaki and Ethnic Politics Mount Kenya Dominance]]
 
 ## Sources
 

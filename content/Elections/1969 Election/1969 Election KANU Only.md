@@ -17,7 +17,7 @@ The election results (KANU won all seats) reflected not an overwhelming expressi
 - [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
 - [[Single-Party State Kenya]]
-- [[KANU Primary 1969]]
+- [[1969 Election KANU Primary]]
 - [[Electoral Systems and Representation]]
 
 ## Sources

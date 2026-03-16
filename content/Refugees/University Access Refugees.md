@@ -11,7 +11,7 @@ The structural barriers to university access reflected both resource constraints
 [[Education Refugee Camps]]
 [[Refugee School Performance]]
 [[Resettlement Third Countries]]
-[[Refugee Livelihood Programs]]
+[[Livelihood Programs]]
 [[Dadaab Refugee Camp]]
 [[Educational Opportunity Gap]]
 

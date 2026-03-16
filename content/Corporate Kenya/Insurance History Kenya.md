@@ -20,7 +20,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Insurance History Kenya]] Regulatory Authority]]
 - [[Banking History Kenya]]
 - [[Pension Sector Kenya]]
-- [[Corporate Governance Kenya]]
+- [[Corporate Kenya]]
 - [[Financial Regulation Kenya]]
 - [[Kenya Economic Overview]]
 

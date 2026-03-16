@@ -17,7 +17,7 @@ The openness of the 1974 KANU primary, allowing competitive elections that produ
 - [[Daniel arap Moi]]
 - [[Charles Njonjo]]
 - [[1974 Election]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[Kenya]]
 
 ## Sources

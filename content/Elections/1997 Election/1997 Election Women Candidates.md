@@ -21,8 +21,8 @@ The 1997 election outcomes regarding women reflected these structural barriers. 
 - [[1997 Election]]
 - [[Women]]
 - [[Charity Ngilu]]
-- [[Gender representation in Kenya]]
-- [[2010 Constitution gender provisions]]
+- [[Gender Pay Gap]]
+- [[The Constitution of 2010]]
 - [[Women]]
 
 ## Sources

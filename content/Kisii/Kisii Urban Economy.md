@@ -48,7 +48,7 @@ tags: kisii gusii urban economy traders merchants chama savings groups
 
 ## The Chama (Savings Group) Culture
 
-One of the most distinctive features of Kisii economy is the ubiquity of [[chama]], savings and lending groups:
+One of the most distinctive features of Kisii economy is the ubiquity of [[Chama and Self-Help Economics]], savings and lending groups:
 
 **Structure:**
 

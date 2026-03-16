@@ -9,7 +9,7 @@ International trafficking of Kenyan children involves primarily girls to Middle 
 Interventions addressing trafficking include victim rescue, rehabilitation, and prevention programming. Rescue operations identify and retrieve trafficked children from exploitation situations, typically coordinated by police, immigration officials, and NGO partners. Rehabilitation programs provide shelter, health services, psychosocial support, and legal aid to rescued victims. Community awareness raises knowledge of trafficking risks and recruitment methods. Education and economic opportunity programs reduce vulnerability by removing necessity drivers. However, interventions reach limited numbers of trafficked children; demand for cheap exploitable labor perpetuates trafficking. International cooperation through treaties and extradition agreements strengthens law enforcement, but enforcement capacity in Kenya remains limited.
 
 ## See Also
-[[Child Labor Poverty]], [[Street Children]], [[Poverty Measurement]], [[Forced Labor]], [[Sexual Exploitation]], [[Human Rights]], [[Labor Rights]], [[Social Protection]]
+[[Child Labor Poverty]], [[Street Children]], [[Poverty Measurement]], [[Forced Labor]], [[Sexual Exploitation Prevention]], [[Human Rights Military Operations]], [[Labor Rights Awareness]], [[Social Protection]]
 
 ## Sources
 1. International Labour Organization (2017). "Global Estimates of Child Labour and Child Trafficking." https://www.ilo.org

@@ -1,6 +1,6 @@
 ## Overview
 
-Public procurement is the largest single opportunity for corruption in Kenya's government. The [[World Bank IMF Kenya Corruption]] estimates that Kenya loses approximately 30 percent of its annual public procurement budget to corruption, equivalent to over KES 300 billion annually. The mechanisms include [[bid rigging]], inflated contracts, [[ghost suppliers]], and allocation of contracts to unqualified firms in exchange for bribes.
+Public procurement is the largest single opportunity for corruption in Kenya's government. The [[World Bank IMF Kenya Corruption]] estimates that Kenya loses approximately 30 percent of its annual public procurement budget to corruption, equivalent to over KES 300 billion annually. The mechanisms include [[1988 Election Rigging Mechanism]], inflated contracts, [[ghost suppliers]], and allocation of contracts to unqualified firms in exchange for bribes.
 
 ## Bid Rigging
 

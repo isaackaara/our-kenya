@@ -24,7 +24,7 @@ Customary practices affecting women's status and rights, including practices reg
 - [[Taita-Taveta County]]
 - [[Taita People County]]
 - [[Women]]
-- [[Gender Equality Kenya]]
+- [[Gender Pay Gap]]
 - [[Women]]
 - [[Health]]
 - [[Education]]

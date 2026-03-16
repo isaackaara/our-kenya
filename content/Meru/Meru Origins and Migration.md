@@ -1,4 +1,4 @@
-The origins of the [[Meru people]] remain embedded in [[oral tradition]] and [[historical memory]]. The Meru trace their ancestry to [[migration movements]] from the [[East African]] coast and interior regions, eventually settling in the highlands surrounding [[Mount Kenya]] (Kirinyaga in Kimeru).
+The origins of the [[Meru people]] remain embedded in [[Kamba Literature and Oral Tradition Archive]] and [[historical memory]]. The Meru trace their ancestry to [[migration movements]] from the [[East African]] coast and interior regions, eventually settling in the highlands surrounding [[Mount Kenya]] (Kirinyaga in Kimeru).
 
 ## The Mbwa and Mboone Tradition
 

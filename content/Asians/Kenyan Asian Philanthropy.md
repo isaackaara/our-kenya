@@ -1,8 +1,8 @@
-Kenyan Asians have a strong tradition of philanthropy, giving back to communities through donations to education, health, religion, and culture. This philanthropic work reflects both business success and cultural values emphasizing [[community responsibility]].
+Kenyan Asians have a strong tradition of philanthropy, giving back to communities through donations to education, health, religion, and culture. This philanthropic work reflects both business success and cultural values emphasizing [[Moi and the Luo Community]].
 
 ## Major Foundations
 
-The [[Aga Khan Development Network]] is the largest Ismaili philanthropic vehicle, operating hospitals, schools, and other institutions. The [[Chandaria Foundation]], established by [[Manu Chandaria]], supports education and healthcare in Africa and Asia. Both represent major commitments of wealth to social benefit.
+The [[Development Aid]] is the largest Ismaili philanthropic vehicle, operating hospitals, schools, and other institutions. The [[Chandaria Foundation]], established by [[Manu Chandaria]], supports education and healthcare in Africa and Asia. Both represent major commitments of wealth to social benefit.
 
 ## Religious Institution Support
 

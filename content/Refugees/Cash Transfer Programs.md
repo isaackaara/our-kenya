@@ -12,8 +12,8 @@ Cash transfer methodology diversified over time. Some programs distributed cash 
 [[Refugee Business Opportunities]]
 [[Food Distribution Systems]]
 [[Vulnerable Populations Protection]]
-[[Refugee Economic Integration]]
-[[Poverty Refugee Camps]]
+[[Refugee Integration]]
+[[Poverty]]
 
 ## Sources
 

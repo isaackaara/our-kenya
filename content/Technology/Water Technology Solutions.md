@@ -10,7 +10,7 @@ Smart water management systems utilized sensors and automation optimizing water 
 
 ## See Also
 
-[[Water Security Kenya]], [[Agriculture Technology]], [[Climate Change Response]], [[Environmental Conservation]], [[Renewable Energy Tech]], [[Infrastructure Development]]
+[[Job Security]], [[Technology]], [[Climate Change Response]], [[Female Environmental Conservation]], [[Renewable Energy Tech]], [[Infrastructure Development]]
 
 ## Sources
 

@@ -8,7 +8,7 @@ The relationship between Kenyan advertising production and international adverti
 
 The regulatory environment for commercial advertising evolved to address consumer protection and content standards. Broadcasting authorities established regulations limiting advertising duration, prohibited claims, and restricted advertising of particular products. Alcohol and tobacco advertising faced particular restrictions, constraining production of commercials for these products. The self-regulatory advertising industry standards organization developed code of conduct addressing truthfulness, social responsibility, and other concerns. These regulatory frameworks shaped what commercials could communicate and how they could present product information and brand messages.
 
-See Also: [[Television Advertising]], [[Film Production Companies]], [[Video Production Industry]], [[Marketing Communications]], [[Brand Advertising]], [[Sponsorship Deals]], [[Film Marketing]]
+See Also: [[Television Advertising]], [[Film Production Companies]], [[Video Production Industry]], [[Marketing Communications]], [[Advertising Art]], [[Sponsorship Deals]], [[Film Marketing]]
 
 Sources:
 1. https://www.advertising-association-kenya.org/

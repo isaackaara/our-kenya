@@ -1,4 +1,4 @@
-The Anglican Church, arriving through the [[Church Missionary Society|Church Missionary Society]], became the most established and institutionally powerful Protestant denomination in Kenya. The CMS focused on the central highlands, establishing missions at key locations like Kikuyu, Kariokor, and Limuru. The Church of England's status as the established church in Britain and its close alignment with British imperial ideology gave Anglicanism particular prominence in the colonial project. The CMS positioned itself as the civilizing arm of British authority, providing education, medical care, and moral formation alongside preaching the Gospel.
+The Anglican Church, arriving through the [[Church Missionary Society in Kenya|Church Missionary Society]], became the most established and institutionally powerful Protestant denomination in Kenya. The CMS focused on the central highlands, establishing missions at key locations like Kikuyu, Kariokor, and Limuru. The Church of England's status as the established church in Britain and its close alignment with British imperial ideology gave Anglicanism particular prominence in the colonial project. The CMS positioned itself as the civilizing arm of British authority, providing education, medical care, and moral formation alongside preaching the Gospel.
 
 Anglican expansion in the Kikuyu region was particularly successful. The church established schools that became prestigious pathways to education. Key Kikuyu elites, including individuals who would become nationalist leaders, were educated in Anglican schools. The church created a network of congregations, schools, and institutions that gave Kikuyu society Anglican character. The Anglican tradition's emphasis on liturgy, sacrament, and episcopal authority created institutional structures that remained even when European missionary leadership was eventually replaced by African bishops and clergy.
 
@@ -12,7 +12,7 @@ By the late 20th century, the Anglican Church of Kenya remained one of the large
 
 ## See Also
 - [[Christianity and Colonial Missions]]
-- [[Church Missionary Society]]
+- [[Church Missionary Society in Kenya]]
 - [[Christian Schools Education]]
 - [[Kikuyu Religion Colonialism]]
 - [[Religious Opposition Colonialism]]

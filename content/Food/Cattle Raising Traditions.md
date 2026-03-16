@@ -22,7 +22,7 @@ Modern cattle raising reflects tensions between traditional pastoral knowledge s
 [[Dairy Industry Development]]
 [[Beef Production Chain]]
 [[Land Distribution Kenya]]
-[[Environmental Resource Management]]
+[[Environmental Art]]
 
 ## Sources
 

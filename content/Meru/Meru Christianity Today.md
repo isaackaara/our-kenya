@@ -98,7 +98,7 @@ For many Meru, Christianity is intertwined with Kenyan identity and modern Meru 
 - [[Catholic Church in Meru]]
 - [[Njuri Ncheke]]
 - [[Meru Religion and Spirituality]]
-- [[Meru Culture]]
+- [[Meru Food Culture]]
 - [[Consolata Missionaries]]
 - [[Kenya Christian Churches]]
 

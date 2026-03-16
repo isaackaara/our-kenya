@@ -35,7 +35,7 @@ Conservation has restricted pastoral access to traditional lands. Pastoralist re
 
 ## See Also
 
-- [[Laikipia Kikuyu Heritage|Laikipia Kikuyu Heritage]]
+- [[Kikuyu|Laikipia Kikuyu Heritage]]
 - [[Kikuyu|Kikuyu Culture]]
 - [[Mau Mau Uprising|Mau Mau History]]
 - [[Laikipia Land|Land Issues]]

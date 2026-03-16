@@ -23,7 +23,7 @@ Housing rights in marriage have become focal property issue. Women's secure hous
 [[Women Land Rights]]
 [[Female Inheritance Disputes]]
 [[Divorce Law Economic]]
-[[Customary Law]]
+[[Xeer Customary Law]]
 [[Constitutional Reform 2010]]
 [[Women Legal Aid]]
 

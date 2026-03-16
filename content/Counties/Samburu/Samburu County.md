@@ -17,7 +17,7 @@ Samburu County ranks among the lowest of Kenya's 47 counties on multiple develop
 [[Samburu Education]]
 [[Samburu National Reserve County]]
 [[Maralal Town]]
-[[Samburu People]]
+[[Samburu People County]]
 [[Pastoralism Under Pressure]]
 
 ## Sources

@@ -7,7 +7,7 @@ tags: kisii gusii colonial resistance 1904 1908 punitive expeditions
 
 ## British Arrival and Early Contact
 
-[[British colonial rule in Kenya|British colonial administration]] reached the [[Gusii people|Gusii]] highlands in the early 1900s. The process of establishing [[British colonial rule in Kenya|colonial control]] was contested and resulted in [[Gusii resistance|military resistance]].
+[[British colonial rule in Kenya|British colonial administration]] reached the [[Gusii people|Gusii]] highlands in the early 1900s. The process of establishing [[British colonial rule in Kenya|colonial control]] was contested and resulted in [[Gusii and the Mau Mau|military resistance]].
 
 ## The 1904 Punitive Expedition
 
@@ -93,7 +93,7 @@ tags: kisii gusii colonial resistance 1904 1908 punitive expeditions
 
 ## Summary
 
-Colonial conquest of Kisii involved military resistance and suppression, followed by establishment of colonial administration. Missionary activity, particularly by the [[Seventh-day Adventist Church]], introduced [[Christian religion|Christianity]] and [[Kisii Education Culture|education]], fundamentally transforming [[Gusii people|Gusii]] society. The combination of missionary education and land pressure would, in subsequent decades, drive the [[Gusii people|Gusii]] emphasis on [[Kisii Education Culture|education]] as a pathway to advancement.
+Colonial conquest of Kisii involved military resistance and suppression, followed by establishment of colonial administration. Missionary activity, particularly by the [[Seventh-day Adventist Church]], introduced [[Music and Pre-Christian Religion Kenya|Christianity]] and [[Kisii Education Culture|education]], fundamentally transforming [[Gusii people|Gusii]] society. The combination of missionary education and land pressure would, in subsequent decades, drive the [[Gusii people|Gusii]] emphasis on [[Kisii Education Culture|education]] as a pathway to advancement.
 
 ## See Also
 

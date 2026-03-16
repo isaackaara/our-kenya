@@ -15,7 +15,7 @@ Maathai's trajectory from marginalised environmental activist to Nobel laureate 
 ## See Also
 [[Kenya/Environmentalism]]
 [[Moi and Human Rights]]
-[[Uhuru Park Controversy]]
+[[Uhuru BBI]]
 [[Kenya/Women's Rights]]
 [[Moi Legacy]]
 [[Moi Post-Presidency]]

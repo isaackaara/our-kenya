@@ -11,7 +11,7 @@ Contemporary Kenyan conceptual artists continue developing sophisticated work ad
 - [[Performance Art Kenya]]
 - [[Contemporary Art Practice]]
 - [[Ideas and Artistic Medium]]
-- [[Documentation and Ephemeral Art]]
+- [[Art Documentation]]
 - [[International Art Discourse]]
 - [[Experimental Artistic Practice]]
 

@@ -4,7 +4,7 @@ title: Meru National Park and Conservation History
 
 # Meru National Park: Elsa, Conservation, and Recovery
 
-[[Meru National Park]], located on the northwestern slopes of [[Mount Kenya]] and extending toward the [[Tana River]], is internationally famous for its connection to the [[Adamson family]] and the lioness [[Elsa]]. The park has experienced dramatic cycles of decline and recovery, shaped by [[poaching]] crises and [[conservation efforts]].
+[[Meru National Park]], located on the northwestern slopes of [[Mount Kenya]] and extending toward the [[Tana River]], is internationally famous for its connection to the [[Adamson family]] and the lioness [[Elsa]]. The park has experienced dramatic cycles of decline and recovery, shaped by [[Poaching Crisis 1970s-1980s]] crises and [[conservation efforts]].
 
 ## The Adamson Legacy and Born Free
 
@@ -67,12 +67,12 @@ The park's history demonstrates both the vulnerability of African wildlife to po
 
 ## See Also
 
-- [[Meru Geography]]
+- [[Meru County Geography]]
 - [[Meru and Climate Change Adaptation]]
 - [[Meru Natural Resources]]
 - [[Meru History]]
 - [[Mount Kenya]]
-- [[Tana River Basin]]
+- [[Tana River]]
 
 ---
 

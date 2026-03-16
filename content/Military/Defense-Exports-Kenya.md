@@ -1,6 +1,6 @@
 Kenya has limited capacity as a defence goods exporter, with primary production focused on small arms ammunition, tactical equipment, and military vehicles assembled from foreign components rather than original designs or advanced weapons systems. The [[Kenya Defence Force|military-industrial base]] developed primarily to meet domestic security requirements rather than export capabilities, though after 2015 regional demand for counterterrorism equipment created limited export opportunities within the [[East African Community|East Africa]] region.
 
-The [[Kenya Ordnance Factory]] in Eldoret produces standard military ammunition for export to regional militaries, with primary customers in [[Uganda]], [[Tanzania]], and [[South Sudan]]. Production capacity utilization improved significantly after 2013 as regional counterterrorism campaigns against [[Al-Shabaab Threats Kenya|Al-Shabaab]] increased ammunition demand. By 2017, approximately 35 to 40 percent of Ordnance Factory output was exported, generating foreign exchange earnings of approximately KES 850 million annually. However, export volumes remained constrained by production capacity, quality consistency issues, and competition from lower-cost suppliers in [[Indian]] and [[Chinese]] markets.
+The [[Kenya Ordnance Factory]] in Eldoret produces standard military ammunition for export to regional militaries, with primary customers in [[Uganda Railway Taita-Taveta]], [[Tanzania]], and [[South Sudan]]. Production capacity utilization improved significantly after 2013 as regional counterterrorism campaigns against [[Al-Shabaab Threats Kenya|Al-Shabaab]] increased ammunition demand. By 2017, approximately 35 to 40 percent of Ordnance Factory output was exported, generating foreign exchange earnings of approximately KES 850 million annually. However, export volumes remained constrained by production capacity, quality consistency issues, and competition from lower-cost suppliers in [[Indian]] and [[Chinese]] markets.
 
 Private defence contractors began exporting tactical equipment and military vehicles after 2010. Nyumba Security Systems exported body armour and tactical vests to regional security forces, while Kenya Defence Industries assembled and exported light utility vehicles to Uganda and Tanzania. These exports represented modest foreign exchange generation, with total annual defence goods exports not exceeding KES 1.2 billion by 2020. Government policy provided some preferential support through export credit guarantees and participation in regional defence trade shows, though export development remained marginal to overall military production capacity.
 
@@ -10,13 +10,13 @@ Regional demand for military equipment capable of counterterrorism operations cr
 
 ## See Also
 
-[[Military Industry Development]]
-[[Arms Procurement Practices]]
+[[Military-Industry-Development]]
+[[Arms-Procurement-Practices]]
 [[Kenya Defence Force]]
 [[Defence Budget Spending]]
-[[East African Defence Force]]
+[[East-African-Defence-Force]]
 [[Counterterrorism Operations Kenya]]
-[[Regional Security Cooperation]]
+[[Regional-Security-Cooperation]]
 
 ## Sources
 

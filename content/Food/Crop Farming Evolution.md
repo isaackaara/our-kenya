@@ -23,7 +23,7 @@ Environmental consequences accumulated. Soil exhaustion, reduced water availabil
 [[Coffee Production Export]]
 [[Land Distribution Kenya]]
 [[Smallholder Agriculture]]
-[[Environmental Resource Management]]
+[[Environmental Art]]
 [[Green Revolution Impact]]
 
 ## Sources

@@ -49,7 +49,7 @@ County and national governments provide primary and secondary education through 
 [[West Pokot County]]
 [[West Pokot Youth]]
 [[West Pokot Women]]
-[[West Pokot Economy]]
+[[Pokot]]
 [[Kapenguria Town]]
 
 ## Sources

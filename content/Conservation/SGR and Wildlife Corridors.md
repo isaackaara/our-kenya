@@ -54,7 +54,7 @@ The SGR impacts, combined with similar barriers elsewhere, accumulate to create 
 - [[Habitat fragmentation]] - Ecological consequences
 - [[Kenya Wildlife Service]] - Conservation management
 - [[Elephant corridors]] - Species-specific impacts
-- [[Environmental Impact Assessment]] - Development planning
+- [[Environmental Art]] - Development planning
 
 ## Sources
 

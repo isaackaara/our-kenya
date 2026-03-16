@@ -9,9 +9,9 @@ Contemporary Kenyan political cartooning continues within journalism, digital me
 ## See Also
 - [[Journalism and Illustration]]
 - [[Political Commentary Visual]]
-- [[Satire and Wit]]
+- [[Political Novels Satire]]
 - [[Media Criticism]]
-- [[Editorial Illustration]]
+- [[Illustration Art]]
 - [[Political Expression Art]]
 - [[Freedom of Expression]]
 

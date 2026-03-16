@@ -93,8 +93,8 @@ Ngoma dances are significant as:
 
 - [[Taarab Music]] - Musical tradition accompanying some ngoma
 - [[Swahili Weddings]] - Primary occasion for ngoma performance
-- [[Swahili Culture]] - Broader cultural context
-- [[Lamu Cultural Festival]] - Contemporary venue for ngoma performance
+- [[Swahili Culture Formation]] - Broader cultural context
+- [[Lamu]] - Contemporary venue for ngoma performance
 - [[Swahili Identity]] - Cultural identity expressed through dance
 - [[Swahili Dress]] - Clothing worn during ngoma performances
 

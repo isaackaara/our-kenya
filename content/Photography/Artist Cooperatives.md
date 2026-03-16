@@ -7,12 +7,12 @@ Exhibition cooperatives pool resources to organize group shows, reaching broader
 Artist cooperatives have developed across Kenya's major cities including Nairobi, Mombasa, and Kisumu, creating decentralized studio and exhibition infrastructure. Some cooperatives remain informal networks while others develop formal legal structures and organizational systems. Successful cooperatives require committed membership, transparent governance, and sustainable financing models. Cooperatives face challenges including conflicts between members, management difficulties, and maintaining financial viability. Despite challenges, artist cooperatives continue to provide crucial infrastructure enabling artistic practice beyond commercial gallery systems.
 
 ## See Also
-- [[Artist Associations Kenya]]
+- [[Artist Associations]]
 - [[Cooperative Economics]]
 - [[Shared Studio Spaces]]
 - [[Collective Exhibition Models]]
-- [[Artist Support Infrastructure]]
-- [[Community Art Practice]]
+- [[support]]
+- [[Moi and the Luo Community]]
 - [[Economic Alternatives Art]]
 
 ## Sources

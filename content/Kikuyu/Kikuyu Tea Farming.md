@@ -57,6 +57,6 @@ Yet tea farming remains the economic foundation of Kirinyaga and parts of Nyeri,
 - [[KTDA|Kenya Tea Development Agency]]
 - [[Kikuyu Entrepreneurs Deep Dive]]
 - [[Kikuyu Education Systems]]
-- [[Kikuyu Agricultural Economy|Agriculture and Economy]]
+- [[Kikuyu|Agriculture and Economy]]
 - [[Kirinyaga County]]
 

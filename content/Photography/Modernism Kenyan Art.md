@@ -11,7 +11,7 @@ The relationship between modernism and cultural identity remained contested in K
 - [[Modernism Global]]
 - [[Formal Experimentation Art]]
 - [[Cultural Identity and Modernity]]
-- [[Post-Colonial Art]]
+- [[University Expansion Post-Colonial]]
 - [[Art Traditions Kenya]]
 - [[International Art Influence]]
 

@@ -2,7 +2,7 @@
 title: Omani Empire
 ---
 
-The [[Omani Empire]] Sultans dominated the entire [[East African Community]] coast in the 18th and 19th centuries, establishing the most extensive control system the region had seen. This imperial presence shaped the political, economic, and cultural development of coastal East Africa.
+The [[27_Omani_Empire]] Sultans dominated the entire [[East African Community]] coast in the 18th and 19th centuries, establishing the most extensive control system the region had seen. This imperial presence shaped the political, economic, and cultural development of coastal East Africa.
 
 ## The Omani Expansion
 
@@ -16,7 +16,7 @@ In the early 18th century, Oman (located on the Arabian Peninsula) began expandi
 
 ## Zanzibar as the Imperial Center
 
-By the late 18th century, [[Zanzibar|Zanzibar]] Island became the primary seat of [[Omani Empire]]/Arab imperial power in East Africa:
+By the late 18th century, [[Zanzibar|Zanzibar]] Island became the primary seat of [[27_Omani_Empire]]/Arab imperial power in East Africa:
 
 **Sultan's Residence**: The Sultan of Oman eventually moved his capital from Muscat to [[Zanzibar|Zanzibar]] (in the 19th century), making [[Zanzibar|Zanzibar]] the administrative center for East African dominions.
 
@@ -38,11 +38,11 @@ The Omani Empire exercised control over East African coastal territories through
 
 ## The Clove Plantation Economy
 
-The [[Omani Empire]]'s economic foundation increasingly rested on clove plantations in [[Zanzibar|Zanzibar]] and Pemba:
+The [[27_Omani_Empire]]'s economic foundation increasingly rested on clove plantations in [[Zanzibar|Zanzibar]] and Pemba:
 
 **Clove Cultivation**: Cloves, a high-value spice used in cooking and perfumes, became the dominant export crop. Plantations required massive enslaved labor forces.
 
-**Slave Labor**: The plantations' expansion depended entirely on the [[Arab Slave Trade]]. Tens of thousands of enslaved people were imported to work the plantations.
+**Slave Labor**: The plantations' expansion depended entirely on the [[26_Arab_Slave_Trade]]. Tens of thousands of enslaved people were imported to work the plantations.
 
 **Wealth Generation**: The clove trade generated enormous wealth for plantation owners and the Omani state, funding military and administrative expenses.
 
@@ -50,7 +50,7 @@ The [[Omani Empire]]'s economic foundation increasingly rested on clove plantati
 
 ## Swahili Culture and Syncretism
 
-[[Omani Empire]]/Arab political control did not completely displace African populations or cultures:
+[[27_Omani_Empire]]/Arab political control did not completely displace African populations or cultures:
 
 **Swahili Synthesis**: A distinctive [[Swahili]] culture developed, blending Arab, Persian, African, and Asian elements.
 
@@ -62,23 +62,23 @@ The [[Omani Empire]]'s economic foundation increasingly rested on clove plantati
 
 ## Decline of Omani Power
 
-By the late 19th century, [[Omani Empire]] power was declining:
+By the late 19th century, [[27_Omani_Empire]] power was declining:
 
-**European Expansion**: British, German, and other European powers established colonial footholds in [[East African Community]], challenging [[Omani Empire]] authority.
+**European Expansion**: British, German, and other European powers established colonial footholds in [[East African Community]], challenging [[27_Omani_Empire]] authority.
 
 **Internal Fragmentation**: The Sultanate fragmented politically, with rivals competing for power.
 
-**Economic Decline**: Slavery abolition reduced the profitability of the plantation economy, undermining economic foundations of [[Omani Empire]] power.
+**Economic Decline**: Slavery abolition reduced the profitability of the plantation economy, undermining economic foundations of [[27_Omani_Empire]] power.
 
-**Formal Colonization**: By the 1880s-1890s, European colonial boundaries were established (Kenya became British East Africa, Tanzania became [[East Africa]]), formally ending [[Omani Empire]] territorial control.
+**Formal Colonization**: By the 1880s-1890s, European colonial boundaries were established (Kenya became British East Africa, Tanzania became [[East Africa]]), formally ending [[27_Omani_Empire]] territorial control.
 
 ## Legacy
 
-[[Omani Empire]]/Arab rule left lasting legacies:
+[[27_Omani_Empire]]/Arab rule left lasting legacies:
 
-**Cultural Heritage**: [[Swahili]] coast culture, language, and architecture preserve Arab, Indian, and African syntheses from the [[Omani Empire]] period.
+**Cultural Heritage**: [[Swahili]] coast culture, language, and architecture preserve Arab, Indian, and African syntheses from the [[27_Omani_Empire]] period.
 
-**Urban Centers**: Coastal cities established during the [[Omani Empire]] period ([[Zanzibar|Zanzibar]], [[Mombasa Port]], Dar es Salaam) remain major cities.
+**Urban Centers**: Coastal cities established during the [[27_Omani_Empire]] period ([[Zanzibar|Zanzibar]], [[Mombasa Port]], Dar es Salaam) remain major cities.
 
 **Language**: [[Swahili]]'s extensive Arabic vocabulary reflects centuries of Arab cultural dominance on the coast.
 
@@ -88,9 +88,9 @@ By the late 19th century, [[Omani Empire]] power was declining:
 
 ## See Also
 
-- [[Arab Slave Trade]]
+- [[26_Arab_Slave_Trade]]
 - [[Zanzibar]]
-- [[Indian Ocean Heritage]]
+- [[19_Indian_Ocean_Heritage]]
 - [[Swahili]]
 - [[Mombasa Port]]
 - [[East Africa]]

@@ -1,4 +1,4 @@
-The [[UNHCR|United Nations High Commissioner for Refugees (UNHCR)]] has maintained continuous operational presence in Kenya since the early 1990s, functioning as the primary coordinator of refugee protection, registration, and assistance services across the country. UNHCR's mandate under international law obligates the organization to provide protection and humanitarian assistance to persons fleeing persecution based on race, religion, nationality, political opinion, or membership in a particular social group. In Kenya, UNHCR operations expanded from initial response to the [[Somali Civil War|Somali civil war]] into a comprehensive, multisector humanitarian system serving multiple refugee populations originating from the Horn of Africa, the Great Lakes Region, and East Africa.
+The [[UNHCR Operations Kenya|United Nations High Commissioner for Refugees (UNHCR)]] has maintained continuous operational presence in Kenya since the early 1990s, functioning as the primary coordinator of refugee protection, registration, and assistance services across the country. UNHCR's mandate under international law obligates the organization to provide protection and humanitarian assistance to persons fleeing persecution based on race, religion, nationality, political opinion, or membership in a particular social group. In Kenya, UNHCR operations expanded from initial response to the [[Somali|Somali civil war]] into a comprehensive, multisector humanitarian system serving multiple refugee populations originating from the Horn of Africa, the Great Lakes Region, and East Africa.
 
 The institutional architecture of UNHCR operations in Kenya involves coordination with multiple actors. The organization works with the Kenyan government's Ministry of Interior and Coordination of National Government and the Department of Refugee Affairs, providing technical advice, capacity building, and operational support. Simultaneously, UNHCR coordinates with multilateral institutions including the World Food Programme (for food distribution), UNICEF (for water, sanitation, and child protection), and the World Health Organization (for health system coordination). At the ground level, UNHCR partners with international NGOs such as CARE, the International Rescue Committee, Doctors Without Borders, the Norwegian Refugee Council, and the Lutheran World Federation, as well as local organizations including the Refugee Consortium of Kenya. This multi-layered coordination structure attempts to ensure coherence across assistance sectors while avoiding gaps in service delivery.
 
@@ -13,7 +13,7 @@ UNHCR's mandate extends beyond camp management to broader advocacy and policy en
 [[Kenya Refugee Policy]]
 [[Refugee Registration Systems]]
 [[Refugee Protection Services]]
-[[World Food Programme Kenya]]
+[[Food]]
 
 ## Sources
 

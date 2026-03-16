@@ -22,7 +22,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Kenya Commercial Bank]]
 - [[Financial Regulation Kenya]]
 - [[Economic Risk Management]]
-- [[Corporate Governance Kenya]]
+- [[Corporate Kenya]]
 
 ## Sources
 

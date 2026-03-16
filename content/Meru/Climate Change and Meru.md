@@ -39,9 +39,9 @@ Kenya's national climate policy and [[Meru County]]'s climate adaptation plannin
 ## See Also
 
 - [[Meru Forest Conservation]]
-- [[Meru Agriculture]]
+- [[Meru Agriculture Overview]]
 - [[Mount Kenya Ecosystem]]
-- [[Water Resources in Meru]]
+- [[Meru Water]]
 - [[Meru Food Security]]
 - [[Meru Futures]]
 

@@ -21,7 +21,7 @@ The tension between potential for cross-ethnic connection and propensity for eth
 - [[Social Media and Nation-Building]]
 - [[Ethnic Identity in Online Spaces]]
 - [[Algorithm and Echo Chambers]]
-- [[2024 Finance Bill Protests]]
+- [[Gen Z Protests 2024]]
 
 ## Sources
 

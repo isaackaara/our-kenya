@@ -13,7 +13,7 @@ Kenya has made substantive progress in reducing the prevalence of vitamin A defi
 [[Nutrition Food Security|Nutrition Food Security]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Infant Feeding Practices|Infant Feeding Practices]]
-[[Poverty and Health|Poverty]]
+[[Mental Health Poverty|Poverty]]
 [[Immunization Vaccination Programs|Immunization Vaccination Programs]]
 
 ## Sources

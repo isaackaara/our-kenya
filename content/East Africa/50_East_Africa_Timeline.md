@@ -121,12 +121,12 @@ A chronological reference of key dates in [[East African Community]] regional hi
 All notes in the East Africa section are interconnected. See specific topics:
 - [[Kenya]]
 - [[EAC History]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[East Africa]]
 - [[Somalia]]
 - [[East Africa]]
 - [[Mombasa Port]]
-- [[JKIA Airport]]
+- [[49_JKIA_Airport]]
 
 ## Sources
 

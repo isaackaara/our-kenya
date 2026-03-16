@@ -87,7 +87,7 @@ The NSE has room for growth. As Kenya's economy expands, more companies may list
 - [[Equity Bank]]
 - [[Kenya Economic Overview]]
 - [[Financial Regulation Kenya]]
-- [[Corporate Governance Kenya]]
+- [[Corporate Kenya]]
 
 ## Sources
 

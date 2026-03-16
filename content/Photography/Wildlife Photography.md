@@ -9,11 +9,11 @@ The emergence of wildlife photography as a commercial practice intersected with 
 ## See Also
 - [[Mohamed Amin Photojournalism]]
 - [[Mirella Ricciardi Documentation]]
-- [[Wildlife Conservation Kenya]]
+- [[Conservation]]
 - [[National Parks and Game Reserves]]
-- [[Safari Tourism Development]]
+- [[Art Tourism]]
 - [[Visual Culture and Environmental Awareness]]
-- [[Photography and Development Narratives]]
+- [[Development Aid]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Mohamed_Amin_(photographer) - Mohamed Amin Biography

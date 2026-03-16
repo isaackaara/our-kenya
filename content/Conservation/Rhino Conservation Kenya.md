@@ -54,7 +54,7 @@ Rhino conservation requires international cooperation on trafficking prevention,
 - [[Ol Pejeta Conservancy]] - Northern white rhino sanctuary
 - [[Kenya Wildlife Service]] - Management authority
 - [[Illegal Wildlife Trade]] - Trafficking context
-- [[Private Conservation Model]] - Conservancy protection
+- [[Conservation]] - Conservancy protection
 
 ## Sources
 

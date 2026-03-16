@@ -1,4 +1,4 @@
-Maralal is [[Samburu County]] capital and largest urban center, serving as administrative hub, market center, and commercial focus. The town provides government services, banking, healthcare, and limited tourism services. Maralal's [[International Camel Derby]] held annually attracts tourists and generates economic activity. Urban population is predominantly [[Samburu]] though includes other ethnic groups.
+Maralal is [[Samburu County]] capital and largest urban center, serving as administrative hub, market center, and commercial focus. The town provides government services, banking, healthcare, and limited tourism services. Maralal's [[Maralal International Camel Derby]] held annually attracts tourists and generates economic activity. Urban population is predominantly [[Samburu]] though includes other ethnic groups.
 
 ## Urban Infrastructure and Services
 
@@ -17,7 +17,7 @@ The annual Camel Derby, held in September, has become Maralal's major tourist at
 - [[Samburu County]]
 - [[Samburu Camel Use]]
 - [[Samburu and Tourism]]
-- [[Samburu Culture]]
+- [[Samburu Cattle Culture]]
 - [[Urban Centers in Northern Kenya]]
 
 ## Sources

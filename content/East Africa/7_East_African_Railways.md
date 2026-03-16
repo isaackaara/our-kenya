@@ -61,10 +61,10 @@ Despite the railways' regional significance, no unified regional railway authori
 ## See Also
 
 - [[Mombasa Port]]
-- [[JKIA Airport]]
+- [[49_JKIA_Airport]]
 - [[Nairobi]]
 - [[Chinese Investment and Corruption]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[Uhuru and Lamu Port LAPSSET Corridor]]
 - [[Kenya]]
 

@@ -4,7 +4,7 @@ Grace Ogot stands as Kenya's pioneering woman novelist, the author of the first 
 
 The novel's focus on Luo protagonists and engagement with Luo language and cultural traditions asserted the literary legitimacy of regional narratives and concerns. While major Kenyan literature often addressed national themes from Kikuyu-centered perspectives, Ogot's work extended literary attention to Kenya's other ethnic groups and regions, demonstrating literature's potential for representing Kenya's actual ethnic and regional complexity.
 
-Ogot's subsequent novels continued exploring women's experiences, family dynamics, and the intersection of tradition and modernity. [[The Graduate]] (1980) addresses a young woman's return to her community after education abroad, exploring the tensions between expanded horizons and limited opportunities. The work examines how women educated beyond available roles in their communities experience alienation and frustration.
+Ogot's subsequent novels continued exploring women's experiences, family dynamics, and the intersection of tradition and modernity. [[Graduate Employment]] (1980) addresses a young woman's return to her community after education abroad, exploring the tensions between expanded horizons and limited opportunities. The work examines how women educated beyond available roles in their communities experience alienation and frustration.
 
 Beyond novels, Ogot published short story collections including [[Land Without Thunder]] (1968), [[The Other Woman]] (1976), and [[The Island of Tears]] (1980), establishing herself as major presence in East African short fiction. Her stories addressed themes of women's labor, family violence, cultural change, and the psychological impacts of colonialism and postcolonial displacement.
 
@@ -18,12 +18,12 @@ The author's achievement in establishing herself as significant novelist despite
 
 ## See Also
 [[The Promised Land]]
-[[Women Writers Kenya]]
-[[Luo Culture and Literature]]
+[[Women Writers Authors Kenya]]
+[[Literature]]
 [[Postcolonial Literature Movement]]
 [[Short Story Traditions Kenya]]
-[[Migration Literature Africa]]
-[[Gender and Postcolonial Writing]]
+[[Literature]]
+[[Gender Pay Gap]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Grace_Ogot - Comprehensive biography and literary overview

@@ -15,7 +15,7 @@ The election results were presented by the government as evidence of popular sup
 - [[1969 Election]]
 - [[1969 Election KANU Only]]
 - [[1969 Election KPU Ban]]
-- [[KANU Primary 1969]]
+- [[1969 Election KANU Primary]]
 - [[Electoral Results and Representation]]
 - [[Elections]]
 - [[Parliamentary Composition Kenya]]

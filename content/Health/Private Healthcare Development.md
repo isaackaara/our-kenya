@@ -10,11 +10,11 @@ The private healthcare sector provides significant proportion of healthcare deli
 
 ## See Also
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
-[[Poverty and Health|Poverty]]
+[[Health|Hospital Infrastructure Standards]]
+[[Poverty|Poverty]]
 [[Urban Slum Health Services|Urban Slum Health Services]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
-[[Presidencies of Kenya|Presidencies]]
+[[Presidencies|Presidencies]]
 
 ## Sources
 1. https://khf.co.ke/

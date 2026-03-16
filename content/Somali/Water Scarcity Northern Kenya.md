@@ -42,7 +42,7 @@ Addressing water scarcity requires both supply-side (increasing water availabili
 - [[Wajir County]]
 - [[Somali Nomadic Education]]
 - [[Somali-Oromo Relations Kenya]]
-- [[Nomadic Pastoralism Northern Kenya]]
+- [[NFD Pastoralism]]
 
 ## Sources
 

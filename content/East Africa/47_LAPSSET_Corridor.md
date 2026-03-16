@@ -52,7 +52,7 @@ Implementing [[Uhuru and Lamu Port LAPSSET Corridor]] requires cooperation among
 
 **[[Kenya]]**: While both nations have interest in [[Uhuru and Lamu Port LAPSSET Corridor]], competing interests and border tensions sometimes create friction.
 
-**[[South Sudan Kenya]] Instability**: [[South Sudan Kenya]]'s civil war and state fragmentation have complicated [[South Sudan Kenya]]'s participation in the project.
+**[[38_South_Sudan_Kenya]] Instability**: [[38_South_Sudan_Kenya]]'s civil war and state fragmentation have complicated [[38_South_Sudan_Kenya]]'s participation in the project.
 
 **Political Will**: Varying levels of political commitment among participating nations have slowed implementation.
 

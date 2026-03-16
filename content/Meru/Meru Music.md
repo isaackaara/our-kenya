@@ -47,7 +47,7 @@ The coexistence of traditional and contemporary music reflects the broader Meru 
 - [[Meru Oral Literature]]
 - [[Meru Cultural Heritage]]
 - [[Meru Initiation]]
-- [[Meru Celebrations and Festivals]]
+- [[Meru Cultural Festivals and Celebrations]]
 - [[Meru Youth Identity]]
 - [[Meru Traditional Religion]]
 

@@ -28,8 +28,8 @@ Contemporary independent publishing in Kenya includes both established publisher
 [[Literary Journals Publishing]]
 [[Self-Publishing Movement]]
 [[Authors and Copyright Kenya]]
-[[Bookshops Literary Culture Kenya]]
-[[Digital Publishing Africa]]
+[[Bookshops Literary Culture]]
+[[Digital Art]]
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Major independent publisher operations and commitment to African literature

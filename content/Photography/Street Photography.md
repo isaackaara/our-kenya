@@ -9,7 +9,7 @@ By the late twentieth century, street photography had become an established genr
 ## See Also
 - [[Nairobi Urban Development]]
 - [[Informal Economy and Street Trading]]
-- [[Public Space and Social Interaction]]
+- [[Public Art]]
 - [[Photojournalism Kenya]]
 - [[Urban Photography Practice]]
 - [[Matatu Culture Visual Documentation]]

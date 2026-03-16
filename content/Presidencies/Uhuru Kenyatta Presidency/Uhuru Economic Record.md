@@ -71,7 +71,7 @@ By end of Uhuru's term, Kenya had achieved middle-income status and positive gro
 - [[Manufacturing in Kenya]]
 - [[Financial Services Kenya]]
 - [[Ruto Economic Inheritance]]
-- [[Kenya and IMF]]
+- [[Kenya]]
 
 ## Sources
 

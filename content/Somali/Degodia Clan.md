@@ -1,4 +1,4 @@
-The Degodia are a [[Hawiye|Hawiye sub-clan]] concentrated in [[Wajir County]], one of Kenya's most arid regions. The Degodia are among Kenya's most historically marginalized groups, having been devastated by the 1984 [[Wagalla Massacre]] and facing ongoing [[Al-Shabaab in Kenya|security challenges]]. Their history represents both resilience and victimization.
+The Degodia are a [[Hawiye|Hawiye sub-clan]] concentrated in [[Wajir County]], one of Kenya's most arid regions. The Degodia are among Kenya's most historically marginalized groups, having been devastated by the 1984 [[The Wagalla Massacre 1984]] and facing ongoing [[Al-Shabaab in Kenya|security challenges]]. Their history represents both resilience and victimization.
 
 ## Geography and Population
 

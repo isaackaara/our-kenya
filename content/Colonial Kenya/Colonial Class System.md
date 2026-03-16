@@ -21,7 +21,7 @@ By the 1950s, urban African working classes and educated professionals increasin
 [[Colonial Land Granting]]
 [[Color Bar Employment]]
 [[Colonial Corruption]]
-[[Urban Labour and Colonialism]]
+[[Labour]]
 
 ## Sources
 1. Berman, Bruce. "Control and Crisis in Colonial Kenya: The Dialectic of Domination." Ohio University Press, 1990. https://www.ohiouniversitypress.com/

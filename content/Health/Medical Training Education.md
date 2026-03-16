@@ -10,11 +10,11 @@ Continuing professional education for practicing health workers remains inadequa
 
 ## See Also
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
+[[Health|Hospital Infrastructure Standards]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
 [[Education|Education]]
-[[Poverty and Health|Poverty]]
-[[Presidencies of Kenya|Presidencies]]
+[[Poverty|Poverty]]
+[[Presidencies|Presidencies]]
 
 ## Sources
 1. https://www.health.go.ke/

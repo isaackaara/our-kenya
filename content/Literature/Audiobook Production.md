@@ -19,7 +19,7 @@ The relationship between audiobook performance and authorial voice created inter
 - [[Online Publishing]]
 - [[Digital Literary Platforms]]
 - [[Publishing Industry Kenya]]
-- [[Accessibility Literature]]
+- [[Literature]]
 - [[Young Adult Fiction]]
 - [[Literary Festivals]]
 

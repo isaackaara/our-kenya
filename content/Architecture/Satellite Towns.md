@@ -14,10 +14,10 @@ However, the distinction between planned urban development and informal sprawl r
 
 [[Urban Expansion]]
 [[Residential Suburbs]]
-[[Satellite Town Planning]]
+[[Voi Town]]
 [[Infrastructure Investment]]
 [[Urban Planning Development]]
-[[Industrial Development]]
+[[Development Aid]]
 [[Informal Settlements]]
 
 ## Sources

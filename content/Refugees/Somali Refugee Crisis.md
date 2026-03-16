@@ -11,9 +11,9 @@ The crisis spawned complex institutional responses. [[UNHCR Operations Kenya|UNH
 [[Dadaab Refugee Camp]]
 [[Kakuma Refugee Camp]]
 [[UNHCR Operations Kenya]]
-[[Somali Civil War]]
+[[Somali]]
 [[Kenya Refugee Policy]]
-[[Drought Environmental Impact]]
+[[Environmental Art]]
 
 ## Sources
 

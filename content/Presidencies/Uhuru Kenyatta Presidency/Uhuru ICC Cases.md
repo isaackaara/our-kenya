@@ -44,11 +44,11 @@ For Uhuru personally, the cases hung over his presidency from 2013 onward but ne
 
 ## See Also
 
-- [[2007-2008 Post-Election Violence]]
+- [[2007-2008 Post Election Violence]]
 - [[International Criminal Court]]
 - [[Raila Odinga]]
 - [[Mwai Kibaki]]
-- [[Kenyan Justice System]]
+- [[Kenyan Hip-Hop]]
 - [[African Union]]
 - [[William Ruto ICC Cases]]
 - [[Uhuru Kenyatta Presidency]]

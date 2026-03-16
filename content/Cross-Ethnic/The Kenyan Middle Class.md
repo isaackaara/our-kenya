@@ -8,7 +8,7 @@ The professional culture of Kenyan middle class workplaces is often explicitly c
 
 The cultural orientation of the Kenyan middle class is often cosmopolitan and international. English is the primary language of work and often of home. International media (American television, British news, global music) shapes consumption patterns alongside local culture. Vacation travel abroad, international education for children, and participation in global professional networks characterize middle-class life.
 
-However, the relationship between class position and [[ethnic identity]] is complex. Even prosperous middle-class Kenyans frequently maintain [[ethnic networks]] and organizations. Business associations organized around ethnic lines persist. Religious communities, sometimes with ethnic dimensions, remain important to many middle-class Kenyans. The middle class is not post-ethnic but rather navigates multiple identity dimensions simultaneously.
+However, the relationship between class position and [[ethnic identity]] is complex. Even prosperous middle-class Kenyans frequently maintain [[Ethnic Business Networks]] and organizations. Business associations organized around ethnic lines persist. Religious communities, sometimes with ethnic dimensions, remain important to many middle-class Kenyans. The middle class is not post-ethnic but rather navigates multiple identity dimensions simultaneously.
 
 ## See Also
 

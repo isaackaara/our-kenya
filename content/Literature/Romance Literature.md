@@ -23,11 +23,11 @@ Contemporary romance in Kenya continues evolving, with new writers addressing co
 ## See Also
 [[Young Adult Fiction]]
 [[Gender and Literature Kenya]]
-[[Relationships and Literature]]
-[[Popular Literature Kenya]]
-[[Sexuality and Literature]]
+[[Literature]]
+[[Literature]]
+[[Literature]]
 [[Publishing Industry Kenya]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Romance literature publishing in East Africa

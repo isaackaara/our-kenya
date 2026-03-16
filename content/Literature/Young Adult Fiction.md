@@ -18,10 +18,10 @@ Contemporary young adult fiction in Kenya addresses diverse themes reflecting cu
 
 ## See Also
 [[Children's Literature Kenya]]
-[[Educational Literature Kenya]]
+[[Literature]]
 [[School Textbooks]]
 [[Coming-of-Age Narratives]]
-[[Identity and Literature Kenya]]
+[[Literature]]
 [[Gender and Young Adult Fiction]]
 [[Secondary Education Kenya]]
 

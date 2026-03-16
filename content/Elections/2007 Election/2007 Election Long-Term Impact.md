@@ -7,7 +7,7 @@ The trauma of 2007 violence persisted as a scarring experience for Kenyan societ
 ## See Also
 
 - [[Post-Election Violence]]
-- [[2010 Constitution Kenya]]
+- [[Constitution of Kenya 2010]]
 - [[Constitutional reform Kenya]]
 - [[Electoral reform Kenya]]
 - [[International Criminal Court Kenya]]

@@ -8,9 +8,9 @@ Contemporary Kenyan stone sculptors create work exhibited in galleries, public s
 
 ## See Also
 - [[Sculpture Practice Kenya]]
-- [[Monumental Art and Public Sculpture]]
+- [[Public Art]]
 - [[Carving Techniques and Materials]]
-- [[Abstract Sculpture Forms]]
+- [[Abstract Art]]
 - [[Architectural Sculpture]]
 - [[Contemporary Sculpture Practice]]
 - [[Material and Form in Sculpture]]

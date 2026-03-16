@@ -11,9 +11,9 @@ Agricultural initiatives including kitchen gardens, multi-story gardens, and sma
 [[Refugee Business Opportunities]]
 [[Cash Transfer Programs]]
 [[Food Distribution Systems]]
-[[Refugee Economic Integration]]
+[[Refugee Integration]]
 [[Dadaab Refugee Camp]]
-[[Vocational Training Refugee]]
+[[Vocational Training]]
 
 ## Sources
 

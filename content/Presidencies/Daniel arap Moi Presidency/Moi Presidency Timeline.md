@@ -135,7 +135,7 @@
 - [[Moi Rise to Power|Moi Rise to Power]]
 - [[Moi and 1982 Coup Attempt|Moi and 1982 Coup Attempt]]
 - [[Kenya Elections|Kenya Elections]]
-- [[Moi Multiparty Democracy|Moi Multiparty Democracy]]
+- [[Moi and Multiparty Democracy|Moi Multiparty Democracy]]
 
 ## Sources
 

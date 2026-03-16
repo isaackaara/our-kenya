@@ -1,6 +1,6 @@
 A comprehensive knowledge graph of European (British, Boer, Italian, Greek, and other) presence in Kenya's history from early explorers through post-independence.
 
-[[This is an Index page - see the links below for detailed articles.]]
+[[index]]
 
 ## Overview and Identity
 
@@ -31,7 +31,7 @@ A comprehensive knowledge graph of European (British, Boer, Italian, Greek, and 
 - [[Boer Settlers Kenya]] - Post-Boer War migration
 - [[Italian Prisoners of War Kenya]] - WWII POW presence
 - [[Greek Community Kenya]] - Commerce and industry
-- [[Jewish Presence in Kenya]] - The small Jewish community
+- [[NGO and Aid Presence]] - The small Jewish community
 
 ## The Land System
 
@@ -78,7 +78,7 @@ A comprehensive knowledge graph of European (British, Boer, Italian, Greek, and 
 ## Culture and Legacy
 
 - [[Out of Africa and Its Legacy]] - Karen Blixen's cultural impact
-- [[European Architecture Kenya]] - Colonial built environment
+- [[Architecture]] - Colonial built environment
 - [[Nairobi]] - Colonial social institutions
 - [[Settler Diaries and Archives]] - Documentary legacy
 - [[The Norfolk Hotel]] - Colonial social center

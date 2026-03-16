@@ -151,5 +151,5 @@ As of 2026:
 - [[White Highlands and Settler Society]]
 - [[Land in the Rift Valley]]
 - [[White Privilege in Contemporary Kenya]]
-- [[The 2017 Laikipia Invasions]]
+- [[Laikipia Wildlife Invasions 2017]]
 - [[Land Restitution by White Kenyans]]

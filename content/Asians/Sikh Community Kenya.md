@@ -1,4 +1,4 @@
-[[Sikhs]] are a religious community originating from [[Punjab]] (northwest India). In Kenya, they number approximately 10,000 to 15,000. Sikhs came primarily as [[railway laborers]] and have since built a strong institutional presence through [[Sikh Gurdwaras Kenya]] (temples) and businesses, particularly in construction and contracting.
+[[Sikhs]] are a religious community originating from [[Punjab]] (northwest India). In Kenya, they number approximately 10,000 to 15,000. Sikhs came primarily as [[Luo and the Railway]] and have since built a strong institutional presence through [[Sikh Gurdwaras Kenya]] (temples) and businesses, particularly in construction and contracting.
 
 ## Origins and Migration
 

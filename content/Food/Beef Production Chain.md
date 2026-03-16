@@ -22,8 +22,8 @@ Urban meat consumption patterns reflected income levels, with higher-income popu
 [[Pastoralism Food Production]]
 [[Cattle Raising Traditions]]
 [[Food Processing Industry]]
-[[Export Economy Kenya]]
-[[Urban Food Systems]]
+[[The NGO Economy]]
+[[Urban Food Supply Systems]]
 [[Meat Consumption Patterns]]
 
 ## Sources

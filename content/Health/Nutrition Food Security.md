@@ -1,6 +1,6 @@
 Food security and nutrition are inextricably linked health determinants, with inadequate food access directly causing malnutrition, stunting, wasting, and micronutrient deficiencies. Kenya experiences persistent food insecurity affecting vulnerable populations, particularly in pastoral and arid regions where drought causes food production failures. Seasonal hunger during pre-harvest periods forces households to reduce meal frequency and portion sizes, creating repeated episodes of malnutrition affecting child growth and development. Climate variability intensifies food insecurity, with changing rainfall patterns creating unpredictable production and increasing vulnerability.
 
-The [[Ministry of Health]] works with [[Ministry of Agriculture]] and other sectors to address nutrition and food security as health priorities. National nutrition programs combine emergency food assistance during crisis periods with longer-term food production and livelihoods support. Household food production through kitchen gardening and livestock rearing provides sustained nutrition security and dietary diversity. Community nutrition programs provide complementary feeding support to nutritionally vulnerable children and pregnant women. School feeding programs improve child nutrition while encouraging school attendance.
+The [[Health]] works with [[Ministry of Agriculture]] and other sectors to address nutrition and food security as health priorities. National nutrition programs combine emergency food assistance during crisis periods with longer-term food production and livelihoods support. Household food production through kitchen gardening and livestock rearing provides sustained nutrition security and dietary diversity. Community nutrition programs provide complementary feeding support to nutritionally vulnerable children and pregnant women. School feeding programs improve child nutrition while encouraging school attendance.
 
 Maternal and infant nutrition represents a critical focus, with pregnant and lactating women requiring increased calories and micronutrients for fetal growth and milk production. Maternal undernutrition causes intrauterine growth restriction, prematurity, and low birth weight infants at higher mortality risk. Post-partum women lose nutrients through breast milk, creating depletion if dietary intake is inadequate. Infant and young child feeding practices including exclusive breastfeeding, appropriate timing of complementary feeding initiation, and dietary diversity determine early childhood nutrition and development.
 
@@ -11,7 +11,7 @@ Addressing food insecurity and malnutrition requires multisectoral approaches co
 ## See Also
 [[Malnutrition Stunting Effects|Malnutrition Stunting Effects]]
 [[Infant Feeding Practices|Infant Feeding Practices]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Water Sanitation Health|Water Sanitation Health]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Rural Healthcare Access|Rural Healthcare Access]]

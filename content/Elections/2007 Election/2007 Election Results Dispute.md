@@ -5,7 +5,7 @@ The official ECK result announced that [[Kibaki]] won with approximately 4.3 mil
 - [[2007 Election]]
 - [[Electoral Commission of Kenya]]
 - [[Post-Election Violence]]
-- [[Contested elections Africa]]
+- [[Elections]]
 
 ## Sources
 

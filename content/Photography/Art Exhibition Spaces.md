@@ -7,12 +7,12 @@ Universities and educational institutions provide exhibition spaces for student 
 Public and alternative exhibition spaces including cafes, restaurants, small galleries, and community centers expand where art can be shown beyond formal institutional settings. Street art, murals, and public installations occupy urban space without requiring gallery infrastructure. These diverse exhibition contexts create multiple pathways for artists to reach audiences and economies of display beyond formal galleries. The expansion of exhibition spaces has democratized access to art while creating new modes of artistic presentation and reception. Public art initiatives have transformed urban spaces and contributed to broader visual culture debates.
 
 ## See Also
-- [[National Museum Kenya]]
+- [[National Museum]]
 - [[Contemporary Art Galleries]]
-- [[University Gallery Programs]]
-- [[Public Art and Space]]
+- [[Moi University]]
+- [[Public Art]]
 - [[Gallery Curation and Management]]
-- [[Art Market Development]]
+- [[Livestock Market Development]]
 - [[Urban Cultural Infrastructure]]
 
 ## Sources

@@ -38,7 +38,7 @@ Kenya's dairy sector has room for growth through improved productivity, quality,
 - [[Kenya Meat Commission]]
 - [[Food]]
 - [[Agricultural Production Kenya]]
-- [[Pastoral Economy Kenya]]
+- [[The NGO Economy]]
 - [[Manufacturing History Kenya]]
 
 ## Sources

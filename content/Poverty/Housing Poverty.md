@@ -9,7 +9,7 @@ Housing tenure insecurity creates acute vulnerability. Renters can be evicted wi
 Government housing programs have targeted housing poverty but with limited success. Low-cost housing schemes have been intermittent and insufficient, reaching tiny fractions of needy populations. Slum upgrading initiatives provide incremental infrastructure improvements and occasionally formalize tenure, but systematic housing improvement is underfunded. Private sector housing development avoids poor markets, remaining concentrated on middle and upper-income consumers. Land reforms intended to increase poor households' land access have been slow to implement. International development support for housing and shelter has expanded but remains inadequate relative to housing poverty scale.
 
 ## See Also
-[[Housing Shortage]], [[Slum Expansion]], [[Urban Poverty]], [[Eviction Displacement]], [[Land Ownership Disputes]], [[Infrastructure Access]], [[Health and Housing]], [[Tenure Security]]
+[[Housing Shortage]], [[Slum Expansion]], [[Urban Poverty]], [[Eviction Displacement]], [[Land Ownership Disputes]], [[Infrastructure Access]], [[Health]], [[Job Security]]
 
 ## Sources
 1. UN-Habitat (2015). "State of African Cities: Executive Report." https://unhabitat.org

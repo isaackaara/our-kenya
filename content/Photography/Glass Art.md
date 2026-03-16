@@ -8,12 +8,12 @@ Contemporary Kenyan glass artists create sophisticated work achieving recognitio
 
 ## See Also
 - [[Glassblowing Techniques]]
-- [[Glass Material Properties]]
+- [[Glass Art]]
 - [[Kiln-Forming Glass]]
-- [[Glass Sculpture Forms]]
+- [[Glass Art]]
 - [[Light and Transparency Art]]
-- [[Contemporary Glass Artists]]
-- [[Technical Glass Expertise]]
+- [[Glass Art]]
+- [[Glass Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Glass_art - Glass Art History

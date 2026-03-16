@@ -83,7 +83,7 @@ This timeline documents major events of [[Uhuru Kenyatta]]'s nine-year presidenc
 - [[Uhuru Kenyatta Presidency]]
 - [[2013 Kenyan Election]]
 - [[2017 Kenyan Election]]
-- [[2022 Kenyan Election]]
+- [[Kenyan Somali and the 2022 Election]]
 - [[Uhuru Handshake]]
 - [[Uhuru BBI]]
 - [[Uhuru ICC Cases]]

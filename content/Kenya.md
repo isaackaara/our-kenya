@@ -30,7 +30,7 @@ Start anywhere. Every note connects outward.
 
 ## The History
 
-- [[Forest Peoples/Colonial Kenya|Colonial Kenya]] — from protectorate to Crown Colony to the violence of the Emergency
+- [[Colonial Kenya|Colonial Kenya]] — from protectorate to Crown Colony to the violence of the Emergency
 - [[Elections]] — every election from 1963 to 2022, each one a referendum on what Kenya is
 - [[Jomo Kenyatta Presidency]] — Kenyatta, Moi, Kibaki, Uhuru, Ruto: the unbroken thread of power
 - [[2007-08 Post-Election Violence]] — the post-election violence that nearly broke the country

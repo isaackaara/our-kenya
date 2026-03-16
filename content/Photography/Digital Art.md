@@ -8,12 +8,12 @@ Contemporary Kenyan digital artists create sophisticated work addressing contemp
 
 ## See Also
 - [[Computer Generated Imagery]]
-- [[Digital Image Editing]]
+- [[Digital Art]]
 - [[Interactive Digital Art]]
-- [[Online Art Platforms]]
+- [[Online News Platforms]]
 - [[Animation and Digital Design]]
-- [[Digital Tools and Accessibility]]
-- [[Technology and Creative Practice]]
+- [[Digital Art]]
+- [[Technology]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Digital_art - Digital Art History

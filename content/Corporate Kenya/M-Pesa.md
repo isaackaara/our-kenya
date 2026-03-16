@@ -100,7 +100,7 @@ M-Pesa is likely to remain Kenya's dominant mobile money platform. Digital finan
 - [[Financial Inclusion Kenya]]
 - [[Central Bank of Kenya]]
 - [[Microfinance Kenya]]
-- [[Digital Financial Services Kenya]]
+- [[Digital Art]]
 
 ## Sources
 

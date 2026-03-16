@@ -12,7 +12,7 @@ Contemporary fashion illustration in Kenya contributes to fashion design, fashio
 - [[Design Communication]]
 - [[Artistic Figure Drawing]]
 - [[Fabric and Texture Representation]]
-- [[Publication Illustration]]
+- [[Illustration Art]]
 - [[Contemporary Fashion Art]]
 
 ## Sources

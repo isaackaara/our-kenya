@@ -12,7 +12,7 @@ The KANU primary system served a important function for the regime: it provided 
 
 - [[1969 Election]]
 - [[1969 Election KANU Only]]
-- [[KANU Organization]]
+- [[Moi and KANU]]
 - [[Party Primary Systems]]
 - [[Single-Party Democracy]]
 - [[Internal Party Competition]]

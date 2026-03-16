@@ -71,7 +71,7 @@ Somali political marginalization, security profiling, and development neglect ar
 ## See Also
 
 - [[Shifta War Overview]]
-- [[Wagalla Massacre 1984]]
+- [[The Wagalla Massacre 1984]]
 - [[Kenyan Somali and Security State]]
 - [[Dadaab Refugee Complex]]
 - [[Kenyan Somali Identity]]

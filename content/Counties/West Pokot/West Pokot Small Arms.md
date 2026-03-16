@@ -52,7 +52,7 @@ Reducing small arms proliferation in West Pokot requires addressing both supply 
 
 [[West Pokot County]]
 [[West Pokot Conflict]]
-[[West Pokot Security]]
+[[West Pokot Food Security]]
 [[West Pokot Youth]]
 [[West Pokot Politics]]
 

@@ -22,7 +22,7 @@ Civil society in 1979 was beginning to experience shifts that would become more 
 - [[1979 Election]]
 - [[Kenya]]
 - [[Churches Kenya]]
-- [[Labor Movement Kenya]]
+- [[The Gen Z Kenya Movement]]
 - [[Nyala]]
 - [[Kenya]]
 

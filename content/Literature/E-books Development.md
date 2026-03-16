@@ -19,8 +19,8 @@ Self-published authors found ebook platforms particularly valuable for reaching 
 - [[Digital Literary Platforms]]
 - [[Self-Publishing Movement]]
 - [[Publishing Industry Kenya]]
-- [[Educational Literature Development]]
-- [[Accessibility Literature]]
+- [[Literature]]
+- [[Literature]]
 - [[Writers Associations]]
 
 ## Sources

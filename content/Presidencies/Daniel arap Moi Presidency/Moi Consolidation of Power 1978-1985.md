@@ -21,8 +21,8 @@ By 1983, Moi had accomplished a consolidation of power that was nearly complete.
 [[Moi First Cabinet as President]]
 [[1982 Coup Attempt]]
 [[Moi and the Njonjo Affair]]
-[[Moi and Internal Security]]
-[[Moi Consolidation of Power]]
+[[Internal Security Operations]]
+[[Moi Consolidation of Power 1978-1985]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

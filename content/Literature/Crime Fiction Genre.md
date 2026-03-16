@@ -22,12 +22,12 @@ Contemporary crime fiction in Kenya continues developing, addressing contemporar
 
 ## See Also
 [[Meja Mwangi Novels]]
-[[Urban Literature Kenya]]
+[[Literature]]
 [[Postcolonial Literature Movement]]
 [[Corruption in Literature]]
-[[Violence and Literature]]
+[[Literature]]
 [[Genre Fiction Africa]]
-[[Social Commentary Literature]]
+[[Social Commentary]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Meja_Mwangi - Crime and urban narratives in literature

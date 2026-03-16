@@ -1,6 +1,6 @@
 Coastal security management in Kenya involves [[Kenya Navy|naval forces]], [[Kenya Police]], and dedicated maritime law enforcement units coordinating operations across Kenya's 440-kilometre Indian Ocean coastline and Exclusive Economic Zone totalling approximately 140000 square kilometres. Maritime security operations prioritize counter-piracy, prevention of maritime trafficking, protection of fishing resources, and prevention of weapons smuggling from [[Somalia]] and regional sources.
 
-The [[Somalia|Somali piracy]] crisis of 2008-2012 prompted significant institutional expansion of [[Kenya Navy|naval forces]] and maritime law enforcement capacity. Anti-piracy operations coordinated with international naval forces from the [[United States|US]], [[UK|United Kingdom]], [[China]], and [[India]] operating in the [[Indian Ocean|Indian Ocean]] region. By 2012, coordinated international and Kenyan naval operations had reduced piracy attacks substantially, with most attempted operations concentrated in international waters rather than Kenyan territorial waters.
+The [[Somalia|Somali piracy]] crisis of 2008-2012 prompted significant institutional expansion of [[Kenya Navy|naval forces]] and maritime law enforcement capacity. Anti-piracy operations coordinated with international naval forces from the [[United States Military Partnerships|US]], [[UK|United Kingdom]], [[China]], and [[India]] operating in the [[Indian Ocean|Indian Ocean]] region. By 2012, coordinated international and Kenyan naval operations had reduced piracy attacks substantially, with most attempted operations concentrated in international waters rather than Kenyan territorial waters.
 
 The [[Kenya Navy|naval forces]] established expanded port security operations at [[Mombasa]] and [[Lamu Port]] designed to prevent weapons trafficking from [[Somalia]] and region, detect narcotics smuggling, and prevent maritime transportation of militant personnel. By 2015, port security operations had detected approximately 340 significant trafficking incidents, with seizure of weapons, explosives, and narcotics. However, institutional capacity for comprehensive port monitoring remained limited, with substantial volumes of illicit goods likely transiting Kenyan waters undetected.
 
@@ -11,9 +11,9 @@ Coastal security operations generated friction with civilian populations and fis
 ## See Also
 
 [[Kenya Navy]]
-[[Border Patrol Operations]]
+[[Border-Patrol-Operations]]
 [[Border Security Management]]
-[[Airspace Security Control]]
+[[Airspace-Security-Control]]
 [[Counterterrorism Operations Kenya]]
 [[Somalia]]
 [[Armed Forces Infrastructure]]

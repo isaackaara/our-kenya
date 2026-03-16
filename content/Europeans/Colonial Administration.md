@@ -2,7 +2,7 @@ The District Commissioner (DC) system was the backbone of colonial administratio
 
 ## The District Commissioner as Autocrat
 
-A District Commissioner might govern an area of thousands of square kilometres and populations of 50,000 or more. The DC reported to the Provincial Commissioner and ultimately to the [[Governor]], implementing both local and imperial policy. His authority was vast: he could tax (hut tax, poll tax), he could make regulations (with some constraints from the colonial Secretary of State), he could adjudicate disputes, he could command military force, he could exile troublemakers. In practice, the DC was a near-absolute ruler in his district.
+A District Commissioner might govern an area of thousands of square kilometres and populations of 50,000 or more. The DC reported to the Provincial Commissioner and ultimately to the [[Uhuru and Margaret Kenyatta as Nairobi Governor]], implementing both local and imperial policy. His authority was vast: he could tax (hut tax, poll tax), he could make regulations (with some constraints from the colonial Secretary of State), he could adjudicate disputes, he could command military force, he could exile troublemakers. In practice, the DC was a near-absolute ruler in his district.
 
 The DC system worked because it was supported by: the myth of impartial British justice, the prestige of colonial authority, the willingness of local elites to collaborate (and benefit) from colonial rule, and the credible threat of violence. When a DC's authority was questioned, the colonial state deployed military force. The 1952-1960 Mau Mau uprising, for instance, was met with overwhelming military violence, collective punishments, and detention camps.
 

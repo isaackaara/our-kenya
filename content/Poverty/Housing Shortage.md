@@ -9,7 +9,7 @@ The social consequences of housing shortage are severe. Homelessness is visible 
 Addressing housing shortage requires fundamental changes in housing production systems. Land availability could be increased through land reforms, formalization of customary tenure, and conversion of unused public land. Construction costs could be reduced through local material development, reduced building standard requirements for low-income housing, and labor cost moderation. Financing could be expanded through development of mortgage markets, government subsidies for low-income housing, and community-based savings schemes. International experience with housing programs in other countries offers models potentially adaptable to Kenya. However, political will remains limited, with housing treated as private consumer choice rather than development priority.
 
 ## See Also
-[[Housing Poverty]], [[Urban Poverty]], [[Slum Expansion]], [[Land Scarcity]], [[Homelessness Rates]], [[Infrastructure Access]], [[Rental Markets]], [[Urban Planning]]
+[[Housing Poverty]], [[Urban Poverty]], [[Slum Expansion]], [[Land Scarcity]], [[Homelessness Rates]], [[Infrastructure Access]], [[Rental Markets]], [[Urban Planning Development]]
 
 ## Sources
 1. UN-Habitat (2015). "Affordable housing in Africa: Overview of the sector." https://unhabitat.org

@@ -26,10 +26,10 @@ Contemporary magical realism in Kenya continues developing, with writers incorpo
 [[Oral Storytelling Traditions]]
 [[Indigenous Spirituality Literature]]
 [[Postcolonial Literature Movement]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Speculative Fiction Africa]]
 [[Cultural Recovery Literature]]
-[[Gender and Fantasy Literature]]
+[[Gender Pay Gap]]
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Magical realism and fantasy publishing

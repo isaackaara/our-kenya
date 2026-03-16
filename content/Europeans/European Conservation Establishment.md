@@ -118,7 +118,7 @@ The truth likely involves elements of both assessment. Conservation has prevente
 
 - [[Joy and George Adamson]] - Conservation pioneers
 - [[Kuki Gallmann]] - Contemporary conservationist
-- [[Wildlife Conservation in Kenya]] - Broader conservation history
+- [[Conservation]] - Broader conservation history
 - [[David Sheldrick]] - Individual organization example
 - [[Laikipia Ranch Families]] - Conservation and land conflicts
 - [[Land Restitution Debate]] - Questions about conservation land

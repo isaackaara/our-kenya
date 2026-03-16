@@ -8,7 +8,7 @@ The British military relied heavily on porters and carrier corps recruited from 
 
 ## Conscription and Resistance
 
-The British conscription of [[Mijikenda]] porters occurred in the context of the [[Giriama Uprising 1913-1914|Giriama Uprising]] (1913-1914). The [[Giriama]], having just resisted British labor conscription and been forcibly relocated, faced renewed pressure to provide porters for the war effort. This created additional Giriama grievance and reinforced resentment toward colonial demands.
+The British conscription of [[Mijikenda]] porters occurred in the context of the [[The Giriama Uprising 1913-1914|Giriama Uprising]] (1913-1914). The [[Giriama]], having just resisted British labor conscription and been forcibly relocated, faced renewed pressure to provide porters for the war effort. This created additional Giriama grievance and reinforced resentment toward colonial demands.
 
 Some Mijikenda and other coastal populations resisted conscription, fleeing inland or hiding from recruiters. However, the power imbalance between colonial authorities and African populations made sustained resistance difficult. Many young men were forcibly conscripted.
 

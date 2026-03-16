@@ -74,10 +74,10 @@ The incident also reflected broader patterns: Uhuru's presidential prerogative, 
 - [[Media Ownership Kenya]]
 - [[Social Media Regulation Kenya]]
 - [[Kenya Broadcasting Standards]]
-- [[Civil Society and Democracy Kenya]]
-- [[2010 Constitution Rights Protections]]
+- [[Civil Society Kenya]]
+- [[The Constitution of 2010]]
 - [[International Press Freedom Standards]]
-- [[Journalism Ethics Kenya]]
+- [[Art Journalism]]
 
 ## Sources
 

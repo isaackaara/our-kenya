@@ -50,7 +50,7 @@ At independence (1963), the political structures changed dramatically. The Legis
 - [[Alibhai Mulla Jeevanjee]]
 - [[Asian Political Participation]]
 - [[Colonial Kenya]]
-- [[Legislative Council Kenya]]
+- [[The Legislative Council]]
 
 ## Sources
 

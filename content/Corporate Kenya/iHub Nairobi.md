@@ -52,7 +52,7 @@ iHub remains operational but faces competition and challenges. The physical co-w
 - [[Tech Entrepreneurship Kenya]]
 - [[Nairobi]]
 - [[Co-Working Kenya]]
-- [[Ecosystem Development Kenya]]
+- [[Development Aid]]
 
 ## Sources
 

@@ -17,7 +17,7 @@ The 1963 election had thus revealed the fundamental incompatibility between Odin
 - [[1963 Election Results]]
 - [[Kenya]]
 - [[Kenya People's Union Formation]]
-- [[Socialist Movements Kenya]]
+- [[Art Movements Kenya]]
 - [[Kenya]]
 
 ## Sources

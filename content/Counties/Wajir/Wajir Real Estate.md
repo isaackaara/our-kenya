@@ -55,7 +55,7 @@ Property owners engage in maintenance to preserve property values. Water scarcit
 - [[Wajir Town]]
 - [[Wajir County]]
 - [[Wajir Land]]
-- [[Wajir Economy]]
+- [[The NGO Economy]]
 - [[Wajir Infrastructure]]
 - [[Wajir Politics]]
 - [[Wajir Timeline]]

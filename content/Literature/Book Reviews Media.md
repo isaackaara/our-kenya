@@ -18,7 +18,7 @@ The reviews of African literature by international reviewers shaped how global a
 [[Literary Journals Publishing]]
 [[Media and Literature Kenya]]
 [[Book Recommendations Kenya]]
-[[Digital Publishing Africa]]
+[[Digital Art]]
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Literary publishing and reviews

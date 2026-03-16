@@ -26,7 +26,7 @@
 
 - [[1992 Election]]
 - [[Moi Presidency Timeline]]
-- [[Democratic Return Kenya]]
+- [[The Return Gap]]
 - [[Electoral Timeline Kenya]]
 - [[Political Transformation]]
 - [[Saba Saba Riots]]

@@ -87,7 +87,7 @@ The Adamsons exemplify the complex legacy of European conservation in Africa: ge
 - [[African Wildlife]] - Conservation subjects
 - [[European Settlement Overview]] - Settler context
 - [[Elsa the Lioness]] - Famous lion of their work
-- [[Wildlife and Tourism in Kenya]] - Conservation economics
+- [[Art Tourism]] - Conservation economics
 
 ## Sources
 

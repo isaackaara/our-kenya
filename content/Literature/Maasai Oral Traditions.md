@@ -18,7 +18,7 @@ Contemporary efforts to preserve and valorize [[Maasai Oral Traditions]] reflect
 - [[Kenyan Language Literature]]
 - [[Samburu Storytelling]]
 - [[Libraries Archives]]
-- [[Educational Literature Development]]
+- [[Literature]]
 - [[Diaspora Communities]]
 
 ## Sources

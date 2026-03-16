@@ -65,7 +65,7 @@ The Crown Lands system and the squatter system were complementary: land alienati
 ## See Also
 
 - [[White Highlands]] - The territory created by the ordinances
-- [[Squatter System in Kenya]] - Labor system on European farms
+- [[The Squatter System]] - Labor system on European farms
 - [[European Settlement Overview]] - Settler land acquisition context
 - [[Mau Mau Uprising]] - Uprising over land dispossession
 - [[Land Restitution Debate]] - Contemporary land justice questions

@@ -1,4 +1,4 @@
-Kenya's military-industrial development has remained limited in scope compared to neighbouring [[South Africa]] or [[Ethiopia]], with domestic production capacity focused on small arms ammunition, military uniforms, and basic equipment assembly rather than complex weapons systems or advanced military technology. The [[Kenya Defence Force|military]] historically depended on external suppliers for major equipment, creating strategic vulnerability and sustained dependency relationships with [[Britain]], the [[United States]], and after 1990 increasingly diverse suppliers including [[India]], [[Israel]], and [[UAE]].
+Kenya's military-industrial development has remained limited in scope compared to neighbouring [[Moi and South Africa]] or [[Ethiopia-Kenya Somali Connections]], with domestic production capacity focused on small arms ammunition, military uniforms, and basic equipment assembly rather than complex weapons systems or advanced military technology. The [[Kenya Defence Force|military]] historically depended on external suppliers for major equipment, creating strategic vulnerability and sustained dependency relationships with [[Britain]], the [[United States Military Partnerships]], and after 1990 increasingly diverse suppliers including [[India]], [[Israel]], and [[UAE]].
 
 The [[Kenya Ordnance Factory]], established in Eldoret in 1980, represented the primary state investment in military production, producing small calibre ammunition, artillery shells, and training munitions. Initial capacity reached approximately 18 million rounds annually by 1985, supplying domestic [[Kenya Police|police]] and [[Armed Forces Infrastructure|military]] requirements while reducing import expenditures. The facility operated under tight government supervision, with security-classified production runs and employment restricted to vetted personnel. However, capacity utilization remained inconsistent, falling below 40 percent during peace periods and exceeding 70 percent only during active counterterrorism operations.
 
@@ -10,13 +10,13 @@ Military research through [[Kenya Institute of Technology|KIMIT]] and coordinati
 
 ## See Also
 
-[[Arms Procurement Practices]]
+[[Arms-Procurement-Practices]]
 [[Kenya Defence Force]]
 [[Defence Budget Spending]]
 [[Armed Forces Infrastructure]]
 [[Kenya Navy]]
 [[Security Sector Reform]]
-[[Defence Exports Kenya]]
+[[Kenya Exports]]
 
 ## Sources
 

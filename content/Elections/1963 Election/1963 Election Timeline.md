@@ -32,7 +32,7 @@
 - [[1963 Election Results]]
 - [[1963 Election Independence]]
 - [[Kenya]]
-- [[KANU Consolidation]]
+- [[Moi and KANU]]
 - [[1963 Election KADU Dissolution]]
 - [[The Lancaster House Conferences]]
 

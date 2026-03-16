@@ -17,8 +17,8 @@ At independence, the new government expanded irrigation schemes, particularly th
 [[Colonial Agricultural Policy]]
 [[Water Supply Systems]]
 [[Settler Farming System]]
-[[Colonial Infrastructure Development]]
-[[Environmental Degradation Colonial]]
+[[Moi Infrastructure Development]]
+[[Environmental Art]]
 [[Land Alienation]]
 
 ## Sources

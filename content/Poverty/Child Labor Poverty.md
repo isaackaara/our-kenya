@@ -9,7 +9,7 @@ The intersection of child labor and trafficking is significant. Some child labor
 Interventions addressing child labor combine social protection, education access, and labor law enforcement. Conditional cash transfer programs provide income to poor families, reducing economic necessity of child labor; school fee elimination increases education access; and skills training provides employment alternatives for older adolescents. Labor law enforcement through inspection and prosecution of child labor violators creates disincentives for employers. NGO outreach programs identify child laborers, facilitate rescue, and provide rehabilitation and educational support. However, interventions reach minority of child laborers; poverty-driven labor persists despite program availability. Fundamental reduction would require poverty elimination, free education access, and living-wage employment for adults, eliminating economic necessity of child labor.
 
 ## See Also
-[[Child Trafficking]], [[Street Children]], [[Education Access]], [[Social Protection]], [[Poverty Measurement]], [[Agricultural Labor]], [[Domestic Service]], [[Labour Rights]]
+[[Child Trafficking]], [[Street Children]], [[Education Access]], [[Social Protection]], [[Poverty Measurement]], [[Agricultural Labor]], [[Domestic Service]], [[Labour]]
 
 ## Sources
 1. International Labour Organization (2017). "Global Estimates of Child Labour." https://www.ilo.org

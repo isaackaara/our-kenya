@@ -20,7 +20,7 @@ The novel remains required reading in African literature courses, ensuring Tutuo
 [[The Palm-Wine Drinkard]]
 [[Postcolonial Literature Movement]]
 [[Oral Poetry Traditions]]
-[[Language and Decolonization]]
+[[Luo Language]]
 [[African Literary Canonization]]
 [[Yoruba Culture and Literature]]
 [[Narrative Innovation Africa]]

@@ -1,4 +1,4 @@
-[[Sindhis]] come from [[Sindhi Community Kenya]] (now Pakistan, formerly part of British India). In Kenya, they number perhaps 2,000 to 3,000. Sindhis are primarily [[merchants]] and traders, known for their textile and general merchandise businesses. They arrived later than some communities, with significant migration occurring in the 1920s-1940s.
+[[Sindhis]] come from [[Sindhi Community Kenya]] (now Pakistan, formerly part of British India). In Kenya, they number perhaps 2,000 to 3,000. Sindhis are primarily [[Indian Merchants Coast]] and traders, known for their textile and general merchandise businesses. They arrived later than some communities, with significant migration occurring in the 1920s-1940s.
 
 ## Origins and Migration
 

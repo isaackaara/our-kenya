@@ -5,8 +5,8 @@ Churches in Kenya responded to the 1988 election with criticism and calls for de
 - [[Churches Kenya]]
 - [[Timothy Njoya]]
 - [[Kenya]]
-- [[Second Liberation Kenya]]
-- [[NCCK]]
+- [[Second Liberation Music Kenya]]
+- [[Moi and the NCCK]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

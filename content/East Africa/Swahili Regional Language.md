@@ -19,12 +19,12 @@ Swahili culture, including its poetry, music (taarab), architecture, and cuisine
 ## See Also
 
 [[Swahili]]
-[[Indian Ocean Heritage]]
-[[East Africa Overview]]
-[[Arab Slave Trade]]
-[[Omani Empire]]
-[[Luo Language Family]]
-[[Coast History]]
+[[19_Indian_Ocean_Heritage]]
+[[2_East_Africa_Overview]]
+[[26_Arab_Slave_Trade]]
+[[27_Omani_Empire]]
+[[23_Luo_Language_Family]]
+[[Coast-History]]
 
 ## Sources
 

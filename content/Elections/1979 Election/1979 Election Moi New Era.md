@@ -18,7 +18,7 @@ The "footprints" metaphor of Nyayo was ambiguous. It could be interpreted as pro
 - [[Daniel arap Moi]]
 - [[Nyala]]
 - [[1979 Election]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[Kenya]]
 - [[Jomo Kenyatta]]
 

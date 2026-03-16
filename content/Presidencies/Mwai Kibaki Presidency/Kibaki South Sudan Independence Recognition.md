@@ -10,12 +10,12 @@ Kibaki's government's initial support for South Sudan independence thus gave way
 
 ## See Also
 
-[[South Sudan Independence]]
+[[Kibaki South Sudan Independence Recognition]]
 [[Kenya and South Sudan Relations]]
 [[Refugees in Kenya]]
 [[East African Stability]]
 [[Kibaki Foreign Policy]]
-[[Regional Development and Cooperation]]
+[[Development Aid]]
 
 ## Sources
 

@@ -56,7 +56,7 @@ For Kenya's institutional development, the fallout raised questions about whethe
 - [[Raila Odinga]]
 - [[Uhuru Handshake]]
 - [[Uhuru BBI]]
-- [[2022 Kenyan Election]]
+- [[Kenyan Somali and the 2022 Election]]
 - [[Jubilee Party]]
 - [[United Democratic Alliance]]
 - [[Kalenjin]]

@@ -21,8 +21,8 @@ By the 1950s, the contradictions between migration control and urbanisation pres
 [[Colonial Curfews]]
 [[Labour]]
 [[Colonial Identification Systems]]
-[[Forced Labour and Colonialism]]
-[[Colonial Control]]
+[[Labour]]
+[[Colonial Migration Control]]
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

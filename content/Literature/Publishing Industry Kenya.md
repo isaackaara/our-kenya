@@ -25,11 +25,11 @@ Contemporary Kenyan publishing navigates digital transformation, international p
 ## See Also
 [[East African Literature Bureau]]
 [[Literary Journals Publishing]]
-[[Educational Literature Kenya]]
+[[Literature]]
 [[International Publishing Kenya]]
 [[Authors and Copyright Kenya]]
-[[Printing Press History Kenya]]
-[[Digital Publishing Africa]]
+[[Printing Press History]]
+[[Digital Art]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Kenya_Literature_Bureau - Historical context for publishing institutions

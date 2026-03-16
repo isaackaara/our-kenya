@@ -5,7 +5,7 @@
 - [[Manufacturing History Kenya]] - Industrial development patterns
 - [[Consumer Goods Kenya]] - FMCG sector in Kenya
 - [[Colonial Economy]] - Colonial-era industrial establishment
-- [[Foreign Investment Kenya]] - Multinational corporation presence
+- [[Art Investment]] - Multinational corporation presence
 - [[East Africa Trade Flows]] - Regional product distribution
 - [[Post-Independence Economic Policy]] - Industrial inheritance
 - [[Nairobi Stock Exchange]] - Listed multinational companies

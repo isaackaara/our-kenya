@@ -2,7 +2,7 @@ John Ainsworth (1864-1946) was one of the most significant British colonial admi
 
 ## Early Career and Appointment
 
-Ainsworth arrived in East Africa in 1887 and initially worked for the [[Imperial British East Africa Company]] (IBEA Company) as a soldier and administrator. When the IBEA Company's influence waned and the British government took direct control of the East Africa Protectorate, Ainsworth transitioned into the colonial administration.
+Ainsworth arrived in East Africa in 1887 and initially worked for the [[Luo and the British]] (IBEA Company) as a soldier and administrator. When the IBEA Company's influence waned and the British government took direct control of the East Africa Protectorate, Ainsworth transitioned into the colonial administration.
 
 In the early 1890s, Ainsworth was appointed to oversee the Kikuyu region, one of the most densely populated and agriculturally productive areas of the interior. This region was central to British colonial ambitions because it was adjacent to proposed railway routes and contained resources (fertile land, forest) that European settlers coveted.
 

@@ -106,7 +106,7 @@ By the 2020s, the Kenyan government began reconsidering the devolution architect
 - [[Devolved government in Kenya]] - governance structure
 - [[Nyamira County]] - sister county split
 - [[Kenya County governments]] - comparative budgets
-- [[Public finance in Kenya]] - national fiscal system
+- [[Public Art]] - national fiscal system
 - [[County governance challenges in Kenya]] - implementation issues
 
 ## Sources

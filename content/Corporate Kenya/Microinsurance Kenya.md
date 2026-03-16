@@ -21,7 +21,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Risk Management Kenya]]
 - [[Microfinance Kenya]]
 - [[Kenya Economic Overview]]
-- [[Digital Financial Services Kenya]]
+- [[Digital Art]]
 - [[Insurance Regulatory Authority]]
 
 ## Sources

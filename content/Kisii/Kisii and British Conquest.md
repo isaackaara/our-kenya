@@ -1,4 +1,4 @@
-The British conquest of the [[Gusii]] territories (1904-1908) was marked by significant Gusii resistance and resulted in considerable violence, livestock seizure, and the burning of settlements. The [[Kisii Punitive Expeditions]], as they were officially termed, established British colonial administrative authority over the region and disrupted traditional Gusii social structures, land ownership, and political systems.
+The British conquest of the [[Gusii]] territories (1904-1908) was marked by significant Gusii resistance and resulted in considerable violence, livestock seizure, and the burning of settlements. The [[Kisii]], as they were officially termed, established British colonial administrative authority over the region and disrupted traditional Gusii social structures, land ownership, and political systems.
 
 ## Early British Contact and Imperial Ambitions
 

@@ -14,7 +14,7 @@ The Luo are a Nilotic people with a population of approximately 10 percent of Ke
 
 ## Culture, Education, and Leadership
 
-[[Luo Music and Culture]] | [[Ohangla Music]] | [[[[Benga Music Origins|benga music]] Origins]] | [[Luo Music Industry]] | [[D.O. Misiani]] | [[Nyatiti]] | [[Luo Oral Literature]] | [[Luo Dance Forms]] | [[Luo Dress and Adornment]] | [[Luo and Education]] | [[Luo in the Professions]] | [[[[Tom Mboya|Tom Mboya]]]] | [[[[Barack Obama Sr|Barack Obama Sr]].]] | [[Luo Women in History]] | [[Luo Women's Roles]] | [[[[Grace Ogot Deep Dive|Grace Ogot]] Deep Dive]] | [[Atieno Odhiambo]] | [[Asenath Bole Odaga]]
+[[Luo Music and Culture]] | [[Ohangla Music]] | [[[[Benga Music Origins|benga music]] Origins]] | [[Luo Music Industry]] | [[D.O. Misiani]] | [[Nyatiti]] | [[Luo Oral Literature]] | [[Luo Dance Forms]] | [[Luo Dress and Adornment]] | [[Luo and Education]] | [[Luo in the Professions]] | [[Tom Mboya|Tom Mboya]]]] | [[Barack Obama Sr|Barack Obama Sr]].]] | [[Luo Women in History]] | [[Luo Women's Roles]] | [[Grace Ogot Deep Dive|Grace Ogot]] Deep Dive]] | [[Atieno Odhiambo]] | [[Asenath Bole Odaga]]
 
 ## Family, Marriage, and Social Life
 

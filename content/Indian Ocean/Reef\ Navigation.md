@@ -24,7 +24,7 @@ The persistence of reef-caused maritime accidents despite improved technology re
 [[Pilot Knowledge]]
 [[Coastal Hazards]]
 [[Maritime Safety]]
-[[Coral Reef Ecosystems]]
+[[Coral Ecosystems]]
 
 ## Sources
 

@@ -2,22 +2,22 @@ Women represent a growing but still underrepresented share of Kenya's business o
 
 ## Overview
 
-Female participation in [[business Kenya|business]] varies by [[Pension Sector Kenya|sector]]. Women dominate [[Informal Sector|informal sector]] activities (small-scale trading, services) but remain rare in [[formal enterprises Kenya|formal enterprises]] and [[corporate leadership Kenya|corporate leadership]].
+Female participation in [[Women in Business Management Kenya|business]] varies by [[Pension Sector Kenya|sector]]. Women dominate [[Informal Sector|informal sector]] activities (small-scale trading, services) but remain rare in [[formal enterprises Kenya|formal enterprises]] and [[Corporate Kenya|corporate leadership]].
 
 ## Key Points
 
 - Women are significant in [[smallholder agriculture Kenya|smallholder agriculture]]
 - [[SME Kenya|SME]] ownership by women is growing
-- [[Corporate boards Kenya|Corporate boards]] remain male-dominated
+- [[Corporate Kenya|Corporate boards]] remain male-dominated
 - [[Access to finance Kenya|Access to finance]] remains a barrier
 
 ## Outlook
 
-Policy focus on [[Women|women entrepreneur support]] and [[gender equity Kenya|gender equity]] is increasing.
+Policy focus on [[Women|women entrepreneur support]] and [[Gender Pay Gap|gender equity]] is increasing.
 
 ## See Also
 
-- [[Gender Equity Kenya]]
+- [[Gender Pay Gap]]
 - [[Women]]
 - [[Female Leadership Kenya]]
 - [[Business Access to Capital Kenya]]

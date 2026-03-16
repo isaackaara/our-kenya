@@ -18,10 +18,10 @@ Avocado cultivation raised labor and social issues. While mechanization was limi
 
 [[Fruit Production Sector]]
 [[Horticultural Sector]]
-[[Export Economy Kenya]]
+[[The NGO Economy]]
 [[Cash Crops Development]]
 [[Water Resources Management]]
-[[Environmental Sustainability]]
+[[Environmental Art]]
 [[Smallholder Agriculture]]
 
 ## Sources

@@ -15,7 +15,7 @@ Documentary festivals provided educational functions, offering filmmaker worksho
 By the 2010s, documentary festivals had become established venues within Kenyan cinema, though resource limitations challenged sustainability. The commitment to maintaining documentary festival programming reflected importance of documentary to Kenyan film culture and recognition of documentary's artistic and social significance.
 
 ## See Also
-[[Documentary Film]], [[Film Festival History]], [[Nairobi Film Festival]], [[Independent Film]], [[Environmental Issues]], [[Media]], [[Education]]
+[[Documentary Film]], [[Film Festival History]], [[Nairobi Film Festival]], [[Independent Film]], [[Environmental Art]], [[Media]], [[Education]]
 
 ## Sources
 1. https://www.africabib.org/geo_en_c.php?c=KE&type=Film

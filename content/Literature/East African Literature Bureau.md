@@ -22,9 +22,9 @@ The bureau exemplifies broader questions about state roles in literary culture. 
 
 ## See Also
 [[Publishing Industry Kenya]]
-[[Kiswahili Literature]]
-[[Educational Literature Kenya]]
-[[Postcolonial Publishing]]
+[[Literature]]
+[[Literature]]
+[[Colonial Publishing]]
 [[State Cultural Policy Kenya]]
 [[Literary Journals Publishing]]
 [[Children's Literature Kenya]]

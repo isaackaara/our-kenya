@@ -7,10 +7,10 @@ Other institutions including universities, government buildings, and private org
 Collection curation involves ongoing decisions about preservation, display, storage, and interpretation. Conservation of artworks requires specialized expertise and resources to prevent deterioration and maintain work in viewable condition. Museum displays arrange collected work to tell particular historical narratives, educate visitors, and showcase artistic achievement. The interpretation of collected art through labels, catalogue information, and curatorial statements shapes how viewers understand and value artworks. Debates about collection ownership, display ethics, and representation continue to shape museum practice in Kenya.
 
 ## See Also
-- [[National Museum Kenya]]
-- [[Museum Curation Practices]]
+- [[National Museum]]
+- [[Museum Curation]]
 - [[Art Conservation]]
-- [[Collection Policies Kenya]]
+- [[Moi Art Collection]]
 - [[Museum Interpretation and Display]]
 - [[Colonial Collections and Repatriation]]
 - [[Institutional Art Acquisition]]

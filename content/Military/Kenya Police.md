@@ -20,7 +20,7 @@ The Kenya Police's evolution reflects the broader challenge of transforming inst
 
 [[Police Force Establishment]]
 [[General Service Unit Operations]]
-[[Police Brutality Accountability]]
+[[Police-Brutality-Accountability]]
 [[Internal Security Operations]]
 [[1982 Coup Attempt]]
 [[Kenya Defence Force]]

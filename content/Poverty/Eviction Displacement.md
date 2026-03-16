@@ -9,7 +9,7 @@ Informal evictions through force without legal process are common in informal se
 The consequences of displacement extend far beyond immediate housing loss. Livelihood loss occurs when displacement separates workers from employment; urban displacement may move residents beyond transportation reach of jobs. Social network disruption occurs when communities are scattered; mutual support systems are destroyed. Children's education is disrupted; school enrollment may be impossible after displacement. Health deterioration occurs from stress, malnutrition, and disease exposure in temporary shelter. Psychological trauma from violent displacement creates lasting mental health impacts. Resettlement sites are often inadequate: housing is substandard; services are absent; livelihood opportunities are missing. Without effective relocation support, displacement perpetuates and deepens poverty.
 
 ## See Also
-[[Housing Poverty]], [[Slum Expansion]], [[Property Rights Slums]], [[Land Ownership Disputes]], [[Squatter Settlement]], [[Infrastructure Development]], [[Human Rights]], [[Trauma Poverty]]
+[[Housing Poverty]], [[Slum Expansion]], [[Property Rights Slums]], [[Land Ownership Disputes]], [[Squatter Settlement]], [[Infrastructure Development]], [[Human Rights Military Operations]], [[Trauma Poverty]]
 
 ## Sources
 1. Kenya Human Rights Commission (2016). "Forced Evictions and Displacement in Kenya: Documentation and Analysis." https://www.khrc.or.ke

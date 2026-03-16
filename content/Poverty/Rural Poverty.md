@@ -9,7 +9,7 @@ Non-agricultural rural income represents critical poverty-mitigation strategy fo
 Rural poverty is increasingly characterized by chronic stability rather than transient vulnerability. Historical poverty transitions research suggests limited movement out of poverty; households remaining poor across successive years; and poverty becoming self-perpetuating through limited school enrollment, poor nutrition, and inadequate health, reducing human capital accumulation. This pattern particularly affects pastoral populations in arid regions and agricultural populations in areas of severe land fragmentation. Development interventions including agricultural commercialization, irrigation, and value chain linkages have achieved localized successes but have not addressed fundamental structural constraints creating poverty at scale.
 
 ## See Also
-[[Agricultural Development]], [[Land Fragmentation]], [[Subsistence Agriculture]], [[Food Insecurity]], [[Casual Labor]], [[Remittances]], [[Regional Poverty Disparities]], [[Extension Services Agriculture]]
+[[Development Aid]], [[Land Fragmentation in Kisii]], [[Subsistence Agriculture]], [[Food Insecurity]], [[Casual Labor]], [[Remittances Kenya Economy]], [[Regional Poverty Disparities]], [[Extension Services Agriculture]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Integrated Household Budget Survey 2015-2016 County Analysis." https://www.knbs.or.ke

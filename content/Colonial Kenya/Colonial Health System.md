@@ -16,7 +16,7 @@ By the 1950s, the colonial health system had expanded substantially, with more h
 
 [[Colonial Medical Services]]
 [[Colonial Disease Control]]
-[[Maternal Health Colonial]]
+[[Health]]
 [[Tropical Medicine]]
 [[African Healers Traditional]]
 [[Public Health Infrastructure]]

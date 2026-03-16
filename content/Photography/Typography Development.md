@@ -8,11 +8,11 @@ Contemporary Kenyan typography engages with digital typographic possibilities wh
 
 ## See Also
 - [[Typeface Design]]
-- [[Letterform History]]
+- [[4_EAC_History]]
 - [[Print Design Practice]]
-- [[Digital Typography]]
+- [[Digital Art]]
 - [[Text and Visual Communication]]
-- [[Font Technology]]
+- [[Technology]]
 - [[Typographic Principles]]
 
 ## Sources

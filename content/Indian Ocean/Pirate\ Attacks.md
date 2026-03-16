@@ -20,7 +20,7 @@ The involvement of merchant crews in piracy represented continuation of occupati
 
 ## See Also
 
-[[Maritime Security]]
+[[Maritime Security Indian Ocean]]
 [[Piracy Trade Safety]]
 [[Naval Defense]]
 [[Merchant Vessel Armament]]

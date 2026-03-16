@@ -16,7 +16,7 @@ The relationship between industrial facility design and urban quality affects su
 
 ## See Also
 
-[[Commercial Building]], [[Warehouse Infrastructure]], [[Modern Construction Techniques]], [[Urban Planning Development]], [[Technology]], [[Electricity Infrastructure]], [[Environmental Design]]
+[[Commercial Building]], [[Warehouse Infrastructure]], [[Modern Construction Techniques]], [[Urban Planning Development]], [[Technology]], [[Electricity Infrastructure]], [[Environmental Art]]
 
 ## Sources
 

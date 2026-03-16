@@ -61,7 +61,7 @@ The Laikipia plateau remains a microcosm of the broader question: can white sett
 - [[Land Restitution Debate]] - Land justice questions
 - [[European Settlement Overview]] - Settler population
 - [[Pastoral Communities and Land]] - Pastoralist perspectives
-- [[Wildlife Conservation and Communities]] - Conservation ethics
+- [[Conservation]] - Conservation ethics
 - [[Europeans who Stayed]] - Post-independence settlers
 - [[White Privilege in Contemporary Kenya]] - Social position of whites
 

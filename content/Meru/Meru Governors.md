@@ -22,7 +22,7 @@ Meru county governance in the devolution era has involved:
 - **Infrastructure Development**: Roads, water, healthcare, and education infrastructure investments
 - **Miraa Economy**: Management of the dominant economic sector and its regulatory environment
 - **Service Delivery**: Health, education, and administrative service provision
-- **Political Competition**: Electoral competition between governors, with sub-group identities ([[Tigania]], [[Igembe]], [[Imenti]], [[Tharaka]]) structuring political coalitions
+- **Political Competition**: Electoral competition between governors, with sub-group identities ([[Tigania]], [[Tigania and Igembe]], [[Imenti People]], [[Tharaka]]) structuring political coalitions
 
 ## County Devolution Context
 

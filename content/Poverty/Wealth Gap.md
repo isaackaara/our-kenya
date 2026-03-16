@@ -9,7 +9,7 @@ Educational attainment powerfully predicts wealth outcomes, creating intergenera
 Corruption and rent-seeking have substantially exacerbated inequality. State officials have systematized extraction of public resources for personal enrichment: land grabbing from national reserves, procurement fraud, revenue theft, and patronage distribution. Business elites connected to political networks access government contracts, export monopolies, and preferential tariff treatment. This creates wealth differentials disconnected from productive contribution, concentrating accumulation among political insiders. [[Corruption|Corruption patterns]] and [[Wealth Gap|wealth concentration]] reinforce each other: wealthy individuals command political influence enabling rent protection, while political position facilitates wealth accumulation through insider access.
 
 ## See Also
-[[Income Inequality]], [[Housing Poverty]], [[Rural Poverty]], [[Education Access]], [[Land Ownership Disputes]], [[Corruption]], [[Formal Sector Employment]], [[Elite Formation]]
+[[Income Inequality]], [[Housing Poverty]], [[Rural Poverty]], [[Education Access]], [[Land Ownership Disputes]], [[Corruption]], [[Formal Sector Employment]], [[Elite Schools and Class Formation]]
 
 ## Sources
 1. World Bank (2012). "Kenya Economic Update: From Vision 2030 to Implementation." http://documents.worldbank.org

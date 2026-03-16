@@ -23,7 +23,7 @@ This timeline shows the sequence of events constituting the 1979 election, from 
 ## See Also
 - [[1979 Election]]
 - [[Daniel arap Moi]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[1979 Election KANU Primary]]
 - [[KANU Party]]
 - [[Kenya]]

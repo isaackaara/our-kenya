@@ -24,7 +24,7 @@ The border separates populations that share a common ancestral origin and have m
 
 Another significant cross-border group involves:
 
-**Kenyan Bukusu**: The Bukusu are a subgroup of the Luhya people, living in the western highlands of Kenya near [[Mount Kilimanjaro]].
+**Kenyan Bukusu**: The Bukusu are a subgroup of the Luhya people, living in the western highlands of Kenya near [[17_Mount_Kilimanjaro]].
 
 **Ugandan Bagisu**: The Bagisu people live on the Ugandan side of the highlands and are linguistically related to the Bukusu.
 
@@ -54,7 +54,7 @@ Kenya and Uganda have generally maintained reasonable border relations, despite 
 
 **Historical Cooperation**: During military rule in Uganda (1971-1979), Kenya served as a refuge for Ugandan exiles and opponents. During Daniel arap Moi's Kenya (1978-2002), Uganda accused Kenya of harboring dissidents.
 
-**Trade Friction**: Despite the [[EAC Common Market]] Protocol, Kenya and Uganda maintain non-tariff barriers and trade disputes. Kenya's industrial goods sometimes flood the Ugandan market, creating resentment, while Uganda accuses Kenya of protectionism.
+**Trade Friction**: Despite the [[5_EAC_Common_Market]] Protocol, Kenya and Uganda maintain non-tariff barriers and trade disputes. Kenya's industrial goods sometimes flood the Ugandan market, creating resentment, while Uganda accuses Kenya of protectionism.
 
 **Border Demarcation**: Minor disagreements exist over the exact border location in some sections, though neither country has pursued these as major disputes.
 
@@ -74,9 +74,9 @@ Post-colonial governments have increasingly controlled these movements through i
 - [[East Africa]]
 - [[Lake Victoria]]
 - [[Luo Language]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[Kenya]]
-- [[Mount Kilimanjaro]]
+- [[17_Mount_Kilimanjaro]]
 - [[East Africa Timeline]]
 
 ## Sources

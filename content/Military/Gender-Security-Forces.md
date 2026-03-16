@@ -10,11 +10,11 @@ Gender-based discrimination within security force institutions extended beyond c
 
 ## See Also
 
-[[Women Military Police]]
-[[LGBTQ+ Military Rights]]
+[[Women-Military-Police]]
+[[LGBTQ+-Military-Rights]]
 [[Kenya Defence Force]]
 [[Kenya Police]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 [[Sexual Violence Kenya]]
 [[Armed Forces Infrastructure]]
 

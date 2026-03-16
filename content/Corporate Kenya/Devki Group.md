@@ -4,7 +4,7 @@
 
 - [[Manufacturing History Kenya]] - Industrial development
 - [[Family-Owned Conglomerates Kenya]] - Multi-sector family businesses
-- [[Steel Industry Kenya]] - Steel manufacturing and distribution
+- [[Tea Industry Kenya]] - Steel manufacturing and distribution
 - [[Post-Independence Economic Policy]] - Business opportunities
 - [[Kenya Economic Overview]] - Corporate business environment
 - [[Private Equity in Kenya]] - Ownership and capital structure

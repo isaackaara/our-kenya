@@ -1,6 +1,6 @@
 The results of Kenya's 1997 presidential election delivered a narrow victory to incumbent [[Moi]], whose 40 percent of the popular vote represented the lowest margin of victory in any election he had contested. Moi secured 2,445,359 votes out of approximately 6 million total votes cast, with the remaining 60 percent of the vote distributed among multiple opposition candidates. The breakdown revealed the structural fragmentation of Kenya's opposition and the mathematical advantages that first-past-the-post electoral systems provide to plurality winners.
 
-Mwai Kibaki's [[Kibaki Democratic Party Founding 1991]] placed second with approximately 31 percent of the popular vote (1,896,271 votes), translating into overwhelming dominance in Central Province but limited traction elsewhere in the country. [[Raila Odinga]]'s [[National Development Party (NDP)]] placed third with approximately 12 percent (730,977 votes), concentrated in Nyanza Province and among Luo diaspora communities in urban areas. These three candidates accounted for roughly 83 percent of the total presidential vote, with the remaining 17 percent distributed among dozens of smaller candidates representing single-region or single-community parties.
+Mwai Kibaki's [[Kibaki Democratic Party Founding 1991]] placed second with approximately 31 percent of the popular vote (1,896,271 votes), translating into overwhelming dominance in Central Province but limited traction elsewhere in the country. [[Raila Odinga]]'s [[Development Aid]] placed third with approximately 12 percent (730,977 votes), concentrated in Nyanza Province and among Luo diaspora communities in urban areas. These three candidates accounted for roughly 83 percent of the total presidential vote, with the remaining 17 percent distributed among dozens of smaller candidates representing single-region or single-community parties.
 
 The regional breakdown of the 1997 results illuminated Kenya's ethnic and regional political divisions. In Central Province, Kibaki's Democratic Party secured approximately 85 percent of votes, reflecting near-total Kikuyu support for the party. In Rift Valley, Moi's KANU retained strength despite some opposition inroads, securing roughly 45-50 percent of the vote across the region (with variation depending on specific Rift Valley subregions and the presence of Luo or Kikuyu communities). In Nyanza Province, Raila's NDP dominated with over 60 percent of the vote, reflecting his political base and the region's historical alignment with opposition politics. In coastal regions, Moi and KANU secured roughly 30-35 percent, with the remainder fragmented among various opposition candidates and regional parties.
 
@@ -20,10 +20,10 @@ The 1997 results thus set the stage for the opposition's recognition that future
 
 - [[1997 Election]]
 - [[Electoral Commission of Kenya]]
-- [[Moi's presidency]]
+- [[Presidency Of Moi]]
 - [[2002 Election Results]]
 - [[Kenya]]
-- [[Opposition parties in Kenya]]
+- [[Moi and the Opposition]]
 
 ## Sources
 

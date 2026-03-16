@@ -18,7 +18,7 @@ The security provision in Lavington, with gated communities and security infrast
 [[Residential Architecture]]
 [[Private Real Estate]]
 [[Urban Planning Development]]
-[[Wealth Distribution]]
+[[Wealth Gap]]
 
 ## Sources
 

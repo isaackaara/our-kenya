@@ -15,7 +15,7 @@ Post-independence, Adventist hospitals continued operating, some integrated into
 - [[Faith Healing Medical Pluralism]]
 - [[Christian Schools Education]]
 - [[Religion Nation Building 1963]]
-- [[Evangelical Christianity Rise|Evangelicalism Rise in Kenya]]
+- [[Luo Christianity|Evangelicalism Rise in Kenya]]
 - [[Syncretic Religious Movements]]
 - [[Christianity and Colonial Missions]]
 

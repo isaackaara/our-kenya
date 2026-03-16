@@ -1,10 +1,10 @@
-The [[Fish Seafood Trade]] supplied protein to coastal populations and urban centers throughout the Indian Ocean, creating economic importance that reflected the fundamental role of seafood in port city diets. The trade in fish and other seafood reflected the dependence of maritime populations on ocean resources and created merchant networks connecting fishing communities to urban markets. The preservation and transport of perishable seafood created particular technical challenges that drove innovation in food preservation techniques.
+The [[Luo and the Fish Trade]] supplied protein to coastal populations and urban centers throughout the Indian Ocean, creating economic importance that reflected the fundamental role of seafood in port city diets. The trade in fish and other seafood reflected the dependence of maritime populations on ocean resources and created merchant networks connecting fishing communities to urban markets. The preservation and transport of perishable seafood created particular technical challenges that drove innovation in food preservation techniques.
 
 The primary seafood products traded through Indian Ocean networks included dried fish, smoked fish, and salted fish that could be preserved for longer periods than fresh catch. The drying and salting processes allowed extension of fish shelf life to durations compatible with long-distance trade. The coastal communities specializing in fish preservation developed expertise in techniques that maximized shelf life while maintaining palatability. The development of standardized preservation methods reduced product variability and enhanced market trust.
 
 The distribution of fishing communities along coastlines created natural market networks. Fishing communities in high-productivity areas would develop processing facilities capable of producing preserved fish for export. Fishing communities in lower-productivity areas might specialize in fresh fish distribution to nearby urban markets. The geographic complementarity of fishing resources created trade patterns where fish flowed from high-productivity regions toward consumption centers.
 
-The integration of [[Fish Seafood Trade]] into broader merchant networks meant that fish merchants handled multiple food commodities. A merchant might transport fish on outbound voyages while returning with grain or other food products. The combination of different food products allowed merchants to optimize cargo utilization and reduce risk through diversification. The fish trade thus integrated with broader food commerce networks.
+The integration of [[Luo and the Fish Trade]] into broader merchant networks meant that fish merchants handled multiple food commodities. A merchant might transport fish on outbound voyages while returning with grain or other food products. The combination of different food products allowed merchants to optimize cargo utilization and reduce risk through diversification. The fish trade thus integrated with broader food commerce networks.
 
 The preservation techniques developed for fish preservation contributed to broader food preservation knowledge. The techniques for salt-curing fish and drying seafood represented valuable expertise that could be adapted for preservation of other foods. The transmission of preservation knowledge through merchant networks and specialized communities contributed to agricultural development and food security improvements across the Indian Ocean world.
 
@@ -20,7 +20,7 @@ The environmental impacts of intensified fishing driven by expanding trade netwo
 
 ## See Also
 
-[[Food Trade Networks]]
+[[Food]]
 [[Coastal Economies]]
 [[Food Preservation Techniques]]
 [[Merchant Networks]]

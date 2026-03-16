@@ -9,7 +9,7 @@ Formal titling programs intended to address tenure insecurity have had mixed suc
 The relationship between slum tenure and broader land governance is significant. Overall land scarcity in urban areas drives settlement growth; formal housing development cannot accommodate demand. This creates inevitable settlement expansion and tenure insecurity. Resolving tenure requires either eliminating housing shortage (through massive formal housing investment unlikely) or formalizing settlement tenure (recognizing settlements as legitimate and providing services). Some governments including Kenyan government have shifted toward formalization: recognizing settlement tenure, planning incremental upgrading, providing services. However, formalization faces resistance from property developers seeking development opportunities and authorities seeking to maintain order. Fundamental tenure security requires commitment to settlements as permanent locations deserving recognition and investment.
 
 ## See Also
-[[Land Ownership Disputes]], [[Housing Poverty]], [[Slum Expansion]], [[Eviction Displacement]], [[Land Reform]], [[Housing Policies]], [[Community Rights]], [[Urban Governance]]
+[[Land Ownership Disputes]], [[Housing Poverty]], [[Slum Expansion]], [[Eviction Displacement]], [[Land Reform]], [[Housing Policies]], [[Moi and the Luo Community]], [[Urban Governance]]
 
 ## Sources
 1. UN-Habitat (2015). "Tenure Security in Informal Settlements: Kenya Assessment." https://unhabitat.org

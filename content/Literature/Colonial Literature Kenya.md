@@ -12,7 +12,7 @@ African writers adapted missionary education to produce their own literary works
 
 The colonial period also witnessed the suppression of African-language literature, as colonial authorities restricted access to printing and publishing in indigenous languages. The [[East African Literature Bureau]], initially established by colonial governments in 1947, paradoxically created infrastructure for publishing in African languages even as it remained subject to colonial oversight. This institutional contradiction created spaces where African literary expression could flourish despite colonial restrictions.
 
-By independence in 1964, a generation of Kenyan writers trained in colonial schools had begun publishing novels addressing the [[Mau Mau Emergency]] and independence's political complexities. Colonial literature thus established the terrain on which postcolonial literature would emerge, even as African writers rejected colonial ideologies and asserted independence through literary innovation.
+By independence in 1964, a generation of Kenyan writers trained in colonial schools had begun publishing novels addressing the [[Mau Mau Emergency Broadcasting]] and independence's political complexities. Colonial literature thus established the terrain on which postcolonial literature would emerge, even as African writers rejected colonial ideologies and asserted independence through literary innovation.
 
 ## See Also
 [[Postcolonial Literature Movement]]
@@ -20,7 +20,7 @@ By independence in 1964, a generation of Kenyan writers trained in colonial scho
 [[Kenyan Writers Exile]]
 [[Independence Era Literature]]
 [[Colonial Education Kenya]]
-[[Language and Colonialism]]
+[[Luo Language]]
 [[East African Literature Bureau]]
 
 ## Sources

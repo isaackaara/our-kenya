@@ -12,7 +12,7 @@ By year-end 2024, Ruto could claim fiscal consolidation success yet faced critic
 
 ## See Also
 [[Ruto Economic Policy]]
-[[Kenya's Economic Record 2023-2025]]
+[[Moi Economic Record]]
 [[Fiscal Consolidation and Growth]]
 [[Inflation and Monetary Policy Kenya]]
 [[Employment and Economic Growth]]

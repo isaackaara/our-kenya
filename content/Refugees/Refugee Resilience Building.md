@@ -11,9 +11,9 @@ Livelihood-based resilience approached economic empowerment as foundation for di
 [[Refugee Mental Health]]
 [[Counseling Services]]
 [[Livelihood Programs]]
-[[Community Cohesion Refugees]]
+[[Moi and the Luo Community]]
 [[Youth Programs Camps]]
-[[Refugee Empowerment]]
+[[Refugee Women Economic Empowerment]]
 
 ## Sources
 

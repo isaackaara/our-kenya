@@ -9,7 +9,7 @@ Coordination among organizations remains weak despite potential efficiency gains
 The relationship between street children organizations and government is complex. Organizations partner with government on specific programs: child protection, education, and health. However, organizations also advocate for policy change, sometimes criticizing government inaction or harmful policies. This creates tension: government may withdraw support from organizations criticizing policy while favoring compliant organizations. External funding enables organizational independence from government; however, it also creates orientation toward donor agendas. Street children organizations operate within contested territory: attempting to serve vulnerable populations while navigating government relationships, donor requirements, and organizational sustainability pressures.
 
 ## See Also
-[[Street Children]], [[Street Children Rescue]], [[Children's Shelters]], [[Civil Society]], [[Advocacy Organizations]], [[Child Rights]], [[Poverty Measurement]], [[NGO Landscape Kenya]]
+[[Street Children]], [[Street Children Rescue]], [[Children's Shelters]], [[Civil Society Kenya]], [[Women Organizations Advocacy]], [[Child Rights]], [[Poverty Measurement]], [[NGO Landscape Kenya]]
 
 ## Sources
 1. UN Office on Drugs and Crime (2016). "Civil Society Organizations Supporting Children in Vulnerable Situations: Kenya." https://www.unodc.org

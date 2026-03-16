@@ -15,7 +15,7 @@ The international response to Kenyatta's death was substantial. Leaders from thr
 [[Kenyatta State Funeral]]
 [[Kenyatta Final Years]]
 [[Kenyatta Legacy]]
-[[Daniel arap Moi as VP]]
+[[Daniel arap Moi]]
 [[Kenyatta Presidency Timeline]]
 
 ## Sources

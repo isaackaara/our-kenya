@@ -10,7 +10,7 @@ Ushahidi's legacy extended beyond its technology platform. The company demonstra
 
 ## See Also
 
-[[Crisis Response Technology]], [[Citizen Journalism Kenya]], [[Tech Startups Ecosystem]], [[Diaspora Innovation]], [[Data Visualization Technology]], [[Democracy Technology]]
+[[Crisis Response Technology]], [[Citizen Journalism Kenya]], [[Tech Startups Ecosystem]], [[Tech Innovation Diaspora]], [[Data Visualization Technology]], [[Technology]]
 
 ## Sources
 

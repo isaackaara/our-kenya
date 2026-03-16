@@ -24,10 +24,10 @@ Contemporary self-publishing in Kenya involves diverse strategies and motivation
 
 ## See Also
 [[Publishing Industry Kenya]]
-[[Digital Publishing Africa]]
+[[Digital Art]]
 [[Authors and Copyright Kenya]]
-[[Independent Publishers Kenya]]
-[[Literary Markets Kenya]]
+[[Independent Publishers]]
+[[Art Markets Kenya]]
 [[Book Distribution Networks]]
 [[Writers' Economics Kenya]]
 

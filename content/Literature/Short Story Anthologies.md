@@ -27,7 +27,7 @@ Contemporary anthology publishing in Kenya continues supporting literary circula
 [[Literary Journals Publishing]]
 [[Publishing Industry Kenya]]
 [[African Literary Canonization]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Short Story Traditions Kenya]]
 [[Postcolonial Literature Movement]]
 

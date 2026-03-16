@@ -10,12 +10,12 @@ By the mid-1980s, tensions had begun to emerge between Kibaki's ambitions and Mo
 
 ## See Also
 
-[[Moi Presidency and Government]]
+[[Presidency Of Moi]]
 [[Kenya Economic Adjustment 1980s]]
 [[International Monetary Fund Kenya]]
-[[World Bank Structural Adjustment]]
+[[Moi and the World Bank]]
 [[Kenya Financial Markets]]
-[[Economic Policy Continuity Post-Kenyatta]]
+[[Kenyatta Economic Policy]]
 
 ## Sources
 

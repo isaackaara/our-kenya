@@ -10,7 +10,7 @@ Documentation through photography captures mural aesthetics while context and ar
 [[Public Art]]
 [[Graffiti Art]]
 [[Street Photography]]
-[[Youth Culture]]
+[[Youth Culture Kenya]]
 [[Environmental Art]]
 [[Contemporary Art Galleries]]
 

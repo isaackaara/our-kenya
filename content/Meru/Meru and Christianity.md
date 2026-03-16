@@ -1,4 +1,4 @@
-[[Christianity]] arrived in [[Meru territory]] in the early 1900s through [[missionary activity]]. The [[missionary presence]] grew throughout the 20th century, and [[Christianity]] became the [[dominant religion]] among the Meru by the late 20th century.
+[[Christianity]] arrived in [[Meru territory]] in the early 1900s through [[missionary activity]]. The [[NGO and Aid Presence]] grew throughout the 20th century, and [[Christianity]] became the [[Religion]] among the Meru by the late 20th century.
 
 ## Methodist and Wesleyan Arrival
 

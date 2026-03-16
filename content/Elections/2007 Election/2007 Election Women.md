@@ -6,7 +6,7 @@ Women experienced post-election violence as disproportionate targets and as acti
 - [[Gender-Based Violence]]
 - [[Women]]
 - [[Women]]
-- [[2010 Constitution gender provisions]]
+- [[The Constitution of 2010]]
 
 ## Sources
 

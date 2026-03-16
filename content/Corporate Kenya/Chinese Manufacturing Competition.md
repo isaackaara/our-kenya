@@ -4,7 +4,7 @@ Chinese manufacturing firms and imports have increasingly competed with [[Kenya]
 
 - [[Manufacturing History Kenya]] - Kenya's industrial development
 - [[Kenya-China Trade]] - Trade relations and investment flows
-- [[Foreign Investment Kenya]] - Chinese FDI in Kenya
+- [[Art Investment]] - Chinese FDI in Kenya
 - [[Import Substitution Kenya]] - Domestic industry protection strategies
 - [[East African Industries (Unilever)]] - Regional manufacturing
 - [[Structural Adjustment Kenya]] - Liberalization that enabled imports

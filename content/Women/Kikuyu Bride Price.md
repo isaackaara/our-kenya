@@ -24,7 +24,7 @@ Contemporary bride price debates intersect with cultural preservation and women'
 [[Women Property Rights Marriage]]
 [[Female Education Barriers]]
 [[Gender-Based Violence]]
-[[Customary Law]]
+[[Xeer Customary Law]]
 [[Constitutional Reform 2010]]
 
 ## Sources

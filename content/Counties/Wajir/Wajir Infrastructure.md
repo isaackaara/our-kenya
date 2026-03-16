@@ -41,7 +41,7 @@ Development organizations support infrastructure development in Wajir, funding w
 - [[Wajir County]]
 - [[Wajir Town]]
 - [[Wajir Water]]
-- [[Wajir Economy]]
+- [[The NGO Economy]]
 - [[Wajir Health]]
 - [[Wajir Education]]
 - [[Wajir Climate]]

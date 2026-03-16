@@ -69,10 +69,10 @@ Wildlife tourism has created economic alignment between conservation and develop
 ## See Also
 
 - [[Tourism Revenue and Communities]] - Community benefit distribution
-- [[Wildlife Tourism Development]] - Sustainable tourism models
+- [[Art Tourism]] - Sustainable tourism models
 - [[Kenya Wildlife Service]] - Revenue management authority
 - [[Conservation Economics Kenya]] - Economic frameworks
-- [[COVID-19 Conservation Impact]] - Pandemic vulnerabilities
+- [[Conservation]] - Pandemic vulnerabilities
 - [[Maasai Mara National Reserve]] - Premier tourism destination
 - [[Marine Protected Areas]] - Tourism-based conservation
 

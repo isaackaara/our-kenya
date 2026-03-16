@@ -10,7 +10,7 @@ Cost barriers and technical limitations constrained 3D printing expansion throug
 
 ## See Also
 
-[[Manufacturing Technology]], [[Health Tech Innovations]], [[Construction Technology]], [[Innovation Policy]], [[Materials Science]], [[Tech Startups Ecosystem]]
+[[Technology]], [[Health Tech Innovations]], [[Construction Technology]], [[Innovation Policy]], [[Materials Science]], [[Tech Startups Ecosystem]]
 
 ## Sources
 

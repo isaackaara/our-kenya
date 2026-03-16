@@ -21,89 +21,89 @@ This knowledge graph explores the Maasai across multiple dimensions(origins, soc
 ## Hub: Key Topics
 
 ### Historical Foundations
-- [[Maasai Origins]] - Nilotic origins and migration
-- [[Pre-Colonial Maasai Territory]] - Territorial extent before colonialism
-- [[The Rinderpest Catastrophe]] - Emutai and pastoral collapse
-- [[Maasai Colonial Resistance and Accommodation]] - Strategic negotiations
-- [[Olonana Lenana]] - Profile of key laibon
-- [[The 1913 Maasai Lawsuit]] - First legal challenge to colonial policy
-- [[Maasai in WWII]] - Military service and impact
+- [[Maasai_Origins]] - Nilotic origins and migration
+- [[Pre-Colonial_Maasai_Territory]] - Territorial extent before colonialism
+- [[The_Rinderpest_Catastrophe]] - Emutai and pastoral collapse
+- [[Maasai_Colonial_Resistance_and_Accommodation]] - Strategic negotiations
+- [[Olonana_Lenana]] - Profile of key laibon
+- [[The_1913_Maasai_Lawsuit]] - First legal challenge to colonial policy
+- [[Maasai_in_WWII]] - Military service and impact
 - [[The Iloikop Wars]] - 19th-century civil conflict
 
 ### Society and Identity  
-- [[Maasai Sub-groups]] - Iloshon sections and political divisions
-- [[Maasai Age Sets]] - The ilkiama system
-- [[The Moran]] - Warriors and their role
-- [[The Moran in Contemporary Society]] - Modern warrior identity
-- [[Maasai Youth]] - New generation challenges
-- [[Young Maasai Identity]] - The next generation
-- [[Maasai Diaspora]] - Urban and international communities
+- [[Maasai_Sub-groups]] - Iloshon sections and political divisions
+- [[Maasai_Age_Sets]] - The ilkiama system
+- [[The Moran (Warriors)]] - Warriors and their role
+- [[The_Moran_in_Contemporary_Society]] - Modern warrior identity
+- [[Maasai_Youth]] - New generation challenges
+- [[Young_Maasai_Identity]] - The next generation
+- [[Maasai_Diaspora]] - Urban and international communities
 
 ### Pastoral Economy
-- [[Maasai Cattle Culture]] - Pastoralism as identity
-- [[Maasai Cattle Trade]] - Commercial livestock markets
-- [[Maasai and the Dairy Industry]] - Transition to commercial dairy
-- [[The Group Ranch System]] - Land tenure and subdivision
-- [[Maasai Food Insecurity and Drought]] - Climate vulnerability and survival
-- [[Maasai Warrior Initiation]] - Coming-of-age and cultural transmission
+- [[Maasai_Cattle_Culture]] - Pastoralism as identity
+- [[Maasai_Cattle_Trade]] - Commercial livestock markets
+- [[Maasai_and_Dairy_Industry]] - Transition to commercial dairy
+- [[The_Group_Ranch_System]] - Land tenure and subdivision
+- [[Maasai_Food_Insecurity_and_Drought]] - Climate vulnerability and survival
+- [[Maasai_Warrior_Initiation]] - Coming-of-age and cultural transmission
 
 ### Land and Territory
-- [[Maasai Land Loss]] - Colonial dispossession
-- [[Post-Independence Land Issues]] - Continued territorial pressure
-- [[The Maasai at Independence]] - Political position in 1964
-- [[Maasai County Governance]] - Devolution and administration
-- [[Laikipia Maasai Land Conflicts]] - Contemporary land disputes and pastoral-conservancy tensions
+- [[Maasai_Land_Loss]] - Colonial dispossession
+- [[Post-Independence_Land_Issues]] - Continued territorial pressure
+- [[The_Maasai_at_Independence]] - Political position in 1964
+- [[Maasai_County_Governance]] - Devolution and administration
+- [[Laikipia_Maasai_Land_Conflicts]] - Contemporary land disputes and pastoral-conservancy tensions
 
 ### Conservation and Environment
-- [[The Maasai Mara]] - Reserve and ecosystem
+- [[The Maasai Mara Ecosystem]] - Reserve and ecosystem
 - [[The Great Migration]] - Wildlife spectacle
-- [[Maasai Mara Conservation Challenges]] - Threats to ecosystem
-- [[Community Conservancies Economics]] - Alternative conservation model
-- [[The Mara River]] - Ecosystem lifeline
-- [[Maasai and Climate Change]] - Environmental pressures
+- [[Maasai_Mara_Conservation_Challenges]] - Threats to ecosystem
+- [[Community_Conservancies_Economics]] - Alternative conservation model
+- [[The_Mara_River]] - Ecosystem lifeline
+- [[Maasai_and_Climate_Change]] - Environmental pressures
 - [[Human-Elephant Conflict]] - Wildlife-pastoral tensions
 
 ### Tourism and Economy
-- [[Mara Tourism Economy]] - Revenue flows and distribution
-- [[Maasai in Global Media]] - Image and representation
-- [[Maasai Cultural Appropriation]] - IP and commodification
+- [[Mara_Tourism_Economy]] - Revenue flows and distribution
+- [[Maasai_in_Global_Media]] - Image and representation
+- [[Maasai_Cultural_Appropriation]] - IP and commodification
 - [[Maasai Brand]] - Commercial branding issues
-- [[Eco-Tourism Initiatives]] - Community-based alternatives
+- [[Art Tourism]] - Community-based alternatives
 
 ### Social Issues
-- [[Maasai and Education Today]] - Access and quality
-- [[Maasai Boarding Schools]] - Pastoral education and cultural integration
-- [[Maasai Women in Business]] - Economic empowerment
-- [[Maasai Women Leadership]] - Political participation and advocacy
-- [[Maasai Men in Security]] - Employment opportunities
-- [[Female Genital Mutilation Campaign]] - Health and rights
+- [[Maasai_and_Education_Today]] - Access and quality
+- [[Maasai_Boarding_Schools]] - Pastoral education and cultural integration
+- [[Maasai_Women_in_Business]] - Economic empowerment
+- [[Maasai_Women_Leadership]] - Political participation and advocacy
+- [[Maasai_Men_in_Security]] - Employment opportunities
+- [[Female_Genital_Mutilation_Campaign]] - Health and rights
 - [[Maasai and Christianity]] - Religious change
-- [[Maasai and Islam]] - Emerging religious presence
-- [[Wildlife Poaching and Maasai]] - Conservation participation
+- [[Maasai_and_Islam]] - Emerging religious presence
+- [[Wildlife_Poaching_and_Maasai]] - Conservation participation
 
 ### Related Communities
-- [[Samburu Deep Dive]] - Maasai cousins
-- [[Ilchamus Njemps]] - Pastoral-irrigators
-- [[Chamus Irrigation]] - Ancient irrigation systems and water governance
-- [[The Maasai in Tanzania]] - Cross-border communities
+- [[Samburu_Deep_Dive]] - Maasai cousins
+- [[Ilchamus_Njemps]] - Pastoral-irrigators
+- [[Chamus_Irrigation]] - Ancient irrigation systems and water governance
+- [[The_Maasai_in_Tanzania]] - Cross-border communities
 
 ### Places
 - [[Narok Town]] - Gateway to Mara
 - [[Kajiado Town]] - County seat and land hub
 - [[Ngong Hills]] - Historical boundary
-- [[Olorgesailie Archaeological Site]] - Ancient human history
-- [[Hell Gate National Park]] - Spiritual landscape
+- [[Olorgesailie_Archaeological_Site]] - Ancient human history
+- [[Hell_Gate_National_Park]] - Spiritual landscape
 - [[Amboseli]] - Ecosystem and conservation
 - [[Laikipia and the Maasai]] - Northern rangelands
 
 ### Intellectual Life and Future
-- [[Maasai Intellectual Life]] - Scholarship and knowledge production
-- [[Maasai Language and Preservation]] - Linguistic vitality and cultural continuity
-- [[What the Maasai Want]] - Community demands and aspirations
-- [[Maasai 2050]] - Possible futures and trajectories
-- [[Maasai Futures]] - Existential questions for 2026
+- [[Maasai_Intellectual_Life]] - Scholarship and knowledge production
+- [[Maasai_Language_and_Preservation]] - Linguistic vitality and cultural continuity
+- [[What_the_Maasai_Want]] - Community demands and aspirations
+- [[Maasai_2050]] - Possible futures and trajectories
+- [[Maasai_Futures]] - Existential questions for 2026
 
 ### Key Figures
-- [[William ole Ntimama]] - Political power and controversy
-- [[Joseph ole Lenku]] - County governance
+- [[William_ole_Ntimama]] - Political power and controversy
+- [[Joseph_ole_Lenku]] - County governance
 - [[David Rudisha]] - Athletic excellence and Maasai identity

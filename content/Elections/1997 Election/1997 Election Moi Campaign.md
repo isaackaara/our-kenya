@@ -4,7 +4,7 @@ The state apparatus became Moi's primary campaign infrastructure. Government min
 
 Moi's ethnic strategy was particularly sophisticated in 1997. The Kalenjin community, Moi's core ethnic base, remained solidly aligned with KANU, though younger Kalenjin voters and some Kalenjin intellectuals expressed skepticism about Moi's continued leadership. The Kikuyu vote, Kenya's largest ethnic bloc, was divided between [[Kibaki]]'s Democratic Party and KANU-aligned politicians; Moi invested heavily in wooing Kikuyu elites through promises of development projects and political appointments. Moi's campaign emphasized his role as a neutral national leader, above ethnic interests, even as his campaign machinery operated through deeply ethnic channels. This paradox, which might have been fatal in a system with robust democratic institutions, proved manageable in Kenya's weakly institutionalized multiparty framework.
 
-A critical dimension of Moi's strategy was encouraging opposition fragmentation. While Moi's KANU could not prevent opposition parties from contesting, KANU operatives worked to ensure that multiple opposition candidates split the anti-Moi vote in key constituencies. In some regions, KANU discreetly supported certain opposition candidates (particularly those from rival opposition parties) in order to divide the anti-government vote. This strategy was not entirely new (it had been deployed in 1992), but it was refined and weaponized more systematically in 1997. The fragmentation of [[FORD Formation]] into FORD-Kenya and FORD-Asili, the rise of the [[National Development Party (NDP)]] under [[Raila Odinga]], and the decision of [[Kenneth Matiba]] to initially run (before withdrawing) all worked to Moi's advantage by splitting opposition support.
+A critical dimension of Moi's strategy was encouraging opposition fragmentation. While Moi's KANU could not prevent opposition parties from contesting, KANU operatives worked to ensure that multiple opposition candidates split the anti-Moi vote in key constituencies. In some regions, KANU discreetly supported certain opposition candidates (particularly those from rival opposition parties) in order to divide the anti-government vote. This strategy was not entirely new (it had been deployed in 1992), but it was refined and weaponized more systematically in 1997. The fragmentation of [[FORD Formation]] into FORD-Kenya and FORD-Asili, the rise of the [[Development Aid]] under [[Raila Odinga]], and the decision of [[Kenneth Matiba]] to initially run (before withdrawing) all worked to Moi's advantage by splitting opposition support.
 
 The campaign also worked to shape narratives around security and stability. Moi portrayed himself as the guardian of Kenya's territorial integrity and domestic peace at a time when the region faced instability (Somalia's civil war, refugee flows from the Horn of Africa, and internal ethnic tensions). The [[1997 Election Coast Violence]] in August 1997, though its causes and perpetrators remained murky, allowed Moi's campaign to emphasize the need for strong state security and centralized leadership. Opposition candidates were portrayed as representing narrow ethnic or regional interests, while Moi was cast as the only figure capable of maintaining a united Kenya.
 
@@ -17,7 +17,7 @@ The 1997 campaign established a template for KANU's final contest in 2002: the d
 ## See Also
 
 - [[1997 Election]]
-- [[Moi's presidency]]
+- [[Presidency Of Moi]]
 - [[KANU party history]]
 - [[1997 Election Results]]
 - [[1997 Election Opposition Unity Failure]]

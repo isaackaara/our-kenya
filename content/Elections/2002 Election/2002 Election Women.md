@@ -7,7 +7,7 @@ However, women's success rates remained lower than men's. Approximately 8-10 per
 - [[2002 Election]]
 - [[Charity Ngilu]]
 - [[Women]]
-- [[Gender representation Kenya]]
+- [[Gender Pay Gap]]
 - [[2010 Constitution]]
 
 ## Sources

@@ -25,7 +25,7 @@ Urban slum settlement has included substantial female migration. Women fleeing r
 [[Women Economic Empowerment Kenya]]
 [[Women Informal Economy]]
 [[Gender-Based Violence]]
-[[Rural Development Kenya]]
+[[Development Aid]]
 [[Urban Planning Kenya]]
 [[Women Leadership Capacity]]
 

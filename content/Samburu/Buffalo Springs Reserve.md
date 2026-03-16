@@ -41,7 +41,7 @@ Scientific research in the reserve addresses wildlife ecology, climate change im
 - [[Samburu National Reserve]]
 - [[Samburu and Tourism]]
 - [[George and Joy Adamson in Samburu]]
-- [[Wildlife Conservation in Kenya]]
+- [[Conservation]]
 - [[Ewaso Nyiro Ecosystem]]
 - [[Semi-Arid Pastoralism]]
 

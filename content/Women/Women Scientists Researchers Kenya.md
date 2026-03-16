@@ -29,7 +29,7 @@ Contemporary science education reform has aimed to increase girls' STEM particip
 [[Gender Education Equality]]
 [[Women Leadership Capacity]]
 [[Gender Employment Discrimination]]
-[[Technology Women Kenya]]
+[[Women and Technology Kenya]]
 
 ## Sources
 

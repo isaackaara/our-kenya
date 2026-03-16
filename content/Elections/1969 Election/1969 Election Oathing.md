@@ -18,7 +18,7 @@ The 1969 oathing campaigns thus represented the intensification of ethnic politi
 - [[Ethnic Mobilization Kenya]]
 - [[Political Ritual Kenya]]
 - [[Traditional Authority and Politics]]
-- [[KANU Mobilization]]
+- [[Moi and KANU]]
 
 ## Sources
 

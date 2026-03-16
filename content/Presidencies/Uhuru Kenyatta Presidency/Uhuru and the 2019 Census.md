@@ -12,7 +12,7 @@ Implementation of census-based constituency boundary reviews proceeded slowly, c
 [[Demographics of Kenya 2013-2022]]
 [[Electoral Boundaries and Census Data]]
 [[Devolution and Revenue Distribution]]
-[[Regional Development Disparities Kenya]]
+[[Development Aid]]
 [[Population Growth and Service Delivery]]
 [[Ethnic Demographics and Politics Kenya]]
 

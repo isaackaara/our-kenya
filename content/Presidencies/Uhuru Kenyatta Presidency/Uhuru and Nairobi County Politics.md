@@ -11,10 +11,10 @@ Uhuru's failure to ensure competent governance in Nairobi, the nation's capital 
 ## See Also
 [[Uhuru and Devolution]]
 [[Nairobi County and Service Delivery]]
-[[Water Crisis in Nairobi 2013-2022]]
-[[Informal Settlements Nairobi Expansion]]
+[[Nairobi Water Crisis]]
+[[Informal Settlements]]
 [[County Governments Under Devolution]]
-[[Urban Infrastructure Failure Kenya]]
+[[IT Infrastructure Kenya]]
 
 ## Sources
 1. https://www.standardmedia.co.ke/nairobi/article/2001412457-nairobi-water-crisis-decade-failure

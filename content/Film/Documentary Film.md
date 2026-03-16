@@ -15,7 +15,7 @@ The growth of [[Documentary Festivals]] dedicated to documentary film reflected 
 Documentary film's relationship to journalism and news reporting was significant. Documentary form was sometimes used to address urgent contemporary issues with narrative depth unavailable in broadcast journalism. Documentary filmmakers and journalists shared concerns with factual accuracy and public interest, though operating with different time frames and distribution channels.
 
 ## See Also
-[[Nairobi Film Festival]], [[Documentary Festivals]], [[Television Acting]], [[Film Directing]], [[Environmental Issues]], [[Kenyan Cinema Development]], [[Media]]
+[[Nairobi Film Festival]], [[Documentary Festivals]], [[Television Acting]], [[Film Directing]], [[Environmental Art]], [[Kenyan Cinema Development]], [[Media]]
 
 ## Sources
 1. https://www.africabib.org/rec.php?RID=238905019

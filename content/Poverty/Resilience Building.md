@@ -9,7 +9,7 @@ The relationship between individual and community resilience is significant. Com
 The distinction between resilience and resignation is important. Resilience to shocks need not mean accepting chronic poverty; it should be intermediate stage enabling households to manage shocks while pursuing longer-term poverty reduction. Conversely, emphasis on resilience without poverty reduction pathways may inadvertently entrench poverty: poor households become resilient to poverty rather than exiting poverty. Policy frameworks should integrate resilience (short-term shock management) with poverty reduction and growth (long-term wellbeing improvement). This requires simultaneous interventions: cash transfers and asset building for current consumption; education and livelihood development for future income; and shock protection for interim periods.
 
 ## See Also
-[[Vulnerability Poverty]], [[Coping Mechanisms]], [[Community Resilience]], [[Economic Security]], [[Shock Response]], [[Social Networks]], [[Livelihood Diversification]], [[Poverty Measurement]]
+[[Vulnerability Poverty]], [[Coping Mechanisms]], [[Community Resilience]], [[Job Security]], [[Shock Response]], [[Social Networks]], [[Livelihood Diversification]], [[Poverty Measurement]]
 
 ## Sources
 1. World Bank (2014). "Kenya Resilience-Building Assessment and Framework." http://documents.worldbank.org

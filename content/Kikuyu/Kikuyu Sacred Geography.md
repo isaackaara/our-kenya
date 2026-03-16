@@ -40,7 +40,7 @@ By the end of the colonial period, the integrated sacred geography of pre-coloni
 
 - [[Gikuyu and Mumbi]]
 - [[Kikuyu Clans]]
-- [[Kiama Courts]]
+- [[The Kiama Courts]]
 - [[Githaka]]
 - [[Kikuyu Rainmaking]]
 - [[Kikuyu Religious Syncretism]]

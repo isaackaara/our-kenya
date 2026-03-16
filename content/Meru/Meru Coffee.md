@@ -2,7 +2,7 @@ The Meru highlands support [[coffee]] cultivation alongside [[Meru Tea|tea]]. Co
 
 ## Growing Regions and Cooperatives
 
-Coffee is cultivated in suitable altitude zones of [[Meru County]], particularly in the [[Imenti]] and some Tharaka regions where altitude and rainfall permit. Coffee farmers have organized into cooperatives for processing and marketing, following patterns established for tea production. The Meru Coffee farmers cooperative and related organizations aggregate coffee for sale to national and international markets.
+Coffee is cultivated in suitable altitude zones of [[Meru County]], particularly in the [[Imenti People]] and some Tharaka regions where altitude and rainfall permit. Coffee farmers have organized into cooperatives for processing and marketing, following patterns established for tea production. The Meru Coffee farmers cooperative and related organizations aggregate coffee for sale to national and international markets.
 
 ## Quality and Reputation
 
@@ -30,8 +30,8 @@ Meru coffee producers face challenges related to aging coffee plants (some plant
 - [[Meru Tea]]
 - [[Meru Cooperatives]]
 - [[Meru County Agriculture]]
-- [[Kenyan Coffee Production]]
-- [[Agricultural Markets Kenya]]
+- [[Kenyan Hip-Hop]]
+- [[Art Markets Kenya]]
 
 ## Sources
 

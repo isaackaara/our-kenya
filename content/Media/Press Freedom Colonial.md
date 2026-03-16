@@ -14,7 +14,7 @@ These colonial restrictions on press freedom created the context into which inde
 [[Mau Mau Emergency Broadcasting]]
 [[Media Independence Coverage]]
 [[Jomo Kenyatta]]
-[[Education/Colonial Kenya]]
+[[Colonial Kenya]]
 
 ## Sources
 1. https://icj-kenya.org/news/respect-media-freedom/

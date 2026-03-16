@@ -69,9 +69,9 @@ Kenya participated in international climate negotiations and was affected by dro
 - [[East African Community]]
 - [[Kenya-China Relations]]
 - [[Kenya Counter-Terrorism]]
-- [[Somali Federal Government]]
+- [[Somali]]
 - [[Kenya-United States Relations]]
-- [[Regional Security East Africa]]
+- [[Job Security]]
 
 ## Sources
 

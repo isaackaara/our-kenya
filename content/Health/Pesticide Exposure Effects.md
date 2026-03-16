@@ -13,7 +13,7 @@ Strengthening pesticide exposure prevention requires regulation of pesticide reg
 [[Environmental Health Hazards|Environmental Health Hazards]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 
 ## Sources

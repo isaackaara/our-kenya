@@ -21,7 +21,7 @@ Githongo eventually returned to Kenya in 2008, after the formation of the [[Gran
 - [[Kikuyu]]
 - [[2007-08 Post-Election Violence]]
 - [[Grand Coalition Government]]
-- [[Corruption in Kenya]]
+- [[Corruption in Kenya Overview]]
 
 ## Sources
 1. Wrong, Michela. *It's Our Turn to Eat: The Story of a Kenyan Whistle-Blower*. HarperCollins, 2009.

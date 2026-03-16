@@ -21,7 +21,7 @@ Contemporary inheritance disputes remain gendered, despite legal reform. Women w
 [[Women Land Rights]]
 [[Women Property Rights Marriage]]
 [[Divorce Law Economic]]
-[[Customary Law]]
+[[Xeer Customary Law]]
 [[Constitutional Reform 2010]]
 [[Women Legal Aid]]
 

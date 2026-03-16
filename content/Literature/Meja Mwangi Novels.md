@@ -11,11 +11,11 @@ Beyond these signature works, Mwangi produced novels exploring Kenyan history, i
 In 2025, Mwangi's death in Malindi at age 77 marked the loss of a writer whose unflinching realism shaped how Kenya's literature addresses social crisis. His legacy resides in proving that postcolonial African fiction could achieve international sophistication while remaining rooted in local realities of poverty, displacement, and survival.
 
 ## See Also
-[[Urban Literature Kenya]]
+[[Literature]]
 [[Independence Era Literature]]
 [[Postcolonial Literature Movement]]
 [[Nairobi in Fiction]]
-[[Social Commentary Literature]]
+[[Social Commentary]]
 [[East African Novelists]]
 [[Realism in African Fiction]]
 

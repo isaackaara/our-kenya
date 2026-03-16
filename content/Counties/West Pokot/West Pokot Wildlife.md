@@ -57,8 +57,8 @@ National wildlife policy and Kenya Wildlife Service provide overall direction fo
 [[West Pokot County]]
 [[Cherangany Hills]]
 [[West Pokot Geography]]
-[[West Pokot Environment]]
-[[West Pokot Tourism]]
+[[Pokot]]
+[[Pokot]]
 
 ## Sources
 

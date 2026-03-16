@@ -21,9 +21,9 @@ For students and readers of Kenyan history, understanding where Kenya sits withi
 [[East Africa]]
 [[Kenya]]
 [[East African Community]]
-[[Arab Slave Trade]]
+[[26_Arab_Slave_Trade]]
 [[East Africa]]
-[[Omani Empire]]
+[[27_Omani_Empire]]
 [[Swahili]]
 
 ## Sources

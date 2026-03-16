@@ -28,8 +28,8 @@ Printing's history in Kenya demonstrates technology's shaping influence on liter
 [[Publishing Industry Kenya]]
 [[East African Literature Bureau]]
 [[Missionary Education Kenya]]
-[[Colonial Infrastructure]]
-[[Digital Publishing Africa]]
+[[The Colonial Infrastructure Legacy]]
+[[Digital Art]]
 [[Self-Publishing Movement]]
 [[Literary Culture Kenya]]
 

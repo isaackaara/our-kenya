@@ -8,7 +8,7 @@ Contemporary caricature practice in Kenya continues serving entertainment, journ
 
 ## See Also
 - [[Portrait Exaggeration]]
-- [[Political Satire]]
+- [[Political Novels Satire]]
 - [[Character Depiction]]
 - [[Cartooning Tradition]]
 - [[Journalism and Illustration]]

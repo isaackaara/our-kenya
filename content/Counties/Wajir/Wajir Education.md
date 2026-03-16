@@ -59,7 +59,7 @@ County government and development partners support educational development throu
 - [[Wajir Women]]
 - [[Wajir Health]]
 - [[Wajir Security]]
-- [[Wajir Development]]
+- [[Development Aid]]
 - [[Wajir Politics]]
 
 ## Sources

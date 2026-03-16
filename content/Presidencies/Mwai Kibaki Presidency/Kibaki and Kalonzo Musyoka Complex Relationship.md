@@ -12,7 +12,7 @@ The Kibaki-Musyoka relationship exemplified the challenges of ethnic coalition b
 
 [[Kalonzo Musyoka Political Career]]
 [[Kamba Political Interests Kenya]]
-[[Vice Presidency Kenya]]
+[[Presidency Of Moi]]
 [[Coalition Politics Kenya]]
 [[2007 Election Realignments]]
 [[Cross-Ethnic/ Alliances and Tensions]]

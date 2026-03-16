@@ -23,7 +23,7 @@ Contemporary biography in Kenya continues documenting significant figures and ex
 ## See Also
 [[Autobiography Memoirs]]
 [[Historical Writing Kenya]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Postcolonial Literature Movement]]
 [[Political History Kenya]]
 [[Intellectual History Kenya]]

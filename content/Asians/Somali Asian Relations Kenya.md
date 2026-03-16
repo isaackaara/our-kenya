@@ -1,4 +1,4 @@
-The relationship between the established [[Asian business community]] and the newer [[Somali]] in [[Nairobi]] involves both competition and collaboration. Somalis, a distinct East African ethnic group displaced by civil war in Somalia, have developed significant business and trading networks in Nairobi over recent decades. These communities sometimes compete in the same markets but also sometimes collaborate in business activities. The relationship between these communities reflects broader dynamics of economic competition and integration.
+The relationship between the established [[Moi and the Asian Community]] and the newer [[Somali]] in [[Nairobi]] involves both competition and collaboration. Somalis, a distinct East African ethnic group displaced by civil war in Somalia, have developed significant business and trading networks in Nairobi over recent decades. These communities sometimes compete in the same markets but also sometimes collaborate in business activities. The relationship between these communities reflects broader dynamics of economic competition and integration.
 
 ## Somali Immigration to Kenya
 

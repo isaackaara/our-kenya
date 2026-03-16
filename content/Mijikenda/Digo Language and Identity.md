@@ -1,4 +1,4 @@
-The Digo language is the linguistic expression of Digo ethnic identity and carries distinctive cultural knowledge about the southernmost Mjikenda peoples. Like other [[endangered language]] African languages, Digo faces pressure from Swahili and English, yet remains a repository of Digo cultural heritage and distinctiveness.
+The Digo language is the linguistic expression of Digo ethnic identity and carries distinctive cultural knowledge about the southernmost Mjikenda peoples. Like other [[Luo Language]] African languages, Digo faces pressure from Swahili and English, yet remains a repository of Digo cultural heritage and distinctiveness.
 
 ## Linguistic Classification and Features
 

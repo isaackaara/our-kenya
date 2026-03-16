@@ -14,7 +14,7 @@ After Kibaki's 2002 election victory, the distribution of benefits to coalition 
 [[Charity Ngilu Political Career]]
 [[Kamba Political Interests]]
 [[2002 Election Coalition Building]]
-[[Opposition Negotiations Kenya]]
+[[Moi and the Opposition]]
 [[Elections/ Democracy Kenya]]
 
 ## Sources

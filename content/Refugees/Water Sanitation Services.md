@@ -13,7 +13,7 @@ Water and sanitation partnerships illustrated the complexity of refugee service 
 [[Kakuma Refugee Camp]]
 [[Environmental Impact Refugees]]
 [[CARE International]]
-[[Disease Outbreak Prevention]]
+[[Disease Prevention]]
 
 ## Sources
 

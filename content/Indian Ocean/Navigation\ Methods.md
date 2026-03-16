@@ -24,7 +24,7 @@ The integration of Islamic astronomical knowledge with Indian Ocean maritime pra
 [[Compass Use]]
 [[Pilot Knowledge]]
 [[Coastal Navigation]]
-[[Navigation Technology]]
+[[Technology]]
 
 ## Sources
 

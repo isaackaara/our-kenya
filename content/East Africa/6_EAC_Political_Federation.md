@@ -59,7 +59,7 @@ Most informed observers believe political federation is decades away, if it happ
 ## See Also
 
 - [[EAC History]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[Kenya]]
 - [[Kenya]]
 - [[EAC Expansion]]

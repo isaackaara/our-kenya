@@ -13,7 +13,7 @@ By 2024, diaspora voting remained a governance failure that excluded millions of
 [[Electoral Access and Voting Systems Kenya]]
 [[Remittances and Diaspora Importance]]
 [[Citizenship Rights Extended Kenya]]
-[[Digital Voting Infrastructure]]
+[[Digital Art]]
 [[Gen Z Political Mobilization]]
 
 ## Sources

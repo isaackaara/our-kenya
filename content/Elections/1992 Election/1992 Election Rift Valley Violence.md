@@ -16,7 +16,7 @@ The violence also demonstrated the weakness of Kenya's institutional mechanisms 
 - [[Rift Valley Politics]]
 - [[Ethnic Violence Kenya]]
 - [[Refugees]]
-- [[Security Force Violence]]
+- [[Job Security]]
 - [[Election Violence as Political Crime]]
 - [[Communal Conflict Kenya]]
 

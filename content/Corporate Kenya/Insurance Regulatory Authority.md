@@ -8,7 +8,7 @@ The [[Insurance Regulatory Authority]] (IRA) is [[Kenya]]'s regulatory body for 
 - [[Britam]] - Major insurance company
 - [[Kenya Re]] - State-owned reinsurer
 - [[Pension Sector Kenya]] - Related long-term savings regulation
-- [[Corporate Governance Kenya]] - Insurance company governance
+- [[Corporate Kenya]] - Insurance company governance
 
 ## Sources
 

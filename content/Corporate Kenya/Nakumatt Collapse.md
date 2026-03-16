@@ -48,7 +48,7 @@ The retail sector has consolidated, with larger, better-capitalised players (Nai
 
 - [[Retail Revolution Kenya]]
 - [[Supermarket Industry Kenya]]
-- [[Corporate Governance Kenya]]
+- [[Corporate Kenya]]
 - [[Banking History Kenya]]
 - [[Kenya Economic Overview]]
 - [[Business Failures Kenya]]

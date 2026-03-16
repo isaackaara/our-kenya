@@ -10,7 +10,7 @@ Under the Moi regime (1978-2002), Murungi became a prominent human rights lawyer
 
 ## NARC Coalition Architect
 
-As the [[Daniel arap Moi|Moi regime]] neared its end, Murungi played a key role in building the [[NARC coalition]] that united opposition parties for the 2002 election. Murungi's intellectual leadership and coalition-building skills were essential to NARC's formation and electoral victory.
+As the [[Daniel arap Moi|Moi regime]] neared its end, Murungi played a key role in building the [[NARC Coalition Formation]] that united opposition parties for the 2002 election. Murungi's intellectual leadership and coalition-building skills were essential to NARC's formation and electoral victory.
 
 ## Cabinet Minister Under Kibaki
 

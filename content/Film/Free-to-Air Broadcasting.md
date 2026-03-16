@@ -8,7 +8,7 @@ The licensing frameworks for free-to-air broadcasters imposed obligations beyond
 
 The evolution of free-to-air broadcasting reflected changes in broader television environment. The emergence of cable and satellite services reduced free-to-air broadcasting's monopoly on television access. Free-to-air broadcasters responded with programming innovations and efforts to compete for audience attention. The digital television transition affected free-to-air broadcasters particularly significantly, requiring substantial infrastructure investment. The resilience of free-to-air broadcasting reflected its continued importance for broad audience access despite competition from subscription services.
 
-See Also: [[Terrestrial Broadcasting]], [[Cable Television]], [[Satellite Broadcasting]], [[Broadcasting License]], [[Television Operations]], [[Digital Television]], [[Public Broadcasting Funding]]
+See Also: [[KTN Broadcasting]], [[Cable Television]], [[Satellite Broadcasting]], [[Broadcasting License]], [[Television Operations]], [[Digital Television]], [[Public Broadcasting Funding]]
 
 Sources:
 1. https://www.broadcasting-commission-kenya.org/

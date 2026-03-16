@@ -21,7 +21,7 @@ Funding limitations affected Nairobi Military Hospital's capacity to maintain me
 - [[Psychological-Trauma-Treatment]]
 - [[Kenya Defence Force History]]
 - [[Military Training Recruitment]]
-- [[Veterans Services Kenya]]
+- [[Veterans-Services-Kenya]]
 - [[Armed Forces Infrastructure]]
 
 ## Sources

@@ -7,11 +7,11 @@ Product design integrates multiple considerations including functionality, aesth
 Contemporary product design in Kenya continues serving manufacturing and commercial needs. Sustainable design and environmental considerations increasingly influence product design decisions. User-centered design approaches emphasize understanding actual user needs and testing designs through user research. Digital tools enable sophisticated product visualization and prototyping before manufacturing. Contemporary designers employ parametric design, generative design, and other computational approaches. Product design remains important field within Kenya's design ecology serving manufacturing and consumer goods industries. The continued development of product design reflects evolving manufacturing, markets, and design sophistication.
 
 ## See Also
-- [[Industrial Design]]
+- [[Industrial Building Design]]
 - [[User-Centered Design]]
 - [[Manufacturing and Design]]
 - [[Sustainable Design]]
-- [[Product Development Process]]
+- [[Development Aid]]
 - [[Design Thinking]]
 - [[Engineering and Design]]
 

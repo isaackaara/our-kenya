@@ -18,7 +18,7 @@ Academic awards and scholarships supported literary creation, with institutions 
 [[Literary Culture Kenya]]
 [[Publishing Industry Kenya]]
 [[Jomo Kenyatta Prize Literature]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[International Publishing Kenya]]
 [[Literary Recognition Kenya]]
 

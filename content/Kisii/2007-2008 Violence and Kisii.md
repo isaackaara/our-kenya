@@ -1,4 +1,4 @@
-The post-election violence following Kenya's disputed 2007 presidential election (December 2007 to February 2008) was primarily concentrated in central Kenya, particularly among [[Kikuyu people]] communities, but also significantly affected the [[Rift Valley region]] and peripheral communities, including [[Gusii people|Gusii]] communities living in the Rift Valley.
+The post-election violence following Kenya's disputed 2007 presidential election (December 2007 to February 2008) was primarily concentrated in central Kenya, particularly among [[Kikuyu]] communities, but also significantly affected the [[Rift Valley region]] and peripheral communities, including [[Gusii people|Gusii]] communities living in the Rift Valley.
 
 ## Context of the Violence
 

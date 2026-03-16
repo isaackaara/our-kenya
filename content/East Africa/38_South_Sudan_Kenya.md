@@ -2,7 +2,7 @@
 title: South Sudan Kenya
 ---
 
-Kenya played a crucial role in the [[South Sudan Kenya]] peace process and maintains significant involvement in [[South Sudan Kenya]]'s political and security situation. The Naivasha Comprehensive Peace Agreement (2005) was signed in Kenya and represented a turning point in African conflict resolution.
+Kenya played a crucial role in the [[38_South_Sudan_Kenya]] peace process and maintains significant involvement in [[38_South_Sudan_Kenya]]'s political and security situation. The Naivasha Comprehensive Peace Agreement (2005) was signed in Kenya and represented a turning point in African conflict resolution.
 
 ## The Second Sudanese Civil War
 
@@ -22,7 +22,7 @@ Kenya became the primary venue and mediator for peace negotiations:
 
 **[[Nairobi]] Venue**: [[Nairobi]] was chosen as the site for peace negotiations due to Kenya's diplomatic position as a neighboring but not directly involved state.
 
-**Kenyan Mediation**: Kenya, alongside international mediators (particularly the Intergovernmental Authority on Development, IGAD), facilitated negotiations on [[South Sudan Kenya]] peace.
+**Kenyan Mediation**: Kenya, alongside international mediators (particularly the Intergovernmental Authority on Development, IGAD), facilitated negotiations on [[38_South_Sudan_Kenya]] peace.
 
 **Diplomatic Investment**: Kenya invested considerable diplomatic effort in facilitating the peace process.
 

@@ -11,9 +11,9 @@ Successful reception required community-level dialogue and genuine reconciliatio
 [[Reintegration Assistance]]
 [[Voluntary Repatriation]]
 [[Host Community Relations]]
-[[Community Dialogue Reconciliation]]
+[[Moi and the Luo Community]]
 [[Refugee Return Programs]]
-[[Local Integration Refugee]]
+[[Refugee Integration]]
 
 ## Sources
 

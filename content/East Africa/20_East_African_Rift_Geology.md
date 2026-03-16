@@ -18,7 +18,7 @@ The active rifting process creates frequent earthquake activity:
 
 **Major Earthquakes**: Periodically, major earthquakes (magnitude 6.0 or greater) occur, particularly in the northern portions of the [[East Africa|rift]] where stress is more concentrated.
 
-**Tsunami Potential**: Some historical earthquakes have generated tsunamis in [[Great Rift Valley]] lakes, though casualties have generally been limited.
+**Tsunami Potential**: Some historical earthquakes have generated tsunamis in [[16_Great_Rift_Valley]] lakes, though casualties have generally been limited.
 
 **Geological Hazard**: The seismic activity makes the [[East Africa|rift zone]] a genuine geological hazard for settlements in the region.
 
@@ -72,10 +72,10 @@ The active rifting creates geothermal heat that can be harnessed for electricity
 
 ## See Also
 
-- [[Great Rift Valley]]
+- [[16_Great_Rift_Valley]]
 - [[East Africa]]
 - [[Lake Victoria]]
-- [[Mount Kilimanjaro]]
+- [[17_Mount_Kilimanjaro]]
 - [[East Africa]]
 - [[Kenya]]
 - [[East Africa Timeline]]

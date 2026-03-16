@@ -1,4 +1,4 @@
-Somali have a rich oral poetry and music tradition that is central to their [[Somali Culture|cultural]] identity. Poetry is not merely artistic expression but a mode of historical record-keeping, political commentary, and social communication. Traditional genres include the gabay (long epic poem), heello (song), and buraanbur (women's poetry). In Kenya, Somali poetry and music communities maintain and evolve these traditions while engaging with contemporary styles.
+Somali have a rich oral poetry and music tradition that is central to their [[Somali|cultural]] identity. Poetry is not merely artistic expression but a mode of historical record-keeping, political commentary, and social communication. Traditional genres include the gabay (long epic poem), heello (song), and buraanbur (women's poetry). In Kenya, Somali poetry and music communities maintain and evolve these traditions while engaging with contemporary styles.
 
 ## The Gabay
 
@@ -38,7 +38,7 @@ Some concerns exist about transmission of traditional poetry and music to younge
 - [[Somali Oral Literature]]
 - [[Somali Language Kenya]]
 - [[Somali Wedding Traditions]]
-- [[Somali Culture and Identity]]
+- [[Somali]]
 
 ## Sources
 

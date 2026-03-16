@@ -10,7 +10,7 @@ AI governance and ethics received increasing attention from policymakers and res
 
 ## See Also
 
-[[Machine Learning Applications]], [[Tech Startups Ecosystem]], [[University Research Programs]], [[Education Technology]], [[Data Analysis]], [[Technology Policy Kenya]]
+[[Machine Learning Applications]], [[Tech Startups Ecosystem]], [[Moi University]], [[Education Technology Computers]], [[Data Analysis]], [[Technology]]
 
 ## Sources
 

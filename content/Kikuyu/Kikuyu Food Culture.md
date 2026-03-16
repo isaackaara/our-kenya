@@ -52,7 +52,7 @@ Contemporary Kikuyu restaurants in Nairobi and diaspora communities feature trad
 - [[Kikuyu Birth Rituals]]
 - [[Kikuyu Circumcision Ceremony]]
 - [[Kikuyu Diaspora Beyond Kenya]]
-- [[Kikuyu Agriculture|Agriculture and Food Systems]]
-- [[Kikuyu Festivals and Celebrations|Festivals and Ceremonies]]
+- [[Kikuyu Agriculture Pre-Colonial|Agriculture and Food Systems]]
+- [[Kikuyu|Festivals and Ceremonies]]
 - [[Kikuyu Sacred Geography]]
 

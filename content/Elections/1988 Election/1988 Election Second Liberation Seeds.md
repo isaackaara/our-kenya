@@ -2,7 +2,7 @@ The 1988 election planted seeds that would grow into the Second Liberation movem
 
 ## See Also
 - [[1988 Election]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Saba Saba 1990]]
 - [[Kenya]]
 - [[Daniel arap Moi]]

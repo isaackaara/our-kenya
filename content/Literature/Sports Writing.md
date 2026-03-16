@@ -15,12 +15,12 @@ The relationship between sports and nationalism meant that sports writing often 
 Contemporary sports writing increasingly addresses women's athletics and efforts to expand female athletic opportunities. Sports writing provides platform for advancing gender equity in athletics and challenging assumptions about women's athletic capabilities.
 
 ## See Also
-[[Kenyan Athletics]]
+[[Kalenjin and Kenyan Athletics Infrastructure]]
 [[Sports and Culture Kenya]]
 [[Nationalism Kenya]]
 [[Gender and Sports]]
 [[Memoir and Biography Kenya]]
-[[Journalism Kenya]]
+[[Investigative Journalism Kenya]]
 [[Biographical Writing]]
 
 ## Sources

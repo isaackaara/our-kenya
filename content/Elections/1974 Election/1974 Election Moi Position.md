@@ -18,7 +18,7 @@ Moi's position as Vice President was a status symbol and a constitutionally sign
 - [[Daniel arap Moi]]
 - [[1974 Election]]
 - [[Jomo Kenyatta]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[Kalenjin]]
 - [[Kenya]]
 

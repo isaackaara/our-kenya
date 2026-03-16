@@ -14,9 +14,9 @@ The political economy of zoning includes property owner interests in maximizing 
 
 [[Urban Planning Development]]
 [[Urban Design Standards]]
-[[Mixed-Use Development]]
+[[Development Aid]]
 [[Land Use Regulation]]
-[[Zoning Map]]
+[[Zoning Regulations Implementation]]
 [[Commercial Building]]
 [[Residential Architecture]]
 

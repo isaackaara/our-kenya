@@ -8,10 +8,10 @@ However, the MOU contained a critical weakness: it was not enforceable through a
 
 - [[2002 Election]]
 - [[National Rainbow Coalition (NARC)]]
-- [[Kibaki's presidency]]
+- [[Presidency Of Moi]]
 - [[Raila Odinga]]
 - [[2007 Election]]
-- [[Power-sharing agreements in Kenya]]
+- [[Kenya Power]]
 
 ## Sources
 

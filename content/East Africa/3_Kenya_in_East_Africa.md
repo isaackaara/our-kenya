@@ -33,7 +33,7 @@ The Northern Corridor (road and rail infrastructure connecting Mombasa to Uganda
 
 ## Transportation Hub
 
-[[JKIA Airport]] in [[Nairobi]] is East Africa's largest aviation hub, serving as the regional connector for international and domestic flights. Most East African nations' citizens traveling abroad pass through JKIA.
+[[49_JKIA_Airport]] in [[Nairobi]] is East Africa's largest aviation hub, serving as the regional connector for international and domestic flights. Most East African nations' citizens traveling abroad pass through JKIA.
 
 ## Technology and Innovation Hub
 
@@ -69,7 +69,7 @@ Despite its regional dominance, Kenya faces significant constraints:
 - [[Mombasa Port]]
 - [[Kenya]]
 - [[Kenya]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[East Africa]]
 
 ## Sources

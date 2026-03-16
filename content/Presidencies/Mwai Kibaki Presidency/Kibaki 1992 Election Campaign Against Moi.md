@@ -13,7 +13,7 @@ The loss in 1992, while disappointing, confirmed Kibaki as the primary oppositio
 [[1992 Kenya Elections]]
 [[Multi-Party Politics Emergence]]
 [[Moi Electoral Dominance]]
-[[Opposition Political Campaigns]]
+[[Moi and the Opposition]]
 [[Kenya Electoral Systems]]
 [[Elections/ Democracy Kenya]]
 

@@ -21,7 +21,7 @@ The colonial archives have been targets of conservation efforts as institutions 
 [[Colonial Knowledge Production]]
 [[Colonial Bureaucracy]]
 [[Historical Archives and Kenya]]
-[[Colonial Governance]]
+[[Luo Governance Pre-Colonial]]
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

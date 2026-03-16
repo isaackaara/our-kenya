@@ -15,11 +15,11 @@ Contemporary African writers, particularly Ngugi wa Thiong'o and others, have de
 ## See Also
 [[Swahili Literary Tradition]]
 [[Griots and Historians Kenya]]
-[[Kikuyu Culture and Literature]]
+[[Kikuyu]]
 [[Luo Oral History]]
 [[Women Writers Traditions]]
 [[Postcolonial Literature Movement]]
-[[Language and Decolonization]]
+[[Luo Language]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Swahili_literature - Discussion of oral-written literary transitions in East Africa

@@ -1,4 +1,4 @@
-The [[Dhow Construction Techniques]] developed through centuries of maritime innovation represented sophisticated adaptation of available materials and techniques to Indian Ocean sailing conditions. The craftsmanship involved in dhow construction reflected accumulated knowledge about wood properties, structural design, and durability requirements. The specialization of dhow builders in particular locations created reputation and attracted merchant demand for their vessels.
+The [[Dhow Construction]] developed through centuries of maritime innovation represented sophisticated adaptation of available materials and techniques to Indian Ocean sailing conditions. The craftsmanship involved in dhow construction reflected accumulated knowledge about wood properties, structural design, and durability requirements. The specialization of dhow builders in particular locations created reputation and attracted merchant demand for their vessels.
 
 The primary materials for dhow construction included locally available timber species selected for particular structural purposes. Coconut wood provided frames offering flexibility combined with durability. Mango wood and other dense timber varieties provided planking. The selection of timber types reflected understanding of how different woods performed under various maritime conditions. The knowledge of timber properties developed through generations of construction and repair experience.
 
@@ -21,7 +21,7 @@ The adoption of some European construction techniques by traditional dhow builde
 ## See Also
 
 [[Dhow Culture Navigation]]
-[[Sailing Technology]]
+[[Sailing Technology Evolution]]
 [[Maritime Craftsmanship]]
 [[Merchant Vessels]]
 [[Regional Maritime Traditions]]

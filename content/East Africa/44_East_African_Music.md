@@ -118,7 +118,7 @@ East African music operates in a regional market:
 
 - [[Swahili]]
 - [[Luo Language]]
-- [[Indian Ocean Heritage]]
+- [[19_Indian_Ocean_Heritage]]
 - [[East African Literature Bureau]]
 - [[East Africa]]
 - [[Kenya]]

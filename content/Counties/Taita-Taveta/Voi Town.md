@@ -26,7 +26,7 @@ Contemporary development priorities for Voi include infrastructure development (
 - [[Taita-Taveta County]]
 - [[Uganda Railway Taita-Taveta]]
 - [[Taveta Town]]
-- [[Urban Development Kenya]]
+- [[Development Aid]]
 - [[Commerce and Trade Kenya]]
 - [[Transportation Kenya]]
 - [[Voi Sub-County]]

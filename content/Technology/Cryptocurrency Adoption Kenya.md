@@ -10,7 +10,7 @@ Cryptocurrency's speculative dimension attracted retail investors despite limite
 
 ## See Also
 
-[[Blockchain Technology]], [[Fintech Development]], [[Digital Payment Systems]], [[Diaspora Remittances]], [[Tech Startups Ecosystem]], [[Financial Regulation Kenya]]
+[[Blockchain Technology]], [[Fintech Development]], [[Digital Payment Systems]], [[Uhuru and Diaspora Remittances]], [[Tech Startups Ecosystem]], [[Financial Regulation Kenya]]
 
 ## Sources
 

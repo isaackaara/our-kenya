@@ -1,4 +1,4 @@
-The [[Shifta War Overview|Shifta War]] (1963-1967) and its aftermath were marked by documented atrocities against [[Kenyan Somali Identity|Somali]] civilians and [[NFD Pastoralism|pastoralists]]. Rather than targeting specific insurgents, Kenyan security forces conducted campaigns of collective punishment, including mass detention, livestock confiscation, and extrajudicial killings. These abuses established a pattern of state violence against Somali communities that would persist into subsequent decades, culminating in the [[Wagalla Massacre 1984|Wagalla Massacre]] (1984).
+The [[Shifta War Overview|Shifta War]] (1963-1967) and its aftermath were marked by documented atrocities against [[Kenyan Somali Identity|Somali]] civilians and [[NFD Pastoralism|pastoralists]]. Rather than targeting specific insurgents, Kenyan security forces conducted campaigns of collective punishment, including mass detention, livestock confiscation, and extrajudicial killings. These abuses established a pattern of state violence against Somali communities that would persist into subsequent decades, culminating in the [[The Wagalla Massacre 1984|Wagalla Massacre]] (1984).
 
 ## Documented Patterns of Abuse
 
@@ -59,13 +59,13 @@ This pattern suggests that the underlying state approach to Somali communities (
 ## See Also
 
 - [[Shifta War Overview]]
-- [[Wagalla Massacre 1984]]
+- [[The Wagalla Massacre 1984]]
 - [[Kenyan Somali and Security State]]
 - [[Post-Shifta Reconciliation]]
 - [[Kenya Truth Justice Reconciliation Commission]]
 - [[Kenyan Somali at Independence]]
 - [[Northern Kenya Development Gap]]
-- [[Shifta War Intergenerational Trauma]]
+- [[Shifta War]]
 
 ## Sources
 

@@ -19,7 +19,7 @@ The extent of Njonjo's direct intervention in specific electoral contests in 197
 - [[1974 Election]]
 - [[Jomo Kenyatta]]
 - [[Daniel arap Moi]]
-- [[1978 Succession]]
+- [[Moi Succession 1978]]
 - [[Kenya]]
 
 ## Sources

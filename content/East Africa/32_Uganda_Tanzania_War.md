@@ -101,7 +101,7 @@ The [[Uganda Tanzania War]] remains significant:
 - [[EAC History]]
 - [[Kenya]]
 - [[Kenya]]
-- [[EAC Political Federation]]
+- [[6_EAC_Political_Federation]]
 - [[East Africa]]
 - [[Somalia]]
 - [[East Africa Timeline]]

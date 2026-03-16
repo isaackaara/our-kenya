@@ -11,9 +11,9 @@ Business opportunities within refugee camps reflected structural poverty constra
 [[Livelihood Programs]]
 [[Cash Transfer Programs]]
 [[Microfinance Refugee Enterprise]]
-[[Refugee Economic Integration]]
+[[Refugee Integration]]
 [[Host Community Relations]]
-[[Market Development Refugee Camps]]
+[[Development Aid]]
 
 ## Sources
 

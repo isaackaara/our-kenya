@@ -36,7 +36,7 @@ Somali oral literature represents not merely entertainment or historical artifac
 - [[Somali Music and Poetry]]
 - [[Somali Language Kenya]]
 - [[Xeer Customary Law]]
-- [[Somali Culture and Identity]]
+- [[Somali]]
 
 ## Sources
 

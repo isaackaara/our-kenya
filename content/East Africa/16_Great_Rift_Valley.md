@@ -2,7 +2,7 @@
 title: Great Rift Valley
 ---
 
-The [[Great Rift Valley]] is a massive geological feature running roughly north-south through East Africa, creating distinctive topography, ecology, and climate zones. It is one of the world's most remarkable geological formations and shapes [[East African Community]] geography fundamentally.
+The [[16_Great_Rift_Valley]] is a massive geological feature running roughly north-south through East Africa, creating distinctive topography, ecology, and climate zones. It is one of the world's most remarkable geological formations and shapes [[East African Community]] geography fundamentally.
 
 ## Geographic Extent
 
@@ -21,7 +21,7 @@ The rift forms a series of valleys, escarpments, and volcanic features. Along it
 
 **Ethiopian Highlands**: In Ethiopia, the rift passes through the Afar region and the Ethiopian highlands, continuing into the Eritrean highlands.
 
-**Tanzania's Rift**: The valley continues into Tanzania, where it forms part of the geography around Arusha and the [[Mount Kilimanjaro]] region.
+**Tanzania's Rift**: The valley continues into Tanzania, where it forms part of the geography around Arusha and the [[17_Mount_Kilimanjaro]] region.
 
 ## The Rift Valley Lakes
 
@@ -102,7 +102,7 @@ The rift valley faces contemporary stresses:
 
 - [[East Africa]]
 - [[Lake Victoria]]
-- [[Mount Kilimanjaro]]
+- [[17_Mount_Kilimanjaro]]
 - [[East Africa]]
 - [[East Africa]]
 - [[Kenya]]

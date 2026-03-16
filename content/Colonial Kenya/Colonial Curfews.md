@@ -19,7 +19,7 @@ During the [[Mau Mau Uprising|Mau Mau]] period, curfew enforcement intensified d
 ## See Also
 [[Colonial Pass Laws]]
 [[Colonial Identification Systems]]
-[[Colonial Control]]
+[[Colonial Migration Control]]
 [[Colonial Migration Control]]
 [[Mau Mau Uprising]]
 [[Colonial Policing]]

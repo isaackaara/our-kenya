@@ -14,7 +14,7 @@ Strengthening respiratory disease control requires air quality monitoring and po
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Non-Communicable Diseases|Non-Communicable Diseases]]
 [[Air Quality Kenya|Environmental Health Hazards]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
+[[Health|Hospital Infrastructure Standards]]
 
 ## Sources
 1. https://www.health.go.ke/

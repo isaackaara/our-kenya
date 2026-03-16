@@ -106,9 +106,9 @@ Modern Swahili continues to evolve:
 
 ## See Also
 
-- [[Indian Ocean Heritage]]
-- [[Arab Slave Trade]]
-- [[Omani Empire]]
+- [[19_Indian_Ocean_Heritage]]
+- [[26_Arab_Slave_Trade]]
+- [[27_Omani_Empire]]
 - [[Mombasa Port]]
 - [[East African Literature Bureau]]
 - [[East African Music Charts 1990s]]

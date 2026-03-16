@@ -1,4 +1,4 @@
-Ekegusii is the language spoken by the [[Gusii people|Gusii people]], a [[Bantu languages|Bantu language]] closely related to neighboring languages ([[Luhya languages|Luhya]], [[Kuria language|Kuria]]) but distinctly differentiated through centuries of separate development. The language carries cultural meanings and embodies [[Gusii people|Gusii]] identity, yet faces pressure from national languages ([[Swahili language|Swahili]] and [[English language|English]]) and potential long-term decline as younger generations increasingly adopt these languages.
+Ekegusii is the language spoken by the [[Gusii people|Gusii people]], a [[Bantu languages|Bantu language]] closely related to neighboring languages ([[Luhya languages|Luhya]], [[Kuria language|Kuria]]) but distinctly differentiated through centuries of separate development. The language carries cultural meanings and embodies [[Gusii people|Gusii]] identity, yet faces pressure from national languages ([[Swahili language|Swahili]] and [[English Language Films|English]]) and potential long-term decline as younger generations increasingly adopt these languages.
 
 ## Linguistic Classification
 
@@ -184,7 +184,7 @@ Current trends suggest gradual shift toward greater English and Swahili use, tho
 - [[Kisii Education Culture]] - language transmission challenges
 - [[Language preservation in Africa]] - revitalization strategies
 - [[Bantu languages]] - broader linguistic family context
-- [[Sociolinguistics of language shift]] - pressure from dominant languages
+- [[Luo Language]] - pressure from dominant languages
 
 ## Sources
 

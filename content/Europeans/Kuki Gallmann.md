@@ -83,7 +83,7 @@ Gallmann's story illustrates contemporary European engagement in Kenya: no longe
 - [[I Dreamed of Africa]] - Her memoir
 - [[Ol Ari Nyiro Conservancy]] - Her conservancy
 - [[Laikipia Land Conflicts 2017]] - 2017 drought and clashes
-- [[Wildlife Conservation and Communities]] - Conservation ethics
+- [[Conservation]] - Conservation ethics
 - [[Europeans who Stayed]] - Post-independence European residents
 - [[Land Restitution Debate]] - Questions about conservation land
 

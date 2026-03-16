@@ -97,7 +97,7 @@ Older, highly educated Somali (particularly [[Somali Elders and Governance|elder
 - [[Somali Music and Poetry]]
 - [[Somali Oral Literature]]
 - [[Somali Language Kenya]]
-- [[Somali Culture and Identity]]
+- [[Somali]]
 - [[Somali Elders and Governance]]
 
 ## Sources

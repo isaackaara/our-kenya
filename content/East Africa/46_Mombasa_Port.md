@@ -26,7 +26,7 @@ The Northern Corridor is the primary trade route connecting [[Mombasa Port]] to 
 
 **Trade Volumes**: Massive trade volumes flow through the Northern Corridor, making it [[East African Community]]'s busiest trade route.
 
-**Regional Integration**: The Northern Corridor facilitates regional trade, making it essential for [[EAC Common Market]] integration.
+**Regional Integration**: The Northern Corridor facilitates regional trade, making it essential for [[5_EAC_Common_Market]] integration.
 
 ## Landlocked Countries' Dependence
 
@@ -117,10 +117,10 @@ Recent development initiatives include:
 ## See Also
 
 - [[East Africa]]
-- [[JKIA Airport]]
+- [[49_JKIA_Airport]]
 - [[Uhuru and Lamu Port LAPSSET Corridor]]
 - [[Kenya]]
-- [[EAC Common Market]]
+- [[5_EAC_Common_Market]]
 - [[Nairobi]]
 - [[East Africa Timeline]]
 

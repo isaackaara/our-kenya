@@ -23,7 +23,7 @@ Somali pastoral communities inhabited northeastern East Africa, moving seasonall
 ## Modernization and Marginalization (1970-1990)
 
 1970-1984: Somali communities experience security force harassment, limited development investment.
-1984 (February 10): [[Wagalla Massacre 1984|Wagalla Massacre]] occurs at Wagalla Airstrip. Approximately 5,000 Degodia men are detained and hundreds to thousands killed.
+1984 (February 10): [[The Wagalla Massacre 1984|Wagalla Massacre]] occurs at Wagalla Airstrip. Approximately 5,000 Degodia men are detained and hundreds to thousands killed.
 1984-2000: Government denies and covers up Wagalla atrocity for 16 years.
 
 ## Somalia Collapse and Refugee Crisis (1991-2000)
@@ -69,7 +69,7 @@ Somali pastoral communities inhabited northeastern East Africa, moving seasonall
 ## See Also
 
 - [[Shifta War Overview]]
-- [[Wagalla Massacre 1984]]
+- [[The Wagalla Massacre 1984]]
 - [[Northern Frontier District]]
 - [[Kenyan Somali Identity]]
 - [[Somalia State Collapse Effects on Kenya]]

@@ -12,7 +12,7 @@ Contemporary galleries have also served curatorial and educational roles beyond 
 - [[Contemporary Artists Kenya]]
 - [[Gallery Curation Practices]]
 - [[Art Commerce and Aesthetics]]
-- [[Cultural Tourism Kenya]]
+- [[Art Tourism]]
 - [[Artist Representation and Markets]]
 
 ## Sources

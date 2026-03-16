@@ -18,7 +18,7 @@ NGO coordination mechanisms attempt to prevent duplication. However, coordinatio
 - [[Samburu Drought Resilience]]
 - [[Samburu Girls Education]]
 - [[Samburu Health]]
-- [[Civil Society Organizations in Kenya]]
+- [[Civil Society Kenya]]
 
 ## Sources
 

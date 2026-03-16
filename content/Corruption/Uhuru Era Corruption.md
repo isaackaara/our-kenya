@@ -54,7 +54,7 @@ Civil society organizations and opposition politicians have attempted to hold th
 
 - [[NYS Scandal]] - flagship corruption scandal under Uhuru
 - [[KEMSA Scandal]] - COVID-era procurement fraud
-- [[The Eurobond Scandal]] - persistent questions about fund use
+- [[NYS Scandal]] - persistent questions about fund use
 - [[SGR Procurement Opacity]] - infrastructure procurement concerns
 - [[County Government Corruption]] - decentralized corruption patterns
 - [[Political Interference in Prosecutions]] - how politics constrains justice

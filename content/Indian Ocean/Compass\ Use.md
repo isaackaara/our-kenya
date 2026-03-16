@@ -21,10 +21,10 @@ The persistence of non-compass navigation methods alongside compass use reflecte
 ## See Also
 
 [[Navigation Methods]]
-[[Navigation Technology]]
+[[Technology]]
 [[Maritime Innovation]]
 [[Merchant Vessels]]
-[[Sailing Technology]]
+[[Sailing Technology Evolution]]
 
 ## Sources
 

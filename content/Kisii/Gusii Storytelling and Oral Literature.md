@@ -138,7 +138,7 @@ Contemporary Gusii writers sometimes incorporate Ekegusii language elements and 
 - [[Ekegusii Language and Linguistic Identity]] - language of oral traditions
 - [[Kisii Education Culture]] - cultural transmission methods
 - [[Oral literature in Africa]] - comparative African traditions
-- [[Cultural preservation in Kenya]] - documentation initiatives
+- [[Art Preservation]] - documentation initiatives
 
 ## Sources
 

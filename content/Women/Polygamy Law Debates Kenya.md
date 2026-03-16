@@ -26,7 +26,7 @@ Contemporary debates focus less on whether to abolish polygamy and more on regul
 [[Customary Law Women]]
 [[Marriage Regulation History]]
 [[Women Land Rights]]
-[[Gender Economic Inequality]]
+[[Gender Pay Gap]]
 [[Constitutional Rights Kenya]]
 
 ## Sources

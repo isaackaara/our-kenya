@@ -30,7 +30,7 @@ The globalization of music markets has meant that Mjikenda youth are increasingl
 
 ## See Also
 
-- [[Taarab]] - Musical genre in coastal tradition
+- [[Taarab Music]] - Musical genre in coastal tradition
 - [[Tourism Economic Social Impacts]] - Commercialization of performance
 - [[Mijikenda in the Arts]] - Artistic expression and identity
 - [[Mijikenda and the Swahili Coast]] - Swahili cultural influence

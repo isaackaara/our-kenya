@@ -4,7 +4,7 @@ The [[1964 Military Mutiny]] within weeks of independence demonstrated the fragi
 
 The [[1990s Multi-Party System|transition to multi-party democracy]] in 1991 created initial expectations of reduced military power and increased civilian parliamentary control. The [[Kenya Parliament]] passed defence legislation and established a defence committee, but military leadership resisted detailed budget scrutiny and operational oversight. The military retained effective control of [[Border Security Management|border security policy]], decisions regarding [[Somalia|Somali interventions]], and security force operations. Civilian constitutional authority and military institutional autonomy remained in tension rather than harmonious coordination.
 
-The [[2010 Constitution]] created explicit frameworks for civilian control. The [[Defence Committee of Parliament]], expanded authority over defence budgets, requirement for presidential declaration of war, and establishment of [[Civilian Military Oversight|external civilian oversight mechanisms]] theoretically subordinated military institutions to democratic civilian authority. By 2015, the military reported directly to the civilian defence ministry, senior appointments required presidential approval based on competitive selection, and parliamentary oversight had expanded to include operational inquiries.
+The [[2010 Constitution]] created explicit frameworks for civilian control. The [[Defence Committee of Parliament]], expanded authority over defence budgets, requirement for presidential declaration of war, and establishment of [[Civilian-Military-Oversight|external civilian oversight mechanisms]] theoretically subordinated military institutions to democratic civilian authority. By 2015, the military reported directly to the civilian defence ministry, senior appointments required presidential approval based on competitive selection, and parliamentary oversight had expanded to include operational inquiries.
 
 However, institutional behaviour has not fully aligned with constitutional form. The military maintains significant independent authority over [[North Eastern Province]] security operations, controls classified budgets with limited parliamentary visibility, and resists detailed investigation of operational conduct. The persistence of [[Corruption Military Institutions|corruption]] alongside minimal accountability suggests that formal civilian control remains incomplete. [[Armed Forces Infrastructure|Military hierarchy]] prioritizes institutional autonomy over democratic accountability, particularly in counterterrorism zones where constitutional rights are frequently subordinated to security imperatives.
 
@@ -12,7 +12,7 @@ However, institutional behaviour has not fully aligned with constitutional form.
 
 [[Kenya Defence Force]]
 [[Armed Forces Infrastructure]]
-[[Civilian Military Oversight]]
+[[Civilian-Military-Oversight]]
 [[2010 Constitution]]
 [[1964 Military Mutiny]]
 [[1982 Coup Attempt]]

@@ -31,7 +31,7 @@ Wildlife research in the county, particularly ornithological research in the Tai
 - [[Tsavo East National Park]]
 - [[Tsavo West National Park]]
 - [[Taita Hills Biodiversity]]
-- [[Wildlife Conservation Kenya]]
+- [[Conservation]]
 - [[Human-Wildlife Conflict]]
 - [[Protected Areas Kenya]]
 

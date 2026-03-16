@@ -13,7 +13,7 @@ Reception conditions also reflected security tensions. Kenyan authorities applie
 [[Refugee Protection Services]]
 [[Dadaab Refugee Camp]]
 [[Kakuma Refugee Camp]]
-[[Security Screening Procedures]]
+[[Job Security]]
 
 ## Sources
 

@@ -23,7 +23,7 @@ Reading group selections influenced individual reading practices and book purcha
 - [[Literary Magazines Kenya]]
 - [[Literacy Movements]]
 - [[Women]]
-- [[Educational Literature Development]]
+- [[Literature]]
 
 ## Sources
 1. Long, Elizabeth. "Book Clubs: Women and the Uses of Reading in Everyday Life." Chicago: University of Chicago Press, 2003.

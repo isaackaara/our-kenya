@@ -22,8 +22,8 @@ Maternal mortality remains elevated. Skilled birth attendance has increased but 
 - [[Samburu Women]]
 - [[Samburu Early Marriage]]
 - [[Samburu Food]]
-- [[Pastoral Health Systems]]
-- [[Maternal Health in Pastoral Communities]]
+- [[Health]]
+- [[Health]]
 
 ## Sources
 

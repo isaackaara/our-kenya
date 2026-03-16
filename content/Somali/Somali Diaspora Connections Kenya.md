@@ -147,7 +147,7 @@ Diaspora communities maintain Somali culture:
 - [[Somali Language Kenya]]
 - [[Somali and Kenyan Citizenship]]
 - [[Somali Food in Kenya]]
-- [[Eastleigh (Little Mogadishu)]]
+- [[Eastleigh Nairobi (Little Mogadishu)]]
 
 ## Sources
 

@@ -51,7 +51,7 @@ Meanwhile, the official may remain in office, continue to access government reso
 - [[Accountability and Justice]]
 - [[Corruption in Kenya Overview]]
 - [[Parliamentary Oversight Failure]]
-- [[Public Accounts Committee]]
+- [[Public Art]]
 - [[Director of Public Prosecutions Kenya]]
 - [[Corruption Measurement and Statistics]]
 

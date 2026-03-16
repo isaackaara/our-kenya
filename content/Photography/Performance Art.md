@@ -10,7 +10,7 @@ Performance art remains minority practice in Kenya's art world where material-ba
 - [[Live Art and Embodiment]]
 - [[Dance and Theatrical Traditions]]
 - [[Performance Documentation]]
-- [[Contemporary Performance Practice]]
+- [[Performance Art]]
 - [[Ritual and Artistic Practice]]
 - [[Audience Experience Art]]
 - [[Ephemeral Art Forms]]

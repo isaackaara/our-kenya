@@ -86,7 +86,7 @@ German colonization left lasting marks on Tanzania:
 - [[Kenya]]
 - [[Maasai]]
 - [[East Africa]]
-- [[Omani Empire]]
+- [[27_Omani_Empire]]
 - [[East Africa Timeline]]
 
 ## Sources

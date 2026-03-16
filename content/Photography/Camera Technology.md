@@ -8,10 +8,10 @@ The transition from film to digital photography began in the 1990s and accelerat
 
 ## See Also
 - [[Photography Equipment Supply Chains]]
-- [[Darkroom Technology and Practice]]
+- [[Technology]]
 - [[Film Stock Chemistry]]
 - [[Digital Photography Transition]]
-- [[Technology and Visual Culture]]
+- [[Technology]]
 - [[Urban Photography Infrastructure]]
 - [[Professional Equipment Investment]]
 

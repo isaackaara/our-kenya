@@ -5,7 +5,7 @@ Kenneth Matiba, a prominent politician and businessman, was detained in the peri
 - [[Kenneth Matiba]]
 - [[Daniel arap Moi]]
 - [[Kenya]]
-- [[Second Liberation Kenya]]
+- [[Second Liberation Music Kenya]]
 - [[Kenya]]
 
 ## Sources

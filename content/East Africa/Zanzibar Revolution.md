@@ -20,10 +20,10 @@ For the broader Indian Ocean world, the revolution represented the violent end o
 
 [[Zanzibar]]
 [[East Africa Timeline]]
-[[Omani Empire]]
-[[Arab Slave Trade]]
+[[27_Omani_Empire]]
+[[26_Arab_Slave_Trade]]
 [[Jomo Kenyatta Presidency]]
-[[Indian Ocean Heritage]]
+[[19_Indian_Ocean_Heritage]]
 [[East African Community]]
 
 ## Sources

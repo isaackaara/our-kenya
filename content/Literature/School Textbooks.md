@@ -23,10 +23,10 @@ Language medium affected textbook literature's accessibility. Textbooks in Engli
 Contemporary school textbooks increasingly represent diversity of Kenyan literature while managing tensions between literary quality, pedagogical utility, and curricular standards. The selection of texts for student reading continues shaping literary canons and determining which writers achieve canonical status within Kenya.
 
 ## See Also
-[[Educational Literature Kenya]]
+[[Literature]]
 [[Publishing Industry Kenya]]
 [[Colonial Education Kenya]]
-[[Curriculum Development Kenya]]
+[[Development Aid]]
 [[Literary Canon Formation]]
 [[Language and Education Kenya]]
 [[National Curriculum Kenya]]

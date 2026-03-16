@@ -11,11 +11,11 @@ The investment in road infrastructure also had spatial and environmental implica
 ## See Also
 
 [[Kenya Roads Infrastructure]]
-[[Transportation Development Kenya]]
+[[Development Aid]]
 [[Kibaki Economic Record]]
 [[Public Investment and Corruption Kenya]]
-[[Development Projects Spatial Impact]]
-[[Infrastructure and Regional Development]]
+[[Development Aid]]
+[[Moi Infrastructure Development]]
 
 ## Sources
 

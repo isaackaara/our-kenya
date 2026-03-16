@@ -30,8 +30,8 @@ Contemporary university presses in Kenya continue publishing scholarly and liter
 [[Academic Publishing Africa]]
 [[Literary Journals Publishing]]
 [[Scholarly Research Kenya]]
-[[Digital Publishing Africa]]
-[[Educational Literature Kenya]]
+[[Digital Art]]
+[[Literature]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Kenya_Literature_Bureau - Context for institutional publishing infrastructure

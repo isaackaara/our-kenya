@@ -8,7 +8,7 @@
 - [[Consumer Goods Kenya]] - FMCG sector players
 - [[Post-Independence Economic Policy]] - Industrial development strategy
 - [[Food]] - Agro-industrial development
-- [[Corporate Governance Kenya]] - Private company governance
+- [[Corporate Kenya]] - Private company governance
 
 ## Sources
 

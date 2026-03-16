@@ -18,7 +18,7 @@ The economic crisis of the late 1980s and early 1990s thus created a constituenc
 - [[Corruption]]
 - [[Unemployment]]
 - [[Economic Grievances]]
-- [[Development and Democracy]]
+- [[Development Aid]]
 
 ## Sources
 

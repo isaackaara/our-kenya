@@ -46,7 +46,7 @@ Climate change threatens the reserve's wildlife and habitats through altered rai
 - [[Samburu and Tourism]]
 - [[Samburu Pastoralism]]
 - [[Samburu Climate Change]]
-- [[Wildlife Conservation in Kenya]]
+- [[Conservation]]
 
 ## Sources
 

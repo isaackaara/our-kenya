@@ -18,7 +18,7 @@ Youth migration to cities for employment reflects limited pastoral opportunities
 - [[Samburu Diaspora]]
 - [[The Moran (Warriors)]]
 - [[Samburu Pastoralism]]
-- [[Youth Employment in Kenya]]
+- [[Youth Employment]]
 
 ## Sources
 

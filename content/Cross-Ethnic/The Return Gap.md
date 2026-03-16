@@ -42,7 +42,7 @@ The "big person from Nairobi" is simultaneously resented and needed. Resented be
 
 - [[The Nairobi Generation]]
 - [[Urban Migration Ethnic Displacement]]
-- [[Language and Belonging]]
+- [[Luo Language]]
 - [[Inheritance and Identity]]
 - [[The Third Culture Kenyan]]
 

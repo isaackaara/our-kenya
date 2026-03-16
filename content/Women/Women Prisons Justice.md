@@ -24,7 +24,7 @@ Women's rights organizations have begun advocacy around women prisoners' conditi
 [[Women Mental Health]]
 [[Female Headed Households]]
 [[Women Safety Urban Planning]]
-[[Human Rights]]
+[[Human Rights Military Operations]]
 
 ## Sources
 

@@ -2,17 +2,17 @@
 title: Arab Slave Trade
 ---
 
-The 19th century [[Arab Slave Trade]] represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of [[East African Community]] and Central Africa to the coast at [[Zanzibar|Zanzibar]]. The routes passed through Kenyan territory, profoundly impacting interior communities.
+The 19th century [[26_Arab_Slave_Trade]] represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of [[East African Community]] and Central Africa to the coast at [[Zanzibar|Zanzibar]]. The routes passed through Kenyan territory, profoundly impacting interior communities.
 
 ## The Slave Trade System
 
-The [[Arab Slave Trade]] was not a single unified system but rather a series of trade networks operated by Arab, [[Swahili]], and African merchants:
+The [[26_Arab_Slave_Trade]] was not a single unified system but rather a series of trade networks operated by Arab, [[Swahili]], and African merchants:
 
 **Duration**: The trade intensified in the 18th-19th centuries and continued until the late 19th century despite European abolition efforts.
 
-**Scale**: Historians estimate the [[Arab Slave Trade]] removed roughly 1 million slaves from [[East African Community]] in the 19th century alone, with perhaps 4 million total across the Indian Ocean trade.
+**Scale**: Historians estimate the [[26_Arab_Slave_Trade]] removed roughly 1 million slaves from [[East African Community]] in the 19th century alone, with perhaps 4 million total across the Indian Ocean trade.
 
-**Destination**: Slaves were transported to Arab lands ([[Omani Empire]], Saudi Arabia, Yemen), Indian Ocean islands, and North Africa.
+**Destination**: Slaves were transported to Arab lands ([[27_Omani_Empire]], Saudi Arabia, Yemen), Indian Ocean islands, and North Africa.
 
 ## The Trade Routes
 
@@ -82,9 +82,9 @@ The slave trade remains significant in East African memory and identity:
 
 ## See Also
 
-- [[Omani Empire]]
+- [[27_Omani_Empire]]
 - [[Zanzibar]]
-- [[Indian Ocean Heritage]]
+- [[19_Indian_Ocean_Heritage]]
 - [[Swahili]]
 - [[Mombasa Port]]
 - [[East Africa]]

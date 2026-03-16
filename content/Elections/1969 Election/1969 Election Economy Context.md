@@ -15,10 +15,10 @@ The economic context of 1969 thus provided the government with justification for
 - [[1969 Election]]
 - [[Kenya]]
 - [[Africanization Policies]]
-- [[Foreign Investment Kenya]]
-- [[Agricultural Economy Kenya]]
+- [[Art Investment]]
+- [[The NGO Economy]]
 - [[Income Inequality]]
-- [[Development Strategy Kenya]]
+- [[Development Aid]]
 
 ## Sources
 

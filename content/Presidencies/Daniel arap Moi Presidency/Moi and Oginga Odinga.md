@@ -23,7 +23,7 @@ Moi's relationship with Odinga represented the limits of his tolerance for legit
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Oginga Odinga|Oginga Odinga]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya Luo Politics|Kenya Luo Politics]]
+- [[Kibaki and Ethnic Politics Mount Kenya Dominance|Kenya Luo Politics]]
 - [[Kenya Multiparty Democracy|Kenya Multiparty Democracy]]
 
 ## Sources

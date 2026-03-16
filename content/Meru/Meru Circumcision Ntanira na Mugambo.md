@@ -10,7 +10,7 @@ From the 1980s onward, international human rights organizations and health advoc
 
 ## Ntanira na Mugambo Innovation
 
-In the 1990s, [[Maendeleo ya Wanawake]] (a Kenyan women's organization) partnered with Meru community members to develop Ntanira na Mugambo as an alternative to cutting. The ritual maintains the essential cultural significance of female initiation (marking transition to womanhood, providing community recognition, transmitting cultural values) while replacing physical cutting with an elaborate ceremony involving celebration, dancing, feasting, and cultural education.
+In the 1990s, [[Maendeleo ya Wanawake Organization]] (a Kenyan women's organization) partnered with Meru community members to develop Ntanira na Mugambo as an alternative to cutting. The ritual maintains the essential cultural significance of female initiation (marking transition to womanhood, providing community recognition, transmitting cultural values) while replacing physical cutting with an elaborate ceremony involving celebration, dancing, feasting, and cultural education.
 
 ## How the Ritual Works
 
@@ -37,7 +37,7 @@ Contemporary Ntanira na Mugambo ceremonies are organized by families and communi
 - [[Meru Initiation]]
 - [[Meru Male Circumcision]]
 - [[Meru Women]]
-- [[Female Genital Mutilation Abandonment]]
+- [[Female Genital Mutilation]]
 - [[Meru Cultural Change]]
 - [[Tharaka-Nithi County]]
 

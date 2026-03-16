@@ -52,5 +52,5 @@ In contemporary Kikuyuland, birth rituals show variation. Some families observe 
 - [[Githaka|Githaka]]
 - [[Facing Mount Kenya|Facing Mount Kenya]]
 - [[Gikuyu and Mumbi|Gikuyu and Mumbi]]
-- [[Kikuyu Cultural Identity|Kikuyu Cultural Identity]]
+- [[Kikuyu|Kikuyu Cultural Identity]]
 

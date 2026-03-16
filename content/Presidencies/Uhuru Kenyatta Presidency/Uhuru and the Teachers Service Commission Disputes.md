@@ -11,7 +11,7 @@ By Uhuru's presidency's end, teachers remained one of Kenya's most demoralized p
 ## See Also
 [[Education Sector Under Uhuru Kenyatta]]
 [[Teachers Service Commission Governance]]
-[[Public Sector Labor Relations Kenya]]
+[[Public Art]]
 [[Teacher Quality and Student Outcomes]]
 [[Curriculum and Education Reform]]
 [[Human Capital Development Strategy Kenya]]

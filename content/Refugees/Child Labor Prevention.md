@@ -13,7 +13,7 @@ Labor prevention also encompassed advocacy addressing camps' economic structures
 [[Education Refugee Camps]]
 [[Livelihood Programs]]
 [[Cash Transfer Programs]]
-[[Economic Integration Refugees]]
+[[Refugee Integration]]
 
 ## Sources
 

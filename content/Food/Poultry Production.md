@@ -21,8 +21,8 @@ Nutritionally, poultry products contributed to household and national protein co
 [[Livestock Farming Systems]]
 [[Food Security Policies]]
 [[Commercial Agriculture Development]]
-[[Animal Health Services]]
-[[Urban Food Systems]]
+[[Health]]
+[[Urban Food Supply Systems]]
 [[Rural Income Strategies]]
 [[Nutritional Status Kenya]]
 

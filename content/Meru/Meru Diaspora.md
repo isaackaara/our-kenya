@@ -46,8 +46,8 @@ Diaspora Meru may participate in political processes through voting (if eligible
 - [[Meru County]]
 - [[Nairobi]]
 - [[Urban Migration Kenya]]
-- [[Remittances Kenya]]
-- [[Kenya Migration]]
+- [[Remittances Kenya Economy]]
+- [[Women and Migration Kenya]]
 
 ## Sources
 

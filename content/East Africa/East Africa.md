@@ -6,8 +6,8 @@ A comprehensive reference covering Kenya's place in the broader East African con
 
 ## The East African Community
 - [[EAC History]]
-- [[EAC Common Market]]
-- [[EAC Political Federation]]
+- [[5_EAC_Common_Market]]
+- [[6_EAC_Political_Federation]]
 - [[East Africa]]
 - [[Nairobi]]
 
@@ -21,10 +21,10 @@ A comprehensive reference covering Kenya's place in the broader East African con
 
 ## Shared Ecosystems and Waters
 - [[Lake Victoria]]
-- [[Great Rift Valley]]
-- [[Mount Kilimanjaro]]
-- [[Nile River System]]
-- [[Indian Ocean Heritage]]
+- [[16_Great_Rift_Valley]]
+- [[17_Mount_Kilimanjaro]]
+- [[18_Nile_River_System]]
+- [[19_Indian_Ocean_Heritage]]
 - [[East Africa]]
 
 ## Cross-Border Communities
@@ -35,11 +35,11 @@ A comprehensive reference covering Kenya's place in the broader East African con
 - [[Bajuni People]]
 
 ## Regional History
-- [[Arab Slave Trade]]
-- [[Omani Empire]]
+- [[26_Arab_Slave_Trade]]
+- [[27_Omani_Empire]]
 - [[East Africa]]
 - [[East Africa]]
-- [[Groundnut Scheme]]
+- [[30_Groundnut_Scheme]]
 - [[Zanzibar]]
 - [[Uganda Tanzania War]]
 
@@ -49,8 +49,8 @@ A comprehensive reference covering Kenya's place in the broader East African con
 - [[East Africa]]
 - [[East Africa]]
 - [[Somalia]]
-- [[South Sudan Kenya]]
-- [[Rwanda Kenya]]
+- [[38_South_Sudan_Kenya]]
+- [[39_Rwanda_Kenya]]
 - [[Ethiopia Kenya]]
 
 ## People and Culture
@@ -64,7 +64,7 @@ A comprehensive reference covering Kenya's place in the broader East African con
 - [[Mombasa Port]]
 - [[Uhuru and Lamu Port LAPSSET Corridor]]
 - [[East Africa]]
-- [[JKIA Airport]]
+- [[49_JKIA_Airport]]
 - [[East Africa Timeline]]
 
 Total: 50 notes covering East African regional dynamics, shared history, ecosystems, communities, and contemporary politics.

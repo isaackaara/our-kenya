@@ -14,7 +14,7 @@ The election did not, however, produce clear institutional mechanisms for succes
 
 - [[1969 Election]]
 - [[1969 Election Results]]
-- [[KANU Leadership]]
+- [[Moi and KANU]]
 - [[Daniel arap Moi]]
 - [[Parliamentary Representation Kenya]]
 - [[Government Positions Kenya]]

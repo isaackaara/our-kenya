@@ -127,7 +127,7 @@ The Kisii highlands' geography has profoundly shaped Gusii history, culture, and
 - [[Kisii Origins and Early Settlement]] - Historical defensive positioning
 - [[Kisii Futures]] - Environmental degradation concerns
 - [[Kisii Soapstone Carving]] - Local stone resource extraction
-- [[Kisii Water Resources]] - Water availability challenges
+- [[Kisii]] - Water availability challenges
 
 ---
 

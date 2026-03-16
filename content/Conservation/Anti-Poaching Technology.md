@@ -72,9 +72,9 @@ Emerging technologies including advanced AI, satellite imaging, and autonomous s
 
 - [[Kenya Wildlife Service]]
 - [[Ranger Equipment and Field Tools]]
-- [[Forensic Technology and Wildlife Crime]]
-- [[SMART Technology and Patrol Analytics]]
-- [[Community Engagement in Anti-Poaching]]
+- [[Technology]]
+- [[Technology]]
+- [[Moi and the Luo Community]]
 - [[21st Century Poaching]]
 - [[Conservation and Corruption]]
 

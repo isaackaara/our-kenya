@@ -1,6 +1,6 @@
 Autobiography and memoir in Kenya function as genres addressing personal experience while engaging larger historical and political contexts. Rather than purely individual narratives, Kenyan autobiography often addresses how personal lives were shaped by colonialism, independence, and postcolonial transformation, making autobiographical narratives inherently historical works.
 
-[[Charity Waciuma]]'s [[Daughter of Mumbi]] (1969) stands as foundational Kenyan autobiography, presenting a Kikuyu woman's coming-of-age during colonialism and Mau Mau Emergency. The work demonstrated autobiography's significance for recovering women's voices and female perspectives on historical events, establishing women's autobiographies as important literary form.
+[[Charity Waciuma Autobiography]]'s [[Daughter of Mumbi]] (1969) stands as foundational Kenyan autobiography, presenting a Kikuyu woman's coming-of-age during colonialism and Mau Mau Emergency. The work demonstrated autobiography's significance for recovering women's voices and female perspectives on historical events, establishing women's autobiographies as important literary form.
 
 Autobiographies of political figures emerged as significant subgenre, with government officials, independence leaders, and political activists publishing memoirs addressing their roles in historical events. These political autobiographies functioned as historical documents while serving authors' political projects of shaping how their actions were understood and remembered.
 
@@ -25,10 +25,10 @@ Contemporary autobiography in Kenya continues developing, with new generations o
 ## See Also
 [[Charity Waciuma Autobiography]]
 [[Mau Mau Emergency Narratives]]
-[[Women Writers Kenya]]
+[[Women Writers Authors Kenya]]
 [[Postcolonial Literature Movement]]
 [[Political Memoirs Kenya]]
-[[Family History Literature]]
+[[4_EAC_History]]
 [[Life Writing Kenya]]
 
 ## Sources

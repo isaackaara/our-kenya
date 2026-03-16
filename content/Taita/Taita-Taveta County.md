@@ -21,7 +21,7 @@ The economy is based on agriculture in the hills (maize, beans, fruit, and other
 
 ## See Also
 
-- [[Taita Geography]]
+- [[Taita Hills Geography]]
 - [[Taita and Devolution]]
 - [[Voi Town]]
 - [[Tsavo National Park]]

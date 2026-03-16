@@ -10,13 +10,13 @@ Rules of engagement for hostage rescue operations developed gradually, with init
 
 ## See Also
 
-[[Crisis Negotiation Units]]
-[[Rapid Response Teams]]
+[[Crisis-Negotiation-Units]]
+[[Rapid-Response-Teams]]
 [[Kenya Police]]
 [[General Service Unit Operations]]
 [[Kenya Defence Force]]
 [[Counterterrorism Operations Kenya]]
-[[Human Rights Enforcement]]
+[[Human-Rights-Enforcement]]
 
 ## Sources
 

@@ -13,7 +13,7 @@ By the end of Uhuru's presidency, the Kenya-Ethiopia border remained a zone of m
 [[Maritime Boundary Disputes Indian Ocean]]
 [[Pastoral Communities Border Management]]
 [[Kenya-Ethiopia Relations History]]
-[[Regional Security East Africa]]
+[[Job Security]]
 [[Territorial Disputes African States]]
 
 ## Sources

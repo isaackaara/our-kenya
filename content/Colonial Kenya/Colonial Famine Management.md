@@ -17,7 +17,7 @@ Colonial responses to the 1940s-1950s food crises incorporated similar patterns.
 ## See Also
 [[Colonial Migration Control]]
 [[Pastoral Systems and Colonialism]]
-[[Colonial Agriculture]]
+[[Kikuyu Agriculture Pre-Colonial]]
 [[Maasai]]
 [[Labour]]
 [[Colonial Economics]]

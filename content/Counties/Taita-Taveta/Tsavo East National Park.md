@@ -24,7 +24,7 @@ Community relations with Tsavo East management have been complex, with pastoral 
 - [[Taita-Taveta County]]
 - [[Tsavo West National Park]]
 - [[Tsavo Man-Eaters]]
-- [[Wildlife Conservation Kenya]]
+- [[Conservation]]
 - [[National Parks Kenya]]
 - [[Tourism Kenya]]
 - [[Conservation]]

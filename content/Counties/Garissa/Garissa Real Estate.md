@@ -27,7 +27,7 @@ Informal settlement expansion in Garissa poses real estate governance challenges
 - [[Garissa County|Garissa County]]
 - [[Garissa Land|Land Tenure Systems]]
 - [[Garissa Infrastructure|Urban Services]]
-- [[Garissa Economy|Economic Development]]
+- [[Garissa County Economy|Economic Development]]
 
 ## Sources
 1. World Bank. "Kenya Urban Real Estate Market Assessment." Technical Report, 2021. https://www.worldbank.org

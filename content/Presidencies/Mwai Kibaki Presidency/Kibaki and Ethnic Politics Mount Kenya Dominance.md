@@ -6,9 +6,9 @@ Kibaki's government also benefited from Kikuyu business networks and concentrate
 
 ## See Also
 
-[[Ethnic Politics Kenya]]
+[[Kibaki and Ethnic Politics Mount Kenya Dominance]]
 [[Mount Kenya Region Dominance]]
-[[Kikuyu Economic Power]]
+[[Kikuyu]]
 [[Regional Inequality Kenya]]
 [[Kibaki Presidency and Ethnicity]]
 

@@ -46,7 +46,7 @@ However, donors have limited leverage because Kenya's government is not entirely
 - [[Kenyatta Era Corruption]] - capture by Kenyatta family
 - [[Moi Era Corruption Economy]] - capture by Moi and associates
 - [[Ethics and Anti-Corruption Commission]] - captured oversight body
-- [[Parastatals and State Capture]] - institutional manifestation
+- [[Moi and the Parastatals]] - institutional manifestation
 - [[Impunity Culture]] - culture of captured accountability
 - [[Winner-Takes-All Politics]] - structural drivers of capture
 

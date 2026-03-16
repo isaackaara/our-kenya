@@ -12,7 +12,7 @@ By Uhuru's final years, diaspora remittances had become economically essential y
 [[Kenya's External Trade and Remittances]]
 [[Diaspora Engagement Policy Kenya]]
 [[Rural Household Income Sources]]
-[[Migration and Development Kenya]]
+[[Development Aid]]
 [[Foreign Exchange and Macroeconomic Stability]]
 [[Emigration Patterns East Africa]]
 

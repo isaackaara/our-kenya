@@ -65,7 +65,7 @@ The community also faced ongoing anxieties about political change in Kenya. Peri
 - [[White Farmers Today]]
 - [[Land in the Rift Valley]]
 - [[Labor in Kenya]]
-- [[Environmental Issues in Contemporary Kenya]]
+- [[Environmental Art]]
 - [[East Africa]]
 - [[Neo-Colonial Economic Systems]]
 
