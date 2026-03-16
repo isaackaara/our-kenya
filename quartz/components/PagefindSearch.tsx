@@ -14,7 +14,7 @@ const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps)
         </svg>
         <p>Search</p>
       </button>
-      <div id="pagefind-container" style="display:none; position:fixed; inset:0; z-index:9999; background:rgba(0,0,0,0.5);">
+      <div id="pagefind-container" style="display:none; pointer-events:none; position:fixed; inset:0; z-index:9999; background:rgba(0,0,0,0.5);">
         <div style="max-width:600px; margin:10vh auto; background:var(--light); border-radius:8px; padding:1.5rem; max-height:80vh; overflow-y:auto;">
           <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
             <strong>Search</strong>
@@ -34,6 +34,7 @@ const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps)
 
     trigger.onclick = async function() {
       container.style.display = '';
+      container.style.pointerEvents = 'auto';
       if (!loaded) {
         loaded = true;
         const link = document.createElement('link');
@@ -60,10 +61,14 @@ const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps)
 
     closeBtn.onclick = function() {
       container.style.display = 'none';
+      container.style.pointerEvents = 'none';
     };
 
     container.onclick = function(e) {
-      if (e.target === container) container.style.display = 'none';
+      if (e.target === container) {
+        container.style.display = 'none';
+        container.style.pointerEvents = 'none';
+      }
     };
   }
 
