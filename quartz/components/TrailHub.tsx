@@ -206,22 +206,27 @@ const TrailHubCSS = `
 .trail-card-link {
   display: inline-flex;
   align-items: center;
-  gap: 0.25rem;
-  font-size: 0.9375rem;
+  gap: 0.4rem;
+  font-size: 0.875rem;
   font-weight: 600;
-  color: var(--secondary);
+  color: #f5f0e8;
+  background: var(--secondary);
   text-decoration: none;
-  min-height: 44px;
-  padding: 0.5rem 0;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  margin-top: 0.5rem;
+  transition: background 0.15s ease, opacity 0.15s ease;
+  letter-spacing: 0.01em;
 }
 
 .trail-card-link:hover {
-  opacity: 0.8;
-  text-decoration: underline;
+  opacity: 0.88;
+  text-decoration: none;
 }
 
 .trail-card-link::after {
   content: "→";
+  font-size: 1rem;
 }
 `
 
@@ -270,7 +275,7 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
             </div>
             <p class="trail-card-stops">{trail.stops.length} stops</p>
             <p class="trail-card-description">{trail.description}</p>
-            <span class="trail-card-link">Start trail →</span>
+            <span class="trail-card-link">Begin trail</span>
           </a>
         ))}
       </div>
