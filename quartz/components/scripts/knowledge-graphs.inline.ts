@@ -38,12 +38,12 @@ interface GraphCategory {
 
 const COLORS: Record<string, string> = {
   // New type scheme
-  person:   "#1b3d2f",
+  person:   "#1a1a1a",
   event:    "#8b2c2c",
   place:    "#4a7c59",
   concept:  "#2c5282",
   // Legacy types (kept for backward compat with raila graph)
-  center:   "#1b3d2f",
+  center:   "#1a1a1a",
   family:   "#c2603a",
   alliance: "#4a7c59",
   rival:    "#8b2c2c",
@@ -1466,16 +1466,16 @@ function buildKnowledgeGraphs() {
   // --- Inject styles ---
   const styleEl = document.createElement("style")
   styleEl.textContent = `
-    .ok-dropdown-btn{width:100%;background:#1b3d2f;color:#f5f0e8;border:none;border-radius:6px;padding:10px 16px;font-size:14px;font-family:Inter,system-ui,sans-serif;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:opacity 0.2s;}
+    .ok-dropdown-btn{width:100%;background:#1a1a1a;color:#ffffff;border:none;border-radius:6px;padding:10px 16px;font-size:14px;font-family:Inter,system-ui,sans-serif;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:opacity 0.2s;}
     .ok-dropdown-btn:hover{opacity:0.9;}
     .ok-dropdown-panel{position:absolute;top:calc(100% + 4px);left:0;right:0;background:#fff;border:1px solid #c8c2b8;border-radius:6px;max-height:320px;overflow-y:auto;z-index:100;box-shadow:0 4px 16px rgba(0,0,0,0.12);}
     @media(max-width:640px){.ok-dropdown-panel{max-height:240px;}}
     .ok-dropdown-panel.ok-hidden{display:none;}
-    .ok-cat-header{position:sticky;top:0;background:#f5f0e8;color:#1b3d2f;font-weight:700;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.08em;padding:6px 14px;border-bottom:1px solid #e0d8ce;}
+    .ok-cat-header{position:sticky;top:0;background:#f5f0e8;color:#1a1a1a;font-weight:700;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.08em;padding:6px 14px;border-bottom:1px solid #e0d8ce;}
     .ok-topic-item{padding:8px 14px;font-size:13px;font-family:Inter,system-ui,sans-serif;cursor:pointer;color:#333;transition:background 0.15s;}
     .ok-topic-item:hover{background:#e8f0eb;}
-    .ok-topic-item.ok-selected{background:#1b3d2f;color:#f5f0e8;}
-    .ok-graph-title{color:#1b3d2f;font-weight:700;font-size:14px;font-family:Inter,system-ui,sans-serif;margin:8px 0 4px 0;}
+    .ok-topic-item.ok-selected{background:#1a1a1a;color:#ffffff;}
+    .ok-graph-title{color:#1a1a1a;font-weight:700;font-size:14px;font-family:Inter,system-ui,sans-serif;margin:8px 0 4px 0;}
   `
   document.head.appendChild(styleEl)
 

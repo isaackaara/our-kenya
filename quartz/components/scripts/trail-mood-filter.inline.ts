@@ -24,9 +24,9 @@
       "  transition: all 0.15s; font-family: inherit;",
       "  display: inline-flex; align-items: center; gap: 4px;",
       "}",
-      ".ok-mood-pill:hover { border-color: var(--secondary); color: var(--secondary); }",
+      ".ok-mood-pill:hover { border-color: var(--dark); background: var(--dark); color: var(--light); }",
       ".ok-mood-pill.active {",
-      "  background: var(--secondary); color: white; border-color: var(--secondary);",
+      "  background: var(--dark); color: var(--light); border-color: var(--dark);",
       "}"
     ].join("\n");
     document.head.appendChild(style);

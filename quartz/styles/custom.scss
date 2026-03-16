@@ -347,16 +347,17 @@ body:has(article.homepage) .content-meta {
 }
 
 /* Search results - dark mode text fix */
-[saved-theme="dark"] {
-  & .result-card > h3 {
-    color: var(--light) !important;
-  }
+/* In dark mode: --dark = #ebebec (light text), --light = #161618 (dark bg) */
+[saved-theme="dark"] .result-card > h3 {
+  color: var(--dark) !important;
+}
 
-  & .result-card > p {
-    color: var(--lightgray) !important;
-  }
+[saved-theme="dark"] .result-card > p,
+[saved-theme="dark"] .result-card > p * {
+  color: var(--darkgray) !important;
+}
 
-  & > .preview-container {
-    color: var(--light) !important;
-  }
+[saved-theme="dark"] .preview-container,
+[saved-theme="dark"] .preview-container * {
+  color: var(--dark) !important;
 }

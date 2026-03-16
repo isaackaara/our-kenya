@@ -25,7 +25,7 @@ const TrailHubCSS = `
 
 .trail-hub-search:focus {
   outline: none;
-  border-color: var(--secondary);
+  border-color: var(--dark);
 }
 
 .trail-hub-categories {
@@ -69,14 +69,14 @@ const TrailHubCSS = `
 }
 
 .trail-category-tab:hover {
-  border-color: var(--secondary);
-  background: var(--highlight);
+  border-color: var(--dark);
+  background: var(--lightgray);
 }
 
 .trail-category-tab.active {
-  background: var(--secondary);
-  color: white;
-  border-color: var(--secondary);
+  background: var(--dark);
+  color: var(--light);
+  border-color: var(--dark);
 }
 
 .trail-hub-random-wrapper {
@@ -104,9 +104,9 @@ const TrailHubCSS = `
 }
 
 .trail-hub-random:hover {
-  background: var(--highlight);
-  border-color: var(--secondary);
-  color: var(--dark);
+  background: var(--dark);
+  border-color: var(--dark);
+  color: var(--light);
 }
 
 .trail-hub-random:active {
@@ -223,8 +223,9 @@ const TrailHubCSS = `
 }
 
 .trail-card-link:hover {
-  border-color: var(--secondary);
-  color: var(--secondary);
+  background: var(--dark);
+  border-color: var(--dark);
+  color: var(--light);
   text-decoration: none;
 }
 
