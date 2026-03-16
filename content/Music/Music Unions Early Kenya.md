@@ -22,7 +22,7 @@ Regional coordination was attempted but difficult. East African musicians in Ken
 
 Education and consciousness-raising were crucial union functions. Many musicians, particularly those from rural backgrounds, did not understand contracts, copyright, or their legal rights. The union provided basic education about the music industry, helping musicians negotiate better individual deals even when collective bargaining failed.
 
-At independence in 1963, Kenya's musicians' union was still weak and underdeveloped compared to unions in more industrialized sectors. Yet it had established the principle that musicians deserved professional respect, fair compensation, and legal protections. The [[Presidencies/Jomo Kenyatta Presidency|post-independence government]] inherited these demands.
+At independence in 1963, Kenya's musicians' union was still weak and underdeveloped compared to unions in more industrialized sectors. Yet it had established the principle that musicians deserved professional respect, fair compensation, and legal protections. The [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|post-independence government]] inherited these demands.
 
 The early union efforts demonstrate musicians' recognition that individual talent alone was insufficient for economic justice. Collective organization, despite its difficulties, offered the only realistic path toward fairer treatment. The struggles of 1950s musicians to organize professionally paralleled broader Kenyan struggles for political and economic self-determination.
 
@@ -33,7 +33,7 @@ The early union efforts demonstrate musicians' recognition that individual talen
 - [[Music/Radio Voice of Kenya Origins]]
 - [[Music/Women Performers Colonial Kenya]]
 - [[Elections/1963 Independence Election]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. Stapleton, Chris and Chris May. "African Rock: The Pop Music of a Continent." Dutton, 1990. https://www.worldcat.org/title/african-rock-the-pop-music-of-a-continent/oclc/20671928

@@ -18,7 +18,7 @@ Women played crucial roles in church music Africanization. In many mission churc
 
 The linguistic diversity of Kenya created multiple Africanization trajectories. Kikuyu Christian music sounded different from Luo Christian music, which differed from Kamba Christian music. Each ethnolinguistic group adapted Christianity musically in ways that reflected their particular musical traditions. This diversity enriched Kenya's sacred music landscape while occasionally creating tensions about whose version was most authentically Christian.
 
-Post-independence, church music Africanization accelerated. The [[Presidencies/Jomo Kenyatta Presidency|new government's emphasis on African cultural pride]] legitimized musical practices that missionaries had discouraged. Churches gradually incorporated more drums, dance, and vernacular songs into worship. What had been radical in mission churches became mainstream.
+Post-independence, church music Africanization accelerated. The [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|new government's emphasis on African cultural pride]] legitimized musical practices that missionaries had discouraged. Churches gradually incorporated more drums, dance, and vernacular songs into worship. What had been radical in mission churches became mainstream.
 
 The theological implications were significant. As music became more African, so did the Christianity it expressed. African Christian theology, which emphasized community, ancestors, and holistic spirituality, found musical expression in Africanized church music. The sound shaped the faith, creating forms of Christianity that were distinctly Kenyan.
 
@@ -32,7 +32,7 @@ Church music Africanization demonstrates cultural resilience and creativity. Afr
 - [[Music/African Brotherhood Church Music]]
 - [[Music/Schools Music Festivals Kenya Origins]]
 - [[Europeans/European Settlers Kenya]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. Kidula, Jean Ngoya. "Music in Kenyan Christianity: Logooli Religious Song." Indiana University Press, 2013. https://iupress.org/9780253007797/music-in-kenyan-christianity/

@@ -22,7 +22,7 @@ The anthem's reception was generally positive, though not universally enthusiast
 
 Teaching the anthem became a priority in schools. [[Music/Schools Music Festivals Kenya Origins|Music festivals]] featured anthem performances, with schools competing to deliver the most moving renditions. This institutionalization embedded the anthem deeply in Kenyan civic culture, ensuring each generation learned it.
 
-The anthem's meaning evolved post-independence. During the [[Presidencies/Jomo Kenyatta Presidency|Kenyatta era]], it often accompanied state celebrations emphasizing unity and development. Later, during more difficult political periods, the anthem's calls for peace and liberty took on ironic or aspirational meanings, reminding Kenyans of unfulfilled independence promises.
+The anthem's meaning evolved post-independence. During the [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta era]], it often accompanied state celebrations emphasizing unity and development. Later, during more difficult political periods, the anthem's calls for peace and liberty took on ironic or aspirational meanings, reminding Kenyans of unfulfilled independence promises.
 
 International sporting events gave the anthem new contexts and meanings. When Kenyan athletes won medals at global competitions, "Ee Mungu Nguvu Yetu" played to international audiences, representing Kenya to the world. These moments generated patriotic pride, with the anthem becoming associated with Kenyan excellence.
 
@@ -33,7 +33,7 @@ The anthem's religious language occasionally generated debate. Should a secular 
 ## See Also
 - [[Music/Independence Anthems Kenya]]
 - [[Elections/1963 Independence Election]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 - [[Music/European Missionary Music in Kenya]]
 - [[Music/Mission Church Choirs Kenya]]
 - [[Music/Schools Music Festivals Kenya Origins]]

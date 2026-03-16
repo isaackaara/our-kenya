@@ -1,8 +1,8 @@
-Kenya's return to multiparty politics in 1991-2002 profoundly affected musical production, distribution, and content as musicians engaged with democratic transitions while navigating continued authoritarianism. The multiparty era saw music become explicitly political in ways impossible during single-party rule, though [[Presidencies/Daniel arap Moi Presidency|Moi's]] continued presidency until 2002 meant democratic opening remained incomplete and contested.
+Kenya's return to multiparty politics in 1991-2002 profoundly affected musical production, distribution, and content as musicians engaged with democratic transitions while navigating continued authoritarianism. The multiparty era saw music become explicitly political in ways impossible during single-party rule, though [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi's]] continued presidency until 2002 meant democratic opening remained incomplete and contested.
 
 The constitutional amendment permitting multiparty politics in December 1991 transformed political music's parameters. What had required coded language and strategic ambiguity during single-party dictatorship could now be expressed more directly, though [[Music/Moi Era Music and Censorship|censorship and intimidation]] persisted. Musicians tested boundaries, discovering how much explicit political content new dispensation permitted.
 
-Campaign music proliferated as political parties competed for voters in [[Elections/1992 Election|1992]] and [[Elections/1997 Election|1997 elections]]. Parties hired musicians for rallies, commissioned campaign anthems, and courted popular artists whose endorsements carried weight with audiences. This commercialization of political music created income opportunities for musicians when [[Music/Piracy and the Kenyan Music Industry|cassette piracy]] destroyed album sales revenue.
+Campaign music proliferated as political parties competed for voters in [[Elections/1992 Election/1992 Election|1992]] and [[Elections/1997 Election/1997 Election|1997 elections]]. Parties hired musicians for rallies, commissioned campaign anthems, and courted popular artists whose endorsements carried weight with audiences. This commercialization of political music created income opportunities for musicians when [[Music/Piracy and the Kenyan Music Industry|cassette piracy]] destroyed album sales revenue.
 
 [[Music/Civic Education Through Music Kenya|Civic education songs]] became distinct genre, funded by NGOs and international donors supporting Kenya's democratic transition. Musicians produced tracks explaining voter registration, balloting procedures, and democratic rights. While serving genuine educational function, these songs also normalized multiparty democracy and encouraged participation that undermined Moi's KANU dominance.
 
@@ -16,7 +16,7 @@ However, multiparty politics also revealed limitations of musical political enga
 
 Ethnic dimensions of multiparty politics influenced music production. [[Music/Music and the Kikuyu Political Revival|Kikuyu musical expression]] intensified as the community mobilized politically against Moi. Similarly, Luo, Kalenjin, and other ethnic groups produced music reflecting their political interests and alliances. This ethnic politicization of music mirrored and reinforced Kenya's ethnicized party politics.
 
-The [[Elections/2002 Election|2002 election]] that finally defeated KANU generated unprecedented musical production. Opposition musicians celebrated anticipated change while KANU loyalists warned against untested leadership. When Mwai Kibaki won, celebration songs dominated airways, marking end of 24-year Moi rule and 39 years of KANU dominance.
+The [[Elections/2002 Election/2002 Election|2002 election]] that finally defeated KANU generated unprecedented musical production. Opposition musicians celebrated anticipated change while KANU loyalists warned against untested leadership. When Mwai Kibaki won, celebration songs dominated airways, marking end of 24-year Moi rule and 39 years of KANU dominance.
 
 Post-2002, multiparty era music faced new challenges. Some artists who had opposed Moi fell silent when Kibaki's government engaged in [[Corruption/Anglo Leasing Scandal|corruption]]. Others maintained critical stance, demonstrating that their opposition reflected principles rather than mere anti-Moi partisanship. This sorting distinguished genuine democratic advocates from ethnic or partisan opportunists.
 
@@ -34,9 +34,9 @@ By the 2000s, multiparty era had fundamentally altered Kenyan music's political 
 - [[Music/Civic Education Through Music Kenya]]
 - [[Music/Gospel Music and Kenyan Politics]]
 - [[Music/Music and the Kikuyu Political Revival]]
-- [[Elections/1992 Election]]
-- [[Elections/1997 Election]]
-- [[Elections/2002 Election]]
+- [[Elections/1992 Election/1992 Election]]
+- [[Elections/1997 Election/1997 Election]]
+- [[Elections/2002 Election/2002 Election]]
 
 ## Sources
 1. The Elephant. "The Music of the Nyayo Era." February 5, 2021. https://www.theelephant.info/analysis/2021/02/05/the-music-of-the-nyayo-era/

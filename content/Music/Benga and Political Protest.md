@@ -1,6 +1,6 @@
-[[Benga Music|Benga]] functioned as more than entertainment in post-independence Kenya. It became a vehicle for political commentary, ethnic assertion, and criticism of government policies, particularly during the [[Presidencies/Jomo Kenyatta Presidency|Kenyatta]] and [[Presidencies/Daniel arap Moi Presidency|Moi]] eras. [[Luo]] musicians used benga to express frustrations with political marginalization, economic inequality, and authoritarian governance, turning popular songs into forms of protest that reached far larger audiences than any opposition newspaper or political rally.
+[[Benga Music|Benga]] functioned as more than entertainment in post-independence Kenya. It became a vehicle for political commentary, ethnic assertion, and criticism of government policies, particularly during the [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta]] and [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi]] eras. [[Luo]] musicians used benga to express frustrations with political marginalization, economic inequality, and authoritarian governance, turning popular songs into forms of protest that reached far larger audiences than any opposition newspaper or political rally.
 
-The political dimension of benga emerged early in the genre's development. [[D.O. Misiani]] became the most prominent practitioner of protest benga, composing songs that directly named politicians, criticized corruption, and lamented the broken promises of independence. His lyrics, sung in Dholuo, were understood throughout [[Cross-Ethnic/Nyanza Province|Nyanza Province]] and among [[Luo]] communities in Nairobi. Songs like "Raila Odinga" celebrated opposition leaders, while others critiqued the concentration of power and wealth in [[Presidencies/Jomo Kenyatta Presidency|Kenyatta's]] inner circle.
+The political dimension of benga emerged early in the genre's development. [[D.O. Misiani]] became the most prominent practitioner of protest benga, composing songs that directly named politicians, criticized corruption, and lamented the broken promises of independence. His lyrics, sung in Dholuo, were understood throughout [[Cross-Ethnic/Nyanza Province|Nyanza Province]] and among [[Luo]] communities in Nairobi. Songs like "Raila Odinga" celebrated opposition leaders, while others critiqued the concentration of power and wealth in [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta's]] inner circle.
 
 The consequences for politically outspoken benga musicians were severe. Misiani was detained multiple times, accused of inciting ethnic hatred and undermining public order. [[Voice of Kenya Music Programming|Voice of Kenya radio]], controlled by the government, banned numerous benga songs deemed too political. This censorship was selective; benga music that celebrated government achievements or promoted national unity received airplay, while critical songs were suppressed. The resulting black market for banned recordings only enhanced their popularity and political significance.
 
@@ -14,7 +14,7 @@ Government attempts to co-opt benga musicians met with mixed success. Some artis
 
 The international dimension of benga's political meaning emerged as the genre gained audiences beyond Kenya. Exiled Kenyan dissidents used benga concerts in London or New York to raise funds for opposition movements and to maintain connections to home communities. The global circulation of benga recordings, particularly on cassette tapes that were easier to smuggle than vinyl records, created transnational networks of political solidarity.
 
-By the 1980s, as [[Presidencies/Daniel arap Moi Presidency|Moi's authoritarian rule]] intensified, benga's political role became more complex. New genres like gospel and imported American rap offered alternative vehicles for youth political expression. Yet benga remained important, particularly for older generations who had lived through independence and who used the music to maintain memories of political struggles and unfulfilled promises.
+By the 1980s, as [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi's authoritarian rule]] intensified, benga's political role became more complex. New genres like gospel and imported American rap offered alternative vehicles for youth political expression. Yet benga remained important, particularly for older generations who had lived through independence and who used the music to maintain memories of political struggles and unfulfilled promises.
 
 The legacy of benga as political protest lives in contemporary Kenyan music, where artists continue to use vernacular languages and popular styles to critique power and advocate for change. The courage of musicians like D.O. Misiani, who risked imprisonment to speak truth through song, established a tradition that subsequent generations have inherited and adapted to new political circumstances.
 
@@ -24,8 +24,8 @@ The legacy of benga as political protest lives in contemporary Kenyan music, whe
 - [[Luo Benga and Nyanza Identity]]
 - [[Music and the 1969 Political Crisis]]
 - [[Voice of Kenya Music Programming]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
-- [[Presidencies/Daniel arap Moi Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
+- [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency]]
 - [[Luo/Oginga Odinga]]
 
 ## Sources

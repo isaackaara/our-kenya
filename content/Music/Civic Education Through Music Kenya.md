@@ -1,6 +1,6 @@
 Music became essential vehicle for civic education in Kenya from the multiparty era through the 2000s, as musicians used their platforms to educate voters, promote peaceful elections, and build civic consciousness. This transformation of popular music into tool for democratic participation reflected both musicians' social engagement and recognition that music uniquely reached audiences unreachable through conventional civic education.
 
-The transition to multiparty democracy in 1991-1992 created unprecedented demand for voter education. After decades of single-party rule under [[Presidencies/Daniel arap Moi Presidency|Moi]], many Kenyans lacked understanding of democratic processes. How did voter registration work? What happened at polling stations? Why did votes matter? Musicians addressed these fundamental questions through songs that made abstract civic concepts concrete and memorable.
+The transition to multiparty democracy in 1991-1992 created unprecedented demand for voter education. After decades of single-party rule under [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi]], many Kenyans lacked understanding of democratic processes. How did voter registration work? What happened at polling stations? Why did votes matter? Musicians addressed these fundamental questions through songs that made abstract civic concepts concrete and memorable.
 
 [[Music/Kenyan Gospel Music Boom|Gospel musicians]] led early civic education efforts, framed through Christian theology of justice and righteousness. Songs emphasized voting as moral responsibility, peaceful participation as Christian witness, and democratic governance as aligned with biblical principles. This religious framing gave civic participation spiritual legitimacy that resonated with Kenya's deeply Christian population.
 
@@ -20,7 +20,7 @@ Radio became essential distribution mechanism for civic education music. When [[
 
 Live performances amplified civic music's impact. Musicians performed at rallies, community gatherings, and public spaces, combining entertainment with voter education. These events created festive atmospheres that associated civic participation with celebration rather than tedious obligation.
 
-The [[Elections/1997 Election|1997]], [[Elections/2002 Election|2002]], and subsequent elections each generated waves of civic education music. Musicians became recognized actors in electoral processes, with parties and civil society organizations competing for their services. Some artists maintained independence, promoting generic civic participation; others aligned with specific parties or candidates, using civic education rhetoric to advance partisan interests.
+The [[Elections/1997 Election/1997 Election|1997]], [[Elections/2002 Election/2002 Election|2002]], and subsequent elections each generated waves of civic education music. Musicians became recognized actors in electoral processes, with parties and civil society organizations competing for their services. Some artists maintained independence, promoting generic civic participation; others aligned with specific parties or candidates, using civic education rhetoric to advance partisan interests.
 
 Post-election violence in 2007-2008 intensified emphasis on peace messaging in civic music. Songs promoted ethnic tolerance, conflict resolution, and peaceful political engagement. Musicians positioned themselves as peace ambassadors, using cultural authority to discourage violence and promote national healing.
 
@@ -35,8 +35,8 @@ By the 2000s, civic education through music had become institutionalized compone
 - [[Music/Music and HIV AIDS Awareness Kenya]]
 - [[Music/Female Gospel Artists Kenya]]
 - [[Music/FM Radio Revolution Kenya 1990s]]
-- [[Elections/2002 Election]]
-- [[Elections/1997 Election]]
+- [[Elections/2002 Election/2002 Election]]
+- [[Elections/1997 Election/1997 Election]]
 
 ## Sources
 1. ResearchGate. "Sounds of Change and Reform: The Appropriation of Gospel Music and Dance in Political Discourses in Kenya." 2008. https://www.researchgate.net/publication/236812922_Sounds_of_Change_and_Reform_The_Appropriation_of_Gospel_Music_and_Dance_in_Political_Discourses_in_Kenya

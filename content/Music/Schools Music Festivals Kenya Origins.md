@@ -37,7 +37,7 @@ Despite these tensions, the Kenya Music and Drama Festival shaped musical educat
 - [[Music/Radio Voice of Kenya Origins]]
 - [[Music/Fadhili Williams]]
 - [[Music/Daudi Kabaka]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. Kidula, Jean Ngoya. "Music in Kenyan Christianity: Logooli Religious Song." Indiana University Press, 2013. https://iupress.org/9780253007797/music-in-kenyan-christianity/

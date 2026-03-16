@@ -6,7 +6,7 @@ Police brutality featured prominently in gengetone lyrics, reflecting lived real
 
 Economic precarity and the informal hustle dominated thematic content. Gengetone artists documented matatu touts, boda boda riders, small-time drug dealers, con artists, and the countless informal economic activities sustaining millions of Kenyans excluded from formal employment. These were not morality tales about escaping poverty through hard work but realistic assessments of how people actually survived. The hustler's pride, the celebration of making it through another day, reflected economic realities where traditional narratives of upward mobility through education and employment felt like cruel jokes.
 
-The [[Elections/2022 Election|2022 elections]] and subsequent [[Presidencies/William Ruto Presidency|Ruto presidency]] generated gengetone responses that bypassed traditional political commentary. Rather than engaging in formal political debate, gengetone artists documented how political developments affected street-level economics, how campaign promises translated (or did not) into material changes, how political theater looked from estates where politicians only appeared during campaigns. This ground-level political analysis, coded in Sheng and delivered through viral tracks, reached young voters formal political communication struggled to engage.
+The [[Elections/2022 Election/2022 Election|2022 elections]] and subsequent [[Presidencies/William Ruto Presidency/William Ruto Presidency|Ruto presidency]] generated gengetone responses that bypassed traditional political commentary. Rather than engaging in formal political debate, gengetone artists documented how political developments affected street-level economics, how campaign promises translated (or did not) into material changes, how political theater looked from estates where politicians only appeared during campaigns. This ground-level political analysis, coded in Sheng and delivered through viral tracks, reached young voters formal political communication struggled to engage.
 
 Class consciousness permeated gengetone even when not explicitly articulated. The genre's aesthetic, its lo-fi production, its estate settings, its refusal to sanitize or perform respectability, all functioned as class statement. Gengetone was aggressively working-class, deliberately rejecting middle-class aspirations and aesthetics in favor of documenting and celebrating estate realities. This was not pathology but identity: being from the estates was source of pride, authenticity, and cultural production rather than condition to transcend.
 
@@ -25,8 +25,8 @@ By the mid-2020s, gengetone's social commentary function remained important even
 - [[Music/Ethic Entertainment|Ethic Entertainment]]
 - [[Music/Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
-- [[Elections/2022 Election|2022 Election]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Elections/2022 Election/2022 Election|2022 Election]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 - [[Music/Ketebul Music and Preservation|Ketebul Music and Preservation]]
 - [[Music/YouTube and Kenyan Music|YouTube and Kenyan Music]]
 

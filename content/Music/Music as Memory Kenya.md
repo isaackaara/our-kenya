@@ -6,7 +6,7 @@ Nyimbo za uhuru (freedom songs) produced after the coup became memory markers of
 
 The [[Music/Second Liberation Music Kenya|pro-democracy struggle]] of the 1990s generated songs that became anthems for political resistance. While specific titles may fade, the emotional valence attached to this music persists: songs of that era evoke memories of hope for political change, frustration with authoritarian rule, and dangerous excitement of challenging power.
 
-The [[Elections/2002 Election|2002 election]] victory that brought Mwai Kibaki to power produced celebratory music that Kenyans forever associate with that watershed moment. Songs about change, new beginnings, and democratic triumph became sonic representations of collective joy when KANU's 39-year rule ended. Hearing those songs years later instantly transports listeners to December 2002's euphoria.
+The [[Elections/2002 Election/2002 Election|2002 election]] victory that brought Mwai Kibaki to power produced celebratory music that Kenyans forever associate with that watershed moment. Songs about change, new beginnings, and democratic triumph became sonic representations of collective joy when KANU's 39-year rule ended. Hearing those songs years later instantly transports listeners to December 2002's euphoria.
 
 [[Music/Music and HIV AIDS Awareness Kenya|HIV/AIDS awareness songs]] became attached to epidemic's devastating impact through the 1990s and 2000s. These tracks, some explicitly about AIDS and others addressing illness more generally, evoke memories of loss, fear, and community trauma. The songs serve as audio monuments to epidemic that killed millions of Africans.
 
@@ -37,7 +37,7 @@ Digital technology's arrival began transforming musical memory. Where cassette t
 - [[Music/Music and HIV AIDS Awareness Kenya]]
 - [[Music/Them Mushrooms]]
 - [[Music/Kenyan Gospel Music Boom]]
-- [[Elections/2002 Election]]
+- [[Elections/2002 Election/2002 Election]]
 - [[Music/Youth Music Culture 1990s Kenya]]
 
 ## Sources

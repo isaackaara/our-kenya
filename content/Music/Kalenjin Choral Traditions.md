@@ -12,7 +12,7 @@ Christian missionaries arriving in Kalenjin areas in the early twentieth century
 
 Kenya's education system, established during colonial rule and expanded after independence, recognized and channeled Kalenjin choral talent. School music competitions became crucial sites for cultural expression and inter-ethnic competition. [[Kalenjin/Kalenjin Origins|Kalenjin]] schools consistently dominated regional and national competitions, particularly in folk song categories where students performed traditional repertoires. Success at music festivals brought schools prestige and attracted talented students, creating a positive feedback loop that reinforced Kalenjin investment in choral excellence.
 
-This competitive success had political dimensions during [[Presidencies/Daniel arap Moi Presidency|President Daniel arap Moi's]] twenty-four-year rule (1978-2002). Moi, himself Tugen (a Kalenjin sub-group), promoted Kalenjin cultural visibility, ensuring [[Kalenjin/Kalenjin Origins|Kalenjin]] choirs performed at state functions and received government patronage. Schools in Kalenjin areas received disproportionate funding for music programs. This preferential treatment generated resentment from other communities, particularly the [[Kikuyu/Kikuyu Origins|Kikuyu]], who perceived Kalenjin cultural promotion as part of broader ethnic favoritism. The 1992 and 1997 ethnic clashes in the Rift Valley, which killed hundreds and displaced thousands, occurred against this backdrop of perceived cultural and political domination.
+This competitive success had political dimensions during [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|President Daniel arap Moi's]] twenty-four-year rule (1978-2002). Moi, himself Tugen (a Kalenjin sub-group), promoted Kalenjin cultural visibility, ensuring [[Kalenjin/Kalenjin Origins|Kalenjin]] choirs performed at state functions and received government patronage. Schools in Kalenjin areas received disproportionate funding for music programs. This preferential treatment generated resentment from other communities, particularly the [[Kikuyu/Kikuyu Origins|Kikuyu]], who perceived Kalenjin cultural promotion as part of broader ethnic favoritism. The 1992 and 1997 ethnic clashes in the Rift Valley, which killed hundreds and displaced thousands, occurred against this backdrop of perceived cultural and political domination.
 
 Contemporary Kalenjin choral music faces challenges familiar across Kenya's traditional music landscape. Young people increasingly prefer gospel, hip hop, and Afrobeats to traditional forms. Urbanization disperses communities, making the large gatherings necessary for choral performance difficult to organize. The decline of male circumcision ceremonies (due to medical campaigns promoting hospital circumcision) removes a crucial context for traditional song transmission. Some schools maintain choral programs for competition purposes but teach songs as performance pieces rather than living cultural practices embedded in social life.
 
@@ -22,7 +22,7 @@ Yet Kalenjin choral traditions persist with remarkable vitality in certain conte
 - [[Kalenjin/Kalenjin Origins]]
 - [[Music/Music and Initiation Rites]]
 - [[Music/Music and Marriage Ceremonies]]
-- [[Presidencies/Daniel arap Moi Presidency]]
+- [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency]]
 - [[Music/Women's Music Traditions Kenya]]
 - [[Music/Warrior Songs Kenya]]
 - [[Kalenjin/Kalenjin Culture and Identity]]

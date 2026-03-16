@@ -22,7 +22,7 @@ The studio's archives, though imperfectly preserved, represent invaluable histor
 
 Competition emerged in the late 1950s and early 1960s as other recording studios opened in Nairobi. This competition benefited musicians by creating alternatives and improving terms slightly. Equator Sound's monopoly position weakened, though it remained a major player in the industry.
 
-The transition to independence affected Equator Sound's business model. The [[Presidencies/Jomo Kenyatta Presidency|new government's]] emphasis on Kenyan cultural production created opportunities but also pressures. The studio needed to demonstrate commitment to Kenyan music and increasingly employ Kenyan staff to maintain legitimacy in the post-colonial environment.
+The transition to independence affected Equator Sound's business model. The [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|new government's]] emphasis on Kenyan cultural production created opportunities but also pressures. The studio needed to demonstrate commitment to Kenyan music and increasingly employ Kenyan staff to maintain legitimacy in the post-colonial environment.
 
 By the mid-1960s, Equator Sound faced challenges from newer, better-equipped studios and changing musical technologies. The shift from 78 rpm to 45 rpm singles and eventually LPs required equipment upgrades. Competition intensified as the Kenyan music market grew. The studio's pioneering role became historical rather than current.
 
@@ -37,7 +37,7 @@ The musicians who recorded at Equator Sound in the 1950s created [[Music/Congole
 - [[Music/Fadhili Williams]]
 - [[Music/Radio Voice of Kenya Origins]]
 - [[Music/East African Gramophone Records 1920s]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. Stapleton, Chris and Chris May. "African Rock: The Pop Music of a Continent." Dutton, 1990. https://www.worldcat.org/title/african-rock-the-pop-music-of-a-continent/oclc/20671928

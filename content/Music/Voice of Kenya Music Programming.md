@@ -6,9 +6,9 @@ The station's language services structured how different musical genres reached 
 
 Ethnic-language services (Kikuyu, Luo, Kamba, and others) provided platforms for vernacular music to reach target audiences. [[Joseph Kamaru]]'s Kikuyu songs dominated Kikuyu-language programming, while [[D.O. Misiani]] and [[George Ramogi]] featured prominently on Luo broadcasts. This segregated programming allowed different ethnic communities to hear music in their languages while reinforcing ethnic distinctions. Listeners often tuned to ethnic-language services that matched their identity, limiting cross-ethnic musical exposure that the Swahili service aimed to provide.
 
-Political considerations heavily influenced playlist decisions. Music that praised [[Presidencies/Jomo Kenyatta Presidency|President Kenyatta]], celebrated independence, or promoted national unity received preferential treatment. [[Benga and Political Protest|Songs deemed politically sensitive]] faced bans, though the criteria for prohibition were often opaque. Musicians learned that VoK airplay required navigating political sensitivities, leading some to avoid controversial topics while others risked marginalization to maintain artistic integrity.
+Political considerations heavily influenced playlist decisions. Music that praised [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|President Kenyatta]], celebrated independence, or promoted national unity received preferential treatment. [[Benga and Political Protest|Songs deemed politically sensitive]] faced bans, though the criteria for prohibition were often opaque. Musicians learned that VoK airplay required navigating political sensitivities, leading some to avoid controversial topics while others risked marginalization to maintain artistic integrity.
 
-The [[Kenyatta Era Music and Politics|relationship between VoK and the Kenyatta government]] meant that radio programming served state interests alongside entertainment and cultural functions. The station promoted government development initiatives through musical programming, commissioned patriotic songs, and provided platforms for pro-government musicians. This state-music relationship intensified under [[Presidencies/Daniel arap Moi Presidency|Moi]], who used VoK even more explicitly as a propaganda vehicle.
+The [[Kenyatta Era Music and Politics|relationship between VoK and the Kenyatta government]] meant that radio programming served state interests alongside entertainment and cultural functions. The station promoted government development initiatives through musical programming, commissioned patriotic songs, and provided platforms for pro-government musicians. This state-music relationship intensified under [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi]], who used VoK even more explicitly as a propaganda vehicle.
 
 VoK's role in the [[Recording Industry Kenya 1960s-1970s|recording industry]] was substantial. Airplay determined which records sold, making radio exposure essential for commercial success. Musicians courted programmers, record labels lobbied for airtime, and accusations of corruption (programmers accepting bribes to play certain records) circulated regularly. The power dynamic between programmers and musicians created dependencies that shaped artistic choices, as musicians composed with radio play in mind.
 
@@ -32,7 +32,7 @@ The transition from VoK to Kenya Broadcasting Corporation (KBC) in the 1980s, an
 - [[Kenyan Dansi Orchestras]]
 - [[Recording Industry Kenya 1960s-1970s]]
 - [[Benga and Political Protest]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. "The Sound of a Nation: How Kenya's Music Found Its Global Voice", Medium, https://medium.com/@markbondy/the-sound-of-a-nation-how-kenyas-music-found-its-global-voice-2de12f492c97

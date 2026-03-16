@@ -14,7 +14,7 @@ Alternative collection mechanisms have struggled to gain traction. The Performer
 
 The international dimensions complicate matters further. Kenyan music played internationally should generate royalties collected by foreign collecting societies and remitted to MCSK for distribution to Kenyan rights holders. But if MCSK lacks proper licensing or credibility with international partners, these revenue streams may not flow properly. [[Music/Sauti Sol|Sauti Sol]]'s international success, [[Music/Diaspora Kenyan Music|diaspora consumption]] of Kenyan music, and [[Music/Music Streaming and Kenyan Artists|streaming]] platforms' global reach all create royalty obligations that require functional collection infrastructure.
 
-The [[Presidencies/William Ruto Presidency|post-2022 government]] has periodically signaled interest in copyright reform and better protection for artists, but concrete action has been limited. Political will to fix MCSK's dysfunction runs up against vested interests benefiting from the current chaotic system. Reforming copyright collection would require regulatory capacity, political will, and likely new legislation, all scarce commodities in Kenya's often-dysfunctional governance ecosystem.
+The [[Presidencies/William Ruto Presidency/William Ruto Presidency|post-2022 government]] has periodically signaled interest in copyright reform and better protection for artists, but concrete action has been limited. Political will to fix MCSK's dysfunction runs up against vested interests benefiting from the current chaotic system. Reforming copyright collection would require regulatory capacity, political will, and likely new legislation, all scarce commodities in Kenya's often-dysfunctional governance ecosystem.
 
 For working Kenyan musicians, MCSK's failures translate directly into lost income. A song played hundreds of times daily across Nairobi's matatus should generate meaningful royalties. Radio hits should produce sustainable income streams beyond initial performance fees. International streaming should trigger cross-border royalty flows. But in practice, most Kenyan artists see nothing, or almost nothing, from these uses of their work. The gap between theoretical copyright protection and practical royalty collection remains vast, and MCSK, rather than bridging that gap, has become its symbol.
 
@@ -25,7 +25,7 @@ The ongoing MCSK crisis reflects broader challenges in Kenya's creative industri
 - [[Music/Music Streaming and Kenyan Artists|Music Streaming and Kenyan Artists]]
 - [[Music/Diaspora Kenyan Music|Diaspora Kenyan Music]]
 - [[Music/Sauti Sol|Sauti Sol]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 - [[Corruption/Anglo Leasing|Anglo Leasing]]
 
 ## Sources

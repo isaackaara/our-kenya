@@ -20,7 +20,7 @@ Management and professional services remain underdeveloped. Many Kenyan artists 
 
 The [[Music/Diaspora Kenyan Music|diaspora]] market represents untapped potential. Large Kenyan populations in UK, US, and across the world consume Kenyan music and would support artists through streaming, concert attendance, and merchandise purchases. But systematic diaspora engagement requires international touring infrastructure, proper work permits and visas, and promotional capacity most Kenyan artists and promoters cannot access. [[Music/Sauti Sol|Sauti Sol]]'s international success demonstrated this potential, but few artists could replicate their global reach.
 
-Government support for creative industries remains minimal. While [[Presidencies/William Ruto Presidency|the Ruto administration]] periodically discusses creative economy development, concrete support (funding, legal protections, industry infrastructure investment) remains limited. The Kenya Film Commission and Copyright Board exist but chronically underfunded and often ineffective. Contrast with Nigeria's more robust government support for creative industries highlights what is possible when creative economy is prioritized.
+Government support for creative industries remains minimal. While [[Presidencies/William Ruto Presidency/William Ruto Presidency|the Ruto administration]] periodically discusses creative economy development, concrete support (funding, legal protections, industry infrastructure investment) remains limited. The Kenya Film Commission and Copyright Board exist but chronically underfunded and often ineffective. Contrast with Nigeria's more robust government support for creative industries highlights what is possible when creative economy is prioritized.
 
 Technology companies, rather than government or traditional industry players, increasingly shape Kenyan music economics. [[Music/YouTube and Kenyan Music|YouTube]], [[Music/Music Streaming and Kenyan Artists|Spotify]], Boomplay, and [[Music/Social Media and Music Kenya|social media]] platforms provide distribution and revenue potential but extract value through platform fees and algorithmic control. Artists' dependence on these platforms creates vulnerability: algorithm changes can tank visibility, platform policy shifts can destroy revenue streams, and artists have minimal negotiating power against tech giants.
 
@@ -34,7 +34,7 @@ The ecosystem's future depends on multiple simultaneous improvements: functional
 - [[Music/Gengetone Movement|Gengetone Movement]]
 - [[Music/Concert Culture Kenya|Concert Culture Kenya]]
 - [[Music/Diaspora Kenyan Music|Diaspora Kenyan Music]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 - [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
 
 ## Sources

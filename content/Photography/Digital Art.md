@@ -7,7 +7,7 @@ Digital art encompasses diverse practices including digital graphic design, phot
 Contemporary Kenyan digital artists create sophisticated work addressing contemporary themes through digital media. Digital art appears increasingly in commercial galleries and museums alongside traditional artworks. The integration of digital technology into artistic practice has become normalized rather than exceptional. However, access to digital tools, internet connectivity, and digital infrastructure remains unequally distributed, creating disparities in digital art participation. Contemporary artists increasingly combine digital and traditional practices, working fluidly between media. Digital art represents significant expansion of Kenya's artistic possibilities.
 
 ## See Also
-- [[Computer-Generated Imagery]]
+- [[Photography/Computer Generated Imagery]]
 - [[Digital Image Editing]]
 - [[Interactive Digital Art]]
 - [[Online Art Platforms]]

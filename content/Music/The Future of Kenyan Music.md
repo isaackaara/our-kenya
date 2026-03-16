@@ -10,7 +10,7 @@ Generational leadership transition approaches as [[Music/Genge Music Origins|gen
 
 The [[Music/Diaspora Kenyan Music|diaspora]] market's potential remains largely untapped. As diaspora communities grow and maintain connections to Kenya through digital platforms, opportunities expand for artists who can effectively serve these audiences. But realizing this potential requires infrastructure most Kenyan artists lack: international booking networks, proper work visas, touring logistics, and marketing reaching diaspora communities. Whether Kenya develops this infrastructure or continues leaving diaspora markets underserved will significantly shape industry economics.
 
-[[Music/Music Copyright Society Kenya MCSK|MCSK]]'s dysfunction exemplifies institutional failures requiring resolution. Until Kenya develops functional royalty collection and distribution, artists will continue losing substantial income owed from public performance of their work. Whether [[Presidencies/William Ruto Presidency|government]] musters political will to reform copyright institutions or dysfunction persists indefinitely will partly determine whether music careers can be financially sustainable without relying entirely on performances and brand deals.
+[[Music/Music Copyright Society Kenya MCSK|MCSK]]'s dysfunction exemplifies institutional failures requiring resolution. Until Kenya develops functional royalty collection and distribution, artists will continue losing substantial income owed from public performance of their work. Whether [[Presidencies/William Ruto Presidency/William Ruto Presidency|government]] musters political will to reform copyright institutions or dysfunction persists indefinitely will partly determine whether music careers can be financially sustainable without relying entirely on performances and brand deals.
 
 Gender dynamics are slowly shifting but nowhere near parity. [[Music/Music and Gender Kenya Contemporary|Women artists]] continue navigating male-dominated industry with insufficient support and pervasive discrimination. Whether future sees genuine structural change, equal opportunity, and celebration of women's artistic contributions or continued marginalization depends on conscious effort to dismantle barriers rather than hoping individual exceptional women will overcome them through talent alone. The next generation's leadership must prioritize equity or perpetuate exclusion.
 
@@ -36,7 +36,7 @@ Reality will likely fall somewhere between, mixing progress with persistent chal
 - [[Music/Music and Religion Kenya Contemporary|Music and Religion Kenya Contemporary]]
 - [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 - [[Music/Ketebul Music and Preservation|Ketebul Music and Preservation]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 
 ## Sources
 1. "The Sound of a Nation: How Kenya's Music Found Its Global Voice," Medium, July 2, 2025, https://medium.com/@markbondy/the-sound-of-a-nation-how-kenyas-music-found-its-global-voice-2de12f492c97

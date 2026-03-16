@@ -1,6 +1,6 @@
 The political representation of women in Kenya's parliamentary institutions represents a trajectory of gradual, contested expansion from complete exclusion at independence to significant but still-subordinate representation. At Kenya's independence in 1964, women held no elected seats in Parliament. The first woman, [[Phoebe Asiyo]], entered the National Assembly in 1969 as a backbencher, marking a symbolic breach in the male-dominated legislative chamber that had been constitutionally reserved for men under colonial and early post-independence rule.
 
-Women's parliamentary participation remained minimal through the 1970s and 1980s. The [[Presidencies/Daniel arap Moi Presidency|Moi government]] appointed and controlled most female representation through nominated slots, which allowed Moi to maintain loyalty networks rather than reflect genuine democratic expansion. Nominated female MPs were often drawn from specific ethnic communities and loyalist constituencies, limiting their capacity to represent broader women's interests. During this period, women MPs were concentrated in committees dealing with "women's issues" like health and social welfare, reinforcing gender stereotypes about appropriate female policy domains.
+Women's parliamentary participation remained minimal through the 1970s and 1980s. The [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi government]] appointed and controlled most female representation through nominated slots, which allowed Moi to maintain loyalty networks rather than reflect genuine democratic expansion. Nominated female MPs were often drawn from specific ethnic communities and loyalist constituencies, limiting their capacity to represent broader women's interests. During this period, women MPs were concentrated in committees dealing with "women's issues" like health and social welfare, reinforcing gender stereotypes about appropriate female policy domains.
 
 The 1992 transition to multi-party democracy created new electoral openings for women candidates, though structural barriers remained formidable. The first multi-party elections saw increased numbers of women contesting parliamentary seats, with several successful bids, particularly in urban constituencies like [[Nairobi/Nairobi|Nairobi]] and [[Mombasa/Mombasa|Mombasa]]. Women MPs like [[Wangari Maathai]], elected in 2002 from Karura constituency, combined environmental activism with legislative work on governance and resource protection.
 
@@ -19,7 +19,7 @@ Female MPs have pursued diverse legislative agendas, from [[Women Land Rights|la
 [[Women Leadership Capacity]]
 [[Elections/Presidential Elections]]
 [[Elections/Electoral Systems]]
-[[Presidencies/Mwai Kibaki Presidency|Kibaki Era]]
+[[Presidencies/Mwai Kibaki Presidency/Mwai Kibaki Presidency|Kibaki Era]]
 [[Constitutional Reform 2010]]
 
 ## Sources

@@ -26,7 +26,7 @@ Ethnicity shapes women's electoral performance. Women from politically dominant 
 [[Female Government Representation]]
 [[Women Leadership Capacity]]
 [[Elections/Electoral Systems]]
-[[Presidencies/Mwai Kibaki Presidency|2007 Election Context]]
+[[Presidencies/Mwai Kibaki Presidency/Mwai Kibaki Presidency|2007 Election Context]]
 
 ## Sources
 

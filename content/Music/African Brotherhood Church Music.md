@@ -34,7 +34,7 @@ African Brotherhood Church music demonstrated that African Christianity need not
 - [[Music/Mission Church Choirs Kenya]]
 - [[Music/Music and Colonial Resistance]]
 - [[Europeans/European Settlers Kenya]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. Barrett, David B. "Schism and Renewal in Africa: An Analysis of Six Thousand Contemporary Religious Movements." Oxford University Press, 1968. https://global.oup.com/academic/product/schism-and-renewal-in-africa-9780195002577

@@ -12,7 +12,7 @@ Follow-up tracks demonstrated that "Lamba Lolo" was not a fluke. Songs like "Fig
 
 Their influence on subsequent gengetone crews was immediate and comprehensive. [[Music/Sailors Guild Kenya|Sailors Guild]], [[Music/Boondocks Gang Kenya|Boondocks Gang]], and dozens of other groups studied Ethic's model: raw production aesthetics, YouTube-first distribution, aggressive [[Music/Social Media and Music Kenya|social media]] promotion, explicit content that pushed boundaries, and complete independence from traditional gatekeepers. Within months, every estate in Nairobi seemed to have its own gengetone crew attempting to replicate Ethic's viral success.
 
-The group also became flashpoints in debates about artistic freedom, censorship, and class in Kenya. Their music was banned from radio, condemned by politicians and religious leaders, and held up as evidence of moral decay among youth. The Kenya Film Classification Board threatened censorship, and the [[Presidencies/William Ruto Presidency|post-2022 government]] periodically renewed efforts to regulate or sanitize gengetone content. But every attempt at suppression seemed only to increase Ethic's street credibility and their audience's devotion.
+The group also became flashpoints in debates about artistic freedom, censorship, and class in Kenya. Their music was banned from radio, condemned by politicians and religious leaders, and held up as evidence of moral decay among youth. The Kenya Film Classification Board threatened censorship, and the [[Presidencies/William Ruto Presidency/William Ruto Presidency|post-2022 government]] periodically renewed efforts to regulate or sanitize gengetone content. But every attempt at suppression seemed only to increase Ethic's street credibility and their audience's devotion.
 
 By the mid-2020s, Ethic Entertainment's prominence had waned as the gengetone movement they pioneered fragmented into multiple competing groups and sounds. Individual members pursued solo projects with varying success. But their legacy, their demonstration that estate kids could build commercially successful music careers entirely outside traditional industry infrastructure, remained foundational. Ethic proved that authenticity, raw talent, and direct connection with audiences could overcome lack of resources, industry connections, or establishment approval. They were not just the founding fathers of gengetone; they were proof that Kenya's music ecosystem had fundamentally changed in ways that could never be reversed.
 
@@ -25,7 +25,7 @@ By the mid-2020s, Ethic Entertainment's prominence had waned as the gengetone mo
 - [[Music/Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Music/Gengetone and Social Commentary|Gengetone and Social Commentary]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 
 ## Sources
 1. "Kenya: The rise and fall of Gengetone music," The Africa Report, December 29, 2022, https://www.theafricareport.com/270976/kenya-the-rise-and-fall-of-gengetone-music/

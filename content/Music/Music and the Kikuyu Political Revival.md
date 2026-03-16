@@ -1,4 +1,4 @@
-[[Music/Mugithi Music Origins|Mugithi music]] and other Kikuyu cultural expressions became vehicles for ethnic political consciousness during the [[Presidencies/Daniel arap Moi Presidency|Moi era]] (1978-2002), when Kenya's largest ethnic group felt politically marginalized after Jomo Kenyatta's death. Music provided space for expressing Kikuyu identity, articulating community grievances, and maintaining ethnic solidarity when explicit political organization faced government suppression.
+[[Music/Mugithi Music Origins|Mugithi music]] and other Kikuyu cultural expressions became vehicles for ethnic political consciousness during the [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|Moi era]] (1978-2002), when Kenya's largest ethnic group felt politically marginalized after Jomo Kenyatta's death. Music provided space for expressing Kikuyu identity, articulating community grievances, and maintaining ethnic solidarity when explicit political organization faced government suppression.
 
 Jomo Kenyatta's death in 1978 and succession by Kalenjin president Daniel arap Moi marked traumatic shift for Kikuyu political fortunes. After dominating post-independence politics, Kikuyu communities suddenly found themselves outside power centers. Moi's government systematically reduced Kikuyu influence in government, military, and state corporations, generating deep resentment that found expression through cultural rather than directly political channels.
 
@@ -16,7 +16,7 @@ The [[Music/Second Liberation Music Kenya|multiparty democracy movement]] of the
 
 However, Kikuyu political revival through music was not monolithic. Some musicians supported Moi's government, either from genuine loyalty or economic calculation. Others remained genuinely apolitical, viewing music as entertainment or cultural preservation rather than political tool. This diversity reflected broader Kikuyu community's political complexity.
 
-The [[Elections/2002 Election|2002 election]] victory of Mwai Kibaki, a Kikuyu, transformed dynamics. Suddenly Kikuyu musicians enjoyed political favor rather than marginalization. Some who had previously produced subtly oppositional music became government supporters. This shift exposed that some apparent political consciousness was actually ethnic interest rather than principled democratic commitment.
+The [[Elections/2002 Election/2002 Election|2002 election]] victory of Mwai Kibaki, a Kikuyu, transformed dynamics. Suddenly Kikuyu musicians enjoyed political favor rather than marginalization. Some who had previously produced subtly oppositional music became government supporters. This shift exposed that some apparent political consciousness was actually ethnic interest rather than principled democratic commitment.
 
 Post-2002, when Kikuyu political fortunes improved, mugithi music's political edge dulled somewhat. Without marginalization to resist, the music lost some oppositional energy. However, when Kibaki's government faced criticism over [[Corruption/Anglo Leasing Scandal|corruption]] or other issues, some musicians like [[Music/Samuel Muchendu|Samuel Muchendu]] demonstrated willingness to critique even Kikuyu leaders, showing principled political engagement beyond pure ethnic loyalty.
 
@@ -28,9 +28,9 @@ The Kikuyu political revival through music demonstrated how cultural expression 
 - [[Music/Samuel Muchendu]]
 - [[Music/Joseph Kamaru]]
 - [[Music/Moi Era Music and Censorship]]
-- [[Presidencies/Daniel arap Moi Presidency]]
+- [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency]]
 - [[Music/Second Liberation Music Kenya]]
-- [[Elections/2002 Election]]
+- [[Elections/2002 Election/2002 Election]]
 
 ## Sources
 1. The Elephant. "The Music of the Nyayo Era." February 5, 2021. https://www.theelephant.info/analysis/2021/02/05/the-music-of-the-nyayo-era/

@@ -14,7 +14,7 @@ The relationship between gospel and gengetone revealed class and cultural divide
 
 Gospel music's [[Music/Sheng Language and Kenyan Music|Sheng]] adoption demonstrated how Christianity indigenized to reach youth audiences. Using street language for spiritual messaging could be seen as culturally relevant evangelism or dangerous dilution of sacred language, depending on theological perspective. Gospel artists singing in Sheng connected with young urban Kenyans who might not respond to English or Swahili hymns, but traditionalists worried this accommodation undermined Christianity's distinctiveness from secular culture.
 
-The political dimensions of music and religion intensified around elections and political controversies. Gospel artists sometimes endorsed political candidates, performed at campaign events, or released songs with explicitly political messaging. [[Elections/2022 Election|The 2022 elections]] and subsequent [[Presidencies/William Ruto Presidency|Ruto presidency]], with Ruto's overt Christian framing of his political project, created space where gospel artists' political engagement seemed natural extension of ministry. But this politicization also compromised gospel's claimed moral authority when artists' political choices seemed driven by payment rather than principle.
+The political dimensions of music and religion intensified around elections and political controversies. Gospel artists sometimes endorsed political candidates, performed at campaign events, or released songs with explicitly political messaging. [[Elections/2022 Election/2022 Election|The 2022 elections]] and subsequent [[Presidencies/William Ruto Presidency/William Ruto Presidency|Ruto presidency]], with Ruto's overt Christian framing of his political project, created space where gospel artists' political engagement seemed natural extension of ministry. But this politicization also compromised gospel's claimed moral authority when artists' political choices seemed driven by payment rather than principle.
 
 Secular artists often adopted defensive posturing against religious criticism, arguing that their work reflected reality rather than endorsing immorality, that documenting street life was not same as promoting sin, and that judgmental Christianity ignored structural economic conditions forcing youth into behaviors religious leaders condemned. [[Music/Gengetone and Social Commentary|Gengetone]]'s social commentary, documenting police brutality and economic precarity, was moral witness even if delivered through "immoral" language. This counter-narrative challenged religious authorities' monopoly on moral interpretation.
 
@@ -32,8 +32,8 @@ By the mid-2020s, the tension between secular and sacred in Kenyan music showed 
 - [[Music/Gengetone and Social Commentary|Gengetone and Social Commentary]]
 - [[Music/Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
-- [[Elections/2022 Election|2022 Election]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Elections/2022 Election/2022 Election|2022 Election]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 - [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
 
 ## Sources

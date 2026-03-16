@@ -12,7 +12,7 @@ The genre evolved continuously through the 1980s and early 1990s. Bands incorpor
 
 Benga's decline began in the mid-1990s as gospel music, American R&B, and nascent hip hop captured younger audiences. The economic crisis of the 1980s and 1990s devastated the live music industry, forcing many bands to disband. D.O. Misiani's death in a car accident in 2006 marked a symbolic endpoint for benga's golden age. Yet the genre persists, sustained by older fans nostalgic for their youth and by musicians committed to preserving the form. Contemporary artists like Ogwang' Lelo attempt fusion approaches, blending benga with modern production techniques and contemporary themes.
 
-Benga's historical significance extends beyond musical innovation. It represented [[Luo/Luo Origins and Migration|Luo]] cultural assertion during a period when [[Presidencies/Jomo Kenyatta Presidency|Kenyatta's]] government systematically marginalized Luo political and economic interests. The music's commercial success demonstrated Luo cultural vitality even as political power concentrated in [[Kikuyu/Kikuyu Origins|Kikuyu]] hands. Benga also established patterns that continue shaping Kenyan music: the dominance of vernacular languages, music's role as social commentary, and the creative adaptation of foreign instruments to express local identities.
+Benga's historical significance extends beyond musical innovation. It represented [[Luo/Luo Origins and Migration|Luo]] cultural assertion during a period when [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta's]] government systematically marginalized Luo political and economic interests. The music's commercial success demonstrated Luo cultural vitality even as political power concentrated in [[Kikuyu/Kikuyu Origins|Kikuyu]] hands. Benga also established patterns that continue shaping Kenyan music: the dominance of vernacular languages, music's role as social commentary, and the creative adaptation of foreign instruments to express local identities.
 
 ## See Also
 - [[Music/Luo Ohangla Music]]
@@ -20,7 +20,7 @@ Benga's historical significance extends beyond musical innovation. It represente
 - [[Music/The Orutu]]
 - [[Music/Kikuyu Mugithi Music]]
 - [[Luo/Luo Origins and Migration]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 - [[Cross-Ethnic/Cultural Exchange in Colonial Kenya]]
 - [[Music/Musical Instruments of Kenya - Strings]]
 

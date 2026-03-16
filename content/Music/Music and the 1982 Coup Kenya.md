@@ -1,4 +1,4 @@
-The failed air force coup of August 1, 1982 fundamentally altered Kenya's musical landscape and established patterns of state control that would persist for two decades. Musicians faced immediate pressure to demonstrate loyalty to [[Presidencies/Daniel arap Moi Presidency|President Daniel arap Moi]], transforming Kenyan popular music from a space of creative expression into a tool of regime legitimation.
+The failed air force coup of August 1, 1982 fundamentally altered Kenya's musical landscape and established patterns of state control that would persist for two decades. Musicians faced immediate pressure to demonstrate loyalty to [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency|President Daniel arap Moi]], transforming Kenyan popular music from a space of creative expression into a tool of regime legitimation.
 
 The coup attempt began early on Sunday morning when junior air force officers seized [[Music/Voice of Kenya and Music Policy|Voice of Kenya]] radio facilities and declared the government overthrown. Within hours, army units loyal to Moi crushed the uprising, but the trauma reverberated through Kenya's cultural institutions. The government disbanded the entire Kenya Air Force, launched mass arrests of suspected sympathizers, and instituted sweeping security measures that touched every aspect of public life, including music.
 
@@ -10,7 +10,7 @@ The coup attempt also accelerated existing tendencies toward [[Music/Moi Era Mus
 
 Interestingly, 1982 was also the year of Tabu Ley's Maze orchestra's peak popularity in Kenya, demonstrating how [[Music/Congolese Influence on Kenya 1980s|Congolese rumba]] provided a politically safe alternative to potentially dangerous local content. International music offered entertainment without threatening political implications. The government tacitly encouraged this dynamic, understanding that Kenyans dancing to Lingala were not organizing resistance.
 
-The snap [[Elections/1983 Election|1983 elections]] called in the coup's wake further pressured musicians. Campaign songs and rally entertainment became tests of loyalty. Musicians who participated enthusiastically in KANU rallies received rewards; those who remained aloof faced suspicion. The politicization of musical performance became total.
+The snap [[Elections/1983 Election/1983 Election|1983 elections]] called in the coup's wake further pressured musicians. Campaign songs and rally entertainment became tests of loyalty. Musicians who participated enthusiastically in KANU rallies received rewards; those who remained aloof faced suspicion. The politicization of musical performance became total.
 
 Some artists genuinely supported Moi's government and produced sincere praise songs. Others calculated that survival required accommodation. A few quietly resisted through coded lyrics or strategic silence, but open defiance was rare and dangerous. The [[Music/Second Liberation Music Kenya|pro-democracy music]] that would emerge in the 1990s remained unthinkable in 1982's fearful aftermath.
 
@@ -18,11 +18,11 @@ The coup's impact on music extended beyond immediate censorship. Recording compa
 
 ## See Also
 - [[Music/Moi Era Music and Censorship]]
-- [[Presidencies/Daniel arap Moi Presidency]]
+- [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency]]
 - [[Music/Voice of Kenya and Music Policy]]
 - [[Music/Second Liberation Music Kenya]]
 - [[Music/Congolese Influence on Kenya 1980s]]
-- [[Elections/1983 Election]]
+- [[Elections/1983 Election/1983 Election]]
 - [[Music/Kenya Broadcasting Corporation Music]]
 
 ## Sources

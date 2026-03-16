@@ -16,7 +16,7 @@ After fighters surrendered or were captured, many were imprisoned in detention c
 
 The transmission of forest songs to the broader population occurred through complex channels. Fighters who visited villages at night taught songs to supporters. Women who brought supplies to forest camps learned songs and carried them back. Even after fighters were captured, the songs persisted in collective memory, passing to new generations.
 
-Post-independence, Mau Mau songs faced a complicated legacy. The [[Presidencies/Jomo Kenyatta Presidency|Kenyatta government]], while celebrating independence, was ambivalent about Mau Mau. Many forest songs remained unofficial, performed at private gatherings but not publicly celebrated. This official ambivalence meant that an important musical archive remained partially suppressed even after colonial rule ended.
+Post-independence, Mau Mau songs faced a complicated legacy. The [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|Kenyatta government]], while celebrating independence, was ambivalent about Mau Mau. Many forest songs remained unofficial, performed at private gatherings but not publicly celebrated. This official ambivalence meant that an important musical archive remained partially suppressed even after colonial rule ended.
 
 In recent decades, Mau Mau music has been reclaimed as part of Kenya's liberation heritage. Scholars and musicians have worked to document forest songs, recognizing their historical significance. Some contemporary Kenyan musicians have incorporated Mau Mau songs into modern compositions, bringing these resistance anthems to new audiences.
 
@@ -29,7 +29,7 @@ Mau Mau songs represent music at its most essential: sound as survival, melody a
 - [[Music/Music and Colonial Resistance]]
 - [[Music/Colonial Music Censorship Kenya]]
 - [[Music/Independence Anthems Kenya]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 - [[Music/Women Performers Colonial Kenya]]
 
 ## Sources

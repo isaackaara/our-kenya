@@ -4,7 +4,7 @@ Gengetone evolved directly from [[Music/Genge Music Origins|genge]], the street 
 
 The sound blended genge's [[Music/Sheng Language and Kenyan Music|Sheng]] lyrics and street narratives with reggaeton rhythms, dancehall riddims, and trap production aesthetics absorbed from global hip hop. Production values were deliberately lo-fi, often created by young producers working with pirated software on consumer-grade computers. This roughness was not a bug but a feature: it signaled authenticity, street credibility, proximity to the estate experiences the music documented. Polished production would have felt like gentrification.
 
-Lyrically, gengetone pushed boundaries that made even genge look tame. Sexual content was explicit, often graphic. Drug references were casual. Violence appeared as both threat and documentation of street realities. The controversy was instant and intense. Radio stations banned gengetone tracks. The Kenya Film Classification Board threatened censorship. Politicians condemned the music as corrupting youth. Religious leaders called for it to be outlawed. The [[Presidencies/William Ruto Presidency|William Ruto presidency]] would later attempt various regulatory approaches to control or sanitize gengetone's content.
+Lyrically, gengetone pushed boundaries that made even genge look tame. Sexual content was explicit, often graphic. Drug references were casual. Violence appeared as both threat and documentation of street realities. The controversy was instant and intense. Radio stations banned gengetone tracks. The Kenya Film Classification Board threatened censorship. Politicians condemned the music as corrupting youth. Religious leaders called for it to be outlawed. The [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto presidency]] would later attempt various regulatory approaches to control or sanitize gengetone's content.
 
 But the moral panic missed what made gengetone culturally significant. The genre provided unprecedented documentation of [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] and their complex social worlds. Songs dealt with police brutality, economic hustle, the informal economy that employed millions of young Kenyans shut out of formal employment. The explicit content existed alongside sharp social commentary about class, corruption, and the failures of political leadership that had left entire generations without viable economic futures.
 
@@ -28,7 +28,7 @@ By the mid-2020s, gengetone's commercial peak had passed, but its influence rema
 - [[Music/YouTube and Kenyan Music|YouTube and Kenyan Music]]
 - [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
 - [[Music/Gengetone and Social Commentary|Gengetone and Social Commentary]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 
 ## Sources
 1. "Kenya: The rise and fall of Gengetone music," The Africa Report, December 29, 2022, https://www.theafricareport.com/270976/kenya-the-rise-and-fall-of-gengetone-music/

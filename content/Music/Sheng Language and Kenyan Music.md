@@ -12,7 +12,7 @@ The relationship between Sheng and [[Music/Gengetone Movement|Gengetone]] in the
 
 Academically, Sheng posed challenges and opportunities. Harvard researchers and linguists recognized it as a significant linguistic phenomenon, a genuine creole developing in real-time that transcended traditional slang categories. It was becoming, in meaningful ways, a language rather than just slang: stable enough that children learned it as a first language in some estates, complex enough to carry sophisticated artistic and social meaning, widespread enough that government communications occasionally incorporated Sheng terms to reach youth audiences.
 
-The political dimensions of Sheng in music were profound. Post-[[Elections/2007 Election|2007 election violence]], musicians used Sheng to process trauma and political critique in ways that might have attracted censorship in standard languages. During the [[Elections/2022 Election|2022 elections]] and subsequent [[Presidencies/William Ruto Presidency|Ruto presidency]], gengetone artists deployed Sheng to comment on political developments, economic struggles, and government failures. The language's coded nature provided some protection: officials who did not speak fluent Sheng could not always understand when they were being criticized or mocked.
+The political dimensions of Sheng in music were profound. Post-[[Elections/2007 Election/2007 Election|2007 election violence]], musicians used Sheng to process trauma and political critique in ways that might have attracted censorship in standard languages. During the [[Elections/2022 Election/2022 Election|2022 elections]] and subsequent [[Presidencies/William Ruto Presidency/William Ruto Presidency|Ruto presidency]], gengetone artists deployed Sheng to comment on political developments, economic struggles, and government failures. The language's coded nature provided some protection: officials who did not speak fluent Sheng could not always understand when they were being criticized or mocked.
 
 Critics argued that Sheng's dominance limited Kenyan music's international reach. Tanzanian musicians, singing in standard Swahili, could access broader East African and diaspora markets more easily than Sheng-heavy Kenyan artists. This tension, between local authenticity and international accessibility, shaped strategic decisions by artists and labels. Groups like [[Music/Sauti Sol|Sauti Sol]] deliberately blended Swahili, English, and selective Sheng to maximize market reach, while gengetone crews doubled down on pure Sheng regardless of accessibility concerns.
 
@@ -27,9 +27,9 @@ Sheng's journey from coded street slang to the dominant language of Kenyan youth
 - [[Music/Gengetone Movement|Gengetone Movement]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Music/Ethic Entertainment|Ethic Entertainment]]
-- [[Elections/2007 Election|2007 Election]]
-- [[Elections/2022 Election|2022 Election]]
-- [[Presidencies/William Ruto Presidency|William Ruto Presidency]]
+- [[Elections/2007 Election/2007 Election|2007 Election]]
+- [[Elections/2022 Election/2022 Election|2022 Election]]
+- [[Presidencies/William Ruto Presidency/William Ruto Presidency|William Ruto Presidency]]
 - [[Music/Social Media and Music Kenya|Social Media and Music Kenya]]
 
 ## Sources

@@ -32,7 +32,7 @@ Contemporary Tharaka take pride in their pastoral heritage and ecological adapta
 
 - [[Tharaka]] - Geographic and identity overview
 - [[Tharaka Economy]] - Economic base and challenges
-- [[Tharaka-Nithi County Economy]] - County governance context
+- [[Meru/Tharaka Nithi County Economy]] - County governance context
 - [[Meru and Samburu Conflict]] - Pastoral boundary issues
 - [[Mount Kenya Eastern Slopes]] - Geographic context
 

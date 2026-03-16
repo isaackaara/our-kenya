@@ -8,7 +8,7 @@ Kenya's trajectory differed in crucial ways. While Tanzanian and Ugandan hip hop
 
 The early 2000s represented a critical period when East African hip hop moved from underground imitation to mainstream cultural force. Recording studios like Calif Records in Kenya and similar operations in Tanzania and Uganda provided infrastructure that allowed artists to produce professional-quality work without traveling to Europe or South Africa. The rivalry between kapuka and genge in Kenya, the rise of Bongo Flava artists like Professor Jay and Mr. II in Tanzania, and the commercialization of Ugandan hip hop all occurred simultaneously, creating a regional ecosystem where ideas, styles, and artists circulated freely across borders.
 
-What distinguished East African hip hop from both its American source material and from West African developments (particularly Nigerian hip hop) was its linguistic nationalism and its grounding in local urban realities rather than aspirational wealth. East African rappers centered everyday struggles, matatu culture, estate politics, and social commentary over the flashy materialism that characterized much American hip hop. The music became a vehicle for youth political consciousness, particularly in Kenya where the [[Elections/2007 Election|2007 post-election violence]] and subsequent political developments were extensively documented in hip hop lyrics.
+What distinguished East African hip hop from both its American source material and from West African developments (particularly Nigerian hip hop) was its linguistic nationalism and its grounding in local urban realities rather than aspirational wealth. East African rappers centered everyday struggles, matatu culture, estate politics, and social commentary over the flashy materialism that characterized much American hip hop. The music became a vehicle for youth political consciousness, particularly in Kenya where the [[Elections/2007 Election/2007 Election|2007 post-election violence]] and subsequent political developments were extensively documented in hip hop lyrics.
 
 The relationship between these three national scenes remained complex. While Swahili provided a common linguistic foundation that allowed Tanzanian music to circulate easily in Kenya and Uganda, Kenya's Sheng-based genge was less accessible outside Nairobi's cultural orbit. Yet the cross-pollination was constant: Kenyan artists collaborated with Tanzanian producers, Ugandan rappers adopted production styles from Kenya, and festival circuits created spaces where audiences experienced the full regional diversity of East African hip hop.
 
@@ -21,7 +21,7 @@ By the late 2010s, East African hip hop had fully matured into multiple distinct
 - [[Music/Jua Cali|Jua Cali]]
 - [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Music/Gengetone Movement|Gengetone Movement]]
-- [[Elections/2007 Election|2007 Election]]
+- [[Elections/2007 Election/2007 Election|2007 Election]]
 - [[Music/Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 
 ## Sources

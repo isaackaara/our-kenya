@@ -28,7 +28,7 @@ Some women explicitly challenged gendered restrictions through musical performan
 
 Recording opportunities at [[Music/Equator Sound Recording Studio|studios like Equator Sound]] were limited for women but not non-existent. Women who did record typically did so as part of ensembles rather than as solo artists. The studio environment, male-dominated and sometimes hostile, required women to demonstrate exceptional skill and determination.
 
-By independence in 1963, women's participation in Kenyan music remained constrained but had expanded from earlier decades. More women performed publicly, more genres accepted women performers, and the stigma, while still significant, had diminished slightly. The [[Presidencies/Jomo Kenyatta Presidency|post-independence period]] would see continued gradual expansion of women's musical roles.
+By independence in 1963, women's participation in Kenyan music remained constrained but had expanded from earlier decades. More women performed publicly, more genres accepted women performers, and the stigma, while still significant, had diminished slightly. The [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency|post-independence period]] would see continued gradual expansion of women's musical roles.
 
 The legacy of colonial-era women performers is often obscured. Fewer women than men were recorded, written about, or remembered. Recovering their stories requires reading between the lines of male-centered narratives, finding traces in archives, and recognizing that absence from historical records often reflects bias rather than actual absence from musical life.
 
@@ -42,7 +42,7 @@ Women performers in colonial Kenya demonstrated resilience, creativity, and cour
 - [[Music/Mau Mau Songs and the Forest]]
 - [[Music/Music and Colonial Labour]]
 - [[Music/Equator Sound Recording Studio]]
-- [[Presidencies/Jomo Kenyatta Presidency]]
+- [[Presidencies/Jomo Kenyatta Presidency/Jomo Kenyatta Presidency]]
 
 ## Sources
 1. White, Luise. "The Comforts of Home: Prostitution in Colonial Nairobi." University of Chicago Press, 1990. https://press.uchicago.edu/ucp/books/book/chicago/C/bo3684794.html

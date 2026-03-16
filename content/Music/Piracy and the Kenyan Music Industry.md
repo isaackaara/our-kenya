@@ -31,7 +31,7 @@ The piracy era's legacy persists. By normalizing free music access, cassette pir
 - [[Music/Kenyan Rumba Peak 1980s]]
 - [[Music/FM Radio Revolution Kenya 1990s]]
 - [[Music/Music Award Shows Kenya]]
-- [[Presidencies/Daniel arap Moi Presidency]]
+- [[Presidencies/Daniel arap Moi Presidency/Daniel arap Moi Presidency]]
 
 ## Sources
 1. Africa Center. "Why Does Kenya's Music Industry Struggle? And How to Fix It." https://theafricacenter.org/news/detail/Why-Does-Kenyas-Music-Industry-Struggle-and-How-to-Fix-It
