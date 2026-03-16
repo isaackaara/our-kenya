@@ -15,7 +15,8 @@
       ".ok-arc-bar { flex: 1; height: 4px; background: var(--lightgray); border-radius: 2px; overflow: hidden; }",
       ".ok-arc-fill { height: 100%; border-radius: 2px; transition: width 0.3s ease; }",
       ".ok-arc-emotion { background: linear-gradient(to right, #c2603a, #8b1a1a); }",
-      ".ok-arc-wonder { background: linear-gradient(to right, #3a5a7a, #5a2a7a); }"
+      ".ok-arc-wonder { background: linear-gradient(to right, #3a5a7a, #5a2a7a); }",
+      ".ok-arc-hint { font-size: 9px; color: var(--gray); margin-top: 4px; line-height: 1.4; font-style: italic; }"
     ].join("\n");
     document.head.appendChild(style);
   }
@@ -47,7 +48,8 @@
         '<div class="ok-arc-row">',
         '  <span class="ok-arc-label">Wonder</span>',
         '  <div class="ok-arc-bar"><div class="ok-arc-fill ok-arc-wonder" style="width:' + wonderPct + '%"></div></div>',
-        '</div>'
+        '</div>',
+        '<div class="ok-arc-hint">Feel = emotional intensity. Wonder = how much this rewrites what you thought you knew.</div>'
       ].join("");
 
       var desc = card.querySelector(".trail-card-description");

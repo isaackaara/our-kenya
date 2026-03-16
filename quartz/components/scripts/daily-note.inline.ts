@@ -47,6 +47,13 @@
       "  display: flex;",
       "  flex-direction: column;",
       "  gap: 4px;",
+      "}",
+      "#ok-daily-note .ok-dn-hint {",
+      "  font-size: 0.75rem;",
+      "  color: var(--gray);",
+      "  margin-top: 6px;",
+      "  font-style: italic;",
+      "  line-height: 1.4;",
       "}"
     ].join("\n");
     document.head.appendChild(style);
@@ -109,10 +116,15 @@
     var excerpt = document.createElement("div");
     excerpt.className = "ok-dn-excerpt";
 
+    var hint = document.createElement("div");
+    hint.className = "ok-dn-hint";
+    hint.textContent = "Feel = emotional intensity. Wonder = how much this rewrites what you thought you knew.";
+
     wrap.appendChild(label);
     wrap.appendChild(link);
     wrap.appendChild(excerpt);
     wrap.appendChild(scoreRow);
+    wrap.appendChild(hint);
 
     // Fetch excerpt from the note page
     fetch(url)
