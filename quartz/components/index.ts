@@ -36,6 +36,7 @@ import SurpriseMe from "./SurpriseMe"
 import TrailScores from "./TrailScores"
 import TrailMoodFilter from "./TrailMoodFilter"
 import DailyNote from "./DailyNote"
+import ExploreTree from "./ExploreTree"
 
 export {
   ArticleTitle,
@@ -77,4 +78,5 @@ export {
   TrailScores,
   TrailMoodFilter,
   DailyNote,
+  ExploreTree,
 }

@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.ExploreTree(),
     Component.FloatingContribute(),
     Component.KnowledgeGraphs(),
     Component.DailyThemeGrid(),

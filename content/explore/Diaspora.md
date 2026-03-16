@@ -2,32 +2,10 @@
 title: Explore Diaspora
 ---
 
-# ✈️ Explore Diaspora
+# Explore Diaspora
 
-Kenyan communities worldwide and transnational connections.
+Kenyans abroad - who left, why they left, and what they carried.
 
-## Network Overview
-
-From early migration to modern diaspora communities, Kenyans across the globe.
-
-## Key Topics
-
-### Diaspora Communities
-- [[Diaspora/Kenyans UK|Kenyans in UK]]
-- [[Diaspora/Kenyans USA|Kenyans in USA]]
-- [[Diaspora/Kenyans Canada|Kenyans in Canada]]
-- [[Diaspora/Kenyans Middle East|Kenyans in Middle East]]
-
-### Migration
-- [[Diaspora/Labor Migration|Labor Migration]]
-- [[Diaspora/Student Migration|Student Migration]]
-- [[Diaspora/Refugee Diaspora|Refugee Communities]]
-
-### Diaspora Impact
-- [[Diaspora/Remittances Kenya|Remittances]]
-- [[Diaspora/Diaspora Investment|Diaspora Investment]]
-- [[Diaspora/Diaspora Politics|Diaspora Politics]]
-
----
+<div class="ok-explore-tree" data-root="Diaspora"></div>
 
 [← Back to Explore Hub](/Explore)

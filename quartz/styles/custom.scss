@@ -361,3 +361,63 @@ body:has(article.homepage) .content-meta {
 [saved-theme="dark"] .preview-container * {
   color: var(--dark) !important;
 }
+
+/* Explore tree */
+.ok-tree {
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.ok-tree-note {
+  display: block;
+  padding: 0.3rem 0.5rem;
+  color: var(--dark);
+  text-decoration: none;
+  border-radius: 4px;
+
+  &:hover {
+    background: var(--lightgray);
+  }
+}
+
+.ok-tree-folder {
+  margin: 0.25rem 0;
+
+  summary.ok-tree-folder-name {
+    cursor: pointer;
+    padding: 0.4rem 0.5rem;
+    font-weight: 600;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 4px;
+
+    &:hover {
+      background: var(--lightgray);
+    }
+
+    &::before {
+      content: "▶";
+      margin-right: 0.5rem;
+      font-size: 0.7rem;
+      transition: transform 0.2s;
+    }
+  }
+
+  &[open] > summary.ok-tree-folder-name::before {
+    transform: rotate(90deg);
+  }
+
+  .ok-tree-count {
+    font-size: 0.75rem;
+    opacity: 0.5;
+    font-weight: 400;
+  }
+
+  .ok-tree-children {
+    padding-left: 1rem;
+    border-left: 2px solid var(--lightgray);
+    margin-left: 0.5rem;
+  }
+}
