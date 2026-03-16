@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.FloatingContribute(),
     Component.RailaGraph(),
     Component.DailyThemeGrid(),
     Component.ConditionalRender({

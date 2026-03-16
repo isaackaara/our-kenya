@@ -48,6 +48,27 @@ const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps)
           setTimeout(function() {
             var input = document.querySelector('#pagefind-search input');
             if (input) input.focus();
+            var searchEl = document.getElementById('pagefind-search');
+            if (searchEl) {
+              var emptyObserver = new MutationObserver(function() {
+                var existing = searchEl.querySelector('.ok-search-empty');
+                var message = searchEl.querySelector('.pagefind-ui__message');
+                var results = searchEl.querySelectorAll('.pagefind-ui__result');
+                var searchInput = searchEl.querySelector('input');
+                var hasQuery = searchInput && searchInput.value.trim() !== '';
+                if (message && results.length === 0 && hasQuery) {
+                  if (!existing) {
+                    var div = document.createElement('div');
+                    div.className = 'ok-search-empty';
+                    div.innerHTML = '<p>We don\'t have anything on this yet.</p><p>ourkenya.com is a living archive. If this story matters, help us tell it.</p><a href="/contribute" class="ok-btn ok-btn-primary">Suggest this topic \u2192</a>';
+                    searchEl.appendChild(div);
+                  }
+                } else {
+                  if (existing) existing.remove();
+                }
+              });
+              emptyObserver.observe(searchEl, { childList: true, subtree: true });
+            }
           }, 100);
         };
         document.head.appendChild(script);

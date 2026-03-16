@@ -1,17 +1,17 @@
 ---
 title: Our Kenya
-description: History written by Kenyans, for everyone. 6,547 notes, 131 trails, and 56,000 connections across Kenya's history.
+description: Kenya's history, written together. 6,547 notes, 131 trails, and 56,000 connections across Kenya's history.
 cssclasses:
   - homepage
 ---
 
 <div class="ok-hero">
-<p class="ok-tagline">History written by Kenyans, for everyone.</p>
-<p class="ok-intro">6,547 notes. 56,000 connections. 131 trails through Kenya's history. One knowledge graph.</p>
+<p class="ok-tagline">Kenya's history, written together.</p>
+<p class="ok-intro">6,547 notes. 56,000 connections. 131 trails through Kenya's history. One knowledge graph. This archive is incomplete. Every story missing is an invitation.</p>
 <div class="ok-cta-row">
-<a href="Kenya" class="ok-cta-primary">Start exploring</a>
-<a href="STORY-TRAILS" class="ok-cta-secondary">Browse Story Trails</a>
-<a href="contribute" class="ok-cta-outline">Suggest a topic</a>
+<a href="contribute" class="ok-cta-primary">Help write the rest</a>
+<a href="Kenya" class="ok-cta-secondary">Start exploring</a>
+<a href="STORY-TRAILS" class="ok-cta-outline">Browse Story Trails</a>
 </div>
 </div>
 
@@ -92,6 +92,6 @@ There is no right place to begin. There is no wrong turn.
 
 ## Contribute
 
-This vault grows through research and community suggestions. If you know a story Kenya should tell, we want to hear it.
+This archive is 6,547 notes deep. But Kenya's story is deeper. There are communities not yet represented. Elections not yet documented. People who shaped this country and left no trace in the official record. If you know a story that isn't here, it belongs here.
 
-<a href="contribute" class="ok-section-cta">Suggest a topic</a>
+<a href="contribute" class="ok-section-cta">Help write the rest</a>

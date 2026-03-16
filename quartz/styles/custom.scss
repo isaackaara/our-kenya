@@ -230,6 +230,92 @@ body:has(article.homepage) .content-meta {
 }
 
 // ============================================================
+// Search empty state - contribute prompt
+// ============================================================
+
+.ok-search-empty {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  margin-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+
+  p {
+    color: var(--darkgray);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0 0 0.5rem;
+
+    &:last-of-type {
+      margin-bottom: 1.25rem;
+    }
+  }
+
+  .ok-btn {
+    display: inline-block;
+    padding: 0.55rem 1.3rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  .ok-btn-primary {
+    background: var(--dark);
+    color: var(--light);
+    border: 1.5px solid var(--dark);
+
+    &:hover {
+      background: transparent;
+      color: var(--dark);
+      text-decoration: none;
+    }
+  }
+}
+
+// ============================================================
+// Floating contribute button
+// ============================================================
+
+.ok-float-contribute {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 900;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem 0.5rem 0.75rem;
+  background: var(--dark);
+  color: var(--light);
+  border-radius: 99px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  opacity: 0.82;
+  transition: opacity 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    opacity: 1;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+    transform: translateY(-1px);
+    text-decoration: none;
+    color: var(--light);
+  }
+
+  .ok-float-icon {
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 400;
+  }
+
+  .ok-float-label {
+    line-height: 1;
+  }
+}
+
+// ============================================================
 // Mobile adjustments
 // ============================================================
 
@@ -252,5 +338,10 @@ body:has(article.homepage) .content-meta {
   .ok-cta-outline {
     width: 100%;
     text-align: center;
+  }
+
+  .ok-float-contribute {
+    bottom: 5rem;
+    right: 1rem;
   }
 }
