@@ -84,7 +84,7 @@ Kenya's most consequential opposition figure. Five elections, one handshake, a c
 
 ## How this works
 
-Our Kenya is a knowledge graph. Every note connects to others via wikilinks. The graph view on the right shows those connections in real time.
+Our Kenya is a knowledge graph. Every note connects to others. The graph view on the right shows those connections in real time.
 
 Start anywhere - [[Kenya]], a county, a president, an election. Follow any link. You're in.
 
