@@ -654,11 +654,3 @@ document.addEventListener("nav", () => {
     buildKnowledgeGraphs()
   }
 })
-
-// MutationObserver + staggered retries: fires when #ok-knowledge-graphs
-// appears in DOM regardless of Quartz SPA nav/module timing.
-tryInit()
-setTimeout(tryInit, 150)
-setTimeout(tryInit, 500)
-const _kgObserver = new MutationObserver(() => { tryInit() })
-_kgObserver.observe(document.body, { childList: true, subtree: false })
