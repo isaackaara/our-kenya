@@ -31,7 +31,7 @@ Heavy rainfall in the Mount Kenya highlands periodically causes flooding along t
 - [[Embu Climate and Environment]]
 - [[Embu and the Forest]]
 - [[Embu Wildlife]]
-- [[Embu Water Systems]]
+- [[Embu]]
 - [[Embu Tourism]]
 
 ## Sources

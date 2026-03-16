@@ -73,13 +73,13 @@ The Italian POW experience in Kenya represents several historical themes:
 ## See Also
 
 - [[Kenya in WWII]] - Kenya's broader war experience
-- [[Camp 354 Nanyuki]] - POW camp details
-- [[Italian Chapel Nanyuki]] - Cultural legacy
+- [[Nanyuki]] - POW camp details
+- [[Nanyuki]] - Cultural legacy
 - [[Felice Benuzzi]] - POW who climbed Mount Kenya
 - [[Mount Kenya]] - Location of the escape climb
-- [[East Africa Campaign]] - Military operations
+- [[East Africa]] - Military operations
 - [[European Settlement Overview]] - Settler context
-- [[World War II in East Africa]] - Regional war overview
+- [[East Africa]] - Regional war overview
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The Ogiek (also spelled Okiek) are an [[Indigenous Peoples|indigenous forest-dwelling community]] inhabiting Kenya's [[Mau Forest|Mau Complex]] and other forest regions. The Ogiek's relationship with the forest has been sustainable for centuries, though modern [[fortress conservation|conservation policies]] and land appropriation have threatened both the Ogiek and forest integrity.
+The Ogiek (also spelled Okiek) are an [[Indigenous Peoples|indigenous forest-dwelling community]] inhabiting Kenya's [[Mau Forest|Mau Complex]] and other forest regions. The Ogiek's relationship with the forest has been sustainable for centuries, though modern [[Fortress Conservation Critique|conservation policies]] and land appropriation have threatened both the Ogiek and forest integrity.
 
 ## Historical Presence and Land Relations
 

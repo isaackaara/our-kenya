@@ -10,7 +10,7 @@ The Mukogodo Forest's future depends on recognition of Yaaku territorial rights 
 
 ## See Also
 
-[[Yaaku Indigenous Group]] | [[Forest Rights Land]] | [[Mukogodo Forest]] | [[Conservation Kenya]] | [[Indigenous Minorities Kenya]] | [[Language Preservation]] | [[Cultural Survival Strategies]]
+[[Yaaku\ Indigenous\ Group]] | [[Forest\ Rights\ Land]] | [[Mukogodo\ Forest]] | [[Conservation]] | [[Indigenous Minorities Kenya]] | [[Language Preservation]] | [[Cultural\ Survival\ Strategies]]
 
 ## Sources
 

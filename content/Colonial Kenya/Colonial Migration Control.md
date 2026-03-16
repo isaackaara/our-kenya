@@ -19,7 +19,7 @@ By the 1950s, the contradictions between migration control and urbanisation pres
 ## See Also
 [[Colonial Pass Laws]]
 [[Colonial Curfews]]
-[[Urban Labour]]
+[[Labour]]
 [[Colonial Identification Systems]]
 [[Forced Labour and Colonialism]]
 [[Colonial Control]]

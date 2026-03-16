@@ -13,10 +13,10 @@ The election victory gave Mboya a cabinet position as Minister of Labor and was 
 - [[Tom Mboya]]
 - [[1963 Election KANU]]
 - [[1963 Election Results]]
-- [[Kenya Labor Movement]]
+- [[Kenya]]
 - [[Trade Unions and Politics Kenya]]
 - [[American Influence Kenya]]
-- [[Luo Political Leadership]]
+- [[Luo]]
 
 ## Sources
 

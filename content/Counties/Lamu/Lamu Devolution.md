@@ -32,7 +32,7 @@ Devolution has not dramatically transformed Lamu's development trajectory. The c
 - [[Lamu Infrastructure|Lamu Infrastructure]]
 - [[Lamu Education|Lamu Education]]
 - [[Lamu Health|Lamu Health]]
-- [[Lamu Budget and Governance|Lamu Budget and Governance]]
+- [[Lamu|Lamu Budget and Governance]]
 
 ## Sources
 

@@ -4,9 +4,9 @@ The 1983 election established patterns that would characterize Moi's authoritari
 - [[1983 Election]]
 - [[1988 Election]]
 - [[Daniel arap Moi]]
-- [[Kenya Authoritarianism]]
-- [[Kenya Political System 1978-1991]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

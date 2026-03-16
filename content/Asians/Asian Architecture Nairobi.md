@@ -38,7 +38,7 @@ Remaining Asian-built structures (churches, mosques, temples, residential buildi
 - [[Jeevanjee Gardens]]
 - [[Asian Real Estate Kenya]]
 - [[Asian Commercial Districts Colonial]]
-- [[Nairobi history]]
+- [[Nairobi]]
 
 ## Sources
 

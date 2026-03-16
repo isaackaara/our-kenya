@@ -53,11 +53,11 @@ At independence, the CMS transferred formal ownership of many schools and church
 - [[Johann Ludwig Krapf]] - CMS missionary and Mount Kenya discoverer
 - [[Church of Scotland Mission]] - Rival Protestant mission organization
 - [[Missionaries and Evangelism in Kenya]] - Broader mission context
-- [[Education in Colonial Kenya]] - Mission schools' role
+- [[Education]] - Mission schools' role
 - [[European Settlement Overview]] - Context of European presence
 - [[Colonial Administration]] - Relationship between missions and colonial rule
 - [[Female Circumcision Controversy]] - Major conflict with Kikuyu culture
-- [[Kikuyu Christianity]] - Effects on Kikuyu communities Schools became government schools or were incorporated into independent church structures. The CMS's monopoly on mission education ended as other organizations expanded, and as the post-independence Kenyan state took over education provision.
+- [[Kikuyu]] - Effects on Kikuyu communities Schools became government schools or were incorporated into independent church structures. The CMS's monopoly on mission education ended as other organizations expanded, and as the post-independence Kenyan state took over education provision.
 
 The CMS institutional presence in Kenya declined after independence as missionaries left or reduced their roles. However, the churches and schools CMS established remained significant. Many contemporary Kenya churches trace their origins to CMS missions, and the educational systems CMS pioneered became templates for post-independence schooling.
 

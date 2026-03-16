@@ -17,7 +17,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 ## See Also
 
 - [[Kenya Economic Overview]]
-- [[Kenya Trade Policy]]
+- [[Kenya]]
 - [[China-Kenya Relations]]
 - [[Kenya Shilling History]]
 - [[Trade Deficit Kenya]]

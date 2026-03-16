@@ -35,7 +35,7 @@ See also: [[Narok County|Narok County]], [[Narok Youth|Narok Youth]], [[Narok De
 
 ## See Also
 
-- [[Narok Maasai|Narok Maasai]]
+- [[Maasai|Narok Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]

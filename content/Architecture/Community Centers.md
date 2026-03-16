@@ -13,10 +13,10 @@ Contemporary community center challenges include maintenance funding, operationa
 ## See Also
 
 [[Social Infrastructure]]
-[[Community Organization]]
+[[Refugee Community Organization]]
 [[Urban Planning Development]]
 [[Informal Settlements]]
-[[Education Infrastructure]]
+[[Education]]
 [[Disaster Resilience]]
 [[Cultural Heritage]]
 

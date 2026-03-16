@@ -70,7 +70,7 @@ The war had major consequences:
 
 The war affected the broader [[East African Community]]:
 
-**Kenya's Position**: Kenya, though not directly involved, was affected by Uganda's instability and refugee flows. Kenya remained wary of regional conflict and [[Kenya Uganda Border]] security.
+**Kenya's Position**: Kenya, though not directly involved, was affected by Uganda's instability and refugee flows. Kenya remained wary of regional conflict and [[Kenya]] security.
 
 **OAU Involvement**: The Organization of African Unity (OAU) condemned the invasion but was unable to effectively intervene.
 
@@ -99,11 +99,11 @@ The [[Uganda Tanzania War]] remains significant:
 ## See Also
 
 - [[EAC History]]
-- [[Kenya Uganda Border]]
-- [[Kenya Tanzania Border]]
+- [[Kenya]]
+- [[Kenya]]
 - [[EAC Political Federation]]
-- [[East African Droughts]]
-- [[Somalia Collapse]]
+- [[East Africa]]
+- [[Somalia]]
 - [[East Africa Timeline]]
 
 ## Sources

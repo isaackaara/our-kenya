@@ -17,8 +17,8 @@ However, sports is not entirely post-ethnic. Some sports have ethnic association
 - [[Gor Mahia vs AFC Leopards]]
 - [[Football as Nation-Building]]
 - [[The Running Phenomenon]]
-- [[Kenyan Athletics and National Pride]]
-- [[Sports Violence and Ethnicity]]
+- [[Kenya]]
+- [[Sports]]
 - [[Team Sports and Social Integration]]
 
 ## Sources

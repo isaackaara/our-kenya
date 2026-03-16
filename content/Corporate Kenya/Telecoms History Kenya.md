@@ -58,11 +58,11 @@ Kenya's telecoms sector is mature by emerging market standards. Growth rates hav
 
 ## See Also
 
-- [[Safaricom History]]
+- [[Safaricom]]
 - [[M-Pesa Economic Impact]]
 - [[Mobile Banking Kenya]]
 - [[Internet Kenya]]
-- [[Technology Innovation Kenya]]
+- [[Technology]]
 - [[Kenya Economic Overview]]
 - [[Silicon Savannah]]
 

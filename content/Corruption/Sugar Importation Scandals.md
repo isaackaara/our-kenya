@@ -29,7 +29,7 @@ Domestic sugar producers, including the Kenya Sugar Board, have seen profits dec
 - [[Political Patronage Networks]] - how importers gain protection
 - [[Illicit Financial Flows Kenya]] - revenue loss patterns
 - [[Mombasa Port Corruption]] - port-level mechanisms
-- [[Trade Policy and Corruption]] - tariff structure vulnerabilities
+- [[Corruption]] - tariff structure vulnerabilities
 - [[Transparency International Kenya]] - monitoring and reporting
 
 ## Sources

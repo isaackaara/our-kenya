@@ -18,9 +18,9 @@ Kenyatta's campaign strategy involved using state resources to support friendly 
 - [[Jomo Kenyatta]]
 - [[Harambee]]
 - [[1974 Election KANU Primary]]
-- [[Kenya Economy 1970s]]
+- [[Kenya]]
 - [[1974 Election Development Agenda]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

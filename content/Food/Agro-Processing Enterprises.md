@@ -6,7 +6,7 @@ Small-scale grain milling emerged early as processing activity. Farmers transpor
 
 Dairy processing expanded significantly from the 1980s onward. Small-scale milk collection points, often operated by [[Farmer Cooperatives]], collected milk from numerous small dairy farmers, bulking production for sale to processors. Dairy processors operated butter, cheese, and powdered milk production facilities. However, scale and capital requirements meant dairy processing remained concentrated among larger commercial operations rather than smallholder enterprises.
 
-[[Horticulture Sector]] produce processing focused on adding value through drying, preserving, or specialty products. Dried fruits, vegetable powders, and processed juices commanded higher prices than fresh products while extending sales seasons. However, processing required capital investment, food safety standards compliance, and market knowledge that constrained smallholder participation. Processing enterprises remained largely concentrated in commercial agriculture sectors.
+[[Horticultural Sector]] produce processing focused on adding value through drying, preserving, or specialty products. Dried fruits, vegetable powders, and processed juices commanded higher prices than fresh products while extending sales seasons. However, processing required capital investment, food safety standards compliance, and market knowledge that constrained smallholder participation. Processing enterprises remained largely concentrated in commercial agriculture sectors.
 
 Oil extraction and pressing became processing activity for oilseeds and coconuts. Small-scale oil pressing for household use existed traditionally, but commercial-scale pressing required equipment investment. Extraction efficiency improved substantially with improved technology, but this required capital access that limited processing to larger enterprises.
 
@@ -18,7 +18,7 @@ Environmental consequences of agro-processing sometimes went unmanaged. Sugarcan
 
 ## See Also
 [[Sugar Refining]]
-[[Horticulture Sector]]
+[[Horticultural Sector]]
 [[Food Processing Industry]]
 [[Farmer Cooperatives]]
 [[Food Safety Standards]]

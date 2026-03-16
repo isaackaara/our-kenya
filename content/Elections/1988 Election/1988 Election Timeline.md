@@ -18,10 +18,10 @@
 
 ## See Also
 - [[1988 Election]]
-- [[Mlolongo System]]
+- [[1988 Election Mlolongo System]]
 - [[Daniel arap Moi]]
-- [[Saba Saba]]
-- [[Kenya Democracy Movement]]
+- [[Saba Saba 1990]]
+- [[Kenya]]
 - [[KANU Party]]
 
 ## Sources

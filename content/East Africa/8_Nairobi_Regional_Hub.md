@@ -2,13 +2,13 @@
 title: Nairobi Regional Hub
 ---
 
-[[Nairobi Regional Hub]]'s emergence as East Africa's primary hub for international organizations, finance, and professional services has made it the de facto capital of the [[East African Community]], wielding influence far beyond Kenya's borders.
+[[Nairobi]]'s emergence as East Africa's primary hub for international organizations, finance, and professional services has made it the de facto capital of the [[East African Community]], wielding influence far beyond Kenya's borders.
 
 ## International Organizations
 
 Nairobi hosts the headquarters or major regional offices of numerous UN agencies and international organizations:
 
-**UN Environment Programme (UNEP)**: Established in [[Nairobi Regional Hub]] in 1972, UNEP is the UN body responsible for environmental coordination globally. Its presence makes Nairobi a center for global environmental policy discussions.
+**UN Environment Programme (UNEP)**: Established in [[Nairobi]] in 1972, UNEP is the UN body responsible for environmental coordination globally. Its presence makes Nairobi a center for global environmental policy discussions.
 
 **UN-Habitat**: The UN agency for human settlements and sustainable urban development is headquartered in Nairobi, reflecting the organization's focus on rapid urbanization in the Global South.
 
@@ -28,7 +28,7 @@ The Adani Group's controversial 2024 concession to operate [[JKIA Airport]] spar
 
 Nairobi is East Africa's premier financial center:
 
-**Banking Sector**: Kenya's major banks have established themselves as regional lenders. Kenyan banks provide financing for major regional infrastructure projects and dominate cross-border lending. The banking sector reaches across [[Kenya Uganda Border]], Tanzania, Rwanda, and Burundi.
+**Banking Sector**: Kenya's major banks have established themselves as regional lenders. Kenyan banks provide financing for major regional infrastructure projects and dominate cross-border lending. The banking sector reaches across [[Kenya]], Tanzania, Rwanda, and Burundi.
 
 **Nairobi Securities Exchange**: The NSE is the region's largest and most liquid capital market. East African companies list on NSE seeking capital. Regional investors trade NSE-listed shares. The exchange defines regional financial standards and pricing.
 
@@ -74,12 +74,12 @@ Nairobi's security challenges (terrorism, crime) occasionally disrupt regional o
 
 ## See Also
 
-- [[Kenya in East Africa]]
+- [[Kenya]]
 - [[JKIA Airport]]
-- [[East African Internet Hub]]
+- [[East Africa]]
 - [[EAC Common Market]]
-- [[Kenya Tanzania Border]]
-- [[Chinese Investment]]
+- [[Kenya]]
+- [[Chinese Investment and Corruption]]
 
 ## Sources
 

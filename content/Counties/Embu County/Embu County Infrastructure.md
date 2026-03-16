@@ -22,10 +22,10 @@ Manufacturing and agro-processing infrastructure remains limited in Embu, with f
 
 - [[Embu County Devolution]]
 - [[Embu County Agriculture]]
-- [[Embu County Water]]
+- [[Embu County]]
 - [[Embu Town]]
 - [[Embu County Climate Change]]
-- [[Embu County Markets]]
+- [[Embu County]]
 - [[Embu County Youth]]
 
 ## Sources

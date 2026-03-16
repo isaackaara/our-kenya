@@ -21,11 +21,11 @@ Sanitation and water supply remain incomplete, with consequences for public heal
 ## See Also
 - [[Taita-Taveta County]]
 - [[Public Health Kenya]]
-- [[Maternal Health]]
-- [[Child Health]]
-- [[Water and Sanitation]]
+- [[Health]]
+- [[Child Health Pediatric Care]]
+- [[Ruto Water and Sanitation Access]]
 - [[Disease Prevention]]
-- [[Health Services]]
+- [[Health]]
 
 ## Sources
 1. Ministry of Health. "County Health Profiles." (2022). https://www.health.go.ke

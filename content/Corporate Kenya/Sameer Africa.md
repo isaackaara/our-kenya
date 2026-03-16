@@ -2,12 +2,12 @@ Sameer Africa is a diversified [[conglomerate Kenya|conglomerate]] operating in 
 
 ## Overview
 
-Sameer is owned by the [[Sameer Group]], a [[Kenya-based enterprise|Kenya-based enterprise]]. The group operates across East Africa and has [[export Kenya|export]] operations in the [[Middle East]] and [[Africa]].
+Sameer is owned by the [[Sameer Group Kenya]], a [[Kenya|Kenya-based enterprise]]. The group operates across East Africa and has [[export Kenya|export]] operations in the [[Middle East]] and [[Africa]].
 
 ## Key Points
 
-- Founded post-independence as local [[assembly Kenya|assembly]] operation
-- Major employer in [[manufacturing Kenya|manufacturing]]
+- Founded post-independence as local [[Motor Vehicle Assembly Kenya|assembly]] operation
+- Major employer in [[Hardware Manufacturing Kenya|manufacturing]]
 - Faces [[import competition Kenya|import competition]] from cheap imports
 - Diversified into [[chemical production Kenya|chemical production]]
 
@@ -18,7 +18,7 @@ Automotive assembly in Kenya faces structural challenges without protective tari
 ## See Also
 
 - [[Motor Vehicle Assembly Kenya]]
-- [[Manufacturing Kenya]]
+- [[Hardware Manufacturing Kenya]]
 - [[Automotive Industry Kenya]]
 - [[Business Groups Kenya]]
 - [[Industrial Competitiveness Kenya]]

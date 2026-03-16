@@ -22,8 +22,8 @@ The campaign's conclusion saw Kibaki positioned for an overwhelming victory. Pol
 - [[Mwai Kibaki]]
 - [[National Rainbow Coalition (NARC)]]
 - [[2002 Election Results]]
-- [[KANU collapse]]
-- [[Kenya's transition from Moi]]
+- [[2002 Election KANU Collapse]]
+- [[Kenya]]
 
 ## Sources
 

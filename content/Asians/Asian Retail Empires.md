@@ -58,7 +58,7 @@ Asian retail enterprises faced periodic challenges from Kenya's economic cycles.
 - [[Nakumatt]]
 - [[Asian Commercial Districts Colonial]]
 - [[Asian Kenyans Today]]
-- [[Kenyan retail sector]]
+- [[Kenya]]
 
 ## Sources
 

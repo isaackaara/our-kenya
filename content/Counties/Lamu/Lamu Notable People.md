@@ -34,7 +34,7 @@ Though Lamu has produced many individuals of local and regional significance, ve
 - [[Lamu Cultural Heritage|Lamu Cultural Heritage]]
 - [[Lamu Politics|Lamu Politics]]
 - [[Lamu Islam|Lamu Islam]]
-- [[Lamu History|Lamu History]]
+- [[Lamu|Lamu History]]
 - [[Bajuni People|Bajuni People]]
 - [[Lamu Youth|Lamu Youth]]
 

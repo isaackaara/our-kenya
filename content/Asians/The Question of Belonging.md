@@ -1,8 +1,8 @@
-The fundamental question facing Asians in Kenya is whether they truly [[belong]]. Are they [[Kenyans]] or perpetual foreigners? Are they rooted in Kenya or merely residing there temporarily? This question has haunted the community since the beginning and remains unresolved.
+The fundamental question facing Asians in Kenya is whether they truly [[The Question of Belonging]]. Are they [[Kenya]] or perpetual foreigners? Are they rooted in Kenya or merely residing there temporarily? This question has haunted the community since the beginning and remains unresolved.
 
 ## The "Nowhere People" Dilemma
 
-Asians are [[Kenyan citizens]] with legal rights, yet are often treated as foreign and non-indigenous. They are too successful economically to be pitied as underprivileged minorities; yet too foreign and visibly different to be accepted as authentic Africans. They occupy an uncomfortable middle position: needed but not wanted, present but not fully belonging.
+Asians are [[Kenya]] with legal rights, yet are often treated as foreign and non-indigenous. They are too successful economically to be pitied as underprivileged minorities; yet too foreign and visibly different to be accepted as authentic Africans. They occupy an uncomfortable middle position: needed but not wanted, present but not fully belonging.
 
 ## Lack of Geographic Homeland
 

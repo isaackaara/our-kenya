@@ -2,7 +2,7 @@ The 1992 Kenya election was directly precipitated by donor pressure for multipar
 
 Kenya's economic dependence on external finance made donor leverage particularly effective. The government relied on World Bank structural adjustment programs, IMF financing, and bilateral development assistance from Western countries. Donors coordinated to enforce conditionality, making clear that aid would be suspended if the government did not permit multiparty elections and political competition.
 
-The donor pressure intensified in 1990 and 1991 as the [[Saba Saba]] riots demonstrated internal pressure for reform and as donor countries concluded that political liberalization was necessary for sustainable development and political stability. The donors explicitly connected aid to democracy, making political reform a condition of economic financing.
+The donor pressure intensified in 1990 and 1991 as the [[Saba Saba 1990]] riots demonstrated internal pressure for reform and as donor countries concluded that political liberalization was necessary for sustainable development and political stability. The donors explicitly connected aid to democracy, making political reform a condition of economic financing.
 
 However, donor leverage had clear limits. Once the donors had extracted the concession of multiparty elections from the government, they had little capacity to ensure that those elections would actually be conducted fairly or that opposition parties would be permitted to operate freely. The government deployed state power and security forces to advantage KANU, and donors did not withdraw aid in response to electoral irregularities and state-sponsored violence.
 
@@ -18,7 +18,7 @@ The donor-imposed election thus created the appearance of democratic opening wit
 - [[Aid and Politics]]
 - [[Economic Leverage]]
 - [[Structural Adjustment Kenya]]
-- [[World Bank IMF]]
+- [[World Bank IMF Kenya Corruption]]
 
 ## Sources
 

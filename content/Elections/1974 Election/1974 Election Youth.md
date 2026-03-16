@@ -17,11 +17,11 @@ Young farmers, particularly those farming coffee and tea in highland areas, had 
 The division between urban and rural youth also mattered. Urban youth were more likely to be educated, more exposed to modern ideas, and more critical of traditional authority. Rural youth were more likely to be engaged in agriculture, more influenced by traditional leaders, and more embedded in ethnic political networks. These differences meant that youth as a category was not politically homogeneous.
 
 ## See Also
-- [[Kenya Politics 1970s]]
+- [[Kenya]]
 - [[1974 Election]]
-- [[University of Nairobi]]
-- [[Youth Unemployment Kenya]]
-- [[Kenya Education System]]
+- [[Nairobi]]
+- [[Youth Unemployment]]
+- [[Kenya]]
 - [[Generational Change Kenya]]
 
 ## Sources

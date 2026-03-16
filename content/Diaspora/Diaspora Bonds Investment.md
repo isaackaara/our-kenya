@@ -10,7 +10,7 @@ Comparative advantage analysis suggests diaspora bonds may be most effective whe
 
 ## See Also
 
-[[Diaspora Investment Flows]]
+[[Diaspora]]
 [[Home Country Investment]]
 [[Diaspora Investment Incentives]]
 [[Remittance Regulation]]

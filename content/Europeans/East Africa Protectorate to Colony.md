@@ -2,7 +2,7 @@ The transition from the East Africa Protectorate (1895-1920) to the Kenya Colony
 
 ## The Protectorate Phase (1895-1920)
 
-The [[East Africa Protectorate]] was established in 1895 following the Imperial British East Africa Company's collapse. The protectorate was administered by the British Foreign Office (unlike colonies, which were administered by the Colonial Office). The protectorate's administration was oriented toward strategic control and trade rather than toward settler settlement.
+The [[East Africa Protectorate to Colony]] was established in 1895 following the Imperial British East Africa Company's collapse. The protectorate was administered by the British Foreign Office (unlike colonies, which were administered by the Colonial Office). The protectorate's administration was oriented toward strategic control and trade rather than toward settler settlement.
 
 During the protectorate period:
 
@@ -95,7 +95,7 @@ The transition from protectorate to colony formalized settler colonial Kenya. It
 - [[Colonial Administration]] - Governance structures
 - [[District Commissioners and Indirect Rule]] - Administrative implementation
 - [[Legislative Council]] - Colonial legislature
-- [[Devonshire Declaration]] - 1923 assertion of African interests
+- [[The 1923 Devonshire Declaration]] - 1923 assertion of African interests
 - [[Lancaster House and Departure]] - End of colonial rule
 - [[European Settlement Overview]] - Settler population timeline However, the colony status also contained contradictions that eventually facilitated decolonization.
 

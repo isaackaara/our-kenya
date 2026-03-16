@@ -24,7 +24,7 @@ Private sector participation in infrastructure development has been limited, wit
 - [[Taita-Taveta County]]
 - [[Roads Kenya]]
 - [[Water Supply Kenya]]
-- [[Energy Kenya]]
+- [[Geothermal Energy Kenya]]
 - [[Telecommunications Kenya]]
 - [[Public Infrastructure]]
 - [[Development Planning]]

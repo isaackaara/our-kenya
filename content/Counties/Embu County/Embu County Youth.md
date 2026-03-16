@@ -26,7 +26,7 @@ Youth sports and cultural activities have provided recreational opportunities an
 
 - [[Embu County Education]]
 - [[Embu County Agriculture]]
-- [[Embu County Employment]]
+- [[Embu County]]
 - [[Embu County Health]]
 - [[Embu County Devolution]]
 - [[Embu County Politics]]

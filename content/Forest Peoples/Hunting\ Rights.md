@@ -10,7 +10,7 @@ Contemporary advocacy for hunting rights emphasizes the sustainability of indige
 
 ## See Also
 
-[[Hunting Traditions]] | [[Wildlife Relationships]] | [[Forest Rights Land]] | [[Waata Pastoralist Hunters]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Conservation Kenya]]
+[[Hunting\ Traditions]] | [[Wildlife\ Relationships]] | [[Forest\ Rights\ Land]] | [[Waata\ Pastoralist\ Hunters]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Conservation]]
 
 ## Sources
 

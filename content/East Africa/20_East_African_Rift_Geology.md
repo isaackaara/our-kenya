@@ -2,7 +2,7 @@
 title: East African Rift Geology
 ---
 
-The [[East African Rift Geology]] is one of the world's most significant geological features, representing an active continental rift where the East African Plate is slowly separating from the rest of the African continent. This ongoing process shapes [[East African Community]] geography, seismicity, and geology.
+The [[East Africa]] is one of the world's most significant geological features, representing an active continental rift where the East African Plate is slowly separating from the rest of the African continent. This ongoing process shapes [[East African Community]] geography, seismicity, and geology.
 
 ## The Rift Mechanism
 
@@ -14,13 +14,13 @@ The rate of separation is slow, roughly 5-7 millimeters per year, but over milli
 
 The active rifting process creates frequent earthquake activity:
 
-**Regular Earthquakes**: The [[East African Rift Geology|rift zone]] experiences regular small to moderate earthquakes as the crust adjusts to tensional stress.
+**Regular Earthquakes**: The [[East Africa|rift zone]] experiences regular small to moderate earthquakes as the crust adjusts to tensional stress.
 
-**Major Earthquakes**: Periodically, major earthquakes (magnitude 6.0 or greater) occur, particularly in the northern portions of the [[East African Rift Geology|rift]] where stress is more concentrated.
+**Major Earthquakes**: Periodically, major earthquakes (magnitude 6.0 or greater) occur, particularly in the northern portions of the [[East Africa|rift]] where stress is more concentrated.
 
 **Tsunami Potential**: Some historical earthquakes have generated tsunamis in [[Great Rift Valley]] lakes, though casualties have generally been limited.
 
-**Geological Hazard**: The seismic activity makes the [[East African Rift Geology|rift zone]] a genuine geological hazard for settlements in the region.
+**Geological Hazard**: The seismic activity makes the [[East Africa|rift zone]] a genuine geological hazard for settlements in the region.
 
 ## Volcanoes
 
@@ -68,16 +68,16 @@ This is a very slow process (millions of years), but it represents the ultimate 
 
 ## Geothermal Energy
 
-The active rifting creates geothermal heat that can be harnessed for electricity generation. Kenya has developed significant [[East African Power]] capacity in the rift zone, representing one of Africa's most successful renewable energy initiatives.
+The active rifting creates geothermal heat that can be harnessed for electricity generation. Kenya has developed significant [[East Africa]] capacity in the rift zone, representing one of Africa's most successful renewable energy initiatives.
 
 ## See Also
 
 - [[Great Rift Valley]]
-- [[East African Power]]
+- [[East Africa]]
 - [[Lake Victoria]]
 - [[Mount Kilimanjaro]]
-- [[East African Droughts]]
-- [[Kenya Tanzania Border]]
+- [[East Africa]]
+- [[Kenya]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -18,11 +18,11 @@ Regional patterns in 1979 were beginning to shift from the Kenyatta-era emphasis
 
 ## See Also
 - [[1979 Election]]
-- [[Kenya Ethnic Politics]]
-- [[Kalenjin Politics Kenya]]
-- [[Kikuyu Politics Kenya]]
+- [[Kenya]]
+- [[Kalenjin]]
+- [[Kikuyu]]
 - [[Daniel arap Moi]]
-- [[Kenya Regional Development]]
+- [[Kenya Re]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya." African Studies Review, 1976.

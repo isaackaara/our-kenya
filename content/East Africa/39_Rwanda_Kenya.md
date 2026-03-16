@@ -97,11 +97,11 @@ Rwanda and Kenya represent different visions for East Africa:
 ## See Also
 
 - [[EAC History]]
-- [[Kenya in East Africa]]
+- [[Kenya]]
 - [[Mombasa Port]]
-- [[Nairobi Regional Hub]]
+- [[Nairobi]]
 - [[EAC Common Market]]
-- [[East African Droughts]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

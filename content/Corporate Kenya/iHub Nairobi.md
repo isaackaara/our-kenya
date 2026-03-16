@@ -48,9 +48,9 @@ iHub remains operational but faces competition and challenges. The physical co-w
 
 - [[Silicon Savannah]]
 - [[Ushahidi]]
-- [[Kenya Startups]]
+- [[Kenya]]
 - [[Tech Entrepreneurship Kenya]]
-- [[Nairobi Innovation]]
+- [[Nairobi]]
 - [[Co-Working Kenya]]
 - [[Ecosystem Development Kenya]]
 

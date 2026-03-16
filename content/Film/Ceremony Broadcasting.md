@@ -8,7 +8,7 @@ National celebration ceremonies including independence day observances and other
 
 The professionalism required for ceremonial broadcasting reflected official event importance. Multiple cameras positioned strategically covered ceremonial action comprehensively. Audio systems captured ceremonial speeches and musical performances clearly. Transition between camera angles maintained viewer attention. Commentary provided context explaining ceremonial significance. These technical elements coordinated to create professional broadcasts reflecting official event importance. The quality of ceremonial broadcasts implicitly communicated national technical capability and institutional professionalism.
 
-See Also: [[Live Television Events]], [[Special Broadcasts]], [[News Broadcasting]], [[Television Studios]], [[Kenya Broadcasting Corporation]], [[Cultural Events]], [[National Celebrations]]
+See Also: [[Live Television Events]], [[Special Broadcasts]], [[News Broadcasting]], [[Television Studios]], [[Kenya Broadcasting Corporation]], [[Cultural Events Diaspora]], [[National Celebrations]]
 
 Sources:
 1. https://www.office-of-the-president-kenya.org/

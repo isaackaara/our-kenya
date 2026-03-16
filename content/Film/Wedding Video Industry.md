@@ -8,7 +8,7 @@ Wedding video production created intersections with music industry, particularly
 
 The distribution of wedding videos evolved from physical media to digital platforms. Couples initially received DVDs or videotapes of edited wedding footage. Digital distribution through cloud services, USB drives, and password-protected websites became standard practices, allowing couples to share wedding videos with distant family and friends. Social media sharing created additional distribution pathways, though couples often requested privacy protections preventing public circulation. The accessibility of digital distribution expanded wedding video's cultural reach, transforming what had been private family documentation into content with broader distribution potential.
 
-See Also: [[Video Production Industry]], [[Film Production Companies]], [[Television Studios]], [[Wedding Culture]], [[Music Industry Kenya]], [[Film Editing]], [[Corporate Video]]
+See Also: [[Video Production Industry]], [[Film Production Companies]], [[Television Studios]], [[Wedding Culture]], [[Music]], [[Film Editing]], [[Corporate Video]]
 
 Sources:
 1. https://www.wedding-videography-association-kenya.org/

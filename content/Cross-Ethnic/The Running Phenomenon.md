@@ -1,4 +1,4 @@
-Since the 1960s, [[Kalenjin]] athletes have won the majority of global long-distance running medals. The explanation offered is usually genetic: Kalenjin runners are naturally gifted. But the deeper explanation is economic, ecological, and historical. Elite running became the dominant path to social mobility for [[Kalenjin youth]] precisely because other paths were blocked.
+Since the 1960s, [[Kalenjin]] athletes have won the majority of global long-distance running medals. The explanation offered is usually genetic: Kalenjin runners are naturally gifted. But the deeper explanation is economic, ecological, and historical. Elite running became the dominant path to social mobility for [[Kalenjin Youth Identity]] precisely because other paths were blocked.
 
 ## Key Facts
 
@@ -44,7 +44,7 @@ This is not to diminish their achievement. The work, discipline, and talent requ
 
 ## See Also
 
-- [[Kalenjin Economic Marginalization]]
+- [[Kalenjin]]
 - [[Sports as Cross-Ethnic Bonding]]
 - [[Regional Economic Inequality Kenya]]
 - [[Athletics and National Identity]]

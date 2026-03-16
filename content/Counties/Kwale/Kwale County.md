@@ -11,47 +11,47 @@ Islam shapes Kwale's cultural landscape more visibly than anywhere else in Kenya
 This vertical documents Kwale's complete character across economy, culture, geography, and history. Navigate using the categories below.
 
 **Geography and Environment**
-- [[Kwale County#Geography|Diani Beach]]
-- [[Kwale County#Geography|Shimba Hills National Reserve]]
-- [[Kwale County#Geography|Kwale Marine]]
-- [[Kwale County#Geography|Kwale Climate]]
+- [[Kwale County|Diani Beach]]
+- [[Kwale County|Shimba Hills National Reserve]]
+- [[Kwale County|Kwale Marine]]
+- [[Kwale County|Kwale Climate]]
 
 **People and Culture**
-- [[Kwale County#People|Digo People]]
-- [[Kwale County#People|Kwale Mijikenda Heritage]]
-- [[Kwale County#People|Kwale Islam]]
-- [[Kwale County#People|Kwale Cultural Heritage]]
-- [[Kwale County#People|Kwale Notable People]]
+- [[Kwale County|Digo People]]
+- [[Kwale County|Kwale Mijikenda Heritage]]
+- [[Kwale County|Kwale Islam]]
+- [[Kwale County|Kwale Cultural Heritage]]
+- [[Kwale County|Kwale Notable People]]
 
 **Economy**
-- [[Kwale County#Economy|Kwale Tourism]]
-- [[Kwale County#Economy|Kwale Agriculture]]
-- [[Kwale County#Economy|Kwale Cashew]]
-- [[Kwale County#Economy|Kwale Coconut Economy]]
-- [[Kwale County#Economy|Kwale Fishing]]
+- [[Kwale County|Kwale Tourism]]
+- [[Kwale County|Kwale Agriculture]]
+- [[Kwale County|Kwale Cashew]]
+- [[Kwale County|Kwale Coconut Economy]]
+- [[Kwale County|Kwale Fishing]]
 
 **Development and Infrastructure**
-- [[Kwale County#Development|Kwale Town]]
-- [[Kwale County#Development|Kwale Infrastructure]]
-- [[Kwale County#Development|Kwale Education]]
-- [[Kwale County#Development|Kwale Health]]
+- [[Kwale County|Kwale Town]]
+- [[Kwale County|Kwale Infrastructure]]
+- [[Kwale County|Kwale Education]]
+- [[Kwale County|Kwale Health]]
 
 **Governance and Society**
-- [[Kwale County#Society|Kwale Politics]]
-- [[Kwale County#Society|Kwale Devolution]]
-- [[Kwale County#Society|Kwale Land]]
-- [[Kwale County#Society|Kwale Youth]]
-- [[Kwale County#Society|Kwale Women]]
+- [[Kwale County|Kwale Politics]]
+- [[Kwale County|Kwale Devolution]]
+- [[Kwale County|Kwale Land]]
+- [[Kwale County|Kwale Youth]]
+- [[Kwale County|Kwale Women]]
 
 **History**
-- [[Kwale County#History|Kwale Colonial History]]
-- [[Kwale County#History|Kwale Sisal]]
+- [[Kwale County|Kwale Colonial History]]
+- [[Kwale County|Kwale Sisal]]
 
 **Challenges and Change**
-- [[Kwale County#Challenges|Kwale Climate Change]]
-- [[Kwale County#Challenges|Kwale Real Estate]]
-- [[Kwale County#Challenges|Kwale NGOs]]
-- [[Kwale County#Challenges|Kwale Timeline]]
+- [[Kwale County|Kwale Climate Change]]
+- [[Kwale County|Kwale Real Estate]]
+- [[Kwale County|Kwale NGOs]]
+- [[Kwale County|Kwale Timeline]]
 
 ## See Also
 

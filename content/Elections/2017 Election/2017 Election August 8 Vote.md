@@ -18,7 +18,7 @@ The August 8 victory margin suggested that Kenyatta had assembled a more durable
 [[2017 Election Supreme Court Nullification]]
 [[2017 Election October Re-run]]
 [[2017 Election IEBC Crisis]]
-[[2017 Election Results]]
+[[2017 Election]]
 
 ## Sources
 

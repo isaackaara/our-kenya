@@ -55,8 +55,8 @@ For ordinary Kenyans who depend on matatus for transportation, this corruption r
 - [[Civil Service Salaries and Petty Corruption]]
 - [[Police Corruption]]
 - [[Moi Era Corruption Economy]]
-- [[Service Delivery and Corruption]]
-- [[Informal Economy and Corruption]]
+- [[Corruption]]
+- [[Corruption]]
 - [[Public Procurement Corruption]]
 - [[Impunity Culture]]
 

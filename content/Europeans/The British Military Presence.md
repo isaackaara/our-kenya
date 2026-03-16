@@ -1,4 +1,4 @@
-The [[British Army Training Unit Kenya]] (BATUK) operates at [[Nanyuki]], in the foothills of [[Mount Kenya]] near the [[Laikipia Plains]]. BATUK provides [[training facilities]] for [[British military]] (and other [[Commonwealth]]) units. The presence of a [[foreign military facility]] on Kenyan soil, decades after [[independence]], remains a symbol of continued [[British influence]] and raises ongoing questions about [[Kenyan sovereignty]].
+The [[British Army Training Unit Kenya]] (BATUK) operates at [[Nanyuki]], in the foothills of [[Mount Kenya]] near the [[Laikipia Plains]]. BATUK provides [[training facilities]] for [[British Military Assistance Kenya]] (and other [[Kenya at the Commonwealth Games]]) units. The presence of a [[foreign military facility]] on Kenyan soil, decades after [[independence]], remains a symbol of continued [[British influence]] and raises ongoing questions about [[Kenya]].
 
 ## Historical Origins and Justification
 
@@ -36,7 +36,7 @@ The Agnes Wanjiru case suggests that functional sovereignty is constrained. The 
 
 - [[White Kenyans Today]]
 - [[Pipeline of Independence]]
-- [[Lancaster House Conferences]]
-- [[Post-Colonial Kenya]]
+- [[The Lancaster House Conferences]]
+- [[Colonial Kenya]]
 - [[Neo-Colonialism]]
 - [[Agnes Wanjiru Case]]

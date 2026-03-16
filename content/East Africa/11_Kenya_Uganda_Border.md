@@ -2,7 +2,7 @@
 title: Kenya Uganda Border
 ---
 
-The [[Kenya Uganda Border]] divides East Africa's plateau region and separates closely related ethnic and linguistic groups. It represents both a colonial artifact and a functioning boundary between two important [[East African Community]] states.
+The [[Kenya]] divides East Africa's plateau region and separates closely related ethnic and linguistic groups. It represents both a colonial artifact and a functioning boundary between two important [[East African Community]] states.
 
 ## Geographic Features
 
@@ -12,7 +12,7 @@ The border passes through diverse terrain: the highlands near Mount Elgon, the R
 
 ## Luo-Speaking Communities
 
-The most significant ethnic division created by the [[Kenya Uganda Border]] separates [[Luo Language Family]] speaking peoples:
+The most significant ethnic division created by the [[Kenya]] separates [[Luo Language]] speaking peoples:
 
 **Kenyan Luo**: The Luo people of Kenya (primarily living in Nyanza Region around Lake Victoria) speak Luo and have a distinctive culture centered on fishing and agriculture.
 
@@ -71,11 +71,11 @@ Post-colonial governments have increasingly controlled these movements through i
 
 ## See Also
 
-- [[Berlin Conference East Africa]]
+- [[East Africa]]
 - [[Lake Victoria]]
-- [[Luo Language Family]]
+- [[Luo Language]]
 - [[EAC Common Market]]
-- [[Kenya Tanzania Border]]
+- [[Kenya]]
 - [[Mount Kilimanjaro]]
 - [[East Africa Timeline]]
 

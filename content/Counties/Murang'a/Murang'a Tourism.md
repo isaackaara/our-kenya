@@ -21,7 +21,7 @@ Challenges constraining tourism development include limited tourism infrastructu
 - [[Murang'a Sacred Sites|Cultural Sites]]
 - [[Murang'a Agriculture|Agricultural Attractions]]
 - [[Murang'a Kikuyu Identity|Cultural Heritage]]
-- [[../../Geography/Mount Kenya|Mount Kenya]]
+- [[Mount Kenya|Mount Kenya]]
 - [[Murang'a Infrastructure|Tourism Infrastructure]]
 
 ## Sources

@@ -1,4 +1,4 @@
-The [[Kenya African Democratic Union]] (KADU) represented the political voice of Kenya's minority ethnic groups and pastoralist communities during the independence transition. Founded in 1960 as an alternative to KANU, KADU was explicitly organized to protect the interests of smaller populations who feared marginalization in a centralized, KANU-dominated state. The party was dominated by the Kalenjin (particularly through Daniel arap [[Moi]]), Somali, Maasai, and Samburu communities, who saw federal devolution (majimbo) as the only institutional guarantee of their political representation and resource access.
+The [[Kenya]] (KADU) represented the political voice of Kenya's minority ethnic groups and pastoralist communities during the independence transition. Founded in 1960 as an alternative to KANU, KADU was explicitly organized to protect the interests of smaller populations who feared marginalization in a centralized, KANU-dominated state. The party was dominated by the Kalenjin (particularly through Daniel arap [[Moi]]), Somali, Maasai, and Samburu communities, who saw federal devolution (majimbo) as the only institutional guarantee of their political representation and resource access.
 
 KADU's co-founder and first secretary-general was [[Ronald Ngala]], a Mombasa-based coastal politician who articulated the party's federalist vision with considerable rhetorical power. Ngala argued that Kenya's ethnic diversity was incompatible with unitary rule, that a strong central government would inevitably be captured by the dominant Kikuyu and Luhya communities, and that only a federal structure with significant regional autonomy could protect minority rights and pastoralist land claims. KADU's vision of majimbo envisioned regional governments controlling education, local taxation, and pastoral management, with the center limited to defense, foreign affairs, and macroeconomic policy.
 
@@ -17,7 +17,7 @@ The party's defeat in 1963 (13 elected seats) was decisive and conclusive. KADU'
 - [[Daniel arap Moi]]
 - [[Ronald Ngala]]
 - [[Pastoralist Communities Kenya]]
-- [[Kenya Federal Debate]]
+- [[Kenya]]
 
 ## Sources
 

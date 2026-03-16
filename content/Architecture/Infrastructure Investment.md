@@ -18,7 +18,7 @@ Contemporary infrastructure investment priorities reflect acknowledged deficits 
 [[Telephone Infrastructure]]
 [[Standard Gauge Railway]]
 [[Modern Megaprojects]]
-[[Technology Infrastructure]]
+[[Technology]]
 
 ## Sources
 

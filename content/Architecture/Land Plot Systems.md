@@ -17,7 +17,7 @@ Land plot tenure security, fundamental for housing investment and agricultural d
 [[Urban Planning Development]]
 [[Residential Architecture]]
 [[Informal Settlements]]
-[[Agricultural Land]]
+[[Agricultural Land and Politics]]
 [[Government Land]]
 
 ## Sources

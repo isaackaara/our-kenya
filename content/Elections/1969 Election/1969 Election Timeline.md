@@ -1,4 +1,4 @@
-**1966, April**  -  [[Oginga Odinga]] resigns from KANU government and forms the [[Kenya People's Union]] (KPU) as legal opposition party.
+**1966, April**  -  [[Oginga Odinga]] resigns from KANU government and forms the [[Kenya People's Union Formation]] (KPU) as legal opposition party.
 
 **1966-1969**  -  KPU functions as opposition party, holding rallies and organizing in Luo areas and among socialist-oriented intellectuals and workers.
 
@@ -28,10 +28,10 @@
 
 - [[1969 Election]]
 - [[Tom Mboya Assassination]]
-- [[Kisumu Massacre]]
-- [[Kenya People's Union]]
+- [[Kisumu Massacre 1969]]
+- [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
-- [[Moi Succession]]
+- [[Moi Succession 1978]]
 - [[Political Timeline Kenya]]
 
 ## Sources

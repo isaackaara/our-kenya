@@ -40,7 +40,7 @@ Many notable individuals from Tana River have migrated to other regions, contrib
 - [[Tana River Education|Tana River Education]]
 - [[Tana River Women|Tana River Women]]
 - [[Tana River Youth|Tana River Youth]]
-- [[Kenya Political Leaders|Kenya Political Leaders]]
+- [[Kenya|Kenya Political Leaders]]
 
 ## Sources
 

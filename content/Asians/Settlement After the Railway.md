@@ -1,4 +1,4 @@
-When the [[Uganda Railway]] was completed in 1901, approximately 2,500 Indian laborers and artisans chose to remain in East Africa rather than return to India. Their decision to stay established the foundation of the permanent Asian community in Kenya. Subsequent waves of [[Indian merchants]], traders, and professionals further expanded the community.
+When the [[Uganda Railway Taita-Taveta]] was completed in 1901, approximately 2,500 Indian laborers and artisans chose to remain in East Africa rather than return to India. Their decision to stay established the foundation of the permanent Asian community in Kenya. Subsequent waves of [[Indian Merchants Coast]], traders, and professionals further expanded the community.
 
 ## Why Some Stayed
 
@@ -6,7 +6,7 @@ Indian laborers stayed for multiple reasons. Some had accumulated enough savings
 
 ## The Duka Wallah Phenomenon
 
-The term "duka wallah" (shop owner) became emblematic of the [[Indian trader]] in colonial Kenya. These were men who established small shops in towns and trading posts along the railway line and in the interior. They sold imported textiles, metalware, tools, and other goods to African communities. The duka wallah became a familiar figure across Kenya, extending credit, facilitating trade, and connecting local communities to colonial commerce.
+The term "duka wallah" (shop owner) became emblematic of the [[Indian Traders and the Duka]] in colonial Kenya. These were men who established small shops in towns and trading posts along the railway line and in the interior. They sold imported textiles, metalware, tools, and other goods to African communities. The duka wallah became a familiar figure across Kenya, extending credit, facilitating trade, and connecting local communities to colonial commerce.
 
 ## Spread Along the Railway Line
 

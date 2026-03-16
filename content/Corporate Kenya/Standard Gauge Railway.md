@@ -2,7 +2,7 @@ The Standard Gauge Railway (SGR) connecting Mombasa to Nairobi (completed 2017) 
 
 ## Project Overview
 
-The [[SGR Kenya|SGR]] project was part of [[Kenya]]'s [[Vision 2030]] flagship [[infrastructure Kenya|infrastructure]] projects. The initial phase ([[Mombasa]] to [[Nairobi]], 471 km) was completed in April 2017. Additional phases to [[Kericho]] and other destinations were planned but have faced delays and [[financing Kenya|financing]] challenges.
+The [[SGR Kenya|SGR]] project was part of [[Kenya]]'s [[Vision 2030]] flagship [[IT Infrastructure Kenya|infrastructure]] projects. The initial phase ([[Mombasa]] to [[Nairobi]], 471 km) was completed in April 2017. Additional phases to [[Kericho]] and other destinations were planned but have faced delays and [[financing Kenya|financing]] challenges.
 
 ## Technology and Design
 
@@ -48,11 +48,11 @@ The SGR's future depends on improving operational efficiency and demand. Additio
 ## See Also
 
 - [[Vision 2030]]
-- [[Infrastructure Kenya]]
-- [[Kenya Debt Crisis]]
+- [[IT Infrastructure Kenya]]
+- [[Kenya]]
 - [[Chinese Investment Kenya]]
 - [[Transport Kenya]]
-- [[East Africa Integration]]
+- [[East Africa]]
 - [[Regional Railway Networks Kenya]]
 
 ## Sources

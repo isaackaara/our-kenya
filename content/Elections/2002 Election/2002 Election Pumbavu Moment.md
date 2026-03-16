@@ -9,7 +9,7 @@ The "pumbavu" moment differs significantly from the 1997 election, where opposit
 - [[2002 Election]]
 - [[2002 Election Uhuru Kenyatta]]
 - [[Campaign gaffes and political outcomes]]
-- [[Kikuyu voting patterns]]
+- [[Kikuyu]]
 - [[KANU's disconnect from voters]]
 
 ## Sources

@@ -4,9 +4,9 @@ Notable figures in the 1983 election included cabinet ministers who retained inf
 - [[1983 Election]]
 - [[Daniel arap Moi]]
 - [[KANU Party]]
-- [[Kenya Political Leadership]]
+- [[Kenya]]
 - [[1983 Election Moi Consolidation]]
-- [[Kalenjin Politics Kenya]]
+- [[Kalenjin]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

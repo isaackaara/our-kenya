@@ -19,10 +19,10 @@ Development initiatives have promoted improved vegetable varieties adapted to Em
 ## See Also
 
 - [[Embu County Agriculture]]
-- [[Embu County Water]]
+- [[Embu County]]
 - [[Embu County Land]]
 - [[Embu County Climate]]
-- [[Embu County Market Access]]
+- [[Embu County]]
 - [[Embu County Cooperatives]]
 - [[Embu People County]]
 

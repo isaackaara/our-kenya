@@ -8,7 +8,7 @@ A fourth key element was the amendment to the Electoral Commission Act itself, w
 
 The IPPG talks were formally mediated by parliamentary delegations, but the real work happened in back-channel negotiations involving opposition party leaders, government officials, civil society figures like Bishop Alexander Muge and other clergy, and international observers. The threat of post-election violence, which had haunted the 1992 election and continued to simmer beneath the surface, provided urgency to both sides. Neither Moi nor the opposition wanted a repeat of 1992-style ethnic clashes, and the IPPG process allowed both to claim they had achieved something through negotiation rather than conflict.
 
-However, the IPPG reforms had significant limitations. They did not address the fundamental electoral system (first-past-the-post voting in single-member constituencies, which structurally favored the largest vote-getter even when most voters opposed him). They did not address media access or create a more level broadcasting playing field. State institutions like the Electoral Commission of Kenya remained firmly under government control, staffed by presidential appointees. And the reforms did not prevent the government from deploying state resources, intimidation, or violence as campaign tactics, as the [[coast violence]] of August 1997 would demonstrate just months after the IPPG agreement was reached.
+However, the IPPG reforms had significant limitations. They did not address the fundamental electoral system (first-past-the-post voting in single-member constituencies, which structurally favored the largest vote-getter even when most voters opposed him). They did not address media access or create a more level broadcasting playing field. State institutions like the Electoral Commission of Kenya remained firmly under government control, staffed by presidential appointees. And the reforms did not prevent the government from deploying state resources, intimidation, or violence as campaign tactics, as the [[1997 Election Coast Violence]] of August 1997 would demonstrate just months after the IPPG agreement was reached.
 
 Nonetheless, the IPPG reforms were real and consequential. They enabled opposition parties to campaign more openly than in 1992. They created some degree of independent monitoring capacity. And they set a precedent that opposition pressure, if coordinated and sustained, could extract concessions even from an entrenched government. The IPPG framework would be reactivated during periods of political tension in subsequent years, most notably in 2002 when opposition parties again coordinated their actions through formal mechanisms.
 
@@ -19,7 +19,7 @@ Nonetheless, the IPPG reforms were real and consequential. They enabled oppositi
 - [[1997 Election Media Coverage]]
 - [[2002 Election NARC Coalition]]
 - [[Electoral Commission of Kenya]]
-- [[Kenya's constitutional history]]
+- [[Kenya]]
 
 ## Sources
 

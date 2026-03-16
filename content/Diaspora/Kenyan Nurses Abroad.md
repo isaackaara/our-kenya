@@ -17,7 +17,7 @@ Healthcare system impacts of nursing emigration affected Kenya's nursing workfor
 - [[Kenyan Doctors Developed Nations]]
 - [[Healthcare Investment Diaspora]]
 - [[Healthcare Licensing Abroad]]
-- [[Women and Labour Migration]]
+- [[Women]]
 - [[Remittances Kenya Economy]]
 - [[Skilled Worker Exodus]]
 - [[Brain Drain Concerns]]

@@ -4,9 +4,9 @@ Kenneth Matiba, a prominent politician and businessman, was detained in the peri
 - [[1988 Election]]
 - [[Kenneth Matiba]]
 - [[Daniel arap Moi]]
-- [[Kenya Detention System]]
+- [[Kenya]]
 - [[Second Liberation Kenya]]
-- [[Kenya Human Rights 1980s]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

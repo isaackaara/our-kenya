@@ -15,7 +15,7 @@ The broader losers in the 1969 election were those who had hoped for multiparty 
 - [[Oginga Odinga]]
 - [[Political Opposition Kenya]]
 - [[Electoral Competition]]
-- [[Losers in Elections]]
+- [[Elections]]
 - [[Excluded Communities]]
 
 ## Sources

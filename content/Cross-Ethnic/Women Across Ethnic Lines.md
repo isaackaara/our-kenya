@@ -1,4 +1,4 @@
-[[Kenyan women's organizations]] including [[Maendeleo ya Wanawake]] and the [[Green Belt Movement]] have organized across ethnic lines, demonstrating the possibility of [[women's collective action]] transcending ethnic particularism. These organizations have mobilized women from different ethnic backgrounds around shared interests in development, environmentalism, and women's rights. The cross-ethnic character of women's organizations suggests that [[gender identity]] can provide sufficient grounds for solidarity.
+[[Kenya]] including [[Maendeleo ya Wanawake Organization]] and the [[Green Belt Movement]] have organized across ethnic lines, demonstrating the possibility of [[Women]] transcending ethnic particularism. These organizations have mobilized women from different ethnic backgrounds around shared interests in development, environmentalism, and women's rights. The cross-ethnic character of women's organizations suggests that [[gender identity]] can provide sufficient grounds for solidarity.
 
 Maendeleo ya Wanawake (Progress for Women) is a women's organization operating in Kenya since the colonial period. While the organization has historical associations with particular ethnic groups and regions, it has evolved into a national organization serving women across ethnic boundaries. The organization focuses on women's development, income generation, and empowerment. Membership and leadership reflect Kenya's ethnic diversity.
 
@@ -10,7 +10,7 @@ However, women's organizations have not entirely escaped ethnic dimensions. Lead
 
 Women's participation in peace-building and reconciliation work has been notable. Women have organized across ethnic lines to advocate for peace during conflicts. Women peacemakers have facilitated dialogue and reconciliation between community groups. The work of women in post-election violence reconciliation demonstrates women's capacity for cross-ethnic solidarity around peace and social healing.
 
-The visibility of women in [[cross-ethnic organizing]] raises questions about gender dynamics in ethnic politics. Women's peace activism sometimes positions women as natural peacemakers. Women's organizing sometimes receives less political recognition than male-led organizations. Nevertheless, women's organizations remain important sites of [[cross-ethnic collective action]].
+The visibility of women in [[cross-ethnic organizing]] raises questions about gender dynamics in ethnic politics. Women's peace activism sometimes positions women as natural peacemakers. Women's organizing sometimes receives less political recognition than male-led organizations. Nevertheless, women's organizations remain important sites of [[Collective Action]].
 
 ## See Also
 

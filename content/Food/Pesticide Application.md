@@ -4,7 +4,7 @@ Colonial agricultural research programs identified major pests affecting colonia
 
 Post-independence expansion of cash crop production and green revolution [[Maize Production]] intensified pesticide use. Government pesticide subsidies in some periods made application affordable for smallholders. Farmer training programs emphasized pesticide application as component of improved agricultural package. However, training often focused on dose and application timing while omitting discussion of toxicity, protective equipment, or non-chemical alternatives.
 
-Health impacts of pesticide exposure emerged gradually. Acute poisoning among farmers handling concentrated pesticides without protection was common but often unrecognized as pesticide-related. Chronic health effects including neurological damage, reproductive problems, and cancer in agricultural communities were masked by difficult epidemiological attribution. Women working in vegetable [[Horticulture Sector]] production faced particular exposure, as labor-intensive hand application of pesticides was standard practice.
+Health impacts of pesticide exposure emerged gradually. Acute poisoning among farmers handling concentrated pesticides without protection was common but often unrecognized as pesticide-related. Chronic health effects including neurological damage, reproductive problems, and cancer in agricultural communities were masked by difficult epidemiological attribution. Women working in vegetable [[Horticultural Sector]] production faced particular exposure, as labor-intensive hand application of pesticides was standard practice.
 
 Environmental consequences appeared in reduced bee populations affecting crop pollination, fish kills in agricultural areas, and pesticide residue in food products. The persistence of organochlorine pesticides in soil and water created long-term contamination even after bans. Lake Victoria, receiving runoff from intensive agricultural areas, showed pesticide bioaccumulation in fish, affecting both ecological function and food safety.
 
@@ -15,7 +15,7 @@ Integrated Pest Management (IPM) approaches emerged from research institutions a
 Restrictions on pesticides deemed high-risk in developed countries sometimes resulted in their export to developing nations, creating asymmetric exposure. Kenya received and used pesticides that their origin countries had banned or restricted. Trade rules did not prevent this dumping, and importing countries' regulatory capacity was insufficient to screen for unacceptable hazards.
 
 ## See Also
-[[Horticulture Sector]]
+[[Horticultural Sector]]
 [[Maize Production]]
 [[Food Safety Standards]]
 [[Extension Services Agriculture]]

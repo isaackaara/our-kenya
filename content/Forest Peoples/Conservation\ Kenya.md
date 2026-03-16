@@ -10,7 +10,7 @@ Contemporary conservation discourse increasingly recognizes that indigenous peop
 
 ## See Also
 
-[[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Protected Areas Kenya]] | [[Land Dispossession]] | [[Mau Forest]] | [[Environmental Change Kenya]]
+[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Protected Areas Kenya]] | [[Land\ Dispossession]] | [[Mau Forest]] | [[Environmental Change Kenya]]
 
 ## Sources
 

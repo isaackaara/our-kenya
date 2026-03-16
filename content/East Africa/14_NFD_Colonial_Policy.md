@@ -14,7 +14,7 @@ British colonial authorities designated the NFD as a "closed district" in the ea
 
 **Minimal Education**: Unlike other regions of Kenya, colonial education in the NFD was extremely limited. This created a knowledge and skill gap that persisted after independence.
 
-**Pastoral Restrictions**: The [[NFD Colonial Policy]] was designated as pastoral land for [[Somali Cross Border]], Turkana, and other pastoral communities. Colonial authorities discouraged agricultural development and restricted settlement patterns.
+**Pastoral Restrictions**: The [[NFD Colonial Policy]] was designated as pastoral land for [[Somali]], Turkana, and other pastoral communities. Colonial authorities discouraged agricultural development and restricted settlement patterns.
 
 ## Rationale for the Policy
 
@@ -68,11 +68,11 @@ The colonial closed district policy created legacies that persist:
 
 ## See Also
 
-- [[Kenya Somalia Border]]
-- [[Kenya Ethiopia Border]]
-- [[Somali Cross Border]]
-- [[Berlin Conference East Africa]]
-- [[East African Droughts]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Somali]]
+- [[East Africa]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

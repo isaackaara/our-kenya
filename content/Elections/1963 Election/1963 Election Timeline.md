@@ -24,17 +24,17 @@
 
 **1965, April-December**  -  Factional tensions within KANU intensify, particularly between [[Oginga Odinga]]'s socialist faction and [[Jomo Kenyatta]]'s conservative faction. Odinga's influence within KANU declines as Kenyatta consolidates power.
 
-**1966, April**  -  [[Oginga Odinga]] resigns from government and KANU. He founds the [[Kenya People's Union]] (KPU) as an opposition party, making Kenya's transition to single-party rule explicit.
+**1966, April**  -  [[Oginga Odinga]] resigns from government and KANU. He founds the [[Kenya People's Union Formation]] (KPU) as an opposition party, making Kenya's transition to single-party rule explicit.
 
 ## See Also
 
 - [[1963 Election]]
 - [[1963 Election Results]]
 - [[1963 Election Independence]]
-- [[Kenya Independence Movement]]
+- [[Kenya]]
 - [[KANU Consolidation]]
-- [[KADU Dissolution]]
-- [[Lancaster House Conferences]]
+- [[1963 Election KADU Dissolution]]
+- [[The Lancaster House Conferences]]
 
 ## Sources
 

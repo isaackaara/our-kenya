@@ -19,7 +19,7 @@ Discrimination in access to imported goods and luxury items, combined with wage 
 [[Racial Hierarchy Colony]]
 [[Occupational Segregation]]
 [[Color Bar Employment]]
-[[Educational Inequality]]
+[[Educational Inequality Reproduction]]
 [[Colonial Courts Justice]]
 [[Urban Segregation]]
 

@@ -6,7 +6,7 @@ The [[Aga Khan]] founded NMG (as East African Newspapers Nation Series Ltd) in 1
 
 ## Daily Nation Launch
 
-The first issue of [[Daily Nation]] was published on March 20, 1960. The newspaper became an immediate success, gaining readership across Kenya and East Africa. Its English-language reporting, analysis, and features made it the publication of choice for educated Kenyans. By independence (1963), Daily Nation was firmly established as Kenya's leading newspaper.
+The first issue of [[Daily Nation Establishment]] was published on March 20, 1960. The newspaper became an immediate success, gaining readership across Kenya and East Africa. Its English-language reporting, analysis, and features made it the publication of choice for educated Kenyans. By independence (1963), Daily Nation was firmly established as Kenya's leading newspaper.
 
 ## Expansion and Media Dominance
 

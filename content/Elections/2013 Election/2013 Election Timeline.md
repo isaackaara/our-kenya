@@ -44,7 +44,7 @@ This timeline documents key dates and events in Kenya's 2013 general election pr
 [[2013 Election Results]]
 [[2013 Election Supreme Court Petition]]
 [[2013 Election ICC Factor]]
-[[2013 Election Campaign|2013 Election Uhuru Campaign]]
+[[2013 Election|2013 Election Uhuru Campaign]]
 [[2013 Election IEBC]]
 
 ## Sources

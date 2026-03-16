@@ -1,4 +1,4 @@
-[[Unilever]]'s East African subsidiary operates soap, detergent, and personal care manufacturing in [[Kenya]], serving [[East Africa]]. The multinational reflects colonial patterns of industrial organization and remains a major [[Manufacturing|manufacturer]].
+[[East African Industries (Unilever)]]'s East African subsidiary operates soap, detergent, and personal care manufacturing in [[Kenya]], serving [[East Africa]]. The multinational reflects colonial patterns of industrial organization and remains a major [[Manufacturing History Kenya|manufacturer]].
 
 ## See Also
 

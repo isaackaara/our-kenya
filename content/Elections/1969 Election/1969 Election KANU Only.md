@@ -1,6 +1,6 @@
-The 1969 election was the first Kenyan election in which a single party, the [[Kenya African National Union]] (KANU), contested all seats and won all contested races. This represented the culmination of Kenya's rapid transition from a contested multi-party system in 1963 to a single-party state in 1969. The transformation was neither accidental nor inevitable; it reflected deliberate decisions by [[Jomo Kenyatta]] and KANU's conservative leadership to eliminate opposition and to consolidate authoritarian control.
+The 1969 election was the first Kenyan election in which a single party, the [[Kenya]] (KANU), contested all seats and won all contested races. This represented the culmination of Kenya's rapid transition from a contested multi-party system in 1963 to a single-party state in 1969. The transformation was neither accidental nor inevitable; it reflected deliberate decisions by [[Jomo Kenyatta]] and KANU's conservative leadership to eliminate opposition and to consolidate authoritarian control.
 
-Kenya's drift toward single-party rule had been foreshadowed in 1963 and 1964 by the dissolution of KADU and the defection of its members to KANU. However, the existence of the [[Kenya People's Union]] (KPU) under [[Oginga Odinga]]'s leadership from 1966 to 1969 had at least provided the institutional possibility of electoral competition. The government's ban on the KPU in October 1969, just weeks before the election, transformed Kenya into a de facto single-party state and made the 1969 election a competition within a single party rather than a contest between parties.
+Kenya's drift toward single-party rule had been foreshadowed in 1963 and 1964 by the dissolution of KADU and the defection of its members to KANU. However, the existence of the [[Kenya People's Union Formation]] (KPU) under [[Oginga Odinga]]'s leadership from 1966 to 1969 had at least provided the institutional possibility of electoral competition. The government's ban on the KPU in October 1969, just weeks before the election, transformed Kenya into a de facto single-party state and made the 1969 election a competition within a single party rather than a contest between parties.
 
 KANU's consolidation of monopoly control over electoral politics was justified by the Kenyatta government through arguments about national unity and the dangers of divisive party competition. Government rhetoric contended that in a newly independent state still establishing its institutions, opposition parties threatened national cohesion and created factional divisions that would impede development. This argument conflated opposition to the government with opposition to the state itself, and justified the suppression of opposition as a matter of national security and national interest.
 
@@ -14,7 +14,7 @@ The election results (KANU won all seats) reflected not an overwhelming expressi
 
 - [[1969 Election Results]]
 - [[1969 Election KPU Ban]]
-- [[Kenya People's Union]]
+- [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
 - [[Single-Party State Kenya]]
 - [[KANU Primary 1969]]

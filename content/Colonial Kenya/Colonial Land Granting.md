@@ -20,7 +20,7 @@ By the 1950s, the land granting system had created profound regional inequalitie
 [[Colonial Surveys Mapping]]
 [[Colonial Nepotism]]
 [[Colonial Corruption]]
-[[Kikuyu and Colonialism]]
+[[Kikuyu]]
 
 ## Sources
 1. Elkins, Caroline. "Imperial Reckoning: The Untold Story of Britain's Gulag in Kenya." Henry Holt and Company, 2005. https://www.henryholtandco.com/products/imperial-reckoning

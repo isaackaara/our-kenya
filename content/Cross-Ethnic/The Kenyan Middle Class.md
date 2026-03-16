@@ -1,4 +1,4 @@
-The emergence of a substantial [[Kenyan middle class]] since the 2000s represents one of the most significant developments in contemporary Kenya. This professional and commercial class, comprising educated individuals working in formal employment, business ownership, and professional services, increasingly defines itself through consumption patterns and cultural orientation rather than through [[ethnic identity]]. The Kenyan middle class is overwhelmingly urban and [[cross-ethnic]] in composition.
+The emergence of a substantial [[Kenya]] since the 2000s represents one of the most significant developments in contemporary Kenya. This professional and commercial class, comprising educated individuals working in formal employment, business ownership, and professional services, increasingly defines itself through consumption patterns and cultural orientation rather than through [[ethnic identity]]. The Kenyan middle class is overwhelmingly urban and [[Cross-Ethnic Kenya]] in composition.
 
 The growth of Kenya's middle class correlates with economic liberalization, the expansion of secondary and tertiary education, and the growth of sectors like tourism, telecommunications, finance, and business services. Young Kenyans educated in national schools and universities increasingly pursue careers in these sectors, creating a cohort of professionals who work alongside peers from diverse ethnic backgrounds.
 
@@ -13,7 +13,7 @@ However, the relationship between class position and [[ethnic identity]] is comp
 ## See Also
 
 - [[Elite Schools and Class Formation]]
-- [[Nairobi Middle-Class Neighborhoods]]
+- [[Nairobi]]
 - [[Professional Networks Kenya]]
 - [[Class and Ethnic Identity]]
 - [[Urban Kikuyu-Luo Marriages]]

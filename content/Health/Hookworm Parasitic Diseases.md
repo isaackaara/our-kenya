@@ -14,7 +14,7 @@ Kenya's commitment to helminth control through school-based deworming programs h
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 
 ## Sources
 1. http://www.nutritionhealth.or.ke/wp-content/uploads/Downloads/The%20Kenya%20National%20Micronutrient%20Survey%202011.pdf

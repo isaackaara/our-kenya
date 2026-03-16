@@ -26,7 +26,7 @@ This timeline shows the sequence of events constituting the 1979 election, from 
 - [[1978 Succession]]
 - [[1979 Election KANU Primary]]
 - [[KANU Party]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya." African Studies Review, 1976.

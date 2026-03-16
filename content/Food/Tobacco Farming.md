@@ -22,7 +22,7 @@ Land use considerations involved tension between tobacco cultivation and food pr
 [[Smallholder Agriculture]]
 [[Export Economy Kenya]]
 [[Commodity Marketing Systems]]
-[[Health Policy Kenya]]
+[[Health]]
 [[Environmental Resource Management]]
 [[Agricultural Labor Systems]]
 

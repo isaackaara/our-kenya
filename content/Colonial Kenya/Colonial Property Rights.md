@@ -22,7 +22,7 @@ By the 1950s, grievances over property rights became central to nationalist mobi
 [[Color Bar Employment]]
 [[Colonial Racial Discrimination]]
 [[Colonial Class System]]
-[[Kikuyu and Colonialism]]
+[[Kikuyu]]
 
 ## Sources
 1. Elkins, Caroline. "Imperial Reckoning: The Untold Story of Britain's Gulag in Kenya." Henry Holt and Company, 2005. https://www.henryholtandco.com/products/imperial-reckoning

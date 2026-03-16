@@ -13,10 +13,10 @@ The 1992 election thus demonstrated both progress and continued barriers to wome
 ## See Also
 
 - [[1992 Election]]
-- [[Women's Political Participation Kenya]]
+- [[Women]]
 - [[Female Candidates]]
 - [[Gender and Democracy]]
-- [[Women in Parliament]]
+- [[Women]]
 - [[Electoral Representation Women]]
 - [[Barriers to Political Participation]]
 

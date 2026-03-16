@@ -121,7 +121,7 @@ Climate projections suggest:
 - [[Kisii Agriculture|Agriculture]]
 - [[Kisii Climate|Climate Overview]]
 - [[Kisii Dairy|Dairy Systems]]
-- [[Kisii Water Resources|Water Resources]]
+- [[Kisii|Water Resources]]
 - [[Climate Change and Kenyan Wildlife|Climate Change Wildlife Impacts]]
 
 ## Sources

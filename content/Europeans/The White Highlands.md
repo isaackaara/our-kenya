@@ -1,4 +1,4 @@
-The [[White Highlands]] were a legally defined territory in the highlands of Kenya (primarily the [[Rift Valley]] and [[Central Province]]) reserved exclusively for [[European ownership]] and [[European settlement]] under [[colonial law]]. This system represented one of the most deliberate [[land appropriations]] in [[colonial African history]], [[dispossessing]] [[African communities]] and creating a [[spatial order]] that lasted for six decades.
+The [[White Highlands]] were a legally defined territory in the highlands of Kenya (primarily the [[Rift Valley]] and [[Central Province]]) reserved exclusively for [[European ownership]] and [[European Settlement Overview]] under [[colonial law]]. This system represented one of the most deliberate [[land appropriations]] in [[colonial African history]], [[dispossessing]] [[African communities]] and creating a [[spatial order]] that lasted for six decades.
 
 ## Definition and Boundaries
 
@@ -88,7 +88,7 @@ Contemporary Kenya still bears the spatial legacy of the White Highlands system.
 - [[Land in the Rift Valley]]
 - [[White Highlands and Settler Society]]
 - [[The Squatter System]]
-- [[Maasai Land Dispossession]]
+- [[Maasai]]
 - [[The Scramble for East Africa]]
 - [[White Farmers Today]]
 

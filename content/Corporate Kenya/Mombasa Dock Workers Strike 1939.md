@@ -17,9 +17,9 @@ Sector growth and development depend on policy, investment, technology, and glob
 ## See Also
 
 - [[Mombasa Port History]]
-- [[Labour History Kenya]]
+- [[Labour]]
 - [[Colonial Kenya]]
-- [[Colonial Economy Kenya]]
+- [[Colonial Economy]]
 - [[Trade History Kenya]]
 - [[Working Class Kenya]]
 - [[Mombasa Port Operations]]

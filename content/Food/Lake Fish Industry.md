@@ -20,7 +20,7 @@ Fish farming development in the lake was promoted as alternative to depleted wil
 [[Ocean Fish Harvesting]]
 [[Artisanal Fishing Practices]]
 [[Fishing Rights Management]]
-[[Luo Culture Food]]
+[[Luo]]
 [[Water Resources Management]]
 [[Sustainable Fisheries]]
 

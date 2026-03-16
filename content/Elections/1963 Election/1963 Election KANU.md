@@ -1,4 +1,4 @@
-The [[Kenya African National Union]] (KANU) was the dominant coalition driving Kenya toward independence and emerged as the clear victor of the 1963 election. Founded in 1960 and led by [[Jomo Kenyatta]], KANU represented the broad nationalist consensus that had crystallized around the Mau Mau rebellion and the demands for immediate self-governance. The party's strength lay not in ideological coherence but in its ability to aggregate powerful ethnic constituencies, particularly the Kikuyu and Luhya communities, while managing the ambitions of competing leaders within a structure that privileged the central highlands.
+The [[Kenya]] (KANU) was the dominant coalition driving Kenya toward independence and emerged as the clear victor of the 1963 election. Founded in 1960 and led by [[Jomo Kenyatta]], KANU represented the broad nationalist consensus that had crystallized around the Mau Mau rebellion and the demands for immediate self-governance. The party's strength lay not in ideological coherence but in its ability to aggregate powerful ethnic constituencies, particularly the Kikuyu and Luhya communities, while managing the ambitions of competing leaders within a structure that privileged the central highlands.
 
 KANU's organizational machinery was built by [[Tom Mboya]], the Luo trade unionist and politician who became the party's administrative nerve center. Mboya orchestrated voter registration, campaign logistics, and coordination across KANU's sprawling regional branches, leveraging his international connections (he was well-known in American and European labor circles) to secure campaign resources. By 1963, KANU had transformed from a nationalist pressure group into a hierarchical political machine capable of delivering votes in virtually every constituency.
 
@@ -15,9 +15,9 @@ The party's victory in 1963 (96 of 117 elected seats) gave it an overwhelming ma
 - [[1963 Election Tom Mboya]]
 - [[1963 Election Kenyatta Campaign]]
 - [[1963 Election Oginga Odinga]]
-- [[Kenya African National Union History]]
-- [[Kenya Political Parties]]
-- [[Harambee Philosophy]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Harambee]]
 
 ## Sources
 

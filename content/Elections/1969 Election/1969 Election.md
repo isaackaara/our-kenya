@@ -1,6 +1,6 @@
 The 1969 Kenya election was the first democratic contest held after independence, yet it was also a watershed moment in Kenya's rapid slide toward authoritarian single-party rule. Held in December 1969, the election took place in the context of profound political turmoil: [[Tom Mboya]], the Luo trade unionist and organizer of KANU's electoral machinery, had been assassinated in July 1969, and just weeks after his assassination, the security forces had killed an undetermined number of Luo civilians in Kisumu during a campaign visit by [[Jomo Kenyatta]]. These events had triggered an ethnic explosion that revealed the fragility of Kenya's post-independence unity and the depth of resentment against Kikuyu political dominance.
 
-The 1969 election was contested within a context of de facto single-party rule. The [[Kenya People's Union]] (KPU), formed by [[Oginga Odinga]] as an opposition challenge to KANU, was banned by the Kenyatta government in October 1969, just weeks before the election. KPU members were not permitted to contest on their party ticket, and the party itself was declared illegal, though individual KPU members were allowed (in theory) to contest as independent candidates. In practice, the banning of the KPU meant that the 1969 election was a single-party contest; KANU was the only legal political party, and opposition to KANU had to be mounted through factional competition within the party.
+The 1969 election was contested within a context of de facto single-party rule. The [[Kenya People's Union Formation]] (KPU), formed by [[Oginga Odinga]] as an opposition challenge to KANU, was banned by the Kenyatta government in October 1969, just weeks before the election. KPU members were not permitted to contest on their party ticket, and the party itself was declared illegal, though individual KPU members were allowed (in theory) to contest as independent candidates. In practice, the banning of the KPU meant that the 1969 election was a single-party contest; KANU was the only legal political party, and opposition to KANU had to be mounted through factional competition within the party.
 
 KANU won all contested seats in the election, either through unopposed elections (where candidates ran without opposition) or through contested races where voters chose among KANU members. The election results thus showed KANU dominance even more complete than in 1963. The real electoral competition took place within KANU's primary system, where party members competed for nomination, and these primary contests determined which candidates would actually win parliamentary seats.
 
@@ -33,12 +33,12 @@ The Mboya assassination and the Kisumu massacre had profoundly destabilized Keny
 ## See Also
 
 - [[Tom Mboya Assassination]]
-- [[Kisumu Massacre]]
-- [[Kenya People's Union]]
+- [[Kisumu Massacre 1969]]
+- [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
 - [[Single-Party State Kenya]]
 - [[Jomo Kenyatta]]
-- [[Kenya Political Violence]]
+- [[Kenya]]
 
 ## Sources
 

@@ -2,7 +2,7 @@ The [[Aga Khan Development Network]] (AKDN) has been one of the most significant
 
 ## Hospitals and Healthcare
 
-The AKDN operates three hospitals in Kenya (the [[Aga Khan Hospital Nairobi]] being the flagship) and nearly 80 linked health centers. These hospitals provide high-quality healthcare to both [[Ismaili]] community members and the broader Kenyan public. The Aga Khan Hospital Nairobi is among East Africa's best private hospitals, offering advanced medical services. The health centers provide primary care and health worker training in rural areas.
+The AKDN operates three hospitals in Kenya (the [[Nairobi]] being the flagship) and nearly 80 linked health centers. These hospitals provide high-quality healthcare to both [[Ismaili]] community members and the broader Kenyan public. The Aga Khan Hospital Nairobi is among East Africa's best private hospitals, offering advanced medical services. The health centers provide primary care and health worker training in rural areas.
 
 ## Schools and Education
 

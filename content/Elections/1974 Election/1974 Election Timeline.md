@@ -25,7 +25,7 @@ This timeline shows the sequence of events that constituted the 1974 election pr
 - [[1974 Election KANU Primary]]
 - [[KANU Party]]
 - [[Jomo Kenyatta]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 - [[1979 Election]]
 
 ## Sources

@@ -1,4 +1,4 @@
-[[Kenyans]] of [[Asian Kenyans|Asian]] descent participate in [[Kenya]]'s political system as voters, party members, and occasionally as candidates. Yet they achieve limited political representation and influence relative to their wealth and [[education]]. The reasons are complex, involving both structural barriers and community choices.
+[[Kenya]] of [[Asian Kenyans|Asian]] descent participate in [[Kenya]]'s political system as voters, party members, and occasionally as candidates. Yet they achieve limited political representation and influence relative to their wealth and [[education]]. The reasons are complex, involving both structural barriers and community choices.
 
 ## Voting Participation
 
@@ -37,7 +37,7 @@ Some argue that Asians' political marginalization reflects their own choices: th
 - [[Asian Political Participation]]
 - [[Asian Political Representation in Colonial Kenya]]
 - [[Asian Kenyan Identity 2026]]
-- [[Kenyan electoral politics]]
+- [[Kenya]]
 - [[Ethnic politics Kenya]]
 
 ## Sources

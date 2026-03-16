@@ -38,7 +38,7 @@ The county holds historical significance as the home of Daniel arap Moi, Kenya's
 
 ## See Also
 
-- [[Baringo Maasai|Baringo Maasai]]
+- [[Maasai|Baringo Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Baringo Wildlife|Wildlife]]

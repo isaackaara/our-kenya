@@ -1,4 +1,4 @@
-[[Asian Kenyans|Asian]] families accumulated substantial holdings in [[Nairobi]] and [[Mombasa]] commercial [[real estate]] over decades. These property holdings represented both business operations (shops, offices, warehouses) and investment assets. [[Real estate]] ownership provided rental income, store locations for retail operations, and security in the form of tangible assets that could be leveraged for credit. The concentration of [[Asian Kenyans|Asian]] [[real estate]] ownership in prime locations reflected the historical dominance of [[Asian Kenyans|Asian]] merchants in [[Kenyan]] [[commerce]].
+[[Asian Kenyans|Asian]] families accumulated substantial holdings in [[Nairobi]] and [[Mombasa]] commercial [[real estate]] over decades. These property holdings represented both business operations (shops, offices, warehouses) and investment assets. [[Real estate]] ownership provided rental income, store locations for retail operations, and security in the form of tangible assets that could be leveraged for credit. The concentration of [[Asian Kenyans|Asian]] [[real estate]] ownership in prime locations reflected the historical dominance of [[Asian Kenyans|Asian]] merchants in [[Kenya]] [[commerce]].
 
 ## Colonial Period Real Estate Accumulation
 
@@ -57,7 +57,7 @@ Asian property owners periodically faced challenges and restrictions on their pr
 - [[Asian Kenyans and Land]]
 - [[Asian Commercial Districts Colonial]]
 - [[Asian Property Losses Kenya]]
-- [[Nairobi real estate]]
+- [[Nairobi]]
 - [[Property ownership Kenya]]
 
 ## Sources

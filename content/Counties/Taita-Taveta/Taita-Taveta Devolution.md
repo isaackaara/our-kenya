@@ -23,9 +23,9 @@ Despite these challenges, devolution has created opportunities for more localize
 - [[County Government Kenya]]
 - [[Local Governance]]
 - [[Public Service Kenya]]
-- [[Health Services]]
-- [[Education in Taita-Taveta]]
-- [[Water Resources]]
+- [[Health]]
+- [[Education]]
+- [[Bomet Water Resources]]
 
 ## Sources
 1. Taita-Taveta County Government. "County Integrated Development Plan 2022-2027." (2022). https://www.taitataveta.go.ke

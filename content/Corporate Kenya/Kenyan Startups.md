@@ -18,7 +18,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 - [[Fintech Kenya]]
 - [[Kenya Economic Overview]]
-- [[Technology Sector Kenya]]
+- [[Technology]]
 - [[M-Pesa Economic Impact]]
 - [[Konza Technopolis]]
 - [[Venture Capital Kenya]]

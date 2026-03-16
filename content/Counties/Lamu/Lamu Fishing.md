@@ -28,7 +28,7 @@ The future of fishing in Lamu is uncertain. The [[LAPSSET Lamu|LAPSSET]] port de
 - [[Bajuni People|Bajuni People]]
 - [[Lamu Marine Environment|Lamu Marine Environment]]
 - [[Lamu Climate Change|Lamu Climate Change]]
-- [[Lamu Economic History|Lamu Economic History]]
+- [[Lamu|Lamu Economic History]]
 - [[Lamu Town|Lamu Town]]
 - [[Lamu Youth|Lamu Youth]]
 

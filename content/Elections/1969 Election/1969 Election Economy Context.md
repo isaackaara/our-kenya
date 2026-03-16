@@ -13,11 +13,11 @@ The economic context of 1969 thus provided the government with justification for
 ## See Also
 
 - [[1969 Election]]
-- [[Kenya Economic Development]]
+- [[Kenya]]
 - [[Africanization Policies]]
 - [[Foreign Investment Kenya]]
 - [[Agricultural Economy Kenya]]
-- [[Income Inequality Kenya]]
+- [[Income Inequality]]
 - [[Development Strategy Kenya]]
 
 ## Sources

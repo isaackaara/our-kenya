@@ -11,12 +11,12 @@ Key political figures were affected by the 1988 election. Kenneth Matiba and Cha
 The 1988 election was a catastrophic exercise in electoral manipulation that backfired on Moi's government by demonstrating the regime's willingness to rig elections brazenly and by provoking public resistance that would ultimately end one-party rule.
 
 ## See Also
-- [[Mlolongo System]]
+- [[1988 Election Mlolongo System]]
 - [[Daniel arap Moi]]
-- [[1988 Election Rigging]]
-- [[Saba Saba]]
+- [[1988 Election Rigging Mechanism]]
+- [[Saba Saba 1990]]
 - [[Second Liberation Kenya]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

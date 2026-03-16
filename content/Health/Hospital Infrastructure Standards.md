@@ -1,4 +1,4 @@
-Hospital infrastructure and standards in Kenya represent a foundational component of the health system, establishing requirements for facility design, equipment, staffing, and service capabilities. The Kenya Essential Package for Health (KEPH) defines facility levels from community health worker units through tertiary referral hospitals, with specific infrastructure standards for each level. The [[Ministry of Health]] established health facility norms and standards defining hospital bed requirements, ward configurations, equipment needs, and utility requirements for facilities at different levels. These standards guide facility development planning and quality assessment, ensuring consistent minimum quality across the country.
+Hospital infrastructure and standards in Kenya represent a foundational component of the health system, establishing requirements for facility design, equipment, staffing, and service capabilities. The Kenya Essential Package for Health (KEPH) defines facility levels from community health worker units through tertiary referral hospitals, with specific infrastructure standards for each level. The [[Health]] established health facility norms and standards defining hospital bed requirements, ward configurations, equipment needs, and utility requirements for facilities at different levels. These standards guide facility development planning and quality assessment, ensuring consistent minimum quality across the country.
 
 County hospitals represent the secondary facility level providing emergency obstetric and neonatal care (EmONC), surgical services, and management of serious illness. Infrastructure requirements include operating theaters with proper ventilation and sterilization equipment, delivery suites for facility-based deliveries and obstetric emergencies, pediatric wards for child admission, and isolation facilities for infectious disease management. Oxygen delivery systems represent a critical infrastructure component for managing respiratory conditions, particularly relevant during COVID-19 and for chronic respiratory disease patients. Many facilities lack adequate oxygen supply, limiting management capacity for hypoxic patients.
 
@@ -10,7 +10,7 @@ Challenges to maintaining infrastructure standards include inadequate government
 
 ## See Also
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Health Infrastructure Kenya|Health Infrastructure Kenya]]
+[[Health|Health Infrastructure Kenya]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
 [[Urban Slum Health Services|Urban Slum Health Services]]
 [[COVID-19 Pandemic Kenya|COVID-19 Pandemic Kenya]]

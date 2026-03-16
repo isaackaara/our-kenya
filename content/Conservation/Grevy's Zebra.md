@@ -73,7 +73,7 @@ Grevy's zebra conservation depends on continued habitat protection and community
 - [[Northern Kenya Rangelands]]
 - [[Northern Rangelands Trust]]
 - [[Community Conservancies Model]]
-- [[Endangered Species Conservation]]
+- [[Conservation]]
 - [[Habitat Protection Kenya]]
 - [[Pastoral Communities and Wildlife]]
 - [[Climate Change and Wildlife]]

@@ -20,8 +20,8 @@ The absence of formal opposition did not mean the absence of dissent or disagree
 - [[KANU Party]]
 - [[1974 Election]]
 - [[1974 Election KANU Primary]]
-- [[Kenya Political System 1964-1978]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
+- [[Kenya]]
 - [[Civil Society Kenya]]
 
 ## Sources

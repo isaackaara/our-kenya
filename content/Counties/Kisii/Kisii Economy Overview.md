@@ -29,7 +29,7 @@ These sectors employ the majority of the county's population.
 - [[Kisii Dairy|Dairy Farming]]
 - [[Kisii Soapstone|Soapstone Carving]]
 - [[Kisii Agriculture|Agriculture]]
-- [[Kisii Trade and Commerce|Trade]]
+- [[Kisii|Trade]]
 
 Tea provides economic foundation for the county.
 

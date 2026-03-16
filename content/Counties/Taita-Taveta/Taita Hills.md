@@ -18,7 +18,7 @@ In the contemporary period, the Taita Hills face significant challenges from pop
 - [[Taita-Taveta County]]
 - [[Tsavo East National Park]]
 - [[Taita-Taveta Agriculture]]
-- [[Conservation in Kenya]]
+- [[Conservation]]
 - [[Lake Chala]]
 
 ## Sources

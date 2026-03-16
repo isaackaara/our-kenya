@@ -19,7 +19,7 @@ The 1997 election, while not delivering presidential victory for Raila, did esta
 - [[Raila Odinga]]
 - [[2002 Election Raila Odinga]]
 - [[Nyanza Province politics]]
-- [[Luo politics in Kenya]]
+- [[Luo]]
 
 ## Sources
 

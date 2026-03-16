@@ -15,12 +15,12 @@ Government spending on development projects was visible and celebrated during th
 However, there were emerging concerns about the sustainability of the high government spending and the economic policies pursued since independence. The government's expenditures sometimes exceeded revenues, and deficits were funded through borrowing. Inflation was beginning to accelerate. These issues would become more serious economic problems in the late 1970s and 1980s, but in 1974, they were not yet critical issues dominating political debate.
 
 ## See Also
-- [[Kenya Economy 1970s]]
+- [[Kenya]]
 - [[1974 Election]]
 - [[1974 Election Development Agenda]]
 - [[Coffee Production Kenya]]
 - [[Harambee]]
-- [[Kenya Political Economy]]
+- [[Kenya]]
 
 ## Sources
 1. Killick, Tony. "A Reaction Too Far: Economic Theory and the Role of the State in Developing Countries." London School of Economics, 1989.

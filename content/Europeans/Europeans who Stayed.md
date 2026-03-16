@@ -2,7 +2,7 @@ While the majority of European settlers left Kenya after independence (1963), a 
 
 ## The Exodus and the Remaining
 
-At [[Kenyan independence]], approximately 60,000-80,000 Europeans lived in Kenya. In the decade following independence, the vast majority left. By the 1970s, the European population had declined to approximately 25,000-35,000. Contemporary estimates suggest 30,000-70,000 Europeans (including settler descendants, professional expatriates, and recent arrivals) live in Kenya, a much smaller and more diverse community than colonial-era settlers.
+At [[Kenyan Independence Music Scene Overview]], approximately 60,000-80,000 Europeans lived in Kenya. In the decade following independence, the vast majority left. By the 1970s, the European population had declined to approximately 25,000-35,000. Contemporary estimates suggest 30,000-70,000 Europeans (including settler descendants, professional expatriates, and recent arrivals) live in Kenya, a much smaller and more diverse community than colonial-era settlers.
 
 Those who remained included:
 

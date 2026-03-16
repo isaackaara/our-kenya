@@ -10,7 +10,7 @@ The initiation of forest dispossession during the colonial period established pa
 
 ## See Also
 
-[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Land Dispossession]] | [[Forest Rights Land]] | [[Mau Forest]] | [[Kenya Forest Service Policy]] | [[Eviction Forest Lands]]
+[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Land\ Dispossession]] | [[Forest\ Rights\ Land]] | [[Mau Forest]] | [[Kenya]] | [[Eviction\ Forest\ Lands]]
 
 ## Sources
 

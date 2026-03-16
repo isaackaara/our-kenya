@@ -2,7 +2,7 @@
 title: Kenya Tanzania Border
 ---
 
-The [[Kenya Tanzania Border]] represents one of [[East African Community]]'s most significant international boundaries, dividing the [[Maasai Borders]] pastoral lands and separating two of the region's major economies. It is also the subject of a famous (and probably false) legend.
+The [[Kenya]] represents one of [[East African Community]]'s most significant international boundaries, dividing the [[Maasai]] pastoral lands and separating two of the region's major economies. It is also the subject of a famous (and probably false) legend.
 
 ## The Kilimanjaro Legend
 
@@ -16,7 +16,7 @@ Kilimanjaro did become part of German East Africa and later Tanganyika due to di
 
 The Kenya-Tanzania border was established through a series of agreements between Britain and Germany in the 1880s-1890s:
 
-**1886 Anglo-German Agreement**: Britain and Germany agreed on spheres of influence in East Africa. Britain's sphere would become Kenya, and Germany's would become [[German East Africa]].
+**1886 Anglo-German Agreement**: Britain and Germany agreed on spheres of influence in East Africa. Britain's sphere would become Kenya, and Germany's would become [[East Africa]].
 
 **The Border Line**: The border was established as a relatively straight line running from the Indian Ocean coast northwestward through the Kilimanjaro region and continuing to the Uganda border. The line was drawn with minimal regard for the geography or populations it divided.
 
@@ -57,7 +57,7 @@ However, these disputes have remained relatively minor compared to Kenya's tensi
 
 ## Modern Cross-Border Trade and Movement
 
-Today, the [[Kenya Tanzania Border]] at Namanga is one of [[East African Community]]'s busiest border crossings, with significant:
+Today, the [[Kenya]] at Namanga is one of [[East African Community]]'s busiest border crossings, with significant:
 
 - Trade in agricultural products
 - Passenger traffic (buses and matatus connecting Nairobi to Dar es Salaam)
@@ -67,11 +67,11 @@ However, non-tariff barriers, inefficient customs procedures, and occasional tra
 
 ## See Also
 
-- [[Berlin Conference East Africa]]
-- [[Maasai Borders]]
+- [[East Africa]]
+- [[Maasai]]
 - [[Mount Kilimanjaro]]
 - [[EAC Common Market]]
-- [[German East Africa]]
+- [[East Africa]]
 - [[EAC Political Federation]]
 - [[East Africa Timeline]]
 

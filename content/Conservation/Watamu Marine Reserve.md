@@ -1,4 +1,4 @@
-Watamu Marine National Park, located on Kenya's north coast south of Malindi, protects [[coral reefs]], [[mangrove forests]], and associated [[marine life]]. The reserve is particularly significant for [[sea turtle]] conservation, with multiple sea turtle species nesting on Watamu beaches. The reserve combines conservation of [[marine ecosystems]] with tourism development and community livelihoods.
+Watamu Marine National Park, located on Kenya's north coast south of Malindi, protects [[coral reefs]], [[mangrove forests]], and associated [[Marine Life Kenya]]. The reserve is particularly significant for [[sea turtle]] conservation, with multiple sea turtle species nesting on Watamu beaches. The reserve combines conservation of [[marine ecosystems]] with tourism development and community livelihoods.
 
 ## Geographic Location and Protected Area Status
 
@@ -65,9 +65,9 @@ Coordination among multiple stakeholders (park management, tourism operators, fi
 ## See Also
 
 - [[Marine Protected Areas]] - Conservation designation
-- [[Sea Turtle Conservation]] - Species focus
-- [[Coral Reef Conservation]] - Ecosystem protection
-- [[Fishing communities]] - Livelihood impacts
+- [[Conservation]] - Species focus
+- [[Conservation]] - Ecosystem protection
+- [[Siaya Fishing Communities]] - Livelihood impacts
 - [[Climate Change and Wildlife]] - Warming threats
 - [[Tourism Revenue and Communities]] - Economic benefits
 - [[Malindi Marine Reserve]] - Adjacent protected area

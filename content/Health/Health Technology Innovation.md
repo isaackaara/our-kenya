@@ -46,7 +46,7 @@ Intellectual property and technology transfer issues affect availability of inno
 [[Telemedicine Services Development]]
 [[Mobile Health Applications]]
 [[Health Information Systems]]
-[[Healthcare Technology Innovation]]
+[[Health]]
 [[Hospital Infrastructure Standards]]
 [[Medical Equipment Supplies]]
 [[Healthcare Policy Evolution]]

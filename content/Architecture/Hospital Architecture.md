@@ -14,7 +14,7 @@ The development of infectious disease wards, particularly to address tuberculosi
 
 ## See Also
 
-[[Clinic Infrastructure]], [[Health Infrastructure]], [[Modern Construction Techniques]], [[Colonial Architecture]], [[Nairobi Built Environment]], [[Public Health]], [[Education]]
+[[Clinic Infrastructure]], [[Health]], [[Modern Construction Techniques]], [[Colonial Architecture]], [[Nairobi Built Environment]], [[Public Health Communication]], [[Education]]
 
 ## Sources
 

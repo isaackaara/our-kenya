@@ -2,10 +2,10 @@ Kenya's media played contested roles during the election and post-election viole
 
 ## See Also
 
-- [[2007 post-election violence]]
-- [[Media and elections Kenya]]
+- [[Post-Election Violence]]
+- [[Media]]
 - [[Hate speech Kenya]]
-- [[Media regulation Kenya]]
+- [[Media]]
 - [[Radio broadcasts Kenya]]
 
 ## Sources

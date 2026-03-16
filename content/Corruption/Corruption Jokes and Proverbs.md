@@ -54,7 +54,7 @@ The normalization of [[Corruption Networks Kenya|corruption]] through humor and 
 - [[Corruption Measurement and Statistics]]
 - [[Civil Service Salaries and Petty Corruption]]
 - [[Corruption Networks Kenya]]
-- [[Normalization of Corruption]]
+- [[Corruption]]
 
 ## Sources
 

@@ -2,7 +2,7 @@ Kenyans in the United Arab Emirates represent a significant Arab-African diaspor
 
 The UAE diaspora differs structurally from Western communities. Rather than permanent settlement, UAE residence typically follows a [[Immigration Policies Kenyans|temporary labour contract model]], where individuals work for specified periods and either return to Kenya or migrate onward. Sponsorship systems tied employment to specific employers, creating unique labour dynamics. This temporary orientation shapes community formation, with fewer family-based settlements and weaker institutional establishment compared to permanent diaspora destinations.
 
-Sectoral employment distribution reflects UAE economic structure and labour demand. Construction and real estate sectors employed substantial Kenyan workers during the initial boom phases of Dubai and Abu Dhabi development. [[Kenyan Tech Professionals|Technology professionals]] entered service sectors supporting the UAE's digital transformation initiatives. [[Kenyans Hospitality and Tourism]] worked in hotels, restaurants, and tourism industries. Domestic workers, predominantly female, formed significant labour migration cohorts to UAE households.
+Sectoral employment distribution reflects UAE economic structure and labour demand. Construction and real estate sectors employed substantial Kenyan workers during the initial boom phases of Dubai and Abu Dhabi development. [[Kenyan Tech Professionals|Technology professionals]] entered service sectors supporting the UAE's digital transformation initiatives. [[Kenya]] worked in hotels, restaurants, and tourism industries. Domestic workers, predominantly female, formed significant labour migration cohorts to UAE households.
 
 Economic contributions flow primarily through [[Remittances Kenya Economy|individual remittances]] rather than business investment. UAE-based Kenyans remit through formal and informal channels, with formal transfers subject to [[Remittance Regulation|regulation]] by Central Bank of Kenya. These remittances support household consumption, education, and health services in Kenya. [[Business Remittances Impact|Business-focused remittances]] finance small-scale entrepreneurship in Kenya, though direct [[Diaspora Entrepreneurship|diaspora entrepreneurship]] remains limited compared to Western locations.
 
@@ -19,7 +19,7 @@ Healthcare and education access patterns reflect UAE labour conditions. [[Diaspo
 - [[Kenyans Canada]]
 - [[Immigration Policies Kenyans]]
 - [[Remittance Corridor Development]]
-- [[Labour and Employment Abroad]]
+- [[Labour]]
 - [[Skilled Worker Exodus]]
 
 ## Sources

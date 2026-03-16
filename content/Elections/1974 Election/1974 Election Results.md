@@ -22,7 +22,7 @@ The 1974 results were presented as a mandate for Kenyatta's continued rule and f
 - [[1974 Election Regional Patterns]]
 - [[Parliament of Kenya]]
 - [[KANU Party]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya: A Reappraisal." Eastern Africa Studies, 1976.

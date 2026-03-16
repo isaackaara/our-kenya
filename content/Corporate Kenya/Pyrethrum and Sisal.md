@@ -10,7 +10,7 @@ Pyrethrum and sisal were important colonial-era cash crops that defined regional
 
 ## Sisal
 
-**Origins** - [[Sisal]] (agave) was grown primarily on the [[Coast Kenya|Coast]] and in [[Eastern Kenya]] for its fibre, used in rope and twine.
+**Origins** - [[Kisa]] (agave) was grown primarily on the [[Coast Kenya|Coast]] and in [[Uhuru and North Eastern Kenya]] for its fibre, used in rope and twine.
 
 **Market** - Sisal had global demand for shipping rope, agricultural twine, and other uses. By the 1970s, sisal was a significant crop.
 
@@ -23,7 +23,7 @@ Both crops left legacies in their production regions. Rift Valley communities gr
 ## See Also
 
 - [[Agricultural History Kenya]]
-- [[Colonial Economy Kenya]]
+- [[Colonial Economy]]
 - [[Export Crops Kenya]]
 - [[Regional Economic Development Kenya]]
 - [[Post-Colonial Agriculture]]

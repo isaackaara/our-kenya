@@ -23,8 +23,8 @@ The experience of the 1974 election provided a baseline against which subsequent
 - [[1978 Succession]]
 - [[1979 Election]]
 - [[1983 Election]]
-- [[Kenya Political System 1964-1978]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

@@ -24,7 +24,7 @@ JKIA is East Africa's premier airport facility:
 
 **Hub Function**: Most [[East African Community]] travelers to Europe, Asia, North America, and the Middle East connect through [[JKIA Airport]].
 
-**Connecting Passengers**: A significant portion of [[JKIA Airport]]'s passenger traffic is connecting traffic, not originating in or destined for [[Nairobi Regional Hub]].
+**Connecting Passengers**: A significant portion of [[JKIA Airport]]'s passenger traffic is connecting traffic, not originating in or destined for [[Nairobi]].
 
 **Airlines**: Multiple international airlines use [[JKIA Airport]] as a regional hub, with Kenya Airways (Kenya's national carrier) making [[JKIA Airport]] its primary hub.
 
@@ -133,12 +133,12 @@ JKIA's future development involves:
 
 ## See Also
 
-- [[Nairobi Regional Hub]]
+- [[Nairobi]]
 - [[Mombasa Port]]
-- [[East African Internet Hub]]
-- [[Kenya in East Africa]]
-- [[East African Community History]]
-- [[LAPSSET Corridor]]
+- [[East Africa]]
+- [[Kenya]]
+- [[East African Community]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
 - [[East Africa Timeline]]
 
 ## Sources

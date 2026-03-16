@@ -51,7 +51,7 @@ Pre-1500: Archaeological evidence indicates human settlement along the Tana Rive
 - [[Tana River Conflict|Tana River Conflict]]
 - [[Hola Massacre|Hola Massacre]]
 - [[Tana River Politics|Tana River Politics]]
-- [[Kenya History|Kenya History]]
+- [[Kenya|Kenya History]]
 - [[Tana River (the river)|Tana River (the river)]]
 
 ## Sources

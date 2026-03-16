@@ -3,10 +3,10 @@ International observers and foreign governments responded to the 1988 election w
 ## See Also
 - [[1988 Election]]
 - [[Daniel arap Moi]]
-- [[Kenya International Relations]]
-- [[Kenya Human Rights]]
+- [[Kenya]]
+- [[Kenya]]
 - [[Cold War Africa]]
-- [[Kenya Democracy]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

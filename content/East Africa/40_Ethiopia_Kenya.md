@@ -6,13 +6,13 @@ title: Ethiopia Kenya
 
 ## Shared Border Communities
 
-The [[Kenya Ethiopia Border]] divides pastoral communities:
+The [[Kenya]] divides pastoral communities:
 
 **Oromo**: Oromo-speaking peoples span both nations, with distinct political identities (Kenyan Oromo vs. Ethiopian Oromo) shaped by national boundaries.
 
-**Borana, Gabra, Rendille**: Pastoral communities in the northern border region maintain cross-border kinship and historical migrations disrupted by [[Kenya Ethiopia Border|modern borders]].
+**Borana, Gabra, Rendille**: Pastoral communities in the northern border region maintain cross-border kinship and historical migrations disrupted by [[Kenya|modern borders]].
 
-**Turkana-Dassanach Conflict**: Northern Kenya's Turkana people conflict with Ethiopia's Dassanach across the [[Kenya Ethiopia Border]], particularly over water and grazing rights.
+**Turkana-Dassanach Conflict**: Northern Kenya's Turkana people conflict with Ethiopia's Dassanach across the [[Kenya]], particularly over water and grazing rights.
 
 ## Historical Relationship
 
@@ -42,11 +42,11 @@ A major contemporary issue involves water resources:
 
 A major contemporary infrastructure project involves both nations:
 
-**Project Scope**: The [[LAPSSET Corridor]] is intended to connect [[Lamu Port]]-South Sudan-Ethiopia via pipeline, railway, and roads.
+**Project Scope**: The [[Uhuru and Lamu Port LAPSSET Corridor]] is intended to connect [[Lamu Port]]-South Sudan-Ethiopia via pipeline, railway, and roads.
 
 **Strategic Logic**: The corridor aims to provide Ethiopia (landlocked) with port access and create a major trade route.
 
-**Kenyan Investment**: Kenya has invested significantly in [[LAPSSET Corridor]] development and ports.
+**Kenyan Investment**: Kenya has invested significantly in [[Uhuru and Lamu Port LAPSSET Corridor]] development and ports.
 
 **Regional Significance**: The corridor, if completed, would reshape regional trade patterns and reduce Ethiopia's and South Sudan's dependence on Djibouti's port.
 
@@ -98,12 +98,12 @@ Kenya and Ethiopia maintain trade relationships:
 
 ## See Also
 
-- [[Kenya Ethiopia Border]]
-- [[East African Droughts]]
-- [[LAPSSET Corridor]]
-- [[Kenya in East Africa]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
+- [[Kenya]]
 - [[Lake Victoria]]
-- [[Somalia Collapse]]
+- [[Somalia]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -11,7 +11,7 @@ Strengthening drug addiction prevention and treatment requires public education 
 ## See Also
 [[Substance Abuse Treatment|Substance Abuse Treatment]]
 [[Mental Health Services|Mental Health Services]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Urban Slum Health Services|Urban Slum Health Services]]
 [[Occupational Health Safety|Occupational Health Safety]]

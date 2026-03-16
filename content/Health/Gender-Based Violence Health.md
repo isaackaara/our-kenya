@@ -11,8 +11,8 @@ Prevention of GBV requires coordinated approaches addressing underlying gender i
 ## See Also
 [[Mental Health Services|Mental Health Services]]
 [[Reproductive Health Services|Reproductive Health Services]]
-[[Women's Health and Development|Women]]
-[[Poverty and Health|Poverty]]
+[[Women|Women]]
+[[Poverty|Poverty]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Occupational Health Safety|Occupational Health Safety]]
 

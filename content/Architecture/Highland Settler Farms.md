@@ -12,7 +12,7 @@ Post-independence land reform transferred some highland farms to African ownersh
 
 ## See Also
 
-[[Colonial Architecture]], [[Residential Architecture]], [[Land Dispossession]], [[Colonial Kenya]], [[Presidencies]], [[Corruption]]
+[[Colonial Architecture]], [[Residential Architecture]], [[Land\ Dispossession]], [[Colonial Kenya]], [[Presidencies]], [[Corruption]]
 
 ## Sources
 

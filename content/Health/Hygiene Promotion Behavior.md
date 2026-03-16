@@ -39,7 +39,7 @@ Hygiene-related disease burden is substantial. Diarrheal disease, respiratory in
 [[Public Health Communication]]
 [[Environmental Health Hazards]]
 [[Diarrhea Dehydration Management]]
-[[Parasitic Diseases]]
+[[Hookworm Parasitic Diseases]]
 [[Poverty]]
 [[Rural Healthcare Access]]
 

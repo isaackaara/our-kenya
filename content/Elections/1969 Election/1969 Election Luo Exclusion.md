@@ -17,8 +17,8 @@ The 1969 election thus ratified the political marginalization of the Luo and est
 - [[Oginga Odinga]]
 - [[1969 Election Kisumu Massacre]]
 - [[Ethnic Politics Kenya]]
-- [[Luo Community Kenya]]
-- [[Political Representation Kenya]]
+- [[Luo]]
+- [[Somali Political Representation Kenya]]
 
 ## Sources
 

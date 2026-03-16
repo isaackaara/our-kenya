@@ -18,7 +18,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 - [[Energy Sector Kenya]]
 - [[Petroleum Kenya]]
-- [[Infrastructure Kenya]]
+- [[IT Infrastructure Kenya]]
 - [[Parastatals Kenya]]
 - [[Kenya Economic Overview]]
 - [[Manufacturing History Kenya]]

@@ -1,8 +1,8 @@
-The relationship between the established [[Asian business community]] and the newer [[Somali business community]] in [[Nairobi]] involves both competition and collaboration. Somalis, a distinct East African ethnic group displaced by civil war in Somalia, have developed significant business and trading networks in Nairobi over recent decades. These communities sometimes compete in the same markets but also sometimes collaborate in business activities. The relationship between these communities reflects broader dynamics of economic competition and integration.
+The relationship between the established [[Asian business community]] and the newer [[Somali]] in [[Nairobi]] involves both competition and collaboration. Somalis, a distinct East African ethnic group displaced by civil war in Somalia, have developed significant business and trading networks in Nairobi over recent decades. These communities sometimes compete in the same markets but also sometimes collaborate in business activities. The relationship between these communities reflects broader dynamics of economic competition and integration.
 
 ## Somali Immigration to Kenya
 
-Large numbers of Somali refugees arrived in Kenya during the [[Somali civil war]] that began in 1991. While some Somalis have settled in refugee camps (such as Dadaab), significant numbers have settled in urban areas, particularly Nairobi. Somali communities in Nairobi have become economically significant through business and trading activities. This immigration created a new visible ethnic minority in Nairobi.
+Large numbers of Somali refugees arrived in Kenya during the [[Somali]] that began in 1991. While some Somalis have settled in refugee camps (such as Dadaab), significant numbers have settled in urban areas, particularly Nairobi. Somali communities in Nairobi have become economically significant through business and trading activities. This immigration created a new visible ethnic minority in Nairobi.
 
 ## Somali Business Development
 

@@ -44,8 +44,8 @@ The handshake is not a permanent settlement. It is a pause. The cycle continues.
 - [[Ethnic Arithmetic in Politics]]
 - [[Electoral Violence Kenya]]
 - [[Political Coalitions and Nation-Building]]
-- [[Kenya's Power-Sharing Arrangements]]
+- [[Kenya]]
 
 ## Related
 
-[[The Luo-Kikuyu Axis]] | [[Jomo Kenyatta]] | [[Mwai Kibaki]] | [[../Kikuyu/Uhuru Kenyatta]] | [[The Handshake 2018]] | [[Oginga Odinga]] | [[Raila Odinga]]
+[[The Luo-Kikuyu Axis]] | [[Jomo Kenyatta]] | [[Mwai Kibaki]] | [[Uhuru Kenyatta]] | [[The Handshake 2018]] | [[Oginga Odinga]] | [[Raila Odinga]]

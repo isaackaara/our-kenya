@@ -13,8 +13,8 @@ The social impacts of miraa wealth have been substantial. Many growers and trade
 [[Tharaka-Nithi County|Tharaka-Nithi County]]
 [[Chuka Town|Chuka Town]]
 [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
-[[Tharaka-Nithi Youth|Tharaka-Nithi Youth]]
-[[Tharaka-Nithi Women|Tharaka-Nithi Women]]
+[[Tharaka|Tharaka-Nithi Youth]]
+[[Tharaka|Tharaka-Nithi Women]]
 [[../../Economic/Miraa Trade|Miraa Trade]]
 
 ## Sources

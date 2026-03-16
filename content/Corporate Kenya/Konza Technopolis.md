@@ -16,10 +16,10 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 ## See Also
 
-- [[Technology Sector Kenya]]
-- [[Vision 2030 Kenya]]
+- [[Technology]]
+- [[Vision 2030]]
 - [[Digital Economy Kenya]]
-- [[Infrastructure Kenya]]
+- [[IT Infrastructure Kenya]]
 - [[Nairobi Tech Hub]]
 - [[Kenyan Startups]]
 - [[Internet Kenya]]

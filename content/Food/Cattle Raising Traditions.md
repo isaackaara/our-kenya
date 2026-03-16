@@ -8,7 +8,7 @@ Colonial period changes disrupted pastoral cattle systems fundamentally. Land al
 
 Post-independence cattle development emphasized commercialization and improved productivity. Government promoted improved breeds, particularly European breeds crossed with local stock, claiming productivity advantages. Artificial insemination, feed supplementation, and intensive veterinary services supported commercial dairy and beef production in suitable zones. Large-scale commercial farms owned by foreign investors or wealthy Kenyans established modern cattle ranches and dairy operations.
 
-Smallholder dairy production expanded through cooperatives and collection systems. The [[Kenya Cooperative Creameries]] and other dairy cooperatives collected milk from smallholder farmers, processed it, and marketed dairy products. Smallholders adopted improved dairy breeds, though many continued using local cattle adapted to their conditions. Dairy production required substantial feed and water inputs, limiting adoption to farmers with adequate resources and market access.
+Smallholder dairy production expanded through cooperatives and collection systems. The [[Kenya]] and other dairy cooperatives collected milk from smallholder farmers, processed it, and marketed dairy products. Smallholders adopted improved dairy breeds, though many continued using local cattle adapted to their conditions. Dairy production required substantial feed and water inputs, limiting adoption to farmers with adequate resources and market access.
 
 Beef cattle production utilized pastoral ranches in arid and semi-arid zones, with commercial operations raising cattle for meat export. However, pastoral communities continued traditional cattle raising despite pressures toward commercialization, as cattle remained culturally central and economically important despite reduced grazing territories and ecological stress.
 
@@ -18,7 +18,7 @@ Modern cattle raising reflects tensions between traditional pastoral knowledge s
 
 [[Livestock Farming Systems]]
 [[Pastoralism Food Production]]
-[[Maasai Pastoral Systems]]
+[[Maasai]]
 [[Dairy Industry Development]]
 [[Beef Production Chain]]
 [[Land Distribution Kenya]]

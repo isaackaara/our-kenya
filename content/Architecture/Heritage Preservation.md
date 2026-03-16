@@ -18,7 +18,7 @@ The challenges of heritage preservation in Kenya include limited financial resou
 [[Conservation Efforts]]
 [[Urban Renewal Projects]]
 [[Cultural Heritage]]
-[[Tourism Infrastructure]]
+[[Kenyatta and tourism infrastructure]]
 
 ## Sources
 

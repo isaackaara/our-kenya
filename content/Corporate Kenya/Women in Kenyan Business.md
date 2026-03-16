@@ -1,8 +1,8 @@
-Women represent a growing but still underrepresented share of Kenya's business owners and corporate leadership. Female [[entrepreneurs Kenya|entrepreneurs]] face barriers to [[capital access Kenya|capital access]], [[business networks Kenya|business networks]], and [[gender discrimination Kenya|gender discrimination]], though progress is being made through [[women-focused initiatives Kenya|women-focused initiatives]].
+Women represent a growing but still underrepresented share of Kenya's business owners and corporate leadership. Female [[entrepreneurs Kenya|entrepreneurs]] face barriers to [[capital access Kenya|capital access]], [[business networks Kenya|business networks]], and [[gender discrimination Kenya|gender discrimination]], though progress is being made through [[Women|women-focused initiatives]].
 
 ## Overview
 
-Female participation in [[business Kenya|business]] varies by [[sector Kenya|sector]]. Women dominate [[informal sector Kenya|informal sector]] activities (small-scale trading, services) but remain rare in [[formal enterprises Kenya|formal enterprises]] and [[corporate leadership Kenya|corporate leadership]].
+Female participation in [[business Kenya|business]] varies by [[Pension Sector Kenya|sector]]. Women dominate [[Informal Sector|informal sector]] activities (small-scale trading, services) but remain rare in [[formal enterprises Kenya|formal enterprises]] and [[corporate leadership Kenya|corporate leadership]].
 
 ## Key Points
 
@@ -13,15 +13,15 @@ Female participation in [[business Kenya|business]] varies by [[sector Kenya|sec
 
 ## Outlook
 
-Policy focus on [[women entrepreneur support Kenya|women entrepreneur support]] and [[gender equity Kenya|gender equity]] is increasing.
+Policy focus on [[Women|women entrepreneur support]] and [[gender equity Kenya|gender equity]] is increasing.
 
 ## See Also
 
 - [[Gender Equity Kenya]]
-- [[Women Entrepreneurs Kenya]]
+- [[Women]]
 - [[Female Leadership Kenya]]
 - [[Business Access to Capital Kenya]]
-- [[Informal Sector Kenya]]
+- [[Informal Sector]]
 - [[Agricultural Smallholders Kenya]]
 - [[Inclusive Growth Kenya]]
 

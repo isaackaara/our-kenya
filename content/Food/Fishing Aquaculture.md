@@ -8,7 +8,7 @@ Fish processing and preservation methods evolved alongside commercial developmen
 
 Marine fishing operates along Kenya's Indian Ocean coast, concentrated around Mombasa and smaller ports. Traditional [[Maasai|coastal]] fishing communities possessed extensive knowledge of fish species, seasonal patterns, and sustainable harvest practices. Commercial expansion brought larger vessels, fishing gear with greater catching capacity, and connections to urban markets and export opportunities. However, expanded effort brought concerns about resource depletion and marine ecosystem impacts.
 
-Aquaculture development began slowly in Kenya compared to regional neighbors. Fish farming in ponds and tanks developed in various regions, particularly in western and central areas. [[Farming Development|Fish farming]] offered potential to increase supply without depending on increasingly stressed natural water bodies, and to reduce fishing effort on marine stocks. However, adoption remained limited due to technical knowledge requirements, capital investment needs, and market access challenges for smallholders.
+Aquaculture development began slowly in Kenya compared to regional neighbors. Fish farming in ponds and tanks developed in various regions, particularly in western and central areas. [[Fish Farming Development|Fish farming]] offered potential to increase supply without depending on increasingly stressed natural water bodies, and to reduce fishing effort on marine stocks. However, adoption remained limited due to technical knowledge requirements, capital investment needs, and market access challenges for smallholders.
 
 Fishing and aquaculture livelihoods created employment and food security for coastal and lakeside communities. However, livelihood vulnerabilities emerged as commercial overfishing reduced catches, and as climate-driven water scarcity stressed freshwater fish populations. Conflict over fishing rights, gear regulations, and resource access became increasingly prominent from the 1990s onward, as catch declines and livelihood competition intensified.
 
@@ -17,10 +17,10 @@ Fishing and aquaculture livelihoods created employment and food security for coa
 [[Lake Fish Industry]]
 [[Ocean Fish Harvesting]]
 [[Artisanal Fishing Practices]]
-[[Luo Culture Food]]
+[[Luo]]
 [[Water Resources Management]]
 [[Coastal Economics]]
-[[Marine Conservation]]
+[[Conservation]]
 
 ## Sources
 

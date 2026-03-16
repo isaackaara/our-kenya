@@ -12,7 +12,7 @@ Turnout increased to approximately 65-70 percent of registered voters, higher th
 - [[Electoral Commission of Kenya]]
 - [[2002 Election NARC Coalition]]
 - [[Moi's defeat]]
-- [[Kenya's electoral history]]
+- [[Kenya]]
 - [[1997 Election Results]]
 
 ## Sources

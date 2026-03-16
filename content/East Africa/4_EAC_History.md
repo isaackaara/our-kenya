@@ -6,7 +6,7 @@ The East African Community has experienced dramatic cycles of integration, colla
 
 ## The First EAC (1967-1977)
 
-When [[Kenya in East Africa]], Tanzania, and Uganda gained independence in the early 1960s, their leaders envisioned a united East Africa. In 1967, they established the [[East African Community]], creating:
+When [[Kenya]], Tanzania, and Uganda gained independence in the early 1960s, their leaders envisioned a united East Africa. In 1967, they established the [[East African Community]], creating:
 
 - A customs union with a common external tariff
 - A common market with free movement of goods and capital
@@ -76,8 +76,8 @@ The most ambitious goal remains an East African Political Federation, which woul
 - [[EAC Common Market]]
 - [[EAC Political Federation]]
 - [[EAC Expansion]]
-- [[Kenya Tanzania Border]]
-- [[Zanzibar Revolution]]
+- [[Kenya]]
+- [[Zanzibar]]
 - [[East Africa Timeline]]
 
 ## Sources

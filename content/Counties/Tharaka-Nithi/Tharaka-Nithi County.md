@@ -2,11 +2,11 @@ Tharaka-Nithi County sits on the eastern slopes of [[Mount Kenya National Park|M
 
 Two distinct Bantu-speaking communities inhabit Tharaka-Nithi, each with their own economies, settlement patterns, and cultural traditions. The [[Tharaka People County|Tharaka]] occupy the dry lowlands in the eastern portions of the county, traditionally pastoral and semi-pastoral peoples known for livestock herding, millet cultivation, and an ancient tradition of cliff beekeeping that remains central to their identity. The [[Chuka Mwimbi People|Chuka and Mwimbi]] communities live on the mountain slopes, closely related to the larger [[Meru|Meru]] ethnic group, and have historically focused on sedentary agriculture including coffee, tea, and food crops suited to higher altitudes and reliable rainfall.
 
-The county's economy revolves around [[Tharaka-Nithi Miraa|miraa (khat) cultivation]], which dominates cash crop production and drives the regional trade system. Chuka functions as one of East Africa's largest miraa markets, with bundles exported daily to Somalia, Ethiopia, and across the horn of Africa via informal networks that predate modern borders. Beyond miraa, the [[Tharaka-Nithi Coffee|coffee estates]] on the mountain slopes generate significant income, [[Tharaka-Nithi Tea|tea farming]] thrives in the highest altitude zones, and [[Tharaka-Nithi Dairy|dairy cooperatives]] on the cooler slopes supply milk to regional markets. The lower zones support [[Tharaka-Nithi Beekeeping|traditional beekeeping]], [[Tharaka-Nithi Agriculture|millet and pulse farming]], and livestock production adapted to semi-arid conditions.
+The county's economy revolves around [[Tharaka-Nithi Miraa|miraa (khat) cultivation]], which dominates cash crop production and drives the regional trade system. Chuka functions as one of East Africa's largest miraa markets, with bundles exported daily to Somalia, Ethiopia, and across the horn of Africa via informal networks that predate modern borders. Beyond miraa, the [[Tharaka-Nithi Coffee|coffee estates]] on the mountain slopes generate significant income, [[Tharaka-Nithi Tea|tea farming]] thrives in the highest altitude zones, and [[Tharaka|dairy cooperatives]] on the cooler slopes supply milk to regional markets. The lower zones support [[Tharaka|traditional beekeeping]], [[Tharaka-Nithi Agriculture|millet and pulse farming]], and livestock production adapted to semi-arid conditions.
 
-Tharaka-Nithi's geography creates two distinct climatic zones: the dry, hot lowlands receive 400-600mm of unreliable rainfall annually and are prone to periodic drought, while the mountain slopes receive 1200-2000mm and support year-round agricultural production. This duality shapes settlement, livelihood, and the political economy of water and land throughout the county. The [[Tharaka-Nithi Climate|climate]] is warming and rainfall patterns are becoming less predictable, threatening both pastoral and agricultural systems.
+Tharaka-Nithi's geography creates two distinct climatic zones: the dry, hot lowlands receive 400-600mm of unreliable rainfall annually and are prone to periodic drought, while the mountain slopes receive 1200-2000mm and support year-round agricultural production. This duality shapes settlement, livelihood, and the political economy of water and land throughout the county. The [[Tharaka|climate]] is warming and rainfall patterns are becoming less predictable, threatening both pastoral and agricultural systems.
 
-Historically, the Chuka and Mwimbi played significant roles in the [[Tharaka-Nithi Mau Mau|Mau Mau uprising]], and the region saw extensive [[Tharaka-Nithi Colonial History|colonial administration]] of the eastern slopes. Post-independence politics have centered on [[Tharaka-Nithi Politics|county-level governance]], devolution, and competition over resources between communities. Today, the county faces challenges of [[Tharaka-Nithi Infrastructure|road connectivity]], [[Tharaka-Nithi Education|educational access]], [[Tharaka-Nithi Health|health infrastructure gaps]], and land tenure disputes on the increasingly valuable mountain slopes.
+Historically, the Chuka and Mwimbi played significant roles in the [[Tharaka-Nithi Mau Mau|Mau Mau uprising]], and the region saw extensive [[Tharaka|colonial administration]] of the eastern slopes. Post-independence politics have centered on [[Tharaka|county-level governance]], devolution, and competition over resources between communities. Today, the county faces challenges of [[Tharaka|road connectivity]], [[Tharaka|educational access]], [[Tharaka|health infrastructure gaps]], and land tenure disputes on the increasingly valuable mountain slopes.
 
 ## Hub: All 30 Notes
 
@@ -20,26 +20,26 @@ Historically, the Chuka and Mwimbi played significant roles in the [[Tharaka-Nit
 8. [[Tharaka-Nithi Mount Kenya|Tharaka-Nithi Mount Kenya]]
 9. [[Tharaka-Nithi Mau Mau|Tharaka-Nithi Mau Mau]]
 10. [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
-11. [[Tharaka-Nithi Beekeeping|Tharaka-Nithi Beekeeping]]
-12. [[Tharaka-Nithi Politics|Tharaka-Nithi Politics]]
-13. [[Tharaka-Nithi Colonial History|Tharaka-Nithi Colonial History]]
-14. [[Tharaka-Nithi Infrastructure|Tharaka-Nithi Infrastructure]]
-15. [[Tharaka-Nithi Education|Tharaka-Nithi Education]]
-16. [[Tharaka-Nithi Health|Tharaka-Nithi Health]]
-17. [[Tharaka-Nithi Land|Tharaka-Nithi Land]]
-18. [[Tharaka-Nithi Youth|Tharaka-Nithi Youth]]
-19. [[Tharaka-Nithi Women|Tharaka-Nithi Women]]
-20. [[Tharaka-Nithi Devolution|Tharaka-Nithi Devolution]]
-21. [[Tharaka-Nithi Climate|Tharaka-Nithi Climate]]
-22. [[Tharaka-Nithi Dairy|Tharaka-Nithi Dairy]]
-23. [[Tharaka-Nithi Wildlife|Tharaka-Nithi Wildlife]]
-24. [[Tharaka-Nithi Notable People|Tharaka-Nithi Notable People]]
-25. [[Tharaka-Nithi Cultural Heritage|Tharaka-Nithi Cultural Heritage]]
-26. [[Tharaka-Nithi Cooperatives|Tharaka-Nithi Cooperatives]]
-27. [[Tharaka-Nithi Real Estate|Tharaka-Nithi Real Estate]]
-28. [[Tharaka-Nithi NGOs|Tharaka-Nithi NGOs]]
-29. [[Tharaka-Nithi Climate Change|Tharaka-Nithi Climate Change]]
-30. [[Tharaka-Nithi Timeline|Tharaka-Nithi Timeline]]
+11. [[Tharaka|Tharaka-Nithi Beekeeping]]
+12. [[Tharaka|Tharaka-Nithi Politics]]
+13. [[Tharaka|Tharaka-Nithi Colonial History]]
+14. [[Tharaka|Tharaka-Nithi Infrastructure]]
+15. [[Tharaka|Tharaka-Nithi Education]]
+16. [[Tharaka|Tharaka-Nithi Health]]
+17. [[Tharaka|Tharaka-Nithi Land]]
+18. [[Tharaka|Tharaka-Nithi Youth]]
+19. [[Tharaka|Tharaka-Nithi Women]]
+20. [[Tharaka|Tharaka-Nithi Devolution]]
+21. [[Tharaka|Tharaka-Nithi Climate]]
+22. [[Tharaka|Tharaka-Nithi Dairy]]
+23. [[Tharaka|Tharaka-Nithi Wildlife]]
+24. [[Tharaka|Tharaka-Nithi Notable People]]
+25. [[Tharaka|Tharaka-Nithi Cultural Heritage]]
+26. [[Tharaka|Tharaka-Nithi Cooperatives]]
+27. [[Tharaka|Tharaka-Nithi Real Estate]]
+28. [[Tharaka|Tharaka-Nithi NGOs]]
+29. [[Tharaka|Tharaka-Nithi Climate Change]]
+30. [[Tharaka|Tharaka-Nithi Timeline]]
 
 ## See Also
 

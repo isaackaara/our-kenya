@@ -12,8 +12,8 @@ Water is the mountain's most crucial resource. Multiple rivers originate on the 
 
 [[Mount Kenya National Park|Mount Kenya National Park]]
 [[Tharaka-Nithi County|Tharaka-Nithi County]]
-[[Tharaka-Nithi Climate|Tharaka-Nithi Climate]]
-[[Tharaka-Nithi Wildlife|Tharaka-Nithi Wildlife]]
+[[Tharaka|Tharaka-Nithi Climate]]
+[[Tharaka|Tharaka-Nithi Wildlife]]
 [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
 [[Chuka Mwimbi People|Chuka Mwimbi People]]
 

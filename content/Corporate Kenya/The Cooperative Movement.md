@@ -2,7 +2,7 @@
 
 ## Historical Development
 
-Cooperatives emerged in [[colonial Kenya]] as [[farmers associations Kenya|farmers associations]]. [[Post-independence Kenya|Post-independence]], they became central to [[agricultural development strategy Kenya|agricultural development strategy]]. By the 1970s, virtually every agricultural community had a cooperative.
+Cooperatives emerged in [[colonial Kenya]] as [[farmers associations Kenya|farmers associations]]. [[Luhya in Post-Independence Kenya|Post-independence]], they became central to [[agricultural development strategy Kenya|agricultural development strategy]]. By the 1970s, virtually every agricultural community had a cooperative.
 
 ## Types and Functions
 
@@ -31,11 +31,11 @@ Cooperatives remain important but face governance challenges. Modernisation (dig
 ## See Also
 
 - [[SACCO Movement Kenya]]
-- [[Agricultural Cooperatives Kenya]]
+- [[Agricultural Cooperatives]]
 - [[Member-Based Organisations Kenya]]
 - [[Post-Independence Economic Policy]]
 - [[Rural Development Kenya]]
-- [[Governance Kenya]]
+- [[Women in County Governance Kenya]]
 - [[Agricultural Marketing Kenya]]
 
 ## Sources

@@ -4,14 +4,14 @@ Excessive alcohol consumption contributes to liver disease including cirrhosis, 
 
 Mental health impacts from alcohol use include depression, anxiety, suicidality, and cognitive impairment. Fetal alcohol spectrum disorder develops from maternal alcohol consumption during pregnancy, causing permanent brain damage, growth restriction, and dysmorphic features. Childhood exposure to parental alcohol use disorder increases risk of behavioral problems and intergenerational trauma. Domestic violence escalates with alcohol intoxication, affecting partner and child safety.
 
-The [[Ministry of Health]] coordinates alcohol harm reduction and treatment through health facilities. However, treatment capacity remains limited relative to need. Screening for hazardous drinking and brief intervention in primary care settings can enable early intervention preventing progression to dependence. Alcohol-related disease management focuses on treating liver disease, managing alcohol withdrawal, and addressing mental health comorbidity. Support for treatment engagement and relapse prevention improve long-term outcomes.
+The [[Health]] coordinates alcohol harm reduction and treatment through health facilities. However, treatment capacity remains limited relative to need. Screening for hazardous drinking and brief intervention in primary care settings can enable early intervention preventing progression to dependence. Alcohol-related disease management focuses on treating liver disease, managing alcohol withdrawal, and addressing mental health comorbidity. Support for treatment engagement and relapse prevention improve long-term outcomes.
 
 Public health approaches to alcohol control include regulation of alcohol marketing and promotion, taxation of alcoholic beverages, and enforcement of legal drinking age. Reduced alcohol availability and affordability decrease consumption and harm. Community-based prevention addressing alcohol in workplaces, schools, and neighborhoods reduces harmful use. Sustained commitment to alcohol harm reduction requires coordinated action across health, alcohol regulation, and social sectors.
 
 ## See Also
 [[Substance Abuse Treatment|Substance Abuse Treatment]]
 [[Mental Health Services|Mental Health Services]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Gender-Based Violence Health|Gender-Based Violence Health]]
 [[Urban Slum Health Services|Urban Slum Health Services]]

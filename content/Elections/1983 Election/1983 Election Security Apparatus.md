@@ -2,11 +2,11 @@ The security forces and intelligence apparatus played direct roles in the 1983 e
 
 ## See Also
 - [[1983 Election]]
-- [[Kenya Security Forces]]
+- [[Kenya]]
 - [[Daniel arap Moi]]
-- [[1982 Coup Attempt Kenya]]
-- [[Kenya Authoritarianism]]
-- [[Kenya Human Rights 1980s]]
+- [[1982 Coup Attempt]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

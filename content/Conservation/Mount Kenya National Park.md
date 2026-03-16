@@ -1,4 +1,4 @@
-Mount Kenya National Park protects Africa's second-highest mountain and one of the world's most dramatic mountain environments. The park encompasses diverse ecosystems from montane forest to alpine moorland to glacial peaks. [[Mount Kenya]] is a UNESCO World Heritage Site and provides critical [[water conservation|water sources]] and habitat for unique alpine species.
+Mount Kenya National Park protects Africa's second-highest mountain and one of the world's most dramatic mountain environments. The park encompasses diverse ecosystems from montane forest to alpine moorland to glacial peaks. [[Mount Kenya]] is a UNESCO World Heritage Site and provides critical [[Conservation|water sources]] and habitat for unique alpine species.
 
 ## Geographic and Ecological Significance
 
@@ -66,7 +66,7 @@ Mount Kenya's alpine ecosystems are particularly vulnerable to [[Climate Change 
 
 - [[Kenya Wildlife Service]] - Managing protected areas across Kenya
 - [[Aberdare National Park]] - Another montane forest ecosystem
-- [[Water conservation]] - Critical watershed function
+- [[Conservation]] - Critical watershed function
 - [[Tourism Revenue and Communities]] - Economic incentives for protection
 - [[Indigenous Peoples and Cultural Significance]] - Community relationships with protected areas
 - [[Kenya as Global Conservation Model]] - International conservation leadership

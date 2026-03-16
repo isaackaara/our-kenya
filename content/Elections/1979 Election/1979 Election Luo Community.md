@@ -16,11 +16,11 @@ The relationship between the Luo community and the government under Moi was in f
 
 ## See Also
 - [[1979 Election]]
-- [[Luo Community Kenya Politics]]
+- [[Luo]]
 - [[Oginga Odinga]]
 - [[Nyanza Province Kenya]]
 - [[Daniel arap Moi]]
-- [[Kenya Ethnic Politics]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

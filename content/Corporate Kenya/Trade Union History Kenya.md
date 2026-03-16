@@ -16,10 +16,10 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 ## See Also
 
-- [[Labour Rights Kenya]]
+- [[Labour]]
 - [[Post-Independence Economic Policy]]
-- [[Kenya Economic History]]
-- [[Manufacturing Kenya]]
+- [[Kenya]]
+- [[Hardware Manufacturing Kenya]]
 - [[Colonial Labour Systems]]
 - [[Workers Movement Kenya]]
 - [[Economic Justice Kenya]]

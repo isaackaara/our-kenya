@@ -16,7 +16,7 @@ The [[East African Community]]'s membership has grown dramatically:
 
 **Democratic Republic of Congo (2022)**: The DRC, Africa's second-largest nation by population, joined the [[East African Community]], dramatically expanding its geographic and economic scope.
 
-**Somalia (2023)**: [[Somalia Collapse]] became the tenth member, despite fragmented state authority and ongoing terrorism.
+**Somalia (2023)**: [[Somalia]] became the tenth member, despite fragmented state authority and ongoing terrorism.
 
 ## Strategic Rationale
 
@@ -34,9 +34,9 @@ The expansion reflects multiple motivations:
 
 The expanded membership creates substantial challenges:
 
-**Security Fragmentation**: The DRC and [[Somalia Collapse]] are both major security challenges. DRC's eastern regions are destabilized by armed groups and regional conflict. [[Somalia Collapse]] means that significant portions of the country are not under effective government control, complicating [[East African Community]] commitments and coordination.
+**Security Fragmentation**: The DRC and [[Somalia]] are both major security challenges. DRC's eastern regions are destabilized by armed groups and regional conflict. [[Somalia]] means that significant portions of the country are not under effective government control, complicating [[East African Community]] commitments and coordination.
 
-**Economic Disparities**: The [[East African Community]] now includes wealthy nations (Kenya) and extremely poor nations (Burundi, [[Somalia Collapse]]). Economic disparities create tensions around integration pace and benefit distribution.
+**Economic Disparities**: The [[East African Community]] now includes wealthy nations (Kenya) and extremely poor nations (Burundi, [[Somalia]]). Economic disparities create tensions around integration pace and benefit distribution.
 
 **Political Tensions**: Different political systems and ideologies sometimes create friction. Rwanda's governance and Kenya's democratic instability create [[East African Community]] management challenges.
 
@@ -97,7 +97,7 @@ Despite challenges, expansion offers potential benefits:
 - [[EAC History]]
 - [[EAC Common Market]]
 - [[EAC Political Federation]]
-- [[Somalia Collapse]]
+- [[Somalia]]
 - [[Rwanda Kenya]]
 - [[South Sudan Kenya]]
 - [[East Africa Timeline]]

@@ -1,22 +1,22 @@
 A comprehensive reference covering Kenya's place in the broader East African context, from colonial boundaries to contemporary regional politics.
 
 ## Overview
-- [[East Africa Overview]]
-- [[Kenya in East Africa]]
+- [[East Africa]]
+- [[Kenya]]
 
 ## The East African Community
 - [[EAC History]]
 - [[EAC Common Market]]
 - [[EAC Political Federation]]
-- [[East African Railways]]
-- [[Nairobi Regional Hub]]
+- [[East Africa]]
+- [[Nairobi]]
 
 ## Colonial Boundaries and Their Legacy
-- [[Berlin Conference East Africa]]
-- [[Kenya Tanzania Border]]
-- [[Kenya Uganda Border]]
-- [[Kenya Ethiopia Border]]
-- [[Kenya Somalia Border]]
+- [[East Africa]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Kenya]]
 - [[NFD Colonial Policy]]
 
 ## Shared Ecosystems and Waters
@@ -25,45 +25,45 @@ A comprehensive reference covering Kenya's place in the broader East African con
 - [[Mount Kilimanjaro]]
 - [[Nile River System]]
 - [[Indian Ocean Heritage]]
-- [[East African Rift Geology]]
+- [[East Africa]]
 
 ## Cross-Border Communities
-- [[Maasai Borders]]
-- [[Somali Cross Border]]
-- [[Luo Language Family]]
-- [[Kalenjin Nilo Saharan]]
+- [[Maasai]]
+- [[Somali]]
+- [[Luo Language]]
+- [[Kalenjin]]
 - [[Bajuni People]]
 
 ## Regional History
 - [[Arab Slave Trade]]
 - [[Omani Empire]]
-- [[German East Africa]]
-- [[East Africa Campaign WWI]]
+- [[East Africa]]
+- [[East Africa]]
 - [[Groundnut Scheme]]
-- [[Zanzibar Revolution]]
+- [[Zanzibar]]
 - [[Uganda Tanzania War]]
 
 ## Contemporary Regional Issues
 - [[EAC Expansion]]
-- [[Chinese Investment]]
-- [[East African Internet Hub]]
-- [[East African Droughts]]
-- [[Somalia Collapse]]
+- [[Chinese Investment and Corruption]]
+- [[East Africa]]
+- [[East Africa]]
+- [[Somalia]]
 - [[South Sudan Kenya]]
 - [[Rwanda Kenya]]
 - [[Ethiopia Kenya]]
 
 ## People and Culture
-- [[East African Runners]]
-- [[East African Literature]]
-- [[Swahili Regional Language]]
-- [[East African Music]]
-- [[East African Food]]
+- [[East Africa]]
+- [[East African Literature Bureau]]
+- [[Swahili]]
+- [[East African Music Charts 1990s]]
+- [[East Africa]]
 
 ## Infrastructure
 - [[Mombasa Port]]
-- [[LAPSSET Corridor]]
-- [[East African Power]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
+- [[East Africa]]
 - [[JKIA Airport]]
 - [[East Africa Timeline]]
 

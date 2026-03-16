@@ -2,21 +2,21 @@
 title: Kalenjin Nilo Saharan
 ---
 
-The [[Kalenjin Nilo Saharan]] peoples of Kenya are part of a broader Nilo-Saharan linguistic and ethnic family distributed across Kenya and Uganda. They represent another example of cross-border ethnic and linguistic relationships shaped by colonial borders.
+The [[Kalenjin]] peoples of Kenya are part of a broader Nilo-Saharan linguistic and ethnic family distributed across Kenya and Uganda. They represent another example of cross-border ethnic and linguistic relationships shaped by colonial borders.
 
 ## The Kalenjin Language Family
 
-[[Kalenjin Nilo Saharan]] is a Nilo-Saharan language (related to but distinct from the [[Luo Language Family]]). [[Kalenjin Nilo Saharan]] includes multiple closely related languages and dialects:
+[[Kalenjin]] is a Nilo-Saharan language (related to but distinct from the [[Luo Language]]). [[Kalenjin]] includes multiple closely related languages and dialects:
 
-**Subgroups**: [[Kalenjin Nilo Saharan]] proper, Marakwet, Nandi, Kipsigis, Pokot, and Tugen are the major [[Kalenjin Nilo Saharan]] speaking communities. These varieties have significant mutual intelligibility.
+**Subgroups**: [[Kalenjin]] proper, Marakwet, Nandi, Kipsigis, Pokot, and Tugen are the major [[Kalenjin]] speaking communities. These varieties have significant mutual intelligibility.
 
-**Linguistic Ties**: All [[Kalenjin Nilo Saharan]] varieties share common vocabulary and structure, indicating a shared linguistic origin within the last 1,000 years.
+**Linguistic Ties**: All [[Kalenjin]] varieties share common vocabulary and structure, indicating a shared linguistic origin within the last 1,000 years.
 
-**Geographic Distribution**: [[Kalenjin Nilo Saharan]] speakers occupy the western highlands of Kenya, particularly the [[Great Rift Valley]] and surrounding plateaus.
+**Geographic Distribution**: [[Kalenjin]] speakers occupy the western highlands of Kenya, particularly the [[Great Rift Valley]] and surrounding plateaus.
 
 ## Kalenjin Communities in Kenya
 
-Kenya hosts the largest concentration of [[Kalenjin Nilo Saharan]] speakers:
+Kenya hosts the largest concentration of [[Kalenjin]] speakers:
 
 **Kalenjin Proper (Kale)**: Roughly 500,000 speakers in the [[Great Rift Valley]] region.
 
@@ -28,13 +28,13 @@ Kenya hosts the largest concentration of [[Kalenjin Nilo Saharan]] speakers:
 
 **Marakwet**: Roughly 150,000 speakers in the northern highlands, known for irrigation agriculture.
 
-Together, [[Kalenjin Nilo Saharan]] communities number roughly 4 million people in Kenya, making them one of Kenya's largest ethnic groups.
+Together, [[Kalenjin]] communities number roughly 4 million people in Kenya, making them one of Kenya's largest ethnic groups.
 
 ## Cultural Characteristics
 
-[[Kalenjin Nilo Saharan]] communities share cultural features:
+[[Kalenjin]] communities share cultural features:
 
-**Pastoralism and Agriculture**: Historically, [[Kalenjin Nilo Saharan]] peoples combined pastoral herding with agriculture, with regional variations in emphasis.
+**Pastoralism and Agriculture**: Historically, [[Kalenjin]] peoples combined pastoral herding with agriculture, with regional variations in emphasis.
 
 **Age-Set Systems**: Like many East African pastoral peoples, Kalenjin organize around age-sets that regulate social relationships and mark life transitions.
 
@@ -74,30 +74,30 @@ Both groups maintain distinctive cultural practices (particularly circumcision c
 
 ## Border Implications
 
-The [[Kenya Uganda Border]] divides [[Kalenjin Nilo Saharan]]-related communities:
+The [[Kenya]] divides [[Kalenjin]]-related communities:
 
-**Historical Movements**: Before borders were established, [[Kalenjin Nilo Saharan]]-related peoples moved across what became the [[Kenya Uganda Border]] in response to pastoral conditions and trade opportunities.
+**Historical Movements**: Before borders were established, [[Kalenjin]]-related peoples moved across what became the [[Kenya]] in response to pastoral conditions and trade opportunities.
 
 **Contemporary Restrictions**: Modern border controls restrict such movements, limiting traditional pastoral and trade networks.
 
-**Cultural Continuity**: Despite borders, shared cultural practices and language ties maintain pan-[[Kalenjin Nilo Saharan]] and broader Nilo-Saharan identity across national boundaries.
+**Cultural Continuity**: Despite borders, shared cultural practices and language ties maintain pan-[[Kalenjin]] and broader Nilo-Saharan identity across national boundaries.
 
 ## Contemporary Identity
 
-[[Kalenjin Nilo Saharan]] identity in Kenya is strong and politically salient:
+[[Kalenjin]] identity in Kenya is strong and politically salient:
 
-**Ethnic Consciousness**: [[Kalenjin Nilo Saharan]] have developed a strong sense of ethnic identity, often organizing politically along ethnic lines.
+**Ethnic Consciousness**: [[Kalenjin]] have developed a strong sense of ethnic identity, often organizing politically along ethnic lines.
 
-**Regional Identity**: [[Kalenjin Nilo Saharan]] are often identified with Kenya's [[Great Rift Valley]] region, particularly the highlands and plateau areas.
+**Regional Identity**: [[Kalenjin]] are often identified with Kenya's [[Great Rift Valley]] region, particularly the highlands and plateau areas.
 
-**National Integration**: Simultaneously, [[Kalenjin Nilo Saharan]] have integrated into broader Kenyan national identity and participate across all sectors of Kenyan society.
+**National Integration**: Simultaneously, [[Kalenjin]] have integrated into broader Kenyan national identity and participate across all sectors of Kenyan society.
 
 ## See Also
 
 - [[Great Rift Valley]]
-- [[Kenya Uganda Border]]
-- [[Luo Language Family]]
-- [[Maasai Borders]]
+- [[Kenya]]
+- [[Luo Language]]
+- [[Maasai]]
 - [[Mount Kilimanjaro]]
 - [[East Africa Timeline]]
 

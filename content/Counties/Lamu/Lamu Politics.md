@@ -30,7 +30,7 @@ Corruption and governance challenges affect Lamu as they do other Kenyan countie
 - [[LAPSSET Lamu|LAPSSET Lamu]]
 - [[Lamu Land|Lamu Land]]
 - [[Lamu Islam|Lamu Islam]]
-- [[Lamu Security|Lamu Security]]
+- [[Lamu|Lamu Security]]
 - [[Lamu Infrastructure|Lamu Infrastructure]]
 - [[Lamu Youth|Lamu Youth]]
 

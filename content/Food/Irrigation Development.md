@@ -2,7 +2,7 @@ Water scarcity constrains agriculture across much of Kenya, making irrigation ce
 
 The Mwea Irrigation Scheme, established during colonial rule, exemplified large-scale irrigation ambitions. Located in the semi-arid Rift Valley, Mwea was designed to convert marginal pastoral land into rice-growing zones. However, irrigation schemes created complex institutional challenges: water rights allocation, maintenance responsibility, conflict resolution when water was insufficient, and cost recovery from farmers. These governance issues persisted across schemes regardless of their technical design quality.
 
-Post-independence expansion of irrigation focused on smallholder accessibility in areas with seasonal water stress. Government invested in infrastructure for [[Maize Production]] and [[Vegetable Greens Farming]] in the semi-arid zones. However, many smallholder schemes struggled with sustainability because maintenance costs exceeded farmer contributions, and government subsidies were intermittent. Schemes also faced environmental challenges: seasonal rivers dried earlier than projected, groundwater tables declined through overuse, and soil salinization occurred on repeatedly irrigated land without proper drainage.
+Post-independence expansion of irrigation focused on smallholder accessibility in areas with seasonal water stress. Government invested in infrastructure for [[Maize Production]] and [[Vegetables Greens Farming]] in the semi-arid zones. However, many smallholder schemes struggled with sustainability because maintenance costs exceeded farmer contributions, and government subsidies were intermittent. Schemes also faced environmental challenges: seasonal rivers dried earlier than projected, groundwater tables declined through overuse, and soil salinization occurred on repeatedly irrigated land without proper drainage.
 
 The interaction between irrigation and [[Water Management Agriculture]] became increasingly important. As competing demands for water grew from urban areas, industrial users, and hydroelectric power, agricultural water allocation faced pressure. Irrigation schemes initially received priority in water allocation, but this changed as water became increasingly scarce and competition intensified. Conflicts over water rights between pastoral communities, farmers, and urban areas marked irrigation development from the 1980s onward.
 
@@ -13,7 +13,7 @@ The effectiveness of irrigation in addressing [[Malnutrition Reduction]] and rur
 ## See Also
 [[Water Management Agriculture]]
 [[Maize Production]]
-[[Vegetable Greens Farming]]
+[[Vegetables Greens Farming]]
 [[Food Security Policies]]
 [[Agricultural Credit]]
 [[Malnutrition Reduction]]

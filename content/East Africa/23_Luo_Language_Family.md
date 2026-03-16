@@ -2,31 +2,31 @@
 title: Luo Language Family
 ---
 
-The [[Luo Language Family]] represent a linguistic and cultural family distributed across Kenya, Uganda, South Sudan, and Ethiopia. They share common linguistic ancestry and maintain historical connections despite being separated by colonial borders.
+The [[Luo Language]] represent a linguistic and cultural family distributed across Kenya, Uganda, South Sudan, and Ethiopia. They share common linguistic ancestry and maintain historical connections despite being separated by colonial borders.
 
 ## The Luo Language and Linguistics
 
-[[Luo Language Family]] is a Nilo-Saharan language spoken in several closely related varieties across East Africa:
+[[Luo Language]] is a Nilo-Saharan language spoken in several closely related varieties across East Africa:
 
-**Linguistic Classification**: [[Luo Language Family]] belongs to the Nilotic language family, which includes numerous languages spoken by pastoral and agricultural peoples across the [[Nile River System]] valley regions.
+**Linguistic Classification**: [[Luo Language]] belongs to the Nilotic language family, which includes numerous languages spoken by pastoral and agricultural peoples across the [[Nile River System]] valley regions.
 
 **Mutual Intelligibility**: The various Luo-related languages (Luo proper, Acholi, Langi, Alur, Padhola) are not mutually intelligible but share considerable vocabulary and structural similarities.
 
-**Common Ancestry**: All [[Luo Language Family]] languages derive from a common ancestral language, suggesting a shared historical origin and migration pattern.
+**Common Ancestry**: All [[Luo Language]] languages derive from a common ancestral language, suggesting a shared historical origin and migration pattern.
 
-**Written Tradition**: Standard [[Luo Language Family]] has been written since the colonial period, with Christian missionaries creating Luo orthographies and producing Bible translations.
+**Written Tradition**: Standard [[Luo Language]] has been written since the colonial period, with Christian missionaries creating Luo orthographies and producing Bible translations.
 
 ## Kenyan Luo
 
-The [[Luo Language Family]] proper are spoken in Kenya by roughly 4-5 million people:
+The [[Luo Language]] proper are spoken in Kenya by roughly 4-5 million people:
 
-**Geographic Distribution**: Primarily concentrated in Nyanza Region around [[Lake Victoria]], though migration has spread [[Luo Language Family]] communities throughout Kenya.
+**Geographic Distribution**: Primarily concentrated in Nyanza Region around [[Lake Victoria]], though migration has spread [[Luo Language]] communities throughout Kenya.
 
-**Occupations**: Historically, Kenyan [[Luo Language Family]] combined pastoralism with fishing and agriculture. Contemporary [[Luo Language Family]] are engaged in diverse occupations throughout Kenyan society.
+**Occupations**: Historically, Kenyan [[Luo Language]] combined pastoralism with fishing and agriculture. Contemporary [[Luo Language]] are engaged in diverse occupations throughout Kenyan society.
 
-**Cultural Practices**: Kenyan [[Luo Language Family]] maintain distinctive cultural practices (ceremonies, music, food culture) and a strong sense of [[Luo Language Family]] ethnic identity.
+**Cultural Practices**: Kenyan [[Luo Language]] maintain distinctive cultural practices (ceremonies, music, food culture) and a strong sense of [[Luo Language]] ethnic identity.
 
-**Lake Victoria Centrality**: [[Luo Language Family]] culture is strongly tied to [[Lake Victoria]]. The lake shapes [[Luo Language Family]] fishing economies, food culture, and historical identity.
+**Lake Victoria Centrality**: [[Luo Language]] culture is strongly tied to [[Lake Victoria]]. The lake shapes [[Luo Language]] fishing economies, food culture, and historical identity.
 
 ## Related Peoples in Uganda
 
@@ -100,12 +100,12 @@ For Luo-speaking peoples, ethnic identity often competes with national identity:
 
 ## See Also
 
-- [[Kenya Uganda Border]]
+- [[Kenya]]
 - [[Lake Victoria]]
-- [[Kalenjin Nilo Saharan]]
+- [[Kalenjin]]
 - [[Nile River System]]
-- [[Berlin Conference East Africa]]
-- [[East African Food]]
+- [[East Africa]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

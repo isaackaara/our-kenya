@@ -6,7 +6,7 @@ Smaller mammal faunas include jackals, hyenas, wild dogs, cheetahs, and various 
 
 Avifauna in the Tsavo region is highly diverse, with over 600 bird species recorded. These include both resident species and migratory species that seasonally visit the region. Raptors, including eagles and vultures, are prominent predators in the ecosystem.
 
-The [[Taita Hills Biodiversity|Taita Hills]] harbour exceptional avian diversity, with over 500 species recorded in this relatively small area. Endemic bird species found nowhere else on Earth include the [[Taita Thrush]], Taita White-eye, Taita Apalis, and Taita Falcon. These endemic species, with small populations in a fragmented habitat, are of global conservation concern.
+The [[Taita Hills Biodiversity|Taita Hills]] harbour exceptional avian diversity, with over 500 species recorded in this relatively small area. Endemic bird species found nowhere else on Earth include the [[Taita]], Taita White-eye, Taita Apalis, and Taita Falcon. These endemic species, with small populations in a fragmented habitat, are of global conservation concern.
 
 Amphibian and reptile diversity in the Taita Hills is also notable, with numerous endemic species. The forest microclimate and complex vegetation structure support these specialized species.
 

@@ -1,4 +1,4 @@
-[[M-Pesa]] (Swahili: M for mobile, Pesa for money) is Safaricom's mobile money platform, launched in March 2007 in partnership with Vodafone. [[M-Pesa]] transformed the [[Kenyan economy]] across ethnic lines in ways that earlier financial infrastructure never could. It started as a way to send money from Nairobi workers back to rural families, crossing every ethnic boundary in the country. By 2026, M-Pesa processes more transactions than most African banks. It is used equally by [[Kikuyu]] shopkeepers, [[Luo]] fishermen, [[Maasai]] cattle sellers, and [[Somali]] traders.
+[[M-Pesa]] (Swahili: M for mobile, Pesa for money) is Safaricom's mobile money platform, launched in March 2007 in partnership with Vodafone. [[M-Pesa]] transformed the [[Kenya]] across ethnic lines in ways that earlier financial infrastructure never could. It started as a way to send money from Nairobi workers back to rural families, crossing every ethnic boundary in the country. By 2026, M-Pesa processes more transactions than most African banks. It is used equally by [[Kikuyu]] shopkeepers, [[Luo]] fishermen, [[Maasai]] cattle sellers, and [[Somali]] traders.
 
 ## Key Facts
 

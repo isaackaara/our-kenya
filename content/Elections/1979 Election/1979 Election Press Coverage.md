@@ -20,11 +20,11 @@ The press played a role in legitimizing the 1979 election as a democratic proces
 
 ## See Also
 - [[1979 Election]]
-- [[Kenya Press Freedom]]
+- [[Kenya]]
 - [[KANU Party]]
-- [[Media Kenya 1970s-1980s]]
-- [[Kenya Political System 1978-1991]]
-- [[Kenya Broadcasting]]
+- [[Media]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Mytton, Graham. "Mass Communication in Africa." Arnold Publishers, 1983.

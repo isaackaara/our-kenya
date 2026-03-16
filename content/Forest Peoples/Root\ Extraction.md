@@ -10,7 +10,7 @@ Restoration of access to forests would enable resumption of root extraction as a
 
 ## See Also
 
-[[Plant Collection]] | [[Medicinal Plants Knowledge]] | [[Forest Products Trade]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Economic Activities]] | [[Women Kenya]]
+[[Plant\ Collection]] | [[Medicinal\ Plants\ Knowledge]] | [[Forest\ Products\ Trade]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Economic\ Activities]] | [[Women Kenya Athletics]]
 
 ## Sources
 

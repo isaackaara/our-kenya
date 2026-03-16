@@ -1,4 +1,4 @@
-Young [[Kenyans of Asian descent]] born in Kenya who have never lived in India (third and fourth generations) face distinctive questions about cultural identity and belonging. These young people are fundamentally [[Kenyan]] in education, experience, and often identity, yet often face social and cultural separation from the broader Kenyan society. The tension between their deep Kenyan roots and the continued separation and distinctiveness of Asian communities presents ongoing challenges for identity formation and belonging.
+Young [[Kenya]] born in Kenya who have never lived in India (third and fourth generations) face distinctive questions about cultural identity and belonging. These young people are fundamentally [[Kenya]] in education, experience, and often identity, yet often face social and cultural separation from the broader Kenyan society. The tension between their deep Kenyan roots and the continued separation and distinctiveness of Asian communities presents ongoing challenges for identity formation and belonging.
 
 ## Native Kenyans with Asian Heritage
 

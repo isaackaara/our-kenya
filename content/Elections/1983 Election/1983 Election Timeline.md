@@ -13,9 +13,9 @@
 ## See Also
 - [[1983 Election]]
 - [[Daniel arap Moi]]
-- [[1982 Coup Attempt Kenya]]
+- [[1982 Coup Attempt]]
 - [[KANU Party]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 - [[Charles Njonjo]]
 
 ## Sources

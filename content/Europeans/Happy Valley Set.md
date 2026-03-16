@@ -67,7 +67,7 @@ All three interpretations have validity. The Happy Valley set's story illustrate
 - [[Karen Blixen]] - Contemporary settler figure
 - [[Denys Finch Hatton]] - Happy Valley member
 - [[White Mischief]] - Book and film adaptation
-- [[Settler Society in Colonial Kenya]] - Broader settler context
+- [[Colonial Kenya]] - Broader settler context
 - [[European Settlement Overview]] - Population dynamics
 - [[Wanjohi Valley]] - Geographic location
 

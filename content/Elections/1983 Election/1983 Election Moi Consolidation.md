@@ -15,10 +15,10 @@ Moi's consolidation created a political system in which factionalism within KANU
 ## See Also
 - [[Daniel arap Moi]]
 - [[1983 Election]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
 - [[KANU Party]]
-- [[Kenya Political System 1978-1991]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

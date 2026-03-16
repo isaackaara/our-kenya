@@ -1,4 +1,4 @@
-The [[Devonshire Declaration]] (also called the Devonshire White Paper) was issued by the [[British Colonial Office]] in 1923. It stated that "the interests of the African natives must be paramount" in Kenya, blocking [[settler ambitions]] for [[dominion status]] or [[responsible government]] (self-rule) similar to that achieved by [[white settler colonies]] in Southern Africa. The declaration represented a turning point in Kenya's [[colonial political trajectory]], even though its practical effect was limited.
+The [[The 1923 Devonshire Declaration]] (also called the Devonshire White Paper) was issued by the [[British Colonial Office]] in 1923. It stated that "the interests of the African natives must be paramount" in Kenya, blocking [[settler ambitions]] for [[dominion status]] or [[responsible government]] (self-rule) similar to that achieved by [[white settler colonies]] in Southern Africa. The declaration represented a turning point in Kenya's [[colonial political trajectory]], even though its practical effect was limited.
 
 ## Historical Context
 

@@ -2,11 +2,11 @@
 title: Kenya Somalia Border
 ---
 
-The [[Kenya Somalia Border]] is [[East African Community]]'s most politically contentious and militarily volatile boundary. It divides the Somali-speaking peoples and has been the source of wars, terrorism, and persistent regional instability.
+The [[Kenya]] is [[East African Community]]'s most politically contentious and militarily volatile boundary. It divides the Somali-speaking peoples and has been the source of wars, terrorism, and persistent regional instability.
 
 ## The Ogaden Question
 
-The most significant historical issue involves the Ogaden region. This arid territory in southeastern Ethiopia and northern Kenya is inhabited primarily by [[Somali Cross Border]] pastoral communities. The Somali government (particularly under Mohamed Siad Barre, 1969-1991) claimed the Ogaden as rightfully Somali territory.
+The most significant historical issue involves the Ogaden region. This arid territory in southeastern Ethiopia and northern Kenya is inhabited primarily by [[Somali]] pastoral communities. The Somali government (particularly under Mohamed Siad Barre, 1969-1991) claimed the Ogaden as rightfully Somali territory.
 
 Somalia's territorial claims extended to include:
 
@@ -28,11 +28,11 @@ The Kenya-Somalia border divides the Somali people:
 
 The Shifta War was Kenya's first military conflict as an independent nation. It involved Somali guerrillas (and suspected Somali government support) fighting Kenyan forces in the [[NFD Colonial Policy]]:
 
-**Origins**: Somali nationalists rejected the [[Kenya Somalia Border]] and the inclusion of Somali-majority territory in Kenya. They launched an insurgency seeking either independence for the NFD or union with Somalia.
+**Origins**: Somali nationalists rejected the [[Kenya]] and the inclusion of Somali-majority territory in Kenya. They launched an insurgency seeking either independence for the NFD or union with Somalia.
 
 **Military Campaign**: Kenya deployed its military (with British support) to suppress the insurgency. The conflict involved counter-insurgency operations, population displacement, and alleged atrocities.
 
-**Outcome**: The insurgency was suppressed by 1967, but the conflict left deep resentment among Somali communities in Kenya and damaged Kenya-[[Somalia Collapse]] relations for decades.
+**Outcome**: The insurgency was suppressed by 1967, but the conflict left deep resentment among Somali communities in Kenya and damaged Kenya-[[Somalia]] relations for decades.
 
 ## Somalia's State Collapse and Spillover (1991 Onward)
 
@@ -87,11 +87,11 @@ These operations have occasionally involved controversy over civilian casualties
 
 ## See Also
 
-- [[Somalia Collapse]]
+- [[Somalia]]
 - [[NFD Colonial Policy]]
-- [[Kenya Ethiopia Border]]
-- [[Somali Cross Border]]
-- [[Berlin Conference East Africa]]
+- [[Kenya]]
+- [[Somali]]
+- [[East Africa]]
 - [[Shifta War]]
 - [[East Africa Timeline]]
 

@@ -1,6 +1,6 @@
 ## Overview
 
-[[State capture]] refers to a situation in which powerful private interests (political families, corporate networks, organized crime groups) control state institutions for private benefit. In Kenya, state capture has been a persistent feature, with [[political elites]] and their business allies using [[state power]] to accumulate wealth and maintain political dominance. The concept explains why anti-corruption reforms have limited impact: the state itself is controlled by those benefiting from corruption.
+[[State Capture Kenya]] refers to a situation in which powerful private interests (political families, corporate networks, organized crime groups) control state institutions for private benefit. In Kenya, state capture has been a persistent feature, with [[political elites]] and their business allies using [[state power]] to accumulate wealth and maintain political dominance. The concept explains why anti-corruption reforms have limited impact: the state itself is controlled by those benefiting from corruption.
 
 ## Political Family Capture
 

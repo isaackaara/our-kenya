@@ -10,7 +10,7 @@ Informal cultural events including family gatherings, cooking events, and friend
 
 ## See Also
 
-[[Diaspora Networking Organizations]], [[Kenyan Community Centers]], [[Language Preservation Efforts]], [[Religious Communities Abroad]], [[Second-Generation Identity]], [[Music Kenya]], [[Sports Teams Diaspora]]
+[[Diaspora Networking Organizations]], [[Kenyan Community Centers]], [[Language Preservation Efforts]], [[Religious Communities Abroad]], [[Second-Generation Identity]], [[Music]], [[Sports Teams Diaspora]]
 
 ## Sources
 

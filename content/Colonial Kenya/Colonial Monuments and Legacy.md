@@ -22,7 +22,7 @@ Post-independence Kenya has begun processes of removing colonial monuments and e
 [[Colonial Memory and Commemoration]]
 [[Settler Identity and Monuments]]
 [[Post-Colonial Monuments]]
-[[Colonial Legacy and Landscape]]
+[[Colonial Legacy]]
 [[Historical Commemoration]]
 
 ## Sources

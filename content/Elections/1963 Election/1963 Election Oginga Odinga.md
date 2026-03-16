@@ -15,10 +15,10 @@ The 1963 election had thus revealed the fundamental incompatibility between Odin
 - [[Oginga Odinga]]
 - [[1963 Election KANU]]
 - [[1963 Election Results]]
-- [[Kenya African National Union]]
-- [[Kenya People's Union]]
+- [[Kenya]]
+- [[Kenya People's Union Formation]]
 - [[Socialist Movements Kenya]]
-- [[Kenyatta vs Odinga]]
+- [[Kenya]]
 
 ## Sources
 

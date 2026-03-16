@@ -8,7 +8,7 @@ The relationship between censorship and artistic expression created conflicts be
 
 The development of industry self-regulation as alternative to formal censorship reflected efforts to balance freedom and responsibility. Broadcasting and film industry organizations developed codes of conduct addressing content standards while attempting to avoid formal government censorship. These self-regulatory frameworks attempted to identify minimum standards of responsibility without suppressing creative expression through heavy-handed censorship. The effectiveness of self-regulation in preventing government censorship remained disputed, with critics arguing that industry self-censorship replicated censorship functions without formal transparency or accountability.
 
-See Also: [[Film Politics]], [[Government Portrayal]], [[Political Films]], [[Self-Regulation Systems]], [[Content Rating Systems]], [[Broadcasting License]], [[Media Governance]]
+See Also: [[Film Politics]], [[Government Portrayal]], [[Political Films]], [[Self-Regulation Systems]], [[Content Rating Systems]], [[Broadcasting License]], [[Media]]
 
 Sources:
 1. https://www.film-board-kenya.org/

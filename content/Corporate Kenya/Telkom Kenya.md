@@ -8,7 +8,7 @@ Telkom once had a [[monopoly Kenya|monopoly]] on [[telephone Kenya|telephone]] s
 
 - Split from KPTC in [[1998]]
 - Has faced [[competition Kenya|competition]] from [[mobile operators Kenya|mobile operators]]
-- Remnant of [[parastatal Kenya|parastatal]] era
+- Remnant of [[Parastatals Kenya|parastatal]] era
 - Struggling [[operator]]
 
 ## Outlook
@@ -19,8 +19,8 @@ Telkom's future is uncertain without significant [[restructuring Kenya|restructu
 
 - [[Telecoms History Kenya]]
 - [[Parastatal Reform Kenya]]
-- [[Safaricom Kenya]]
-- [[Technology Evolution Kenya]]
+- [[Safaricom]]
+- [[Technology]]
 - [[Post-Independence Economic Policy]]
 - [[Monopoly Markets Kenya]]
 - [[Infrastructure Decline Kenya]]

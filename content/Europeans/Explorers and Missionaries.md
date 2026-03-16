@@ -30,7 +30,7 @@ Thomson's gazelle (named by naturalists in his honour) is a reminder that the ex
 - [[Joseph Thomson]] - Scottish explorer of Maasailand
 - [[Church Missionary Society in Kenya]] - CMS institutional presence
 - [[Frederick Lugard]] - Imperial administrator framework
-- [[Scramble for East Africa]] - Imperial competition for territory
+- [[East Africa]] - Imperial competition for territory
 - [[European Settlement Overview]] - Settler context
 - [[Colonial Administration]] - Administrative outcomes of exploration
 - [[Missionaries and Colonialism]] - Relationship between missionary work and colonialism

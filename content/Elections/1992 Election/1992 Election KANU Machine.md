@@ -16,7 +16,7 @@ The 1992 election demonstrated both the strength of KANU's organizational appara
 - [[KANU Organization]]
 - [[Party Machines]]
 - [[Electoral Machinery]]
-- [[State Resources and Elections]]
+- [[Elections]]
 - [[Incumbency Advantage]]
 - [[Grassroots Organization]]
 

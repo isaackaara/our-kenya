@@ -13,7 +13,7 @@ Other Nile sources include:
 - The Blue Nile, originating in Ethiopian highlands
 - Various tributaries flowing from Uganda, Kenya, and other [[East African Community]] countries
 
-The entire [[Nile River System]]'s upper portion depends on East African rainfall and water resources. [[East African Droughts]] directly affect water flow to Sudan and Egypt.
+The entire [[Nile River System]]'s upper portion depends on East African rainfall and water resources. [[East Africa]] directly affect water flow to Sudan and Egypt.
 
 ## Lake Victoria and the Nile
 
@@ -68,9 +68,9 @@ These trends make Nile water increasingly contested and create potential for fut
 
 - [[Lake Victoria]]
 - [[Great Rift Valley]]
-- [[Kenya Uganda Border]]
+- [[Kenya]]
 - [[Ethiopia Kenya]]
-- [[East African Droughts]]
+- [[East Africa]]
 - [[EAC Common Market]]
 - [[East Africa Timeline]]
 

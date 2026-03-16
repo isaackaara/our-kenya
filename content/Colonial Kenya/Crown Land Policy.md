@@ -20,7 +20,7 @@ The Crown Land Policy exemplified how colonial legal systems transformed African
 [[Colonial Land Granting]]
 [[Colonial Property Rights]]
 [[Colonial Surveys Mapping]]
-[[Kikuyu and Colonialism]]
+[[Kikuyu]]
 [[Colonial Administration]]
 [[Colonial Racial Discrimination]]
 

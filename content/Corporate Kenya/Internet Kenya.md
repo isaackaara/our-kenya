@@ -1,4 +1,4 @@
-[[Kenya]]'s internet history spans from dial-up (1990s) through broadband expansion (2000s) to mobile-first access (2010s-2026). The trajectory reflects [[Kenya]]'s technological evolution and the transformation from desktop-centric to [[mobile internet]] usage, unique among most emerging markets. This pattern enabled [[Silicon Savannah|Kenya's tech emergence]] and [[M-Pesa]] success.
+[[Kenya]]'s internet history spans from dial-up (1990s) through broadband expansion (2000s) to mobile-first access (2010s-2026). The trajectory reflects [[Kenya]]'s technological evolution and the transformation from desktop-centric to [[Mobile Internet Growth]] usage, unique among most emerging markets. This pattern enabled [[Silicon Savannah|Kenya's tech emergence]] and [[M-Pesa]] success.
 
 ## Dial-Up Era (1990s)
 

@@ -29,7 +29,7 @@ The cultural life of Embu Town includes churches and religious institutions serv
 - [[Embu County]]
 - [[Embu County Infrastructure]]
 - [[Embu County Devolution]]
-- [[Embu County Markets]]
+- [[Embu County]]
 - [[Embu County Health]]
 - [[Embu County Education]]
 - [[Embu County Real Estate]]

@@ -8,7 +8,7 @@ NSSF operates as a parastatal managing pension assets of over KES 800 billion. I
 
 - Mandatory contribution scheme (5% employee, 10% employer)
 - Covers roughly 2 million active members
-- Invests in [[Real Estate Kenya]], [[Nairobi Stock Exchange]] equities, [[Bonds Kenya]]
+- Invests in [[Asian Real Estate Kenya]], [[Nairobi Stock Exchange]] equities, [[Bonds Kenya]]
 - Significant stakes in major companies including [[Safaricom]]
 
 ## Outlook

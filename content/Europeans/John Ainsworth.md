@@ -47,8 +47,8 @@ He retired from the colonial service in the late 1920s or early 1930s and spent 
 - [[Frederick Lugard]] - Theoretical framework (Indirect Rule)
 - [[Colonial Administration]] - Administrative context
 - [[Crown Lands Ordinance]] - Land policy he implemented
-- [[Kikuyu Displacement]] - His impact on communities
-- [[Uganda Railway]] - Infrastructure he supported
+- [[Kikuyu]] - His impact on communities
+- [[Uganda Railway Taita-Taveta]] - Infrastructure he supported
 - [[East Africa Protectorate to Colony]] - Administrative evolution
 - [[Mau Mau Uprising]] - Consequence of his policies
 

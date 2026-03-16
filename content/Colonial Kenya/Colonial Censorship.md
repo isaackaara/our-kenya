@@ -21,7 +21,7 @@ By the 1950s, censorship restrictions became increasingly untenable as nationali
 [[Colonial Publishing]]
 [[Colonial Information Control]]
 [[Anti-Colonial Ideology]]
-[[Education and Colonial Kenya]]
+[[Education]]
 [[Missionisation and Colonialism]]
 
 ## Sources

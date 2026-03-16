@@ -3,10 +3,10 @@ Moi used development spending and government resources as patronage tools to rew
 ## See Also
 - [[1983 Election]]
 - [[Daniel arap Moi]]
-- [[Kenya Patronage Politics]]
-- [[Kenya Development Policy]]
+- [[Kenya]]
+- [[Kenya]]
 - [[KANU Party]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

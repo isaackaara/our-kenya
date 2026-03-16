@@ -26,11 +26,11 @@ Development initiatives to protect Tana River water security include reforestati
 
 - [[Mount Kenya]]
 - [[Embu County]]
-- [[Embu County Water]]
+- [[Embu County]]
 - [[Embu County Climate Change]]
 - [[Embu County Agriculture]]
 - [[Embu County Climate]]
-- [[Tana River Basin]]
+- [[Tana River]]
 
 ## Sources
 

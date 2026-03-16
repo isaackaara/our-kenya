@@ -2,7 +2,7 @@ Asian Kenyans face specific forms of racism and discrimination rooted in Kenya's
 
 ## The "Mhindi" Slur and Ethnic Language
 
-The term "mhindi" (and its variations) is used as a derogatory ethnic slur against Asians in Kenya. The slur carries negative connotations implying foreignness, economic exploitation, and cultural otherness. Use of the slur marks Asian Kenyans as fundamentally different and outside the [[Kenyan community]]. The persistence of the slur reflects ongoing xenophobia and racism against Asian communities.
+The term "mhindi" (and its variations) is used as a derogatory ethnic slur against Asians in Kenya. The slur carries negative connotations implying foreignness, economic exploitation, and cultural otherness. Use of the slur marks Asian Kenyans as fundamentally different and outside the [[Kenyan Community Centers]]. The persistence of the slur reflects ongoing xenophobia and racism against Asian communities.
 
 ## Economic Blame and Scapegoating
 

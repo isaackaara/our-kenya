@@ -50,7 +50,7 @@ The CSM's influence declined after independence. The mission transferred schools
 - [[Kikuyu Central Association]] - Nationalist organization defending circumcision
 - [[Colonial Administration]] - Relationship with colonial government
 - [[Female Circumcision and Missions]] - The circumcision controversy
-- [[Education in Colonial Kenya]] - Educational role
+- [[Education]] - Educational role
 - [[European Settlement Overview]] - Context of European presence
 - [[Explorers and Missionaries]] - Early missionary period
 - [[Post-Colonial Churches]] - Churches after independence

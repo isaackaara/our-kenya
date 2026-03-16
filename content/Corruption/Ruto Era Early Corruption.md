@@ -1,6 +1,6 @@
 ## Overview
 
-The [[William Ruto]] presidency (from September 2022) has already faced corruption controversies. The [[Adani deal]], the [[fertilizer scandal]], and other early-era issues demonstrate that corruption patterns persist despite Ruto's campaign positioning as an outsider to previous corrupt systems. The early Ruto era raises questions about whether a new administration can break corruption cycles or whether institutional patterns persist regardless of personnel change.
+The [[William Ruto]] presidency (from September 2022) has already faced corruption controversies. The [[Adani Deal Controversy]], the [[fertilizer scandal]], and other early-era issues demonstrate that corruption patterns persist despite Ruto's campaign positioning as an outsider to previous corrupt systems. The early Ruto era raises questions about whether a new administration can break corruption cycles or whether institutional patterns persist regardless of personnel change.
 
 ## Adani Controversy
 

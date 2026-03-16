@@ -8,7 +8,7 @@ The campaign also engaged regional and ethnic mobilization strategies, particula
 
 The Jubilee campaign faced several challenges during the 2017 cycle. Allegations of corruption within the government, including high-profile embezzlement scandals, created openings for opposition messaging regarding institutional decay and misgovernance. The Jubilee campaign responded by attributing corruption to individual officials rather than to systemic problems and by promising enhanced institutional accountability. However, the corruption allegations complicated the narrative of clean governance and institutional integrity.
 
-Additionally, the [[2017 Election ICC Factor|ICC factor]] remained relevant to the 2017 campaign, though with less salience than in 2013. Both Kenyatta and Ruto continued facing potential ICC liability, though the Kenyatta case was actively being wound down during 2017. The campaign generally sought to minimize engagement with the ICC question, but opposition messaging continued to emphasize justice and accountability as campaign issues.
+Additionally, the [[2017 Election|ICC factor]] remained relevant to the 2017 campaign, though with less salience than in 2013. Both Kenyatta and Ruto continued facing potential ICC liability, though the Kenyatta case was actively being wound down during 2017. The campaign generally sought to minimize engagement with the ICC question, but opposition messaging continued to emphasize justice and accountability as campaign issues.
 
 The Jubilee campaign deployed substantial financial resources for media, campaign events, and voter mobilization. The campaign conducted extensive television and radio advertising, organized large campaign rallies in major urban centers and regional strongholds, and invested in digital campaign infrastructure. The campaign's resource advantage relative to the opposition allowed for more extensive media presence and more sophisticated campaign organization.
 
@@ -21,7 +21,7 @@ For the October 26 re-run, the Jubilee campaign faced the challenge of sustainin
 [[2017 Election]]
 [[2017 Election August 8 Vote]]
 [[2017 Election October Re-run]]
-[[2017 Election Results]]
+[[2017 Election]]
 [[2017 Election NASA Coalition]]
 
 ## Sources

@@ -29,7 +29,7 @@ See also: [[Narok County|Narok County]], [[The Great Migration|The Great Migrati
 
 ## See Also
 
-- [[Narok Maasai|Narok Maasai]]
+- [[Maasai|Narok Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]

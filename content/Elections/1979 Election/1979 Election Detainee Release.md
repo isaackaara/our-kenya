@@ -18,9 +18,9 @@ The release of detainees was presented by the Moi government as evidence of its 
 - [[1979 Election]]
 - [[Daniel arap Moi]]
 - [[Oginga Odinga]]
-- [[Kenya Detention System]]
-- [[Kenya Human Rights 1970s]]
-- [[Nyayo]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Nyala]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

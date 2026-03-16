@@ -52,7 +52,7 @@ The Amboseli research continues under Moss's direction, maintaining the longitud
 - [[Elephant Population Dynamics]]
 - [[Elephant Cognition and Behavior]]
 - [[Long-Term Research Programs]]
-- [[Conservation Advocacy]]
+- [[Conservation]]
 - [[Elephant Conservation Kenya]]
 - [[Climate Change Impacts on Elephants]]
 

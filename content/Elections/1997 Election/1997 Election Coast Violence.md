@@ -17,11 +17,11 @@ The August 1997 coast violence established a pattern that would recur in subsequ
 ## See Also
 
 - [[1997 Election]]
-- [[1997 Election Campaign]]
+- [[1997 Election]]
 - [[Moi's security forces]]
 - [[Ethnic violence in Kenya]]
-- [[Kenya's Muslim communities]]
-- [[2007 post-election violence]]
+- [[Kenya]]
+- [[Post-Election Violence]]
 
 ## Sources
 

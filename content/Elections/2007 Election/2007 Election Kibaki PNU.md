@@ -5,7 +5,7 @@
 - [[2007 Election]]
 - [[Party of National Unity (PNU)]]
 - [[Mwai Kibaki]]
-- [[Kenya's economy 2000s]]
+- [[Kenya]]
 
 ## Sources
 

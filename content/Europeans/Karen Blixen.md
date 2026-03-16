@@ -39,14 +39,14 @@ Blixen's writing was skillful and emotionally evocative, and "Out of Africa" is 
 3. Omits or downplays conflict, resistance, and suffering
 4. Creates a nostalgic image of colonial Kenya that obscures the system of land alienation, forced labor, and political domination
 
-Kenyan writers, particularly [[Ngugi wa Thiong'o]], have critiqued the cultural imperialism embedded in works like "Out of Africa." They argue that international audiences' acceptance of Blixen's narrative as authoritative reflects the power differential between European writers and African voices in global literary markets.
+Kenyan writers, particularly [[Ngugi wa Thiong o]], have critiqued the cultural imperialism embedded in works like "Out of Africa." They argue that international audiences' acceptance of Blixen's narrative as authoritative reflects the power differential between European writers and African voices in global literary markets.
 
 ## See Also
 
 - [[Karen Blixen and the Colonial Myth]] - Analysis of her literary impact
-- [[Out of Africa]] - The memoir
+- [[Out of Africa and Its Legacy]] - The memoir
 - [[Denys Finch Hatton]] - Her romantic partner
-- [[Karen Blixen Museum]] - Museum at her farm
+- [[Karen Blixen]] - Museum at her farm
 - [[Elspeth Huxley]] - Contemporary settler chronicler
 - [[Ngong Hills]] - Location of her farm
 - [[Happy Valley Set]] - Settler elite society

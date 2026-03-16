@@ -11,11 +11,11 @@ Kenya's transformation from one of Africa's worst-affected countries to a model 
 ## See Also
 [[UNAIDS|UNAIDS]]
 [[Antiretroviral Therapy Kenya|Antiretroviral Therapy Kenya]]
-[[Kenya Health Policy Evolution|Healthcare Policy Evolution]]
+[[Kenya|Healthcare Policy Evolution]]
 [[Gender and HIV in Kenya|Gender-Based Violence Health]]
 [[KEMRI Kenya|KEMRI Kenya]]
 [[Public Health Surveillance Kenya|Public Health Surveillance Kenya]]
-[[Presidencies of Kenya|Presidencies]]
+[[Presidencies|Presidencies]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/HIV/AIDS_in_Kenya

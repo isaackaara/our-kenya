@@ -1,6 +1,6 @@
 Camel herding in Kenya's arid and semi-arid zones represents a highly specialized pastoral system adapted to extreme environments where other livestock are not viable. The practice maintains cultural significance and economic importance for pastoral communities in marginal zones despite modernization pressures and land use changes.
 
-Camel domestication and herding in Kenya originated with pastoral communities in northern and eastern arid regions. [[Somali]] and [[Rendille]] pastoral groups developed extensive knowledge of camel management suited to desert environments. Camels, adapted to arid conditions through physiological characteristics enabling water conservation and utilization of vegetation unsuitable for other animals, provided transport, meat, milk, and hides in desert zones.
+Camel domestication and herding in Kenya originated with pastoral communities in northern and eastern arid regions. [[Somali]] and [[Rendille People]] pastoral groups developed extensive knowledge of camel management suited to desert environments. Camels, adapted to arid conditions through physiological characteristics enabling water conservation and utilization of vegetation unsuitable for other animals, provided transport, meat, milk, and hides in desert zones.
 
 Traditional camel herding reflected deep ecological knowledge. Herders recognized water point locations across vast arid zones, understanding seasonal availability and predicting water stress periods. Knowledge of camel breeds, breeding practices, disease recognition, and nutrition management reflected generations of accumulated experience. Camels provided crucial livelihood in zones too arid for cattle or crops, maintaining pastoral livelihoods where other production was impossible.
 
@@ -22,7 +22,7 @@ Land pressure from national park expansion, conservation initiatives, and privat
 [[Livestock Farming Systems]]
 [[Water Resources Management]]
 [[Climate Change Impacts]]
-[[Somali Pastoral Heritage]]
+[[Somali]]
 
 ## Sources
 

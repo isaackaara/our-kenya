@@ -20,7 +20,7 @@ Gachagua's post-election role in the Ruto government proved significant. As Vice
 [[2022 Election Kenya Kwanza]]
 [[2022 Election Results]]
 [[2022 Election Martha Karua]]
-[[2022 Election Mt. Kenya Shift]]
+[[2022 Election]]
 
 ## Sources
 

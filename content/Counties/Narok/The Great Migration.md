@@ -27,7 +27,7 @@ See also: [[Maasai Mara National Reserve|Maasai Mara National Reserve]], [[Narok
 
 ## See Also
 
-- [[Narok Maasai|Narok Maasai]]
+- [[Maasai|Narok Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]

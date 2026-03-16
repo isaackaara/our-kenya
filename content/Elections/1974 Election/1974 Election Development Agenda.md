@@ -19,9 +19,9 @@ Agricultural development was intertwined with development discourse. The governm
 ## See Also
 - [[Harambee]]
 - [[1974 Election]]
-- [[Kenya Development Policy]]
+- [[Kenya]]
 - [[1974 Election KANU Primary]]
-- [[Kenya Rural Development]]
+- [[Kenya]]
 - [[Infrastructure Kenya 1970s]]
 
 ## Sources

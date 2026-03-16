@@ -2,7 +2,7 @@ Educational systems along the Kenya coast reflected the region's cosmopolitan ch
 
 ## See Also
 
-[[Swahili Language Development]], [[Coastal Religious Diversity]], [[Islamic scholarship]], [[Arab Traders Ocean]], [[Indian Merchants Coast]], [[Coastal Governance]], [[Migration Coast]]
+[[Swahili Language Development]], [[Coastal Religious Diversity]], [[Coastal Islamic Scholarship]], [[Arab Traders Ocean]], [[Indian Merchants Coast]], [[Coastal Governance]], [[Migration Coast]]
 
 ## Sources
 

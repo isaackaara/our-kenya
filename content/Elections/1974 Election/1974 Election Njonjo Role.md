@@ -20,7 +20,7 @@ The extent of Njonjo's direct intervention in specific electoral contests in 197
 - [[Jomo Kenyatta]]
 - [[Daniel arap Moi]]
 - [[1978 Succession]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

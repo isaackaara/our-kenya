@@ -14,7 +14,7 @@ Seasonal rainfall patterns follow predictable patterns historically, with the lo
 - [[Murang'a Agriculture|Agricultural Zones]]
 - [[Murang'a Water Resources|Water Sources]]
 - [[Tana River Source|River System]]
-- [[../../Geography/Mount Kenya|Mount Kenya]]
+- [[Mount Kenya|Mount Kenya]]
 - [[Murang'a Irrigation|Water Management]]
 - [[Murang'a Infrastructure|Infrastructure Planning]]
 

@@ -13,7 +13,7 @@ For educated youth, particularly those who had been exposed to university educat
 - [[1969 Election]]
 - [[Youth Activism Kenya]]
 - [[Generation and Politics]]
-- [[Post-Independence Kenya]]
+- [[Luhya in Post-Independence Kenya]]
 - [[KANU Youth Wings]]
 - [[Political Socialization]]
 - [[Opposition Movements Kenya]]

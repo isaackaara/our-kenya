@@ -16,7 +16,7 @@ The perpetrators of the massacre were never held accountable. No police officers
 - [[Jomo Kenyatta]]
 - [[1969 Election Mboya Assassination]]
 - [[1969 Election Luo Exclusion]]
-- [[Kenya Political Violence]]
+- [[Kenya]]
 - [[State Repression Kenya]]
 - [[Ethnic Violence Kenya]]
 

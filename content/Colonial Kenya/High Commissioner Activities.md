@@ -12,12 +12,12 @@ By the 1950s, High Commissioners became increasingly involved in managing decolo
 
 ## See Also
 
-[[British East America Administration]]
+[[British East Africa Administration]]
 [[Colonial Governors]]
 [[Colonial Policy Frameworks]]
 [[Mau Mau Uprising]]
 [[Colonial Military Organization]]
-[[East African Economic Integration]]
+[[East Africa]]
 
 ## Sources
 

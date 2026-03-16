@@ -2,7 +2,7 @@
 title: East African Power
 ---
 
-The [[East African Power]] Pool (EAPP) coordinates electricity generation and distribution across [[East African Community]] nations. Kenya's geothermal and hydroelectric power, Ethiopia's hydroelectric capacity, and other regional energy sources are increasingly integrated into a regional electricity market.
+The [[East Africa]] Pool (EAPP) coordinates electricity generation and distribution across [[East African Community]] nations. Kenya's geothermal and hydroelectric power, Ethiopia's hydroelectric capacity, and other regional energy sources are increasingly integrated into a regional electricity market.
 
 ## Kenya's Geothermal Power
 
@@ -119,11 +119,11 @@ East Africa's energy future appears oriented toward:
 ## See Also
 
 - [[Great Rift Valley]]
-- [[East African Rift Geology]]
-- [[Kenya in East Africa]]
+- [[East Africa]]
+- [[Kenya]]
 - [[EAC Common Market]]
-- [[East African Droughts]]
-- [[LAPSSET Corridor]]
+- [[East Africa]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -1,4 +1,4 @@
-[[TikTok]] operates as a platform where young Kenyans from across the country and across ethnic groups create and share content. The platform has become increasingly important in [[Kenyan youth culture]], creating spaces for creative expression, humor, documentation of daily life, and social commentary. TikTok's multi-ethnic user base and [[cross-ethnic audience]] demonstrates the platform's role in creating [[shared youth culture]].
+[[TikTok Kenya]] operates as a platform where young Kenyans from across the country and across ethnic groups create and share content. The platform has become increasingly important in [[Kenya]], creating spaces for creative expression, humor, documentation of daily life, and social commentary. TikTok's multi-ethnic user base and [[cross-ethnic audience]] demonstrates the platform's role in creating [[shared youth culture]].
 
 TikTok content creators in Kenya include young people from all ethnic backgrounds. Creators produce content in English, Swahili, and Sheng, reaching audiences across Kenya. The platform's algorithm surfaces content based on engagement and relevance rather than creator ethnicity, creating possibilities for creators to reach audiences beyond their ethnic communities.
 
@@ -10,7 +10,7 @@ TikTok has also become a space for economic activity. Young Kenyans use the plat
 
 However, TikTok has also been a site of negative interactions. Harassment, bullying, and offensive content occur on the platform. Some content reinforces ethnic stereotypes or promotes ethnic animosity. The platform's minimal moderation in some contexts allows harmful content to circulate. These negative dimensions occur alongside the platform's role in creating cross-ethnic connection.
 
-The Kenyan government has at times attempted to restrict [[TikTok]] access. During political instability or controversy, access to social media including TikTok has been disrupted. These restrictions reflect concerns about the platform's political potency and its role in mobilizing dissent.
+The Kenyan government has at times attempted to restrict [[TikTok Kenya]] access. During political instability or controversy, access to social media including TikTok has been disrupted. These restrictions reflect concerns about the platform's political potency and its role in mobilizing dissent.
 
 ## See Also
 
@@ -18,7 +18,7 @@ The Kenyan government has at times attempted to restrict [[TikTok]] access. Duri
 - [[The Gen Z Kenya Movement]]
 - [[Digital Communities Kenya]]
 - [[Youth Culture Kenya]]
-- [[Sheng and Urban Language]]
+- [[Sheng]]
 
 ## Sources
 

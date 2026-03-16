@@ -49,7 +49,7 @@ The aid system itself creates vulnerability to corruption: (1) conditionality th
 - [[Asset Recovery Kenya]]
 - [[Auditor General Role]]
 - [[Corruption Measurement and Statistics]]
-- [[World Bank Kenya Corruption]]
+- [[Corruption]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ Return migration and reverse entrepreneurship patterns indicated some diaspora b
 ## See Also
 
 - [[Business Leaders Foreign]]
-- [[Diaspora Investment Flows]]
+- [[Diaspora]]
 - [[Home Country Investment]]
 - [[Tech Innovation Diaspora]]
 - [[Diaspora Networking Organizations]]

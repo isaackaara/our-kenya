@@ -70,7 +70,7 @@ Regional integration initiatives, trade agreements, and development partnerships
 - [[Mandera Tri-Border]]
 - [[Mandera Cross-Border Trade]]
 - [[Mandera Pastoralism]]
-- [[Somali Kenya]]
+- [[Somali]]
 - [[Mandera Town]]
 
 ## Sources

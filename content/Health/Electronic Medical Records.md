@@ -39,7 +39,7 @@ Sustainability of EMR systems after donor-funded implementation projects end is 
 ## See Also
 [[Health Information Systems]]
 [[Disease Surveillance Systems]]
-[[Healthcare Technology Innovation]]
+[[Health]]
 [[Healthcare Policy Evolution]]
 [[Hospital Infrastructure Standards]]
 [[Medical Equipment Supplies]]

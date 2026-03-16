@@ -37,8 +37,8 @@ Early 1800s: Arab and Swahili traders from the coast extend commercial networks 
 - [[Taita People County]]
 - [[Uganda Railway Taita-Taveta]]
 - [[Taita-Taveta Colonial History]]
-- [[Kenya Timeline]]
-- [[East African History]]
+- [[Kenya]]
+- [[East Africa]]
 - [[Historical Events Kenya]]
 
 ## Sources

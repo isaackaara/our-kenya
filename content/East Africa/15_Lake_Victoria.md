@@ -85,11 +85,11 @@ These challenges threaten both the fishery's long-term viability and the lake's 
 
 ## See Also
 
-- [[Kenya Uganda Border]]
-- [[Kenya Tanzania Border]]
+- [[Kenya]]
+- [[Kenya]]
 - [[Nile River System]]
 - [[Great Rift Valley]]
-- [[East African Droughts]]
+- [[East Africa]]
 - [[EAC Common Market]]
 - [[East Africa Timeline]]
 

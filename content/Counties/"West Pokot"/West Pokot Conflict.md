@@ -8,10 +8,10 @@ Government security operations have attempted to suppress raiding through force,
 
 ## See Also
 
-- [["West Pokot" County|"West Pokot" County]]
-- [["West Pokot" Politics|Politics]]
-- [["West Pokot" Agriculture|Agriculture]]
-- [["West Pokot" Education|Education]]
+- [[West Pokot County|"West Pokot" County]]
+- [[West Pokot Politics|Politics]]
+- [[West Pokot Agriculture|Agriculture]]
+- [[Education|Education]]
 - [[Conservation|Conservation]]
 - [[Luo|Luo Ethnic Comparison]]
 ## Sources

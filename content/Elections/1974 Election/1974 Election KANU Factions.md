@@ -21,9 +21,9 @@ The question of succession shaped factional alignments in 1974. Different politi
 ## See Also
 - [[KANU Party]]
 - [[1974 Election]]
-- [[Kikuyu Politics Kenya]]
-- [[Kalenjin Politics Kenya]]
-- [[Luo Community Kenya Politics]]
+- [[Kikuyu]]
+- [[Kalenjin]]
+- [[Luo]]
 - [[1978 Succession]]
 
 ## Sources

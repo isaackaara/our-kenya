@@ -15,8 +15,8 @@ The 1983 results demonstrated the extent to which electoral processes could be m
 - [[Parliament of Kenya]]
 - [[KANU Party]]
 - [[Daniel arap Moi]]
-- [[Kenya Political System 1978-1991]]
-- [[Kalenjin Politics Kenya]]
+- [[Kenya]]
+- [[Kalenjin]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

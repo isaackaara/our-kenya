@@ -34,10 +34,10 @@ The election also set the stage for the subsequent two decades of Kenya's politi
 
 - [[Daniel arap Moi]]
 - [[Oginga Odinga]]
-- [[Kenya Democratic Return]]
+- [[Kenya]]
 - [[Multiparty Elections Kenya]]
 - [[Donor Pressure Kenya]]
-- [[Civil Society Kenya 1990s]]
+- [[Civil Society Kenya]]
 - [[Ethnic Violence Kenya]]
 
 ## Sources

@@ -15,7 +15,7 @@ International participation in Kenyan film festivals brought international filmm
 By the 2000s, film festivals were established institutions within Kenyan cinema. Despite economic constraints, festivals continued operation, attracting submissions, audiences, and industry participation. The festival ecosystem supported diverse filmmaking and provided alternative exhibition venues to commercial cinema circuits, enabling sustainability of film culture beyond commercial entertainment.
 
 ## See Also
-[[Nairobi Film Festival]], [[Documentary Festivals]], [[Independent Film]], [[Documentary Film]], [[Film Directing]], [[Film Criticism]], [[International Film Partnerships]]
+[[Nairobi Film Festival]], [[Documentary Festivals]], [[Independent Film]], [[Documentary Film]], [[Film Directing]], [[Film]], [[International Film Partnerships]]
 
 ## Sources
 1. https://www.nairobifimlilancebourgh.org/

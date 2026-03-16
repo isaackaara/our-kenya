@@ -24,7 +24,7 @@ The COVID-19 pandemic prompted further reorganization around emergency response 
 - [[HIV AIDS Epidemic Kenya]]
 - [[Healthcare Worker Shortages]]
 - [[Health Information Systems]]
-- [[Presidencies Kenya]]
+- [[Presidencies]]
 
 ## Sources
 1. Ministry of Health Kenya. "Health Sector Development Master Plan" (various editions 2005-2020)

@@ -10,7 +10,7 @@ Resource competition is fundamentally not about rational allocation of scarce re
 
 ## See Also
 
-[[Forest Rights Land]] | [[Land Dispossession]] | [[Conservation Kenya]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Protected Areas Kenya]] | [[Pastoral Societies Kenya]]
+[[Forest\ Rights\ Land]] | [[Land\ Dispossession]] | [[Conservation]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Protected Areas Kenya]] | [[Pastoral Societies Kenya]]
 
 ## Sources
 

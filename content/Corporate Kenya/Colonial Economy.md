@@ -40,7 +40,7 @@ By the mid-1950s, the Mau Mau Uprising (1952-1960) had exposed the fragility of 
 
 - [[Post-Independence Economic Policy]] - How colonial patterns persisted after 1963
 - [[Agricultural Land and Politics]] - Land distribution and political power
-- [[Kenya Railway]] - Infrastructure spine of colonial extraction
+- [[Kenya]] - Infrastructure spine of colonial extraction
 - [[Tea Industry Kenya]] - Colonial-era cash crop introduction
 - [[Coffee Industry Kenya]] - Settler agricultural production
 - [[Trade Union History Kenya]] - Worker resistance to colonial exploitation

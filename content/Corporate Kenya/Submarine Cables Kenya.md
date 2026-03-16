@@ -6,7 +6,7 @@ Submarine fiber-optic cables landing at [[Mombasa]] transformed [[Kenya]]'s [[in
 
 ## Key Points
 
-- Multiple cables land at [[Mombasa Kenya|Mombasa]] (redundancy is critical)
+- Multiple cables land at [[Mombasa|Mombasa]] (redundancy is critical)
 - Cost reduction enabled [[Silicon Savannah]]
 - [[bandwidth Kenya|Bandwidth]] availability is crucial for [[tech innovation Kenya|tech innovation]]
 - [[competition Kenya|Competition]] between cable operators affects pricing
@@ -22,8 +22,8 @@ Cable capacity will continue expanding as demand grows. Local [[content Kenya|co
 - [[Telecommunications Kenya]]
 - [[Digital Infrastructure Kenya]]
 - [[Internet History Kenya]]
-- [[Technology Kenya]]
-- [[East Africa Connectivity]]
+- [[Technology]]
+- [[East Africa]]
 
 ## Sources
 

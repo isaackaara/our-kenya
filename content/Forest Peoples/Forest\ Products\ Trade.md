@@ -10,7 +10,7 @@ Colonial-era and post-colonial changes have dramatically disrupted forest produc
 
 ## See Also
 
-[[Forest Rights Land]] | [[Hunting Traditions]] | [[Honey Harvesting]] | [[Economic Activities]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Regional Trade Kenya]]
+[[Forest\ Rights\ Land]] | [[Hunting\ Traditions]] | [[Honey\ Harvesting]] | [[Economic\ Activities]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Regional Trade Kenya]]
 
 ## Sources
 

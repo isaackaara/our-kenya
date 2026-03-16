@@ -20,9 +20,9 @@ The international observer response to the 1979 election was generally favorable
 - [[1979 Election]]
 - [[Daniel arap Moi]]
 - [[1983 Election]]
-- [[Kenya Political System 1978-1991]]
-- [[Nyayo]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
+- [[Nyala]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

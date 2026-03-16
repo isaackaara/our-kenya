@@ -15,7 +15,7 @@ The KANU primary system meant that the real contest for power took place before 
 - [[Jomo Kenyatta]]
 - [[Daniel arap Moi]]
 - [[Charles Njonjo]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 - [[1969 Election]]
 
 ## Sources

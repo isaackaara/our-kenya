@@ -1,9 +1,9 @@
-The post-election violence triggered significant international responses. The African Union, United Nations, United States, European Union, and bilateral governments all condemned the violence and pressed for mediation and negotiation. International pressure was critical in pushing [[Kibaki]] and [[Raila]] toward the negotiated settlement. International donors suspended or reduced assistance, creating economic pressure on both the government and opposition. The international community's engagement demonstrated Kenya's integration into global governance networks and the difficulty of resolving major political crises without international mediation in contemporary African contexts.
+The post-election violence triggered significant international responses. The African Union, United Nations, United States, European Union, and bilateral governments all condemned the violence and pressed for mediation and negotiation. International pressure was critical in pushing [[Kibaki]] and [[Taita]] toward the negotiated settlement. International donors suspended or reduced assistance, creating economic pressure on both the government and opposition. The international community's engagement demonstrated Kenya's integration into global governance networks and the difficulty of resolving major political crises without international mediation in contemporary African contexts.
 
 ## See Also
 
-- [[2007 post-election violence]]
-- [[International relations Kenya]]
+- [[Post-Election Violence]]
+- [[Kamba in International Relations Kenya Trade]]
 - [[Donor pressure Kenya]]
 - [[United Nations Kenya]]
 - [[African Union Kenya]]

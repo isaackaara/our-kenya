@@ -1,4 +1,4 @@
-[[Alibhai Mulla Jeevanjee]] (1856-1936) was a [[Parsee]] (Zoroastrian) immigrant businessman from [[British India]] who became the most significant [[Asian Kenyans|Asian businessman]] and political leader of early colonial [[Kenya]]. He built the first commercial buildings in [[Nairobi]], founded the [[African Standard]] newspaper, and advocated for both African and [[Asian Kenyans|Asian]] rights.
+[[Alibhai Mulla Jeevanjee]] (1856-1936) was a [[Parsee]] (Zoroastrian) immigrant businessman from [[British India]] who became the most significant [[Asian Kenyans|Asian businessman]] and political leader of early colonial [[Kenya]]. He built the first commercial buildings in [[Nairobi]], founded the [[East African Standard]] newspaper, and advocated for both African and [[Asian Kenyans|Asian]] rights.
 
 ## Early Arrival and Business Success
 

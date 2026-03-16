@@ -14,7 +14,7 @@ The presence of international observers was thus part of a broader international
 
 - [[1963 Election Results]]
 - [[1963 Election KANU]]
-- [[International Legitimacy and Elections]]
+- [[Elections]]
 - [[Commonwealth and Kenya]]
 - [[United Nations and Decolonization]]
 - [[Electoral Observation]]

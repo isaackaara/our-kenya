@@ -16,7 +16,7 @@ The absence of significant international criticism of Kenya's authoritarian cons
 - [[Cold War in Africa]]
 - [[Western Policy Africa]]
 - [[Single-Party Systems Africa]]
-- [[International Relations Kenya]]
+- [[Kamba in International Relations Kenya Trade]]
 - [[American Foreign Policy Kenya]]
 - [[Authoritarian Regimes Cold War]]
 

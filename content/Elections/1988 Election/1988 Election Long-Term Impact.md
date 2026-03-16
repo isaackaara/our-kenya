@@ -4,9 +4,9 @@ The 1988 election was Kenya's most consequential election for democracy and auth
 - [[1988 Election]]
 - [[Second Liberation Kenya]]
 - [[Daniel arap Moi]]
-- [[Kenya Democracy Movement]]
-- [[Kenya One-Party State]]
-- [[Kenya Multiparty Democracy]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

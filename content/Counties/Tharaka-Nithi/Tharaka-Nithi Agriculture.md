@@ -16,9 +16,9 @@ Agricultural intensification has increased productivity but created environmenta
 [[Tharaka-Nithi Miraa|Tharaka-Nithi Miraa]]
 [[Tharaka-Nithi Coffee|Tharaka-Nithi Coffee]]
 [[Tharaka-Nithi Tea|Tharaka-Nithi Tea]]
-[[Tharaka-Nithi Dairy|Tharaka-Nithi Dairy]]
-[[Tharaka-Nithi Beekeeping|Tharaka-Nithi Beekeeping]]
-[[Tharaka-Nithi Climate|Tharaka-Nithi Climate]]
+[[Tharaka|Tharaka-Nithi Dairy]]
+[[Tharaka|Tharaka-Nithi Beekeeping]]
+[[Tharaka|Tharaka-Nithi Climate]]
 
 ## Sources
 

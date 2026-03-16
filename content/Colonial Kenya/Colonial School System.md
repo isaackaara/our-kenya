@@ -18,7 +18,7 @@ Secondary education for Africans, extremely limited, served as a mechanism of co
 [[Colonial Language Policy]]
 [[Alliance High School]]
 [[Teacher Training Colleges]]
-[[Educational Inequality]]
+[[Educational Inequality Reproduction]]
 [[Kikuyu Independent Schools]]
 
 ## Sources

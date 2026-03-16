@@ -32,7 +32,7 @@ Captive breeding programs have been rejected as inappropriate given the species'
 - [[Tana River Wildlife|Tana River Wildlife]]
 - [[Tana River County|Tana River County Overview]]
 - [[Tana River (the river)|Tana River (the river)]]
-- [[Kenya Conservation Areas|Kenya Conservation Areas]]
+- [[Kenya|Kenya Conservation Areas]]
 - [[Tana River Climate Change|Tana River Climate Change]]
 - [[Endangered Species|Endangered Species in Kenya]]
 

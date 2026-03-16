@@ -19,11 +19,11 @@ The development project agenda continued in 1979, though with less momentum than
 The economic context of 1979 was thus significantly different from 1974. The economic growth and optimism of the mid-1970s had given way to economic challenges and uncertainty. The new Moi government faced economic difficulties that would shape its policy options in subsequent years.
 
 ## See Also
-- [[Kenya Economy 1970s]]
+- [[Kenya]]
 - [[1979 Election]]
 - [[Oil Crisis Kenya]]
 - [[Coffee Production Kenya]]
-- [[Kenya Economic Policy]]
+- [[Kenya]]
 - [[Inflation Kenya 1970s-1980s]]
 
 ## Sources

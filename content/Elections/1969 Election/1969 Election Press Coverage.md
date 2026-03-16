@@ -12,7 +12,7 @@ The press coverage of the 1969 election thus did not provide Kenyan voters with 
 
 - [[1969 Election]]
 - [[Press Freedom Kenya History]]
-- [[Media Control Kenya]]
+- [[Media]]
 - [[State Propaganda]]
 - [[Kenya Broadcasting Corporation]]
 - [[Journalism and Politics Kenya]]

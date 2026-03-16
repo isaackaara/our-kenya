@@ -14,11 +14,11 @@ The snap election was presented to the public and to the international community
 
 ## See Also
 - [[1983 Election]]
-- [[1982 Coup Attempt Kenya]]
+- [[1982 Coup Attempt]]
 - [[Daniel arap Moi]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
 - [[KANU Party]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

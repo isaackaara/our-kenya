@@ -38,7 +38,7 @@ This suggests that [[Corruption Reform Prospects|anti-corruption initiatives]] h
 - [[Auditor General Role]]
 - [[Corruption and Infrastructure Quality]]
 - [[Corruption and Service Delivery]]
-- [[World Bank Kenya Corruption]]
+- [[Corruption]]
 
 ## Sources
 

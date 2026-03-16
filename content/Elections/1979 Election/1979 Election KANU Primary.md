@@ -18,9 +18,9 @@ Women did not compete in the 1979 primary, as women remained ineligible for parl
 - [[KANU Party]]
 - [[1979 Election]]
 - [[Daniel arap Moi]]
-- [[Nyayo]]
+- [[Nyala]]
 - [[1974 Election KANU Primary]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya." African Studies Review, 1976.

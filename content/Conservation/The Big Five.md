@@ -1,4 +1,4 @@
-The Big Five ([[Lion Kenya|lion]], [[elephant]], [[buffalo]], [[rhino]], and [[leopard]]) are Kenya's most iconic large mammals, named for their danger and difficulty to hunt on foot in the colonial era. These species remain central to Kenya's [[wildlife tourism]] and conservation identity, though all five have experienced population declines and require ongoing protection.
+The Big Five ([[Lion Kenya|lion]], [[Elephant Human Conflict]], [[Buffalo Springs Reserve]], [[rhino]], and [[leopard]]) are Kenya's most iconic large mammals, named for their danger and difficulty to hunt on foot in the colonial era. These species remain central to Kenya's [[Wildlife Tourism Revenue]] and conservation identity, though all five have experienced population declines and require ongoing protection.
 
 ## Historical Context and Colonial Naming
 

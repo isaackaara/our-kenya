@@ -12,8 +12,8 @@ Contemporary social infrastructure challenges include maintenance sustainability
 
 ## See Also
 
-[[Education Infrastructure]]
-[[Health Infrastructure]]
+[[Education]]
+[[Health]]
 [[Community Centers]]
 [[Cultural Heritage]]
 [[Urban Planning Development]]

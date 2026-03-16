@@ -22,7 +22,7 @@ The Northern Corridor is the primary trade route connecting [[Mombasa Port]] to 
 
 **Geographic Scope**: The Northern Corridor extends from [[Mombasa Port]] northwestward through Kenya, Uganda, Rwanda, and Burundi, connecting the port to landlocked interior regions.
 
-**Infrastructure**: The corridor includes roads, railways (including [[East_African_Railways|the new SGR]]), and pipelines connecting [[Mombasa Port]] to interior regions.
+**Infrastructure**: The corridor includes roads, railways (including [[7_East_African_Railways|the new SGR]]), and pipelines connecting [[Mombasa Port]] to interior regions.
 
 **Trade Volumes**: Massive trade volumes flow through the Northern Corridor, making it [[East African Community]]'s busiest trade route.
 
@@ -116,12 +116,12 @@ Recent development initiatives include:
 
 ## See Also
 
-- [[East African Railways]]
+- [[East Africa]]
 - [[JKIA Airport]]
-- [[LAPSSET Corridor]]
-- [[Kenya in East Africa]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
+- [[Kenya]]
 - [[EAC Common Market]]
-- [[Nairobi Regional Hub]]
+- [[Nairobi]]
 - [[East Africa Timeline]]
 
 ## Sources

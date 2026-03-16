@@ -28,7 +28,7 @@ The policy was explicit in many cases. English only. The enforcement was both in
 
 ## The Psychological Consequence
 
-These children grew up with a [[Kenyan urban identity]] that was culturally thin on the ethnic side. They knew they were Kikuyu or Luo or Luhya. They knew this because it appeared on official documents, because it mattered at home during certain conversations, because their parents reminded them when ethnicity became relevant (in politics, in cultural festivals, in explanations of why certain relatives behaved the way they did). They could eat the food associated with their ethnicity (nyama choma, ugali, githeri, sukuma wiki, nyeni), and they enjoyed it when it appeared at home.
+These children grew up with a [[Kenya]] that was culturally thin on the ethnic side. They knew they were Kikuyu or Luo or Luhya. They knew this because it appeared on official documents, because it mattered at home during certain conversations, because their parents reminded them when ethnicity became relevant (in politics, in cultural festivals, in explanations of why certain relatives behaved the way they did). They could eat the food associated with their ethnicity (nyama choma, ugali, githeri, sukuma wiki, nyeni), and they enjoyed it when it appeared at home.
 
 But they could not participate in elders' councils. They did not know the clan (which moieties and sub-clans their family belonged to, the histories, the obligations). They had not been through initiation in any traditional sense, or if they had been (circumcision ceremonies that still occurred, though increasingly uncommon among urban professional families), they had not understood its cultural meaning. They could not converse comfortably with rural relatives, and so they did not. They did not know the names of the sacred sites on the family land. They did not know the stories of their grandfathers and grandmothers, except as fragments related to them in English.
 
@@ -40,7 +40,7 @@ They were Kenyans. They were part of an ethnic group. But the ethnic group was a
 - [[Urban Language Break]]
 - [[Elite Schools and Class Formation]]
 - [[Identity Without Roots]]
-- [[Third Culture Kenyan]]
+- [[The Third Culture Kenyan]]
 
 ## Sources
 

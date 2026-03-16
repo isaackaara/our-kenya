@@ -2,7 +2,7 @@
 
 ## The Early Years: Railway Camp to Town
 
-When the [[Uganda Railway]] reached the future site of Nairobi (1899), it was an empty valley. The railway authorities established a depot and workshop. Asian merchants recognized the opportunity: a growing influx of workers, military personnel, and administrators would need supplies, housing, and services. Asians established shops, hotels, and boarding houses near the railway depot.
+When the [[Uganda Railway Taita-Taveta]] reached the future site of Nairobi (1899), it was an empty valley. The railway authorities established a depot and workshop. Asian merchants recognized the opportunity: a growing influx of workers, military personnel, and administrators would need supplies, housing, and services. Asians established shops, hotels, and boarding houses near the railway depot.
 
 ## The First Commercial Buildings
 

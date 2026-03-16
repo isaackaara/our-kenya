@@ -16,8 +16,8 @@ Conservation efforts have been intensive, involving government agencies, interna
 - [[Taita Hills]]
 - [[Taita-Taveta Wildlife]]
 - [[Lake Chala]]
-- [[Conservation in Kenya]]
-- [[Endemic Species East Africa]]
+- [[Conservation]]
+- [[East Africa]]
 - [[Montane Forests]]
 - [[Taita People County]]
 

@@ -1,6 +1,6 @@
 ## Overview
 
-Transparency International (TI) Kenya is the Kenyan chapter of [[Transparency International]], a global [[civil society]] organization focused on combating corruption. TI-Kenya conducts research on corruption, advocacy for anti-corruption reforms, public education about corruption, and engagement with government and civil society on corruption issues.
+Transparency International (TI) Kenya is the Kenyan chapter of [[Transparency International Kenya]], a global [[Civil Society Kenya]] organization focused on combating corruption. TI-Kenya conducts research on corruption, advocacy for anti-corruption reforms, public education about corruption, and engagement with government and civil society on corruption issues.
 
 ## Research and Measurement
 
@@ -22,7 +22,7 @@ These campaigns attempt to shift normalization of corruption by educating citize
 
 ## Engagement with Anti-Corruption Institutions
 
-TI-Kenya engages with [[Ethics and Anti-Corruption Commission]], [[Office of the Director of Public Prosecutions]], and other anti-corruption institutions, providing research, advocacy, and public pressure to increase institutional effectiveness.
+TI-Kenya engages with [[Ethics and Anti-Corruption Commission]], [[The Director of Public Prosecutions]], and other anti-corruption institutions, providing research, advocacy, and public pressure to increase institutional effectiveness.
 
 TI-Kenya has advocated for increased resources for anti-corruption institutions, better coordination among institutions, and stronger enforcement of anti-corruption law.
 

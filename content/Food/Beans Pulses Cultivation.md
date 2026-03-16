@@ -1,6 +1,6 @@
 Beans and other pulses hold significant cultural and nutritional importance in Kenya, providing essential protein sources particularly for low-income households. The crops maintained important roles in food production and consumption despite state emphasis on cereals, representing a nutritional resource that policy often overlooked.
 
-[[Beans]] comprised diverse varieties cultivated across Kenya's agroecological zones, including kidney beans, navy beans, and traditional types with local names and preferences. [[Kikuyu]] communities in central highlands cultivated beans as important protein sources. [[Luo]] communities similarly cultivated beans alongside grain crops. [[Maasai]] pastoral groups sometimes cultivated beans in suitable areas as dietary supplement. Different varieties had preferences in different regions, developed through generations of cultivation and selection.
+[[Beans Pulses Cultivation]] comprised diverse varieties cultivated across Kenya's agroecological zones, including kidney beans, navy beans, and traditional types with local names and preferences. [[Kikuyu]] communities in central highlands cultivated beans as important protein sources. [[Luo]] communities similarly cultivated beans alongside grain crops. [[Maasai]] pastoral groups sometimes cultivated beans in suitable areas as dietary supplement. Different varieties had preferences in different regions, developed through generations of cultivation and selection.
 
 Traditional cultivation integrated beans with other crops. Intercropping beans with maize was widespread, using bean nitrogen fixation to reduce soil nutrient mining. Polyculture fields with beans, maize, and vegetables reduced pest and disease pressure compared to monocultures. Farmers understood these ecological relationships empirically, even if not through formal scientific knowledge.
 
@@ -20,7 +20,7 @@ Bean preservation through drying was important for storage and later consumption
 [[Crop Farming Evolution]]
 [[Food Security Policies]]
 [[Household Food Production]]
-[[Women and Agriculture]]
+[[Women and Agriculture Land Kenya]]
 [[Traditional Crop Varieties]]
 [[Nutritional Status Kenya]]
 

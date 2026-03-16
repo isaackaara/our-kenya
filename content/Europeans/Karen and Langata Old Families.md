@@ -65,9 +65,9 @@ The Karen Blixen Museum, in particular, has become a site of contested memory. F
 ## See Also
 
 - [[Karen Blixen]] - Namesake of Karen suburb
-- [[Karen Blixen Museum]] - Museum in the area
+- [[Karen Blixen]] - Museum in the area
 - [[European Settlement Overview]] - Settler context
-- [[Nairobi Urban Development]] - Suburban transformation
+- [[Nairobi]] - Suburban transformation
 - [[White Highlands]] - Broader settler territory
 - [[Lancaster House and Departure]] - Post-independence transition
 - [[Laikipia Ranch Families]] - Upcountry settler families

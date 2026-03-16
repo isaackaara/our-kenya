@@ -21,7 +21,7 @@ The county government and various development organizations have implemented num
 - [[Taita-Taveta Sisal]]
 - [[Pastoral Systems Kenya]]
 - [[Voi Town]]
-- [[Water Resources]]
+- [[Bomet Water Resources]]
 
 ## Sources
 1. Taita-Taveta County Government. "County Integrated Development Plan 2022-2027." (2022). https://www.taitataveta.go.ke

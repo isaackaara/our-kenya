@@ -1,4 +1,4 @@
-Majimbo (from the Swahili word for regions or districts) was the federal devolution system that [[Kenya African Democratic Union]] (KADU) championed during the 1963 election as the constitutional framework for independent Kenya. The majimbo debate was fundamentally about the distribution of power and resources between the central government and regional governments, and it was inseparable from the question of ethnic representation and protection in a post-colonial state with significant ethnic diversity.
+Majimbo (from the Swahili word for regions or districts) was the federal devolution system that [[Kenya]] (KADU) championed during the 1963 election as the constitutional framework for independent Kenya. The majimbo debate was fundamentally about the distribution of power and resources between the central government and regional governments, and it was inseparable from the question of ethnic representation and protection in a post-colonial state with significant ethnic diversity.
 
 KADU's majimbo vision envisioned Kenya divided into six or seven regional governments with substantial autonomy in local affairs. These regions would control their own education systems, health services, local taxation, and crucially, pastoral and land management. The regions would have their own legislatures and executive officers, with the central government limited to defense, foreign affairs, macroeconomic policy, and major infrastructure. Proponents argued that this structure would protect minority communities and pastoralist populations from domination by the numerically superior Kikuyu and Luhya groups, and would ensure that regional resources (pastoral lands, coastal resources, agricultural output) remained under local control.
 
@@ -18,7 +18,7 @@ The aftermath of KADU's defeat was rapid and consequential. The majimbo system p
 - [[Regional Government Kenya]]
 - [[Pastoralist Representation Kenya]]
 - [[Centralization vs Devolution]]
-- [[Kenya Constitutional Development]]
+- [[Kenya]]
 
 ## Sources
 

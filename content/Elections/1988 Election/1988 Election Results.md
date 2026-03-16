@@ -6,7 +6,7 @@ The 1988 parliament was composed entirely of KANU nominees. Results reflected go
 - [[Daniel arap Moi]]
 - [[1988 Election Rigging Mechanism]]
 - [[KANU Party]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

@@ -2,11 +2,11 @@ Moi justified the mlolongo system as economical and efficient, arguing that it w
 
 ## See Also
 - [[1988 Election]]
-- [[Mlolongo System]]
+- [[1988 Election Mlolongo System]]
 - [[Daniel arap Moi]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
 - [[1988 Election Rigging Mechanism]]
-- [[Kenya Electoral Systems]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

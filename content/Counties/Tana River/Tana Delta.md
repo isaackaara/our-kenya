@@ -22,7 +22,7 @@ Contemporary threats to the Tana Delta include mangrove harvesting pressure, fis
 - [[Tana River County|Tana River County Overview]]
 - [[Tana River Climate Change|Tana River Climate Change]]
 - [[Tana River Food Security|Tana River Food Security]]
-- [[Swahili Coast|Swahili Coast]]
+- [[Swahili|Swahili Coast]]
 
 ## Sources
 

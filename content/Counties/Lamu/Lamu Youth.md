@@ -29,12 +29,12 @@ Youth security concerns exist in Lamu. In periods of insecurity (2012-2013), you
 ## See Also
 
 - [[Lamu Education|Lamu Education]]
-- [[Lamu Employment|Lamu Employment]]
+- [[Lamu|Lamu Employment]]
 - [[Lamu Tourism|Lamu Tourism]]
 - [[Lamu Women|Lamu Women]]
 - [[Lamu Infrastructure|Lamu Infrastructure]]
 - [[Lamu Health|Lamu Health]]
-- [[Lamu Migration|Lamu Migration]]
+- [[Lamu|Lamu Migration]]
 
 ## Sources
 

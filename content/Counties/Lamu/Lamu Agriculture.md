@@ -28,7 +28,7 @@ The future of agriculture in Lamu is uncertain. The migration of young people aw
 - [[Lamu Land|Lamu Land]]
 - [[Lamu Infrastructure|Lamu Infrastructure]]
 - [[Lamu Youth|Lamu Youth]]
-- [[Lamu Economic History|Lamu Economic History]]
+- [[Lamu|Lamu Economic History]]
 
 ## Sources
 

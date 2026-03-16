@@ -23,7 +23,7 @@ The shift from hand grinding to mechanical milling represented technology adopti
 [[Flour Markets]]
 [[Food Storage Solutions]]
 [[Grain Storage Systems]]
-[[Agricultural Technology]]
+[[Technology]]
 [[Urban Food Systems]]
 
 ## Sources

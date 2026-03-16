@@ -1,4 +1,4 @@
-[[Wildlife tourism]] generates substantial revenue for Kenya, with the sector contributing over USD 1 billion annually to the national economy. However, [[revenue distribution]] remains heavily skewed toward government, private operators, and external organizations, with adjacent [[communities]] receiving minimal direct benefits.
+[[Wildlife Tourism Revenue]] generates substantial revenue for Kenya, with the sector contributing over USD 1 billion annually to the national economy. However, [[revenue distribution]] remains heavily skewed toward government, private operators, and external organizations, with adjacent [[communities]] receiving minimal direct benefits.
 
 ## Tourism Industry Scale
 

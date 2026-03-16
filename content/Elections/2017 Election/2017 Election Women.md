@@ -19,7 +19,7 @@ The 2017 election's gender dimensions suggested that while the gender quota fram
 ## See Also
 
 [[2017 Election]]
-[[2017 Election Results]]
+[[2017 Election]]
 [[2017 Election Jubilee Campaign]]
 [[2017 Election NASA Coalition]]
 [[2017 Election Women|2017 Election August 8 Vote]]

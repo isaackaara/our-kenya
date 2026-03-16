@@ -21,7 +21,7 @@ This vertical documents the history, communities, and contributions of South Asi
 ## Sub-Communities
 
 - [[Sikh Community Kenya]]
-- [[The Sikh Community Kenya]]
+- [[Sikh Community Kenya]]
 - [[Goan Community Kenya]]
 - [[Bohra Muslim Community]]
 - [[Sindhi Community Kenya]]
@@ -54,7 +54,7 @@ This vertical documents the history, communities, and contributions of South Asi
 - [[Asian Property Losses Kenya]]
 - [[Asians Who Left for Britain]]
 - [[The Passport Question]]
-- [[Asian Kenyans Who Stayed]]
+- [[Asian Kenyans]]
 
 ## Business and Economic Contributions
 
@@ -76,7 +76,7 @@ This vertical documents the history, communities, and contributions of South Asi
 ## Religion and Culture
 
 - [[Bollywood and Kenya]]
-- [[Bollywood in Kenya]]
+- [[Bollywood and Kenya]]
 - [[Asian Architecture Nairobi]]
 - [[Kenyan Asian Literature]]
 - [[Asian Cuisine in Kenya]]

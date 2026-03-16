@@ -40,7 +40,7 @@ Mwea irrigation provides drought-proofing benefits compared to rainfed [[Embu Ag
 - [[Embu Economy]]
 - [[Embu Coffee Sector]]
 - [[Embu Tea Sector]]
-- [[Embu Water Management]]
+- [[Embu]]
 
 ## Sources
 

@@ -41,7 +41,7 @@ Key dates and events in Baringo County's history from pre-colonial times through
 
 ## See Also
 
-- [[Baringo Maasai|Baringo Maasai]]
+- [[Maasai|Baringo Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Baringo Wildlife|Wildlife]]

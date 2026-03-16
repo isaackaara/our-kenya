@@ -18,7 +18,7 @@ The youth activism of the 1992 period thus represented both a success (the mobil
 - [[Pro-Democracy Movement]]
 - [[Generation and Politics]]
 - [[Saba Saba Riots]]
-- [[Political Awakening]]
+- [[Gen Z Kenya Political Awakening]]
 
 ## Sources
 

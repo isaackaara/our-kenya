@@ -8,7 +8,7 @@ The expansion of broadcasting during the 1990s and 2000s created multiple licens
 
 The relationship between broadcasting licensing and freedom of expression reflected fundamental tensions in broadcasting regulation. Governments justified licensing through technical spectrum management and public interest protection. Broadcasters viewed licensing as potentially suppressing editorial independence through license contingency. Civil society organizations advocated for licensing independence and transparent criteria to prevent political favoritism. The balance between government regulatory authority and broadcaster independence reflected political contexts and regulatory commitment to professional standards.
 
-See Also: [[Television Operations]], [[Broadcasting Commission]], [[Film Licensing]], [[Digital Television]], [[Media Regulation]], [[Cable Television]], [[Satellite Broadcasting]]
+See Also: [[Television Operations]], [[Broadcasting Commission]], [[Film Licensing]], [[Digital Television]], [[Media]], [[Cable Television]], [[Satellite Broadcasting]]
 
 Sources:
 1. https://www.ictb.org.ke/

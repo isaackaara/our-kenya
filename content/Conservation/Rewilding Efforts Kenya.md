@@ -1,4 +1,4 @@
-[[Rewilding|Rewilding efforts]] in Kenya involve reintroduction of [[wildlife]] species to areas where they have been extirpated or nearly eliminated. [[Reintroduction|Reintroduction projects]] represent attempts to restore ecosystem functionality and recover [[endangered species]] by returning them to suitable habitat. Several significant rewilding projects demonstrate both the potential and challenges of species reintroduction.
+[[Rewilding Efforts Kenya|Rewilding efforts]] in Kenya involve reintroduction of [[wildlife]] species to areas where they have been extirpated or nearly eliminated. [[Reintroduction|Reintroduction projects]] represent attempts to restore ecosystem functionality and recover [[endangered species]] by returning them to suitable habitat. Several significant rewilding projects demonstrate both the potential and challenges of species reintroduction.
 
 ## Definitions and Rewilding Approaches
 

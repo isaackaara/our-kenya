@@ -26,7 +26,7 @@ The cooperative model has demonstrated remarkable resilience in Embu despite chr
 - [[Embu County Dairy]]
 - [[Embu People County]]
 - [[Embu County Land]]
-- [[Embu County Markets]]
+- [[Embu County]]
 
 ## Sources
 

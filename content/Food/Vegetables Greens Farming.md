@@ -17,7 +17,7 @@ Nutritional transitions in Kenya involved shifting from vegetable-dominant, plan
 ## See Also
 
 [[Food Security Policies]]
-[[Women and Agriculture]]
+[[Women and Agriculture Land Kenya]]
 [[Market Gardening Urban]]
 [[Crop Farming Evolution]]
 [[Nutritional Status Kenya]]

@@ -20,7 +20,7 @@ South Sudan's independence was preceded by decades of civil conflict:
 
 Kenya became the primary venue and mediator for peace negotiations:
 
-**[[Nairobi Regional Hub]] Venue**: [[Nairobi Regional Hub]] was chosen as the site for peace negotiations due to Kenya's diplomatic position as a neighboring but not directly involved state.
+**[[Nairobi]] Venue**: [[Nairobi]] was chosen as the site for peace negotiations due to Kenya's diplomatic position as a neighboring but not directly involved state.
 
 **Kenyan Mediation**: Kenya, alongside international mediators (particularly the Intergovernmental Authority on Development, IGAD), facilitated negotiations on [[South Sudan Kenya]] peace.
 
@@ -96,9 +96,9 @@ South Sudan has geopolitical importance:
 
 - [[EAC History]]
 - [[EAC Expansion]]
-- [[Kenya Uganda Border]]
-- [[East African Droughts]]
-- [[Somalia Collapse]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Somalia]]
 - [[Ethiopia Kenya]]
 - [[East Africa Timeline]]
 

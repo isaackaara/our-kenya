@@ -95,7 +95,7 @@ Contemporary coast faces various challenges.
 - [[Mombasa]] - Primary coastal city
 - [[Church Missionary Society in Kenya]] - CMS coastal missions
 - [[European Settlement Overview]] - General settlement context
-- [[Swahili Culture and Colonialism]] - Indigenous coastal culture
+- [[Swahili]] - Indigenous coastal culture
 - [[Muslims and Colonialism in Kenya]] - Religious resistance to conversion
 - [[Coastal Trade and Commerce]] - Economic activities
 - [[Tourism on the Kenyan Coast]] - Post-independence development

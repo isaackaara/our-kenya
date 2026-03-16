@@ -14,7 +14,7 @@ Some prominent politicians chose not to contest the 1979 election, retiring from
 - [[1979 Election]]
 - [[1979 Election Results]]
 - [[1978 Succession]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 - [[Parliament of Kenya]]
 - [[KANU Party]]
 

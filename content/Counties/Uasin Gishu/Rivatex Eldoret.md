@@ -20,9 +20,9 @@ The Rivatex facility, whether active or idle, remains a significant spatial and 
 
 [[Eldoret City]]
 [[Uasin Gishu Industries]]
-[[Uasin Gishu Infrastructure]]
+[[Uasin Gishu]]
 [[Eldoret Infrastructure]]
-[[Uasin Gishu Economic Development]]
+[[Uasin Gishu]]
 
 ## Sources
 

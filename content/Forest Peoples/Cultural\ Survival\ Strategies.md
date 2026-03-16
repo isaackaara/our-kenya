@@ -10,7 +10,7 @@ Advocacy for indigenous recognition and rights has become an increasingly import
 
 ## See Also
 
-[[Language Preservation]] | [[Oral Traditions Preservation]] | [[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Indigenous Identity Kenya]] | [[Survival International]]
+[[Language Preservation]] | [[Oral\ Traditions\ Preservation]] | [[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Indigenous\ Identity\ Kenya]] | [[Survival\ International]]
 
 ## Sources
 

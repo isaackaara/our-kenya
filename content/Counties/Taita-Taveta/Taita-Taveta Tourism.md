@@ -1,6 +1,6 @@
 Tourism constitutes an increasingly important economic sector for Taita-Taveta County, drawing visitors attracted by wildlife, natural landscapes, cultural heritage, and adventure activities. The county's tourism infrastructure, marketing, and management remain underdeveloped compared to Kenya's premier tourism destinations, but the sector offers significant potential for economic development and employment creation. Tourism development must be balanced against conservation priorities and community interests.
 
-The primary tourism attractions in Taita-Taveta are the [[Tsavo East National Park|Tsavo East]] and [[Tsavo West National Parks]], which encompass vast wildlife habitat and constitute the world's largest contiguous national park system. These parks attract international tourists interested in wildlife viewing, photography, and safari experiences. The parks contain populations of elephants, lions, buffalo, giraffes, zebras, and diverse other wildlife species. Accommodation facilities within and adjacent to the parks range from luxury lodges to budget camping facilities.
+The primary tourism attractions in Taita-Taveta are the [[Tsavo East National Park|Tsavo East]] and [[Tsavo West National Park]], which encompass vast wildlife habitat and constitute the world's largest contiguous national park system. These parks attract international tourists interested in wildlife viewing, photography, and safari experiences. The parks contain populations of elephants, lions, buffalo, giraffes, zebras, and diverse other wildlife species. Accommodation facilities within and adjacent to the parks range from luxury lodges to budget camping facilities.
 
 The [[Taita Hills]], with their distinctive montane forest, endemic biodiversity, and cultural heritage, represent an emerging tourism destination. [[Taita Hills Biodiversity|Endemic bird species]] and montane forest ecosystems attract birdwatchers and nature tourists. The hills also offer opportunities for cultural tourism, with visitor experiences including interaction with Taita communities, visits to traditional settlements, and cultural performances.
 
@@ -29,7 +29,7 @@ Community benefits from tourism have been variable, with local employment occurr
 - [[Taita Hills]]
 - [[Lake Chala]]
 - [[Tourism Kenya]]
-- [[Wildlife Tourism]]
+- [[Wildlife Tourism Revenue]]
 
 ## Sources
 1. Kenya Tourism Board. "County Tourism Statistics." (2023). https://www.magicalkenya.com

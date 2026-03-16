@@ -1,4 +1,4 @@
-[[Mombasa port]] is [[East Africa's]] [[largest and most important port]], with roots in [[Swahili]] [[maritime trade]]. From [[dhow trading]] through [[Portuguese]], [[Omani]], and [[British colonial]] rule, to [[post-independence]] [[expansion]], to [[contemporary challenges]], Mombasa has been [[central]] to [[Kenya's economic history]].
+[[Mombasa port]] is [[East Africa]] [[largest and most important port]], with roots in [[Swahili]] [[Pre-Colonial Maritime Trade]]. From [[dhow trading]] through [[Portuguese]], [[Omani Rule Coast]], and [[Meru and British Colonialism]] rule, to [[post-independence]] [[expansion]], to [[contemporary challenges]], Mombasa has been [[central]] to [[Kenya]].
 
 ## Swahili Era (pre-1500)
 
@@ -55,11 +55,11 @@ Mombasa is irreplaceable infrastructure for East Africa. All seaborne trade for 
 
 - [[Mombasa Port Operations]]
 - [[Mombasa Port Corruption]]
-- [[Kenya Ports Authority]]
+- [[Kenya]]
 - [[Trade History Kenya]]
-- [[East African Trade]]
-- [[Infrastructure Kenya]]
-- [[Regional Trade East Africa]]
+- [[East Africa]]
+- [[IT Infrastructure Kenya]]
+- [[East Africa]]
 
 ## Sources
 

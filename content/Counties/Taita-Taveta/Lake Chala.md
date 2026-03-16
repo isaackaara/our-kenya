@@ -17,7 +17,7 @@ The crater rim offers panoramic views of the surrounding Tsavo landscape and int
 - [[Taita Hills Biodiversity]]
 - [[Volcanic Geology Kenya]]
 - [[Freshwater Ecosystems]]
-- [[Tanzania Border]]
+- [[Migori Tanzania Border]]
 
 ## Sources
 1. Baker, B. H., Mohr, P. A., & Williams, L. A. J. (1972). "Geology of the Eastern Rift System of Africa." Geological Society of America Special Papers 136.

@@ -24,7 +24,7 @@ By the mid-twentieth century, scientific racism had been largely discredited in 
 [[Colonial Ideology]]
 [[Colonial Discrimination]]
 [[Anti-Colonial Resistance]]
-[[Post-Colonial Racism]]
+[[Colonial Racism]]
 
 ## Sources
 1. Adas, Michael. "Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance." Cornell University Press, 1989. https://www.cornellpress.cornell.edu/

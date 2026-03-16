@@ -19,7 +19,7 @@ Livestock disease management improved through veterinary services, though remain
 ## See Also
 
 [[Pastoralism Food Production]]
-[[Maasai Pastoral Systems]]
+[[Maasai]]
 [[Dairy Industry Development]]
 [[Cattle Raising Traditions]]
 [[Arid Pastoral Regions]]

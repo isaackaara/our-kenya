@@ -19,11 +19,11 @@ The commercialization of tourism has created new pressures and opportunities for
 ## See Also
 - [[Taita People County]]
 - [[Taita-Taveta County]]
-- [[Taita-Taveta Language]]
+- [[Taita]]
 - [[Traditional Arts Kenya]]
 - [[Cultural Heritage]]
-- [[Oral Traditions]]
-- [[Ancestor Veneration East Africa]]
+- [[Oral Traditions and History Preservation]]
+- [[East Africa]]
 
 ## Sources
 1. Taita-Taveta County Government. "Cultural Heritage Preservation Policy." (2021). https://www.taitataveta.go.ke

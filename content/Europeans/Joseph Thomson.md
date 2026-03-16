@@ -43,12 +43,12 @@ His name lives on geographically: Thomson's Falls (now Nyahururu) was named afte
 ## See Also
 
 - [[Explorers and Missionaries]] - Early European presence
-- [[Maasailand]] - Territory he explored
+- [[Maasai]] - Territory he explored
 - [[Geographic Exploration and Colonialism]] - Knowledge-power relationship
 - [[Royal Geographic Society]] - Organization that commissioned him
 - [[European Settlement Overview]] - Settlement that followed exploration
 - [[Thomson's Gazelle]] - Species named after him
-- [[East Africa Protectorate]] - Political entity from his era
+- [[East Africa Protectorate to Colony]] - Political entity from his era
 - [[Through Masai Land]] - His published account
 
 ## Sources

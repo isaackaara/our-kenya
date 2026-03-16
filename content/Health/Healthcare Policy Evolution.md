@@ -11,10 +11,10 @@ Devolution of health services to county governments following the 2010 constitut
 ## See Also
 [[HIV/AIDS Epidemic Kenya|HIV/AIDS Epidemic Kenya]]
 [[Maternal Mortality Reduction|Maternal Mortality Reduction]]
-[[Mental Health Services Kenya|Mental Health Services]]
-[[Health Infrastructure Standards|Hospital Infrastructure Standards]]
+[[Mental Health Services|Mental Health Services]]
+[[Health|Hospital Infrastructure Standards]]
 [[Ministry of Health Kenya|Ministry of Health Kenya]]
-[[Education and Health Workforce|Education]]
+[[Education|Education]]
 
 ## Sources
 1. https://www.health.go.ke/

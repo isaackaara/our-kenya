@@ -15,7 +15,7 @@ In practice, settler interests in Kenya's post-independence period depended on p
 - [[1963 Election Results]]
 - [[1963 Election KANU]]
 - [[European Settlers Kenya History]]
-- [[Colonial Economy Kenya]]
+- [[Colonial Economy]]
 - [[Land Redistribution Kenya]]
 - [[Mau Mau and Settlers]]
 - [[Decolonization and Minorities]]

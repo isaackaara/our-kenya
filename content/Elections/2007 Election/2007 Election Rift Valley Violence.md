@@ -2,7 +2,7 @@ The Rift Valley experienced the most severe violence of the post-election crisis
 
 ## See Also
 
-- [[2007 post-election violence]]
+- [[Post-Election Violence]]
 - [[Ethnic cleansing Kenya]]
 - [[Rift Valley politics Kenya]]
 - [[Internally displaced persons Kenya]]

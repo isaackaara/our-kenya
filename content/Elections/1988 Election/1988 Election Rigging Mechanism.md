@@ -2,10 +2,10 @@ The mlolongo system enabled rigging through queue manipulation, miscounting, and
 
 ## See Also
 - [[1988 Election]]
-- [[Mlolongo System]]
+- [[1988 Election Mlolongo System]]
 - [[1988 Election Public Outrage]]
 - [[Daniel arap Moi]]
-- [[Kenya Election Fraud]]
+- [[Kenya]]
 - [[1988 Election Results]]
 
 ## Sources

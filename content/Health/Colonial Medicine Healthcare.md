@@ -1,4 +1,4 @@
-Healthcare during Kenya's colonial period (1895-1963) was shaped by the needs of European settlers, colonial administrators, and labor forces required for economic development. The Medical Department was formally established at the beginning of the twentieth century, creating the institutional foundation for biomedical services in [[British East Africa]]. Early colonial medical practice focused on maintaining the health of the settler population and enabling labor supply for colonial enterprises, while African populations received limited access to formal healthcare services. The Colonial Medical Service employed British doctors who tended to both colonial staff and African laborers, establishing the first hospitals and medical facilities in urban centers and along transportation routes.
+Healthcare during Kenya's colonial period (1895-1963) was shaped by the needs of European settlers, colonial administrators, and labor forces required for economic development. The Medical Department was formally established at the beginning of the twentieth century, creating the institutional foundation for biomedical services in [[British East Africa Administration]]. Early colonial medical practice focused on maintaining the health of the settler population and enabling labor supply for colonial enterprises, while African populations received limited access to formal healthcare services. The Colonial Medical Service employed British doctors who tended to both colonial staff and African laborers, establishing the first hospitals and medical facilities in urban centers and along transportation routes.
 
 Medical services were offered at no cost to users during the colonial period, financed through local taxation systems. This policy reflected colonial officials' understanding that a healthy workforce was essential to economic production and that reducing disease burden among Africans would facilitate labor extraction. Dr. R. R. Scott and other colonial medical administrators articulated this rationale explicitly in government records. However, this funding arrangement masked underlying inequities in service distribution and quality, with European populations receiving disproportionately better care and African access concentrated in labor-producing regions.
 
@@ -11,10 +11,10 @@ The institutional infrastructure and medical practice patterns established durin
 ## See Also
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Traditional Healers Medical|Traditional Healers Medical]]
-[[Tropical Medicine East Africa|Tropical Medicine History]]
-[[Presidencies of Kenya|Presidencies]]
-[[British Colonial Administration|Colonial Kenya]]
-[[Urban Health Nairobi|Urban Slum Health Services]]
+[[East Africa|Tropical Medicine History]]
+[[Presidencies|Presidencies]]
+[[Colonial Administration|Colonial Kenya]]
+[[Nairobi|Urban Slum Health Services]]
 
 ## Sources
 1. https://kenyablog.com/health-and-medicine-during-the-colonial-period-in-kenya

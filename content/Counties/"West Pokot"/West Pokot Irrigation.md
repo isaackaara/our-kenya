@@ -8,10 +8,10 @@ Irrigated plots produce vegetables (tomatoes, onions, kale, peppers), beans, and
 
 ## See Also
 
-- [["West Pokot" County|"West Pokot" County]]
-- [["West Pokot" Politics|Politics]]
-- [["West Pokot" Agriculture|Agriculture]]
-- [["West Pokot" Education|Education]]
+- [[West Pokot County|"West Pokot" County]]
+- [[West Pokot Politics|Politics]]
+- [[West Pokot Agriculture|Agriculture]]
+- [[Education|Education]]
 - [[Conservation|Conservation]]
 - [[Luo|Luo Ethnic Comparison]]
 ## Sources

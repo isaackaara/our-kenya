@@ -18,7 +18,7 @@ Kenya's economy encompasses diverse sectors and industries, each with historical
 
 - [[Kenya Dairy Industry]]
 - [[Livestock Kenya]]
-- [[Food Security Kenya]]
+- [[Food]]
 - [[Parastatals Kenya]]
 - [[Agricultural Production Kenya]]
 - [[Kenya Economic Overview]]

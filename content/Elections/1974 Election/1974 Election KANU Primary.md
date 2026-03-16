@@ -15,7 +15,7 @@ The 1974 primary revealed generational tension within KANU. Younger politicians,
 - [[1974 Election Notable Losers]]
 - [[1974 Election KANU Factions]]
 - [[1974 Election Development Agenda]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 - [[1974 Election Regional Patterns]]
 
 ## Sources

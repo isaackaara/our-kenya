@@ -12,8 +12,8 @@ The town's geography is challenging: it sits on steep slopes, water supply is pr
 
 [[Tharaka-Nithi County|Tharaka-Nithi County]]
 [[Tharaka-Nithi Miraa|Tharaka-Nithi Miraa]]
-[[Tharaka-Nithi Infrastructure|Tharaka-Nithi Infrastructure]]
-[[Tharaka-Nithi Youth|Tharaka-Nithi Youth]]
+[[Tharaka|Tharaka-Nithi Infrastructure]]
+[[Tharaka|Tharaka-Nithi Youth]]
 [[Chuka Mwimbi People|Chuka Mwimbi People]]
 [[Tharaka-Nithi Coffee|Tharaka-Nithi Coffee]]
 [[../../Economic/Miraa Trade|Miraa Trade]]

@@ -6,7 +6,7 @@
 
 **April to September 1997**: The IPPG negotiations proceed, with opposition parties, government representatives, and civil society figures negotiating constitutional and legal amendments. [[Kenneth Matiba]] initially signals his intention to run for president, with campaigns promoting his candidacy in some regions.
 
-**August 1997**: [[Coast violence]] erupts in Likoni and surrounding areas, with dozens killed and thousands displaced. The violence's causes and perpetrators remain disputed, but it creates significant political tension and allows the [[Moi]] campaign to emphasize security and stability narratives.
+**August 1997**: [[1997 Election Coast Violence]] erupts in Likoni and surrounding areas, with dozens killed and thousands displaced. The violence's causes and perpetrators remain disputed, but it creates significant political tension and allows the [[Moi]] campaign to emphasize security and stability narratives.
 
 **October 1997**: The IPPG agreement is concluded with the passage of constitutional amendments addressing electoral procedures, restrictions on opposition political activities, and observer access mechanisms.
 
@@ -18,7 +18,7 @@
 
 **December 29, 1997**: Polling day. Voters cast ballots for president and members of parliament. Turnout is estimated at 60-65 percent of registered voters. The Electoral Commission of Kenya begins tallying votes at polling stations, with observers monitoring the process.
 
-**December 30-31, 1997**: Vote tallying continues at constituency and national levels. Early results show [[Moi]] establishing a lead with [[Kibaki]] in second place and [[Raila]] in third. International observers conduct parallel vote tabulation to verify the official count.
+**December 30-31, 1997**: Vote tallying continues at constituency and national levels. Early results show [[Moi]] establishing a lead with [[Kibaki]] in second place and [[Taita]] in third. International observers conduct parallel vote tabulation to verify the official count.
 
 **January 1, 1998**: The Electoral Commission announces the official results: Moi wins with approximately 40 percent of the popular vote (2,445,359 votes), Kibaki comes in second with approximately 31 percent (1,896,271 votes), and Raila finishes third with approximately 12 percent (730,977 votes). Opposition parties and international observers acknowledge the results while documenting irregularities and concerns about the fairness of the process.
 

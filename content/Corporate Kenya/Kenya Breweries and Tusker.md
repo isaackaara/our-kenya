@@ -19,9 +19,9 @@ Kenya's economy encompasses diverse sectors and industries, each with historical
 - [[East African Breweries]]
 - [[Manufacturing History Kenya]]
 - [[Kenya Agricultural History]]
-- [[Food Industry Kenya]]
+- [[Food]]
 - [[Consumer Goods Kenya]]
-- [[Colonial Economy Kenya]]
+- [[Colonial Economy]]
 - [[Kenya Exports]]
 
 ## Sources

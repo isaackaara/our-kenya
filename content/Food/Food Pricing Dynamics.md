@@ -22,7 +22,7 @@ Price volatility created risk that farmers managed through variety of strategies
 [[Farmer Cooperatives]]
 [[Trade Agreements]]
 [[Maize Production]]
-[[Horticulture Sector]]
+[[Horticultural Sector]]
 
 ## Sources
 1. https://www.fao.org/3/ca5802en/ca5802en.pdf

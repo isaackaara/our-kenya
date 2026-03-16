@@ -2,15 +2,15 @@
 title: East Africa Campaign WWI
 ---
 
-The [[East Africa Campaign WWI]] was one of the war's most grueling theaters, conducted in disease-ridden tropical territory with enormous civilian casualties. It lasted from 1914 until the 1918 armistice and profoundly affected [[East African Community]] populations and societies.
+The [[East Africa]] was one of the war's most grueling theaters, conducted in disease-ridden tropical territory with enormous civilian casualties. It lasted from 1914 until the 1918 armistice and profoundly affected [[East African Community]] populations and societies.
 
 ## The Military Conflict
 
 The campaign began when Britain declared war on Germany in August 1914. Fighting in [[East African Community]] started almost immediately:
 
-**Initial Engagements**: British and German forces clashed in [[German East Africa]], Uganda, and Kenya as the war's African front opened.
+**Initial Engagements**: British and German forces clashed in [[East Africa]], Uganda, and Kenya as the war's African front opened.
 
-**Duration**: Unlike the European front's rapid conclusions in some areas, the [[East Africa Campaign WWI]] persisted for four years of bitter warfare.
+**Duration**: Unlike the European front's rapid conclusions in some areas, the [[East Africa]] persisted for four years of bitter warfare.
 
 **Scale**: Hundreds of thousands of soldiers, porters, and civilians were involved, though the conflict received far less attention than the European theater.
 
@@ -76,11 +76,11 @@ The campaign illustrated how geography shaped warfare:
 
 ## Post-War Territory
 
-After the war, [[German East Africa]] became a British mandate territory (Tanganyika) under the League of Nations. The territory came under British administration and remained a British colony until independence in 1961.
+After the war, [[East Africa]] became a British mandate territory (Tanganyika) under the League of Nations. The territory came under British administration and remained a British colony until independence in 1961.
 
 ## Long-Term Consequences
 
-The [[East Africa Campaign WWI]] had lasting consequences:
+The [[East Africa]] had lasting consequences:
 
 **Administrative Changes**: The war solidified British administrative control over [[East African Community]], affecting governance and development patterns.
 
@@ -92,10 +92,10 @@ The [[East Africa Campaign WWI]] had lasting consequences:
 
 ## See Also
 
-- [[German East Africa]]
-- [[Berlin Conference East Africa]]
-- [[East African Droughts]]
-- [[Kenya Tanzania Border]]
+- [[East Africa]]
+- [[East Africa]]
+- [[East Africa]]
+- [[Kenya]]
 - [[Groundnut Scheme]]
 - [[East Africa Timeline]]
 

@@ -2,11 +2,11 @@ Even within KANU, opposition to mlolongo emerged. Some KANU politicians were unc
 
 ## See Also
 - [[1988 Election]]
-- [[Mlolongo System]]
+- [[1988 Election Mlolongo System]]
 - [[KANU Party]]
 - [[Daniel arap Moi]]
-- [[Kenya One-Party State]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

@@ -1,4 +1,4 @@
-The political conditions that made the March 2018 [[2017 Election People's President|handshake between President Uhuru Kenyatta and opposition leader Raila Odinga]] possible were established through the dynamics of the 2017 electoral crisis, the Supreme Court nullification, the opposition boycott, and the October re-run. The prelude to the handshake demonstrates how electoral crisis, rather than crystallizing political antagonism permanently, created conditions for elite negotiation and political reconciliation if elite actors perceived mutual interest in cooperation.
+The political conditions that made the March 2018 [[2017 Election|handshake between President Uhuru Kenyatta and opposition leader Raila Odinga]] possible were established through the dynamics of the 2017 electoral crisis, the Supreme Court nullification, the opposition boycott, and the October re-run. The prelude to the handshake demonstrates how electoral crisis, rather than crystallizing political antagonism permanently, created conditions for elite negotiation and political reconciliation if elite actors perceived mutual interest in cooperation.
 
 The Supreme Court's August 30 nullification decision, while representing dramatic judicial assertion of authority, simultaneously created opportunity for political negotiation. The decision established that elections could be contested and potentially overturned, meaning that no electoral outcome was permanently final. This opened space for negotiation between Kenyatta and Raila regarding the terms of post-election governance and the possible accommodation of opposition interests outside the formal electoral framework.
 
@@ -20,7 +20,7 @@ The handshake itself, when it occurred on March 9, 2018, surprised both domestic
 
 [[2017 Election]]
 [[2017 Election October Re-run]]
-[[2017 Election People's President]]
+[[2017 Election]]
 [[2017 Election Supreme Court Nullification]]
 [[2017 Election Long-Term Impact]]
 

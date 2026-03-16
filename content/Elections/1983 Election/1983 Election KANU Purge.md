@@ -17,8 +17,8 @@ The purge of sitting MPs meant that a high proportion of the 1983 parliament was
 - [[Daniel arap Moi]]
 - [[KANU Party]]
 - [[1983 Election Moi Consolidation]]
-- [[Kenya Authoritarianism]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

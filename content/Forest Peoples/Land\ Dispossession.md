@@ -10,7 +10,7 @@ The Kenya Land Alliance 2018 report documented that approximately 500,000 Kenyan
 
 ## See Also
 
-[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Forest Rights Land]] | [[Mau Forest]] | [[Kenya Land Alliance]] | [[Colonial Kenya]] | [[Conservation Kenya]]
+[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Forest\ Rights\ Land]] | [[Mau Forest]] | [[Kenya]] | [[Colonial Kenya]] | [[Conservation]]
 
 ## Sources
 

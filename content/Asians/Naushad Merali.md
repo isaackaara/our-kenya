@@ -1,4 +1,4 @@
-[[Naushad Merali]] became one of Kenya's wealthiest individuals and most influential [[business leaders]] through diverse investments in telecommunications, banking, property, and other sectors. His business interests extended beyond Kenya to regional and international operations. Merali's prominence in Kenya's business world, combined with his roles as a corporate director and investor, made him one of the most powerful figures in Kenyan business by the twenty-first century.
+[[Naushad Merali]] became one of Kenya's wealthiest individuals and most influential [[Business Leaders Foreign]] through diverse investments in telecommunications, banking, property, and other sectors. His business interests extended beyond Kenya to regional and international operations. Merali's prominence in Kenya's business world, combined with his roles as a corporate director and investor, made him one of the most powerful figures in Kenyan business by the twenty-first century.
 
 ## Telecommunications Interests
 

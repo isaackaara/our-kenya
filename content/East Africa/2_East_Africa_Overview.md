@@ -49,7 +49,7 @@ East African societies share common heritage patterns:
 
 ## Cultural and Linguistic Connections
 
-[[Swahili Regional Language]], originating on the coast, has become the EAC's official language and a lingua franca for cross-border communication. Regional ethnic groups span borders ([[Maasai Borders]] in Kenya and Tanzania, Somali across four states, Luo-related peoples across Uganda and Kenya), creating complex questions of identity and national loyalty.
+[[Swahili]], originating on the coast, has become the EAC's official language and a lingua franca for cross-border communication. Regional ethnic groups span borders ([[Maasai]] in Kenya and Tanzania, Somali across four states, Luo-related peoples across Uganda and Kenya), creating complex questions of identity and national loyalty.
 
 ## Strategic Importance
 
@@ -57,12 +57,12 @@ The region controls critical trade routes, sits on the Indian Ocean, and include
 
 ## See Also
 
-- [[Kenya in East Africa]]
+- [[Kenya]]
 - [[EAC History]]
 - [[EAC Common Market]]
-- [[Nairobi Regional Hub]]
-- [[Berlin Conference East Africa]]
-- [[East African Droughts]]
+- [[Nairobi]]
+- [[East Africa]]
+- [[East Africa]]
 
 ## Sources
 

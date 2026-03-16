@@ -2,11 +2,11 @@ The press in 1983 operated under tight constraints, with media self-censorship a
 
 ## See Also
 - [[1983 Election]]
-- [[Kenya Press Freedom]]
-- [[Media Kenya 1980s]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
+- [[Media]]
+- [[Kenya]]
 - [[KANU Party]]
-- [[Kenya Broadcasting]]
+- [[Kenya]]
 
 ## Sources
 1. Mytton, Graham. "Mass Communication in Africa." Arnold Publishers, 1983.

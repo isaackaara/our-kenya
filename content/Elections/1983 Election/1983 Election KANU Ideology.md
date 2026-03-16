@@ -3,10 +3,10 @@ KANU in 1983 emphasized stability, national unity, and development under Moi's N
 ## See Also
 - [[KANU Party]]
 - [[1983 Election]]
-- [[Nyayo]]
+- [[Nyala]]
 - [[Daniel arap Moi]]
-- [[Kenya Political System 1978-1991]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

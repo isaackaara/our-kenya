@@ -14,11 +14,11 @@ By the 1950s, monetary policy became increasingly complicated by the transition 
 
 ## See Also
 
-[[Colonial Trade Commerce Control]]
+[[Trade Commerce Control]]
 [[Colonial Taxation System]]
 [[Settler Farming System]]
 [[Colonial Economic Integration]]
-[[East African Economic Cooperation]]
+[[East Africa]]
 [[Colonial Inflation]]
 
 ## Sources

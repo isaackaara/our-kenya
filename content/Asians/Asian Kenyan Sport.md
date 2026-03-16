@@ -1,4 +1,4 @@
-[[Kenyans]] of [[Asian Kenyans|Asian]] descent have participated in [[Kenya]]'s [[sports]] at both amateur and professional levels, though their presence is not as prominent as in other sectors. Some [[Asian Kenyans]] have achieved notable [[sports|sporting]] success.
+[[Kenya]] of [[Asian Kenyans|Asian]] descent have participated in [[Kenya]]'s [[sports]] at both amateur and professional levels, though their presence is not as prominent as in other sectors. Some [[Asian Kenyans]] have achieved notable [[sports|sporting]] success.
 
 ## Participation and Sports Culture
 
@@ -37,7 +37,7 @@ As of 2026, Asian Kenyan participation in sports remains modest relative to thei
 - [[Asian Kenyan Youth]]
 - [[Asian Kenyans in the Professions]]
 - [[Asian Community Schools Today]]
-- [[Kenyan sports]]
+- [[Kenya]]
 - [[Asian Kenyans Today]]
 
 ## Sources

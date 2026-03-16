@@ -18,7 +18,7 @@ The 2022 election results in coastal and northeastern regions maintained consist
 
 [[2022 Election]]
 [[2022 Election Results]]
-[[2022 Election Regional Patterns|2022 Election Mt. Kenya Shift]]
+[[2022 Election|2022 Election Mt. Kenya Shift]]
 [[2022 Election Kenya Kwanza]]
 [[2022 Election Azimio Coalition]]
 

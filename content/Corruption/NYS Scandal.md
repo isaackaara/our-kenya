@@ -1,6 +1,6 @@
 ## The National Youth Service
 
-The National Youth Service (NYS) is a Kenyan government institution established to provide training and employment for young Kenyans. It operates under the [[Ministry of Devolution]]. In principle, public funds allocated to NYS should be used to provide vocational training, skills development, and [[employment support]].
+The National Youth Service (NYS) is a Kenyan government institution established to provide training and employment for young Kenyans. It operates under the [[Ministry of Devolution]]. In principle, public funds allocated to NYS should be used to provide vocational training, skills development, and [[support]].
 
 The NYS scandals of 2016 and 2018 revealed that billions of shillings allocated to NYS were instead diverted to private accounts through fraudulent procurement.
 
@@ -16,7 +16,7 @@ The 2016 scandal became known because of the leak of telecommunications records.
 
 A similar scandal emerged again in 2018, suggesting that the problems at NYS had not been addressed after 2016. More billions of shillings disappeared through the same mechanism: inflated contracts, phantom deliverables, and funds diverted to private accounts.
 
-The 2018 scandal involved individuals described as "cartels" within [[government procurement]]. These groups would ensure that contracts were awarded to their allied companies, regardless of the actual value of the goods or services provided.
+The 2018 scandal involved individuals described as "cartels" within [[Ruto Government Procurement]]. These groups would ensure that contracts were awarded to their allied companies, regardless of the actual value of the goods or services provided.
 
 The fact that the same scandal recurred two years later suggested that:
 

@@ -2,7 +2,7 @@
 title: Maasai Borders
 ---
 
-The [[Maasai Borders]] pastoral people are one of [[East African Community]]'s most recognizable ethnic groups, but they are divided by the [[Kenya Tanzania Border]]. The [[Maasai Borders]] experience illustrates how colonial borders separate culturally and linguistically unified peoples.
+The [[Maasai]] pastoral people are one of [[East African Community]]'s most recognizable ethnic groups, but they are divided by the [[Kenya]]. The [[Maasai]] experience illustrates how colonial borders separate culturally and linguistically unified peoples.
 
 ## Geographic Distribution
 
@@ -16,13 +16,13 @@ The border passes through traditional Maasai pastoral lands, separating communit
 
 ## Unified Culture Despite Border
 
-The [[Maasai Borders]] share a distinctive culture and identity:
+The [[Maasai]] share a distinctive culture and identity:
 
-**Language**: Both Kenyan and Tanzanian [[Maasai Borders]] speak Maasai (Maa), a Nilo-Saharan language mutually intelligible across the border.
+**Language**: Both Kenyan and Tanzanian [[Maasai]] speak Maasai (Maa), a Nilo-Saharan language mutually intelligible across the border.
 
 **Pastoralism**: Both groups are traditionally pastoral, herding cattle, goats, and sheep.
 
-**Social Organization**: The [[Maasai Borders]] are organized into age-sets and clan groups that transcend the border. Young men pass through age-grades (warrior, elder, etc.) according to shared cultural practices.
+**Social Organization**: The [[Maasai]] are organized into age-sets and clan groups that transcend the border. Young men pass through age-grades (warrior, elder, etc.) according to shared cultural practices.
 
 **Religion**: Both groups practice a traditional religion centered on belief in Enkai (God), though Christianity and Islam have gained followers.
 
@@ -58,17 +58,17 @@ Kenya and Tanzania pursued different development policies that created divergent
 
 **Tanzania's Approach**: Under Julius Nyerere, Tanzania pursued socialism (ujamaa) and communal village settlement schemes. This attempted to reorganize pastoral Maasai into collective settlements, with mixed success.
 
-**Wildlife Policies**: Both countries established national parks and wildlife reserves on [[Maasai Borders]] lands, restricting pastoral use of these areas. Kenya's Amboseli and Tanzania's Serengeti created different management regimes for shared [[Maasai Borders]] pastoral lands.
+**Wildlife Policies**: Both countries established national parks and wildlife reserves on [[Maasai]] lands, restricting pastoral use of these areas. Kenya's Amboseli and Tanzania's Serengeti created different management regimes for shared [[Maasai]] pastoral lands.
 
 ## Identity and Loyalty
 
-For [[Maasai Borders]], questions of national versus ethnic identity have been persistently complex:
+For [[Maasai]], questions of national versus ethnic identity have been persistently complex:
 
-**Ethnic Identity**: Many [[Maasai Borders]] identify primarily as [[Maasai Borders]] rather than as Kenyan or Tanzanian.
+**Ethnic Identity**: Many [[Maasai]] identify primarily as [[Maasai]] rather than as Kenyan or Tanzanian.
 
 **Cross-Border Kin Networks**: Extended family and clan relationships, some spanning the border, create loyalties that transcend national boundaries.
 
-**Political Representation**: [[Maasai Borders]] on each side of the border have developed distinct political relationships with their respective governments.
+**Political Representation**: [[Maasai]] on each side of the border have developed distinct political relationships with their respective governments.
 
 ## Contemporary Challenges
 
@@ -84,12 +84,12 @@ Modern Maasai communities face challenges related to their cross-border status:
 
 ## See Also
 
-- [[Kenya Tanzania Border]]
-- [[Berlin Conference East Africa]]
-- [[Kalenjin Nilo Saharan]]
-- [[Somali Cross Border]]
-- [[Luo Language Family]]
-- [[East African Droughts]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Kalenjin]]
+- [[Somali]]
+- [[Luo Language]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -147,7 +147,7 @@ This vertical maps [[Kenya]]'s corporate landscape across [[Banking History Keny
 - [[Kenyan Asian Business Families]] - Merchant and industrial communities
 - [[Vision 2030]] - Contemporary economic development vision
 - [[Nairobi Stock Exchange]] - Capital markets and listed companies
-- [[Corruption Kenya]] - Political interference in corporate governance
+- [[Corruption]] - Political interference in corporate governance
 
 ## Sources
 

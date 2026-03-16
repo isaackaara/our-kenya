@@ -13,10 +13,10 @@ The 1969 election thus reinforced patterns of female political marginalization t
 ## See Also
 
 - [[1969 Election]]
-- [[Women's Political Participation Kenya]]
+- [[Women]]
 - [[Gender and Electoral Politics]]
 - [[Female Leadership Kenya]]
-- [[Women's Representation]]
+- [[Women]]
 - [[Gender Discrimination Kenya]]
 - [[Political Marginalization]]
 

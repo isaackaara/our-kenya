@@ -16,7 +16,7 @@ Resistance to alienation was continuous but ineffective under colonial condition
 [[Settler Farming System]]
 [[White Highlands]]
 [[Colonial Policy Frameworks]]
-[[Kikuyu Colonial Dispossession]]
+[[Kikuyu]]
 [[Crown Land Policy]]
 
 ## Sources

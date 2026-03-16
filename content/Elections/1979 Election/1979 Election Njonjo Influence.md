@@ -17,7 +17,7 @@ Njonjo's Kikuyu background and his association with Kenyatta would later become 
 - [[1979 Election]]
 - [[Daniel arap Moi]]
 - [[Jomo Kenyatta]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 - [[1983 Election Njonjo Fall]]
 
 ## Sources

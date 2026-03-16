@@ -10,7 +10,7 @@ Initiatives to preserve and document oral traditions have emerged among forest p
 
 ## See Also
 
-[[Traditional Knowledge]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Cultural Survival Strategies]] | [[Language Preservation]] | [[Forest Rights Land]] | [[Indigenous Identity Kenya]]
+[[Traditional\ Knowledge]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Cultural\ Survival\ Strategies]] | [[Language Preservation]] | [[Forest\ Rights\ Land]] | [[Indigenous\ Identity\ Kenya]]
 
 ## Sources
 

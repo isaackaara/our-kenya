@@ -18,7 +18,7 @@ The defeats of 1974 had long-term political consequences. They demonstrated that
 - [[1974 Election Regional Patterns]]
 - [[KANU Party]]
 - [[1974 Election Development Agenda]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya: A Reappraisal." Eastern Africa Studies, 1976.

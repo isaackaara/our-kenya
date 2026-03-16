@@ -37,7 +37,7 @@ Land grabbing and registry corruption are inseparable from Kenya's history of po
 - [[Kenyatta Era Corruption]]
 - [[Kibaki Era Corruption]]
 - [[Impunity Culture]]
-- [[Judicial Corruption]]
+- [[Corruption]]
 - [[Asset Recovery Kenya]]
 
 ## Sources

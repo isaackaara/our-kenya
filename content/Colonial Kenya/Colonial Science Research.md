@@ -21,7 +21,7 @@ By the 1950s, African scientists and scholars increasingly questioned the coloni
 ## See Also
 [[Colonial Knowledge Production]]
 [[Colonial Anthropology]]
-[[Colonial Medicine]]
+[[Colonial Medicine Healthcare]]
 [[Colonial Agriculture]]
 [[Scientific Colonialism]]
 [[Indigenous Knowledge Systems]]

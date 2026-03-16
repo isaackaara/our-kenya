@@ -27,7 +27,7 @@ Conservation initiatives in Tsavo West have focused on biodiversity protection, 
 - [[Chyulu Hills]]
 - [[Wildlife Conservation Kenya]]
 - [[National Parks Kenya]]
-- [[Kilimanjaro]]
+- [[Kilimanjaro View from Amboseli]]
 
 ## Sources
 1. Kenya Wildlife Service. "Tsavo West National Park Management Plan." (2021). https://www.kws.go.ke

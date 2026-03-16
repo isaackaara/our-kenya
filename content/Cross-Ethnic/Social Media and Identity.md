@@ -12,7 +12,7 @@ However, social media simultaneously facilitates ethnic organization. Ethnic gro
 
 Social media's algorithm-driven content distribution potentially creates echo chambers reinforcing user's existing perspectives and interests. If users follow people from their ethnic group disproportionately, algorithms may continue to surface content from that group. This dynamic could reinforce ethnic clustering even on platforms theoretically enabling cross-ethnic connection.
 
-The tension between potential for cross-ethnic connection and propensity for ethnic clustering characterizes [[social media]]'s role in [[Kenyan identity]] formation. The degree to which [[social media]] promotes integration or fragmentation depends on user choices and platform design.
+The tension between potential for cross-ethnic connection and propensity for ethnic clustering characterizes [[social media]]'s role in [[Kenyan Identity Evolution 1964-2026]] formation. The degree to which [[social media]] promotes integration or fragmentation depends on user choices and platform design.
 
 ## See Also
 

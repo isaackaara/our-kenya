@@ -1,6 +1,6 @@
 Contraceptive availability and access in Kenya have expanded since independence, though inequities in access persist between wealthy urban populations and poor rural populations. The Kenya Demographic and Health Surveys document contraceptive prevalence trends, tracking method use patterns and identifying gaps. Modern contraceptive methods including hormonal pills, injectables, and implants become increasingly available through health facilities and private providers. Traditional methods including rhythm and withdrawal continue use among populations lacking access to modern methods or due to cultural preference.
 
-The supply chain for contraceptive commodities requires coordination between [[Ministry of Health]], donors, and distributors ensuring consistent availability without stockouts. Contraceptive stockouts force postponement of family planning services and may prompt unintended pregnancies when women cannot access their preferred method. Government procurement of contraceptive commodities and partnership with donor organizations including [[USAID]] and [[UNFPA]] maintain commodity security. However, supply disruptions during crises including COVID-19 pandemic demonstrated fragility of supply systems.
+The supply chain for contraceptive commodities requires coordination between [[Health]], donors, and distributors ensuring consistent availability without stockouts. Contraceptive stockouts force postponement of family planning services and may prompt unintended pregnancies when women cannot access their preferred method. Government procurement of contraceptive commodities and partnership with donor organizations including [[USAID]] and [[UNFPA]] maintain commodity security. However, supply disruptions during crises including COVID-19 pandemic demonstrated fragility of supply systems.
 
 Cost represents a barrier to contraceptive access, with unsubsidized methods unaffordable for poor populations. Free or subsidized contraceptive provision through public health facilities reduces financial barriers. However, facility stockouts and limited method choice in some areas constrain access even where free provision exists. Community-based distribution through health workers brings contraceptives closer to households, reducing transportation barriers and enabling access for populations distant from facilities.
 
@@ -12,8 +12,8 @@ Pharmacies and private retailers increasingly dispense contraceptive pills and c
 [[Family Planning Programs|Family Planning Programs]]
 [[Reproductive Health Services|Reproductive Health Services]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
-[[Women's Health and Development|Women]]
-[[Poverty and Health|Poverty]]
+[[Women|Women]]
+[[Poverty|Poverty]]
 [[Private Healthcare Development|Private Healthcare Development]]
 
 ## Sources

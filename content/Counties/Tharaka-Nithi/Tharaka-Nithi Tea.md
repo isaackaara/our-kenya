@@ -13,8 +13,8 @@ Climate change presents significant challenges for tea production in Tharaka-Nit
 [[Tharaka-Nithi County|Tharaka-Nithi County]]
 [[Chuka Mwimbi People|Chuka Mwimbi People]]
 [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
-[[Tharaka-Nithi Climate|Tharaka-Nithi Climate]]
-[[Tharaka-Nithi Cooperatives|Tharaka-Nithi Cooperatives]]
+[[Tharaka|Tharaka-Nithi Climate]]
+[[Tharaka|Tharaka-Nithi Cooperatives]]
 [[../../Economic/Tea Production|Tea Production]]
 
 ## Sources

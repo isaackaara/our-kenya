@@ -18,9 +18,9 @@ The 1979 election was an opportunity to move past Kenyatta-era politics without 
 - [[Jomo Kenyatta]]
 - [[1979 Election]]
 - [[Daniel arap Moi]]
-- [[Nyayo]]
+- [[Nyala]]
 - [[1978 Succession]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

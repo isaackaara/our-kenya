@@ -22,7 +22,7 @@ Uhuru's post-2002 political trajectory demonstrated the long-term damage of elec
 - [[KANU party history]]
 - [[Moi's succession plans]]
 - [[2002 Election Moi Succession]]
-- [[Kenya's political transitions]]
+- [[Kenya]]
 - [[Uhuru Kenyatta]]
 
 ## Sources

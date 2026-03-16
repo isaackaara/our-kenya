@@ -1,4 +1,4 @@
-[[Devki Group]] is a major [[Manufacturing|manufacturing]] and trading company in [[Kenya]], with interests in steel, plastic products, steel pipes, and related sectors. The group represents a modern industrial conglomerate within [[Kenya]]'s post-independence corporate landscape.
+[[Devki Group]] is a major [[Manufacturing History Kenya|manufacturing]] and trading company in [[Kenya]], with interests in steel, plastic products, steel pipes, and related sectors. The group represents a modern industrial conglomerate within [[Kenya]]'s post-independence corporate landscape.
 
 ## See Also
 

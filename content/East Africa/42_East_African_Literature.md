@@ -104,12 +104,12 @@ East African writers have shaped global literature:
 
 ## See Also
 
-- [[Swahili Regional Language]]
-- [[Zanzibar Revolution]]
-- [[Kenya in East Africa]]
-- [[East African Community History]]
+- [[Swahili]]
+- [[Zanzibar]]
+- [[Kenya]]
+- [[East African Community]]
 - [[Indian Ocean Heritage]]
-- [[East African Music]]
+- [[East African Music Charts 1990s]]
 - [[East Africa Timeline]]
 
 ## Sources

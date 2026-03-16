@@ -32,7 +32,7 @@ Funding for NGOs has become increasingly constrained as international donor prio
 - [[Embu County Women]]
 - [[Embu County Youth]]
 - [[Embu County Education]]
-- [[Embu County Water]]
+- [[Embu County]]
 
 ## Sources
 

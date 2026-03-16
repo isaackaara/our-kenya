@@ -20,7 +20,7 @@ The colour bar faced increasing challenges during the 1950s as independence move
 [[Colonial Civil Service]]
 [[Colonial Racial Discrimination]]
 [[Colonial Wages]]
-[[Labour and Colonialism]]
+[[Labour]]
 
 ## Sources
 1. Cooper, Frederick. "Decolonization and African Society: The Labor Question in French and British Africa." Cambridge University Press, 1996. https://www.cambridge.org/core/books/decolonization-and-african-society/

@@ -46,7 +46,7 @@ Patients lack information or agency to report corruption. They are dependent on 
 - [[Procurement Corruption]]
 - [[Kibaki Era Corruption]]
 - [[Education Sector Corruption]]
-- [[Service Delivery and Corruption]]
+- [[Corruption]]
 
 ## Sources
 

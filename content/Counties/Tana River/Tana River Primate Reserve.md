@@ -33,7 +33,7 @@ International conservation support has been critical to reserve management and r
 - [[Tana River Wildlife|Tana River Wildlife]]
 - [[Tana River (the river)|Tana River (the river)]]
 - [[Tana Delta|Tana Delta]]
-- [[Kenya Conservation Areas|Kenya Conservation Areas]]
+- [[Kenya|Kenya Conservation Areas]]
 - [[Tana River Climate Change|Tana River Climate Change]]
 
 ## Sources

@@ -20,7 +20,7 @@ Modern banana cultivation involved tension between traditional practices and com
 [[Crop Farming Evolution]]
 [[Agroforestry Systems]]
 [[Food Security Policies]]
-[[Luo Agricultural Traditions]]
+[[Luo]]
 [[Western Kenya Agriculture]]
 [[Household Food Production]]
 

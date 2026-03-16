@@ -34,7 +34,7 @@ Pharmaceutical companies that were victims of counterfeiting occasionally invest
 - [[Public Procurement Corruption]]
 - [[Moi Era Corruption Economy]]
 - [[Kibaki Era Corruption]]
-- [[Service Delivery and Corruption]]
+- [[Corruption]]
 
 ## Sources
 

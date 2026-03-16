@@ -2,7 +2,7 @@
 title: Somali Cross Border
 ---
 
-The [[Somali Cross Border]] speaking people are divided among four African nations: Somalia, Kenya, Ethiopia, and Djibouti. This division has created complex questions of identity, sovereignty, and transnational community ties that persist to this day.
+The [[Somali]] speaking people are divided among four African nations: Somalia, Kenya, Ethiopia, and Djibouti. This division has created complex questions of identity, sovereignty, and transnational community ties that persist to this day.
 
 ## Geographic Distribution
 
@@ -10,7 +10,7 @@ Somali people are distributed across:
 
 **Somalia**: The primary Somali nation-state, though state collapse since 1991 has fragmented political authority.
 
-**Kenyan Somalia**: Roughly 2-3 million [[Somali Cross Border]] speakers live in Kenya, primarily in the Eastern Region under the [[NFD Colonial Policy]].
+**Kenyan Somalia**: Roughly 2-3 million [[Somali]] speakers live in Kenya, primarily in the Eastern Region under the [[NFD Colonial Policy]].
 
 **Ethiopian Somali**: Millions of Somali-speaking people live in the Ogaden region of Ethiopia and surrounding areas.
 
@@ -20,13 +20,13 @@ The Kenya-Somalia border is the most contentious boundary involving Somali peopl
 
 ## Somali Nationalism and Territorial Claims
 
-The primary issue involving [[Somali Cross Border]] communities is the territorial claim known as Greater Somalia:
+The primary issue involving [[Somali]] communities is the territorial claim known as Greater Somalia:
 
-**Somali Irredentism**: Under Mohamed Siad Barre (1969-1991), Somalia explicitly claimed territory inhabited by [[Somali Cross Border]] people in Kenya, Ethiopia, and Djibouti. These territorial claims were based on ethnic grounds: where [[Somali Cross Border]] people lived, Somalia believed should be part of Somalia.
+**Somali Irredentism**: Under Mohamed Siad Barre (1969-1991), Somalia explicitly claimed territory inhabited by [[Somali]] people in Kenya, Ethiopia, and Djibouti. These territorial claims were based on ethnic grounds: where [[Somali]] people lived, Somalia believed should be part of Somalia.
 
-**The Ogaden War (1977-1978)**: Somalia invaded Ethiopia to claim the Ogaden region, a territory inhabited by [[Somali Cross Border]] pastoralists. Ethiopia, with Soviet and Cuban assistance, defeated Somalia and retained the Ogaden.
+**The Ogaden War (1977-1978)**: Somalia invaded Ethiopia to claim the Ogaden region, a territory inhabited by [[Somali]] pastoralists. Ethiopia, with Soviet and Cuban assistance, defeated Somalia and retained the Ogaden.
 
-**The Shifta War in Kenya (1963-1967)**: [[Somali Cross Border]] guerrillas in Kenya's [[NFD Colonial Policy]], supported (or believed by Kenya to be supported) by Somalia, fought Kenyan forces for union with Somalia.
+**The Shifta War in Kenya (1963-1967)**: [[Somali]] guerrillas in Kenya's [[NFD Colonial Policy]], supported (or believed by Kenya to be supported) by Somalia, fought Kenyan forces for union with Somalia.
 
 **Djibouti**: Somalia did not pursue territorial claims against Djibouti during this period, partly due to French military protection.
 
@@ -44,17 +44,17 @@ The Ogaden remains the most significant territorial dispute:
 
 ## How Somali People Navigate Multiple States
 
-[[Somali Cross Border]] communities with family in multiple countries navigate transnational identity in various ways:
+[[Somali]] communities with family in multiple countries navigate transnational identity in various ways:
 
-**Clan Networks**: [[Somali Cross Border]] social organization is built around clan structures that transcend national borders. Extended family networks link [[Somali Cross Border]] communities across Somalia, Kenya, Ethiopia, and Djibouti.
+**Clan Networks**: [[Somali]] social organization is built around clan structures that transcend national borders. Extended family networks link [[Somali]] communities across Somalia, Kenya, Ethiopia, and Djibouti.
 
-**Money Transfer Networks**: Remittances flow from wealthier [[Somali Cross Border]] diaspora (particularly in the West) to family members across all four countries. These financial networks maintain transnational family ties.
+**Money Transfer Networks**: Remittances flow from wealthier [[Somali]] diaspora (particularly in the West) to family members across all four countries. These financial networks maintain transnational family ties.
 
-**Trade Networks**: [[Somali Cross Border]] traders operate across borders, moving goods (livestock, textiles, spices) between countries.
+**Trade Networks**: [[Somali]] traders operate across borders, moving goods (livestock, textiles, spices) between countries.
 
-**Mobile Pastoralism**: Historically, [[Somali Cross Border]] pastoralists moved livestock across borders in response to rainfall and grazing conditions. Contemporary border controls have restricted this, but some movement continues.
+**Mobile Pastoralism**: Historically, [[Somali]] pastoralists moved livestock across borders in response to rainfall and grazing conditions. Contemporary border controls have restricted this, but some movement continues.
 
-**Language and Identity**: [[Somali Cross Border]] language and culture provide a shared identity that supersedes national borders for many [[Somali Cross Border]] people.
+**Language and Identity**: [[Somali]] language and culture provide a shared identity that supersedes national borders for many [[Somali]] people.
 
 ## Kenyan Somali Identity
 
@@ -70,11 +70,11 @@ Kenyan Somali face particular identity challenges:
 
 ## Militant Networks and Transnational Recruitment
 
-Cross-border militant groups exploit transnational [[Somali Cross Border]] networks:
+Cross-border militant groups exploit transnational [[Somali]] networks:
 
-**Recruitment**: Militant groups recruit fighters across Somalia, Kenya, and the broader [[Somali Cross Border]] diaspora, maintaining a transnational fighting force.
+**Recruitment**: Militant groups recruit fighters across Somalia, Kenya, and the broader [[Somali]] diaspora, maintaining a transnational fighting force.
 
-**Financing**: Groups use transnational [[Somali Cross Border]] financial and trade networks to finance operations.
+**Financing**: Groups use transnational [[Somali]] financial and trade networks to finance operations.
 
 **Safe Havens**: Militant groups operate across the Somalia-Kenya border, using terrain and transnational community ties to evade security forces.
 
@@ -90,11 +90,11 @@ The Somalia state collapse created massive refugee movements:
 
 ## See Also
 
-- [[Kenya Somalia Border]]
-- [[Somalia Collapse]]
+- [[Kenya]]
+- [[Somalia]]
 - [[NFD Colonial Policy]]
-- [[Maasai Borders]]
-- [[Kenya Ethiopia Border]]
+- [[Maasai]]
+- [[Kenya]]
 - [[Bajuni People]]
 - [[East Africa Timeline]]
 

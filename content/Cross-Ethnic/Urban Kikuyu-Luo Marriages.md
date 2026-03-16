@@ -1,4 +1,4 @@
-Marriages between [[Kikuyu]] and [[Luo]] people are historically significant because these two communities have been [[Kenya]]'s largest and most politically powerful ethnic groups, often positioned in opposition to each other in political competition. The emergence of [[Kikuyu-Luo intermarriage]], particularly in urban contexts, represents a striking transformation in [[ethnic relations]].
+Marriages between [[Kikuyu]] and [[Luo]] people are historically significant because these two communities have been [[Kenya]]'s largest and most politically powerful ethnic groups, often positioned in opposition to each other in political competition. The emergence of [[Kikuyu]], particularly in urban contexts, represents a striking transformation in [[Religious Communities Ethnic Relations]].
 
 The historical relationship between Kikuyu and Luo communities has been marked by intense political competition and conflict. The Kikuyu-dominated KANU party and Luo-aligned political movements competed for control of the post-independence state. The 1992 and 1997 multiparty elections saw severe ethnic polarization, with Kikuyu and Luo communities often supporting opposing candidates. This political rivalry translated into hostile ethnic stereotyping, with each community developing negative generalizations about the other.
 
@@ -8,7 +8,7 @@ The emergence and growth of Kikuyu-Luo intermarriage is therefore a significant 
 
 Kikuyu-Luo couples have sometimes become public advocates for cross-ethnic understanding. High-profile celebrities and public figures of Kikuyu-Luo heritage have used their visibility to promote messages of national unity. However, the experience of less-prominent Kikuyu-Luo couples suggests that family opposition and social pressure remain significant obstacles.
 
-The [[2007-2008 post-election violence]] strained Kikuyu-Luo relationships city-wide, including affecting some intermarried couples. Some couples reported that extended family members attempted to pressure them to leave one spouse or to choose ethnic loyalty over marital commitment. The violence demonstrated the degree to which political mobilization can override even intimate family bonds.
+The [[Post-Election Violence]] strained Kikuyu-Luo relationships city-wide, including affecting some intermarried couples. Some couples reported that extended family members attempted to pressure them to leave one spouse or to choose ethnic loyalty over marital commitment. The violence demonstrated the degree to which political mobilization can override even intimate family bonds.
 
 ## See Also
 

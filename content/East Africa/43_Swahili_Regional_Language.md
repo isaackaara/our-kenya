@@ -110,8 +110,8 @@ Modern Swahili continues to evolve:
 - [[Arab Slave Trade]]
 - [[Omani Empire]]
 - [[Mombasa Port]]
-- [[East African Literature]]
-- [[East African Music]]
+- [[East African Literature Bureau]]
+- [[East African Music Charts 1990s]]
 - [[East Africa Timeline]]
 
 ## Sources

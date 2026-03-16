@@ -36,7 +36,7 @@ Public-private partnership approaches have been explored to extend service avail
 - [[Tana River Women|Tana River Women]]
 - [[Tana River Youth|Tana River Youth]]
 - [[Tana River Education|Tana River Education]]
-- [[Kenya Healthcare System|Kenya Healthcare System]]
+- [[Kenya|Kenya Healthcare System]]
 
 ## Sources
 

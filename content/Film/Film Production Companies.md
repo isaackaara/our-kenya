@@ -15,7 +15,7 @@ Financing was consistent challenge for film production companies. Limited availa
 By 2000s and 2010s, production company landscape had transformed with digital technology reducing production costs. Independent producers with minimal capital could produce professional-quality work using digital equipment. This democratization of production technology expanded the number of active producers beyond those associated with established companies.
 
 ## See Also
-[[Riverwood Film Industry]], [[Television Studios]], [[Film Distribution]], [[Film Financing]], [[Independent Film]], [[Television Acting]], [[Film Directing]]
+[[Riverwood Film Industry]], [[Television Studios]], [[Film Distribution]], [[Film]], [[Independent Film]], [[Television Acting]], [[Film Directing]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

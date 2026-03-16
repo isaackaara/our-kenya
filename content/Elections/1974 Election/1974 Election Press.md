@@ -18,10 +18,10 @@ The 1974 election received substantial newspaper coverage, but this coverage ope
 
 ## See Also
 - [[1974 Election]]
-- [[Kenya Press Freedom]]
+- [[Kenya]]
 - [[KANU Party]]
-- [[Media Kenya 1970s]]
-- [[Kenya Political System 1964-1978]]
+- [[Media]]
+- [[Kenya]]
 - [[Press Kenya Independence]]
 
 ## Sources

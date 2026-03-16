@@ -1,4 +1,4 @@
-The [[Asian Kenyans]] who remained in [[Kenya]] after [[independence]], or who arrived in later decades, built themselves into the modern [[economy]] in a different guise. No longer petty merchants, they became industrialists, professionals, and entrepreneurs. Major [[Kenyan]] corporations are owned or controlled by [[Asian Kenyans|Asian]] families. Yet the community remains marked, particularly after 2007-08 when [[Asian Kenyans|Asian]] businesses were targeted during [[post-election violence]].
+The [[Asian Kenyans]] who remained in [[Kenya]] after [[independence]], or who arrived in later decades, built themselves into the modern [[economy]] in a different guise. No longer petty merchants, they became industrialists, professionals, and entrepreneurs. Major [[Kenya]] corporations are owned or controlled by [[Asian Kenyans|Asian]] families. Yet the community remains marked, particularly after 2007-08 when [[Asian Kenyans|Asian]] businesses were targeted during [[post-election violence]].
 
 ## Major Business Groups
 

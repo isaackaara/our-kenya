@@ -28,7 +28,7 @@ Research on Embu's wildlife populations and conservation needs has been limited 
 - [[Embu County Agriculture]]
 - [[Embu County Land]]
 - [[Embu County Cultural Sites]]
-- [[Embu County Tourism]]
+- [[Embu County]]
 
 ## Sources
 

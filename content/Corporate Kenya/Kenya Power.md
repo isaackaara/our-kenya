@@ -17,7 +17,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 ## See Also
 
 - [[KenGen]]
-- [[Infrastructure Kenya]]
+- [[IT Infrastructure Kenya]]
 - [[Energy Sector Kenya]]
 - [[Parastatals Kenya]]
 - [[Post-Independence Economic Policy]]

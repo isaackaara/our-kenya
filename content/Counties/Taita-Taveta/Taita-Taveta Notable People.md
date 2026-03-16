@@ -23,9 +23,9 @@ Notable people from the county are sometimes invoked in political rhetoric and r
 ## See Also
 - [[Taita-Taveta County]]
 - [[Taita People County]]
-- [[Kenyan Politicians]]
-- [[Kenyan Intellectuals]]
-- [[Sports in Kenya]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Sports in Kenyan Schools]]
 - [[Business in Kenya]]
 - [[Cultural Leadership]]
 

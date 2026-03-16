@@ -13,7 +13,7 @@ Despite national progress in reducing stunting prevalence, substantial geographi
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Infant Feeding Practices|Infant Feeding Practices]]
 [[Diarrhea Dehydration Management|Diarrhea Dehydration Management]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
 
 ## Sources

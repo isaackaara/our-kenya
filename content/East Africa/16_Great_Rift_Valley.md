@@ -49,7 +49,7 @@ The rift valley's geological activity creates geothermal heat that can be harnes
 
 **Regional Potential**: Ethiopia and other [[East African Community]] nations have geothermal potential but have not yet developed it significantly.
 
-**Energy Integration**: Kenya's geothermal power has regional implications as part of [[East African Power]], making its renewable energy crucial to regional energy security.
+**Energy Integration**: Kenya's geothermal power has regional implications as part of [[East Africa]], making its renewable energy crucial to regional energy security.
 
 ## Volcanic Features
 
@@ -100,12 +100,12 @@ The rift valley faces contemporary stresses:
 
 ## See Also
 
-- [[East African Rift Geology]]
+- [[East Africa]]
 - [[Lake Victoria]]
 - [[Mount Kilimanjaro]]
-- [[East African Power]]
-- [[East African Droughts]]
-- [[Kenya Tanzania Border]]
+- [[East Africa]]
+- [[East Africa]]
+- [[Kenya]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -1,4 +1,4 @@
-A chronological record of major [[Conservation Events|conservation events]], [[Conservation Policy|policy changes]], and [[Ecological Milestones|ecological milestones]] in Kenya's history from 1900 through 2026. The timeline documents the evolution from [[Colonial Game Preservation|colonial game preservation]] through [[Poaching Crisis|intensive poaching crises]] to [[Modern Conservation Models|contemporary conservation approaches]] including [[Community Conservancies Model|community conservancies]] and [[International Cooperation|international cooperation]].
+A chronological record of major [[Conservation|conservation events]], [[Conservation|policy changes]], and [[Ecological Milestones|ecological milestones]] in Kenya's history from 1900 through 2026. The timeline documents the evolution from [[Colonial Game Preservation|colonial game preservation]] through [[Poaching Crisis 1970s-1980s|intensive poaching crises]] to [[Modern Conservation Models|contemporary conservation approaches]] including [[Community Conservancies Model|community conservancies]] and [[International Cooperation|international cooperation]].
 
 ## Early Period (1900-1945)
 
@@ -122,10 +122,10 @@ A chronological record of major [[Conservation Events|conservation events]], [[C
 
 - [[Kenya Wildlife Service]]
 - [[Poaching Crisis 1970s-1980s]]
-- [[1989 Ivory Burning]]
-- [[Community Conservation Model Evolution]]
+- [[The 1989 Ivory Burning]]
+- [[Community Conservation Model]]
 - [[Climate Change Impacts Timeline]]
-- [[Conservation Institutions Kenya]]
+- [[Conservation]]
 - [[Protected Areas Establishment]]
 
 ## Sources

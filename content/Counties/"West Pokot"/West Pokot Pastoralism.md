@@ -8,10 +8,10 @@ Drought cycles (occurring approximately every 3-7 years) create acute livestock 
 
 ## See Also
 
-- [["West Pokot" County|"West Pokot" County]]
-- [["West Pokot" Politics|Politics]]
-- [["West Pokot" Agriculture|Agriculture]]
-- [["West Pokot" Education|Education]]
+- [[West Pokot County|"West Pokot" County]]
+- [[West Pokot Politics|Politics]]
+- [[West Pokot Agriculture|Agriculture]]
+- [[Education|Education]]
 - [[Conservation|Conservation]]
 - [[Luo|Luo Ethnic Comparison]]
 ## Sources

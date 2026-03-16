@@ -71,11 +71,11 @@ Kenya's role in WWII was secondary to major theaters (Europe, North Africa, Asia
 ## See Also
 
 - [[Italian Prisoners of War Kenya]] - POW camps and experiences
-- [[East Africa Campaign]] - Military operations
-- [[Camp 354 Nanyuki]] - Major POW camp
+- [[East Africa]] - Military operations
+- [[Nanyuki]] - Major POW camp
 - [[European Settler Participation]] - Settler military service
 - [[Mombasa Port]] - Naval operations
-- [[Kenya's War Economy]] - Economic impacts
+- [[Kenya]] - Economic impacts
 - [[European Settlement Overview]] - Settler context
 - [[Lancaster House and Departure]] - Post-war transition to independence The East Africa Campaign ensured that Italy lost East Africa, allowing the expansion of British imperial control.
 

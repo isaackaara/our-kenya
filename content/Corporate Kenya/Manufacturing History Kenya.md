@@ -57,7 +57,7 @@ Kenya's manufacturing sector is unlikely to expand significantly. Global competi
 
 ## See Also
 
-- [[Industrial Area Nairobi]]
+- [[Nairobi]]
 - [[Kenya Exports]]
 - [[Coffee Industry Kenya]]
 - [[Tea Industry Kenya]]

@@ -18,7 +18,7 @@ The sources of campaign financing in 1963 thus represented a complex mix of dome
 - [[American Influence Kenya]]
 - [[Campaign Finance and Democracy]]
 - [[Cold War Funding Africa]]
-- [[Colonial Administration Kenya]]
+- [[Colonial Administration]]
 
 ## Sources
 

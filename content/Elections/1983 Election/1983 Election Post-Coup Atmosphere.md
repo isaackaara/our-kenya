@@ -18,11 +18,11 @@ In this atmosphere of fear and loyalty testing, the 1983 election was called. Th
 
 ## See Also
 - [[1983 Election]]
-- [[1982 Coup Attempt Kenya]]
-- [[Kenya Security Forces]]
-- [[Kenya Authoritarianism]]
+- [[1982 Coup Attempt]]
+- [[Kenya]]
+- [[Kenya]]
 - [[Daniel arap Moi]]
-- [[Kenya Human Rights 1980s]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

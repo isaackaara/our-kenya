@@ -14,7 +14,7 @@ The 1997 election established patterns, precedents, and structural conditions th
 
 **Economic Context Persistence**: The economic crisis that had deepened through the 1997 election would continue through 1999-2000, eventually forcing the [[Moi]] government to negotiate more seriously with international financial institutions and to accept governance reforms. The economic deterioration between 1997 and 2002 cumulated into an even stronger argument for political change, contributing to the overwhelming 2002 opposition vote. Economic distress that had seemed manageable for Moi in 1997 became increasingly untenable by 2002.
 
-**Ethnic Violence Pattern**: The [[coast violence]] of August 1997 (see [[1997 Election Coast Violence]]) established a pattern of election-related violence that would recur and intensify. While 1997 violence was limited in scale, it provided a template for subsequent election-related violence: the mobilization of communal identities for political purposes, the vulnerability of minority and marginalized communities to violence, and the difficulty of establishing accountability. The 1997 violence would pale in comparison to the 2007 post-election violence (which killed 1,300 and displaced 600,000), but it signaled emerging dangers in Kenya's democratic transition.
+**Ethnic Violence Pattern**: The [[1997 Election Coast Violence]] of August 1997 (see [[1997 Election Coast Violence]]) established a pattern of election-related violence that would recur and intensify. While 1997 violence was limited in scale, it provided a template for subsequent election-related violence: the mobilization of communal identities for political purposes, the vulnerability of minority and marginalized communities to violence, and the difficulty of establishing accountability. The 1997 violence would pale in comparison to the 2007 post-election violence (which killed 1,300 and displaced 600,000), but it signaled emerging dangers in Kenya's democratic transition.
 
 **Women's Political Participation**: The minimal progress on women's representation in 1997 (see [[1997 Election Women Candidates]]) would eventually contribute to advocacy for constitutional reform. The gap between women's population share (roughly 50 percent) and women's representation in government (under 5 percent pre-2002) became increasingly untenable to civil society and international advocates. The 2002 election, while not dramatically improving women's representation immediately, did occur within a constitutional reform context that eventually (in 2010) would require gender parity in electoral lists.
 
@@ -26,7 +26,7 @@ The 1997 election's longest-term impact was thus not its immediate outcome (Moi'
 - [[2002 Election]]
 - [[2002 Election NARC Coalition]]
 - [[Electoral reform in Kenya]]
-- [[Kenya's constitutional transition]]
+- [[Kenya]]
 - [[Evolution of multipartyism in Kenya]]
 
 ## Sources

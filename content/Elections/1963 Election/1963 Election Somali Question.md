@@ -15,7 +15,7 @@ The Somali question's resolution through the 1963 referendum was thus incomplete
 - [[1963 Election Results]]
 - [[1963 Election KADU]]
 - [[North Eastern Region Kenya]]
-- [[Somali Republic]]
+- [[Somali]]
 - [[Kenya-Somalia Relations]]
 - [[Self-Determination and Decolonization]]
 - [[Pastoralist Communities Kenya]]

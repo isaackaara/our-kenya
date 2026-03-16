@@ -18,7 +18,7 @@ Contemporary threats to sacred sites include encroachment for agricultural and s
 
 - [[Murang'a Kikuyu Identity|Spiritual Traditions]]
 - [[Murang'a County|Geographic Center]]
-- [[../../Geography/Mount Kenya|Mount Kenya]]
+- [[Mount Kenya|Mount Kenya]]
 - [[Murang'a Timeline|Historical Significance]]
 - [[Murang'a and the Mau Mau|Nationalist Sites]]
 - [[Murang'a Water Resources|Sacred Springs]]

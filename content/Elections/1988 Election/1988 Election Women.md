@@ -2,11 +2,11 @@ Women remained excluded from standing for Parliament in 1988, continuing decades
 
 ## See Also
 - [[1988 Election]]
-- [[Women Kenya Politics]]
-- [[Kenya Women's Rights 1980s]]
-- [[Maendeleo ya Wanawake]]
+- [[Women]]
+- [[Kenya]]
+- [[Maendeleo ya Wanawake Organization]]
 - [[Second Liberation Kenya]]
-- [[Gender Kenya]]
+- [[Music and Gender Kenya Contemporary]]
 
 ## Sources
 1. Wipper, Audrey. "The Roles of African Women: Female Politician and Organizer." Journal of Modern African Studies, 1975.

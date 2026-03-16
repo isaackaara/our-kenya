@@ -17,11 +17,11 @@ Sector growth and development depend on policy, investment, technology, and glob
 ## See Also
 
 - [[Mombasa Port History]]
-- [[Infrastructure Kenya]]
-- [[Vision 2030 Kenya]]
-- [[Transportation Infrastructure Kenya]]
+- [[IT Infrastructure Kenya]]
+- [[Vision 2030]]
+- [[Transportation Infrastructure]]
 - [[Kenya Economic Overview]]
-- [[Regional Trade East Africa]]
+- [[East Africa]]
 - [[Pipeline Infrastructure Kenya]]
 
 ## Sources

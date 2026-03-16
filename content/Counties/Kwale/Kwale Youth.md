@@ -22,7 +22,7 @@ Youth perceptions of opportunities and futures appear mixed, with some optimism 
 
 - [[Kwale County|Kwale County Overview]]
 - [[Kwale Education|Kwale Education]]
-- [[Kwale Employment|Kwale Employment]]
+- [[Wage Employment|Kwale Employment]]
 - [[Kwale Tourism|Kwale Tourism]]
 - [[Kwale Women|Kwale Women]]
 - [[Digo People|Digo People]]

@@ -17,10 +17,10 @@ The treatment of Njonjo in the 1983 election period demonstrated Moi's willingne
 ## See Also
 - [[Charles Njonjo]]
 - [[1983 Election]]
-- [[1982 Coup Attempt Kenya]]
+- [[1982 Coup Attempt]]
 - [[Daniel arap Moi]]
-- [[Kikuyu Politics Kenya]]
-- [[Kenya Authoritarianism]]
+- [[Kikuyu]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

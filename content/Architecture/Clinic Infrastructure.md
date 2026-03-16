@@ -14,7 +14,7 @@ The transformation of clinic functions during public health crises (such as the 
 
 ## See Also
 
-[[Hospital Architecture]], [[Health Infrastructure]], [[Rural Development]], [[Urban Slums Growth]], [[School Building Design]], [[Public Health]], [[Water Infrastructure]]
+[[Hospital Architecture]], [[Health]], [[Gender Rural Development]], [[Urban Slums Growth]], [[School Building Design]], [[Public Health Communication]], [[Water Infrastructure]]
 
 ## Sources
 

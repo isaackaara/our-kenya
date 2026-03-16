@@ -23,7 +23,7 @@ By the 1950s, African intellectuals and leaders increasingly rejected colonial c
 ## See Also
 [[Colonial Attitudes Africans]]
 [[Colonial Racism]]
-[[Education and Colonial Kenya]]
+[[Education]]
 [[Missionisation and Colonialism]]
 [[African Intellectualism]]
 [[Cultural Resistance]]

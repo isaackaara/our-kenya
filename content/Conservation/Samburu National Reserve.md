@@ -26,7 +26,7 @@ The reserve protects important wildlife populations, though populations remain v
 - [[Pastoralists and Conservation]] - Community management
 - [[Grevy's Zebra]] - Endangered species focus
 - [[Wildlife Corridors Kenya]] - Regional connectivity
-- [[Arid ecosystem conservation]] - Marginal environment protection
+- [[Conservation]] - Marginal environment protection
 - [[Tourism Revenue and Communities]] - Economic benefits
 - [[Laikipia Plateau]] - Regional conservation context
 

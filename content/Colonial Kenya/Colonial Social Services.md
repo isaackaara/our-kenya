@@ -17,7 +17,7 @@ The colonial government provided no unemployment insurance, disability benefits,
 By the 1950s, nationalist movements identified inadequate social services as evidence of colonial exploitation. Independence demands included commitments to expand healthcare and education access to African populations.
 
 ## See Also
-[[Education and Colonial Kenya]]
+[[Education]]
 [[Colonial Healthcare]]
 [[Colonial Discrimination]]
 [[Colonial Class System]]

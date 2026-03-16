@@ -22,7 +22,7 @@ By 2017, digital literacy and awareness of misinformation remained limited among
 
 [[2017 Election]]
 [[2017 Election August 8 Vote]]
-[[2017 Election Campaign|2017 Election Jubilee Campaign]]
+[[2017 Election|2017 Election Jubilee Campaign]]
 [[2017 Election NASA Coalition]]
 [[2017 Election Violence]]
 

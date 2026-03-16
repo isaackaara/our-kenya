@@ -1,4 +1,4 @@
-Kenya's [[rhinoceros]] populations have experienced the most extreme [[endangered species]] recovery challenge in the country, with multiple species brought to the brink of extinction and subjected to intensive management efforts. The conservation history of Kenya's rhinos illustrates both the depths of wildlife crisis and the possibility of recovery through dedicated protection.
+Kenya's [[Rhinoceros in Kenya]] populations have experienced the most extreme [[endangered species]] recovery challenge in the country, with multiple species brought to the brink of extinction and subjected to intensive management efforts. The conservation history of Kenya's rhinos illustrates both the depths of wildlife crisis and the possibility of recovery through dedicated protection.
 
 ## Black Rhino Decline and Near-Extinction
 

@@ -75,7 +75,7 @@ Kenya's tea industry is likely to remain a major export. However, growth will be
 - [[Cooperative Movement Kenya]]
 - [[Coffee Industry Kenya]]
 - [[Kenya Exports]]
-- [[Colonial Economy Kenya]]
+- [[Colonial Economy]]
 - [[Smallholder Farmers Kenya]]
 - [[Commodity Trade Kenya]]
 

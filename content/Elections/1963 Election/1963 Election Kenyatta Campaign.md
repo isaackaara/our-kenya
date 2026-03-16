@@ -16,7 +16,7 @@ The election result (KANU's 96 seats) was interpreted as a personal mandate for 
 - [[1963 Election Independence]]
 - [[Mau Mau and Detention]]
 - [[British Decolonization Strategy]]
-- [[Harambee Philosophy]]
+- [[Harambee]]
 
 ## Sources
 

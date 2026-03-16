@@ -33,7 +33,7 @@ The corruption directly harmed Kenya's ability to provide reliable electricity. 
 - [[Impunity Culture]]
 - [[Public Procurement Corruption]]
 - [[Moi Era Corruption Economy]]
-- [[Service Delivery and Corruption]]
+- [[Corruption]]
 - [[Accountability and Justice]]
 
 ## Sources

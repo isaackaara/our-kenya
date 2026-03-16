@@ -45,7 +45,7 @@ Key dates and events in Narok County's history from pre-colonial times through 2
 
 ## See Also
 
-- [[Narok Maasai|Narok Maasai]]
+- [[Maasai|Narok Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]

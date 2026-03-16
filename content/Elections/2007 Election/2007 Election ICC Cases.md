@@ -2,7 +2,7 @@ The International Criminal Court opened investigations into the post-election vi
 
 ## See Also
 
-- [[2007 post-election violence]]
+- [[Post-Election Violence]]
 - [[International Criminal Court]]
 - [[Accountability for mass violence]]
 - [[Uhuru Kenyatta]]

@@ -10,7 +10,7 @@ Displacement from forest territories has eliminated plant collection as a regula
 
 ## See Also
 
-[[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Medicinal Plants Knowledge]] | [[Economic Activities]] | [[Women Kenya]] | [[Forest Management Knowledge]]
+[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Medicinal\ Plants\ Knowledge]] | [[Economic\ Activities]] | [[Women Kenya Athletics]] | [[Forest Management]]
 
 ## Sources
 

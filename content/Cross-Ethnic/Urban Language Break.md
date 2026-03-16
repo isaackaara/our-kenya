@@ -38,7 +38,7 @@ The loss is not equally distributed. Rural Kenyans who remained in their home ar
 - [[The Return Gap]]
 - [[Heritage Language Movements Kenya]]
 - [[English in Kenya]]
-- [[Sheng and Urban Language]]
+- [[Sheng]]
 - [[Language and Belonging]]
 
 ## Sources

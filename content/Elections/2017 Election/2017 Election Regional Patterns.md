@@ -23,7 +23,7 @@ The critical difference between August and October results was the turnout varia
 [[2017 Election]]
 [[2017 Election August 8 Vote]]
 [[2017 Election October Re-run]]
-[[2017 Election Results]]
+[[2017 Election]]
 [[2017 Election NASA Coalition]]
 
 ## Sources

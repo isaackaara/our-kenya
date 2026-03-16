@@ -66,7 +66,7 @@ This pattern has parallels in other forms of money laundering: using legitimate 
 - [[Land as Corruption Currency]]
 - [[Illicit Financial Flows Kenya]]
 - [[Impunity Culture]]
-- [[Informal Economy and Corruption]]
+- [[Corruption]]
 - [[Community Participation and Patronage]]
 
 ## Sources

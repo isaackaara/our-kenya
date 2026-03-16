@@ -23,11 +23,11 @@ Customary practices affecting women's status and rights, including practices reg
 ## See Also
 - [[Taita-Taveta County]]
 - [[Taita People County]]
-- [[Women's Rights Kenya]]
+- [[Women]]
 - [[Gender Equality Kenya]]
-- [[Women's Economic Empowerment]]
-- [[Health and Gender]]
-- [[Education and Gender]]
+- [[Women]]
+- [[Health]]
+- [[Education]]
 
 ## Sources
 1. Kenya National Bureau of Statistics. "Kenya Demographic and Health Survey 2022." https://www.knbs.or.ke

@@ -27,9 +27,9 @@ The historical significance of the Uganda Railway in Taita-Taveta remains import
 - [[Taita-Taveta Colonial History]]
 - [[Voi Town]]
 - [[Tsavo Man-Eaters]]
-- [[Infrastructure Kenya]]
+- [[IT Infrastructure Kenya]]
 - [[Colonial Development Kenya]]
-- [[Railway History East Africa]]
+- [[East Africa]]
 
 ## Sources
 1. Kenya National Archives. "Uganda Railway Construction Records." (1895-1903).

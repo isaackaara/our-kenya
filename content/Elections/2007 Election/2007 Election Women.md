@@ -2,10 +2,10 @@ Women experienced post-election violence as disproportionate targets and as acti
 
 ## See Also
 
-- [[2007 post-election violence]]
-- [[Gender-based violence Kenya]]
-- [[Women peacemakers Kenya]]
-- [[Women in Kenyan politics]]
+- [[Post-Election Violence]]
+- [[Gender-Based Violence]]
+- [[Women]]
+- [[Women]]
 - [[2010 Constitution gender provisions]]
 
 ## Sources

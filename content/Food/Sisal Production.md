@@ -22,7 +22,7 @@ Environmental impacts of sisal cultivation included land degradation in some are
 [[Colonial Export Agriculture]]
 [[Arid Region Development]]
 [[Labor Systems Historical]]
-[[Taita-Taveta History]]
+[[Taita]]
 [[Industrial Commodity Markets]]
 [[Post-Colonial Economic Transitions]]
 

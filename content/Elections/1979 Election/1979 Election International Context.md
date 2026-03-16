@@ -23,10 +23,10 @@ International human rights organizations began to pay attention to Kenya's human
 ## See Also
 - [[Cold War Africa]]
 - [[1979 Election]]
-- [[Kenya Foreign Policy]]
-- [[East African Politics]]
-- [[Somali-Ethiopian War]]
-- [[Kenya International Relations]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Somali]]
+- [[Kenya]]
 
 ## Sources
 1. Leys, Colin. "Underdevelopment in Kenya: The Political Economy of Neo-Colonialism." University of California Press, 1974.

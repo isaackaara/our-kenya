@@ -14,9 +14,9 @@ The virtual absence of women from the 1963 election, both as candidates and as s
 
 - [[1963 Election Results]]
 - [[1963 Election KANU]]
-- [[1963 Election Campaign]]
-- [[Margaret Kenyatta]]
-- [[Women's Political Participation Kenya]]
+- [[1963 Election Campaign Finance]]
+- [[Uhuru and Margaret Kenyatta as Nairobi Governor]]
+- [[Women]]
 - [[Gender and Independence Movements]]
 - [[Constitutional Rights Women Kenya]]
 

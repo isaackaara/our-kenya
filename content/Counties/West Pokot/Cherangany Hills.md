@@ -29,7 +29,7 @@ Conservation organizations and government agencies including the Kenya Forest Se
 [[West Pokot Irrigation]]
 [[West Pokot Climate]]
 [[West Pokot Environmental Management]]
-[[Montane Forests of East Africa]]
+[[East Africa]]
 
 ## Sources
 

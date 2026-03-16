@@ -103,7 +103,7 @@ Whether pastoralism can adapt sufficiently to remain viable given climate change
 - [[Mandera Land]]
 - [[Mandera Water]]
 - [[Mandera Climate]]
-- [[Somali Kenya]]
+- [[Somali]]
 
 ## Sources
 

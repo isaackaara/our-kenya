@@ -65,7 +65,7 @@ This lack of transparency prevented public scrutiny of the contract and prevente
 - [[Uhuru Era Corruption]] - period when project was approved
 - [[Parliamentary Oversight Failure]] - inadequate legislative scrutiny
 - [[Transparency International Kenya]] - advocacy on procurement
-- [[Infrastructure Quality and Corruption]] - how costs affect service quality
+- [[Corruption]] - how costs affect service quality
 - [[Debt Sustainability Kenya]] - financial burden patterns
 
 ## Sources

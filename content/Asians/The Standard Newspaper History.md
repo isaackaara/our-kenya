@@ -1,4 +1,4 @@
-[[The Standard]] is Kenya's oldest continuously published newspaper. Founded as the [[African Standard]] in 1902 by [[A.M. Jeevanjee]], it evolved into the [[East African Standard]] and is now simply known as The Standard. The newspaper's history reflects Kenya's transformation from colony to independent nation.
+[[The Standard Newspaper History]] is Kenya's oldest continuously published newspaper. Founded as the [[East African Standard]] in 1902 by [[A.M. Jeevanjee]], it evolved into the [[East African Standard]] and is now simply known as The Standard. The newspaper's history reflects Kenya's transformation from colony to independent nation.
 
 ## Foundation and Early Years
 

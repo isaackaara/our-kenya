@@ -4,9 +4,9 @@ The mlolongo (queue voting) system introduced in 1988 replaced Kenya's previous 
 - [[1988 Election]]
 - [[Daniel arap Moi]]
 - [[1988 Election Rigging Mechanism]]
-- [[Kenya Election Systems]]
+- [[Kenya]]
 - [[1988 Election Public Outrage]]
-- [[Kenya Democracy]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

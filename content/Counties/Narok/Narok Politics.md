@@ -29,7 +29,7 @@ See also: [[Narok County|Narok County]], [[Narok Colonial History|Narok Colonial
 
 ## See Also
 
-- [[Narok Maasai|Narok Maasai]]
+- [[Maasai|Narok Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]

@@ -48,8 +48,8 @@ The colonial period in Mandera established enduring patterns of geographic and e
 
 - [[Mandera County]]
 - [[Mandera Timeline]]
-- [[Kenya Colonial Period]]
-- [[Somali Kenya]]
+- [[Kenya]]
+- [[Somali]]
 - [[Mandera Tri-Border]]
 - [[Mandera Politics]]
 

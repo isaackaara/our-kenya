@@ -53,7 +53,7 @@ The mixed economy of 1965-1990 redistributed wealth into African hands (particul
 - [[Parastatals Kenya]]
 - [[Structural Adjustment Kenya]]
 - [[Jomo Kenyatta]]
-- [[Kenya Economic History]]
+- [[Kenya]]
 - [[Africanisation Kenya]]
 - [[Import Substitution Kenya]]
 - [[Colonial Economy]]

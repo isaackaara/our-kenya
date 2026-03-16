@@ -30,7 +30,7 @@ Decades after independence, the Kapenguria trial has been subject to intensive h
 [[West Pokot Colonial History]]
 [[Jomo Kenyatta]]
 [[Mau Mau Uprising]]
-[[Kenya Independence]]
+[[Kenya]]
 
 ## Sources
 

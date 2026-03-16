@@ -29,7 +29,7 @@ The role of real estate in wealth creation and inequality has increased with pro
 - [[Land Markets Kenya]]
 - [[Housing Kenya]]
 - [[Voi Town]]
-- [[Real Estate Investment]]
+- [[Real Estate Investment Abroad]]
 
 ## Sources
 1. Taita-Taveta County Government. "County Spatial Development Plan." (2022). https://www.taitataveta.go.ke

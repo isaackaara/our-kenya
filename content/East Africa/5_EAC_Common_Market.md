@@ -26,7 +26,7 @@ Professionals (doctors, engineers, accountants) licensed in one country can work
 
 In practice, the Common Market remains fragmented:
 
-**Non-Tariff Barriers**: Despite eliminating tariffs, member states erect non-tariff barriers through product standards, labeling requirements, and informal roadblocks. [[Kenya Tanzania Border]] disputes frequently involve agricultural product standards (supposedly health-related, but functioning as protectionism).
+**Non-Tariff Barriers**: Despite eliminating tariffs, member states erect non-tariff barriers through product standards, labeling requirements, and informal roadblocks. [[Kenya]] disputes frequently involve agricultural product standards (supposedly health-related, but functioning as protectionism).
 
 **Border Delays**: Physical customs checkpoints persist. Movement between Kenya and Tanzania at the Namanga border, despite the protocol, still involves hours of delay.
 
@@ -56,10 +56,10 @@ EAC trade has increased significantly since 2010, though most flows remain bilat
 
 - [[EAC History]]
 - [[EAC Political Federation]]
-- [[Kenya Tanzania Border]]
-- [[Kenya Uganda Border]]
-- [[East African Internet Hub]]
-- [[LAPSSET Corridor]]
+- [[Kenya]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
 
 ## Sources
 

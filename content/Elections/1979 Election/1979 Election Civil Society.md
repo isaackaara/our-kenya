@@ -20,11 +20,11 @@ Civil society in 1979 was beginning to experience shifts that would become more 
 
 ## See Also
 - [[1979 Election]]
-- [[Kenya Civil Society]]
+- [[Kenya]]
 - [[Churches Kenya]]
 - [[Labor Movement Kenya]]
-- [[Nyayo]]
-- [[Kenya Political System 1978-1991]]
+- [[Nyala]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

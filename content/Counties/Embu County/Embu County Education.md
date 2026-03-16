@@ -24,7 +24,7 @@ Special needs education for children with disabilities remains inadequately deve
 - [[Embu County Women]]
 - [[Embu County Youth]]
 - [[Embu County Health]]
-- [[Embu County Government Services]]
+- [[Embu County]]
 - [[Embu Town]]
 - [[Embu People County]]
 

@@ -4,14 +4,14 @@ Health effects of childhood lead exposure include irreversible neurotoxic effect
 
 Lead paint in older buildings represents a significant hazard, with deteriorating paint creating dust contaminating hands, food, and environments. Lead water pipes and solder in plumbing systems can leach lead into drinking water, particularly problematic in areas with acidic water. Informal recycling of electronic waste and automotive batteries in urban slums exposes workers and nearby communities to substantial lead levels. Occupational lead exposure of parents in battery recycling, mining, and smelting results in take-home contamination affecting families.
 
-The [[Ministry of Health]] has recognized childhood lead poisoning as a health concern, incorporating lead screening into some public health programs. However, blood lead testing capacity is limited outside Nairobi. Public awareness of lead hazards remains low in many communities, limiting prevention behaviors. Prevention requires removal of lead paint, replacement of lead plumbing, safe occupational practices reducing take-home lead, and safe electronic waste management.
+The [[Health]] has recognized childhood lead poisoning as a health concern, incorporating lead screening into some public health programs. However, blood lead testing capacity is limited outside Nairobi. Public awareness of lead hazards remains low in many communities, limiting prevention behaviors. Prevention requires removal of lead paint, replacement of lead plumbing, safe occupational practices reducing take-home lead, and safe electronic waste management.
 
 Strengthening childhood lead poisoning prevention requires screening programs identifying exposed children, removal or encapsulation of lead hazards, occupational safety improvements preventing worker and family exposure, and public education regarding lead hazards. However, lead paint removal and plumbing replacement costs are prohibitive for many households. Sustained government commitment to lead exposure prevention through regulation, environmental monitoring, and prevention resources remains necessary for protecting Kenyan children from preventable lead poisoning.
 
 ## See Also
 [[Environmental Health Hazards|Environmental Health Hazards]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 [[Occupational Health Safety|Occupational Health Safety]]
 [[Mining Health Impacts|Mining Health Impacts]]
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]

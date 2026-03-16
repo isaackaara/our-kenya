@@ -2,7 +2,7 @@
 title: East African Droughts
 ---
 
-[[East African Community]], particularly the Horn of Africa (Kenya, Ethiopia, [[Somalia Collapse]]), is highly vulnerable to periodic [[East African Droughts]] that devastate pastoral livelihoods, agriculture, and create humanitarian crises. Recurring droughts in 2011, 2017, and 2022 illustrate the region's climate vulnerability.
+[[East African Community]], particularly the Horn of Africa (Kenya, Ethiopia, [[Somalia]]), is highly vulnerable to periodic [[East Africa]] that devastate pastoral livelihoods, agriculture, and create humanitarian crises. Recurring droughts in 2011, 2017, and 2022 illustrate the region's climate vulnerability.
 
 ## Climate and Geography
 
@@ -10,9 +10,9 @@ The region's vulnerability to drought stems from geography:
 
 **Low Rainfall**: Much of [[East African Community]], particularly the Horn, receives limited rainfall concentrated in rainy seasons. Outside these seasons, water is scarce.
 
-**Rainy Season Dependence**: [[Maasai Borders]], [[Somali Cross Border]], and farmers depend on reliable seasonal rains. Failure of rains creates immediate crises.
+**Rainy Season Dependence**: [[Maasai]], [[Somali]], and farmers depend on reliable seasonal rains. Failure of rains creates immediate crises.
 
-**Drylands**: Large portions of the region (particularly northern Kenya, southern Ethiopia, and [[Somalia Collapse]]) are marginal arid or semi-arid lands where water and grazing are perpetually scarce.
+**Drylands**: Large portions of the region (particularly northern Kenya, southern Ethiopia, and [[Somalia]]) are marginal arid or semi-arid lands where water and grazing are perpetually scarce.
 
 **Climate Variability**: The region has high interannual climate variability. Rainfall varies dramatically from year to year, creating uncertainty around [[Lake Victoria]] and water availability.
 
@@ -30,7 +30,7 @@ The 2011 drought was one of East Africa's worst recent droughts:
 
 **International Response**: The crisis prompted significant international humanitarian aid.
 
-**[[Somalia Collapse]] Famine**: The 2011 drought contributed to famine in [[Somalia Collapse]], with mortality particularly concentrated in conflict-affected regions.
+**[[Somalia]] Famine**: The 2011 drought contributed to famine in [[Somalia]], with mortality particularly concentrated in conflict-affected regions.
 
 ## The 2017 Drought
 
@@ -113,11 +113,11 @@ International and regional efforts focus on disaster risk reduction:
 ## See Also
 
 - [[Lake Victoria]]
-- [[Kenya Ethiopia Border]]
-- [[Maasai Borders]]
-- [[Somali Cross Border]]
-- [[Somalia Collapse]]
-- [[East African Food]]
+- [[Kenya]]
+- [[Maasai]]
+- [[Somali]]
+- [[Somalia]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

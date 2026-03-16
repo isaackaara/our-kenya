@@ -20,10 +20,10 @@ The division between urban and rural constituencies meant that Parliament includ
 
 ## See Also
 - [[1974 Election]]
-- [[Kenya Urbanization]]
+- [[Kenya]]
 - [[1974 Election KANU Primary]]
 - [[Nairobi]]
-- [[Kenya Urban Politics]]
+- [[Kenya]]
 - [[Mombasa]]
 
 ## Sources

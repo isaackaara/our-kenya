@@ -19,7 +19,7 @@ By the 1950s, growing African nationalism and international human rights pressur
 [[Colonial Racial Discrimination]]
 [[Colonial Law Enforcement]]
 [[Kipande System Control]]
-[[Native Reserves]]
+[[Colonial Native Reserves]]
 
 ## Sources
 

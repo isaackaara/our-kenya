@@ -3,10 +3,10 @@ The 1983 election took place in a Cold War context with Kenya firmly in the West
 ## See Also
 - [[1983 Election]]
 - [[Cold War Africa]]
-- [[Kenya Foreign Policy]]
+- [[Kenya]]
 - [[Daniel arap Moi]]
-- [[Kenya International Relations]]
-- [[Kenya Western Relations]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Leys, Colin. "Underdevelopment in Kenya: The Political Economy of Neo-Colonialism." University of California Press, 1974.

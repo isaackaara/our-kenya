@@ -8,7 +8,7 @@ The relationship between music television and record label promotion reflected b
 
 By the 2010s, music television adapted to digital platforms and changing audience consumption patterns. Music streaming services, YouTube, and social media platforms became primary music discovery venues, reducing music television's monopoly on visual music content access. Traditional music television channels faced declining viewership as audiences fragmented across multiple platforms. Broadcasters repositioned music content toward live performance documentation, artist interviews, and music news rather than competing with digital platforms on music video rotation. Music television evolved from a primary music distribution channel to one of multiple pathways through which audiences accessed music content.
 
-See Also: [[Music Videos]], [[Entertainment Shows]], [[Television Studios]], [[Film Production Companies]], [[Music Industry Kenya]], [[Television Advertising]], [[Digital Television]]
+See Also: [[Music Videos]], [[Entertainment Shows]], [[Television Studios]], [[Film Production Companies]], [[Music]], [[Television Advertising]], [[Digital Television]]
 
 Sources:
 1. https://www.music-television-east-africa.org/

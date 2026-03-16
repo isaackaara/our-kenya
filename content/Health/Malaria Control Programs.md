@@ -1,6 +1,6 @@
 Malaria remains one of Kenya's most significant public health challenges, with approximately one-third of the country's population living in areas at risk of transmission. The disease has shaped health policy, economic development, and public health infrastructure across Kenya for over a century. Endemic transmission occurs in coastal regions, Lake Victoria basin, and lower-altitude areas, while highland regions above 2,000 meters have historically experienced seasonal and unstable transmission patterns. Climate variability, population movement, and urbanization continue to influence transmission dynamics across different ecological zones.
 
-The Kenya Malaria Control Programme, formally established in the early post-independence period, has evolved significantly since the 1970s. Initial control efforts focused on vector surveillance and case management, but responses expanded during the 1990s and 2000s as understanding of transmission improved and resources for intervention increased. The [[Ministry of Health]] partnered with [[WHO]] and international organizations to strengthen surveillance systems, training health workers, and distributing antimalarial drugs through public health facilities. Insecticide-treated bed nets (ITNs) emerged as a cost-effective intervention, with national distribution campaigns beginning in the early 2000s.
+The Kenya Malaria Control Programme, formally established in the early post-independence period, has evolved significantly since the 1970s. Initial control efforts focused on vector surveillance and case management, but responses expanded during the 1990s and 2000s as understanding of transmission improved and resources for intervention increased. The [[Health]] partnered with [[Luo]] and international organizations to strengthen surveillance systems, training health workers, and distributing antimalarial drugs through public health facilities. Insecticide-treated bed nets (ITNs) emerged as a cost-effective intervention, with national distribution campaigns beginning in the early 2000s.
 
 Kenya's most recent strategic framework, the Kenya Malaria Strategy 2023-2027, establishes goals for malaria control and elimination based on evidence-based interventions. The strategy emphasizes geographic targeting, focusing intensive interventions in endemic areas while consolidating gains in areas approaching elimination. National Malaria Control Programme documentation outlines comprehensive approaches to case detection, treatment, and prevention, informed by operational research conducted within Kenya's diverse epidemiological zones. The program maintains partnerships with academic institutions and research organizations to monitor parasite resistance patterns and treatment effectiveness.
 
@@ -12,7 +12,7 @@ Challenges to malaria elimination in Kenya include drug resistance, insecticide 
 [[Vector-Borne Diseases Kenya|Vector-Borne Diseases Kenya]]
 [[Colonial Medicine Healthcare|Colonial Medicine Healthcare]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
-[[Health Infrastructure Kenya|Hospital Infrastructure Standards]]
+[[Health|Hospital Infrastructure Standards]]
 [[Ministry of Health Kenya|Healthcare Policy Evolution]]
 [[Environmental Health Hazards|Environmental Health Hazards]]
 

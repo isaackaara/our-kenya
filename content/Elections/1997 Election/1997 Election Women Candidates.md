@@ -1,6 +1,6 @@
 Women's participation in the 1997 election, both as candidates and voters, reflected the broader marginalization of women in Kenya's political system despite Kenya's 1992 transition to multipartyism. The number of women candidates contesting in 1997 increased modestly relative to 1992, but remained far below levels that would constitute proportional representation or meaningful female political voice. Women comprised roughly 30 percent of registered voters, but held less than 5 percent of parliamentary seats prior to the 1997 election and would hold only slightly more afterwards. The 1997 election thus consolidated patterns of gender exclusion that would become a focus of constitutional reform debates in the 2000s.
 
-Only two women contested the 1997 presidential election: [[Charity Ngilu]], a businesswoman and political entrepreneur with roots in Kamba politics, and [[Margaret Kenyatta]], representing a tiny party from the coast. Neither mounted campaigns with realistic prospects of winning the presidency, but their candidacies nonetheless represented women's insistence on participating in the highest electoral contest. Ngilu's campaign, while numerically unsuccessful, generated visibility for women's political participation and created space for women-focused messaging around issues like property rights, inheritance, and domestic violence that male candidates largely ignored.
+Only two women contested the 1997 presidential election: [[Charity Ngilu]], a businesswoman and political entrepreneur with roots in Kamba politics, and [[Uhuru and Margaret Kenyatta as Nairobi Governor]], representing a tiny party from the coast. Neither mounted campaigns with realistic prospects of winning the presidency, but their candidacies nonetheless represented women's insistence on participating in the highest electoral contest. Ngilu's campaign, while numerically unsuccessful, generated visibility for women's political participation and created space for women-focused messaging around issues like property rights, inheritance, and domestic violence that male candidates largely ignored.
 
 In parliamentary and local elections, women candidates increased from roughly 100 in 1992 to approximately 150-180 in 1997, a roughly 50-80 percent increase. However, this represented only a 3-4 percent increase in overall candidate numbers (since total parliamentary candidates expanded with multipartyism). Women candidates' success rates remained lower than male candidates' success rates: approximately 5-7 percent of women candidates won parliamentary seats, compared to roughly 15-20 percent of male candidates (reflective of the broader fact that the number of candidates far exceeded available seats). In local government elections, women's representation improved somewhat more, though it remained limited.
 
@@ -19,11 +19,11 @@ The 1997 election outcomes regarding women reflected these structural barriers. 
 ## See Also
 
 - [[1997 Election]]
-- [[Women in Kenyan politics]]
+- [[Women]]
 - [[Charity Ngilu]]
 - [[Gender representation in Kenya]]
 - [[2010 Constitution gender provisions]]
-- [[Women's rights organizations in Kenya]]
+- [[Women]]
 
 ## Sources
 

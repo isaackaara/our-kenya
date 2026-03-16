@@ -53,7 +53,7 @@ Safaricom is likely to continue innovating in financial services. Future opportu
 - [[Financial Innovation Kenya]]
 - [[Digital Payments Kenya]]
 - [[Microfinance Kenya]]
-- [[Kenya Financial Technology]]
+- [[Kenya]]
 
 ## Sources
 

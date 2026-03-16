@@ -18,9 +18,9 @@ The 1979 election, while superficially similar to the 1974 election in its struc
 - [[Daniel arap Moi]]
 - [[Jomo Kenyatta]]
 - [[1978 Succession]]
-- [[Nyayo]]
+- [[Nyala]]
 - [[KANU Party]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

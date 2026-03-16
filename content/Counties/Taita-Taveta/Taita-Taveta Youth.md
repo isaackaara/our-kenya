@@ -21,9 +21,9 @@ Migration of youth to urban areas or out of the county for education and employm
 ## See Also
 - [[Taita-Taveta County]]
 - [[Taita People County]]
-- [[Youth Unemployment Kenya]]
+- [[Youth Unemployment]]
 - [[Youth Development Kenya]]
-- [[Education and Youth]]
+- [[Education]]
 - [[Youth Participation]]
 - [[Economic Opportunities Kenya]]
 

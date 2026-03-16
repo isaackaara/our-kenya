@@ -19,10 +19,10 @@ The economic context of 1997 thus demonstrates the complex relationship between 
 ## See Also
 
 - [[1997 Election]]
-- [[Kenya's economy in the 1990s]]
+- [[Kenya]]
 - [[Goldenberg scandal]]
 - [[IMF and Kenya]]
-- [[Corruption in Moi's Kenya]]
+- [[Corruption]]
 - [[Economic grievance and electoral behavior]]
 
 ## Sources

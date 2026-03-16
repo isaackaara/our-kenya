@@ -18,8 +18,8 @@ The sector's resilience demonstrated that informal food systems met real needs a
 
 [[Urban Development Kenya]]
 [[Informal Economy]]
-[[Nairobi Food Systems]]
-[[Poverty and Food Access]]
+[[Nairobi]]
+[[Poverty]]
 [[Worker Income Strategies]]
 [[Market Trade Systems]]
 [[Food Safety Standards]]

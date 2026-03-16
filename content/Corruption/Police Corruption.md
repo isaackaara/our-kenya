@@ -1,6 +1,6 @@
 ## The Scale and Normalization
 
-Corruption within the [[Kenya Police Service]] is systemic and normalized. Police officers extract bribes at roadblocks, demand payments from businesses in exchange for "protection," and conduct [[paid disappearances]] and executions.
+Corruption within the [[Kenya Police]] is systemic and normalized. Police officers extract bribes at roadblocks, demand payments from businesses in exchange for "protection," and conduct [[paid disappearances]] and executions.
 
 This corruption operates across police ranks, from traffic officers to detectives to commanders. The amounts involved range from small daily bribes (KES 500 for a traffic violation) to major extortion schemes (millions of shillings from wealthy individuals and businesses).
 
@@ -69,7 +69,7 @@ The [[Independent Police Oversight Board]] (IPOB) and the [[Directorate of Crimi
 - [[Extrajudicial Killings in Kenya]] - systematic violence dynamics
 - [[Judiciary Corruption]] - limited prosecution capacity
 - [[Human Rights Watch Kenya]] - international monitoring
-- [[Kenya National Commission on Human Rights]] - domestic accountability mechanisms
+- [[Kenya]] - domestic accountability mechanisms
 - [[Impunity Culture]] - broader systemic patterns
 - [[Whistleblower Protection Kenya]] - barriers to reporting
 - [[Transparency International Kenya]] - monitoring and advocacy

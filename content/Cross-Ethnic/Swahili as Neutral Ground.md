@@ -32,7 +32,7 @@ Kenya has over 60 indigenous languages, many of them endangered. Swahili (and En
 
 The tension is real: [[national unity]] requires a shared language, but shared languages can erase cultural diversity. [[Swahili]] solved the first problem at the cost of the second.
 
-[[Ngugi wa Thiong'o]]'s argument (in *Decolonising the Mind*) is that language loss is cultural death. His solution: write and teach in indigenous African languages, starting with your own. The counter-argument is that Swahili is now an African language, owned by Africans, and that it has created possibilities for cross-ethnic communication and solidarity that would not exist otherwise.
+[[Ngugi wa Thiong o]]'s argument (in *Decolonising the Mind*) is that language loss is cultural death. His solution: write and teach in indigenous African languages, starting with your own. The counter-argument is that Swahili is now an African language, owned by Africans, and that it has created possibilities for cross-ethnic communication and solidarity that would not exist otherwise.
 
 The tension remains unresolved.
 

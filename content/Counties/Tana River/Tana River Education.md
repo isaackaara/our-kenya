@@ -33,7 +33,7 @@ Educational outcomes have remained constrained. National examination performance
 - [[Tana River Youth|Tana River Youth]]
 - [[Tana River Women|Tana River Women]]
 - [[Tana River Health|Tana River Health]]
-- [[Kenya Education Policy|Kenya Education Policy]]
+- [[Kenya|Kenya Education Policy]]
 - [[Tana River Food Security|Tana River Food Security]]
 
 ## Sources

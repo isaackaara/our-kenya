@@ -19,8 +19,8 @@ By the mid-twentieth century, this rigid racial hierarchy had generated profound
 [[Colonial Class System]]
 [[Colonial Discrimination]]
 [[Color Bar Employment]]
-[[Education and Colonial Kenya]]
-[[Kikuyu and Colonialism]]
+[[Education]]
+[[Kikuyu]]
 
 ## Sources
 1. Adas, Michael. "Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance." Cornell University Press, 1989. https://www.cornellpress.cornell.edu/

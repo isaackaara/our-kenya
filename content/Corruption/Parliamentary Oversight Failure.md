@@ -44,11 +44,11 @@ Some committee members lack financial or technical expertise to understand compl
 
 ## International Donor Pressure
 
-International donors ([[World Bank]], [[International Monetary Fund]]) have occasionally pressured Kenya to strengthen parliamentary oversight as a condition of budget support. However, domestic political incentives for oversight remain weak, and improvements have been temporary and inconsistent.
+International donors ([[World Bank IMF Kenya Corruption]], [[International Monetary Fund]]) have occasionally pressured Kenya to strengthen parliamentary oversight as a condition of budget support. However, domestic political incentives for oversight remain weak, and improvements have been temporary and inconsistent.
 
 ## See Also
 
-- [[Parliament and Corruption]] - broader parliamentary role in corruption
+- [[Corruption]] - broader parliamentary role in corruption
 - [[Public Accounts Committee]] - specific oversight body
 - [[Procurement Corruption]] - spending under weak oversight
 - [[Political Patronage Networks]] - why oversight is selective

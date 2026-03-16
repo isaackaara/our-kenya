@@ -1,4 +1,4 @@
-[[Wildlife tourism]] is Kenya's largest foreign exchange earner and a critical economic driver for conservation. [[Wildlife viewing]] generates substantial revenue through [[park entrance fees]], accommodation, tourism services, and associated industries. This economic incentive has made [[wildlife conservation]] economically viable in many regions, creating direct linkage between wildlife protection and economic benefit.
+[[Wildlife Tourism Revenue]] is Kenya's largest foreign exchange earner and a critical economic driver for conservation. [[Wildlife viewing]] generates substantial revenue through [[park entrance fees]], accommodation, tourism services, and associated industries. This economic incentive has made [[Conservation]] economically viable in many regions, creating direct linkage between wildlife protection and economic benefit.
 
 ## Scale and Economic Importance
 
@@ -74,7 +74,7 @@ Wildlife tourism has created economic alignment between conservation and develop
 - [[Conservation Economics Kenya]] - Economic frameworks
 - [[COVID-19 Conservation Impact]] - Pandemic vulnerabilities
 - [[Maasai Mara National Reserve]] - Premier tourism destination
-- [[Protected areas]] - Tourism-based conservation
+- [[Marine Protected Areas]] - Tourism-based conservation
 
 ## Sources
 

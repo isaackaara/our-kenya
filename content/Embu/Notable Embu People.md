@@ -18,7 +18,7 @@ Embu-origin doctors, nurses, and other health professionals have served in Kenya
 
 ## Educators and University Leaders
 
-Embu-origin educators have worked in secondary schools, universities, and educational administration. Some have held university [[Embu Leadership]] positions or directed educational institutions. Educational contributions have shaped Kenyan education sector development.
+Embu-origin educators have worked in secondary schools, universities, and educational administration. Some have held university [[Embu]] positions or directed educational institutions. Educational contributions have shaped Kenyan education sector development.
 
 ## Sports Figures
 

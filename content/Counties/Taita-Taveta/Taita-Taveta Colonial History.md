@@ -23,7 +23,7 @@ Nationalist sentiment grew in the post-war period, particularly following the Ma
 - [[Uganda Railway Taita-Taveta]]
 - [[Taita-Taveta Sisal]]
 - [[Taita People County]]
-- [[British Colonial Administration]]
+- [[Colonial Administration]]
 - [[Tsavo Man-Eaters]]
 - [[Taveta Town]]
 

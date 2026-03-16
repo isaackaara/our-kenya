@@ -2,13 +2,13 @@ The National Hospital Insurance Fund (NHIF) is Kenya's primary social health ins
 
 ## Overview
 
-NHIF was created as a parastatal to provide healthcare access to Kenyan workers and their families. It collects premiums from employees and employers and reimburses [[healthcare providers]].
+NHIF was created as a parastatal to provide healthcare access to Kenyan workers and their families. It collects premiums from employees and employers and reimburses [[Health]].
 
 ## Key Points
 
 - Parastatal model inherited from [[Post-Independence Economic Policy]]
 - Covers roughly 10-15 million Kenyans (about 30% of population)
-- Chronic underfunding relative to [[Healthcare Demand Kenya]]
+- Chronic underfunding relative to [[Health]]
 - Challenges integrating with [[Private Healthcare Kenya]]
 
 ## Outlook
@@ -17,7 +17,7 @@ NHIF reform is central to Kenya's [[Universal Health Coverage]] goals. Digital s
 
 ## See Also
 
-- [[Healthcare System Kenya]]
+- [[Health]]
 - [[Social Security Kenya]]
 - [[NSSF Kenya]]
 - [[Parastatal Reform Kenya]]

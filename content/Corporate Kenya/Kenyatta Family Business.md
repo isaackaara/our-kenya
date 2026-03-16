@@ -1,4 +1,4 @@
-The [[Kenyatta family]], led by [[Jomo Kenyatta]] (Kenya's [[first president]]) and his [[descendants]], accumulated one of Kenya's largest [[business empires]] through a combination of [[political power]], [[land acquisition]], and [[strategic investments]]. The family's businesses span [[agriculture]], [[hospitality]], [[banking]], and [[media]].
+The [[Kenya]], led by [[Jomo Kenyatta]] (Kenya's [[first president]]) and his [[descendants]], accumulated one of Kenya's largest [[business empires]] through a combination of [[political power]], [[Kenyatta Family Land Acquisitions]], and [[strategic investments]]. The family's businesses span [[agriculture]], [[hospitality]], [[banking]], and [[media]].
 
 ## Acquisitions at Independence
 
@@ -43,7 +43,7 @@ The Kenyatta family's business empire will likely persist, though subject to per
 - [[Corporate Kenya]]
 - [[Land and Politics Kenya]]
 - [[Parastatals Kenya]]
-- [[Kenya Economic History]]
+- [[Kenya]]
 - [[Political Economy of Kenya]]
 
 ## Sources

@@ -2,7 +2,7 @@ Kenyan Asians are people of South Asian origin (primarily Indian, Pakistani, Guj
 
 ## Who Are the Kenyan Asians?
 
-The term "Kenyan Asian" encompasses diverse religious, linguistic, and regional groups. The major communities include [[Gujarati Hindus]] (Patels, Lohanas, Bhatias), [[Ismaili Muslims]], [[Sikh Community Kenya|Sikhs]], [[Goan]]-origin, [[Sindhi Community Kenya|Sindhis]], Bohras, Jains, and [[Pakistani Community Kenya|Pakistani Muslims]]. Despite their diversity, all share the experience of being Kenyan citizens who are not perceived as "indigenous" Africans by the majority Bantu population.
+The term "Kenyan Asian" encompasses diverse religious, linguistic, and regional groups. The major communities include [[Gujarati Hindus Kenya]] (Patels, Lohanas, Bhatias), [[Ismaili Muslims]], [[Sikh Community Kenya|Sikhs]], [[Goan Community Kenya]]-origin, [[Sindhi Community Kenya|Sindhis]], Bohras, Jains, and [[Pakistani Community Kenya|Pakistani Muslims]]. Despite their diversity, all share the experience of being Kenyan citizens who are not perceived as "indigenous" Africans by the majority Bantu population.
 
 ## The Pre-Railroad Trading History
 
@@ -29,7 +29,7 @@ Kenyan Asians face a profound political reality: they are citizens with legal ri
 - [[The Question of Belonging]]
 - [[The Passport Question]]
 - [[Asians at Independence]]
-- [[Racist Against Asians Kenya|Racism Against Asians Kenya]]
+- [[Racism Against Asians Kenya|Racism Against Asians Kenya]]
 - [[Third Fourth Generation Asian Kenyans]]
 - [[The Three-Tier Racial Hierarchy Legacy]]
 

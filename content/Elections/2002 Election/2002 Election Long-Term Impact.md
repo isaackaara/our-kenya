@@ -7,8 +7,8 @@ The 2002 election thus stands as a pinnacle of Kenya's democratic progress: the 
 ## See Also
 
 - [[2002 Election]]
-- [[Kenya's democratic transition]]
-- [[2007 Election tensions]]
+- [[Kenya]]
+- [[2007 Election]]
 - [[Constitutional reform Kenya]]
 - [[Kibaki's presidency impact]]
 

@@ -16,11 +16,11 @@ The 1983 election was a turning point in Kenyan politics. It demonstrated the ex
 
 ## See Also
 - [[Daniel arap Moi]]
-- [[1982 Coup Attempt Kenya]]
+- [[1982 Coup Attempt]]
 - [[Charles Njonjo]]
 - [[KANU Party]]
-- [[Kenya Authoritarianism]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

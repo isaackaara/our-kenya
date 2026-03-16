@@ -2,7 +2,7 @@ The Crown Lands Ordinances of 1902 and 1915 were the legal foundation for Europe
 
 ## The 1902 Ordinance
 
-The first Crown Lands Ordinance was issued in 1902 under Sir Charles Eliot, the Commissioner of the [[East Africa Protectorate]]. The ordinance declared all "waste and unoccupied" land in the protectorate to be Crown land. The term "waste and unoccupied" was deliberately vague and expansive, encompassing land used by pastoralists, land in fallows, and land whose use was not immediately visible to European surveyors.
+The first Crown Lands Ordinance was issued in 1902 under Sir Charles Eliot, the Commissioner of the [[East Africa Protectorate to Colony]]. The ordinance declared all "waste and unoccupied" land in the protectorate to be Crown land. The term "waste and unoccupied" was deliberately vague and expansive, encompassing land used by pastoralists, land in fallows, and land whose use was not immediately visible to European surveyors.
 
 The 1902 ordinance included crucial provisions:
 

@@ -21,7 +21,7 @@ The 1979 results were presented by the government as a mandate for Moi's leaders
 - [[Parliament of Kenya]]
 - [[KANU Party]]
 - [[1974 Election Results]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 - [[Daniel arap Moi]]
 
 ## Sources

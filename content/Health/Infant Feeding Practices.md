@@ -1,4 +1,4 @@
-Breastfeeding is nearly universal in Kenya, with 99 percent of infants receiving breast milk at some point during early childhood. However, exclusive breastfeeding practices, recommended by [[WHO]] from birth through six months of age, are not universal despite their documented benefits for infant survival and development. Only 61 percent of Kenyan infants are exclusively breastfed for the recommended six-month period, with 39 percent receiving supplementary foods or animal milks too early. Early supplementation of breast milk exposes infants to infections including diarrhea and respiratory infections transmitted through contaminated foods, water, or handling. Early introduction of inadequate complementary foods also reduces breast milk consumption, decreasing the nutritional value of feeding and increasing infant morbidity and mortality risk.
+Breastfeeding is nearly universal in Kenya, with 99 percent of infants receiving breast milk at some point during early childhood. However, exclusive breastfeeding practices, recommended by [[Luo]] from birth through six months of age, are not universal despite their documented benefits for infant survival and development. Only 61 percent of Kenyan infants are exclusively breastfed for the recommended six-month period, with 39 percent receiving supplementary foods or animal milks too early. Early supplementation of breast milk exposes infants to infections including diarrhea and respiratory infections transmitted through contaminated foods, water, or handling. Early introduction of inadequate complementary foods also reduces breast milk consumption, decreasing the nutritional value of feeding and increasing infant morbidity and mortality risk.
 
 Traditional beliefs and practices influence infant feeding practices in Kenya, with cultural variation across ethnic groups and geographic areas. In some communities, newborns are given water, herbal preparations, or other substances in the first hours or days of life before breastfeeding is established, introducing infection risk and potentially interfering with lactation. The colostrum (first breast milk produced) is sometimes viewed as inappropriate for newborns and discarded, depriving infants of concentrated nutrition and protective antibodies. Mothers in both urban slum and rural areas demonstrate similar knowledge gaps regarding appropriate complementary feeding, with monotonous, non-diverse diets provided when breastfeeding begins to decrease around 6 months of age.
 
@@ -14,7 +14,7 @@ Improving infant feeding practices requires multifaceted approaches addressing k
 [[Maternal Mortality Reduction|Maternal Mortality Reduction]]
 [[Diarrhea Dehydration Management|Diarrhea Dehydration Management]]
 [[Malnutrition Stunting Effects|Malnutrition Stunting Effects]]
-[[Health Education Kenya|Healthcare Policy Evolution]]
+[[Health|Healthcare Policy Evolution]]
 
 ## Sources
 1. https://pmc.ncbi.nlm.nih.gov/articles/PMC10676620/

@@ -74,7 +74,7 @@ M-Pesa's economic impact will likely remain substantial but face diminishing ret
 - [[M-Pesa]]
 - [[Mobile Banking Kenya]]
 - [[Financial Inclusion Kenya]]
-- [[Safaricom History]]
+- [[Safaricom]]
 - [[Microfinance Kenya]]
 - [[Kenya Economic Overview]]
 - [[Digital Financial Services Kenya]]

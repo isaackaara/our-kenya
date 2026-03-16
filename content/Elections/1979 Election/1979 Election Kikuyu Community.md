@@ -18,11 +18,11 @@ Kikuyu politics in 1979 thus involved both continuity (the community remained su
 
 ## See Also
 - [[1979 Election]]
-- [[Kikuyu Politics Kenya]]
+- [[Kikuyu]]
 - [[Jomo Kenyatta]]
 - [[Daniel arap Moi]]
 - [[Central Province Kenya]]
-- [[Kenya Ethnic Politics]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

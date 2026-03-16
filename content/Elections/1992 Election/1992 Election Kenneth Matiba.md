@@ -15,7 +15,7 @@ The emergence of both Odinga and Matiba as opposition candidates demonstrated th
 - [[1992 Election]]
 - [[Kenneth Matiba]]
 - [[FORD-Asili]]
-- [[Kikuyu Politics 1992]]
+- [[Kikuyu]]
 - [[Business and Politics]]
 - [[Opposition Fragmentation]]
 - [[Ethnic Voting 1992]]

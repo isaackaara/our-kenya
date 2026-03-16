@@ -36,7 +36,7 @@ Tourism potential based on wildlife viewing has been largely underdeveloped give
 - [[Tana Delta|Tana Delta]]
 - [[Tana River (the river)|Tana River (the river)]]
 - [[Tana River Climate Change|Tana River Climate Change]]
-- [[Kenya Conservation Areas|Kenya Conservation Areas]]
+- [[Kenya|Kenya Conservation Areas]]
 
 ## Sources
 

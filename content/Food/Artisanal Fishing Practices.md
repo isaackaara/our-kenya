@@ -24,8 +24,8 @@ However, artisanal fishing persisted as important livelihood system for countles
 [[Lake Fish Industry]]
 [[Ocean Fish Harvesting]]
 [[Fishing Rights Management]]
-[[Luo Culture Food]]
-[[Coastal Communities]]
+[[Luo]]
+[[Climate Change and Coastal Communities]]
 [[Sustainable Fisheries]]
 
 ## Sources

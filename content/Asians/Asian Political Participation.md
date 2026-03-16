@@ -61,7 +61,7 @@ The future of Asian political participation depends on multiple factors includin
 - [[Asian Political Representation in Colonial Kenya]]
 - [[Asian Kenyans and Politics]]
 - [[Asian Kenyan Identity 2026]]
-- [[Kenyan political system]]
+- [[Kenya]]
 - [[Ethnic politics Kenya]]
 
 ## Sources

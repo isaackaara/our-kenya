@@ -13,7 +13,7 @@ However, the term "Riverwood" retained cultural resonance even after the physica
 The legacy of Riverwood extends beyond its geography. The technical expertise, crew networks, and distribution knowledge accumulated during the Riverwood era provided foundation for subsequent evolution in Kenyan filmmaking, even as the medium shifted toward television and later toward digital platforms.
 
 ## See Also
-[[Kenyan Cinema Development]], [[Cinema Theaters]], [[Film Production Companies]], [[Television Studios]], [[Film Distribution]], [[Video Technology]], [[Independent Film]]
+[[Kenyan Cinema Development]], [[Cinema Theaters]], [[Film Production Companies]], [[Television Studios]], [[Film Distribution]], [[Technology]], [[Independent Film]]
 
 ## Sources
 1. https://africanfilmnyc.com/archive/2014/10/13/kenya-film-industry

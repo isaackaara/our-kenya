@@ -2,7 +2,7 @@
 title: Indian Ocean Heritage
 ---
 
-The [[Swahili Regional Language]] coast of [[East African Community]] (Kenya, Tanzania, and extending to Mozambique) shares a distinctive cultural and historical heritage shaped by centuries of maritime trade, Arab and Asian influence, and coastal ecosystems.
+The [[Swahili]] coast of [[East African Community]] (Kenya, Tanzania, and extending to Mozambique) shares a distinctive cultural and historical heritage shaped by centuries of maritime trade, Arab and Asian influence, and coastal ecosystems.
 
 ## The Swahili Coast Peoples
 
@@ -18,15 +18,15 @@ The Swahili coastal peoples developed a distinctive culture blending African, Ar
 
 ## Swahili Civilization
 
-Between roughly 1000 CE and 1500 CE, the [[Swahili Regional Language]] coast hosted a distinctive civilization:
+Between roughly 1000 CE and 1500 CE, the [[Swahili]] coast hosted a distinctive civilization:
 
-**Trading Networks**: [[Swahili Regional Language]] merchants traded with [[Arab Slave Trade]] networks, Persian, Indian, and Chinese traders, exchanging African goods (ivory, gold, slaves) for Asian manufactures and spices.
+**Trading Networks**: [[Swahili]] merchants traded with [[Arab Slave Trade]] networks, Persian, Indian, and Chinese traders, exchanging African goods (ivory, gold, slaves) for Asian manufactures and spices.
 
-**Architectural Tradition**: [[Swahili Regional Language]] coastal towns developed distinctive architecture with coral stone buildings, intricate carved doors, and coastal fortifications.
+**Architectural Tradition**: [[Swahili]] coastal towns developed distinctive architecture with coral stone buildings, intricate carved doors, and coastal fortifications.
 
 **Religious Life**: Islam was practiced in coastal cities, with mosques and Islamic education centers.
 
-**Linguistic Development**: [[Swahili Regional Language]] language and literature developed during this period, with some of the earliest [[Swahili Regional Language]] written works dating to this era.
+**Linguistic Development**: [[Swahili]] language and literature developed during this period, with some of the earliest [[Swahili]] written works dating to this era.
 
 ## Coral Reef Ecosystems
 
@@ -56,21 +56,21 @@ East African coral reefs face multiple threats:
 
 ## Swahili Coast Cities
 
-Major coastal cities share [[Swahili Regional Language]] heritage:
+Major coastal cities share [[Swahili]] heritage:
 
-**[[Mombasa Port]] (Kenya)**: Kenya's primary port and historic [[Swahili Regional Language]] city, with centuries of trading history and cultural significance.
+**[[Mombasa Port]] (Kenya)**: Kenya's primary port and historic [[Swahili]] city, with centuries of trading history and cultural significance.
 
-**Lamu (Kenya)**: A UNESCO World Heritage site and well-preserved [[Swahili Regional Language]] town with traditional architecture and cultural practices.
+**Lamu (Kenya)**: A UNESCO World Heritage site and well-preserved [[Swahili]] town with traditional architecture and cultural practices.
 
-**[[Zanzibar Revolution|Zanzibar]] (Tanzania)**: Historic trading center with distinctive [[Swahili Regional Language]] culture, spice plantations, and urban heritage.
+**[[Zanzibar|Zanzibar]] (Tanzania)**: Historic trading center with distinctive [[Swahili]] culture, spice plantations, and urban heritage.
 
-**Dar es Salaam (Tanzania)**: Modern city on the [[Swahili Regional Language]] coast, Tanzania's largest city and primary port.
+**Dar es Salaam (Tanzania)**: Modern city on the [[Swahili]] coast, Tanzania's largest city and primary port.
 
-**Kilwa (Tanzania)**: Historic [[Swahili Regional Language]] city-state, now largely in ruins but archaeologically significant.
+**Kilwa (Tanzania)**: Historic [[Swahili]] city-state, now largely in ruins but archaeologically significant.
 
 ## Contemporary Swahili Coast Communities
 
-Modern coastal communities maintain [[Swahili Regional Language]] heritage while navigating contemporary challenges:
+Modern coastal communities maintain [[Swahili]] heritage while navigating contemporary challenges:
 
 **Fishing Communities**: Traditional fishing communities continue dhow-sailing, fish preservation, and trade practices.
 
@@ -78,25 +78,25 @@ Modern coastal communities maintain [[Swahili Regional Language]] heritage while
 
 **Trade**: The coast remains a major trade zone, with ports serving regional and international commerce.
 
-**Language**: [[Swahili Regional Language]] remains the dominant language, serving as a lingua franca across [[East African Community]].
+**Language**: [[Swahili]] remains the dominant language, serving as a lingua franca across [[East African Community]].
 
 ## Regional Significance
 
-The [[Swahili Regional Language]] coast represents a shared cultural space for Kenya, Tanzania, and neighboring countries:
+The [[Swahili]] coast represents a shared cultural space for Kenya, Tanzania, and neighboring countries:
 
-- [[Swahili Regional Language]] is the official language of the [[East African Community]]
-- [[Swahili Regional Language]] cultural practices and music influence broader East Africa
+- [[Swahili]] is the official language of the [[East African Community]]
+- [[Swahili]] cultural practices and music influence broader East Africa
 - The coast is an economic zone with shared interests in fishing, trade, and tourism
 
 ## See Also
 
-- [[Swahili Regional Language]]
+- [[Swahili]]
 - [[Mombasa Port]]
-- [[Zanzibar Revolution]]
+- [[Zanzibar]]
 - [[Arab Slave Trade]]
 - [[Omani Empire]]
-- [[East African Food]]
-- [[East African Music]]
+- [[East Africa]]
+- [[East African Music Charts 1990s]]
 
 ## Sources
 

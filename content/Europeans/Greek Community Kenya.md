@@ -112,10 +112,10 @@ Greek presence left marks on Kenya:
 
 - [[European Settlement Overview]] - Broader settler context
 - [[Europeans in Kenya Timeline]] - Greek arrival context
-- [[Nairobi Commerce and Trade]] - Economic activities
-- [[Mombasa Commerce]] - Greek trading presence
+- [[Nairobi]] - Economic activities
+- [[Mombasa]] - Greek trading presence
 - [[Post-Colonial Minorities]] - Greeks in independent Kenya
-- [[Business and Enterprise in Colonial Kenya]] - Economic roles
+- [[Colonial Kenya]] - Economic roles
 - [[European Communities in Kenya]] - Comparative minority groups
 - [[Cultural Heritage in Kenya]] - Greek cultural legacy
 

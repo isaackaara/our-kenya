@@ -17,12 +17,12 @@ North Eastern Province, sparsely populated and pastoral, was represented by a sm
 Regional patterns in 1974 reflected historical processes dating to colonial times and to the first fifteen years of independence. The colonial administration had favored certain groups and regions, and these patterns persisted into independent Kenya. Kenyatta, a Kikuyu, had not deliberately marginalized other regions, but the concentration of economic opportunity in areas near Nairobi and the political concentration of power among Kikuyu politicians created regional imbalances.
 
 ## See Also
-- [[Kenya Ethnic Politics]]
+- [[Kenya]]
 - [[1974 Election]]
 - [[Daniel arap Moi]]
-- [[Luo Community Kenya Politics]]
+- [[Luo]]
 - [[Central Province Politics]]
-- [[Kenya Regional Development]]
+- [[Kenya Re]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya: A Reappraisal." Eastern Africa Studies, 1976.

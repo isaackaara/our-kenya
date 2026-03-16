@@ -1,4 +1,4 @@
-On July 18, 1989, in [[Nairobi National Park]], President Daniel arap Moi set fire to 12 tonnes of confiscated [[elephant]] ivory in an event that became a defining moment in global conservation history. The burning symbolized Kenya's commitment to [[elephant]] protection and catalyzed international action against the [[ivory trade]].
+On July 18, 1989, in [[Nairobi National Park]], President Daniel arap Moi set fire to 12 tonnes of confiscated [[Elephant Human Conflict]] ivory in an event that became a defining moment in global conservation history. The burning symbolized Kenya's commitment to [[Elephant Human Conflict]] protection and catalyzed international action against the [[ivory trade]].
 
 ## Context and Motivation
 

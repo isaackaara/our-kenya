@@ -19,8 +19,8 @@ Moi's position as Vice President was a status symbol and a constitutionally sign
 - [[1974 Election]]
 - [[Jomo Kenyatta]]
 - [[1978 Succession]]
-- [[Kalenjin Politics Kenya]]
-- [[Kenya Political System 1964-1978]]
+- [[Kalenjin]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

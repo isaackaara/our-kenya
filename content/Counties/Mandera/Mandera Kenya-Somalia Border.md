@@ -81,7 +81,7 @@ Pastoral rangeland management in one country affects pastoral communities in the
 - [[Mandera Security]]
 - [[Mandera Cross-Border Trade]]
 - [[Mandera Pastoralism]]
-- [[Somali Kenya]]
+- [[Somali]]
 
 ## Sources
 

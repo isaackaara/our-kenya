@@ -2,7 +2,7 @@ The Commission of Inquiry into Post-Election Violence, headed by Justice Philip 
 
 ## See Also
 
-- [[2007 post-election violence]]
+- [[Post-Election Violence]]
 - [[Commission of Inquiry]]
 - [[Accountability for violence]]
 - [[International Criminal Court]]

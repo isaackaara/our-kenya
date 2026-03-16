@@ -13,7 +13,7 @@ The British colonial authorities built a network of narrow gauge (one-meter) rai
 - Moving troops and military supplies
 - Connecting colonial settlements
 
-The Kenya-Uganda Railway, completed in 1901, was the oldest and remains strategically crucial. It runs from [[Mombasa Port]] through [[Nairobi Regional Hub]] to Kampala, a distance of roughly 1,600 kilometers. The Tanzania Railway (formerly the Central Railway) connected Dar es Salaam to [[Lake Victoria]].
+The Kenya-Uganda Railway, completed in 1901, was the oldest and remains strategically crucial. It runs from [[Mombasa Port]] through [[Nairobi]] to Kampala, a distance of roughly 1,600 kilometers. The Tanzania Railway (formerly the Central Railway) connected Dar es Salaam to [[Lake Victoria]].
 
 These metre-gauge railways remain in use today, though in declining condition. They carry a small fraction of historical traffic volumes as road transport has competed them away.
 
@@ -27,7 +27,7 @@ The collapse of the EAC in 1977 fragmented the railways. Kenya Railways and Ugan
 
 Since 2010, both Kenya and Tanzania have invested heavily in new standard gauge (1,435 mm) railway lines, a shift representing both technological modernization and Chinese infrastructure involvement.
 
-**The Kenya Standard Gauge Railway**: Completed in 2017, the SGR runs from [[Mombasa Port]] to [[Nairobi Regional Hub]] (472 km) and is being extended toward the Uganda border. It was built with [[Chinese Investment]] financing, Chinese technology, and largely Chinese labor. It has transported significant cargo volume but operates at lower-than-projected capacity and generates ongoing controversy over debt sustainability.
+**The Kenya Standard Gauge Railway**: Completed in 2017, the SGR runs from [[Mombasa Port]] to [[Nairobi]] (472 km) and is being extended toward the Uganda border. It was built with [[Chinese Investment and Corruption]] financing, Chinese technology, and largely Chinese labor. It has transported significant cargo volume but operates at lower-than-projected capacity and generates ongoing controversy over debt sustainability.
 
 **The Tanzania Standard Gauge Railway**: Tanzania has also invested in a new SGR (Dar es Salaam to Morogoro, with further extensions planned) using similar Chinese financing and technology. Like Kenya's SGR, it aims to modernize freight and passenger transport while reducing dependence on deteriorating road infrastructure.
 
@@ -47,7 +47,7 @@ Plans exist to eventually connect the Kenya and Tanzania standard-gauge railways
 
 Railway infrastructure shapes trade patterns. The SGR gives Kenya disproportionate power over Tanzania's import-export trade, as goods must be routed through Kenyan infrastructure to reach the broader region. This creates economic leverage that Kenya has historically used to its advantage.
 
-Landlocked countries (Uganda, Rwanda, Burundi, South Sudan) depend entirely on either Kenyan or Tanzanian railways and ports. This dependence is a persistent source of friction and justifies investment in alternative routes (such as the [[LAPSSET Corridor]] toward Ethiopia).
+Landlocked countries (Uganda, Rwanda, Burundi, South Sudan) depend entirely on either Kenyan or Tanzanian railways and ports. This dependence is a persistent source of friction and justifies investment in alternative routes (such as the [[Uhuru and Lamu Port LAPSSET Corridor]] toward Ethiopia).
 
 ## The Regional Integration Problem
 
@@ -62,11 +62,11 @@ Despite the railways' regional significance, no unified regional railway authori
 
 - [[Mombasa Port]]
 - [[JKIA Airport]]
-- [[Nairobi Regional Hub]]
-- [[Chinese Investment]]
+- [[Nairobi]]
+- [[Chinese Investment and Corruption]]
 - [[EAC Common Market]]
-- [[LAPSSET Corridor]]
-- [[Kenya Uganda Border]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
+- [[Kenya]]
 
 ## Sources
 

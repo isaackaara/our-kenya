@@ -8,7 +8,7 @@ Investigative journalism emerged as a prestige category within current affairs b
 
 The transition to multiparty democracy in the 1990s expanded space for current affairs programming examining political competition, policy alternatives, and governance issues. Election periods generated intensive current affairs coverage as broadcasters covered campaign debates, analyzed policy platforms, and investigated candidate backgrounds. This coverage trained audiences to expect political analysis and comparative evaluation, creating constituencies for substantive current affairs programming beyond the partisan interests of individual broadcasters.
 
-See Also: [[News Broadcasting]], [[Documentary Film]], [[Breaking News]], [[Election Coverage]], [[Television Studios]], [[Political Films]], [[Journalism Education]]
+See Also: [[News Broadcasting]], [[Documentary Film]], [[Breaking News]], [[Election Coverage]], [[Television Studios]], [[Political Films]], [[Education]]
 
 Sources:
 1. https://www.international-journalists-federation.org/

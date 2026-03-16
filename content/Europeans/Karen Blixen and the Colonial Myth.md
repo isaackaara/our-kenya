@@ -37,10 +37,10 @@ Understanding Blixen is essential to understanding how colonialism justified its
 ## See Also
 
 - [[Karen Blixen]] - Biographical article
-- [[Out of Africa]] - The memoir
+- [[Out of Africa and Its Legacy]] - The memoir
 - [[Happy Valley Set]] - Contemporary settler society
 - [[Denys Finch Hatton]] - Her romantic partner
-- [[Karen Blixen Museum]] - Museum at her farm
+- [[Karen Blixen]] - Museum at her farm
 - [[Ngong Hills]] - Location of her farm
 - [[Elspeth Huxley]] - Contemporary settler chronicler
-- [[Settler Nostalgia and Romanticism]] - Critique of colonial narratives
+- [[Settler Nostalgia]] - Critique of colonial narratives

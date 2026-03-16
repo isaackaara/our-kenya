@@ -87,7 +87,7 @@ Safaricom is likely to remain Kenya's dominant telco. However, growth will slow 
 - [[Telecoms History Kenya]]
 - [[Fintech Kenya]]
 - [[Kenya Economic Overview]]
-- [[Technology Innovation Kenya]]
+- [[Technology]]
 - [[Digital Economy Kenya]]
 
 ## Sources

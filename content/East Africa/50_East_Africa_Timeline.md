@@ -119,12 +119,12 @@ A chronological reference of key dates in [[East African Community]] regional hi
 ## See Also
 
 All notes in the East Africa section are interconnected. See specific topics:
-- [[Kenya in East Africa]]
+- [[Kenya]]
 - [[EAC History]]
 - [[EAC Common Market]]
-- [[Berlin Conference East Africa]]
-- [[Somalia Collapse]]
-- [[East African Droughts]]
+- [[East Africa]]
+- [[Somalia]]
+- [[East Africa]]
 - [[Mombasa Port]]
 - [[JKIA Airport]]
 

@@ -19,7 +19,7 @@ The massacre's legacy extends into contemporary Kenya. Historical commissions ha
 - [[Mau Mau Rebellion|Mau Mau Rebellion]]
 - [[Tana River Politics|Tana River Politics]]
 - [[Tana River County|Tana River County Overview]]
-- [[Kenya Independence Movement|Kenya Independence Movement]]
+- [[Kenya|Kenya Independence Movement]]
 
 ## Sources
 

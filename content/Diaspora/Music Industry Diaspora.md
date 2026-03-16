@@ -16,7 +16,7 @@ The music industry diaspora also reflects challenges including copyright protect
 [[Tech Innovation Diaspora]]
 [[Diaspora Entrepreneurship]]
 [[Literature Writing Abroad]]
-[[Arts Creatives Diaspora]]
+[[Diaspora]]
 
 ## Sources
 

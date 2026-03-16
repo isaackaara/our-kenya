@@ -10,7 +10,7 @@ Contemporary hunting restrictions remain comprehensive despite growing scientifi
 
 ## See Also
 
-[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Waata Pastoralist Hunters]] | [[Wildlife Relationships]] | [[Forest Rights Land]] | [[Conservation Kenya]] | [[Indigenous Knowledge Systems]]
+[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Waata\ Pastoralist\ Hunters]] | [[Wildlife\ Relationships]] | [[Forest\ Rights\ Land]] | [[Conservation]] | [[Indigenous Knowledge Systems]]
 
 ## Sources
 

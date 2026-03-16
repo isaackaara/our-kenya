@@ -1,9 +1,9 @@
-[[Kofi Annan]], former UN Secretary-General, led a shuttle diplomacy process beginning in early 2008 to mediate between [[Kibaki]] and [[Raila]] and to pressure both sides toward a negotiated settlement. Annan's involvement was crucial: his international prestige, his experience in African conflicts, and his position outside Kenyan politics gave him credibility with both sides. The mediation process eventually resulted in the [[National Accord and Reconciliation Agreement]], which created a power-sharing arrangement with Raila as Prime Minister. The mediation prevented the violence from continuing indefinitely and provided both sides with a face-saving exit from the crisis.
+[[Kofi Annan Mediation]], former UN Secretary-General, led a shuttle diplomacy process beginning in early 2008 to mediate between [[Kibaki]] and [[Taita]] and to pressure both sides toward a negotiated settlement. Annan's involvement was crucial: his international prestige, his experience in African conflicts, and his position outside Kenyan politics gave him credibility with both sides. The mediation process eventually resulted in the [[National Accord and Reconciliation Agreement]], which created a power-sharing arrangement with Raila as Prime Minister. The mediation prevented the violence from continuing indefinitely and provided both sides with a face-saving exit from the crisis.
 
 ## See Also
 
-- [[2007 post-election violence]]
-- [[Kofi Annan]]
+- [[Post-Election Violence]]
+- [[Kofi Annan Mediation]]
 - [[International mediation Africa]]
 - [[2007 Election National Accord]]
 

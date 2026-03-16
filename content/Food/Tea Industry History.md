@@ -4,7 +4,7 @@ Tea cultivation began in Kenya around 1903 when British settlers experimented wi
 
 The industry expanded dramatically through the mid-20th century. By the 1940s, Kenya was producing substantial quantities for export to Britain and the Commonwealth. The colonial government invested in infrastructure to support tea production: roads to transport leaf, tea factories for processing, and administrative systems to regulate quality and marketing. The industry created wage labor opportunities in highland regions, drawing workers from surrounding areas into estate employment. However, wages were low, working conditions were difficult, and workers had limited control over production decisions.
 
-Independence transformed tea's institutional structure. The [[Kenya Tea Development Authority]] (KTDA), established in 1964, became instrumental in promoting smallholder tea farming. Rather than consolidating production in large estates owned by former colonial settlers, the KTDA model facilitated outgrower schemes where small-scale farmers, often on plots of one to five hectares, grew tea and sold their leaf to cooperative processing factories. This decentralized approach distributed income more broadly across rural communities than estate-only models, though the KTDA maintained significant control over prices, processing technology, and marketing.
+Independence transformed tea's institutional structure. The [[Kenya]] (KTDA), established in 1964, became instrumental in promoting smallholder tea farming. Rather than consolidating production in large estates owned by former colonial settlers, the KTDA model facilitated outgrower schemes where small-scale farmers, often on plots of one to five hectares, grew tea and sold their leaf to cooperative processing factories. This decentralized approach distributed income more broadly across rural communities than estate-only models, though the KTDA maintained significant control over prices, processing technology, and marketing.
 
 By the 1980s, smallholders produced the majority of Kenya's tea. The crop became deeply integrated into the highland agricultural economy, particularly in Nyanza, Western, and Rift Valley regions. Tea provided regular cash income to rural households, enabling investment in education and small business ventures. Yet the industry also created vulnerability: smallholders depended on tea prices determined by global commodity markets, and the emphasis on tea monoculture reduced agricultural diversity.
 
@@ -15,7 +15,7 @@ Kenya remains one of the world's top tea producers and the largest exporter in A
 ## See Also
 
 [[Crop Farming Evolution]]
-[[Colonial Kenya Export Economy]]
+[[Colonial Kenya]]
 [[Smallholder Agriculture]]
 [[Land Distribution Kenya]]
 [[Cash Crops Development]]

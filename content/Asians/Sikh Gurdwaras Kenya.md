@@ -1,4 +1,4 @@
-[[Gurdwaras]] (Sikh temples) in Kenya serve as religious centers and community gathering spaces for [[Sikhs]]. They host daily prayers, ceremonies, langar meals, and community events. Major gurdwaras exist in [[Nairobi]], [[Mombasa]], and [[Kisumu]].
+[[Sikh Gurdwaras Kenya]] (Sikh temples) in Kenya serve as religious centers and community gathering spaces for [[Sikhs]]. They host daily prayers, ceremonies, langar meals, and community events. Major gurdwaras exist in [[Nairobi]], [[Mombasa]], and [[Kisumu]].
 
 ## The Guru Nanak Gurdwara, Nairobi
 

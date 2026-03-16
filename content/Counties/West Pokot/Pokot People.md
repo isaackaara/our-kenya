@@ -37,7 +37,7 @@ Pokot cultural heritage encompasses distinctive music, dance, oral traditions, a
 [[West Pokot County]]
 [[West Pokot Pastoralism]]
 [[West Pokot Cultural Heritage]]
-[[Kalenjin People]]
+[[Kalenjin]]
 [[West Pokot Conflict]]
 
 ## Sources

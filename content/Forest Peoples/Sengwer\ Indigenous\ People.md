@@ -10,7 +10,7 @@ The Sengwer evictions raise critical questions about conservation discourse in K
 
 ## See Also
 
-[[Ogiek Community History]] | [[Embobut Forest]] | [[Cherangany Hills]] | [[Forest Rights Land]] | [[Land Dispossession]] | [[Kenya Forest Service Policy]] | [[Eviction Forest Lands]]
+[[Ogiek\ Community\ History]] | [[Embobut\ Forest]] | [[Cherangany Hills]] | [[Forest\ Rights\ Land]] | [[Land\ Dispossession]] | [[Kenya]] | [[Eviction\ Forest\ Lands]]
 
 ## Sources
 

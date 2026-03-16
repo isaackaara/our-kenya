@@ -21,7 +21,7 @@ Contemporary efforts to revive sisal production have been limited, with limited 
 - [[Taita-Taveta Colonial History]]
 - [[Agricultural Exports Kenya]]
 - [[Economic History Kenya]]
-- [[Labour History Kenya]]
+- [[Labour]]
 - [[Voi Town]]
 - [[Estate Agriculture]]
 

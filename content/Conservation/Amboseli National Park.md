@@ -60,10 +60,10 @@ Multiple research programs operate in Amboseli, contributing to conservation kno
 
 - [[Cynthia Moss]]
 - [[Elephant Population Trends]]
-- [[Maasai and Conservation]]
+- [[Maasai]]
 - [[Protected Areas Kenya]]
 - [[Water Security and Climate Change]]
-- [[Tourism and Wildlife Conservation]]
+- [[Conservation]]
 - [[Elephant Human Conflict]]
 
 ## Sources

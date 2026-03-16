@@ -1,6 +1,6 @@
 Cholera first appeared in Kenya in 1971 in Turkana District, associated with a pandemic originating in Southeast Asia during the 1960s. This marked the beginning of Kenya's experience with epidemic cholera, a disease that would periodically resurge and become a priority in national disease surveillance systems. Early outbreaks were limited in geographic scope, primarily affecting communities in arid pastoral regions with vulnerable populations and limited water access. The emergence of cholera represented a significant public health challenge, as the disease's rapid transmission through contaminated water supplies could overwhelm treatment capacity and cause substantial mortality without rapid response.
 
-The 1970s and 1980s saw periodic cholera outbreaks affecting different regions, establishing the disease as endemic in parts of Kenya. Outbreaks often coincided with rainfall patterns and seasonal water scarcity, concentrating transmission in arid and semi-arid pastoral areas. The [[Ministry of Health]] incorporated cholera into its Integrated Disease Surveillance and Response (IDSR) strategy, establishing protocols for detecting cases, investigating outbreaks, and implementing control measures. These frameworks provided early warning systems enabling rapid response to suspected outbreaks, though resource limitations often constrained response effectiveness.
+The 1970s and 1980s saw periodic cholera outbreaks affecting different regions, establishing the disease as endemic in parts of Kenya. Outbreaks often coincided with rainfall patterns and seasonal water scarcity, concentrating transmission in arid and semi-arid pastoral areas. The [[Health]] incorporated cholera into its Integrated Disease Surveillance and Response (IDSR) strategy, establishing protocols for detecting cases, investigating outbreaks, and implementing control measures. These frameworks provided early warning systems enabling rapid response to suspected outbreaks, though resource limitations often constrained response effectiveness.
 
 The 2014-2016 outbreak was among Kenya's most extensive, resulting in 11,033 suspected or confirmed cases across 22 of Kenya's 47 counties. The outbreak demonstrated the disease's continued capacity for rapid geographic spread in a country with incomplete water and sanitation infrastructure. Response included deployment of health workers for case investigation, epidemiological surveillance, and water quality testing. Cases were confirmed through laboratory isolation of Vibrio cholerae O1 or O139 from patient samples. Treatment involved oral rehydration therapy and antibiotics for severe cases, reducing mortality compared to earlier epidemics when supportive care was limited.
 
@@ -14,7 +14,7 @@ Kenya's 2022-2030 cholera elimination plan represents a strategic shift toward d
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
 [[Urban Slum Health Services|Urban Slum Health Services]]
 [[Environmental Health Hazards|Environmental Health Hazards]]
-[[Poverty and Health|Poverty]]
+[[Poverty|Poverty]]
 
 ## Sources
 1. https://pmc.ncbi.nlm.nih.gov/articles/PMC10058159/

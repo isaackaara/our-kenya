@@ -54,10 +54,10 @@ However, he was also genuinely skilled at what he did (hunting, flying, survival
 
 - [[Karen Blixen]] - His romantic partner and author
 - [[Karen Blixen and the Colonial Myth]] - Literary representation of their relationship
-- [[Out of Africa]] - The memoir featuring Finch Hatton
+- [[Out of Africa and Its Legacy]] - The memoir featuring Finch Hatton
 - [[Happy Valley Set]] - Settler elite society
 - [[European Settlement Overview]] - Context of settler life
-- [[Safari Hunting in Colonial Kenya]] - Big-game hunting culture
+- [[Colonial Kenya]] - Big-game hunting culture
 - [[Plane Crash in 1931]] - The circumstances of his death
 - [[Joy and George Adamson]] - Later conservationists in Kenya
 
@@ -65,7 +65,7 @@ However, he was also genuinely skilled at what he did (hunting, flying, survival
 
 - [[Karen Blixen]] - His romantic partner and author
 - [[Karen Blixen and the Colonial Myth]] - Literary representation of their relationship
-- [[Out of Africa]] - The memoir featuring Finch Hatton
+- [[Out of Africa and Its Legacy]] - The memoir featuring Finch Hatton
 - [[Happy Valley Set]] - Settler elite society
 - [[European Settlement Overview]] - Context of settler life
 - [[Joy and George Adamson]] - Later conservationists in Kenya

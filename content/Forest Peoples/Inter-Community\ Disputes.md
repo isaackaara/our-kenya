@@ -10,7 +10,7 @@ The resolution of inter-community disputes requires frameworks recognizing the l
 
 ## See Also
 
-[[Resource Competition]] | [[Land Dispossession]] | [[Forest Rights Land]] | [[Pastoral Societies Kenya]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Land Boundary Conflicts]]
+[[Resource\ Competition]] | [[Land\ Dispossession]] | [[Forest\ Rights\ Land]] | [[Pastoral Societies Kenya]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Land\ Boundary\ Conflicts]]
 
 ## Sources
 

@@ -34,7 +34,7 @@ Challenges to education in Lamu include school dropout (particularly for girls a
 - [[Lamu Infrastructure|Lamu Infrastructure]]
 - [[Lamu Health|Lamu Health]]
 - [[Lamu Islam|Lamu Islam]]
-- [[Lamu Economic History|Lamu Economic History]]
+- [[Lamu|Lamu Economic History]]
 
 ## Sources
 

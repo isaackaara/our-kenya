@@ -3,9 +3,9 @@ Opposition in 1983 was constrained to exist only within KANU, given the one-part
 ## See Also
 - [[1983 Election]]
 - [[KANU Party]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
 - [[Daniel arap Moi]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
 - [[1983 Election Post-Coup Atmosphere]]
 
 ## Sources

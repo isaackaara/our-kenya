@@ -47,7 +47,7 @@ Mobile health technology for maternal health has been introduced in some areas, 
 [[Hospital Infrastructure Standards]]
 [[Medical Equipment Supplies]]
 [[Rural Healthcare Access]]
-[[Healthcare Technology Innovation]]
+[[Health]]
 
 ## Sources
 1. Kenya Ministry of Health Maternal Health Strategy 2015-2020, https://www.health.go.ke/

@@ -13,7 +13,7 @@ The MOU's existence, while not publicly discussed in detail during the campaign,
 - [[2002 Election MOU]]
 - [[Raila Odinga]]
 - [[2007 Election]]
-- [[Luo politics in Kenya]]
+- [[Luo]]
 
 ## Sources
 

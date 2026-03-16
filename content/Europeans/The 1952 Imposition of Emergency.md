@@ -1,4 +1,4 @@
-On October 20, 1952, [[Governor]] [[Sir Evelyn Baring]] declared a [[State of Emergency]] in Kenya, marking the official beginning of the [[Mau Mau Emergency]] (1952-1960). [[Jomo Kenyatta]] and other [[nationalist leaders]] were arrested. The Emergency represented the [[colonial state]]'s response to [[Mau Mau insurgency]] and reflected [[settlers' fears]] of losing control. The Emergency would last eight years, involve massive violence, detention, and ultimately accelerate Kenya's path to [[independence]].
+On October 20, 1952, [[Governor]] [[Sir Evelyn Baring]] declared a [[State of Emergency 1952]] in Kenya, marking the official beginning of the [[Mau Mau Emergency Broadcasting]] (1952-1960). [[Jomo Kenyatta]] and other [[nationalist leaders]] were arrested. The Emergency represented the [[colonial state]]'s response to [[Mau Mau insurgency]] and reflected [[settlers' fears]] of losing control. The Emergency would last eight years, involve massive violence, detention, and ultimately accelerate Kenya's path to [[independence]].
 
 ## Pre-Emergency Context
 

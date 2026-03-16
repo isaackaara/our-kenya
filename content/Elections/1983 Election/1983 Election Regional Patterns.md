@@ -2,11 +2,11 @@ Regional voting patterns in 1983 reflected the government's political consolidat
 
 ## See Also
 - [[1983 Election]]
-- [[Kenya Regional Development]]
-- [[Kalenjin Politics Kenya]]
+- [[Kenya Re]]
+- [[Kalenjin]]
 - [[Central Province Politics]]
 - [[Daniel arap Moi]]
-- [[Kenya Ethnic Politics]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

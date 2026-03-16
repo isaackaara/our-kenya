@@ -1,6 +1,6 @@
 **January 1998 to December 2001**: Moi serves his final constitutional term, as KANU faces declining governance capacity and economic crisis. Speculation grows about succession arrangements and the post-Moi transition.
 
-**Late 2001 to Early 2002**: [[Kibaki]], [[Raila]], and other opposition figures begin coalition negotiations. NARC emerges as the primary opposition coalition framework, uniting Democratic Party, NDP, and smaller parties.
+**Late 2001 to Early 2002**: [[Kibaki]], [[Taita]], and other opposition figures begin coalition negotiations. NARC emerges as the primary opposition coalition framework, uniting Democratic Party, NDP, and smaller parties.
 
 **March to September 2002**: NARC campaign period officially opens with coalition coordination and campaign activities. The [[Memorandum of Understanding]] between Kibaki and Raila formalizes power-sharing arrangements. [[Uhuru Kenyatta]]'s KANU campaign struggles to gain traction. Independent media campaigns gain visibility.
 
@@ -15,7 +15,7 @@
 ## See Also
 
 - [[2002 Election]]
-- [[Kenya's electoral history]]
+- [[Kenya]]
 - [[Democratic transition Kenya]]
 
 ## Sources

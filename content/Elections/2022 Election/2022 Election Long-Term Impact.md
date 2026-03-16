@@ -19,7 +19,7 @@ The 2022 election's impact on Kenya's international positioning would be determi
 [[2022 Election]]
 [[2022 Election Results]]
 [[2022 Election Hustler Narrative]]
-[[2022 Election Mt. Kenya Shift]]
+[[2022 Election]]
 [[2022 Election Kenya Kwanza]]
 
 ## Sources

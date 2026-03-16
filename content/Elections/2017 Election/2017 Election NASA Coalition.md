@@ -20,7 +20,7 @@ The NASA coalition's post-2017 trajectory was shaped by the handshake. Following
 [[2017 Election August 8 Vote]]
 [[2017 Election Raila Boycott]]
 [[2017 Election Jubilee Campaign]]
-[[2017 Election Results]]
+[[2017 Election]]
 
 ## Sources
 

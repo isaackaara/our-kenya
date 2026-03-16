@@ -12,14 +12,14 @@ Kenya's economic landscape encompasses diverse sectors and industries. Each sect
 
 ## Outlook
 
-Sector growth and development depends on [[Investment Kenya]], [[Technology Kenya]], and global market conditions.
+Sector growth and development depends on [[Investment Kenya]], [[Technology]], and global market conditions.
 
 ## See Also
 
 - [[Nairobi Stock Exchange]]
 - [[Banking History Kenya]]
 - [[Venture Capital Kenya]]
-- [[Kenya Startups]]
+- [[Kenya]]
 - [[Silicon Savannah]]
 - [[Corporate Governance Kenya]]
 - [[Financial Systems Kenya]]

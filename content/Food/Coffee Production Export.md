@@ -6,7 +6,7 @@ The crop became intertwined with [[Colonial Kenya|colonial]] land appropriation.
 
 Smallholder coffee farming developed more slowly than with tea. Colonial authorities resisted African participation in coffee production, viewing the crop as an exclusive preserve for European planters. African coffee farmers were either excluded entirely or permitted only limited cultivation on marginal lands. This policy reflected colonial racial hierarchies and concerns about competing with European planters.
 
-Post-independence agricultural policy shifted toward smallholder integration. The government encouraged African farmers to participate in coffee production through cooperative structures and gradually transferred estate lands to Kenyan ownership. By the 1980s, smallholders produced a significant portion of Kenya's coffee, though large estates remained important. The [[Kenya Coffee Board]], established to regulate production and marketing, became a significant institution managing quality standards, export licensing, and farmer compensation systems.
+Post-independence agricultural policy shifted toward smallholder integration. The government encouraged African farmers to participate in coffee production through cooperative structures and gradually transferred estate lands to Kenyan ownership. By the 1980s, smallholders produced a significant portion of Kenya's coffee, though large estates remained important. The [[Kenya]], established to regulate production and marketing, became a significant institution managing quality standards, export licensing, and farmer compensation systems.
 
 Coffee's significance for Kenya's economy extended beyond production. Coffee exports generated foreign exchange crucial for importing industrial goods, paying government debts, and financing development projects. International coffee price fluctuations directly affected government revenues and rural household incomes. When global prices collapsed, as occurred multiple times in the late 20th century, Kenyan households and the government faced severe economic stress.
 
@@ -16,8 +16,8 @@ Environmental and social dimensions of coffee production included pesticide use 
 
 [[Cash Crops Development]]
 [[Land Distribution Kenya]]
-[[Kikuyu Land Dispossession]]
-[[Colonial Agriculture Policy]]
+[[Kikuyu]]
+[[Colonial Agricultural Policy]]
 [[Rural Development Policies]]
 [[Export Economy Kenya]]
 [[Smallholder Agriculture]]

@@ -31,8 +31,8 @@ Rental property markets in Embu Town provide housing for temporary residents and
 - [[Embu County Land]]
 - [[Embu County Infrastructure]]
 - [[Embu County Agriculture]]
-- [[Embu County Economy]]
-- [[Embu County Markets]]
+- [[Embu County]]
+- [[Embu County]]
 
 ## Sources
 

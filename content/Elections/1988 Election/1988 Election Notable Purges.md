@@ -3,9 +3,9 @@ Many prominent politicians were defeated or prevented from running in 1988. The 
 ## See Also
 - [[1988 Election]]
 - [[Daniel arap Moi]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
 - [[1983 Election Njonjo Fall]]
-- [[Kenya Political Purges]]
+- [[Kenya]]
 - [[KANU Party]]
 
 ## Sources

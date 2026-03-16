@@ -25,7 +25,7 @@
 ## See Also
 
 - [[1992 Election]]
-- [[Moi Presidency]]
+- [[Moi Presidency Timeline]]
 - [[Democratic Return Kenya]]
 - [[Electoral Timeline Kenya]]
 - [[Political Transformation]]

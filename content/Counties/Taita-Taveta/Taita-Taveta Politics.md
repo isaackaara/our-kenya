@@ -23,10 +23,10 @@ Political violence and political tensions have occasionally erupted during elect
 ## See Also
 - [[Taita-Taveta County]]
 - [[Taita People County]]
-- [[Kenyan Politics]]
+- [[Kenya]]
 - [[County Government Kenya]]
 - [[Electoral Systems Kenya]]
-- [[Women in Politics Kenya]]
+- [[Women]]
 - [[Political Parties Kenya]]
 
 ## Sources

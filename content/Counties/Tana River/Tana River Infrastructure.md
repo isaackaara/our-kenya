@@ -38,7 +38,7 @@ Infrastructure maintenance represents an ongoing challenge, with limited budgets
 - [[Tana River Health|Tana River Health]]
 - [[Tana River Education|Tana River Education]]
 - [[Tana River (the river)|Tana River (the river)]]
-- [[Kenya Infrastructure Policy|Kenya Infrastructure Policy]]
+- [[Kenya|Kenya Infrastructure Policy]]
 
 ## Sources
 

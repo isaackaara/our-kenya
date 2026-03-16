@@ -2,11 +2,11 @@ Women remained excluded from standing for Parliament in 1983, continuing the pat
 
 ## See Also
 - [[1983 Election]]
-- [[Women Kenya Politics]]
-- [[Kenya Women's Rights 1980s]]
-- [[Maendeleo ya Wanawake]]
-- [[Kenya Political System 1978-1991]]
-- [[Gender Kenya]]
+- [[Women]]
+- [[Kenya]]
+- [[Maendeleo ya Wanawake Organization]]
+- [[Kenya]]
+- [[Music and Gender Kenya Contemporary]]
 
 ## Sources
 1. Wipper, Audrey. "The Roles of African Women: Female Politician and Organizer." Journal of Modern African Studies, 1975.

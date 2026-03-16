@@ -1,4 +1,4 @@
-Beyond [[M-Pesa]], Kenya's [[major banks]] have developed [[mobile banking platforms]] and [[apps]] to serve customers [[digitally]]. These [[platforms]] enable [[account access]], [[fund transfers]], [[bill payments]], and [[loan applications]] via [[mobile phone]], competing with [[Mobile Money]] operators and serving the broader [[financial services market]].
+Beyond [[M-Pesa]], Kenya's [[major banks]] have developed [[mobile banking platforms]] and [[apps]] to serve customers [[digitally]]. These [[platforms]] enable [[account access]], [[fund transfers]], [[bill payments]], and [[loan applications]] via [[Mobile Phone Broadcasting]], competing with [[Mobile Money Revolution Kenya]] operators and serving the broader [[financial services market]].
 
 ## Bank Mobile Platforms
 
@@ -39,12 +39,12 @@ Mobile banking platforms are likely to become increasingly central to bank opera
 ## See Also
 
 - [[M-Pesa Economic Impact]]
-- [[Safaricom History]]
+- [[Safaricom]]
 - [[Banking History Kenya]]
 - [[Financial Inclusion]]
 - [[Fintech Kenya]]
 - [[Digital Economy Kenya]]
-- [[Kenya Shilling]]
+- [[Kenya Shilling History]]
 
 ## Sources
 

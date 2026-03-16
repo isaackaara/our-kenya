@@ -11,7 +11,7 @@ Investment incentive effectiveness remains contested. Policy proponents argue th
 ## See Also
 
 [[Home Country Investment]]
-[[Diaspora Investment Flows]]
+[[Diaspora]]
 [[Real Estate Investment Abroad]]
 [[Education Investment Diaspora]]
 [[Healthcare Investment Diaspora]]

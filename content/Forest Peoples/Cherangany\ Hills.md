@@ -10,7 +10,7 @@ The Cherangany Hills thus represent both a critical environmental asset for Keny
 
 ## See Also
 
-[[Sengwer Indigenous People]] | [[Embobut Forest]] | [[Forest Rights Land]] | [[Kenya Forest Service Policy]] | [[Water Kenya]] | [[Conservation Kenya]] | [[Eviction Forest Lands]]
+[[Sengwer\ Indigenous\ People]] | [[Embobut\ Forest]] | [[Forest\ Rights\ Land]] | [[Kenya]] | [[Water Kenya]] | [[Conservation]] | [[Eviction\ Forest\ Lands]]
 
 ## Sources
 

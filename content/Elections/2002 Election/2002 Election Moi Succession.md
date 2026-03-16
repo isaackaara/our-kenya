@@ -21,9 +21,9 @@ The collapse of Moi's succession strategy stands as a pivotal moment in Kenya's 
 - [[2002 Election]]
 - [[Daniel arap Moi]]
 - [[Uhuru Kenyatta]]
-- [[KANU collapse]]
+- [[2002 Election KANU Collapse]]
 - [[2002 Election Uhuru Kenyatta]]
-- [[Kenya's democratic transition]]
+- [[Kenya]]
 
 ## Sources
 

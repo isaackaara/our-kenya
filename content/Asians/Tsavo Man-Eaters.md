@@ -38,7 +38,7 @@ The Tsavo episode highlights the vulnerability of Indian laborers in colonial ey
 - [[Railway Worker Experience]]
 - [[Settlement After the Railway]]
 - [[Kenyan Asians Overview]]
-- [[Uganda Railway]]
+- [[Uganda Railway Taita-Taveta]]
 - [[Nairobi Business District]]
 
 ## Sources

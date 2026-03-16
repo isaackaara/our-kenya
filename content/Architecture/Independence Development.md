@@ -19,7 +19,7 @@ Contemporary reflections on independence-era development recognize both symbolic
 [[Nairobi Built Environment]]
 [[Highland Development]]
 [[Industrial Building Design]]
-[[Education Infrastructure]]
+[[Education]]
 [[Presidencies]]
 
 ## Sources

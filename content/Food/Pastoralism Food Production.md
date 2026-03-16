@@ -16,7 +16,7 @@ Modern pastoral communities maintained food production through livestock, though
 
 ## See Also
 
-[[Maasai Pastoral Systems]]
+[[Maasai]]
 [[Arid Region Development]]
 [[Famine History Kenya]]
 [[Water Resources Management]]

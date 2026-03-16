@@ -12,7 +12,7 @@ Contemporary challenges include crumbling structures where original owners lack 
 
 ## See Also
 
-[[Colonial Architecture]], [[Religious Building Architecture]], [[Market Architecture]], [[Swahili Heritage]], [[Informal Market Structures]], [[Coast History]], [[Port Infrastructure]]
+[[Colonial Architecture]], [[Religious Building Architecture]], [[Market Architecture]], [[Swahili]], [[Informal Market Structures]], [[Coast-History]], [[Port Infrastructure]]
 
 ## Sources
 

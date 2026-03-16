@@ -18,7 +18,7 @@ Contemporary monument maintenance reflects evolving recognition of heritage valu
 [[Colonial Legacy]]
 [[Cultural Heritage]]
 [[Urban Planning Development]]
-[[Tourism Infrastructure]]
+[[Kenyatta and tourism infrastructure]]
 
 ## Sources
 

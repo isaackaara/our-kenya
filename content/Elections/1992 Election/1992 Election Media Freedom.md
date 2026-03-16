@@ -13,7 +13,7 @@ The media environment of the 1992 election thus represented a transition from th
 ## See Also
 
 - [[1992 Election]]
-- [[Media Freedom Kenya]]
+- [[Media]]
 - [[Press Independence]]
 - [[Broadcast Media Control]]
 - [[Journalism and Politics]]

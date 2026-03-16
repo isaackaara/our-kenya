@@ -2,7 +2,7 @@
 title: Bajuni People
 ---
 
-The [[Bajuni People]] are a coastal [[Swahili Regional Language]] people living on islands spanning the [[Kenya Somalia Border]] maritime boundary. They represent a unique case of a maritime community divided by an international boundary and facing distinctive challenges to cultural survival.
+The [[Bajuni People]] are a coastal [[Swahili]] people living on islands spanning the [[Kenya]] maritime boundary. They represent a unique case of a maritime community divided by an international boundary and facing distinctive challenges to cultural survival.
 
 ## Geographic Location
 
@@ -20,9 +20,9 @@ The Kenya-Somalia maritime border passes through traditional Bajuni territory, c
 
 The Bajuni speak Bajuni, a Swahili dialect with distinctive features:
 
-**Swahili Heritage**: [[Bajuni People]] is a Bantu-based language with heavy Arabic vocabulary, characteristic of [[Swahili Regional Language]] languages. It is mutually intelligible with other Swahili dialects though with distinctive features.
+**Swahili Heritage**: [[Bajuni People]] is a Bantu-based language with heavy Arabic vocabulary, characteristic of [[Swahili]] languages. It is mutually intelligible with other Swahili dialects though with distinctive features.
 
-**Islamic Culture**: The [[Bajuni People]] are Muslim, reflecting the Islamic heritage of the [[Swahili Regional Language]] coast. Islam shapes daily life, ceremonies, and cultural practices.
+**Islamic Culture**: The [[Bajuni People]] are Muslim, reflecting the Islamic heritage of the [[Swahili]] coast. Islam shapes daily life, ceremonies, and cultural practices.
 
 **Maritime Livelihoods**: Traditionally, [[Bajuni People]] livelihoods centered on fishing, dhow sailing, trading, and maritime commerce.
 
@@ -38,7 +38,7 @@ The [[Bajuni People]] have a long history as maritime traders and fishermen:
 
 **Island Communities**: Living on islands created distinct communities with relatively isolated cultural development, producing distinctive dialect and cultural practices.
 
-**Connection to Coast**: The [[Bajuni People]] historically maintained connections with the broader [[Swahili Regional Language]] coast trading network.
+**Connection to Coast**: The [[Bajuni People]] historically maintained connections with the broader [[Swahili]] coast trading network.
 
 ## Contemporary Challenges
 
@@ -68,7 +68,7 @@ The Bajuni region has been affected by piracy and security issues:
 
 The [[Bajuni People]] language is increasingly threatened:
 
-**Language Shift**: Younger [[Bajuni People]] increasingly speak Standard [[Swahili Regional Language]] or English, with [[Bajuni People]] dialect fluency declining among youth.
+**Language Shift**: Younger [[Bajuni People]] increasingly speak Standard [[Swahili]] or English, with [[Bajuni People]] dialect fluency declining among youth.
 
 **Educational Pressure**: Schools teach in Standard Swahili and English, providing limited instruction in Bajuni language.
 
@@ -98,12 +98,12 @@ Contemporary trends affecting Bajuni:
 
 ## See Also
 
-- [[Swahili Regional Language]]
-- [[Kenya Somalia Border]]
-- [[Somali Cross Border]]
+- [[Swahili]]
+- [[Kenya]]
+- [[Somali]]
 - [[Mombasa Port]]
 - [[Indian Ocean Heritage]]
-- [[Zanzibar Revolution]]
+- [[Zanzibar]]
 - [[East Africa Timeline]]
 
 ## Sources

@@ -20,9 +20,9 @@ The succession and transition had created a moment when factional alignments wer
 - [[KANU Party]]
 - [[1979 Election]]
 - [[Daniel arap Moi]]
-- [[Kalenjin Politics Kenya]]
-- [[Kikuyu Politics Kenya]]
-- [[Kenya Political System 1978-1991]]
+- [[Kalenjin]]
+- [[Kikuyu]]
+- [[Kenya]]
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya." African Studies Review, 1976.

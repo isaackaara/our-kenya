@@ -14,13 +14,13 @@ Without protection or incentives, assembly is unlikely to return to Kenya. The s
 
 ## See Also
 
-- [[Manufacturing Kenya]]
+- [[Hardware Manufacturing Kenya]]
 - [[Kenya Imports]]
 - [[Trade Liberalisation Kenya]]
 - [[Industrial Policy Kenya]]
 - [[East Africa Trade Flows]]
 - [[Colonial Economy]]
-- [[Technology Transfer]]
+- [[Technology]]
 
 ## Sources
 

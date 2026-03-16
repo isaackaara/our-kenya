@@ -60,8 +60,8 @@ Most informed observers believe political federation is decades away, if it happ
 
 - [[EAC History]]
 - [[EAC Common Market]]
-- [[Kenya Tanzania Border]]
-- [[Kenya Uganda Border]]
+- [[Kenya]]
+- [[Kenya]]
 - [[EAC Expansion]]
 - [[East Africa Timeline]]
 

@@ -1,4 +1,4 @@
-What do Kenyans share across ethnic lines in 2026? A synthesis of national experiences and markers of [[Kenyan identity]] that cut across ethnic difference. These shared elements form the basis for a [[cross-ethnic national identity]], though they coexist (sometimes uneasily) with persistent [[ethnic loyalties]] and divisions.
+What do Kenyans share across ethnic lines in 2026? A synthesis of national experiences and markers of [[Kenyan Identity Evolution 1964-2026]] that cut across ethnic difference. These shared elements form the basis for a [[cross-ethnic national identity]], though they coexist (sometimes uneasily) with persistent [[ethnic loyalties]] and divisions.
 
 ## What Kenyans Share
 
@@ -16,11 +16,11 @@ What do Kenyans share across ethnic lines in 2026? A synthesis of national exper
 
 ## The Fragility of Shared Identity
 
-These markers of shared [[Kenyan identity]] are real but fragile. The 2007-08 violence demonstrated how quickly [[ethnic mobilisation]] can override these cross-ethnic connections. Elections routinely fracture coalitions built on shared interests. Yet each of these shared elements ([[Swahili]], education, [[M-Pesa]], [[football]]) represents infrastructure for [[cross-ethnic solidarity]]. The question is whether Kenya's institutions can strengthen these bridges faster than ethnic patronage networks can exploit grievances.
+These markers of shared [[Kenyan Identity Evolution 1964-2026]] are real but fragile. The 2007-08 violence demonstrated how quickly [[ethnic mobilisation]] can override these cross-ethnic connections. Elections routinely fracture coalitions built on shared interests. Yet each of these shared elements ([[Swahili]], education, [[M-Pesa]], [[football]]) represents infrastructure for [[cross-ethnic solidarity]]. The question is whether Kenya's institutions can strengthen these bridges faster than ethnic patronage networks can exploit grievances.
 
 ## See Also
 
-- [[Harambee as National Philosophy]]
+- [[Harambee]]
 - [[The M-Pesa Effect]]
 - [[Nairobi as Melting Pot]]
 - [[Shared National Symbols]]

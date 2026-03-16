@@ -2,11 +2,11 @@ Media coverage of the 1988 election was constrained by government control and se
 
 ## See Also
 - [[1988 Election]]
-- [[Kenya Press Freedom]]
-- [[Media Kenya 1980s]]
+- [[Kenya]]
+- [[Media]]
 - [[Daniel arap Moi]]
-- [[Kenya Broadcasting]]
-- [[Kenya Authoritarianism]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Mytton, Graham. "Mass Communication in Africa." Arnold Publishers, 1983.

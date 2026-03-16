@@ -4,9 +4,9 @@ Charles Rubia, a prominent Kikuyu politician, was detained for calling for multi
 - [[1988 Election]]
 - [[Charles Rubia]]
 - [[Daniel arap Moi]]
-- [[Kenya Detention System]]
+- [[Kenya]]
 - [[Second Liberation Kenya]]
-- [[Kenya Democracy Movement]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

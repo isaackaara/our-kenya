@@ -27,7 +27,7 @@ Community relations with Tsavo East management have been complex, with pastoral 
 - [[Wildlife Conservation Kenya]]
 - [[National Parks Kenya]]
 - [[Tourism Kenya]]
-- [[Elephant Conservation]]
+- [[Conservation]]
 
 ## Sources
 1. Kenya Wildlife Service. "Tsavo East National Park Management Plan." (2021). https://www.kws.go.ke

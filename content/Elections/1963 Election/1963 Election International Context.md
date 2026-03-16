@@ -17,8 +17,8 @@ The election outcome was thus not purely a product of internal Kenyan politics b
 - [[American Foreign Policy Africa]]
 - [[Jomo Kenyatta]]
 - [[Oginga Odinga]]
-- [[Lancaster House Conferences]]
-- [[Kenya Western Alignment]]
+- [[The Lancaster House Conferences]]
+- [[Kenya]]
 
 ## Sources
 

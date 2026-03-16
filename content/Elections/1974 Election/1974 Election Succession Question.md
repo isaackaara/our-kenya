@@ -18,7 +18,7 @@ The openness of the 1974 KANU primary, allowing competitive elections that produ
 - [[Charles Njonjo]]
 - [[1974 Election]]
 - [[1978 Succession]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya: From Harambee to Nyayo. University of California Press, 1992.

@@ -16,10 +16,10 @@ The fragmentation of FORD stands as a cautionary case about opposition unity. Th
 
 - [[1997 Election]]
 - [[Forum for the Restoration of Democracy (FORD)]]
-- [[FORD-Kenya]]
+- [[Moi and FORD-Kenya]]
 - [[FORD-Asili]]
 - [[Opposition parties in Kenya]]
-- [[1992 Election overview]]
+- [[1992 Election]]
 
 ## Sources
 

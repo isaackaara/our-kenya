@@ -65,7 +65,7 @@ The Boer contribution to Eldoret's agriculture and commerce was significant. The
 
 ## Post-Independence
 
-After [[Kenyan independence]] in 1963, the Boer settlers faced the same choices as other Europeans: leave Kenya or remain and negotiate a new role in an African-led state.
+After [[Kenyan Independence Music Scene Overview]] in 1963, the Boer settlers faced the same choices as other Europeans: leave Kenya or remain and negotiate a new role in an African-led state.
 
 ## See Also
 

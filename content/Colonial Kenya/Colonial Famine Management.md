@@ -18,8 +18,8 @@ Colonial responses to the 1940s-1950s food crises incorporated similar patterns.
 [[Colonial Migration Control]]
 [[Pastoral Systems and Colonialism]]
 [[Colonial Agriculture]]
-[[Maasai and Colonialism]]
-[[Labour and Colonialism]]
+[[Maasai]]
+[[Labour]]
 [[Colonial Economics]]
 
 ## Sources

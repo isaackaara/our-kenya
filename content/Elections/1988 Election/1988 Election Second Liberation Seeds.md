@@ -3,10 +3,10 @@ The 1988 election planted seeds that would grow into the Second Liberation movem
 ## See Also
 - [[1988 Election]]
 - [[Second Liberation Kenya]]
-- [[Saba Saba]]
-- [[Kenya Democracy Movement]]
+- [[Saba Saba 1990]]
+- [[Kenya]]
 - [[Daniel arap Moi]]
-- [[Kenya One-Party State]]
+- [[Kenya]]
 
 ## Sources
 1. Widner, Jennifer. The Rise of a Party-State in Kenya. University of California Press, 1992.

@@ -10,7 +10,7 @@ Contemporary honey harvesting by forest peoples remains significant where commun
 
 ## See Also
 
-[[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Forest Products Trade]] | [[Economic Activities]] | [[Traditional Knowledge]] | [[Mau Forest]]
+[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Forest\ Products\ Trade]] | [[Economic\ Activities]] | [[Traditional\ Knowledge]] | [[Mau Forest]]
 
 ## Sources
 

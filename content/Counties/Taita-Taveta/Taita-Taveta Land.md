@@ -23,10 +23,10 @@ The county government, through devolution, acquired authority over land administ
 ## See Also
 - [[Taita-Taveta County]]
 - [[Land Tenure Kenya]]
-- [[Land Rights]]
+- [[Land Rights Campaigns]]
 - [[Pastoral Land Use]]
 - [[Urban Land]]
-- [[Conservation Land]]
+- [[Conservation]]
 - [[Land Disputes Kenya]]
 
 ## Sources

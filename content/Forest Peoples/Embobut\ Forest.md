@@ -10,7 +10,7 @@ The Embobut represents a site of continuing struggle between conservation-throug
 
 ## See Also
 
-[[Sengwer Indigenous People]] | [[Cherangany Hills]] | [[Forest Rights Land]] | [[Kenya Forest Service Policy]] | [[Eviction Forest Lands]] | [[Conservation Kenya]] | [[Water Kenya]]
+[[Sengwer\ Indigenous\ People]] | [[Cherangany Hills]] | [[Forest\ Rights\ Land]] | [[Kenya]] | [[Eviction\ Forest\ Lands]] | [[Conservation]] | [[Water Kenya]]
 
 ## Sources
 

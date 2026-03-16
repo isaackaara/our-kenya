@@ -1,4 +1,4 @@
-Daphne Sheldrick (1934-2018) was a pioneering [[Wildlife Conservationist|wildlife conservationist]] and founder of the [[David Sheldrick Wildlife Trust]] dedicated to [[Elephant Orphan Rehabilitation|elephant]] and [[Rhino Orphan Rehabilitation|rhino orphan rehabilitation]] and [[Wildlife Protection|wildlife protection]]. Sheldrick's work demonstrated that [[Orphaned Animals|orphaned wild animals]] could be [[Rehabilitation Techniques|rehabilitated]] and [[Wildlife Reintegration|reintegrated]] into the wild, fundamentally influencing [[Wildlife Rescue and Rehabilitation|wildlife rescue and rehabilitation]] approaches globally.
+Daphne Sheldrick (1934-2018) was a pioneering [[Wildlife Conservationist|wildlife conservationist]] and founder of the [[David Sheldrick]] dedicated to [[Elephant Orphan Rehabilitation|elephant]] and [[Rhino Orphan Rehabilitation|rhino orphan rehabilitation]] and [[Wildlife Protection|wildlife protection]]. Sheldrick's work demonstrated that [[Orphaned Animals|orphaned wild animals]] could be [[Rehabilitation Techniques|rehabilitated]] and [[Wildlife Reintegration|reintegrated]] into the wild, fundamentally influencing [[Wildlife Rescue and Rehabilitation|wildlife rescue and rehabilitation]] approaches globally.
 
 ## Early Life and Conservation Calling
 
@@ -63,8 +63,8 @@ Sheldrick received numerous awards and honors recognizing her conservation contr
 - [[Elephant Conservation Kenya]]
 - [[Rhino Conservation Kenya]]
 - [[Wildlife Rescue Programs]]
-- [[Animal Welfare in Conservation]]
-- [[Conservation Advocacy and Education]]
+- [[Conservation]]
+- [[Conservation]]
 
 ## Sources
 

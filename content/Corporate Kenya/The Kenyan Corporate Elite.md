@@ -1,4 +1,4 @@
-Kenya's corporate elite - the individuals and families controlling major businesses - reflect the political economy of independence. The [[Kenyatta family]], the [[Moi family]], and connected business families accumulated wealth through [[parastatals Kenya|parastatals]], [[privatisation Kenya|privatisation]], and [[government contracts Kenya|government contracts]]. Political access was more important than operational skill.
+Kenya's corporate elite - the individuals and families controlling major businesses - reflect the political economy of independence. The [[Kenya]], the [[Moi Family Business Interests]], and connected business families accumulated wealth through [[parastatals Kenya|parastatals]], [[privatisation Kenya|privatisation]], and [[government contracts Kenya|government contracts]]. Political access was more important than operational skill.
 
 ## Overview
 
@@ -7,7 +7,7 @@ The [[corporate elite Kenya|corporate elite]] is concentrated in [[Nairobi]], wi
 ## Key Points
 
 - [[Wealth concentration Kenya|Wealth concentration]] among political families
-- [[Access Kenya|Access]] to [[government Kenya|government]] is key to success
+- [[Access Kenya|Access]] to [[Women Civil Service Government Kenya|government]] is key to success
 - [[Family businesses Kenya|Family businesses]] dominate many sectors
 - [[New entrepreneurs Kenya|New entrepreneurs]] face barriers to entry
 

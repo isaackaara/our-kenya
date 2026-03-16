@@ -1,4 +1,4 @@
-Kenya Airways (KQ) was Kenya's national carrier, founded in 1977 as a [[joint venture]]. The airline underwent [[privatisation]] in 1996 (with [[KLM]] taking a substantial stake) but subsequently faced severe financial difficulties, particularly after [[COVID-19]].
+Kenya Airways (KQ) was Kenya's national carrier, founded in 1977 as a [[joint venture]]. The airline underwent [[privatisation]] in 1996 (with [[Film]] taking a substantial stake) but subsequently faced severe financial difficulties, particularly after [[COVID-19 Pandemic Kenya]].
 
 ## Founding and Early Operations
 
@@ -42,12 +42,12 @@ There have been discussions of renationalising KQ (buyingback KLM's stake and go
 
 ## See Also
 
-- [[East Africa Aviation Sector]]
-- [[Safaricom History]]
-- [[Kenya Tourism History]]
+- [[East Africa]]
+- [[Safaricom]]
+- [[Kenya]]
 - [[Parastatals Kenya]]
 - [[Kenya Economic Overview]]
-- [[Transportation Infrastructure Kenya]]
+- [[Transportation Infrastructure]]
 - [[Post-Independence Economic Policy]]
 
 ## Sources

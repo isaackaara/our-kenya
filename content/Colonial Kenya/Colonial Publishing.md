@@ -19,9 +19,9 @@ The transition from colonial publishing serving settler and imperial interests t
 ## See Also
 [[Colonial Censorship]]
 [[Colonial Newspapers]]
-[[Colonial Education]]
+[[Colonial Education Legacy]]
 [[Colonial Knowledge Production]]
-[[Anti-Colonial Publishing]]
+[[Colonial Publishing]]
 [[Missionisation]]
 
 ## Sources

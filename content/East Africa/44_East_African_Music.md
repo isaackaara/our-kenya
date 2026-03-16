@@ -116,12 +116,12 @@ East African music operates in a regional market:
 
 ## See Also
 
-- [[Swahili Regional Language]]
-- [[Luo Language Family]]
+- [[Swahili]]
+- [[Luo Language]]
 - [[Indian Ocean Heritage]]
-- [[East African Literature]]
-- [[East African Food]]
-- [[Kenya in East Africa]]
+- [[East African Literature Bureau]]
+- [[East Africa]]
+- [[Kenya]]
 - [[East Africa Timeline]]
 
 ## Sources

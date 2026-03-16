@@ -43,7 +43,7 @@ However, domestic political incentives for corruption typically outweigh interna
 ## See Also
 
 - [[Corruption in Kenya Overview]]
-- [[Corruption and Political Finance]]
+- [[Corruption]]
 - [[State Capture Kenya]]
 - [[Corruption Networks Kenya]]
 - [[Civil Service Salaries and Petty Corruption]]

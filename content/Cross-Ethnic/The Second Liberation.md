@@ -1,4 +1,4 @@
-The [[pro-democracy movement]] of 1990-1991, often called "the Second Liberation," drew support from multiple [[ethnic communities]] united in demanding the end of [[single-party rule]] and the restoration of [[multiparty democracy]]. The movement represented [[cross-ethnic mobilization]] around shared political demands and demonstrated the capacity for Kenyans of different ethnic backgrounds to organize collectively around [[democratic principles]].
+The [[pro-democracy movement]] of 1990-1991, often called "the Second Liberation," drew support from multiple [[Marsabit Ethnic Communities]] united in demanding the end of [[single-party rule]] and the restoration of [[Moi and Multiparty Democracy]]. The movement represented [[cross-ethnic mobilization]] around shared political demands and demonstrated the capacity for Kenyans of different ethnic backgrounds to organize collectively around [[democratic principles]].
 
 The immediate cause of pro-democracy mobilization was the government's attempt to ban all opposition political activity. Daniel arap Moi's government, in power since 1978, had consolidated control through the KANU single-party state. The government effectively prevented opposition political organization. In 1990-1991, increasing international pressure, particularly from donor countries, and internal dissent motivated the government to legalize multiparty politics.
 
@@ -13,7 +13,7 @@ The Second Liberation demonstrates the distinction between mobilizing around a s
 ## See Also
 
 - [[Ethnic Arithmetic in Politics]]
-- [[1992 Multiparty Elections]]
+- [[Elections]]
 - [[Democratic Transition Kenya]]
 - [[Civil Society Kenya]]
 - [[Trade Unions Kenya]]

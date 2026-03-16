@@ -1,4 +1,4 @@
-Pakistanis in Kenya distinguish themselves from [[Indians]], though the distinction is complex and historically contingent. [[Pakistan]] became a separate nation in 1947, creating both nationality and religious identity differences. Pakistan's population is predominantly [[Muslim]], while India is Hindu-majority.
+Pakistanis in Kenya distinguish themselves from [[Indians]], though the distinction is complex and historically contingent. [[Pakistani Community Kenya]] became a separate nation in 1947, creating both nationality and religious identity differences. Pakistan's population is predominantly [[Music]], while India is Hindu-majority.
 
 ## Pre-Partition and Post-Partition Arrival
 

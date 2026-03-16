@@ -29,7 +29,7 @@ Despite low development levels, the county possesses significant untapped potent
 - [[Orma People|Orma People]]
 - [[Tana River Conflict|Tana River Conflict]]
 - [[Tana River Agriculture|Tana River Agriculture]]
-- [[Tana River Development|Tana River Devolution]]
+- [[Tana River|Tana River Devolution]]
 - [[Tana River Politics|Tana River Politics]]
 
 ## Sources

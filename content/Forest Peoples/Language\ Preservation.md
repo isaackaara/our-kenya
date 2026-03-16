@@ -10,7 +10,7 @@ The relationship between language preservation and broader indigenous rights is 
 
 ## See Also
 
-[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Yaaku Indigenous Group]] | [[Oral Traditions Preservation]] | [[Cultural Survival Strategies]] | [[Forest Rights Land]] | [[Indigenous Identity Kenya]]
+[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Yaaku\ Indigenous\ Group]] | [[Oral\ Traditions\ Preservation]] | [[Cultural\ Survival\ Strategies]] | [[Forest\ Rights\ Land]] | [[Indigenous\ Identity\ Kenya]]
 
 ## Sources
 

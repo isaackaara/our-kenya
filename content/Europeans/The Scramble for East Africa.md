@@ -1,4 +1,4 @@
-The [[Berlin Conference]] of 1884-1885 formalised the [[European partition of Africa]]. [[European powers]], sitting in [[Berlin]] without a single African representative, drew lines on maps and declared them to be borders. [[Britain]] secured the territory that would become [[Kenya]] and [[Uganda]]. The [[British East Africa Company]] received a [[Royal Charter]] in 1888, granting it the right to administer and exploit territory. This is how empires were created: not through conquest and settlement, but through [[legal declaration]] and [[cartographic assertion]].
+The [[Berlin Conference]] of 1884-1885 formalised the [[European partition of Africa]]. [[European powers]], sitting in [[Berlin Marathon Kenya]] without a single African representative, drew lines on maps and declared them to be borders. [[Britain]] secured the territory that would become [[Kenya]] and [[Uganda Railway Taita-Taveta]]. The [[British East Africa Company]] received a [[Royal Charter]] in 1888, granting it the right to administer and exploit territory. This is how empires were created: not through conquest and settlement, but through [[legal declaration]] and [[cartographic assertion]].
 
 ## The Berlin Conference (1884-1885)
 
@@ -30,5 +30,5 @@ By 1920, this changed. Kenya became a Crown Colony, which meant direct Crown adm
 - [[Colonial Administration]]
 - [[The White Highlands]]
 - [[British Colonialism in Kenya]]
-- [[Uganda Railway]]
+- [[Uganda Railway Taita-Taveta]]
 - [[The British East Africa Company]]

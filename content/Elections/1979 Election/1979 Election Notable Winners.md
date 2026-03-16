@@ -20,7 +20,7 @@ The diversity of politicians elected in 1979, representing different ethnic grou
 - [[1979 Election]]
 - [[1979 Election Results]]
 - [[Parliament of Kenya]]
-- [[Kenya Political System 1978-1991]]
+- [[Kenya]]
 - [[KANU Party]]
 - [[Daniel arap Moi]]
 

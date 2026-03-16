@@ -31,7 +31,7 @@ See also: [[Baringo County|Baringo County]], [[Baringo Agriculture|Baringo Agric
 
 ## See Also
 
-- [[Baringo Maasai|Baringo Maasai]]
+- [[Maasai|Baringo Maasai]]
 - [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
 - [[../../Maasai/Maasai Land Loss|Land Issues]]
 - [[Baringo Wildlife|Wildlife]]

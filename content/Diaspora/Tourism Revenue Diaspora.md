@@ -13,7 +13,7 @@ Challenges in diaspora tourism development include seasonal volatility, security
 [[Return Migration Trends]]
 [[Home Country Investment]]
 [[Agricultural Investment]]
-[[Diaspora Investment Flows]]
+[[Diaspora]]
 [[Kenyans United Kingdom]]
 [[Kenyans United States]]
 [[Cultural Events Diaspora]]

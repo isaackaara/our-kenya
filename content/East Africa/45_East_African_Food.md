@@ -126,12 +126,12 @@ Food is connected to regional identity:
 
 ## See Also
 
-- [[Maasai Borders]]
-- [[Luo Language Family]]
-- [[Swahili Regional Language]]
+- [[Maasai]]
+- [[Luo Language]]
+- [[Swahili]]
 - [[Indian Ocean Heritage]]
-- [[East African Droughts]]
-- [[East African Music]]
+- [[East Africa]]
+- [[East African Music Charts 1990s]]
 - [[East Africa Timeline]]
 
 ## Sources

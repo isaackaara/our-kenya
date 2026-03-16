@@ -39,7 +39,7 @@ Inter-communal peace processes have had political dimensions, with political lea
 - [[Tana River Devolution|Tana River Devolution]]
 - [[Pokomo People|Pokomo People]]
 - [[Orma People|Orma People]]
-- [[Kenya Political System|Kenya Political System]]
+- [[Kenya|Kenya Political System]]
 - [[2010 Kenya Constitutional Reform|Kenya Constitutional Reform 2010]]
 
 ## Sources

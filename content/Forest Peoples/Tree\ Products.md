@@ -10,7 +10,7 @@ Contemporary advocacy for indigenous forest rights includes assertion of the rig
 
 ## See Also
 
-[[Forest Products Trade]] | [[Forest Management Knowledge]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Economic Activities]] | [[Forest Rights Land]] | [[Medicinal Plants Knowledge]]
+[[Forest\ Products\ Trade]] | [[Forest Management]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Economic\ Activities]] | [[Forest\ Rights\ Land]] | [[Medicinal\ Plants\ Knowledge]]
 
 ## Sources
 

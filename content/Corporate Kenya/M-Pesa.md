@@ -1,4 +1,4 @@
-[[M-Pesa]] (meaning [[mobile money]] in [[Swahili]]) is the world's most [[successful]] [[mobile money platform]] and the product that transformed [[Kenya's financial system]]. Launched by [[Safaricom]] in [[March 2007]], M-Pesa enabled ordinary Kenyans to [[send money]], [[pay bills]], and [[access credit]] via [[SMS]], displacing [[traditional banking]] and [[informal money transfer]] systems.
+[[M-Pesa]] (meaning [[Mobile Money Revolution Kenya]] in [[Swahili]]) is the world's most [[successful]] [[mobile money platform]] and the product that transformed [[Kenya]]. Launched by [[Safaricom]] in [[March 2007]], M-Pesa enabled ordinary Kenyans to [[send money]], [[pay bills]], and [[access credit]] via [[SMS]], displacing [[traditional banking]] and [[informal money transfer]] systems.
 
 ## Pre-Launch Context
 
@@ -96,7 +96,7 @@ M-Pesa is likely to remain Kenya's dominant mobile money platform. Digital finan
 
 - [[M-Pesa Economic Impact]]
 - [[Mobile Banking Kenya]]
-- [[Safaricom History]]
+- [[Safaricom]]
 - [[Financial Inclusion Kenya]]
 - [[Central Bank of Kenya]]
 - [[Microfinance Kenya]]

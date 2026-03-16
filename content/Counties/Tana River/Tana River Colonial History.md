@@ -32,7 +32,7 @@ By independence in 1963, colonial rule had introduced new governance structures,
 - [[Mau Mau Rebellion|Mau Mau Rebellion]]
 - [[Tana River Timeline|Tana River Timeline]]
 - [[Tana River Land|Tana River Land]]
-- [[Kenya Independence Movement|Kenya Independence Movement]]
+- [[Kenya|Kenya Independence Movement]]
 
 ## Sources
 

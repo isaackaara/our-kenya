@@ -2,7 +2,7 @@ Frederick John Dealtry Lugard, First Baron Lugard (1858-1945), was a British imp
 
 ## Early Military Career and Uganda
 
-Lugard began his career as a soldier in the British Army, serving in India and Sudan. In 1889, he was commissioned by the Imperial British East Africa Company (IBEA Company) to establish British influence in [[Uganda]]. His task was to extend the company's control over trade routes and prevent rival European powers (particularly Germany and France) from claiming the region.
+Lugard began his career as a soldier in the British Army, serving in India and Sudan. In 1889, he was commissioned by the Imperial British East Africa Company (IBEA Company) to establish British influence in [[Uganda Railway Taita-Taveta]]. His task was to extend the company's control over trade routes and prevent rival European powers (particularly Germany and France) from claiming the region.
 
 In 1890, Lugard established a military post at Fort Portal in Uganda and worked to secure alliances with Ugandan kingdoms, particularly Buganda. He employed a combination of military force and diplomatic negotiation, establishing British hegemony without direct conquest of the entire territory. His success in Uganda, achieved with relatively small forces and limited resources, established his reputation as an effective imperial agent.
 

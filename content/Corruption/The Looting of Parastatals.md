@@ -1,6 +1,6 @@
 ## Parastatals as Targets
 
-State corporations, known in Kenya as [[parastatals]], were created to provide essential services (telecommunications, postal services, transportation) or produce essential goods (cereals, agricultural inputs). These corporations controlled valuable assets and generated significant revenue from their operations.
+State corporations, known in Kenya as [[Parastatals Kenya]], were created to provide essential services (telecommunications, postal services, transportation) or produce essential goods (cereals, agricultural inputs). These corporations controlled valuable assets and generated significant revenue from their operations.
 
 Under the [[Moi regime]], parastatals became targets for [[systematic looting]]. Senior appointees to parastatal boards and management positions used their positions to enrich themselves.
 
@@ -80,10 +80,10 @@ The looting of parastatals had measurable development costs:
 - [[Moi Era Corruption Economy]] - broader parastatal looting patterns
 - [[State Capture Kenya]] - capture of state institutions
 - [[Auditor General Role]] - institutional oversight of parastatals
-- [[Kenya Railways]] - specific case of railway corruption
+- [[Kenya]] - specific case of railway corruption
 - [[Weak Governance]] - structural enabling factors
 - [[Asset Recovery Kenya]] - recovering looted assets
-- [[Infrastructure Quality and Corruption]] - impact on service delivery
+- [[Corruption]] - impact on service delivery
 
 ## Sources
 

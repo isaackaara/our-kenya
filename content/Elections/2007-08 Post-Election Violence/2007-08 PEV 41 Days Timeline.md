@@ -1,10 +1,10 @@
 The 2007-08 Post-Election Violence unfolded over exactly 41 days, from December 30, 2007, to February 28, 2008. This timeline traces the escalation curve, key turning points, and the progression from electoral dispute to mediation to power-sharing agreement.
 
-**December 30, 2007, Dusk (Day 1):** [[Electoral Commission of Kenya|ECK]] Chairman [[Samuel Kivuitu|Samuel Kivuitu]] announces that incumbent President Mwai [[Kibaki]] has won the disputed election, with unofficial results showing Raila Odinga's National Democratic Alliance as the leading coalition. The margin is narrow enough to be contestable. Kibaki is immediately [[Kibaki Swearing-In|sworn in]] in a closed ceremony at State House garden without media broadcast, raising the symbolic and practical stakes. Raila's political operatives declare the election stolen.
+**December 30, 2007, Dusk (Day 1):** [[Electoral Commission of Kenya|ECK]] Chairman [[2007-08 PEV Samuel Kivuitu|Samuel Kivuitu]] announces that incumbent President Mwai [[Kibaki]] has won the disputed election, with unofficial results showing Raila Odinga's National Democratic Alliance as the leading coalition. The margin is narrow enough to be contestable. Kibaki is immediately [[2007-08 PEV Kibaki Swearing-In|sworn in]] in a closed ceremony at State House garden without media broadcast, raising the symbolic and practical stakes. Raila's political operatives declare the election stolen.
 
 **December 31, 2007 (Day 2):** Mass protests erupt in Nairobi, Kisumu, and Nakuru, with youth burning tires and barricading streets. Police respond with live ammunition in Kisumu; at least 15 killed. In Nairobi, Kibera and Mathare experience first gang clashes; the protest atmosphere shifts toward ethnic targeting. By evening, at least 50 people have been killed nationwide. The government declares a curfew in affected areas.
 
-**January 1, 2008 (Day 3):** The [[Kiambaa|Kiambaa]] church massacre occurs near Eldoret at approximately 3:30 PM; at least 35 killed. The image of the burned church is broadcast worldwide within hours, shocking international audiences and raising the crisis's global profile. Simultaneously, Rift Valley towns (Eldoret, Nakuru, Burnt Forest) experience escalating militia attacks. By midnight, at least 200 people have been killed cumulatively.
+**January 1, 2008 (Day 3):** The [[Kiambaa Church Burning 2008|Kiambaa]] church massacre occurs near Eldoret at approximately 3:30 PM; at least 35 killed. The image of the burned church is broadcast worldwide within hours, shocking international audiences and raising the crisis's global profile. Simultaneously, Rift Valley towns (Eldoret, Nakuru, Burnt Forest) experience escalating militia attacks. By midnight, at least 200 people have been killed cumulatively.
 
 **January 2-6, 2008 (Days 4-8):** Violence intensifies exponentially. Rift Valley militia groups, now organized and armed, conduct systematic attacks on non-Kalenjin neighborhoods. Nakuru experiences multiple massacres; Eldoret's Luo and Kikuyu enclaves are targeted. Nairobi gang warfare escalates; police killings in Kibera and Mathare spike. Naivasha experiences first attacks on Luo and Kalenjin residents (the Naivasha reprisals occur January 27-28, but preparatory attacks begin this week). By January 6, cumulative deaths reach approximately 600-700.
 
@@ -26,7 +26,7 @@ The 2007-08 Post-Election Violence unfolded over exactly 41 days, from December 
 
 ## See Also
 
-[[2007-08 PEV 2007-08 Post-Election Violence|2007-08 Post-Election Violence Hub]]
+[[2007-08 Post-Election Violence|2007-08 Post-Election Violence Hub]]
 [[2007-08 PEV Kibaki Swearing-In|Kibaki Swearing-In]]
 [[2007-08 PEV Eldoret Church Massacre|Eldoret Church Massacre]]
 [[2007-08 PEV Kofi Annan Mediation|Kofi Annan Mediation]]

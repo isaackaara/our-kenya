@@ -25,7 +25,7 @@ International development organizations have provided funding for climate adapta
 - [[Embu County Climate]]
 - [[Embu County Agriculture]]
 - [[Mount Kenya]]
-- [[Embu County Water]]
+- [[Embu County]]
 - [[Embu County Dairy]]
 - [[Embu County Coffee]]
 - [[Embu County Tea]]

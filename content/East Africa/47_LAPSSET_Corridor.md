@@ -2,7 +2,7 @@
 title: LAPSSET Corridor
 ---
 
-The [[LAPSSET Corridor]] Transport corridor is an ambitious infrastructure project intended to connect the Kenyan port of Lamu to South Sudan and [[Ethiopia Kenya]] via pipeline, railway, and roads. The corridor represents a major [[East African Community]] regional development vision but faces implementation challenges.
+The [[Uhuru and Lamu Port LAPSSET Corridor]] Transport corridor is an ambitious infrastructure project intended to connect the Kenyan port of Lamu to South Sudan and [[Ethiopia Kenya]] via pipeline, railway, and roads. The corridor represents a major [[East African Community]] regional development vision but faces implementation challenges.
 
 ## Project Components
 
@@ -48,9 +48,9 @@ LAPSSET has advanced unevenly:
 
 ## Regional Cooperation Challenges
 
-Implementing [[LAPSSET Corridor]] requires cooperation among multiple nations:
+Implementing [[Uhuru and Lamu Port LAPSSET Corridor]] requires cooperation among multiple nations:
 
-**[[Kenya Ethiopia Border]]**: While both nations have interest in [[LAPSSET Corridor]], competing interests and border tensions sometimes create friction.
+**[[Kenya]]**: While both nations have interest in [[Uhuru and Lamu Port LAPSSET Corridor]], competing interests and border tensions sometimes create friction.
 
 **[[South Sudan Kenya]] Instability**: [[South Sudan Kenya]]'s civil war and state fragmentation have complicated [[South Sudan Kenya]]'s participation in the project.
 
@@ -127,11 +127,11 @@ As of 2026, LAPSSET remains partially under development:
 ## See Also
 
 - [[Mombasa Port]]
-- [[Kenya Ethiopia Border]]
-- [[East African Power]]
-- [[Kenya in East Africa]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Kenya]]
 - [[EAC Expansion]]
-- [[Nairobi Regional Hub]]
+- [[Nairobi]]
 - [[East Africa Timeline]]
 
 ## Sources

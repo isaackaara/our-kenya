@@ -1,13 +1,13 @@
-[[Bidco]] Africa is a major [[Manufacturing|manufacturing]] and consumer goods company in [[Kenya]], operating in edible oils, margarine, personal care products, and other sectors. The company serves [[East Africa]] and operates regional manufacturing facilities.
+[[Bidco]] Africa is a major [[Manufacturing History Kenya|manufacturing]] and consumer goods company in [[Kenya]], operating in edible oils, margarine, personal care products, and other sectors. The company serves [[East Africa]] and operates regional manufacturing facilities.
 
 ## See Also
 
 - [[Manufacturing History Kenya]] - Manufacturing sector development
 - [[Kenya Economic Overview]] - Corporate business environment
-- [[East African Industries]] - Regional manufacturing hubs
+- [[East African Industries (Unilever)]] - Regional manufacturing hubs
 - [[Consumer Goods Kenya]] - FMCG sector players
 - [[Post-Independence Economic Policy]] - Industrial development strategy
-- [[Food Processing Kenya]] - Agro-industrial development
+- [[Food]] - Agro-industrial development
 - [[Corporate Governance Kenya]] - Private company governance
 
 ## Sources

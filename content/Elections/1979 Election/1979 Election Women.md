@@ -18,11 +18,11 @@ Moi's government promoted women's participation in KANU activities and in the go
 
 ## See Also
 - [[1979 Election]]
-- [[Women Kenya Politics]]
-- [[Maendeleo ya Wanawake]]
-- [[Kenya Women's Rights 1970s-1980s]]
-- [[Kenya Political System 1978-1991]]
-- [[Women's Suffrage Kenya]]
+- [[Women]]
+- [[Maendeleo ya Wanawake Organization]]
+- [[Kenya]]
+- [[Kenya]]
+- [[Women]]
 
 ## Sources
 1. Wipper, Audrey. "The Roles of African Women: Female Politician and Organizer." Journal of Modern African Studies, 1975.

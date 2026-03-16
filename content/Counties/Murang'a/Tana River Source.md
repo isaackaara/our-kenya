@@ -22,7 +22,7 @@ The Tana source in Murang'a holds cultural and spiritual significance within Kik
 - [[Murang'a County|Geography]]
 - [[Murang'a Sacred Sites|Water Spirituality]]
 - [[Murang'a Agriculture|Irrigation Farming]]
-- [[../../Geography/Mount Kenya|Mountain Water Tower]]
+- [[Mount Kenya|Mountain Water Tower]]
 
 ## Sources
 

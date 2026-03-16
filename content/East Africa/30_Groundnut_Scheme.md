@@ -83,11 +83,11 @@ The scheme has become a famous case study in development failure:
 
 ## See Also
 
-- [[East Africa Campaign WWI]]
-- [[German East Africa]]
-- [[Berlin Conference East Africa]]
+- [[East Africa]]
+- [[East Africa]]
+- [[East Africa]]
 - [[EAC History]]
-- [[East African Droughts]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

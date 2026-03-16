@@ -23,10 +23,10 @@ Tourism was an important international economic activity. Kenya's wildlife and n
 ## See Also
 - [[Cold War Africa]]
 - [[1974 Election]]
-- [[Kenya Foreign Policy]]
-- [[East African Politics]]
-- [[Kenya Economy 1970s]]
-- [[Kenya International Relations]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Kenya]]
+- [[Kenya]]
 
 ## Sources
 1. Leys, Colin. "Underdevelopment in Kenya: The Political Economy of Neo-Colonialism." University of California Press, 1974.

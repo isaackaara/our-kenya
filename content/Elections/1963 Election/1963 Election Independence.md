@@ -13,8 +13,8 @@ The election-to-independence transition also shaped Kenya's relationship with th
 - [[Jomo Kenyatta]]
 - [[1963 Election Results]]
 - [[1963 Election KANU]]
-- [[Lancaster House Conferences]]
-- [[Kenya Independence Movement]]
+- [[The Lancaster House Conferences]]
+- [[Kenya]]
 - [[December 12 1963]]
 - [[Colonial to Post-Colonial Transition]]
 

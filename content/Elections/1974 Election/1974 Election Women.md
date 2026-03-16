@@ -17,12 +17,12 @@ Women's participation in Harambee projects expanded during the 1970s, and women 
 While women could not be elected to Parliament in 1974, Kenyatta did appoint women to various government positions and boards. These appointed women sometimes wielded political influence and served as channels for women's concerns to reach national government. The existence of women in appointed positions, while not equivalent to electoral representation, was presented as evidence of women's participation in governance.
 
 ## See Also
-- [[Women Kenya Politics]]
+- [[Women]]
 - [[1974 Election]]
-- [[Maendeleo ya Wanawake]]
-- [[Kenya Women's Rights 1960s-1970s]]
+- [[Maendeleo ya Wanawake Organization]]
+- [[Kenya]]
 - [[Harambee]]
-- [[Kenya Political System 1964-1978]]
+- [[Kenya]]
 
 ## Sources
 1. Wipper, Audrey. "The Roles of African Women: Female Politician and Organizer." Journal of Modern African Studies, 1975.

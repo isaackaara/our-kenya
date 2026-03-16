@@ -66,7 +66,7 @@ The community also faced ongoing anxieties about political change in Kenya. Peri
 - [[Land in the Rift Valley]]
 - [[Labor in Kenya]]
 - [[Environmental Issues in Contemporary Kenya]]
-- [[Flower Industry in East Africa]]
+- [[East Africa]]
 - [[Neo-Colonial Economic Systems]]
 
 ## Sources

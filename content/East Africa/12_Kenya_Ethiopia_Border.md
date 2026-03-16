@@ -2,7 +2,7 @@
 title: Kenya Ethiopia Border
 ---
 
-The [[Kenya Ethiopia Border]] represents one of [[East African Community]]'s most volatile boundaries, dividing pastoral communities in the Horn of Africa and creating ongoing tensions over water, grazing, and sovereignty.
+The [[Kenya]] represents one of [[East African Community]]'s most volatile boundaries, dividing pastoral communities in the Horn of Africa and creating ongoing tensions over water, grazing, and sovereignty.
 
 ## Geographic Setting
 
@@ -14,9 +14,9 @@ Major water sources include Lake Turkana (entirely in Kenya but historically use
 
 The border divides several pastoral and agro-pastoral communities:
 
-**Oromo People**: The Oromo, East Africa's largest ethnic group, span Ethiopia and Kenya. On the Kenyan side, Oromo communities are present in the Eastern Region. On the Ethiopian side, Oromo country covers central and southern Ethiopia. The [[Kenya Ethiopia Border]] divides Oromo communities who historically shared grazing lands.
+**Oromo People**: The Oromo, East Africa's largest ethnic group, span Ethiopia and Kenya. On the Kenyan side, Oromo communities are present in the Eastern Region. On the Ethiopian side, Oromo country covers central and southern Ethiopia. The [[Kenya]] divides Oromo communities who historically shared grazing lands.
 
-**Borana Communities**: The Borana are a Cushitic pastoral group with populations on both sides of the [[Kenya Ethiopia Border]]. The Borana share cultural practices, age-set systems, and pastoral traditions. The border has restricted traditional pastoral movements.
+**Borana Communities**: The Borana are a Cushitic pastoral group with populations on both sides of the [[Kenya]]. The Borana share cultural practices, age-set systems, and pastoral traditions. The border has restricted traditional pastoral movements.
 
 **Gabra and Rendille**: These pastoral communities, living in Kenya's arid north, have historical connections to Ethiopian pastoralists across the border.
 
@@ -70,14 +70,14 @@ Recent years have seen:
 - Increased Kenyan military deployment to the border
 - Ethiopian government concerns about Oromo separatists in Kenya
 - Competition over regional water resources due to climate change
-- Disputes over the [[LAPSSET Corridor]] development (which crosses the border)
+- Disputes over the [[Uhuru and Lamu Port LAPSSET Corridor]] development (which crosses the border)
 
 ## See Also
 
-- [[Kenya Somalia Border]]
-- [[East African Droughts]]
-- [[LAPSSET Corridor]]
-- [[Berlin Conference East Africa]]
+- [[Kenya]]
+- [[East Africa]]
+- [[Uhuru and Lamu Port LAPSSET Corridor]]
+- [[East Africa]]
 - [[NFD Colonial Policy]]
 - [[Ethiopia Kenya]]
 - [[East Africa Timeline]]

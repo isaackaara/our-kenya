@@ -1,4 +1,4 @@
-[[India|Indian]] and other [[South Asia|South Asian]] food has been a feature of [[Kenya]]'s culinary landscape since [[Asian Kenyans|Asian]] arrival. From upscale restaurants to street food, [[Asian Kenyans|Asian]] [[cuisine]] is embedded in [[Kenya]]'s foodways and has influenced mainstream [[Kenyan]] eating practices.
+[[India|Indian]] and other [[South Asia|South Asian]] food has been a feature of [[Kenya]]'s culinary landscape since [[Asian Kenyans|Asian]] arrival. From upscale restaurants to street food, [[Asian Kenyans|Asian]] [[cuisine]] is embedded in [[Kenya]]'s foodways and has influenced mainstream [[Kenya]] eating practices.
 
 ## Indian Restaurants and Dining Culture
 
@@ -33,7 +33,7 @@ For Asian Kenyans, food is often deeply connected to identity and memory. Eating
 - [[Asian Cultural Festivals Kenya]]
 - [[Asian Community Schools Today]]
 - [[Asian Kenyans Today]]
-- [[Nairobi restaurants and dining]]
+- [[Nairobi]]
 - [[Swahili cuisine]]
 
 ## Sources

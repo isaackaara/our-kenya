@@ -39,7 +39,7 @@ The act provides Kenya's implementation mechanism for international wildlife tra
 - [[Illegal Wildlife Trade]] - Crime enforcement
 - [[Endangered Species]] - Protection framework
 - [[Conservation NGOs Kenya]] - Implementation partners
-- [[Protected areas]] - Designation system
+- [[Marine Protected Areas]] - Designation system
 - [[Community Conservation Model]] - Participation provisions
 
 ## Sources

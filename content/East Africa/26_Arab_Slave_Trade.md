@@ -2,11 +2,11 @@
 title: Arab Slave Trade
 ---
 
-The 19th century [[Arab Slave Trade]] represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of [[East African Community]] and Central Africa to the coast at [[Zanzibar Revolution|Zanzibar]]. The routes passed through Kenyan territory, profoundly impacting interior communities.
+The 19th century [[Arab Slave Trade]] represented one of the Indian Ocean world's largest forced labor systems, operating from the interior of [[East African Community]] and Central Africa to the coast at [[Zanzibar|Zanzibar]]. The routes passed through Kenyan territory, profoundly impacting interior communities.
 
 ## The Slave Trade System
 
-The [[Arab Slave Trade]] was not a single unified system but rather a series of trade networks operated by Arab, [[Swahili Regional Language]], and African merchants:
+The [[Arab Slave Trade]] was not a single unified system but rather a series of trade networks operated by Arab, [[Swahili]], and African merchants:
 
 **Duration**: The trade intensified in the 18th-19th centuries and continued until the late 19th century despite European abolition efforts.
 
@@ -20,7 +20,7 @@ Slave trade routes radiated from the coast inland:
 
 **Main Routes**: The primary routes ran from the interior of East Africa (Congo, Tanzania, Uganda, Kenya) eastward toward the coast. Traders with chains of enslaved people marched for weeks or months to reach coastal ports.
 
-**[[Zanzibar Revolution|Zanzibar]] Hub**: [[Zanzibar Revolution|Zanzibar]] Island, off the Tanzanian coast, became the primary processing and redistribution center for enslaved people. From [[Zanzibar Revolution|Zanzibar]], enslaved people were sold, transshipped, or prepared for ocean voyages.
+**[[Zanzibar|Zanzibar]] Hub**: [[Zanzibar|Zanzibar]] Island, off the Tanzanian coast, became the primary processing and redistribution center for enslaved people. From [[Zanzibar|Zanzibar]], enslaved people were sold, transshipped, or prepared for ocean voyages.
 
 **Kenyan Territory**: The routes passed through what became Kenya, particularly through the interior plains and highlands. The central Kenyan plateau and rift valley saw slave caravans passing through.
 
@@ -83,11 +83,11 @@ The slave trade remains significant in East African memory and identity:
 ## See Also
 
 - [[Omani Empire]]
-- [[Zanzibar Revolution]]
+- [[Zanzibar]]
 - [[Indian Ocean Heritage]]
-- [[Swahili Regional Language]]
+- [[Swahili]]
 - [[Mombasa Port]]
-- [[East African Food]]
+- [[East Africa]]
 - [[East Africa Timeline]]
 
 ## Sources

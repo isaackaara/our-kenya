@@ -17,7 +17,7 @@ The Tana River today supports approximately 2 million people directly and millio
 ## See Also
 
 - [[Tana River County|Tana River County Overview]]
-- [[Tana River Delta|Tana Delta]]
+- [[Tana River|Tana Delta]]
 - [[Tana River Agriculture|Tana River Agriculture]]
 - [[Tana River Fishing|Tana River Fishing]]
 - [[Pokomo People|Pokomo People]]

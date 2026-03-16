@@ -75,7 +75,7 @@ The development of economic opportunities, professional employment, and institut
 - [[Mandera Education]]
 - [[Mandera Women]]
 - [[Mandera Youth]]
-- [[Somali Kenya]]
+- [[Somali]]
 
 ## Sources
 

@@ -10,7 +10,7 @@ The political status of the Ogiek as an indigenous people remained contested wit
 
 ## See Also
 
-[[Sengwer Indigenous People]] | [[Land Dispossession]] | [[Eviction Forest Lands]] | [[Forest Rights Land]] | [[Mau Forest Conservation]] | [[Colonial Kenya]] | [[African Commission on Human and Peoples' Rights]]
+[[Sengwer\ Indigenous\ People]] | [[Land\ Dispossession]] | [[Eviction\ Forest\ Lands]] | [[Forest\ Rights\ Land]] | [[Conservation]] | [[Colonial Kenya]] | [[African Commission on Human and Peoples' Rights]]
 
 ## Sources
 

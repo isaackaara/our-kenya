@@ -1,4 +1,4 @@
-Chinese manufacturing firms and imports have increasingly competed with [[Kenya]]'s domestic [[manufacturing]] sector since the 1990s. This competition has pressured local producers of textiles, electronics, and consumer goods, reshaping the [[Manufacturing History Kenya|industrial landscape]].
+Chinese manufacturing firms and imports have increasingly competed with [[Kenya]]'s domestic [[Manufacturing History Kenya]] sector since the 1990s. This competition has pressured local producers of textiles, electronics, and consumer goods, reshaping the [[Manufacturing History Kenya|industrial landscape]].
 
 ## See Also
 
@@ -6,7 +6,7 @@ Chinese manufacturing firms and imports have increasingly competed with [[Kenya]
 - [[Kenya-China Trade]] - Trade relations and investment flows
 - [[Foreign Investment Kenya]] - Chinese FDI in Kenya
 - [[Import Substitution Kenya]] - Domestic industry protection strategies
-- [[East African Industries]] - Regional manufacturing
+- [[East African Industries (Unilever)]] - Regional manufacturing
 - [[Structural Adjustment Kenya]] - Liberalization that enabled imports
 - [[Post-Independence Economic Policy]] - Industrial policy evolution
 
