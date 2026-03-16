@@ -392,13 +392,16 @@ a.ok-cta-outline.internal {
 
   .ok-cta-row {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: stretch;
+    width: 100%;
   }
 
   .ok-cta-primary,
   .ok-cta-secondary,
   .ok-cta-outline {
     width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
     text-align: center;
   }
 
