@@ -7,7 +7,7 @@ The expressway's opening in May 2022, during Uhuru's lame-duck final weeks, felt
 ## See Also
 [Nairobi Infrastructure Development](/Cities/Nairobi/Nairobi%20Infrastructure.md)
 [China-Kenya Infrastructure Projects](/Foreign%20Policy/China%20Kenya%20Relations/China%20Kenya%20Infrastructure.md)
-[Uhuru Infrastructure Agenda](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Infrastructure%20Agenda.md)
+[Uhuru Infrastructure Agenda](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Infrastructure-Agenda)
 [Kenya Public Debt and Chinese Loans](/Economy/Kenya%20Public%20Debt.md)
 [Transportation Systems and Inequality in Kenya](/Cities/Nairobi/Transportation%20and%20Inequality.md)
 

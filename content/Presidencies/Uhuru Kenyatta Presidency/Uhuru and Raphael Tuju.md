@@ -7,7 +7,7 @@ Tuju's post-presidential trajectory was revealing. After leaving office in 2022,
 ## See Also
 [Raphael Tuju](/National%20Biography/Raphael%20Tuju.md)
 [Jubilee Party Operations and Internal Conflicts](/Political%20Parties/Jubilee/Jubilee%20Party%20Operations.md)
-[Uhuru and Ruto Fallout](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Ruto%20Fallout.md)
+[Uhuru and Ruto Fallout](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Ruto-Fallout)
 [Parliamentary Coalitions and Party Discipline](/Legislative%20Branch/Parliamentary%20Coalitions%20and%20Discipline.md)
 [Kenya Party System and Organization](/Political%20Parties/Kenya%20Party%20System.md)
 

@@ -9,7 +9,7 @@ Ngina's role illustrated the dynastic continuity underlying Kenya's formal democ
 [Kenyatta Family and Wealth](/Business/Kenyatta%20Family%20Wealth.md)
 [Kikuyu Elite and Business Interests](/Business/Kikuyu%20Elite%20Business.md)
 [First Mothers in African Politics](/Politics/First%20Mothers%20Africa.md)
-[Uhuru Family Business Interests](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Family%20Business%20Interests.md)
+[Uhuru Family Business Interests](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Family-Business-Interests)
 
 ## Sources
 1. Daily Nation, "Mama Ngina: Power Behind the Throne," various 2013-2022 profiles

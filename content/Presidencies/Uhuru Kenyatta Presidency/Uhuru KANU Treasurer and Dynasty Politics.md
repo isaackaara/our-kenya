@@ -9,7 +9,7 @@ Yet the KANU Treasurer position also exposed Uhuru's limitations as a political 
 [Daniel arap Moi](/National%20Biography/Daniel%20arap%20Moi.md)
 [Kikuyu Political Dynasty](/Ethnic%20Politics/Kikuyu/Kikuyu%20Political%20Dynasty.md)
 [2002 Kenyan Election](/Elections/2002%20Kenyan%20Election.md)
-[Kenyatta Family Business](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Family%20Business%20Interests.md)
+[Kenyatta Family Business](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Family-Business-Interests)
 
 ## Sources
 1. Muigai, G. "KANU: The Making and Unmaking of a Hegemonic Party," in Throup & Hornsby (eds.) "Multi-party Democracy in Kenya" (James Currey, 1998)

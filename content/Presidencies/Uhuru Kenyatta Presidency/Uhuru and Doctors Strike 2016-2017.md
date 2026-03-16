@@ -8,7 +8,7 @@ The doctors strike revealed limitations in Uhuru's patronage model of governance
 [Kenya Healthcare System and Strikes](/Social%20Sectors/Kenya%20Healthcare%20System.md)
 [Kenya Medical Doctors Association](/Civil%20Society/Kenya%20Medical%20Doctors%20Association.md)
 [Labor Unions and Strikes in Kenya](/Labor%20Relations/Labor%20Unions%20and%20Strikes.md)
-[Uhuru Healthcare Policy](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Healthcare%20Policy.md)
+[Uhuru Healthcare Policy](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Healthcare-Policy)
 [Governance Crises Under Uhuru](/Presidencies/Uhuru%20Kenyatta%20Presidency/Governance%20Crises%20Under%20Uhuru.md)
 
 ## Sources

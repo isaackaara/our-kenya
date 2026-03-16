@@ -8,7 +8,7 @@ Uhuru's Azimio endorsement illustrated post-presidential vulnerability in Kenya'
 [2022 Kenya Election Coalitions](/Elections/2022%20Kenya%20Election%20Coalitions.md)
 [Azimio Coalition and Raila Odinga](/Political%20Coalitions/Azimio%20Coalition.md)
 [Kenya Kwanza Coalition and Ruto](/Political%20Coalitions/Kenya%20Kwanza%20Coalition.md)
-[Uhuru and Raila - Full Arc](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Raila%20-%20Full%20Arc.md)
+[Uhuru and Raila - Full Arc](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Raila---Full-Arc)
 [Post-Presidency Politics in Kenya](/Politics/Post%20Presidency%20Politics%20Kenya.md)
 
 ## Sources

@@ -8,7 +8,7 @@ Uhuru's relationship with Luo intellectuals and clerical leadership revealed dee
 [Luo Community and Politics](/Ethnic%20Politics/Luo/Luo%20Community%20and%20Politics.md)
 [Kikuyu-Luo Political Division](/Politics/Kikuyu%20Luo%20Political%20Division.md)
 [Raila Odinga](/National%20Biography/Raila%20Odinga.md)
-[The Handshake March 2018](/Presidencies/Uhuru%20Kenyatta%20Presidency/The%20Handshake%20March%202018.md)
+[The Handshake March 2018](/Presidencies/Uhuru-Kenyatta-Presidency/The-Handshake-March-2018)
 [County Development and Regional Inequality](/Government%20Structures/County%20Development%20and%20Regional%20Inequality.md)
 
 ## Sources

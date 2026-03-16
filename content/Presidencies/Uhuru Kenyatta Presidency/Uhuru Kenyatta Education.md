@@ -5,7 +5,7 @@ Kenyatta's education afforded him fluency in global capital markets, bilateral d
 Kenyatta cultivated his image as the educated heir across his career. He maintained a personal library of contemporary African politics and art, collected by extensive travel. During his presidency, he commissioned biographical interviews emphasizing his Amherst education as proof of intellectual seriousness, countering narratives that he was a political heir born into office rather than earned legitimacy. Yet his academic background, while elite, did not translate into transformative economic policy or institutional innovation beyond the constitutional framework he inherited. Critics argued that American liberal education, however prestigious, did not equip him to diagnose Kenya's structural inequality, manufacturing collapse, or agricultural productivity challenges. His education represented elite anglophone cosmopolitanism rather than grounded expertise in Kenya's development crises.
 
 ## See Also
-[Uhuru Kenyatta Early Political Career](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Kenyatta%20Early%20Political%20Career.md)
+[Uhuru Kenyatta Early Political Career](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Kenyatta-Early-Political-Career)
 [Jomo Kenyatta](/National%20Biography/Jomo%20Kenyatta.md)
 [Kikuyu Political Dynasty](/Ethnic%20Politics/Kikuyu/Kikuyu%20Political%20Dynasty.md)
 [Kenya's Western Alignment](/Foreign%20Policy/Kenya%20Western%20Alignment.md)

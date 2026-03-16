@@ -8,7 +8,7 @@ Uhuru's political character reflected elite boarding school conditioning: emotio
 [Kenya Political Character and Leadership](/Politics/Kenya%20Political%20Character.md)
 [Jomo Kenyatta](/National%20Biography/Jomo%20Kenyatta.md)
 [Presidential Power and Presidentialism in Kenya](/Government%20Structures/Presidential%20Power%20in%20Kenya.md)
-[Uhuru and the Media](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20the%20Media.md)
+[Uhuru and the Media](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-the-Media)
 [Elite Political Culture in Kenya](/Politics/Elite%20Political%20Culture.md)
 
 ## Sources

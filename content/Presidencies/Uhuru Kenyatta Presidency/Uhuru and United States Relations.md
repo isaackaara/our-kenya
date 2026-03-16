@@ -9,7 +9,7 @@ Uhuru's US relationship was fundamental to his political survival and economic v
 [AFRICOM and Kenya Operations](/Security%20Sector/AFRICOM%20Kenya%20Operations.md)
 [Obama and Kenya](/National%20Biography/Barack%20Obama%20Kenya%20Policy.md)
 [US Military Aid and Kenya](/International%20Relations/US%20Military%20Aid%20Kenya.md)
-[Uhuru Foreign Policy](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Foreign%20Policy.md)
+[Uhuru Foreign Policy](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Foreign-Policy)
 
 ## Sources
 1. US State Department, "Kenya Bilateral Relations," https://www.state.gov/countries-areas/kenya/

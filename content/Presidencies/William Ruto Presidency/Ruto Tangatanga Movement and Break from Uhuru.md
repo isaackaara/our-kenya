@@ -9,7 +9,7 @@ Tangatanga's transformation of Ruto's political position was profound. Rather th
 [Kenya Political Movements and Factions](/Politics/Political%20Movements%20Kenya.md)
 [2022 Kenya Election Primary Contests](/Elections/2022%20Kenya%20Election%20Campaign.md)
 [Social Media and Political Mobilization Kenya](/Politics/Social%20Media%20Political%20Mobilization.md)
-[Uhuru and Ruto Fallout](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Ruto%20Fallout.md)
+[Uhuru and Ruto Fallout](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Ruto-Fallout)
 
 ## Sources
 1. BBC Africa, "Understanding Tangatanga," 2022

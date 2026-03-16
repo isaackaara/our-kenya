@@ -8,7 +8,7 @@ Uhuru's North Eastern governance exposed tensions between counterinsurgency effe
 [North Eastern Kenya and Somali Community](/Regional%20Politics/North%20Eastern/North%20Eastern%20Kenya%20Somali.md)
 [Al-Shabaab and Kenya Security](/Security%20Sector/Al%20Shabaab%20Kenya%20Operations.md)
 [Military Operations in Garissa and Wajir](/Security%20Sector/Military%20Operations%20North%20Eastern.md)
-[Westgate Attack 2013](/Presidencies/Uhuru%20Kenyatta%20Presidency/Westgate%20Attack%202013.md)
+[Westgate Attack 2013](/Presidencies/Uhuru-Kenyatta-Presidency/Westgate-Attack-2013)
 [Human Rights and Counterinsurgency in Kenya](/Security%20Sector/Human%20Rights%20Counterinsurgency.md)
 
 ## Sources

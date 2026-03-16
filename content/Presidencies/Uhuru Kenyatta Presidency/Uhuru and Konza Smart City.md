@@ -7,7 +7,7 @@ Konza's trajectory illustrated Kenya's recurrent pattern of ambitious visions ou
 ## See Also
 [Konza Technopolis Project](/Economic%20Development/Konza%20Technopolis.md)
 [Kenya Technology Sector Development](/Economy/Kenya%20Technology%20Sector.md)
-[Uhuru Infrastructure Agenda](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Infrastructure%20Agenda.md)
+[Uhuru Infrastructure Agenda](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Infrastructure-Agenda)
 [Kenya's Big Four Agenda](/Government%20Programs/Kenya%20Big%20Four%20Agenda.md)
 [Special Economic Zones in Kenya](/Economic%20Development/Special%20Economic%20Zones.md)
 

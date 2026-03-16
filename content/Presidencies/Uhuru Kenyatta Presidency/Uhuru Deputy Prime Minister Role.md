@@ -7,7 +7,7 @@ Uhuru's DPM tenure lasted only 18 months before shifting to Finance, yet it esta
 ## See Also
 [Grand Coalition Government 2008-2013](/Government%20Structures/Grand%20Coalition%20Government.md)
 [Raila Odinga](/National%20Biography/Raila%20Odinga.md)
-[Uhuru Finance Minister 2009-2012](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Finance%20Minister%202009-2012.md)
+[Uhuru Finance Minister 2009-2012](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Finance-Minister-2009-2012)
 [Musalia Mudavadi](/National%20Biography/Musalia%20Mudavadi.md)
 [African Union Diplomacy](/Foreign%20Policy/African%20Union%20Diplomacy.md)
 

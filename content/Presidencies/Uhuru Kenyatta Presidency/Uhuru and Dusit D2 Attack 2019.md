@@ -8,8 +8,8 @@ The Dusit D2 attack's political aftermath illustrated how Uhuru weaponized secur
 [Dusit D2 Hotel Attack 2019](/Terrorism/Dusit%20D2%20Attack%202019.md)
 [Al-Shabaab Operations in Kenya](/Terrorism/Al%20Shabaab%20Operations.md)
 [Kenya Intelligence Services and Failures](/Security%20Sector/Kenya%20Intelligence%20Services.md)
-[Westgate Attack 2013](/Presidencies/Uhuru%20Kenyatta%20Presidency/Westgate%20Attack%202013.md)
-[Garissa University Attack 2015](/Presidencies/Uhuru%20Kenyatta%20Presidency/Garissa%20University%20Attack%202015.md)
+[Westgate Attack 2013](/Presidencies/Uhuru-Kenyatta-Presidency/Westgate-Attack-2013)
+[Garissa University Attack 2015](/Presidencies/Uhuru-Kenyatta-Presidency/Garissa-University-Attack-2015)
 
 ## Sources
 1. Kenya National Intelligence Service, "Dusit D2 Attack Inquiry Report," 2019 (redacted)

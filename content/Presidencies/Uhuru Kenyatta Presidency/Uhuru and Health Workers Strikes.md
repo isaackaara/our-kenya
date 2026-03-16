@@ -8,7 +8,7 @@ Uhuru's health worker strike experiences prefigured similar challenges his succe
 [Kenya Healthcare Workers and Unions](/Labor%20Relations/Healthcare%20Workers%20Unions.md)
 [Kenya Nurses Union](/Civil%20Society/Kenya%20Nurses%20Union.md)
 [Public Sector Labor Relations Kenya](/Labor%20Relations/Public%20Sector%20Labor.md)
-[Uhuru and Doctors Strike 2016-2017](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Doctors%20Strike%202016-2017.md)
+[Uhuru and Doctors Strike 2016-2017](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Doctors-Strike-2016-2017)
 [Government and Labor Conflicts](/Labor%20Relations/Government%20Labor%20Conflicts.md)
 
 ## Sources

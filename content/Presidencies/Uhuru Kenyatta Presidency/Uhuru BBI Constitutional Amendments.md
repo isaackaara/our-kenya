@@ -7,7 +7,7 @@ BBI's political fate illustrated constitutional limits to executive constitution
 ## See Also
 [Building Bridges Initiative](/Constitutional%20Reform/Building%20Bridges%20Initiative.md)
 [Kenya Constitutional Amendment Processes](/Constitutional%20Reform/Constitutional%20Amendment%20Procedures.md)
-[Uhuru and Raila - Full Arc](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Raila%20-%20Full%20Arc.md)
+[Uhuru and Raila - Full Arc](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Raila---Full-Arc)
 [Devolution and Revenue Sharing](/Government%20Structures/Devolution%20and%20Revenue%20Sharing.md)
 [Supreme Court BBI Decisions](/Judiciary/Supreme%20Court%20BBI%20Decisions.md)
 

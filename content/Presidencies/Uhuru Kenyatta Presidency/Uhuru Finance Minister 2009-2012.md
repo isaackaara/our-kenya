@@ -6,7 +6,7 @@ The Finance role primed Uhuru for presidential ambitions by establishing economi
 
 ## See Also
 [Grand Coalition Government 2008-2013](/Government%20Structures/Grand%20Coalition%20Government.md)
-[Uhuru Economic Record](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Economic%20Record.md)
+[Uhuru Economic Record](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Economic-Record)
 [Kenya Eurobond Issuance](/Economy/Kenya%20Eurobond%20Issuance.md)
 [IMF and Kenya Relations](/International%20Relations/IMF%20and%20Kenya.md)
 [Kenya Macroeconomic Stabilization 2009-2012](/Economy/Kenya%20Macroeconomic%20Stabilization.md)

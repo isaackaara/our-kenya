@@ -6,7 +6,7 @@ Ruto's DP experience demonstrated that Kenya's deputy presidency was fundamental
 
 ## See Also
 [Deputy President Office and Powers](/Government%20Structures/Deputy%20President%20Kenya.md)
-[Ruto and Uhuru Fallout](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Ruto%20Fallout.md)
+[Ruto and Uhuru Fallout](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Ruto-Fallout)
 [Kenya Presidential System and Deputy President](/Government%20Structures/Kenya%20Presidential%20System.md)
 [Tangatanga Movement and Political Organization](/Politics/Tangatanga%20Movement.md)
 [2022 Kenya Election Deputy President Race](/Elections/2022%20Kenya%20Deputy%20President%20Election.md)

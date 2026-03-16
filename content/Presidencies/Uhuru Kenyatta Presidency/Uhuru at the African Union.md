@@ -6,7 +6,7 @@ Uhuru's approach to continental leadership differed from earlier Kenyan leaders.
 
 ## See Also
 [African Union and Kenya](/International%20Relations/African%20Union%20Kenya.md)
-[Uhuru Foreign Policy](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Foreign%20Policy.md)
+[Uhuru Foreign Policy](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Foreign-Policy)
 [Kenya East African Leadership](/Regional%20Organizations/Kenya%20East%20African%20Community.md)
 [Continental Peacekeeping and Kenya](/Security%20Sector/Continental%20Peacekeeping%20Kenya.md)
 [Kenya and African Development](/Development/Kenya%20African%20Integration.md)

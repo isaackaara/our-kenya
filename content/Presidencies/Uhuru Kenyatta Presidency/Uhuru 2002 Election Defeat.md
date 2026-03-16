@@ -8,8 +8,8 @@ Uhuru's 2002 defeat became the crucible that built his resilience. It forced him
 [2002 Kenyan Election](/Elections/2002%20Kenyan%20Election.md)
 [Mwai Kibaki](/National%20Biography/Mwai%20Kibaki.md)
 [NARC Movement](/Political%20Parties/NARC.md)
-[Uhuru Kenyatta Early Political Career](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Kenyatta%20Early%20Political%20Career.md)
-[Uhuru ICC Cases](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20ICC%20Cases.md)
+[Uhuru Kenyatta Early Political Career](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Kenyatta-Early-Political-Career)
+[Uhuru ICC Cases](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-ICC-Cases)
 
 ## Sources
 1. Kenya Electoral Commission, "2002 General Election Results," archived at https://www.iebc.or.ke

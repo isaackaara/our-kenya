@@ -8,7 +8,7 @@ The Uhuru-Joho confrontation revealed how devolution restructured presidential p
 [Hassan Joho](/National%20Biography/Hassan%20Joho.md)
 [Mombasa County Politics](/Regional%20Politics/Coastal%20Kenya/Mombasa%20County%20Politics.md)
 [Devolution and Governors 2013-Present](/Government%20Structures/Devolution%20and%20Governors.md)
-[Uhuru and Raila - Full Arc](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20and%20Raila%20-%20Full%20Arc.md)
+[Uhuru and Raila - Full Arc](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-Raila---Full-Arc)
 [2022 Kenya Election Coalitions](/Elections/2022%20Kenya%20Election%20Coalitions.md)
 
 ## Sources

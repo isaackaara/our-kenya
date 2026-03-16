@@ -9,7 +9,7 @@ Uhuru's Commonwealth engagement was primarily diplomatic protocol rather than su
 [Kenya United Kingdom Bilateral Relations](/International%20Relations/Kenya%20UK%20Relations.md)
 [Post-Colonial Institutional Membership](/International%20Relations/Post%20Colonial%20Institutions.md)
 [Historical Land Injustices and UK Accountability](/Colonial%20History/UK%20Accountability%20Kenya.md)
-[Uhuru Foreign Policy](/Presidencies/Uhuru%20Kenyatta%20Presidency/Uhuru%20Foreign%20Policy.md)
+[Uhuru Foreign Policy](/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Foreign-Policy)
 
 ## Sources
 1. Commonwealth Secretariat, "Commonwealth Heads of Government Meetings 2013-2022," Archives
