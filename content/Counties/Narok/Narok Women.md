@@ -28,7 +28,7 @@ Gender-based violence including domestic violence and sexual assault remains a s
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Maasai in Narok.md|Maasai in Narok]], [[Narok Cultural Heritage.md|Narok Cultural Heritage]]
+See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Cultural Heritage|Narok Cultural Heritage]]
 
 
 ## See Also

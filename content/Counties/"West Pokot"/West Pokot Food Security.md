@@ -8,12 +8,12 @@ Emergency food assistance is provided during severe droughts and crises. Food-fo
 
 ## See Also
 
-- [["West Pokot" County.md|"West Pokot" County]]
-- [["West Pokot" Politics.md|Politics]]
-- [["West Pokot" Agriculture.md|Agriculture]]
-- [["West Pokot" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["West Pokot" County|"West Pokot" County]]
+- [["West Pokot" Politics|Politics]]
+- [["West Pokot" Agriculture|Agriculture]]
+- [["West Pokot" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/
 2. https://www.standardmedia.co.ke/counties/article/2001045678/food-security-west-pokot

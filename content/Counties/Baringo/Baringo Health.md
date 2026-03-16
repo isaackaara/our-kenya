@@ -24,7 +24,7 @@ Community health worker programs extend basic health services into pastoral area
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Climate Change.md|Baringo Climate Change]], [[Baringo Devolution.md|Baringo Devolution]]
+See also: [[Baringo County|Baringo County]], [[Baringo Climate Change|Baringo Climate Change]], [[Baringo Devolution|Baringo Devolution]]
 
 
 ## See Also

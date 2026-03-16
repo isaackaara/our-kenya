@@ -2,7 +2,7 @@ Homa Bay County is the southernmost Luo territory, stretching along the [[../Con
 
 ## Geography and Islands
 
-Homa Bay's primary geographical features are the Lake Victoria shoreline and several islands that extend into the lake. Rusinga Island, connected to the mainland by a causeway, is the most historically significant and home to the [[Tom Mboya.md|Tom Mboya]] Mausoleum, a national monument. Mfangano Island lies further out in the lake and supports fishing communities and limited tourism. These islands represent both economic opportunity and cultural significance for the Luo.
+Homa Bay's primary geographical features are the Lake Victoria shoreline and several islands that extend into the lake. Rusinga Island, connected to the mainland by a causeway, is the most historically significant and home to the [[Tom Mboya|Tom Mboya]] Mausoleum, a national monument. Mfangano Island lies further out in the lake and supports fishing communities and limited tourism. These islands represent both economic opportunity and cultural significance for the Luo.
 
 The mainland coastline is characterized by sandy beaches, landing sites for fishing boats, and small fishing villages. The county's shoreline is home to hippo populations in Lake Victoria, which pose occasional dangers to fishermen and boat users. The landscape alternates between waterfront settlements and interior agricultural areas.
 
@@ -37,7 +37,7 @@ Lake Victoria within Homa Bay's jurisdiction supports significant wildlife popul
 - [[Luo Funeral Traditions]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]], [[Lake Victoria Deep Dive.md|Lake Victoria]]
+[[Siaya County|Siaya County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]], [[Lake Victoria Deep Dive|Lake Victoria]]
 
 ## Sources
 

@@ -28,7 +28,7 @@ County government land administration faces capacity challenges and corruption a
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Pastoralism.md|Baringo Pastoralism]], [[Lake Baringo.md|Lake Baringo]]
+See also: [[Baringo County|Baringo County]], [[Baringo Pastoralism|Baringo Pastoralism]], [[Lake Baringo|Lake Baringo]]
 
 
 ## See Also

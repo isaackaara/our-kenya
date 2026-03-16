@@ -1,4 +1,4 @@
-Youth in [[Kisii County.md|Kisii County]] face complex circumstances shaped by high population density, limited agricultural land, and restricted urban employment opportunities. Youth unemployment and migration have become defining challenges for the county's demographic profile.
+Youth in [[Kisii County|Kisii County]] face complex circumstances shaped by high population density, limited agricultural land, and restricted urban employment opportunities. Youth unemployment and migration have become defining challenges for the county's demographic profile.
 
 ## Employment Challenges
 
@@ -19,12 +19,12 @@ Many youth migrate in search of opportunities:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Education.md|Education]]
-- [[Kisii Diaspora.md|Diaspora]]
-- [[Kisii Land Pressure.md|Land Pressure]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[../../Luo/Young Luo Identity.md|Luo Youth Comparison]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Education|Education]]
+- [[Kisii Diaspora|Diaspora]]
+- [[Kisii Land Pressure|Land Pressure]]
+- [[Gusii People Kisii|Gusii People]]
+- [[../../Luo/Young Luo Identity|Luo Youth Comparison]]
 - Circular migration maintaining rural family connections
 
 ## Entrepreneurship and Innovation

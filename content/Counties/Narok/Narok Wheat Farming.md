@@ -22,7 +22,7 @@ Wheat farming provides income for participating communities and employment in ha
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Land Issues.md|Narok Land Issues]], [[Narok Climate Change.md|Narok Climate Change]]
+See also: [[Narok County|Narok County]], [[Narok Land Issues|Narok Land Issues]], [[Narok Climate Change|Narok Climate Change]]
 
 
 ## See Also

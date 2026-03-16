@@ -34,5 +34,5 @@ Women activists are not rejecting Maasai identity but rather reimagining what Ma
 - [[../Counties/Narok/Narok County|Narok County]]
 - [[../Counties/Kajiado/Kajiado County|Kajiado County]]
 - [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 

@@ -4,7 +4,7 @@ Siaya County is the heartland of the Luo people in western Kenya, spreading acro
 
 Siaya, the county capital, sits 74 kilometers northwest of Kisumu and serves as the administrative hub. The municipality had a population of 33,153 in the 2019 census. Siaya town itself is divided into five wards (Mjini, Siaya Central, Siaya East, Siaya North, Siaya West). The county is further subdivided into six sub-counties: Alego Usonga (the central position containing county headquarters), Bondo (to the west, close to the lake), Ugenya and Ugunja (to the east, rich in agricultural activity), Gem (to the north, a window into Luo cultural heritage), and Rarieda (to the southwest, offering scenic views of Lake Victoria).
 
-Key towns include Bondo, the second-largest urban center and home to [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] University. Ugunja, to the east, is known for its agricultural productivity. Bondo hosts the Ndanu Falls, a natural feature attracting nature enthusiasts, while Rarieda connects to the Lake Victoria shoreline.
+Key towns include Bondo, the second-largest urban center and home to [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] University. Ugunja, to the east, is known for its agricultural productivity. Bondo hosts the Ndanu Falls, a natural feature attracting nature enthusiasts, while Rarieda connects to the Lake Victoria shoreline.
 
 ## Lakeside Landscape
 
@@ -12,9 +12,9 @@ The western edge of Siaya borders Nam Lolwe (Lake Victoria), making the county a
 
 ## Political Significance
 
-Siaya County holds enormous political weight in Kenya's national politics. It is the political stronghold and parliamentary constituency base of [[Raila Odinga.md|Raila Odinga]], who has been nominated as chairman of the African Union Commission as of 2025. Raila's family roots run deep in Siaya, and his political movements have historically mobilized the county and the broader Luo community. Presidential politics in Kenya often requires winning or maintaining dominance in Siaya County as a measure of Luo political sentiment.
+Siaya County holds enormous political weight in Kenya's national politics. It is the political stronghold and parliamentary constituency base of [[Raila Odinga|Raila Odinga]], who has been nominated as chairman of the African Union Commission as of 2025. Raila's family roots run deep in Siaya, and his political movements have historically mobilized the county and the broader Luo community. Presidential politics in Kenya often requires winning or maintaining dominance in Siaya County as a measure of Luo political sentiment.
 
-## Kogelo and [[Barack Obama Sr.md|Barack Obama Sr]].
+## Kogelo and [[Barack Obama Sr|Barack Obama Sr]].
 
 Nyang'oma Kogelo, a rural village in Siaya district, is the ancestral home of Barack Hussein Obama Sr., the Kenyan economist and government official. His grave, along with family compounds and homesteads, make Kogelo a site of both local and international pilgrimage. Barack Obama Jr. (the 44th U.S. President) visited Kogelo in 2006 and again during his presidency, making the village globally significant. Obama's visits brought infrastructure development (schools named after his son Sasha) and tourism revenue, though the village has faced challenges in maintaining sustained development post-presidency.
 
@@ -27,7 +27,7 @@ The connection between Kogelo and the Obama family carries broader meaning for K
 - [[Luo Land and Fishing]]
 ## See Also
 
-[[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]], [[Lake Victoria Deep Dive.md|Lake Victoria]]
+[[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]], [[Lake Victoria Deep Dive|Lake Victoria]]
 
 ## Sources
 

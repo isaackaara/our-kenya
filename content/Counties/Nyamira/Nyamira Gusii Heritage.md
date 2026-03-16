@@ -69,12 +69,12 @@ Gusii in Nyamira navigate:
 
 ## See Also
 
-- [[Nyamira County.md|Nyamira County]]
-- [[Nyamira Politics.md|Politics]]
-- [[Nyamira Agriculture.md|Agriculture]]
-- [[Nyamira Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Nyamira County|Nyamira County]]
+- [[Nyamira Politics|Politics]]
+- [[Nyamira Agriculture|Agriculture]]
+- [[Nyamira Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Levine, Donald N. (1979). "Way of the Warrior: Reflections on the Gusii of East Africa". University of Chicago Press. https://www.uchicago.edu

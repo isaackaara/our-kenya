@@ -71,7 +71,7 @@ Kajiado town's future will be shaped by: continued Nairobi expansion, land tenur
 - [[../Counties/Narok/Narok County|Narok County]]
 - [[../Counties/Kajiado/Kajiado County|Kajiado County]]
 - [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 
 ## Sources
 

@@ -28,7 +28,7 @@ Journalists and media practitioners from Narok have reported on pastoral issues,
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Politics.md|Narok Politics]], [[Narok Cultural Heritage.md|Narok Cultural Heritage]]
+See also: [[Narok County|Narok County]], [[Narok Politics|Narok Politics]], [[Narok Cultural Heritage|Narok Cultural Heritage]]
 
 
 ## See Also

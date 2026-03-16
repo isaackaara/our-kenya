@@ -1,8 +1,8 @@
-The colonial administration of Kisii District, originally known as [[Gusii People Kisii.md|Gusii]], transformed the region's economy, society, and governance structures. British colonial rule lasted approximately 70 years, from the 1890s until Kenya's independence in 1964.
+The colonial administration of Kisii District, originally known as [[Gusii People Kisii|Gusii]], transformed the region's economy, society, and governance structures. British colonial rule lasted approximately 70 years, from the 1890s until Kenya's independence in 1964.
 
 ## Early Colonial Contact
 
-The [[Gusii People Kisii.md|Gusii]] region first encountered British colonial forces in the late 1890s. Unlike some other Kenyan regions, the [[Gusii People Kisii.md|Gusii]] mounted significant resistance to colonial conquest through organized military campaigns led by various clan leaders. Colonial pacification took several years to complete.
+The [[Gusii People Kisii|Gusii]] region first encountered British colonial forces in the late 1890s. Unlike some other Kenyan regions, the [[Gusii People Kisii|Gusii]] mounted significant resistance to colonial conquest through organized military campaigns led by various clan leaders. Colonial pacification took several years to complete.
 
 ## Administrative Structure
 
@@ -15,13 +15,13 @@ The British established Kisii District as a colonial administrative unit with he
 ## Economic Transformation
 
 Colonial economic policies transformed Kisii's economy, introducing:
-- [[Kisii Tea Industry.md|Tea]] cultivation and plantation development
+- [[Kisii Tea Industry|Tea]] cultivation and plantation development
 - Cattle ranching in suitable areas
 - Market-oriented agriculture
 - Cash crop production for colonial export
 - Commercial trading and merchant networks
 
-The introduction of [[Kisii Tea Industry.md|tea]] in the 1920s-1930s proved particularly transformative, establishing an agricultural sector that would define the region's modern economy.
+The introduction of [[Kisii Tea Industry|tea]] in the 1920s-1930s proved particularly transformative, establishing an agricultural sector that would define the region's modern economy.
 
 ## Social and Cultural Change
 
@@ -29,12 +29,12 @@ Colonialism brought:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Tea Industry.md|Tea Industry]]
-- [[Kisii Politics.md|Politics]]
-- [[../../Luo/Luo and the British.md|Luo Colonial Experience]]
-- [[../../Kisii/Gusii and the Mau Mau.md|Gusii Mau Mau Resistance]]
+- [[Kisii County|Kisii County]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Tea Industry|Tea Industry]]
+- [[Kisii Politics|Politics]]
+- [[../../Luo/Luo and the British|Luo Colonial Experience]]
+- [[../../Kisii/Gusii and the Mau Mau|Gusii Mau Mau Resistance]]
 
 ## Social and Cultural Change
 

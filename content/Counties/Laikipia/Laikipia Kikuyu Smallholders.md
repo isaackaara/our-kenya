@@ -30,7 +30,7 @@ Agricultural income alone is often insufficient. Off-farm employment provides su
 
 ## See Also
 
-[[../../Kikuyu/Kikuyu.md]]
+[[../../Kikuyu/Kikuyu]]
 
 ## Sources
 

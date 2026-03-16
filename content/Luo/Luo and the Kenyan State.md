@@ -1,4 +1,4 @@
-The Luo relationship with Kenya's central state is characterised by persistent opposition and marginalisation. The Luo were politically dominant in the independence movement (through [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] and [[Tom Mboya.md|Tom Mboya]]) but were marginalised from power after 1963. Except for brief periods (2002-2007, 2008-2013), the Luo have been in opposition to state power since independence. This political exclusion has had profound consequences for development and resource distribution in Luo areas.
+The Luo relationship with Kenya's central state is characterised by persistent opposition and marginalisation. The Luo were politically dominant in the independence movement (through [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] and [[Tom Mboya|Tom Mboya]]) but were marginalised from power after 1963. Except for brief periods (2002-2007, 2008-2013), the Luo have been in opposition to state power since independence. This political exclusion has had profound consequences for development and resource distribution in Luo areas.
 
 ## Independence and Early Hope
 
@@ -8,7 +8,7 @@ The Luo anticipated sharing state power after independence in 1961. Jaramogi Ogi
 
 From 1963 onward, the pattern solidified: The Luo were in opposition, while other ethnic groups (particularly Kikuyu under Kenyatta and under Moi, then other groups) held state power. This opposition was not voluntary but resulted from state action: Luo politicians were imprisoned, Luo movements were suppressed, and Luo areas received less development investment.
 
-The Luo did not accept this marginalisation passively. Luo political movements challenged state authority. Jaramogi built opposition parties and movements. Later, [[Raila Odinga.md|Raila Odinga]] became the principal Luo opposition figure, contesting elections and challenging state authority repeatedly (1997, 2002, 2007, 2017, 2022).
+The Luo did not accept this marginalisation passively. Luo political movements challenged state authority. Jaramogi built opposition parties and movements. Later, [[Raila Odinga|Raila Odinga]] became the principal Luo opposition figure, contesting elections and challenging state authority repeatedly (1997, 2002, 2007, 2017, 2022).
 
 ## Consequences of Political Marginalisation
 
@@ -45,4 +45,4 @@ The Luo relationship with the state is intertwined with larger questions about e
 **See also**: [[Jaramogi Oginga Odinga]], [[Raila Odinga]], [[Luo-Kikuyu Political Relationship]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

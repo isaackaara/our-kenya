@@ -30,7 +30,7 @@ Wildlife populations face pressures from habitat loss, human-wildlife conflict, 
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve.md|Maasai Mara National Reserve]], [[The Great Migration.md|The Great Migration]], [[Narok Crop-Wildlife Conflict.md|Narok Crop-Wildlife Conflict]]
+See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]], [[The Great Migration|The Great Migration]], [[Narok Crop-Wildlife Conflict|Narok Crop-Wildlife Conflict]]
 
 
 ## See Also

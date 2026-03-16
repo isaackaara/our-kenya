@@ -16,12 +16,12 @@ Tourism development creates complex coordination requirements between county gov
 
 ## See Also
 
-- [["Samburu County" County.md|"Samburu County" County]]
-- [["Samburu County" Politics.md|Politics]]
-- [["Samburu County" Agriculture.md|Agriculture]]
-- [["Samburu County" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["Samburu County" County|"Samburu County" County]]
+- [["Samburu County" Politics|Politics]]
+- [["Samburu County" Agriculture|Agriculture]]
+- [["Samburu County" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Constitution of Kenya 2010: Chapter 11 (Devolved Government). https://www.parliament.go.ke/

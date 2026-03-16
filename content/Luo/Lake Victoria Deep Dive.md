@@ -29,7 +29,7 @@ Lake Victoria also suffered from invasions of aquatic weeds, particularly water 
 Lake Victoria today faces multiple stressors. While some native cichlid species have recently rebounded in certain areas, perhaps due to selective predation by Nile perch on cichlid juveniles, the overall ecosystem remains fundamentally altered from its pre-1950s state. Climate change is affecting water levels and temperature regimes. Agricultural and industrial pollution continue to degrade water quality. Cage aquaculture operations are expanding, with further ecological consequences. The lake remains economically vital to millions of people across the three nations, but its ecological integrity is permanently compromised.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

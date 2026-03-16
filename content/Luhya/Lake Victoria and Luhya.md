@@ -79,7 +79,7 @@ Pollution, from both industrial and agricultural sources, has degraded water qua
 - [[../Counties/Kakamega/Kakamega County|Kakamega County]]
 - [[../Counties/Bungoma/Bungoma County|Bungoma County]]
 - [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 
 ## Sources
 

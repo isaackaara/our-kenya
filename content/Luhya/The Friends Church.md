@@ -22,5 +22,5 @@ The Quakers built mission stations, schools, and clinics that integrated Christi
 - [[../Counties/Kakamega/Kakamega County|Kakamega County]]
 - [[../Counties/Bungoma/Bungoma County|Bungoma County]]
 - [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 

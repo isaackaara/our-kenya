@@ -18,12 +18,12 @@ Higher education opportunity for Samburu students requires migration to urban ce
 
 ## See Also
 
-- [["Samburu County" County.md|"Samburu County" County]]
-- [["Samburu County" Politics.md|Politics]]
-- [["Samburu County" Agriculture.md|Agriculture]]
-- [["Samburu County" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["Samburu County" County|"Samburu County" County]]
+- [["Samburu County" Politics|Politics]]
+- [["Samburu County" Agriculture|Agriculture]]
+- [["Samburu County" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Education: Education Sector Plan 2022,2026. https://www.education.go.ke/

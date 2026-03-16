@@ -30,7 +30,7 @@ Female genital cutting remains practiced despite legal prohibition and advocacy 
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Maasai.md|Kajiado Maasai]], [[../../Maasai/Maasai.md|Maasai]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], [[../../Maasai/Maasai|Maasai]]
 
 
 ## See Also

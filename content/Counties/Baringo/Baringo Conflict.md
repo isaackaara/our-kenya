@@ -28,7 +28,7 @@ Development investments in water infrastructure, livestock productivity, and liv
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Tugen People.md|Tugen People]], [[Baringo Pastoralism.md|Baringo Pastoralism]]
+See also: [[Baringo County|Baringo County]], [[Tugen People|Tugen People]], [[Baringo Pastoralism|Baringo Pastoralism]]
 
 
 ## See Also

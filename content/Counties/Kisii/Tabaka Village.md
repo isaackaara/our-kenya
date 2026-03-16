@@ -1,9 +1,9 @@
-Tabaka village, located in southern [[Kisii County.md|Kisii County]], is internationally renowned as the center of Kenya's soapstone carving industry. The village and surrounding areas produce the majority of Kenya's soapstone sculptures and carvings that are exported worldwide.
+Tabaka village, located in southern [[Kisii County|Kisii County]], is internationally renowned as the center of Kenya's soapstone carving industry. The village and surrounding areas produce the majority of Kenya's soapstone sculptures and carvings that are exported worldwide.
 
 ## Location and Setting
 
 Tabaka is situated in:
-- Southern [[Kisii County.md|Kisii County]]
+- Southern [[Kisii County|Kisii County]]
 - Accessible from Kisii town
 - Surrounded by rural agricultural areas
 - Dense population supporting carving activity
@@ -33,7 +33,7 @@ The soapstone carving tradition features:
 - Male-dominated craft activity
 - Diverse artistic styles and designs
 
-Carving represents important cultural practice and economic activity reflecting [[Gusii People Kisii.md|Gusii]] heritage.
+Carving represents important cultural practice and economic activity reflecting [[Gusii People Kisii|Gusii]] heritage.
 
 ## Carved Products
 
@@ -109,18 +109,18 @@ Tourism provides additional income opportunities.
 Beyond economic importance, soapstone carving:
 - Preserves artistic and cultural heritage
 - Transmits traditional skills
-- Expresses [[Gusii People Kisii.md|Gusii]] identity and creativity
+- Expresses [[Gusii People Kisii|Gusii]] identity and creativity
 - Attracts international cultural attention
 - Contributes to Kenya's global cultural reputation
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Soapstone.md|Soapstone Industry]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Cultural Heritage.md|Cultural Heritage]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[../../Conservation/Tourism Revenue and Communities.md|Tourism Revenue]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Soapstone|Soapstone Industry]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Cultural Heritage|Cultural Heritage]]
+- [[Kisii Economy Overview|County Economy]]
+- [[../../Conservation/Tourism Revenue and Communities|Tourism Revenue]]
 
 ## Future Prospects
 

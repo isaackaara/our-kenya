@@ -30,7 +30,7 @@ Relocation assistance and compensation for displaced populations has been provid
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Lake Baringo.md|Lake Baringo]], [[Baringo Climate Change.md|Baringo Climate Change]]
+See also: [[Baringo County|Baringo County]], [[Lake Baringo|Lake Baringo]], [[Baringo Climate Change|Baringo Climate Change]]
 
 
 ## See Also

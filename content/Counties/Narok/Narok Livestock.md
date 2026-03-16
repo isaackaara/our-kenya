@@ -30,7 +30,7 @@ Recurring droughts and climate variability create livestock mortality and househ
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Maasai in Narok.md|Maasai in Narok]], [[Narok Climate Change.md|Narok Climate Change]]
+See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Climate Change|Narok Climate Change]]
 
 
 ## See Also

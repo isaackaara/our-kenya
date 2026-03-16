@@ -25,12 +25,12 @@ As the administrative seat of Kisii County, the town embodies the cultural cente
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Politics.md|Politics]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Politics|Politics]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics (2019). "Kenya Population and Housing Census 2019: Town Profile". https://www.knbs.or.ke

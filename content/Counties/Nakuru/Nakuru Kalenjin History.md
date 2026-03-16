@@ -16,5 +16,5 @@ After independence, [[../../Kalenjin/Kalenjin|Kalenjin]] political dominance und
 ## Sources
 
 1. https://en.wikipedia.org/wiki/[[../../Kalenjin/Kalenjin|Kalenjin]]_people
-2. [[../../Kalenjin/Kalenjin.md]]
+2. [[../../Kalenjin/Kalenjin]]
 3. https://www.britannica.com/topic/Kalenjin

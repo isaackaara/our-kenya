@@ -1,4 +1,4 @@
-Education is highly valued in [[Kisii County.md|Kisii County]], with extensive networks of primary schools, secondary schools, and higher education institutions. The county has established itself as an educational center in western Kenya, known for academic performance and educational innovations.
+Education is highly valued in [[Kisii County|Kisii County]], with extensive networks of primary schools, secondary schools, and higher education institutions. The county has established itself as an educational center in western Kenya, known for academic performance and educational innovations.
 
 ## Educational Institutions
 
@@ -16,7 +16,7 @@ Kisii University, a major public university established as a constituent college
 - Business and entrepreneurship
 - Engineering and technology
 - Social sciences and humanities
-- [[Kisii Agriculture.md|Agriculture]] and allied sciences
+- [[Kisii Agriculture|Agriculture]] and allied sciences
 
 ## Higher Education Access
 
@@ -28,12 +28,12 @@ Beyond Kisii University, students access higher education through:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Youth.md|Youth and Education]]
-- [[Kisii Women.md|Women Education]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[../../Luo/Luo and Education.md|Luo Educational Patterns]]
-- [[../../Kalenjin/Kalenjin and East African Athletics.md|Athletics Focus]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Youth|Youth and Education]]
+- [[Kisii Women|Women Education]]
+- [[Kisii Economy Overview|County Economy]]
+- [[../../Luo/Luo and Education|Luo Educational Patterns]]
+- [[../../Kalenjin/Kalenjin and East African Athletics|Athletics Focus]]
 
 ## Educational Performance
 

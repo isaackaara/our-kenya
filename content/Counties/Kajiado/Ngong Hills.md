@@ -26,7 +26,7 @@ Ecological degradation through deforestation and overgrazing represents an ongoi
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Ngong Town.md|Ngong Town]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]]
+See also: [[Kajiado County|Kajiado County]], [[Ngong Town|Ngong Town]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]]
 
 
 ## See Also

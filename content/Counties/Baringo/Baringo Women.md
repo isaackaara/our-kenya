@@ -28,7 +28,7 @@ Gender-based violence including domestic violence and sexual assault remain sign
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Tugen People.md|Tugen People]], [[Baringo Cultural Heritage.md|Baringo Cultural Heritage]]
+See also: [[Baringo County|Baringo County]], [[Tugen People|Tugen People]], [[Baringo Cultural Heritage|Baringo Cultural Heritage]]
 
 
 ## See Also

@@ -30,7 +30,7 @@ Cultural practitioners have represented Tugen traditions through performances an
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Daniel arap Moi and Baringo.md|Daniel arap Moi and Baringo]], [[Baringo Politics.md|Baringo Politics]]
+See also: [[Baringo County|Baringo County]], [[Daniel arap Moi and Baringo|Daniel arap Moi and Baringo]], [[Baringo Politics|Baringo Politics]]
 
 
 ## See Also

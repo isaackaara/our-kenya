@@ -24,7 +24,7 @@ Cultural practitioners and artists from Kajiado have represented Maasai culture 
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Politics.md|Kajiado Politics]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Politics|Kajiado Politics]]
 
 
 ## See Also

@@ -8,7 +8,7 @@ The five largest and most politically prominent are:
 
 1. **Seme**: One of the wealthiest and most influential clans, with significant land holdings and political representation.
 
-2. **Gem**: Known for its intellectual tradition and political activism. Many prominent Luo intellectuals and politicians come from Gem, including [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] and Atieno Odhiambo.
+2. **Gem**: Known for its intellectual tradition and political activism. Many prominent Luo intellectuals and politicians come from Gem, including [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]] and Atieno Odhiambo.
 
 3. **Alego**: A substantial clan with strong political voice and historical significance.
 
@@ -47,7 +47,7 @@ Political mobilisation often occurs along clan lines. When voting, clan ties inf
 **See also**: [[Luo Social Structure]], [[Luo Marriage and Family]], [[Luo Governance Pre-Colonial]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

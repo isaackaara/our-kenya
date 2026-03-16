@@ -26,7 +26,7 @@ Concerns exist regarding tourism's long-term environmental impacts, community cu
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve.md|Maasai Mara National Reserve]], [[Narok Community Conservancies.md|Narok Community Conservancies]], [[Narok Luxury Camps.md|Narok Luxury Camps]]
+See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]], [[Narok Community Conservancies|Narok Community Conservancies]], [[Narok Luxury Camps|Narok Luxury Camps]]
 
 
 ## See Also

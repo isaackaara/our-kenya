@@ -30,7 +30,7 @@ National curriculum applicability to pastoral contexts remains limited. Curricul
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Youth.md|Kajiado Youth]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Youth|Kajiado Youth]]
 
 
 ## See Also

@@ -5,54 +5,54 @@ Kisii County is located in the western Kenya highlands, making it one of the nat
 The county is characterized by its:
 - High population density (approximately 973 people per square kilometer)
 - Vibrant tea industry as the primary cash crop
-- Artisanal soapstone carving tradition centered in [[Tabaka Village.md|Tabaka]] village
+- Artisanal soapstone carving tradition centered in [[Tabaka Village|Tabaka]] village
 - Strategic location in the western highlands linking to larger markets
 - Kisii town, also known as Gusii City, serving as the county headquarters and commercial hub
 
-Kisii County is one of Kenya's most economically active regions in western Kenya, with diverse agricultural production alongside small-scale trading and commerce. The [[Gusii People Kisii.md|Gusii]] people are the dominant ethnic group, having shaped the region's cultural, economic, and social identity for centuries.
+Kisii County is one of Kenya's most economically active regions in western Kenya, with diverse agricultural production alongside small-scale trading and commerce. The [[Gusii People Kisii|Gusii]] people are the dominant ethnic group, having shaped the region's cultural, economic, and social identity for centuries.
 
 ## See Also
 
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Tea Industry.md|Tea Industry]]
-- [[Kisii Soapstone.md|Soapstone Carving]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[../../Luo/Luo.md|Luo People]] (neighboring ethnic group)
-- [[../../Kisii/Kisii.md|Kisii Ethnic Vertical]]
-- [[Kisii Politics.md|County Politics]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Tea Industry|Tea Industry]]
+- [[Kisii Soapstone|Soapstone Carving]]
+- [[Kisii Agriculture|Agriculture]]
+- [[../../Luo/Luo|Luo People]] (neighboring ethnic group)
+- [[../../Kisii/Kisii|Kisii Ethnic Vertical]]
+- [[Kisii Politics|County Politics]]
 
 ## 30 Key Notes in This Vertical
 
-1. [[Kisii Town.md]]
-2. [[Gusii People Kisii.md]]
-3. [[Kisii Tea Industry.md]]
-4. [[Kisii Soapstone.md]]
-5. [[Kisii Agriculture.md]]
-6. [[Kisii Population Density.md]]
-7. [[Kisii Politics.md]]
-8. [[Kisii Colonial History.md]]
-9. [[Kisii Infrastructure.md]]
-10. [[Kisii Education.md]]
-11. [[Kisii Health.md]]
-12. [[Kisii Land Pressure.md]]
-13. [[Kisii Youth.md]]
-14. [[Kisii Women.md]]
-15. [[Kisii Cultural Heritage.md]]
-16. [[Kisii and Devolution.md]]
-17. [[Kisii Climate.md]]
-18. [[Kisii Dairy.md]]
-19. [[Kisii Pyrethrum.md]]
-20. [[Kisii Horticulture.md]]
-21. [[Kisii Notable People.md]]
-22. [[Kisii Music.md]]
-23. [[Kisii Food Culture.md]]
-24. [[Kisii Diaspora.md]]
-25. [[Kisii NGOs.md]]
-26. [[Kisii Climate Change.md]]
-27. [[Kisii Real Estate.md]]
-28. [[Tabaka Village.md]]
-29. [[Kisii Timeline.md]]
-30. [[Kisii Economy Overview.md]]
+1. [[Kisii Town]]
+2. [[Gusii People Kisii]]
+3. [[Kisii Tea Industry]]
+4. [[Kisii Soapstone]]
+5. [[Kisii Agriculture]]
+6. [[Kisii Population Density]]
+7. [[Kisii Politics]]
+8. [[Kisii Colonial History]]
+9. [[Kisii Infrastructure]]
+10. [[Kisii Education]]
+11. [[Kisii Health]]
+12. [[Kisii Land Pressure]]
+13. [[Kisii Youth]]
+14. [[Kisii Women]]
+15. [[Kisii Cultural Heritage]]
+16. [[Kisii and Devolution]]
+17. [[Kisii Climate]]
+18. [[Kisii Dairy]]
+19. [[Kisii Pyrethrum]]
+20. [[Kisii Horticulture]]
+21. [[Kisii Notable People]]
+22. [[Kisii Music]]
+23. [[Kisii Food Culture]]
+24. [[Kisii Diaspora]]
+25. [[Kisii NGOs]]
+26. [[Kisii Climate Change]]
+27. [[Kisii Real Estate]]
+28. [[Tabaka Village]]
+29. [[Kisii Timeline]]
+30. [[Kisii Economy Overview]]
 
 ## Sources
 

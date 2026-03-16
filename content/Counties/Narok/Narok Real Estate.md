@@ -30,7 +30,7 @@ Land title insecurity, boundary disputes, and historical sale controversies crea
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Land Issues.md|Narok Land Issues]], [[Narok Town.md|Narok Town]]
+See also: [[Narok County|Narok County]], [[Narok Land Issues|Narok Land Issues]], [[Narok Town|Narok Town]]
 
 
 ## See Also

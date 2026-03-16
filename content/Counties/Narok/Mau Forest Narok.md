@@ -24,7 +24,7 @@ The government declared portions of the Mau Forest a water tower in 2018, emphas
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[The Great Migration.md|The Great Migration]], [[Narok Climate Change.md|Narok Climate Change]]
+See also: [[Narok County|Narok County]], [[The Great Migration|The Great Migration]], [[Narok Climate Change|Narok Climate Change]]
 
 
 ## See Also

@@ -24,7 +24,7 @@ Secondary school graduates pursue tertiary education at national universities an
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Youth.md|Narok Youth]], [[Narok Devolution.md|Narok Devolution]]
+See also: [[Narok County|Narok County]], [[Narok Youth|Narok Youth]], [[Narok Devolution|Narok Devolution]]
 
 
 ## See Also

@@ -14,7 +14,7 @@ Yet digital culture is often delinked from traditional culture. Online Luo commu
 
 ## The Political Legacy
 
-Luo youth inherit a political legacy defined by [[Raila Odinga.md|Raila Odinga]] and the opposition-to-the-state pattern. Many young Luo assume that Luo political identity means supporting Raila and the opposition. Yet some question whether perpetual opposition serves Luo interests.
+Luo youth inherit a political legacy defined by [[Raila Odinga|Raila Odinga]] and the opposition-to-the-state pattern. Many young Luo assume that Luo political identity means supporting Raila and the opposition. Yet some question whether perpetual opposition serves Luo interests.
 
 The losses in the 2017 and 2022 presidential elections have prompted some soul-searching among Luo youth about whether Luo political strategy should change. Some argue for pragmatic engagement with whoever holds power. Others remain committed to opposition until their candidate wins.
 
@@ -35,4 +35,4 @@ The question of whether economic change will create political shifts among Luo y
 **See also**: [[Luo and the Kenyan State]], [[Raila Odinga]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

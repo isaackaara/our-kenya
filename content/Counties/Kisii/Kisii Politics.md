@@ -1,13 +1,13 @@
-[[Kisii County.md|Kisii County]] has a complex political history shaped by ethnic identity, class divisions, and competition for resources. Political dynamics significantly influence county governance and the distribution of development benefits.
+[[Kisii County|Kisii County]] has a complex political history shaped by ethnic identity, class divisions, and competition for resources. Political dynamics significantly influence county governance and the distribution of development benefits.
 
 ## Post-Independence Politics
 
-After Kenya's independence in 1964, Kisii emerged as a significant political force within Kenya's national politics. The region produced leaders who held ministerial positions and influenced national policy. The [[Gusii People Kisii.md|Gusii]] community became known for strong political participation and organized advocacy.
+After Kenya's independence in 1964, Kisii emerged as a significant political force within Kenya's national politics. The region produced leaders who held ministerial positions and influenced national policy. The [[Gusii People Kisii|Gusii]] community became known for strong political participation and organized advocacy.
 
 ## Ethnic Politics
 
 Political competition in Kisii is substantially shaped by:
-- [[Gusii People Kisii.md|Gusii]] ethnic identity and group interests
+- [[Gusii People Kisii|Gusii]] ethnic identity and group interests
 - Clan-based alliances and divisions
 - Competition between political leaders for resources and patronage
 - Campaigns emphasizing ethnic representation in national government
@@ -32,12 +32,12 @@ County government has expanded services including education, healthcare, and inf
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii and Devolution.md|Devolution]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Women.md|Women in Politics]]
-- [[Kisii Youth.md|Youth Activism]]
-- [[../../Luo/Luo Political History.md|Luo Political Comparison]]
+- [[Kisii County|Kisii County]]
+- [[Kisii and Devolution|Devolution]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Women|Women in Politics]]
+- [[Kisii Youth|Youth Activism]]
+- [[../../Luo/Luo Political History|Luo Political Comparison]]
 
 ## Sources
 

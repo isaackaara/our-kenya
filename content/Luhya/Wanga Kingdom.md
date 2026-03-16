@@ -22,5 +22,5 @@ Nabongo Mumia's reign represents the tensions of the colonial period in western 
 - [[../Counties/Kakamega/Kakamega County|Kakamega County]]
 - [[../Counties/Bungoma/Bungoma County|Bungoma County]]
 - [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 

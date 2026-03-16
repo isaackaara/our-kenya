@@ -70,5 +70,5 @@ Nevertheless, agriculture remains the primary economic activity for the majority
 - [[../Counties/Kakamega/Kakamega County|Kakamega County]]
 - [[../Counties/Bungoma/Bungoma County|Bungoma County]]
 - [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 

@@ -30,7 +30,7 @@ Land governance and conservancy management remain contested policy areas requiri
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Politics.md|Kajiado Politics]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Politics|Kajiado Politics]]
 
 
 ## See Also

@@ -69,5 +69,5 @@ Some educated Luhya have expressed interest in documenting and preserving oral t
 - [[../Counties/Kakamega/Kakamega County|Kakamega County]]
 - [[../Counties/Bungoma/Bungoma County|Bungoma County]]
 - [[../Counties/Vihiga/Vihiga County|Vihiga County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 

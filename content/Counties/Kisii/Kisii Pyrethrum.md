@@ -1,4 +1,4 @@
-Pyrethrum farming has historically been important in [[Kisii County.md|Kisii County's]] agricultural economy, though production has declined from its peak in previous decades. Pyrethrum is a flowering plant whose dried flowers contain natural insecticide compounds.
+Pyrethrum farming has historically been important in [[Kisii County|Kisii County's]] agricultural economy, though production has declined from its peak in previous decades. Pyrethrum is a flowering plant whose dried flowers contain natural insecticide compounds.
 
 ## Historical Importance
 
@@ -6,7 +6,7 @@ Pyrethrum farming flourished in Kisii from the colonial period through the late 
 - Introduction during colonial administration
 - Significant acreage dedicated to pyrethrum cultivation
 - Important source of export earnings for Kenya
-- Major crop in [[Kisii County.md|Kisii's]] agricultural economy
+- Major crop in [[Kisii County|Kisii's]] agricultural economy
 - Widespread farmer participation in production
 
 Pyrethrum represented one of Kenya's significant agricultural exports and provided reliable income to thousands of farming families.
@@ -24,12 +24,12 @@ The crop required significant labor, particularly during harvest periods, making
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Tea Industry.md|Tea Industry]]
-- [[Kisii Colonial History.md|Colonial History]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[../../Conservation/Conservation Economics Kenya.md|Conservation Economics]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Tea Industry|Tea Industry]]
+- [[Kisii Colonial History|Colonial History]]
+- [[Kisii Economy Overview|County Economy]]
+- [[../../Conservation/Conservation Economics Kenya|Conservation Economics]]
 
 ## Decline in Production
 

@@ -14,7 +14,7 @@ This colonial patronage reflected a broader colonial administrative strategy of 
 
 ## Leadership and Organizational Structure
 
-The Luo Union was led by prominent Luo leaders, who held titles such as "Ker" (chief), a traditional Luo title that was repurposed for organizational leadership. [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]], one of Kenya's most important nationalist and political figures, was associated with the Luo Union and used his position within it as a platform for broader political mobilization.
+The Luo Union was led by prominent Luo leaders, who held titles such as "Ker" (chief), a traditional Luo title that was repurposed for organizational leadership. [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]], one of Kenya's most important nationalist and political figures, was associated with the Luo Union and used his position within it as a platform for broader political mobilization.
 
 Archdeacon W.E. Owen, while primarily associated with the Kavirondo Taxpayers Welfare Association, also engaged with broader Luo community organization. The two associations (the Luo Union and the Kavirondo Taxpayers Welfare Association) sometimes overlapped in membership and leadership, though they had distinct organizational focuses.
 
@@ -52,4 +52,4 @@ The Union's experience also illustrates the complexities of ethnic organization 
 - [[../Cross-Ethnic/Ethnic Associations and Civil Society]] (hypothetical)
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

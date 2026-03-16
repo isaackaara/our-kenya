@@ -57,7 +57,7 @@ The Luo community has been heavily studied by HIV researchers, both internationa
 The question of how Luo society processes the memory of the HIV epidemic, its impacts, and the response remains partially unresolved as of 2026. Unlike the 1969 [[../Counties/Kisumu/Kisumu County|Kisumu County]] massacre, which was a discrete violent event, the HIV epidemic was a slow, prolonged crisis that affected millions. Public memorialization has been limited. Oral history projects documenting survivors' and healthcare workers' experiences exist but remain limited. The challenge of integrating the HIV experience into Luo historical consciousness and collective memory continues.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [HIV/AIDS in Luo Community - Luo Content](~/Projects/kenya-history/content/Luo/HIV_AIDS in Luo Community.md) - Existing comprehensive note on HIV prevalence, community response, and ART programs in Nyanza and Siaya

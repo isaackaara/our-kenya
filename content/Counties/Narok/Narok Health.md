@@ -24,7 +24,7 @@ Community health worker programs extend health services into pastoral areas wher
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Climate Change.md|Narok Climate Change]], [[Narok Devolution.md|Narok Devolution]]
+See also: [[Narok County|Narok County]], [[Narok Climate Change|Narok Climate Change]], [[Narok Devolution|Narok Devolution]]
 
 
 ## See Also

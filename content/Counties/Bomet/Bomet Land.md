@@ -60,12 +60,12 @@ Land governance includes:
 
 ## See Also
 
-- [[Bomet County.md|Bomet County]]
-- [[Bomet Politics.md|Politics]]
-- [[Bomet Agriculture.md|Agriculture]]
-- [[Bomet Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Bomet County|Bomet County]]
+- [[Bomet Politics|Politics]]
+- [[Bomet Agriculture|Agriculture]]
+- [[Bomet Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Lands and Physical Planning (2023). "County Land Report: Bomet". https://www.lands.go.ke

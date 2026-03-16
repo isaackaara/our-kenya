@@ -42,7 +42,7 @@ Kisumu residents express strong cultural pride in their Luo heritage, viewing Ki
 
 ## See also
 
-For broader Luo context, see [[../../Luo/Luo.md]].
+For broader Luo context, see [[../../Luo/Luo]].
 
 
 ## See Also

@@ -28,7 +28,7 @@ County government land administration remains challenged by limited capacity, re
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Maasai in Narok.md|Maasai in Narok]], [[Narok Community Conservancies.md|Narok Community Conservancies]]
+See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Community Conservancies|Narok Community Conservancies]]
 
 
 ## See Also

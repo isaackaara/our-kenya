@@ -1,4 +1,4 @@
-Climate change impacts are increasingly affecting [[Kisii County.md|Kisii County's]] agricultural economy, water resources, and livelihoods. Rising temperatures, changing rainfall patterns, and increased climate variability pose significant challenges to farming communities and development efforts.
+Climate change impacts are increasingly affecting [[Kisii County|Kisii County's]] agricultural economy, water resources, and livelihoods. Rising temperatures, changing rainfall patterns, and increased climate variability pose significant challenges to farming communities and development efforts.
 
 ## Temperature Changes
 
@@ -117,12 +117,12 @@ Climate projections suggest:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Climate.md|Climate Overview]]
-- [[Kisii Dairy.md|Dairy Systems]]
-- [[Kisii Water Resources.md|Water Resources]]
-- [[../../Conservation/Climate Change and Kenyan Wildlife.md|Climate Change Wildlife Impacts]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Climate|Climate Overview]]
+- [[Kisii Dairy|Dairy Systems]]
+- [[Kisii Water Resources|Water Resources]]
+- [[../../Conservation/Climate Change and Kenyan Wildlife|Climate Change Wildlife Impacts]]
 
 ## Sources
 

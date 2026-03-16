@@ -1,4 +1,4 @@
-Healthcare in [[Kisii County.md|Kisii County]] is delivered through a network of public and private facilities, with Kisii Teaching and Referral Hospital serving as the county's main health facility. Health outcomes reflect the county's economic development and access to healthcare services.
+Healthcare in [[Kisii County|Kisii County]] is delivered through a network of public and private facilities, with Kisii Teaching and Referral Hospital serving as the county's main health facility. Health outcomes reflect the county's economic development and access to healthcare services.
 
 ## Kisii Teaching and Referral Hospital
 
@@ -23,12 +23,12 @@ The county health system includes:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Education.md|Education]]
-- [[Kisii Infrastructure.md|Infrastructure]]
-- [[Kisii Women.md|Women's Health]]
-- [[Kisii Population Density.md|Population]]
-- [[../../Maasai/Maasai Food Insecurity and Drought.md|Food Security Issues]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Education|Education]]
+- [[Kisii Infrastructure|Infrastructure]]
+- [[Kisii Women|Women's Health]]
+- [[Kisii Population Density|Population]]
+- [[../../Maasai/Maasai Food Insecurity and Drought|Food Security Issues]]
 
 ## Key Health Challenges
 

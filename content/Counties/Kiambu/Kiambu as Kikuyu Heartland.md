@@ -16,5 +16,5 @@ Kiambu's [[../../Kikuyu/Kikuyu|Kikuyu]] identity shapes economic patterns, socia
 ## Sources
 
 1. https://en.wikipedia.org/wiki/[[../../Kikuyu/Kikuyu|Kikuyu]]_people
-2. [[../../Kikuyu/Kikuyu.md]]
+2. [[../../Kikuyu/Kikuyu]]
 3. https://www.britannica.com/topic/[[../../Kikuyu/Kikuyu|Kikuyu]]-people

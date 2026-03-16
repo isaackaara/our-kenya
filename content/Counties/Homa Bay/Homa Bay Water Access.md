@@ -30,12 +30,12 @@ Water is managed by water service providers licensed by the national regulator. 
 
 ## See Also
 
-- [[Homa Bay County.md|Homa Bay County]]
-- [[Homa Bay Politics.md|Politics]]
-- [[Homa Bay Agriculture.md|Agriculture]]
-- [[Homa Bay Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Homa Bay County|Homa Bay County]]
+- [[Homa Bay Politics|Politics]]
+- [[Homa Bay Agriculture|Agriculture]]
+- [[Homa Bay Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Water. (2020). Water Supply, Homa Bay. https://www.water.go.ke/

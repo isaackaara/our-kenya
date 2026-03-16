@@ -32,7 +32,7 @@ Land around Lake Baringo classified for conservation has different value charact
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Kabarnet Town.md|Kabarnet Town]], [[Lake Baringo.md|Lake Baringo]]
+See also: [[Baringo County|Baringo County]], [[Kabarnet Town|Kabarnet Town]], [[Lake Baringo|Lake Baringo]]
 
 
 ## See Also

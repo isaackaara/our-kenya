@@ -1,8 +1,8 @@
-This timeline traces major events in [[Kisii County.md|Kisii County's]] history from pre-colonial times through 2026, documenting the development of the region's economy, governance, and society.
+This timeline traces major events in [[Kisii County|Kisii County's]] history from pre-colonial times through 2026, documenting the development of the region's economy, governance, and society.
 
 ## Pre-Colonial Era (Before 1890s)
 
-- [[Gusii People Kisii.md|Gusii]] people settle in the fertile western highlands of present-day Kenya
+- [[Gusii People Kisii|Gusii]] people settle in the fertile western highlands of present-day Kenya
 - Development of traditional social structures and governance systems
 - Agricultural production supporting growing populations
 - Trade networks with neighboring regions
@@ -12,19 +12,19 @@ This timeline traces major events in [[Kisii County.md|Kisii County's]] history 
 
 - 1890s: British colonial administration begins in the region
 - 1900s: Colonial pacification campaigns and settlement
-- 1920s-1930s: Introduction and expansion of [[Kisii Tea Industry.md|tea]] cultivation
-- 1920s: [[Kisii Soapstone.md|Soapstone carving]] tradition begins development
+- 1920s-1930s: Introduction and expansion of [[Kisii Tea Industry|tea]] cultivation
+- 1920s: [[Kisii Soapstone|Soapstone carving]] tradition begins development
 - 1940s-1950s: Expansion of colonial administration and services
 - 1950s-1960s: Nationalist movement and independence advocacy
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Colonial History.md|Colonial History]]
-- [[Kisii Politics.md|Politics]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Tea Industry.md|Tea Industry]]
-- [[../../Luo/Nyanza Province History.md|Regional History]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Colonial History|Colonial History]]
+- [[Kisii Politics|Politics]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Tea Industry|Tea Industry]]
+- [[../../Luo/Nyanza Province History|Regional History]]
 - 1963: Kenya independence, Kisii District established as administrative unit
 
 ## Early Post-Independence (1963-1980s)

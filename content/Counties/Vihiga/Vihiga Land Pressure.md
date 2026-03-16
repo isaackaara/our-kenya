@@ -31,7 +31,7 @@ Land titling programmes attempt to clarify tenure and reduce disputes. Gender-se
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

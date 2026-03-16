@@ -30,7 +30,7 @@ The tension between Christian individual salvation theology and Luo communal soc
 
 ## Luo Embrace of Education and Intellectual Leadership
 
-While some Luo responded skeptically to Christian teaching, many embraced Christian education and intellectual training. The Luo educational engagement with Christianity created a cadre of educated Luo intellectuals, clergy, and professionals. Luo leaders like [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] received Christian education (Anglican CMS education) while also maintaining connections to Luo political movements.
+While some Luo responded skeptically to Christian teaching, many embraced Christian education and intellectual training. The Luo educational engagement with Christianity created a cadre of educated Luo intellectuals, clergy, and professionals. Luo leaders like [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] received Christian education (Anglican CMS education) while also maintaining connections to Luo political movements.
 
 The Luo reputation for intellectual engagement and educational achievement (despite broader colonial constraints on African education) reflects this historical investment in Christian missionary education and subsequent secular education.
 
@@ -53,4 +53,4 @@ Older Luo are more likely to maintain traditional practices within a Christian f
 Women's roles in church communities have evolved, with some denominations ordaining women to roles
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

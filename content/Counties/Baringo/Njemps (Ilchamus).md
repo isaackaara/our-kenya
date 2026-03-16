@@ -28,7 +28,7 @@ The small population size creates vulnerability to cultural erosion and economic
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Lake Baringo.md|Lake Baringo]], [[Tugen People.md|Tugen People]]
+See also: [[Baringo County|Baringo County]], [[Lake Baringo|Lake Baringo]], [[Tugen People|Tugen People]]
 
 
 ## See Also

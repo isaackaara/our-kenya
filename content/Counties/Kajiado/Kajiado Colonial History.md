@@ -30,7 +30,7 @@ Post-independence governments continued colonial administrative structures and l
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Maasai.md|Kajiado Maasai]], [[Kajiado Land Sales.md|Kajiado Land Sales]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], [[Kajiado Land Sales|Kajiado Land Sales]]
 
 
 ## See Also

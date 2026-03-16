@@ -18,12 +18,12 @@ All Luhya sub-groups in Kakamega have experienced significant social change due 
 
 ## Cross-Luhya Links
 
-[[../../Luhya/Luhya.md]]
+[[../../Luhya/Luhya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

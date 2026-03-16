@@ -38,7 +38,7 @@ Educational initiatives in Luo areas work to teach nyatiti to young people, fear
 
 ---
 
-**See also**: [[Luo Music and Culture]], [[Ohangla Music]], [[[[Benga Music Origins.md|benga music]] Origins]]
+**See also**: [[Luo Music and Culture]], [[Ohangla Music]], [[[[Benga Music Origins|benga music]] Origins]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

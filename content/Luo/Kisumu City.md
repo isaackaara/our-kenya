@@ -32,7 +32,7 @@ Today, Kisumu functions as:
 
 A commercial hub for Nyanza region, handling agricultural trade, fish exports, and regional commerce. Markets like Kisumu Central Market and Nyalenda Market continue traditional wholesale functions.
 
-An educational center with the [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] University of Science and Technology (JOOUST), established in the late 1980s, providing higher education access for the region.
+An educational center with the [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] University of Science and Technology (JOOUST), established in the late 1980s, providing higher education access for the region.
 
 A cultural capital where Luo identity finds institutional expression. The Kisumu Museum (relocated/reopened in recent decades) preserves Luo cultural artifacts. Luo music, dance, and arts flourish in the city.
 
@@ -51,7 +51,7 @@ Kisumu faces ongoing challenges (high unemployment, infrastructure gaps, health 
 Population projections suggest continued growth, potentially reaching 1 million by 2035 if rural-urban migration maintains current trajectories.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

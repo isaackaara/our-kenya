@@ -65,12 +65,12 @@ Medical facilities include:
 
 ## See Also
 
-- [[Bomet County.md|Bomet County]]
-- [[Bomet Politics.md|Politics]]
-- [[Bomet Agriculture.md|Agriculture]]
-- [[Bomet Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Bomet County|Bomet County]]
+- [[Bomet Politics|Politics]]
+- [[Bomet Agriculture|Agriculture]]
+- [[Bomet Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Bomet County Government (2023). "Infrastructure Development Plan 2023-2028". https://www.bometcounty.go.ke

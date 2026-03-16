@@ -28,7 +28,7 @@ Pastoral communities increasingly lack sufficient land to maintain traditional p
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Land Sales.md|Kajiado Land Sales]], [[Kajiado Maasai.md|Kajiado Maasai]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Land Sales|Kajiado Land Sales]], [[Kajiado Maasai|Kajiado Maasai]]
 
 
 ## See Also

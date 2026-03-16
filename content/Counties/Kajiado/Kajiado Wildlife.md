@@ -30,7 +30,7 @@ Wildlife tourism generates significant revenue through park fees, lodge operatio
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Amboseli National Park.md|Amboseli National Park]], [[Kajiado Human-Wildlife Conflict.md|Kajiado Human-Wildlife Conflict]]
+See also: [[Kajiado County|Kajiado County]], [[Amboseli National Park|Amboseli National Park]], [[Kajiado Human-Wildlife Conflict|Kajiado Human-Wildlife Conflict]]
 
 
 ## See Also

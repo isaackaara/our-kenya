@@ -30,7 +30,7 @@ Roads, electricity, water supply, and telecommunications infrastructure have fol
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kitengela.md|Kitengela]], [[Kajiado Real Estate.md|Kajiado Real Estate]], [[Kajiado Land Sales.md|Kajiado Land Sales]]
+See also: [[Kajiado County|Kajiado County]], [[Kitengela|Kitengela]], [[Kajiado Real Estate|Kajiado Real Estate]], [[Kajiado Land Sales|Kajiado Land Sales]]
 
 
 ## See Also

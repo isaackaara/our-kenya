@@ -28,7 +28,7 @@ Political competition increasingly reflects divergent development priorities inc
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Daniel arap Moi and Baringo.md|Daniel arap Moi and Baringo]], [[Baringo Devolution.md|Baringo Devolution]]
+See also: [[Baringo County|Baringo County]], [[Daniel arap Moi and Baringo|Daniel arap Moi and Baringo]], [[Baringo Devolution|Baringo Devolution]]
 
 
 ## See Also

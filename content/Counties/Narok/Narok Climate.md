@@ -24,7 +24,7 @@ Severe droughts in 2000, 2011, and 2016-2017 caused significant livestock losses
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Climate Change.md|Narok Climate Change]], [[Narok Livestock.md|Narok Livestock]]
+See also: [[Narok County|Narok County]], [[Narok Climate Change|Narok Climate Change]], [[Narok Livestock|Narok Livestock]]
 
 
 ## See Also

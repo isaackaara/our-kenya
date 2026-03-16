@@ -79,7 +79,7 @@ Conservancy long-term sustainability requires: (1) wildlife population stability
 - [[../Counties/Narok/Narok County|Narok County]]
 - [[../Counties/Kajiado/Kajiado County|Kajiado County]]
 - [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 
 ## Sources
 

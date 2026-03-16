@@ -1,4 +1,4 @@
-The Luo music industry extends far beyond the traditional instruments of nyatiti and ohangla to encompass [[[[Benga Music Origins.md|benga music]] Origins.md|Benga Music Origins]] (the most commercially successful Luo/Kenyan popular music genre), contemporary artists working in multiple genres, and a vibrant ecosystem of musicians, bands, producers, and recordings. The Luo musical tradition has shaped popular music throughout East Africa and continues to evolve.
+The Luo music industry extends far beyond the traditional instruments of nyatiti and ohangla to encompass [[Benga Music Origins|Benga Music Origins]] (the most commercially successful Luo/Kenyan popular music genre), contemporary artists working in multiple genres, and a vibrant ecosystem of musicians, bands, producers, and recordings. The Luo musical tradition has shaped popular music throughout East Africa and continues to evolve.
 
 ## Benga Music: Origins and Development
 
@@ -59,7 +59,7 @@ The Luo music industry represents far more than commercial entertainment. Benga 
 The music industry is also a source of pride and cultural identity for the Luo. The international recognition of Luo musicians, particularly D.O. Misiani and Shirati Jazz, represents Luo cultural contributions to global culture and history. For diaspora Luo communities, Luo music serves as a connection to home and cultural identity.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

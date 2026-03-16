@@ -32,7 +32,7 @@ Lake Baringo's water level has undergone dramatic changes, particularly rising s
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Lake Baringo Birds.md|Lake Baringo Birds]], [[Baringo Tourism.md|Baringo Tourism]]
+See also: [[Baringo County|Baringo County]], [[Lake Baringo Birds|Lake Baringo Birds]], [[Baringo Tourism|Baringo Tourism]]
 
 
 ## See Also

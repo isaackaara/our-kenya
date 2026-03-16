@@ -1,8 +1,8 @@
-Kisii soapstone carving represents one of Kenya's most distinctive artisanal crafts, centered in [[Tabaka Village.md|Tabaka]] village in southern [[Kisii County.md|Kisii County]]. The industry has become a significant economic activity and cultural export, generating income for thousands of craftspeople and their families.
+Kisii soapstone carving represents one of Kenya's most distinctive artisanal crafts, centered in [[Tabaka Village|Tabaka]] village in southern [[Kisii County|Kisii County]]. The industry has become a significant economic activity and cultural export, generating income for thousands of craftspeople and their families.
 
 ## The Stone
 
-Kisii stone (soapstone) is a metamorphic rock characterized by its softness, ease of carving, and aesthetic qualities. The stone is quarried from deposits in and around [[Tabaka Village.md|Tabaka]] village, where geological conditions have created one of Kenya's most important soapstone reserves.
+Kisii stone (soapstone) is a metamorphic rock characterized by its softness, ease of carving, and aesthetic qualities. The stone is quarried from deposits in and around [[Tabaka Village|Tabaka]] village, where geological conditions have created one of Kenya's most important soapstone reserves.
 
 ## Carving Tradition
 
@@ -30,16 +30,16 @@ The soapstone industry provides:
 
 ## Cultural Significance
 
-Beyond economic importance, soapstone carving preserves traditional artistic skills and [[Gusii People Kisii.md|Gusii]] cultural expression, transmitting knowledge from master carvers to apprentices across generations.
+Beyond economic importance, soapstone carving preserves traditional artistic skills and [[Gusii People Kisii|Gusii]] cultural expression, transmitting knowledge from master carvers to apprentices across generations.
 
 ## See Also
 
-- [[Tabaka Village.md|Tabaka Village]]
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Cultural Heritage.md|Cultural Heritage]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[Kisii Urban Economy.md|Urban Economy]]
-- [[../../Kalenjin/Kalenjin Visual Culture.md|Kalenjin Crafts Comparison]]
+- [[Tabaka Village|Tabaka Village]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Cultural Heritage|Cultural Heritage]]
+- [[Kisii Economy Overview|County Economy]]
+- [[Kisii Urban Economy|Urban Economy]]
+- [[../../Kalenjin/Kalenjin Visual Culture|Kalenjin Crafts Comparison]]
 
 ## Sources
 

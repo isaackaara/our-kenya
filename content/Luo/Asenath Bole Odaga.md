@@ -20,7 +20,7 @@ Contemporary Kenyan children's literature owes much to Odaga's pioneering work. 
 
 ## Limited Documentation
 
-Unfortunately, detailed information about Odaga's biography, complete list of works, and critical analysis of her writing is limited in accessible sources. Her significance is acknowledged by those familiar with Kenyan literary history, yet her work is less studied in contemporary academia than that of [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] or other writers.
+Unfortunately, detailed information about Odaga's biography, complete list of works, and critical analysis of her writing is limited in accessible sources. Her significance is acknowledged by those familiar with Kenyan literary history, yet her work is less studied in contemporary academia than that of [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]] or other writers.
 
 This lack of documentation reflects broader patterns in literary history: women writers, particularly those working in genres like children's literature, often receive less scholarly attention than male writers or those working in genres perceived as more serious.
 
@@ -29,4 +29,4 @@ This lack of documentation reflects broader patterns in literary history: women 
 **See also**: [[Luo Oral Literature]], [[Luo Women in History]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

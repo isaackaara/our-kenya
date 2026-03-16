@@ -11,11 +11,11 @@ The founding ancestor and culture hero of the Luo people. Ramogi Ajwang led the 
 
 ## Spiritual and Political Resonance
 
-Ramogi's legacy extended into modern Kenya. When [[[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] emerged as a towering political figure in the 20th century, he earned the title *Jaramogi* (man of Ramogi), an honorific that connected him directly to the founding ancestor's legacy of leadership and advocacy for the Luo people. This demonstrates how Ramogi's archetypal leadership continues to shape Luo political consciousness.
+Ramogi's legacy extended into modern Kenya. When [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] emerged as a towering political figure in the 20th century, he earned the title *Jaramogi* (man of Ramogi), an honorific that connected him directly to the founding ancestor's legacy of leadership and advocacy for the Luo people. This demonstrates how Ramogi's archetypal leadership continues to shape Luo political consciousness.
 
 ## Related
 
 [[Nam Lolwe]] | [[Luo Origins]] | [[Jaramogi Oginga Odinga]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

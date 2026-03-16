@@ -55,7 +55,7 @@ The 1913 lawsuit represents a historical moment when the Maasai attempted to wor
 - [[../Counties/Narok/Narok County|Narok County]]
 - [[../Counties/Kajiado/Kajiado County|Kajiado County]]
 - [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 
 ## Sources
 

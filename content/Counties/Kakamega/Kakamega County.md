@@ -11,59 +11,59 @@ Kakamega County is Kenya's most densely populated rural county, located in weste
 ## County Overview by Topic
 
 ### Urban Centres
-1. [[Kakamega Town.md]]
+1. [[Kakamega Town]]
 
 ### People and Culture
-2. [[Kakamega Luhya Communities.md]]
-3. [[Kakamega Traditional Culture.md]]
-4. [[Kakamega Food Culture.md]]
-5. [[Kakamega Music.md]]
-6. [[Kakamega Notable People.md]]
-7. [[Kakamega Women.md]]
+2. [[Kakamega Luhya Communities]]
+3. [[Kakamega Traditional Culture]]
+4. [[Kakamega Food Culture]]
+5. [[Kakamega Music]]
+6. [[Kakamega Notable People]]
+7. [[Kakamega Women]]
 
 ### Environment and Conservation
-8. [[Kakamega Forest.md]]
-9. [[Kakamega Climate.md]]
-10. [[Kakamega Biodiversity.md]]
-11. [[Kakamega Climate Change.md]]
+8. [[Kakamega Forest]]
+9. [[Kakamega Climate]]
+10. [[Kakamega Biodiversity]]
+11. [[Kakamega Climate Change]]
 
 ### Economy and Agriculture
-12. [[Kakamega Agriculture.md]]
-13. [[Kakamega Sugar Industry.md]]
-14. [[Mumias Sugar Company.md]]
-15. [[Kakamega Tea.md]]
-16. [[Kakamega Fishing.md]]
+12. [[Kakamega Agriculture]]
+13. [[Kakamega Sugar Industry]]
+14. [[Mumias Sugar Company]]
+15. [[Kakamega Tea]]
+16. [[Kakamega Fishing]]
 
 ### Demographics and Social Issues
-17. [[Kakamega Population Density.md]]
-18. [[Kakamega Land Pressure.md]]
-19. [[Kakamega Youth.md]]
-20. [[Kakamega Security.md]]
+17. [[Kakamega Population Density]]
+18. [[Kakamega Land Pressure]]
+19. [[Kakamega Youth]]
+20. [[Kakamega Security]]
 
 ### Governance and Development
-21. [[Kakamega Politics.md]]
-22. [[Kakamega and Devolution.md]]
-23. [[Kakamega Colonial History.md]]
+21. [[Kakamega Politics]]
+22. [[Kakamega and Devolution]]
+23. [[Kakamega Colonial History]]
 
 ### Infrastructure and Services
-24. [[Kakamega Infrastructure.md]]
-25. [[Kakamega Education.md]]
-26. [[Kakamega Health.md]]
+24. [[Kakamega Infrastructure]]
+25. [[Kakamega Education]]
+26. [[Kakamega Health]]
 
 ### History and Timeline
-27. [[Kakamega Gold Rush.md]]
-28. [[Kakamega Urban Growth.md]]
-29. [[Kakamega Timeline.md]]
+27. [[Kakamega Gold Rush]]
+28. [[Kakamega Urban Growth]]
+29. [[Kakamega Timeline]]
 
 ## Cross-County Links
-- [[../../Luhya/Luhya.md]]
+- [[../../Luhya/Luhya]]
 - [[../../Conservation/Kakamega Forest]]
 - [[../../Corporate Kenya/Sugar Industry Kenya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

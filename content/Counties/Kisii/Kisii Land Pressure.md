@@ -1,4 +1,4 @@
-The extremely high population density in [[Kisii County.md|Kisii County]] creates intense land pressure and systematic subdivision of family farms. This phenomenon has profound implications for agricultural productivity, family structure, and economic sustainability.
+The extremely high population density in [[Kisii County|Kisii County]] creates intense land pressure and systematic subdivision of family farms. This phenomenon has profound implications for agricultural productivity, family structure, and economic sustainability.
 
 ## Land Fragmentation
 
@@ -19,12 +19,12 @@ High land pressure results from:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Population Density.md|Population Density]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Population Pressure.md|Population Pressure]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[../../Luo/Luo and Land.md|Land Issues Across Ethnic Groups]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Population Density|Population Density]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Population Pressure|Population Pressure]]
+- [[Gusii People Kisii|Gusii People]]
+- [[../../Luo/Luo and Land|Land Issues Across Ethnic Groups]]
 - Desire to retain social status through land ownership
 
 ## Economic Consequences

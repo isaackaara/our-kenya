@@ -60,5 +60,5 @@ The incident illustrates the deep anxieties about land ownership and territorial
 - [[../Counties/Narok/Narok County|Narok County]]
 - [[../Counties/Kajiado/Kajiado County|Kajiado County]]
 - [[../Counties/Laikipia/Laikipia County|Laikipia County]]
-- [[../Conservation/Conservation.md|Conservation Overview]]
+- [[../Conservation/Conservation|Conservation Overview]]
 

@@ -14,7 +14,7 @@ Inter-generational cultural transmission remains contested as education systems 
 
 ## Related Links
 
-[[../../Kamba/Kamba.md]]
+[[../../Kamba/Kamba]]
 
 
 ## See Also

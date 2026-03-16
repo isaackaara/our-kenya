@@ -30,7 +30,7 @@ Maasai community organizations advocate for pastoral rights. Women's groups prov
 
 ## See Also
 
-[[../../Maasai/Maasai.md]]
+[[../../Maasai/Maasai]]
 
 ## Sources
 

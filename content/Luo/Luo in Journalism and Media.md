@@ -26,7 +26,7 @@ However, Luo ownership of major media outlets remains limited. The Kenyan media 
 
 ## Luo Journalists and Political Coverage
 
-Luo journalists have sometimes used their media positions to advance Luo political interests or to critique the government for what they perceive as Luo marginalization. During elections (particularly those involving [[Raila Odinga.md|Raila Odinga]]'s presidential campaigns), Luo journalists have been accused by critics of biased coverage favoring Luo candidates. Media scholars have documented that news coverage varies by journalist ethnicity and presumed allegiances, suggesting that Luo journalists may offer different framing or emphasis than journalists from other communities. However, accusations of bias are difficult to prove definitively, and professional journalism ethics are supposed to constrain such partisan influence.
+Luo journalists have sometimes used their media positions to advance Luo political interests or to critique the government for what they perceive as Luo marginalization. During elections (particularly those involving [[Raila Odinga|Raila Odinga]]'s presidential campaigns), Luo journalists have been accused by critics of biased coverage favoring Luo candidates. Media scholars have documented that news coverage varies by journalist ethnicity and presumed allegiances, suggesting that Luo journalists may offer different framing or emphasis than journalists from other communities. However, accusations of bias are difficult to prove definitively, and professional journalism ethics are supposed to constrain such partisan influence.
 
 ## Contemporary Luo Media Professionals (2026)
 
@@ -41,7 +41,7 @@ The Luo prominence in journalism reflects a broader cultural orientation toward 
 Luo media professionals in 2026 face several challenges: declining traditional media employment, competition from global digital platforms, pressure to serve corporate media ownership interests rather than community interests, and accusations of ethnic partisanship that undermine professional credibility. The future of Luo media influence depends on whether Luo professionals can adapt to digital media, maintain professional standards, and continue to exercise influence over national discourse.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Best Journalists in Kenya - Kenyan Magazine 2025](https://kenyanmagazine.co.ke/best-journalists-in-kenya-ranking-kenyas-top-reporters-2024/) - Comprehensive listing of Kenya's prominent journalists across television, print, and digital platforms, with discussion of broadcasting careers and journalism contributions

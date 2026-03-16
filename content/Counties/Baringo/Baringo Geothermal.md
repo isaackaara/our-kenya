@@ -24,7 +24,7 @@ Geothermal development requires environmental management to protect water resour
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Kerio Valley Baringo.md|Kerio Valley Baringo]], [[Baringo Climate Change.md|Baringo Climate Change]]
+See also: [[Baringo County|Baringo County]], [[Kerio Valley Baringo|Kerio Valley Baringo]], [[Baringo Climate Change|Baringo Climate Change]]
 
 
 ## See Also

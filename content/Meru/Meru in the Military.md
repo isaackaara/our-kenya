@@ -70,7 +70,7 @@ Military careers increasingly require secondary education or higher qualificatio
 
 - [[Meru and Mau Mau]] - Wartime participation context
 - [[Kenya Defence Forces]] - Military institution overview
-- [[Meru.md]] - Broader Meru context
+- [[Meru]] - Broader Meru context
 - [[Meru at Independence]] - Post-colonial military era
 - [[Tharaka People]] - Alternative career pathways
 

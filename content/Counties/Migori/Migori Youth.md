@@ -34,12 +34,12 @@ Government and NGO youth programs provide skills training and employment facilit
 
 ## See Also
 
-- [[Migori County.md|Migori County]]
-- [[Migori Politics.md|Politics]]
-- [[Migori Agriculture.md|Agriculture]]
-- [[Migori Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Migori County|Migori County]]
+- [[Migori Politics|Politics]]
+- [[Migori Agriculture|Agriculture]]
+- [[Migori Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Youth Survey. (2019). Youth Employment. https://www.cbs.go.ke/

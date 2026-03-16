@@ -30,7 +30,7 @@ The Luo have historically embraced education more readily than many Kenyan group
 
 ## Female Politicians and Public Figures
 
-Beyond [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] and Millie Odhiambo, other prominent Luo women have entered politics and public life. Female Luo professionals and politicians exist across Kenya's institutions. Yet women remain underrepresented in high political office and in wealth relative to men.
+Beyond [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]] and Millie Odhiambo, other prominent Luo women have entered politics and public life. Female Luo professionals and politicians exist across Kenya's institutions. Yet women remain underrepresented in high political office and in wealth relative to men.
 
 The contemporary shift is real but incomplete. Women have gained education, professional access, and some legal equality. Yet cultural expectations about women's roles, domestic responsibilities, and sexual behaviour persist. A Luo woman in politics or business often navigates both professional demands and familial expectations to marry, bear children, and support her husband's household.
 
@@ -39,4 +39,4 @@ The contemporary shift is real but incomplete. Women have gained education, prof
 **See also**: [[Luo Social Structure]], [[Luo Women in History]], [[Luo Farming Practices]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

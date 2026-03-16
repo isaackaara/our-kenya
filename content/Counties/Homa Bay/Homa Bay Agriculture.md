@@ -30,12 +30,12 @@ Agricultural marketing remains limited due to distance from major markets and po
 
 ## See Also
 
-- [[Homa Bay County.md|Homa Bay County]]
-- [[Homa Bay Politics.md|Politics]]
-- [[Homa Bay Agriculture.md|Agriculture]]
-- [[Homa Bay Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Homa Bay County|Homa Bay County]]
+- [[Homa Bay Politics|Politics]]
+- [[Homa Bay Agriculture|Agriculture]]
+- [[Homa Bay Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Agriculture. (2020). Homa Bay Agricultural Profile. https://www.agriculture.go.ke/

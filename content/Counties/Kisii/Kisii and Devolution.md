@@ -1,8 +1,8 @@
-The 2010 Kenya Constitution created a devolved system of governance establishing [[Kisii County.md|Kisii County]] as a constitutional entity with its own elected governor, county assembly, and administrative structures. Devolution has transformed county governance and resource management.
+The 2010 Kenya Constitution created a devolved system of governance establishing [[Kisii County|Kisii County]] as a constitutional entity with its own elected governor, county assembly, and administrative structures. Devolution has transformed county governance and resource management.
 
 ## Constitutional Framework
 
-[[Kisii County.md|Kisii County]] operates under:
+[[Kisii County|Kisii County]] operates under:
 - County government headed by an elected governor
 - County assembly with elected representatives from wards
 - County executive comprising governor and appointed cabinet secretaries
@@ -19,12 +19,12 @@ The county government includes:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Politics.md|Politics]]
-- [[Kisii Infrastructure.md|Infrastructure]]
-- [[Kisii Economy Overview.md|Economy]]
-- [[Kisii Education.md|Education]]
-- [[../../Luo/Luo and the Kenyan State.md|State Relations]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Politics|Politics]]
+- [[Kisii Infrastructure|Infrastructure]]
+- [[Kisii Economy Overview|Economy]]
+- [[Kisii Education|Education]]
+- [[../../Luo/Luo and the Kenyan State|State Relations]]
 - Ward-level governance and representation
 
 ## Devolved Functions

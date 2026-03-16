@@ -18,12 +18,12 @@ Cultural sustainability concerns arise when beadwork shifts from cultural expres
 
 ## See Also
 
-- [["Samburu County" County.md|"Samburu County" County]]
-- [["Samburu County" Politics.md|Politics]]
-- [["Samburu County" Agriculture.md|Agriculture]]
-- [["Samburu County" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["Samburu County" County|"Samburu County" County]]
+- [["Samburu County" Politics|Politics]]
+- [["Samburu County" Agriculture|Agriculture]]
+- [["Samburu County" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Samburu County Government: Women's Economic Activities and Cooperative Profile. https://www.samburu.go.ke/

@@ -26,7 +26,7 @@ Kajiado Maasai maintain cultural identity and practices despite urbanization pre
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[../../Maasai/Maasai.md|Maasai]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]], [[Kajiado Land Sales.md|Kajiado Land Sales]]
+See also: [[Kajiado County|Kajiado County]], [[../../Maasai/Maasai|Maasai]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]], [[Kajiado Land Sales|Kajiado Land Sales]]
 
 
 ## See Also

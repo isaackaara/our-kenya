@@ -26,7 +26,7 @@ Colonialism introduced new economic activities, taxation systems, and goods. Pas
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Maasai in Narok.md|Maasai in Narok]], [[Narok Land Issues.md|Narok Land Issues]]
+See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Land Issues|Narok Land Issues]]
 
 
 ## See Also

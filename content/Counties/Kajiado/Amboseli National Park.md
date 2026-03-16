@@ -24,7 +24,7 @@ Amboseli faces challenges of water stress during dry periods, poaching pressures
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kilimanjaro View from Amboseli.md|Kilimanjaro View from Amboseli]], [[Kajiado Wildlife.md|Kajiado Wildlife]]
+See also: [[Kajiado County|Kajiado County]], [[Kilimanjaro View from Amboseli|Kilimanjaro View from Amboseli]], [[Kajiado Wildlife|Kajiado Wildlife]]
 
 
 ## See Also

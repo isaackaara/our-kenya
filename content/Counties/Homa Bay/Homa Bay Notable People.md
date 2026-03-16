@@ -30,12 +30,12 @@ Athletes and cultural performers have achieved recognition at national and regio
 
 ## See Also
 
-- [[Homa Bay County.md|Homa Bay County]]
-- [[Homa Bay Politics.md|Politics]]
-- [[Homa Bay Agriculture.md|Agriculture]]
-- [[Homa Bay Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Homa Bay County|Homa Bay County]]
+- [[Homa Bay Politics|Politics]]
+- [[Homa Bay Agriculture|Agriculture]]
+- [[Homa Bay Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Wikipedia. (2025). Notable Kenyans. https://en.wikipedia.org/

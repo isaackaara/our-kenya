@@ -28,7 +28,7 @@ Land governance and conservation management remain contested policy areas requir
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Politics.md|Baringo Politics]], [[Baringo Infrastructure.md|Baringo Infrastructure]]
+See also: [[Baringo County|Baringo County]], [[Baringo Politics|Baringo Politics]], [[Baringo Infrastructure|Baringo Infrastructure]]
 
 
 ## See Also

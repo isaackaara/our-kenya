@@ -30,7 +30,7 @@ Kajiado's semi-arid climate creates recurring drought periods causing livestock 
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Maasai.md|Kajiado Maasai]], [[Kajiado Climate Change.md|Kajiado Climate Change]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Maasai|Kajiado Maasai]], [[Kajiado Climate Change|Kajiado Climate Change]]
 
 
 ## See Also

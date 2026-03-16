@@ -35,7 +35,7 @@ The association of education with Christianity created a perception among Luo (a
 Contemporary Luo Christianity is diverse. Anglicanism and Catholicism remain significant but are now joined by Pentecostal churches (Foursquare, Assemblies of God, numerous independent churches), evangelical movements, and African independent churches like Legio Maria. Young Luo, particularly, gravitate toward Pentecostal churches' emphasis on spiritual power, healing, and contemporary worship styles. However, the Anglican and Catholic foundations remain culturally significant: many Luo maintain nominal affiliation with the church of their childhood or family tradition, even if they actively participate in other congregations.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Maseno School - Wikipedia](https://en.wikipedia.org/wiki/Maseno_School) - Historical account of Maseno School's founding in 1906 by Church Missionary Society as school for chiefs' children, growth as premier Kenya secondary school, and continued sponsorship by Anglican Church of Kenya Diocese of Maseno South

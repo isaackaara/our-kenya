@@ -1,4 +1,4 @@
-Tea is the dominant cash crop in [[Nyamira County.md|Nyamira County]], providing income for the majority of farming households and supporting the regional economy. The [[Nyamira County.md|tea]] industry operates through KTDA factory networks connecting smallholder farmers to regional and international markets.
+Tea is the dominant cash crop in [[Nyamira County|Nyamira County]], providing income for the majority of farming households and supporting the regional economy. The [[Nyamira County|tea]] industry operates through KTDA factory networks connecting smallholder farmers to regional and international markets.
 
 ## Production Scale
 
@@ -12,12 +12,12 @@ Tea production in Nyamira involves:
 
 ## See Also
 
-- [[Nyamira County.md|Nyamira County]]
-- [[Nyamira Agriculture.md|Agriculture]]
-- [[../../Kisii/Kisii Tea Industry.md|Kisii Tea Comparison]]
-- [[Nyamira Dairy.md|Dairy Production]]
-- [[Nyamira Climate.md|Climate]]
-- [[Nyamira Economy Overview.md|County Economy]]
+- [[Nyamira County|Nyamira County]]
+- [[Nyamira Agriculture|Agriculture]]
+- [[../../Kisii/Kisii Tea Industry|Kisii Tea Comparison]]
+- [[Nyamira Dairy|Dairy Production]]
+- [[Nyamira Climate|Climate]]
+- [[Nyamira Economy Overview|County Economy]]
 
 ## KTDA Factory Network
 

@@ -26,7 +26,7 @@ Girls' education faces particular challenges in pastoral communities with early 
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Youth.md|Baringo Youth]], [[Baringo Devolution.md|Baringo Devolution]]
+See also: [[Baringo County|Baringo County]], [[Baringo Youth|Baringo Youth]], [[Baringo Devolution|Baringo Devolution]]
 
 
 ## See Also

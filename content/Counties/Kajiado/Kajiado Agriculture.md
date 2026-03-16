@@ -32,7 +32,7 @@ Kajiado's semi-arid climate limits agricultural production to areas with adequat
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Livestock.md|Kajiado Livestock]], [[Kajiado Land Sales.md|Kajiado Land Sales]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Livestock|Kajiado Livestock]], [[Kajiado Land Sales|Kajiado Land Sales]]
 
 
 ## See Also

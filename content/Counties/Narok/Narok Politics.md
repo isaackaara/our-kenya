@@ -24,7 +24,7 @@ The 2010 Constitution established devolved county government, creating new gover
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Colonial History.md|Narok Colonial History]], [[Narok Devolution.md|Narok Devolution]]
+See also: [[Narok County|Narok County]], [[Narok Colonial History|Narok Colonial History]], [[Narok Devolution|Narok Devolution]]
 
 
 ## See Also

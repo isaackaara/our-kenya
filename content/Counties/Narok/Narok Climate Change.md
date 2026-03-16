@@ -32,7 +32,7 @@ Pastoralists and conservation agencies employ adaptation strategies including he
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Climate.md|Narok Climate]], [[The Great Migration.md|The Great Migration]], [[Narok Livestock.md|Narok Livestock]]
+See also: [[Narok County|Narok County]], [[Narok Climate|Narok Climate]], [[The Great Migration|The Great Migration]], [[Narok Livestock|Narok Livestock]]
 
 
 ## See Also

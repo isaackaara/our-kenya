@@ -6,7 +6,7 @@ Thomas Joseph Mboya (1930-1969) was born in Rusinga Island and rose to become on
 
 ## The Murder and Arrest
 
-Mboya was shot dead on July 5, 1969, in Nairobi while shopping. His assassin, Nahashon Isaac Njenga Njoroge, was quickly arrested. Njoroge was a young man with alleged connections to state security. He was tried, convicted, and executed for the murder. However, suspicion immediately fell on higher powers. [[[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] and the Luo community believed that President Jomo Kenyatta and his inner circle had orchestrated the assassination to eliminate a Luo political rival and prevent Mboya from challenging Kenyatta's dominance. The official narrative of a lone gunman satisfied few in Luo Nyanza.
+Mboya was shot dead on July 5, 1969, in Nairobi while shopping. His assassin, Nahashon Isaac Njenga Njoroge, was quickly arrested. Njoroge was a young man with alleged connections to state security. He was tried, convicted, and executed for the murder. However, suspicion immediately fell on higher powers. [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] and the Luo community believed that President Jomo Kenyatta and his inner circle had orchestrated the assassination to eliminate a Luo political rival and prevent Mboya from challenging Kenyatta's dominance. The official narrative of a lone gunman satisfied few in Luo Nyanza.
 
 ## Luo Community Grief and Political Earthquake
 
@@ -22,14 +22,14 @@ The combined shock of Mboya's assassination and the Kisumu massacre fundamentall
 
 ## Long-Term Political Consequences
 
-The aftermath of Mboya's death established a pattern that would persist: the Luo, despite their education, economic dynamism, and political capability, would be systematically excluded from executive power. [[Raila Odinga.md|Raila Odinga]], Mboya's political heir (though from a different family), would contest every presidential election from 2007 onward, each time losing and each time drawing on the memory of Mboya's assassination and 1969's violence as evidence of ethnic discrimination. The Luo's turn toward perpetual opposition politics was not inevitable, but Mboya's murder made it feel inevitable to the Luo community. A unified nation was fractured into competing ethnic blocs.
+The aftermath of Mboya's death established a pattern that would persist: the Luo, despite their education, economic dynamism, and political capability, would be systematically excluded from executive power. [[Raila Odinga|Raila Odinga]], Mboya's political heir (though from a different family), would contest every presidential election from 2007 onward, each time losing and each time drawing on the memory of Mboya's assassination and 1969's violence as evidence of ethnic discrimination. The Luo's turn toward perpetual opposition politics was not inevitable, but Mboya's murder made it feel inevitable to the Luo community. A unified nation was fractured into competing ethnic blocs.
 
 ## Historiography and Conspiracy
 
 Decades later, the true authorship of Mboya's assassination remains officially unresolved. Some historians argue the murder was motivated by personal grievance (Njoroge's alleged motive), while others suggest a political conspiracy. Declassified British and American documents have sometimes hinted at tensions between Kenyatta's faction and rival power centers, but no smoking gun has definitively proven a conspiracy. What is historically certain is that the Luo community's belief in a conspiracy, regardless of empirical proof, became the bedrock of Luo political consciousness and justified their opposition stance for generations.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Tom Mboya Assassination - The Dream That Died Young](https://kenyanhistory.com/tom-mboya-the-assassinated-visionary/) - Detailed narrative of Mboya's killing on July 5, 1969, arrest of Nahashon Njenga Njoroge, trial, and conviction, with discussion of community response

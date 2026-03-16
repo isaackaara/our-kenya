@@ -43,7 +43,7 @@ The loss of Luo environmental knowledge represents a loss of cultural heritage a
 Contemporary conservation efforts increasingly partner with local communities and seek to integrate traditional ecological knowledge with scientific approaches. For the Luo, this represents an opportunity to revitalize knowledge systems that had been marginalized by colonialism and post-colonial development. Young Luo may have lost familiarity with traditional fishing knowledge, but the knowledge itself is preserved in elder memories and in the practices of traditional fishers who continue to fish Lake Victoria.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

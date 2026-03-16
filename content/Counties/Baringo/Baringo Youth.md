@@ -28,7 +28,7 @@ Unemployment and underemployment create vulnerability to substance abuse, crime,
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Education.md|Baringo Education]], [[Baringo Tourism.md|Baringo Tourism]]
+See also: [[Baringo County|Baringo County]], [[Baringo Education|Baringo Education]], [[Baringo Tourism|Baringo Tourism]]
 
 
 ## See Also

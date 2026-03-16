@@ -28,7 +28,7 @@ Conservancy land has appreciated with tourism development potential, creating ne
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]], [[Kitengela.md|Kitengela]]
+See also: [[Kajiado County|Kajiado County]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]], [[Kitengela|Kitengela]]
 
 
 ## See Also

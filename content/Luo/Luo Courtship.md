@@ -29,7 +29,7 @@ Traditional courtship offered young women some agency in partner selection, as y
 For the Luo, courtship practices were markers of cultural identity. The specific courtship customs (the duol institution, night dancing, the role of the nyatiti) distinguished Luo from neighboring communities. Participation in courtship rituals was a way of enacting Luo-ness, of belonging to a specific community with specific ways of doing things. As colonialism and modernization altered Luo society, the erosion of traditional courtship became both a practical change (urban residence made duols obsolete) and a cultural loss (younger Luo sometimes lament that "we are losing our culture").
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Traditional Luo Marriage Process: Ayie and Nyombo](https://lughayangu.com/post/traditional-luo-marriage-process) - Luo cultural documentation covering courtship stages, bachelor's hut culture (duol), and progression to formal marriage negotiations

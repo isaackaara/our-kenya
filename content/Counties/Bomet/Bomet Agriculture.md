@@ -75,12 +75,12 @@ Farmer groups and cooperatives:
 
 ## See Also
 
-- [[Bomet County.md|Bomet County]]
-- [[Bomet Politics.md|Politics]]
-- [[Bomet Agriculture.md|Agriculture]]
-- [[Bomet Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Bomet County|Bomet County]]
+- [[Bomet Politics|Politics]]
+- [[Bomet Agriculture|Agriculture]]
+- [[Bomet Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Agricultural and Livestock Research Organization (2022). "Agricultural Systems in Rift Valley: Bomet County". https://www.kalro.org

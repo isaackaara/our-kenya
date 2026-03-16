@@ -26,7 +26,7 @@ Moi's political dominance for 24 years shaped Kenya's trajectory, and his retire
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Tugen People.md|Tugen People]], [[Baringo Politics.md|Baringo Politics]]
+See also: [[Baringo County|Baringo County]], [[Tugen People|Tugen People]], [[Baringo Politics|Baringo Politics]]
 
 
 ## See Also

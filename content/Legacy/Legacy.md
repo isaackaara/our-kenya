@@ -6,7 +6,7 @@ The Legacy vertical examines the long-term cultural, psychological, and social l
 
 **Education and Culture:** [[Colonial Education Legacy]], [[Education Paradox]], [[The Education Arms Race]]. Colonial mission schools taught Kenyans to value English history over their own. The prestige of British models persists. Education became the path to mobility but also a mechanism of cultural erasure and inequality reproduction.
 
-**Mind and Consciousness:** [[Decolonising the Mind]], [[The Postcolonial Body]], [[Colorism.md]], [[Language Hierarchies Kenya]]. Colonialism encoded a hierarchy of value into Kenyan consciousness. European knowledge, European beauty, European ways of being positioned as superior. African knowledge, African beauty, African ways as inferior. This psychological colonization persists and shapes how Kenyans see themselves.
+**Mind and Consciousness:** [[Decolonising the Mind]], [[The Postcolonial Body]], [[Colorism]], [[Language Hierarchies Kenya]]. Colonialism encoded a hierarchy of value into Kenyan consciousness. European knowledge, European beauty, European ways of being positioned as superior. African knowledge, African beauty, African ways as inferior. This psychological colonization persists and shapes how Kenyans see themselves.
 
 **Religion and Displacement:** [[The Missionary Legacy]], [[Church as Colonial Tool]], [[The Church in Public Life]]. Missionaries arrived before administrators. They built schools and hospitals while displacing indigenous spiritual practices. The church became both oppressor and refuge. Today it remains a central institution with complex colonial legacies.
 

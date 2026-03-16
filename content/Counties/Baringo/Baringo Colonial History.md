@@ -30,7 +30,7 @@ Post-independence governments continued colonial administrative structures and l
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Tugen People.md|Tugen People]], [[Kabarnet Town.md|Kabarnet Town]]
+See also: [[Baringo County|Baringo County]], [[Tugen People|Tugen People]], [[Kabarnet Town|Kabarnet Town]]
 
 
 ## See Also

@@ -1,4 +1,4 @@
-Agriculture is the foundation of [[Kisii County.md|Kisii County's]] economy, with a diverse range of crops and livestock systems adapted to the highland climate and soil conditions. The agricultural sector employs the majority of the county's population and generates most farm household income.
+Agriculture is the foundation of [[Kisii County|Kisii County's]] economy, with a diverse range of crops and livestock systems adapted to the highland climate and soil conditions. The agricultural sector employs the majority of the county's population and generates most farm household income.
 
 ## Primary Crops
 
@@ -39,12 +39,12 @@ County government and NGOs provide extension services supporting farmers in adop
 
 ## See Also
 
-- [[Kisii Tea Industry.md|Tea Industry]]
-- [[Kisii Dairy.md|Dairy Farming]]
-- [[Kisii Farming Practices.md|Farming Practices]]
-- [[Kisii Climate Change.md|Climate Change Impacts]]
-- [[Kisii Food Culture.md|Food Culture]]
-- [[../../Kalenjin/Kalenjin Pastoralism.md|Pastoralism Systems]]
+- [[Kisii Tea Industry|Tea Industry]]
+- [[Kisii Dairy|Dairy Farming]]
+- [[Kisii Farming Practices|Farming Practices]]
+- [[Kisii Climate Change|Climate Change Impacts]]
+- [[Kisii Food Culture|Food Culture]]
+- [[../../Kalenjin/Kalenjin Pastoralism|Pastoralism Systems]]
 
 ## Sources
 

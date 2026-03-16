@@ -30,7 +30,7 @@ Some diaspora members establish rural businesses or invest in property in Narok,
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Youth.md|Narok Youth]], [[Narok Devolution.md|Narok Devolution]]
+See also: [[Narok County|Narok County]], [[Narok Youth|Narok Youth]], [[Narok Devolution|Narok Devolution]]
 
 
 ## See Also

@@ -32,7 +32,7 @@ Climate change and increasing drought stress pastoral systems including camel he
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Pastoralism.md|Baringo Pastoralism]], [[Baringo Climate.md|Baringo Climate]]
+See also: [[Baringo County|Baringo County]], [[Baringo Pastoralism|Baringo Pastoralism]], [[Baringo Climate|Baringo Climate]]
 
 
 ## See Also

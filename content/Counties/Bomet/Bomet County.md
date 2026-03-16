@@ -1,12 +1,12 @@
-Bomet County is located in the southwestern Rift Valley, centered on the [[../../Kalenjin/Kipsigis.md|Kipsigis]] sub-group of the [[../../Kalenjin/Kalenjin.md|Kalenjin]] people. The county encompasses 2,271 square kilometers and has a population of approximately 900,000. Bomet is the county headquarters located on the border with the [[../../Conservation/Maasai Mara National Reserve.md|Maasai Mara]] National Reserve.
+Bomet County is located in the southwestern Rift Valley, centered on the [[../../Kalenjin/Kipsigis|Kipsigis]] sub-group of the [[../../Kalenjin/Kalenjin|Kalenjin]] people. The county encompasses 2,271 square kilometers and has a population of approximately 900,000. Bomet is the county headquarters located on the border with the [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]] National Reserve.
 
 ## Overview
 
 The county is characterized by:
 - Southwestern Rift Valley location
-- [[../../Kalenjin/Kipsigis.md|Kipsigis]] ethnic dominance
+- [[../../Kalenjin/Kipsigis|Kipsigis]] ethnic dominance
 - Tea as the dominant cash crop
-- Highlands adjacent to the [[../../Conservation/Maasai Mara National Reserve.md|Maasai Mara]] ecosystem
+- Highlands adjacent to the [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]] ecosystem
 - Strategic location for tourism and agriculture
 - Bomet town serving as county administrative center
 
@@ -33,8 +33,8 @@ County economy centered on:
 ## Ethnic Composition
 
 Primary population includes:
-- [[../../Kalenjin/Kipsigis.md|Kipsigis]] (dominant [[../../Kalenjin/Kalenjin.md|Kalenjin]] sub-group)
-- Other [[../../Kalenjin/Kalenjin.md|Kalenjin]] groups
+- [[../../Kalenjin/Kipsigis|Kipsigis]] (dominant [[../../Kalenjin/Kalenjin|Kalenjin]] sub-group)
+- Other [[../../Kalenjin/Kalenjin|Kalenjin]] groups
 - Diverse ethnic mixing
 - Religious diversity
 - Cultural integration
@@ -62,45 +62,45 @@ County importance reflects:
 
 ## 30 Key Notes in This Vertical
 
-1. [[Bomet Town.md]]
-2. [[Kipsigis in Bomet.md]]
-3. [[Bomet Tea.md]]
-4. [[Bomet Agriculture.md]]
-5. [[Bomet and the Maasai Mara.md]]
-6. [[Chepalungu Forest.md]]
-7. [[Bomet Politics.md]]
-8. [[Bomet Colonial History.md]]
-9. [[Bomet Infrastructure.md]]
-10. [[Bomet Education.md]]
-11. [[Bomet Health.md]]
-12. [[Bomet Land.md]]
-13. [[Bomet Youth.md]]
-14. [[Bomet Women.md]]
-15. [[Bomet Kipsigis Culture.md]]
-16. [[Bomet and Devolution.md]]
-17. [[Bomet Climate.md]]
-18. [[Bomet Dairy.md]]
-19. [[Bomet Wildlife.md]]
-20. [[Bomet Tea History.md]]
-21. [[Bomet Notable People.md]]
-22. [[Bomet Cooperatives.md]]
-23. [[Bomet NGOs.md]]
-24. [[Bomet Food Security.md]]
-25. [[Bomet Water Resources.md]]
-26. [[Bomet Real Estate.md]]
-27. [[Bomet Climate Change.md]]
-28. [[Bomet Diaspora.md]]
-29. [[Bomet Timeline.md]]
-30. [[Bomet Economy Overview.md]]
+1. [[Bomet Town]]
+2. [[Kipsigis in Bomet]]
+3. [[Bomet Tea]]
+4. [[Bomet Agriculture]]
+5. [[Bomet and the Maasai Mara]]
+6. [[Chepalungu Forest]]
+7. [[Bomet Politics]]
+8. [[Bomet Colonial History]]
+9. [[Bomet Infrastructure]]
+10. [[Bomet Education]]
+11. [[Bomet Health]]
+12. [[Bomet Land]]
+13. [[Bomet Youth]]
+14. [[Bomet Women]]
+15. [[Bomet Kipsigis Culture]]
+16. [[Bomet and Devolution]]
+17. [[Bomet Climate]]
+18. [[Bomet Dairy]]
+19. [[Bomet Wildlife]]
+20. [[Bomet Tea History]]
+21. [[Bomet Notable People]]
+22. [[Bomet Cooperatives]]
+23. [[Bomet NGOs]]
+24. [[Bomet Food Security]]
+25. [[Bomet Water Resources]]
+26. [[Bomet Real Estate]]
+27. [[Bomet Climate Change]]
+28. [[Bomet Diaspora]]
+29. [[Bomet Timeline]]
+30. [[Bomet Economy Overview]]
 
 ## See Also
 
-- [[Kipsigis in Bomet.md|Kipsigis People]]
-- [[Bomet Tea.md|Tea Industry]]
-- [[../../Kalenjin/Kalenjin.md|Kalenjin People]]
-- [[../../Conservation/Maasai Mara National Reserve.md|Maasai Mara]]
-- [[Bomet and the Maasai Mara.md|Mara Relations]]
-- [[Chepalungu Forest.md|Chepalungu Forest]]
+- [[Kipsigis in Bomet|Kipsigis People]]
+- [[Bomet Tea|Tea Industry]]
+- [[../../Kalenjin/Kalenjin|Kalenjin People]]
+- [[../../Conservation/Maasai Mara National Reserve|Maasai Mara]]
+- [[Bomet and the Maasai Mara|Mara Relations]]
+- [[Chepalungu Forest|Chepalungu Forest]]
 ## Sources
 
 1. Kenya National Bureau of Statistics (2019). "2019 Kenya Population and Housing Census: County Profile - Bomet". https://www.knbs.or.ke

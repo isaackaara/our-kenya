@@ -8,7 +8,7 @@ Today, Machakos County remains demographically and culturally Kamba, though urba
 
 ## Related Links
 
-[[../../Kamba/Kamba.md]]
+[[../../Kamba/Kamba]]
 
 
 ## See Also

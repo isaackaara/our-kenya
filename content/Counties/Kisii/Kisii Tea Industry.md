@@ -1,4 +1,4 @@
-Tea is the dominant cash crop in [[Kisii County.md|Kisii County]], forming the backbone of the regional economy and providing livelihoods for hundreds of thousands of farmers. The industry represents one of Kenya's most successful smallholder agricultural sectors.
+Tea is the dominant cash crop in [[Kisii County|Kisii County]], forming the backbone of the regional economy and providing livelihoods for hundreds of thousands of farmers. The industry represents one of Kenya's most successful smallholder agricultural sectors.
 
 ## Historical Development
 
@@ -36,12 +36,12 @@ The industry faces challenges including climate variability, aging tea bushes re
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Dairy.md|Dairy Farming]]
-- [[Kisii Colonial History.md|Colonial History]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[../../Conservation/Conservation Economics Kenya.md|Conservation Economics]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Dairy|Dairy Farming]]
+- [[Kisii Colonial History|Colonial History]]
+- [[Kisii Economy Overview|County Economy]]
+- [[../../Conservation/Conservation Economics Kenya|Conservation Economics]]
 
 ## Sources
 

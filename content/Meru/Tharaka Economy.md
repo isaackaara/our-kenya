@@ -55,7 +55,7 @@ Tharaka leaders and development advocates argue that Tharaka has been systematic
 
 ## Tharaka Identity and Distinctiveness
 
-Tharaka is the most culturally distinct Meru sub-group (see [[Tharaka.md]] for detailed treatment). This distinctiveness, while a source of identity, can also contribute to marginalization if Tharaka interests differ from highland Meru priorities.
+Tharaka is the most culturally distinct Meru sub-group (see [[Tharaka]] for detailed treatment). This distinctiveness, while a source of identity, can also contribute to marginalization if Tharaka interests differ from highland Meru priorities.
 
 ## Contemporary Challenges
 
@@ -89,7 +89,7 @@ As of 2026, Tharaka remains the least developed Meru sub-group, though there are
 ## See Also
 
 - [[Tharaka People]] - Cultural and social context
-- [[Tharaka.md]] - Geographic and identity overview
+- [[Tharaka]] - Geographic and identity overview
 - [[Meru and Samburu Conflict]] - Pastoral resource competition
 - [[Mount Kenya Eastern Slopes]] - Geographic context
 - [[Tana River Headwaters]] - Water security challenge

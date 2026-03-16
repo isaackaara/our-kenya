@@ -1,4 +1,4 @@
-Dairy farming has become increasingly important in [[Kisii County.md|Kisii County's]] agricultural economy, with the cool highland climate providing ideal conditions for productive dairy cattle. The sector provides income for farming families and employment in milk processing and marketing.
+Dairy farming has become increasingly important in [[Kisii County|Kisii County's]] agricultural economy, with the cool highland climate providing ideal conditions for productive dairy cattle. The sector provides income for farming families and employment in milk processing and marketing.
 
 ## Production Systems
 
@@ -67,12 +67,12 @@ Sustainable dairy development requires:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Climate Change.md|Climate Change]]
-- [[Kisii Farming Practices.md|Farming Practices]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[../../Kalenjin/Kalenjin Pastoralism.md|Kalenjin Pastoralism]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Climate Change|Climate Change]]
+- [[Kisii Farming Practices|Farming Practices]]
+- [[Kisii Economy Overview|County Economy]]
+- [[../../Kalenjin/Kalenjin Pastoralism|Kalenjin Pastoralism]]
 
 ## Sources
 

@@ -30,7 +30,7 @@ Pastoralists employ adaptation strategies including early warning systems for dr
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Climate.md|Kajiado Climate]], [[Kajiado Livestock.md|Kajiado Livestock]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Climate|Kajiado Climate]], [[Kajiado Livestock|Kajiado Livestock]]
 
 
 ## See Also

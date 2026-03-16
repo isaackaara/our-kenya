@@ -30,12 +30,12 @@ Government and NGO youth programs provide skills training, microfinance, and emp
 
 ## See Also
 
-- [[Homa Bay County.md|Homa Bay County]]
-- [[Homa Bay Politics.md|Politics]]
-- [[Homa Bay Agriculture.md|Agriculture]]
-- [[Homa Bay Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Homa Bay County|Homa Bay County]]
+- [[Homa Bay Politics|Politics]]
+- [[Homa Bay Agriculture|Agriculture]]
+- [[Homa Bay Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Youth Survey. (2019). Youth Employment and Livelihoods. https://www.cbs.go.ke/

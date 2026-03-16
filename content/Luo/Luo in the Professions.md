@@ -36,14 +36,14 @@ The Nairobi Luo professional class represents both upward social mobility and co
 
 ## The Paradox of Excellence and Marginalization
 
-A striking paradox characterizes the Luo professional experience in Kenya. Despite producing intellectuals, lawyers, doctors, and public intellectuals of national stature, the Luo community has experienced significant political marginalization. Luo professionals may achieve individual success and respect, but the community as a whole has been systematically excluded from state patronage networks, security force leadership, and high political office (with the exception of [[Raila Odinga.md|Raila Odinga]]'s service as Prime Minister, 2008-2013).
+A striking paradox characterizes the Luo professional experience in Kenya. Despite producing intellectuals, lawyers, doctors, and public intellectuals of national stature, the Luo community has experienced significant political marginalization. Luo professionals may achieve individual success and respect, but the community as a whole has been systematically excluded from state patronage networks, security force leadership, and high political office (with the exception of [[Raila Odinga|Raila Odinga]]'s service as Prime Minister, 2008-2013).
 
 This paradox has historical roots in the Kisumu Massacre (1969) and the subsequent political marginalization of the Luo under Kenyatta and Moi. The professional class became a source of intellectual opposition and critique of the state, with Luo professionals frequently prominent in human rights advocacy, constitutional reform movements, and political commentary.
 
 The paradox also reflects the possibility that professional achievement, while individually rewarding and socially respected, does not automatically translate into group political power or equal access to state resources. Luo professionals may exercise influence through their expertise and intellectual leadership, but this does not necessarily translate into control of government institutions, security forces, or resource allocation mechanisms.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

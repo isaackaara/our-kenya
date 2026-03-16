@@ -2,7 +2,7 @@ From independence in 1963 to 2026, the Luo community has occupied a unique posit
 
 ## The KANU Years (1963-1966): Promise and Partnership
 
-At independence, the Luo were co-founders of the dominant Kenya African National Union (KANU). [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] served as Vice President under Jomo Kenyatta, and [[Tom Mboya.md|Tom Mboya]] was a prominent Cabinet minister. This partnership promised Luo participation in national governance. However, Kenyatta's vision of centralized presidential power, combined with what many Luo leaders perceived as Kikuyu ethnic preference in resource allocation and appointments, created friction. The promise of shared power dissipated quickly.
+At independence, the Luo were co-founders of the dominant Kenya African National Union (KANU). [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] served as Vice President under Jomo Kenyatta, and [[Tom Mboya|Tom Mboya]] was a prominent Cabinet minister. This partnership promised Luo participation in national governance. However, Kenyatta's vision of centralized presidential power, combined with what many Luo leaders perceived as Kikuyu ethnic preference in resource allocation and appointments, created friction. The promise of shared power dissipated quickly.
 
 ## The KPU Split (1966-1969): Odinga's Break
 
@@ -30,7 +30,7 @@ Raila Amolo Odinga (born 1945), the son of Jaramogi Oginga Odinga, became the pr
 
 ## The Odinga Political Dynasty
 
-Raila's trajectory mirrors his father's. Both Jaramogi Oginga Odinga (1912-1994) and [[Raila Odinga.md|Raila Odinga]] have been cast as dissenting voices, populist leaders who articulated grievances on behalf of marginalized communities (first the Luo specifically, later a broader coalition). Both occupied the opposition space continuously. Neither held the presidency. Both became almost mythologized figures in Luo consciousness, representing what might have been. Raila's four electoral losses have institutionalized the Luo political consciousness of exclusion and injustice.
+Raila's trajectory mirrors his father's. Both Jaramogi Oginga Odinga (1912-1994) and [[Raila Odinga|Raila Odinga]] have been cast as dissenting voices, populist leaders who articulated grievances on behalf of marginalized communities (first the Luo specifically, later a broader coalition). Both occupied the opposition space continuously. Neither held the presidency. Both became almost mythologized figures in Luo consciousness, representing what might have been. Raila's four electoral losses have institutionalized the Luo political consciousness of exclusion and injustice.
 
 ## Other Luo Political Leaders
 
@@ -41,7 +41,7 @@ Beyond the Odinga dynasty, the Luo have produced other prominent political figur
 With Raila's 2024 pivot to the AU, Luo politics entered a new phase. William Ruto's presidency (2022-present) has presented different dynamics than [[../Kikuyu/Kikuyu|Kikuyu]]-led governments of Kenyatta and his predecessors. Ruto, a Kalenjin, is not a Kikuyu, though his government initially alienated the Luo through austerity and governance changes. However, the absence of a dominant Kikuyu presidency has not automatically empowered the Luo. Instead, Luo politics has fragmented somewhat, with younger leaders like Martha Karua, Peter Opiyo, and others pursuing different strategies. The question of whether the Luo will find a new political direction, or whether the opposition identity remains central to Luo political consciousness, remains unresolved as of 2026.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Raila Odinga - Britannica](https://www.britannica.com/biography/Raila-Odinga) - Comprehensive biographical entry documenting Raila's four unsuccessful presidential bids (2007, 2013, 2017, 2022) with discussion of election disputes and alleged fraud allegations

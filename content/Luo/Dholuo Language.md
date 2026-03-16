@@ -22,7 +22,7 @@ Dholuo word order is primarily SVO (subject-verb-object), similar to English, bu
 
 For most of its history, Dholuo was purely an oral language with no written form. The Dholuo people transmitted knowledge, history, stories, and cultural values entirely through speaking, singing, and recitation. Written Dholuo emerged only in the colonial period, when missionaries developed a orthography to facilitate Bible translation and educational work. The Church Missionary Society (CMS) and Catholic missionaries produced the first Dholuo literature: biblical translations, prayer books, and educational texts.
 
-By the 20th century, Dholuo literature expanded to include novels, poetry, folklore collections, and newspapers. [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]], Kenya's first published female novelist, wrote in both English and Dholuo, creating literary works that documented Luo life and spiritual traditions. Contemporary Dholuo literature continues this tradition, though much literary production now occurs in English or Swahili for broader audiences.
+By the 20th century, Dholuo literature expanded to include novels, poetry, folklore collections, and newspapers. [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]], Kenya's first published female novelist, wrote in both English and Dholuo, creating literary works that documented Luo life and spiritual traditions. Contemporary Dholuo literature continues this tradition, though much literary production now occurs in English or Swahili for broader audiences.
 
 ## Dholuo Bible and Religious Texts
 
@@ -47,7 +47,7 @@ Contemporary Dholuo has adapted to modern communication contexts. Urban Luo main
 The language has borrowed extensively from English and Swahili, incorporating terms for modern technology, institutions, and concepts. This linguistic borrowing is normal and expected in any living language encountering cultural change, but the heavy borrowing reflects Dholuo's minority status within Kenya and the dominance of English in technology and global communication.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Dholuo Language - Omniglot](https://www.omniglot.com/writing/dholuo.php) - Comprehensive linguistic overview of Dholuo as member of Western Nilotic language family with 5.2 million speakers primarily in Eastern Kenya and Northern Tanzania, discussion of language classification

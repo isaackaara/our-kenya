@@ -26,7 +26,7 @@ Water represents the primary climate-related limiting factor for pastoral and wi
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Climate Change.md|Kajiado Climate Change]], [[Kajiado Livestock.md|Kajiado Livestock]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Climate Change|Kajiado Climate Change]], [[Kajiado Livestock|Kajiado Livestock]]
 
 
 ## See Also

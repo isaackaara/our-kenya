@@ -12,63 +12,63 @@ Vihiga County is Kenya's smallest county by area (563 square kilometres) yet one
 ## County Overview by Topic
 
 ### Urban Centre and Local Government
-1. [[Vihiga Town.md]]
+1. [[Vihiga Town]]
 
 ### People and Culture
-2. [[Maragoli People.md]]
-3. [[Vihiga Cultural Heritage.md]]
-4. [[Vihiga Religious Life.md]]
-5. [[Vihiga Quaker Heritage.md]]
+2. [[Maragoli People]]
+3. [[Vihiga Cultural Heritage]]
+4. [[Vihiga Religious Life]]
+5. [[Vihiga Quaker Heritage]]
 
 ### Demographics and Migration
-6. [[Vihiga Population Density.md]]
-7. [[Vihiga Diaspora Economy.md]]
-8. [[Vihiga Migration Tradition.md]]
+6. [[Vihiga Population Density]]
+7. [[Vihiga Diaspora Economy]]
+8. [[Vihiga Migration Tradition]]
 
 ### Agriculture and Food
-9. [[Vihiga Agriculture.md]]
-10. [[Vihiga Tea.md]]
-11. [[Vihiga Food Security.md]]
+9. [[Vihiga Agriculture]]
+10. [[Vihiga Tea]]
+11. [[Vihiga Food Security]]
 
 ### Land and Environment
-12. [[Vihiga Land Pressure.md]]
-13. [[Vihiga Environmental Degradation.md]]
-14. [[Vihiga Rivers.md]]
-15. [[Vihiga Climate.md]]
+12. [[Vihiga Land Pressure]]
+13. [[Vihiga Environmental Degradation]]
+14. [[Vihiga Rivers]]
+15. [[Vihiga Climate]]
 
 ### Governance and Development
-16. [[Vihiga Politics.md]]
-17. [[Vihiga and Devolution.md]]
-18. [[Vihiga Colonial History.md]]
+16. [[Vihiga Politics]]
+17. [[Vihiga and Devolution]]
+18. [[Vihiga Colonial History]]
 
 ### Social Issues and Opportunity
-19. [[Vihiga Youth.md]]
-20. [[Vihiga Women.md]]
-21. [[Vihiga Education.md]]
+19. [[Vihiga Youth]]
+20. [[Vihiga Women]]
+21. [[Vihiga Education]]
 
 ### Services and Infrastructure
-22. [[Vihiga Infrastructure.md]]
-23. [[Vihiga Health.md]]
+22. [[Vihiga Infrastructure]]
+23. [[Vihiga Health]]
 
 ### Community and Civil Society
-24. [[Vihiga Community Groups.md]]
-25. [[Vihiga NGOs.md]]
+24. [[Vihiga Community Groups]]
+25. [[Vihiga NGOs]]
 
 ### Property and Economy
-26. [[Vihiga Real Estate.md]]
-27. [[Vihiga Notable People.md]]
+26. [[Vihiga Real Estate]]
+27. [[Vihiga Notable People]]
 
 ### History and Change
-28. [[Vihiga Climate Change.md]]
-29. [[Vihiga Timeline.md]]
+28. [[Vihiga Climate Change]]
+29. [[Vihiga Timeline]]
 
 ## Cross-County Links
-- [[../../Luhya/Luhya.md]]
+- [[../../Luhya/Luhya]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

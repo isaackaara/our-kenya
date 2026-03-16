@@ -22,8 +22,8 @@ The Meru entered Kenya's national politics following independence in 1964. Meru 
 
 Notable Meru politicians include:
 
-- **Kiraitu Murungi**: Former Justice Minister under Kibaki, former Meru County Governor, prominent in constitutional reform (see [[Kiraitu Murungi.md]])
-- **Peter Munya**: Former Meru County Governor and Cabinet Minister for Agriculture under Kenyatta (see [[Peter Munya.md]])
+- **Kiraitu Murungi**: Former Justice Minister under Kibaki, former Meru County Governor, prominent in constitutional reform (see [[Kiraitu Murungi]])
+- **Peter Munya**: Former Meru County Governor and Cabinet Minister for Agriculture under Kenyatta (see [[Peter Munya]])
 - **Various MPs and County Assembly Members**: Numerous Meru representatives have served in parliament and county government
 
 ## Political Trends

@@ -92,12 +92,12 @@ Kipsigis communities navigate:
 
 ## See Also
 
-- [[Bomet County.md|Bomet County]]
-- [[Bomet Politics.md|Politics]]
-- [[Bomet Agriculture.md|Agriculture]]
-- [[Bomet Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Bomet County|Bomet County]]
+- [[Bomet Politics|Politics]]
+- [[Bomet Agriculture|Agriculture]]
+- [[Bomet Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kipchoge Keino Institute (2021). "Kipsigis People and Kalenjin Heritage". https://www.kipchogeinstitute.org

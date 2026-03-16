@@ -36,7 +36,7 @@ Water level changes, wetland habitat loss, and pollution threaten bird habitat. 
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Lake Baringo.md|Lake Baringo]], [[Baringo Tourism.md|Baringo Tourism]]
+See also: [[Baringo County|Baringo County]], [[Lake Baringo|Lake Baringo]], [[Baringo Tourism|Baringo Tourism]]
 
 
 ## See Also

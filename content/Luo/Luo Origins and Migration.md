@@ -21,7 +21,7 @@ The Luo's relationship to neighboring Nilotic peoples reflects their shared orig
 Upon settling around Lake Victoria, the Luo developed a settlement pattern adapted to the lake's ecology. Fishing communities emerged near the shoreline, while pastoralists occupied the higher plains with cattle herds. Mixed farming, incorporating both grain cultivation and livestock, became the norm. This differentiation of economic roles within Luo society, while maintaining a shared language and cultural identity, would characterize Luo communities into the colonial period and beyond.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Luo Peoples - Wikipedia](https://en.wikipedia.org/wiki/Luo_peoples) - Comprehensive overview of Luo origins, language family classification, and Nilotic migration patterns

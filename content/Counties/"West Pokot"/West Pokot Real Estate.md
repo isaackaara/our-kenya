@@ -8,12 +8,12 @@ Pastoral youth face difficulties accessing sufficient land for independent pasto
 
 ## See Also
 
-- [["West Pokot" County.md|"West Pokot" County]]
-- [["West Pokot" Politics.md|Politics]]
-- [["West Pokot" Agriculture.md|Agriculture]]
-- [["West Pokot" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["West Pokot" County|"West Pokot" County]]
+- [["West Pokot" Politics|Politics]]
+- [["West Pokot" Agriculture|Agriculture]]
+- [["West Pokot" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/real-estate-west-pokot
 2. https://www.propertykenya.com/west-pokot-real-estate

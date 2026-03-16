@@ -1,8 +1,8 @@
-The [[Gusii People Kisii.md|Gusii]] people have developed distinctive food traditions combining traditional staples with contemporary ingredients. Food culture remains central to family life, celebrations, and social identity in [[Kisii County.md|Kisii County]].
+The [[Gusii People Kisii|Gusii]] people have developed distinctive food traditions combining traditional staples with contemporary ingredients. Food culture remains central to family life, celebrations, and social identity in [[Kisii County|Kisii County]].
 
 ## Traditional Staple Foods
 
-Traditional [[Gusii People Kisii.md|Gusii]] diet includes:
+Traditional [[Gusii People Kisii|Gusii]] diet includes:
 - Ugali (maize meal) as primary staple
 - Beans and legumes providing protein
 - Leafy vegetables (sukuma wiki)
@@ -14,7 +14,7 @@ These staples formed the foundation of traditional diet and remain widely consum
 
 ## Contemporary Food Practices
 
-Modern [[Gusii People Kisii.md|Gusii]] diet incorporates:
+Modern [[Gusii People Kisii|Gusii]] diet incorporates:
 - Rice as alternative staple
 - Bread and wheat products
 - Diverse vegetables from market purchase
@@ -44,12 +44,12 @@ Special foods prepare for important occasions:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Music.md|Music and Culture]]
-- [[Kisii Cultural Heritage.md|Cultural Heritage]]
-- [[../../Luo/Luo Food Culture.md|Luo Food Culture]]
+- [[Kisii County|Kisii County]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Music|Music and Culture]]
+- [[Kisii Cultural Heritage|Cultural Heritage]]
+- [[../../Luo/Luo Food Culture|Luo Food Culture]]
 - Funeral rite foods
 - Holiday and religious celebration dishes
 

@@ -1,4 +1,4 @@
-Daniel Owino Misiani (February 22, 1940 to May 17, 2006) was a Tanzanian-born musician based in Kenya who became one of East Africa's most influential musicians and the principal architect of [[[[Benga Music Origins.md|benga music]] Origins.md|Benga Music Origins]] as a defined genre. Known as the "King of History" in Kenya and as "the grandfather of benga" internationally, Misiani led the Shirati Jazz collective for decades and created a body of work that documented Kenyan history, politics, and social life while entertaining millions.
+Daniel Owino Misiani (February 22, 1940 to May 17, 2006) was a Tanzanian-born musician based in Kenya who became one of East Africa's most influential musicians and the principal architect of [[Benga Music Origins|Benga Music Origins]] as a defined genre. Known as the "King of History" in Kenya and as "the grandfather of benga" internationally, Misiani led the Shirati Jazz collective for decades and created a body of work that documented Kenyan history, politics, and social life while entertaining millions.
 
 ## Early Life and Musical Beginnings
 
@@ -37,7 +37,7 @@ Beatrice Owino, Misiani's wife, continued to lead Shirati Jazz after his death i
 Misiani's death in 2006 was widely mourned in Kenya and East Africa. He is remembered as one of the greatest Luo musicians and one of Kenya's most important cultural figures. His contributions to the development of benga, to the documentation of Kenyan history through popular music, and to the artistic expression of Luo culture and values are foundational.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

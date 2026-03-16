@@ -43,7 +43,7 @@ Luo visibility in informal sectors, combined with the sectors' associations with
 Contemporary Luo informal economy participation reflects both continuity and change. Informal trading and small-scale manufacturing persist, though digital platforms (online commerce, delivery apps) have created new opportunities. Younger Luo may work in digital gig economy roles while maintaining ties to traditional informal sectors. The COVID-19 pandemic (2020-2021) disrupted informal economies dramatically, affecting Luo livelihoods severely. As of 2026, recovery is incomplete, though informal sectors remain vital to urban Luo economic survival.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Kenya's Informal Economy and Jua Kali Artisans](https://link.springer.com/chapter/10.1007/978-3-032-13732-6_1) - Springer comprehensive analysis of Kenya's informal economy, SMME sector, and jua kali artisans in Nairobi City County focusing on informal manufacturing and entrepreneurship patterns

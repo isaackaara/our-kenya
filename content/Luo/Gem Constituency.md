@@ -1,4 +1,4 @@
-Gem Constituency, located in [[../Counties/Siaya/Siaya County|Siaya County]] in the Luo heartland, is one of Kenya's most intellectually and politically significant constituencies. Home to [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]], Atieno Odhiambo, and numerous other prominent Luo figures, Gem has fostered an intellectual tradition spanning education, literature, history, and political thought.
+Gem Constituency, located in [[../Counties/Siaya/Siaya County|Siaya County]] in the Luo heartland, is one of Kenya's most intellectually and politically significant constituencies. Home to [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]], Atieno Odhiambo, and numerous other prominent Luo figures, Gem has fostered an intellectual tradition spanning education, literature, history, and political thought.
 
 ## Geography and Demographics
 
@@ -22,7 +22,7 @@ This tradition is partly attributable to Gem's economic viability (allowing fami
 
 Gem has been a contested and important political constituency. It has produced MPs and political leaders at regional and national levels. The area has been active in political movements, from colonial anti-colonial organising through post-independence party politics.
 
-[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]], though from adjacent Bondo, had strong connections to the Gem area, and the constituency has been part of the broader Luo political landscape dominated by Odinga family politics.
+[[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]], though from adjacent Bondo, had strong connections to the Gem area, and the constituency has been part of the broader Luo political landscape dominated by Odinga family politics.
 
 ## Educational Infrastructure
 
@@ -39,4 +39,4 @@ The question of whether Gem can balance its cultural and intellectual legacy wit
 **See also**: [[Siaya County]], [[Grace Ogot Deep Dive]], [[Atieno Odhiambo]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

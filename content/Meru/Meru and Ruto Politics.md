@@ -38,7 +38,7 @@ As Kenya approaches potential electoral cycles and political transitions, the Me
 - [[Peter Munya]] - Opposition Meru leadership
 - [[Meru at Independence]] - Historical political alignment patterns
 - [[Njuri Ncheke]] - Traditional authority alongside electoral politics
-- [[Meru.md]] - Broader Meru political context
+- [[Meru]] - Broader Meru political context
 
 ## Sources
 

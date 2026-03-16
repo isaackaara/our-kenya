@@ -30,7 +30,7 @@ Contemporary Tharaka take pride in their pastoral heritage and ecological adapta
 
 ## See Also
 
-- [[Tharaka.md]] - Geographic and identity overview
+- [[Tharaka]] - Geographic and identity overview
 - [[Tharaka Economy]] - Economic base and challenges
 - [[Tharaka-Nithi County Economy]] - County governance context
 - [[Meru and Samburu Conflict]] - Pastoral boundary issues

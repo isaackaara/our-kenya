@@ -26,7 +26,7 @@ Water represents the primary climate-related limiting factor. Lake Baringo, spri
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Climate Change.md|Baringo Climate Change]], [[Baringo Pastoralism.md|Baringo Pastoralism]]
+See also: [[Baringo County|Baringo County]], [[Baringo Climate Change|Baringo Climate Change]], [[Baringo Pastoralism|Baringo Pastoralism]]
 
 
 ## See Also

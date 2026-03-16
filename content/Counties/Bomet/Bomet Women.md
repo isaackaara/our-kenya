@@ -64,12 +64,12 @@ Women's participation includes:
 
 ## See Also
 
-- [[Bomet County.md|Bomet County]]
-- [[Bomet Politics.md|Politics]]
-- [[Bomet Agriculture.md|Agriculture]]
-- [[Bomet Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Bomet County|Bomet County]]
+- [[Bomet Politics|Politics]]
+- [[Bomet Agriculture|Agriculture]]
+- [[Bomet Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics (2022). "Gender Profile: Bomet County". https://www.knbs.or.ke

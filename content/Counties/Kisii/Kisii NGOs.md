@@ -1,4 +1,4 @@
-Numerous non-governmental organizations (NGOs) and development organizations work in [[Kisii County.md|Kisii County]], providing services and supporting community development in agriculture, health, education, gender equality, and poverty reduction.
+Numerous non-governmental organizations (NGOs) and development organizations work in [[Kisii County|Kisii County]], providing services and supporting community development in agriculture, health, education, gender equality, and poverty reduction.
 
 ## Health Organizations
 
@@ -24,12 +24,12 @@ Agricultural NGOs focus on:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Health.md|Health]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Women.md|Women Development]]
-- [[Kisii Education.md|Education]]
-- [[../../Conservation/Conservation NGOs Kenya.md|Conservation Organizations]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Health|Health]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Women|Women Development]]
+- [[Kisii Education|Education]]
+- [[../../Conservation/Conservation NGOs Kenya|Conservation Organizations]]
 
 Agricultural organizations help farmers adopt improved practices and increase productivity.
 

@@ -1,21 +1,21 @@
-Agriculture is the foundation of [[Nyamira County.md|Nyamira County's]] economy, with [[Nyamira Tea.md|tea]] as dominant crop supplemented by diverse other agricultural activities. The agricultural sector employs the majority of the population and generates primary household incomes.
+Agriculture is the foundation of [[Nyamira County|Nyamira County's]] economy, with [[Nyamira Tea|tea]] as dominant crop supplemented by diverse other agricultural activities. The agricultural sector employs the majority of the population and generates primary household incomes.
 
 ## Primary Crops
 
 Main crops include:
-- [[Nyamira Tea.md|Tea]] (dominant cash crop)
+- [[Nyamira Tea|Tea]] (dominant cash crop)
 - Maize (staple food crop)
 - Beans and legumes
 - Vegetables and horticultural crops
 - Bananas and plantains
 - Potatoes
 - Pyrethrum (declining production)
-- [[Nyamira Dairy.md|Dairy]] cattle
+- [[Nyamira Dairy|Dairy]] cattle
 
 ## Livestock Integration
 
 Livestock systems include:
-- [[Nyamira Dairy.md|Dairy]] cattle production
+- [[Nyamira Dairy|Dairy]] cattle production
 - Small ruminants (goats, sheep)
 - Poultry and chickens
 - Integrated crop-livestock farming
@@ -24,12 +24,12 @@ Livestock systems include:
 
 ## See Also
 
-- [[Nyamira County.md|Nyamira County]]
-- [[Nyamira Tea.md|Tea Industry]]
-- [[Nyamira Dairy.md|Dairy Farming]]
-- [[Nyamira Climate.md|Climate]]
-- [[../../Kisii/Kisii Agriculture.md|Kisii Agriculture]]
-- [[Nyamira Economy Overview.md|County Economy]]
+- [[Nyamira County|Nyamira County]]
+- [[Nyamira Tea|Tea Industry]]
+- [[Nyamira Dairy|Dairy Farming]]
+- [[Nyamira Climate|Climate]]
+- [[../../Kisii/Kisii Agriculture|Kisii Agriculture]]
+- [[Nyamira Economy Overview|County Economy]]
 
 ## Farming Systems
 

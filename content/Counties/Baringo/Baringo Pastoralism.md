@@ -26,7 +26,7 @@ Pastoral communities increasingly sell livestock for cash to purchase food, educ
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Agriculture.md|Baringo Agriculture]], [[Baringo Camels.md|Baringo Camels]]
+See also: [[Baringo County|Baringo County]], [[Baringo Agriculture|Baringo Agriculture]], [[Baringo Camels|Baringo Camels]]
 
 
 ## See Also

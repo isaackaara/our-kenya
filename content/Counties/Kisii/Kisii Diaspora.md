@@ -1,4 +1,4 @@
-Significant numbers of [[Kisii County.md|Kisii]] people reside outside their home county, particularly in Nairobi and other Kenyan cities, as well as internationally. The diaspora maintains connections to home while building lives and careers in other locations.
+Significant numbers of [[Kisii County|Kisii]] people reside outside their home county, particularly in Nairobi and other Kenyan cities, as well as internationally. The diaspora maintains connections to home while building lives and careers in other locations.
 
 ## Migration to Nairobi
 
@@ -7,13 +7,13 @@ Nairobi hosts the largest diaspora population:
 - Families relocating for economic advancement
 - Professionals and business people
 - Informal settlements housing migrant communities
-- Established residential neighborhoods with [[Kisii County.md|Kisii]] populations
+- Established residential neighborhoods with [[Kisii County|Kisii]] populations
 
 Nairobi's economic opportunities drive substantial migration from the county.
 
 ## Other Kenyan Urban Centers
 
-[[Kisii County.md|Kisii]] people reside in:
+[[Kisii County|Kisii]] people reside in:
 - Kericho and other western Kenya cities
 - Kisumu and Lake Region cities
 - Mombasa and coastal cities
@@ -24,12 +24,12 @@ Urban migration patterns reflect economic opportunity distribution across Kenya.
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Youth.md|Youth Migration]]
-- [[Kisii Women.md|Women in Diaspora]]
-- [[../../Luo/Luo in Nairobi.md|Luo Diaspora]]
-- [[Kisii Economy Overview.md|County Economy]]
+- [[Kisii County|Kisii County]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Youth|Youth Migration]]
+- [[Kisii Women|Women in Diaspora]]
+- [[../../Luo/Luo in Nairobi|Luo Diaspora]]
+- [[Kisii Economy Overview|County Economy]]
 
 ## International Migration
 

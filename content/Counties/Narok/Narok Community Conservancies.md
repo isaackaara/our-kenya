@@ -24,7 +24,7 @@ Conservancies face pressures from land sales, grazing pressures, human-wildlife 
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve.md|Maasai Mara National Reserve]], [[Narok Tourist Economy.md|Narok Tourist Economy]], [[Narok Land Issues.md|Narok Land Issues]]
+See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Narok Land Issues|Narok Land Issues]]
 
 
 ## See Also

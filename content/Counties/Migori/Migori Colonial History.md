@@ -30,12 +30,12 @@ Communities responded variably to colonialism, with some resistance and widespre
 
 ## See Also
 
-- [[Migori County.md|Migori County]]
-- [[Migori Politics.md|Politics]]
-- [[Migori Agriculture.md|Agriculture]]
-- [[Migori Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Migori County|Migori County]]
+- [[Migori Politics|Politics]]
+- [[Migori Agriculture|Agriculture]]
+- [[Migori Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Oxford Research Encyclopedia. (2020). Colonial Kenya. https://oxfordre.com/

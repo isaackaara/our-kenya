@@ -2,12 +2,12 @@ The Kipsigis people maintained a complex and contested relationship with the tea
 
 This initial dispossession created bitter memories within Kipsigis oral history and political consciousness. However, as estate development proceeded, many displaced Kipsigis found employment as tea pickers, earning cash wages while remaining economically dependent on the very plantations that had displaced them. This transition from landowners to wage labourers represented a profound social and economic transformation. Today, Kipsigis communities include both estate workers, smallholder tea farmers, and business people involved in tea trading and processing. Their relationship with the industry remains ambivalent, combining economic reliance with historical grievances about land loss.
 
-See also: [[../../[[../../Kalenjin/Kalenjin|Kalenjin]]/Kalenjin.md]]
+See also: [[../../Kalenjin/Kalenjin|Kalenjin]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

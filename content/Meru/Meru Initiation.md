@@ -8,7 +8,7 @@ Male circumcision serves as the central [[rite of passage]] in [[Meru society]],
 
 ## The Male Circumcision Ceremony
 
-Circumcision occurs during designated periods (not necessarily at puberty, but during broader circumcision seasons that might occur every few years). Boys of similar age are initiated together, creating the age-set cohort discussed in [[Meru Age Sets.md]].
+Circumcision occurs during designated periods (not necessarily at puberty, but during broader circumcision seasons that might occur every few years). Boys of similar age are initiated together, creating the age-set cohort discussed in [[Meru Age Sets]].
 
 **The Cutting**: The circumcision itself is performed by a designated specialist, traditionally a recognized practitioner (who might be a warrior or elder with this responsibility). In contemporary Meru, medical personnel increasingly perform the procedure.
 

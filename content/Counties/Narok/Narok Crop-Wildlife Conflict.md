@@ -30,7 +30,7 @@ Balancing agricultural development, food security, wildlife conservation, and ec
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Wildlife.md|Narok Wildlife]], [[Narok Wheat Farming.md|Narok Wheat Farming]], [[Narok Community Conservancies.md|Narok Community Conservancies]]
+See also: [[Narok County|Narok County]], [[Narok Wildlife|Narok Wildlife]], [[Narok Wheat Farming|Narok Wheat Farming]], [[Narok Community Conservancies|Narok Community Conservancies]]
 
 
 ## See Also

@@ -100,12 +100,12 @@ Beverages include:
 
 ## See Also
 
-- [[Nyamira County.md|Nyamira County]]
-- [[Nyamira Politics.md|Politics]]
-- [[Nyamira Agriculture.md|Agriculture]]
-- [[Nyamira Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Nyamira County|Nyamira County]]
+- [[Nyamira Politics|Politics]]
+- [[Nyamira Agriculture|Agriculture]]
+- [[Nyamira Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Nutrition and Dietetics Association (2022). "Food Culture and Dietary Practices in Kenya". https://www.knda.or.ke

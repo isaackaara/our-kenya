@@ -8,7 +8,7 @@ Luo migration to Nairobi began in the colonial period, accelerated after indepen
 
 Kibera, Africa's largest informal settlement, is home to hundreds of thousands of residents, including a significant Luo population. Kibera's origins trace to colonial-era labor migration; the settlement expanded dramatically after independence as rural migrants, including Luo, sought urban housing. Kibera became synonymous with informal settlement life: high-density informal housing, limited services, precarious livelihoods, and community solidarity alongside social problems.
 
-The Luo community in Kibera maintained ties to Nyanza, sending remittances to rural families and returning home for funerals and major ceremonies. Kibera Luo organized community groups, churches, and welfare associations. The settlement became a political base for [[Raila Odinga.md|Raila Odinga]], who represented the Langata Parliamentary constituency that includes Kibera. Raila's political power derived substantially from Kibera's Luo population, demonstrating how urban Luo communities could exercise political influence.
+The Luo community in Kibera maintained ties to Nyanza, sending remittances to rural families and returning home for funerals and major ceremonies. Kibera Luo organized community groups, churches, and welfare associations. The settlement became a political base for [[Raila Odinga|Raila Odinga]], who represented the Langata Parliamentary constituency that includes Kibera. Raila's political power derived substantially from Kibera's Luo population, demonstrating how urban Luo communities could exercise political influence.
 
 ## Mathare and Other Informal Settlements
 
@@ -51,7 +51,7 @@ Young Nairobi-born Luo may identify primarily as Nairobians or Kenyans, with Luo
 Contemporary urban Luo in Nairobi (2026) face several challenges: housing insecurity in informal settlements, unemployment, economic vulnerability, gender-based violence, and health challenges. Yet opportunities also exist: entrepreneurship, education, professional employment, and community organizing. The Luo experience in Nairobi reflects both the dynamism and precariousness of urban life in Kenya's largest city.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Kibera - Wikipedia](https://en.wikipedia.org/wiki/Kibera) - Entry on Kibera as Africa's largest informal settlement with significant Luo population, historical development, and connection to Raila Odinga's political career as MP for Langata

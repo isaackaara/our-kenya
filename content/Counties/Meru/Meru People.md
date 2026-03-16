@@ -18,7 +18,7 @@ The Meru developed distinctive agricultural practices suited to the [[../../Cons
 
 ## Contemporary Identity
 
-Today, Meru identity remains strong despite urbanization and modernization. The Meru language is still widely spoken, particularly in rural areas and among elders. Community associations organize around shared interests in agriculture, education, and cultural preservation. Link: [[Meru County.md]]
+Today, Meru identity remains strong despite urbanization and modernization. The Meru language is still widely spoken, particularly in rural areas and among elders. Community associations organize around shared interests in agriculture, education, and cultural preservation. Link: [[Meru County]]
 
 
 ## See Also

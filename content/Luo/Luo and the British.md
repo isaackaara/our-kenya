@@ -22,10 +22,10 @@ Colonialism disrupted Luo age-set systems and elders' councils. The British appo
 
 ## Luo Intellectual and Political Awakening
 
-Despite (or because of) colonial oppression, the Luo produced a disproportionately large intellectual and political class. Maseno School and other mission schools trained Luo leaders like [[[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]], [[Tom Mboya.md|Tom Mboya]], Achieng Oneko, and others who would become central to Kenya's independence movement. The combination of mission education, administrative exposure, and economic disruption created a Luo educated elite acutely aware of colonial injustice and skilled in articulating grievances through journalism, political organizing, and public speech.
+Despite (or because of) colonial oppression, the Luo produced a disproportionately large intellectual and political class. Maseno School and other mission schools trained Luo leaders like [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]], [[Tom Mboya|Tom Mboya]], Achieng Oneko, and others who would become central to Kenya's independence movement. The combination of mission education, administrative exposure, and economic disruption created a Luo educated elite acutely aware of colonial injustice and skilled in articulating grievances through journalism, political organizing, and public speech.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Luo People - British Colonial Administration](https://en.wikipedia.org/wiki/Luo_people) - Wikipedia account of Luo cooperation with British, establishment of Kisumu as administrative headquarters, and early colonial period dynamics

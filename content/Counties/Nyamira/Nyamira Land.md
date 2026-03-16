@@ -80,12 +80,12 @@ Land conservation efforts include:
 
 ## See Also
 
-- [[Nyamira County.md|Nyamira County]]
-- [[Nyamira Politics.md|Politics]]
-- [[Nyamira Agriculture.md|Agriculture]]
-- [[Nyamira Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Nyamira County|Nyamira County]]
+- [[Nyamira Politics|Politics]]
+- [[Nyamira Agriculture|Agriculture]]
+- [[Nyamira Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Ministry of Lands and Physical Planning (2023). "County Land Administration Report: Nyamira". https://www.lands.go.ke

@@ -33,7 +33,7 @@ The Uganda Railway's completion at Kisumu in 1901 represents a watershed moment 
 For the Luo, the railway symbolizes the double-edged nature of colonialism: it brought new economic opportunities and access to goods and services, but it also facilitated colonial control, taxation, and the disruption of traditional economic systems. The railway's presence at Kisumu concentrated colonial power and commerce in a single location, making Kisumu the portal through which the Luo region was connected to and controlled by the colonial and, later, post-colonial state.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

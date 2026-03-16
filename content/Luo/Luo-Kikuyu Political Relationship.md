@@ -2,11 +2,11 @@ The relationship between the Luo and Kikuyu communities forms the central axis o
 
 ## Key Facts
 
-- **Alliance at independence (1963)**: At independence, the Luo and Kikuyu formed an alliance under Jomo Kenyatta (Kikuyu) and [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] (Luo) as President and Vice President respectively. This partnership was presented as uniting Kenya's two major ethnic groups
+- **Alliance at independence (1963)**: At independence, the Luo and Kikuyu formed an alliance under Jomo Kenyatta (Kikuyu) and [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] (Luo) as President and Vice President respectively. This partnership was presented as uniting Kenya's two major ethnic groups
 - **Breakup of the alliance (1966)**: Tensions over land distribution, resource allocation, and Kenyatta's consolidation of personal power led to the deterioration of the alliance. In 1966, the government banned the Luo-dominated Kenya People's Union (KPU), and Jaramogi was detained
 - **[[../Counties/Kisumu/Kisumu County|Kisumu County]] Massacre (1969)**: Police and presidential guard killed at least 11 Luo civilians (some sources cite higher numbers) during a presidential visit to Kisumu after the KPU ban. This act was widely interpreted by the Luo as state violence aimed at their community
 - **Luo exclusion under Moi (1978-2002)**: Daniel arap Moi, a Kalenjin president, marginalized both communities but particularly targeted Luo elites. However, the dominant narrative of Luo grievance centered on Kikuyu dominance of commerce, land, and national resources, not Kalenjin Moi
-- **Kibaki alliance (2002)**: [[Raila Odinga.md|Raila Odinga]] merged his party with Mwai Kibaki's movement ahead of the 2002 election, ending 16 years of Moi's KANU rule. A Luo-Kikuyu coalition returned to power. Kibaki was elected president and appointed Raila as a minister
+- **Kibaki alliance (2002)**: [[Raila Odinga|Raila Odinga]] merged his party with Mwai Kibaki's movement ahead of the 2002 election, ending 16 years of Moi's KANU rule. A Luo-Kikuyu coalition returned to power. Kibaki was elected president and appointed Raila as a minister
 - **Breakdown and 2007 violence**: By 2007, tensions had rebuilt over Kibaki's perceived favoritism toward Kikuyu interests and his failure to fulfill constitutional reform promises. When Kibaki was declared the winner of a disputed election, Luo and other opposition communities erupted in violence. Approximately 1,200 people died, with Kisumu and Nyanza as major flashpoints
 - **Power-sharing (2008-2013)**: International mediation produced a power-sharing agreement with Kibaki as President and Raila as Prime Minister. During this period, Luo and Kikuyu elites shared government, and violence subsided
 - **Post-2013 pattern**: The 2013 and 2017 elections returned Uhuru Kenyatta (Kikuyu) to the presidency, with Raila as opposition leader. The 2018 Handshake between Raila and Uhuru again reconciled the leadership of both communities, though questions persisted about whether elite accommodation benefited ordinary Luo and Kikuyu voters
@@ -19,4 +19,4 @@ The cycle of Luo-Kikuyu alliance and rupture repeats because: (1) both groups ar
 
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

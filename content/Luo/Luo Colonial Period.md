@@ -32,9 +32,9 @@ Colonial education systems prepared Luo youth for subordinate roles in the colon
 
 ## Luo Response Relative to Other Communities
 
-The Luo response to colonialism is often contrasted with that of the Nandi (who mounted armed resistance under Koitalel Arap Samoei) or [[../Kikuyu/Kikuyu|Kikuyu]] (who resisted through the Mau Mau Rebellion in the 1950s). The Luo never waged comparable armed rebellion against colonial rule. Instead, Luo strategies centered on negotiation, legal petitioning (through associations like the Kavirondo Taxpayers Welfare Association), political organization, and eventually participation in nationalist movements led by figures like [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]].
+The Luo response to colonialism is often contrasted with that of the Nandi (who mounted armed resistance under Koitalel Arap Samoei) or [[../Kikuyu/Kikuyu|Kikuyu]] (who resisted through the Mau Mau Rebellion in the 1950s). The Luo never waged comparable armed rebellion against colonial rule. Instead, Luo strategies centered on negotiation, legal petitioning (through associations like the Kavirondo Taxpayers Welfare Association), political organization, and eventually participation in nationalist movements led by figures like [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]].
 
-This pattern reflected not weakness but strategic calculation: the Luo recognized early that armed resistance to British colonial power was futile, and instead invested in political mobilization, economic grievance advocacy, and participation in territorial-wide nationalist movements. This approach positioned key Luo leaders (such as [[Tom Mboya.md|Tom Mboya]] and Oginga Odinga) prominently in Kenya's independence struggle.
+This pattern reflected not weakness but strategic calculation: the Luo recognized early that armed resistance to British colonial power was futile, and instead invested in political mobilization, economic grievance advocacy, and participation in territorial-wide nationalist movements. This approach positioned key Luo leaders (such as [[Tom Mboya|Tom Mboya]] and Oginga Odinga) prominently in Kenya's independence struggle.
 
 ## Cross-links
 - [[Luo Origins]]
@@ -45,4 +45,4 @@ This pattern reflected not weakness but strategic calculation: the Luo recognize
 - [[../Kikuyu/Mau Mau Rebellion]] (hypothetical cross-ethnic link)
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

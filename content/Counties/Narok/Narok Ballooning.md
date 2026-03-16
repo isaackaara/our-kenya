@@ -28,7 +28,7 @@ The activity creates minimal environmental impact compared to ground-based touri
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Tourist Economy.md|Narok Tourist Economy]], [[[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve.md|Maasai Mara National Reserve]]
+See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]]
 
 
 ## See Also

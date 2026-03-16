@@ -43,7 +43,7 @@ The Luo diaspora (in the United States, Europe, Middle East, and other regions) 
 The actual future likely involves elements of all scenarios, with specific outcomes depending on political decisions, economic conditions, environmental changes, and Luo agency.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Luo Political History and Post-Raila Futures](Luo%20Politics%20Post-Raila.md) - Note examining Luo political transitions and post-Raila political trajectory

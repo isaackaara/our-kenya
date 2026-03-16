@@ -2,12 +2,12 @@ The Nandi represent one of the major [[../../Kalenjin/Kalenjin|Kalenjin]] sub-gr
 
 The Nandi maintained strong warrior traditions and martial capabilities that distinguished them from some neighbouring communities and contributed to their effective resistance to colonialism. Nandi oral traditions emphasize courage, resilience, and strategic capability in warfare. The Nandi language, closely related to other Kalenjin languages, remains spoken by many Nandi people alongside Swahili and English. Contemporary Nandi identity incorporates both traditional cultural elements and modern national and global influences. The Nandi people's prominence in distance running has become a significant element of contemporary ethnic identity, with running success associated with Nandi heritage. Religious affiliation has shifted dramatically from traditional Nandi religion toward Christianity, with the majority of Nandi now identifying as Christian while maintaining some traditional cultural practices.
 
-See also: [[../../Kalenjin/Kalenjin.md]]
+See also: [[../../Kalenjin/Kalenjin]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

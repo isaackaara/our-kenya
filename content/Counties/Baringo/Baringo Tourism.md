@@ -34,7 +34,7 @@ Water level changes, wildlife population fluctuations, and global travel trends 
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Lake Baringo.md|Lake Baringo]], [[Lake Baringo Birds.md|Lake Baringo Birds]]
+See also: [[Baringo County|Baringo County]], [[Lake Baringo|Lake Baringo]], [[Lake Baringo Birds|Lake Baringo Birds]]
 
 
 ## See Also

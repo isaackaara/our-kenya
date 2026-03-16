@@ -26,7 +26,7 @@ Beyond residential and commercial real estate, Kitengela's economy includes smal
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]], [[Kajiado Real Estate.md|Kajiado Real Estate]]
+See also: [[Kajiado County|Kajiado County]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]], [[Kajiado Real Estate|Kajiado Real Estate]]
 
 
 ## See Also

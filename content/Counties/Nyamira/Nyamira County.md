@@ -4,7 +4,7 @@ Nyamira County is a small highland county carved out of the former Kisii Distric
 
 The county is characterized by:
 - Highland elevation and cool climate
-- Mixed [[../../Kisii/Kisii.md|Gusii]] and [[../../Kalenjin/Kipsigis.md|Kipsigis]] ethnic composition
+- Mixed [[../../Kisii/Kisii|Gusii]] and [[../../Kalenjin/Kipsigis|Kipsigis]] ethnic composition
 - Tea as the dominant cash crop
 - Dense rural population with high economic activity
 - Nyamira town serving as county headquarters
@@ -25,8 +25,8 @@ Nyamira County is:
 ## Economic Base
 
 The county's economy rests primarily on:
-- [[Nyamira Tea.md|Tea]] farming and processing
-- [[Nyamira Dairy.md|Dairy]] production
+- [[Nyamira Tea|Tea]] farming and processing
+- [[Nyamira Dairy|Dairy]] production
 - Vegetable and fruit cultivation
 - Soapstone carving in some areas
 - Small-scale commerce and trade
@@ -35,20 +35,20 @@ The county's economy rests primarily on:
 ## Cultural Composition
 
 Nyamira's population includes:
-- [[../../Kisii/Kisii.md|Gusii]] people (primary ethnic group)
-- [[../../Kalenjin/Kipsigis.md|Kipsigis]] people (in eastern portions)
-- Links to broader [[../../Kalenjin/Kalenjin.md|Kalenjin]] identity in some areas
+- [[../../Kisii/Kisii|Gusii]] people (primary ethnic group)
+- [[../../Kalenjin/Kipsigis|Kipsigis]] people (in eastern portions)
+- Links to broader [[../../Kalenjin/Kalenjin|Kalenjin]] identity in some areas
 - Diverse religious communities
 - Increasing ethnic mixing through marriage and settlement
 
 ## See Also
 
-- [[Nyamira Gusii Heritage.md|Gusii Heritage]]
-- [[Nyamira Kipsigis.md|Kipsigis People]]
-- [[Nyamira Tea.md|Tea Industry]]
-- [[../../Kisii/Kisii County.md|Kisii County]]
-- [[../../Kalenjin/Kalenjin.md|Kalenjin People]]
-- [[Nyamira Creation.md|County Creation History]]
+- [[Nyamira Gusii Heritage|Gusii Heritage]]
+- [[Nyamira Kipsigis|Kipsigis People]]
+- [[Nyamira Tea|Tea Industry]]
+- [[../../Kisii/Kisii County|Kisii County]]
+- [[../../Kalenjin/Kalenjin|Kalenjin People]]
+- [[Nyamira Creation|County Creation History]]
 
 ## Governance
 
@@ -61,36 +61,36 @@ County governance includes:
 
 ## 30 Key Notes in This Vertical
 
-1. [[Nyamira Town.md]]
-2. [[Nyamira Creation.md]]
-3. [[Nyamira Gusii Heritage.md]]
-4. [[Nyamira Kipsigis.md]]
-5. [[Nyamira Tea.md]]
-6. [[Nyamira Agriculture.md]]
-7. [[Nyamira Politics.md]]
-8. [[Nyamira Infrastructure.md]]
-9. [[Nyamira Education.md]]
-10. [[Nyamira Health.md]]
-11. [[Nyamira Land.md]]
-12. [[Nyamira Youth.md]]
-13. [[Nyamira Women.md]]
-14. [[Nyamira Cultural Heritage.md]]
-15. [[Nyamira and Devolution.md]]
-16. [[Nyamira Climate.md]]
-17. [[Nyamira Dairy.md]]
-18. [[Nyamira Forests.md]]
-19. [[Nyamira NGOs.md]]
-20. [[Nyamira Notable People.md]]
-21. [[Nyamira Food Security.md]]
-22. [[Nyamira Real Estate.md]]
-23. [[Nyamira Water.md]]
-24. [[Nyamira Climate Change.md]]
-25. [[Nyamira Cooperatives.md]]
-26. [[Nyamira Religion.md]]
-27. [[Nyamira Diaspora.md]]
-28. [[Nyamira Food Culture.md]]
-29. [[Nyamira Timeline.md]]
-30. [[Nyamira Economy Overview.md]]
+1. [[Nyamira Town]]
+2. [[Nyamira Creation]]
+3. [[Nyamira Gusii Heritage]]
+4. [[Nyamira Kipsigis]]
+5. [[Nyamira Tea]]
+6. [[Nyamira Agriculture]]
+7. [[Nyamira Politics]]
+8. [[Nyamira Infrastructure]]
+9. [[Nyamira Education]]
+10. [[Nyamira Health]]
+11. [[Nyamira Land]]
+12. [[Nyamira Youth]]
+13. [[Nyamira Women]]
+14. [[Nyamira Cultural Heritage]]
+15. [[Nyamira and Devolution]]
+16. [[Nyamira Climate]]
+17. [[Nyamira Dairy]]
+18. [[Nyamira Forests]]
+19. [[Nyamira NGOs]]
+20. [[Nyamira Notable People]]
+21. [[Nyamira Food Security]]
+22. [[Nyamira Real Estate]]
+23. [[Nyamira Water]]
+24. [[Nyamira Climate Change]]
+25. [[Nyamira Cooperatives]]
+26. [[Nyamira Religion]]
+27. [[Nyamira Diaspora]]
+28. [[Nyamira Food Culture]]
+29. [[Nyamira Timeline]]
+30. [[Nyamira Economy Overview]]
 
 ## Sources
 

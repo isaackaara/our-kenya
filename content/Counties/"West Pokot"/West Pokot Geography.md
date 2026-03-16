@@ -8,12 +8,12 @@ Water is the most critical limiting resource in lowland pastoral zones. Pasture 
 
 ## See Also
 
-- [["West Pokot" County.md|"West Pokot" County]]
-- [["West Pokot" Politics.md|Politics]]
-- [["West Pokot" Agriculture.md|Agriculture]]
-- [["West Pokot" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["West Pokot" County|"West Pokot" County]]
+- [["West Pokot" Politics|Politics]]
+- [["West Pokot" Agriculture|Agriculture]]
+- [["West Pokot" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 1. https://en.wikipedia.org/wiki/West_Pokot_County
 2. https://www.kenyapedia.com/geography/west-pokot-county/

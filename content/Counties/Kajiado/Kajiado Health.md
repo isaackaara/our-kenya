@@ -24,7 +24,7 @@ Community health worker programs extend basic health services into pastoral area
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Climate Change.md|Kajiado Climate Change]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Climate Change|Kajiado Climate Change]]
 
 
 ## See Also

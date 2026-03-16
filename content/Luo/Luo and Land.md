@@ -33,7 +33,7 @@ The Luo relationship to land is thus more about spiritual and genealogical conti
 This differs from the Kikuyu emphasis on land as a commodity to be owned, subdivided, and accumulated. For the Luo, land is inherited, not invented; it belongs to lineages and clans rather than to individuals; and its primary meaning is genealogical and spiritual. Yet this does not mean the Luo are indifferent to land or to land disputes. Rather, their conflicts over land are framed in terms of clan rights, ancestral claims, and proper genealogy rather than in terms of individual property rights and market value.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 
@@ -41,6 +41,6 @@ This differs from the Kikuyu emphasis on land as a commodity to be owned, subdiv
 
 2. Daily Nation. (2025). "Luo families embrace private cemeteries amid urban growth and changing traditions." https://nation.africa/kenya/counties/luo-families-embrace-private-cemeteries-amid-urban-growth-and-changing-traditions--5130144
 
-3. Kenya News Agency. "When the nation wept: The Luo funeral rites for [[Raila Odinga.md|Raila Odinga]] laid bare." https://www.kenyanews.go.ke/when-the-nation-wept-the-luo-funeral-rites-for-raila-odinga-laid-bare/
+3. Kenya News Agency. "When the nation wept: The Luo funeral rites for [[Raila Odinga|Raila Odinga]] laid bare." https://www.kenyanews.go.ke/when-the-nation-wept-the-luo-funeral-rites-for-raila-odinga-laid-bare/
 
 4. The Star. (2025). "Raila burial a display of ageless Luo sacred rites rooted in traditional religion." https://www.the-star.co.ke/news/2025-10-20-raila-burial-display-of-luo-sacred-traditions

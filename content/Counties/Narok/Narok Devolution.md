@@ -28,7 +28,7 @@ Land governance, conservancy management, and benefit-sharing remain contested po
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Politics.md|Narok Politics]], [[Narok Infrastructure.md|Narok Infrastructure]]
+See also: [[Narok County|Narok County]], [[Narok Politics|Narok Politics]], [[Narok Infrastructure|Narok Infrastructure]]
 
 
 ## See Also

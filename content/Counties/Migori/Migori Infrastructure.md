@@ -30,12 +30,12 @@ Biogas, solar, kerosene, and wood represent primary household energy sources. Fu
 
 ## See Also
 
-- [[Migori County.md|Migori County]]
-- [[Migori Politics.md|Politics]]
-- [[Migori Agriculture.md|Agriculture]]
-- [[Migori Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Migori County|Migori County]]
+- [[Migori Politics|Politics]]
+- [[Migori Agriculture|Agriculture]]
+- [[Migori Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics. (2019). Infrastructure Census. https://statskenya.co.ke/

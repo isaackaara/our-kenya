@@ -1,4 +1,4 @@
-The [[Gusii People Kisii.md|Gusii]] people possess a rich cultural heritage encompassing distinctive practices in initiation rituals, marriage customs, musical traditions, and social organization. These cultural practices continue to shape identity and community life in contemporary [[Kisii County.md|Kisii County]].
+The [[Gusii People Kisii|Gusii]] people possess a rich cultural heritage encompassing distinctive practices in initiation rituals, marriage customs, musical traditions, and social organization. These cultural practices continue to shape identity and community life in contemporary [[Kisii County|Kisii County]].
 
 ## Initiation Practices
 
@@ -13,7 +13,7 @@ Initiation ceremonies continue to be practiced widely, though influenced by mode
 
 ## Marriage and Family Structure
 
-[[Gusii People Kisii.md|Gusii]] marriage practices include:
+[[Gusii People Kisii|Gusii]] marriage practices include:
 - Bride price (bride wealth) negotiations and transfer
 - Extended family involvement in marriage arrangements
 - Distinct marital and family rights and responsibilities
@@ -24,12 +24,12 @@ Modern Kenya's legal marriage frameworks now coexist with customary marriage pra
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Music.md|Music Traditions]]
-- [[Kisii Food Culture.md|Food Culture]]
-- [[Kisii Women.md|Women's Roles]]
-- [[../../Luo/Luo Religion and Cosmology.md|Religious Traditions Comparison]]
+- [[Kisii County|Kisii County]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Music|Music Traditions]]
+- [[Kisii Food Culture|Food Culture]]
+- [[Kisii Women|Women's Roles]]
+- [[../../Luo/Luo Religion and Cosmology|Religious Traditions Comparison]]
 
 ## Music and Dance Traditions
 

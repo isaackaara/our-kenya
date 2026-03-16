@@ -31,7 +31,7 @@ Dholuo has a rich oral literary tradition, with proverbs (sentenges) that encaps
 
 Dholuo oral storytelling (often by professional raconteurs or storytellers at social gatherings) preserves mythology, history, and moral instruction. Stories of legendary figures (such as Gor Mahia, a Luo wizard, or Ramogi, the mythical founder) are transmitted orally in Dholuo, anchoring cultural identity and historical consciousness.
 
-Contemporary Dholuo literature includes novels, short stories, and poetry written by Luo authors. [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]], one of Kenya's most celebrated authors, wrote stories and novels in Dholuo before publishing her works in English. Her novel "The Promised Land" (1966) addresses Luo themes of migration, identity, and cultural adaptation.
+Contemporary Dholuo literature includes novels, short stories, and poetry written by Luo authors. [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]], one of Kenya's most celebrated authors, wrote stories and novels in Dholuo before publishing her works in English. Her novel "The Promised Land" (1966) addresses Luo themes of migration, identity, and cultural adaptation.
 
 ## Linguistic Distance from Neighboring Languages
 
@@ -57,4 +57,4 @@ Dhochi represents a creative and playful dimension of Dholuo language use and de
 - [[Luo Religion and Cosmology]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

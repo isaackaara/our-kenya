@@ -28,7 +28,7 @@ Unemployment and underemployment create frustration and vulnerability to substan
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Education.md|Kajiado Education]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Education|Kajiado Education]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]]
 
 
 ## See Also

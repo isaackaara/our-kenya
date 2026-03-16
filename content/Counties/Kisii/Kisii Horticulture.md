@@ -1,4 +1,4 @@
-Vegetable and fruit production (horticulture) has grown as an important agricultural activity in [[Kisii County.md|Kisii County]], providing farmers with additional income and supplying regional markets with fresh produce. Horticulture complements [[Kisii Tea Industry.md|tea]] farming and contributes to household food security.
+Vegetable and fruit production (horticulture) has grown as an important agricultural activity in [[Kisii County|Kisii County]], providing farmers with additional income and supplying regional markets with fresh produce. Horticulture complements [[Kisii Tea Industry|tea]] farming and contributes to household food security.
 
 ## Vegetable Production
 
@@ -19,12 +19,12 @@ Fruit trees and cultivation include:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Food Culture.md|Food Culture]]
-- [[Kisii Farming Practices.md|Farming Practices]]
-- [[Kisii Population Density.md|Population Density]]
-- [[../../Maasai/Maasai and Dairy Industry.md|Dairy Comparison]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Food Culture|Food Culture]]
+- [[Kisii Farming Practices|Farming Practices]]
+- [[Kisii Population Density|Population Density]]
+- [[../../Maasai/Maasai and Dairy Industry|Dairy Comparison]]
 - Avocados grown in suitable areas
 - Passion fruit cultivation increasing
 - Mangoes and citrus in lower-altitude zones

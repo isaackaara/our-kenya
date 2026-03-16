@@ -39,7 +39,7 @@ Contemporary Luo men have faced economic disruption. The decline of fishing (due
 Contemporary Luo communities, like many African communities, report significant gender-based violence. Intimate partner violence, including wife-beating, persists despite being illegal. Some of this violence is rooted in the historical normalization of male physical discipline of wives; some reflects male economic frustration and loss of status. Efforts to combat gender violence in Luo communities have included NGO programs, community education, and legal enforcement, with partial but incomplete success.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Gender Stereotypes in the Luo Community of Kenya](https://www.academia.edu/5875746/GENDER_STEREOTYPE_A_PERSPECTIVE_OF_THE_LUO_COMMUNITY_KENYA) - Academic research examining traditional gender roles, stereotypes, and contemporary gender relations among the Luo, with analysis of female professional leadership

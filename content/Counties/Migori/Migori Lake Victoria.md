@@ -34,12 +34,12 @@ Fishing communities experience elevated HIV prevalence. Occupational hazards inc
 
 ## See Also
 
-- [[Migori County.md|Migori County]]
-- [[Migori Politics.md|Politics]]
-- [[Migori Agriculture.md|Agriculture]]
-- [[Migori Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [[Migori County|Migori County]]
+- [[Migori Politics|Politics]]
+- [[Migori Agriculture|Agriculture]]
+- [[Migori Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya Maritime Authority. (2023). Fishing Vessel Census. https://www.kma.go.ke/

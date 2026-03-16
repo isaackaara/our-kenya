@@ -22,7 +22,7 @@ Climate change, habitat loss, and human encroachment threaten the migration patt
 
 ## Cross-References
 
-See also: [[Maasai Mara National Reserve.md|Maasai Mara National Reserve]], [[Narok Wildlife.md|Narok Wildlife]], [[Narok Climate Change.md|Narok Climate Change]]
+See also: [[Maasai Mara National Reserve|Maasai Mara National Reserve]], [[Narok Wildlife|Narok Wildlife]], [[Narok Climate Change|Narok Climate Change]]
 
 
 ## See Also

@@ -30,7 +30,7 @@ Contemporary Nyandarua reflects successful settlement with established communiti
 
 ## See Also
 
-[[../../Kikuyu/Kikuyu.md]]
+[[../../Kikuyu/Kikuyu]]
 
 ## Sources
 

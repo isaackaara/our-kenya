@@ -16,7 +16,7 @@ The six were finally released in 1961, nine years after their arrest, two years 
 
 At independence in 1963, Oneko was elected to Parliament representing Nakuru Town Constituency. Kenyatta, who became independent Kenya's first president, appointed Oneko as the first Minister for Information, Broadcasting and Tourism, a significant appointment. Oneko's role in information and broadcasting put him in a position to shape Kenya's media narrative during the crucial early years of independence.
 
-However, Oneko's tenure was short. In 1966, dissatisfied with Kenyatta's increasingly authoritarian consolidation of power and disagreeing with the government's direction, Oneko quit the Cabinet and joined the Kenya People's Union (KPU), the socialist opposition party led by [[[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]]. This move demonstrated Oneko's principle: he was willing to sacrifice ministerial position to oppose what he saw as the betrayal of independence's democratic promise.
+However, Oneko's tenure was short. In 1966, dissatisfied with Kenyatta's increasingly authoritarian consolidation of power and disagreeing with the government's direction, Oneko quit the Cabinet and joined the Kenya People's Union (KPU), the socialist opposition party led by [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]. This move demonstrated Oneko's principle: he was willing to sacrifice ministerial position to oppose what he saw as the betrayal of independence's democratic promise.
 
 ## Opposition and Detention (1966-1975)
 
@@ -45,7 +45,7 @@ Oneko's life trajectory reflects several important patterns in Luo and Kenyan hi
 **Intersection of Journalism and Politics:** Oneko's role in information and broadcasting and his work as a journalist (before entering formal politics) demonstrates the historical connection between media work and politics in Kenya's Luo community.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Achieng Oneko - Wikipedia](https://en.wikipedia.org/wiki/Achieng_Oneko) - Comprehensive biographical entry documenting Oneko's life (1920-2007), arrest as Kapenguria Six member 1952-1961, ministerial service 1963-1966, KPU opposition, second detention 1969-1975, and return to Parliament 1992-1997

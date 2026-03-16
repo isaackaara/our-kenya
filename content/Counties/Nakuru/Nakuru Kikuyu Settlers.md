@@ -16,5 +16,5 @@
 ## Sources
 
 1. https://en.wikipedia.org/wiki/[[../../Kikuyu/Kikuyu|Kikuyu]]_people#Migration
-2. [[../../Kikuyu/Kikuyu.md]]
+2. [[../../Kikuyu/Kikuyu]]
 3. https://www.jstor.org/stable/40986268

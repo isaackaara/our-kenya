@@ -34,7 +34,7 @@ Government attempts to regulate land sales and protect pastoral interests throug
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Group Ranches.md|Kajiado Group Ranches]], [[Kajiado Maasai.md|Kajiado Maasai]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Group Ranches|Kajiado Group Ranches]], [[Kajiado Maasai|Kajiado Maasai]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]]
 
 
 ## See Also

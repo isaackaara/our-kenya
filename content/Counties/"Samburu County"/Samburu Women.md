@@ -18,12 +18,12 @@ Political representation of women in county government has increased following c
 
 ## See Also
 
-- [["Samburu County" County.md|"Samburu County" County]]
-- [["Samburu County" Politics.md|Politics]]
-- [["Samburu County" Agriculture.md|Agriculture]]
-- [["Samburu County" Education.md|Education]]
-- [[../../Conservation/Conservation.md|Conservation]]
-- [[../../Luo/Luo.md|Luo Ethnic Comparison]]
+- [["Samburu County" County|"Samburu County" County]]
+- [["Samburu County" Politics|Politics]]
+- [["Samburu County" Agriculture|Agriculture]]
+- [["Samburu County" Education|Education]]
+- [[../../Conservation/Conservation|Conservation]]
+- [[../../Luo/Luo|Luo Ethnic Comparison]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: Gender and Inequality Data, 2023. https://www.knbs.or.ke/

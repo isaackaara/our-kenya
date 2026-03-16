@@ -1,4 +1,4 @@
-The disputed 2007 presidential election, won by [[Raila Odinga.md|Raila Odinga]]'s Orange Democratic Movement (ODM) in polling but awarded by electoral commission to Mwai Kibaki's team, triggered the most severe violence in Kenya since independence. [[../Counties/Kisumu/Kisumu County|Kisumu County]] and the Nyanza region became epicenters of the conflict, with Luo communities experiencing both perpetration of violence and harsh state reprisal. The crisis forced national and international reckoning with Kenya's ethnic tensions and the fragility of its democratic institutions.
+The disputed 2007 presidential election, won by [[Raila Odinga|Raila Odinga]]'s Orange Democratic Movement (ODM) in polling but awarded by electoral commission to Mwai Kibaki's team, triggered the most severe violence in Kenya since independence. [[../Counties/Kisumu/Kisumu County|Kisumu County]] and the Nyanza region became epicenters of the conflict, with Luo communities experiencing both perpetration of violence and harsh state reprisal. The crisis forced national and international reckoning with Kenya's ethnic tensions and the fragility of its democratic institutions.
 
 ## Key Facts
 
@@ -18,4 +18,4 @@ The 2007-2008 violence reinforced narratives of Luo exclusion and victimization.
 
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

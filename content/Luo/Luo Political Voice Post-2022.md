@@ -1,10 +1,10 @@
-After [[Raila Odinga.md|Raila Odinga]]'s defeat in the August 2022 presidential election, the Luo community faced a moment of political recalibration and reflection. The post-2022 period represents a turning point in Luo political representation and raises questions about the future direction of Luo political leadership, generational transitions, and the Luo-Kikuyu political axis that has dominated Kenyan politics.
+After [[Raila Odinga|Raila Odinga]]'s defeat in the August 2022 presidential election, the Luo community faced a moment of political recalibration and reflection. The post-2022 period represents a turning point in Luo political representation and raises questions about the future direction of Luo political leadership, generational transitions, and the Luo-Kikuyu political axis that has dominated Kenyan politics.
 
 ## Raila's Defeat and Its Meaning
 
 Raila Odinga lost the 2022 presidential election to William Ruto, who won with 50.5 percent of the vote compared to Raila's 48.8 percent. While the election was hotly contested and Raila challenged the results through legal proceedings, the electoral defeat marked the first time Raila had lost a presidential election since 2007. The loss was particularly significant for Luo political consciousness, as Raila had become the paramount symbol of Luo political voice and national representation.
 
-The 2022 defeat was not simply a personal loss for Raila but had broader implications for Luo political positioning. For decades, the Luo had looked to Raila (and before him, [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]]) as the embodiment of Luo political interests at the national level. The loss raised questions about Luo political influence and strategic direction.
+The 2022 defeat was not simply a personal loss for Raila but had broader implications for Luo political positioning. For decades, the Luo had looked to Raila (and before him, [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]) as the embodiment of Luo political interests at the national level. The loss raised questions about Luo political influence and strategic direction.
 
 ## Raila's AU Commission Chair Nomination (2025)
 
@@ -24,7 +24,7 @@ The question of generational succession in Luo political leadership remains open
 
 ## Luo-Kikuyu Axis: Fracture or Reconstitution?
 
-The Luo-Kikuyu political relationship has been a central axis of Kenyan politics since independence. Jaramogi Oginga Odinga and [[Tom Mboya.md|Tom Mboya]] represented Luo political voice, while Kikuyu leaders (Jomo Kenyatta, then Daniel arap Moi despite being Tugen, though with Kikuyu elite support, then Kibaki, and Uhuru Kenyatta) represented Kikuyu political dominance. The relationship alternated between alliance and opposition, but the two communities remained central to national politics.
+The Luo-Kikuyu political relationship has been a central axis of Kenyan politics since independence. Jaramogi Oginga Odinga and [[Tom Mboya|Tom Mboya]] represented Luo political voice, while Kikuyu leaders (Jomo Kenyatta, then Daniel arap Moi despite being Tugen, though with Kikuyu elite support, then Kibaki, and Uhuru Kenyatta) represented Kikuyu political dominance. The relationship alternated between alliance and opposition, but the two communities remained central to national politics.
 
 The 2022 election marked a significant shift in this axis. William Ruto, a Kalenjin (from the Rift Valley), won the presidency with substantial Kikuyu and other community support but without Luo backing. The Luo voted decisively for Raila, but their votes were insufficient to elect him in a competitive national election.
 
@@ -71,4 +71,4 @@ Raila's positioning in continental African politics suggests that Luo leaders ca
 - [[Jaramogi Oginga Odinga]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

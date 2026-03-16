@@ -1,10 +1,10 @@
-[[Nyamira County.md|Nyamira County]] politics reflects ethnic composition, class divisions, and competition for resources. Political dynamics shape county governance and development prioritization following the county's creation in 2013.
+[[Nyamira County|Nyamira County]] politics reflects ethnic composition, class divisions, and competition for resources. Political dynamics shape county governance and development prioritization following the county's creation in 2013.
 
 ## Ethnic Dimensions
 
 Political competition involves:
-- [[../../Kisii/Kisii.md|Gusii]] majority representation
-- [[../../Kalenjin/Kipsigis.md|Kipsigis]] minority political participation
+- [[../../Kisii/Kisii|Gusii]] majority representation
+- [[../../Kalenjin/Kipsigis|Kipsigis]] minority political participation
 - Ethnic voting patterns
 - Competition for representation
 - Intercommunal political negotiations
@@ -22,12 +22,12 @@ County politics structured around:
 
 ## See Also
 
-- [[Nyamira County.md|Nyamira County]]
-- [[Nyamira Creation.md|County Creation]]
-- [[Nyamira Gusii Heritage.md|Gusii Heritage]]
-- [[Nyamira Kipsigis.md|Kipsigis Presence]]
-- [[Nyamira and Devolution.md|Devolution]]
-- [[../../Kisii/Kisii Politics.md|Kisii Politics Comparison]]
+- [[Nyamira County|Nyamira County]]
+- [[Nyamira Creation|County Creation]]
+- [[Nyamira Gusii Heritage|Gusii Heritage]]
+- [[Nyamira Kipsigis|Kipsigis Presence]]
+- [[Nyamira and Devolution|Devolution]]
+- [[../../Kisii/Kisii Politics|Kisii Politics Comparison]]
 
 ## Political Competition
 

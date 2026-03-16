@@ -30,7 +30,7 @@ Younger generations increasingly adopt urban lifestyles and non-pastoral occupat
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Tugen People.md|Tugen People]], [[Baringo Women.md|Baringo Women]]
+See also: [[Baringo County|Baringo County]], [[Tugen People|Tugen People]], [[Baringo Women|Baringo Women]]
 
 
 ## See Also

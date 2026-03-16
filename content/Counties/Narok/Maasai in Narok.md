@@ -18,7 +18,7 @@ Maasai cultural practices including beadwork, pastoral knowledge, and traditiona
 
 ## Cross-References
 
-See also: [[../../Maasai/Maasai.md|Maasai]], [[Narok County.md|Narok County]], [[Narok Tourist Economy.md|Narok Tourist Economy]], [[Narok Land Issues.md|Narok Land Issues]]
+See also: [[../../Maasai/Maasai|Maasai]], [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Narok Land Issues|Narok Land Issues]]
 
 
 ## See Also

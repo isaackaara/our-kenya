@@ -18,7 +18,7 @@ The Mara faces pressures from human encroachment, livestock grazing, habitat los
 
 ## Cross-References
 
-See also: [[The Great Migration.md|The Great Migration]], [[Maasai in Narok.md|Maasai in Narok]], [[Narok Tourist Economy.md|Narok Tourist Economy]], [[../../Maasai/Maasai.md|Maasai]]
+See also: [[The Great Migration|The Great Migration]], [[Maasai in Narok|Maasai in Narok]], [[Narok Tourist Economy|Narok Tourist Economy]], [[../../Maasai/Maasai|Maasai]]
 
 
 ## See Also

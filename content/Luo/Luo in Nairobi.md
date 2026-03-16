@@ -10,7 +10,7 @@ Eastlands communities, particularly areas like Umoja, Kariobangi, and Kayole, de
 
 ## The Professional Class
 
-Nairobi's Luo professional class emerged prominently from the 1960s onward. In journalism, Luo voices shaped Kenya's media landscape: [[Tom Mboya.md|Tom Mboya]]'s era saw early Luo journalists in print and radio. By the 21st century, Luo representation in broadcast media, newspapers, and digital journalism remained strong.
+Nairobi's Luo professional class emerged prominently from the 1960s onward. In journalism, Luo voices shaped Kenya's media landscape: [[Tom Mboya|Tom Mboya]]'s era saw early Luo journalists in print and radio. By the 21st century, Luo representation in broadcast media, newspapers, and digital journalism remained strong.
 
 In law and medicine, Luo professionals established themselves incrementally. The Luo Union and other community organizations facilitated networking for doctors, lawyers, civil servants, and accountants seeking peer support in a competitive market.
 
@@ -34,7 +34,7 @@ Inter-ethnic commercial networks often transcend simple ethnic categories, but L
 
 Kibera and Eastlands constituencies have returned Luo MPs in many electoral cycles. The 2007-2008 post-election violence had particularly acute impacts in Nairobi's Luo neighborhoods, with Kibera becoming a flashpoint. This moment illustrated both the political salience of the Luo electorate in the capital and the vulnerability of informal settlements during communal violence.
 
-[[Raila Odinga.md|Raila Odinga]]'s representation of Kibera constituency (1992-1997, 2001-2007) and later Langata made him the most visible Luo political figure in Nairobi, shaping the community's political trajectory.
+[[Raila Odinga|Raila Odinga]]'s representation of Kibera constituency (1992-1997, 2001-2007) and later Langata made him the most visible Luo political figure in Nairobi, shaping the community's political trajectory.
 
 ## Migration Patterns and Scale
 
@@ -47,7 +47,7 @@ Women migrants often preceded or arrived alongside men, establishing themselves 
 Contemporary Nairobi's Luo community faces questions of cultural maintenance amid rapid urbanization. Youth language shift, denominational fragmentation, and inter-marriage with other groups shape identity evolution. Simultaneously, economic networks, political organization, and diaspora consciousness continue to link Nairobi's Luo to Nyanza's rural heartland.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

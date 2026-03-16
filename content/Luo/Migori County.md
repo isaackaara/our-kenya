@@ -50,7 +50,7 @@ Migori County faces development challenges including limited infrastructure, wat
 - [[[[../Counties/Homa Bay/Homa Bay County|Homa Bay County]]]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]], [[Lake Victoria Deep Dive.md|Lake Victoria]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]], [[Lake Victoria Deep Dive|Lake Victoria]]
 
 ## Sources
 

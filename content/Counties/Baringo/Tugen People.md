@@ -26,7 +26,7 @@ Tugen cultural practices including ceremonies and traditions continue, though ad
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[../../Kalenjin/Kalenjin.md|Kalenjin]], [[Daniel arap Moi and Baringo.md|Daniel arap Moi and Baringo]]
+See also: [[Baringo County|Baringo County]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[Daniel arap Moi and Baringo|Daniel arap Moi and Baringo]]
 
 
 ## See Also

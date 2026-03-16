@@ -1,19 +1,19 @@
-The [[Gusii People Kisii.md|Gusii]] (Kisii) people have developed a distinctive musical tradition reflecting their cultural values, historical experiences, and contemporary life. Music remains integral to ceremonies, celebrations, and community identity.
+The [[Gusii People Kisii|Gusii]] (Kisii) people have developed a distinctive musical tradition reflecting their cultural values, historical experiences, and contemporary life. Music remains integral to ceremonies, celebrations, and community identity.
 
 ## Traditional Music
 
-[[Gusii People Kisii.md|Gusii]] traditional music features:
+[[Gusii People Kisii|Gusii]] traditional music features:
 - Drumming traditions using various drum types
 - Stringed instruments including lyres and guitars
 - Vocal styles and singing traditions
-- Rhythmic patterns characteristic of [[Gusii People Kisii.md|Gusii]] music
+- Rhythmic patterns characteristic of [[Gusii People Kisii|Gusii]] music
 - Music integrated with dance and movement
 
 Traditional instruments are played at ceremonies, celebrations, and community gatherings, preserving cultural heritage.
 
 ## Musical Instruments
 
-Traditional [[Gusii People Kisii.md|Gusii]] instruments include:
+Traditional [[Gusii People Kisii|Gusii]] instruments include:
 - Drums of various sizes and tones
 - The nyatiti (a stringed instrument)
 - Rattles and percussion instruments
@@ -35,7 +35,7 @@ Music enhances ceremonial significance and community participation in important 
 
 ## Contemporary Music Scene
 
-Modern [[Gusii People Kisii.md|Gusii]] musicians include:
+Modern [[Gusii People Kisii|Gusii]] musicians include:
 - Recording artists producing contemporary music
 - Popular musicians performing at venues and events
 - Bands and musical groups
@@ -44,12 +44,12 @@ Modern [[Gusii People Kisii.md|Gusii]] musicians include:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Cultural Heritage.md|Cultural Heritage]]
-- [[Kisii Food Culture.md|Food Culture]]
-- [[../../Luo/Luo Music Industry.md|Luo Music Comparison]]
-- [[../../Kalenjin/Kalenjin Music Traditions.md|Kalenjin Music]]
+- [[Kisii County|Kisii County]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Cultural Heritage|Cultural Heritage]]
+- [[Kisii Food Culture|Food Culture]]
+- [[../../Luo/Luo Music Industry|Luo Music Comparison]]
+- [[../../Kalenjin/Kalenjin Music Traditions|Kalenjin Music]]
 
 Contemporary Gusii music blends traditional elements with modern musical styles.
 

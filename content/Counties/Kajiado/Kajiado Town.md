@@ -18,7 +18,7 @@ Population growth reflects both natural increase and rural-urban migration as yo
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Infrastructure.md|Kajiado Infrastructure]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Infrastructure|Kajiado Infrastructure]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]]
 
 
 ## See Also

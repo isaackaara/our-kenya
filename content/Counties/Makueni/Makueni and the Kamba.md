@@ -10,7 +10,7 @@ Contemporary Makueni society remains demographically and culturally Kamba, thoug
 
 ## Related Links
 
-[[../../Kamba/Kamba.md]]
+[[../../Kamba/Kamba]]
 
 
 ## See Also

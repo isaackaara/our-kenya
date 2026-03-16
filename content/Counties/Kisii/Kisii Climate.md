@@ -1,15 +1,15 @@
-[[Kisii County.md|Kisii County]] experiences a highland climate characterized by relatively cool temperatures, high rainfall, and favorable agricultural conditions. The bimodal rainfall pattern (two rainy seasons) strongly influences agricultural cycles and economic activities.
+[[Kisii County|Kisii County]] experiences a highland climate characterized by relatively cool temperatures, high rainfall, and favorable agricultural conditions. The bimodal rainfall pattern (two rainy seasons) strongly influences agricultural cycles and economic activities.
 
 ## Climate Type
 
-[[Kisii County.md|Kisii's]] highland location (approximately 1,500 to 2,000 meters above sea level) creates:
+[[Kisii County|Kisii's]] highland location (approximately 1,500 to 2,000 meters above sea level) creates:
 - Cool temperatures year-round
 - Mean annual temperature approximately 16 to 18 degrees Celsius
 - Low temperature variability between seasons
 - Frequent cloud cover and mist
 - Relatively humid conditions
 
-The cool climate creates favorable conditions for [[Kisii Tea Industry.md|tea]] cultivation and other highland crops.
+The cool climate creates favorable conditions for [[Kisii Tea Industry|tea]] cultivation and other highland crops.
 
 ## Rainfall Pattern
 
@@ -24,12 +24,12 @@ The reliable bimodal rainfall pattern contrasts with drier regions and supports 
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Climate Change.md|Climate Change]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Tea Industry.md|Tea Production]]
-- [[Kisii Dairy.md|Dairy Farming]]
-- [[../../Conservation/Climate Change and Kenyan Wildlife.md|Wildlife Climate Impacts]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Climate Change|Climate Change]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Tea Industry|Tea Production]]
+- [[Kisii Dairy|Dairy Farming]]
+- [[../../Conservation/Climate Change and Kenyan Wildlife|Wildlife Climate Impacts]]
 
 ## Agricultural Implications
 

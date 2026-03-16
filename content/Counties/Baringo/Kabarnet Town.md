@@ -20,7 +20,7 @@ The town has government offices, health facilities, banks, and utility infrastru
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Infrastructure.md|Baringo Infrastructure]], [[Tugen People.md|Tugen People]]
+See also: [[Baringo County|Baringo County]], [[Baringo Infrastructure|Baringo Infrastructure]], [[Tugen People|Tugen People]]
 
 
 ## See Also

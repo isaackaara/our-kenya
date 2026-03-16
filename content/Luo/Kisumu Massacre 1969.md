@@ -6,9 +6,9 @@ The Kisumu Massacre did not occur in a vacuum. It was the culmination of escalat
 
 In January 1969, Argwings Kodhek, a prominent Luo lawyer and politician, was assassinated outside his home in Nairobi. Kodhek had been an outspoken critic of Kenyatta's policies and a voice for the excluded. His death shocked the Luo community and raised suspicions about government involvement.
 
-In July 1969, [[Tom Mboya.md|Tom Mboya]], one of the few remaining Luo in the upper echelons of government and widely touted as the potential heir to President Kenyatta, was assassinated outside a pharmacy in Nairobi. Mboya's death was catastrophic for the Luo. He had represented a pathway to continued influence within the KANU establishment. His assassination signaled that even prominent Luo within the system were vulnerable. The political atmosphere in the country was electric with tension and fear.
+In July 1969, [[Tom Mboya|Tom Mboya]], one of the few remaining Luo in the upper echelons of government and widely touted as the potential heir to President Kenyatta, was assassinated outside a pharmacy in Nairobi. Mboya's death was catastrophic for the Luo. He had represented a pathway to continued influence within the KANU establishment. His assassination signaled that even prominent Luo within the system were vulnerable. The political atmosphere in the country was electric with tension and fear.
 
-[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]], the former Vice President who had resigned from KANU in 1966 and founded the opposition Kenya Peoples Union (KPU), was seen by the government as a rival power center. The relationship between Odinga and Kenyatta, once cordial (they reportedly wore matching beaded hats and were inseparable in the early independence period), had fractured irreparably.
+[[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]], the former Vice President who had resigned from KANU in 1966 and founded the opposition Kenya Peoples Union (KPU), was seen by the government as a rival power center. The relationship between Odinga and Kenyatta, once cordial (they reportedly wore matching beaded hats and were inseparable in the early independence period), had fractured irreparably.
 
 ## The Events of October 25
 
@@ -33,7 +33,7 @@ The event also confirmed the pattern of political marginalization that would cha
 The massacre is remembered as "Dark Saturday," a day of transformation in Luo politics, leading to what one observer called "successive transactional political alliances as opposed to shared ideology." The Luo turned toward opposition politics, periodic alliances with other marginalized groups, and the assertion of ethnic identity as a source of solidarity and power.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

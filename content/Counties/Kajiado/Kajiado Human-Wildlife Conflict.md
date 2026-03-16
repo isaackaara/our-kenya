@@ -26,7 +26,7 @@ Wildlife conservation in Amboseli and surrounding areas depends partly on pastor
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Amboseli National Park.md|Amboseli National Park]], [[Kajiado Wildlife.md|Kajiado Wildlife]]
+See also: [[Kajiado County|Kajiado County]], [[Amboseli National Park|Amboseli National Park]], [[Kajiado Wildlife|Kajiado Wildlife]]
 
 
 ## See Also

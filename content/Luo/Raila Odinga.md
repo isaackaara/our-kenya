@@ -1,4 +1,4 @@
-Raila Amolo Odinga (born 1945) is the son of [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] and the most prominent Luo political figure of the post-Jaramogi era. Subjected to detention without trial and torture under Daniel arap Moi, Raila emerged in the multi-party period as the leader of the Orange Democratic Movement (ODM) and a four-time presidential candidate. His role as Prime Minister under Mwai Kibaki (2008-2013) and his controversial "Handshake" with Uhuru Kenyatta in 2018 have made him a central (and divisive) figure in Kenyan politics.
+Raila Amolo Odinga (born 1945) is the son of [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] and the most prominent Luo political figure of the post-Jaramogi era. Subjected to detention without trial and torture under Daniel arap Moi, Raila emerged in the multi-party period as the leader of the Orange Democratic Movement (ODM) and a four-time presidential candidate. His role as Prime Minister under Mwai Kibaki (2008-2013) and his controversial "Handshake" with Uhuru Kenyatta in 2018 have made him a central (and divisive) figure in Kenyan politics.
 
 ## Key Facts
 
@@ -18,4 +18,4 @@ Raila's career demonstrates both the possibilities and limits of ethnic-based po
 
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]], [[Lake Victoria Deep Dive.md|Lake Victoria]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]], [[Lake Victoria Deep Dive|Lake Victoria]]

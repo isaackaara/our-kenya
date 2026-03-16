@@ -1,21 +1,21 @@
-[[Kisii County.md|Kisii County's]] economy is primarily agricultural, centered on [[Kisii Tea Industry.md|tea]] cultivation and increasingly diversified farming activities. The county has established itself as one of Kenya's most economically dynamic rural regions despite challenges from land pressure and climate variability.
+[[Kisii County|Kisii County's]] economy is primarily agricultural, centered on [[Kisii Tea Industry|tea]] cultivation and increasingly diversified farming activities. The county has established itself as one of Kenya's most economically dynamic rural regions despite challenges from land pressure and climate variability.
 
 ## Primary Economic Sectors
 
 Agriculture dominates the economy through:
-- [[Kisii Tea Industry.md|Tea]] cultivation and processing
-- [[Kisii Dairy.md|Dairy]] farming and milk production
-- [[Kisii Horticulture.md|Vegetable]] and horticultural production
+- [[Kisii Tea Industry|Tea]] cultivation and processing
+- [[Kisii Dairy|Dairy]] farming and milk production
+- [[Kisii Horticulture|Vegetable]] and horticultural production
 - Maize and other staple crops
-- [[Kisii Soapstone.md|Soapstone carving]] and craft production
+- [[Kisii Soapstone|Soapstone carving]] and craft production
 - Livestock raising
 
 These sectors employ the majority of the county's population.
 
 ## Tea Industry
 
-[[Kisii Tea Industry.md|Tea]] remains the most important economic sector:
-- Approximately 90 percent of [[Kisii Tea Industry.md|tea]] production from smallholders
+[[Kisii Tea Industry|Tea]] remains the most important economic sector:
+- Approximately 90 percent of [[Kisii Tea Industry|tea]] production from smallholders
 - KTDA factory network processing and marketing leaf
 - Provides reliable income for farming families
 - Generates employment in processing and marketing
@@ -24,12 +24,12 @@ These sectors employ the majority of the county's population.
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Tea Industry.md|Tea Industry]]
-- [[Kisii Dairy.md|Dairy Farming]]
-- [[Kisii Soapstone.md|Soapstone Carving]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Trade and Commerce.md|Trade]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Tea Industry|Tea Industry]]
+- [[Kisii Dairy|Dairy Farming]]
+- [[Kisii Soapstone|Soapstone Carving]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Trade and Commerce|Trade]]
 
 Tea provides economic foundation for the county.
 

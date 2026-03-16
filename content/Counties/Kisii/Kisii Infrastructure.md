@@ -1,4 +1,4 @@
-[[Kisii County.md|Kisii County]] has developed substantial road and transportation infrastructure connecting the region to major Kenyan cities and neighboring counties. Infrastructure development remains ongoing as the county government prioritizes connectivity and service delivery.
+[[Kisii County|Kisii County]] has developed substantial road and transportation infrastructure connecting the region to major Kenyan cities and neighboring counties. Infrastructure development remains ongoing as the county government prioritizes connectivity and service delivery.
 
 ## Road Networks
 
@@ -28,12 +28,12 @@ Kisii town serves as a regional transportation hub with:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Town.md|Kisii Town]]
-- [[Kisii Economy Overview.md|County Economy]]
-- [[Kisii and Devolution.md|Devolution]]
-- [[Kisii Land Pressure.md|Land Issues]]
-- [[../../Conservation/SGR and Wildlife Corridors.md|Wildlife Corridors]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Town|Kisii Town]]
+- [[Kisii Economy Overview|County Economy]]
+- [[Kisii and Devolution|Devolution]]
+- [[Kisii Land Pressure|Land Issues]]
+- [[../../Conservation/SGR and Wildlife Corridors|Wildlife Corridors]]
 
 ## Water and Sanitation
 

@@ -10,7 +10,7 @@ Benga spread rapidly through Nairobi's bars, clubs, and recording studios. Radio
 
 ## Daniel Owino Misiani and Shirati Jazz
 
-Daniel Owino Misiani (22 February 1940 – 17 May 2006), known as D.O. Misiani, is the founding father of [[Benga Music Origins.md|Benga Music Origins]]. In 1967, Misiani formed Shirati Jazz, the principal major benga band that defined the genre's sound and philosophy.
+Daniel Owino Misiani (22 February 1940 – 17 May 2006), known as D.O. Misiani, is the founding father of [[Benga Music Origins|Benga Music Origins]]. In 1967, Misiani formed Shirati Jazz, the principal major benga band that defined the genre's sound and philosophy.
 
 Misiani drew inspiration from Luo traditional music and replaced the traditional nyatiti with electric guitars, retaining the fast tempos and complex rhythms he had learned at home. Shirati Jazz recorded hundreds of songs in both Luo and Swahili, making benga accessible to Swahili-speaking Kenyans and international audiences.
 
@@ -51,4 +51,4 @@ Misiani's legacy is immense: he took Luo oral tradition and transformed it into 
 **See also**: [[Luo Music and Culture]], [[Ohangla Music]], [[Nyatiti]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Lake Victoria Deep Dive.md|Lake Victoria]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Lake Victoria Deep Dive|Lake Victoria]]

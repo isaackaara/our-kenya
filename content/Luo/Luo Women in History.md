@@ -1,6 +1,6 @@
 While Luo history is often written through the lens of male political leaders and nationalist figures, Luo women have played crucial roles as cultural bearers, intellectuals, political actors, and social organizers. Understanding Luo history requires attending to women's experiences, contributions, and agency.
 
-## [[[[Grace Ogot Deep Dive.md|Grace Ogot]] Deep Dive.md|Grace Ogot Deep Dive]] (1930-2015)
+## [[Grace Ogot Deep Dive|Grace Ogot Deep Dive]] (1930-2015)
 
 Grace Emily Akinyi Ogot is the most prominent Luo woman writer and one of the first African women published in English. She was born in 1930 and published her first short stories in English in 1962 and 1964, making her among the first African women writers to be published in English. Her debut novel, "The Promised Land" (1966), was the first novel by a Kenyan woman writer and remains a work of lasting literary and cultural significance.
 
@@ -51,4 +51,4 @@ However, gender inequalities persist, including wage gaps, underrepresentation i
 - [[Luo Music and Culture]]
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

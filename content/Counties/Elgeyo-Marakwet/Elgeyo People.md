@@ -2,12 +2,12 @@ The Elgeyo (also spelled Keiyo) represent one of the [[../../Kalenjin/Kalenjin|K
 
 The Elgeyo language belongs to the Kalenjin language family and remains spoken by many Elgeyo people alongside Swahili and English. Elgeyo oral traditions, music, and cultural practices reflect pastoral heritage and adaptation to highland environments. Contemporary Elgeyo identity incorporates both traditional cultural elements and modern national and global influences. Christian missionary activity beginning in the colonial period gradually transformed Elgeyo religious landscape, with Christianity now dominant among Elgeyo populations. Traditional religious practices and beliefs persist among some communities, though largely in modified forms combined with Christianity. Elgeyo athletic prominence, particularly in distance running, has become integrated into contemporary ethnic identity. Land displacement during colonialism and ongoing environmental challenges have affected Elgeyo communities, though the highlands they inhabit remain agriculturally productive. Contemporary Elgeyo engage in diverse economic activities including agriculture, running and athletics, business, and service employment.
 
-See also: [[../../Kalenjin/Kalenjin.md]]
+See also: [[../../Kalenjin/Kalenjin]]
 
 
 ## See Also
 
-[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation.md|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
+[[../../Luhya/Luhya|Luhya]], [[../../Kalenjin/Kalenjin|Kalenjin]], [[../../Kikuyu/Kikuyu|Kikuyu]], [[../../Conservation/Conservation|Conservation]], [[../../Conservation/Conservation Timeline Kenya|Conservation Timeline]]
 
 ## Sources
 

@@ -41,7 +41,7 @@ The Meru believe that ancestors (the deceased) remain present in the community a
 
 Elders (athuri) held ritual knowledge and performed ceremonies on behalf of families and the community. Specific elders might specialize in rain-making, healing, divination, or other ritual functions.
 
-The mugwe, discussed in detail in [[The Mugwe.md]], was a particularly powerful ritual specialist with explicit spiritual authority.
+The mugwe, discussed in detail in [[The Mugwe]], was a particularly powerful ritual specialist with explicit spiritual authority.
 
 ## Sacred Groves and Ritual Sites
 

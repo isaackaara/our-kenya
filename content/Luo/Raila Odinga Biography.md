@@ -2,7 +2,7 @@ Raila Amolo Odinga stands as the most politically consequential Luo figure of th
 
 ## Early Life and Family
 
-Raila was born on January 7, 1945, to [[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga.md|Jaramogi Oginga Odinga]] and Vera Nyarwaya. His father's prominence as Kenya's first Vice President shaped his early trajectory and consciousness. Growing up in political households (Nairobi and later Siaya), Raila absorbed politics from childhood.
+Raila was born on January 7, 1945, to [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] and Vera Nyarwaya. His father's prominence as Kenya's first Vice President shaped his early trajectory and consciousness. Growing up in political households (Nairobi and later Siaya), Raila absorbed politics from childhood.
 
 His father's fall from political grace (resigning from KANU in 1966, founding KPU, imprisonment 1969-1971) exposed young Raila to political turbulence and systemic injustice. These experiences apparently crystallized his understanding of power, opposition, and political struggle.
 
@@ -101,7 +101,7 @@ Supporters credit him with anti-corruption rhetoric, developmental orientation, 
 His relationship with his aging father's legacy remains complicated: inheriting political inheritance while also seeking independent identity.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

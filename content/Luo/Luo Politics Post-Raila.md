@@ -1,4 +1,4 @@
-In 2024, [[Raila Odinga.md|Raila Odinga]], Kenya's dominant opposition leader for nearly two decades, pivoted away from electoral politics to pursue the African Union Commission Chairperson position. This transition marked a generational and strategic shift in Luo political leadership. The question of what Luo politics looks like after Raila, and whether the Luo will develop a new political strategy or remain defined by perpetual opposition, remains unresolved as of 2026.
+In 2024, [[Raila Odinga|Raila Odinga]], Kenya's dominant opposition leader for nearly two decades, pivoted away from electoral politics to pursue the African Union Commission Chairperson position. This transition marked a generational and strategic shift in Luo political leadership. The question of what Luo politics looks like after Raila, and whether the Luo will develop a new political strategy or remain defined by perpetual opposition, remains unresolved as of 2026.
 
 ## Raila's Departure: The 2024 Pivot
 
@@ -59,7 +59,7 @@ What are the Luo's material interests and demands from government, and how will 
 These questions will shape Luo politics in the coming years, determining whether Luo communities find sustainable political influence or remain structurally marginalized.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [Raila Odinga - Wikipedia](https://en.wikipedia.org/wiki/Raila_Odinga) - Biographical overview of Raila's five presidential electoral contests and political career trajectory leading toward 2024 AU Commission bid

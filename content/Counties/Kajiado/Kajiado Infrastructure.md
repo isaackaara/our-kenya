@@ -24,7 +24,7 @@ Mobile phone coverage has expanded substantially, providing communication access
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Town.md|Kajiado Town]], [[Kajiado Real Estate.md|Kajiado Real Estate]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Town|Kajiado Town]], [[Kajiado Real Estate|Kajiado Real Estate]]
 
 
 ## See Also

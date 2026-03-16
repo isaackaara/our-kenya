@@ -28,7 +28,7 @@ Tourism provides employment as guides, hospitality staff, drivers, and support w
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Amboseli National Park.md|Amboseli National Park]], [[Chyulu Hills.md|Chyulu Hills]]
+See also: [[Kajiado County|Kajiado County]], [[Amboseli National Park|Amboseli National Park]], [[Chyulu Hills|Chyulu Hills]]
 
 
 ## See Also

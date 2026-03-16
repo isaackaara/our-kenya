@@ -28,7 +28,7 @@ Political competition increasingly reflects divergent development priorities inc
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Kajiado Devolution.md|Kajiado Devolution]]
+See also: [[Kajiado County|Kajiado County]], [[Kajiado Devolution|Kajiado Devolution]]
 
 
 ## See Also

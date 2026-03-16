@@ -28,7 +28,7 @@ Ngong's Karen Blixen associations attract literary tourism and heritage visitors
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Ngong Hills.md|Ngong Hills]], [[Nairobi Expansion into Kajiado.md|Nairobi Expansion into Kajiado]]
+See also: [[Kajiado County|Kajiado County]], [[Ngong Hills|Ngong Hills]], [[Nairobi Expansion into Kajiado|Nairobi Expansion into Kajiado]]
 
 
 ## See Also

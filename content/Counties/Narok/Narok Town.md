@@ -12,7 +12,7 @@ The town is connected to Nairobi via the main road (currently undergoing improve
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[[[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve.md|Maasai Mara National Reserve]], [[Narok Infrastructure.md|Narok Infrastructure]]
+See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]], [[Narok Infrastructure|Narok Infrastructure]]
 
 
 ## See Also

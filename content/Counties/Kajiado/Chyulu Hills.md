@@ -24,7 +24,7 @@ The Chyulu Hills have received designation as a protected conservation area in s
 
 ## Cross-References
 
-See also: [[Kajiado County.md|Kajiado County]], [[Amboseli National Park.md|Amboseli National Park]], [[Kajiado Tourism.md|Kajiado Tourism]]
+See also: [[Kajiado County|Kajiado County]], [[Amboseli National Park|Amboseli National Park]], [[Kajiado Tourism|Kajiado Tourism]]
 
 
 ## See Also

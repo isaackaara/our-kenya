@@ -10,7 +10,7 @@ The colonial provincial administration worked with appointed chiefs and headmen 
 
 After independence, Nyanza Province remained a significant administrative unit under both President Jomo Kenyatta (1964-1978) and President Daniel arap Moi (1978-2002). The province's political management became a key concern for the central government, particularly given the Luo presence and the region's association with opposition politics.
 
-Under Kenyatta, the Kisumu Massacre of 1969 and the subsequent banning of [[[[[[Jaramogi Oginga Odinga.md|Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]] Oginga Odinga.md|Jaramogi Oginga Odinga]]'s Kenya Peoples Union (KPU) transformed Nyanza into a politically controlled space. The province was effectively placed under closer surveillance and administration to prevent the spread of opposition sentiment. The political marginalization of Nyanza became a deliberate strategy of the Kenyatta government.
+Under Kenyatta, the Kisumu Massacre of 1969 and the subsequent banning of [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]'s Kenya Peoples Union (KPU) transformed Nyanza into a politically controlled space. The province was effectively placed under closer surveillance and administration to prevent the spread of opposition sentiment. The political marginalization of Nyanza became a deliberate strategy of the Kenyatta government.
 
 Under Moi's rule (1978-2002), the political marginalization of Nyanza and the Luo continued and intensified. Influential administrators served as provincial commissioners for extended periods, managing the province as a distinct political unit requiring special attention. By the 1980s and 1990s, amid Moi's one-party state, Nyanza's Luo-dominated population faced systematic exclusion from patronage networks and security force recruitment. The province received proportionally fewer government resources than regions closer to the political center or regions dominated by Moi's Kalenjin ethnic group.
 
@@ -33,7 +33,7 @@ Throughout its history as a province, Nyanza served as an administrative space t
 The provincial administration served as both a practical tool of governance and a symbol of collective identity. For Luo and other residents, the province was a space of connection and belonging, a frame through which they understood their relationship to the broader Kenyan state.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 

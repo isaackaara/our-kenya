@@ -27,11 +27,11 @@ This knowledge base covers:
 
 ## Key Entry Points
 
-- If you're exploring Meru governance, start with [[Njuri Ncheke.md]]
-- If you're studying the miraa economy, see [[Miraa Economy.md]] and [[Miraa Trade Routes.md]]
-- If you're interested in Meru sub-group distinctiveness, read [[Meru Sub-groups.md]]
-- If you want to understand Meru political history, [[Kiraitu Murungi.md]] and [[Peter Munya.md]] provide case studies
-- If you're researching Mount Kenya peoples connections, see [[Meru and the Kikuyu.md]]
+- If you're exploring Meru governance, start with [[Njuri Ncheke]]
+- If you're studying the miraa economy, see [[Miraa Economy]] and [[Miraa Trade Routes]]
+- If you're interested in Meru sub-group distinctiveness, read [[Meru Sub-groups]]
+- If you want to understand Meru political history, [[Kiraitu Murungi]] and [[Peter Munya]] provide case studies
+- If you're researching Mount Kenya peoples connections, see [[Meru and the Kikuyu]]
 
 The Meru remain a living culture with ancient traditions (the [[Njuri Ncheke]] still adjudicates disputes), contemporary challenges (the 2014 UK [[miraa]] ban), and emerging youth identities (educated Meru in Nairobi and diaspora communities).
 

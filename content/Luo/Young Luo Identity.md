@@ -18,7 +18,7 @@ For many young urban Luo, the lake (Nam Lolwe) and fishing are historically and 
 
 ## Political Identity and Electoral Behavior
 
-Young Luo experienced the 2007 postelectoral violence or came of age hearing stories about it. Many know [[Raila Odinga.md|Raila Odinga]] primarily as an aging, repeatedly defeated political figure, not as the revolutionary opposition leader their parents revered. The opposition identity, central to their parents' political consciousness, feels less compelling to some young Luo, who are more focused on pragmatic governance and personal economic advancement.
+Young Luo experienced the 2007 postelectoral violence or came of age hearing stories about it. Many know [[Raila Odinga|Raila Odinga]] primarily as an aging, repeatedly defeated political figure, not as the revolutionary opposition leader their parents revered. The opposition identity, central to their parents' political consciousness, feels less compelling to some young Luo, who are more focused on pragmatic governance and personal economic advancement.
 
 However, the 2007 violence and other historical grievances remain politically significant. Young Luo are aware of narratives of Luo marginalization and historical injustices. Some embrace the opposition identity as a matter of principle; others view it as outdated. Voting patterns among young Luo in recent elections have been somewhat less monolithic than in their parents' generation, with some young Luo voting for non-opposition candidates if they perceive better local governance or personal benefit.
 
@@ -51,7 +51,7 @@ Despite transformations, some aspects of Luo identity persist: pride in Luo hist
 The central unresolved question is whether young Luo will develop and transmit a distinctive Luo cultural identity to their children, or whether Luo identity will become increasingly nominal (a historical heritage acknowledged but not lived). The answer likely varies widely depending on urban/rural location, education, and individual choice.
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Jaramogi Oginga Odinga.md|Oginga Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]
 
 ## Sources
 1. [2026 Teen Slang Dictionary and Youth Culture Trends](https://gabb.com/blog/teen-slang/) - Contemporary guide to Gen Z language, cultural preferences, and identity formation in 2026 global context

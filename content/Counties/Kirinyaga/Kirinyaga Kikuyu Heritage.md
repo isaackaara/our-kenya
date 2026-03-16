@@ -18,7 +18,7 @@ Land carries profound cultural meaning within Kikuyu society. Ancestral lands, l
 
 ## See Also
 
-[[../../Kikuyu/Kikuyu.md]]
+[[../../Kikuyu/Kikuyu]]
 
 ## Sources
 

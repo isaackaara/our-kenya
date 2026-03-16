@@ -1,12 +1,12 @@
-Women play central roles in [[Kisii County.md|Kisii County's]] agricultural economy and society, contributing substantially to household food security, income generation, and community development. Despite their contributions, women face persistent challenges in accessing resources and decision-making power.
+Women play central roles in [[Kisii County|Kisii County's]] agricultural economy and society, contributing substantially to household food security, income generation, and community development. Despite their contributions, women face persistent challenges in accessing resources and decision-making power.
 
 ## Agricultural Production
 
 Women's agricultural roles include:
 - Primary responsibility for food crop production for household consumption
-- Labor in cash crop production, particularly [[Kisii Tea Industry.md|tea]] farming
+- Labor in cash crop production, particularly [[Kisii Tea Industry|tea]] farming
 - Vegetable cultivation and horticulture activities
-- [[Kisii Dairy.md|Livestock]] care and dairy production
+- [[Kisii Dairy|Livestock]] care and dairy production
 - Farm management and household food security
 
 Women farmers often operate smaller plots than men and have less secure land tenure, limiting their ability to invest in land improvements and accessing agricultural credit.
@@ -16,7 +16,7 @@ Women farmers often operate smaller plots than men and have less secure land ten
 Beyond agriculture, women engage in:
 - Small-scale trading and commerce
 - Food processing and value addition
-- Craft production, including [[Kisii Soapstone.md|soapstone carving]] assistance
+- Craft production, including [[Kisii Soapstone|soapstone carving]] assistance
 - Service provision in markets and towns
 - Hawking and petty retail activities
 
@@ -29,12 +29,12 @@ Women's land rights face constraints including:
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Agriculture.md|Agriculture]]
-- [[Kisii Tea Industry.md|Tea Farming]]
-- [[Kisii Politics.md|County Politics]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[../../Luo/Luo Women.md|Luo Women Comparison]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Agriculture|Agriculture]]
+- [[Kisii Tea Industry|Tea Farming]]
+- [[Kisii Politics|County Politics]]
+- [[Gusii People Kisii|Gusii People]]
+- [[../../Luo/Luo Women|Luo Women Comparison]]
 - Limited property ownership security
 - Difficulty inheriting land from husbands or fathers
 - Vulnerability to dispossession after widowhood

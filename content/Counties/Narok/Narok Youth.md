@@ -28,7 +28,7 @@ Alcohol and drug use present growing concerns in trading centers and urban areas
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Narok Education.md|Narok Education]], [[Narok Diaspora.md|Narok Diaspora]]
+See also: [[Narok County|Narok County]], [[Narok Education|Narok Education]], [[Narok Diaspora|Narok Diaspora]]
 
 
 ## See Also

@@ -11,7 +11,7 @@ The towering Luo political figure of 20th-century Kenya. Jaramogi Amollo Oginga 
 - **Autobiography**: Jaramogi is credited with the phrase "Not Yet Uhuru" (*uhuru* means freedom in Swahili), which became the title of his 1967 autobiography. The phrase captured his belief that even after independence from British colonialism, Kenya had not achieved true freedom due to the oppression of political opposition
 - **Return (1991-1994)**: In 1991, he co-founded the Forum for the Restoration of Democracy (FORD), which ultimately helped end KANU's 40-year monopoly. He ran for president on the FORD-Kenya ticket in 1992 and finished fourth with 17.5% of votes, then reclaimed his Bondo parliamentary seat after over two decades away from Parliament
 - **Death and legacy**: Died 20 January 1994 in Aga Khan Hospital, Kisumu. Buried at the Jaramogi Oginga Odinga Mausoleum in his Bondo home
-- **17 children including Raila**: Jaramogi was polygamous with four wives (Mary Juma, Gaudencia Adeya, Susan Agik, Betty Adongo). His son [[Raila Odinga.md|Raila Odinga]] went on to become Kenya's Prime Minister (2008-2012) and a major political figure in the 2018 post-election rapprochement with President Uhuru Kenyatta
+- **17 children including Raila**: Jaramogi was polygamous with four wives (Mary Juma, Gaudencia Adeya, Susan Agik, Betty Adongo). His son [[Raila Odinga|Raila Odinga]] went on to become Kenya's Prime Minister (2008-2012) and a major political figure in the 2018 post-election rapprochement with President Uhuru Kenyatta
 
 ## Capitalism vs. Socialism
 
@@ -23,4 +23,4 @@ The title *Jaramogi* (man of Ramogi) was not self-chosen but granted by Luo elde
 
 ## See Also
 
-[[Siaya County.md|Siaya County]], [[Homa Bay County.md|Homa Bay County]], [[Migori County.md|Migori County]], [[Tom Mboya.md|Tom Mboya]], [[Raila Odinga.md|Raila Odinga]], [[Grace Ogot Deep Dive.md|Grace Ogot]], [[Benga Music Origins.md|Benga Music]], [[Lake Victoria Deep Dive.md|Lake Victoria]]
+[[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]], [[Lake Victoria Deep Dive|Lake Victoria]]

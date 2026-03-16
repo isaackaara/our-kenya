@@ -34,7 +34,7 @@ Tharaka maintain distinct cultural practices:
 
 ## Economic Base
 
-(See [[Tharaka Economy.md]] for detailed economic discussion)
+(See [[Tharaka Economy]] for detailed economic discussion)
 
 The Tharaka economy is based on:
 

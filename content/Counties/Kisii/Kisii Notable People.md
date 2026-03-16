@@ -1,4 +1,4 @@
-[[Kisii County.md|Kisii County]] has produced numerous prominent Kenyans who have contributed significantly to the nation's political, economic, educational, and cultural development. These individuals have shaped Kenya's trajectory in various fields.
+[[Kisii County|Kisii County]] has produced numerous prominent Kenyans who have contributed significantly to the nation's political, economic, educational, and cultural development. These individuals have shaped Kenya's trajectory in various fields.
 
 ## Political Leaders
 
@@ -20,16 +20,16 @@ Educational leaders from the region include:
 - International scholars
 - Teachers advancing educational standards
 
-Education remains highly valued in [[Kisii County.md|Kisii]] culture, producing numerous professionals in academia and educational administration.
+Education remains highly valued in [[Kisii County|Kisii]] culture, producing numerous professionals in academia and educational administration.
 
 ## See Also
 
-- [[Kisii County.md|Kisii County]]
-- [[Kisii Politics.md|Politics]]
-- [[Kisii Education.md|Education]]
-- [[Gusii People Kisii.md|Gusii People]]
-- [[Kisii Women.md|Women Leaders]]
-- [[../../Luo/Tom Mboya.md|Tom Mboya - Comparative Figure]]
+- [[Kisii County|Kisii County]]
+- [[Kisii Politics|Politics]]
+- [[Kisii Education|Education]]
+- [[Gusii People Kisii|Gusii People]]
+- [[Kisii Women|Women Leaders]]
+- [[../../Luo/Tom Mboya|Tom Mboya - Comparative Figure]]
 
 ## Business and Entrepreneurship
 

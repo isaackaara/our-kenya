@@ -30,7 +30,7 @@ Younger generations increasingly adopt urban lifestyles, formal education, and n
 
 ## Cross-References
 
-See also: [[Narok County.md|Narok County]], [[Maasai in Narok.md|Maasai in Narok]], [[Narok Women.md|Narok Women]], [[../../Maasai/Maasai.md|Maasai]]
+See also: [[Narok County|Narok County]], [[Maasai in Narok|Maasai in Narok]], [[Narok Women|Narok Women]], [[../../Maasai/Maasai|Maasai]]
 
 
 ## See Also

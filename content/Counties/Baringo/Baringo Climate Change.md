@@ -32,7 +32,7 @@ Pastoral communities employ adaptation strategies including early warning system
 
 ## Cross-References
 
-See also: [[Baringo County.md|Baringo County]], [[Baringo Climate.md|Baringo Climate]], [[Lake Baringo Water Level.md|Lake Baringo Water Level]]
+See also: [[Baringo County|Baringo County]], [[Baringo Climate|Baringo Climate]], [[Lake Baringo Water Level|Lake Baringo Water Level]]
 
 
 ## See Also
