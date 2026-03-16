@@ -1,5 +1,7 @@
 ---
 title: Explore by Theme
+cssclasses:
+  - homepage
 ---
 
 <div class="ok-verticals">
