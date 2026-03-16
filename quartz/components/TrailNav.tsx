@@ -477,6 +477,36 @@ export default ((opts?: TrailNavOptions) => {
       font-size: 0.8rem;
     }
   }
+
+  /* Light mode overrides - all hardcoded white becomes readable */
+  [saved-theme="light"] .trail-nav-top {
+    border-color: #1b3d2f;
+    background: #f5f0e8;
+  }
+  [saved-theme="light"] .trail-history-strip {
+    background: #1b3d2f;
+    color: #f5f0e8;
+    border-bottom-color: rgba(0,0,0,0.15);
+  }
+  [saved-theme="light"] .trail-card-main { color: #111; }
+  [saved-theme="light"] .trail-back-link { color: #1b3d2f; }
+  [saved-theme="light"] .trail-name { color: #111; }
+  [saved-theme="light"] .trail-dot.completed { background: #1b3d2f; }
+  [saved-theme="light"] .trail-dot.current {
+    background: #1b3d2f;
+    box-shadow: 0 0 0 2px rgba(27,61,47,0.3);
+  }
+  [saved-theme="light"] .trail-dot.remaining { border-color: #1b3d2f; }
+  [saved-theme="light"] .trail-position,
+  [saved-theme="light"] .trail-other { color: #333; }
+  [saved-theme="light"] .trail-top-nav { border-top-color: rgba(0,0,0,0.12); }
+  [saved-theme="light"] .trail-top-prev,
+  [saved-theme="light"] .trail-top-next {
+    color: #111;
+    border-color: rgba(0,0,0,0.25);
+  }
+  [saved-theme="light"] .trail-top-prev:hover,
+  [saved-theme="light"] .trail-top-next:hover { background: rgba(0,0,0,0.06); }
   `
 
   return TrailNav

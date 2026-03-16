@@ -15,6 +15,10 @@ cssclasses:
 </div>
 </div>
 
+<div id="ok-surprise-wrap"></div>
+
+<div id="ok-daily-note"></div>
+
 ## Explore by storyline
 
 Ten journeys that changed how we see Kenya. Each one pulls you deeper.

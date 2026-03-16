@@ -9,6 +9,10 @@ export const sharedPageComponents: SharedLayout = {
     Component.FloatingContribute(),
     Component.KnowledgeGraphs(),
     Component.DailyThemeGrid(),
+    Component.SurpriseMe(),
+    Component.DailyNote(),
+    Component.TrailScores(),
+    Component.TrailMoodFilter(),
     Component.ConditionalRender({
       component: Component.ContributeForm(),
       condition: (page) => page.fileData.slug === "contribute",

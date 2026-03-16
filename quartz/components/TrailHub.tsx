@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { trails, stopHref } from "../trails"
+// @ts-ignore
+import trailHubScript from "./scripts/trail-hub.inline"
 
 // Inline styles
 const TrailHubCSS = `
@@ -280,85 +282,10 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
         ))}
       </div>
       
-      <script dangerouslySetInnerHTML={{
-        __html: `
-(function() {
-  const trailData = ${JSON.stringify(trails.map(t => ({ 
-    name: t.name, 
-    category: t.category,
-    description: t.description,
-    firstStop: t.stops.length > 0 ? '/' + t.stops[0].slug.split('/').map((seg: string) => seg.replace(/\s/g, '-').replace(/&/g, '-and-').replace(/%/g, '-percent')).join('/') : '/Trails/' + t.name.replace(/\\s+/g, '-').replace(/[^a-zA-Z0-9:-]/g, '')
-  })))};
-  
-  const total = trailData.length;
-  
-  function init() {
-    const searchInput = document.getElementById('trail-search');
-    const categoryTabs = document.querySelectorAll('.trail-category-tab');
-    const trailCards = document.querySelectorAll('.trail-card');
-    const trailCount = document.getElementById('trail-count');
-    const randomBtn = document.getElementById('random-trail-btn');
-    
-    if (!searchInput || !randomBtn || !trailCount) return;
-    
-    let activeCategory = 'All';
-    let searchQuery = '';
-    
-    function updateDisplay() {
-      let visibleCount = 0;
-      trailCards.forEach(card => {
-        const category = card.getAttribute('data-category');
-        const name = card.getAttribute('data-name') || '';
-        const description = card.getAttribute('data-description') || '';
-        const categoryMatch = activeCategory === 'All' || category === activeCategory;
-        const searchMatch = searchQuery === '' || name.includes(searchQuery) || description.includes(searchQuery);
-        if (categoryMatch && searchMatch) {
-          card.style.display = '';
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-      trailCount.textContent = 'Showing ' + visibleCount + ' of ' + total + ' trails';
-    }
-    
-    categoryTabs.forEach(tab => {
-      tab.addEventListener('click', () => {
-        categoryTabs.forEach(t => t.classList.remove('active'));
-        tab.classList.add('active');
-        activeCategory = tab.getAttribute('data-category') || 'All';
-        updateDisplay();
-      });
-    });
-    
-    searchInput.addEventListener('input', (e) => {
-      searchQuery = e.target.value.toLowerCase();
-      updateDisplay();
-    });
-    
-    randomBtn.addEventListener('click', () => {
-      const visible = [];
-      trailCards.forEach((card, i) => {
-        if (card.style.display !== 'none') visible.push(i);
-      });
-      if (visible.length > 0) {
-        const pick = visible[Math.floor(Math.random() * visible.length)];
-        window.location.href = trailData[pick].firstStop;
-      }
-    });
-  }
-  
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
-  }
-  document.addEventListener('nav', init);
-})();
-        `
-      }} />
     </div>
   )
 }
+
+TrailHub.afterDOMLoaded = trailHubScript
 
 export default (() => TrailHub) satisfies QuartzComponentConstructor

@@ -655,11 +655,10 @@ document.addEventListener("nav", () => {
   }
 })
 
-// Run unconditionally with staggered retries.
-// type="module" postscript runs after Quartz fires nav on DOMContentLoaded,
-// so the listener misses the initial nav. Retries cover Quartz SPA DOM replacement.
+// MutationObserver + staggered retries: fires when #ok-knowledge-graphs
+// appears in DOM regardless of Quartz SPA nav/module timing.
 tryInit()
 setTimeout(tryInit, 150)
-setTimeout(tryInit, 400)
-setTimeout(tryInit, 900)
-window.addEventListener("load", tryInit)
+setTimeout(tryInit, 500)
+const _kgObserver = new MutationObserver(() => { tryInit() })
+_kgObserver.observe(document.body, { childList: true, subtree: false })

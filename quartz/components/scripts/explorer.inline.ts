@@ -319,9 +319,9 @@ function initMobileExplorer() {
   }
 }
 
-// Staggered retries for same reason as knowledge-graphs:
-// type="module" postscript runs after Quartz SPA replaces DOM on initial load.
+// MutationObserver + retries: covers Quartz SPA DOM replacement on initial load.
 initMobileExplorer()
 setTimeout(initMobileExplorer, 150)
-setTimeout(initMobileExplorer, 400)
-window.addEventListener("load", initMobileExplorer)
+setTimeout(initMobileExplorer, 500)
+const _explorerObserver = new MutationObserver(() => { initMobileExplorer() })
+_explorerObserver.observe(document.body, { childList: true, subtree: false })

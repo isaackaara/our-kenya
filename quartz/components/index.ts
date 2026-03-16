@@ -32,6 +32,10 @@ import DailyThemeGrid from "./DailyThemeGrid"
 import RailaGraph from "./RailaGraph"
 import KnowledgeGraphs from "./KnowledgeGraphs"
 import FloatingContribute from "./FloatingContribute"
+import SurpriseMe from "./SurpriseMe"
+import TrailScores from "./TrailScores"
+import TrailMoodFilter from "./TrailMoodFilter"
+import DailyNote from "./DailyNote"
 
 export {
   ArticleTitle,
@@ -69,4 +73,8 @@ export {
   RailaGraph,
   KnowledgeGraphs,
   FloatingContribute,
+  SurpriseMe,
+  TrailScores,
+  TrailMoodFilter,
+  DailyNote,
 }
