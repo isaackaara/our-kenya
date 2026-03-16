@@ -1,0 +1,23 @@
+The Mau Forest Complex represents Kenya's largest and most important forest ecosystem, covering approximately 400,000 hectares across the western Rift Valley. The Mau functions as one of Kenya's most critical water towers, providing water for millions of people and supporting agriculture, hydropower generation, and domestic water supply. The Ogiek have inhabited portions of the Mau for centuries, developing specialized knowledge of the forest ecosystem and sustaining livelihoods through hunting, gathering, and trade. The Mau has become a site of intense contestation between conservation interests, government resource management, settler interests, and Ogiek territorial claims.
+
+Historical documentation indicates Ogiek occupation of the Mau from at least the early twentieth century. Colonial records describe Ogiek communities in various Mau locations. The Ogiek's relationship to the Mau reflects deep territorial attachment and extensive ecological knowledge developed through generations of interaction with the forest. The Ogiek maintained the Mau through sustainable hunting, gathering, and forest management practices. The forest's ecological integrity across centuries of Ogiek inhabitation demonstrates that indigenous presence was compatible with forest conservation. Contemporary claims that Ogiek presence degrades the forest contradict historical evidence of forest integrity during periods of intensive Ogiek occupation.
+
+Colonial forestry administration asserted state monopoly over the Mau, designating portions as Crown forest reserves and restricting Ogiek access. Commercial logging operations in the colonial and postcolonial periods harvested valuable tree species. The alienation of forest lands to private interests and conversion to other uses accelerated in the postcolonial period. Government land claims combined with private appropriation dramatically reduced the forest area. The Ogiek experienced progressive eviction and restriction of access to the Mau during the twentieth century, with particularly intense evictions in the late twentieth and early twenty-first centuries.
+
+The Mau Forest degradation narrative, attributing deforestation to Ogiek land use, has been used to justify evictions and justify exclusion from conservation. However, scientific analysis demonstrates that forest degradation results from logging operations, agricultural conversion, and settlement rather than from Ogiek land use. Government investigations have documented that significant portions of forest loss occurred in areas where Ogiek were not present, contradicting claims that Ogiek caused degradation. The African Court's finding that Ogiek could not be held responsible for forest degradation represents an important validation of scientific evidence and rejection of narratives used to justify indigenous displacement.
+
+The Mau represents both an ecological crisis and an opportunity to implement rights-respecting conservation. The restoration of the Mau requires addressing the historical causes of degradation including logging, settlement, and agricultural conversion. Recognition of Ogiek territorial rights and restoration of Ogiek access to the Mau would enable implementation of indigenous forest management practices that have proven sustainable. The integration of Ogiek knowledge and authority with scientific conservation would create the most effective forest conservation approaches. The Mau's future depends on recognizing that genuine conservation requires indigenous rights protection, not indigenous displacement.
+
+## See Also
+
+[[Ogiek Community History]] | [[Forest Rights Land]] | [[Eviction Forest Lands]] | [[Conservation Kenya]] | [[Protected Areas Kenya]] | [[Land Dispossession]] | [[Water Kenya]]
+
+## Sources
+
+1. Cambridge Core. "Protected Areas, Indigenous Rights and Land Restitution: The Ogiek Judgment of the African Court of Human and Peoples' Rights and Community Land Protection in Kenya." Oryx Journal, February 10, 2023. https://www.cambridge.org/core/journals/oryx/article/
+
+2. Amnesty International. "Kenya: Nowhere to Go: Forced Evictions in Mau Forest." AFR 32/006/2007. https://www.amnesty.org/en/wp-content/uploads/2021/07/afr320062007en.pdf
+
+3. Forest Peoples Programme. "Defending Our Future: Overcoming the Challenges of Returning the Ogiek Home." https://www.forestpeoples.org/fileadmin/uploads/fpp/migration/documents/Defending-our-future-Ogiek-Report.pdf
+
+4. BBC Future. "The Traditions That Could Save a Nation's Forests." https://www.bbc.com/future/article/20201103-the-indigenous-wisdom-that-can-save-forests-from-destruction (November 4, 2020)

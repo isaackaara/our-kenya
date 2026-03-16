@@ -1,0 +1,23 @@
+The economic activities of Kenya's forest peoples encompassed diverse subsistence and commercial practices supporting household and community survival. Hunting, gathering of wild plants, honey collection, tree product harvesting, and their combination constituted an integrated economic system. The economic security of forest peoples depended on maintaining access to forest territories containing the diverse resources necessary for subsistence production and trade. Pre-colonial forest peoples' economies operated largely outside formal market systems, though engagement in regional trade networks linked forest and pastoral economies. Post-colonial monetization and market integration have transformed forest peoples' economic relationships while simultaneously undermining the forest resource base on which traditional economies rested.
+
+The organization of economic activities followed gendered divisions of labor and age-based distinctions. Hunting was predominantly a male activity, though women sometimes participated in certain types of hunting. Plant collection was primarily female responsibility, particularly collection of wild food plants and medicinal species. Honey harvesting was often male-dominated, though women participated in the processing and trade of honey. Older men often held authority over decisions regarding allocation of hunting territories and resource access. Young men learned hunting and other skills through apprenticeship with fathers and other relatives. The economic system thus depended on transmission of specialized knowledge across generations and maintenance of social structures organizing labor and resource allocation.
+
+The economic significance of forest resources extended beyond household subsistence to include accumulation of wealth and regional trade. Successful hunters and honey harvesters could accumulate surplus production, generating wealth and prestige. Trade in forest products generated cash income and enabled acquisition of pastoral products, manufactured goods, and other items enhancing household welfare. The integration of forest economies into broader regional trade networks demonstrated the economic sophistication and prosperity that some forest communities achieved. The status of forest peoples was not determined by lack of wealth but by discrimination and marginalization by pastoral and later colonial and post-colonial authorities.
+
+Colonialism and post-colonial development have systematically undermined forest peoples' economic systems. Restrictions on hunting eliminated a major source of protein and trade income. Forest resource access restrictions limited plant collection and tree product harvesting. The expropriation of forest territories through government land claims and private land claims eliminated the resource base on which forest economies depended. The integration into wage labor systems has pressured forest peoples into economic dependence, requiring cash income for basic needs previously met through subsistence production. Contemporary forest peoples often combine casual wage labor with limited subsistence activities and trade in forest products where possible.
+
+Contemporary economic advocacy emphasizes the restoration of viable indigenous forest economies through recognition of land rights and harvesting rights. Recognition of indigenous forest rights would enable restoration of hunting, plant collection, honey harvesting, and tree product collection as sustainable livelihoods. Forest peoples envision futures combining traditional economic activities with contemporary income-generation mechanisms, creating economies that are both economically viable and culturally meaningful. The integration of indigenous forest economies with ecotourism and sustainable forest product commerce represents potential pathways enabling forest peoples to achieve economic security while maintaining cultural identity and forest conservation.
+
+## See Also
+
+[[Forest Products Trade]] | [[Hunting Traditions]] | [[Honey Harvesting]] | [[Plant Collection]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Forest Rights Land]]
+
+## Sources
+
+1. Maliasili Initiatives. "Culture, Land, Justice: The Ogiek Fight for the Mau Forest." https://maliasili.org/voices-of-impact/culture-land-justice-the-ogiek-fight-for-the-mau-forest (November 11, 2025)
+
+2. Survival International. "Ogiek." https://www.survivalinternational.org/tribes/ogiek
+
+3. Hunter-Gatherer Forum Kenya. "Ogiek of Mau." https://hugafokenya.org/communities/ogiek-of-mau/
+
+4. International Work Group for Indigenous Affairs (IWGIA). "The Indigenous World 2025: Kenya." https://iwgia.org/en/kenya/5627-iw-2025-kenya.html

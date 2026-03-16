@@ -14,7 +14,7 @@ const themes = [
   { name: "Legacy", href: "/Legacy", tag: "Colonialism's afterlife: land, language, church, and the wounds that won't close." },
   { name: "East Africa", href: "/East-Africa", tag: "Kenya in its regional context - the EAC, the borders, the shared history." },
   { name: "Maasai", href: "/Maasai", tag: "Cattle, beadwork, warriors, and a culture that refused to disappear." },
-  { name: "Literature", href: "/Literature", tag: "Ngugi, Ogot, Mwangi - the writers who told Kenya to itself." },
+  { name: "Indian Ocean", href: "/Indian-Ocean", tag: "Kenya's eastern face - the dhows, the traders, the monsoon economy." },
   { name: "Women", href: "/Women", tag: "From Wangari to Mekatilili. The women who shaped Kenya." },
   { name: "Religion", href: "/Religion", tag: "Mission schools, mosques, revival, and the competition for Kenyan souls." },
   { name: "Colonial Kenya", href: "/Colonial-Kenya", tag: "The making of a colony - and the costs Kenya is still paying." },
