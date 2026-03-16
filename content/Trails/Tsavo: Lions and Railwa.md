@@ -1,4 +1,0 @@
-<div class="trail-intro-page">
-<p class="trail-intro-paragraph">The Uganda Railway reached Tsavo in 1898, and construction nearly stopped there. Two maneless lions began hunting the railway workers at night, dragging men from their tents, killing with such consistency that hundreds of laborers fled the camp. Colonel John Patterson, the British engineer in charge, spent nine months trying to shoot the lions before he finally succeeded. The railway moved on, reached the lake, connected Mombasa to Kampala. But Tsavo remains the place where the project nearly failed, where animals proved more formidable than the men with guns, where the cost of building imperial infrastructure became impossible to ignore.</p>
-<a href="/Counties/Taita-Taveta/Uganda-Railway-Taita-Taveta" class="trail-begin-btn">Begin Trail →</a>
-</div>

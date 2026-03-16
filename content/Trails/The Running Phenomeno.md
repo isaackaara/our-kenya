@@ -1,4 +1,0 @@
-<div class="trail-intro-page">
-<p class="trail-intro-paragraph">The first Kenyan to win Olympic gold was Naftali Temu in the 10,000 meters at Mexico City in 1968. Nearly all the distance champions who followed him came from the Rift Valley, from Kalenjin communities in Nandi, Keiyo, and Kipsigis country. By the 1990s, Kenyan runners held nearly every major marathon and middle-distance record. What made this possible was not one thing but several: altitude, tradition, a school system that made running the route to opportunity, and a culture that turned physical endurance into a form of dignity. This trail follows how running became the thing Kenya does better than anywhere else.</p>
-<a href="/Kalenjin/Kalenjin-Origins" class="trail-begin-btn">Begin Trail →</a>
-</div>

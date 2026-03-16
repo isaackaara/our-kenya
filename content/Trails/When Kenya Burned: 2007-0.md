@@ -1,4 +1,0 @@
-<div class="trail-intro-page">
-<p class="trail-intro-paragraph">The 2007 election was supposed to end Kibaki's presidency. The polls, the rallies, the mood in Nairobi all pointed to Raila Odinga winning. Then the Electoral Commission announced results that gave Kibaki a narrow victory, and the country exploded. Kibera burned, Kisumu burned, the Rift Valley burned. Over a thousand people died in two months, most of them killed by neighbors who had lived beside them for years. The violence exposed fractures that independence had papered over but never closed: questions of land, belonging, and who got to call themselves Kenyan. This trail examines what happened between December 2007 and February 2008, and what it revealed about the nation Kenya had become.</p>
-<a href="/Elections/2007-Election/2007-Election" class="trail-begin-btn">Begin Trail →</a>
-</div>
