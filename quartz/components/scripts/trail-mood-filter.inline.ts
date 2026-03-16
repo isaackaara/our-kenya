@@ -1,14 +1,52 @@
 (function() {
   var FILTER_CSS_ID = "ok-mood-filter-style";
-  var cachedScores = null;
+
+  // Keyword-based matching on data-name + data-description attributes
+  // Scores are all bunched (avg 8.5 emotion, 8.1 wonder) so keywords are more reliable
+  function textOf(card: Element): string {
+    var el = card as HTMLElement
+    return ((el.dataset.name || "") + " " + (el.dataset.description || "")).toLowerCase()
+  }
 
   var FILTERS = [
-    { id: "all",         label: "All",          emoji: "",   test: function(s) { return true; } },
-    { id: "intense",     label: "Intense",      emoji: "", test: function(s) { return s && s.e >= 8; } },
-    { id: "surprising",  label: "Surprising",   emoji: "", test: function(s) { return s && s.w >= 7; } },
-    { id: "balanced",    label: "Balanced",     emoji: "", test: function(s) { return !s || (s.e >= 5 && s.e <= 7 && s.w >= 5 && s.w <= 7); } },
-    { id: "informative", label: "Informative",  emoji: "", test: function(s) { return s && s.e <= 4; } }
-  ];
+    {
+      id: "all",
+      label: "All",
+      test: function(_s: any, _card: Element) { return true; }
+    },
+    {
+      id: "heavy",
+      label: "Heavy",
+      test: function(_s: any, card: Element) {
+        var t = textOf(card)
+        return /massacre|mau mau|detainee|detention camp|emergency|oathing|goldenberg|leasing|phantom contract|home guard|systematic land|nyayo era|siaya hiv|murang.a massacre|dedan kimathi|colonial encounter|when kenya burned|the land question|sounds of the mau mau|wagalla|shifta|corruption|tribalism and the state|the nyayo|pirate|the kisumu|assassination|killed the star|jaramogi.*ghost|coup that almost|five campaigns|raila|the schoolmaster who became|luo and the kikuyu.*political|pastoralism under pressure|dadaab/.test(t)
+      }
+    },
+    {
+      id: "eyeopening",
+      label: "Eye-opening",
+      test: function(_s: any, card: Element) {
+        var t = textOf(card)
+        return /constitution of 2010|second liberation|multiparty|independent school|githunguri|fm radio changed|sheng speaks|facing mount kenya|swahili.*thousand years|luo christianity|gikuyu and mumbi|grace ogot|the first voice|community conservancy|the education journey|foreign policy|state house.*what happens|succession politics|kirinyaga.*coffee|religion and cosmology|the dholuo|luo funerary|marriage and family|nyanza.*forgotten|the fishing economy|omena|the beadwork economy|presbyterian kenya|the coastal land|the tana river|isukuti|a thousand years of coastal|from the nile|from cattle camp/.test(t)
+      }
+    },
+    {
+      id: "feelgood",
+      label: "Feel-good",
+      test: function(_s: any, card: Element) {
+        var t = textOf(card)
+        return /sauti sol|four voices.*one sound|sol generation|benga|gospel takeover|the taarab queens|gengetone|the running phenomenon|the great migration|flamingo|david sheldrick|born free|joy and george adamson|wangari maathai|trees and freedom|black rhino recovery|lupita ny|mount kenya.*sacred|hell.s gate.*wildlife|lake turkana.*jade|maasai.*brand|the rhino ark|the amboseli story|maasai in tourism|maasai women.*builders|beadwork and song|cattle culture|the drum that built|a thousand years of coastal sound|tsavo.*lions|the song that crossed|the nyatiti player|the independence songbook|harry thuku.*first protest|the great migration|grevy.s zebra|the white rhino|wildlife.*coexist/.test(t)
+      }
+    },
+    {
+      id: "surprising",
+      label: "Surprising",
+      test: function(_s: any, card: Element) {
+        var t = textOf(card)
+        return /alego.*obama|barack obama sr|if mboya had lived|the coup that almost|the drum that built a nation|jaramogi.s ghost|the vice presidents who never were|piracy killed the star|the handshake|the nyatiti player and the president|the son.s burden|the reluctant father|1969.*year kenya changed|the economist who saved|tom mboya.*man who should|the mount kenya mafia|rusinga island|the oathing|the gikuyu and mumbi movement|the murang.a massacre.*banana/.test(t)
+      }
+    },
+  ]
 
   function injectStyles() {
     if (document.getElementById(FILTER_CSS_ID)) return;
@@ -32,32 +70,31 @@
     document.head.appendChild(style);
   }
 
-  function getTrailKey(card) {
+  function getTrailKey(card: Element): string {
     var href = card.getAttribute("href") || "";
     return href.replace(/^\//, "");
   }
 
-  function applyFilter(filterId, scores) {
-    var filter = FILTERS.find(function(f) { return f.id === filterId; });
-    if (!filter) filter = FILTERS[0];
+  function applyFilter(filterId: string) {
+    var filter = FILTERS.find(function(f) { return f.id === filterId; })
+    if (!filter) filter = FILTERS[0]
 
-    var cards = document.querySelectorAll(".trail-card");
+    var cards = document.querySelectorAll(".trail-card")
+    var visible = 0
     cards.forEach(function(card) {
-      var key = getTrailKey(card);
-      var score = scores ? (scores[key] || null) : null;
-      var passes = filter.test(score);
-      card.style.display = passes ? "" : "none";
-    });
+      var passes = filter!.test(null, card)
+      ;(card as HTMLElement).style.display = passes ? "" : "none"
+      if (passes) visible++
+    })
 
-    var countEl = document.getElementById("trail-count");
+    var countEl = document.getElementById("trail-count")
     if (countEl) {
-      var visible = document.querySelectorAll('.trail-card:not([style*="display: none"])').length;
-      var total = document.querySelectorAll(".trail-card").length;
-      countEl.textContent = "Showing " + visible + " of " + total + " trails";
+      var total = cards.length
+      countEl.textContent = "Showing " + visible + " of " + total + " trails"
     }
   }
 
-  function injectFilterBar(scores) {
+  function injectFilterBar() {
     if (document.querySelector(".ok-mood-filters")) return;
 
     var grid = document.getElementById("trail-grid");
@@ -70,19 +107,19 @@
       var pill = document.createElement("button");
       pill.className = "ok-mood-pill" + (f.id === "all" ? " active" : "");
       pill.dataset.filter = f.id;
-      pill.textContent = (f.emoji ? f.emoji + " " : "") + f.label;
+      pill.textContent = f.label;
       bar.appendChild(pill);
     });
 
-    var parent = grid.parentNode;
+    var parent = grid.parentNode!;
     parent.insertBefore(bar, grid);
 
     bar.addEventListener("click", function(e) {
-      var pill = e.target.closest(".ok-mood-pill");
+      var pill = (e.target as Element).closest(".ok-mood-pill");
       if (!pill) return;
       bar.querySelectorAll(".ok-mood-pill").forEach(function(p) { p.classList.remove("active"); });
       pill.classList.add("active");
-      applyFilter(pill.dataset.filter, scores);
+      applyFilter((pill as HTMLElement).dataset.filter || "all");
     });
   }
 
@@ -94,22 +131,7 @@
     if (!grid) return;
 
     injectStyles();
-
-    if (cachedScores) {
-      injectFilterBar(cachedScores);
-      return;
-    }
-
-    fetch("/static/trail-scores.json")
-      .then(function(r) { return r.json(); })
-      .then(function(data) {
-        cachedScores = data;
-        injectFilterBar(data);
-      })
-      .catch(function(err) {
-        console.warn("TrailMoodFilter: failed to load trail-scores", err);
-        injectFilterBar(null);
-      });
+    injectFilterBar();
   }
 
   if (document.readyState === "loading") {
