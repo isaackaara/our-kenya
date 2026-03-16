@@ -452,15 +452,17 @@ body:has(article.homepage) .content-meta {
   position: relative;
 }
 
-// Desktop: nav links below search
+// Desktop: nav links below search (hidden on mobile)
 .ok-sitenav {
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
   margin-top: 1rem;
+}
 
-  @media (max-width: 800px) {
-    display: none;
+@media (max-width: 800px) {
+  .ok-sitenav {
+    display: none !important;
   }
 }
 
