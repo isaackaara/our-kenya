@@ -14,8 +14,8 @@ FloatingContribute.afterDOMLoaded = `
     btn.id = 'ok-float-contribute';
     btn.href = '/contribute';
     btn.className = 'ok-float-contribute';
-    btn.setAttribute('aria-label', 'Suggest a topic or add your story');
-    btn.innerHTML = '<span class="ok-float-icon">+</span><span class="ok-float-label">Add your story</span>';
+    btn.setAttribute('aria-label', 'Add to the story');
+    btn.innerHTML = '<span class="ok-float-icon">+</span><span class="ok-float-label">Add to the story</span>';
     document.body.appendChild(btn);
   }
 
