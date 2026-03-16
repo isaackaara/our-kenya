@@ -140,6 +140,10 @@ export default ((opts?: TrailNavOptions) => {
   .trail-nav-top-container {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
   }
 
   .trail-nav-bottom-container {
@@ -375,6 +379,9 @@ export default ((opts?: TrailNavOptions) => {
     min-height: 48px;
     transition: background 0.15s, color 0.15s, border-color 0.15s;
     background: transparent;
+    box-sizing: border-box;
+    min-width: 0;
+    overflow: hidden;
   }
 
   .trail-nav-prev:hover,
@@ -399,8 +406,10 @@ export default ((opts?: TrailNavOptions) => {
 
   .trail-nav-label {
     overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    white-space: normal;
+    line-height: 1.3;
   }
 
   /* Mobile responsive */
