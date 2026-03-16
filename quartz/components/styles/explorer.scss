@@ -231,7 +231,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       }
     }
 
-    &:not(.collapsed) {
+    &.js-ready:not(.collapsed) {
       flex: 0 0 34px;
 
       & > .explorer-content {

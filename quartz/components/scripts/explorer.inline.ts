@@ -281,42 +281,32 @@ function removeHideUntilLoaded() {
   })
 }
 
-// Immediately collapse all explorers on mobile so the dark overlay never shows on load.
-// The explorer has no `collapsed` class in SSR, which means it renders OPEN by default.
-// We fix this synchronously before any paint.
-;(function collapseOnMobile() {
-  if (!window.matchMedia("(max-width: 800px)").matches) return
-  document.querySelectorAll<HTMLElement>(".explorer").forEach((el) => {
-    el.classList.add("collapsed")
-    el.setAttribute("aria-expanded", "false")
-  })
-  document.documentElement.classList.remove("mobile-no-scroll")
-})()
-
 // Reveal the burger button (was hidden until JS loaded)
 removeHideUntilLoaded()
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-
-  // Always collapse on mobile at nav start (safe default — user can open via burger)
   const isMobile = window.matchMedia("(max-width: 800px)").matches
-  if (isMobile) {
-    for (const explorer of document.getElementsByClassName("explorer")) {
+
+  // On mobile: ensure collapsed before revealing content (safe default)
+  // On desktop: just mark js-ready so the open state CSS can activate
+  for (const explorer of document.getElementsByClassName("explorer") as HTMLCollectionOf<HTMLElement>) {
+    if (isMobile) {
       explorer.classList.add("collapsed")
-      ;(explorer as HTMLElement).setAttribute("aria-expanded", "false")
+      explorer.setAttribute("aria-expanded", "false")
+      document.documentElement.classList.remove("mobile-no-scroll")
     }
-    document.documentElement.classList.remove("mobile-no-scroll")
+    // Gate the :not(.collapsed) CSS rule — panel stays hidden until we say so
+    explorer.classList.add("js-ready")
   }
 
   try {
     await setupExplorer(currentSlug)
   } catch (err) {
     console.warn("[explorer] setupExplorer failed:", err)
-    // Don't return early — collapse state is already set above, UI is safe
+    // Don't return — collapse/js-ready already set above, UI is safe
   }
 
-  // Reveal burger after setup
   removeHideUntilLoaded()
 })
 
