@@ -40,7 +40,7 @@
       "#ok-surprise-wrap { position: relative; margin: 1.5rem 0; }",
       "#ok-surprise-btn {",
       "  display: flex; align-items: center; justify-content: space-between;",
-      "  width: 100%; padding: 14px 24px; background: #1b3d2f; color: #f5f0e8;",
+      "  width: 100%; padding: 14px 24px; background: var(--dark, #1a1a1a); color: var(--light, #f5f0e8);",
       "  border: none; border-radius: 8px; cursor: pointer; font-size: 1.1rem;",
       "  font-family: inherit; transition: opacity 0.15s ease;",
       "}",
@@ -49,14 +49,15 @@
       "#ok-surprise-count { font-size: 0.8rem; opacity: 0.8; }",
       "#ok-surprise-preview {",
       "  position: absolute; bottom: calc(100% + 8px); left: 0; right: 0;",
-      "  background: var(--light, #fff); border: 1px solid #1b3d2f;",
+      "  background: var(--light, #fff); border: 1px solid var(--lightgray, #ccc);",
       "  border-radius: 6px; padding: 10px 14px; font-size: 0.9rem;",
       "  box-shadow: 0 4px 16px rgba(0,0,0,0.12); pointer-events: none;",
       "  opacity: 0; transition: opacity 0.15s ease; z-index: 20;",
+      "  margin-bottom: 8px;",
       "}",
       "#ok-surprise-preview.visible { opacity: 1; }",
       "#ok-surprise-preview-title { font-weight: 600; color: var(--dark, #1a1a1a); margin-bottom: 4px; }",
-      "#ok-surprise-preview-stars { font-size: 0.85rem; color: #1b3d2f; letter-spacing: 1px; }"
+      "#ok-surprise-preview-stars { font-size: 0.85rem; color: var(--gray, #666); letter-spacing: 1px; }"
     ].join("\n");
     document.head.appendChild(style);
   }
