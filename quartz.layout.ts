@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.DailyThemeGrid(),
     Component.ConditionalRender({
       component: Component.ContributeForm(),
       condition: (page) => page.fileData.slug === "contribute",

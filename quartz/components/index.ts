@@ -28,6 +28,7 @@ import ContributeForm from "./ContributeForm"
 import ShareButton from "./ShareButton"
 import TrailNav, { TrailHistoryRail } from "./TrailNav"
 import TrailHub from "./TrailHub"
+import DailyThemeGrid from "./DailyThemeGrid"
 
 export {
   ArticleTitle,
@@ -61,4 +62,5 @@ export {
   TrailNav,
   TrailHistoryRail,
   TrailHub,
+  DailyThemeGrid,
 }
