@@ -639,18 +639,28 @@ function buildKnowledgeGraphs() {
 
 function tryInit() {
   const el = document.getElementById("ok-knowledge-graphs")
-  if (el) {
+  if (!el) return false
+  try {
     buildKnowledgeGraphs()
-    return true
+  } catch (err) {
+    console.error("[knowledge-graphs] buildKnowledgeGraphs failed:", err)
   }
-  return false
+  return true
 }
 
 document.addEventListener("nav", () => {
   const el = document.getElementById("ok-knowledge-graphs")
-  if (el) {
-    el.innerHTML = ""
-    el.dataset.rendered = ""
+  if (!el) return
+  el.innerHTML = ""
+  el.dataset.rendered = ""
+  try {
     buildKnowledgeGraphs()
+  } catch (err) {
+    console.error("[knowledge-graphs] nav re-render failed:", err)
   }
 })
+
+// Belt-and-suspenders: call tryInit() at module eval time.
+// spa.inline.ts fires notifyNav() at module eval time (last in bundle),
+// so our nav listener above handles initial load — this is a fallback only.
+tryInit()

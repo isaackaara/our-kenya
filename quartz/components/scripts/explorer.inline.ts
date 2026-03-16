@@ -270,23 +270,32 @@ document.addEventListener("prenav", async () => {
 })
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+  // Remove hide-until-loaded FIRST — before any async work that might throw
+  for (const explorer of document.getElementsByClassName("explorer")) {
+    const mobileExplorer = explorer.querySelector(".mobile-explorer")
+    if (mobileExplorer) mobileExplorer.classList.remove("hide-until-loaded")
+  }
+
   const currentSlug = e.detail.url
-  await setupExplorer(currentSlug)
+  try {
+    await setupExplorer(currentSlug)
+  } catch (err) {
+    console.warn("[explorer] setupExplorer failed:", err)
+    return
+  }
 
   // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) continue
 
-    if (mobileExplorer.checkVisibility()) {
-      explorer.classList.add("collapsed")
-      explorer.setAttribute("aria-expanded", "false")
-
-      // Allow <html> to be scrollable when mobile explorer is collapsed
-      document.documentElement.classList.remove("mobile-no-scroll")
-    }
-
-    mobileExplorer.classList.remove("hide-until-loaded")
+    try {
+      if (mobileExplorer.checkVisibility()) {
+        explorer.classList.add("collapsed")
+        explorer.setAttribute("aria-expanded", "false")
+        document.documentElement.classList.remove("mobile-no-scroll")
+      }
+    } catch (_) {}
   }
 })
 
