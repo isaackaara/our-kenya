@@ -92,11 +92,29 @@ body:has(article.homepage) .content-meta {
   margin: 1.5rem 0 3rem;
 }
 
-// Reset Quartz's .internal link override on cards
-a.ok-vertical-card.internal {
-  padding: 1.4rem 1.5rem !important;
+// Reset Quartz's .internal link styles on all custom-styled elements
+// Quartz adds padding: 0 0.1rem + background-color: var(--highlight) to .internal links
+// which overrides our card/button padding
+a.ok-vertical-card.internal,
+a.ok-cta-primary.internal,
+a.ok-cta-secondary.internal,
+a.ok-cta-outline.internal,
+a.ok-section-cta.internal,
+a.ok-trails-callout.internal,
+a.ok-nav-overlay-link.internal {
+  padding: revert !important;
   background-color: transparent !important;
   line-height: inherit !important;
+}
+
+a.ok-vertical-card.internal {
+  padding: 1.4rem 1.5rem !important;
+}
+
+a.ok-cta-primary.internal,
+a.ok-cta-secondary.internal,
+a.ok-cta-outline.internal {
+  padding: 0.6rem 1.4rem !important;
 }
 
 .ok-vertical-card {
