@@ -275,53 +275,49 @@ document.addEventListener("prenav", async () => {
   sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString())
 })
 
-// ── Burger guard: MutationObserver removes hide-until-loaded the instant it
-// appears (handles both initial HTML and any micromorph re-additions).
 function removeHideUntilLoaded() {
   document.querySelectorAll<HTMLElement>(".mobile-explorer.hide-until-loaded").forEach((el) => {
     el.classList.remove("hide-until-loaded")
   })
 }
 
-// Run once immediately in case the DOM is already in place
+// Immediately collapse all explorers on mobile so the dark overlay never shows on load.
+// The explorer has no `collapsed` class in SSR, which means it renders OPEN by default.
+// We fix this synchronously before any paint.
+;(function collapseOnMobile() {
+  if (!window.matchMedia("(max-width: 800px)").matches) return
+  document.querySelectorAll<HTMLElement>(".explorer").forEach((el) => {
+    el.classList.add("collapsed")
+    el.setAttribute("aria-expanded", "false")
+  })
+  document.documentElement.classList.remove("mobile-no-scroll")
+})()
+
+// Reveal the burger button (was hidden until JS loaded)
 removeHideUntilLoaded()
 
-// Watch for the class being (re-)added at any time
-const _burgObserver = new MutationObserver(removeHideUntilLoaded)
-_burgObserver.observe(document.body, {
-  subtree: true,
-  attributes: true,
-  attributeFilter: ["class"],
-})
-
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  // Belt-and-suspenders removal in case MutationObserver hasn't fired yet
-  removeHideUntilLoaded()
-
   const currentSlug = e.detail.url
+
+  // Always collapse on mobile at nav start (safe default — user can open via burger)
+  const isMobile = window.matchMedia("(max-width: 800px)").matches
+  if (isMobile) {
+    for (const explorer of document.getElementsByClassName("explorer")) {
+      explorer.classList.add("collapsed")
+      ;(explorer as HTMLElement).setAttribute("aria-expanded", "false")
+    }
+    document.documentElement.classList.remove("mobile-no-scroll")
+  }
+
   try {
     await setupExplorer(currentSlug)
   } catch (err) {
     console.warn("[explorer] setupExplorer failed:", err)
-    return
+    // Don't return early — collapse state is already set above, UI is safe
   }
 
-  // Remove again after async setup (micromorph may have re-added it)
+  // Reveal burger after setup
   removeHideUntilLoaded()
-
-  // if mobile hamburger is visible, collapse by default
-  for (const explorer of document.getElementsByClassName("explorer")) {
-    const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (!mobileExplorer) continue
-
-    try {
-      if (mobileExplorer.checkVisibility()) {
-        explorer.classList.add("collapsed")
-        explorer.setAttribute("aria-expanded", "false")
-        document.documentElement.classList.remove("mobile-no-scroll")
-      }
-    } catch (_) {}
-  }
 })
 
 window.addEventListener("resize", function () {
