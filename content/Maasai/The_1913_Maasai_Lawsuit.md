@@ -1,3 +1,7 @@
+---
+title: The 1913 Maasai Lawsuit
+---
+
 ## Historical Context
 
 In 1913, two years after the British colonial government completed the second major territorial partition of Maasai lands (the 1911 treaty), a group of Maasai leaders and their British sympathizers filed a lawsuit against the British colonial administration. The lawsuit challenged the legality and legitimacy of the 1911 treaty and sought restoration of Maasai territories. This case represents one of the earliest legal challenges to colonial land policy in Africa.

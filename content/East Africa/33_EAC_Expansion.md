@@ -1,3 +1,7 @@
+---
+title: EAC Expansion
+---
+
 The [[East African Community]] has expanded from three member states (Kenya, Uganda, Tanzania) to ten member states, including DRC and Somalia. This expansion reflects regional ambitions but also creates challenges around security, integration capacity, and political management.
 
 ## Expansion Timeline

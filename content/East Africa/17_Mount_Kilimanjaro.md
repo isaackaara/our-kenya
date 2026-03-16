@@ -1,3 +1,7 @@
+---
+title: Mount Kilimanjaro
+---
+
 [[Mount Kilimanjaro]], Africa's highest peak at 5,895 meters, sits on the [[Kenya Tanzania Border]] yet lies entirely within Tanzania. Despite its location in Tanzania, Kilimanjaro dominates the eastern horizon of Kenya's Amboseli region and holds cultural and geographic significance for Kenyans.
 
 ## Geographic Relationship to Kenya

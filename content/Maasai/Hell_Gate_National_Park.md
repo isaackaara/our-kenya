@@ -1,3 +1,7 @@
+---
+title: Hell Gate National Park
+---
+
 ## Location and Geography
 
 Hell's Gate National Park is located near Lake Naivasha in the Rift Valley, approximately 90 kilometers northwest of Nairobi. The park covers approximately 68 square kilometers of dramatic landscape featuring steep-sided gorges, geothermal features, and wildlife habitats. The park sits at approximately 900-1,500 meters elevation. Hell's Gate is distinctive among Kenyan national parks for its dramatic topography and unique features.

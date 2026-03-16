@@ -1,3 +1,7 @@
+---
+title: Lion Killing and Conservation
+---
+
 ## Olamayio: Lion Killing as Coming-of-Age Ritual
 
 Traditionally, Maasai moran killed lions as a rite of passage. The killing of a lion (called *olamayio* in Maasai) demonstrated courage and was a prerequisite for achieving full warrior status in some sections.

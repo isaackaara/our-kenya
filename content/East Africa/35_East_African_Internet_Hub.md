@@ -1,3 +1,7 @@
+---
+title: East African Internet Hub
+---
+
 [[Nairobi Regional Hub]] has emerged as [[East African Community]]'s primary technology and [[East African Internet Hub]], serving as the region's center for startup innovation, venture capital, and digital infrastructure. This transformation has made Kenya the region's tech leader.
 
 ## Nairobi's Tech Ecosystem

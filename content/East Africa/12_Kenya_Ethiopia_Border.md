@@ -1,3 +1,7 @@
+---
+title: Kenya Ethiopia Border
+---
+
 The [[Kenya Ethiopia Border]] represents one of [[East African Community]]'s most volatile boundaries, dividing pastoral communities in the Horn of Africa and creating ongoing tensions over water, grazing, and sovereignty.
 
 ## Geographic Setting

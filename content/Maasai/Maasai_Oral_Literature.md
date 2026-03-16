@@ -1,3 +1,7 @@
+---
+title: Maasai Oral Literature
+---
+
 ## Nkama: Proverbs of Wisdom
 
 Maasai oral literature includes *nkama* (proverbs), short statements that encapsulate moral lessons, wisdom about human nature, or observations about the natural world.

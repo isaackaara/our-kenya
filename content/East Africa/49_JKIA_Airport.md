@@ -1,3 +1,7 @@
+---
+title: JKIA Airport
+---
+
 [[JKIA Airport]] is [[East African Community]]'s largest and most developed aviation hub, serving as the region's primary international gateway. The airport's significance extends beyond Kenya to the entire [[East African Community]] region and beyond.
 
 ## Airport Infrastructure

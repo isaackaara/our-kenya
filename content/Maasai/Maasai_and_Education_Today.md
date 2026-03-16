@@ -1,3 +1,7 @@
+---
+title: Maasai and Education Today
+---
+
 ## Current State of Education
 
 Education in Narok and Kajiado counties has expanded substantially since Kenya's independence, but gaps remain. Primary school enrollment rates in Maasai-majority areas are approximately 70-80%, with significant regional variation. Secondary school enrollment is lower, around 40-50%. Completion rates (students finishing Form 4) are even lower, suggesting that many students drop out before completing secondary education. Gender disparities exist, with girls having somewhat lower completion rates than boys in some areas.

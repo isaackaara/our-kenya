@@ -1,3 +1,7 @@
+---
+title: Maasai Sub-groups
+---
+
 ## The Iloshon (Sections)
 
 The Maasai are organized into major sections (iloshon) based on territorial claim and historical allegiance. The largest and most politically prominent are:

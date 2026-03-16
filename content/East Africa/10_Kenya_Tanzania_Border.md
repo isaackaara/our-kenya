@@ -1,3 +1,7 @@
+---
+title: Kenya Tanzania Border
+---
+
 The [[Kenya Tanzania Border]] represents one of [[East African Community]]'s most significant international boundaries, dividing the [[Maasai Borders]] pastoral lands and separating two of the region's major economies. It is also the subject of a famous (and probably false) legend.
 
 ## The Kilimanjaro Legend

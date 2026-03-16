@@ -1,3 +1,7 @@
+---
+title: Community Conservancies
+---
+
 ## The Model: Land Lease, Tourism Revenue, Pastoral Access
 
 Community conservancies are private or community-managed land areas (often 5,000-20,000 hectares) dedicated to wildlife conservation and tourism. The model allows Maasai communities to lease grazing land to conservancies, receive per-bed-night tourism fees, and continue some pastoral activity.

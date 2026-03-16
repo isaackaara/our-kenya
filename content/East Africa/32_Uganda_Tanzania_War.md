@@ -1,3 +1,7 @@
+---
+title: Uganda Tanzania War
+---
+
 The [[Uganda Tanzania War]] represents the most significant military conflict between two [[East African Community]] states in the post-independence era. The war occurred between Idi Amin's Uganda (1971-1979) and Julius Nyerere's Tanzania, fundamentally affecting both nations and the region.
 
 ## Idi Amin's Uganda

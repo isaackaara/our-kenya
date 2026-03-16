@@ -1,3 +1,7 @@
+---
+title: Maasai Women Activists
+---
+
 ## Organizations and Movements Against FGM
 
 Maasai women's organizations and activists are at the forefront of efforts to end female circumcision while respecting Maasai culture.

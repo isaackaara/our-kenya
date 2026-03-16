@@ -1,3 +1,7 @@
+---
+title: Wildlife Poaching and Maasai
+---
+
 ## Historical Wildlife Relationship
 
 Traditionally, the Maasai did not hunt wildlife extensively. Unlike communities practicing hunting as primary subsistence strategy, pastoral Maasai relied on livestock for food, with hunting being limited or ceremonial. This non-hunting relationship meant that Maasai communities were generally compatible with wildlife conservation, viewing wildlife as part of the ecosystem rather than primarily as food source. Wildlife and pastoral livestock could coexist in the landscape.

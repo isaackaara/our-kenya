@@ -1,3 +1,7 @@
+---
+title: Laikipia and the Maasai
+---
+
 ## The Laikipia Plateau: Ancestral Dry-Season Grazing
 
 The Laikipia Plateau, located in central Kenya, was prime dry-season grazing land for the Maasai. During drought, when lowland pastures dried up, Maasai herds moved to Laikipia's higher elevation where rainfall and water were more reliable.

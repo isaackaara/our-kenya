@@ -1,3 +1,7 @@
+---
+title: Maasai Elders
+---
+
 ## The Ilkiama: Authority Structure
 
 The *ilkiama* (elders) hold real political power in traditional Maasai governance. Community decisions(migration, dispute resolution, ceremony scheduling, response to conflicts) are made by councils of elders from each section and sub-section.

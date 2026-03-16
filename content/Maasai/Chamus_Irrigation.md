@@ -1,3 +1,7 @@
+---
+title: Chamus Irrigation
+---
+
 The Ilchamus (also called Chamus), a small Maasai-related pastoral community living around Lake Baringo in the Rift Valley, have maintained a sophisticated ancient irrigation system for centuries. Drawing water from the Molo and Perkerra rivers that feed Lake Baringo, the Chamus have engineered a network of furrows, channels, and water-harvesting structures that enable cultivation in an otherwise semi-arid landscape. This system is one of East Africa's most important indigenous hydro-engineering traditions.
 
 ## The Chamus and Lake Baringo

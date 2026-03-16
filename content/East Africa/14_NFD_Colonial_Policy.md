@@ -1,3 +1,7 @@
+---
+title: NFD Colonial Policy
+---
+
 The [[NFD Colonial Policy]] (now northeastern Kenya), was subject to a distinctive and damaging colonial policy that isolated it from the rest of Kenya and reinforced underdevelopment and suspicion of border communities.
 
 ## The Closed District Policy

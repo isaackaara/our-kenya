@@ -1,3 +1,7 @@
+---
+title: Human-Elephant Conflict
+---
+
 ## Overview
 
 Human-elephant conflict (HEC) occurs when wild elephants raid crops in agricultural and pastoral areas adjacent to wildlife reserves and national parks. Elephants, highly intelligent and mobile animals, venture out of protected areas to feed on cultivated crops, which are nutritious and easily accessible compared to wild vegetation. Crop raiding by elephants results in substantial agricultural losses for farming and pastoral communities in Maasai territory.

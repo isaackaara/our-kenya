@@ -1,3 +1,7 @@
+---
+title: Young Maasai Identity
+---
+
 ## The Educated Maasai in Urban Settings
 
 Educated Maasai youth, with secondary or university education, increasingly live in urban areas (particularly Nairobi). They work in professional jobs(teachers, nurses, engineers, government officials, business persons).

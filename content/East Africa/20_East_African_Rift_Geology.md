@@ -1,3 +1,7 @@
+---
+title: East African Rift Geology
+---
+
 The [[East African Rift Geology]] is one of the world's most significant geological features, representing an active continental rift where the East African Plate is slowly separating from the rest of the African continent. This ongoing process shapes [[East African Community]] geography, seismicity, and geology.
 
 ## The Rift Mechanism

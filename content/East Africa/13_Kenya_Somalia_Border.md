@@ -1,3 +1,7 @@
+---
+title: Kenya Somalia Border
+---
+
 The [[Kenya Somalia Border]] is [[East African Community]]'s most politically contentious and militarily volatile boundary. It divides the Somali-speaking peoples and has been the source of wars, terrorism, and persistent regional instability.
 
 ## The Ogaden Question

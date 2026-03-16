@@ -1,3 +1,7 @@
+---
+title: Maasai and Kenyan State
+---
+
 ## Political Position: Two Counties, Limited National Leverage
 
 The Maasai hold significant territory(Narok and Kajiado counties) but limited national political power. This is a function of demographics(Maasai are roughly 0.7 million of Kenya's 54 million, about 1.3%).

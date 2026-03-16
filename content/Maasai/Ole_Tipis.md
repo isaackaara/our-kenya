@@ -1,3 +1,7 @@
+---
+title: Ole Tipis
+---
+
 ## First Prominent Maasai Politician
 
 Justus ole Tipis was the first Maasai politician to reach national prominence. He broke into Kenya's post-independence political elite and served in several high positions.

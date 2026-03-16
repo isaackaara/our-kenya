@@ -1,3 +1,7 @@
+---
+title: Maasai Warrior Initiation
+---
+
 The Maasai moran (warrior) initiation system is a comprehensive rite of passage that transforms boys into men and integrates them into the age-set structure that governs Maasai society. It involves ritual, physical ordeal, social authority, and cultural knowledge transmission. Initiation ceremonies are among the most sacred and publicly visible Maasai cultural practices, yet they are increasingly contested due to age-related reforms and cultural change.
 
 ## The Initiation Timeline

@@ -1,3 +1,7 @@
+---
+title: Maasai Cattle Trade
+---
+
 ## Cattle as Wealth and Currency
 
 Cattle have historically been the primary form of wealth for Maasai pastoral communities. Cattle ownership determines social status, enables marriage negotiations through bridewealth payments, and provides subsistence through milk, meat, and blood. In Maasai traditional economy, cattle are wealth, insurance, and social capital. Historically, individual prestige was measured largely in cattle numbers. This cattle-wealth system has persisted despite modern economic changes, though increasingly complemented by other wealth forms (land, cash, education).

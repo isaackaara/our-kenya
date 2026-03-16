@@ -1,3 +1,7 @@
+---
+title: Maasai in Global Media
+---
+
 ## Photography and Visual Representation
 
 The Maasai are among the most photographed peoples in the world. Images of Maasai warriors with spears and shields, Maasai women in beaded dress, and Maasai pastoral landscapes have been disseminated globally through photography and film. National Geographic magazine has featured Maasai extensively. Professional photographers and documentary filmmakers have made Maasai communities their subjects. This visual representation has created powerful global images of "Africa" and "pastoralism" centered on Maasai imagery.

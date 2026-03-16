@@ -1,3 +1,7 @@
+---
+title: Maasai and Climate Change
+---
+
 ## Rainfall Patterns and Decline
 
 Climate change is manifesting in Maasai territory through declining and increasingly erratic rainfall. Maasai lands receive between 400-600mm of rainfall annually in lower-lying pastoral areas and 600-1000mm in higher-elevation regions. Historical records show that rainfall has declined over recent decades, with long-term trends toward drier conditions. Importantly, rainfall has become increasingly unpredictable, with longer dry spells interrupting rainy seasons and rainy seasons failing to materialize as expected.

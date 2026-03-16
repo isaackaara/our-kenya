@@ -1,3 +1,7 @@
+---
+title: Rwanda Kenya
+---
+
 [[Rwanda Kenya]] is an [[East African Community]] member and maintains significant economic and political relationships with Kenya. [[Rwanda Kenya]]'s post-genocide recovery and emergence as a development success story have shaped its regional positioning.
 
 ## The Rwandan Genocide (1994)

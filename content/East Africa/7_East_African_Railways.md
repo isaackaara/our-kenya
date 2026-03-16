@@ -1,3 +1,7 @@
+---
+title: East African Railways
+---
+
 The railway systems of [[East African Community]] represent both a shared colonial legacy and contemporary infrastructure development, connecting the region's interior to [[Mombasa Port]] and reshaping regional trade patterns.
 
 ## The Original Metre-Gauge Network

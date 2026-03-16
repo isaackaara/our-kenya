@@ -1,3 +1,7 @@
+---
+title: Community Conservancies Economics
+---
+
 ## Model Definition
 
 Community conservancies are wildlife areas held and managed collectively by pastoral communities for conservation and sustainable use. Unlike national parks (government-owned) or private reserves, conservancies are owned and controlled by community members. The conservancy model attempts to combine wildlife conservation with community livelihood development, creating economic incentives for conservation while maintaining community rights and decision-making authority.

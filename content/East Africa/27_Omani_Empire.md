@@ -1,3 +1,7 @@
+---
+title: Omani Empire
+---
+
 The [[Omani Empire]] Sultans dominated the entire [[East African Community]] coast in the 18th and 19th centuries, establishing the most extensive control system the region had seen. This imperial presence shaped the political, economic, and cultural development of coastal East Africa.
 
 ## The Omani Expansion

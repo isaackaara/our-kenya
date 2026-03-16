@@ -1,3 +1,7 @@
+---
+title: Maasai Warriors in Modern Economy
+---
+
 ## The Security Industry and "Maasai Warrior" Branding
 
 Former moran transitioning out of warrior status face a cash economy with few options if pastoral income is inadequate. One significant sector is security work(private security guards, hotel security, armed escort services).

@@ -1,3 +1,7 @@
+---
+title: Water and Maasai Lands
+---
+
 ## Major Water Sources: Rivers and Aquifers
 
 Water is the most critical resource in Maasai territory. Major water sources include:

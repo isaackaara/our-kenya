@@ -1,3 +1,7 @@
+---
+title: Maasai Birth and Childhood
+---
+
 ## Naming Ceremony
 
 The naming ceremony occurs a few days after birth (4 days for girls, 3 for boys, in some traditions, though variations exist). The child is formally named in a communal gathering.

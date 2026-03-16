@@ -1,3 +1,7 @@
+---
+title: Joseph ole Lenku
+---
+
 ## [[../Counties/Kajiado/Kajiado County|Kajiado County]] Governor and National Politics
 
 Joseph ole Lenku is a contemporary Maasai politician, having served as Kajiado County Governor. He represents the new generation of Maasai political leadership in the devolved governance system.

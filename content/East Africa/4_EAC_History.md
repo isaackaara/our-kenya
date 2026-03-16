@@ -1,3 +1,7 @@
+---
+title: EAC History
+---
+
 The East African Community has experienced dramatic cycles of integration, collapse, and revival, reflecting both the region's deep historical connections and the political obstacles to unity.
 
 ## The First EAC (1967-1977)

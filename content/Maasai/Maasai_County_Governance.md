@@ -1,3 +1,7 @@
+---
+title: Maasai County Governance
+---
+
 ## Devolution Context
 
 Kenya's 2010 constitution introduced devolution, creating 47 county governments with significant autonomy over local development, budgets, and service delivery. The Maasai heartland is primarily encompassed by two counties: Narok and Kajiado, with smaller Maasai populations in Samburu, [[../Counties/Laikipia/Laikipia County|Laikipia County]], and Bomet counties. Devolution was intended to bring government closer to communities and allow for localized development policies responsive to regional needs.

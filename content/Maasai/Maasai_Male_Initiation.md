@@ -1,3 +1,7 @@
+---
+title: Maasai Male Initiation
+---
+
 ## The Circumcision Ceremony (Emorata for Boys)
 
 Male circumcision marks a boy's transition from childhood to warrior status. The ceremony (*emorata*) is a significant rite of passage, though less elaborate than female circumcision ceremonies.

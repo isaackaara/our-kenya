@@ -1,3 +1,7 @@
+---
+title: Maasai Land Sales Crisis
+---
+
 ## Individual Land Titling and Privatization
 
 Kenya's land titling programs issued individual land deeds to Maasai landholders, replacing communal pastoral tenure with private property ownership.

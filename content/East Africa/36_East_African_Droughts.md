@@ -1,3 +1,7 @@
+---
+title: East African Droughts
+---
+
 [[East African Community]], particularly the Horn of Africa (Kenya, Ethiopia, [[Somalia Collapse]]), is highly vulnerable to periodic [[East African Droughts]] that devastate pastoral livelihoods, agriculture, and create humanitarian crises. Recurring droughts in 2011, 2017, and 2022 illustrate the region's climate vulnerability.
 
 ## Climate and Geography

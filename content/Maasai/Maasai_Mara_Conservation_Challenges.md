@@ -1,3 +1,7 @@
+---
+title: Maasai Mara Conservation Challenges
+---
+
 ## External Agricultural Pressure
 
 The Maasai Mara National Reserve is surrounded by increasingly intensive agricultural development. Vast tracts of land immediately adjacent to the reserve have been converted to commercial wheat farming, with operations using helicopter spraying of fertilizers and pesticides. These agricultural chemicals drift into the reserve, potentially affecting wildlife. Agricultural development also fragments migration routes and prevents wildlife movement between the Mara and northern Tanzania.

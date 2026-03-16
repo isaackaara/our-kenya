@@ -1,3 +1,7 @@
+---
+title: Narok County
+---
+
 ## Maasai Heartland in the Rift Valley
 
 Narok County, located in the Rift Valley in southwestern Kenya, is the primary Maasai region. The county covers over 17,000 square kilometers and is home to several major Maasai sections(Purko, Matapato, Loitokitok, Kaputiei among others).

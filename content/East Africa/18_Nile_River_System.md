@@ -1,3 +1,7 @@
+---
+title: Nile River System
+---
+
 The [[Nile River System]], one of the world's longest rivers, originates in the East African highlands and flows north through Sudan to Egypt. The Nile's upper reaches flow through or originate in [[East African Community]], making East African water resources crucial to downstream countries.
 
 ## The Nile's Source in East Africa

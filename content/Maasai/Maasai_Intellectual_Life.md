@@ -1,3 +1,7 @@
+---
+title: Maasai Intellectual Life
+---
+
 ## Oral Intellectual Traditions
 
 Maasai have rich oral intellectual traditions encompassing history, philosophy, literature, and knowledge systems. Oral intellectual production includes proverbs, poetry, storytelling, and philosophical teachings. Oral scholars (often elders) are respected for their knowledge and teaching. Oral tradition remains important means of knowledge transmission, though documentation and written preservation are limited.

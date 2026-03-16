@@ -1,3 +1,7 @@
+---
+title: Maasai Cattle Culture
+---
+
 ## God Gave Cattle to the Maasai
 
 A foundational Maasai belief holds that Enkai (God) gave all cattle in the world to the Maasai people. This is not metaphorical(it reflects the Maasai view of cattle as a sacred trust, central to identity and relationship with the divine).

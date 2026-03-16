@@ -1,3 +1,7 @@
+---
+title: The Maasai Mara
+---
+
 ## Ancestral Territory Becoming Protected Area
 
 The Maasai Mara National Reserve encompasses roughly 1,821 square kilometers of what was traditionally Maasai dry-season grazing land. The Mara is one of the world's premier wildlife destinations, known for the Great Migration (wildebeest, zebra, and gazelle crossing from the Serengeti each year).

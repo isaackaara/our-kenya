@@ -1,3 +1,7 @@
+---
+title: Laikipia Maasai Land Conflicts
+---
+
 Laikipia County, in Kenya's central Rift Valley, is home to complex land conflicts pitting Maasai pastoralists against large-scale ranchers, conservancies, national parks, and each other. Laikipia represents the contemporary land crisis in microcosm: pastoral livelihoods under existential threat, Maasai land claims overlapping with conservation priorities and private property, and competing visions of land use generating acute tensions.
 
 ## Geography and Constituencies

@@ -1,3 +1,7 @@
+---
+title: Samburu Deep Dive
+---
+
 ## Geographic Territory
 
 The Samburu inhabit Samburu County in northern Kenya, as well as parts of Isiolo and [[../Counties/Laikipia/Laikipia County|Laikipia County]] counties. Their territory covers approximately 21,000 square kilometers in the Rift Valley and adjacent plains. The Samburu landscape is arid to semi-arid, with annual rainfall typically 300-600 millimeters. The terrain includes mountains (Samburu Range, Matthew's Range), river valleys, and semi-desert plains. The Samburu River is an important water source.

@@ -1,3 +1,7 @@
+---
+title: Kajiado Town
+---
+
 ## County Capital Status
 
 Kajiado town serves as the county seat and capital of [[../Counties/Kajiado/Kajiado County|Kajiado County]]. Located approximately 50 kilometers south of Nairobi on the Nairobi-Mombasa highway, Kajiado has grown from a small pastoral trading center to a urban town. The town's proximity to Nairobi makes it increasingly integrated into Nairobi's peri-urban zone. Government administrative functions are concentrated in Kajiado town.

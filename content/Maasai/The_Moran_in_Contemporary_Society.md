@@ -1,3 +1,7 @@
+---
+title: The Moran in Contemporary Society
+---
+
 ## Historical Moran Role
 
 Traditionally, the moran (warriors) were young Maasai men aged roughly 15-30 who had undergone initiation (circumcision) and passed into warrior status. Morans were responsible for pastoral herd defense, community protection, hunting, and ceremonial roles. The moran age-set was a fundamental institution of Maasai social organization, determining social status, rights, and responsibilities. Morans had prestige and authority, and the moran period was a crucial life stage in male development.

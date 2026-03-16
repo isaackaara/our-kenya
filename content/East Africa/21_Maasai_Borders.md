@@ -1,3 +1,7 @@
+---
+title: Maasai Borders
+---
+
 The [[Maasai Borders]] pastoral people are one of [[East African Community]]'s most recognizable ethnic groups, but they are divided by the [[Kenya Tanzania Border]]. The [[Maasai Borders]] experience illustrates how colonial borders separate culturally and linguistically unified peoples.
 
 ## Geographic Distribution

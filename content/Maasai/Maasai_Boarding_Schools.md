@@ -1,3 +1,7 @@
+---
+title: Maasai Boarding Schools
+---
+
 Boarding schools have become a contentious yet practical solution to educating Maasai children in a pastoralist society that values cattle herding and seasonal migration. The Narok and Kajiado counties, core Maasai territories, developed a network of boarding institutions that physically separate children from pastoral family structures and insert them into formal academic calendars.
 
 ## The Pastoral Education Challenge

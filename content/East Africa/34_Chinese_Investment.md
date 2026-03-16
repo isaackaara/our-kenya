@@ -1,3 +1,7 @@
+---
+title: Chinese Investment
+---
+
 [[Chinese Investment]] has dramatically transformed [[East African Community]] development over the past 15 years. Large-scale Chinese-financed railway, port, and road projects have reshaped economic geography while raising questions about debt sustainability and economic dependence.
 
 ## The Investment Pattern

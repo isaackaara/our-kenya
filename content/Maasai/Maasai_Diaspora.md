@@ -1,3 +1,7 @@
+---
+title: Maasai Diaspora
+---
+
 ## Definition and Scope
 
 Maasai diaspora refers to Maasai people who have left their pastoral communities and settled permanently or semi-permanently elsewhere. This includes Maasai who have migrated to urban centers in Kenya (particularly Nairobi), Maasai in other East African countries (Tanzania, Uganda), and smaller populations of Maasai internationally. The diaspora represents a significant proportion of the total Maasai population, possibly 30-40%, though exact numbers are difficult to quantify.

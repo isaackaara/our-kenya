@@ -1,3 +1,7 @@
+---
+title: Ilchamus Njemps
+---
+
 ## Identity and Language
 
 The Ilchamus, also called Njemps or Chamus, are a small pastoral community residing primarily in Baringo County around Lake Baringo in Kenya's Rift Valley. The Ilchamus speak a Maa dialect and are therefore linguistically related to the Maasai and Samburu. However, they are considered ethnically distinct from Maasai, with distinct cultural practices and identity. The Ilchamus population is approximately 10,000-15,000, making them one of East Africa's smaller communities.

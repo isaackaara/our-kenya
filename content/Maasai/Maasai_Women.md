@@ -1,3 +1,7 @@
+---
+title: Maasai Women
+---
+
 ## House Building and Ownership
 
 Women construct the *enkaji* (house) in Maasai pastoral settlements. The structure is built from a framework of branches plastered with a mixture of mud, dung, ash, and cow urine. The urine hardens the plaster and creates a waterproof surface.

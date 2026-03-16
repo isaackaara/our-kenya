@@ -1,3 +1,7 @@
+---
+title: Kalenjin Nilo Saharan
+---
+
 The [[Kalenjin Nilo Saharan]] peoples of Kenya are part of a broader Nilo-Saharan linguistic and ethnic family distributed across Kenya and Uganda. They represent another example of cross-border ethnic and linguistic relationships shaped by colonial borders.
 
 ## The Kalenjin Language Family

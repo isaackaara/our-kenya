@@ -1,3 +1,7 @@
+---
+title: Olorgesailie Archaeological Site
+---
+
 ## Location
 
 Olorgesailie is an archaeological site located in [[../Counties/Kajiado/Kajiado County|Kajiado County]], approximately 70 kilometers south of Nairobi on the road toward Tanzania. The site sits on the floor of the Rift Valley, in an area historically used by Maasai pastoral communities. The landscape is arid savanna, typical of the lower Maasai pastoral zones. The site's location in Maasai territory gives it particular relevance to understanding human-environment interactions in this region.

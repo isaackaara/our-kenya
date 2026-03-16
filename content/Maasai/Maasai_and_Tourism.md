@@ -1,3 +1,7 @@
+---
+title: Maasai and Tourism
+---
+
 ## Most Photographed People in Kenya
 
 The Maasai are Kenya's most photographed ethnic group. Tourism to Kenya centers largely on wildlife viewing([[../Conservation/Maasai Mara National Reserve|Maasai Mara National Reserve]], [[../Conservation/Amboseli National Park|Amboseli National Park]], other reserves), and the Maasai feature prominently in the tourism package.

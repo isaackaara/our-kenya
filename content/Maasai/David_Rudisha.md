@@ -1,3 +1,7 @@
+---
+title: David Rudisha
+---
+
 ## World Record Holder: 1:40.91
 
 David Rudisha holds the world record for the 800 meters, set at the London 2012 Olympics with a time of 1 minute 40.91 seconds. This is widely considered one of the greatest athletic performances ever recorded.

@@ -1,3 +1,7 @@
+---
+title: Pre-Colonial Maasai Territory
+---
+
 ## Overview
 
 Before colonial conquest in the late 19th century, the Maasai controlled vast territories across East Africa. Their dominion stretched from Lake Turkana in the north to Kilimanjaro in the south, spanning the Rift Valley, adjacent plains, and extending to the Indian Ocean coast where they conducted raids for livestock and goods.

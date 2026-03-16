@@ -1,3 +1,7 @@
+---
+title: Maasai Visual Culture
+---
+
 ## Red Shuka: The Iconic Cloth
 
 The red shuka (cloth or blanket) is perhaps the most recognizable Maasai visual marker. The shuka is a single piece of fabric (traditionally hand-woven, now usually manufactured) wrapped around the body as a garment.

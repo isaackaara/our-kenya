@@ -1,3 +1,7 @@
+---
+title: Somali Cross Border
+---
+
 The [[Somali Cross Border]] speaking people are divided among four African nations: Somalia, Kenya, Ethiopia, and Djibouti. This division has created complex questions of identity, sovereignty, and transnational community ties that persist to this day.
 
 ## Geographic Distribution

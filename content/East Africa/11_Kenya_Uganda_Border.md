@@ -1,3 +1,7 @@
+---
+title: Kenya Uganda Border
+---
+
 The [[Kenya Uganda Border]] divides East Africa's plateau region and separates closely related ethnic and linguistic groups. It represents both a colonial artifact and a functioning boundary between two important [[East African Community]] states.
 
 ## Geographic Features

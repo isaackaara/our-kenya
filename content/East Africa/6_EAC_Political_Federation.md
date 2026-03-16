@@ -1,3 +1,7 @@
+---
+title: EAC Political Federation
+---
+
 The East African Political Federation represents the most ambitious and most contentious goal within the East African Community. It would create a single government, unified currency, and shared political sovereignty across member states.
 
 ## The Vision

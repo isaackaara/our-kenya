@@ -1,3 +1,7 @@
+---
+title: Maasai Female Circumcision
+---
+
 ## The Practice and Its Meaning
 
 Female genital mutilation (FGM), called *emorata* in Maasai, is a traditional practice that marks a girl's transition to marriageability. The circumcision (excision) ceremony is associated with coming-of-age and readiness for marriage and motherhood.

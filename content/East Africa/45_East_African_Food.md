@@ -1,3 +1,7 @@
+---
+title: East African Food
+---
+
 East African societies share distinctive food culture patterns, with common staples and cooking practices uniting the region despite national and ethnic diversity. The shared staple grain preparation and meat consumption patterns reflect both regional agriculture and cultural continuities.
 
 ## Ugali (Posho/Sima)

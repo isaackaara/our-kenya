@@ -1,3 +1,7 @@
+---
+title: Maasai Food Insecurity and Drought
+---
+
 Drought and food insecurity have become defining existential challenges for Maasai pastoral communities in the 21st century. Climate variability (increasingly erratic and severe droughts interspersed with devastating floods), land loss, population pressure, and economic marginalization have created conditions where pastoral livelihoods can no longer reliably feed families. Maasai communities experience recurring acute food insecurity, particularly in Narok and Kajiado counties.
 
 ## Historical Drought Patterns

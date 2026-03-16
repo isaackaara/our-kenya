@@ -1,3 +1,7 @@
+---
+title: East African Literature
+---
+
 East Africa has produced world-class literature, with authors recognized globally for their contributions to African and world literature. The region's writers have shaped modern African identity and given voice to post-colonial experience.
 
 ## Ngugi wa Thiong'o (Kenya)

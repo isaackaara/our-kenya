@@ -1,3 +1,7 @@
+---
+title: Kajiado County
+---
+
 ## Geography and Strategic Position
 
 Kajiado County, located in southern Kenya, covers over 21,000 square kilometers. It borders Tanzania (south), Nairobi (north and east), and Nakuru counties (northwest).
