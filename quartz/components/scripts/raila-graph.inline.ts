@@ -11,21 +11,21 @@ import {
 } from "d3"
 
 const NODES = [
-  { id: "raila",     label: "Raila Odinga",     type: "center",   href: "/Raila-Odinga",          desc: "Kenya's most consequential opposition figure. Five presidential runs." },
-  { id: "oginga",    label: "Oginga Odinga",    type: "family",   href: "/Oginga-Odinga",          desc: "Father. Kenya's first Vice President. The original opposition voice." },
-  { id: "uhuru",     label: "Uhuru Kenyatta",   type: "alliance", href: "/Uhuru-Kenyatta",         desc: "Bitter rival turned ally. The 2018 Handshake reshaped Kenyan politics." },
-  { id: "kibaki",    label: "Mwai Kibaki",      type: "rival",    href: "/Mwai-Kibaki",            desc: "2007 election rival. The disputed result triggered post-election violence." },
-  { id: "ruto",      label: "William Ruto",     type: "rival",    href: "/William-Ruto",           desc: "Post-2022 rival. Beat Raila in the 2022 presidential election." },
-  { id: "moi",       label: "Daniel arap Moi",  type: "alliance", href: "/Daniel-arap-Moi",        desc: "Detained Raila for years. Later formed a political alliance." },
-  { id: "kalonzo",   label: "Kalonzo Musyoka",  type: "alliance", href: "/Kalonzo-Musyoka",        desc: "Coalition partner across multiple elections. NASA alliance 2017." },
-  { id: "mudavadi",  label: "Musalia Mudavadi", type: "alliance", href: "/Musalia-Mudavadi",       desc: "Coalition partner. CORD and Orange movement ally." },
-  { id: "karua",     label: "Martha Karua",     type: "alliance", href: "/Martha-Karua",           desc: "NARC ally. Prominent reformist who shared the democracy movement." },
-  { id: "matiba",    label: "Kenneth Matiba",   type: "alliance", href: "/Kenneth-Matiba",         desc: "Democracy movement ally. Both fought for multiparty politics in the 1990s." },
-  { id: "odm",       label: "ODM Party",        type: "entity",   href: "/ODM",                   desc: "Orange Democratic Movement. Raila's political vehicle since 2007." },
-  { id: "e2007",     label: "2007 Election",    type: "event",    href: "/2007-Kenyan-election",   desc: "The disputed election that triggered Kenya's worst post-independence crisis." },
-  { id: "handshake", label: "The Handshake",    type: "event",    href: "/Handshake",              desc: "March 2018. Raila and Uhuru end their rivalry and forge a governing deal." },
-  { id: "luo",       label: "Luo Community",    type: "entity",   href: "/Luo",                   desc: "Raila's ethnic base. The lake, the intellect, the long opposition tradition." },
-  { id: "au",        label: "AU Commission",    type: "entity",   href: "/African-Union",          desc: "Raila appointed AU Commission Chairperson candidate in 2024." },
+  { id: "raila",     label: "Raila Odinga",     type: "center",   href: "/Political-Movements/Raila-Odinga",                                        desc: "Kenya's most consequential opposition figure. Five presidential runs." },
+  { id: "oginga",    label: "Oginga Odinga",    type: "family",   href: "/Political-Movements/Oginga-Odinga",                                       desc: "Father. Kenya's first Vice President. The original opposition voice." },
+  { id: "uhuru",     label: "Uhuru Kenyatta",   type: "alliance", href: "/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-and-the-Opposition",         desc: "Bitter rival turned ally. The 2018 Handshake reshaped Kenyan politics." },
+  { id: "kibaki",    label: "Mwai Kibaki",      type: "rival",    href: "/Presidencies/Mwai-Kibaki-Presidency/Kibaki-and-Uhuru-Kenyatta",           desc: "2007 election rival. The disputed result triggered post-election violence." },
+  { id: "ruto",      label: "William Ruto",     type: "rival",    href: "/Trails/The-Hustler%27s-Gambit%3A-William-Ruto",                           desc: "Post-2022 rival. Beat Raila in the 2022 presidential election." },
+  { id: "moi",       label: "Daniel arap Moi",  type: "alliance", href: "/Presidencies/Daniel-arap-Moi-Presidency/Moi-and-Raila-Odinga",           desc: "Detained Raila for years. Later formed a political alliance." },
+  { id: "kalonzo",   label: "Kalonzo Musyoka",  type: "alliance", href: "/Kamba/Kalonzo-Musyoka-Deep-Dive",                                         desc: "Coalition partner across multiple elections. NASA alliance 2017." },
+  { id: "mudavadi",  label: "Musalia Mudavadi", type: "alliance", href: "/Luhya/Musalia-Mudavadi-Deep-Dive",                                        desc: "Coalition partner. CORD and Orange movement ally." },
+  { id: "karua",     label: "Martha Karua",     type: "alliance", href: "/Presidencies/Mwai-Kibaki-Presidency/Kibaki-and-Martha-Karua-Iron-Lady",   desc: "NARC ally. Prominent reformist who shared the democracy movement." },
+  { id: "matiba",    label: "Kenneth Matiba",   type: "alliance", href: "/Political-Movements/Kenneth-Matiba",                                      desc: "Democracy movement ally. Both fought for multiparty politics in the 1990s." },
+  { id: "odm",       label: "ODM Party",        type: "entity",   href: "/Elections/2007-Election/2007-Election-Raila-Odinga-ODM",                  desc: "Orange Democratic Movement. Raila's political vehicle since 2007." },
+  { id: "e2007",     label: "2007 Election",    type: "event",    href: "/Trails/When-Kenya-Burned%3A-2007-08",                                     desc: "The disputed election that triggered Kenya's worst post-independence crisis." },
+  { id: "handshake", label: "The Handshake",    type: "event",    href: "/Trails/The-Handshake",                                                    desc: "March 2018. Raila and Uhuru end their rivalry and forge a governing deal." },
+  { id: "luo",       label: "Luo Community",    type: "entity",   href: "/Luo/Luo",                                                                 desc: "Raila's ethnic base. The lake, the intellect, the long opposition tradition." },
+  { id: "au",        label: "AU Commission",    type: "entity",   href: "/Presidencies/Mwai-Kibaki-Presidency/Kibaki-and-the-African-Union-Leadership", desc: "Raila appointed AU Commission Chairperson candidate in 2024." },
 ]
 
 const LINKS = [
