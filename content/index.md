@@ -73,7 +73,7 @@ Every theme has its own index. Start at any node - the graph takes you further.
 ## Story Trails
 
 <div class="ok-trails-callout">
-<p>2,000 curated journeys through Kenya's history. Each trail is a sequence of notes ordered to tell a complete story arc. Follow the links. Every note has its own trails branching off.</p>
+<p>141 curated journeys through Kenya's history. Each trail is a sequence of notes ordered to tell a complete story arc. Follow the thread. Every note has its own trails branching off.</p>
 <p>You may not come back the same way you arrived.</p>
 <p><a href="STORY-TRAILS">Browse all Story Trails</a></p>
 </div>
