@@ -319,8 +319,9 @@ function initMobileExplorer() {
   }
 }
 
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initMobileExplorer)
-} else {
-  initMobileExplorer()
-}
+// Staggered retries for same reason as knowledge-graphs:
+// type="module" postscript runs after Quartz SPA replaces DOM on initial load.
+initMobileExplorer()
+setTimeout(initMobileExplorer, 150)
+setTimeout(initMobileExplorer, 400)
+window.addEventListener("load", initMobileExplorer)

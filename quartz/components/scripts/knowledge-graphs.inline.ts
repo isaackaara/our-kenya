@@ -649,9 +649,11 @@ document.addEventListener("nav", () => {
   }
 })
 
-if (!tryInit()) {
-  setTimeout(tryInit, 100)
-  if (document.readyState !== "complete") {
-    window.addEventListener("load", tryInit)
-  }
-}
+// Run unconditionally with staggered retries.
+// type="module" postscript runs after Quartz fires nav on DOMContentLoaded,
+// so the listener misses the initial nav. Retries cover Quartz SPA DOM replacement.
+tryInit()
+setTimeout(tryInit, 150)
+setTimeout(tryInit, 400)
+setTimeout(tryInit, 900)
+window.addEventListener("load", tryInit)
