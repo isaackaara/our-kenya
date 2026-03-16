@@ -222,23 +222,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .explorer {
   @media all and ($mobile) {
-    &.collapsed {
-      flex: 0 0 34px;
-
-      & > .explorer-content {
-        transform: translateX(-100vw);
-        visibility: hidden;
-      }
-    }
-
-    &.js-ready:not(.collapsed) {
-      flex: 0 0 34px;
-
-      & > .explorer-content {
-        transform: translateX(0);
-        visibility: visible;
-      }
-    }
+    flex: 0 0 34px;
 
     .explorer-content {
       box-sizing: border-box;
@@ -250,7 +234,9 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       background-color: var(--light);
       max-width: 100vw;
       width: 100vw;
+      /* Default: hidden on mobile */
       transform: translateX(-100vw);
+      visibility: hidden;
       transition:
         transform 200ms ease,
         visibility 200ms ease;
@@ -258,7 +244,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       padding: 4rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;
-      visibility: hidden;
+    }
+
+    /* Only show when explicitly opened via JS */
+    &.mobile-open > .explorer-content {
+      transform: translateX(0);
+      visibility: visible;
     }
 
     .mobile-explorer {

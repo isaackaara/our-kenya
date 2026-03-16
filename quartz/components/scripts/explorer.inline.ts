@@ -21,19 +21,27 @@ type FolderState = {
 
 let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
-  const nearestExplorer = this.closest(".explorer") as HTMLElement
-  if (!nearestExplorer) return
-  const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
+  const explorer = this.closest(".explorer") as HTMLElement
+  if (!explorer) return
 
-  if (!explorerCollapsed) {
-    // Stop <html> from being scrollable when mobile explorer is open
-    document.documentElement.classList.add("mobile-no-scroll")
+  const isMobile = window.matchMedia("(max-width: 800px)").matches
+
+  if (isMobile) {
+    // Mobile: toggle .mobile-open class
+    const isOpen = explorer.classList.toggle("mobile-open")
+    explorer.setAttribute("aria-expanded", isOpen ? "true" : "false")
+    if (isOpen) {
+      document.documentElement.classList.add("mobile-no-scroll")
+    } else {
+      document.documentElement.classList.remove("mobile-no-scroll")
+    }
   } else {
-    document.documentElement.classList.remove("mobile-no-scroll")
+    // Desktop: toggle .collapsed class (existing behavior)
+    explorer.classList.toggle("collapsed")
+    explorer.setAttribute(
+      "aria-expanded",
+      explorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
+    )
   }
 }
 
@@ -288,35 +296,35 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   const isMobile = window.matchMedia("(max-width: 800px)").matches
 
-  // On mobile: ensure collapsed before revealing content (safe default)
-  // On desktop: just mark js-ready so the open state CSS can activate
-  for (const explorer of document.getElementsByClassName("explorer") as HTMLCollectionOf<HTMLElement>) {
-    if (isMobile) {
-      explorer.classList.add("collapsed")
+  // On mobile: close the panel on navigation
+  if (isMobile) {
+    for (const explorer of document.getElementsByClassName("explorer") as HTMLCollectionOf<HTMLElement>) {
+      explorer.classList.remove("mobile-open")
       explorer.setAttribute("aria-expanded", "false")
-      document.documentElement.classList.remove("mobile-no-scroll")
     }
-    // Gate the :not(.collapsed) CSS rule — panel stays hidden until we say so
-    explorer.classList.add("js-ready")
+    document.documentElement.classList.remove("mobile-no-scroll")
   }
 
   try {
     await setupExplorer(currentSlug)
   } catch (err) {
     console.warn("[explorer] setupExplorer failed:", err)
-    // Don't return — collapse/js-ready already set above, UI is safe
   }
 
   removeHideUntilLoaded()
 })
 
 window.addEventListener("resize", function () {
-  // Desktop explorer opens by default, and it stays open when the window is resized
-  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
+  const isMobile = window.matchMedia("(max-width: 800px)").matches
   const explorer = document.querySelector(".explorer")
-  if (explorer && !explorer.classList.contains("collapsed")) {
+
+  if (isMobile && explorer?.classList.contains("mobile-open")) {
+    // Mobile with panel open: ensure no-scroll is applied
     document.documentElement.classList.add("mobile-no-scroll")
-    return
+  } else if (!isMobile) {
+    // Desktop: remove mobile-open class and no-scroll if they exist
+    explorer?.classList.remove("mobile-open")
+    document.documentElement.classList.remove("mobile-no-scroll")
   }
 })
 
