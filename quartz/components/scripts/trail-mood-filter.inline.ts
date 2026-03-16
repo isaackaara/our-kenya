@@ -4,10 +4,10 @@
 
   var FILTERS = [
     { id: "all",         label: "All",          emoji: "",   test: function(s) { return true; } },
-    { id: "intense",     label: "Intense",      emoji: "🔥", test: function(s) { return s && s.e >= 8; } },
-    { id: "surprising",  label: "Surprising",   emoji: "✨", test: function(s) { return s && s.w >= 7; } },
-    { id: "balanced",    label: "Balanced",     emoji: "⚖️", test: function(s) { return !s || (s.e >= 5 && s.e <= 7 && s.w >= 5 && s.w <= 7); } },
-    { id: "informative", label: "Informative",  emoji: "📖", test: function(s) { return s && s.e <= 4; } }
+    { id: "intense",     label: "Intense",      emoji: "", test: function(s) { return s && s.e >= 8; } },
+    { id: "surprising",  label: "Surprising",   emoji: "", test: function(s) { return s && s.w >= 7; } },
+    { id: "balanced",    label: "Balanced",     emoji: "", test: function(s) { return !s || (s.e >= 5 && s.e <= 7 && s.w >= 5 && s.w <= 7); } },
+    { id: "informative", label: "Informative",  emoji: "", test: function(s) { return s && s.e <= 4; } }
   ];
 
   function injectStyles() {

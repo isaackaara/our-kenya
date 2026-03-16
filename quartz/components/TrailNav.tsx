@@ -76,7 +76,6 @@ export default ((opts?: TrailNavOptions) => {
             <div className="trail-card-main">
               <a href="/STORY-TRAILS" className="trail-back-link">← All Story Trails</a>
               <div className="trail-header">
-                <span className="trail-icon">📖</span>
                 <a href="/STORY-TRAILS" className="trail-name">
                   Story Trail: {trail.name}
                 </a>

@@ -75,7 +75,7 @@
 
     var mainSpan = document.createElement("span");
     mainSpan.id = "ok-surprise-btn-main";
-    mainSpan.textContent = "✦ " + BUTTON_TEXTS[0];
+    mainSpan.textContent = BUTTON_TEXTS[0];
 
     var countSpan = document.createElement("span");
     countSpan.id = "ok-surprise-count";
@@ -106,7 +106,7 @@
       currentPick = pickRandom(scores);
       if (!currentPick) return;
       textIdx = (textIdx + 1) % BUTTON_TEXTS.length;
-      mainSpan.textContent = "✦ " + BUTTON_TEXTS[textIdx];
+      mainSpan.textContent = BUTTON_TEXTS[textIdx];
       previewTitle.textContent = slugToTitle(currentPick);
       previewStars.textContent = "Wonder: " + renderStars(scores[currentPick].w);
     }

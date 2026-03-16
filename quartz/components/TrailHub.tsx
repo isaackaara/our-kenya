@@ -260,7 +260,7 @@ const TrailHub: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       
       <div class="trail-hub-random-wrapper">
         <button class="trail-hub-random" id="random-trail-btn">
-          🎲 Surprise me
+          Surprise me
         </button>
       </div>
       
