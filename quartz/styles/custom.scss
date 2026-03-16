@@ -345,3 +345,18 @@ body:has(article.homepage) .content-meta {
     right: 1rem;
   }
 }
+
+/* Search results - dark mode text fix */
+[saved-theme="dark"] {
+  & .result-card > h3 {
+    color: var(--light) !important;
+  }
+
+  & .result-card > p {
+    color: var(--lightgray) !important;
+  }
+
+  & > .preview-container {
+    color: var(--light) !important;
+  }
+}
