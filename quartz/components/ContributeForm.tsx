@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 // Isaac: replace this with your deployed Apps Script URL after running the deploy steps in the brief
-const APPS_SCRIPT_URL = "REPLACE_WITH_APPS_SCRIPT_URL"
+const APPS_SCRIPT_URL = "https://openclaw-api-proxy-production.up.railway.app/api/contributions"
 
 const ContributeForm: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   if (fileData.slug !== "contribute") return null
@@ -262,7 +262,6 @@ ContributeForm.afterDOMLoaded = `
 
       fetch(ENDPOINT, {
         method: "POST",
-        mode: "no-cors",
         body: JSON.stringify(data),
         headers: { "Content-Type": "application/json" }
       }).catch(function() {});
