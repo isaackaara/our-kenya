@@ -49,12 +49,13 @@ DailyThemeGrid.afterDOMLoaded = `
     var grid = document.getElementById("ok-theme-grid");
     if (!grid) return;
     var today = Math.floor(Date.now() / 86400000);
-    var pick10 = seededShuffle(themes, today).slice(0, 10);
+    var pick20 = seededShuffle(themes, today).slice(0, 20);
     var html = "";
-    for (var i = 0; i < pick10.length; i++) {
-      var t = pick10[i];
+    for (var i = 0; i < pick20.length; i++) {
+      var t = pick20[i];
       html += '<a href="' + t.href + '" class="ok-vertical-card"><strong>' + t.name + '</strong><span>' + t.tag + '</span></a>';
     }
+    html += '<a href="/Explore" class="ok-vertical-card ok-see-all"><strong>See all themes →</strong><span>Browse all 30 topics</span></a>';
     grid.innerHTML = html;
   }
   render();

@@ -163,6 +163,23 @@ body:has(article.homepage) .content-meta {
   text-decoration: underline;
 }
 
+// When ok-see-all is also a card (in the theme grid)
+.ok-vertical-card.ok-see-all {
+  border-style: dashed;
+  opacity: 0.7;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  strong {
+    color: var(--darkgray);
+  }
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
 // Contribute/Support inline CTAs on homepage
 .ok-section-cta {
   display: inline-block;
