@@ -19,6 +19,12 @@ cssclasses:
 
 <div id="ok-daily-note"></div>
 
+## The Shape of Kenya
+
+A living graph of 6,547 connections. Kenya at the center. Click any node to explore deeper.
+
+<div id="hero-graph-container"></div>
+
 ## Explore by storyline
 
 141 journeys that changed how we see Kenya. Each one pulls you deeper.

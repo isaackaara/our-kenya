@@ -1,0 +1,271 @@
+.heroGraphContainer {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background: linear-gradient(135deg, #faf8f8 0%, #f5f3f3 100%);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  margin: 2rem 0;
+}
+
+@media (max-width: 768px) {
+  .heroGraphContainer {
+    height: 400px;
+    border-radius: 4px;
+    margin: 1rem 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .heroGraphContainer {
+    height: 300px;
+  }
+}
+
+.svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.background {
+  fill: #faf8f8;
+}
+
+.container {
+  cursor: grab;
+}
+
+.container:active {
+  cursor: grabbing;
+}
+
+/* Links/Edges */
+.link {
+  stroke: #b8b8b8;
+  stroke-opacity: 0.4;
+  stroke-width: 1;
+  transition: stroke-opacity 0.2s ease;
+}
+
+.link:hover {
+  stroke-opacity: 0.8;
+}
+
+/* Nodes */
+.node {
+  cursor: pointer;
+  transition: filter 0.2s ease;
+}
+
+.node:hover circle {
+  filter: drop-shadow(0 0 8px rgba(187, 0, 0, 0.3));
+}
+
+.circle {
+  stroke: #fff;
+  stroke-width: 2;
+  transition: all 0.2s ease;
+}
+
+.label {
+  font-weight: 600;
+  pointer-events: none;
+  user-select: none;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Loading/Splash Screen */
+.splashScreen {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(0, 107, 63, 0.95) 0%, rgba(187, 0, 0, 0.95) 100%);
+  z-index: 100;
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.loaderContent {
+  text-align: center;
+  color: #fff;
+}
+
+.loader {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 2rem;
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loaderContent h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.loaderContent p {
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.85);
+  max-width: 300px;
+}
+
+/* Selected Node Info */
+.nodeInfo {
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  max-width: 300px;
+  animation: slideUp 0.3s ease-out;
+  z-index: 50;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .nodeInfo {
+    bottom: 1rem;
+    right: 1rem;
+    max-width: 250px;
+    padding: 1rem;
+  }
+}
+
+.nodeInfo h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #2b2b2b;
+  margin-bottom: 0.5rem;
+}
+
+.category {
+  font-size: 0.85rem;
+  color: #868686;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #999;
+  cursor: pointer;
+  padding: 0;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.closeBtn:hover {
+  background: #f0f0f0;
+  color: #333;
+}
+
+.explorerBtn {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: linear-gradient(135deg, #006B3F 0%, #004d2e 100%);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 107, 63, 0.2);
+}
+
+.explorerBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 107, 63, 0.3);
+  background: linear-gradient(135deg, #004d2e 0%, #003d23 100%);
+}
+
+.explorerBtn:active {
+  transform: translateY(0);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .heroGraphContainer {
+    background: linear-gradient(135deg, #161618 0%, #1a1a1c 100%);
+  }
+
+  .background {
+    fill: #161618;
+  }
+
+  .link {
+    stroke: #646464;
+  }
+
+  .nodeInfo {
+    background: #2b2b2d;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  }
+
+  .nodeInfo h3 {
+    color: #ebebec;
+  }
+
+  .category {
+    color: #a0a0a0;
+  }
+
+  .closeBtn:hover {
+    background: #3a3a3c;
+    color: #ebebec;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+  .nodeInfo {
+    bottom: 0.5rem;
+    right: 0.5rem;
+    max-width: calc(100% - 1rem);
+  }
+}
