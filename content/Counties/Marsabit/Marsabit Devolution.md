@@ -17,7 +17,7 @@ The [[Lake Turkana|Lake Turkana]] Wind Power project creates complex coordinatio
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Constitution of Kenya 2010: Chapter 11 (Devolved Government). https://www.parliament.go.ke/

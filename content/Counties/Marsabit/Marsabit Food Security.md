@@ -19,7 +19,7 @@ Early warning systems monitor rainfall, vegetation, and market conditions to pre
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Famine Early Warning Systems Network: Marsabit County Food Security Analysis. https://www.fews.net/

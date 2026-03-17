@@ -2,7 +2,7 @@ Wheat farming in Bungoma County occurs in higher-altitude areas where elevation 
 
 ## Geographic Distribution
 
-Wheat is cultivated in highland areas of Bungoma County, particularly at elevations exceeding 1,800 meters where temperatures favour wheat growth. Wheat farms are concentrated on [[../../Conservation/Mount Elgon National Park|Mount Elgon]] slopes and other highland areas. Cluster development has created localized wheat production zones. Suitable areas are limited relative to lowland regions.
+Wheat is cultivated in highland areas of Bungoma County, particularly at elevations exceeding 1,800 meters where temperatures favour wheat growth. Wheat farms are concentrated on [[Mount Elgon National Park|Mount Elgon]] slopes and other highland areas. Cluster development has created localized wheat production zones. Suitable areas are limited relative to lowland regions.
 
 ## Cultivation Practices
 

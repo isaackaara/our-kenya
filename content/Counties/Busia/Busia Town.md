@@ -9,7 +9,7 @@ The main highway to Kisumu passes through Busia, connecting to national networks
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Busia_town
 2. https://www.standardmedia.co.ke/counties/article/2000654321/busia-town-development

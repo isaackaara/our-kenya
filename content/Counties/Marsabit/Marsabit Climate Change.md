@@ -17,7 +17,7 @@ Mitigation efforts address climate change at national and global scales, though 
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Climate Change|Climate Change]]
 ## Sources
 

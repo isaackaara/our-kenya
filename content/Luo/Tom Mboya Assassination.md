@@ -12,7 +12,7 @@ Mboya was shot dead on July 5, 1969, in Nairobi while shopping. His assassin, Na
 
 The Luo response was visceral and immediate. Massive mourning ceremonies were held. Mboya's funeral in Rusinga Island drew thousands. The community's grief mixed rapidly with political rage: the sense that postcolonial Kenya, supposed to be a nation of all its peoples, had betrayed the Luo through targeted assassination of their brightest leader. Intellectuals, traders, workers, and farmers across Luo territory articulated the same conclusion: Kenyatta and the Kikuyu-dominated government were marginalizing the Luo.
 
-## The [[../Counties/Kisumu/Kisumu County|Kisumu County]] Massacre: October 1969
+## The [[Kisumu County|Kisumu County]] Massacre: October 1969
 
 Three months after Mboya's assassination, President Kenyatta made an official visit to Kisumu, Luo territory, in a show of strength and reconciliation. However, the gesture backfired catastrophically. On October 25, 1969, when Kenyatta's motorcade arrived, the crowd, still raw from Mboya's death, threw stones at the presidential vehicle. Security forces opened fire on the crowd. The official death toll was 11, but Luo oral testimony and human rights observers recorded higher numbers. The massacre crystallized Luo perception of state violence and ethnic targeting.
 

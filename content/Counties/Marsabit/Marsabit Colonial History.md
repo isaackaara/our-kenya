@@ -19,7 +19,7 @@ Archaeological and cultural heritage sites predate colonial occupation, but colo
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. British National Archives: Colonial Office Files on Northern Frontier District. https://www.nationalarchives.gov.uk/

@@ -40,7 +40,7 @@ Market trading requires capital, knowledge of supply networks, and ability to ma
 
 Contemporary Luo in urban areas span the full spectrum: wealthy businesspeople and professionals, government employees, teachers, boda boda drivers, market traders, restaurant workers, security guards, and unemployed youth. The Luo community is economically stratified.
 
-Yet urban Luo maintain ties to rural areas. Many send remittances to family in Siaya, [[../Counties/Kisumu/Kisumu County|Kisumu County]], or other Luo regions. Urban Luo return home for clan gatherings, funeral ceremonies, and holidays. The urban economy is understood as supplementary to a home area identity.
+Yet urban Luo maintain ties to rural areas. Many send remittances to family in Siaya, [[Kisumu County|Kisumu County]], or other Luo regions. Urban Luo return home for clan gatherings, funeral ceremonies, and holidays. The urban economy is understood as supplementary to a home area identity.
 
 ---
 

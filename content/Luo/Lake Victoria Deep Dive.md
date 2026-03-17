@@ -16,7 +16,7 @@ At least 200 species of Lake Victoria cichlids, including more than 100 that had
 
 ## Economic Impact of Nile Perch
 
-Despite the ecological catastrophe, the Nile perch created a massive fishing industry. The fish is large, meaty, and marketable internationally. Fileted and frozen Nile perch became a major export product, particularly to Europe. This created employment for fishers, traders, and processing workers, especially along the Kenyan shores. The fishing industry transformed [[../Counties/Kisumu/Kisumu County|Kisumu County]] and other Lake Victoria port towns into vibrant economic centers.
+Despite the ecological catastrophe, the Nile perch created a massive fishing industry. The fish is large, meaty, and marketable internationally. Fileted and frozen Nile perch became a major export product, particularly to Europe. This created employment for fishers, traders, and processing workers, especially along the Kenyan shores. The fishing industry transformed [[Kisumu County|Kisumu County]] and other Lake Victoria port towns into vibrant economic centers.
 
 However, the economic gains came with social costs. The shift from diverse small-scale cichlid fishing to industrial Nile perch operations favored capital-intensive operations and displaced smaller-scale fishers. Environmental changes also affected traditional fishing practices and the availability of the small dried fish (omena or dagaa) that had long been important local protein sources.
 

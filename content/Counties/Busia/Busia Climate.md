@@ -9,7 +9,7 @@ The warm, wet climate supports sugarcane cultivation and other tropical crops. L
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Climate|Climate]]
 ## Sources
 1. https://www.worldbank.org/en/country/kenya/climate

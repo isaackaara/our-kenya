@@ -15,7 +15,7 @@ Community participation mechanisms including public participation in budgeting a
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Constitution of Kenya 2010: Chapter 11 (Devolved Government). https://www.parliament.go.ke/

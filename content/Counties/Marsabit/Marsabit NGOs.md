@@ -21,7 +21,7 @@ The [[Lake Turkana|Lake Turkana]] Wind Power project involvement creates opportu
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. NGO Coordination Board Kenya: Registered Organisations Operating in Northern Kenya. https://www.ngoboard.or.ke/

@@ -17,7 +17,7 @@ Livelihood diversification occurs as pastoralists engage in trading, small busin
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Pastoral Communication Initiative: Marsabit County Livestock Production Survey. https://www.pcikenya.org/

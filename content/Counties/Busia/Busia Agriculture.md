@@ -9,7 +9,7 @@ Maize production in Busia contributes to both household consumption and regional
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Agriculture|Agriculture]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/

@@ -8,7 +8,7 @@ Observed rainfall data shows increased variability with periodic heavy rains and
 
 Average temperatures show warming trends particularly in lowland areas. Temperature increases affect crop suitability and pest distribution patterns. Heat stress on crops increases as temperatures exceed optimal growth ranges. Temperature increases reduce water availability through increased evaporation.
 
-## [[../../Conservation/Mount Elgon National Park|Mount Elgon]] Forest Impacts
+## [[Mount Elgon National Park|Mount Elgon]] Forest Impacts
 
 Montane forests on Mount Elgon slopes face stress from changing climate conditions. Species adapted to specific temperature and moisture conditions face potential extinction risks. Forest productivity may decline from changing conditions. Forest-dependent wildlife faces habitat stress.
 

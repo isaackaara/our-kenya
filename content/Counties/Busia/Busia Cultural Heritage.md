@@ -9,7 +9,7 @@ Music and dance remain central to community celebrations and festivals. Churches
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Cultural Heritage|Cultural Heritage]]
 ## Sources
 1. https://www.kenyapedia.com/culture/

@@ -9,7 +9,7 @@ Kenya and Uganda coordinate border management through bilateral agreements. Regu
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/busia-border-crossing
 2. https://www.ketra.go.ke/border-posts/busia

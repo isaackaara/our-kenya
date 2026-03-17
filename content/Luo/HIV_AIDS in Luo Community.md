@@ -6,7 +6,7 @@ title: HIV AIDS in Luo Community
 
 ## Epidemiology and Geography
 
-Luo regions bear a disproportionate share of Kenya's HIV burden. As of 2023, [[../Counties/Kisumu/Kisumu County|Kisumu County]] had 128,091 people living with HIV; Homa Bay had 120,600; and Siaya had 96,297. These three counties together account for significant portions of Kenya's total 1.4 million people living with HIV.
+Luo regions bear a disproportionate share of Kenya's HIV burden. As of 2023, [[Kisumu County|Kisumu County]] had 128,091 people living with HIV; Homa Bay had 120,600; and Siaya had 96,297. These three counties together account for significant portions of Kenya's total 1.4 million people living with HIV.
 
 The high prevalence concentrates in fishing communities around [[Lake Victoria Kenya|Lake Victoria]], where mobile populations, transactional sex, and limited health access intersect.
 

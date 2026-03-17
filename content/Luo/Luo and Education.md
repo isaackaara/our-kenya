@@ -2,7 +2,7 @@ The Luo embraced missionary education in the colonial period with particular ent
 
 ## Key Facts
 
-- **Early missionary schools**: Catholic and Protestant missions established schools in Nyanza Province from the early 1900s. Luo communities, particularly around [[../Counties/Kisumu/Kisumu County|Kisumu County]] and in Siaya, sent children to these schools in significant numbers
+- **Early missionary schools**: Catholic and Protestant missions established schools in Nyanza Province from the early 1900s. Luo communities, particularly around [[Kisumu County|Kisumu County]] and in Siaya, sent children to these schools in significant numbers
 - **Disproportionate representation**: By the 1940s-1950s, Luo students represented a notably high proportion of Kenya's educated class. Luo comprised a substantial share of students at Alliance High School, Government School Nairobi, and other selective secondary institutions
 - **Labor movement leadership**: Educated Luo, particularly [[Tom Mboya|Tom Mboya]], became dominant figures in Kenya's labor movement. Mboya's position as Secretary General of the Kenya Federation of Labour (KFL) and his leadership during independence negotiations demonstrated the political leverage that education provided
 - **Tom Mboya as symbol**: Tom Mboya, an educated Luo from humble origins, became the embodiment of Luo ambition and the promise of education. His assassination in 1969 was widely understood as an attack on Luo aspirations and demonstrated the vulnerability of educated elites

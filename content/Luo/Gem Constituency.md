@@ -2,7 +2,7 @@ Gem Constituency, located in [[Siaya County|Siaya County]] in the Luo heartland,
 
 ## Geography and Demographics
 
-Gem Constituency occupies a region north of [[../Counties/Kisumu/Kisumu County|Kisumu County]] in Siaya County. The area is predominantly Luo, with farming and fishing as primary economic activities. Kisii and Luhya communities constitute small minorities.
+Gem Constituency occupies a region north of [[Kisumu County|Kisumu County]] in Siaya County. The area is predominantly Luo, with farming and fishing as primary economic activities. Kisii and Luhya communities constitute small minorities.
 
 The terrain is fertile, supporting agriculture and small-scale farming. The area has produced many educated Luo, suggesting that Gem offered economic stability and value placement on education.
 

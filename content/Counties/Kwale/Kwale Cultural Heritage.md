@@ -25,7 +25,7 @@ Sacred groves (kayas) that served important religious and historical functions i
 - [[Kwale Islam|Kwale Islam]]
 - [[Kwale Tourism|Kwale Tourism]]
 - [[Kwale Education|Kwale Education]]
-- [[../../Swahili Culture|Swahili Culture]]
+- [[Swahili Culture|Swahili Culture]]
 
 ## Sources
 

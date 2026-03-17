@@ -18,7 +18,7 @@ Being perpetually out of power has had measurable consequences for Luo regions:
 
 2. **Resource allocation**: Government patronage flows to supporters, so opposition areas receive less. This compounds poverty and limits opportunity.
 
-3. **Security**: Luo areas, particularly [[../Counties/Kisumu/Kisumu County|Kisumu County]], experienced police violence and security neglect when their leaders were in opposition.
+3. **Security**: Luo areas, particularly [[Kisumu County|Kisumu County]], experienced police violence and security neglect when their leaders were in opposition.
 
 4. **Economic decline**: Cities like Kisumu experienced visible decay, contrasting with investment in government-favoured regions.
 

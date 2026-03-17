@@ -68,7 +68,7 @@ This vertical contains 30 detailed notes covering Wajir County's geography, peop
 ## See Also
 
 - [[Somali|Somali]]
-- [[../../Somali/Somali Clans|Somali Clans]]
+- [[Somali Clans|Somali Clans]]
 - [[Wajir Town]]
 - [[Wajir Pastoralism]]
 - [[Wajir Security]]

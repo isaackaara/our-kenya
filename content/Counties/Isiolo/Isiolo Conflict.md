@@ -19,7 +19,7 @@ National policy frameworks including the National Cohesion and Integration Commi
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Conflict|Conflict]]
 ## Sources
 

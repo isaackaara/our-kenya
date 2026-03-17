@@ -17,7 +17,7 @@ Tourism around Lake Turkana includes wildlife viewing, cultural visits to local 
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya Wildlife Service: Lake Turkana Ecosystem Assessment. https://www.kws.go.ke/

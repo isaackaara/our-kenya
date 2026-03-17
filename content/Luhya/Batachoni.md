@@ -6,7 +6,7 @@ The Tachoni occupy areas around Webuye in Bungoma County, western Kenya. Their t
 
 ## Etymology and Identity
 
-The name "Tachoni" may derive from Kalenjin language, with one interpretation suggesting "I will return," possibly reflecting historical migration or territorial displacement. The Tachoni have historically occupied the [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]] region, which has been contested territory in colonial and post-colonial periods, particularly during the Mt. Elgon conflict of the early 2000s.
+The name "Tachoni" may derive from Kalenjin language, with one interpretation suggesting "I will return," possibly reflecting historical migration or territorial displacement. The Tachoni have historically occupied the [[Mount Elgon National Park|Mount Elgon National Park]] region, which has been contested territory in colonial and post-colonial periods, particularly during the Mt. Elgon conflict of the early 2000s.
 
 ## Relationship to the Bukusu and Luhya
 
@@ -38,7 +38,7 @@ Precise population figures for the Tachoni are difficult to establish, given cla
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

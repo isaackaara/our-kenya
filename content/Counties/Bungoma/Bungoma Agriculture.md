@@ -14,7 +14,7 @@ Wheat is cultivated in higher-altitude areas where elevation and temperature con
 
 ## Coffee Production
 
-Coffee is cultivated on [[../../Conservation/Mount Elgon National Park|Mount Elgon]] slopes where elevation creates suitable conditions. Coffee farming generates substantial cash income, though market price fluctuations create income volatility. Coffee processing and marketing provide income to traders and cooperatives. Coffee quality has improved through agronomic improvements.
+Coffee is cultivated on [[Mount Elgon National Park|Mount Elgon]] slopes where elevation creates suitable conditions. Coffee farming generates substantial cash income, though market price fluctuations create income volatility. Coffee processing and marketing provide income to traders and cooperatives. Coffee quality has improved through agronomic improvements.
 
 ## Sunflower Production
 

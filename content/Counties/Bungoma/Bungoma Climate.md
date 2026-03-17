@@ -1,4 +1,4 @@
-Bungoma County experiences a highland climate influenced by [[../../Conservation/Mount Elgon National Park|Mount Elgon]]'s elevation and geographical position. Rainfall is abundant in highland areas and moderate in lowland regions, supporting diverse agricultural production. The county receives bimodal rainfall with two distinct wet seasons. Climate variation across elevation zones creates distinct ecological zones and agricultural systems.
+Bungoma County experiences a highland climate influenced by [[Mount Elgon National Park|Mount Elgon]]'s elevation and geographical position. Rainfall is abundant in highland areas and moderate in lowland regions, supporting diverse agricultural production. The county receives bimodal rainfall with two distinct wet seasons. Climate variation across elevation zones creates distinct ecological zones and agricultural systems.
 
 ## Rainfall Patterns
 

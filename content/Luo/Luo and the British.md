@@ -4,7 +4,7 @@ The encounter between the Luo and British colonialism reshaped Luo territory, ad
 
 The British entered Luo territory in the 1890s as part of their larger imperial expansion in East Africa. Rather than facing organized military resistance comparable to the Nandi wars, the Luo leadership initially sought accommodation. By 1900, the Luo chief Odera was providing 1,500 porters to British expeditions against the Nandi, indicating early willingness to cooperate. Luo spiritual leaders apparently advised accommodation with British authority, recognizing both the military superiority and the opportunity for trade and patronage that colonial rule might offer.
 
-## [[../Counties/Kisumu/Kisumu County|Kisumu County]]: The Colonial Administrative Center
+## [[Kisumu County|Kisumu County]]: The Colonial Administrative Center
 
 The British established their regional headquarters initially at Mumias, then relocated to Kisumu around 1900. Kisumu's location on the lake made it ideal as a port for steamships, while the Uganda Railway (completed in 1901) terminated at Kisumu, making it the vital transportation hub for western Kenya and Uganda. The town became the seat of colonial administration for the Kavirondo District (the British name for Luo territory). From Kisumu, colonial officers administered Luo affairs, collected taxes, enforced labor recruitment, and mediated disputes. The establishment of Kisumu as a colonial town transformed it into a center of Luo political and economic life, a status it retained into independence and beyond.
 

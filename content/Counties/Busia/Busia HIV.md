@@ -9,7 +9,7 @@ HIV prevention education campaigns address transmission knowledge and risk reduc
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.health.go.ke/county-health-profiles/busia
 2. https://www.standardmedia.co.ke/counties/article/2000987654/hiv-busia

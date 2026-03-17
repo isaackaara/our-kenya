@@ -12,7 +12,7 @@ The Luo are a Nilotic people whose migration from present-day South Sudan into E
 
 ## Geographic Distribution
 
-Early Luo settlement was concentrated in Nyanza Province (now Nyanza Region, including Siaya, [[../Counties/Kisumu/Kisumu County|Kisumu County]], [[Homa Bay County|Homa Bay County]], and [[Migori County|Migori County]] counties) and extended into Kisii and parts of what became Western Kenya. Each wave of migration produced new clan branches and sub-groups, establishing the complex clan structure that defines Luo identity today.
+Early Luo settlement was concentrated in Nyanza Province (now Nyanza Region, including Siaya, [[Kisumu County|Kisumu County]], [[Homa Bay County|Homa Bay County]], and [[Migori County|Migori County]] counties) and extended into Kisii and parts of what became Western Kenya. Each wave of migration produced new clan branches and sub-groups, establishing the complex clan structure that defines Luo identity today.
 
 ## See Also
 

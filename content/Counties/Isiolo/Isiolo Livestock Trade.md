@@ -17,7 +17,7 @@ Market transparency and fair pricing remain contentious, with smallholder pastor
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya Bureau of Standards: Livestock Trade Standards and Certification. https://www.kebs.org/

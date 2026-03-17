@@ -19,7 +19,7 @@ The rise and fall of Mumias Sugar illustrates post-independence agricultural amb
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

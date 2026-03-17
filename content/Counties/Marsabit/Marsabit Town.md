@@ -17,7 +17,7 @@ Water access in Marsabit town relies on boreholes and rainwater harvesting from 
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Marsabit County Government: Town Profile and Administrative Report. https://www.marsabit.go.ke/

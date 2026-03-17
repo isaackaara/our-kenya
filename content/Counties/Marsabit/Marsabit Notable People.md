@@ -19,7 +19,7 @@ Many notable Marsabit people migrate to urban centres for employment and educati
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Notable People|Notable People]]
 ## Sources
 

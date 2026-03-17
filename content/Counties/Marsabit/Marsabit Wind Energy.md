@@ -17,7 +17,7 @@ Implementation challenges have included financing delays, environmental concerns
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Lake Turkana Wind Power: Project Information and Environmental Management Documents. https://www.ltwp.co.ke/

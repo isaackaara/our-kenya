@@ -17,7 +17,7 @@ Inter-ethnic relationships between Gabra and neighbouring Borana and Rendille co
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Notable People|Notable People]]
 ## Sources
 

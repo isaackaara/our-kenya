@@ -19,7 +19,7 @@ Access to national government resources and development projects depends partly 
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Politics|Politics]]
 ## Sources
 

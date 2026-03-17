@@ -17,7 +17,7 @@ The [[Lake Turkana|Lake Turkana]] Wind Power project represents significant infr
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Ministry of Transport: Road Network Maps and Maintenance Schedule, Northern Kenya. https://www.transport.go.ke/

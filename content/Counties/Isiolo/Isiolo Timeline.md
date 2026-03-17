@@ -35,7 +35,7 @@
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya Historical Society: Northern Kenya Administrative History. https://www.kenyahistory.org/

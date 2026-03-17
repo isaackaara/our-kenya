@@ -42,7 +42,7 @@ Some young Luo actively work to revitalize Luo culture: learning traditional mus
 
 ## Economic Aspirations and Inequality
 
-Young Luo, like young Kenyans generally, face significant economic pressures. Unemployment and underemployment are widespread, particularly among youth without tertiary education. Some young Luo aspire to entrepreneurship, particularly in technology and digital sectors. The widening gap between educated, professional young Luo and marginalized urban or rural youth creates internal differentiation within the young Luo community. A young Luo tech entrepreneur in Nairobi's tech hub has a vastly different life from a young Luo in rural [[../Counties/Kisumu/Kisumu County|Kisumu County]] struggling with subsistence agriculture and irregular employment.
+Young Luo, like young Kenyans generally, face significant economic pressures. Unemployment and underemployment are widespread, particularly among youth without tertiary education. Some young Luo aspire to entrepreneurship, particularly in technology and digital sectors. The widening gap between educated, professional young Luo and marginalized urban or rural youth creates internal differentiation within the young Luo community. A young Luo tech entrepreneur in Nairobi's tech hub has a vastly different life from a young Luo in rural [[Kisumu County|Kisumu County]] struggling with subsistence agriculture and irregular employment.
 
 ## Continuities and Questions
 

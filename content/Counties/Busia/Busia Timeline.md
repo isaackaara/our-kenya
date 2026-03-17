@@ -41,7 +41,7 @@ This timeline documents key dates and events in Busia County history from the co
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Busia_County
 2. https://www.standardmedia.co.ke/counties/busia-history

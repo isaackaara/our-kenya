@@ -10,7 +10,7 @@ Land tenure disputes remain significant, with Maasai communities asserting tradi
 
 ## Tourism and Economic Transformation
 
-Tourism revenue from the [[../../Maasai/The Maasai Mara|Maasai Mara]] has created new economic opportunities and dependencies. Many Maasai work as guides, hotel staff, and conservation workers. However, concerns persist regarding equitable benefit-sharing and whether tourism revenue adequately compensates for land use restrictions and wildlife conservation costs borne by local communities.
+Tourism revenue from the [[The Maasai Mara|Maasai Mara]] has created new economic opportunities and dependencies. Many Maasai work as guides, hotel staff, and conservation workers. However, concerns persist regarding equitable benefit-sharing and whether tourism revenue adequately compensates for land use restrictions and wildlife conservation costs borne by local communities.
 
 ## Cultural Preservation
 
@@ -24,12 +24,12 @@ See also: [[Maasai|Maasai]], [[Narok County|Narok County]], [[Narok Tourist Econ
 ## See Also
 
 - [[Maasai|Narok Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

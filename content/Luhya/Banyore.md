@@ -44,7 +44,7 @@ The Banyore maintain strong identification with the Luhya confederation despite 
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

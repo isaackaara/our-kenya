@@ -19,7 +19,7 @@ Numbers alone do not translate to political power. The Luhya confederation's str
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

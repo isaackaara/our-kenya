@@ -17,7 +17,7 @@ Human-wildlife conflict, particularly livestock predation by carnivores, creates
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya Wildlife Service: Wildlife Population Surveys Outside Protected Areas. https://www.kws.go.ke/

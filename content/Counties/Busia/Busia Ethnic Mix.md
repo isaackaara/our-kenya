@@ -9,7 +9,7 @@ Ethnic agricultural knowledge sharing facilitates production improvements. Fishi
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Demographics_of_Kenya#Busia
 2. https://www.standardmedia.co.ke/counties/article/2000654321/ethnic-diversity-busia

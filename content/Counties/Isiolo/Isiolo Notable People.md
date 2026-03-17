@@ -21,7 +21,7 @@ Many notable Isiolo people migrate to urban centres for employment and education
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Notable People|Notable People]]
 ## Sources
 

@@ -9,7 +9,7 @@ Samia farming focuses on maize, beans, and other crops adapted to local climate.
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Notable People|Notable People]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Samia_people

@@ -28,7 +28,7 @@ Women did most of the processing work. A woman with a successful fish-drying ope
 
 ## The Omena Trade Route
 
-The *omena* (tiny silvery fish, scientifically *Stolothrissa tanganicae*) became the most traded commodity. Dried *omena* was lightweight, non-perishable, and highly valued. The *omena* trade route extended from Lake Victoria beaches to Nairobi, [[../Counties/Kisumu/Kisumu County|Kisumu County]], and upcountry markets. *Omena* was sold in markets, traded for other goods, and eaten as a cheap protein source.
+The *omena* (tiny silvery fish, scientifically *Stolothrissa tanganicae*) became the most traded commodity. Dried *omena* was lightweight, non-perishable, and highly valued. The *omena* trade route extended from Lake Victoria beaches to Nairobi, [[Kisumu County|Kisumu County]], and upcountry markets. *Omena* was sold in markets, traded for other goods, and eaten as a cheap protein source.
 
 The *omena* trade created an international commodity network. Women dried *omena* in Kisumu, sold it to traders in Nairobi, who supplied restaurants, hotels, and markets. *Omena* was profit and prestige: a woman who controlled a large *omena* trade network had wealth and influence.
 

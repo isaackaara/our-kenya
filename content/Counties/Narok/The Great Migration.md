@@ -4,7 +4,7 @@ This migration is driven by seasonal rainfall patterns and the availability of f
 
 ## Migration Cycle
 
-The migration follows an annual pattern. From December to May, the herds remain in the southern Serengeti where abundant grass follows the short and long rains. As the dry season approaches in June, the herds begin moving northward, crossing the Mara River in July and August to reach the [[../../Maasai/The Maasai Mara|Maasai Mara]] where grass remains green due to different rainfall patterns.
+The migration follows an annual pattern. From December to May, the herds remain in the southern Serengeti where abundant grass follows the short and long rains. As the dry season approaches in June, the herds begin moving northward, crossing the Mara River in July and August to reach the [[The Maasai Mara|Maasai Mara]] where grass remains green due to different rainfall patterns.
 
 The herds remain in the Mara through September and October before returning southward in November to complete the cycle.
 
@@ -28,12 +28,12 @@ See also: [[Maasai Mara National Reserve|Maasai Mara National Reserve]], [[Narok
 ## See Also
 
 - [[Maasai|Narok Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

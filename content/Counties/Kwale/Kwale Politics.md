@@ -23,7 +23,7 @@ Devolved governance has created opportunities for transparency and accountabilit
 - [[Kwale Colonial History|Kwale Colonial History]]
 - [[Kwale Youth|Kwale Youth]]
 - [[Digo People|Digo People]]
-- [[../../Mombasa/Mombasa County|Mombasa County]]
+- [[Mombasa County|Mombasa County]]
 
 ## Sources
 

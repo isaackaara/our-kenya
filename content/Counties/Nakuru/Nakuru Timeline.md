@@ -2,7 +2,7 @@
 
 1920s-1960s - White Highlands period, with European settler farms dominating Nakuru agriculture and politics.
 
-1952-1960 - Mau Mau uprising affects [[../Nakuru/Nakuru County|Nakuru County]], though violence concentrates more in central highlands.
+1952-1960 - Mau Mau uprising affects [[Nakuru County|Nakuru County]], though violence concentrates more in central highlands.
 
 1963 - Kenya independence. White farms subdivided and redistributed to African buyers, primarily wealthy [[Kikuyu|Kikuyu]].
 

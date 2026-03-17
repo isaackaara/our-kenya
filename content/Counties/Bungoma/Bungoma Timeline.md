@@ -17,7 +17,7 @@ This timeline documents key dates and events in Bungoma County history from pre-
 - 1970s-1980s: Sugarcane expansion accelerates; Bungoma becomes major sugar production region; sugar mills operate at capacity
 - 1980s-1990s: Population growth increases significantly; agricultural land subdivision intensifies
 - 1990s: Government sugar factory development; Nzoia Sugar Company begins operations
-- 2000s: [[../../Conservation/Mount Elgon National Park|Mount Elgon]] National Park protection increases; forest conservation efforts expand
+- 2000s: [[Mount Elgon National Park|Mount Elgon]] National Park protection increases; forest conservation efforts expand
 
 ## Devolution Era (2013-Present)
 

@@ -9,7 +9,7 @@ County government receives equitable share funding from national government reve
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.constitution.go.ke/the-constitution/
 2. https://www.standardmedia.co.ke/counties/article/2001345678/county-governance-busia

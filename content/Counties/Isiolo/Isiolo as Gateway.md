@@ -9,7 +9,7 @@ The LAPSSET Corridor project, conceived in the 2000s and implemented from 2015 o
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Historical records: Kenya Colonial Office files on Northern Frontier District administration. https://www.britishlibrary.org/

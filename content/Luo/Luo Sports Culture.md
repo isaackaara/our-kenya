@@ -12,7 +12,7 @@ Luo runners have excelled in middle and long-distance events. Kenyan running exc
 
 ## Boxing Tradition
 
-Luo participation in boxing extends back several decades. The sport offers a pathway for youth without resources for formal education. Boxing gyms exist in [[../Counties/Kisumu/Kisumu County|Kisumu County]] and Nairobi's Eastlands, training young men to compete locally and nationally.
+Luo participation in boxing extends back several decades. The sport offers a pathway for youth without resources for formal education. Boxing gyms exist in [[Kisumu County|Kisumu County]] and Nairobi's Eastlands, training young men to compete locally and nationally.
 
 ## Contemporary Athletic Landscape
 

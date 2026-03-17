@@ -19,7 +19,7 @@ NGO coordination mechanisms including county development forums facilitate infor
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. NGO Coordination Board Kenya: Registered Organisations Operating in Northern Kenya. https://www.ngoboard.or.ke/

@@ -6,7 +6,7 @@ Kisumu's economy is based on fishing, agriculture (particularly sugar, cotton, a
 
 ## Sugar Production
 
-Sugar cane cultivation and processing is important in [[../Kisumu/Kisumu County|Kisumu County]]. Several sugar factories operate in the region, including Kisumu Sugar Company. Sugar production and processing employ thousands and contribute to regional GDP.
+Sugar cane cultivation and processing is important in [[Kisumu County|Kisumu County]]. Several sugar factories operate in the region, including Kisumu Sugar Company. Sugar production and processing employ thousands and contribute to regional GDP.
 
 ## Cotton Production
 

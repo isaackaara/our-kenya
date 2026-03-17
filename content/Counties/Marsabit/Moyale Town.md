@@ -19,7 +19,7 @@ Devolved government responsibilities have increased county engagement in border 
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. World Bank: Regional Trade in East Africa: Border Towns and Cross-Border Commerce. https://www.worldbank.org/

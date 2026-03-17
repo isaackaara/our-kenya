@@ -9,7 +9,7 @@ NGO coordination forums attempt to align activities and reduce duplication. NGO 
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/ngos-busia
 2. https://www.globalpeaceinitiative.org/regions/busia-organizations

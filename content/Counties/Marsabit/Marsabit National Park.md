@@ -17,7 +17,7 @@ Scientific research on wildlife populations and forest ecology occurs within the
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya Wildlife Service: Marsabit National Park Management Plan 2023,2027. https://www.kws.go.ke/

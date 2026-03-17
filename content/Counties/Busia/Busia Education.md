@@ -9,7 +9,7 @@ Rural schools face infrastructure limitations and teacher shortages. Distance to
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Education|Education]]
 ## Sources
 1. https://www.education.go.ke/statistics-and-reports

@@ -11,7 +11,7 @@ Pastoralism increasingly coexists with sedentary settlement, education, and non-
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Pastoral Communication Initiative: Isiolo County Livestock Production Survey. https://www.pcikenya.org/

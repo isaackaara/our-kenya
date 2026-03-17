@@ -1,7 +1,7 @@
 This timeline documents key dates and events in Trans-Nzoia County history from the colonial period through 2026.
 
 ## Early Colonial Period (1895-1920s)
-1895: European explorers document [[../../Conservation/Mount Elgon National Park|Mount Elgon]] and western Kenya region
+1895: European explorers document [[Mount Elgon National Park|Mount Elgon]] and western Kenya region
 1902: British colonial administration established in Trans-Nzoia area
 1905-1920: European settler farms established in Trans-Nzoia highlands
 1910: Kitale established as colonial administrative center

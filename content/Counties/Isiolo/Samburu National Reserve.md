@@ -9,7 +9,7 @@ The reserves employ thousands of local residents as guides, rangers, and hospita
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya Wildlife Service: Samburu Ecosystem Management Plan 2022,2026. https://www.kws.go.ke/

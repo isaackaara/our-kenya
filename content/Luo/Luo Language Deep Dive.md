@@ -56,7 +56,7 @@ The Bible remains in use in churches where Dholuo remains employed liturgically,
 
 ## Media and Broadcast
 
-Ramogi FM emerged as a Dholuo-language radio station broadcasting from [[../Counties/Kisumu/Kisumu County|Kisumu County]], reaching Nyanza region and transmitting nationally via satellite/internet. Ramogi FM programs include news, music, talk shows, and cultural content in Dholuo, serving diaspora audiences and rural listeners preferring the language.
+Ramogi FM emerged as a Dholuo-language radio station broadcasting from [[Kisumu County|Kisumu County]], reaching Nyanza region and transmitting nationally via satellite/internet. Ramogi FM programs include news, music, talk shows, and cultural content in Dholuo, serving diaspora audiences and rural listeners preferring the language.
 
 Television media employs Dholuo minimally compared to English or Kiswahili. Occasional Dholuo-language programming appears on national stations (KTN, NTV), but regular Dholuo content is rare.
 

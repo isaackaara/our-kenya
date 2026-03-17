@@ -13,7 +13,7 @@ Late colonial period (1950s-1960s) saw increased nationalist agitation and movem
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. British National Archives: Colonial Office Files on Northern Frontier District Administration. https://www.nationalarchives.gov.uk/

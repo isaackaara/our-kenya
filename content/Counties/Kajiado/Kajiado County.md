@@ -41,12 +41,12 @@ Kajiado town functions as the county headquarters and administrative center.
 ## See Also
 
 - [[Kajiado Maasai|Kajiado Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Kajiado Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

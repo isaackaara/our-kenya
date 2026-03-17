@@ -41,7 +41,7 @@ This hub lists all 30 county notes:
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: County Population Estimates, 2019. https://www.knbs.or.ke/

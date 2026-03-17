@@ -19,7 +19,7 @@ National policy frameworks including the National Cohesion and Integration Commi
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Conflict|Conflict]]
 ## Sources
 

@@ -11,7 +11,7 @@ County development planning shapes infrastructure investment, education expansio
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Politics|Politics]]
 ## Sources
 

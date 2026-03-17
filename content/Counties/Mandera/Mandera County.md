@@ -68,7 +68,7 @@ This vertical contains 30 detailed notes covering Mandera County across its geog
 ## See Also
 
 - [[Somali]]
-- [[../../Somali/Somali Clans]]
+- [[Somali Clans]]
 - [[Mandera Town]]
 - [[Mandera Pastoralism]]
 - [[Mandera Security]]

@@ -20,7 +20,7 @@ Despite challenges, Diani remains central to Kenya's international image and its
 - [[Tiwi Beach|Tiwi Beach]]
 - [[Kwale Climate Change|Kwale Climate Change]]
 - [[Kwale Real Estate|Kwale Real Estate]]
-- [[../../Mombasa/Mombasa County|Mombasa County]]
+- [[Mombasa County|Mombasa County]]
 
 ## Sources
 

@@ -9,7 +9,7 @@ Agricultural land use focuses on sugarcane, maize, and other crops. Grazing area
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/land-issues-busia
 2. https://www.lands.go.ke/county-information

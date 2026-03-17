@@ -1,4 +1,4 @@
-The Uganda Railway, completed from Mombasa to [[../Counties/Kisumu/Kisumu County|Kisumu County]] in 1901, fundamentally transformed Luo society, economy, and relationship to the British colonial state. The railway's arrival marked the beginning of Kisumu's rise as a colonial administrative and economic center and accelerated the integration of the Luo into the colonial political economy.
+The Uganda Railway, completed from Mombasa to [[Kisumu County|Kisumu County]] in 1901, fundamentally transformed Luo society, economy, and relationship to the British colonial state. The railway's arrival marked the beginning of Kisumu's rise as a colonial administrative and economic center and accelerated the integration of the Luo into the colonial political economy.
 
 ## The Railway Terminus at Kisumu
 

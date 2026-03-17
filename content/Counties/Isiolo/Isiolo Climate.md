@@ -15,7 +15,7 @@ Climate change is intensifying precipitation variability and increasing aridity.
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Climate|Climate]]
 ## Sources
 

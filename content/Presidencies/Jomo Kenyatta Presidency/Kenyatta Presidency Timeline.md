@@ -52,7 +52,7 @@ The economic trajectory was also significant: the early years saw growth and opt
 - [[Kenyatta Rise to Power|Kenyatta Rise to Power]]
 - [[Kenyatta Final Years|Kenyatta Final Years]]
 - [[Kenyatta Legacy|Kenyatta Legacy]]
-- [[../../Kenya Independence|Kenya Independence]]
+- [[Kenya Independence|Kenya Independence]]
 - [[../../Kenya Timeline|Kenya Timeline]]
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 

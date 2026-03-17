@@ -36,12 +36,12 @@ See also: [[Baringo County|Baringo County]], [[Lake Baringo|Lake Baringo]], [[Ba
 ## See Also
 
 - [[Maasai|Baringo Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Baringo Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

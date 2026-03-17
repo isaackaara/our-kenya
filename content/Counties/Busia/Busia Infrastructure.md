@@ -9,7 +9,7 @@ NCPB grain storage is limited in Busia, with much grain transported to other reg
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000987654/infrastructure-busia
 2. https://www.worldbank.org/en/country/kenya/brief/rural-infrastructure

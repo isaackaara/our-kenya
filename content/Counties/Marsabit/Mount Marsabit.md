@@ -17,7 +17,7 @@ Mount Marsabit's crater lakes and forested slopes attract tourism. Visitor numbe
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya Wildlife Service: Mount Marsabit Forest and Wildlife Survey. https://www.kws.go.ke/

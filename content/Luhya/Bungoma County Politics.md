@@ -22,7 +22,7 @@ The circumcision season brings young men from surrounding areas to Bungoma for i
 
 Bungoma and Trans-Nzoia counties share borders and interact politically and economically. Some Bukusu populations extend into Trans-Nzoia, while Trans-Nzoia has significant populations of Kalenjin (Nandi and Pokot) and other groups. Inter-county relations have involved both cooperation (on shared development challenges like water) and competition for resources.
 
-The [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]] region shared between the two counties was the site of the 2006-2008 conflict between the Sabaot Land Defence Force and the Kenya Army, affecting both counties.
+The [[Mount Elgon National Park|Mount Elgon National Park]] region shared between the two counties was the site of the 2006-2008 conflict between the Sabaot Land Defence Force and the Kenya Army, affecting both counties.
 
 ## Development Priorities
 
@@ -56,7 +56,7 @@ No specific sources were identified for this overview; it represents synthesis o
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

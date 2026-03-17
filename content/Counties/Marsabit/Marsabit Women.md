@@ -19,7 +19,7 @@ Pastoralist women face particular challenges balancing pastoral livelihoods with
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Women|Women]]
 ## Sources
 

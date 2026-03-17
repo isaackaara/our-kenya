@@ -17,7 +17,7 @@ Tourism possibilities in the Chalbi remain underdeveloped. Extreme remoteness an
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Geological Survey of Kenya: Desert and Arid Land Classification Report. https://www.gsk.go.ke/

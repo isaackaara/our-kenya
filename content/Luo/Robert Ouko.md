@@ -12,7 +12,7 @@ As Foreign Minister, Ouko was an internationally respected diplomat and advocate
 
 ## Assassination (February 13, 1990)
 
-On the night of February 12 or the early morning of February 13, 1990, Ouko disappeared from his home at Koru (a town near [[../Counties/Kisumu/Kisumu County|Kisumu County]]). His body was discovered later on February 13 near Got Alila hill in the Muhoroni area of Kisumu County. The body was burned, suggesting an attempt to destroy evidence.
+On the night of February 12 or the early morning of February 13, 1990, Ouko disappeared from his home at Koru (a town near [[Kisumu County|Kisumu County]]). His body was discovered later on February 13 near Got Alila hill in the Muhoroni area of Kisumu County. The body was burned, suggesting an attempt to destroy evidence.
 
 The official cause of death and the circumstances of the murder immediately became subject to intense speculation and investigation. A herdsboy discovered the body, and initial investigations suggested that Ouko had been shot before the body was burned. The location of the body (near Muhoroni, in Luo heartland) and the manner of death (burning) fueled theories that the murder had political rather than criminal motivation.
 

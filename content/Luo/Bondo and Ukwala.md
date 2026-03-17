@@ -1,4 +1,4 @@
-Bondo and Ukwala are northern sub-counties of [[Siaya County|Siaya County]], located in the Luo heartland north of [[../Counties/Kisumu/Kisumu County|Kisumu County]]. These areas are historically and culturally significant as fishing and agricultural communities, with deep connections to [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]'s family roots and to the broader landscape of Luo cultural identity.
+Bondo and Ukwala are northern sub-counties of [[Siaya County|Siaya County]], located in the Luo heartland north of [[Kisumu County|Kisumu County]]. These areas are historically and culturally significant as fishing and agricultural communities, with deep connections to [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]'s family roots and to the broader landscape of Luo cultural identity.
 
 ## Geography and Economy
 

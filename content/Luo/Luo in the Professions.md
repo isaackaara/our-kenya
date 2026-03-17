@@ -2,7 +2,7 @@ The Luo community has produced a disproportionately large cohort of professional
 
 ## Education and Mission Schools
 
-The Luo emphasis on professional achievement is rooted partly in the historical prominence of Protestant missionary activity in Luo territories, particularly around [[../Counties/Kisumu/Kisumu County|Kisumu County]] and the broader Lake Region. Mission schools, which provided early modern education in colonial Kenya, were particularly active and well-established in Luo areas. Many Luo families prioritized education for their sons and, increasingly, daughters, viewing schooling as a pathway to advancement and prestige.
+The Luo emphasis on professional achievement is rooted partly in the historical prominence of Protestant missionary activity in Luo territories, particularly around [[Kisumu County|Kisumu County]] and the broader Lake Region. Mission schools, which provided early modern education in colonial Kenya, were particularly active and well-established in Luo areas. Many Luo families prioritized education for their sons and, increasingly, daughters, viewing schooling as a pathway to advancement and prestige.
 
 This educational tradition created a cultural value around academic achievement that persists to the present. Luo families continue to invest substantially in their children's education, and professional credentials (university degrees, professional certifications) carry significant prestige and social status.
 

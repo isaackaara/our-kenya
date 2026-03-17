@@ -17,7 +17,7 @@ Early warning systems monitor rainfall, vegetation, and market conditions to pre
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Famine Early Warning Systems Network: Isiolo County Food Security Analysis. https://www.fews.net/

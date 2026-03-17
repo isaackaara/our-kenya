@@ -14,7 +14,7 @@ This imposed chieftaincy structure disrupted Luo social hierarchy and created ne
 
 ## Taxation and Economic Disruption
 
-British rule introduced hut taxes and other fiscal impositions that disrupted Luo pastoral and agricultural economies. Taxation forced Luo men into wage labor, moving to colonial settlements, plantations, or urban centers like [[../Counties/Kisumu/Kisumu County|Kisumu County]] to earn cash for taxes. This labor migration altered family structures, reduced agricultural productivity in home areas, and created new forms of economic dependency on colonial systems.
+British rule introduced hut taxes and other fiscal impositions that disrupted Luo pastoral and agricultural economies. Taxation forced Luo men into wage labor, moving to colonial settlements, plantations, or urban centers like [[Kisumu County|Kisumu County]] to earn cash for taxes. This labor migration altered family structures, reduced agricultural productivity in home areas, and created new forms of economic dependency on colonial systems.
 
 ## The Kavirondo Taxpayers Welfare Association (1920s)
 

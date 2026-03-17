@@ -19,7 +19,7 @@ Social services addressing youth mental health and substance abuse remain underd
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Youth|Youth]]
 ## Sources
 

@@ -57,4 +57,4 @@ The Luo emphasis on oratory, debate, and discussion continues to shape political
 
 3. Vocal Media. "The History of the Luo Community in Kenya." https://vocal.media/history/the-history-of-the-luo-community-in-kenya
 
-4. Macleki. "The Old Nyanza Provincial Headquarters in [[../Counties/Kisumu/Kisumu County|Kisumu County]]." https://macleki.org/stories/the-old-nyanza-provincial-headquarters-in-kisumu/
+4. Macleki. "The Old Nyanza Provincial Headquarters in [[Kisumu County|Kisumu County]]." https://macleki.org/stories/the-old-nyanza-provincial-headquarters-in-kisumu/

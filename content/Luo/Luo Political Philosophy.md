@@ -26,7 +26,7 @@ This tradition also implies a belief in the power of ideas and argument to chang
 
 ## The Paradox
 
-There remains a paradox in Luo political culture. Despite this tradition of excellence in oratory and opposition politics, the Luo community has experienced significant political marginalization since independence. The [[../Counties/Kisumu/Kisumu County|Kisumu County]] Massacre of 1969, the detention and exile of Oginga Odinga, the repeated losses of Raila Odinga in presidential contests (though he twice served as Prime Minister), and the under-representation of Luo in state resources all testify to this marginalization.
+There remains a paradox in Luo political culture. Despite this tradition of excellence in oratory and opposition politics, the Luo community has experienced significant political marginalization since independence. The [[Kisumu County|Kisumu County]] Massacre of 1969, the detention and exile of Oginga Odinga, the repeated losses of Raila Odinga in presidential contests (though he twice served as Prime Minister), and the under-representation of Luo in state resources all testify to this marginalization.
 
 Yet the tradition persists and remains a source of identity and pride. The Luo continue to produce intellectuals, activists, and political voices that emphasize debate, critique, and the power of words. Whether this tradition can be redirected toward greater political power and material benefit remains an ongoing question in Luo politics.
 ## See Also

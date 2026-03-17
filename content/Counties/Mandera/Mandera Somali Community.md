@@ -15,7 +15,7 @@ Kinship and family structures remain strong, with extended family networks provi
 ## See Also
 
 - [[Somali]]
-- [[../../Somali/Somali Clans]]
+- [[Somali Clans]]
 - [[Mandera County]]
 - [[Mandera Pastoralism]]
 - [[Mandera Cultural Heritage]]

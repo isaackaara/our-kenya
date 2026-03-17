@@ -17,7 +17,7 @@ Political representation of women in county government has increased following c
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Women|Women]]
 ## Sources
 

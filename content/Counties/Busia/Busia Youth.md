@@ -9,7 +9,7 @@ Youth representation in governance has increased through elected and nominated p
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Youth|Youth]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/youth-challenges-busia

@@ -19,7 +19,7 @@ Religious diversity includes Islamic observance among Somali and some Gabra and 
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: 2019 Population and Housing Census, Ethnicity Data. https://www.knbs.or.ke/

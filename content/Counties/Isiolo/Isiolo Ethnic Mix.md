@@ -9,7 +9,7 @@ This ethnic composition creates both opportunities for cultural exchange and ris
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: 2019 Population and Housing Census, Ethnicity Data. https://www.knbs.or.ke/

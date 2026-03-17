@@ -9,7 +9,7 @@ Iteso society historically organized around clans with specific territorial area
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Notable People|Notable People]]
 ## Sources
 1. https://en.wikipedia.org/wiki/Iteso_people

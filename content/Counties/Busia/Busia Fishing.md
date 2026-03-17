@@ -9,7 +9,7 @@ Fish markets in Busia town and trading centers are major distribution venues. Wh
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8765en/
 2. https://www.standardmedia.co.ke/counties/article/2000987654/fishing-busia

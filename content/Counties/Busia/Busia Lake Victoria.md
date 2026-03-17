@@ -9,7 +9,7 @@ Lake Victoria provides water for drinking and agricultural use. Water quality is
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.worldwildlife.org/ecoregions/eastern-africa-lake-victoria-basin
 2. https://www.standardmedia.co.ke/counties/article/2000987654/lake-victoria-busia

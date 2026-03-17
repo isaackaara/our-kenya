@@ -34,7 +34,7 @@ The county government increasingly engages communities in governance through con
 
 ## Challenges and Opportunities
 
-[[../Kisumu/Kisumu County|Kisumu County]] government faces ongoing challenges in service delivery and development. Opportunities include regional trade integration, fishing industry development, and tourism expansion.
+[[Kisumu County|Kisumu County]] government faces ongoing challenges in service delivery and development. Opportunities include regional trade integration, fishing industry development, and tourism expansion.
 
 
 ## See Also

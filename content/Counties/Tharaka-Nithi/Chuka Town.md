@@ -16,7 +16,7 @@ The town's geography is challenging: it sits on steep slopes, water supply is pr
 [[Tharaka|Tharaka-Nithi Youth]]
 [[Chuka Mwimbi People|Chuka Mwimbi People]]
 [[Tharaka-Nithi Coffee|Tharaka-Nithi Coffee]]
-[[../../Economic/Miraa Trade|Miraa Trade]]
+[[Miraa Trade|Miraa Trade]]
 
 ## Sources
 

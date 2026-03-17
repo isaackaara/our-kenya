@@ -45,7 +45,7 @@ This hub lists all 30 county notes:
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: County Area and Population Data, 2019 Census. https://www.knbs.or.ke/

@@ -9,7 +9,7 @@ Cross-border trade provides livelihood for thousands of traders and workers. Emp
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2000654321/busia-uganda-trade
 2. https://www.worldbank.org/en/country/kenya/brief/regional-trade

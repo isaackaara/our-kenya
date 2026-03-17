@@ -15,7 +15,7 @@ The town's geography influences its development. It sits on relatively high grou
 - [[Kwale County|Kwale County Overview]]
 - [[Diani Beach|Diani Beach]]
 - [[Kwale Infrastructure|Kwale Infrastructure]]
-- [[../../Mombasa/Mombasa County|Mombasa County]]
+- [[Mombasa County|Mombasa County]]
 - [[Kwale Politics|Kwale Politics]]
 - [[Kwale Agriculture|Kwale Agriculture]]
 

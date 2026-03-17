@@ -9,7 +9,7 @@ Colonial administrative structures were adapted at independence into county admi
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.britannica.com/place/Kenya/Colonial-period
 2. https://www.standardmedia.co.ke/counties/article/2000654321/colonial-history-busia

@@ -17,7 +17,7 @@ Mitigation efforts address climate change at national and global scales, though 
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Climate Change|Climate Change]]
 ## Sources
 

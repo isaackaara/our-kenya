@@ -9,7 +9,7 @@ Climate-smart agricultural practices improve soil and water retention. Crop vari
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 [[Busia Climate Change|Climate Change]]
 ## Sources
 1. https://www.worldbank.org/en/country/kenya/climate

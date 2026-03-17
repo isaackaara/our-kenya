@@ -19,7 +19,7 @@ Higher education opportunity for Marsabit students requires migration to urban c
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Education|Education]]
 ## Sources
 

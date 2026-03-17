@@ -1,4 +1,4 @@
-Nyanza Province was one of Kenya's eight administrative provinces prior to the 2010 constitutional reform that replaced provinces with forty-seven counties. The province encompassed the territories of the Luo, Kisii, Kuria, and other Lake Region communities, though the Luo dominated the region demographically and culturally, particularly around [[../Counties/Kisumu/Kisumu County|Kisumu County]] and the northeastern portions of the province.
+Nyanza Province was one of Kenya's eight administrative provinces prior to the 2010 constitutional reform that replaced provinces with forty-seven counties. The province encompassed the territories of the Luo, Kisii, Kuria, and other Lake Region communities, though the Luo dominated the region demographically and culturally, particularly around [[Kisumu County|Kisumu County]] and the northeastern portions of the province.
 
 ## Colonial Origins and Structure
 

@@ -20,7 +20,7 @@ Healing rituals are prominent. Members bring sick relatives to services or to Le
 
 ## Organizational Structure and Geography
 
-Legio Maria spread rapidly through East Africa. From its Luo core in Kenya (particularly in [[../Counties/Kisumu/Kisumu County|Kisumu County]], Nyanza, and parts of Nairobi), it expanded into Uganda, Tanzania, and the Democratic Republic of Congo. The church organized around regional and local communities, each with its own leadership structures (often termed bishops or cardinals, paralleling Catholic structures). A central headquarters in Kenya manages overall direction, but the church operates as a loosely federated network, with some regional independence.
+Legio Maria spread rapidly through East Africa. From its Luo core in Kenya (particularly in [[Kisumu County|Kisumu County]], Nyanza, and parts of Nairobi), it expanded into Uganda, Tanzania, and the Democratic Republic of Congo. The church organized around regional and local communities, each with its own leadership structures (often termed bishops or cardinals, paralleling Catholic structures). A central headquarters in Kenya manages overall direction, but the church operates as a loosely federated network, with some regional independence.
 
 The church constructed prayer camps, compound-like settlements where members gather for worship, healing, and spiritual retreat. Some of these camps became pilgrimage sites. The church also maintained educational and medical facilities, though not at the scale of the mainstream Catholic Church's institutional infrastructure.
 

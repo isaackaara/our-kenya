@@ -2,7 +2,7 @@ The Kenya-Uganda border traverses Bungoma County, creating unique border dynamic
 
 ## Border Geography
 
-The Kenya-Uganda border traverses through Bungoma County including [[../../Conservation/Mount Elgon National Park|Mount Elgon]]'s upper regions. The boundary line was established during colonial period through British-German colonial agreements. Physical border markers demarcate the boundary though remain imperfect in some areas. Topography including Mount Elgon creates natural features influencing border demarcation.
+The Kenya-Uganda border traverses through Bungoma County including [[Mount Elgon National Park|Mount Elgon]]'s upper regions. The boundary line was established during colonial period through British-German colonial agreements. Physical border markers demarcate the boundary though remain imperfect in some areas. Topography including Mount Elgon creates natural features influencing border demarcation.
 
 ## Border Crossing Points
 

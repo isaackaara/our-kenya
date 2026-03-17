@@ -15,7 +15,7 @@ Informal education through community-based programmes and NGO initiatives supple
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Education|Education]]
 ## Sources
 

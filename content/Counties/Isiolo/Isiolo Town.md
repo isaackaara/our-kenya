@@ -9,7 +9,7 @@ The arrival of the LAPSSET Corridor development has intensified construction and
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Isiolo County Integrated Development Plan 2018,2023. https://www.isiolo.go.ke/

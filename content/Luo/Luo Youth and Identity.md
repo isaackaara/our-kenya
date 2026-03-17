@@ -2,7 +2,7 @@ Contemporary Luo youth, particularly urban and educated cohorts, navigate multip
 
 ## Urban Luo Youth
 
-Luo youth in [[../Counties/Kisumu/Kisumu County|Kisumu County]], Nairobi, and other urban areas are educationally more qualified than their rural counterparts. Many attend university, work in professional employment, and navigate cosmopolitan environments. Yet they maintain Luo identity, often proudly.
+Luo youth in [[Kisumu County|Kisumu County]], Nairobi, and other urban areas are educationally more qualified than their rural counterparts. Many attend university, work in professional employment, and navigate cosmopolitan environments. Yet they maintain Luo identity, often proudly.
 
 Urban Luo youth often belong to clan associations, attend cultural events, and maintain ties to rural home areas. The maintenance of Luo identity coexists with professional ambitions and national or global networks.
 

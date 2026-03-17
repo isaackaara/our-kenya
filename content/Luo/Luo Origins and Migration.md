@@ -6,7 +6,7 @@ The Luo migration followed a well-documented path. From South Sudan, groups move
 
 ## Arrival at Lake Victoria
 
-By the 15th century, the first Luo groups began arriving at the eastern and northern shores of Lake Victoria (Nam Lolwe in Dholuo). The lake became the anchor point for Luo settlement, with the fish-rich waters and fertile lakeside plains offering abundant food and grazing land. Over the following centuries, more Luo waves arrived, gradually expanding their territory westward around the lake's perimeter. By the 19th century, when the first Europeans arrived, the Luo inhabited the areas of present-day Nyanza Province, with major settlements at [[../Counties/Kisumu/Kisumu County|Kisumu County]], Siaya, [[Homa Bay County|Homa Bay County]], and [[Migori County|Migori County]].
+By the 15th century, the first Luo groups began arriving at the eastern and northern shores of Lake Victoria (Nam Lolwe in Dholuo). The lake became the anchor point for Luo settlement, with the fish-rich waters and fertile lakeside plains offering abundant food and grazing land. Over the following centuries, more Luo waves arrived, gradually expanding their territory westward around the lake's perimeter. By the 19th century, when the first Europeans arrived, the Luo inhabited the areas of present-day Nyanza Province, with major settlements at [[Kisumu County|Kisumu County]], Siaya, [[Homa Bay County|Homa Bay County]], and [[Migori County|Migori County]].
 
 ## Ramogi Ajwang: The Cultural Founding Figure
 

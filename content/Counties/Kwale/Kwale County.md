@@ -55,7 +55,7 @@ This vertical documents Kwale's complete character across economy, culture, geog
 
 ## See Also
 
-- [[../Mombasa/Mombasa County|Mombasa County]]
+- [[Mombasa County|Mombasa County]]
 - [[../../Regions/Coastal Region|Coastal Region Kenya]]
 - [[../../Tanzanian Border|Tanzanian Border Region]]
 - [[Mijikenda|Mijikenda]]

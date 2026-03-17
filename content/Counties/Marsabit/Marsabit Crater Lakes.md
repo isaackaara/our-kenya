@@ -19,7 +19,7 @@ Archaeological evidence suggests human settlement around Mount Marsabit's crater
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya Wildlife Service: Mount Marsabit Lakes Ecosystem Survey. https://www.kws.go.ke/

@@ -32,7 +32,7 @@ East African Community revival from 2000 onward offers renewed potential for reg
 Post-election violence erupts in Kisumu. Hundreds are killed and tens of thousands displaced.
 
 ## 2013
-Devolved governance system established; Kisumu becomes [[../Kisumu/Kisumu County|Kisumu County]] under county government.
+Devolved governance system established; Kisumu becomes [[Kisumu County|Kisumu County]] under county government.
 
 ## 2017
 Post-election violence again touches Kisumu; live ammunition used against protesters.

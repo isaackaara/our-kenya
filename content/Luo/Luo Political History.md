@@ -6,7 +6,7 @@ At independence, the Luo were co-founders of the dominant Kenya African National
 
 ## The KPU Split (1966-1969): Odinga's Break
 
-In 1966, Oginga Odinga, dissatisfied with his marginalization and Kenyatta's authoritarian consolidation of power, left KANU to form the Kenya People's Union (KPU). The KPU attracted substantial Luo support, positioning itself as a more radical alternative to KANU. The party called for socialist economic policies and greater devolution of power to regions, policies that resonated particularly in Luo Nyanza. However, Kenyatta viewed the KPU as a threat and banned it in 1969, the same year that Tom Mboya's assassination and the [[../Counties/Kisumu/Kisumu County|Kisumu County]] massacre dramatically escalated Luo alienation from the state.
+In 1966, Oginga Odinga, dissatisfied with his marginalization and Kenyatta's authoritarian consolidation of power, left KANU to form the Kenya People's Union (KPU). The KPU attracted substantial Luo support, positioning itself as a more radical alternative to KANU. The party called for socialist economic policies and greater devolution of power to regions, policies that resonated particularly in Luo Nyanza. However, Kenyatta viewed the KPU as a threat and banned it in 1969, the same year that Tom Mboya's assassination and the [[Kisumu County|Kisumu County]] massacre dramatically escalated Luo alienation from the state.
 
 ## Single-Party Rule and Political Exclusion (1969-1991)
 

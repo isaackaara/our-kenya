@@ -19,7 +19,7 @@ Archaeological and historical sites reflect long human occupation. Rock art, set
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Cultural Heritage|Cultural Heritage]]
 ## Sources
 

@@ -42,7 +42,7 @@ His relationship with Kibaki deteriorated as presidential succession approached.
 
 Raila contested the 2007 presidential election against incumbent Kibaki. His campaign mobilized substantial Luo support, coupled with Kisii, some Luo-adjacent groups, and others dissatisfied with Kibaki administration.
 
-The election result (Kibaki declared winner amid disputed tallies) triggered severe post-election violence. [[../Counties/Kisumu/Kisumu County|Kisumu County]] and other Luo-majority areas experienced intense violence, with Raila supporters mobilizing in cities and towns. The violence killed over 1,000 people, displaced hundreds of thousands, and destabilized the country.
+The election result (Kibaki declared winner amid disputed tallies) triggered severe post-election violence. [[Kisumu County|Kisumu County]] and other Luo-majority areas experienced intense violence, with Raila supporters mobilizing in cities and towns. The violence killed over 1,000 people, displaced hundreds of thousands, and destabilized the country.
 
 International mediation (Kofi Annan) eventually brokered a power-sharing agreement. Kibaki remained president, and Raila accepted Prime Minister position (2008-2013) in a compromise designed to end violence.
 

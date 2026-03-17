@@ -17,7 +17,7 @@ Mental health and substance abuse services remain underdeveloped. Limited suppor
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Health|Health]]
 ## Sources
 

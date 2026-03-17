@@ -9,7 +9,7 @@ Poverty limits purchasing power for poorest households. Unemployment and limited
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.fao.org/documents/card/en/c/ca8346en/
 2. https://www.standardmedia.co.ke/counties/article/2001045678/food-security-busia

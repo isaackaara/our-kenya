@@ -17,7 +17,7 @@ Climate change is intensifying precipitation variability and increasing aridity.
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Climate|Climate]]
 ## Sources
 

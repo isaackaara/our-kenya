@@ -19,7 +19,7 @@ Rental markets have developed with landlords renting commercial and residential 
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya National Bureau of Statistics: Real Estate Market Analysis, Isiolo County 2023. https://www.knbs.or.ke/

@@ -13,7 +13,7 @@ The project's success depends on regional political stability, adequate financin
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Ministry of Transport and Infrastructure: LAPSSET Corridor Integrated Development Plan. https://www.transport.go.ke/

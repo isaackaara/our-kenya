@@ -17,7 +17,7 @@ Contemporary Rendille face pressures from climate change, land restrictions, and
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 [[Marsabit Notable People|Notable People]]
 ## Sources
 

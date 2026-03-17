@@ -9,7 +9,7 @@ Young farmers face difficulties accessing sufficient land for farming. Land scar
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/counties/article/2001234567/real-estate-busia
 2. https://www.propertykenya.com/busia-real-estate

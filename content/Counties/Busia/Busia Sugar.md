@@ -9,7 +9,7 @@ Sugar production provides employment in milling and processing. Trading enterpri
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.standardmedia.co.ke/business/article/2001234567/sugar-farming-busia
 2. https://www.mumias.com/farmers-information

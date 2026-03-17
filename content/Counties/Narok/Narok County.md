@@ -6,7 +6,7 @@ Narok town functions as the county headquarters and gateway to [[Maasai|Maasai]]
 
 1. [[Narok County|Narok County]] (hub)
 2. [[Narok Town|Narok Town]]
-3. [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]]
+3. [[The Maasai Mara|Maasai Mara National Reserve]]
 4. [[The Great Migration|The Great Migration]]
 5. [[Maasai in Narok|Maasai in Narok]]
 6. [[Narok Wheat Farming|Narok Wheat Farming]]
@@ -39,12 +39,12 @@ Narok town functions as the county headquarters and gateway to [[Maasai|Maasai]]
 ## See Also
 
 - [[Maasai|Narok Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

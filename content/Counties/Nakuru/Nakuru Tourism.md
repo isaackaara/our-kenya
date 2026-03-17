@@ -2,7 +2,7 @@ Nakuru is a major tourism destination in Kenya's Rift Valley, attracting both do
 
 Mount Longonot is an extinct volcano now part of a national park, offering a challenging crater rim walk with spectacular Rift Valley views. The region's diverse ecosystems support a wide variety of wildlife, including zebra, giraffe, buffalo, antelope, and carnivores, drawing safari tourists. Tourism infrastructure includes lodges, camps, restaurants, and transport services concentrated in major towns and around protected areas.
 
-Tourism generates significant employment and foreign exchange for [[../Nakuru/Nakuru County|Nakuru County]], though much of the economic benefit is captured by large tour operators, hotel chains, and national government, with limited revenue reaching local communities. Environmental concerns about tourism's impact on wildlife and ecosystems are growing. Insecurity in some areas and infrastructure gaps in remote regions constrain tourism development potential.
+Tourism generates significant employment and foreign exchange for [[Nakuru County|Nakuru County]], though much of the economic benefit is captured by large tour operators, hotel chains, and national government, with limited revenue reaching local communities. Environmental concerns about tourism's impact on wildlife and ecosystems are growing. Insecurity in some areas and infrastructure gaps in remote regions constrain tourism development potential.
 
 
 ## See Also

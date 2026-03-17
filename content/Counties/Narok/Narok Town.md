@@ -12,18 +12,18 @@ The town is connected to Nairobi via the main road (currently undergoing improve
 
 ## Cross-References
 
-See also: [[Narok County|Narok County]], [[../../Maasai/The Maasai Mara|Maasai Mara National Reserve]], [[Narok Infrastructure|Narok Infrastructure]]
+See also: [[Narok County|Narok County]], [[The Maasai Mara|Maasai Mara National Reserve]], [[Narok Infrastructure|Narok Infrastructure]]
 
 
 ## See Also
 
 - [[Maasai|Narok Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

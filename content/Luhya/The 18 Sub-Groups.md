@@ -20,7 +20,7 @@ The Luhya confederation comprises 18 distinct sub-groups (sometimes counted as 1
 - **Bamasaba**: Located in Bungoma, neighboring [[Luhya|Luhya]]
 
 **Northern and Border Sub-Groups:**
-- **Batachoni**: Located in Trans-Nzoia County, near the Sabaot (Kalenjin) territory and [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- **Batachoni**: Located in Trans-Nzoia County, near the Sabaot (Kalenjin) territory and [[Mount Elgon National Park|Mount Elgon National Park]]
 - **Tiriki**: Located in Vihiga, with a distinct identity and territory
 - **Kabras**: Located in Kakamega County
 - **Kisa**: A smaller sub-group with territory in Kakamega
@@ -41,7 +41,7 @@ Despite their size (14% of Kenya's population), the Luhya have produced no presi
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

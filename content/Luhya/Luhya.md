@@ -54,7 +54,7 @@ The Luhya (also Luyia or Abaluhyia) are the second largest ethnic group in Kenya
 
 ## Land, Resources, and Development
 
-[[Luhya and Land]] | [[Kakamega Forest|Kakamega Forest]]]] | [[Kakamega Town]] | [[Mumias Sugar]] | [[Trans-Nzoia]] | [[[[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]]] | [[Luhya and Devolution]]
+[[Luhya and Land]] | [[Kakamega Forest|Kakamega Forest]]]] | [[Kakamega Town]] | [[Mumias Sugar]] | [[Trans-Nzoia]] | [[[[Mount Elgon National Park|Mount Elgon National Park]]]] | [[Luhya and Devolution]]
 
 ## Internal Conflicts and Politics
 
@@ -71,7 +71,7 @@ The Luhya (also Luyia or Abaluhyia) are the second largest ethnic group in Kenya
 ## See Also
 
 - [[Luhya|Luhya]]
-- [[../Conservation/Mount Elgon National Park|Mount Elgon National Park]]
+- [[Mount Elgon National Park|Mount Elgon National Park]]
 - [[Kakamega Forest|Kakamega Forest]]
 - [[Kakamega County|Kakamega County]]
 - [[Bungoma County|Bungoma County]]

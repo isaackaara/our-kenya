@@ -11,7 +11,7 @@ Borana settlements extend from Isiolo into Marsabit County, creating networks th
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Anthropological Study: Borana Pastoralism and Social Organisation. https://www.jstor.org/

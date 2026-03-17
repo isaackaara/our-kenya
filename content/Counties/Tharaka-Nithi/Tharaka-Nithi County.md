@@ -48,7 +48,7 @@ Historically, the Chuka and Mwimbi played significant roles in the [[Tharaka-Nit
 [[Meru County|Meru County]]
 [[Embu County|Embu County]]
 [[Mount Kenya National Park|Mount Kenya National Park]]
-[[../../Economic/Miraa Trade|Miraa Trade]]
+[[Miraa Trade|Miraa Trade]]
 [[Chuka Town|Chuka Town]]
 
 ## Sources

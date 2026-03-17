@@ -18,7 +18,7 @@ His ascent represented a remarkable trajectory from colonial subject to national
 
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
 - [[Kenyatta Detention Legacy|Kenyatta Detention Legacy]]
-- [[../../Kenya Independence/Kenya Independence|Kenya Independence]]
+- [[Kenya Independence|Kenya Independence]]
 - [[Jomo Kenyatta|Jomo Kenyatta]]
 - [[../../Mau Mau Rebellion|Mau Mau Rebellion]]
 - [[../../Kenya African Union|Kenya African Union]]

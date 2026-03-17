@@ -47,7 +47,7 @@ Economic stagnation in coastal region; port remains important but coastal develo
 Port expansion and modernization; tourism development continues; political tensions regarding coastal autonomy.
 
 ## 2013
-Devolved governance system established; Mombasa becomes [[../Mombasa/Mombasa County|Mombasa County]] under a county government.
+Devolved governance system established; Mombasa becomes [[Mombasa County|Mombasa County]] under a county government.
 
 ## 2011
 Fort Jesus designated a UNESCO World Heritage Site, recognition of its historical and architectural significance.

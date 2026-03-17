@@ -11,7 +11,7 @@ The reserve contains archaeological and cultural sites reflecting the long histo
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Adamson, J. (1960). Born Free: A Lioness of Two Worlds. Pantheon Books.

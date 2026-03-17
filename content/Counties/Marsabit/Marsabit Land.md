@@ -17,7 +17,7 @@ Community pastoral conservancies represent newer arrangements attempting to bala
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Kenya Land Commission: Marsabit County Land Rights Audit. https://www.landcommission.go.ke/

@@ -17,7 +17,7 @@ Social services addressing youth mental health and substance abuse remain underd
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Youth|Youth]]
 ## Sources
 

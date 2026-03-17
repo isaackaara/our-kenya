@@ -9,7 +9,7 @@ Community livelihood (fishing, farming, grazing) occurs in and around the swamp.
 
 ## See Also
 
-[[../../Busia/Busia|Busia County]]
+[[Busia|Busia County]]
 ## Sources
 1. https://www.kws.go.ke/page/yala-swamp
 2. https://www.standardmedia.co.ke/counties/article/2000987654/yala-swamp-conservation

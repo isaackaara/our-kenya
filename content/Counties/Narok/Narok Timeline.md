@@ -14,7 +14,7 @@ Key dates and events in Narok County's history from pre-colonial times through 2
 
 1968-1970: Group ranches are established in Narok County converting communal pastoral lands to collective landholdings with individual user rights.
 
-1977: [[../../Maasai/The Maasai Mara|Maasai Mara]] National Reserve is formally designated as a protected wildlife area under Kenya Wildlife Service management.
+1977: [[The Maasai Mara|Maasai Mara]] National Reserve is formally designated as a protected wildlife area under Kenya Wildlife Service management.
 
 1980s: Group ranch land begins subdivision and conversion to individual title. Land sales to external investors and commercial developers accelerate.
 
@@ -46,12 +46,12 @@ Key dates and events in Narok County's history from pre-colonial times through 2
 ## See Also
 
 - [[Maasai|Narok Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

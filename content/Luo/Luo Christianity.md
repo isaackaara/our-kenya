@@ -2,7 +2,7 @@ Christianity's encounter with Luo society began in the late 19th century through
 
 ## Early Missionary Contact
 
-The first significant Christian missionary presence among the Luo came from the Catholic Mill Hill Fathers, who arrived at [[../Counties/Kisumu/Kisumu County|Kisumu County]] in 1903 (after the railway reached Kisumu in 1901). The Mill Hill Fathers were English and Dutch Catholic missionaries who came to Kenya via Uganda, where they had already established mission work. Alongside the Mill Hill Fathers, Anglican Church Missionary Society (CMS) missionaries also engaged with Luo communities.
+The first significant Christian missionary presence among the Luo came from the Catholic Mill Hill Fathers, who arrived at [[Kisumu County|Kisumu County]] in 1903 (after the railway reached Kisumu in 1901). The Mill Hill Fathers were English and Dutch Catholic missionaries who came to Kenya via Uganda, where they had already established mission work. Alongside the Mill Hill Fathers, Anglican Church Missionary Society (CMS) missionaries also engaged with Luo communities.
 
 The timing of Christian arrival in Luo territories coincided with the early colonial period, creating a close association between missionary activity and colonial administration. Missionaries served administrative functions (as educators, healers, and cultural mediators) while pursuing conversion and Christianization.
 

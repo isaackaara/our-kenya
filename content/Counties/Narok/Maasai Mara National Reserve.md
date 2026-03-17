@@ -4,7 +4,7 @@ The reserve is named after the Maasai people who inhabit the surrounding lands a
 
 ## Ecosystem and Biodiversity
 
-The [[../../Maasai/The Maasai Mara|Maasai Mara]] encompasses diverse habitats including savanna grasslands, acacia woodlands, and riverine forests. The ecosystem supports populations of the "Big Five" (lion, leopard, rhinoceros, elephant, buffalo) along with thousands of other mammal and bird species.
+The [[The Maasai Mara|Maasai Mara]] encompasses diverse habitats including savanna grasslands, acacia woodlands, and riverine forests. The ecosystem supports populations of the "Big Five" (lion, leopard, rhinoceros, elephant, buffalo) along with thousands of other mammal and bird species.
 
 The annual Great Migration brings approximately 1.5 million wildebeest and hundreds of thousands of zebras and gazelles from the Serengeti (Tanzania) to the Mara between July and October, creating one of nature's most dramatic spectacles.
 
@@ -24,12 +24,12 @@ See also: [[The Great Migration|The Great Migration]], [[Maasai in Narok|Maasai 
 ## See Also
 
 - [[Maasai|Narok Maasai]]
-- [[../../Maasai/Maasai Pastoralism|Maasai Pastoralism]]
-- [[../../Maasai/Maasai Land Loss|Land Issues]]
+- [[Maasai Pastoralism|Maasai Pastoralism]]
+- [[Maasai Land Loss|Land Issues]]
 - [[Narok Wildlife|Wildlife]]
 - [[Maasai Mara National Reserve|Maasai Mara]]
 - [[Human-Wildlife Conflict|Wildlife Conflict]]
-- [[../../Maasai/The Maasai|Maasai Culture]]
+- [[The Maasai|Maasai Culture]]
 
 ## Sources
 

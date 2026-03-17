@@ -13,7 +13,7 @@ Isiolo County Government manages local roads through the Roads Board, though fun
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Ministry of Transport: LAPSSET Corridor Project Status Reports 2015,2026. https://www.transport.go.ke/

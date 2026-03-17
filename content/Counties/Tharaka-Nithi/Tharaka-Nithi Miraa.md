@@ -15,7 +15,7 @@ The social impacts of miraa wealth have been substantial. Many growers and trade
 [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
 [[Tharaka|Tharaka-Nithi Youth]]
 [[Tharaka|Tharaka-Nithi Women]]
-[[../../Economic/Miraa Trade|Miraa Trade]]
+[[Miraa Trade|Miraa Trade]]
 
 ## Sources
 

@@ -38,7 +38,7 @@ The role was not hereditary in a strict sense but tended to pass among respected
 
 ## Contemporary Clan Identity
 
-Clan identity remains active in contemporary Luo life, particularly in rural areas and during family events. People identify first by clan. Clan associations exist in urban areas (Nairobi, [[../Counties/Kisumu/Kisumu County|Kisumu County]]), providing mutual aid and organising development projects in home areas. Clan leaders are consulted in major family decisions.
+Clan identity remains active in contemporary Luo life, particularly in rural areas and during family events. People identify first by clan. Clan associations exist in urban areas (Nairobi, [[Kisumu County|Kisumu County]]), providing mutual aid and organising development projects in home areas. Clan leaders are consulted in major family decisions.
 
 Political mobilisation often occurs along clan lines. When voting, clan ties influence allegiances. When ethnic tensions rise, clan solidarity reasserts itself. Yet clan identity coexists with national, professional, and religious identities in complex ways.
 

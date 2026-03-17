@@ -15,7 +15,7 @@ Reproductive health services, including family planning and maternal care, face 
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 [[Isiolo Health|Health]]
 ## Sources
 

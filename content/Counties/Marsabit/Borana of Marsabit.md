@@ -17,7 +17,7 @@ Contemporary Borana engagement with formal education, government, and national d
 
 ## See Also
 
-[[../../Marsabit/Marsabit|Marsabit County]]
+[[Marsabit|Marsabit County]]
 ## Sources
 
 1. Gufu, O. (1999). Pastoral Commoners and Market Elites: The Borana and Rendille of Northern Kenya. PhD dissertation, University of Uppsala.

@@ -7,7 +7,7 @@
 - **Sacred geography**: According to Luo tradition, the lake embodies spiritual presence; Ramogi's wife Nyar Nam personified the spirit of the lake itself, making Nam Lolwe not merely geographic but cosmologically alive
 - **Water vs. land tenure**: Unlike neighboring Kikuyu people whose identity centers on githaka (ancestral land parcels), the Luo relationship is fundamentally aquatic. The lake encourages mobility, trade networks, and cross-border kinship rather than fixed land ownership
 - **Colonial partition**: British colonial boundaries divided Nam Lolwe between Kenya, Uganda, and Tanzania, fragmenting historically unified Luo communities and their fishing grounds. This externally imposed separation created ongoing tensions and diasporic Luo networks across three nations
-- **Modern cultural hub**: Even today, Nam Lolwe remains the geographic and symbolic heart of Luo identity, with [[../Counties/Kisumu/Kisumu County|Kisumu County]] serving as the major Kenya-side urban center
+- **Modern cultural hub**: Even today, Nam Lolwe remains the geographic and symbolic heart of Luo identity, with [[Kisumu County|Kisumu County]] serving as the major Kenya-side urban center
 
 ## Water as Identity
 

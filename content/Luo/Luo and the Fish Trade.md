@@ -2,7 +2,7 @@
 
 ## Geographic Centers and Landing Sites
 
-The lake's eastern shores (Kenya side) host dozens of landing beaches, with several key clusters near [[../Counties/Kisumu/Kisumu County|Kisumu County]]. Dunga Beach, approximately 10 kilometers from Kisumu town center, serves as one of East Africa's largest fish landing sites. Daily, hundreds of fishing boats discharge catches, and traders converge for wholesale and retail trading.
+The lake's eastern shores (Kenya side) host dozens of landing beaches, with several key clusters near [[Kisumu County|Kisumu County]]. Dunga Beach, approximately 10 kilometers from Kisumu town center, serves as one of East Africa's largest fish landing sites. Daily, hundreds of fishing boats discharge catches, and traders converge for wholesale and retail trading.
 
 Lwang'ni (also spelled Lwanda) functions as another major landing site, handling both fresh and processed fish. Hippo Point, on the outskirts of Kisumu, serves smaller-scale operations and tourism (though food insecurity and economic pressures have reduced its tourist significance in recent decades).
 

@@ -20,7 +20,7 @@ However, Oneko's tenure was short. In 1966, dissatisfied with Kenyatta's increas
 
 ## Opposition and Detention (1966-1975)
 
-Oneko's move to the KPU put him in opposition to Kenyatta's government. When the KPU was banned in 1969, Oneko's political space narrowed. In 1969, following the [[../Counties/Kisumu/Kisumu County|Kisumu County]] massacre (when Kenyatta visited Kisumu and security forces fired on crowds), Oneko was arrested. He remained imprisoned until 1975, a second detention by someone he had once been imprisoned alongside (Kenyatta). The detention of Oneko by Kenyatta symbolized the postcolonial state's willingness to use detention against former freedom fighters.
+Oneko's move to the KPU put him in opposition to Kenyatta's government. When the KPU was banned in 1969, Oneko's political space narrowed. In 1969, following the [[Kisumu County|Kisumu County]] massacre (when Kenyatta visited Kisumu and security forces fired on crowds), Oneko was arrested. He remained imprisoned until 1975, a second detention by someone he had once been imprisoned alongside (Kenyatta). The detention of Oneko by Kenyatta symbolized the postcolonial state's willingness to use detention against former freedom fighters.
 
 ## Late Political Career (1992-1997)
 

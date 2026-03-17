@@ -15,7 +15,7 @@ Land-for-development projects including LAPSSET infrastructure acquisitions requ
 
 ## See Also
 
-[[../../Isiolo/Isiolo|Isiolo County]]
+[[Isiolo|Isiolo County]]
 ## Sources
 
 1. Kenya Land Commission: Isiolo County Land Rights Audit. https://www.landcommission.go.ke/
