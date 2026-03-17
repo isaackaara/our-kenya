@@ -67,14 +67,14 @@ A living graph of Kenya's history. Explore connections across 6,500+ topics.
     fixed: true
   });
   
-  // Add primary categories (radiating from Kenya)
+  // Add primary categories (radiating from Kenya) - SIMPLIFIED
   const categories = [
     'Elections', 'Presidencies', 'Corruption', 'Colonial Kenya',
     'Conservation', 'Political Movements', 'Ethnic Groups'
   ];
   
   const angleStep = (Math.PI * 2) / categories.length;
-  const distance = 180;
+  const distance = 100; // Reduced from 180
   
   categories.forEach((cat, i) => {
     const angle = angleStep * i;
@@ -86,7 +86,7 @@ A living graph of Kenya's history. Explore connections across 6,500+ topics.
       vx: 0,
       vy: 0,
       color: '#BB0000',
-      size: 12
+      size: 8
     });
     
     // Link from Kenya to this category
@@ -96,10 +96,10 @@ A living graph of Kenya's history. Explore connections across 6,500+ topics.
       strength: 0.8
     });
     
-    // Add secondary nodes (articles under each category)
-    for (let j = 0; j < 12; j++) {
-      const secondaryAngle = angleStep * i + (Math.random() - 0.5) * angleStep * 0.8;
-      const secondaryDistance = distance + 100 + Math.random() * 50;
+    // Add secondary nodes (articles under each category) - REDUCED from 12 to 3
+    for (let j = 0; j < 3; j++) {
+      const secondaryAngle = angleStep * i + (Math.random() - 0.5) * angleStep * 0.6;
+      const secondaryDistance = distance + 50; // Reduced from 100+random
       
       nodes.push({
         id: `${cat}-${j}`,
@@ -109,22 +109,22 @@ A living graph of Kenya's history. Explore connections across 6,500+ topics.
         vx: 0,
         vy: 0,
         color: '#84a59d',
-        size: 6
+        size: 4
       });
       
       links.push({
-        source: nodes.length - categories.length - 1,
+        source: i + 1,
         target: nodes.length - 1,
         strength: 0.3
       });
     }
   });
   
-  // Simple force-directed simulation
-  const iterations = 100;
-  const damping = 0.99;
-  const repulsion = 2000;
-  const attraction = 0.1;
+  // Simple force-directed simulation - REDUCED iterations
+  const iterations = 20; // Reduced from 100
+  const damping = 0.95;
+  const repulsion = 500; // Reduced from 2000
+  const attraction = 0.05; // Reduced from 0.1
   
   function simulate() {
     // Apply forces
