@@ -39,12 +39,16 @@ A living graph of Kenya's history. Explore connections across 6,500+ topics.
   const canvas = document.getElementById('graph-canvas');
   if (!canvas) return;
   
-  const ctx = canvas.getContext('2d');
-  canvas.width = canvas.parentElement.clientWidth;
-  canvas.height = canvas.parentElement.clientHeight;
+  const container = canvas.parentElement;
+  // Force canvas to render at display size
+  canvas.width = container.offsetWidth * window.devicePixelRatio;
+  canvas.height = container.offsetHeight * window.devicePixelRatio;
   
-  const width = canvas.width;
-  const height = canvas.height;
+  const ctx = canvas.getContext('2d', { willReadFrequently: false });
+  ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+  
+  const width = container.offsetWidth;
+  const height = container.offsetHeight;
   
   // Create a simple graph structure
   const nodes = [];
