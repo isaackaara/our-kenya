@@ -25,6 +25,8 @@ History is not a straight line. It is a web. Every event connects to someone, ev
 
 <div id="ok-hero-graph-root" style="width: 100%; margin: 2rem 0;"></div>
 
+Below is a small glimpse of 56,000 connections that exist across Kenya's history. But 56,000 is only the beginning. The true web of connections is far larger than what any graph can show. Every story we discover reveals new threads. [Browse the story trails](STORY-TRAILS) to follow the deeper connections.
+
 ## Explore by storyline
 
 141 journeys that changed how we see Kenya. Each one pulls you deeper.
