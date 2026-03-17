@@ -21,7 +21,7 @@ cssclasses:
 
 ## The Shape of Kenya
 
-A living graph of Kenya's history. Explore connections across 6,500+ notes.
+History is not a straight line. It is a web. Every event connects to someone, every person to a place, every place to an idea. Kenya's story is written in these connections. This is what that web looks like.
 
 <div id="ok-hero-graph-root" style="width: 100%; margin: 2rem 0;"></div>
 
