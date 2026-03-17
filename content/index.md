@@ -23,64 +23,117 @@ cssclasses:
 
 A living graph of Kenya's history. Kenya at the center, 7 themes radiating outward.
 
-<svg viewBox="0 0 800 600" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%); display: block;">
-  <!-- Links -->
-  <line x1="400" y1="300" x2="500" y2="100" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="550" y2="150" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="600" y2="250" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="600" y2="350" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="550" y2="450" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="350" y2="500" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="200" y2="450" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="100" y2="350" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="50" y2="250" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="150" y2="150" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  <line x1="400" y1="300" x2="250" y2="100" stroke="#ccc" stroke-width="1" opacity="0.4"/>
-  
-  <!-- Secondary links -->
-  <line x1="500" y1="100" x2="520" y2="50" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="500" y1="100" x2="530" y2="80" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="550" y1="150" x2="580" y2="120" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="600" y1="250" x2="650" y2="240" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="600" y1="350" x2="650" y2="360" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="550" y1="450" x2="580" y2="480" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="350" y1="500" x2="320" y2="540" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="200" y1="450" x2="170" y2="480" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="100" y1="350" x2="50" y2="360" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="50" y1="250" x2="20" y2="240" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="150" y1="150" x2="120" y2="120" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  <line x1="250" y1="100" x2="220" y2="50" stroke="#666" stroke-width="0.5" opacity="0.3"/>
-  
-  <!-- Center node (Kenya) -->
-  <circle cx="400" cy="300" r="16" fill="#006B3F" stroke="#fff" stroke-width="2" opacity="0.9"/>
-  
-  <!-- Primary nodes (categories) -->
-  <circle cx="500" cy="100" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="550" cy="150" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="600" cy="250" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="600" cy="350" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="550" cy="450" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="350" cy="500" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="200" cy="450" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="100" cy="350" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="50" cy="250" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="150" cy="150" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="250" cy="100" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
-  
-  <!-- Secondary nodes -->
-  <circle cx="520" cy="50" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="530" cy="80" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="580" cy="120" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="650" cy="240" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="650" cy="360" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="580" cy="480" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="320" cy="540" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="170" cy="480" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="50" cy="360" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="20" cy="240" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="120" cy="120" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-  <circle cx="220" cy="50" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
-</svg>
+<div id="hero-graph-container" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%);"></div>
+
+<script async src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+function initHeroGraph() {
+  if (!window.d3) {
+    setTimeout(initHeroGraph, 100);
+    return;
+  }
+
+  const container = document.getElementById('hero-graph-container');
+  if (!container) return;
+
+  const width = container.clientWidth;
+  const height = container.clientHeight;
+
+  // Graph data - hardcoded like knowledge-graphs.inline.ts
+  const nodes = [
+    { id: "Kenya", label: "Kenya", type: "center", size: 20, color: "#006B3F" },
+    { id: "Elections", label: "Elections", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Presidencies", label: "Presidencies", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Corruption", label: "Corruption", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Colonial Kenya", label: "Colonial Kenya", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Conservation", label: "Conservation", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Political Movements", label: "Political Movements", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Ethnic Groups", label: "Ethnic Groups", type: "primary", size: 10, color: "#BB0000" },
+    { id: "Elections-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Elections-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Presidencies-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Presidencies-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Corruption-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Corruption-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Colonial-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Colonial-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Conservation-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Conservation-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Political-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Political-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Ethnic-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Ethnic-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+  ];
+
+  const links = [
+    { source: "Kenya", target: "Elections" },
+    { source: "Kenya", target: "Presidencies" },
+    { source: "Kenya", target: "Corruption" },
+    { source: "Kenya", target: "Colonial Kenya" },
+    { source: "Kenya", target: "Conservation" },
+    { source: "Kenya", target: "Political Movements" },
+    { source: "Kenya", target: "Ethnic Groups" },
+    { source: "Elections", target: "Elections-1" },
+    { source: "Elections", target: "Elections-2" },
+    { source: "Presidencies", target: "Presidencies-1" },
+    { source: "Presidencies", target: "Presidencies-2" },
+    { source: "Corruption", target: "Corruption-1" },
+    { source: "Corruption", target: "Corruption-2" },
+    { source: "Colonial Kenya", target: "Colonial-1" },
+    { source: "Colonial Kenya", target: "Colonial-2" },
+    { source: "Conservation", target: "Conservation-1" },
+    { source: "Conservation", target: "Conservation-2" },
+    { source: "Political Movements", target: "Political-1" },
+    { source: "Political Movements", target: "Political-2" },
+    { source: "Ethnic Groups", target: "Ethnic-1" },
+    { source: "Ethnic Groups", target: "Ethnic-2" },
+  ];
+
+  const svg = d3.select(container).append('svg')
+    .attr('width', width)
+    .attr('height', height)
+    .style('background', 'linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%)');
+
+  const simulation = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(80))
+    .force('charge', d3.forceManyBody().strength(-200))
+    .force('center', d3.forceCenter(width / 2, height / 2));
+
+  const link = svg.selectAll('line')
+    .data(links)
+    .enter().append('line')
+    .attr('stroke', '#ccc')
+    .attr('stroke-width', 1)
+    .attr('opacity', 0.4);
+
+  const node = svg.selectAll('circle')
+    .data(nodes)
+    .enter().append('circle')
+    .attr('r', d => d.size)
+    .attr('fill', d => d.color)
+    .attr('stroke', '#fff')
+    .attr('stroke-width', 1.5)
+    .attr('opacity', 0.85);
+
+  simulation.on('tick', () => {
+    link
+      .attr('x1', d => d.source.x)
+      .attr('y1', d => d.source.y)
+      .attr('x2', d => d.target.x)
+      .attr('y2', d => d.target.y);
+
+    node
+      .attr('cx', d => d.x)
+      .attr('cy', d => d.y);
+  });
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initHeroGraph);
+} else {
+  initHeroGraph();
+}
+</script>
 
 ## Explore by storyline
 
