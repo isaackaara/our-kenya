@@ -52,20 +52,28 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { id: 'conservation', label: 'Conservation', type: 'primary' },
       { id: 'politics', label: 'Political Movements', type: 'primary' },
       { id: 'ethnic', label: 'Ethnic Groups', type: 'primary' },
-      { id: 'e1', type: 'secondary' },
-      { id: 'e2', type: 'secondary' },
-      { id: 'p1', type: 'secondary' },
-      { id: 'p2', type: 'secondary' },
-      { id: 'c1', type: 'secondary' },
-      { id: 'c2', type: 'secondary' },
-      { id: 'co1', type: 'secondary' },
-      { id: 'co2', type: 'secondary' },
-      { id: 'con1', type: 'secondary' },
-      { id: 'con2', type: 'secondary' },
-      { id: 'pol1', type: 'secondary' },
-      { id: 'pol2', type: 'secondary' },
-      { id: 'eth1', type: 'secondary' },
-      { id: 'eth2', type: 'secondary' },
+      { id: 'e1', label: '2007 PEV', type: 'secondary' },
+      { id: 'e2', label: 'Independence 1963', type: 'secondary' },
+      { id: 'p1', label: 'Jomo Kenyatta', type: 'secondary' },
+      { id: 'p2', label: 'Raila Odinga', type: 'secondary' },
+      { id: 'c1', label: 'Goldenberg', type: 'secondary' },
+      { id: 'c2', label: 'Anglo-Leasing', type: 'secondary' },
+      { id: 'co1', label: 'White Highlands', type: 'secondary' },
+      { id: 'co2', label: 'Mau Mau', type: 'secondary' },
+      { id: 'con1', label: 'Green Belt Movement', type: 'secondary' },
+      { id: 'con2', label: 'Ivory Ban 1989', type: 'secondary' },
+      { id: 'pol1', label: 'Tom Mboya', type: 'secondary' },
+      { id: 'pol2', label: 'Oginga Odinga', type: 'secondary' },
+      { id: 'eth1', label: 'Kikuyu', type: 'secondary' },
+      { id: 'eth2', label: 'Luo', type: 'secondary' },
+      { id: 'sports', label: 'Sports', type: 'primary' },
+      { id: 'tech', label: 'Technology', type: 'primary' },
+      { id: 'coast', label: 'Swahili Coast', type: 'primary' },
+      { id: 's1', label: 'Marathon Champions', type: 'secondary' },
+      { id: 's2', label: 'Safari Rally', type: 'secondary' },
+      { id: 't1', label: 'M-Pesa', type: 'secondary' },
+      { id: 't2', label: 'Silicon Savannah', type: 'secondary' },
+      { id: 'co3', label: 'Mombasa', type: 'secondary' },
     ];
     
     const links = [
@@ -76,6 +84,9 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { source: 'kenya', target: 'conservation' },
       { source: 'kenya', target: 'politics' },
       { source: 'kenya', target: 'ethnic' },
+      { source: 'kenya', target: 'sports' },
+      { source: 'kenya', target: 'tech' },
+      { source: 'kenya', target: 'coast' },
       { source: 'elections', target: 'e1' },
       { source: 'elections', target: 'e2' },
       { source: 'presidencies', target: 'p1' },
@@ -90,6 +101,11 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { source: 'politics', target: 'pol2' },
       { source: 'ethnic', target: 'eth1' },
       { source: 'ethnic', target: 'eth2' },
+      { source: 'sports', target: 's1' },
+      { source: 'sports', target: 's2' },
+      { source: 'tech', target: 't1' },
+      { source: 'tech', target: 't2' },
+      { source: 'coast', target: 'co3' },
     ];
     
     const nodeData = nodes.map(n => ({ ...n }));
@@ -126,15 +142,27 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       });
     
     const nodeSel = gRoot.append('g')
-      .selectAll('circle')
+      .selectAll('g')
       .data(nodeData)
       .enter()
-      .append('circle')
-      .attr('r', d => d.type === 'center' ? 20 : d.type === 'primary' ? 11 : 7)
-      .attr('fill', d => d.type === 'center' ? '#1a1a1a' : '#666')
-      .attr('opacity', 0.8)
+      .append('g')
       .style('cursor', 'pointer')
       .call(dragBehavior);
+    
+    nodeSel.append('circle')
+      .attr('r', d => d.type === 'center' ? 20 : d.type === 'primary' ? 11 : 7)
+      .attr('fill', d => d.type === 'center' ? '#1a1a1a' : '#666')
+      .attr('opacity', 0.8);
+    
+    nodeSel.append('text')
+      .text(d => d.label)
+      .attr('text-anchor', 'middle')
+      .attr('dy', '0.3em')
+      .attr('font-size', d => d.type === 'center' ? '11px' : d.type === 'primary' ? '9px' : '7px')
+      .attr('font-weight', d => d.type === 'center' ? 'bold' : 'normal')
+      .attr('fill', '#fff')
+      .attr('pointer-events', 'none')
+      .style('text-shadow', '0 0 2px rgba(0,0,0,0.8)');
     
     simulation.on('tick', () => {
       linkSel
@@ -143,9 +171,7 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
         .attr('x2', d => d.target.x)
         .attr('y2', d => d.target.y);
       
-      nodeSel
-        .attr('cx', d => d.x)
-        .attr('cy', d => d.y);
+      nodeSel.attr('transform', d => 'translate(' + d.x + ',' + d.y + ')');
     });
   }
 })();
