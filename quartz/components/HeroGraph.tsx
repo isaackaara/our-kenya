@@ -256,9 +256,9 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       .attr('dy', '0.3em')
       .attr('font-size', d => d.type === 'center' ? '11px' : d.type === 'primary' ? '8px' : '6px')
       .attr('font-weight', d => d.type === 'center' ? 'bold' : 'normal')
-      .attr('fill', '#fff')
+      .attr('fill', d => d.type === 'center' ? '#fff' : '#1a1a1a')
       .attr('pointer-events', 'none')
-      .style('text-shadow', '0 0 2px rgba(0,0,0,0.8)');
+      .style('text-shadow', d => d.type === 'center' ? '0 0 2px rgba(0,0,0,0.8)' : '0 0 1px rgba(255,255,255,0.8)');
     
     simulation.on('tick', () => {
       linkSel
