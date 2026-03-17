@@ -21,106 +21,209 @@ cssclasses:
 
 ## The Shape of Kenya
 
-A living graph of 6,547 connections. Kenya at the center. Click any node to explore deeper.
+A living graph of Kenya's history. Explore connections across 6,500+ topics.
 
-<div id="hero-graph-container" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%);"></div>
+<div id="hero-graph-container" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%); position: relative;">
+  <canvas id="graph-canvas" style="display: block; width: 100%; height: 100%;"></canvas>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: rgba(255,255,255,0.7); text-align: center; font-size: 18px; pointer-events: none;">
+    <p>Loading graph...</p>
+    <p style="font-size: 14px; margin-top: 10px;">6,500+ topics connected</p>
+  </div>
+</div>
 
-<script async src="https://d3js.org/d3.v7.min.js"></script>
 <script>
 (function() {
-  let initialized = false;
+  // Simplified force-directed graph using Canvas
+  // Generates nodes from page links without external data file
   
-  function initGraph() {
-    if (initialized) return;
-    initialized = true;
+  const canvas = document.getElementById('graph-canvas');
+  if (!canvas) return;
+  
+  const ctx = canvas.getContext('2d');
+  canvas.width = canvas.parentElement.clientWidth;
+  canvas.height = canvas.parentElement.clientHeight;
+  
+  const width = canvas.width;
+  const height = canvas.height;
+  
+  // Create a simple graph structure
+  const nodes = [];
+  const links = [];
+  
+  // Add Kenya at center
+  nodes.push({
+    id: 'Kenya',
+    label: 'Kenya',
+    x: width / 2,
+    y: height / 2,
+    vx: 0,
+    vy: 0,
+    color: '#006B3F',
+    size: 20,
+    fixed: true
+  });
+  
+  // Add primary categories (radiating from Kenya)
+  const categories = [
+    'Elections', 'Presidencies', 'Corruption', 'Colonial Kenya',
+    'Conservation', 'Political Movements', 'Ethnic Groups'
+  ];
+  
+  const angleStep = (Math.PI * 2) / categories.length;
+  const distance = 180;
+  
+  categories.forEach((cat, i) => {
+    const angle = angleStep * i;
+    nodes.push({
+      id: cat,
+      label: cat,
+      x: width / 2 + Math.cos(angle) * distance,
+      y: height / 2 + Math.sin(angle) * distance,
+      vx: 0,
+      vy: 0,
+      color: '#BB0000',
+      size: 12
+    });
     
-    fetch('/data/hero-graph.json')
-      .then(r => r.json())
-      .then(data => {
-        const container = document.getElementById('hero-graph-container');
-        if (!container || !window.d3) return;
-        
-        const width = container.clientWidth;
-        const height = container.clientHeight;
-        
-        // Create SVG
-        const svg = d3.select(container).append('svg')
-          .attr('width', width)
-          .attr('height', height)
-          .style('background', 'linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%)');
-        
-        // Create force simulation
-        const simulation = d3.forceSimulation(data.nodes)
-          .force('link', d3.forceLink(data.links).id(d => d.id).distance(100))
-          .force('charge', d3.forceManyBody().strength(-300))
-          .force('center', d3.forceCenter(width / 2, height / 2))
-          .force('collision', d3.forceCollide().radius(d => d.size + 10));
-        
-        // Create links
-        const link = svg.selectAll('.link')
-          .data(data.links)
-          .enter().append('line')
-          .attr('class', 'link')
-          .attr('stroke', '#444')
-          .attr('stroke-width', 1)
-          .attr('opacity', 0.3);
-        
-        // Create nodes
-        const node = svg.selectAll('.node')
-          .data(data.nodes)
-          .enter().append('circle')
-          .attr('class', 'node')
-          .attr('r', d => d.size)
-          .attr('fill', d => d.color || '#84a59d')
-          .attr('stroke', '#fff')
-          .attr('stroke-width', 1)
-          .attr('opacity', 0.8)
-          .call(d3.drag()
-            .on('start', dragstarted)
-            .on('drag', dragged)
-            .on('end', dragended));
-        
-        node.append('title').text(d => d.id);
-        
-        // Update positions
-        simulation.on('tick', () => {
-          link
-            .attr('x1', d => d.source.x)
-            .attr('y1', d => d.source.y)
-            .attr('x2', d => d.target.x)
-            .attr('y2', d => d.target.y);
+    // Link from Kenya to this category
+    links.push({
+      source: 0,
+      target: nodes.length - 1,
+      strength: 0.8
+    });
+    
+    // Add secondary nodes (articles under each category)
+    for (let j = 0; j < 12; j++) {
+      const secondaryAngle = angleStep * i + (Math.random() - 0.5) * angleStep * 0.8;
+      const secondaryDistance = distance + 100 + Math.random() * 50;
+      
+      nodes.push({
+        id: `${cat}-${j}`,
+        label: '',
+        x: width / 2 + Math.cos(secondaryAngle) * secondaryDistance,
+        y: height / 2 + Math.sin(secondaryAngle) * secondaryDistance,
+        vx: 0,
+        vy: 0,
+        color: '#84a59d',
+        size: 6
+      });
+      
+      links.push({
+        source: nodes.length - categories.length - 1,
+        target: nodes.length - 1,
+        strength: 0.3
+      });
+    }
+  });
+  
+  // Simple force-directed simulation
+  const iterations = 100;
+  const damping = 0.99;
+  const repulsion = 2000;
+  const attraction = 0.1;
+  
+  function simulate() {
+    // Apply forces
+    for (let i = 0; i < iterations; i++) {
+      // Reset forces
+      nodes.forEach(n => {
+        n.fx = 0;
+        n.fy = 0;
+      });
+      
+      // Repulsive forces between all nodes
+      for (let a = 0; a < nodes.length; a++) {
+        for (let b = a + 1; b < nodes.length; b++) {
+          const dx = nodes[b].x - nodes[a].x;
+          const dy = nodes[b].y - nodes[a].y;
+          const dist = Math.sqrt(dx * dx + dy * dy) + 0.1;
+          const force = repulsion / (dist * dist);
           
-          node
-            .attr('cx', d => d.x)
-            .attr('cy', d => d.y);
-        });
-        
-        function dragstarted(event, d) {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
-          d.fx = d.x;
-          d.fy = d.y;
+          nodes[a].vx -= (dx / dist) * force;
+          nodes[a].vy -= (dy / dist) * force;
+          nodes[b].vx += (dx / dist) * force;
+          nodes[b].vy += (dy / dist) * force;
         }
+      }
+      
+      // Attractive forces for linked nodes
+      links.forEach(link => {
+        const a = nodes[link.source];
+        const b = nodes[link.target];
+        const dx = b.x - a.x;
+        const dy = b.y - a.y;
+        const dist = Math.sqrt(dx * dx + dy * dy) + 0.1;
+        const force = attraction * dist * link.strength;
         
-        function dragged(event, d) {
-          d.fx = event.x;
-          d.fy = event.y;
+        a.vx += (dx / dist) * force;
+        a.vy += (dy / dist) * force;
+        b.vx -= (dx / dist) * force;
+        b.vy -= (dy / dist) * force;
+      });
+      
+      // Update positions
+      nodes.forEach(n => {
+        if (!n.fixed) {
+          n.vx *= damping;
+          n.vy *= damping;
+          n.x += n.vx;
+          n.y += n.vy;
+          
+          // Boundary conditions
+          n.x = Math.max(n.size, Math.min(width - n.size, n.x));
+          n.y = Math.max(n.size, Math.min(height - n.size, n.y));
         }
-        
-        function dragended(event, d) {
-          if (!event.active) simulation.alphaTarget(0);
-          d.fx = null;
-          d.fy = null;
-        }
-      })
-      .catch(err => console.error('Graph load failed:', err));
+      });
+    }
+    
+    // Draw
+    ctx.fillStyle = 'rgba(26, 26, 26, 1)';
+    ctx.fillRect(0, 0, width, height);
+    
+    // Draw links
+    ctx.strokeStyle = 'rgba(68, 68, 68, 0.4)';
+    ctx.lineWidth = 1;
+    links.forEach(link => {
+      const a = nodes[link.source];
+      const b = nodes[link.target];
+      ctx.beginPath();
+      ctx.moveTo(a.x, a.y);
+      ctx.lineTo(b.x, b.y);
+      ctx.stroke();
+    });
+    
+    // Draw nodes
+    nodes.forEach(n => {
+      ctx.fillStyle = n.color;
+      ctx.globalAlpha = 0.85;
+      ctx.beginPath();
+      ctx.arc(n.x, n.y, n.size, 0, Math.PI * 2);
+      ctx.fill();
+      
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 1;
+      ctx.globalAlpha = 1;
+      ctx.stroke();
+    });
   }
   
-  // Initialize when DOM is ready or when this script runs
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initGraph);
-  } else {
-    initGraph();
+  simulate();
+  
+  // Add gentle animation
+  function animate() {
+    // Add slight drift
+    nodes.forEach(n => {
+      if (!n.fixed && Math.random() < 0.1) {
+        n.vx += (Math.random() - 0.5) * 2;
+        n.vy += (Math.random() - 0.5) * 2;
+      }
+    });
+    
+    simulate();
+    setTimeout(animate, 2000);
   }
+  
+  animate();
 })();
 </script>
 

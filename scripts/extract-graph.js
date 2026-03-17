@@ -250,10 +250,16 @@ try {
     fs.mkdirSync(outputDir, { recursive: true });
   }
   
-  // Write to file (and backup to /tmp in case public/ gets wiped)
+  // Write JSON file
   const graphJson = JSON.stringify(graph, null, 2);
   fs.writeFileSync(OUTPUT_FILE, graphJson);
-  fs.writeFileSync(TEMP_FILE, graphJson); // Backup in /tmp
+  
+  // ALSO write as JavaScript module so it can be bundled
+  const jsFile = path.join(__dirname, '../quartz/components/HeroGraphData.ts');
+  const jsContent = `// Auto-generated graph data
+export const heroGraphData = ${graphJson};
+`;
+  fs.writeFileSync(jsFile, jsContent);
   
   console.log(`Graph extracted successfully!`);
   console.log(`Stats:
@@ -264,7 +270,7 @@ try {
   - Total links: ${graph.stats.totalLinks}
   `);
   console.log(`Output saved to: ${OUTPUT_FILE}`);
-  console.log(`Backup saved to: ${TEMP_FILE}`);
+  console.log(`JS module saved to: ${jsFile}`);
   
 } catch (error) {
   console.error('Error building graph:', error);
