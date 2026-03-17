@@ -1,19 +1,17 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
-import script from "./scripts/hero-graph.inline"
-import style from "./styles/HeroGraph.scss"
+import script from "./scripts/hero-graph-component.inline"
 
 const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
     <div
       class={displayClass}
-      id="hero-graph-container"
-      data-graph-url="/data/hero-graph.json"
+      id="ok-hero-graph-root"
+      style={{ width: "100%", margin: "2rem 0" }}
     ></div>
   )
 }
 
 HeroGraph.afterDOMLoaded = script
-HeroGraph.css = style
 
 export default (() => HeroGraph) satisfies QuartzComponentConstructor
