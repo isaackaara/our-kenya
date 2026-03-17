@@ -21,11 +21,10 @@ cssclasses:
 
 ## The Shape of Kenya
 
-A living graph of Kenya's history. Kenya at the center, 7 themes radiating outward.
+A living graph of Kenya's history. Explore connections across 6,500+ notes.
 
-<div id="hero-graph-container" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%);"></div>
+<div id="ok-hero-graph" style="width: 100%; margin: 2rem 0;"></div>
 
-<script async src="https://d3js.org/d3.v7.min.js"></script>
 <script>
 function initHeroGraph() {
   if (!window.d3) {
@@ -33,36 +32,37 @@ function initHeroGraph() {
     return;
   }
 
-  const container = document.getElementById('hero-graph-container');
+  const { select, forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide, drag, zoom } = window.d3;
+  const container = document.getElementById('ok-hero-graph');
   if (!container) return;
 
-  const width = container.clientWidth;
-  const height = container.clientHeight;
+  const W = container.clientWidth || 800;
+  const H = window.innerWidth < 640 ? 280 : 400;
 
-  // Graph data - hardcoded like knowledge-graphs.inline.ts
+  // Graph data
   const nodes = [
-    { id: "Kenya", label: "Kenya", type: "center", size: 20, color: "#006B3F" },
-    { id: "Elections", label: "Elections", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Presidencies", label: "Presidencies", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Corruption", label: "Corruption", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Colonial Kenya", label: "Colonial Kenya", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Conservation", label: "Conservation", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Political Movements", label: "Political Movements", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Ethnic Groups", label: "Ethnic Groups", type: "primary", size: 10, color: "#BB0000" },
-    { id: "Elections-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Elections-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Presidencies-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Presidencies-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Corruption-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Corruption-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Colonial-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Colonial-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Conservation-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Conservation-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Political-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Political-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Ethnic-1", label: "", type: "secondary", size: 5, color: "#84a59d" },
-    { id: "Ethnic-2", label: "", type: "secondary", size: 5, color: "#84a59d" },
+    { id: "Kenya", label: "Kenya", type: "center" },
+    { id: "Elections", label: "Elections", type: "primary" },
+    { id: "Presidencies", label: "Presidencies", type: "primary" },
+    { id: "Corruption", label: "Corruption", type: "primary" },
+    { id: "Colonial Kenya", label: "Colonial Kenya", type: "primary" },
+    { id: "Conservation", label: "Conservation", type: "primary" },
+    { id: "Political Movements", label: "Political Movements", type: "primary" },
+    { id: "Ethnic Groups", label: "Ethnic Groups", type: "primary" },
+    { id: "E1", type: "secondary" },
+    { id: "E2", type: "secondary" },
+    { id: "P1", type: "secondary" },
+    { id: "P2", type: "secondary" },
+    { id: "C1", type: "secondary" },
+    { id: "C2", type: "secondary" },
+    { id: "Co1", type: "secondary" },
+    { id: "Co2", type: "secondary" },
+    { id: "Con1", type: "secondary" },
+    { id: "Con2", type: "secondary" },
+    { id: "Pol1", type: "secondary" },
+    { id: "Pol2", type: "secondary" },
+    { id: "Eth1", type: "secondary" },
+    { id: "Eth2", type: "secondary" },
   ];
 
   const links = [
@@ -73,56 +73,98 @@ function initHeroGraph() {
     { source: "Kenya", target: "Conservation" },
     { source: "Kenya", target: "Political Movements" },
     { source: "Kenya", target: "Ethnic Groups" },
-    { source: "Elections", target: "Elections-1" },
-    { source: "Elections", target: "Elections-2" },
-    { source: "Presidencies", target: "Presidencies-1" },
-    { source: "Presidencies", target: "Presidencies-2" },
-    { source: "Corruption", target: "Corruption-1" },
-    { source: "Corruption", target: "Corruption-2" },
-    { source: "Colonial Kenya", target: "Colonial-1" },
-    { source: "Colonial Kenya", target: "Colonial-2" },
-    { source: "Conservation", target: "Conservation-1" },
-    { source: "Conservation", target: "Conservation-2" },
-    { source: "Political Movements", target: "Political-1" },
-    { source: "Political Movements", target: "Political-2" },
-    { source: "Ethnic Groups", target: "Ethnic-1" },
-    { source: "Ethnic Groups", target: "Ethnic-2" },
+    { source: "Elections", target: "E1" },
+    { source: "Elections", target: "E2" },
+    { source: "Presidencies", target: "P1" },
+    { source: "Presidencies", target: "P2" },
+    { source: "Corruption", target: "C1" },
+    { source: "Corruption", target: "C2" },
+    { source: "Colonial Kenya", target: "Co1" },
+    { source: "Colonial Kenya", target: "Co2" },
+    { source: "Conservation", target: "Con1" },
+    { source: "Conservation", target: "Con2" },
+    { source: "Political Movements", target: "Pol1" },
+    { source: "Political Movements", target: "Pol2" },
+    { source: "Ethnic Groups", target: "Eth1" },
+    { source: "Ethnic Groups", target: "Eth2" },
   ];
 
-  const svg = d3.select(container).append('svg')
-    .attr('width', width)
-    .attr('height', height)
-    .style('background', 'linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%)');
+  // Wrapper
+  const wrap = document.createElement('div');
+  wrap.style.cssText = `width:100%;height:${H}px;position:relative;overflow:hidden;border-radius:8px;background:#000;`;
+  container.appendChild(wrap);
 
-  const simulation = d3.forceSimulation(nodes)
-    .force('link', d3.forceLink(links).id(d => d.id).distance(80))
-    .force('charge', d3.forceManyBody().strength(-200))
-    .force('center', d3.forceCenter(width / 2, height / 2));
+  // SVG
+  const svgEl = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  svgEl.setAttribute("width", "100%");
+  svgEl.setAttribute("height", String(H));
+  svgEl.style.display = "block";
+  svgEl.style.background = "#000";
+  wrap.appendChild(svgEl);
 
-  const link = svg.selectAll('line')
-    .data(links)
-    .enter().append('line')
-    .attr('stroke', '#ccc')
-    .attr('stroke-width', 1)
-    .attr('opacity', 0.4);
+  const svg = select(svgEl);
+  const gRoot = svg.append("g").attr("class", "kg-root");
 
-  const node = svg.selectAll('circle')
-    .data(nodes)
-    .enter().append('circle')
-    .attr('r', d => d.size)
-    .attr('fill', d => d.color)
-    .attr('stroke', '#fff')
-    .attr('stroke-width', 1.5)
-    .attr('opacity', 0.85);
+  // Zoom
+  const zoomBehavior = zoom()
+    .scaleExtent([0.3, 3])
+    .filter((event) => {
+      if (event.type === "wheel") return event.ctrlKey || event.metaKey
+      return !event.button
+    })
+    .on("zoom", (event) => gRoot.attr("transform", event.transform))
+  svg.call(zoomBehavior);
+  svgEl.addEventListener("wheel", (e) => { if (!e.ctrlKey && !e.metaKey) e.stopPropagation() }, { passive: true });
+
+  // Simulate
+  const nodeData = nodes.map(n => ({ ...n }));
+  const linkData = links.map(l => ({ ...l }));
+
+  const simulation = forceSimulation(nodeData)
+    .force("link", forceLink(linkData).id(d => d.id).distance(100))
+    .force("charge", forceManyBody().strength(-250))
+    .force("center", forceCenter(W / 2, H / 2))
+    .force("collision", forceCollide().radius(d => (d.type === "center" ? 12 : d.type === "primary" ? 7 : 4) + 5));
+
+  const linkSel = gRoot.append("g")
+    .selectAll("line")
+    .data(linkData)
+    .enter()
+    .append("line")
+    .attr("stroke", "#666")
+    .attr("stroke-width", 1)
+    .attr("stroke-opacity", 0.5);
+
+  const dragBehavior = drag()
+    .on("start", (event, d) => {
+      if (!event.active) simulation.alphaTarget(0.3).restart()
+      d.fx = d.x; d.fy = d.y
+    })
+    .on("drag", (event, d) => { d.fx = event.x; d.fy = event.y })
+    .on("end", (event, d) => {
+      if (!event.active) simulation.alphaTarget(0)
+      d.fx = null; d.fy = null
+    });
+
+  const nodeSel = gRoot.append("g")
+    .selectAll("circle")
+    .data(nodeData)
+    .enter()
+    .append("circle")
+    .attr("r", d => d.type === "center" ? 10 : d.type === "primary" ? 5 : 3)
+    .attr("fill", d => d.type === "center" ? "#666" : "#aaa")
+    .attr("opacity", 0.8)
+    .style("cursor", "pointer")
+    .call(dragBehavior);
 
   simulation.on('tick', () => {
-    link
+    linkSel
       .attr('x1', d => d.source.x)
       .attr('y1', d => d.source.y)
       .attr('x2', d => d.target.x)
       .attr('y2', d => d.target.y);
 
-    node
+    nodeSel
       .attr('cx', d => d.x)
       .attr('cy', d => d.y);
   });
