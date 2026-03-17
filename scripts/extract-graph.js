@@ -14,7 +14,13 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const CONTENT_DIR = path.join(__dirname, '../content');
-const OUTPUT_FILE = path.join(__dirname, '../quartz/public/data/hero-graph.json');
+const OUTPUT_DIR = path.join(__dirname, '../public/data');
+const OUTPUT_FILE = path.join(OUTPUT_DIR, 'hero-graph.json');
+
+// Ensure output directory exists
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
 
 // Categories/folders represent primary connections from Kenya
 const PRIMARY_CONNECTIONS = [
