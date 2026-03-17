@@ -21,215 +21,66 @@ cssclasses:
 
 ## The Shape of Kenya
 
-A living graph of Kenya's history. Explore connections across 6,500+ topics.
+A living graph of Kenya's history. Kenya at the center, 7 themes radiating outward.
 
-<div id="hero-graph-container" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%); position: relative;">
-  <canvas id="graph-canvas" style="display: block; width: 100%; height: 100%;"></canvas>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: rgba(255,255,255,0.7); text-align: center; font-size: 18px; pointer-events: none;">
-    <p>Loading graph...</p>
-    <p style="font-size: 14px; margin-top: 10px;">6,500+ topics connected</p>
-  </div>
-</div>
-
-<script>
-(function() {
-  // Simplified force-directed graph using Canvas
-  // Generates nodes from page links without external data file
+<svg viewBox="0 0 800 600" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; overflow: hidden; background: linear-gradient(135deg, #006B3F 0%, #BB0000 100%); display: block;">
+  <!-- Links -->
+  <line x1="400" y1="300" x2="500" y2="100" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="550" y2="150" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="600" y2="250" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="600" y2="350" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="550" y2="450" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="350" y2="500" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="200" y2="450" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="100" y2="350" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="50" y2="250" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="150" y2="150" stroke="#ccc" stroke-width="1" opacity="0.4"/>
+  <line x1="400" y1="300" x2="250" y2="100" stroke="#ccc" stroke-width="1" opacity="0.4"/>
   
-  const canvas = document.getElementById('graph-canvas');
-  if (!canvas) return;
+  <!-- Secondary links -->
+  <line x1="500" y1="100" x2="520" y2="50" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="500" y1="100" x2="530" y2="80" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="550" y1="150" x2="580" y2="120" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="600" y1="250" x2="650" y2="240" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="600" y1="350" x2="650" y2="360" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="550" y1="450" x2="580" y2="480" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="350" y1="500" x2="320" y2="540" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="200" y1="450" x2="170" y2="480" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="100" y1="350" x2="50" y2="360" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="50" y1="250" x2="20" y2="240" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="150" y1="150" x2="120" y2="120" stroke="#666" stroke-width="0.5" opacity="0.3"/>
+  <line x1="250" y1="100" x2="220" y2="50" stroke="#666" stroke-width="0.5" opacity="0.3"/>
   
-  const container = canvas.parentElement;
-  // Force canvas to render at display size
-  canvas.width = container.offsetWidth * window.devicePixelRatio;
-  canvas.height = container.offsetHeight * window.devicePixelRatio;
+  <!-- Center node (Kenya) -->
+  <circle cx="400" cy="300" r="16" fill="#006B3F" stroke="#fff" stroke-width="2" opacity="0.9"/>
   
-  const ctx = canvas.getContext('2d', { willReadFrequently: false });
-  ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+  <!-- Primary nodes (categories) -->
+  <circle cx="500" cy="100" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="550" cy="150" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="600" cy="250" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="600" cy="350" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="550" cy="450" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="350" cy="500" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="200" cy="450" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="100" cy="350" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="50" cy="250" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="150" cy="150" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="250" cy="100" r="8" fill="#BB0000" stroke="#fff" stroke-width="1.5" opacity="0.85"/>
   
-  const width = container.offsetWidth;
-  const height = container.offsetHeight;
-  
-  // Create a simple graph structure
-  const nodes = [];
-  const links = [];
-  
-  // Add Kenya at center
-  nodes.push({
-    id: 'Kenya',
-    label: 'Kenya',
-    x: width / 2,
-    y: height / 2,
-    vx: 0,
-    vy: 0,
-    color: '#006B3F',
-    size: 20,
-    fixed: true
-  });
-  
-  // Add primary categories (radiating from Kenya) - SIMPLIFIED
-  const categories = [
-    'Elections', 'Presidencies', 'Corruption', 'Colonial Kenya',
-    'Conservation', 'Political Movements', 'Ethnic Groups'
-  ];
-  
-  const angleStep = (Math.PI * 2) / categories.length;
-  const distance = 100; // Reduced from 180
-  
-  categories.forEach((cat, i) => {
-    const angle = angleStep * i;
-    nodes.push({
-      id: cat,
-      label: cat,
-      x: width / 2 + Math.cos(angle) * distance,
-      y: height / 2 + Math.sin(angle) * distance,
-      vx: 0,
-      vy: 0,
-      color: '#BB0000',
-      size: 8
-    });
-    
-    // Link from Kenya to this category
-    links.push({
-      source: 0,
-      target: nodes.length - 1,
-      strength: 0.8
-    });
-    
-    // Add secondary nodes (articles under each category) - REDUCED from 12 to 3
-    for (let j = 0; j < 3; j++) {
-      const secondaryAngle = angleStep * i + (Math.random() - 0.5) * angleStep * 0.6;
-      const secondaryDistance = distance + 50; // Reduced from 100+random
-      
-      nodes.push({
-        id: `${cat}-${j}`,
-        label: '',
-        x: width / 2 + Math.cos(secondaryAngle) * secondaryDistance,
-        y: height / 2 + Math.sin(secondaryAngle) * secondaryDistance,
-        vx: 0,
-        vy: 0,
-        color: '#84a59d',
-        size: 4
-      });
-      
-      links.push({
-        source: i + 1,
-        target: nodes.length - 1,
-        strength: 0.3
-      });
-    }
-  });
-  
-  // Simple force-directed simulation - REDUCED iterations
-  const iterations = 20; // Reduced from 100
-  const damping = 0.95;
-  const repulsion = 500; // Reduced from 2000
-  const attraction = 0.05; // Reduced from 0.1
-  
-  function simulate() {
-    // Apply forces
-    for (let i = 0; i < iterations; i++) {
-      // Reset forces
-      nodes.forEach(n => {
-        n.fx = 0;
-        n.fy = 0;
-      });
-      
-      // Repulsive forces between all nodes
-      for (let a = 0; a < nodes.length; a++) {
-        for (let b = a + 1; b < nodes.length; b++) {
-          const dx = nodes[b].x - nodes[a].x;
-          const dy = nodes[b].y - nodes[a].y;
-          const dist = Math.sqrt(dx * dx + dy * dy) + 0.1;
-          const force = repulsion / (dist * dist);
-          
-          nodes[a].vx -= (dx / dist) * force;
-          nodes[a].vy -= (dy / dist) * force;
-          nodes[b].vx += (dx / dist) * force;
-          nodes[b].vy += (dy / dist) * force;
-        }
-      }
-      
-      // Attractive forces for linked nodes
-      links.forEach(link => {
-        const a = nodes[link.source];
-        const b = nodes[link.target];
-        const dx = b.x - a.x;
-        const dy = b.y - a.y;
-        const dist = Math.sqrt(dx * dx + dy * dy) + 0.1;
-        const force = attraction * dist * link.strength;
-        
-        a.vx += (dx / dist) * force;
-        a.vy += (dy / dist) * force;
-        b.vx -= (dx / dist) * force;
-        b.vy -= (dy / dist) * force;
-      });
-      
-      // Update positions
-      nodes.forEach(n => {
-        if (!n.fixed) {
-          n.vx *= damping;
-          n.vy *= damping;
-          n.x += n.vx;
-          n.y += n.vy;
-          
-          // Boundary conditions
-          n.x = Math.max(n.size, Math.min(width - n.size, n.x));
-          n.y = Math.max(n.size, Math.min(height - n.size, n.y));
-        }
-      });
-    }
-    
-    // Draw
-    ctx.fillStyle = 'rgba(26, 26, 26, 1)';
-    ctx.fillRect(0, 0, width, height);
-    
-    // Draw links
-    ctx.strokeStyle = 'rgba(68, 68, 68, 0.4)';
-    ctx.lineWidth = 1;
-    links.forEach(link => {
-      const a = nodes[link.source];
-      const b = nodes[link.target];
-      ctx.beginPath();
-      ctx.moveTo(a.x, a.y);
-      ctx.lineTo(b.x, b.y);
-      ctx.stroke();
-    });
-    
-    // Draw nodes
-    nodes.forEach(n => {
-      ctx.fillStyle = n.color;
-      ctx.globalAlpha = 0.85;
-      ctx.beginPath();
-      ctx.arc(n.x, n.y, n.size, 0, Math.PI * 2);
-      ctx.fill();
-      
-      ctx.strokeStyle = '#fff';
-      ctx.lineWidth = 1;
-      ctx.globalAlpha = 1;
-      ctx.stroke();
-    });
-  }
-  
-  simulate();
-  
-  // Add gentle animation
-  function animate() {
-    // Add slight drift
-    nodes.forEach(n => {
-      if (!n.fixed && Math.random() < 0.1) {
-        n.vx += (Math.random() - 0.5) * 2;
-        n.vy += (Math.random() - 0.5) * 2;
-      }
-    });
-    
-    simulate();
-    setTimeout(animate, 2000);
-  }
-  
-  animate();
-})();
-</script>
+  <!-- Secondary nodes -->
+  <circle cx="520" cy="50" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="530" cy="80" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="580" cy="120" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="650" cy="240" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="650" cy="360" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="580" cy="480" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="320" cy="540" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="170" cy="480" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="50" cy="360" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="20" cy="240" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="120" cy="120" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+  <circle cx="220" cy="50" r="4" fill="#84a59d" stroke="#fff" stroke-width="1" opacity="0.85"/>
+</svg>
 
 ## Explore by storyline
 
