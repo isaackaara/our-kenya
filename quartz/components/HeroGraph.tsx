@@ -32,133 +32,9 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     const container = document.getElementById('ok-hero-graph-root');
     if (!container || !window.d3) return;
     
-    // Fetch full graph data and sample it
-    fetch('/data/hero-graph.json')
-      .then(r => r.json())
-      .then(fullData => renderGraph(container, fullData))
-      .catch(() => renderGraph(container, null));
-  }
-  
-  function renderGraph(container, fullData) {
-    if (!window.d3) return;
-    
     const isMobile = window.innerWidth < 640;
     const H = isMobile ? 300 : 500;
     const W = container.clientWidth || 800;
-    
-    let nodes, links;
-    
-    if (fullData && fullData.nodes && fullData.nodes.length > 100) {
-      // Sample ~500 nodes while preserving center + connectivity
-      const sampleSize = Math.min(500, Math.floor(fullData.nodes.length / 2));
-      const step = Math.max(1, Math.floor(fullData.nodes.length / sampleSize));
-      const sampledIds = new Set();
-      
-      fullData.nodes.forEach((n, i) => {
-        if (n.id === 'Kenya' || i % step === 0) {
-          sampledIds.add(n.id);
-        }
-      });
-      
-      nodes = fullData.nodes.filter((n, i) => sampledIds.has(n.id) && nodes?.length < sampleSize).map(n => ({ ...n }));
-      const nodeIdSet = new Set(nodes.map(n => n.id));
-      links = fullData.links.filter(l => nodeIdSet.has(l.source) && nodeIdSet.has(l.target)).map(l => ({ ...l }));
-    } else {
-      // Fallback to hardcoded nodes
-      nodes = [
-        { id: 'kenya', label: 'Kenya', type: 'center' },
-        { id: 'elections', label: 'Elections', type: 'primary' },
-        { id: 'presidencies', label: 'Presidencies', type: 'primary' },
-        { id: 'corruption', label: 'Corruption', type: 'primary' },
-        { id: 'colonial', label: 'Colonial Kenya', type: 'primary' },
-        { id: 'conservation', label: 'Conservation', type: 'primary' },
-        { id: 'politics', label: 'Political Movements', type: 'primary' },
-        { id: 'ethnic', label: 'Ethnic Groups', type: 'primary' },
-        { id: 'sports', label: 'Sports', type: 'primary' },
-        { id: 'tech', label: 'Technology', type: 'primary' },
-        { id: 'coast', label: 'Swahili Coast', type: 'primary' },
-        { id: 'e1', label: '2007 PEV', type: 'secondary' },
-        { id: 'e2', label: 'Independence', type: 'secondary' },
-        { id: 'e3', label: 'The Handshake', type: 'secondary' },
-        { id: 'p1', label: 'Jomo Kenyatta', type: 'secondary' },
-        { id: 'p2', label: 'Raila Odinga', type: 'secondary' },
-        { id: 'p3', label: 'Daniel arap Moi', type: 'secondary' },
-        { id: 'c1', label: 'Goldenberg', type: 'secondary' },
-        { id: 'c2', label: 'Anglo-Leasing', type: 'secondary' },
-        { id: 'co1', label: 'White Highlands', type: 'secondary' },
-        { id: 'co2', label: 'Mau Mau', type: 'secondary' },
-        { id: 'co3', label: 'Lancaster House', type: 'secondary' },
-        { id: 'con1', label: 'Green Belt', type: 'secondary' },
-        { id: 'con2', label: 'Ivory Ban', type: 'secondary' },
-        { id: 'con3', label: 'Richard Leakey', type: 'secondary' },
-        { id: 'pol1', label: 'Tom Mboya', type: 'secondary' },
-        { id: 'pol2', label: 'Oginga Odinga', type: 'secondary' },
-        { id: 'pol3', label: 'Wangari Maathai', type: 'secondary' },
-        { id: 'eth1', label: 'Kikuyu', type: 'secondary' },
-        { id: 'eth2', label: 'Luo', type: 'secondary' },
-        { id: 'eth3', label: 'Luhya', type: 'secondary' },
-        { id: 'eth4', label: 'Kalenjin', type: 'secondary' },
-        { id: 's1', label: 'Marathon Champions', type: 'secondary' },
-        { id: 's2', label: 'Safari Rally', type: 'secondary' },
-        { id: 's3', label: 'Harambee Stars', type: 'secondary' },
-        { id: 't1', label: 'M-Pesa', type: 'secondary' },
-        { id: 't2', label: 'Silicon Savannah', type: 'secondary' },
-        { id: 't3', label: 'Safaricom', type: 'secondary' },
-        { id: 'co4', label: 'Mombasa', type: 'secondary' },
-        { id: 'co5', label: 'Lamu Island', type: 'secondary' },
-        { id: 'co6', label: 'Arab Traders', type: 'secondary' },
-        { id: 'legacy1', label: 'Land Question', type: 'secondary' },
-        { id: 'legacy2', label: 'Independence Dream', type: 'secondary' },
-        { id: 'legacy3', label: 'Urban Language', type: 'secondary' },
-        { id: 'legacy4', label: 'Diaspora', type: 'secondary' },
-      ];
-      links = [
-        { source: 'kenya', target: 'elections' },
-        { source: 'kenya', target: 'presidencies' },
-        { source: 'kenya', target: 'corruption' },
-        { source: 'kenya', target: 'colonial' },
-        { source: 'kenya', target: 'conservation' },
-        { source: 'kenya', target: 'politics' },
-        { source: 'kenya', target: 'ethnic' },
-        { source: 'kenya', target: 'sports' },
-        { source: 'kenya', target: 'tech' },
-        { source: 'kenya', target: 'coast' },
-        { source: 'elections', target: 'e1' },
-        { source: 'elections', target: 'e2' },
-        { source: 'elections', target: 'e3' },
-        { source: 'presidencies', target: 'p1' },
-        { source: 'presidencies', target: 'p2' },
-        { source: 'presidencies', target: 'p3' },
-        { source: 'corruption', target: 'c1' },
-        { source: 'corruption', target: 'c2' },
-        { source: 'colonial', target: 'co1' },
-        { source: 'colonial', target: 'co2' },
-        { source: 'colonial', target: 'co3' },
-        { source: 'conservation', target: 'con1' },
-        { source: 'conservation', target: 'con2' },
-        { source: 'conservation', target: 'con3' },
-        { source: 'politics', target: 'pol1' },
-        { source: 'politics', target: 'pol2' },
-        { source: 'politics', target: 'pol3' },
-        { source: 'ethnic', target: 'eth1' },
-        { source: 'ethnic', target: 'eth2' },
-        { source: 'ethnic', target: 'eth3' },
-        { source: 'ethnic', target: 'eth4' },
-        { source: 'sports', target: 's1' },
-        { source: 'sports', target: 's2' },
-        { source: 'sports', target: 's3' },
-        { source: 'tech', target: 't1' },
-        { source: 'tech', target: 't2' },
-        { source: 'tech', target: 't3' },
-        { source: 'coast', target: 'co4' },
-        { source: 'coast', target: 'co5' },
-        { source: 'coast', target: 'co6' },
-        { source: 'kenya', target: 'legacy1' },
-        { source: 'kenya', target: 'legacy2' },
-        { source: 'kenya', target: 'legacy3' },
-        { source: 'kenya', target: 'legacy4' },
-      ];
-    }
     
     const graphWrap = document.createElement('div');
     graphWrap.style.cssText = 'width:100%;height:' + H + 'px;position:relative;overflow:hidden;border-radius:8px;background:var(--light,#f8f6f1);';
@@ -171,7 +47,7 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     graphWrap.appendChild(svgEl);
     
     const svg = d3.select(svgEl);
-    const gRoot = svg.append('g').attr('class', 'kg-root').attr('transform', 'translate(0,0) scale(0.5)');
+    const gRoot = svg.append('g').attr('class', 'kg-root').attr('transform', 'translate(0,0) scale(0.65)');
     
     const zoomBehavior = d3.zoom()
       .scaleExtent([0.2, 4])
@@ -195,40 +71,65 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { id: 'sports', label: 'Sports', type: 'primary' },
       { id: 'tech', label: 'Technology', type: 'primary' },
       { id: 'coast', label: 'Swahili Coast', type: 'primary' },
+      { id: 'culture', label: 'Culture', type: 'primary' },
+      { id: 'economy', label: 'Economy', type: 'primary' },
       { id: 'e1', label: '2007 PEV', type: 'secondary' },
       { id: 'e2', label: 'Independence', type: 'secondary' },
-      { id: 'e3', label: 'The Handshake', type: 'secondary' },
+      { id: 'e3', label: 'Handshake', type: 'secondary' },
+      { id: 'e4', label: 'Lancaster House', type: 'secondary' },
+      { id: 'e5', label: 'Shifta War', type: 'secondary' },
       { id: 'p1', label: 'Jomo Kenyatta', type: 'secondary' },
       { id: 'p2', label: 'Raila Odinga', type: 'secondary' },
-      { id: 'p3', label: 'Daniel arap Moi', type: 'secondary' },
+      { id: 'p3', label: 'Moi', type: 'secondary' },
+      { id: 'p4', label: 'Kibaki', type: 'secondary' },
+      { id: 'p5', label: 'Uhuru', type: 'secondary' },
       { id: 'c1', label: 'Goldenberg', type: 'secondary' },
       { id: 'c2', label: 'Anglo-Leasing', type: 'secondary' },
+      { id: 'c3', label: 'Oathing', type: 'secondary' },
       { id: 'co1', label: 'White Highlands', type: 'secondary' },
       { id: 'co2', label: 'Mau Mau', type: 'secondary' },
-      { id: 'co3', label: 'Lancaster House', type: 'secondary' },
+      { id: 'co3', label: 'Hola', type: 'secondary' },
+      { id: 'co4', label: 'Kimathi', type: 'secondary' },
+      { id: 'co5', label: 'Mekatilili', type: 'secondary' },
       { id: 'con1', label: 'Green Belt', type: 'secondary' },
       { id: 'con2', label: 'Ivory Ban', type: 'secondary' },
-      { id: 'con3', label: 'Richard Leakey', type: 'secondary' },
+      { id: 'con3', label: 'R. Leakey', type: 'secondary' },
+      { id: 'con4', label: 'Wangari', type: 'secondary' },
       { id: 'pol1', label: 'Tom Mboya', type: 'secondary' },
-      { id: 'pol2', label: 'Oginga Odinga', type: 'secondary' },
-      { id: 'pol3', label: 'Wangari Maathai', type: 'secondary' },
+      { id: 'pol2', label: 'Oginga', type: 'secondary' },
+      { id: 'pol3', label: 'KANU', type: 'secondary' },
+      { id: 'pol4', label: 'ODM', type: 'secondary' },
       { id: 'eth1', label: 'Kikuyu', type: 'secondary' },
       { id: 'eth2', label: 'Luo', type: 'secondary' },
       { id: 'eth3', label: 'Luhya', type: 'secondary' },
       { id: 'eth4', label: 'Kalenjin', type: 'secondary' },
-      { id: 's1', label: 'Marathon Champions', type: 'secondary' },
+      { id: 'eth5', label: 'Kamba', type: 'secondary' },
+      { id: 'eth6', label: 'Maasai', type: 'secondary' },
+      { id: 's1', label: 'Marathon', type: 'secondary' },
       { id: 's2', label: 'Safari Rally', type: 'secondary' },
-      { id: 's3', label: 'Harambee Stars', type: 'secondary' },
+      { id: 's3', label: 'Football', type: 'secondary' },
+      { id: 's4', label: 'Athletics', type: 'secondary' },
       { id: 't1', label: 'M-Pesa', type: 'secondary' },
-      { id: 't2', label: 'Silicon Savannah', type: 'secondary' },
+      { id: 't2', label: 'Tech', type: 'secondary' },
       { id: 't3', label: 'Safaricom', type: 'secondary' },
-      { id: 'co4', label: 'Mombasa', type: 'secondary' },
-      { id: 'co5', label: 'Lamu Island', type: 'secondary' },
-      { id: 'co6', label: 'Arab Traders', type: 'secondary' },
-      { id: 'legacy1', label: 'Land Question', type: 'secondary' },
-      { id: 'legacy2', label: 'Independence Dream', type: 'secondary' },
-      { id: 'legacy3', label: 'Urban Language', type: 'secondary' },
-      { id: 'legacy4', label: 'Diaspora', type: 'secondary' },
+      { id: 't4', label: 'Airways', type: 'secondary' },
+      { id: 'co6', label: 'Mombasa', type: 'secondary' },
+      { id: 'co7', label: 'Lamu', type: 'secondary' },
+      { id: 'co8', label: 'Nairobi', type: 'secondary' },
+      { id: 'co9', label: 'Turkana', type: 'secondary' },
+      { id: 'cu1', label: 'Sheng', type: 'secondary' },
+      { id: 'cu2', label: 'Benga', type: 'secondary' },
+      { id: 'cu3', label: 'Architecture', type: 'secondary' },
+      { id: 'cu4', label: 'Pastoral', type: 'secondary' },
+      { id: 'ec1', label: 'Tea', type: 'secondary' },
+      { id: 'ec2', label: 'Flowers', type: 'secondary' },
+      { id: 'ec3', label: 'Tourism', type: 'secondary' },
+      { id: 'ec4', label: 'NSE', type: 'secondary' },
+      { id: 'l1', label: 'Women', type: 'secondary' },
+      { id: 'l2', label: 'Land', type: 'secondary' },
+      { id: 'l3', label: 'Migration', type: 'secondary' },
+      { id: 'l4', label: 'Diaspora', type: 'secondary' },
+      { id: 'l5', label: 'Education', type: 'secondary' },
     ];
     
     const links = [
@@ -242,62 +143,78 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { source: 'kenya', target: 'sports' },
       { source: 'kenya', target: 'tech' },
       { source: 'kenya', target: 'coast' },
+      { source: 'kenya', target: 'culture' },
+      { source: 'kenya', target: 'economy' },
       { source: 'elections', target: 'e1' },
       { source: 'elections', target: 'e2' },
       { source: 'elections', target: 'e3' },
+      { source: 'elections', target: 'e4' },
+      { source: 'elections', target: 'e5' },
       { source: 'presidencies', target: 'p1' },
       { source: 'presidencies', target: 'p2' },
       { source: 'presidencies', target: 'p3' },
+      { source: 'presidencies', target: 'p4' },
+      { source: 'presidencies', target: 'p5' },
       { source: 'corruption', target: 'c1' },
       { source: 'corruption', target: 'c2' },
+      { source: 'corruption', target: 'c3' },
       { source: 'colonial', target: 'co1' },
       { source: 'colonial', target: 'co2' },
       { source: 'colonial', target: 'co3' },
+      { source: 'colonial', target: 'co4' },
+      { source: 'colonial', target: 'co5' },
       { source: 'conservation', target: 'con1' },
       { source: 'conservation', target: 'con2' },
       { source: 'conservation', target: 'con3' },
+      { source: 'conservation', target: 'con4' },
       { source: 'politics', target: 'pol1' },
       { source: 'politics', target: 'pol2' },
       { source: 'politics', target: 'pol3' },
+      { source: 'politics', target: 'pol4' },
       { source: 'ethnic', target: 'eth1' },
       { source: 'ethnic', target: 'eth2' },
       { source: 'ethnic', target: 'eth3' },
       { source: 'ethnic', target: 'eth4' },
+      { source: 'ethnic', target: 'eth5' },
+      { source: 'ethnic', target: 'eth6' },
       { source: 'sports', target: 's1' },
       { source: 'sports', target: 's2' },
       { source: 'sports', target: 's3' },
+      { source: 'sports', target: 's4' },
       { source: 'tech', target: 't1' },
       { source: 'tech', target: 't2' },
       { source: 'tech', target: 't3' },
-      { source: 'coast', target: 'co4' },
-      { source: 'coast', target: 'co5' },
+      { source: 'tech', target: 't4' },
       { source: 'coast', target: 'co6' },
-      { source: 'kenya', target: 'legacy1' },
-      { source: 'kenya', target: 'legacy2' },
-      { source: 'kenya', target: 'legacy3' },
-      { source: 'kenya', target: 'legacy4' },
+      { source: 'coast', target: 'co7' },
+      { source: 'coast', target: 'co8' },
+      { source: 'coast', target: 'co9' },
+      { source: 'culture', target: 'cu1' },
+      { source: 'culture', target: 'cu2' },
+      { source: 'culture', target: 'cu3' },
+      { source: 'culture', target: 'cu4' },
+      { source: 'economy', target: 'ec1' },
+      { source: 'economy', target: 'ec2' },
+      { source: 'economy', target: 'ec3' },
+      { source: 'economy', target: 'ec4' },
+      { source: 'kenya', target: 'l1' },
+      { source: 'kenya', target: 'l2' },
+      { source: 'kenya', target: 'l3' },
+      { source: 'kenya', target: 'l4' },
+      { source: 'kenya', target: 'l5' },
     ];
     
     const nodeData = nodes.map(n => ({ ...n }));
     const linkData = links.map(l => ({ ...l }));
     
-    // Adjust force parameters based on dataset size
-    const isExpanded = nodes.length > 100;
-    
     const simulation = d3.forceSimulation(nodeData)
-      .force('link', d3.forceLink(linkData).id(d => d.id).distance(d => {
-        if (d.source.type === 'center' || d.target.type === 'center') return isExpanded ? 150 : 120;
-        return isExpanded ? 100 : 80;
-      }))
-      .force('charge', d3.forceManyBody().strength(d => {
-        if (d.type === 'center') return isExpanded ? -800 : -500;
-        return isExpanded ? -400 : -300;
-      }))
+      .force('link', d3.forceLink(linkData).id(d => d.id).distance(90))
+      .force('charge', d3.forceManyBody().strength(-300))
       .force('center', d3.forceCenter(W / 2, H / 2))
       .force('collision', d3.forceCollide().radius(d => {
-        if (d.type === 'center') return 25;
-        if (d.type === 'primary') return 12;
-        return isExpanded ? 6 : 10;
+        if (d.type === 'center') return 20;
+        if (d.type === 'primary') return 11;
+        return 7;
       }));
     
     const linkSel = gRoot.append('g')
