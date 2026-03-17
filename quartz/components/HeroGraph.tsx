@@ -73,6 +73,36 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { id: 'coast', label: 'Swahili Coast', type: 'primary' },
       { id: 'culture', label: 'Culture', type: 'primary' },
       { id: 'economy', label: 'Economy', type: 'primary' },
+      { id: 'migration', label: 'Migration', type: 'primary' },
+      { id: 'education', label: 'Education', type: 'primary' },
+      { id: 'land', label: 'Land Rights', type: 'primary' },
+      { id: 'diaspora', label: 'Diaspora', type: 'primary' },
+      { id: 'women', label: 'Women in Kenya', type: 'primary' },
+      // Migration secondaries
+      { id: 'm1', label: 'Indian Arrival', type: 'secondary' },
+      { id: 'm2', label: 'Indentured Labor', type: 'secondary' },
+      { id: 'm3', label: 'Rural-Urban Migration', type: 'secondary' },
+      { id: 'm4', label: 'Refugee Crises', type: 'secondary' },
+      // Education secondaries
+      { id: 'ed1', label: 'Mission Schools', type: 'secondary' },
+      { id: 'ed2', label: 'University of Nairobi', type: 'secondary' },
+      { id: 'ed3', label: 'Makerere University', type: 'secondary' },
+      { id: 'ed4', label: 'Colonial Education', type: 'secondary' },
+      // Land Rights secondaries
+      { id: 'l1', label: 'Land Reform', type: 'secondary' },
+      { id: 'l2', label: 'Pastoral Land Loss', type: 'secondary' },
+      { id: 'l3', label: 'Squatter Settlements', type: 'secondary' },
+      { id: 'l4', label: 'Group Ranches', type: 'secondary' },
+      // Diaspora secondaries
+      { id: 'd1', label: 'British Kenyans', type: 'secondary' },
+      { id: 'd2', label: 'American Kenyans', type: 'secondary' },
+      { id: 'd3', label: 'Arab Traders', type: 'secondary' },
+      { id: 'd4', label: 'Political Exile', type: 'secondary' },
+      // Women secondaries
+      { id: 'w1', label: 'Wangari Maathai', type: 'secondary' },
+      { id: 'w2', label: 'Mekatilili wa Menza', type: 'secondary' },
+      { id: 'w3', label: 'Women Activists', type: 'secondary' },
+      { id: 'w4', label: 'Gender Politics', type: 'secondary' },
       { id: 'e1', label: '2007 PEV', type: 'secondary' },
       { id: 'e2', label: 'Independence', type: 'secondary' },
       { id: 'e3', label: 'Handshake', type: 'secondary' },
@@ -145,6 +175,36 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       { source: 'kenya', target: 'coast' },
       { source: 'kenya', target: 'culture' },
       { source: 'kenya', target: 'economy' },
+      { source: 'kenya', target: 'migration' },
+      { source: 'kenya', target: 'education' },
+      { source: 'kenya', target: 'land' },
+      { source: 'kenya', target: 'diaspora' },
+      { source: 'kenya', target: 'women' },
+      // Migration links
+      { source: 'migration', target: 'm1' },
+      { source: 'migration', target: 'm2' },
+      { source: 'migration', target: 'm3' },
+      { source: 'migration', target: 'm4' },
+      // Education links
+      { source: 'education', target: 'ed1' },
+      { source: 'education', target: 'ed2' },
+      { source: 'education', target: 'ed3' },
+      { source: 'education', target: 'ed4' },
+      // Land links
+      { source: 'land', target: 'l1' },
+      { source: 'land', target: 'l2' },
+      { source: 'land', target: 'l3' },
+      { source: 'land', target: 'l4' },
+      // Diaspora links
+      { source: 'diaspora', target: 'd1' },
+      { source: 'diaspora', target: 'd2' },
+      { source: 'diaspora', target: 'd3' },
+      { source: 'diaspora', target: 'd4' },
+      // Women links
+      { source: 'women', target: 'w1' },
+      { source: 'women', target: 'w2' },
+      { source: 'women', target: 'w3' },
+      { source: 'women', target: 'w4' },
       { source: 'elections', target: 'e1' },
       { source: 'elections', target: 'e2' },
       { source: 'elections', target: 'e3' },
@@ -259,7 +319,7 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       .attr('fill', '#fff')
       .attr('pointer-events', 'none')
       .attr('stroke', '#000')
-      .attr('stroke-width', '0.5px')
+      .attr('stroke-width', '1.2px')
       .style('paint-order', 'stroke');
     
     simulation.on('tick', () => {
