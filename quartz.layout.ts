@@ -19,6 +19,10 @@ export const sharedPageComponents: SharedLayout = {
       condition: (page) => page.fileData.slug === "contribute",
     }),
     Component.ConditionalRender({
+      component: Component.HeroGraph(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
       component: Component.ShareButton({ 
         prominent: false, 
         label: "Share Our Kenya" 

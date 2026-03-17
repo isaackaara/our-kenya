@@ -38,6 +38,7 @@ import TrailMoodFilter from "./TrailMoodFilter"
 import DailyNote from "./DailyNote"
 import ExploreTree from "./ExploreTree"
 import SiteNav from "./SiteNav"
+import HeroGraph from "./HeroGraph"
 
 export {
   ArticleTitle,
@@ -81,4 +82,5 @@ export {
   DailyNote,
   ExploreTree,
   SiteNav,
+  HeroGraph,
 }
