@@ -14,7 +14,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "extract-graph": "node scripts/extract-graph.js",
-    "build": "npm run extract-graph && npx quartz build -d dist",
+    "build": "npm run extract-graph && npx quartz build -d content && mkdir -p public/data && cp /tmp/hero-graph.json public/data/hero-graph.json 2>/dev/null || true",
     "docs": "npm run extract-graph && npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",

@@ -14,6 +14,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const CONTENT_DIR = path.join(__dirname, '../content');
+// Save to a location outside public/ so it doesn't get wiped by Quartz build
+const TEMP_DIR = '/tmp';
+const TEMP_FILE = path.join(TEMP_DIR, 'hero-graph.json');
 const OUTPUT_DIR = path.join(__dirname, '../public/data');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'hero-graph.json');
 
@@ -247,8 +250,10 @@ try {
     fs.mkdirSync(outputDir, { recursive: true });
   }
   
-  // Write to file
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(graph, null, 2));
+  // Write to file (and backup to /tmp in case public/ gets wiped)
+  const graphJson = JSON.stringify(graph, null, 2);
+  fs.writeFileSync(OUTPUT_FILE, graphJson);
+  fs.writeFileSync(TEMP_FILE, graphJson); // Backup in /tmp
   
   console.log(`Graph extracted successfully!`);
   console.log(`Stats:
@@ -259,6 +264,7 @@ try {
   - Total links: ${graph.stats.totalLinks}
   `);
   console.log(`Output saved to: ${OUTPUT_FILE}`);
+  console.log(`Backup saved to: ${TEMP_FILE}`);
   
 } catch (error) {
   console.error('Error building graph:', error);
