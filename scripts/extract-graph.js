@@ -2,41 +2,54 @@
 
 /**
  * Extract graph data from Quartz vault
- * Reads ~/Projects/kenya-history/content and builds node/edge structure
- * 
- * Usage: node scripts/extract-graph.js > data/hero-graph.json
+ * Parses all .md files in content/ directory, extracts wikilinks, and builds node/edge structure
+ * Output: JSON file with nodes and links for D3 force-simulation
  */
 
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import matter from 'gray-matter';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const CONTENT_DIR = path.join(__dirname, '../content');
+const OUTPUT_FILE = path.join(__dirname, '../quartz/public/data/hero-graph.json');
 
-// Primary categories (7 as per spec)
-const PRIMARY_CATEGORIES = [
-  'Presidencies',
-  'Elections',
-  'Corruption',
-  'Colonial Kenya',
-  'Political Movements',
+// Categories/folders represent primary connections from Kenya
+const PRIMARY_CONNECTIONS = [
   'Kikuyu',
   'Luo',
+  'Luhya',
+  'Kamba',
+  'Kalenjin',
+  'Maasai',
+  'Kisii',
+  'Meru',
+  'Mijikenda',
+  'Somali',
+  'Swahili',
+  'Architecture',
+  'Colonial Kenya',
+  'Elections',
+  'Conservation',
+  'Corruption',
+  'Education',
+  'Film',
+  'Food',
+  'Health',
+  'Diaspora',
+  'Labour',
 ];
 
-// Color mapping
+// Kenya branding colors
 const COLORS = {
-  center: '#006B3F',    // Kenya green
-  primary: '#006B3F',   // Kenyan green
-  secondary: '#BB0000', // Kenyan red
+  center: '#006B3F', // Kenyan green
+  primary: '#BB0000', // Kenyan red
+  secondary: '#84a59d', // Muted teal
 };
 
-/**
- * Extract wikilinks from markdown content
- * Matches [[Link]] and [[Link|Display Text]]
- */
+// Extract wikilinks from markdown content
 function extractWikilinks(content) {
   const wikiLinkRegex = /\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g;
   const links = [];
@@ -44,241 +57,204 @@ function extractWikilinks(content) {
   
   while ((match = wikiLinkRegex.exec(content)) !== null) {
     const linkText = match[1].trim();
-    // Extract filename from link (remove anchor if present)
-    const filename = linkText.split('#')[0].trim();
-    if (filename && filename.length > 0) {
-      links.push(filename);
+    if (linkText && linkText.length > 0) {
+      links.push(linkText);
     }
   }
   
-  return [...new Set(links)]; // deduplicate
+  return links;
 }
 
-/**
- * Find markdown file by slug/title
- */
-function findFileBySlug(slug) {
-  const searchDirs = [CONTENT_DIR];
-  const visited = new Set();
+// Get all markdown files recursively
+function getAllMdFiles(dir) {
+  const files = [];
+  const items = fs.readdirSync(dir);
   
-  function search(dir) {
-    if (visited.has(dir)) return null;
-    visited.add(dir);
+  for (const item of items) {
+    const fullPath = path.join(dir, item);
+    const stat = fs.statSync(fullPath);
     
-    try {
-      const entries = fs.readdirSync(dir, { withFileTypes: true });
-      
-      for (const entry of entries) {
-        const fullPath = path.join(dir, entry.name);
-        
-        if (entry.isDirectory()) {
-          const result = search(fullPath);
-          if (result) return result;
-        } else if (entry.isFile() && entry.name.endsWith('.md')) {
-          const baseName = path.basename(entry.name, '.md');
-          if (baseName.toLowerCase() === slug.toLowerCase() ||
-              baseName.replace(/\s+/g, '-').toLowerCase() === slug.replace(/\s+/g, '-').toLowerCase()) {
-            return fullPath;
-          }
-        }
+    if (stat.isDirectory()) {
+      // Skip hidden directories
+      if (!item.startsWith('.')) {
+        files.push(...getAllMdFiles(fullPath));
       }
-    } catch (err) {
-      // ignore
-    }
-    
-    return null;
-  }
-  
-  return search(CONTENT_DIR);
-}
-
-/**
- * Get category from file path
- */
-function getCategoryFromPath(filePath) {
-  const relative = path.relative(CONTENT_DIR, filePath);
-  const parts = relative.split(path.sep);
-  return parts.length > 1 ? parts[0] : 'Other';
-}
-
-/**
- * Extract all markdown files and their metadata
- */
-function extractAllFiles() {
-  const files = {};
-  
-  function walkDir(dir) {
-    try {
-      const entries = fs.readdirSync(dir, { withFileTypes: true });
-      
-      for (const entry of entries) {
-        const fullPath = path.join(dir, entry.name);
-        
-        if (entry.isDirectory() && !entry.name.startsWith('.')) {
-          walkDir(fullPath);
-        } else if (entry.isFile() && entry.name.endsWith('.md')) {
-          try {
-            const content = fs.readFileSync(fullPath, 'utf-8');
-            const { data: frontmatter } = matter(content);
-            const slug = path.basename(fullPath, '.md');
-            const category = getCategoryFromPath(fullPath);
-            
-            files[slug] = {
-              slug,
-              title: frontmatter.title || slug,
-              path: fullPath,
-              category,
-              links: extractWikilinks(content),
-            };
-          } catch (err) {
-            // skip files that can't be parsed
-          }
-        }
-      }
-    } catch (err) {
-      // ignore permission errors
+    } else if (item.endsWith('.md')) {
+      files.push(fullPath);
     }
   }
   
-  walkDir(CONTENT_DIR);
   return files;
 }
 
-/**
- * Build graph with Kenya as center
- * Primary nodes = 7 major categories
- * Secondary nodes = articles within those categories
- */
-function buildGraph(files) {
-  const nodes = [];
-  const links = [];
-  const nodeMap = new Map();
+// Extract title from frontmatter or filename
+function extractTitle(filePath, content) {
+  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  if (frontmatterMatch) {
+    const titleMatch = frontmatterMatch[1].match(/title:\s*(.+)/);
+    if (titleMatch) {
+      return titleMatch[1].trim();
+    }
+  }
+  // Fallback to filename
+  return path.basename(filePath, '.md');
+}
+
+// Get primary category from file path
+function getPrimaryCategory(filePath) {
+  const relativePath = path.relative(CONTENT_DIR, filePath);
+  const parts = relativePath.split(path.sep);
+  return parts.length > 0 ? parts[0] : null;
+}
+
+// Build node and edge structure with colors and sizes
+function buildGraph() {
+  const allFiles = getAllMdFiles(CONTENT_DIR);
+  
+  // Map to track unique nodes
+  const nodesMap = new Map();
+  const edgesMap = new Map();
   
   // Add Kenya as center node
-  const kenyaNode = {
+  nodesMap.set('Kenya', {
     id: 'Kenya',
     label: 'Kenya',
     type: 'center',
-    category: 'center',
     color: COLORS.center,
     size: 30,
-  };
-  nodes.push(kenyaNode);
-  nodeMap.set('Kenya', kenyaNode);
-  
-  // Add primary category nodes
-  const primaryNodes = {};
-  PRIMARY_CATEGORIES.forEach((cat) => {
-    const node = {
-      id: cat,
-      label: cat,
-      type: 'primary',
-      category: cat,
-      color: COLORS.primary,
-      size: 18,
-    };
-    nodes.push(node);
-    primaryNodes[cat] = node;
-    nodeMap.set(cat, node);
-    
-    // Link primary to Kenya
-    links.push({
-      source: 'Kenya',
-      target: cat,
-      type: 'primary',
-      strength: 0.5,
-    });
+    level: 0,
   });
   
-  // Add secondary nodes (articles in primary categories)
-  const addedSecondary = new Set();
-  let secondaryCount = 0;
-  
-  PRIMARY_CATEGORIES.forEach((primaryCat) => {
-    const articlesInCat = Object.values(files)
-      .filter(f => f.category === primaryCat)
-      .slice(0, 12); // limit to ~12 per category
-    
-    articlesInCat.forEach((file) => {
-      if (!addedSecondary.has(file.slug) && secondaryCount < 100) {
-        const node = {
-          id: file.slug,
-          label: file.title,
-          type: 'secondary',
-          category: primaryCat,
-          color: COLORS.secondary,
-          size: 8,
-        };
-        nodes.push(node);
-        nodeMap.set(file.slug, node);
-        addedSecondary.add(file.slug);
-        secondaryCount++;
-        
-        // Link secondary to primary
-        links.push({
-          source: primaryCat,
-          target: file.slug,
-          type: 'secondary',
-          strength: 0.3,
+  // Process each file
+  for (const filePath of allFiles) {
+    try {
+      const content = fs.readFileSync(filePath, 'utf8');
+      const title = extractTitle(filePath, content);
+      const primaryCategory = getPrimaryCategory(filePath);
+      
+      // Determine if this is a primary connection (top-level folder)
+      const isPrimary = PRIMARY_CONNECTIONS.includes(primaryCategory);
+      
+      // Add node with color and size
+      if (!nodesMap.has(title)) {
+        nodesMap.set(title, {
+          id: title,
+          label: title,
+          type: isPrimary ? 'primary' : 'secondary',
+          color: isPrimary ? COLORS.primary : COLORS.secondary,
+          size: isPrimary ? 18 : 10,
+          category: primaryCategory,
+          level: isPrimary ? 1 : 2,
         });
       }
-    });
-  });
-  
-  // Add cross-category links from wikilinks
-  Object.values(files).forEach((file) => {
-    if (!nodeMap.has(file.slug)) return;
-    
-    file.links.forEach((linkedSlug) => {
-      if (nodeMap.has(linkedSlug) && linkedSlug !== file.slug) {
-        // Check if link already exists
-        const linkExists = links.some(
-          l => (l.source === file.slug && l.target === linkedSlug) ||
-               (l.source === linkedSlug && l.target === file.slug)
-        );
+      
+      // Extract and process wikilinks
+      const links = extractWikilinks(content);
+      
+      for (const link of links) {
+        // Avoid self-links
+        if (link === title) continue;
         
-        if (!linkExists) {
-          links.push({
-            source: file.slug,
-            target: linkedSlug,
-            type: 'cross',
-            strength: 0.1,
+        // Determine edge type
+        const sourceIsPrimary = PRIMARY_CONNECTIONS.includes(title);
+        const targetIsPrimary = PRIMARY_CONNECTIONS.includes(link);
+        const edgeType = sourceIsPrimary || targetIsPrimary ? 'primary' : 'secondary';
+        
+        // Create edge key
+        const edgeKey = [title, link].sort().join('|');
+        if (!edgesMap.has(edgeKey)) {
+          edgesMap.set(edgeKey, {
+            source: title,
+            target: link,
+            type: edgeType,
+            strength: edgeType === 'primary' ? 0.6 : 0.3,
+          });
+        }
+        
+        // Ensure target node exists
+        if (!nodesMap.has(link)) {
+          const linkIsPrimary = PRIMARY_CONNECTIONS.includes(link);
+          nodesMap.set(link, {
+            id: link,
+            label: link,
+            type: linkIsPrimary ? 'primary' : 'secondary',
+            color: linkIsPrimary ? COLORS.primary : COLORS.secondary,
+            size: linkIsPrimary ? 18 : 10,
+            category: primaryCategory,
+            level: linkIsPrimary ? 1 : 2,
           });
         }
       }
-    });
-  });
+    } catch (error) {
+      console.error(`Error processing ${filePath}: ${error.message}`);
+    }
+  }
   
-  return { nodes, links };
-}
-
-/**
- * Main
- */
-function main() {
-  console.error('Extracting graph data...');
+  // Add Kenya connections to primary categories
+  for (const category of PRIMARY_CONNECTIONS) {
+    if (nodesMap.has(category)) {
+      const edgeKey = ['Kenya', category].sort().join('|');
+      if (!edgesMap.has(edgeKey)) {
+        edgesMap.set(edgeKey, {
+          source: 'Kenya',
+          target: category,
+          type: 'primary',
+          strength: 0.8,
+        });
+      }
+    }
+  }
   
-  const files = extractAllFiles();
-  console.error(`Found ${Object.keys(files).length} files`);
+  // Convert maps to arrays
+  const nodes = Array.from(nodesMap.values());
+  const links = Array.from(edgesMap.values());
   
-  const graph = buildGraph(files);
-  console.error(`Generated ${graph.nodes.length} nodes and ${graph.links.length} links`);
-  
-  // Output JSON to stdout
-  const output = {
-    version: '1.0',
-    generated: new Date().toISOString(),
-    stats: {
-      totalNodes: graph.nodes.length,
-      totalLinks: graph.links.length,
-      centerNode: 'Kenya',
-      primaryCategories: PRIMARY_CATEGORIES.length,
-    },
-    nodes: graph.nodes,
-    links: graph.links,
+  // Group nodes by level for stats
+  const nodesByLevel = {
+    center: nodes.filter(n => n.level === 0),
+    primary: nodes.filter(n => n.level === 1),
+    secondary: nodes.filter(n => n.level === 2),
   };
   
-  console.log(JSON.stringify(output, null, 2));
+  return {
+    nodes,
+    links,
+    nodesByLevel,
+    stats: {
+      totalNodes: nodes.length,
+      centerNodes: nodesByLevel.center.length,
+      primaryNodes: nodesByLevel.primary.length,
+      secondaryNodes: nodesByLevel.secondary.length,
+      totalLinks: links.length,
+    },
+  };
 }
 
-main();
+// Main execution
+try {
+  console.log(`Extracting graph data from ${CONTENT_DIR}...`);
+  const graph = buildGraph();
+  
+  // Ensure output directory exists
+  const outputDir = path.dirname(OUTPUT_FILE);
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+  
+  // Write to file
+  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(graph, null, 2));
+  
+  console.log(`Graph extracted successfully!`);
+  console.log(`Stats:
+  - Total nodes: ${graph.stats.totalNodes}
+  - Center nodes: ${graph.stats.centerNodes}
+  - Primary nodes: ${graph.stats.primaryNodes}
+  - Secondary nodes: ${graph.stats.secondaryNodes}
+  - Total links: ${graph.stats.totalLinks}
+  `);
+  console.log(`Output saved to: ${OUTPUT_FILE}`);
+  
+} catch (error) {
+  console.error('Error building graph:', error);
+  process.exit(1);
+}
