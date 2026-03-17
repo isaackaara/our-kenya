@@ -256,9 +256,11 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
       .attr('dy', '0.3em')
       .attr('font-size', d => d.type === 'center' ? '11px' : d.type === 'primary' ? '8px' : '6px')
       .attr('font-weight', d => d.type === 'center' ? 'bold' : 'normal')
-      .attr('fill', d => d.type === 'center' ? '#fff' : '#1a1a1a')
+      .attr('fill', '#fff')
       .attr('pointer-events', 'none')
-      .style('text-shadow', d => d.type === 'center' ? '0 0 2px rgba(0,0,0,0.8)' : '0 0 1px rgba(255,255,255,0.8)');
+      .attr('stroke', '#000')
+      .attr('stroke-width', '0.5px')
+      .style('paint-order', 'stroke');
     
     simulation.on('tick', () => {
       linkSel
