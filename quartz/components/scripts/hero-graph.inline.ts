@@ -31,7 +31,8 @@ interface GraphData {
   links: GraphLink[]
 }
 
-async function initializeHeroGraph(): Promise<void> {
+function initializeHeroGraph(): void {
+  ;(async () => {
   const container = document.getElementById("hero-graph-container")
   if (!container) return
 
@@ -128,12 +129,12 @@ async function initializeHeroGraph(): Promise<void> {
       event.stopPropagation()
       // Navigate to node page (optional)
       if (d.type !== "center") {
-        const slug = d.id.toLowerCase().replace(/\s+/g, "-")
+        // const slug = d.id.toLowerCase().replace(/\s+/g, "-")
         // Uncomment to enable navigation:
         // window.location.href = `/${slug}`
       }
     })
-    .on("mouseenter", (event, d: any) => {
+    .on("mouseenter", (_event, d: any) => {
       // Highlight connected nodes
       linkElements.style("stroke-opacity", (link: any) => {
         return link.source.id === d.id || link.target.id === d.id ? 0.8 : 0.1
@@ -244,6 +245,7 @@ async function initializeHeroGraph(): Promise<void> {
   }
 
   window.addEventListener("resize", handleResize)
+  })()
 }
 
 export default initializeHeroGraph
