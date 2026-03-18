@@ -3651,10 +3651,6 @@
     "e": 3,
     "w": 2
   },
-  "Counties/Garissa/Dadaab\\-Refugee\\-Complex": {
-    "e": 3,
-    "w": 2
-  },
   "Counties/Garissa/Garissa-Agriculture": {
     "e": 2,
     "w": 2
@@ -3758,10 +3754,6 @@
   "Counties/Garissa/Garissa-Somalia-Border": {
     "e": 1,
     "w": 1
-  },
-  "Counties/Garissa/Garissa\\-University\\-Attack": {
-    "e": 2,
-    "w": 2
   },
   "Counties/Garissa/Shifta-War": {
     "e": 2,
@@ -8391,10 +8383,6 @@
     "e": 2,
     "w": 1
   },
-  "Counties/West\\-Pokot/West\\-Pokot\\-County": {
-    "e": 1,
-    "w": 1
-  },
   "Cross-Ethnic/2002-Rainbow-Coalition": {
     "e": 5,
     "w": 6
@@ -12215,191 +12203,191 @@
     "e": 4,
     "w": 6
   },
-  "Forest-Peoples/African\\-Commission\\-on\\-Human\\-and\\-Peoples\\-Rights": {
+  "Forest-Peoples/African-Commission-on-Human-and-Peoples-Rights": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Assimilation\\-Pressures": {
+  "Forest-Peoples/Assimilation-Pressures": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Boni\\-Aweer\\-Pastoralists": {
+  "Forest-Peoples/Boni-Aweer-Pastoralists": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Cherangany\\-Hills": {
+  "Forest-Peoples/Cherangany-Hills": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Colonial\\-Kenya": {
+  "Forest-Peoples/Colonial-Kenya": {
     "e": 7,
     "w": 6
   },
-  "Forest-Peoples/Conservation\\-Kenya": {
+  "Forest-Peoples/Conservation-Kenya": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Cultural\\-Survival\\-Strategies": {
+  "Forest-Peoples/Cultural-Survival-Strategies": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Dorobo\\-Forest\\-Dwellers": {
+  "Forest-Peoples/Dorobo-Forest-Dwellers": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Economic\\-Activities": {
+  "Forest-Peoples/Economic-Activities": {
     "e": 7,
     "w": 8
   },
-  "Forest-Peoples/El\\-Molo\\-Fishing\\-Community": {
+  "Forest-Peoples/El-Molo-Fishing-Community": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Embobut\\-Forest": {
+  "Forest-Peoples/Embobut-Forest": {
     "e": 6,
     "w": 7
   },
-  "Forest-Peoples/Eviction\\-Forest\\-Lands": {
+  "Forest-Peoples/Eviction-Forest-Lands": {
     "e": 10,
     "w": 8
   },
-  "Forest-Peoples/Fishing\\-Rights": {
+  "Forest-Peoples/Fishing-Rights": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Forest\\-Management\\-Knowledge": {
+  "Forest-Peoples/Forest-Management-Knowledge": {
     "e": 6,
     "w": 7
   },
-  "Forest-Peoples/Forest\\-Products\\-Trade": {
+  "Forest-Peoples/Forest-Products-Trade": {
     "e": 9,
     "w": 7
   },
-  "Forest-Peoples/Forest\\-Rights\\-Land": {
+  "Forest-Peoples/Forest-Rights-Land": {
     "e": 8,
     "w": 8
   },
-  "Forest-Peoples/Grazing\\-Rights": {
+  "Forest-Peoples/Grazing-Rights": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Honey\\-Harvesting": {
+  "Forest-Peoples/Honey-Harvesting": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Hunting\\-Rights": {
+  "Forest-Peoples/Hunting-Rights": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Hunting\\-Traditions": {
+  "Forest-Peoples/Hunting-Traditions": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Indigenous\\-Identity\\-Kenya": {
+  "Forest-Peoples/Indigenous-Identity-Kenya": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Inter-Community\\-Disputes": {
+  "Forest-Peoples/Inter-Community-Disputes": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Kenya\\-Forest\\-Service\\-Policy": {
+  "Forest-Peoples/Kenya-Forest-Service-Policy": {
     "e": 7,
     "w": 6
   },
-  "Forest-Peoples/Land\\-Boundary\\-Conflicts": {
+  "Forest-Peoples/Land-Boundary-Conflicts": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Land\\-Dispossession": {
+  "Forest-Peoples/Land-Dispossession": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Language\\-Preservation": {
+  "Forest-Peoples/Language-Preservation": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Mau\\-Forest": {
+  "Forest-Peoples/Mau-Forest": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Medicinal\\-Plants\\-Knowledge": {
+  "Forest-Peoples/Medicinal-Plants-Knowledge": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Modernization\\-Pressures": {
+  "Forest-Peoples/Modernization-Pressures": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Mukogodo\\-Forest": {
+  "Forest-Peoples/Mukogodo-Forest": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Ogiek\\-Community\\-History": {
+  "Forest-Peoples/Ogiek-Community-History": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Oral\\-Traditions\\-Preservation": {
+  "Forest-Peoples/Oral-Traditions-Preservation": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Plant\\-Collection": {
+  "Forest-Peoples/Plant-Collection": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Poverty\\-Kenya": {
+  "Forest-Peoples/Poverty-Kenya": {
     "e": 9,
     "w": 8
   },
-  "Forest-Peoples/Religion\\-Kenya": {
+  "Forest-Peoples/Religion-Kenya": {
     "e": 7,
     "w": 8
   },
-  "Forest-Peoples/Resource\\-Competition": {
+  "Forest-Peoples/Resource-Competition": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Root\\-Extraction": {
+  "Forest-Peoples/Root-Extraction": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Sacred\\-Sites\\-Forests": {
+  "Forest-Peoples/Sacred-Sites-Forests": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Sengwer\\-Indigenous\\-People": {
+  "Forest-Peoples/Sengwer-Indigenous-People": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Survival\\-International": {
+  "Forest-Peoples/Survival-International": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Traditional\\-Knowledge": {
+  "Forest-Peoples/Traditional-Knowledge": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Tree\\-Products": {
+  "Forest-Peoples/Tree-Products": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Waata\\-Pastoralist\\-Hunters": {
+  "Forest-Peoples/Waata-Pastoralist-Hunters": {
     "e": 8,
     "w": 7
   },
-  "Forest-Peoples/Water\\-Rights": {
+  "Forest-Peoples/Water-Rights": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Wildlife\\-Relationships": {
+  "Forest-Peoples/Wildlife-Relationships": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Women\\-Kenya": {
+  "Forest-Peoples/Women-Kenya": {
     "e": 7,
     "w": 7
   },
-  "Forest-Peoples/Yaaku\\-Indigenous\\-Group": {
+  "Forest-Peoples/Yaaku-Indigenous-Group": {
     "e": 8,
     "w": 7
   },
@@ -12803,267 +12791,267 @@
     "e": 5,
     "w": 6
   },
-  "Indian-Ocean/Agricultural\\-Techniques": {
+  "Indian-Ocean/Agricultural-Techniques": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Animal\\-Trade": {
+  "Indian-Ocean/Animal-Trade": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Arab\\-Traders\\-Region": {
+  "Indian-Ocean/Arab-Traders-Region": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Architectural\\-Influence": {
+  "Indian-Ocean/Architectural-Influence": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Cartography\\-Development": {
+  "Indian-Ocean/Cartography-Development": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Clove\\-Production\\-Trade": {
+  "Indian-Ocean/Clove-Production-Trade": {
     "e": 4,
     "w": 9
   },
-  "Indian-Ocean/Coastal\\-Fortifications": {
+  "Indian-Ocean/Coastal-Fortifications": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Commercial\\-Courts": {
+  "Indian-Ocean/Commercial-Courts": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Compass\\-Use": {
+  "Indian-Ocean/Compass-Use": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Conflict\\-Cooperation": {
+  "Indian-Ocean/Conflict-Cooperation": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Contract\\-Systems": {
+  "Indian-Ocean/Contract-Systems": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Copper\\-Metal\\-Trade": {
+  "Indian-Ocean/Copper-Metal-Trade": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Coral\\-Shell\\-Trade": {
+  "Indian-Ocean/Coral-Shell-Trade": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Craftsperson\\-Networks": {
+  "Indian-Ocean/Craftsperson-Networks": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Credit\\-Systems": {
+  "Indian-Ocean/Credit-Systems": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Culinary\\-Influence": {
+  "Indian-Ocean/Culinary-Influence": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Cultural\\-Exchange": {
-    "e": 4,
-    "w": 8
-  },
-  "Indian-Ocean/Currency\\-Exchange": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Customary\\-Law": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Decorative\\-Arts": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Deep\\-Water\\-Routes": {
-    "e": 5,
-    "w": 7
-  },
-  "Indian-Ocean/Dhow\\-Construction\\-Techniques": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Dhow\\-Culture\\-Navigation": {
-    "e": 5,
-    "w": 7
-  },
-  "Indian-Ocean/Diaspora\\-Communities": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Dispute\\-Resolution": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Family\\-Networks": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Financial\\-Systems": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Fish\\-Seafood\\-Trade": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Fishing\\-Methods": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Food\\-Markets": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Fresh\\-Water\\-Supply": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Gemstone\\-Trade": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Gold\\-Trade\\-Corridors": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Grain\\-Food\\-Trade": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Guild\\-Systems": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Harbor\\-Facilities": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Historical\\-Records": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Incense\\-Trade": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Indian\\-Merchants\\-Networks": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Inter-Community\\-Relations": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Islamic\\-Law": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Ivory\\-Trade\\-Networks": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Labor\\-Markets": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Language\\-Spread": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Legal\\-Systems": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Livestock\\-Movement": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Map\\-Making": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Market\\-Centers": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Marriage\\-Alliances": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Medical\\-Knowledge\\-Sharing": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Merchant\\-Families": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Merchant\\-Vessel\\-Armament": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Military\\-Equipment": {
-    "e": 4,
-    "w": 7
-  },
-  "Indian-Ocean/Monsoon\\-Calendar": {
+  "Indian-Ocean/Cultural-Exchange": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Monsoon\\-Winds": {
+  "Indian-Ocean/Currency-Exchange": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Customary-Law": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Decorative-Arts": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Deep-Water-Routes": {
+    "e": 5,
+    "w": 7
+  },
+  "Indian-Ocean/Dhow-Construction-Techniques": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Dhow-Culture-Navigation": {
+    "e": 5,
+    "w": 7
+  },
+  "Indian-Ocean/Diaspora-Communities": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Dispute-Resolution": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Family-Networks": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Financial-Systems": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Fish-Seafood-Trade": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Fishing-Methods": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Food-Markets": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Fresh-Water-Supply": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Gemstone-Trade": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Gold-Trade-Corridors": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Grain-Food-Trade": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Guild-Systems": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Harbor-Facilities": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Historical-Records": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Incense-Trade": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Indian-Merchants-Networks": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Inter-Community-Relations": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Islamic-Law": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Ivory-Trade-Networks": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Labor-Markets": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Language-Spread": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Legal-Systems": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Livestock-Movement": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Map-Making": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Market-Centers": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Marriage-Alliances": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Medical-Knowledge-Sharing": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Merchant-Families": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Merchant-Vessel-Armament": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Military-Equipment": {
+    "e": 4,
+    "w": 7
+  },
+  "Indian-Ocean/Monsoon-Calendar": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Musical\\-Influence": {
+  "Indian-Ocean/Monsoon-Winds": {
+    "e": 4,
+    "w": 8
+  },
+  "Indian-Ocean/Musical-Influence": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Naval\\-Defense": {
+  "Indian-Ocean/Naval-Defense": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Navigation\\-Methods": {
+  "Indian-Ocean/Navigation-Methods": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Navigation\\-Tools": {
+  "Indian-Ocean/Navigation-Tools": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Oral\\-Traditions": {
+  "Indian-Ocean/Oral-Traditions": {
     "e": 5,
     "w": 7
   },
-  "Indian-Ocean/Pearl\\-Trade": {
+  "Indian-Ocean/Pearl-Trade": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Perfume\\-Aromatics": {
+  "Indian-Ocean/Perfume-Aromatics": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Pilot\\-Knowledge": {
+  "Indian-Ocean/Pilot-Knowledge": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Piracy\\-Trade\\-Safety": {
+  "Indian-Ocean/Piracy-Trade-Safety": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Pirate\\-Attacks": {
+  "Indian-Ocean/Pirate-Attacks": {
     "e": 5,
     "w": 7
   },
-  "Indian-Ocean/Port\\-Infrastructure": {
+  "Indian-Ocean/Port-Infrastructure": {
     "e": 3,
     "w": 7
   },
@@ -13071,135 +13059,135 @@
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Price\\-Regulation": {
+  "Indian-Ocean/Price-Regulation": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Provisioning\\-Services": {
+  "Indian-Ocean/Provisioning-Services": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Quality\\-Standards": {
+  "Indian-Ocean/Quality-Standards": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Reef\\-Navigation": {
+  "Indian-Ocean/Reef-Navigation": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Religious\\-Diffusion": {
+  "Indian-Ocean/Religious-Diffusion": {
     "e": 3,
     "w": 7
   },
-  "Indian-Ocean/Sailing\\-Technology": {
+  "Indian-Ocean/Sailing-Technology": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Scientific\\-Knowledge": {
+  "Indian-Ocean/Scientific-Knowledge": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Seaports\\-Indian\\-Ocean": {
+  "Indian-Ocean/Seaports-Indian-Ocean": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Seasonal\\-Trading\\-Patterns": {
+  "Indian-Ocean/Seasonal-Trading-Patterns": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Shallow\\-Water\\-Navigation": {
+  "Indian-Ocean/Shallow-Water-Navigation": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Ship\\-Repair\\-Services": {
+  "Indian-Ocean/Ship-Repair-Services": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Ship\\-Types\\-Designs": {
+  "Indian-Ocean/Ship-Types-Designs": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Silk\\-Road\\-Connections": {
+  "Indian-Ocean/Silk-Road-Connections": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Slave\\-Markets": {
+  "Indian-Ocean/Slave-Markets": {
     "e": 5,
     "w": 8
   },
-  "Indian-Ocean/Spice\\-Trade\\-Routes": {
+  "Indian-Ocean/Spice-Trade-Routes": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Star\\-Navigation": {
+  "Indian-Ocean/Star-Navigation": {
     "e": 5,
     "w": 8
   },
-  "Indian-Ocean/Storm\\-Seasons": {
+  "Indian-Ocean/Storm-Seasons": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Swahili\\-Synthesis\\-Culture": {
+  "Indian-Ocean/Swahili-Synthesis-Culture": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Technology\\-Trade": {
+  "Indian-Ocean/Technology-Trade": {
     "e": 5,
     "w": 8
   },
-  "Indian-Ocean/Technology\\-Transfer": {
+  "Indian-Ocean/Technology-Transfer": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Textile\\-Patterns": {
+  "Indian-Ocean/Textile-Patterns": {
     "e": 5,
     "w": 7
   },
-  "Indian-Ocean/Textile\\-Trade\\-Patterns": {
+  "Indian-Ocean/Textile-Trade-Patterns": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Trade\\-Agreements": {
+  "Indian-Ocean/Trade-Agreements": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Trade\\-Associations": {
+  "Indian-Ocean/Trade-Associations": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Trade\\-Routes\\-Networks": {
+  "Indian-Ocean/Trade-Routes-Networks": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Trade\\-Seasons": {
+  "Indian-Ocean/Trade-Seasons": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Trading\\-Colonies": {
+  "Indian-Ocean/Trading-Colonies": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Trading\\-Partnerships": {
+  "Indian-Ocean/Trading-Partnerships": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Travel\\-Accounts": {
+  "Indian-Ocean/Travel-Accounts": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Treaty\\-Making": {
+  "Indian-Ocean/Treaty-Making": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Warehouse\\-Storage": {
+  "Indian-Ocean/Warehouse-Storage": {
     "e": 4,
     "w": 7
   },
-  "Indian-Ocean/Wine\\-Trade\\-Routes": {
+  "Indian-Ocean/Wine-Trade-Routes": {
     "e": 4,
     "w": 8
   },
-  "Indian-Ocean/Zanzibar\\-Connections": {
+  "Indian-Ocean/Zanzibar-Connections": {
     "e": 4,
     "w": 8
   },
