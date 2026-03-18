@@ -10,7 +10,7 @@ The Aweer population, estimated at fewer than 20,000 individuals, faces economic
 
 ## See Also
 
-[[Hunting\ Traditions]] | [[Forest\ Rights\ Land]] | [[Land\ Dispossession]] | [[Wildlife\ Relationships]] | El Molo Fishing Community | [[Ogiek\ Community\ History]] | [[Cassava in Coastal Kenya]]
+[[Hunting Traditions]] | [[Forest Rights Land]] | [[Land Dispossession]] | [[Wildlife Relationships]] | El Molo Fishing Community | [[Ogiek Community History]] | [[Cassava in Coastal Kenya]]
 
 ## Sources
 

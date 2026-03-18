@@ -10,7 +10,7 @@ Climate variability and resource degradation create modernization pressures by u
 
 ## See Also
 
-[[Cultural\ Survival\ Strategies]] | [[Language Preservation]] | [[Educational Integration]] | [[Economic\ Activities]] | [[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]]
+[[Cultural Survival Strategies]] | [[Language Preservation]] | [[Educational Integration]] | [[Economic Activities]] | [[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]]
 
 ## Sources
 

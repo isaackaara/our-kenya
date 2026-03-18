@@ -10,7 +10,7 @@ Contemporary advocacy for indigenous water rights emphasizes recognition of cust
 
 ## See Also
 
-[[Forest\ Rights\ Land]] | [[Waata\ Pastoralist\ Hunters]] | [[Boni\ Aweer\ Pastoralists]] | [[Resource\ Competition]] | [[Pastoral Societies Kenya]] | [[Environmental Art]] | [[North Eastern Province]]
+[[Forest Rights Land]] | [[Waata Pastoralist Hunters]] | [[Boni Aweer Pastoralists]] | [[Resource Competition]] | [[Pastoral Societies Kenya]] | [[Environmental Art]] | [[North Eastern Province]]
 
 ## Sources
 

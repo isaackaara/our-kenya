@@ -10,7 +10,7 @@ Contemporary efforts to resolve boundary conflicts require recognition of custom
 
 ## See Also
 
-[[Land\ Dispossession]] | [[Forest\ Rights\ Land]] | [[Resource\ Competition]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Colonial Kenya]] | [[Pastoral Societies Kenya]]
+[[Land Dispossession]] | [[Forest Rights Land]] | [[Resource Competition]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Colonial Kenya]] | [[Pastoral Societies Kenya]]
 
 ## Sources
 

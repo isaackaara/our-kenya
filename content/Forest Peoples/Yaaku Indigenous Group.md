@@ -10,7 +10,7 @@ The Yaaku exemplify the broader pattern of marginalization facing Kenya's hunter
 
 ## See Also
 
-[[Mukogodo\ Forest]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Forest\ Rights\ Land]] | [[Language Preservation]] | Hunter-Gatherer Communities Kenya | [[Conservation]]
+[[Mukogodo Forest]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Forest Rights Land]] | [[Language Preservation]] | Hunter-Gatherer Communities Kenya | [[Conservation]]
 
 ## Sources
 

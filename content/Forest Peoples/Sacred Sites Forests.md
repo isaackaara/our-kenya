@@ -10,7 +10,7 @@ Contemporary challenges to sacred sites include continued threats from developme
 
 ## See Also
 
-[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Cultural\ Survival\ Strategies]] | [[Traditional\ Knowledge]] | [[Forest Management]] | [[Religion Kenyan Literature]]
+[[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Cultural Survival Strategies]] | [[Traditional Knowledge]] | [[Forest Management]] | [[Religion Kenyan Literature]]
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The [[Central Bank of Kenya]] (CBK), established in 1966, is [[Kenya]]'s monetary authority and the guardian of [[The Kenya Shilling|currency]] stability. It is responsible for Monetary Policy, [[Financial\ Systems]] stability, currency management, and banking regulation. It is responsible for monetary policy, financial system stability, currency management, and banking regulation. The CBK is one of Africa's more professional central banks, yet it has faced challenges in achieving its mandate during periods of economic crisis, political pressure, and global shocks.
+The [[Central Bank of Kenya]] (CBK), established in 1966, is [[Kenya]]'s monetary authority and the guardian of [[The Kenya Shilling|currency]] stability. It is responsible for Monetary Policy, [[Financial Systems]] stability, currency management, and banking regulation. It is responsible for monetary policy, financial system stability, currency management, and banking regulation. The CBK is one of Africa's more professional central banks, yet it has faced challenges in achieving its mandate during periods of economic crisis, political pressure, and global shocks.
 
 ## Establishment (1966)
 

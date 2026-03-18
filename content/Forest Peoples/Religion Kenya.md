@@ -10,7 +10,7 @@ The relationship between religious practice and indigenous rights has become sig
 
 ## See Also
 
-[[Sacred\ Sites\ Forests]] | [[Cultural\ Survival\ Strategies]] | [[Traditional\ Knowledge]] | [[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Indigenous\ Identity\ Kenya]]
+[[Sacred Sites Forests]] | [[Cultural Survival Strategies]] | [[Traditional Knowledge]] | [[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Indigenous Identity Kenya]]
 
 ## Sources
 

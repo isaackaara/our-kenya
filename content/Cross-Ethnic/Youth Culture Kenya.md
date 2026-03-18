@@ -8,7 +8,7 @@ Sports participation and spectatorship among youth transcend ethnicity. Youth pl
 
 Digital communication among youth operates across ethnic lines. Social media platforms including Instagram, TikTok, and X (formerly Twitter) bring young Kenyans of all ethnic backgrounds into communication. Online gaming and digital communities similarly include youth from diverse ethnic backgrounds. The anonymity and decentered character of digital communication sometimes allow youth to interact without explicit attention to ethnic identity.
 
-However, youth culture is not entirely post-ethnic. Some cultural forms have ethnic associations. Urban slang and references sometimes carry ethnic markers. Some music artists have ethnic constituencies. Some youth communities may concentrate ethnically due to geographic clustering or social networks. Nevertheless, the overall trajectory of youth culture is toward multi-ethnic sharing and [[Cultural\ Exchange]].
+However, youth culture is not entirely post-ethnic. Some cultural forms have ethnic associations. Urban slang and references sometimes carry ethnic markers. Some music artists have ethnic constituencies. Some youth communities may concentrate ethnically due to geographic clustering or social networks. Nevertheless, the overall trajectory of youth culture is toward multi-ethnic sharing and [[Cultural Exchange]].
 
 ## See Also
 

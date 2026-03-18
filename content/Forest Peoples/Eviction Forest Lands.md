@@ -10,7 +10,7 @@ The justification for forest evictions consistently invokes conservation, enviro
 
 ## See Also
 
-[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Mau Forest]] | [[Land\ Dispossession]] | [[Kenya]] | [[Eviction\ Forest\ Lands]] | [[Conservation]]
+[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Mau Forest]] | [[Land Dispossession]] | [[Kenya]] | [[Eviction Forest Lands]] | [[Conservation]]
 
 ## Sources
 

@@ -10,7 +10,7 @@ Contemporary advocacy calls for fundamental transformation of KFS policies and i
 
 ## See Also
 
-[[Forest\ Rights\ Land]] | [[Sengwer\ Indigenous\ People]] | [[Ogiek\ Community\ History]] | [[Eviction\ Forest\ Lands]] | [[Conservation]] | [[Mau Forest]] | [[Protected Areas Kenya]]
+[[Forest Rights Land]] | [[Sengwer Indigenous People]] | [[Ogiek Community History]] | [[Eviction Forest Lands]] | [[Conservation]] | [[Mau Forest]] | [[Protected Areas Kenya]]
 
 ## Sources
 

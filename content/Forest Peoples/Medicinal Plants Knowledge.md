@@ -10,7 +10,7 @@ Contemporary advocacy for indigenous medicinal plant rights emphasizes both the 
 
 ## See Also
 
-[[Forest Management]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Traditional\ Knowledge]] | [[Forest\ Rights\ Land]] | [[Conservation]] | Indigenous Knowledge Systems
+[[Forest Management]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Traditional Knowledge]] | [[Forest Rights Land]] | [[Conservation]] | Indigenous Knowledge Systems
 
 ## Sources
 

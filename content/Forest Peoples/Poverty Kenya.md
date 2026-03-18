@@ -10,7 +10,7 @@ Health consequences of poverty include malnutrition, communicable diseases, and 
 
 ## See Also
 
-[[Land\ Dispossession]] | [[Forest\ Rights\ Land]] | [[Economic\ Activities]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Conservation]] | [[Educational Integration]]
+[[Land Dispossession]] | [[Forest Rights Land]] | [[Economic Activities]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Conservation]] | [[Educational Integration]]
 
 ## Sources
 

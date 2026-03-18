@@ -10,7 +10,7 @@ Recognition of indigenous grazing rights represents an important dimension of in
 
 ## See Also
 
-[[Pastoral Societies Kenya]] | [[Resource\ Competition]] | [[Waata\ Pastoralist\ Hunters]] | [[Protected Areas Kenya]] | [[North Eastern Province]] | [[Environmental Art]] | [[Conservation]]
+[[Pastoral Societies Kenya]] | [[Resource Competition]] | [[Waata Pastoralist Hunters]] | [[Protected Areas Kenya]] | [[North Eastern Province]] | [[Environmental Art]] | [[Conservation]]
 
 ## Sources
 

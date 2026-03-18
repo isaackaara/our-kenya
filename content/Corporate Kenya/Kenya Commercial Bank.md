@@ -1,4 +1,4 @@
-Kenya Commercial Bank (KCB) is Kenya's oldest modern bank and, by asset base, the country's largest. Its origins trace to the colonial era, but it was reconstituted as a [[Kenya]] at [[independence]]. KCB has been a flagship institution of the Kenyan [[Financial\ Systems]], though its dominance has been challenged in recent decades by more dynamic competitors.
+Kenya Commercial Bank (KCB) is Kenya's oldest modern bank and, by asset base, the country's largest. Its origins trace to the colonial era, but it was reconstituted as a [[Kenya]] at [[independence]]. KCB has been a flagship institution of the Kenyan [[Financial Systems]], though its dominance has been challenged in recent decades by more dynamic competitors.
 
 ## Colonial Origins
 

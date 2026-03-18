@@ -10,7 +10,7 @@ Contemporary indigenous identity among forest peoples reflects adaptation to mod
 
 ## See Also
 
-[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Cultural\ Survival\ Strategies]] | [[Forest\ Rights\ Land]] | [[Language Preservation]] | [[Traditional\ Knowledge]] | [[Survival\ International]]
+[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Cultural Survival Strategies]] | [[Forest Rights Land]] | [[Language Preservation]] | [[Traditional Knowledge]] | [[Survival International]]
 
 ## Sources
 

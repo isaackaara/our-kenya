@@ -12,7 +12,7 @@ Contemporary resistance to assimilation involves deliberate assertion of indigen
 
 ## See Also
 
-[[Cultural\ Survival\ Strategies]] | [[Language Preservation]] | [[Educational Integration]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Indigenous\ Identity\ Kenya]] | [[Religion Kenyan Literature]]
+[[Cultural Survival Strategies]] | [[Language Preservation]] | [[Educational Integration]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Indigenous Identity Kenya]] | [[Religion Kenyan Literature]]
 
 ## Sources
 

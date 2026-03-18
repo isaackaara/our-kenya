@@ -10,7 +10,7 @@ The appropriation and devaluation of indigenous traditional knowledge represents
 
 ## See Also
 
-[[Medicinal\ Plants\ Knowledge]] | [[Forest Management]] | [[Hunting\ Traditions]] | [[Oral\ Traditions\ Preservation]] | Indigenous Knowledge Systems | [[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]]
+[[Medicinal Plants Knowledge]] | [[Forest Management]] | [[Hunting Traditions]] | [[Oral Traditions Preservation]] | Indigenous Knowledge Systems | [[Forest Rights Land]] | [[Ogiek Community History]]
 
 ## Sources
 

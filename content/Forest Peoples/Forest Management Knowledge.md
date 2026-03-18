@@ -10,7 +10,7 @@ The suppression of indigenous forest management systems and the imposition of st
 
 ## See Also
 
-[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Conservation]] | [[Protected Areas Kenya]] | [[Traditional\ Knowledge]] | [[Mau Forest]]
+[[Forest Rights Land]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Conservation]] | [[Protected Areas Kenya]] | [[Traditional Knowledge]] | [[Mau Forest]]
 
 ## Sources
 

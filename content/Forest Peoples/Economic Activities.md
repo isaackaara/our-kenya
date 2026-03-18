@@ -10,7 +10,7 @@ Contemporary economic advocacy emphasizes the restoration of viable indigenous f
 
 ## See Also
 
-[[Forest\ Products\ Trade]] | [[Hunting\ Traditions]] | [[Honey\ Harvesting]] | [[Plant\ Collection]] | [[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Forest\ Rights\ Land]]
+[[Forest Products Trade]] | [[Hunting Traditions]] | [[Honey Harvesting]] | [[Plant Collection]] | [[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Forest Rights Land]]
 
 ## Sources
 

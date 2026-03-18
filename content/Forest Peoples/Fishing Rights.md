@@ -10,7 +10,7 @@ Recognition of indigenous fishing rights represents an important dimension of in
 
 ## See Also
 
-El Molo Fishing Community | [[Boni\ Aweer\ Pastoralists]] | [[Forest\ Rights\ Land]] | [[Resource\ Competition]] | [[Hunting\ Rights]] | [[Wildlife\ Relationships]] | [[Cassava in Coastal Kenya]]
+El Molo Fishing Community | [[Boni Aweer Pastoralists]] | [[Forest Rights Land]] | [[Resource Competition]] | [[Hunting Rights]] | [[Wildlife Relationships]] | [[Cassava in Coastal Kenya]]
 
 ## Sources
 

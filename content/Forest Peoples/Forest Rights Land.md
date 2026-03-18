@@ -10,7 +10,7 @@ The integration of conservation and indigenous forest rights represents a critic
 
 ## See Also
 
-[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Eviction\ Forest\ Lands]] | [[Land\ Dispossession]] | African Commission on Human and Peoples' Rights | [[Kenya]] | [[Conservation]]
+[[Ogiek Community History]] | [[Sengwer Indigenous People]] | [[Eviction Forest Lands]] | [[Land Dispossession]] | African Commission on Human and Peoples' Rights | [[Kenya]] | [[Conservation]]
 
 ## Sources
 
