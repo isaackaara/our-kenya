@@ -14,7 +14,7 @@ Churches provide Sunday worship, spiritual instruction, and community services. 
 - [[Samburu Laibon]]
 - [[Samburu Sacred Sites]]
 - [[Samburu Social Structure]]
-- [[Christianity in East Africa]]
+- Christianity in East Africa
 
 ## Sources
 

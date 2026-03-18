@@ -1,4 +1,4 @@
-Mwai Kibaki's second presidential campaign, contested under the banner of the [[Kibaki Democratic Party Founding 1991]] in 1997, positioned him as a centrist alternative to both [[Moi]]'s authoritarian rule and the more radical opposition voices represented by figures like [[Raila Odinga]]. Kibaki had first contested for the presidency in 1992, finishing a distant third behind Moi and Kenneth Matiba. In 1997, running again from the Democratic Party platform, Kibaki sought to improve on that performance by consolidating support among the Kikuyu community (Kenya's largest ethnic bloc) and by portraying himself as the statesman who would lead Kenya through economic reform without the disruption of radical institutional change.
+Mwai Kibaki's second presidential campaign, contested under the banner of the [[Kibaki Democratic Party Founding 1991]] in 1997, positioned him as a centrist alternative to both [[Daniel arap Moi Era]]'s authoritarian rule and the more radical opposition voices represented by figures like [[Raila Odinga]]. Kibaki had first contested for the presidency in 1992, finishing a distant third behind Moi and Kenneth Matiba. In 1997, running again from the Democratic Party platform, Kibaki sought to improve on that performance by consolidating support among the Kikuyu community (Kenya's largest ethnic bloc) and by portraying himself as the statesman who would lead Kenya through economic reform without the disruption of radical institutional change.
 
 The Democratic Party itself had become the principal vehicle for Kikuyu political representation in the multiparty era. While earlier opposition movements in 1992 (FORD-Kenya and FORD-Asili) had fragmented along regional and ethnic lines, the Democratic Party emerged as a more disciplined, centralized institution with clear links to Kikuyu-dominated business interests and the landed gentry of central Kenya. Kibaki's leadership of the Democratic Party gave him institutional advantages over other opposition candidates. The party controlled significant organizational resources, had a presence in local government, and benefited from the economic networks of Kikuyu business elites who financed its operations.
 
@@ -18,7 +18,7 @@ The 1997 election result demonstrated the limitations of an opposition strategy 
 
 - [[1997 Election]]
 - [[Mwai Kibaki]]
-- [[Democratic Party (Kenya)]]
+- [[Multiparty Politics]]
 - [[2002 Election Kibaki Campaign]]
 - [[Kikuyu]]
 - [[Moi and the Opposition]]

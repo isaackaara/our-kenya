@@ -71,7 +71,7 @@ The Karen Blixen Museum, in particular, has become a site of contested memory. F
 - [[White Highlands]] - Broader settler territory
 - [[Lancaster House and Departure]] - Post-independence transition
 - [[Laikipia Ranch Families]] - Upcountry settler families
-- [[Settler Memory and Heritage]] - Contested colonial narratives
+- Settler Memory and Heritage - Contested colonial narratives
 
 ## Sources
 

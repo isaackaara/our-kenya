@@ -1,4 +1,4 @@
-The story of [[William Ruto]] as a barefoot chicken seller from Sugoi who rose to become president of Kenya is one of the most powerful political narratives in modern Kenyan history. It is also one of the most contested. Ruto himself has told the story hundreds of times: a poor boy from a modest [[Kalenjin/Kalenjin Political Identity]] family in the Rift Valley who sold chickens by the roadside to pay for school, worked his way through university, and climbed the political ladder through sheer determination. The narrative is central to his political brand as the champion of the "hustler nation," the man who understands what it means to struggle because he has lived it. How much of the story is documented fact versus political mythology is harder to determine.
+The story of [[William Ruto]] as a barefoot chicken seller from Sugoi who rose to become president of Kenya is one of the most powerful political narratives in modern Kenyan history. It is also one of the most contested. Ruto himself has told the story hundreds of times: a poor boy from a modest [[Kalenjin Political Identity]] family in the Rift Valley who sold chickens by the roadside to pay for school, worked his way through university, and climbed the political ladder through sheer determination. The narrative is central to his political brand as the champion of the "hustler nation," the man who understands what it means to struggle because he has lived it. How much of the story is documented fact versus political mythology is harder to determine.
 
 Ruto was born on December 21, 1966, in Sambut village, Uasin Gishu County, in what was then Rift Valley Province. His parents were small-scale farmers, and by all accounts, the family was not wealthy. But they were not destitute either. His father, Daniel Cheruiyot, owned land and kept livestock. Ruto attended local primary schools and later went to Kerotet High School and Wareng Secondary School, both respectable institutions. He was a bright student and active in the Christian Union. There is no dispute that Ruto's family was working-class, but the image of absolute poverty, the barefoot boy selling chickens to survive, is harder to verify.
 
@@ -15,13 +15,13 @@ The early life narrative also served a deeper political function. It allowed Rut
 Whether the chicken-selling story is 100% accurate or partly mythologized is almost beside the point. What matters politically is that millions of Kenyans believed it, or wanted to believe it, because it offered hope that someone like them could make it. That belief, more than any policy platform, was the foundation of Ruto's presidency.
 
 ## See Also
-- [[Ruto Hustler Narrative]]
-- [[Kalenjin/Kalenjin Political Identity]]
+- [[Ruto Economic Blueprint - Bottom-Up Economics]]
+- [[Kalenjin Political Identity]]
 - [[Daniel arap Moi]]
 - [[2022 Election]]
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
-- [[Corruption/Wealth Accumulation by Political Elite]]
-- [[Ruto and the Kalenjin Community]]
+- Wealth Accumulation by Political Elite
+- [[William Ruto Presidency]]
 
 ## Sources
 1. "William Ruto: From chicken seller to president," BBC News, September 13, 2022. https://www.bbc.com/news/world-africa-62893456

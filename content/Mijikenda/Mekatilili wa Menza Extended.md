@@ -36,7 +36,7 @@ The selective emphasis on certain aspects of Mekatilili's life (her leadership, 
 - [[The Giriama Uprising 1913-1914]] - Historical context of resistance
 - [[Giriama People]] - Ethnic group Mekatilili led
 - [[Mijikenda Women]] - Role of women in Mijikenda society
-- [[Kaya Fungo]] - Sacred center destroyed during uprising
+- Kaya Fungo - Sacred center destroyed during uprising
 - [[Mijikenda and Independence]] - Post-colonial Mijikenda history
 - [[Gender Roles and Women Leadership]] - Women's political authority
 

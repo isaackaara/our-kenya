@@ -4,7 +4,7 @@ Jomo Kenyatta's death in 1978 and succession by Kalenjin president Daniel arap M
 
 Mugithi music became primary vehicle for coded Kikuyu political messaging during this period. Songs addressed land issues, economic marginalization, and community concerns that had obvious political dimensions without explicitly challenging government. This allowed artists like [[John De Mathew|John De Mathew]], [[Samuel Muchendu|Samuel Muchendu]], and others to voice grievances while maintaining plausible deniability that protected them from [[Moi Era Music and Censorship|censorship]].
 
-The accordion-driven mugithi sound itself became marker of Kikuyu identity. Unlike [[Music/Kenyan Benga Music|benga]], which various ethnic groups claimed, or [[Congolese Influence on Kenya 1980s|rumba]], which was foreign import, mugithi was unmistakably Kikuyu. Consuming, performing, or supporting mugithi music became act of ethnic pride and subtle political resistance to Moi's government.
+The accordion-driven mugithi sound itself became marker of Kikuyu identity. Unlike [[Kenyan Benga Music|benga]], which various ethnic groups claimed, or [[Congolese Influence on Kenya 1980s|rumba]], which was foreign import, mugithi was unmistakably Kikuyu. Consuming, performing, or supporting mugithi music became act of ethnic pride and subtle political resistance to Moi's government.
 
 Lyrics addressed themes with political resonance. Songs about land echoed historical grievances about colonial land alienation and contemporary concerns about land distribution under Moi. Music celebrating hard work and entrepreneurship implicitly critiqued government corruption and economic mismanagement. Calls for community unity suggested political mobilization even when not explicitly stated.
 

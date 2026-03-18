@@ -1,4 +1,4 @@
-The community conservancy model represents a fundamental shift in [[Conservation|conservation strategy]], transitioning from [[Fortress Conservation Critique|state-controlled protected areas]] to [[Moi and the Luo Community|community-based management]] and [[Conservation|private land conservation]]. In Kenya, this model has emerged as a primary mechanism for protecting [[Wildlife|wildlife]] outside government-managed [[National Parks|national parks]], particularly in [[Arid and Semi-Arid Lands|arid and semi-arid rangelands]]. The model originated from recognition that [[Education Community Engagement|communities]] must benefit directly to support [[Conservation|conservation]].
+The community conservancy model represents a fundamental shift in [[Conservation|conservation strategy]], transitioning from [[Fortress Conservation Critique|state-controlled protected areas]] to [[Moi and the Luo Community|community-based management]] and [[Conservation|private land conservation]]. In Kenya, this model has emerged as a primary mechanism for protecting [[wildlife|wildlife]] outside government-managed national parks, particularly in arid and semi-arid rangelands. The model originated from recognition that [[Education Community Engagement|communities]] must benefit directly to support [[Conservation|conservation]].
 
 ## Origins and Development
 
@@ -64,9 +64,9 @@ The community conservancy model represents an important innovation in African co
 
 - [[Northern Rangelands Trust]]
 - [[Community Conservation Model]]
-- [[Wildlife Revenue Sharing]]
+- Wildlife Revenue Sharing
 - [[Conservation]]
-- [[Land Rights and Tenure Security]]
+- Land Rights and Tenure Security
 - [[Conservation Economics Kenya]]
 - [[Conservation]]
 

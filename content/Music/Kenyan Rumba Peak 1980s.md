@@ -1,6 +1,6 @@
 The 1980s marked the zenith of [[Congolese Influence on Kenya 1980s|Congolese rumba's]] dominance in Kenyan popular music before economic collapse and shifting tastes initiated its decline. Lingala music from Zaire (now Democratic Republic of Congo) had dominated East African nightlife since the 1970s, but the early-to-mid 1980s represented the genre's absolute peak in Kenya's musical consciousness.
 
-The music's appeal transcended ethnic boundaries in ways that few Kenyan genres could match. [[Music/Kenyan Benga Music|Benga]] remained popular but primarily among specific ethnic communities. Rumba, sung in Lingala and lacking explicit ethnic associations for Kenyan audiences, provided politically neutral entertainment in increasingly tense political environment under [[Daniel arap Moi Presidency|President Moi]].
+The music's appeal transcended ethnic boundaries in ways that few Kenyan genres could match. [[Kenyan Benga Music|Benga]] remained popular but primarily among specific ethnic communities. Rumba, sung in Lingala and lacking explicit ethnic associations for Kenyan audiences, provided politically neutral entertainment in increasingly tense political environment under [[Daniel arap Moi Presidency|President Moi]].
 
 Major Congolese stars made Nairobi regular tour destination. Tabu Ley Rochereau's April 1982 concerts became legendary, filling venues with thousands of Kenyans desperate to experience authentic Congolese soukous. Following the [[Music and the 1982 Coup Kenya|August 1982 failed coup]], state broadcaster deliberately flooded airways with Lingala music to distract and calm nervous population, inadvertently accelerating rumba's already massive popularity.
 
@@ -29,7 +29,7 @@ By 1990, rumba's peak had clearly passed. While Lingala music retained devoted f
 - [[Piracy and the Kenyan Music Industry]]
 - [[Recording Studios Kenya 1980s-1990s]]
 - [[Youth Music Culture 1990s Kenya]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 - [[Daniel arap Moi Presidency]]
 
 ## Sources

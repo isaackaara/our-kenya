@@ -117,8 +117,8 @@ Christianity is now integral to Gusii identity, having largely replaced traditio
 - [[Kisii Colonial History]] - missionary arrival and influence
 - [[Seventh-day Adventist Church]] - denomination focus
 - [[Abagusii Cosmology]] - traditional spiritual systems
-- [[Christian education in Kenya]] - educational role
-- [[Religious institutions in Kenya]] - national context
+- Christian education in Kenya - educational role
+- Religious institutions in Kenya - national context
 
 ---
 

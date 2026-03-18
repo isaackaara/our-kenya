@@ -1,4 +1,4 @@
-The [[Kaya System|kaya]] forests of the [[Mijikenda]] are part of a broader African tradition of sacred groves: natural areas protected through cultural and religious taboos that have served conservation functions by preserving biodiversity in contexts where surrounding land is cleared and degraded. Sacred grove traditions exist across Africa, from the forests of West Africa to East Africa, and represent distinctive forms of cultural and ecological management.
+The [[The Kaya System|kaya]] forests of the [[Mijikenda]] are part of a broader African tradition of sacred groves: natural areas protected through cultural and religious taboos that have served conservation functions by preserving biodiversity in contexts where surrounding land is cleared and degraded. Sacred grove traditions exist across Africa, from the forests of West Africa to East Africa, and represent distinctive forms of cultural and ecological management.
 
 ## Sacred Groves as Cultural Practice
 

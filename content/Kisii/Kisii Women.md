@@ -11,7 +11,7 @@ In traditional Gusii society, women occupied essential but subordinate roles wit
 
 ## The Omogoye: The Bride's Transition
 
-The [[omogoye]] (bride) underwent a significant transition upon marriage. The bridewealth payment (ogosera) bound her to her new husband's family. Her primary obligations were:
+The omogoye (bride) underwent a significant transition upon marriage. The bridewealth payment (ogosera) bound her to her new husband's family. Her primary obligations were:
 
 - **Fertility:** Producing children, particularly sons, to perpetuate the family and clan
 - **Household management:** Managing the domestic compound, cooking, childcare
@@ -50,7 +50,7 @@ Educated Kisii women in urban areas (particularly Nairobi) often postpone marria
 
 ## Female Genital Cutting (FGC/FGM)
 
-The Gusii traditionally practiced [[FGC|FGC]] as part of girls' circumcision initiation, typically around ages 8-9. The practice was nearly universal historically:
+The Gusii traditionally practiced FGC as part of girls' circumcision initiation, typically around ages 8-9. The practice was nearly universal historically:
 
 - **Traditional justification:** Marked girls' transition to adulthood, was a prerequisite for marriage, was culturally required
 - **Contemporary campaigns:** Since the 1980s-1990s, government, health organizations, and NGOs have conducted campaigns against FGC on human rights and health grounds
@@ -61,7 +61,7 @@ The decline of FGC represents a significant shift in Gusii gender relations and 
 
 ## Gender Violence and Spousal Relationships
 
-Researchers including anthropologists Robert and Barbara [[LeVine]] (who studied Gusii society from the 1950s onward) documented high rates of wife-beating and gender violence in traditional and early modern Gusii society. Wife-beating was culturally tolerated and sometimes expected. Contemporary government and NGO programs address gender violence through legal action and awareness campaigns.
+Researchers including anthropologists Robert and Barbara LeVine (who studied Gusii society from the 1950s onward) documented high rates of wife-beating and gender violence in traditional and early modern Gusii society. Wife-beating was culturally tolerated and sometimes expected. Contemporary government and NGO programs address gender violence through legal action and awareness campaigns.
 
 ## Women and Political Participation
 

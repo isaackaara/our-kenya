@@ -6,7 +6,7 @@ The context of mombasa fort jesus reconstruction illuminates how local, regional
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

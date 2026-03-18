@@ -1,0 +1,30 @@
+The [[Luo]] community has produced some of Kenya's most consequential political leaders, whose careers collectively define a tradition of opposition, ideological politics, and exclusion from the presidency that has profoundly shaped the country's democratic trajectory. From Oginga Odinga's socialist vision through Tom Mboya's tragic brilliance to Raila Odinga's decades-long pursuit of the presidency, Luo political leadership illuminates both the possibilities and the structural constraints of Kenyan democracy.
+
+Jaramogi Oginga Odinga stands as the founding figure of Luo political leadership and of Kenya's opposition tradition. A Luo elder from Bondo in [[Kisumu County]], Odinga was among the most prominent leaders of the independence movement, serving as vice president under [[Jomo Kenyatta]] from 1964 to 1966. His advocacy for a more radical redistribution of land and wealth, alignment with the Eastern Bloc during the Cold War, and opposition to the consolidation of [[Kikuyu]] economic power through the [[Kenyatta Presidency]] led to his marginalisation and eventual detention. Odinga's formation of the Kenya People's Union (KPU) in 1966 represented the first significant challenge to [[KANU]]'s post-independence dominance, though the party was banned after the Kisumu Massacre of 1969 in which government forces killed dozens of Luo demonstrators. His 1967 autobiography *Not Yet Uhuru* articulated the argument that independence had delivered political sovereignty without economic liberation—a critique that resonated across generations.
+
+Tom Mboya represented a different strand of Luo political leadership: technocratic, pro-Western, and focused on building national institutions rather than ethnic constituencies. As secretary-general of KANU and minister for economic planning, Mboya was the principal architect of Kenya's post-independence economic framework, drafting Sessional Paper No. 10 of 1965 on African Socialism. His assassination on a Nairobi street in July 1969—widely attributed to elements within the Kikuyu political establishment who feared his presidential ambitions—was a turning point in Kenyan politics. Mboya's death eliminated the most credible Luo challenger to Kikuyu political dominance and deepened the ethnic polarisation that has characterised Kenyan politics since.
+
+Robert Ouko, a Luo diplomat and minister for foreign affairs under [[Daniel arap Moi Era|Daniel arap Moi]], was murdered in February 1990 under circumstances that pointed to involvement by senior government officials. Ouko had gained international visibility and was reportedly preparing to expose high-level [[Moi Era Corruption|corruption]]. His death, and the government's transparent attempt to cover up its circumstances, galvanised the pro-democracy movement and contributed to the [[Saba Saba 1990|Saba Saba]] protests that accelerated the push for [[Multiparty Politics]].
+
+Raila Amolo Odinga, son of Oginga, has been the dominant figure in Luo and Kenyan opposition politics for over three decades. Detained without trial during the [[Daniel arap Moi Era]] for his alleged involvement in the 1982 coup attempt, Raila emerged as a leading democracy activist in the 1990s. His political career since has been defined by repeated near-misses at the presidency: he played a decisive role in [[Mwai Kibaki]]'s 2002 victory through the [[National Rainbow Coalition (NARC)|NARC coalition]] but was denied the prime ministerial position promised in the coalition agreement; he won or was widely believed to have won the disputed 2007 election, whose contested results triggered the [[2007-2008 Post Election Violence]]; he served as prime minister in the subsequent coalition government (2008-2013); and he lost presidential bids in 2013, 2017, and 2022. His 2018 "handshake" with [[Uhuru Kenyatta Presidency|Uhuru Kenyatta]]—formalised through the [[Building Bridges Initiative]]—and his subsequent alliance with the ruling establishment against [[William Ruto Presidency|William Ruto]] complicated his opposition credentials and divided his support base.
+
+The tradition of Luo political leadership is characterised by several recurring themes. First, an emphasis on ideological politics—whether Oginga's socialism, Mboya's developmentalism, or Raila's constitutional reform agenda—that contrasts with the more transactional, patronage-based politics associated with other communities. Second, a pattern of exclusion from the presidency that has generated a powerful narrative of marginalisation, reinforced by the assassinations of Mboya and Ouko and the disputed elections of 2007 and 2017. Third, a tension between the national ambitions of Luo leaders and the ethnic solidarity that the Kenyan political system rewards: the [[Luo]] community has been the most reliably unified voting bloc in Kenyan [[Elections|elections]], but this very solidarity has made it easier for rival coalitions to construct winning majorities by uniting other communities against a perceived Luo threat.
+
+The [[Gen Z Protests 2024|2024 Gen Z protests]], notably, challenged ethnic political frameworks entirely, with young Kenyans from all communities—including many Luo youth—rejecting the politics of ethnic patronage that Luo leaders, like their counterparts from other communities, have historically navigated and sometimes reinforced.
+
+## See Also
+
+- [[Luo]]
+- [[Kisumu County]]
+- ODM
+- [[Multiparty Politics]]
+- [[2007-2008 Post Election Violence]]
+- [[National Rainbow Coalition (NARC)]]
+- [[The Handshake 2018]]
+
+## Sources
+
+1. Odinga, Oginga. *Not Yet Uhuru: An Autobiography*. London: Heinemann, 1967.
+2. Goldsworthy, David. *Tom Mboya: The Man Kenya Wanted to Forget*. Nairobi: Heinemann, 1982.
+3. Raila Odinga with Sarah Elderkin. *The Flame of Freedom: An Autobiography*. Nairobi: Mountain Top Publishers, 2013.
+4. Atieno-Odhiambo, E.S. "Hegemonic Enterprises and Instrumentalities of Survival: Ethnicity and Democracy in Kenya." *African Studies* 61, no. 2 (2002): 223-249.

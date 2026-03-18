@@ -1,8 +1,8 @@
-The [[Madhvani family]] is a Kenyan-Ugandan [[business dynasty]] that built a [[sugar empire]] across East Africa. They exemplify the large-scale industrial enterprises that some Asian families developed, though their operations are primarily in Uganda with some Kenyan interests.
+The Madhvani family is a Kenyan-Ugandan business dynasty that built a sugar empire across East Africa. They exemplify the large-scale industrial enterprises that some Asian families developed, though their operations are primarily in Uganda with some Kenyan interests.
 
 ## Origins and Business Focus
 
-The Madhvani family built their wealth primarily in Uganda, but their operations extended into Kenya. Their main business is [[sugar production]] and refining, though they have diversified into other agricultural and industrial sectors. The family represents the type of large-scale industrial capitalism that some Asian families achieved.
+The Madhvani family built their wealth primarily in Uganda, but their operations extended into Kenya. Their main business is sugar production and refining, though they have diversified into other agricultural and industrial sectors. The family represents the type of large-scale industrial capitalism that some Asian families achieved.
 
 ## Sugar Industry Dominance
 
@@ -23,7 +23,7 @@ As of 2026, Madhvani remains a significant business group in East Africa, though
 ## See Also
 
 - [[Manu Chandaria]]
-- [[Comcraft Group Kenya]]
+- [[Indian Communities Kenya]]
 - [[Asian Manufacturing Sector]]
 - [[Kenyan Asians Overview]]
 - [[Nairobi Business District]]

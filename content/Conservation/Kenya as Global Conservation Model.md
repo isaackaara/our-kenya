@@ -98,7 +98,7 @@ The most successful global adoption involves learning principles from Kenya's ex
 
 - [[Kenya Wildlife Service]] - Primary institutional model
 - [[Kenya Conservation Overview]] - System-wide strategy framework
-- [[Ivory Burning Kenya]] - International symbolic leadership
+- Ivory Burning Kenya - International symbolic leadership
 - [[Kenya Elephant Population]] - Population recovery outcomes
 - [[Community Conservancies Model]] - Community-based conservation
 - [[Laikipia Conservancy Network]] - Private-community partnerships

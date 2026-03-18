@@ -7,8 +7,8 @@ The housing program reflects Ruto's emphasis on visible, tangible development pr
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Housing|Kenya Housing]]
-- [[Kenya Urban Development|Kenya Urban Development]]
+- Kenya Housing
+- Kenya Urban Development
 - [[Ruto Hustler Nation Ideology|Hustler Nation]]
 
 ## Sources

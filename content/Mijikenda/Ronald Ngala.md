@@ -1,8 +1,8 @@
-Ronald Ngala (1923-1972) was a [[Giriama]] politician and one of the most important coastal political leaders at Kenya's independence. As a founder and leader of the Kenya African Democratic Union (KADU), he advocated for coastal federalism and autonomy. His assassination in 1972 marked a tragic loss of coastal political voice.
+Ronald Ngala (1923-1972) was a [[giriama]] politician and one of the most important coastal political leaders at Kenya's independence. As a founder and leader of the Kenya African Democratic Union (KADU), he advocated for coastal federalism and autonomy. His assassination in 1972 marked a tragic loss of coastal political voice.
 
 ## Early Life
 
-Ronald Ngala was born in 1923 in Kilifi District in the [[Giriama]] homeland. He came of age during the colonial period and received education, unusual for [[Mijikenda]] of his generation. His education provided skills and perspective that positioned him for leadership roles. Ngala was part of the small emerging [[Mijikenda]] educated elite in the colonial period.
+Ronald Ngala was born in 1923 in Kilifi District in the [[giriama]] homeland. He came of age during the colonial period and received education, unusual for [[Mijikenda]] of his generation. His education provided skills and perspective that positioned him for leadership roles. Ngala was part of the small emerging [[Mijikenda]] educated elite in the colonial period.
 
 ## Political Emergence
 
@@ -45,7 +45,7 @@ Ngala represents a model of coastal political leadership: educated, articulate, 
 - [[Mijikenda and Kenya Identity]] - Coastal political marginalization
 - [[Mijikenda at Independence]] - Independence-era political dynamics
 - [[Mijikenda and Ruto Politics]] - Continuation of coastal political struggles
-- [[Giriama]] - Ngala's ethnic community
+- [[giriama]] - Ngala's ethnic community
 - [[Swahili Coast]] - Competing coastal leadership traditions
 - [[Oral Traditions and History Preservation]] - Ngala's legacy in community memory
 

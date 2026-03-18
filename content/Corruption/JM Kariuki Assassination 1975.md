@@ -79,7 +79,7 @@ These legacies persisted long after Kenyatta's death and even Moi's departure fr
 - [[Robert Ouko Murder 1990]]
 - [[Moi Era Corruption Economy]]
 - [[Land Grabbing Under Jomo Kenyatta]]
-- [[Political Murder and Impunity]]
+- Political Murder and Impunity
 
 ## Sources
 

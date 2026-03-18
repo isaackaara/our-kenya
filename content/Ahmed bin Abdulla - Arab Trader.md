@@ -6,7 +6,7 @@ The context of ahmed bin abdulla - arab trader illuminates how local, regional, 
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

@@ -17,10 +17,10 @@ Urban demand for dairy products grew with income levels and population growth. M
 ## See Also
 
 [[Livestock Farming Systems]]
-[[Cooperatives and Marketing]]
+Cooperatives and Marketing
 [[Smallholder Agriculture]]
 [[Food Security Policies]]
-[[Rural Income Strategies]]
+Rural Income Strategies
 [[Health]]
 [[Nutritional Status Kenya]]
 

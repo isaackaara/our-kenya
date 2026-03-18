@@ -17,8 +17,8 @@ Contemporary food writing in Kenya increasingly engages global food systems and 
 ## See Also
 [[Environmental Literature]]
 [[Women Writers Authors Kenya]]
-[[Memoir and Autobiography]]
-[[Cultural Traditions Kenya]]
+Memoir and Autobiography
+Cultural Traditions Kenya
 [[Food Security Kenya]]
 [[Gender Pay Gap]]
 [[Travel Writing Kenya]]

@@ -4,7 +4,7 @@ The [[Mijikenda]] fit complexly within Kenya's national identity and narrative. 
 
 The Mjikenda assert themselves as the indigenous people of the Kenya coast, distinct from [[Swahili]] populations (characterized as merchant-oriented and cosmopolitan) and from Arab and Asian colonial-era settlers. This assertion of indigenous status challenges dominant narratives that treat Swahili and Arab-descended populations as definers of coastal identity and culture.
 
-The Mjikenda emphasize their long history on the coast, their [[Kaya System|kaya]] systems of governance predating European colonialism, and their role as the original hinterland supporters of coastal civilization. These claims counter narratives that treat the coast as primarily Swahili and Arab territory.
+The Mjikenda emphasize their long history on the coast, their [[The Kaya System|kaya]] systems of governance predating European colonialism, and their role as the original hinterland supporters of coastal civilization. These claims counter narratives that treat the coast as primarily Swahili and Arab territory.
 
 ## Political Marginalization and National Narrative
 
@@ -16,7 +16,7 @@ The Mjikenda are vastly underrepresented in Kenya's cultural and political leade
 
 The dominance of [[Swahili]] cultural representation in coastal Kenya creates complications for Mjikenda identity assertion. Swahili culture, with its emphasis on Islam, Islamic learning, and cosmopolitan merchant aesthetics, has long dominated external representations of the Kenya coast. Tourism marketing, museum displays, and cultural programming often emphasize Swahili sites (Lamu, Mombasa's Stone Town) while marginalizing Mjikenda cultural sites.
 
-The Mjikenda, while recognizing the authenticity of Swahili culture on the coast, assert that Mjikenda culture is equally legitimate and important. They point to the [[Kaya System|kaya]] forests (now UNESCO World Heritage Sites) as evidence of distinct cultural achievement worthy of recognition.
+The Mjikenda, while recognizing the authenticity of Swahili culture on the coast, assert that Mjikenda culture is equally legitimate and important. They point to the [[The Kaya System|kaya]] forests (now UNESCO World Heritage Sites) as evidence of distinct cultural achievement worthy of recognition.
 
 ## Coastal Nationalism and Regional Identity
 

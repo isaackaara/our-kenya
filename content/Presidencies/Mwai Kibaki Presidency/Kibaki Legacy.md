@@ -23,10 +23,10 @@ The legacy that Kibaki left for his successors included a larger, somewhat more 
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Democratic Transition|Kenya Democratic Transition]]
-- [[Kenya 2007 Election Violence|Kenya 2007 Election Violence]]
+- [[Multiparty Politics|Kenya Democratic Transition]]
+- [[2007-2008 Post Election Violence|Kenya 2007 Election Violence]]
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Institutional Development|Kenya Institutional Development]]
+- Kenya Institutional Development
 
 ## Sources
 

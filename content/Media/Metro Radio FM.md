@@ -14,7 +14,7 @@ Metro FM's sustained operation through subsequent decades illustrated the statio
 [[Radio Citizen Political]]
 [[Media Democratization]]
 [[Vernacular Radio Expansion]]
-[[Technology/Radio Frequencies]]
+Radio Frequencies
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Mass_media_in_Kenya

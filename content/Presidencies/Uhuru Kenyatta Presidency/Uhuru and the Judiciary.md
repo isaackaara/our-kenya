@@ -18,8 +18,8 @@ International observers hailed Kenya's judiciary as a model for Africa, demonstr
 - [[David Maraga and Uhuru]]
 - [[Building Bridges Initiative]]
 - [[Raila Odinga]]
-- [[Elections/2017 Presidential Election]]
-- [[2007 Post-Election Violence]]
+- [[2017 Presidential Election]]
+- [[2007-2008 Post Election Violence]]
 - [[Uhuru Legacy Assessment]]
 
 ## Sources

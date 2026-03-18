@@ -7,7 +7,7 @@ tags: kisii gusii religion engoro ancestor spirits diviner healer
 
 ## Engoro: The Divine in Gusii Cosmology
 
-In traditional Gusii belief, [[Engoro]] (also spelled Nyasaye in Luo-influenced contexts) is the supreme being or God. Engoro is understood as:
+In traditional Gusii belief, Engoro (also spelled Nyasaye in Luo-influenced contexts) is the supreme being or God. Engoro is understood as:
 
 - **The creator:** The originating force that brought the world into being
 - **Omnipotent but distant:** All-powerful but not directly intervening in daily life
@@ -19,7 +19,7 @@ Religious practice focused more on appeasing spirits and ancestors than on direc
 
 ## Ancestor Spirits (Ebirecha)
 
-Ancestor spirits, called [[ebirecha]] in [[Ekegusii Language and Linguistic Identity]], were central to Gusii religious life:
+Ancestor spirits, called ebirecha in [[Ekegusii Language and Linguistic Identity]], were central to Gusii religious life:
 
 **Function and significance:**
 
@@ -43,7 +43,7 @@ Ancestor spirits, called [[ebirecha]] in [[Ekegusii Language and Linguistic Iden
 
 ## The Omoragori: Diviner and Healer
 
-The [[omoragori]] (plural, abarugori) was a specialist in divination and healing, combining roles of priest, doctor, and counselor:
+The omoragori (plural, abarugori) was a specialist in divination and healing, combining roles of priest, doctor, and counselor:
 
 **Divination:**
 
@@ -77,7 +77,7 @@ These spaces were treated with respect and were sometimes protected from ordinar
 
 ## The Impact of Christianity
 
-[[Christianity]], introduced through missionary activity from the late nineteenth century onward, fundamentally transformed Gusii religious life. The [[Seventh-day Adventist]] church and the [[Catholic Church]] were the primary proselytizing bodies.
+[[christianity]], introduced through missionary activity from the late nineteenth century onward, fundamentally transformed Gusii religious life. The Seventh-day Adventist church and the [[Catholic Church]] were the primary proselytizing bodies.
 
 **Key impacts:**
 

@@ -7,13 +7,13 @@ Basket weaving has significant economic importance, particularly in rural areas 
 Contemporary basket weaving encompasses both traditional practice maintaining heritage and artistic innovation exploring baskets as contemporary medium. Weavers experiment with materials, forms, and scales creating artistic works. Basket exhibitions increasingly appear in fine art contexts recognizing weaving sophistication. International recognition of African basket weaving as significant artistic tradition has elevated status of Kenyan practitioners. Contemporary Kenyan basket weavers create work serving cultural, economic, and artistic functions. Basket weaving remains vital traditional craft and contemporary artistic practice within Kenya's cultural landscape.
 
 ## See Also
-- [[Weaving Traditions Kenya]]
-- [[Traditional Craft Materials]]
-- [[Craft Commerce and Livelihoods]]
-- [[Material Culture Kenya]]
-- [[Functional and Decorative Arts]]
-- [[Contemporary Craft Innovation]]
-- [[Cultural Heritage Crafts]]
+- [[Cultural Heritage]]
+- Traditional Craft Materials
+- Craft Commerce and Livelihoods
+- Material Culture Kenya
+- Functional and Decorative Arts
+- Contemporary Craft Innovation
+- Cultural Heritage Crafts
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Basket_weaving - Basket Weaving History

@@ -22,9 +22,9 @@ Kibaki's legacy remains contested and incomplete. His tenure included both achie
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Uhuru Kenyatta|Uhuru Kenyatta]]
-- [[Kenya 2013 Election|Kenya 2013 Election]]
-- [[Kenya Post-Presidential Politics|Kenya Post-Presidential Politics]]
-- [[Kenya Transitional Justice|Kenya Transitional Justice]]
+- [[2013 Presidential Election|Kenya 2013 Election]]
+- Kenya Post-Presidential Politics
+- [[Truth and Reconciliation|Kenya Transitional Justice]]
 
 ## Sources
 

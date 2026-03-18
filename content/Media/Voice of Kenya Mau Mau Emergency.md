@@ -14,7 +14,7 @@ The 1989 transition from Voice of Kenya to Kenya Broadcasting Corporation techni
 [[Mau Mau Emergency Broadcasting]]
 [[Media Democratization]]
 [[Jomo Kenyatta]]
-[[Daniel Arap Moi]]
+[[Daniel arap Moi]]
 
 ## Sources
 1. https://kbc.go.ke/about/

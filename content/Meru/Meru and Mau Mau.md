@@ -4,7 +4,7 @@ title: Meru Participation in the Mau Mau Rebellion
 
 # Meru and the Kenya Emergency (1952-1960)
 
-The [[Meru]], as close relatives to the [[Kikuyu]] and sharing [[Mount Kenya]] region grievances, participated in the [[Mau Mau]] rebellion (also known as the Kenya Emergency) alongside [[Embu]] fighters.
+The [[Meru]], as close relatives to the [[Kikuyu]] and sharing [[Mount Kenya]] region grievances, participated in the [[Mau Mau Uprising]] rebellion (also known as the Kenya Emergency) alongside [[Embu]] fighters.
 
 ## The Mau Mau Context
 

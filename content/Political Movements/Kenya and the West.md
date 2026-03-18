@@ -7,7 +7,7 @@ Kenya's relationship with Western powers, particularly the United States and Bri
 ## See Also
 [[Kenyatta and the Press]]
 [[Moi and Multiparty Democracy]]
-[[Cross Ethnic/Cold War Politics]]
+Cold War Politics
 
 ## Sources
 1. Branch, Daniel. 'Kenya: Between Hope and Despair, 1963-2011.' Yale University Press, 2011.

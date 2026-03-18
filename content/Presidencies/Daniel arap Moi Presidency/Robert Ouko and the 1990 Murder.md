@@ -16,9 +16,9 @@ Ouko's murder would haunt Moi's regime for the remainder of his presidency. The 
 
 ## See Also
 [[The Ouko Murder]]
-[[Moi and Robert Ouko]]
+[[Daniel arap Moi Era]]
 [[Moi Detention Policy]]
-[[Kenya/Human Rights Abuses]]
+Human Rights Abuses
 [[Nyayo House Torture Chambers]]
 [[Moi and the Kalenjin]]
 

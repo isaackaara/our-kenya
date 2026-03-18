@@ -84,7 +84,7 @@ The transition from compound homesteads to single-family dwellings reflects broa
 
 ## See Also
 
-[[Kamba and the Land]], [[Kamba Social Structure]], [[Kamba Gender Roles]], [[Ukambani Environment]], [[Kamba Food Systems and Agriculture]]
+[[Kamba Culture and Identity]], [[Kamba Social Structure]], [[Kamba Gender Roles]], [[Ukambani Environment]], [[Kamba Food Systems and Agriculture]]
 
 ## Sources
 

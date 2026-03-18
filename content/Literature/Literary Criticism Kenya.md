@@ -2,7 +2,7 @@ Literary criticism in Kenya developed as intellectual practice addressing how li
 
 Academic literary criticism emerged in Kenyan universities, with scholars developing analytical frameworks addressing postcolonial literature, decolonial theory, and African literary traditions. University-based critics established standards for literary interpretation while creating intellectual communities supporting literary analysis.
 
-[[Ngugi wa Thiong'o]]'s theoretical writings including [[Decolonising the Mind]] functioned as literary criticism and cultural theory simultaneously, establishing frameworks for understanding language, colonialism, and African intellectual autonomy. His work demonstrated that literary criticism could advance political and philosophical arguments while addressing specific texts and traditions.
+[[Ngugi wa Thiong o]]'s theoretical writings including [[Decolonising the Mind]] functioned as literary criticism and cultural theory simultaneously, establishing frameworks for understanding language, colonialism, and African intellectual autonomy. His work demonstrated that literary criticism could advance political and philosophical arguments while addressing specific texts and traditions.
 
 Feminist literary criticism in Kenya engaged how literature represented gender and addressed women's experiences and agency. Female critics brought gendered perspectives to literary interpretation, asserting that feminist analysis was necessary for complete literary understanding.
 
@@ -16,10 +16,10 @@ Literary journals facilitated critical conversation, with journals publishing re
 
 ## See Also
 [[Postcolonial Literature Movement]]
-[[Decolonial Theory and Writing]]
+Decolonial Theory and Writing
 [[University of Nairobi Literary Culture]]
 [[Literary Journals Publishing]]
-[[African Literary Theory]]
+African Literary Theory
 [[Women Writers Authors Kenya]]
 [[Book Reviews Media]]
 

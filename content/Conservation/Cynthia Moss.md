@@ -1,4 +1,4 @@
-Cynthia Moss is an American [[Elephant Researcher|elephant researcher]] who has conducted decades of [[Long-Term Research|long-term research]] on [[Elephant Populations|elephant populations]] in [[Amboseli National Park]], Kenya. Her research has produced groundbreaking knowledge about [[Elephant Social Behavior|elephant social behavior]], [[Elephant Ecology|ecology]], and [[Population Dynamics|population dynamics]]. Moss's work demonstrates the [[Research Value|value of long-term research]] for [[Conservation|conservation]] and has influenced [[Global Understanding|global understanding]] of [[Elephant Biology|elephant biology]] and behavior.
+Cynthia Moss is an American elephant researcher who has conducted decades of long-term research on elephant populations in [[Amboseli National Park]], Kenya. Her research has produced groundbreaking knowledge about elephant social behavior, ecology, and population dynamics. Moss's work demonstrates the value of long-term research for [[Conservation|conservation]] and has influenced global understanding of elephant biology and behavior.
 
 ## Early Career and Amboseli Research
 
@@ -49,12 +49,12 @@ The Amboseli research continues under Moss's direction, maintaining the longitud
 ## See Also
 
 - [[Amboseli National Park]]
-- [[Elephant Population Dynamics]]
-- [[Elephant Cognition and Behavior]]
-- [[Long-Term Research Programs]]
+- Elephant Population Dynamics
+- Elephant Cognition and Behavior
+- Long-Term Research Programs
 - [[Conservation]]
 - [[Conservation]]
-- [[Climate Change Impacts on Elephants]]
+- Climate Change Impacts on Elephants
 
 ## Sources
 

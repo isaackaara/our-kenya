@@ -16,7 +16,7 @@ The operation also demonstrated the fragility of colonial rule in the face of or
 [[Kapenguria trial 1952-1953]]
 [[Kenyatta detention at Lokitaung]]
 [[Kenyatta and Detention Without Trial]]
-[[Mau Mau Rebellion]]
+[[Mau Mau Uprising]]
 
 ## Sources
 

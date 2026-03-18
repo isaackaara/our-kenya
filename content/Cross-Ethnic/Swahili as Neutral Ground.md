@@ -30,7 +30,7 @@ By the time of independence, Swahili was not just the language of administration
 
 Kenya has over 60 indigenous languages, many of them endangered. Swahili (and English) education has meant that children no longer speak their mother tongues natively. Some languages have few remaining speakers.
 
-The tension is real: [[national unity]] requires a shared language, but shared languages can erase cultural diversity. [[Swahili]] solved the first problem at the cost of the second.
+The tension is real: national unity requires a shared language, but shared languages can erase cultural diversity. [[Swahili]] solved the first problem at the cost of the second.
 
 [[Ngugi wa Thiong o]]'s argument (in *Decolonising the Mind*) is that language loss is cultural death. His solution: write and teach in indigenous African languages, starting with your own. The counter-argument is that Swahili is now an African language, owned by Africans, and that it has created possibilities for cross-ethnic communication and solidarity that would not exist otherwise.
 
@@ -42,9 +42,9 @@ The tension remains unresolved.
 - [[Heritage Language Movements Kenya]]
 - [[English in Kenya]]
 - [[Luo Language]]
-- [[Linguistic Diversity and Unity]]
+- Linguistic Diversity and Unity
 - [[Colonial Language Policy]]
 
 ## Related
 
-[[../Swahili/Swahili Origins]] | [[../Kikuyu/Ngugi wa Thiong'o]] | [[Language Politics]]
+Swahili Origins | [[Ngugi wa Thiong o]] | [[Language Politics]]

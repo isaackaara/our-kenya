@@ -19,10 +19,10 @@ By 2024, Ruto's relationship with social media was a double-edged sword. It had 
 - [[Finance Bill 2024 and Gen Z Uprising]]
 - [[Gen Z Kenya Political Awakening]]
 - [[2022 Election]]
-- [[Ruto and Media]]
+- [[William Ruto Presidency]]
 - [[eCitizen and Digital Government Ruto]]
-- [[Corruption/Digital Disinformation and State Propaganda]]
-- [[Cross-Ethnic/Digital Mobilization Across Ethnic Lines]]
+- Digital Disinformation and State Propaganda
+- Digital Mobilization Across Ethnic Lines
 
 ## Sources
 1. "How Ruto won the digital election," The East African, September 2022. https://www.theeastafrican.co.ke/tea/news/east-africa/ruto-digital-election-victory-3954321

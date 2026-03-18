@@ -2,7 +2,7 @@ Young [[Kenya]] born in Kenya who have never lived in India (third and fourth ge
 
 ## Native Kenyans with Asian Heritage
 
-Third and fourth-generation Asian Kenyans are native Kenyans, born and raised in Kenya. Many have lived their entire lives only in Kenya and have no direct personal memory of or connection to India. [[English]] and [[Swahili]] are often their primary languages, with heritage languages learned secondarily if at all. Their education, friendships, and social networks are rooted in Kenya. Their food preferences, entertainment choices, and consumer habits are shaped by Kenyan society.
+Third and fourth-generation Asian Kenyans are native Kenyans, born and raised in Kenya. Many have lived their entire lives only in Kenya and have no direct personal memory of or connection to India. English and [[Swahili]] are often their primary languages, with heritage languages learned secondarily if at all. Their education, friendships, and social networks are rooted in Kenya. Their food preferences, entertainment choices, and consumer habits are shaped by Kenyan society.
 
 ## Educational Experience
 

@@ -60,7 +60,7 @@ The handshake in 2018 was pivotal globally, attracting international attention a
 - [[Jomo Kenyatta]]
 - [[Kibaki and the ICC]]
 - [[The Kenyan Constitution 2010]]
-- [[Post-Election Violence (2007-2008)]]
+- Post-Election Violence (2007-2008)
 - [[Kikuyu]]
 - [[Jubilee Party]]
 - [[Raila Odinga]]

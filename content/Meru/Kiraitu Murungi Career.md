@@ -1,4 +1,4 @@
-Kiraitu Murungi is the most prominent [[Meru people|Meru]] politician of the post-independence era. A lawyer by training, human rights activist, and political strategist, Murungi has held key positions in Kenya's government across multiple administrations.
+Kiraitu Murungi is the most prominent [[Meru People|Meru]] politician of the post-independence era. A lawyer by training, human rights activist, and political strategist, Murungi has held key positions in Kenya's government across multiple administrations.
 
 ## Early Life and Education
 
@@ -18,7 +18,7 @@ Following NARC's 2002 electoral victory, President Mwai Kibaki appointed Murungi
 
 ## Meru County Governor
 
-After the 2010 constitution created [[devolved governance]], Murungi ran for [[Meru County|Meru]] Governor in 2013 and was elected. He served as Meru County Governor from 2013-2022, leading the county government through challenges including county service delivery, agricultural development, and political competition.
+After the 2010 constitution created devolved governance, Murungi ran for [[Meru County|Meru]] Governor in 2013 and was elected. He served as Meru County Governor from 2013-2022, leading the county government through challenges including county service delivery, agricultural development, and political competition.
 
 ## Political Alignments and Influence
 
@@ -32,7 +32,7 @@ Murungi's career exemplifies the path of educated Meru professionals who rose to
 
 - [[Kiraitu Murungi]]
 - [[Meru County]]
-- [[Kenya Democracy Movement]]
+- Kenya Democracy Movement
 - [[Meru Politics]]
 - [[Daniel arap Moi]]
 

@@ -51,7 +51,7 @@ The contemporary Kenyan Asian community (estimated at 80,000-120,000) is largely
 - [[Bidco Group]]
 - [[Devki Steel Mills]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

@@ -10,13 +10,13 @@ However, women's organizations have not entirely escaped ethnic dimensions. Lead
 
 Women's participation in peace-building and reconciliation work has been notable. Women have organized across ethnic lines to advocate for peace during conflicts. Women peacemakers have facilitated dialogue and reconciliation between community groups. The work of women in post-election violence reconciliation demonstrates women's capacity for cross-ethnic solidarity around peace and social healing.
 
-The visibility of women in [[cross-ethnic organizing]] raises questions about gender dynamics in ethnic politics. Women's peace activism sometimes positions women as natural peacemakers. Women's organizing sometimes receives less political recognition than male-led organizations. Nevertheless, women's organizations remain important sites of [[Collective Action]].
+The visibility of women in cross-ethnic organizing raises questions about gender dynamics in ethnic politics. Women's peace activism sometimes positions women as natural peacemakers. Women's organizing sometimes receives less political recognition than male-led organizations. Nevertheless, women's organizations remain important sites of [[Collective Action]].
 
 ## See Also
 
 - [[Women Across Tribes]]
 - [[Feminist Movements Kenya]]
-- [[Peace-Building Kenya]]
+- Peace-Building Kenya
 - [[Gender Pay Gap]]
 - [[Wangari Maathai]]
 

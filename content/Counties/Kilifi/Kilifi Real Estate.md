@@ -33,7 +33,7 @@ Property disputes often emerge from unclear boundaries, inheritance conflicts, a
 - [[Kilifi County|Kilifi County Overview]]
 - [[Kilifi Land|Kilifi Land]]
 - [[Kilifi Tourism|Kilifi Tourism]]
-- [[Kilifi Urban|Kilifi Town]]
+- Kilifi Town
 - [[Kilifi Women|Kilifi Women]]
 - [[Malindi Town|Malindi Town]]
 - [[Watamu|Watamu]]

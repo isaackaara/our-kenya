@@ -1,4 +1,4 @@
-Uhuru Muigai Kenyatta, [[Moi]]'s hand-picked successor and KANU's presidential candidate in 2002, entered the election as Moi's choice for power succession but departed as a devastated defeated candidate whose political future seemed permanently damaged. Uhuru's humiliating 31 percent loss to [[Kibaki]]'s 62 percent represented not merely an electoral defeat but a repudiation that called into question whether Uhuru possessed the political capacity to lead a major party or nation. The Kenyatta family's centrality in Kenyan politics since independence (his father, Jomo Kenyatta, was the founding president) provided Uhuru with a historical name and some political capital, but it proved insufficient against a coalition united around the expectation that Moi's era had ended.
+Uhuru Muigai Kenyatta, [[Daniel arap Moi Era]]'s hand-picked successor and KANU's presidential candidate in 2002, entered the election as Moi's choice for power succession but departed as a devastated defeated candidate whose political future seemed permanently damaged. Uhuru's humiliating 31 percent loss to [[Mwai Kibaki]]'s 62 percent represented not merely an electoral defeat but a repudiation that called into question whether Uhuru possessed the political capacity to lead a major party or nation. The Kenyatta family's centrality in Kenyan politics since independence (his father, Jomo Kenyatta, was the founding president) provided Uhuru with a historical name and some political capital, but it proved insufficient against a coalition united around the expectation that Moi's era had ended.
 
 Uhuru's selection as Moi's successor reflected both the logic of ethnic politics (both Uhuru and Moi were close to Kikuyu interests through their business dealings and patronage networks) and the question of succession within Moi's inner circles. Having ruled for 24 years and facing constitutional term limits, Moi faced the problem of how to ensure that a successor would protect his interests and those of his political allies. Uhuru, while much younger than Moi and lacking Moi's political experience, was nonetheless acceptable to the Moi establishment and, importantly, was regarded by Moi as likely to be amenable to influence and to protect the interests of the Moi-era regime and business elites.
 
@@ -19,8 +19,8 @@ Uhuru's post-2002 political trajectory demonstrated the long-term damage of elec
 ## See Also
 
 - [[2002 Election]]
-- [[KANU party history]]
-- [[Moi's succession plans]]
+- [[KANU]]
+- Moi's succession plans
 - [[2002 Election Moi Succession]]
 - [[Kenya]]
 - [[Uhuru Kenyatta]]

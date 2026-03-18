@@ -73,8 +73,8 @@ Kenya's coffee industry is unlikely to return to historical production levels. H
 - [[Tea Industry Kenya]] - Alternative cash crop with stronger institutional support
 - [[Agricultural Cooperatives]] - Cooperative governance in farming
 - [[Colonial Economy]] - Coffee as cornerstone of settler colonial agriculture
-- [[Climate Change Kenya]] - Drought and rainfall impacts on agriculture
-- [[Fair Trade Kenya]] - Premium pricing mechanisms for coffee
+- [[Climate Change Response]] - Drought and rainfall impacts on agriculture
+- Fair Trade Kenya - Premium pricing mechanisms for coffee
 - [[Post-Independence Economic Policy]] - State support for agricultural exports
 
 ## Sources

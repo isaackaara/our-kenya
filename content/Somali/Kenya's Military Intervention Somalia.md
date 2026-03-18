@@ -1,4 +1,4 @@
-In October 2011, Kenya launched Operation Linda Nchi (Swahili for "Protect the Country"), a military invasion of southern [[Somalia]] targeting [[Al-Shabaab]] and other militant groups. The operation marked Kenya's first major cross-border military intervention and has continued (with varying intensity) for 15+ years, becoming a permanent fixture of Kenya's military posture and regional geopolitics.
+In October 2011, Kenya launched Operation Linda Nchi (Swahili for "Protect the Country"), a military invasion of southern [[Somalia]] targeting [[al-shabaab]] and other militant groups. The operation marked Kenya's first major cross-border military intervention and has continued (with varying intensity) for 15+ years, becoming a permanent fixture of Kenya's military posture and regional geopolitics.
 
 ## Background and Triggering Events
 

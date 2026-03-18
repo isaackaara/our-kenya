@@ -8,7 +8,7 @@ The [[Uhuru and Corruption|corruption record]] is perhaps Uhuru's most damaging 
 
 The [[Uhuru and the Judiciary|judicial independence]] tested during the [[2017 Election and Nullification|2017 nullification]] and [[Building Bridges Initiative|BBI rulings]] established that Kenya's constitutional safeguards could withstand executive pressure, at least in Uhuru's case. Chief Justice [[David Maraga and Uhuru|David Maraga]]'s court demonstrated unprecedented courage in African context, annulling a presidential election and blocking constitutional amendments the sitting president championed. Whether this independence survives less restrained executives or more compliant judges remains to be tested, but Uhuru's presidency proved that judicial checks on presidential power were possible in Kenya, not just theoretical.
 
-The political realignments Uhuru engineered, particularly [[The Handshake March 2018|the 2018 handshake]] with [[Raila Odinga]] and the [[Uhuru and William Ruto Fallout|break with William Ruto]], reshaped Kenya's political landscape. The handshake ended the [[Kikuyu]]-Kalenjin "tyranny of numbers" coalition that had governed since 2013 and attempted to create a new elite settlement between Kenyatta and Odinga dynasties. However, the failure to translate this into electoral victory in [[Elections/2022 Presidential Election|2022]] when Ruto defeated Raila despite Uhuru's opposition demonstrated that elite bargains could not override grassroots political organization. The "dynasties versus hustlers" narrative Ruto deployed successfully against Uhuru and Raila may prove Uhuru's most consequential political legacy: a generational and class-based cleavage that transcends traditional ethnic coalitions.
+The political realignments Uhuru engineered, particularly [[The Handshake March 2018|the 2018 handshake]] with [[Raila Odinga]] and the [[Uhuru and William Ruto Fallout|break with William Ruto]], reshaped Kenya's political landscape. The handshake ended the [[Kikuyu]]-Kalenjin "tyranny of numbers" coalition that had governed since 2013 and attempted to create a new elite settlement between Kenyatta and Odinga dynasties. However, the failure to translate this into electoral victory in [[2022 Presidential Election|2022]] when Ruto defeated Raila despite Uhuru's opposition demonstrated that elite bargains could not override grassroots political organization. The "dynasties versus hustlers" narrative Ruto deployed successfully against Uhuru and Raila may prove Uhuru's most consequential political legacy: a generational and class-based cleavage that transcends traditional ethnic coalitions.
 
 The mixed record on development and inclusion tells a complex story. [[Uhuru and Devolution|Devolution]] delivered genuine benefits in many counties despite corruption, bringing government services closer to people and creating new political centers beyond the presidency. [[Uhuru Healthcare Policy|Linda Mama]] provided free maternal care, contributing to reduced maternal mortality. Rural electrification expanded access. However, the Big Four Agenda's [[Uhuru and Housing|affordable housing]] and manufacturing pillars failed dramatically. [[Uhuru Youth Unemployment Policy|Youth unemployment]] remained catastrophically high. The [[Uhuru and the Kenya Shilling|Kenya shilling]] weakened, and the cost of living increased. Inequality deepened as elites enriched themselves while ordinary Kenyans struggled.
 
@@ -22,9 +22,9 @@ How history will judge Uhuru's decade depends partly on unknowable futures. If K
 - [[2017 Election and Nullification]]
 - [[The Handshake March 2018]]
 - [[Uhuru and William Ruto Fallout]]
-- [[Elections/2022 Presidential Election]]
+- [[2022 Presidential Election]]
 - [[Uhuru Infrastructure Agenda]]
-- [[Kikuyu/Kikuyu Political Power]]
+- [[Kikuyu Political Power]]
 - [[Luo Political History]]
 
 ## Sources

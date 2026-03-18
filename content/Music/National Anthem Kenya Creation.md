@@ -14,7 +14,7 @@ The commission's decision to use Swahili rather than English or a vernacular lan
 
 The musical simplicity was deliberate. The anthem needed to be singable by schoolchildren, politicians at state functions, and crowds at national celebrations. Complexity would have limited participation. The straightforward melody and harmony ensured that virtually anyone could learn and sing the anthem regardless of musical training.
 
-The first official performance occurred at midnight on December 12, 1963, as [[Elections/1963 Independence Election|Kenya became independent]]. As the Union Jack was lowered and the new Kenyan flag raised at Uhuru Gardens in Nairobi, the assembled crowd sang "Ee Mungu Nguvu Yetu" for the first time as the official national anthem. This moment transformed a newly composed song into a sacred national symbol.
+The first official performance occurred at midnight on December 12, 1963, as [[1963 Independence Election|Kenya became independent]]. As the Union Jack was lowered and the new Kenyan flag raised at Uhuru Gardens in Nairobi, the assembled crowd sang "Ee Mungu Nguvu Yetu" for the first time as the official national anthem. This moment transformed a newly composed song into a sacred national symbol.
 
 Comparing Kenya's anthem to those of other newly independent African nations reveals both similarities and distinctions. Many African anthems of the 1960s drew on European musical forms, particularly hymns and marches. Kenya's choice to adapt rather than wholly create its anthem was common. The invocation of divine blessing also appeared in many African anthems, reflecting the continent's religious commitments.
 
@@ -32,7 +32,7 @@ The anthem's religious language occasionally generated debate. Should a secular 
 
 ## See Also
 - [[Independence Anthems Kenya]]
-- [[Elections/1963 Independence Election]]
+- [[1963 Independence Election]]
 - [[Jomo Kenyatta Presidency]]
 - [[European Missionary Music in Kenya]]
 - [[Mission Church Choirs Kenya]]

@@ -28,9 +28,9 @@ By the early 1970s, the character of the Kenyatta regime had become clearly auth
 - [[Kenyatta and the Media|Kenyatta and the Media]]
 - [[Kenyatta and the Luo|Kenyatta and the Luo]]
 - [[Kenyatta and Oginga Odinga|Kenyatta and Oginga Odinga]]
-- [[../../Kenya Peoples Union|Kenya Peoples Union]]
-- [[../../Preventive Detention Act|Preventive Detention Act]]
-- [[../../Kenya Authoritarianism|Kenya Authoritarianism]]
+- Kenya Peoples Union
+- Preventive Detention Act
+- [[Daniel arap Moi Era|Kenya Authoritarianism]]
 
 ## Sources
 

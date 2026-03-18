@@ -15,7 +15,7 @@ Challenges constraining sector growth include limited access to quality inputs s
 - [[Murang'a Climate|Climate Patterns]]
 - [[Murang'a Youth|Youth Livelihoods]]
 - [[Murang'a Women|Women Beekeepers]]
-- [[../../Conservation/Forest Conservation|Forest Resources]]
+- Forest Resources
 
 ## Sources
 

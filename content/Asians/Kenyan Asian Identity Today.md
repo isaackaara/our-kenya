@@ -55,7 +55,7 @@ Some young Asians plan to emigrate (for education, career, or life). Others are 
 - [[Asians who Stayed]]
 - [[Kenyan Asian Literature]]
 - [[Kenyan Asian Media]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

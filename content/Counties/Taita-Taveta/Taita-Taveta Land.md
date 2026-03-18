@@ -22,12 +22,12 @@ The county government, through devolution, acquired authority over land administ
 
 ## See Also
 - [[Taita-Taveta County]]
-- [[Land Tenure Kenya]]
+- Land Tenure Kenya
 - [[Land Rights Campaigns]]
-- [[Pastoral Land Use]]
-- [[Urban Land]]
+- Pastoral Land Use
+- Urban Land
 - [[Conservation]]
-- [[Land Disputes Kenya]]
+- Land Disputes Kenya
 
 ## Sources
 1. Taita-Taveta County Government. "County Spatial Development Plan." (2022). https://www.taitataveta.go.ke

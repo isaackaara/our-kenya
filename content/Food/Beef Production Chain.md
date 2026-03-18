@@ -24,7 +24,7 @@ Urban meat consumption patterns reflected income levels, with higher-income popu
 [[Food Processing Industry]]
 [[The NGO Economy]]
 [[Urban Food Supply Systems]]
-[[Meat Consumption Patterns]]
+Meat Consumption Patterns
 
 ## Sources
 

@@ -10,12 +10,12 @@ Kibaki's education at LSE also gave him facility with the language of internatio
 
 ## See Also
 
-[[London School of Economics and African Leaders]]
-[[Keynesian Economics in Development]]
+London School of Economics and African Leaders
+Keynesian Economics in Development
 [[Post-Independence Economic Policy]]
 [[Kibaki and the ICC]]
-[[International Financial Systems]]
-[[British Universities and African Education]]
+International Financial Systems
+British Universities and African Education
 
 ## Sources
 

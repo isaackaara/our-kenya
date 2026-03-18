@@ -1,4 +1,4 @@
-[[Climate Change|Climate change]] represents an emerging [[Conservation|conservation threat]] to Kenya's [[Wildlife|wildlife]], altering [[Rainfall Patterns|rainfall patterns]], temperature regimes, and [[Drought Frequency|drought frequency]]. These changes affect [[Wildlife Populations|wildlife populations]], [[Habitat Suitability|habitat suitability]], and [[Ecosystem Function|ecosystem function]] across Kenya's [[Marine Protected Areas|protected areas]] and [[Rangeland Systems|rangeland systems]]. The interactions between [[Climate-Driven Stress|climate stress]] and [[Poaching Crisis 1970s-1980s|poaching pressure]] create [[Compounded Extinction Risk|compounded extinction risks]].
+Climate change represents an emerging [[Conservation|conservation threat]] to Kenya's [[wildlife|wildlife]], altering rainfall patterns, temperature regimes, and drought frequency. These changes affect wildlife populations, habitat suitability, and ecosystem function across Kenya's [[Marine Protected Areas|protected areas]] and rangeland systems. The interactions between climate stress and [[Poaching Crisis 1970s-1980s|poaching pressure]] create compounded extinction risks.
 
 ## Altered Rainfall Patterns
 
@@ -61,10 +61,10 @@ This uncertainty argues for precautionary conservation approaches that maintain 
 ## See Also
 
 - [[Climate Change and Wildlife]]
-- [[Drought Impacts on Wildlife]]
-- [[Protected Area Vulnerability]]
-- [[Wildlife Adaptation Strategies]]
-- [[Habitat Corridors and Connectivity]]
+- Drought Impacts on Wildlife
+- Protected Area Vulnerability
+- Wildlife Adaptation Strategies
+- Habitat Corridors and Connectivity
 - [[Conservation]]
 - [[Future of Kenya's Wildlife]]
 

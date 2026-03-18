@@ -2,7 +2,7 @@ The SACCO Movement (Savings and Credit Cooperative Organisations) is one of Keny
 
 ## Origins and Growth
 
-SACCOs emerged in [[Kenya]] in the 1960s-1970s as informal [[savings groups]]. [[Foreign Workers Kenya|Workers]] and [[self-employed Kenya|self-employed people]] pooled savings to obtain [[loans Kenya]] for business, education, housing, and emergencies. The model proved enormously popular, particularly among [[rural Kenya|rural]] and lower-income populations.
+SACCOs emerged in [[Kenya]] in the 1960s-1970s as informal [[Savings Groups]]. [[Foreign Workers Kenya|Workers]] and self-employed people pooled savings to obtain loans Kenya for business, education, housing, and emergencies. The model proved enormously popular, particularly among rural and lower-income populations.
 
 By the 1980s, SACCOs had become formalised. The government recognised them as legal entities. Regulations were developed. By 2026, SACCOs are a major financial sector rivalling and sometimes surpassing traditional banks in total assets in some regions.
 
@@ -62,12 +62,12 @@ Digital SACCOs and online SACCO management platforms are emerging, which could i
 
 ## See Also
 
-- [[Cooperative Movement Kenya]]
+- [[Agricultural Marketing Systems]]
 - [[Banking History Kenya]]
 - [[Financial Inclusion Kenya]]
 - [[Microfinance Kenya]]
-- [[Rural Finance Kenya]]
-- [[Member-Based Organisations Kenya]]
+- Rural Finance Kenya
+- [[Agricultural Marketing Systems]]
 - [[Savings Groups]]
 
 ## Sources

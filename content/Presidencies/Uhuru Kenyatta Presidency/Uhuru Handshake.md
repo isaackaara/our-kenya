@@ -65,7 +65,7 @@ However, the handshake did not resolve Kenya's underlying political tensions. Et
 - [[Uhuru BBI]]
 - [[William Ruto]]
 - [[Building Bridges Initiative]]
-- [[Orange Democratic Movement]]
+- Orange Democratic Movement
 - [[Jubilee Party]]
 - [[Kenyan Hip-Hop]]
 

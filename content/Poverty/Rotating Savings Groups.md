@@ -9,7 +9,7 @@ Limitations and risks of ROSCAs deserve acknowledgment. Leadership dominance and
 The relationship between ROSCAs and formal financial services is evolving. Financial inclusion policies have promoted ROSCA integration with formal financial institutions: banks provide credit to groups; mobile money platforms enable efficient fund transfers. Regulation of ROSCAs has been limited, preserving their informal character while potentially creating risk. Women's ROSCA participation has been particularly high, providing financial services and social support simultaneously. Development organizations have promoted ROSCA participation as poverty reduction strategy; however, evidence suggests ROSCAs function best as consumption smoothing and targeted savings mechanisms rather than as engines of economic transformation. Their role remains important for survival and resilience, though not sufficient for poverty elimination.
 
 ## See Also
-[[Informal Insurance]], [[Microfinance Access]], [[Informal Sector]], [[Savings and Credit]], [[Financial Inclusion]], [[Poverty Measurement]], [[Women's Economic Empowerment]], [[Economic Resilience]]
+[[Informal Insurance]], [[Microfinance Access]], [[Informal Sector]], Savings and Credit, [[Financial Inclusion]], [[Poverty Measurement]], Women's Economic Empowerment, Economic Resilience
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Informal Finance and ROSCA Participation Survey." https://www.knbs.or.ke

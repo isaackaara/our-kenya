@@ -2,7 +2,7 @@ The Lancaster House Conferences (held in 1960 and 1962) were the formal negotiat
 
 ## The Settler Fear
 
-By 1960, European settlers in Kenya were acutely aware that decolonisation was coming. They had seen independence occur in [[Ghana]] (1957) and across Africa. They knew that African majority rule meant the end of the racial hierarchies and privileges that colonialism had created. The settler question was urgent: what would become of our land?
+By 1960, European settlers in Kenya were acutely aware that decolonisation was coming. They had seen independence occur in Ghana (1957) and across Africa. They knew that African majority rule meant the end of the racial hierarchies and privileges that colonialism had created. The settler question was urgent: what would become of our land?
 
 Settlers feared expropriation. They had acquired land under colonial law, but colonial law would no longer be supreme. An independent African government might seize settler land and redistribute it. Some settlers talked of armed resistance. Most accepted that they would need to negotiate.
 
@@ -47,4 +47,4 @@ The settlers left behind: productive farms and ranches, roads and irrigation sys
 - [[Land Restitution Debate]] - Post-independence land questions
 - [[Jomo Kenyatta]] - Independent Kenya's first leader
 - [[Mau Mau Uprising]] - Uprising preceding independence
-- [[Million-Acre Scheme]] - Land redistribution mechanism
+- Million-Acre Scheme - Land redistribution mechanism

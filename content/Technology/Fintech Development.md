@@ -10,7 +10,7 @@ Government regulation evolved to accommodate fintech innovation while maintainin
 
 ## See Also
 
-[[M-Pesa Mobile Money]], [[Digital Payment Systems]], [[Mobile Banking Services]], [[Financial Inclusion]], [[Tech Startups Ecosystem]], [[Central Bank Regulation]]
+[[M-Pesa Mobile Money]], [[Digital Payment Systems]], [[Mobile Banking Services]], [[Financial Inclusion]], [[Tech Startups Ecosystem]], Central Bank Regulation
 
 ## Sources
 

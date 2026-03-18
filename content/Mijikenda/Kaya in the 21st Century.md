@@ -1,8 +1,8 @@
-The future of the kaya system in the 21st century remains uncertain. The kayas face multiple [[challenges]]: declining youth participation, climate change, deforestation, and the pull of modernization. Yet they also benefit from growing international recognition (through UNESCO World Heritage designation), from cultural preservation movements, and from some communities' commitment to maintaining traditions.
+The future of the kaya system in the 21st century remains uncertain. The kayas face multiple challenges: declining youth participation, climate change, deforestation, and the pull of modernization. Yet they also benefit from growing international recognition (through UNESCO World Heritage designation), from cultural preservation movements, and from some communities' commitment to maintaining traditions.
 
 ## The UNESCO Designation as Double-Edged Sword
 
-The 2008 UNESCO World Heritage inscription of the kaya forests provides international recognition and legal protection. The designation attracts [[conservation]] funding and technical support and creates international pressure against deforestation. However, the inscription also imposes international management frameworks that sometimes conflict with local governance traditions and with Mjikenda resource use patterns.
+The 2008 UNESCO World Heritage inscription of the kaya forests provides international recognition and legal protection. The designation attracts [[Conservation]] funding and technical support and creates international pressure against deforestation. However, the inscription also imposes international management frameworks that sometimes conflict with local governance traditions and with Mjikenda resource use patterns.
 
 The UNESCO designation is recognized by Mjikenda communities as both opportunity (for protection) and constraint (on autonomy).
 

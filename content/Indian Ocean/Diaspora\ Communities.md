@@ -22,9 +22,9 @@ The decline of traditional diaspora communities reflected changes in commercial 
 
 [[Merchant Networks]]
 [[Trading Colonies]]
-[[Cultural Exchange]]
-[[Religious Communities]]
-[[Long-Distance Commerce]]
+Cultural Exchange
+Religious Communities
+Long-Distance Commerce
 
 ## Sources
 

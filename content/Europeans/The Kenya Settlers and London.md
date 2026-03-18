@@ -1,4 +1,4 @@
-[[1963 Election European Settlers]] in Kenya maintained close ties to [[London Marathon Kenya]] and lobbied intensively the [[Luo and the British]] to support their interests. [[Settler delegations]] traveled to London, hired agents, and leveraged [[political connections]] to influence policy on [[land allocation]], [[Labor Deregulation]], and [[political representation]]. The settler [[lobbying campaign]] was partially successful but was constrained by broader [[Luo and the British]] and by post-World War II [[decolonization pressure]].
+[[1963 Election European Settlers]] in Kenya maintained close ties to [[London Marathon Kenya]] and lobbied intensively the [[Luo and the British]] to support their interests. Settler delegations traveled to London, hired agents, and leveraged political connections to influence policy on land allocation, [[Labor Deregulation]], and political representation. The settler lobbying campaign was partially successful but was constrained by broader [[Luo and the British]] and by post-World War II decolonization pressure.
 
 ## Settler Political Organization
 

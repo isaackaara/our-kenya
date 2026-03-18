@@ -6,7 +6,7 @@ The context of genealogical research techniques illuminates how local, regional,
 
 ## See Also
 
-[[Research]], [[Kenya History]], [[Historical Development]]
+Research, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

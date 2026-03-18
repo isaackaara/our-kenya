@@ -17,7 +17,7 @@ Mombasa's colonial development created environmental consequences including harb
 [[Colonial Urban Planning]]
 [[Nairobi Development]]
 [[Swahili City-States]]
-[[Colonial Commerce Control]]
+Colonial Commerce Control
 [[Port Infrastructure]]
 [[Arab Traders Ocean]]
 

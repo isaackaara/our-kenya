@@ -67,8 +67,8 @@ Ruto's administration inherited corruption from Uhuru's tenure but also faced it
 - [[Kenya Anti-Corruption Commission]]
 - [[Jubilee Party]]
 - [[The Constitution of 2010]]
-- [[Kenya Judiciary and Corruption]]
-- [[Ruto Anti-Corruption Claims]]
+- Kenya Judiciary and Corruption
+- Ruto Anti-Corruption Claims
 - [[Public Art]]
 
 ## Sources

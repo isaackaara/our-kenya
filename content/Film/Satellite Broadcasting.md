@@ -8,7 +8,7 @@ The technical advantages of satellite broadcasting enabled international content
 
 The economic models of satellite broadcasting differed from terrestrial broadcasting. Satellite broadcasters typically relied on subscriber fees rather than advertising revenue. Premium satellite services offered advertising-free programming or minimal advertising. This subscription-based model allowed satellite operators to maintain programming quality while limiting advertising interruption that terrestrial broadcasters depended on. The economic separation of satellite and terrestrial models reflected their different audience segments and business strategies.
 
-See Also: [[Cable Television]], [[Digital Television]], [[Television Operations]], [[Free-to-Air Broadcasting]], [[KTN Broadcasting]], [[Satellite Services]], [[KTN Broadcasting]]
+See Also: [[Cable Television]], [[Digital Television]], [[Television Operations]], [[Free-to-Air Broadcasting]], [[KTN Broadcasting]], Satellite Services, [[KTN Broadcasting]]
 
 Sources:
 1. https://www.dstv-east-africa.com/

@@ -29,9 +29,9 @@
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya 2022 Election|Kenya 2022 Election]]
-- [[Kenya 2023 Protests|Kenya 2023 Protests]]
-- [[Kenya Post-2022 Politics|Kenya Post-2022 Politics]]
+- [[2022 Presidential Election|Kenya 2022 Election]]
+- [[Gen Z Protests 2024|Kenya 2023 Protests]]
+- [[William Ruto Presidency|Kenya Post-2022 Politics]]
 
 ## Sources
 

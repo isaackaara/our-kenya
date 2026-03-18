@@ -29,8 +29,8 @@ Nyayo House torture chambers revealed the Moi regime at its most brutal: a state
 - [[1982 Constitution Amendment]]
 - [[Section 2A Repeal 1991]]
 - [[Moi and the Universities]]
-- [[Cross-Ethnic/State Violence Against Dissidents]]
-- [[Corruption/Impunity for State Crimes]]
+- State Violence Against Dissidents
+- Impunity for State Crimes
 
 ## Sources
 1. Kenya Human Rights Commission. *Lest We Forget: The Faces of Impunity in Kenya*. KHRC, 2002. https://www.khrc.or.ke/publications/

@@ -67,7 +67,7 @@ By the twenty-first century, younger generations of Gujarati Kenyans were someti
 - [[Gujarati Hindus Kenya]]
 - [[Bidco Group]]
 - [[Chandaria Group]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

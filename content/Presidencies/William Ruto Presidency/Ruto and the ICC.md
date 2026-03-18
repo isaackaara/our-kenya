@@ -8,8 +8,8 @@ Kenya's relationship with the ICC has been ambivalent since Ruto's presidency be
 
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[International Criminal Court|International Criminal Court]]
-- [[Kenya Post-Election Violence 2007|Kenya Post-Election Violence 2007]]
-- [[Kenya Justice and Accountability|Kenya Justice and Accountability]]
+- Kenya Post-Election Violence 2007
+- [[Impunity in Kenya|Kenya Justice and Accountability]]
 
 ## Sources
 

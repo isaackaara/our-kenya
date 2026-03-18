@@ -16,7 +16,7 @@ Contemporary real estate challenges include land tenure insecurity, regulatory c
 [[Housing Shortage]]
 [[Affordable Housing]]
 [[Urban Planning Development]]
-[[Land Tenure]]
+[[Land Tenure Post Independence]]
 [[Commercial Building]]
 [[Wealth Gap]]
 

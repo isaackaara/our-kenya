@@ -18,7 +18,7 @@ The first cabinet was also the moment when Moi's most notorious loyalty networks
 [[Moi and the Njonjo Affair]]
 [[Moi Rise to Power]]
 [[Moi and Nicholas Biwott]]
-[[Kenya/Early Independence]]
+Early Independence
 
 ## Sources
 1. https://www.britannica.com/biography/Daniel-arap-Moi (accessed 2024)

@@ -16,7 +16,7 @@ Post-rebellion Kenya witnessed complex relationships between churches and former
 [[Independent African Churches]]
 [[Christianity and Colonial Missions]]
 [[Religion Nation Building 1963]]
-[[Colonial Kenya/Resistance Movements]]
+Resistance Movements
 
 ## Sources
 

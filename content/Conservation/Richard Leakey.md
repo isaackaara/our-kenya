@@ -1,4 +1,4 @@
-[[Richard Leakey]] is a renowned [[paleontologist]], [[paleoanthropologist]], and [[Conservation]] who served as Director of the [[Kenya Wildlife Service]] (1989-1994) and later held conservation leadership roles. Leakey's tenure at KWS transformed the organization into an effective conservation force, establishing a model for wildlife protection that influenced conservation globally.
+[[Richard Leakey]] is a renowned paleontologist, paleoanthropologist, and [[Conservation]] who served as Director of the [[Kenya Wildlife Service]] (1989-1994) and later held conservation leadership roles. Leakey's tenure at KWS transformed the organization into an effective conservation force, establishing a model for wildlife protection that influenced conservation globally.
 
 ## Paleontological Career
 
@@ -54,7 +54,7 @@ However, his legacy encompasses both conservation successes and contested approa
 - [[The 1989 Ivory Burning]] - Symbolic action
 - [[Fortress Conservation Critique]] - Contested approaches
 - [[Anti-Poaching Technology]] - Enforcement strategies
-- [[Paleontology Kenya]] - Scientific background
+- Paleontology Kenya - Scientific background
 
 ## Sources
 

@@ -22,7 +22,7 @@ Post-2010 devolution transferred medical equipment procurement responsibility to
 [[Hospital Infrastructure Standards]]
 [[Rural Healthcare Access]]
 [[Maternal Health Technology]]
-[[Diagnostic Imaging Services]]
+Diagnostic Imaging Services
 [[Healthcare Policy Evolution]]
 [[Occupational Health Safety]]
 [[Medical Training Education]]

@@ -1,27 +1,27 @@
-Submarine fiber-optic cables landing at [[Mombasa]] transformed [[Kenya]]'s [[Internet Kenya|internet access]] and enabled the [[tech sector Kenya|tech sector]]. Cables deployed since 2009 (SEACOM, TEAMS, EASSy, LION2) reduced bandwidth costs from USD 1000+ per Mbps to USD 1-5 per Mbps.
+Submarine fiber-optic cables landing at [[Mombasa]] transformed [[Kenya]]'s [[Internet Kenya|internet access]] and enabled the tech sector. Cables deployed since 2009 (SEACOM, TEAMS, EASSy, LION2) reduced bandwidth costs from USD 1000+ per Mbps to USD 1-5 per Mbps.
 
 ## Overview
 
-[[Submarine cables Kenya|Submarine cables]] are the backbone of [[East Africa]]'s internet infrastructure. Kenya's cables connect to global [[Internet Kenya|internet backbone]] networks, enabling [[digital commerce Kenya|digital commerce]], [[fintech Kenya|fintech]], and [[online services Kenya|online services]].
+[[Submarine Cables Kenya|Submarine cables]] are the backbone of [[East Africa]]'s internet infrastructure. Kenya's cables connect to global [[Internet Kenya|internet backbone]] networks, enabling digital commerce, [[Fintech Kenya|fintech]], and online services.
 
 ## Key Points
 
 - Multiple cables land at [[Mombasa|Mombasa]] (redundancy is critical)
 - Cost reduction enabled [[Silicon Savannah]]
-- [[bandwidth Kenya|Bandwidth]] availability is crucial for [[tech innovation Kenya|tech innovation]]
-- [[competition Kenya|Competition]] between cable operators affects pricing
+- Bandwidth availability is crucial for tech innovation
+- Competition between cable operators affects pricing
 
 ## Outlook
 
-Cable capacity will continue expanding as demand grows. Local [[content Kenya|content]] infrastructure and data centers are becoming important.
+Cable capacity will continue expanding as demand grows. Local content infrastructure and data centers are becoming important.
 
 ## See Also
 
 - [[Silicon Savannah]]
 - [[Mombasa Port]]
-- [[Telecommunications Kenya]]
-- [[Digital Infrastructure Kenya]]
-- [[Internet History Kenya]]
+- [[Digital Economy Kenya]]
+- Digital Infrastructure Kenya
+- Internet History Kenya
 - [[Technology]]
 - [[East Africa]]
 

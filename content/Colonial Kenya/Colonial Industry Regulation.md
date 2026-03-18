@@ -21,7 +21,7 @@ By independence in 1963, Kenya had inherited an underdeveloped industrial sector
 [[Colonial Manufacturing]]
 [[Colonial Trade Unions]]
 [[Colonial Labor Codes]]
-[[Colonial Tariffs]]
+Colonial Tariffs
 [[British East Africa Administration]]
 [[Railway Development]]
 [[Colonial Science Research]]

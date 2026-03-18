@@ -1,6 +1,6 @@
 The East African Literature Bureau emerged as pivotal institutional force in postcolonial Kenya's literary development, providing publishing infrastructure, editorial oversight, and financial support that enabled wider circulation of literature in African languages. Initially established as regional organization in 1947, the bureau operated as both colonial instrument and enabling structure for indigenous literary expression, manifesting the contradictions of institutional development under empire and in its aftermath.
 
-The East African Literature Bureau was established by British High Commission in 1947 as [[East Africa governments (Kenya, Tanzania and Uganda)]] collaborated in creating regional publishing capacity. The organization derived from the missionary-owned [[Ndia Kuu Press]], suggesting continuities between missionary evangelization and secular publication infrastructure. The bureau's mandate to publish books for general public in Kiswahili, East African vernacular languages, and English reflected imperial interest in extending literacy while paradoxically creating conditions enabling indigenous literary expression.
+The East African Literature Bureau was established by British High Commission in 1947 as East Africa governments (Kenya, Tanzania and Uganda) collaborated in creating regional publishing capacity. The organization derived from the missionary-owned Ndia Kuu Press, suggesting continuities between missionary evangelization and secular publication infrastructure. The bureau's mandate to publish books for general public in Kiswahili, East African vernacular languages, and English reflected imperial interest in extending literacy while paradoxically creating conditions enabling indigenous literary expression.
 
 The bureau's commitment to publishing in African languages proved consequential for literary development. Rather than privileging English as sole language of prestige and literary authority, the institution provided publication pathways for writing in Kiswahili and other regional languages. This linguistic pluralism supported literary production in forms accessible to broader audiences while validating African languages as worthy vehicles for literary expression.
 
@@ -25,7 +25,7 @@ The bureau exemplifies broader questions about state roles in literary culture. 
 [[Literature]]
 [[Literature]]
 [[Colonial Publishing]]
-[[State Cultural Policy Kenya]]
+State Cultural Policy Kenya
 [[Literary Journals Publishing]]
 [[Children's Literature Kenya]]
 

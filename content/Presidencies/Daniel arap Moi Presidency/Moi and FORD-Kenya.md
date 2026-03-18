@@ -17,10 +17,10 @@ The experience of FORD-Kenya also revealed the international dimension of Kenya'
 ## See Also
 [[FORD Formation]]
 [[Moi and Oginga Odinga]]
-[[Elections/1992 General Election]]
-[[Elections/1997 General Election]]
+1992 General Election
+1997 General Election
 [[Moi and the Opposition]]
-[[Kenya/Multiparty Transition]]
+[[Multiparty Transition]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

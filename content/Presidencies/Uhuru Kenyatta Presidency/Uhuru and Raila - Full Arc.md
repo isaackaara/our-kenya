@@ -1,6 +1,6 @@
 The relationship between [[Uhuru Kenyatta]] and [[Raila Odinga]] traces the most complex political arc in modern Kenyan history, evolving from violent enemies in 2007 to electoral rivals in 2013 and 2017, to governing partners after [[The Handshake March 2018|the 2018 handshake]], to Uhuru actively supporting Raila's failed 2022 presidential bid against his own deputy [[William Ruto]]. The relationship reshaped Kenyan politics multiple times, demonstrating that elite bargains, not ideology or ethnicity, drive Kenya's political configurations, and that yesterday's enemies can become today's allies when interests align.
 
-The 2007-2008 period established Uhuru and Raila as bitter enemies. During the [[2007 Post-Election Violence]], Uhuru was a senior figure in [[Mwai Kibaki]]'s Party of National Unity, while Raila led the Orange Democratic Movement challenging what he claimed was a stolen election. The violence that followed killed over 1,100 people, with [[Kikuyu]] and [[Luo]] communities suffering disproportionately on opposite sides. The International Criminal Court's [[Uhuru Kenyatta and the ICC|investigation into post-election violence]] indicted Uhuru for allegedly organizing attacks against ODM supporters, including Raila's Luo base. The personal animosity was deep: Raila saw Uhuru as a beneficiary of electoral theft and ethnic violence; Uhuru saw Raila as responsible for destabilizing the country.
+The 2007-2008 period established Uhuru and Raila as bitter enemies. During the [[2007-2008 Post Election Violence]], Uhuru was a senior figure in [[Mwai Kibaki]]'s Party of National Unity, while Raila led the Orange Democratic Movement challenging what he claimed was a stolen election. The violence that followed killed over 1,100 people, with [[Kikuyu]] and [[Luo]] communities suffering disproportionately on opposite sides. The International Criminal Court's [[Uhuru Kenyatta and the ICC|investigation into post-election violence]] indicted Uhuru for allegedly organizing attacks against ODM supporters, including Raila's Luo base. The personal animosity was deep: Raila saw Uhuru as a beneficiary of electoral theft and ethnic violence; Uhuru saw Raila as responsible for destabilizing the country.
 
 The 2013 and 2017 elections deepened the rivalry. Uhuru and [[William Ruto]] formed the [[Jubilee Alliance Formation 2013|Jubilee Alliance]] explicitly to defeat Raila, using their ICC indictments as political assets and the "tyranny of numbers" ethnic arithmetic to secure victory. Raila challenged both results in the Supreme Court: in [[2013 Election and Supreme Court|2013]], he lost 4-2; in [[2017 Election and Nullification|2017]], he won 4-2, with the court nullifying Uhuru's victory in an unprecedented ruling. The [[2017 Repeat Election and Raila Boycott|October 2017 repeat election]], which Raila boycotted, left Kenya polarized and Uhuru's legitimacy questioned. By early 2018, the two men represented irreconcilable political camps, and Kenya appeared headed for prolonged crisis.
 
@@ -13,17 +13,17 @@ The 2022 election tested whether the Uhuru-Raila alliance could deliver electora
 The Uhuru-Raila relationship's broader significance lies in what it reveals about Kenyan politics. Ethnic identities and historical grievances matter, but elite interests matter more. Political partnerships are transactional and can reconfigure with stunning speed when calculations change. Presidential endorsements and state support are valuable but not determinative. And the sons of Jomo Kenyatta and Jaramogi Oginga Odinga, whose fathers' rivalry defined independent Kenya's first decades, could ultimately work together, suggesting that Kenyan politics is less about inherited tribal animosities and more about contemporary elite bargaining over power and resources.
 
 ## See Also
-- [[2007 Post-Election Violence]]
-- [[Elections/2013 Presidential Election]]
+- [[2007-2008 Post Election Violence]]
+- [[2013 Presidential Election]]
 - [[2017 Election and Nullification]]
 - [[The Handshake March 2018]]
 - [[Building Bridges Initiative]]
 - [[Uhuru and William Ruto Fallout]]
-- [[Elections/2022 Presidential Election]]
+- [[2022 Presidential Election]]
 - [[Raila Odinga]]
 - [[Luo Political History]]
-- [[Kikuyu/Kikuyu Political Power]]
-- [[Cross-Ethnic/Political Coalitions]]
+- [[Kikuyu Political Power]]
+- Political Coalitions
 
 ## Sources
 1. "From Rivals to Allies: The Uhuru-Raila Political Journey," The East African, August 2022. https://www.theeastafrican.co.ke/tea/news/east-africa/uhuru-raila-political-journey-3896446

@@ -9,7 +9,7 @@ Household surveys provide income distribution data enabling inequality analysis.
 The temporal consistency of household survey findings across decades provides confidence that observed patterns reflect reality rather than measurement artifact. Rural poverty in Kenya has remained substantially higher than urban poverty for decades; regional disparities have persisted; and gender differentials have remained visible. However, specific prevalence estimates change across survey rounds due to methodological changes, inflation adjustments, and actual conditions changes. Policy decisions follow from survey findings, making survey methodology politically significant: different techniques or assumptions generate different poverty estimates, potentially influencing resource allocation and program design.
 
 ## See Also
-[[Poverty Measurement]], [[Data Quality and Methodology]], [[Income Distribution]], [[Regional Poverty Disparities]], [[Gender Pay Gap]], [[Survey Methodology]], [[Statistical Capacity]], [[Development Aid]]
+[[Poverty Measurement]], Data Quality and Methodology, Income Distribution, [[Regional Poverty Disparities]], [[Gender Pay Gap]], Survey Methodology, Statistical Capacity, [[Development Aid]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "2015-2016 Integrated Household Budget Survey." https://www.knbs.or.ke

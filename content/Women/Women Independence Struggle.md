@@ -1,6 +1,6 @@
-Women's participation in Kenya's independence struggle, particularly the [[Mau Mau Rebellion]] (1952-1960), was substantial and multifaceted, encompassing active combatancy, supply networks, intelligence gathering, and political organization. Yet post-independence, women's contributions were largely erased from nationalist historiography, and women were systematically excluded from political authority despite their central role in anti-colonial resistance. This gap between women's struggle contributions and post-independence political marginalization became foundational to women's rights activism.
+Women's participation in Kenya's independence struggle, particularly the [[Mau Mau Uprising]] (1952-1960), was substantial and multifaceted, encompassing active combatancy, supply networks, intelligence gathering, and political organization. Yet post-independence, women's contributions were largely erased from nationalist historiography, and women were systematically excluded from political authority despite their central role in anti-colonial resistance. This gap between women's struggle contributions and post-independence political marginalization became foundational to women's rights activism.
 
-Kenyan women, particularly from [[Kikuyu/Kikuyu People and Culture|Kikuyu]] communities at the rebellion's center, joined Mau Mau for diverse motivations. Some opposed colonial land expropriation that affected their families' livelihoods. Others resisted forced labor, exploitative colonial administration, and racial discrimination. Some were recruited or coerced into participation by family members already involved. Young women joined as combatants and supporters, taking oaths binding them to secrecy and collective struggle.
+Kenyan women, particularly from [[Kikuyu People and Culture|Kikuyu]] communities at the rebellion's center, joined Mau Mau for diverse motivations. Some opposed colonial land expropriation that affected their families' livelihoods. Others resisted forced labor, exploitative colonial administration, and racial discrimination. Some were recruited or coerced into participation by family members already involved. Young women joined as combatants and supporters, taking oaths binding them to secrecy and collective struggle.
 
 Women combatants in Mau Mau, estimated at 5-15 percent of active fighters depending on source, engaged in reconnaissance, ambush participation, and armed combat. Women operated supply chains maintaining fighter provision, often at significant personal risk, moving food, ammunition, and medicines through colonial security cordons. They served as intelligence gatherers, leveraging their mobility and assumed non-threatening status to move through colonial security zones collecting information on British military movements. Women's political organizing continued clandestine anti-colonial agitation even as British counterinsurgency intensified.
 
@@ -16,12 +16,12 @@ Women's independence struggle participation became foundation for contemporary f
 
 ## See Also
 
-[[Mau Mau Rebellion]]
+[[Mau Mau Uprising]]
 [[Feminism Post-Independence]]
 [[Women Organizations Advocacy]]
 [[Female Government Representation]]
 [[Women Leadership Capacity]]
-[[Kikuyu/Kikuyu People and Culture|Kikuyu Histories]]
+[[Kikuyu People and Culture|Kikuyu Histories]]
 
 ## Sources
 

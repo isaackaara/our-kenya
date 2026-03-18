@@ -17,10 +17,10 @@ The art collection also reflected the broader problem of how Kenya would address
 ## See Also
 [[Moi Post-Presidency]]
 [[Moi and the Kalenjin]]
-[[Kenya/Cultural Heritage]]
+[[Cultural Heritage]]
 [[Kenya]]
 [[Moi Legacy]]
-[[Kenya/Truth and Reconciliation]]
+[[Truth and Reconciliation]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

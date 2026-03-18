@@ -8,8 +8,8 @@ The impeachment proceedings were controversial, with supporters of Gachagua argu
 
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[2022 Election Rigathi Gachagua|Rigathi Gachagua]]
-- [[Kenya Vice Presidency|Kenya Vice Presidency]]
-- [[Kenya Political Tensions|Kenya Political Tensions]]
+- [[Government|Kenya Vice Presidency]]
+- Kenya Political Tensions
 
 ## Sources
 

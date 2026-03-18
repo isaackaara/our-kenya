@@ -23,8 +23,8 @@ Legal frameworks protecting disabled people exist nominally, yet enforcement is 
 ## See Also
 
 [[Gender-Based Violence]]
-[[Women and Health]]
-[[Women Education Barriers]]
+Women and Health
+Women Education Barriers
 [[Women Economic Empowerment Kenya]]
 [[Constitutional Rights Kenya]]
 [[Women Leadership Capacity]]

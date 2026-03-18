@@ -14,11 +14,11 @@ The 1992 opposition leaders (Odinga, Matiba, Kibaki) also learned lessons about 
 
 - [[1992 Election]]
 - [[Moi and the Opposition]]
-- [[Coalition Building]]
-- [[Electoral Competition Learning]]
+- Coalition Building
+- Electoral Competition Learning
 - [[Moi and the Opposition]]
-- [[Incumbent Advantage]]
-- [[Electoral Lessons Kenya]]
+- Incumbent Advantage
+- Electoral Lessons Kenya
 
 ## Sources
 

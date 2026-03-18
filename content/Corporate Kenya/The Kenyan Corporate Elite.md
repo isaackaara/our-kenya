@@ -1,26 +1,26 @@
-Kenya's corporate elite - the individuals and families controlling major businesses - reflect the political economy of independence. The [[Kenya]], the [[Moi Family Business Interests]], and connected business families accumulated wealth through [[parastatals Kenya|parastatals]], [[Kibaki and Kenya Commercial Bank Privatisation|privatisation]], and [[government contracts Kenya|government contracts]]. Political access was more important than operational skill.
+Kenya's corporate elite - the individuals and families controlling major businesses - reflect the political economy of independence. The [[Kenya]], the [[Moi Family Business Interests]], and connected business families accumulated wealth through [[Parastatals Kenya|parastatals]], [[Kibaki and Kenya Commercial Bank Privatisation|privatisation]], and government contracts. Political access was more important than operational skill.
 
 ## Overview
 
-The [[Corporate Kenya|corporate elite]] is concentrated in [[Nairobi]], with some leaders based in other cities. Wealth is often inherited or connected to political power rather than newly created through [[entrepreneurship Kenya|entrepreneurship]].
+The [[Corporate Kenya|corporate elite]] is concentrated in [[Nairobi]], with some leaders based in other cities. Wealth is often inherited or connected to political power rather than newly created through [[Entrepreneurship Kenya|entrepreneurship]].
 
 ## Key Points
 
 - [[Wealth Gap|Wealth concentration]] among political families
-- [[Access Kenya|Access]] to [[Women Civil Service Government Kenya|government]] is key to success
-- [[Family businesses Kenya|Family businesses]] dominate many sectors
-- [[New entrepreneurs Kenya|New entrepreneurs]] face barriers to entry
+- Access to [[Women Civil Service Government Kenya|government]] is key to success
+- Family businesses dominate many sectors
+- New entrepreneurs face barriers to entry
 
 ## Outlook
 
-Generational wealth transfer will likely maintain elite dominance unless reforms increase [[Transparency International Kenya|transparency]] and [[accountability Kenya|accountability]].
+Generational wealth transfer will likely maintain elite dominance unless reforms increase [[Transparency International Kenya|transparency]] and accountability.
 
 ## See Also
 
 - [[Jomo Kenyatta]]
 - [[Post-Independence Economic Policy]]
 - [[Parastatals Kenya]]
-- [[Business Families Kenya]]
+- Business Families Kenya
 - [[Wealth Gap]]
 - [[The NGO Economy]]
 - [[Corporate Kenya]]

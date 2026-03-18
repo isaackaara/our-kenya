@@ -4,7 +4,7 @@ title: Meru Women in History
 
 # Meru Women in Historical and Contemporary Context
 
-While [[Meru oral and written history]] has been dominated by [[male figures]], [[women]] have played significant roles in [[Meru society and history]].
+While Meru oral and written history has been dominated by male figures, [[Women]] have played significant roles in Meru society and history.
 
 ## Historical Roles
 

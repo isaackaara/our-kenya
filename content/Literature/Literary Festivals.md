@@ -18,7 +18,7 @@ Contemporary literary festivals increasingly addressed social and political them
 - [[Publishing Industry Kenya]]
 - [[Literary Awards]]
 - [[Writers Associations]]
-- [[Nairobi International Book Fair]]
+- Nairobi International Book Fair
 - [[University Press Publications]]
 - [[Independent Publishers]]
 - [[Bookshops Literary Culture]]

@@ -1,10 +1,10 @@
-The further fragmentation of the [[Forum for the Restoration of Democracy (FORD)]] between its 1992 emergence and the 1997 election represented a critical development in the opposition's decline relative to Moi's political position. FORD, which had been the initial vehicle for Kenya's return to multipartyism in 1992, had already split into FORD-Kenya (led by Michael Waiyaki) and FORD-Asili (led by Martin Shikuku and Kenneth Matiba) by 1992. By 1997, both FORD factions had further deteriorated, while other opposition parties had risen to greater prominence.
+The further fragmentation of the Forum for the Restoration of Democracy (FORD) between its 1992 emergence and the 1997 election represented a critical development in the opposition's decline relative to Moi's political position. FORD, which had been the initial vehicle for Kenya's return to multipartyism in 1992, had already split into FORD-Kenya (led by Michael Waiyaki) and FORD-Asili (led by Martin Shikuku and Kenneth Matiba) by 1992. By 1997, both FORD factions had further deteriorated, while other opposition parties had risen to greater prominence.
 
 FORD-Kenya, the more established of the two FORD factions, had struggled to establish a coherent national platform since 1992. The party's base remained regionally concentrated (particularly in western Kenya among Luhya constituencies), and its leadership had failed to expand beyond its regional stronghold. In 1997, FORD-Kenya contested the election but finished well behind both Kibaki's Democratic Party and Raila's NDP in terms of national vote share. The party won approximately 5-7 parliamentary seats, down from its stronger 1992 performance. FORD-Kenya's decline reflected both the rise of more effective opposition parties (the Democratic Party, the NDP) and the party's inability to develop a compelling national narrative that transcended its regional base.
 
 FORD-Asili, which had fragmented off from FORD-Kenya in 1992, had similarly declined in political relevance by 1997. The party, which had initially positioned itself as a more radical opposition voice, had failed to build institutional depth or to develop a distinctive political platform that differentiated it from other opposition parties. By 1997, FORD-Asili had largely dissolved or merged with other parties, and its leadership (including Kenneth Matiba, who initially contested for the presidency in 1997 before withdrawing) had not successfully navigated the transition from 1992 prominence to sustainable 1997 political relevance.
 
-The FORD fragmentation reflected broader problems in Kenya's opposition movement: the absence of strong party institutions that could weather leadership transitions and internal disputes, the prevalence of ethnic and personal rivalries that fragmented potential coalitions, and the structural difficulty of maintaining broad opposition parties without a unifying purpose like defeating a sitting authoritarian regime. Once [[Moi]] had accepted the multiparty transition in 1991 and had demonstrated through the 1992 election that he could win even under multiparty rules, the FORD coalition that had united around multipartyism as a primary objective had lost its raison d'etre.
+The FORD fragmentation reflected broader problems in Kenya's opposition movement: the absence of strong party institutions that could weather leadership transitions and internal disputes, the prevalence of ethnic and personal rivalries that fragmented potential coalitions, and the structural difficulty of maintaining broad opposition parties without a unifying purpose like defeating a sitting authoritarian regime. Once [[Daniel arap Moi Era]] had accepted the multiparty transition in 1991 and had demonstrated through the 1992 election that he could win even under multiparty rules, the FORD coalition that had united around multipartyism as a primary objective had lost its raison d'etre.
 
 The decline of both FORD factions meant that by 1997, the opposition landscape had reorganized around different parties. The Democratic Party, with its institutional depth and Kikuyu base, had become the dominant established opposition party. The newly formed NDP, riding on Raila's political energy and Luo regional support, had achieved rapid prominence. Smaller parties representing various regional or ethnic constituencies (KENDA, SAP, Safina, and others) occupied secondary positions. But the FORD, which had been synonymous with multipartyism itself in 1992, had effectively ceased to be a significant political force.
 
@@ -15,9 +15,9 @@ The fragmentation of FORD stands as a cautionary case about opposition unity. Th
 ## See Also
 
 - [[1997 Election]]
-- [[Forum for the Restoration of Democracy (FORD)]]
+- Forum for the Restoration of Democracy (FORD)
 - [[Moi and FORD-Kenya]]
-- [[FORD-Asili]]
+- FORD-Asili
 - [[Moi and the Opposition]]
 - [[1992 Election]]
 

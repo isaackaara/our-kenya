@@ -1,4 +1,4 @@
-Kawira Mwangaza was elected [[Meru County]] Governor in 2022, becoming the first female governor of Meru County. Her tenure was marked by dramatic political turbulence, including impeachment attempts, reinstatement, and ongoing institutional crises that tested Kenya's [[devolved governance]] system.
+Kawira Mwangaza was elected [[Meru County]] Governor in 2022, becoming the first female governor of Meru County. Her tenure was marked by dramatic political turbulence, including impeachment attempts, reinstatement, and ongoing institutional crises that tested Kenya's devolved governance system.
 
 ## Election and Inauguration
 
@@ -37,9 +37,9 @@ The Kawira Mwangaza case provides a case study in devolved governance challenges
 - [[Meru County]]
 - [[Kiraitu Murungi]]
 - [[Meru Politics]]
-- [[Kenya Devolved Governance]]
+- Kenya Devolved Governance
 - [[Women in Kenyan Politics]]
-- [[Meru County Assembly]]
+- Meru County Assembly
 
 ## Sources
 

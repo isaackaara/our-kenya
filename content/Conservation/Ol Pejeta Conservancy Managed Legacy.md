@@ -22,7 +22,7 @@ The northern white rhino research program at Ol Pejeta represents both conservat
 - [[Black Rhinoceros Kenya]] - Primary rhino conservation focus
 - [[Northern White Rhinoceros]] - Near-extinct species research at Ol Pejeta
 - [[Community Conservancies Model]] - Community-based alternatives and landscape integration
-- [[Conservation Effectiveness Kenya]] - Evaluating outcomes of private conservation
+- [[Conservation]] - Evaluating outcomes of private conservation
 
 ## Sources
 

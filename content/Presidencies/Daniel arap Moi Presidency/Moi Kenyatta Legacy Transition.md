@@ -20,7 +20,7 @@ Moi's relationship to Kenyatta's legacy thus involved careful appropriation: tak
 [[Moi Consolidation of Power 1978-1985]]
 [[Moi Nyayo Philosophy]]
 [[Moi and the Kalenjin]]
-[[Kenya/Early Independence]]
+Early Independence
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

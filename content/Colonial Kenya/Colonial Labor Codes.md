@@ -19,8 +19,8 @@ By the 1940s-1950s, labor codes came under pressure from rising labor organizati
 [[Forced Labor Colonial]]
 [[Colonial Wage Systems]]
 [[Colonial Trade Unions]]
-[[Labor Strike Movements]]
-[[Worker Resistance Colonial]]
+Labor Strike Movements
+Worker Resistance Colonial
 [[Occupational Health]]
 
 ## Sources

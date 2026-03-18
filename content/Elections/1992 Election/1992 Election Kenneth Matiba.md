@@ -14,11 +14,11 @@ The emergence of both Odinga and Matiba as opposition candidates demonstrated th
 
 - [[1992 Election]]
 - [[Kenneth Matiba]]
-- [[FORD-Asili]]
+- FORD-Asili
 - [[Kikuyu]]
-- [[Business and Politics]]
+- Business and Politics
 - [[Moi and the Opposition]]
-- [[Ethnic Voting 1992]]
+- Ethnic Voting 1992
 
 ## Sources
 

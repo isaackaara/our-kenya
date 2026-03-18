@@ -18,7 +18,7 @@ White settler acquisition of Laikipia plateau excluded Samburu from productive p
 - [[Samburu Land Rights Today]]
 - [[Samburu Pastoralism]]
 - [[Samburu and the Colonial Period]]
-- [[Colonial Land Dispossession in Kenya]]
+- Colonial Land Dispossession in Kenya
 
 ## Sources
 

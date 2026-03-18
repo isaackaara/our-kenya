@@ -1,4 +1,4 @@
-Tea farming has been central to the [[Kikuyu]] economy since the 1960s, making the Kikuyu regions of Kirinyaga and Nyeri among Kenya's premier tea-growing areas. The [[Kenya Tea Development Agency]] (KTDA) transformed smallholder tea production and created distinctive cooperative models.
+Tea farming has been central to the [[Kikuyu]] economy since the 1960s, making the Kikuyu regions of Kirinyaga and Nyeri among Kenya's premier tea-growing areas. The [[Tea Industry Kenya]] (KTDA) transformed smallholder tea production and created distinctive cooperative models.
 
 ## Geographic Centers
 
@@ -8,7 +8,7 @@ Other Kikuyu areas, including Murang'a and Kiambu, also grow tea but in smaller 
 
 ## KTDA and Smallholder Transformation
 
-The [[Kenya Tea Development Agency|KTDA]] was established to support smallholder tea farming. KTDA revolutionized tea production by providing:
+The [[Tea Industry Kenya|KTDA]] was established to support smallholder tea farming. KTDA revolutionized tea production by providing:
 - Technical training to farmers
 - Seedlings and planting materials
 - Factory processing infrastructure
@@ -54,7 +54,7 @@ Yet tea farming remains the economic foundation of Kirinyaga and parts of Nyeri,
 
 - [[Kikuyu Coffee Economy]]
 - [[Kikuyu Horticulture]]
-- [[KTDA|Kenya Tea Development Agency]]
+- Kenya Tea Development Agency
 - [[Kikuyu Entrepreneurs Deep Dive]]
 - [[Kikuyu Education Systems]]
 - [[Kikuyu|Agriculture and Economy]]

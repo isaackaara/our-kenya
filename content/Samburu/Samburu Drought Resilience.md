@@ -25,8 +25,8 @@ Early warning systems attempt to predict drought onset. Community early action m
 - [[Samburu Climate Change]]
 - [[Samburu Pastoralism]]
 - [[Samburu Water Resources]]
-- [[Livelihood Diversification in Samburu]]
-- [[Food Security in Pastoral Systems]]
+- [[Samburu County Agriculture]]
+- Food Security in Pastoral Systems
 
 ## Sources
 

@@ -45,8 +45,8 @@ Asian community banks are likely to remain stable but small. They may face chall
 - [[Colonial Economy]] - Historical context for Asian merchant communities
 - [[Central Bank of Kenya]] - Banking regulation and oversight
 - [[Moi and the Luo Community]] - Informal and community-based financial services
-- [[India Kenya Relations]] - Historical ties between Indian and Kenyan merchants
-- [[Small Business Finance Kenya]] - Access to credit for smaller institutions
+- India Kenya Relations - Historical ties between Indian and Kenyan merchants
+- Small Business Finance Kenya - Access to credit for smaller institutions
 
 ## Sources
 

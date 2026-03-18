@@ -12,7 +12,7 @@ Scalability challenges limit mentorship's reach. Quality one-on-one mentorship r
 
 ## See Also
 
-[[Tech Mentoring]]
+Tech Mentoring
 [[Tech Incubators Accelerators]]
 [[Women Coders Kenya]]
 [[Tech Community Culture]]

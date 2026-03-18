@@ -12,9 +12,9 @@ Celebrity news and gossip journalism addressed audience interest in Kenyan and i
 [[Media Ownership Control]]
 [[Digital Media Shift]]
 [[Television History Kenya]]
-[[Film/Cinema of Kenya]]
-[[Music/Popular Music Kenya]]
-[[Entertainment Industry]]
+[[Literary Culture Kenya]]
+Popular Music Kenya
+Entertainment Industry
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Mass_media_in_Kenya

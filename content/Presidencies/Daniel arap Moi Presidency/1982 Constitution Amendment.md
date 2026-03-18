@@ -23,8 +23,8 @@ The amendment held for nine years. It was only repealed in December 1991, after 
 - [[Mwakenya Movement]]
 - [[Detention Without Trial Under Moi]]
 - [[Section 2A Repeal 1991]]
-- [[Elections/One-Party State in Kenya]]
-- [[Cross-Ethnic/Political Resistance Under Moi]]
+- One-Party State in Kenya
+- Political Resistance Under Moi
 
 ## Sources
 1. Murunga, Godwin R., and Shadrack W. Nasong'o, eds. *Kenya: The Struggle for Democracy*. Zed Books, 2007. https://www.bloomsbury.com/us/kenya-9781842778043/

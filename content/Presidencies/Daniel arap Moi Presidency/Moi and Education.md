@@ -23,9 +23,9 @@ The 8-4-4 system remained in place for over three decades, a testament to instit
 - [[Nyayo Philosophy]]
 - [[Moi and Harambee]]
 - [[Structural Adjustment Programs Kenya]]
-- [[Corruption/Education Sector Underfunding]]
-- [[Cross-Ethnic/Education Access and Inequality]]
-- [[Elections/Youth Unemployment and Political Instability]]
+- Education Sector Underfunding
+- Education Access and Inequality
+- Youth Unemployment and Political Instability
 
 ## Sources
 1. Eshiwani, George S. *Education in Kenya Since Independence*. East African Educational Publishers, 1993. https://www.africanbookscollective.com/books/education-in-kenya-since-independence

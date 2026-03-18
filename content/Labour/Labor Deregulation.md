@@ -12,7 +12,7 @@ Union deregulation legally restricted union organization capacity through employ
 - [[Liberalization Labor]]
 - [[Labor Exploitation]]
 - [[Employment Contracts]]
-- [[Wage Decline]]
+- Wage Decline
 - [[Work Safety Standards]]
 - [[Informal Sector Labor Rights]]
 - [[Strike Movements Kenya]]

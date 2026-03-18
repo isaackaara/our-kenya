@@ -2,7 +2,7 @@ Stone carving emerged as a distinctive artistic tradition along the Kenya coast,
 
 ## See Also
 
-[[Coral Stone Buildings]], [[Wood Carving Arts]], [[Coastal Art Crafts]], [[Swahili Culture Formation]], [[Architectural design]], [[Coastal Settlements]], [[Fort Jesus Mombasa]]
+[[Coral Stone Buildings]], [[Wood Carving Arts]], [[Coastal Art Crafts]], [[Swahili Culture Formation]], Architectural design, [[Coastal Settlements]], [[Fort Jesus Mombasa]]
 
 ## Sources
 

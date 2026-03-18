@@ -17,11 +17,11 @@ Land pressure from national park expansion, conservation initiatives, and privat
 ## See Also
 
 [[Pastoralism Food Production]]
-[[Arid Region Development]]
-[[Pastoral Resource Management]]
+Arid Region Development
+Pastoral Resource Management
 [[Livestock Farming Systems]]
 [[Water Resources Management]]
-[[Climate Change Impacts]]
+Climate Change Impacts
 [[Somali]]
 
 ## Sources

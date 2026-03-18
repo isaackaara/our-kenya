@@ -1,4 +1,4 @@
-Raila Odinga's first presidential campaign in 1997 represented a critical inflection point in Kenyan opposition politics and in Raila's own political trajectory. Running under the banner of the newly formed [[Development Aid]], Raila presented himself as a radical alternative to both [[Moi]]'s KANU establishment and the more cautious opposition figures like [[Kibaki]] and his Democratic Party. Raila's 1997 campaign was built on three foundational elements: his identity as a Luo politician and representative of Luo interests, his positioning as an intellectual and ideological opposition leader, and his willingness to mobilize confrontational, mass-based organizing tactics that set him apart from the more institutional opposition figures.
+Raila Odinga's first presidential campaign in 1997 represented a critical inflection point in Kenyan opposition politics and in Raila's own political trajectory. Running under the banner of the newly formed [[Development Aid]], Raila presented himself as a radical alternative to both [[Daniel arap Moi Era]]'s KANU establishment and the more cautious opposition figures like [[Mwai Kibaki]] and his Democratic Party. Raila's 1997 campaign was built on three foundational elements: his identity as a Luo politician and representative of Luo interests, his positioning as an intellectual and ideological opposition leader, and his willingness to mobilize confrontational, mass-based organizing tactics that set him apart from the more institutional opposition figures.
 
 The Luo community in Kenya's western regions had remained politically volatile territory throughout the multiparty era. While some Luo politicians, most notably [[Tom Mboya]] in an earlier era and Oginga Odinga (Raila's father) in the 1960s and 1970s, had wielded national influence, Luo political power had been marginalized since Moi came to power in 1978. The Luo homelands in Nyanza and parts of Rift Valley remained economically disadvantaged relative to Kikuyu-dominated central Kenya and Kalenjin-dominated western Rift Valley. Raila's 1997 campaign explicitly addressed this history of marginalization, positioning himself as the leader who would restore Luo political voice and redirect resources to historically neglected Luo regions.
 
@@ -18,7 +18,7 @@ The 1997 election, while not delivering presidential victory for Raila, did esta
 - [[Development Aid]]
 - [[Raila Odinga]]
 - [[2002 Election Raila Odinga]]
-- [[Nyanza Province politics]]
+- Nyanza Province politics
 - [[Luo]]
 
 ## Sources

@@ -6,7 +6,7 @@ The context of coast separatism illuminates how local, regional, and national sc
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

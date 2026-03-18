@@ -16,8 +16,8 @@ By the late 20th century, the emergence of supermarkets in major urban areas int
 [[Farmer Cooperatives]]
 [[Food Waste Management]]
 [[Food Markets Distribution]]
-[[Labour/Trading and Commerce]]
-[[Poverty/Rural Marketing Constraints]]
+Trading and Commerce
+Rural Marketing Constraints
 
 ## Sources
 

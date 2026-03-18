@@ -15,8 +15,8 @@ The crater rim offers panoramic views of the surrounding Tsavo landscape and int
 - [[Taveta Town]]
 - [[Tsavo East National Park]]
 - [[Taita Hills Biodiversity]]
-- [[Volcanic Geology Kenya]]
-- [[Freshwater Ecosystems]]
+- Volcanic Geology Kenya
+- Freshwater Ecosystems
 - [[Migori Tanzania Border]]
 
 ## Sources

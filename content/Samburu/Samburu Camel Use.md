@@ -18,7 +18,7 @@ Camel adoption has accelerated particularly since 1990s. Younger Samburu increas
 - [[Samburu Cattle Culture]]
 - [[Samburu Climate Change]]
 - [[Samburu Drought Resilience]]
-- [[Livestock Production Systems]]
+- Livestock Production Systems
 
 ## Sources
 

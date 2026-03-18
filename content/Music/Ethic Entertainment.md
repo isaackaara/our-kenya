@@ -1,4 +1,4 @@
-Ethic Entertainment, the group that launched [[Gengetone Movement|Gengetone]] with their May 31, 2018 viral hit "Lamba Lolo," came from Umoja estate in Nairobi's Eastlands, an area that had long been central to Kenya's urban music scene but had never produced artists who could reshape the entire industry's economics and aesthetics. The four members, performing as Rekles, Seska, Swat, and Zilla, were relatively unknown before that watershed moment, young men navigating [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] with few obvious paths to economic success beyond the hustle that defined estate life.
+Ethic Entertainment, the group that launched [[Gengetone Movement|Gengetone]] with their May 31, 2018 viral hit "Lamba Lolo," came from Umoja estate in Nairobi's Eastlands, an area that had long been central to Kenya's urban music scene but had never produced artists who could reshape the entire industry's economics and aesthetics. The four members, performing as Rekles, Seska, Swat, and Zilla, were relatively unknown before that watershed moment, young men navigating [[Nairobi Urban Identity|Nairobi's informal settlements]] with few obvious paths to economic success beyond the hustle that defined estate life.
 
 "Lamba Lolo" was not supposed to be revolutionary. The video, shot on what appeared to be consumer-grade equipment in various Umoja locations, featured neighborhood kids, local girls, and the kind of raw, unpolished aesthetic that professional producers would have eliminated. The song's title and lyrics were provocative, the production deliberately lo-fi, and the whole package looked like dozens of other amateur [[YouTube and Kenyan Music|YouTube]] uploads from estate artists hoping for visibility. But something about its rawness, its authentic documentation of estate life, and its unapologetic embrace of [[Sheng Language and Kenyan Music|Sheng]] street slang resonated. Within weeks, it had over 4 million views, launching both the group and the genre.
 
@@ -23,7 +23,7 @@ By the mid-2020s, Ethic Entertainment's prominence had waned as the gengetone mo
 - [[YouTube and Kenyan Music|YouTube and Kenyan Music]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Gengetone and Social Commentary|Gengetone and Social Commentary]]
 - [[William Ruto Presidency|William Ruto Presidency]]
 

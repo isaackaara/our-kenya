@@ -24,7 +24,7 @@ Fruit trees and cultivation include:
 - [[Kisii Food Culture|Food Culture]]
 - [[Kisii Farming Practices|Farming Practices]]
 - [[Kisii Population Density|Population Density]]
-- [[../../Maasai/Maasai and Dairy Industry|Dairy Comparison]]
+- [[Maasai and Dairy Industry|Dairy Comparison]]
 - Avocados grown in suitable areas
 - Passion fruit cultivation increasing
 - Mangoes and citrus in lower-altitude zones

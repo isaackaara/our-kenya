@@ -44,7 +44,7 @@ The involvement of women in beekeeping challenges traditional gender roles and p
 
 ---
 
-**See Also:** [[Kamba Trade Networks]], [[Kamba Environment]], [[Kitui County]]
+**See Also:** [[Kamba Trade Networks]], [[Kamba Culture and Identity]], [[Kitui County]]
 
 ## See Also
 

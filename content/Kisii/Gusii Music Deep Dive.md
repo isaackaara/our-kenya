@@ -104,8 +104,8 @@ Contemporary Gusii intellectuals and cultural activists have begun advocating fo
 - [[Gusii Storytelling and Oral Literature]] - narrative in musical traditions
 - [[Kisii Circumcision]] - ceremonial music contexts
 - [[Ekegusii Language and Linguistic Identity]] - song lyrics and language
-- [[East African music traditions]] - regional musical context
-- [[Music preservation in Kenya]] - documentation initiatives
+- East African music traditions - regional musical context
+- Music preservation in Kenya - documentation initiatives
 
 ## Sources
 

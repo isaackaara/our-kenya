@@ -1,4 +1,4 @@
-[[Asian Kenyans]] have rarely entered elective [[politics]] and have been underrepresented in [[government]] positions relative to their population size and economic contributions. This political underrepresentation reflects multiple factors including deliberate exclusion by [[African]] political movements, [[Asian Kenyans]]' own strategic focus on business rather than [[politics]], racial prejudices against [[Asian Kenyans|Asian]] political leadership, and the association of [[Asian Kenyans|Asians]] with colonial-era business interests.
+[[Asian Kenyans]] have rarely entered elective politics and have been underrepresented in government positions relative to their population size and economic contributions. This political underrepresentation reflects multiple factors including deliberate exclusion by African political movements, [[Asian Kenyans]]' own strategic focus on business rather than politics, racial prejudices against [[Asian Kenyans|Asian]] political leadership, and the association of [[Asian Kenyans|Asians]] with colonial-era business interests.
 
 ## Limited Political Participation
 

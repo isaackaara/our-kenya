@@ -10,7 +10,7 @@ Security challenges associated with public WiFi networks emerged as usage expand
 
 ## See Also
 
-[[Internet Connectivity Progress]], [[Mobile Internet Growth]], [[Education Technology Computers]], [[Development Aid]], [[Cybersecurity]], [[Digital Art]]
+[[Internet Connectivity Progress]], [[Mobile Internet Growth]], [[Education Technology Computers]], [[Development Aid]], Cybersecurity, [[Digital Art]]
 
 ## Sources
 

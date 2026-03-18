@@ -17,7 +17,7 @@ Critics argued that Uhuru prioritized visible, ribbon-cutting projects over inst
 - [[Uhuru and Housing]]
 - [[Uhuru Debt Crisis]]
 - [[Uhuru Economic Record]]
-- [[Corruption/Mega-Projects]]
+- [[mega-projects]]
 - [[Uhuru Legacy Assessment]]
 
 ## Sources

@@ -44,4 +44,4 @@ Decolonization was declared in 1963. But the structures remain. Understanding co
 
 ## Related
 
-[[Index]] - How colonial legacies shape cross-ethnic relations today.
+[[index]] - How colonial legacies shape cross-ethnic relations today.

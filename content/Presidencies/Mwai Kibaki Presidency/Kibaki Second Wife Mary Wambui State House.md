@@ -13,9 +13,9 @@ The existence of the second wife highlighted the gap between Kibaki's public per
 [[Kibaki and the ICC]]
 [[Kibaki and Lucy Kibaki First Lady Controversies]]
 [[Polygamy Law Debates Kenya]]
-[[Presidential Conduct and Authority]]
+Presidential Conduct and Authority
 [[Gender Pay Gap]]
-[[Kenya Elite and Private Conduct]]
+Kenya Elite and Private Conduct
 
 ## Sources
 

@@ -6,7 +6,7 @@ The context of sessional paper 10 1965 illuminates how local, regional, and nati
 
 ## See Also
 
-[[Policy]], [[Kenya History]], [[Historical Development]]
+Policy, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

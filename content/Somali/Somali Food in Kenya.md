@@ -26,7 +26,7 @@ Increasingly, Somali food is commercialized. Camel milk is processed and branded
 
 ## Food and Identity
 
-For [[Somali [[Somali Diaspora Connections Kenya|diaspora]] Connections Kenya|Somali, particularly diaspora communities]], food remains a central marker of cultural identity. Sharing Somali food is a way of maintaining connection to homeland and heritage. Younger diaspora members who may not speak fluent Somali still often maintain Somali food preferences. Food carries cultural memory and identity significance beyond mere nutrition.
+For diaspora Connections Kenya|Somali, particularly diaspora communities]], food remains a central marker of cultural identity. Sharing Somali food is a way of maintaining connection to homeland and heritage. Younger diaspora members who may not speak fluent Somali still often maintain Somali food preferences. Food carries cultural memory and identity significance beyond mere nutrition.
 
 ## See Also
 

@@ -34,7 +34,7 @@ The sisal estates were economically significant for the region and for colonial/
 - [[Taita Agriculture]]
 - [[Taita Colonial History]]
 - [[Taita Land Rights]]
-- [[Taita Economy]]
+- Taita Economy
 - [[Taita and the Railway]]
 
 ## Sources

@@ -16,7 +16,7 @@ Contemporary Kenyan theology continues developing diverse approaches addressing 
 [[Religion Kenyan Literature]]
 [[Kenyan Mystics Spiritual Teachers]]
 [[Women Religious Leaders]]
-[[Education/Intellectual Traditions]]
+Intellectual Traditions
 
 ## Sources
 

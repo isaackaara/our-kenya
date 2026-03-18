@@ -22,7 +22,7 @@ Agricultural development was intertwined with development discourse. The governm
 - [[Kenya]]
 - [[1974 Election KANU Primary]]
 - [[Kenya]]
-- [[Infrastructure Kenya 1970s]]
+- Infrastructure Kenya 1970s
 
 ## Sources
 1. Leys, Colin. "Underdevelopment in Kenya: The Political Economy of Neo-Colonialism." University of California Press, 1974.

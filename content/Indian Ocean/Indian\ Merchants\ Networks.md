@@ -6,7 +6,7 @@ The organization of Indian merchant networks reflected specific regional trading
 
 These merchant communities maintained remarkable commercial persistence across political disruptions. When the Sultanate of Zanzibar rose to prominence in the 19th century, Indian merchants had already been trading there for centuries. They held land, operated warehouses, financed local enterprises, and maintained credit relationships that extended throughout the region. The Zanzibar Sultan, recognizing their economic importance, granted them protection and trading privileges, creating formal structures that protected Indian merchant interests in exchange for tax revenues and favorable trade terms.
 
-The [[Banyan Merchant]] communities employed sophisticated practices for managing long-distance trade. A merchant patriarch in India might have sons, nephews, or trusted associates stationed in different ports throughout the Indian Ocean. These agents would be authorized to purchase specified commodities, hold goods in inventory awaiting favorable selling conditions, negotiate credit terms with local customers, and remit profits back to the central family location. The patriarch might provide capital for each agent's operations, specifying which categories of goods they could purchase but allowing considerable discretion regarding specific purchases and pricing decisions.
+The Banyan Merchant communities employed sophisticated practices for managing long-distance trade. A merchant patriarch in India might have sons, nephews, or trusted associates stationed in different ports throughout the Indian Ocean. These agents would be authorized to purchase specified commodities, hold goods in inventory awaiting favorable selling conditions, negotiate credit terms with local customers, and remit profits back to the central family location. The patriarch might provide capital for each agent's operations, specifying which categories of goods they could purchase but allowing considerable discretion regarding specific purchases and pricing decisions.
 
 Credit systems developed by Indian merchants enabled trade by merchants with limited capital. A local East African merchant lacking capital to purchase Indian textiles might approach an Indian merchant with an established India-based credit network. The Indian merchant could advance a shipment of cloth on credit terms, with payment due when the cloth sold locally. This arrangement allowed the local merchant to enter the textile trade without requiring capital upfront, while providing the Indian merchant with market access that might be closed through traditional purchase arrangements. The risk of default was substantial, but established reputation and the possibility of legal recourse through mercantile courts made such arrangements viable.
 
@@ -21,9 +21,9 @@ Indian merchants participated actively in the [[Swahili]], though maintaining di
 ## See Also
 
 [[Swahili]]
-[[Textile Trade Patterns]]
+Textile Trade Patterns
 [[Zanzibar Connections Kenya]]
-[[Credit Systems Indian Ocean]]
+Credit Systems Indian Ocean
 [[Merchant Networks]]
 
 ## Sources

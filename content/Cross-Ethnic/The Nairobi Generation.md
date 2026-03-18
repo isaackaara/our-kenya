@@ -1,4 +1,4 @@
-A specific cohort of Kenyans came of age between 1970 and 2000 in the country's urban centers, [[Nairobi]] foremost among them. These were the children of the first generation of [[rural migrants]], born into circumstances their parents could never have imagined, yet culturally untethered in ways their parents struggled to understand or acknowledge. This was the generation that grew up ethnically Kenyan but culturally rootless, at home nowhere and everywhere simultaneously.
+A specific cohort of Kenyans came of age between 1970 and 2000 in the country's urban centers, [[Nairobi]] foremost among them. These were the children of the first generation of rural migrants, born into circumstances their parents could never have imagined, yet culturally untethered in ways their parents struggled to understand or acknowledge. This was the generation that grew up ethnically Kenyan but culturally rootless, at home nowhere and everywhere simultaneously.
 
 ## Who Their Parents Were
 

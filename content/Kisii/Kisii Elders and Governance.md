@@ -4,7 +4,7 @@ title: Kisii Elders and Governance
 
 # Kisii Elders and Traditional Governance
 
-The elder council (abagaka) was and remains the primary institution for local governance, dispute resolution, and ceremonial leadership in [[Gusii people|Kisii]] society. Though [[British colonial rule in Kenya|colonial]] and [[Luhya in Post-Independence Kenya|post-colonial]] state structures have significantly diminished elder authority, elders continue to play vital roles in many communities and are experiencing a contemporary revival in community-based dispute resolution.
+The elder council (abagaka) was and remains the primary institution for local governance, dispute resolution, and ceremonial leadership in [[Gusii people|Kisii]] society. Though [[Colonial Administration|colonial]] and [[Luhya in Post-Independence Kenya|post-colonial]] state structures have significantly diminished elder authority, elders continue to play vital roles in many communities and are experiencing a contemporary revival in community-based dispute resolution.
 
 ## The Abagaka (Elders) Council Structure
 
@@ -112,8 +112,8 @@ The elder council remains a culturally significant institution in Kisii society,
 ## See Also
 
 - [[Kisii Clan System]] - clan-based elder organization
-- [[Traditional justice systems in Africa]] - comparative governance
-- [[Alternative dispute resolution in Kenya]] - contemporary mechanisms
+- Traditional justice systems in Africa - comparative governance
+- Alternative dispute resolution in Kenya - contemporary mechanisms
 - [[Kisii Courtship and Marriage]] - elder roles in marriage
 - [[Kisii Death and Burial]] - ritual authority
-- [[Customary law in Kenya]] - legal framework
+- Customary law in Kenya - legal framework

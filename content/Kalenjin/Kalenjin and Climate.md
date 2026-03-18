@@ -46,7 +46,7 @@ Kalenjin environmental activists have raised climate justice concerns about Keny
 
 ## Cross-Links
 - [[Kalenjin Pastoralism Deep Dive]]
-- [[Kenya Climate Impacts]]
+- Kenya Climate Impacts
 - [[Kalenjin and the Environment]]
 
 ## See Also

@@ -1,4 +1,4 @@
-The [[Storm Seasons]] created periods of heightened maritime danger that merchants understood and planned around. The seasonal variation in storm intensity affected different regions at different times, creating complex patterns that experienced pilots understood. The knowledge of which regions experienced dangerous storm seasons at which times represented crucial expertise that determined voyage safety.
+The Storm Seasons created periods of heightened maritime danger that merchants understood and planned around. The seasonal variation in storm intensity affected different regions at different times, creating complex patterns that experienced pilots understood. The knowledge of which regions experienced dangerous storm seasons at which times represented crucial expertise that determined voyage safety.
 
 The monsoon transition seasons in March-April and September-October brought unpredictable weather that posed danger to merchant vessels. The shift from one dominant wind direction to another created periods of variable winds and potential severe storms. The experienced pilots would avoid organizing long-distance ocean voyages during these transition periods, recognizing that weather conditions would be hazardous. The consolidation of merchant activity into clear monsoon seasons reflected adaptation to predictable storm patterns.
 
@@ -25,10 +25,10 @@ The development of weather prediction techniques represented efforts to improve 
 ## See Also
 
 [[Monsoon Calendar]]
-[[Maritime Safety]]
-[[Seasonal Hazards]]
+Maritime Safety
+Seasonal Hazards
 [[Navigation Methods]]
-[[Merchant Risk Management]]
+Merchant Risk Management
 
 ## Sources
 

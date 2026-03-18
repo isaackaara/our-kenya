@@ -10,7 +10,7 @@ Catholic Justice and Peace Commission (CJPC), the church's human rights advocacy
 
 Parish priests, particularly those serving in poor urban and rural areas, witnessed the consequences of Moi's policies firsthand. [[Structural Adjustment Programs Kenya|Structural adjustment cuts]] to health and education meant parishioners could not afford hospital fees or school costs. [[Moi Land Grabbing|Land grabbing]] displaced communities, many of whom sought refuge in church compounds. The [[1992 Election and Ethnic Violence|ethnic violence of the 1990s]] saw thousands sheltering in Catholic churches and missions, with priests mediating between victims and security forces. These experiences radicalized some clergy; they could not remain silent when their parishioners were suffering from policies that enriched elites.
 
-The church's critiques were not limited to human rights; they extended to economic injustice. Catholic bishops issued pastoral letters condemning the [[Goldenberg Scandal|Goldenberg fraud]], questioning why public funds were looted while citizens starved. They challenged the [[Moi and Harambee|harambee system]], arguing that shifting development costs to communities was unjust when the state collected taxes. They criticized [[Corruption/Moi Era Corruption|corruption]] as a moral failure, not just a governance problem, invoking biblical language about oppression of the poor. These critiques resonated with ordinary Kenyans in ways that secular opposition rhetoric sometimes did not.
+The church's critiques were not limited to human rights; they extended to economic injustice. Catholic bishops issued pastoral letters condemning the [[Goldenberg Scandal|Goldenberg fraud]], questioning why public funds were looted while citizens starved. They challenged the [[Moi and Harambee|harambee system]], arguing that shifting development costs to communities was unjust when the state collected taxes. They criticized [[Moi Era Corruption|corruption]] as a moral failure, not just a governance problem, invoking biblical language about oppression of the poor. These critiques resonated with ordinary Kenyans in ways that secular opposition rhetoric sometimes did not.
 
 Moi's strategy toward the Catholic Church was to divide and contain. He cultivated relationships with individual priests and bishops willing to stay silent in exchange for church construction funds or personal favors. He invited compliant clergy to State House functions, parading them as evidence that the church supported his leadership. He exploited divisions between conservative and progressive clergy, between those prioritizing liturgy and those prioritizing social justice. Where co-optation failed, he resorted to intimidation: surveillance, tax audits of church properties, denial of work permits for foreign missionaries.
 
@@ -27,8 +27,8 @@ The Catholic Church's legacy from the Moi era is complex. It demonstrated that m
 - [[Mwakenya Movement]]
 - [[Nyayo House Torture Chambers]]
 - [[Goldenberg Scandal]]
-- [[Cross-Ethnic/Religious Institutions and Political Resistance]]
-- [[Corruption/Church Critique of State Corruption]]
+- Religious Institutions and Political Resistance
+- Church Critique of State Corruption
 
 ## Sources
 1. Gifford, Paul. *Christianity, Politics and Public Life in Kenya*. Hurst & Company, 2009. https://www.hurstpublishers.com/book/christianity-politics-and-public-life-in-kenya/

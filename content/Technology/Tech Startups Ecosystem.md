@@ -10,7 +10,7 @@ Institutional support infrastructure matured alongside startup activity. Acceler
 
 ## See Also
 
-[[iHub Innovation Hub]], [[Venture Capital Kenya]], [[Entrepreneurship Kenya]], [[Mobile Banking Services]], [[E-Commerce Platforms Kenya]], [[Innovation Policy]]
+[[iHub Innovation Hub]], [[Venture Capital Kenya]], [[Entrepreneurship Kenya]], [[Mobile Banking Services]], [[E-Commerce Platforms Kenya]], Innovation Policy
 
 ## Sources
 

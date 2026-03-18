@@ -24,9 +24,9 @@ Contemporary crime fiction in Kenya continues developing, addressing contemporar
 [[Meja Mwangi Novels]]
 [[Literature]]
 [[Postcolonial Literature Movement]]
-[[Corruption in Literature]]
+Corruption in Literature
 [[Literature]]
-[[Genre Fiction Africa]]
+Genre Fiction Africa
 [[Social Commentary]]
 
 ## Sources

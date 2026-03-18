@@ -7,8 +7,8 @@
 - [[Kenya Revenue Authority]] - Tax administration digitisation
 - [[Vision 2030]] - Digital economy goals
 - [[Fintech Kenya]] - Related financial services digitisation
-- [[e-Citizen]] - Government online services portal
-- [[Cybersecurity Kenya]] - Digital security concerns
+- e-Citizen - Government online services portal
+- Cybersecurity Kenya - Digital security concerns
 
 ## Sources
 

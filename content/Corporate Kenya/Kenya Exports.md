@@ -20,7 +20,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Kenya]]
 - [[Tea Industry Kenya]]
 - [[Coffee Industry Kenya]]
-- [[Horticulture Kenya]]
+- Horticulture Kenya
 - [[Kenya Imports]]
 - [[Manufacturing History Kenya]]
 

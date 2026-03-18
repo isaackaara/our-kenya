@@ -15,7 +15,7 @@ KADU's defeat was catastrophic for federalism. The party's loss meant that Kenya
 - [[1963 Election Regional Pattern]]
 - [[1963 Election Majimboism]]
 - [[1963 Election]]
-- [[Electoral Mathematics Kenya]]
+- [[Elections]]
 - [[Gem Constituency]]
 
 ## Sources

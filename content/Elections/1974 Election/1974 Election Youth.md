@@ -22,7 +22,7 @@ The division between urban and rural youth also mattered. Urban youth were more 
 - [[Nairobi]]
 - [[Youth Unemployment]]
 - [[Kenya]]
-- [[Generational Change Kenya]]
+- Generational Change Kenya
 
 ## Sources
 1. Barkan, Joel. "The Electoral Process in Kenya: A Reappraisal." Eastern Africa Studies, 1976.

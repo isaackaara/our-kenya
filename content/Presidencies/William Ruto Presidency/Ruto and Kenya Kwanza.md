@@ -7,8 +7,8 @@ The coalition's governance role has been complicated by tensions between coaliti
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Political Coalitions|Kenya Political Coalitions]]
-- [[Kenya 2022 Election|Kenya 2022 Election]]
+- [[Politics|Kenya Political Coalitions]]
+- [[2022 Presidential Election|Kenya 2022 Election]]
 - [[Ruto Hustler Nation Ideology|Hustler Nation]]
 
 ## Sources

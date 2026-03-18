@@ -10,11 +10,11 @@ Uhuru left office without solving the youth crisis. His successor inherited an e
 
 ## See Also
 [[Youth Employment]]
-[[Uhuru Big Four Agenda Implementation]]
-[[Kenya's Skills Gap and Education]]
-[[Manufacturing Decline Under Uhuru]]
-[[Informal Economy and Youth]]
-[[Gen Z Political Mobilization 2024]]
+Uhuru Big Four Agenda Implementation
+Kenya's Skills Gap and Education
+Manufacturing Decline Under Uhuru
+Informal Economy and Youth
+Gen Z Political Mobilization 2024
 
 ## Sources
 1. https://www.worldbank.org/en/country/kenya/publication/youth-unemployment-analysis-2013-2022

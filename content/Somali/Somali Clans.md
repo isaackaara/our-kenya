@@ -24,5 +24,5 @@ Somali clans traditionally specialized in different pastoral niches:
 Clan identity profoundly shapes Somali political organization and generates both cooperation and conflict. Interstate pastoral conflicts frequently reflect clan tensions.
 
 ## See Also
-- [[Somalia Kenya Border Dispute]]
+- [[North Eastern Province]]
 - [[Pastoral Societies Kenya]]

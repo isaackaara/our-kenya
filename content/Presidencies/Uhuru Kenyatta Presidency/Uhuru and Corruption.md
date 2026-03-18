@@ -16,9 +16,9 @@ The corruption legacy of Uhuru's presidency is fiscal crisis, lost trust, and a 
 - [[NYS Scandal]]
 - [[Afya House Scandal]]
 - [[Eurobond Kenya]]
-- [[Corruption/Impunity in Kenya]]
-- [[Corruption/State Capture]]
-- [[Corruption/Mega-Projects]]
+- [[Impunity in Kenya]]
+- [[State Capture Kenya]]
+- [[mega-projects]]
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru Legacy Assessment]]
 

@@ -6,7 +6,7 @@ The context of ethnic vs clan structures illuminates how local, regional, and na
 
 ## See Also
 
-[[Ethnic Groups]], [[Kenya History]], [[Historical Development]]
+Ethnic Groups, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

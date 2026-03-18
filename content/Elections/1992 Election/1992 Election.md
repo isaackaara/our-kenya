@@ -36,9 +36,9 @@ The election also set the stage for the subsequent two decades of Kenya's politi
 - [[Oginga Odinga]]
 - [[Kenya]]
 - [[Elections]]
-- [[Donor Pressure Kenya]]
+- Donor Pressure Kenya
 - [[Civil Society Kenya]]
-- [[Ethnic Violence Kenya]]
+- [[Post-Election Violence]]
 
 ## Sources
 

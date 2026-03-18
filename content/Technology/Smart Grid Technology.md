@@ -10,7 +10,7 @@ Privacy and cybersecurity concerns emerged as smart grid deployment advanced. Ad
 
 ## See Also
 
-[[Energy Access]], [[Renewable Energy Tech]], [[Electricity Distribution]], [[Cybersecurity]], [[Technology]], [[Smart Cities]]
+[[Energy Access]], [[Renewable Energy Tech]], Electricity Distribution, Cybersecurity, [[Technology]], Smart Cities
 
 ## Sources
 

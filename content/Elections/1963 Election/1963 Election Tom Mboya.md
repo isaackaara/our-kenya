@@ -14,8 +14,8 @@ The election victory gave Mboya a cabinet position as Minister of Labor and was 
 - [[1963 Election KANU]]
 - [[1963 Election Results]]
 - [[Kenya]]
-- [[Trade Unions and Politics Kenya]]
-- [[American Influence Kenya]]
+- Trade Unions and Politics Kenya
+- [[Foreign Policy]]
 - [[Luo]]
 
 ## Sources

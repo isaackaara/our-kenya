@@ -68,7 +68,7 @@ The Taita are particularly known for two things: (1) their exceptional agricultu
 - [[Taita Origins]]
 - [[Taita Hills Geography]]
 - [[Taita-Taveta County]]
-- [[Taita Culture]]
+- [[Mijikenda]]
 - [[Taita Language]]
 
 ## Sources

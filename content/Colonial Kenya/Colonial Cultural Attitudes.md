@@ -24,9 +24,9 @@ By the 1950s, African intellectuals and leaders increasingly rejected colonial c
 [[Colonial Attitudes Africans]]
 [[Colonial Racism]]
 [[Education]]
-[[Missionisation and Colonialism]]
-[[African Intellectualism]]
-[[Cultural Resistance]]
+Missionisation and Colonialism
+African Intellectualism
+Cultural Resistance
 
 ## Sources
 1. Ngugi wa Thiong'o. "Decolonising the Mind: The Politics of Language in African Literature." Heinemann, 1986. https://www.heinemann.co.uk/

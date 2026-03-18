@@ -58,7 +58,7 @@ For Kenya's institutional development, the fallout raised questions about whethe
 - [[Uhuru BBI]]
 - [[Kenyan Somali and the 2022 Election]]
 - [[Jubilee Party]]
-- [[United Democratic Alliance]]
+- United Democratic Alliance
 - [[Kalenjin]]
 
 ## Sources

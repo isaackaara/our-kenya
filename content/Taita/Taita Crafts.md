@@ -27,7 +27,7 @@ While crafts are no longer the primary economic activity for most Taita, they re
 
 ## See Also
 
-- [[Taita Culture]]
+- [[Mijikenda]]
 - [[Taita Women]]
 - [[Taita Social Structure]]
 - [[Taita Food]]

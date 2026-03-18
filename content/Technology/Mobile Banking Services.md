@@ -10,7 +10,7 @@ By 2020, nearly all Kenyan banks offered mobile banking services, and mobile cha
 
 ## See Also
 
-[[M-Pesa Mobile Money]], [[Fintech Development]], [[Digital Payment Systems]], [[Banking Services Kenya]], [[Cybersecurity Banking]], [[Financial Inclusion]]
+[[M-Pesa Mobile Money]], [[Fintech Development]], [[Digital Payment Systems]], Banking Services Kenya, Cybersecurity Banking, [[Financial Inclusion]]
 
 ## Sources
 

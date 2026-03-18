@@ -20,11 +20,11 @@ Veterinary constraints affected production, as goat and sheep diseases including
 
 [[Livestock Farming Systems]]
 [[Pastoralism Food Production]]
-[[Arid Region Development]]
-[[Meat Production Systems]]
+Arid Region Development
+Meat Production Systems
 [[Health]]
-[[Rural Livelihood Systems]]
-[[Pastoral Resource Management]]
+Rural Livelihood Systems
+Pastoral Resource Management
 
 ## Sources
 

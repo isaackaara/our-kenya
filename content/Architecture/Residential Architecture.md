@@ -12,7 +12,7 @@ Regional variations reflect climate and material availability. Coastal regions f
 
 ## See Also
 
-[[Nairobi Built Environment]], [[Colonial Architecture]], [[Urban Slums Growth]], [[Apartment Building History]], [[Bungalow Architecture]], [[Gated Communities]], [[Modern Construction Techniques]]
+[[Nairobi Built Environment]], [[Colonial Architecture]], [[Urban Slums Growth]], [[Apartment Building History]], [[Bungalow Architecture]], Gated Communities, [[Modern Construction Techniques]]
 
 ## Sources
 

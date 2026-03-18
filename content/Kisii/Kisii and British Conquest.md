@@ -1,4 +1,4 @@
-The British conquest of the [[Gusii]] territories (1904-1908) was marked by significant Gusii resistance and resulted in considerable violence, livestock seizure, and the burning of settlements. The [[Kisii]], as they were officially termed, established British colonial administrative authority over the region and disrupted traditional Gusii social structures, land ownership, and political systems.
+The British conquest of the [[Gusii people]] territories (1904-1908) was marked by significant Gusii resistance and resulted in considerable violence, livestock seizure, and the burning of settlements. The [[Kisii]], as they were officially termed, established British colonial administrative authority over the region and disrupted traditional Gusii social structures, land ownership, and political systems.
 
 ## Early British Contact and Imperial Ambitions
 
@@ -59,7 +59,7 @@ The conquest had profound impacts:
 
 ## Establishment of Colonial Administration
 
-After military conquest, [[Britain]] established colonial administrative authority:
+After military conquest, Britain established colonial administrative authority:
 
 1. **Administrative posts** - British established district headquarters (notably Kisii town) with administrative offices and garrison troops
 2. **Chiefs and indirect rule** - Britain appointed Gusii collaborators as chiefs and headmen to implement colonial orders through existing social structures
@@ -84,7 +84,7 @@ British conquest initiated several long-term processes:
 
 The Gusii conquest should be understood within broader context of colonial conquests across Africa. British conquest of various African peoples involved:
 
-1. **Differential resistance** - some peoples resisted fiercely (like the [[Gusii]]), others collaborated, creating varied conquest experiences
+1. **Differential resistance** - some peoples resisted fiercely (like the [[Gusii people]]), others collaborated, creating varied conquest experiences
 2. **Violence scale** - the violence associated with Gusii conquest was significant but perhaps less intensive than some other colonial conquests (e.g., in West Africa or South Africa)
 3. **Pacification timelines** - the Gusii took several years to fully pacify, reflecting strong resistance and military organization
 

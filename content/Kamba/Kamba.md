@@ -29,7 +29,7 @@ The Kamba are a Bantu people of eastern Kenya who built their identity on three 
 - [[Kamba Courtship and Sexuality]]
 - [[Kamba Rites of Passage Timeline]]
 - [[Kamba Women's Songs]]
-- [[Kamba Twins and Special Births]]
+- Kamba Twins and Special Births
 
 ### Agriculture, Environment, Economy
 - [[Kamba Hunting Tradition]]
@@ -109,7 +109,7 @@ The Kamba are a Bantu people of eastern Kenya who built their identity on three 
 - [[Muindi Mbingu]]
 - [[Mulu Mutisya]]
 - [[Kivutha Kibwana Deep Dive]]
-- [[Julius Malombe]]
+- Julius Malombe
 - [[Kamba Judges and Legal Figures]]
 - [[Kamba in Academia]]
 

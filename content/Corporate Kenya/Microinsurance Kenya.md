@@ -18,7 +18,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 - [[Insurance History Kenya]]
 - [[Financial Inclusion Kenya]]
-- [[Risk Management Kenya]]
+- Risk Management Kenya
 - [[Microfinance Kenya]]
 - [[Kenya Economic Overview]]
 - [[Digital Art]]

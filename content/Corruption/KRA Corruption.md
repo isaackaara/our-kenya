@@ -72,7 +72,7 @@ Some reforms have been attempted (digitization, reduced discretion), but impleme
 - [[Customs Corruption Kenya]]
 - [[Procurement Corruption]]
 - [[Civil Service Salaries and Petty Corruption]]
-- [[Smuggling and Tax Evasion]]
+- Smuggling and Tax Evasion
 - [[Moi Era Corruption Economy]]
 - [[Public Procurement Corruption]]
 - [[Auditor General Role]]

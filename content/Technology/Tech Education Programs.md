@@ -10,7 +10,7 @@ Informal learning through online courses and tutorials democratized technology e
 
 ## See Also
 
-[[Computer Science Education]], [[STEM Education Initiatives]], [[Coding Bootcamps Kenya]], [[Moi University]], [[Health Technology Innovation]], [[Education Policy Kenya]]
+[[Computer Science Education]], [[STEM Education Initiatives]], [[Coding Bootcamps Kenya]], [[Moi University]], [[Health Technology Innovation]], [[Education]]
 
 ## Sources
 

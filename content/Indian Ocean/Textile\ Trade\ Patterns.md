@@ -1,4 +1,4 @@
-The [[Textile Trade Patterns]] moving cloth goods across the Indian Ocean integrated producers and consumers separated by thousands of kilometers into a unified commercial system. Indian cotton textiles dominated the system, as Indian producers achieved exceptional quality and consistency that consumers throughout the Indian Ocean world valued highly. The textile trade created economic dependence between Indian producers and African, Arab, and Asian consumers while enriching merchants who managed the complex logistics of moving cloth across oceanic distances.
+The Textile Trade Patterns moving cloth goods across the Indian Ocean integrated producers and consumers separated by thousands of kilometers into a unified commercial system. Indian cotton textiles dominated the system, as Indian producers achieved exceptional quality and consistency that consumers throughout the Indian Ocean world valued highly. The textile trade created economic dependence between Indian producers and African, Arab, and Asian consumers while enriching merchants who managed the complex logistics of moving cloth across oceanic distances.
 
 The Indian textile industry benefited from exceptional access to raw cotton combined with sophisticated manufacturing techniques developed over centuries. Indian cotton producers cultivated varieties that yielded superior fiber characteristics compared to cotton grown in other regions. The manufacturing processes for converting raw cotton into finished cloth developed into highly specialized trades where different regions and communities perfected specific techniques. The south Indian coast became particularly renowned for cotton textile production destined for export markets, while other regions specialized in different textile products.
 
@@ -25,8 +25,8 @@ The persistence of Indian textile trade even after European merchant companies e
 [[Indian Merchants Networks]]
 [[Trade Routes Networks]]
 [[Merchant Networks]]
-[[Cultural Exchange]]
-[[Commercial Integration]]
+Cultural Exchange
+Commercial Integration
 
 ## Sources
 

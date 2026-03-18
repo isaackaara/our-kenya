@@ -15,7 +15,7 @@ A [[East African Community]] political federation would involve:
 - A unified passport and citizenship framework
 - Harmonized legal systems and tax policies
 
-This vision echoes earlier pan-African dreams (particularly [[Julius Nyerere]]'s federalist aspirations) and imagines East Africa as a single political entity competing globally with the weight of a nation of 500+ million people.
+This vision echoes earlier pan-African dreams (particularly Julius Nyerere's federalist aspirations) and imagines East Africa as a single political entity competing globally with the weight of a nation of 500+ million people.
 
 ## Historical Origins
 

@@ -16,7 +16,7 @@ Post-colonial Kenya maintained gendered patterns in religious education, though 
 [[Bible Translation Projects]]
 [[Conversion Narratives Colonial]]
 [[Religion Kenyan Literature]]
-[[Women/Gender in Religion]]
+Gender in Religion
 
 ## Sources
 

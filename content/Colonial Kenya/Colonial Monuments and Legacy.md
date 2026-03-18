@@ -19,11 +19,11 @@ Monuments to precolonial African history and accomplishment were rare in colonia
 Post-independence Kenya has begun processes of removing colonial monuments and erecting new ones commemorating independence leaders and African history. The removal of colonial monuments and the construction of new ones represents contestation over historical memory and the symbolic landscape.
 
 ## See Also
-[[Colonial Memory and Commemoration]]
-[[Settler Identity and Monuments]]
-[[Post-Colonial Monuments]]
+Colonial Memory and Commemoration
+Settler Identity and Monuments
+Post-Colonial Monuments
 [[Colonial Legacy]]
-[[Historical Commemoration]]
+Historical Commemoration
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

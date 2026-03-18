@@ -44,7 +44,7 @@ In contemporary Kenya, Mount Kenya communities maintain distinct ethnic identiti
 
 - [[Meru and the Kikuyu]] - Detailed alliance analysis
 - [[Meru and Ruto Politics]] - Contemporary coalition dynamics
-- [[GEMA]] - Historic political alliance structure
+- GEMA - Historic political alliance structure
 - [[Njuri Ncheke]] - Shared governance institution
 - [[Mount Kenya Eastern Slopes]] - Shared geography and ecology
 

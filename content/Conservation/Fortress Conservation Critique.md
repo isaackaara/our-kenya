@@ -1,4 +1,4 @@
-[[Fortress Conservation Critique|Fortress conservation]] models, which establish [[Marine Protected Areas|protected areas]] as exclusive zones for [[Wildlife|wildlife]] with minimal human presence, have dominated [[Conservation|African conservation strategies]] including Kenya's. Critics argue that fortress models [[Moi and the Luo Community|exclude indigenous communities]], [[Land Rights Violations|violate land rights]], create [[Unjust Cost-Benefit Distributions|unjust cost-benefit distributions]], and may be [[Conservation|ineffective]] without [[support|community support]]. The [[Colonial Heritage|colonial heritage]] of fortress conservation reflects historical patterns of [[Land Appropriation|land appropriation]].
+[[Fortress Conservation Critique|Fortress conservation]] models, which establish [[Marine Protected Areas|protected areas]] as exclusive zones for [[wildlife|wildlife]] with minimal human presence, have dominated [[Conservation|African conservation strategies]] including Kenya's. Critics argue that fortress models [[Moi and the Luo Community|exclude indigenous communities]], violate land rights, create unjust cost-benefit distributions, and may be [[Conservation|ineffective]] without [[support|community support]]. The colonial heritage of fortress conservation reflects historical patterns of land appropriation.
 
 ## Definition and Approach
 
@@ -29,7 +29,7 @@ Community-based conservation and integration of indigenous rights with conservat
 - [[Community Conservation Model]]
 - [[Conservation vs Land Rights]]
 - [[Community Conservancies Model]]
-- [[Indigenous Land Rights]]
+- Indigenous Land Rights
 - [[Conservation]]
 - [[Moi and the Luo Community]]
 - [[Ogiek and the Mau Forest]]

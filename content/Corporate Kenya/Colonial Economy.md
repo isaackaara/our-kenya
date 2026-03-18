@@ -1,4 +1,4 @@
-The [[Colonial Economy|colonial economy]] of [[Kenya]] (1895-1963) was designed for extraction. The [[British]] did not come to develop Kenya for Kenyans. They came to create a plantation economy that would feed British industry and capital accumulation. The foundations of [[Post-Independence Economic Policy|post-independence]] inequality were deeply embedded in [[Colonial]] structures of land, [[labour]], and trade. The result was a deeply unequal system built on expropriation, racial hierarchy, and the suppression of African economic agency.
+The [[Colonial Economy|colonial economy]] of [[Kenya]] (1895-1963) was designed for extraction. The British did not come to develop Kenya for Kenyans. They came to create a plantation economy that would feed British industry and capital accumulation. The foundations of [[Post-Independence Economic Policy|post-independence]] inequality were deeply embedded in [[Colonial Kenya]] structures of land, [[Labour]], and trade. The result was a deeply unequal system built on expropriation, racial hierarchy, and the suppression of African economic agency.
 
 ## The Extraction Machine
 

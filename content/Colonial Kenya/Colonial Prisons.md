@@ -17,9 +17,9 @@ The prison system's role in colonial repression became especially apparent durin
 [[Colonial Courts Justice]]
 [[Colonial Police Force]]
 [[Mau Mau Uprising]]
-[[Colonial Torture Allegations]]
-[[Colonial Detention Emergency]]
-[[Colonial Repression]]
+Colonial Torture Allegations
+Colonial Detention Emergency
+Colonial Repression
 
 ## Sources
 

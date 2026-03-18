@@ -16,10 +16,10 @@ The hard choices Uhuru faced had no easy answers. Withdrawing from Somalia might
 - [[Westgate Attack 2013]]
 - [[Garissa University Attack 2015]]
 - [[Kenya's Somalia Intervention]]
-- [[2007 Post-Election Violence]]
+- [[2007-2008 Post Election Violence]]
 - [[Uhuru and Raila - Full Arc]]
-- [[Corruption/Security Sector]]
-- [[Elections/2013 Presidential Election]]
+- Security Sector
+- [[2013 Presidential Election]]
 - [[Uhuru Legacy Assessment]]
 
 ## Sources

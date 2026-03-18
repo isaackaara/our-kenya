@@ -1,12 +1,12 @@
-The [[Meru people|Meru]] supreme being is known as Murungu, a term that means both "God" and "spirit" in [[Kimeru language|Kimeru]] and other Bantu languages. The Meru concept of divinity evolved from precolonial religious thought and adapted through contact with [[Christianity]].
+The [[Meru People|Meru]] supreme being is known as Murungu, a term that means both "God" and "spirit" in [[Kimeru language|Kimeru]] and other Bantu languages. The Meru concept of divinity evolved from precolonial religious thought and adapted through contact with [[christianity]].
 
 ## Murungu: Supreme Being and Divine Spirit
 
-Murungu is the [[Meru people|Meru]] conception of the ultimate divine being or supreme spirit. Murungu is understood as transcendent, powerful, and worthy of respect. Murungu is not intensely anthropomorphic but has will and agency. The exact theological attributes of Murungu vary somewhat across different Meru communities and individual interpretations.
+Murungu is the [[Meru People|Meru]] conception of the ultimate divine being or supreme spirit. Murungu is understood as transcendent, powerful, and worthy of respect. Murungu is not intensely anthropomorphic but has will and agency. The exact theological attributes of Murungu vary somewhat across different Meru communities and individual interpretations.
 
 ## Sacred Places on Mount Kenya
 
-[[Mount Kenya]] holds sacred significance in [[Meru people|Meru]] religion and cosmology. Specific locations on Mount Kenya (waterfalls, springs, groves, the peak itself) are understood as places where Murungu's presence is particularly manifest. These sacred sites are places of prayer, ritual, and spiritual significance. Some sites are restricted to initiated elders or males only. Ritual specialists may visit sacred sites to make prayers or offerings.
+[[Mount Kenya]] holds sacred significance in [[Meru People|Meru]] religion and cosmology. Specific locations on Mount Kenya (waterfalls, springs, groves, the peak itself) are understood as places where Murungu's presence is particularly manifest. These sacred sites are places of prayer, ritual, and spiritual significance. Some sites are restricted to initiated elders or males only. Ritual specialists may visit sacred sites to make prayers or offerings.
 
 ## Role of Medicine People (Aruji)
 
@@ -22,7 +22,7 @@ Precolonial Meru religious practice involved rituals addressed to Murungu, often
 
 ## Syncretism and Coexistence
 
-In contemporary [[Meru people|Meru]] society, [[Christianity|Christian]] belief coexists with continued attention to traditional spiritual concepts. Some Meru understand Murungu as identical to the Christian God but also maintain traditional prayers or practices. The relationship between Christian and precolonial religious concepts remains complex and personally variable.
+In contemporary [[Meru People|Meru]] society, [[christianity|Christian]] belief coexists with continued attention to traditional spiritual concepts. Some Meru understand Murungu as identical to the Christian God but also maintain traditional prayers or practices. The relationship between Christian and precolonial religious concepts remains complex and personally variable.
 
 ## Mount Kenya as Sacred Landscape
 

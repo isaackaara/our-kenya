@@ -15,7 +15,7 @@ Informal sector labor's political marginalization reflected both union organizat
 - [[Union Leadership]]
 - [[Labor Advocacy]]
 - [[Protest Movements]]
-- [[Political Parties Kenya]]
+- [[Elections]]
 
 ## Sources
 1. https://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_123029.pdf

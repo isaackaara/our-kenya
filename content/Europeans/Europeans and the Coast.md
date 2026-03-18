@@ -96,9 +96,9 @@ Contemporary coast faces various challenges.
 - [[Church Missionary Society in Kenya]] - CMS coastal missions
 - [[European Settlement Overview]] - General settlement context
 - [[Swahili]] - Indigenous coastal culture
-- [[Muslims and Colonialism in Kenya]] - Religious resistance to conversion
-- [[Coastal Trade and Commerce]] - Economic activities
-- [[Tourism on the Kenyan Coast]] - Post-independence development
+- Muslims and Colonialism in Kenya - Religious resistance to conversion
+- Coastal Trade and Commerce - Economic activities
+- Tourism on the Kenyan Coast - Post-independence development
 - [[Lamu]] - Historic coastal town with UNESCO heritage
 
 1. **Development vs. Conservation**: Tourism development pressures coastal ecosystems.

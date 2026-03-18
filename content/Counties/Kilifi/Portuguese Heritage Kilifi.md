@@ -33,7 +33,7 @@ Portuguese archival records and historical documents preserved in Portugal provi
 - [[Malindi Town|Malindi Town]]
 - [[Kilifi Colonial History|Kilifi Colonial History]]
 - [[Kilifi Timeline|Kilifi Timeline]]
-- [[Kilifi Culture|Kilifi Cultural Heritage]]
+- Kilifi Cultural Heritage
 - [[Kilifi Islam|Kilifi Islam]]
 
 ## Sources

@@ -41,7 +41,7 @@ Not all Indians who came during the railway period were unskilled laborers. The 
 - [[Indian Traders and the Duka]]
 - [[Gujarati Dominance in Business]]
 - [[Asians in Colonial Kenya]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

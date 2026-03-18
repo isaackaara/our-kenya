@@ -94,7 +94,7 @@ The transition from protectorate to colony formalized settler colonial Kenya. It
 - [[White Highlands]] - The settler territory created
 - [[Colonial Administration]] - Governance structures
 - [[District Commissioners and Indirect Rule]] - Administrative implementation
-- [[Legislative Council]] - Colonial legislature
+- [[The Legislative Council]] - Colonial legislature
 - [[The 1923 Devonshire Declaration]] - 1923 assertion of African interests
 - [[Lancaster House and Departure]] - End of colonial rule
 - [[European Settlement Overview]] - Settler population timeline However, the colony status also contained contradictions that eventually facilitated decolonization.

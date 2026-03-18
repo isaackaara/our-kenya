@@ -1,6 +1,6 @@
 Women's participation in Kenya's military forces has been limited and contested, with women entering military service only from the 1980s-1990s onward, decades after independence. The Kenya Defence Force (KDF) has gradually expanded women recruitment and integration, yet women remain vastly underrepresented (less than 10 percent of active personnel) and concentrated in support rather than combat roles. Gender norms delegitimizing female military participation and institutional resistance to integration have constrained women's military advancement.
 
-Pre-independence military service was exclusively male. The colonial military, organized to support colonial administration and suppress African resistance, excluded African women from service. The [[Mau Mau Rebellion]] (1952-1960) involved women combatants and supporters, yet post-independence military structures excluded women, treating military service as male institutional preserve.
+Pre-independence military service was exclusively male. The colonial military, organized to support colonial administration and suppress African resistance, excluded African women from service. The [[Mau Mau Uprising]] (1952-1960) involved women combatants and supporters, yet post-independence military structures excluded women, treating military service as male institutional preserve.
 
 Early post-independence Kenya Defence Forces restricted women to minimal support roles. Some women entered military nursing and administrative positions, but combat and leadership roles remained male-exclusive by policy and practice. Gender ideology position military as masculine domain; women were absent from training colleges and command structures.
 
@@ -19,7 +19,7 @@ International peacekeeping operations have gradually increased female military p
 ## See Also
 
 [[Women Independence Struggle]]
-[[Mau Mau Rebellion]]
+[[Mau Mau Uprising]]
 [[Gender-Based Violence]]
 [[Women Leadership Capacity]]
 [[Women Safety Urban Planning]]

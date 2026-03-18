@@ -14,7 +14,7 @@ Contemporary green building initiatives in Kenya include both formal requirement
 
 [[Sustainability Design]]
 [[Climate Resilience]]
-[[Energy Infrastructure]]
+Energy Infrastructure
 [[Water Infrastructure]]
 [[Building Code Evolution]]
 [[Modern Construction Techniques]]

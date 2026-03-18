@@ -4,7 +4,7 @@ title: Meru Death and Burial Practices
 
 # Meru Death and Burial: Homestead Interment and Inheritance
 
-Death and burial in [[Meru people|Meru]] society involve ritual practices that bind the deceased to the family land, establish succession, and mark the transition of property to heirs.
+Death and burial in [[Meru People|Meru]] society involve ritual practices that bind the deceased to the family land, establish succession, and mark the transition of property to heirs.
 
 ## Burial in the Homestead
 
@@ -57,11 +57,11 @@ The [[Njuri Ncheke]] continues to adjudicate inheritance disputes, though settle
 ## See Also
 
 - [[Meru Clan System]]
-- [[Meru Marriage and Gender]]
+- [[Meru People]]
 - [[Njuri Ncheke]]
-- [[Meru Social Organization]]
+- [[Meru People]]
 - [[Land Tenure in Meru]]
-- [[Kenya Customary Law]]
+- Kenya Customary Law
 
 ---
 

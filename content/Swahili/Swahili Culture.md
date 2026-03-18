@@ -21,4 +21,4 @@ Swahili city-states dominated Indian Ocean trade for centuries, exchanging East 
 ## See Also
 - [[Swahili People]]
 - [[Mombasa]]
-- [[Indian Ocean Trade]]
+- [[Merchant Networks]]

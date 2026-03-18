@@ -4,7 +4,7 @@ Early [[Praise and Worship Movement Kenya|charismatic worship]] in Kenya closely
 
 But several factors pushed toward Africanization. First, audiences grew weary of music that felt culturally foreign. Second, African theology movements emphasized Christianity's compatibility with African cultures, challenging assumptions that authentic worship required Western forms. Third, commercial pressures demanded music that resonated with local audiences rather than merely copying imports.
 
-The breakthrough came when artists began incorporating traditional African elements while maintaining gospel content. [[Music/Kenyan Benga Music|Benga rhythms]], which had dominated secular Kenyan music, entered gospel arrangements. Drums patterns from Luo, Kikuyu, Kalenjin, and other ethnic traditions provided rhythmic foundations. Swahili and vernacular lyrics replaced or supplemented English, making worship accessible beyond educated elite.
+The breakthrough came when artists began incorporating traditional African elements while maintaining gospel content. [[Kenyan Benga Music|Benga rhythms]], which had dominated secular Kenyan music, entered gospel arrangements. Drums patterns from Luo, Kikuyu, Kalenjin, and other ethnic traditions provided rhythmic foundations. Swahili and vernacular lyrics replaced or supplemented English, making worship accessible beyond educated elite.
 
 Vocal techniques drawn from traditional African music transformed gospel's sonic texture. Call-and-response patterns, harmonies based on African rather than European musical theory, and improvisation became standard. These elements created gospel that sounded unmistakably African rather than Kenyan versions of American songs.
 
@@ -32,7 +32,7 @@ By the 2000s, African gospel had become Kenya's dominant Christian musical expre
 - [[Female Gospel Artists Kenya]]
 - [[Mamlaka Hill Chapel Music]]
 - [[Gospel Music and Kenyan Politics]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 - [[Parachute Band Kenya]]
 
 ## Sources

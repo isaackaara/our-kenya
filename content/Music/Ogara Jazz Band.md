@@ -1,4 +1,4 @@
-Ogara Jazz Band was among the founding orchestras of [[Benga Music|benga]] in the early 1960s, establishing a regional base in [[Cross-Ethnic/Nyanza Province|Nyanza Province]] that paralleled the Nairobi success of bands like [[Victoria Jazz Band]] and [[George Ramogi|George Ramogi's]] C.K. Jazz. The band played a crucial role in maintaining benga's connection to its [[Luo]] cultural roots even as the genre gained national popularity, serving both as entertainment and as a vehicle for [[Luo Benga and Nyanza Identity|Luo cultural assertion]].
+Ogara Jazz Band was among the founding orchestras of [[Benga Music|benga]] in the early 1960s, establishing a regional base in [[Nyanza Province|Nyanza Province]] that paralleled the Nairobi success of bands like [[Victoria Jazz Band]] and [[George Ramogi|George Ramogi's]] C.K. Jazz. The band played a crucial role in maintaining benga's connection to its [[Luo]] cultural roots even as the genre gained national popularity, serving both as entertainment and as a vehicle for [[Luo Benga and Nyanza Identity|Luo cultural assertion]].
 
 The band emerged during the transformative period when traditional Luo musicians were adapting electric guitars and modern amplification to their musical heritage. Ogara Jazz, like other pioneering benga bands, faced the challenge of translating the complex patterns of the nyatiti (eight-stringed lyre) and orutu (single-stringed fiddle) to Western instruments without losing the music's essential character. Their success in this adaptation demonstrated that electrification could enhance rather than diminish traditional musical values.
 
@@ -22,7 +22,7 @@ The band's influence can be traced in the continued vitality of benga in Nyanza 
 - [[Luo Benga and Nyanza Identity]]
 - [[Benga Guitar Technique]]
 - [[Recording Industry Kenya 1960s-1970s]]
-- [[Cross-Ethnic/Nyanza Province]]
+- [[Nyanza Province]]
 
 ## Sources
 1. "Benga music", Wikipedia, https://en.wikipedia.org/wiki/Benga_music

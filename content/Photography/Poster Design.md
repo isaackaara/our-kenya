@@ -7,13 +7,13 @@ The design of effective posters requires balancing multiple demands including ca
 Contemporary poster design continues serving diverse functions from commercial advertising to event promotion to artistic expression. Digital tools enable new creative possibilities while traditional poster printing remains common. Posters serve multiple audiences and purposes, communicating to general publics in ways fine art does not reach. Contemporary designers create posters addressing contemporary concerns, creating visual records of current events and cultural expressions. Poster design remains vital practice within Kenya's visual culture serving communication and cultural functions. The accessibility and public nature of posters makes them important form of visual communication and expression.
 
 ## See Also
-- [[Public Advertising]]
-- [[Political Posters]]
-- [[Cultural Event Promotion]]
-- [[Public Health Campaigns]]
-- [[Typography and Visual Hierarchy]]
-- [[Design for Communication]]
-- [[Visual Propaganda and Messaging]]
+- Public Advertising
+- Political Posters
+- Cultural Event Promotion
+- Public Health Campaigns
+- Typography and Visual Hierarchy
+- Design for Communication
+- Visual Propaganda and Messaging
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Poster - Poster History

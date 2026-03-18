@@ -3,10 +3,10 @@ Civil society organizations played expanded roles in 2002 compared to 1997, cond
 ## See Also
 
 - [[2002 Election]]
-- [[Civil society Kenya]]
+- [[Civil Society Kenya]]
 - [[Churches Kenya]]
-- [[Human rights Kenya]]
-- [[Democracy promotion Kenya]]
+- Human rights Kenya
+- Democracy promotion Kenya
 
 ## Sources
 

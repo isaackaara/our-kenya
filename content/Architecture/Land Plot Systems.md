@@ -12,13 +12,13 @@ Land plot tenure security, fundamental for housing investment and agricultural d
 
 ## See Also
 
-[[Land Tenure]]
+[[Land Tenure Post Independence]]
 [[Subdivision Patterns]]
 [[Urban Planning Development]]
 [[Residential Architecture]]
 [[Informal Settlements]]
 [[Agricultural Land and Politics]]
-[[Government Land]]
+Government Land
 
 ## Sources
 

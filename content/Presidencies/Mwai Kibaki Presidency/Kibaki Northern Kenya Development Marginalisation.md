@@ -7,11 +7,11 @@ The marginalisation of Northern Kenya also reflected ethnic and religious dimens
 ## See Also
 
 [[Northern Kenya Development Gap]]
-[[Pastoral Economies Kenya]]
-[[Regional Inequality Kenya]]
-[[Drought and Climate Variability]]
+Pastoral Economies Kenya
+[[Devolution Kenya]]
+Drought and Climate Variability
 [[Kibaki and the ICC]]
-[[Marginalised Communities Kenya]]
+Marginalised Communities Kenya
 
 ## Sources
 

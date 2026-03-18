@@ -18,7 +18,7 @@ The scientific importance of Kenyan archaeological sites for understanding human
 [[Cultural Heritage]]
 [[Colonial Legacy]]
 [[Mombasa Old Town]]
-[[Early Human Settlement]]
+Early Human Settlement
 
 ## Sources
 

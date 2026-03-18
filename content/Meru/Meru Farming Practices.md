@@ -4,11 +4,11 @@ title: Meru Farming Practices and Agriculture
 
 # Meru Farming: Traditional to Contemporary
 
-The [[Meru people]] inhabit one of Kenya's most fertile agricultural regions, the well-watered northeastern slopes of [[Mount Kenya]]. Farming practices reflect both indigenous knowledge and adaptations to commodity production.
+The [[Meru People]] inhabit one of Kenya's most fertile agricultural regions, the well-watered northeastern slopes of [[Mount Kenya]]. Farming practices reflect both indigenous knowledge and adaptations to commodity production.
 
 ## Traditional Crops
 
-**Millet**: A staple cereal crop in pre-colonial [[Meru people|Meru]] diet, traditionally ground into flour for ugali (maize meal equivalent) and porridge.
+**Millet**: A staple cereal crop in pre-colonial [[Meru People|Meru]] diet, traditionally ground into flour for ugali (maize meal equivalent) and porridge.
 
 **Beans**: A protein staple, grown intercropped with other crops. Beans remain important for household food security.
 
@@ -89,7 +89,7 @@ The intensively farmed hillsides remain productive, but the future sustainabilit
 - [[Meru County Agriculture]]
 - [[Meru Tea]]
 - [[Meru Coffee]]
-- [[Miraa]]
+- [[Miraa Trade]]
 - [[Land Tenure in Meru]]
 - [[Climate Change and Meru]]
 

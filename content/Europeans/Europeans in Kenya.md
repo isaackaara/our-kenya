@@ -80,8 +80,8 @@ A comprehensive knowledge graph of European (British, Boer, Italian, Greek, and 
 - [[Out of Africa and Its Legacy]] - Karen Blixen's cultural impact
 - [[Architecture]] - Colonial built environment
 - [[Nairobi]] - Colonial social institutions
-- [[Settler Diaries and Archives]] - Documentary legacy
-- [[The Norfolk Hotel]] - Colonial social center
+- Settler Diaries and Archives - Documentary legacy
+- The Norfolk Hotel - Colonial social center
 
 ## Critical Perspectives
 

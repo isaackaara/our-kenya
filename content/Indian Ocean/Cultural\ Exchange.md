@@ -1,4 +1,4 @@
-The [[Cultural Exchange]] facilitated through Indian Ocean maritime networks represented transformation of diverse societies through contact with merchants, travelers, and products from distant regions. The movement of merchandise across the Indian Ocean brought not only commodities but also ideas, technologies, religious concepts, and cultural practices. The synthesis of cultural influences from multiple traditions created distinctive [[Swahili]] and other regional cultural formations. The Indian Ocean world represented perhaps history's most extensive pre-modern system of cultural integration.
+The Cultural Exchange facilitated through Indian Ocean maritime networks represented transformation of diverse societies through contact with merchants, travelers, and products from distant regions. The movement of merchandise across the Indian Ocean brought not only commodities but also ideas, technologies, religious concepts, and cultural practices. The synthesis of cultural influences from multiple traditions created distinctive [[Swahili]] and other regional cultural formations. The Indian Ocean world represented perhaps history's most extensive pre-modern system of cultural integration.
 
 The exchange of religious ideas and practices represented significant cultural impact. The expansion of Islam through Indian Ocean trade networks transformed societies from Sub-Saharan Africa to Southeast Asia. The merchant communities established in foreign ports introduced Islamic practice and learning. The gradual conversion of merchant partners and local populations created religious communities integrated into broader Islamic world. The religious exchange contributed to formation of cultural identity across diverse regions.
 
@@ -22,9 +22,9 @@ The impacts of cultural exchange were not uniformly positive or negative but ref
 
 [[Swahili]]
 [[Merchant Networks]]
-[[Religious Diffusion]]
-[[Technological Transfer]]
-[[Artistic Influence]]
+Religious Diffusion
+Technological Transfer
+Artistic Influence
 
 ## Sources
 

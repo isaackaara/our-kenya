@@ -13,7 +13,7 @@ Economic tensions emerged where refugees engaged in business competition with lo
 [[Refugee Environmental Impact]]
 [[Deforestation Issues]]
 [[Water Scarcity Conflicts]]
-[[Coexistence Refugee-Host]]
+Coexistence Refugee-Host
 
 ## Sources
 

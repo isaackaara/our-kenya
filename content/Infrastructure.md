@@ -1,0 +1,31 @@
+Kenya's infrastructure development from the colonial era to the present reflects the shifting priorities of successive regimes, the country's ambitions for regional economic leadership, and the persistent challenge of connecting a geographically diverse territory with unevenly distributed populations and resources. Roads, railways, ports, energy systems, and telecommunications have each shaped and been shaped by Kenya's political economy.
+
+The [[Kenya Railways|Uganda Railway]], constructed between 1896 and 1901 from [[Mombasa County|Mombasa]] to Kisumu on [[Lake Victoria]], was the foundational infrastructure project of colonial Kenya. Built primarily with indentured labor from British India, the railway created [[Nairobi History|Nairobi]] as a depot town, opened the interior to European settlement in the [[White Highlands]], and established the transport corridor that continues to define Kenya's economic geography. The railway's construction also brought [[Indian Communities Kenya|Indian communities]] whose descendants would play significant roles in Kenya's commercial life.
+
+The [[Mombasa Port|port of Mombasa]], Kenya's maritime gateway, has been central to the country's infrastructure since the pre-colonial Swahili trading era symbolized by [[Fort Jesus]]. Colonial investment expanded the port's capacity to handle the agricultural exports and manufactured imports that sustained the settler economy. Post-independence modernization, including the construction of container terminals and the development of the second terminal at Dongo Kundu, has maintained Mombasa's position as East Africa's premier port, serving landlocked Uganda, Rwanda, Burundi, and eastern Congo. The port's efficiency and the condition of the Northern Corridor connecting it to these hinterland markets directly affect Kenya's [[Kenya Political Economy|economic competitiveness]].
+
+Road infrastructure has expanded dramatically since independence but remains a persistent constraint on development. The colonial road network was designed to serve settler farming areas and administrative centers, leaving vast portions of the country, particularly the arid north including [[Samburu County]], [[Marsabit]], and the northeastern counties, connected by seasonal tracks at best. Post-independence road construction has extended the tarmac network, with flagship projects including the Nairobi-Mombasa Highway, the Thika Superhighway completed under [[Mwai Kibaki]], and ongoing expressways. However, the condition of rural roads, which serve the majority of agricultural producers, varies dramatically with seasonal rains and inconsistent maintenance. The Nairobi Expressway, built as a public-private partnership with Chinese financing, represents the newest generation of infrastructure but has drawn criticism for its toll costs and the debt obligations associated with its construction.
+
+The Standard Gauge Railway (SGR) from Mombasa to Nairobi, completed in 2017 during the [[Uhuru Kenyatta Presidency]], is Kenya's most ambitious and controversial infrastructure project since independence. Built by Chinese contractors and financed by Chinese loans, the SGR reduced Mombasa-Nairobi travel time to approximately five hours but generated debate about its financial viability, debt implications, environmental impact through [[Tsavo Ecosystem]] National Park, and procurement irregularities. The line's extension to Naivasha is operational but the originally planned continuation to Kisumu and the Uganda border remains unfunded.
+
+Energy infrastructure has evolved from a colonial-era system serving urban and settler areas to a national grid reaching most populated areas. Kenya pioneered geothermal energy development in Africa, with the Olkaria complex in the [[Rift Valley]] making geothermal power a significant contributor to the national grid. Hydroelectric generation on the Tana River provides baseload power, while wind energy from the Lake Turkana Wind Power project, one of Africa's largest, has diversified the generation mix. Rural electrification programs, accelerated under the last-mile connectivity initiative, have dramatically expanded household access to electricity, though the cost of power remains a constraint on industrialization and a frequent political grievance.
+
+Telecommunications infrastructure has been Kenya's most transformative infrastructure story. The liberalization of the telecoms sector in the 1990s, the rapid expansion of mobile phone coverage by Safaricom and other operators, and the launch of [[M-Pesa]] mobile money in 2007 leapfrogged traditional banking infrastructure and positioned Kenya as a global leader in financial technology. Submarine fiber optic cables landing at Mombasa connected Kenya to global broadband networks, enabling the growth of Nairobi's technology hub. Digital infrastructure now underpins government services, commerce, and social life in ways that make it as fundamental as roads or railways.
+
+Water and sanitation infrastructure remains one of Kenya's most significant deficits. Urban water systems in [[Nairobi History|Nairobi]] and other cities are overstretched, while rural water access depends on a mix of piped schemes, boreholes, and rainwater harvesting. [[Devolution Kenya|Devolution]] transferred some water service responsibilities to counties, creating both opportunities for locally responsive investment and challenges of capacity and coordination.
+
+## See Also
+
+- [[Kenya Railways]]
+- [[Mombasa Port]]
+- [[M-Pesa]]
+- [[Nairobi History]]
+- [[Kenya Political Economy]]
+- [[Rift Valley]]
+
+## Sources
+
+1. Miller, Charles. *The Lunatic Express: An Entertainment in Imperialism*. New York: Macmillan, 1971.
+2. Jedwab, Remi, Edward Kerby, and Alexander Moradi. "History, Path Dependence and Development: Evidence from Colonial Railways, Settlers and Cities in Kenya." *Economic Journal* 127, no. 603 (2017): 1467–1494.
+3. Foster, Vivien, and Cecilia Briceno-Garmendia, eds. *Africa's Infrastructure: A Time for Transformation*. Washington, DC: World Bank, 2010.
+4. Jack, William, and Tavneet Suri. "Risk Sharing and Transactions Costs: Evidence from Kenya's Mobile Money Revolution." *American Economic Review* 104, no. 1 (2014): 183–223.

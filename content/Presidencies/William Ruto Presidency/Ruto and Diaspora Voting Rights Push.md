@@ -9,12 +9,12 @@ Diaspora voter enthusiasm would have been particularly consequential given Gen Z
 By 2024, diaspora voting remained a governance failure that excluded millions of Kenyans from electoral participation while simultaneously utilizing diaspora remittance flows for macroeconomic stability. This fundamental inconsistency—economic integration without political incorporation—continued to generate diaspora criticism of Kenyan governance.
 
 ## See Also
-[[Diaspora Engagement Policy Kenya]]
-[[Electoral Access and Voting Systems Kenya]]
-[[Remittances and Diaspora Importance]]
-[[Citizenship Rights Extended Kenya]]
+[[Diaspora Communities]]
+Electoral Access and Voting Systems Kenya
+Remittances and Diaspora Importance
+Citizenship Rights Extended Kenya
 [[Digital Art]]
-[[Gen Z Political Mobilization]]
+Gen Z Political Mobilization
 
 ## Sources
 1. https://www.standardmedia.co.ke/politics/article/2001408765-diaspora-voting-rights-ruto

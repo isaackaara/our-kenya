@@ -1,4 +1,4 @@
-Giriama women occupy a complex position in [[society]] with significant economic roles, ritual responsibilities, and some areas of authority, though male dominance in formal decision-making limits their overall power. The example of Mekatilili wa Menza demonstrates that women could exercise leadership in certain circumstances.
+Giriama women occupy a complex position in society with significant economic roles, ritual responsibilities, and some areas of authority, though male dominance in formal decision-making limits their overall power. The example of Mekatilili wa Menza demonstrates that women could exercise leadership in certain circumstances.
 
 ## Economic Roles and Agricultural Work
 
@@ -38,7 +38,7 @@ Historically, Giriama women had limited access to formal Western education, thou
 
 ## Contemporary Challenges
 
-Modern Giriama women face challenges combining traditional expectations with contemporary opportunities. Women seeking formal employment sometimes face family resistance or must migrate to urban areas. Urban Giriama women navigate different [[gender]] expectations and have access to services (education, healthcare) not available in rural areas. However, urban poverty also leaves many women vulnerable.
+Modern Giriama women face challenges combining traditional expectations with contemporary opportunities. Women seeking formal employment sometimes face family resistance or must migrate to urban areas. Urban Giriama women navigate different gender expectations and have access to services (education, healthcare) not available in rural areas. However, urban poverty also leaves many women vulnerable.
 
 ## Women's Organizations
 

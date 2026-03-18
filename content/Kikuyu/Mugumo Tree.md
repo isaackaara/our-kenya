@@ -29,7 +29,7 @@ When Christian missionaries arrived, they recognized the spiritual importance of
 Among traditional Kikuyu communities, the mugumo tree remains a symbol of cultural continuity. Even in contemporary Nairobi and urban centers, some churches and cultural associations maintain mugumo trees or reference them in spiritual practice. The tree represents an unbroken connection to pre-colonial Kikuyu cosmology.
 
 ---
-**See Also:** [[Ngai and Mount Kenya]], [[Kikuyu Sacred Geography]], [[Kikuyu and Christianity Today]]
+**See Also:** [[Ngai]], [[Kikuyu Sacred Geography]], [[Kikuyu and Christianity Today]]
 
 ## See Also
 

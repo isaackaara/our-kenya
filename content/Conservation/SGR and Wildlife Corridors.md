@@ -51,9 +51,9 @@ The SGR impacts, combined with similar barriers elsewhere, accumulate to create 
 - [[Wildlife Corridors Kenya]] - Habitat connectivity importance
 - [[Nairobi National Park]] - Affected park ecosystem
 - [[Infrastructure Development]] - Broader development conflicts
-- [[Habitat fragmentation]] - Ecological consequences
+- Habitat fragmentation - Ecological consequences
 - [[Kenya Wildlife Service]] - Conservation management
-- [[Elephant corridors]] - Species-specific impacts
+- Elephant corridors - Species-specific impacts
 - [[Environmental Art]] - Development planning
 
 ## Sources

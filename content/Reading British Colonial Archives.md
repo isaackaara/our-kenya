@@ -6,7 +6,7 @@ The context of reading british colonial archives illuminates how local, regional
 
 ## See Also
 
-[[Research]], [[Kenya History]], [[Historical Development]], [[Colonial Legacy]], [[British Administration]]
+Research, [[Kenya History]], [[Historical Development]], [[Colonial Legacy]], [[British Administration]]
 
 ## Sources
 

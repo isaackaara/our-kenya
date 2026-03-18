@@ -19,7 +19,7 @@ Colonial food policy also involved restrictions on crop production. The colonial
 [[Settler Farming System]]
 [[Colonial Taxation System]]
 [[Food Security Policies]]
-[[Drought Management]]
+Drought Management
 
 ## Sources
 

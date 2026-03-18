@@ -19,9 +19,9 @@ The incorporation of the Nyayo Philosophy into the curriculum was a particularly
 ## See Also
 [[Moi and Education]]
 [[Moi Nyayo Philosophy]]
-[[Kenya/Education Policy]]
+Education Policy
 [[Moi and Harambee]]
-[[Kenya/University System]]
+University System
 [[Moi Legacy]]
 
 ## Sources

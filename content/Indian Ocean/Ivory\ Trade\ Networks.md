@@ -22,7 +22,7 @@ The knowledge accumulated by ivory traders about interior geography and trading 
 
 ## See Also
 
-[[Gold Trade Corridors]]
+Gold Trade Corridors
 [[Slave Trade Coast]]
 [[Caravan Routes Interior]]
 [[Merchant Networks]]

@@ -14,7 +14,7 @@ The Luo are a Nilotic people with a population of approximately 10 percent of Ke
 
 ## Culture, Education, and Leadership
 
-[[Luo Music and Culture]] | [[Ohangla Music]] | [[[[Benga Music Origins|benga music]] Origins]] | [[Luo Music Industry]] | [[D.O. Misiani]] | [[Nyatiti]] | [[Luo Oral Literature]] | [[Luo Dance Forms]] | [[Luo Dress and Adornment]] | [[Luo and Education]] | [[Luo in the Professions]] | [[Tom Mboya|Tom Mboya]]]] | [[Barack Obama Sr|Barack Obama Sr]].]] | [[Luo Women in History]] | [[Luo Women's Roles]] | [[Grace Ogot Deep Dive|Grace Ogot]] Deep Dive]] | [[Atieno Odhiambo]] | [[Asenath Bole Odaga]]
+[[Luo Music and Culture]] | [[Ohangla Music]] | [[Benga Music Origins|benga music]] Origins]] | [[Luo Music Industry]] | [[D.O. Misiani]] | [[Nyatiti]] | [[Luo Oral Literature]] | [[Luo Dance Forms]] | [[Luo Dress and Adornment]] | [[Luo and Education]] | [[Luo in the Professions]] | [[Tom Mboya|Tom Mboya]]]] | [[Barack Obama Sr|Barack Obama Sr]].]] | [[Luo Women in History]] | [[Luo Women's Roles]] | [[Grace Ogot Deep Dive|Grace Ogot]] Deep Dive]] | [[Atieno Odhiambo]] | [[Asenath Bole Odaga]]
 
 ## Family, Marriage, and Social Life
 
@@ -34,7 +34,7 @@ The Luo are a Nilotic people with a population of approximately 10 percent of Ke
 
 ## Twentieth and Twenty-First Century Politics
 
-[[[[Jaramogi Oginga Odinga|Oginga Odinga]] Oginga Odinga]] | [[Oginga Odinga Deep Dive]] | [[[[Raila Odinga|Raila Odinga]]]] | [[Raila Odinga Biography]] | [[Luo Political History]] | [[Luo Political Philosophy]] | [[Luo Politics Post-Raila]] | [[Tom Mboya Assassination]] | [[Luo and the Kenyan State]] | [[Luo Youth and Identity]] | [[Young Luo Identity]] | [[Luo and the 2007 Election]] | [[Luo-Kikuyu Political Relationship]] | [[Luo Political Voice Post-2022]]
+[[Jaramogi Oginga Odinga|Oginga Odinga]] Oginga Odinga]] | [[Oginga Odinga Deep Dive]] | [[Raila Odinga|Raila Odinga]]]] | [[Raila Odinga Biography]] | [[Luo Political History]] | [[Luo Political Philosophy]] | [[Luo Politics Post-Raila]] | [[Tom Mboya Assassination]] | [[Luo and the Kenyan State]] | [[Luo Youth and Identity]] | [[Young Luo Identity]] | [[Luo and the 2007 Election]] | [[Luo-Kikuyu Political Relationship]] | [[Luo Political Voice Post-2022]]
 
 ## Sports and Society
 
@@ -46,7 +46,7 @@ The Luo are a Nilotic people with a population of approximately 10 percent of Ke
 
 ## Health and Contemporary Issues
 
-[[HIV/AIDS in Luo Community]] | [[Luo and HIV/AIDS]]
+[[AIDS Epidemic Kenya]] | AIDS
 
 ## Futures
 

@@ -1,8 +1,8 @@
-[[Ushahidi]] (meaning "testimony" in [[Swahili|Swahili]]) is an [[open-source Kenya|open-source]] [[crowdmapping Kenya|crowdmapping]] [[platform Kenya|platform]] created in [[Kenya]] in [[2008]] to map [[Post-Election Violence|post-election violence]]. It became a global tool for [[crisis mapping Kenya|crisis mapping]], [[disaster response Kenya|disaster response]], and [[conflict monitoring Kenya|conflict monitoring]], demonstrating that [[Kenya|Kenyan tech innovation]] could have worldwide impact.
+[[Ushahidi]] (meaning "testimony" in [[Swahili|Swahili]]) is an open-source crowdmapping platform created in [[Kenya]] in 2008 to map [[Post-Election Violence|post-election violence]]. It became a global tool for crisis mapping, disaster response, and conflict monitoring, demonstrating that [[Kenya|Kenyan tech innovation]] could have worldwide impact.
 
 ## Origins and the 2008 Post-Election Crisis
 
-Ushahidi was created during the [[Post-Election Violence|post-election violence]] of [[2008]] (following a disputed [[presidential election Kenya|presidential election]]) to [[crowdmap Kenya|crowdmap]] incidents of [[violence Kenya|violence]]. [[Citizens Kenya|Citizens]] could submit reports of violence via [[SMS Kenya|SMS]] or [[web Kenya|web]], creating a [[real-time map Kenya|real-time map]].
+Ushahidi was created during the [[Post-Election Violence|post-election violence]] of 2008 (following a disputed presidential election) to crowdmap incidents of violence. Citizens could submit reports of violence via SMS or web, creating a real-time map.
 
 The platform was groundbreaking: it demonstrated that crowdsourced, citizen-generated information could provide situational awareness during crises in ways traditional media could not.
 
@@ -44,8 +44,8 @@ Ushahidi demonstrated that Kenya could produce globally-significant technology i
 - [[Silicon Savannah]]
 - [[iHub Nairobi]]
 - [[Kenya]]
-- [[Open Source Kenya]]
-- [[Crisis Response Kenya]]
+- Open Source Kenya
+- Crisis Response Kenya
 - [[Digital Art]]
 - [[Post-Election Violence]]
 

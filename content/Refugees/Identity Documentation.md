@@ -10,10 +10,10 @@ Documentation for livelihood and legal engagement created barriers to economic i
 
 [[Refugee Registration Systems]]
 [[Biometric Systems]]
-[[Stateless Persons]]
+Stateless Persons
 [[Kenya Refugee Policy]]
 [[Refugee Legal Status Ambiguity]]
-[[Documentation Refugee Rights]]
+Documentation Refugee Rights
 
 ## Sources
 

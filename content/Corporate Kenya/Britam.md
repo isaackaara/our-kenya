@@ -1,4 +1,4 @@
-[[Britam]] (British-American Investments Company) is a major [[Insurance]] company in [[Kenya]], offering life insurance, general insurance, and investment products. The company operates across [[East Africa]] and is a key player in Kenya's [[Insurance History Kenya|insurance sector]].
+[[Britam]] (British-American Investments Company) is a major Insurance company in [[Kenya]], offering life insurance, general insurance, and investment products. The company operates across [[East Africa]] and is a key player in Kenya's [[Insurance History Kenya|insurance sector]].
 
 ## See Also
 

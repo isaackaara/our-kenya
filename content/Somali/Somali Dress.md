@@ -138,7 +138,7 @@ Dress carries religious and cultural meaning:
 - [[Somali Music and Poetry]]
 - [[Somali]]
 - [[Somali Food in Kenya]]
-- [[Nairobi Eastleigh Community]]
+- Nairobi Eastleigh Community
 
 ## Sources
 

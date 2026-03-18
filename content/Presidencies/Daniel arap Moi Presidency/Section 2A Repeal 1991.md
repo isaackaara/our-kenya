@@ -14,7 +14,7 @@ The immediate consequences were chaotic. Opposition parties proliferated; FORD i
 
 The violence that Moi had predicted, and arguably orchestrated, materialized. In the Rift Valley, [[Kalenjin]] warriors attacked [[Kikuyu]], [[Luo]], and [[Luhya]] farmers in what was framed as ethnic conflict but widely understood as state-sponsored voter displacement. Thousands were killed, hundreds of thousands displaced, creating a humanitarian crisis that overshadowed the democratic opening. Moi won the 1992 election with 36% of the vote, a plurality in a fractured field, proving that multiparty politics did not automatically mean losing power.
 
-Yet the repeal of Section 2A was consequential in the long term. It legitimized opposition organizing, created space for independent media to expand, and allowed civil society to operate more openly. The legal framework for authoritarianism remained largely intact, [[Detention Without Trial Under Moi|detention laws]], sedition statutes, control of the provincial administration, but the political culture began to shift. Kenyans who had known only one-party rule experienced competitive elections, flawed as they were. A generation of opposition politicians gained experience that would prove critical in the [[Elections/2002 Presidential Election|2002 election]] that finally removed Moi from power.
+Yet the repeal of Section 2A was consequential in the long term. It legitimized opposition organizing, created space for independent media to expand, and allowed civil society to operate more openly. The legal framework for authoritarianism remained largely intact, [[Detention Without Trial Under Moi|detention laws]], sedition statutes, control of the provincial administration, but the political culture began to shift. Kenyans who had known only one-party rule experienced competitive elections, flawed as they were. A generation of opposition politicians gained experience that would prove critical in the [[2002 Presidential Election|2002 election]] that finally removed Moi from power.
 
 The Section 2A repeal was not the triumph of democracy over dictatorship; it was a tactical retreat by a dictator who understood when he had no choice. Moi's genius was recognizing that he could concede the form of multiparty politics while retaining the substance of power. But the space opened in 1991, narrow as it was, proved impossible to fully close. The opposition, fragmented and defeated in 1992, learned, regrouped, and eventually won. December 10, 1991, was not the day Kenya became democratic, but it was the day when that possibility became thinkable again.
 
@@ -25,8 +25,8 @@ The Section 2A repeal was not the triumph of democracy over dictatorship; it was
 - [[Moi and the Church]]
 - [[Moi and Kenneth Matiba]]
 - [[Moi Foreign Policy]]
-- [[Elections/2002 Presidential Election]]
-- [[Cross-Ethnic/Multiparty Politics and Ethnic Division]]
+- [[2002 Presidential Election]]
+- Multiparty Politics and Ethnic Division
 
 ## Sources
 1. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctt1xhr73

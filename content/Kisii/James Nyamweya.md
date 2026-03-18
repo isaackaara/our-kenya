@@ -4,7 +4,7 @@ title: James Nyamweya (1927-1995)
 
 # James Nyamweya
 
-James Nyamweya (December 28, 1927 - 1995) was a prominent [[Gusii people|Kisii]] politician and one of the first [[Gusii people|Kisii]] to hold high-level government positions in [[Kenya independence|post-independence Kenya]]. Born in [[Nyaribari Masaba]], he had a remarkable career spanning [[Kisii Education Culture|education]], [[Women Civil Service Government Kenya|civil service]], and [[Kibaki and Ethnic Politics Mount Kenya Dominance|politics]].
+James Nyamweya (December 28, 1927 - 1995) was a prominent [[Gusii people|Kisii]] politician and one of the first [[Gusii people|Kisii]] to hold high-level government positions in [[Kenya Independence|post-independence Kenya]]. Born in Nyaribari Masaba, he had a remarkable career spanning [[Kisii Education Culture|education]], [[Women Civil Service Government Kenya|civil service]], and [[Kibaki and Ethnic Politics Mount Kenya Dominance|politics]].
 
 ## Early Life and Education
 
@@ -73,8 +73,8 @@ He died in 1995, leaving behind a legacy as one of Kisii's most accomplished pol
 ## See Also
 
 - [[Kisii County]] - political context
-- [[Kenya independence era]] - historical period
-- [[Seventh-day Adventist education in Kenya]] - SDA background
+- Kenya independence era - historical period
+- Seventh-day Adventist education in Kenya - SDA background
 - [[Gusii and the Mau Mau]] - career advancement patterns
-- [[Kenya Cabinet ministers]] - governmental context
+- Kenya Cabinet ministers - governmental context
 - [[Jomo Kenyatta]] - political administration period

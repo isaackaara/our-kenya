@@ -6,7 +6,7 @@ Understanding national environment council provides essential context for Kenya'
 
 ## See Also
 
-[[Environment]], [[Kenya History]]
+Environment, [[Kenya History]]
 
 ## Sources
 

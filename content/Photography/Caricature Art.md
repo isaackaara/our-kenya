@@ -7,13 +7,13 @@ The tradition of political and social caricature within journalism has been impo
 Contemporary caricature practice in Kenya continues serving entertainment, journalism, and artistic purposes. Digital tools enable caricature creation and distribution. Caricaturists work across print and digital media. The continued appreciation for caricature reflects its entertainment value and effectiveness as visual communication combining likeness with exaggeration. Caricaturists maintain working traditions while adapting to contemporary contexts and tools. Caricature remains valued practice within Kenya's visual culture serving multiple functions from entertainment to social commentary.
 
 ## See Also
-- [[Portrait Exaggeration]]
+- Portrait Exaggeration
 - [[Political Novels Satire]]
-- [[Character Depiction]]
-- [[Cartooning Tradition]]
-- [[Journalism and Illustration]]
-- [[Visual Humor and Wit]]
-- [[Facial Anatomy Drawing]]
+- Character Depiction
+- Cartooning Tradition
+- Journalism and Illustration
+- Visual Humor and Wit
+- Facial Anatomy Drawing
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Caricature - Caricature History

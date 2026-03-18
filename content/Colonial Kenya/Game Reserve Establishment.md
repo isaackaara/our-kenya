@@ -19,7 +19,7 @@ By the late colonial period, game reserves had become significant tourist attrac
 [[Land Alienation]]
 [[Colonial Native Reserves]]
 [[Conservation]]
-[[Tourism Colonial Period]]
+Tourism Colonial Period
 
 ## Sources
 

@@ -31,4 +31,4 @@ The expulsion also highlighted the asymmetry of power. Asians had wealth and edu
 - [[Idi Amin's Expulsion of Ugandan Asians]]
 - [[Asians in Colonial Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]

@@ -48,7 +48,7 @@ Funeral rites and marriage ceremonies were elaborate ritual processes designed t
 - [[Gusii Proverbs]] - cultural wisdom and moral teachings
 - [[Abagusii Language]] - linguistic expression of spiritual concepts
 - [[Kisii Elders and Governance]] - spiritual authority of elders
-- [[Witch belief in African societies]] - witchcraft in cosmological framework
+- Witch belief in African societies - witchcraft in cosmological framework
 
 ## Sources
 

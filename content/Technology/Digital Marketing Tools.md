@@ -10,7 +10,7 @@ Marketing automation platforms integrated diverse marketing functions. Lead mana
 
 ## See Also
 
-[[Social Media Kenya]], [[Entrepreneurship Kenya]], [[E-Commerce Platforms Kenya]], [[Digital Payment Systems]], [[Tech Startups Ecosystem]], [[Advertising Technology]]
+[[Social Media Kenya]], [[Entrepreneurship Kenya]], [[E-Commerce Platforms Kenya]], [[Digital Payment Systems]], [[Tech Startups Ecosystem]], Advertising Technology
 
 ## Sources
 

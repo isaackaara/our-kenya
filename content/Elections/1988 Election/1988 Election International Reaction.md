@@ -5,7 +5,7 @@ International observers and foreign governments responded to the 1988 election w
 - [[Daniel arap Moi]]
 - [[Kenya]]
 - [[Kenya]]
-- [[Cold War Africa]]
+- Cold War Africa
 - [[Kenya]]
 
 ## Sources

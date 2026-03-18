@@ -32,4 +32,4 @@ Busia's position as Kenya's primary border crossing with Uganda makes it strateg
 ## See Also
 - [[Luhya]]
 - [[Lake Victoria Kenya]]
-- [[Border Trade Kenya]]
+- Border Trade Kenya

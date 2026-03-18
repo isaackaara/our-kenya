@@ -1,4 +1,4 @@
-The [[Reef Navigation]] represented one of the most dangerous aspects of Indian Ocean sailing, requiring intimate knowledge of specific reef locations and safe passages through reef systems. The extensive coral reefs that characterized East African coastlines created navigation hazards that demanded expert piloting. The dangers of reef encounter meant that merchant vessels required pilot guidance through reef-strewn waters.
+The Reef Navigation represented one of the most dangerous aspects of Indian Ocean sailing, requiring intimate knowledge of specific reef locations and safe passages through reef systems. The extensive coral reefs that characterized East African coastlines created navigation hazards that demanded expert piloting. The dangers of reef encounter meant that merchant vessels required pilot guidance through reef-strewn waters.
 
 The identification of safe passages through reef systems required recognition of subtle water color changes and wave patterns that indicated reef presence. The experienced pilots could identify reef locations through water observation. The knowledge was accumulated through repeated passage through specific reef systems and transmission through apprenticeship. The pilots who understood particular reef systems commanded premium compensation.
 
@@ -22,8 +22,8 @@ The persistence of reef-caused maritime accidents despite improved technology re
 
 [[Navigation Methods]]
 [[Pilot Knowledge]]
-[[Coastal Hazards]]
-[[Maritime Safety]]
+Coastal Hazards
+Maritime Safety
 [[Coral Ecosystems]]
 
 ## Sources

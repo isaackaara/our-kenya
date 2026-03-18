@@ -10,7 +10,7 @@ Despite all pressures, many kayas continue to serve spiritual and ceremonial fun
 
 ## Tourism and Cultural Commodification
 
-Some kayas have become tourist destinations, attracting visitors interested in experiencing "authentic" African culture and meeting indigenous communities. Organized tourism to certain accessible kayas (particularly Kaya Kinondo) generates income for local guides and communities. However, tourism also brings [[challenges]]: foot traffic damages forest floors, tourists sometimes treat sacred objects or spaces disrespectfully, and the commodification of sacred sites can undermine their spiritual significance. The balance between economic benefit and cultural integrity is difficult to maintain.
+Some kayas have become tourist destinations, attracting visitors interested in experiencing "authentic" African culture and meeting indigenous communities. Organized tourism to certain accessible kayas (particularly Kaya Kinondo) generates income for local guides and communities. However, tourism also brings challenges: foot traffic damages forest floors, tourists sometimes treat sacred objects or spaces disrespectfully, and the commodification of sacred sites can undermine their spiritual significance. The balance between economic benefit and cultural integrity is difficult to maintain.
 
 ## Government Management and Conservation
 

@@ -33,7 +33,7 @@ African Brotherhood Church music demonstrated that African Christianity need not
 - [[European Missionary Music in Kenya]]
 - [[Mission Church Choirs Kenya]]
 - [[Music and Colonial Resistance]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 - [[Jomo Kenyatta Presidency]]
 
 ## Sources

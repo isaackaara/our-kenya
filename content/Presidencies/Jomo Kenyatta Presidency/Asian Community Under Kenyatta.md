@@ -1,4 +1,4 @@
-The Asian community in Kenya, numbering about 180,000 at independence, faced systematic economic pressure and social marginalization during the Kenyatta era, culminating in an exodus that saw roughly 60,000 Asians leaving Kenya between 1967 and 1975. The community, predominantly of Indian and Pakistani origin and including Hindus, Muslims, Sikhs, and Goans, had been integral to Kenya's colonial economy as traders, artisans, clerks, and professionals. But independence nationalism framed Asians as exploitative middlemen who had collaborated with colonialism, and [[Africanization of the Economy|Africanization policies]] deliberately targeted them for displacement, replacing Asian economic dominance with African (particularly [[Kikuyu/Kikuyu Business Elite|Kikuyu]]) ownership while claiming to redress colonial injustices.
+The Asian community in Kenya, numbering about 180,000 at independence, faced systematic economic pressure and social marginalization during the Kenyatta era, culminating in an exodus that saw roughly 60,000 Asians leaving Kenya between 1967 and 1975. The community, predominantly of Indian and Pakistani origin and including Hindus, Muslims, Sikhs, and Goans, had been integral to Kenya's colonial economy as traders, artisans, clerks, and professionals. But independence nationalism framed Asians as exploitative middlemen who had collaborated with colonialism, and [[Africanization of the Economy|Africanization policies]] deliberately targeted them for displacement, replacing Asian economic dominance with African (particularly [[Kikuyu Business Elite|Kikuyu]]) ownership while claiming to redress colonial injustices.
 
 The Asian community's origins in Kenya dated to the late 19th century when the British brought Indian laborers to build the Uganda Railway. Many stayed after construction ended, establishing themselves as traders, shopkeepers, and artisans. By independence, Asians controlled retail trade in urban and rural areas, dominated small-scale manufacturing (textiles, food processing, metal works), and held significant positions in professional services (accounting, law, medicine). They were economically successful but politically marginalized during the colonial period, excluded from settler politics and African nationalist movements alike.
 
@@ -38,7 +38,7 @@ The legacy persisted into subsequent generations. Asians who remained integrated
 - [[James Gichuru]]
 - [[Kenyatta and UK Relations Post-Independence]]
 - [[Nairobi Development 1963-1978]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 
 ## Sources
 1. Gregory, Robert G. *South Asians in East Africa: An Economic and Social History, 1890-1980*. Westview Press, 1993. https://www.worldcat.org/title/south-asians-in-east-africa/oclc/27265286

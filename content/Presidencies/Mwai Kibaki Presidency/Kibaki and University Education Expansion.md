@@ -10,12 +10,12 @@ Kibaki's approach to education policy reflected his broader economic philosophy:
 
 ## See Also
 
-[[Higher Education Kenya Expansion]]
+Higher Education Kenya Expansion
 [[Moi University]]
-[[Education Policy Kenya]]
-[[Kibaki Education Legacy]]
-[[Human Capital Development]]
-[[Social Policy Kenya]]
+[[Education]]
+Kibaki Education Legacy
+Human Capital Development
+Social Policy Kenya
 
 ## Sources
 

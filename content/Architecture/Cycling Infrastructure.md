@@ -13,9 +13,9 @@ Contemporary cycling infrastructure remains minimal. Downtown Nairobi lacks syst
 ## See Also
 
 [[Pedestrian Infrastructure]]
-[[Sustainable Transportation]]
+Sustainable Transportation
 [[Urban Planning Development]]
-[[Secondary Towns Development]]
+Secondary Towns Development
 [[Traffic Management]]
 [[Nairobi Built Environment]]
 [[Environmental Art]]

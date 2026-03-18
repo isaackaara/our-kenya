@@ -14,7 +14,7 @@ Specific observer missions produced more detailed assessments. The European Unio
 
 International observer presence itself had become routine by 1997, unlike in 1992 when election observation in Kenya was more novel. The professionalization of observer missions, the deployment of parallel vote tabulation methodologies, and the increasingly standardized checklists of democratic conduct reflected the maturation of international election observation as a field. This institutionalization meant that 1997 observers could document problems with more precision than 1992 observers had possessed, even as it meant that some issues that had surprised observers in 1992 were now expected and incorporated into observer methodologies.
 
-The observer findings of 1997 would set expectations for the 2002 election. When observers assessed the 2002 election (which Moi lost to [[Kibaki]]) as the "cleanest election in Kenya's history," they were measuring it against the 1997 benchmark and against the 2007 election (which would be catastrophically flawed). The trajectory of observer assessments thus illuminated the contingency of Kenyan democracy: elections could be more or less flawed depending on political circumstances and the commitment of political actors to electoral fairness.
+The observer findings of 1997 would set expectations for the 2002 election. When observers assessed the 2002 election (which Moi lost to [[Mwai Kibaki]]) as the "cleanest election in Kenya's history," they were measuring it against the 1997 benchmark and against the 2007 election (which would be catastrophically flawed). The trajectory of observer assessments thus illuminated the contingency of Kenyan democracy: elections could be more or less flawed depending on political circumstances and the commitment of political actors to electoral fairness.
 
 ## See Also
 
@@ -22,8 +22,8 @@ The observer findings of 1997 would set expectations for the 2002 election. When
 - [[Electoral Commission of Kenya]]
 - [[1992 Election]]
 - [[2002 Election]]
-- [[International electoral observation]]
-- [[Democracy assessment in Africa]]
+- International electoral observation
+- Democracy assessment in Africa
 
 ## Sources
 

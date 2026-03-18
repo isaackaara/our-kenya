@@ -1,4 +1,4 @@
-The [[Ship Types Designs]] developed for Indian Ocean maritime commerce reflected adaptation to regional environmental conditions, cargo requirements, and merchant preferences accumulated over centuries of seafaring. The diversity of vessel types operating simultaneously in the Indian Ocean reflected specialization of different ships for particular trading routes and cargo types. The evolution of ship design represented technological innovation driven by merchant demand for improved cargo capacity, speed, and safety.
+The Ship Types Designs developed for Indian Ocean maritime commerce reflected adaptation to regional environmental conditions, cargo requirements, and merchant preferences accumulated over centuries of seafaring. The diversity of vessel types operating simultaneously in the Indian Ocean reflected specialization of different ships for particular trading routes and cargo types. The evolution of ship design represented technological innovation driven by merchant demand for improved cargo capacity, speed, and safety.
 
 The dhow represented the dominant vessel type throughout the Indian Ocean, with numerous variants adapted to specific regional conditions and cargo requirements. The lateen sail configuration allowed dhows to sail efficiently in monsoon conditions, while the light draft permitted navigation in shallow coastal waters. The flexibility of dhow design allowed construction of vessels ranging from relatively small coastal traders to ocean-going vessels capable of carrying substantial cargo across open water.
 
@@ -20,11 +20,11 @@ The evolution of navigational technology incorporated gradual improvements in in
 
 ## See Also
 
-[[Dhow Culture Navigation]]
+Dhow Culture Navigation
 [[Merchant Vessels]]
 [[Sailing Technology Evolution]]
 [[Port Infrastructure]]
-[[Maritime Trade Networks]]
+Maritime Trade Networks
 
 ## Sources
 

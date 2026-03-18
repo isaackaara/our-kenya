@@ -10,7 +10,7 @@ The 2000s and 2010s saw ohangla's expansion and diversification. Artists like To
 
 Ohangla performances are intensely physical affairs. Dancers execute demanding, athletic moves that require stamina and skill, with competitions emerging around who can sustain the most energetic dancing for extended periods. The music's association with funerals initially gave it a somewhat somber reputation, but contemporary ohangla encompasses the full emotional spectrum, from joyful celebration to social critique to romantic longing. Lyrics frequently address HIV/AIDS, poverty, political corruption, and social change, making ohangla a vehicle for community discourse as much as entertainment.
 
-The genre faces ongoing debates about authenticity and commercialization. Purists argue that electrification and studio production dilute ohangla's traditional power, while innovators counter that the music must evolve to remain relevant to younger generations. Some [[Kikuyu/Kikuyu Origins|Kikuyu]] and other non-Luo Kenyans dismiss ohangla as unsophisticated or overly ethnic, reflecting broader tensions around vernacular music in Kenya's cultural landscape. Yet ohangla's vitality persists precisely because it remains anchored in Luo social practice, performed at actual funerals, weddings, and community events rather than existing purely as recorded entertainment. This rootedness ensures that even as ohangla changes, it maintains continuity with centuries-old Luo musical traditions.
+The genre faces ongoing debates about authenticity and commercialization. Purists argue that electrification and studio production dilute ohangla's traditional power, while innovators counter that the music must evolve to remain relevant to younger generations. Some [[Kikuyu Origins|Kikuyu]] and other non-Luo Kenyans dismiss ohangla as unsophisticated or overly ethnic, reflecting broader tensions around vernacular music in Kenya's cultural landscape. Yet ohangla's vitality persists precisely because it remains anchored in Luo social practice, performed at actual funerals, weddings, and community events rather than existing purely as recorded entertainment. This rootedness ensures that even as ohangla changes, it maintains continuity with centuries-old Luo musical traditions.
 
 ## See Also
 - [[Luo Benga Origins]]
@@ -18,7 +18,7 @@ The genre faces ongoing debates about authenticity and commercialization. Purist
 - [[Musical Instruments of Kenya - Percussion]]
 - [[Funeral Music Traditions Kenya]]
 - [[Luo Origins and Migration]]
-- [[Luo/Luo Political Identity]]
+- Luo Political Identity
 - [[Women's Music Traditions Kenya]]
 
 ## Sources

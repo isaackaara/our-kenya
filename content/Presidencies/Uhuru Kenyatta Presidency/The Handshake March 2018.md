@@ -8,7 +8,7 @@ The immediate impact was seismic. The handshake effectively ended NASA, Raila's 
 
 The country's reaction was mixed and deeply divided along ethnic and generational lines. In [[Luo]] Nyanza, Raila's heartland, the handshake was celebrated as bringing Luos back into government and ending their marginalization. In Central Kenya, [[Kikuyu]] elders and business elites supported the rapprochement as good for stability and economic growth. But among Ruto's Kalenjin base and younger Kenyans across ethnic groups, the handshake was seen as an elite pact between dynasties to protect their interests at the expense of democratic competition. The narrative of "dynasties versus hustlers" began to crystallize, with Ruto positioning himself as the champion of those excluded from the Kenyatta-Odinga deal.
 
-The handshake's most concrete output was the [[Building Bridges Initiative]] (BBI), a constitutional reform process announced in May 2018. However, the handshake's deeper significance was in reshaping Kenya's political elite settlement. It demonstrated that Uhuru was willing to sacrifice his deputy to make peace with his rival. It showed that Raila preferred a seat at the table to another opposition campaign. It revealed that Kenya's political class could reconfigure alliances with stunning speed when elite interests aligned. And it set the stage for the [[Uhuru and William Ruto Fallout|complete breakdown]] of the Uhuru-Ruto relationship, which would dominate Kenyan politics through the [[Elections/2022 Presidential Election|2022 election]].
+The handshake's most concrete output was the [[Building Bridges Initiative]] (BBI), a constitutional reform process announced in May 2018. However, the handshake's deeper significance was in reshaping Kenya's political elite settlement. It demonstrated that Uhuru was willing to sacrifice his deputy to make peace with his rival. It showed that Raila preferred a seat at the table to another opposition campaign. It revealed that Kenya's political class could reconfigure alliances with stunning speed when elite interests aligned. And it set the stage for the [[Uhuru and William Ruto Fallout|complete breakdown]] of the Uhuru-Ruto relationship, which would dominate Kenyan politics through the [[2022 Presidential Election|2022 election]].
 
 ## See Also
 - [[Uhuru and Raila - Full Arc]]
@@ -18,7 +18,7 @@ The handshake's most concrete output was the [[Building Bridges Initiative]] (BB
 - [[Building Bridges Initiative]]
 - [[Uhuru and William Ruto Fallout]]
 - [[Luo Political History]]
-- [[Cross-Ethnic/Kikuyu-Kalenjin Alliance]]
+- [[Kikuyu-Kalenjin Alliance]]
 
 ## Sources
 1. "Kenya: Uhuru Kenyatta and Raila Odinga's Surprise Handshake," BBC News, March 9, 2018. https://www.bbc.com/news/world-africa-43348762

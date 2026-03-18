@@ -21,8 +21,8 @@ Land security remains foundational to women's rights; grabbed land cannot be lev
 [[Women Land Rights]]
 [[Women Property Rights Marriage]]
 [[Female Inheritance Disputes]]
-[[Pastoralism]]
-[[Corruption/Land Corruption]]
+Pastoralism
+Land Corruption
 [[Constitutional Reform 2010]]
 
 ## Sources

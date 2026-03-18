@@ -58,7 +58,7 @@ However, he was also genuinely skilled at what he did (hunting, flying, survival
 - [[Happy Valley Set]] - Settler elite society
 - [[European Settlement Overview]] - Context of settler life
 - [[Colonial Kenya]] - Big-game hunting culture
-- [[Plane Crash in 1931]] - The circumstances of his death
+- Plane Crash in 1931 - The circumstances of his death
 - [[Joy and George Adamson]] - Later conservationists in Kenya
 
 ## See Also

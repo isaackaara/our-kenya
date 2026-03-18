@@ -33,4 +33,4 @@ Each clan name preserves the name of Mumbi's daughter:
 - [[Kiambu]]
 
 ## Related
-[[Gikuyu and Mumbi]] | [[Githaka]] | [[Age Sets]] | [[Muranga]] | [[Kiambu]] | [[Index]]
+[[Gikuyu and Mumbi]] | [[Githaka]] | [[Age Sets]] | [[Muranga]] | [[Kiambu]] | [[index]]

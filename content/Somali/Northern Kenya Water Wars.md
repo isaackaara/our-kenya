@@ -120,8 +120,8 @@ The water wars of northeastern Kenya represent a fundamental challenge to state 
 - [[Northern Kenya Development Gap]]
 - [[Livestock Markets Northern Kenya]]
 - [[Xeer Customary Law]]
-- [[Wajir Peace and Development Committee]]
-- [[Isiolo County Water Conflict]]
+- Wajir Peace and Development Committee
+- Isiolo County Water Conflict
 - [[Garissa County]]
 - [[Mandera County]]
 

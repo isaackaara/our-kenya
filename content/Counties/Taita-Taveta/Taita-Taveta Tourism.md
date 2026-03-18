@@ -28,7 +28,7 @@ Community benefits from tourism have been variable, with local employment occurr
 - [[Tsavo West National Park]]
 - [[Taita Hills]]
 - [[Lake Chala]]
-- [[Tourism Kenya]]
+- [[Tourism]]
 - [[Wildlife Tourism Revenue]]
 
 ## Sources

@@ -19,7 +19,7 @@ Visual and aesthetic dimensions of romance films emphasized beautiful settings, 
 By 2000s, romance themes remained present in Kenyan cinema, though primarily integrated within other genres rather than pure romance focus.
 
 ## See Also
-[[Film Genres Kenya]], [[Drama Television]], [[Romantic Comedy]], [[Film Acting]], [[Women]], [[Social Issues]], [[Entertainment]]
+[[Film Genres Kenya]], [[Drama Television]], Romantic Comedy, [[Film Acting]], [[Women]], Social Issues, [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

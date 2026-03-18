@@ -15,7 +15,7 @@ Professional child actors sometimes received formal training in acting and perfo
 The transition from child to adult acting was not automatic. Some young actors successfully navigated the transition while others found difficulty establishing adult careers. The particular physical appearance and talent that made actors appealing as children sometimes diminished in adulthood, affecting career viability.
 
 ## See Also
-[[Film Acting]], [[Television Acting]], [[Film School Training]], [[Drama Television]], [[Women]], [[Child Welfare]], [[Entertainment]]
+[[Film Acting]], [[Television Acting]], [[Film School Training]], [[Drama Television]], [[Women]], Child Welfare, [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

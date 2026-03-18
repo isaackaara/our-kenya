@@ -22,7 +22,7 @@ The persistence of non-compass navigation methods alongside compass use reflecte
 
 [[Navigation Methods]]
 [[Technology]]
-[[Maritime Innovation]]
+Maritime Innovation
 [[Merchant Vessels]]
 [[Sailing Technology Evolution]]
 

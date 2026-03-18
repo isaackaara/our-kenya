@@ -9,7 +9,7 @@ Mental health service access is severely limited in poor populations. Mental hea
 The relationship between mental health and poverty reduction is significant for policy. Mental health improvements enhance work capacity and earnings potential, reducing poverty. Mental health support improves family relationships and educational outcomes for children. However, mental health is often neglected in poverty reduction programming, treated as luxury rather than essential. Integration of mental health into primary healthcare, poverty reduction programs, and livelihood initiatives remains limited. Community-based mental health support including peer groups and traditional healing remains underutilized. Comprehensive poverty reduction requires mental health services integration; current separated systems limit effectiveness of both mental health and poverty interventions.
 
 ## See Also
-[[Poverty Measurement]], [[Trauma Poverty]], [[Substance Abuse]], [[Health Services]], [[Social Protection]], [[Suicide]], [[Employment and Mental Health]], [[Community Resilience]]
+[[Poverty Measurement]], [[Trauma Poverty]], [[Substance Abuse]], [[Health Services]], [[Social Protection]], Suicide, Employment and Mental Health, [[Community Resilience]]
 
 ## Sources
 1. World Health Organization (2017). "Mental Health and Poverty in Kenya: Needs Assessment." https://www.who.int

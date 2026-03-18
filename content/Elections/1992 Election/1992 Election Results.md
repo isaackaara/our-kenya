@@ -14,11 +14,11 @@ The 1992 results demonstrated the power of electoral systems to shape outcomes. 
 
 - [[1992 Election]]
 - [[1992 Election FORD Split]]
-- [[Electoral Mathematics Kenya]]
-- [[Presidential Results 1992]]
-- [[Parliamentary Composition 1992]]
-- [[Regional Voting Patterns]]
-- [[Electoral Irregularities]]
+- [[Elections]]
+- Presidential Results 1992
+- Parliamentary Composition 1992
+- Regional Voting Patterns
+- Electoral Irregularities
 
 ## Sources
 

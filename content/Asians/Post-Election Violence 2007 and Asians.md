@@ -1,4 +1,4 @@
-The post-election violence that erupted after Kenya's disputed 2007 presidential election significantly affected [[Asian businesses]]. Widespread looting, arson, and destruction targeted properties across Kenya, including many owned by Asians. The violence highlighted Asians' economic prominence and vulnerability.
+The post-election violence that erupted after Kenya's disputed 2007 presidential election significantly affected Asian businesses. Widespread looting, arson, and destruction targeted properties across Kenya, including many owned by Asians. The violence highlighted Asians' economic prominence and vulnerability.
 
 ## The 2007 Election Crisis
 

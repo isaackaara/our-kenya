@@ -4,7 +4,7 @@ title: The Mugwe (Sacred Leader and Clan)
 
 # The Mugwe: Spiritual Authority in Meru Society
 
-The term "mugwe" carries dual significance in [[Meru]] tradition. It refers both to the clan system and to a specific sacred leadership role that held profound spiritual authority in pre-Christian [[Meru]] society before [[Christianity]] and the [[Consolata Fathers]] arrived.
+The term "mugwe" carries dual significance in [[Meru]] tradition. It refers both to the clan system and to a specific sacred leadership role that held profound spiritual authority in pre-Christian [[Meru]] society before [[christianity]] and the Consolata Fathers arrived.
 
 ## The Mugwe as Ritual Specialist
 

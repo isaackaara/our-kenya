@@ -18,11 +18,11 @@ Environmental and social dimensions of pyrethrum cultivation included pesticide 
 
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
-[[Highland Agriculture Kenya]]
-[[Cooperative Marketing Systems]]
-[[Export Market Access]]
+Highland Agriculture Kenya
+Cooperative Marketing Systems
+Export Market Access
 [[Technology]]
-[[Commodity Market Volatility]]
+Commodity Market Volatility
 
 ## Sources
 

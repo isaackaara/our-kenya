@@ -10,7 +10,7 @@ Conversion narratives became powerful marketing tools. [[Size 8 Reborn|Size 8]]'
 
 Secular artists faced continuous religious criticism, particularly [[Gengetone Movement|gengetone]] musicians whose explicit content generated moral panic. Religious leaders, politicians claiming Christian credentials, and conservative civil society organizations called for censorship, regulation, and even bans on music they deemed immoral. The Kenya Film Classification Board's periodic crackdowns on music videos often cited protecting "family values" and Christian morality as justification. These interventions revealed ongoing battles over who controlled cultural production and what messages were permissible in public sphere.
 
-The relationship between gospel and gengetone revealed class and cultural divides within Kenyan Christianity. Middle-class churches and their congregations often embraced contemporary gospel's polished aesthetics while condemning gengetone's raw street culture. But working-class Christianity, particularly in [[Cross-Ethnic/Nairobi Urban Identity|informal settlements]], showed more complex relationships: young people consumed both gospel and gengetone, attended church on Sunday and clubs on Saturday, navigated secular and sacred without seeing fundamental contradiction. This everyday religious practice, messier than official theology, suggested that moral boundaries between genres were more porous than religious authorities claimed.
+The relationship between gospel and gengetone revealed class and cultural divides within Kenyan Christianity. Middle-class churches and their congregations often embraced contemporary gospel's polished aesthetics while condemning gengetone's raw street culture. But working-class Christianity, particularly in [[Nairobi Urban Identity|informal settlements]], showed more complex relationships: young people consumed both gospel and gengetone, attended church on Sunday and clubs on Saturday, navigated secular and sacred without seeing fundamental contradiction. This everyday religious practice, messier than official theology, suggested that moral boundaries between genres were more porous than religious authorities claimed.
 
 Gospel music's [[Sheng Language and Kenyan Music|Sheng]] adoption demonstrated how Christianity indigenized to reach youth audiences. Using street language for spiritual messaging could be seen as culturally relevant evangelism or dangerous dilution of sacred language, depending on theological perspective. Gospel artists singing in Sheng connected with young urban Kenyans who might not respond to English or Swahili hymns, but traditionalists worried this accommodation undermined Christianity's distinctiveness from secular culture.
 
@@ -31,7 +31,7 @@ By the mid-2020s, the tension between secular and sacred in Kenyan music showed 
 - [[Gengetone Movement|Gengetone Movement]]
 - [[Gengetone and Social Commentary|Gengetone and Social Commentary]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[2022 Election|2022 Election]]
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]

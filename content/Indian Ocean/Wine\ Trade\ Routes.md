@@ -1,10 +1,10 @@
-The [[Wine Trade Routes]] moved wine throughout Islamic regions of the Indian Ocean despite religious prohibitions against alcohol consumption. The apparent paradox of wine trade in nominally Islamic regions reflected the complex reality of religious practice where some merchants and consumers maintained wine consumption despite Islamic law. The integration of wine trade into merchant networks reflected the profitable nature of wine commerce and the enduring demand from non-Muslim and heterodox Muslim communities.
+The Wine Trade Routes moved wine throughout Islamic regions of the Indian Ocean despite religious prohibitions against alcohol consumption. The apparent paradox of wine trade in nominally Islamic regions reflected the complex reality of religious practice where some merchants and consumers maintained wine consumption despite Islamic law. The integration of wine trade into merchant networks reflected the profitable nature of wine commerce and the enduring demand from non-Muslim and heterodox Muslim communities.
 
 The primary wine sources supplying Indian Ocean trade came from Mediterranean regions, particularly from areas under Christian and Jewish control where wine production remained legal and culturally accepted. Mediterranean wine merchants developed trading relationships extending across the sea toward Islamic regions where demand from minority Christian and Jewish communities created profitable markets. The high value of wine relative to volume made it an attractive commodity for long-distance trade.
 
 The sale and consumption of wine in Islamic cities required particular discretion. Wine merchants would typically operate in discrete locations serving specific communities rather than engaging in open public commerce. The client base for wine trade would include Christian and Jewish minorities, merchants who maintained heterodox Islamic practices, and wealthy individuals capable of purchasing despite religious restrictions. The discreet nature of wine trading meant that record-keeping of wine commerce was often absent, making historical documentation limited.
 
-The integration of [[Wine Trade Routes]] into broader merchant networks meant that wine traders handled multiple commodities. A merchant engaged in wine trading might simultaneously trade in other goods, using the profits from multiple trading activities to offset losses if any single commodity proved unprofitable. The combination of legal and discreetly illegal commerce allowed merchants to optimize revenue while managing risks.
+The integration of Wine Trade Routes into broader merchant networks meant that wine traders handled multiple commodities. A merchant engaged in wine trading might simultaneously trade in other goods, using the profits from multiple trading activities to offset losses if any single commodity proved unprofitable. The combination of legal and discreetly illegal commerce allowed merchants to optimize revenue while managing risks.
 
 The political challenges of wine trading reflected the legal status of wine in Islamic regions. Merchants trading wine faced risks of confiscation and punishment if discovered by authorities enforcing Islamic law. The relationship between wine merchants and local rulers often involved covert arrangements where rulers would tacitly allow wine trading while maintaining public commitment to Islamic law. The profit-sharing arrangements between merchants and officials protected both parties while allowing wine commerce to continue.
 
@@ -22,9 +22,9 @@ The decline of wine trading as alternative beverages became available and as Isl
 
 [[Merchant Networks]]
 [[Shia Islam Kenya Minority Communities]]
-[[Islamic Law]]
+Islamic Law
 [[Trade Routes Networks]]
-[[Discreet Commerce]]
+Discreet Commerce
 
 ## Sources
 

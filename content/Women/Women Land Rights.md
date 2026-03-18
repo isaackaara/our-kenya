@@ -1,6 +1,6 @@
-Land ownership and control in Kenya has been profoundly gendered, with women systematically excluded from direct land title and decision-making authority even where they performed primary agricultural labor. Colonial land policy created a patriarchal landownership system that concentrated title in male household heads, displacing precolonial systems where women maintained use rights and inheritance pathways in many [[Kikuyu/Kikuyu People and Culture|Kikuyu]], [[Luo/Luo People and Culture|Luo]], and other communities. Post-independence land policies perpetuated this male-bias framework, treating women as dependent household members rather than independent landholders.
+Land ownership and control in Kenya has been profoundly gendered, with women systematically excluded from direct land title and decision-making authority even where they performed primary agricultural labor. Colonial land policy created a patriarchal landownership system that concentrated title in male household heads, displacing precolonial systems where women maintained use rights and inheritance pathways in many [[Kikuyu People and Culture|Kikuyu]], [[Luo People and Culture|Luo]], and other communities. Post-independence land policies perpetuated this male-bias framework, treating women as dependent household members rather than independent landholders.
 
-Customary law systems governing land in Kenya's diverse ethnic communities generally privileged male inheritance and male household authority. [[Maasai/Maasai People and Culture|Maasai]] pastoral land tenure systems organized around male-headed pastoral units, limiting women's claims to communal grazing lands. [[Kikuyu/Kikuyu People and Culture|Kikuyu]] customary law permitted women usufruct rights on lineage land but not ownership or alienation authority. [[Luo/Luo People and Culture|Luo]] customary systems similarly subordinated women's land claims to male household and lineage authority. Widows faced particular vulnerability, often losing access to marital land upon husbands' death, with land reverting to male relatives.
+Customary law systems governing land in Kenya's diverse ethnic communities generally privileged male inheritance and male household authority. [[Maasai People and Culture|Maasai]] pastoral land tenure systems organized around male-headed pastoral units, limiting women's claims to communal grazing lands. [[Kikuyu People and Culture|Kikuyu]] customary law permitted women usufruct rights on lineage land but not ownership or alienation authority. [[Luo People and Culture|Luo]] customary systems similarly subordinated women's land claims to male household and lineage authority. Widows faced particular vulnerability, often losing access to marital land upon husbands' death, with land reverting to male relatives.
 
 This systematic exclusion had profound economic consequences. Women performed majority agricultural labor but controlled minimal productive resources, constraining their bargaining power within households and limiting agricultural innovation or income generation. The feminization of agriculture (driven by male urban migration) left women with increased labor burdens but no corresponding control over land or farm income. Landlessness among rural women created dependency on male relatives and contributed to persistent rural poverty and vulnerability to exploitation.
 
@@ -19,8 +19,8 @@ Women's land rights advocacy has become a core women's rights priority, connecti
 [[Women Property Rights Marriage]]
 [[Female Inheritance Disputes]]
 [[Women Land Grabbing]]
-[[Kikuyu/Kikuyu People and Culture|Kikuyu Land Systems]]
-[[Luo/Luo People and Culture|Luo Land Systems]]
+[[Kikuyu People and Culture|Kikuyu Land Systems]]
+[[Luo People and Culture|Luo Land Systems]]
 [[Constitutional Reform 2010]]
 [[Women Cooperatives Economic]]
 

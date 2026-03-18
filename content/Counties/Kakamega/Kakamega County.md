@@ -58,7 +58,7 @@ Kakamega County is Kenya's most densely populated rural county, located in weste
 ## Cross-County Links
 - [[Luhya]]
 - [[Kakamega Forest]]
-- [[../../Corporate Kenya/Sugar Industry Kenya]]
+- [[Agriculture]]
 
 
 ## See Also

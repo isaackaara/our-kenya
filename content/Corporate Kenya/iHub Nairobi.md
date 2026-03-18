@@ -1,8 +1,8 @@
-[[iHub Nairobi]] (launched in [[2010]] as the first [[tech co-working space Kenya|tech co-working space]] in [[Nairobi]]) became the symbolic heart of [[Silicon Savannah]]. Founded by [[Erik Hersman]], iHub provided [[workspace Kenya|workspace]], [[mentorship Kenya|mentorship]], and [[community Kenya|community]] for [[tech entrepreneurs Kenya|tech entrepreneurs]]. By being an affordable, central gathering place for [[tech talent Kenya|tech talent]], iHub catalysed the formation of [[Nairobi]]'s [[tech ecosystem Kenya|tech ecosystem]].
+[[iHub Nairobi]] (launched in 2010 as the first tech co-working space in [[Nairobi]]) became the symbolic heart of [[Silicon Savannah]]. Founded by Erik Hersman, iHub provided workspace, mentorship, and community for tech entrepreneurs. By being an affordable, central gathering place for tech talent, iHub catalysed the formation of [[Nairobi]]'s tech ecosystem.
 
 ## Founding and Early Years
 
-iHub was launched in [[2010]] with support from [[Omidyar Network]] (eBay founder's foundation) and [[local investors Kenya|local investors]]. It was located in the [[Nairobi]] suburb, in a renovated [[house Kenya|house]]-turned-[[co-working space Kenya|co-working space]].
+iHub was launched in 2010 with support from Omidyar Network (eBay founder's foundation) and local investors. It was located in the [[Nairobi]] suburb, in a renovated house-turned-co-working space.
 
 The space offered:
 
@@ -49,9 +49,9 @@ iHub remains operational but faces competition and challenges. The physical co-w
 - [[Silicon Savannah]]
 - [[Ushahidi]]
 - [[Kenya]]
-- [[Tech Entrepreneurship Kenya]]
+- Tech Entrepreneurship Kenya
 - [[Nairobi]]
-- [[Co-Working Kenya]]
+- Co-Working Kenya
 - [[Development Aid]]
 
 ## Sources

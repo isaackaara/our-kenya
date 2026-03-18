@@ -22,7 +22,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Hardware Manufacturing Kenya]]
 - [[Labour]]
 - [[The Gen Z Kenya Movement]]
-- [[Economic Justice Kenya]]
+- Economic Justice Kenya
 
 ## Sources
 

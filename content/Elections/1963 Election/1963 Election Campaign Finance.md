@@ -15,9 +15,9 @@ The sources of campaign financing in 1963 thus represented a complex mix of dome
 - [[1963 Election KANU]]
 - [[1963 Election KADU]]
 - [[Tom Mboya]]
-- [[American Influence Kenya]]
-- [[Campaign Finance and Democracy]]
-- [[Cold War Funding Africa]]
+- [[Foreign Policy]]
+- Campaign Finance and Democracy
+- Cold War Funding Africa
 - [[Colonial Administration]]
 
 ## Sources

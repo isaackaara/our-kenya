@@ -1,6 +1,6 @@
 Daniel arap Moi's cabinet and inner circle of loyalists represented a dramatic departure from the multi-ethnic coalition that characterized [[Jomo Kenyatta]]'s government. From 1978 onwards, Moi systematically filled key ministerial and administrative positions with individuals from his own Kalenjin ethnic group and from regions he could rely upon politically. This practice, known as "Kalenkinization" by critics, fundamentally altered Kenya's post-colonial power structure. The cabinet became less an executive body representing Kenya's diverse regions and ethnic groups and more a vehicle for distributing patronage and consolidating Moi's personal control over the state apparatus.
 
-The pattern of ministerial appointments revealed Moi's political strategy clearly. Key portfolios controlling security, finance, and internal administration went to trusted Kalenjin figures or to individuals whose ethnic or regional background made them dependent upon Moi's patronage. Finance ministers like Zachary Onyonka, while not Kalenjin, were chosen for their loyalty rather than policy expertise. Security appointments proved particularly important. Interior ministers, police commissioners, and military commanders came overwhelmingly from groups Moi believed would protect him from coups and challenges. The pattern intensified after the [[1982 coup attempt]], when Moi replaced numerous officials suspected of disloyalty.
+The pattern of ministerial appointments revealed Moi's political strategy clearly. Key portfolios controlling security, finance, and internal administration went to trusted Kalenjin figures or to individuals whose ethnic or regional background made them dependent upon Moi's patronage. Finance ministers like Zachary Onyonka, while not Kalenjin, were chosen for their loyalty rather than policy expertise. Security appointments proved particularly important. Interior ministers, police commissioners, and military commanders came overwhelmingly from groups Moi believed would protect him from coups and challenges. The pattern intensified after the [[1982 Coup Attempt]], when Moi replaced numerous officials suspected of disloyalty.
 
 Nicholas Biwott emerged as one of Moi's most powerful and controversial confidants. A Kalenjin businessman and politician, Biwott served in various ministerial positions and functioned as an unofficial but highly influential advisor. His wealth and business interests expanded dramatically during the 1980s, raising questions about the relationship between his closeness to Moi and his commercial success. Biwott's influence extended beyond formal ministry responsibilities into patronage networks and business deals. He became emblematic of the corruption and cronyism that characterized Moi's cabinet system, where proximity to power translated directly into wealth accumulation.
 
@@ -20,7 +20,7 @@ By the late 1980s and 1990s, the cabinet system had become widely criticized as 
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Moi and Nicholas Biwott|Nicholas Biwott]]
-- [[Kenya Cabinet System|Kenya Cabinet System]]
+- [[Government|Kenya Cabinet System]]
 - [[Moi and the Kalenjin|Moi and the Kalenjin]]
 - [[Goldenberg Scandal|Goldenberg Scandal]]
 

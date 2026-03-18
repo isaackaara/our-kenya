@@ -9,7 +9,7 @@ Slum expansion creates urban management crises for municipal authorities. Waste 
 The politics of slum expansion remains contentious. Slums are often perceived as threats by formal-city interests: sources of crime, disease, and urban blight. This generates calls for slum clearance and eviction, often framed as urban improvement. However, eviction destroys livelihoods and displaces households to even more marginal locations. Government slum upgrading initiatives have achieved localized improvements in infrastructure, but systematic upgrading remains underfunded. Community-based organizations have facilitated incremental improvements and organized tenant associations. International development actors support slum upgrading through infrastructure and livelihoods programming. These contradictory pressures create uncertainty about slums' future in Kenyan cities.
 
 ## See Also
-[[Urban Poverty]], [[Housing Shortage]], [[Squatter Settlement]], [[Infrastructure Access]], [[Eviction Displacement]], [[Environmental Health Hazards]], [[Municipal Governance]], [[Community Development]]
+[[Urban Poverty]], [[Housing Shortage]], [[Squatter Settlement]], [[Infrastructure Access]], [[Eviction Displacement]], [[Environmental Health Hazards]], Municipal Governance, [[Community Development]]
 
 ## Sources
 1. UN-Habitat (2013). "Informal Settlements in Nairobi: Research Report." https://unhabitat.org

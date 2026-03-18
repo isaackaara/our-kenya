@@ -19,12 +19,12 @@ The economic dimensions of cross-border connections include significant informal
 ## See Also
 
 [[Somalia]]
-[[Kenya Somalia Border]]
+[[North Eastern Province]]
 [[Shifta War]]
 [[NFD Colonial Policy]]
 [[Al-Shabaab Threats Kenya]]
 [[Refugees]]
-[[Garissa]]
+Garissa
 
 ## Sources
 

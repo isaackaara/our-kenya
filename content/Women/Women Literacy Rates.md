@@ -18,7 +18,7 @@ The COVID-19 pandemic reversed literacy progress for girls. School closures in 2
 
 ## See Also
 
-[[Women Education Equality]]
+Women Education Equality
 [[Female Education Barriers]]
 [[Girls School Performance]]
 [[Maternal Health Childbirth]]

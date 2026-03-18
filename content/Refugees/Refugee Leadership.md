@@ -11,9 +11,9 @@ Gender dimensions of refugee leadership meant that women remained underrepresent
 [[Camp Management Structures]]
 [[Refugee Camp Governance]]
 [[Community Dispute Resolution]]
-[[Refugee Participation Decision-making]]
-[[Women Refugee Leadership]]
-[[Democratic Governance Camps]]
+Refugee Participation Decision-making
+Women Refugee Leadership
+Democratic Governance Camps
 
 ## Sources
 

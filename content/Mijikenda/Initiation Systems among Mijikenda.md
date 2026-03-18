@@ -2,7 +2,7 @@ The Mjikenda peoples maintain age and gender-based initiation systems marking tr
 
 ## Gender-Based Initiation
 
-Mjikenda initiation systems distinguish between male and female initiation, with each gender undergoing distinct ceremonies and receiving gender-specific knowledge. Female initiation (puberty [[rituals]]) marks transition to womanhood and prepares young women for marriage and adult roles. Male initiation marks transition to manhood and adulthood. Each gender's initiation involves specific knowledge, behavioral expectations, and ritual practices.
+Mjikenda initiation systems distinguish between male and female initiation, with each gender undergoing distinct ceremonies and receiving gender-specific knowledge. Female initiation (puberty rituals) marks transition to womanhood and prepares young women for marriage and adult roles. Male initiation marks transition to manhood and adulthood. Each gender's initiation involves specific knowledge, behavioral expectations, and ritual practices.
 
 ## Female Initiation Rites
 

@@ -31,7 +31,7 @@ By independence, resistance music had created an archive of grievances, aspirati
 - [[Music and Colonial Labour]]
 - [[African Brotherhood Church Music]]
 - [[Independence Anthems Kenya]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 
 ## Sources
 1. Kenyatta, Jomo. "Facing Mount Kenya: The Tribal Life of the Gikuyu." Vintage Books, 1965. https://www.penguinrandomhouse.com/books/294621/facing-mount-kenya-by-jomo-kenyatta/

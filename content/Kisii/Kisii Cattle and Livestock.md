@@ -121,6 +121,6 @@ Livestock will likely remain important in Kisii agriculture, though the scaling-
 - [[Kisii Courtship and Marriage]] - bride wealth system
 - [[Kisii Environment and Deforestation]] - land pressure and environmental impact
 - [[Kisii Farming Practices]] - agricultural integration
-- [[Pastoral societies in East Africa]] - comparative systems
+- Pastoral societies in East Africa - comparative systems
 - [[Abakuria]] - pastoral Kuria contrast
 - [[Kenyan Hip-Hop]] - national context

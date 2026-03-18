@@ -15,7 +15,7 @@ The dramatic impact of the arrest on Kenyan politics and Kenyatta's eventual pol
 [[Operation Jock Scott]]
 [[Kapenguria trial 1952-1953]]
 [[Kenyatta Detention Legacy]]
-[[Kenyatta arrest and Detention Without Trial]]
+Kenyatta arrest and Detention Without Trial
 [[Kenya African Union founding and Kenyatta as president]]
 
 ## Sources

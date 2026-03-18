@@ -21,7 +21,7 @@ Contemporary Hola faces typical challenges of rural Kenya: limited healthcare ac
 - [[Tana River County|Tana River County Overview]]
 - [[Tana River Politics|Tana River Politics]]
 - [[Tana River Infrastructure|Tana River Infrastructure]]
-- [[Garissa District|Garissa District]]
+- Garissa District
 
 ## Sources
 

@@ -68,7 +68,7 @@ Mount Kenya's alpine ecosystems are particularly vulnerable to [[Climate Change 
 - [[Aberdare National Park]] - Another montane forest ecosystem
 - [[Conservation]] - Critical watershed function
 - [[Tourism Revenue and Communities]] - Economic incentives for protection
-- [[Indigenous Peoples and Cultural Significance]] - Community relationships with protected areas
+- Indigenous Peoples and Cultural Significance - Community relationships with protected areas
 - [[Kenya as Global Conservation Model]] - International conservation leadership
 - [[Climate Change and Wildlife]] - Broader climate adaptation strategies
 

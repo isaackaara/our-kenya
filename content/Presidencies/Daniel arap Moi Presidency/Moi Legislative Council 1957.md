@@ -11,12 +11,12 @@ During this period, Moi gravitated toward the perspective of those who feared th
 Moi's Legislative Council membership also exposed him to the wider African leadership of the region and beyond. He encountered Kikuyu nationalists, Luo intellectuals, and pastoralists from across the Rift Valley. These encounters confirmed his view that Kenya's future would be contested, that ethnic representation was the language of political organisation, and that the Kalenjin needed a leader who understood colonial administration and could negotiate on equal terms with more established nationalist figures. By 1960, the outlines of Moi's political strategy were already visible: an alliance with other minority groups against Kikuyu-Luo dominance, combined with a willingness to negotiate with the colonial administration.
 
 ## See Also
-[[Colonial Kenya/Legislative Council]]
-[[Elections/1957 Legislative Council]]
+[[The Legislative Council]]
+1957 Legislative Council
 [[Moi and KADU]]
 [[Moi Rise to Power]]
-[[Kenya Independence/Constitutional Negotiations]]
-[[Kalenjin/Political Organisation]]
+Constitutional Negotiations
+Political Organisation
 
 ## Sources
 1. https://www.encyclopedia.com/history/africa/kenyan-history/daniel-arap-moi (accessed 2024)

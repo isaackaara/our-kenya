@@ -39,10 +39,10 @@ This pattern reflected not weakness but strategic calculation: the Luo recognize
 ## Cross-links
 - [[Luo Origins]]
 - [[Luo Social Structure]]
-- [[Kavirondo Taxpayers Welfare Association]] (if separate note exists)
+- Kavirondo Taxpayers Welfare Association (if separate note exists)
 - [[Jaramogi Oginga Odinga]]
 - [[Tom Mboya]]
-- [[../Kikuyu/Mau Mau Rebellion]] (hypothetical cross-ethnic link)
+- [[Mau Mau Uprising]] (hypothetical cross-ethnic link)
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

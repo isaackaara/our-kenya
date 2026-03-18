@@ -18,8 +18,8 @@ Environmental consequences of port development included water pollution from por
 [[Railway Development]]
 [[Nairobi Development]]
 [[Port Infrastructure]]
-[[Colonial Commerce Control]]
-[[Lake Victoria Fisheries]]
+Colonial Commerce Control
+Lake Victoria Fisheries
 
 ## Sources
 

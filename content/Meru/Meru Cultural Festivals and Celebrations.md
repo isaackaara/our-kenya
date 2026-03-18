@@ -96,7 +96,7 @@ Younger urban Meru people often have limited exposure to traditional celebration
 
 ### Religious Transformation
 
-The growth of strictly evangelical [[Christianity]] and [[Islam]] has led some adherents to abandon traditional ceremonies viewed as conflicting with religious teachings. Traditional ceremonies incorporating ancestral references or spiritual elements may be rejected by adherents of religions emphasizing monotheism.
+The growth of strictly evangelical [[christianity]] and [[islam]] has led some adherents to abandon traditional ceremonies viewed as conflicting with religious teachings. Traditional ceremonies incorporating ancestral references or spiritual elements may be rejected by adherents of religions emphasizing monotheism.
 
 ## See Also
 
@@ -104,8 +104,8 @@ The growth of strictly evangelical [[Christianity]] and [[Islam]] has led some a
 - [[Meru Age Sets]]
 - [[Meru Circumcision Ntanira na Mugambo]]
 - [[Meru Food Culture]]
-- [[Meru Music and Dance]]
-- [[Kenya Cultural Heritage]]
+- Meru Music and Dance
+- [[Cultural Heritage]]
 
 ## Sources
 

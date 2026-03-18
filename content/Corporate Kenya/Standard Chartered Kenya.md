@@ -1,8 +1,8 @@
-[[Standard Chartered Kenya]] is the oldest [[foreign bank Kenya|foreign bank]] continuously operating in [[Kenya]]. It traces its origins to the [[colonial period Kenya|colonial period]] and has maintained a significant presence through [[Luhya in Post-Independence Kenya|independence]], [[structural adjustment Kenya|structural adjustment]], and the [[Digital Art|digital revolution]]. Standard Chartered Kenya remains a major player in [[Corporate Kenya|corporate]] and [[Art Investment|investment banking]], though it is less prominent in [[retail banking Kenya|retail banking]] than local competitors.
+[[Standard Chartered Kenya]] is the oldest foreign bank continuously operating in [[Kenya]]. It traces its origins to the colonial period and has maintained a significant presence through [[Luhya in Post-Independence Kenya|independence]], [[Structural Adjustment Kenya|structural adjustment]], and the [[Digital Art|digital revolution]]. Standard Chartered Kenya remains a major player in [[Corporate Kenya|corporate]] and [[Art Investment|investment banking]], though it is less prominent in retail banking than local competitors.
 
 ## Colonial Origins (1904)
 
-Standard Chartered Bank opened in [[Nairobi]] in 1904 to finance [[colonial commerce Kenya|colonial commerce]]: [[settler agriculture Kenya|settler agriculture]], the [[Uganda Railway Taita-Taveta]], and [[trade Kenya|trade]]. As one of the oldest banks in Kenya, it became a fixture of the [[colonial financial system Kenya|colonial financial system]].
+Standard Chartered Bank opened in [[Nairobi]] in 1904 to finance colonial commerce: settler agriculture, the [[Uganda Railway Taita-Taveta]], and trade. As one of the oldest banks in Kenya, it became a fixture of the colonial financial system.
 
 ## Post-Independence and Growth
 
@@ -41,8 +41,8 @@ Standard Chartered Kenya is likely to remain a significant but secondary player 
 ## See Also
 
 - [[Banking History Kenya]]
-- [[Foreign Banks Kenya]]
-- [[Colonial Economic Legacy Kenya]]
+- Foreign Banks Kenya
+- Colonial Economic Legacy Kenya
 - [[Corporate Kenya]]
 - [[Nairobi Stock Exchange]]
 - [[Kenya Commercial Bank]]

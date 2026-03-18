@@ -1,4 +1,4 @@
-Kenya confirmed its first COVID-19 case in March 2020, marking the beginning of the country's experience with the [[SARS-CoV-2]] pandemic. The virus spread rapidly through urban centers, particularly Nairobi, before transmission was identified in other counties. Initial cases were imported by travelers returning from affected countries, but community transmission became evident within weeks. The government declared a state of emergency and implemented public health measures including lockdowns, curfews, social distancing requirements, and restrictions on gatherings. Schools, businesses, and entertainment venues closed, creating economic disruption alongside health impacts. Healthcare facilities activated infection prevention and control protocols, and laboratories began testing capacity expansions.
+Kenya confirmed its first COVID-19 case in March 2020, marking the beginning of the country's experience with the SARS-CoV-2 pandemic. The virus spread rapidly through urban centers, particularly Nairobi, before transmission was identified in other counties. Initial cases were imported by travelers returning from affected countries, but community transmission became evident within weeks. The government declared a state of emergency and implemented public health measures including lockdowns, curfews, social distancing requirements, and restrictions on gatherings. Schools, businesses, and entertainment venues closed, creating economic disruption alongside health impacts. Healthcare facilities activated infection prevention and control protocols, and laboratories began testing capacity expansions.
 
 The government established a National Emergency Response Committee (NERC) comprising representatives from health, security, education, transport, finance, and trade sectors. NERC coordinated the overall pandemic response, while the [[Health]] led health-specific interventions. The Kenya Medical Research Institute (KEMRI) and the Ministry's Emergency Operation Center (EOC) implemented a "Test, Track, and Treat" (TTT) strategy designed to identify cases, trace contacts, and isolate suspected infections. Contact tracing of 3,421 people and testing of 18,394 individuals occurred during early response phases. Health facilities and public laboratories enhanced testing capacity, and isolation centers were established for case management.
 
@@ -12,7 +12,7 @@ The pandemic created lasting impacts on Kenya's health system and economy. Healt
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Mental Health Services|Mental Health Services]]
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
-[[KEMRI Kenya|KEMRI Kenya]]
+[[Disease Surveillance Kenya|KEMRI Kenya]]
 [[Health|Hospital Infrastructure Standards]]
 [[Environmental Health Hazards|Environmental Health Hazards]]
 

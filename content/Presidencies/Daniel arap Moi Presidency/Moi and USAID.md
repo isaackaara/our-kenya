@@ -15,12 +15,12 @@ USAID's response to documented human rights abuses by Moi's regime was often mut
 The legacy of USAID's engagement with Moi's Kenya revealed the limitations of development assistance as a mechanism for promoting democracy or human rights. The agency worked within a framework that subordinated political concerns to development objectives and that prioritised the maintenance of stable state relations over the protection of fundamental rights. The result was that development assistance, while producing some genuine improvements to welfare and infrastructure, also helped to sustain a regime whose systematic violations of rights and whose corruption undermined the very development objectives that the assistance was intended to achieve.
 
 ## See Also
-[[Moi and International Donors]]
+[[Structural Adjustment Kenya]]
 [[Moi Foreign Policy]]
-[[Kenya/Foreign Policy]]
+[[Foreign Policy]]
 [[Structural Adjustment Programs Kenya]]
 [[Moi and the World Bank]]
-[[Kenya/US Relations]]
+US Relations
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

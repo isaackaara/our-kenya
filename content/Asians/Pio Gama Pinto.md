@@ -1,8 +1,8 @@
-[[Pio Gama Pinto]] (1927-1965) was a [[Goan Community Kenya]] Kenyan [[communist]], journalist, and anti-colonial activist. He was one of the most radical voices in Kenya's independence struggle and remains an iconic figure in Kenyan left-wing politics. He was assassinated in 1965, barely two years after independence, likely on government orders.
+[[Pio Gama Pinto]] (1927-1965) was a [[Goan Community Kenya]] Kenyan communist, journalist, and anti-colonial activist. He was one of the most radical voices in Kenya's independence struggle and remains an iconic figure in Kenyan left-wing politics. He was assassinated in 1965, barely two years after independence, likely on government orders.
 
 ## Early Life and Background
 
-Pio Gama Pinto was born in Kenya on March 31, 1927, to a [[Goan Catholic]] family. He was educated in Nairobi, mastering English and developing intellectual interests. As a young man, he worked as a journalist and began writing about colonial exploitation, Indian indentured labor, and the need for African liberation. He was fluent in multiple languages and widely read in Marxist and socialist theory.
+Pio Gama Pinto was born in Kenya on March 31, 1927, to a Goan Catholic family. He was educated in Nairobi, mastering English and developing intellectual interests. As a young man, he worked as a journalist and began writing about colonial exploitation, Indian indentured labor, and the need for African liberation. He was fluent in multiple languages and widely read in Marxist and socialist theory.
 
 ## Anti-Colonial Activism
 

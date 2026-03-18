@@ -20,8 +20,8 @@ Challenges to sustained potato production included disease pressure, particularl
 [[Food Security Policies]]
 [[Crop Variety Development]]
 [[Food Storage Solutions]]
-[[Labour/Smallholder Agricultural Intensification]]
-[[Health/Food Security and Nutrition]]
+Smallholder Agricultural Intensification
+Food Security and Nutrition
 
 ## Sources
 

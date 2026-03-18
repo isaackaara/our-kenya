@@ -4,9 +4,9 @@ Kenya's sugar importation process has been the site of recurring corruption scan
 
 ## The Mechanism
 
-Kenya's tariff structure imposes high duties on food-grade sugar imports (approximately 100%) but lower duties on industrial sugar (approximately 10%). The difference creates an incentive for corruption: importers bring in food-grade sugar with falsified documentation claiming industrial use, evade the difference in tariff, sell into the food market at a discount, and split the tariff savings with [[customs officials]] and port authorities.
+Kenya's tariff structure imposes high duties on food-grade sugar imports (approximately 100%) but lower duties on industrial sugar (approximately 10%). The difference creates an incentive for corruption: importers bring in food-grade sugar with falsified documentation claiming industrial use, evade the difference in tariff, sell into the food market at a discount, and split the tariff savings with customs officials and port authorities.
 
-The fraud works at the [[Mombasa port]] where Kenya's primary imports enter. Truck drivers receive false invoices from suppliers and importers. Goods are cleared with fraudulent paperwork through [[Kenya Revenue Authority]] (KRA) Customs. Once in the market, adulterated or poor-quality imported sugar undercutting domestic sugar producers is sold to retailers and manufacturers.
+The fraud works at the [[Mombasa Port]] where Kenya's primary imports enter. Truck drivers receive false invoices from suppliers and importers. Goods are cleared with fraudulent paperwork through [[Kenya Revenue Authority]] (KRA) Customs. Once in the market, adulterated or poor-quality imported sugar undercutting domestic sugar producers is sold to retailers and manufacturers.
 
 ## Political Patronage
 

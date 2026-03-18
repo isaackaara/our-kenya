@@ -15,7 +15,7 @@ Mission schools also deepened regional inequalities. Communities with establishe
 [[Alliance High School Elite]]
 [[Catholic Education Network]]
 [[Education Nation Building]]
-[[British colonial rule Kenya]]
+British colonial rule Kenya
 
 ## Sources
 

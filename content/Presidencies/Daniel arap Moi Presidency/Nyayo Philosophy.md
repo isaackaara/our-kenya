@@ -6,11 +6,11 @@ In practice, Nyayo meant absolute loyalty to Moi personally. Dissent, criticism,
 
 Nyayo permeated every aspect of Kenyan life. In schools, students sang Nyayo songs praising Moi's wisdom and benevolence. Teachers were required to attend political rallies and demonstrate their loyalty publicly. University students and intellectuals who questioned government policy faced expulsion, detention, or worse. The [[Moi and the Universities|closing of universities]] and the [[Detention Without Trial Under Moi|detention of academics]] were framed as necessary measures to protect national unity from subversive elements. The [[Mwakenya Movement]], an underground socialist opposition group, was portrayed as anti-Nyayo, justifying brutal crackdowns and show trials in the mid-1980s.
 
-The [[Moi and the Church|relationship with churches]] illustrated Nyayo's contradictions. Moi publicly embraced Christianity, attending services regularly and invoking God in his speeches. Yet when clergy criticized government corruption or human rights abuses, they were accused of abandoning Nyayo principles and sowing division. Bishops who challenged the regime, such as [[Cross-Ethnic/Henry Okullu]] and [[Moi and the Catholic Church|Alexander Muge]], faced state harassment, surveillance, and in Muge's case, a suspicious death in a car accident widely believed to be an assassination.
+The [[Moi and the Church|relationship with churches]] illustrated Nyayo's contradictions. Moi publicly embraced Christianity, attending services regularly and invoking God in his speeches. Yet when clergy criticized government corruption or human rights abuses, they were accused of abandoning Nyayo principles and sowing division. Bishops who challenged the regime, such as Henry Okullu and [[Moi and the Catholic Church|Alexander Muge]], faced state harassment, surveillance, and in Muge's case, a suspicious death in a car accident widely believed to be an assassination.
 
 Economically, Nyayo justified patronage and corruption as necessary for national unity. Moi's [[Moi Land Grabbing|land allocations]] to loyalists, the [[Goldenberg Scandal|Goldenberg fraud]], and other forms of state capture were defended as rewards for those who followed Nyayo principles. The philosophy created a transactional politics: loyalty to Moi brought access to resources, government contracts, and protection; disloyalty brought poverty, marginalization, or imprisonment. The [[Moi and Harambee|harambee system]] became a theater for demonstrating Nyayo loyalty, with politicians competing to pledge the largest donations at fundraisers attended by the President.
 
-By the 1990s, as international pressure and domestic opposition forced Moi to accept [[Section 2A Repeal 1991|multiparty politics]], Nyayo lost its ideological coherence but retained its coercive power. Moi continued to invoke it, but the philosophy increasingly rang hollow to a population exhausted by [[Corruption/Moi Era Corruption|corruption]], [[1992 Election and Ethnic Violence|ethnic violence]], and economic decline. Nyayo had promised peace, love, and unity; it delivered repression, fear, and division. The footsteps Kenyans were forced to follow led not to prosperity but to the erosion of the very institutions Kenyatta had built.
+By the 1990s, as international pressure and domestic opposition forced Moi to accept [[Section 2A Repeal 1991|multiparty politics]], Nyayo lost its ideological coherence but retained its coercive power. Moi continued to invoke it, but the philosophy increasingly rang hollow to a population exhausted by [[Moi Era Corruption|corruption]], [[1992 Election and Ethnic Violence|ethnic violence]], and economic decline. Nyayo had promised peace, love, and unity; it delivered repression, fear, and division. The footsteps Kenyans were forced to follow led not to prosperity but to the erosion of the very institutions Kenyatta had built.
 
 ## See Also
 - [[Moi Succession 1978]]
@@ -19,8 +19,8 @@ By the 1990s, as international pressure and domestic opposition forced Moi to ac
 - [[Moi and the Universities]]
 - [[Mwakenya Movement]]
 - [[Moi and the Church]]
-- [[Kalenjin/Nyayo Ideology and Kalenjin Identity]]
-- [[Cross-Ethnic/Political Loyalty and Ethnic Identity]]
+- Nyayo Ideology and Kalenjin Identity
+- Political Loyalty and Ethnic Identity
 
 ## Sources
 1. Ogot, Bethwell A., and William R. Ochieng, eds. *Decolonization and Independence in Kenya, 1940-1993*. James Currey, 1995. https://www.jstor.org/stable/j.ctvk3gmqw

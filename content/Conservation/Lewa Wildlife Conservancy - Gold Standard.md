@@ -4,7 +4,7 @@
 
 Lewa's founding reflected a significant evolution in settler family land use. [[Ian Craig]] and [[Delia Craig]] made the deliberate choice to transition from pastoral production toward wildlife conservation, converting family cattle ranches into a protected landscape for endangered species recovery. This decision represented both a practical response to changing economic and political conditions in post-colonial Kenya and a philosophical commitment to conservation as a more valuable use of land than livestock production. The conservancy's success made it a model replicated and studied across East Africa and globally.
 
-The conservancy's conservation achievements are substantial and verifiable. [[Black rhinoceros]] populations recovered from single digits to hundreds under intensive protection. [[Grevy's zebra]], among Africa's most endangered equines found almost exclusively in northern Kenya, have been protected in high numbers at Lewa. Elephants, lions, wild dogs, and other large carnivores and herbivores exist at exceptionally high densities compared to surrounding areas. These results derived from intensive anti-poaching operations, habitat management, wildlife monitoring using GPS technology and camera traps, and long-term commitment to protection despite costs.
+The conservancy's conservation achievements are substantial and verifiable. [[black rhinoceros]] populations recovered from single digits to hundreds under intensive protection. [[Grevy's Zebra]], among Africa's most endangered equines found almost exclusively in northern Kenya, have been protected in high numbers at Lewa. Elephants, lions, wild dogs, and other large carnivores and herbivores exist at exceptionally high densities compared to surrounding areas. These results derived from intensive anti-poaching operations, habitat management, wildlife monitoring using GPS technology and camera traps, and long-term commitment to protection despite costs.
 
 Lewa's business model demonstrates that conservation can generate revenue sufficient to cover operational costs and fund expansion. The conservancy charges premium tourism rates for exclusive visitor access, maintaining limited visitor numbers to reduce environmental impact while generating substantial income. This high-end tourism model generates funds for anti-poaching, ranger employment, habitat management, and research. The conservancy also generates revenue from carbon credit schemes and international conservation partnerships, diversifying income streams beyond tourism.
 
@@ -25,7 +25,7 @@ Additionally, questions persist about whether private conservation serves broade
 - [[Northern Rangelands Trust]] - Community conservancy network partner
 - [[Laikipia Plateau]] - Geographic and ecological context
 - [[Black Rhinoceros Kenya]] - Key species recovery at Lewa
-- [[Grevy's Zebra Kenya]] - Endangered species protected at Lewa
+- [[Grevy's Zebra]] - Endangered species protected at Lewa
 - [[Community Conservancies Model]] - Community-based alternatives and landscape integration
 - [[Kenya as Global Conservation Model]] - Private conservation within broader conservation system
 

@@ -22,7 +22,7 @@ The legacy persists. Kenya's contemporary choral tradition, one of Africa's stro
 - [[Church Music Africanization]]
 - [[Daudi Kabaka]]
 - [[Fadhili Williams]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 - [[Mau Mau Uprising]]
 
 ## Sources

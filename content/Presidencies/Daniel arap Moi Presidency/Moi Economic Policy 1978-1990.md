@@ -4,7 +4,7 @@ Moi inherited an economy that was among the strongest in sub-Saharan Africa. Ken
 
 The early 1980s saw modest reforms aimed at rural development and poverty reduction. Moi expanded agricultural extension services, increased funding for rural health clinics and schools, and invested in infrastructure projects in previously marginalized regions like the Rift Valley and North Eastern Province. These initiatives had genuine developmental impact in some areas, but they were also tools of political patronage. Government contracts went to loyalists, land allocations favored [[Moi and the Kalenjin|Kalenjin elites]], and development projects were concentrated in constituencies that supported KANU.
 
-The coffee and tea sectors, which accounted for much of Kenya's export revenue, remained relatively stable through the mid-1980s. International commodity prices were favorable, and Kenya's position as a reliable exporter ensured market access. However, the state marketing boards that controlled these sectors became sites of corruption. Officials skimmed revenues, delayed payments to farmers, and diverted funds to political campaigns. The [[Corruption/Moi Era Corruption|corruption]] was not new, but it expanded in scale and brazenness as Moi's need for political financing grew.
+The coffee and tea sectors, which accounted for much of Kenya's export revenue, remained relatively stable through the mid-1980s. International commodity prices were favorable, and Kenya's position as a reliable exporter ensured market access. However, the state marketing boards that controlled these sectors became sites of corruption. Officials skimmed revenues, delayed payments to farmers, and diverted funds to political campaigns. The [[Moi Era Corruption|corruption]] was not new, but it expanded in scale and brazenness as Moi's need for political financing grew.
 
 The International Monetary Fund (IMF) and World Bank relationship became central to Kenya's economic management in this period. Kenya received structural adjustment loans conditional on implementing market-oriented reforms: reducing public sector employment, privatizing state-owned enterprises, removing subsidies, and liberalizing trade. Moi accepted the loans and the rhetoric of reform but implemented the conditions selectively. Privatizations occurred, but assets were sold to political allies at below-market prices. Public sector cuts targeted lower-level civil servants while the politically connected expanded their payrolls. Subsidies were removed from essential goods, increasing costs for ordinary Kenyans, while state resources flowed to elite projects.
 
@@ -19,10 +19,10 @@ By 1990, the contradictions were unsustainable. Economic growth had slowed to ba
 - [[Goldenberg Scandal]]
 - [[Moi and Harambee]]
 - [[Moi and the Kalenjin]]
-- [[Corruption/Moi Era Corruption]]
-- [[Kikuyu/Kikuyu Business Elite Under Moi]]
-- [[Kalenjin/Kalenjin Economic Empowerment]]
-- [[Cross-Ethnic/Patronage Politics and Development]]
+- [[Moi Era Corruption]]
+- Kikuyu Business Elite Under Moi
+- Kalenjin Economic Empowerment
+- Patronage Politics and Development
 
 ## Sources
 1. Widner, Jennifer A. *The Rise of a Party-State in Kenya: From "Harambee!" to "Nyayo!"*. University of California Press, 1992. https://www.ucpress.edu/book/9780520073937/the-rise-of-a-party-state-in-kenya

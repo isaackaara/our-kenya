@@ -67,10 +67,10 @@ By end of Uhuru's term, Kenya had achieved middle-income status and positive gro
 - [[Uhuru Big Four Agenda]]
 - [[Uhuru Debt Crisis]]
 - [[Uhuru SGR Railway]]
-- [[Kenya Agricultural Policy]]
-- [[Manufacturing in Kenya]]
-- [[Financial Services Kenya]]
-- [[Ruto Economic Inheritance]]
+- [[Agriculture]]
+- Manufacturing in Kenya
+- [[Financial Inclusion Kenya]]
+- Ruto Economic Inheritance
 - [[Kenya]]
 
 ## Sources

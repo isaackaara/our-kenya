@@ -6,7 +6,7 @@ The context of turkana bride exchange illuminates how local, regional, and natio
 
 ## See Also
 
-[[Turkana]], [[Kenya History]], [[Historical Development]]
+Turkana, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

@@ -54,7 +54,7 @@ Anthropologists and historians studying East African communities sometimes exami
 - [[Mijikenda and the Indian Ocean World]] - Trade connections
 - [[Artisan Crafts and Trade]] - Craft traditions and commerce
 - [[Mijikenda in Nairobi]] - Contemporary urban encounters
-- [[Banana and Plantain in East Africa]] - Agricultural products
+- Banana and Plantain in East Africa - Agricultural products
 - [[Pre-Colonial Mijikenda]] - Pre-colonial trade patterns
 - [[Kilifi County]] - Geographic context for Mijikenda
 

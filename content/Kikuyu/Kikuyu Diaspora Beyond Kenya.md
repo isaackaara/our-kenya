@@ -116,7 +116,7 @@ Communication technology (internet, mobile phones, social media) enhanced transn
 - [[Kikuyu and Christianity Today]]
 - [[Kikuyu Investment Groups]]
 - [[Kikuyu Entrepreneurs Deep Dive]]
-- [[Kenya Labor and Migration]]
+- Kenya Labor and Migration
 
 ## Sources
 

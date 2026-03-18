@@ -1,4 +1,4 @@
-The [[Kenya]] adopted in December 2010 represents an attempt to transcend the [[ethnic bargaining]] that characterized previous constitutional arrangements. The 2010 constitution emerged from demands for constitutional reform following the [[Post-Election Violence]], which revealed the dangers of unaccountable executive power and ethnic competition for control of the state.
+The [[Kenya]] adopted in December 2010 represents an attempt to transcend the ethnic bargaining that characterized previous constitutional arrangements. The 2010 constitution emerged from demands for constitutional reform following the [[Post-Election Violence]], which revealed the dangers of unaccountable executive power and ethnic competition for control of the state.
 
 The 2010 constitution's preamble explicitly references diversity as a foundational feature of Kenya, acknowledging Kenya's multi-ethnic character. The constitution protects individual rights and specifically protects minority rights, creating constitutional frameworks for protecting communities against majoritarianism and state discrimination. The Bill of Rights applies to all Kenyans regardless of ethnicity.
 
@@ -10,15 +10,15 @@ The constitution's language provisions reflected an attempt to transcend ethnic 
 
 However, the 2010 constitution's implementation has revealed both its strengths and limitations. The constitutional order has provided more accountability and predictability than previous arrangements. The devolution system has created more local responsiveness in some areas. Simultaneously, ethnic politics persist. County governance has sometimes reproduced ethnic patterns. Devolution has not eliminated ethnic competition for national office. Implementing the constitution's ideals of national unity remains an ongoing challenge.
 
-The relationship between the constitution and [[cross-ethnic identity]] remains complex. The constitution provides frameworks for transcending ethnicity and protecting minorities. Constitutional institutions have at times functioned to protect cross-ethnic values and individual rights. Simultaneously, implementation of the constitution occurs within a social context where ethnic identity remains salient.
+The relationship between the constitution and cross-ethnic identity remains complex. The constitution provides frameworks for transcending ethnicity and protecting minorities. Constitutional institutions have at times functioned to protect cross-ethnic values and individual rights. Simultaneously, implementation of the constitution occurs within a social context where ethnic identity remains salient.
 
 ## See Also
 
-- [[Devolution and County Politics]]
+- Devolution and County Politics
 - [[National Cohesion and Integration Commission]]
-- [[Bill of Rights Kenya]]
+- Bill of Rights Kenya
 - [[Post-Election Violence]]
-- [[Constitutional Protections for Minorities]]
+- Constitutional Protections for Minorities
 
 ## Sources
 

@@ -4,11 +4,11 @@ title: Meru Crafts and Material Culture
 
 # Meru Crafts: Traditional Production and Homestead Material Culture
 
-The [[Meru people]] have developed distinctive crafts reflecting both functional needs and aesthetic traditions.
+The [[Meru People]] have developed distinctive crafts reflecting both functional needs and aesthetic traditions.
 
 ## Pottery
 
-[[Meru people|Meru]] women traditionally produced pottery for domestic use:
+[[Meru People|Meru]] women traditionally produced pottery for domestic use:
 
 - **Water Vessels**: Large pots for storing water
 - **Cooking Vessels**: Pots and clay containers for food preparation
@@ -71,9 +71,9 @@ However, some craftspeople continue traditional practices, and there is growing 
 - [[Meru Beadwork and Crafts]]
 - [[Meru Architecture]]
 - [[Meru Food Culture]]
-- [[Meru Material Culture]]
-- [[Traditional African Arts]]
-- [[Kenya Cultural Heritage]]
+- Meru Material Culture
+- Traditional African Arts
+- [[Cultural Heritage]]
 
 ---
 

@@ -1,8 +1,8 @@
-The [[Giriama]] Uprising of 1913-1914 (locally known as "Kondo ya Chembe," meaning "Champion's War") was one of East Africa's earliest and most significant organized anti-colonial resistance movements. Led by the iconic female leader [[Mekatilili wa Menza]], the uprising emerged from [[Giriama]] grievances regarding labor conscription, land seizure, and cultural erosion under British colonial rule.
+The [[giriama]] Uprising of 1913-1914 (locally known as "Kondo ya Chembe," meaning "Champion's War") was one of East Africa's earliest and most significant organized anti-colonial resistance movements. Led by the iconic female leader [[Mekatilili wa Menza]], the uprising emerged from [[giriama]] grievances regarding labor conscription, land seizure, and cultural erosion under British colonial rule.
 
 ## Causes and Context
 
-The British colonial government, established over the coast in the 1890s, sought to integrate the coast into a productive colonial economy. The government demanded [[Giriama]] labor for settler farms in the interior, for coastal development projects, and for military service. Simultaneously, the British claimed vast stretches of [[Giriama]] territory north of the Sabaki River as Crown Land, incorporating it into the colonial estate and depriving the [[Giriama]] of ancestral territories.
+The British colonial government, established over the coast in the 1890s, sought to integrate the coast into a productive colonial economy. The government demanded [[giriama]] labor for settler farms in the interior, for coastal development projects, and for military service. Simultaneously, the British claimed vast stretches of [[giriama]] territory north of the Sabaki River as Crown Land, incorporating it into the colonial estate and depriving the [[giriama]] of ancestral territories.
 
 These demands violated Giriama interests on multiple levels. Economically, labor conscription threatened to deprive families of male productive labor during crucial agricultural seasons. Politically, land seizure undermined Giriama territorial sovereignty and displaced communities from ancestral lands. Culturally, colonial demands for labor and taxes threatened the autonomy and viability of the kaya system and traditional community governance.
 
@@ -30,14 +30,14 @@ Following the military defeat of the uprising, the British imposed a collective 
 
 ## Aftermath and Legacy
 
-Though militarily defeated, the [[Giriama]] Uprising became a foundational narrative of anti-colonial resistance and Giriama dignity. The uprising demonstrated that the [[Mijikenda]] were not passive victims of colonialism but capable of organized collective action. [[Mekatilili wa Menza]] became an iconic figure of female leadership and resistance, celebrated in subsequent generations as a symbol of Giriama courage.
+Though militarily defeated, the [[giriama]] Uprising became a foundational narrative of anti-colonial resistance and Giriama dignity. The uprising demonstrated that the [[Mijikenda]] were not passive victims of colonialism but capable of organized collective action. [[Mekatilili wa Menza]] became an iconic figure of female leadership and resistance, celebrated in subsequent generations as a symbol of Giriama courage.
 
 The uprising's immediate outcome was colonial defeat: Giriama labor was eventually conscripted, their land remained alienated, and colonial rule was consolidated. However, the uprising never became completely forgotten. In post-colonial Kenya, during the 1980s feminist movement, Mekatilili was reclaimed as a symbol of women's liberation. In contemporary times, the Giriama Uprising is celebrated as part of Kenya's anti-colonial heritage, and Mekatilili has become a national icon.
 
 ## See Also
 
 - [[Mekatilili wa Menza]] - Leader of the uprising
-- [[Giriama]] - The uprising's community
+- [[giriama]] - The uprising's community
 - [[Mijikenda]] - Broader context
 - [[The Kaya System]] - Cultural center destroyed during uprising
 - [[Mijikenda in Colonial Economy]] - Economic causes and consequences

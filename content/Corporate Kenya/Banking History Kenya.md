@@ -1,8 +1,8 @@
-Kenya's banking sector has evolved from colonial trading bank outposts to a diversified system with multiple local banks, foreign banks, and digital financial services. The trajectory reflects Kenya's broader economic history: colonial extraction, post-independence state control, [[liberalisation]], crises, and adaptation to [[Mobile Money Revolution Kenya]].
+Kenya's banking sector has evolved from colonial trading bank outposts to a diversified system with multiple local banks, foreign banks, and digital financial services. The trajectory reflects Kenya's broader economic history: colonial extraction, post-independence state control, liberalisation, crises, and adaptation to [[Mobile Money Revolution Kenya]].
 
 ## Colonial Era Banking (1900-1963)
 
-**The First Banks** - Banking in Kenya began with colonial expansion. The oldest bank was [[Standard Bank]] (established 1904), a South African institution that opened a Nairobi branch to finance settler commerce and commodity trade. The National Bank of India (later Grindlays Bank) opened in 1906, serving Indian merchants and traders. These banks were colonial outposts, mobilising capital for British settler agriculture and Indian trading networks, not for African development.
+**The First Banks** - Banking in Kenya began with colonial expansion. The oldest bank was Standard Bank (established 1904), a South African institution that opened a Nairobi branch to finance settler commerce and commodity trade. The National Bank of India (later Grindlays Bank) opened in 1906, serving Indian merchants and traders. These banks were colonial outposts, mobilising capital for British settler agriculture and Indian trading networks, not for African development.
 
 **Exclusion** - Africans were almost entirely excluded from banking services. Banks were located in Nairobi and Mombasa (colonial centres). Credit was provided to Europeans and some Asians, but not to Africans. This reinforced the racial hierarchy of the colonial economy.
 
@@ -53,7 +53,7 @@ The causes included:
 
 **New Banks** - A wave of new banks entered the market: Equity Building Society (later Equity Bank), the Cooperative Bank, Imperial Bank, Domestic Bank, Eveready Financial, and others. Some of these would become significant players.
 
-**[[Equity Bank]]'s Rise** - Particularly noteworthy was Equity Building Society, founded in 1984 as a savings cooperative serving rural areas near Nairobi. In the 1990s, under the leadership of [[James Mwangi]], Equity was restructured as a commercial bank (Equity Bank). It adopted a mass-market model: serving ordinary Kenyans, small businesses, and low-income groups rather than large corporations. By 2010, Equity had become one of Kenya's three largest banks.
+**[[Equity Bank]]'s Rise** - Particularly noteworthy was Equity Building Society, founded in 1984 as a savings cooperative serving rural areas near Nairobi. In the 1990s, under the leadership of James Mwangi, Equity was restructured as a commercial bank (Equity Bank). It adopted a mass-market model: serving ordinary Kenyans, small businesses, and low-income groups rather than large corporations. By 2010, Equity had become one of Kenya's three largest banks.
 
 **Increased Competition** - By 2000, Kenya had over 25 commercial banks, compared to 5-6 in the 1980s. Foreign banks (Citibank, ABSA, numerous others) expanded their operations. Competition increased. Interest rate margins compressed. Service quality improved.
 
@@ -119,7 +119,7 @@ Kenya's banking sector is mature by emerging market standards but faces increasi
 - [[Safaricom]] - Telecommunications and financial innovation
 - [[SACCO Movement Kenya]] - Community-based finance
 - [[Financial Inclusion]] - Access to banking services
-- [[Structural Adjustment]] - Liberalisation and deregulation
+- [[Structural Adjustment Kenya]] - Liberalisation and deregulation
 
 ## Sources
 

@@ -2,13 +2,13 @@ World War One profoundly affected the [[Mijikenda]] and other coastal population
 
 ## The East Africa Campaign
 
-The Kenya coast was geographically close to German East Africa (present-day Tanzania), making coastal regions strategically relevant to British military planning. The [[East Africa Campaign (World War I)|East Africa Campaign]] (1914-1918) was a sideshow to the main European theaters of war, but it was brutal and consequential for East African populations.
+The Kenya coast was geographically close to German East Africa (present-day Tanzania), making coastal regions strategically relevant to British military planning. The East Africa Campaign (1914-1918) was a sideshow to the main European theaters of war, but it was brutal and consequential for East African populations.
 
 The British military relied heavily on porters and carrier corps recruited from across Kenya and the coastal regions. Young Mijikenda men, particularly from the Giriama and other groups, were conscripted or coerced into military service as porters. These porters carried supplies, equipment, and ammunition for military columns operating in the harsh coastal and interior environments. Porter service was deadly: many porters died from disease, malnutrition, exhaustion, and combat exposure. Estimates suggest that tens of thousands of East African porters died during the East Africa Campaign.
 
 ## Conscription and Resistance
 
-The British conscription of [[Mijikenda]] porters occurred in the context of the [[The Giriama Uprising 1913-1914|Giriama Uprising]] (1913-1914). The [[Giriama]], having just resisted British labor conscription and been forcibly relocated, faced renewed pressure to provide porters for the war effort. This created additional Giriama grievance and reinforced resentment toward colonial demands.
+The British conscription of [[Mijikenda]] porters occurred in the context of the [[The Giriama Uprising 1913-1914|Giriama Uprising]] (1913-1914). The [[giriama]], having just resisted British labor conscription and been forcibly relocated, faced renewed pressure to provide porters for the war effort. This created additional Giriama grievance and reinforced resentment toward colonial demands.
 
 Some Mijikenda and other coastal populations resisted conscription, fleeing inland or hiding from recruiters. However, the power imbalance between colonial authorities and African populations made sustained resistance difficult. Many young men were forcibly conscripted.
 

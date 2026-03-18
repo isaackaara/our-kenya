@@ -7,8 +7,8 @@ The Finance Bill rejection represented a significant political moment demonstrat
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya 2023 Protests|Kenya 2023 Protests]]
-- [[Kenya Fiscal Policy|Kenya Fiscal Policy]]
+- [[Gen Z Protests 2024|Kenya 2023 Protests]]
+- Kenya Fiscal Policy
 - [[Kibaki and Ethnic Politics Mount Kenya Dominance|Kenya Gen Z Politics]]
 
 ## Sources

@@ -46,7 +46,7 @@ The emigration of the 1960s and 1970s created a Kenyan Asian diaspora, with sign
 - [[Asians who Stayed]]
 - [[Idi Amin and the Ugandan Asians]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

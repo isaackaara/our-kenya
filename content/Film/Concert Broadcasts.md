@@ -8,7 +8,7 @@ Major music festivals and concert events received extensive broadcasting, with b
 
 The participation of audiences in concert broadcasts reflected television's distinctive features compared to live attendance. Television audiences experienced concerts from fixed camera perspectives providing curated views rather than live attendees' mobile perspectives. Close-up camera angles and multiple angles provided visual access impossible from concert attendee positions. However, television broadcasts lacked the live energy and collective audience atmosphere characterizing live concert experience. The trade-offs between broadcast convenience and live concert authenticity meant that broadcast audiences experienced concerts distinctively from live attendees.
 
-See Also: [[Music Videos]], [[Music Television]], [[Live Television Events]], [[Entertainment Shows]], [[Music]], [[Television Studios]], [[Concert Industry]]
+See Also: [[Music Videos]], [[Music Television]], [[Live Television Events]], [[Entertainment Shows]], [[Music]], [[Television Studios]], Concert Industry
 
 Sources:
 1. https://www.music-promoters-association-kenya.org/

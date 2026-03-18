@@ -1,6 +1,6 @@
 Oral poetry traditions represent the foundational literary forms of East African societies, sophisticated systems of composition, performance, and transmission that predate written literature and continue to structure how stories, knowledge, and identity circulate within communities. Rather than primitive precursors to written literature, oral traditions constitute complete aesthetic systems with their own complexity, conventions, and purposes.
 
-Across East African ethnic groups, oral poetry served multiple critical functions: ceremonial marking of life transitions, historical documentation, entertainment, moral instruction, and conflict resolution. The Luo [[orature]] traditions, the Masai pastoral poetry, and the Kikuyu narrative forms each developed specialized vocabularies, performance techniques, and thematic conventions refined through generations of refinement. Poets achieved renown as public figures whose compositions could influence opinion, commemorate events, and preserve collective memory.
+Across East African ethnic groups, oral poetry served multiple critical functions: ceremonial marking of life transitions, historical documentation, entertainment, moral instruction, and conflict resolution. The Luo orature traditions, the Masai pastoral poetry, and the Kikuyu narrative forms each developed specialized vocabularies, performance techniques, and thematic conventions refined through generations of refinement. Poets achieved renown as public figures whose compositions could influence opinion, commemorate events, and preserve collective memory.
 
 The Masai pastoral tradition exemplifies oral poetry's integration with cultural practice. Pastoral poetry, composed in complex meter and metaphor, articulated the aesthetics and ethics of herding societies, celebrating cattle wealth, warrior courage, and elegant movement. These poems were not merely entertainment but key mechanisms through which Masai culture transmitted knowledge about pastoralism, land management, and social hierarchy. The most accomplished poets gained influence as cultural authorities, their words carrying weight in community deliberations.
 
@@ -14,10 +14,10 @@ Contemporary African writers, particularly Ngugi wa Thiong'o and others, have de
 
 ## See Also
 [[Swahili Literary Tradition]]
-[[Griots and Historians Kenya]]
+Griots and Historians Kenya
 [[Kikuyu]]
-[[Luo Oral History]]
-[[Women Writers Traditions]]
+Luo Oral History
+Women Writers Traditions
 [[Postcolonial Literature Movement]]
 [[Luo Language]]
 

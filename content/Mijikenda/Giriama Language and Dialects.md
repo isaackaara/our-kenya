@@ -58,7 +58,7 @@ The future of Giriama language depends on whether Giriama communities can mainta
 - [[Chonyi Language]] - Related language
 - [[Digo Language and Identity]] - Comparative linguistics
 - [[Coastal Intellectuals and Writers]] - Language documentation
-- [[Initiation Systems among [[Mijikenda]]]] - Knowledge transmission
+- Initiation Systems among [[Mijikenda]]]] - Knowledge transmission
 
 ## Sources
 

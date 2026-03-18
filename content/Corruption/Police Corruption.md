@@ -1,6 +1,6 @@
 ## The Scale and Normalization
 
-Corruption within the [[Kenya Police]] is systemic and normalized. Police officers extract bribes at roadblocks, demand payments from businesses in exchange for "protection," and conduct [[paid disappearances]] and executions.
+Corruption within the [[Kenya Police]] is systemic and normalized. Police officers extract bribes at roadblocks, demand payments from businesses in exchange for "protection," and conduct paid disappearances and executions.
 
 This corruption operates across police ranks, from traffic officers to detectives to commanders. The amounts involved range from small daily bribes (KES 500 for a traffic violation) to major extortion schemes (millions of shillings from wealthy individuals and businesses).
 
@@ -28,7 +28,7 @@ The most serious form of police corruption involves using police authority to co
 
 In some cases, the kidnapped individuals are released after the ransom is paid. In others, they are killed. These killings are often labeled as "encounters," implying that the deceased engaged the police in armed conflict. Investigations into these deaths are typically cursory.
 
-Between 2007 and 2020, [[human rights organizations]] documented thousands of killings by police. Many were corroborated as [[extrajudicial]]. The victims were often poor or marginalized individuals unable to pay bribes or legal representation.
+Between 2007 and 2020, human rights organizations documented thousands of killings by police. Many were corroborated as extrajudicial. The victims were often poor or marginalized individuals unable to pay bribes or legal representation.
 
 The incentive structure driving this corruption is clear: an officer who kidnaps a wealthy person and demands a large ransom profits enormously. An officer who kills someone can claim it was self-defense, and the victim is dead and cannot challenge the narrative.
 
@@ -57,7 +57,7 @@ Over decades, systematic police corruption erodes the rule of law.
 
 ## Accountability Gaps
 
-The [[Independent Police Oversight Board]] (IPOB) and the [[Directorate of Criminal Investigations]] (DCI) are supposed to investigate police misconduct. However, both face limitations:
+The Independent Police Oversight Board (IPOB) and the [[Directorate of Criminal Investigations]] (DCI) are supposed to investigate police misconduct. However, both face limitations:
 
 - Limited resources
 - Political interference
@@ -66,9 +66,9 @@ The [[Independent Police Oversight Board]] (IPOB) and the [[Directorate of Crimi
 
 ## See Also
 
-- [[Extrajudicial Killings in Kenya]] - systematic violence dynamics
+- Extrajudicial Killings in Kenya - systematic violence dynamics
 - [[Judiciary Corruption]] - limited prosecution capacity
-- [[Human Rights Watch Kenya]] - international monitoring
+- Human Rights Watch Kenya - international monitoring
 - [[Kenya]] - domestic accountability mechanisms
 - [[Impunity Culture]] - broader systemic patterns
 - [[Whistleblower Protection Kenya]] - barriers to reporting

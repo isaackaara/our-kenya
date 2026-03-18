@@ -30,7 +30,7 @@ The coffee boom enriched one segment of the Kenyan population extraordinarily wh
 - [[Political Patronage Kenyatta Era]]
 - [[Provincial Administration Kenyatta Era]]
 - [[Kenyanization Policy]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 
 ## Sources
 1. Bates, Robert H. *Beyond the Miracle of the Market: The Political Economy of Agrarian Development in Kenya*. Cambridge University Press, 2005. https://www.cambridge.org/core/books/beyond-the-miracle-of-the-market/

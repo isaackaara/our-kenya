@@ -1,4 +1,4 @@
-[[Tsavo East and West]] National Parks, together covering approximately 21,000 square kilometers, constitute Kenya's largest [[national park]] complex and one of Africa's largest protected areas. The parks are known for their large [[Elephant Human Conflict]] populations and iconic red elephants, whose coloring results from rolling in red laterite soil. Tsavo contains diverse ecosystems and [[wildlife]], though the complex has experienced significant conservation challenges.
+[[Tsavo East and West]] National Parks, together covering approximately 21,000 square kilometers, constitute Kenya's largest national park complex and one of Africa's largest protected areas. The parks are known for their large [[Elephant Human Conflict]] populations and iconic red elephants, whose coloring results from rolling in red laterite soil. Tsavo contains diverse ecosystems and [[wildlife]], though the complex has experienced significant conservation challenges.
 
 ## Geography and Ecosystem Diversity
 
@@ -70,7 +70,7 @@ In recent years, improved management and [[Anti-Poaching Technology]] efforts ha
 - [[Kenya's Elephant Story]] - Population dynamics
 - [[Poaching Crisis 1970s-1980s]] - Historical crisis context
 - [[Wildlife Corridors Kenya]] - Habitat connectivity
-- [[Elephant culling]] - Management controversies
+- Elephant culling - Management controversies
 - [[Tourism Revenue and Communities]] - Economic dimensions
 - [[Human-Wildlife Conflict]] - Boundary issues
 

@@ -6,7 +6,7 @@ The independence celebrations on December 12, 1963, when Kenya became a sovereig
 
 Beyond the official anthem, other songs featured prominently in independence celebrations. "Kenya, Land of the Lion" and various compositions by Kenyan musicians celebrated freedom and national pride. These songs, less formal than the anthem, circulated through [[Radio Voice of Kenya Origins|radio broadcasts]] and public performances, becoming the unofficial soundtrack of independence.
 
-The [[Elections/1963 Independence Election|elections leading to independence]] had their own musical accompaniments. Political parties, particularly KANU (Kenya African National Union) and KADU (Kenya African Democratic Union), used songs in campaigns. These songs promoted party platforms, celebrated leaders like [[Tom Mboya|Tom Mboya]] and [[Jomo Kenyatta Presidency|Jomo Kenyatta]], and mobilized voters. Music was integral to the democratic processes that preceded independence.
+The [[1963 Independence Election|elections leading to independence]] had their own musical accompaniments. Political parties, particularly KANU (Kenya African National Union) and KADU (Kenya African Democratic Union), used songs in campaigns. These songs promoted party platforms, celebrated leaders like [[Tom Mboya|Tom Mboya]] and [[Jomo Kenyatta Presidency|Jomo Kenyatta]], and mobilized voters. Music was integral to the democratic processes that preceded independence.
 
 The tension between ethnic musical traditions and national unity emerged during independence celebrations. Should the new nation emphasize Kikuyu, Luo, Luhya, Kamba, and other distinct musical traditions, or create new pan-ethnic forms? The solution was inclusion and synthesis: independence ceremonies featured traditional performances from multiple communities while elevating certain pan-ethnic forms (particularly Swahili-language songs) to national status.
 
@@ -26,7 +26,7 @@ Independence anthems represented music as nation-building. Through collective si
 
 ## See Also
 - [[National Anthem Kenya Creation]]
-- [[Elections/1963 Independence Election]]
+- [[1963 Independence Election]]
 - [[Jomo Kenyatta Presidency]]
 - [[Tom Mboya]]
 - [[Music and Colonial Resistance]]

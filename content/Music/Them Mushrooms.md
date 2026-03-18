@@ -23,7 +23,7 @@ Fifty years after formation, Them Mushrooms remained active, having achieved leg
 The band's legacy includes not just their hits but their demonstration that regional music deserved national platform, that Kenyan sounds could achieve international recognition, and that artistic integrity and commercial success were compatible. They opened doors for subsequent generations of coastal musicians and inspired artists across Kenya to embrace rather than hide regional identities.
 
 ## See Also
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 - [[Piracy and the Kenyan Music Industry]]
 - [[Kenyan Music Videos Origins]]
 - [[Recording Studios Kenya 1980s-1990s]]

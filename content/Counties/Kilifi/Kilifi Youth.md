@@ -28,7 +28,7 @@ Small initiatives targeting youth entrepreneurship and skills development have e
 
 - [[Kilifi County|Kilifi County Overview]]
 - [[Kilifi Education|Kilifi Education]]
-- [[Kilifi Employment|Kilifi Employment]]
+- Kilifi Employment
 - [[Kilifi Women|Kilifi Women]]
 - [[Kilifi Health|Kilifi Health]]
 - [[Kilifi Politics|Kilifi Politics]]

@@ -54,5 +54,5 @@ The commodification of Kikuyu art for tourists and international markets provide
 - [[Kikuyu Sacred Geography]]
 - [[Kikuyu Oral Traditions and Stories]]
 - [[Kikuyu Traditional Technology]]
-- [[Nairobi and Kikuyu Culture]]
+- Nairobi and Kikuyu Culture
 

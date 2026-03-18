@@ -1,11 +1,11 @@
-The 2007 campaign centered on the dispute between incumbent [[Kibaki]]'s [[Party of National Unity (PNU)]] and [[Raila Odinga]]'s [[Orange Democratic Movement (ODM)]]. Kibaki's campaign promised continued economic growth, infrastructure development, and institutional continuity. Raila's campaign emphasized anti-corruption, devolution of power to regional governments, and restoration of the Prime Minister position promised in the 2002 MOU. The campaign was marked by ethnic mobilization, with candidates appealing to regional and ethnic constituencies through promises of resource distribution and development projects if their candidates won.
+The 2007 campaign centered on the dispute between incumbent [[Mwai Kibaki]]'s [[Party of National Unity (PNU)]] and [[Raila Odinga]]'s [[Orange Democratic Movement (ODM)]]. Kibaki's campaign promised continued economic growth, infrastructure development, and institutional continuity. Raila's campaign emphasized anti-corruption, devolution of power to regional governments, and restoration of the Prime Minister position promised in the 2002 MOU. The campaign was marked by ethnic mobilization, with candidates appealing to regional and ethnic constituencies through promises of resource distribution and development projects if their candidates won.
 
 ## See Also
 
 - [[2007 Election]]
 - [[2007 Election Kibaki PNU]]
 - [[2007 Election Raila Odinga ODM]]
-- [[Ethnic mobilization Kenya]]
+- Ethnic mobilization Kenya
 
 ## Sources
 

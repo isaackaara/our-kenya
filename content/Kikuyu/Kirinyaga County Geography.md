@@ -42,7 +42,7 @@ Kirinyaga includes portions of Mount Kenya National Park and forest reserves. Co
 
 ## Cross-Links
 
-[[Mwea Irrigation Scheme]], [[Mount Kenya]], [[Kikuyu Tea Farming]], [[Anne Waiguru]], [[Kikuyu Sacred Geography]], [[Kikuyu Post-Uhuru Politics]]
+[[Mwea Irrigation Scheme]], [[Mount Kenya]], [[Kikuyu Tea Farming]], Anne Waiguru, [[Kikuyu Sacred Geography]], [[Kikuyu Post-Uhuru Politics]]
 
 ## See Also
 

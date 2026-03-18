@@ -15,12 +15,12 @@ Kenya's involvement in regional peacemaking was also motivated by strategic inte
 The contrast between Moi's international positioning as a regional statesman and his domestic record of authoritarianism and human rights abuse revealed how international politics can accommodate such contradictions. Western governments and international institutions were willing to work with Moi on regional peacemaking despite documented concerns about his regime's human rights record. This accommodation reflected the prioritisation of stability, state-to-state relations, and regional strategic interests over systematic enforcement of universal human rights principles.
 
 ## See Also
-[[Kenya/Foreign Policy]]
+[[Foreign Policy]]
 [[Moi Foreign Policy]]
-[[Moi and Somalia]]
-[[Somalia/Civil War]]
-[[Rwanda/Genocide]]
-[[Sudan/Civil Conflict]]
+Moi and Somalia
+Civil War
+Genocide
+Civil Conflict
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

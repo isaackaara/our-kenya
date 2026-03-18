@@ -49,7 +49,7 @@ Contemporary Kikuyu maintain cultural connection to the mountain, though this co
 The mountain remains symbol of Kikuyu identity and continues to appear in cultural references, literature, and community identity, even for Kikuyu who do not regularly engage with the mountain physically.
 
 ## Cross-Links
-- [[Ngai and Mount Kenya]]
+- [[Ngai]]
 - [[Kikuyu Sacred Geography]]
 - [[Aberdares (Nyandarua)]]
 - [[Kikuyu Rainmaking]]

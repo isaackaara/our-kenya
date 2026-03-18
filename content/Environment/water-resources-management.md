@@ -7,8 +7,8 @@ Integrated water resource management balances agricultural, urban, and ecosystem
 Climate change increases water scarcity and requires enhanced management frameworks.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

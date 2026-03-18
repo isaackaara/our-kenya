@@ -1,4 +1,4 @@
-**March to November 2007**: Campaign period officially opens. [[Kibaki]]'s [[Party of National Unity (PNU)]] campaigns emphasizing economic growth and continuity. [[Taita]]'s [[Orange Democratic Movement (ODM)]] campaigns emphasizing constitutional reform, devolution, and restoration of Prime Minister position. Ethnic mobilization increases as both campaigns appeal to regional constituencies.
+**March to November 2007**: Campaign period officially opens. [[Mwai Kibaki]]'s [[Party of National Unity (PNU)]] campaigns emphasizing economic growth and continuity. [[Taita]]'s [[Orange Democratic Movement (ODM)]] campaigns emphasizing constitutional reform, devolution, and restoration of Prime Minister position. Ethnic mobilization increases as both campaigns appeal to regional constituencies.
 
 **December 27, 2007**: Polling day. High turnout of approximately 65-70 percent. Early results suggest competitive race with outcomes uncertain through evening of polling day.
 
@@ -8,7 +8,7 @@
 
 **January 2008**: International mediation begins. [[Kofi Annan Mediation]] arrives to lead shuttle diplomacy. Violence continues but negotiations proceed in parallel.
 
-**February 2008**: [[National Accord and Reconciliation Agreement]] is finalized. [[Taita]] is appointed Prime Minister. Grand Coalition government begins formation.
+**February 2008**: National Accord and Reconciliation Agreement is finalized. [[Taita]] is appointed Prime Minister. Grand Coalition government begins formation.
 
 **2008-2009**: Post-election violence gradually subsides. Waki Commission investigates violence. ICC opens preliminary examinations into potential crimes.
 

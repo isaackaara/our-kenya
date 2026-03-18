@@ -1,4 +1,4 @@
-Male circumcision is a significant [[life event]] and [[cultural marker]] in [[Meru society]]. The Meru male circumcision ceremony marks the transition to [[manhood]] and initiates young men into male [[age-set]] grades that structure social roles and responsibilities throughout their lives.
+Male circumcision is a significant life event and cultural marker in [[Meru People]]. The Meru male circumcision ceremony marks the transition to manhood and initiates young men into male age-set grades that structure social roles and responsibilities throughout their lives.
 
 ## Ukabi Age-Set System
 
@@ -43,7 +43,7 @@ Contemporary Meru male circumcision ceremonies incorporate modern elements while
 - [[Meru Age Sets]]
 - [[Meru Traditional Religion]]
 - [[Meru Njuri Ncheke]]
-- [[Meru Men and Gender]]
+- Meru Men and Gender
 
 ---
 

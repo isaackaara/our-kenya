@@ -12,7 +12,7 @@ Contemporary steel frame construction focuses on climate protection: heavy-duty 
 
 ## See Also
 
-[[Modern Construction Techniques]], [[Concrete Building]], [[Tall Buildings]], [[Nairobi Built Environment]], [[Commercial Building]], [[Industrial Building Design]], [[Government House]]
+[[Modern Construction Techniques]], [[Concrete Building]], Tall Buildings, [[Nairobi Built Environment]], [[Commercial Building]], [[Industrial Building Design]], [[Government House]]
 
 ## Sources
 

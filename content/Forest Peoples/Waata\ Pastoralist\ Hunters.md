@@ -10,7 +10,7 @@ The Waata exemplify broader patterns of indigenous marginalization intersecting 
 
 ## See Also
 
-[[Hunting\ Traditions]] | [[Boni\ Aweer\ Pastoralists]] | [[Ogiek\ Community\ History]] | [[Wildlife\ Relationships]] | [[Semi-Arid Lands Kenya]] | [[Conservation]] | [[Indigenous Minorities Kenya]]
+[[Hunting\ Traditions]] | [[Boni\ Aweer\ Pastoralists]] | [[Ogiek\ Community\ History]] | [[Wildlife\ Relationships]] | [[North Eastern Province]] | [[Conservation]] | [[Indigenous Cultures]]
 
 ## Sources
 

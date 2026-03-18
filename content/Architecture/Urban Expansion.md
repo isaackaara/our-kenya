@@ -17,7 +17,7 @@ The agricultural land loss from urban expansion created food security concerns a
 [[Satellite Towns]]
 [[Informal Settlements]]
 [[Infrastructure Investment]]
-[[Agricultural Land Loss]]
+Agricultural Land Loss
 [[Climate Resilience]]
 
 ## Sources

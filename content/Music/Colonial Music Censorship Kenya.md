@@ -2,7 +2,7 @@ Colonial authorities in Kenya maintained a complex system of musical surveillanc
 
 The legal framework for censorship was established through various regulations, including the Seditious Offences Ordinance and local administrative rules that gave district commissioners broad powers to ban performances, confiscate instruments, and arrest musicians deemed threatening to public order. The definitions of "seditious" or "offensive" music were deliberately vague, allowing authorities wide discretion.
 
-Traditional circumcision songs were among the earliest targets. When [[Europeans/European Settlers Kenya|missionary and colonial authorities]] campaigned against female genital cutting in the 1920s and 1930s, they banned not just the practice but also the associated musical repertoire. Kikuyu circumcision songs, which carried deep cultural significance, were prohibited in mission areas and occasionally in broader colonial zones. This musical censorship was cultural warfare disguised as public health policy.
+Traditional circumcision songs were among the earliest targets. When [[European Settlers Kenya|missionary and colonial authorities]] campaigned against female genital cutting in the 1920s and 1930s, they banned not just the practice but also the associated musical repertoire. Kikuyu circumcision songs, which carried deep cultural significance, were prohibited in mission areas and occasionally in broader colonial zones. This musical censorship was cultural warfare disguised as public health policy.
 
 During the [[Mau Mau Uprising|Mau Mau emergency]] (1952-1960), censorship intensified dramatically. Colonial authorities banned any music suspected of supporting the rebellion or expressing Kikuyu nationalism. Songs referencing land grievances, anti-colonial sentiment, or historical injustices faced prohibition. Musicians were arrested, instruments confiscated, and performances shut down. The [[Radio Voice of Kenya Origins|Voice of Kenya radio station]] implemented strict vetting of all music for potential seditious content.
 
@@ -20,7 +20,7 @@ Musicians developed strategies of resistance. Performing in private spaces, usin
 
 The economic impact of censorship was significant. Musicians who earned livelihoods from public performances faced financial ruin if banned. Recording contracts could be voided if authorities deemed content problematic. This economic leverage gave censorship teeth beyond legal penalties.
 
-As independence approached, censorship gradually relaxed. The [[Elections/1963 Independence Election|1963 independence celebrations]] included musical performances that would have been banned years earlier. Songs celebrating African freedom, criticizing colonialism, and asserting cultural pride were suddenly permissible, even encouraged by the soon-to-be-independent government.
+As independence approached, censorship gradually relaxed. The [[1963 Independence Election|1963 independence celebrations]] included musical performances that would have been banned years earlier. Songs celebrating African freedom, criticizing colonialism, and asserting cultural pride were suddenly permissible, even encouraged by the soon-to-be-independent government.
 
 Post-independence, censorship did not disappear but changed form. The new Kenyan state maintained surveillance of music for different political purposes. But the colonial-era censorship regime, with its explicit goal of maintaining European dominance and suppressing African political expression, formally ended in 1963.
 
@@ -30,7 +30,7 @@ Post-independence, censorship did not disappear but changed form. The new Kenyan
 - [[Mau Mau Uprising]]
 - [[Radio Voice of Kenya Origins]]
 - [[Beni Ngoma Colonial Era]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 - [[Independence Anthems Kenya]]
 
 ## Sources

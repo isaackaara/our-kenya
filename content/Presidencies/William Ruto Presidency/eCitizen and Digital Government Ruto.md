@@ -16,10 +16,10 @@ The eCitizen expansion revealed a fundamental tension in Ruto's governance. On o
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
 - [[Ruto Inauguration and First 100 Days]]
 - [[Hustler Fund]]
-- [[Corruption/Digital Corruption and Patronage]]
+- Digital Corruption and Patronage
 - [[Ruto and Social Media]]
 - [[Finance Bill 2023 Kenya]]
-- [[Cross-Ethnic/Digital Divide in Kenya]]
+- Digital Divide in Kenya
 
 ## Sources
 1. "Kenya's eCitizen platform: Digital revolution or digital divide?" African Lii, March 2024. https://africanlii.org/article/20240315/ecitizen-digital-divide

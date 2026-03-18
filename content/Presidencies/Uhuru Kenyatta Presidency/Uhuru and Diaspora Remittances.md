@@ -9,12 +9,12 @@ The prevalence of remittances also masked economic policy failures. Rather than 
 By Uhuru's final years, diaspora remittances had become economically essential yet politically invisible. His successor would inherit a pattern of large-scale emigration and diaspora dependence that reflected decades of inadequate domestic economic opportunity creation.
 
 ## See Also
-[[Kenya's External Trade and Remittances]]
-[[Diaspora Engagement Policy Kenya]]
-[[Rural Household Income Sources]]
+Kenya's External Trade and Remittances
+[[Diaspora Communities]]
+Rural Household Income Sources
 [[Development Aid]]
-[[Foreign Exchange and Macroeconomic Stability]]
-[[Emigration Patterns East Africa]]
+Foreign Exchange and Macroeconomic Stability
+Emigration Patterns East Africa
 
 ## Sources
 1. https://www.centralbank.go.ke/documents/diaspora-remittances-2013-2022-analysis (Central Bank of Kenya)

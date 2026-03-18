@@ -145,7 +145,7 @@ Cross-links to neighboring communities (Luo, Kipsigis/Kalenjin, Kuria) are embed
 - [[Kisii Education Culture]]
 - [[Kisii and Education]]
 - [[Young Kisii Identity]]
-- [[Kisii In Business and Professions]]
+- [[Kisii in Business and Professions]]
 - [[Kisii Futures]]
 
 ### Geography and Environment

@@ -9,12 +9,12 @@ Kenya Power's tariff structure evolved during Uhuru's presidency in ways that di
 By the end of Uhuru's presidency, Kenya Power remained a critically dysfunctional institution whose failure directly undermined Kenya's industrialization ambitions and constrained the living standards of millions of households. His successor inherited a utility in structural crisis requiring comprehensive management overhaul and institutional reform.
 
 ## See Also
-[[Kenya's Energy Sector Under Uhuru]]
-[[Electricity Access and Distribution Kenya]]
-[[State Enterprise Management Failures]]
+[[Energy Access]]
+Electricity Access and Distribution Kenya
+State Enterprise Management Failures
 [[Uhuru Infrastructure Agenda]]
 [[Uhuru and Lake Turkana Wind Power Project]]
-[[Industrial Competitiveness Energy Constraints]]
+Industrial Competitiveness Energy Constraints
 
 ## Sources
 1. https://www.theeastafrican.co.ke/tea/business/power-utility-crisis-uhuru-2001234567

@@ -14,7 +14,7 @@ The company's growth from a startup operation in the late 1990s to a major media
 [[Television History Kenya]]
 [[Media Ownership Control]]
 [[Media Democratization]]
-[[Samuel Kamau Macharia]]
+Samuel Kamau Macharia
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Samuel_Kamau_Macharia

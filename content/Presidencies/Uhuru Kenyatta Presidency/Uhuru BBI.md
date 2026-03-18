@@ -60,10 +60,10 @@ However, BBI also revealed the incompleteness of constitutional governance in Ke
 - [[Uhuru 2017 Election]]
 - [[The Kenyan Constitution 2010]]
 - [[Raila Odinga]]
-- [[Supreme Court of Kenya]]
+- [[Kenya Constitution 2010]]
 - [[Kenyan Hip-Hop]]
 - [[Uhuru Post-Presidency]]
-- [[William Ruto 2022 Campaign]]
+- William Ruto 2022 Campaign
 
 ## Sources
 

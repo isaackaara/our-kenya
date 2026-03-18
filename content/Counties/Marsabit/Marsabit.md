@@ -29,5 +29,5 @@ Marsabit Mountain, rising to 1,707 meters, dominates the landscape and creates a
 
 ## See Also
 - [[Marsabit National Park]]
-- [[Rendille]]
+- Rendille
 - [[Samburu]]

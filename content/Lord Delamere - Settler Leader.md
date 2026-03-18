@@ -6,7 +6,7 @@ The context of lord delamere - settler leader illuminates how local, regional, a
 
 ## See Also
 
-[[Europeans]], [[Kenya History]], [[Historical Development]]
+Europeans, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

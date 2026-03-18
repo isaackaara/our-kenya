@@ -7,8 +7,8 @@ However, the implementation of police reforms faced significant obstacles rooted
 ## See Also
 
 [[Kenya Police]]
-[[Human Rights and Security Forces]]
-[[Post-Conflict Accountability]]
+Human Rights and Security Forces
+Post-Conflict Accountability
 [[Kibaki and the ICC]]
 
 ## Sources

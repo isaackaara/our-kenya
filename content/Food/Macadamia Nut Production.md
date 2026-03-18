@@ -18,8 +18,8 @@ Environmental considerations shaped macadamia cultivation sustainability. Nutrie
 [[Crop Variety Development]]
 [[Agroforestry Systems]]
 [[Food Trade Exports]]
-[[Labour/Smallholder Agricultural Development]]
-[[Poverty/Highland Farmer Livelihoods]]
+Smallholder Agricultural Development
+Highland Farmer Livelihoods
 
 ## Sources
 

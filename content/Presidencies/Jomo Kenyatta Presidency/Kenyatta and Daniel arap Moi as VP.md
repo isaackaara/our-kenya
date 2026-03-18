@@ -25,7 +25,7 @@ Kenyatta's choice of Moi as vice president was intended to manage ethnic balance
 - [[Mbiyu Koinange]]
 - [[Provincial Administration Kenyatta Era]]
 - [[Political Patronage Kenyatta Era]]
-- [[Cross-Ethnic/Kikuyu-Kalenjin Relations]]
+- [[Kikuyu-Kalenjin Alliance]]
 
 ## Sources
 1. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141184/kenya

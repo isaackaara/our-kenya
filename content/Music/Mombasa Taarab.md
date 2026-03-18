@@ -22,7 +22,7 @@ The question facing Mombasa taarab is whether it can maintain cultural relevance
 - [[Swahili Coast Music Traditions]]
 - [[Swahili Chakacha Dance]]
 - [[Swahili Civilization Overview]]
-- [[Swahili/Swahili Language and Identity]]
+- [[Swahili Culture]]
 - [[Women's Music Traditions Kenya]]
 - [[Music and Marriage Ceremonies]]
 

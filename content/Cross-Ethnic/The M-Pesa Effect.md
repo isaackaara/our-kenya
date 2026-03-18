@@ -12,7 +12,7 @@
 
 ## Infrastructure and Identity
 
-[[M-Pesa]] is genuinely [[cross-ethnic infrastructure]] because it operates on a technological logic independent of ethnic identity. A Kikuyu can send money to a Luo with the same ease as sending to another Kikuyu. A Somali trader in Nairobi can accept payment from customers of any ethnicity. The platform eroded the ethnic gatekeeping that older financial systems (banks, credit associations based on ethnic community) depended on. In doing so, M-Pesa enabled economic relationships to form on grounds of efficiency rather than ethnic trust or kinship. This shift is revolutionary for Kenya's economic life.
+[[M-Pesa]] is genuinely cross-ethnic infrastructure because it operates on a technological logic independent of ethnic identity. A Kikuyu can send money to a Luo with the same ease as sending to another Kikuyu. A Somali trader in Nairobi can accept payment from customers of any ethnicity. The platform eroded the ethnic gatekeeping that older financial systems (banks, credit associations based on ethnic community) depended on. In doing so, M-Pesa enabled economic relationships to form on grounds of efficiency rather than ethnic trust or kinship. This shift is revolutionary for Kenya's economic life.
 
 ## See Also
 
@@ -20,7 +20,7 @@
 - [[The Matatu Economy]]
 - [[Nairobi as Melting Pot]]
 - [[Economic Interdependence Kenya]]
-- [[Fintech and Cross-Ethnic Commerce]]
+- Fintech and Cross-Ethnic Commerce
 
 ## Related
 

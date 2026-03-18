@@ -8,7 +8,7 @@ International film distribution licensing addressed the complexities of bringing
 
 The transition to digital distribution and streaming services created new licensing challenges. Traditional film licensing frameworks developed for theatrical exhibition and broadcast television did not easily accommodate streaming distribution. Digital rights licensing proved more complex than physical distribution, addressing technical specifications, geographic distribution rights, and temporal licensing terms. The rapid evolution of distribution technology meant that licensing frameworks often lagged behind technological capability, creating ambiguity about proper licensing for emerging distribution mechanisms.
 
-See Also: [[Film Distribution]], [[Broadcasting License]], [[Television Operations]], [[Film]], [[Copyright Film Industry]], [[International Film Partnerships]], [[Digital Art]]
+See Also: [[Film Distribution]], [[Broadcasting License]], [[Television Operations]], [[Film]], Copyright Film Industry, [[International Film Partnerships]], [[Digital Art]]
 
 Sources:
 1. https://www.film-board-kenya.org/

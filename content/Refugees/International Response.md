@@ -20,7 +20,7 @@ International humanitarian law and refugee protection standards provided normati
 
 ## See Also
 
-[[UNHCR Operations Kenya]], [[NGO Activities Camps]], [[Humanitarian Operations]], [[Government Coordination]], [[Refugee Protection Services]], [[Kenya Refugee Policy]], [[International Humanitarian Law]]
+[[UNHCR Operations Kenya]], [[NGO Activities Camps]], [[Humanitarian Operations]], [[Government Coordination]], [[Refugee Protection Services]], [[Kenya Refugee Policy]], International Humanitarian Law
 
 ## Sources
 

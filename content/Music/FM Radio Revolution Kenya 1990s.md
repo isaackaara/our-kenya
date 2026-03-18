@@ -1,12 +1,12 @@
 The liberalization of Kenya's broadcasting monopoly in the mid-1990s unleashed an FM radio revolution that fundamentally transformed the country's music industry, media landscape, and popular culture. Private stations like Capital FM, Kiss FM, and Easy FM broke [[Kenya Broadcasting Corporation Music|KBC's]] decades-long stranglehold on airways, creating unprecedented opportunities for musicians while reshaping how Kenyans consumed music and information.
 
-Before liberalization, the state-controlled [[Music/Voice of Kenya and Music Policy|Voice of Kenya]], rebranded as Kenya Broadcasting Corporation in 1990, monopolized broadcasting. This monopoly meant government controlled what Kenyans heard, using radio as propaganda tool and implementing [[Moi Era Music and Censorship|political censorship]] that suppressed critical voices. KBC's programming emphasized news, educational content, and music deemed politically safe, creating enormous pent-up demand for alternatives.
+Before liberalization, the state-controlled [[Voice of Kenya and Music Policy|Voice of Kenya]], rebranded as Kenya Broadcasting Corporation in 1990, monopolized broadcasting. This monopoly meant government controlled what Kenyans heard, using radio as propaganda tool and implementing [[Moi Era Music and Censorship|political censorship]] that suppressed critical voices. KBC's programming emphasized news, educational content, and music deemed politically safe, creating enormous pent-up demand for alternatives.
 
 Capital FM, launched in the mid-1990s, pioneered private FM broadcasting in Kenya. Operating on 98.4 FM in Nairobi and expanding to other frequencies nationwide, Capital introduced contemporary hit radio format emphasizing international pop, rock, and R&B alongside select Kenyan music. The station's slick presentation, professional DJs, and music-focused programming contrasted sharply with KBC's staid approach.
 
 Kiss FM (later Kiss 100) followed, targeting urban youth with even more contemporary programming. Broadcasting primarily on 100.3 FM in Nairobi, Kiss played hip-hop, R&B, and emerging Kenyan urban music that KBC largely ignored. The station cultivated young, trendy image that made it cultural tastemaker for Nairobi's youth, influencing fashion, language, and lifestyle beyond music.
 
-Easy FM carved niche with more eclectic programming mixing international hits with greater emphasis on African music including [[Music/Kenyan Benga Music|benga]], [[Congolese Influence on Kenya 1980s|rumba]], and [[Kenyan Gospel Music Boom|gospel]]. This approach attracted audiences wanting contemporary format without completely abandoning local musical traditions.
+Easy FM carved niche with more eclectic programming mixing international hits with greater emphasis on African music including [[Kenyan Benga Music|benga]], [[Congolese Influence on Kenya 1980s|rumba]], and [[Kenyan Gospel Music Boom|gospel]]. This approach attracted audiences wanting contemporary format without completely abandoning local musical traditions.
 
 The FM revolution's impact on Kenyan music was transformative. Private stations needed content and proved more willing than KBC to play local music, particularly [[Youth Music Culture 1990s Kenya|youth-oriented genres]]. Musicians who could never access KBC's playlists found airplay on Kiss, Capital, or niche stations. This democratization of airwaves accelerated local music production and diversified sounds reaching audiences.
 
@@ -28,7 +28,7 @@ By the 2000s, FM radio had become Kenya's dominant medium for music consumption,
 
 ## See Also
 - [[Kenya Broadcasting Corporation Music]]
-- [[Music/Voice of Kenya and Music Policy]]
+- [[Voice of Kenya and Music Policy]]
 - [[Radio DJs as Cultural Gatekeepers Kenya]]
 - [[Moi Era Music and Censorship]]
 - [[Kenyan Gospel Music Boom]]

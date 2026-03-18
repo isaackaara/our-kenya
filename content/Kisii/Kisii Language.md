@@ -143,5 +143,5 @@ Ekegusii language is a valuable linguistic and cultural resource. Its preservati
 - [[Kisii Futures]] - Language continuity questions
 - [[Kisii Social Structure]] - Social organization and language use
 - [[Kisii Music]] - Musical traditions and language
-- [[Kisii Culture]] - Cultural identity markers
+- Kisii Culture - Cultural identity markers
 - [[Kisii Origins and Migration]] - Historical language development

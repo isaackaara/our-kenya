@@ -29,9 +29,9 @@ By the late 1970s, the development projects of the Kenyatta era had created sign
 - [[Kenyatta Harambee Policy|Kenyatta Harambee Policy]]
 - [[Kenyatta Economic Policy|Kenyatta Economic Policy]]
 - [[Kenyatta Land Policy|Kenyatta Land Policy]]
-- [[../../Kenya Infrastructure History|Kenya Infrastructure History]]
-- [[../../Kenya Education History|Kenya Education History]]
-- [[../../Kenya Healthcare|Kenya Healthcare]]
+- Kenya Infrastructure History
+- [[Education|Kenya Education History]]
+- Kenya Healthcare
 - [[Nairobi Development|Nairobi Development]]
 
 ## Sources

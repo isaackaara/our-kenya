@@ -24,7 +24,7 @@ By the late 1940s, Nairobi's dance halls had become incubators for what would em
 - [[The Nairobi Sound 1950s]]
 - [[Dance Bands of Post-WWII Kenya]]
 - [[Congolese Rumba Arrives in Kenya]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 - [[Women Performers Colonial Kenya]]
 
 ## Sources

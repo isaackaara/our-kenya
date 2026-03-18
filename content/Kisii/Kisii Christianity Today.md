@@ -4,7 +4,7 @@ title: Kisii Christianity in Contemporary Kenya
 
 # Kisii Christianity Today
 
-The [[Gusii people|Kisii]] are predominantly [[Music and Pre-Christian Religion Kenya|Christian]], with [[Music and Pre-Christian Religion Kenya|Christianity]] being dominant across all age groups and education levels. The [[Seventh-day Adventist Church]] (SDA) is the largest denomination, though [[Catholic Church]], [[Pentecostal churches]], and independent churches also have significant presence. [[Music and Pre-Christian Religion Kenya|Christianity]] coexists with [[Abagusii Cosmology|traditional belief systems]] in ways reflecting [[Gusii people|Kisii]] pragmatic religiosity.
+The [[Gusii people|Kisii]] are predominantly [[Music and Pre-Christian Religion Kenya|Christian]], with [[Music and Pre-Christian Religion Kenya|Christianity]] being dominant across all age groups and education levels. The [[Seventh-day Adventist Church]] (SDA) is the largest denomination, though [[Catholic Church]], Pentecostal churches, and independent churches also have significant presence. [[Music and Pre-Christian Religion Kenya|Christianity]] coexists with [[Abagusii Cosmology|traditional belief systems]] in ways reflecting [[Gusii people|Kisii]] pragmatic religiosity.
 
 ## Christian Dominance
 
@@ -125,8 +125,8 @@ Christianity is thoroughly integrated into Kisii identity and social life. While
 ## See Also
 
 - [[Kisii Churches]] - institutional overview
-- [[Seventh-day Adventist Church in East Africa]] - SDA context
+- Seventh-day Adventist Church in East Africa - SDA context
 - [[Abagusii Cosmology]] - traditional belief systems
-- [[Syncretism in African Christianity]] - cultural integration
+- Syncretism in African Christianity - cultural integration
 - [[Kisii Colonial History]] - missionary origins
-- [[Religious change in Kenya]] - national context
+- Religious change in Kenya - national context

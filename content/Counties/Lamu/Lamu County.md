@@ -44,10 +44,10 @@ Infrastructure is minimal by national standards. There are no roads on Lamu Isla
 ## See Also
 
 - [[Swahili|Swahili Culture and History]]
-- [[../../Indian Ocean/Indian Ocean Trade|Indian Ocean Trade Routes]]
+- [[Merchant Networks|Indian Ocean Trade Routes]]
 - [[Mombasa County|Mombasa County]]
-- [[../../Coast Region/Coast Region|Kenya's Coast Region]]
-- [[../../Islamic Heritage/Islamic Heritage Kenya|Islamic Heritage in Kenya]]
+- Kenya's Coast Region
+- Islamic Heritage in Kenya
 
 ## Sources
 

@@ -6,7 +6,7 @@ The context of photography as historical evidence illuminates how local, regiona
 
 ## See Also
 
-[[Photography]], [[Kenya History]], [[Historical Development]]
+Photography, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

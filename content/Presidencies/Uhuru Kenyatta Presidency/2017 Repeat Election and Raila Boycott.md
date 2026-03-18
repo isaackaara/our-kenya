@@ -2,7 +2,7 @@ The October 26, 2017 repeat presidential election, ordered by the Supreme Court 
 
 Raila's decision to withdraw was based on the argument that the IEBC had not addressed the problems identified by the Supreme Court. His coalition, NASA (National Super Alliance), demanded personnel changes at the IEBC, reforms to the results transmission system, and international oversight of the repeat election. When the IEBC resisted wholesale changes and the government refused to postpone the election beyond the constitutional 60-day deadline, Raila concluded that participating would legitimize a flawed process. His withdrawal was strategic: it denied Uhuru the political legitimacy that comes from defeating an opponent, turning the election into a referendum on process rather than a competition between candidates.
 
-The campaign period for the repeat election was violent and chaotic. Opposition strongholds, particularly in [[Luo]] areas of Nyanza and parts of Nairobi, saw intense protests against the election proceeding. Police killed dozens of demonstrators in Kisumu, Siaya, and Nairobi's informal settlements. In some opposition areas, NASA supporters prevented the IEBC from opening polling stations, making it impossible for any voting to occur. The violence recalled the [[2007 Post-Election Violence]], though on a smaller scale. The government deployed heavy security and insisted the election would proceed regardless of opposition boycotts or protests.
+The campaign period for the repeat election was violent and chaotic. Opposition strongholds, particularly in [[Luo]] areas of Nyanza and parts of Nairobi, saw intense protests against the election proceeding. Police killed dozens of demonstrators in Kisumu, Siaya, and Nairobi's informal settlements. In some opposition areas, NASA supporters prevented the IEBC from opening polling stations, making it impossible for any voting to occur. The violence recalled the [[2007-2008 Post Election Violence]], though on a smaller scale. The government deployed heavy security and insisted the election would proceed regardless of opposition boycotts or protests.
 
 Uhuru won the October 26 election with 7.48 million votes, compared to 8.21 million in August, despite running against minor candidates rather than a serious opponent. The 98 percent vote share was a Pyrrhic victory, echoing the kind of results associated with authoritarian regimes rather than competitive democracies. More telling was the turnout collapse: in NASA strongholds like Nyanza, turnout was below 10 percent, while in Jubilee strongholds in Central Kenya, it exceeded 70 percent. The geographic pattern revealed a country divided not just politically but in its acceptance of the electoral process itself.
 
@@ -14,11 +14,11 @@ The repeat election's legacy was profound polarization and institutional damage.
 - [[2017 Election and Nullification]]
 - [[Uhuru Kenyatta and the ICC]]
 - [[Raila Odinga]]
-- [[Elections/2017 Presidential Election]]
+- [[2017 Presidential Election]]
 - [[The Handshake March 2018]]
 - [[Luo Political History]]
-- [[Kikuyu/Kikuyu Political Power]]
-- [[2007 Post-Election Violence]]
+- [[Kikuyu Political Power]]
+- [[2007-2008 Post Election Violence]]
 
 ## Sources
 1. "Kenya Election: Kenyatta Wins Repeat Vote Boycotted by Opposition," BBC News, October 30, 2017. https://www.bbc.com/news/world-africa-41809822

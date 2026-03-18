@@ -21,10 +21,10 @@ By the end of Kibaki's presidency, Kenya's media landscape had transformed drama
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Press Freedom|Kenya Press Freedom]]
-- [[Kenya Broadcasting|Kenya Broadcasting]]
-- [[Kenya Media Ownership|Kenya Media Ownership]]
-- [[Kenya Civil Society|Kenya Civil Society]]
+- [[State Censorship and Literature|Kenya Press Freedom]]
+- Kenya Broadcasting
+- [[Social Media Kenya|Kenya Media Ownership]]
+- Kenya Civil Society
 
 ## Sources
 

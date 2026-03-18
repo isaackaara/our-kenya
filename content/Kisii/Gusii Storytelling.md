@@ -99,10 +99,10 @@ Gusii storytelling shares structural and thematic elements with oral traditions 
 ## See Also
 
 - [[Gusii Storytelling and Oral Literature]] - comprehensive oral tradition overview
-- [[Trickster narratives in African literature]] - trickster tale analysis
+- Trickster narratives in African literature - trickster tale analysis
 - [[Gusii Proverbs]] - complementary wisdom tradition
 - [[Kisii Birth and Naming]] - narrative about life transitions
-- [[Oral tradition and cultural memory]] - preservation perspectives
+- Oral tradition and cultural memory - preservation perspectives
 - [[Ekegusii Language and Linguistic Identity]] - language of narratives
 
 ## Sources

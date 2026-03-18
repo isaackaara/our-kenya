@@ -16,7 +16,7 @@ The relationship between Islamic banking and state authority involved ongoing ne
 [[Religious Charities Settlements]]
 [[Religious Taxation Tithing]]
 [[Lamu Multi-Religious Heritage]]
-[[Colonial Kenya/Economic Systems]]
+Economic Systems
 
 ## Sources
 

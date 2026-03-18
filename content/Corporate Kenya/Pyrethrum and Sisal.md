@@ -2,15 +2,15 @@ Pyrethrum and sisal were important colonial-era cash crops that defined regional
 
 ## Pyrethrum
 
-**Origins** - [[Pyrethrum]] (insecticidal flower) was introduced to [[Kenya]]'s [[Highlands Kenya|highlands]] in the early 1900s. Its extraction for natural insecticide made it valuable.
+**Origins** - Pyrethrum (insecticidal flower) was introduced to [[Kenya]]'s highlands in the early 1900s. Its extraction for natural insecticide made it valuable.
 
-**Peak** - Pyrethrum was grown widely in [[Rift Valley Kenya|Rift Valley highlands]] (Nakuru, Kericho, Eldoret). By the 1970s, production was substantial.
+**Peak** - Pyrethrum was grown widely in [[Rift Valley|Rift Valley highlands]] (Nakuru, Kericho, Eldoret). By the 1970s, production was substantial.
 
 **Decline** - Synthetic insecticides (pyrethroids) replaced natural pyrethrum. Demand fell. Production declined from peaks of 10,000+ tonnes to low levels today.
 
 ## Sisal
 
-**Origins** - [[Kisa]] (agave) was grown primarily on the [[Coast Kenya|Coast]] and in [[Uhuru and North Eastern Kenya]] for its fibre, used in rope and twine.
+**Origins** - [[Kisa]] (agave) was grown primarily on the Coast and in [[Uhuru and North Eastern Kenya]] for its fibre, used in rope and twine.
 
 **Market** - Sisal had global demand for shipping rope, agricultural twine, and other uses. By the 1970s, sisal was a significant crop.
 
@@ -24,11 +24,11 @@ Both crops left legacies in their production regions. Rift Valley communities gr
 
 - [[Kenya Agricultural History]]
 - [[Colonial Economy]]
-- [[Export Crops Kenya]]
-- [[Regional Economic Development Kenya]]
-- [[Post-Colonial Agriculture]]
-- [[Trade Specialisation Kenya]]
-- [[Commodity Dependence]]
+- Export Crops Kenya
+- Regional Economic Development Kenya
+- Post-Colonial Agriculture
+- Trade Specialisation Kenya
+- Commodity Dependence
 
 ## Attempted Revivals
 

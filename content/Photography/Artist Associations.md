@@ -8,11 +8,11 @@ International connections through artist associations link Kenyan practitioners 
 
 ## See Also
 - [[Artist Cooperatives]]
-- [[Professional Organizations Kenya]]
-- [[Art Advocacy and Policy]]
+- Professional Organizations Kenya
+- Art Advocacy and Policy
 - [[support]]
 - [[Moi and the Luo Community]]
-- [[International Artist Connections]]
+- International Artist Connections
 - [[Professional Development]]
 
 ## Sources

@@ -49,8 +49,8 @@ However, the settlers clearing forest for agriculture have also been Kalenjin, c
 ## Cross-Links
 - [[Mau Forest Crisis]]
 - [[Kalenjin Pastoralism Deep Dive]]
-- [[Kenya's Water Security]]
-- [[Kalenjin and Climate Change]]
+- Kenya's Water Security
+- Kalenjin and Climate Change
 
 ## See Also
 

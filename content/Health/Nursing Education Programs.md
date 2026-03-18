@@ -17,11 +17,11 @@ The cost of nursing education has become a barrier for lower-income students, co
 ## See Also
 [[Medical Training Education]]
 [[Healthcare Worker Shortages]]
-[[University of Nairobi Medical School]]
+University of Nairobi Medical School
 [[Private Healthcare Development]]
 [[Occupational Health Safety]]
 [[Rural Healthcare Access]]
-[[Professional Licensing Kenya]]
+Professional Licensing Kenya
 
 ## Sources
 1. Kenya Nursing Council annual reports 2015-2024, https://www.kenyamailonline.com/nursing-standards/

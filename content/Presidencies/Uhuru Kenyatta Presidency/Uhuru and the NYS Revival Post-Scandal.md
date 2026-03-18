@@ -10,10 +10,10 @@ The scandal and its inadequate resolution revealed the disconnect between Uhuru'
 
 ## See Also
 [[Uhuru Corruption Record]]
-[[Kenya's Corruption Under Uhuru Kenyatta]]
+Kenya's Corruption Under Uhuru Kenyatta
 [[Uhuru Youth Unemployment Policy]]
-[[Justice Sector Reforms 2013-2022]]
-[[Transparency in Government Kenya]]
+Justice Sector Reforms 2013-2022
+Transparency in Government Kenya
 [[Public Art]]
 
 ## Sources

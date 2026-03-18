@@ -4,7 +4,7 @@ Regional voting patterns in 1983 reflected the government's political consolidat
 - [[1983 Election]]
 - [[Kenya Re]]
 - [[Kalenjin]]
-- [[Central Province Politics]]
+- Central Province Politics
 - [[Daniel arap Moi]]
 - [[Kenya]]
 

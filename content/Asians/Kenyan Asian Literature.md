@@ -35,7 +35,7 @@ Beyond creative literature, academic works by Kenyans and others analyze the Asi
 - [[Asians in Kenya]]
 - [[Asians in Colonial Kenya]]
 - [[Asians at Independence]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

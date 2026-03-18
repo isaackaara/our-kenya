@@ -34,7 +34,7 @@ Contemporary challenges include aging facilities, declining membership in some a
 - [[Hindu Community Colonial Kenya]]
 - [[Bollywood and Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

@@ -107,7 +107,7 @@ These youth are sometimes bridges between traditional elder authority (their par
 - [[Second Generation Somali Nairobi]]
 - [[Kenyan Somali Youth]]
 - [[Kenya-Somalia Relations]]
-- [[Somali Diaspora Global]]
+- [[Diaspora Communities]]
 
 ## Sources
 

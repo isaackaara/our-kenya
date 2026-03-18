@@ -26,7 +26,7 @@ Contemporary women's political organizing increasingly emphasizes intersectional
 [[Women Parliament Kenya]]
 [[Female Government Representation]]
 [[Women Organizations Advocacy]]
-[[Elections/Electoral Systems]]
+Electoral Systems
 
 ## Sources
 

@@ -19,8 +19,8 @@ Mitigation of climate change through reduction of greenhouse gas emissions is a 
 - [[Taita-Taveta County]]
 - [[Taita-Taveta Agriculture]]
 - [[Tsavo East National Park]]
-- [[Water Resources Kenya]]
-- [[Climate Adaptation]]
+- [[Water Resources Management]]
+- Climate Adaptation
 - [[Taita Hills]]
 
 ## Sources

@@ -12,7 +12,7 @@ Kenyatta initially returned to Kenya in 1930, but the political ground had shift
 
 ## See Also
 
-[[Kenya Central Association]]
+Kenya Central Association
 [[Kenyatta Rise to Power]]
 [[Facing Mount Kenya book 1938]]
 [[Kenyatta in wartime Britain]]

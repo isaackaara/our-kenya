@@ -1,4 +1,4 @@
-The visual character and [[architecture]] of [[Nairobi]], particularly in older neighborhoods, was shaped by [[Asian Kenyans|Asian]] builders, merchants, and designers. [[Asian Kenyans|Asian]]-built structures reflect both [[India|Indian]] [[architecture|architectural]] traditions and adaptation to [[East Africa|East African]] climate and materials.
+The visual character and [[Architecture]] of [[Nairobi]], particularly in older neighborhoods, was shaped by [[Asian Kenyans|Asian]] builders, merchants, and designers. [[Asian Kenyans|Asian]]-built structures reflect both [[india|Indian]] [[Architecture|architectural]] traditions and adaptation to [[East Africa|East African]] climate and materials.
 
 ## The Distinctive Style
 
@@ -35,7 +35,7 @@ Remaining Asian-built structures (churches, mosques, temples, residential buildi
 ## See Also
 
 - [[Alibhai Mulla Jeevanjee]]
-- [[Jeevanjee Gardens]]
+- Jeevanjee Gardens
 - [[Asian Real Estate Kenya]]
 - [[Asian Commercial Districts Colonial]]
 - [[Nairobi]]

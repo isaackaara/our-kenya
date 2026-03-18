@@ -15,7 +15,7 @@ The growth of television acting created career pathways for working actors. Succ
 Gender dynamics in television acting mirrored broader industry patterns. Female actors faced competition for limited female roles, while male actors had broader role availability. Casting practices sometimes prioritized physical appearance for female actors more than male roles, creating workplace dynamics where physical appearance was professional asset of particular importance for women.
 
 ## See Also
-[[Film Acting]], [[Drama Television]], [[Television Studios]], [[Citizen TV Broadcasting]], [[Film School Training]], [[Women]], [[Entertainment]]
+[[Film Acting]], [[Drama Television]], [[Television Studios]], [[Citizen TV Broadcasting]], [[Film School Training]], [[Women]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

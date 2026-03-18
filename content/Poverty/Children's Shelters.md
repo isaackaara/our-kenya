@@ -9,7 +9,7 @@ A significant challenge involves trafficking and exploitation within shelter sys
 Alternatives to institutional shelters have expanded, recognizing institutional care limitations. Community-based care models place children with approved foster families, providing family-like care while maintaining community integration. Small group homes (typically 10-15 children per facility) provide more personalized care than large institutions. Day care and support centers provide services to families, reducing necessity for child institutionalization. These alternative approaches often produce better outcomes than large institutional facilities. However, capacity for alternatives remains limited; institutional model predominates. International organizations have encouraged child-sensitive practices; family strengthening as institutional prevention alternative; and deinstitutionalization strategies. However, resource constraints and institutional interests limit rapid transitions from institutional to community-based models.
 
 ## See Also
-[[Street Children]], [[Child Protection Services]], [[Orphaned Children]], [[Poverty Measurement]], [[Education Access]], [[support]], [[support]], [[Child Rights]]
+[[Street Children]], [[Child Protection Services]], Orphaned Children, [[Poverty Measurement]], [[Education Access]], [[support]], [[support]], Child Rights
 
 ## Sources
 1. UNICEF (2015). "Child Protection and Alternative Care Assessment in Kenya." https://www.unicef.org

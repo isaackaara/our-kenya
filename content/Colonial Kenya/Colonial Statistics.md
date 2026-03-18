@@ -21,7 +21,7 @@ Criminal statistics compiled from [[Colonial Bureaucracy|colonial courts]] docum
 [[Colonial Census Operations]]
 [[Colonial Administration]]
 [[Colonial Knowledge Production]]
-[[Colonial Economic Development]]
+Colonial Economic Development
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

@@ -12,8 +12,8 @@ Media framing of elections reflects broader patterns in which agenda-setting and
 [[Kenya News Agency]]
 [[Journalist Code Ethics]]
 [[Media Independence Coverage]]
-[[Elections/Political Transitions]]
-[[Corruption/Political Coverage]]
+Political Transitions
+Political Coverage
 [[Radio Citizen Political]]
 
 ## Sources

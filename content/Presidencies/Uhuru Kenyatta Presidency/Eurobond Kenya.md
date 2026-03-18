@@ -16,7 +16,7 @@ The Eurobond legacy is financial constraint and lost trust. Kenya's debt burden 
 - [[Uhuru and Chinese Debt]]
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru Debt Crisis]]
-- [[Corruption/Mega-Projects]]
+- [[mega-projects]]
 - [[Uhuru Economic Record]]
 - [[NYS Scandal]]
 - [[Afya House Scandal]]

@@ -6,7 +6,7 @@ In western Kenya (Luhya areas including the former North Nyanza and South Nyanza
 
 In Nyanza (Luo areas), KANU won a majority but with considerably lower margins than in the highlands. [[Oginga Odinga]], a KANU elder who had played a leading role in the nationalist movement, won his constituency with the expected large majority, but other Luo constituencies showed more fragmented voting patterns. This early sign of Luo reservations about Kikuyu dominance within KANU would become explicit within two years, leading to Odinga's split and the formation of the Kenya People's Union in 1966.
 
-KADU's regional support was concentrated in three zones. In the Rift Valley, particularly among Kalenjin pastoralists (Kipsigis, Nandi, Tugen, Marakwet), KADU won the majority of seats, with candidates like Daniel arap [[Moi]] capitalizing on fears of Kikuyu domination in a centralized state. In the North Eastern Region (Somali areas), KADU won several seats through appeals to pastoral autonomy and suspicion of Kikuyu interests. On the coast, KADU won scattered seats through appeals to local autonomy and the political power of coastal elites.
+KADU's regional support was concentrated in three zones. In the Rift Valley, particularly among Kalenjin pastoralists (Kipsigis, Nandi, Tugen, Marakwet), KADU won the majority of seats, with candidates like Daniel arap [[Daniel arap Moi Era]] capitalizing on fears of Kikuyu domination in a centralized state. In the North Eastern Region (Somali areas), KADU won several seats through appeals to pastoral autonomy and suspicion of Kikuyu interests. On the coast, KADU won scattered seats through appeals to local autonomy and the political power of coastal elites.
 
 The geography of KANU strength was thus the geography of Kenya's politically dominant communities, particularly the Kikuyu and their allies. The geography of KADU strength was the geography of minorities and pastoralists who feared marginalization in a Kikuyu-dominated centralized state. This regional pattern was not inevitable; it reflected the relative power of different groups to mobilize voters, the colonial administration's preference for KANU, and the appeal of different political visions (centralization versus federalism) to different constituencies.
 
@@ -16,9 +16,9 @@ The geography of KANU strength was thus the geography of Kenya's politically dom
 - [[1963 Election KANU]]
 - [[1963 Election KADU]]
 - [[1963 Election Majimboism]]
-- [[Ethnic Voting Kenya]]
-- [[Regional Politics Kenya]]
-- [[Pastoralist Representation]]
+- [[Elections]]
+- [[Politics]]
+- Pastoralist Representation
 
 ## Sources
 

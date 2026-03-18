@@ -2,7 +2,7 @@
 
 ### Constitutional Devolution Structure
 
-[[Kenya's]] [[2010 Constitution]] devolved significant government functions and revenue to 47 county governments. [[Meru County]] received devolved powers over [[agriculture]], [[health]], [[education]] support, roads, and social services. County governments have responsibility for managing funds and delivering services locally.
+Kenya's [[2010 Constitution]] devolved significant government functions and revenue to 47 county governments. [[Meru County]] received devolved powers over agriculture, [[Health]], [[Education]] support, roads, and social services. County governments have responsibility for managing funds and delivering services locally.
 
 The devolution intended to bring government closer to citizens and increase responsiveness to local needs. Meru County's government reports to county assemblies and constitutive residents. The framework differs fundamentally from the centralized system preceding it.
 

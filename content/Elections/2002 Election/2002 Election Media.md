@@ -3,7 +3,7 @@ Independent media's expansion proved decisive for NARC's campaign reach in 2002.
 ## See Also
 
 - [[2002 Election]]
-- [[Independent media Kenya]]
+- Independent media Kenya
 - [[KTN Broadcasting]]
 - [[Media]]
 - [[Kenya]]

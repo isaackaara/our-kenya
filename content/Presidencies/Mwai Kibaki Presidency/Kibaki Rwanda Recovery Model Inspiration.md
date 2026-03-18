@@ -10,12 +10,12 @@ Nevertheless, Kibaki's government's invocation of the Rwanda model demonstrated 
 
 ## See Also
 
-[[Rwanda Post-Genocide Recovery]]
-[[Kenya Post-Conflict Reconstruction]]
+Rwanda Post-Genocide Recovery
+Kenya Post-Conflict Reconstruction
 [[Development Aid]]
-[[Growth and Conflict Recovery]]
-[[Kibaki Development Vision]]
-[[Regional Comparative Development]]
+Growth and Conflict Recovery
+Kibaki Development Vision
+Regional Comparative Development
 
 ## Sources
 

@@ -41,7 +41,7 @@ A comprehensive reference covering Kenya's place in the broader East African con
 - [[East Africa]]
 - [[30_Groundnut_Scheme]]
 - [[Zanzibar]]
-- [[Uganda Tanzania War]]
+- Uganda Tanzania War
 
 ## Contemporary Regional Issues
 - [[EAC Expansion]]

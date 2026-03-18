@@ -1,4 +1,4 @@
-The Kisumu massacre of October 25, 1969, was a watershed moment in Kenyan history, the day when Jomo Kenyatta's government opened fire on unarmed civilians in the heart of [[Luo/Luo Political Leadership|Luoland]], killing at least 11 people and wounding dozens more. The massacre occurred during Kenyatta's visit to open a new Russian-built hospital in Kisumu, and it transformed simmering ethnic tensions into open conflict. For the [[Luo/Luo-Kikuyu Relations|Luo community]], Kisumu became proof that the Kikuyu-dominated government saw them as enemies to be suppressed, not citizens to be governed.
+The Kisumu massacre of October 25, 1969, was a watershed moment in Kenyan history, the day when Jomo Kenyatta's government opened fire on unarmed civilians in the heart of [[Luo Political Leadership|Luoland]], killing at least 11 people and wounding dozens more. The massacre occurred during Kenyatta's visit to open a new Russian-built hospital in Kisumu, and it transformed simmering ethnic tensions into open conflict. For the [[Luo-Kikuyu Relations|Luo community]], Kisumu became proof that the Kikuyu-dominated government saw them as enemies to be suppressed, not citizens to be governed.
 
 The context was explosive. Just three months earlier, on July 5, 1969, [[Tom Mboya Assassination 1969|Tom Mboya had been assassinated]] in Nairobi. Mboya, a Luo and the most prominent politician from Nyanza Province after [[Kenyatta and Oginga Odinga|Oginga Odinga]], was widely believed to have been killed by powerful Kikuyu figures threatened by his potential to succeed Kenyatta. The assassination devastated the Luo community and inflamed ethnic hatred. Mboya's funeral in Rusinga Island had been attended by tens of thousands of mourners, many of whom openly blamed Kenyatta and his inner circle for the murder.
 
@@ -27,8 +27,8 @@ The massacre revealed the essential character of Kenyatta's government: when cha
 - [[Banning of KPU 1969]]
 - [[Kenyatta and Oginga Odinga]]
 - [[Kenya People's Union Formation]]
-- [[Luo/Luo Political Leadership]]
-- [[Luo/Luo-Kikuyu Relations]]
+- [[Luo Political Leadership]]
+- [[Luo-Kikuyu Relations]]
 - [[Kenyatta and Detention Without Trial]]
 - [[KANU One-Party Dominance]]
 

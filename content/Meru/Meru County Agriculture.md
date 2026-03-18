@@ -2,7 +2,7 @@
 
 ## Altitude Zones and Crop Suitability
 
-Very high altitude zones (above 3000m) on Mount Kenya are unsuitable for agriculture and remain forest. The 2000-3000m zone supports cool-climate crops including [[Meru Tea|tea]] and [[coffee]]. The 1500-2000m zone supports maize, beans, potatoes, horticulture, and some tea. Lower elevations support maize, beans, and pastoral activities. Each zone has distinct crop suitability based on temperature, rainfall, and soil conditions.
+Very high altitude zones (above 3000m) on Mount Kenya are unsuitable for agriculture and remain forest. The 2000-3000m zone supports cool-climate crops including [[Meru Tea|tea]] and coffee. The 1500-2000m zone supports maize, beans, potatoes, horticulture, and some tea. Lower elevations support maize, beans, and pastoral activities. Each zone has distinct crop suitability based on temperature, rainfall, and soil conditions.
 
 ## Tea Production
 
@@ -14,7 +14,7 @@ Coffee is grown in suitable altitude zones, particularly Imenti region, as a com
 
 ## Miraa Cultivation
 
-[[Miraa]] is concentrated in Tigania and Igembe sub-counties of the Nyambene Hills, where it is the dominant economic activity. Miraa generates enormous income but creates economic concentration in limited areas.
+[[Miraa Trade]] is concentrated in Tigania and Igembe sub-counties of the Nyambene Hills, where it is the dominant economic activity. Miraa generates enormous income but creates economic concentration in limited areas.
 
 ## Food Security and Staple Crops
 
@@ -26,7 +26,7 @@ Some areas of Meru County produce horticulture including vegetables, fruits, and
 
 ## Role of Cooperatives
 
-[[Agricultural cooperatives|Agricultural cooperatives]] organize farmers for input procurement, production, processing, and marketing of tea, coffee, and other crops. Cooperatives provide economies of scale and improve market access for individual farmers. Cooperative performance affects farmer incomes significantly.
+[[Agricultural Cooperatives|Agricultural cooperatives]] organize farmers for input procurement, production, processing, and marketing of tea, coffee, and other crops. Cooperatives provide economies of scale and improve market access for individual farmers. Cooperative performance affects farmer incomes significantly.
 
 ## Climate and Rainfall
 
@@ -41,7 +41,7 @@ Historical land subdivision (through inheritance and sales) has created many sma
 - [[Meru Cooperatives]]
 - [[Meru Tea]]
 - [[Meru Coffee]]
-- [[Miraa]]
+- [[Miraa Trade]]
 - [[Climate Change and Meru]]
 - [[Land Tenure in Meru]]
 

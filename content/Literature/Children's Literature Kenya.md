@@ -4,7 +4,7 @@ Colonial missionary education included children's literature materials serving e
 
 Postcolonial Kenya saw emergence of children's literature published through both educational and commercial venues, addressing expanding school populations and growing reading audiences. Publishers producing children's materials targeted school and family markets, with textbooks and supplementary children's books comprising significant publishing sector.
 
-Kenyan authors contributed to children's literature, with some writers specializing in materials for young readers while others wrote occasional children's works. [[Meja Mwangi Novels]]'s [[The Mzungu Boy]] (1990) exemplified adult novelists' engagement with children's literature, bringing mature literary sensibilities to children's fiction while addressing themes of interest to young readers. This crossing between adult and children's literature demonstrated potential for literary sophistication within children's genres.
+Kenyan authors contributed to children's literature, with some writers specializing in materials for young readers while others wrote occasional children's works. [[Meja Mwangi Novels]]'s The Mzungu Boy (1990) exemplified adult novelists' engagement with children's literature, bringing mature literary sensibilities to children's fiction while addressing themes of interest to young readers. This crossing between adult and children's literature demonstrated potential for literary sophistication within children's genres.
 
 Children's literature served linguistic functions, with Kenyan-language children's books providing materials for literacy instruction in indigenous languages. This language dimension of children's literature made it consequential for educational policy regarding medium of instruction and language preservation. Through children's books, young Kenyans encountered their heritage languages in printed form, establishing literary relationships with indigenous tongues.
 
@@ -26,8 +26,8 @@ Contemporary Kenyan children's literature includes diverse publishers and author
 [[Literature]]
 [[Publishing Industry Kenya]]
 [[Meja Mwangi Novels]]
-[[Oral Storytelling Traditions]]
-[[Language and Education Kenya]]
+Oral Storytelling Traditions
+Language and Education Kenya
 [[Gender Pay Gap]]
 [[School Textbooks]]
 

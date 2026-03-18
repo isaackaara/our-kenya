@@ -1,4 +1,4 @@
-Across three generations, [[Kenya]]'s two largest ethnic groups have followed the same script: [[alliance]], [[fracture]], years of opposition, then sudden public reconciliation. The pattern suggests something deeper than electoral politics: a rhythm to how Kenya's political order regenerates.
+Across three generations, [[Kenya]]'s two largest ethnic groups have followed the same script: alliance, fracture, years of opposition, then sudden public reconciliation. The pattern suggests something deeper than electoral politics: a rhythm to how Kenya's political order regenerates.
 
 ## Key Facts
 
@@ -42,8 +42,8 @@ The handshake is not a permanent settlement. It is a pause. The cycle continues.
 
 - [[The Luo-Kikuyu Axis]]
 - [[Ethnic Arithmetic in Politics]]
-- [[Electoral Violence Kenya]]
-- [[Political Coalitions and Nation-Building]]
+- [[Post-Election Violence]]
+- Political Coalitions and Nation-Building
 - [[Kenya]]
 
 ## Related

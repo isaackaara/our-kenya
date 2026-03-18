@@ -15,11 +15,11 @@ Museveni's approach to governance, particularly his commitment to economic liber
 The broader East African regional context also shaped Kenya-Uganda relations. The relationship with Tanzania affected both Kenya's and Uganda's positioning in regional affairs. Tanzania's relative decline in the 1980s and 1990s, following the collapse of its development model, shifted the balance of regional power toward Kenya and Uganda. Moi's Kenya and Museveni's Uganda became the dominant regional powers in East Africa, with Tanzania relegated to a subordinate position. This shift created opportunities for Kenya and Uganda to cooperate but also for them to compete for regional leadership and influence.
 
 ## See Also
-[[Kenya/Foreign Policy]]
+[[Foreign Policy]]
 [[Moi Foreign Policy]]
 [[Moi and Uganda]]
-[[East Africa/Regional Integration]]
-[[Kenya/Economic Development]]
+[[Regional Integration]]
+Economic Development
 [[Moi and Tanzania]]
 
 ## Sources

@@ -21,7 +21,7 @@ The relationship between poetry slams and political discourse reflected slams' c
 - [[Poetry Collections]]
 - [[Oral Poetry Traditions]]
 - [[Literary Festivals]]
-- [[Youth Culture Expression]]
+- Youth Culture Expression
 - [[Digital Literary Platforms]]
 - [[Women]]
 

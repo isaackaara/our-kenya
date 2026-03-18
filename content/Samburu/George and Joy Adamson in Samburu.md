@@ -18,7 +18,7 @@ The Adamsons' work contributed to wildlife conservation awareness and practice. 
 - [[Buffalo Springs Reserve]]
 - [[Samburu and Tourism]]
 - [[Conservation]]
-- [[Northern Kenya Protected Areas]]
+- Northern Kenya Protected Areas
 
 ## Sources
 

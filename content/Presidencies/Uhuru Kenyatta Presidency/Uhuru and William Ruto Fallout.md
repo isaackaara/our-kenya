@@ -1,4 +1,4 @@
-The disintegration of the [[Uhuru Kenyatta]]-[[William Ruto]] partnership ranks among the most consequential political breakups in Kenyan history. The two men who formed the [[Jubilee Alliance Formation 2013|Jubilee Alliance]] in 2013 as co-defendants before the ICC, who won two presidential elections together, and who governed as president and deputy president for nearly a decade, became bitter enemies by 2020. Their fallout reshaped Kenya's political landscape, created the "dynasties versus hustlers" narrative that defined the [[Elections/2022 Presidential Election|2022 election]], and demonstrated the fragility of elite bargains built on convenience rather than shared ideology.
+The disintegration of the [[Uhuru Kenyatta]]-[[William Ruto]] partnership ranks among the most consequential political breakups in Kenyan history. The two men who formed the [[Jubilee Alliance Formation 2013|Jubilee Alliance]] in 2013 as co-defendants before the ICC, who won two presidential elections together, and who governed as president and deputy president for nearly a decade, became bitter enemies by 2020. Their fallout reshaped Kenya's political landscape, created the "dynasties versus hustlers" narrative that defined the [[2022 Presidential Election|2022 election]], and demonstrated the fragility of elite bargains built on convenience rather than shared ideology.
 
 The relationship began fracturing after [[The Handshake March 2018|the March 2018 handshake]] between Uhuru and [[Raila Odinga]]. Ruto was not consulted before the rapprochement and found himself sidelined in his own government. Cabinet meetings increasingly occurred without him, state appointments bypassed his input, and development projects in Rift Valley received reduced funding compared to the first term. The handshake reconfigured Kenya's political geometry from Uhuru-Ruto versus Raila into Uhuru-Raila versus Ruto. For Ruto, who had delivered Kalenjin votes and legitimacy to Uhuru's presidency, the isolation was a profound betrayal.
 
@@ -8,17 +8,17 @@ Ruto responded to marginalization by constructing the most effective counter-nar
 
 The fallout became personal and vicious. Uhuru warned that Ruto was a corrupt thief who would destroy Kenya if elected president. He told [[Kikuyu]] audiences that voting for Ruto would be a betrayal of Jomo Kenyatta's legacy and would endanger Kikuyu economic interests. In his final months in office, Uhuru explicitly endorsed Raila for president, campaigning actively against his own deputy. Ruto, for his part, called Uhuru a "dynasty" who had been handed everything and understood nothing about ordinary Kenyans' struggles. He accused Uhuru of using state machinery to rig the 2022 election and claimed the president was working with Raila to install a puppet regime.
 
-The Uhuru-Ruto fallout's deeper significance lay in what it revealed about the [[Cross-Ethnic/Kikuyu-Kalenjin Alliance|Kikuyu-Kalenjin alliance]] and Kenyan political elite bargains more broadly. The partnership had always been transactional: Kikuyu economic dominance plus Kalenjin numerical strength delivered power, which each community used to advance its interests. When Uhuru concluded that Ruto's ascent threatened Kikuyu interests, the alliance collapsed. The fallout demonstrated that ethnic coalitions in Kenya are unstable when elite interests diverge, that deputy presidents have no guaranteed succession path, and that political partnerships built on shared legal jeopardy (the ICC cases) do not survive once that threat passes. Ruto's eventual victory in 2022, despite Uhuru's opposition, proved that state machinery and dynastic endorsement could be overcome, but the cost was a complete breakdown of the governing coalition that had ruled Kenya for a decade.
+The Uhuru-Ruto fallout's deeper significance lay in what it revealed about the [[Kikuyu-Kalenjin Alliance|Kikuyu-Kalenjin alliance]] and Kenyan political elite bargains more broadly. The partnership had always been transactional: Kikuyu economic dominance plus Kalenjin numerical strength delivered power, which each community used to advance its interests. When Uhuru concluded that Ruto's ascent threatened Kikuyu interests, the alliance collapsed. The fallout demonstrated that ethnic coalitions in Kenya are unstable when elite interests diverge, that deputy presidents have no guaranteed succession path, and that political partnerships built on shared legal jeopardy (the ICC cases) do not survive once that threat passes. Ruto's eventual victory in 2022, despite Uhuru's opposition, proved that state machinery and dynastic endorsement could be overcome, but the cost was a complete breakdown of the governing coalition that had ruled Kenya for a decade.
 
 ## See Also
 - [[Jubilee Alliance Formation 2013]]
 - [[The Handshake March 2018]]
 - [[Building Bridges Initiative]]
 - [[William Ruto]]
-- [[Elections/2022 Presidential Election]]
-- [[Cross-Ethnic/Kikuyu-Kalenjin Alliance]]
-- [[Kikuyu/Kikuyu Political Power]]
-- [[Corruption/State Capture]]
+- [[2022 Presidential Election]]
+- [[Kikuyu-Kalenjin Alliance]]
+- [[Kikuyu Political Power]]
+- [[State Capture Kenya]]
 
 ## Sources
 1. "Kenya's Political Earthquake: The Uhuru-Ruto Fallout," The East African, September 2021. https://www.theeastafrican.co.ke/tea/news/east-africa/kenya-political-earthquake-uhuru-ruto-fallout-3552468

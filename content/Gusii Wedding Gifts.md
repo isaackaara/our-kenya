@@ -6,7 +6,7 @@ The context of gusii wedding gifts illuminates how local, regional, and national
 
 ## See Also
 
-[[Gusii]], [[Kenya History]], [[Historical Development]]
+[[Gusii people]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

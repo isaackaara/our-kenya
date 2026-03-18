@@ -4,7 +4,7 @@ Youth voters in 2002 demonstrated stronger enthusiasm for NARC and opposition ch
 
 - [[2002 Election]]
 - [[Kenyan Hip-Hop]]
-- [[Urban politics Kenya]]
+- Urban politics Kenya
 - [[1997 Election Youth Vote]]
 - [[2007 Election]]
 

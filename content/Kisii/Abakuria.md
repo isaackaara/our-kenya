@@ -7,7 +7,7 @@ tags: kuria abakuria gusii separate ethnic migori circumcision
 
 ## Classification Ambiguity
 
-The Abakuria, also known as the [[Kuria people|Kuria]], occupy the southwestern frontier of the [[Gusii people|Gusii]] region, extending into [[Tanzania]]. They are sometimes classified as a Gusii sub-group and sometimes as a distinct ethnic group.
+The Abakuria, also known as the [[Kuria People|Kuria]], occupy the southwestern frontier of the [[Gusii people|Gusii]] region, extending into [[tanzania]]. They are sometimes classified as a Gusii sub-group and sometimes as a distinct ethnic group.
 
 ## Geography and Population
 
@@ -117,5 +117,5 @@ The Kuria case illustrates the fluid boundaries between ethnic groups and the su
 - [[Kisii Cattle and Livestock]] - pastoral economy similarities
 - [[Kisii Circumcision]] - shared circumcision practices
 - [[Migori County]] - Kuria administrative location
-- [[Pastoral societies in East Africa]] - warrior and herding traditions
-- [[Cross-border ethnic communities]] - transnational identity dynamics
+- Pastoral societies in East Africa - warrior and herding traditions
+- Cross-border ethnic communities - transnational identity dynamics

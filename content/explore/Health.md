@@ -13,21 +13,21 @@ From colonial medicine to modern healthcare systems and public health challenges
 ## Key Topics
 
 ### Healthcare System
-- [[Health/Kenyatta National Hospital|Kenyatta National Hospital]]
+- Kenyatta National Hospital
 - [[NHIF History|NHIF]]
-- [[Health/Universal Health Coverage|Universal Health Coverage]]
-- [[Health/Healthcare Financing Kenya|Healthcare Financing]]
+- Universal Health Coverage
+- Healthcare Financing
 
 ### Public Health
-- [[Health/HIV AIDS Kenya|HIV/AIDS Crisis]]
-- [[Health/Malaria Control Kenya|Malaria Control]]
-- [[Health/COVID-19 Kenya|COVID-19 Pandemic]]
-- [[Health/Maternal Health Kenya|Maternal Health]]
+- HIV/AIDS Crisis
+- Malaria Control
+- COVID-19 Pandemic
+- Maternal Health
 
 ### Medical Professionals
-- [[Health/Doctors Strike Kenya|Doctors' Strikes]]
-- [[Health/Nurses Kenya|Nursing Profession]]
-- [[Health/Traditional Medicine Kenya|Traditional Medicine]]
+- Doctors' Strikes
+- Nursing Profession
+- Traditional Medicine
 
 ---
 

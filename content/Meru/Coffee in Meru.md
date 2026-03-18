@@ -4,7 +4,7 @@ title: Coffee Farming in Meru
 
 # Coffee Production in Meru County
 
-While less dominant than [[Meru Tea|tea]] or [[Miraa]], coffee farming is practiced in some parts of [[Meru County]], particularly in the higher altitude areas suitable for Arabica coffee cultivation.
+While less dominant than [[Meru Tea|tea]] or [[Miraa Trade]], coffee farming is practiced in some parts of [[Meru County]], particularly in the higher altitude areas suitable for Arabica coffee cultivation.
 
 ## Geography and Suitability
 

@@ -1,4 +1,4 @@
-The State of Emergency (1952-1960) declared by [[Luo and the British]] authorities to suppress the [[Mau Mau]] uprising created a watershed moment in Kenyan history. While the [[Mau Mau]] insurgency was primarily a [[Kikuyu]] phenomenon, the Emergency period affected the [[Meru]] community in significant ways.
+The State of Emergency (1952-1960) declared by [[Luo and the British]] authorities to suppress the [[Mau Mau Uprising]] uprising created a watershed moment in Kenyan history. While the [[Mau Mau Uprising]] insurgency was primarily a [[Kikuyu]] phenomenon, the Emergency period affected the [[Meru]] community in significant ways.
 
 ## Limited Mau Mau Insurgency Among the Meru
 
@@ -30,7 +30,7 @@ As the Emergency ended (1960), Meru communities participated in the transition t
 - [[Meru and the British]] - Colonial administration context
 - [[Meru at Independence]] - Post-Emergency political positioning
 - [[Meru and the Kikuyu]] - Alliance during resistance period
-- [[Kenya Emergency period]] - Broader historical context
+- Kenya Emergency period - Broader historical context
 
 ## Sources
 

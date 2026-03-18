@@ -1,8 +1,8 @@
-The [[Mijikenda]] peoples were active participants in the [[Indian Ocean World]] from at least the 16th century onward. Their relationship to Arab and [[Swahili]] merchants, while economically complementary, was marked by asymmetries of power and prestige that positioned the [[Mijikenda]] as suppliers of primary goods and labor while Arabs and Swahili controlled commerce, finance, and prestige in coastal society.
+The [[Mijikenda]] peoples were active participants in the [[The Indian Ocean World]] from at least the 16th century onward. Their relationship to Arab and [[Swahili]] merchants, while economically complementary, was marked by asymmetries of power and prestige that positioned the [[Mijikenda]] as suppliers of primary goods and labor while Arabs and Swahili controlled commerce, finance, and prestige in coastal society.
 
 ## The East African Slave Trade
 
-The [[Mijikenda and the Slave Trade|Indian Ocean slave trade]] profoundly affected the [[Mijikenda]]. Unlike interior groups that experienced massive slave raiding in the 18th and 19th centuries, the Mijikenda were subjected to more selective and smaller-scale enslavement. Some [[Giriama]], [[Digo]], and other [[Mijikenda]] were captured by Arab slave traders (particularly in the 19th century) and sold into slavery on coastal plantations or in the Indian Ocean world.
+The [[Mijikenda and the Slave Trade|Indian Ocean slave trade]] profoundly affected the [[Mijikenda]]. Unlike interior groups that experienced massive slave raiding in the 18th and 19th centuries, the Mijikenda were subjected to more selective and smaller-scale enslavement. Some [[giriama]], [[Digo]], and other [[Mijikenda]] were captured by Arab slave traders (particularly in the 19th century) and sold into slavery on coastal plantations or in the Indian Ocean world.
 
 The available evidence suggests that Mijikenda enslaved were fewer in number than interior peoples like the Nyamwezi or Yao, but the psychological impact was severe. The enslavement of Mijikenda created lasting resentment toward Arab and Swahili traders, which would later resurface in colonial-era resistance movements.
 

@@ -2,11 +2,11 @@
 
 [[William Ruto]] became president of Kenya in 2022. Before his election, he had faced multiple corruption allegations and, significantly, [[International Criminal Court]] (ICC) charges.
 
-The ICC charges alleged that Ruto bore responsibility for [[post-election violence]] in 2007-2008 (following the disputed election). These charges were separate from corruption allegations but were related to how Ruto had wielded political power.
+The ICC charges alleged that Ruto bore responsibility for [[Post-Election Violence]] in 2007-2008 (following the disputed election). These charges were separate from corruption allegations but were related to how Ruto had wielded political power.
 
 ## The ICC and Charges Dropped
 
-In 2014, Ruto's ICC trial began. However, the prosecution's case weakened due to [[witness intimidation]] and evidence issues. By 2022, the ICC prosecutor withdrew charges against Ruto.
+In 2014, Ruto's ICC trial began. However, the prosecution's case weakened due to witness intimidation and evidence issues. By 2022, the ICC prosecutor withdrew charges against Ruto.
 
 The withdrawal of charges did not mean Ruto was innocent; it meant the prosecution's case was insufficient to proceed. The question of Ruto's responsibility for post-election violence remained contested.
 
@@ -44,12 +44,12 @@ Ruto's career exemplified a pattern in Kenyan politics: individuals with signifi
 ## See Also
 
 - [[Impunity Culture]] - systemic patterns enabling political advancement despite allegations
-- [[Post-2007 Election Violence]] - ICC context
+- Post-2007 Election Violence - ICC context
 - [[Ruto Era Early Corruption]] - early term patterns
 - [[Ruto Government Procurement]] - current administration procurement issues
 - [[International Criminal Court]] - accountability mechanisms
 - [[Political Patronage Networks]] - how politicians gain protection
-- [[Witness Intimidation Kenya]] - obstruction patterns
+- Witness Intimidation Kenya - obstruction patterns
 
 ## Sources
 

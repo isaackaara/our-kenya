@@ -46,7 +46,7 @@ Control of water sources (particularly boreholes) provides access to surrounding
 - [[Samburu Laikipia Claims]]
 - [[Samburu and the Colonial Period]]
 - [[Samburu Pastoralism]]
-- [[Land Tenure in Pastoral Kenya]]
+- Land Tenure in Pastoral Kenya
 
 ## Sources
 

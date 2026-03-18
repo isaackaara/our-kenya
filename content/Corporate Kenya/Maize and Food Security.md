@@ -1,4 +1,4 @@
-[[Maize]] is [[Kenya]] [[dietary staple]]. The crop is grown by [[millions]] of [[Laikipia Kikuyu Smallholders]] primarily for [[Diaspora Media Consumption]], with a [[portion]] sold [[locally]]. [[Food Security Policies]] in Kenya hinges substantially on [[maize production]], making the sector [[intensely political]].
+[[Maize Production]] is [[Kenya]] dietary staple. The crop is grown by millions of [[Laikipia Kikuyu Smallholders]] primarily for [[Diaspora Media Consumption]], with a portion sold locally. [[Food Security Policies]] in Kenya hinges substantially on [[Maize Production]], making the sector intensely political.
 
 ## Production and Consumption
 
@@ -28,9 +28,9 @@ Food security remains tenuous. Productivity improvements (better varieties, inpu
 - [[Kenya Economic Overview]]
 - [[Food]]
 - [[The NGO Economy]]
-- [[Climate Change Kenya]]
-- [[National Cereals and Produce Board]]
-- [[Agricultural Policy Kenya]]
+- [[Climate Change Response]]
+- National Cereals and Produce Board
+- Agricultural Policy Kenya
 
 ## Sources
 

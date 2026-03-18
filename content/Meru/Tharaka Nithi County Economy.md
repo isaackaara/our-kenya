@@ -1,4 +1,4 @@
-[[Tharaka-Nithi County]], created in 2010 as part of Kenya's devolved government system, represents a smaller and economically distinct [[Meru]] territory. The county comprises the [[Tharaka]] and [[Nithi]] sub-groups and shares boundaries with [[Imenti People]] (Meru County) and other pastoral communities.
+[[Tharaka-Nithi County]], created in 2010 as part of Kenya's devolved government system, represents a smaller and economically distinct [[Meru]] territory. The county comprises the [[Tharaka]] and Nithi sub-groups and shares boundaries with [[Imenti People]] (Meru County) and other pastoral communities.
 
 ## Economic Base
 

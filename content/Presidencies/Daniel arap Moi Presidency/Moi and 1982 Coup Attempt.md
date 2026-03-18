@@ -26,7 +26,7 @@ Comparisons to the 1964 attempted coup in Uganda, which had led to Idi Amin's ri
 - [[Moi Detention Policy|Moi Detention Policy]]
 - [[Moi Rise to Power|Moi Rise to Power]]
 - [[Nyayo House Torture Chambers|Nyayo House Torture Chambers]]
-- [[Kenya Military History|Kenya Military History]]
+- Kenya Military History
 
 ## Sources
 

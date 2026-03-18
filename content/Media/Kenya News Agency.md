@@ -12,7 +12,7 @@ The establishment of KNA represented typical post-colonial approaches to media w
 [[Press Freedom Colonial]]
 [[Kenya Broadcasting Early]]
 [[Jomo Kenyatta]]
-[[Daniel Arap Moi]]
+[[Daniel arap Moi]]
 [[Media Independence Coverage]]
 [[Media Democratization]]
 

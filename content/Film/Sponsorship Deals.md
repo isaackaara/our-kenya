@@ -8,7 +8,7 @@ The professionalization of sponsorship sales created specialized expertise withi
 
 The regulatory framework for sponsorship evolved to address concerns about undisclosed advertising and editorial independence. Broadcasting authorities required clear disclosure of sponsorship relationships to maintain audience understanding of financial interests underlying programming. Concerns about editorial independence arose when sponsors funded programming addressing potentially controversial topics related to sponsor interests. Different regulatory jurisdictions adopted varying frameworks, creating complexity for broadcasters operating across multiple markets. The balance between sponsorship revenue necessity and editorial independence concerns remained ongoing tension in broadcast regulation.
 
-See Also: [[Television Advertising]], [[Product Placement]], [[Sports Broadcasting]], [[Live Television Events]], [[Entertainment Shows]], [[Television Operations]], [[Sponsorship Rights]]
+See Also: [[Television Advertising]], [[Product Placement]], [[Sports Broadcasting]], [[Live Television Events]], [[Entertainment Shows]], [[Television Operations]], Sponsorship Rights
 
 Sources:
 1. https://www.broadcast-commission-kenya.org/

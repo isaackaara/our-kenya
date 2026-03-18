@@ -118,8 +118,8 @@ The decline of traditional Gusii dance represents part of broader cultural trans
 - [[Kisii Circumcision]] - ceremonial dance context
 - [[Kisii Death and Burial]] - funeral dances
 - [[Kisii Courtship and Marriage]] - marriage celebration dances
-- [[East African dance traditions]] - regional context
-- [[Performing arts preservation]] - documentation methods
+- East African dance traditions - regional context
+- Performing arts preservation - documentation methods
 
 ---
 

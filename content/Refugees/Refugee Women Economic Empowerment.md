@@ -14,7 +14,7 @@ By 2024, women's economic empowerment remained central to refugee protection and
 
 ## See Also
 
-[[Gender-Based Violence Response]], [[Child Protection Services]], [[Women in Somali Communities]], [[Women in Military Context]], [[Refugee Business Opportunities]], [[Camp Economics]], [[Refugee Integration]], [[Cash Transfer Programs]]
+[[Gender-Based Violence Response]], [[Child Protection Services]], Women in Somali Communities, Women in Military Context, [[Refugee Business Opportunities]], [[Camp Economics]], [[Refugee Integration]], [[Cash Transfer Programs]]
 
 ## Sources
 

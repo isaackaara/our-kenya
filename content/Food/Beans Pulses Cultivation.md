@@ -21,7 +21,7 @@ Bean preservation through drying was important for storage and later consumption
 [[Food Security Policies]]
 [[Food]]
 [[Women and Agriculture Land Kenya]]
-[[Traditional Crop Varieties]]
+Traditional Crop Varieties
 [[Nutritional Status Kenya]]
 
 ## Sources

@@ -20,7 +20,7 @@ The Anglo Leasing scandal, which overlapped temporally with Goldenberg and which
 [[Kenya]]
 [[Moi Economic Record]]
 [[Moi Post-Presidency]]
-[[Kenya/Financial Crisis]]
+Financial Crisis
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

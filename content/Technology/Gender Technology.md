@@ -8,7 +8,7 @@ Educational pathways remain gendered, with girls less likely than boys to pursue
 
 Workplace culture issues affect retention of women in technology. Sexual harassment, discrimination, and microaggressions create hostile work environments for some women. Pay gaps between men and women with similar qualifications have been documented in some organizations. Motherhood and caregiving responsibilities create barriers to advancement, particularly in organizations with inflexible work arrangements. These structural challenges mean that individual women's competence, while necessary, is insufficient for career success.
 
-Entrepreneurship provides alternative pathways for women facing barriers in traditional employment. [[Female-founded startups]] have received increased investment attention and support. Women entrepreneurs sometimes cite greater autonomy and control over company culture as motivations. However, female-founded companies still receive a smaller share of venture capital than male-founded counterparts, and female entrepreneurs face additional barriers in fundraising related to investor bias and gender-based credibility concerns.
+Entrepreneurship provides alternative pathways for women facing barriers in traditional employment. Female-founded startups have received increased investment attention and support. Women entrepreneurs sometimes cite greater autonomy and control over company culture as motivations. However, female-founded companies still receive a smaller share of venture capital than male-founded counterparts, and female entrepreneurs face additional barriers in fundraising related to investor bias and gender-based credibility concerns.
 
 ## See Also
 

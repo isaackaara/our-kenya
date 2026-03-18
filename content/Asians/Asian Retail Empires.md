@@ -1,4 +1,4 @@
-From the colonial-era [[duka]] (shop) networks to modern supermarkets and shopping malls, [[Asian Kenyans|Asian]] entrepreneurs built and dominated [[Kenya]]'s [[retail]] sector. The evolution from small, dispersed shops to large, centralized retail chains represented both technological and organizational transformation. Retailers like [[Nakumatt]] (founded by [[Atul Shah]], a [[Gujarati]] family enterprise) and others expanded [[retail]] distribution and raised consumer expectations for variety, quality, and shopping convenience.
+From the colonial-era duka (shop) networks to modern supermarkets and shopping malls, [[Asian Kenyans|Asian]] entrepreneurs built and dominated [[Kenya]]'s [[Nairobi CBD Economy]] sector. The evolution from small, dispersed shops to large, centralized retail chains represented both technological and organizational transformation. Retailers like Nakumatt (founded by Atul Shah, a Gujarati family enterprise) and others expanded [[Nairobi CBD Economy]] distribution and raised consumer expectations for variety, quality, and shopping convenience.
 
 ## The Colonial Duka Foundation
 
@@ -55,7 +55,7 @@ Asian retail enterprises faced periodic challenges from Kenya's economic cycles.
 ## See Also
 
 - [[Asian Retailers Kenya]]
-- [[Nakumatt]]
+- Nakumatt
 - [[Asian Commercial Districts Colonial]]
 - [[Asian Kenyans Today]]
 - [[Kenya]]

@@ -1,10 +1,10 @@
 Jared Angira stands as Kenya's most significant postcolonial poet, a figure whose seven volumes of verse established him as the country's preeminent voice in contemporary poetry. Born January 21, 1947, in Siaya, Angira pursued commerce studies at the University of Nairobi from 1968 to 1971, where he also served as editor of the literary journal Busara, positioning him centrally within Kenya's emerging literary establishment.
 
-Angira's debut collection [[Juices]] (1970) announced a major poetic talent, demonstrating sophisticated command of contemporary verse forms while addressing East African political and social realities. The title evokes both the vital energy of living language and the extraction of essence from experience, suggesting poetry's work of distilling truth from complexity. Published in London by a major press, the collection established Angira's international viability at the threshold of Kenya's postcolonial literary emergence.
+Angira's debut collection Juices (1970) announced a major poetic talent, demonstrating sophisticated command of contemporary verse forms while addressing East African political and social realities. The title evokes both the vital energy of living language and the extraction of essence from experience, suggesting poetry's work of distilling truth from complexity. Published in London by a major press, the collection established Angira's international viability at the threshold of Kenya's postcolonial literary emergence.
 
-[[Silent Voices]] (1972) cemented Angira's reputation as Kenya's finest poet, garnering critical acclaim for its technical sophistication, emotional depth, and engagement with both universal and specifically African themes. The collection's title suggests poetry's capacity to articulate what official discourse suppresses, giving voice to the marginalized, silenced, and overlooked. Angira's poems address themes of love, mortality, social injustice, and the psychological dimensions of postcolonial existence with equal eloquence.
+Silent Voices (1972) cemented Angira's reputation as Kenya's finest poet, garnering critical acclaim for its technical sophistication, emotional depth, and engagement with both universal and specifically African themes. The collection's title suggests poetry's capacity to articulate what official discourse suppresses, giving voice to the marginalized, silenced, and overlooked. Angira's poems address themes of love, mortality, social injustice, and the psychological dimensions of postcolonial existence with equal eloquence.
 
-Angira's subsequent collections [[Soft Corals]] (1973), [[Cascades]] (1979), [[The Years Go By]] (1980), and [[Tides of Time: Selected Poems]] (1996) demonstrated sustained poetic innovation across decades. Rather than retreating into nostalgia or repeating earlier successes, Angira developed as a poet, exploring new themes and technical challenges while maintaining the integrity and emotional authenticity that characterize his work.
+Angira's subsequent collections Soft Corals (1973), Cascades (1979), The Years Go By (1980), and Tides of Time: Selected Poems (1996) demonstrated sustained poetic innovation across decades. Rather than retreating into nostalgia or repeating earlier successes, Angira developed as a poet, exploring new themes and technical challenges while maintaining the integrity and emotional authenticity that characterize his work.
 
 The poet's engagement with English demonstrates sophisticated understanding of language as cultural medium. Writing in English, Angira achieves technical facility with complex prosody and form while incorporating African imagery, philosophical perspectives, and emotional registers distinctively shaped by his Kenyan, specifically Luo, heritage. His work demonstrates that postcolonial poets need not choose between English and indigenous traditions but could create poetry honoring both through linguistic innovation.
 
@@ -21,9 +21,9 @@ Angira's continuing presence in East African literary culture, maintained throug
 [[Postcolonial Literature Movement]]
 [[University of Nairobi Literary Culture]]
 [[Luo Language]]
-[[Love and Mortality Poetry]]
-[[Civil Service and Writing Kenya]]
-[[East African Literary Journals]]
+Love and Mortality Poetry
+Civil Service and Writing Kenya
+East African Literary Journals
 
 ## Sources
 1. https://africanpoetics.unl.edu/index-of-poets/item/apdp.person.002655 - Comprehensive biography and bibliography

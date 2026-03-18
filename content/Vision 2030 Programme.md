@@ -6,7 +6,7 @@ The context of vision 2030 programme illuminates how local, regional, and nation
 
 ## See Also
 
-[[Policy]], [[Kenya History]], [[Historical Development]]
+Policy, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

@@ -50,7 +50,7 @@ The transition from functional adornment to purely aesthetic contemporary fashio
 
 ## Cross-Links
 - [[Kalenjin Visual Culture]]
-- [[Kalenjin Warrior Culture]]
+- Kalenjin Warrior Culture
 - [[Kalenjin Initiation Deep Dive]]
 
 ## See Also

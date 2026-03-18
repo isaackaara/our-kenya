@@ -164,7 +164,7 @@ However, pace of change depends on investment and adoption rates. Digital divide
 - [[Meru Youth and Migration]]
 - [[Meru Youth Identity]]
 - [[Meru Scholars and Academics]]
-- [[Meru Education and Schools]]
+- [[Education]]
 - [[Meru Political Identity 2026]]
 
 ---

@@ -9,11 +9,11 @@ The development of art collecting as an elite cultural practice has created mark
 ## See Also
 - [[Art Markets Kenya]]
 - [[Collector Networks]]
-- [[Contemporary Art Economics]]
-- [[Cultural Patronage]]
-- [[Estate Art Collections]]
-- [[Investment and Art]]
-- [[Museum Acquisitions and Donations]]
+- Contemporary Art Economics
+- Cultural Patronage
+- Estate Art Collections
+- Investment and Art
+- Museum Acquisitions and Donations
 
 ## Sources
 1. https://www.artnet.com/galleries/ - Art Collector Information

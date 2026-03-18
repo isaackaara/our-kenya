@@ -16,12 +16,12 @@ Contemporary sports writing increasingly addresses women's athletics and efforts
 
 ## See Also
 [[Kalenjin and Kenyan Athletics Infrastructure]]
-[[Sports and Culture Kenya]]
-[[Nationalism Kenya]]
-[[Gender and Sports]]
-[[Memoir and Biography Kenya]]
+Sports and Culture Kenya
+Nationalism Kenya
+Gender and Sports
+Memoir and Biography Kenya
 [[Investigative Journalism Kenya]]
-[[Biographical Writing]]
+Biographical Writing
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Sports literature publishing

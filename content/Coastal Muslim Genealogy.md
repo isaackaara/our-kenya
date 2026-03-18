@@ -6,7 +6,7 @@ The context of coastal muslim genealogy illuminates how local, regional, and nat
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

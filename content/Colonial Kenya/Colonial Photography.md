@@ -17,12 +17,12 @@ Settler photographers engaged in commercial activities, documenting settler life
 By the 1950s, photography had also become an avenue through which anti-colonial sentiment could be expressed. African photographers increasingly documented anti-colonial activities and independence movement events. The shift in photographic representations from colonial propaganda to anti-colonial documentation reflected the broader political transformations of the decolonisation period.
 
 ## See Also
-[[Colonial Anthropology]]
+Colonial Anthropology
 [[Colonial Surveys Mapping]]
 [[Colonial Archives]]
 [[Colonial Knowledge Production]]
-[[Colonial Racial Classification]]
-[[Visual Colonialism]]
+Colonial Racial Classification
+Visual Colonialism
 
 ## Sources
 1. Geary, Christraud M. "Images from Bamum: German Colonial Photography at the Court of King Njoya." Smithsonian Institution Press, 1988. https://www.si.edu/

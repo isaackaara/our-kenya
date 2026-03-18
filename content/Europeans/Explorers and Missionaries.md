@@ -2,7 +2,7 @@ The first Europeans to see Mount Kenya and Mount Kilimanjaro were not soldiers o
 
 ## The Missionary Argument
 
-European missionaries across Africa articulated a coherent justification for European expansion that became influential across the continent. The formula was: [[Christianity]], [[Commerce]], and [[Civilisation]] (sometimes called the "Three C's"). Slavery, they argued, must be replaced. But with what? Christianity would provide moral redemption. Commerce would create economic development. Civilisation would bring order and progress. Together, these three forces would elevate Africa and, incidentally, justify European control.
+European missionaries across Africa articulated a coherent justification for European expansion that became influential across the continent. The formula was: [[christianity]], Commerce, and Civilisation (sometimes called the "Three C's"). Slavery, they argued, must be replaced. But with what? Christianity would provide moral redemption. Commerce would create economic development. Civilisation would bring order and progress. Together, these three forces would elevate Africa and, incidentally, justify European control.
 
 This argument was deeply colonial. It assumed that Europe embodied civilisation and that Africa lacked it. It positioned European expansion not as conquest but as humanitarian uplift. And it created permission for violence: if Africans resisted civilisation, force was justified.
 
@@ -33,4 +33,4 @@ Thomson's gazelle (named by naturalists in his honour) is a reminder that the ex
 - [[East Africa]] - Imperial competition for territory
 - [[European Settlement Overview]] - Settler context
 - [[Colonial Administration]] - Administrative outcomes of exploration
-- [[Missionaries and Colonialism]] - Relationship between missionary work and colonialism
+- Missionaries and Colonialism - Relationship between missionary work and colonialism

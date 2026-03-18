@@ -25,10 +25,10 @@ By the late 1970s, land policy had become a source of serious discontent. The ra
 - [[Kenyatta Economic Policy|Kenyatta Economic Policy]]
 - [[Kenyatta Family Wealth|Kenyatta Family Wealth]]
 - [[Kenyatta Development Projects|Kenyatta Development Projects]]
-- [[../../Kenya Land Reform|Kenya Land Reform]]
+- [[Kenya Land Reform|Kenya Land Reform]]
 - [[Kikuyu|Kikuyu]]
-- [[../../Rift Valley|Rift Valley]]
-- [[../../Kenya Colonialism|Kenya Colonialism]]
+- [[Rift Valley|Rift Valley]]
+- Kenya Colonialism
 
 ## Sources
 

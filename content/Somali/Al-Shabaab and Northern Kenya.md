@@ -1,4 +1,4 @@
-[[Al-Shabaab]], a militant group based in Somalia with links to Al-Qaeda, has conducted a sustained terrorist campaign in Kenya since [[Kenya's Military Intervention Somalia|Kenya's military intervention in Somalia]] in 2011. The attacks have killed hundreds of Kenyans, disrupted livelihoods, and led to severe state crackdowns that have disproportionately affected the [[Kenyan Somali|Somali community]]. The violence represents both a [[Horn of Africa Context|security threat]] and an opportunity for collective punishment of Somali Kenyans.
+[[al-shabaab]], a militant group based in Somalia with links to Al-Qaeda, has conducted a sustained terrorist campaign in Kenya since [[Kenya's Military Intervention Somalia|Kenya's military intervention in Somalia]] in 2011. The attacks have killed hundreds of Kenyans, disrupted livelihoods, and led to severe state crackdowns that have disproportionately affected the [[Kenyan Somali|Somali community]]. The violence represents both a [[Horn of Africa Context|security threat]] and an opportunity for collective punishment of Somali Kenyans.
 
 ## The Intervention and Al-Shabaab Response
 

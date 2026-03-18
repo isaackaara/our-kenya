@@ -15,12 +15,12 @@ The clashes continued episodically throughout the 1990s, with particular intensi
 International investigation into the land clashes came only after Moi's presidency had ended. The Truth, Justice and Reconciliation Commission (TJRC) that examined Kenya's post-independence history documented the state's involvement in orchestrating the clashes and identified specific government officials and military leaders who had coordinated the violence. Yet these investigations came too late to prevent the violence or to enable real-time accountability. By the time the state's role was officially acknowledged, the regime that had perpetrated the violence had already relinquished formal power.
 
 ## See Also
-[[Kenya/Ethnic Violence]]
+Ethnic Violence
 [[Moi and the Kalenjin]]
-[[Elections/1992 General Election]]
+1992 General Election
 [[1997 Election Violence]]
 [[Moi Legacy]]
-[[Cross-Ethnic/Land and Ethnicity]]
+Land and Ethnicity
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

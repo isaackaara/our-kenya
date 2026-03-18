@@ -42,7 +42,7 @@ However, sustainable tourism development requires careful attention to community
 - [[Iten]]
 - [[The Running Phenomenon]]
 - [[Kalenjin and the Environment]]
-- [[Kenya Tourism Economy]]
+- Kenya Tourism Economy
 
 ## See Also
 

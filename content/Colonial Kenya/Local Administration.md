@@ -17,7 +17,7 @@ Local administration was not monolithic; substantial variation existed between d
 [[Colonial Police Force]]
 [[Hut Tax Implementation]]
 [[Colonial Native Reserves]]
-[[Indirect Rule System]]
+Indirect Rule System
 
 ## Sources
 

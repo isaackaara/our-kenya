@@ -16,9 +16,9 @@ Mining operations persisted through independence, though mineral depletion reduc
 
 [[Colonial Economic Integration]]
 [[Forced Labor Colonial]]
-[[Colonial Environmental Policy]]
+Colonial Environmental Policy
 [[Legacy]]
-[[Colonial Resource Extraction]]
+Colonial Resource Extraction
 [[Occupational Health]]
 
 ## Sources

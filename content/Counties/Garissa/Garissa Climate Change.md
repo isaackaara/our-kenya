@@ -27,7 +27,7 @@ Climate finance mechanisms, including Green Climate Fund and other international
 - [[Garissa Climate|Climate Baseline]]
 - [[Garissa Food Security|Food Security Vulnerability]]
 - [[Garissa Pastoralism|Pastoral Livelihoods]]
-- [[Garissa Water Resources|Water Scarcity]]
+- Water Scarcity
 - [[Garissa Health|Health Impacts]]
 
 ## Sources

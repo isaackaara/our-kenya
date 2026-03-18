@@ -5,7 +5,7 @@ Kalenjin politicians, Moi's ethnic group, gained significant representation in t
 - [[1983 Election]]
 - [[Daniel arap Moi]]
 - [[Kenya]]
-- [[Moi Administration]]
+- Moi Administration
 - [[1979 Election Regional Patterns]]
 
 ## Sources

@@ -26,9 +26,9 @@ Matiba died in 2018, sixteen years after Moi left office, having witnessed the d
 - [[1992 Election and Ethnic Violence]]
 - [[Detention Without Trial Under Moi]]
 - [[Moi and the GSU]]
-- [[Kikuyu/Kikuyu Opposition to Moi]]
-- [[Cross-Ethnic/Business Elite in Politics]]
-- [[Elections/Opposition Politics in Kenya]]
+- [[Multiparty Politics]]
+- Business Elite in Politics
+- [[Multiparty Politics]]
 
 ## Sources
 1. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctt1xhr73

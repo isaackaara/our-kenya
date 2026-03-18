@@ -4,7 +4,7 @@ title: Meru Youth Identity and Generation Gap
 
 # Young Meru: Urban, Educated, and Connected
 
-Contemporary [[Meru youth]], particularly the [[educated cohort]], represent a [[generation]] navigating between [[rural tradition]] and [[urban modernity]], between [[Meru identity]] and [[Kenyan Hip-Hop]].
+Contemporary [[Meru Youth]], particularly the educated cohort, represent a generation navigating between rural tradition and urban modernity, between Meru identity and [[Kenyan Hip-Hop]].
 
 ## Urban Migration
 
@@ -100,7 +100,7 @@ Young Meru face challenges including:
 - [[Meru Youth and Migration]]
 - [[Meru Tech Innovation and Startups]]
 - [[Meru Scholars and Academics]]
-- [[Meru Education and Schools]]
+- [[Education]]
 - [[Meru Political Identity 2026]]
 - [[Meru and Climate Change Adaptation]]
 

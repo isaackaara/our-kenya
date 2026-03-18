@@ -8,7 +8,7 @@ The relationship between filmmaking and professional politics created complex dy
 
 The evolution of political film production reflected broader trends in Kenyan politics and cinema development. The authoritarian governance periods of the 1980s created restrictive environments for political film expression. The transition to multiparty democracy in the 1990s expanded space for more diverse political content. The professionalization of Kenyan cinema increasingly positioned film as artistic expression distinct from political propaganda, creating filmmaker interests in creative autonomy alongside political concerns. The tensions between artistic autonomy and political expression remain ongoing dimensions of Kenyan film politics.
 
-See Also: [[Political Films]], [[Government Portrayal]], [[Documentary Film]], [[Censorship Film Television]], [[Film Directing]], [[Swahili Film Productions]], [[National Identity Cinema]]
+See Also: [[Political Films]], [[Government Portrayal]], [[Documentary Film]], [[Censorship Film Television]], [[Film Directing]], [[Swahili Film Productions]], National Identity Cinema
 
 Sources:
 1. https://www.film-board-kenya.org/

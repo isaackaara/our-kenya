@@ -49,7 +49,7 @@ This development was significant for Kikuyu political strategy. If young Kikuyu 
 - [[Kikuyu Post-Uhuru Politics]]
 - [[Kikuyu Futures]]
 - [[Kikuyu Sub-group Tensions]]
-- [[Kenya 2022 Election]]
+- [[2022 Presidential Election]]
 - [[Raila Odinga]]
 
 ## Sources

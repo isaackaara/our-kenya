@@ -10,12 +10,12 @@ Mutahi Kagwe's subsequent political career, which included a bid for the preside
 
 ## See Also
 
-[[Kibaki Cabinet and Government]]
-[[Ministers and Business Interests Kenya]]
+[[Mwai Kibaki]]
+Ministers and Business Interests Kenya
 [[Health]]
 [[Environmental Art]]
-[[Conflict of Interest in Government]]
-[[Corruption/ Scandals and Accountability]]
+Conflict of Interest in Government
+Scandals and Accountability
 
 ## Sources
 

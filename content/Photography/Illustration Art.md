@@ -11,9 +11,9 @@ Contemporary Kenyan illustration practices serve diverse functions from children
 - [[Illustration Art]]
 - [[Illustration Art]]
 - [[Illustration Art]]
-- [[Illustrator Practice and Style]]
-- [[Visual Storytelling]]
-- [[Artistic Drawing Practice]]
+- Illustrator Practice and Style
+- Visual Storytelling
+- Artistic Drawing Practice
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Illustration - Illustration History

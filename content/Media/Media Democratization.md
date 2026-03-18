@@ -12,7 +12,7 @@ Media democratization experienced countervailing pressures from media ownership 
 [[Vernacular Radio Expansion]]
 [[Digital Media Shift]]
 [[Community Radio Stations]]
-[[Technology/Internet Development Kenya]]
+[[Digital Economy Kenya]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Mass_media_in_Kenya

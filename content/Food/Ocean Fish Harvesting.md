@@ -21,10 +21,10 @@ Climate change created additional pressure on marine fisheries. Changing water t
 [[Fishing Aquaculture]]
 [[Lake Fish Industry]]
 [[Artisanal Fishing Practices]]
-[[Coastal Economics Kenya]]
+Coastal Economics Kenya
 [[Conservation]]
 [[Food Security Policies]]
-[[Sustainable Fisheries]]
+Sustainable Fisheries
 
 ## Sources
 

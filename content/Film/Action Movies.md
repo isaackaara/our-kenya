@@ -17,7 +17,7 @@ Vehicle action featuring car chases and mechanical spectacle appealed to audienc
 By 2000s, action film production remained limited within Kenyan cinema compared to international action industry. The high costs and specialized requirements limited Kenyan action production. However, international action films remained popular in Kenyan theaters.
 
 ## See Also
-[[Action Movies]], [[Stunt Professionals]], [[Film Directing]], [[Film Infrastructure]], [[International Film Partnerships]], [[Entertainment]], [[Cinema Theaters]]
+[[Action Movies]], [[Stunt Professionals]], [[Film Directing]], [[Film Infrastructure]], [[International Film Partnerships]], [[entertainment]], [[Cinema Theaters]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

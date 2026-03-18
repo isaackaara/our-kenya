@@ -14,7 +14,7 @@ The recent completion of the SGR through Nairobi's southern areas has created ne
 
 ## See Also
 
-[[Nairobi Built Environment]], [[Urban Planning Development]], [[Development Aid]], [[Transportation Infrastructure]], [[Environmental Art]], [[Green Spaces]], [[Conservation]]
+[[Nairobi Built Environment]], [[Urban Planning Development]], [[Development Aid]], [[Transportation Infrastructure]], [[Environmental Art]], Green Spaces, [[Conservation]]
 
 ## Sources
 

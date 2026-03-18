@@ -4,7 +4,7 @@ title: Meru Music and Musical Traditions
 
 # Meru Music: Traditional Instruments and Contemporary Artists
 
-The Meru have a rich [[musical tradition]] reflecting both [[pre-colonial]] cultural practices and [[contemporary]] innovations.
+The Meru have a rich musical tradition reflecting both pre-colonial cultural practices and contemporary innovations.
 
 ## Traditional Music Instruments
 
@@ -45,7 +45,7 @@ The coexistence of traditional and contemporary music reflects the broader Meru 
 ## See Also
 
 - [[Meru Oral Literature]]
-- [[Meru Cultural Heritage]]
+- Meru Cultural Heritage
 - [[Meru Initiation]]
 - [[Meru Cultural Festivals and Celebrations]]
 - [[Meru Youth Identity]]

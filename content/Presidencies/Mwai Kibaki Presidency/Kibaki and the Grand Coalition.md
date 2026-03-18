@@ -22,9 +22,9 @@ The legacy of the Grand Coalition included both institutional innovations and ca
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya 2007 Election Violence|Kenya 2007 Election Violence]]
-- [[Kenya Power-Sharing Arrangements|Kenya Power-Sharing Arrangements]]
-- [[Kenya Executive Structure|Kenya Executive Structure]]
+- [[2007-2008 Post Election Violence|Kenya 2007 Election Violence]]
+- Kenya Power-Sharing Arrangements
+- Kenya Executive Structure
 
 ## Sources
 

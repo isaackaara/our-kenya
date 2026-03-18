@@ -1,6 +1,6 @@
 ## Overview
 
-Public procurement is the largest single opportunity for corruption in Kenya's government. The [[World Bank IMF Kenya Corruption]] estimates that Kenya loses approximately 30 percent of its annual public procurement budget to corruption, equivalent to over KES 300 billion annually. The mechanisms include [[1988 Election Rigging Mechanism]], inflated contracts, [[ghost suppliers]], and allocation of contracts to unqualified firms in exchange for bribes.
+Public procurement is the largest single opportunity for corruption in Kenya's government. The [[World Bank IMF Kenya Corruption]] estimates that Kenya loses approximately 30 percent of its annual public procurement budget to corruption, equivalent to over KES 300 billion annually. The mechanisms include [[1988 Election Rigging Mechanism]], inflated contracts, ghost suppliers, and allocation of contracts to unqualified firms in exchange for bribes.
 
 ## Bid Rigging
 
@@ -8,7 +8,7 @@ Bid rigging occurs when government procuring entities and private suppliers coor
 
 The rigging can be crude (specifications written so narrowly that only one firm meets them) or sophisticated (technical requirements that only the favored supplier's equipment can meet). In either case, competitive procurement becomes a formality masking a predetermined outcome.
 
-Bid rigging is facilitated by [[collusion]] between procurement committees (government employees who evaluate bids) and suppliers. The supplier bribes committee members or officials upstream. The committee ensures the preferred supplier wins.
+Bid rigging is facilitated by collusion between procurement committees (government employees who evaluate bids) and suppliers. The supplier bribes committee members or officials upstream. The committee ensures the preferred supplier wins.
 
 ## Inflated Contracts
 

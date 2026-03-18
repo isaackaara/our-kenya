@@ -34,7 +34,7 @@ The gramophone represented modernity in sound: technology-mediated, commodified,
 - [[Radio Voice of Kenya Origins]]
 - [[Fadhili Williams]]
 - [[Congolese Rumba Arrives in Kenya]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 
 ## Sources
 1. Gronow, Pekka. "The Record Industry Comes to the Orient." Ethnomusicology, Vol. 25, No. 2, 1981. https://www.jstor.org/stable/851155

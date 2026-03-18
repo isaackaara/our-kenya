@@ -51,7 +51,7 @@ The Devki Group story was frequently cited as evidence of the positive contribut
 - [[Gujarati Dominance in Business]]
 - [[Asians who Stayed]]
 - [[Asians in Kenya]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

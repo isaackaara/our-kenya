@@ -12,7 +12,7 @@ The aesthetic judgment often directed toward informal market structures as ugly,
 
 ## See Also
 
-[[Market Architecture]], [[Urban Slums Growth]], [[Commercial Building]], [[Nairobi Built Environment]], [[Poverty]], [[Corruption]], [[Informal Economy]]
+[[Market Architecture]], [[Urban Slums Growth]], [[Commercial Building]], [[Nairobi Built Environment]], [[Poverty]], [[Corruption]], [[Informal Economy Kenya]]
 
 ## Sources
 

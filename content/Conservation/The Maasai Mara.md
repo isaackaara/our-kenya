@@ -42,4 +42,4 @@ The Mara generates significant tourism revenue through lodge accommodations and 
 - [[The Maasai]]
 - [[Narok County]]
 - [[Conservation]]
-- [[Wildlife Kenya]]
+- Wildlife Kenya

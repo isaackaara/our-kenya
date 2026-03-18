@@ -43,9 +43,9 @@ https://www.ethnologue.com/language/saq - Ethnologue language information for Sa
 ## See Also
 
 - [[Samburu Language]]
-- [[Samburu History]]
+- [[Samburu]]
 - [[Samburu Cattle Culture]]
-- [[Pastoral Systems in Kenya]]
+- Pastoral Systems in Kenya
 
 ## Sources
 

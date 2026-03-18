@@ -108,4 +108,4 @@ The integration of biomedical and traditional practices reflects Kisii pragmatis
 - [[Kisii Circumcision]] - life stage transitions
 - [[Kisii Death and Burial]] - lifecycle rituals
 - [[Health]] - biomedical integration
-- [[Traditional African birth practices]] - comparative perspective
+- Traditional African birth practices - comparative perspective

@@ -21,7 +21,7 @@ The distinct climatic zones of the county have historically shaped settlement pa
 - [[Tsavo East National Park]]
 - [[Taita-Taveta Agriculture]]
 - [[East Africa]]
-- [[Water Resources Kenya]]
+- [[Water Resources Management]]
 
 ## Sources
 1. Kenya Meteorological Department. "Climate Atlas of Kenya." (2019). https://www.meteo.go.ke

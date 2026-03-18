@@ -26,8 +26,8 @@ Some communities defend FGM as cultural tradition and female initiation marker. 
 - [[Samburu Marriage]]
 - [[Samburu Health]]
 - [[Samburu Girls Education]]
-- [[Women's Rights in Pastoralist Communities]]
-- [[Female Initiation Practices]]
+- Women's Rights in Pastoralist Communities
+- Female Initiation Practices
 
 ## Sources
 

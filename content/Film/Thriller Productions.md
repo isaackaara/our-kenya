@@ -21,7 +21,7 @@ Television thriller series adapted suspenseful narrative structures to episodic 
 By 2000s, thriller productions remained viable entertainment format, with international thriller imports and occasional Kenyan productions engaging audiences interested in suspenseful narratives.
 
 ## See Also
-[[Film Genres Kenya]], [[Drama Television]], [[Action Movies]], [[Crime Television]], [[Film Directing]], [[Television Acting]], [[Entertainment]]
+[[Film Genres Kenya]], [[Drama Television]], [[Action Movies]], [[Crime Television]], [[Film Directing]], [[Television Acting]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

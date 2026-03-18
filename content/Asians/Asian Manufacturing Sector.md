@@ -1,4 +1,4 @@
-The industrial [[Manufacturing History Kenya]] sector built by [[Asian Kenyans]] became one of the most important segments of [[Kenya]]'s post-independence [[economy]]. [[Asian Kenyans|Asian]] entrepreneurs invested in textile manufacturing (such as [[Rivatex Eldoret]] in [[Eldoret]]), steel production, plastics manufacturing, packaging, and numerous other industrial sectors. [[Manufacturing History Kenya]] enterprises created [[Unemployment]], generated foreign exchange through [[Sports]], contributed to government revenues through taxation, and provided evidence of positive economic contributions by [[Asian Kenyans|Asian]] communities.
+The industrial [[Manufacturing History Kenya]] sector built by [[Asian Kenyans]] became one of the most important segments of [[Kenya]]'s post-independence economy. [[Asian Kenyans|Asian]] entrepreneurs invested in textile manufacturing (such as [[Rivatex Eldoret]] in [[Eldoret]]), steel production, plastics manufacturing, packaging, and numerous other industrial sectors. [[Manufacturing History Kenya]] enterprises created [[Unemployment]], generated foreign exchange through [[Sports]], contributed to government revenues through taxation, and provided evidence of positive economic contributions by [[Asian Kenyans|Asian]] communities.
 
 ## The Manufacturing Transition Strategy
 
@@ -62,7 +62,7 @@ Manufacturing enterprises faced periodic challenges. Kenya's economic downturns 
 - [[Africanisation and Asian Business]]
 - [[Asian Real Estate Kenya]]
 - [[Asian Retailers Kenya]]
-- [[Asian Economic Contribution Kenya]]
+- Asian Economic Contribution Kenya
 
 ## Sources
 

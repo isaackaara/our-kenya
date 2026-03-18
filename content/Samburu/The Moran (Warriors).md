@@ -43,7 +43,7 @@ Despite modernization pressures, the moran system has persisted with considerabl
 - [[Samburu Marriage]]
 - [[Samburu Youth]]
 - [[Samburu and Tourism]]
-- [[Age-Grade Systems in Africa]]
+- Age-Grade Systems in Africa
 
 ## Sources
 

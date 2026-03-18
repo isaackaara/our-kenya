@@ -19,7 +19,7 @@ Comedies achieved economic viability through commercial entertainment appeal. Bo
 The transition toward television production through 1990s and 2000s affected comedy film production. Television comedy series became more prominent as entertainment vehicle. Some comedians transitioned from theatrical film to television, finding regular employment in episodic comedy series.
 
 ## See Also
-[[Film Genres Kenya]], [[Drama Television]], [[Film Acting]], [[Comedy Television]], [[Music]], [[Entertainment]], [[Riverwood Film Industry]]
+[[Film Genres Kenya]], [[Drama Television]], [[Film Acting]], Comedy Television, [[Music]], [[entertainment]], [[Riverwood Film Industry]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

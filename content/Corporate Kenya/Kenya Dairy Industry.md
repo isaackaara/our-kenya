@@ -1,4 +1,4 @@
-Kenya's [[dairy sector]] is critical for [[nutrition]] and [[Income Inequality]]. It comprises [[Smallholder Farm Productivity]] dairy farmers (the majority), [[large commercial farms]], and [[processing companies]]. Production and consumption vary geographically: Central and Western highlands are high-production zones; pastoralist areas rely primarily on pastoral milk.
+Kenya's dairy sector is critical for nutrition and [[Income Inequality]]. It comprises [[Smallholder Farm Productivity]] dairy farmers (the majority), large commercial farms, and processing companies. Production and consumption vary geographically: Central and Western highlands are high-production zones; pastoralist areas rely primarily on pastoral milk.
 
 ## Production
 
@@ -34,10 +34,10 @@ Kenya's dairy sector has room for growth through improved productivity, quality,
 
 ## See Also
 
-- [[Brookside Dairy]]
+- Brookside Dairy
 - [[Kenya Meat Commission]]
 - [[Food]]
-- [[Agricultural Production Kenya]]
+- [[Agriculture]]
 - [[The NGO Economy]]
 - [[Manufacturing History Kenya]]
 

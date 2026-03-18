@@ -15,7 +15,7 @@ Gender representation in film and television acting reflected broader gender dyn
 International productions filming in Kenya sometimes employed Kenyan actors in supporting roles. This employment provided opportunity and visibility for Kenyan performers, though often in subordinate positions in international productions. Some Kenyan actors pursued international careers, relocating to work in international productions.
 
 ## See Also
-[[Television Acting]], [[Film Directing]], [[Drama Television]], [[Child Actors]], [[Film School Training]], [[Women]], [[Entertainment]]
+[[Television Acting]], [[Film Directing]], [[Drama Television]], [[Child Actors]], [[Film School Training]], [[Women]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

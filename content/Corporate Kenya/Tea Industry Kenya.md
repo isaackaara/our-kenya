@@ -1,4 +1,4 @@
-Kenya is the world's largest black tea exporter by value, shipping over 500,000 tonnes annually worth roughly USD 1 billion. Tea is grown primarily by [[smallholder farmers]] (over 65% of production) organised through cooperatives, with a smaller portion from large estates. The industry is a mainstay of Kenya's rural economy and a major foreign exchange earner.
+Kenya is the world's largest black tea exporter by value, shipping over 500,000 tonnes annually worth roughly USD 1 billion. Tea is grown primarily by smallholder farmers (over 65% of production) organised through cooperatives, with a smaller portion from large estates. The industry is a mainstay of Kenya's rural economy and a major foreign exchange earner.
 
 ## Colonial Origins
 
@@ -72,12 +72,12 @@ Kenya's tea industry is likely to remain a major export. However, growth will be
 ## See Also
 
 - [[Kenya Agricultural History]]
-- [[Cooperative Movement Kenya]]
+- [[Agricultural Marketing Systems]]
 - [[Coffee Industry Kenya]]
 - [[Kenya Exports]]
 - [[Colonial Economy]]
-- [[Smallholder Farmers Kenya]]
-- [[Commodity Trade Kenya]]
+- Smallholder Farmers Kenya
+- Commodity Trade Kenya
 
 ## Sources
 

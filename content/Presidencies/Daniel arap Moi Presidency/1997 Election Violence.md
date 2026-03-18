@@ -12,7 +12,7 @@ The national opposition response was again fragmented. The opposition coalition 
 
 The December 29, 1997 election saw Moi win re-election with 40% of the vote, again a plurality in a divided field. Turnout in violence-affected areas was significantly depressed; many displaced persons never returned to vote, and those who remained were intimidated. Opposition candidates split the anti-Moi vote across ethnic lines: Kibaki (Kikuyu) received 31%, Raila (Luo) 11%, and others divided the remainder. KANU retained a parliamentary majority, though smaller than in 1992.
 
-Post-election, a judicial commission of inquiry, the Akiwumi Commission, was established to investigate the violence. Its hearings documented state involvement, named politicians and administrators, and recommended prosecutions. The report was completed in 1999 but suppressed by Moi's government; it was not publicly released until after Moi left office in 2002. None of the individuals named were prosecuted during Moi's presidency. The impunity established in 1992 was reinforced in 1997, creating a precedent that would have catastrophic consequences in the [[Elections/2007 Post-Election Violence|2007-2008 post-election violence]].
+Post-election, a judicial commission of inquiry, the Akiwumi Commission, was established to investigate the violence. Its hearings documented state involvement, named politicians and administrators, and recommended prosecutions. The report was completed in 1999 but suppressed by Moi's government; it was not publicly released until after Moi left office in 2002. None of the individuals named were prosecuted during Moi's presidency. The impunity established in 1992 was reinforced in 1997, creating a precedent that would have catastrophic consequences in the [[2007-2008 Post Election Violence|2007-2008 post-election violence]].
 
 The 1997 Coast violence also illustrated how ethnic grievances, real or manufactured, could be mobilized for elite political purposes. Coastal marginalization was genuine; decades of unequal development had left the region poor despite tourism revenues and port income. But the violence did not address these structural issues; it simply displaced poor up-country Kenyans, while coastal elites allied with Moi retained power and wealth. The pattern was consistent across both 1992 and 1997 violence: ordinary people from marginalized communities were mobilized to attack other ordinary people, while elites profited politically.
 
@@ -25,10 +25,10 @@ The 1997 election violence, like its 1992 predecessor, demonstrated that Kenya's
 - [[Moi and the GSU]]
 - [[Section 2A Repeal 1991]]
 - [[Moi and Raila Odinga]]
-- [[Elections/Electoral Violence in Kenya]]
-- [[Cross-Ethnic/Coast Politics and Marginalization]]
-- [[Kikuyu/Kikuyu Internal Migration]]
-- [[Corruption/Impunity for Political Violence]]
+- [[Post-Election Violence]]
+- Coast Politics and Marginalization
+- Kikuyu Internal Migration
+- Impunity for Political Violence
 
 ## Sources
 1. Kenya Human Rights Commission. *Kayas of Deprivation, Kayas of Blood: Violence, Ethnicity and the State in Coastal Kenya*. KHRC, 1997. https://www.khrc.or.ke/publications/

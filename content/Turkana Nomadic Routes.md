@@ -6,7 +6,7 @@ Understanding turkana nomadic routes provides important context for Kenya's deve
 
 ## See Also
 
-[[Turkana]], [[Kenya History]]
+Turkana, [[Kenya History]]
 
 ## Sources
 

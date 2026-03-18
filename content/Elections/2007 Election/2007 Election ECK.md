@@ -5,7 +5,7 @@ The Electoral Commission of Kenya's announcement of Kibaki's victory on December
 - [[2007 Election]]
 - [[Electoral Commission of Kenya]]
 - [[2007 Election Results Dispute]]
-- [[Election administration Kenya]]
+- Election administration Kenya
 
 ## Sources
 

@@ -10,11 +10,11 @@ Kangwana's legacy in Kenya's media history reflects recognition of individual en
 
 ## See Also
 [[KTN Broadcasting Standards]]
-[[Kenya Television Network]]
+Kenya Television Network
 [[Media Democratization]]
 [[Television History Kenya]]
 [[Media Ownership Control]]
-[[Business/Entrepreneurship Kenya]]
+[[Entrepreneurship Kenya]]
 
 ## Sources
 1. https://www.tuko.co.ke/business-economy/504905-jared-kangwana-kenyan-tycoon-founded-ktn-properties/

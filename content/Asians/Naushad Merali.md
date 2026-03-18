@@ -2,7 +2,7 @@
 
 ## Telecommunications Interests
 
-Merali's wealth and prominence were significantly built on interests in Kenya's [[telecommunications]] sector. The telecommunications industry experienced explosive growth beginning in the late 1990s and continuing into the twenty-first century as mobile phone usage expanded dramatically. Merali's investments in telecommunications companies and infrastructure positioned him to benefit from this growth. His connections with major telecommunications operators and his role in key telecommunications investments made him an influential figure in Kenya's telecom sector.
+Merali's wealth and prominence were significantly built on interests in Kenya's telecommunications sector. The telecommunications industry experienced explosive growth beginning in the late 1990s and continuing into the twenty-first century as mobile phone usage expanded dramatically. Merali's investments in telecommunications companies and infrastructure positioned him to benefit from this growth. His connections with major telecommunications operators and his role in key telecommunications investments made him an influential figure in Kenya's telecom sector.
 
 ## Banking and Finance
 
@@ -51,7 +51,7 @@ Merali's relationship with Safaricom, Kenya's leading telecommunications company
 - [[Asian Kenyans in the Professions]]
 - [[Asian Retail Empires]]
 - [[Kenyan Asian Philanthropy]]
-- [[Comcraft Group Kenya|The Comcraft Group]]
+- [[Indian Communities Kenya|The Comcraft Group]]
 
 ## Sources
 

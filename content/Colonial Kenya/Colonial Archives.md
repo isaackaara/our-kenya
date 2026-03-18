@@ -20,7 +20,7 @@ The colonial archives have been targets of conservation efforts as institutions 
 [[Colonial Records Management]]
 [[Colonial Knowledge Production]]
 [[Colonial Bureaucracy]]
-[[Historical Archives and Kenya]]
+Historical Archives and Kenya
 [[Luo Governance Pre-Colonial]]
 
 ## Sources

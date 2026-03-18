@@ -47,7 +47,7 @@ Pastoral drought cycles create periodic food insecurity. Livestock loss from dro
 - [[Samburu Camel Use]]
 - [[Samburu Climate Change]]
 - [[Food]]
-- [[Market Integration in Pastoralist Economies]]
+- Market Integration in Pastoralist Economies
 
 ## Sources
 

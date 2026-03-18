@@ -8,7 +8,7 @@ The economics of talk shows made them reliable programming for broadcasters seek
 
 Interactive elements transformed talk shows from presenter-driven monologues to platforms for broader audience participation. Call-in segments where viewers could ask questions or share perspectives directly with hosts created engagement and accessibility. Mobile phone technology enabled viewer participation even without studio access, expanding who could participate in public discourse. Text messaging, social media integration, and audience voting features created multiple pathways for viewers to engage with show content beyond passive spectatorship.
 
-See Also: [[Entertainment Shows]], [[Television Studios]], [[Current Affairs]], [[News Broadcasting]], [[Variety Shows]], [[Television Acting]], [[Celebrity Culture]]
+See Also: [[Entertainment Shows]], [[Television Studios]], [[Current Affairs]], [[News Broadcasting]], [[Variety Shows]], [[Television Acting]], Celebrity Culture
 
 Sources:
 1. https://www.broadcast-talent-association-kenya.org/

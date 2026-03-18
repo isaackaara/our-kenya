@@ -19,10 +19,10 @@ The long-term consequences of media control under Moi were significant. A genera
 ## See Also
 [[Moi and the Media]]
 [[Moi Detention Policy]]
-[[Kenya/Press Freedom]]
+Press Freedom
 [[Moi and the Opposition]]
 [[Mwakenya Movement]]
-[[Kenya/Multiparty Transition]]
+[[Multiparty Transition]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

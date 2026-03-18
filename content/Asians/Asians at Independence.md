@@ -35,4 +35,4 @@ But the wound was deep. Asians had been told they were guests, then that they we
 - [[Asians who Stayed]]
 - [[Idi Amin and the Ugandan Asians]]
 - [[Indian Traders and the Duka]]
-- [[Index]]
+- [[index]]

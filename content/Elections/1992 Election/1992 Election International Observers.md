@@ -13,12 +13,12 @@ The international observer acceptance of the 1992 election was controversial. Op
 ## See Also
 
 - [[1992 Election]]
-- [[Electoral Observation]]
-- [[International Legitimacy]]
-- [[Election Irregularities]]
-- [[International Monitoring]]
-- [[Democratic Transitions]]
-- [[Observation Bias]]
+- Electoral Observation
+- International Legitimacy
+- Election Irregularities
+- International Monitoring
+- Democratic Transitions
+- Observation Bias
 
 ## Sources
 

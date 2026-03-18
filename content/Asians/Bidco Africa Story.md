@@ -51,7 +51,7 @@ Bidco Africa developed a reputation for professional corporate management. The c
 - [[Asians who Stayed]]
 - [[Chandaria Group]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

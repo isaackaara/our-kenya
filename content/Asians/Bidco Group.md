@@ -51,7 +51,7 @@ As of 2026, Bidco is one of Kenya's most successful manufacturing companies. It 
 - [[Devki Steel Mills]]
 - [[Gujarati Dominance in Business]]
 - [[Asians at Independence]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

@@ -53,6 +53,6 @@ Yet coffee retains symbolic importance in Kikuyu identity. Coffee wealth finance
 - [[Kikuyu Business Networks]]
 - [[Mau Mau Uprising]]
 - [[White Highlands]]
-- [[Kenya Planters Cooperative Union|KPCU]]
+- KPCU
 - [[Kikuyu|Post-Independence Economy]]
 

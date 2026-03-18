@@ -1,4 +1,4 @@
-By the late 1980s, [[Kenya]]'s [[The NGO Economy|mixed economy]] model had collapsed. [[Parastatals Kenya|Parastatals]] were bloated and corrupt. The [[currency Kenya|currency]] was depreciating. [[inflation Kenya|Inflation]] was high. [[External Debt Kenya|External debt]] was unsustainable. In 1991, the [[International Monetary Fund|IMF]] and [[World Bank IMF Kenya Corruption]] offered a solution (or so they claimed): [[structural adjustment Kenya|structural adjustment]]. What followed was a decade of radical economic transformation that reshaped Kenya's economy, enriched some, and impoverished others.
+By the late 1980s, [[Kenya]]'s [[The NGO Economy|mixed economy]] model had collapsed. [[Parastatals Kenya|Parastatals]] were bloated and corrupt. The currency was depreciating. Inflation was high. External debt was unsustainable. In 1991, the [[International Monetary Fund|IMF]] and [[World Bank IMF Kenya Corruption]] offered a solution (or so they claimed): [[Structural Adjustment Kenya|structural adjustment]]. What followed was a decade of radical economic transformation that reshaped Kenya's economy, enriched some, and impoverished others.
 
 ## The Crisis of the 1980s
 
@@ -79,10 +79,10 @@ Structural adjustment was often presented as a necessary evil. In Kenya's case, 
 - [[Parastatals Kenya]]
 - [[Post-Independence Economic Policy]]
 - [[Kibaki and Kenya Commercial Bank Privatisation]]
-- [[International Monetary Fund Kenya]]
+- [[International Monetary Fund]]
 - [[Kenya]]
 - [[Kenya Inequality and Gini Coefficient Under Uhuru]]
-- [[Economic Reform Kenya]]
+- Economic Reform Kenya
 
 ## Sources
 

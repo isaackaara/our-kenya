@@ -9,7 +9,7 @@ Informal insurance mechanisms provide partial protection against shocks. Rotatin
 The stress and psychological costs of coping cannot be overlooked. Households managing on insufficient income experience chronic stress, anxiety, and depression. Repeated borrowing and debt creates psychological burden and shame. Consumption reduction below adequate levels creates physical stress from hunger and inadequate nutrition. Engaging in unwanted work or activities (sex work, criminal activity) creates psychological trauma. These psychological costs accumulate, creating mental health conditions that themselves impair coping capacity. Without addressing underlying poverty, coping mechanisms provide temporary relief while masking deteriorating underlying conditions. Sustainable poverty reduction requires addressing structural causes rather than supporting individual coping alone.
 
 ## See Also
-[[Food Insecurity]], [[Informal Insurance]], [[Rotating Savings Groups]], [[Microfinance Access]], [[Informal Lending]], [[Debt Poverty]], [[Poverty Measurement]], [[Economic Resilience]]
+[[Food Insecurity]], [[Informal Insurance]], [[Rotating Savings Groups]], [[Microfinance Access]], Informal Lending, [[Debt Poverty]], [[Poverty Measurement]], Economic Resilience
 
 ## Sources
 1. World Bank (2015). "Kenya Poverty and Coping Mechanisms Assessment." http://documents.worldbank.org

@@ -12,7 +12,7 @@ Long-term digital preservation requires technological migration as formats becom
 [[Art Documentation]]
 [[Digital Photography]]
 [[National Museum]]
-[[Technology and Silicon Savannah]]
+Technology and Silicon Savannah
 
 ## Sources
 1. https://www.museum.or.ke/digital-collections - National Museum digitization initiatives

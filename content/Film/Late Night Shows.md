@@ -8,7 +8,7 @@ Music and entertainment performances filled late-night programming blocks, featu
 
 The regulatory framework for late-night programming addressed concerns about content standards and audience protection. Late-night hours allowed programming content, language, and themes not permitted during family viewing hours. Regulatory frameworks explicitly recognized late-night status as justifying different content standards than daytime and early evening programming. This differentiated regulatory approach reflected recognition that late-night audiences had different expectations and composition than family audiences. The explicit permissiveness for late-night content demonstrated how regulatory frameworks reflected temporal context and audience composition.
 
-See Also: [[Prime Time Programming]], [[Entertainment Shows]], [[Talk Show History]], [[Weekend Programming]], [[Variety Shows]], [[Television Acting]], [[Comedy Entertainment]]
+See Also: [[Prime Time Programming]], [[Entertainment Shows]], [[Talk Show History]], [[Weekend Programming]], [[Variety Shows]], [[Television Acting]], Comedy Entertainment
 
 Sources:
 1. https://www.late-night-television-association-kenya.org/

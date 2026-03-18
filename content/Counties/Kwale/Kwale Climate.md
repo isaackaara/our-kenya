@@ -23,7 +23,7 @@ Tropical cyclones occasionally affect the coast, bringing extreme wind and rainf
 - [[Kwale Agriculture|Kwale Agriculture]]
 - [[Kwale Marine|Kwale Marine]]
 - [[Shimba Hills National Reserve|Shimba Hills National Reserve]]
-- [[Kwale Water|Kwale Water]]
+- [[Murang'a Water Resources|Kwale Water]]
 
 ## Sources
 

@@ -27,9 +27,9 @@ By the late 1970s, patterns of media control had become deeply entrenched. While
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
 - [[Kenyatta Detention Legacy|Kenyatta Detention Legacy]]
-- [[../../Kenya Press Freedom|Kenya Press Freedom]]
-- [[../../Kenya Journalism History|Kenya Journalism History]]
-- [[../../Sedition in Kenya|Sedition in Kenya]]
+- [[State Censorship and Literature|Kenya Press Freedom]]
+- Kenya Journalism History
+- Sedition in Kenya
 
 ## Sources
 

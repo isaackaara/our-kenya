@@ -4,7 +4,7 @@ title: Meru and British Colonial Administration
 
 # Meru Under British Colonial Rule
 
-The [[Meru]] came under [[British colonial administration]] as part of Kenya's colonial period (formally 1895-1963), administered through appointed [[Chiefs and Loyalists]] and [[District Commissioners and Indirect Rule]].
+The [[Meru]] came under British colonial administration as part of Kenya's colonial period (formally 1895-1963), administered through appointed [[Chiefs and Loyalists]] and [[District Commissioners and Indirect Rule]].
 
 ## Early British Contact
 

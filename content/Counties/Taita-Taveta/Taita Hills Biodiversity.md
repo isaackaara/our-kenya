@@ -18,7 +18,7 @@ Conservation efforts have been intensive, involving government agencies, interna
 - [[Lake Chala]]
 - [[Conservation]]
 - [[East Africa]]
-- [[Montane Forests]]
+- Montane Forests
 - [[Taita People County]]
 
 ## Sources

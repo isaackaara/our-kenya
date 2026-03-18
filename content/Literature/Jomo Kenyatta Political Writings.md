@@ -22,12 +22,12 @@ Contemporary reassessment of Kenyatta's political writings grapples with this co
 
 ## See Also
 [[Colonial Literature Kenya]]
-[[Decolonization and Writing]]
+Decolonization and Writing
 [[Postcolonial Literature Movement]]
 [[Kikuyu]]
 [[Literature]]
-[[Political Thought Kenya]]
-[[National Identity Kenya]]
+Political Thought Kenya
+[[Indigenous Cultures]]
 
 ## Sources
 1. https://home.uchicago.edu/aabbott/barbpapers/barbkenya.pdf - Detailed analysis of Facing Mount Kenya

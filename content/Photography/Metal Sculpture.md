@@ -7,13 +7,13 @@ Public and monumental sculpture increasingly employs metal construction. Steel a
 Contemporary Kenyan metal sculptors create work exhibited in galleries and public spaces. International recognition of contemporary African sculptors has elevated visibility of Kenyan practitioners. Metal sculpture achieves status within fine art discourse as major artistic medium. The combination of technical skill, artistic vision, and material knowledge required for metal sculpture attracts dedicated practitioners. Contemporary sculptors innovate within sculptural traditions while maintaining technical excellence. Metal sculpture remains vital artistic practice contributing to Kenya's contemporary art landscape. The durability of metal ensures long-term presence of sculptural works within built environments.
 
 ## See Also
-- [[Welding Techniques and Practice]]
-- [[Foundry and Casting Processes]]
-- [[Monumental Sculpture]]
-- [[Material Properties and Aesthetics]]
+- Welding Techniques and Practice
+- Foundry and Casting Processes
+- Monumental Sculpture
+- Material Properties and Aesthetics
 - [[Director of Public Prosecutions Kenya]]
-- [[Sculpture Exhibitions]]
-- [[Contemporary Sculptural Practice]]
+- Sculpture Exhibitions
+- Contemporary Sculptural Practice
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Metal_sculpture - Metal Sculpture History

@@ -5,7 +5,7 @@ Kenya's swimming sector represents underutilized sporting potential and infrastr
 ## See Also
 
 - [[Kenya at the Commonwealth Games|Kenya at the Commonwealth Games]]
-- [[Kenya Sports Future|Kenya Sports Future]]
+- Kenya Sports Future
 
 ## Sources
 

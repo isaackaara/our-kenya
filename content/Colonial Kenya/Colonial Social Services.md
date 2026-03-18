@@ -21,8 +21,8 @@ By the 1950s, nationalist movements identified inadequate social services as evi
 [[Colonial Medicine Healthcare]]
 [[Colonial Racial Discrimination]]
 [[Colonial Class System]]
-[[Missionisation]]
-[[African Welfare]]
+Missionisation
+African Welfare
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

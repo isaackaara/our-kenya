@@ -7,13 +7,13 @@ The emergence of conceptual art in Kenya reflected broader internationalization 
 Contemporary Kenyan conceptual artists continue developing sophisticated work addressing complex themes through ideas-driven approaches. Installation art, performance art, and photo-conceptual work have gained greater visibility within Kenya's art world. International exhibitions and biennales increasingly include work by Kenyan conceptual artists, bringing recognition to these practices. The relationship between conceptual approaches and other artistic traditions remains dynamic, with many artists combining conceptual frameworks with diverse media and aesthetic concerns. Conceptual art represents important innovation in Kenya's artistic landscape though remaining minority practice.
 
 ## See Also
-- [[Installation Art Kenya]]
-- [[Performance Art Kenya]]
-- [[Contemporary Art Practice]]
-- [[Ideas and Artistic Medium]]
+- [[Installation Art]]
+- [[Performance Art]]
+- Contemporary Art Practice
+- Ideas and Artistic Medium
 - [[Art Documentation]]
-- [[International Art Discourse]]
-- [[Experimental Artistic Practice]]
+- International Art Discourse
+- Experimental Artistic Practice
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Conceptual_art - Conceptual Art History

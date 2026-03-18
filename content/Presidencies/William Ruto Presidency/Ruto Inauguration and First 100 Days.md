@@ -2,7 +2,7 @@ William Ruto was inaugurated as Kenya's fifth president on September 13, 2022, a
 
 In his inaugural address, Ruto laid out an ambitious bottom-up economic transformation agenda centered on what he called the "hustler nation." He promised to prioritize small and medium enterprises, agriculture, and affordable housing. The speech was populist in tone but specific in policy commitments: he pledged to lower the cost of living, create jobs for youth, and end the culture of public debt accumulation. He spoke of a Kenya where "every voice counts, every dream matters, and every citizen has a stake in the future." The messaging was designed to contrast sharply with the Kenyatta administration's infrastructure-heavy, top-down approach.
 
-The first cabinet appointments, announced in late September 2022, signaled Ruto's governing philosophy. He named Musalia Mudavadi as Prime Cabinet Secretary, a newly created position that reflected the [[Kenya Kwanza Coalition]] power-sharing arithmetic. [[2022 Election Rigathi Gachagua]], his running mate from Mount Kenya, became Deputy President. The cabinet included technocrats like former Central Bank governor Njuguna Ndung'u as Treasury CS, alongside political loyalists who had stood with Ruto during his years in the political wilderness. Notably absent were any allies of Uhuru Kenyatta, marking a clean break from the previous administration.
+The first cabinet appointments, announced in late September 2022, signaled Ruto's governing philosophy. He named Musalia Mudavadi as Prime Cabinet Secretary, a newly created position that reflected the [[William Ruto Presidency]] power-sharing arithmetic. [[2022 Election Rigathi Gachagua]], his running mate from Mount Kenya, became Deputy President. The cabinet included technocrats like former Central Bank governor Njuguna Ndung'u as Treasury CS, alongside political loyalists who had stood with Ruto during his years in the political wilderness. Notably absent were any allies of Uhuru Kenyatta, marking a clean break from the previous administration.
 
 The first 100 days were defined by economic shock therapy. On September 14, 2022, barely 24 hours after inauguration, the government removed fuel subsidies that had been keeping petrol prices artificially low. The price of fuel spiked immediately. Ruto defended the decision as fiscally necessary, arguing that the subsidy was costing the country KES 144 billion annually and benefiting the wealthy more than the poor. It was a bitter pill, and the public backlash was immediate. Critics accused him of betraying his hustler base. Ruto countered that the alternative was economic collapse.
 
@@ -12,12 +12,12 @@ The first 100 days established a pattern that would define Ruto's leadership: bo
 
 ## See Also
 - [[2022 Election]]
-- [[Kenya Kwanza Coalition]]
+- [[William Ruto Presidency]]
 - [[Fuel Subsidy Removal 2022]]
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
 - [[Hustler Fund]]
 - [[Ruto and the IMF]]
-- [[Rigathi Gachagua Impeachment]]
+- Rigathi Gachagua Impeachment
 
 ## Sources
 1. "William Ruto sworn in as Kenya's fifth president," BBC News, September 13, 2022. https://www.bbc.com/news/world-africa-62893383

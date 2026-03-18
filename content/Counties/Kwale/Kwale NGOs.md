@@ -26,7 +26,7 @@ Coordination and collaboration among NGOs varies, with some specialization by se
 - [[Kwale Health|Kwale Health]]
 - [[Kwale Education|Kwale Education]]
 - [[Kwale Women|Kwale Women]]
-- [[Kwale Environment|Kwale Environment]]
+- Kwale Environment
 - [[Shimba Hills National Reserve|Shimba Hills National Reserve]]
 
 ## Sources

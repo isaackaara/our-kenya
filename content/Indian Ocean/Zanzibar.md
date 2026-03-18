@@ -24,7 +24,7 @@ Culturally, Zanzibar remains central to Swahili identity and the Indian Ocean he
 [[19_Indian_Ocean_Heritage]]
 [[Swahili Regional Language]]
 [[Coast-History]]
-[[Kenya Somalia Border]]
+[[North Eastern Province]]
 
 ## Sources
 

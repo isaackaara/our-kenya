@@ -8,7 +8,7 @@ The production of daytime programming reflected economic constraints limiting pr
 
 The participation of audiences in daytime television activities reflected distinctive daytime viewing contexts. Call-in talk shows engaged audiences in public conversation. Game show participation created interactive engagement. Educational content engaged learners with intentional information provision. These interactive formats attempted to maintain audience engagement throughout daytime hours and create value beyond passive entertainment consumption. The development of daytime television as programming category reflected recognition that television needed to serve diverse audience interests and available viewing times beyond prime time.
 
-See Also: [[Prime Time Programming]], [[Late Night Shows]], [[Entertainment Shows]], [[Educational Television]], [[Talk Show History]], [[Game Shows]], [[Soap Operas]]
+See Also: [[Prime Time Programming]], [[Late Night Shows]], [[Entertainment Shows]], [[Educational Television]], [[Talk Show History]], [[Game Shows]], Soap Operas
 
 Sources:
 1. https://www.broadcast-daytime-programs-kenya.org/

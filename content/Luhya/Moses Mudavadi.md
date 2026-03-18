@@ -36,7 +36,7 @@ Moses Mudavadi served as Vice President during a critical period in Kenya's poli
 
 [[Musalia Mudavadi Deep Dive]]
 [[Luhya Political Figures]]
-[[Sabatia]]
+Sabatia
 
 ## See Also
 

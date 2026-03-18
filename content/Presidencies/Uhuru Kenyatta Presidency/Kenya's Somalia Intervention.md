@@ -18,9 +18,9 @@ By the end of Uhuru's presidency in 2022, Kenya remained in Somalia with no clea
 - [[Garissa University Attack 2015]]
 - [[Mwai Kibaki]]
 - [[Uhuru Kenyatta Early Political Career]]
-- [[Corruption/Security Sector]]
+- Security Sector
 - [[Uhuru Legacy Assessment]]
-- [[Elections/2013 Presidential Election]]
+- [[2013 Presidential Election]]
 
 ## Sources
 1. "Kenya in Somalia: Operation Linda Nchi One Year On," Royal United Services Institute, October 2012. https://rusi.org/explore-our-research/publications/commentary/kenya-somalia-operation-linda-nchi-one-year

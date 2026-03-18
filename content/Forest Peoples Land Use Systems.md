@@ -6,7 +6,7 @@ The context of forest peoples land use systems illuminates how local, regional, 
 
 ## See Also
 
-[[Forest Peoples]], [[Kenya History]], [[Historical Development]]
+Forest Peoples, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

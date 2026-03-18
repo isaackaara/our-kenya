@@ -14,12 +14,12 @@ By the 1950s, religious transformation had proceeded substantially, with Christi
 
 ## See Also
 
-[[Christian Missions Colonial]]
-[[Islamic Institutions Colonial]]
+Christian Missions Colonial
+Islamic Institutions Colonial
 [[Religion]]
 [[Independent African Churches]]
 [[Religion]]
-[[Witchcraft Laws]]
+Witchcraft Laws
 
 ## Sources
 

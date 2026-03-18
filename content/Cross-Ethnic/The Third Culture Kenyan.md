@@ -8,7 +8,7 @@ The experience of returning to Kenya after years abroad produces distinctive cha
 
 These third culture Kenyans often become mediators between Kenya and the diaspora, between different cultures, and between different ways of being. They frequently work in international organizations, diplomacy, media, or business sectors that require cross-cultural competence. Their linguistic pluralism, cultural flexibility, and experience of multiple contexts become professional assets.
 
-The identity of third culture Kenyans raises questions about authenticity and belonging. Some may be subjected to accusations of being insufficiently Kenyan or of having abandoned their ethnic heritage. Others may reject ethnic identity altogether as parochial and embrace [[cosmopolitan identity]]. Still others attempt to maintain meaningful connections to Kenya and their ethnic heritage despite geographic displacement and cultural distance.
+The identity of third culture Kenyans raises questions about authenticity and belonging. Some may be subjected to accusations of being insufficiently Kenyan or of having abandoned their ethnic heritage. Others may reject ethnic identity altogether as parochial and embrace cosmopolitan identity. Still others attempt to maintain meaningful connections to Kenya and their ethnic heritage despite geographic displacement and cultural distance.
 
 ## See Also
 
@@ -17,7 +17,7 @@ The identity of third culture Kenyans raises questions about authenticity and be
 - [[Identity Without Roots]]
 - [[Diaspora Networks Kenya]]
 - [[Elite Schools and Class Formation]]
-- [[Cosmopolitan Kenyans]]
+- [[Nairobi Urban Identity]]
 
 ## Sources
 

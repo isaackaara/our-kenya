@@ -2,15 +2,15 @@
 
 State corporations, known in Kenya as [[Parastatals Kenya]], were created to provide essential services (telecommunications, postal services, transportation) or produce essential goods (cereals, agricultural inputs). These corporations controlled valuable assets and generated significant revenue from their operations.
 
-Under the [[Moi regime]], parastatals became targets for [[systematic looting]]. Senior appointees to parastatal boards and management positions used their positions to enrich themselves.
+Under the Moi regime, parastatals became targets for systematic looting. Senior appointees to parastatal boards and management positions used their positions to enrich themselves.
 
 ## Kenya Railways
 
 Kenya Railways was a major transportation company operating the national rail network. It generated revenue from passenger and freight services and controlled valuable railway assets and land.
 
-During the Moi era, Kenya Railways experienced [[systematic looting]]:
+During the Moi era, Kenya Railways experienced systematic looting:
 
-- **Inflated maintenance contracts:** Rail maintenance work was awarded to [[connected companies]] at inflated prices
+- **Inflated maintenance contracts:** Rail maintenance work was awarded to connected companies at inflated prices
 - **Asset stripping:** Valuable equipment was sold off or transferred to private entities
 - **Revenue leakage:** Passenger and freight revenues were siphoned through accounting irregularities
 - **Management corruption:** Senior managers awarded themselves inflated salaries and benefits
@@ -81,7 +81,7 @@ The looting of parastatals had measurable development costs:
 - [[State Capture Kenya]] - capture of state institutions
 - [[Auditor General Role]] - institutional oversight of parastatals
 - [[Kenya]] - specific case of railway corruption
-- [[Weak Governance]] - structural enabling factors
+- Weak Governance - structural enabling factors
 - [[Asset Recovery Kenya]] - recovering looted assets
 - [[Corruption]] - impact on service delivery
 

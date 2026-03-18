@@ -1,6 +1,6 @@
 Kenya's tea industry emerged in the early 20th century as a colonial commercial venture and became one of the nation's most important export crops and foreign exchange earners. The crop transformed the highlands' land use patterns, labor systems, and rural economies, creating a complex legacy of wealth concentration and agricultural dependency.
 
-Tea cultivation began in Kenya around 1903 when British settlers experimented with the crop in the [[Kericho District]], located in the southwestern highlands with favorable altitude, rainfall, and temperature conditions. The British colonial administration encouraged European planters to establish estates, and by the 1920s, tea was becoming a significant commodity. [[Colonial Kenya|Colonial]] policy granted large land concessions to European settlers, displacing pastoral and agricultural communities. Large-scale estate production under colonial control dominated early tea cultivation.
+Tea cultivation began in Kenya around 1903 when British settlers experimented with the crop in the Kericho District, located in the southwestern highlands with favorable altitude, rainfall, and temperature conditions. The British colonial administration encouraged European planters to establish estates, and by the 1920s, tea was becoming a significant commodity. [[Colonial Kenya|Colonial]] policy granted large land concessions to European settlers, displacing pastoral and agricultural communities. Large-scale estate production under colonial control dominated early tea cultivation.
 
 The industry expanded dramatically through the mid-20th century. By the 1940s, Kenya was producing substantial quantities for export to Britain and the Commonwealth. The colonial government invested in infrastructure to support tea production: roads to transport leaf, tea factories for processing, and administrative systems to regulate quality and marketing. The industry created wage labor opportunities in highland regions, drawing workers from surrounding areas into estate employment. However, wages were low, working conditions were difficult, and workers had limited control over production decisions.
 
@@ -19,7 +19,7 @@ Kenya remains one of the world's top tea producers and the largest exporter in A
 [[Smallholder Agriculture]]
 [[Land Distribution Kenya]]
 [[Cash Crops Development]]
-[[Highland Agricultural Zones]]
+Highland Agricultural Zones
 [[Development Aid]]
 
 ## Sources

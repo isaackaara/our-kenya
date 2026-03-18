@@ -1,8 +1,8 @@
-The [[Mijikenda]] coastal location positioned them within broader [[Indian Ocean World|Indian Ocean]] trade networks and cultural systems. While less central to these networks than [[Swahili]] coastal merchants, Mjikenda were affected by and participated in Indian Ocean commerce, influenced by Indian Ocean cultural patterns, and connected to peoples across the ocean.
+The [[Mijikenda]] coastal location positioned them within broader [[The Indian Ocean World|Indian Ocean]] trade networks and cultural systems. While less central to these networks than [[Swahili]] coastal merchants, Mjikenda were affected by and participated in Indian Ocean commerce, influenced by Indian Ocean cultural patterns, and connected to peoples across the ocean.
 
 ## Indian Ocean Trade Networks
 
-The [[Indian Ocean World|Indian Ocean]] has long been a space of commerce connecting East Africa with the Arabian Peninsula, Indian subcontinent, Southeast Asia, and beyond. Arab, Indian, Chinese, and other merchants traded across the ocean. The East African coast participated in this commerce through port cities like [[Mombasa]]. [[Mijikenda]], though primarily hinterland peoples, were connected to these networks through coastal trade relationships and their proximity to major port cities.
+The [[The Indian Ocean World|Indian Ocean]] has long been a space of commerce connecting East Africa with the Arabian Peninsula, Indian subcontinent, Southeast Asia, and beyond. Arab, Indian, Chinese, and other merchants traded across the ocean. The East African coast participated in this commerce through port cities like [[Mombasa]]. [[Mijikenda]], though primarily hinterland peoples, were connected to these networks through coastal trade relationships and their proximity to major port cities.
 
 ## Commodity Exchange and Economic Integration
 
@@ -54,7 +54,7 @@ Major Indian Ocean port cities like Mombasa developed as centers of commerce and
 
 ## Contemporary Global Connections
 
-In contemporary times, [[Mijikenda]] remain connected to [[Indian Ocean World|Indian Ocean]] world through trade, migration, and cultural connection. Coastal tourism involves global visitors. International migration links Mijikenda to diaspora communities. Global commodity markets affect coastal economies. Mjikenda are part of contemporary Indian Ocean world even as historical trade networks have transformed.
+In contemporary times, [[Mijikenda]] remain connected to [[The Indian Ocean World|Indian Ocean]] world through trade, migration, and cultural connection. Coastal tourism involves global visitors. International migration links Mijikenda to diaspora communities. Global commodity markets affect coastal economies. Mjikenda are part of contemporary Indian Ocean world even as historical trade networks have transformed.
 
 ## See Also
 

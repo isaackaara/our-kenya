@@ -15,12 +15,12 @@ The World Bank and international creditors, in pushing for privatisation and com
 The parastatal sector also demonstrated how Moi's regime operated through patronage networks rather than through rational bureaucratic procedures. Positions in parastatal management were valued not for the salaries they offered but for the access they provided to state resources and contracts. A position as chairman of Kenya Airways or KPLC was attractive precisely because it provided opportunities to direct contracts to politically connected businesses, to arrange loans or favours, and to accumulate wealth through mechanisms that appeared legitimate because they operated within the formal structure of a government enterprise.
 
 ## See Also
-[[Kenya/Parastatals]]
+[[Parastatals Kenya]]
 [[Moi Economic Policy 1978-1990]]
 [[Structural Adjustment Programs Kenya]]
 [[Kenya]]
-[[Kenya/Infrastructure Development]]
-[[Moi and International Donors]]
+[[Infrastructure Development]]
+[[Structural Adjustment Kenya]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

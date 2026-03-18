@@ -6,7 +6,7 @@ Berlin represents the culmination of Kenya's marathon economy: flat course, subs
 
 ## See Also
 
-- [[Kenya Atlas Overview|Kenya Athletics Overview]]
+- Kenya Athletics Overview
 - [[Kenya Marathon Majors|Kenya Marathon Majors]]
 - [[Paul Tergat|Paul Tergat]]
 - [[Wilson Kipsang|Wilson Kipsang]]

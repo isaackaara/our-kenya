@@ -7,13 +7,13 @@ Commercial pottery production supplies domestic markets, tourist markets, and co
 Contemporary Kenyan pottery encompasses both functional production and fine art ceramics. Potters work in varied contexts including village workshops, artist studios, galleries, and institutional settings. Contemporary pottery exhibitions recognize the medium as significant artistic practice. International appreciation of African pottery has elevated status and economic value of Kenyan practitioners. Contemporary potters maintain pottery heritage while developing individual artistic voices. The continued development of pottery tradition reflects its cultural significance and artistic possibilities. Pottery remains vital practice within Kenya's cultural landscape and contemporary art.
 
 ## See Also
-- [[Clay Working Techniques]]
-- [[Vessel Forms and Functions]]
-- [[Decorative Approaches Pottery]]
-- [[Wheel-Throwing Practice]]
-- [[Firing Traditions]]
-- [[Contemporary Ceramics]]
-- [[Craft Heritage Kenya]]
+- Clay Working Techniques
+- Vessel Forms and Functions
+- Decorative Approaches Pottery
+- Wheel-Throwing Practice
+- Firing Traditions
+- Contemporary Ceramics
+- Craft Heritage Kenya
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Pottery - Pottery History

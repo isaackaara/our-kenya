@@ -7,13 +7,13 @@ Art fairs and exhibitions create concentrated market opportunities where collect
 Art market dynamics reward certain work while marginalizing other practice. Market success depends partly on collector taste, gallery representation, and effective marketing beyond purely artistic quality. Young and emerging artists face particular challenges in establishing market presence. International collectors increasingly acquire contemporary Kenyan art, creating both opportunities and concerns about cultural ownership. Artist diversity in market success remains limited with certain genres and demographics achieving greater market visibility. The continued development of Kenya's art markets reflects growing cultural investment while persistent inequalities in market access remain.
 
 ## See Also
-- [[Contemporary Art Economics]]
-- [[Gallery Business Models]]
+- Contemporary Art Economics
+- Gallery Business Models
 - [[Collector Networks]]
-- [[Art Pricing and Valuation]]
-- [[Artist Representation]]
-- [[Commercial versus Artistic Value]]
-- [[International Art Markets]]
+- Art Pricing and Valuation
+- Artist Representation
+- Commercial versus Artistic Value
+- International Art Markets
 
 ## Sources
 1. https://www.artsy.net/article/artsy-editorial - Art Market Information

@@ -30,7 +30,7 @@ By the mid-2020s, Kenyan concert culture existed as fragmented ecosystem: premiu
 - [[Gengetone Movement|Gengetone Movement]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Sauti Sol|Sauti Sol]]
 
 ## Sources

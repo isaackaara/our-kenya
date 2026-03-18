@@ -27,7 +27,7 @@ The fundamental character of Kenyatta's economic policies was continuity with a 
 - [[Kenyatta Foreign Policy|Kenyatta Foreign Policy]]
 - [[Kenyatta Family Wealth|Kenyatta Family Wealth]]
 - [[Kenya Independence|Kenya Independence]]
-- [[../../Kenya Economy|Kenya Economy]]
+- Kenya Economy
 
 ## Sources
 

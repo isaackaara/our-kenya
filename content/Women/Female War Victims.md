@@ -25,8 +25,8 @@ Contemporary implications of post-election violence persist. Survivors continue 
 [[Gender-Based Violence]]
 [[Sexual Assault Response]]
 [[Women Mental Health]]
-[[Conflict and Violence]]
-[[Truth Justice and Reconciliation]]
+Conflict and Violence
+Truth Justice and Reconciliation
 
 ## Sources
 

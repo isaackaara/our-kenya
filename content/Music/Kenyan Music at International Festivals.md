@@ -10,7 +10,7 @@ European festivals, particularly those focused on world music and African cultur
 
 The economics of international festival performances created both opportunities and exploitation risks. Festival fees could significantly exceed what Kenyan artists earned domestically, making international appearances financially attractive. But travel costs, visa complications, and booking agent commissions ate into potential earnings. Artists without proper contracts or management could find themselves financially worse off after international tours despite appearing at prestigious venues.
 
-Festival circuit participation also required particular artistic presentations. Sets needed to work for audiences unfamiliar with [[Sheng Language and Kenyan Music|Sheng]], [[Cross-Ethnic/Nairobi Urban Identity|Nairobi]] cultural references, or Kenyan musical contexts. This often meant emphasizing instrumental elements, relying on rhythmic and melodic hooks that transcended language barriers, and providing accessible entry points for international audiences. Some artists resented these compromises as dumbing down their work; others saw them as practical adaptations necessary for cross-cultural communication.
+Festival circuit participation also required particular artistic presentations. Sets needed to work for audiences unfamiliar with [[Sheng Language and Kenyan Music|Sheng]], [[Nairobi Urban Identity|Nairobi]] cultural references, or Kenyan musical contexts. This often meant emphasizing instrumental elements, relying on rhythmic and melodic hooks that transcended language barriers, and providing accessible entry points for international audiences. Some artists resented these compromises as dumbing down their work; others saw them as practical adaptations necessary for cross-cultural communication.
 
 The [[Diaspora Kenyan Music|diaspora]] dimension complicated festival dynamics. Large Kenyan diaspora communities in UK, US, and other markets created built-in audiences for touring Kenyan artists, though these audiences often had different musical tastes than Kenya-based listeners. Diaspora audiences might prefer nostalgic sounds connecting them to memories of home over cutting-edge contemporary Kenyan music. Artists navigated these divergent expectations, sometimes creating different setlists for diaspora versus international festival audiences.
 
@@ -25,7 +25,7 @@ By the mid-2020s, Kenyan music's international festival presence remained limite
 - [[Ketebul Music and Preservation|Ketebul Music and Preservation]]
 - [[Diaspora Kenyan Music|Diaspora Kenyan Music]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Music Streaming and Kenyan Artists|Music Streaming and Kenyan Artists]]
 - [[Afrobeats Influence on Kenyan Music|Afrobeats Influence on Kenyan Music]]
 

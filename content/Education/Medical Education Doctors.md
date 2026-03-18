@@ -13,7 +13,7 @@ Clinical training sites were distributed unevenly across the country, with conce
 [[Education Finance Government]]
 [[Education Social Mobility]]
 [[Girls Education Access]]
-[[Health/Colonial and post-colonial medicine entry]]
+Colonial and post-colonial medicine entry
 
 ## Sources
 1. Court, D. and Kinyanjui, K. (1976). African Education: A Social and Institutional Analysis. Oxford University Press, pp. 267-289

@@ -25,8 +25,8 @@ Community relations with Tsavo East management have been complex, with pastoral 
 - [[Tsavo West National Park]]
 - [[Tsavo Man-Eaters]]
 - [[Conservation]]
-- [[National Parks Kenya]]
-- [[Tourism Kenya]]
+- [[Protected Areas Kenya]]
+- [[Tourism]]
 - [[Conservation]]
 
 ## Sources

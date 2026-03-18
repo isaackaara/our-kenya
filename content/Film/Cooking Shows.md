@@ -8,7 +8,7 @@ The representation of Kenyan and East African cuisines in cooking shows addresse
 
 Cooking shows adapted continuously to changing broadcast environments and audience preferences. Magazine-style cooking programs covered multiple recipes and diverse cuisines within single episodes. Celebrity chef formats emphasized personality alongside culinary skill. Competition-based cooking shows introduced game show elements, creating drama through timed challenges and performance pressure. Reality television elements incorporated personal narratives and relationship dynamics alongside cooking. These format variations maintained audience interest and justified sustained investment in cooking programming across diverse broadcasters.
 
-See Also: [[Entertainment Shows]], [[Lifestyle Programming]], [[Television Studios]], [[Talk Show History]], [[Sponsorship Deals]], [[Daytime Television]], [[Celebrity Culture]]
+See Also: [[Entertainment Shows]], Lifestyle Programming, [[Television Studios]], [[Talk Show History]], [[Sponsorship Deals]], [[Daytime Television]], Celebrity Culture
 
 Sources:
 1. https://www.culinary-association-kenya.org/

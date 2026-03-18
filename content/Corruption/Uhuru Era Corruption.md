@@ -1,6 +1,6 @@
 ## Overview
 
-The [[Uhuru Kenyatta]] presidency (2013-2022) was marked by tension between anti-corruption rhetoric and continued corruption at high levels of government. Major scandals ([[NYS Scandal]], [[KEMSA Scandal]], [[Eurobond Kenya]]) emerged during the era. The president campaigned on anti-corruption platforms while government officials implicated in major scandals often escaped prosecution.
+The [[Uhuru Kenyatta]] presidency (2013-2022) was marked by tension between anti-corruption rhetoric and continued corruption at high levels of government. Major scandals ([[NYS Scandal]], [[Kemsa Scandal]], [[Eurobond Kenya]]) emerged during the era. The president campaigned on anti-corruption platforms while government officials implicated in major scandals often escaped prosecution.
 
 ## Anti-Corruption Rhetoric vs. Implementation
 
@@ -53,11 +53,11 @@ Civil society organizations and opposition politicians have attempted to hold th
 ## See Also
 
 - [[NYS Scandal]] - flagship corruption scandal under Uhuru
-- [[KEMSA Scandal]] - COVID-era procurement fraud
+- [[Kemsa Scandal]] - COVID-era procurement fraud
 - [[NYS Scandal]] - persistent questions about fund use
 - [[SGR Procurement Opacity]] - infrastructure procurement concerns
 - [[County Government Corruption]] - decentralized corruption patterns
-- [[Political Interference in Prosecutions]] - how politics constrains justice
+- Political Interference in Prosecutions - how politics constrains justice
 - [[Transparency International Kenya]] - monitoring and reporting
 
 ## Sources

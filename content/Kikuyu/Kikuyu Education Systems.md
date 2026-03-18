@@ -28,7 +28,7 @@ By the 1920s-1930s, missionary school networks expanded. Some Kikuyu communities
 ## Kikuyu Independent Schools Movement
 
 ### Origins and Philosophy
-In the late 1920s, a distinctive Kikuyu independent schools movement emerged. The [[Kikuyu Independent Schools Association]] (KISA) established schools operated by Kikuyu communities, with curricula emphasizing [[Gikuyu Language|Kikuyu language]], history, and culture alongside colonial subjects.
+In the late 1920s, a distinctive Kikuyu independent schools movement emerged. The [[Kikuyu People and Culture]] (KISA) established schools operated by Kikuyu communities, with curricula emphasizing [[Gikuyu Language|Kikuyu language]], history, and culture alongside colonial subjects.
 
 This movement was driven by:
 - Concerns about missionary schools' emphasis on Christian conversion and cultural assimilation
@@ -97,7 +97,7 @@ However, challenges persist:
 
 ## See Also
 
-- [[Kikuyu Independent Schools Association]]
+- [[Kikuyu People and Culture]]
 - [[Githunguri Teachers College]]
 - [[Jomo Kenyatta]]
 - [[Gikuyu Language]]

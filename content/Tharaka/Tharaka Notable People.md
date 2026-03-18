@@ -22,7 +22,7 @@ Tharaka musicians, artists, and cultural practitioners have contributed to Kenya
 
 ## Religious Leadership
 
-Tharaka religious [[Tharaka Political [[Tharaka Timeline]]]], including Christian clergy, have been prominent in communities. Religious leaders have influenced Tharaka spiritual life and often engaged in community development initiatives.
+Tharaka religious Tharaka Political [[Tharaka Timeline]], including Christian clergy, have been prominent in communities. Religious leaders have influenced Tharaka spiritual life and often engaged in community development initiatives.
 
 ## Contemporary Leadership
 

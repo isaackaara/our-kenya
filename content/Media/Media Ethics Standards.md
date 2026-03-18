@@ -14,7 +14,7 @@ Journalist training and ethics education became part of professional development
 [[Media Independence Coverage]]
 [[Investigative Journalism]]
 [[Media Ownership Control]]
-[[Professional Standards]]
+Professional Standards
 
 ## Sources
 1. https://mediacouncil.or.ke/sites/default/files/regulations/Code%20of%20Conduct%20%20for%20the%20Practice%20of%20Journalism%20-%20Media%20Council%20Act%202013.pdf

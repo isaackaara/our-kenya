@@ -25,8 +25,8 @@ University-level education shows increasing female participation. Women comprise
 [[Female Education Barriers]]
 [[Gender Education Equality]]
 [[Childcare Early Development]]
-[[Teenage Pregnancy]]
-[[Education/Educational Quality]]
+Teenage Pregnancy
+Educational Quality
 
 ## Sources
 

@@ -8,7 +8,7 @@ Agricultural cooperatives are central to [[Meru County]]'s agricultural economy,
 
 ## Tea Cooperatives
 
-**KTDA Cooperatives**: [[Kenya Tea Development Authority|Kenya Tea Development Authority (KTDA)]] organizes smallholder [[Meru Tea|tea]] farmers. In Meru:
+**KTDA Cooperatives**: Kenya Tea Development Authority (KTDA) organizes smallholder [[Meru Tea|tea]] farmers. In Meru:
 
 - **Membership**: Thousands of tea farmers are members of KTDA cooperative branches
 - **Functions**: Provide extension services, deliver green leaf to factories, distribute payments
@@ -89,8 +89,8 @@ The health and effectiveness of Meru cooperatives significantly affects smallhol
 - [[Meru Tea]]
 - [[Meru Coffee]]
 - [[Meru Dairy Farming]]
-- [[Kenya Agricultural Cooperatives]]
-- [[Smallholder Farming Kenya]]
+- Kenya Agricultural Cooperatives
+- [[Smallholder Agriculture]]
 
 ---
 

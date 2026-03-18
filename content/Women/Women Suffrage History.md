@@ -1,6 +1,6 @@
 Women's access to electoral rights in Kenya followed a complex trajectory shaped by colonial law, nationalist politics, and post-independence state-building. Under British colonial rule, both African and European women were excluded from electoral participation; colonial "native administration" reserved political authority for male colonial officials and male ethnic leaders. African women held no voting rights in colonial elections, though women could own property and conduct business with formal restrictions.
 
-The path to women's political participation accelerated in the 1950s as Kenyan nationalism intensified. Women had been central to independence struggle, particularly in the [[Mau Mau Rebellion]] where women served as combatants, suppliers, and intelligence operatives. Yet the anticipated political gains from nationalist struggle did not materialize. Independent Kenya's 1964 Constitution established universal male adult suffrage (adult males at least 21 years old) but restricted women's voting rights to property holders, effectively excluding most women from electoral participation.
+The path to women's political participation accelerated in the 1950s as Kenyan nationalism intensified. Women had been central to independence struggle, particularly in the [[Mau Mau Uprising]] where women served as combatants, suppliers, and intelligence operatives. Yet the anticipated political gains from nationalist struggle did not materialize. Independent Kenya's 1964 Constitution established universal male adult suffrage (adult males at least 21 years old) but restricted women's voting rights to property holders, effectively excluding most women from electoral participation.
 
 This restricted suffrage created contradiction: women fighters had contributed to independence but were denied full political citizenship. Women activists protested, arguing that gender qualification violated democratic principles and that women constituted half the population entitled to representation. The restrictions on female voting were contested within Parliament, where the few female MPs who gained office (largely through appointment rather than election) argued against gender discrimination in voting.
 
@@ -19,8 +19,8 @@ Women's participation in electoral contests has steadily increased post-2010 as 
 [[Women Electoral Performance]]
 [[Female Government Representation]]
 [[Women Parliament Kenya]]
-[[Elections/Electoral Systems]]
-[[Mau Mau Rebellion]]
+Electoral Systems
+[[Mau Mau Uprising]]
 [[Constitutional Reform 2010]]
 
 ## Sources

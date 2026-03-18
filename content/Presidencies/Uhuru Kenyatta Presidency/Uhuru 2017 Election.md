@@ -54,12 +54,12 @@ The cycle also contributed to Uhuru's later pivot toward Raila (the handshake), 
 
 ## See Also
 
-- [[2013 Kenyan Election]]
-- [[Supreme Court of Kenya]]
+- [[2013 Presidential Election]]
+- [[Kenya Constitution 2010]]
 - [[Raila Odinga]]
 - [[Jubilee Party]]
-- [[Independent Electoral and Boundaries Commission]]
-- [[Post-Election Violence (2007-2008)]]
+- Independent Electoral and Boundaries Commission
+- Post-Election Violence (2007-2008)
 - [[The Kenyan Constitution 2010]]
 - [[Uhuru Handshake]]
 

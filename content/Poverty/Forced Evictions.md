@@ -9,7 +9,7 @@ The humanitarian consequences of forced eviction are severe. Immediately after e
 The legal and human rights frameworks protecting against forced eviction are established in international law and some national law, but enforcement is weak. The International Covenant on Economic, Social and Cultural Rights prohibits forced evictions. Kenya's Constitution protects property rights and human dignity. However, implementation is limited: authorities conduct evictions despite legal prohibitions; victims lack access to justice; remedies are minimal. Civil society organizations document violations; international organizations call for protection; however, systematic eviction patterns persist. Fundamental prevention would require political commitment to housing rights, adequate housing provision and protection of tenure, and accountability for officials conducting unauthorized evictions.
 
 ## See Also
-[[Eviction Displacement]], [[Housing Poverty]], [[Slum Expansion]], [[Human Rights Military Operations]], [[Land Ownership Disputes]], [[Trauma Poverty]], [[Access to Justice]], [[Constitutional Rights]]
+[[Eviction Displacement]], [[Housing Poverty]], [[Slum Expansion]], [[Human Rights Military Operations]], [[Land Ownership Disputes]], [[Trauma Poverty]], Access to Justice, [[Constitutional Rights Kenya]]
 
 ## Sources
 1. United Nations Office of the High Commissioner for Human Rights (2014). "Forced Evictions: Updated General Comment on the Right to Adequate Housing." https://www.ohchr.org

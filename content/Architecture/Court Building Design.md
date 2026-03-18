@@ -12,7 +12,7 @@ Specialized courts requiring particular spatial organizations emerged post-indep
 
 ## See Also
 
-[[Colonial Administrative Buildings]], [[Government House]], [[Parliament Building]], [[Police Headquarters]], [[Nairobi Built Environment]], [[Colonial Architecture]], [[Law and Justice]]
+[[Colonial Administrative Buildings]], [[Government House]], [[Parliament Building]], [[Police Headquarters]], [[Nairobi Built Environment]], [[Colonial Architecture]], Law and Justice
 
 ## Sources
 

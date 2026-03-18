@@ -10,9 +10,9 @@ By 2024-2025, the housing levy remained in partial suspension pending final cour
 
 ## See Also
 [[Ruto Affordable Housing Levy and Program]]
-[[Housing Access and Affordability Kenya]]
-[[Taxation and Constitutional Law Kenya]]
-[[Labor Relations Housing Policy]]
+Housing Access and Affordability Kenya
+Taxation and Constitutional Law Kenya
+Labor Relations Housing Policy
 [[Affordable Housing]]
 [[Development Aid]]
 

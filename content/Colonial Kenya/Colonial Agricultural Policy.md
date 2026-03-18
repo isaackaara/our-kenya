@@ -18,7 +18,7 @@ Labor policy integrated with agricultural policy to ensure cheap labor availabil
 [[Colonial Native Reserves]]
 [[Forced Labor Colonial]]
 [[Land Alienation]]
-[[Swynnerton Plan]]
+Swynnerton Plan
 
 ## Sources
 

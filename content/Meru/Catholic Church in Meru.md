@@ -8,7 +8,7 @@ The Catholic Church has been the dominant religious and social institution in Me
 
 ## Consolata Missionaries
 
-The [[Consolata Missionaries|Consolata Fathers]], a missionary order from Turin, Italy, established their presence in Meru between 1911 and 1913:
+The Consolata Fathers, a missionary order from Turin, Italy, established their presence in Meru between 1911 and 1913:
 
 - Established mission stations across Imenti, Igoji, Igembe, Tigania, Mikinduri, and other regions
 - Built schools and training centers
@@ -30,7 +30,7 @@ Education access through Catholic schools created an educated Meru class that sh
 
 ## Religious Conversion
 
-The Catholic missions converted substantial portions of the [[Meru people]] population:
+The Catholic missions converted substantial portions of the [[Meru People]] population:
 
 - By independence, the majority of Meru were nominally Christian
 - The Catholic Church became the dominant denomination

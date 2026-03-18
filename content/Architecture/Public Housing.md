@@ -16,7 +16,7 @@ Contemporary public housing initiatives represent continuing government attempts
 [[Affordable Housing]]
 [[Private Real Estate]]
 [[Residential Architecture]]
-[[Government Housing Scheme]]
+Government Housing Scheme
 [[Poverty]]
 [[Urban Planning Development]]
 

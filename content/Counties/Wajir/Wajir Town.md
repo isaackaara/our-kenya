@@ -35,7 +35,7 @@ The town's future depends significantly on broader regional stability, improved 
 - [[Wajir Pastoralism]]
 - [[Wajir Livestock Trade]]
 - [[Wajir Real Estate]]
-- [[Wajir Commerce]]
+- [[North Eastern Province]]
 - [[Wajir Infrastructure]]
 
 ## Sources

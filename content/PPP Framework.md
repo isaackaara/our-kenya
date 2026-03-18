@@ -6,7 +6,7 @@ The context of ppp framework illuminates how local, regional, and national scale
 
 ## See Also
 
-[[Policy]], [[Kenya History]], [[Historical Development]]
+Policy, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

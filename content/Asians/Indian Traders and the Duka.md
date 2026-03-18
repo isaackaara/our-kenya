@@ -25,4 +25,4 @@ The duka owner occupied an ambiguous space. He might be trusted by African custo
 - [[Asians at Independence]]
 - [[Gujarati Dominance in Business]]
 - [[Indians Who Stayed After the Railway]]
-- [[Index]]
+- [[index]]

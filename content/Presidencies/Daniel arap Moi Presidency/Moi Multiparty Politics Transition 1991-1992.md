@@ -15,8 +15,8 @@ The opposition parties that emerged to compete with KANU in 1992 were fragmented
 The 1992-1997 period saw KANU and Moi consolidate their control under the framework of formal multiparty democracy. The regime could point to elections as evidence of democracy while manipulating electoral processes, suppressing opposition voice through security force deployment, and maintaining control through the patronage networks that had been developed during the single-party era. The transition to multiparty democracy, rather than displacing Moi, thus became a mechanism through which he consolidated authoritarian control while acquiring the legitimacy that multiparty elections provided.
 
 ## See Also
-[[Kenya/Multiparty Transition]]
-[[Elections/1992 General Election]]
+[[Multiparty Transition]]
+1992 General Election
 [[FORD Formation]]
 [[Section 2A Repeal 1991]]
 [[Moi and the Opposition]]

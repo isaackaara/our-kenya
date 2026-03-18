@@ -22,9 +22,9 @@ The devolution provisions of the 2010 constitution created new opportunities and
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Constitution of Kenya 2010|Kenya 2010 Constitution]]
-- [[Kenya Constitutional Reform|Kenya Constitutional Reform]]
-- [[Kenya Devolved Government|Kenya Devolved Government]]
-- [[Kenya Governance Structures|Kenya Governance Structures]]
+- [[Constitutional Reform 2010|Kenya Constitutional Reform]]
+- Kenya Devolved Government
+- Kenya Governance Structures
 
 ## Sources
 

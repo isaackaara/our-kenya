@@ -7,7 +7,7 @@ tags: kisii gusii witchcraft accusations mob killing burning
 
 ## Witchcraft in Traditional Cosmology
 
-In traditional Gusii cosmology, [[witchcraft]] (omorogi) was understood as a real, dangerous spiritual force. Witches (abarogi) were believed to possess supernatural powers enabling them to harm others through spiritual means, causing illness, death, infertility, or misfortune.
+In traditional Gusii cosmology, witchcraft (omorogi) was understood as a real, dangerous spiritual force. Witches (abarogi) were believed to possess supernatural powers enabling them to harm others through spiritual means, causing illness, death, infertility, or misfortune.
 
 **Characteristics of witchcraft beliefs:**
 

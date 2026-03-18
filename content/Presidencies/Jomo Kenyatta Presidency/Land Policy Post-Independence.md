@@ -1,6 +1,6 @@
 Land was the central promise and the central betrayal of Kenyan independence. The nationalist movement had mobilized peasants with the slogan "land and freedom," promising that independence would return stolen land to those who had been dispossessed by colonial settlers. Instead, Jomo Kenyatta's government adopted a "willing buyer, willing seller" policy that allowed those with capital and political connections to purchase former White Highlands farmland, creating a new landed elite while leaving millions of landless Kenyans with nothing but bitterness.
 
-The colonial legacy was brutal. Beginning in the early 20th century, British settlers had appropriated the most fertile land in Kenya, creating the White Highlands where large-scale European farms produced coffee, tea, wheat, and livestock for export. Indigenous communities, particularly the [[Kikuyu/Kikuyu Land Grievances|Kikuyu]], were dispossessed and confined to overcrowded reserves. Land hunger and the promise of recovering stolen land fueled the Mau Mau rebellion and the independence struggle.
+The colonial legacy was brutal. Beginning in the early 20th century, British settlers had appropriated the most fertile land in Kenya, creating the White Highlands where large-scale European farms produced coffee, tea, wheat, and livestock for export. Indigenous communities, particularly the [[Land Alienation|Kikuyu]], were dispossessed and confined to overcrowded reserves. Land hunger and the promise of recovering stolen land fueled the Mau Mau rebellion and the independence struggle.
 
 When independence approached, radical nationalists like [[Kenyatta and Oginga Odinga|Oginga Odinga]] and Bildad Kaggia demanded immediate land redistribution without compensation. They argued that the land had been stolen through violence and that its return should not require payment. But Kenyatta, supported by [[James Gichuru]] and the moderate wing of [[KANU One-Party Dominance|KANU]], rejected this approach. The willing buyer, willing seller policy, negotiated with Britain in the Lancaster House talks, required that land transfers be market-based, with the Kenyan government purchasing farms from departing settlers and reselling them to Africans.
 
@@ -29,8 +29,8 @@ Land policy under Kenyatta established the pattern of elite accumulation disguis
 - [[Kenya People's Union Formation]]
 - [[James Gichuru]]
 - [[Harambee Development Model]]
-- [[Kikuyu/Kikuyu Land Grievances]]
-- [[Cross-Ethnic/Kikuyu-Kalenjin Relations]]
+- [[Land Alienation]]
+- [[Kikuyu-Kalenjin Alliance]]
 
 ## Sources
 1. Okoth-Ogendo, H.W.O. *Tenants of the Crown: Evolution of Agrarian Law and Institutions in Kenya*. African Centre for Technology Studies, 1991. https://www.worldcat.org/title/tenants-of-the-crown/oclc/26857237

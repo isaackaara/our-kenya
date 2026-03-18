@@ -11,11 +11,11 @@ His performance at Tambach was solid enough to secure employment as a teacher in
 The mission education system that produced Moi was designed to create compliant subjects, not critics or reformers. Moi internalised this logic deeply. Even when he later positioned himself as a nationalist during Kenya's independence struggle, his nationalism operated within the framework of order, hierarchy, and deference to authority that mission schools had instilled. His education made him a creature of the colonial system even as he formally opposed colonialism.
 
 ## See Also
-[[Kalenjin/Mission Education]]
-[[Colonial Kenya/Education Policy]]
+Mission Education
+Education Policy
 [[Moi Rise to Power]]
 [[Moi and Education]]
-[[Colonial Kenya/African Administration]]
+African Administration
 [[Moi Personal Style and Image]]
 
 ## Sources

@@ -46,7 +46,7 @@ As of 2026, many Kenyan Asians (even those born in Kenya) maintain foreign passp
 - [[Africanisation and Asian Business]]
 - [[Asian Kenyans Today]]
 - [[Asian Kenyans Under Colonial Rule]]
-- [[Commonwealth Immigrants Act]]
+- Commonwealth Immigrants Act
 
 ## Sources
 

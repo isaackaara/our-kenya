@@ -19,10 +19,10 @@ Post-independence governments inherited colonial museums and collections. Contem
 ## See Also
 [[Colonial Archives]]
 [[Colonial Photography]]
-[[Colonial Anthropology]]
-[[Cultural Heritage and Colonialism]]
-[[Museum Repatriation]]
-[[Post-Colonial Museums]]
+Colonial Anthropology
+Cultural Heritage and Colonialism
+Museum Repatriation
+Post-Colonial Museums
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

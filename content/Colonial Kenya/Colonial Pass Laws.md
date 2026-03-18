@@ -20,7 +20,7 @@ By the 1950s, the pass laws had become major targets of African nationalist resi
 [[Colonial Identification Systems]]
 [[Colonial Curfews]]
 [[Colonial Migration Control]]
-[[Colonial Surveillance]]
+Colonial Surveillance
 [[Mau Mau Uprising]]
 [[Anti-Colonial Resistance]]
 

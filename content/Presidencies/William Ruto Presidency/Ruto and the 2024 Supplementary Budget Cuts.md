@@ -10,11 +10,11 @@ By 2024-2025, the supplementary budget cuts had become emblematic of Ruto's gove
 
 ## See Also
 [[Ruto Second Budget and Austerity]]
-[[IMF Program Kenya Conditionality]]
-[[Government Revenue and Debt Service]]
+IMF Program Kenya Conditionality
+Government Revenue and Debt Service
 [[Development Aid]]
 [[Public Art]]
-[[Fiscal Consolidation and Social Protection]]
+Fiscal Consolidation and Social Protection
 
 ## Sources
 1. https://www.standardmedia.co.ke/business/article/2001425789-ruto-supplementary-budget-cuts-2024

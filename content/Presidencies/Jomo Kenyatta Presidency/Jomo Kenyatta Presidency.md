@@ -1,6 +1,6 @@
 The presidency of Jomo Kenyatta from 1963 to 1978 marked Kenya's transition from colonial possession to independent nation-state. As the country's first president, Kenyatta presided over the crucial period of nation-building that would set the trajectory for decades to come. His tenure was characterized by the pursuit of national unity under the rallying cry of "Harambee" (pulling together), yet it was also marked by significant contradictions between rhetoric and reality.
 
-Kenyatta brought considerable symbolic weight to independence. His detention by the British colonial authorities at [[Kapenguria|Kenyatta Detention Legacy]] from 1952 to 1961 had made him a nationalist symbol, and his release and ascension to leadership was welcomed as the crowning moment of the anti-colonial struggle. Yet his presidency would evolve into something more complex and contested than many independence-era nationalists had envisioned.
+Kenyatta brought considerable symbolic weight to independence. His detention by the British colonial authorities at Kenyatta Detention Legacy from 1952 to 1961 had made him a nationalist symbol, and his release and ascension to leadership was welcomed as the crowning moment of the anti-colonial struggle. Yet his presidency would evolve into something more complex and contested than many independence-era nationalists had envisioned.
 
 The Kenyatta years saw rapid consolidation of state power, construction of institutional frameworks, and establishment of Kenya's position in the Cold War. However, they also witnessed the suppression of political opposition, the marginalisation of certain ethnic groups, and the concentration of wealth among a narrow elite, particularly those close to the president and those from his Kikuyu community.
 
@@ -39,7 +39,7 @@ Kenyatta's answers to these questions proved deeply consequential. His emphasis 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Kenya Independence|Kenya Independence]]
 - [[Harambee|Harambee]]
-- [[../../Kenya Land Reform|Kenya Land Reform]]
+- [[Kenya Land Reform|Kenya Land Reform]]
 
 ## Sources
 

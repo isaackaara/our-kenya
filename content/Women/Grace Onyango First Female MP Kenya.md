@@ -25,7 +25,7 @@ Contemporary historians and feminist scholars have revisited Onyango's significa
 [[Women Parliament Kenya]]
 [[Female Government Representation]]
 [[Women Politics Electoral]]
-[[Multi-Party Democracy Kenya]]
+Multi-Party Democracy Kenya
 [[Women Leadership Capacity]]
 [[Gender Electoral Quotas]]
 

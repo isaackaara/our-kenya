@@ -87,7 +87,7 @@ The shift away from traditional circumcision represents a significant cultural c
 - [[Kisii Age Sets]] - age cohort formation through initiation
 - [[Kisii Birth and Naming]] - complementary life transitions
 - [[Female genital cutting in Kenya]] - contemporary health and rights context
-- [[Male initiation in African societies]] - comparative ritual analysis
+- Male initiation in African societies - comparative ritual analysis
 - [[Gusii Music Deep Dive]] - ceremonial music accompaniment
 - [[Kisii Dance]] - dance in initiation ceremonies
 

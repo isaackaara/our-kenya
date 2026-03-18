@@ -10,7 +10,7 @@ The ngorowe was a primary rainmaking ritual performed during severe droughts. Th
 
 ## Sacred Sites
 
-Rainmaking ceremonies took place at specific locations considered particularly receptive to prayer. The [[Mugumo tree]] (sacred fig tree) was a primary site, but certain groves, springs, and ridge-top clearings also served as focal points. These sites were chosen for their proximity to Mount Kenya or their historical association with successful rains.
+Rainmaking ceremonies took place at specific locations considered particularly receptive to prayer. The [[Mugumo Tree]] (sacred fig tree) was a primary site, but certain groves, springs, and ridge-top clearings also served as focal points. These sites were chosen for their proximity to Mount Kenya or their historical association with successful rains.
 
 ## Women's Role in Rainmaking
 

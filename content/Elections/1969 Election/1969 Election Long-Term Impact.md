@@ -13,11 +13,11 @@ The 1969 election's suppression of opposition and consolidation of authoritarian
 ## See Also
 
 - [[1969 Election]]
-- [[Single-Party State Kenya]]
+- [[KANU]]
 - [[Moi Succession 1978]]
 - [[Luo Political History]]
 - [[The Return Gap]]
-- [[Long-Term Electoral Impacts]]
+- Long-Term Electoral Impacts
 - [[Kenya]]
 
 ## Sources

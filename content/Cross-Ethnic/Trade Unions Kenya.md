@@ -1,4 +1,4 @@
-The [[Labour]] in [[Kenya]] has historically operated as a [[cross-ethnic institution]], with workers from different ethnic backgrounds joining unions based on industry or occupation rather than on ethnic affiliation. [[Trade Unions Kenya]] emphasize [[class solidarity]], asserting that workers share common interests transcending ethnic divisions. The labour movement's cross-ethnic character demonstrates the possibilities for organizing around shared economic interests.
+The [[Labour]] in [[Kenya]] has historically operated as a cross-ethnic institution, with workers from different ethnic backgrounds joining unions based on industry or occupation rather than on ethnic affiliation. [[Trade Unions Kenya]] emphasize class solidarity, asserting that workers share common interests transcending ethnic divisions. The labour movement's cross-ethnic character demonstrates the possibilities for organizing around shared economic interests.
 
 The Central Organization of Trade Unions (COTU), established in 1965 at independence, served as the umbrella organization for Kenya's trade unions. COTU's membership included workers from all ethnic backgrounds. The organization's advocacy for workers' rights operated across ethnic lines. Union leadership included people from diverse ethnic communities.
 
@@ -10,14 +10,14 @@ However, the labour movement has not been entirely immune to ethnic politics. Un
 
 The labour movement has been historically important in pro-democracy mobilization. Unions participated in the Second Liberation movement of 1990-1991, organizing workers across ethnic lines in demand for democratic reform. Union-based solidarity created cross-ethnic political consciousness. Labour movements have similarly mobilized around specific economic grievances in ways transcending ethnic boundaries.
 
-Contemporary Kenya's labour movement continues to operate as a [[cross-ethnic institution]], though weakened by liberalization and casualization of labor. Informal workers and gig economy workers remain largely unorganized. Nevertheless, formal sector unions continue to provide models of [[cross-ethnic working-class organization]].
+Contemporary Kenya's labour movement continues to operate as a cross-ethnic institution, though weakened by liberalization and casualization of labor. Informal workers and gig economy workers remain largely unorganized. Nevertheless, formal sector unions continue to provide models of cross-ethnic working-class organization.
 
 ## See Also
 
 - [[The Second Liberation]]
 - [[Economic Interdependence Kenya]]
-- [[Class and Ethnic Identity]]
-- [[Workers' Rights Kenya]]
+- Class and Ethnic Identity
+- Workers' Rights Kenya
 - [[Informal Economy Kenya]]
 
 ## Sources

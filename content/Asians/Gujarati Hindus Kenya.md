@@ -39,7 +39,7 @@ Gujarati Hindus have faced discrimination in [[Asians in Colonial Kenya|colonial
 - [[Hindu Temples Kenya]]
 - [[Indian Traders and the Duka]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

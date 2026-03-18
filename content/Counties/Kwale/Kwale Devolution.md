@@ -23,7 +23,7 @@ Development progress varies by function, with some services improving while othe
 - [[Kwale Infrastructure|Kwale Infrastructure]]
 - [[Kwale Health|Kwale Health]]
 - [[Kwale Education|Kwale Education]]
-- [[../../Kenya National Government|Kenya National Government]]
+- Kenya National Government
 
 ## Sources
 

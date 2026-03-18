@@ -20,7 +20,7 @@ The coalition lasted less than two years as a functional entity. Kibaki's failur
 - [[Luo]]
 - [[2007 Election Disputed Results]]
 - [[Daniel arap Moi Presidency]]
-- [[Elections in Kenya]]
+- [[Elections]]
 
 ## Sources
 1. Kagwanja, Peter, and Roger Southall. "Introduction: Kenya - A Democracy in Retreat?" *Journal of Contemporary African Studies* 27, no. 3 (2009): 259-277. https://www.tandfonline.com/journals/cjca20

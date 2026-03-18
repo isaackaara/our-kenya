@@ -1,4 +1,4 @@
-[[Mijikenda]] engage in various craft production, including basketry, [[Pottery Tradition]], [[woodworking]], and other crafts. These crafts are economically important, culturally significant, and increasingly directed toward tourist markets. Craft production represents both traditional cultural practice and contemporary economic survival strategy.
+[[Mijikenda]] engage in various craft production, including basketry, [[Pottery Tradition]], woodworking, and other crafts. These crafts are economically important, culturally significant, and increasingly directed toward tourist markets. Craft production represents both traditional cultural practice and contemporary economic survival strategy.
 
 ## Basketry and Weaving
 
@@ -14,7 +14,7 @@ Some Mjikenda engage in woodworking and carving, producing items for domestic us
 
 ## Traditional Knowledge and Techniques
 
-Craft production is based on traditional knowledge about materials, techniques, and aesthetics. This knowledge is transmitted from [[elders]] to younger artisans through [[Apprenticeship Systems]] and observation. Knowledge includes understanding of plants and materials (which plants are suitable for basketry, where to find materials, when to harvest), techniques of working materials, and design aesthetics. Loss of traditional knowledge threatens craft continuation.
+Craft production is based on traditional knowledge about materials, techniques, and aesthetics. This knowledge is transmitted from elders to younger artisans through [[Apprenticeship Systems]] and observation. Knowledge includes understanding of plants and materials (which plants are suitable for basketry, where to find materials, when to harvest), techniques of working materials, and design aesthetics. Loss of traditional knowledge threatens craft continuation.
 
 ## Economic Importance
 
@@ -26,7 +26,7 @@ Some crafts are produced primarily for domestic and ceremonial use. Sacred objec
 
 ## Tourist Markets and Commercialization
 
-The development of coastal [[tourism]] has created markets for Mjikenda crafts. Tourists purchase baskets, pottery, carvings, and other items as souvenirs. The expansion of tourist markets has increased craft production in some areas. However, commercialization of crafts has sometimes resulted in quality decline or loss of traditional elements as crafts are adapted for tourist taste. The relationship between commercial craft production and cultural heritage is complex and contested.
+The development of coastal [[Tourism]] has created markets for Mjikenda crafts. Tourists purchase baskets, pottery, carvings, and other items as souvenirs. The expansion of tourist markets has increased craft production in some areas. However, commercialization of crafts has sometimes resulted in quality decline or loss of traditional elements as crafts are adapted for tourist taste. The relationship between commercial craft production and cultural heritage is complex and contested.
 
 ## Gendered Craft Production
 

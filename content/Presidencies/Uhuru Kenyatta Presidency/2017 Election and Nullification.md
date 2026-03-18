@@ -11,14 +11,14 @@ Uhuru's initial response was furious. In a press conference after the ruling, he
 The nullification had profound consequences beyond the immediate electoral crisis. It established that Kenya's Supreme Court would not rubber-stamp presidential elections, setting a standard that reverberated across Africa. It demonstrated that the [[Kikuyu]] political establishment, despite its economic and political power, could not control all institutions. It forced a conversation about electoral technology and whether expensive systems improved or complicated electoral credibility. And it set the stage for the [[2017 Repeat Election and Raila Boycott|October 2017 repeat election]], which would test whether judicial independence could survive political pressure.
 
 ## See Also
-- [[Elections/2017 Presidential Election]]
+- [[2017 Presidential Election]]
 - [[David Maraga and Uhuru]]
 - [[Raila Odinga]]
 - [[Uhuru and the Judiciary]]
 - [[2013 Election and Supreme Court]]
 - [[2017 Repeat Election and Raila Boycott]]
-- [[Elections/Electoral Reforms]]
-- [[Kikuyu/Kikuyu Political Power]]
+- Electoral Reforms
+- [[Kikuyu Political Power]]
 
 ## Sources
 1. "Supreme Court of Kenya Judgment: Raila Odinga & 2 Others v. IEBC & 2 Others," Petition No. 1 of 2017, September 1, 2017. http://kenyalaw.org/caselaw/cases/view/140116/

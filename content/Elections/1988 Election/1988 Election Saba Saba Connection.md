@@ -3,7 +3,7 @@ The Saba Saba (seven-seven) riot of July 7, 1990, was directly connected to the 
 ## See Also
 - [[1988 Election]]
 - [[Saba Saba 1990]]
-- [[July 7 1990]]
+- July 7 1990
 - [[Second Liberation Music Kenya]]
 - [[Kenya]]
 - [[Daniel arap Moi]]

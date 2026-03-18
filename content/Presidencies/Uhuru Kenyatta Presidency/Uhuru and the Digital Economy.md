@@ -10,14 +10,14 @@ Digital financial services expanded dramatically during Uhuru's presidency, buil
 
 Kenya's positioning as a tech hub saw genuine achievements: Nairobi's iHub and other innovation spaces supported startups, international tech companies (Microsoft, Google, IBM) established regional offices in Kenya, and the government invested in broadband infrastructure through the National Optic Fiber Backbone. Tech entrepreneurship flourished, with Kenyan startups raising significant venture capital and scaling across Africa. However, the ecosystem remained concentrated in Nairobi, accessible primarily to elite educated youth, and limited in its impact on mass employment or broad-based economic transformation. The narrative of Kenya as "Silicon Savannah" obscured persistent digital divides: millions lacked internet access, digital literacy remained low in rural areas, and the benefits of the digital economy accrued primarily to a small urban middle class.
 
-The darker side of Uhuru's digital economy agenda was increased surveillance and digital authoritism. The government invested heavily in surveillance infrastructure, including CCTV networks in major cities and internet monitoring capabilities. During [[Elections/2017 Presidential Election|the 2017 election crisis]], the government shut down live television coverage of opposition activities. Social media users faced arrest for critical posts. The Huduma Namba database, combined with surveillance technologies, created infrastructure for a potential surveillance state. While Kenya remained more open than authoritarian neighbors, the trajectory suggested that digital technologies were being deployed as tools of control alongside their developmental and commercial uses.
+The darker side of Uhuru's digital economy agenda was increased surveillance and digital authoritism. The government invested heavily in surveillance infrastructure, including CCTV networks in major cities and internet monitoring capabilities. During [[2017 Presidential Election|the 2017 election crisis]], the government shut down live television coverage of opposition activities. Social media users faced arrest for critical posts. The Huduma Namba database, combined with surveillance technologies, created infrastructure for a potential surveillance state. While Kenya remained more open than authoritarian neighbors, the trajectory suggested that digital technologies were being deployed as tools of control alongside their developmental and commercial uses.
 
 ## See Also
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru Big Four Agenda]]
-- [[Elections/2017 Presidential Election]]
+- [[2017 Presidential Election]]
 - [[Uhuru Economic Record]]
-- [[Corruption/Mega-Projects]]
+- [[mega-projects]]
 - [[2017 Election and Nullification]]
 - [[Uhuru and the Judiciary]]
 - [[Uhuru Legacy Assessment]]

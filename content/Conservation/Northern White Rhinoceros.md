@@ -1,6 +1,6 @@
 # Northern White Rhinoceros
 
-The [[northern white rhinoceros]] represents conservation's ultimate failure: a species driven to functional extinction despite extraordinary conservation effort, illustrating the limits of protection when extinction momentum overwhelms intervention capacity. Kenya's [[Ol Pejeta Conservancy]] became the final refuge for the species, housing the last surviving individuals and breeding programs attempting impossible species preservation.
+The [[Northern White Rhinoceros]] represents conservation's ultimate failure: a species driven to functional extinction despite extraordinary conservation effort, illustrating the limits of protection when extinction momentum overwhelms intervention capacity. Kenya's [[Ol Pejeta Conservancy]] became the final refuge for the species, housing the last surviving individuals and breeding programs attempting impossible species preservation.
 
 The northern white rhino formerly ranged across southern Sudan, Uganda, and the Democratic Republic of Congo, existing in populations numbering in the thousands during the colonial period. However, habitat fragmentation, conflict, and organized poaching decimated populations through the 20th century. The species declined from approximately 2,000 individuals in 1960 to 500 by 1980 to 50 by 2000 to fewer than 10 by 2010.
 
@@ -26,9 +26,9 @@ The northern white rhino's near-extinction also reveals conservation's dependenc
 - [[Black Rhinoceros Kenya]] - Related species experiencing partial recovery
 - [[Rhino Conservation Kenya]] - Comparative species conservation outcomes
 - [[1988 Elephant Massacre]] - Conservation catalyst moment that did not prevent rhino extinction
-- [[Conservation Effectiveness Kenya]] - Evaluating limits of conservation institutions
+- [[Conservation]] - Evaluating limits of conservation institutions
 - [[Kenya Wildlife Service]] - Government conservation institutions
-- [[International Rhino Foundation]] - Global rhino conservation organization
+- International Rhino Foundation - Global rhino conservation organization
 
 ## Sources
 

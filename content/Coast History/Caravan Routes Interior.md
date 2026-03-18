@@ -13,7 +13,7 @@ The routes' strategic importance meant that control over them became a source of
 [[Slave Trade Coast]]
 [[Mombasa Old Town]]
 [[Lamu Archipelago Settlement]]
-[[Indian Ocean World]]
+[[The Indian Ocean World]]
 [[Coastal Settlements]]
 [[Monsoon Economy Trade]]
 

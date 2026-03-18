@@ -2,7 +2,7 @@ Elspeth Joscelin Huxley (1907-1997) was a British author, journalist, and produc
 
 ## Early Life in Kenya
 
-Elspeth was born in 1907 in Kenya. Her parents were settlers: her father, Joscelin Huxley, was a farmer and her mother was Joyce Bingley. Elspeth spent her early childhood on her parents' coffee farm at [[Thika]], in the region north of Nairobi. This childhood experience became the basis for "The Flame Trees of Thika," her most famous work.
+Elspeth was born in 1907 in Kenya. Her parents were settlers: her father, Joscelin Huxley, was a farmer and her mother was Joyce Bingley. Elspeth spent her early childhood on her parents' coffee farm at Thika, in the region north of Nairobi. This childhood experience became the basis for "The Flame Trees of Thika," her most famous work.
 
 Her childhood years (approximately 1912-1919, when she was ages 5-12) coincided with World War I and the early establishment of settler Kenya. She witnessed the transition from early, struggling settlement to a more established settler community. The Thika region was a frontier area, with settlers clearing land and establishing farms.
 
@@ -50,11 +50,11 @@ Historians recognize Huxley's work as a valuable source for understanding settle
 
 ## See Also
 
-- [[The Flame Trees of Thika]] - Her most famous memoir
-- [[White Man's Country]] - Biography of Lord Delamere
+- The Flame Trees of Thika - Her most famous memoir
+- White Man's Country - Biography of Lord Delamere
 - [[Karen Blixen]] - Contemporary settler chronicler
 - [[European Settlement Overview]] - Settler timeline
-- [[Thika Region]] - Her childhood location
+- Thika Region - Her childhood location
 - [[Happy Valley Set]] - Settler society depicted
 - [[Lancaster House and Departure]] - Independence and settler departure
 - [[Settler Nostalgia]] - Critique of romantic settler narratives

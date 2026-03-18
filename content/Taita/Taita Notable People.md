@@ -35,7 +35,7 @@ Documentation of notable Taita individuals has been limited, and many figures wh
 
 ## See Also
 
-- [[Taita History]]
+- [[Mijikenda]]
 - [[Taita Colonial History]]
 - [[Taita in National Politics]]
 - [[Taita Diaspora]]

@@ -15,10 +15,10 @@ Moi's engagement with South Africa also reflected his broader positioning as a r
 The contrast between Mandela's approach to truth and reconciliation and Moi's avoidance of accountability for his human rights abuses highlighted different trajectories of post-authoritarian transitions. Mandela's legacy was built partly on the relative success of the Truth and Reconciliation Commission in acknowledging past crimes while maintaining social cohesion. Moi's legacy was marked by the absence of comparable mechanisms and by continuing contestation over the nature and extent of crimes committed during his regime. The difference reflected both the specific political contexts of the two countries and the choices made by their respective leaders about how to address authoritarian pasts.
 
 ## See Also
-[[Kenya/Foreign Policy]]
+[[Foreign Policy]]
 [[Moi Foreign Policy]]
 [[Legacy]]
-[[Kenya/Truth and Reconciliation]]
+[[Truth and Reconciliation]]
 [[Moi and Uganda]]
 [[Moi Post-Presidency]]
 

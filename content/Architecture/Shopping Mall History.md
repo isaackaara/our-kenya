@@ -14,7 +14,7 @@ The expansion of digital commerce and COVID-19 disruptions have created retail c
 
 ## See Also
 
-[[Commercial Building]], [[Nairobi Built Environment]], [[Informal Market Structures]], [[Market Architecture]], [[Urban Planning Development]], [[Modern Construction Techniques]], [[Entertainment Facilities]]
+[[Commercial Building]], [[Nairobi Built Environment]], [[Informal Market Structures]], [[Market Architecture]], [[Urban Planning Development]], [[Modern Construction Techniques]], Entertainment Facilities
 
 ## Sources
 

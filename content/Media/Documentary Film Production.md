@@ -9,12 +9,12 @@ Kenya also became a location for international film and documentary production, 
 Documentary filmmaking in contemporary Kenya reflects the medium's evolution from colonial propaganda to diverse vehicles for storytelling and social commentary. The medium offers opportunities for journalists, artists, and social commentators to explore complex themes through visual narrative. The development of Kenyan documentary production capacity represents broader patterns in which Kenya's cultural industries have matured and professionalized, creating space for Kenyan voices to tell Kenya's stories through contemporary media technologies.
 
 ## See Also
-[[Film/Cinema of Kenya]]
+[[Literary Culture Kenya]]
 [[Media Ownership Control]]
 [[Investigative Journalism]]
-[[Cultural/Representation]]
-[[Technology/Digital Media Kenya]]
-[[Women/Gender Media Representation]]
+Representation
+Digital Media Kenya
+Gender Media Representation
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Cinema_of_Kenya

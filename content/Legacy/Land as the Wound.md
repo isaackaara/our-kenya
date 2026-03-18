@@ -70,7 +70,7 @@ The colonial seizure of land severed communities from their ancestors, their sac
 
 ## Related
 
-[[White Highlands]] | [[../Kikuyu/Kikuyu and the Land]] | [[Githaka]] | [[../Kalenjin/Kalenjin and the Land]] | [[Kalenjin Land Grievance]] | [[../Maasai/Maasai and the Land]] | [[Ogiek and the Mau Forest]]
+[[White Highlands]] | [[Kikuyu Origins]] | [[Githaka]] | [[Rift Valley]] | [[Kalenjin Land Grievance]] | Maasai and the Land | [[Ogiek and the Mau Forest]]
 
 ## See Also
 

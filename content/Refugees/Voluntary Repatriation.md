@@ -13,7 +13,7 @@ Successful voluntary repatriation required origin country stability and receivin
 [[Return Monitoring]]
 [[Reintegration Assistance]]
 [[Somali]]
-[[Refugee Solutions]]
+Refugee Solutions
 
 ## Sources
 

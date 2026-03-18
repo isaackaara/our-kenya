@@ -10,10 +10,10 @@ Lumumba's continued prominence as an anti-corruption advocate in the years after
 
 ## See Also
 
-[[Anti-Corruption Advocacy Kenya]]
+Anti-Corruption Advocacy Kenya
 [[Civil Society Kenya]]
-[[Rule of Law in Kenya]]
-[[Institutional Reform Kenya]]
+Rule of Law in Kenya
+Institutional Reform Kenya
 [[Kibaki and the ICC]]
 
 ## Sources

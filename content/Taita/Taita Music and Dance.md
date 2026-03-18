@@ -27,7 +27,7 @@ Younger generations increasingly learn traditional music through cultural organi
 
 ## See Also
 
-- [[Taita Culture]]
+- [[Mijikenda]]
 - [[Taita Oral Literature]]
 - [[Taita Social Structure]]
 - [[Taita Crafts]]

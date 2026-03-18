@@ -13,10 +13,10 @@ A contradictory assessment is therefore unavoidable: Uhuru built real infrastruc
 ## See Also
 [[Uhuru Debt Crisis]]
 [[Uhuru Infrastructure Agenda]]
-[[Kenya's Fiscal Sustainability]]
+Kenya's Fiscal Sustainability
 [[Standard Gauge Railway]]
-[[Infrastructure Investment and Growth]]
-[[Institutional Capacity and Development]]
+Infrastructure Investment and Growth
+Institutional Capacity and Development
 
 ## Sources
 1. https://www.imf.org/en/Publications/CR/Issues/2022/04/29/Kenya-2022-Article-IV-Consultation-Reports-517662 (IMF Kenya assessment)

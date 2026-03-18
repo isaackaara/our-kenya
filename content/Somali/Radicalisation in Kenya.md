@@ -132,7 +132,7 @@ Understanding radicalization is complicated by:
 - [[Kenyan Somali Identity]]
 - [[Second Generation Refugees]]
 - [[Garissa University Attack 2015]]
-- [[Nairobi Westgate Attack 2013]]
+- Nairobi Westgate Attack 2013
 - [[Somali]]
 
 ## Sources

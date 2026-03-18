@@ -6,7 +6,7 @@ The context of b.a. ogot - early historian illuminates how local, regional, and 
 
 ## See Also
 
-[[Historians]], [[Kenya History]], [[Historical Development]]
+Historians, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

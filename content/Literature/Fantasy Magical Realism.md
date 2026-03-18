@@ -23,12 +23,12 @@ Women authors contributed significantly to Kenyan magical realism and fantasy, w
 Contemporary magical realism in Kenya continues developing, with writers incorporating magical elements into narratives addressing contemporary concerns. The genre's flexibility allows continued evolution as new writers bring innovative perspectives and expand genre possibilities.
 
 ## See Also
-[[Oral Storytelling Traditions]]
-[[Indigenous Spirituality Literature]]
+Oral Storytelling Traditions
+Indigenous Spirituality Literature
 [[Postcolonial Literature Movement]]
 [[Women Writers Authors Kenya]]
-[[Speculative Fiction Africa]]
-[[Cultural Recovery Literature]]
+Speculative Fiction Africa
+Cultural Recovery Literature
 [[Gender Pay Gap]]
 
 ## Sources

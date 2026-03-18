@@ -16,7 +16,7 @@ Ukambani, the semi-arid territory of the Kamba people, shaped every aspect of th
 The Machakos miracle was celebrated as evidence that African smallholder farmers could transform degraded lands through labor-intensive conservation. Yet modern climate change presents a new challenge that infrastructure and traditional knowledge alone may not overcome. Ukambani's environmental future depends on balancing resource management with adaptation to shifting climate patterns.
 
 ## Related
-[[Machakos Town]] | [[Kitui County]] | [[Kamba and the Land]] | [[Kamba Warriors]] | [[Kamba Trade Networks]]
+[[Machakos Town]] | [[Kitui County]] | [[Kamba Culture and Identity]] | [[Kamba Warriors]] | [[Kamba Trade Networks]]
 
 ## See Also
 

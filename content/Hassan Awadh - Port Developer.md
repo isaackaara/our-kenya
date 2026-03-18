@@ -6,7 +6,7 @@ The context of hassan awadh - port developer illuminates how local, regional, an
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

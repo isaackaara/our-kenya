@@ -1,4 +1,4 @@
-[[Asian Kenyans|Asian]] merchants and entrepreneurs have been central to [[Kenya]]'s [[retail]] trade since the colonial period. From small duka walahs (shopkeepers) to major supermarket chains, [[Asian Kenyans|Asians]] have shaped [[Kenya]]'s [[retail]] landscape. Contemporary [[retail]] reflects this legacy.
+[[Asian Kenyans|Asian]] merchants and entrepreneurs have been central to [[Kenya]]'s [[Nairobi CBD Economy]] trade since the colonial period. From small duka walahs (shopkeepers) to major supermarket chains, [[Asian Kenyans|Asians]] have shaped [[Kenya]]'s [[Nairobi CBD Economy]] landscape. Contemporary [[Nairobi CBD Economy]] reflects this legacy.
 
 ## From Duka Wallah to Supermarkets
 
@@ -31,8 +31,8 @@ Asian-owned retail businesses employ tens of thousands of Kenyans. They generate
 ## See Also
 
 - [[Asian Retail Empires]]
-- [[Nakumatt]]
-- [[Tuskys]]
+- Nakumatt
+- Tuskys
 - [[Asian Commercial Districts Colonial]]
 - [[Asian Kenyans Today]]
 

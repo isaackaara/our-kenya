@@ -19,7 +19,7 @@ International crime drama formats were adapted for Kenyan production, utilizing 
 By 2000s, crime television remained popular programming format, with multiple series in operation and substantial audience interest in crime narratives.
 
 ## See Also
-[[Drama Television]], [[Television Acting]], [[Film Genres Kenya]], [[Police]], [[Social Issues]], [[Television Studios]], [[Entertainment]]
+[[Drama Television]], [[Television Acting]], [[Film Genres Kenya]], Police, Social Issues, [[Television Studios]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

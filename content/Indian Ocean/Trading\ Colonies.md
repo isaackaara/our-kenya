@@ -22,9 +22,9 @@ The transition of trading colonies under colonial administration reflected chang
 
 [[Merchant Networks]]
 [[Diaspora Communities]]
-[[Port Cities]]
-[[Cultural Exchange]]
-[[Merchant Organization]]
+Port Cities
+Cultural Exchange
+Merchant Organization
 
 ## Sources
 

@@ -54,12 +54,12 @@ In Kenya specifically, the use of appointed chiefs and the District Commissioner
 
 ## See Also
 
-- [[Indirect Rule System]] - Lugard's administrative philosophy
+- Indirect Rule System - Lugard's administrative philosophy
 - [[District Commissioners and Indirect Rule]] - Kenya implementation
 - [[Colonial Administration]] - Governance structures
 - [[John Ainsworth]] - Early Kenyan administrator
 - [[East Africa Protectorate to Colony]] - Administrative context
-- [[Appointed Chiefs and Headmen]] - Mechanism of indirect rule
+- Appointed Chiefs and Headmen - Mechanism of indirect rule
 - [[Mau Mau Uprising]] - Resistance to colonial administration
 - [[Lancaster House and Departure]] - End of Lugard-style rule Many post-colonial African leaders (including Jomo Kenyatta) had been incorporated into this system during the colonial era, and the institutional structures Lugard's model created outlasted colonialism itself.
 

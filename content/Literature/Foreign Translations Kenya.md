@@ -18,7 +18,7 @@ Contemporary developments including digital translation technologies and global 
 - [[Translation English]]
 - [[Publishing Industry Kenya]]
 - [[Literary Awards]]
-- [[International Literary Networks]]
+- International Literary Networks
 - [[Postcolonial Literature Movement]]
 - [[Writers Associations]]
 - [[Diaspora Communities]]

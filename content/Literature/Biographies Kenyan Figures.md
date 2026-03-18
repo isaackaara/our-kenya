@@ -22,12 +22,12 @@ Contemporary biography in Kenya continues documenting significant figures and ex
 
 ## See Also
 [[Autobiography Memoirs]]
-[[Historical Writing Kenya]]
+Historical Writing Kenya
 [[Women Writers Authors Kenya]]
 [[Postcolonial Literature Movement]]
-[[Political History Kenya]]
-[[Intellectual History Kenya]]
-[[Oral History Kenya]]
+Political History Kenya
+Intellectual History Kenya
+Oral History Kenya
 
 ## Sources
 1. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/grace-emily-akinyi-ogot - Biographical information on literary figures

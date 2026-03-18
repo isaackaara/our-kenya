@@ -23,7 +23,7 @@ Contemporary interest in beni comes primarily from scholars and cultural preserv
 - [[Swahili Chakacha Dance]]
 - [[Swahili Civilization Overview]]
 - [[Mijikenda Origins]]
-- [[Cross-Ethnic/Cultural Exchange in Colonial Kenya]]
+- [[Colonial Administration]]
 - [[Mombasa Taarab]]
 
 ## Sources

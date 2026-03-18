@@ -15,7 +15,7 @@ The period immediately following Kenyatta's release was characterized by acceler
 [[Kenyatta restriction at Maralal]]
 [[Lancaster House Conference 1960 and 1962]]
 [[Jomo Kenyatta Cabinet Formation 1963]]
-[[Kenya Independence 1963]]
+[[Kenya Independence]]
 [[Kenyatta Rise to Power]]
 
 ## Sources

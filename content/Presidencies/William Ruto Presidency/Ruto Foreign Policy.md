@@ -7,9 +7,9 @@ China's economic importance to Kenya has grown substantially. Chinese firms unde
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Foreign Relations|Kenya Foreign Relations]]
-- [[Kenya United States Relations|Kenya United States Relations]]
-- [[Kenya Somalia Operations|Kenya Somalia Operations]]
+- [[Foreign Policy|Kenya Foreign Relations]]
+- [[Foreign Policy|Kenya United States Relations]]
+- Kenya Somalia Operations
 
 ## Sources
 

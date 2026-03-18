@@ -1,4 +1,4 @@
-Kenneth Matiba's decision to withdraw from the 1997 presidential race in the final weeks before polling represented a dramatic reversal that had profound consequences for opposition strategy and election outcomes. Matiba, who had run a strong campaign in 1992 and had positioned himself as a radical challenger to [[Moi]]'s rule, initially announced his candidacy for 1997 before ultimately stepping aside and declaring his support for [[Kibaki]]'s Democratic Party. The withdrawal was presented publicly as a principled decision made for the sake of opposition unity, but it masked deeper political calculations and personal circumstances that had shifted dramatically since 1992.
+Kenneth Matiba's decision to withdraw from the 1997 presidential race in the final weeks before polling represented a dramatic reversal that had profound consequences for opposition strategy and election outcomes. Matiba, who had run a strong campaign in 1992 and had positioned himself as a radical challenger to [[Daniel arap Moi Era]]'s rule, initially announced his candidacy for 1997 before ultimately stepping aside and declaring his support for [[Mwai Kibaki]]'s Democratic Party. The withdrawal was presented publicly as a principled decision made for the sake of opposition unity, but it masked deeper political calculations and personal circumstances that had shifted dramatically since 1992.
 
 Matiba's political standing had eroded considerably in the five years between 1992 and 1997. In 1992, he had run an energetic, popular campaign that attracted substantial support among Kikuyu voters and urban constituencies. He had positioned himself as a bold challenger to Moi, standing apart from other opposition figures through his aggressive rhetoric and his mass appeal. However, by 1997, several factors had diminished Matiba's political capital. His business interests had faced difficulties, his health had deteriorated (he had suffered a stroke in 1994 that affected his physical mobility and visibility), and his media profile had declined relative to other opposition figures.
 
@@ -21,7 +21,7 @@ Matiba's subsequent political trajectory followed a decline into lesser politica
 - [[1997 Election Opposition Unity Failure]]
 - [[1997 Election Kibaki DP]]
 - [[Moi and the Opposition]]
-- [[Democratic Party (Kenya)]]
+- [[Multiparty Politics]]
 
 ## Sources
 

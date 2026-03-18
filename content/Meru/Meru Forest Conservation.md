@@ -2,7 +2,7 @@ The Meru forest reserve on [[Mount Kenya]]'s eastern side is a critical ecosyste
 
 ## Forest Reserve Designation
 
-Mount Kenya's eastern slopes include forest reserves designated by the Kenya government for forest protection and management. These reserves exclude or restrict human activities including logging, settlement, and cultivation. Forest reserves are managed by the [[Kenya Forest Service]] with support from community organizations.
+Mount Kenya's eastern slopes include forest reserves designated by the Kenya government for forest protection and management. These reserves exclude or restrict human activities including logging, settlement, and cultivation. Forest reserves are managed by the Kenya Forest Service with support from community organizations.
 
 ## Biodiversity Value
 
@@ -40,10 +40,10 @@ Meru forest reserves are significant for climate change mitigation (forest carbo
 
 - [[Mount Kenya]]
 - [[Climate Change and Meru]]
-- [[Kenya Forest Conservation]]
+- Kenya Forest Conservation
 - [[Meru Water]]
-- [[Ecosystem Services Africa]]
-- [[Kenya Biodiversity]]
+- Ecosystem Services Africa
+- Kenya Biodiversity
 
 ## Sources
 

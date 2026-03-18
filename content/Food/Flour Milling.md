@@ -20,7 +20,7 @@ The shift from hand grinding to mechanical milling represented technology adopti
 
 [[Food Processing Industry]]
 [[Maize Production]]
-[[Flour Markets]]
+Flour Markets
 [[Food Storage Solutions]]
 [[Grain Storage Systems]]
 [[Technology]]

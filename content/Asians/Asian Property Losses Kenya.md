@@ -1,4 +1,4 @@
-During the [[Africanisation and Asian Business]] era of the 1960s and 1970s, [[Asian Kenyans|Asian]]-owned properties and businesses were lost through forced sales, license non-renewal, discriminatory taxation, and sometimes through [[violence]] and intimidation. These losses represented a massive transfer of wealth from [[Asian Kenyans|Asian]] hands to [[African]] hands, and in some cases to the [[government]]. For individual [[Asian Kenyans|Asian]] merchants and families, these losses often represented their life savings and their means of livelihood.
+During the [[Africanisation and Asian Business]] era of the 1960s and 1970s, [[Asian Kenyans|Asian]]-owned properties and businesses were lost through forced sales, license non-renewal, discriminatory taxation, and sometimes through violence and intimidation. These losses represented a massive transfer of wealth from [[Asian Kenyans|Asian]] hands to African hands, and in some cases to the government. For individual [[Asian Kenyans|Asian]] merchants and families, these losses often represented their life savings and their means of livelihood.
 
 ## Forced Sales and Depreciated Values
 

@@ -9,7 +9,7 @@ Seasonal food insecurity follows agricultural calendar: harvest is followed by a
 Government and development interventions address food insecurity through multiple mechanisms. Food distribution programs provide emergency food during acute emergencies. Cash transfer programs provide income enabling food purchase during crises. School feeding programs ensure child nutrition during school months. Agricultural productivity programs aim to increase food production. Irrigation development expands cultivation in water-scarce areas. Livelihood diversification reduces dependence on agriculture. These interventions address aspects of food insecurity; however, they do not address fundamental scarcity in arid regions or resolve poverty preventing food access. Fundamental food security would require poverty elimination and livelihood diversification beyond agricultural dependence.
 
 ## See Also
-[[Hunger Malnutrition]], [[Poverty Measurement]], [[Development Aid]], [[Seasonal Variation]], [[Drought Vulnerability]], [[Social Protection]], [[Cash Transfer Programs]], [[Nutrition Programs]]
+[[Hunger Malnutrition]], [[Poverty Measurement]], [[Development Aid]], Seasonal Variation, Drought Vulnerability, [[Social Protection]], [[Cash Transfer Programs]], [[Nutrition Programs]]
 
 ## Sources
 1. World Food Programme (2019). "Kenya Food Security and Livelihood Assessment." https://www.wfp.org

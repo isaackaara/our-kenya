@@ -6,7 +6,7 @@ The context of oral history recording illuminates how local, regional, and natio
 
 ## See Also
 
-[[Research]], [[Kenya History]], [[Historical Development]]
+Research, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

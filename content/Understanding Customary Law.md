@@ -6,7 +6,7 @@ The context of understanding customary law illuminates how local, regional, and 
 
 ## See Also
 
-[[Policy]], [[Kenya History]], [[Historical Development]]
+Policy, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

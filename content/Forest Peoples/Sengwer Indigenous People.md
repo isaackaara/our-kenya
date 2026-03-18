@@ -20,11 +20,11 @@ The Sengwer case also highlights the distinction between indigenous forest peopl
 
 [[Ogiek Community History]]
 [[Forest Rights Land]]
-[[Embobut Forest]]
+Embobut Forest
 [[Cherangany Hills]]
 [[West Pokot County]]
-[[Eviction Forest Lands]]
-[[African Commission on Human and Peoples Rights]]
+Eviction Forest Lands
+African Commission on Human and Peoples Rights
 
 ## Sources
 

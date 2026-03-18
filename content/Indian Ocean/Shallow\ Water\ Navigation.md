@@ -1,4 +1,4 @@
-The [[Shallow Water Navigation]] required specialized knowledge adapted to coastal environments where reef hazards, shoals, and variable water depth created constant danger. The merchant vessels designed for open-ocean trading would prove inadequate for shallow-water passages requiring more intimate knowledge of local conditions. The specialized pilots capable of navigating shallow passages commanded premium compensation for their expertise.
+The Shallow Water Navigation required specialized knowledge adapted to coastal environments where reef hazards, shoals, and variable water depth created constant danger. The merchant vessels designed for open-ocean trading would prove inadequate for shallow-water passages requiring more intimate knowledge of local conditions. The specialized pilots capable of navigating shallow passages commanded premium compensation for their expertise.
 
 The identification of safe passages through reef-strewn coastal waters required knowledge that could not be easily conveyed through charts or written instruction. The pilot would recognize water color changes indicating shoals, understand how waves broke differently over different depths, and memorize the locations of dangerous reefs. The knowledge was transmitted through extended apprenticeship with experienced pilots who could guide navigation through dangerous passages.
 
@@ -23,7 +23,7 @@ The development of specialized equipment for shallow-water navigation included s
 [[Navigation Methods]]
 [[Pilot Knowledge]]
 [[Harbor Facilities]]
-[[River Navigation]]
+River Navigation
 [[Coastal Commerce Credit Systems]]
 
 ## Sources

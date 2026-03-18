@@ -9,7 +9,7 @@ The Kalenjin community has benefited from Ruto's political prominence through mi
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Kalenjin|Kalenjin]]
 - [[Kibaki and Ethnic Politics Mount Kenya Dominance|Kenya Ethnic Politics]]
-- [[Rift Valley Politics|Rift Valley Politics]]
+- [[Politics|Rift Valley Politics]]
 
 ## Sources
 

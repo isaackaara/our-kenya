@@ -12,11 +12,11 @@ Murungi is a lawyer and law teacher educated in Kenya and internationally. He be
 
 ## Parliamentary Service
 
-Murungi served as Member of Parliament representing [[South Imenti]] Constituency in [[Meru County]], building a political base and national profile.
+Murungi served as Member of Parliament representing South Imenti Constituency in [[Meru County]], building a political base and national profile.
 
 ## Cabinet Service Under Kibaki
 
-During the [[Daniel arap Moi]]'s later years and particularly under President [[Kibaki]] (2003-2013), Murungi held several cabinet positions:
+During the [[Daniel arap Moi]]'s later years and particularly under President [[Mwai Kibaki]] (2003-2013), Murungi held several cabinet positions:
 
 - **Minister of Energy and Petroleum**: Overseeing Kenya's energy sector
 - **Minister of Justice and Constitutional Affairs**: A role that placed him at the center of Kenya's constitutional reform process
@@ -50,7 +50,7 @@ His career exemplifies the trajectory of Kenyan political elites who have adapte
 - [[Kiraitu Murungi Career]]
 - [[Meru County]]
 - [[Meru Politics]]
-- [[Kenya Constitutional Reform]]
+- [[Constitutional Reform 2010]]
 - [[Imenti People]]
 - [[Daniel arap Moi]]
 

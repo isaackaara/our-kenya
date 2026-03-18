@@ -1,6 +1,6 @@
 Literary awards in Kenya emerged as institutional mechanisms for recognizing excellence in literary production and establishing canonical figures within national literature. The most prestigious awards validate writers' achievements while shaping which literature receives public recognition and institutional support.
 
-The [[Jomo Kenyatta Prize for Literature]], established in 1974 by Kenya's Publishers' Association, represents Kenya's most significant literary award, celebrating excellence in fiction across categories including adult, young adult, and children's literature in both English and Kiswahili. The biennial prize recognizes remarkable works while serving as industry recognition mechanism.
+The Jomo Kenyatta Prize for Literature, established in 1974 by Kenya's Publishers' Association, represents Kenya's most significant literary award, celebrating excellence in fiction across categories including adult, young adult, and children's literature in both English and Kiswahili. The biennial prize recognizes remarkable works while serving as industry recognition mechanism.
 
 Literary prizes functioned as public events celebrating literature while creating occasions for literary community gathering and recognition. Award ceremonies attracted media attention, enabling broader public engagement with literature beyond literary establishments and academic contexts.
 
@@ -17,10 +17,10 @@ Academic awards and scholarships supported literary creation, with institutions 
 ## See Also
 [[Literary Culture Kenya]]
 [[Publishing Industry Kenya]]
-[[Jomo Kenyatta Prize Literature]]
+Jomo Kenyatta Prize Literature
 [[Women Writers Authors Kenya]]
-[[International Publishing Kenya]]
-[[Literary Recognition Kenya]]
+International Publishing Kenya
+Literary Recognition Kenya
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Jomo_Kenyatta_Prize_for_Literature - Comprehensive award history and criteria

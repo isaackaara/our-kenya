@@ -51,10 +51,10 @@ However, successful Kalenjin business people accumulate capital through trade, e
 Kalenjin businesses face challenges including competition from large commercial enterprises, limited access to capital, and in some cases, limited business formalization and record-keeping. Education and business training for entrepreneurs remains limited in many Kalenjin areas.
 
 ## Cross-Links
-- [[Kalenjin Economy]]
-- [[Eldoret Economy]]
+- Kalenjin Economy
+- Eldoret Economy
 - [[Mursik Deep Dive]]
-- [[Kalenjin Grain Trading]]
+- Kalenjin Grain Trading
 
 ## See Also
 

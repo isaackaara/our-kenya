@@ -17,7 +17,7 @@ Injury and physical toll from stunt work represented significant professional ha
 By 2000s, stunt work remained specialized field within Kenyan film and television production, though less developed than in international film industries with more robust action filmmaking traditions.
 
 ## See Also
-[[Film Acting]], [[Action Movies]], [[Film Directing]], [[Film Infrastructure]], [[International Film Partnerships]], [[Safety]], [[Entertainment]]
+[[Film Acting]], [[Action Movies]], [[Film Directing]], [[Film Infrastructure]], [[International Film Partnerships]], Safety, [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

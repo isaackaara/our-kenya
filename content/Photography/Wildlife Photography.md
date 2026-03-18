@@ -7,12 +7,12 @@ Mirella Ricciardi, an Italian-born photographer who lived in Kenya for decades, 
 The emergence of wildlife photography as a commercial practice intersected with conservation efforts and the establishment of national parks and reserves. Photographers became participants in wildlife management, creating images used for tourism promotion, conservation fundraising, and scientific documentation. The genre shaped how Kenyans themselves came to see their own wildlife, often through the mediation of international photographs and exhibitions. By the late twentieth century, wildlife photography had become central to Kenya's tourism brand and economic identity, even as the animals themselves faced unprecedented pressures from habitat loss and poaching.
 
 ## See Also
-- [[Mohamed Amin Photojournalism]]
-- [[Mirella Ricciardi Documentation]]
+- Mohamed Amin Photojournalism
+- Mirella Ricciardi Documentation
 - [[Conservation]]
-- [[National Parks and Game Reserves]]
+- National Parks and Game Reserves
 - [[Art Tourism]]
-- [[Visual Culture and Environmental Awareness]]
+- Visual Culture and Environmental Awareness
 - [[Development Aid]]
 
 ## Sources

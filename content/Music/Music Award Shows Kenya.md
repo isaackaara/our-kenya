@@ -8,7 +8,7 @@ After initial suspension, Kisima returned with increased funding from government
 
 In 2004, Kisima expanded to East African scope, incorporating artists from Uganda and Tanzania alongside Kenyan nominees. This regional approach recognized musical cross-pollination across borders and created larger, more competitive awards. However, it also complicated judging by requiring evaluation across different national music scenes.
 
-Multiple genre categories attempted to acknowledge Kenya's musical diversity: gospel, [[Music/Kenyan Benga Music|benga]], [[Mugithi Music Origins|mugithi]], hip-hop, and others received separate recognition rather than forcing comparison across incompatible styles. This categorical approach pleased artists working in specific genres but created perception that awards lacked overall artistic hierarchy.
+Multiple genre categories attempted to acknowledge Kenya's musical diversity: gospel, [[Kenyan Benga Music|benga]], [[Mugithi Music Origins|mugithi]], hip-hop, and others received separate recognition rather than forcing comparison across incompatible styles. This categorical approach pleased artists working in specific genres but created perception that awards lacked overall artistic hierarchy.
 
 Controversies surrounded nomination and voting processes throughout awards' history. Artists and fans complained about perceived favorites receiving recognition regardless of merit. Accusations surfaced that corporate sponsorship influenced outcomes, with commercially successful but artistically mediocre artists winning over more talented competitors lacking promotional budgets.
 
@@ -35,7 +35,7 @@ The decline of traditional music awards in late 2000s and 2010s, with Kisima exp
 - [[Kenyan Gospel Music Boom]]
 - [[FM Radio Revolution Kenya 1990s]]
 - [[Mugithi Music Origins]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 
 ## Sources
 1. Wikipedia. "Kisima Music Awards." November 23, 2025. https://en.wikipedia.org/wiki/Kisima_Music_Awards

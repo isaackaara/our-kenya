@@ -10,7 +10,7 @@ Survival International's broader work with indigenous peoples globally positions
 
 ## See Also
 
-[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Forest\ Rights\ Land]] | [[Eviction\ Forest\ Lands]] | [[International Indigenous Rights]] | [[Conservation]] | [[African Commission on Human and Peoples' Rights]]
+[[Ogiek\ Community\ History]] | [[Sengwer\ Indigenous\ People]] | [[Forest\ Rights\ Land]] | [[Eviction\ Forest\ Lands]] | International Indigenous Rights | [[Conservation]] | African Commission on Human and Peoples' Rights
 
 ## Sources
 

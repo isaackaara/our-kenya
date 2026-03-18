@@ -1,4 +1,4 @@
-Beneath [[Gengetone Movement|Gengetone]]'s explicit lyrics, viral dance challenges, and controversy-courting aesthetics lay sophisticated social commentary documenting [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] with anthropological precision. The genre's raw documentation of police brutality, economic hustles, class hierarchies, political corruption, and the daily navigation of urban poverty represented cultural production where young Kenyans shut out of formal economic and political participation claimed voice and visibility through music.
+Beneath [[Gengetone Movement|Gengetone]]'s explicit lyrics, viral dance challenges, and controversy-courting aesthetics lay sophisticated social commentary documenting [[Nairobi Urban Identity|Nairobi's informal settlements]] with anthropological precision. The genre's raw documentation of police brutality, economic hustles, class hierarchies, political corruption, and the daily navigation of urban poverty represented cultural production where young Kenyans shut out of formal economic and political participation claimed voice and visibility through music.
 
 The social commentary operated on multiple registers simultaneously. Surface-level party anthems about drinking, drugs, and sex coexisted with sharp observations about why young men from Umoja or Dandora turned to these escapes: because formal employment was unavailable, because political systems ignored them, because respectability politics offered nothing but judgment without opportunity. [[Ethic Entertainment|Ethic Entertainment]]'s "Lamba Lolo," often dismissed as crude provocation, was also precise documentation of estate social dynamics, linguistic patterns, and youth culture invisible to middle-class observers.
 
@@ -24,7 +24,7 @@ By the mid-2020s, gengetone's social commentary function remained important even
 - [[Gengetone Movement|Gengetone Movement]]
 - [[Ethic Entertainment|Ethic Entertainment]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[2022 Election|2022 Election]]
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Ketebul Music and Preservation|Ketebul Music and Preservation]]

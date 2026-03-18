@@ -24,7 +24,7 @@ Contemporary challenges include persistent health worker shortage, particularly 
 [[Women Mental Health]]
 [[Female Sexual Health]]
 [[Gender Healthcare Access]]
-[[Health/Health Systems]]
+[[Health Systems]]
 
 ## Sources
 

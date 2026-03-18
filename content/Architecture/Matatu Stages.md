@@ -17,7 +17,7 @@ Contemporary matatu stages remain largely unplanned despite their economic centr
 [[Informal Settlements]]
 [[Urban Planning Development]]
 [[Nairobi CBD]]
-[[Street Vending]]
+Street Vending
 [[Poverty]]
 
 ## Sources

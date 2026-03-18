@@ -6,9 +6,9 @@ Kibaki himself was a paradox as a change candidate. At 71, he had been in govern
 
 The wheelchair moment at Uhuru Park crystallized the symbolism. Kibaki had been seriously injured in a road accident during the campaign. On December 30, 2002, he was sworn in before a crowd estimated at half a million, seated in a wheelchair, his right arm in a sling. The optics were extraordinary: a broken man assuming power from a broken system, carried there by a euphoric electorate. His inability to stand became a metaphor for humility, for the people lifting their leader rather than being crushed beneath him. Raila Odinga stood beside him on the dais, part of the victorious coalition. That image would haunt Kenya's politics for the next decade.
 
-The 2002 result reshaped the electoral map. Kibaki swept [[Kikuyu]] heartlands in Central Province with near-total dominance, as expected. But he also won the [[Elections in Kenya|Coast, Eastern, and parts of Rift Valley]], stitched together by NARC's broad coalition. [[Luo]] regions delivered overwhelming margins for the alliance. Uhuru Kenyatta, despite his name and Moi's machinery, could hold only portions of the Rift Valley and scattered rural KANU strongholds. The urban vote swung decisively for Kibaki. Nairobi voted for change. Even in areas where ethnic arithmetic favored KANU, the desire for something different broke the calculus.
+The 2002 result reshaped the electoral map. Kibaki swept [[Kikuyu]] heartlands in Central Province with near-total dominance, as expected. But he also won the [[Elections|Coast, Eastern, and parts of Rift Valley]], stitched together by NARC's broad coalition. [[Luo]] regions delivered overwhelming margins for the alliance. Uhuru Kenyatta, despite his name and Moi's machinery, could hold only portions of the Rift Valley and scattered rural KANU strongholds. The urban vote swung decisively for Kibaki. Nairobi voted for change. Even in areas where ethnic arithmetic favored KANU, the desire for something different broke the calculus.
 
-International observers declared the vote free and fair, a striking departure from the violence and manipulation that had marred [[Elections in Kenya|Kenya's multiparty elections]] in 1992 and 1997. The Electoral Commission of Kenya, still KANU-appointed, nonetheless oversaw a credible count. Whether this was institutional integrity or KANU's recognition that the game was lost remains debated. Either way, the result stood.
+International observers declared the vote free and fair, a striking departure from the violence and manipulation that had marred [[Elections|Kenya's multiparty elections]] in 1992 and 1997. The Electoral Commission of Kenya, still KANU-appointed, nonetheless oversaw a credible count. Whether this was institutional integrity or KANU's recognition that the game was lost remains debated. Either way, the result stood.
 
 The euphoria did not last. Kibaki's government would eventually betray many of the promises made in 2002. The [[NARC Coalition Formation|coalition]] that elected him collapsed within two years over the disputed memorandum of understanding. [[Anglo Leasing Under Kibaki|Corruption]] scandals emerged. The 2007 election descended into violence. But in that December moment, none of that had yet happened. What Kenyans felt was simpler and more powerful: they had voted out a dictator's successor and lived to see their choice honored. The peaceful transfer of power, the first since independence, mattered more than any policy. It proved the vote could work.
 
@@ -17,7 +17,7 @@ The euphoria did not last. Kibaki's government would eventually betray many of t
 - [[Kibaki and Raila - The MOU Dispute]]
 - [[Daniel arap Moi Presidency]]
 - [[Uhuru Kenyatta]]
-- [[Elections in Kenya]]
+- [[Elections]]
 - [[Kikuyu]]
 - [[Luo]]
 - [[2007 Election Disputed Results]]

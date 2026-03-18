@@ -2,7 +2,7 @@ Short story anthologies emerged as important publishing format in Kenya, enablin
 
 Short story anthologies functioned as discovery mechanisms for emerging writers, introducing new voices to readers while allowing writers to build reputations through individual story publications. The anthology format provided less risk for publishers testing unknown authors, with anthology inclusion allowing evaluation of writer merit before committing to full collections or novels.
 
-[[Grace Ogot]]'s participation in story anthologies alongside her full novel publication demonstrated how anthologies complemented longer-form publishing. Her story collections including [[Land Without Thunder]] (1968), [[The Other Woman]] (1976), and [[The Island of Tears]] (1980) achieved significance through anthological collections, though her novels remained her major works.
+[[Grace Ogot]]'s participation in story anthologies alongside her full novel publication demonstrated how anthologies complemented longer-form publishing. Her story collections including Land Without Thunder (1968), The Other Woman (1976), and The Island of Tears (1980) achieved significance through anthological collections, though her novels remained her major works.
 
 Themed anthologies organized around particular concerns or aesthetic approaches created opportunities for writers addressing specific subjects to reach audiences with shared interests. Anthologies addressing postcolonial themes, women's experiences, or formal experimentation created communities of writers and readers united around aesthetic or political commitments.
 
@@ -26,9 +26,9 @@ Contemporary anthology publishing in Kenya continues supporting literary circula
 [[Grace Ogot Women Writers]]
 [[Literary Journals Publishing]]
 [[Publishing Industry Kenya]]
-[[African Literary Canonization]]
+African Literary Canonization
 [[Women Writers Authors Kenya]]
-[[Short Story Traditions Kenya]]
+Short Story Traditions Kenya
 [[Postcolonial Literature Movement]]
 
 ## Sources

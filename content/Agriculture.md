@@ -1,0 +1,31 @@
+Agriculture has been the foundation of Kenya's economy and the primary livelihood for the majority of its population throughout recorded history. From the pre-colonial cultivation systems of highland Bantu communities to the export-oriented plantation economy of the colonial period to the smallholder-dominated sector of independent Kenya, agricultural development has been inseparable from the country's political, social, and environmental trajectories.
+
+Pre-colonial agricultural systems in Kenya were diverse and ecologically adapted. The [[Kikuyu]] of the central highlands developed intensive cultivation of millet, sorghum, beans, and yams within the [[Githaka]] clan landholding system, managing soil fertility through fallowing and intercropping. The [[Luhya]] of western Kenya practiced similar mixed farming supplemented by fishing in [[Lake Victoria]]. The [[Kamba]] combined drought-resistant crops with livestock keeping and long-distance trade in the semi-arid eastern lowlands. Pastoral communities including the [[Maasai]], [[Samburu]], and Turkana practiced livestock-based agriculture adapted to rangeland environments, a system discussed in [[Maasai Pastoralism]] and [[Agriculture]].
+
+[[Colonial Administration|Colonial rule]] radically restructured Kenyan agriculture. The alienation of the fertile [[White Highlands]] for European settler farming displaced African communities and created large-scale farms producing wheat, maize, dairy, and livestock for export. African farmers were restricted from growing lucrative cash crops such as coffee and tea until the 1950s, a prohibition that generated intense political resentment channeled through organizations like the [[Kikuyu Central Association]]. The colonial period introduced new crops including [[Tea Industry Kenya|tea]], [[Coffee Industry Kenya|coffee]], [[Sisal Industry Kenya|sisal]], and pyrethrum that would become pillars of the post-independence economy. The Swynnerton Plan of 1954, introduced during the [[Mau Mau Uprising]], began the consolidation of African landholdings and the promotion of African cash crop production, a policy that reshaped the highland agricultural landscape.
+
+At [[Kenya Independence|independence]], [[Jomo Kenyatta]] pursued a land redistribution strategy that transferred some former settler farms to African ownership through willing-buyer-willing-seller schemes and settlement programs. [[Kenya Land Reform]] and [[Land Tenure Post Independence]] examine the complex legacy of these policies, which created a class of smallholder farmers who became the backbone of the national economy while also enabling politically connected individuals to accumulate large holdings. The [[Kenyatta Presidency]] promoted agricultural intensification through cooperative societies, agricultural extension services, and marketing boards that set prices for key commodities.
+
+The tea and coffee industries exemplify Kenya's agricultural development trajectory. [[Tea Industry Kenya|Tea]] expanded dramatically from a colonial settler crop to a smallholder-dominated industry that became Kenya's leading agricultural export and one of the world's largest black tea producers. [[Coffee Industry Kenya|Coffee]], grown primarily by smallholders in the central highlands, generated substantial foreign exchange but suffered from declining global prices and mismanagement by cooperative societies. [[Horticultural Export Growth|Horticulture]], including cut flowers, vegetables, and fruits exported to European markets, emerged as a dynamic growth sector from the 1990s, centered around Lake Naivasha and other areas with suitable climates and air cargo access.
+
+[[Structural Adjustment Kenya|Structural adjustment programs]] in the 1980s and 1990s liberalized agricultural markets, removing marketing board monopolies and reducing subsidies. The effects were mixed: some farmers benefited from higher market prices, but many smallholders lost access to credit, extension services, and guaranteed markets. Maize, the national staple, became a politically sensitive commodity whose pricing and importation intersected with [[Elections|electoral politics]] and [[Corruption|corruption]], as the maize importation scandals demonstrated.
+
+Contemporary Kenyan agriculture faces intersecting challenges. Land fragmentation through inheritance has reduced farm sizes in the densely populated highlands to levels that challenge economic viability. Climate variability and drought increasingly threaten both pastoral and crop agriculture, with the arid and semi-arid lands of [[Samburu County]], [[Marsabit]], and the northeast facing recurrent food crises. Water scarcity constrains irrigation expansion despite ambitious plans. Youth migration from rural areas to [[Nairobi History|Nairobi]] and other urban centers reflects the declining attractiveness of farming as a livelihood.
+
+Agricultural policy under [[Devolution Kenya|devolution]] distributes responsibilities between national and county governments, with county governments managing agricultural extension, veterinary services, and local market infrastructure. The [[William Ruto Presidency]] has emphasized agricultural subsidies and input programs, though their effectiveness and fiscal sustainability remain debated. Kenya's agricultural future depends on addressing land tenure insecurity, investing in research and technology, adapting to climate change, and creating value chains that connect smallholder producers to both domestic and international markets.
+
+## See Also
+
+- [[Agriculture]]
+- [[Tea Industry Kenya]]
+- [[Coffee Industry Kenya]]
+- [[Horticultural Export Growth]]
+- [[Kenya Land Reform]]
+- [[White Highlands]]
+
+## Sources
+
+1. Swynnerton, R.J.M. *A Plan to Intensify the Development of African Agriculture in Kenya*. Nairobi: Government Printer, 1954.
+2. Leys, Colin. *Underdevelopment in Kenya: The Political Economy of Neo-Colonialism*. London: Heinemann, 1975.
+3. Heyer, Judith, J.K. Maitha, and W.M. Senga, eds. *Agricultural Development in Kenya: An Economic Assessment*. Nairobi: Oxford University Press, 1976.
+4. Tiffen, Mary, Michael Mortimore, and Francis Gichuki. *More People, Less Erosion: Environmental Recovery in Kenya*. Chichester: Wiley, 1994.

@@ -14,8 +14,8 @@ Cold case investigations of unsolved homicides remained virtually non-existent, 
 [[Forensic-Investigation-Units]]
 [[Kenya Police]]
 [[Directorate of Criminal Investigations]]
-[[Violent Crime Kenya]]
-[[Nairobi Security]]
+[[Kenya Police History]]
+Nairobi Security
 [[Human-Rights-Enforcement]]
 
 ## Sources

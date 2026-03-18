@@ -24,7 +24,7 @@ Kikuyu business networks in Nairobi became legendary. Concentrated in areas like
 
 ## The Matatu Industry
 
-Perhaps the most visible Kikuyu business creation is the [[Matatu|matatu]] (minibus) industry. From the 1960s onward, Kikuyu businessmen built the entire ecosystem of urban and long-distance minibus transport. Kikuyu entrepreneurs:
+Perhaps the most visible Kikuyu business creation is the matatu (minibus) industry. From the 1960s onward, Kikuyu businessmen built the entire ecosystem of urban and long-distance minibus transport. Kikuyu entrepreneurs:
 - Imported or manufactured bus bodies and assembled vehicles
 - Built the depot networks and management systems
 - Established credit and insurance systems for drivers
@@ -109,7 +109,7 @@ As of 2026, Kikuyu entrepreneurs remain disproportionately represented in Kenya'
 - [[Kikuyu Investment Groups]]
 - [[Kikuyu and Real Estate]]
 - [[Equity Bank]]
-- [[Matatu]]
+- Matatu
 - [[Kikuyu Diaspora Beyond Kenya]]
 - [[Kikuyu Post-Uhuru Politics]]
 

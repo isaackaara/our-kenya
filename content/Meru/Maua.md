@@ -4,11 +4,11 @@ title: "Maua: The Miraa Trading Capital"
 
 # Maua: Center of East Africa's Miraa Trade
 
-Maua town, located in northern [[Tigania and Igembe]] County, has become East Africa's preeminent [[Miraa]] trading center. The town's economy and identity are entirely defined by the miraa trade.
+Maua town, located in northern [[Tigania and Igembe]] County, has become East Africa's preeminent [[Miraa Trade]] trading center. The town's economy and identity are entirely defined by the miraa trade.
 
 ## Geography and Location
 
-Maua sits in the heart of Igembe miraa-growing country, at an altitude suitable for [[Miraa]] cultivation. The town's location at the convergence of major road networks makes it the natural distribution point for Igembe miraa.
+Maua sits in the heart of Igembe miraa-growing country, at an altitude suitable for [[Miraa Trade]] cultivation. The town's location at the convergence of major road networks makes it the natural distribution point for Igembe miraa.
 
 ## Market Structure
 
@@ -76,12 +76,12 @@ Maua symbolizes the concentration of economic dynamism and vulnerability in the 
 
 ## See Also
 
-- [[Miraa]]
+- [[Miraa Trade]]
 - [[Tigania and Igembe]]
 - [[Miraa Economy Meru]]
-- [[Meru County Trade]]
-- [[East Africa Trade Networks]]
-- [[Nairobi Markets]]
+- Meru County Trade
+- East Africa Trade Networks
+- Nairobi Markets
 
 ---
 

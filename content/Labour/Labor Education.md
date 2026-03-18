@@ -14,7 +14,7 @@ International labor education programs, sponsored by the ILO, international labo
 - [[Labor Advocacy]]
 - [[Labor Rights Awareness]]
 - [[ILO Conventions]]
-- [[Labor History Kenya]]
+- Labor History Kenya
 - [[Labor NGOs]]
 
 ## Sources

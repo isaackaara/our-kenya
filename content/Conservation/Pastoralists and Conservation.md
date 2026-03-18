@@ -38,8 +38,8 @@ Pastoralist communities bear costs of wildlife conservation through livestock pr
 - [[Northern Rangelands Trust]] - Pastoralist-led conservation
 - [[Human-Wildlife Conflict]] - Livestock predation issues
 - [[Wildlife Corridors Kenya]] - Habitat connectivity
-- [[Land Tenure and Ownership]] - Secure rights frameworks
-- [[Traditional Ecological Knowledge]] - Indigenous management
+- [[Land Tenure Post Independence]] - Secure rights frameworks
+- Traditional Ecological Knowledge - Indigenous management
 - [[Conservation Economics Kenya]] - Economic benefit distribution
 
 ## Sources

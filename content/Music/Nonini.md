@@ -2,7 +2,7 @@ Hubert Mbuku Nakitare, known universally as Nonini, earned the title "Godfather 
 
 His breakthrough came with "Nonini ni Nani?" (Nonini is Who?), a declaration of arrival that posed a question Kenyan music would spend the next several years answering. The single introduced his signature style: rapid-fire Sheng delivery over bass-heavy production, with lyrics that captured the hustle, swagger, and social commentary of Nairobi's estates. Follow-up hits like "Manzi wa Nairobi" (a dedication to the city's women) and "Weh Kamu" cemented his position at the center of the genge movement. But it was "Keroro" that elevated him to icon status. The 2004 club anthem became ubiquitous, its infectious hook and dance-friendly production making it impossible to escape in Nairobi's nightlife scene.
 
-Nonini's 2005 single "Huyu Msee Ni Fala" became his calling card and one of genge's defining tracks. The song's title (roughly "This Guy is Crazy/Foolish") captured the playful insolence that made genge resonate with urban youth. It was clever, rhythmically complex, and completely untranslatable to anyone outside [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's urban identity]] system. This was the genius of Nonini's approach: he never sought validation beyond the city's boundaries, which paradoxically made his work more powerful and authentic.
+Nonini's 2005 single "Huyu Msee Ni Fala" became his calling card and one of genge's defining tracks. The song's title (roughly "This Guy is Crazy/Foolish") captured the playful insolence that made genge resonate with urban youth. It was clever, rhythmically complex, and completely untranslatable to anyone outside [[Nairobi Urban Identity|Nairobi's urban identity]] system. This was the genius of Nonini's approach: he never sought validation beyond the city's boundaries, which paradoxically made his work more powerful and authentic.
 
 As a co-founder and driving force behind Calif Records alongside producer Clemo and [[Jua Cali|Jua Cali]], Nonini helped build the infrastructure that allowed genge to flourish commercially. Calif became more than a label; it was a creative hub, a distribution network, and a training ground for the next generation of Kenyan urban artists. The label's success proved that Kenyan musicians could build sustainable careers without international record deals or compromising their sound for foreign markets. This was revolutionary in an industry that had long looked outward for validation and revenue.
 
@@ -17,7 +17,7 @@ His influence extended beyond Kenya. As East African hip hop matured, Nonini's w
 - [[Jua Cali|Jua Cali]]
 - [[Gengetone Movement|Gengetone Movement]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[East African Hip Hop Origins|East African Hip Hop Origins]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 

@@ -1,4 +1,4 @@
-Female Genital Mutilation (FGM), locally known as "cutting" or circumcision in many Kenyan communities, is a deeply rooted cultural practice with complex histories in [[Maasai/Maasai People and Culture|Maasai]], [[Samburu/Samburu People]], [[Kalenjin/Kalenjin Groups|Kalenjin]], [[Somali/Somali People]], and other pastoralist and semi-pastoralist communities. FGM involves surgical alteration of female genitalia without medical necessity, typically performed on girls between infancy and age 15 as a rite of passage, frequently associated with marriage preparation and community identity affirmation.
+Female Genital Mutilation (FGM), locally known as "cutting" or circumcision in many Kenyan communities, is a deeply rooted cultural practice with complex histories in [[Maasai People and Culture|Maasai]], [[Samburu]], Kalenjin, Somali People, and other pastoralist and semi-pastoralist communities. FGM involves surgical alteration of female genitalia without medical necessity, typically performed on girls between infancy and age 15 as a rite of passage, frequently associated with marriage preparation and community identity affirmation.
 
 Prevalence data indicates significant variation by region and ethnicity. In 2014, the Kenya Demographic and Health Survey documented FGM prevalence ranging from under 1 percent in some communities to over 90 percent in others, with the highest rates in pastoralist regions of the north and east, and lower rates in urban centers and western communities. The practice is particularly prevalent among Maasai, Samburu, and Somali populations, where it has been embedded in age-set systems, initiation ceremonies, and marriage negotiations for centuries.
 
@@ -16,12 +16,12 @@ The practice remains contested within women's rights discourse in Kenya. While s
 
 ## See Also
 
-[[Maasai/Maasai People and Culture|Maasai Traditions]]
+[[Maasai People and Culture|Maasai Traditions]]
 [[Women Health Services]]
 [[Gender-Based Violence]]
 [[Women Organizations Advocacy]]
 [[Reproductive Rights Advocacy]]
-[[Religion/Religion in Kenya|Religious Perspectives]]
+Religious Perspectives
 [[Human Rights Military Operations]]
 
 ## Sources

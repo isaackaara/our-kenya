@@ -31,5 +31,5 @@ Multiple pastoral and agro-pastoral groups inhabit Isiolo:
 
 ## See Also
 - [[Samburu]]
-- [[Borana]]
+- Borana
 - [[Ewaso Nyiro River]]

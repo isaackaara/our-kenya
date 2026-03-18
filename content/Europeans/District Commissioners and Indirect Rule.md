@@ -78,10 +78,10 @@ Contemporary Kenya retains district administrative divisions and has District Co
 - [[Frederick Lugard]] - Theorist of Indirect Rule
 - [[John Ainsworth]] - Early Kenyan district administrator
 - [[Colonial Administration]] - Overview of colonial governance
-- [[Appointed Chiefs and Indirect Rule]] - Implementation mechanisms
+- Appointed Chiefs and Indirect Rule - Implementation mechanisms
 - [[Mau Mau Uprising]] - Resistance to DC authority
 - [[East Africa Protectorate to Colony]] - Administrative structure
-- [[Hut Tax and Labor Extraction]] - DC enforcement of taxation
+- Hut Tax and Labor Extraction - DC enforcement of taxation
 - [[Lancaster House and Departure]] - End of DC rule
 
 ## Sources

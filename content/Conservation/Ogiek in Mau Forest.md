@@ -1,4 +1,4 @@
-The [[Ogiek]] are a [[hunter-gatherer]] community whose ancestral homeland encompasses the [[Mau Forest]] Complex and surrounding areas in Kenya's western highlands. For generations, the Ogiek have depended on the forest for hunting, honey gathering, and other subsistence practices. However, successive governments have progressively displaced Ogiek communities from the forest, first through colonial policies and subsequently through conservation and development initiatives.
+The Ogiek are a hunter-gatherer community whose ancestral homeland encompasses the [[Mau Forest]] Complex and surrounding areas in Kenya's western highlands. For generations, the Ogiek have depended on the forest for hunting, honey gathering, and other subsistence practices. However, successive governments have progressively displaced Ogiek communities from the forest, first through colonial policies and subsequently through conservation and development initiatives.
 
 ## Ogiek History and Traditional Livelihoods
 
@@ -59,12 +59,12 @@ The case also illustrates the importance of connecting conservation, land rights
 ## See Also
 
 - [[Mau Forest]] - Forest ecosystem context
-- [[Indigenous Peoples and Cultural Significance]] - Broader indigenous frameworks
+- Indigenous Peoples and Cultural Significance - Broader indigenous frameworks
 - [[Fortress Conservation Critique]] - Conservation philosophy debates
 - [[Conservation vs Land Rights]] - Policy tensions and solutions
-- [[Land Tenure and Ownership]] - Secure tenure for communities
+- [[Land Tenure Post Independence]] - Secure tenure for communities
 - [[Ogiek and the Mau Forest]] - Parallel case documentation
-- [[African Court on Human and Peoples' Rights]] - Precedent-setting judgment
+- African Court on Human and Peoples' Rights - Precedent-setting judgment
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The [[The Squatter System]] was the primary mechanism through which [[African laborers]] were incorporated into [[European-owned farms]] in [[colonial Kenya]]. [[Squatters]] were [[African men]] (and their families) who lived on [[European estates]] and provided [[Labour]] in exchange for the right to cultivate small plots for subsistence and to graze limited [[livestock]]. The system was a form of [[Forced Labor]] that, combined with [[land alienation]], bound African rural populations to European farms. Increasing restrictions on squatter rights in the 1930s-1940s contributed directly to [[grievances]] that fueled the [[Mau Mau Uprising]].
+The [[The Squatter System]] was the primary mechanism through which African laborers were incorporated into European-owned farms in [[Colonial Kenya]]. Squatters were African men (and their families) who lived on European estates and provided [[Labour]] in exchange for the right to cultivate small plots for subsistence and to graze limited livestock. The system was a form of [[Forced Labor]] that, combined with [[Land Alienation]], bound African rural populations to European farms. Increasing restrictions on squatter rights in the 1930s-1940s contributed directly to grievances that fueled the [[Mau Mau Uprising]].
 
 ## Origins of the System
 
@@ -91,7 +91,7 @@ Contemporary large-scale farms in Kenya (many with origins in colonial-era Europ
 - [[Mau Mau Uprising]]
 - [[The 1952 Imposition of Emergency]]
 - [[White Highlands and Settler Society]]
-- [[Colonial Labor Systems]]
+- Colonial Labor Systems
 
 ## Sources
 

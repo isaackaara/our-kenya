@@ -6,7 +6,7 @@ Traditional Somali instruments include the kaban, an oud-like stringed instrumen
 
 Work songs and herding songs constitute important traditional categories. Somali pastoralists tending camels, goats, and sheep across northeastern Kenya's semi-arid landscapes sang to their animals, to pass time during long days in remote grazing areas, and to coordinate collective labor during well-digging, camp construction, and seasonal migrations. These songs often addressed the camels directly, praising particular animals' qualities, encouraging them during difficult journeys, or mourning their deaths. The songs reinforced bonds between herders and livestock while making solitary work more bearable through musical expression.
 
-Wedding music represents another major category, with multi-day celebrations featuring elaborate musical performances. Women perform dances called niiko and batar characterized by vigorous shoulder shaking and hip movements, their performances both celebrating the bride and displaying female vitality and fertility. Men perform dhaanto, energetic jumping dances resembling the athletic performances of [[Maasai/Maasai Age-Grade System|Maasai]] warriors. The wedding songs address themes of marriage, family alliances, and relationships between clans, their lyrics sometimes encoding political messages about inter-clan relations that the wedding symbolizes.
+Wedding music represents another major category, with multi-day celebrations featuring elaborate musical performances. Women perform dances called niiko and batar characterized by vigorous shoulder shaking and hip movements, their performances both celebrating the bride and displaying female vitality and fertility. Men perform dhaanto, energetic jumping dances resembling the athletic performances of [[Maasai Age-Grade System|Maasai]] warriors. The wedding songs address themes of marriage, family alliances, and relationships between clans, their lyrics sometimes encoding political messages about inter-clan relations that the wedding symbolizes.
 
 The Somali civil war beginning in 1991 profoundly affected Somali music in Kenya. Hundreds of thousands of Somali refugees fled to Kenya, particularly to sprawling camps in Dadaab and Kakuma but also to Nairobi, bringing musicians and musical practices from Somalia proper. This influx revitalized Somali musical life in Kenya while also creating new fusion forms as Somali musicians encountered Kenyan popular music. Some Somali-Kenyan artists blend traditional heeso with Kenyan genres like [[Luo Benga Origins|benga]], creating hybrid sounds that appeal to both Somali and non-Somali audiences.
 
@@ -24,7 +24,7 @@ The future of Somali music in Kenya depends partly on whether Somali-Kenyans bec
 - [[Turkana Music and Dance]]
 - [[Swahili Civilization Overview]]
 - [[Music and Pre-Christian Religion Kenya]]
-- [[Cross-Ethnic/Somali Integration Debates]]
+- Somali Integration Debates
 - [[Women's Music Traditions Kenya]]
 - [[Work Songs and Agricultural Music Kenya]]
 

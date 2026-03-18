@@ -10,7 +10,7 @@ Educational initiatives built app development capacity. Coding bootcamps trained
 
 ## See Also
 
-[[Software Development Companies]], [[Coding Bootcamps Kenya]], [[Tech Startups Ecosystem]], [[Mobile Internet Growth]], [[Entrepreneurship Kenya]], [[Technology Education Programs]]
+[[Software Development Companies]], [[Coding Bootcamps Kenya]], [[Tech Startups Ecosystem]], [[Mobile Internet Growth]], [[Entrepreneurship Kenya]], Technology Education Programs
 
 ## Sources
 

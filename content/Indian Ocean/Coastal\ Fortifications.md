@@ -23,8 +23,8 @@ The decline of traditional fortifications reflected the obsolescence of stone fo
 [[Harbor Facilities]]
 [[Port Infrastructure]]
 [[Naval Defense]]
-[[Political Authority]]
-[[Maritime Strategic Locations]]
+Political Authority
+Maritime Strategic Locations
 
 ## Sources
 

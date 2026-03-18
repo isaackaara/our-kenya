@@ -15,10 +15,10 @@ Moi's relationship with Tanzania's post-Nyerere leadership was smoother than his
 The broader East African region was reshaped by the relative decline of Tanzania and the continued dominance of Kenya and Uganda. Regional organisations and initiatives increasingly reflected Kenya's and Uganda's interests rather than representing a genuinely tripartite arrangement. Kenya's advantage in industrial production, in financial sector development, and in international connections meant that Kenya's economic interests often prevailed in regional negotiations. The contrast with the earlier post-independence period, when Tanzania under Nyerere had been a significant regional force, reflected the different trajectories of the two countries' development paths and Moi's success in positioning Kenya as the region's economic and political centre.
 
 ## See Also
-[[Tanzania/Economic History]]
-[[Kenya/Foreign Policy]]
+Economic History
+[[Foreign Policy]]
 [[Moi Foreign Policy]]
-[[East Africa/Regional Integration]]
+[[Regional Integration]]
 [[Legacy]]
 [[Moi and Uganda]]
 

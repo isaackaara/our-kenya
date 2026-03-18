@@ -20,11 +20,11 @@ The adoption of some European construction techniques by traditional dhow builde
 
 ## See Also
 
-[[Dhow Culture Navigation]]
+Dhow Culture Navigation
 [[Sailing Technology Evolution]]
-[[Maritime Craftsmanship]]
+Maritime Craftsmanship
 [[Merchant Vessels]]
-[[Regional Maritime Traditions]]
+Regional Maritime Traditions
 
 ## Sources
 

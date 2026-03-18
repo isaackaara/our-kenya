@@ -1,4 +1,4 @@
-The [[Insurance Regulatory Authority]] (IRA) is [[Kenya]]'s regulatory body for the [[insurance]] sector, overseeing insurance companies, brokers, and agents. The authority ensures market conduct, solvency, and consumer protection in the [[Insurance History Kenya|insurance industry]].
+The [[Insurance Regulatory Authority]] (IRA) is [[Kenya]]'s regulatory body for the insurance sector, overseeing insurance companies, brokers, and agents. The authority ensures market conduct, solvency, and consumer protection in the [[Insurance History Kenya|insurance industry]].
 
 ## See Also
 

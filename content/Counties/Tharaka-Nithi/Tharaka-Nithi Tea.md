@@ -15,7 +15,7 @@ Climate change presents significant challenges for tea production in Tharaka-Nit
 [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
 [[Tharaka|Tharaka-Nithi Climate]]
 [[Tharaka|Tharaka-Nithi Cooperatives]]
-[[../../Economic/Tea Production|Tea Production]]
+Tea Production
 
 ## Sources
 

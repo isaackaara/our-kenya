@@ -7,13 +7,13 @@ Sculptural figuration in Kenya employs diverse materials and approaches includin
 The relationship between figurative and abstract art has shaped artistic discourse in Kenya, with figuration sometimes positioned as less modern or innovative than abstraction. However, figurative art remains vital artistic practice with sophisticated contemporary practitioners. Figuration allows direct engagement with human experience, identity, and social issues accessible to broad audiences. Contemporary figurative artists in Kenya create work addressing contemporary concerns through human representation, maintaining figuration as major artistic strand. The persistence of figurative art reflects its continuing relevance and appeal.
 
 ## See Also
-- [[Portrait Painting Tradition]]
-- [[Human Figure in Art]]
-- [[Social Realism Kenya]]
-- [[Expressive Figuration]]
-- [[Sculpture Practice Kenya]]
-- [[Contemporary Figure Painting]]
-- [[Abstraction and Representation]]
+- Portrait Painting Tradition
+- Human Figure in Art
+- Social Realism Kenya
+- Expressive Figuration
+- [[Cultural Heritage]]
+- Contemporary Figure Painting
+- Abstraction and Representation
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Figurative_art - Figurative Art History

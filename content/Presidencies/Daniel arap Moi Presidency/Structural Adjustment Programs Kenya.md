@@ -4,7 +4,7 @@ Kenya's engagement with SAPs began in earnest in the early 1980s, following the 
 
 The reality was more complicated. Public sector employment cuts, one of SAP's core demands, meant thousands of civil servants lost jobs, increasing unemployment without corresponding private sector job creation. The civil servants who remained faced salary freezes or cuts in real terms due to inflation, eroding the state's capacity to deliver services. Teachers, nurses, and administrative staff, demoralized and underpaid, either left for private sector jobs where available or simply performed poorly. The quality of public education and health services declined, disproportionately affecting poor Kenyans who could not afford private alternatives.
 
-Privatization of parastatals, another SAP pillar, became a vehicle for [[Corruption/Moi Era Corruption|elite enrichment]] rather than efficiency gains. State-owned enterprises, including Kenya Airways, Telkom Kenya, and various agricultural marketing boards, were sold or restructured. But the sales were often opaque, with assets going to politically connected individuals at below-market prices. The new private owners, many of them [[Moi and the Kalenjin|Kalenjin elites]] or allies from the [[Moi and the Asian Community|Asian business community]], extracted profits without reinvesting in operations or expanding services. Employees were laid off, service quality declined, and the promised efficiency gains failed to materialize.
+Privatization of parastatals, another SAP pillar, became a vehicle for [[Moi Era Corruption|elite enrichment]] rather than efficiency gains. State-owned enterprises, including Kenya Airways, Telkom Kenya, and various agricultural marketing boards, were sold or restructured. But the sales were often opaque, with assets going to politically connected individuals at below-market prices. The new private owners, many of them [[Moi and the Kalenjin|Kalenjin elites]] or allies from the [[Moi and the Asian Community|Asian business community]], extracted profits without reinvesting in operations or expanding services. Employees were laid off, service quality declined, and the promised efficiency gains failed to materialize.
 
 Subsidy removal hit ordinary Kenyans hard. The government, under SAP conditions, eliminated or reduced subsidies on maize meal, cooking oil, and other staples, causing prices to spike. For urban poor and rural households already struggling with stagnant incomes, the price increases meant reduced consumption and increased malnutrition. The argument that removing subsidies would reduce government fiscal burdens was technically correct, but the social costs were borne by those least able to afford them. The World Bank's poverty data showed that the percentage of Kenyans living below the poverty line increased during the SAP era, contradicting claims that market reforms would reduce poverty.
 
@@ -24,10 +24,10 @@ The intellectual critique of SAPs, articulated by Kenyan economists like Wanjiru
 - [[Moi Economic Policy 1978-1990]]
 - [[Goldenberg Scandal]]
 - [[Moi Foreign Policy]]
-- [[Corruption/Moi Era Corruption]]
+- [[Moi Era Corruption]]
 - [[Moi and the Kalenjin]]
-- [[Cross-Ethnic/Economic Inequality and Ethnic Grievance]]
-- [[Elections/Economic Decline and Political Instability]]
+- Economic Inequality and Ethnic Grievance
+- Economic Decline and Political Instability
 
 ## Sources
 1. Bigsten, Arne, and Peter Kimuyu, eds. *Structure and Performance of Manufacturing in Kenya*. Palgrave Macmillan, 2002. https://link.springer.com/book/10.1057/9780230502840

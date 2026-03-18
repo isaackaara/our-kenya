@@ -19,9 +19,9 @@ The county government provides some agricultural extension services, veterinary 
 [[Samburu County]]
 [[Samburu Politics]]
 [[Pastoralism Under Pressure]]
-[[Drought and Food Security]]
+Drought and Food Security
 [[Samburu Education]]
-[[Kenya Livestock Development]]
+Kenya Livestock Development
 
 ## Sources
 

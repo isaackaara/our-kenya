@@ -4,12 +4,12 @@ The Kenya Malaria Control Programme, formally established in the early post-inde
 
 Kenya's most recent strategic framework, the Kenya Malaria Strategy 2023-2027, establishes goals for malaria control and elimination based on evidence-based interventions. The strategy emphasizes geographic targeting, focusing intensive interventions in endemic areas while consolidating gains in areas approaching elimination. National Malaria Control Programme documentation outlines comprehensive approaches to case detection, treatment, and prevention, informed by operational research conducted within Kenya's diverse epidemiological zones. The program maintains partnerships with academic institutions and research organizations to monitor parasite resistance patterns and treatment effectiveness.
 
-Prevention strategies have expanded beyond bed nets to include indoor residual spraying (IRS) in targeted areas, artemisinin-based combination therapy (ACT) for case management, and [[seasonal malaria chemoprophylaxis]] in epidemic-prone regions. Community health workers play a critical role in extending services to rural populations, providing rapid diagnostic testing and antimalarial medication at the village level. The program has integrated malaria control with broader health system strengthening, including training for health workers in malaria diagnosis and management at all facility levels.
+Prevention strategies have expanded beyond bed nets to include indoor residual spraying (IRS) in targeted areas, artemisinin-based combination therapy (ACT) for case management, and seasonal malaria chemoprophylaxis in epidemic-prone regions. Community health workers play a critical role in extending services to rural populations, providing rapid diagnostic testing and antimalarial medication at the village level. The program has integrated malaria control with broader health system strengthening, including training for health workers in malaria diagnosis and management at all facility levels.
 
 Challenges to malaria elimination in Kenya include drug resistance, insecticide resistance in mosquito populations, healthcare system capacity constraints in remote areas, and funding limitations. Climate change poses an emerging threat, with modeling suggesting potential expansion of malaria transmission into previously highland areas. Despite these obstacles, Kenya has demonstrated commitment to sustained investment and evidence-based approaches, positioning the country as a leader in malaria control within East Africa.
 
 ## See Also
-[[Vector-Borne Diseases Kenya|Vector-Borne Diseases Kenya]]
+[[Disease Surveillance Kenya|Vector-Borne Diseases Kenya]]
 [[Colonial Medicine Healthcare|Colonial Medicine Healthcare]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Health|Hospital Infrastructure Standards]]

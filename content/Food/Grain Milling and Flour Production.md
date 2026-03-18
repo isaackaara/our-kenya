@@ -15,9 +15,9 @@ Grain mill operations generated both positive and negative externalities. Mills 
 [[Flour Milling]]
 [[Maize Production]]
 [[Food Processing Industry]]
-[[Labour/Industrial Employment]]
-[[Health/Occupational Health Hazards]]
-[[Poverty/Rural-Urban Food Transitions]]
+Industrial Employment
+Occupational Health Hazards
+Rural-Urban Food Transitions
 
 ## Sources
 

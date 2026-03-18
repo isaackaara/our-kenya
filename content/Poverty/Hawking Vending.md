@@ -9,7 +9,7 @@ Clothing and household item vending follows similar patterns with specialized co
 The regulation and contestation around hawking represents ongoing tension in urban governance. Municipal authorities view informal vending as clogging urban spaces and creating disorder; periodic "clean-up" operations remove vendors and confiscate goods. Hawkers view regulation as oppressive, restricting livelihood activities essential for survival. Attempts to formalize vending through licensing and designated vending zones have partial success: some hawkers obtain licenses and operate in designated markets; most continue informal vending avoiding licensing costs. This creates ongoing conflict: authorities conduct enforcement; hawkers resist removal; confiscated goods are lost. From poverty perspective, hawking is crucial livelihood for millions; restriction without alternative income creation deepens poverty.
 
 ## See Also
-[[Informal Sector]], [[Jua Kali Economy]], [[Street Trading Regulations]], [[Small Business Development]], [[Income Generation]], [[Urban Poverty]], [[Market Stalls]], [[Employment Barriers]]
+[[Informal Sector]], [[Jua Kali Economy]], [[Street Trading Regulations]], [[Small Business Development]], Income Generation, [[Urban Poverty]], [[Market Stalls]], [[Employment Barriers]]
 
 ## Sources
 1. International Labour Organization (2018). "Street Vending and Informal Economy in Kenya." https://www.ilo.org

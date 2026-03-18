@@ -1,4 +1,4 @@
-The [[British colonial administration]] of [[Meru territory]] transformed [[political structures]], [[economic organization]], and [[social institutions]] from the 1890s onward. The Meru experience of colonialism was distinct from neighboring communities, shaped by [[geography]], the strength of indigenous institutions like the [[Njuri Ncheke]], and [[colonial administrative choices]].
+The British colonial administration of [[Meru People]] transformed political structures, economic organization, and social institutions from the 1890s onward. The Meru experience of colonialism was distinct from neighboring communities, shaped by [[Geography]], the strength of indigenous institutions like the [[Njuri Ncheke]], and colonial administrative choices.
 
 ## Colonial Administration and Chiefs
 

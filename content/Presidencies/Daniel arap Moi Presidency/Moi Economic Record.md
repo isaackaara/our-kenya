@@ -6,7 +6,7 @@ However, the global economic environment shifted dramatically in the early 1980s
 
 The Structural Adjustment Programs (SAPs) imposed by the [[International Monetary Fund]] and World Bank beginning in the mid-1980s attempted to address these imbalances. SAPs required Kenya to reduce government expenditure, remove price controls, trade liberalization, and privatization of state enterprises. These policies, designed to enhance market efficiency and eliminate government subsidies, instead contributed to increased poverty and inequality in Kenya. Food prices rose sharply as subsidies were removed, real wages for workers declined, and unemployment increased. Manufacturing firms that had developed under protected markets struggled to compete with cheap imports, leading to factory closures and job losses. The SAPs did not produce the promised growth recovery but rather contributed to social deterioration.
 
-Corruption expanded dramatically during the 1980s, feeding on state monopolies, government procurement processes, and licensing of imports and foreign exchange. The [[Goldenberg scandal]], uncovered in 1991, revealed systematic fraud in gold and diamond exports, with government officials issuing import licenses for non-existent gold and claiming export compensation. The fraud cost Kenya hundreds of millions of dollars in lost foreign exchange and government funds. The scandal exemplified the broader corruption that permeated Moi's economic policies. Ministers, security officials, and politically connected businessmen accumulated vast fortunes through government contracts, privatization of state enterprises, and other forms of state capture.
+Corruption expanded dramatically during the 1980s, feeding on state monopolies, government procurement processes, and licensing of imports and foreign exchange. The [[Goldenberg Scandal]], uncovered in 1991, revealed systematic fraud in gold and diamond exports, with government officials issuing import licenses for non-existent gold and claiming export compensation. The fraud cost Kenya hundreds of millions of dollars in lost foreign exchange and government funds. The scandal exemplified the broader corruption that permeated Moi's economic policies. Ministers, security officials, and politically connected businessmen accumulated vast fortunes through government contracts, privatization of state enterprises, and other forms of state capture.
 
 The privatization process itself became a mechanism for corruption. State enterprises, often monopolies in crucial sectors, were sold to politically connected individuals at far below their actual value. These individuals then extracted monopoly profits while reducing service quality and employment. Telecommunications, banking, insurance, and transportation companies were privatized in processes that lacked transparency and competitive bidding. The intended beneficiaries of privatization were government officials and those with political connections, not the broader Kenyan public. The privatization process transferred public assets to private hands without creating more efficient or service-oriented enterprises.
 
@@ -22,9 +22,9 @@ Moi's presidency saw some manufacturing development, particularly in food proces
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Goldenberg Scandal|Goldenberg Scandal]]
-- [[Kenya Structural Adjustment|Kenya Structural Adjustment]]
+- Kenya Structural Adjustment
 - [[Women and Agriculture Land Kenya|Kenya Agriculture]]
-- [[Kenya Tourism|Kenya Tourism]]
+- Kenya Tourism
 
 ## Sources
 

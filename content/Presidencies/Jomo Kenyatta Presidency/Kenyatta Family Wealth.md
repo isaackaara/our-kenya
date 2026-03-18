@@ -29,8 +29,8 @@ By the late 1970s, the Kenyatta family was among Kenya's wealthiest, with extens
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
 - [[Kenyatta Final Years|Kenyatta Final Years]]
 - [[Uhuru Kenyatta|Uhuru Kenyatta]]
-- [[../../Kenya Corruption|Kenya Corruption]]
-- [[../../Kenya Elite|Kenya Elite]]
+- [[Corruption|Kenya Corruption]]
+- Kenya Elite
 
 ## Sources
 

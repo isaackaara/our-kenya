@@ -21,7 +21,7 @@ Njonjo's legacy is complex. He helped build the legal infrastructure of the post
 - [[J.M. Kariuki]]
 - [[Kenyatta and Daniel arap Moi as VP]]
 - [[Provincial Administration Kenyatta Era]]
-- [[Kikuyu/Kikuyu Political Elite]]
+- [[Kikuyu Political Elite]]
 
 ## Sources
 1. Karimi, Joseph, and Philip Ochieng. *The Kenyatta Succession*. Transafrica, 1980. https://www.worldcat.org/title/kenyatta-succession/oclc/7272583

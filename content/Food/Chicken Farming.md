@@ -23,9 +23,9 @@ Market competition intensified as production increased. Imported chicken from de
 [[Poultry Production]]
 [[Livestock Farming Systems]]
 [[Food Security Policies]]
-[[Commercial Agriculture]]
+Commercial Agriculture
 [[Urban Food Supply Systems]]
-[[Rural Income Strategies]]
+Rural Income Strategies
 [[Nutritional Status Kenya]]
 
 ## Sources

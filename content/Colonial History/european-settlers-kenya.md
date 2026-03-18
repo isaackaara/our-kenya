@@ -7,8 +7,8 @@ Settler colonialism dispossessed Kikuyu and other groups from productive lands, 
 Settler descendants and their descendants remain contested figures in post-colonial Kenya.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

@@ -22,8 +22,8 @@ Independence in 1963 formally ended British rule but did not reverse land approp
 - [[Kwale Land|Kwale Land]]
 - [[Digo People|Digo People]]
 - [[Kwale Islam|Kwale Islam]]
-- [[../../Swahili People|Swahili People]]
-- [[../../Arab Trade|Arab Trade Networks]]
+- [[Swahili People|Swahili People]]
+- [[Merchant Networks|Arab Trade Networks]]
 
 ## Sources
 

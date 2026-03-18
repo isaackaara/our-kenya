@@ -33,10 +33,10 @@ By the 1950s, as African nationalism grew and independence approached, the Happy
 ## See Also
 
 - [[Happy Valley Set]] - Detailed article on the set
-- [[Josslyn Hay Murder]] - The 1941 scandal
+- Josslyn Hay Murder - The 1941 scandal
 - [[Karen Blixen]] - Contemporary settler writer
-- [[White Mischief]] - Book and film about the murder
-- [[Wanjohi Valley]] - Geographic location
+- White Mischief - Book and film about the murder
+- Wanjohi Valley - Geographic location
 - [[European Settlement Overview]] - Settler population context
-- [[Settler Excess and Morality]] - Colonial critique
+- Settler Excess and Morality - Colonial critique
 - [[Lancaster House and Departure]] - End of settler era

@@ -13,7 +13,7 @@ Resettlement raised equity questions within refugee populations. When select ind
 [[Western Resettlement]]
 [[Voluntary Repatriation]]
 [[Refugee Return Programs]]
-[[International Refugee Policy]]
+International Refugee Policy
 
 ## Sources
 

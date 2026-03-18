@@ -21,8 +21,8 @@ The environmental impacts of intensified fishing driven by expanding trade netwo
 ## See Also
 
 [[Food]]
-[[Coastal Economies]]
-[[Food Preservation Techniques]]
+Coastal Economies
+Food Preservation Techniques
 [[Merchant Networks]]
 [[Trade Routes Networks]]
 

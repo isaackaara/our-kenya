@@ -45,7 +45,7 @@ As Turkana increasingly interact with broader Kenyan society and global culture,
 - [[Turkana People Overview]]
 - [[Turkana Women]]
 - [[Turkana Social Structure]]
-- [[Turkana Culture]]
+- [[Turkana]]
 - [[Turkana Pastoralism]]
 
 ## Sources

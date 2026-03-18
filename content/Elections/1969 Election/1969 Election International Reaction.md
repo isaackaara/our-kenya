@@ -13,12 +13,12 @@ The absence of significant international criticism of Kenya's authoritarian cons
 ## See Also
 
 - [[1969 Election]]
-- [[Cold War in Africa]]
-- [[Western Policy Africa]]
-- [[Single-Party Systems Africa]]
+- Cold War in Africa
+- Western Policy Africa
+- Single-Party Systems Africa
 - [[Kamba in International Relations Kenya Trade]]
 - [[Moi Foreign Policy]]
-- [[Authoritarian Regimes Cold War]]
+- Authoritarian Regimes Cold War
 
 ## Sources
 

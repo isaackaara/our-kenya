@@ -7,13 +7,13 @@ Functional pottery production employs ceramic materials for dinnerware, storage,
 Ceramic sculpture and fine art ceramics explore ceramics as primary artistic medium. Sculptural ceramics employ varied forms and scales addressing conceptual and aesthetic concerns. Contemporary ceramic artists create sophisticated work achieving recognition within fine art contexts. Ceramic exhibitions increasingly feature contemporary ceramic art. The accessibility of ceramic materials and processes has democratized ceramic practice while professional practitioners develop specialized expertise. Contemporary Kenyan ceramic artists create work serving artistic, functional, and commercial purposes. Ceramic arts remain vital artistic practice within Kenya's visual culture.
 
 ## See Also
-- [[Clay and Material Properties]]
-- [[Pottery Techniques]]
+- Clay and Material Properties
+- Pottery Techniques
 - [[Technology]]
-- [[Sculptural Ceramics]]
-- [[Functional Pottery Production]]
-- [[Glaze Chemistry]]
-- [[Contemporary Ceramic Art]]
+- Sculptural Ceramics
+- Functional Pottery Production
+- Glaze Chemistry
+- Contemporary Ceramic Art
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Ceramic_art - Ceramic Art History

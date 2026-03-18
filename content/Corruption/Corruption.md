@@ -106,7 +106,7 @@ A comprehensive knowledge graph of corruption, institutional decay, and politica
 - [[Corruption in Healthcare Access]]
 - [[School Bursary Corruption]]
 - [[Corruption Jokes and Proverbs]]
-- [[Kitu Kidogo Culture]]
+- Kitu Kidogo Culture
 
 ## International Dimensions
 - [[Illicit Financial Flows Kenya]]

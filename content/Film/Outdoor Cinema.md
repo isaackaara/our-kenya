@@ -17,7 +17,7 @@ Digital projection technology affected outdoor cinema viability. Digital project
 By 2000s and 2010s, outdoor cinema remained present in some communities as occasional entertainment event or educational venue, though it was less common than during peak years. The format's persistence reflected its enduring social and cultural value despite technological displacement.
 
 ## See Also
-[[Cinema Theaters]], [[Drive-In Movies]], [[Film Distribution]], [[Film Infrastructure]], [[Documentary Film]], [[Education]], [[Entertainment]]
+[[Cinema Theaters]], [[Drive-In Movies]], [[Film Distribution]], [[Film Infrastructure]], [[Documentary Film]], [[Education]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

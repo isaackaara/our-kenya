@@ -1,6 +1,6 @@
 Micere Githae Mugo emerges as Kenya's most significant feminist writer and cultural theorist, an author whose poetry, drama, and critical essays transformed how postcolonial African literature addresses gender, cultural authenticity, and liberation politics. Born Madeleine Mugo in 1942 in Baricho, Kenya, Mugo developed across her career as poet, playwright, scholar, and activist, integrating artistic creation with intellectual critique and political commitment.
 
-Mugo's work as playwright and dramatist establishes her centrally within East African theater. Her collaboration with [[Ngugi wa Thiong'o]] on [[The Trial of Dedan Kimathi]] represents major achievement in postcolonial drama, a work that restored dignity to the Mau Mau commander and challenged how postcolonial Kenya commemorated its own liberation history. The play demonstrated that theater could intervene in how nations narrate themselves, recovering marginalized histories and asserting alternative visions of national identity.
+Mugo's work as playwright and dramatist establishes her centrally within East African theater. Her collaboration with [[Ngugi wa Thiong o]] on [[The Trial of Dedan Kimathi]] represents major achievement in postcolonial drama, a work that restored dignity to the Mau Mau commander and challenged how postcolonial Kenya commemorated its own liberation history. The play demonstrated that theater could intervene in how nations narrate themselves, recovering marginalized histories and asserting alternative visions of national identity.
 
 As poet, Mugo developed work addressed to specifically feminist concerns while maintaining engagement with broader postcolonial politics. Her poetry addresses the intersection of gender oppression and colonial violence, exploring how patriarchy and colonialism interconnect in shaping women's experiences. Unlike some feminist writing that treats gender as separate from political economy, Mugo's work insists on the integration of feminist and liberation politics.
 
@@ -19,11 +19,11 @@ Contemporary women writers continue engaging Mugo's example as they develop femi
 ## See Also
 [[The Trial of Dedan Kimathi]]
 [[Postcolonial Literature Movement]]
-[[African Feminist Thought]]
+African Feminist Thought
 [[Women Writers Authors Kenya]]
 [[Ngugi wa Thiong'o Literature]]
 [[Moi University]]
-[[Theater and Politics Africa]]
+Theater and Politics Africa
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Micere_Githae_Mugo - Comprehensive biography and literary achievement

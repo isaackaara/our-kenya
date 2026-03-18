@@ -10,7 +10,7 @@ Government policies attempted to reduce digital divides through infrastructure i
 
 ## See Also
 
-[[Mobile Penetration Kenya]], [[Internet Connectivity Progress]], [[Education Digital Divide]], [[Poverty Kenya]], [[Infrastructure Development]], [[Policy Reform Kenya]]
+[[Mobile Penetration Kenya]], [[Internet Connectivity Progress]], Education Digital Divide, [[Poverty]], [[Infrastructure Development]], Policy Reform Kenya
 
 ## Sources
 

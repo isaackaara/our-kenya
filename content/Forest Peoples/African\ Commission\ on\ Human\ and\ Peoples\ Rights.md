@@ -10,7 +10,7 @@ The ACHPR provides an avenue for indigenous peoples to access international just
 
 ## See Also
 
-[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Eviction\ Forest\ Lands]] | [[Land\ Dispossession]] | [[Hunting\ Rights]] | [[Mau Forest]] | [[International Indigenous Rights]]
+[[Forest\ Rights\ Land]] | [[Ogiek\ Community\ History]] | [[Eviction\ Forest\ Lands]] | [[Land\ Dispossession]] | [[Hunting\ Rights]] | [[Mau Forest]] | International Indigenous Rights
 
 ## Sources
 

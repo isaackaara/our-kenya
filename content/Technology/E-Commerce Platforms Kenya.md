@@ -10,7 +10,7 @@ Payment integration challenges constrained e-commerce expansion despite mobile m
 
 ## See Also
 
-[[Digital Payment Systems]], [[Mobile Internet Growth]], [[Entrepreneurship Kenya]], [[Logistics Innovation]], [[Technology]], [[Technology Startups Ecosystem]]
+[[Digital Payment Systems]], [[Mobile Internet Growth]], [[Entrepreneurship Kenya]], Logistics Innovation, [[Technology]], Technology Startups Ecosystem
 
 ## Sources
 

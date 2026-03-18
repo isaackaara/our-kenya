@@ -11,9 +11,9 @@ Public and alternative exhibition spaces including cafes, restaurants, small gal
 - [[Contemporary Art Galleries]]
 - [[Moi University]]
 - [[Public Art]]
-- [[Gallery Curation and Management]]
+- Gallery Curation and Management
 - [[Livestock Market Development]]
-- [[Urban Cultural Infrastructure]]
+- Urban Cultural Infrastructure
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/ - National Museum of Kenya

@@ -27,4 +27,4 @@ Mombasa remains Kenya's primary port and a major commercial and tourist destinat
 ## See Also
 - [[Swahili People]]
 - [[Fort Jesus]]
-- [[Indian Ocean Trade]]
+- [[Merchant Networks]]

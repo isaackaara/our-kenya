@@ -9,7 +9,7 @@ Photographic documentation of military memorials exists primarily in institution
 ## See Also
 [[Memorial Art]]
 [[Public Monuments]]
-[[Military and Security]]
+Military and Security
 [[Monument Restoration]]
 [[Photography Archives]]
 [[Conservation Artworks]]

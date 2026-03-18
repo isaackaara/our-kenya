@@ -1,10 +1,10 @@
-The [[Gusii]] have historically invested heavily in [[education]] as a pathway to advancement and modernization. From the mission education era through to the contemporary period, Kisii communities have sent their youth to school at high rates, producing an educated population and generating high expectations for educated employment. However, contemporary Kisii youth face challenges of graduate unemployment, limited job opportunities, and forced migration to urban centers.
+The [[Gusii people]] have historically invested heavily in [[Education]] as a pathway to advancement and modernization. From the mission education era through to the contemporary period, Kisii communities have sent their youth to school at high rates, producing an educated population and generating high expectations for educated employment. However, contemporary Kisii youth face challenges of graduate unemployment, limited job opportunities, and forced migration to urban centers.
 
 ## Educational Investment and Cultural Value
 
 Education became highly valued in Gusii culture from the colonial period onward. Several factors contributed:
 
-1. **Mission education** - Christian missionaries (particularly [[Seventh-day Adventist]], Africa Gospel Church, and [[Catholic]]) established schools and promoted education as part of Christian development
+1. **Mission education** - Christian missionaries (particularly Seventh-day Adventist, Africa Gospel Church, and Catholic) established schools and promoted education as part of Christian development
 2. **Colonial advancement** - education was pathway to colonial employment and social mobility
 3. **Community investment** - Gusii communities invested substantial resources in building schools and sending children to education
 4. **Postcolonial expectations** - after independence, education became seen as pathway to professional employment and national prominence

@@ -15,9 +15,9 @@ The aftermath of KADU's defeat was rapid and consequential. The majimbo system p
 - [[1963 Election KADU]]
 - [[1963 Election KANU]]
 - [[1963 Election Results]]
-- [[Regional Government Kenya]]
-- [[Pastoralist Representation Kenya]]
-- [[Centralization vs Devolution]]
+- Regional Government Kenya
+- Pastoralist Representation Kenya
+- Centralization vs Devolution
 - [[Kenya]]
 
 ## Sources

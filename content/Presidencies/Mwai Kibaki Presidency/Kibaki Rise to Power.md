@@ -17,10 +17,10 @@ Kibaki's 2002 election victory with 62 percent of the vote represented the most 
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya 2002 Election|Kenya 2002 Election]]
-- [[Kenya Finance Ministry|Kenya Finance Ministry]]
-- [[Kenya Vice Presidency|Kenya Vice Presidency]]
-- [[Kenya Political Transition|Kenya Political Transition]]
+- [[2002 Presidential Election|Kenya 2002 Election]]
+- Kenya Finance Ministry
+- [[Government|Kenya Vice Presidency]]
+- Kenya Political Transition
 
 ## Sources
 

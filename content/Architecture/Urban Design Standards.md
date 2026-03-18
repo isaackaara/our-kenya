@@ -15,7 +15,7 @@ Climate-responsive urban design standards increasingly incorporate features acco
 [[Urban Planning Development]]
 [[Zoning Regulations Implementation]]
 [[Development Aid]]
-[[Street Design]]
+Street Design
 [[Sustainability Design]]
 [[Climate Resilience]]
 [[Building Code Evolution]]

@@ -20,8 +20,8 @@ Despite these challenges, devolution has created opportunities for more localize
 
 ## See Also
 - [[Taita-Taveta County]]
-- [[County Government Kenya]]
-- [[Local Governance]]
+- [[Devolution Kenya]]
+- Local Governance
 - [[Public Art]]
 - [[Health]]
 - [[Education]]

@@ -77,4 +77,4 @@ Political competition in Kisii is often understood through clan lenses: which cl
 - [[Kisii Courtship and Marriage]] - clan exogamy rules
 - [[Kisii Cattle and Livestock]] - bride wealth exchanges
 - [[Kisii Age Sets]] - age organization within clans
-- [[Kisii County politics]] - contemporary clan-based politics
+- Kisii County politics - contemporary clan-based politics

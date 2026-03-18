@@ -16,7 +16,7 @@ The [[Post-Election Violence]] strained Kikuyu-Luo relationships city-wide, incl
 - [[The Luo-Kikuyu Axis]]
 - [[Urban Migration Ethnic Displacement]]
 - [[Women Across Ethnic Lines]]
-- [[Electoral Violence Kenya]]
+- [[Post-Election Violence]]
 - [[The Kenya We Share]]
 
 ## Sources

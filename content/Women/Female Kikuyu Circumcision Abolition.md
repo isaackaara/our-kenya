@@ -23,7 +23,7 @@ A crucial shift occurred when women's organizations and health advocates framed 
 [[Female Genital Mutilation]]
 [[Women Health Services]]
 [[Women Independence Struggle]]
-[[Kikuyu History Social Structure]]
+[[Kikuyu People and Culture]]
 [[Gender-Based Violence]]
 [[Women Leadership Capacity]]
 

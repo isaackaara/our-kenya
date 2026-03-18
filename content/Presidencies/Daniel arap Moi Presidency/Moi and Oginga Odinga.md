@@ -24,7 +24,7 @@ Moi's relationship with Odinga represented the limits of his tolerance for legit
 - [[Oginga Odinga|Oginga Odinga]]
 - [[Raila Odinga|Raila Odinga]]
 - [[Kibaki and Ethnic Politics Mount Kenya Dominance|Kenya Luo Politics]]
-- [[Kenya Multiparty Democracy|Kenya Multiparty Democracy]]
+- Kenya Multiparty Democracy
 
 ## Sources
 

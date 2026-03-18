@@ -8,12 +8,12 @@ Contemporary product design in Kenya continues serving manufacturing and commerc
 
 ## See Also
 - [[Industrial Building Design]]
-- [[User-Centered Design]]
-- [[Manufacturing and Design]]
-- [[Sustainable Design]]
+- User-Centered Design
+- Manufacturing and Design
+- Sustainable Design
 - [[Development Aid]]
-- [[Design Thinking]]
-- [[Engineering and Design]]
+- Design Thinking
+- Engineering and Design
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Product_design - Product Design History

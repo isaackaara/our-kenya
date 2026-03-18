@@ -16,7 +16,7 @@ Contemporary Kikuyu oath traditions continue in forms adapted to postcolonial co
 [[Prayer Anti-Colonial Movements]]
 [[Religious Opposition Colonialism]]
 [[Ancestor Veneration Practices]]
-[[Colonial Kenya/Kikuyu Resistance]]
+Kikuyu Resistance
 
 ## Sources
 

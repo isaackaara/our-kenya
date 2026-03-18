@@ -17,7 +17,7 @@ Contemporary slum upgrading increasingly incorporates climate resilience and liv
 [[Urban Planning Development]]
 [[Poverty]]
 [[Water Infrastructure]]
-[[Sanitation Infrastructure]]
+Sanitation Infrastructure
 [[Disaster Resilience]]
 
 ## Sources

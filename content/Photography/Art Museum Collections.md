@@ -9,11 +9,11 @@ Collection curation involves ongoing decisions about preservation, display, stor
 ## See Also
 - [[National Museum]]
 - [[Museum Curation]]
-- [[Art Conservation]]
+- Art Conservation
 - [[Moi Art Collection]]
-- [[Museum Interpretation and Display]]
-- [[Colonial Collections and Repatriation]]
-- [[Institutional Art Acquisition]]
+- Museum Interpretation and Display
+- Colonial Collections and Repatriation
+- Institutional Art Acquisition
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/ - National Museum of Kenya

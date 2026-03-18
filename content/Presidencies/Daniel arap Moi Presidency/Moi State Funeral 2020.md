@@ -18,9 +18,9 @@ The funeral also occasioned discussion of Kenya's approach to dealing with its a
 [[Moi Death January 2020]]
 [[Moi Legacy]]
 [[Moi Post-Presidency]]
-[[Kenya/Truth and Reconciliation]]
+[[Truth and Reconciliation]]
 [[Moi and Human Rights]]
-[[Kenya/State Ceremonies]]
+State Ceremonies
 
 ## Sources
 1. https://www.bbc.com/news/world-africa-51049255 (accessed 2024)

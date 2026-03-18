@@ -2,7 +2,7 @@ Kenyan lawyers challenged the 1988 election and the mlolongo system in court. Th
 
 ## See Also
 - [[1988 Election]]
-- [[Law Society Kenya]]
+- Law Society Kenya
 - [[Kenya]]
 - [[Kenya]]
 - [[Second Liberation Music Kenya]]

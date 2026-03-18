@@ -7,12 +7,12 @@ The combination of materials and media can serve conceptual purposes where mater
 Contemporary mixed media practice in Kenya reflects artistic sophistication and willingness to work outside traditional medium boundaries. Mixed media appears in commercial galleries, art schools, artist studios, and artist-run spaces. The development of mixed media practice expands possibilities for artistic expression and allows artists to develop individual visual languages combining preferred materials and techniques. Mixed media has become established approach rather than experimental exception. The continued evolution of mixed media reflects technological developments, material availability, and artistic innovation.
 
 ## See Also
-- [[Collage and Assemblage]]
-- [[Material and Meaning Art]]
-- [[Painting Traditions]]
-- [[Sculpture Practice]]
-- [[Contemporary Art Techniques]]
-- [[Hybrid Artistic Forms]]
+- Collage and Assemblage
+- Material and Meaning Art
+- Painting Traditions
+- Sculpture Practice
+- Contemporary Art Techniques
+- Hybrid Artistic Forms
 - [[Digital Art]]
 
 ## Sources

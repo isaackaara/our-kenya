@@ -22,9 +22,9 @@ Women-headed households suffer disproportionate dispossession. When husbands die
 
 [[Women Land Rights]]
 [[Female Inheritance Disputes]]
-[[Kikuyu History Social Structure]]
+[[Kikuyu People and Culture]]
 [[Women Property Rights Marriage]]
-[[Customary Law Women]]
+Customary Law Women
 [[Gender Pay Gap]]
 
 ## Sources

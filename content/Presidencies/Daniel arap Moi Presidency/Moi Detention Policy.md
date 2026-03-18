@@ -24,7 +24,7 @@ The release of detained political figures began in the early 1990s as Moi moved 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Moi and 1982 Coup Attempt|Moi and 1982 Coup Attempt]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya Human Rights|Kenya Human Rights]]
+- [[Kenya Human Rights Commission|Kenya Human Rights]]
 
 ## Sources
 

@@ -6,7 +6,7 @@ The sound blended genge's [[Sheng Language and Kenyan Music|Sheng]] lyrics and s
 
 Lyrically, gengetone pushed boundaries that made even genge look tame. Sexual content was explicit, often graphic. Drug references were casual. Violence appeared as both threat and documentation of street realities. The controversy was instant and intense. Radio stations banned gengetone tracks. The Kenya Film Classification Board threatened censorship. Politicians condemned the music as corrupting youth. Religious leaders called for it to be outlawed. The [[William Ruto Presidency|William Ruto presidency]] would later attempt various regulatory approaches to control or sanitize gengetone's content.
 
-But the moral panic missed what made gengetone culturally significant. The genre provided unprecedented documentation of [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] and their complex social worlds. Songs dealt with police brutality, economic hustle, the informal economy that employed millions of young Kenyans shut out of formal employment. The explicit content existed alongside sharp social commentary about class, corruption, and the failures of political leadership that had left entire generations without viable economic futures.
+But the moral panic missed what made gengetone culturally significant. The genre provided unprecedented documentation of [[Nairobi Urban Identity|Nairobi's informal settlements]] and their complex social worlds. Songs dealt with police brutality, economic hustle, the informal economy that employed millions of young Kenyans shut out of formal employment. The explicit content existed alongside sharp social commentary about class, corruption, and the failures of political leadership that had left entire generations without viable economic futures.
 
 Groups proliferated rapidly: [[Sailors Guild Kenya|Sailors Guild]], [[Boondocks Gang Kenya|Boondocks Gang]], Ochungulo Family, Mbogi Genje, and dozens more. Each estate seemed to spawn its own crew. The [[YouTube and Kenyan Music|YouTube]] algorithm favored this proliferation: more content meant more views, more views meant more visibility, more visibility meant more opportunities. Artists who would never have gotten past radio gatekeepers or label A&R could now build audiences directly.
 
@@ -24,7 +24,7 @@ By the mid-2020s, gengetone's commercial peak had passed, but its influence rema
 - [[Boondocks Gang Kenya|Boondocks Gang Kenya]]
 - [[Genge Music Origins|Genge Music Origins]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[YouTube and Kenyan Music|YouTube and Kenyan Music]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
 - [[Gengetone and Social Commentary|Gengetone and Social Commentary]]

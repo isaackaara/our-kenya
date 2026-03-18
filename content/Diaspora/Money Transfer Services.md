@@ -15,7 +15,7 @@ Competitive dynamics have produced service differentiation based on cost, speed,
 [[Remittance Corridor Development]]
 [[Remittances Kenya Economy]]
 [[Diaspora Investment Incentives]]
-[[Financial Services Kenya]]
+[[Financial Inclusion Kenya]]
 [[Diaspora Bonds Investment]]
 
 ## Sources

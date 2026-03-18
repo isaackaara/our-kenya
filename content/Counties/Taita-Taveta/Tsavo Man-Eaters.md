@@ -22,10 +22,10 @@ Contemporary discussion of the Tsavo Man-Eaters often relates to broader themes 
 - [[Taita-Taveta County]]
 - [[Uganda Railway Taita-Taveta]]
 - [[Tsavo East National Park]]
-- [[Wildlife Kenya]]
+- Wildlife Kenya
 - [[Human-Wildlife Conflict]]
-- [[Colonial History Kenya]]
-- [[Railway History Kenya]]
+- Colonial History Kenya
+- Railway History Kenya
 
 ## Sources
 1. Patterson, J. H. (1907). "The Man-Eaters of Tsavo." Macmillan Publishers.

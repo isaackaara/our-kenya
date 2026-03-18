@@ -18,7 +18,7 @@ The sugar industry generates substantial government revenue through taxation and
 
 ## Cross-Link
 
-[[../../Corporate Kenya/Sugar Industry Kenya]]
+[[Agriculture]]
 
 
 ## See Also

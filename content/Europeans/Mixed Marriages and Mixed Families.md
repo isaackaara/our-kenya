@@ -1,4 +1,4 @@
-Over the course of the 20th and early 21st centuries, some [[1963 Election European Settlers]] families in Kenya intermarried with [[Kenya]] of various backgrounds, creating children and grandchildren with complex, multi-layered identities that complicate simple categories of "[[settler]]" or "Kenyan." These unions occurred across [[ethnic]], [[Racial Hierarchy Colony]], [[Religion]], and class boundaries, though always against significant social resistance from both [[colonial-era]] and post-colonial communities.
+Over the course of the 20th and early 21st centuries, some [[1963 Election European Settlers]] families in Kenya intermarried with [[Kenya]] of various backgrounds, creating children and grandchildren with complex, multi-layered identities that complicate simple categories of "settler" or "Kenyan." These unions occurred across ethnic, [[Racial Hierarchy Colony]], [[Religion]], and class boundaries, though always against significant social resistance from both colonial-era and post-colonial communities.
 
 ## The Colonial Prohibition on Intermarriage
 

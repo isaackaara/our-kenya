@@ -26,7 +26,7 @@ Urban meat consumption patterns reflected income and cultural preferences. Highe
 [[Food Safety Standards]]
 [[Urban Food Supply Systems]]
 [[The NGO Economy]]
-[[Labor Systems Agriculture]]
+Labor Systems Agriculture
 
 ## Sources
 

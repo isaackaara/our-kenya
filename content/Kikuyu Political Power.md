@@ -1,0 +1,31 @@
+The [[Kikuyu]] community's relationship to state power has been the most consequential and contentious dynamic in Kenyan politics since [[Kenya Independence|independence]]. As the country's largest ethnic group, occupying the economically productive central highlands adjacent to [[Nairobi History|Nairobi]], the Kikuyu have produced three of Kenya's five presidents and have dominated the intersection of political authority and economic accumulation that defines the country's [[Kenya Political Economy|political economy]]. This dominance has generated both prosperity and resentment, shaping ethnic relations, electoral calculations, and the very structure of the Kenyan state.
+
+The foundations of Kikuyu political power were laid during the colonial period, paradoxically through the community's experience of dispossession and resistance. [[Land Alienation|Colonial land alienation]] in the [[White Highlands]] hit the Kikuyu hardest, but the proximity of their homeland to Nairobi and the colonial economy also gave them greater access to [[Education|education]], wage employment, and political organisation than more geographically remote communities. [[Jomo Kenyatta]], who became the face of Kenyan nationalism, was a Kikuyu whose ethnographic study *Facing Mount Kenya* articulated Kikuyu cultural identity for a global audience. The [[Mau Mau Uprising]]—overwhelmingly a Kikuyu movement, though it included [[Meru People|Meru]] and [[Kamba]] fighters—demonstrated the community's capacity for organised militant resistance, even as its brutal suppression left deep internal divisions between loyalists and former fighters.
+
+The [[Kenyatta Presidency]] (1963-1978) established the template for Kikuyu political dominance. Kenyatta used his authority to channel state resources toward Kikuyu elites through land redistribution in the former White Highlands, preferential access to government contracts, and appointments to key positions in the civil service, military, and parastatals. The formation of the Gikuyu, Embu, Mera Association (GEMA) in the 1970s formalised a Mount Kenya political bloc that sought to ensure Kikuyu succession after Kenyatta. This ethnic accumulation of political and economic capital was presented as legitimate reward for the community's suffering during colonialism and Mau Mau, but it generated deep resentment among other communities—particularly the [[Luo]], whose leaders like Oginga Odinga and Tom Mboya were progressively marginalised.
+
+The [[Daniel arap Moi Era]] represented an interruption of Kikuyu political dominance. Moi, a Kalenjin who succeeded Kenyatta through constitutional succession, systematically dismantled Kikuyu networks within the state, purging the military, civil service, and parastatals of Kikuyu appointees and redirecting patronage toward his own coalition. However, [[Kikuyu Business Dominance|Kikuyu business networks]], built during the Kenyatta era, proved more resilient than political networks. Kikuyu entrepreneurs maintained and expanded their dominance in manufacturing, transport, real estate, and retail, ensuring that economic power remained substantially in Kikuyu hands even when political power shifted.
+
+The concept of the [[Mount Kenya Mafia]]—a shadowy cabal of Kikuyu (and allied Meru and Embu) power brokers who allegedly control key economic sectors and influence political outcomes—became a prominent feature of Kenyan political discourse during [[Mwai Kibaki]]'s presidency (2003-2013). Kibaki, himself a Kikuyu economist, surrounded himself with advisors from the Mount Kenya region who were accused of concentrating power and marginalising the [[National Rainbow Coalition (NARC)|NARC coalition]] partners who had helped him win the 2002 election. The [[Anglo Leasing Scandal]], exposed by Kikuyu whistleblower John Githongo, revealed the complexity of Kikuyu political power: it was not monolithic but riven by internal factions competing for state resources.
+
+The [[Uhuru Kenyatta Presidency]] (2013-2022) marked the return of the Kenyatta family dynasty to power. Uhuru, son of Jomo Kenyatta, was elected partly through a mobilisation of Kikuyu solidarity triggered by his [[ICC Cases Kenya|ICC indictment]] for alleged involvement in the [[2007-2008 Post Election Violence|2007-2008 post-election violence]]—charges that were eventually dropped. His alliance with [[William Ruto Presidency|William Ruto]], a Kalenjin, through the [[Jubilee Party]] combined the two largest Rift Valley communities in a coalition that dominated two electoral cycles. However, the [[The Handshake 2018|2018 handshake]] between Uhuru and Raila Odinga shattered this alliance, pitting Uhuru against Ruto and ultimately producing a dramatic realignment in which Ruto won the 2022 presidency with significant support from disaffected Kikuyu voters.
+
+The post-2022 period represents a potentially significant shift in Kikuyu political power. For the first time since Moi's ascendancy, the Kikuyu community finds itself without one of its own in the presidency and divided between those aligned with Ruto's government and those in opposition. The [[Gen Z Protests 2024|2024 Gen Z protests]], which explicitly rejected ethnic political calculations, suggested that younger Kikuyu—like their counterparts across communities—may be less willing to subordinate economic grievances to ethnic solidarity. Whether this represents a fundamental transformation of Kenya's ethnic political arithmetic or merely a temporary disruption remains to be seen.
+
+## See Also
+
+- [[Kikuyu]]
+- [[Kikuyu Business Dominance]]
+- [[Mount Kenya Mafia]]
+- [[Kenyatta Presidency]]
+- [[Uhuru Kenyatta Presidency]]
+- [[Mau Mau Uprising]]
+- [[Kenya Political Economy]]
+- [[Elections]]
+
+## Sources
+
+1. Throup, David and Charles Hornsby. *Multi-Party Politics in Kenya*. Oxford: James Currey, 1998.
+2. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. New Haven: Yale University Press, 2011.
+3. Kinyatti, Maina wa. *History of Resistance in Kenya, 1884-2002*. Nairobi: Mau Mau Research Centre, 2008.
+4. Murunga, Godwin R. "Governance and the Politics of Structural Adjustment in Kenya." In *Kenya: The Struggle for Democracy*, edited by Godwin R. Murunga and Shadrack W. Nasong'o, 263-300. London: Zed Books, 2007.

@@ -129,11 +129,11 @@ Government nutrition programs, school feeding programs, and food aid supplement 
 ## See Also
 
 - [[Kisii Farming Practices]] - agricultural production
-- [[Seventh-day Adventist dietary practices]] - religious dietary influence
-- [[East African food culture]] - regional context
-- [[Food security in Kenya]] - national food systems
-- [[Women and food production]] - gender dimensions
-- [[Tea farming in Kisii]] - cash crop economy impact
+- Seventh-day Adventist dietary practices - religious dietary influence
+- East African food culture - regional context
+- Food security in Kenya - national food systems
+- Women and food production - gender dimensions
+- Tea farming in Kisii - cash crop economy impact
 
 ## Sources
 

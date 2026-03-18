@@ -9,7 +9,7 @@ The composition of development aid shifted significantly across decades. Early a
 Development aid effectiveness remains debated among economists and policy analysts. Advocates highlight specific achievements: malaria control interventions reaching millions, schools and health facilities constructed, and policy reforms facilitated. Critics argue aid perpetuates dependency, distorts government priorities toward donor preferences, creates parallel systems undermining public institutions, and fails to address structural inequality. Empirical evidence on aid-to-growth relationships remains contested. Politically, development aid has been weaponized: donors condition assistance on governance and rights adherence, creating leverage over state behavior, while Kenyan governments resist external pressure on sovereignty grounds. The aid ecosystem shapes poverty reduction possibilities significantly while remaining contested terrain.
 
 ## See Also
-[[Poverty Measurement]], [[NGO Landscape Kenya]], [[Social Protection]], [[Economic Policy Evolution]], [[Debt Poverty]], [[Governance Structures]], [[Infrastructure Investment]], [[Health Services]]
+[[Poverty Measurement]], [[NGO Landscape Kenya]], [[Social Protection]], Economic Policy Evolution, [[Debt Poverty]], Governance Structures, [[Infrastructure Investment]], [[Health Services]]
 
 ## Sources
 1. OECD Development Assistance Committee (2019). "Aid Statistics: Kenya Country Profile." https://www.oecd.org

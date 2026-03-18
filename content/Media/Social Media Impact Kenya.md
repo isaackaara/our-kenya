@@ -13,8 +13,8 @@ Social media platforms' influence on news consumption and information access tra
 [[Online News Platforms]]
 [[Political Reporting Elections]]
 [[Media Independence Coverage]]
-[[Technology/Social Media Kenya]]
-[[Misinformation/Fact Checking]]
+[[Social Media Kenya]]
+Fact Checking
 
 ## Sources
 1. https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/kenya

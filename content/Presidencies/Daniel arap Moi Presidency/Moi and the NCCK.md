@@ -16,10 +16,10 @@ The emergence of the NCCK and individual church leaders as voices of opposition 
 
 ## See Also
 [[Moi and the Catholic Church]]
-[[Kenya/Church and State]]
+Church and State
 [[Moi Detention Policy]]
 [[Moi and the Opposition]]
-[[Kenya/Multiparty Transition]]
+[[Multiparty Transition]]
 [[Moi Legacy]]
 
 ## Sources

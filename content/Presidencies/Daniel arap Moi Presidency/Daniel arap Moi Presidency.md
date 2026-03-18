@@ -10,19 +10,19 @@ Moi initially presented himself as a moderate successor to Kenyatta, pledging to
 2. [[Moi Cabinet and Loyalists|Moi Cabinet]] - The inner circle and Kalenjin-dominated state
 3. [[Moi Nyayo Philosophy|Moi Nyayo Philosophy]] - "Following footsteps" ideology and reality
 4. [[Moi Economic Policy 1978-1990|Moi Economic Policy]] - Economic decline, corruption, and structural adjustment
-5. [[Moi and the 1982 Coup|Moi and the 1982 Coup]] - The air force coup attempt and aftermath
+5. Moi and the 1982 Coup - The air force coup attempt and aftermath
 6. [[One-Party State Formation|Moi One-Party State]] - The 1982 constitutional amendment
-7. [[Moi Detention and Torture|Moi Detention and Torture]] - Nyayo House and political prisoners
+7. Moi Detention and Torture - Nyayo House and political prisoners
 8. [[Charles Njonjo|Moi and Charles Njonjo]] - The rise and fall of Kenyatta's heir
 9. [[Goldenberg Scandal|Moi Goldenberg Scandal]] - Gold and diamond export fraud
-10. [[Moi Second Liberation|Moi Second Liberation]] - Multiparty pressure 1990-1991
+10. Moi Second Liberation - Multiparty pressure 1990-1991
 11. [[Elections|Moi Multiparty Elections]] - The 1992 and 1997 elections
-12. [[Moi and the Rift Valley Violence|Moi and the Rift Valley Violence]] - Ethnic clashes 1992-1993
-13. [[Moi Land Policy|Moi Land Policy]] - Land grabbing and patronage
+12. Moi and the Rift Valley Violence - Ethnic clashes 1992-1993
+13. Moi Land Policy - Land grabbing and patronage
 14. [[Moi Foreign Policy|Moi Foreign Policy]] - Cold War Kenya, US relationship, Somalia
-15. [[Moi and the Press|Moi and the Press]] - Sedition laws, newspaper bans, imprisoned journalists
-16. [[Moi and Religion|Moi and Religion]] - Church as opposition, NCCK, Timothy Njoya
-17. [[Moi Final Years|Moi Final Years]] - The 2002 succession and NARC landslide
+15. Moi and the Press - Sedition laws, newspaper bans, imprisoned journalists
+16. Moi and Religion - Church as opposition, NCCK, Timothy Njoya
+17. Moi Final Years - The 2002 succession and NARC landslide
 18. [[Moi Legacy|Moi Legacy]] - What 24 years left behind
 19. [[Moi Presidency Timeline|Moi Presidency Timeline]] - Key dates 1978-2002
 
@@ -36,8 +36,8 @@ Moi's presidency can be divided into distinct phases. The early years (1978-1982
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Daniel arap Moi|Daniel arap Moi]]
 - [[Kalenjin|Kalenjin]]
-- [[../../Kenya Authoritarianism|Kenya Authoritarianism]]
-- [[../../Kenya Post-Colonial Politics|Kenya Post-Colonial Politics]]
+- [[Daniel arap Moi Era|Kenya Authoritarianism]]
+- [[Politics|Kenya Post-Colonial Politics]]
 
 ## Sources
 

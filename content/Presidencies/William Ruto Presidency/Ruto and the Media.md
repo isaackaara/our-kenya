@@ -7,9 +7,9 @@ The press freedom environment remains contested, with journalists reporting vari
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Press Freedom|Kenya Press Freedom]]
-- [[Kenya Media Ownership|Kenya Media Ownership]]
-- [[Digital Media Politics|Digital Media Politics]]
+- [[State Censorship and Literature|Kenya Press Freedom]]
+- [[Social Media Kenya|Kenya Media Ownership]]
+- Digital Media Politics
 
 ## Sources
 

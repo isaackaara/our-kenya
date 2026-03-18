@@ -6,13 +6,13 @@ The ideological gap between them was evident from the start but manageable while
 
 As vice president and Minister for Home Affairs in the [[Jomo Kenyatta Cabinet Formation 1963|first cabinet]], Odinga found himself increasingly sidelined. Real power over security flowed through [[Charles Njonjo]], the Attorney General, and through [[Mbiyu Koinange]], who controlled access to Kenyatta. When Odinga tried to influence land policy to favor landless peasants over wealthy buyers, he was blocked. When he pushed for nationalization of key industries, Kenyatta publicly rebuked him. The phrase "not yet uhuru" (not yet freedom), which Odinga used to describe the betrayal of independence ideals, became his rallying cry and Kenyatta's indictment.
 
-The personal dimension of their rupture was equally significant. Odinga was [[Luo/Luo Political Leadership|Luo]], from Nyanza Province, and he represented constituencies that had supported KANU but were watching Kikuyu accumulation of land and power with growing alarm. Kenyatta's inner circle, dominated by Kikuyu from Kiambu, viewed Odinga with suspicion. They saw his Soviet connections, his friendship with Chinese diplomats, and his radical rhetoric as threats to their vision of a stable, pro-Western Kenya that they could control.
+The personal dimension of their rupture was equally significant. Odinga was [[Luo Political Leadership|Luo]], from Nyanza Province, and he represented constituencies that had supported KANU but were watching Kikuyu accumulation of land and power with growing alarm. Kenyatta's inner circle, dominated by Kikuyu from Kiambu, viewed Odinga with suspicion. They saw his Soviet connections, his friendship with Chinese diplomats, and his radical rhetoric as threats to their vision of a stable, pro-Western Kenya that they could control.
 
 The breaking point came in 1966. Odinga resigned as vice president in April, citing irreconcilable differences with Kenyatta's government. Within weeks, he and 29 other MPs had formed the [[Kenya People's Union Formation|Kenya People's Union]] (KPU), a socialist opposition party that directly challenged KANU's dominance. The formation of KPU transformed Kenyan politics from a coalition government managing ethnic and ideological diversity into a zero-sum competition between Kenyatta's capitalist KANU and Odinga's socialist alternative.
 
 Kenyatta's response was methodical and ruthless. Constitutional amendments forced KPU MPs to seek re-election in by-elections, where KANU used state resources to defeat them. Security services harassed KPU organizers. And in 1969, after the [[Tom Mboya Assassination 1969|assassination of Tom Mboya]] and the [[Kisumu Massacre 1969|Kisumu massacre]], Kenyatta [[Banning of KPU 1969|banned the KPU]] entirely and detained Odinga without trial for 15 months.
 
-Odinga spent the rest of the Kenyatta era in political wilderness, occasionally detained, always watched. He remained a symbol of opposition, a reminder of the path not taken, and a hero to those, particularly in [[Luo/Luo-Kikuyu Relations|Luoland]], who felt betrayed by independence. His son, Raila Odinga, would inherit this political legacy and continue the struggle for decades.
+Odinga spent the rest of the Kenyatta era in political wilderness, occasionally detained, always watched. He remained a symbol of opposition, a reminder of the path not taken, and a hero to those, particularly in [[Luo-Kikuyu Relations|Luoland]], who felt betrayed by independence. His son, Raila Odinga, would inherit this political legacy and continue the struggle for decades.
 
 The Kenyatta-Odinga rupture was more than a political disagreement. It was the collision of two visions for Kenya: one emphasizing ethnic balance, socialist economics, and Pan-African solidarity; the other prioritizing stability, capitalist development, and Kikuyu consolidation of power. Kenyatta won the immediate battle, but Odinga's critique that independence had been hijacked by a new elite proved prophetic.
 
@@ -21,10 +21,10 @@ The Kenyatta-Odinga rupture was more than a political disagreement. It was the c
 - [[Kenya People's Union Formation]]
 - [[Banning of KPU 1969]]
 - [[Kisumu Massacre 1969]]
-- [[Luo/Luo Political Leadership]]
-- [[Luo/Luo-Kikuyu Relations]]
+- [[Luo Political Leadership]]
+- [[Luo-Kikuyu Relations]]
 - [[Tom Mboya Assassination 1969]]
-- [[Kikuyu/Kikuyu Political Elite]]
+- [[Kikuyu Political Elite]]
 
 ## Sources
 1. Odinga, Oginga. *Not Yet Uhuru*. Heinemann, 1967. https://www.worldcat.org/title/not-yet-uhuru/oclc/464831

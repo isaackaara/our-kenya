@@ -23,7 +23,7 @@ The Kenyatta family's continued influence in Kenyan land, business, and politics
 [[2017 Election]]
 [[KANU Party]]
 [[Jubilee Alliance Formation 2013]]
-[[ICC Factor Kenya]]
+ICC Factor Kenya
 [[Jomo Kenyatta Presidency]]
 [[The Handshake]]
 

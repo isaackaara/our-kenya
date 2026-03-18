@@ -24,7 +24,7 @@ Beni represented a creative African navigation of colonial power. By mimicking E
 - [[The Nairobi Sound 1950s]]
 - [[Music and Colonial Labour]]
 - [[Swahili Civilization Overview]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 
 ## Sources
 1. Ranger, T.O. "Dance and Society in Eastern Africa 1890-1970: The Beni Ngoma." University of California Press, 1975. https://www.ucpress.edu/book/9780520028401/dance-and-society-in-eastern-africa-1890-1970

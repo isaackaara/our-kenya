@@ -11,10 +11,10 @@ Investigative journalism's development in Kenya illustrated journalism's importa
 ## See Also
 [[Media Independence Coverage]]
 [[Journalist Code Ethics]]
-[[Corruption/Media Coverage]]
+Media Coverage
 [[Political Reporting Elections]]
 [[Press Councils Regulation]]
-[[Documentation/Human Rights]]
+Human Rights
 
 ## Sources
 1. https://www.pulselive.co.ke/articles/entertainment/celebrities/mohamed-ali-john-allan-namu-and-11-other-top-kenyan-investigative-journalists-2024072917033738882

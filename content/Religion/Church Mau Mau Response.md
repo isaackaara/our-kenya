@@ -1,4 +1,4 @@
-The [[Mau Mau rebellion|Mau Mau rebellion]] of 1952-1960 created severe crises for Kenya's Christian churches, forcing them to navigate between institutional survival, colonial demands for loyalty, and recognition that rebels and their supporters were church members. The initial government and colonial authority narrative presented Mau Mau as an atheistic, pagan revival that threatened Christian civilization. The rebellion was described as connected to pre-Christian Kikuyu religious practices and oathing ceremonies. Christian churches were positioned as bulwarks against Mau Mau darkness.
+The [[Mau Mau Uprising|Mau Mau rebellion]] of 1952-1960 created severe crises for Kenya's Christian churches, forcing them to navigate between institutional survival, colonial demands for loyalty, and recognition that rebels and their supporters were church members. The initial government and colonial authority narrative presented Mau Mau as an atheistic, pagan revival that threatened Christian civilization. The rebellion was described as connected to pre-Christian Kikuyu religious practices and oathing ceremonies. Christian churches were positioned as bulwarks against Mau Mau darkness.
 
 The [[Church Mau Mau Response|actual response of churches proved more ambivalent]]. Some Christian leaders cooperated fully with security forces, helping identify suspected rebels and justifying colonial violence as necessary defense of Christian order. These church leaders condemned Mau Mau absolutely and urged Christian congregants to reject the rebellion. Their stance was shaped by institutional interests; churches feared being marginalized if they appeared disloyal to colonial authority and post-independence government. Cooperating with authority offered protection and continued institutional influence.
 
@@ -11,7 +11,7 @@ Post-rebellion, churches faced challenges addressing historical collaboration. C
 Different denominations responded differently. The Anglican Church's official stance was anti-rebellion, reflecting its establishment status. Yet Presbyterian and Catholic communities included more diverse responses. Independent churches and Pentecostal groups, positioning themselves as authentically African and spiritual, sometimes attracted rebels and their sympathizers. The rebellion thus reinforced divisions between establishment churches connected to colonial authority and independent churches claiming African authenticity and spiritual power.
 
 ## See Also
-- [[Mau Mau rebellion]]
+- [[Mau Mau Uprising]]
 - [[Church and State Relations]]
 - [[Religious Opposition Colonialism]]
 - [[Kikuyu Religion Colonialism]]

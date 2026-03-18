@@ -9,12 +9,12 @@ The 2019 census also revealed Kenya's persistent regional development disparitie
 Implementation of census-based constituency boundary reviews proceeded slowly, contributing to electoral uncertainty and litigation in the lead-up to the 2022 general elections. The politically charged nature of census data ensured that its findings would continue to generate controversy well beyond Uhuru's presidency.
 
 ## See Also
-[[Demographics of Kenya 2013-2022]]
-[[Electoral Boundaries and Census Data]]
-[[Devolution and Revenue Distribution]]
+Demographics of Kenya 2013-2022
+Electoral Boundaries and Census Data
+Devolution and Revenue Distribution
 [[Development Aid]]
-[[Population Growth and Service Delivery]]
-[[Ethnic Demographics and Politics Kenya]]
+Population Growth and Service Delivery
+Ethnic Demographics and Politics Kenya
 
 ## Sources
 1. https://www.knbs.or.ke/2019-national-census-volume-1/ (Kenya National Bureau of Statistics)

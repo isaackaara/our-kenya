@@ -8,9 +8,9 @@ Pre-colonial merchants often held significant social status and political influe
 
 ## See Also
 - [[Swahili Coast]]
-- [[Indian Ocean World]]
-- [[Pre-Colonial Trade]]
-- [[Cultural Exchange Indian Ocean]]
+- [[The Indian Ocean World]]
+- Pre-Colonial Trade
+- Cultural Exchange Indian Ocean
 
 ## Sources
 - Alpers, Edward (1975) East Africa and the Indian Ocean World

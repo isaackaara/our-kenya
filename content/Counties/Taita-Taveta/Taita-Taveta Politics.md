@@ -24,10 +24,10 @@ Political violence and political tensions have occasionally erupted during elect
 - [[Taita-Taveta County]]
 - [[Taita People County]]
 - [[Kenya]]
-- [[County Government Kenya]]
-- [[Electoral Systems Kenya]]
+- [[Devolution Kenya]]
+- Electoral Systems Kenya
 - [[Women]]
-- [[Political Parties Kenya]]
+- [[Elections]]
 
 ## Sources
 1. Independent Electoral and Boundaries Commission. "County Election Results and Statistics." https://www.iebc.or.ke

@@ -29,7 +29,7 @@ Media coverage of female sports has remained minimal. Female athletes receive a 
 [[Women Sports Achievement]]
 [[Gender Employment Discrimination]]
 [[Women Leadership Capacity]]
-[[Media and Press Kenya]]
+[[Social Media Kenya]]
 
 ## Sources
 

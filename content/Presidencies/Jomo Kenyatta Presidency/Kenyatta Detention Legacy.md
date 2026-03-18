@@ -1,6 +1,6 @@
 Jomo Kenyatta's own detention by the British colonial authorities from 1952 to 1961 was a formative experience that profoundly shaped his presidency. Yet the paradox of his political leadership was that while he himself had suffered under detention, his government would employ detention and imprisonment as tools of political control against his opponents. Understanding how Kenyatta's detention experience influenced (or failed to influence) his approach to political prisoners and dissidents is crucial to understanding his presidency.
 
-Kenyatta was arrested in April 1952, during the state of emergency declared in response to the outbreak of the [[Mau Mau Rebellion]]. He was held without trial for several months, then subjected to a controversial trial at [[Kapenguria]], a remote location in northern Kenya. The Kapenguria Trial is widely regarded by historians as fundamentally unjust: it was conducted in a makeshift courtroom, the principal judge was of questionable independence, and evidence suggests that the trial was orchestrated to produce a predetermined outcome. Kenyatta was convicted of managing the Mau Mau rebellion and sentenced to seven years imprisonment.
+Kenyatta was arrested in April 1952, during the state of emergency declared in response to the outbreak of the [[Mau Mau Uprising]]. He was held without trial for several months, then subjected to a controversial trial at Kapenguria, a remote location in northern Kenya. The Kapenguria Trial is widely regarded by historians as fundamentally unjust: it was conducted in a makeshift courtroom, the principal judge was of questionable independence, and evidence suggests that the trial was orchestrated to produce a predetermined outcome. Kenyatta was convicted of managing the Mau Mau rebellion and sentenced to seven years imprisonment.
 
 For much of his sentence, Kenyatta was held at Lokitaung, an extremely remote prison in northern Kenya where conditions were harsh. The isolation, poor conditions, and apparent injustice of his confinement made him a symbol of anti-colonial resistance. By the time of his release in 1961, he had acquired the status of a nationalist martyr. His detention had made him iconic in ways that his political career before 1952 had not.
 
@@ -27,10 +27,10 @@ The detention question also highlights a broader issue in post-independence Afri
 - [[Kenyatta Rise to Power|Kenyatta Rise to Power]]
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
 - [[Kenyatta and the Luo|Kenyatta and the Luo]]
-- [[../../Kapenguria Trial|Kapenguria Trial]]
-- [[../../Mau Mau Rebellion|Mau Mau Rebellion]]
-- [[../../Kenya Human Rights|Kenya Human Rights]]
-- [[../../Preventive Detention Act|Preventive Detention Act]]
+- Kapenguria Trial
+- [[Mau Mau Uprising|Mau Mau Rebellion]]
+- [[Kenya Human Rights Commission|Kenya Human Rights]]
+- Preventive Detention Act
 
 ## Sources
 

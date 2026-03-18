@@ -1,4 +1,4 @@
-The [[Kaya System|kaya]] (plural: makaya) is the defining institution of [[Mijikenda]] society. Each [[Kaya System|kaya]] is a fortified forest village built on a hilltop, surrounded by dense indigenous forest that provides both defense and sacred enclosure. The [[Kaya System|kaya]] served simultaneously as a permanent settlement, a political capital, a spiritual sanctuary, and a repository of cultural knowledge and ritual practice. The term "kaya" refers both to the physical settlement and to the sacred forest that surrounds and defines it.
+The [[The Kaya System|kaya]] (plural: makaya) is the defining institution of [[Mijikenda]] society. Each [[The Kaya System|kaya]] is a fortified forest village built on a hilltop, surrounded by dense indigenous forest that provides both defense and sacred enclosure. The [[The Kaya System|kaya]] served simultaneously as a permanent settlement, a political capital, a spiritual sanctuary, and a repository of cultural knowledge and ritual practice. The term "kaya" refers both to the physical settlement and to the sacred forest that surrounds and defines it.
 
 ## Physical Structure and Defensive Function
 
@@ -24,7 +24,7 @@ The kaya system was tied to elaborate male and female initiation ceremonies. You
 
 ## The Kaya System Under Colonial Rule
 
-During the British colonial period (1895-1963), the [[Kaya System|kayas]] came under pressure. The British viewed the [[Kaya System|kayas]] as centers of resistance and cultural conservatism that impeded colonial administration. During the [[The Giriama Uprising 1913-1914|Giriama Uprising]] of 1913-1914, the British specifically targeted the [[Kaya System|kayas]], burning settlements and razing sacred spaces as punishment. The burning of Kaya Fungo, the sacred center of the [[Giriama]], symbolized the colonial assault on the [[Kaya System|kaya system]].
+During the British colonial period (1895-1963), the [[The Kaya System|kayas]] came under pressure. The British viewed the [[The Kaya System|kayas]] as centers of resistance and cultural conservatism that impeded colonial administration. During the [[The Giriama Uprising 1913-1914|Giriama Uprising]] of 1913-1914, the British specifically targeted the [[The Kaya System|kayas]], burning settlements and razing sacred spaces as punishment. The burning of Kaya Fungo, the sacred center of the [[giriama]], symbolized the colonial assault on the [[The Kaya System|kaya system]].
 
 Following the uprising, the British imposed colonial rule more directly, and the kayas gradually ceased to function as permanent settlements. The colonial government encouraged or forced the Mijikenda to relocate outside the kayas, establishing communities in areas more accessible to colonial administration and labor recruitment. By the mid-20th century, the kayas had largely been abandoned as places of primary residence, though they retained and continue to retain profound sacred significance.
 
@@ -36,7 +36,7 @@ The UNESCO designation provides legal protection to the kaya forests and recogni
 
 ## Contemporary Function and Challenges
 
-Today, the [[Kaya System|kaya system]] continues to function in modified form. Kaya elders still gather for important decisions, and initiation ceremonies, though less universal than historically, continue to be practiced. However, young [[Mijikenda]] increasingly migrate to urban areas, attend school, and adopt lifestyles that make traditional initiation and [[Kaya System|kaya]] participation less central. The question of whether the [[Kaya System|kaya system]] can survive modernization, education, and migration remains open.
+Today, the [[The Kaya System|kaya system]] continues to function in modified form. Kaya elders still gather for important decisions, and initiation ceremonies, though less universal than historically, continue to be practiced. However, young [[Mijikenda]] increasingly migrate to urban areas, attend school, and adopt lifestyles that make traditional initiation and [[The Kaya System|kaya]] participation less central. The question of whether the [[The Kaya System|kaya system]] can survive modernization, education, and migration remains open.
 
 ## See Also
 

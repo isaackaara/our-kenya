@@ -21,7 +21,7 @@ The [[Food Security Policies|Food Security]] policy frameworks developed late in
 [[Crop Farming Evolution]]
 [[Land Distribution Kenya]]
 [[Poverty]]
-[[Arid Pastoral Regions]]
+Arid Pastoral Regions
 [[Environmental Art]]
 
 ## Sources

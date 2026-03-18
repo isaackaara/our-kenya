@@ -28,7 +28,7 @@ The historical significance of the Uganda Railway in Taita-Taveta remains import
 - [[Voi Town]]
 - [[Tsavo Man-Eaters]]
 - [[IT Infrastructure Kenya]]
-- [[Colonial Development Kenya]]
+- Colonial Development Kenya
 - [[East Africa]]
 
 ## Sources

@@ -2,7 +2,7 @@ With Uhuru Kenyatta's departure from the presidency in 2022, Kikuyu political do
 
 ## Uhuru's Political Project
 
-[[Uhuru Kenyatta]] served as President from 2013 to 2022, continuing the [[GEMA]] (Gikuyu Embu Meru) political coalition that had existed since the 1970s. Uhuru's presidency attempted to restore Kikuyu political centrality after the Moi era, directing development resources toward Kikuyu areas and consolidating Kikuyu elite political networks.
+[[Uhuru Kenyatta]] served as President from 2013 to 2022, continuing the GEMA (Gikuyu Embu Meru) political coalition that had existed since the 1970s. Uhuru's presidency attempted to restore Kikuyu political centrality after the Moi era, directing development resources toward Kikuyu areas and consolidating Kikuyu elite political networks.
 
 Uhuru's presidency built on his family's political legacy (his father [[Jomo Kenyatta]] was Kenya's founding president). Uhuru's alliance with [[William Ruto]] (a Kalenjin) as Deputy President created coalition across Kikuyu and Kalenjin.
 
@@ -50,17 +50,17 @@ The long-term political prospects for Kikuyu national political power remain unc
 - [[Uhuru Kenyatta]]
 - [[William Ruto Presidency]]
 - [[Kikuyu Governors and Senators]]
-- [[GEMA]]
-- [[Kenya 2022 Election]]
+- GEMA
+- [[2022 Presidential Election]]
 
 ## See Also
 
 - [[Uhuru Kenyatta]]
 - [[William Ruto]]
-- [[GEMA]]
+- GEMA
 - [[Kikuyu Governors and Senators]]
 - [[Kikuyu Futures]]
-- [[Kenya 2022 Election]]
+- [[2022 Presidential Election]]
 - [[Raila Odinga]]
 
 ## Sources

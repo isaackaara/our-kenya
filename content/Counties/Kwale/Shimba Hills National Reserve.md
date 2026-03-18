@@ -19,9 +19,9 @@ Community relationships with the reserve remain complex. While some local reside
 - [[Kwale County|Kwale County Overview]]
 - [[Kwale Marine|Kwale Marine Environment]]
 - [[Kwale Climate|Kwale Climate]]
-- [[Kwale Wildlife|Kwale Wildlife]]
+- Kwale Wildlife
 - [[Kwale Tourism|Kwale Tourism]]
-- [[../../Conservation/Kenya National Parks|Kenya National Parks]]
+- Kenya National Parks
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The [[Mau Mau Uprising]] (1952-1960) was primarily a [[Kikuyu|Kikuyu]]-driven rebellion against [[British colonial rule in Kenya|British colonial rule]], centered in the [[Central Highlands (Kenya)|Central Highlands]]. The [[Gusii people|Gusii]] experience of this period differed significantly from the intense conflict that gripped the [[Kikuyu|Kikuyu]] heartland, yet the [[Gusii people|Gusii]] were not unaffected by the State of Emergency declared in response to Mau Mau activity.
+The [[Mau Mau Uprising]] (1952-1960) was primarily a [[Kikuyu|Kikuyu]]-driven rebellion against [[Colonial Administration|British colonial rule]], centered in the Central Highlands. The [[Gusii people|Gusii]] experience of this period differed significantly from the intense conflict that gripped the [[Kikuyu|Kikuyu]] heartland, yet the [[Gusii people|Gusii]] were not unaffected by the State of Emergency declared in response to Mau Mau activity.
 
 ## Gusii Experience During the Emergency
 
@@ -22,10 +22,10 @@ The Gusii emergence into independence, therefore, was shaped less by the trauma 
 
 - [[Kisii Colonial History]] - broader colonial experience
 - [[Mau Mau Uprising]] - main uprising narrative
-- [[Kikuyu and colonial resistance]] - primary resistance context
-- [[Seventh-day Adventist Church influence in Kisii]] - religious impact on politics
-- [[Western Kenya in colonial period]] - regional context
-- [[Kenya independence struggle]] - broader decolonization
+- Kikuyu and colonial resistance - primary resistance context
+- Seventh-day Adventist Church influence in Kisii - religious impact on politics
+- Western Kenya in colonial period - regional context
+- Kenya independence struggle - broader decolonization
 
 ## Sources
 

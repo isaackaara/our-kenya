@@ -1,4 +1,4 @@
-Aberdare National Park protects the Aberdare Range, a mountain massif in central Kenya containing montane forest, moorland, and alpine ecosystems. The park encompasses approximately 77,000 hectares and is known for its mountain forest ecology and [[Wildlife Populations|wildlife]]. The park includes famous lodge facilities at [[Treetops Lodge|Treetops]] where [[Queen Elizabeth II]] was when she learned of her accession to the throne. The park represents [[Marine Protected Areas|protected area]] [[Conservation|conservation]] in Kenya's [[Climate Change|climate-vulnerable]] highlands.
+Aberdare National Park protects the Aberdare Range, a mountain massif in central Kenya containing montane forest, moorland, and alpine ecosystems. The park encompasses approximately 77,000 hectares and is known for its mountain forest ecology and wildlife. The park includes famous lodge facilities at [[Treetops Lodge|Treetops]] where Queen Elizabeth II was when she learned of her accession to the throne. The park represents [[Marine Protected Areas|protected area]] [[Conservation|conservation]] in Kenya's climate-vulnerable highlands.
 
 ## Geography and Ecology
 
@@ -49,10 +49,10 @@ Montane forest ecosystems are vulnerable to climate change through temperature i
 ## See Also
 
 - [[Mount Kenya National Park]]
-- [[Montane Forest Ecosystems]]
+- Montane Forest Ecosystems
 - [[Kenya]]
-- [[Water Source Functions]]
-- [[Forest Protection and Enforcement]]
+- Water Source Functions
+- Forest Protection and Enforcement
 - [[Conservation]]
 
 ## Sources

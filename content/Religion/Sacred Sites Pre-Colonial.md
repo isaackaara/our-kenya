@@ -16,7 +16,7 @@ Colonial conquest and Christian evangelization threatened pre-colonial sacred si
 [[Maasai Spirit Mediums]]
 [[Akamba Spirit Mediums]]
 [[Christianity and Colonial Missions]]
-[[Colonial Kenya/Religious Transformation]]
+Religious Transformation
 
 ## Sources
 

@@ -28,7 +28,7 @@ TI-Kenya has advocated for increased resources for anti-corruption institutions,
 
 ## Limitations
 
-TI-Kenya's impact on actual corruption levels is constrained by: (1) [[political immunity]] of powerful figures involved in corruption, (2) limited resources for advocacy relative to the scale of corruption, (3) government resistance to reforms that would reduce government officials' corruption opportunities, (4) international donor reluctance to impose strong conditionality on Kenya.
+TI-Kenya's impact on actual corruption levels is constrained by: (1) political immunity of powerful figures involved in corruption, (2) limited resources for advocacy relative to the scale of corruption, (3) government resistance to reforms that would reduce government officials' corruption opportunities, (4) international donor reluctance to impose strong conditionality on Kenya.
 
 ## International Connections
 

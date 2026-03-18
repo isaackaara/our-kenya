@@ -21,8 +21,8 @@ The constitutional reform that eventually emerged in 2010 was designed partly in
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya 2007 Election|Kenya 2007 Election]]
-- [[Kenya Post-Election Violence 2007-2008|Kenya Post-Election Violence 2007-2008]]
+- [[2007-2008 Post Election Violence|Kenya 2007 Election]]
+- Kenya Post-Election Violence 2007-2008
 - [[Raila Odinga|Raila Odinga]]
 - [[Constitution of Kenya 2010|Kenya 2010 Constitution]]
 

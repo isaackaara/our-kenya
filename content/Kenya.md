@@ -2,7 +2,6 @@
 title: Kenya
 description: A complete knowledge map of Kenya — peoples, places, history, politics, culture, and everything in between.
 ---
-
 Kenya is 56 million people, 42 communities, 5 presidents, and 60 years of independence packed into a country the size of France. This vault maps all of it.
 
 Start anywhere. Every note connects outward.
@@ -73,7 +72,7 @@ Start anywhere. Every note connects outward.
 
 Every county in Kenya has 30 notes - geography, history, politics, economy, and the people who shaped it.
 
-[[Counties/Nairobi/Nairobi|Nairobi]] · [[Mombasa History|Mombasa]] · [[Counties/Kisumu/Kisumu Fishing Industry|Kisumu]] · [[Counties/Nakuru/Nakuru Ethnic Mix|Nakuru]] · [[Kiambu County|Uasin Gishu]] · [[Kiambu County|Kiambu]] · [[Machakos County|Machakos]] · [[Kilifi County|Kilifi]] · [[Counties/Turkana County/Turkana Oil|Turkana]] · [[Mandera County|Mandera]]
+[[Nairobi|Nairobi]] · [[Mombasa History|Mombasa]] · [[Kisumu Fishing Industry|Kisumu]] · [[Nakuru Ethnic Mix|Nakuru]] · [[Kiambu County|Uasin Gishu]] · [[Kiambu County|Kiambu]] · [[Machakos County|Machakos]] · [[Kilifi County|Kilifi]] · [[Turkana Oil|Turkana]] · [[Mandera County|Mandera]]
 
 [[Explore|Browse all 47 counties →]]
 

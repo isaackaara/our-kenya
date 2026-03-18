@@ -47,4 +47,4 @@ Climate change may reintroduce these relationships: pastoral communities need dr
 
 ## Related
 
-[[../Kikuyu/Kikuyu Origins]] | [[../Kikuyu/Kikuyu and the Land]] | [[../Maasai/Maasai and Trade]] | [[../Kamba/Kamba Merchant Class]] | [[Luo Origins]] | [[Luhya Origins]]
+[[Kikuyu Origins]] | [[Kikuyu Origins]] | Maasai and Trade | Kamba Merchant Class | [[Luo Origins]] | [[Luhya Origins]]

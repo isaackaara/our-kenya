@@ -6,7 +6,7 @@ The context of census data historical use illuminates how local, regional, and n
 
 ## See Also
 
-[[Research]], [[Kenya History]], [[Historical Development]]
+Research, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

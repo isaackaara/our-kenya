@@ -6,7 +6,7 @@ The context of age-set systems in pastoral communities illuminates how local, re
 
 ## See Also
 
-[[Society]], [[Kenya History]], [[Historical Development]]
+Society, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

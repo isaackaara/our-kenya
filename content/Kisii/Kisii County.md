@@ -7,7 +7,7 @@ tags: kisii county administration population development ogembo keroka suneka
 
 ## Administrative Structure
 
-[[Kisii County]] is one of [[Kenya|Kenya's]] 47 counties, created under the [[Kenya Constitution (2010)|2010 constitution]]. The county government structure includes elected governor, deputy governor, county assembly, and administrative subdivisions.
+[[Kisii County]] is one of [[Kenya|Kenya's]] 47 counties, created under the [[Kenya Constitution 2010|2010 constitution]]. The county government structure includes elected governor, deputy governor, county assembly, and administrative subdivisions.
 
 ## Main Towns and Urban Centers
 
@@ -140,11 +140,11 @@ Kisii County represents both opportunities (educated population, agricultural po
 ## See Also
 
 - [[Kisii County Budget and Devolution]] - governance and finance
-- [[Tea farming in Kenya]] - economic foundation
+- [[Tea Industry Kenya]] - economic foundation
 - [[Kisii Diaspora]] - out-migration patterns
 - [[Kisii Education Culture]] - human capital advantage
 - [[Nyamira County]] - adjacent county division
-- [[Western Kenya]] - regional context
+- Western Kenya - regional context
 
 ---
 

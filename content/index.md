@@ -1,13 +1,13 @@
 ---
 title: Our Kenya
-description: Kenya's history, written together. 6,547 notes, 131 trails, and 56,000 connections across Kenya's history.
+description: Kenya's history, written together. {{NOTE_COUNT}} notes, {{TRAIL_COUNT}} trails, and {{CONNECTION_COUNT}} connections across Kenya's history.
 cssclasses:
   - homepage
 ---
 
 <div class="ok-hero">
 <p class="ok-tagline">Kenya's history, written together.</p>
-<p class="ok-intro">6,547 notes. 56,000 connections. 131 trails through Kenya's history. One knowledge graph. This archive is incomplete. Every story missing is an invitation.</p>
+<p class="ok-intro">{{NOTE_COUNT}} notes. {{CONNECTION_COUNT}} connections. {{TRAIL_COUNT}} trails through Kenya's history. One knowledge graph. This archive is incomplete. Every story missing is an invitation.</p>
 <div class="ok-cta-row">
 <a href="contribute" class="ok-cta-primary">Help Write the Rest</a>
 <a href="Kenya" class="ok-cta-secondary">Start Exploring</a>
@@ -25,11 +25,11 @@ History is not a straight line. It is a web. Every event connects to someone, ev
 
 <div id="ok-hero-graph-root" style="width: 100%; margin: 2rem 0;"></div>
 
-Below is a small glimpse of 56,000 connections that exist across Kenya's history. But 56,000 is only the beginning. The true web of connections is far larger than what any graph can show. Every story we discover reveals new threads. [Browse the story trails](STORY-TRAILS) to follow the deeper connections.
+Above is a small glimpse of {{CONNECTION_COUNT}} connections that exist across Kenya's history. But {{CONNECTION_COUNT}} is only the beginning. The true web of connections is far larger than what any knowledge graph can show. Every story we discover reveals new threads. [Browse the story trails](STORY-TRAILS) to follow the deeper connections.
 
 ## Explore by storyline
 
-141 journeys that changed how we see Kenya. Each one pulls you deeper.
+{{TRAIL_COUNT}} journeys that changed how we see Kenya. Each one pulls you deeper.
 
 <div class="ok-verticals">
 <a href="/Trails/The-Reluctant-Father" class="ok-vertical-card">
@@ -70,7 +70,7 @@ Below is a small glimpse of 56,000 connections that exist across Kenya's history
 </a>
 </div>
 
-<p class="ok-see-all"><a href="STORY-TRAILS">See all 141 storylines →</a></p>
+<p class="ok-see-all"><a href="STORY-TRAILS">See all {{TRAIL_COUNT}} storylines →</a></p>
 
 ## Explore by theme
 
@@ -81,7 +81,7 @@ Every theme has its own index. Start at any node - the graph takes you further.
 ## Story Trails
 
 <div class="ok-trails-callout">
-<p>141 curated journeys through Kenya's history. Each trail is a sequence of notes ordered to tell a complete story arc. Follow the thread. Every note has its own trails branching off.</p>
+<p>{{TRAIL_COUNT}} curated journeys through Kenya's history. Each trail is a sequence of notes ordered to tell a complete story arc. Follow the thread. Every note has its own trails branching off.</p>
 <p>You may not come back the same way you arrived.</p>
 <p><a href="STORY-TRAILS">Browse all Story Trails</a></p>
 </div>
@@ -98,7 +98,7 @@ Fifty-eight knowledge graphs. Each one a different corner of Kenya's history. Cl
 
 ## How this works
 
-Our Kenya is a knowledge graph built from primary sources, oral histories, and documented research. 6,547 notes. 56,252 mapped connections between people, events, places, and ideas.
+Our Kenya is a knowledge graph built from primary sources, oral histories, and documented research. {{NOTE_COUNT}} notes. {{CONNECTION_COUNT}} mapped connections between people, events, places, and ideas.
 
 Each note is written to be finished in under two minutes. History does not have to be a textbook.
 
@@ -108,6 +108,6 @@ There is no right place to begin. There is no wrong turn.
 
 ## Contribute
 
-This archive is 6,547 notes deep. But Kenya's story is deeper. There are communities not yet represented. Elections not yet documented. People who shaped this country and left no trace in the official record. If you know a story that isn't here, it belongs here.
+This archive is {{NOTE_COUNT}} notes deep. But Kenya's story is deeper. There are communities not yet represented. Elections not yet documented. People who shaped this country and left no trace in the official record. If you know a story that isn't here, it belongs here.
 
 <a href="contribute" class="ok-section-cta">Help write the rest</a>

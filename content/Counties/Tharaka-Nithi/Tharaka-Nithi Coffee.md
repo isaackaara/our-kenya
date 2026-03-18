@@ -15,7 +15,7 @@ Commodity prices for coffee declined globally from the 1990s onward, with a seve
 [[Chuka Mwimbi People|Chuka Mwimbi People]]
 [[Tharaka-Nithi Agriculture|Tharaka-Nithi Agriculture]]
 [[Tharaka|Tharaka-Nithi Cooperatives]]
-[[../../Economic/Coffee Production|Coffee Production]]
+Coffee Production
 
 ## Sources
 

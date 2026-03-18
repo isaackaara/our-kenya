@@ -24,7 +24,7 @@ The technological development of vessels capable of operating partially outside 
 [[Seasonal Trading Patterns]]
 [[Trade Routes Networks]]
 [[Navigation Methods]]
-[[Maritime Commerce]]
+Maritime Commerce
 
 ## Sources
 

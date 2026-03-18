@@ -46,7 +46,7 @@ Younger [[Samburu]] who attend school increasingly practice Christianity or secu
 - [[Samburu Laibon]]
 - [[Samburu Sacred Sites]]
 - [[Samburu Social Structure]]
-- [[African Traditional Religions]]
+- African Traditional Religions
 
 ## Sources
 

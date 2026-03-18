@@ -5,8 +5,8 @@ Kenyans abroad, including diaspora communities in Europe, North America, and the
 - [[Post-Election Violence]]
 - [[Kenya]]
 - [[Remittances Kenya Economy]]
-- [[Social media Kenya]]
-- [[Transnational activism Kenya]]
+- Social media Kenya
+- Transnational activism Kenya
 
 ## Sources
 

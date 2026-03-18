@@ -3,7 +3,7 @@
 ## See Also
 
 - [[Manufacturing History Kenya]] - Industrial development patterns
-- [[Consumer Goods Kenya]] - FMCG sector in Kenya
+- [[Economy]] - FMCG sector in Kenya
 - [[Colonial Economy]] - Colonial-era industrial establishment
 - [[Art Investment]] - Multinational corporation presence
 - [[East Africa Trade Flows]] - Regional product distribution

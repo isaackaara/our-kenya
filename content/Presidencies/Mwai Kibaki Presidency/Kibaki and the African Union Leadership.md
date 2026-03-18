@@ -7,9 +7,9 @@ Kibaki's government also engaged with the AU on development and economic integra
 ## See Also
 
 [[The Luo Union]]
-[[Kenya and Continental Integration]]
-[[African Peacekeeping Kenya]]
-[[NEPAD Kenya]]
+Kenya and Continental Integration
+African Peacekeeping Kenya
+NEPAD Kenya
 
 ## Sources
 

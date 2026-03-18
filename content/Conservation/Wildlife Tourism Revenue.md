@@ -1,4 +1,4 @@
-[[Wildlife Tourism Revenue]] is Kenya's largest foreign exchange earner and a critical economic driver for conservation. [[Wildlife viewing]] generates substantial revenue through [[park entrance fees]], accommodation, tourism services, and associated industries. This economic incentive has made [[Conservation]] economically viable in many regions, creating direct linkage between wildlife protection and economic benefit.
+[[Wildlife Tourism Revenue]] is Kenya's largest foreign exchange earner and a critical economic driver for conservation. Wildlife viewing generates substantial revenue through park entrance fees, accommodation, tourism services, and associated industries. This economic incentive has made [[Conservation]] economically viable in many regions, creating direct linkage between wildlife protection and economic benefit.
 
 ## Scale and Economic Importance
 

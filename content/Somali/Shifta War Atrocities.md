@@ -62,7 +62,7 @@ This pattern suggests that the underlying state approach to Somali communities (
 - [[The Wagalla Massacre 1984]]
 - [[Kenyan Somali and Security State]]
 - [[Post-Shifta Reconciliation]]
-- [[Kenya Truth Justice Reconciliation Commission]]
+- Kenya Truth Justice Reconciliation Commission
 - [[Kenyan Somali at Independence]]
 - [[Northern Kenya Development Gap]]
 - [[Shifta War]]

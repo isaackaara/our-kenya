@@ -23,7 +23,7 @@ Yet fundamental challenges persist. Young coastal people increasingly migrate to
 - [[Swahili Chakacha Dance]]
 - [[Swahili Beni Dance]]
 - [[Swahili Civilization Overview]]
-- [[Swahili/Swahili Language and Identity]]
+- [[Swahili Culture]]
 - [[Mijikenda Origins]]
 - [[Music and Pre-Christian Religion Kenya]]
 

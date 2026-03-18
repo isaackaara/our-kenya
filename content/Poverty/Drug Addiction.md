@@ -9,7 +9,7 @@ The relationship between drug addiction and crime is strong. Heroin dependence c
 Addiction treatment availability is severely limited. Hospital-based programs treating medical complications of addiction exist but do not address addiction itself. Specialized addiction treatment facilities are located primarily in Nairobi; rural areas are entirely underserved. Medication-assisted treatment using methadone or buprenorphine is available in limited locations; most addicts have no access. Counseling and behavioral treatment is limited. Cost creates access barriers: uninsured poor cannot afford treatment. Stigma limits help-seeking: addiction is moralized as moral failure rather than health condition; individuals hide addiction. Support for recovery including peer groups and community reintegration is limited. Without expanded treatment access and comprehensive support, drug addiction perpetuates poverty and vulnerability.
 
 ## See Also
-[[Addiction Poverty]], [[Substance Abuse]], [[Crime and Addiction]], [[HIV/AIDS Epidemic Kenya]], [[Mental Health Services]], [[Incarceration]], [[Health Services]], [[Social Protection]]
+[[Addiction Poverty]], [[Substance Abuse]], Crime and Addiction, [[AIDS Epidemic Kenya]], [[Mental Health Services]], Incarceration, [[Health Services]], [[Social Protection]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Drug Addiction and Substance Dependence Survey." https://www.knbs.or.ke

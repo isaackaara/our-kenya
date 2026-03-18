@@ -18,7 +18,7 @@ However, Ngare Sergoi's creation also involved displacement or restriction of pa
 - [[Black Rhinoceros Kenya]] - Primary species protected
 - [[Laikipia Plateau]] - Geographic location of sanctuary
 - [[1988 Elephant Massacre]] - Broader context of poaching crisis driving conservation urgency
-- [[Northern Kenya Poaching Crisis]] - Regional poaching pressures affecting conservation
+- [[Wildlife Protection]] - Regional poaching pressures affecting conservation
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The [[Tana River]] is Kenya's longest river, originating in the central highlands and flowing east to the Indian Ocean. The river and its associated ecosystems support [[Siaya Fishing Communities|fishing communities]], [[Pastoralists and Conservation|pastoral populations]], [[wildlife]], and [[wetland biodiversity]]. However, the river has experienced significant degradation from upstream water extraction, dam development, pollution, and watershed degradation that threaten riverine ecosystems and dependent communities.
+The [[Tana River]] is Kenya's longest river, originating in the central highlands and flowing east to the Indian Ocean. The river and its associated ecosystems support [[Siaya Fishing Communities|fishing communities]], [[Pastoralists and Conservation|pastoral populations]], [[wildlife]], and wetland biodiversity. However, the river has experienced significant degradation from upstream water extraction, dam development, pollution, and watershed degradation that threaten riverine ecosystems and dependent communities.
 
 ## River Geography and Ecology
 
@@ -68,9 +68,9 @@ The Tana River's future depends on balancing hydroelectric and irrigation develo
 
 - [[Siaya Fishing Communities]] - Livelihood impacts
 - [[Pastoralists and Conservation]] - Pastoral water needs
-- [[Wetland ecosystems]] - Delta habitat protection
+- Wetland ecosystems - Delta habitat protection
 - [[Kenya Power]] - Infrastructure development
-- [[Water resource management]] - Integrated approaches
+- Water resource management - Integrated approaches
 - [[Climate Change and Wildlife]] - Environmental change impacts
 - [[Wildlife Corridors Kenya]] - Species connectivity
 

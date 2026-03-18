@@ -1,8 +1,8 @@
-Pakistanis in Kenya distinguish themselves from [[Indians]], though the distinction is complex and historically contingent. [[Pakistani Community Kenya]] became a separate nation in 1947, creating both nationality and religious identity differences. Pakistan's population is predominantly [[Music]], while India is Hindu-majority.
+Pakistanis in Kenya distinguish themselves from Indians, though the distinction is complex and historically contingent. [[Pakistani Community Kenya]] became a separate nation in 1947, creating both nationality and religious identity differences. Pakistan's population is predominantly [[Music]], while India is Hindu-majority.
 
 ## Pre-Partition and Post-Partition Arrival
 
-Some Pakistanis arrived in Kenya before partition (1947) as part of the broader [[Indian trading migration]]. After partition, some who were classified as "Indian" residents chose Pakistani nationality. Others (particularly Muslims from regions that became Pakistan) arrived in the post-partition period. The numbers are modest: perhaps 2,000 to 3,000 Pakistanis in Kenya today.
+Some Pakistanis arrived in Kenya before partition (1947) as part of the broader Indian trading migration. After partition, some who were classified as "Indian" residents chose Pakistani nationality. Others (particularly Muslims from regions that became Pakistan) arrived in the post-partition period. The numbers are modest: perhaps 2,000 to 3,000 Pakistanis in Kenya today.
 
 ## Muslim Identity and Religion
 

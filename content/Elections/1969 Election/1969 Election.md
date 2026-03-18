@@ -36,7 +36,7 @@ The Mboya assassination and the Kisumu massacre had profoundly destabilized Keny
 - [[Kisumu Massacre 1969]]
 - [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
-- [[Single-Party State Kenya]]
+- [[KANU]]
 - [[Jomo Kenyatta]]
 - [[Kenya]]
 

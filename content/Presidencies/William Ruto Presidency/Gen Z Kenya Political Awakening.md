@@ -8,7 +8,7 @@ The demands went beyond the Finance Bill. Protesters called for the resignation 
 
 The government's response was heavy-handed. On June 25, 2024, when protesters stormed parliament, police opened fire. At least 39 people were killed, according to human rights organizations, though the official count was lower. Hundreds more were injured. Dozens of protesters were abducted in the days that followed, held incommunicado, and later released without charge. The violence shocked the nation but also radicalized a generation. For many young Kenyans, June 25 was their Saba Saba, their own version of the 1990 pro-democracy protests.
 
-What made Gen Z politically distinct was their refusal to be ethnically mobilized. Unlike previous protest movements in Kenya, which had often coalesced around ethnic grievances or political dynasties, the Gen Z uprising cut across tribal lines. [[Kalenjin/Kalenjin Political Identity]] youth in Eldoret protested alongside [[Luo/Luo Political Culture]] youth in Kisumu and Kikuyu youth in Nairobi. The shared identity was not ethnic but generational and economic. They called themselves "Gen Z." They rejected the tribal arithmetic that had defined Kenyan politics since independence.
+What made Gen Z politically distinct was their refusal to be ethnically mobilized. Unlike previous protest movements in Kenya, which had often coalesced around ethnic grievances or political dynasties, the Gen Z uprising cut across tribal lines. [[Kalenjin Political Identity]] youth in Eldoret protested alongside Luo Political Culture youth in Kisumu and Kikuyu youth in Nairobi. The shared identity was not ethnic but generational and economic. They called themselves "Gen Z." They rejected the tribal arithmetic that had defined Kenyan politics since independence.
 
 By late 2024, the Gen Z movement had lost some of its momentum. Ruto had withdrawn the Finance Bill, sacked several Cabinet Secretaries, and even brought opposition figures into a broad-based government. But the underlying grievances remained. Youth unemployment was still high. Corruption was still rampant. The cost of living was still unbearable. The Gen Z political awakening had not resulted in regime change, but it had fundamentally altered the political landscape. A generation had announced itself, and it was no longer willing to wait its turn.
 
@@ -16,11 +16,11 @@ By late 2024, the Gen Z movement had lost some of its momentum. Ruto had withdra
 - [[Finance Bill 2024 and Gen Z Uprising]]
 - [[Ruto and the Judiciary]]
 - [[Ruto and Social Media]]
-- [[Ruto and Raila Reconciliation]]
-- [[Elections/Youth Vote in Kenya]]
-- [[Cross-Ethnic/Multi-Ethnic Youth Movements]]
-- [[Corruption/State Capture and Resistance]]
-- [[Kalenjin/Kalenjin Youth and Ruto]]
+- [[The Handshake 2018]]
+- Youth Vote in Kenya
+- Multi-Ethnic Youth Movements
+- State Capture and Resistance
+- Kalenjin Youth and Ruto
 
 ## Sources
 1. "Kenya's Gen Z protests: A new political awakening," Al Jazeera, July 2, 2024. https://www.aljazeera.com/news/2024/7/2/kenya-gen-z-protests-political-awakening

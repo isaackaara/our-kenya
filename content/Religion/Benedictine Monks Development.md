@@ -16,7 +16,7 @@ Contemporary Benedictine communities in Kenya continue combining contemplative s
 [[Religious Charities Settlements]]
 [[Church and State Relations]]
 [[Catholic Church Politics]]
-[[Colonial Kenya/Missions and Settlement]]
+Missions and Settlement
 
 ## Sources
 

@@ -17,10 +17,10 @@ The broader EAC dynamics during Uhuru's presidency revealed the limits of region
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru Economic Record]]
 - [[Uhuru and Chinese Debt]]
-- [[Elections/2017 Presidential Election]]
+- [[2017 Presidential Election]]
 - [[Uhuru Legacy Assessment]]
 - [[Mwai Kibaki]]
-- [[Cross-Ethnic/Regional Integration]]
+- [[Regional Integration]]
 
 ## Sources
 1. "Kenya-Tanzania Relations Under Uhuru and Magufuli," Institute for Security Studies, December 2019. https://issafrica.org/research/east-africa-report/kenya-tanzania-relations-uhuru-magufuli

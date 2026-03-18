@@ -24,8 +24,8 @@ The memorialization of Moi during his lifetime and after his death became contes
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Transitional Justice|Kenya Transitional Justice]]
-- [[Truth, Justice and Reconciliation Commission|Truth, Justice and Reconciliation Commission]]
+- [[Truth and Reconciliation|Kenya Transitional Justice]]
+- Truth, Justice and Reconciliation Commission
 - [[Moi and the Kalenjin|Moi and the Kalenjin]]
 
 ## Sources

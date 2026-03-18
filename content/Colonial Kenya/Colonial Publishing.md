@@ -22,7 +22,7 @@ The transition from colonial publishing serving settler and imperial interests t
 [[Colonial Education Legacy]]
 [[Colonial Knowledge Production]]
 [[Colonial Publishing]]
-[[Missionisation]]
+Missionisation
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

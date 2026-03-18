@@ -22,9 +22,9 @@ Livestock disease management improved through veterinary services, though remain
 [[Maasai]]
 [[Dairy Industry Development]]
 [[Cattle Raising Traditions]]
-[[Arid Pastoral Regions]]
+Arid Pastoral Regions
 [[Land Distribution Kenya]]
-[[Agricultural Extension Systems]]
+Agricultural Extension Systems
 
 ## Sources
 

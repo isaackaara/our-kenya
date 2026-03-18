@@ -1,10 +1,10 @@
-The [[Gemstone Trade]] moved precious and semi-precious stones from source regions throughout Asia and Africa to markets in Islamic and Mediterranean centers. The high unit value of gemstones made them ideal for long-distance trade, requiring minimal cargo space while maintaining substantial value. The gemstone trade created opportunities for merchant specialization and wealth accumulation among merchants commanding expertise in gem assessment and marketing.
+The Gemstone Trade moved precious and semi-precious stones from source regions throughout Asia and Africa to markets in Islamic and Mediterranean centers. The high unit value of gemstones made them ideal for long-distance trade, requiring minimal cargo space while maintaining substantial value. The gemstone trade created opportunities for merchant specialization and wealth accumulation among merchants commanding expertise in gem assessment and marketing.
 
 The primary sources of gemstones traded through Indian Ocean networks included ruby and sapphire from Ceylon (modern Sri Lanka), emeralds from mountainous regions, and diamonds eventually recognized as unique in their hardness and brilliance. Each gemstone type commanded different prices based on perceived rarity and beauty. The geological concentration of gemstone deposits created natural monopoly value for merchants controlling sources or the initial distribution networks.
 
 The assessment of gemstone quality required expertise that took years to develop. The color, clarity, and size of gems affected their market value in complex ways that were not always transparent to casual observers. A skilled gem merchant could identify characteristics that determined quality and estimate value with considerable accuracy. This expertise created information advantages that allowed skilled merchants to profit through purchases from less-knowledgeable sellers.
 
-The integration of [[Gemstone Trade]] into broader luxury trading networks reflected the particular value of gemstones to elite consumers. Wealthy rulers and merchants would commission jewelers to craft gemstones into jewelry and decorative objects. The cultural prestige associated with gemstone ownership motivated elite collectors to accumulate gemstones. The relatively stable demand from elite consumers meant that gem merchants could plan trading expeditions with confidence of finding purchasers.
+The integration of Gemstone Trade into broader luxury trading networks reflected the particular value of gemstones to elite consumers. Wealthy rulers and merchants would commission jewelers to craft gemstones into jewelry and decorative objects. The cultural prestige associated with gemstone ownership motivated elite collectors to accumulate gemstones. The relatively stable demand from elite consumers meant that gem merchants could plan trading expeditions with confidence of finding purchasers.
 
 The development of gemstone markets in major Indian Ocean ports reflected the trading volume and merchant specialization in gems. Merchants specializing in gemstone trading would establish themselves in ports where they could access supplies and maintain relationships with wealthy consumers. The community of gem merchants would create standardized practices for assessing and trading gems, reducing transaction costs and facilitating commerce.
 
@@ -20,9 +20,9 @@ The persistence of gemstone trading among merchants throughout the colonial peri
 
 ## See Also
 
-[[Luxury Trade Networks]]
-[[Gemstone Markets]]
-[[Elite Consumption]]
+Luxury Trade Networks
+Gemstone Markets
+Elite Consumption
 [[Merchant Networks]]
 [[Trade Routes Networks]]
 

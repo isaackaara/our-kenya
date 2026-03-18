@@ -8,7 +8,7 @@ Land allocation was perhaps the most consequential mechanism of Kalenjin empower
 
 Economically, the [[Nyayo Philosophy]] of state-led development was weaponized to channel resources to Kalenjin regions. Infrastructure projects, schools, hospitals, and agricultural programs were concentrated in Rift Valley constituencies. State-owned enterprises, such as the Kenya Cooperative Creameries and the National Cereals and Produce Board, were restructured to favor Kalenjin farmers, who gained preferential access to inputs, credit, and markets. The coffee and tea sectors, long dominated by Kikuyu and [[Luo]] farmers, saw Kalenjin entry through cooperative takeovers and state-sponsored expansion.
 
-Cultural and symbolic elevation accompanied material gains. Moi promoted Kalenjin identity through state media, celebrating Kalenjin athletes, musicians, and cultural practices. The Kalenjin-language radio service expanded, and state events featured Kalenjin traditional dress and ceremonies. The [[Music/Kalenjin Music and State Patronage|state patronage of Kalenjin musicians]] reinforced the community's visibility. Kalenjin intellectual production was encouraged; Kalenjin historians and scholars received funding and platforms to publish works that reframed Kalenjin history as central to Kenya's national story.
+Cultural and symbolic elevation accompanied material gains. Moi promoted Kalenjin identity through state media, celebrating Kalenjin athletes, musicians, and cultural practices. The Kalenjin-language radio service expanded, and state events featured Kalenjin traditional dress and ceremonies. The state patronage of Kalenjin musicians reinforced the community's visibility. Kalenjin intellectual production was encouraged; Kalenjin historians and scholars received funding and platforms to publish works that reframed Kalenjin history as central to Kenya's national story.
 
 However, this empowerment generated backlash. The Kikuyu elite, dispossessed of political dominance, resented the Kalenjin ascendancy and mobilized opposition through the [[FORD Formation|Forum for the Restoration of Democracy (FORD)]] and other multiparty movements. The [[Luo]] community, which had also suffered under Kenyatta and saw little improvement under Moi, viewed Kalenjin power as another form of ethnic exclusion. Smaller communities, such as the [[Luhya]] and coastal groups, found themselves squeezed between Kikuyu and Kalenjin competition for state resources.
 
@@ -22,9 +22,9 @@ The Kalenjin empowerment under Moi created a generation that experienced upward 
 - [[Moi Land Grabbing]]
 - [[1992 Election and Ethnic Violence]]
 - [[Moi and the GSU]]
-- [[Kalenjin/Kalenjin Political Ascendancy]]
-- [[Kikuyu/Kikuyu Displacement in Rift Valley]]
-- [[Cross-Ethnic/Rift Valley Land Conflicts]]
+- Kalenjin Political Ascendancy
+- [[2007-2008 Post Election Violence]]
+- Rift Valley Land Conflicts
 
 ## Sources
 1. Anderson, David M., and Emma Lochery. "Violence and Exodus in Kenya's Rift Valley, 2008: Predictable and Preventable?" *Journal of Eastern African Studies* 2, no. 2 (2008): 328-343. https://www.tandfonline.com/doi/abs/10.1080/17531050802095536

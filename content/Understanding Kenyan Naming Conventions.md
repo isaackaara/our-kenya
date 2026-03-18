@@ -6,7 +6,7 @@ The context of understanding kenyan naming conventions illuminates how local, re
 
 ## See Also
 
-[[General Topics]], [[Kenya History]], [[Historical Development]]
+General Topics, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

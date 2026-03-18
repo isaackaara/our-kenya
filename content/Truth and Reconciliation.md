@@ -1,0 +1,24 @@
+The Truth, Justice and Reconciliation Commission (TJRC) was established in 2008 under the National Accord that ended the [[2007-2008 Post Election Violence]], mandated to investigate gross human rights violations and historical injustices committed in Kenya between 12 December 1963 and 28 February 2008. Modelled partly on South Africa's truth commission, the TJRC represented Kenya's most ambitious institutional attempt to confront the systematic abuses — political assassinations, torture, ethnic massacres, land dispossession, and economic marginalisation — that had accumulated across the administrations of [[Jomo Kenyatta]], [[Daniel arap Moi Era|Daniel arap Moi]], and [[Mwai Kibaki]].
+
+The commission was chaired by Bethuel Kiplagat, a former diplomat whose appointment immediately generated controversy. Civil society organisations and victims' groups alleged that Kiplagat himself bore responsibility for human rights abuses, including the 1984 Wagalla Massacre in Wajir, during which security forces killed hundreds of ethnic [[Somali Clans|Somali]] civilians. Kiplagat's refusal to step down paralysed the commission for months and undermined public confidence in its impartiality. He eventually stepped aside temporarily while a tribunal investigated the allegations, but the damage to the TJRC's credibility proved lasting.
+
+Despite these institutional challenges, the commission conducted extensive hearings across Kenya, collecting over 40,000 statements from victims and witnesses. Testimony documented a staggering catalogue of state violence: extrajudicial killings by the [[Kenya Police History|police]] and security forces, detention and torture of political dissidents during the [[Daniel arap Moi Era|Moi era]], forced displacement of communities during the [[Shifta War]] in the northeast, and systematic land grabbing in the [[Rift Valley]], Coast, and other regions. The hearings gave public voice to communities — including [[Turkana]], Ogiek, Endorois, and coastal Mijikenda — whose experiences of marginalisation had been largely excluded from Kenya's national narrative.
+
+The TJRC's four-volume final report, submitted to President [[Uhuru Kenyatta Presidency|Uhuru Kenyatta]] in May 2013, contained detailed findings and sweeping recommendations. These included the prosecution of individuals responsible for gross violations, reparations for victims, institutional reforms to prevent recurrence, and a comprehensive programme of [[Kenya Land Reform|land reform]] to address historical dispossession. The report named specific individuals, including sitting politicians, as bearing responsibility for violence and land theft. It also called for a formal state apology for the [[Mau Mau Uprising|Mau Mau]] detention camps, the Wagalla Massacre, and other episodes of state terror.
+
+The government's response was effectively to shelve the report. Neither the Uhuru Kenyatta administration nor the subsequent [[William Ruto Presidency]] took meaningful steps to implement the TJRC's recommendations. Proposed reparations were never funded. Prosecutions were not initiated. The land reform recommendations collided with the political interests of powerful elites who had benefited from historical dispossession. Parliament received the report but took no action to establish the implementation committee the TJRC had recommended. Civil society groups, including the Kenya Human Rights Commission and the International Center for Transitional Justice, continued to advocate for implementation, but political will remained absent.
+
+The TJRC's fate reflected a broader pattern in Kenyan politics: the establishment of reform institutions under pressure, followed by the quiet neutralisation of their recommendations once the crisis had passed. The [[ICC Cases Kenya]] — which sought accountability for the 2007-2008 violence through international prosecution — followed a parallel trajectory of initial promise and eventual frustration. Together, the TJRC and ICC experiences underscored the difficulty of achieving transitional justice in a context where those implicated in historical abuses retained significant political power under [[Multiparty Politics|Kenya's multiparty system]].
+
+## See Also
+- [[2007-2008 Post Election Violence]]
+- [[Daniel arap Moi Era]]
+- [[Kenya Land Reform]]
+- [[ICC Cases Kenya]]
+- [[Kenya Police History]]
+- [[Mau Mau Uprising]]
+
+## Sources
+- Truth, Justice and Reconciliation Commission. *Report of the Truth, Justice and Reconciliation Commission*. 4 vols. Nairobi: TJRC, 2013.
+- Bosire, Lydiah. "Overpromised, Underdelivered: Transitional Justice in Sub-Saharan Africa." *International Center for Transitional Justice Occasional Paper*, 2006.
+- Lynch, Gabrielle. *Performances of Injustice: The Politics of Truth, Justice and Reconciliation in Kenya*. Cambridge University Press, 2018.

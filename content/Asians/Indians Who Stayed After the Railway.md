@@ -31,7 +31,7 @@ With their decision to stay and establish shops, these former railway workers be
 - [[Indian Traders and the Duka]]
 - [[Asians in Colonial Kenya]]
 - [[Asians in Kenya]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

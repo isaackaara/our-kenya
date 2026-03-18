@@ -47,7 +47,7 @@ As of 2026, many Ugandan Asians and their descendants are fully integrated into 
 - [[Asians at Independence]]
 - [[Asians in Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

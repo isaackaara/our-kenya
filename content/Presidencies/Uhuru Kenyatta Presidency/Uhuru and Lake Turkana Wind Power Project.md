@@ -9,12 +9,12 @@ The wind farm's development also illustrated the challenges of implementing larg
 By Uhuru's presidency's end, Lake Turkana Wind Power had become a functioning but insufficient component of Kenya's energy infrastructure, demonstrating renewable energy's potential while underlining the continued inadequacy of investment in clean power generation relative to Kenya's energy demands.
 
 ## See Also
-[[Kenya's Energy Sector Under Uhuru]]
-[[Renewable Energy Development Kenya]]
+[[Energy Access]]
+Renewable Energy Development Kenya
 [[Uhuru and Climate Change Policy]]
-[[Infrastructure Development Northern Kenya]]
+Infrastructure Development Northern Kenya
 [[Art Investment]]
-[[Electricity Generation Capacity Kenya]]
+Electricity Generation Capacity Kenya
 
 ## Sources
 1. https://www.lakturkanawid.com/ (Official project site)

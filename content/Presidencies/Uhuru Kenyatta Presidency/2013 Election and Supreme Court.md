@@ -1,6 +1,6 @@
-The [[Elections/2013 Presidential Election|2013 presidential election]] and the subsequent Supreme Court petition represented Kenya's first test of its new constitutional order under the 2010 constitution. The election was held on March 4, 2013, with [[Uhuru Kenyatta]] of the [[Jubilee Alliance Formation 2013]] facing [[Raila Odinga]] of the Coalition for Reforms and Democracy (CORD). Uhuru won 50.07 percent of the vote to Raila's 43.31 percent, narrowly avoiding a runoff by securing just over the required 50 percent threshold. However, the tight margin and allegations of irregularities led Raila to challenge the result in the Supreme Court, triggering Kenya's first presidential election petition under the new legal framework.
+The [[2013 Presidential Election|2013 presidential election]] and the subsequent Supreme Court petition represented Kenya's first test of its new constitutional order under the 2010 constitution. The election was held on March 4, 2013, with [[Uhuru Kenyatta]] of the [[Jubilee Alliance Formation 2013]] facing [[Raila Odinga]] of the Coalition for Reforms and Democracy (CORD). Uhuru won 50.07 percent of the vote to Raila's 43.31 percent, narrowly avoiding a runoff by securing just over the required 50 percent threshold. However, the tight margin and allegations of irregularities led Raila to challenge the result in the Supreme Court, triggering Kenya's first presidential election petition under the new legal framework.
 
-The 2010 constitution had created a robust Supreme Court precisely to avoid a repeat of the [[2007 Post-Election Violence]] that followed the disputed 2007 election. The constitution gave the Supreme Court exclusive jurisdiction over presidential election disputes and required it to deliver a ruling within 14 days. This compressed timeline was designed to prevent prolonged uncertainty while ensuring judicial rather than street resolution of electoral conflicts. When Raila filed his petition on March 16, 2013, the court had until March 30 to decide whether Kenya's next president would be Uhuru or whether the election would be nullified and a fresh vote ordered.
+The 2010 constitution had created a robust Supreme Court precisely to avoid a repeat of the [[2007-2008 Post Election Violence]] that followed the disputed 2007 election. The constitution gave the Supreme Court exclusive jurisdiction over presidential election disputes and required it to deliver a ruling within 14 days. This compressed timeline was designed to prevent prolonged uncertainty while ensuring judicial rather than street resolution of electoral conflicts. When Raila filed his petition on March 16, 2013, the court had until March 30 to decide whether Kenya's next president would be Uhuru or whether the election would be nullified and a fresh vote ordered.
 
 Raila's petition alleged systematic failures in the electoral process conducted by the Independent Electoral and Boundaries Commission (IEBC). The petition claimed that the IEBC's voter register was inflated with ghost voters, that the electronic voter identification system failed in many polling stations, forcing reliance on manual registers, and that results transmission was compromised. Most critically, CORD alleged that the tallying process showed statistical anomalies suggesting manipulation. The petition argued that these failures were so substantial that the declared result did not reflect the will of the people, and requested the court to nullify the election and order a fresh vote.
 
@@ -11,14 +11,14 @@ On March 30, 2013, the Supreme Court delivered its verdict in a 4-2 ruling uphol
 The 2013 Supreme Court petition set important precedents that would prove critical in future elections. It established that Kenyan courts could adjudicate presidential elections independently, even when the sitting deputy prime minister and son of the founding president was involved. It demonstrated that electoral disputes could be resolved peacefully through judicial process rather than violence. However, it also established a high bar for proving electoral malpractice, requiring concrete evidence of systematic manipulation rather than statistical anomalies or administrative failures. This standard would be tested again in [[2017 Election and Nullification|2017]], when the same court made a radically different decision about the credibility of Kenya's electoral process.
 
 ## See Also
-- [[Elections/2013 Presidential Election]]
+- [[2013 Presidential Election]]
 - [[Uhuru Kenyatta Early Political Career]]
 - [[Raila Odinga]]
 - [[Jubilee Alliance Formation 2013]]
 - [[2017 Election and Nullification]]
 - [[Uhuru and the Judiciary]]
-- [[Elections/Electoral Reforms]]
-- [[2007 Post-Election Violence]]
+- Electoral Reforms
+- [[2007-2008 Post Election Violence]]
 
 ## Sources
 1. "Supreme Court of Kenya Judgment: Raila Odinga & 5 Others v. IEBC & 3 Others," Petition No. 5 of 2013, March 30, 2013. http://kenyalaw.org/caselaw/cases/view/87380/

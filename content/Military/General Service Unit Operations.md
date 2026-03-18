@@ -17,7 +17,7 @@ By the 1970s, the GSU had consolidated its position as the primary paramilitary 
 [[Police Force Establishment]]
 [[Kenya Defence Force History]]
 [[Shifta War]]
-[[Mau Mau Revolt]]
+[[Mau Mau Uprising]]
 [[Public Order Management]]
 [[Border Security Management]]
 

@@ -51,10 +51,10 @@ The Big Four Agenda represented genuine concern for inclusive development but wa
 - [[Uhuru Economic Record]]
 - [[Uhuru Debt Crisis]]
 - [[Uhuru and Corruption]]
-- [[Kenya Agricultural Policy]]
+- [[Agriculture]]
 - [[Women in Healthcare Professions Kenya]]
-- [[Housing Policy Kenya]]
-- [[Manufacturing Sector Kenya]]
+- Housing Policy Kenya
+- [[Economy]]
 - [[Uhuru 2017 Election]]
 
 ## Sources

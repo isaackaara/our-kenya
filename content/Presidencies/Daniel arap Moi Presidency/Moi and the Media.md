@@ -2,7 +2,7 @@ The relationship between [[Daniel arap Moi]] and Kenya's media was one of perpet
 
 The Kenya Broadcasting Corporation (KBC), the state broadcaster, was Moi's most powerful media tool. Inherited from the [[Jomo Kenyatta]] era, KBC held a monopoly on radio and television until the 1990s. Its news bulletins were tightly scripted to glorify Moi, promote the [[Nyayo Philosophy]], and demonize opposition. The first item in every newscast was Moi's activities: ribbon-cutting ceremonies, harambee appearances, meetings with foreign dignitaries. Opposition politicians, when mentioned at all, were portrayed as tribalists, foreign agents, or criminals. Independent voices were entirely absent. KBC's reach was national, and in rural areas where literacy was low, radio was the primary news source, making state control of broadcasting a critical pillar of Moi's information dominance.
 
-The independent print media, particularly the *Daily Nation* and *The Standard*, operated in a more contested space. Both newspapers were privately owned, the *Nation* by the Aga Khan's Nation Media Group, the *Standard* by various private interests, and both employed professional journalists committed to reporting beyond government scripts. Through the 1980s and early 1990s, these papers published investigative reports on [[Corruption/Moi Era Corruption|government corruption]], [[Detention Without Trial Under Moi|political detentions]], and [[1992 Election and Ethnic Violence|ethnic violence]], often in defiance of government pressure. Editors walked a tightrope, pushing boundaries while avoiding total closure.
+The independent print media, particularly the *Daily Nation* and *The Standard*, operated in a more contested space. Both newspapers were privately owned, the *Nation* by the Aga Khan's Nation Media Group, the *Standard* by various private interests, and both employed professional journalists committed to reporting beyond government scripts. Through the 1980s and early 1990s, these papers published investigative reports on [[Moi Era Corruption|government corruption]], [[Detention Without Trial Under Moi|political detentions]], and [[1992 Election and Ethnic Violence|ethnic violence]], often in defiance of government pressure. Editors walked a tightrope, pushing boundaries while avoiding total closure.
 
 The government's tools of media repression were varied and brutal. The Societies Act required publications to register annually, and the government could refuse registration on national security grounds, effectively banning a publication without judicial process. The Penal Code's sedition provisions criminalized criticism of the President, allowing prosecution of journalists and editors for articles deemed defamatory or likely to incite unrest. Police raids on newsrooms were common; printing presses were damaged or destroyed, journalists beaten, and editions seized before distribution.
 
@@ -24,9 +24,9 @@ The legacy is double-edged. Moi's repression created a media culture of skeptici
 - [[Section 2A Repeal 1991]]
 - [[Moi and the Church]]
 - [[1992 Election and Ethnic Violence]]
-- [[Corruption/Moi Era Corruption]]
-- [[Cross-Ethnic/Media as Political Battleground]]
-- [[Luo/Luo Journalists and Opposition Media]]
+- [[Moi Era Corruption]]
+- Media as Political Battleground
+- Luo Journalists and Opposition Media
 
 ## Sources
 1. Bourgault, Louise M. *Mass Media in Sub-Saharan Africa*. Indiana University Press, 1995. https://iupress.org/9780253209337/mass-media-in-sub-saharan-africa/

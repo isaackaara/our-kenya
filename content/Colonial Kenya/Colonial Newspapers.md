@@ -21,8 +21,8 @@ By independence, the newspaper industry had transformed from a settler-dominated
 [[Colonial Publishing]]
 [[Anti-Colonial Resistance]]
 [[Music and Kenyan Print Media Colonial]]
-[[Independence Movements]]
-[[African Nationalism]]
+Independence Movements
+African Nationalism
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

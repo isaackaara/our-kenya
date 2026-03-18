@@ -4,7 +4,7 @@ title: The Nine Sub-Groups of Meru
 
 # Meru Sub-groups: Internal Diversity and Distinction
 
-The Meru are not a monolithic [[ethnic group]] but rather a [[confederation]] of nine distinct [[sub-groups]], each with its own [[dialect]], [[territory]], [[cultural practices]], and [[historical consciousness]]. All nine speak variants of [[Kimeru]], a [[Luo Language]], but the dialects and identities carry real social weight.
+The Meru are not a monolithic ethnic group but rather a confederation of nine distinct sub-groups, each with its own dialect, territory, cultural practices, and historical consciousness. All nine speak variants of Kimeru, a [[Luo Language]], but the dialects and identities carry real social weight.
 
 ## The Nine Sub-groups
 

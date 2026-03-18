@@ -30,7 +30,7 @@ Many luxury camps emphasize community partnerships, local employment, and conser
 
 ## Cross-References
 
-See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], [[Maasai|[[The Maasai Mara|Maasai Mara]] National Reserve]]
+See also: [[Narok County|Narok County]], [[Narok Tourist Economy|Narok Tourist Economy]], Maasai|[[The Maasai Mara|Maasai Mara]] National Reserve]]
 
 
 ## See Also

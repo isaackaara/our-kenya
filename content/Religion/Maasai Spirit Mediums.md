@@ -16,8 +16,8 @@ Contemporary Maasai communities navigate multiple religious frameworks. Some ind
 - [[Ancestor Veneration Practices]]
 - [[Faith Healing Medical Pluralism]]
 - [[Akamba Spirit Mediums]]
-- [[Syncretism]]
-- [[Religion and Pastoralism]]
+- Syncretism
+- Religion and Pastoralism
 
 ## Sources
 1. Spencer, Paul. "The Maasai of Matapato: A Study of Rituals of Rebellion." Manchester University Press, 1988.

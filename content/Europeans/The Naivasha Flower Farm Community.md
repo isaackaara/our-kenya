@@ -1,4 +1,4 @@
-[[Lake Naivasha]], a freshwater lake in Kenya's [[Rift Valley]] (approximately 1,884 meters elevation, 139 square kilometers in area), has undergone a radical transformation in the past four decades. The lake's shores have been increasingly converted from [[pastoral grazing land]] and [[subsistence farming]] to [[commercial floriculture]], producing cut flowers (primarily roses, carnations, chrysanthemums) for export to [[European]] and international supermarkets. This transformation has been largely controlled by [[white settler farming families]] and [[European agricultural corporations]], creating a distinctive community of [[white farm owners]] and managers operating amid tens of thousands of Kenyan workers.
+[[Lake Naivasha]], a freshwater lake in Kenya's [[Rift Valley]] (approximately 1,884 meters elevation, 139 square kilometers in area), has undergone a radical transformation in the past four decades. The lake's shores have been increasingly converted from pastoral grazing land and subsistence farming to commercial floriculture, producing cut flowers (primarily roses, carnations, chrysanthemums) for export to European and international supermarkets. This transformation has been largely controlled by white settler farming families and European agricultural corporations, creating a distinctive community of white farm owners and managers operating amid tens of thousands of Kenyan workers.
 
 ## The Rise of Floriculture at Lake Naivasha
 
@@ -64,10 +64,10 @@ The community also faced ongoing anxieties about political change in Kenya. Peri
 
 - [[White Farmers Today]]
 - [[Land in the Rift Valley]]
-- [[Labor in Kenya]]
+- Labor in Kenya
 - [[Environmental Art]]
 - [[East Africa]]
-- [[Neo-Colonial Economic Systems]]
+- Neo-Colonial Economic Systems
 
 ## Sources
 

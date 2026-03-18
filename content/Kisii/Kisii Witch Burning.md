@@ -7,7 +7,7 @@ tags: kisii gusii witch burning mob killing human rights
 
 ## Documented Crisis
 
-Kenya's human rights bodies and international media have documented a persistent pattern of [[witch burning]] and mob killings in [[Kisii]] County, representing a serious human rights crisis.
+Kenya's human rights bodies and international media have documented a persistent pattern of witch burning and mob killings in [[Kisii]] County, representing a serious human rights crisis.
 
 ## Major Incidents
 

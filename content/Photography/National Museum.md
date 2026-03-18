@@ -7,13 +7,13 @@ Museum exhibitions have evolved significantly since independence, reflecting cha
 The National Museum faces ongoing challenges including limited funding, conservation resource constraints, and debates about appropriate roles in cultural heritage preservation and representation. International collaborations with other museums bring expertise and resources while raising questions about cultural ownership and repatriation of materials. The museum continues to develop its collections, improve conservation practices, and explore new exhibition approaches. As Kenya's primary cultural institution, the National Museum remains central to preservation and interpretation of the country's artistic and cultural heritage.
 
 ## See Also
-- [[Museum Collections and Curation]]
+- Museum Collections and Curation
 - [[National Museum]]
 - [[Colonial Museums Collections]]
 - [[Conservation]]
-- [[Public Education and Museums]]
+- Public Education and Museums
 - [[Heritage Preservation]]
-- [[Repatriation and Cultural Justice]]
+- Repatriation and Cultural Justice
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/ - National Museum of Kenya

@@ -14,7 +14,7 @@ Digital advertising and online platforms created new revenue opportunities for m
 [[Television History Kenya]]
 [[Radio Broadcasting Development]]
 [[Media Ownership Control]]
-[[Technology/Digital Marketing Kenya]]
+Digital Marketing Kenya
 
 ## Sources
 1. https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/kenya

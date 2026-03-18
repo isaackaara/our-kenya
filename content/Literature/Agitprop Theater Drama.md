@@ -2,7 +2,7 @@ Agitprop theater emerged in Kenya as performance form combining agitation and pr
 
 Agitprop originated in Soviet revolutionary theatre and found expression globally in leftist and liberation movements utilizing theatre for political education. Kenyan dramatists engaged agitprop forms to address colonialism, postcolonial inequality, and revolutionary transformation, adapting international revolutionary aesthetics to Kenyan political contexts.
 
-[[Ngugi wa Thiong'o]] and [[Micere Mugo Feminist Literature]]'s [[The Trial of Dedan Kimathi]] exemplified agitprop's political purposes, utilizing theatrical performance to rehabilitate Mau Mau Field Marshall's reputation and challenge official narratives. The play functioned as political intervention, using drama to shape public consciousness about historical truth and political justice.
+[[Ngugi wa Thiong o]] and [[Micere Mugo Feminist Literature]]'s [[The Trial of Dedan Kimathi]] exemplified agitprop's political purposes, utilizing theatrical performance to rehabilitate Mau Mau Field Marshall's reputation and challenge official narratives. The play functioned as political intervention, using drama to shape public consciousness about historical truth and political justice.
 
 Agitprop theatre typically employed simplified dramatic language, direct address to audiences, and didactic purposes distinct from naturalistic theatre emphasizing emotional complexity and psychological realism. The form prioritized clarity and emotional impact over aesthetic sophistication, valuing theatre's political effects over artistic innovation for its own sake.
 
@@ -25,11 +25,11 @@ Contemporary agitprop in Kenya continues engaging urgent political concerns thro
 ## See Also
 [[Ngugi wa Thiong'o Literature]]
 [[Micere Mugo Feminist Literature]]
-[[Theater and Politics Africa]]
+Theater and Politics Africa
 [[The Trial of Dedan Kimathi]]
-[[Revolutionary Theatre]]
-[[Community Performance Kenya]]
-[[Political Art Kenya]]
+Revolutionary Theatre
+Community Performance Kenya
+Political Art Kenya
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Micere_Githae_Mugo - The Trial of Dedan Kimathi and political theatre

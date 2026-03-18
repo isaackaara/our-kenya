@@ -13,12 +13,12 @@ Moi's decision to defect from KADU and join KANU in 1964, shortly after independ
 The irony is that Moi's later presidency would itself be highly centralist, even more unitary and hierarchical than anything Kenyatta envisioned. The federal vision that KADU had articulated would be entirely discarded. Yet the experience of KADU had taught Moi something crucial: how to organise a coalition, how to exploit ethnic grievances, and how the appearance of decentralisation could coexist with absolute central authority. These lessons would inform his later governance model.
 
 ## See Also
-[[Elections/1961 General Election]]
-[[Kalenjin/Political Organisation]]
+1961 General Election
+Political Organisation
 [[Moi Rise to Power]]
 [[Moi and KANU]]
-[[Kenya Independence/Constitutional Framework]]
-[[Kenya/Federalism Debate]]
+Constitutional Framework
+Federalism Debate
 
 ## Sources
 1. https://www.britannica.com/topic/KADU-Kenya-African-Democratic-Union (accessed 2024)

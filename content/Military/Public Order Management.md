@@ -25,7 +25,7 @@ Civilian oversight mechanisms including IPOA and parliamentary committees on def
 [[Police Force Establishment]]
 [[General Service Unit Operations]]
 [[Civil-Military Relations]]
-[[Human Rights Kenya]]
+Human Rights Kenya
 
 ## Sources
 

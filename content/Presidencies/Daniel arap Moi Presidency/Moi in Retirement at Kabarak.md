@@ -19,8 +19,8 @@ Moi's post-presidential years revealed the difficulty of achieving genuine trans
 [[Moi Death January 2020]]
 [[Moi Kabarak Ranch]]
 [[Moi Legacy and Assessment]]
-[[Kenya/Truth and Reconciliation]]
-[[Uhuru Kenyatta/Rise to Power]]
+[[Truth and Reconciliation]]
+Rise to Power
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

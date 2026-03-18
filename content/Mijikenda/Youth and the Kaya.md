@@ -1,8 +1,8 @@
-The relationship between young [[Mijikenda]] and the [[Kaya System|kaya]] system represents a central challenge to cultural continuity. The [[Kaya System|kaya]] system requires decades-long commitments to initiation and gradual advancement through elder grades, a model difficult to maintain in the context of formal education, urban employment, and global cultural influences. Many young [[Mijikenda]] have limited connection to the [[Kaya System|kaya]], raising questions about the long-term viability of the system.
+The relationship between young [[Mijikenda]] and the [[The Kaya System|kaya]] system represents a central challenge to cultural continuity. The [[The Kaya System|kaya]] system requires decades-long commitments to initiation and gradual advancement through elder grades, a model difficult to maintain in the context of formal education, urban employment, and global cultural influences. Many young [[Mijikenda]] have limited connection to the [[The Kaya System|kaya]], raising questions about the long-term viability of the system.
 
 ## The Time Commitment Problem
 
-The traditional [[Kaya System|kaya]] system requires substantial time commitment. Initiation involves seclusion periods, instruction, and ceremony. Advancement through the grade system requires sustained participation over decades. In a context where young people are required to attend school until late teens or early twenties, where employment opportunities pull people toward urban areas, and where global consumer culture offers competing attractions, the time commitment required for full participation in the [[Kaya System|kaya system]] is difficult to sustain.
+The traditional [[The Kaya System|kaya]] system requires substantial time commitment. Initiation involves seclusion periods, instruction, and ceremony. Advancement through the grade system requires sustained participation over decades. In a context where young people are required to attend school until late teens or early twenties, where employment opportunities pull people toward urban areas, and where global consumer culture offers competing attractions, the time commitment required for full participation in the [[The Kaya System|kaya system]] is difficult to sustain.
 
 Young Mjikenda in school must balance educational demands with kaya participation. Young people in employment cannot easily take time off for initiation or elder meetings. Urban-based youth are physically separated from the kaya. These factors combine to reduce youth participation in traditional kaya institutions.
 
@@ -26,9 +26,9 @@ Cultural movements emphasizing the value of Mjikenda identity and practices have
 
 ## Generational Transmission and Cultural Continuity
 
-The question of whether the [[Kaya System|kaya system]] will survive generational transition remains open. If young people fail to acquire knowledge of the system and fail to advance through initiation grades, the system will gradually weaken and disappear. The elders managing the system are aging, and younger men are not advancing through the grades at rates necessary to replace retiring elders.
+The question of whether the [[The Kaya System|kaya system]] will survive generational transition remains open. If young people fail to acquire knowledge of the system and fail to advance through initiation grades, the system will gradually weaken and disappear. The elders managing the system are aging, and younger men are not advancing through the grades at rates necessary to replace retiring elders.
 
-Some [[Kaya System|kaya]] councils remain active and continue to attract youth participation. In these cases, the system may persist. Other [[Kaya System|kayas]] have weakened significantly, with minimal youth participation and few prospects for regeneration.
+Some [[The Kaya System|kaya]] councils remain active and continue to attract youth participation. In these cases, the system may persist. Other [[The Kaya System|kayas]] have weakened significantly, with minimal youth participation and few prospects for regeneration.
 
 ## See Also
 

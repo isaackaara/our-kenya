@@ -15,9 +15,9 @@ The 2022 election victory surprised many observers who had predicted Raila Oding
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya 2022 Election|Kenya 2022 Election]]
+- [[2022 Presidential Election|Kenya 2022 Election]]
 - [[Kalenjin and Maize Politics|Kalenjin Politics]]
-- [[International Criminal Court Kenya|International Criminal Court Kenya]]
+- [[ICC Cases Kenya|International Criminal Court Kenya]]
 
 ## Sources
 

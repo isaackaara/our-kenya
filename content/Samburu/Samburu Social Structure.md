@@ -42,7 +42,7 @@ Community decisions traditionally involve elder consensus, with younger members 
 - [[Samburu Marriage]]
 - [[Samburu Women]]
 - [[Samburu Laibon]]
-- [[Pastoral Political Systems]]
+- Pastoral Political Systems
 
 ## Sources
 

@@ -21,7 +21,7 @@ Progress accelerated in the 2010s. Free maternal healthcare policy implementatio
 [[Women Health Services]]
 [[Gender Healthcare Access]]
 [[Women Mental Health]]
-[[Health/Health Systems]]
+[[Health Systems]]
 [[Pregnancy Complications Mortality]]
 
 ## Sources

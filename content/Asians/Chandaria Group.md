@@ -51,7 +51,7 @@ The Chandaria Group's success attracted international attention. Global investor
 - [[Gujarati Dominance in Business]]
 - [[Asians who Stayed]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

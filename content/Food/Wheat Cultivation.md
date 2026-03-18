@@ -18,11 +18,11 @@ Culturally, wheat was never fully integrated into Kenyan diet as intimately as [
 
 [[Crop Farming Evolution]]
 [[Land Distribution Kenya]]
-[[Highland Agriculture]]
+Highland Agriculture
 [[Food Security Policies]]
 [[Agricultural Marketing Systems]]
-[[Green Revolution Impact]]
-[[Colonial Agricultural Systems]]
+Green Revolution Impact
+Colonial Agricultural Systems
 
 ## Sources
 

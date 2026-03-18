@@ -21,7 +21,7 @@ Access to higher education from Samburu County is limited by the relatively smal
 [[Samburu Agriculture]]
 [[Education Access]]
 [[Moi and the Luo Community]]
-[[Girls Education Kenya]]
+Girls Education Kenya
 
 ## Sources
 

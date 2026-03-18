@@ -15,12 +15,12 @@ The 1992 election demonstrated the power of international pressure and donor lev
 ## See Also
 
 - [[1992 Election]]
-- [[Democracy Kenya 1990s]]
-- [[Electoral Politics Kenya]]
-- [[Multiparty System Establishment]]
+- Democracy Kenya 1990s
+- Electoral Politics Kenya
+- Multiparty System Establishment
 - [[Moi and the Opposition]]
 - [[Kibaki and Ethnic Politics Mount Kenya Dominance]]
-- [[Constitutional Reform Kenya]]
+- [[Constitutional Reform 2010]]
 
 ## Sources
 

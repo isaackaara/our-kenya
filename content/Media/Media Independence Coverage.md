@@ -10,7 +10,7 @@ Despite liberalization, ongoing challenges to media independence persist includi
 [[Press Councils Regulation]]
 [[Journalist Code Ethics]]
 [[Political Reporting Elections]]
-[[Corruption/Media Capture]]
+Media Capture
 
 ## Sources
 1. https://theconversation.com/moi-and-the-media-how-kenyan-journalism-suffered-under-his-iron-heel-131681

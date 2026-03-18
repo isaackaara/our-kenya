@@ -18,7 +18,7 @@ The virtual absence of women from the 1963 election, both as candidates and as s
 - [[Uhuru and Margaret Kenyatta as Nairobi Governor]]
 - [[Women]]
 - [[Gender Pay Gap]]
-- [[Constitutional Rights Women Kenya]]
+- Constitutional Rights Women Kenya
 
 ## Sources
 

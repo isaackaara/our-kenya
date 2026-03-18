@@ -10,7 +10,7 @@ Contemporary wildlife relationships remain fraught with legal restrictions and e
 
 ## See Also
 
-[[Hunting\ Traditions]] | [[Medicinal\ Plants\ Knowledge]] | [[Honey\ Harvesting]] | [[Ogiek\ Community\ History]] | [[Conservation]] | [[Protected Areas Kenya]] | [[Wildlife Management Kenya]]
+[[Hunting\ Traditions]] | [[Medicinal\ Plants\ Knowledge]] | [[Honey\ Harvesting]] | [[Ogiek\ Community\ History]] | [[Conservation]] | [[Protected Areas Kenya]] | Wildlife Management Kenya
 
 ## Sources
 

@@ -9,7 +9,7 @@ Rural-urban differentials structure regional poverty patterns. Urban areas, conc
 Development interventions have attempted to reduce regional disparities but with limited success. Infrastructure investments including roads, electricity, and water have been targeted toward disadvantaged regions, improving connectivity and service access. However, these investments have not fundamentally altered regional comparative advantages or attracted substantial productive investment to formerly-neglected areas. Some manufacturing has moved toward lower-cost zones, but predominantly remains concentrated in Nairobi and surrounding areas. Political decentralization through devolution in 2013 created county-level governance and resource allocation, providing opportunities for localized development but lacking resources for major infrastructure rebalancing. Regional disparities appear structural and resistant to policy intervention without fundamental economic transformation.
 
 ## See Also
-[[Urban Poverty]], [[Rural Poverty]], [[Infrastructure Development]], [[Development Aid]], [[Arid and Semi-Arid Development]], [[Devolution and Governance]], [[Colonial Legacy]], [[Development Aid]]
+[[Urban Poverty]], [[Rural Poverty]], [[Infrastructure Development]], [[Development Aid]], Arid and Semi-Arid Development, Devolution and Governance, [[Colonial Legacy]], [[Development Aid]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Household and Population Census 2019 County Profiles." https://www.knbs.or.ke

@@ -13,7 +13,7 @@ News anchors served as public figures addressing audiences during significant na
 [[NTV News Coverage]]
 [[Citizen TV Commercial]]
 [[KTN Broadcasting Standards]]
-[[Women/Gender Media Representation]]
+Gender Media Representation
 [[Media Independence Coverage]]
 
 ## Sources

@@ -12,7 +12,7 @@ Youth created informal music distribution networks when formal retail collapsed 
 
 Video culture became central to youth music experience as television liberalized and [[Kenyan Music Videos Origins|music videos]] proliferated. Shows airing international videos created visual vocabulary that influenced not just music but broader youth culture. Fashion, dance, and lifestyle depicted in videos became templates that Kenyan youth adapted to local contexts.
 
-The gap between youth and parent generations' musical tastes widened dramatically. While parents consumed [[Mugithi Music Origins|mugithi]], [[Music/Kenyan Benga Music|benga]], or [[Kenyan Gospel Music Boom|gospel]], youth rejected these as outdated. This generational divide in musical preference reflected broader cultural tensions between tradition and modernity, local and global identity.
+The gap between youth and parent generations' musical tastes widened dramatically. While parents consumed [[Mugithi Music Origins|mugithi]], [[Kenyan Benga Music|benga]], or [[Kenyan Gospel Music Boom|gospel]], youth rejected these as outdated. This generational divide in musical preference reflected broader cultural tensions between tradition and modernity, local and global identity.
 
 Matatu culture became essential youth music space. Matatus (minibuses) with elaborate sound systems blasted hip-hop, ragga, and emerging local urban music. DJs working matatu routes became influential cultural figures, and popular matatus attracted young passengers specifically for musical experience rather than mere transportation.
 

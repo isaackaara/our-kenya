@@ -4,7 +4,7 @@ title: Meru Internal Conflicts and Sub-Group Rivalries
 
 # Internal Tensions: Managing Meru Diversity
 
-The Meru's nine [[sub-groups]], while sharing a common [[identity]] and [[language]] family, have distinct interests and historical experiences that sometimes generate conflict.
+The Meru's nine sub-groups, while sharing a common identity and language family, have distinct interests and historical experiences that sometimes generate conflict.
 
 ## Sub-Group Divisions
 

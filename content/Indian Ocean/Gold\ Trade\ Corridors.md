@@ -1,6 +1,6 @@
-The [[Gold Trade Corridors]] extending from Zimbabwe's gold mines through East African coastal ports to markets throughout the Indian Ocean world shaped regional economies for centuries. The search for gold motivated European interest in East Africa and drove merchant expansion into interior regions, eventually creating trade networks that extended hundreds of kilometers inland. The gold trade differed from spice trade in significant ways: production sources remained geographically dispersed, transportation required longer distances overland, and demand came primarily from monetary and decorative uses rather than consumption.
+The Gold Trade Corridors extending from Zimbabwe's gold mines through East African coastal ports to markets throughout the Indian Ocean world shaped regional economies for centuries. The search for gold motivated European interest in East Africa and drove merchant expansion into interior regions, eventually creating trade networks that extended hundreds of kilometers inland. The gold trade differed from spice trade in significant ways: production sources remained geographically dispersed, transportation required longer distances overland, and demand came primarily from monetary and decorative uses rather than consumption.
 
-The Zimbabwe gold sources represent among the most significant precious metal production in pre-modern Africa. Extensive gold deposits in the region supported mining operations that produced surplus gold for trade beyond local consumption. The [[Gold Trade Corridors]] connecting these sources to coastal regions required merchant networks penetrating interior regions where no established long-distance trading had previously occurred. The creation of these networks represented entrepreneurial investment in establishing relationships with interior rulers and gold producers.
+The Zimbabwe gold sources represent among the most significant precious metal production in pre-modern Africa. Extensive gold deposits in the region supported mining operations that produced surplus gold for trade beyond local consumption. The Gold Trade Corridors connecting these sources to coastal regions required merchant networks penetrating interior regions where no established long-distance trading had previously occurred. The creation of these networks represented entrepreneurial investment in establishing relationships with interior rulers and gold producers.
 
 The organization of gold trade differed fundamentally from spice trade. While spices could be sourced from relatively concentrated producing regions, gold production dispersed across interior regions required merchants to coordinate purchases from multiple producers. Merchants would establish trading posts at strategic inland locations, offering cloth, metal goods, and other imported commodities in exchange for gold. The gradual accumulation of gold at coastal trading posts would eventually reach sufficient quantities to justify ocean shipment to distant markets. This slower accumulation process meant that gold merchants faced different financial constraints than spice merchants dealing with seasonal arrivals of large quantities.
 
@@ -23,7 +23,7 @@ The environmental impact of intensified gold mining driven by expanding trade ne
 ## See Also
 
 [[Ivory Trade Networks]]
-[[Kilwa Trade]]
+Kilwa Trade
 [[Caravan Routes Interior]]
 [[Merchant Networks]]
 [[Coastal Fortifications]]

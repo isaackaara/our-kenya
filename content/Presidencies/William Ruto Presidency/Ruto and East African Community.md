@@ -8,7 +8,7 @@ The [[Ruto and Uganda-Tanzania Pipeline Politics]] revealed the limits of Kenya'
 
 Trade within the EAC also remained a source of frustration. Despite decades of integration efforts, non-tariff barriers, political interference, and border disputes continued to limit the free movement of goods and people. Kenyan exporters complained that Tanzanian and Ugandan authorities imposed arbitrary restrictions on Kenyan products, while Kenya was accused of using regulatory measures to block imports from its neighbors. Ruto pushed for deeper integration and the full implementation of the EAC Common Market Protocol, but progress was slow.
 
-Kenya's role in regional security, particularly in Somalia, was another major component of Ruto's East Africa policy. Kenya had over 3,000 troops deployed in Somalia as part of the African Union Transition Mission in Somalia (ATMIS), and Ruto committed to maintaining that presence despite domestic criticism. The troops were there to combat [[Al-Shabaab]], the Somali Islamist insurgent group that had carried out multiple terrorist attacks in Kenya, including the 2013 Westgate Mall attack and the 2015 Garissa University attack. But by 2024, Al-Shabaab was still active, and the security situation in Somalia remained volatile. Kenya's military commitment was costing billions of shillings annually, with little to show for it.
+Kenya's role in regional security, particularly in Somalia, was another major component of Ruto's East Africa policy. Kenya had over 3,000 troops deployed in Somalia as part of the African Union Transition Mission in Somalia (ATMIS), and Ruto committed to maintaining that presence despite domestic criticism. The troops were there to combat [[al-shabaab]], the Somali Islamist insurgent group that had carried out multiple terrorist attacks in Kenya, including the 2013 Westgate Mall attack and the 2015 Garissa University attack. But by 2024, Al-Shabaab was still active, and the security situation in Somalia remained volatile. Kenya's military commitment was costing billions of shillings annually, with little to show for it.
 
 The admission of Somalia to the EAC was Ruto's attempt to give Kenya more leverage in Somali affairs by embedding Somalia in regional institutions. The logic was that a more integrated Somalia would be a more stable Somalia, and that Kenya could use EAC mechanisms to influence Somali politics and security policy. Whether this strategy would work remained unclear by the end of 2024.
 
@@ -20,9 +20,9 @@ By 2024, Kenya's position in the EAC was weaker than it had been in years. Tanza
 - [[Ruto Foreign Policy]]
 - [[Ruto and Uganda-Tanzania Pipeline Politics]]
 - [[Kenya Haiti Mission]]
-- [[Corruption/Regional Infrastructure Scandals]]
-- [[Elections/Cross-Border Electoral Politics]]
-- [[Cross-Ethnic/East African Regional Politics]]
+- Regional Infrastructure Scandals
+- Cross-Border Electoral Politics
+- East African Regional Politics
 - [[Ruto Inauguration and First 100 Days]]
 
 ## Sources

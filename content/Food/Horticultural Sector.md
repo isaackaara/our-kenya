@@ -21,7 +21,7 @@ The horticultural sector's integration into global supply chains made it vulnera
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
 [[Land Distribution Kenya]]
-[[International Trade Policy]]
+International Trade Policy
 [[Environmental Art]]
 
 ## Sources

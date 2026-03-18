@@ -7,13 +7,13 @@ Advertising art combines commercial objectives with creative expression, tension
 Contemporary advertising art employs digital media, social media marketing, and sophisticated psychological understanding. Digital advertising requires different approaches than traditional print advertising, addressing screen display and user interaction. Advertising creativity continues evolving with technological change and consumer behavior shifts. Contemporary advertising employs influencer partnerships, user-generated content, and interactive formats beyond traditional commercial models. Advertising remains significant field employing creative professionals. The ethics and impacts of advertising continue generating critical debate while advertising art maintains commercial importance.
 
 ## See Also
-- [[Branding and Marketing]]
-- [[Persuasion and Design]]
-- [[Commercial Campaign Development]]
-- [[Visual Rhetoric]]
-- [[Consumer Culture]]
-- [[Digital Advertising]]
-- [[Advertising Industry Kenya]]
+- Branding and Marketing
+- Persuasion and Design
+- Commercial Campaign Development
+- Visual Rhetoric
+- Consumer Culture
+- Digital Advertising
+- [[Advertising Industry]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Advertising - Advertising History

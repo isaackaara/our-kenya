@@ -39,4 +39,4 @@ The irony is sharp: the railway that connected Kenya to global trade a century a
 - [[Indian Ocean Trading History]]
 - [[Asians in Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]

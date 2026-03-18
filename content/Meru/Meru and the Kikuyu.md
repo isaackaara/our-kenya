@@ -4,7 +4,7 @@ title: "Meru and Kikuyu: Mount Kenya Peoples Alliance"
 
 # The Mount Kenya Peoples: Meru, Kikuyu, and Embu Relations
 
-The [[Meru]], [[Kikuyu]], and [[Embu]] are collectively known as the "[[Mount Kenya]] peoples," reflecting their shared geography, linguistic heritage, and historical alliance through institutions like [[GEMA]]. These relationships have profoundly shaped Kenyan politics.
+The [[Meru]], [[Kikuyu]], and [[Embu]] are collectively known as the "[[Mount Kenya]] peoples," reflecting their shared geography, linguistic heritage, and historical alliance through institutions like GEMA. These relationships have profoundly shaped Kenyan politics.
 
 ## Linguistic and Cultural Ties
 

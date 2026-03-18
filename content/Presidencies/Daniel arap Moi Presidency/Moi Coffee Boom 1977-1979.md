@@ -13,10 +13,10 @@ However, the coffee boom obscured underlying economic weaknesses that would beco
 The end of the coffee boom came abruptly in 1979-1980, as world coffee prices collapsed. The revenues that had seemed inexhaustible disappeared, and Kenya's government faced the unexpected necessity of managing a fiscal crisis just as oil prices were rising and the global economy was entering recession. The contrast between the optimistic early years of Moi's presidency and the economic stress that followed would shape the politics of the 1980s. The boom years had created expectations of continued prosperity and increasing public expenditure; the bust years forced retrenchment, the imposition of structural adjustment programs, and the realisation that Kenya's economy was fragile and dependent on factors beyond the government's control.
 
 ## See Also
-[[Kenya/Coffee Industry]]
+[[Coffee Industry Kenya]]
 [[Moi Economic Policy 1978-1990]]
-[[Kenya/Economic Decline 1980s]]
-[[Moi First Cabinet as President]]
+Economic Decline 1980s
+[[Daniel arap Moi Era]]
 [[Structural Adjustment Programs Kenya]]
 [[Moi and Education]]
 

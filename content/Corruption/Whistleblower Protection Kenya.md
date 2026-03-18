@@ -1,6 +1,6 @@
 ## Overview
 
-Kenya has legal frameworks for whistleblower protection through the [[Witness Protection Act]] (2006) and other legislation, but protection is inadequate in practice. Whistleblowers who expose corruption face [[retaliation]], witness intimidation, and inadequate legal support. The case of [[John Githongo]], who exposed corruption at the highest levels of government and fled to exile in the United Kingdom, illustrates the gap between legal protection and actual safety for whistleblowers.
+Kenya has legal frameworks for whistleblower protection through the Witness Protection Act (2006) and other legislation, but protection is inadequate in practice. Whistleblowers who expose corruption face retaliation, witness intimidation, and inadequate legal support. The case of [[John Githongo]], who exposed corruption at the highest levels of government and fled to exile in the United Kingdom, illustrates the gap between legal protection and actual safety for whistleblowers.
 
 ## Legal Framework
 
@@ -45,7 +45,7 @@ However, most corruption victims (ordinary citizens, small businesses) lack reso
 ## See Also
 
 - [[John Githongo]] - case study in whistleblower vulnerability
-- [[Witness Protection Agency]] - inadequate institutional support
+- Witness Protection Agency - inadequate institutional support
 - [[Investigative Journalism Kenya]] - alternative accountability mechanism
 - [[Impunity Culture]] - systemic patterns enabling retaliation
 - [[Anti-Corruption Civil Society]] - civil society support for whistleblowers

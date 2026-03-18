@@ -42,7 +42,7 @@ Limited formal linguistic documentation of [[Samburu]] exists. Academic studies,
 - [[Samburu Oral Literature]]
 - [[Samburu Proverbs]]
 - [[Samburu Origins]]
-- [[Nilotic Languages]]
+- Nilotic Languages
 
 ## Sources
 

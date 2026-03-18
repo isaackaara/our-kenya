@@ -20,7 +20,7 @@ Biwott's life after elite athletics is undocumented. He did not become a promine
 - [[Kenya Olympics Overview|Kenya Olympics Overview]]
 - [[Kenya Athletics Overview|Kenya Athletics Overview]]
 - [[The Kalenjin Runners|The Kalenjin Runners]]
-- [[Julius Korir|Julius Korir]]
+- Julius Korir
 
 ## Sources
 

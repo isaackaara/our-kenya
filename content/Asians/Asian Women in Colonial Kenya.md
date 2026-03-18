@@ -43,7 +43,7 @@ Despite constraints, Asian women exercised agency within their spheres. Some wom
 - [[Indian Traders and the Duka]]
 - [[Asians at Independence]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

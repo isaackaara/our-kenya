@@ -1,8 +1,8 @@
-Kenya's vehicle assembly sector once employed thousands and served East African markets. However, protectionist policies, import liberalisation, and competition from imported vehicles have decimated the industry. Today, vehicle assembly has largely shifted to [[India]] and [[East Asia]], with Kenya importing finished vehicles rather than producing them locally.
+Kenya's vehicle assembly sector once employed thousands and served East African markets. However, protectionist policies, import liberalisation, and competition from imported vehicles have decimated the industry. Today, vehicle assembly has largely shifted to [[india]] and East Asia, with Kenya importing finished vehicles rather than producing them locally.
 
 ## Historical Background
 
-Vehicle assembly began in [[Kenya]] in the colonial period as foreign companies (Leyland, Ford, General Motors) assembled [[vehicles]] for the East African market. The sector expanded post-independence with government encouragement: protective tariffs, import restrictions, and local content requirements encouraged assembly operations.
+Vehicle assembly began in [[Kenya]] in the colonial period as foreign companies (Leyland, Ford, General Motors) assembled vehicles for the East African market. The sector expanded post-independence with government encouragement: protective tariffs, import restrictions, and local content requirements encouraged assembly operations.
 
 ## Current Status
 
@@ -16,8 +16,8 @@ Without protection or incentives, assembly is unlikely to return to Kenya. The s
 
 - [[Hardware Manufacturing Kenya]]
 - [[Kenya Imports]]
-- [[Trade Liberalisation Kenya]]
-- [[Industrial Policy Kenya]]
+- [[Economy]]
+- Industrial Policy Kenya
 - [[East Africa Trade Flows]]
 - [[Colonial Economy]]
 - [[Technology]]

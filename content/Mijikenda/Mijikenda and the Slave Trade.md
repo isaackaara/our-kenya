@@ -2,11 +2,11 @@ The East African slave trade profoundly affected [[Mijikenda]] communities over 
 
 ## The Trans-Indian Ocean Trade
 
-From at least the sixteenth century, Arab, [[Swahili]], and Portuguese traders engaged in slave trading along the East African coast. The [[Indian Ocean World|Indian Ocean]] slave trade linked East Africa to the Arab Peninsula, Persian Gulf, India, and beyond. Enslaved people from the East African coast, including some from [[Mijikenda]] territories, were transported across the Indian Ocean to be sold in Arab, Indian, and other markets. The trade intensified during the eighteenth and nineteenth centuries, particularly under Omani Arab expansion and control of the [[Swahili Coast]].
+From at least the sixteenth century, Arab, [[Swahili]], and Portuguese traders engaged in slave trading along the East African coast. The [[The Indian Ocean World|Indian Ocean]] slave trade linked East Africa to the Arab Peninsula, Persian Gulf, India, and beyond. Enslaved people from the East African coast, including some from [[Mijikenda]] territories, were transported across the Indian Ocean to be sold in Arab, Indian, and other markets. The trade intensified during the eighteenth and nineteenth centuries, particularly under Omani Arab expansion and control of the [[Swahili Coast]].
 
 ## Slavery and Raids on Mijikenda
 
-Slave raids into the coastal hinterland periodically targeted [[Mijikenda]] communities. Coastal traders and their allies would conduct raids to capture people for the slave trade. These raids created significant disruption, displacing populations and generating social trauma. Some [[Mijikenda]] oral traditions preserve memories of these raids as major historical events. The [[Kaya System|kayas]], the fortified village centers, may have partly served a defensive function against slave raids and other external threats.
+Slave raids into the coastal hinterland periodically targeted [[Mijikenda]] communities. Coastal traders and their allies would conduct raids to capture people for the slave trade. These raids created significant disruption, displacing populations and generating social trauma. Some [[Mijikenda]] oral traditions preserve memories of these raids as major historical events. The [[The Kaya System|kayas]], the fortified village centers, may have partly served a defensive function against slave raids and other external threats.
 
 ## Mijikenda as Slave Traders and Intermediaries
 

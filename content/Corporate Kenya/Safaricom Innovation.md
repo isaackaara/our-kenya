@@ -2,7 +2,7 @@ Beyond M-Pesa, Safaricom has pioneered numerous financial services innovations t
 
 ## M-Shwari
 
-Launched in 2012, [[M-Shwari]] is a [[partnership Kenya|partnership]] between [[Safaricom]] and [[Equity Bank]] that allows customers to save money and access [[microloans Kenya|microloans]] via [[M-Pesa]]. Users can save daily amounts and accumulate interest. They can also borrow up to KES 100,000, with repayment deducted automatically from their M-Pesa balance.
+Launched in 2012, M-Shwari is a partnership between [[Safaricom]] and [[Equity Bank]] that allows customers to save money and access microloans via [[M-Pesa]]. Users can save daily amounts and accumulate interest. They can also borrow up to KES 100,000, with repayment deducted automatically from their M-Pesa balance.
 
 M-Shwari brought credit access to millions of Kenyans who had no collateral or credit history. It demonstrated that microcredit could be delivered efficiently through mobile channels.
 
@@ -50,7 +50,7 @@ Safaricom is likely to continue innovating in financial services. Future opportu
 - [[Safaricom]]
 - [[M-Pesa Economic Impact]]
 - [[Mobile Banking Kenya]]
-- [[Financial Innovation Kenya]]
+- Financial Innovation Kenya
 - [[Digital Art]]
 - [[Microfinance Kenya]]
 - [[Kenya]]

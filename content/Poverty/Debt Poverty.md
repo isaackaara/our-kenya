@@ -9,7 +9,7 @@ The consequences of debt poverty extend beyond individual borrowers. Household c
 Debt relief and restructuring are sometimes provided through government programs or NGO initiatives. Cash transfer programs can reduce debt burden; however, large debts exceed typical transfer amounts. Debt forgiveness is rare; it creates moral hazard concerns. Debt rescheduling extends repayment periods; interest rates remain burdensome. The fundamental issue is not debt management but insufficient income generating livelihoods. Borrowers with adequate incomes can sustain reasonable debt; borrowers with inadequate incomes cannot. Debt becomes burdensome when income falls below repayment requirements. Fundamental solution requires livelihood improvement enabling debt service without sacrificing consumption needs.
 
 ## See Also
-[[Poverty Measurement]], [[Informal Lending]], [[Microfinance Access]], [[Economic Stress]], [[Asset Depletion]], [[Job Security]], [[Credit Access]], [[Financial Vulnerability]]
+[[Poverty Measurement]], Informal Lending, [[Microfinance Access]], Economic Stress, Asset Depletion, [[Job Security]], [[Credit Access]], Financial Vulnerability
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Household Debt and Financial Vulnerability Survey." https://www.knbs.or.ke

@@ -6,7 +6,7 @@ The project was conceived as part of Kenya's infrastructure development strategy
 
 ## The Procurement Process
 
-The contract for constructing the SGR was awarded to [[China Road and Bridge Corporation]] (CRBC), a [[Chinese state-owned]] construction company.
+The contract for constructing the SGR was awarded to China Road and Bridge Corporation (CRBC), a Chinese state-owned construction company.
 
 The procurement process for the SGR was unusual in several respects:
 
@@ -66,7 +66,7 @@ This lack of transparency prevented public scrutiny of the contract and prevente
 - [[Parliamentary Oversight Failure]] - inadequate legislative scrutiny
 - [[Transparency International Kenya]] - advocacy on procurement
 - [[Corruption]] - how costs affect service quality
-- [[Debt Sustainability Kenya]] - financial burden patterns
+- Debt Sustainability Kenya - financial burden patterns
 
 ## Sources
 

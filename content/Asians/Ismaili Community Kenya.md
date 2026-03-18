@@ -43,7 +43,7 @@ In March 2026, the Aga Khan announced the sale of his majority shareholding in N
 - [[Hindu Community Colonial Kenya]]
 - [[Gujarati Dominance in Business]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

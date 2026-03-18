@@ -18,7 +18,7 @@ Road maintenance required continuous labor and investment. The colonial state em
 [[The Colonial Infrastructure Legacy]]
 [[Colonial Urban Planning]]
 [[Nairobi Development]]
-[[Colonial Transportation]]
+Colonial Transportation
 [[Forced Labor Colonial]]
 
 ## Sources

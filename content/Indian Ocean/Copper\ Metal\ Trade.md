@@ -1,4 +1,4 @@
-The [[Copper Metal Trade]] represented a less visible but economically significant dimension of Indian Ocean commerce, as copper demand from craftspeople and manufacturers throughout the region created markets for raw copper from Central and Southern African sources. Unlike gold or ivory, copper served primarily functional purposes rather than serving as luxury commodities, creating steadier demand that was less subject to fashion preferences. The copper trade extended merchant networks into interior regions and created economic connections between coastal merchants and remote mining communities.
+The Copper Metal Trade represented a less visible but economically significant dimension of Indian Ocean commerce, as copper demand from craftspeople and manufacturers throughout the region created markets for raw copper from Central and Southern African sources. Unlike gold or ivory, copper served primarily functional purposes rather than serving as luxury commodities, creating steadier demand that was less subject to fashion preferences. The copper trade extended merchant networks into interior regions and created economic connections between coastal merchants and remote mining communities.
 
 The copper sources in Central Africa, particularly in the region known as the Copper Belt stretching across modern-day Zambia and Congo, provided high-quality copper ore that could be smelted into pure copper. The smelting process required substantial technical knowledge and significant labor investment, creating specialized communities of metalworkers who controlled both mining and smelting activities. The availability of local expertise meant that copper could be processed into pure metal locally rather than requiring transport of raw ore.
 
@@ -6,7 +6,7 @@ The transport of copper into Indian Ocean trade networks required development of
 
 The uses of copper in Indian Ocean markets reflected both practical applications and decorative purposes. Copper could be worked into vessels, tools, weapons, and decorative objects. The durability of copper and its resistance to corrosion made it valuable for maritime applications where wooden vessels required metal fittings and reinforcements. The availability of reliable copper supplies allowed maritime communities to maintain and repair vessels without requiring scarce resources from distant sources. The decorative applications of copper provided wealth display opportunities for elite consumers throughout the region.
 
-The integration of [[Copper Metal Trade]] with broader trading networks meant that merchants engaged in copper trading would simultaneously handle other commodities. The same merchant vessels carrying copper might transport spices, textiles, or other merchandise. The combination of commodities allowed merchants to optimize cargo space utilization and reduce the risk of loss if supplies of any single product became unavailable. The diversification of cargo reduced financial risk while allowing merchants to serve multiple market segments.
+The integration of Copper Metal Trade with broader trading networks meant that merchants engaged in copper trading would simultaneously handle other commodities. The same merchant vessels carrying copper might transport spices, textiles, or other merchandise. The combination of commodities allowed merchants to optimize cargo space utilization and reduce the risk of loss if supplies of any single product became unavailable. The diversification of cargo reduced financial risk while allowing merchants to serve multiple market segments.
 
 The prices of copper reflected both production costs in interior regions and market demand in coastal centers and beyond. Merchants who understood both production conditions in interior regions and consumption patterns in distant markets could exploit price differences between markets. A merchant purchasing copper at low prices in interior regions and selling at premium prices in coastal markets or beyond could achieve substantial profits. The accumulation of copper in merchant hands created inventory that could be held for price appreciation.
 
@@ -16,16 +16,16 @@ The [[Sailing Technology Evolution]] of Indian Ocean vessels required copper fit
 
 The environmental impact of intensified copper mining driven by expanding trade networks reflected the increasing extraction rates needed to supply expanding markets. The mining communities that had traditionally produced copper for local and regional markets found themselves under pressure to expand production to supply international markets. The environmental consequences of mining expansion included deforestation for charcoal needed in smelting processes and the disruption of water sources through mining and smelting operations.
 
-The incorporation of [[Copper Metal Trade]] into colonial trading systems reflected the continued importance of copper as an industrial raw material. Colonial administrations seeking to develop mineral extraction industries for export recognized the historical importance of copper sources and built colonial mining industries on sites where pre-colonial mining had operated. The transition from artisanal to industrial mining production represented a dramatic change in extraction scales but built upon knowledge systems developed through centuries of pre-colonial production.
+The incorporation of Copper Metal Trade into colonial trading systems reflected the continued importance of copper as an industrial raw material. Colonial administrations seeking to develop mineral extraction industries for export recognized the historical importance of copper sources and built colonial mining industries on sites where pre-colonial mining had operated. The transition from artisanal to industrial mining production represented a dramatic change in extraction scales but built upon knowledge systems developed through centuries of pre-colonial production.
 
 The persistence of copper trade within interior regions even as Indian Ocean long-distance trade became dominated by European merchants reflected the diverse functions of copper. Copper served local production needs that European merchant interests did not monopolize. The continuation of pre-colonial copper markets alongside colonial-era trade networks demonstrated the adaptability of African merchant communities to changing economic circumstances.
 
 ## See Also
 
-[[Metal Trade Networks]]
+Metal Trade Networks
 [[Trade Routes Interior]]
 [[Merchant Networks]]
-[[Mining Communities]]
+Mining Communities
 [[Sailing Technology Evolution]]
 
 ## Sources

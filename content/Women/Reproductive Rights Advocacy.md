@@ -25,7 +25,7 @@ The 2010 Constitution recognized reproductive rights, including right to contrac
 [[Female Sexual Health]]
 [[Gender-Based Violence]]
 [[Women Mental Health]]
-[[Religion/Religion in Kenya|Religious Perspectives]]
+Religious Perspectives
 
 ## Sources
 

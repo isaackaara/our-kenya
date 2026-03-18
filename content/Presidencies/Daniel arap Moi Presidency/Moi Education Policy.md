@@ -24,9 +24,9 @@ Despite quantitative expansion, Kenya's education outcomes during Moi's presiden
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Moi Nyayo Philosophy|Moi Nyayo Philosophy]]
-- [[Kenya Education System|Kenya Education System]]
+- [[Education|Kenya Education System]]
 - [[University of Nairobi|University of Nairobi]]
-- [[Kenya Student Movements|Kenya Student Movements]]
+- Kenya Student Movements
 
 ## Sources
 

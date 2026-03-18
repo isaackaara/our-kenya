@@ -1,6 +1,6 @@
 Paul Nunda, performing as Jua Cali, stands alongside [[Nonini|Nonini]] as one of the twin pillars of [[Genge Music Origins|genge music]], but his career trajectory and cultural significance diverged in crucial ways. Born September 12, 1979, Jua Cali (the name roughly translates to "Hot Sun California," referencing both Calif Records and the relentless heat of Nairobi's informal settlements) became the face of genge's longevity and its ability to evolve without abandoning its core identity. Where Nonini represented genge's flashy, provocative side, Jua Cali embodied its working-class resilience and staying power.
 
-Together with producer Clemo, Jua Cali co-founded Calif Records in 2000, creating the institutional foundation that allowed [[Genge Music Origins|genge]] to flourish commercially. His 2001 debut single "Ruka" introduced the sound that would define a generation: hard-hitting beats, intricate Sheng wordplay, and narratives rooted in the everyday struggles and triumphs of [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's urban poor]]. Unlike earlier Kenyan pop that aspired to middle-class respectability, Jua Cali's music centered estate life without apology or sanitization.
+Together with producer Clemo, Jua Cali co-founded Calif Records in 2000, creating the institutional foundation that allowed [[Genge Music Origins|genge]] to flourish commercially. His 2001 debut single "Ruka" introduced the sound that would define a generation: hard-hitting beats, intricate Sheng wordplay, and narratives rooted in the everyday struggles and triumphs of [[Nairobi Urban Identity|Nairobi's urban poor]]. Unlike earlier Kenyan pop that aspired to middle-class respectability, Jua Cali's music centered estate life without apology or sanitization.
 
 His 2006 album "Juacali Sekta" (The Jua Cali Sector) compiled previously released singles into a cohesive statement of purpose. The album's commercial success demonstrated that genge had matured from a street phenomenon into a sustainable industry sector. But it was the 2007 single "Kwaheri" featuring Sanaipei Tande that showcased Jua Cali's ability to evolve the genge sound without compromising its authenticity. The song's more melodic approach, its collaboration with a female vocalist, and its emotional depth proved that genge could explore broader themes while maintaining its street credibility.
 
@@ -19,7 +19,7 @@ His influence on [[Gengetone Movement|Gengetone]] and subsequent urban genres wa
 - [[Nonini|Nonini]]
 - [[Gengetone Movement|Gengetone Movement]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 - [[East African Hip Hop Origins|East African Hip Hop Origins]]
 

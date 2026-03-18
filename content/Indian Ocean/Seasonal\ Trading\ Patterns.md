@@ -24,7 +24,7 @@ The gradual expansion of trading season through technological improvements that 
 [[Monsoon Winds]]
 [[Trading Colonies]]
 [[Merchant Networks]]
-[[Port Economics]]
+Port Economics
 
 ## Sources
 

@@ -126,10 +126,10 @@ The Kisii diaspora represents both the success of individual advancement through
 
 - [[Kisii Education Culture]] - educational drivers of migration
 - [[Kisii Environment and Deforestation]] - land pressure causes
-- [[Nairobi demographics]] - primary urban destination
-- [[Brain drain in Kenya]] - skills loss perspective
+- Nairobi demographics - primary urban destination
+- Brain drain in Kenya - skills loss perspective
 - [[Remittances Kenya Economy]] - economic flows
-- [[Migration and urbanization in Kenya]] - national patterns
+- Migration and urbanization in Kenya - national patterns
 
 ---
 

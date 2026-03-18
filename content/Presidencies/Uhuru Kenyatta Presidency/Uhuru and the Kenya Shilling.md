@@ -10,7 +10,7 @@ The Central Bank's response oscillated between defending the shilling and allowi
 
 Economic vulnerabilities of Uhuru's decade extended beyond the exchange rate. The economy grew at an average of around 4-5 percent annually, respectable but insufficient to absorb Kenya's rapidly growing labor force or achieve middle-income status. Inflation remained relatively controlled, averaging 5-6 percent, but periodic spikes (particularly in food prices during drought years) hurt ordinary Kenyans. Unemployment, particularly youth unemployment, remained stubbornly high despite infrastructure investment. The combination of weak shilling, rising cost of living, and limited job creation fueled political discontent, particularly among young Kenyans who formed the base of [[William Ruto]]'s "hustler" movement.
 
-The shilling's performance became politically significant during the [[Elections/2022 Presidential Election|2022 election]]. Ruto attacked Uhuru's economic management, pointing to the weak shilling, high cost of living, and debt burden as evidence of failure. Uhuru's defenders argued that infrastructure investment required short-term pain for long-term gain, that the shilling's depreciation was modest compared to regional peers, and that global factors (COVID-19, Ukraine war, global commodity prices) explained much of the economic stress. However, for ordinary Kenyans buying maize flour or fuel, technical explanations mattered less than lived experience: the shilling bought less, life was more expensive, and Uhuru's economic legacy felt like struggle rather than prosperity.
+The shilling's performance became politically significant during the [[2022 Presidential Election|2022 election]]. Ruto attacked Uhuru's economic management, pointing to the weak shilling, high cost of living, and debt burden as evidence of failure. Uhuru's defenders argued that infrastructure investment required short-term pain for long-term gain, that the shilling's depreciation was modest compared to regional peers, and that global factors (COVID-19, Ukraine war, global commodity prices) explained much of the economic stress. However, for ordinary Kenyans buying maize flour or fuel, technical explanations mattered less than lived experience: the shilling bought less, life was more expensive, and Uhuru's economic legacy felt like struggle rather than prosperity.
 
 ## See Also
 - [[Uhuru Economic Record]]
@@ -18,7 +18,7 @@ The shilling's performance became politically significant during the [[Elections
 - [[Uhuru and Chinese Debt]]
 - [[Eurobond Kenya]]
 - [[Uhuru Debt Crisis]]
-- [[Elections/2022 Presidential Election]]
+- [[2022 Presidential Election]]
 - [[Uhuru and William Ruto Fallout]]
 - [[Uhuru Legacy Assessment]]
 

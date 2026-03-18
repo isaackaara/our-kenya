@@ -14,7 +14,7 @@ Recovery in Mathare remained slow and incomplete. By 2010, most IDPs had returne
 
 [[2007-08 PEV Kibera|Kibera]]
 [[2007-08 PEV Nairobi Gangs|Nairobi Gangs]]
-[[2007-08 PEV Police Extrajudicial Killings|Police Violence]]
+Police Violence
 [[2007-08 PEV Sexual Violence|Sexual Violence]]
 [[2007-08 PEV Impunity|Impunity]]
 

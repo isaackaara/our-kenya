@@ -21,10 +21,10 @@ The long-term consequences of Moi's handling of the Somalia crisis persist. Dada
 - [[Moi and the GSU]]
 - [[Detention Without Trial Under Moi]]
 - [[Nyayo Philosophy]]
-- [[Cross-Ethnic/Somali Marginalization in Kenya]]
-- [[Corruption/Development Neglect in NEP]]
-- [[Elections/Somali Political Representation]]
-- [[Kalenjin/Security Policies in Periphery Regions]]
+- Somali Marginalization in Kenya
+- Development Neglect in NEP
+- [[Somali Political Representation Kenya]]
+- Security Policies in Periphery Regions
 
 ## Sources
 1. Lochery, Emma. "Rendering Difference Visible: The Kenyan State and Its Somali Citizens." *African Affairs* 111, no. 445 (2012): 615-639. https://academic.oup.com/afraf/article-abstract/111/445/615/145086

@@ -16,7 +16,7 @@ Contemporary affordable housing initiatives attempt to combine government land p
 [[Public Housing]]
 [[Informal Settlements]]
 [[Poverty]]
-[[Land Tenure]]
+[[Land Tenure Post Independence]]
 [[Private Real Estate]]
 [[Slum Upgrading]]
 

@@ -21,9 +21,9 @@ Karisa Maitha's most recent political status and activities reflect the shifting
 ## See Also
 
 - [[Coastal Land Question]] - Land rights advocacy
-- [[Coastal Intellectuals and Writers]] - [[intellectual]] leadership
+- [[Coastal Intellectuals and Writers]] - intellectual leadership
 - [[Giriama Uprising Historical Context]] - Historical context
-- [[Coastal Land Problems [[Kenya]]]] - Policy engagement
+- Coastal Land Problems [[Kenya]]]] - Policy engagement
 - [[Coast Marginalization]] - Activist response
 
 ## Sources

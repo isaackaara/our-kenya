@@ -19,12 +19,12 @@ The long-term impact was fiscal and institutional. Kenya committed to paying for
 ## See Also
 - [[Goldenberg Scandal]]
 - [[Moi Economic Policy 1978-1990]]
-- [[Corruption/Moi Era Corruption]]
+- [[Moi Era Corruption]]
 - [[Moi and the Asian Community]]
 - [[Moi and the 1998 US Embassy Bombing]]
-- [[Kalenjin/Kalenjin Networks in Post-Moi Era]]
-- [[Cross-Ethnic/Business-Political Corruption Networks]]
-- [[Elections/2002 Presidential Election]]
+- Kalenjin Networks in Post-Moi Era
+- Business-Political Corruption Networks
+- [[2002 Presidential Election]]
 
 ## Sources
 1. Wrong, Michela. *It's Our Turn to Eat: The Story of a Kenyan Whistle-Blower*. HarperCollins, 2009. https://www.harpercollins.com/products/its-our-turn-to-eat-michela-wrong

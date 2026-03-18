@@ -14,8 +14,8 @@ The teaching years are often overlooked in narratives of Moi's rise, treated as 
 [[Education]]
 [[Moi Rise to Power]]
 [[Moi and Education]]
-[[Kalenjin/Leadership]]
-[[Colonial Kenya/Local Government]]
+Leadership
+Local Government
 [[Moi Personal Style and Image]]
 
 ## Sources

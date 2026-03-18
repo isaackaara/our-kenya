@@ -10,7 +10,7 @@ By the mid-2010s, iHub's influence reflected maturation of Kenya's tech sector. 
 
 ## See Also
 
-[[Ushahidi History]], [[Tech Startups Ecosystem]], [[Entrepreneurship Kenya]], [[Nairobi Tech Community]], [[Venture Capital Kenya]], [[Innovation Policy]]
+Ushahidi History, [[Tech Startups Ecosystem]], [[Entrepreneurship Kenya]], Nairobi Tech Community, [[Venture Capital Kenya]], Innovation Policy
 
 ## Sources
 

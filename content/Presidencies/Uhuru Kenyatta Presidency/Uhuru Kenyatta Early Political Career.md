@@ -4,7 +4,7 @@ Uhuru's early political rise was orchestrated by President [[Daniel arap Moi]], 
 
 The 2002 presidential campaign was a disaster for Uhuru. Running as "the Moi project," he faced an unprecedented opposition coalition, the National Rainbow Coalition (NARC), led by [[Mwai Kibaki]] and backed by [[Raila Odinga]]. Voters rejected the continuity Uhuru represented, and he lost decisively, winning just 31 percent of the vote. The defeat was humiliating, but it taught Uhuru critical lessons about Kenyan politics: that family legacy alone was insufficient, that [[Elections|political coalitions]] mattered more than individual candidates, and that he needed to build his own political base rather than rely on Moi's patronage.
 
-After 2002, Uhuru rebuilt himself strategically. He accepted the opposition leader position, taking over KANU leadership from Moi in 2005. When the 2005 constitutional referendum split Kibaki's government, Uhuru aligned KANU with the Orange Democratic Movement (ODM), opposing the government's draft constitution. This alliance with Raila and other opposition figures positioned him as a coalition builder rather than a dynasty heir. During the [[2007 Post-Election Violence|2007 post-election crisis]], Uhuru kept KANU neutral but eventually joined Kibaki's Party of National Unity (PNU), serving as Deputy Prime Minister in the grand coalition government from 2008 to 2013.
+After 2002, Uhuru rebuilt himself strategically. He accepted the opposition leader position, taking over KANU leadership from Moi in 2005. When the 2005 constitutional referendum split Kibaki's government, Uhuru aligned KANU with the Orange Democratic Movement (ODM), opposing the government's draft constitution. This alliance with Raila and other opposition figures positioned him as a coalition builder rather than a dynasty heir. During the [[2007-2008 Post Election Violence|2007 post-election crisis]], Uhuru kept KANU neutral but eventually joined Kibaki's Party of National Unity (PNU), serving as Deputy Prime Minister in the grand coalition government from 2008 to 2013.
 
 The ICC indictment in 2010 for alleged crimes against humanity during the 2007-2008 post-election violence paradoxically became Uhuru's political asset. The charges, part of the [[2007-08 PEV Ocampo Six]] cases, allowed him to reframe his candidacy as resistance to Western interference. When he and [[William Ruto]] formed the [[Jubilee Alliance Formation 2013]] in 2013, they turned their shared ICC status into a political identity: two leaders who would not bow to international pressure. This narrative, combined with aggressive [[Kikuyu]]-Kalenjin coalition-building and a sophisticated digital campaign, delivered Uhuru the presidency in 2013 with 50.07 percent of the vote in the first round.
 
@@ -14,10 +14,10 @@ Uhuru's early political career demonstrated that in Kenyan politics, setbacks ca
 - [[Jomo Kenyatta]]
 - [[Daniel arap Moi]]
 - [[Mwai Kibaki]]
-- [[Elections/2002 General Election]]
-- [[Elections/2013 Presidential Election]]
-- [[Kikuyu/Kikuyu Political Power]]
-- [[Cross-Ethnic/Kikuyu-Kalenjin Alliance]]
+- 2002 General Election
+- [[2013 Presidential Election]]
+- [[Kikuyu Political Power]]
+- [[Kikuyu-Kalenjin Alliance]]
 - [[Jubilee Alliance Formation 2013]]
 
 ## Sources

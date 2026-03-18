@@ -49,8 +49,8 @@ For Uhuru personally, the cases hung over his presidency from 2013 onward but ne
 - [[Raila Odinga]]
 - [[Mwai Kibaki]]
 - [[Kenyan Hip-Hop]]
-- [[African Union]]
-- [[William Ruto ICC Cases]]
+- African Union
+- William Ruto ICC Cases
 - [[Uhuru Kenyatta Presidency]]
 
 ## Sources

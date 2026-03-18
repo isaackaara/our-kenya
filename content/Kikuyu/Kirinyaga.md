@@ -25,4 +25,4 @@ Kirinyaga is inseparable from Kikuyu identity. When the [[White Highlands]] poli
 - [[Mau Mau Uprising]]
 
 ## Related
-[[Ngai]] | [[Gikuyu and Mumbi]] | [[Facing Mount Kenya]] | [[Muranga]] | [[White Highlands]] | [[Mau Mau Uprising]] | [[Index]]
+[[Ngai]] | [[Gikuyu and Mumbi]] | [[Facing Mount Kenya]] | [[Muranga]] | [[White Highlands]] | [[Mau Mau Uprising]] | [[index]]

@@ -2,7 +2,7 @@
 
 ### Temperature and Precipitation Changes
 
-[[Meru County]] experiences [[variable rainfall]] affecting [[agriculture]] and [[water availability]]. [[Climate change]] is intensifying [[rainfall variability]] with longer [[dry seasons]] and more intense [[rainfall events]]. [[Temperature]] increases affect [[crop yields]] and [[water availability]].
+[[Meru County]] experiences variable rainfall affecting agriculture and water availability. Climate change is intensifying rainfall variability with longer dry seasons and more intense rainfall events. Temperature increases affect crop yields and water availability.
 
 Mount Kenya's glacier coverage has visibly declined reflecting warming trends. The glaciers are projected to disappear entirely within decades. Reduced glacier extent affects dry season water availability.
 

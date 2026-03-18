@@ -29,7 +29,7 @@ By independence in 1963, colonial rule had introduced new governance structures,
 - [[Tana River County|Tana River County Overview]]
 - [[Hola Massacre|Hola Massacre]]
 - [[Tana River Politics|Tana River Politics]]
-- [[Mau Mau Rebellion|Mau Mau Rebellion]]
+- [[Mau Mau Uprising|Mau Mau Rebellion]]
 - [[Tana River Timeline|Tana River Timeline]]
 - [[Tana River Land|Tana River Land]]
 - [[Kenya|Kenya Independence Movement]]

@@ -21,10 +21,10 @@ The transportation infrastructure connecting harbors to inland areas represented
 ## See Also
 
 [[Port Infrastructure]]
-[[Harbor Management]]
-[[Merchant Facilities]]
+Harbor Management
+Merchant Facilities
 [[Urban Planning Development]]
-[[Maritime Trade Networks]]
+Maritime Trade Networks
 
 ## Sources
 

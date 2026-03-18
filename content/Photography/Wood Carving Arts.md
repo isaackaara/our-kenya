@@ -7,13 +7,13 @@ Contemporary wood carving encompasses both traditional practice and artistic inn
 Commercial wood carving supplies tourist markets, interior design, and fine art markets. Tourist demand has shaped some traditional carving practice as forms adapt to market preferences. However, many carvers maintain distinctive styles and traditional approaches while selling to diverse markets. Contemporary wood carvers develop individual artistic voices and specialized practices. Economic viability of wood carving depends partly on both cultural and tourism markets alongside fine art recognition. Contemporary Kenyan wood carvers create sophisticated work serving cultural, economic, and artistic functions. Wood carving remains vital traditional craft and contemporary artistic practice.
 
 ## See Also
-- [[Sculpture Practice Kenya]]
-- [[Material Culture Heritage]]
+- [[Cultural Heritage]]
+- Material Culture Heritage
 - [[Craft Markets]]
-- [[Traditional Artistic Techniques]]
-- [[Functional and Decorative Arts]]
+- Traditional Artistic Techniques
+- Functional and Decorative Arts
 - [[Art Tourism]]
-- [[Contemporary Sculpture Practice]]
+- Contemporary Sculpture Practice
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Wood_carving - Wood Carving History

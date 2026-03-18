@@ -35,7 +35,7 @@ Bollywood's global popularity (extending far beyond Indian diasporas) has made i
 - [[Hindu Temples Kenya]]
 - [[Gujarati Hindus Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

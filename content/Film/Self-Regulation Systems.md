@@ -8,7 +8,7 @@ The relationship between self-regulation and formal government authority created
 
 The effectiveness of self-regulation in protecting freedom of expression depended substantially on cultural commitment to press freedom and editorial independence. Where governments tolerated strong independent media, self-regulation could function relatively independently. Where governments maintained authoritarian control, self-regulation sometimes replicated censorship functions while providing appearance of industry autonomy. The development of self-regulation reflected professional desire for autonomy from direct government control while recognizing that complete freedom from content standards was not politically sustainable.
 
-See Also: [[Censorship Film Television]], [[Content Rating Systems]], [[Broadcasting License]], [[Media]], [[Broadcast Standards]], [[Editorial Independence]], [[Professional Ethics Media]]
+See Also: [[Censorship Film Television]], [[Content Rating Systems]], [[Broadcasting License]], [[Media]], Broadcast Standards, Editorial Independence, Professional Ethics Media
 
 Sources:
 1. https://www.media-council-kenya.org/

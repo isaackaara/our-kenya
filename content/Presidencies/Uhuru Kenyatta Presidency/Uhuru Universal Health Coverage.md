@@ -65,13 +65,13 @@ The UHC initiative exemplified broader patterns in Uhuru's governance: ambitious
 ## See Also
 
 - [[Uhuru Big Four Agenda]]
-- [[Kenya Health System]]
-- [[Healthcare Equity Kenya]]
+- Kenya Health System
+- Healthcare Equity Kenya
 - [[Development Aid]]
-- [[Maternal and Child Health Kenya]]
-- [[Public Health Finance]]
-- [[Kenya and World Health Organization]]
-- [[Ruto Health Policy]]
+- Maternal and Child Health Kenya
+- Public Health Finance
+- Kenya and World Health Organization
+- Ruto Health Policy
 
 ## Sources
 

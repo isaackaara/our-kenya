@@ -8,7 +8,7 @@ The representation of political leadership in films reflected complex political 
 
 The audience for political films reflected political consciousness and interest in cinema as political expression. Urban audiences with higher education and political awareness constituted primary political film audiences. Political film festivals and specialized screening venues created platforms for political film distribution outside commercial cinema circuits. International audiences sometimes proved more accessible than domestic audiences, particularly for politically contentious films. The limited commercial viability of political films meant that most relied on alternative funding sources including international film funds and development organization support rather than domestic commercial distribution models.
 
-See Also: [[Film Politics]], [[Government Portrayal]], [[Documentary Film]], [[Film Directing]], [[Nairobi Film Festival]], [[Cinematic Independence]], [[Film Genres Kenya]]
+See Also: [[Film Politics]], [[Government Portrayal]], [[Documentary Film]], [[Film Directing]], [[Nairobi Film Festival]], Cinematic Independence, [[Film Genres Kenya]]
 
 Sources:
 1. https://www.filmmaker-association-kenya.org/

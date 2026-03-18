@@ -22,9 +22,9 @@ Community-based fisheries management initiatives were promoted from the 1990s on
 [[Lake Fish Industry]]
 [[Ocean Fish Harvesting]]
 [[Climate Change and Coastal Communities]]
-[[Resource Management Kenya]]
+Resource Management Kenya
 [[Environmental Art]]
-[[Sustainable Fisheries]]
+Sustainable Fisheries
 
 ## Sources
 

@@ -11,10 +11,10 @@ The success of the ART rollout in reducing AIDS mortality in Kenya represented o
 ## See Also
 
 [[Luo and HIV AIDS]]
-[[Public Health Kenya]]
+[[Health Services]]
 [[Health]]
-[[PEPFAR Kenya]]
-[[Global Fund and Kenya]]
+PEPFAR Kenya
+Global Fund and Kenya
 [[Kibaki and the ICC]]
 
 ## Sources

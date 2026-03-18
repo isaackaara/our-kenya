@@ -1,4 +1,4 @@
-Dadaab is a massive [[Refugee Camp|refugee complex]] located in [Garissa County](Colonial Kenya/Garissa Region), in northeastern Kenya, serving as the largest refuge for [[Somali Refugee Crisis|Somali displaced persons]] globally. Established in 1992 in response to the Somali Civil War, Dadaab comprises four main camps--Dagahaley, Hagadera, Ifo, and Ifo II--strategically situated in a semi-arid region that historically hosted nomadic Somali pastoralists. The complex transformed from an emergency humanitarian outpost into a vast urban agglomeration housing hundreds of thousands of people, fundamentally reshaping the demographics and ecological landscape of northeastern Kenya.
+Dadaab is a massive refugee complex located in [Garissa County](Colonial Kenya/Garissa Region), in northeastern Kenya, serving as the largest refuge for [[Somali Refugee Crisis|Somali displaced persons]] globally. Established in 1992 in response to the Somali Civil War, Dadaab comprises four main camps--Dagahaley, Hagadera, Ifo, and Ifo II--strategically situated in a semi-arid region that historically hosted nomadic Somali pastoralists. The complex transformed from an emergency humanitarian outpost into a vast urban agglomeration housing hundreds of thousands of people, fundamentally reshaping the demographics and ecological landscape of northeastern Kenya.
 
 The compound's growth has been episodic, driven by successive regional crises. Following the Somali Civil War's onset, refugee arrivals remained manageable until 2011, when a severe drought in East Africa triggered mass displacement. During 2011 alone, over a thousand people arrived daily at Dadaab, straining infrastructure designed for approximately 90,000 residents to breaking point. By mid-2011, the camps held roughly 439,000 people according to UNHCR records, making Dadaab the world's largest refugee complex at that moment. The influx created acute shortages of water, food, shelter, and healthcare services, yet aid agencies coordinated to prevent complete system collapse.
 
@@ -12,7 +12,7 @@ The camp population reflects deep demographic skewing. As of 2015, approximately
 [[Kenya Refugee Policy]]
 [[UNHCR Operations Kenya]]
 [[Somali]]
-[[2011 East Africa Drought]]
+2011 East Africa Drought
 [[Voluntary Repatriation]]
 
 ## Sources

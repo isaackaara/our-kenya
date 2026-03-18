@@ -16,12 +16,12 @@ For Ruto, Shakahola was a stain that would not wash out. It exposed the dark sid
 
 ## See Also
 - [[Ruto and Church Relationships]]
-- [[Corruption/Religious Institutions and Accountability]]
+- Religious Institutions and Accountability
 - [[Ruto Inauguration and First 100 Days]]
 - [[Gen Z Kenya Political Awakening]]
-- [[Cross-Ethnic/Coastal Politics and Marginalization]]
+- Coastal Politics and Marginalization
 - [[Ruto and Social Media]]
-- [[Ruto and Media]]
+- [[William Ruto Presidency]]
 
 ## Sources
 1. "Shakahola massacre: Over 400 bodies exhumed in Kenya cult tragedy," BBC News, October 18, 2023. https://www.bbc.com/news/world-africa-67140987

@@ -4,7 +4,7 @@ title: Meru Oral Literature and Storytelling
 
 # Meru Oral Literature: Proverbs, Folktales, and Riddles
 
-Meru [[oral literature]] preserves [[cultural wisdom]], [[historical memory]], and [[moral instruction]] through [[proverbs]], [[folktales]], and [[riddles]]. This tradition remains important in Meru society, particularly in rural and traditional contexts.
+Meru oral literature preserves cultural wisdom, historical memory, and moral instruction through proverbs, folktales, and riddles. This tradition remains important in Meru society, particularly in rural and traditional contexts.
 
 ## Nthimo (Proverbs)
 

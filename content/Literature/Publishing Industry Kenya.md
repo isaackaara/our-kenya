@@ -2,7 +2,7 @@ Kenya's publishing industry developed from colonial foundations into a significa
 
 Colonial publishing in Kenya remained limited, with metropolitan London publishers controlling distribution of English-language books while missionary publishers addressed religious audiences in indigenous languages. This metropolitan dominance of publishing meant that Kenyan literary aspirations confronted limited local outlets and heavy dependence on international publishing gatekeepers willing to publish African writing.
 
-Postcolonial Kenya saw gradual expansion of publishing capacity through the [[East African Literature Bureau]], private publishing houses, and international publishers establishing regional operations. The [[East African Educational Publishers]] emerged as major force, specializing in literature, educational texts, and works addressing African cultural context. These organizations provided outlets where Kenyan writers could achieve publication, though international publishers retained disproportionate influence in determining which African works reached global audiences.
+Postcolonial Kenya saw gradual expansion of publishing capacity through the [[East African Literature Bureau]], private publishing houses, and international publishers establishing regional operations. The East African Educational Publishers emerged as major force, specializing in literature, educational texts, and works addressing African cultural context. These organizations provided outlets where Kenyan writers could achieve publication, though international publishers retained disproportionate influence in determining which African works reached global audiences.
 
 The economics of publishing constrained what got published and circulated. Literary works with limited commercial viability, including poetry and experimental fiction, faced obstacles to publication as publishers prioritized works addressing broader markets. This commercial constraint shaped Kenya's literary development, privileging genres and content deemed commercially viable while restricting space for less marketable work.
 
@@ -26,7 +26,7 @@ Contemporary Kenyan publishing navigates digital transformation, international p
 [[East African Literature Bureau]]
 [[Literary Journals Publishing]]
 [[Literature]]
-[[International Publishing Kenya]]
+International Publishing Kenya
 [[Authors and Copyright Kenya]]
 [[Printing Press History]]
 [[Digital Art]]

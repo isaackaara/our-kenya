@@ -22,8 +22,8 @@ Supply chain vulnerabilities emerged as urban food demand concentrated purchasin
 [[Market Infrastructure]]
 [[School Feeding]]
 [[Street Food Culture]]
-[[Labour/Urban Food Sector Employment]]
-[[Poverty/Urban Food Security]]
+Urban Food Sector Employment
+Urban Food Security
 
 ## Sources
 

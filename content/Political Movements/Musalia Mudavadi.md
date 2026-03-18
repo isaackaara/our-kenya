@@ -7,7 +7,7 @@ Wycliffe Musalia Mudavadi is a veteran Kenyan politician who has served in vario
 ## See Also
 - [[Musalia Mudavadi Deep Dive]]
 - [[Ruto Cabinet]]
-- [[Luhya/Luhya Political Leadership]]
+- [[Luhya Cultural Identity]]
 
 ## Sources
 1. Hornsby, Charles. "Kenya: A History Since Independence." I.B. Tauris, 2012.

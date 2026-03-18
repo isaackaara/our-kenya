@@ -7,7 +7,7 @@ tags: kisii gusii age sets initiation cohorts lifelong bonds
 
 ## Age-Set Organization
 
-The [[Gusii people|Gusii]] have an age-set system, though less elaborately formalized than those of neighboring [[Kalenjin people|Kalenjin]] ([[Kipsigis people|Kipsigis]]) or [[Maasai people|Maasai]] communities. Age sets (sometimes called age grades or age cohorts) organize men and women into generational groups based on the year of initiation into adulthood, primarily through [[Kisii Circumcision|circumcision]].
+The [[Gusii people|Gusii]] have an age-set system, though less elaborately formalized than those of neighboring Kalenjin ([[Kipsigis People|Kipsigis]]) or Maasai communities. Age sets (sometimes called age grades or age cohorts) organize men and women into generational groups based on the year of initiation into adulthood, primarily through [[Kisii Circumcision|circumcision]].
 
 ## Formation and Bonding
 
@@ -44,7 +44,7 @@ In modern Kisii society, age-set identity persists but is weakened. Urban migrat
 
 - [[Kisii Circumcision]] - initiation and age set formation
 - [[Kisii Clan System]] - complementary social organization
-- [[Kalenjin age set systems]] - comparative pastoral system
+- Kalenjin age set systems - comparative pastoral system
 - [[Gusii Music Deep Dive|Gusii music]] - age-set gathering celebrations
 - [[Kisii Dance]] - age-set ceremonial performance
-- [[Male initiation in African societies]] - comparative perspective
+- Male initiation in African societies - comparative perspective

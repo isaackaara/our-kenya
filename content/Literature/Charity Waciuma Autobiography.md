@@ -20,9 +20,9 @@ The autobiography's circulation in scholarly and pedagogical contexts ensured th
 [[Mau Mau Emergency Narratives]]
 [[Women Writers Authors Kenya]]
 [[Postcolonial Literature Movement]]
-[[Autobiography and History Kenya]]
+Autobiography and History Kenya
 [[Kikuyu]]
-[[Colonial Education Kenya]]
+[[Colonial Administration]]
 [[Gender Pay Gap]]
 
 ## Sources

@@ -16,7 +16,7 @@ Post-colonial Kenya witnessed decline of religious charity settlements as state 
 [[Christian Schools Education]]
 [[Religious Charities Settlements]]
 [[Church and State Relations]]
-[[Colonial Kenya/Missions and Settlement]]
+Missions and Settlement
 
 ## Sources
 

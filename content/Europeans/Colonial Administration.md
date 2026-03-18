@@ -43,7 +43,7 @@ Despite the reality of coercion and violence, the DC system was cloaked in the m
 - [[District Commissioners and Indirect Rule]] - The DC system in detail
 - [[Frederick Lugard]] - Originator of Indirect Rule theory
 - [[John Ainsworth]] - Early colonial administrator in Kenya
-- [[Hut Tax and Labor Extraction]] - Economic mechanisms of control
+- Hut Tax and Labor Extraction - Economic mechanisms of control
 - [[Crown Lands Ordinance]] - Land policy foundations
 - [[Mau Mau Uprising]] - Resistance to colonial control
 - [[East Africa Protectorate to Colony]] - Administrative structure evolution

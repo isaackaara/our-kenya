@@ -2,7 +2,7 @@ Mnazi (palm wine) is a traditional beverage with deep cultural and social signif
 
 ## Production and Tapping
 
-Mnazi is produced by tapping the flowering stalk of [[Coconut]] palms (or palmyra palms). A specialist tapper, often inheriting the skill and knowledge, climbs the palm and makes a controlled cut in the flowering stalk. The sweet sap that flows out is collected in a gourd or container. The tapper must be skilled to make cuts that allow sap flow without damaging the tree or stopping future production. Tapping is typically done early morning, with collection in the afternoon or early evening.
+Mnazi is produced by tapping the flowering stalk of Coconut palms (or palmyra palms). A specialist tapper, often inheriting the skill and knowledge, climbs the palm and makes a controlled cut in the flowering stalk. The sweet sap that flows out is collected in a gourd or container. The tapper must be skilled to make cuts that allow sap flow without damaging the tree or stopping future production. Tapping is typically done early morning, with collection in the afternoon or early evening.
 
 ## Fermentation
 

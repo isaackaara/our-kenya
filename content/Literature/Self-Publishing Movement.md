@@ -28,8 +28,8 @@ Contemporary self-publishing in Kenya involves diverse strategies and motivation
 [[Authors and Copyright Kenya]]
 [[Independent Publishers]]
 [[Art Markets Kenya]]
-[[Book Distribution Networks]]
-[[Writers' Economics Kenya]]
+Book Distribution Networks
+Writers' Economics Kenya
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Kenya_Literature_Bureau - Context for traditional publishing structures

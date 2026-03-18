@@ -24,7 +24,7 @@ By the mid-2020s, the Safaricom Jazz Festival had established itself as permanen
 - [[Kenyan Music at International Festivals|Kenyan Music at International Festivals]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 - [[Gengetone Movement|Gengetone Movement]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 
 ## Sources
 1. "The Safaricom Jazz Festival," Ministry of Sports, Culture and Heritage, September 22, 2019, https://sportsheritage.go.ke/the-safaricom-jazz-festival/

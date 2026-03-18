@@ -4,7 +4,7 @@ title: Meru Clan System (Mugwe)
 
 # The Mugwe Clan System in Meru Society
 
-The [[Meru people|Meru]] clan system, known as mugwe (plural: migwe), organizes society into exogamous units (groups whose members must marry outside their own group). This system structures kinship, marriage, land tenure, and ritual authority.
+The [[Meru People|Meru]] clan system, known as mugwe (plural: migwe), organizes society into exogamous units (groups whose members must marry outside their own group). This system structures kinship, marriage, land tenure, and ritual authority.
 
 ## Clan Identity and Function
 
@@ -30,7 +30,7 @@ The mugwe's role was distinct from the Njuri Ncheke (the governing council). Whi
 
 ## Decline and Contemporary Status
 
-With the arrival of [[Christianity]] (primarily [[Catholicism]]), the mugwe's ritual functions diminished significantly. The [[Catholic Church]] filled the spiritual roles that the mugwe had occupied, and Christian theology delegitimized the mugwe's claims to mediate between the community and the divine.
+With the arrival of [[christianity]] (primarily Catholicism), the mugwe's ritual functions diminished significantly. The [[Catholic Church]] filled the spiritual roles that the mugwe had occupied, and Christian theology delegitimized the mugwe's claims to mediate between the community and the divine.
 
 However, the memory of the mugwe remains embedded in oral tradition and clan consciousness. Some older Meru still reference the mugwe system when discussing historical authority structures.
 
@@ -47,10 +47,10 @@ Contemporary Meru maintain clan identity even in urban settings. Clan affiliatio
 
 - [[Njuri Ncheke]]
 - [[Meru Age Sets]]
-- [[Meru Kinship and Family]]
-- [[Meru Marriage and Gender]]
+- Meru Kinship and Family
+- [[Meru People]]
 - [[Meru Religion and Spirituality]]
-- [[Meru Social Organization]]
+- [[Meru People]]
 
 ---
 

@@ -10,10 +10,10 @@ Coordination structures included humanitarian coordination forums where implemen
 
 [[Refugee Camp Governance]]
 [[Refugee Leadership]]
-[[Camp Administration]]
-[[Humanitarian Coordination]]
-[[Refugee Participation Decision-making]]
-[[Institutional Accountability Camps]]
+Camp Administration
+Humanitarian Coordination
+Refugee Participation Decision-making
+Institutional Accountability Camps
 
 ## Sources
 

@@ -4,7 +4,7 @@ During the 1980s, when the one-party state was constitutionally mandated and opp
 
 The legal framework for suppressing opposition was comprehensive. Security laws permitted detention without trial for extended periods. Sedition laws prohibited publications critical of government. Breach of peace statutes gave security forces broad discretion to prevent public gatherings that might become oppositional. Laws against unlawful societies prohibited opposition organizing. These laws, mostly inherited from the colonial period but substantially expanded under Moi, created legal scaffolding for repression. The courts, constrained by government pressure and lacking genuine independence, upheld these restrictions on civil liberties. The legal system thus legitimated repression while appearing to maintain rule of law.
 
-The moment of transition to multiparty democracy came in December 1991, when Moi announced that opposition parties would be permitted beginning in 1992. This announcement, forced by domestic and international pressure, appeared to transform the political landscape. Opposition figures who had operated underground or in hiding emerged to organize political parties. Prominent opposition figures like [[Mwangi Mathai]] (brother of environmental activist Wangari Mathai), Kenneth Matiba, and others imprisoned under Moi began organizing after their release from detention. The opposition quickly organized into multiple parties, primarily along ethnic lines.
+The moment of transition to multiparty democracy came in December 1991, when Moi announced that opposition parties would be permitted beginning in 1992. This announcement, forced by domestic and international pressure, appeared to transform the political landscape. Opposition figures who had operated underground or in hiding emerged to organize political parties. Prominent opposition figures like Mwangi Mathai (brother of environmental activist Wangari Mathai), Kenneth Matiba, and others imprisoned under Moi began organizing after their release from detention. The opposition quickly organized into multiple parties, primarily along ethnic lines.
 
 However, Moi's government moved rapidly to manage the opposition's emergence, employing strategies less direct than outright bans but equally effective. Opposition parties faced substantial obstacles in organizing. Election laws were changed repeatedly to advantage KANU. Opposition rallies faced police obstruction and intimidation. Opposition candidates reported violence against their supporters and intimidation of campaign workers. Electoral boundaries were manipulated to advantage KANU. Government resources were used to campaign for KANU, creating unequal competition. The postal system failed to deliver opposition party literature effectively. Radio broadcasts, controlled by government, limited coverage of opposition activities.
 
@@ -23,9 +23,9 @@ The period between 1997 and 2002 saw growing opposition coordination. Different 
 ## See Also
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
-- [[Kenya Opposition Politics|Kenya Opposition Politics]]
+- [[Multiparty Politics|Kenya Opposition Politics]]
 - [[Moi and Multiparty Democracy|Moi and Multiparty Democracy]]
-- [[Kenya Elections|Kenya Elections]]
+- [[Elections|Kenya Elections]]
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 
 ## Sources

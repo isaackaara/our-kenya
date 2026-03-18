@@ -20,7 +20,7 @@ By 2025, Kenya had successfully completed several IMF reviews and received disbu
 - [[Ruto Second Budget and Austerity]]
 - [[Gen Z Kenya Political Awakening]]
 - [[Ruto Inauguration and First 100 Days]]
-- [[Corruption/Public Debt and Corruption]]
+- Public Debt and Corruption
 
 ## Sources
 1. "Kenya: 2023 Article IV Consultation and Sixth Review Under the Extended Credit Facility," IMF Country Report No. 23/277, August 2023. https://www.imf.org/en/Publications/CR/Issues/2023/08/11/Kenya-2023-Article-IV-Consultation-537162

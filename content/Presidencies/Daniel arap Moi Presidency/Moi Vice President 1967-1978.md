@@ -16,9 +16,9 @@ Moi's vice-presidential years reveal a patient, calculating politician who under
 [[Moi Rise to Power]]
 [[Legacy]]
 [[Moi and the Kalenjin]]
-[[Kenya/Coffee Boom]]
+Coffee Boom
 [[Moi Succession 1978]]
-[[Moi First Cabinet as President]]
+[[Daniel arap Moi Era]]
 
 ## Sources
 1. https://www.britannica.com/biography/Daniel-arap-Moi (accessed 2024)

@@ -66,13 +66,13 @@ Climate change is increasing the importance of corridor connectivity as species 
 
 ## See Also
 
-- [[Habitat fragmentation]] - Landscape impacts
+- Habitat fragmentation - Landscape impacts
 - [[Northern Rangelands Trust]] - Corridor implementation
 - [[Amboseli]] - Transboundary example
 - [[SGR and Wildlife Corridors]] - Infrastructure barriers
 - [[Laikipia Plateau]] - Regional corridor hub
 - [[Climate Change and Wildlife]] - Range shift adaptation
-- [[Protected area networks]] - Landscape design
+- Protected area networks - Landscape design
 
 ## Sources
 

@@ -14,10 +14,10 @@ The 1969 oathing campaigns thus represented the intensification of ethnic politi
 
 - [[1969 Election]]
 - [[Kikuyu]]
-- [[Mau Mau Rebellion]]
-- [[Ethnic Mobilization Kenya]]
-- [[Political Ritual Kenya]]
-- [[Traditional Authority and Politics]]
+- [[Mau Mau Uprising]]
+- Ethnic Mobilization Kenya
+- Political Ritual Kenya
+- Traditional Authority and Politics
 - [[Moi and KANU]]
 
 ## Sources

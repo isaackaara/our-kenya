@@ -6,7 +6,7 @@ Understanding gusii pottery tradition provides important context for Kenya's dev
 
 ## See Also
 
-[[Gusii]], [[Kenya History]]
+[[Gusii people]], [[Kenya History]]
 
 ## Sources
 

@@ -27,9 +27,9 @@ Contemporary autobiography in Kenya continues developing, with new generations o
 [[Mau Mau Emergency Narratives]]
 [[Women Writers Authors Kenya]]
 [[Postcolonial Literature Movement]]
-[[Political Memoirs Kenya]]
+Political Memoirs Kenya
 [[4_EAC_History]]
-[[Life Writing Kenya]]
+Life Writing Kenya
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Charity_Waciuma - Foundational autobiography and women's narratives

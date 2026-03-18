@@ -18,9 +18,9 @@ The campaign demonstrated the advantages that an incumbent government possesses 
 - [[Daniel arap Moi]]
 - [[Moi and KANU]]
 - [[Elections]]
-- [[Ethnic Mobilization 1992]]
+- Ethnic Mobilization 1992
 - [[Media]]
-- [[Incumbency Advantage]]
+- Incumbency Advantage
 
 ## Sources
 

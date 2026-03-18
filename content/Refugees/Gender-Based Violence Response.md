@@ -12,7 +12,7 @@ Documented research regarding GBV response effectiveness indicated mixed impacts
 [[Child Protection Services]]
 [[Sexual Exploitation Prevention]]
 [[Refugee Mental Health]]
-[[Women Refugee Camps]]
+Women Refugee Camps
 [[Human Rights Refugee Camps]]
 
 ## Sources

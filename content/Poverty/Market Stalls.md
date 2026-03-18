@@ -9,7 +9,7 @@ Market infrastructure varies substantially, affecting trader productivity and pu
 Market formalization efforts by government and development organizations have mixed results. Attempts to relocate traders to modern market facilities often fail: relocated traders lose customer relationships; new facilities have higher rental costs; traders prefer familiar locations. Market regulation through licensing and health inspections creates administrative costs traders struggle to bear. Cooperative organization of traders sometimes succeeds in improving services while maintaining trader autonomy. Community-based market management empowering trader associations in governance improves both service quality and trader satisfaction. The evidence suggests market improvement works better when traders participate in governance and benefit from improvements, rather than improvements imposed from outside. Markets will remain central to informal trade; improving them requires trader participation and investment.
 
 ## See Also
-[[Informal Sector]], [[Hawking Vending]], [[Small Retail Trade]], [[Urban Housing Markets]], [[Agricultural Markets]], [[Food]], [[Informal Economy]], [[Infrastructure Access]]
+[[Informal Sector]], [[Hawking Vending]], [[Small Retail Trade]], [[Urban Housing Markets]], Agricultural Markets, [[Food]], [[Informal Economy Kenya]], [[Infrastructure Access]]
 
 ## Sources
 1. International Labour Organization (2015). "Informal Markets and Vendor Organization in Kenya." https://www.ilo.org

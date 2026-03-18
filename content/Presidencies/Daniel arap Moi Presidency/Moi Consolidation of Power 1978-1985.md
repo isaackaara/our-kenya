@@ -18,7 +18,7 @@ By 1983, Moi had accomplished a consolidation of power that was nearly complete.
 
 ## See Also
 [[Moi Succession 1978]]
-[[Moi First Cabinet as President]]
+[[Daniel arap Moi Era]]
 [[1982 Coup Attempt]]
 [[Moi and the Njonjo Affair]]
 [[Internal Security Operations]]

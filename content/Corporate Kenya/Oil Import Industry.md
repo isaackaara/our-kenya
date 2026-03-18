@@ -17,10 +17,10 @@ Sector growth and development depend on policy, investment, technology, and glob
 ## See Also
 
 - [[Kenya Imports]]
-- [[Energy Sector Kenya]]
-- [[Manufacturing Sector Kenya]]
+- [[Energy Access]]
+- [[Economy]]
 - [[Mombasa Port History]]
-- [[Transport Infrastructure Kenya]]
+- [[Transportation]]
 - [[Kenya Economic Overview]]
 - [[Trade Commerce Control]]
 

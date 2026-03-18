@@ -14,11 +14,11 @@ The Chonyi language is one of nine closely related Mijikenda languages. The Chon
 
 ## Historical Development
 
-The Chonyi, like other Mijikenda, claim oral traditions placing their origins at Singwaya and describing migration to the coast. The Chonyi settled in their current territories probably in the sixteenth or seventeenth century, though precise dating is uncertain. Archaeological evidence of early settlement may exist but has been limited compared to research in other regions. The Chonyi established the [[kaya]] (fortified village) system characteristic of Mijikenda.
+The Chonyi, like other Mijikenda, claim oral traditions placing their origins at Singwaya and describing migration to the coast. The Chonyi settled in their current territories probably in the sixteenth or seventeenth century, though precise dating is uncertain. Archaeological evidence of early settlement may exist but has been limited compared to research in other regions. The Chonyi established the kaya (fortified village) system characteristic of Mijikenda.
 
 ## Sacred Kaya
 
-The Chonyi maintain sacred [[kaya]] forests consistent with broader Mijikenda practice. These kayas are fortified ancestral village sites now serving primarily ritual and spiritual functions. The kayas contain sacred objects and are managed by vaya ([[elders]]). The kayas are part of the UNESCO World Heritage designation of Mijikenda Kaya Forests (2008). The Chonyi kayas, like others, face pressure from timber extraction, agricultural encroachment, and other threats.
+The Chonyi maintain sacred kaya forests consistent with broader Mijikenda practice. These kayas are fortified ancestral village sites now serving primarily ritual and spiritual functions. The kayas contain sacred objects and are managed by vaya (elders). The kayas are part of the UNESCO World Heritage designation of Mijikenda Kaya Forests (2008). The Chonyi kayas, like others, face pressure from timber extraction, agricultural encroachment, and other threats.
 
 ## Colonial Experience
 

@@ -1,4 +1,4 @@
-Daphne Sheldrick (1934-2018) was a pioneering [[Wildlife Conservationist|wildlife conservationist]] and founder of the [[David Sheldrick]] dedicated to [[Elephant Orphan Rehabilitation|elephant]] and [[The Rhino Ark|rhino orphan rehabilitation]] and [[Wildlife Protection|wildlife protection]]. Sheldrick's work demonstrated that [[Orphaned Animals|orphaned wild animals]] could be [[Rehabilitation Techniques|rehabilitated]] and [[Wildlife Reintegration|reintegrated]] into the wild, fundamentally influencing [[Wildlife Rescue and Rehabilitation|wildlife rescue and rehabilitation]] approaches globally.
+Daphne Sheldrick (1934-2018) was a pioneering wildlife conservationist and founder of the [[David Sheldrick]] dedicated to elephant and [[The Rhino Ark|rhino orphan rehabilitation]] and [[Wildlife Protection|wildlife protection]]. Sheldrick's work demonstrated that orphaned wild animals could be rehabilitated and reintegrated into the wild, fundamentally influencing wildlife rescue and rehabilitation approaches globally.
 
 ## Early Life and Conservation Calling
 
@@ -62,7 +62,7 @@ Sheldrick received numerous awards and honors recognizing her conservation contr
 - [[Tsavo National Park]]
 - [[Conservation]]
 - [[Rhino Conservation Kenya]]
-- [[Wildlife Rescue Programs]]
+- Wildlife Rescue Programs
 - [[Conservation]]
 - [[Conservation]]
 

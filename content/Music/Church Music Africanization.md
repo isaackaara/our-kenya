@@ -31,7 +31,7 @@ Church music Africanization demonstrates cultural resilience and creativity. Afr
 - [[Mission Church Choirs Kenya]]
 - [[African Brotherhood Church Music]]
 - [[Schools Music Festivals Kenya Origins]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 - [[Jomo Kenyatta Presidency]]
 
 ## Sources

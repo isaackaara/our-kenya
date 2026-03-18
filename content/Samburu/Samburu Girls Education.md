@@ -46,8 +46,8 @@ Girls who complete secondary education increasingly pursue tertiary education. U
 - [[Samburu Education]]
 - [[Samburu Early Marriage]]
 - [[The Moran (Warriors)]]
-- [[Women's Empowerment in Samburu]]
-- [[Youth Development in Samburu]]
+- Women's Empowerment in Samburu
+- [[Samburu County Education]]
 
 ## Sources
 

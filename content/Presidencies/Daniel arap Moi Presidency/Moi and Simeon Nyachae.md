@@ -14,11 +14,11 @@ Nyachae's late-career political ambitions, particularly his candidacy for the pr
 
 ## See Also
 [[Moi Cabinet and Loyalists]]
-[[Kenya/Civil Service]]
+Civil Service
 [[Moi Economic Policy 1978-1990]]
 [[Moi and Education]]
 [[Structural Adjustment Programs Kenya]]
-[[Kenya/Post-2002 Transition]]
+Post-2002 Transition
 
 ## Sources
 1. https://www.britannica.com/biography/Simeon-Nyachae (accessed 2024)

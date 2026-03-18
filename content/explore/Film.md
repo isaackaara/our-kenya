@@ -13,20 +13,20 @@ From early colonial films to modern Riverwood, Kenya's film industry.
 ## Key Topics
 
 ### Film Industry
-- [[Film/Riverwood|Riverwood]]
-- [[Film/Kenya Film Commission|Kenya Film Commission]]
-- [[Film/Film Production Kenya|Film Production]]
-- [[Film/Cinema Kenya|Cinema History]]
+- Riverwood
+- Kenya Film Commission
+- Film Production
+- Cinema History
 
 ### Filmmakers
-- [[Film/Kenyan Directors|Kenyan Directors]]
-- [[Film/Film Producers Kenya|Film Producers]]
-- [[Film/Actors Kenya|Kenyan Actors]]
+- Kenyan Directors
+- Film Producers
+- Kenyan Actors
 
 ### Film & Society
-- [[Film/Documentary Film Kenya|Documentary]]
-- [[Film/Film Censorship Kenya|Film Censorship]]
-- [[Film/Film Festivals Kenya|Film Festivals]]
+- [[Documentary Film|Documentary]]
+- Film Censorship
+- Film Festivals
 
 ---
 

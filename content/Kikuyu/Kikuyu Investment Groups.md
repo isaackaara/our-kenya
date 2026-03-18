@@ -2,7 +2,7 @@ The chama (investment group) tradition is a distinctive feature of Kikuyu econom
 
 ## The Chama Tradition
 
-A [[Chama (investment group)|chama]] is a group of people, typically ranging from 5-20 members, who agree to contribute fixed sums of money monthly or at regular intervals. The pooled capital is managed according to group rules, often rotating through members or being invested collectively.
+A chama is a group of people, typically ranging from 5-20 members, who agree to contribute fixed sums of money monthly or at regular intervals. The pooled capital is managed according to group rules, often rotating through members or being invested collectively.
 
 Chamas function as informal savings groups, providing discipline and structure for saving. By contributing to a group, individuals save money that they might otherwise spend. The rotation of funds allows each member periodic access to a lump sum of capital.
 
@@ -16,7 +16,7 @@ Chamas also serve social functions, creating community bonds and enabling mutual
 
 ## GEMA and Political Economy
 
-The [[GEMA]] (Gikuyu Embu Meru Association) emerged as confederation of chamas and broader political-economic alliance among the Gikuyu, Embu, and Meru peoples. GEMA functioned as vehicle for collective economic and political interests during the Moi era.
+The GEMA (Gikuyu Embu Meru Association) emerged as confederation of chamas and broader political-economic alliance among the Gikuyu, Embu, and Meru peoples. GEMA functioned as vehicle for collective economic and political interests during the Moi era.
 
 GEMA organized the investment groups of three peoples and attempted to coordinate their economic and political power. GEMA was particularly active in the 1970s and 1980s as an ethnic interest group.
 
@@ -57,12 +57,12 @@ Women's participation in chamas has been important vehicle for women's economic 
 ## See Also
 
 - [[Kikuyu Business Networks]]
-- [[GEMA]]
+- GEMA
 - [[Kikuyu Entrepreneurs Deep Dive]]
 - [[Kikuyu and Real Estate]]
 - [[Kikuyu Diaspora Beyond Kenya]]
 - [[Kikuyu Women in History]]
-- [[Kenya Informal Economies]]
+- Kenya Informal Economies
 
 ## Sources
 

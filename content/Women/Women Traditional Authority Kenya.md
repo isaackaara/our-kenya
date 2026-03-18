@@ -21,7 +21,7 @@ Women's participation in informal community justice has grown. Many communities 
 ## See Also
 
 [[Women Leadership Capacity]]
-[[Customary Law Women]]
+Customary Law Women
 [[Polygamy Law Debates Kenya]]
 [[Women Land Rights]]
 [[Constitutional Rights Kenya]]

@@ -1,4 +1,4 @@
-The [[Piracy Trade Safety]] issues affected Indian Ocean commerce throughout its history, with merchant vessels vulnerable to armed attacks from pirates seeking to steal cargo or ransom vessels and crews. The development of trading networks capable of moving valuable commodities across hundreds of kilometers created opportunities for maritime banditry. The merchants responded through collective defense strategies, armed vessels, and payment of protection fees to naval forces.
+The Piracy Trade Safety issues affected Indian Ocean commerce throughout its history, with merchant vessels vulnerable to armed attacks from pirates seeking to steal cargo or ransom vessels and crews. The development of trading networks capable of moving valuable commodities across hundreds of kilometers created opportunities for maritime banditry. The merchants responded through collective defense strategies, armed vessels, and payment of protection fees to naval forces.
 
 The piracy that affected Indian Ocean trade ranged from organized brigand fleets controlling strategic chokepoints to opportunistic attacks by merchant vessels themselves. The Somali coast provided natural location for pirate bases, with protected harbors allowing pirate vessels to attack shipping lanes while maintaining secure bases. The concentration of piracy in particular regions reflected geographic advantages that created pirate strongholds. The merchants seeking to avoid pirate attacks would attempt routing that minimized exposure to known pirate locations.
 
@@ -21,9 +21,9 @@ The decline of Mediterranean piracy following European naval dominance reflected
 ## See Also
 
 [[Naval Defense]]
-[[Merchant Vessel Armament]]
+Merchant Vessel Armament
 [[Maritime Security Indian Ocean]]
-[[Trade Route Safety]]
+Trade Route Safety
 [[Merchant Networks]]
 
 ## Sources

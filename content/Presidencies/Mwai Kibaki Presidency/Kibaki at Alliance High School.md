@@ -11,11 +11,11 @@ The Alliance experience also socialised Kibaki into a particular form of Kenyan 
 ## See Also
 
 [[Alliance High School]]
-[[Kenya Colonial Education System]]
-[[Educational Elite in Post-Independence Kenya]]
-[[Kibaki Education and Training]]
-[[British Public School Traditions in Africa]]
-[[Nairobi School of Economics]]
+Kenya Colonial Education System
+Educational Elite in Post-Independence Kenya
+Kibaki Education and Training
+British Public School Traditions in Africa
+Nairobi School of Economics
 
 ## Sources
 

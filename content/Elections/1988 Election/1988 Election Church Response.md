@@ -3,7 +3,7 @@ Churches in Kenya responded to the 1988 election with criticism and calls for de
 ## See Also
 - [[1988 Election]]
 - [[Churches Kenya]]
-- [[Timothy Njoya]]
+- Timothy Njoya
 - [[Kenya]]
 - [[Second Liberation Music Kenya]]
 - [[Moi and the NCCK]]

@@ -50,7 +50,7 @@ Regional insecurity (South Sudan instability, Somali insurgency) has arms flows 
 - [[Samburu Pastoralism]]
 - [[Samburu Climate Change]]
 - [[Samburu Land Rights Today]]
-- [[Pastoral Conflict Dynamics]]
+- Pastoral Conflict Dynamics
 
 ## Sources
 

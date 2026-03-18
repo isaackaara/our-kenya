@@ -9,7 +9,7 @@ Reintegration pathways vary by circumstance. Family reunion involves reunificati
 The factors limiting rescue effectiveness are substantial. Street populations are mobile, making sustained contact difficult. Many street children reject offered support, preferring street autonomy to shelter restrictions. Reintegration failure is common: families may reject children; communities may stigmatize formerly-street children; employment opportunities may be unavailable; and street community bonds may pull children back. Recurring cycles of rescue, reintegration, and return to streets are common among chronically homeless youth. Program capacity is limited relative to street population scale: major programs serve 500-1000 children annually while street populations exceed 100,000 in major cities. Sustainable reduction of street childhood requires poverty elimination and family support, not rescue alone.
 
 ## See Also
-[[Street Children]], [[Children's Shelters]], [[Poverty Measurement]], [[Child Labor Poverty]], [[Education Access]], [[support]], [[Social Protection]], [[Livelihood Training]]
+[[Street Children]], [[Children's Shelters]], [[Poverty Measurement]], [[Child Labor Poverty]], [[Education Access]], [[support]], [[Social Protection]], Livelihood Training
 
 ## Sources
 1. UNICEF (2015). "Street Children Assessment and Intervention Framework." https://www.unicef.org

@@ -24,8 +24,8 @@ International partnerships with cancer research organizations and treatment cent
 [[Gender Healthcare Access]]
 [[Women Mental Health]]
 [[Female Sexual Health]]
-[[Health/Health Systems]]
-[[Health/Cancer Control]]
+[[Health Systems]]
+Cancer Control
 
 ## Sources
 

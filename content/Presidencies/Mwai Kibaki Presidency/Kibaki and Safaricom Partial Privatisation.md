@@ -10,10 +10,10 @@ The partial privatisation of Safaricom also had implications for the structure o
 
 ## See Also
 
-[[Safaricom and Kenya Telecommunications]]
+[[M-Pesa]]
 [[Kibaki and Kenya Commercial Bank Privatisation]]
-[[Nairobi Securities Exchange]]
-[[State Enterprises Kenya]]
+Nairobi Securities Exchange
+State Enterprises Kenya
 [[Economic Policy Kibaki - Second Term]]
 [[Art Markets Kenya]]
 

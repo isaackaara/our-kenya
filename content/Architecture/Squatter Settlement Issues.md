@@ -14,11 +14,11 @@ Contemporary governance attempts to address squatter settlements through various
 
 [[Informal Settlements]]
 [[Housing Shortage]]
-[[Land Tenure]]
+[[Land Tenure Post Independence]]
 [[Slum Upgrading]]
 [[Urban Planning Development]]
-[[Government Land]]
-[[Eviction Issues]]
+Government Land
+Eviction Issues
 
 ## Sources
 

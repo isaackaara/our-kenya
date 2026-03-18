@@ -44,11 +44,11 @@ The party's decline reflected the broader reality that in post-2010 Kenya, polit
 
 ## See Also
 
-- [[2013 Kenyan Election]]
-- [[2017 Kenyan Election]]
+- [[2013 Presidential Election]]
+- [[2017 Presidential Election]]
 - [[William Ruto]]
 - [[Raila Odinga]]
-- [[United Democratic Alliance]]
+- United Democratic Alliance
 - [[Kikuyu]]
 - [[Kalenjin]]
 - [[Kenyan Hip-Hop]]

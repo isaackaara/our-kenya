@@ -21,7 +21,7 @@ The transition from Kenyatta to Moi was observed internationally. Western govern
 International human rights organizations began to pay attention to Kenya's human rights situation during the early Moi period. The release of some detainees was noted, but the retention of detention powers and the overall human rights situation remained subjects of international observation.
 
 ## See Also
-- [[Cold War Africa]]
+- Cold War Africa
 - [[1979 Election]]
 - [[Kenya]]
 - [[East Africa]]

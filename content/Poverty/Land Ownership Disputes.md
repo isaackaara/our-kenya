@@ -9,7 +9,7 @@ The formalization of land through titling was intended to reduce disputes by est
 The capacity of Kenya's dispute resolution system to address land conflicts remains inadequate. Courts are slow and expensive; a land dispute typically requires 5-10 years and costs exceeding annual farm income. Alternative dispute resolution mechanisms including mediation and arbitration exist but face capacity limitations and acceptance challenges. Customary dispute resolution through elders is fast and low-cost but is sometimes inequitable; women's concerns may be disregarded. Land commissions established to address systematic land grievances have limited authority and resources. International advocacy for land rights has increased visibility but has not resolved underlying disputes at scale. Fundamental resolution would require either significant titling investment or recognition of customary tenure systems alongside statutory law.
 
 ## See Also
-[[Property Rights Slums]], [[Land Reform]], [[Customary Tenure]], [[Eviction Displacement]], [[Housing Poverty]], [[Community Land Rights]], [[Land Governance]], [[Colonial Land Dispossession]]
+[[Property Rights Slums]], Land Reform, Customary Tenure, [[Eviction Displacement]], [[Housing Poverty]], Community Land Rights, Land Governance, Colonial Land Dispossession
 
 ## Sources
 1. World Bank (2010). "Kenya Land Governance Assessment Framework and Dispute Resolution Study." http://documents.worldbank.org

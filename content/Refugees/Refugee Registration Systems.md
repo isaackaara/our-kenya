@@ -4,7 +4,7 @@ The registration process involved technology and data collection. Earlier system
 
 Registration challenges and gaps created vulnerability. Some refugees lacked reliable documentation proving identity or nationality, complicating verification. Widespread illiteracy meant some refugees could not complete registration procedures independently, requiring translator assistance. Documentation of family composition was sometimes complicated when family separation or complex household arrangements made documentation ambiguous. Multiple registrations occasionally occurred when individuals presented to different registration points or registered under different identities, creating database duplications. Additionally, some refugees deliberately avoided registration due to security concerns, legal status problems, or distrust of authorities, remaining unregistered and ineligible for formal humanitarian services.
 
-Registration systems generated significant databases documenting refugee populations. UNHCR maintained detailed statistics regarding refugee numbers, nationalities, ages, genders, and household compositions. These data served humanitarian planning purposes, informing service provision scaling and resource allocation. However, statistical documentation created ethical tensions; registration data could be accessed by state security actors, potentially compromising refugee security or enabling immigration enforcement. Additionally, registration created permanence perception; long-term registration in camps reinforced assumptions that camps represented permanent settlements rather than temporary emergency responses. Overall, [[refugee registration systems]] provided administrative infrastructure enabling humanitarian service delivery while generating data used for refugee management and governance functions extending beyond humanitarian protection.
+Registration systems generated significant databases documenting refugee populations. UNHCR maintained detailed statistics regarding refugee numbers, nationalities, ages, genders, and household compositions. These data served humanitarian planning purposes, informing service provision scaling and resource allocation. However, statistical documentation created ethical tensions; registration data could be accessed by state security actors, potentially compromising refugee security or enabling immigration enforcement. Additionally, registration created permanence perception; long-term registration in camps reinforced assumptions that camps represented permanent settlements rather than temporary emergency responses. Overall, [[Refugee Registration Systems]] provided administrative infrastructure enabling humanitarian service delivery while generating data used for refugee management and governance functions extending beyond humanitarian protection.
 
 ## See Also
 
@@ -13,7 +13,7 @@ Registration systems generated significant databases documenting refugee populat
 [[UNHCR Operations Kenya]]
 [[Identity Documentation]]
 [[Biometric Systems]]
-[[Data Protection Refugees]]
+Data Protection Refugees
 
 ## Sources
 

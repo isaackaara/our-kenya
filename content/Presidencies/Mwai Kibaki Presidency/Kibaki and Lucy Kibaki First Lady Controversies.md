@@ -11,11 +11,11 @@ The controversies surrounding Lucy Kibaki reflected broader tensions in Kenya's 
 ## See Also
 
 [[Kibaki and Lucy Kibaki First Lady Controversies]]
-[[First Ladies Kenya]]
+First Ladies Kenya
 [[Gender Pay Gap]]
 [[Kibaki and the ICC]]
-[[Press Freedom Kenya]]
-[[Women in Kenya Politics]]
+Press Freedom Kenya
+Women in Kenya Politics
 
 ## Sources
 

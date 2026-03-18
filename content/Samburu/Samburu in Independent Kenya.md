@@ -26,7 +26,7 @@ National economic integration has proceeded unevenly, with pastoral communities 
 - [[Samburu Pastoralism]]
 - [[Samburu Political Figures]]
 - [[Samburu and the Colonial Period]]
-- [[Post-Colonial Kenya]]
+- Post-Colonial Kenya
 
 ## Sources
 

@@ -47,7 +47,7 @@ The clan system remains the strongest marker of Kisii identity, more significant
 
 - [[Kisii Clan System]] - detailed clan structure and elderhood
 - [[Kisii Age Sets]] - age-based organization complementary to clans
-- [[Borabu]] - one of the major clans in Nyamira County
+- Borabu - one of the major clans in Nyamira County
 - [[Kisii Elders and Governance]] - elder authority within clans
 - [[Abakuria]] - neighboring community with different clan organization
 - [[Gem Constituency]] - administrative division following clan boundaries

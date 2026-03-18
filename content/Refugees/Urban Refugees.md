@@ -26,7 +26,7 @@ Livelihood sustainability challenges meant many urban refugees remained poor. In
 
 ## See Also
 
-[[Refugee Integration]], [[Refugee Business Opportunities]], [[Livelihood Programs]], [[Refugee Protection Services]], [[Kenya Refugee Policy]], [[Nairobi Urban Refugees]], [[Resource Strain Communities]]
+[[Refugee Integration]], [[Refugee Business Opportunities]], [[Livelihood Programs]], [[Refugee Protection Services]], [[Kenya Refugee Policy]], [[Human Rights Refugee Camps]], [[Resource Strain Communities]]
 
 ## Sources
 

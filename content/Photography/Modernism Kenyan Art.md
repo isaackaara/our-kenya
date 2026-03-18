@@ -7,13 +7,13 @@ Abstract art emerged as a significant modernist approach in Kenyan visual art. A
 The relationship between modernism and cultural identity remained contested in Kenya. Some artists embraced modernism as universal artistic language transcending particular cultural traditions. Others worried that modernism represented Western cultural imperialism threatening local artistic traditions and cultural authenticity. Contemporary Kenyan artists navigate multiple artistic languages including modernism, realism, and culturally-specific traditions, combining influences rather than adhering strictly to single approaches. Modernism remains one influence among many shaping Kenya's diverse artistic landscape rather than a dominant movement.
 
 ## See Also
-- [[Abstract Art Kenya]]
-- [[Modernism Global]]
-- [[Formal Experimentation Art]]
-- [[Cultural Identity and Modernity]]
+- [[Abstract Art]]
+- Modernism Global
+- Formal Experimentation Art
+- Cultural Identity and Modernity
 - [[University Expansion Post-Colonial]]
-- [[Art Traditions Kenya]]
-- [[International Art Influence]]
+- Art Traditions Kenya
+- International Art Influence
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Modernism - Modernism History

@@ -12,7 +12,7 @@ Values around technology's role in development and social change influence commu
 
 ## See Also
 
-[[Tech Community]]
+Tech Community
 [[iHub Innovation Hub]]
 [[Hacker Spaces Makers]]
 [[Tech Mentorship Programs]]

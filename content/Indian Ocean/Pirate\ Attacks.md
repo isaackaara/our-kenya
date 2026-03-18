@@ -1,4 +1,4 @@
-The [[Pirate Attacks]] that occurred throughout Indian Ocean maritime history represented violent commerce disruption that shaped merchant behavior and policy. The documented attacks by recorded pirates, corsairs, and sea raiders reflected the hazards of maritime trade and the vulnerability of merchant vessels to organized violence. The merchant responses to pirate threats included defensive measures, route selection, and political negotiation with authorities.
+The Pirate Attacks that occurred throughout Indian Ocean maritime history represented violent commerce disruption that shaped merchant behavior and policy. The documented attacks by recorded pirates, corsairs, and sea raiders reflected the hazards of maritime trade and the vulnerability of merchant vessels to organized violence. The merchant responses to pirate threats included defensive measures, route selection, and political negotiation with authorities.
 
 The organization of pirate attacks reflected different strategies adapted to different circumstances. The surprise attacks on isolated merchant vessels caught unprepared could result in rapid plunder. The attacks on merchant convoys facing defensive resistance required greater force and accepted higher risk of pirate losses. The pirate strategic decisions about attack timing and location reflected calculations about prey vulnerability. The merchants understanding pirate attack patterns would adjust their behavior accordingly.
 
@@ -21,10 +21,10 @@ The involvement of merchant crews in piracy represented continuation of occupati
 ## See Also
 
 [[Maritime Security Indian Ocean]]
-[[Piracy Trade Safety]]
+Piracy Trade Safety
 [[Naval Defense]]
-[[Merchant Vessel Armament]]
-[[Trade Route Safety]]
+Merchant Vessel Armament
+Trade Route Safety
 
 ## Sources
 

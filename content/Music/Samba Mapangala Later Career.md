@@ -33,7 +33,7 @@ Mapangala's journey from Congo to Kenya to international stages exemplified Afri
 - [[Recording Studios Kenya 1980s-1990s]]
 - [[FM Radio Revolution Kenya 1990s]]
 - [[East African Music Charts 1990s]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 
 ## Sources
 1. Wikipedia. "Samba Mapangala." August 9, 2025. https://en.wikipedia.org/wiki/Samba_Mapangala

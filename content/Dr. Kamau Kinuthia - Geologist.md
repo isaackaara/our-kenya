@@ -6,7 +6,7 @@ Understanding dr. kamau kinuthia - geologist provides important context for Keny
 
 ## See Also
 
-[[Research]], [[Kenya History]]
+Research, [[Kenya History]]
 
 ## Sources
 

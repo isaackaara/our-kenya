@@ -1,10 +1,10 @@
 ## Overview
 
-The [[William Ruto]] presidency (from September 2022) has already faced corruption controversies. The [[Adani Deal Controversy]], the [[fertilizer scandal]], and other early-era issues demonstrate that corruption patterns persist despite Ruto's campaign positioning as an outsider to previous corrupt systems. The early Ruto era raises questions about whether a new administration can break corruption cycles or whether institutional patterns persist regardless of personnel change.
+The [[William Ruto]] presidency (from September 2022) has already faced corruption controversies. The [[Adani Deal Controversy]], the fertilizer scandal, and other early-era issues demonstrate that corruption patterns persist despite Ruto's campaign positioning as an outsider to previous corrupt systems. The early Ruto era raises questions about whether a new administration can break corruption cycles or whether institutional patterns persist regardless of personnel change.
 
 ## Adani Controversy
 
-In 2024, the Ruto government signed agreements with the [[Adani Group]], an [[Indian conglomerate]], for infrastructure projects (airports, power generation). Opposition politicians alleged the Adani deal involved corruption: (1) non-transparent procurement, (2) overpriced contracts, (3) inappropriate concessions to the company.
+In 2024, the Ruto government signed agreements with the Adani Group, an Indian conglomerate, for infrastructure projects (airports, power generation). Opposition politicians alleged the Adani deal involved corruption: (1) non-transparent procurement, (2) overpriced contracts, (3) inappropriate concessions to the company.
 
 The controversy raised questions about: (1) whether the Ruto government conducted competitive bidding or pre-selected Adani, (2) whether the terms favored Adani excessively, (3) whether corruption payments were involved, (4) whether the Adani deal would benefit ordinary Kenyans or would primarily benefit the company and government officials.
 

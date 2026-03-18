@@ -134,7 +134,7 @@
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Moi Rise to Power|Moi Rise to Power]]
 - [[Moi and 1982 Coup Attempt|Moi and 1982 Coup Attempt]]
-- [[Kenya Elections|Kenya Elections]]
+- [[Elections|Kenya Elections]]
 - [[Moi and Multiparty Democracy|Moi Multiparty Democracy]]
 
 ## Sources

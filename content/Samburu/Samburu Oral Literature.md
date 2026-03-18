@@ -18,7 +18,7 @@ Scholars and community organizations have recorded [[Samburu]] oral literature. 
 - [[Samburu Proverbs]]
 - [[Samburu Music]]
 - [[Samburu Cattle Culture]]
-- [[Oral Traditions in Africa]]
+- Oral Traditions in Africa
 
 ## Sources
 

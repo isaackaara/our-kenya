@@ -6,7 +6,7 @@ Understanding prof. ali mazrui - political scientist provides important context 
 
 ## See Also
 
-[[Historians]], [[Kenya History]]
+Historians, [[Kenya History]]
 
 ## Sources
 

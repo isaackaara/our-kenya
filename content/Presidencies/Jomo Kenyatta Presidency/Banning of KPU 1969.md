@@ -1,6 +1,6 @@
 On October 30, 1969, Jomo Kenyatta banned the Kenya People's Union (KPU), marking the end of legal political opposition in Kenya and the formal beginning of one-party rule that would last until 1991. The banning came just five days after the [[Kisumu Massacre 1969|Kisumu massacre]], where government security forces had shot and killed at least 11 people during Kenyatta's visit to Nyanza Province. The sequence of events was not coincidental: the violence in Kisumu provided the political pretext Kenyatta needed to eliminate the KPU and consolidate [[KANU One-Party Dominance|KANU's absolute monopoly]] on power.
 
-The [[Kenya People's Union Formation|KPU had been formed]] in April 1966 by [[Kenyatta and Oginga Odinga|Oginga Odinga]] and 29 other MPs who resigned from KANU to create a socialist opposition party. For three years, KPU had challenged KANU's increasingly capitalist orientation, criticized the concentration of land and wealth in Kikuyu hands, and offered an alternative vision of Kenya built on redistribution and non-alignment. The party's support base was concentrated in [[Luo/Luo Political Leadership|Nyanza Province]], but it also attracted landless peasants, urban workers, and intellectuals across the country who felt betrayed by independence.
+The [[Kenya People's Union Formation|KPU had been formed]] in April 1966 by [[Kenyatta and Oginga Odinga|Oginga Odinga]] and 29 other MPs who resigned from KANU to create a socialist opposition party. For three years, KPU had challenged KANU's increasingly capitalist orientation, criticized the concentration of land and wealth in Kikuyu hands, and offered an alternative vision of Kenya built on redistribution and non-alignment. The party's support base was concentrated in [[Luo Political Leadership|Nyanza Province]], but it also attracted landless peasants, urban workers, and intellectuals across the country who felt betrayed by independence.
 
 The government's campaign against KPU had been relentless from the start. Constitutional amendments forced KPU MPs to resign and contest by-elections, which KANU rigged using state resources. KPU rallies were disrupted, organizers were harassed, and [[Charles Njonjo|Charles Njonjo]], as Attorney General, provided legal cover for restrictions on KPU activities. But the party persisted, winning some by-elections and maintaining a vocal parliamentary presence that embarrassed the government.
 
@@ -16,7 +16,7 @@ With KPU banned, Kenya became a de facto one-party state. KANU was the only lega
 
 The international community's response was muted. Western governments, particularly Britain and the United States, privately expressed concern about the drift toward authoritarianism, but they prioritized Kenya's strategic importance as a stable, pro-Western state in East Africa. Kenyatta's anti-communist credentials and Kenya's economic growth outweighed concerns about democratic backsliding.
 
-The KPU ban had long-term consequences that extended far beyond party politics. It confirmed to the [[Luo/Luo-Kikuyu Relations|Luo community]] that they were permanently excluded from national power and that their political aspirations would be met with violence and repression. This sense of exclusion fueled decades of opposition politics, with Odinga's son Raila Odinga inheriting the mantle of Luo resistance.
+The KPU ban had long-term consequences that extended far beyond party politics. It confirmed to the [[Luo-Kikuyu Relations|Luo community]] that they were permanently excluded from national power and that their political aspirations would be met with violence and repression. This sense of exclusion fueled decades of opposition politics, with Odinga's son Raila Odinga inheriting the mantle of Luo resistance.
 
 The ban also established the template for authoritarian rule in Kenya. Laws meant for emergencies became permanent tools of control. Political opponents were not defeated through elections but through detention, harassment, and violence. Institutions that might have provided checks on executive power, including parliament, the judiciary, and civil society, were systematically weakened or captured.
 
@@ -31,7 +31,7 @@ The banning of KPU was the moment when the promise of independence as liberation
 - [[Kenyatta and Oginga Odinga]]
 - [[KANU One-Party Dominance]]
 - [[Kenyatta and Detention Without Trial]]
-- [[Luo/Luo Political Leadership]]
+- [[Luo Political Leadership]]
 - [[Provincial Administration Kenyatta Era]]
 
 ## Sources

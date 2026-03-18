@@ -35,7 +35,7 @@ The 1963 election set patterns that would persist in Kenyan politics for decades
 - [[The Lancaster House Conferences]]
 - [[Mau Mau Uprising]]
 - [[East Africa]]
-- [[Decolonization in Africa]]
+- Decolonization in Africa
 - [[Kenya]]
 
 ## Sources

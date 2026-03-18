@@ -17,11 +17,11 @@ Modern pastoral communities maintained food production through livestock, though
 ## See Also
 
 [[Maasai]]
-[[Arid Region Development]]
+Arid Region Development
 [[Famine History Kenya]]
 [[Water Resources Management]]
 [[Cattle Raising Traditions]]
-[[Drought and Climate]]
+Drought and Climate
 [[Land Distribution Kenya]]
 
 ## Sources

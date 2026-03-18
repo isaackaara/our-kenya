@@ -17,8 +17,8 @@ The housing program's failure revealed broader weaknesses in Uhuru's Big Four im
 - [[Uhuru Big Four Agenda]]
 - [[Uhuru and Corruption]]
 - [[Uhuru and William Ruto Fallout]]
-- [[Elections/2022 Presidential Election]]
-- [[Corruption/Mega-Projects]]
+- [[2022 Presidential Election]]
+- [[mega-projects]]
 - [[Uhuru Economic Record]]
 - [[Uhuru Legacy Assessment]]
 

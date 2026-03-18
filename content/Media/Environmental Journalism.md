@@ -17,7 +17,7 @@ Environmental justice became increasingly central to environmental journalism as
 Energy transitions generated environmental journalism focused on whether Kenya could develop renewable energy instead of coal or petroleum-dependent systems. Journalists investigated geothermal, wind, and solar energy development, examined whether renewable projects actually reduced emissions, and reported on energy access disparities between wealthy urban areas and rural communities without reliable electricity. Environmental journalism on energy intersected with economic development concerns, revealing tensions between immediate energy access needs and long-term climate and ecological sustainability.
 
 ## See Also
-- [[Agricultural Extension]]
+- Agricultural Extension
 - [[Investigative Journalism]]
 - [[Technology]]
 - [[Media Social Movements]]

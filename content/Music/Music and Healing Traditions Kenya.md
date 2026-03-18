@@ -24,7 +24,7 @@ The question facing music-based healing traditions is whether they can survive m
 - [[Kamba Music and Kilumi]]
 - [[Music and Pre-Christian Religion Kenya]]
 - [[Musical Instruments of Kenya - Percussion]]
-- [[Kamba/Kamba Culture and Identity]]
+- [[Kamba Culture and Identity]]
 - [[Luo Origins and Migration]]
 - [[Mijikenda Origins]]
 

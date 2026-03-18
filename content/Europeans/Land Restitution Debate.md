@@ -2,7 +2,7 @@ Contemporary Kenya debates whether European-descended landowners should be requi
 
 ## The Historical Claim
 
-The fundamental claim underlying land restitution debates is that Europeans acquired vast lands through [[colonial appropriation]]:
+The fundamental claim underlying land restitution debates is that Europeans acquired vast lands through colonial appropriation:
 
 1. **Crown Lands Ordinances**: The Crown Lands system allocated land exclusively to Europeans, displacing African communities.
 
@@ -115,7 +115,7 @@ The land restitution debate ultimately raises questions about how to address col
 - [[Europeans who Stayed]] - Post-independence European residents
 - [[Mau Mau Uprising]] - Uprising over land dispossession
 - [[Lancaster House and Departure]] - Independence negotiations
-- [[Land Reform in Kenya]] - Policy approaches to land issues
+- Land Reform in Kenya - Policy approaches to land issues
 
 ## Sources
 

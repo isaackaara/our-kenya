@@ -1,4 +1,4 @@
-The [[Coral Shell Trade]] harvested valuable materials from Indian Ocean reef environments, with both coral and shells serving decorative, functional, and economic purposes throughout coastal and inland societies. The trade in these materials represented commerce in goods produced through specialized knowledge of reef ecosystems and harvesting techniques adapted to dangerous underwater environments. The coral and shell trade linked reef-dwelling communities to merchant networks and created markets for materials that would otherwise remain localized to coastal regions.
+The Coral Shell Trade harvested valuable materials from Indian Ocean reef environments, with both coral and shells serving decorative, functional, and economic purposes throughout coastal and inland societies. The trade in these materials represented commerce in goods produced through specialized knowledge of reef ecosystems and harvesting techniques adapted to dangerous underwater environments. The coral and shell trade linked reef-dwelling communities to merchant networks and created markets for materials that would otherwise remain localized to coastal regions.
 
 The mother-of-pearl harvested from oyster shells and other mollusks provided decorative inlay material valued by craftspeople throughout the Indian Ocean world. The iridescent surface of mother-of-pearl made it particularly attractive for decorative purposes in jewelry, furniture inlays, and religious objects. The durability of mother-of-pearl meant that objects incorporating this material could preserve decorative qualities for centuries, creating lasting value that justified the costs of harvesting and transport.
 
@@ -6,13 +6,13 @@ The cowrie shells harvested from reef environments served crucial economic funct
 
 The harvesting of coral and shells required intimate knowledge of reef environments and diving techniques adapted to underwater conditions. The communities that specialized in collecting shells developed expertise in identifying productive reef locations, timing harvests to seasonal availability, and managing the dangerous underwater work required to recover valuable materials. The risk of diving-related accidents meant that shell diving represented a dangerous occupation, but the valuable products justified the investment of labor and risk.
 
-The [[Diving Techniques]] employed for shell harvesting developed through centuries of accumulated knowledge. Divers learned to hold their breath for extended periods while working underwater to locate and extract valuable shells. The development of simple tools and techniques allowed divers to exploit reef resources without modern diving equipment. The knowledge of safe diving depths, appropriate breathing patterns, and identification of productive dive sites represented valuable expertise that could be acquired through apprenticeship and practice.
+The Diving Techniques employed for shell harvesting developed through centuries of accumulated knowledge. Divers learned to hold their breath for extended periods while working underwater to locate and extract valuable shells. The development of simple tools and techniques allowed divers to exploit reef resources without modern diving equipment. The knowledge of safe diving depths, appropriate breathing patterns, and identification of productive dive sites represented valuable expertise that could be acquired through apprenticeship and practice.
 
 The preservation and transport of coral and shell products created specific challenges. The fragility of some coral structures meant careful handling was required to prevent breakage during transport. The tendency of shells to deteriorate when exposed to sun and salt spray required protection during storage and transport. The merchants who specialized in shell and coral trade developed packaging techniques that protected the fragile merchandise while allowing efficient transport across maritime distances.
 
 The decorative applications of coral and shell materials reflected creative adaptation of these materials to different cultural contexts. Arab craftspeople incorporated mother-of-pearl into furniture and decorative objects in distinctive styles. African craftspeople used shells in jewelry and status objects distinctive to local traditions. The availability of shells in different market centers contributed to the development of region-specific decorative traditions. The trade in materials thus facilitated cultural exchange through the circulation of decorative materials that could be incorporated into diverse aesthetic traditions.
 
-The integration of [[Coral Shell Trade]] into broader trading networks meant that merchants engaged in shell trade handled multiple commodities. A merchant transporting shells to interior markets might purchase interior products for coastal sale. The combination of multiple commodities in trade circuits meant that merchants could operate profitable trading networks despite seasonal variations in availability of any single product. The diversification of cargo reduced financial risk while allowing merchants to serve multiple market segments.
+The integration of Coral Shell Trade into broader trading networks meant that merchants engaged in shell trade handled multiple commodities. A merchant transporting shells to interior markets might purchase interior products for coastal sale. The combination of multiple commodities in trade circuits meant that merchants could operate profitable trading networks despite seasonal variations in availability of any single product. The diversification of cargo reduced financial risk while allowing merchants to serve multiple market segments.
 
 The environmental impact of intensified shell harvesting driven by expanding trade networks created concerns about resource depletion in some regions. The demand for cowrie shells in interior markets created incentives to harvest shells at maximum rates, potentially exceeding sustainable harvest levels. The depletion of shell resources in some regions contributed to the migration of shell traders toward less-exploited reef areas. The geographic expansion of shell trading frontiers reflected efforts to maintain supplies as local resources became depleted.
 
@@ -23,10 +23,10 @@ The persistence of coral and shell crafts in certain regions despite changing ec
 ## See Also
 
 [[Trade Routes Networks]]
-[[Coastal Economics]]
-[[Reef Ecosystems]]
+Coastal Economics
+Reef Ecosystems
 [[Merchant Networks]]
-[[Currency Systems]]
+Currency Systems
 
 ## Sources
 

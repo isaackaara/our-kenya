@@ -1,4 +1,4 @@
-The [[Silk Road Connections]] extending through the Indian Ocean represented integration of maritime commerce with overland trade networks connecting the Mediterranean to the Pacific. The term "Silk Road" is somewhat misleading, as the system encompassed far more than silk, but the prominence of Chinese silk in this system of exchange created the memorable name. The Indian Ocean formed part of a larger trading system that integrated supply sources from China, Central Asia, India, Arabia, and Africa with demand centers throughout the Mediterranean world and beyond.
+The Silk Road Connections extending through the Indian Ocean represented integration of maritime commerce with overland trade networks connecting the Mediterranean to the Pacific. The term "Silk Road" is somewhat misleading, as the system encompassed far more than silk, but the prominence of Chinese silk in this system of exchange created the memorable name. The Indian Ocean formed part of a larger trading system that integrated supply sources from China, Central Asia, India, Arabia, and Africa with demand centers throughout the Mediterranean world and beyond.
 
 The Indian Ocean routes provided significant advantages over purely overland trade through Central Asia. The Silk Road overland routes crossed desert regions with sparse populations, requiring substantial investment in caravanserais (trading posts) and faced constant threats from political instability in Central Asia. By contrast, maritime routes through the Indian Ocean could be navigated by merchant vessels that required no support infrastructure beyond coastal ports. The reliability and cost advantages of maritime transport made the Indian Ocean routes increasingly dominant for trade between East and Mediterranean regions as merchant networks matured.
 
@@ -25,7 +25,7 @@ The persistence of traditional Indian Ocean merchant networks even after Europea
 [[Trade Routes Networks]]
 [[Indian Merchants Networks]]
 [[Caravan Routes Interior]]
-[[Islamic Commercial Law]]
+Islamic Commercial Law
 [[Trading Colonies]]
 
 ## Sources

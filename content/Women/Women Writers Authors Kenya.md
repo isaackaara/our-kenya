@@ -24,12 +24,12 @@ Women writers' organizations and literary networks have developed since 2000s, p
 
 ## See Also
 
-[[Kenya Literature History]]
-[[Women Journalism Media]]
+Kenya Literature History
+Women Journalism Media
 [[Women Leadership Capacity]]
 [[Women Organizations Advocacy]]
 [[Gender Education Equality]]
-[[Women Intellectuals Kenya]]
+Women Intellectuals Kenya
 
 ## Sources
 

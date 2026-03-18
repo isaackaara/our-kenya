@@ -26,7 +26,7 @@ Youth entrepreneurship is promoted through various government and NGO programs p
 - [[Garissa County|Garissa County]]
 - [[Garissa Education|Educational Constraints]]
 - [[Garissa Security|Radicalization Risks]]
-- [[Garissa Employment|Livelihood Challenges]]
+- Livelihood Challenges
 - [[Garissa Women|Youth Women]]
 
 ## Sources

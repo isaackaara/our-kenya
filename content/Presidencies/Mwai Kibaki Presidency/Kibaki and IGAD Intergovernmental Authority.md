@@ -10,11 +10,11 @@ Kibaki's government's engagement with IGAD also reflected Kenya's broader commit
 
 ## See Also
 
-[[IGAD and Regional Integration]]
-[[Kenya Regional Role East Africa]]
-[[Drought and Food Security IGAD]]
-[[Somalia and Kenya Regional Security]]
-[[East African Cooperation]]
+IGAD and Regional Integration
+Kenya Regional Role East Africa
+Drought and Food Security IGAD
+Somalia and Kenya Regional Security
+East African Cooperation
 [[Kibaki Foreign Policy]]
 
 ## Sources

@@ -17,7 +17,7 @@ Theatrical release strategy involved decisions about number of cinema venues, ti
 Home video and television distribution marketing followed theatrical marketing, utilizing similar strategies adapted for different exhibition formats. Video rental marketing emphasized convenience and home enjoyment. Television broadcast marketing was coordinated with television stations' program promotion.
 
 ## See Also
-[[Film Distribution]], [[Cinema Theaters]], [[Radio Maisha]], [[Television Studios]], [[Film Infrastructure]], [[Media]], [[Entertainment]]
+[[Film Distribution]], [[Cinema Theaters]], [[Radio Maisha]], [[Television Studios]], [[Film Infrastructure]], [[Media]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

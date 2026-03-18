@@ -47,7 +47,7 @@ Robert Ouko's assassination remains one of the most infamous unsolved murders in
 Contemporary debates about national reconciliation, transitional justice, and accountability have occasionally referenced the Ouko case as an example of crimes that remain unresolved and for which victims' families have received no justice.
 
 ## Cross-links
-- [[[[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]]]
+- [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]] [[Jaramogi Oginga Odinga|Jaramogi Oginga Odinga]]]]
 - [[Luo-Kikuyu Political Relationship]]
 - [[Daniel arap Moi Era]]
 ## See Also

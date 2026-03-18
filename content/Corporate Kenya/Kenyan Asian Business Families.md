@@ -1,4 +1,4 @@
-Kenya's [[Asian]] (primarily [[Indian]]) [[Kenyan Asian Business Families]] are among the country's most successful and influential [[Entrepreneurs Diaspora]]. The [[Chandarias]], [[Voras]], [[Patels]], and others transitioned from [[colonial-era trading]] roles to industrial and commercial dominance in [[Luhya in Post-Independence Kenya]].
+Kenya's Asian (primarily [[indian]]) [[Kenyan Asian Business Families]] are among the country's most successful and influential [[Entrepreneurs Diaspora]]. The Chandarias, Voras, Patels, and others transitioned from colonial-era trading roles to industrial and commercial dominance in [[Luhya in Post-Independence Kenya]].
 
 ## Colonial Origins
 

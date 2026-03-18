@@ -8,8 +8,8 @@ The motivations for the handshake were complex. For Odinga, joining the governme
 
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya Opposition Politics|Kenya Opposition Politics]]
-- [[Kenya Political Realignment|Kenya Political Realignment]]
+- [[Multiparty Politics|Kenya Opposition Politics]]
+- [[Politics|Kenya Political Realignment]]
 
 ## Sources
 

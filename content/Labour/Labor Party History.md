@@ -12,7 +12,7 @@ Political ideological debates within labor movements regarding capitalism, socia
 - [[Labor Politics]]
 - [[Labor Representation]]
 - [[Worker Political Movements]]
-- [[Political Parties Kenya]]
+- [[Elections]]
 - [[Union Leadership]]
 - [[Strike Movements Kenya]]
 - [[Tom Mboya Union Work]]

@@ -36,7 +36,7 @@ As of 2026, security challenges persist, and tensions between the Somali communi
 
 - [[Shifta War Overview]]
 - [[The Wagalla Massacre 1984]]
-- [[Operation Usalama Watch 2014]]
+- Operation Usalama Watch 2014
 - [[Al-Shabaab in Kenya]]
 - [[Radicalisation in Kenya]]
 - [[Northern Kenya Development Gap]]

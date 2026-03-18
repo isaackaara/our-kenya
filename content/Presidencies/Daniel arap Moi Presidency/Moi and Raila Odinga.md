@@ -10,7 +10,7 @@ The relationship took a dramatic turn in 1997. Facing a fractured opposition and
 
 Raila defended the alliance as pragmatic. He argued that working from within KANU, he could influence policy and secure development for [[Luo]] constituencies that had suffered decades of neglect. The partnership delivered some tangible benefits: roads were paved in Nyanza, Raila's political base; Luo politicians received ministerial appointments; and Raila gained national visibility as a potential future leader. But the alliance also damaged his credibility with parts of the opposition, who viewed him as having sold out to the same regime that had detained him.
 
-The alliance was short-lived. By 2002, as Moi prepared to leave office after reaching constitutional term limits, the succession question fractured KANU. Moi endorsed Uhuru Kenyatta, son of Jomo, as his preferred successor, sidelining Raila and other contenders. Raila, recognizing he had no future in a KANU led by Uhuru, defected to the opposition National Rainbow Coalition (NARC), bringing his Luo base with him. His defection was critical to NARC's victory in the [[Elections/2002 Presidential Election|2002 election]], where Mwai Kibaki defeated Uhuru decisively, ending KANU's 39-year rule.
+The alliance was short-lived. By 2002, as Moi prepared to leave office after reaching constitutional term limits, the succession question fractured KANU. Moi endorsed Uhuru Kenyatta, son of Jomo, as his preferred successor, sidelining Raila and other contenders. Raila, recognizing he had no future in a KANU led by Uhuru, defected to the opposition National Rainbow Coalition (NARC), bringing his Luo base with him. His defection was critical to NARC's victory in the [[2002 Presidential Election|2002 election]], where Mwai Kibaki defeated Uhuru decisively, ending KANU's 39-year rule.
 
 Moi's treatment of Raila over two decades revealed his broader strategy toward the Luo community. He alternated between repression and co-optation, never fully trusting the Luo but recognizing their political importance. Raila's detention in the 1980s was meant to break him; his co-optation in the late 1990s was meant to buy him. Neither strategy fully succeeded. Raila survived, adapted, and ultimately played a central role in ending Moi's political dominance.
 
@@ -24,9 +24,9 @@ The Moi-Raila relationship also illustrated the limitations of ethnic-based oppo
 - [[FORD Formation]]
 - [[Section 2A Repeal 1991]]
 - [[1992 Election and Ethnic Violence]]
-- [[Elections/2002 Presidential Election]]
-- [[Luo/Luo Political Marginalization Under Moi]]
-- [[Cross-Ethnic/Political Alliances and Betrayals]]
+- [[2002 Presidential Election]]
+- Luo Political Marginalization Under Moi
+- Political Alliances and Betrayals
 
 ## Sources
 1. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141467/kenya/

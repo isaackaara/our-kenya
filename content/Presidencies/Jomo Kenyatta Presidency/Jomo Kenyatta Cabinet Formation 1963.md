@@ -21,7 +21,7 @@ Within two years, this careful balance would begin to fracture. Odinga's growing
 - [[Political Patronage Kenyatta Era]]
 - [[Kenyatta and Oginga Odinga]]
 - [[Tom Mboya Assassination 1969]]
-- [[Kikuyu/Kikuyu Political Elite]]
+- [[Kikuyu Political Elite]]
 
 ## Sources
 1. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141184/kenya

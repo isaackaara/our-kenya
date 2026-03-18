@@ -13,7 +13,7 @@ Informalization's gender dimensions reflected differential sectoral impact and o
 - [[Liberalization Labor]]
 - [[Informal Sector Labor Rights]]
 - [[Informal Economy Workers]]
-- [[Wage Decline]]
+- Wage Decline
 - [[Employment Contracts]]
 - [[Labor Exploitation]]
 

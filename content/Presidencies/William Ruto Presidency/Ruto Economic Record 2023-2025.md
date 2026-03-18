@@ -10,8 +10,8 @@ External debt has reached concerning levels, with annual debt service consuming 
 
 - [[William Ruto Presidency|William Ruto Presidency]]
 - [[Ruto Economic Policy|Ruto Economic Policy]]
-- [[Kenya Economic Growth|Kenya Economic Growth]]
-- [[Kenya Inflation|Kenya Inflation]]
+- [[Economy|Kenya Economic Growth]]
+- Kenya Inflation
 
 ## Sources
 

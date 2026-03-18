@@ -68,7 +68,7 @@ Yet the fundamental land question remains: How can Kenya reconcile individual pr
 
 - [[2007-2008 Post Election Violence]]
 - [[Kikuyu and Real Estate]]
-- [[Kalenjin Conflicts with Kikuyu|Kalenjin and Kikuyu Conflicts]]
+- Kalenjin and Kikuyu Conflicts
 - [[The Handshake 2018]]
 - [[Kenya Land Reform]]
 - [[White Highlands]]

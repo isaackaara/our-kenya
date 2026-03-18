@@ -33,9 +33,9 @@ Government dairy development programs and donor-supported projects have supporte
 - [[Meru County Agriculture]]
 - [[Meru Cooperatives]]
 - [[Meru Farming Practices]]
-- [[Kenya Dairy Sector]]
-- [[Livestock in East Africa]]
-- [[Smallholder Farming Kenya]]
+- Kenya Dairy Sector
+- Livestock in East Africa
+- [[Smallholder Agriculture]]
 
 ## Sources
 

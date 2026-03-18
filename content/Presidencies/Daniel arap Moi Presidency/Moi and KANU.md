@@ -21,9 +21,9 @@ The post-Moi evolution of KANU reflected its dependence on its founding leader's
 ## See Also
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
-- [[Kenya African National Union|Kenya African National Union]]
-- [[Kenya One-Party State|Kenya One-Party State]]
-- [[Kenya Elections|Kenya Elections]]
+- Kenya African National Union
+- Kenya One-Party State
+- [[Elections|Kenya Elections]]
 - [[Moi Nyayo Philosophy|Moi Nyayo Philosophy]]
 
 ## Sources

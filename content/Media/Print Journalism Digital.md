@@ -12,7 +12,7 @@ Print journalism's transition to digital represented journalism's evolution rath
 [[Digital Media Shift]]
 [[Press Freedom Authoritarian]]
 [[Media Ownership Control]]
-[[Technology/Internet Development Kenya]]
+[[Digital Economy Kenya]]
 [[News Anchors Icons]]
 [[Media Democratization]]
 

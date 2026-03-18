@@ -1,24 +1,24 @@
-[[Telkom Kenya]] is a [[fixed-line telecommunications Kenya|fixed-line telecommunications]] operator that was split from the [[Posts and Telecommunications Kenya|Posts and Telecommunications]] parastatal in 1998. As a [[landline Kenya|landline]]-focused incumbent, Telkom has struggled to compete as [[mobile Kenya|mobile]] and [[internet Kenya|internet]] services displaced [[traditional telephony Kenya|traditional telephony]].
+[[Telkom Kenya]] is a fixed-line telecommunications operator that was split from the [[Posts and Telecommunications|Posts and Telecommunications]] parastatal in 1998. As a landline-focused incumbent, Telkom has struggled to compete as mobile and [[Internet Kenya|internet]] services displaced traditional telephony.
 
 ## Overview
 
-Telkom once had a [[monopoly Kenya|monopoly]] on [[telephone Kenya|telephone]] services. Today, it operates a small [[fixed-line network Kenya|fixed-line network]] and [[broadband Kenya|broadband]] services, but [[The Kenya We Share|market share]] is minimal.
+Telkom once had a monopoly on telephone services. Today, it operates a small fixed-line network and broadband services, but [[The Kenya We Share|market share]] is minimal.
 
 ## Key Points
 
-- Split from KPTC in [[1998]]
-- Has faced [[competition Kenya|competition]] from [[mobile operators Kenya|mobile operators]]
+- Split from KPTC in 1998
+- Has faced competition from mobile operators
 - Remnant of [[Parastatals Kenya|parastatal]] era
-- Struggling [[operator]]
+- Struggling operator
 
 ## Outlook
 
-Telkom's future is uncertain without significant [[restructuring Kenya|restructuring]] or [[strategic refocus Kenya|strategic refocus]].
+Telkom's future is uncertain without significant restructuring or strategic refocus.
 
 ## See Also
 
 - [[Telecoms History Kenya]]
-- [[Parastatal Reform Kenya]]
+- [[Structural Adjustment Kenya]]
 - [[Safaricom]]
 - [[Technology]]
 - [[Post-Independence Economic Policy]]

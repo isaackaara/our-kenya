@@ -20,7 +20,7 @@ The county landscape transitions from the Rift Valley floor (approximately 1,000
 7. [[West Pokot Conflict]]
 8. [[West Pokot Agriculture]]
 9. [[West Pokot Politics]]
-10. [[West\ Pokot\ Colonial\ History]]
+10. West\ Pokot\ Colonial\ History
 11. [[West Pokot Infrastructure]]
 12. [[Education]]
 13. [[Health]]
@@ -29,21 +29,21 @@ The county landscape transitions from the Rift Valley floor (approximately 1,000
 16. [[West Pokot Women]]
 17. [[West Pokot Devolution]]
 18. [[West Pokot Climate]]
-19. [[West\ Pokot\ Cultural\ Heritage]]
+19. West\ Pokot\ Cultural\ Heritage
 20. [[West Pokot Wildlife]]
-21. [[West\ Pokot\ Small\ Arms]]
+21. West\ Pokot\ Small\ Arms
 22. [[West Pokot Irrigation]]
 23. [[West Pokot NGOs]]
-24. [[West\ Pokot\ Notable\ People]]
-25. [[West\ Pokot\ Food\ Security]]
+24. West\ Pokot\ Notable\ People
+25. West\ Pokot\ Food\ Security
 26. [[West Pokot Mining]]
-27. [[West\ Pokot\ Real\ Estate]]
-28. [[West\ Pokot\ Climate\ Change]]
+27. West\ Pokot\ Real\ Estate
+28. West\ Pokot\ Climate\ Change
 29. [[West Pokot Timeline]]
 
 ## See Also
 
-- [[West\ Pokot County|West\ Pokot County]]
+- West\ Pokot County
 - [[West Pokot Politics|Politics]]
 - [[West Pokot Agriculture|Agriculture]]
 - [[Education|Education]]

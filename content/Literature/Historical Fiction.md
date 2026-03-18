@@ -2,7 +2,7 @@ Historical fiction in Kenya engages the nation's past through narrative strategi
 
 Postcolonial Kenya saw flourishing of historical fiction as writers sought to reclaim and reinterpret colonial history and anticolonial struggle through literary forms. Novelists addressing colonialism, [[Mau Mau Emergency Broadcasting]], and independence movement drew on historical research while employing fictional narrative to explore psychological dimensions and moral complexity of historical events. This combination of historical foundation and fictional development created literature of distinctive aesthetic and intellectual significance.
 
-[[A Grain of Wheat]] by [[Ngugi wa Thiong'o]] exemplifies historical fiction's capacities, using fictional narrative addressing independence moment to explore historical reckoning and moral complexity. The novel's engagement with specific historical events through characters' psychological experience demonstrated how fiction could illuminate historical periods while maintaining artistic integrity.
+[[A Grain of Wheat]] by [[Ngugi wa Thiong o]] exemplifies historical fiction's capacities, using fictional narrative addressing independence moment to explore historical reckoning and moral complexity. The novel's engagement with specific historical events through characters' psychological experience demonstrated how fiction could illuminate historical periods while maintaining artistic integrity.
 
 Historical fiction allowed Kenyan writers to address sensitive historical periods through narrative distance, exploring controversial dimensions of the nation's past when direct historical treatment faced political constraints. The fictional framing provided protection while allowing serious historical engagement, enabling writers to circulate alternative historical interpretations through literary form.
 
@@ -26,8 +26,8 @@ Contemporary historical fiction in Kenya continues engaging the nation's past, a
 [[Ngugi wa Thiong'o Literature]]
 [[Charity Waciuma Autobiography]]
 [[4_EAC_History]]
-[[National Identity Kenya]]
-[[Women's Historical Writing]]
+[[Indigenous Cultures]]
+Women's Historical Writing
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Ng%C5%A9g%C4%A9_wa_Thiong'o - A Grain of Wheat historical fiction

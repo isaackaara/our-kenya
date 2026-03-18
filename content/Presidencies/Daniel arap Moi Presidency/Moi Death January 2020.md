@@ -17,9 +17,9 @@ Moi's death marked the end of an era in Kenyan politics, though the marks of tha
 ## See Also
 [[Moi Post-Presidency]]
 [[Moi Legacy]]
-[[Kenya/Truth and Reconciliation]]
+[[Truth and Reconciliation]]
 [[Moi and the Kalenjin]]
-[[Kenya/Contemporary Politics]]
+Contemporary Politics
 [[Kenya]]
 
 ## Sources

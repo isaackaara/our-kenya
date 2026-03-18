@@ -40,4 +40,4 @@ But the practice reveals something durable about Kenyan politics: ethnicity is e
 
 ## Related
 
-[[../Luo/Luo Culture and Identity]] | [[../Kikuyu/Kikuyu Rituals and Rites]] | [[Imbalu]] | [[../Kalenjin/Kalenjin Initiation]] | [[../Moi Era/Ethnic Violence]]
+[[Luo People and Culture]] | Kikuyu Rituals and Rites | [[Imbalu]] | Kalenjin Initiation | Ethnic Violence

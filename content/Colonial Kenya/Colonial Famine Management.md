@@ -16,11 +16,11 @@ Colonial responses to the 1940s-1950s food crises incorporated similar patterns.
 
 ## See Also
 [[Colonial Migration Control]]
-[[Pastoral Systems and Colonialism]]
+Pastoral Systems and Colonialism
 [[Kikuyu Agriculture Pre-Colonial]]
 [[Maasai]]
 [[Labour]]
-[[Colonial Economics]]
+Colonial Economics
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

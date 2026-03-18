@@ -7,13 +7,13 @@ Film stock chemistry and darkroom facilities represented significant infrastruct
 The transition from film to digital photography began in the 1990s and accelerated through the 2000s, transforming the technological basis of photographic practice. Digital cameras eliminated the need for darkroom facilities, reduced the cost per image, and enabled immediate feedback and editing. The shift to digital technology democratized photography further, as smartphones and consumer digital cameras became ubiquitous. However, the transition also created infrastructure challenges around electricity access, computer equipment, and digital storage, particularly in rural areas. Contemporary photographers in Kenya navigate between analog traditions and digital capabilities, with some maintaining film-based practice for aesthetic and philosophical reasons while others embrace digital possibilities.
 
 ## See Also
-- [[Photography Equipment Supply Chains]]
+- Photography Equipment Supply Chains
 - [[Technology]]
-- [[Film Stock Chemistry]]
-- [[Digital Photography Transition]]
+- Film Stock Chemistry
+- Digital Photography Transition
 - [[Technology]]
-- [[Urban Photography Infrastructure]]
-- [[Professional Equipment Investment]]
+- Urban Photography Infrastructure
+- Professional Equipment Investment
 
 ## Sources
 1. https://en.wikipedia.org/wiki/History_of_photography - Photography Technology History

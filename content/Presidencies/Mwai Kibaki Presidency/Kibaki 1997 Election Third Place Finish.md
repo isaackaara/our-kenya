@@ -10,12 +10,12 @@ The period following the 1997 election saw Kibaki maintaining his position as th
 
 ## See Also
 
-[[1997 Kenya Elections]]
+1997 Kenya Elections
 [[Moi and the Opposition]]
-[[Democratic Party Electoral Weakness]]
+Democratic Party Electoral Weakness
 [[Kibaki and the ICC]]
-[[Raila Odinga Political Rise]]
-[[Elections/ Democracy Kenya]]
+Raila Odinga Political Rise
+[[Multiparty Politics]]
 
 ## Sources
 

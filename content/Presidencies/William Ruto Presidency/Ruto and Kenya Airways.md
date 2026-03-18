@@ -15,7 +15,7 @@ By 2024, Kenya Airways had become a symbol of state dysfunction. It was not a co
 ## See Also
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
 - [[Ruto and the IMF]]
-- [[Corruption/State-Owned Enterprises Mismanagement]]
+- State-Owned Enterprises Mismanagement
 - [[Ruto Foreign Policy]]
 - [[Ruto and East African Community]]
 - [[Uhuru Kenyatta]]

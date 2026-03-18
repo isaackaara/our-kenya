@@ -17,8 +17,8 @@ Uhuru defended the Chinese relationship to the end of his presidency, arguing th
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru Economic Record]]
 - [[Uhuru Debt Crisis]]
-- [[Corruption/Mega-Projects]]
-- [[Elections/2022 Presidential Election]]
+- [[mega-projects]]
+- [[2022 Presidential Election]]
 - [[Uhuru Legacy Assessment]]
 - [[William Ruto]]
 

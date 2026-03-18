@@ -27,10 +27,10 @@ By the late 1970s, the church-government relationship was showing signs of strai
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
 - [[Kenyatta Final Years|Kenyatta Final Years]]
-- [[../../Kenya Religion|Kenya Religion]]
-- [[../../Kenya Christianity|Kenya Christianity]]
-- [[../../National Council of Churches of Kenya|National Council of Churches of Kenya]]
-- [[../../Kenya Human Rights|Kenya Human Rights]]
+- Kenya Religion
+- Kenya Christianity
+- National Council of Churches of Kenya
+- [[Kenya Human Rights Commission|Kenya Human Rights]]
 
 ## Sources
 

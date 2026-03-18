@@ -48,8 +48,8 @@ A corruption truth commission could document corruption, identify perpetrators, 
 - [[Corrupt Officials Who Faced Accountability]]
 - [[Director of Public Prosecutions Kenya]]
 - [[Asset Recovery Kenya]]
-- [[International Justice Mechanisms]]
-- [[Victim Impact]]
+- International Justice Mechanisms
+- Victim Impact
 
 ## Sources
 

@@ -14,7 +14,7 @@ Sports provided crucial psychological and social functions. Physical activity re
 
 ## See Also
 
-[[Refugee Life Stories]], [[Youth Recreation Programs]], [[Camp Economics]], [[Refugee Resilience Building]], [[Refugee Leadership]], [[Community Reception Programs]], [[Refugee Identities]]
+[[Refugee Life Stories]], Youth Recreation Programs, [[Camp Economics]], [[Refugee Resilience Building]], [[Refugee Leadership]], [[Community Reception Programs]], Refugee Identities
 
 ## Sources
 

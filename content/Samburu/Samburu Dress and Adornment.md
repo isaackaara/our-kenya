@@ -47,7 +47,7 @@ Formal occasions (weddings, ceremonies, celebrations) typically feature traditio
 - [[Samburu Women]]
 - [[Samburu Social Structure]]
 - [[Samburu Cattle Culture]]
-- [[African Clothing Traditions]]
+- African Clothing Traditions
 
 ## Sources
 

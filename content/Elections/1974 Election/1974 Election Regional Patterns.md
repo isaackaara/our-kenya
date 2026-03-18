@@ -21,7 +21,7 @@ Regional patterns in 1974 reflected historical processes dating to colonial time
 - [[1974 Election]]
 - [[Daniel arap Moi]]
 - [[Luo]]
-- [[Central Province Politics]]
+- Central Province Politics
 - [[Kenya Re]]
 
 ## Sources

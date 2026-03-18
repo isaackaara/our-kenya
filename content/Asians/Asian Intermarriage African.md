@@ -1,4 +1,4 @@
-The taboo on [[Asian Kenyans|Asian]]-[[African Kenyans|African]] [[intermarriage]] has been one of the most persistent social barriers separating [[Asian Kenyans|Asian]] and [[African Kenyans|African]] [[Kenya]]. This taboo has persisted from colonial times through the twenty-first century, though its strength may be gradually weakening among younger generations. Documented cases of mixed families reveal both the challenges facing intermarried couples and the slow normalization of [[intermarriage]] among some segments of [[Kenya]] society.
+The taboo on [[Asian Kenyans|Asian]]-African intermarriage has been one of the most persistent social barriers separating [[Asian Kenyans|Asian]] and African [[Kenya]]. This taboo has persisted from colonial times through the twenty-first century, though its strength may be gradually weakening among younger generations. Documented cases of mixed families reveal both the challenges facing intermarried couples and the slow normalization of intermarriage among some segments of [[Kenya]] society.
 
 ## Colonial and Early Post-Colonial Taboos
 
@@ -61,8 +61,8 @@ Some mixed families embrace cultural hybridity, combining elements from both par
 - [[Asian Kenyan Identity 2026]]
 - [[Asian Kenyan Youth]]
 - [[Asian Kenyans Today]]
-- [[Racial hierarchies in Kenya]]
-- [[Cultural hybridity]]
+- Racial hierarchies in Kenya
+- Cultural hybridity
 
 ## Sources
 

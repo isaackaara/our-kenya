@@ -1,8 +1,8 @@
-[[Nakumatt]] Supermarkets, founded by the Shah family, represents the rise and spectacular collapse of an Asian Kenyan retail empire. At its peak, Nakumatt was East Africa's largest retail chain, a symbol of Asian entrepreneurial success and middle-class consumer aspiration. Its implosion between 2017 and 2019, triggered by aggressive overexpansion, mismanagement, and debt, wiped out suppliers, employees, and investors. The Nakumatt story encapsulates the trajectory of modern Asian Kenyan business: extraordinary growth, institutional vulnerability, and sometimes dramatic failure.
+Nakumatt Supermarkets, founded by the Shah family, represents the rise and spectacular collapse of an Asian Kenyan retail empire. At its peak, Nakumatt was East Africa's largest retail chain, a symbol of Asian entrepreneurial success and middle-class consumer aspiration. Its implosion between 2017 and 2019, triggered by aggressive overexpansion, mismanagement, and debt, wiped out suppliers, employees, and investors. The Nakumatt story encapsulates the trajectory of modern Asian Kenyan business: extraordinary growth, institutional vulnerability, and sometimes dramatic failure.
 
 ## Key Facts
 
-- Founded by the [[Shah family]] (Maganlal Shah and subsequent generations)
+- Founded by the Shah family (Maganlal Shah and subsequent generations)
 - Expanded across Kenya and East Africa, becoming the dominant retail supermarket chain by the 1990s-2000s
 - At peak, operated hundreds of locations across Kenya, Uganda, and Tanzania
 - Pioneered large-format supermarket retail in East Africa, changing consumer shopping patterns

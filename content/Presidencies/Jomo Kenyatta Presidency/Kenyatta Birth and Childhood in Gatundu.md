@@ -11,7 +11,7 @@ His childhood and youth in Gatundu were foundational to his later claim to repre
 ## See Also
 
 [[Kenyatta Rise to Power]]
-[[Kikuyu/Kenyatta and Kikuyu Society]]
+[[Kenyatta and Kikuyu Society]]
 [[Facing Mount Kenya book 1938]]
 [[Kenyatta Family Land Acquisitions]]
 [[Kenyatta Return to Kenya 1946]]

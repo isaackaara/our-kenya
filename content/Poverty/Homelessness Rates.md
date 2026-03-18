@@ -9,7 +9,7 @@ Street children represent a significant homeless subpopulation, with an estimate
 Interventions for homelessness have been fragmented and underfunded. Shelters operated by government and NGOs provide transitional overnight accommodation, meals, and basic services for some homeless populations, but capacity is limited. Outreach programs conduct street visits, provide basic healthcare and counseling, and attempt to facilitate housing linkage. However, shelter and outreach programs reach minority of homeless populations. Government homeless policies are weak; homelessness is managed as police and security matter rather than social support challenge. Community organizations and churches provide charitable assistance. International organizations document homelessness and advocate for systemic responses, but resources remain inadequate for comprehensive intervention.
 
 ## See Also
-[[Street Children]], [[Housing Poverty]], [[Unemployment]], [[Poverty Measurement]], [[Mental Health Services]], [[Social Protection]], [[Urban Destitution]], [[Health Services]]
+[[Street Children]], [[Housing Poverty]], [[Unemployment]], [[Poverty Measurement]], [[Mental Health Services]], [[Social Protection]], Urban Destitution, [[Health Services]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Census 2019 Housing and Homelessness Data." https://www.knbs.or.ke

@@ -1,4 +1,4 @@
-[[Nairobi]]'s original commercial district was built by [[Asian merchants]] who understood urban commerce and had capital to invest. From a railway depot in 1899, Nairobi became a city largely shaped by Asian merchants' entrepreneurship and real estate investment.
+[[Nairobi]]'s original commercial district was built by Asian merchants who understood urban commerce and had capital to invest. From a railway depot in 1899, Nairobi became a city largely shaped by Asian merchants' entrepreneurship and real estate investment.
 
 ## The Early Years: Railway Camp to Town
 
@@ -10,7 +10,7 @@ When the [[Uganda Railway Taita-Taveta]] reached the future site of Nairobi (189
 
 ## Biashara Street: The Indian Bazaar
 
-[[Biashara Street]] (formerly called Indian Bazaar Street) became the heart of Asian commercial Nairobi. Lined with shops, restaurants, and businesses, it attracted both Asian and African customers. Biashara Street was crowded, busy, and vibrant, filled with merchants hawking goods, customers bargaining, and the sounds of multiple languages. It became iconic in Nairobi's popular imagination and in Nairobi's geography.
+Biashara Street (formerly called Indian Bazaar Street) became the heart of Asian commercial Nairobi. Lined with shops, restaurants, and businesses, it attracted both Asian and African customers. Biashara Street was crowded, busy, and vibrant, filled with merchants hawking goods, customers bargaining, and the sounds of multiple languages. It became iconic in Nairobi's popular imagination and in Nairobi's geography.
 
 ## Land Speculation and Real Estate
 

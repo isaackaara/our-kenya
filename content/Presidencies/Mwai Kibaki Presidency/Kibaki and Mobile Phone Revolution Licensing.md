@@ -10,12 +10,12 @@ The mobile phone revolution under Kibaki demonstrated both the benefits of liber
 
 ## See Also
 
-[[Safaricom and Kenya Telecommunications]]
-[[Mobile Money and Financial Inclusion Kenya]]
 [[M-Pesa]]
-[[Liberalisation and Market Reform Kenya]]
+Mobile Money and Financial Inclusion Kenya
+[[M-Pesa]]
+Liberalisation and Market Reform Kenya
 [[Kibaki Economic Record]]
-[[Technology and Development Kenya]]
+Technology and Development Kenya
 
 ## Sources
 

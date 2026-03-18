@@ -1,6 +1,6 @@
 Kenyan cuisine reflects the country's diverse ethnic groups, geography, and history of trade routes that connected the East African coast to the interior. The food traditions developed over centuries, shaped by colonial influence, the integration of crops introduced from the Americas, and the culinary practices of indigenous communities across distinct ecological zones.
 
-The foundations of Kenyan cuisine rest on staple grains and legumes that have sustained populations for generations. [[Maize]] became the dominant staple crop after its introduction from the Americas, displacing earlier grains like sorghum and millet in many regions. The grain was transformed into ugali, a dense porridge that remains the most common carbohydrate accompaniment to meals. Regional variations reflect local agriculture: in coastal areas, coconut and rice dominate; in the highlands, potatoes and maize are central; among pastoral communities, milk and meat form the dietary foundation.
+The foundations of Kenyan cuisine rest on staple grains and legumes that have sustained populations for generations. [[Maize Production]] became the dominant staple crop after its introduction from the Americas, displacing earlier grains like sorghum and millet in many regions. The grain was transformed into ugali, a dense porridge that remains the most common carbohydrate accompaniment to meals. Regional variations reflect local agriculture: in coastal areas, coconut and rice dominate; in the highlands, potatoes and maize are central; among pastoral communities, milk and meat form the dietary foundation.
 
 The influence of Swahili and Arab traders along the coast created a distinctive coastal cuisine centered on seafood, coconut, and spiced preparations. Dishes like pilau (spiced rice), biryani, and samosas arrived through centuries of Indian Ocean commerce. The [[Luo]] communities of the Lake Victoria region developed traditions centered on fish, particularly tilapia and nile perch, combined with vegetables and grains. [[Kikuyu]] farming communities in the central highlands traditionally relied on millet, potatoes, [[Beans Pulses Cultivation]], and greens (sukuma wiki), with meat reserved for ceremonial occasions.
 
@@ -16,7 +16,7 @@ Contemporary Kenyan cuisine represents this layered history: ugali with sukuma w
 [[Crop Farming Evolution]]
 [[Luo]]
 [[Kikuyu]]
-[[Coastal Trade History]]
+Coastal Trade History
 [[Jua Kali Food Culture]]
 [[Vegetables Greens Farming]]
 

@@ -7,9 +7,9 @@ The contrast between Ruto's hustler nation ideology, which emphasizes fairness a
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Corruption|Kenya Corruption]]
-- [[Kenya Anti-Corruption|Kenya Anti-Corruption]]
-- [[William Ruto Business Career|William Ruto Business Career]]
+- [[Corruption|Kenya Corruption]]
+- Kenya Anti-Corruption
+- William Ruto Business Career
 
 ## Sources
 

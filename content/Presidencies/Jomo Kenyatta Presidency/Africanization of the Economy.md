@@ -1,4 +1,4 @@
-The Africanization of Kenya's economy during the Kenyatta era was the deliberate policy of transferring economic ownership and control from Europeans and Asians to black Africans, justified as redressing colonial exclusion but executed in ways that enriched politically connected individuals rather than transforming economic structures. The Trade Licensing Act of 1967, which restricted retail trade in certain areas to citizens, became the signature tool of economic Africanization, pushing thousands of Asian traders out of business and creating opportunities that were distributed through [[Political Patronage Kenyatta Era|political patronage]] to favored Africans, predominantly [[Kikuyu/Kikuyu Business Elite|Kikuyu]] and [[GEMA - Gikuyu Embu Meru Association|GEMA members]].
+The Africanization of Kenya's economy during the Kenyatta era was the deliberate policy of transferring economic ownership and control from Europeans and Asians to black Africans, justified as redressing colonial exclusion but executed in ways that enriched politically connected individuals rather than transforming economic structures. The Trade Licensing Act of 1967, which restricted retail trade in certain areas to citizens, became the signature tool of economic Africanization, pushing thousands of Asian traders out of business and creating opportunities that were distributed through [[Political Patronage Kenyatta Era|political patronage]] to favored Africans, predominantly [[Kikuyu Business Elite|Kikuyu]] and [[GEMA - Gikuyu Embu Meru Association|GEMA members]].
 
 The colonial economy had systematically excluded Africans from commerce, industry, and professional services. Europeans controlled large-scale agriculture, banking, and manufacturing. Asians dominated retail trade, transport, small-scale manufacturing, and skilled trades like mechanics and tailoring. Africans were confined to subsistence agriculture and unskilled labor. Independence created political power for Africans but left economic power largely unchanged, a situation that nationalist leaders found intolerable and that voters demanded be rectified.
 
@@ -38,7 +38,7 @@ By the late 1970s, the Kenyan economy was substantially more African in ownershi
 - [[Political Patronage Kenyatta Era]]
 - [[Land Policy Post-Independence]]
 - [[Coffee Economy Kenyatta Era]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 
 ## Sources
 1. Swainson, Nicola. *The Development of Corporate Capitalism in Kenya, 1918-1977*. University of California Press, 1980. https://www.ucpress.edu/book/9780520039995/the-development-of-corporate-capitalism-in-kenya-1918-1977

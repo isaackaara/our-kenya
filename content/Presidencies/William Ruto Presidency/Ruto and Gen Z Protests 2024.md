@@ -7,9 +7,9 @@ Ruto's government initially responded dismissively to the protests, with securit
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya 2024 Protests|Kenya 2024 Protests]]
-- [[Gen Z Political Mobilization|Gen Z Political Mobilization]]
-- [[Kenya Social Media Politics|Kenya Social Media Politics]]
+- Kenya 2024 Protests
+- Gen Z Political Mobilization
+- Kenya Social Media Politics
 
 ## Sources
 

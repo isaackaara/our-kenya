@@ -25,7 +25,7 @@ Housing rights in marriage have become focal property issue. Women's secure hous
 [[Divorce Law Economic]]
 [[Xeer Customary Law]]
 [[Constitutional Reform 2010]]
-[[Women Legal Aid]]
+Women Legal Aid
 
 ## Sources
 

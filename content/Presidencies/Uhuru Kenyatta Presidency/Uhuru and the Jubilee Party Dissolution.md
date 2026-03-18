@@ -1,4 +1,4 @@
-The Jubilee Party, which served as Uhuru Kenyatta's political vehicle through his two terms as president (2013-2022), collapsed spectacularly in the years following his presidency, reflecting both his failure to build durable political institutions and the hollowness of his coalition-building approach. The party that had delivered [[Uhuru 2013 Election and Jubilee Alliance Formation|Uhuru's initial electoral victory in 2013]] and his controversial re-election in 2017 fractured irrevocably during Uhuru's final years in office.
+The Jubilee Party, which served as Uhuru Kenyatta's political vehicle through his two terms as president (2013-2022), collapsed spectacularly in the years following his presidency, reflecting both his failure to build durable political institutions and the hollowness of his coalition-building approach. The party that had delivered Uhuru's initial electoral victory in 2013 and his controversial re-election in 2017 fractured irrevocably during Uhuru's final years in office.
 
 Uhuru's management of Jubilee was characterized by political opportunism rather than institution building. His [[Uhuru Handshake|March 2018 handshake with Raila Odinga]] represented a pivot away from the Jubilee coalition that had elected him, instead building a new political axis with the opposition. This fundamental realignment left Jubilee without a coherent political direction or the president's sustained commitment. Jubilee members felt abandoned as Uhuru invested political capital in rapprochement with Raila's coalition, using state resources and messaging to promote an opposition-aligned agenda.
 
@@ -12,9 +12,9 @@ The demise of Jubilee illustrated a broader pattern in Kenyan politics whereby p
 [[Uhuru Jubilee Party]]
 [[Uhuru and the 2022 Azimio Endorsement]]
 [[Uhuru and William Ruto Fallout]]
-[[Kenya Kwanza Coalition Formation]]
-[[Political Party Decline Kenya]]
-[[Presidential Coalitions 2013-2022]]
+Kenya Kwanza Coalition Formation
+Political Party Decline Kenya
+Presidential Coalitions 2013-2022
 
 ## Sources
 1. https://www.standardmedia.co.ke/politics/article/2001410987-jubilee-party-dissolution-analysis

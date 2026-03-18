@@ -9,18 +9,18 @@ NHIF was created as a parastatal to provide healthcare access to Kenyan workers 
 - Parastatal model inherited from [[Post-Independence Economic Policy]]
 - Covers roughly 10-15 million Kenyans (about 30% of population)
 - Chronic underfunding relative to [[Health]]
-- Challenges integrating with [[Private Healthcare Kenya]]
+- Challenges integrating with Private Healthcare Kenya
 
 ## Outlook
 
-NHIF reform is central to Kenya's [[Universal Health Coverage]] goals. Digital systems and payment improvements are underway.
+NHIF reform is central to Kenya's Universal Health Coverage goals. Digital systems and payment improvements are underway.
 
 ## See Also
 
 - [[Health]]
 - [[Job Security]]
 - [[NSSF Kenya]]
-- [[Parastatal Reform Kenya]]
+- [[Structural Adjustment Kenya]]
 - [[Art Insurance]]
 - [[Public Art]]
 - [[Vision 2030]]

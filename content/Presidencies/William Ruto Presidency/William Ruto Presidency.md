@@ -12,9 +12,9 @@ However, the optimism associated with Ruto's election and the promise of policy 
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Uhuru Kenyatta|Uhuru Kenyatta]]
-- [[Kenya 2022 Election|Kenya 2022 Election]]
+- [[2022 Presidential Election|Kenya 2022 Election]]
 - [[Ruto Hustler Nation Ideology|Hustler Nation Ideology]]
-- [[Kenya Post-2022 Politics|Kenya Post-2022 Politics]]
+- [[William Ruto Presidency|Kenya Post-2022 Politics]]
 
 ## Sources
 

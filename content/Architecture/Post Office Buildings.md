@@ -12,7 +12,7 @@ Post-independence postal services, privatized or corporatized in recent decades,
 
 ## See Also
 
-[[Colonial Administrative Buildings]], [[Nairobi Built Environment]], [[Commercial Building]], [[Railway Station Architecture]], [[Technology]], [[Telephone Infrastructure]], [[Communication Infrastructure]]
+[[Colonial Administrative Buildings]], [[Nairobi Built Environment]], [[Commercial Building]], [[Railway Station Architecture]], [[Technology]], [[Telephone Infrastructure]], Communication Infrastructure
 
 ## Sources
 

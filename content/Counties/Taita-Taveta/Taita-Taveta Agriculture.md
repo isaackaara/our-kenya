@@ -19,7 +19,7 @@ The county government and various development organizations have implemented num
 - [[Taita-Taveta Climate Change]]
 - [[Taita Hills]]
 - [[Taita-Taveta Sisal]]
-- [[Pastoral Systems Kenya]]
+- Pastoral Systems Kenya
 - [[Voi Town]]
 - [[Bomet Water Resources]]
 

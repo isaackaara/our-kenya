@@ -7,8 +7,8 @@ The 2010 Constitution introduced devolved government, separation of powers, and 
 The constitution remains contested with debates about implementation and proposed amendments.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

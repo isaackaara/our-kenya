@@ -3,10 +3,10 @@ The Commission of Inquiry into Post-Election Violence, headed by Justice Philip 
 ## See Also
 
 - [[Post-Election Violence]]
-- [[Commission of Inquiry]]
-- [[Accountability for violence]]
+- Commission of Inquiry
+- Accountability for violence
 - [[International Criminal Court]]
-- [[Justice mechanisms Kenya]]
+- Justice mechanisms Kenya
 
 ## Sources
 

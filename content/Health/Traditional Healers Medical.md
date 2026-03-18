@@ -12,8 +12,8 @@ Recent government policy shifts have moved toward formalization and integration 
 [[Healthcare Policy Evolution|Healthcare Policy Evolution]]
 [[Colonial Medicine Healthcare|Colonial Medicine Healthcare]]
 [[Reproductive Health Services|Reproductive Health Services]]
-[[Midwifery Kenya|Maternal Mortality Reduction]]
-[[Religion and Health Kenya|Religion]]
+Maternal Mortality Reduction
+Religion
 [[Mental Health Services|Mental Health Services]]
 
 ## Sources

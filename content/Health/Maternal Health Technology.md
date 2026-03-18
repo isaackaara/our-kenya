@@ -6,9 +6,9 @@ Fetal monitoring during labor using cardiotocography (CTG) detects fetal distres
 
 Partograph, a simple paper-based tool for monitoring labor progress, is low-cost but requires training and discipline to use correctly. Implementation in government facilities has been inconsistent; some facilities use partograph routinely while others do not, creating variable quality of labor management.
 
-Blood pressure monitoring technology for detecting [[Hypertension|preeclampsia]] (a dangerous complication) should be standard, but automated BP monitors are often non-functional or unavailable in resource-limited facilities. Manual BP monitoring is possible but inconsistently performed.
+Blood pressure monitoring technology for detecting preeclampsia (a dangerous complication) should be standard, but automated BP monitors are often non-functional or unavailable in resource-limited facilities. Manual BP monitoring is possible but inconsistently performed.
 
-Testing for [[Syphilis|gestational diabetes]] requires blood glucose testing capacity. Many [[Rural Healthcare Access|rural antenatal clinics]] lack testing capability, missing opportunity for identifying and managing gestational diabetes that increases maternal and fetal risk.
+Testing for gestational diabetes requires blood glucose testing capacity. Many [[Rural Healthcare Access|rural antenatal clinics]] lack testing capability, missing opportunity for identifying and managing gestational diabetes that increases maternal and fetal risk.
 
 Anemia screening through hemoglobin testing identifies iron deficiency affecting maternal health and fetal development. While blood testing is possible at most facilities, results are often not acted upon with iron supplementation.
 

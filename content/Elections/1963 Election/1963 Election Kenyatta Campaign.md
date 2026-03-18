@@ -14,7 +14,7 @@ The election result (KANU's 96 seats) was interpreted as a personal mandate for 
 - [[1963 Election KANU]]
 - [[1963 Election Results]]
 - [[1963 Election Independence]]
-- [[Mau Mau and Detention]]
+- Mau Mau and Detention
 - [[Luo and the British]]
 - [[Harambee]]
 

@@ -45,7 +45,7 @@ His political trajectory demonstrates the role of regional strongmen in Kenya's 
 ## See Also
 
 - [[Meru and Ruto Politics]] - Contemporary Meru political alignment
-- [[Meru County Government]] - Devolved governance context
+- Meru County Government - Devolved governance context
 - [[Meru at Independence]] - Historical political figures
 - [[Meru]] - Broader Meru political context
 - [[Kiraitu Murungi]] - Alternative Meru governor

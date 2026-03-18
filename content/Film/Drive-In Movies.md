@@ -13,7 +13,7 @@ Drive-in theaters' persistence as entertainment format was limited in Kenya due 
 By 2000s, drive-in movie theaters in Kenya were largely defunct, displaced by home video technology and changing entertainment patterns. The format's brief period of operation represented particular moment in Kenyan film exhibition history, reflecting mid-20th century automobile culture and leisure entertainment patterns.
 
 ## See Also
-[[Cinema Theaters]], [[Outdoor Cinema]], [[Film Distribution]], [[Film Infrastructure]], [[Entertainment]], [[Nairobi]], [[Technology]]
+[[Cinema Theaters]], [[Outdoor Cinema]], [[Film Distribution]], [[Film Infrastructure]], [[entertainment]], [[Nairobi]], [[Technology]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

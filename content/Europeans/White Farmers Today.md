@@ -1,4 +1,4 @@
-[[White-owned farms]] and [[conservancies]] remain significant landholders in Kenya as of 2026, particularly in the [[Laikipia Plateau]] region and scattered throughout the [[Rift Valley]] highlands. These holdings represent a continuation of [[settler colonial]] [[land appropriation]], now reframed as [[Conservation]]. The [[2017 land invasions]] by [[Ruto and Pastoralist Communities Rift Valley]] (Pokot, Samburu, and others) revealed the [[precarity]] of white land ownership in contemporary Kenya and the unresolved questions of [[historical dispossession]] and contemporary justice.
+White-owned farms and conservancies remain significant landholders in Kenya as of 2026, particularly in the [[Laikipia Plateau]] region and scattered throughout the [[Rift Valley]] highlands. These holdings represent a continuation of settler colonial land appropriation, now reframed as [[Conservation]]. The 2017 land invasions by [[Ruto and Pastoralist Communities Rift Valley]] (Pokot, Samburu, and others) revealed the precarity of white land ownership in contemporary Kenya and the unresolved questions of [[historical dispossession]] and contemporary justice.
 
 ## Key Facts
 

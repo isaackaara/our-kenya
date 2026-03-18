@@ -27,7 +27,7 @@ The 2010 Constitution mandated health rights and non-discrimination. Subsequent 
 [[Reproductive Rights Advocacy]]
 [[Female Sexual Health]]
 [[Women Mental Health]]
-[[Health/Health Systems]]
+[[Health Systems]]
 
 ## Sources
 

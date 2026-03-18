@@ -16,7 +16,7 @@ Wildlife tourism emerged as a significant revenue source for the colonial state 
 
 [[Game Reserve Establishment]]
 [[Forest Management]]
-[[Colonial Environmental Policy]]
+Colonial Environmental Policy
 [[Land Alienation]]
 [[Ogiek\ Community\ History]]
 [[Wildlife Tourism Revenue]]

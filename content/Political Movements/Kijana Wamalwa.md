@@ -6,7 +6,7 @@ Michael Christopher Kijana Wamalwa was a prominent Kenyan politician who served 
 
 ## See Also
 - [[Michael Kijana Wamalwa]]
-- [[Presidencies/Mwai Kibaki Presidency/Kibaki Presidency]]
+- [[Mwai Kibaki]]
 - [[The Second Liberation]]
 
 ## Sources

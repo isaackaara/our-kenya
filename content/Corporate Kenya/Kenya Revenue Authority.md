@@ -1,4 +1,4 @@
-The Kenya Revenue Authority (KRA), established in [[1995]], is the government agency responsible for collecting [[taxes]] and administering [[customs]]. It is one of [[Africa's]] more efficient [[revenue agencies]], but it faces persistent challenges: [[tax evasion]], [[corruption]], capacity constraints, and the enormous [[informal economy]] that falls largely outside the tax net.
+The Kenya Revenue Authority (KRA), established in 1995, is the government agency responsible for collecting taxes and administering customs. It is one of Africa's more efficient revenue agencies, but it faces persistent challenges: tax evasion, [[Corruption]], capacity constraints, and the enormous [[informal-economy]] that falls largely outside the tax net.
 
 ## Establishment and Structure (1995)
 
@@ -83,7 +83,7 @@ The government has targeted a tax-to-GDP ratio of 22% by 2030 (up from roughly 1
 - [[Post-Independence Economic Policy]]
 - [[Kenya Shilling History]]
 - [[Public Art]]
-- [[Smuggling and Border Control Kenya]]
+- Smuggling and Border Control Kenya
 
 ## Sources
 

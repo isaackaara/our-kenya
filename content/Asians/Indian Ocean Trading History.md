@@ -35,7 +35,7 @@ The arrival of approximately 32,000 Indian laborers on the [[Indians and the Uga
 - [[Indian Traders and the Duka]]
 - [[Gujarati Dominance in Business]]
 - [[Asians in Colonial Kenya]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

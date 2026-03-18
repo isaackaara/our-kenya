@@ -12,7 +12,7 @@ The media coverage of the 1963 election thus did not provide voters with neutral
 
 - [[1963 Election Campaign Finance]]
 - [[1963 Election KANU]]
-- [[Press Freedom Kenya History]]
+- [[State Censorship and Literature]]
 - [[Media]]
 - [[Colonial Administration]]
 - [[Election Coverage]]

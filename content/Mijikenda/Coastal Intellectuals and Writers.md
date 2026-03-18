@@ -18,7 +18,7 @@ Coastal intellectuals and activists have engaged in public discourse about land 
 
 ## Language and Translation
 
-Scholars studying coastal languages, including Mijikenda languages and Swahili, have contributed to linguistic understanding. Some scholars have worked on language preservation and [[documentation]], recognizing that languages encode cultural knowledge. Translators have made coastal literature and scholarship accessible across languages. Language work represents effort to preserve and value coastal linguistic heritage.
+Scholars studying coastal languages, including Mijikenda languages and Swahili, have contributed to linguistic understanding. Some scholars have worked on language preservation and documentation, recognizing that languages encode cultural knowledge. Translators have made coastal literature and scholarship accessible across languages. Language work represents effort to preserve and value coastal linguistic heritage.
 
 ## Cultural Documentation
 

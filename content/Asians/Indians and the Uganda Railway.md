@@ -31,4 +31,4 @@ Without access to agricultural land (reserved for Europeans and, nominally, for 
 - [[Indian Traders and the Duka]]
 - [[Asians in Colonial Kenya]]
 - [[Gujarati Dominance in Business]]
-- [[Index]]
+- [[index]]

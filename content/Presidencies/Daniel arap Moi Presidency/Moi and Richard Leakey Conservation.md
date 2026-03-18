@@ -13,12 +13,12 @@ Leakey's position as a white man criticising the regime and environmental practi
 The conflict between environmental protection and political patronage that Leakey's work highlighted persisted throughout Moi's presidency. Leakey achieved significant conservation successes during his tenure, yet the broader pattern of environmental degradation continued as patronage networks adapted to regulatory enforcement and as new mechanisms for exploiting resources were developed. The tension between conservation and patronage was ultimately resolved in favour of patronage, as Leakey eventually stepped down from his position and as environmental oversight was subsequently weakened.
 
 ## See Also
-[[Kenya/Environmentalism]]
+[[Wangari Maathai]]
 [[Moi Deforestation and Environment]]
 [[Moi and Wangari Maathai]]
-[[Kenya/Wildlife Conservation]]
+Wildlife Conservation
 [[Moi and the Kalenjin]]
-[[Kenya/Environmental Policy]]
+Environmental Policy
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

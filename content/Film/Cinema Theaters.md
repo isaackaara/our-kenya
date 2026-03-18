@@ -15,7 +15,7 @@ Outdoor cinema existed in some locations, offering alternative exhibition format
 By 2000s, cinema theater attendance had declined significantly from peak 1980s-1990s levels. Surviving theaters were concentrated in major urban centers. Many theaters were subdivided into smaller screens to reduce operating costs. Theater operators responded to declining attendance through facility upgrades, modern sound systems, and comfortable seating to compete with home video. The challenge of sustaining theater-based exhibition in digital era remained unresolved.
 
 ## See Also
-[[Riverwood Film Industry]], [[Film Distribution]], [[Outdoor Cinema]], [[Drive-In Movies]], [[Film Infrastructure]], [[Kenyan Cinema Development]], [[Entertainment]]
+[[Riverwood Film Industry]], [[Film Distribution]], [[Outdoor Cinema]], [[Drive-In Movies]], [[Film Infrastructure]], [[Kenyan Cinema Development]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

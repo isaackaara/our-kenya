@@ -1,12 +1,12 @@
 ## Overview
 
-Traditional [[Meru people|Meru]] beadwork and crafts represent centuries of artistic expression and cultural identity. These handcrafted items, created primarily by women, carry deep cultural significance in marking life stages, social status, and ethnic identity. The crafts include intricate beadwork, pottery, basketry, and woodwork that once served essential economic and ceremonial functions.
+Traditional [[Meru People|Meru]] beadwork and crafts represent centuries of artistic expression and cultural identity. These handcrafted items, created primarily by women, carry deep cultural significance in marking life stages, social status, and ethnic identity. The crafts include intricate beadwork, pottery, basketry, and woodwork that once served essential economic and ceremonial functions.
 
 ## Beadwork Traditions
 
 ### Ornaments and Life Stages
 
-[[Meru people|Meru]] women wear distinctive beadwork at different life stages. Young girls wear specific bead patterns during initiation ceremonies. Unmarried women display beadwork on their arms and neck. Married women transition to different bead designs and colors that indicate their marital status and number of children. Elderly women wear more subdued beadwork reflecting their status as mothers and grandmothers.
+[[Meru People|Meru]] women wear distinctive beadwork at different life stages. Young girls wear specific bead patterns during initiation ceremonies. Unmarried women display beadwork on their arms and neck. Married women transition to different bead designs and colors that indicate their marital status and number of children. Elderly women wear more subdued beadwork reflecting their status as mothers and grandmothers.
 
 The colors and patterns convey information about a woman's family, wealth, and lineage. Red beads symbolize bravery and strength. White beads represent purity and fertility. Yellow beads indicate prosperity and abundance. The arrangement and combination of beads follows strict traditional rules understood by community members.
 
@@ -58,8 +58,8 @@ Beadwork and crafts remain deeply significant in Meru culture despite declining 
 - [[Meru Cultural Festivals and Celebrations]]
 - [[Meru Women]]
 - [[Meru Circumcision Ntanira na Mugambo]]
-- [[Traditional African Arts]]
-- [[Kenya Cultural Heritage]]
+- Traditional African Arts
+- [[Cultural Heritage]]
 
 ## Sources
 

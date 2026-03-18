@@ -7,7 +7,7 @@ Ngugi wa Thiong'o, Kenya's most celebrated novelist, was detained without trial 
 ## See Also
 [[Ngugi wa Thiong'o Literature]]
 [[Political Patronage Kenyatta Era]]
-[[Kikuyu/Ngugi wa Thiong'o]]
+[[Ngugi wa Thiong o]]
 
 ## Sources
 1. wa Thiong'o, Ngugi. 'Detained: A Writer's Prison Diary.' Heinemann, 1981.

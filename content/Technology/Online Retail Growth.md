@@ -10,7 +10,7 @@ Customer reviews and ratings systems built trust enabling e-commerce adoption am
 
 ## See Also
 
-[[E-Commerce Platforms Kenya]], [[Digital Payment Systems]], [[Mobile Internet Growth]], [[Logistics Innovation]], [[Technology]], [[Entrepreneurship Kenya]]
+[[E-Commerce Platforms Kenya]], [[Digital Payment Systems]], [[Mobile Internet Growth]], Logistics Innovation, [[Technology]], [[Entrepreneurship Kenya]]
 
 ## Sources
 

@@ -20,7 +20,7 @@ Environmental consequences of sugarcane cultivation included water use stress in
 [[Colonial Agricultural Policy]]
 [[Smallholder Agriculture]]
 [[Food]]
-[[Rural Wage Labor]]
+Rural Wage Labor
 [[Water Resources Management]]
 [[The NGO Economy]]
 

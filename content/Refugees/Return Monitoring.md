@@ -11,8 +11,8 @@ Documented monitoring from Somali returns indicated mixed outcomes. Many returne
 [[Voluntary Repatriation]]
 [[Refugee Return Programs]]
 [[Reintegration Assistance]]
-[[Refugee Welfare]]
-[[Humanitarian Monitoring]]
+Refugee Welfare
+Humanitarian Monitoring
 [[The Return Gap]]
 
 ## Sources

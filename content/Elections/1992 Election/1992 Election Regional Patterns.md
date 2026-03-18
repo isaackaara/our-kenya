@@ -13,12 +13,12 @@ The regional patterns of the 1992 election thus demonstrated the ethnic basis of
 ## See Also
 
 - [[1992 Election]]
-- [[Ethnic Voting Kenya]]
-- [[Regional Politics Kenya]]
-- [[Rift Valley Politics]]
-- [[Electoral Geography]]
+- [[Elections]]
+- [[Politics]]
+- [[Politics]]
+- Electoral Geography
 - [[Moi and the Opposition]]
-- [[Electoral Polarization]]
+- Electoral Polarization
 
 ## Sources
 

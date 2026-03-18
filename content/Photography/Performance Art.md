@@ -7,13 +7,13 @@ The documentation and circulation of performance work poses specific challenges 
 Performance art remains minority practice in Kenya's art world where material-based work and gallery-centered practice remain dominant. However, performance art has gained growing visibility through art festivals, university programs, and independent artists working outside traditional gallery systems. International exposure to global performance art discourse influences Kenyan practitioners. Contemporary performance artists create sophisticated work addressing complex themes through embodied practice. The development of performance art expands Kenya's artistic vocabulary and possibilities for artistic expression.
 
 ## See Also
-- [[Live Art and Embodiment]]
-- [[Dance and Theatrical Traditions]]
-- [[Performance Documentation]]
+- Live Art and Embodiment
+- Dance and Theatrical Traditions
+- Performance Documentation
 - [[Performance Art]]
-- [[Ritual and Artistic Practice]]
-- [[Audience Experience Art]]
-- [[Ephemeral Art Forms]]
+- Ritual and Artistic Practice
+- Audience Experience Art
+- Ephemeral Art Forms
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Performance_art - Performance Art History

@@ -35,7 +35,7 @@ Asian media serves an important cultural preservation function. Media in ancestr
 - [[Bollywood and Kenya]]
 - [[Hindu Temples Kenya]]
 - [[Asians in Kenya]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

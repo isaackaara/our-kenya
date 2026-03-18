@@ -91,9 +91,9 @@ Somali business networks have proven resilient but face challenges:
 - [[Nairobi Somali Community]]
 - [[Somali Clan System Kenya]]
 - [[Kenyan Somali in Nairobi Business]]
-- [[Somali Diaspora Global]]
-- [[Dubai Nairobi Trade Route]]
-- [[Cross-Border Trade Northern Kenya]]
+- [[Diaspora Communities]]
+- Dubai Nairobi Trade Route
+- Cross-Border Trade Northern Kenya
 
 ## Sources
 

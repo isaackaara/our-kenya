@@ -1,6 +1,6 @@
 Menopause and aging-related health issues affect women and men as they age, creating distinct health needs that are often inadequately addressed in Kenya's health system. Health challenges of aging populations increase as life expectancy rises, yet geriatric healthcare capacity and focus are limited.
 
-Menopause, the transition when menstruation ceases (typically around age 50), is accompanied by hormonal changes that cause physical and psychological symptoms. Hot flashes, night sweats, mood changes, and vaginal dryness are common. Menopause increases risk for chronic diseases including [[Cardiovascular Disease Kenya|cardiovascular disease]] and [[Osteoporosis|bone disease]] due to decreased estrogen.
+Menopause, the transition when menstruation ceases (typically around age 50), is accompanied by hormonal changes that cause physical and psychological symptoms. Hot flashes, night sweats, mood changes, and vaginal dryness are common. Menopause increases risk for chronic diseases including [[Cardiovascular Disease Kenya|cardiovascular disease]] and bone disease due to decreased estrogen.
 
 Knowledge about menopause varies. Some women have good understanding of menopause as normal life transition; others interpret symptoms as illness or have inadequate knowledge about expected changes. Cultural beliefs about menopause vary; some cultures view menopause positively as transition to respected elder status.
 
@@ -22,7 +22,7 @@ Cognitive changes and memory concerns occur in aging, sometimes representing nor
 
 [[Mental Health Services|Mental health]] in older age involves depression, anxiety, and adjustment to life changes. Mental health services for elderly are minimal; most psychiatry is focused on younger populations.
 
-Chronic diseases are prevalent in older age including [[Diabetes Non-Communicable|diabetes]], [[Cardiovascular Disease Kenya|hypertension]], [[Arthritis|arthritis]], and cancer. Management of multiple chronic conditions requires coordinated care that is often fragmented in Kenya's health system.
+Chronic diseases are prevalent in older age including [[Diabetes Non-Communicable|diabetes]], [[Cardiovascular Disease Kenya|hypertension]], arthritis, and cancer. Management of multiple chronic conditions requires coordinated care that is often fragmented in Kenya's health system.
 
 Medication management in older age is challenging due to polypharmacy (use of multiple medications) and drug interactions. Older adults often take 5-10 medications, and health providers may be unaware of all medications (particularly if obtained from multiple sources). Drug interactions can cause serious adverse effects.
 

@@ -32,7 +32,7 @@ The property market also became a vehicle for money-laundering, corruption, and 
 
 ## Chama Culture and Micro-Level Investment
 
-At the grassroots level, the [[Chama (investment group)|chama]] (informal savings and investment group) culture, already prevalent in Kikuyu society, expanded to focus on real estate. Groups of friends, neighbours, or colleagues would pool savings to purchase residential or agricultural land, either for collective benefit or for subdivision among members. This mechanism democratized property ownership and allowed middle-income Kikuyu to participate in the property boom.
+At the grassroots level, the chama (informal savings and investment group) culture, already prevalent in Kikuyu society, expanded to focus on real estate. Groups of friends, neighbours, or colleagues would pool savings to purchase residential or agricultural land, either for collective benefit or for subdivision among members. This mechanism democratized property ownership and allowed middle-income Kikuyu to participate in the property boom.
 
 Chamas often finance property purchases through micro-credit mechanisms, leveraging group collateral and social enforcement of loan repayment. The chama model has proven resilient and adaptable, serving as the foundation for broader Kikuyu economic networks.
 

@@ -24,4 +24,4 @@ Kikuyu religion was not separate from society, it organised it. The [[Age Sets]]
 - [[Kikuyu Central Association]]
 
 ## Related
-[[Kirinyaga]] | [[Gikuyu and Mumbi]] | [[Age Sets]] | [[Githaka]] | [[Kikuyu Central Association]] | [[Index]]
+[[Kirinyaga]] | [[Gikuyu and Mumbi]] | [[Age Sets]] | [[Githaka]] | [[Kikuyu Central Association]] | [[index]]

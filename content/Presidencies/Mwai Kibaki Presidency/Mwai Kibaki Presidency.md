@@ -22,11 +22,11 @@ The 2013 election removed Kibaki from power, ending Kikuyu-led government and br
 
 ## See Also
 
-- [[Kenya Post-2002 Transition|Kenya Post-2002 Transition]]
+- Kenya Post-2002 Transition
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya 2007 Election|Kenya 2007 Election]]
-- [[Kenya Constitutional Reform|Kenya Constitutional Reform]]
+- [[2007-2008 Post Election Violence|Kenya 2007 Election]]
+- [[Constitutional Reform 2010|Kenya Constitutional Reform]]
 
 ## Sources
 

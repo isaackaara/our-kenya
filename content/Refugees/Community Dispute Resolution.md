@@ -10,10 +10,10 @@ Humanitarian organizational complaint procedures enabled refugees to report viol
 
 [[Refugee Camp Governance]]
 [[Refugee Leadership]]
-[[Justice Refugee Camps]]
-[[Legal Assistance Refugees]]
+Justice Refugee Camps
+Legal Assistance Refugees
 [[Human Rights Refugee Camps]]
-[[Customary Law Humanitarian]]
+Customary Law Humanitarian
 
 ## Sources
 

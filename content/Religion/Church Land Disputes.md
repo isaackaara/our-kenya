@@ -6,7 +6,7 @@ The complexity of land tenure in Kenya created disputes. Pre-colonial communitie
 
 The Kikuyu Central Association's involvement in land issues created religious dimensions to broader land conflicts. The association protested land dispossession and asserted Kikuyu land rights. While not primarily religious organization, it engaged religious language and symbolism. The association's nationalism involved recovering Kikuyu relationship to land, which included religious/spiritual dimensions. Church land holdings in Kikuyu regions sometimes became symbols of foreign control over sacred territory.
 
-[[Mau Mau rebellion|The Mau Mau rebellion]] involved partly land grievances; fighters sought to recover land alienated to settlers and government. Church lands became targets of concern; if churches held land that should be returned to African communities, churches were complicit in dispossession. This created tension between churches' roles as welfare providers and their roles as landholders benefiting from colonial land distribution.
+[[Mau Mau Uprising|The Mau Mau rebellion]] involved partly land grievances; fighters sought to recover land alienated to settlers and government. Church lands became targets of concern; if churches held land that should be returned to African communities, churches were complicit in dispossession. This created tension between churches' roles as welfare providers and their roles as landholders benefiting from colonial land distribution.
 
 Post-independence governments sought to rationalize land tenure and redistribute land. This created pressure on churches to demonstrate productive use of land or justify retention. Some churches sold land for development; others held onto land for future institutional needs. The government's slogan of "willing buyer, willing seller" meant that land redistribution occurred largely through market mechanisms rather than radical redistribution. This limited churches' pressure to sell land unless economically compelling.
 
@@ -14,7 +14,7 @@ Contemporary Kenya sees ongoing church land disputes. Rising urban land prices c
 
 ## See Also
 - [[Kikuyu Central Association]]
-- [[Mau Mau rebellion]]
+- [[Mau Mau Uprising]]
 - [[Church and State Relations]]
 - [[Religion Nation Building 1963]]
 - [[Religious Pluralism Independence]]

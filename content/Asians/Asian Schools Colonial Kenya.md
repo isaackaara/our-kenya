@@ -1,4 +1,4 @@
-The colonial [[administration]] established and maintained a separate [[school]] system for [[Asian Kenyans|Asian]] children, reflecting the racial hierarchies that organized colonial [[Kenya]]. [[Asian Kenyans|Asian]] schools provided [[education]] in [[English Language Films|English]] alongside heritage languages, and emphasized commercial and practical skills alongside academic knowledge. The most prominent institutions, including the [[Duke of Gloucester School]] (later [[Upper Hill School]]) and the [[Aga Khan institutions|Aga Khan schools]], became the primary educational centers for the [[Asian Kenyans|Asian]] community and symbols of community permanence.
+The colonial administration established and maintained a separate school system for [[Asian Kenyans|Asian]] children, reflecting the racial hierarchies that organized colonial [[Kenya]]. [[Asian Kenyans|Asian]] schools provided [[Education]] in [[English Language Films|English]] alongside heritage languages, and emphasized commercial and practical skills alongside academic knowledge. The most prominent institutions, including the Duke of Gloucester School (later Upper Hill School) and the [[Aga Khan Institutions|Aga Khan schools]], became the primary educational centers for the [[Asian Kenyans|Asian]] community and symbols of community permanence.
 
 ## Separate School System
 
@@ -45,8 +45,8 @@ Educational segregation reflected broader colonial racial hierarchies. The exist
 - [[Asian Community Schools Today]]
 - [[Aga Khan Institutions]]
 - [[Asian Languages in Kenya]]
-- [[Upper Hill School]]
-- [[Colonial education Kenya]]
+- Upper Hill School
+- Colonial education Kenya
 
 ## Sources
 

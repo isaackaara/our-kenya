@@ -11,12 +11,12 @@ For educated youth, particularly those who had been exposed to university educat
 ## See Also
 
 - [[1969 Election]]
-- [[Youth Activism Kenya]]
-- [[Generation and Politics]]
+- [[Gen Z Protests 2024]]
+- Generation and Politics
 - [[Luhya in Post-Independence Kenya]]
 - [[Moi and KANU]]
-- [[Political Socialization]]
-- [[Opposition Movements Kenya]]
+- Political Socialization
+- Opposition Movements Kenya
 
 ## Sources
 

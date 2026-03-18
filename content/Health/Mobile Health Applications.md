@@ -53,7 +53,7 @@ Regulation of mHealth apps is minimal; apps are not required to demonstrate safe
 [[Healthcare Policy Evolution]]
 [[Public Health Communication]]
 [[Mental Health Services]]
-[[Digital Health Strategy]]
+Digital Health Strategy
 
 ## Sources
 1. Kenya Ministry of Health mHealth Strategy 2016-2020, https://www.health.go.ke/

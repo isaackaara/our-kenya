@@ -16,19 +16,19 @@ The Asian community's internal diversity often went unnoticed by African politic
 
 Culturally, the Asian community remained largely separate from African political and social life. Intermarriage was rare, residential segregation was common (Asians concentrated in neighborhoods like Parklands in Nairobi), and social networks were insular. This separation reinforced mutual suspicion: Africans viewed Asians as clannish and exploitative, Asians viewed African politics as corrupt and dangerous. Moi's regime benefited from this division; as long as Asians and Africans did not build cross-ethnic solidarity, potential challenges to his rule remained fragmented.
 
-The end of Moi's presidency in 2002 did not fundamentally alter the Asian community's position. They remained economically dominant, politically marginalized, and dependent on transactional relationships with whoever held power. The [[Elections/2002 Presidential Election|NARC government]] under Mwai Kibaki, a Kikuyu, shifted some patronage networks back toward Kikuyu elites, but Asian businessmen adapted, cultivating relationships with the new administration. The pattern established under Moi, economic indispensability in exchange for political vulnerability, persisted.
+The end of Moi's presidency in 2002 did not fundamentally alter the Asian community's position. They remained economically dominant, politically marginalized, and dependent on transactional relationships with whoever held power. The [[2002 Presidential Election|NARC government]] under Mwai Kibaki, a Kikuyu, shifted some patronage networks back toward Kikuyu elites, but Asian businessmen adapted, cultivating relationships with the new administration. The pattern established under Moi, economic indispensability in exchange for political vulnerability, persisted.
 
 Moi's legacy for the Asian community was the institutionalization of their economic role and political exclusion. He did not invent this system, but he perfected its exploitation, extracting maximum financial support from Asian businesses while offering only conditional protection. The community's survival strategy, keeping a low political profile, accumulating wealth, and building transnational networks that allowed exit if necessary, reflected a rational response to a system where they were always guests, never fully citizens, despite generations of residence in Kenya. The relationship was not partnership but extraction, dressed up as mutual benefit, a microcosm of how Moi's regime functioned more broadly: rewarding those useful to his rule while ensuring they remained dependent and vulnerable.
 
 ## See Also
 - [[Goldenberg Scandal]]
 - [[Moi and Harambee]]
-- [[Corruption/Moi Era Corruption]]
+- [[Moi Era Corruption]]
 - [[Structural Adjustment Programs Kenya]]
 - [[1992 Election and Ethnic Violence]]
-- [[Cross-Ethnic/Ethnic Economic Stratification]]
-- [[Kikuyu/Kikuyu-Asian Business Networks]]
-- [[Elections/Citizenship and Political Belonging]]
+- Ethnic Economic Stratification
+- Kikuyu-Asian Business Networks
+- Citizenship and Political Belonging
 
 ## Sources
 1. Maxon, Robert M., and Thomas P. Ofcansky. *Historical Dictionary of Kenya*. Scarecrow Press, 2014. https://rowman.com/ISBN/9780810879782/Historical-Dictionary-of-Kenya-Third-Edition

@@ -1,4 +1,4 @@
-Despite accumulating wealth and demonstrating economic usefulness to the colonial system, [[Asian Kenyans]] faced systematic political exclusion and legal discrimination. The [[The 1923 Devonshire Declaration|1923 Devonshire Declaration]] crystallised this status: [[Kenya]] was "primarily an African territory," and whenever African interests clashed with those of [[Europeans]], [[Asian Kenyans|Asians]], or Arabs, African interests would theoretically prevail. In practice, [[Europeans|European]] interests remained supreme. But the declaration served its purpose: it told [[Asian Kenyans|Asians]] they were guests, not stakeholders.
+Despite accumulating wealth and demonstrating economic usefulness to the colonial system, [[Asian Kenyans]] faced systematic political exclusion and legal discrimination. The [[The 1923 Devonshire Declaration|1923 Devonshire Declaration]] crystallised this status: [[Kenya]] was "primarily an African territory," and whenever African interests clashed with those of Europeans, [[Asian Kenyans|Asians]], or Arabs, African interests would theoretically prevail. In practice, European interests remained supreme. But the declaration served its purpose: it told [[Asian Kenyans|Asians]] they were guests, not stakeholders.
 
 ## The Devonshire Declaration (1923)
 
@@ -34,4 +34,4 @@ Some invested in education, ensuring children could migrate to Britain or other 
 
 ## Related
 
-[[Indians and the Uganda Railway]] | [[Indian Traders and the Duka]] | [[Asians at Independence]] | [[Idi Amin and the Ugandan Asians]] | [[The Three-Tier Racial Hierarchy Legacy]] | [[Index]]
+[[Indians and the Uganda Railway]] | [[Indian Traders and the Duka]] | [[Asians at Independence]] | [[Idi Amin and the Ugandan Asians]] | [[The Three-Tier Racial Hierarchy Legacy]] | [[index]]

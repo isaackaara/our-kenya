@@ -14,7 +14,7 @@ Radio Maisha's operation demonstrated the sustainability of Swahili-language com
 [[Capital Radio FM]]
 [[Radio Citizen Political]]
 [[Standard Digital Group]]
-[[Language/Swahili Development]]
+[[Swahili Culture]]
 
 ## Sources
 1. https://radio.or.ke/maisha/

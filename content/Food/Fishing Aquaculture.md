@@ -19,7 +19,7 @@ Fishing and aquaculture livelihoods created employment and food security for coa
 [[Artisanal Fishing Practices]]
 [[Luo]]
 [[Water Resources Management]]
-[[Coastal Economics]]
+Coastal Economics
 [[Conservation]]
 
 ## Sources

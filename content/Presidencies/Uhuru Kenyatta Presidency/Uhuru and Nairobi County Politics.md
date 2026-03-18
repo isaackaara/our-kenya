@@ -10,10 +10,10 @@ Uhuru's failure to ensure competent governance in Nairobi, the nation's capital 
 
 ## See Also
 [[Uhuru and Devolution]]
-[[Nairobi County and Service Delivery]]
+Nairobi County and Service Delivery
 [[Nairobi Water Crisis]]
 [[Informal Settlements]]
-[[County Governments Under Devolution]]
+County Governments Under Devolution
 [[IT Infrastructure Kenya]]
 
 ## Sources

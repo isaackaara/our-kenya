@@ -65,9 +65,9 @@ Contemporary Kikuyu, particularly in rural areas, continue to use proverbs in tr
 However, urban and educated Kikuyu are often less familiar with traditional proverbs, as education has emphasized literacy and written culture over oral tradition. The transmission of proverbs through oral culture is increasingly challenging in contexts where children attend school rather than sitting in evening gatherings with elders.
 
 ## Cross-Links
-- [[Kikuyu Oral Literature]]
+- Kikuyu Oral Literature
 - [[Gikuyu and Mumbi]]
-- [[Kikuyu Food and Ceremony]]
+- Kikuyu Food and Ceremony
 - [[Kikuyu Traditional Music]]
 
 ## See Also

@@ -18,7 +18,7 @@ The circumstances of Muge's death remained mysterious decades after the incident
 [[Moi Detention Policy]]
 [[Nyayo House Torture Chambers]]
 [[Moi and Human Rights]]
-[[Kenya/Church and State]]
+Church and State
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

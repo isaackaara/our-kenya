@@ -1,6 +1,6 @@
 Respiratory diseases in Kenya include both infectious (pneumonia, tuberculosis) and non-communicable (asthma, chronic obstructive pulmonary disease) conditions. Air quality affects respiratory health, with indoor and outdoor air pollution contributing to disease burden. Indoor air pollution from biomass fuel burning in poorly ventilated cooking spaces affects women and children, causing chronic respiratory disease. Outdoor air pollution from vehicle emissions in urban areas and industrial sources affects respiratory health particularly in vulnerable populations. Ambient particulate matter (PM2.5 and PM10) and gaseous pollutants penetrate deep into lungs causing inflammation and disease.
 
-Acute respiratory infections (ARIs) including cough and pneumonia represent major causes of childhood mortality in Kenya. [[Immunization]] against vaccine-preventable respiratory diseases (pertussis, measles) provides prevention. Early recognition of severe pneumonia and access to antibiotics reduce mortality. Community health workers teaching parents to recognize pneumonia danger signs and promptly seek care enable timely treatment. Oxygen availability at facilities enables treatment of hypoxic patients with pneumonia.
+Acute respiratory infections (ARIs) including cough and pneumonia represent major causes of childhood mortality in Kenya. Immunization against vaccine-preventable respiratory diseases (pertussis, measles) provides prevention. Early recognition of severe pneumonia and access to antibiotics reduce mortality. Community health workers teaching parents to recognize pneumonia danger signs and promptly seek care enable timely treatment. Oxygen availability at facilities enables treatment of hypoxic patients with pneumonia.
 
 Asthma affects children and adults in Kenya, though prevalence and risk factors are inadequately characterized. Allergen exposure, air pollution, and respiratory infections are known triggers. Asthma management through inhaled controller medications prevents symptoms and emergency care need. However, inhaled medication availability in public facilities is inconsistent, and patient education regarding inhaler use is inadequate. Access to asthma medications remains limited particularly in rural areas.
 
@@ -13,7 +13,7 @@ Strengthening respiratory disease control requires air quality monitoring and po
 [[Environmental Health Hazards|Environmental Health Hazards]]
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Non-Communicable Diseases|Non-Communicable Diseases]]
-[[Air Quality Kenya|Environmental Health Hazards]]
+Environmental Health Hazards
 [[Health|Hospital Infrastructure Standards]]
 
 ## Sources

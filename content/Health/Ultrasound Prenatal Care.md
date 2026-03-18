@@ -43,7 +43,7 @@ Integration of ultrasound findings into clinical care is important; ultrasound r
 [[Medical Equipment Supplies]]
 [[Rural Healthcare Access]]
 [[Neonatal Mortality Rates]]
-[[Healthcare Technology Innovation]]
+Healthcare Technology Innovation
 
 ## Sources
 1. Kenya Ministry of Health Guidelines for Antenatal Care (2016), https://www.health.go.ke/

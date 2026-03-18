@@ -1,4 +1,4 @@
-A thread of [[female political resistance]] runs across [[Kenya]]'s ethnic boundaries, but ethnic histories tell each story separately. These women belong together: they represent a pattern of [[female activism]] that transcends [[ethnic identity]].
+A thread of female political resistance runs across [[Kenya]]'s ethnic boundaries, but ethnic histories tell each story separately. These women belong together: they represent a pattern of female activism that transcends [[ethnic-identity]].
 
 ## Key Figures
 
@@ -44,7 +44,7 @@ The tradition of Mekatilili, Nyanjiru, and Maathai is alive but often unnamed.
 
 - [[Women Across Ethnic Lines]]
 - [[Feminist Movements Kenya]]
-- [[Anti-Colonial Resistance Kenya]]
+- Anti-Colonial Resistance Kenya
 - [[Environmental Art]]
 - [[Gender Pay Gap]]
 

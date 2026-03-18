@@ -1,4 +1,4 @@
-The [[duka]] (shop) system established by [[Indian Traders and the Duka]] throughout colonial Kenya created a retail distribution network that fundamentally transformed the colonial economy. The term "duka wallah" referred to the shopkeeper, and this small entrepreneur became the essential link connecting European wholesalers and manufacturers to African consumers in rural and peri-urban areas. This system created both economic opportunity for Indian traders and significant social tension with African communities and the colonial administration.
+The duka (shop) system established by [[Indian Traders and the Duka]] throughout colonial Kenya created a retail distribution network that fundamentally transformed the colonial economy. The term "duka wallah" referred to the shopkeeper, and this small entrepreneur became the essential link connecting European wholesalers and manufacturers to African consumers in rural and peri-urban areas. This system created both economic opportunity for Indian traders and significant social tension with African communities and the colonial administration.
 
 ## The Duka System Emerges
 

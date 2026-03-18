@@ -15,8 +15,8 @@ Contemporary Kenya continues negotiating tensions between religion's universaliz
 [[Church Election Violence Response]]
 [[Interfaith Councils Conflict]]
 [[Kikuyu Religion Colonialism]]
-[[Luo/Religious Affiliation]]
-[[Presidencies/Post-2007 Crisis]]
+Religious Affiliation
+Post-2007 Crisis
 
 ## Sources
 

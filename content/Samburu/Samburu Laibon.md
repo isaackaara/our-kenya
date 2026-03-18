@@ -18,7 +18,7 @@ Some [[Samburu]] communities continue consulting laibon for guidance and ritual 
 - [[Samburu and Christianity]]
 - [[Samburu Social Structure]]
 - [[Samburu Sacred Sites]]
-- [[Traditional Leadership in Pastoral Communities]]
+- Traditional Leadership in Pastoral Communities
 
 ## Sources
 

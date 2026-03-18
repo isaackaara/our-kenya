@@ -13,7 +13,7 @@ Counseling services for particular vulnerable populations received specialized a
 [[Refugee Resilience Building]]
 [[Child Protection Services]]
 [[Gender-Based Violence Response]]
-[[Humanitarian Psychological Support]]
+Humanitarian Psychological Support
 
 ## Sources
 

@@ -1,6 +1,6 @@
 David Mathenge, performing as Nameless, achieved what few [[Genge Music Origins|genge]]-era artists managed: he crossed from street credibility into mainstream acceptance without sacrificing authenticity, building a brand that encompassed music, family, business, and cultural influence across more than two decades. Born in 1976, Nameless rose to fame in 1999, positioning himself at the intersection of genge's raw street energy and the more polished, radio-friendly kapuka sound championed by Ogopa DJs. This strategic positioning made him one of Kenya's most durable musical exports.
 
-His educational background set him apart from many peers. Nameless graduated from the University of Nairobi with a degree in architecture, providing both a professional safety net and a unique perspective on urban space and design that would later inform his business ventures. This combination of formal education and street-level musical credibility allowed him to navigate multiple worlds simultaneously, speaking to both middle-class aspirations and working-class realities that defined [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's urban identity]].
+His educational background set him apart from many peers. Nameless graduated from the University of Nairobi with a degree in architecture, providing both a professional safety net and a unique perspective on urban space and design that would later inform his business ventures. This combination of formal education and street-level musical credibility allowed him to navigate multiple worlds simultaneously, speaking to both middle-class aspirations and working-class realities that defined [[Nairobi Urban Identity|Nairobi's urban identity]].
 
 The 2005 marriage to Wahu Kagwi, herself an accomplished musician with a degree in mathematics and later a master's in communication, transformed Nameless from solo artist into one-half of Kenya's most visible power couple. The Nameless-Wahu brand became larger than either individual career, representing a model of successful, public partnership in an industry often characterized by relationship drama and scandal. Together they have three daughters, and the family's visibility, their willingness to share aspects of their domestic life while maintaining boundaries, created a template for celebrity family branding in Kenya.
 
@@ -19,7 +19,7 @@ As Kenya's music industry matured through the 2010s and 2020s, with streaming pl
 ## See Also
 - [[Genge Music Origins|Genge Music Origins]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Nonini|Nonini]]
 - [[Jua Cali|Jua Cali]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]

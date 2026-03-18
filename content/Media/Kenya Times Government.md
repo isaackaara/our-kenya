@@ -10,11 +10,11 @@ Kenya Times's existence and operation illustrated the fragility of press freedom
 
 ## See Also
 [[Nairobi Times Independent]]
-[[Daniel Arap Moi]]
+[[Daniel arap Moi]]
 [[Media Independence Coverage]]
 [[Press Freedom Authoritarian]]
 [[Media Ownership Control]]
-[[Corruption/Moi Era]]
+[[Daniel arap Moi Era]]
 
 ## Sources
 1. https://theconversation.com/moi-and-the-media-how-kenyan-journalism-suffered-under-his-iron-heel-131681

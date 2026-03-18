@@ -19,7 +19,7 @@ The confining function of reserves emerged clearly during periods of nationalist
 [[Game Reserve Establishment]]
 [[Environmental Art]]
 [[District Commissioner Role]]
-[[Indirect Rule System]]
+Indirect Rule System
 
 ## Sources
 

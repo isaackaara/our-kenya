@@ -2,7 +2,7 @@ Genge music emerged in early 2000s Nairobi as Kenya's first truly indigenous hip
 
 The genre crystallized around 2000 when producer Clemo and rapper Jua Cali co-founded Calif Records, creating a sonic template that fused hip hop beats with dancehall riddims, kapuka's melodic sensibility, and distinctly Kenyan rhythmic patterns. [[Nonini|Nonini]] and [[Jua Cali|Jua Cali]] became the twin pillars of the genge movement, with Nonini earning the title "Godfather of Genge" for his pioneering work and Calif Records serving as the genre's creative headquarters. Early hits like Nonini's "Manzi wa Nairobi" and Jua Cali's "Ruka" established genge's aesthetic: street-smart lyrics delivered in rapid-fire Sheng over hard-hitting, bass-heavy production that made no concessions to international palatability.
 
-Genge was fundamentally a [[Cross-Ethnic/Nairobi Urban Identity|Nairobi urban identity]] in musical form. It spoke to the experiences of young Kenyans navigating the city's informal economy, matatu culture, estate politics, and the complex social hierarchies of a rapidly urbanizing metropolis. Sheng was not just a language choice but a political statement: this was music that refused to perform for outsiders, that centered the Nairobi street experience without translation or apology. The genre's rise coincided with Kenya's transition to multi-party democracy and the growing political consciousness of urban youth who had come of age after Moi's single-party era.
+Genge was fundamentally a [[Nairobi Urban Identity|Nairobi urban identity]] in musical form. It spoke to the experiences of young Kenyans navigating the city's informal economy, matatu culture, estate politics, and the complex social hierarchies of a rapidly urbanizing metropolis. Sheng was not just a language choice but a political statement: this was music that refused to perform for outsiders, that centered the Nairobi street experience without translation or apology. The genre's rise coincided with Kenya's transition to multi-party democracy and the growing political consciousness of urban youth who had come of age after Moi's single-party era.
 
 The rivalry between genge and kapuka (a smoother, more radio-friendly urban sound championed by Ogopa DJs) energized the Kenyan music scene in the early 2000s. While kapuka artists like [[Nameless|Nameless]] blended Swahili, English, and local dialects for broader appeal, genge artists built Sheng into a rhythmic tool that was clever, subversive, and local-first. This tension between street credibility and mainstream acceptance would define Kenyan urban music for the next two decades, with genge establishing the template for authenticity that later movements like [[Gengetone Movement|Gengetone]] would inherit.
 
@@ -15,7 +15,7 @@ Genge's legacy extends far beyond its commercial peak. It established Sheng as a
 - [[Jua Cali|Jua Cali]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
 - [[Gengetone Movement|Gengetone Movement]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[East African Hip Hop Origins|East African Hip Hop Origins]]
 - [[Nameless|Nameless]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]

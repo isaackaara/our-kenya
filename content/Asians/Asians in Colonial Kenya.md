@@ -51,7 +51,7 @@ Some Asians developed relationships with African communities through commerce an
 - [[Hindu Community Colonial Kenya]]
 - [[Harry Thuku and Asian Solidarity]]
 - [[Asians at Independence]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The Afya House scandal, which broke in 2015, involved the systematic looting of Kenya's Ministry of Health through procurement fraud that cost taxpayers billions of shillings. Afya House, the Ministry of Health headquarters in Nairobi, became synonymous with the brazen theft of public funds meant for essential health services. The scandal involved inflated medical equipment contracts, payments for undelivered supplies, and a network of officials and suppliers who turned public health procurement into a criminal enterprise. Like the [[NYS Scandal]], Afya House demonstrated the [[Corruption/Impunity in Kenya|industrial-scale corruption]] under [[Uhuru Kenyatta]] and the total failure of accountability mechanisms.
+The Afya House scandal, which broke in 2015, involved the systematic looting of Kenya's Ministry of Health through procurement fraud that cost taxpayers billions of shillings. Afya House, the Ministry of Health headquarters in Nairobi, became synonymous with the brazen theft of public funds meant for essential health services. The scandal involved inflated medical equipment contracts, payments for undelivered supplies, and a network of officials and suppliers who turned public health procurement into a criminal enterprise. Like the [[NYS Scandal]], Afya House demonstrated the [[Impunity in Kenya|industrial-scale corruption]] under [[Uhuru Kenyatta]] and the total failure of accountability mechanisms.
 
 The scandal centered on procurement contracts awarded by the Ministry of Health to politically connected suppliers who delivered little or nothing but were paid millions. Investigations revealed that the ministry paid vastly inflated prices for basic medical supplies: syringes that cost KES 50 were procured at KES 500, wheelchairs worth KES 10,000 cost the ministry KES 100,000, and entire containers of medical equipment supposedly imported never existed. Shell companies with no track record in medical supply won multi-million shilling contracts, collected payments, and disappeared. Estimates of the total theft ranged from KES 5 billion to KES 7 billion.
 
@@ -13,9 +13,9 @@ The Afya House scandal's deeper significance lay in what it revealed about Kenya
 ## See Also
 - [[NYS Scandal]]
 - [[Uhuru and Corruption]]
-- [[Corruption/Impunity in Kenya]]
+- [[Impunity in Kenya]]
 - [[Uhuru Healthcare Policy]]
-- [[Corruption/State Capture]]
+- [[State Capture Kenya]]
 - [[Eurobond Kenya]]
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru Legacy Assessment]]

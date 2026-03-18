@@ -39,7 +39,7 @@ Early 1800s: Arab and Swahili traders from the coast extend commercial networks 
 - [[Taita-Taveta Colonial History]]
 - [[Kenya]]
 - [[East Africa]]
-- [[Historical Events Kenya]]
+- Historical Events Kenya
 
 ## Sources
 1. Taita-Taveta County Government. "County Historical Records." Various dates. https://www.taitataveta.go.ke

@@ -10,7 +10,7 @@ Valuation technology improved property appraisal accuracy and efficiency. Automa
 
 ## See Also
 
-[[Construction Technology]], [[Housing Kenya]], [[Financial Services Kenya]], [[Blockchain Technology]], [[Development Aid]], [[Health Technology Innovation]]
+[[Construction Technology]], [[Infrastructure]], [[Financial Inclusion Kenya]], [[Blockchain Technology]], [[Development Aid]], [[Health Technology Innovation]]
 
 ## Sources
 

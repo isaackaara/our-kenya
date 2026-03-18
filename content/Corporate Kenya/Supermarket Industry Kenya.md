@@ -18,11 +18,11 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 - [[Nakumatt Collapse]]
 - [[Kenya Economic Overview]]
-- [[Retail Kenya]]
+- Retail Kenya
 - [[Hardware Manufacturing Kenya]]
-- [[Consumer Goods Kenya]]
-- [[Transport Infrastructure Kenya]]
-- [[Middle Class Kenya]]
+- [[Economy]]
+- [[Transportation]]
+- Middle Class Kenya
 
 ## Sources
 

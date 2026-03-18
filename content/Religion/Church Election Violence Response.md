@@ -16,7 +16,7 @@ Post-violence reconciliation processes involved significant church participation
 [[Religious Freedom Struggle]]
 [[Interfaith Councils Conflict]]
 [[Independent African Churches]]
-[[Presidencies/Post-2007 Crisis]]
+Post-2007 Crisis
 
 ## Sources
 

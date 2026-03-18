@@ -1,10 +1,10 @@
-The [[Incense Trade]] moved aromatic resins and fragrant woods from Arabian sources through Indian Ocean ports to markets throughout the Islamic world and beyond. Incense served primarily religious purposes, with Islamic prayer traditions requiring fragrant smoke to accompany devotions. The enduring demand for incense from Islamic pilgrims and religious practitioners created stable markets that sustained long-distance trading networks. The concentration of incense sources in particular Arabian regions created monopoly value that enriched merchants controlling these sources.
+The Incense Trade moved aromatic resins and fragrant woods from Arabian sources through Indian Ocean ports to markets throughout the Islamic world and beyond. Incense served primarily religious purposes, with Islamic prayer traditions requiring fragrant smoke to accompany devotions. The enduring demand for incense from Islamic pilgrims and religious practitioners created stable markets that sustained long-distance trading networks. The concentration of incense sources in particular Arabian regions created monopoly value that enriched merchants controlling these sources.
 
 Frankincense and myrrh extracted from Arabian trees represented the primary incense products moving through Indian Ocean trade. The resin from Boswellia trees produced the frankincense prized throughout Islamic religious practice. The collection of frankincense required knowledge of productive tree locations and appropriate harvesting timing. The resin could be transported in relatively small quantities for its value, making incense an ideal high-value cargo for long-distance maritime trade.
 
 The religious sanctity of incense in Islamic practice created demand that exceeded what culinary or medicinal uses alone would generate. The Quran and Hadith contained references to incense, creating religious obligation for Muslims to use incense in prayer and religious observance. The religious market for incense proved more stable and less subject to price fluctuation than markets dependent on secular demand. The consistency of religious demand provided merchant income streams that allowed greater capital investment in trading infrastructure.
 
-The integration of [[Incense Trade]] into broader Arabian peninsula commerce reflected the economic importance of incense to Arabian economies. The profits generated through incense commerce supported political entities controlling incense sources. The rulers of incense-producing regions maintained political power partly through wealth generated via incense trade. The taxation of incense trade provided government revenue that financed administrative and military functions.
+The integration of Incense Trade into broader Arabian peninsula commerce reflected the economic importance of incense to Arabian economies. The profits generated through incense commerce supported political entities controlling incense sources. The rulers of incense-producing regions maintained political power partly through wealth generated via incense trade. The taxation of incense trade provided government revenue that financed administrative and military functions.
 
 The incorporation of incense trade into Islamic religious and commercial networks reflected the integration of religious practice with economic activity. Merchants familiar with Islamic requirements for incense understood the religious significance of their commerce. The legitimacy of incense trading derived partly from its support of religious practice. The integration of commerce with religious obligation created networks where merchant activity reinforced religious identity and Islamic community formation.
 
@@ -20,11 +20,11 @@ The persistence of incense trading traditions among Arab merchants and communiti
 
 ## See Also
 
-[[Arabian Trade Routes]]
-[[Islamic Religious Practice]]
+Arabian Trade Routes
+Islamic Religious Practice
 [[Merchant Networks]]
 [[Trade Routes Networks]]
-[[Religious Commerce Integration]]
+Religious Commerce Integration
 
 ## Sources
 

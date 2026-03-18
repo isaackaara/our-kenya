@@ -2,7 +2,7 @@
 
 ### Historical Context
 
-The [[Meru]] people have a demonstrated tradition of military service extending back to colonial recruitment and continuing through independence and the modern era. During the [[Mau Mau]] Emergency (1952-1960), Meru men participated as soldiers in both the colonial forces and the liberation movement. The post-independence [[Kenya Defence Forces]] (KDF) have recruited significantly from Meru County.
+The [[Meru]] people have a demonstrated tradition of military service extending back to colonial recruitment and continuing through independence and the modern era. During the [[Mau Mau Uprising]] Emergency (1952-1960), Meru men participated as soldiers in both the colonial forces and the liberation movement. The post-independence [[Kenya Defence Forces]] (KDF) have recruited significantly from Meru County.
 
 Meru served as a colonial military recruitment zone due to the region's accessibility, population, and perceived military qualities. Colonial administrators viewed highland communities favorably for military service. Young Meru men sought military employment as a path to steady income and status.
 

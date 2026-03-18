@@ -10,12 +10,12 @@ The development of Nairobi's new central business districts and the upgrade of i
 
 ## See Also
 
-[[Nairobi Development History]]
-[[Urban Planning Kenya]]
+Nairobi Development History
+[[Nairobi History]]
 [[Infrastructure Development]]
 [[Kibaki Economic Record]]
-[[Nairobi Spatial Inequality]]
-[[Real Estate and Corruption Kenya]]
+Nairobi Spatial Inequality
+Real Estate and Corruption Kenya
 
 ## Sources
 

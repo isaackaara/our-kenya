@@ -19,7 +19,7 @@ Colonial language policy also advantaged particular African groups. Populations 
 [[Luo Language]]
 [[Swahili Language Development]]
 [[Luo Language]]
-[[Cultural Transmission]]
+Cultural Transmission
 
 ## Sources
 

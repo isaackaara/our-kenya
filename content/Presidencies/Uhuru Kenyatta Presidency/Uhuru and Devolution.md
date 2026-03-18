@@ -1,6 +1,6 @@
 Devolution was the most consequential constitutional reform [[Uhuru Kenyatta]] inherited from the 2010 constitution, fundamentally restructuring Kenya's governance by creating 47 county governments with significant autonomy and resources. The system transferred functions (health, agriculture, water, early childhood education) and at least 15 percent of national revenue to counties, aiming to bring government closer to people, reduce marginalization of peripheral regions, and dilute the winner-take-all nature of presidential elections. Devolution's implementation under Uhuru was messy, corrupt, and transformative: it created new centers of power, delivered genuine service improvements in many counties, but also enabled massive corruption and ethnic patronage at the local level.
 
-The 2010 constitution's devolution provisions emerged from the [[2007 Post-Election Violence]], driven by recognition that Kenya's hyper-centralized presidency created existential zero-sum elections. Devolution promised that communities could benefit from government even if their ethnic group lost the presidency. The first county elections in March 2013, concurrent with Uhuru's presidential victory, created 47 governors, 47 county assemblies, and over 1,800 elected county representatives. The new county governments assumed office in March-April 2013 with massive expectations, limited capacity, and unclear division of responsibilities with the national government.
+The 2010 constitution's devolution provisions emerged from the [[2007-2008 Post Election Violence]], driven by recognition that Kenya's hyper-centralized presidency created existential zero-sum elections. Devolution promised that communities could benefit from government even if their ethnic group lost the presidency. The first county elections in March 2013, concurrent with Uhuru's presidential victory, created 47 governors, 47 county assemblies, and over 1,800 elected county representatives. The new county governments assumed office in March-April 2013 with massive expectations, limited capacity, and unclear division of responsibilities with the national government.
 
 Winners under devolution included peripheral counties like Turkana, Isiolo, and Marsabit, which had been systematically marginalized under centralized rule. These counties received significant budget allocations (at least 15 percent of national revenue distributed by population and other factors) far exceeding what they had received historically. Devolution enabled investment in county roads, water projects, health facilities, and economic development. Governors in these counties became powerful patrons, controlling resources and jobs. For residents, devolution meant that government was no longer something that happened in Nairobi to them but something they could access and influence locally.
 
@@ -14,13 +14,13 @@ Despite corruption and dysfunction, devolution delivered tangible benefits that 
 
 ## See Also
 - [[County Governments First Term]]
-- [[2007 Post-Election Violence]]
-- [[Elections/2013 Presidential Election]]
+- [[2007-2008 Post Election Violence]]
+- [[2013 Presidential Election]]
 - [[Uhuru and Corruption]]
 - [[Building Bridges Initiative]]
-- [[Kikuyu/Kikuyu Political Power]]
+- [[Kikuyu Political Power]]
 - [[Luo Political History]]
-- [[Corruption/State Capture]]
+- [[State Capture Kenya]]
 
 ## Sources
 1. "Devolution in Kenya: Five Years On," Institute of Economic Affairs Kenya, 2018. https://www.ieakenya.or.ke/publications/devolution-kenya-five-years

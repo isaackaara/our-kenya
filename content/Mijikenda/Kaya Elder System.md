@@ -1,4 +1,4 @@
-The vaya ([[elders]]) are custodians of the [[Mijikenda]] sacred kaya forests and keepers of sacred knowledge. This elder system represents centuries-old institutional arrangements for managing sacred spaces and transmitting cultural knowledge across generations, though contemporary challenges threaten its sustainability.
+The vaya (elders) are custodians of the [[Mijikenda]] sacred kaya forests and keepers of sacred knowledge. This elder system represents centuries-old institutional arrangements for managing sacred spaces and transmitting cultural knowledge across generations, though contemporary challenges threaten its sustainability.
 
 ## The Vaya (Elders)
 
@@ -50,7 +50,7 @@ In many communities, vaya authority has weakened. State authority, church author
 
 ## Continuity and Adaptation
 
-Some communities have worked to strengthen the vaya system through documenting knowledge, formalizing initiation processes, and asserting vaya authority within modern [[governance]] structures. Some vaya have adapted to contemporary contexts by engaging with government, NGOs, and tourism, finding ways to maintain authority while adapting practices. However, the fundamental challenge of transmitting esoteric knowledge to uninterested youth remains difficult.
+Some communities have worked to strengthen the vaya system through documenting knowledge, formalizing initiation processes, and asserting vaya authority within modern governance structures. Some vaya have adapted to contemporary contexts by engaging with government, NGOs, and tourism, finding ways to maintain authority while adapting practices. However, the fundamental challenge of transmitting esoteric knowledge to uninterested youth remains difficult.
 
 ## See Also
 

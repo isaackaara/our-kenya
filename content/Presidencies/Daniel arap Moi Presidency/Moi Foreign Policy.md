@@ -23,8 +23,8 @@ Moi's foreign policy legacy is one of pragmatic adaptation rather than principle
 - [[Structural Adjustment Programs Kenya]]
 - [[Moi Economic Policy 1978-1990]]
 - [[Detention Without Trial Under Moi]]
-- [[Cross-Ethnic/Kenya in Regional Politics]]
-- [[Corruption/Aid and Corruption]]
+- Kenya in Regional Politics
+- Aid and Corruption
 
 ## Sources
 1. Branch, Daniel. *Kenya: Between Hope and Despair, 1963-2011*. Yale University Press, 2011. https://yalebooks.yale.edu/book/9780300141467/kenya/

@@ -6,7 +6,7 @@ The context of land tenure systems before and after illuminates how local, regio
 
 ## See Also
 
-[[Policy]], [[Kenya History]], [[Historical Development]]
+Policy, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

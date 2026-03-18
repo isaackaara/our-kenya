@@ -12,10 +12,10 @@ The single-party era witnessed labor movement fragmentation within party structu
 - [[Post-Independence Labor]]
 - [[Labor Independence]]
 - [[Labor Politics]]
-- [[Single-Party Kenya]]
-- [[KANU History]]
+- Single-Party Kenya
+- KANU History
 - [[Union Leadership]]
-- [[Authoritarianism Kenya]]
+- Authoritarianism Kenya
 
 ## Sources
 1. https://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_123029.pdf

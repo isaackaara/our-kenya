@@ -1,4 +1,4 @@
-[[Kenya]] is the world's third-largest exporter of cut flowers (after the Netherlands and Ecuador), with annual exports exceeding USD 800 million. The industry employs roughly 100,000+ people and is concentrated around [[Lake Naivasha]]. However, the industry faces mounting [[Environmental Art|environmental]] and [[labour]] concerns. It reflects Kenya's role in global [[Horticulture Export Industry|horticulture]] supply chains.
+[[Kenya]] is the world's third-largest exporter of cut flowers (after the Netherlands and Ecuador), with annual exports exceeding USD 800 million. The industry employs roughly 100,000+ people and is concentrated around [[Lake Naivasha]]. However, the industry faces mounting [[Environmental Art|environmental]] and [[Labour]] concerns. It reflects Kenya's role in global horticulture supply chains.
 
 ## Lake Naivasha Hub
 
@@ -63,13 +63,13 @@ Kenya's flower industry is likely to remain significant, but growth faces enviro
 
 ## See Also
 
-- [[Horticulture Export Industry]] - Kenya's broader export horticulture sector
+- Horticulture Export Industry - Kenya's broader export horticulture sector
 - [[Kenya Agricultural History]] - Agricultural specialization and export focus
 - [[Lake Naivasha]] - Water resources and environmental contestation
 - [[Environmental Art]] - Pesticide pollution and ecosystem degradation
 - [[Women in Kenyan Business]] - Gender dimensions of flower industry employment
 - [[Kenya Exports]] - Global trade integration and export revenue
-- [[Climate Change Kenya]] - Weather variability and agricultural vulnerability
+- [[Climate Change Response]] - Weather variability and agricultural vulnerability
 
 ## Sources
 

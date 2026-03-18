@@ -6,7 +6,7 @@ Understanding civil society organizations network provides essential context for
 
 ## See Also
 
-[[Society]], [[Kenya History]]
+Society, [[Kenya History]]
 
 ## Sources
 

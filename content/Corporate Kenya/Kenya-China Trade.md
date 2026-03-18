@@ -19,10 +19,10 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Kenya Economic Overview]]
 - [[Kenya Imports]]
 - [[Manufacturing History Kenya]]
-- [[China-Africa Relations]]
+- China-Africa Relations
 - [[Kenya Exports]]
-- [[Chinese Investment Kenya]]
-- [[Trade Policy Kenya]]
+- [[Kenya Railways]]
+- [[Economy]]
 
 ## Sources
 

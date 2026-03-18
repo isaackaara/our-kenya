@@ -1,4 +1,4 @@
-Kenya's [[manufacturing sector]] has evolved from [[colonial]] [[settler industries]] to a [[post-independence]] [[The NGO Economy]] with [[private]] and [[state enterprises]], and currently a [[declining sector]] facing [[competition]] from [[Chinese imports]].
+Kenya's manufacturing sector has evolved from colonial settler industries to a post-independence [[The NGO Economy]] with private and state enterprises, and currently a declining sector facing competition from Chinese imports.
 
 ## Colonial Era Manufacturing
 
@@ -61,7 +61,7 @@ Kenya's manufacturing sector is unlikely to expand significantly. Global competi
 - [[Kenya Exports]]
 - [[Coffee Industry Kenya]]
 - [[Tea Industry Kenya]]
-- [[Mining Kenya]]
+- Mining Kenya
 - [[Post-Independence Economic Policy]]
 - [[Kenya Economic Overview]]
 

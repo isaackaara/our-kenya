@@ -11,10 +11,10 @@ The Gen Z protests fundamentally altered the calculus regarding police accountab
 ## See Also
 [[Ruto and Gen Z Protests 2024]]
 [[Ruto Police Reform and Security Sector]]
-[[Extrajudicial Killings Kenya]]
+Extrajudicial Killings Kenya
 [[Gen Z Kenya Political Awakening]]
-[[Civil Rights and State Violence]]
-[[Security Sector Reform Challenges Kenya]]
+Civil Rights and State Violence
+Security Sector Reform Challenges Kenya
 
 ## Sources
 1. https://www.bbc.com/news/world-africa-69179632 (Gen Z Kenya protests June 2024)

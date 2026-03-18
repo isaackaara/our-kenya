@@ -2,7 +2,7 @@ Political novels and satirical literature in Kenya employed narrative wit and im
 
 Satire functioned as sophisticated political critique, with novelists employing irony, exaggeration, and absurdist humor to expose governmental dysfunction and elite hypocrisy. The indirection of satire provided protection from censorship while maintaining force of political critique.
 
-[[Meja Wangi]]'s novels incorporated satirical dimensions, depicting postcolonial governance and elite corruption through unflinching portrayal of urban life and individual moral compromise. His social realism encompassed satirical critique of institutional failure and systemic injustice.
+Meja Wangi's novels incorporated satirical dimensions, depicting postcolonial governance and elite corruption through unflinching portrayal of urban life and individual moral compromise. His social realism encompassed satirical critique of institutional failure and systemic injustice.
 
 Political novels addressing nationalism, governance, and state violence became significant contribution to Kenyan literature. Works engaging immediate political crises allowed readers to encounter literary perspectives on current events and political concerns.
 
@@ -16,10 +16,10 @@ The relationship between satirical literature and actual political change remain
 [[Postcolonial Literature Movement]]
 [[Meja Mwangi Novels]]
 [[State Censorship and Literature]]
-[[Political Thought Kenya]]
+Political Thought Kenya
 [[Women in County Governance Kenya]]
 [[Social Commentary]]
-[[Literary Resistance Kenya]]
+Literary Resistance Kenya
 
 ## Sources
 1. https://www.britannica.com/biography/Meja-Mwangi - Satirical dimensions of urban novels

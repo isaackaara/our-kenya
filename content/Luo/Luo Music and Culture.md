@@ -17,7 +17,7 @@ Benga and ohangla are not merely entertainment but vehicles for social commentar
 
 ## Related
 
-[[Luo Origins]] | [[Luo Social Structure]] | [[[[Kisumu County|Kisumu County]]]]
+[[Luo Origins]] | [[Luo Social Structure]] | [[Kisumu County|Kisumu County]]]]
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

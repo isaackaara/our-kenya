@@ -7,8 +7,8 @@ Cabinet changes occurred regularly during Ruto's presidency, as he moved ministe
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Cabinet System|Kenya Cabinet System]]
-- [[Kenya Coalition Politics|Kenya Coalition Politics]]
+- [[Government|Kenya Cabinet System]]
+- Kenya Coalition Politics
 
 ## Sources
 

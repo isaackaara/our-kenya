@@ -6,8 +6,8 @@ Observers noted that while irregularities remained present, their magnitude and 
 
 - [[2002 Election]]
 - [[Electoral Commission of Kenya]]
-- [[International election observation]]
-- [[Democracy in Kenya]]
+- International election observation
+- Democracy in Kenya
 - [[2007 Election]]
 
 ## Sources

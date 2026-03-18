@@ -17,7 +17,7 @@ Copyright and royalty arrangements for film music required clear agreements rega
 By 2000s, film music remained integral component of film and television production. Digital music production enabled individual composers to create professional-quality work with modest equipment investment. This democratization of music production made film score composition more accessible than before.
 
 ## See Also
-[[Film Directing]], [[Television Studios]], [[Radio Maisha]], [[Swahili Film Productions]], [[Music]], [[Television Acting]], [[Entertainment]]
+[[Film Directing]], [[Television Studios]], [[Radio Maisha]], [[Swahili Film Productions]], [[Music]], [[Television Acting]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

@@ -22,7 +22,7 @@ During the [[Mau Mau Uprising|Mau Mau]] period, curfew enforcement intensified d
 [[Colonial Migration Control]]
 [[Colonial Migration Control]]
 [[Mau Mau Uprising]]
-[[Colonial Policing]]
+Colonial Policing
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

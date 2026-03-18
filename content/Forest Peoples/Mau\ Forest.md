@@ -10,7 +10,7 @@ The Mau represents both an ecological crisis and an opportunity to implement rig
 
 ## See Also
 
-[[Ogiek\ Community\ History]] | [[Forest\ Rights\ Land]] | [[Eviction\ Forest\ Lands]] | [[Conservation]] | [[Protected Areas Kenya]] | [[Land\ Dispossession]] | [[Water Kenya]]
+[[Ogiek\ Community\ History]] | [[Forest\ Rights\ Land]] | [[Eviction\ Forest\ Lands]] | [[Conservation]] | [[Protected Areas Kenya]] | [[Land\ Dispossession]] | [[Water Resources Management]]
 
 ## Sources
 

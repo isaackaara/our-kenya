@@ -16,7 +16,7 @@ Digital media transformed religious broadcasting landscape, with online streamin
 [[Religious Nationalism Independence]]
 [[Religion Kenyan Literature]]
 [[Evangelicalism Rise in Kenya]]
-[[Education/Media and Communication]]
+Media and Communication
 
 ## Sources
 

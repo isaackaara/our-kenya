@@ -19,7 +19,7 @@ Union activity escalated sharply after World War II, with increased strike activ
 [[Forced Labor Colonial]]
 [[Dock Workers Strikes]]
 [[Railway Workers]]
-[[Nationalist Labor Movement]]
+Nationalist Labor Movement
 
 ## Sources
 

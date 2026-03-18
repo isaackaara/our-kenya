@@ -19,7 +19,7 @@ Historical drama exploring Kenya's past provided educational and entertainment v
 By 2000s and 2010s, television drama remained dominant form of drama entertainment, with theatrical cinema's dramatic content largely displaced. Television provided sustainable platform for drama production and performance careers.
 
 ## See Also
-[[Television Acting]], [[Film Acting]], [[Screenwriting Kenya]], [[Television Studios]], [[Drama Television]], [[Entertainment]], [[Kenyan Cinema Development]]
+[[Television Acting]], [[Film Acting]], [[Screenwriting Kenya]], [[Television Studios]], [[Drama Television]], [[entertainment]], [[Kenyan Cinema Development]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

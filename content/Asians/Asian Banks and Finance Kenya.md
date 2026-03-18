@@ -1,4 +1,4 @@
-[[Asian Kenyans|Asian]] communities established or were closely associated with financial institutions in [[Kenya]], including banks, microfinance operations, and credit societies. These institutions served both the [[Asian Kenyans|Asian]] community and broader [[Kenya]], facilitating [[commerce]] and credit.
+[[Asian Kenyans|Asian]] communities established or were closely associated with financial institutions in [[Kenya]], including banks, microfinance operations, and credit societies. These institutions served both the [[Asian Kenyans|Asian]] community and broader [[Kenya]], facilitating commerce and credit.
 
 ## The Bank of Baroda
 
@@ -27,7 +27,7 @@ As of 2026, Asians remain visible in Kenya's banking and finance sectors, though
 ## See Also
 
 - [[Asian Commercial Districts Colonial]]
-- [[Asian Traders and the Duka]]
+- Asian Traders and the Duka
 - [[Asian Manufacturing Sector]]
 - [[Asian Kenyans in the Professions]]
 - [[Asian Kenya Timeline]]

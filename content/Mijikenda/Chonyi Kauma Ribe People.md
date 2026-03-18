@@ -2,7 +2,7 @@ The Chonyi, Kauma, and Ribe are three smaller [[Mijikenda]] sub-groups residing 
 
 ## Chonyi
 
-The Chonyi inhabit areas of Kilifi County and maintain one of the eleven [[[[kaya forests]]]] inscribed as UNESCO World Heritage Sites. The Chonyi language is mutually intelligible with other Mijikenda languages. Like other Mijikenda groups, the Chonyi historically organized society around the kaya system, with councils of elders governing community life and maintaining sacred traditions. Contemporary Chonyi communities face similar pressures of modernization, land insecurity, and cultural change as other Mijikenda groups.
+The Chonyi inhabit areas of Kilifi County and maintain one of the eleven kaya forests]] inscribed as UNESCO World Heritage Sites. The Chonyi language is mutually intelligible with other Mijikenda languages. Like other Mijikenda groups, the Chonyi historically organized society around the kaya system, with councils of elders governing community life and maintaining sacred traditions. Contemporary Chonyi communities face similar pressures of modernization, land insecurity, and cultural change as other Mijikenda groups.
 
 ## Kauma
 

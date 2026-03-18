@@ -17,11 +17,11 @@ Discrimination in access to imported goods and luxury items, combined with wage 
 ## See Also
 
 [[Racial Hierarchy Colony]]
-[[Occupational Segregation]]
+Occupational Segregation
 [[Color Bar Employment]]
 [[Educational Inequality Reproduction]]
 [[Colonial Courts Justice]]
-[[Urban Segregation]]
+Urban Segregation
 
 ## Sources
 

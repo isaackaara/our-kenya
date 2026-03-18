@@ -16,7 +16,7 @@ Post-independence Kenya saw Salvation Army programs expand to address national d
 [[Seventh Day Adventist Hospitals]]
 [[Church and State Relations]]
 [[Evangelicalism Rise in Kenya]]
-[[Colonial Kenya/Religious Missions]]
+Religious Missions
 
 ## Sources
 

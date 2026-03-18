@@ -10,7 +10,7 @@ Institutional adoption of blockchain technology remained limited relative to exp
 
 ## See Also
 
-[[Cryptocurrency Adoption Kenya]], [[Digital Payment Systems]], [[Technology]], [[Land Rights Kenya]], [[Supply Chain Management]], [[Innovation Policy]]
+[[Cryptocurrency Adoption Kenya]], [[Digital Payment Systems]], [[Technology]], Land Rights Kenya, [[Supply Chain Management]], Innovation Policy
 
 ## Sources
 

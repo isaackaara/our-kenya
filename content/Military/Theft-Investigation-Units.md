@@ -6,7 +6,7 @@ Commercial robbery investigation, particularly targeting retail businesses, fina
 
 Livestock rustling in pastoral regions of [[North Eastern Province]], [[Rift Valley]], and western Kenya represented a persistent investigation challenge, with economic motivation and community-level tolerance for rustling limiting investigation progress. By 2015, pastoral rustling investigations had achieved only approximately 12 to 18 percent clearance rates, with suspects frequently released following detention without prosecution due to insufficient evidence and community protection of suspects. Joint investigations with community leaders and pastoral organization representatives remained underdeveloped despite recognition of livestock security's importance to pastoralist livelihoods.
 
-Cybercrime investigations overlapping with theft including online fraud, digital identity theft, and e-commerce fraud remained under-resourced components of theft investigation. The [[Cybercrime Investigation Unit]], established in 2015, focused on digital crime but lacked specialized training and equipment for investigating online theft. By 2018, approximately 85 personnel operated in cybercrime investigation roles, substantially inadequate for the scale of digital crime activity and demonstrating institutional lag in recognizing and addressing technological crime evolution.
+Cybercrime investigations overlapping with theft including online fraud, digital identity theft, and e-commerce fraud remained under-resourced components of theft investigation. The Cybercrime Investigation Unit, established in 2015, focused on digital crime but lacked specialized training and equipment for investigating online theft. By 2018, approximately 85 personnel operated in cybercrime investigation roles, substantially inadequate for the scale of digital crime activity and demonstrating institutional lag in recognizing and addressing technological crime evolution.
 
 ## See Also
 
@@ -14,8 +14,8 @@ Cybercrime investigations overlapping with theft including online fraud, digital
 [[Fraud-Investigation-Units]]
 [[Cybercrime-Investigation-Teams]]
 [[Kenya Police]]
-[[Organized Crime Kenya]]
-[[Violent Crime Kenya]]
+[[Kenya Police History]]
+[[Kenya Police History]]
 [[Armed Forces Infrastructure]]
 
 ## Sources

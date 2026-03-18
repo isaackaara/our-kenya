@@ -23,7 +23,7 @@ By 2015, Maendeleo claimed roughly 300,000 members organized in county-level str
 [[Women Land Rights]]
 [[Gender-Based Violence]]
 [[Women Cooperatives Economic]]
-[[Colonial Kenya History]]
+Colonial Kenya History
 
 ## Sources
 

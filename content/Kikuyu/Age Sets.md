@@ -22,7 +22,7 @@ The *itwika* generational handover is one of the most remarkable features of tra
 - [[Kikuyu Central Association|Kikuyu Central Association]]
 - [[Githunguri Teachers College|Githunguri Teachers College]]
 - [[Mau Mau Uprising|Mau Mau Uprising]]
-- [[Circumcision Controversy|Circumcision Controversy]]
+- Circumcision Controversy
 - [[Facing Mount Kenya|Facing Mount Kenya]]
 
 ## Related

@@ -18,7 +18,7 @@ Climate change vulnerability reduction through agroforestry attracted increasing
 [[Soil Conservation]]
 [[Fertilizer Use]]
 [[Livestock Farming Systems]]
-[[Forest Sector]]
+Forest Sector
 [[Food Security Policies]]
 [[Extension Services Agriculture]]
 [[Kikuyu]]

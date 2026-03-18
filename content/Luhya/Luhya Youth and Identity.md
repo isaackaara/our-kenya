@@ -6,8 +6,8 @@ Young Luhya identity in contemporary Kenya is shaped by the community's size, po
 
 ## See Also
 [[Luhya Cultural Identity Today]]
-[[Luhya/Luhya Political Leadership]]
-[[Luhya/Luhya Sub-Tribes]]
+[[Luhya Cultural Identity]]
+Luhya Sub-Tribes
 
 ## Sources
 1. Academic studies on Luhya identity.

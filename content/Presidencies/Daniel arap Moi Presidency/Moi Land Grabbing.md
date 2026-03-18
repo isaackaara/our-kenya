@@ -22,11 +22,11 @@ The legacy is visible across Kenya's landscape: depleted forests, congested citi
 - [[Moi and the Kalenjin]]
 - [[1992 Election and Ethnic Violence]]
 - [[Goldenberg Scandal]]
-- [[Corruption/Moi Era Corruption]]
+- [[Moi Era Corruption]]
 - [[Moi Economic Policy 1978-1990]]
-- [[Kalenjin/Kalenjin Land Allocations]]
-- [[Kikuyu/Kikuyu Displacement from Rift Valley]]
-- [[Cross-Ethnic/Land Conflicts and Ethnic Violence]]
+- Kalenjin Land Allocations
+- Kikuyu Displacement from Rift Valley
+- Land Conflicts and Ethnic Violence
 
 ## Sources
 1. Kanyinga, Karuti. "The Legacy of the White Highlands: Land Rights, Ethnicity and the Post-2007 Election Violence in Kenya." *Journal of Contemporary African Studies* 27, no. 3 (2009): 325-344. https://www.tandfonline.com/doi/abs/10.1080/02589000903154834

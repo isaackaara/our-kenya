@@ -4,9 +4,9 @@ Kenya's media played contested roles during the election and post-election viole
 
 - [[Post-Election Violence]]
 - [[Media]]
-- [[Hate speech Kenya]]
+- [[Hate Speech Kenya]]
 - [[Media]]
-- [[Radio broadcasts Kenya]]
+- Radio broadcasts Kenya
 
 ## Sources
 

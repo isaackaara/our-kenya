@@ -1,4 +1,4 @@
-Arab merchants dominated long-distance trade across the Indian Ocean for over a thousand years, leveraging cultural connections that extended from the Atlantic to the Pacific and commanding commercial networks that moved billions of dollars in modern terms across maritime routes. The [[Arab Traders Region]] concept refers both to a geographic zone centered on the Arabian Peninsula and the Persian Gulf, and to a diaspora community of Arab merchants spread throughout Indian Ocean ports engaging in sophisticated commercial operations.
+Arab merchants dominated long-distance trade across the Indian Ocean for over a thousand years, leveraging cultural connections that extended from the Atlantic to the Pacific and commanding commercial networks that moved billions of dollars in modern terms across maritime routes. The Arab Traders Region concept refers both to a geographic zone centered on the Arabian Peninsula and the Persian Gulf, and to a diaspora community of Arab merchants spread throughout Indian Ocean ports engaging in sophisticated commercial operations.
 
 The rise of Arab mercantile dominance followed the expansion of Islam in the 7th and 8th centuries. Islamic law, particularly the emphasis on contract enforcement and the prohibition of riba (usury), created a legal framework advantageous for long-distance commerce. Arab merchants could extend credit across the Islamic world while maintaining confidence that their contracts would be enforced by Islamic courts. A merchant from Baghdad or Yemen could travel to an Indian port or East African trading post knowing that he could enforce payment through courts administered according to Islamic principles. This legal framework provided crucial advantages over traders from regions lacking such universalized commercial law.
 
@@ -10,7 +10,7 @@ The organization of Arab merchant networks reflected sophisticated business prac
 
 Arab merchants pioneered sophisticated financial instruments that enabled long-distance trade without physical transportation of precious metals. A merchant in Egypt seeking to purchase Indian spices could purchase a bill of exchange from a merchant with assets in Indian ports. This document, when presented to the merchant's representative in India, would authorize payment in Indian currency equivalent to the amount specified in Egypt. Such arrangements reduced the risk of robbery during long journeys and facilitated credit relationships that expanded trade volume beyond what immediate payment could support.
 
-The [[Islamic Law]] framework governing commerce extended beyond simple contract enforcement. Islamic jurisprudence developed sophisticated doctrines regarding partnerships, agency, and various forms of commercial associations. The mudaraba partnership, for example, allowed one merchant to invest capital while another contributed labor and expertise, with profits shared according to negotiated terms. This structure enabled wealthy merchants to finance multiple trading ventures through different partners without requiring direct personal supervision of each enterprise. The institution of the wakil (agent) similarly allowed merchants to conduct business through appointed representatives whose contracts and agreements would bind the principal merchant.
+The Islamic Law framework governing commerce extended beyond simple contract enforcement. Islamic jurisprudence developed sophisticated doctrines regarding partnerships, agency, and various forms of commercial associations. The mudaraba partnership, for example, allowed one merchant to invest capital while another contributed labor and expertise, with profits shared according to negotiated terms. This structure enabled wealthy merchants to finance multiple trading ventures through different partners without requiring direct personal supervision of each enterprise. The institution of the wakil (agent) similarly allowed merchants to conduct business through appointed representatives whose contracts and agreements would bind the principal merchant.
 
 Religious networks reinforced commercial networks. The hajj pilgrimage to Mecca brought merchants from throughout the Islamic world to a single location annually, creating unparalleled opportunities for direct negotiation, contract formation, and relationship building. Merchants could arrange future transactions, settle disputes, and establish credit lines during the concentrated meeting of the hajj. The religious obligation of zakat (almsgiving) created wealth distribution mechanisms that both demonstrated merchant prosperity and ensured that capital remained available within merchant communities rather than concentrating in the hands of rulers.
 
@@ -20,11 +20,11 @@ The geographic extent of Arab merchant networks should not be exaggerated. Arab 
 
 ## See Also
 
-[[Islamic Law]]
+Islamic Law
 [[Swahili]]
 [[Spice Trade]]
-[[Muslim Merchants Networks]]
-[[Islamic Commercial Law]]
+Muslim Merchants Networks
+Islamic Commercial Law
 
 ## Sources
 

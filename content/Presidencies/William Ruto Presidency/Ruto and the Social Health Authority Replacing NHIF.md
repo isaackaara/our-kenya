@@ -10,11 +10,11 @@ By 2024-2025, SHA remained in flux, with ongoing adjustments to benefit structur
 
 ## See Also
 [[Ruto SHIF Health Insurance Reform]]
-[[Healthcare Access and Financing Kenya]]
+Healthcare Access and Financing Kenya
 [[Health]]
-[[Public Health System Performance]]
-[[Insurance Industry Kenya Regulation]]
-[[Digital Health Infrastructure Kenya]]
+Public Health System Performance
+Insurance Industry Kenya Regulation
+Digital Health Infrastructure Kenya
 
 ## Sources
 1. https://www.standardmedia.co.ke/health/article/2001408765-social-health-authority-ruto-healthcare

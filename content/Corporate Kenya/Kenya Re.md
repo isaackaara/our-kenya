@@ -16,12 +16,12 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 ## See Also
 
-- [[Insurance Industry Kenya]]
+- [[Economy]]
 - [[Central Bank of Kenya]]
 - [[Pension Sector Kenya]]
 - [[Kenya Commercial Bank]]
 - [[Financial Regulation Kenya]]
-- [[Economic Risk Management]]
+- Economic Risk Management
 - [[Corporate Kenya]]
 
 ## Sources

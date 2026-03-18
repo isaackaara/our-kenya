@@ -18,12 +18,12 @@ Contemporary Kenya has begun slow reckonings with female veteran erasure. The 20
 
 ## See Also
 
-[[Mau Mau Uprising History]]
+Mau Mau Uprising History
 [[Women Independence Struggle]]
-[[Colonial Violence Gender]]
-[[Kikuyu History Resistance]]
+Colonial Violence Gender
+Kikuyu History Resistance
 [[Female War Victims]]
-[[Gender-Based Violence Colonial]]
+Gender-Based Violence Colonial
 
 ## Sources
 

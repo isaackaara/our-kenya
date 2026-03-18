@@ -22,7 +22,7 @@ Fish farming development in the lake was promoted as alternative to depleted wil
 [[Fishing Rights Management]]
 [[Luo]]
 [[Water Resources Management]]
-[[Sustainable Fisheries]]
+Sustainable Fisheries
 
 ## Sources
 

@@ -34,7 +34,7 @@ Despite significant challenges, many Somali youth express optimism about their f
 
 ## See Also
 
-- [[Kenyan Somali Education]]
+- Kenyan Somali Education
 - [[Al-Shabaab in Kenya]]
 - [[Radicalisation in Kenya]]
 - [[Kenyan Somali in Nairobi Business]]

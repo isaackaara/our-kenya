@@ -25,4 +25,4 @@ The presence of *Mukurwe wa Nyagathanga* in Murang'a is not incidental, it means
 - [[Wangari Maathai]]
 
 ## Related
-[[Gikuyu and Mumbi]] | [[Kirinyaga]] | [[White Highlands]] | [[Kenya Land and Freedom Army]] | [[Mau Mau Uprising]] | [[Wangari Maathai]] | [[Kiambu]] | [[Independence 1963]] | [[Index]]
+[[Gikuyu and Mumbi]] | [[Kirinyaga]] | [[White Highlands]] | [[Kenya Land and Freedom Army]] | [[Mau Mau Uprising]] | [[Wangari Maathai]] | [[Kiambu]] | [[Independence 1963]] | [[index]]

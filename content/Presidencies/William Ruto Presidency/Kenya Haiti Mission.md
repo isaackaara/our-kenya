@@ -19,7 +19,7 @@ By the end of 2024, the Haiti mission had achieved little. Gangs still controlle
 - [[Ruto and the Judiciary]]
 - [[Finance Bill 2024 and Gen Z Uprising]]
 - [[Gen Z Kenya Political Awakening]]
-- [[Corruption/Foreign Missions and Patronage]]
+- Foreign Missions and Patronage
 - [[Ruto Inauguration and First 100 Days]]
 - [[Ruto and East African Community]]
 

@@ -19,9 +19,9 @@ The issue of sovereignty and international justice remained contested. Kenya's g
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya 2007 Election Violence|Kenya 2007 Election Violence]]
+- [[2007-2008 Post Election Violence|Kenya 2007 Election Violence]]
 - [[International Criminal Court|International Criminal Court]]
-- [[Kenya Justice and Accountability|Kenya Justice and Accountability]]
+- [[Impunity in Kenya|Kenya Justice and Accountability]]
 - [[Uhuru Kenyatta|Uhuru Kenyatta]]
 
 ## Sources

@@ -47,7 +47,7 @@ The organized sport structure of modern athletics provided alternative outlet fo
 ## Cross-Links
 - [[The Running Phenomenon]]
 - [[Kalenjin Initiation Deep Dive]]
-- [[Kalenjin Warrior Culture]]
+- Kalenjin Warrior Culture
 - [[Kalenjin Identity and Running]]
 
 ## See Also

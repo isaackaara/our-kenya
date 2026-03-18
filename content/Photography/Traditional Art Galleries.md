@@ -7,12 +7,12 @@ Traditional art categories include representational painting, figure sculpture, 
 The categorization of art as traditional versus contemporary reflects power relationships in determining which work receives institutional support, exhibition space, and critical attention. Some artists and theorists question the distinction, arguing that all art is contemporary to the moment of its creation and that traditional/contemporary binaries reflect Western art historical frameworks poorly suited to Kenyan artistic practice. However, gallery practices, market dynamics, and institutional frameworks continue to distinguish traditional and contemporary art, influencing artist careers and how work is valued. The coexistence of traditional and contemporary galleries creates plural exhibition ecosystems in Kenya's art world.
 
 ## See Also
-- [[Colonial Era Artists Kenya]]
-- [[Painting Traditions Kenya]]
-- [[Sculpture Practice]]
-- [[Art Historical Narratives]]
-- [[Gallery Categorization Practices]]
-- [[Art Market Segmentation]]
+- Colonial Era Artists Kenya
+- [[Cultural Heritage]]
+- Sculpture Practice
+- Art Historical Narratives
+- Gallery Categorization Practices
+- Art Market Segmentation
 - [[Moi Art Collection]]
 
 ## Sources

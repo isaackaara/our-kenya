@@ -74,7 +74,7 @@ Wonder ★★★★★★★★★☆  9/10
 
 ---
 
-## [[Indian Ocean/Clove Production Trade|Clove Production and Trade]]
+## Clove Production and Trade
 
 How a spice rewired an entire ocean economy
 
@@ -162,7 +162,7 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-## [[Forest Peoples/Eviction Forest Lands|Eviction and Forest Lands]]
+## Eviction and Forest Lands
 
 The people the forests forgot
 
@@ -170,6 +170,6 @@ Wonder ★★★★★★★★☆☆  8/10
 
 ---
 
-*Scores are based on the Wanda Scale -- a measure of wonder and emotional depth across all 6,547 notes. Higher wonder means a story that surprises, unsettles, or reframes what you thought you knew.*
+*Scores are based on the Wanda Scale -- a measure of wonder and emotional depth across all {{NOTE_COUNT}} notes. Higher wonder means a story that surprises, unsettles, or reframes what you thought you knew.*
 
 [Browse all notes →](/)  [Explore storylines →](/STORY-TRAILS)

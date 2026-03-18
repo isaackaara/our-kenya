@@ -1,4 +1,4 @@
-Meru political identity in 2026 is shaped by [[devolved governance]], [[Mount Kenya]] regional politics, the [[Ruto administration]], ongoing [[governance challenges]], and the community's economic vulnerabilities. The Meru navigate contemporary political dynamics while maintaining distinctive identity and interests.
+Meru political identity in 2026 is shaped by devolved governance, [[Mount Kenya]] regional politics, the Ruto administration, ongoing governance challenges, and the community's economic vulnerabilities. The Meru navigate contemporary political dynamics while maintaining distinctive identity and interests.
 
 ## Mount Kenya Region Coalition
 

@@ -20,8 +20,8 @@ Environmental issues increasingly featured in contemporary social commentary lit
 [[Literature]]
 [[Environmental Literature]]
 [[Political Novels Satire]]
-[[Social Justice Kenya]]
-[[Literary Activism Kenya]]
+Social Justice Kenya
+Literary Activism Kenya
 
 ## Sources
 1. https://www.britannica.com/biography/Meja-Mwangi - Social commentary in urban fiction

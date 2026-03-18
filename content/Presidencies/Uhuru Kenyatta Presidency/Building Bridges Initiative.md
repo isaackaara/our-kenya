@@ -10,7 +10,7 @@ Opponents attacked BBI as an elite power-sharing deal designed to create positio
 
 In May 2021, the Court of Appeal delivered a devastating ruling that stopped BBI entirely. The court held that the president cannot initiate constitutional amendments through a popular initiative, only parliament or citizens can. It ruled that the BBI process violated the principle of public participation because the task force was presidential rather than citizen-driven. The judgment was a sweeping rejection of BBI's legal foundation, though proponents appealed to the Supreme Court. In March 2024, the Supreme Court upheld the lower courts' decisions, permanently killing BBI and establishing that presidents cannot use popular initiative processes to amend the constitution.
 
-BBI's failure marked a turning point in Uhuru's presidency. It showed the limits of executive power under the 2010 constitution and demonstrated that [[Uhuru and the Judiciary|judicial independence]] would constrain even determined presidents. It revealed that the Uhuru-Raila alliance, while politically powerful, could not overcome constitutional safeguards. Most importantly, it allowed Ruto to position himself as the champion of democratic process against dynastic manipulation, a narrative that carried him to victory in the [[Elections/2022 Presidential Election|2022 election]]. BBI's collapse was Uhuru's most visible second-term failure, a reminder that political will alone cannot override constitutional limits.
+BBI's failure marked a turning point in Uhuru's presidency. It showed the limits of executive power under the 2010 constitution and demonstrated that [[Uhuru and the Judiciary|judicial independence]] would constrain even determined presidents. It revealed that the Uhuru-Raila alliance, while politically powerful, could not overcome constitutional safeguards. Most importantly, it allowed Ruto to position himself as the champion of democratic process against dynastic manipulation, a narrative that carried him to victory in the [[2022 Presidential Election|2022 election]]. BBI's collapse was Uhuru's most visible second-term failure, a reminder that political will alone cannot override constitutional limits.
 
 ## See Also
 - [[The Handshake March 2018]]
@@ -19,8 +19,8 @@ BBI's failure marked a turning point in Uhuru's presidency. It showed the limits
 - [[Uhuru and William Ruto Fallout]]
 - [[Uhuru and the Judiciary]]
 - [[David Maraga and Uhuru]]
-- [[Elections/2022 Presidential Election]]
-- [[Kikuyu/Kikuyu Political Power]]
+- [[2022 Presidential Election]]
+- [[Kikuyu Political Power]]
 
 ## Sources
 1. "Building Bridges to a United Kenya: From a Nation of Blood Ties to a Nation of Ideals," BBI Taskforce Report, November 2019. https://www.nation.co.ke/kenya/news/bbi-taskforce-report-full-document-258008

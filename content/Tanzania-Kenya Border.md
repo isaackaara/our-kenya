@@ -6,7 +6,7 @@ The context of tanzania-kenya border illuminates how local, regional, and nation
 
 ## See Also
 
-[[International Relations]], [[Kenya History]], [[Historical Development]]
+International Relations, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

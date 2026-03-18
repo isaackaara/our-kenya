@@ -7,13 +7,13 @@ Logo design employs various visual strategies including symbolic representation,
 Contemporary logo design navigates multiple platforms including print, digital screens, and physical environments requiring adaptable designs functioning across contexts. Digital logo design tools have changed production processes while core design principles remain constant. Brand identity systems building upon logos create comprehensive visual communication systems. Logo redesigns occur periodically as organizations evolve, requiring designers to balance brand continuity with contemporary design approaches. Contemporary Kenyan logo designers create sophisticated work serving diverse organizations. Logo design remains vital professional practice supporting organizational communication and brand identity.
 
 ## See Also
-- [[Branding and Identity]]
-- [[Visual Symbol Design]]
-- [[Corporate Identity Systems]]
+- Branding and Identity
+- Visual Symbol Design
+- Corporate Identity Systems
 - [[Logo Design]]
-- [[Color Strategy Design]]
-- [[Professional Graphic Design]]
-- [[Brand Management]]
+- Color Strategy Design
+- Professional Graphic Design
+- Brand Management
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Logo - Logo Design

@@ -15,8 +15,8 @@ The ban also had profound implications for Odinga personally. Banned from holdin
 - [[1969 Election]]
 - [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
-- [[Political Repression Kenya]]
-- [[Single-Party State Kenya]]
+- Political Repression Kenya
+- [[KANU]]
 - [[Kenya]]
 - [[Kenyatta Opposition Suppression]]
 

@@ -9,7 +9,7 @@ Social support networks functioning as insurance include extended family systems
 The effectiveness of informal insurance in poverty reduction is limited and contested. Informal insurance mechanisms reduce the immediate impact of shocks; households do not fall into destitution when individual shocks occur. However, covariate shocks (affecting entire communities simultaneously, such as drought or regional economic collapse) overwhelm informal insurance capacity; collective survival is threatened when all community members are simultaneously affected. Informal insurance also has hidden costs: participation requires social compliance; debt obligations can restrict future choices; and failure to repay damages social relationships. Formal insurance, where accessible and affordable, provides more comprehensive protection and without social obligation strings. The role of informal insurance is important for survival but should not substitute for formal social protection systems.
 
 ## See Also
-[[Coping Mechanisms]], [[Rotating Savings Groups]], [[Informal Lending]], [[Microfinance Access]], [[Social Protection]], [[Poverty Measurement]], [[Food Insecurity]], [[Economic Resilience]]
+[[Coping Mechanisms]], [[Rotating Savings Groups]], Informal Lending, [[Microfinance Access]], [[Social Protection]], [[Poverty Measurement]], [[Food Insecurity]], Economic Resilience
 
 ## Sources
 1. World Bank (2015). "Kenya Informal Finance and Risk Management Assessment." http://documents.worldbank.org

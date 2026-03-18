@@ -22,9 +22,9 @@ By 2024, Ruto's church relationships remained one of his strongest political ass
 - [[2022 Election]]
 - [[Ruto and the Shakahola Massacre]]
 - [[Finance Bill 2024 and Gen Z Uprising]]
-- [[Ruto Hustler Narrative]]
-- [[Corruption/Religious Institutions and Accountability]]
-- [[Cross-Ethnic/Religion and Political Mobilization]]
+- [[Ruto Economic Blueprint - Bottom-Up Economics]]
+- Religious Institutions and Accountability
+- Religion and Political Mobilization
 
 ## Sources
 1. "Ruto's evangelical coalition: Faith and power," The Elephant, July 2022. https://www.theelephant.info/features/2022/07/18/ruto-evangelical-coalition-faith-power/

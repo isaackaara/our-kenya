@@ -22,9 +22,9 @@ The persistence of celestial navigation despite the adoption of compass and late
 
 [[Navigation Methods]]
 [[Pilot Knowledge]]
-[[Astronomical Knowledge]]
-[[Maritime Tradition]]
-[[Celestial Navigation]]
+Astronomical Knowledge
+Maritime Tradition
+Celestial Navigation
 
 ## Sources
 

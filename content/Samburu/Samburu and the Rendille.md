@@ -13,8 +13,8 @@ Rendille occupy territory adjacent to [[Samburu County]] in similar semi-arid en
 - [[Samburu Pastoralism]]
 - [[Samburu County]]
 - [[Samburu and the Turkana Basin]]
-- [[Pastoral Inter-Community Relations]]
-- [[Nilotic and Cushitic Peoples]]
+- Pastoral Inter-Community Relations
+- Nilotic and Cushitic Peoples
 
 ## Sources
 

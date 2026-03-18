@@ -9,7 +9,7 @@ Digital transformation further revolutionized political advertising after 2010. 
 Regulation of political advertising remains contested terrain. The [Media Council Kenya] and the [Independent Electoral and Boundaries Commission] have established guidelines requiring accuracy and balance, yet enforcement varies. Questions persist about whether government bodies have sufficient authority to regulate content on private platforms, and whether restrictions might limit legitimate political speech. The monetization of political campaigns through advertising has concentrated power among wealthy candidates while marginalizing voices without substantial funding for media purchases.
 
 ## See Also
-[[Elections]], [[Media Independence Coverage]], [[Press Freedom Colonial]], [[Television History Kenya]], [[Radio Broadcasting Development]], [[Digital Media Shift]], [[Campaign Finance Regulation]]
+[[Elections]], [[Media Independence Coverage]], [[Press Freedom Colonial]], [[Television History Kenya]], [[Radio Broadcasting Development]], [[Digital Media Shift]], Campaign Finance Regulation
 
 ## Sources
 1. https://www.standardmedia.co.ke/politics/article/2000149873/history-of-kenyan-elections

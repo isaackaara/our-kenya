@@ -3,9 +3,9 @@ Nairobi's informal settlements, particularly Mathare, Kibera, and Kawangware, ex
 ## See Also
 
 - [[Post-Election Violence]]
-- [[Urban violence Kenya]]
+- Urban violence Kenya
 - [[Nairobi]]
-- [[Political violence Kenya]]
+- Political violence Kenya
 
 ## Sources
 

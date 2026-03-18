@@ -7,7 +7,7 @@ tags: kisii gusii language ekegusii bantu niger-congo
 
 ## Classification
 
-Ekegusii (also called Kisii or Abagusii language) is a [[Bantu languages|Bantu language]] of the [[Niger-Congo languages|Niger-Congo language]] family. It is classified as a Lacustrine Bantu language, distinct from [[Swahili language|Swahili]] and other major Kenyan languages.
+Ekegusii (also called Kisii or Abagusii language) is a [[Gikuyu Language|Bantu language]] of the Niger-Congo language family. It is classified as a Lacustrine Bantu language, distinct from [[Swahili Language|Swahili]] and other major Kenyan languages.
 
 ## Language Structure
 
@@ -101,5 +101,5 @@ The Ekegusii language carries Gusii cultural identity and history. Its continued
 - [[Gusii Storytelling and Oral Literature]] - oral traditions in Ekegusii
 - [[Kisii Education Culture]] - language transmission and educational emphasis
 - [[Abagusii Sub-groups]] - dialect variations across clans
-- [[Kuria language]] - related Bantu language
-- [[Luhya languages]] - neighboring Bantu language family
+- Kuria language - related Bantu language
+- [[Luhya Cultural Identity]] - neighboring Bantu language family

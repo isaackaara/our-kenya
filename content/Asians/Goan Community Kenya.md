@@ -47,7 +47,7 @@ Goans in Kenya today are few in number but maintain distinct identity. Some fami
 - [[Ismaili Community Kenya]]
 - [[Asians in Colonial Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

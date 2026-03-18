@@ -2,7 +2,7 @@ Joseph Thomson (1858-1894) was a Scottish geologist and explorer whose 1882-1883
 
 ## Early Career and the Central African Expedition
 
-Thomson was born in [[Roxburghshire]], Scotland, and studied geology before joining the [[Royal Geographic Society]] as a young man. His first major expedition was to central Africa (1879-1880) in the Shire Highlands region (present-day Malawi), where he conducted geological surveys and gathered geographic information. This early success established his reputation for careful observation and diligent note-taking.
+Thomson was born in Roxburghshire, Scotland, and studied geology before joining the Royal Geographic Society as a young man. His first major expedition was to central Africa (1879-1880) in the Shire Highlands region (present-day Malawi), where he conducted geological surveys and gathered geographic information. This early success established his reputation for careful observation and diligent note-taking.
 
 The CMS and the Royal Geographic Society recognized in Thomson a capable explorer and scientist. In 1882, the Royal Geographic Society commissioned him to lead an expedition to find the shortest possible route from the East African coast to Uganda. The challenge was not navigating the distance but passing through the territory of the Maasai, who had historically resisted and sometimes violently rejected European passage.
 
@@ -44,12 +44,12 @@ His name lives on geographically: Thomson's Falls (now Nyahururu) was named afte
 
 - [[Explorers and Missionaries]] - Early European presence
 - [[Maasai]] - Territory he explored
-- [[Geographic Exploration and Colonialism]] - Knowledge-power relationship
-- [[Royal Geographic Society]] - Organization that commissioned him
+- Geographic Exploration and Colonialism - Knowledge-power relationship
+- Royal Geographic Society - Organization that commissioned him
 - [[European Settlement Overview]] - Settlement that followed exploration
-- [[Thomson's Gazelle]] - Species named after him
+- Thomson's Gazelle - Species named after him
 - [[East Africa Protectorate to Colony]] - Political entity from his era
-- [[Through Masai Land]] - His published account
+- Through Masai Land - His published account
 
 ## Sources
 

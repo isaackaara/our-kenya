@@ -58,12 +58,12 @@ Coffee remains a minor component of Kisii's agricultural economy, coexisting wit
 
 ## See Also
 
-- [[Tea farming in Kenya]] - dominant cash crop comparison
+- [[Tea Industry Kenya]] - dominant cash crop comparison
 - [[Kisii Farming Practices]] - agricultural systems
-- [[Cooperative movements in Kenya]] - farmer organization
+- Cooperative movements in Kenya - farmer organization
 - [[Kenyan Hip-Hop]] - commodity markets
-- [[Bomet County coffee]] - adjacent coffee region
-- [[Agricultural diversification in Kenya]] - development strategy
+- Bomet County coffee - adjacent coffee region
+- Agricultural diversification in Kenya - development strategy
 
 ---
 

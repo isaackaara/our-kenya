@@ -13,10 +13,10 @@ The international dimension of Maathai's activism added another layer of tension
 Maathai's trajectory from marginalised environmental activist to Nobel laureate (in 2004) represented a vindication of her vision and a refutation of Moi's claim that environmental protection was incompatible with development. Yet during Moi's presidency, she was treated as a threat, detained, and subjected to violence by state agents. The contrast between her treatment by Moi's regime and her later international recognition underscored how Moi's authoritarianism had isolated Kenya and placed the regime on the wrong side of global movements for environmental protection and women's rights.
 
 ## See Also
-[[Kenya/Environmentalism]]
+[[Wangari Maathai]]
 [[Moi and Human Rights]]
 [[Uhuru BBI]]
-[[Kenya/Women's Rights]]
+Women's Rights
 [[Moi Legacy]]
 [[Moi Post-Presidency]]
 

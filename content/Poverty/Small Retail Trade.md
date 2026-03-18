@@ -9,7 +9,7 @@ Competition within retail trade is intense, particularly in high-traffic areas w
 The regulation and taxation of small retail creates tensions. Municipal councils seek to collect licensing fees; traders view these as extractive levies with minimal service return. Health and safety regulations including food handling requirements affect food retailers; compliance costs exceed small traders' capacity. Consumer protection regulations theoretically protect customers; enforcement is minimal and traders may ignore compliance. Value-added tax (VAT) theoretically applies to all traders; most small traders evade taxation due to compliance costs and complexity. This creates informal relationship with authorities: traders operate outside regulations, make periodic payments to officials (bribes), and avoid systematic enforcement. From poverty perspective, taxation of already-marginal retail activities threatens livelihood sustainability; formal compliance is often infeasible given margins.
 
 ## See Also
-[[Informal Sector]], [[Hawking Vending]], [[Market Stalls]], [[Small Business Development]], [[Supply Chains]], [[Urban Poverty]], [[Income Generation]], [[Informal Economy]]
+[[Informal Sector]], [[Hawking Vending]], [[Market Stalls]], [[Small Business Development]], Supply Chains, [[Urban Poverty]], Income Generation, [[Informal Economy Kenya]]
 
 ## Sources
 1. International Labour Organization (2018). "Informal Retail and Small Commerce in Kenya." https://www.ilo.org

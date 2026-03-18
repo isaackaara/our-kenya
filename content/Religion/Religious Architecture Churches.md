@@ -16,7 +16,7 @@ Post-colonial church architecture reflected greater confidence in African Christ
 [[Kenyan Religious Art Sacred]]
 [[Independent African Churches]]
 [[Presbyterian Church East Africa]]
-[[Colonial Kenya/Urban Development]]
+Urban Development
 
 ## Sources
 

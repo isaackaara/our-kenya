@@ -28,7 +28,7 @@ The county health system includes:
 - [[Kisii Infrastructure|Infrastructure]]
 - [[Kisii Women|Women's Health]]
 - [[Kisii Population Density|Population]]
-- [[../../Maasai/Maasai Food Insecurity and Drought|Food Security Issues]]
+- Food Security Issues
 
 ## Key Health Challenges
 

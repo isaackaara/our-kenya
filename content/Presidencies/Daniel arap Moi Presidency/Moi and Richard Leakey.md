@@ -10,7 +10,7 @@ The results were dramatic. Leakey militarized anti-poaching efforts, equipping r
 
 Leakey also reformed KWS's finances. He established KWS as a parastatal with financial autonomy, allowing it to retain park entry fees and tourism revenue rather than remitting them to the Treasury. This created a sustainable funding model and reduced dependence on government allocations, which were often delayed or diverted. Leakey raised millions from international conservation organizations, leveraging his global networks in ways no career civil servant could. By the mid-1990s, KWS was financially self-sufficient and widely regarded as one of Africa's best-run conservation agencies.
 
-The political dynamics, however, were fraught. Leakey's autonomy and success threatened vested interests. Politicians who had profited from poaching and illegal land allocations in game reserves resented his interference. [[Kalenjin]] politicians, in particular, viewed Leakey as an outsider who wielded disproportionate power without political accountability. Leakey's public criticism of [[Corruption/Moi Era Corruption|government corruption]] outside the wildlife sector, which he did not cease despite his government position, irritated Moi. The relationship, built on pragmatism, was always transactional and fragile.
+The political dynamics, however, were fraught. Leakey's autonomy and success threatened vested interests. Politicians who had profited from poaching and illegal land allocations in game reserves resented his interference. [[Kalenjin]] politicians, in particular, viewed Leakey as an outsider who wielded disproportionate power without political accountability. Leakey's public criticism of [[Moi Era Corruption|government corruption]] outside the wildlife sector, which he did not cease despite his government position, irritated Moi. The relationship, built on pragmatism, was always transactional and fragile.
 
 In 1994, Moi removed Leakey from KWS under murky circumstances. Officially, Leakey resigned citing frustration with political interference. Unofficially, Moi had tired of Leakey's independence and the political costs of protecting him from KANU allies who wanted him gone. Leakey's departure marked the end of KWS's most effective period; subsequent directors lacked his autonomy, competence, and international credibility. Conservation gains began to erode as political interference resumed.
 
@@ -20,12 +20,12 @@ The Moi-Leakey relationship demonstrated both the potential and limits of compet
 
 ## See Also
 - [[Moi Economic Policy 1978-1990]]
-- [[Corruption/Moi Era Corruption]]
+- [[Moi Era Corruption]]
 - [[Moi and the Kalenjin]]
-- [[Cross-Ethnic/Non-African Kenyans in Politics]]
+- Non-African Kenyans in Politics
 - [[Structural Adjustment Programs Kenya]]
 - [[Moi Foreign Policy]]
-- [[Elections/Technocrats in Political Appointments]]
+- Technocrats in Political Appointments
 
 ## Sources
 1. Leakey, Richard. *Wildlife Wars: My Fight to Save Africa's Natural Treasures*. St. Martin's Press, 2001. https://us.macmillan.com/books/9780312206208/wildlifewars

@@ -1,4 +1,4 @@
-Kenya's media landscape in 1997 presented a study in contrasts: the state-controlled broadcasting sector (television and radio) remained instruments of government propaganda favoring [[Moi]] and KANU, while the independent print media had expanded dramatically since 1992 and provided, overall, more balanced coverage of opposition candidates and campaigns. This dualism meant that media access was unequal but not completely monopolized by the state, creating space for opposition messaging even as the state retained significant propaganda advantages.
+Kenya's media landscape in 1997 presented a study in contrasts: the state-controlled broadcasting sector (television and radio) remained instruments of government propaganda favoring [[Daniel arap Moi Era]] and KANU, while the independent print media had expanded dramatically since 1992 and provided, overall, more balanced coverage of opposition candidates and campaigns. This dualism meant that media access was unequal but not completely monopolized by the state, creating space for opposition messaging even as the state retained significant propaganda advantages.
 
 **State Broadcasting**: Kenya Broadcasting Corporation (KBC) television and Voice of Kenya radio remained entirely under state control, with editorial oversight exercised by political appointees and security force liaisons. KBC television provided disproportionate and favorable coverage to Moi and KANU campaign activities. Presidential rallies received extensive airtime with favorable editorial framing, while opposition campaign events either received minimal coverage or were presented in ways that emphasized disorder, limited attendance, or opposition radicalism. Moi's speeches were broadcast in full, while opposition candidates' remarks were edited or summarized selectively. News coverage of campaign violence or irregularities was managed to emphasize security concerns and state order rather than accountability or opposition narratives. The [[1997 Election IPPG Reforms]] had theoretically expanded opposition access to broadcast time, but implementation remained weak, with KBC exercising discretion in scheduling and coverage.
 
@@ -19,8 +19,8 @@ International observers documented these media disparities and included them in 
 ## See Also
 
 - [[1997 Election]]
-- [[State media in Kenya]]
-- [[Independent media in Kenya]]
+- State media in Kenya
+- Independent media in Kenya
 - [[Media]]
 - [[Kenya]]
 - [[Art Journalism]]

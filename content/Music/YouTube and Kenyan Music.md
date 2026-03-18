@@ -2,7 +2,7 @@ YouTube's transformation into Kenya's primary platform for music discovery, cons
 
 The platform's importance to Kenyan music predates YouTube Music's formal 2023 launch in Kenya. For over a decade before official streaming services arrived, Kenyan artists uploaded music videos to YouTube, accumulating millions of views and building audiences entirely outside traditional media structures. [[Ethic Entertainment|Ethic Entertainment]]'s "Lamba Lolo," which launched [[Gengetone Movement|Gengetone]] in May 2018, was a YouTube phenomenon first, accumulating over 4 million views before radio stations even considered playing it. This YouTube-first model bypass traditional gatekeepers entirely.
 
-The economics were revolutionary. YouTube's ad revenue sharing meant that artists with viral videos could generate income directly from views, without needing radio play, record label advances, or even professional distribution deals. For estate youth like Ethic members, [[Sailors Guild Kenya|Sailors Guild]], and dozens of other gengetone crews, YouTube ad shares represented the first viable revenue stream. The amounts were modest compared to established artists' earnings, but for young men from [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] with few economic alternatives, YouTube income was transformative.
+The economics were revolutionary. YouTube's ad revenue sharing meant that artists with viral videos could generate income directly from views, without needing radio play, record label advances, or even professional distribution deals. For estate youth like Ethic members, [[Sailors Guild Kenya|Sailors Guild]], and dozens of other gengetone crews, YouTube ad shares represented the first viable revenue stream. The amounts were modest compared to established artists' earnings, but for young men from [[Nairobi Urban Identity|Nairobi's informal settlements]] with few economic alternatives, YouTube income was transformative.
 
 The platform's algorithm favored prolific output, encouraging artists to release frequently rather than perfecting single releases. This shifted creative processes. Where earlier generations might spend months on an album, gengetone artists released new tracks weekly, feeding the algorithm and maintaining visibility. The aesthetic consequences were significant: rougher production values, lower budgets, faster turnarounds. But this rawness became part of gengetone's authenticity. Professional polish might have felt like gentrification.
 
@@ -28,7 +28,7 @@ For emerging artists in the mid-2020s, YouTube was not optional but essential. A
 - [[Music Streaming and Kenyan Artists|Music Streaming and Kenyan Artists]]
 - [[Music Videos and Visual Culture Kenya|Music Videos and Visual Culture Kenya]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Ketebul Music and Preservation|Ketebul Music and Preservation]]
 
 ## Sources

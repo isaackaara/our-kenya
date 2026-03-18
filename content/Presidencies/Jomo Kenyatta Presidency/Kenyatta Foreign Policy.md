@@ -23,9 +23,9 @@ By the mid-1970s, Kenya's foreign policy remained firmly pro-Western, though the
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
 - [[Kenyatta Economic Policy|Kenyatta Economic Policy]]
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
-- [[../../Kenya Cold War|Kenya Cold War]]
-- [[../../Kenya Britain Relations|Kenya Britain Relations]]
-- [[../../Somalia Kenya Border Dispute|Somalia Kenya Border Dispute]]
+- Kenya Cold War
+- Kenya Britain Relations
+- [[North Eastern Province|Somalia Kenya Border Dispute]]
 - [[East African Community|East African Community]]
 
 ## Sources

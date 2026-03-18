@@ -16,7 +16,7 @@ Saitoti's tenure as Vice President and then as Finance Minister during the gover
 [[Moi Cabinet and Loyalists]]
 [[Moi Economic Policy 1978-1990]]
 [[Structural Adjustment Programs Kenya]]
-[[Kenya/Finance Ministry]]
+Finance Ministry
 [[Moi Succession 1978]]
 [[Moi Post-Presidency]]
 

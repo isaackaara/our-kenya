@@ -1,6 +1,6 @@
 Nairobi transformed from a colonial administrative town into a modern African capital during the Kenyatta era, experiencing rapid urban growth, infrastructure expansion, and spatial reorganization that reflected both development ambitions and deepening inequality. The city's population grew from about 350,000 at independence in 1963 to over 800,000 by 1978, driven by rural-urban migration, natural increase, and Nairobi's centrality to Kenya's political and economic life. The physical landscape changed dramatically: skyscrapers replaced low-rise colonial buildings, new suburbs sprawled outward, and informal settlements expanded faster than formal housing could accommodate the influx.
 
-The Kenyatta government's vision for Nairobi was a showcase of African modernity and competence. The colonial city's racial segregation, with European areas in leafy suburbs like Karen and Muthaiga, Asian commercial districts in Parklands and Ngara, and African locations in Eastlands, was officially abolished. In practice, new class-based segregation replaced racial divisions, with wealthy Africans (predominantly [[Kikuyu/Kikuyu Political Elite|Kikuyu]] and politically connected individuals) moving into formerly European neighborhoods while the poor concentrated in mushrooming slums.
+The Kenyatta government's vision for Nairobi was a showcase of African modernity and competence. The colonial city's racial segregation, with European areas in leafy suburbs like Karen and Muthaiga, Asian commercial districts in Parklands and Ngara, and African locations in Eastlands, was officially abolished. In practice, new class-based segregation replaced racial divisions, with wealthy Africans (predominantly [[Kikuyu Political Elite|Kikuyu]] and politically connected individuals) moving into formerly European neighborhoods while the poor concentrated in mushrooming slums.
 
 The central business district saw the most visible transformation. The Kenyatta International Conference Centre (KICC), begun in 1967 and completed in 1973, became the iconic symbol of independent Kenya's ambitions. Its distinctive cylindrical tower and amphitheater design, inspired by traditional African architecture, dominated Nairobi's skyline. The complex hosted the Organisation of African Unity summit in 1973, demonstrating Kenya's capacity to organize major international events and Kenyatta's prominence in [[Kenyatta and Pan-Africanism|African diplomacy]].
 
@@ -32,7 +32,7 @@ By 1978, when Kenyatta died, Nairobi was unrecognizable from the colonial town o
 - [[J.M. Kariuki]]
 - [[Harambee Development Model]]
 - [[Tourism Policy Kenyatta Era]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 
 ## Sources
 1. Obudho, Robert A., and Peter P. Waller. *Periodic Markets, Urbanization, and Regional Planning: A Case Study from Western Kenya*. Greenwood Press, 1976. https://www.worldcat.org/title/periodic-markets-urbanization-and-regional-planning/oclc/2296253

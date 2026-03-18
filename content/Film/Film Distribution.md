@@ -17,7 +17,7 @@ The transition from theatrical to video distribution in the 1990s fundamentally 
 Digital distribution through internet platforms in 2000s and beyond created new distribution channels. Filmmakers could distribute directly to audiences through websites or internet platforms, reducing reliance on traditional distribution companies. This disintermediation challenged traditional distribution models though also created opportunities for direct-to-audience engagement.
 
 ## See Also
-[[Cinema Theaters]], [[Film Marketing]], [[Film Production Companies]], [[Riverwood Film Industry]], [[Film Infrastructure]], [[Television Studios]], [[Entertainment]]
+[[Cinema Theaters]], [[Film Marketing]], [[Film Production Companies]], [[Riverwood Film Industry]], [[Film Infrastructure]], [[Television Studios]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

@@ -41,9 +41,9 @@ Historically, Meru women's land rights were limited, with men holding primary ow
 - [[Meru Colonial Land Policies and Resistance]]
 - [[Njuri Ncheke]]
 - [[Meru Clan System]]
-- [[Pastoral Communities and Land Rights]]
+- Pastoral Communities and Land Rights
 - [[Mount Kenya National Park]]
-- [[Women and Land Rights in Kenya]]
+- Women and Land Rights in Kenya
 
 ## Sources
 

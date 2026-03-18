@@ -7,13 +7,13 @@ Contemporary beadwork artists build upon traditional heritage while exploring be
 Contemporary Kenyan beadwork artists navigate between cultural tradition and artistic innovation, commercial markets and artistic expression. Beadwork provides important income for many practitioners, supporting individual livelihoods and community economies. Tourism markets have created demand for beadwork products, sometimes affecting traditional forms as they adapt to commercial purposes. Contemporary artists critically engage commercialization, working to maintain cultural authenticity while also exploring new creative possibilities. Beadwork remains vital practice within Kenya's artistic and cultural landscape serving aesthetic, cultural, and economic functions.
 
 ## See Also
-- [[Maasai Culture and Beadwork]]
+- Maasai Culture and Beadwork
 - [[Traditional Crafts]]
-- [[Jewelry Making]]
-- [[Cultural Material Traditions]]
-- [[Craft Commerce and Tourism]]
-- [[Contemporary Craft Practice]]
-- [[Bead Materials and Techniques]]
+- Jewelry Making
+- Cultural Material Traditions
+- Craft Commerce and Tourism
+- Contemporary Craft Practice
+- Bead Materials and Techniques
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Beadwork - Beadwork History

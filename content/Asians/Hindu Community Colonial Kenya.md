@@ -39,7 +39,7 @@ Hindu merchants recognized the value of education for their children and investe
 - [[Indian Traders and the Duka]]
 - [[Asians in Colonial Kenya]]
 - [[Indian Labourers and the Railway]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

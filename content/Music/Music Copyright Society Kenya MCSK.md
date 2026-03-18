@@ -26,7 +26,7 @@ The ongoing MCSK crisis reflects broader challenges in Kenya's creative industri
 - [[Diaspora Kenyan Music|Diaspora Kenyan Music]]
 - [[Sauti Sol|Sauti Sol]]
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Corruption/Anglo Leasing|Anglo Leasing]]
+- Anglo Leasing
 
 ## Sources
 1. "Music Copyright Society of Kenya," Wikipedia, February 1, 2026, https://en.wikipedia.org/wiki/Music_Copyright_Society_of_Kenya

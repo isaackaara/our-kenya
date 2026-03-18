@@ -54,12 +54,12 @@ export const trails: Trail[] = [
     stops: [
       { slug: "Kikuyu/Kikuyu Resistance Pre-Mau Mau", title: "Seeds of Resistance" },
       { slug: "Kikuyu/Harry Thuku", title: "Harry Thuku's Arrest" },
-      { slug: "Kikuyu/Kenya Land and Freedom Army", title: "The Oath" },
+      { slug: "Cross-Ethnic/Kenya Land and Freedom Army", title: "The Oath" },
       { slug: "Kikuyu/Mau Mau Uprising", title: "Into the Forest" },
-      { slug: "Kikuyu/Dedan Kimathi", title: "Field Marshal Kimathi" },
+      { slug: "Counties/Nyeri/Dedan Kimathi", title: "Field Marshal Kimathi" },
       { slug: "Kikuyu/State of Emergency 1952", title: "Emergency Declared" },
       { slug: "Kikuyu/The Villagisation Program", title: "The Camps" },
-      { slug: "Kikuyu/Kenyatta Detention Legacy", title: "Kenyatta's Detention" }
+      { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Detention Legacy", title: "Kenyatta's Detention" }
     ]
   },
   {
@@ -73,7 +73,7 @@ export const trails: Trail[] = [
       { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Tom Mboya", title: "Kenyatta's Right Hand" },
       { slug: "Luo/Luo Political History", title: "Luo in National Politics" },
       { slug: "Luo/Tom Mboya Assassination", title: "Gunned Down on Moi Avenue" },
-      { slug: "Luo/Kisumu Massacre 1969", title: "Kisumu Burns" },
+      { slug: "Presidencies/Jomo Kenyatta Presidency/Kisumu Massacre 1969", title: "Kisumu Burns" },
       { slug: "Luo/Luo-Kikuyu Political Relationship", title: "The Rift Opens" },
       { slug: "Luo/Luo and the Kenyan State", title: "Locked Out of Power" }
     ]
@@ -106,7 +106,7 @@ export const trails: Trail[] = [
       { slug: "Kalenjin/Kalenjin Identity and Running", title: "Running as Identity" },
       { slug: "Sports/The Kalenjin Runners", title: "Why They Run" },
       { slug: "Kalenjin/Iten Training Camp", title: "Iten: The Home of Champions" },
-      { slug: "Sports/Eliud Kipchoge", title: "Eliud Kipchoge" },
+      { slug: "Counties/Uasin Gishu/Eliud Kipchoge", title: "Eliud Kipchoge" },
       { slug: "Sports/INEOS 159 Challenge", title: "Breaking Two" },
       { slug: "Kalenjin/Kalenjin Doping Crisis", title: "The Doping Shadow" }
     ]
@@ -134,7 +134,7 @@ export const trails: Trail[] = [
     emotionalScore: 6,
     stops: [
       { slug: "Kikuyu/White Highlands", title: "The White Highlands" },
-      { slug: "Kikuyu/Kenya Land and Freedom Army", title: "Land and Freedom" },
+      { slug: "Cross-Ethnic/Kenya Land and Freedom Army", title: "Land and Freedom" },
       { slug: "Kikuyu/Land Tenure Post Independence", title: "Independence Land Deals" },
       { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Land Policy", title: "Kenyatta Buys the Highlands" },
       { slug: "Kikuyu/Kikuyu Land Clashes Post-Independence", title: "Rift Valley Clashes" },
@@ -165,7 +165,7 @@ export const trails: Trail[] = [
     description: "The Green Belt Movement, the Nobel Prize, and resistance to authoritarianism.",
     emotionalScore: 3,
     stops: [
-      { slug: "Kikuyu/Wangari Maathai", title: "Wangari Maathai" },
+      { slug: "Conservation/Wangari Maathai", title: "Wangari Maathai" },
       { slug: "Conservation/Green Belt Movement", title: "The Green Belt Movement" },
       { slug: "Kikuyu/Mugumo Tree", title: "The Sacred Mugumo" },
       { slug: "Presidencies/Daniel arap Moi Presidency/Moi and the Opposition", title: "Standing Up to Moi" },
@@ -212,12 +212,12 @@ export const trails: Trail[] = [
     description: "Somali refugees, the world's largest refugee complex, and the politics of hospitality.",
     emotionalScore: 7,
     stops: [
-      { slug: "Somali/Dadaab Refugee Complex", title: "Dadaab Opens" },
+      { slug: "Counties/Garissa/Dadaab Refugee Complex", title: "Dadaab Opens" },
       { slug: "Somali/Somali Refugee Experience", title: "Life in the Camp" },
       { slug: "Somali/Dadaab Refugee Economy", title: "The Refugee Economy" },
       { slug: "Somali/Second Generation Refugees", title: "Born in Dadaab" },
       { slug: "Somali/Dadaab Closure Threats", title: "Closure Threats" },
-      { slug: "Somali/Garissa University Attack 2015", title: "Garissa University Attack" }
+      { slug: "Presidencies/Uhuru Kenyatta Presidency/Garissa University Attack 2015", title: "Garissa University Attack" }
     ]
   },
   {
@@ -420,8 +420,8 @@ export const trails: Trail[] = [
       emotionalScore: 4,
       stops: [
         { slug: "Political Movements/Oginga Odinga", title: "Oginga Odinga" },
-        { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
-        { slug: "Political Movements/Raila Odinga", title: "Raila Odinga" },
+        { slug: "Luo/Tom Mboya", title: "Tom Mboya" },
+        { slug: "Luo/Raila Odinga", title: "Raila Odinga" },
         { slug: "Political Movements/Kijana Wamalwa", title: "Kijana Wamalwa" },
         { slug: "Political Movements/George Saitoti", title: "George Saitoti" },
         { slug: "Political Movements/Musalia Mudavadi", title: "Musalia Mudavadi" },
@@ -441,7 +441,7 @@ export const trails: Trail[] = [
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kapenguria trial 1952-1953", title: "Kapenguria Trial" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Detention at Lokitaung", title: "Detention at Lokitaung" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta release April 1961", title: "Release from Detention" },
-        { slug: "Political Movements/The Lancaster House Conferences", title: "Lancaster House" },
+        { slug: "Europeans/The Lancaster House Conferences", title: "Lancaster House" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Rise to Power", title: "Rise to Power" }
       ]
     },
@@ -506,7 +506,7 @@ export const trails: Trail[] = [
         { slug: "Political Movements/Ngugi wa Thiong'o Detention", title: "Ngugi wa Thiong'o" },
         { slug: "Political Movements/Koigi wa Wamwere", title: "Koigi wa Wamwere" },
         { slug: "Political Movements/Raila Odinga Detentions", title: "Raila Odinga" },
-        { slug: "Political Movements/Wangari Maathai", title: "Wangari Maathai" },
+        { slug: "Conservation/Wangari Maathai", title: "Wangari Maathai" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Release of Political Prisoners 1997", title: "1997 Releases" },
         { slug: "Presidencies/Mwai Kibaki Presidency/End of Political Detention", title: "End of Detention" }
       ]
@@ -518,7 +518,7 @@ export const trails: Trail[] = [
       description: "Tom Mboya's assassination, the Kisumu Massacre, the one-party creep",
       emotionalScore: 9,
       stops: [
-        { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
+        { slug: "Luo/Tom Mboya", title: "Tom Mboya" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination 1969", title: "Mboya Assassination" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kisumu Massacre 1969", title: "Kisumu Massacre" },
         { slug: "Elections/1969 Election/1969 Election KPU Ban", title: "KPU Ban" },
@@ -551,9 +551,9 @@ export const trails: Trail[] = [
       description: "How Kenya got back democracy in 1991-2002",
       emotionalScore: 5,
       stops: [
-        { slug: "Political Movements/The Second Liberation", title: "The Second Liberation" },
-        { slug: "Political Movements/Saba Saba 1990", title: "Saba Saba 1990" },
-        { slug: "Political Movements/Kenneth Matiba", title: "Kenneth Matiba" },
+        { slug: "Cross-Ethnic/The Second Liberation", title: "The Second Liberation" },
+        { slug: "Kikuyu/Saba Saba 1990", title: "Saba Saba 1990" },
+        { slug: "Kikuyu/Kenneth Matiba", title: "Kenneth Matiba" },
         { slug: "Political Movements/Charles Rubia", title: "Charles Rubia" },
         { slug: "Elections/1992 Election/1992 Election Pressure for Reform", title: "Pressure for Reform" },
         { slug: "Elections/1992 Election/1992 Election", title: "1992 Election" },
@@ -648,7 +648,7 @@ export const trails: Trail[] = [
       description: "A counterfactual: what Kenya might have been without the 1969 assassination",
       emotionalScore: 4,
       stops: [
-        { slug: "Political Movements/Tom Mboya", title: "Tom Mboya" },
+        { slug: "Luo/Tom Mboya", title: "Tom Mboya" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Tom Mboya Assassination 1969", title: "Assassination" },
         { slug: "Elections/1969 Election/1969 Election Luo Exclusion", title: "Luo Exclusion" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Asian Community Under Kenyatta", title: "Succession Planning" },
@@ -726,7 +726,7 @@ export const trails: Trail[] = [
       description: "The Kikuyu Central Association from 1921 to Kenyatta",
       emotionalScore: 4,
       stops: [
-        { slug: "Kikuyu/Kikuyu Central Association", title: "The First Political Party" },
+        { slug: "Religion/Kikuyu Central Association", title: "The First Political Party" },
         { slug: "Kikuyu/KCA Land Petition to London", title: "Appealing to the King" },
         { slug: "Kikuyu/Jomo Kenyatta", title: "The Young Organizer" },
         { slug: "Kikuyu/Kenyatta in London 1929-1946", title: "Seventeen Years Abroad" },
@@ -774,8 +774,8 @@ export const trails: Trail[] = [
       emotionalScore: 8,
       stops: [
         { slug: "Kikuyu/Mau Mau Uprising", title: "The War for Land and Freedom" },
-        { slug: "Kikuyu/Kenya Land and Freedom Army", title: "The Forest Fighters" },
-        { slug: "Kikuyu/Dedan Kimathi", title: "Field Marshal of the Forest" },
+        { slug: "Cross-Ethnic/Kenya Land and Freedom Army", title: "The Forest Fighters" },
+        { slug: "Counties/Nyeri/Dedan Kimathi", title: "Field Marshal of the Forest" },
         { slug: "Kikuyu/Mau Mau Forest Bases", title: "Living in the Aberdares" },
         { slug: "Kikuyu/Mau Mau Weapons and Tactics", title: "The Guerrilla Arsenal" },
         { slug: "Kikuyu/Mau Mau Women Fighters", title: "The Women Who Fought" },
@@ -807,7 +807,7 @@ export const trails: Trail[] = [
       description: "Capture, trial, and execution: the making of a martyr",
       emotionalScore: 9,
       stops: [
-        { slug: "Kikuyu/Dedan Kimathi", title: "Field Marshal Kimathi" },
+        { slug: "Counties/Nyeri/Dedan Kimathi", title: "Field Marshal Kimathi" },
         { slug: "Kikuyu/Kimathi Capture 1956", title: "The Trap and the Betrayal" },
         { slug: "Kikuyu/Kimathi Trial", title: "Colonial Justice" },
         { slug: "Kikuyu/Kimathi Execution 1957", title: "The Hanging" },
@@ -838,7 +838,7 @@ export const trails: Trail[] = [
       description: "Post-independence Kikuyu ethnic mobilization",
       emotionalScore: 4,
       stops: [
-        { slug: "Kikuyu/Kikuyu Central Association", title: "The Ethnic Alliance" },
+        { slug: "Religion/Kikuyu Central Association", title: "The Ethnic Alliance" },
         { slug: "Kikuyu/GEMA and Kikuyu Unity", title: "Business and Politics Combined" },
         { slug: "Kikuyu/GEMA and the Moi Presidency", title: "The Threat to Kalenjin Power" },
         { slug: "Kikuyu/GEMA Banned 1980", title: "Moi Shuts It Down" },
@@ -855,11 +855,11 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Conservation/Wangari Maathai", title: "Nyeri's Daughter" },
         { slug: "Conservation/Green Belt Movement", title: "Trees, Women, Democracy" },
-        { slug: "Kikuyu/Wangari Maathai", title: "Defying the President" },
+        { slug: "Conservation/Wangari Maathai", title: "Defying the President" },
         { slug: "Kikuyu/Uhuru Park Battle", title: "The Fight for Nairobi's Green Space" },
         { slug: "Kikuyu/Wangari Maathai Nobel Prize 2004", title: "Africa's First Woman Nobel Laureate" },
-        { slug: "Kikuyu/Wangari Maathai", title: "The Nation Mourns" },
-        { slug: "Kikuyu/Wangari Maathai", title: "What She Left Behind" }
+        { slug: "Conservation/Wangari Maathai", title: "The Nation Mourns" },
+        { slug: "Conservation/Wangari Maathai", title: "What She Left Behind" }
       ]
     },
     {
@@ -870,7 +870,7 @@ export const trails: Trail[] = [
       emotionalScore: 5,
       stops: [
         { slug: "Kikuyu/Mount Kenya Mafia", title: "The Business Elite" },
-        { slug: "Kikuyu/Kenyatta Family Business", title: "The First Family's Empire" },
+        { slug: "Corporate Kenya/Kenyatta Family Business", title: "The First Family's Empire" },
         { slug: "Kikuyu/Kikuyu Land Buying Companies", title: "Pooling Resources to Buy Back the Highlands" },
         { slug: "Kikuyu/Kikuyu Rainmaking", title: "Controlling the Money" },
         { slug: "Corporate Kenya/Kenyatta Family Business", title: "The Presidential Portfolio" },
@@ -902,7 +902,7 @@ export const trails: Trail[] = [
       description: "Post-election violence in Kikuyu heartland",
       emotionalScore: 9,
       stops: [
-        { slug: "Counties/Murang'a/Murang'a County", title: "Fort Hall and the Kikuyu Heartland" },
+        { slug: "Kikuyu/Murang'a County", title: "Fort Hall and the Kikuyu Heartland" },
         { slug: "Elections/2007-08 Post-Election Violence/2007-08 PEV Nairobi Gangs", title: "The Mungiki Factor" },
         { slug: "Kikuyu/Mungiki Movement", title: "The Sect That Became a Militia" },
         { slug: "Kikuyu/Kikuyu Self-Defense 2007-2008", title: "Vigilante Response to Rift Valley Expulsions" },
@@ -920,7 +920,7 @@ export const trails: Trail[] = [
         { slug: "Kikuyu/Presbyterian Mission to the Kikuyu", title: "The Scots Arrive" },
         { slug: "Europeans/Church of Scotland Mission", title: "Thogoto and Tumutumu" },
         { slug: "Kikuyu/Female Circumcision Controversy", title: "The Great Schism of 1929" },
-        { slug: "Kikuyu/Kikuyu Independent Schools", title: "Breaking Away from Mission Control" },
+        { slug: "Education/Kikuyu Independent Schools", title: "Breaking Away from Mission Control" },
         { slug: "Kikuyu/Presbyterianism and Kikuyu Identity", title: "How the Kirk Shaped the Kikuyu" },
         { slug: "Kikuyu/Presbyterian Church of East Africa (PCEA)", title: "The Independent African Church" },
         { slug: "Kikuyu/PCEA and Kikuyu Politics", title: "The Pulpit and the Presidency" }
@@ -933,8 +933,8 @@ export const trails: Trail[] = [
       description: "Kikuyu-owned schools as anti-colonial resistance",
       emotionalScore: 4,
       stops: [
-        { slug: "Kikuyu/Kikuyu Independent Schools", title: "The Schools We Built Ourselves" },
-        { slug: "Kikuyu/Githunguri Teachers College", title: "The Crown Jewel" },
+        { slug: "Education/Kikuyu Independent Schools", title: "The Schools We Built Ourselves" },
+        { slug: "Education/Githunguri Teachers College", title: "The Crown Jewel" },
         { slug: "Kikuyu/KISA and KKEA", title: "The Independent Schools Associations" },
         { slug: "Kikuyu/Jomo Kenyatta and Githunguri", title: "Kenyatta as Principal" },
         { slug: "Kikuyu/Closure of Independent Schools 1952", title: "The Emergency Shuts Them Down" },
@@ -1063,7 +1063,7 @@ export const trails: Trail[] = [
         { slug: "Luo/Oginga Odinga Deep Dive", title: "Oginga Odinga Deep Dive" },
         { slug: "Elections/1963 Election/1963 Election Oginga Odinga", title: "1963 Election" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Oginga Odinga", title: "Kenyatta and Oginga Odinga" },
-        { slug: "Luo/Kisumu Massacre 1969", title: "The Kisumu Massacre 1969" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kisumu Massacre 1969", title: "The Kisumu Massacre 1969" },
         { slug: "Presidencies/Daniel arap Moi Presidency/Moi and Oginga Odinga", title: "Moi and Oginga Odinga" },
         { slug: "Elections/1992 Election/1992 Election Oginga Odinga", title: "1992 Election" },
         { slug: "Luo/Luo Political Philosophy", title: "Luo Political Philosophy" }
@@ -1080,7 +1080,7 @@ export const trails: Trail[] = [
         { slug: "Counties/Siaya/Barack Obama Sr and Siaya", title: "Barack Obama Sr and Siaya" },
         { slug: "Counties/Siaya/Kogelo Village", title: "Kogelo Village" },
         { slug: "Counties/Siaya/Siaya and Obama Foundation", title: "Siaya and Obama Foundation" },
-        { slug: "Counties/Siaya/Siaya County", title: "Siaya County" },
+        { slug: "Luo/Siaya County", title: "Siaya County" },
         { slug: "Luo/Luo and Sports", title: "Luo Diaspora" }
       ]
     },
@@ -1125,7 +1125,7 @@ export const trails: Trail[] = [
       description: "When Kenyatta's security forces opened fire on a crowd greeting Odinga",
       emotionalScore: 10,
       stops: [
-        { slug: "Luo/Kisumu Massacre 1969", title: "The Kisumu Massacre 1969" },
+        { slug: "Presidencies/Jomo Kenyatta Presidency/Kisumu Massacre 1969", title: "The Kisumu Massacre 1969" },
         { slug: "Counties/Kisumu/Kisumu Colonial History", title: "Kisumu Under Colonial Rule" },
         { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta and Oginga Odinga", title: "Kenyatta and Oginga Odinga" },
         { slug: "Luo/Luo and the Kenyan State", title: "Luo and the Kenyan State" },
@@ -1160,7 +1160,7 @@ export const trails: Trail[] = [
         { slug: "Luo/Tom Mboya", title: "Tom Mboya" },
         { slug: "Counties/Homa Bay/Tom Mboya and Homa Bay", title: "Tom Mboya and Homa Bay" },
         { slug: "Counties/Homa Bay/Homa Bay Fossil Sites", title: "Fossil Sites" },
-        { slug: "Counties/Homa Bay/Homa Bay County", title: "Homa Bay County" },
+        { slug: "Luo/Homa Bay County", title: "Homa Bay County" },
         { slug: "Counties/Homa Bay/Homa Bay Lake Victoria Ecology", title: "Lake Victoria Ecology" }
       ]
     },
@@ -1221,8 +1221,8 @@ export const trails: Trail[] = [
         { slug: "Luo/Nyanza Province History", title: "Nyanza Province History" },
         { slug: "Counties/Kisumu/Kisumu Economy", title: "Kisumu's Economy: Fishing, Agriculture, and Regional Decline" },
         { slug: "Counties/Kisumu/Kisumu and Rwanda", title: "Kisumu and Rwanda: A Development Comparison" },
-        { slug: "Counties/Siaya/Siaya County", title: "Siaya County" },
-        { slug: "Counties/Homa Bay/Homa Bay County", title: "Homa Bay County" },
+        { slug: "Luo/Siaya County", title: "Siaya County" },
+        { slug: "Luo/Homa Bay County", title: "Homa Bay County" },
         { slug: "Luo/Luo and the Informal Economy", title: "Luo and the Informal Economy" },
         { slug: "Counties/Kisumu/Kisumu Youth Unemployment", title: "Kisumu Youth Unemployment: The Boda Boda Economy" },
         { slug: "Luo/Luo and Urban Economy", title: "Luo and Urban Economy" }
@@ -1256,7 +1256,7 @@ export const trails: Trail[] = [
         { slug: "Luo/Barack Obama Sr", title: "Barack Obama Sr" },
         { slug: "Counties/Siaya/Barack Obama Sr and Siaya", title: "Barack Obama Sr and Siaya" },
         { slug: "Luo/Gem Constituency", title: "Gem Constituency" },
-        { slug: "Counties/Siaya/Siaya County", title: "Siaya County" },
+        { slug: "Luo/Siaya County", title: "Siaya County" },
         { slug: "Counties/Siaya/Siaya and Obama Foundation", title: "Siaya and Obama Foundation" },
         { slug: "Luo/Luo and Sports", title: "Luo Diaspora" }
       ]
@@ -1298,9 +1298,9 @@ export const trails: Trail[] = [
       description: "From the Serengeti to the Mara and back, the greatest wildlife spectacle on earth",
       emotionalScore: 2,
       stops: [
-        { slug: "Conservation/The Great Migration", title: "The Great Migration" },
+        { slug: "Counties/Narok/The Great Migration", title: "The Great Migration" },
         { slug: "Conservation/Maasai Mara National Reserve", title: "Maasai Mara National Reserve" },
-        { slug: "Counties/Narok/Maasai Mara National Reserve", title: "Maasai Mara in Narok County" },
+        { slug: "Conservation/Maasai Mara National Reserve", title: "Maasai Mara in Narok County" },
         { slug: "Counties/Narok/Narok Wildlife", title: "Narok Wildlife" },
         { slug: "Conservation/Climate Change and Wildlife", title: "Climate Change and Wildlife" },
         { slug: "Conservation/Tourism Revenue and Communities", title: "Tourism Revenue and Communities" },
@@ -1333,7 +1333,7 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Conservation/Rhinoceros in Kenya", title: "Rhinoceros in Kenya" },
         { slug: "Conservation/Rhino Conservation Kenya", title: "Rhino Conservation Kenya" },
-        { slug: "Counties/Laikipia/Ol Pejeta Conservancy", title: "Ol Pejeta Conservancy" },
+        { slug: "Conservation/Ol Pejeta Conservancy", title: "Ol Pejeta Conservancy" },
         { slug: "Conservation/Ol Pejeta Conservancy", title: "Ol Pejeta Conservancy" },
         { slug: "Conservation/Poaching Crisis 1970s-1980s", title: "Poaching Crisis (1970s-1980s)" },
         { slug: "Conservation/Anti-Poaching Technology", title: "Anti-Poaching Technology" },
@@ -1365,7 +1365,7 @@ export const trails: Trail[] = [
       emotionalScore: 7,
       stops: [
         { slug: "Conservation/Joy Adamson Born Free", title: "Joy Adamson Born Free" },
-        { slug: "Counties/Meru/Meru National Park", title: "Meru National Park" },
+        { slug: "Conservation/Meru National Park", title: "Meru National Park" },
         { slug: "Conservation/Meru National Park", title: "Meru National Park" },
         { slug: "Counties/Isiolo/Joy Adamson in Shaba", title: "Joy Adamson in Shaba" },
         { slug: "Counties/Isiolo/Shaba National Reserve", title: "Shaba National Reserve" },
@@ -1382,7 +1382,7 @@ export const trails: Trail[] = [
       emotionalScore: 2,
       stops: [
         { slug: "Conservation/Maasai Mara National Reserve", title: "Maasai Mara National Reserve" },
-        { slug: "Counties/Narok/Maasai Mara National Reserve", title: "Maasai Mara in Narok County" },
+        { slug: "Conservation/Maasai Mara National Reserve", title: "Maasai Mara in Narok County" },
         { slug: "Conservation/Maasai Mara Conservancies", title: "Maasai Mara Conservancies" },
         { slug: "Conservation/Tourism Revenue and Communities", title: "Tourism Revenue and Communities" },
         { slug: "Conservation/Human-Wildlife Conflict", title: "Human-Wildlife Conflict" },
@@ -1413,12 +1413,12 @@ export const trails: Trail[] = [
       description: "The world's largest alkaline lake, the wind farm, the fossil sites, the fishing communities",
       emotionalScore: 3,
       stops: [
-        { slug: "Counties/Turkana County/Lake Turkana", title: "Lake Turkana" },
+        { slug: "Turkana/Lake Turkana", title: "Lake Turkana" },
         { slug: "Counties/Turkana County/Lake Turkana Wind Power", title: "Lake Turkana Wind Power" },
         { slug: "Counties/Turkana County/Koobi Fora", title: "Koobi Fora" },
         { slug: "Counties/Turkana County/Sibiloi National Park", title: "Sibiloi National Park" },
-        { slug: "Counties/Turkana County/Turkana Boy", title: "Turkana Boy" },
-        { slug: "Counties/Turkana County/Turkana Fishing", title: "Turkana Fishing" },
+        { slug: "Turkana/Turkana Boy", title: "Turkana Boy" },
+        { slug: "Turkana/Turkana Fishing", title: "Turkana Fishing" },
         { slug: "Counties/Turkana County/Cradle of Mankind Turkana", title: "Cradle of Mankind Turkana" },
         { slug: "Counties/Marsabit/Lake Turkana Shore", title: "Lake Turkana's Eastern Shore in Marsabit County" }
       ]
@@ -1431,7 +1431,7 @@ export const trails: Trail[] = [
       emotionalScore: 4,
       stops: [
         { slug: "Conservation/Tsavo East and West", title: "Tsavo East and West" },
-        { slug: "Asians/Tsavo Man-Eaters", title: "Tsavo Man-Eaters" },
+        { slug: "Counties/Taita-Taveta/Tsavo Man-Eaters", title: "Tsavo Man-Eaters" },
         { slug: "Counties/Taita-Taveta/Tsavo Man-Eaters", title: "Tsavo Man-Eaters" },
         { slug: "Counties/Taita-Taveta/Tsavo East National Park", title: "Tsavo East National Park" },
         { slug: "Counties/Taita-Taveta/Tsavo West National Park", title: "Tsavo West National Park" },
@@ -1447,7 +1447,7 @@ export const trails: Trail[] = [
       emotionalScore: 2,
       stops: [
         { slug: "Conservation/Hell's Gate National Park", title: "Hell's Gate National Park" },
-        { slug: "Counties/Nakuru/Hell's Gate National Park", title: "Hell's Gate National Park" },
+        { slug: "Conservation/Hell's Gate National Park", title: "Hell's Gate National Park" },
         { slug: "Conservation/Kenya Wildlife Service", title: "Kenya Wildlife Service" },
         { slug: "Counties/Nakuru/Lake Naivasha", title: "Lake Naivasha" },
         { slug: "Conservation/Lake Naivasha Ecosystem", title: "Lake Naivasha Ecosystem" },
@@ -1496,7 +1496,7 @@ export const trails: Trail[] = [
         { slug: "Conservation/Rhino Conservation Kenya", title: "Rhino Conservation Kenya" },
         { slug: "Conservation/Poaching Crisis 1970s-1980s", title: "Poaching Crisis (1970s-1980s)" },
         { slug: "Conservation/Ol Pejeta Conservancy", title: "Ol Pejeta Conservancy" },
-        { slug: "Counties/Laikipia/Lewa Wildlife Conservancy", title: "Lewa Wildlife Conservancy" },
+        { slug: "Conservation/Lewa Wildlife Conservancy", title: "Lewa Wildlife Conservancy" },
         { slug: "Conservation/Lewa Wildlife Conservancy", title: "Lewa Wildlife Conservancy" }
       ]
     },
@@ -1540,8 +1540,8 @@ export const trails: Trail[] = [
       emotionalScore: 5,
       stops: [
         { slug: "Conservation/Grevy's Zebra", title: "Grevy's Zebra" },
-        { slug: "Counties/Samburu County/Samburu National Reserve County", title: "Samburu National Reserve" },
-        { slug: "Conservation/Samburu National Reserve", title: "Samburu National Reserve" },
+        { slug: "Counties/Samburu/Samburu National Reserve County", title: "Samburu National Reserve" },
+        { slug: "Samburu/Samburu National Reserve", title: "Samburu National Reserve" },
         { slug: "Conservation/Northern Rangelands Trust", title: "Northern Rangelands Trust" },
         { slug: "Counties/Laikipia/Laikipia Wildlife Conservancies", title: "Laikipia Wildlife Conservancies" },
         { slug: "Conservation/Climate Change and Wildlife", title: "Climate Change and Wildlife" }
@@ -1860,7 +1860,7 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Maasai/Maasai_Marriage", title: "Marriage Arrangements and Agency" },
         { slug: "Maasai/Maasai_Birth_and_Childhood", title: "Childhood and Socialization" },
-        { slug: "Maasai/Samburu Early Marriage", title: "Early Marriage Pressures" },
+        { slug: "Samburu/Samburu Early Marriage", title: "Early Marriage Pressures" },
         { slug: "Maasai/Maasai_Women", title: "Women's Roles in Family Life" },
         { slug: "Maasai/Maasai_Architecture", title: "Women Build the Home" },
         { slug: "Maasai/Young_Maasai_Identity", title: "Youth Challenging Traditions" },
@@ -1955,13 +1955,13 @@ export const trails: Trail[] = [
     description: "From Kikuyu initiation songs to coded resistance anthems in the forest, the music they sang when words were weapons.",
     emotionalScore: 6,
     stops: [
-      { slug: "Kikuyu/Kikuyu Traditional Music", title: "Before the War" },
+      { slug: "Music/Kikuyu Traditional Music", title: "Before the War" },
       { slug: "Music/Mau Mau Songs and the Forest", title: "Songs in the Forest" },
       { slug: "Kikuyu/Mau Mau Uprising", title: "The Uprising" },
       { slug: "Music/Music and Colonial Resistance", title: "Music as Resistance" },
-      { slug: "Kikuyu/Dedan Kimathi", title: "Kimathi's Leadership" },
+      { slug: "Counties/Nyeri/Dedan Kimathi", title: "Kimathi's Leadership" },
       { slug: "Music/Colonial Music Censorship Kenya", title: "Silencing Dissent" },
-      { slug: "Kikuyu/Kenya Land and Freedom Army", title: "After the War" }
+      { slug: "Cross-Ethnic/Kenya Land and Freedom Army", title: "After the War" }
     ]
   },
   {
@@ -1975,7 +1975,7 @@ export const trails: Trail[] = [
       { slug: "Music/Luo Benga Origins", title: "Birth of Benga" },
       { slug: "Music/Benga Music", title: "The Sound Defined" },
       { slug: "Music/George Ramogi", title: "George Ramogi" },
-      { slug: "Music/D.O. Misiani", title: "D.O. Misiani" },
+      { slug: "Luo/D.O. Misiani", title: "D.O. Misiani" },
       { slug: "Music/Benga Guitar Technique", title: "The Guitar Innovation" },
       { slug: "Music/Luo Benga and Nyanza Identity", title: "Luo Identity in Song" },
       { slug: "Music/Benga and Political Protest", title: "Politics in Benga" }
@@ -1988,7 +1988,7 @@ export const trails: Trail[] = [
     description: "D.O. Misiani's political songs, his clash with Moi's government, and how they tried to erase music that spoke too loudly.",
     emotionalScore: 6,
     stops: [
-      { slug: "Music/D.O. Misiani", title: "The Musician" },
+      { slug: "Luo/D.O. Misiani", title: "The Musician" },
       { slug: "Music/Benga and Political Protest", title: "Songs Against Power" },
       { slug: "Presidencies/Daniel arap Moi Presidency/Moi and the Media", title: "Moi's Media Control" },
       { slug: "Music/Moi Era Music and Censorship", title: "Censorship Under Moi" },
@@ -2039,7 +2039,7 @@ export const trails: Trail[] = [
       { slug: "Music/Musical Instruments of Kenya - Percussion", title: "Kenya's Drums" },
       { slug: "Luhya/Luhya Music Traditions", title: "Luhya Isukuti" },
       { slug: "Music/Luhya Isukuti Drum Music", title: "The Isukuti Drum" },
-      { slug: "Kikuyu/Kikuyu Traditional Music", title: "Kikuyu Percussion" },
+      { slug: "Music/Kikuyu Traditional Music", title: "Kikuyu Percussion" },
       { slug: "Music/Beni Ngoma Colonial Era", title: "Beni Dance" },
       { slug: "Music/Independence Anthems Kenya", title: "Independence Music" },
       { slug: "Music/Music and Nation Building Kenya 1963-1978", title: "Nation-Building Soundtrack" }
@@ -2199,7 +2199,7 @@ export const trails: Trail[] = [
       { slug: "Music/Moi Era Music and Censorship", title: "Moi's Censorship" },
       { slug: "Presidencies/Daniel arap Moi Presidency/Moi and the Media", title: "Media Control" },
       { slug: "Music/Benga and Political Protest", title: "Benga's Coded Protest" },
-      { slug: "Music/D.O. Misiani", title: "Misiani's Exile" },
+      { slug: "Luo/D.O. Misiani", title: "Misiani's Exile" },
       { slug: "Music/Music and the 1982 Coup Kenya", title: "The 1982 Coup" },
       { slug: "Presidencies/Daniel arap Moi Presidency/Moi Detention Policy", title: "Detention State" },
       { slug: "Music/Music and the Multiparty Era", title: "Liberation Music" }

@@ -20,10 +20,10 @@ The regional variation in sailing technology reflected local optimization and ac
 
 ## See Also
 
-[[Dhow Culture Navigation]]
-[[Sailing Innovation]]
+Dhow Culture Navigation
+Sailing Innovation
 [[Technology]]
-[[Maritime Traditions]]
+Maritime Traditions
 [[Merchant Vessels]]
 
 ## Sources

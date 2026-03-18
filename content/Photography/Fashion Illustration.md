@@ -7,13 +7,13 @@ Fashion illustration employs various media including watercolor, marker, collage
 Contemporary fashion illustration in Kenya contributes to fashion design, fashion publication, and artistic expression. Fashion illustrators create work for local designers, fashion magazines, and commercial clients. The continued importance of visual communication in fashion design sustains fashion illustration practice. Artistic fashion illustration exploring aesthetic and conceptual dimensions has also developed as fine art practice distinct from commercial design. Fashion illustration remains valued practice within Kenya's design and fashion industries. The combination of technical skill, artistic expression, and fashion knowledge required for fashion illustration continues attracting talented practitioners.
 
 ## See Also
-- [[Fashion Design Kenya]]
-- [[Clothing and Representation]]
-- [[Design Communication]]
-- [[Artistic Figure Drawing]]
-- [[Fabric and Texture Representation]]
+- Fashion Design Kenya
+- Clothing and Representation
+- Design Communication
+- Artistic Figure Drawing
+- Fabric and Texture Representation
 - [[Illustration Art]]
-- [[Contemporary Fashion Art]]
+- Contemporary Fashion Art
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Fashion_illustration - Fashion Illustration History

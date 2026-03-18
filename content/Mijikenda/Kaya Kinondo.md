@@ -1,4 +1,4 @@
-Kaya Kinondo is one of the most accessible and well-studied [[sacred]] [[forest]] sites in the [[Mijikenda]] kaya system. Located in Kwale County in the Shimba Hills area, Kaya Kinondo has become an important center for understanding Mijikenda spiritual traditions and colonial-era history.
+Kaya Kinondo is one of the most accessible and well-studied sacred forest sites in the [[Mijikenda]] kaya system. Located in Kwale County in the Shimba Hills area, Kaya Kinondo has become an important center for understanding Mijikenda spiritual traditions and colonial-era history.
 
 ## Geography and Location
 

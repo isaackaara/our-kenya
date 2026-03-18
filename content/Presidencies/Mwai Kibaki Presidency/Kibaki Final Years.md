@@ -21,10 +21,10 @@ Kibaki's post-presidency would find him largely retired from public life. He rem
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya 2013 Election|Kenya 2013 Election]]
+- [[2013 Presidential Election|Kenya 2013 Election]]
 - [[Uhuru Kenyatta|Uhuru Kenyatta]]
-- [[Kenya Constitutional Transition|Kenya Constitutional Transition]]
-- [[Kenya Post-2010 Politics|Kenya Post-2010 Politics]]
+- Kenya Constitutional Transition
+- Kenya Post-2010 Politics
 
 ## Sources
 

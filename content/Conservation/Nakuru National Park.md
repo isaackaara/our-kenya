@@ -45,7 +45,7 @@ The park demonstrates conservation principles and challenges: intensive manageme
 - [[Rhino Conservation Kenya]] - Black rhino recovery strategies
 - [[Homa Bay Lake Victoria Ecology]] - Alkaline water systems
 - [[Flamingo Ecology Rift Valley]] - Bird conservation
-- [[Water Stress and Climate Vulnerability]] - Lake ecosystem resilience
+- Water Stress and Climate Vulnerability - Lake ecosystem resilience
 - [[Human-Wildlife Conflict]] - Hippo management issues
 - [[Tourism Revenue and Communities]] - Overcrowding impacts
 - [[Rift Valley]] - Regional ecosystem context

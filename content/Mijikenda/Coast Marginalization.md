@@ -8,7 +8,7 @@ At independence, the dominant political faction (KANU) was led by Kikuyu elites 
 
 ## Economic Marginalization
 
-Coastal development has lagged significantly behind highland and western regions. Infrastructure investment (roads, ports, electricity, water) has been limited. Educational and healthcare services are less developed than in politically favored regions. The coast's economic base (fishing, agriculture, tourism) has been constrained by limited government investment and by external factors (overfishing, climate variability, [[land]] alienation).
+Coastal development has lagged significantly behind highland and western regions. Infrastructure investment (roads, ports, electricity, water) has been limited. Educational and healthcare services are less developed than in politically favored regions. The coast's economic base (fishing, agriculture, tourism) has been constrained by limited government investment and by external factors (overfishing, climate variability, land alienation).
 
 Tourism, though potentially an engine of coastal development, has primarily benefited outsiders and non-coastal investors rather than coastal communities. The profits from tourism have often accrued to Nairobi-based companies, multinational hotel chains, and outside investors rather than to local coastal communities.
 

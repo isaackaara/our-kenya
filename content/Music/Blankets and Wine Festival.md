@@ -25,7 +25,7 @@ By the mid-2020s, Blankets and Wine had established itself as essential Nairobi 
 - [[Bensoul|Bensoul]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 
 ## Sources
 1. "Blankets & Wine Kenya," official website, https://blanketsandwine.com/kenya/

@@ -1,4 +1,4 @@
-[[Islam]] has had an uneven presence among the [[Mijikenda Overview|Mjikenda peoples]], with adoption varying by sub-group, location, and historical period. The Digo, living in proximity to the Swahili coast and with strong connections to Tanzania, have adopted Islam more extensively than northern Mjikenda groups. The Giriama and other northern groups have predominantly adopted Christianity or retained traditional religious practices.
+[[islam]] has had an uneven presence among the [[Mijikenda Overview|Mjikenda peoples]], with adoption varying by sub-group, location, and historical period. The Digo, living in proximity to the Swahili coast and with strong connections to Tanzania, have adopted Islam more extensively than northern Mjikenda groups. The Giriama and other northern groups have predominantly adopted Christianity or retained traditional religious practices.
 
 ## Historical Islamisation
 

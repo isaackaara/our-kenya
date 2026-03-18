@@ -13,8 +13,8 @@ The print advertising decline represented fundamental disruption of newspaper bu
 [[Digital Media Shift]]
 [[Advertising Media Kenya]]
 [[Media Ownership Control]]
-[[Newspaper Economics]]
-[[Technology/Digital Disruption]]
+Newspaper Economics
+Digital Disruption
 
 ## Sources
 1. https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/kenya

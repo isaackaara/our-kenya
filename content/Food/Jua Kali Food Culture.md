@@ -17,11 +17,11 @@ The sector's resilience demonstrated that informal food systems met real needs a
 ## See Also
 
 [[Development Aid]]
-[[Informal Economy]]
+[[Informal Economy Kenya]]
 [[Nairobi]]
 [[Poverty]]
-[[Worker Income Strategies]]
-[[Market Trade Systems]]
+Worker Income Strategies
+Market Trade Systems
 [[Food Safety Standards]]
 
 ## Sources

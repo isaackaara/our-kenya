@@ -6,7 +6,7 @@ The context of harambee economic impact illuminates how local, regional, and nat
 
 ## See Also
 
-[[Society]], [[Kenya History]], [[Historical Development]]
+Society, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

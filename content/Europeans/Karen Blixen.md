@@ -50,7 +50,7 @@ Kenyan writers, particularly [[Ngugi wa Thiong o]], have critiqued the cultural 
 - [[Elspeth Huxley]] - Contemporary settler chronicler
 - [[Ngong Hills]] - Location of her farm
 - [[Happy Valley Set]] - Settler elite society
-- [[Post-Colonial Critiques of Blixen]] - African literary responses
+- Post-Colonial Critiques of Blixen - African literary responses
 
 Blixen herself claimed not to be a political writer. She insisted that "Out of Africa" was a personal, literary work, not a historical account. However, literary works are also historical interventions. The international influence of "Out of Africa" means that many people's first impression of Kenya, of colonialism, and of African people came through Blixen's romantic narrative.
 

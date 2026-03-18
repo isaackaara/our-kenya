@@ -12,7 +12,7 @@ The election outcome was thus not purely a product of internal Kenyan politics b
 
 ## See Also
 
-- [[Cold War in Africa]]
+- Cold War in Africa
 - [[Luo and the British]]
 - [[Moi Foreign Policy]]
 - [[Jomo Kenyatta]]

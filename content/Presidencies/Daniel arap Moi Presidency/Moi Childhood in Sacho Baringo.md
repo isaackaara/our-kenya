@@ -9,9 +9,9 @@ The Great Depression and the Second World War bookended Moi's childhood and earl
 Moi's relationship with Sacho remained sentimental rather than practical throughout his adult life. Sacho itself was never a seat of power or wealth for him; his investments in land and cattle were concentrated elsewhere, particularly in the Rift Valley and in Kikuyu highlands. Yet the memory of Sacho persisted in his political identity. He returned occasionally, received honours from elders, and invoked his pastoral roots as a symbol of authenticity and connection to ordinary Kenyans. The invention of the Sacho origin story was part of the larger construction of Moi as the embodiment of Kalenjin interests and as a figure rooted in Kenya's interior rather than in the colonial coast.
 
 ## See Also
-[[Kalenjin/Early History]]
-[[Kalenjin/Pastoral Life]]
-[[Colonial Kenya/Rift Valley Administration]]
+Early History
+Pastoral Life
+Rift Valley Administration
 [[Moi Rise to Power]]
 [[Moi and the Kalenjin]]
 [[Moi Nyayo Philosophy]]

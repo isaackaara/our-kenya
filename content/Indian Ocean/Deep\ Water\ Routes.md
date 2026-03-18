@@ -1,4 +1,4 @@
-The [[Deep Water Routes]] across the Indian Ocean represented the primary long-distance trading pathways where merchant vessels could maintain course without detailed knowledge of coastal geography. The freedom of open-ocean navigation allowed vessels to travel at speed that would be impossible while maintaining constant vigilance for shallow waters and reef hazards. The development of reliable deep-water routes contributed to expansion of merchant trading networks.
+The Deep Water Routes across the Indian Ocean represented the primary long-distance trading pathways where merchant vessels could maintain course without detailed knowledge of coastal geography. The freedom of open-ocean navigation allowed vessels to travel at speed that would be impossible while maintaining constant vigilance for shallow waters and reef hazards. The development of reliable deep-water routes contributed to expansion of merchant trading networks.
 
 The primary deep-water routes followed natural shipping lanes that connected major port cities across hundreds of kilometers of open ocean. The northern route from Arabian ports to East African coast traveled through deep water suitable for large ocean-going vessels. The southern routes around the Indian Ocean perimeter connected to trade networks extending toward Southeast Asia and beyond. The development of understood deep-water routes through accumulated maritime knowledge represented crucial infrastructure for Indian Ocean commerce.
 
@@ -21,10 +21,10 @@ The integration of deep-water and coastal routes meant that merchants needed ves
 ## See Also
 
 [[Navigation Methods]]
-[[Deep Ocean Trade]]
+Deep Ocean Trade
 [[Merchant Vessels]]
 [[Trade Routes Networks]]
-[[Maritime Commerce]]
+Maritime Commerce
 
 ## Sources
 

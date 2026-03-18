@@ -29,8 +29,8 @@ The relationship between Kenyatta's speeches and his actual policies is one of t
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
 - [[Kenyatta Cabinet|Kenyatta Cabinet]]
 - [[Kenya Independence|Kenya Independence]]
-- [[../../Kenya Rhetoric|Kenya Rhetoric]]
-- [[../../Kenya Political Discourse|Kenya Political Discourse]]
+- Kenya Rhetoric
+- Kenya Political Discourse
 
 ## Sources
 

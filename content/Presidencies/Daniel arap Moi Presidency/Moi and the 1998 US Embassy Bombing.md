@@ -24,10 +24,10 @@ Long-term, the 1998 embassy bombing positioned Kenya as a front-line state in th
 - [[Moi Foreign Policy]]
 - [[Moi and the Somalia Crisis]]
 - [[Moi and the GSU]]
-- [[Cross-Ethnic/Muslim Communities and Counter-Terrorism]]
-- [[Corruption/Security Sector Failures]]
+- Muslim Communities and Counter-Terrorism
+- Security Sector Failures
 - [[Structural Adjustment Programs Kenya]]
-- [[Elections/Terrorism and Political Stability]]
+- Terrorism and Political Stability
 
 ## Sources
 1. U.S. Department of State. *Report of the Accountability Review Boards: Bombings of the US Embassies in Nairobi, Kenya and Dar es Salaam, Tanzania*. Department of State, 1999. https://1997-2001.state.gov/www/regions/africa/board_overview.html

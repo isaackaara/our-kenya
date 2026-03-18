@@ -24,9 +24,9 @@ The 1992 election proved that multiparty politics alone did not guarantee democr
 - [[Moi and the GSU]]
 - [[Moi and the Kalenjin]]
 - [[1997 Election Violence]]
-- [[Kalenjin/Kalenjin Warriors and Political Violence]]
-- [[Kikuyu/Kikuyu Displacement in Rift Valley]]
-- [[Elections/Electoral Violence in Kenya]]
+- Kalenjin Warriors and Political Violence
+- [[2007-2008 Post Election Violence]]
+- [[Post-Election Violence]]
 
 ## Sources
 1. Kenya Human Rights Commission. *Kayas Revisited: A Post-Election Balance Sheet*. KHRC, 1998. https://www.khrc.or.ke/publications/

@@ -11,7 +11,7 @@ Critical conversations increasingly occurred online and through digital platform
 ## See Also
 [[Print Journalism Digital]]
 [[Online News Platforms]]
-[[Technology/Internet Development Kenya]]
+[[Digital Economy Kenya]]
 [[Media Ownership Control]]
 [[News Anchors Icons]]
 

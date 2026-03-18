@@ -10,7 +10,7 @@ Connectivity challenges constrained IoT expansion in areas with limited internet
 
 ## See Also
 
-[[Sensor Technology Applications]], [[Technology]], [[Smart Cities]], [[Internet Connectivity Progress]], [[Data Analysis]], [[Tech Startups Ecosystem]]
+[[Sensor Technology Applications]], [[Technology]], Smart Cities, [[Internet Connectivity Progress]], Data Analysis, [[Tech Startups Ecosystem]]
 
 ## Sources
 

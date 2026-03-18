@@ -42,7 +42,7 @@ Peace committees and dialogue processes attempt to reduce conflict and build coo
 - [[Samburu Pastoralism]]
 - [[Samburu Land Rights Today]]
 - [[Samburu Climate Change]]
-- [[Pastoral Conflict Resolution]]
+- Pastoral Conflict Resolution
 
 ## Sources
 

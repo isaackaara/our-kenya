@@ -7,12 +7,12 @@ The development of local comic production depended upon viable markets, publishi
 Contemporary comics in Kenya employ diverse genres and approaches from superhero narratives to autobiographical comics to political comics. Digital tools enable comic creation and distribution. Graphic novels and collected comic volumes represent formats gaining presence in literary culture. Comics employ sophisticated visual and narrative language allowing complex storytelling. The comic medium's accessibility and narrative power continue attracting artists despite limited economic opportunities. Contemporary Kenyan comics contribute to broader visual and literary cultures while remaining minor market segment. Comic art represents artistic possibility within Kenya's visual landscape.
 
 ## See Also
-- [[Sequential Art and Narrative]]
+- Sequential Art and Narrative
 - [[Novels Mau Mau]]
 - [[Comic Art]]
-- [[Visual Storytelling]]
-- [[Character Design]]
-- [[Cartooning Practice]]
+- Visual Storytelling
+- Character Design
+- Cartooning Practice
 - [[Digital Art]]
 
 ## Sources

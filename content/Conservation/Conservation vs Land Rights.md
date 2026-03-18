@@ -1,4 +1,4 @@
-One of the most fundamental tensions in African [[Conservation|conservation]] is the conflict between [[Conservation|conservation objectives]] and the [[Land Rights Campaigns|land rights]] of [[Indigenous Communities|communities]] who have occupied and managed these lands for generations. Kenya's [[Conservation|conservation history]] exemplifies this tension, with multiple [[Displaced Communities|communities]] displaced or restricted in [[Land Use|land use]] by [[Conservation|conservation initiatives]] without adequate [[Consultation|consultation]] or [[Compensation|compensation]]. The [[Ogiek Case|Ogiek court victory]] represents a landmark recognition of [[Indigenous Land Rights|indigenous rights]].
+One of the most fundamental tensions in African [[Conservation|conservation]] is the conflict between [[Conservation|conservation objectives]] and the [[Land Rights Campaigns|land rights]] of communities who have occupied and managed these lands for generations. Kenya's [[Conservation|conservation history]] exemplifies this tension, with multiple communities displaced or restricted in land use by [[Conservation|conservation initiatives]] without adequate consultation or compensation. The Ogiek court victory represents a landmark recognition of indigenous rights.
 
 ## The Fortress Conservation Model
 
@@ -64,8 +64,8 @@ However, implementation of this principle remains contested. Some conservation o
 - [[Community Conservation Model]]
 - [[Ogiek and the Mau Forest]]
 - [[Maasai]]
-- [[Land Tenure Security]]
-- [[Indigenous Land Rights]]
+- Land Tenure Security
+- Indigenous Land Rights
 - [[Conservation]]
 
 ## Sources

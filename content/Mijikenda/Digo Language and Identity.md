@@ -61,7 +61,7 @@ The future of Digo language depends on whether communities can reverse language 
 - [[Digo People]] - Language community
 - [[Giriama Language and Dialects]] - Related languages
 - [[Chonyi Language]] - Comparative endangerment
-- [[Initiation Systems among [[Mijikenda]]]] - Cultural transmission
+- Initiation Systems among [[Mijikenda]]]] - Cultural transmission
 - [[Coastal Intellectuals and Writers]] - Language documentation
 
 ## Sources

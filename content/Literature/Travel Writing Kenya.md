@@ -21,12 +21,12 @@ The relationship between travel writing and colonial anthropology remained signi
 Contemporary travel writing in Kenya continues developing, with digital media enabling new travel writing forms and broader circulation. Travel accounts increasingly address environmental and cultural concerns alongside descriptive engagement with Kenyan places and peoples.
 
 ## See Also
-[[Kenyan Tourism]]
+Kenyan Tourism
 [[Environmental Literature]]
-[[Cultural Encounters Literature]]
+Cultural Encounters Literature
 [[Literature]]
-[[Women Travelers Kenya]]
-[[Postcolonial Representation]]
+Women Travelers Kenya
+Postcolonial Representation
 [[Literature]]
 
 ## Sources

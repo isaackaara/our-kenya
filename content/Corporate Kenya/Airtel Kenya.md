@@ -1,4 +1,4 @@
-Airtel Kenya is the second-largest mobile operator after [[Safaricom]], with roughly 20-25% market share. However, Airtel's history is one of brand changes, ownership shifts, and the struggle to compete against Safaricom's dominance. The company has transformed from [[Celtel]] to [[Zain]] to Airtel, with each transition reflecting broader challenges in [[Kenya]]'s competitive [[Telecoms History Kenya|telecoms]] market.
+Airtel Kenya is the second-largest mobile operator after [[Safaricom]], with roughly 20-25% market share. However, Airtel's history is one of brand changes, ownership shifts, and the struggle to compete against Safaricom's dominance. The company has transformed from Celtel to Zain to Airtel, with each transition reflecting broader challenges in [[Kenya]]'s competitive [[Telecoms History Kenya|telecoms]] market.
 
 ## Celtel Era (2000-2009)
 
@@ -51,8 +51,8 @@ Airtel is likely to remain the second-largest operator but unlikely to displace 
 - [[M-Pesa]] - Mobile money service that reshaped Safaricom's business
 - [[Submarine Cables Kenya]] - Infrastructure enabling broadband competition
 - [[Kenya Economic Overview]] - Broader economic context for telecom markets
-- [[Bharti Airtel]] - Parent company operations across Asia and Africa
-- [[Market Competition Kenya]] - Competitive dynamics in telecom sector
+- Bharti Airtel - Parent company operations across Asia and Africa
+- Market Competition Kenya - Competitive dynamics in telecom sector
 
 ## Sources
 

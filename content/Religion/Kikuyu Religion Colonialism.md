@@ -6,7 +6,7 @@ The [[Kikuyu Central Association|Kikuyu Central Association]], founded in 1924, 
 
 The conflict over female circumcision revealed deep tensions between Christian universalism and African particularity. Missionaries insisted the practice was sinful and incompatible with Christianity. Kikuyu argued the practice was culturally central and morally necessary. Some Kikuyu rejected mission churches over this issue, establishing independent African churches that permitted the practice. This foreshadowed broader patterns: Kikuyu (and other Africans) would claim Christianity on their own terms, maintaining elements of pre-Christian culture within Christian frameworks.
 
-The [[Mau Mau rebellion|Mau Mau rebellion]] exposed latent tensions in Kikuyu Christianity. Mau Mau rhetoric invoked Kikuyu cultural nationalism and resistance to colonial Christianity. Yet Kikuyu were predominantly Christian; the rebellion included many Christians, some clergy sympathized with rebels, and Christian theology contributed to nationalist arguments. The rebellion forced Kikuyu to reckon with the degree to which Christianity had been successfully indigenized versus imposed. Post-rebellion, Kikuyu Christianity was understood as more authentically Kikuyu; it was Kikuyu first and Christian second.
+The [[Mau Mau Uprising|Mau Mau rebellion]] exposed latent tensions in Kikuyu Christianity. Mau Mau rhetoric invoked Kikuyu cultural nationalism and resistance to colonial Christianity. Yet Kikuyu were predominantly Christian; the rebellion included many Christians, some clergy sympathized with rebels, and Christian theology contributed to nationalist arguments. The rebellion forced Kikuyu to reckon with the degree to which Christianity had been successfully indigenized versus imposed. Post-rebellion, Kikuyu Christianity was understood as more authentically Kikuyu; it was Kikuyu first and Christian second.
 
 Post-independence Kikuyu Christianity became fully Kikuyu. Kikuyu theological education, Kikuyu bishops, and Kikuyu-language worship made Christianity culturally indigenous. The tension between Christian universalism and Kikuyu particularity persisted but shifted; now Kikuyu Christians could understand Christianity as compatible with (rather than opposed to) Kikuyu identity. Yet memories of mission church intransigence and collaboration with colonialism colored Kikuyu Christian identity with recollection of past domination.
 
@@ -14,7 +14,7 @@ Post-independence Kikuyu Christianity became fully Kikuyu. Kikuyu theological ed
 - [[Kikuyu Central Association]]
 - [[Kikuyu|Kikuyu]]
 - [[Christianity and Colonial Missions]]
-- [[Mau Mau rebellion]]
+- [[Mau Mau Uprising]]
 - [[Luo Christianity|Witchcraft and Christian Conversion]]
 - [[Missionary Arrival and Settlement]]
 - [[Independent African Churches]]

@@ -14,7 +14,7 @@ The 1990s saw Biwott's influence diminish as Moi's regime itself began to face p
 
 ## See Also
 [[Moi Cabinet and Loyalists]]
-[[Moi and Robert Ouko]]
+[[Daniel arap Moi Era]]
 [[The Ouko Murder]]
 [[Kenya]]
 [[Nyayo House Torture Chambers]]

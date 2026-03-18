@@ -10,11 +10,11 @@ In the years immediately following Kibaki's death, there was renewed interest in
 
 ## See Also
 
-[[Kibaki Legacy and Historical Assessment]]
-[[Kenya Political Transitions]]
-[[Post-Independence Leadership Kenya]]
-[[State Funerals Kenya]]
-[[Kibaki Presidency End]]
+Kibaki Legacy and Historical Assessment
+Kenya Political Transitions
+Post-Independence Leadership Kenya
+State Funerals Kenya
+Kibaki Presidency End
 
 ## Sources
 

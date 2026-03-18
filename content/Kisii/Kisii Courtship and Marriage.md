@@ -101,9 +101,9 @@ Contemporary gender dynamics reflect ongoing tension between customary patriarch
 - [[Kisii Clan System]] - clan exogamy and marriage alliances
 - [[Kisii Cattle and Livestock]] - bride wealth system
 - [[Gender Pay Gap]] - comparative gender analysis
-- [[Polygamy in Africa]] - marriage arrangements
+- Polygamy in Africa - marriage arrangements
 - [[Seventh-day Adventist Church]] - Christian marriage ideals
-- [[Women's rights in Kenya]] - contemporary gender issues
+- Women's rights in Kenya - contemporary gender issues
 
 ## Sources
 

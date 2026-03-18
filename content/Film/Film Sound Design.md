@@ -17,7 +17,7 @@ Television sound design faced particular constraints from broadcast specificatio
 Digital audio technology democratized sound design through 1990s and 2000s. Computer-based audio workstations enabled individual sound designers to produce professional-quality work without expensive facility access. This technology shift expanded sound design opportunities and reduced costs of post-production audio work.
 
 ## See Also
-[[Film Editing]], [[Original Soundtracks]], [[Film Directing]], [[Television Studios]], [[Technology]], [[Audio Post-Production]], [[Entertainment]]
+[[Film Editing]], [[Original Soundtracks]], [[Film Directing]], [[Television Studios]], [[Technology]], [[Audio Post-Production]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

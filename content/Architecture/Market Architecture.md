@@ -14,7 +14,7 @@ The architectural expression of markets, from colonial utilitarian structures to
 
 ## See Also
 
-[[Informal Market Structures]], [[Commercial Building]], [[Nairobi Built Environment]], [[Urban Slums Growth]], [[Poverty]], [[Urban Planning Development]], [[Street Infrastructure]]
+[[Informal Market Structures]], [[Commercial Building]], [[Nairobi Built Environment]], [[Urban Slums Growth]], [[Poverty]], [[Urban Planning Development]], Street Infrastructure
 
 ## Sources
 

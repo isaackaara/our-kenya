@@ -28,7 +28,7 @@ KANU's transformation from liberation movement to political monopoly represented
 - [[Provincial Administration Kenyatta Era]]
 - [[Political Patronage Kenyatta Era]]
 - [[Kenyatta and Detention Without Trial]]
-- [[Elections/1963 Independence Election]]
+- [[1963 Independence Election]]
 
 ## Sources
 1. Widner, Jennifer A. *The Rise of a Party-State in Kenya: From "Harambee!" to "Nyayo!"*. University of California Press, 1992. https://www.ucpress.edu/book/9780520073937/the-rise-of-a-party-state-in-kenya

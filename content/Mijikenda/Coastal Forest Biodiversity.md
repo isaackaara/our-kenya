@@ -1,10 +1,10 @@
-The coastal Kenyan lowland forests, including the kaya forests and other remnant forest patches, are recognized as one of the world's biodiversity hotspots. These forests are home to endemic [[The White Rhino: A Species on the Edge]] found nowhere else on Earth, making them of exceptional [[conservation]] value. However, deforestation and environmental degradation threaten these ecosystems and their endemic species.
+The coastal Kenyan lowland forests, including the kaya forests and other remnant forest patches, are recognized as one of the world's biodiversity hotspots. These forests are home to endemic [[The White Rhino: A Species on the Edge]] found nowhere else on Earth, making them of exceptional [[Conservation]] value. However, deforestation and environmental degradation threaten these ecosystems and their endemic species.
 
 ## Biodiversity Hotspot Status
 
 The East African coastal forests are classified as a global biodiversity hotspot, meaning they contain exceptional concentrations of endemic species and are facing severe habitat loss. The forests extend along the Kenya coast in fragmented patches, including the kaya forests and areas like Sokoke Forest.
 
-The coastal forest [[ecosystem]] contains distinctive flora and fauna adapted to tropical coastal conditions, sandy soils, and seasonal rainfall patterns. The biodiversity includes plants, insects, birds, mammals, and other organisms found nowhere else.
+The coastal forest ecosystem contains distinctive flora and fauna adapted to tropical coastal conditions, sandy soils, and seasonal rainfall patterns. The biodiversity includes plants, insects, birds, mammals, and other organisms found nowhere else.
 
 ## Endemic Species
 

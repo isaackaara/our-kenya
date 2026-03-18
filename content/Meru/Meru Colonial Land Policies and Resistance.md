@@ -42,13 +42,13 @@ The transition to individual ownership enabled wealth accumulation and land conc
 
 ### Meru Resistance During Colonization
 
-Early [[Meru people|Meru]] resistance to British colonization included armed opposition to territorial occupation. Colonial military expeditions faced resistance from Meru warriors defending their territory. However, superior colonial military technology eventually established colonial control.
+Early [[Meru People|Meru]] resistance to British colonization included armed opposition to territorial occupation. Colonial military expeditions faced resistance from Meru warriors defending their territory. However, superior colonial military technology eventually established colonial control.
 
 The initial resistance was overcome but opposition to colonial rule continued through the colonial period. Land dispossession remained a grievance driving anti-colonial sentiment.
 
 ### Land-Based Grievances in Mau Mau Era
 
-The colonial land system generated grievances that contributed to [[Mau Mau]] rebellion (1952-1960). While Mau Mau was strongest in Kikuyu areas, land issues affected Meru as well. Some Meru people participated in Mau Mau activities, though Meru was not a primary rebel stronghold.
+The colonial land system generated grievances that contributed to [[Mau Mau Uprising]] rebellion (1952-1960). While Mau Mau was strongest in Kikuyu areas, land issues affected Meru as well. Some Meru people participated in Mau Mau activities, though Meru was not a primary rebel stronghold.
 
 The Mau Mau Emergency involved colonial counterinsurgency in Meru limiting community movement and restricting forest access. The counterinsurgency's collective punishment and land controls intensified land grievances.
 
@@ -115,11 +115,11 @@ Land reform discussions periodically emerge in Kenya but implementation lags. Th
 ## See Also
 
 - [[Land Tenure in Meru]]
-- [[Meru History]]
-- [[Kenya Colonial History]]
-- [[Mau Mau Rebellion]]
+- [[Meru People]]
+- Kenya Colonial History
+- [[Mau Mau Uprising]]
 - [[Kenya Independence]]
-- [[Land Rights Africa]]
+- Land Rights Africa
 
 ## Sources
 

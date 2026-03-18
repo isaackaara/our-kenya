@@ -12,12 +12,12 @@ The relationship between indigenous plant knowledge and commercial development c
 
 ## See Also
 
-[[Health/Traditional Medicine and Healing]]
-[[Health/Nutrition and Food Security]]
+Traditional Medicine and Healing
+Nutrition and Food Security
 [[Organic Farming]]
-[[Women/Traditional Knowledge Keepers]]
-[[Poverty/Resource Access and Indigenous Knowledge]]
-[[Colonial Kenya/Knowledge Systems and Education]]
+Traditional Knowledge Keepers
+Resource Access and Indigenous Knowledge
+Knowledge Systems and Education
 
 ## Sources
 

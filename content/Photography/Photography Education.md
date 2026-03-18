@@ -7,13 +7,13 @@ Art schools and institutions offering visual arts education gradually incorporat
 Photography workshops and non-formal training programs expanded significantly from the 1980s onward, making photography education accessible beyond traditional institutions. Community organizations, NGOs, and independent photographers offered workshops in basic camera operation, darkroom technique, and digital photography as the technology shifted. These varied educational pathways created multiple entry points for people to develop photography skills and knowledge. The professionalization of photography education reflected broader recognition of visual communication's importance in journalism, development work, art, and historical documentation across Kenyan society.
 
 ## See Also
-- [[Kenya Institute of Mass Communication]]
-- [[Journalism Education Kenya]]
-- [[Visual Arts Education]]
-- [[Photojournalism Practice]]
-- [[Technical Skills Training]]
+- Kenya Institute of Mass Communication
+- Journalism Education Kenya
+- Visual Arts Education
+- Photojournalism Practice
+- Technical Skills Training
 - [[Law School Development]]
-- [[Media Professional Development]]
+- Media Professional Development
 
 ## Sources
 1. https://kimc.ac.ke/ - Kenya Institute of Mass Communication

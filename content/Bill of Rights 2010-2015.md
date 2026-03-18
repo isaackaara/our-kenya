@@ -6,7 +6,7 @@ The context of bill of rights 2010-2015 illuminates how local, regional, and nat
 
 ## See Also
 
-[[Policy]], [[Kenya History]], [[Historical Development]]
+Policy, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

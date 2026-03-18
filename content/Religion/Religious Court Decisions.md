@@ -16,7 +16,7 @@ Contemporary religious court decisions continue negotiating tensions between tra
 [[Religious Freedom Struggle]]
 [[Church and State Relations]]
 [[Witchcraft Kenyan Law]]
-[[Colonial Kenya/Justice Systems]]
+Justice Systems
 
 ## Sources
 

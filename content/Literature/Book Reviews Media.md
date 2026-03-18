@@ -16,8 +16,8 @@ The reviews of African literature by international reviewers shaped how global a
 [[Literary Culture Kenya]]
 [[Publishing Industry Kenya]]
 [[Literary Journals Publishing]]
-[[Media and Literature Kenya]]
-[[Book Recommendations Kenya]]
+Media and Literature Kenya
+Book Recommendations Kenya
 [[Digital Art]]
 
 ## Sources

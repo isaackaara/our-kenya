@@ -27,4 +27,4 @@ Miraa trade operates in a regulatory gray zone, with varying levels of prohibiti
 
 ## See Also
 - [[Meru County]]
-- [[East African Trade Networks]]
+- East African Trade Networks

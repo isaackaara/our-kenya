@@ -70,7 +70,7 @@ Social protection programs including cash transfers and food assistance can help
 
 ## See Also
 
-- [[Cassava in [[coastal]] [[Kenya]]]] - Staple nutrition
+- Cassava in coastal [[Kenya]] - Staple nutrition
 - [[Fishermen and Marine Resources]] - Protein source
 - [[Climate Change and Coastal Communities]] - Food availability
 - [[HIV AIDS at the Coast]] - Health crisis

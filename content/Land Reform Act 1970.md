@@ -6,7 +6,7 @@ Understanding land reform act 1970 provides essential context for Kenya's contem
 
 ## See Also
 
-[[Policy]], [[Kenya History]]
+Policy, [[Kenya History]]
 
 ## Sources
 

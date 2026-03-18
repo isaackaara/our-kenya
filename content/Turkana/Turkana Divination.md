@@ -44,7 +44,7 @@ Divination has played a role in initiating conflicts (ngimurok pronouncements ma
 
 - [[Turkana People Overview]]
 - [[Turkana Social Structure]]
-- [[Turkana Religion and Belief]]
+- Turkana Religion and Belief
 - [[Turkana Origins and Migration]]
 - [[Turkana Timeline]]
 

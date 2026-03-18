@@ -11,12 +11,12 @@ The press coverage of the 1969 election thus did not provide Kenyan voters with 
 ## See Also
 
 - [[1969 Election]]
-- [[Press Freedom Kenya History]]
+- [[State Censorship and Literature]]
 - [[Media]]
-- [[State Propaganda]]
+- State Propaganda
 - [[Kenya Broadcasting Corporation]]
 - [[Art Journalism]]
-- [[Information Control]]
+- Information Control
 
 ## Sources
 

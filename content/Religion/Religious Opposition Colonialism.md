@@ -10,10 +10,10 @@ The [[Kikuyu Central Association|Kikuyu Central Association's challenges to miss
 
 Women religious leaders sometimes articulated opposition to colonialism through religious frameworks. Female prophetesses and religious teachers addressed audiences about spiritual freedom and dignity in contexts of colonial humiliation. While not always explicitly anti-colonial, these teachers offered women religious authority and agency that colonialism denied them. This prophetic female authority sometimes manifested as resistance to colonial subordination.
 
-The relationship between religion and [[Mau Mau rebellion|the Mau Mau rebellion]] illustrated complex dynamics of religious opposition to colonialism. Mau Mau used religious language and ritual, framing insurgency partly in religious terms. Yet established churches largely opposed Mau Mau. The rebellion forced religious institutions to choose between colonial loyalty and nationalist commitment. Some religious actors' eventual support for post-colonial nationalism represented delayed recognition that colonialism was inherently unjust.
+The relationship between religion and [[Mau Mau Uprising|the Mau Mau rebellion]] illustrated complex dynamics of religious opposition to colonialism. Mau Mau used religious language and ritual, framing insurgency partly in religious terms. Yet established churches largely opposed Mau Mau. The rebellion forced religious institutions to choose between colonial loyalty and nationalist commitment. Some religious actors' eventual support for post-colonial nationalism represented delayed recognition that colonialism was inherently unjust.
 
 ## See Also
-- [[Mau Mau rebellion]]
+- [[Mau Mau Uprising]]
 - [[Kikuyu Central Association]]
 - [[Church and State Relations]]
 - [[Religion Nation Building 1963]]

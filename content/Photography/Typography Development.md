@@ -7,13 +7,13 @@ Digital typography from the 1990s onward transformed typographic practice throug
 Contemporary Kenyan typography engages with digital typographic possibilities while maintaining traditional design principles. Typographers address challenges of designing for multiple platforms and technologies. Typography in digital environments differs from print typography requiring different approaches to legibility, sizing, and interaction. Contemporary designers work fluidly across print and digital typography. The continued importance of typography reflects enduring significance of text in communication. Typography remains active design discipline with ongoing innovation and professional practice.
 
 ## See Also
-- [[Typeface Design]]
+- Typeface Design
 - [[4_EAC_History]]
-- [[Print Design Practice]]
+- Print Design Practice
 - [[Digital Art]]
-- [[Text and Visual Communication]]
+- Text and Visual Communication
 - [[Technology]]
-- [[Typographic Principles]]
+- Typographic Principles
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Typography - Typography History

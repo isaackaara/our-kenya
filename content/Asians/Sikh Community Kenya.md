@@ -1,8 +1,8 @@
-[[Sikhs]] are a religious community originating from [[Punjab]] (northwest India). In Kenya, they number approximately 10,000 to 15,000. Sikhs came primarily as [[Luo and the Railway]] and have since built a strong institutional presence through [[Sikh Gurdwaras Kenya]] (temples) and businesses, particularly in construction and contracting.
+Sikhs are a religious community originating from Punjab (northwest India). In Kenya, they number approximately 10,000 to 15,000. Sikhs came primarily as [[Luo and the Railway]] and have since built a strong institutional presence through [[Sikh Gurdwaras Kenya]] (temples) and businesses, particularly in construction and contracting.
 
 ## Origins and Migration
 
-[[Sikhism]] is a monotheistic religion founded in Punjab in the 15th century. Sikhs follow the teachings of Guru Nanak and revere ten Gurus. Punjab experienced economic hardship and agricultural distress in the late 19th century, prompting migration. Many Sikhs were recruited for the [[Uganda Railway Taita-Taveta]] (1896-1901), coming from Punjab as indentured laborers. Unlike some other communities, Sikhs remained concentrated in Punjab historically, making them a geographically distinct source of migration.
+Sikhism is a monotheistic religion founded in Punjab in the 15th century. Sikhs follow the teachings of Guru Nanak and revere ten Gurus. Punjab experienced economic hardship and agricultural distress in the late 19th century, prompting migration. Many Sikhs were recruited for the [[Uganda Railway Taita-Taveta]] (1896-1901), coming from Punjab as indentured laborers. Unlike some other communities, Sikhs remained concentrated in Punjab historically, making them a geographically distinct source of migration.
 
 ## Railway Workers and Beyond
 

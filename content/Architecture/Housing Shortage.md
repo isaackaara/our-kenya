@@ -18,7 +18,7 @@ Policy responses to housing shortage included public housing programs, private s
 [[Informal Settlements]]
 [[Slum Upgrading]]
 [[Poverty]]
-[[Land Tenure]]
+[[Land Tenure Post Independence]]
 
 ## Sources
 

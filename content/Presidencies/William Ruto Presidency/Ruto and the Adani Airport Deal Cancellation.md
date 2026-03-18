@@ -10,11 +10,11 @@ The Adani episode also damaged Kenya's reputation among international investors,
 
 ## See Also
 [[Ruto Infrastructure Projects]]
-[[Foreign Direct Investment Kenya]]
+Foreign Direct Investment Kenya
 [[Public Art]]
-[[Aviation Sector Modernization]]
-[[Government Transparency and Mega-Projects]]
-[[Kenya's International Relations Investment]]
+Aviation Sector Modernization
+Government Transparency and Mega-Projects
+Kenya's International Relations Investment
 
 ## Sources
 1. https://www.bbc.com/news/world-africa-67039239 (Ruto Adani cancellation October 2023)

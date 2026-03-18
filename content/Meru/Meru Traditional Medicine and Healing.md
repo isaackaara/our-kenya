@@ -1,6 +1,6 @@
 ## Overview
 
-Traditional [[Meru medicine]] represents centuries of accumulated [[knowledge]] about [[plants]], [[healing practices]], and [[therapeutic techniques]] developed to address health challenges in the [[highland environment]]. This knowledge system, maintained by [[specialized practitioners]], combines [[pharmacological plant knowledge]] with [[spiritual and psychological dimensions of healing]].
+Traditional Meru medicine represents centuries of accumulated knowledge about plants, healing practices, and therapeutic techniques developed to address health challenges in the highland environment. This knowledge system, maintained by specialized practitioners, combines pharmacological plant knowledge with spiritual and psychological dimensions of healing.
 
 ## Practitioners and Knowledge Specialists
 

@@ -6,7 +6,7 @@ The context of bethwell ogot - luo historian illuminates how local, regional, an
 
 ## See Also
 
-[[Historians]], [[Kenya History]], [[Historical Development]]
+Historians, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

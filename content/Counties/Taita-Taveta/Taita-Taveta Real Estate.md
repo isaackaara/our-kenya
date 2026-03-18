@@ -26,8 +26,8 @@ The role of real estate in wealth creation and inequality has increased with pro
 - [[Taita-Taveta County]]
 - [[Taita-Taveta Land]]
 - [[Development Aid]]
-- [[Land Markets Kenya]]
-- [[Housing Kenya]]
+- Land Markets Kenya
+- [[Infrastructure]]
 - [[Voi Town]]
 - [[Real Estate Investment Abroad]]
 

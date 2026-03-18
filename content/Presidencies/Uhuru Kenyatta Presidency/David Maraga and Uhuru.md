@@ -18,8 +18,8 @@ Maraga retired in January 2021, handing over to Chief Justice Martha Koome. His 
 - [[2013 Election and Supreme Court]]
 - [[Building Bridges Initiative]]
 - [[Raila Odinga]]
-- [[Elections/2017 Presidential Election]]
-- [[2007 Post-Election Violence]]
+- [[2017 Presidential Election]]
+- [[2007-2008 Post Election Violence]]
 - [[Uhuru Legacy Assessment]]
 
 ## Sources

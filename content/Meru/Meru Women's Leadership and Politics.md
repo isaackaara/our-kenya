@@ -2,7 +2,7 @@
 
 ### The Women's Assembly
 
-[[Traditional Meru society]] included [[institutional spaces]] for [[women's participation]] in [[Moi and the Luo Community]]. [[Women's groups]] met to discuss matters affecting [[households and families]]. These assemblies addressed disputes involving women, discussed childbearing and child-rearing practices, and coordinated community work.
+Traditional Meru society included institutional spaces for women's participation in [[Moi and the Luo Community]]. Women's groups met to discuss matters affecting households and families. These assemblies addressed disputes involving women, discussed childbearing and child-rearing practices, and coordinated community work.
 
 While ultimate authority rested with male elders and the Mugwe, women's assemblies wielded significant influence over community decisions affecting them. Women's voices shaped family law, property issues, and social norms governing gender relations.
 

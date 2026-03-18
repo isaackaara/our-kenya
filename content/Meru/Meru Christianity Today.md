@@ -8,7 +8,7 @@ Contemporary [[Meru County|Meru]] is overwhelmingly Christian, with multiple den
 
 ## Major Denominations
 
-**[[Catholic Church]]**: The largest single denomination, legacy of the [[Consolata Missionaries]]. Serves a substantial majority of practicing Christians in Meru.
+**[[Catholic Church]]**: The largest single denomination, legacy of the Consolata Missionaries. Serves a substantial majority of practicing Christians in Meru.
 
 **Methodist/Presbyterian Churches**: Historic Protestant presence dating to early missionary work. These churches maintain congregations across Meru.
 
@@ -99,8 +99,8 @@ For many Meru, Christianity is intertwined with Kenyan identity and modern Meru 
 - [[Njuri Ncheke]]
 - [[Meru Religion and Spirituality]]
 - [[Meru Food Culture]]
-- [[Consolata Missionaries]]
-- [[Kenya Christian Churches]]
+- Consolata Missionaries
+- Kenya Christian Churches
 
 ---
 

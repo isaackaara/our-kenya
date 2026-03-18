@@ -10,7 +10,7 @@ Cloud adoption barriers persisted despite benefits, including concerns about dat
 
 ## See Also
 
-[[Data Center Development]], [[Internet Connectivity Progress]], [[Tea Industry Kenya]], [[Cybersecurity]], [[Government Digitization]], [[Technology]]
+[[Data Center Development]], [[Internet Connectivity Progress]], [[Tea Industry Kenya]], Cybersecurity, Government Digitization, [[Technology]]
 
 ## Sources
 

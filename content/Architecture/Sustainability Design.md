@@ -16,7 +16,7 @@ The integration of passive design strategies, reducing mechanical systems depend
 [[Climate Resilience]]
 [[Environmental Art]]
 [[Modern Construction Techniques]]
-[[Energy Infrastructure]]
+Energy Infrastructure
 [[Water Infrastructure]]
 [[Disaster Resilience]]
 

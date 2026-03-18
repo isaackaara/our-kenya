@@ -17,8 +17,8 @@ Some communities maintained sacred groves for ritual purposes and community gath
 - [[Samburu Religion]]
 - [[Samburu Laibon]]
 - [[Samburu and Christianity]]
-- [[Environmental Conservation in Kenya]]
-- [[Indigenous Cosmologies]]
+- Environmental Conservation in Kenya
+- Indigenous Cosmologies
 
 ## Sources
 

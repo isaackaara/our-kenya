@@ -12,8 +12,8 @@ Commercial galleries selling photography as art have created markets for photogr
 - [[Art Exhibition Spaces]]
 - [[Fine Art Photography]]
 - [[Gallery Operations]]
-- [[Art Commerce and Patronage]]
-- [[Urban Cultural Institutions]]
+- Art Commerce and Patronage
+- Urban Cultural Institutions
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/exhibitions - NMK Gallery Programs

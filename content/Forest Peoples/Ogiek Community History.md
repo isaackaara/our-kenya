@@ -19,10 +19,10 @@ The Ogiek situation also illustrates the tensions between conservation goals and
 [[Mau Forest]]
 [[Sengwer Indigenous People]]
 [[Forest Rights Land]]
-[[Dorobo Forest Dwellers]]
-[[Eviction Forest Lands]]
-[[African Commission on Human and Peoples Rights]]
-[[Embobut Forest]]
+Dorobo Forest Dwellers
+Eviction Forest Lands
+African Commission on Human and Peoples Rights
+Embobut Forest
 
 ## Sources
 

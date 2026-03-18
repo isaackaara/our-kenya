@@ -14,11 +14,11 @@ The media environment of the 1992 election thus represented a transition from th
 
 - [[1992 Election]]
 - [[Media]]
-- [[Press Independence]]
-- [[Broadcast Media Control]]
+- Press Independence
+- Broadcast Media Control
 - [[Art Journalism]]
-- [[Independent Newspapers]]
-- [[Government Pressure on Media]]
+- Independent Newspapers
+- Government Pressure on Media
 
 ## Sources
 

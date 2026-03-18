@@ -6,7 +6,7 @@ The context of tippu tip - ivory trader illuminates how local, regional, and nat
 
 ## See Also
 
-[[Indian Ocean]], [[Kenya History]], [[Historical Development]]
+[[Indian-Ocean]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

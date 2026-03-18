@@ -1,12 +1,12 @@
 Kenyan musicians addressed the HIV/AIDS epidemic that devastated East Africa from the 1980s through 2000s, using their platforms to educate, reduce stigma, and promote prevention. While the crisis killed musicians and decimated communities, it also demonstrated music's power as public health communication tool and social advocacy medium.
 
-The [[Cross-Ethnic/HIV AIDS in Kenya|epidemic]] emerged in Kenya during the 1980s when disease remained poorly understood and deeply stigmatized. Early responses included denial, fear, and discrimination against infected persons. Musicians faced difficult choices: ignore crisis affecting their communities or risk social and commercial consequences of addressing taboo subject.
+The [[AIDS Epidemic Kenya|epidemic]] emerged in Kenya during the 1980s when disease remained poorly understood and deeply stigmatized. Early responses included denial, fear, and discrimination against infected persons. Musicians faced difficult choices: ignore crisis affecting their communities or risk social and commercial consequences of addressing taboo subject.
 
 Some artists chose silence, understanding that songs about AIDS could alienate audiences or attract accusations. Others used coded language, discussing "disease" or "sickness" without explicit HIV/AIDS references. But by the 1990s, as epidemic's scale became undeniable, more musicians engaged directly with educational and advocacy messaging.
 
 [[Kenyan Gospel Music Boom|Gospel musicians]] led initial HIV/AIDS awareness efforts. Christian artists framed prevention through abstinence and faithfulness messaging compatible with church teachings. Songs encouraged moral behavior, compassion for infected persons, and faith in God's protection. This approach, while sometimes moralistic, reduced stigma by presenting AIDS as health rather than purely moral issue.
 
-[[Music/Philly Lutaaya Uganda influence|International influences]] shaped Kenyan musicians' approaches. Ugandan musician Philly Lutaaya's 1989 public disclosure of his HIV status and subsequent advocacy inspired East African artists. His example demonstrated that musicians could use platforms for public health messaging without ending careers.
+International influences shaped Kenyan musicians' approaches. Ugandan musician Philly Lutaaya's 1989 public disclosure of his HIV status and subsequent advocacy inspired East African artists. His example demonstrated that musicians could use platforms for public health messaging without ending careers.
 
 Government and NGO partnerships brought resources to musicians willing to produce HIV/AIDS awareness songs. USAID, WHO, and other organizations funded recording and distribution of educational music. These partnerships made AIDS awareness songs economically viable when [[Piracy and the Kenyan Music Industry|cassette piracy]] destroyed most music sales. Artists could earn income producing socially beneficial content.
 
@@ -29,7 +29,7 @@ By the 2000s, as antiretroviral therapy became available and Kenya's epidemic st
 The HIV/AIDS campaigns demonstrated music's public health potential. Subsequently, musicians addressed other health issues (malaria, tuberculosis, maternal health) using frameworks developed during AIDS crisis. Music became recognized tool for health communication, with government and NGO programs routinely including musical components.
 
 ## See Also
-- [[Cross-Ethnic/HIV AIDS in Kenya]]
+- [[AIDS Epidemic Kenya]]
 - [[Kenyan Gospel Music Boom]]
 - [[Civic Education Through Music Kenya]]
 - [[Female Gospel Artists Kenya]]

@@ -46,7 +46,7 @@ Many colonial policies persisted after independence, including land restrictions
 - [[Samburu Land Rights Today]]
 - [[Samburu in Independent Kenya]]
 - [[Samburu Laikipia Claims]]
-- [[Colonial History of Kenya]]
+- Colonial History of Kenya
 
 ## Sources
 

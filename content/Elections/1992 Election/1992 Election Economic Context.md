@@ -14,10 +14,10 @@ The economic crisis of the late 1980s and early 1990s thus created a constituenc
 
 - [[1992 Election]]
 - [[Kenya]]
-- [[Structural Adjustment]]
+- [[Structural Adjustment Kenya]]
 - [[Corruption]]
 - [[Unemployment]]
-- [[Economic Grievances]]
+- Economic Grievances
 - [[Development Aid]]
 
 ## Sources

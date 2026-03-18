@@ -9,7 +9,7 @@ The relationship between small business success and poverty exit is significant 
 The role of government and development organizations in small business development remains contested. Critics argue business development services often serve better-off poor populations already capable of success; extremely poor lack capacity to absorb training or manage business risk. Government support programs are sometimes viewed as subsidizing businesses whose failure is imminent rather than enabling real development. Market-based approaches emphasizing cost recovery and commercial sustainability may exclude poorest populations. Community-based approaches emphasizing peer support and local knowledge show promise. The evidence suggests small business can be poverty reduction tool for populations with adequate assets and skills; however, it cannot substitute for social protection and wage employment creation for populations lacking business capacity.
 
 ## See Also
-[[Jua Kali Economy]], [[Microfinance Access]], [[Training Programs]], [[Market Access]], [[Entrepreneurship Support]], [[Women's Economic Empowerment]], [[Income Generation]], [[Informal Sector]]
+[[Jua Kali Economy]], [[Microfinance Access]], Training Programs, Market Access, [[Entrepreneurship Support]], Women's Economic Empowerment, Income Generation, [[Informal Sector]]
 
 ## Sources
 1. International Labour Organization (2016). "Small Business Development and Youth Employment in Kenya." https://www.ilo.org

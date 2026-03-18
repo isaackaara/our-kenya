@@ -20,9 +20,9 @@ By the end of Kibaki's presidency, the "Kibaki Economic Miracle" had become a hi
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Kibaki Economic Record|Kibaki Economic Record]]
-- [[Kenya Economic Growth|Kenya Economic Growth]]
+- [[Economy|Kenya Economic Growth]]
 - [[Women and Agriculture Land Kenya|Kenya Agriculture]]
-- [[Kenya Manufacturing|Kenya Manufacturing]]
+- Kenya Manufacturing
 
 ## Sources
 

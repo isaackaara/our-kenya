@@ -19,9 +19,9 @@ What Moi learned from August 1, 1982, was that institutional checks on president
 - [[1982 Constitution Amendment]]
 - [[Moi and the GSU]]
 - [[Detention Without Trial Under Moi]]
-- [[Luo/Luo Marginalization Under Moi]]
-- [[Kalenjin/Kalenjin Dominance in Security Forces]]
-- [[Cross-Ethnic/Ethnic Purges in Civil Service]]
+- Luo Marginalization Under Moi
+- [[Kenya Defence Forces]]
+- Ethnic Purges in Civil Service
 - [[Nyayo Philosophy]]
 
 ## Sources

@@ -18,7 +18,7 @@ The dissolution of KADU eliminated the only institutional voice for federalism a
 - [[1963 Election KANU]]
 - [[Daniel arap Moi]]
 - [[Kenya]]
-- [[Regional Politics Kenya]]
+- [[Politics]]
 
 ## Sources
 

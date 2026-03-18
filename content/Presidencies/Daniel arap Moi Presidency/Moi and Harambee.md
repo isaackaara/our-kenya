@@ -26,9 +26,9 @@ The harambee legacy is visible across Kenya today: incomplete schools, underfund
 - [[Goldenberg Scandal]]
 - [[Structural Adjustment Programs Kenya]]
 - [[Moi Economic Policy 1978-1990]]
-- [[Corruption/Moi Era Corruption]]
-- [[Cross-Ethnic/Patronage and Resource Distribution]]
-- [[Elections/Political Rallies as Performance]]
+- [[Moi Era Corruption]]
+- Patronage and Resource Distribution
+- Political Rallies as Performance
 
 ## Sources
 1. Widner, Jennifer A. *The Rise of a Party-State in Kenya: From "Harambee!" to "Nyayo!"*. University of California Press, 1992. https://www.ucpress.edu/book/9780520073937/the-rise-of-a-party-state-in-kenya

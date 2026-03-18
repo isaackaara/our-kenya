@@ -19,7 +19,7 @@ The colour bar faced increasing challenges during the 1950s as independence move
 [[Colonial Class System]]
 [[Colonial Civil Service]]
 [[Colonial Racial Discrimination]]
-[[Colonial Wages]]
+Colonial Wages
 [[Labour]]
 
 ## Sources

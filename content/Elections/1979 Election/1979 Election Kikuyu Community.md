@@ -21,7 +21,7 @@ Kikuyu politics in 1979 thus involved both continuity (the community remained su
 - [[Kikuyu]]
 - [[Jomo Kenyatta]]
 - [[Daniel arap Moi]]
-- [[Central Province Kenya]]
+- Central Province Kenya
 - [[Kenya]]
 
 ## Sources

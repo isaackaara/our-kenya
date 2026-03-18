@@ -4,7 +4,7 @@ The GSU was established in 1948 during the colonial period as a mobile paramilit
 
 Recruitment into the GSU under Moi followed ethnic and loyalty criteria. While officially a national force, the GSU became heavily [[Kalenjin]], particularly in its officer corps and elite units. This ethnic composition ensured loyalty to Moi personally, as many GSU commanders were drawn from his Baringo constituency or connected to his patronage networks. The force expanded from roughly 3,000 personnel in 1978 to over 8,000 by the mid-1980s, equipped with modern weaponry, armored vehicles, and communications systems superior to those of the regular police.
 
-The GSU's most visible role was crushing political dissent. University students, who organized protests against the [[1982 Constitution Amendment|one-party state]] and [[Corruption/Moi Era Corruption|government corruption]], were met with GSU violence. When Nairobi University students demonstrated in 1985, GSU units stormed campuses, beating students with batons, firing tear gas into dormitories, and arresting hundreds. The [[Moi and the Universities|closure of universities]] became routine, often precipitated by GSU operations that left students hospitalized or dead. The units operated without warrants, oversight, or accountability; their presence alone was meant to intimidate.
+The GSU's most visible role was crushing political dissent. University students, who organized protests against the [[1982 Constitution Amendment|one-party state]] and [[Moi Era Corruption|government corruption]], were met with GSU violence. When Nairobi University students demonstrated in 1985, GSU units stormed campuses, beating students with batons, firing tear gas into dormitories, and arresting hundreds. The [[Moi and the Universities|closure of universities]] became routine, often precipitated by GSU operations that left students hospitalized or dead. The units operated without warrants, oversight, or accountability; their presence alone was meant to intimidate.
 
 The GSU was also deployed in ethnic violence operations that served Moi's political interests. During the [[1992 Election and Ethnic Violence|1992 election]], GSU units were present in the Rift Valley during clashes between [[Kalenjin]] warriors and [[Kikuyu]] farmers, but they intervened selectively, protecting Kalenjin attackers while disarming Kikuyu victims. Similar patterns occurred in the [[1997 Election Violence|1997 Coast violence]], where GSU forces either stood aside during ethnic clashes or actively participated. Parliamentary investigations later documented GSU involvement in organizing and arming militia groups, though no officers were ever prosecuted.
 
@@ -22,9 +22,9 @@ The GSU's legacy outlasted Moi's presidency. Even after democratic reforms in 20
 - [[Detention Without Trial Under Moi]]
 - [[1992 Election and Ethnic Violence]]
 - [[Moi and the Universities]]
-- [[Kalenjin/Kalenjin Dominance in Security Forces]]
-- [[Corruption/Security Sector Corruption]]
-- [[Cross-Ethnic/State Violence and Ethnic Targeting]]
+- [[Kenya Defence Forces]]
+- Security Sector Corruption
+- State Violence and Ethnic Targeting
 
 ## Sources
 1. Kenya Human Rights Commission. *Kayas of Deprivation, Kayas of Blood: Violence, Ethnicity and the State in Coastal Kenya*. KHRC, 1997. https://www.khrc.or.ke/publications/

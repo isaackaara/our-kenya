@@ -20,7 +20,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Mombasa Port Corruption]]
 - [[Kenya]]
 - [[IT Infrastructure Kenya]]
-- [[Trade Facilitation Kenya]]
+- [[Economy]]
 - [[East Africa]]
 - [[Kenya Economic Overview]]
 

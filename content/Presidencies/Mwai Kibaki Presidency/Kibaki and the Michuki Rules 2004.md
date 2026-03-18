@@ -10,12 +10,12 @@ The Michuki Rules nonetheless represented an important moment in Kibaki's govern
 
 ## See Also
 
-[[John Michuki and Internal Security]]
-[[Road Safety Kenya]]
+John Michuki and Internal Security
+Road Safety Kenya
 [[Tea Industry Kenya]]
 [[Public Art]]
 [[Kibaki and the ICC]]
-[[Law and Order Kenya]]
+Law and Order Kenya
 
 ## Sources
 

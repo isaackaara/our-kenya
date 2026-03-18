@@ -25,7 +25,7 @@ When the British began consolidating their control of East Africa in the 1880s a
 - [[Indians and the Uganda Railway]]
 - [[Indian Traders and the Duka]]
 - [[Asians in Colonial Kenya]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

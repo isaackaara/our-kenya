@@ -1,4 +1,4 @@
-E-commerce in [[Kenya]] has grown through platforms like [[Jumia]], [[Jiji]], and others, enabling online retail and marketplace transactions. The sector reflects [[Internet Kenya|internet adoption]] and digital payment infrastructure, though growth faces logistics and payment challenges.
+E-commerce in [[Kenya]] has grown through platforms like Jumia, Jiji, and others, enabling online retail and marketplace transactions. The sector reflects [[Internet Kenya|internet adoption]] and digital payment infrastructure, though growth faces logistics and payment challenges.
 
 ## See Also
 
@@ -6,7 +6,7 @@ E-commerce in [[Kenya]] has grown through platforms like [[Jumia]], [[Jiji]], an
 - [[M-Pesa]] - Mobile payment enabling online transactions
 - [[Silicon Savannah]] - Tech ecosystem supporting startups
 - [[Fintech Kenya]] - Digital payment solutions
-- [[Logistics Kenya]] - Last-mile delivery challenges
+- Logistics Kenya - Last-mile delivery challenges
 - [[Kenya Economic Overview]] - Consumer and retail landscape
 - [[Kenyan Startups]] - E-commerce platform companies
 

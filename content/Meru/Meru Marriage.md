@@ -4,7 +4,7 @@ title: Meru Marriage Practices
 
 # Meru Marriage: Bridewealth, Ceremony, and Contemporary Change
 
-Marriage in [[Meru society]] has historically involved a complex set of obligations, ceremonies, and property transfers. While [[modernization]] and [[Christianity]] have transformed some practices, key elements of Meru marriage tradition persist.
+Marriage in [[Meru People]] has historically involved a complex set of obligations, ceremonies, and property transfers. While modernization and [[christianity]] have transformed some practices, key elements of Meru marriage tradition persist.
 
 ## Bridewealth (Ruracio)
 
@@ -61,7 +61,7 @@ However, increasingly, Kenyans (including Meru) use both traditional councils an
 - [[Meru Njuri Ncheke]]
 - [[Meru Women's Leadership and Politics]]
 - [[Meru and Christianity]]
-- [[Meru Family Structure]]
+- Meru Family Structure
 
 ---
 

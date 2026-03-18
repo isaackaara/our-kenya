@@ -23,7 +23,7 @@ Contemporary Giriama communities face significant interconnected challenges incl
 - [[Kilifi Cultural Heritage|Kilifi Cultural Heritage]]
 - [[Kilifi Islam|Kilifi Islam]]
 - [[Giriama Kaya Forests|Giriama Kaya Forests]]
-- [[../../Swahili People|Swahili People]]
+- [[Swahili People|Swahili People]]
 
 ## Sources
 

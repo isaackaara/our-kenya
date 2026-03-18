@@ -9,9 +9,9 @@ The election outcome surprised political analysts who had predicted different re
 ## See Also
 
 - [[William Ruto Presidency|William Ruto Presidency]]
-- [[Kenya Electoral Politics|Kenya Electoral Politics]]
+- [[Elections|Kenya Electoral Politics]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya Political Realignment|Kenya Political Realignment]]
+- [[Politics|Kenya Political Realignment]]
 
 ## Sources
 

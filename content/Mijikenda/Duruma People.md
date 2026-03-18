@@ -59,7 +59,7 @@ Modern transportation and communication technologies are increasingly connecting
 ## See Also
 
 - [[Giriama People]] - Neighboring Mijikenda group
-- [[Digo People]] - Related [[ethnic group]]
+- [[Digo People]] - Related ethnic group
 - [[Cassava in Coastal Kenya]] - Agricultural practice
 - [[Kaya Forests UNESCO Heritage]] - Sacred traditions
 - [[Coastal Land Problems Kenya]] - Land tenure

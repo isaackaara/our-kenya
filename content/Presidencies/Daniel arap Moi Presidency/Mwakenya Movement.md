@@ -22,9 +22,9 @@ The Mwakenya episode revealed Moi's regime at its most paranoid and brutal. It d
 - [[Moi and the Universities]]
 - [[1982 Constitution Amendment]]
 - [[Section 2A Repeal 1991]]
-- [[Luo/Luo Intellectuals Under Moi]]
-- [[Kikuyu/Kikuyu Opposition to Moi]]
-- [[Cross-Ethnic/Socialist Movements in Kenya]]
+- Luo Intellectuals Under Moi
+- [[Multiparty Politics]]
+- Socialist Movements in Kenya
 
 ## Sources
 1. Amnesty International. *Kenya: Torture, Political Detention and Unfair Trials*. Amnesty International, 1987. https://www.amnesty.org/en/documents/afr32/001/1987/en/

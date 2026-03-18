@@ -1,4 +1,4 @@
-Carbon credit financing represents an emerging mechanism for funding [[Conservation|conservation]] efforts in Kenya, where ecosystem protection generates [[Carbon Credits and Conservation|carbon credits]] providing revenue for [[Wildlife Protection|protection]]. [[REDD+|Reduced-emissions from degradation and deforestation (REDD+)]] and [[Carbon Markets|carbon market mechanisms]] link [[Climate Change Mitigation|climate change mitigation]] with [[Conservation|conservation finance]], creating potential alignment between [[Global Climate Action|global climate action]] and local [[Conservation|conservation]]. [[Northern Kenya Rangelands Carbon Project|Northern Kenya projects]] and [[Kasigau|Kasigau Corridor]] demonstrate integration of conservation with community benefits.
+Carbon credit financing represents an emerging mechanism for funding [[Conservation|conservation]] efforts in Kenya, where ecosystem protection generates [[Carbon Credits and Conservation|carbon credits]] providing revenue for [[Wildlife Protection|protection]]. Reduced-emissions from degradation and deforestation (REDD+) and carbon market mechanisms link climate change mitigation with [[Conservation|conservation finance]], creating potential alignment between global climate action and local [[Conservation|conservation]]. Northern Kenya projects and [[Kasigau|Kasigau Corridor]] demonstrate integration of conservation with community benefits.
 
 ## Carbon Markets and Conservation Finance
 
@@ -74,8 +74,8 @@ Carbon finance has potential to generate substantial revenue for conservation, b
 
 - [[Climate Change and Wildlife]]
 - [[Community Conservancies Model]]
-- [[Forest Protection in Kenya]]
-- [[Ecosystem Services Valuation]]
+- Forest Protection in Kenya
+- Ecosystem Services Valuation
 - [[Moi and the Luo Community]]
 - [[Northern Rangelands Trust]]
 - [[Development Aid]]

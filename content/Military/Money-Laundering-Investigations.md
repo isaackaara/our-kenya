@@ -1,6 +1,6 @@
-Financial crime investigation in Kenya has exposed systematic patterns of [[Money-Laundering-Investigations|money laundering]] through military and security institutions, primarily involving proceeds from [[Arms-Procurement-Practices|arms procurement]], [[Corruption Military Institutions|military corruption]], and international trafficking networks. The [[Financial Crimes Unit]] of the [[Kenya Police]], established in 2002, has conducted investigations into dormant accounts held by senior military officers, shell companies registered by defence ministry officials, and real estate transactions funded by unexplained wealth in post-conflict border regions.
+Financial crime investigation in Kenya has exposed systematic patterns of [[Money-Laundering-Investigations|money laundering]] through military and security institutions, primarily involving proceeds from [[Arms-Procurement-Practices|arms procurement]], [[Corruption Military Institutions|military corruption]], and international trafficking networks. The Financial Crimes Unit of the [[Kenya Police]], established in 2002, has conducted investigations into dormant accounts held by senior military officers, shell companies registered by defence ministry officials, and real estate transactions funded by unexplained wealth in post-conflict border regions.
 
-The 2018 investigation into the Nairobi Diamond Network revealed systematic laundering of proceeds through military social clubs and officers' welfare associations. Defence officials had established parallel banking structures in tax havens, with funds traced to procurement irregularities worth KES 2.3 billion between 2012 and 2016. The [[Anti-Money Laundering Authority]] coordinated with international counterparts to trace the flow of capital through [[UAE]] and [[Singapore]] banking systems.
+The 2018 investigation into the Nairobi Diamond Network revealed systematic laundering of proceeds through military social clubs and officers' welfare associations. Defence officials had established parallel banking structures in tax havens, with funds traced to procurement irregularities worth KES 2.3 billion between 2012 and 2016. The Anti-Money Laundering Authority coordinated with international counterparts to trace the flow of capital through UAE and Singapore banking systems.
 
 Cross-border smuggling operations in [[Somalia]] and [[South Sudan]] generated cash flows that required immediate domestication. Security Force commanders operating in these regions maintained private banking relationships with complicit institutions, creating layering mechanisms through forex dealing, real estate, and informal money transfer systems. By 2020, investigations had identified 47 dormant accounts linked to military officers with combined holdings exceeding KES 850 million that could not be justified through declared military salaries.
 
@@ -12,8 +12,8 @@ International cooperation improved significantly after 2015, with [[Central Bank
 
 [[Corruption Military Institutions]]
 [[Arms-Procurement-Practices]]
-[[Financial Crimes Unit]]
-[[Anti-Money Laundering Authority]]
+Financial Crimes Unit
+Anti-Money Laundering Authority
 [[Defence Budget Spending]]
 [[Kenya Police]]
 [[Security Sector Reform]]

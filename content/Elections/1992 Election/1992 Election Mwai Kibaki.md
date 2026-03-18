@@ -14,11 +14,11 @@ Kibaki's 1992 campaign also highlighted the limitations of centrist opposition p
 
 - [[1992 Election]]
 - [[Mwai Kibaki]]
-- [[Democratic Party Kenya]]
+- Democratic Party Kenya
 - [[Moi and the Opposition]]
 - [[Kikuyu]]
-- [[Technocratic Politics]]
-- [[Presidential Candidates 1992]]
+- Technocratic Politics
+- Presidential Candidates 1992
 
 ## Sources
 

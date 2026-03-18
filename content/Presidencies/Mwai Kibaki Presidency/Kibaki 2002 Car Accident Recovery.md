@@ -10,10 +10,10 @@ The accident and Kibaki's response to it became part of his political mythology,
 
 ## See Also
 
-[[2002 Kenya Elections Transition]]
+2002 Kenya Elections Transition
 [[Kibaki Health Issues and Governance]]
 [[NARC Coalition Formation]]
-[[Moi Authoritarian Rule End]]
+Moi Authoritarian Rule End
 [[Kibaki and the ICC]]
 
 ## Sources

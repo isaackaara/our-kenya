@@ -15,8 +15,8 @@ The sultanate's political independence gradually eroded during the colonial peri
 [[Swahili Religious Syncretism]]
 [[Islamic Lamu Scholarship]]
 [[Islamic Courts Sharia Law]]
-[[Mombasa/Islamic Trade Networks]]
-[[Colonial Kenya/Coastal Administration]]
+Islamic Trade Networks
+Coastal Administration
 
 ## Sources
 

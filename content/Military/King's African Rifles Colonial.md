@@ -17,7 +17,7 @@ The legacy of the King's African Rifles in Kenya extended beyond structural cont
 [[Military Training Recruitment]]
 [[Military Leadership Commanders]]
 [[Armed Forces Infrastructure]]
-[[Mau Mau Revolt]]
+[[Mau Mau Uprising]]
 
 ## Sources
 

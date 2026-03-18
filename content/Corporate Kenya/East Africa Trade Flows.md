@@ -21,7 +21,7 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[East African Community]]
 - [[Northern Corridor Kenya]]
 - [[Mombasa Port History]]
-- [[Manufacturing Sector Kenya]]
+- [[Economy]]
 - [[Kenya Economic Overview]]
 
 ## Sources

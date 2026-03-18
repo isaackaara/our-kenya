@@ -27,7 +27,7 @@ The 2010 Constitution mandated health rights including maternal health. Free mat
 [[Reproductive Rights Advocacy]]
 [[Gender Healthcare Access]]
 [[Women Mental Health]]
-[[Health/Health Systems]]
+[[Health Systems]]
 
 ## Sources
 

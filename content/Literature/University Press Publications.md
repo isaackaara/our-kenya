@@ -27,9 +27,9 @@ Contemporary university presses in Kenya continue publishing scholarly and liter
 ## See Also
 [[University of Nairobi Literary Culture]]
 [[Publishing Industry Kenya]]
-[[Academic Publishing Africa]]
+Academic Publishing Africa
 [[Literary Journals Publishing]]
-[[Scholarly Research Kenya]]
+Scholarly Research Kenya
 [[Digital Art]]
 [[Literature]]
 

@@ -1,4 +1,4 @@
-[[Community Conservation Model|Community conservation]] represents a fundamental shift in [[Conservation|conservation philosophy]], recognizing that sustainable [[Wildlife Protection|wildlife protection]] requires local [[support|community support]] and [[Benefit-Sharing|benefit-sharing]]. This model emerged from recognition that [[Fortress Conservation Critique|fortress conservation]] (excluding communities from [[Marine Protected Areas|protected areas]]) was ecologically and socially unsustainable. The model requires integration of [[Moi and the Luo Community|community interests]] with [[Conservation|conservation objectives]].
+[[Community Conservation Model|Community conservation]] represents a fundamental shift in [[Conservation|conservation philosophy]], recognizing that sustainable [[Wildlife Protection|wildlife protection]] requires local [[support|community support]] and benefit-sharing. This model emerged from recognition that [[Fortress Conservation Critique|fortress conservation]] (excluding communities from [[Marine Protected Areas|protected areas]]) was ecologically and socially unsustainable. The model requires integration of [[Moi and the Luo Community|community interests]] with [[Conservation|conservation objectives]].
 
 ## Philosophical Shift
 
@@ -62,10 +62,10 @@ Community conservation has achieved notable successes in northern Kenya, demonst
 
 - [[Community Conservancies Model]]
 - [[Northern Rangelands Trust]]
-- [[Wildlife Revenue Sharing]]
-- [[Tourism and Community Benefits]]
-- [[Pastoral Communities and Wildlife]]
-- [[Land Rights and Tenure]]
+- Wildlife Revenue Sharing
+- Tourism and Community Benefits
+- Pastoral Communities and Wildlife
+- [[Land Tenure Post Independence]]
 - [[Conservation vs Land Rights]]
 
 ## Sources

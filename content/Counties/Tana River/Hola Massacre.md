@@ -16,7 +16,7 @@ The massacre's legacy extends into contemporary Kenya. Historical commissions ha
 
 - [[Hola Town|Hola Town]]
 - [[Tana River Colonial History|Tana River Colonial History]]
-- [[Mau Mau Rebellion|Mau Mau Rebellion]]
+- [[Mau Mau Uprising|Mau Mau Rebellion]]
 - [[Tana River Politics|Tana River Politics]]
 - [[Tana River County|Tana River County Overview]]
 - [[Kenya|Kenya Independence Movement]]

@@ -11,9 +11,9 @@ Equity dimensions of biometric systems reflected broader humanitarian technology
 [[Refugee Registration Systems]]
 [[Identity Documentation]]
 [[Kenya Refugee Policy]]
-[[Data Protection Refugees]]
-[[Technology Humanitarian Operations]]
-[[Refugee Privacy Rights]]
+Data Protection Refugees
+Technology Humanitarian Operations
+Refugee Privacy Rights
 
 ## Sources
 

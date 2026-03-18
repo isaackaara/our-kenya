@@ -1,4 +1,4 @@
-The [[Merchant Vessel Armament]] reflects the integration of commercial and military capabilities required for defending merchant shipping in the Indian Ocean. The installation of defensive weapons on merchant vessels represented merchant response to piracy and maritime warfare. The balance between armament weight and cargo capacity created design trade-offs that merchants had to negotiate. The variation in armament across different merchant vessels reflected different merchants' assessments of piracy risk and defensive capability requirements.
+The Merchant Vessel Armament reflects the integration of commercial and military capabilities required for defending merchant shipping in the Indian Ocean. The installation of defensive weapons on merchant vessels represented merchant response to piracy and maritime warfare. The balance between armament weight and cargo capacity created design trade-offs that merchants had to negotiate. The variation in armament across different merchant vessels reflected different merchants' assessments of piracy risk and defensive capability requirements.
 
 The weapons typical of merchant vessels included cannons mounted on vessel decks, muskets for crew defense, and various bladed weapons for close combat. The cannons provided long-range defensive capability that could deter pirate attacks. The muskets provided intermediate-range capability for crew defense. The bladed weapons represented last resort for hand-to-hand combat during pirate boarding attempts. The arsenal of merchant vessels reflected adaptation to multiple combat scenarios.
 
@@ -21,10 +21,10 @@ The decline of merchant vessel armament in safer waters reflected the reduced pi
 ## See Also
 
 [[Naval Defense]]
-[[Piracy Trade Safety]]
+Piracy Trade Safety
 [[Merchant Vessels]]
-[[Maritime Combat]]
-[[Trade Route Safety]]
+Maritime Combat
+Trade Route Safety
 
 ## Sources
 

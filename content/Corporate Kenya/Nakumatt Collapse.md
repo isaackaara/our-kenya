@@ -1,4 +1,4 @@
-Nakumatt was once Kenya's largest [[Retail Revolution Kenya]] chain, with 60+ stores across East Africa. It collapsed spectacularly in 2018 due to overexpansion, debt accumulation, supplier abandonment, and alleged management fraud. The collapse devastated suppliers and employees and accelerated consolidation in Kenya's retail sector.
+Nakumatt was once Kenya's largest [[Nairobi CBD Economy]] chain, with 60+ stores across East Africa. It collapsed spectacularly in 2018 due to overexpansion, debt accumulation, supplier abandonment, and alleged management fraud. The collapse devastated suppliers and employees and accelerated consolidation in Kenya's retail sector.
 
 ## Rise and Dominance
 
@@ -46,13 +46,13 @@ The retail sector has consolidated, with larger, better-capitalised players (Nai
 
 ## See Also
 
-- [[Retail Revolution Kenya]]
+- [[Nairobi CBD Economy]]
 - [[Supermarket Industry Kenya]]
 - [[Corporate Kenya]]
 - [[Banking History Kenya]]
 - [[Kenya Economic Overview]]
-- [[Business Failures Kenya]]
-- [[Supply Chain Development]]
+- Business Failures Kenya
+- Supply Chain Development
 
 ## Sources
 

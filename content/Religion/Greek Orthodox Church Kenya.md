@@ -16,7 +16,7 @@ Contemporary Orthodox presence in Kenya remains limited but significant within i
 [[Church and State Relations]]
 [[Christianity and Colonial Missions]]
 [[Religion Kenyan Literature]]
-[[Colonial Kenya/Religious Diversity]]
+Religious Diversity
 
 ## Sources
 

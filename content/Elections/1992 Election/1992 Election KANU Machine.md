@@ -14,11 +14,11 @@ The 1992 election demonstrated both the strength of KANU's organizational appara
 
 - [[1992 Election]]
 - [[Moi and KANU]]
-- [[Party Machines]]
-- [[Electoral Machinery]]
+- Party Machines
+- Electoral Machinery
 - [[Elections]]
-- [[Incumbency Advantage]]
-- [[Grassroots Organization]]
+- Incumbency Advantage
+- Grassroots Organization
 
 ## Sources
 

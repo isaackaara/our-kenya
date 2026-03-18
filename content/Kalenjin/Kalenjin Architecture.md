@@ -49,9 +49,9 @@ The transition from traditional to modern housing has had implications for commu
 These changes reflect broader modernization processes and their impacts on traditional social structures and community organization.
 
 ## Cross-Links
-- [[Kalenjin Homestead Organization]]
+- Kalenjin Homestead Organization
 - [[Kalenjin Pastoralism Deep Dive]]
-- [[Kalenjin Settlement Patterns]]
+- Kalenjin Settlement Patterns
 
 ## See Also
 

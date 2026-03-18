@@ -17,12 +17,12 @@ The environmental consequences of some infrastructure projects were significant 
 The concentration of infrastructure investment in politically favoured regions perpetuated regional inequality. Kalenjin regions and areas with strong political connections to Moi received disproportionate investment, while regions associated with opposition or with communities marginalised from Moi's patronage networks received less investment. This pattern of regional investment reflected and reinforced ethnic and political inequality.
 
 ## See Also
-[[Kenya/Infrastructure Development]]
+[[Infrastructure Development]]
 [[Moi Economic Record]]
 [[Moi Coffee Boom 1977-1979]]
 [[Moi and the Kalenjin]]
 [[Kenya]]
-[[Kenya/Regional Development]]
+Regional Development
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

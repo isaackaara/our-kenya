@@ -4,7 +4,7 @@ title: Uhuru Rise to Power
 
 # Uhuru Rise to Power
 
-[[Uhuru Muigai Kenyatta]] ascended from the status of president-in-waiting under Daniel arap Moi to imprisonment and international indictment, before ultimately winning the 2013 presidential election. His political trajectory spans three decades of Kenyan politics, marked by privilege, adversity, and strategic maneuvering.
+Uhuru Muigai Kenyatta ascended from the status of president-in-waiting under Daniel arap Moi to imprisonment and international indictment, before ultimately winning the 2013 presidential election. His political trajectory spans three decades of Kenyan politics, marked by privilege, adversity, and strategic maneuvering.
 
 ## Early Privilege and Moi Years
 
@@ -44,7 +44,7 @@ By 2013, Uhuru had transformed from political heir apparent who lost to a more s
 - [[Raila Odinga]]
 - [[Jubilee Party]]
 - [[2007-2008 Post Election Violence]]
-- [[2013 Kenyan Election]]
+- [[2013 Presidential Election]]
 - [[Kikuyu]]
 
 ## Sources

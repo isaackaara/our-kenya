@@ -1,4 +1,4 @@
-[[Swahili]] serves as the thread connecting all Kenyans despite the persistence of [[ethnic languages]]. Designated as [[Kenya]]'s national language at independence, [[Swahili]] functions as the primary language of [[National Cohesion and Integration Commission]], taught in all schools and understood across ethnic boundaries. The role of Swahili in national identity and cross-ethnic communication reflects the language's historical development as a trade language transcending ethnic boundaries.
+[[Swahili]] serves as the thread connecting all Kenyans despite the persistence of ethnic languages. Designated as [[Kenya]]'s national language at independence, [[Swahili]] functions as the primary language of [[National Cohesion and Integration Commission]], taught in all schools and understood across ethnic boundaries. The role of Swahili in national identity and cross-ethnic communication reflects the language's historical development as a trade language transcending ethnic boundaries.
 
 Swahili originated as a trade language on the East African coast, developing through interaction between Bantu peoples, Arab merchants, and others. The language incorporates vocabulary from Arabic, English, Portuguese, and Indian languages alongside Bantu grammar and roots. This mixed character makes Swahili intrinsically cosmopolitan and non-ethnic. No single ethnic group claims Swahili as their ancestral language, allowing the language to function as a neutral national vehicle.
 
@@ -10,7 +10,7 @@ However, Swahili competence differs significantly between coastal native speaker
 
 Contemporary Swahili usage among Kenyans reflects this complex status. Urban Kenyans commonly code-switch between Swahili, English, and ethnic languages. Young people use Swahili extensively but also use Sheng, English, and ethnic languages. The role of Swahili in identity formation varies. Some Kenyans identify strongly with Swahili as a marker of national identity. Others may view Swahili primarily as a functional language.
 
-The relationship between [[Swahili]] and [[ethnic identity]] remains contested. Some view Swahili as a unifying national language transcending ethnicity. Others view Swahili as potentially marginalizing ethnic languages and threatening linguistic diversity. The question of whether Swahili competence is deepening or whether English is displacing Swahili in contemporary Kenya remains subject to debate.
+The relationship between [[Swahili]] and [[ethnic-identity]] remains contested. Some view Swahili as a unifying national language transcending ethnicity. Others view Swahili as potentially marginalizing ethnic languages and threatening linguistic diversity. The question of whether Swahili competence is deepening or whether English is displacing Swahili in contemporary Kenya remains subject to debate.
 
 ## See Also
 

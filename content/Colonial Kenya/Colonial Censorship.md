@@ -19,10 +19,10 @@ By the 1950s, censorship restrictions became increasingly untenable as nationali
 ## See Also
 [[Colonial Newspapers]]
 [[Colonial Publishing]]
-[[Colonial Information Control]]
-[[Anti-Colonial Ideology]]
+Colonial Information Control
+Anti-Colonial Ideology
 [[Education]]
-[[Missionisation and Colonialism]]
+Missionisation and Colonialism
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

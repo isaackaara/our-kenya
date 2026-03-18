@@ -8,7 +8,7 @@ The relationship between cable television and broadcast television created compe
 
 The profitability of cable operations for operators and programmers created investment incentives and business expansion. Cable operators extended networks to reach additional urban areas and customer segments. Program providers expanded content offerings to attract cable subscribers. The economics of cable systems meant that successful operations could achieve profitability and substantial subscriber bases. However, infrastructure installation costs and maintenance requirements meant that cable systems required substantial capital investment before achieving profitability.
 
-See Also: [[Digital Television]], [[Satellite Broadcasting]], [[Television Operations]], [[Cable Network Expansion]], [[Free-to-Air Broadcasting]], [[Television Advertising]], [[Premium Television Channels]]
+See Also: [[Digital Television]], [[Satellite Broadcasting]], [[Television Operations]], Cable Network Expansion, [[Free-to-Air Broadcasting]], [[Television Advertising]], Premium Television Channels
 
 Sources:
 1. https://www.cable-television-association-kenya.org/

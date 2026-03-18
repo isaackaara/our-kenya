@@ -25,8 +25,8 @@ Spiritual authority outside institutional religions has provided alternative pla
 [[Women Leadership Capacity]]
 [[Women Organizations Advocacy]]
 [[Gender-Based Violence]]
-[[Christianity Kenya History]]
-[[Islam Kenya History]]
+Christianity Kenya History
+Islam Kenya History
 [[Constitutional Rights Kenya]]
 
 ## Sources

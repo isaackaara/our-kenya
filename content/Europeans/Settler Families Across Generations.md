@@ -1,4 +1,4 @@
-The history of [[European settler families]] in Kenya traces a distinctive arc from [[colonial pioneers]] to [[contemporary Kenyans]], spanning five generations and raising persistent questions about [[The Question of Belonging]], [[inheritance]], and [[historical guilt]].
+The history of European settler families in Kenya traces a distinctive arc from colonial pioneers to contemporary Kenyans, spanning five generations and raising persistent questions about [[The Question of Belonging]], inheritance, and historical guilt.
 
 ## The First Generation (1900s-1920s)
 

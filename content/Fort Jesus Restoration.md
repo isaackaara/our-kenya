@@ -6,7 +6,7 @@ The context of fort jesus restoration illuminates how local, regional, and natio
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

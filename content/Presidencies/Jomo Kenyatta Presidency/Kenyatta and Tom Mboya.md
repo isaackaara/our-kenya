@@ -25,7 +25,7 @@ The Kenyatta-Mboya relationship also embodied broader historical questions about
 - [[Kenyatta Opposition Suppression|Kenyatta Opposition Suppression]]
 - [[Kenyatta and the Luo|Kenyatta and the Luo]]
 - [[Tom Mboya|Tom Mboya]]
-- [[../../Kenya Political Violence|Kenya Political Violence]]
+- Kenya Political Violence
 
 ## Sources
 

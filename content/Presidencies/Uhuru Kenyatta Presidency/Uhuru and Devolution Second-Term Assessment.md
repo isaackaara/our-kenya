@@ -10,11 +10,11 @@ By the end of Uhuru's presidency, devolution had become another unfulfilled cons
 
 ## See Also
 [[Uhuru and Devolution]]
-[[County Governments Under Devolution]]
-[[Fiscal Federalism Kenya]]
-[[Service Delivery Under Devolution]]
-[[Central-Local Government Relations]]
-[[County Revenue and Finance]]
+County Governments Under Devolution
+Fiscal Federalism Kenya
+Service Delivery Under Devolution
+Central-Local Government Relations
+County Revenue and Finance
 
 ## Sources
 1. https://www.oecd.org/governance/devolution-in-kenya-assessment-2019

@@ -10,7 +10,7 @@ Contemporary identification as Dorobo has become less common as distinct group n
 
 ## See Also
 
-[[Ogiek\ Community\ History]] | [[Forest\ Rights\ Land]] | [[Hunting\ Traditions]] | [[Okiek]] | [[Mount Elgon]] | [[Wildlife\ Relationships]] | [[Colonial Kenya]]
+[[Ogiek\ Community\ History]] | [[Forest\ Rights\ Land]] | [[Hunting\ Traditions]] | Okiek | [[Mount Elgon]] | [[Wildlife\ Relationships]] | [[Colonial Kenya]]
 
 ## Sources
 

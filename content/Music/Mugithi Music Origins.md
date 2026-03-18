@@ -6,7 +6,7 @@ Musical pioneers like [[Joseph Kamaru|Joseph Kamaru]] and John Nzenze establishe
 
 Mugithi distinguished itself through direct, unvarnished social commentary. While [[Moi Era Music and Censorship|government censorship]] suppressed political critique on national radio, mugithi artists addressed local concerns: poverty, corruption, marriage disputes, land issues, generational conflict. The genre operated below national political radar, using Kikuyu language and local references that state censors either missed or deemed too localized to matter.
 
-Performance contexts shaped mugithi's aesthetic. Unlike studio-polished [[Music/Kenyan Benga Music|benga]], mugithi often featured raw, live energy captured in single takes at small recording operations along Nairobi's River Road. This lo-fi quality became part of mugithi's authenticity, signaling music made by and for working people rather than commercial pop formulas.
+Performance contexts shaped mugithi's aesthetic. Unlike studio-polished [[Kenyan Benga Music|benga]], mugithi often featured raw, live energy captured in single takes at small recording operations along Nairobi's River Road. This lo-fi quality became part of mugithi's authenticity, signaling music made by and for working people rather than commercial pop formulas.
 
 The genre's social function extended beyond entertainment. Mugithi performances served as community forums where shared values were reinforced, social norms debated, and collective identity expressed. Lyrics frequently addressed proper behavior, warned against social ills, or celebrated Kikuyu cultural pride. This didactic dimension gave mugithi moral authority alongside musical appeal.
 
@@ -26,7 +26,7 @@ Mugithi's influence extended beyond Kikuyu communities. Other ethnic groups deve
 - [[Music and the Kikuyu Political Revival]]
 - [[Recording Studios Kenya 1980s-1990s]]
 - [[Moi Era Music and Censorship]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 
 ## Sources
 1. Wikipedia. "Mugithi." December 1, 2025. https://en.wikipedia.org/wiki/Mugithi

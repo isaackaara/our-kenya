@@ -57,13 +57,13 @@ However, the 2022 election result (Ruto's victory despite elite consensus suppor
 ## See Also
 
 - [[Raila Odinga]]
-- [[Orange Democratic Movement]]
+- Orange Democratic Movement
 - [[Uhuru Handshake]]
 - [[2017 Election NASA Coalition]]
-- [[2017 Kenyan Election]]
+- [[2017 Presidential Election]]
 - [[Kenyan Hip-Hop]]
 - [[Kenyan Somali and the 2022 Election]]
-- [[Press Freedom in Kenya]]
+- Press Freedom in Kenya
 
 ## Sources
 

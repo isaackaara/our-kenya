@@ -137,7 +137,7 @@ Contemporary Gusii writers sometimes incorporate Ekegusii language elements and 
 - [[Gusii Proverbs]] - proverbial wisdom traditions
 - [[Ekegusii Language and Linguistic Identity]] - language of oral traditions
 - [[Kisii Education Culture]] - cultural transmission methods
-- [[Oral literature in Africa]] - comparative African traditions
+- Oral literature in Africa - comparative African traditions
 - [[Art Preservation]] - documentation initiatives
 
 ## Sources

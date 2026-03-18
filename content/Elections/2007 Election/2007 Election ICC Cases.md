@@ -4,7 +4,7 @@ The International Criminal Court opened investigations into the post-election vi
 
 - [[Post-Election Violence]]
 - [[International Criminal Court]]
-- [[Accountability for mass violence]]
+- Accountability for mass violence
 - [[Uhuru Kenyatta]]
 - [[William Ruto]]
 

@@ -40,7 +40,7 @@ Her image has been contested and reinterpreted over time. Colonial narratives in
 - [[Giriama People]] - Her ethnic community and power base
 - [[Mijikenda Women]] - Role of women in Mijikenda leadership
 - [[Mekatilili wa Menza Extended]] - Extended biography and contemporary legacy
-- [[Kaya Fungo]] - Sacred center at heart of her movement
+- Kaya Fungo - Sacred center at heart of her movement
 - [[Kaya Elders]] - Traditional authority structures she challenged
 - [[Mijikenda Traditional Religion]] - Spiritual foundations of her resistance
 

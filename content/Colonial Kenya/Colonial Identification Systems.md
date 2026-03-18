@@ -19,10 +19,10 @@ Identity documentation systems persisted after independence, with post-colonial 
 ## See Also
 [[Colonial Pass Laws]]
 [[Colonial Census Operations]]
-[[Colonial Surveillance]]
+Colonial Surveillance
 [[Colonial Records Management]]
-[[Colonial Control Mechanisms]]
-[[Racial Classification Systems]]
+Colonial Control Mechanisms
+Racial Classification Systems
 
 ## Sources
 1. Anderson, David M. "Histories of the Hanged: The Dirty War in Kenya and the End of Empire." WW Norton & Company, 2005. https://www.wwnorton.com/books/Histories-of-the-Hanged/

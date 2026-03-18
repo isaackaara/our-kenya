@@ -6,7 +6,7 @@ The context of marriage and alliance networks illuminates how local, regional, a
 
 ## See Also
 
-[[Society]], [[Kenya History]], [[Historical Development]]
+Society, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

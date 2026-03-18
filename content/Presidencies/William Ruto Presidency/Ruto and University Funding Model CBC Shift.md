@@ -11,10 +11,10 @@ By 2025, Kenya's education system remained in transition, with ongoing adjustmen
 ## See Also
 [[Ruto Education and University]]
 [[Competency Based Curriculum]]
-[[Student Debt and Educational Access]]
-[[Higher Education Financing Kenya]]
-[[Education Reform and Social Equity]]
-[[Employment Skills Mismatch Kenya]]
+Student Debt and Educational Access
+Higher Education Financing Kenya
+Education Reform and Social Equity
+Employment Skills Mismatch Kenya
 
 ## Sources
 1. https://www.standardmedia.co.ke/education/article/2001418765-university-funding-ruto-cbc

@@ -5,9 +5,9 @@ The violence was not purely spontaneous but had characteristics of organization,
 ## See Also
 
 - [[2007 Election]]
-- [[Ethnic violence Kenya]]
-- [[Post-election violence]]
-- [[Kofi Annan mediation]]
+- [[Post-Election Violence]]
+- [[Post-Election Violence]]
+- [[Kofi Annan Mediation]]
 - [[2007 Election Rift Valley Violence]]
 
 ## Sources

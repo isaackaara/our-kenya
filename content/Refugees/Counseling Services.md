@@ -11,9 +11,9 @@ Counseling accessibility remained constrained by multiple barriers. Language bar
 [[Refugee Mental Health]]
 [[Trauma Psychological Support]]
 [[Refugee Resilience Building]]
-[[Cultural Competency Counseling]]
-[[Mental Health Refugee Camps]]
-[[Psychosocial Services]]
+Cultural Competency Counseling
+Mental Health Refugee Camps
+Psychosocial Services
 
 ## Sources
 

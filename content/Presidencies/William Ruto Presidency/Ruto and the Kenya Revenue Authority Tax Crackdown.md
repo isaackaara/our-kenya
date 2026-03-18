@@ -10,11 +10,11 @@ By 2025, the KRA's aggressive posture had become controversial, with business or
 
 ## See Also
 [[Ruto Economic Policy]]
-[[Fiscal Austerity and Growth]]
-[[Kenya's Tax Base Expansion]]
-[[Business Environment Under Ruto]]
-[[Informal Economy and Taxation]]
-[[Government Revenue and Debt Service]]
+Fiscal Austerity and Growth
+Kenya's Tax Base Expansion
+Business Environment Under Ruto
+Informal Economy and Taxation
+Government Revenue and Debt Service
 
 ## Sources
 1. https://www.standardmedia.co.ke/business/article/2001425789-kra-tax-collection-crackdown-ruto

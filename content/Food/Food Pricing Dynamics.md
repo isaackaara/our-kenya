@@ -12,7 +12,7 @@ Inflation eroded farmer incomes when input and food prices increased faster than
 
 Information asymmetries between farmers and traders/consumers created pricing vulnerability. Farmers often lacked current market price information when marketing harvests. Traders captured information premiums, offering low prices to farmers who did not know alternatives. Radio price reporting and mobile phone market information improved farmer awareness, reducing middleman information advantages.
 
-Market structure affected pricing. In competitive markets with many buyers, farm prices reflected competition. In areas with few buyers or one dominant trader, monopsony power allowed depressed farmer prices. Farmer [[Cooperatives]] attempted to increase pricing power through collective marketing, but market power remained limited in areas with many small producer organizations competing.
+Market structure affected pricing. In competitive markets with many buyers, farm prices reflected competition. In areas with few buyers or one dominant trader, monopsony power allowed depressed farmer prices. Farmer Cooperatives attempted to increase pricing power through collective marketing, but market power remained limited in areas with many small producer organizations competing.
 
 Price volatility created risk that farmers managed through variety of strategies. Diversified crop production, storage, off-farm income, and kinship exchange networks provided risk management. However, poorest farmers had limited ability to manage price volatility, creating welfare vulnerability. Price stabilization policies attempted to reduce volatility, though effectiveness was limited when volatility reflected actual supply scarcity.
 

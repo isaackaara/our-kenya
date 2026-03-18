@@ -64,13 +64,13 @@ Kenya participated in international climate negotiations and was affected by dro
 
 ## See Also
 
-- [[African Union]]
+- African Union
 - [[International Criminal Court]]
 - [[East African Community]]
-- [[Kenya-China Relations]]
-- [[Kenya Counter-Terrorism]]
+- [[Kenya Railways]]
+- Kenya Counter-Terrorism
 - [[Somali]]
-- [[Kenya-United States Relations]]
+- Kenya-United States Relations
 - [[Job Security]]
 
 ## Sources

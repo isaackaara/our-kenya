@@ -10,12 +10,12 @@ The Kibaki-Musyoka relationship exemplified the challenges of ethnic coalition b
 
 ## See Also
 
-[[Kalonzo Musyoka Political Career]]
-[[Kamba Political Interests Kenya]]
+Kalonzo Musyoka Political Career
+Kamba Political Interests Kenya
 [[Presidency Of Moi]]
-[[Coalition Politics Kenya]]
-[[2007 Election Realignments]]
-[[Cross-Ethnic/ Alliances and Tensions]]
+Coalition Politics Kenya
+2007 Election Realignments
+Alliances and Tensions
 
 ## Sources
 

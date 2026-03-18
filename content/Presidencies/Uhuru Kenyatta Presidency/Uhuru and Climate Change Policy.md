@@ -10,11 +10,11 @@ Uhuru left office with Kenya's climate paradox unresolved: a nation that signed 
 
 ## See Also
 [[Uhuru Economic Record]]
-[[Kenya's Energy Sector Under Uhuru]]
+[[Energy Access]]
 [[Environmental Art]]
-[[Renewable Energy in Kenya 2013-2022]]
-[[Uhuru Foreign Policy Climate Diplomacy]]
-[[Climate Finance and Kenya]]
+Renewable Energy in Kenya 2013-2022
+Uhuru Foreign Policy Climate Diplomacy
+Climate Finance and Kenya
 
 ## Sources
 1. https://www.climatechangeportal.go.ke/

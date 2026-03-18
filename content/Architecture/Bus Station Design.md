@@ -18,7 +18,7 @@ Contemporary bus station design faces persistent challenges. Many stations, desp
 [[Commercial Building]]
 [[Urban Planning Development]]
 [[Nairobi CBD]]
-[[Sanitation Infrastructure]]
+Sanitation Infrastructure
 
 ## Sources
 

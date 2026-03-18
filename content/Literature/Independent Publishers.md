@@ -1,6 +1,6 @@
 Independent publishers emerged in Kenya as alternative to government-supported and international publishing houses, creating institutional spaces where Kenyan literary production could develop according to local aesthetic and political commitments rather than commercial or state priorities. These smaller publishers often maintained commitment to literary quality and cultural significance even when commercial viability remained uncertain.
 
-The [[East African Educational Publishers]] exemplified independent publishing's possibilities, establishing itself as major publisher capable of producing quality work addressing African literary and educational contexts. The publisher's willingness to invest in literature and theoretical works that commercial calculation might deem unmarketable demonstrated that independent publishers could sustain viable business models through community support and institutional sales.
+The East African Educational Publishers exemplified independent publishing's possibilities, establishing itself as major publisher capable of producing quality work addressing African literary and educational contexts. The publisher's willingness to invest in literature and theoretical works that commercial calculation might deem unmarketable demonstrated that independent publishers could sustain viable business models through community support and institutional sales.
 
 Independent publishers benefited from networks of writers, readers, and educators committed to supporting Kenyan literary production. These communities provided markets for published work while offering editorial feedback and strategic guidance. The collaborative relationships between independent publishers and literary communities created publishing cultures distinct from both commercial publishing's marketing imperatives and government publishing's political constraints.
 
@@ -23,7 +23,7 @@ Yet independent publishers' persistence and continuing emergence demonstrated th
 Contemporary independent publishing in Kenya includes both established publishers with decades of operations and newer presses emerging from digital publishing technologies. The independent publishing ecosystem remains secondary in terms of market share and cultural prestige, yet continues sustaining literary production reflecting Kenya's intellectual and aesthetic diversity.
 
 ## See Also
-[[East African Educational Publishers]]
+East African Educational Publishers
 [[Publishing Industry Kenya]]
 [[Literary Journals Publishing]]
 [[Self-Publishing Movement]]

@@ -11,10 +11,10 @@ The establishment of the ICC prosecution of Kenyan leaders, which followed from 
 ## See Also
 
 [[2007-08 Post-Election Violence]]
-[[Waki Commission Kenya]]
-[[International Criminal Court Kenya]]
-[[Post-Conflict Accountability]]
-[[Justice and Reconciliation Kenya]]
+Waki Commission Kenya
+[[ICC Cases Kenya]]
+Post-Conflict Accountability
+Justice and Reconciliation Kenya
 [[Kibaki and the ICC]]
 
 ## Sources

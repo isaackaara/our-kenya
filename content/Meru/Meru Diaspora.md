@@ -1,4 +1,4 @@
-The [[Meru people|Meru]] diaspora comprises Meru people who have relocated to [[Nairobi]], other Kenyan urban centers, and internationally. The diaspora includes professionals, traders, students, and migrant workers who maintain varying degrees of connection to [[Meru County]] and broader Meru community.
+The [[Meru People|Meru]] diaspora comprises Meru people who have relocated to [[Nairobi]], other Kenyan urban centers, and internationally. The diaspora includes professionals, traders, students, and migrant workers who maintain varying degrees of connection to [[Meru County]] and broader Meru community.
 
 ## Nairobi-Based Diaspora
 
@@ -14,7 +14,7 @@ Diaspora Meru send money home to support family members, fund education for youn
 
 ## Miraa Diaspora and Trade
 
-A significant portion of [[Miraa]] produced in Meru is transported to [[Nairobi]], where it is sold in specific market areas, particularly areas with high Somali concentration. Meru miraa traders operate in Nairobi and other cities, connecting production areas with urban and international consumers. The miraa diaspora represents both economic opportunity and health concerns around substance use.
+A significant portion of [[Miraa Trade]] produced in Meru is transported to [[Nairobi]], where it is sold in specific market areas, particularly areas with high Somali concentration. Meru miraa traders operate in Nairobi and other cities, connecting production areas with urban and international consumers. The miraa diaspora represents both economic opportunity and health concerns around substance use.
 
 ## Community Organizations and Identity Maintenance
 
@@ -42,10 +42,10 @@ Diaspora Meru may participate in political processes through voting (if eligible
 
 ## See Also
 
-- [[Meru people]]
+- [[Meru People]]
 - [[Meru County]]
 - [[Nairobi]]
-- [[Urban Migration Kenya]]
+- Urban Migration Kenya
 - [[Remittances Kenya Economy]]
 - [[Women and Migration Kenya]]
 

@@ -40,7 +40,7 @@ Inter-communal peace processes have had political dimensions, with political lea
 - [[Pokomo People|Pokomo People]]
 - [[Orma People|Orma People]]
 - [[Kenya|Kenya Political System]]
-- [[2010 Kenya Constitutional Reform|Kenya Constitutional Reform 2010]]
+- Kenya Constitutional Reform 2010
 
 ## Sources
 

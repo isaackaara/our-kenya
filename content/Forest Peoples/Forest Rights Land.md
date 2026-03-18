@@ -21,10 +21,10 @@ The tension between conservation and rights-based approaches to forest managemen
 [[Ogiek Community History]]
 [[Sengwer Indigenous People]]
 [[Mau Forest]]
-[[Embobut Forest]]
-[[Eviction Forest Lands]]
-[[Kenya Forest Service Policy]]
-[[Conservation Kenya]]
+Embobut Forest
+Eviction Forest Lands
+Kenya Forest Service Policy
+[[Conservation]]
 
 ## Sources
 

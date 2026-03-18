@@ -24,8 +24,8 @@ Migration of youth to urban areas or out of the county for education and employm
 - [[Youth Unemployment]]
 - [[Development Aid]]
 - [[Education]]
-- [[Youth Participation]]
-- [[Economic Opportunities Kenya]]
+- Youth Participation
+- Economic Opportunities Kenya
 
 ## Sources
 1. Kenya National Bureau of Statistics. "Census 2019: Youth Demographics." https://www.knbs.or.ke

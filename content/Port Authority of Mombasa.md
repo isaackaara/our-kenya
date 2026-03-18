@@ -6,7 +6,7 @@ The context of port authority of mombasa illuminates how local, regional, and na
 
 ## See Also
 
-[[Coast History]], [[Kenya History]], [[Historical Development]]
+[[Coast-History]], [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

@@ -8,11 +8,11 @@ Contemporary abstract art in Kenya continues as significant artistic practice. A
 
 ## See Also
 - [[Modernism Kenyan Art]]
-- [[Formal Properties Art]]
-- [[Color and Composition]]
-- [[Painting Traditions Kenya]]
-- [[Geometric Abstraction]]
-- [[Expressive Abstraction]]
+- Formal Properties Art
+- Color and Composition
+- [[Cultural Heritage]]
+- Geometric Abstraction
+- Expressive Abstraction
 - [[Abstract Art]]
 
 ## Sources

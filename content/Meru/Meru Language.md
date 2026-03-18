@@ -1,4 +1,4 @@
-Kimeru is the language of the [[Meru people]], a [[Luo Language]] closely related to [[Gikuyu]] and [[Embu]]. Kimeru is spoken across different Meru sub-groups, with recognizable dialectical variations. The transmission of Kimeru to younger generations faces challenges from English and Swahili language dominance in education and urban contexts.
+Kimeru is the language of the [[Meru People]], a [[Luo Language]] closely related to Gikuyu and [[Embu]]. Kimeru is spoken across different Meru sub-groups, with recognizable dialectical variations. The transmission of Kimeru to younger generations faces challenges from English and Swahili language dominance in education and urban contexts.
 
 ## Linguistic Classification
 

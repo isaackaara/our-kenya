@@ -2,7 +2,7 @@ Coconut palms transformed coastal economics and food systems, with cultivation e
 
 ## See Also
 
-[[Clove Production]], [[Coastal Food Culture]], [[Monsoon Economy Trade]], [[Coastal Settlements]], [[Agricultural systems]], [[Coastal Revenue Systems]], [[Coastal Poverty Development]]
+[[Clove Production]], [[Coastal Food Culture]], [[Monsoon Economy Trade]], [[Coastal Settlements]], Agricultural systems, [[Coastal Revenue Systems]], [[Coastal Poverty Development]]
 
 ## Sources
 

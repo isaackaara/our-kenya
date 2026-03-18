@@ -18,7 +18,7 @@ By 2024, the Hustler Fund had become a political symbol. For supporters, it was 
 - [[eCitizen and Digital Government Ruto]]
 - [[Finance Bill 2023 Kenya]]
 - [[Gen Z Kenya Political Awakening]]
-- [[Corruption/Hustler Fund Mismanagement]]
+- Hustler Fund Mismanagement
 - [[Ruto and Social Media]]
 
 ## Sources

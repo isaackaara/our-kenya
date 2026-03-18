@@ -34,7 +34,7 @@ The hospital and associated services (accommodation, transport, supplies) provid
 
 ## Sacred and Cultural Significance
 
-Mount Kenya's southeastern slopes, including the Chogoria area, hold cultural and spiritual significance for [[Meru people|Meru communities]]. The area is part of the broader sacred landscape centered on Mount Kenya.
+Mount Kenya's southeastern slopes, including the Chogoria area, hold cultural and spiritual significance for [[Meru People|Meru communities]]. The area is part of the broader sacred landscape centered on Mount Kenya.
 
 ## Contemporary Development
 
@@ -45,7 +45,7 @@ Chogoria remains a modest-sized village focused on health services and trekking 
 - [[Mount Kenya]]
 - [[Tharaka-Nithi County]]
 - [[Meru Tourism]]
-- [[Meru Culture and Spirituality]]
+- Meru Culture and Spirituality
 - [[Moi and the Church]]
 
 ## Sources

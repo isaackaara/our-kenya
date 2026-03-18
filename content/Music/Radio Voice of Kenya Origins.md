@@ -12,7 +12,7 @@ The technical infrastructure expanded rapidly. Transmitters increased in power a
 
 Voice of Kenya created opportunities for musicians but also exercised significant control. The station employed staff musicians, providing stable income but also imposing aesthetic and political constraints. Music submitted for broadcast underwent review for political content, "decency," and production quality. This gatekeeping power meant the station could make or break musical careers.
 
-The station's role in the transition to independence was complex. During the [[Elections/1963 Independence Election|independence period]], Voice of Kenya became increasingly Kenyanized in staffing and programming. African music programmers advocated for more diverse musical content. The station broadcast [[Independence Anthems Kenya|independence celebrations]] and the new [[National Anthem Kenya Creation|national anthem]], positioning itself as the voice of the new nation.
+The station's role in the transition to independence was complex. During the [[1963 Independence Election|independence period]], Voice of Kenya became increasingly Kenyanized in staffing and programming. African music programmers advocated for more diverse musical content. The station broadcast [[Independence Anthems Kenya|independence celebrations]] and the new [[National Anthem Kenya Creation|national anthem]], positioning itself as the voice of the new nation.
 
 Post-independence, Voice of Kenya (later renamed Kenya Broadcasting Corporation) continued to dominate musical dissemination. Until the liberalization of broadcasting in the 1990s, it remained the primary way musicians reached national audiences. Its programming decisions shaped what music Kenyans heard, which languages and regions gained representation, and which musical traditions received recognition versus marginalization.
 
@@ -26,7 +26,7 @@ Radio transformed Kenyan music from localized, occasion-specific performances to
 - [[National Anthem Kenya Creation]]
 - [[Colonial Music Censorship Kenya]]
 - [[Mau Mau Uprising]]
-- [[Elections/1963 Independence Election]]
+- [[1963 Independence Election]]
 - [[The Gramophone and Cultural Change Kenya]]
 
 ## Sources

@@ -79,7 +79,7 @@ He left Kenya wealthier in infrastructure but more indebted, more developed tech
 - [[Uhuru Handshake]]
 - [[Uhuru SGR Railway]]
 - [[William Ruto]]
-- [[Kenya Political Future]]
+- Kenya Political Future
 
 ## Sources
 

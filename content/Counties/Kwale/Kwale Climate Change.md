@@ -24,7 +24,7 @@ Adaptation efforts include diversifying livelihoods away from climate-dependent 
 - [[Kwale Climate|Kwale Climate]]
 - [[Kwale Marine|Kwale Marine]]
 - [[Kwale Agriculture|Kwale Agriculture]]
-- [[Kwale Water|Kwale Water]]
+- [[Murang'a Water Resources|Kwale Water]]
 - [[Shimba Hills National Reserve|Shimba Hills National Reserve]]
 
 ## Sources

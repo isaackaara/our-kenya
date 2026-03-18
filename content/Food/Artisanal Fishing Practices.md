@@ -26,7 +26,7 @@ However, artisanal fishing persisted as important livelihood system for countles
 [[Fishing Rights Management]]
 [[Luo]]
 [[Climate Change and Coastal Communities]]
-[[Sustainable Fisheries]]
+Sustainable Fisheries
 
 ## Sources
 

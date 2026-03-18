@@ -13,7 +13,7 @@ The monsoon calendar remained fundamental to coastal organization even after Eur
 [[Maritime Navigation]]
 [[Fishing Traditions]]
 [[Harbor Development]]
-[[Agricultural Patterns]]
+Agricultural Patterns
 [[Coastal Transport Routes]]
 [[Tidal Patterns Life]]
 

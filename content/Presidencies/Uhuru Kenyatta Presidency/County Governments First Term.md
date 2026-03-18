@@ -4,7 +4,7 @@ The 47 inaugural governors were a diverse group: former MPs, business people, pr
 
 The learning curve involved basic governance challenges that national government officials took for granted. County governments had to establish institutions from scratch: hire staff, create procurement systems, develop budgets, and establish relationships with national government agencies whose functions they were assuming. The handover of health facilities from the national government to counties in 2013 was particularly chaotic, with disputes over staff transfers, equipment ownership, and budget allocations. Hospitals ran out of essential supplies, doctors went unpaid, and services deteriorated in many counties during the transition. The teething problems were real and often affected the most vulnerable citizens.
 
-Corruption in the first term was spectacular and largely unpunished. County governments became sites of massive procurement fraud, with patterns mirroring national scandals. Counties bought luxury vehicles for governors and county assembly members, spent millions on "benchmarking" trips abroad, created ghost workers, and awarded inflated contracts to politically connected suppliers. The Auditor General's reports for 2013-2017 documented billions in questionable expenditure across counties. However, prosecution was rare. The Ethics and Anti-Corruption Commission (EACC) arrested several governors, including Ferdinand Waititu (Kiambu), Mike Sonko (Nairobi), and Okoth Obado (Migori), but convictions remained elusive due to [[Corruption/Impunity in Kenya|judicial delays and political protection]].
+Corruption in the first term was spectacular and largely unpunished. County governments became sites of massive procurement fraud, with patterns mirroring national scandals. Counties bought luxury vehicles for governors and county assembly members, spent millions on "benchmarking" trips abroad, created ghost workers, and awarded inflated contracts to politically connected suppliers. The Auditor General's reports for 2013-2017 documented billions in questionable expenditure across counties. However, prosecution was rare. The Ethics and Anti-Corruption Commission (EACC) arrested several governors, including Ferdinand Waititu (Kiambu), Mike Sonko (Nairobi), and Okoth Obado (Migori), but convictions remained elusive due to [[Impunity in Kenya|judicial delays and political protection]].
 
 Despite dysfunction and corruption, genuine service delivery improvements occurred in well-governed counties. Makueni under Kivutha Kibwana became the model, implementing free maternal healthcare, building water projects, constructing markets, and maintaining transparent procurement. Kakamega under Wycliffe Oparanya invested in health facilities and agriculture. Uasin Gishu under Jackson Mandago improved county roads and education infrastructure. These success stories demonstrated devolution's potential: when governors were competent and reasonably honest, county governments could deliver services that had been impossible under centralized rule.
 
@@ -14,12 +14,12 @@ The political impact of the first term was to create new power centers independe
 
 ## See Also
 - [[Uhuru and Devolution]]
-- [[Elections/2013 Presidential Election]]
+- [[2013 Presidential Election]]
 - [[Uhuru and Corruption]]
-- [[Corruption/State Capture]]
-- [[2007 Post-Election Violence]]
-- [[Elections/2017 Presidential Election]]
-- [[Kikuyu/Kikuyu Political Power]]
+- [[State Capture Kenya]]
+- [[2007-2008 Post Election Violence]]
+- [[2017 Presidential Election]]
+- [[Kikuyu Political Power]]
 - [[Luo Political History]]
 
 ## Sources

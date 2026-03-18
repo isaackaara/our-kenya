@@ -21,10 +21,10 @@ The economic context of 1979 was thus significantly different from 1974. The eco
 ## See Also
 - [[Kenya]]
 - [[1979 Election]]
-- [[Oil Crisis Kenya]]
-- [[Coffee Production Kenya]]
+- Oil Crisis Kenya
+- [[Coffee Industry Kenya]]
 - [[Kenya]]
-- [[Inflation Kenya 1970s-1980s]]
+- Inflation Kenya 1970s-1980s
 
 ## Sources
 1. Killick, Tony. "A Reaction Too Far: Economic Theory and the Role of the State in Developing Countries." London School of Economics, 1989.

@@ -17,7 +17,7 @@ Kenyatta's wealth also demonstrated the economic possibilities of Kenya's postco
 [[Kenyatta Family Land Acquisitions]]
 [[Kenyatta Family Wealth]]
 [[Kenyatta Economic Policy]]
-[[Corruption in the Kenyatta Era]]
+Corruption in the Kenyatta Era
 [[Kenyatta Opposition Suppression]]
 
 ## Sources

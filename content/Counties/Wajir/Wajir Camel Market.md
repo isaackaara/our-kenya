@@ -45,7 +45,7 @@ The Wajir Camel Market connects pastoral producers in arid northeastern Kenya wi
 - [[Wajir County]]
 - [[Wajir Town]]
 - [[The NGO Economy]]
-- [[Wajir Commerce]]
+- [[North Eastern Province]]
 - [[Wajir Women]]
 
 ## Sources

@@ -1,4 +1,4 @@
-The Imenti are the largest [[Meru people|Meru sub-group]] and occupy the central highland regions of [[Meru County]], centered on [[Meru town]]. The Imenti represent approximately 40% of the broader Meru population and have historically been the political and economic center of Meru territory.
+The Imenti are the largest [[Meru People|Meru sub-group]] and occupy the central highland regions of [[Meru County]], centered on [[Meru Town]]. The Imenti represent approximately 40% of the broader Meru population and have historically been the political and economic center of Meru territory.
 
 ## Territory and Geography
 
@@ -26,7 +26,7 @@ The Imenti's size and central location mean they interact closely with other Mer
 
 ## See Also
 
-- [[Meru people]]
+- [[Meru People]]
 - [[Njuri Ncheke]]
 - [[Meru Clan System]]
 - [[Meru Food Culture]]

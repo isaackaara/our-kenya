@@ -12,9 +12,9 @@ The regional patterns of 1969 thus showed ethnic polarization intensifying, with
 
 - [[1969 Election Results]]
 - [[1969 Election KANU Only]]
-- [[Ethnic Voting Kenya]]
-- [[Regional Politics Kenya]]
-- [[Rift Valley Politics]]
+- [[Elections]]
+- [[Politics]]
+- [[Politics]]
 - [[Kikuyu Dominance in Business]]
 - [[Luo]]
 

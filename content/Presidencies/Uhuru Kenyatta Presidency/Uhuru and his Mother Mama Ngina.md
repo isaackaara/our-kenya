@@ -4,7 +4,7 @@ Mama Ngina's role during Uhuru's presidency was shaped by her position as keeper
 
 Her business interests spanned Kenya's economy in ways that created profound conflicts of interest during Uhuru's presidency. The [[Uhuru Family Business Interests|Kenyatta family]] controlled significant stakes in media (Mediamax, which owns K24 TV and People Daily newspaper), banking (Commercial Bank of Africa, later NCBA after a merger), hospitality (Heritage Hotels), real estate, dairy farming, and vast agricultural holdings. Brookside Dairy, the family's dairy business, dominated Kenya's dairy sector with market shares approaching monopoly levels. These business interests meant that government policy in multiple sectors (agriculture, media, banking regulation, dairy industry) directly affected the Kenyatta family's bottom line.
 
-The [[2007 Post-Election Violence]] period revealed Mama Ngina's political influence. During the crisis, she reportedly played a key role in Kikuyu elite decisions, including whether to concede to [[Raila Odinga]] or fight through the grand coalition. Her stance, according to contemporary accounts, was hardline: protect Kikuyu interests and power at all costs. The same instinct shaped her response to Uhuru's ICC indictment: rather than seeing it as a liability, she reportedly encouraged Uhuru to use it politically, advice that proved strategically brilliant when the ICC charges became the foundation of the [[Jubilee Alliance Formation 2013|2013 Jubilee Alliance]] victory.
+The [[2007-2008 Post Election Violence]] period revealed Mama Ngina's political influence. During the crisis, she reportedly played a key role in Kikuyu elite decisions, including whether to concede to [[Raila Odinga]] or fight through the grand coalition. Her stance, according to contemporary accounts, was hardline: protect Kikuyu interests and power at all costs. The same instinct shaped her response to Uhuru's ICC indictment: rather than seeing it as a liability, she reportedly encouraged Uhuru to use it politically, advice that proved strategically brilliant when the ICC charges became the foundation of the [[Jubilee Alliance Formation 2013|2013 Jubilee Alliance]] victory.
 
 Mama Ngina's influence became particularly visible during [[Uhuru and William Ruto Fallout|Uhuru's fallout with William Ruto]] and rapprochement with Raila. Reports suggested that Mama Ngina was skeptical of Ruto from the beginning, seeing him as insufficiently deferential to the Kenyatta family and as a threat to Kikuyu economic dominance. The [[The Handshake March 2018|2018 handshake]] with Raila was reportedly blessed by Mama Ngina, who understood that an alliance with Raila could protect Kenyatta family interests better than continuing the partnership with the ambitious Ruto. Her preference for continuity and protection of family wealth over ideological or ethnic loyalty shaped Uhuru's second-term political realignments.
 
@@ -16,11 +16,11 @@ Mama Ngina's public profile increased during Uhuru's presidency, with media cove
 - [[Uhuru Kenyatta Early Political Career]]
 - [[Uhuru Family Business Interests]]
 - [[Jomo Kenyatta]]
-- [[2007 Post-Election Violence]]
+- [[2007-2008 Post Election Violence]]
 - [[Uhuru and William Ruto Fallout]]
 - [[The Handshake March 2018]]
-- [[Kikuyu/Kikuyu Political Power]]
-- [[Corruption/State Capture]]
+- [[Kikuyu Political Power]]
+- [[State Capture Kenya]]
 
 ## Sources
 1. "Mama Ngina Kenyatta: Kenya's Most Powerful Woman?" The Standard, June 2020. https://www.standardmedia.co.ke/kenya/article/2001375632/mama-ngina-kenyatta-most-powerful-woman

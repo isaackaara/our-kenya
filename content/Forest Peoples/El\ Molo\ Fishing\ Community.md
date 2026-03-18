@@ -10,7 +10,7 @@ The El Molo exemplify the vulnerability of small, specialized indigenous communi
 
 ## See Also
 
-[[Lake Turkana]] | [[Fishing Communities Kenya]] | [[Indigenous Minorities Kenya]] | [[Boni\ Aweer\ Pastoralists]] | [[Northern Kenya]] | [[Pastoral Societies Kenya]] | [[Environmental Art]]
+[[Lake Turkana]] | Fishing Communities Kenya | [[Indigenous Cultures]] | [[Boni\ Aweer\ Pastoralists]] | Northern Kenya | [[Pastoral Societies Kenya]] | [[Environmental Art]]
 
 ## Sources
 

@@ -32,7 +32,7 @@
 - [[Kenya People's Union Formation]]
 - [[Oginga Odinga]]
 - [[Moi Succession 1978]]
-- [[Political Timeline Kenya]]
+- Political Timeline Kenya
 
 ## Sources
 

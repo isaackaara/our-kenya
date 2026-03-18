@@ -1,4 +1,4 @@
-Young [[Meru people]] navigate contemporary challenges of [[education]], [[employment]], and [[livelihood opportunities]]. Many [[educated youth]] migrate to [[Nairobi]] and other [[urban centers]] in search of employment, while questions persist about whether youth maintain connections to Meru or permanently resettle.
+Young [[Meru People]] navigate contemporary challenges of [[Education]], employment, and livelihood opportunities. Many educated youth migrate to [[Nairobi]] and other urban centers in search of employment, while questions persist about whether youth maintain connections to Meru or permanently resettle.
 
 ## Education Levels and University Attendance
 

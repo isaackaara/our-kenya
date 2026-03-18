@@ -9,7 +9,7 @@ Long-term unemployment has increasing prevalence: individuals unable to secure e
 The relationship between unemployment and poverty is direct. Unemployed individuals unable to earn income fall into poverty. Previous savings are depleted; asset sales occur; debt accumulates. Unemployment affecting primary earner creates household income collapse; family members enter informal employment to survive. Extended unemployment evolves into chronic poverty. Conversely, poverty limits employment access: poor education and health limit job qualification and capacity; discrimination reduces job opportunities; geographic barriers prevent job access. These patterns create unemployment-poverty cycles: unemployment causes poverty; poverty perpetuates unemployment through barriers to re-employment.
 
 ## See Also
-[[Employment Barriers]], [[Job Creation]], [[Youth Unemployment]], [[Poverty Measurement]], [[Social Protection]], [[Informal Sector]], [[Economic Growth]], [[Job Security]]
+[[Employment Barriers]], [[Job Creation]], [[Youth Unemployment]], [[Poverty Measurement]], [[Social Protection]], [[Informal Sector]], Economic Growth, [[Job Security]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Labor Force Survey: Unemployment and Underemployment." https://www.knbs.or.ke

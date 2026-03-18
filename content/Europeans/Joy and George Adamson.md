@@ -2,7 +2,7 @@ Joy Adamson (Austrian-born, 1910-1980) and George Adamson (British, 1906-1989) w
 
 ## Joy Adamson's Life and Work
 
-Joy was born in [[Austria]] and came to Kenya as a young woman. She married George Adamson and settled at [[Meru National Park]] in central Kenya. She began painting wildlife, particularly local animals, and eventually focused on a lioness named Elsa.
+Joy was born in Austria and came to Kenya as a young woman. She married George Adamson and settled at [[Meru National Park]] in central Kenya. She began painting wildlife, particularly local animals, and eventually focused on a lioness named Elsa.
 
 In 1956, Elsa (a young lion orphaned after her mother was killed by wildlife authorities) came under Joy's care. Joy raised Elsa with the goal of returning her to the wild, a revolutionary approach to wildlife conservation at the time. Most captive animals were kept captive; releasing them was rare and risky.
 
@@ -81,12 +81,12 @@ The Adamsons exemplify the complex legacy of European conservation in Africa: ge
 ## See Also
 
 - [[European Conservation Establishment]] - Conservation organizations
-- [[Born Free Foundation]] - Organization continuing their legacy
+- Born Free Foundation - Organization continuing their legacy
 - [[Kuki Gallmann]] - Contemporary conservationist
 - [[Meru National Park]] - Location of their work
-- [[African Wildlife]] - Conservation subjects
+- African Wildlife - Conservation subjects
 - [[European Settlement Overview]] - Settler context
-- [[Elsa the Lioness]] - Famous lion of their work
+- Elsa the Lioness - Famous lion of their work
 - [[Art Tourism]] - Conservation economics
 
 ## Sources

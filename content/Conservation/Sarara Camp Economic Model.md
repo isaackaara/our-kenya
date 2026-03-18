@@ -1,6 +1,6 @@
 # Sarara Camp Economic Model
 
-[[Sarara Camp]], located in the [[Namunyak Conservancy]] within the [[Northern Rangelands Trust]] network, exemplifies the economic model through which private tourism operations fund conservation and community benefit-sharing in northern Kenya. Operating within a community conservancy framework, Sarara demonstrates how exclusive high-end tourism can generate revenue for wildlife protection while supposedly delivering community employment and development benefits.
+Sarara Camp, located in the Namunyak Conservancy within the [[Northern Rangelands Trust]] network, exemplifies the economic model through which private tourism operations fund conservation and community benefit-sharing in northern Kenya. Operating within a community conservancy framework, Sarara demonstrates how exclusive high-end tourism can generate revenue for wildlife protection while supposedly delivering community employment and development benefits.
 
 Sarara operates on a concession basis from the Namunyak Conservancy, paying lease fees and commission on revenue that are distributed to the community and conservancy management. The lodge charges premium nightly rates, attracting international tourists and wealthy domestic visitors seeking exclusive wildlife experiences in remote northern Kenya landscape. Premium pricing sustains profitability while limiting visitor numbers to reduce environmental impact on fragile dryland ecosystems.
 
@@ -18,7 +18,7 @@ The camp also represents accumulation of wealth at the intersection of settler c
 
 ## See Also
 
-- [[Namunyak Conservancy]] - Host conservancy where Sarara operates
+- Namunyak Conservancy - Host conservancy where Sarara operates
 - [[Northern Rangelands Trust]] - Broader conservancy network and governance framework
 - [[Ian Craig]] - Visionary of tourism-funded conservation model
 - [[Delia Craig]] - Co-architect of community-based conservation economics

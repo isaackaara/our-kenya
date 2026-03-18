@@ -10,11 +10,11 @@ The tourism recovery under Kibaki also had environmental implications, as increa
 
 ## See Also
 
-[[Kenya Tourism Industry]]
+Kenya Tourism Industry
 [[Post-Election Violence]]
 [[Art Tourism]]
-[[International Marketing Kenya]]
-[[Economic Recovery Post-Conflict]]
+International Marketing Kenya
+Economic Recovery Post-Conflict
 [[Kibaki Economic Record]]
 
 ## Sources

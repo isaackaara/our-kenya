@@ -1,4 +1,4 @@
-A comprehensive knowledge graph covering Kenya's [[Conservation|conservation history]], [[Wildlife Management|wildlife management]], [[Marine Protected Areas|national parks]], and the complex interplay between people, politics, and land.
+A comprehensive knowledge graph covering Kenya's [[Conservation|conservation history]], wildlife management, [[Marine Protected Areas|national parks]], and the complex interplay between people, politics, and land.
 
 ## Overview
 - [[Kenya Conservation Overview]]

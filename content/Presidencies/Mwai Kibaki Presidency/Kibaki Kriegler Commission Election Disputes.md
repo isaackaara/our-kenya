@@ -8,11 +8,11 @@ Kibaki's government's response to the Kriegler Commission's findings was cautiou
 
 ## See Also
 
-[[2007 Kenya Elections Disputed Results]]
+2007 Kenya Elections Disputed Results
 [[Kibaki Kriegler Commission Election Disputes]]
-[[Electoral Reform Kenya]]
+Electoral Reform Kenya
 [[Post-Election Violence]]
-[[Election Management and Integrity Kenya]]
+Election Management and Integrity Kenya
 
 ## Sources
 

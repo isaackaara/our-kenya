@@ -6,7 +6,7 @@ The context of oral history methodology illuminates how local, regional, and nat
 
 ## See Also
 
-[[Research]], [[Kenya History]], [[Historical Development]]
+Research, [[Kenya History]], [[Historical Development]]
 
 ## Sources
 

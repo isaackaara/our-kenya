@@ -1,8 +1,8 @@
 Women constitute an estimated 40-50 percent of Kenya's agricultural labor force, particularly in food crop production and small-scale farming. Despite this substantial contribution, women farmers face significant barriers including limited land access, constrained credit availability, minimal technology adoption, and limited market access compared to male farmers. Structural inequality in agricultural systems perpetuates broader gender inequality and food insecurity vulnerability.
 
-Precolonial agriculture across Kenya's diverse regions assigned substantial female responsibility for food production. In [[Kikuyu/Kikuyu People and Culture|Kikuyu]] territories, women managed cultivated fields and market gardens. [[Luo/Luo People and Culture|Luo]] women cultivated grains, vegetables, and managed household nutrition. [[Maasai/Maasai People and Culture|Maasai]] pastoral women managed dairy production and processed pastoral products. Women's agricultural labor complemented but did not eliminate male responsibilities; gender division of agricultural labor varied by region and commodity.
+Precolonial agriculture across Kenya's diverse regions assigned substantial female responsibility for food production. In [[Kikuyu People and Culture|Kikuyu]] territories, women managed cultivated fields and market gardens. [[Luo People and Culture|Luo]] women cultivated grains, vegetables, and managed household nutrition. [[Maasai People and Culture|Maasai]] pastoral women managed dairy production and processed pastoral products. Women's agricultural labor complemented but did not eliminate male responsibilities; gender division of agricultural labor varied by region and commodity.
 
-Colonial agricultural transformation altered gender roles in farming. Colonial introduction of export cash crops ([[Kikuyu/Kikuyu People and Culture|coffee]], tea, pyrethrum) occurred alongside land expropriation. Male household heads controlled cash crop land and received cash crop income, while women continued food production on smaller land plots. This division allocated commercial agriculture to men and subsistence agriculture to women, devaluing women's food production labor while enriching male commodity production.
+Colonial agricultural transformation altered gender roles in farming. Colonial introduction of export cash crops ([[Kikuyu People and Culture|coffee]], tea, pyrethrum) occurred alongside land expropriation. Male household heads controlled cash crop land and received cash crop income, while women continued food production on smaller land plots. This division allocated commercial agriculture to men and subsistence agriculture to women, devaluing women's food production labor while enriching male commodity production.
 
 Colonial labor policies extracting men for wage employment further shifted agricultural gender roles. Men's extended absence from farming made women primary agricultural managers on remaining family land. Women performed most daily cultivation, harvesting, and household food production labor while lacking formal land tenure security or decision-making authority over agricultural production.
 
@@ -23,7 +23,7 @@ Climate change has produced particular impacts on women farmers. Drought and rai
 [[Women Cooperatives Economic]]
 [[Women Informal Economy]]
 [[Food Security Policies]]
-[[Pastoralism]]
+Pastoralism
 
 ## Sources
 

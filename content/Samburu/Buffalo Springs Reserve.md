@@ -1,4 +1,4 @@
-Buffalo Springs National Reserve covers approximately 200 square kilometers adjacent to [[Samburu National Reserve]], protecting semi-arid wildlife habitat and species. The reserve derives its name from a permanent water source (Buffalo Springs). Together with [[Samburu Reserve]], it provides important protected habitat for endangered species and semi-arid ecosystem conservation.
+Buffalo Springs National Reserve covers approximately 200 square kilometers adjacent to [[Samburu National Reserve]], protecting semi-arid wildlife habitat and species. The reserve derives its name from a permanent water source (Buffalo Springs). Together with Samburu Reserve, it provides important protected habitat for endangered species and semi-arid ecosystem conservation.
 
 ## Geography and Water Sources
 
@@ -42,8 +42,8 @@ Scientific research in the reserve addresses wildlife ecology, climate change im
 - [[Samburu and Tourism]]
 - [[George and Joy Adamson in Samburu]]
 - [[Conservation]]
-- [[Ewaso Nyiro Ecosystem]]
-- [[Semi-Arid Pastoralism]]
+- Ewaso Nyiro Ecosystem
+- Semi-Arid Pastoralism
 
 ## Future Outlook
 

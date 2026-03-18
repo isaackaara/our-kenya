@@ -19,4 +19,4 @@ Rainfall drives vegetation patterns and animal movements. Short and long rains p
 
 ## See Also
 - [[The Maasai Mara]]
-- [[Savanna Ecology]]
+- Savanna Ecology

@@ -4,7 +4,7 @@ title: Notable Meru Politicians and Political Leaders
 
 # Meru Politicians: Historical and Contemporary Leaders
 
-The Meru have produced numerous [[national]] and [[regional political]] figures who have shaped [[Kenya's political development]].
+The Meru have produced numerous national and regional political figures who have shaped Kenya's political development.
 
 ## Historical Political Figures
 

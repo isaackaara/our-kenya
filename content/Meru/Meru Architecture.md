@@ -2,7 +2,7 @@
 
 ### The Mucibi (Main House)
 
-The [[mucibi]] serves as the central structure of a traditional [[Meru people|Meru]] compound. It is a rectangular building with a thatched roof sloping steeply to shed rainwater. The walls are constructed from timber poles lashed together and plastered with mud and dung, creating waterproof and insulating surfaces. The interior is divided into distinct sections including a central living area and sleeping spaces partitioned by poles and woven mats.
+The mucibi serves as the central structure of a traditional [[Meru People|Meru]] compound. It is a rectangular building with a thatched roof sloping steeply to shed rainwater. The walls are constructed from timber poles lashed together and plastered with mud and dung, creating waterproof and insulating surfaces. The interior is divided into distinct sections including a central living area and sleeping spaces partitioned by poles and woven mats.
 
 The mucibi houses the family's most valuable possessions and serves as the primary shelter. The main entrance is typically oriented toward the east to align with the rising sun. A large central fire provides warmth and light, with smoke rising through the thatch. The fire also serves as a gathering point for family meals and conversations.
 
@@ -59,10 +59,10 @@ Contemporary architects occasionally reference these traditional design principl
 ## See Also
 
 - [[Meru Food Culture]]
-- [[Meru Homestead]]
+- Meru Homestead
 - [[Meru Crafts]]
 - [[Meru Food Culture]]
-- [[Kenya Traditional Architecture]]
+- Kenya Traditional Architecture
 - [[Architecture]]
 
 ## Sources

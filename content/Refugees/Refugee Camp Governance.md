@@ -13,9 +13,9 @@ Overall, camp governance represented an attempt to administer complex refugee co
 [[Camp Management Structures]]
 [[Refugee Leadership]]
 [[Community Dispute Resolution]]
-[[Refugee Participation]]
-[[Humanitarian Coordination]]
-[[Camp Administration]]
+Refugee Participation
+Humanitarian Coordination
+Camp Administration
 
 ## Sources
 

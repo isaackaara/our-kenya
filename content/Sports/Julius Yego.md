@@ -14,7 +14,7 @@ Yego's legacy is distinctive as the world champion javelin thrower who learned t
 
 ## See Also
 
-- [[Kenya 2015 World Athletics Championships|Kenya 2015 World Athletics Championships]]
+- Kenya 2015 World Athletics Championships
 - [[Kenya 2016 Rio Olympics|Kenya 2016 Rio Olympics]]
 - [[Kenya 2020 Tokyo Olympics|Kenya 2020 Tokyo Olympics]]
 - [[Kenya Athletics Overview|Kenya Athletics Overview]]

@@ -16,9 +16,9 @@ The presence of international observers was thus part of a broader international
 - [[1963 Election KANU]]
 - [[Elections]]
 - [[Kenya at the Commonwealth Games]]
-- [[United Nations and Decolonization]]
-- [[Electoral Observation]]
-- [[Democratic Transitions Africa]]
+- United Nations and Decolonization
+- Electoral Observation
+- Democratic Transitions Africa
 
 ## Sources
 

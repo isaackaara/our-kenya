@@ -13,7 +13,7 @@ Ng'weno's subsequent career demonstrated the intellectual resources journalists 
 [[Hillary Ng'weno Archive]]
 [[Media Independence Coverage]]
 [[Press Freedom Authoritarian]]
-[[Daniel Arap Moi]]
+[[Daniel arap Moi]]
 [[Media Ownership Control]]
 
 ## Sources

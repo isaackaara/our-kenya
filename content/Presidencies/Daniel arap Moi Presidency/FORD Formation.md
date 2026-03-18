@@ -14,7 +14,7 @@ In August 1992, FORD formally split into FORD-Kenya, led by Oginga Odinga, and F
 
 The FORD split became a case study in the difficulty of opposition politics in ethnically divided societies. Moi had not created Kenya's ethnic divisions, but he had perfected the art of exploiting them. By controlling state patronage, he ensured that KANU remained the vehicle for ethnic communities to access resources. Opposition parties, without state resources and dependent on ethnic constituencies for votes, struggled to build cross-ethnic coalitions. FORD's inability to hold together confirmed Moi's narrative that multiparty politics was inherently divisive.
 
-Yet FORD's legacy was not solely failure. It demonstrated that opposition to Moi was possible, that Kenyans across ethnic lines were willing to risk violence and detention to demand change. The legal framework it forced, the [[Section 2A Repeal 1991|repeal of Section 2A]], created space for future organizing. The next generation of opposition leaders, including Raila Odinga and Mwai Kibaki, learned from FORD's mistakes. In the [[Elections/2002 Presidential Election|2002 election]], they succeeded where FORD failed, building a coalition that defeated Moi's chosen successor.
+Yet FORD's legacy was not solely failure. It demonstrated that opposition to Moi was possible, that Kenyans across ethnic lines were willing to risk violence and detention to demand change. The legal framework it forced, the [[Section 2A Repeal 1991|repeal of Section 2A]], created space for future organizing. The next generation of opposition leaders, including Raila Odinga and Mwai Kibaki, learned from FORD's mistakes. In the [[2002 Presidential Election|2002 election]], they succeeded where FORD failed, building a coalition that defeated Moi's chosen successor.
 
 FORD Formation was both the beginning of Kenya's multiparty era and a cautionary tale about the obstacles to democratic consolidation. It showed that removing authoritarian laws was not enough; building institutions and political cultures capable of sustaining democracy required confronting the ethnic patronage systems that authoritarians like Moi had weaponized. FORD could not do that in 1991, but it created the possibility that others eventually would.
 
@@ -23,10 +23,10 @@ FORD Formation was both the beginning of Kenya's multiparty era and a cautionary
 - [[1992 Election and Ethnic Violence]]
 - [[Moi and Kenneth Matiba]]
 - [[Moi and Raila Odinga]]
-- [[Kikuyu/Kikuyu Opposition to Moi]]
-- [[Luo/Luo Political Mobilization 1990s]]
-- [[Cross-Ethnic/Opposition Coalition Building]]
-- [[Elections/Multiparty Elections Challenges]]
+- [[Multiparty Politics]]
+- Luo Political Mobilization 1990s
+- Opposition Coalition Building
+- Multiparty Elections Challenges
 
 ## Sources
 1. Throup, David, and Charles Hornsby. *Multi-Party Politics in Kenya*. James Currey, 1998. https://www.jstor.org/stable/j.ctt1xhr73

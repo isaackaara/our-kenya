@@ -36,10 +36,10 @@ The Axis is not about ethnic essentialism. It is about geography, numbers, and t
 ## See Also
 
 - [[The Handshake Pattern]]
-- [[Electoral Polarization]]
-- [[Ethnic Competition for Political Power]]
-- [[Coalition Formation Kenya]]
-- [[Regional Power Centers]]
+- Electoral Polarization
+- Ethnic Competition for Political Power
+- [[Politics]]
+- Regional Power Centers
 
 ## Related
 

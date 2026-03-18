@@ -22,8 +22,8 @@ By the 1950s, African intellectual and political leaders increasingly rejected t
 [[Colonial Racism]]
 [[Colonial Cultural Attitudes]]
 [[Racial Hierarchy Colony]]
-[[Colonial Ideology]]
-[[Colonial Civilising Mission]]
+Colonial Ideology
+Colonial Civilising Mission
 [[Anti-Colonial Resistance]]
 
 ## Sources

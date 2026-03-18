@@ -2,13 +2,13 @@ Colonial literature in Kenya emerged from the complex intersection of European s
 
 European settler writers produced novels, memoirs, and travel narratives that portrayed Kenya as a frontier of civilization, opportunity, and racial hierarchy. These works functioned ideologically to justify colonial occupation and white settlement, depicting Africans as either noble savages requiring civilization or threatening obstacles to progress. The proliferation of settler memoirs and adventure fiction normalized colonial presence while marginalizing African agency and complexity.
 
-Works by colonial administrators and ethnographers like [[colonial ethnographies]] attempted to codify African cultures into static categories, producing literature that claimed scientific authority while actually serving colonial governance. These texts provided the intellectual apparatus for indirect rule, transforming living cultures into administrative categories and justifying differential treatment of ethnic groups.
+Works by colonial administrators and ethnographers like colonial ethnographies attempted to codify African cultures into static categories, producing literature that claimed scientific authority while actually serving colonial governance. These texts provided the intellectual apparatus for indirect rule, transforming living cultures into administrative categories and justifying differential treatment of ethnic groups.
 
 Simultaneously, Africans navigated colonial education systems that taught English, Christian theology, and European literary canons while suppressing indigenous languages and intellectual traditions. Young Africans educated in colonial schools encountered literature as a site of cultural encounter, learning Western forms while developing critique of colonial ideology. This colonial education, intended to produce compliant subjects, instead equipped Africans with the tools to challenge colonialism through its own literary forms.
 
 [[Jomo Kenyatta]]'s [[Facing Mount Kenya]] (1938) stands as a pivotal text that exploited colonial literary forms to advance decolonial critique. Published as anthropological treatise, Kenyatta's work presented Kikuyu culture and customs with sophistication that challenged colonial stereotypes, using the authority of Western academic form to assert African intellectual autonomy. The work functioned simultaneously as ethnography, autobiography, and political manifesto, demonstrating how colonized intellectuals could weaponize colonial forms.
 
-African writers adapted missionary education to produce their own literary works addressing colonial experience from African perspectives. Early Kenyan novelists like those in the [[independence era literature]] cohort used English strategically to reach both colonial and international audiences while developing narrative forms addressing colonialism's impacts on families, communities, and individual consciousness. Their works implicitly challenged colonial monopoly on interpreting African experience.
+African writers adapted missionary education to produce their own literary works addressing colonial experience from African perspectives. Early Kenyan novelists like those in the [[Independence Era Literature]] cohort used English strategically to reach both colonial and international audiences while developing narrative forms addressing colonialism's impacts on families, communities, and individual consciousness. Their works implicitly challenged colonial monopoly on interpreting African experience.
 
 The colonial period also witnessed the suppression of African-language literature, as colonial authorities restricted access to printing and publishing in indigenous languages. The [[East African Literature Bureau]], initially established by colonial governments in 1947, paradoxically created infrastructure for publishing in African languages even as it remained subject to colonial oversight. This institutional contradiction created spaces where African literary expression could flourish despite colonial restrictions.
 
@@ -19,7 +19,7 @@ By independence in 1964, a generation of Kenyan writers trained in colonial scho
 [[Jomo Kenyatta Political Writings]]
 [[Kenyan Writers Exile]]
 [[Independence Era Literature]]
-[[Colonial Education Kenya]]
+[[Colonial Administration]]
 [[Luo Language]]
 [[East African Literature Bureau]]
 

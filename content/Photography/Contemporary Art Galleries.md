@@ -8,12 +8,12 @@ Contemporary galleries have also served curatorial and educational roles beyond 
 
 ## See Also
 - [[Art Markets Kenya]]
-- [[Nairobi Gallery Scene]]
-- [[Contemporary Artists Kenya]]
-- [[Gallery Curation Practices]]
-- [[Art Commerce and Aesthetics]]
+- Nairobi Gallery Scene
+- Contemporary Artists Kenya
+- Gallery Curation Practices
+- Art Commerce and Aesthetics
 - [[Art Tourism]]
-- [[Artist Representation and Markets]]
+- Artist Representation and Markets
 
 ## Sources
 1. https://www.artbase.co.ke/ - Kenyan Art Galleries Directory

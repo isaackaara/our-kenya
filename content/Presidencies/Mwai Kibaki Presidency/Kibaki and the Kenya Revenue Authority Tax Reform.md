@@ -10,10 +10,10 @@ The strengthening of the KRA and the expansion of the tax base during Kibaki's p
 
 ## See Also
 
-[[Kenya Revenue Authority History]]
-[[Taxation and State Capacity]]
+Kenya Revenue Authority History
+Taxation and State Capacity
 [[Kibaki Economic Record]]
-[[Finance Ministry Kenya]]
+Finance Ministry Kenya
 [[Kenya Refugee Policy]]
 
 ## Sources

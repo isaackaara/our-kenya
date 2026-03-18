@@ -73,7 +73,7 @@ Modern Gusii writers, educators, and cultural activists have begun documenting a
 - [[Ekegusii Language and Linguistic Identity]] - linguistic expression
 - [[Abagusii Cosmology]] - cultural values and worldview
 - [[Kisii Courtship and Marriage]] - social norms in proverbs
-- [[Bantu proverbs]] - comparative African wisdom traditions
+- Bantu proverbs - comparative African wisdom traditions
 
 ## Sources
 

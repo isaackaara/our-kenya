@@ -7,8 +7,8 @@ Mobile money services particularly [[M-Pesa]] dramatically expanded access to fi
 Financial inclusion remains unequal, with persistent gaps between urban and rural populations.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

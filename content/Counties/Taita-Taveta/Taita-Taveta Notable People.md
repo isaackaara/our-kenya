@@ -27,7 +27,7 @@ Notable people from the county are sometimes invoked in political rhetoric and r
 - [[Kenya]]
 - [[Sports in Kenyan Schools]]
 - [[Women in Business Management Kenya]]
-- [[Cultural Leadership]]
+- Cultural Leadership
 
 ## Sources
 1. Kenya National Archives. "Biographical Records: Taita-Taveta Personalities." Various dates.

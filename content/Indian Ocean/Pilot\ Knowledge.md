@@ -22,7 +22,7 @@ The persistence of pilot communities in some ports despite technological change 
 
 [[Navigation Methods]]
 [[Star Navigation]]
-[[Maritime Profession]]
+Maritime Profession
 [[Merchant Vessels]]
 [[Port Infrastructure]]
 

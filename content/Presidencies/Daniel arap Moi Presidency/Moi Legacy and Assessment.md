@@ -22,7 +22,7 @@ The international community's role in enabling Moi's authoritarianism is also pa
 [[Moi Economic Record]]
 [[Moi and Multiparty Democracy]]
 [[Moi Deforestation and Environment]]
-[[Kenya/Truth and Reconciliation]]
+[[Truth and Reconciliation]]
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

@@ -14,9 +14,9 @@ Whether the SGR was "worth it" remains Kenya's most contentious infrastructure d
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru and Chinese Debt]]
 - [[Uhuru Economic Record]]
-- [[Corruption/Mega-Projects]]
-- [[Elections/2017 Presidential Election]]
-- [[Kikuyu/Kikuyu Political Power]]
+- [[mega-projects]]
+- [[2017 Presidential Election]]
+- [[Kikuyu Political Power]]
 - [[Uhuru Debt Crisis]]
 - [[Uhuru Legacy Assessment]]
 

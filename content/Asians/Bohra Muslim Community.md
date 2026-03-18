@@ -47,7 +47,7 @@ Bohras in Kenya face pressures common to minority communities: pressure to assim
 - [[Ismaili Community Kenya]]
 - [[Jain Community Kenya]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

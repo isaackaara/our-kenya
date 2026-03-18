@@ -37,7 +37,7 @@ The practice also perpetuates corruption in government. Candidates who buy their
 - [[Corruption and Elections]]
 - [[Election Violence as Political Crime]]
 - [[Impunity Culture]]
-- [[Political Financing Opacity]]
+- Political Financing Opacity
 - [[Moi Era Corruption Economy]]
 - [[Kibaki Era Corruption]]
 - [[Winner-Takes-All Politics]]

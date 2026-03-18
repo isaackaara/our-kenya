@@ -25,4 +25,4 @@ Displacement from the White Highlands did not just create poverty. It created a 
 - [[Kenya Land and Freedom Army]]
 
 ## Related
-[[Githaka]] | [[Gikuyu and Mumbi]] | [[Harry Thuku]] | [[Kikuyu Central Association]] | [[Facing Mount Kenya]] | [[Kenya Land and Freedom Army]] | [[Mau Mau Uprising]] | [[Independence 1963]] | [[Index]]
+[[Githaka]] | [[Gikuyu and Mumbi]] | [[Harry Thuku]] | [[Kikuyu Central Association]] | [[Facing Mount Kenya]] | [[Kenya Land and Freedom Army]] | [[Mau Mau Uprising]] | [[Independence 1963]] | [[index]]

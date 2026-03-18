@@ -1,4 +1,4 @@
-Colonial Kenya had a formal [[Racial Hierarchy Colony]] inscribed in law and maintained through segregation. [[Europeans]] occupied the top tier (political power, land ownership, social privilege). Asians occupied the middle tier (commercial power, limited land rights, social restriction). [[Colonial Attitudes Africans]] occupied the bottom tier (labour, restricted movement, no political voice). This hierarchy was not informal or customary; it was institutionalised in the Crown Lands Ordinance, in school systems, in hospital wards, and in the spatial organisation of cities.
+Colonial Kenya had a formal [[Racial Hierarchy Colony]] inscribed in law and maintained through segregation. Europeans occupied the top tier (political power, land ownership, social privilege). Asians occupied the middle tier (commercial power, limited land rights, social restriction). [[Colonial Attitudes Africans]] occupied the bottom tier (labour, restricted movement, no political voice). This hierarchy was not informal or customary; it was institutionalised in the Crown Lands Ordinance, in school systems, in hospital wards, and in the spatial organisation of cities.
 
 ## Spatial Segregation
 
@@ -41,4 +41,4 @@ Understanding this is essential to understanding modern Kenya. The 2007-08 viole
 
 ## Related
 
-[[Indians and the Uganda Railway]] | [[Indian Traders and the Duka]] | [[Asian Kenyans Under Colonial Rule]] | [[Asians at Independence]] | [[Asian Kenyans Today]] | [[Chinese in Kenya]] | [[Index]]
+[[Indians and the Uganda Railway]] | [[Indian Traders and the Duka]] | [[Asian Kenyans Under Colonial Rule]] | [[Asians at Independence]] | [[Asian Kenyans Today]] | [[Chinese in Kenya]] | [[index]]

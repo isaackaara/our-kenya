@@ -52,7 +52,7 @@ At independence, the CMS transferred formal ownership of many schools and church
 
 - [[Johann Ludwig Krapf]] - CMS missionary and Mount Kenya discoverer
 - [[Church of Scotland Mission]] - Rival Protestant mission organization
-- [[Missionaries and Evangelism in Kenya]] - Broader mission context
+- Missionaries and Evangelism in Kenya - Broader mission context
 - [[Education]] - Mission schools' role
 - [[European Settlement Overview]] - Context of European presence
 - [[Colonial Administration]] - Relationship between missions and colonial rule

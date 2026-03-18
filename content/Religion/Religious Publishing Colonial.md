@@ -16,7 +16,7 @@ Colonial religious publishing extended beyond explicitly Christian texts to incl
 [[Christian Schools Education]]
 [[Religion Kenyan Literature]]
 [[Religious Opposition Colonialism]]
-[[Colonial Kenya/Cultural Institutions]]
+Cultural Institutions
 
 ## Sources
 

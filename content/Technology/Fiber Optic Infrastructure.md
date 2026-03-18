@@ -10,7 +10,7 @@ Fiber infrastructure development created opportunities for innovative service de
 
 ## See Also
 
-[[Internet Connectivity Progress]], [[Mobile Internet Growth]], [[Telecommunications Infrastructure]], [[Data Center Development]], [[Technology]], [[Infrastructure Development]]
+[[Internet Connectivity Progress]], [[Mobile Internet Growth]], Telecommunications Infrastructure, [[Data Center Development]], [[Technology]], [[Infrastructure Development]]
 
 ## Sources
 

@@ -13,7 +13,7 @@ Waste disposal and sanitation infrastructure created environmental pollution. La
 [[Host Community Relations]]
 [[Resource Strain Communities]]
 [[Environmental Art]]
-[[Climate Refuge]]
+Climate Refuge
 
 ## Sources
 

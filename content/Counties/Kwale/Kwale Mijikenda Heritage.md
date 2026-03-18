@@ -22,7 +22,7 @@ Post-colonial Kenya has seen Mijikenda participation in national life increase s
 - [[Kwale Cultural Heritage|Kwale Cultural Heritage]]
 - [[Kwale Islam|Kwale Islam]]
 - [[Kilifi County|Kilifi County]]
-- [[../../Swahili People|Swahili People]]
+- [[Swahili People|Swahili People]]
 
 ## Sources
 

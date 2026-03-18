@@ -12,8 +12,8 @@ Community-level psychosocial support complemented formal counseling. Community v
 [[Counseling Services]]
 [[Refugee Resilience Building]]
 [[Child Protection Services]]
-[[Psychosocial Wellbeing Refugees]]
-[[Humanitarian Mental Health]]
+Psychosocial Wellbeing Refugees
+Humanitarian Mental Health
 
 ## Sources
 

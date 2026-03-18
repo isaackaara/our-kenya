@@ -18,7 +18,7 @@ National celebrations attached songs to specific commemorative moments. Independ
 
 [[Kenyan Gospel Music Boom|Gospel music]] became attached to spiritual experiences and church memories. Songs sung during revivals, salvation moments, or church milestones carry emotional weight beyond their musical content. They evoke specific spiritual states and community experiences that shaped individual religious journeys.
 
-Generational markers emerged through music. People born in specific decades carry musical memories that distinguish their generation: 1970s children remember particular [[Music/Kenyan Benga Music|benga]] hits, 1980s youth recall rumba's dominance, 1990s teenagers identify with [[Youth Music Culture 1990s Kenya|hip-hop and ragga]]. These musical generational identities create temporal communities bound by shared sonic memories.
+Generational markers emerged through music. People born in specific decades carry musical memories that distinguish their generation: 1970s children remember particular [[Kenyan Benga Music|benga]] hits, 1980s youth recall rumba's dominance, 1990s teenagers identify with [[Youth Music Culture 1990s Kenya|hip-hop and ragga]]. These musical generational identities create temporal communities bound by shared sonic memories.
 
 Radio shows and [[Radio DJs as Cultural Gatekeepers Kenya|DJ personalities]] became memory markers. People remember not just songs but when and where they first heard them: a specific DJ's morning show, a particular FM station, a matatu ride to work. The contexts of musical consumption became embedded in memories alongside the music itself.
 

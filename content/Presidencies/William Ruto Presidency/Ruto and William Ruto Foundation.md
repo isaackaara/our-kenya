@@ -16,11 +16,11 @@ After Ruto became president, the foundation's activities slowed down, partly bec
 
 ## See Also
 - [[Ruto Early Life and Poverty Narrative]]
-- [[Ruto Hustler Narrative]]
+- [[Ruto Economic Blueprint - Bottom-Up Economics]]
 - [[Ruto and Church Relationships]]
 - [[2022 Election]]
-- [[Kalenjin/Kalenjin Political Identity]]
-- [[Corruption/Political Philanthropy and Patronage]]
+- [[Kalenjin Political Identity]]
+- Political Philanthropy and Patronage
 - [[Uhuru Kenyatta]]
 
 ## Sources

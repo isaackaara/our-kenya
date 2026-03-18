@@ -13,11 +13,11 @@ The economic marginalisation of Luo regions under Moi contributed to the broader
 The Luo community's historical claim on national leadership, embodied in figures like Oginga Odinga and Tom Mboya, was frustrated by both Kenyatta and Moi. Odinga's long opposition to Moi, culminating in his leadership of FORD-Kenya, represented a final attempt to contest for national leadership. Yet Odinga was too aged and too associated with Cold War concerns about communism to appeal broadly, and his death in 1994 left the Luo without a nationally significant political figure. Raila Odinga, Odinga's son, would emerge as a significant political actor in post-Moi Kenya, but his repeated defeats in presidential contests and his alliances and conflicts with various presidential figures reflected the continued political subordination of the Luo community in Kenya's post-independence politics.
 
 ## See Also
-[[Luo/Political History]]
+Political History
 [[Moi and Oginga Odinga]]
 [[Moi and Raila Odinga]]
 [[Moi and the Kalenjin]]
-[[Kenya/Ethnic Politics]]
+Ethnic Politics
 [[1982 Coup Attempt]]
 
 ## Sources

@@ -17,7 +17,7 @@ Contemporary CBD faces renewal challenges balancing heritage preservation with m
 [[Commercial Building]]
 [[Westlands Development]]
 [[Nairobi Built Environment]]
-[[Office Building Design]]
+Office Building Design
 [[Traffic Management]]
 
 ## Sources

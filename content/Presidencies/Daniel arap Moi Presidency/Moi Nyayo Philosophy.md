@@ -24,9 +24,9 @@ The Nyayo philosophy's influence waned as multiparty democracy returned in the 1
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Jomo Kenyatta Presidency|Jomo Kenyatta Presidency]]
-- [[Kenya State Ideology|Kenya State Ideology]]
+- Kenya State Ideology
 - [[Moi and the Media|Moi and the Media]]
-- [[Kenya Development Philosophy|Kenya Development Philosophy]]
+- Kenya Development Philosophy
 
 ## Sources
 

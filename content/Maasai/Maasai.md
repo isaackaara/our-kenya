@@ -61,13 +61,13 @@ This knowledge graph explores the Maasai across multiple dimensions(origins, soc
 - [[Community_Conservancies_Economics]] - Alternative conservation model
 - [[The_Mara_River]] - Ecosystem lifeline
 - [[Maasai_and_Climate_Change]] - Environmental pressures
-- [[Human-Elephant Conflict]] - Wildlife-pastoral tensions
+- Human-Elephant Conflict - Wildlife-pastoral tensions
 
 ### Tourism and Economy
 - [[Mara_Tourism_Economy]] - Revenue flows and distribution
 - [[Maasai_in_Global_Media]] - Image and representation
 - [[Maasai_Cultural_Appropriation]] - IP and commodification
-- [[Maasai Brand]] - Commercial branding issues
+- [[The Maasai Brand]] - Commercial branding issues
 - [[Art Tourism]] - Community-based alternatives
 
 ### Social Issues
@@ -77,7 +77,7 @@ This knowledge graph explores the Maasai across multiple dimensions(origins, soc
 - [[Maasai_Women_Leadership]] - Political participation and advocacy
 - [[Maasai_Men_in_Security]] - Employment opportunities
 - [[Female_Genital_Mutilation_Campaign]] - Health and rights
-- [[Maasai and Christianity]] - Religious change
+- Maasai and Christianity - Religious change
 - [[Maasai_and_Islam]] - Emerging religious presence
 - [[Wildlife_Poaching_and_Maasai]] - Conservation participation
 
@@ -94,7 +94,7 @@ This knowledge graph explores the Maasai across multiple dimensions(origins, soc
 - [[Olorgesailie_Archaeological_Site]] - Ancient human history
 - [[Hell_Gate_National_Park]] - Spiritual landscape
 - [[Amboseli]] - Ecosystem and conservation
-- [[Laikipia and the Maasai]] - Northern rangelands
+- Laikipia and the Maasai - Northern rangelands
 
 ### Intellectual Life and Future
 - [[Maasai_Intellectual_Life]] - Scholarship and knowledge production

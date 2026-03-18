@@ -18,9 +18,9 @@ Sector growth and development depend on policy, investment, technology, and glob
 
 - [[Kenya Economic Overview]]
 - [[Kenya Exports]]
-- [[AGOA]]
+- AGOA
 - [[Kenya Imports]]
-- [[Trade Policy Kenya]]
+- [[Economy]]
 - [[Kenya-China Trade]]
 - [[Manufacturing History Kenya]]
 

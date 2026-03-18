@@ -26,7 +26,7 @@ The decline of certain ports in favor of others reflected subtle shifts in under
 
 [[Harbor Facilities]]
 [[Warehouse Storage]]
-[[Market Centers]]
+Market Centers
 [[Merchant Networks]]
 [[Port Infrastructure]]
 

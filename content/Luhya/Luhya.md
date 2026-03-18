@@ -42,7 +42,7 @@ The Luhya (also Luyia or Abaluhyia) are the second largest ethnic group in Kenya
 
 ## Contemporary Issues and Challenges
 
-[[Luhya Smallholder Economy]] | [[Luhya Urban Migration]] | [[Luhya Marriage in Detail]] | [[Luhya Land Pressure]] | [[Luhya Identity in 2026]] | [[HIV/AIDS in Western Kenya]] | [[Luhya Proverbs and Wisdom]] | [[Teen Pregnancy and Education]]
+[[Luhya Smallholder Economy]] | [[Luhya Urban Migration]] | [[Luhya Marriage in Detail]] | Luhya Land Pressure | [[Luhya Identity in 2026]] | AIDS in Western Kenya | [[Luhya Proverbs and Wisdom]] | [[Teen Pregnancy and Education]]
 
 ## History and Colonial Experience
 
@@ -54,7 +54,7 @@ The Luhya (also Luyia or Abaluhyia) are the second largest ethnic group in Kenya
 
 ## Land, Resources, and Development
 
-[[Luhya and Land]] | [[Kakamega Forest|Kakamega Forest]]]] | [[Kakamega Town]] | [[Mumias Sugar]] | [[Trans-Nzoia]] | [[[[Mount Elgon National Park|Mount Elgon National Park]]]] | [[Luhya and Devolution]]
+[[Luhya and Land]] | [[Kakamega Forest|Kakamega Forest]]]] | [[Kakamega Town]] | [[Mumias Sugar]] | [[Trans-Nzoia]] | [[Mount Elgon National Park|Mount Elgon National Park]]]] | [[Luhya and Devolution]]
 
 ## Internal Conflicts and Politics
 

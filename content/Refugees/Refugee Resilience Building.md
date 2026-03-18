@@ -12,7 +12,7 @@ Livelihood-based resilience approached economic empowerment as foundation for di
 [[Counseling Services]]
 [[Livelihood Programs]]
 [[Moi and the Luo Community]]
-[[Youth Programs Camps]]
+Youth Programs Camps
 [[Refugee Women Economic Empowerment]]
 
 ## Sources

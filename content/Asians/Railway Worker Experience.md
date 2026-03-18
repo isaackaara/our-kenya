@@ -2,7 +2,7 @@ Between 1896 and 1901, approximately 32,000 Indian labourers were recruited to b
 
 ## Recruitment and Departure
 
-The majority of these workers came from [[Punjab]] and [[Gujarat]], recruited through labor contractors in India who promised wages, food, and eventual repatriation. Most were not skilled engineers but rather general labourers, porters, and support workers. They were transported by sea to [[Mombasa]], a journey that itself claimed lives due to poor sanitation and overcrowding aboard ships.
+The majority of these workers came from Punjab and Gujarat, recruited through labor contractors in India who promised wages, food, and eventual repatriation. Most were not skilled engineers but rather general labourers, porters, and support workers. They were transported by sea to [[Mombasa]], a journey that itself claimed lives due to poor sanitation and overcrowding aboard ships.
 
 ## Working Conditions
 

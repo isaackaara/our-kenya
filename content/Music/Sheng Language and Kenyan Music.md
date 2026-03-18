@@ -1,4 +1,4 @@
-Sheng, the hybrid street slang that became the dominant language of Kenyan youth music, emerged in the 1950s in [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] as a coded communication system that allowed young people from different ethnic backgrounds to communicate across linguistic boundaries. Built on a foundation of Swahili with heavy infusions of English and vocabulary borrowed from Kikuyu, Dholuo, Kamba, and other Kenyan languages, Sheng was originally a survival language, allowing multilingual youth to navigate urban spaces where no single ethnic language could serve as common ground. By the early 2000s, it had become the primary artistic language of Kenyan urban music.
+Sheng, the hybrid street slang that became the dominant language of Kenyan youth music, emerged in the 1950s in [[Nairobi Urban Identity|Nairobi's informal settlements]] as a coded communication system that allowed young people from different ethnic backgrounds to communicate across linguistic boundaries. Built on a foundation of Swahili with heavy infusions of English and vocabulary borrowed from Kikuyu, Dholuo, Kamba, and other Kenyan languages, Sheng was originally a survival language, allowing multilingual youth to navigate urban spaces where no single ethnic language could serve as common ground. By the early 2000s, it had become the primary artistic language of Kenyan urban music.
 
 The transformation of Sheng from street slang to legitimate artistic medium occurred through [[Genge Music Origins|genge music]]. Where earlier Kenyan pop had used standard Swahili or English to maximize accessibility, genge artists like [[Nonini|Nonini]] and [[Jua Cali|Jua Cali]] built entire careers on Sheng lyrics. This was revolutionary: they were deliberately narrowing their potential audience to prioritize authenticity and street credibility over mainstream palatability. The gamble paid off. Genge's commercial dominance in the early 2000s proved that Sheng could drive hit records, fill stadiums, and generate sustainable music careers.
 
@@ -25,7 +25,7 @@ Sheng's journey from coded street slang to the dominant language of Kenyan youth
 - [[Nonini|Nonini]]
 - [[Jua Cali|Jua Cali]]
 - [[Gengetone Movement|Gengetone Movement]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Ethic Entertainment|Ethic Entertainment]]
 - [[2007 Election|2007 Election]]
 - [[2022 Election|2022 Election]]

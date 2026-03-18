@@ -2,7 +2,7 @@ The Church of Scotland Mission (CSM, initially called the Scottish Industrial Mi
 
 ## Establishment and Expansion
 
-The CSM arrived in Kenya in 1898 under leadership including Rev. Thomas Watson. The mission established its primary station at [[Kikuyu]], in the heart of Kikuyu-speaking territory, at the foot of the [[Aberdare Mountains]]. This location was strategic for reaching the Kikuyu, a large, densely populated, and economically important group within colonial Kenya.
+The CSM arrived in Kenya in 1898 under leadership including Rev. Thomas Watson. The mission established its primary station at [[Kikuyu]], in the heart of Kikuyu-speaking territory, at the foot of the Aberdare Mountains. This location was strategic for reaching the Kikuyu, a large, densely populated, and economically important group within colonial Kenya.
 
 The CSM quickly established schools and churches. Like the CMS and other missions, the CSM believed education was central to evangelism and to producing Christian communities. Schools became the CSM's primary institutional tool.
 
@@ -49,11 +49,11 @@ The CSM's influence declined after independence. The mission transferred schools
 - [[Church Missionary Society in Kenya]] - Rival CMS mission
 - [[Kikuyu Central Association]] - Nationalist organization defending circumcision
 - [[Colonial Administration]] - Relationship with colonial government
-- [[Female Circumcision and Missions]] - The circumcision controversy
+- Female Circumcision and Missions - The circumcision controversy
 - [[Education]] - Educational role
 - [[European Settlement Overview]] - Context of European presence
 - [[Explorers and Missionaries]] - Early missionary period
-- [[Post-Colonial Churches]] - Churches after independence
+- Post-Colonial Churches - Churches after independence
 
 However, the CSM's educational legacy persisted. Schools the mission established remained significant educational institutions. Alumni of CSM schools became prominent in post-colonial Kenya's government, business, and professional sectors.
 

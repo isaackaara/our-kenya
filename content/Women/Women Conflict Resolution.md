@@ -23,7 +23,7 @@ Contemporary emphasis on inclusive conflict resolution recognizes that meaningfu
 [[Gender-Based Violence]]
 [[Sexual Assault Response]]
 [[Female War Victims]]
-[[Truth Justice and Reconciliation]]
+Truth Justice and Reconciliation
 [[Women Leadership Capacity]]
 
 ## Sources

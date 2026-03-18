@@ -4,14 +4,14 @@ title: "Meru Futures: 2026 and Beyond"
 
 # The Meru in 2026: Challenges, Strengths, and Questions
 
-As the [[Meru people]] navigate the 2026 political and economic landscape, fundamental questions about the future shape of Meru society remain open.
+As the [[Meru People]] navigate the 2026 political and economic landscape, fundamental questions about the future shape of Meru society remain open.
 
 ## Contemporary Meru (2026)
 
 The Meru in 2026 are:
 
 - **Demographically Significant**: 2.3 million people, the third or fourth largest Bantu group in Kenya
-- **Economically Dynamic**: Driven by [[Miraa]] exports (though pressured by the 2014 UK ban), [[Meru Tea|tea]] production, and agriculture
+- **Economically Dynamic**: Driven by [[Miraa Trade]] exports (though pressured by the 2014 UK ban), [[Meru Tea|tea]] production, and agriculture
 - **Institutionally Sophisticated**: The [[Njuri Ncheke]] council maintains authority and respect
 - **Educationally Advanced**: Relatively high education access compared to many rural Kenyan regions
 - **Politically Engaged**: Participating actively in national and county politics
@@ -61,7 +61,7 @@ The Meru in 2026 are:
 
 **Inclusive Growth Path**: Meru develops more inclusive growth, with resources distributed across all regions and sub-groups, investment in human capital and diversified economy.
 
-**Extractive Path**: Meru's resources ([[Miraa]], water, forests) are exploited primarily for external benefit, with limited benefit to communities and environmental damage.
+**Extractive Path**: Meru's resources ([[Miraa Trade]], water, forests) are exploited primarily for external benefit, with limited benefit to communities and environmental damage.
 
 **Stagnation Path**: Economic opportunities stagnate, youth migrate, and Meru community cohesion weakens.
 
@@ -83,7 +83,7 @@ Meru's future is linked to:
 
 - **Kenya National Politics**: Meru's role in national political coalitions affects resource allocation
 - **Mount Kenya Region**: Coordination with Kikuyu and Embu on water, conservation, and development
-- **East Africa Integration**: Regional trade and integration ([[Meru Tea|tea]], [[Miraa]], services)
+- **East Africa Integration**: Regional trade and integration ([[Meru Tea|tea]], [[Miraa Trade]], services)
 
 ## Conclusion: Meru in Flux
 
@@ -96,11 +96,11 @@ The answer will shape not only Meru's future but the broader Mount Kenya region 
 ## See Also
 
 - [[Meru County]]
-- [[Meru people]]
+- [[Meru People]]
 - [[Climate Change and Meru]]
 - [[Njuri Ncheke]]
-- [[Kenya Development Strategy]]
-- [[Mount Kenya Region]]
+- Kenya Development Strategy
+- Mount Kenya Region
 
 ---
 

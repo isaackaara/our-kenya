@@ -12,8 +12,8 @@ Long-term environmental implications of deforestation extended beyond immediate 
 [[Water Scarcity Conflicts]]
 [[Host Community Relations]]
 [[Environmental Art]]
-[[Arid Ecosystem Degradation]]
-[[Pastoral Land Use]]
+Arid Ecosystem Degradation
+Pastoral Land Use
 
 ## Sources
 

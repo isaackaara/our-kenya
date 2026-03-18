@@ -9,7 +9,7 @@ Tenant organization and collective action has emerged in some communities. Tenan
 The policy frameworks for tenant protection vary internationally. Some countries establish rent controls limiting rent increases; South Africa's rental legislation provides strong tenant protections. Kenya has not adopted such protections, relying instead on weak contractual frameworks and minimal enforcement. Arguments for tenant protections emphasize vulnerability and basic rights; arguments against emphasize property rights and disincentives to rental supply. International human rights frameworks recognize housing rights including security of tenure; however, Kenya has not implemented these protections systematically. Fundamental tenant protection would require legal reforms establishing minimum standards, effective enforcement mechanisms, and tenant organization capacity.
 
 ## See Also
-[[Housing Poverty]], [[Rental Markets]], [[Eviction Displacement]], [[Landlord-Tenant Relations]], [[Tenant Associations]], [[Housing Rights]], [[Legal Protections]], [[Informal Settlements]]
+[[Housing Poverty]], Rental Markets, [[Eviction Displacement]], Landlord-Tenant Relations, Tenant Associations, Housing Rights, Legal Protections, [[Informal Settlements]]
 
 ## Sources
 1. Kenya Law Reports (2010). "Landlord and Tenant Act and Tenant Protection Framework." https://www.kenyalaw.org

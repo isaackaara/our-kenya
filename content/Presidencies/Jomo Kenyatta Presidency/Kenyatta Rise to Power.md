@@ -6,7 +6,7 @@ In 1931, Kenyatta left Kenya for Europe, spending 15 years in London. This perio
 
 When Kenyatta returned to Kenya in 1946, he was a changed man: urbane, educated, and aware of international politics. He quickly positioned himself as a moderate African leader willing to work within the colonial system while advocating for African interests. He became active in the Kenya African Union (KAU), and by 1947, he was elected its president. The KAU represented a broader coalition of African interests and was less explicitly radical than some alternative nationalist movements.
 
-However, Kenyatta's political career was dramatically interrupted. Following the outbreak of the [[Mau Mau Rebellion]] in 1952, British colonial authorities arrested Kenyatta along with other nationalist leaders. He was tried at [[Kapenguria]], a remote location, on charges of managing the Mau Mau insurgency. The trial was widely regarded as unfair, and Kenyatta was convicted and sentenced to seven years imprisonment. He spent most of his sentence in the remote Lokitaung prison in northern Kenya, an experience that hardened his resolve and deepened his nationalist credentials.
+However, Kenyatta's political career was dramatically interrupted. Following the outbreak of the [[Mau Mau Uprising]] in 1952, British colonial authorities arrested Kenyatta along with other nationalist leaders. He was tried at Kapenguria, a remote location, on charges of managing the Mau Mau insurgency. The trial was widely regarded as unfair, and Kenyatta was convicted and sentenced to seven years imprisonment. He spent most of his sentence in the remote Lokitaung prison in northern Kenya, an experience that hardened his resolve and deepened his nationalist credentials.
 
 While Kenyatta was imprisoned, the colonial situation evolved dramatically. The Mau Mau Rebellion gradually subsided, and the British began negotiations for Kenya's independence. Significantly, by the late 1950s, the colonial authorities recognized that Kenyatta would need to be part of Kenya's political future. His imprisonment had transformed him: no longer simply a politician, he had become a martyr and symbol of African resistance.
 
@@ -20,8 +20,8 @@ His ascent represented a remarkable trajectory from colonial subject to national
 - [[Kenyatta Detention Legacy|Kenyatta Detention Legacy]]
 - [[Kenya Independence|Kenya Independence]]
 - [[Jomo Kenyatta|Jomo Kenyatta]]
-- [[../../Mau Mau Rebellion|Mau Mau Rebellion]]
-- [[../../Kenya African Union|Kenya African Union]]
+- [[Mau Mau Uprising|Mau Mau Rebellion]]
+- Kenya African Union
 
 ## Sources
 

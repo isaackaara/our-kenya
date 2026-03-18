@@ -16,8 +16,8 @@ The relationship between environmental literature and environmental activism pro
 
 ## See Also
 [[Postcolonial Literature Movement]]
-[[Climate Change Kenya]]
-[[Wangari Maathai Activism]]
+[[Climate Change Response]]
+Wangari Maathai Activism
 [[Poetry Collections]]
 [[Children's Literature Kenya]]
 [[Social Commentary]]

@@ -21,7 +21,7 @@ By late 2024, the austerity budget had become one of the defining failures of Ru
 - [[Hustler Fund]]
 - [[Ruto and Affordable Housing Levy]]
 - [[Gen Z Kenya Political Awakening]]
-- [[Corruption/Public Debt and Corruption]]
+- Public Debt and Corruption
 - [[Fuel Subsidy Removal 2022]]
 
 ## Sources

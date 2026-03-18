@@ -22,9 +22,9 @@ Kibaki's government's treatment of opposition reflected Kenya's democratic trans
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya Opposition Politics|Kenya Opposition Politics]]
-- [[Kenya Elections|Kenya Elections]]
-- [[Kenya Democratic Transition|Kenya Democratic Transition]]
+- [[Multiparty Politics|Kenya Opposition Politics]]
+- [[Elections|Kenya Elections]]
+- [[Multiparty Politics|Kenya Democratic Transition]]
 
 ## Sources
 

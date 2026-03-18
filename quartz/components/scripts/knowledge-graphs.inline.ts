@@ -1681,7 +1681,9 @@ const GRAPHS_FLAT = GRAPH_CATEGORIES.flatMap(cat =>
   cat.topics.map(id => GRAPH_DATA[id]).filter(Boolean)
 )
 
-let currentGraphId = GRAPHS_FLAT[0]?.id || "raila"
+let currentGraphId = GRAPHS_FLAT.length > 0
+  ? GRAPHS_FLAT[Math.floor(Math.random() * GRAPHS_FLAT.length)].id
+  : "raila"
 let currentSimulation: any = null
 
 function buildKnowledgeGraphs() {

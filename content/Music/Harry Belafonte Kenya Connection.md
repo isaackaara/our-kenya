@@ -31,7 +31,7 @@ For Kenya, "Malaika" became both point of pride and painful reminder. Pride beca
 - [[East African Recording Industry Origins]]
 - [[Music Unions Early Kenya]]
 - [[The Gramophone and Cultural Change Kenya]]
-- [[Elections/1963 Independence Election]]
+- [[1963 Independence Election]]
 - [[Swahili Civilization Overview]]
 
 ## Sources

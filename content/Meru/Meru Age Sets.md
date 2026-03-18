@@ -4,7 +4,7 @@ title: Meru Age Sets (Kiruka)
 
 # Meru Age Sets: Kiruka and Social Organization
 
-The [[Meru people]] have traditionally organized society through age-sets (kiruka, plural of kiruk). These are cohorts of males initiated together during a particular period, creating bonds that persist throughout life and structuring participation in warfare, governance, and community responsibility.
+The [[Meru People]] have traditionally organized society through age-sets (kiruka, plural of kiruk). These are cohorts of males initiated together during a particular period, creating bonds that persist throughout life and structuring participation in warfare, governance, and community responsibility.
 
 ## The Age-Set System
 
@@ -44,8 +44,8 @@ However, the military and governance functions of age-sets have been substantial
 - [[Meru Clan System]]
 - [[Meru Circumcision Ntanira na Mugambo]]
 - [[Meru Male Circumcision]]
-- [[Meru Social Organization]]
-- [[Meru Governance]]
+- [[Meru People]]
+- Meru Governance
 
 ---
 

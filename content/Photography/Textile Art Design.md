@@ -7,13 +7,13 @@ Textile art practice employs varied approaches including pattern design, dyeing,
 Contemporary Kenyan textile artists create work addressing cultural identity, sustainability, and artistic exploration. Some textile artists incorporate traditional Kenyan designs and techniques into contemporary work. Others employ textiles as medium for conceptual exploration or environmental commentary. Digital textile design enables new creative possibilities while traditional textile techniques remain valued. Textile arts provide economic opportunity within fashion, interior design, and fine art contexts. The continued development of textile art reflects textile's enduring significance in cultural expression and artistic creation.
 
 ## See Also
-- [[Weaving Traditions Kenya]]
-- [[Dyeing Processes]]
-- [[Pattern Design]]
+- [[Cultural Heritage]]
+- Dyeing Processes
+- Pattern Design
 - [[Traditional Crafts]]
-- [[Fashion and Textiles]]
-- [[Fiber Arts]]
-- [[Cultural Textile Heritage]]
+- Fashion and Textiles
+- Fiber Arts
+- Cultural Textile Heritage
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Textile_art - Textile Art

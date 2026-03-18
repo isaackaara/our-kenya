@@ -35,7 +35,7 @@ The studio situation began improving in late 1990s and early 2000s as digital re
 - [[Mugithi Music Origins]]
 - [[Kenyan Gospel Music Boom]]
 - [[Congolese Influence on Kenya 1980s]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 - [[FM Radio Revolution Kenya 1990s]]
 - [[Youth Music Culture 1990s Kenya]]
 

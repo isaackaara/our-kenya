@@ -1,6 +1,6 @@
 Maize emerged as Kenya's dominant staple food crop by the late 20th century, transforming dietary patterns and becoming central to government food security strategy and rural livelihoods. The crop's rise reflected both ecological suitability to highlands and colonial and post-independence policies actively promoting maize cultivation over traditional grains.
 
-[[Maize]] entered East Africa from the Americas centuries ago, gradually expanding in cultivation. Colonial period agriculture accelerated maize adoption through promotion by agricultural extension services and integration into colonial administration food supplies. By the mid-20th century, maize had largely displaced traditional sorghum and millet in the highlands, though these grains remained important in lower-altitude and pastoral zones.
+[[Maize Production]] entered East Africa from the Americas centuries ago, gradually expanding in cultivation. Colonial period agriculture accelerated maize adoption through promotion by agricultural extension services and integration into colonial administration food supplies. By the mid-20th century, maize had largely displaced traditional sorghum and millet in the highlands, though these grains remained important in lower-altitude and pastoral zones.
 
 The independence period green revolution strategy made maize the centerpiece of agricultural development. Government promoted hybrid maize varieties developed through international agricultural research institutions, promising yields double or triple those of traditional varieties. Hybrid seeds required purchased inputs including chemical fertilizers and pesticides, creating profitable markets for input suppliers and making farmers dependent on cash income for agricultural production.
 
@@ -17,12 +17,12 @@ Nutritionally, maize provided carbohydrate calories but lacked the micronutrient
 ## See Also
 
 [[Crop Farming Evolution]]
-[[Green Revolution Impact]]
+Green Revolution Impact
 [[Food Security Policies]]
 [[Agricultural Marketing Systems]]
 [[Land Distribution Kenya]]
-[[Cereal Production Systems]]
-[[Rural Income Strategies]]
+Cereal Production Systems
+Rural Income Strategies
 
 ## Sources
 

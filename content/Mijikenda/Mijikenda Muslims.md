@@ -1,4 +1,4 @@
-[[Islam]] has an important presence in [[Mijikenda Overview|Mijikenda communities]], particularly among the Digo and some other coastal groups. Muslim Mjikenda maintain distinct cultural and religious identities while integrating Islamic practice with Mijikenda social structures.
+[[islam]] has an important presence in [[Mijikenda Overview|Mijikenda communities]], particularly among the Digo and some other coastal groups. Muslim Mjikenda maintain distinct cultural and religious identities while integrating Islamic practice with Mijikenda social structures.
 
 ## Historical Islam in the Coast
 

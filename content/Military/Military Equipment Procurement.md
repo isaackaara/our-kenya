@@ -28,7 +28,7 @@ International defence partnerships facilitated equipment procurement and moderni
 [[Kenya Air Force]]
 [[Armed Forces Infrastructure]]
 [[Military Training Recruitment]]
-[[Somerset]]
+Somerset
 
 ## Sources
 

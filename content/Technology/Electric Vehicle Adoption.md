@@ -10,7 +10,7 @@ Charging infrastructure expansion represented critical enabler for increased ado
 
 ## See Also
 
-[[Renewable Energy Tech]], [[Smart Grid Technology]], [[Transportation Policy]], [[Climate Change Response]], [[Development Aid]], [[Technology]]
+[[Renewable Energy Tech]], [[Smart Grid Technology]], Transportation Policy, [[Climate Change Response]], [[Development Aid]], [[Technology]]
 
 ## Sources
 

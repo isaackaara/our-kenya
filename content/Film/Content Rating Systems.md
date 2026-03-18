@@ -8,7 +8,7 @@ The relationship between formal rating systems and parental supervision reflecte
 
 The evolution of content rating systems reflected changing social standards and technological change. Initial classification frameworks focused on film classification. Television rating expansion followed broadcasting expansion. Digital media and streaming services created new rating challenges as content availability increased and parental supervision became more difficult. The proliferation of content sources meant that centralized rating systems could not effectively control all content access. Modern rating systems increasingly relied on parental responsibility and content filtering technology rather than theatrical or broadcast gatekeeping.
 
-See Also: [[Self-Regulation Systems]], [[Censorship Film Television]], [[Broadcasting License]], [[Content Standards]], [[Family Viewing]], [[Television Operations]], [[Media]]
+See Also: [[Self-Regulation Systems]], [[Censorship Film Television]], [[Broadcasting License]], Content Standards, Family Viewing, [[Television Operations]], [[Media]]
 
 Sources:
 1. https://www.film-board-kenya.org/

@@ -18,7 +18,7 @@ Psychological impacts of crossing events created trauma loads for arriving popul
 
 ## See Also
 
-[[Somali Refugee Crisis]], [[South Sudanese Refugees]], [[Border Management]], [[Refugee Reception Conditions]], [[Trauma Psychological Support]], [[Emergency Response]], [[Refugee Health Epidemiology]]
+[[Somali Refugee Crisis]], [[South Sudanese Refugees]], [[Border Management]], [[Refugee Reception Conditions]], [[Trauma Psychological Support]], Emergency Response, [[Refugee Health Epidemiology]]
 
 ## Sources
 

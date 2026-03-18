@@ -12,8 +12,8 @@ Resettlement represented genuine pathway toward rebuilt lives; refugees in third
 [[Resettlement Countries]]
 [[Refugee Return Programs]]
 [[Western Resettlement]]
-[[Integration Refugees Resettlement]]
-[[Resettlement Policies]]
+Integration Refugees Resettlement
+Resettlement Policies
 
 ## Sources
 

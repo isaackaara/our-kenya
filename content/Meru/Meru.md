@@ -49,7 +49,7 @@ The Meru remain a living culture with ancient traditions (the [[Njuri Ncheke]] s
 - **Core Institutions**: [[Njuri Ncheke Deep Dive]] | [[Meru Traditional Justice Systems]]
 - **Sub-Groups**: [[Imenti People]] | [[Tharaka People]] | [[Tigania and Igembe]] | [[Chuka People]] | [[Meru Sub-Group Relations]]
 - **Economy**: [[Miraa Industry Deep Dive]] | [[Miraa and Health Debate]] | [[Meru Coffee]] | [[Meru Dairy Farming]] | [[Tharaka Nithi County Economy]] | [[Meru National Park]] | [[Meru County Agriculture]] | [[Meru Tech Innovation and Startups]]
-- **Culture and Ritual**: [[Meru Circumcision (Ntanira na Mugambo)]] | [[Meru Male Circumcision]] | [[Meru God Concept]] | [[Meru and Christianity]] | [[Meru Independent Churches]] | [[Meru Architecture]] | [[Meru Beadwork and Crafts]] | [[Meru Cultural Festivals and Celebrations]] | [[Meru Traditional Medicine and Healing]]
+- **Culture and Ritual**: Meru Circumcision (Ntanira na Mugambo) | [[Meru Male Circumcision]] | [[Meru God Concept]] | [[Meru and Christianity]] | [[Meru Independent Churches]] | [[Meru Architecture]] | [[Meru Beadwork and Crafts]] | [[Meru Cultural Festivals and Celebrations]] | [[Meru Traditional Medicine and Healing]]
 - **Notable Figures**: [[Kiraitu Murungi Career]] | [[Kawira Mwangaza Saga]] | [[Meru Scholars and Academics]] | [[Meru in the Military]]
 - **Contemporary Politics**: [[Meru and Ruto Politics]] | [[Meru Political Identity 2026]] | [[Meru Post-2013 Devolution Challenges]]
 - **Land and Environment**: [[Land Tenure in Meru]] | [[Mount Kenya Eastern Slopes]] | [[Tana River Headwaters]] | [[Meru Forest Conservation]] | [[Climate Change and Meru]] | [[Meru and Climate Change Adaptation]]

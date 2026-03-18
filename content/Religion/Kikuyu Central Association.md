@@ -14,7 +14,7 @@ The KCA became institutionalized in political life but by the 1930s-1940s faced 
 - [[Kikuyu Religion Colonialism]]
 - [[Christianity and Colonial Missions]]
 - [[Evangelicalism Rise in Kenya]]
-- [[Mau Mau rebellion]]
+- [[Mau Mau Uprising]]
 - [[Religious Opposition Colonialism]]
 - [[Independent African Churches]]
 - [[Missionary Arrival and Settlement]]

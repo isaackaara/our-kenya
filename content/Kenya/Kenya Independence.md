@@ -24,5 +24,5 @@ Kenya's independence from British colonial rule occurred on December 12, 1963, m
 
 ## See Also
 - [[Jomo Kenyatta]]
-- [[Mau Mau Rebellion]]
-- [[Kenya Post-Colonial Politics]]
+- [[Mau Mau Uprising]]
+- [[Politics]]

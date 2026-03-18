@@ -1,4 +1,4 @@
-[[Manilal Premchand Chandaria]] (born March 1, 1929) is one of Kenya's most respected businessmen and the paradigmatic example of the Asian who remained in Kenya, built a massive enterprise, and became a significant [[philanthropist]]. Chandaria is approaching 97 years old (as of 2026) and remains active in business and philanthropy.
+Manilal Premchand Chandaria (born March 1, 1929) is one of Kenya's most respected businessmen and the paradigmatic example of the Asian who remained in Kenya, built a massive enterprise, and became a significant philanthropist. Chandaria is approaching 97 years old (as of 2026) and remains active in business and philanthropy.
 
 ## Early Life and Education
 
@@ -6,7 +6,7 @@ Chandaria was born in [[Nairobi]] to an Indian family involved in trade and busi
 
 ## Building the Comcraft Group
 
-Chandaria transformed the family business into [[Comcraft Group|Comcraft]], a multibillion-dollar conglomerate. Comcraft operates in steel, aluminum, manufacturing, and other industrial sectors. The group trades in over 40 countries and is valued at approximately US$2.5 billion. Chandaria's business acumen, persistence, and willingness to take calculated risks built this empire over decades.
+Chandaria transformed the family business into Comcraft, a multibillion-dollar conglomerate. Comcraft operates in steel, aluminum, manufacturing, and other industrial sectors. The group trades in over 40 countries and is valued at approximately US$2.5 billion. Chandaria's business acumen, persistence, and willingness to take calculated risks built this empire over decades.
 
 ## Honors and Recognition
 
@@ -50,7 +50,7 @@ Chandaria's legacy encompasses business success, philanthropic contribution, and
 - [[Asian Retail Empires]]
 - [[Asian Manufacturing Sector]]
 - [[Nairobi Business District]]
-- [[The Comcraft Group|Comcraft Group Kenya]]
+- Comcraft Group Kenya
 - [[Africanisation and Asian Business]]
 
 ## Sources

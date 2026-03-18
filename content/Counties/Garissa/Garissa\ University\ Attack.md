@@ -20,7 +20,7 @@ The attack remains symbolic of Al-Shabaab's reach and Kenya's vulnerability to t
 - [[Garissa Security|Garissa Security]]
 - [[Garissa County|Garissa County]]
 - [[Somali in Garissa|Somali in Garissa]]
-- [[Garissa University|Garissa University]]
+- Garissa University
 
 ## Sources
 

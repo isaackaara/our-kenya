@@ -23,7 +23,7 @@ British military training provided instruction in professional military standard
 [[Kenya Defence Force History]]
 [[Military Training Recruitment]]
 [[Armed Forces Infrastructure]]
-[[Defence Partnership International]]
+Defence Partnership International
 
 ## Sources
 

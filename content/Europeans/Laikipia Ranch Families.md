@@ -2,7 +2,7 @@ The Laikipia plateau, stretching north of the Equator at approximately 2,000-2,5
 
 ## The Geography and Settlement Pattern
 
-[[Laikipia]] covers roughly 9,700 square kilometers of semi-arid pastoral and mixed-use land. The plateau's elevation and rainfall patterns (500-1,000 mm annually in the western zone, lower in the east) make it suitable for both cattle ranching and increasingly for wildlife tourism and conservation. From the 1920s through the present, white settlers and ranchers have accumulated substantial landholdings here, creating a patchwork of large private ranches, some registered as wildlife conservancies, interspersed with group ranches (community landholdings) and pastoral territories used by [[Maasai]], [[Samburu]], [[Pokot]], and [[Turkana]] herders.
+[[Laikipia County]] covers roughly 9,700 square kilometers of semi-arid pastoral and mixed-use land. The plateau's elevation and rainfall patterns (500-1,000 mm annually in the western zone, lower in the east) make it suitable for both cattle ranching and increasingly for wildlife tourism and conservation. From the 1920s through the present, white settlers and ranchers have accumulated substantial landholdings here, creating a patchwork of large private ranches, some registered as wildlife conservancies, interspersed with group ranches (community landholdings) and pastoral territories used by [[Maasai]], [[Samburu]], [[Pokot]], and Turkana herders.
 
 By the early 21st century, large tracts of Laikipia were owned or controlled by European settler families, conservation organizations run by or partnering with white Kenyans, or foreign conservation enterprises. Major landholdings included ranches running from 10,000 to 50,000+ acres, many of which diversified into wildlife tourism, walking safaris, research stations, and conservancies.
 
@@ -60,7 +60,7 @@ The Laikipia plateau remains a microcosm of the broader question: can white sett
 - [[Kuki Gallmann]] - Contemporary conservationist
 - [[Land Restitution Debate]] - Land justice questions
 - [[European Settlement Overview]] - Settler population
-- [[Pastoral Communities and Land]] - Pastoralist perspectives
+- Pastoral Communities and Land - Pastoralist perspectives
 - [[Conservation]] - Conservation ethics
 - [[Europeans who Stayed]] - Post-independence settlers
 - [[White Privilege in Contemporary Kenya]] - Social position of whites

@@ -2,7 +2,7 @@ The East African Crude Oil Pipeline (EACOP), a 1,443-kilometer pipeline designed
 
 The EACOP project, led by Uganda, Tanzania, French oil giant TotalEnergies, and the China National Offshore Oil Corporation (CNOOC), was designed to unlock Uganda's estimated 6.5 billion barrels of oil reserves. The pipeline would carry heated crude oil from Hoima in Uganda to Tanga in Tanzania, where it would be shipped to international markets. The project was expected to cost over USD 5 billion and create thousands of jobs in both countries. For Uganda, it was a ticket to becoming an oil-exporting nation. For Tanzania, it meant port fees and transit revenues. For Kenya, it was a missed opportunity.
 
-Kenya had initially lobbied hard to be the route for the pipeline, proposing a northern route through Kenya to the port of Lamu. The Kenya route was shorter and potentially cheaper, but it faced security concerns due to instability in northern Kenya and the threat of terrorism from groups like [[Al-Shabaab]]. Uganda ultimately chose the Tanzania route in 2016, a decision that was seen in Kenya as a diplomatic defeat. The choice was partly technical, but it was also political. Tanzania offered more favorable terms, and Uganda's President Yoweri Museveni had a closer relationship with Tanzania's President John Magufuli than with Kenya's leaders at the time.
+Kenya had initially lobbied hard to be the route for the pipeline, proposing a northern route through Kenya to the port of Lamu. The Kenya route was shorter and potentially cheaper, but it faced security concerns due to instability in northern Kenya and the threat of terrorism from groups like [[al-shabaab]]. Uganda ultimately chose the Tanzania route in 2016, a decision that was seen in Kenya as a diplomatic defeat. The choice was partly technical, but it was also political. Tanzania offered more favorable terms, and Uganda's President Yoweri Museveni had a closer relationship with Tanzania's President John Magufuli than with Kenya's leaders at the time.
 
 Under Ruto, Kenya attempted to salvage some role in the project. Ruto's government proposed that Kenya could supply goods, services, and labor to the pipeline construction, and that Kenyan ports could serve as backup export routes if the Tanga route faced disruptions. But these were marginal roles, and Uganda and Tanzania were not particularly interested. The reality was that Kenya had been sidelined, and there was little Ruto could do to change that.
 
@@ -15,10 +15,10 @@ By 2024, construction of the EACOP was well underway despite the international o
 ## See Also
 - [[Ruto Foreign Policy]]
 - [[Ruto and East African Community]]
-- [[Corruption/Oil and Gas Sector]]
+- Oil and Gas Sector
 - [[Ruto Inauguration and First 100 Days]]
 - [[Kenya Haiti Mission]]
-- [[Cross-Ethnic/East African Regional Politics]]
+- East African Regional Politics
 - [[Uhuru Kenyatta]]
 
 ## Sources

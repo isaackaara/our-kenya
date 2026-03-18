@@ -16,7 +16,7 @@ The island's UNESCO World Heritage designation recognized Lamu's cultural and ar
 [[Islamic Sultanates Mombasa]]
 [[Inter-Faith Dialogue Modern]]
 [[Religious Pluralism Independence]]
-[[Colonial Kenya/Coastal Cities]]
+Coastal Cities
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The cheetah (Acinonyx jubatus) is Africa's fastest land mammal, occurring across Kenya in [[Marine Protected Areas|protected areas]] and [[Community Conservancies Model|conservancies]]. Kenya's cheetah population has declined significantly from [[Population Decline and Causes|historical levels]], though the species remains more common than critically endangered [[Large Carnivores|large carnivores]]. Conservation of cheetahs requires [[Habitat Protection|habitat protection]] and [[Human-Wildlife Coexistence|human-wildlife coexistence]] strategies. The species faces competition from [[Predation and Competition|lions and other predators]] and depends on [[Prey Availability|abundant prey species]].
+The cheetah (Acinonyx jubatus) is Africa's fastest land mammal, occurring across Kenya in [[Marine Protected Areas|protected areas]] and [[Community Conservancies Model|conservancies]]. Kenya's cheetah population has declined significantly from historical levels, though the species remains more common than critically endangered large carnivores. Conservation of cheetahs requires habitat protection and human-wildlife coexistence strategies. The species faces competition from lions and other predators and depends on abundant prey species.
 
 ## Species Ecology and Behavior
 
@@ -74,13 +74,13 @@ Cheetah populations in Kenya appear relatively stable compared to more endangere
 
 ## See Also
 
-- [[African Carnivores Kenya]]
+- African Carnivores Kenya
 - [[Conservation]]
 - [[Maasai Mara National Reserve]]
 - [[Tsavo National Park]]
-- [[Human-Cheetah Conflict]]
+- Human-Cheetah Conflict
 - [[Art Tourism]]
-- [[Habitat Fragmentation]]
+- Habitat Fragmentation
 
 ## Sources
 

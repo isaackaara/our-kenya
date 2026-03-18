@@ -11,10 +11,10 @@ Public sector retrenchment during liberalization program eliminated civil servic
 ## See Also
 - [[Labor Deregulation]]
 - [[Labor Independence]]
-- [[Wage Decline]]
+- Wage Decline
 - [[Labor Exploitation]]
 - [[Strike Movements Kenya]]
-- [[Economic Liberalization Kenya]]
+- Economic Liberalization Kenya
 - [[Informal Economy Workers]]
 
 ## Sources

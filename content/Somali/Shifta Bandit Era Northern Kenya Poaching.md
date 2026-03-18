@@ -1,6 +1,6 @@
 # Shifta Bandit Era and Northern Kenya Poaching Crisis
 
-The [[Shifta bandit era]] spanning from [[Kenyan independence]] through the 1980s established patterns of lawlessness, resource competition, and wildlife poaching that would define northern Kenya's conservation challenges for decades. Shifta bandits, primarily Somali pastoralists operating across the Kenya-Somalia border, conducted cattle rustling, smuggling, and organized wildlife poaching that destabilized northern Kenya's security and ecosystem integrity.
+The Shifta bandit era spanning from Kenyan independence through the 1980s established patterns of lawlessness, resource competition, and wildlife poaching that would define northern Kenya's conservation challenges for decades. Shifta bandits, primarily Somali pastoralists operating across the Kenya-Somalia border, conducted cattle rustling, smuggling, and organized wildlife poaching that destabilized northern Kenya's security and ecosystem integrity.
 
 The Shifta conflict emerged from colonial boundaries separating Somali pastoral communities that had traditionally moved across what became the Kenya-Somalia border. Post-independence borders hardened these divisions, creating conflict between Kenyan government authority and Somali communities resisting border restrictions. Shifta banditry represented both nationalist resistance to Kenyan authority and opportunistic predation on Kenya's resources.
 
@@ -24,11 +24,11 @@ Contemporary northern Kenya poaching and security challenges retain echoes of Sh
 
 ## See Also
 
-- [[Northern Kenya Poaching Crisis]] - Continued poaching challenges in post-Shifta era
+- [[Wildlife Protection]] - Continued poaching challenges in post-Shifta era
 - [[Samburu National Reserve]] - Northern protected area affected by Shifta poaching
 - [[Northern Rangelands Trust]] - Conservation institution emerging from Shifta-era challenges
 - [[Pastoralists and Conservation]] - Pastoral community relationships to wildlife and conservation
-- [[Kenya-Somalia Border]] - Geographic and political context for Shifta operations
+- Kenya-Somalia Border - Geographic and political context for Shifta operations
 - [[Northern Frontier District]] - Colonial-era governance context for northern Kenya
 
 ## Sources

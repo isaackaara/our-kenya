@@ -14,7 +14,7 @@ Radio sports programming, particularly through sports segments on news-oriented 
 [[Television History Kenya]]
 [[Radio Broadcasting Development]]
 [[Online News Platforms]]
-[[Culture/Sports Kenya]]
+[[Sports]]
 
 ## Sources
 1. https://nation.africa/kenya/sports

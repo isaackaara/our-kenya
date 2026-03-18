@@ -21,10 +21,10 @@ The evolution of port infrastructure reflected changing commercial patterns and 
 ## See Also
 
 [[Harbor Facilities]]
-[[Port Economics]]
-[[Merchant Commerce Support]]
-[[Urban Infrastructure]]
-[[Maritime Trade Networks]]
+Port Economics
+Merchant Commerce Support
+Urban Infrastructure
+Maritime Trade Networks
 
 ## Sources
 

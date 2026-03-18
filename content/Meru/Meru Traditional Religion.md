@@ -4,7 +4,7 @@ title: Meru Traditional Religion
 
 # Meru Traditional Religion: Cosmology, Ritual, and the Sacred
 
-Before [[Christianity]], Meru had a rich [[religious and cosmological system]] centered on [[Murungu]] (God), the [[Mount Kenya]], [[ancestor spirits]], and [[Sacred Groves in African Context]]. While Christianity has substantially transformed Meru religious practice, traditional beliefs persist in memory and, for some, in parallel practice.
+Before [[christianity]], Meru had a rich religious and cosmological system centered on Murungu (God), the [[Mount Kenya]], ancestor spirits, and [[Sacred Groves in African Context]]. While Christianity has substantially transformed Meru religious practice, traditional beliefs persist in memory and, for some, in parallel practice.
 
 ## Murungu: The Supreme Being
 

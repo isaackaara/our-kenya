@@ -15,7 +15,7 @@ Contemporary church land holdings reflect complex histories of colonial acquisit
 [[Colonial Religious Gatherings]]
 [[Religious Opposition Colonialism]]
 [[Missionary Arrival and Settlement]]
-[[Colonial Kenya/Land and Territory]]
+Land and Territory
 [[Church and State Relations]]
 
 ## Sources

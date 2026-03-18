@@ -21,7 +21,7 @@ By the late 20th century, Green Revolution technologies had become substantially
 [[Fertilizer Use]]
 [[Pesticide Application]]
 [[Irrigation Development]]
-[[Poverty/Technology Adoption and Inequality]]
+Technology Adoption and Inequality
 
 ## Sources
 

@@ -11,7 +11,7 @@ Media literacy and audience awareness of ownership structures represent potentia
 [[Royal Media Services]]
 [[Standard Digital Group]]
 [[Media Independence Coverage]]
-[[Corruption/Media Capture]]
+Media Capture
 [[Media Democratization]]
 
 ## Sources

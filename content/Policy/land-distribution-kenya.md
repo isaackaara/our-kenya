@@ -7,8 +7,8 @@ Colonial land alienation created inequitable distribution patterns persisting in
 Contemporary land disputes remain sources of conflict and developmental challenge.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

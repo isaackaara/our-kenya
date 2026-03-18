@@ -56,7 +56,7 @@ As of early 2026, the Sengwer eviction crisis remains unresolved. The Sengwer co
 
 ## Related
 
-[[Cherangani Hills]] | [[Pokot]] | [[Marakwet and the Water Furrows]] | [[../Conservation/Fortress Conservation]]
+[[Cherangani Hills]] | [[Pokot]] | [[Marakwet and the Water Furrows]] | Fortress Conservation
 
 ## See Also
 

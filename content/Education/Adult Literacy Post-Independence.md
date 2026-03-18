@@ -15,7 +15,7 @@ The legacy of adult literacy efforts was mixed. While thousands of adults gained
 [[Religion And Education]]
 [[Education Social Change]]
 [[Primary Curriculum Evolution]]
-[[Women/Gender-related entry]]
+Gender-related entry
 
 ## Sources
 1. Eshiwani, G.S. (1990). Implementing Educational Policies in Kenya. World Bank Technical Paper, pp. 78-95

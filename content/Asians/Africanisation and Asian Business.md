@@ -1,4 +1,4 @@
-In the 1960s and 1970s, the [[Kenya|Kenyan government]] under [[Jomo Kenyatta]] pursued [[Africanisation and Asian Business]] policies aimed at transferring economic ownership and management to African (primarily [[Kikuyu]]) businesspeople. These policies directly threatened [[Asian Kenyans|Asian]] economic dominance and triggered massive [[emigration]].
+In the 1960s and 1970s, the [[Kenya|Kenyan government]] under [[Jomo Kenyatta]] pursued [[Africanisation and Asian Business]] policies aimed at transferring economic ownership and management to African (primarily [[Kikuyu]]) businesspeople. These policies directly threatened [[Asian Kenyans|Asian]] economic dominance and triggered massive emigration.
 
 ## The Concept of Africanisation
 

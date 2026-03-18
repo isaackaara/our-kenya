@@ -13,11 +13,11 @@ The youth activism of the 1992 period thus represented both a success (the mobil
 ## See Also
 
 - [[1992 Election]]
-- [[Youth Activism Kenya]]
-- [[Student Movements]]
-- [[Pro-Democracy Movement]]
-- [[Generation and Politics]]
-- [[Saba Saba Riots]]
+- [[Gen Z Protests 2024]]
+- Student Movements
+- Pro-Democracy Movement
+- Generation and Politics
+- [[Saba Saba 1990]]
 - [[Gen Z Kenya Political Awakening]]
 
 ## Sources

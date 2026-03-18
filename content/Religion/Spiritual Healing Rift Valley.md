@@ -16,7 +16,7 @@ The decline of traditional Rift Valley healing systems accelerated through the t
 [[Traditional African Religion Kenya]]
 [[Charismatic Christianity Impact]]
 [[Religious Movements Mental Health]]
-[[Maasai/Religious Practice]]
+Religious Practice
 
 ## Sources
 

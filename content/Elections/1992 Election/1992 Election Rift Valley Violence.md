@@ -13,12 +13,12 @@ The violence also demonstrated the weakness of Kenya's institutional mechanisms 
 ## See Also
 
 - [[1992 Election]]
-- [[Rift Valley Politics]]
-- [[Ethnic Violence Kenya]]
+- [[Politics]]
+- [[Post-Election Violence]]
 - [[Refugees]]
 - [[Job Security]]
 - [[Election Violence as Political Crime]]
-- [[Communal Conflict Kenya]]
+- Communal Conflict Kenya
 
 ## Sources
 

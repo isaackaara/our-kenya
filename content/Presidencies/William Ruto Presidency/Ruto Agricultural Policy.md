@@ -6,7 +6,7 @@ In 2023, a scandal erupted when it was discovered that some of the subsidized fe
 
 The maize sector, which is politically sensitive in Kenya, also became a flashpoint. In 2023, the government imported over 10 million bags of maize to address what it claimed was a shortage. Farmers protested, arguing that there was no shortage and that the imports were depressing prices just as they were bringing their harvest to market. Maize prices fell from KES 6,000 per 90kg bag to as low as KES 3,000, leaving many farmers unable to recover their costs. The National Cereals and Produce Board (NCPB), which is supposed to provide a price floor, was broke and could not purchase farmers' maize. The entire sector felt abandoned.
 
-Ruto's government also pushed for agricultural mechanization, particularly in the [[Kalenjin/Kalenjin Economy and Agriculture]] heartlands of the Rift Valley. Subsidized tractors and planters were distributed to farmer cooperatives, and there was talk of creating agricultural industrial parks to process crops. But implementation was slow, and the benefits were uneven. Large-scale farmers with political connections got access to the machinery. Smallholders did not. The mechanization push also raised concerns about land concentration and the displacement of smallholder farmers, a sensitive issue in a country where land ownership is deeply politicized.
+Ruto's government also pushed for agricultural mechanization, particularly in the Kalenjin Economy and Agriculture heartlands of the Rift Valley. Subsidized tractors and planters were distributed to farmer cooperatives, and there was talk of creating agricultural industrial parks to process crops. But implementation was slow, and the benefits were uneven. Large-scale farmers with political connections got access to the machinery. Smallholders did not. The mechanization push also raised concerns about land concentration and the displacement of smallholder farmers, a sensitive issue in a country where land ownership is deeply politicized.
 
 The coffee and tea sectors, which together account for a significant portion of Kenya's export earnings, also saw attempted reforms. Ruto's government promised to pay coffee farmers directly and eliminate the exploitative middlemen who had dominated the sector for decades. New regulations were introduced, but enforcement was weak. By 2024, farmers were still complaining about delayed payments and opaque pricing. The tea sector faced similar issues, compounded by falling global prices and overproduction.
 
@@ -14,10 +14,10 @@ Agriculture had been Ruto's political base. Rural voters, particularly in the Ri
 
 ## See Also
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
-- [[Kalenjin/Kalenjin Economy and Agriculture]]
-- [[Corruption/Fertilizer Scandal 2023]]
+- Kalenjin Economy and Agriculture
+- Fertilizer Scandal 2023
 - [[Ruto Inauguration and First 100 Days]]
-- [[Ruto and the Kalenjin Community]]
+- [[William Ruto Presidency]]
 - [[Finance Bill 2023 Kenya]]
 - [[Ruto and the IMF]]
 

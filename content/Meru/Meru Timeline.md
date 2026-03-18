@@ -1,4 +1,4 @@
-A chronological reference of major dates in [[Meru history]] from [[pre-colonial]] origins through 2026.
+A chronological reference of major dates in Meru history from pre-colonial origins through 2026.
 
 ## Pre-Colonial Period (c. 1500-1800 CE)
 

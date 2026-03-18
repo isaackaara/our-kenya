@@ -24,9 +24,9 @@ The land legacy of Moi's presidency includes extensive irregular allocation of p
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Moi Nyayo Philosophy|Moi Nyayo Philosophy]]
-- [[Kenya Post-Moi Transition|Kenya Post-Moi Transition]]
-- [[Kenya Authoritarianism|Kenya Authoritarianism]]
-- [[Kenya Reconciliation|Kenya Reconciliation]]
+- Kenya Post-Moi Transition
+- [[Daniel arap Moi Era|Kenya Authoritarianism]]
+- Kenya Reconciliation
 
 ## Sources
 

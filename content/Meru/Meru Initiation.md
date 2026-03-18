@@ -4,7 +4,7 @@ title: Meru Initiation Rites
 
 # Meru Initiation: Circumcision and the Rite of Passage
 
-Male circumcision serves as the central [[rite of passage]] in [[Meru society]], marking the transition from boyhood to adulthood. The initiation process involves ritual, seclusion, instruction, and the formation of lifelong bonds among age-mates.
+Male circumcision serves as the central rite of passage in [[Meru People]], marking the transition from boyhood to adulthood. The initiation process involves ritual, seclusion, instruction, and the formation of lifelong bonds among age-mates.
 
 ## The Male Circumcision Ceremony
 

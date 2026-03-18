@@ -18,7 +18,7 @@ Post-2002, gospel musicians faced disillusionment as [[Mwai Kibaki Presidency|Ki
 
 Gospel music also served [[Civic Education Through Music Kenya|civic education]] functions. Songs encouraged voter registration, peaceful elections, and constitutional awareness. During referendum campaigns, gospel artists produced songs supporting particular positions, though usually framed as moral rather than explicitly political stances.
 
-The [[Music/Music and HIV/AIDS Awareness Kenya|HIV/AIDS crisis]] demonstrated gospel music's social advocacy potential. Christian musicians addressed epidemic through songs promoting abstinence, faithfulness, and compassion for infected persons. This public health messaging, while ostensibly apolitical, engaged political debates about sexuality, morality, and government health policy.
+The [[AIDS Epidemic Kenya|HIV/AIDS crisis]] demonstrated gospel music's social advocacy potential. Christian musicians addressed epidemic through songs promoting abstinence, faithfulness, and compassion for infected persons. This public health messaging, while ostensibly apolitical, engaged political debates about sexuality, morality, and government health policy.
 
 Controversies erupted when gospel artists' political associations contradicted public morality messaging. Musicians who sang about righteousness while accepting money from corrupt politicians faced accusations of hypocrisy. These scandals exposed tensions between gospel music's spiritual claims and artists' economic realities in contexts where political patronage offered financial security.
 
@@ -29,7 +29,7 @@ By the 2000s, gospel music's political dimensions were undeniable. Whether throu
 - [[Praise and Worship Movement Kenya]]
 - [[Music and the Multiparty Era]]
 - [[Civic Education Through Music Kenya]]
-- [[Music/Music and HIV/AIDS Awareness Kenya]]
+- [[AIDS Epidemic Kenya]]
 - [[Daniel arap Moi Presidency]]
 - [[Mwai Kibaki Presidency]]
 - [[2002 Election]]

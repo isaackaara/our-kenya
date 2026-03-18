@@ -18,7 +18,7 @@ Nairobi's transformation by the 1950s made it a major urban center, with populat
 [[Colonial Architecture]]
 [[Urban Slums Growth]]
 [[Colonial Racial Discrimination]]
-[[Colonial Administrative Centers]]
+Colonial Administrative Centers
 [[Mombasa Colonial Growth]]
 
 ## Sources

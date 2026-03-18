@@ -16,11 +16,11 @@ The 1998 bombing occurred at a time when Moi's regime was already transitioning 
 
 ## See Also
 [[Moi and the 1998 US Embassy Bombing]]
-[[Kenya/Terrorism]]
+Terrorism
 [[Moi Post-Presidency]]
 [[Moi Legacy and Assessment]]
-[[Kenya/Foreign Policy]]
-[[Kenya/Security Challenges]]
+[[Foreign Policy]]
+Security Challenges
 
 ## Sources
 1. https://www.britannica.com/event/1998-US-Embassy-Bombings (accessed 2024)

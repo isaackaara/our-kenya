@@ -7,13 +7,13 @@ The relationship between political cartoons and political power has been complex
 Contemporary Kenyan political cartooning continues within journalism, digital media, and independent artistic practice. Political cartoonists address contemporary issues including governance, corruption, inequality, and social change. Digital platforms enable wider distribution of political cartoons while also enabling rapid response to current events. Political cartoons represent important form of visual journalism and public discourse. The combination of artistic skill and political insight required for effective political cartooning keeps the tradition vital. Political cartoons contribute to Kenya's visual culture and democratic discourse.
 
 ## See Also
-- [[Journalism and Illustration]]
-- [[Political Commentary Visual]]
+- Journalism and Illustration
+- Political Commentary Visual
 - [[Political Novels Satire]]
-- [[Media Criticism]]
+- Media Criticism
 - [[Illustration Art]]
-- [[Political Expression Art]]
-- [[Freedom of Expression]]
+- Political Expression Art
+- Freedom of Expression
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Editorial_cartoon - Political Cartoons

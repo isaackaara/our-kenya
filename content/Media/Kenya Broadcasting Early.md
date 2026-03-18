@@ -14,7 +14,7 @@ Kenya's early broadcasting history reflected broader African patterns in which c
 [[Radio Broadcasting Development]]
 [[Media Democratization]]
 [[Kenya Broadcasting Corporation]]
-[[Technology/Early Radio]]
+Early Radio
 
 ## Sources
 1. https://kbc.go.ke/about/

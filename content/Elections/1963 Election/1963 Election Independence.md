@@ -15,8 +15,8 @@ The election-to-independence transition also shaped Kenya's relationship with th
 - [[1963 Election KANU]]
 - [[The Lancaster House Conferences]]
 - [[Kenya]]
-- [[December 12 1963]]
-- [[Colonial to Post-Colonial Transition]]
+- December 12 1963
+- Colonial to Post-Colonial Transition
 
 ## Sources
 

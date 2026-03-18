@@ -14,7 +14,7 @@ Water quality and availability challenges affect pastoral and human communities.
 - [[Samburu Climate Change]]
 - [[Samburu Water Resources]]
 - [[Lake Turkana]]
-- [[Water Management in Arid Regions]]
+- Water Management in Arid Regions
 
 ## Sources
 

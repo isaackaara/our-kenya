@@ -20,8 +20,8 @@ Cultural factors affecting education include traditional practices that inhibit 
 
 ## See Also
 - [[Taita-Taveta County]]
-- [[Primary Education Kenya]]
-- [[Secondary Education Kenya]]
+- Primary Education Kenya
+- [[Education]]
 - [[Education]]
 - [[Skills Development]]
 - [[Teacher Training Colleges]]

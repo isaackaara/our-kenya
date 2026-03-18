@@ -21,10 +21,10 @@ NARC's failure to endure reflected both the coalition's initial lack of internal
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya 2002 Election|Kenya 2002 Election]]
+- [[2002 Presidential Election|Kenya 2002 Election]]
 - [[Raila Odinga|Raila Odinga]]
-- [[Kenya Political Coalitions|Kenya Political Coalitions]]
-- [[Kenya Party System|Kenya Party System]]
+- [[Politics|Kenya Political Coalitions]]
+- Kenya Party System
 
 ## Sources
 

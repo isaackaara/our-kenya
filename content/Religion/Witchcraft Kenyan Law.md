@@ -16,7 +16,7 @@ Contemporary Kenyan legal efforts to address witchcraft-related violence have in
 [[Women Religious Leaders]]
 [[Maasai Spirit Mediums]]
 [[Akamba Spirit Mediums]]
-[[Colonial Kenya/Justice Systems]]
+Justice Systems
 
 ## Sources
 

@@ -19,7 +19,7 @@ By the 1950s, monetary policy became increasingly complicated by the transition 
 [[Settler Farming System]]
 [[Colonial Economic Integration]]
 [[East Africa]]
-[[Colonial Inflation]]
+Colonial Inflation
 
 ## Sources
 

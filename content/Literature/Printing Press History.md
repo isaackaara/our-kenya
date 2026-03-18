@@ -4,7 +4,7 @@ Missionaries pioneered printing in Kenya, establishing presses to produce religi
 
 Colonial administration gradually established printing capacity to serve governmental communication needs. Government printing presses produced administrative documents, educational materials, and publications supporting colonial governance. Like missionary presses, governmental presses restricted content to serve colonial interests, though their existence created infrastructure that postcolonial governments could eventually utilize.
 
-The [[Ndia Kuu Press]] emerged as significant mission-based printing institution, eventually becoming foundation for the [[East African Literature Bureau]]. This institutional history reveals how missionary printing infrastructure provided foundation for later secular publishing, with institutions established for religious purposes being repurposed for broader literary circulation.
+The Ndia Kuu Press emerged as significant mission-based printing institution, eventually becoming foundation for the [[East African Literature Bureau]]. This institutional history reveals how missionary printing infrastructure provided foundation for later secular publishing, with institutions established for religious purposes being repurposed for broader literary circulation.
 
 Colonial restrictions on printing access meant that Africans desiring to publish faced obstacles unless their work served colonial interests or served within mission institutions. This restricted access to printing constrained indigenous literary production, limiting opportunities for Africans to create and circulate their own literature. The printing press thus functioned as technological tool mediating between colonial gatekeepers and potential African publics.
 
@@ -27,7 +27,7 @@ Printing's history in Kenya demonstrates technology's shaping influence on liter
 ## See Also
 [[Publishing Industry Kenya]]
 [[East African Literature Bureau]]
-[[Missionary Education Kenya]]
+Missionary Education Kenya
 [[The Colonial Infrastructure Legacy]]
 [[Digital Art]]
 [[Self-Publishing Movement]]

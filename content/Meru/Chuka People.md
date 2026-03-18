@@ -1,4 +1,4 @@
-The Chuka are a [[Meru people|Meru sub-group]] inhabiting portions of [[Tharaka-Nithi County]]. The Chuka represent a smaller Meru sub-group with distinctive territory and cultural practices within the broader Meru confederation.
+The Chuka are a [[Meru People|Meru sub-group]] inhabiting portions of [[Tharaka-Nithi County]]. The Chuka represent a smaller Meru sub-group with distinctive territory and cultural practices within the broader Meru confederation.
 
 ## Territory
 

@@ -25,8 +25,8 @@ Moi's post-2002 exit from the presidency came on terms more favorable than he mi
 ## See Also
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
-- [[Kenya Democratization|Kenya Democratization]]
-- [[Kenya Elections|Kenya Elections]]
+- Kenya Democratization
+- [[Elections|Kenya Elections]]
 - [[Moi Legacy|Moi Legacy]]
 - [[Goldenberg Scandal|Goldenberg Scandal]]
 

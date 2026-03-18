@@ -17,8 +17,8 @@ Moi's engagement with the World Bank and IMF thus demonstrates how international
 ## See Also
 [[Structural Adjustment Programs Kenya]]
 [[Moi Economic Policy 1978-1990]]
-[[Moi and International Donors]]
-[[Kenya/Economic Decline 1980s]]
+[[Structural Adjustment Kenya]]
+Economic Decline 1980s
 [[Moi and USAID]]
 [[Kenya]]
 

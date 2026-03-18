@@ -14,7 +14,7 @@ The council's regulatory authority existed in tension with press freedom conside
 [[Media Council Regulation]]
 [[Press Freedom Authoritarian]]
 [[Media Democratization]]
-[[Corruption/Media Capture]]
+Media Capture
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Media_Council_of_Kenya

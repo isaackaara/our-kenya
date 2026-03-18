@@ -9,7 +9,7 @@ Intergenerational transmission of inequality occurs primarily through educationa
 Regional inequality in Kenya reflects colonial investment patterns and post-independence development geography. Central and western regions, historically targeted by colonial development and harambee-era investments, show lower poverty incidence and higher average incomes compared to pastoral and coastal regions. Infrastructure concentration in Nairobi and Western Kenya creates employment opportunities unavailable in marginal areas, attracting migration from poorer regions. This creates reinforcing cycles: investment follows population and economic concentration, while disadvantage perpetuates in left-behind regions. Some regions show poverty incidence exceeding 50 percent while others are below 20 percent, reflecting deep territorial inequality patterns.
 
 ## See Also
-[[Wealth Gap]], [[Educational Disparities]], [[Employment Barriers]], [[Urban Poverty]], [[Rural Poverty]], [[Development Aid]], [[Gender Pay Gap]], [[Formal Sector Employment]]
+[[Wealth Gap]], Educational Disparities, [[Employment Barriers]], [[Urban Poverty]], [[Rural Poverty]], [[Development Aid]], [[Gender Pay Gap]], Formal Sector Employment
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Census 2019 Socio-Economic Data." https://www.knbs.or.ke

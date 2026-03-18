@@ -1,4 +1,4 @@
-Bride price (referred to as "bridewealth" or locally in [[Kikuyu/Kikuyu People and Culture|Kikuyu]] context as "irio ri mugambi") is payment of goods or currency by groom's family to bride's family upon marriage, traditionally serving social functions including cementing family alliances and transferring economic value. In contemporary Kikuyu and other Kenyan communities, bride price persists with contested gender implications: for some, it represents cultural tradition honoring women's value; for others, it represents commodification of women, enables male control, and perpetuates gender inequality.
+Bride price (referred to as "bridewealth" or locally in [[Kikuyu People and Culture|Kikuyu]] context as "irio ri mugambi") is payment of goods or currency by groom's family to bride's family upon marriage, traditionally serving social functions including cementing family alliances and transferring economic value. In contemporary Kikuyu and other Kenyan communities, bride price persists with contested gender implications: for some, it represents cultural tradition honoring women's value; for others, it represents commodification of women, enables male control, and perpetuates gender inequality.
 
 Precolonial Kikuyu bride price payment involved transfer of livestock and goods from groom's lineage to bride's lineage, functioning as alliance-cementing mechanism and resource redistribution. Bride price exchanges created economic interdependence between lineages and established mutual obligations. Women's economic role in bride price exchange, theoretically receiving value through bride price paid on their behalf, connected women to family economic transactions.
 
@@ -20,7 +20,7 @@ Contemporary bride price debates intersect with cultural preservation and women'
 
 ## See Also
 
-[[Kikuyu/Kikuyu People and Culture|Kikuyu Traditions]]
+[[Kikuyu People and Culture|Kikuyu Traditions]]
 [[Women Property Rights Marriage]]
 [[Female Education Barriers]]
 [[Gender-Based Violence]]

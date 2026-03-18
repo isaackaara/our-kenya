@@ -11,11 +11,11 @@ The Kimunya episode had long-term consequences for Kibaki's presidency and for p
 ## See Also
 
 [[Grand Regency Hotel Scandal]]
-[[Corruption in Kenya Politics]]
-[[Kibaki Cabinet and Government]]
-[[Finance Ministry Kenya Scandals]]
-[[Kenya Civil Service Corruption]]
-[[Corruption/ Scandals and Accountability]]
+Corruption in Kenya Politics
+[[Mwai Kibaki]]
+Finance Ministry Kenya Scandals
+Kenya Civil Service Corruption
+Scandals and Accountability
 
 ## Sources
 

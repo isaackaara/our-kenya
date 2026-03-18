@@ -20,7 +20,7 @@ The transition from fan fiction to original fiction sometimes occurred as writer
 - [[Young Adult Fiction]]
 - [[Science Fiction Kenya]]
 - [[Fantasy Magical Realism]]
-- [[Literary Communities]]
+- Literary Communities
 - [[Women]]
 
 ## Sources

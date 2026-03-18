@@ -18,8 +18,8 @@ Water supply systems developed during colonialism required substantial ongoing m
 [[Colonial Urban Planning]]
 [[Colonial Irrigation Schemes]]
 [[Environmental Art]]
-[[Drought Management]]
-[[Water Rights Management]]
+Drought Management
+Water Rights Management
 
 ## Sources
 

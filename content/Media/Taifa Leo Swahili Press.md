@@ -14,7 +14,7 @@ Taifa Leo's sustained success as a commercial publication demonstrated lasting a
 [[Media Ownership Control]]
 [[Print Journalism Digital]]
 [[Vernacular Radio Expansion]]
-[[Language/Swahili Development]]
+[[Swahili Culture]]
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Taifa_Leo

@@ -313,14 +313,15 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     nodeSel.append('text')
       .text(d => d.label)
       .attr('text-anchor', 'middle')
-      .attr('dy', '0.3em')
-      .attr('font-size', d => d.type === 'center' ? '11px' : d.type === 'primary' ? '8px' : '6px')
-      .attr('font-weight', d => d.type === 'center' ? 'bold' : 'normal')
-      .attr('fill', '#fff')
+      .attr('dy', '0.35em')
+      .attr('font-size', d => d.type === 'center' ? '14px' : d.type === 'primary' ? '9px' : '7px')
+      .attr('font-weight', d => d.type === 'center' ? '700' : '600')
+      .attr('fill', '#1a1a1a')
       .attr('pointer-events', 'none')
-      .attr('stroke', '#000')
-      .attr('stroke-width', '1.2px')
-      .style('paint-order', 'stroke');
+      .attr('stroke', '#ffffff')
+      .attr('stroke-width', d => d.type === 'center' ? '3px' : '2px')
+      .style('paint-order', 'stroke')
+      .attr('class', 'kg-label');
     
     simulation.on('tick', () => {
       linkSel
@@ -337,6 +338,13 @@ const HeroGraph: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
 
   return (
     <>
+      <style dangerouslySetInnerHTML={{ __html: `
+        [saved-theme="dark"] .kg-label {
+          fill: #ffffff !important;
+          stroke: none !important;
+          stroke-width: 0 !important;
+        }
+      `}} />
       <div
         class={displayClass}
         id="ok-hero-graph-root"

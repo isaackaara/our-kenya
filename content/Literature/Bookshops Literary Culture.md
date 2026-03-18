@@ -30,8 +30,8 @@ Contemporary bookshops in Kenya navigate digital disruption while maintaining cu
 [[Publishing Industry Kenya]]
 [[Literary Culture Kenya]]
 [[University of Nairobi Literary Culture]]
-[[Nairobi Urban Culture]]
-[[Book Distribution Networks]]
+Nairobi Urban Culture
+Book Distribution Networks
 [[Digital Art]]
 [[Authors and Copyright Kenya]]
 

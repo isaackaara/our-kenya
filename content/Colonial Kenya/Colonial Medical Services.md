@@ -15,11 +15,11 @@ Public health campaigns implemented by colonial authorities sometimes involved c
 ## See Also
 
 [[Colonial Health System]]
-[[Mission Hospitals]]
-[[Maternal Mortality Colonial]]
-[[Disease Control Programs]]
+Mission Hospitals
+Maternal Mortality Colonial
+Disease Control Programs
 [[East Africa]]
-[[African Healers Traditional]]
+African Healers Traditional
 
 ## Sources
 

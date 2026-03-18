@@ -9,7 +9,7 @@ Disability-related begging reflects absence of disability support systems and em
 The relationship between begging and social welfare is contested. Some argue begging indicates welfare system failures and necessitates expanded social protection; others contend begging perpetuates dependency and discourages employment. Evidence suggests most beggars combine begging with other income sources; systematic social protection addressing poverty root causes rather than supplementary begging income would be more effective at poverty reduction. However, given limited welfare system coverage, begging provides critical survival income for vulnerable populations. Public policy oscillates between tolerance, particularly when focused on elderly and disabled; and restriction, particularly when targeting able-bodied youth and children.
 
 ## See Also
-[[Poverty Measurement]], [[Social Protection]], [[Street Children]], [[Homelessness Rates]], [[Disability and Income]], [[Cash Transfer Programs]], [[Informal Sector]], [[Urban Poverty]]
+[[Poverty Measurement]], [[Social Protection]], [[Street Children]], [[Homelessness Rates]], Disability and Income, [[Cash Transfer Programs]], [[Informal Sector]], [[Urban Poverty]]
 
 ## Sources
 1. Kenya Human Rights Commission (2012). "Street Children and Child Labor Assessment." https://www.khrc.or.ke

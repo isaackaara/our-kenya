@@ -18,7 +18,7 @@ Relations between Samburu County and the national government have been defined b
 [[Samburu Agriculture]]
 [[Samburu Education]]
 [[Daniel arap Moi Presidency]]
-[[Devolution]]
+[[Devolution Kenya]]
 [[County Governments First Term]]
 
 ## Sources

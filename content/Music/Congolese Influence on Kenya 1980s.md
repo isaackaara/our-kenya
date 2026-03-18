@@ -1,6 +1,6 @@
 Congolese rumba and soukous music achieved unprecedented influence over Kenya's musical landscape during the 1980s, creating hybrid sounds and establishing infrastructure that would outlast the genre's peak popularity. International stars like Kanda Bongo Man and Pepe Kalle toured Kenya regularly, while Kenyan-based Congolese musicians created permanent musical presence that transformed East African popular music.
 
-Tabu Ley Rochereau's April 1982 Nairobi concerts represented the apex of Congolese music's Kenyan dominance. His Maze orchestra performed to capacity crowds, demonstrating rumba's extraordinary cross-ethnic appeal. Unlike [[Music/Kenyan Benga Music|benga]] or other ethnic-specific genres, Lingala music attracted Kenyans across tribal boundaries, providing rare common cultural ground in increasingly divided nation under [[Daniel arap Moi Presidency|President Moi]].
+Tabu Ley Rochereau's April 1982 Nairobi concerts represented the apex of Congolese music's Kenyan dominance. His Maze orchestra performed to capacity crowds, demonstrating rumba's extraordinary cross-ethnic appeal. Unlike [[Kenyan Benga Music|benga]] or other ethnic-specific genres, Lingala music attracted Kenyans across tribal boundaries, providing rare common cultural ground in increasingly divided nation under [[Daniel arap Moi Presidency|President Moi]].
 
 The music's political neutrality proved strategically valuable. Following the [[Music and the 1982 Coup Kenya|August 1982 failed coup]], government authorities instructed state broadcaster to flood airwaves with Congolese music, understanding that Lingala songs provided entertaining distraction without political content that might inflame tensions. This official endorsement, however cynical its motivations, accelerated rumba's already substantial popularity.
 
@@ -30,7 +30,7 @@ By decade's end, Congolese influence had peaked but left permanent marks: hybrid
 - [[Music and the 1982 Coup Kenya]]
 - [[Piracy and the Kenyan Music Industry]]
 - [[Recording Studios Kenya 1980s-1990s]]
-- [[Music/Kenyan Benga Music]]
+- [[Kenyan Benga Music]]
 - [[Youth Music Culture 1990s Kenya]]
 - [[Daniel arap Moi Presidency]]
 

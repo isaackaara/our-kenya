@@ -1,4 +1,4 @@
-The [[Development Aid]] (AKDN) in [[Kenya]] encompasses hospitals, schools, social welfare institutions, and other community development initiatives. These institutions serve both the [[Ismaili]] [[Music]] community (followers of the [[Aga Khan]]) and the broader [[Kenya]] population. The AKDN represents the most extensive institutional development efforts by any [[Asian Kenyans|Asian]] community organization in Kenya, and reflects both the resources available to the Ismaili community and the development priorities of the Aga Khan.
+The [[Development Aid]] (AKDN) in [[Kenya]] encompasses hospitals, schools, social welfare institutions, and other community development initiatives. These institutions serve both the Ismaili [[Music]] community (followers of the [[Aga Khan]]) and the broader [[Kenya]] population. The AKDN represents the most extensive institutional development efforts by any [[Asian Kenyans|Asian]] community organization in Kenya, and reflects both the resources available to the Ismaili community and the development priorities of the Aga Khan.
 
 ## The Aga Khan and Community Organization
 

@@ -99,5 +99,5 @@ For both boys and girls historically, circumcision marked:
 - [[Kisii Age Sets]] - age cohort formation
 - [[Kisii Birth Rituals]] - complementary birth ceremonies
 - [[Female genital cutting in Kenya]] - contemporary context
-- [[Rites of passage in Africa]] - comparative framework
+- Rites of passage in Africa - comparative framework
 - [[Abagusii Cosmology]] - spiritual significance

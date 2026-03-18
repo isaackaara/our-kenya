@@ -85,7 +85,7 @@ Kenya's agriculture is likely to remain important but face ongoing pressures fro
 
 - [[Tea Industry Kenya]]
 - [[Coffee Industry Kenya]]
-- [[Land and Politics Kenya]]
+- [[Kenya Land Reform]]
 - [[SACCO Movement Kenya]]
 - [[Colonial Economy]]
 - [[Kenya Exports]]

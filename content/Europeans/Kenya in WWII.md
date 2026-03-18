@@ -2,7 +2,7 @@ Kenya was a significant location in World War II, serving as a staging ground fo
 
 ## The East Africa Campaign
 
-When [[Italy]] entered [[World War II]] (June 1940), Italian forces occupied East Africa and posed a military threat. Britain responded with military campaigns to expel Italian forces from the region.
+When Italy entered World War II (June 1940), Italian forces occupied East Africa and posed a military threat. Britain responded with military campaigns to expel Italian forces from the region.
 
 Kenya served as the base for these campaigns:
 
@@ -73,7 +73,7 @@ Kenya's role in WWII was secondary to major theaters (Europe, North Africa, Asia
 - [[Italian Prisoners of War Kenya]] - POW camps and experiences
 - [[East Africa]] - Military operations
 - [[Nanyuki]] - Major POW camp
-- [[European Settler Participation]] - Settler military service
+- European Settler Participation - Settler military service
 - [[Mombasa Port]] - Naval operations
 - [[Kenya]] - Economic impacts
 - [[European Settlement Overview]] - Settler context

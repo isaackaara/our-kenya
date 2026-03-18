@@ -3,7 +3,7 @@
 ## See Also
 
 - [[Manufacturing History Kenya]] - Industrial development
-- [[Family-Owned Conglomerates Kenya]] - Multi-sector family businesses
+- [[Kikuyu Business Elite]] - Multi-sector family businesses
 - [[Tea Industry Kenya]] - Steel manufacturing and distribution
 - [[Post-Independence Economic Policy]] - Business opportunities
 - [[Kenya Economic Overview]] - Corporate business environment

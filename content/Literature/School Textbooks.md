@@ -25,11 +25,11 @@ Contemporary school textbooks increasingly represent diversity of Kenyan literat
 ## See Also
 [[Literature]]
 [[Publishing Industry Kenya]]
-[[Colonial Education Kenya]]
+[[Colonial Administration]]
 [[Development Aid]]
-[[Literary Canon Formation]]
-[[Language and Education Kenya]]
-[[National Curriculum Kenya]]
+Literary Canon Formation
+Language and Education Kenya
+National Curriculum Kenya
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Kenya_Literature_Bureau - Role in educational publishing

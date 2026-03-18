@@ -16,7 +16,7 @@ Post-2007 election violence intensified questions regarding religion's relations
 [[Religious Freedom Struggle]]
 [[Interfaith Councils Conflict]]
 [[Religious Communities Ethnic Relations]]
-[[Presidencies/Independence Era]]
+Independence Era
 
 ## Sources
 

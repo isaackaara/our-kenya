@@ -23,7 +23,7 @@ His legacy is inseparable from the centralization of power and wealth that chara
 - [[Harambee Development Model]]
 - [[GEMA - Gikuyu Embu Meru Association]]
 - [[Provincial Administration Kenyatta Era]]
-- [[Kikuyu/Kikuyu Political Elite]]
+- [[Kikuyu Political Elite]]
 - [[Kenyatta Era Corruption]]
 
 ## Sources

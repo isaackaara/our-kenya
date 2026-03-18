@@ -34,7 +34,7 @@ Initial contact between [[Samburu]] and European explorers and traders occurred 
 - [[Samburu Land History]]
 - [[Samburu and the Colonial Period]]
 - [[Samburu Pastoralism]]
-- [[Nilotic Peoples]]
+- Nilotic Peoples
 
 ## Sources
 

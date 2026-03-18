@@ -15,7 +15,7 @@ Gender participation in vocational training remained constrained by occupational
 - [[Professional Development]]
 - [[Labor Education]]
 - [[Youth Unemployment]]
-- [[Gender Discrimination Workplace]]
+- Gender Discrimination Workplace
 
 ## Sources
 1. https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/publication/wcms_646810.pdf

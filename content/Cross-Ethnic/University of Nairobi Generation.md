@@ -1,4 +1,4 @@
-The [[Nairobi]], [[Kenya]]'s oldest and most prestigious university, has served as a [[cross-ethnic meeting ground]] for generations of Kenyan students. Students attending the university come from across Kenya, representing all major ethnic groups and numerous smaller ones. The university experience shapes identity formation in ways that frequently transcend [[ethnic identification]].
+The [[Nairobi]], [[Kenya]]'s oldest and most prestigious university, has served as a cross-ethnic meeting ground for generations of Kenyan students. Students attending the university come from across Kenya, representing all major ethnic groups and numerous smaller ones. The university experience shapes identity formation in ways that frequently transcend ethnic identification.
 
 The University of Nairobi's residential system places students in halls of residence where they live alongside peers from diverse ethnic backgrounds. Haile Selassie Hall, University Hall, Taifa Hall, and other halls serve as communities where students develop close friendships, romantic relationships, and shared experiences. These relationships persist throughout students' careers and lives, creating lifelong networks that operate across ethnic lines.
 
@@ -8,14 +8,14 @@ University student political movements have frequently organized across ethnic l
 
 The University of Nairobi also serves as a site of intellectual encounter with ideas that challenge ethnic particularism. Academic study in disciplines like history, literature, sociology, and philosophy exposes students to perspectives critical of ethnic nationalism. Students encounter scholarship analyzing ethnicity as constructed rather than primordial, studying the history of the nation rather than ethnic groups in isolation.
 
-However, the University of Nairobi has not been immune to ethnic politics. Student political competitions have sometimes been organized along ethnic lines. The Kenyan student movement, while frequently cross-ethnic, has sometimes manifested ethnic dimensions. Nevertheless, the overall trajectory of the university experience tends toward the transcendence of [[ethnic identity]] in favor of class, professional, or national identity formation.
+However, the University of Nairobi has not been immune to ethnic politics. Student political competitions have sometimes been organized along ethnic lines. The Kenyan student movement, while frequently cross-ethnic, has sometimes manifested ethnic dimensions. Nevertheless, the overall trajectory of the university experience tends toward the transcendence of [[ethnic-identity]] in favor of class, professional, or national identity formation.
 
 ## See Also
 
 - [[Elite Schools and Class Formation]]
 - [[The Nairobi Generation]]
-- [[Student Activism Kenya]]
-- [[Intellectual Communities Kenya]]
+- Student Activism Kenya
+- Intellectual Communities Kenya
 - [[The Second Liberation]]
 
 ## Sources

@@ -8,12 +8,12 @@ The identification and critical discussion of art movements requires scholarly i
 
 ## See Also
 - [[Modernism Kenyan Art]]
-- [[Abstract Art Kenya]]
-- [[Contemporary Art Movements]]
-- [[Artistic Identity and Influence]]
-- [[Post-Independence Art]]
-- [[Art History Kenya]]
-- [[Aesthetic Philosophy Art]]
+- [[Abstract Art]]
+- Contemporary Art Movements
+- Artistic Identity and Influence
+- Post-Independence Art
+- Art History Kenya
+- Aesthetic Philosophy Art
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Kenyan_art - Kenyan Art History

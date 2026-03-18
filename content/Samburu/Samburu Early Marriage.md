@@ -42,7 +42,7 @@ Some [[Samburu]] communities and families resist early marriage practices. Educa
 - [[Samburu Girls Education]]
 - [[Samburu Marriage]]
 - [[Samburu Health]]
-- [[Women's Rights in Pastoralist Communities]]
+- Women's Rights in Pastoralist Communities
 
 ## Sources
 

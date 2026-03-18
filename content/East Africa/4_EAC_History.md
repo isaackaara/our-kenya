@@ -28,7 +28,7 @@ The first EAC dissolved in 1977 due to a combination of political, ideological, 
 
 **Accumulated Debts**: The East African Development Bank accumulated debts that members refused to service. Disputes over burden-sharing paralyzed operations.
 
-**Border Conflicts**: The [[Uganda Tanzania War]] (1978-1979) made regional cooperation impossible. Kenya, under Daniel arap Moi, tilted toward Western powers while Tanzania remained non-aligned.
+**Border Conflicts**: The Uganda Tanzania War (1978-1979) made regional cooperation impossible. Kenya, under Daniel arap Moi, tilted toward Western powers while Tanzania remained non-aligned.
 
 **Military Tensions**: Amin's Uganda threatened Kenya, and the breakdown of order made any unified framework untenable.
 

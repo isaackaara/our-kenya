@@ -10,7 +10,7 @@ Child protection represented another significant concern. Unaccompanied minors f
 
 [[Child Protection Services]]
 [[Gender-Based Violence Response]]
-[[Vulnerable Populations]]
+Vulnerable Populations
 [[Refugee Mental Health]]
 [[UNHCR Operations Kenya]]
 [[Human Rights Refugee Camps]]

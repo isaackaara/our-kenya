@@ -2,7 +2,7 @@ Kenyanization was the policy of replacing European and Asian civil servants, man
 
 The policy was formalized in the 1964-1970 Development Plan, which set targets for replacing non-citizens in the civil service, private sector management, and professional occupations. The goals were ambitious: by 1970, at least 50 percent of senior civil service positions and 75 percent of middle management roles should be held by Kenyan citizens. Private companies with government contracts or operating licenses were pressured to demonstrate progress in Kenyanizing their workforce or face regulatory penalties.
 
-In the civil service, Kenyanization proceeded relatively smoothly in the first years after independence. Many British expatriates had left voluntarily during the transition, and Kenya had a reasonable pool of educated Africans, particularly from [[Kikuyu/Kikuyu Political Elite|Kiambu and other parts of Central Province]], where mission schools had produced generations of literate elites. By 1967, most permanent secretary positions were held by Kenyans, and district and provincial administrative roles were rapidly transitioning.
+In the civil service, Kenyanization proceeded relatively smoothly in the first years after independence. Many British expatriates had left voluntarily during the transition, and Kenya had a reasonable pool of educated Africans, particularly from [[Kikuyu Political Elite|Kiambu and other parts of Central Province]], where mission schools had produced generations of literate elites. By 1967, most permanent secretary positions were held by Kenyans, and district and provincial administrative roles were rapidly transitioning.
 
 But the speed of transition came with costs. Institutional memory was lost as experienced British administrators departed. Training programs to prepare Kenyans for senior roles were underfunded and rushed. More problematically, appointments increasingly favored ethnic loyalty over merit. [[Jomo Kenyatta Cabinet Formation 1963|Kenyatta's inner circle]], particularly [[Mbiyu Koinange]], controlled key civil service appointments, and being Kikuyu or from allied communities became a significant advantage.
 
@@ -14,7 +14,7 @@ The result was the [[Asian Community Under Kenyatta|exodus of thousands of Asian
 
 [[James Gichuru]], as Minister for Finance, attempted to manage Kenyanization to minimize economic disruption. He argued for gradual transition, retention of technical expertise regardless of ethnicity, and investment in training programs to build genuine capacity. But political pressure, particularly from [[GEMA - Gikuyu Embu Meru Association|GEMA]] and other ethnic lobbies demanding immediate economic benefits from independence, often overrode technocratic caution.
 
-Kenyanization also had a strong ethnic dimension within the African population. While the policy was framed as "African" advancement, in practice it meant advancing those Africans with access to political power. Kikuyu, Embu, and Meru communities, who dominated Kenyatta's administration, received a disproportionate share of government jobs, business licenses, and land allocations. [[Luo/Luo Political Leadership|Luo]], despite producing many educated elites, faced increasing marginalization, particularly after the [[Banning of KPU 1969|banning of the KPU in 1969]].
+Kenyanization also had a strong ethnic dimension within the African population. While the policy was framed as "African" advancement, in practice it meant advancing those Africans with access to political power. Kikuyu, Embu, and Meru communities, who dominated Kenyatta's administration, received a disproportionate share of government jobs, business licenses, and land allocations. [[Luo Political Leadership|Luo]], despite producing many educated elites, faced increasing marginalization, particularly after the [[Banning of KPU 1969|banning of the KPU in 1969]].
 
 By the mid-1970s, Kenyanization had largely succeeded in numerical terms. The vast majority of civil servants were Kenyan citizens, private sector management was increasingly African, and Asian dominance of retail trade had been broken. But the qualitative outcomes were mixed. Some sectors improved as capable Kenyans brought fresh perspectives and local knowledge. Others declined as political appointments replaced merit-based hiring and as institutional capacity eroded.
 
@@ -30,7 +30,7 @@ Kenyanization established a pattern that would persist in Kenyan public administ
 - [[James Gichuru]]
 - [[Political Patronage Kenyatta Era]]
 - [[GEMA - Gikuyu Embu Meru Association]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 
 ## Sources
 1. Maxon, Robert M., and Thomas P. Ofcansky. *Historical Dictionary of Kenya*. Scarecrow Press, 2014. https://rowman.com/ISBN/9780810874572/Historical-Dictionary-of-Kenya-Third-Edition

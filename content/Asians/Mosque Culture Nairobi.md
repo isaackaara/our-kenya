@@ -1,8 +1,8 @@
-Mosques serving [[Muslim Indian Community Kenya|Muslim communities]] ([[Ismaili Muslims|Ismailis]], Sunnis, Bohras, Khojas) operate in Nairobi and other towns. Mosques serve prayer, education, community gathering, and charity. The [[Jamia Mosque]] is the most historic, built by [[A.M. Jeevanjee]] in 1925.
+Mosques serving [[Muslim Indian Community Kenya|Muslim communities]] ([[Ismaili Muslims|Ismailis]], Sunnis, Bohras, Khojas) operate in Nairobi and other towns. Mosques serve prayer, education, community gathering, and charity. The Jamia Mosque is the most historic, built by [[A.M. Jeevanjee]] in 1925.
 
 ## The Jamia Mosque
 
-The [[Jamia Mosque]] in [[Nairobi]]'s CBD was built by [[A.M. Jeevanjee]] in 1925 and is an iconic Nairobi landmark. It serves as a central mosque for Kenya's Muslim community. The mosque hosts daily prayers, Quranic study circles, and major Islamic celebrations (Eid al-Fitr, Eid al-Adha). Its architecture reflects Islamic design principles adapted to East African context.
+The Jamia Mosque in [[Nairobi]]'s CBD was built by [[A.M. Jeevanjee]] in 1925 and is an iconic Nairobi landmark. It serves as a central mosque for Kenya's Muslim community. The mosque hosts daily prayers, Quranic study circles, and major Islamic celebrations (Eid al-Fitr, Eid al-Adha). Its architecture reflects Islamic design principles adapted to East African context.
 
 ## Multiple Mosque Communities
 
@@ -33,7 +33,7 @@ Contemporary mosques face various challenges: declining youth participation, ten
 - [[Muslim Indian Community Kenya]]
 - [[Sikh Gurdwaras Kenya]]
 - [[Aga Khan Institutions]]
-- [[Islamic Faith Kenya|Islam in Kenya]]
+- Islam in Kenya
 - [[Nairobi Business District]]
 - [[Asian Cultural Festivals Kenya]]
 

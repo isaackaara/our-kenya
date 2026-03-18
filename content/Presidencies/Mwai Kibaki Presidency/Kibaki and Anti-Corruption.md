@@ -25,10 +25,10 @@ By the end of Kibaki's presidency, corruption remained endemic in Kenyan governa
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Corruption|Kenya Corruption]]
+- [[Corruption|Kenya Corruption]]
 - [[Women in County Governance Kenya|Kenya Governance]]
 - [[Anglo Leasing Scandal|Anglo-Leasing Scandal]]
-- [[Kenya Rule of Law|Kenya Rule of Law]]
+- [[Kenya Constitution 2010|Kenya Rule of Law]]
 
 ## Sources
 

@@ -23,10 +23,10 @@ By the end of Kibaki's presidency, free primary education had become institution
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Education System|Kenya Education System]]
-- [[Kenya Primary Education|Kenya Primary Education]]
-- [[Gender and Education in Kenya|Gender and Education in Kenya]]
-- [[Kenya Education Quality|Kenya Education Quality]]
+- [[Education|Kenya Education System]]
+- Kenya Primary Education
+- Gender and Education in Kenya
+- Kenya Education Quality
 
 ## Sources
 

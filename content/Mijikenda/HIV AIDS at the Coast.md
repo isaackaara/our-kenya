@@ -4,7 +4,7 @@
 
 HIV prevalence in coastal Kenya is estimated at significantly above the national average. Some estimates place Kilifi County HIV prevalence around 6-7 percent, compared to a national average of approximately 4-5 percent. Kwale County shows similar or higher rates. These figures represent substantial infection burdens and reflect ongoing transmission.
 
-The reasons for higher coastal HIV prevalence are multifactorial. However, researchers and public [[health]] officials consistently identify tourism-related sex work as a significant factor in coastal HIV transmission.
+The reasons for higher coastal HIV prevalence are multifactorial. However, researchers and public [[Health]] officials consistently identify tourism-related sex work as a significant factor in coastal HIV transmission.
 
 ## Tourism and Sex Work
 
@@ -27,7 +27,7 @@ However, HIV has not penetrated Mjikenda consciousness as deeply as it has in so
 ## See Also
 
 - [[Health Food Security Challenges]] - Health crisis
-- [[Gender Roles and Women Leadership]] - Gender and [[disease]]
+- [[Gender Roles and Women Leadership]] - Gender and disease
 - [[Coastal Intellectuals and Writers]] - Health discourse
 - [[Giriama Womens Status]] - Women's health vulnerability
 - [[Coast Marginalization]] - Resource access disparities

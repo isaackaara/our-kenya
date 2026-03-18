@@ -1,4 +1,4 @@
-The [[Kenya Constitution (2010)|2010 Kenyan constitution]] established [[Devolved government in Kenya|devolved governance]], creating 47 counties with their own elected governments and substantial budgetary authority. [[Kisii County]] (and later [[Nyamira County]], split off in 2013) gained control over [[Kisii Education Culture|education]], health, water, agriculture, and local infrastructure spending. This shift represented a significant transfer of fiscal responsibility from the central government to the county level.
+The [[Kenya Constitution 2010|2010 Kenyan constitution]] established [[Devolution Kenya|devolved governance]], creating 47 counties with their own elected governments and substantial budgetary authority. [[Kisii County]] (and later [[Nyamira County]], split off in 2013) gained control over [[Kisii Education Culture|education]], health, water, agriculture, and local infrastructure spending. This shift represented a significant transfer of fiscal responsibility from the central government to the county level.
 
 ## County Budget Overview
 
@@ -103,11 +103,11 @@ By the 2020s, the Kenyan government began reconsidering the devolution architect
 ## See Also
 
 - [[Kisii County]] - administrative context
-- [[Devolved government in Kenya]] - governance structure
+- [[Devolution Kenya]] - governance structure
 - [[Nyamira County]] - sister county split
-- [[Kenya County governments]] - comparative budgets
+- Kenya County governments - comparative budgets
 - [[Public Art]] - national fiscal system
-- [[County governance challenges in Kenya]] - implementation issues
+- County governance challenges in Kenya - implementation issues
 
 ## Sources
 

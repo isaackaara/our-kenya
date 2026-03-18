@@ -7,11 +7,11 @@ Contemporary glass artists employ varied techniques including hot glass work, ki
 Contemporary Kenyan glass artists create sophisticated work achieving recognition within fine art contexts. Glass exhibitions feature contemporary glass art alongside other media. International glass art movements influence Kenyan practitioners while artists develop distinctive approaches. The enduring human fascination with glass as material attracts artists seeking its particular aesthetic and technical possibilities. Contemporary glass art contributes to Kenya's artistic diversity. Glass art represents innovative contemporary practice within Kenya's visual landscape.
 
 ## See Also
-- [[Glassblowing Techniques]]
+- Glassblowing Techniques
 - [[Glass Art]]
-- [[Kiln-Forming Glass]]
+- Kiln-Forming Glass
 - [[Glass Art]]
-- [[Light and Transparency Art]]
+- Light and Transparency Art
 - [[Glass Art]]
 - [[Glass Art]]
 

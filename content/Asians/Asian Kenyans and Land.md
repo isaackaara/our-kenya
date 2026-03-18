@@ -42,7 +42,7 @@ Today's land market includes Asians as buyers and sellers alongside Africans, Eu
 - [[Asian Kenyans Under Colonial Rule]]
 - [[Asian Property Losses Kenya]]
 - [[White Highlands]]
-- [[Land distribution Kenya]]
+- [[Land Distribution Kenya]]
 
 ## Sources
 

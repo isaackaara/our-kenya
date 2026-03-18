@@ -4,7 +4,7 @@ title: Meru County Geography and Administration
 
 # Meru County: Geography, Towns, and Population
 
-[[Meru County]] is one of Kenya's 47 counties, encompassing the traditional [[Meru people|Meru]] homeland on the northeastern slopes of [[Mount Kenya]] and extending into lower pastoral regions.
+[[Meru County]] is one of Kenya's 47 counties, encompassing the traditional [[Meru People|Meru]] homeland on the northeastern slopes of [[Mount Kenya]] and extending into lower pastoral regions.
 
 ## County Boundaries and Geography
 
@@ -85,12 +85,12 @@ Meru County operates under Kenya's devolved government system established in 201
 
 ## See Also
 
-- [[Meru people]]
+- [[Meru People]]
 - [[Mount Kenya]]
 - [[Meru County Agriculture]]
 - [[Njuri Ncheke]]
 - [[Tharaka-Nithi County]]
-- [[Kenya Counties]]
+- Kenya Counties
 
 ---
 

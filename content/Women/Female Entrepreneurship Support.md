@@ -11,7 +11,7 @@ By 2020, women-led enterprises represented approximately 30 percent of registere
 ## See Also
 [[Women Cooperatives Economic]]
 [[Women Informal Economy]]
-[[Female Inherited Disputes]]
+Female Inherited Disputes
 [[Women Credit Finance Access]]
 [[Gender Education Equality]]
 [[Women Trade Unions Labor]]

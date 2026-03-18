@@ -15,12 +15,12 @@ Moi's effort to maintain influence after stepping down took several forms. He re
 The succession to Uhuru, though unsuccessful in keeping KANU in power, had demonstrated Moi's capacity to shape events even as he prepared to relinquish formal authority. He had been instrumental in the selection of KANU's candidate, had campaigned on his behalf, and had attempted to influence the broader political environment. The failure of this effort revealed the limits of Moi's power and the extent to which his personal authority had depended on control of state resources and security forces rather than on genuine popular support.
 
 ## See Also
-[[Elections/2002 General Election]]
+2002 General Election
 [[Moi Post-Presidency]]
-[[Uhuru Kenyatta/Rise to Power]]
-[[KANU/Decline]]
-[[Kibaki/Presidency]]
-[[Kenya/Transition to Multiparty]]
+Rise to Power
+Decline
+Presidency
+Transition to Multiparty
 
 ## Sources
 1. https://www.britannica.com/biography/Mwai-Kibaki (accessed 2024)

@@ -13,9 +13,9 @@ Despite these problems, the CDF represented an attempt to involve elected repres
 [[Development Aid]]
 [[Gem Constituency]]
 [[Public Art]]
-[[Corruption in Development Projects]]
-[[Local Government Kenya]]
-[[Parliamentary Representation and Development]]
+Corruption in Development Projects
+Local Government Kenya
+Parliamentary Representation and Development
 
 ## Sources
 

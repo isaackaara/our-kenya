@@ -14,7 +14,7 @@ Picket line dynamics within multi-union workplaces created coordination challeng
 - [[Worker Solidarity]]
 - [[Protest Movements]]
 - [[Cross-Union Cooperation]]
-- [[Police Violence Labour]]
+- Police Violence Labour
 - [[Labor Rights Awareness]]
 
 ## Sources

@@ -13,9 +13,9 @@ The cabinet system under Kibaki continued to centralize power in the presidency,
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Cabinet System|Kenya Cabinet System]]
-- [[Kenya Post-2007 Government Structure|Kenya Post-2007 Government Structure]]
-- [[Raila Odinga Prime Minister|Raila Odinga Prime Minister]]
+- [[Government|Kenya Cabinet System]]
+- Kenya Post-2007 Government Structure
+- Raila Odinga Prime Minister
 
 ## Sources
 

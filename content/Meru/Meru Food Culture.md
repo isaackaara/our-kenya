@@ -4,7 +4,7 @@ title: Meru Food Culture and Traditional Foods
 
 # Meru Food Culture: Staples, Ceremonies, and Dietary Traditions
 
-Food in [[Meru people|Meru]] culture is central to both daily life and ceremonial occasions. Traditional foods reflect the agricultural and pastoral base of Meru society.
+Food in [[Meru People|Meru]] culture is central to both daily life and ceremonial occasions. Traditional foods reflect the agricultural and pastoral base of Meru society.
 
 ## Staple Foods
 
@@ -53,9 +53,9 @@ The combination of traditional foods with market goods characterizes contemporar
 
 - [[Meru Food Culture]]
 - [[Meru Farming Practices]]
-- [[Meru Agricultural]]
-- [[Meru Social Practices]]
-- [[Kenya Food Culture]]
+- Meru Agricultural
+- Meru Social Practices
+- Kenya Food Culture
 - [[Food]]
 
 ---

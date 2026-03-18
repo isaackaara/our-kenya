@@ -10,12 +10,12 @@ Kibaki's foreign policy also included engagement with emerging powers, particula
 
 ## See Also
 
-[[Kenya Foreign Policy]]
-[[East African Integration]]
-[[Regional Diplomacy Kenya]]
+Kenya Foreign Policy
+East African Integration
+Regional Diplomacy Kenya
 [[Kamba in International Relations Kenya Trade]]
-[[Kenya and United Nations]]
-[[Kibaki Presidency International Relations]]
+Kenya and United Nations
+Kibaki Presidency International Relations
 
 ## Sources
 

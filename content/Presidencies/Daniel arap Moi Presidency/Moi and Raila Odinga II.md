@@ -14,11 +14,11 @@ Raila's experience under Moi shaped his subsequent political trajectory and his 
 
 ## See Also
 [[Moi and Raila Odinga]]
-[[Luo/Political History]]
+Political History
 [[Moi Detention Policy]]
 [[Nyayo House Torture Chambers]]
-[[Kenya/Multiparty Transition]]
-[[Kenya/Contemporary Politics]]
+[[Multiparty Transition]]
+Contemporary Politics
 
 ## Sources
 1. https://www.jstor.org/stable/3172813 (accessed 2024)

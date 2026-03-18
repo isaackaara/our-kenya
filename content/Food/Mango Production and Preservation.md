@@ -18,8 +18,8 @@ Climate and seasonal factors created production variability and processing oppor
 [[Horticultural Sector]]
 [[Food Processing Industry]]
 [[Food Trade Exports]]
-[[Labour/Rural Employment and Processing]]
-[[Poverty/Smallholder Cash Crop Integration]]
+Rural Employment and Processing
+Smallholder Cash Crop Integration
 
 ## Sources
 

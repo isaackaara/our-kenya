@@ -12,7 +12,7 @@ By 2024, refugee youth integration remained incomplete but increasingly prioriti
 
 ## See Also
 
-[[University Access Refugees]], [[Education Refugee Camps]], [[Refugee Mental Health]], [[Refugee Community Organization]], [[Refugee Leadership]], [[Crime Prevention]], [[Security Concerns]], [[Trauma Psychological Support]]
+[[University Access Refugees]], [[Education Refugee Camps]], [[Refugee Mental Health]], [[Refugee Community Organization]], [[Refugee Leadership]], Crime Prevention, [[Security Concerns]], [[Trauma Psychological Support]]
 
 ## Sources
 

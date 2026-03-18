@@ -22,7 +22,7 @@ The persistence of grain trade networks throughout the colonial period and beyon
 
 [[Food]]
 [[Food]]
-[[Agricultural Trade]]
+Agricultural Trade
 [[Merchant Networks]]
 [[Trade Routes Networks]]
 

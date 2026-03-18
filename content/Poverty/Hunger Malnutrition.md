@@ -9,7 +9,7 @@ Specific micronutrient deficiencies create distinct health impacts. Vitamin A de
 Interventions addressing malnutrition include nutrition-specific and nutrition-sensitive approaches. Supplementary feeding programs provide meals to malnourished children. Micronutrient fortification and supplementation programs provide specific nutrients. Healthcare services treat severe malnutrition and associated infections. Public education promotes optimal feeding and childcare practices. Nutrition-sensitive interventions address underlying causes: cash transfer programs enable food purchase; agricultural productivity programs increase food availability; healthcare strengthening reduces disease burden. These interventions together show effectiveness in reducing malnutrition; however, coverage remains limited. Fundamental malnutrition reduction would require poverty elimination enabling food purchase and access to healthcare.
 
 ## See Also
-[[Food Insecurity]], [[Child Health Pediatric Care]], [[Poverty Measurement]], [[Health Services]], [[Social Protection]], [[Development Aid]], [[Vitamin A Deficiency]], [[Healthcare Access]]
+[[Food Insecurity]], [[Child Health Pediatric Care]], [[Poverty Measurement]], [[Health Services]], [[Social Protection]], [[Development Aid]], [[Vitamin A Deficiency]], Healthcare Access
 
 ## Sources
 1. World Health Organization (2019). "Global Nutrition Report: Kenya Country Profile." https://www.who.int

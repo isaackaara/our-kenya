@@ -20,11 +20,11 @@ By the 1950s, African scientists and scholars increasingly questioned the coloni
 
 ## See Also
 [[Colonial Knowledge Production]]
-[[Colonial Anthropology]]
+Colonial Anthropology
 [[Colonial Medicine Healthcare]]
 [[Kikuyu Agriculture Pre-Colonial]]
-[[Scientific Colonialism]]
-[[Indigenous Knowledge Systems]]
+Scientific Colonialism
+Indigenous Knowledge Systems
 
 ## Sources
 1. Adas, Michael. "Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance." Cornell University Press, 1989. https://www.cornellpress.cornell.edu/

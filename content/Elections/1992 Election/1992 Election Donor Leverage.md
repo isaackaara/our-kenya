@@ -13,10 +13,10 @@ The donor-imposed election thus created the appearance of democratic opening wit
 ## See Also
 
 - [[1992 Election]]
-- [[Donor Conditionality]]
-- [[International Pressure for Reform]]
-- [[Aid and Politics]]
-- [[Economic Leverage]]
+- Donor Conditionality
+- International Pressure for Reform
+- Aid and Politics
+- Economic Leverage
 - [[Structural Adjustment Kenya]]
 - [[World Bank IMF Kenya Corruption]]
 

@@ -7,12 +7,12 @@ Kenyan installation artists have created work ranging from formal spatial invest
 Documentation and preservation of installation art pose significant challenges since temporary installations often dissolve after exhibition. Photography and video documentation become crucial for extending reach and creating archival records. Some installations are recreated multiple times with modifications responding to specific sites and circumstances. The temporal nature of installation may be inherent to artistic intention or practical necessity. Contemporary Kenyan installation artists create sophisticated work engaging gallery audiences and increasingly public audiences in urban and rural spaces. Installation practice continues expanding Kenya's artistic possibilities.
 
 ## See Also
-- [[Site-Specific Art Practice]]
-- [[Spatial Experience and Art]]
-- [[Contemporary Art Formats]]
-- [[Immersive Art Experience]]
+- Site-Specific Art Practice
+- Spatial Experience and Art
+- Contemporary Art Formats
+- Immersive Art Experience
 - [[Director of Public Prosecutions Kenya]]
-- [[Installation Documentation]]
+- Installation Documentation
 - [[Environmental Art]]
 
 ## Sources

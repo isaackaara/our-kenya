@@ -13,19 +13,19 @@ Kenya's role as a refugee host nation and the experiences of displaced communiti
 ## Key Topics
 
 ### Refugee Camps
-- [[Refugees/Dadaab Camp|Dadaab]]
-- [[Refugees/Kakuma Camp|Kakuma]]
-- [[Refugees/Refugee Camps Kenya|Refugee Camp History]]
+- Dadaab
+- Kakuma
+- Refugee Camp History
 
 ### Refugee Communities
-- [[Refugees/Somali Refugees|Somali Refugees]]
-- [[Refugees/South Sudan Refugees|South Sudanese Refugees]]
-- [[Refugees/Ethiopian Refugees|Ethiopian Refugees]]
-- [[Refugees/Congolese Refugees|Congolese Refugees]]
+- Somali Refugees
+- South Sudanese Refugees
+- Ethiopian Refugees
+- Congolese Refugees
 
 ### Refugee Policy
-- [[Refugees/Refugee Law Kenya|Refugee Law]]
-- [[Refugees/UNHCR Kenya|UNHCR Operations]]
+- Refugee Law
+- UNHCR Operations
 - [[Refugee Integration|Integration Policies]]
 
 ---

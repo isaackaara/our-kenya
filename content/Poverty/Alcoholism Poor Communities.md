@@ -9,7 +9,7 @@ The social consequences of alcoholism in poor communities extend beyond individu
 Treatment for alcoholism in poor communities is severely limited. Hospital detoxification is available but expensive and inaccessible to most poor. Community-based treatment including peer support and traditional healing has some effectiveness but is unintegrated with health systems. Alcoholics Anonymous and similar peer support groups exist but membership is limited. Counseling and psychological support is limited. Prevention through alcohol taxation, regulation of informal alcohol production, and education has limited effectiveness without broader social change. Fundamental reduction would require poverty reduction, mental health service access, and employment opportunity, not alcohol intervention alone.
 
 ## See Also
-[[Substance Abuse]], [[Addiction Poverty]], [[Mental Health Poverty]], [[Domestic Violence]], [[Child Abuse]], [[Crime and Substance]], [[Health Services]], [[Social Protection]]
+[[Substance Abuse]], [[Addiction Poverty]], [[Mental Health Poverty]], Domestic Violence, Child Abuse, Crime and Substance, [[Health Services]], [[Social Protection]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Alcohol Use and Abuse Survey." https://www.knbs.or.ke

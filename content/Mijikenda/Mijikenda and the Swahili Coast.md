@@ -2,7 +2,7 @@ The relationship between [[Mijikenda]] hinterland communities and the [[Swahili 
 
 ## The Swahili Coastal Towns
 
-The [[Swahili Coast]] is characterized by cosmopolitan trading towns ([[Mombasa]], Kilifi, Lamu, and others) with long histories of engagement in [[Indian Ocean World|Indian Ocean]] trade. These towns developed as centers of commerce, with merchants from diverse origins (Arabs, Persians, Indians, Africans, later Europeans). Swahili towns were wealthy, culturally sophisticated centers known for architecture, literature, and commerce. However, the towns' wealth depended partly on trade relationships with interior peoples including the [[Mijikenda]].
+The [[Swahili Coast]] is characterized by cosmopolitan trading towns ([[Mombasa]], Kilifi, Lamu, and others) with long histories of engagement in [[The Indian Ocean World|Indian Ocean]] trade. These towns developed as centers of commerce, with merchants from diverse origins (Arabs, Persians, Indians, Africans, later Europeans). Swahili towns were wealthy, culturally sophisticated centers known for architecture, literature, and commerce. However, the towns' wealth depended partly on trade relationships with interior peoples including the [[Mijikenda]].
 
 ## Economic Exchange and Complementarity
 

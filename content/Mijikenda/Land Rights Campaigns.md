@@ -39,7 +39,7 @@ Despite these challenges, land rights campaigns remain central to Mjikenda polit
 - [[Mekatilili wa Menza]] - Historical land rights activist
 - [[Giriama Uprising Historical Context]] - Political resistance to land expropriation
 - [[Kaya Forests UNESCO Heritage]] - Community claims to sacred ancestral lands
-- [[Kenya National Land Commission]] - Government institution addressing historical injustices
+- Kenya National Land Commission - Government institution addressing historical injustices
 - [[Coastal Land Problems Kenya]] - Contemporary land rights challenges
 
 ## Sources

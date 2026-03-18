@@ -14,7 +14,7 @@ The economic context of 1969 thus provided the government with justification for
 
 - [[1969 Election]]
 - [[Kenya]]
-- [[Africanization Policies]]
+- Africanization Policies
 - [[Art Investment]]
 - [[The NGO Economy]]
 - [[Income Inequality]]

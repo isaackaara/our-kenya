@@ -23,11 +23,11 @@ Private sector participation in infrastructure development has been limited, wit
 ## See Also
 - [[Taita-Taveta County]]
 - [[Northern Kenya Roads]]
-- [[Water Supply Kenya]]
+- Water Supply Kenya
 - [[Geothermal Energy Kenya]]
-- [[Telecommunications Kenya]]
+- [[Digital Economy Kenya]]
 - [[Public Toilet Infrastructure]]
-- [[Development Planning]]
+- Development Planning
 
 ## Sources
 1. Taita-Taveta County Government. "County Infrastructure Master Plan." (2022). https://www.taitataveta.go.ke

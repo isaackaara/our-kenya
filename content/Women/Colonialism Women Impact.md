@@ -1,6 +1,6 @@
 British colonial rule profoundly transformed women's economic position, social authority, and family structures across Kenya from 1895 onward. Colonial policies disrupted precolonial gender systems where women maintained significant economic and social roles, replacing them with male-biased colonial administration and capitalist structures that systematically subordinated women's authority and control over productive resources. The gendered impacts of colonialism created foundations for post-independence gender inequality.
 
-Precolonial gender systems varied across Kenya's diverse communities but generally distributed economic and social authority between men and women. [[Kikuyu/Kikuyu People and Culture|Kikuyu]] women controlled significant agricultural production and household wealth; [[Luo/Luo People and Culture|Luo]] women managed household agriculture and trade; [[Maasai/Maasai People and Culture|Maasai]] and pastoral women maintained herds and controlled pastoral product processing. While male authority dominated political decision-making, women exercised economic control and could accumulate wealth independently. Women maintained inheritance rights and could control property.
+Precolonial gender systems varied across Kenya's diverse communities but generally distributed economic and social authority between men and women. [[Kikuyu People and Culture|Kikuyu]] women controlled significant agricultural production and household wealth; [[Luo People and Culture|Luo]] women managed household agriculture and trade; [[Maasai People and Culture|Maasai]] and pastoral women maintained herds and controlled pastoral product processing. While male authority dominated political decision-making, women exercised economic control and could accumulate wealth independently. Women maintained inheritance rights and could control property.
 
 Colonial land policy fundamentally restructured property relations. The Crown Lands Ordinance (1902) declared all land crown property, enabling colonial appropriation for settler colonies, plantations, and urban development. Colonial land titling concentrated title in individual (male) household heads, displacing communal and female-centered land tenure systems. Women lost independent land claims; land passed through male lineage lines with women receiving use rights only as wives or widows. This transformation eliminated women's property accumulation mechanisms and made women economically dependent on male household authority.
 
@@ -20,12 +20,12 @@ The psychological and cultural impacts of colonialism included internalization o
 
 ## See Also
 
-[[Kikuyu/Kikuyu People and Culture|Kikuyu Under Colonialism]]
-[[Luo/Luo People and Culture|Luo Under Colonialism]]
-[[Mau Mau Rebellion]]
+[[Kikuyu People and Culture|Kikuyu Under Colonialism]]
+[[Luo People and Culture|Luo Under Colonialism]]
+[[Mau Mau Uprising]]
 [[Women Land Rights]]
 [[Women Independence Struggle]]
-[[Education/Colonial Education]]
+Colonial Education
 
 ## Sources
 

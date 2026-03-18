@@ -12,7 +12,7 @@ The Roman Catholic Mill Hill Fathers arrived in Kisii later, around 1920-1930, e
 
 ## The Seventh-day Adventist Dominance
 
-The [[Seventh-day Adventist Church]] became the single most dominant denomination in Kisii. Adventist missionaries arrived in the 1920s and rapidly expanded through a combination of effective health-care provision (Adventist hospitals), education, and theological messaging that resonated with [[Gusii]] culture.
+The [[Seventh-day Adventist Church]] became the single most dominant denomination in Kisii. Adventist missionaries arrived in the 1920s and rapidly expanded through a combination of effective health-care provision (Adventist hospitals), education, and theological messaging that resonated with [[Gusii people]] culture.
 
 The Adventist emphasis on dietary rules, health practices, and strict moral discipline aligned with Gusii values of discipline and care. The church's educational institutions (such as Kisii School, now Kisii University) became among the most prestigious in the region. Adventist hospitals in Kisii became centers of modern medicine, attracting patients from across Western Kenya and establishing the church's legitimacy as a healing institution.
 

@@ -4,7 +4,7 @@ In Tanzania, hip hop emerged first as dance in the early 1980s, with Dar es Sala
 
 Uganda's hip hop scene developed in the early 1990s, pioneered by MC Afrik (Lumix Da Don), who doubled as a radio announcer and the lead singer of Bataka Underground. This dual role as performer and media personality established a pattern that would repeat across the region: hip hop artists using radio platforms to build audiences and legitimize the genre. Popular artists like Chameleon, Kawesa, and Bebe Cool emerged in the late 1990s and early 2000s, creating a distinctly Ugandan sound that incorporated elements of Luganda and other local languages alongside English.
 
-Kenya's trajectory differed in crucial ways. While Tanzanian and Ugandan hip hop maintained closer connections to standard Swahili and local ethnic languages, [[Genge Music Origins|Kenyan genge]] was built almost entirely on [[Sheng Language and Kenyan Music|Sheng]], the hybrid street slang of [[Cross-Ethnic/Nairobi Urban Identity|Nairobi]]. This linguistic choice reflected Kenya's more ethnically fragmented urban landscape and the need for a common youth language that transcended tribal boundaries. Artists like [[Nonini|Nonini]] and [[Jua Cali|Jua Cali]] emerged in the early 2000s, creating a sound that was deliberately local-first, street-oriented, and commercially ambitious.
+Kenya's trajectory differed in crucial ways. While Tanzanian and Ugandan hip hop maintained closer connections to standard Swahili and local ethnic languages, [[Genge Music Origins|Kenyan genge]] was built almost entirely on [[Sheng Language and Kenyan Music|Sheng]], the hybrid street slang of [[Nairobi Urban Identity|Nairobi]]. This linguistic choice reflected Kenya's more ethnically fragmented urban landscape and the need for a common youth language that transcended tribal boundaries. Artists like [[Nonini|Nonini]] and [[Jua Cali|Jua Cali]] emerged in the early 2000s, creating a sound that was deliberately local-first, street-oriented, and commercially ambitious.
 
 The early 2000s represented a critical period when East African hip hop moved from underground imitation to mainstream cultural force. Recording studios like Calif Records in Kenya and similar operations in Tanzania and Uganda provided infrastructure that allowed artists to produce professional-quality work without traveling to Europe or South Africa. The rivalry between kapuka and genge in Kenya, the rise of Bongo Flava artists like Professor Jay and Mr. II in Tanzania, and the commercialization of Ugandan hip hop all occurred simultaneously, creating a regional ecosystem where ideas, styles, and artists circulated freely across borders.
 
@@ -19,7 +19,7 @@ By the late 2010s, East African hip hop had fully matured into multiple distinct
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
 - [[Nonini|Nonini]]
 - [[Jua Cali|Jua Cali]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Gengetone Movement|Gengetone Movement]]
 - [[2007 Election|2007 Election]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]

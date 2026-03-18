@@ -78,16 +78,16 @@ Modern Kisii County has shifted in some ways:
 
 ## Cross-Cultural Comparison
 
-The [[Gusii people|Gusii]] burial practice of in-homestead, east-facing burial contrasts with neighboring communities. The [[Luo Funeral Traditions]] offer different patterns reflecting [[Luo people|Luo]] (Nilotic) traditions, including different mourning structures and inheritance practices.
+The [[Gusii people|Gusii]] burial practice of in-homestead, east-facing burial contrasts with neighboring communities. The [[Luo Funeral Traditions]] offer different patterns reflecting Luo (Nilotic) traditions, including different mourning structures and inheritance practices.
 
 ## See Also
 
 - [[Kisii Birth Rituals]] - lifecycle rituals
 - [[Abagusii Cosmology]] - ancestral significance
 - [[Kisii Clan System]] - inheritance through clans
-- [[Ritual and death in African societies]] - comparative perspective
-- [[Religious funeral practices]] - Christian burial evolution
-- [[Widows in African societies]] - gender and inheritance
+- Ritual and death in African societies - comparative perspective
+- Religious funeral practices - Christian burial evolution
+- Widows in African societies - gender and inheritance
 
 ---
 

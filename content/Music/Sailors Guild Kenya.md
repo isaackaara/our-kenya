@@ -1,4 +1,4 @@
-Sailors Guild arrived on the [[Gengetone Movement|Gengetone]] scene in April 2019, less than a year after [[Ethic Entertainment|Ethic Entertainment]]'s "Lamba Lolo" had birthed the genre, and immediately established themselves as gengetone's most commercially successful act. Comprising Miracle Baby, Qoqos Juma, Shalkido, Masilver, and Lexxy Yung, the group from [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's estates]] created "Wamlambez," a song whose title roughly translates to "those who lick" and whose viral success pushed gengetone to the global stage in ways that even Ethic's breakthrough had not achieved.
+Sailors Guild arrived on the [[Gengetone Movement|Gengetone]] scene in April 2019, less than a year after [[Ethic Entertainment|Ethic Entertainment]]'s "Lamba Lolo" had birthed the genre, and immediately established themselves as gengetone's most commercially successful act. Comprising Miracle Baby, Qoqos Juma, Shalkido, Masilver, and Lexxy Yung, the group from [[Nairobi Urban Identity|Nairobi's estates]] created "Wamlambez," a song whose title roughly translates to "those who lick" and whose viral success pushed gengetone to the global stage in ways that even Ethic's breakthrough had not achieved.
 
 "Wamlambez" was everything gengetone promised to be: raw, explicit, dance-oriented, and delivered entirely in street [[Sheng Language and Kenyan Music|Sheng]] that made no concessions to outside audiences. The song's hook was simple, repetitive, and impossible to forget. Its production, while low-budget compared to mainstream pop, had an energy that made it perfect for clubs and estate parties. The [[YouTube and Kenyan Music|YouTube]] video, like Ethic's template, was shot in the estates with neighborhood participants, maintaining the authenticity that gengetone fans demanded.
 
@@ -23,7 +23,7 @@ Sailors Guild's story encapsulates both gengetone's promise and its limitations.
 - [[YouTube and Kenyan Music|YouTube and Kenyan Music]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
 - [[Sheng Language and Kenyan Music|Sheng Language and Kenyan Music]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Kenyan Music Industry Overview|Kenyan Music Industry Overview]]
 
 ## Sources

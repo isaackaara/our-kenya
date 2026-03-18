@@ -1,6 +1,6 @@
 Inheritance disputes involving women reflect persistent conflict between statutory law and customary law, between women's constitutional equality rights and traditional patriarchal property transmission. Women historically have been marginalized from inheritance across Kenya's diverse legal systems; widows face dispossession of marital property, daughters are excluded from land inheritance in favor of sons, and divorced women lose rights to marital assets. Contemporary legal reforms have not fully eliminated gendered inheritance inequality.
 
-Customary law systems across Kenya's ethnic communities generally privileged male inheritance. [[Kikuyu/Kikuyu People and Culture|Kikuyu]] customary law transmitted land and property through male lineage, with women receiving usufruct rights during marriage but losing access upon widowhood or divorce. [[Luo/Luo People and Culture|Luo]] customary law similarly maintained male property transmission; widows faced "wife inheritance" arrangements (where male relatives inherited widows as property) or lost property access entirely. [[Maasai/Maasai People and Culture|Maasai]] pastoral succession followed male lineages, excluding women and daughters entirely from land and livestock inheritance.
+Customary law systems across Kenya's ethnic communities generally privileged male inheritance. [[Kikuyu People and Culture|Kikuyu]] customary law transmitted land and property through male lineage, with women receiving usufruct rights during marriage but losing access upon widowhood or divorce. [[Luo People and Culture|Luo]] customary law similarly maintained male property transmission; widows faced "wife inheritance" arrangements (where male relatives inherited widows as property) or lost property access entirely. [[Maasai People and Culture|Maasai]] pastoral succession followed male lineages, excluding women and daughters entirely from land and livestock inheritance.
 
 Colonial law codified customary male inheritance as official policy, treating male household heads as property owners and women as dependents. Women's inheritance claims were subordinate to male relatives' claims. This legal framework persisted through most of post-independence Kenya, creating situations where women widowed with minor children lost marital property to male relatives, leaving widows and children in poverty.
 
@@ -23,7 +23,7 @@ Contemporary inheritance disputes remain gendered, despite legal reform. Women w
 [[Divorce Law Economic]]
 [[Xeer Customary Law]]
 [[Constitutional Reform 2010]]
-[[Women Legal Aid]]
+Women Legal Aid
 
 ## Sources
 

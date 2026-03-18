@@ -3,9 +3,9 @@ Regional voting patterns in 2002 revealed a dramatic realignment compared to 199
 ## See Also
 
 - [[2002 Election]]
-- [[Electoral geography Kenya]]
-- [[Regional voting patterns]]
-- [[Ethnic voting Kenya]]
+- Electoral geography Kenya
+- Regional voting patterns
+- Ethnic voting Kenya
 - [[1997 Election Regional Patterns]]
 
 ## Sources

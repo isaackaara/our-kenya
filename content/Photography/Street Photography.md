@@ -7,13 +7,13 @@ Nairobi's vibrant street photography tradition reflected the city's significance
 By the late twentieth century, street photography had become an established genre within Kenyan visual culture, recognized as a legitimate artistic and documentary practice. Photography schools and workshops included street photography techniques in their curricula. The availability of portable cameras and faster film stock throughout the latter half of the twentieth century made street photography more accessible and practical. Contemporary Kenyan photographers have continued this tradition, using street photography to document urbanization, economic inequality, informal settlements, and the everyday experiences of city dwellers.
 
 ## See Also
-- [[Nairobi Urban Development]]
-- [[Informal Economy and Street Trading]]
+- Nairobi Urban Development
+- Informal Economy and Street Trading
 - [[Public Art]]
 - [[Photojournalism Kenya]]
-- [[Urban Photography Practice]]
-- [[Matatu Culture Visual Documentation]]
-- [[Markets and Commercial Spaces]]
+- Urban Photography Practice
+- Matatu Culture Visual Documentation
+- Markets and Commercial Spaces
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/exhibitions - NMK Photography Exhibitions

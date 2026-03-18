@@ -5,10 +5,10 @@ The collapse reflected multiple factors: the end of Moi's presidency removing th
 ## See Also
 
 - [[2002 Election]]
-- [[KANU party history]]
-- [[Political party collapse]]
+- [[KANU]]
+- Political party collapse
 - [[Kenya]]
-- [[Moi's decline]]
+- Moi's decline
 
 ## Sources
 

@@ -1,4 +1,4 @@
-The [[Rabai]], [[Jibana Kambe Kauma Ribe]], and [[Kambe]] are three [[Mijikenda]] sub-groups residing in Kilifi County and the Mombasa hinterland. These groups maintain distinct identities while participating in the broader [[Mijikenda]] cultural and linguistic networks. The [[Rabai]] hold particular historical significance as the site of the first Christian mission on the Kenya mainland.
+The [[Rabai]], [[Jibana Kambe Kauma Ribe]], and Kambe are three [[Mijikenda]] sub-groups residing in Kilifi County and the Mombasa hinterland. These groups maintain distinct identities while participating in the broader [[Mijikenda]] cultural and linguistic networks. The [[Rabai]] hold particular historical significance as the site of the first Christian mission on the Kenya mainland.
 
 ## Rabai
 
@@ -16,7 +16,7 @@ The Kambe are another Kilifi-based group maintaining their own distinct identity
 
 ## Common Features
 
-All three groups ([[Rabai]], [[Jibana Kambe Kauma Ribe]], [[Kambe]]) share several features: they maintain their own languages (mutually intelligible with other [[Mijikenda]] languages), they participate in the [[Kaya System|kaya]] governance system and sacred traditions, and they face contemporary challenges related to land rights, cultural preservation, and economic change. Each group maintains a [[Kaya System|kaya]] forest that is part of the broader system of sacred spaces protected (to varying degrees) under Kenyan law and UNESCO World Heritage designation.
+All three groups ([[Rabai]], [[Jibana Kambe Kauma Ribe]], Kambe) share several features: they maintain their own languages (mutually intelligible with other [[Mijikenda]] languages), they participate in the [[The Kaya System|kaya]] governance system and sacred traditions, and they face contemporary challenges related to land rights, cultural preservation, and economic change. Each group maintains a [[The Kaya System|kaya]] forest that is part of the broader system of sacred spaces protected (to varying degrees) under Kenyan law and UNESCO World Heritage designation.
 
 ## See Also
 

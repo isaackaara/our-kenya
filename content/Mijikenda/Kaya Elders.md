@@ -1,10 +1,10 @@
-The kaya elders are the spiritual and governance leaders of [[Mijikenda]] society. They maintain the [[sacred]] forests, perform ritual ceremonies, adjudicate disputes according to customary law, and guard sacred knowledge and objects. The kaya elder system, organized through the Gohu (senior) and Vaya (junior) councils, represents centuries of accumulated institutional practice and remains central to Mjikenda cultural identity despite modernization and colonial disruption.
+The kaya elders are the spiritual and governance leaders of [[Mijikenda]] society. They maintain the sacred forests, perform ritual ceremonies, adjudicate disputes according to customary law, and guard sacred knowledge and objects. The kaya elder system, organized through the Gohu (senior) and Vaya (junior) councils, represents centuries of accumulated institutional practice and remains central to Mjikenda cultural identity despite modernization and colonial disruption.
 
 ## The Gohu and Vaya Councils
 
 The Gohu council consists of the most senior and respected male elders, typically landholders whose lineages claim first settlement in a particular kaya. The Gohu are responsible for major decisions affecting the community, including the performance of important rituals, the adjudication of major disputes, and the management of common lands and forests.
 
-The Vaya council consists of younger, less experienced elders advancing through the ranks of seniority. The Vaya assist the Gohu, handle less serious disputes, and gradually acquire the knowledge and experience needed for Gohu status. This hierarchical structure creates a lifetime progression through which men gain increasing responsibility and [[authority]].
+The Vaya council consists of younger, less experienced elders advancing through the ranks of seniority. The Vaya assist the Gohu, handle less serious disputes, and gradually acquire the knowledge and experience needed for Gohu status. This hierarchical structure creates a lifetime progression through which men gain increasing responsibility and authority.
 
 ## Spiritual and Ritual Functions
 

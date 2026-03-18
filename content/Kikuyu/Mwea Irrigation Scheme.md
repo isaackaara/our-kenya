@@ -62,7 +62,7 @@ Large-scale irrigation withdrawals have reduced dry-season flows in the Tana Riv
 
 ## Cross-Links
 
-[[Kirinyaga County Geography]], [[Mau Mau Uprising]], [[Kikuyu Land Clashes Post-Independence]], [[Kikuyu Agriculture Pre-Colonial]], [[Water Resources Kenya]]
+[[Kirinyaga County Geography]], [[Mau Mau Uprising]], [[Kikuyu Land Clashes Post-Independence]], [[Kikuyu Agriculture Pre-Colonial]], [[Water Resources Management]]
 
 ## See Also
 

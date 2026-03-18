@@ -9,7 +9,7 @@ The political treatment of street dwellers has oscillated between neglect and ho
 The possibility of street dweller reintegration into society is limited by entrenched deprivation. Long-term street living creates psychological habituation to street conditions, making transition to housed life psychologically difficult. Trauma from violence and deprivation creates mental health conditions requiring treatment. Substance dependencies require addiction treatment. Employment capacity is reduced by malnutrition, health conditions, and psychological impacts. Family reintegration is frequently impossible due to death, conflict, or distance. Skills training is limited in utility without employment opportunities and health recovery. Interventions emphasizing rehabilitation have had limited success; street dweller transitions are episodic rather than systematic.
 
 ## See Also
-[[Street Children]], [[Homelessness Rates]], [[Poverty Measurement]], [[Mental Health]], [[Urban Destitution]], [[Begging Panhandling]], [[Substance Abuse]], [[Social Protection]]
+[[Street Children]], [[Homelessness Rates]], [[Poverty Measurement]], Mental Health, Urban Destitution, [[Begging Panhandling]], [[Substance Abuse]], [[Social Protection]]
 
 ## Sources
 1. Kenya Human Rights Commission (2015). "Hidden Scars: Police and Discretionary Powers in Kenya." https://www.khrc.or.ke

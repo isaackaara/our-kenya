@@ -34,7 +34,7 @@ Captive breeding programs have been rejected as inappropriate given the species'
 - [[Tana River (the river)|Tana River (the river)]]
 - [[Kenya|Kenya Conservation Areas]]
 - [[Tana River Climate Change|Tana River Climate Change]]
-- [[Endangered Species|Endangered Species in Kenya]]
+- Endangered Species in Kenya
 
 ## Sources
 

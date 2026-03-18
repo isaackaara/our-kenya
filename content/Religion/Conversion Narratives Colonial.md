@@ -16,7 +16,7 @@ Gender dimensions of conversion narratives reflected how men and women experienc
 [[Kikuyu Religion Colonialism]]
 [[Women Religious Leaders]]
 [[Religious Opposition Colonialism]]
-[[Colonial Kenya/Religious Transformation]]
+Religious Transformation
 
 ## Sources
 

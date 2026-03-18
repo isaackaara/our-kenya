@@ -13,7 +13,7 @@ Kenya's schistosomiasis control programs have achieved reductions in infection p
 [[Child Health Pediatric Care|Child Health Pediatric Care]]
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
 [[Rural Healthcare Access|Rural Healthcare Access]]
-[[Parasitic Diseases Kenya|Parasitic Diseases Kenya]]
+Parasitic Diseases Kenya
 [[Mental Health Poverty|Poverty]]
 
 ## Sources

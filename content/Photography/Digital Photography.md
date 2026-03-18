@@ -8,11 +8,11 @@ Professional photographers adapted to digital workflow while some maintained fil
 
 ## See Also
 - [[Technology]]
-- [[Social Media and Visual Culture]]
+- Social Media and Visual Culture
 - [[Digital Art]]
-- [[Professional Photography Practice]]
-- [[Smartphone Photography]]
-- [[Image Archives and Preservation]]
+- Professional Photography Practice
+- Smartphone Photography
+- Image Archives and Preservation
 - [[Digital Art]]
 
 ## Sources

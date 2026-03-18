@@ -13,7 +13,7 @@ Return challenges reflected fundamental obstacles. Repatriation succeeded only w
 [[Return Monitoring]]
 [[Reintegration Assistance]]
 [[Somali]]
-[[South Sudan Crisis]]
+South Sudan Crisis
 
 ## Sources
 

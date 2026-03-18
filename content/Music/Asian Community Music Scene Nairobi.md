@@ -28,7 +28,7 @@ Contemporary Kenyan popular music rarely acknowledges its Asian influences, yet 
 - [[Early Nairobi Dance Halls 1920s-1940s]]
 - [[East African Indian Ocean Taarab History]]
 - [[The Nairobi Sound 1950s]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 
 ## Sources
 1. Gregory, Robert G. "India and East Africa: A History of Race Relations within the British Empire 1890-1939." Oxford University Press, 1971. https://global.oup.com/academic/product/india-and-east-africa-9780198215530

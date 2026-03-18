@@ -17,10 +17,10 @@ The Garissa University attack's impact on Kenyan society was profound. It intens
 - [[Westgate Attack 2013]]
 - [[Kenya's Somalia Intervention]]
 - [[Uhuru Kenyatta and the ICC]]
-- [[Corruption/Security Sector]]
-- [[2007 Post-Election Violence]]
+- Security Sector
+- [[2007-2008 Post Election Violence]]
 - [[Uhuru Legacy Assessment]]
-- [[Elections/2013 Presidential Election]]
+- [[2013 Presidential Election]]
 
 ## Sources
 1. "Kenya: Garissa University College Attack," Human Rights Watch, April 2015. https://www.hrw.org/news/2015/04/03/kenya-garissa-university-college-attack

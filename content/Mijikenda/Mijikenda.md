@@ -13,13 +13,13 @@ The Mijikenda (meaning "nine villages") are the largest indigenous community on 
 6. [[Mekatilili wa Menza]] - Female resistance leader, 1913-1914 uprising, exile, legacy on Kenya 200-shilling note
 7. [[Digo People]] - Southernmost Mijikenda, Kwale County, Islamic influence, Tanzania border connections
 8. [[Duruma People]] - Larger sub-group, Kwale and Kilifi counties, practices and relationships
-9. [[Chonyi, Kauma, and Ribe People]] - Smaller Kilifi County sub-groups, distinctive practices
-10. [[Rabai, Jibana, and Kambe People]] - Northern and Mombasa hinterland groups, Rabai mission history
+9. Chonyi, Kauma, and Ribe People - Smaller Kilifi County sub-groups, distinctive practices
+10. Rabai, Jibana, and Kambe People - Northern and Mombasa hinterland groups, Rabai mission history
 
 ## History
 
 11. [[Pre-Colonial Mijikenda]] - Kaya governance, coastal trade, Mombasa relations, Oromo and Maasai interactions
-12. [[Mijikenda and the Arab/Swahili Trade World]] - Indian Ocean commerce, food and labor supply, slavery
+12. Swahili Trade World - Indian Ocean commerce, food and labor supply, slavery
 13. [[Mijikenda and Christian Missions]] - Johann Ludwig Krapf at Rabai, CMS and UMCA missions, freed slaves
 14. [[The Giriama Uprising 1913-1914]] - British labor demands, Sabaki River land seizure, kaya burning, collective punishment
 15. [[Mijikenda and WWI]] - East Africa Campaign, porter conscription, coastal impacts
@@ -63,7 +63,7 @@ The Mijikenda (meaning "nine villages") are the largest indigenous community on 
 38. [[Youth and the Kaya]] - Generational disconnect, school and urban migration, initiation viability, youth organizations
 39. [[Mijikenda Women]] - Gender roles, Mekatilili legacy, contemporary economic participation
 40. [[Land Rights Campaigns]] - National Land Commission, Community Land Act 2016, community land registration attempts
-41. [[HIV/AIDS at the Coast]] - Sex tourism health impacts, Kilifi and Kwale prevalence, health programs
+41. AIDS at the Coast - Sex tourism health impacts, Kilifi and Kwale prevalence, health programs
 42. [[Mijikenda in Nairobi]] - Coastal diaspora, concentration areas, identity maintenance in capital
 43. [[Mijikenda and Ruto Politics]] - 2022 voting patterns, coastal opposition tradition, government appointments
 

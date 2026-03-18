@@ -12,7 +12,7 @@ Media organizations' recruitment and promotion of women journalists reflected br
 [[News Anchors Icons]]
 [[Journalist Code Ethics]]
 [[Media Independence Coverage]]
-[[Women/Gender Media Representation]]
+Gender Media Representation
 [[Television History Kenya]]
 [[Media Ownership Control]]
 

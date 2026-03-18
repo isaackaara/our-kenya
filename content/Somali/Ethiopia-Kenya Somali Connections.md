@@ -1,4 +1,4 @@
-The Somali Region of Ethiopia (historically called the Ogaden, named after the [[Ogaden Clan Kenya|Ogaden clan]]) borders Kenya and is home to millions of ethnic [[Somali]]. The [[Ogaden Clan Kenya]] clan spans Kenya, Ethiopia, and [[Somalia]]. The Marehan and other [[Darod|Darod subclans]] also span these borders. Cross-border connections between Ethiopian Somali and [[Kenyan Somali|Kenyan Somali]] are strong. Trade, pastoral migration, family ties, and clan networks connect the communities despite political boundaries.
+The Somali Region of Ethiopia (historically called the Ogaden, named after the [[Ogaden Clan Kenya|Ogaden clan]]) borders Kenya and is home to millions of ethnic [[Somali]]. The [[Ogaden Clan Kenya]] clan spans Kenya, Ethiopia, and [[Somalia]]. The Marehan and other Darod subclans also span these borders. Cross-border connections between Ethiopian Somali and [[Kenyan Somali|Kenyan Somali]] are strong. Trade, pastoral migration, family ties, and clan networks connect the communities despite political boundaries.
 
 ## The Ethiopian Somali Region
 

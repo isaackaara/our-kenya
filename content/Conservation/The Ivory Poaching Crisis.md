@@ -1,4 +1,4 @@
-The global [[ivory]] poaching crisis of 2008-2014 nearly reversed Kenya's [[Elephant Human Conflict]] recovery, with poaching reaching levels comparable to the 1980s catastrophe. The crisis demonstrated that wildlife conservation progress remains vulnerable to resurgent poaching pressure driven by international demand, [[Organized Crime Camps|organized criminal networks]], and inadequate enforcement.
+The global ivory poaching crisis of 2008-2014 nearly reversed Kenya's [[Elephant Human Conflict]] recovery, with poaching reaching levels comparable to the 1980s catastrophe. The crisis demonstrated that wildlife conservation progress remains vulnerable to resurgent poaching pressure driven by international demand, [[Organized Crime Camps|organized criminal networks]], and inadequate enforcement.
 
 ## Context and Scale
 

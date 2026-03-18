@@ -20,9 +20,9 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Nairobi Stock Exchange]]
 - [[Banking History Kenya]]
 - [[Private Equity in Kenya]]
-- [[Insurance Industry Kenya]]
+- [[Economy]]
 - [[Job Security]]
-- [[Financial Systems Kenya]]
+- [[Financial Regulation Kenya]]
 
 ## Sources
 

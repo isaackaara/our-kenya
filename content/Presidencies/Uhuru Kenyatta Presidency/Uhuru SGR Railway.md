@@ -55,11 +55,11 @@ The SGR revealed tensions in development strategy: infrastructure is necessary, 
 - [[Uhuru Big Four Agenda]]
 - [[Uhuru Debt Crisis]]
 - [[Uhuru Economic Record]]
-- [[Kenya-China Relations]]
+- [[Kenya Railways]]
 - [[Mombasa Port Authority]]
 - [[Kenya Railways]]
-- [[Infrastructure Development in Kenya]]
-- [[William Ruto Economic Policy]]
+- Infrastructure Development in Kenya
+- William Ruto Economic Policy
 
 ## Sources
 

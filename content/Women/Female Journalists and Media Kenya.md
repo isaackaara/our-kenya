@@ -28,7 +28,7 @@ Sports journalism has remained almost exclusively male in Kenya, as globally. Fe
 [[Female Media Ownership]]
 [[Women Organizations Advocacy]]
 [[Gender-Based Violence]]
-[[Media and Press Kenya]]
+[[Social Media Kenya]]
 [[Women Leadership Capacity]]
 
 ## Sources

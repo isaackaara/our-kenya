@@ -1,4 +1,4 @@
-The 1913-1914 Giriama Uprising occurred in a context of [[colonial]] expansion, labor demands, and existing tensions between colonial authority and Giriama communities. Understanding the historical context illuminates causes, participants, and significance of this important [[resistance]] movement.
+The 1913-1914 Giriama Uprising occurred in a context of colonial expansion, labor demands, and existing tensions between colonial authority and Giriama communities. Understanding the historical context illuminates causes, participants, and significance of this important resistance movement.
 
 ## Pre-uprising Colonial Relations
 
@@ -56,7 +56,7 @@ The Giriama Uprising occurred during World War I (1913-1914), when Britain's mil
 
 - [[Giriama People]] - Uprising participants
 - [[Coastal Land Question]] - Dispossession causes
-- [[Coastal Land Problems [[Kenya]]]] - Historical origins
+- Coastal Land Problems [[Kenya]]]] - Historical origins
 - [[Kaya Elder System]] - Traditional authority
 - [[Coast Marginalization]] - Structural outcomes
 

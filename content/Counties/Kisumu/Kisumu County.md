@@ -34,5 +34,5 @@ Kisumu became the provincial capital of Nyanza Province and a major economic cen
 
 ## See Also
 - [[Lake Victoria Kenya]]
-- [[Luo Culture and Identity]]
+- [[Luo People and Culture]]
 - [[Tom Mboya]]

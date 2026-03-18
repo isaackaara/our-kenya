@@ -7,7 +7,7 @@ Uhuru Kenyatta's political rise was shaped by his family name, personal ambition
 ## See Also
 [[Uhuru Kenyatta Early Political Career]]
 [[Uhuru ICC Cases]]
-[[Presidencies/Mwai Kibaki Presidency/Kibaki Presidency]]
+[[Mwai Kibaki]]
 
 ## Sources
 1. Hornsby, Charles. 'Kenya: A History Since Independence.' I.B. Tauris, 2012.

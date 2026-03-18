@@ -2,7 +2,7 @@ The 1983 election took place in a Cold War context with Kenya firmly in the West
 
 ## See Also
 - [[1983 Election]]
-- [[Cold War Africa]]
+- Cold War Africa
 - [[Kenya]]
 - [[Daniel arap Moi]]
 - [[Kenya]]

@@ -22,7 +22,7 @@ By the 2010s, Kenya had established more robust physiotherapy training and profe
 - [[Healthcare Worker Shortages]]
 - [[Rural Healthcare Access]]
 - [[Medical Training Education]]
-- [[Disability Healthcare Access]]
+- Disability Healthcare Access
 
 ## Sources
 1. WHO World Report on Disability (2011) - https://www.who.int/

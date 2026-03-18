@@ -31,7 +31,7 @@ Work songs represent music at its most fundamental: sound created by people perf
 ## See Also
 - [[Music and Colonial Resistance]]
 - [[Beni Ngoma Colonial Era]]
-- [[Europeans/European Settlers Kenya]]
+- [[European Settlers Kenya]]
 - [[Colonial Music Censorship Kenya]]
 - [[Mau Mau Songs and the Forest]]
 - [[Women Performers Colonial Kenya]]

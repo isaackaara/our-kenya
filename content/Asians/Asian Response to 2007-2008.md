@@ -1,4 +1,4 @@
-The [[post-election violence]] that erupted in [[Kenya]] following the disputed presidential [[Elections]] of 2007 had significant impacts on [[Asian Kenyans|Asian]] [[Kenya]] communities. [[Asian Kenyans|Asian]] businesses and [[Poverty]] were targets of looting and destruction. [[Asian Kenyans|Asian]] community members faced harassment and intimidation. The [[violence]] highlighted the precarious position of [[Asian Kenyans]] during periods of ethnic and political conflict. The experience generated important reflections about security, belonging, and [[identity]] within the [[Asian Kenyans|Asian]] community.
+The [[Post-Election Violence]] that erupted in [[Kenya]] following the disputed presidential [[Elections]] of 2007 had significant impacts on [[Asian Kenyans|Asian]] [[Kenya]] communities. [[Asian Kenyans|Asian]] businesses and [[Poverty]] were targets of looting and destruction. [[Asian Kenyans|Asian]] community members faced harassment and intimidation. The violence highlighted the precarious position of [[Asian Kenyans]] during periods of ethnic and political conflict. The experience generated important reflections about security, belonging, and identity within the [[Asian Kenyans|Asian]] community.
 
 ## The 2007-2008 Post-Election Context
 
@@ -68,8 +68,8 @@ Some Asian community leaders and organizations became more engaged in political 
 
 - [[Asian Kenyan Identity 2026]]
 - [[Asian Kenyans Today]]
-- [[2007-2008 Kenya election crisis]]
-- [[Ethnic violence Kenya]]
+- 2007-2008 Kenya election crisis
+- [[Post-Election Violence]]
 - [[Shia Islam Kenya Minority Communities]]
 
 ## Sources

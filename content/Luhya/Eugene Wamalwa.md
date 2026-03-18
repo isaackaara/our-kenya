@@ -32,7 +32,7 @@ Following the 2022 elections, Wamalwa has continued political life, though his s
 
 [[Luhya Political Figures]]
 [[Michael Kijana Wamalwa]]
-[[Saboti]]
+Saboti
 
 ## See Also
 

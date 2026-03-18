@@ -16,7 +16,7 @@ Post-2010 constitution incorporation of religious freedom provisions prompted re
 [[Inter-Faith Dialogue Modern]]
 [[Islam on the Kenya Coast]]
 [[Hindu Temples Nairobi Community]]
-[[Presidencies/Independence Era]]
+Independence Era
 
 ## Sources
 

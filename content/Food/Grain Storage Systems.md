@@ -6,7 +6,7 @@ The challenge of traditional grain storage was pest and disease losses. Stored-g
 
 Colonial agricultural extension sometimes undermined traditional storage through promotion of modern alternatives without ensuring adequate replacements. Metal bins and cement structures were promoted as superior to traditional systems. However, many modern alternatives proved less effective, particularly when farmers lacked maintenance knowledge or capital for replacements.
 
-Government grain storage through the [[National Cereals and Produce Board]] (NCPB) established strategic storage for food security. NCPB purchased grain after harvest, storing for supply during lean seasons or emergencies. However, storage capacity was typically inadequate to hold entire national grain production. NCPB purchasing prices affected farmer incentives and market conditions.
+Government grain storage through the National Cereals and Produce Board (NCPB) established strategic storage for food security. NCPB purchased grain after harvest, storing for supply during lean seasons or emergencies. However, storage capacity was typically inadequate to hold entire national grain production. NCPB purchasing prices affected farmer incentives and market conditions.
 
 The relationship between grain storage and [[Food Security Policies]] was fundamental. Grain reserves enabled food availability during production shortfalls. However, storage management sometimes was inefficient, with grain deteriorating in storage. Political interference in storage grain distribution sometimes meant storage served patronage rather than food security objectives.
 
@@ -22,7 +22,7 @@ The economics of grain storage created challenges. Farmers storing grain accepte
 [[Food Storage Solutions]]
 [[Maize Production]]
 [[Food Security Policies]]
-[[National Cereals and Produce Board]]
+National Cereals and Produce Board
 
 ## Sources
 1. https://cgspace.cgiar.org/handle/10568/111012

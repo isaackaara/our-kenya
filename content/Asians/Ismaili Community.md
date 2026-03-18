@@ -50,4 +50,4 @@ As of 2025, the Ismaili community remains active in Kenya and East Africa. The A
 - [[Asians in Colonial Kenya]]
 - [[Gujarati Dominance in Business]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]

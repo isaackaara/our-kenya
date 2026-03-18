@@ -13,7 +13,7 @@ Violence occasionally erupted from water conflict. Documented incidents of armed
 [[Resource Strain Communities]]
 [[Deforestation Issues]]
 [[Environmental Art]]
-[[Water Management Refugee Camps]]
+Water Management Refugee Camps
 
 ## Sources
 

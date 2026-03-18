@@ -42,7 +42,7 @@ But these efforts operate against massive economic incentives and deeply interna
 
 ## Related
 
-[[Colonial Administration]] | [[../Europeans/The Racial Hierarchy]] | [[The Three-Tier Racial Hierarchy Legacy]]
+[[Colonial Administration]] | The Racial Hierarchy | [[The Three-Tier Racial Hierarchy Legacy]]
 
 ## See Also
 

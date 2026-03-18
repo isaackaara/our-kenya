@@ -1,4 +1,4 @@
-Water and sanitation services in Kenya's refugee camps became a critical challenge given that populations of hundreds of thousands were concentrated in arid and semi-arid regions historically incapable of supporting such density. [[CARE International]] emerged as the primary implementing partner for WASH (Water, Sanitation, and Hygiene) programming in [[Dadaab Refugee Camp|Dadaab]] and other camps, coordinating borehole drilling, water distribution system installation, latrine construction, and hygiene promotion campaigns. The fundamental problem was chronic water scarcity in regions where precipitation averages barely 200-300 millimeters annually. Refugee populations created demand far exceeding available groundwater; without sustained investment in extraction infrastructure and distribution systems, humanitarian crisis would rapidly transform into public health catastrophe.
+Water and sanitation services in Kenya's refugee camps became a critical challenge given that populations of hundreds of thousands were concentrated in arid and semi-arid regions historically incapable of supporting such density. CARE International emerged as the primary implementing partner for WASH (Water, Sanitation, and Hygiene) programming in [[Dadaab Refugee Camp|Dadaab]] and other camps, coordinating borehole drilling, water distribution system installation, latrine construction, and hygiene promotion campaigns. The fundamental problem was chronic water scarcity in regions where precipitation averages barely 200-300 millimeters annually. Refugee populations created demand far exceeding available groundwater; without sustained investment in extraction infrastructure and distribution systems, humanitarian crisis would rapidly transform into public health catastrophe.
 
 Water scarcity drove multiple humanitarian consequences beyond basic thirst. In Dadaab and Kakuma, refugee women and girls traveled increasingly distant routes searching for firewood and water as local resources became depleted. These journeys exposed them to severe security threats; documented cases of sexual assault, robbery, and violence against water collectors became systemic problems. UNHCR and CARE identified this vulnerability and prioritized water point construction and distribution expansion as protection measures. Simultaneously, water scarcity created environmental degradation; overexploitation of groundwater reduced water table levels, requiring ever-deeper boreholes and increasing extraction costs. Deforestation accelerated as refugees collected firewood, further straining the environment and contributing to long-term ecological damage to fragile pastoral ecosystems.
 
@@ -11,8 +11,8 @@ Water and sanitation partnerships illustrated the complexity of refugee service 
 [[Refugee Camp Infrastructure]]
 [[Dadaab Refugee Camp]]
 [[Kakuma Refugee Camp]]
-[[Environmental Impact Refugees]]
-[[CARE International]]
+Environmental Impact Refugees
+CARE International
 [[Disease Prevention]]
 
 ## Sources

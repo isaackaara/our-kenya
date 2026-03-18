@@ -6,7 +6,7 @@ The transition to digital production and [[YouTube and Kenyan Music|YouTube]] di
 
 [[Gengetone Movement|Gengetone]] revolutionized Kenyan music video aesthetics by embracing rather than hiding budget limitations. [[Ethic Entertainment|Ethic Entertainment]]'s "Lamba Lolo" video, shot in Umoja on consumer equipment with neighborhood participants, established template: lo-fi production as authenticity marker rather than liability. The video's rawness, its documentary quality capturing actual estate life, made it more culturally valuable than slick productions that might sanitize street realities. This aesthetic became gengetone signature: reject polish, embrace raw documentation.
 
-The estate as setting became politically and culturally significant. Where earlier Kenyan videos often featured generic locations or aspirational settings (beaches, mansions, upscale clubs), gengetone videos centered [[Cross-Ethnic/Nairobi Urban Identity|informal settlements]] unapologetically. Twerking on tires, dancing in dusty streets, performing in cramped estate courtyards, all documented urban working-class life with anthropological precision. These videos became visual archives of how millions of Kenyans actually lived, dressed, and moved through their environments.
+The estate as setting became politically and culturally significant. Where earlier Kenyan videos often featured generic locations or aspirational settings (beaches, mansions, upscale clubs), gengetone videos centered [[Nairobi Urban Identity|informal settlements]] unapologetically. Twerking on tires, dancing in dusty streets, performing in cramped estate courtyards, all documented urban working-class life with anthropological precision. These videos became visual archives of how millions of Kenyans actually lived, dressed, and moved through their environments.
 
 Fashion and style documented in music videos influenced broader youth culture. Gengetone videos showcased estate fashion: tracksuits, branded clothing often counterfeit, specific hairstyles and accessories that signaled group affiliations and aesthetic allegiances. Middle-class youth consumed these aesthetics through videos, adopting estate fashion codes to perform connection to street culture. This style circulation, from estates through videos to broader youth culture, demonstrated music videos' role in cultural production beyond music.
 
@@ -27,7 +27,7 @@ By the mid-2020s, music videos had become primary artistic product for many Keny
 - [[Gengetone Movement|Gengetone Movement]]
 - [[Ethic Entertainment|Ethic Entertainment]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[Sauti Sol|Sauti Sol]]
 - [[Music Streaming and Kenyan Artists|Music Streaming and Kenyan Artists]]
 

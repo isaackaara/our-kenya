@@ -19,7 +19,7 @@ By the 1940s, trade policy had generated substantial resentment among African an
 [[Colonial Agricultural Policy]]
 [[Colonial Retail Trade]]
 [[Railway Development]]
-[[Commercial Capital Kenya]]
+Commercial Capital Kenya
 
 ## Sources
 

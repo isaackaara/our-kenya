@@ -19,7 +19,7 @@ By the 1940s-1950s, wage pressure increased as labor demand exceeded supplies an
 [[Colonial Labor Codes]]
 [[Forced Labor Colonial]]
 [[Colonial Trade Unions]]
-[[Occupational Segregation]]
+Occupational Segregation
 [[Wage Inequality]]
 [[Colonial Economic Integration]]
 

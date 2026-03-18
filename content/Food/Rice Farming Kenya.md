@@ -18,7 +18,7 @@ Rice as tradable commodity meant production was sensitive to global rice prices 
 
 [[Marakwet Irrigation Systems]]
 [[Crop Farming Evolution]]
-[[Lake Victoria Agriculture]]
+Lake Victoria Agriculture
 [[Mwea Irrigation Scheme]]
 [[Luo]]
 [[Food Security Policies]]

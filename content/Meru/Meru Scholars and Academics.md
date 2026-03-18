@@ -1,6 +1,6 @@
 ## Overview
 
-Meru has produced notable [[Meru Scholars and Academics]], [[Academics Researchers Abroad]], [[researchers]], and [[Writers Associations]] who have contributed significantly to [[Kenyan Hip-Hop]] and academic disciplines. These individuals have advanced knowledge in fields including [[medicine]], [[law]], [[agriculture]], [[social sciences]], and [[humanities]]. Their contributions span local, national, and international academic communities.
+Meru has produced notable [[Meru Scholars and Academics]], [[Academics Researchers Abroad]], researchers, and [[Writers Associations]] who have contributed significantly to [[Kenyan Hip-Hop]] and academic disciplines. These individuals have advanced knowledge in fields including medicine, law, agriculture, social sciences, and humanities. Their contributions span local, national, and international academic communities.
 
 ## Early Scholars and Intellectuals
 
@@ -86,7 +86,7 @@ Encouraging Meru youth to pursue academic careers remains challenging despite im
 
 ## See Also
 
-- [[Meru Education and Schools]]
+- [[Education]]
 - [[Meru Youth Identity]]
 - [[Meru Youth and Migration]]
 - [[Meru Language]]

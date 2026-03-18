@@ -38,7 +38,7 @@ Climate change and increasingly severe droughts have intensified pressure on wat
 
 ---
 
-**See Also:** [[Kamba Environment]], [[Makueni County]], [[Kamba and Climate Change]]
+**See Also:** [[Kamba Culture and Identity]], [[Makueni County]], [[Kamba and Climate Change]]
 
 ## See Also
 

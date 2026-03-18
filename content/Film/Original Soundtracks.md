@@ -15,7 +15,7 @@ Sound design represented technical dimension of soundtrack creation. Sound desig
 Radio broadcast music including film and television music through stations like [[Radio Maisha]] exposed audiences to soundtrack compositions and promoted films. This cross-media circulation made film music part of broader popular music landscape. Musicians and composers benefited from radio exposure supporting career development.
 
 ## See Also
-[[Film Music]], [[Film Directing]], [[Television Acting]], [[Radio Maisha]], [[Film Editing]], [[Music]], [[Entertainment]]
+[[Film Music]], [[Film Directing]], [[Television Acting]], [[Radio Maisha]], [[Film Editing]], [[Music]], [[entertainment]]
 
 ## Sources
 1. https://www.britannica.com/place/Kenya/Culture

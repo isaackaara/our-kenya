@@ -9,12 +9,12 @@ The TSC's governance structure became increasingly contentious, with accusations
 By Uhuru's presidency's end, teachers remained one of Kenya's most demoralized professional groups, and the TSC continued to function as a dysfunctional bureaucracy unable to attract, retain, or develop quality educators. This institutional failure directly compromised Kenya's educational outcomes and implicated Uhuru's presidency in the degradation of human capital development.
 
 ## See Also
-[[Education Sector Under Uhuru Kenyatta]]
-[[Teachers Service Commission Governance]]
+Education Sector Under Uhuru Kenyatta
+Teachers Service Commission Governance
 [[Public Art]]
-[[Teacher Quality and Student Outcomes]]
-[[Curriculum and Education Reform]]
-[[Human Capital Development Strategy Kenya]]
+Teacher Quality and Student Outcomes
+Curriculum and Education Reform
+Human Capital Development Strategy Kenya
 
 ## Sources
 1. https://www.standardmedia.co.ke/education/article/2001378234-teachers-tsc-salary-disputes

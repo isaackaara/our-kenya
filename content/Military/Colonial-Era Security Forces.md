@@ -19,7 +19,7 @@ The colonial security forces employed methods suited to imperial control objecti
 [[King's African Rifles Colonial]]
 [[Police Force Establishment]]
 [[General Service Unit Operations]]
-[[Mau Mau Revolt]]
+[[Mau Mau Uprising]]
 [[Kenya Defence Force History]]
 
 ## Sources

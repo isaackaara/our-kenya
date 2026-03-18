@@ -9,7 +9,7 @@ Mental health and substance abuse are bidirectionally related. Substance abuse f
 Treatment and prevention approaches to substance abuse vary in effectiveness. Evidence-based approaches including cognitive behavioral therapy, motivational interviewing, and medication-assisted treatment show efficacy but require trained providers and infrastructure. Community-based approaches including peer support, traditional healing, and family involvement show some effectiveness. Prevention through education has modest effectiveness unless combined with broader strategies addressing underlying vulnerabilities. Treatment access is limited for poor populations; cost barriers, service scarcity, and stigma limit help-seeking. Harm reduction approaches including needle exchange for intravenous drug users show effectiveness in reducing disease transmission but remain limited. Systemic change addressing substance abuse requires integrated mental health services, poverty reduction, and trauma support.
 
 ## See Also
-[[Addiction Poverty]], [[Alcoholism Poor Communities]], [[Drug Addiction]], [[Mental Health Poverty]], [[Crime and Substance]], [[Street Children]], [[Health Services]], [[Mental Health Services]]
+[[Addiction Poverty]], [[Alcoholism Poor Communities]], [[Drug Addiction]], [[Mental Health Poverty]], Crime and Substance, [[Street Children]], [[Health Services]], [[Mental Health Services]]
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Drug Use and Substance Abuse Survey." https://www.knbs.or.ke

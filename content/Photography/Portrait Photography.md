@@ -7,13 +7,13 @@ Post-independence portrait photography diversified in style and accessibility. A
 Portrait photography also emerged as artistic practice. Photographers began experimenting with composition, lighting, and subject representation to create works addressing themes of identity, modernity, urbanization, and cultural change. The portrait format allowed for intimate engagement with specific individuals while often addressing broader social and historical questions. Studio portraits and documentary photographs together created visual archives of Kenyan faces, fashions, and expressions across decades of social transformation, making portraiture a significant genre within Kenya's broader photographic heritage.
 
 ## See Also
-- [[Photography Studios Colonial Kenya]]
-- [[Identity Documents and Photography]]
-- [[Social Hierarchies Visual Representation]]
-- [[Family Archives and Memory]]
-- [[Urban Photography Kenya]]
-- [[Visual Culture and Modernity]]
-- [[Professional Photography Practice]]
+- Photography Studios Colonial Kenya
+- Identity Documents and Photography
+- Social Hierarchies Visual Representation
+- Family Archives and Memory
+- Urban Photography Kenya
+- Visual Culture and Modernity
+- Professional Photography Practice
 
 ## Sources
 1. https://www.nationalmuseumkenya.org/ - NMK Portrait Photography Archives

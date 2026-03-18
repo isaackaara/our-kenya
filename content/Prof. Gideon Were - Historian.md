@@ -6,7 +6,7 @@ Understanding prof. gideon were - historian provides important context for Kenya
 
 ## See Also
 
-[[Historians]], [[Kenya History]]
+Historians, [[Kenya History]]
 
 ## Sources
 

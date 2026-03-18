@@ -1,4 +1,4 @@
-[[Kenya]] crosses ethnic lines through shared interests in [[music]], [[fashion]], [[sports]], and [[social media]]. Young Kenyans from diverse ethnic backgrounds participate in [[common cultural forms]] and share aesthetic preferences, communication styles, and social practices. The development of youth culture transcending ethnicity reflects the multi-ethnic character of schools, cities, and digital spaces where youth congregate.
+[[Kenya]] crosses ethnic lines through shared interests in [[Music]], fashion, [[Sports]], and social media. Young Kenyans from diverse ethnic backgrounds participate in common cultural forms and share aesthetic preferences, communication styles, and social practices. The development of youth culture transcending ethnicity reflects the multi-ethnic character of schools, cities, and digital spaces where youth congregate.
 
 Youth fashion in Kenya reflects both international and local influences. Young Kenyans adopt styles including streetwear, hip-hop influenced fashion, and contemporary international styles. Particular brands and aesthetic styles become fashionable among youth across ethnic lines. Fashion magazines, social media influencers, and peer networks spread fashion trends across ethnic boundaries. A young Kikuyu person and a young Luo person are more likely to share fashion interests with each other than with older members of their own ethnic communities.
 
@@ -8,7 +8,7 @@ Sports participation and spectatorship among youth transcend ethnicity. Youth pl
 
 Digital communication among youth operates across ethnic lines. Social media platforms including Instagram, TikTok, and X (formerly Twitter) bring young Kenyans of all ethnic backgrounds into communication. Online gaming and digital communities similarly include youth from diverse ethnic backgrounds. The anonymity and decentered character of digital communication sometimes allow youth to interact without explicit attention to ethnic identity.
 
-However, youth culture is not entirely post-ethnic. Some cultural forms have ethnic associations. Urban slang and references sometimes carry ethnic markers. Some music artists have ethnic constituencies. Some youth communities may concentrate ethnically due to geographic clustering or social networks. Nevertheless, the overall trajectory of youth culture is toward [[multi-ethnic sharing]] and [[Cultural\ Exchange]].
+However, youth culture is not entirely post-ethnic. Some cultural forms have ethnic associations. Urban slang and references sometimes carry ethnic markers. Some music artists have ethnic constituencies. Some youth communities may concentrate ethnically due to geographic clustering or social networks. Nevertheless, the overall trajectory of youth culture is toward multi-ethnic sharing and [[Cultural\ Exchange]].
 
 ## See Also
 

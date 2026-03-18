@@ -1,6 +1,6 @@
-The assassination of Tom Mboya on July 5, 1969, was the most consequential political murder in Kenya's history. Shot dead on a Nairobi street in broad daylight, Mboya's killing eliminated the most viable alternative to Kikuyu political dominance, poisoned [[Luo/Luo-Kikuyu Relations|Luo-Kikuyu relations]] for generations, and revealed the extent to which political violence had become normalized in Kenyatta's Kenya. The official investigation blamed a lone gunman, but few Kenyans believed it. The widespread conviction that powerful figures close to Kenyatta had ordered Mboya's death became a foundational trauma in Kenyan political consciousness.
+The assassination of Tom Mboya on July 5, 1969, was the most consequential political murder in Kenya's history. Shot dead on a Nairobi street in broad daylight, Mboya's killing eliminated the most viable alternative to Kikuyu political dominance, poisoned [[Luo-Kikuyu Relations|Luo-Kikuyu relations]] for generations, and revealed the extent to which political violence had become normalized in Kenyatta's Kenya. The official investigation blamed a lone gunman, but few Kenyans believed it. The widespread conviction that powerful figures close to Kenyatta had ordered Mboya's death became a foundational trauma in Kenyan political consciousness.
 
-Tom Mboya was 38 years old when he died, already a towering figure in Kenyan politics. He had been instrumental in organizing the [[Luo/Luo Political Leadership|Luo]] labor movement in the 1950s, served as a key negotiator for independence, and held senior cabinet positions including Minister for Economic Planning and Development. Brilliant, charismatic, and internationally connected (particularly with American labor unions and the Kennedy administration), Mboya represented a modernizing, technocratic vision for Kenya that attracted support across ethnic lines.
+Tom Mboya was 38 years old when he died, already a towering figure in Kenyan politics. He had been instrumental in organizing the [[Luo Political Leadership|Luo]] labor movement in the 1950s, served as a key negotiator for independence, and held senior cabinet positions including Minister for Economic Planning and Development. Brilliant, charismatic, and internationally connected (particularly with American labor unions and the Kennedy administration), Mboya represented a modernizing, technocratic vision for Kenya that attracted support across ethnic lines.
 
 But Mboya also represented a threat. As [[Jomo Kenyatta Cabinet Formation 1963|Kenyatta]] aged in the late 1960s, the question of succession loomed. Mboya was widely seen as a potential successor, perhaps the only politician with the stature and cross-ethnic appeal to lead Kenya after Kenyatta. For the [[GEMA - Gikuyu Embu Meru Association|Kikuyu elite]] that controlled Kenyatta's administration, the prospect of a Luo president was unacceptable. They had accumulated land, businesses, and political power under Kenyatta, and they needed a Kikuyu successor to protect those gains.
 
@@ -12,7 +12,7 @@ The finger of suspicion pointed to powerful Kikuyu figures who saw Mboya as a th
 
 Kenyatta's response fueled suspicions. At Mboya's funeral, he gave a speech that seemed more concerned with managing political fallout than expressing genuine grief. He warned against ethnic violence but did nothing to address the widespread belief that government insiders had ordered the killing. [[Charles Njonjo|Charles Njonjo]], as Attorney General, ensured that investigations went nowhere near State House or the Kikuyu inner circle.
 
-The immediate aftermath was explosive. [[Luo/Luo Political Leadership|Luo]] communities erupted in grief and rage. Riots broke out in Nairobi and Kisumu. When Kenyatta visited Kisumu in October 1969 to open a hospital, the crowd turned hostile, throwing stones at the presidential motorcade. Kenyatta's security forces opened fire, killing at least 11 people in what became known as the [[Kisumu Massacre 1969|Kisumu massacre]]. Days later, Kenyatta [[Banning of KPU 1969|banned the Kenya People's Union]], detained [[Kenyatta and Oginga Odinga|Oginga Odinga]] and other KPU leaders, and effectively criminalized Luo political opposition.
+The immediate aftermath was explosive. [[Luo Political Leadership|Luo]] communities erupted in grief and rage. Riots broke out in Nairobi and Kisumu. When Kenyatta visited Kisumu in October 1969 to open a hospital, the crowd turned hostile, throwing stones at the presidential motorcade. Kenyatta's security forces opened fire, killing at least 11 people in what became known as the [[Kisumu Massacre 1969|Kisumu massacre]]. Days later, Kenyatta [[Banning of KPU 1969|banned the Kenya People's Union]], detained [[Kenyatta and Oginga Odinga|Oginga Odinga]] and other KPU leaders, and effectively criminalized Luo political opposition.
 
 Mboya's assassination had long-term consequences that extended far beyond 1969. It confirmed to the Luo community that they would be excluded from national power, that their leaders would be eliminated if they threatened Kikuyu dominance, and that justice would not be served. This sense of exclusion and betrayal would fuel Luo support for opposition politics for the next 40 years, with Oginga Odinga's son Raila Odinga inheriting the mantle of Luo political resistance.
 
@@ -25,8 +25,8 @@ Mboya's death represented the death of a certain kind of possibility in Kenyan p
 - [[Banning of KPU 1969]]
 - [[Kenyatta and Oginga Odinga]]
 - [[J.M. Kariuki]]
-- [[Luo/Luo Political Leadership]]
-- [[Luo/Luo-Kikuyu Relations]]
+- [[Luo Political Leadership]]
+- [[Luo-Kikuyu Relations]]
 - [[GEMA - Gikuyu Embu Meru Association]]
 - [[Political Patronage Kenyatta Era]]
 

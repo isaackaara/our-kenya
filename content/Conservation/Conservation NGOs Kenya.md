@@ -1,4 +1,4 @@
-Non-governmental organizations (NGOs) play a crucial role in Kenya's [[Conservation|conservation landscape]], complementing [[Kenya Wildlife Service|government efforts]] through [[Conservation|funding]], [[Technical Expertise|technical expertise]], and [[Hut Tax Implementation|program implementation]]. [[Conservation|International and local NGOs]] operate across diverse [[Conservation|conservation issues]] including [[Species Protection|species protection]], [[Habitat Restoration|habitat restoration]], [[Education Community Engagement|community engagement]], and [[Policy Advocacy|policy advocacy]].
+Non-governmental organizations (NGOs) play a crucial role in Kenya's [[Conservation|conservation landscape]], complementing [[Kenya Wildlife Service|government efforts]] through [[Conservation|funding]], technical expertise, and [[Hut Tax Implementation|program implementation]]. [[Conservation|International and local NGOs]] operate across diverse [[Conservation|conservation issues]] including species protection, habitat restoration, [[Education Community Engagement|community engagement]], and policy advocacy.
 
 ## International Conservation Organizations
 

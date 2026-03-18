@@ -13,10 +13,10 @@ The East African Community, which had collapsed in the 1970s, was revived in the
 The democratic transition that was supposed to follow the EPRDF's military victory in Ethiopia was slower and less comprehensive than international observers had hoped. The EPRDF established an authoritarian system that was arguably more efficient and more technically competent than the Mengistu regime but still maintained significant constraints on opposition and limited political competition. Kenya's accommodation with the new Ethiopian regime thus did not represent a shift toward supporting democratic governance but rather represented an adjustment to changed circumstances and a recognition that regional cooperation was necessary regardless of the ideological orientation of regional governments.
 
 ## See Also
-[[Kenya/Foreign Policy]]
+[[Foreign Policy]]
 [[Moi Foreign Policy]]
-[[Ethiopia/Political History]]
-[[East Africa/Regional Integration]]
+Political History
+[[Regional Integration]]
 [[Moi and Uganda]]
 [[Moi and Tanzania]]
 

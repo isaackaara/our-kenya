@@ -2,7 +2,7 @@ Crop farming in Kenya evolved from pre-colonial cultivation practices, through [
 
 Pre-colonial crop farming reflected adaptation to diverse agroecological zones. [[Kikuyu]] communities cultivated millet, sorghum, yams, and beans in the central highlands. The [[Luo]] grew millet, sorghum, and vegetables around Lake Victoria. Pastoral communities engaged limited cultivation, focusing on livestock but maintaining some grain production for dietary diversity and drought security. Crop varieties and techniques developed through generations of accumulated knowledge, producing crops suited to local rainfall, soil, and temperature conditions.
 
-The introduction of new crops from the Americas transformed African agriculture. [[Maize]], originating in Mesoamerica, became adopted gradually beginning in the 16th and 17th centuries. By the colonial period, maize had become a significant staple in many highland and mid-altitude zones, though not yet universally dominant. Cassava, sweet potatoes, and other American crops also entered cultivation. These crops offered higher yields in some environments and became integrated into existing agricultural systems.
+The introduction of new crops from the Americas transformed African agriculture. [[Maize Production]], originating in Mesoamerica, became adopted gradually beginning in the 16th and 17th centuries. By the colonial period, maize had become a significant staple in many highland and mid-altitude zones, though not yet universally dominant. Cassava, sweet potatoes, and other American crops also entered cultivation. These crops offered higher yields in some environments and became integrated into existing agricultural systems.
 
 Colonial agricultural policies promoted certain crops while constraining others. The establishment of export crop production created land pressure and labor demands that transformed existing cultivation patterns. As large estates developed for coffee and later [[Tea Industry History|tea]] production, many communities lost access to productive land and faced pressure to provide wage labor rather than cultivate their own fields. [[Colonial Kenya|Colonial]] agricultural extension officers promoted crops deemed economically valuable for colonial commerce, sometimes discouraging traditional crops and agricultural knowledge.
 
@@ -24,7 +24,7 @@ Environmental consequences accumulated. Soil exhaustion, reduced water availabil
 [[Land Distribution Kenya]]
 [[Smallholder Agriculture]]
 [[Environmental Art]]
-[[Green Revolution Impact]]
+Green Revolution Impact
 
 ## Sources
 

@@ -6,7 +6,7 @@ The political climate before the August 1, 1982 coup attempt was marked by risin
 
 ## See Also
 [[1982 Coup Attempt]]
-[[Presidencies/Daniel arap Moi Presidency/Moi Presidency]]
+[[Daniel arap Moi Era]]
 [[Moi Paranoia After 1982]]
 
 ## Sources

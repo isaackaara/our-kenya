@@ -19,8 +19,8 @@ By 2024, the Ruto-judiciary relationship had settled into an uneasy equilibrium.
 - [[Gen Z Kenya Political Awakening]]
 - [[Ruto Inauguration and First 100 Days]]
 - [[Uhuru Kenyatta]]
-- [[Elections/Judiciary and Electoral Justice]]
-- [[Corruption/Judicial Corruption]]
+- Judiciary and Electoral Justice
+- Judicial Corruption
 
 ## Sources
 1. "High Court blocks Kenya police deployment to Haiti," The Guardian, January 26, 2024. https://www.theguardian.com/world/2024/jan/26/kenya-court-blocks-haiti-deployment

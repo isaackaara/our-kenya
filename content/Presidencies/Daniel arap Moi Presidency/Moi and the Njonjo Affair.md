@@ -8,7 +8,7 @@ The [[1982 Coup Attempt]], launched by [[Luo]] air force officers on August 1, 1
 
 In May 1983, Moi went public. In a speech in Nakuru, he referred to an unnamed "traitor" in the cabinet who was conspiring with foreign powers to overthrow the government. The country knew immediately he meant Njonjo. A parliamentary select committee was established to investigate, led by loyalist MPs who understood their role was to destroy Njonjo, not to establish truth. The hearings were broadcast on national radio, turning Njonjo's downfall into public spectacle. Witnesses accused him of meeting with South African agents, plotting a coup, and accumulating wealth illegally. Njonjo's denials were dismissed, his legal skills useless in a forum where due process was theater.
 
-The [[Kikuyu]] elite watched in horror and silence. No prominent Kikuyu politician defended Njonjo; doing so would invite Moi's wrath. The business community, many of whom had benefited from Njonjo's patronage, distanced themselves. Even Njonjo's allies in the [[Cross-Ethnic/Kiambu Elite|Kiambu elite]], the core of Kenyatta's power base, remained silent. Moi had made an example of the one man who might have rallied Kikuyu resistance, and the message was clear: if Njonjo could be destroyed, anyone could.
+The [[Kikuyu]] elite watched in horror and silence. No prominent Kikuyu politician defended Njonjo; doing so would invite Moi's wrath. The business community, many of whom had benefited from Njonjo's patronage, distanced themselves. Even Njonjo's allies in the [[Kikuyu Political Elite|Kiambu elite]], the core of Kenyatta's power base, remained silent. Moi had made an example of the one man who might have rallied Kikuyu resistance, and the message was clear: if Njonjo could be destroyed, anyone could.
 
 The treason trial that many expected never materialized. Moi granted Njonjo a "pardon" before any formal charges were filed, a calculated act of mercy that allowed Moi to position himself as magnanimous while avoiding a trial that might reveal the flimsiness of the case. Njonjo was expelled from KANU, stripped of his parliamentary seat, and forced into political exile. He retreated to his vast estates, a broken figure who would not re-enter public life until after Moi left office two decades later.
 
@@ -19,10 +19,10 @@ The Njonjo Affair revealed Moi's political method in full clarity. He had used t
 - [[1982 Coup Attempt]]
 - [[1982 Constitution Amendment]]
 - [[Moi and the Kalenjin]]
-- [[Kikuyu/Kikuyu Elite Under Moi]]
-- [[Cross-Ethnic/Kiambu Elite]]
+- [[Kikuyu Political Elite]]
+- [[Kikuyu Political Elite]]
 - [[Detention Without Trial Under Moi]]
-- [[Corruption/Moi Era Political Patronage]]
+- Moi Era Political Patronage
 
 ## Sources
 1. Hornsby, Charles. *Kenya: A History Since Independence*. I.B. Tauris, 2012. https://www.bloomsbury.com/us/kenya-9781848858091/

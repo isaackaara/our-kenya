@@ -23,7 +23,7 @@ Gichuru died in 1982, just as Kenya was entering the most repressive phase of th
 - [[Land Policy Post-Independence]]
 - [[Coffee Economy Kenyatta Era]]
 - [[Kenyatta and Oginga Odinga]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 
 ## Sources
 1. Maxon, Robert M. *Struggle for Kenya: The Loss and Reassertion of Imperial Initiative, 1912-1923*. Fairleigh Dickinson University Press, 1993. https://www.worldcat.org/title/struggle-for-kenya/oclc/27430818

@@ -10,12 +10,12 @@ After Wamalwa's death, no Luhya figure achieved quite the same prominence in Kib
 
 ## See Also
 
-[[Michael Wamalwa Tanda Political Career]]
-[[Luhya Political Interests Kenya]]
-[[Coalition Government Dynamics]]
-[[Kibaki Cabinet and Government]]
+Michael Wamalwa Tanda Political Career
+Luhya Political Interests Kenya
+Coalition Government Dynamics
+[[Mwai Kibaki]]
 [[Kibaki and Ethnic Politics Mount Kenya Dominance]]
-[[Cross-Ethnic/ Alliances and Tensions]]
+Alliances and Tensions
 
 ## Sources
 

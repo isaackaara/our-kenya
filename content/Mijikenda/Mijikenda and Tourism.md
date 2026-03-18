@@ -33,7 +33,7 @@ Contemporary tourism in [[Mijikenda]] areas continues to grow, particularly with
 - [[Tourism Economic Social Impacts]] - Detailed analysis of economic and social effects
 - [[Mijikenda in Mombasa]] - Urban economic opportunities beyond tourism
 - [[Shimba Hills and Digo Territory]] - Coastal land and resource management
-- [[The Swahili Coast]] - Tourism and cultural representation
+- [[Swahili Coast]] - Tourism and cultural representation
 - [[Oral Traditions and History Preservation]] - Cultural commodification and authenticity
 - [[Youth and the Kaya]] - Generational impacts of tourism and modernization
 

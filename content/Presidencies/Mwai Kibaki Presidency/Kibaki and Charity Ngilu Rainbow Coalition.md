@@ -10,12 +10,12 @@ After Kibaki's 2002 election victory, the distribution of benefits to coalition 
 
 ## See Also
 
-[[Rainbow Coalition Kenya Formation]]
+Rainbow Coalition Kenya Formation
 [[Charity Ngilu Political Career]]
-[[Kamba Political Interests]]
-[[2002 Election Coalition Building]]
+Kamba Political Interests
+2002 Election Coalition Building
 [[Moi and the Opposition]]
-[[Elections/ Democracy Kenya]]
+[[Multiparty Politics]]
 
 ## Sources
 

@@ -9,7 +9,7 @@ The [Media Council Kenya], while operating as a regulatory body rather than prof
 Contemporary professional associations face challenges from journalism's changing economics and structure. Many journalists are freelancers or work in precarious employment situations without formal organizational affiliation. Digital-native outlets have different professional structures and associations compared to traditional media organizations. However, professional associations continue providing important platforms for journalist advocacy, professional development, and press freedom work. International journalism organizations and development agencies increasingly provide funding and resources supporting African journalist associations. The challenge remains ensuring that professional associations represent diverse journalism community members including precarious workers and digital journalism professionals alongside traditional newsroom-based journalists.
 
 ## See Also
-[[Journalist Code Ethics]], [[Press Club Activities]], [[Journalist Awards Recognition]], [[Media Ethics Standards]], [[Press Councils Regulation]], [[Investigative Journalism]], [[Kenya Editors Guild]]
+[[Journalist Code Ethics]], [[Press Club Activities]], [[Journalist Awards Recognition]], [[Media Ethics Standards]], [[Press Councils Regulation]], [[Investigative Journalism]], Kenya Editors Guild
 
 ## Sources
 1. https://www.kenyaeditorsgilld.or.ke/about-us/

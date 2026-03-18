@@ -47,7 +47,7 @@ The very small size of Kenya's Jain community creates challenges. Finding suitab
 - [[Ismaili Community Kenya]]
 - [[Bohra Muslim Community]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

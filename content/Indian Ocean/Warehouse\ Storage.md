@@ -21,10 +21,10 @@ The vulnerability of warehoused merchandise to catastrophic loss motivated merch
 ## See Also
 
 [[Harbor Facilities]]
-[[Merchant Commerce]]
+Merchant Commerce
 [[Port Infrastructure]]
-[[Commodity Storage]]
-[[Merchant Services]]
+Commodity Storage
+Merchant Services
 
 ## Sources
 

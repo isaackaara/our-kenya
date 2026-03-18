@@ -13,7 +13,7 @@ The 2007-2008 post-election violence demonstrated Kenya's media capacity for bre
 [[Radio Broadcasting Development]]
 [[Digital Media Shift]]
 [[Political Reporting Elections]]
-[[Technology/Broadcast Technology]]
+Broadcast Technology
 [[Online News Platforms]]
 
 ## Sources

@@ -11,7 +11,7 @@ Cash transfer methodology diversified over time. Some programs distributed cash 
 [[Livelihood Programs]]
 [[Refugee Business Opportunities]]
 [[Food Distribution Systems]]
-[[Vulnerable Populations Protection]]
+Vulnerable Populations Protection
 [[Refugee Integration]]
 [[Poverty]]
 

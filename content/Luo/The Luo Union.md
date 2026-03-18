@@ -49,7 +49,7 @@ The Union's experience also illustrates the complexities of ethnic organization 
 - [[Luo Colonial Period]]
 - [[Luo and Education]]
 - [[Jaramogi Oginga Odinga]]
-- [[../Cross-Ethnic/Ethnic Associations and Civil Society]] (hypothetical)
+- Ethnic Associations and Civil Society (hypothetical)
 ## See Also
 
 [[Siaya County|Siaya County]], [[Homa Bay County|Homa Bay County]], [[Migori County|Migori County]], [[Tom Mboya|Tom Mboya]], [[Raila Odinga|Raila Odinga]], [[Jaramogi Oginga Odinga|Oginga Odinga]], [[Grace Ogot Deep Dive|Grace Ogot]], [[Benga Music Origins|Benga Music]]

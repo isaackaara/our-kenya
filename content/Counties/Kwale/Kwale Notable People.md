@@ -23,7 +23,7 @@ Healthcare and education professionals from Kwale have served as doctors, nurses
 - [[Kwale Cultural Heritage|Kwale Cultural Heritage]]
 - [[Digo People|Digo People]]
 - [[Kwale Education|Kwale Education]]
-- [[../../Kenyan Notable People|Kenyan Notable People]]
+- Kenyan Notable People
 
 ## Sources
 

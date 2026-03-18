@@ -9,7 +9,7 @@ The effectiveness of microfinance in poverty reduction remains contested. Rigoro
 The relationship between microfinance and poverty elimination requires nuance. Microfinance can enable income generation, consumption smoothing, and business development for populations with business opportunities and adequate risk management capacity. However, microfinance cannot substitute for education, health, and social protection addressing poverty's root causes. Microfinance in isolation is insufficient for poverty elimination; it functions best as component of comprehensive development. The sector's sustainability requires attention to borrower protection, interest rate caps where needed, and complementary services addressing education, health, and social protection. Market-based microfinance, while expanding access, raises equity concerns regarding who benefits and who bears the costs of financial service provision.
 
 ## See Also
-[[Small Business Development]], [[Credit Access]], [[Mobile Money Revolution Kenya]], [[Informal Lending]], [[Financial Inclusion]], [[Poverty Measurement]], [[Women's Economic Empowerment]], [[Economic Resilience]]
+[[Small Business Development]], [[Credit Access]], [[Mobile Money Revolution Kenya]], Informal Lending, [[Financial Inclusion]], [[Poverty Measurement]], Women's Economic Empowerment, Economic Resilience
 
 ## Sources
 1. Central Bank of Kenya (2016). "Microfinance Sector Assessment and Regulatory Framework." https://www.centralbank.go.ke

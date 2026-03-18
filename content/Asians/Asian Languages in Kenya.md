@@ -1,4 +1,4 @@
-The [[Asian Kenyans|Asian]] communities in [[Kenya]] speak multiple heritage languages including [[Gujarati]] (the most dominant), [[Punjabi]], [[Hindi]], [[Kutchi]], [[Urdu]], and various others. However, the use of heritage languages has been declining, particularly among third and fourth-generation [[Asian Kenyans|Asian]] [[Kenya]]. [[English Language Films|English]] and [[Swahili]] (and to some extent [[Kenya]]'s [[African languages]]) have become the primary languages of younger [[Kenya]] of [[Asian Kenyans|Asian]] descent, while heritage languages are increasingly used only in family and community religious contexts.
+The [[Asian Kenyans|Asian]] communities in [[Kenya]] speak multiple heritage languages including Gujarati (the most dominant), Punjabi, Hindi, Kutchi, Urdu, and various others. However, the use of heritage languages has been declining, particularly among third and fourth-generation [[Asian Kenyans|Asian]] [[Kenya]]. [[English Language Films|English]] and [[Swahili]] (and to some extent [[Kenya]]'s African languages) have become the primary languages of younger [[Kenya]] of [[Asian Kenyans|Asian]] descent, while heritage languages are increasingly used only in family and community religious contexts.
 
 ## Gujarati Dominance
 
@@ -65,8 +65,8 @@ Heritage language competency is associated with cultural identity and sense of b
 - [[Asian Kenyan Youth]]
 - [[Asian Community Schools Today]]
 - [[Asian Cultural Festivals Kenya]]
-- [[Swahili language]]
-- [[Language preservation Kenya]]
+- [[Swahili Language]]
+- Language preservation Kenya
 
 ## Sources
 

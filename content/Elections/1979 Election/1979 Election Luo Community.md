@@ -18,7 +18,7 @@ The relationship between the Luo community and the government under Moi was in f
 - [[1979 Election]]
 - [[Luo]]
 - [[Oginga Odinga]]
-- [[Nyanza Province Kenya]]
+- [[Nyanza Province]]
 - [[Daniel arap Moi]]
 - [[Kenya]]
 

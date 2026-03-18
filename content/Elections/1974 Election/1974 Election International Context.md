@@ -21,7 +21,7 @@ Kenya's immigration and refugee policies had international dimensions. Kenya rec
 Tourism was an important international economic activity. Kenya's wildlife and natural beauty attracted international tourists, and tourism was a source of foreign exchange and employment. International airline connections, international hotel chains, and international tour operators were involved in Kenya's tourism industry.
 
 ## See Also
-- [[Cold War Africa]]
+- Cold War Africa
 - [[1974 Election]]
 - [[Kenya]]
 - [[East Africa]]

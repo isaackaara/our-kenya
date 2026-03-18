@@ -1,4 +1,4 @@
-The [[Kenyan Constitution (2010)|2010 constitution]] introduced devolution, creating 47 county governments with elected governors and county assemblies. This transformation decentralized power and created new sites of political competition. Kikuyu-dominated counties became centers of Kikuyu political power and resource control.
+The [[Kenya Constitution 2010|2010 constitution]] introduced devolution, creating 47 county governments with elected governors and county assemblies. This transformation decentralized power and created new sites of political competition. Kikuyu-dominated counties became centers of Kikuyu political power and resource control.
 
 ## [[Kirinyaga County|Kirinyaga County]]
 
@@ -6,7 +6,7 @@ Kirinyaga county (centered on Kerugoya) covers the easternmost Kikuyu region and
 
 - **Peter Ndambiri (2013-2017):** Ndambiri governed during the first devolution period, establishing county administration and responding to early devolution implementation challenges.
 
-- **[[Anne Waiguru]] (2017-present):** Waiguru became Kikuyu's and Kenya's first female governor when she won election in 2017. She has been re-elected, becoming a prominent political figure in Kikuyu politics. Her governorship challenged gender assumptions about leadership and demonstrated female political viability.
+- **Anne Waiguru (2017-present):** Waiguru became Kikuyu's and Kenya's first female governor when she won election in 2017. She has been re-elected, becoming a prominent political figure in Kikuyu politics. Her governorship challenged gender assumptions about leadership and demonstrated female political viability.
 
 ## [[Nyeri County|Nyeri County]]
 
@@ -72,9 +72,9 @@ This represents a significant shift from the pre-2010 period when Kikuyu politic
 
 - [[Kikuyu Post-Uhuru Politics]]
 - [[Kikuyu Sub-group Tensions]]
-- [[Anne Waiguru]]
-- [[Kenya Devolution]]
+- Anne Waiguru
+- [[Devolution Kenya]]
 - [[Kikuyu]]
-- [[Kenyan Constitution (2010)]]
+- [[Kenya Constitution 2010]]
 - [[Kikuyu Land Clashes Post-Independence]]
 

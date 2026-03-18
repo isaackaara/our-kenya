@@ -13,12 +13,12 @@ Environmental and sustainability concerns began emerging regarding Westlands dev
 ## See Also
 
 [[Nairobi CBD]]
-[[Upper Hill Development]]
+Upper Hill Development
 [[Urban Planning Development]]
 [[Commercial Building]]
 [[Development Aid]]
 [[Hurlingham Development]]
-[[Modern Urban Design]]
+Modern Urban Design
 
 ## Sources
 

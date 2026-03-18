@@ -22,7 +22,7 @@ Contemporary romance in Kenya continues evolving, with new writers addressing co
 
 ## See Also
 [[Young Adult Fiction]]
-[[Gender and Literature Kenya]]
+Gender and Literature Kenya
 [[Literature]]
 [[Literature]]
 [[Literature]]

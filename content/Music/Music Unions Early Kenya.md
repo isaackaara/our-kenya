@@ -12,7 +12,7 @@ The union's achievements were modest but significant. It successfully negotiated
 
 Women musicians faced particular challenges within union organizing. Male musicians often excluded women or treated them as secondary participants. The [[Women Performers Colonial Kenya|social stigma]] facing women performers meant that their professional interests sometimes differed from male musicians'. Some women organized separately, creating informal networks parallel to the male-dominated union.
 
-The relationship between musicians' unions and political nationalism was complex. Some union activists saw musicians' struggles as part of broader anti-colonial resistance, linking cultural and economic exploitation to political domination. Others viewed the union as strictly professional, avoiding political entanglements. The [[Elections/1963 Independence Election|transition to independence]] complicated these dynamics, with some musicians hoping the new government would protect their interests.
+The relationship between musicians' unions and political nationalism was complex. Some union activists saw musicians' struggles as part of broader anti-colonial resistance, linking cultural and economic exploitation to political domination. Others viewed the union as strictly professional, avoiding political entanglements. The [[1963 Independence Election|transition to independence]] complicated these dynamics, with some musicians hoping the new government would protect their interests.
 
 Intellectual property became a central concern. Musicians recognized that without copyright protections, they could never benefit fairly from their creativity. The union lobbied for copyright legislation that would recognize African musicians' ownership of their compositions. However, legal infrastructure for copyright remained weak even after independence.
 
@@ -32,7 +32,7 @@ The early union efforts demonstrate musicians' recognition that individual talen
 - [[The Nairobi Sound 1950s]]
 - [[Radio Voice of Kenya Origins]]
 - [[Women Performers Colonial Kenya]]
-- [[Elections/1963 Independence Election]]
+- [[1963 Independence Election]]
 - [[Jomo Kenyatta Presidency]]
 
 ## Sources

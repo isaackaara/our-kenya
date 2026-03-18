@@ -10,12 +10,12 @@ Within the Democratic Party, Kibaki represented the technocratic and internation
 
 ## See Also
 
-[[Democratic Party Kenya Formation]]
-[[Kenya Multi-Party Transition 1991]]
+Democratic Party Kenya Formation
+Kenya Multi-Party Transition 1991
 [[Moi and the Opposition]]
 [[Kibaki and the ICC]]
 [[Kikuyu]]
-[[Elections/ Democracy Kenya]]
+[[Multiparty Politics]]
 
 ## Sources
 

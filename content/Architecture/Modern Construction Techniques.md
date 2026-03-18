@@ -14,7 +14,7 @@ Contemporary sustainable construction explores hybrid approaches combining tradi
 
 ## See Also
 
-[[Traditional Building Methods]], [[Concrete Building]], [[Steel Frame Construction]], [[Industrial Building Design]], [[Residential Architecture]], [[Nairobi Built Environment]], [[Construction Materials]]
+[[Traditional Building Methods]], [[Concrete Building]], [[Steel Frame Construction]], [[Industrial Building Design]], [[Residential Architecture]], [[Nairobi Built Environment]], Construction Materials
 
 ## Sources
 

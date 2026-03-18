@@ -15,8 +15,8 @@ Contemporary persecution of minorities reflects ongoing tensions between religio
 [[Islam on the Kenya Coast]]
 [[Independent African Churches]]
 [[Inter-Faith Dialogue Modern]]
-[[Jehovah's Witnesses Impact]]
-[[Human Rights/Religious Freedom]]
+Jehovah's Witnesses Impact
+Religious Freedom
 
 ## Sources
 

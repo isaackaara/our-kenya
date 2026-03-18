@@ -14,11 +14,11 @@ The 1963 election did not resolve the status of the Asian community in post-colo
 
 - [[1963 Election Results]]
 - [[1963 Election KANU]]
-- [[Asian Community Kenya]]
-- [[Commercial Policies Kenya]]
-- [[Africanization Policies]]
-- [[Ethnic Relations Kenya]]
-- [[Minority Representation]]
+- Asian Community Kenya
+- Commercial Policies Kenya
+- Africanization Policies
+- Ethnic Relations Kenya
+- Minority Representation
 
 ## Sources
 

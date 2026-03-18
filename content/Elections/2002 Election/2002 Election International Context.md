@@ -6,9 +6,9 @@ International financial institutions, including the World Bank and IMF, signaled
 
 - [[2002 Election]]
 - [[Kamba in International Relations Kenya Trade]]
-- [[Donor influence Kenya politics]]
-- [[Post-9/11 geopolitics]]
-- [[IMF and Kenya]]
+- Donor influence Kenya politics
+- 11 geopolitics
+- [[International Monetary Fund]]
 
 ## Sources
 

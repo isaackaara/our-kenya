@@ -2,7 +2,7 @@ The [[Clove Production]] represents a distinct phase in Indian Ocean commerce wh
 
 The introduction of clove plants to Zanzibar occurred during a period when Arab merchants were establishing increasing control over East African commerce. The Omani Arab sultanate that governed Zanzibar recognized the potential for agricultural production to complement merchant trading activities. The island's tropical climate proved suitable for clove cultivation, and the success of initial plantings encouraged expansion of cultivation across both Zanzibar and the neighboring island of Pemba.
 
-The [[Plantation Slavery]] system organized clove production on Zanzibar operated at massive scale. Planters required substantial labor forces to clear land, plant cloves, and manage the intensive cultivation and harvesting processes required to maintain clove production. The dramatic increase in slave trading to Zanzibar during the 19th century reflected the growing demand for agricultural labor. The clove plantations created concentration of enslaved people in Zanzibar that exceeded any previous pattern in the region, with contemporary observers reporting tens of thousands of enslaved laborers working on estates.
+The Plantation Slavery system organized clove production on Zanzibar operated at massive scale. Planters required substantial labor forces to clear land, plant cloves, and manage the intensive cultivation and harvesting processes required to maintain clove production. The dramatic increase in slave trading to Zanzibar during the 19th century reflected the growing demand for agricultural labor. The clove plantations created concentration of enslaved people in Zanzibar that exceeded any previous pattern in the region, with contemporary observers reporting tens of thousands of enslaved laborers working on estates.
 
 The economics of clove production differed fundamentally from merchant trading. A clove planter required substantial capital to acquire land, clear vegetation, establish plantations, and support enslaved labor for several years before the first significant harvest. The capital barriers to entry meant that only wealthy merchants or rulers could participate in clove plantation development. The concentrated ownership of large estates created wealth concentration among the planter elite that contributed to political power consolidation.
 
@@ -22,7 +22,7 @@ The post-abolition period saw declining profitability of clove production as alt
 
 ## See Also
 
-[[Plantation Slavery]]
+Plantation Slavery
 [[Zanzibar Connections Kenya]]
 [[Spice Trade]]
 [[Merchant Networks]]

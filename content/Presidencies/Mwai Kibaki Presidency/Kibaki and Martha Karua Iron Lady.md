@@ -12,9 +12,9 @@ The relationship between Kibaki and Karua reflected broader tensions within his 
 
 [[Martha Karua Political Career]]
 [[Gender Pay Gap]]
-[[Corruption and Anti-Corruption Kenya]]
-[[Justice and Constitutional Reform]]
-[[Kibaki Cabinet and Government]]
+Corruption and Anti-Corruption Kenya
+Justice and Constitutional Reform
+[[Mwai Kibaki]]
 [[Women in Kenyan Politics]]
 
 ## Sources

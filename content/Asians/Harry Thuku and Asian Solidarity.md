@@ -38,7 +38,7 @@ The Thuku incident represents a brief moment when racial hierarchies might have 
 - [[Indian Traders and the Duka]]
 - [[Asians at Independence]]
 - [[Kenyan Asian Identity Today]]
-- [[Index]]
+- [[index]]
 
 ## Sources
 

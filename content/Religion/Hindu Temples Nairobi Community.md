@@ -15,8 +15,8 @@ The relationship between Hindu temples and Kenya's broader religious landscape r
 [[Religious Pluralism Independence]]
 [[Sikh Community Tolerance]]
 [[Religious Taxation Tithing]]
-[[Colonial Kenya/Indian Settlement]]
-[[Nairobi/Religious Institutions]]
+Indian Settlement
+Religious Institutions
 
 ## Sources
 

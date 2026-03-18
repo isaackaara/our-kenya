@@ -16,7 +16,7 @@ Contemporary Kenyan literature increasingly addresses religious pluralism and in
 [[Religious Opposition Colonialism]]
 [[Christianity and Colonial Missions]]
 [[Conversion Narratives Colonial]]
-[[Education/Literary Traditions]]
+Literary Traditions
 
 ## Sources
 

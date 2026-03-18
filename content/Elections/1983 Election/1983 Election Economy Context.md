@@ -4,7 +4,7 @@ Kenya's economy in 1983 was deteriorating. Inflation was rising, agricultural pr
 - [[Kenya]]
 - [[1983 Election]]
 - [[Inflation Kenya]]
-- [[Coffee Production Kenya]]
+- [[Coffee Industry Kenya]]
 - [[Kenya]]
 - [[Daniel arap Moi]]
 

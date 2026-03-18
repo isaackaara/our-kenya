@@ -21,10 +21,10 @@ Land use considerations involved tension between tobacco cultivation and food pr
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
 [[The NGO Economy]]
-[[Commodity Marketing Systems]]
+Commodity Marketing Systems
 [[Health]]
 [[Environmental Art]]
-[[Agricultural Labor Systems]]
+Agricultural Labor Systems
 
 ## Sources
 

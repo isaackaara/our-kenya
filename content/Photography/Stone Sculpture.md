@@ -7,13 +7,13 @@ Public sculpture and monumental work employ stone as primary material. Stone mon
 Contemporary Kenyan stone sculptors create work exhibited in galleries, public spaces, and international exhibitions. Stone sculpture achieves recognition as major artistic medium. The meditative and contemplative aspects of sculptural carving appeal to practitioners seeking artistic engagement. Contemporary sculptors employ both traditional carving and innovative techniques including pneumatic tools and digital design. Stone sculpture requires significant physical engagement and skill development. Contemporary Kenyan stone sculptors maintain and advance sculptural traditions while contributing to contemporary art discourse. Stone sculpture remains vital artistic practice within Kenya's visual culture.
 
 ## See Also
-- [[Sculpture Practice Kenya]]
+- [[Cultural Heritage]]
 - [[Public Art]]
-- [[Carving Techniques and Materials]]
+- Carving Techniques and Materials
 - [[Abstract Art]]
-- [[Architectural Sculpture]]
-- [[Contemporary Sculpture Practice]]
-- [[Material and Form in Sculpture]]
+- Architectural Sculpture
+- Contemporary Sculpture Practice
+- Material and Form in Sculpture
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Stone_sculpture - Stone Sculpture History

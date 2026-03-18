@@ -7,13 +7,13 @@ Contemporary metalwork jewelry encompasses commercial jewelry production and fin
 Professional metalwork jewelers work in studios with specialized tools and equipment. Metalsmithing requires technical skill developed through training and practice. Contemporary jewelers employ traditional techniques alongside contemporary approaches and materials. The commercialization of jewelry creates market opportunities while art jewelry markets remain specialized. Contemporary Kenyan metalwork jewelers create sophisticated work serving aesthetic, commercial, and artistic functions. Metalwork jewelry remains vital practice within Kenya's artistic and commercial landscape. The enduring significance of jewelry reflects human desires for adornment and artistic expression.
 
 ## See Also
-- [[Metalsmithing Techniques]]
-- [[Material Properties and Jewelry]]
-- [[Precious Metal Working]]
-- [[Contemporary Jewelry Art]]
-- [[Functional Adornment]]
-- [[Cultural Jewelry Forms]]
-- [[Commercial and Fine Art Jewelry]]
+- Metalsmithing Techniques
+- Material Properties and Jewelry
+- Precious Metal Working
+- Contemporary Jewelry Art
+- Functional Adornment
+- Cultural Jewelry Forms
+- Commercial and Fine Art Jewelry
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Jewelry - Jewelry History

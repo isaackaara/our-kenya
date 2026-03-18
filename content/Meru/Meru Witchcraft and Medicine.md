@@ -4,7 +4,7 @@ title: Meru Witchcraft, Healing, and Traditional Medicine
 
 # Meru Witchcraft and Medicine: Healers, Accusations, and Coexistence
 
-The Meru understanding of [[illness]], [[misfortune]], and [[health]] involves both [[naturalistic]] and [[supernatural explanations]]. [[Traditional Healers Medical]] (mondo mue) played (and continue to play) important roles in managing illness and social harm.
+The Meru understanding of illness, misfortune, and [[Health]] involves both naturalistic and supernatural explanations. [[Traditional Healers Medical]] (mondo mue) played (and continue to play) important roles in managing illness and social harm.
 
 ## The Mondo Mue (Traditional Healer)
 

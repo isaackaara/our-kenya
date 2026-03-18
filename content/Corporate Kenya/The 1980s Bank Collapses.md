@@ -1,4 +1,4 @@
-In the 1980s and early 1990s, [[Kenya]] experienced a series of [[bank failures Kenya|bank failures]] that devastated [[depositors Kenya|depositors]], undermined [[confidence Kenya|confidence]] in the [[banking system Kenya|banking system]], and exposed the weaknesses of the [[Central Bank of Kenya|Central Bank]]'s [[supervisory capacity Kenya|supervisory capacity]]. The collapses included [[Continental Bank]], [[Trade Bank]], [[Euro Bank]], and others. These failures were driven by [[poor credit decisions Kenya|poor credit decisions]], [[insider lending Kenya|insider lending]], [[fraud Kenya|fraud]], and [[macroeconomic deterioration Kenya|macroeconomic deterioration]].
+In the 1980s and early 1990s, [[Kenya]] experienced a series of bank failures that devastated depositors, undermined confidence in the banking system, and exposed the weaknesses of the [[Central Bank of Kenya|Central Bank]]'s supervisory capacity. The collapses included Continental Bank, Trade Bank, Euro Bank, and others. These failures were driven by poor credit decisions, insider lending, fraud, and macroeconomic deterioration.
 
 ## The Collapses
 
@@ -61,10 +61,10 @@ These lessons influenced Kenya's banking regulation through the subsequent decad
 
 - [[Banking History Kenya]]
 - [[Central Bank of Kenya]]
-- [[Financial System Stability Kenya]]
-- [[Regulatory Framework Kenya]]
-- [[Economic Crisis Kenya]]
-- [[Depositor Protection Kenya]]
+- Financial System Stability Kenya
+- Regulatory Framework Kenya
+- Economic Crisis Kenya
+- Depositor Protection Kenya
 - [[Financial Regulation Kenya]]
 
 ## Sources

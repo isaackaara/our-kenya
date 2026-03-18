@@ -7,13 +7,13 @@ The colonial government and military operations required film processing facilit
 From the 1960s onward, commercial film labs serving photographers and the public became common in Nairobi, with several established operations offering multiple services including development, printing, enlargements, and specialized services like color processing. These labs provided critical services enabling both professional and amateur photography. The expertise and quality of available lab services influenced what kinds of photography were feasible and how photographers worked. Digital technology has largely displaced professional film labs, though some remain in operation serving photographers who maintain film-based practice. The loss of film processing infrastructure represents a significant transition in Kenya's photographic ecology.
 
 ## See Also
-- [[Professional Photography Infrastructure]]
+- Professional Photography Infrastructure
 - [[Technology]]
-- [[Chemical Processes Photography]]
-- [[Urban Service Economies]]
-- [[Professional Development Services]]
+- Chemical Processes Photography
+- Urban Service Economies
+- Professional Development Services
 - [[Studio Photography]]
-- [[Digital Transition Photography]]
+- Digital Transition Photography
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Photographic_film - Film Development Chemistry

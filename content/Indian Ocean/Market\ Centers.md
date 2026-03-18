@@ -1,4 +1,4 @@
-The [[Market Centers]] that developed in major Indian Ocean ports represented focal points for merchant activity where diverse traders gathered to conduct commerce. The specialized locations where particular commodities were traded created economic hubs where merchants could access both suppliers and customers. The development of distinctive market centers reflected specialization and merchant organization. The reputation of particular markets for specific commodities attracted merchant participation.
+The Market Centers that developed in major Indian Ocean ports represented focal points for merchant activity where diverse traders gathered to conduct commerce. The specialized locations where particular commodities were traded created economic hubs where merchants could access both suppliers and customers. The development of distinctive market centers reflected specialization and merchant organization. The reputation of particular markets for specific commodities attracted merchant participation.
 
 The organization of market centers reflected regulations and customary practices that minimized disputes. The assignment of specific locations for different commodity types allowed merchants with common interests to congregation. The concentration of spice merchants in particular market areas created communities of specialists. The geographic proximity of merchants dealing with similar commodities facilitated information sharing and competition.
 
@@ -22,9 +22,9 @@ The evolution of market centers reflected changing merchant preferences and econ
 
 [[Port Infrastructure]]
 [[Merchant Networks]]
-[[Commodity Trading]]
-[[Commercial Regulation]]
-[[Urban Commerce]]
+Commodity Trading
+Commercial Regulation
+Urban Commerce
 
 ## Sources
 

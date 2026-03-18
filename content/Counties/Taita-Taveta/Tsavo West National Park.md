@@ -26,7 +26,7 @@ Conservation initiatives in Tsavo West have focused on biodiversity protection, 
 - [[Tsavo Man-Eaters]]
 - [[Chyulu Hills]]
 - [[Conservation]]
-- [[National Parks Kenya]]
+- [[Protected Areas Kenya]]
 - [[Kilimanjaro View from Amboseli]]
 
 ## Sources

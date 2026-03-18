@@ -25,10 +25,10 @@ External debt increased substantially during Kibaki's presidency as the governme
 ## See Also
 
 - [[Mwai Kibaki Presidency|Mwai Kibaki Presidency]]
-- [[Kenya Free Primary Education|Kenya Free Primary Education]]
-- [[Kenya Infrastructure Development|Kenya Infrastructure Development]]
-- [[Kenya Telecommunications Expansion|Kenya Telecommunications Expansion]]
-- [[Kenya Poverty and Inequality|Kenya Poverty and Inequality]]
+- Kenya Free Primary Education
+- Kenya Infrastructure Development
+- Kenya Telecommunications Expansion
+- Kenya Poverty and Inequality
 
 ## Sources
 

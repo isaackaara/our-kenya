@@ -46,9 +46,9 @@ Banks in Kenya are supposed to conduct due diligence on customers and to report 
 
 - [[Goldenberg Scandal]]
 - [[Kamlesh Pattni and Goldenberg]]
-- [[Offshore Financial Centers]]
+- Offshore Financial Centers
 - [[Asset Recovery Kenya]]
-- [[Trade Mispricing and IFFs]]
+- Trade Mispricing and IFFs
 - [[Impunity Culture]]
 - [[Moi Era Corruption Economy]]
 

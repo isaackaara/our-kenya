@@ -7,8 +7,8 @@ Uhuru Kenyatta and William Ruto won the election amid ICC indictment challenges 
 The election demonstrated both constitutional institutional strength and persistent ethnic voting patterns.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

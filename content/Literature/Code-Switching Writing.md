@@ -19,8 +19,8 @@ Contemporary code-switching writing continues to evolve, with younger writers ex
 - [[Swahili Literary Tradition]]
 - [[Kikuyu Writers Works]]
 - [[Postcolonial Literature Movement]]
-- [[Contemporary Urban Culture]]
-- [[Youth Culture Expression]]
+- Contemporary Urban Culture
+- Youth Culture Expression
 - [[Digital Literary Platforms]]
 
 ## Sources

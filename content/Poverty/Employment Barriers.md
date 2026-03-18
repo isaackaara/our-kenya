@@ -9,7 +9,7 @@ Discrimination creates employment barriers despite legal prohibitions. Ethnic di
 Structural job creation limitations reflect economic conditions. Kenya's formal economy grows approximately 5-6 percent annually; this generates insufficient job creation to absorb workforce growth. New jobs created are often in demanding sectors (finance, IT); they are inaccessible to those with limited education. Public sector employment has contracted due to fiscal constraints; limited new positions are filled. Private sector job creation is concentrated in large firms; small business employment is limited. The result is insufficient formal employment for job-seeking populations; unemployment remains despite job creation. Fundamental employment access requires economic growth sufficient to create jobs accessible to poor populations, combined with elimination of discriminatory barriers.
 
 ## See Also
-[[Unemployment]], [[Formal Sector Employment]], [[Informal Sector]], [[Education Access]], [[Skills Training]], [[Job Market]], [[Labor Rights Awareness]], [[Tharaka Economic Development]]
+[[Unemployment]], Formal Sector Employment, [[Informal Sector]], [[Education Access]], Skills Training, Job Market, [[Labor Rights Awareness]], [[Tharaka Economic Development]]
 
 ## Sources
 1. International Labour Organization (2019). "Kenya Employment Barriers and Labor Market Assessment." https://www.ilo.org

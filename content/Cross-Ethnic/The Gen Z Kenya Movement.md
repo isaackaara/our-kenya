@@ -1,4 +1,4 @@
-The [[Kikuyu and the Finance Bill 2024]] protests, organized primarily by [[Gen Z]] Kenyans through [[social media]], demonstrated notable [[cross-ethnic mobilization]] capacity among younger Kenyans. Young Kenyans from diverse ethnic backgrounds organized collectively to oppose government financial policies, suggesting that shared concerns around economic justice and governmental accountability can transcend ethnic boundaries for this generation.
+The [[Kikuyu and the Finance Bill 2024]] protests, organized primarily by [[Gen Z Kenya]] Kenyans through social media, demonstrated notable cross-ethnic mobilization capacity among younger Kenyans. Young Kenyans from diverse ethnic backgrounds organized collectively to oppose government financial policies, suggesting that shared concerns around economic justice and governmental accountability can transcend ethnic boundaries for this generation.
 
 The Finance Bill of 2024 proposed tax increases on various economic activities and was broadly perceived as economically regressive and inimical to young people's economic interests. Young Kenyans, facing high unemployment rates, expensive education, and limited economic opportunities, perceived the bill as threatening their limited economic resources. The Finance Bill galvanized youth across ethnic lines around a shared economic grievance.
 
@@ -17,8 +17,8 @@ However, the degree to which the Gen Z movement represents a durable shift away 
 - [[Social Media and Identity]]
 - [[Youth Culture Kenya]]
 - [[Digital Communities Kenya]]
-- [[Cross-Ethnic Political Mobilization]]
-- [[Economic Justice and Generation]]
+- Cross-Ethnic Political Mobilization
+- Economic Justice and Generation
 - [[TikTok Kenya]]
 
 ## Sources

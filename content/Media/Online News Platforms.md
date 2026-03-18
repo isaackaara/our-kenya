@@ -12,9 +12,9 @@ Online news platforms enabled rapid distribution of breaking news and real-time 
 [[Digital Media Shift]]
 [[Print Journalism Digital]]
 [[Social Media Kenya]]
-[[Technology/Internet Development Kenya]]
+[[Digital Economy Kenya]]
 [[Media Democratization]]
-[[Misinformation/Fact Checking]]
+Fact Checking
 
 ## Sources
 1. https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/kenya

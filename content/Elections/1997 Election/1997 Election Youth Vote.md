@@ -1,4 +1,4 @@
-Kenya's youth voters in 1997 (primarily voters aged 18-35) exhibited more opposition sympathy and skepticism toward [[Moi]] than their elder counterparts, yet the structural barriers preventing opposition victory extended to the youth electorate. While precise voting data disaggregated by age are not available from official electoral commission sources, anecdotal evidence, exit polls, and qualitative studies conducted during and after the 1997 election suggest that youth voters showed stronger support for opposition candidates (particularly [[Taita]]'s NDP and [[Kibaki]]'s Democratic Party) and less support for Moi's KANU than the electorate as a whole.
+Kenya's youth voters in 1997 (primarily voters aged 18-35) exhibited more opposition sympathy and skepticism toward [[Daniel arap Moi Era]] than their elder counterparts, yet the structural barriers preventing opposition victory extended to the youth electorate. While precise voting data disaggregated by age are not available from official electoral commission sources, anecdotal evidence, exit polls, and qualitative studies conducted during and after the 1997 election suggest that youth voters showed stronger support for opposition candidates (particularly [[Taita]]'s NDP and [[Mwai Kibaki]]'s Democratic Party) and less support for Moi's KANU than the electorate as a whole.
 
 The generational divide reflected different political socialization experiences. Youth voters coming of age after the transition to multipartyism in 1991 had experienced Moi's rule only in its declining phase, when economic crisis had deepened, when opposition voices had become more prominent in the media and in public discourse, and when the limitations of one-party rule had become visible even to those born after independence. Many youth voters had attended schools and universities where opposition-leaning intellectuals and activists circulated ideas, where student organizations had become sites of opposition organizing, and where questions about democracy, governance, and economic justice had become central to educational discourse.
 
@@ -18,9 +18,9 @@ The marginalization of youth-specific politics in 1997 would be partially addres
 
 - [[1997 Election]]
 - [[Kenyan Hip-Hop]]
-- [[Urban politics in Kenya]]
+- Urban politics in Kenya
 - [[Unemployment]]
-- [[2002 Election youth]]
+- [[2002 Election Youth]]
 - [[2007 Election]]
 
 ## Sources

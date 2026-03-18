@@ -15,10 +15,10 @@ The 1969 election thus reinforced patterns of female political marginalization t
 - [[1969 Election]]
 - [[Women]]
 - [[Gender Pay Gap]]
-- [[Female Leadership Kenya]]
+- Female Leadership Kenya
 - [[Women]]
-- [[Gender Discrimination Kenya]]
-- [[Political Marginalization]]
+- Gender Discrimination Kenya
+- Political Marginalization
 
 ## Sources
 

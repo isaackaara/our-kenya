@@ -1,6 +1,6 @@
 The cultural heritage of Taita-Taveta County reflects the distinctive traditions, practices, and artistic expressions of the [[Taita People County|Taita people]] and other groups inhabiting the region. Taita culture is characterized by rich oral traditions, distinctive architectural styles, intricate beadwork and textile patterns, and specialized farming techniques developed over centuries of agricultural practice in the mountain environment. The cultural heritage remains central to Taita identity and represents valuable knowledge systems developed through long engagement with the mountain ecosystem.
 
-The language heritage of Taita-Taveta is linguistically significant. The [[Taita language]] (Kitaita) is a Bantu language distinct from neighbouring languages. The language encodes cultural knowledge and worldviews specific to the Taita people. However, the language faces pressure from increased use of Swahili and English in schools and commerce, with younger generations increasingly adopting these languages preferentially. Language preservation initiatives have been undertaken by cultural organizations and some educational institutions.
+The language heritage of Taita-Taveta is linguistically significant. The [[Taita Language]] (Kitaita) is a Bantu language distinct from neighbouring languages. The language encodes cultural knowledge and worldviews specific to the Taita people. However, the language faces pressure from increased use of Swahili and English in schools and commerce, with younger generations increasingly adopting these languages preferentially. Language preservation initiatives have been undertaken by cultural organizations and some educational institutions.
 
 The artistic traditions of the Taita people include distinctive forms of music, dance, and visual arts. Traditional music employs various percussion instruments and drums, with rhythmic patterns and musical forms distinctive to Taita culture. Dances are performed at celebrations, rites of passage, and community gatherings, each with specific movements and social meanings. Beadwork among Taita women involves intricate patterns and designs, with specific colour combinations and designs signifying social status and occasion.
 
@@ -20,7 +20,7 @@ The commercialization of tourism has created new pressures and opportunities for
 - [[Taita People County]]
 - [[Taita-Taveta County]]
 - [[Taita]]
-- [[Traditional Arts Kenya]]
+- Traditional Arts Kenya
 - [[Cultural Heritage]]
 - [[Oral Traditions and History Preservation]]
 - [[East Africa]]

@@ -8,9 +8,9 @@ Sports fandom creates communities of supporters transcending ethnic boundaries. 
 
 The athletics sector, while historically rooted in particular regions, has expanded to include participants from all ethnic groups. Marathon, middle-distance, and sprinting athletes come from diverse backgrounds. Athletics associations and teams operate as cross-ethnic institutions. The international visibility of Kenyan athletics creates national pride transcending ethnic boundaries.
 
-Sports also provide economic opportunities and mobility. Athletes from disadvantaged backgrounds can use [[sports]] success to achieve upward mobility. The economic value of sporting success creates incentives for collaboration across ethnic lines. Coaching, team management, and sports administration operate as cross-ethnic professional fields.
+Sports also provide economic opportunities and mobility. Athletes from disadvantaged backgrounds can use [[Sports]] success to achieve upward mobility. The economic value of sporting success creates incentives for collaboration across ethnic lines. Coaching, team management, and sports administration operate as cross-ethnic professional fields.
 
-However, sports is not entirely post-ethnic. Some sports have ethnic associations. Violence at sports events can acquire ethnic dimensions. [[football]] rivalries sometimes manifest ethnic undertones. The intersection of sports with nationalism and political identity means that sports cannot completely escape ethnic considerations. Nevertheless, [[sports]] remains an important arena of [[cross-ethnic cooperation]] and bonding.
+However, sports is not entirely post-ethnic. Some sports have ethnic associations. Violence at sports events can acquire ethnic dimensions. football rivalries sometimes manifest ethnic undertones. The intersection of sports with nationalism and political identity means that sports cannot completely escape ethnic considerations. Nevertheless, [[Sports]] remains an important arena of cross-ethnic cooperation and bonding.
 
 ## See Also
 
@@ -19,7 +19,7 @@ However, sports is not entirely post-ethnic. Some sports have ethnic association
 - [[The Running Phenomenon]]
 - [[Kenya]]
 - [[Sports]]
-- [[Team Sports and Social Integration]]
+- Team Sports and Social Integration
 
 ## Sources
 

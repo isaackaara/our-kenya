@@ -12,7 +12,7 @@ GEMA also served a political function. In the early 1970s, as [[Kenyatta and Dan
 
 The movement failed, partly because Kenyatta himself refused to openly endorse it and partly because it was too transparently an ethnic power grab. But GEMA's willingness to mobilize ethnically and to challenge constitutional procedures revealed the organization's true nature: it was not a cultural association but a political bloc defending Kikuyu hegemony.
 
-GEMA's influence created deep resentment among other ethnic groups. [[Luo/Luo Political Leadership|Luo leaders]] saw it as the institutionalization of the marginalization they had experienced since [[Kenyatta and Oginga Odinga|Odinga's]] ouster. Kalenjin, Luhya, and Kamba politicians watched as GEMA members accumulated land, businesses, and government positions while their own communities were left behind. This resentment would explode in the early Moi era, when GEMA's power was deliberately dismantled.
+GEMA's influence created deep resentment among other ethnic groups. [[Luo Political Leadership|Luo leaders]] saw it as the institutionalization of the marginalization they had experienced since [[Kenyatta and Oginga Odinga|Odinga's]] ouster. Kalenjin, Luhya, and Kamba politicians watched as GEMA members accumulated land, businesses, and government positions while their own communities were left behind. This resentment would explode in the early Moi era, when GEMA's power was deliberately dismantled.
 
 After Kenyatta's death in 1978, GEMA became a liability for its members. Moi, determined to break Kikuyu dominance, targeted GEMA leaders for political harassment. Njenga Karume was sidelined. [[Charles Njonjo|Charles Njonjo]], who had protected GEMA legally, fell from power in 1983. The organization itself was banned in 1980, though its economic networks persisted informally.
 
@@ -25,7 +25,7 @@ GEMA's legacy is the blueprint for ethnic political organization in Kenya. It de
 - [[Political Patronage Kenyatta Era]]
 - [[Kenyatta and Daniel arap Moi as VP]]
 - [[Kenyatta Family Land Acquisitions]]
-- [[Kikuyu/Kikuyu Business Elite]]
+- [[Kikuyu Business Elite]]
 - [[Kenyatta Era Corruption]]
 
 ## Sources

@@ -15,7 +15,7 @@ The trajectory of Wamwere's resistance—from initial detention in 1982 through 
 ## See Also
 [[Moi Detention Policy]]
 [[Moi and Human Rights]]
-[[Kenya/Multiparty Transition]]
+[[Multiparty Transition]]
 [[Nyayo House Torture Chambers]]
 [[Detention Without Trial Under Moi]]
 [[Moi and the Opposition]]

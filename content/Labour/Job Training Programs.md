@@ -15,7 +15,7 @@ Integration with the broader labor market remained inconsistent. Many trainees f
 - [[Youth Employment]]
 - [[Worker Education]]
 - [[Professional Development]]
-- [[Labour Education]]
+- Labour Education
 
 ## Sources
 1. https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/publication/wcms_646810.pdf

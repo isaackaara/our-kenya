@@ -14,12 +14,12 @@ The affordable housing levy remained one of the clearest examples of the gap bet
 
 ## See Also
 - [[Finance Bill 2023 Kenya]]
-- [[Ruto and Affordable Housing - Stalled Programme]]
+- Ruto and Affordable Housing - Stalled Programme
 - [[Ruto and the Judiciary]]
 - [[Ruto Economic Blueprint - Bottom-Up Economics]]
 - [[Finance Bill 2024 and Gen Z Uprising]]
 - [[Gen Z Kenya Political Awakening]]
-- [[Corruption/Affordable Housing Scandal]]
+- Affordable Housing Scandal
 
 ## Sources
 1. "Supreme Court upholds affordable housing levy with conditions," The Star, July 26, 2024. https://www.the-star.co.ke/news/2024-07-26-supreme-court-upholds-housing-levy/

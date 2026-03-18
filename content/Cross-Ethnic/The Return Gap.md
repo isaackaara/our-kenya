@@ -1,4 +1,4 @@
-The moment an [[urban-born Kenyan]], especially one raised primarily in [[English]] and [[Swahili]], steps out of a [[Watamu]] at the family shamba for a funeral or Christmas holiday, they experience a dissonance that has no name in English but is intimately familiar to millions across the continent. They are among their own people, speaking their own language, yet they are profoundly foreign.
+The moment an urban-born Kenyan, especially one raised primarily in English and [[Swahili]], steps out of a [[Watamu]] at the family shamba for a funeral or Christmas holiday, they experience a dissonance that has no name in English but is intimately familiar to millions across the continent. They are among their own people, speaking their own language, yet they are profoundly foreign.
 
 ## The Common Experience
 
@@ -28,7 +28,7 @@ Land succession and inheritance ceremonies also require knowledge. When an elder
 
 This is perhaps the deepest gap. In many Kenyan traditions, land passes patrilineally through sons who know the land and have maintained a connection to it. The son who has spent time on the family plot, who understands which areas are good for crops and which are rocky, who has done the work of maintaining boundaries and marking important sites, has cultivated a stronger claim than the son who left for the city and never came back.
 
-An [[urban professional]] who arrives in the village to attend a funeral and discovers that the family land is being divided may find that the rural brother (or uncle, or cousin) has cultivated a stronger claim through decades of presence and work. The urban professional may have more money, more education, more status in the city, but they have less claim to the family land. The irony is not lost on either party.
+An urban professional who arrives in the village to attend a funeral and discovers that the family land is being divided may find that the rural brother (or uncle, or cousin) has cultivated a stronger claim through decades of presence and work. The urban professional may have more money, more education, more status in the city, but they have less claim to the family land. The irony is not lost on either party.
 
 This matters materially. It matters as identity. For a Kikuyu person, especially, the githaka (the ancestral land) is the foundation of identity. To have no claim to the family land is to be cut off from the past and the future, to be in a kind of suspended state, belonging to no place permanently.
 
@@ -43,7 +43,7 @@ The "big person from Nairobi" is simultaneously resented and needed. Resented be
 - [[The Nairobi Generation]]
 - [[Urban Migration Ethnic Displacement]]
 - [[Luo Language]]
-- [[Inheritance and Identity]]
+- Inheritance and Identity
 - [[The Third Culture Kenyan]]
 
 ## Sources

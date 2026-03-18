@@ -10,12 +10,12 @@ The relationship between credit ratings and development outcomes is complex. Whi
 
 ## See Also
 
-[[Kenya's International Standing]]
-[[Credit Markets and Emerging Markets]]
-[[Macroeconomic Policy Kenya]]
+Kenya's International Standing
+Credit Markets and Emerging Markets
+Macroeconomic Policy Kenya
 [[Kibaki Economic Record]]
-[[International Finance and Development]]
-[[Global Economic Integration Kenya]]
+International Finance and Development
+Global Economic Integration Kenya
 
 ## Sources
 

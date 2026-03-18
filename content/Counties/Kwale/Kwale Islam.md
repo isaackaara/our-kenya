@@ -19,9 +19,9 @@ Post-independence Kenya has seen increasing emphasis on Islamic education and pr
 - [[Digo People|Digo People]]
 - [[Kwale County|Kwale County Overview]]
 - [[Kwale Cultural Heritage|Kwale Cultural Heritage]]
-- [[../../Swahili Islam|Swahili Islam]]
+- Swahili Islam
 - [[Kilifi Islam|Kilifi Islam]]
-- [[../../Arab Trade|Arab Trade Networks]]
+- [[Merchant Networks|Arab Trade Networks]]
 
 ## Sources
 

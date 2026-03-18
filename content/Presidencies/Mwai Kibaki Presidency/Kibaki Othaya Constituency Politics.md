@@ -12,10 +12,10 @@ However, Kibaki's focus on the presidency and national politics inevitably reduc
 
 [[Gem Constituency]]
 [[Gem Constituency]]
-[[Nyeri District Politics]]
-[[Mount Kenya Region Politics]]
+Nyeri District Politics
+Mount Kenya Region Politics
 [[Kibaki and the ICC]]
-[[Representation and Patronage Kenya]]
+Representation and Patronage Kenya
 
 ## Sources
 

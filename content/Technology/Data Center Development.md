@@ -10,7 +10,7 @@ Environmental considerations emerged as data center expansion proceeded. Power c
 
 ## See Also
 
-[[Internet Connectivity Progress]], [[Cloud Computing Adoption]], [[Renewable Energy Tech]], [[Cybersecurity]], [[Technology]], [[Environmental Art]]
+[[Internet Connectivity Progress]], [[Cloud Computing Adoption]], [[Renewable Energy Tech]], Cybersecurity, [[Technology]], [[Environmental Art]]
 
 ## Sources
 

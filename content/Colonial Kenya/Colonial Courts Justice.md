@@ -17,7 +17,7 @@ By the 1950s, growing African nationalism and international human rights pressur
 [[Colonial Police Force]]
 [[District Commissioner Role]]
 [[Colonial Racial Discrimination]]
-[[Colonial Law Enforcement]]
+Colonial Law Enforcement
 [[Kipande System Control]]
 [[Colonial Native Reserves]]
 

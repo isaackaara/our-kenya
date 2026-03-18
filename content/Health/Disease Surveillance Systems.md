@@ -49,7 +49,7 @@ Surveillance for occupational and environmental diseases is minimal, despite sig
 [[Public Health Communication]]
 [[Healthcare Policy Evolution]]
 [[Hospital Infrastructure Standards]]
-[[Communicable Disease Control]]
+Communicable Disease Control
 
 ## Sources
 1. Kenya Ministry of Health Integrated Disease Surveillance and Response Strategy (2013), https://www.health.go.ke/

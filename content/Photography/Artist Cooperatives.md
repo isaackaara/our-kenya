@@ -8,12 +8,12 @@ Artist cooperatives have developed across Kenya's major cities including Nairobi
 
 ## See Also
 - [[Artist Associations]]
-- [[Cooperative Economics]]
-- [[Shared Studio Spaces]]
-- [[Collective Exhibition Models]]
+- Cooperative Economics
+- Shared Studio Spaces
+- Collective Exhibition Models
 - [[support]]
 - [[Moi and the Luo Community]]
-- [[Economic Alternatives Art]]
+- Economic Alternatives Art
 
 ## Sources
 1. https://en.wikipedia.org/wiki/Artist_cooperative - Artist Cooperatives

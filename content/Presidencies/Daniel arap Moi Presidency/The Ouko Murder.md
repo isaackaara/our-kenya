@@ -24,8 +24,8 @@ The Ouko murder case remained unresolved long after Moi left office. Subsequent 
 
 - [[Daniel arap Moi Presidency|Daniel arap Moi Presidency]]
 - [[Moi Cabinet and Loyalists|Moi Cabinet and Loyalists]]
-- [[Kenya Judicial System|Kenya Judicial System]]
-- [[Kenya Rule of Law|Kenya Rule of Law]]
+- Kenya Judicial System
+- [[Kenya Constitution 2010|Kenya Rule of Law]]
 - [[Robert Ouko|Robert Ouko]]
 
 ## Sources

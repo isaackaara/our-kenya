@@ -22,7 +22,7 @@ The 1974 election received substantial newspaper coverage, but this coverage ope
 - [[KANU Party]]
 - [[Media]]
 - [[Kenya]]
-- [[Press Kenya Independence]]
+- Press Kenya Independence
 
 ## Sources
 1. Mytton, Graham. "Mass Communication in Africa." Arnold Publishers, 1983.

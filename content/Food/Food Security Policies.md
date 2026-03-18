@@ -22,8 +22,8 @@ By century's end, food security policies remained central to government agricult
 [[Nutrition Programs]]
 [[Food Aid Programs]]
 [[Agricultural Research]]
-[[Health/Malnutrition and Food Security]]
-[[Poverty/Food Insecurity and Vulnerability]]
+Malnutrition and Food Security
+Food Insecurity and Vulnerability
 
 ## Sources
 

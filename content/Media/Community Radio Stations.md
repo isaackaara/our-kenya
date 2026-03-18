@@ -13,8 +13,8 @@ Community radio represented important components of Kenya's media landscape by s
 [[Media Democratization]]
 [[Vernacular Radio Expansion]]
 [[Kenya Broadcasting Early]]
-[[Community/Grassroots Movements]]
-[[Development/Local Communities]]
+Grassroots Movements
+Local Communities
 
 ## Sources
 1. https://theconversation.com/how-community-radio-has-contributed-to-building-peace-a-kenyan-case-study-141622

@@ -49,7 +49,7 @@ This vertical documents the history, communities, and contributions of South Asi
 - [[Africanisation and Asian Business]]
 - [[Asians who Stayed]]
 - [[Idi Amin's Expulsion of Ugandan Asians]]
-- [[Idi Amin Expulsion Effects on Kenya]]
+- Idi Amin Expulsion Effects on Kenya
 - [[1967 Trade Licensing Act]]
 - [[Asian Property Losses Kenya]]
 - [[Asians Who Left for Britain]]

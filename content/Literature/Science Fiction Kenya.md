@@ -23,13 +23,13 @@ Women science fiction writers contributed distinctive perspectives, with female 
 Contemporary Kenyan science fiction reflects increasing engagement with technology as fundamental dimension of Kenyan life. The genre's development demonstrates literature's capacity to address technological transformation and speculative engagement with possible futures.
 
 ## See Also
-[[Technology and Literature Kenya]]
-[[Speculative Fiction Africa]]
+Technology and Literature Kenya
+Speculative Fiction Africa
 [[Luo Futures]]
 [[Environmental Literature]]
-[[Gender and Science Fiction]]
+Gender and Science Fiction
 [[Digital Art]]
-[[Genre Fiction Africa]]
+Genre Fiction Africa
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Science fiction publishing in East Africa

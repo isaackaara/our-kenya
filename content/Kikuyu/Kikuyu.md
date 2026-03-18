@@ -110,7 +110,7 @@ The story did not end with *uhuru*. Political power, land, and economic inequali
 
 ## See Also
 
-- [[Kenya History Overview]]
+- Kenya History Overview
 - [[Kenyan Hip-Hop]]
 - [[Nairobi History]]
 - [[Kenya Independence]]

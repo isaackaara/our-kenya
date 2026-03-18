@@ -7,12 +7,12 @@ The graphic design industry expanded significantly from the 1970s onward as adve
 The transition from analog to digital design tools from the 1990s onward transformed graphic design practice. Digital design software enabled new creative possibilities and greater efficiency. Designers shifted from hand-drawn work and darkroom techniques to computer-based design. Software skills became essential professional competencies. The digital transition democratized design tools making them accessible to more practitioners while also requiring continuous skill development as tools evolved. Contemporary graphic designers navigate digital tools while maintaining design principles and creative vision. The graphic design industry continues evolving with technological change and expanding professional opportunities.
 
 ## See Also
-- [[Design Education Kenya]]
+- Design Education Kenya
 - [[Advertising Industry]]
-- [[Visual Communication]]
-- [[Typography Design]]
-- [[Branding and Identity Design]]
-- [[Professional Design Practice]]
+- Visual Communication
+- Typography Design
+- Branding and Identity Design
+- Professional Design Practice
 - [[Digital Art]]
 
 ## Sources

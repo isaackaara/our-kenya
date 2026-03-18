@@ -28,4 +28,4 @@ The detention system, "the Pipeline", was designed to break Mau Mau fighters thr
 - [[Independence 1963]]
 
 ## Related
-[[Kenya Land and Freedom Army]] | [[Dedan Kimathi]] | [[Jomo Kenyatta]] | [[Githaka]] | [[White Highlands]] | [[Githunguri Teachers College]] | [[Independence 1963]] | [[Wangari Maathai]] | [[Index]]
+[[Kenya Land and Freedom Army]] | [[Dedan Kimathi]] | [[Jomo Kenyatta]] | [[Githaka]] | [[White Highlands]] | [[Githunguri Teachers College]] | [[Independence 1963]] | [[Wangari Maathai]] | [[index]]

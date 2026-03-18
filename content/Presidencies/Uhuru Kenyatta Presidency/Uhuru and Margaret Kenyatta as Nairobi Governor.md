@@ -11,8 +11,8 @@ By the time Kananu's term ended with the 2022 elections, Nairobi had experienced
 ## See Also
 [[Uhuru and Nairobi County Politics]]
 [[Uhuru and Devolution]]
-[[County Governors and Presidential Influence]]
-[[Nairobi Governance Crises 2013-2022]]
+County Governors and Presidential Influence
+Nairobi Governance Crises 2013-2022
 [[Kenyatta and the Luo]]
 [[Devolution Kenya]]
 

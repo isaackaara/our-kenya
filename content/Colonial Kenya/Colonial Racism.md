@@ -21,7 +21,7 @@ By the mid-twentieth century, scientific racism had been largely discredited in 
 ## See Also
 [[Colonial Attitudes Africans]]
 [[Racial Hierarchy Colony]]
-[[Colonial Ideology]]
+Colonial Ideology
 [[Colonial Racial Discrimination]]
 [[Anti-Colonial Resistance]]
 [[Colonial Racism]]

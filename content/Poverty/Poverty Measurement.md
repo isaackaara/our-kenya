@@ -9,7 +9,7 @@ Measurement challenges are substantial and systematic. Household surveys face no
 Understanding poverty measurement limitations is crucial for policy interpretation. Different survey years, methodologies, and assumptions produce different prevalence estimates: some surveys estimate poverty at 30 percent, others at 40 percent of the population. These differences reflect not necessarily changing poverty but rather methodological choices. Policy decisions, resource allocations, and program targeting follow from these estimates, making measurement methodology politically significant. Donor coordination and statistical harmonization efforts have improved consistency, but disagreement persists about appropriate poverty lines, survey methodology, and poverty concept definitions. Multidimensional poverty assessment, increasingly adopted in development policy, has complemented but not replaced monetary approaches.
 
 ## See Also
-[[Poverty Line]], [[Household Surveys]], [[Regional Poverty Disparities]], [[Multidimensional Poverty]], [[Moi Art Collection]], [[Development Aid]], [[Statistical Capacity]], [[Economic Statistics]]
+[[Poverty Line]], [[Household Surveys]], [[Regional Poverty Disparities]], [[Multidimensional Poverty]], [[Moi Art Collection]], [[Development Aid]], Statistical Capacity, Economic Statistics
 
 ## Sources
 1. Kenya National Bureau of Statistics (2019). "Household and Population Census 2019 Volume IV." https://www.knbs.or.ke

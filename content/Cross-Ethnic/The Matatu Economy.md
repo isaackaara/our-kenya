@@ -1,4 +1,4 @@
-[[Kenya]]'s informal minibus transport network is not an [[ethnic institution]], but a [[cross-ethnic labour market]]. The [[Watamu]] system reveals how different communities are bound together through daily economic necessity and how [[Economic Interdependence Kenya]] can transcend [[ethnic identity]].
+[[Kenya]]'s informal minibus transport network is not an ethnic institution, but a cross-ethnic labour market. The [[Watamu]] system reveals how different communities are bound together through daily economic necessity and how [[Economic Interdependence Kenya]] can transcend [[ethnic-identity]].
 
 ## Key Facts
 
@@ -48,9 +48,9 @@ The matatu is Kenya, in miniature: hierarchical, ethnically stratified, but deep
 - [[The Kenya We Share]]
 - [[Economic Interdependence Kenya]]
 - [[Transportation Networks]]
-- [[Urban Labor Markets]]
+- Urban Labor Markets
 - [[Informal Economy Kenya]]
 
 ## Related
 
-[[../Kikuyu/Kikuyu Economic Dominance]] | [[../Kikuyu/Kikuyu in the Informal Economy]] | [[../Luo/Luo and Wage Labour]] | [[../Luhya/Luhya Economic Patterns]]
+[[Kikuyu Business Elite]] | Kikuyu in the Informal Economy | Luo and Wage Labour | Luhya Economic Patterns

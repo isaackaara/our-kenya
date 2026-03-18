@@ -4,7 +4,7 @@ title: Meru County Governors (Devolution Era)
 
 # Meru County Governors in the Devolution Era
 
-Kenya's [[Devolution|devolution]] system, established through the [[2010 Constitution|2010 constitution]], created elected county governors. Meru County has had several governors since the system began in 2013.
+Kenya's [[Devolution Kenya|devolution]] system, established through the [[2010 Constitution|2010 constitution]], created elected county governors. Meru County has had several governors since the system began in 2013.
 
 ## Governor Succession
 

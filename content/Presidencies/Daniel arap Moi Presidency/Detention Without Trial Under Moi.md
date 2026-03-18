@@ -2,7 +2,7 @@ Detention without trial, the practice of imprisoning individuals indefinitely wi
 
 The legal framework was the Preservation of Public Security Act, a colonial-era statute that allowed the President to order detention based on subjective assessments of threats to national security. No evidence was required, no hearing granted, no judicial review permitted. The detained person received a letter stating they were being held "in the interest of public security" with no further explanation. Families often learned of detentions through rumor or after loved ones had already been imprisoned for weeks. The arbitrariness was the point; the law's vagueness ensured anyone could be detained for anything.
 
-The targets were predictable. Academics who published critical analyses of Moi's policies faced detention; Professor [[Moi and the Universities|Willy Mutunga]], [[Alamin Mazrui]], and [[Mukaru Ng'ang'a]] were among those arrested in the mid-1980s. Journalists who reported on [[Corruption/Moi Era Corruption|government corruption]] or human rights abuses were detained; [[Moi and the Media|Bedan Mbugua]] and [[Gitobu Imanyara]] spent years in and out of detention. Lawyers who defended political prisoners were themselves detained; [[Gibson Kamau Kuria]] and [[Paul Muite]] both faced imprisonment for their legal work. Church leaders who preached against injustice were detained; Reverend [[Timothy Njoya]] and Bishop [[Moi and the Church|Henry Okullu]] received detention orders for sermons critical of the regime.
+The targets were predictable. Academics who published critical analyses of Moi's policies faced detention; Professor [[Moi and the Universities|Willy Mutunga]], Alamin Mazrui, and Mukaru Ng'ang'a were among those arrested in the mid-1980s. Journalists who reported on [[Moi Era Corruption|government corruption]] or human rights abuses were detained; [[Moi and the Media|Bedan Mbugua]] and Gitobu Imanyara spent years in and out of detention. Lawyers who defended political prisoners were themselves detained; Gibson Kamau Kuria and Paul Muite both faced imprisonment for their legal work. Church leaders who preached against injustice were detained; Reverend Timothy Njoya and Bishop [[Moi and the Church|Henry Okullu]] received detention orders for sermons critical of the regime.
 
 The [[Mwakenya Movement]] crackdown of 1986-1987 represented detention at industrial scale. Hundreds were arrested on suspicion of membership in the underground socialist opposition group. Confessions were extracted through [[Nyayo House Torture Chambers|torture at Nyayo House]], then used as evidence in show trials or to justify further detentions. Many of those detained had no actual connection to Mwakenya; they were simply intellectuals, students, or activists who fit the profile of potential dissidents. The mass arrests served a broader purpose: intimidating the educated middle class and demonstrating that even suspected opposition was intolerable.
 
@@ -21,8 +21,8 @@ The human cost of detention without trial is difficult to quantify. Official rec
 - [[Moi and the Church]]
 - [[Section 2A Repeal 1991]]
 - [[1982 Constitution Amendment]]
-- [[Corruption/Legal System Corruption Under Moi]]
-- [[Cross-Ethnic/Political Prisoners Across Communities]]
+- Legal System Corruption Under Moi
+- Political Prisoners Across Communities
 
 ## Sources
 1. Amnesty International. *Kenya: Torture, Political Detention and Unfair Trials*. Amnesty International, 1987. https://www.amnesty.org/en/documents/afr32/001/1987/en/

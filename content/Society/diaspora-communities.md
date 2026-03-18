@@ -7,8 +7,8 @@ Remittances from diaspora constitute significant income for many families. Diasp
 Diaspora engagement in politics and civil society increasingly shapes Kenya's development discourse.
 
 ## See Also
-- [[Related Topics]]
-- [[Other Connections]]
+- Related Topics
+- Other Connections
 
 ## Sources
 - Academic literature and research materials

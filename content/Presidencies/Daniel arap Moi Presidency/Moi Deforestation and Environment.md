@@ -17,10 +17,10 @@ The environmental consequences of Moi's governance persisted long after his pres
 The absence of environmental accountability for Moi's government reflected the broader absence of mechanisms for addressing historical crimes during the transition from authoritarian rule. While truth and reconciliation efforts in some post-authoritarian contexts have addressed environmental crimes, Kenya's mechanisms for dealing with Moi's legacy did not systematically examine the environmental consequences of his regime. The destruction of Kenya's forests and wildlife proceeded with impunity, and those responsible for orchestrating and profiting from the destruction were not held accountable.
 
 ## See Also
-[[Kenya/Environmentalism]]
+[[Wangari Maathai]]
 [[Moi and Wangari Maathai]]
 [[Moi and the Kalenjin]]
-[[Kenya/Natural Resources]]
+Natural Resources
 [[Uhuru BBI]]
 [[Moi Legacy]]
 

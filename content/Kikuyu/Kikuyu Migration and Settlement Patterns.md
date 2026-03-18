@@ -97,7 +97,7 @@ Some Kikuyu communities settled on the edges of forest reserves (Mau Forest, Abe
 - [[Kikuyu Entrepreneurs Deep Dive]]
 - [[Kikuyu Land Clashes Post-Independence]]
 - [[Jomo Kenyatta]]
-- [[Kenya Devolution]]
+- [[Devolution Kenya]]
 
 ## Sources
 

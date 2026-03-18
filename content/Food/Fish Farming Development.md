@@ -18,11 +18,11 @@ Fish farming's potential contribution to fish supply remained substantial but un
 
 [[Fishing Aquaculture]]
 [[Lake Fish Industry]]
-[[Freshwater Resources]]
+Freshwater Resources
 [[Food Security Policies]]
 [[Smallholder Agriculture]]
 [[Water Resources Management]]
-[[Sustainable Livelihoods]]
+Sustainable Livelihoods
 
 ## Sources
 

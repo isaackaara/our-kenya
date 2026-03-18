@@ -10,14 +10,14 @@ The Youth Enterprise Development Fund, established pre-Uhuru but expanded during
 
 The structural problem Uhuru's government never solved was job creation at scale. Kenya's economy was growing at 4-5 percent annually, insufficient to absorb the 800,000+ young people entering the labor market each year. The manufacturing pillar of the Big Four Agenda, meant to create hundreds of thousands of factory jobs, failed to deliver. Agriculture, which employed most Kenyans, was in decline due to climate change, land fragmentation, and productivity constraints. The service sector growth was concentrated in low-productivity informal activities (matatu touts, street hawkers, salon operators) that provided survival income but not decent employment. Uhuru's government built infrastructure but the construction jobs were temporary, and many went to Chinese workers on [[Standard Gauge Railway|SGR]] and other Chinese-financed projects.
 
-The political consequences of youth unemployment were significant in the [[Elections/2022 Presidential Election|2022 election]]. [[William Ruto]]'s "hustler" narrative resonated powerfully with young Kenyans who felt excluded from Uhuru's Kenya. The image of a president and his allies living lavishly while youth struggled resonated. Programs like NYS and Ajira, meant to demonstrate government responsiveness, were too limited in scale and too corrupted to change perceptions. The combination of high youth unemployment, rising cost of living, massive debt accumulated for infrastructure that didn't create jobs, and visible elite enrichment created a youth demographic deeply alienated from Uhuru and open to Ruto's anti-establishment message, regardless of whether Ruto would actually deliver differently.
+The political consequences of youth unemployment were significant in the [[2022 Presidential Election|2022 election]]. [[William Ruto]]'s "hustler" narrative resonated powerfully with young Kenyans who felt excluded from Uhuru's Kenya. The image of a president and his allies living lavishly while youth struggled resonated. Programs like NYS and Ajira, meant to demonstrate government responsiveness, were too limited in scale and too corrupted to change perceptions. The combination of high youth unemployment, rising cost of living, massive debt accumulated for infrastructure that didn't create jobs, and visible elite enrichment created a youth demographic deeply alienated from Uhuru and open to Ruto's anti-establishment message, regardless of whether Ruto would actually deliver differently.
 
 ## See Also
 - [[NYS Scandal]]
 - [[Uhuru Infrastructure Agenda]]
 - [[Uhuru and the Digital Economy]]
 - [[Uhuru Economic Record]]
-- [[Elections/2022 Presidential Election]]
+- [[2022 Presidential Election]]
 - [[Uhuru and William Ruto Fallout]]
 - [[Uhuru and Corruption]]
 - [[Uhuru Legacy Assessment]]

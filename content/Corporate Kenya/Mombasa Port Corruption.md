@@ -20,8 +20,8 @@ Sector growth and development depend on policy, investment, technology, and glob
 - [[Mombasa Port Operations]]
 - [[Corruption]]
 - [[Kenya Revenue Authority]]
-- [[Government Accountability Kenya]]
-- [[Trade Facilitation Kenya]]
+- Government Accountability Kenya
+- [[Economy]]
 - [[Kenya Economic Overview]]
 
 ## Sources

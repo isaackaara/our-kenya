@@ -4,7 +4,7 @@ What set Boondocks apart was their incorporation of drill music aesthetics into 
 
 Exray, in particular, became known for his signature line "Taniuwa Ah!" and his aggressive delivery style. Among the youngest successful Kenyan rappers, Exray demonstrated technical skills that went beyond the simple hooks and chants that characterized some gengetone. His wordplay, flow variations, and rhythmic complexity suggested a deeper engagement with hip hop craft than was typical in the genre. This technical proficiency earned respect from hip hop purists who might otherwise have dismissed gengetone as unsophisticated.
 
-The group's estate origins remained central to their identity and content. Songs addressed the specific experiences of youth in Githurai and Kayole, areas that, while part of greater Nairobi, had distinct cultures and concerns from more central estates like Umoja or Dandora. This geographic diversity within gengetone was important: it demonstrated that the movement was not limited to particular neighborhoods but reflected broader youth experiences across [[Cross-Ethnic/Nairobi Urban Identity|Nairobi's informal settlements]] and working-class areas.
+The group's estate origins remained central to their identity and content. Songs addressed the specific experiences of youth in Githurai and Kayole, areas that, while part of greater Nairobi, had distinct cultures and concerns from more central estates like Umoja or Dandora. This geographic diversity within gengetone was important: it demonstrated that the movement was not limited to particular neighborhoods but reflected broader youth experiences across [[Nairobi Urban Identity|Nairobi's informal settlements]] and working-class areas.
 
 Boondocks Gang's career trajectory followed patterns established by earlier gengetone groups: DIY production, [[YouTube and Kenyan Music|YouTube]]-first distribution, estate-based performances, and aggressive [[Social Media and Music Kenya|social media]] promotion. But they also benefited from infrastructure that had developed since Ethic's breakthrough. By 2018-2019, gengetone had established distribution channels, promotional networks, and audience expectations that new groups could tap into. The ecosystem was maturing, even if slowly.
 
@@ -23,7 +23,7 @@ Boondocks Gang's significance extends beyond their specific hits or commercial s
 - [[Ethic Entertainment|Ethic Entertainment]]
 - [[Sailors Guild Kenya|Sailors Guild Kenya]]
 - [[Genge Music Origins|Genge Music Origins]]
-- [[Cross-Ethnic/Nairobi Urban Identity|Nairobi Urban Identity]]
+- [[Nairobi Urban Identity|Nairobi Urban Identity]]
 - [[YouTube and Kenyan Music|YouTube and Kenyan Music]]
 - [[Social Media and Music Kenya|Social Media and Music Kenya]]
 - [[Gengetone and Social Commentary|Gengetone and Social Commentary]]

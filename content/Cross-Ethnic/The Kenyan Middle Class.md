@@ -1,4 +1,4 @@
-The emergence of a substantial [[Kenya]] since the 2000s represents one of the most significant developments in contemporary Kenya. This professional and commercial class, comprising educated individuals working in formal employment, business ownership, and professional services, increasingly defines itself through consumption patterns and cultural orientation rather than through [[ethnic identity]]. The Kenyan middle class is overwhelmingly urban and [[Cross-Ethnic Kenya]] in composition.
+The emergence of a substantial [[Kenya]] since the 2000s represents one of the most significant developments in contemporary Kenya. This professional and commercial class, comprising educated individuals working in formal employment, business ownership, and professional services, increasingly defines itself through consumption patterns and cultural orientation rather than through [[ethnic-identity]]. The Kenyan middle class is overwhelmingly urban and [[Cross-Ethnic Kenya]] in composition.
 
 The growth of Kenya's middle class correlates with economic liberalization, the expansion of secondary and tertiary education, and the growth of sectors like tourism, telecommunications, finance, and business services. Young Kenyans educated in national schools and universities increasingly pursue careers in these sectors, creating a cohort of professionals who work alongside peers from diverse ethnic backgrounds.
 
@@ -8,14 +8,14 @@ The professional culture of Kenyan middle class workplaces is often explicitly c
 
 The cultural orientation of the Kenyan middle class is often cosmopolitan and international. English is the primary language of work and often of home. International media (American television, British news, global music) shapes consumption patterns alongside local culture. Vacation travel abroad, international education for children, and participation in global professional networks characterize middle-class life.
 
-However, the relationship between class position and [[ethnic identity]] is complex. Even prosperous middle-class Kenyans frequently maintain [[Ethnic Business Networks]] and organizations. Business associations organized around ethnic lines persist. Religious communities, sometimes with ethnic dimensions, remain important to many middle-class Kenyans. The middle class is not post-ethnic but rather navigates multiple identity dimensions simultaneously.
+However, the relationship between class position and [[ethnic-identity]] is complex. Even prosperous middle-class Kenyans frequently maintain [[Ethnic Business Networks]] and organizations. Business associations organized around ethnic lines persist. Religious communities, sometimes with ethnic dimensions, remain important to many middle-class Kenyans. The middle class is not post-ethnic but rather navigates multiple identity dimensions simultaneously.
 
 ## See Also
 
 - [[Elite Schools and Class Formation]]
 - [[Nairobi]]
-- [[Professional Networks Kenya]]
-- [[Class and Ethnic Identity]]
+- [[Entrepreneurship Kenya]]
+- Class and Ethnic Identity
 - [[Urban Kikuyu-Luo Marriages]]
 - [[Workplace Diversity]]
 

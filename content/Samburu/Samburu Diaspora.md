@@ -13,8 +13,8 @@ Urban Samburu regularly send remittances to rural family members, supporting hou
 - [[Samburu]]
 - [[Samburu Pastoralism]]
 - [[Samburu Language]]
-- [[Urban Migration in Kenya]]
-- [[Remittance Economies]]
+- Urban Migration in Kenya
+- Remittance Economies
 
 ## Sources
 

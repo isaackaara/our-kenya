@@ -9,7 +9,7 @@ Kenya became the first country to adopt improved child-friendly TB medicines and
 Contemporary TB control efforts emphasize early case detection through community screening, treatment support to ensure completion, and TB/HIV collaborative activities recognizing the overlap between epidemics. Challenges include the ongoing threat of drug-resistant strains, tuberculosis in prisons and urban slums where transmission is accelerated, and complications in monitoring treatment outcomes among mobile populations. Sustained commitment to evidence-based TB control and health system strengthening remain essential for achieving TB elimination targets.
 
 ## See Also
-[[HIV/AIDS Epidemic Kenya|HIV/AIDS Epidemic Kenya]]
+[[AIDS Epidemic Kenya|HIV/AIDS Epidemic Kenya]]
 [[Disease Surveillance Kenya|Disease Surveillance Kenya]]
 [[Health|Hospital Infrastructure Standards]]
 [[Mental Health Poverty|Poverty]]

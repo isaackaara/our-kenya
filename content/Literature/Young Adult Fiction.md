@@ -20,10 +20,10 @@ Contemporary young adult fiction in Kenya addresses diverse themes reflecting cu
 [[Children's Literature Kenya]]
 [[Literature]]
 [[School Textbooks]]
-[[Coming-of-Age Narratives]]
+Coming-of-Age Narratives
 [[Literature]]
-[[Gender and Young Adult Fiction]]
-[[Secondary Education Kenya]]
+Gender and Young Adult Fiction
+[[Education]]
 
 ## Sources
 1. https://www.eastafricanpublishers.com/ - Young adult literature publishing

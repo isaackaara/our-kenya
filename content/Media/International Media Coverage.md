@@ -13,8 +13,8 @@ International media partnerships and training programs supported development of 
 [[Investigative Journalism]]
 [[Political Reporting Elections]]
 [[News Anchors Icons]]
-[[Technology/International Journalism]]
-[[Documentation/International Coverage]]
+International Journalism
+International Coverage
 
 ## Sources
 1. https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/kenya

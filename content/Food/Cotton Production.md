@@ -21,8 +21,8 @@ Land pressure and crop competition meant cotton cultivation competed for land wi
 [[Cash Crops Development]]
 [[Smallholder Agriculture]]
 [[Tea Industry History]]
-[[Pesticide Use Agriculture]]
-[[Commodity Price Volatility]]
+Pesticide Use Agriculture
+Commodity Price Volatility
 [[Water Resources Management]]
 [[The NGO Economy]]
 
