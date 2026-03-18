@@ -99,12 +99,7 @@ export default (() => {
             return resource
           }
         })}
-        {/* Cloudflare Web Analytics - Isaac: swap PLACEHOLDER_TOKEN for your real token from the Cloudflare dashboard */}
-        <script
-          defer
-          src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon='{"token": "PLACEHOLDER_TOKEN"}'
-        />
+        <script dangerouslySetInnerHTML={{__html: `if("serviceWorker"in navigator){navigator.serviceWorker.register("/static/sw.js").catch(function(){})}`}} />
       </head>
     )
   }

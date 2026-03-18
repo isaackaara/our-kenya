@@ -29,7 +29,6 @@ import ShareButton from "./ShareButton"
 import TrailNav, { TrailHistoryRail } from "./TrailNav"
 import TrailHub from "./TrailHub"
 import DailyThemeGrid from "./DailyThemeGrid"
-import RailaGraph from "./RailaGraph"
 import KnowledgeGraphs from "./KnowledgeGraphs"
 import HeroGraphComponent from "./HeroGraphComponent"
 import FloatingContribute from "./FloatingContribute"
@@ -74,7 +73,6 @@ export {
   TrailHistoryRail,
   TrailHub,
   DailyThemeGrid,
-  RailaGraph,
   KnowledgeGraphs,
   HeroGraphComponent,
   FloatingContribute,

@@ -62,43 +62,30 @@
     document.head.appendChild(style);
   }
 
-  function buildButton(scores) {
-    var wrap = document.getElementById("ok-surprise-wrap");
-    if (!wrap || wrap.querySelector("#ok-surprise-btn")) return;
+  var cachedScores = null;
+  var fetchInFlight = null;
 
+  function ensureScores() {
+    if (cachedScores) return Promise.resolve(cachedScores);
+    if (fetchInFlight) return fetchInFlight;
+    fetchInFlight = fetch("/static/scores.json")
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        cachedScores = data;
+        fetchInFlight = null;
+        return data;
+      })
+      .catch(function(err) {
+        fetchInFlight = null;
+        console.warn("SurpriseMe: failed to load scores", err);
+        return null;
+      });
+    return fetchInFlight;
+  }
+
+  function activateButton(scores, btn, mainSpan, countSpan, preview, previewTitle, previewStars) {
     var highWonder = Object.keys(scores).filter(function(k) { return scores[k].w >= 8; });
-    var count = highWonder.length;
-
-    var btn = document.createElement("button");
-    btn.id = "ok-surprise-btn";
-    btn.setAttribute("aria-label", "Navigate to a random high-wonder note");
-
-    var mainSpan = document.createElement("span");
-    mainSpan.id = "ok-surprise-btn-main";
-    mainSpan.textContent = BUTTON_TEXTS[0];
-
-    var countSpan = document.createElement("span");
-    countSpan.id = "ok-surprise-count";
-    countSpan.textContent = "from " + count + " discoveries";
-
-    btn.appendChild(mainSpan);
-    btn.appendChild(countSpan);
-
-    var preview = document.createElement("div");
-    preview.id = "ok-surprise-preview";
-    preview.setAttribute("aria-hidden", "true");
-
-    var previewTitle = document.createElement("div");
-    previewTitle.id = "ok-surprise-preview-title";
-
-    var previewStars = document.createElement("div");
-    previewStars.id = "ok-surprise-preview-stars";
-
-    preview.appendChild(previewTitle);
-    preview.appendChild(previewStars);
-
-    wrap.appendChild(preview);
-    wrap.appendChild(btn);
+    countSpan.textContent = "from " + highWonder.length + " discoveries";
 
     var textIdx = 0;
 
@@ -122,35 +109,80 @@
         preview.classList.remove("visible");
       });
     }
+  }
+
+  function buildButton() {
+    var wrap = document.getElementById("ok-surprise-wrap");
+    if (!wrap || wrap.querySelector("#ok-surprise-btn")) return;
+
+    var btn = document.createElement("button");
+    btn.id = "ok-surprise-btn";
+    btn.setAttribute("aria-label", "Navigate to a random high-wonder note");
+
+    var mainSpan = document.createElement("span");
+    mainSpan.id = "ok-surprise-btn-main";
+    mainSpan.textContent = BUTTON_TEXTS[0];
+
+    var countSpan = document.createElement("span");
+    countSpan.id = "ok-surprise-count";
+    countSpan.textContent = "";
+
+    btn.appendChild(mainSpan);
+    btn.appendChild(countSpan);
+
+    var preview = document.createElement("div");
+    preview.id = "ok-surprise-preview";
+    preview.setAttribute("aria-hidden", "true");
+
+    var previewTitle = document.createElement("div");
+    previewTitle.id = "ok-surprise-preview-title";
+
+    var previewStars = document.createElement("div");
+    previewStars.id = "ok-surprise-preview-stars";
+
+    preview.appendChild(previewTitle);
+    preview.appendChild(previewStars);
+
+    wrap.appendChild(preview);
+    wrap.appendChild(btn);
+
+    var activated = false;
 
     btn.addEventListener("click", function() {
-      if (!currentPick) { refreshPick(); }
+      if (!activated) {
+        // First click: fetch scores, then navigate
+        ensureScores().then(function(scores) {
+          if (!scores) return;
+          activated = true;
+          activateButton(scores, btn, mainSpan, countSpan, preview, previewTitle, previewStars);
+          if (currentPick) {
+            window.location.href = "/" + currentPick;
+          }
+        });
+        return;
+      }
+      // Subsequent clicks: data already loaded
+      if (!currentPick) {
+        currentPick = pickRandom(cachedScores);
+      }
       if (currentPick) {
         window.location.href = "/" + currentPick;
       }
     });
-  }
 
-  var cachedScores = null;
+    // If scores were already cached from a previous page, activate immediately
+    if (cachedScores) {
+      activated = true;
+      activateButton(cachedScores, btn, mainSpan, countSpan, preview, previewTitle, previewStars);
+    }
+  }
 
   function init() {
     var wrap = document.getElementById("ok-surprise-wrap");
     if (!wrap) return;
 
     injectStyles();
-
-    if (cachedScores) {
-      buildButton(cachedScores);
-      return;
-    }
-
-    fetch("/static/scores.json")
-      .then(function(r) { return r.json(); })
-      .then(function(data) {
-        cachedScores = data;
-        buildButton(data);
-      })
-      .catch(function(err) { console.warn("SurpriseMe: failed to load scores", err); });
+    buildButton();
   }
 
   if (document.readyState === "loading") {

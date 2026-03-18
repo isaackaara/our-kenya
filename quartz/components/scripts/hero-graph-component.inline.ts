@@ -96,9 +96,21 @@ const GRAPH_DATA = {
 
 let currentSimulation: any = null
 
+function cleanupHeroGraph() {
+  if (currentSimulation) {
+    currentSimulation.stop()
+    currentSimulation = null
+  }
+}
+
 export default function initHeroGraph() {
   const container = document.getElementById("ok-hero-graph-root")
   if (!container || !window.d3) return
+
+  // Clean up previous simulation on SPA navigation
+  if (typeof window.addCleanup === "function") {
+    window.addCleanup(cleanupHeroGraph)
+  }
 
   const isMobile = window.innerWidth < 640
   const H = isMobile ? 280 : 400
