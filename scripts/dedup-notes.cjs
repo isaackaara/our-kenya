@@ -13,6 +13,9 @@ function getAllMd(dir) {
 
 const files = getAllMd('content');
 
+// Protected directories — stubs here are intentional and should never be deduped
+const PROTECTED_DIRS = ['content/explore/', 'content/Trails/'];
+
 // Group by basename
 const byName = new Map();
 for (const f of files) {
@@ -37,6 +40,11 @@ for (const [name, paths] of dupes) {
   const remove = withSize.slice(1);
 
   for (const r of remove) {
+    // Never delete files in protected directories
+    if (PROTECTED_DIRS.some(d => r.path.startsWith(d))) {
+      console.log(`SKIP (protected): ${r.path}`);
+      continue;
+    }
     fs.unlinkSync(r.path);
     totalDeleted++;
     console.log(`DEL: ${r.path} (${r.size}b) — kept ${keep.path} (${keep.size}b)`);
