@@ -40,6 +40,20 @@
   user-select: none;
 }
 
+// Default: hide night elements, show day elements
+.nightIcon {
+  display: none;
+}
+.dayIcon {
+  display: inline;
+}
+.nightLabel {
+  display: none;
+}
+.dayLabel {
+  display: inline;
+}
+
 // Light mode: thumb left, show sun + "Light"
 :root[saved-theme="light"] .dm-thumb {
   transform: translateX(0);
