@@ -61,6 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TrailNav(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.ListenButton(),
     Component.TagList(),
     Component.ConditionalRender({
       component: Component.TrailHub(),

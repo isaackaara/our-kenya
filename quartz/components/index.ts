@@ -39,6 +39,7 @@ import DailyNote from "./DailyNote"
 import ExploreTree from "./ExploreTree"
 import SiteNav from "./SiteNav"
 import HeroGraph from "./HeroGraph"
+import ListenButton from "./ListenButton"
 
 export {
   ArticleTitle,
@@ -83,4 +84,5 @@ export {
   ExploreTree,
   SiteNav,
   HeroGraph,
+  ListenButton,
 }
