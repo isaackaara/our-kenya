@@ -411,21 +411,57 @@ a.ok-cta-outline.internal {
   }
 }
 
-/* Search results - dark mode text fix */
-[saved-theme="dark"] .result-card .card-title,
-[saved-theme="dark"] .result-card h3 {
-  color: var(--dark) !important;
+/* ── Pagefind search styling ──────────────────────────────── */
+
+/* Modal container - match site theme */
+#pagefind-container > div {
+  background: var(--light) !important;
+  color: var(--dark);
 }
 
-[saved-theme="dark"] .result-card .card-description,
-[saved-theme="dark"] .result-card p,
-[saved-theme="dark"] .result-card p * {
-  color: var(--dark) !important;
+#pagefind-container strong {
+  color: var(--dark);
 }
 
-[saved-theme="dark"] .preview-container,
-[saved-theme="dark"] .preview-container * {
+#pagefind-container #pagefind-close {
+  color: var(--darkgray) !important;
+}
+
+/* Pagefind UI theme variables */
+:root {
+  --pagefind-ui-primary: var(--secondary);
+  --pagefind-ui-text: var(--dark);
+  --pagefind-ui-background: var(--light);
+  --pagefind-ui-border: var(--lightgray);
+  --pagefind-ui-tag: var(--lightgray);
+  --pagefind-ui-font: var(--bodyFont);
+}
+
+/* Dark mode overrides */
+[saved-theme="dark"] {
+  --pagefind-ui-text: var(--dark);
+  --pagefind-ui-background: var(--light);
+  --pagefind-ui-border: var(--lightgray);
+  --pagefind-ui-tag: var(--lightgray);
+}
+
+/* Ensure input text is visible in both modes */
+.pagefind-ui__search-input {
   color: var(--dark) !important;
+  background: var(--light) !important;
+}
+
+/* Result titles and text */
+.pagefind-ui__result-link {
+  color: var(--secondary) !important;
+}
+
+.pagefind-ui__result-excerpt {
+  color: var(--darkgray) !important;
+}
+
+.pagefind-ui__message {
+  color: var(--darkgray) !important;
 }
 
 /* Explore tree */
@@ -477,7 +513,7 @@ a.ok-cta-outline.internal {
 
   .ok-tree-count {
     font-size: 0.75rem;
-    opacity: 0.5;
+    opacity: 0.65;
     font-weight: 400;
   }
 

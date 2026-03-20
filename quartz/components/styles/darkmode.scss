@@ -1,47 +1,108 @@
 .darkmode {
   cursor: pointer;
   padding: 0;
-  position: relative;
   background: none;
   border: none;
-  width: 20px;
-  height: 32px;
-  margin: 0;
-  text-align: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
   flex-shrink: 0;
-
-  & svg {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: calc(50% - 10px);
-    fill: var(--darkgray);
-    transition: opacity 0.1s ease;
-  }
 }
 
+.dm-track {
+  display: inline-flex;
+  align-items: center;
+  width: 36px;
+  height: 20px;
+  border-radius: 99px;
+  background: var(--lightgray);
+  padding: 2px;
+  transition: background 0.2s ease;
+}
+
+.dm-thumb {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--light);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease;
+  color: var(--darkgray);
+}
+
+.dm-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--darkgray);
+  user-select: none;
+}
+
+// Light mode: thumb left, show sun + "Light"
+:root[saved-theme="light"] .dm-thumb {
+  transform: translateX(0);
+}
+
+:root[saved-theme="light"] .dayIcon {
+  display: inline;
+}
+:root[saved-theme="light"] .nightIcon {
+  display: none;
+}
+:root[saved-theme="light"] .dayLabel {
+  display: inline;
+}
+:root[saved-theme="light"] .nightLabel {
+  display: none;
+}
+
+// Dark mode: thumb right, show moon + "Dark"
 :root[saved-theme="dark"] {
   color-scheme: dark;
 }
 
+:root[saved-theme="dark"] .dm-track {
+  background: var(--lightgray);
+}
+
+:root[saved-theme="dark"] .dm-thumb {
+  transform: translateX(16px);
+  background: var(--dark);
+  color: var(--light);
+}
+
+:root[saved-theme="dark"] .dayIcon {
+  display: none;
+}
+:root[saved-theme="dark"] .nightIcon {
+  display: inline;
+}
+:root[saved-theme="dark"] .dayLabel {
+  display: none;
+}
+:root[saved-theme="dark"] .nightLabel {
+  display: inline;
+}
+
+// Default (before saved-theme is set) — treat as light
+:root:not([saved-theme]) .dm-thumb {
+  transform: translateX(0);
+}
+:root:not([saved-theme]) .dayIcon {
+  display: inline;
+}
+:root:not([saved-theme]) .nightIcon {
+  display: none;
+}
+:root:not([saved-theme]) .dayLabel {
+  display: inline;
+}
+:root:not([saved-theme]) .nightLabel {
+  display: none;
+}
+
 :root[saved-theme="light"] {
   color-scheme: light;
-}
-
-:root[saved-theme="dark"] .darkmode {
-  & > .dayIcon {
-    display: none;
-  }
-  & > .nightIcon {
-    display: inline;
-  }
-}
-
-:root .darkmode {
-  & > .dayIcon {
-    display: inline;
-  }
-  & > .nightIcon {
-    display: none;
-  }
 }

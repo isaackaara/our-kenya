@@ -3,7 +3,7 @@ Harambee (Swahili: "all pull together") was Jomo Kenyatta's national motto and d
 ## Key Facts
 
 - The term "Harambee" appears on Kenya's coat of arms as the official national motto
-- Between 1963 and 1988, harambee events mobilised more than US$55 million in development funds
+- Between 1963 and 1988, harambee events mobilised more than US\$55 million in development funds
 - Harambee events drew participants across ethnic lines (a harambee in Nyeri attracted Luo, Kamba, and Luhya contributors)
 - Events typically focused on building schools, health facilities, and community infrastructure
 - The system became increasingly corrupted by the 1980s, with politicians using harambee events for vote-buying and patronage networks

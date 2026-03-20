@@ -24,4 +24,4 @@ His influence extended beyond Kenya. As East African hip hop matured, Nonini's w
 ## Sources
 1. "Nonini," Wikipedia, accessed March 2026, https://en.wikipedia.org/wiki/Nonini
 2. "MCM-Hubert Nakitare a.k.a Nonini, the Godfather of Genge music," The Standard Entertainment, https://www.standardmedia.co.ke/entertainment/celeb-profiles/article/2000154132/mcm-hubert-nakitare-aka-nonini-the-godfather-of-genge-music
-3. "The Godfather Of Genge — Nonini," Last.fm, https://www.last.fm/music/Nonini/The+Godfather+Of+Genge
+3. "The Godfather Of Genge - Nonini," Last.fm, https://www.last.fm/music/Nonini/The+Godfather+Of+Genge

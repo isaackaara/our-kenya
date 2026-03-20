@@ -25,5 +25,5 @@ By 2025, Kenya had successfully completed several IMF reviews and received disbu
 ## Sources
 1. "Kenya: 2023 Article IV Consultation and Sixth Review Under the Extended Credit Facility," IMF Country Report No. 23/277, August 2023. https://www.imf.org/en/Publications/CR/Issues/2023/08/11/Kenya-2023-Article-IV-Consultation-537162
 2. "Ruto's IMF gamble: Fiscal discipline or political suicide?" The East African, July 6, 2024. https://www.theeastafrican.co.ke/tea/news/east-africa/ruto-imf-gamble-4654321
-3. "Kenya completes seventh IMF review, receives $244 million," Reuters, November 8, 2024. https://www.reuters.com/world/africa/kenya-completes-seventh-imf-review-2024-11-08/
+3. "Kenya completes seventh IMF review, receives \$244 million," Reuters, November 8, 2024. https://www.reuters.com/world/africa/kenya-completes-seventh-imf-review-2024-11-08/
 4. "The IMF in Kenya: Savior or oppressor?" African Arguments, June 28, 2024. https://africanarguments.org/2024/06/28/imf-kenya-savior-oppressor/

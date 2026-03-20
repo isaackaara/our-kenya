@@ -2253,6 +2253,57 @@ export const trails: Trail[] = [
       { slug: "Music/Dance Bands of Post-WWII Kenya", title: "Dance Bands" }
     ]
   },
+  {
+    id: "silicon-savannah",
+    name: "Silicon Savannah: From Cables to Unicorns",
+    category: "Technology",
+    description: "How undersea cables, mobile money, and a generation of builders turned Nairobi into Africa's leading tech hub.",
+    emotionalScore: 3,
+    stops: [
+      { slug: "Startups/TEAMS Cable Kenya", title: "The Cables Arrive" },
+      { slug: "Startups/Mobile Phone Revolution Kenya", title: "Mobile Revolution" },
+      { slug: "Startups/Nairobi as Tech Hub", title: "Nairobi as Tech Hub" },
+      { slug: "Startups/Silicon Savannah Narrative", title: "The Silicon Savannah Story" },
+      { slug: "Startups/Startup Funding Rounds Kenya", title: "The Funding Boom" },
+      { slug: "Startups/Kenyan Tech Exits", title: "Exits and Returns" },
+      { slug: "Startups/The 2022-2024 Funding Winter", title: "The Funding Winter" },
+      { slug: "Startups/DFI Role in Kenyan Tech", title: "What Comes Next" }
+    ]
+  },
+  {
+    id: "startup-failures",
+    name: "Move Fast and Break Things: Kenya's Startup Failures",
+    category: "Technology",
+    description: "The cautionary tales behind Silicon Savannah — collapses, frauds, and the lessons Nairobi's tech ecosystem paid dearly to learn.",
+    emotionalScore: 5,
+    stops: [
+      { slug: "Startups/Startup Valuations Kenya", title: "The Hype Machine" },
+      { slug: "Startups/The 2022-2024 Funding Winter", title: "Winter Is Coming" },
+      { slug: "Startups/Sendy Collapse 2023", title: "Sendy's Collapse" },
+      { slug: "Startups/Sky.Garden Shutdown", title: "Sky.Garden Goes Dark" },
+      { slug: "Startups/Copia Global Shutdown 2024", title: "Copia's Last Mile" },
+      { slug: "Startups/Tulaa Fraud Scandal", title: "The Tulaa Fraud" },
+      { slug: "Startups/Kenyan Startup Graveyard", title: "The Graveyard" },
+      { slug: "Startups/Fake Startups Kenya", title: "The Fakers" }
+    ]
+  },
+  {
+    id: "the-founders",
+    name: "The Founders",
+    category: "Technology",
+    description: "The visionaries who built Kenya's tech ecosystem from scratch — from M-Pesa's architect to the engineers who put Nairobi on the global startup map.",
+    emotionalScore: 2,
+    stops: [
+      { slug: "Startups/Nick Hughes", title: "Nick Hughes and M-Pesa" },
+      { slug: "Startups/Erik Hersman", title: "Erik Hersman and iHub" },
+      { slug: "Startups/Juliana Rotich", title: "Juliana Rotich and BRCK" },
+      { slug: "Startups/Ken Njoroge", title: "Ken Njoroge and Cellulant" },
+      { slug: "Startups/Jesse Moore", title: "Jesse Moore and M-KOPA" },
+      { slug: "Startups/Elizabeth Rossiello", title: "Elizabeth Rossiello and BitPesa" },
+      { slug: "Startups/Shivani Siroya", title: "Shivani Siroya and Tala" },
+      { slug: "Startups/Audrey Cheng", title: "Audrey Cheng and Moringa School" }
+    ]
+  },
 ]
 
 // Normalize slugs the same way Quartz does: spaces -> hyphens

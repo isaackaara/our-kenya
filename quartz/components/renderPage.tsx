@@ -242,19 +242,19 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar">
+    <nav class="left sidebar" role="navigation" aria-label="Site navigation">
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
-    </div>
+    </nav>
   )
 
   const RightComponent = (
-    <div class="right sidebar">
+    <aside class="right sidebar" role="complementary" aria-label="Related content">
       {right.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
-    </div>
+    </aside>
   )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
@@ -264,9 +264,12 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
+          <a href="#quartz-body" class="skip-link">
+            Skip to content
+          </a>
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
+            <main class="center" role="main">
               <div class="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
@@ -286,7 +289,7 @@ export function renderPage(
                   <BodyComponent {...componentData} />
                 ))}
               </div>
-            </div>
+            </main>
             {RightComponent}
             <Footer {...componentData} />
           </Body>

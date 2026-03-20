@@ -18,7 +18,7 @@ Bidco operates manufacturing factories in Kenya (primarily in Kiambu), Tanzania,
 
 ## Market Success and Expansion
 
-Bidco expanded from Kenya into Tanzania, Uganda, and other African countries. By 2013, Bidco's sales exceeded US$500 million annually. The company serves East African markets with a footprint in 18 African countries as of 2025. This expansion demonstrated that Asian entrepreneurs could build pan-African enterprises, not just operate in Kenya.
+Bidco expanded from Kenya into Tanzania, Uganda, and other African countries. By 2013, Bidco's sales exceeded US\$500 million annually. The company serves East African markets with a footprint in 18 African countries as of 2025. This expansion demonstrated that Asian entrepreneurs could build pan-African enterprises, not just operate in Kenya.
 
 ## Vimal Shah's Leadership
 

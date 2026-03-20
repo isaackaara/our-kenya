@@ -23,7 +23,7 @@ Social media has also transformed cultural production, creating platforms for Ke
 ## Sources
 
 1. Nanjala Nyabola, *Digital Democracy, Analogue Politics: How the Internet Era Is Transforming Politics in Kenya* (London: Zed Books, 2018).
-2. Iginio Gagliardone et al., *Mechachal: Online Debates and Elections in Ethiopia—From Hate Speech to Engagement in ICT* and comparative studies on Kenya (Oxford: Programme in Comparative Media Law and Policy, 2016).
+2. Iginio Gagliardone et al., *Mechachal: Online Debates and Elections in Ethiopia - From Hate Speech to Engagement in ICT* and comparative studies on Kenya (Oxford: Programme in Comparative Media Law and Policy, 2016).
 3. Portland Communications, *How Africa Tweets 2015* (London: Portland, 2015), data on #KOT and Kenyan Twitter usage.
 4. Bloggers Association of Kenya (BAKE), *State of the Internet in Kenya Reports* (Nairobi: BAKE, 2018-2023).
 5. Otsieno Namwaya, "Kenya's Problematic New Cybercrime Law," Human Rights Watch, May 29, 2018.

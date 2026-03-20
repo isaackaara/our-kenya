@@ -6,7 +6,7 @@ Ruto's administration framed the cuts as unavoidable responses to Kenya's fiscal
 
 The timing of the supplementary budget was particularly damaging. Announced during the Gen Z protest crisis when public anger at government was already at fever pitch, the cuts were interpreted as vindictive austerity imposed on youth constituencies that had mobilized against the Finance Bill. The perception that Ruto's government was punishing Kenyans for protesting by implementing draconian budget cuts intensified political alienation and delegitimized the administration's fiscal narrative.
 
-By 2024-2025, the supplementary budget cuts had become emblematic of Ruto's governance approach—technocratic fiscal management that prioritized external creditor relations over domestic welfare, implemented through tools perceived as punitive rather than protective.
+By 2024-2025, the supplementary budget cuts had become emblematic of Ruto's governance approach - technocratic fiscal management that prioritized external creditor relations over domestic welfare, implemented through tools perceived as punitive rather than protective.
 
 ## See Also
 [[Ruto Second Budget and Austerity]]

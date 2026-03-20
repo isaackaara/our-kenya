@@ -68,7 +68,7 @@ This vertical maps [[Kenya]]'s corporate landscape across [[Banking History Keny
 - [[iHub Nairobi]]
 - [[Ushahidi]]
 - [[Safaricom Innovation]]
-- [[Kenyan Startups]]
+- [[Startups|Kenya's Startup Ecosystem]]
 - [[Konza Technopolis]]
 - [[Fintech Kenya]]
 - [[E-Commerce Kenya]]

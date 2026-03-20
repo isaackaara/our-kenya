@@ -38,7 +38,7 @@ The [[7_East_African_Railways|Kenya Standard Gauge Railway]] illustrates both th
 
 **Project Specifications**: The SGR connects [[Mombasa Port]] to [[Nairobi]] (472 km), replacing the older narrow-gauge railway.
 
-**Financing**: The project cost roughly $5 billion, financed primarily by China's EXIM Bank.
+**Financing**: The project cost roughly \$5 billion, financed primarily by China's EXIM Bank.
 
 **Chinese Execution**: Chinese firms managed the project, importing roughly 90 percent of materials and much of the labor.
 
@@ -78,7 +78,7 @@ Chinese investment has also generated concerns:
 
 The debt question is particularly pressing:
 
-**Debt Levels**: Kenya's SGR debt is estimated at roughly $5 billion of a total national debt of roughly $60-70 billion. While not dominant, it represents significant obligation.
+**Debt Levels**: Kenya's SGR debt is estimated at roughly \$5 billion of a total national debt of roughly \$60-70 billion. While not dominant, it represents significant obligation.
 
 **Revenue Challenges**: The SGR has not generated the projected revenue due to lower-than-expected cargo volumes and operational challenges.
 

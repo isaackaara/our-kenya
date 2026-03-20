@@ -120,7 +120,7 @@ The Kisii landscape is visually distinctive:
 
 - **Tourism Potential:** The landscape's beauty represents potential for environmental tourism, though development has been limited.
 
-The Kisii highlands' geography—with high rainfall, fertile soils, high altitude, and temperate climate—created ideal conditions for dense agricultural settlement and development. This geography has fundamentally shaped Kisii economic organization, population density, and cultural identity. Environmental challenges from intensive land use now threaten the sustainability of the system that the geography originally supported.
+The Kisii highlands' geography - with high rainfall, fertile soils, high altitude, and temperate climate - created ideal conditions for dense agricultural settlement and development. This geography has fundamentally shaped Kisii economic organization, population density, and cultural identity. Environmental challenges from intensive land use now threaten the sustainability of the system that the geography originally supported.
 
 ## See Also
 

@@ -2,7 +2,7 @@ The Boston Marathon, held annually since 1897 and one of the world's most presti
 
 The shift toward Kenyan dominance in Boston began in 1988 when Ibrahim Hussein, a Kenyan marathoner, won the race. This victory opened the door for subsequent Kenyan runners. Throughout the 1990s and 2000s, as Kenya's marathon infrastructure and prize money ecosystem developed, more Kenyan athletes competed in Boston. By the 2000s, Kenyan runners were winning the majority of Boston Marathons annually.
 
-The Boston Marathon offers substantial prize money, with first-place winners earning over $150,000. This prize money, combined with appearance fees and international sponsorships, makes Boston one of the world's most financially attractive marathons. Kenyan runners, trained at altitude and represented by major agents, compete in Boston annually as a key event in their racing calendars.
+The Boston Marathon offers substantial prize money, with first-place winners earning over \$150,000. This prize money, combined with appearance fees and international sponsorships, makes Boston one of the world's most financially attractive marathons. Kenyan runners, trained at altitude and represented by major agents, compete in Boston annually as a key event in their racing calendars.
 
 Boston's flat course, relatively gentle terrain, and cool weather create favorable conditions for fast marathon times. These conditions, combined with Kenya's elite field competing, have led to multiple course records set by Kenyans. The convergence of Kenya's running talent, Kenyan agents' focus on Boston as a major race, and Boston's prestige has created a self-reinforcing cycle where Boston is expected to be won by a Kenyan runner.
 

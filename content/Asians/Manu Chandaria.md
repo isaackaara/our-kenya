@@ -6,7 +6,7 @@ Chandaria was born in [[Nairobi]] to an Indian family involved in trade and busi
 
 ## Building the Comcraft Group
 
-Chandaria transformed the family business into Comcraft, a multibillion-dollar conglomerate. Comcraft operates in steel, aluminum, manufacturing, and other industrial sectors. The group trades in over 40 countries and is valued at approximately US$2.5 billion. Chandaria's business acumen, persistence, and willingness to take calculated risks built this empire over decades.
+Chandaria transformed the family business into Comcraft, a multibillion-dollar conglomerate. Comcraft operates in steel, aluminum, manufacturing, and other industrial sectors. The group trades in over 40 countries and is valued at approximately US\$2.5 billion. Chandaria's business acumen, persistence, and willingness to take calculated risks built this empire over decades.
 
 ## Honors and Recognition
 

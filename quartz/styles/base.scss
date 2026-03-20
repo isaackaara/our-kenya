@@ -639,3 +639,42 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+// Accessibility: skip-to-content link
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  z-index: 999;
+  padding: 0.5rem 1rem;
+  background: var(--light);
+  color: var(--dark);
+  border: 2px solid var(--dark);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+}
+
+// Accessibility: focus indicators for keyboard users
+:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+// Accessibility: reduced motion preference
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

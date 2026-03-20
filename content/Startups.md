@@ -1,0 +1,32 @@
+Kenya's startup ecosystem emerged from the convergence of three forces in the late 2000s: the revolutionary success of [[M-Pesa]], which proved that world-class technology innovation could originate in East Africa; the landing of the [[TEAMS Cable Kenya|TEAMS]] and SEACOM submarine cables in 2009, which collapsed [[Bandwidth Cost Collapse Kenya|bandwidth costs]] by over 90 percent; and the policy vision of [[Bitange Ndemo and ICT Policy|Bitange Ndemo]], whose tenure as ICT Permanent Secretary laid the institutional groundwork for what would become [[Silicon Savannah]].
+
+The ecosystem's physical centre of gravity was [[iHub Nairobi|iHub]], founded by [[Erik Hersman]] in 2010 as a co-working space, community hub, and meeting point for developers, founders, and investors. Around iHub, a constellation of incubators and accelerators - [[Nailab]], [[iLabAfrica]], [[88mph Accelerator]], [[Nairobi Garage]], [[GrowthAfrica]], [[C4DLab]], and later [[Google Launchpad Africa]] and [[Antler East Africa]] - provided the scaffolding for a generation of entrepreneurs to build companies.
+
+The companies that emerged spanned every sector of the Kenyan economy. In fintech, [[Cellulant]], [[Pesapal]], [[iPay Kenya]], [[Kopokopo]], and [[PesaLink]] built the payment infrastructure layer, while [[Tala]] and [[Branch International]] pioneered digital lending and [[BitPesa]] opened cryptocurrency corridors. [[Craft Silicon]] exported banking software across Africa and Asia. In agriculture, [[Twiga Foods]] reimagined fresh produce supply chains, [[Apollo Agriculture]] brought satellite-guided inputs to smallholders, and [[FarmDrive]] used alternative data for farmer credit scoring - though [[Tulaa Fraud Scandal|Tulaa's fraud scandal]] exposed the sector's governance risks. E-commerce ventures including [[Jumia Kenya]], [[Kilimall]], [[Sky.Garden]], [[Copia Global]], and [[Kyosk]] attempted to crack the puzzle of online retail in a market where physical shopping remained dominant. In energy, [[M-KOPA Solar]] and [[d.light]] brought solar power to off-grid households. [[BRCK]] built rugged hardware for African connectivity. [[Andela]] trained and placed developers globally. [[Eneza Education]] and [[Moringa School]] tackled skills gaps. [[Sama]] connected marginalised workers to the global AI training economy.
+
+Behind the companies stood the founders - a mix of Kenyan-raised entrepreneurs, [[Diaspora Tech Entrepreneurs Kenya|returning diaspora]], and international founders drawn to Nairobi's opportunity. [[Ken Njoroge]] and [[Sam Gichuru]] built Cellulant into a continental payments platform. [[Juliana Rotich]] co-created Ushahidi and BRCK. [[Peter Njonjo]] scaled Twiga Foods. [[Jesse Moore]] and [[Nick Hughes]] brought solar and mobile money to rural Kenya. [[Shivani Siroya]] built Tala into one of Africa's largest digital lenders. [[Audrey Cheng]] founded Moringa School to close the skills gap. [[Elizabeth Rossiello]] pioneered crypto-powered FX through BitPesa.
+
+The capital that fuelled this growth came from a distinctive mix of sources. [[DFI Role in Kenyan Tech|Development finance institutions]] - IFC, CDC Group, Norfund - anchored the venture funds that backed early-stage companies. Dedicated Africa funds including [[TLcom Capital]], [[Novastar Ventures]], [[Partech Africa]], [[DOB Equity]], [[Chandaria Capital]], and [[Savannah Fund]] deployed capital across the ecosystem, while [[Startup Funding Rounds Kenya|funding rounds]] grew from modest seeds to multi-million-dollar Series B raises. [[Startup Valuations Kenya|Valuations]] soared during the 2021-2022 boom before correcting sharply, and the challenge of [[Kenyan Tech Exits|generating exits]] remained the ecosystem's most stubborn structural constraint.
+
+The ecosystem also weathered painful failures. [[Sendy Collapse 2023|Sendy's \$26.5 million collapse]], [[Copia Global Shutdown 2024|Copia Global's \$123 million shutdown]], [[Sky.Garden Shutdown|Sky.Garden's quiet closure]], and [[Wazi Shutdown|Wazi's demise]] filled the [[Kenyan Startup Graveyard]] during [[The 2022-2024 Funding Winter|the 2022-2024 funding winter]] - the most severe contraction in African venture capital since the modern ecosystem began. The [[Ride-Hailing Price Wars Kenya|ride-hailing price wars]] between [[Uber Kenya]], [[Bolt Kenya]], [[Little Cab]], and [[SafeBoda Kenya]] demonstrated how global platform competition played out in a price-sensitive market.
+
+The regulatory environment evolved in parallel. [[CBK Fintech Regulation|The Central Bank's approach]] shifted from the permissive stance that enabled M-Pesa to the assertive oversight of [[Digital Lenders Regulation Kenya|digital lending regulation]]. The [[Data Protection Act 2019 Kenya]] introduced GDPR-style data privacy. The [[Startup Bill Kenya]] proposed dedicated startup legislation. The [[Competition Authority and Tech Kenya|Competition Authority]] scrutinised platform dominance. And the [[Tax on Digital Services Kenya|digital tax regime]] grew increasingly aggressive.
+
+The broader dynamics of the ecosystem - [[Nairobi as Tech Hub|Nairobi's emergence as Africa's tech capital]], the [[Kenya vs Nigeria Tech Rivalry|rivalry with Lagos]], the [[Gender Gap Kenyan Tech|persistent gender gap]], the growing influence of [[Chinese Tech in Kenya|Chinese technology]], the [[BPO Industry Kenya|BPO sector's]] quiet importance, the [[Gig Economy Kenya|gig economy's]] labour questions, the [[Developer Community Nairobi|developer community's]] maturation, and the uncomfortable reality of [[Fake Startups Kenya|performative entrepreneurship]] - together shaped a [[Silicon Savannah Narrative|narrative]] that attracted global attention, billions in capital, and a generation of ambitious founders to Nairobi.
+
+The sector overviews tell the story by vertical: [[Ride-Hailing Kenya]], [[AgriTech Startups Kenya]], [[E-Commerce Startups Kenya]], [[EdTech Startups Kenya]], and [[HealthTech Startups Kenya]] - each a distinct market with its own economics, failures, and lessons.
+
+## See Also
+
+- [[Silicon Savannah]]
+- [[iHub Nairobi]]
+- [[M-Pesa]]
+- [[Digital Economy Kenya]]
+- [[Nairobi as Tech Hub]]
+
+## Sources
+
+- Ndemo, Bitange, and Tim Weiss, eds. "Digital Kenya: An Entrepreneurial Revolution in the Making." Palgrave Macmillan, 2017.
+- Partech Africa. "Africa Tech Venture Capital Report 2022." Annual report, 2023.
+- Bright, Jake. "The Rise and Reassessment of Silicon Savannah." *TechCrunch*, 2023.
+- GSMA. "The Mobile Economy: Sub-Saharan Africa 2023." GSMA Intelligence, 2023.

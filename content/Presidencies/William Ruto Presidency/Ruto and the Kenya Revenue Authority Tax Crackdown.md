@@ -6,7 +6,7 @@ Small and medium enterprises (SMEs), which constitute Kenya's employment foundat
 
 The tax expansion strategy also reflected Ruto's broader austerity agenda, which sacrificed growth-focused spending for deficit reduction. Rather than investing additional revenue in productive activities that would expand the tax base organically, Ruto's government allocated tax increases toward debt servicing and recurrent expenditure. This approach managed fiscal deficits but did not address the underlying structural constraints on Kenya's growth trajectory.
 
-By 2025, the KRA's aggressive posture had become controversial, with business organizations arguing that excessive tax compliance costs were undermining competitiveness and investment sentiment. The revenue gains, though real, came at the cost of economic vitality and entrepreneurial confidence—suggesting that Ruto's tax expansion strategy had neared its sustainable limits.
+By 2025, the KRA's aggressive posture had become controversial, with business organizations arguing that excessive tax compliance costs were undermining competitiveness and investment sentiment. The revenue gains, though real, came at the cost of economic vitality and entrepreneurial confidence - suggesting that Ruto's tax expansion strategy had neared its sustainable limits.
 
 ## See Also
 [[Ruto Economic Policy]]

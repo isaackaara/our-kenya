@@ -10,7 +10,7 @@ The southeastern highlands of Nyanza, home to the [[Gusii people]] people, prese
 
 Nyanza experienced some of the worst [[2007-2008 Post Election Violence]], with [[Kisumu County]] particularly affected by clashes, police shootings, and economic disruption following the disputed [[Elections]]. The province's sense of political exclusion fueled support for the [[Kenya Constitution 2010]], which promised equitable resource distribution and county-level governance that would reduce dependence on the goodwill of the central government.
 
-The abolition of provinces under the 2010 constitution transformed Nyanza from a single administrative unit into six counties—Kisumu, Siaya, Homa Bay, Migori, Kisii, and Nyamira—each with its own governor, assembly, and development priorities. This fragmentation created new local political dynamics while ending the provincial commissioner system that had served as an instrument of central government control since the colonial period.
+The abolition of provinces under the 2010 constitution transformed Nyanza from a single administrative unit into six counties - Kisumu, Siaya, Homa Bay, Migori, Kisii, and Nyamira - each with its own governor, assembly, and development priorities. This fragmentation created new local political dynamics while ending the provincial commissioner system that had served as an instrument of central government control since the colonial period.
 
 ## See Also
 - [[Lake Victoria]]

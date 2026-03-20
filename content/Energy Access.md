@@ -6,7 +6,7 @@ Geothermal energy has been Kenya's most significant contribution to renewable po
 
 Off-grid solar home systems have revolutionized energy access in areas beyond the grid's reach. Companies such as M-KOPA Solar, d.light, and Greenlight Planet have sold millions of solar units using pay-as-you-go financing models powered by [[M-Pesa]] mobile payments. These systems provide lighting, phone charging, and increasingly power for televisions and refrigeration, transforming household economies in pastoralist areas among the [[Turkana]], [[Samburu]], and other communities. Kenya's solar sector has attracted significant international investment and become a model for off-grid electrification across Africa.
 
-Despite progress in electricity access, cooking fuel remains Kenya's most persistent energy challenge. Over 70 percent of Kenyan households rely on biomass fuels—firewood and charcoal—for cooking, contributing to deforestation, indoor air pollution responsible for thousands of annual deaths, and significant time burdens particularly on women and girls. Liquefied petroleum gas (LPG) adoption has grown in urban areas but remains limited in rural households due to cost and distribution challenges. The [[Conservation]] implications of charcoal production, particularly in dryland areas, represent a significant environmental concern.
+Despite progress in electricity access, cooking fuel remains Kenya's most persistent energy challenge. Over 70 percent of Kenyan households rely on biomass fuels - firewood and charcoal - for cooking, contributing to deforestation, indoor air pollution responsible for thousands of annual deaths, and significant time burdens particularly on women and girls. Liquefied petroleum gas (LPG) adoption has grown in urban areas but remains limited in rural households due to cost and distribution challenges. The [[Conservation]] implications of charcoal production, particularly in dryland areas, represent a significant environmental concern.
 
 The energy sector has been a focus of [[Devolution Kenya]] debates, with county governments seeking greater control over energy planning and revenue from energy projects within their jurisdictions. The [[William Ruto Presidency]] has emphasized green energy and Kenya's role in global climate leadership, including hosting the Africa Climate Summit in 2023.
 
@@ -23,7 +23,7 @@ The energy sector has been a focus of [[Devolution Kenya]] debates, with county 
 ## Sources
 
 1. Republic of Kenya, Ministry of Energy, *Updated Least Cost Power Development Plan 2020-2040* (Nairobi: Government Printer, 2020).
-2. World Bank, *Kenya: Beyond Connections—Energy Access Diagnostic Report Based on the Multi-Tier Framework* (Washington, DC: World Bank, 2018).
+2. World Bank, *Kenya: Beyond Connections - Energy Access Diagnostic Report Based on the Multi-Tier Framework* (Washington, DC: World Bank, 2018).
 3. Kenya Power and Lighting Company, *Annual Report and Financial Statements 2022/2023* (Nairobi: Kenya Power, 2023).
 4. Catherine Wolfram, Orie Shelef, and Paul Gertler, "How Will Energy Demand Develop in the Developing World?" *Journal of Economic Perspectives* 26, no. 1 (2012): 119-138, with Kenya case study.
 5. International Renewable Energy Agency (IRENA), *Geothermal Energy in East Africa: Market and Policy Framework Review* (Abu Dhabi: IRENA, 2020), chapter on Kenya's Olkaria complex.

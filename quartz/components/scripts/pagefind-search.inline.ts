@@ -15,11 +15,13 @@ function setupPagefindSearch() {
   function closeSearch() {
     container!.style.display = "none"
     container!.style.pointerEvents = "none"
+    container!.setAttribute("aria-hidden", "true")
   }
 
   trigger.onclick = async function () {
     container!.style.display = ""
     container!.style.pointerEvents = "auto"
+    container!.removeAttribute("aria-hidden")
     if (!loaded) {
       loaded = true
       ;(trigger as any).__pagefindLoaded = true
@@ -77,6 +79,28 @@ function setupPagefindSearch() {
     if (e.key === "Escape") {
       closeSearch()
       document.removeEventListener("keydown", handler)
+    }
+  })
+
+  // Focus trap: keep Tab cycling within the modal when open
+  container.addEventListener("keydown", function (e) {
+    if (e.key !== "Tab") return
+    const focusable = container!.querySelectorAll<HTMLElement>(
+      'a[href], button, input, textarea, select, [tabindex]:not([tabindex="-1"])',
+    )
+    if (focusable.length === 0) return
+    const first = focusable[0]
+    const last = focusable[focusable.length - 1]
+    if (e.shiftKey) {
+      if (document.activeElement === first) {
+        e.preventDefault()
+        last.focus()
+      }
+    } else {
+      if (document.activeElement === last) {
+        e.preventDefault()
+        first.focus()
+      }
     }
   })
 }

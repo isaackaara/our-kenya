@@ -13,6 +13,7 @@ import {
   joinSegments,
   pathToRoot,
   simplifySlug,
+  resolveRelative,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
@@ -39,13 +40,37 @@ async function* processFolderInfo(
     const [tree, file] = folderContent
     const cfg = ctx.cfg.configuration
     const externalResources = pageResources(pathToRoot(slug), resources)
+    // Ensure fileData.slug matches the folder page slug so that
+    // resolveRelative in PageList generates correct relative URLs
+    const fileData = { ...file.data, slug }
+
+    // If the source file's slug differs from the folder page slug,
+    // inline links in the tree were resolved against the wrong base.
+    // Deep-clone the tree and re-resolve hrefs against the correct slug.
+    let renderTree = tree
+    if (file.data.slug && file.data.slug !== slug) {
+      renderTree = structuredClone(tree)
+      const fixLinks = (node: any) => {
+        if (node.type === "element" && node.tagName === "a" && node.properties?.["data-slug"]) {
+          const targetSlug = node.properties["data-slug"] as FullSlug
+          node.properties.href = resolveRelative(slug, targetSlug)
+        }
+        if (node.children) {
+          for (const child of node.children) {
+            fixLinks(child)
+          }
+        }
+      }
+      fixLinks(renderTree)
+    }
+
     const componentData: QuartzComponentProps = {
       ctx,
-      fileData: file.data,
+      fileData,
       externalResources,
       cfg,
       children: [],
-      tree,
+      tree: renderTree,
       allFiles,
     }
 
