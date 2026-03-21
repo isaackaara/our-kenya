@@ -103,7 +103,7 @@ export default ((opts?: TrailNavOptions) => {
       )
     }
 
-    // Bottom position — clean minimal nav, no big blocks
+    // Bottom position - clean minimal nav, no big blocks
     return (
       <div className={`trail-nav trail-nav-bottom-container ${displayClass ?? ""}`}>
         <div className="trail-nav-bottom">

@@ -2001,7 +2001,7 @@ export const trails: Trail[] = [
     id: "indian-ocean-taarab-journey",
     name: "A Thousand Years of Coastal Sound",
     category: "Music & Arts",
-    description: "Arab traders, the oud arriving in Mombasa, Swahili taarab — how the Indian Ocean made music that is entirely Kenyan.",
+    description: "Arab traders, the oud arriving in Mombasa, Swahili taarab - how the Indian Ocean made music that is entirely Kenyan.",
     emotionalScore: 2,
     stops: [
       { slug: "Swahili/Indian Ocean Climate and the Coast", title: "The Ocean Highway" },
@@ -2017,7 +2017,7 @@ export const trails: Trail[] = [
     id: "maasai-cattle-camp-concert-hall",
     name: "From Cattle Camp to Concert Hall",
     category: "Music & Arts",
-    description: "How Maasai vocal music — purely unaccompanied, rooted in warrior culture — reached world music stages without losing its soul.",
+    description: "How Maasai vocal music - purely unaccompanied, rooted in warrior culture - reached world music stages without losing its soul.",
     emotionalScore: 2,
     stops: [
       { slug: "Maasai/Maasai_Music_and_Song", title: "Maasai Vocal Tradition" },
@@ -2033,7 +2033,7 @@ export const trails: Trail[] = [
     id: "drum-that-built-nation",
     name: "The Drum That Built a Nation",
     category: "Music & Arts",
-    description: "Percussion traditions from 40+ communities converging into something called 'Kenyan music' — the rhythm of independence.",
+    description: "Percussion traditions from 40+ communities converging into something called 'Kenyan music' - the rhythm of independence.",
     emotionalScore: 2,
     stops: [
       { slug: "Music/Musical Instruments of Kenya - Percussion", title: "Kenya's Drums" },
@@ -2081,7 +2081,7 @@ export const trails: Trail[] = [
     id: "nyatiti-player-president",
     name: "The Nyatiti Player and the President",
     category: "Music & Arts",
-    description: "The Luo lyre's journey from ritual instrument to Ayub Ogada's global career — what it means in a modern Luo household.",
+    description: "The Luo lyre's journey from ritual instrument to Ayub Ogada's global career - what it means in a modern Luo household.",
     emotionalScore: 2,
     stops: [
       { slug: "Luo/Nyatiti", title: "The Luo Lyre" },
@@ -2097,7 +2097,7 @@ export const trails: Trail[] = [
     id: "mugithi-nights-kikuyu-bar",
     name: "Mugithi Nights: The Bar Where Kenya Talks",
     category: "Music & Arts",
-    description: "The Kikuyu roadside music tradition that is more political than any parliament — John De Mathew's life and death.",
+    description: "The Kikuyu roadside music tradition that is more political than any parliament - John De Mathew's life and death.",
     emotionalScore: 4,
     stops: [
       { slug: "Music/Kikuyu Mugithi Music", title: "Mugithi Music" },
@@ -2129,7 +2129,7 @@ export const trails: Trail[] = [
     id: "maasai-women-song-world",
     name: "Beadwork and Song: Maasai Women's World",
     category: "Music & Arts",
-    description: "Maasai women's music traditions run parallel to men's — what they sing in ceremonies that men never attend.",
+    description: "Maasai women's music traditions run parallel to men's - what they sing in ceremonies that men never attend.",
     emotionalScore: 2,
     stops: [
       { slug: "Maasai/Maasai_Music_and_Song", title: "Maasai Song Traditions" },
@@ -2274,7 +2274,7 @@ export const trails: Trail[] = [
     id: "startup-failures",
     name: "Move Fast and Break Things: Kenya's Startup Failures",
     category: "Technology",
-    description: "The cautionary tales behind Silicon Savannah — collapses, frauds, and the lessons Nairobi's tech ecosystem paid dearly to learn.",
+    description: "The cautionary tales behind Silicon Savannah - collapses, frauds, and the lessons Nairobi's tech ecosystem paid dearly to learn.",
     emotionalScore: 5,
     stops: [
       { slug: "Startups/Startup Valuations Kenya", title: "The Hype Machine" },
@@ -2291,7 +2291,7 @@ export const trails: Trail[] = [
     id: "the-founders",
     name: "The Founders",
     category: "Technology",
-    description: "The visionaries who built Kenya's tech ecosystem from scratch — from M-Pesa's architect to the engineers who put Nairobi on the global startup map.",
+    description: "The visionaries who built Kenya's tech ecosystem from scratch - from M-Pesa's architect to the engineers who put Nairobi on the global startup map.",
     emotionalScore: 2,
     stops: [
       { slug: "Startups/Nick Hughes", title: "Nick Hughes and M-Pesa" },

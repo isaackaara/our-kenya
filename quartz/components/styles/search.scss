@@ -86,7 +86,7 @@
         font-size: 1.1em;
         border: 1px solid var(--lightgray);
 
-        &:focus {
+        &:focus:not(:focus-visible) {
           outline: none;
         }
       }
@@ -193,7 +193,6 @@
             margin: 0;
             text-transform: none;
             text-align: left;
-            outline: none;
             font-weight: inherit;
 
             &:hover,

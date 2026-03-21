@@ -66,7 +66,7 @@ export const category6Trails: Trail[] = [
     id: "indian-ocean-taarab-journey",
     name: "A Thousand Years of Coastal Sound",
     category: "Music",
-    description: "Arab traders, the oud arriving in Mombasa, Swahili taarab — how the Indian Ocean made music that is entirely Kenyan.",
+    description: "Arab traders, the oud arriving in Mombasa, Swahili taarab - how the Indian Ocean made music that is entirely Kenyan.",
     stops: [
       { slug: "Swahili/Indian Ocean Climate and the Coast", title: "The Ocean Highway" },
       { slug: "Swahili/Arab Settlement on the Coast", title: "Arab Settlement" },
@@ -81,7 +81,7 @@ export const category6Trails: Trail[] = [
     id: "maasai-cattle-camp-concert-hall",
     name: "From Cattle Camp to Concert Hall",
     category: "Music",
-    description: "How Maasai vocal music — purely unaccompanied, rooted in warrior culture — reached world music stages without losing its soul.",
+    description: "How Maasai vocal music - purely unaccompanied, rooted in warrior culture - reached world music stages without losing its soul.",
     stops: [
       { slug: "Maasai/Maasai_Music_and_Song", title: "Maasai Vocal Tradition" },
       { slug: "Maasai/Maasai_Warrior_Initiation", title: "Warrior Songs" },
@@ -96,7 +96,7 @@ export const category6Trails: Trail[] = [
     id: "drum-that-built-nation",
     name: "The Drum That Built a Nation",
     category: "Music",
-    description: "Percussion traditions from 40+ communities converging into something called 'Kenyan music' — the rhythm of independence.",
+    description: "Percussion traditions from 40+ communities converging into something called 'Kenyan music' - the rhythm of independence.",
     stops: [
       { slug: "Music/Musical Instruments of Kenya - Percussion", title: "Kenya's Drums" },
       { slug: "Luhya/Luhya Music Traditions", title: "Luhya Isukuti" },
@@ -141,7 +141,7 @@ export const category6Trails: Trail[] = [
     id: "nyatiti-player-president",
     name: "The Nyatiti Player and the President",
     category: "Music",
-    description: "The Luo lyre's journey from ritual instrument to Ayub Ogada's global career — what it means in a modern Luo household.",
+    description: "The Luo lyre's journey from ritual instrument to Ayub Ogada's global career - what it means in a modern Luo household.",
     stops: [
       { slug: "Luo/Nyatiti", title: "The Luo Lyre" },
       { slug: "Music/The Nyatiti", title: "The Instrument" },
@@ -156,7 +156,7 @@ export const category6Trails: Trail[] = [
     id: "mugithi-nights-kikuyu-bar",
     name: "Mugithi Nights: The Bar Where Kenya Talks",
     category: "Music",
-    description: "The Kikuyu roadside music tradition that is more political than any parliament — John De Mathew's life and death.",
+    description: "The Kikuyu roadside music tradition that is more political than any parliament - John De Mathew's life and death.",
     stops: [
       { slug: "Music/Kikuyu Mugithi Music", title: "Mugithi Music" },
       { slug: "Music/Mugithi Music Origins", title: "Birth of Mugithi" },
@@ -186,7 +186,7 @@ export const category6Trails: Trail[] = [
     id: "maasai-women-song-world",
     name: "Beadwork and Song: Maasai Women's World",
     category: "Music",
-    description: "Maasai women's music traditions run parallel to men's — what they sing in ceremonies that men never attend.",
+    description: "Maasai women's music traditions run parallel to men's - what they sing in ceremonies that men never attend.",
     stops: [
       { slug: "Maasai/Maasai_Music_and_Song", title: "Maasai Song Traditions" },
       { slug: "Maasai/Maasai_Women", title: "Maasai Women" },

@@ -1,9 +1,11 @@
-// Our Kenya Service Worker — Cache-first for static assets, network-first for HTML
-const CACHE_NAME = "ourkenya-v1"
+// Our Kenya Service Worker - Cache-first for static assets, network-first for HTML
+const CACHE_NAME = "ourkenya-v2"
 
 const PRECACHE_URLS = [
   "/static/scores.json",
   "/static/trail-scores.json",
+  "/static/games/daily-trivia.json",
+  "/static/games/timeline.json",
 ]
 
 // Install: precache critical assets

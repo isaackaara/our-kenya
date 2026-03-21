@@ -14,7 +14,8 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "extract-graph": "node scripts/extract-graph.js",
-    "build": "npx quartz build -d content && npx pagefind --site public && npm run extract-graph",
+    "generate-games": "node scripts/generate-game-data.cjs",
+    "build": "npx quartz build -d content && npx pagefind --site public && npm run extract-graph && npm run generate-games",
     "docs": "npm run extract-graph && npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",

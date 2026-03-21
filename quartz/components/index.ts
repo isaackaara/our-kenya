@@ -42,6 +42,10 @@ import HeroGraph from "./HeroGraph"
 import ListenButton from "./ListenButton"
 import PageviewTracker from "./PageviewTracker"
 import StatsDashboard from "./StatsDashboard"
+import GamesHub from "./GamesHub"
+import DailyTrivia from "./DailyTrivia"
+import TimelineGame from "./TimelineGame"
+import DailyGameWidget from "./DailyGameWidget"
 
 export {
   ArticleTitle,
@@ -89,4 +93,8 @@ export {
   ListenButton,
   PageviewTracker,
   StatsDashboard,
+  GamesHub,
+  DailyTrivia,
+  TimelineGame,
+  DailyGameWidget,
 }

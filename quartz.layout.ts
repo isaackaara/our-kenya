@@ -24,6 +24,19 @@ export const sharedPageComponents: SharedLayout = {
       condition: (page) => page.fileData.slug === "stats",
     }),
     Component.ConditionalRender({
+      component: Component.GamesHub(),
+      condition: (page) => page.fileData.slug === "games",
+    }),
+    Component.ConditionalRender({
+      component: Component.DailyTrivia(),
+      condition: (page) => page.fileData.slug === "games/daily-trivia",
+    }),
+    Component.ConditionalRender({
+      component: Component.TimelineGame(),
+      condition: (page) => page.fileData.slug === "games/timeline",
+    }),
+    Component.DailyGameWidget(),
+    Component.ConditionalRender({
       component: Component.HeroGraph(),
       condition: (page) => page.fileData.slug === "index",
     }),
@@ -49,6 +62,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Story Trails": "/STORY-TRAILS",
+      Games: "/games",
       "Help write the rest": "/contribute",
       Support: "/support",
       "Built by Kaara.Works": "https://kaara.works",

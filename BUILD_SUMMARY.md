@@ -26,7 +26,7 @@ Each note adheres to the GOLD STANDARD format:
 
 ### Formatting Rules (100% Compliance)
 
-- No em-dashes (character —): VERIFIED ZERO INSTANCES
+- No em-dashes (character -): VERIFIED ZERO INSTANCES
 - No double hyphens: VERIFIED
 - Commas and parentheses only for separations
 - Sample word count: Diani Beach.md = 526 words (within 400-700 range)

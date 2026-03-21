@@ -23,8 +23,8 @@
     border-color: var(--secondary);
   }
 
-  &:focus {
-    outline: 0;
+  &:focus:not(:focus-visible) {
+    outline: none;
   }
 }
 

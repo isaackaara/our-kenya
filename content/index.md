@@ -19,6 +19,8 @@ cssclasses:
 
 <div id="ok-daily-note"></div>
 
+<div id="ok-daily-game-widget"></div>
+
 ## The Shape of Kenya
 
 History is not a straight line. It is a web. Every event connects to someone, every person to a place, every place to an idea. Kenya's story is written in these connections. This is what that web looks like.

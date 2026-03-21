@@ -67,7 +67,7 @@ const ContributeForm: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
       </form>
 
       <p class="ok-form-note">
-        Isaac reviews every suggestion. Approved topics are researched and written before being
+        A moderator reviews every suggestion. Approved topics are researched and written before being
         added to the vault. This is how the archive grows.
       </p>
     </div>
