@@ -20,6 +20,10 @@ export const sharedPageComponents: SharedLayout = {
       condition: (page) => page.fileData.slug === "contribute",
     }),
     Component.ConditionalRender({
+      component: Component.StatsDashboard(),
+      condition: (page) => page.fileData.slug === "stats",
+    }),
+    Component.ConditionalRender({
       component: Component.HeroGraph(),
       condition: (page) => page.fileData.slug === "index",
     }),

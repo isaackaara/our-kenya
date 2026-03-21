@@ -41,6 +41,7 @@ import SiteNav from "./SiteNav"
 import HeroGraph from "./HeroGraph"
 import ListenButton from "./ListenButton"
 import PageviewTracker from "./PageviewTracker"
+import StatsDashboard from "./StatsDashboard"
 
 export {
   ArticleTitle,
@@ -87,4 +88,5 @@ export {
   HeroGraph,
   ListenButton,
   PageviewTracker,
+  StatsDashboard,
 }
