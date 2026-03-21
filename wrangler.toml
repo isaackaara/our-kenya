@@ -1,0 +1,4 @@
+[[d1_databases]]
+binding = "LISTENS_DB"
+database_name = "ourkenya-listens"
+database_id = "bb7727db-5628-4f5b-b238-fbacda2d84b2"

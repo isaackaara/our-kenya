@@ -40,6 +40,7 @@ import ExploreTree from "./ExploreTree"
 import SiteNav from "./SiteNav"
 import HeroGraph from "./HeroGraph"
 import ListenButton from "./ListenButton"
+import PageviewTracker from "./PageviewTracker"
 
 export {
   ArticleTitle,
@@ -85,4 +86,5 @@ export {
   SiteNav,
   HeroGraph,
   ListenButton,
+  PageviewTracker,
 }

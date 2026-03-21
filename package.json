@@ -19,7 +19,8 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "dev": "lsof -ti:8080 -ti:8788 | xargs kill -9 2>/dev/null; npx quartz build -d content && npx wrangler pages dev public/ --env-file .dev.vars --port 8788"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -100,6 +101,7 @@
     "yargs": "^18.0.0"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260317.1",
     "@types/d3": "^7.4.3",
     "@types/hast": "^3.0.4",
     "@types/js-yaml": "^4.0.9",
