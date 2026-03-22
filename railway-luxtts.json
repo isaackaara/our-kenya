@@ -1,0 +1,9 @@
+{
+  "name": "our-kenya-tts-luxtts",
+  "description": "LuxTTS single-sample generation for Our Kenya (comparison track)",
+  "builder": "dockerfile",
+  "deploy": {
+    "dockerfilePath": "Dockerfile.luxtts",
+    "restartPolicyType": "never"
+  }
+}
