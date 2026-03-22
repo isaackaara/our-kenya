@@ -231,7 +231,8 @@ document.addEventListener("nav", () => {
   // ── Fetch audio (static file or /api/tts fallback) ─────────
   const fetchAudio = async (text: string): Promise<Blob> => {
     // 1. Try static pre-generated MP3 first
-    const staticUrl = `/static/audio/${slug}.mp3`
+    const audioSlug = slug.split("/").pop()!.toLowerCase()
+    const staticUrl = `/static/audio/${audioSlug}.mp3`
     try {
       const staticRes = await fetch(staticUrl, { method: "HEAD" })
       if (staticRes.ok) {
