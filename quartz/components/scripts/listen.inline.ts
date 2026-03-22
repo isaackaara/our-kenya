@@ -228,8 +228,22 @@ document.addEventListener("nav", () => {
     navigator.mediaSession.setActionHandler("stop", () => stopPlayer())
   }
 
-  // ── Fetch audio from /api/tts ───────────────────────────────
+  // ── Fetch audio (static file or /api/tts fallback) ─────────
   const fetchAudio = async (text: string): Promise<Blob> => {
+    // 1. Try static pre-generated MP3 first
+    const staticUrl = `/static/audio/${slug}.mp3`
+    try {
+      const staticRes = await fetch(staticUrl, { method: "HEAD" })
+      if (staticRes.ok) {
+        // Static file exists - fetch it
+        const res = await fetch(staticUrl)
+        if (res.ok) return res.blob()
+      }
+    } catch {
+      // Static file doesn't exist or failed - fall through to API
+    }
+
+    // 2. Fallback: generate via /api/tts
     const res = await fetch("/api/tts", {
       method: "POST",
       headers: {
