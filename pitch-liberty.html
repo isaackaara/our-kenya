@@ -910,6 +910,237 @@ body {
   line-height: 1.65;
 }
 
+/* Tiers Section */
+
+.tiers {
+  padding: 7rem 0;
+  background: var(--ink);
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.tiers::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(184, 134, 11, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 80%, rgba(40, 75, 99, 0.1) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.tiers .container { position: relative; z-index: 1; }
+.tiers .scale-label { color: var(--gold-light); }
+
+.tiers h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: white;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.tiers .section-intro {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.65);
+  max-width: 700px;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+  font-weight: 300;
+}
+
+.scarcity-callout {
+  border-left: 3px solid var(--gold);
+  padding: 1rem 1.5rem;
+  margin-bottom: 3.5rem;
+  background: rgba(184, 134, 11, 0.06);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.92rem;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.6;
+  max-width: 750px;
+}
+
+.tier-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-bottom: 3.5rem;
+  align-items: start;
+}
+
+.tier-card {
+  padding: 2.5rem 2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.03);
+  position: relative;
+  transition: border-color 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tier-card:hover {
+  background: rgba(255,255,255,0.05);
+}
+
+/* Mwangaza - sage top border */
+.tier-card.tier-mwangaza {
+  border-top: 2px solid var(--sage);
+}
+.tier-card.tier-mwangaza:hover {
+  border-color: var(--sage);
+}
+
+/* Urithi - gold top border, recommended */
+.tier-card.tier-urithi {
+  border-top: 3px solid var(--gold);
+}
+.tier-card.tier-urithi:hover {
+  border-color: var(--gold);
+  box-shadow: 0 4px 30px rgba(184, 134, 11, 0.15);
+}
+
+/* Nyota - full gold border, warm tint */
+.tier-card.tier-nyota {
+  border: 1.5px solid var(--gold);
+  background: rgba(184, 134, 11, 0.06);
+}
+.tier-card.tier-nyota:hover {
+  box-shadow: 0 6px 36px rgba(184, 134, 11, 0.2);
+  background: rgba(184, 134, 11, 0.09);
+}
+
+.tier-badge {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  background: rgba(184, 134, 11, 0.15);
+  color: var(--gold-light);
+  margin-bottom: 1.25rem;
+}
+
+.tier-label {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold-light);
+  margin-bottom: 0.5rem;
+}
+
+.tier-card h3 {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0.4rem;
+}
+
+.tier-subtitle {
+  font-family: var(--serif);
+  font-size: 0.92rem;
+  font-style: italic;
+  color: rgba(255,255,255,0.5);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.tier-deliverables {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+.tier-deliverables li {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.6);
+  line-height: 1.7;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.tier-deliverables li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--gold-light);
+  opacity: 0.6;
+}
+
+.tier-roadmap {
+  font-family: var(--serif);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--gold-light);
+  line-height: 1.6;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  opacity: 0.8;
+}
+
+.tier-scarcity {
+  margin-top: 1.25rem;
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.45);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Domains grid */
+.domains-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 3rem;
+}
+
+.domain-cell {
+  padding: 0.9rem 0.75rem;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  text-align: center;
+  transition: border-color 0.3s ease;
+}
+
+.domain-cell:hover {
+  border-color: rgba(184, 134, 11, 0.3);
+}
+
+.domain-cell h4 {
+  font-family: var(--serif);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 0.2rem;
+  line-height: 1.3;
+}
+
+.domain-cell span {
+  font-size: 0.72rem;
+  color: var(--gold-light);
+  font-weight: 600;
+}
+
+.tiers-closing {
+  max-width: 700px;
+  font-size: 1.02rem;
+  color: rgba(255,255,255,0.55);
+  line-height: 1.75;
+  font-style: italic;
+}
+
 /* Why Now Section */
 
 .why-now {
@@ -1166,6 +1397,8 @@ body {
   .opp-grid { grid-template-columns: 1fr; }
   .engagement-cards { grid-template-columns: 1fr 1fr; }
   .momentum-grid { grid-template-columns: 1fr; }
+  .tier-grid { grid-template-columns: 1fr; }
+  .domains-grid { grid-template-columns: repeat(3, 1fr); }
 }
 
 @media (max-width: 600px) {
@@ -1176,7 +1409,8 @@ body {
   .stats-grid { grid-template-columns: 1fr 1fr; }
   .engagement-cards { grid-template-columns: 1fr; }
   .momentum-grid { grid-template-columns: 1fr; }
-  .scale, .difference, .experience, .readers, .partnership, .why-now, .momentum { padding: 4.5rem 0; }
+  .domains-grid { grid-template-columns: repeat(2, 1fr); }
+  .scale, .difference, .experience, .readers, .partnership, .why-now, .momentum, .tiers { padding: 4.5rem 0; }
   .cta { padding: 5rem 0; }
   .pull-quote blockquote::before { left: -0.5rem; top: -1rem; font-size: 3rem; }
   .graph-tabs { gap: 0.3rem; }
@@ -1433,7 +1667,7 @@ body {
 <!-- THE ROAD AHEAD -->
 <section class="partnership">
   <div class="container">
-    <div class="scale-label fade-in">The Road Ahead</div>
+    <div class="scale-label fade-in">The Vision</div>
     <h2 class="fade-in">This is just the beginning. And it is too big for one team alone.</h2>
     <p class="section-intro fade-in">7,759 notes is a foundation. But Kenya's full story is far larger. There are communities whose histories have never been documented. Oral traditions that will disappear within a generation if no one records them. Schools where students learn world history but not their own. Our Kenya was built to solve this. But solving it at the scale it deserves requires more than one team working alone.</p>
 
@@ -1461,6 +1695,93 @@ body {
     </div>
 
     <p class="section-intro fade-in" style="margin-top: 3rem; margin-bottom: 0;">We are not here with a fixed package. We are here with a vision and an invitation. The right partner will see what we see, and together, we will figure out exactly how to build it.</p>
+  </div>
+</section>
+
+<!-- THE INVITATION (TIERS) -->
+<section class="tiers">
+  <div class="container">
+    <div class="scale-label fade-in">The Invitation</div>
+    <h2 class="fade-in">Three ways to stand beside Kenya's story</h2>
+    <p class="section-intro fade-in">We are opening a small number of founding partnerships to brands that understand what it means to invest in a nation's memory. These are not sponsorships. They are stewardships — permanent associations with a platform that will outlast any campaign.</p>
+    <div class="scarcity-callout fade-in">Limited to 15 Domain Stewards, 15 Pillar Partners, and 3 Founding Architects. Positions are allocated by category and close permanently once filled.</div>
+
+    <div class="tier-grid">
+      <!-- Mwangaza -->
+      <div class="tier-card tier-mwangaza fade-in">
+        <div class="tier-label">Tier 1</div>
+        <h3>MWANGAZA</h3>
+        <p class="tier-subtitle">Domain Steward — "Your brand illuminates a domain of Kenya's history."</p>
+        <ul class="tier-deliverables">
+          <li>Present 5 story trails in one thematic category</li>
+          <li>Attribution on 1 knowledge graph category</li>
+          <li>Audio narration credit on sponsored trail notes</li>
+          <li>Engagement metrics for your domain via public analytics</li>
+          <li>Founding Partner badge (permanent)</li>
+          <li>Quarterly impact report</li>
+        </ul>
+        <div class="tier-roadmap">Funds deeper coverage and new content in your chosen domain.</div>
+      </div>
+
+      <!-- Urithi -->
+      <div class="tier-card tier-urithi fade-in">
+        <div class="tier-badge">Recommended</div>
+        <div class="tier-label">Tier 2</div>
+        <h3>URITHI</h3>
+        <p class="tier-subtitle">Pillar Partner — "Your brand owns an entire pillar of Kenya's heritage."</p>
+        <ul class="tier-deliverables">
+          <li>Everything in Mwangaza, plus:</li>
+          <li>Exclusive category ownership — sole brand, no competitors</li>
+          <li>Branded knowledge graph experience across your category</li>
+          <li>Fund creation of 50+ new Gold Standard notes</li>
+          <li>Co-branded educational outreach to Kenyan schools</li>
+          <li>Dedicated analytics dashboard</li>
+          <li>Annual "State of the Domain" report</li>
+        </ul>
+        <div class="tier-roadmap">Funds school partnerships and content preservation in your category.</div>
+        <div class="tier-scarcity">15 categories. 15 partners. First come, permanent.</div>
+      </div>
+
+      <!-- Nyota -->
+      <div class="tier-card tier-nyota fade-in">
+        <div class="tier-label">Tier 3</div>
+        <h3>NYOTA</h3>
+        <p class="tier-subtitle">Founding Architect — "Your brand builds Our Kenya alongside us."</p>
+        <ul class="tier-deliverables">
+          <li>Everything in Urithi, plus:</li>
+          <li>Platform-level naming: "Built with [Brand]"</li>
+          <li>Co-own the Oral History Preservation Programme</li>
+          <li>Mobile app presenting partner</li>
+          <li>Advisory seat on content roadmap (no editorial control)</li>
+          <li>Custom story trail for your brand's Kenyan story</li>
+          <li>Annual co-hosted partner event</li>
+        </ul>
+        <div class="tier-roadmap">Funds the mobile app, oral history field research, and East African expansion.</div>
+        <div class="tier-scarcity">Only 3 positions. Once filled, this tier closes permanently.</div>
+      </div>
+    </div>
+
+    <!-- Available domains -->
+    <div class="scale-label fade-in" style="margin-bottom: 1.5rem;">Available Domains</div>
+    <div class="domains-grid fade-in">
+      <div class="domain-cell"><h4>Conservation & Wildlife</h4><span>23 trails</span></div>
+      <div class="domain-cell"><h4>Music & Arts</h4><span>22 trails</span></div>
+      <div class="domain-cell"><h4>Maasai</h4><span>20 trails</span></div>
+      <div class="domain-cell"><h4>Luo</h4><span>14 trails</span></div>
+      <div class="domain-cell"><h4>Presidencies</h4><span>13 trails</span></div>
+      <div class="domain-cell"><h4>Politics & Elections</h4><span>13 trails</span></div>
+      <div class="domain-cell"><h4>Kikuyu</h4><span>9 trails</span></div>
+      <div class="domain-cell"><h4>Independence & Resistance</h4><span>8 trails</span></div>
+      <div class="domain-cell"><h4>People & Biography</h4><span>7 trails</span></div>
+      <div class="domain-cell"><h4>Land & Economy</h4><span>3 trails</span></div>
+      <div class="domain-cell"><h4>Technology</h4><span>3 trails</span></div>
+      <div class="domain-cell"><h4>Religion & Culture</h4><span>3 trails</span></div>
+      <div class="domain-cell"><h4>Corruption & Scandals</h4><span>2 trails</span></div>
+      <div class="domain-cell"><h4>Coast & Swahili</h4><span>2 trails</span></div>
+      <div class="domain-cell"><h4>Sports</h4><span>1 trail</span></div>
+    </div>
+
+    <p class="tiers-closing fade-in">We do not publish rate cards. Every partnership begins as a conversation. The tiers above describe what is possible. The details are designed together.</p>
   </div>
 </section>
 
