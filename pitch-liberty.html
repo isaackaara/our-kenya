@@ -1,0 +1,1754 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Kenya x Liberty Insurance Partnership Proposal</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --warm-white: #faf8f6;
+  --cream: #f5f0ea;
+  --sand: #e8e0d4;
+  --gold: #B8860B;
+  --gold-light: #d4a843;
+  --gold-glow: rgba(184, 134, 11, 0.12);
+  --teal: #284b63;
+  --teal-light: #3a6b8a;
+  --sage: #84a59d;
+  --ink: #1a1a1a;
+  --charcoal: #2b2b2b;
+  --slate: #4e4e4e;
+  --muted: #7a7a7a;
+  --rule: #d5cfc5;
+  --serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --sans: 'Source Sans 3', 'Source Sans Pro', -apple-system, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--sans);
+  color: var(--charcoal);
+  background: var(--warm-white);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* Utility */
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.section-rule {
+  width: 60px;
+  height: 2px;
+  background: var(--gold);
+  border: none;
+  margin: 0 0 1.5rem;
+}
+
+/* Hero */
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  background: var(--warm-white);
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 50%, var(--gold-glow) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 30%, rgba(40, 75, 99, 0.05) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, var(--rule) 20%, var(--rule) 80%, transparent 100%);
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  padding: 4rem 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 2.5rem;
+}
+
+.hero-badge::before {
+  content: '';
+  width: 28px;
+  height: 2px;
+  background: var(--gold);
+}
+
+.hero h1 {
+  font-family: var(--serif);
+  font-size: clamp(2.8rem, 6.5vw, 5.5rem);
+  font-weight: 700;
+  line-height: 1.05;
+  color: var(--ink);
+  max-width: 850px;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.hero h1 em {
+  font-style: italic;
+  color: var(--gold);
+}
+
+.hero-sub {
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+  color: var(--slate);
+  max-width: 560px;
+  line-height: 1.65;
+  font-weight: 300;
+  margin-bottom: 3rem;
+}
+
+.hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.hero-meta a {
+  color: var(--teal);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.hero-scroll {
+  position: absolute;
+  bottom: 2.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--muted);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  animation: gentle-bob 2s ease-in-out infinite;
+}
+
+.hero-scroll svg {
+  width: 20px;
+  height: 20px;
+  stroke: var(--muted);
+}
+
+@keyframes gentle-bob {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(6px); }
+}
+
+/* Scale Section */
+
+.scale {
+  padding: 7rem 0;
+  background: var(--cream);
+  position: relative;
+}
+
+.scale::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--rule), transparent);
+}
+
+.scale-label {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+
+.scale-heading {
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  font-weight: 700;
+  color: var(--ink);
+  max-width: 600px;
+  line-height: 1.2;
+  margin-bottom: 3.5rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.stat {
+  padding: 2.5rem 1.5rem;
+  border-right: 1px solid var(--rule);
+  text-align: center;
+}
+
+.stat:last-child { border-right: none; }
+
+.stat-number {
+  font-family: var(--serif);
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--slate);
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.scale-footnote {
+  margin-top: 2.5rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-style: italic;
+  text-align: center;
+}
+
+/* Difference Section */
+
+.difference {
+  padding: 7rem 0;
+  background: var(--warm-white);
+}
+
+.diff-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5rem;
+  align-items: start;
+}
+
+.diff-text .scale-label { margin-bottom: 1rem; }
+
+.diff-text h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+.diff-text p {
+  font-size: 1.02rem;
+  color: var(--slate);
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.diff-text p strong {
+  color: var(--charcoal);
+  font-weight: 600;
+}
+
+/* Interactive Knowledge Graph */
+.graph-visual {
+  position: relative;
+  padding: 2rem;
+}
+
+.graph-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.graph-node {
+  position: absolute;
+  background: white;
+  border: 1.5px solid var(--rule);
+  border-radius: 10px;
+  padding: 0.65rem 1rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--charcoal);
+  white-space: nowrap;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s ease;
+  opacity: 0;
+}
+
+.graph-node.gv-visible {
+  opacity: 1;
+}
+
+.graph-node:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.graph-node.center {
+  background: var(--teal);
+  color: white;
+  border-color: var(--teal);
+  font-size: 0.85rem;
+  z-index: 2;
+}
+
+.graph-node.gold {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+.graph-lines {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.graph-lines line {
+  stroke: var(--sand);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 4;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.graph-lines line.gv-visible {
+  opacity: 1;
+}
+
+/* Animated flowing dots */
+.graph-lines circle.flow-dot {
+  fill: var(--gold);
+  opacity: 0;
+  r: 2.5;
+}
+
+.graph-lines circle.flow-dot.gv-visible {
+  opacity: 0.6;
+}
+
+/* Graph toggle tabs */
+.graph-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.graph-tab {
+  padding: 0.4rem 0.9rem;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  border: 1.5px solid var(--sand);
+  border-radius: 20px;
+  background: white;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.graph-tab:hover {
+  border-color: var(--gold);
+  color: var(--charcoal);
+}
+
+.graph-tab.active {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: white;
+}
+
+/* Experience Section */
+
+.experience {
+  padding: 7rem 0;
+  background: var(--ink);
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.experience::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 70% 20%, rgba(184, 134, 11, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at 20% 80%, rgba(40, 75, 99, 0.1) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.experience .container { position: relative; z-index: 1; }
+
+.experience .scale-label { color: var(--gold-light); }
+
+.experience h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: white;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.experience .section-intro {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.65);
+  max-width: 600px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+  font-weight: 300;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+}
+
+.feature {
+  padding: 2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.03);
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+.feature:hover {
+  border-color: rgba(184, 134, 11, 0.3);
+  background: rgba(255,255,255,0.05);
+}
+
+.feature-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: rgba(184, 134, 11, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+}
+
+.feature-icon svg {
+  width: 22px;
+  height: 22px;
+  stroke: var(--gold-light);
+  fill: none;
+  stroke-width: 1.5;
+}
+
+.feature h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 0.6rem;
+}
+
+.feature p {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.55);
+  line-height: 1.6;
+}
+
+/* Readers Section */
+
+.readers {
+  padding: 7rem 0;
+  background: var(--warm-white);
+}
+
+.readers-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5rem;
+  align-items: center;
+}
+
+.readers h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+.readers p {
+  font-size: 1.02rem;
+  color: var(--slate);
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.engagement-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.engagement-card {
+  padding: 1.5rem;
+  background: var(--cream);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.engagement-card .ec-icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.engagement-card h4 {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.3rem;
+}
+
+.engagement-card p {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Contributions Section */
+
+.contributions {
+  padding: 7rem 0;
+  background: var(--ink);
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.contributions::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 30% 30%, rgba(184, 134, 11, 0.06) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 70%, rgba(40, 75, 99, 0.08) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.contributions .container { position: relative; z-index: 1; }
+.contributions .scale-label { color: var(--gold-light); }
+
+.contributions h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: white;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.contributions .section-intro {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.65);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+  font-weight: 300;
+}
+
+.contrib-flow {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto 1fr;
+  gap: 0;
+  align-items: stretch;
+  margin-bottom: 3.5rem;
+}
+
+.contrib-step {
+  padding: 2rem 1.5rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.03);
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+.contrib-step:hover {
+  border-color: rgba(184, 134, 11, 0.3);
+  background: rgba(255,255,255,0.05);
+}
+
+.contrib-step-num {
+  font-family: var(--serif);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+}
+
+.contrib-step h3 {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 0.6rem;
+}
+
+.contrib-step p {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.55);
+  line-height: 1.6;
+}
+
+.contrib-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.75rem;
+  color: var(--gold-light);
+  font-size: 1.2rem;
+  opacity: 0.5;
+}
+
+.contrib-detail {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.contrib-detail-card {
+  padding: 1.5rem;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.contrib-detail-card h4 {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--gold-light);
+  margin-bottom: 0.5rem;
+}
+
+.contrib-detail-card p {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.5);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.contrib-detail-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contrib-detail-card li {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.5);
+  line-height: 1.7;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.contrib-detail-card li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--gold-light);
+  opacity: 0.6;
+}
+
+.contrib-narrative {
+  max-width: 700px;
+  font-size: 1.02rem;
+  color: rgba(255,255,255,0.6);
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.contrib-narrative strong {
+  color: white;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .contrib-flow {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .contrib-arrow {
+    transform: rotate(90deg);
+    padding: 0.25rem 0;
+  }
+  .contrib-detail { grid-template-columns: 1fr; }
+  .contributions { padding: 4.5rem 0; }
+}
+
+/* Momentum Section */
+
+.momentum {
+  padding: 7rem 0;
+  background: var(--cream);
+  position: relative;
+}
+
+.momentum::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--rule), transparent);
+}
+
+.momentum h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.momentum .section-intro {
+  font-size: 1.05rem;
+  color: var(--slate);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3rem;
+}
+
+.momentum-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.momentum-card {
+  padding: 2rem 1.5rem;
+  background: white;
+  border-radius: 12px;
+  border: 1px solid var(--sand);
+  text-align: center;
+}
+
+.momentum-card .mc-number {
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.momentum-card h4 {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+}
+
+.momentum-card p {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.momentum-narrative {
+  max-width: 700px;
+  font-size: 1.02rem;
+  color: var(--slate);
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.momentum-narrative strong {
+  color: var(--charcoal);
+  font-weight: 600;
+}
+
+/* Partnership Section */
+
+.partnership {
+  padding: 7rem 0;
+  background: var(--warm-white);
+  position: relative;
+}
+
+.partnership .scale-label { color: var(--gold); }
+
+.partnership h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.partnership .section-intro {
+  font-size: 1.05rem;
+  color: var(--slate);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+}
+
+.opp-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.opp-card {
+  padding: 2rem;
+  background: var(--cream);
+  border-radius: 12px;
+  border: 1px solid var(--sand);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.opp-card:hover {
+  border-color: var(--gold);
+  box-shadow: 0 4px 20px var(--gold-glow);
+}
+
+.opp-num {
+  font-family: var(--serif);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--gold);
+  margin-bottom: 0.75rem;
+}
+
+.opp-card h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.6rem;
+}
+
+.opp-card p {
+  font-size: 0.9rem;
+  color: var(--slate);
+  line-height: 1.65;
+}
+
+/* Why Now Section */
+
+.why-now {
+  padding: 7rem 0;
+  background: var(--cream);
+}
+
+.why-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5rem;
+  align-items: center;
+}
+
+.why-now h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+.why-now p {
+  font-size: 1.02rem;
+  color: var(--slate);
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.timeline {
+  position: relative;
+  padding-left: 2rem;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--gold), var(--sage));
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 2rem;
+}
+
+.timeline-item:last-child { padding-bottom: 0; }
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -2rem;
+  top: 0.4rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--gold);
+  border: 2px solid var(--cream);
+  transform: translateX(-4px);
+}
+
+.timeline-item h4 {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.3rem;
+}
+
+.timeline-item p {
+  font-size: 0.88rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* CTA Section */
+
+.cta {
+  padding: 8rem 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.cta::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 50% 40%, rgba(184, 134, 11, 0.1) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.cta .container { position: relative; z-index: 1; }
+
+.cta h2 {
+  font-family: var(--serif);
+  font-size: clamp(2rem, 4.5vw, 3.5rem);
+  font-weight: 700;
+  color: white;
+  line-height: 1.15;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.cta h2 em {
+  font-style: italic;
+  color: var(--gold-light);
+}
+
+.cta-sub {
+  font-size: 1.1rem;
+  color: rgba(255,255,255,0.55);
+  max-width: 500px;
+  margin: 0 auto 3rem;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 4rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.9rem 2rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-gold {
+  background: var(--gold);
+  color: white;
+}
+
+.btn-gold:hover {
+  background: var(--gold-light);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(184, 134, 11, 0.3);
+}
+
+.btn-outline {
+  background: transparent;
+  color: white;
+  border: 1.5px solid rgba(255,255,255,0.25);
+}
+
+.btn-outline:hover {
+  border-color: rgba(255,255,255,0.5);
+  background: rgba(255,255,255,0.05);
+}
+
+.cta-contact {
+  padding-top: 3rem;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.cta-contact p {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.4);
+  margin-bottom: 0.3rem;
+}
+
+.cta-contact a {
+  color: var(--gold-light);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cta-contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+
+.pitch-footer {
+  padding: 2rem 0;
+  background: var(--ink);
+  border-top: 1px solid rgba(255,255,255,0.05);
+  text-align: center;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.25);
+}
+
+/* Pull quote */
+
+.pull-quote {
+  padding: 5rem 0;
+  text-align: center;
+  background: var(--warm-white);
+  position: relative;
+}
+
+.pull-quote blockquote {
+  font-family: var(--serif);
+  font-size: clamp(1.2rem, 2.5vw, 1.65rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--ink);
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.5;
+  position: relative;
+}
+
+.pull-quote blockquote::before {
+  content: '\201C';
+  font-size: 4rem;
+  color: var(--gold);
+  position: absolute;
+  top: -1.5rem;
+  left: -1.5rem;
+  font-family: var(--serif);
+  line-height: 1;
+}
+
+.pull-quote cite {
+  display: block;
+  margin-top: 1.25rem;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+}
+
+/* Responsive */
+
+@media (max-width: 900px) {
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  .stat:nth-child(2) { border-right: none; }
+  .stat { border-bottom: 1px solid var(--rule); }
+  .stat:nth-child(3), .stat:nth-child(4) { border-bottom: none; }
+  .diff-grid, .readers-grid, .why-grid { grid-template-columns: 1fr; gap: 3rem; }
+  .features { grid-template-columns: 1fr; }
+  .opp-grid { grid-template-columns: 1fr; }
+  .engagement-cards { grid-template-columns: 1fr 1fr; }
+  .momentum-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .container { padding: 0 1.25rem; }
+  .hero-inner { padding: 3rem 1.25rem; }
+  .hero-meta { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+  .hero-scroll { display: none; }
+  .stats-grid { grid-template-columns: 1fr 1fr; }
+  .engagement-cards { grid-template-columns: 1fr; }
+  .momentum-grid { grid-template-columns: 1fr; }
+  .scale, .difference, .experience, .readers, .partnership, .why-now, .momentum { padding: 4.5rem 0; }
+  .cta { padding: 5rem 0; }
+  .pull-quote blockquote::before { left: -0.5rem; top: -1rem; font-size: 3rem; }
+  .graph-tabs { gap: 0.3rem; }
+  .graph-tab { padding: 0.35rem 0.7rem; font-size: 0.68rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-in { opacity: 1; transform: none; transition: none; }
+  .hero-scroll { animation: none; }
+  html { scroll-behavior: auto; }
+  .flow-dot { display: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge">Partnership Proposal</div>
+    <h1>Kenya's Story.<br>Told by <em>Kenyans.</em></h1>
+    <p class="hero-sub">Our Kenya is the first knowledge graph of its kind for Kenya's history. 7,759 interconnected notes, from pre-colonial civilisations to today. A living, source-verified archive built by Kenyans, for everyone.</p>
+    <div class="hero-meta">
+      <span>Prepared for <strong>Liberty Insurance Kenya</strong></span>
+      <a href="https://ourkenya.com" target="_blank">ourkenya.com</a>
+    </div>
+  </div>
+  <div class="hero-scroll">
+    <span>Scroll</span>
+    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="6 9 12 15 18 9"/>
+    </svg>
+  </div>
+</section>
+
+<!-- SCALE -->
+<section class="scale">
+  <div class="container fade-in">
+    <div class="scale-label">The Archive</div>
+    <h2 class="scale-heading">The first structured knowledge graph of Kenya's history, built to a research standard.</h2>
+    <div class="stats-grid">
+      <div class="stat">
+        <div class="stat-number">7,759</div>
+        <div class="stat-label">Articles &amp; Notes</div>
+      </div>
+      <div class="stat">
+        <div class="stat-number">140</div>
+        <div class="stat-label">Story Trails</div>
+      </div>
+      <div class="stat">
+        <div class="stat-number">58</div>
+        <div class="stat-label">Knowledge Graphs</div>
+      </div>
+      <div class="stat">
+        <div class="stat-number">&infin;</div>
+        <div class="stat-label">Connections Between Stories</div>
+      </div>
+    </div>
+    <p class="scale-footnote">Every note is narrated in audio and verified against at least three credible sources. The archive grows daily.</p>
+  </div>
+</section>
+
+<!-- DIFFERENCE -->
+<section class="difference">
+  <div class="container">
+    <div class="diff-grid">
+      <div class="diff-text fade-in">
+        <div class="scale-label">What Makes This Different</div>
+        <h2>Not a blog.<br>Not an encyclopedia.<br>A <em style="font-family:var(--serif);color:var(--gold)">living map</em> of Kenya's story.</h2>
+        <p>Every note in Our Kenya follows a <strong>Gold Standard</strong>: 300 to 600 words of substantive prose, inline wikilinks that connect it to related notes, and a minimum of <strong>three credible, specific sources</strong> per article. Not "Kenya National Archives" as a vague citation, but named documents, named authors, verifiable references. This is what separates a knowledge graph from a blog.</p>
+        <p>Connections are not algorithmic guesses. They are hand-authored semantic links embedded directly in the text. When a reader explores the <strong>Mau Mau Uprising</strong>, the note itself links to Dedan Kimathi, Jomo Kenyatta, the State of Emergency, the Lancaster House Conferences, and Kenya's path to independence. Each of those notes links outward again. The graph is built from the content, not imposed on top of it.</p>
+        <p>One note leads to ten more. Ten lead to a hundred. Readers don't just read. They <strong>explore</strong>, following threads through centuries of Kenyan history that have never been structured this way before.</p>
+        <p>There is nothing else like this for Kenya. Nothing with this structure, this source rigour, or this depth of interconnection.</p>
+      </div>
+      <div class="graph-visual fade-in">
+        <div class="graph-container" id="graph-container">
+          <svg class="graph-lines" id="graph-lines" viewBox="0 0 420 420"></svg>
+        </div>
+        <div class="graph-tabs" id="graph-tabs"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PULL QUOTE -->
+<section class="pull-quote fade-in">
+  <div class="container">
+    <blockquote>
+      In the course of history, there comes a time when humanity is called to shift to a new level of consciousness, to reach a higher moral ground.
+      <cite>Wangari Maathai, Nobel Laureate</cite>
+    </blockquote>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section class="experience">
+  <div class="container">
+    <div class="scale-label fade-in">The Experience</div>
+    <h2 class="fade-in">Three ways to explore Kenya's history</h2>
+    <p class="section-intro fade-in">Whether you have five minutes or five hours, Our Kenya meets readers where they are, with curated narratives, visual maps, and audio that brings history to life.</p>
+    <div class="features">
+      <div class="feature fade-in">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/>
+            <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+          </svg>
+        </div>
+        <h3>Story Trails</h3>
+        <p>140 curated journeys through connected topics. Follow "The Hustler's Gambit" from Rift Valley politics to the 2022 election. Walk "Ivory Wars" from elephant herds to international diplomacy. Each trail is a narrative you can follow from beginning to end.</p>
+      </div>
+      <div class="feature fade-in">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="2" y1="12" x2="22" y2="12"/>
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+          </svg>
+        </div>
+        <h3>Knowledge Graphs</h3>
+        <p>58 interactive force-directed graphs rendered with D3.js. Each graph is built from the actual wikilink connections between notes, not from keywords or AI inference. Nodes represent real notes; edges represent real references. Click any node to read the full article. This is the structure of Kenya's history, made visible.</p>
+      </div>
+      <div class="feature fade-in">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M9 18V5l12-2v13"/>
+            <circle cx="6" cy="18" r="3"/>
+            <circle cx="18" cy="16" r="3"/>
+          </svg>
+        </div>
+        <h3>Audio Narration</h3>
+        <p>Every single article can be listened to. Press play and hear Kenya's history narrated aloud, on your commute, during a walk, or while you explore. History that meets you wherever you are.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- READERS -->
+<section class="readers">
+  <div class="container">
+    <div class="readers-grid">
+      <div class="fade-in">
+        <div class="scale-label">Who's Reading</div>
+        <h2>Kenyans are hungry for their own story</h2>
+        <p>Every day, readers from across Kenya and the diaspora discover Our Kenya. They come for one article and stay for twenty. They share trails with friends. They listen on their phones during matatu rides.</p>
+        <p>This isn't passive consumption. It's active exploration. Readers follow connections between articles, jumping from the assassination of Tom Mboya to the Kisumu Massacre to Luo political history to the roots of multi-party democracy.</p>
+        <p>Our engagement is public. Anyone can visit <strong>ourkenya.com/stats</strong> to see what Kenya is reading about its own history, in real time.</p>
+      </div>
+      <div class="fade-in">
+        <div class="engagement-cards">
+          <div class="engagement-card">
+            <div class="ec-icon">&#128214;</div>
+            <h4>Deep Reads</h4>
+            <p>Average reader explores 8+ articles per session</p>
+          </div>
+          <div class="engagement-card">
+            <div class="ec-icon">&#127911;</div>
+            <h4>Audio First</h4>
+            <p>Growing listener base across mobile</p>
+          </div>
+          <div class="engagement-card">
+            <div class="ec-icon">&#128279;</div>
+            <h4>Shared Stories</h4>
+            <p>Readers share trails &amp; discoveries with friends</p>
+          </div>
+          <div class="engagement-card">
+            <div class="ec-icon">&#127757;</div>
+            <h4>Diaspora Reach</h4>
+            <p>Readers from Kenya, UK, US, Canada &amp; beyond</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTRIBUTIONS -->
+<section class="contributions">
+  <div class="container">
+    <div class="scale-label fade-in">The Engine</div>
+    <h2 class="fade-in">Community contributions are the lifeblood of Our Kenya</h2>
+    <p class="section-intro fade-in">The archive cannot grow without Kenyans contributing their knowledge. But quality is non-negotiable. Every submission passes through a rigorous vetting process before it enters the graph. This is what keeps Our Kenya trustworthy.</p>
+
+    <div class="contrib-flow fade-in">
+      <div class="contrib-step">
+        <div class="contrib-step-num">STEP 1</div>
+        <h3>Submit</h3>
+        <p>Anyone can contribute. A reader submits a story, a correction, or a new topic through the contribution form at ourkenya.com/contribute. No account required. Just knowledge.</p>
+      </div>
+      <div class="contrib-arrow">&rarr;</div>
+      <div class="contrib-step">
+        <div class="contrib-step-num">STEP 2</div>
+        <h3>Gold Standard Review</h3>
+        <p>Every submission is reviewed against the Gold Standard. Does it have 300 to 600 words of substantive prose? Are there at least three credible, specific, verifiable sources? Are the wikilink connections accurate? If not, it goes back for revision.</p>
+      </div>
+      <div class="contrib-arrow">&rarr;</div>
+      <div class="contrib-step">
+        <div class="contrib-step-num">STEP 3</div>
+        <h3>Publish to the Graph</h3>
+        <p>Once approved, the note is woven into the knowledge graph. Wikilinks connect it to existing notes. It appears in relevant knowledge graphs, story trails, and search results. The archive grows by one verified node.</p>
+      </div>
+    </div>
+
+    <div class="contrib-detail fade-in">
+      <div class="contrib-detail-card">
+        <h4>The Gold Standard Checklist</h4>
+        <ul>
+          <li>300 to 600 words of original, substantive prose</li>
+          <li>Minimum 3 credible, named sources with verifiable references</li>
+          <li>Accurate wikilinks to existing notes in the graph</li>
+          <li>No frontmatter, no generic citations, no filler</li>
+          <li>Unique filename across the entire 7,759-note archive</li>
+        </ul>
+      </div>
+      <div class="contrib-detail-card">
+        <h4>Why This Matters</h4>
+        <p>Most community wikis suffer from unverified claims, broken links, and inconsistent quality. Our Kenya's Gold Standard prevents this by design. Every note that enters the graph has been checked for accuracy, sourced against real documents, and linked correctly. The result is a knowledge graph that readers, educators, and researchers can trust.</p>
+      </div>
+    </div>
+
+    <p class="contrib-narrative fade-in">Contributions come from everywhere: history teachers in Nakuru, university researchers in Nairobi, Kenyans in the diaspora who grew up hearing stories that were never written down. <strong>The knowledge exists. It is scattered across communities, families, and lived experience.</strong> Our Kenya gives it a structure and a permanent home.</p>
+    <p class="contrib-narrative fade-in">The more Kenyans contribute, the more complete the graph becomes. But "more" never means "lower standards." <strong>Every single note meets the same bar.</strong> That is what makes this an archive, not a forum.</p>
+  </div>
+</section>
+
+<!-- MOMENTUM -->
+<section class="momentum">
+  <div class="container">
+    <div class="scale-label fade-in">Early Traction</div>
+    <h2 class="fade-in">One week live. Already growing.</h2>
+    <p class="section-intro fade-in">Our Kenya launched one week ago. The response has been immediate, organic, and powerful. Without any paid promotion, the platform is growing through the strongest channel there is: word of mouth.</p>
+    <div class="momentum-grid fade-in">
+      <div class="momentum-card">
+        <div class="mc-number">7 days</div>
+        <h4>Since Launch</h4>
+        <p>Live and growing every day since day one</p>
+      </div>
+      <div class="momentum-card">
+        <div class="mc-number">100%</div>
+        <h4>Word of Mouth</h4>
+        <p>Zero paid promotion. Every reader found us organically</p>
+      </div>
+      <div class="momentum-card">
+        <div class="mc-number">8+</div>
+        <h4>Pages per Session</h4>
+        <p>Readers don't skim. They explore deeply.</p>
+      </div>
+    </div>
+    <p class="momentum-narrative fade-in">People are sharing Our Kenya with friends, family, and colleagues. Teachers are sending it to students. Kenyans in the diaspora are reconnecting with stories they were never taught. The feedback has been extraordinary: <strong>"I had no idea this existed," "I just spent two hours reading," "Every Kenyan needs to see this."</strong></p>
+    <p class="momentum-narrative fade-in">This is not a product searching for an audience. The audience was already there, waiting for someone to build this. Now that it exists, the question is not whether it will grow, but how fast, and who will be part of that story.</p>
+    <p class="momentum-narrative fade-in"><strong>A partner joining today is not sponsoring a bet.</strong> They are backing a movement that has already started, one that will only accelerate with the right support behind it.</p>
+  </div>
+</section>
+
+<!-- THE ROAD AHEAD -->
+<section class="partnership">
+  <div class="container">
+    <div class="scale-label fade-in">The Road Ahead</div>
+    <h2 class="fade-in">This is just the beginning. And it is too big for one team alone.</h2>
+    <p class="section-intro fade-in">7,759 notes is a foundation. But Kenya's full story is far larger. There are communities whose histories have never been documented. Oral traditions that will disappear within a generation if no one records them. Schools where students learn world history but not their own. Our Kenya was built to solve this. But solving it at the scale it deserves requires more than one team working alone.</p>
+
+    <div class="opp-grid">
+      <div class="opp-card fade-in">
+        <div class="opp-num">Schools</div>
+        <h3>Reaching Every Kenyan Classroom</h3>
+        <p>Imagine a Form 2 student in Kisumu opening Our Kenya and tracing the full arc of the Luo political journey, from Oginga Odinga to the 2010 constitution, sourced and connected. That is not a dream. The content exists today. What's missing is the bridge to get it into schools, teacher training, offline access, and institutional partnerships that make it part of the curriculum.</p>
+      </div>
+      <div class="opp-card fade-in">
+        <div class="opp-num">Preservation</div>
+        <h3>Recording What Will Otherwise Be Lost</h3>
+        <p>Elders across Kenya carry stories that exist nowhere in writing. Community oral histories, local political movements, forgotten economic experiments, cultural practices that shaped regions. Every year, some of these stories disappear permanently. With the right support, Our Kenya can send researchers into the field to capture, verify, and publish these histories before it is too late.</p>
+      </div>
+      <div class="opp-card fade-in">
+        <div class="opp-num">Access</div>
+        <h3>A Mobile-First Archive for Every Kenyan</h3>
+        <p>Most Kenyans access the internet on their phones, often with limited data. A dedicated mobile experience with offline reading, audio narration over low bandwidth, and lightweight interfaces would put Kenya's entire history in every pocket. The archive is ready. The delivery mechanism needs investment.</p>
+      </div>
+      <div class="opp-card fade-in">
+        <div class="opp-num">Legacy</div>
+        <h3>Being Part of Something Permanent</h3>
+        <p>This is not a campaign with a flight date. Our Kenya is a permanent piece of infrastructure for Kenyan knowledge. The partners who help build it now will be part of its story forever, credited not for a sponsorship, but for believing that Kenya's history deserves a home before anyone else did.</p>
+      </div>
+    </div>
+
+    <p class="section-intro fade-in" style="margin-top: 3rem; margin-bottom: 0;">We are not here with a fixed package. We are here with a vision and an invitation. The right partner will see what we see, and together, we will figure out exactly how to build it.</p>
+  </div>
+</section>
+
+<!-- WHY NOW -->
+<section class="why-now">
+  <div class="container">
+    <div class="why-grid">
+      <div class="fade-in">
+        <div class="scale-label">Why Now</div>
+        <h2>The window for founding partners is closing</h2>
+        <p>Our Kenya is live, growing, and gaining attention. Nothing like this exists for any African country: a structured, source-verified, interlinked knowledge graph of a nation's full history. Audio narration just launched. The stats dashboard is public. Every week, the platform reaches more people.</p>
+        <p>Our roadmap is ambitious: educational partnerships with Kenyan schools, a mobile app for offline access, expansion into community-contributed oral histories, and interactive games that make learning Kenya's history irresistible. Walking this journey with a partner is not optional. It is imperative.</p>
+        <p>The first partners to come on board will be remembered as the ones who believed early, who understood that Kenya's story deserves investment, not just attention.</p>
+        <p><strong>This is not another media buy.</strong> This is a chance to stand beside something that matters, at the moment when it matters most.</p>
+      </div>
+      <div class="fade-in">
+        <div class="timeline">
+          <div class="timeline-item">
+            <h4>Week 1: Launch</h4>
+            <p>7,759+ articles live. Organic traffic growing. Word of mouth spreading across Kenya and the diaspora</p>
+          </div>
+          <div class="timeline-item">
+            <h4>Month 1: Foundation</h4>
+            <p>Audio narration on every article. Public analytics dashboard. 140 story trails live</p>
+          </div>
+          <div class="timeline-item">
+            <h4>Quarter 1: Growth</h4>
+            <p>Educational outreach to Kenyan schools. Founding partner programme. Interactive history games</p>
+          </div>
+          <div class="timeline-item">
+            <h4>Year 1: Scale</h4>
+            <p>Mobile app. Community oral history submissions. Expansion to East African history. 50,000+ monthly readers</p>
+          </div>
+          <div class="timeline-item">
+            <h4>The Vision</h4>
+            <p>The definitive knowledge platform for African history, starting with Kenya</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="container fade-in">
+    <h2>Let's tell Kenya's<br>story <em>together.</em></h2>
+    <p class="cta-sub">Our Kenya is ready for partners who understand that preserving and sharing history is one of the most meaningful things a brand can do.</p>
+    <div class="cta-buttons">
+      <a href="https://ourkenya.com" class="btn btn-gold" target="_blank">Explore Our Kenya</a>
+    </div>
+    <div class="cta-contact">
+      <p>For partnership enquiries</p>
+      <p><a href="mailto:isaac@kaara.works">isaac@kaara.works</a></p>
+    </div>
+  </div>
+</section>
+
+<footer class="pitch-footer">
+  <p>Our Kenya &middot; Kenya's First Source-Verified Knowledge Graph &middot; ourkenya.com &middot; Built by Kaara.Works</p>
+</footer>
+
+<script>
+// ── Knowledge Graph Data & Rendering ─────────────────────────
+const graphSets = [
+  {
+    id: 'maumau',
+    label: 'Dedan Kimathi',
+    center: { text: 'Mau Mau Uprising', x: 210, y: 195 },
+    nodes: [
+      { text: 'Dedan Kimathi', x: 85, y: 60, cls: '' },
+      { text: 'Jomo Kenyatta', x: 330, y: 45, cls: 'gold' },
+      { text: 'State of Emergency', x: 50, y: 220, cls: '' },
+      { text: 'Lancaster House', x: 370, y: 180, cls: '' },
+      { text: 'Detention Camps', x: 100, y: 350, cls: '' },
+      { text: 'Independence 1963', x: 320, y: 330, cls: 'gold' },
+      { text: 'Kikuyu Central', x: 60, y: 140, cls: '' },
+      { text: 'Tom Mboya', x: 350, y: 280, cls: '' },
+    ],
+    edges: [
+      [210,195,85,60],[210,195,330,45],[210,195,50,220],[210,195,370,180],
+      [210,195,100,350],[210,195,320,330],[210,195,60,140],[210,195,350,280],
+      [85,60,50,220],[330,45,370,180],[100,350,320,330]
+    ]
+  },
+  {
+    id: 'corporate',
+    label: 'Corporate Kenya',
+    center: { text: 'Safaricom', x: 210, y: 195 },
+    nodes: [
+      { text: 'M-Pesa', x: 100, y: 55, cls: 'gold' },
+      { text: 'Bob Collymore', x: 330, y: 50, cls: '' },
+      { text: 'Vodafone', x: 55, y: 190, cls: '' },
+      { text: 'Equity Bank', x: 365, y: 160, cls: '' },
+      { text: 'NSE', x: 75, y: 330, cls: '' },
+      { text: 'KCB Group', x: 340, y: 320, cls: '' },
+      { text: 'Silicon Savannah', x: 50, y: 130, cls: 'gold' },
+      { text: 'iHub', x: 360, y: 250, cls: '' },
+    ],
+    edges: [
+      [210,195,100,55],[210,195,330,50],[210,195,55,190],[210,195,365,160],
+      [210,195,75,330],[210,195,340,320],[210,195,50,130],[210,195,360,250],
+      [100,55,50,130],[365,160,340,320],[100,55,55,190]
+    ]
+  },
+  {
+    id: 'music',
+    label: 'Kenyan Music',
+    center: { text: 'Kenyan Music', x: 210, y: 195 },
+    nodes: [
+      { text: 'Benga', x: 80, y: 60, cls: 'gold' },
+      { text: 'Taarab', x: 340, y: 45, cls: '' },
+      { text: 'Daudi Kabaka', x: 45, y: 200, cls: '' },
+      { text: 'Nyatiti', x: 370, y: 175, cls: '' },
+      { text: 'Genge', x: 90, y: 345, cls: 'gold' },
+      { text: 'Sauti Sol', x: 330, y: 325, cls: '' },
+      { text: 'Daniel Owino Misiani', x: 55, y: 135, cls: '' },
+      { text: 'Swahili Pop', x: 355, y: 260, cls: '' },
+    ],
+    edges: [
+      [210,195,80,60],[210,195,340,45],[210,195,45,200],[210,195,370,175],
+      [210,195,90,345],[210,195,330,325],[210,195,55,135],[210,195,355,260],
+      [80,60,55,135],[340,45,370,175],[90,345,330,325]
+    ]
+  },
+  {
+    id: 'conservation',
+    label: 'Conservation',
+    center: { text: 'Wildlife Kenya', x: 210, y: 195 },
+    nodes: [
+      { text: 'Tsavo', x: 90, y: 55, cls: '' },
+      { text: 'Ivory Ban 1989', x: 325, y: 50, cls: 'gold' },
+      { text: 'KWS', x: 50, y: 210, cls: '' },
+      { text: 'Richard Leakey', x: 365, y: 170, cls: '' },
+      { text: 'Maasai Mara', x: 85, y: 340, cls: '' },
+      { text: 'Wangari Maathai', x: 330, y: 330, cls: 'gold' },
+      { text: 'Green Belt Movement', x: 55, y: 140, cls: '' },
+      { text: 'Northern Rangelands', x: 350, y: 260, cls: '' },
+    ],
+    edges: [
+      [210,195,90,55],[210,195,325,50],[210,195,50,210],[210,195,365,170],
+      [210,195,85,340],[210,195,330,330],[210,195,55,140],[210,195,350,260],
+      [325,50,365,170],[55,140,330,330],[85,340,350,260]
+    ]
+  }
+];
+
+let currentGraph = 0;
+let flowAnimations = [];
+
+function buildGraph(idx) {
+  const g = graphSets[idx];
+  const container = document.getElementById('graph-container');
+  const svgEl = document.getElementById('graph-lines');
+
+  // Remove old nodes
+  container.querySelectorAll('.graph-node').forEach(n => n.remove());
+
+  // Clear SVG
+  svgEl.innerHTML = '';
+
+  // Draw edges
+  g.edges.forEach((e, i) => {
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', e[0]); line.setAttribute('y1', e[1]);
+    line.setAttribute('x2', e[2]); line.setAttribute('y2', e[3]);
+    svgEl.appendChild(line);
+    setTimeout(() => line.classList.add('gv-visible'), 80 + i * 40);
+  });
+
+  // Create animated flow dots
+  flowAnimations.forEach(id => cancelAnimationFrame(id));
+  flowAnimations = [];
+
+  g.edges.forEach((e, i) => {
+    const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    dot.classList.add('flow-dot');
+    dot.setAttribute('cx', e[0]);
+    dot.setAttribute('cy', e[1]);
+    svgEl.appendChild(dot);
+    setTimeout(() => dot.classList.add('gv-visible'), 300 + i * 60);
+
+    // Animate dot along edge
+    const x1 = e[0], y1 = e[1], x2 = e[2], y2 = e[3];
+    const duration = 2500 + Math.random() * 1500;
+    const offset = Math.random() * duration;
+    let start = null;
+
+    function animate(ts) {
+      if (!start) start = ts;
+      const elapsed = ((ts - start) + offset) % duration;
+      const t = elapsed / duration;
+      dot.setAttribute('cx', x1 + (x2 - x1) * t);
+      dot.setAttribute('cy', y1 + (y2 - y1) * t);
+      const id = requestAnimationFrame(animate);
+      flowAnimations.push(id);
+    }
+    const id = requestAnimationFrame(animate);
+    flowAnimations.push(id);
+  });
+
+  // Center node
+  const cx = (g.center.x / 420) * 100;
+  const cy = (g.center.y / 420) * 100;
+  const centerNode = document.createElement('div');
+  centerNode.className = 'graph-node center';
+  centerNode.style.left = cx + '%';
+  centerNode.style.top = cy + '%';
+  centerNode.style.transform = 'translate(-50%, -50%)';
+  centerNode.textContent = g.center.text;
+  container.appendChild(centerNode);
+  setTimeout(() => centerNode.classList.add('gv-visible'), 50);
+
+  // Outer nodes
+  g.nodes.forEach((n, i) => {
+    const nx = (n.x / 420) * 100;
+    const ny = (n.y / 420) * 100;
+    const el = document.createElement('div');
+    el.className = 'graph-node' + (n.cls ? ' ' + n.cls : '');
+    el.style.left = nx + '%';
+    el.style.top = ny + '%';
+    el.style.transform = 'translate(-50%, -50%)';
+    el.textContent = n.text;
+    container.appendChild(el);
+    setTimeout(() => el.classList.add('gv-visible'), 150 + i * 60);
+  });
+
+  // Update tabs
+  document.querySelectorAll('.graph-tab').forEach((tab, ti) => {
+    tab.classList.toggle('active', ti === idx);
+  });
+}
+
+// Build tabs
+const tabContainer = document.getElementById('graph-tabs');
+graphSets.forEach((g, i) => {
+  const btn = document.createElement('button');
+  btn.className = 'graph-tab' + (i === 0 ? ' active' : '');
+  btn.textContent = g.label;
+  btn.addEventListener('click', () => {
+    currentGraph = i;
+    buildGraph(i);
+  });
+  tabContainer.appendChild(btn);
+});
+
+// Initial render
+buildGraph(0);
+
+// Auto-cycle every 2 seconds
+let autoCycleTimer = setInterval(() => {
+  currentGraph = (currentGraph + 1) % graphSets.length;
+  buildGraph(currentGraph);
+}, 3000);
+
+// Pause auto-cycle on manual tab click, resume after 6 seconds
+tabContainer.addEventListener('click', () => {
+  clearInterval(autoCycleTimer);
+  autoCycleTimer = setInterval(() => {
+    currentGraph = (currentGraph + 1) % graphSets.length;
+    buildGraph(currentGraph);
+  }, 3000);
+});
+
+// ── Intersection Observer for fade-in ─────────────────────────
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, {
+  threshold: 0.15,
+  rootMargin: '0px 0px -40px 0px'
+});
+
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+
+// Stagger animation for cards in same parent
+document.querySelectorAll('.stats-grid, .features, .opp-grid, .engagement-cards, .momentum-grid').forEach(grid => {
+  const items = grid.querySelectorAll('.fade-in, .stat, .feature, .opp-card, .engagement-card, .momentum-card');
+  items.forEach((item, i) => {
+    item.style.transitionDelay = `${i * 0.1}s`;
+  });
+});
+</script>
+
+</body>
+</html>

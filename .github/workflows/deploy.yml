@@ -30,6 +30,9 @@ jobs:
       - name: Generate game data
         run: npm run generate-games
 
+      - name: Copy static pages
+        run: npm run copy-static-pages
+
       - name: Slim search index (Cloudflare 25MB file limit)
         run: |
           node -e "
