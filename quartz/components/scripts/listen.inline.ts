@@ -5,14 +5,21 @@ document.addEventListener("nav", () => {
   const article = document.querySelector("article")
   if (!article) return
 
-  // Hide on homepage, folder indexes, tags, and special pages
+  // Hide on non-note pages (special pages, hubs, stubs, indexes)
   const path = window.location.pathname.replace(/\/$/, "")
+  const nonNotePages = [
+    "", "/STORY-TRAILS", "/contribute", "/support", "/stats",
+    "/games", "/games/daily-trivia", "/games/timeline",
+    "/Kenya", "/Agriculture", "/Asians", "/Economy", "/explore",
+    "/Geography", "/Government", "/Gusii", "/Infrastructure",
+    "/KANU", "/Policy", "/Politics", "/Regional-Integration",
+    "/Startups", "/Tourism", "/Transportation", "/Turkana",
+  ]
   if (
-    path === "" ||
-    path === "/STORY-TRAILS" ||
-    path === "/contribute" ||
-    path === "/support" ||
-    path.startsWith("/tags")
+    nonNotePages.includes(path) ||
+    path.startsWith("/tags") ||
+    path.startsWith("/explore/") ||
+    path.startsWith("/Trails/")
   ) {
     container.style.display = "none"
     return
