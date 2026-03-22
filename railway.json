@@ -1,0 +1,14 @@
+{
+  "name": "our-kenya-tts-batch",
+  "description": "Batch TTS generation for Our Kenya notes using Nvidia Glow-TTS + HiFi-GAN",
+  "builder": "dockerfile",
+  "deploy": {
+    "startCommand": "python3 scripts/batch-tts-generation.py",
+    "restartPolicyType": "no"
+  },
+  "variables": {
+    "TTS_MODEL": "tts_models/en/ljspeech/glow-tts",
+    "TTS_QUALITY": "5",
+    "BATCH_CHECKPOINT": "true"
+  }
+}

@@ -1,0 +1,28 @@
+# Batch TTS Generation for Our Kenya
+# Use Python 3.10 slim for smaller image
+FROM python:3.10-slim
+
+# Install system dependencies for TTS
+RUN apt-get update && apt-get install -y \
+    ffmpeg \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements
+COPY requirements-tts.txt .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements-tts.txt
+
+# Copy application code
+COPY scripts/batch-tts-generation.py scripts/
+COPY content content/
+
+# Create output directory
+RUN mkdir -p public/audio
+
+# Run batch generation
+CMD ["python3", "scripts/batch-tts-generation.py"]

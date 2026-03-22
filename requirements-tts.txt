@@ -1,0 +1,7 @@
+# TTS Batch Generation Requirements
+TTS==0.21.3
+torch==2.1.2
+torchaudio==2.1.2
+scipy==1.11.4
+numpy==1.24.3
+librosa==0.10.0
