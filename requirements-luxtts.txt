@@ -1,0 +1,6 @@
+# LuxTTS Requirements (based on official repo)
+torch>=2.0.0
+torchaudio>=2.0.0
+soundfile
+librosa
+zipvoice
