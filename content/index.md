@@ -19,7 +19,6 @@ cssclasses:
 
 <div id="ok-daily-note"></div>
 
-<div id="ok-daily-game-widget"></div>
 
 ## The Shape of Kenya
 

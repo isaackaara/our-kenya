@@ -2,7 +2,6 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
 const navLinks = [
   { href: "/STORY-TRAILS", label: "Story Trails" },
-  { href: "/games", label: "Games" },
   { href: "/contribute", label: "Add to the story" },
   { href: "/support", label: "Support Our Kenya" },
 ]

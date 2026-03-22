@@ -62,7 +62,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Story Trails": "/STORY-TRAILS",
-      Games: "/games",
       "Help write the rest": "/contribute",
       Support: "/support",
       "Built by Kaara.Works": "https://kaara.works",
