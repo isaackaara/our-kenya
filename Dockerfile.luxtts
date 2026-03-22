@@ -1,4 +1,4 @@
-# LuxTTS Single-Sample Generation Dockerfile
+# LuxTTS with Web Server - Fixed Version
 FROM python:3.10-slim
 
 # Install system dependencies
@@ -16,13 +16,17 @@ RUN git clone https://github.com/ysharma3501/LuxTTS.git /tmp/LuxTTS && \
     pip install --no-cache-dir -e . && \
     cd /app
 
-# Copy our script, reference audio, and server
-COPY scripts/single-sample-luxtts.py scripts/
-COPY reference-voice.wav .
+# Copy scripts and files
+COPY scripts/single-sample-luxtts.py scripts/ 2>/dev/null || echo "No TTS script"
+COPY reference-voice.wav . 2>/dev/null || echo "No reference audio"
 COPY serve.py .
+COPY start.sh .
+
+# Make startup script executable
+RUN chmod +x start.sh
 
 # Create output directory
 RUN mkdir -p public/audio
 
-# Run TTS generation, then start web server
-CMD python3 scripts/single-sample-luxtts.py && python3 serve.py
+# Use the startup script
+CMD ["./start.sh"]
