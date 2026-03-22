@@ -24,6 +24,12 @@ jobs:
       - name: Build Pagefind search index
         run: npx pagefind --site public --output-path public/pagefind
 
+      - name: Extract graph data
+        run: npm run extract-graph
+
+      - name: Generate game data
+        run: npm run generate-games
+
       - name: Slim search index (Cloudflare 25MB file limit)
         run: |
           node -e "
@@ -45,4 +51,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy public --project-name=our-kenya --branch=main
+          command: pages deploy public --project-name=our-kenya
