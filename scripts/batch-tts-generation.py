@@ -193,8 +193,10 @@ def main():
     
     # Find all markdown files
     md_files = sorted(CONTENT_DIR.glob("*.md"))
+    # TEMP: Generate only 1 sample for comparison
+    md_files = md_files[:1]
     total = len(md_files)
-    log(f"Found {total} markdown files")
+    log(f"Found {total} markdown file(s) (SAMPLE MODE - 1 note only)")
     
     # Process in batches
     processed_in_batch = 0
