@@ -45,6 +45,9 @@ By the mid-1950s, the Mau Mau Uprising (1952-1960) had exposed the fragility of 
 - [[Coffee Industry Kenya]] - Settler agricultural production
 - [[Trade Union History Kenya]] - Worker resistance to colonial exploitation
 - [[Kenyan Asian Business Families]] - Asian intermediaries in colonial economy
+- [[Colonial Dual Economy]]
+- [[Colonial Infrastructure as Extraction]]
+- [[Settler Economy Legacy in Modern Kenya]]
 
 ## Sources
 

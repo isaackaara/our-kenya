@@ -57,6 +57,7 @@ The mixed economy of 1965-1990 redistributed wealth into African hands (particul
 - Africanisation Kenya
 - [[Economy]]
 - [[Colonial Economy]]
+- [[Settler Economy Legacy in Modern Kenya]]
 
 ## Sources
 

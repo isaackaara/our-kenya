@@ -91,6 +91,8 @@ Contemporary Kenya still bears the spatial legacy of the White Highlands system.
 - [[Maasai]]
 - [[The Scramble for East Africa]]
 - [[White Farmers Today]]
+- [[Soldier Settlement Scheme Kenya]]
+- [[Carter Land Commission 1934]]
 
 ## Sources
 

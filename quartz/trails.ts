@@ -134,6 +134,7 @@ export const trails: Trail[] = [
     emotionalScore: 6,
     stops: [
       { slug: "Kikuyu/White Highlands", title: "The White Highlands" },
+      { slug: "Colonial Kenya/Carter Land Commission 1934", title: "Drawing the Lines" },
       { slug: "Cross-Ethnic/Kenya Land and Freedom Army", title: "Land and Freedom" },
       { slug: "Kikuyu/Land Tenure Post Independence", title: "Independence Land Deals" },
       { slug: "Presidencies/Jomo Kenyatta Presidency/Kenyatta Land Policy", title: "Kenyatta Buys the Highlands" },
@@ -697,6 +698,7 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Kikuyu/Kikuyu Land Tenure (Githaka)", title: "What Githaka Meant" },
         { slug: "Europeans/The White Highlands", title: "The Theft of the Highlands" },
+        { slug: "Colonial Kenya/Carter Land Commission 1934", title: "The Carter Commission" },
         { slug: "Europeans/The Squatter System", title: "Forced Labor on Stolen Land" },
         { slug: "Kikuyu/Land Grievance and Kikuyu Politics", title: "The Political Economy of Anger" },
         { slug: "Kikuyu/Land Consolidation and Betterment", title: "The Colonial Solution That Made It Worse" },
@@ -2302,6 +2304,23 @@ export const trails: Trail[] = [
       { slug: "Startups/Elizabeth Rossiello", title: "Elizabeth Rossiello and BitPesa" },
       { slug: "Startups/Shivani Siroya", title: "Shivani Siroya and Tala" },
       { slug: "Startups/Audrey Cheng", title: "Audrey Cheng and Moringa School" }
+    ]
+  },
+  {
+    id: "the-settler-economy",
+    name: "The Settler Economy",
+    category: "Land & Economy",
+    description: "How colonial Kenya's economy was built to serve settlers — and why that architecture still shapes the country today.",
+    emotionalScore: 4,
+    stops: [
+      { slug: "Colonial Kenya/Colonial Infrastructure as Extraction", title: "The Extraction Machine" },
+      { slug: "Europeans/Soldier Settlement Scheme Kenya", title: "The Soldier Settlers" },
+      { slug: "Europeans/Convention of Associations Kenya", title: "The Settlers' Parliament" },
+      { slug: "Colonial Kenya/Carter Land Commission 1934", title: "Drawing the Lines" },
+      { slug: "Colonial Kenya/African Reserves Economy", title: "The Other Economy" },
+      { slug: "Colonial Kenya/Depression Era Colonial Kenya", title: "When the Boom Went Bust" },
+      { slug: "Colonial Kenya/Swynnerton Plan 1954", title: "Too Little, Too Late" },
+      { slug: "Corporate Kenya/Settler Economy Legacy in Modern Kenya", title: "The Long Shadow" }
     ]
   },
 ]

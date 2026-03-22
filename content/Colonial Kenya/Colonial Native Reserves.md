@@ -20,6 +20,8 @@ The confining function of reserves emerged clearly during periods of nationalist
 [[Environmental Art]]
 [[District Commissioner Role]]
 Indirect Rule System
+[[African Reserves Economy]]
+[[Carter Land Commission 1934]]
 
 ## Sources
 

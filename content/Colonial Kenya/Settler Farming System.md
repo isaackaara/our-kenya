@@ -16,6 +16,10 @@ By the 1940s, the settler system faced internal contradictions. The accumulation
 [[Colonial Agricultural Policy]]
 [[White Highlands]]
 [[Colonial Labor Codes]]
+[[Colonial Dual Economy]]
+[[Settler State Subsidies and Finance]]
+[[Convention of Associations Kenya]]
+[[Swynnerton Plan 1954]]
 
 ## Sources
 

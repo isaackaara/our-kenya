@@ -7,6 +7,17 @@ function initTrailHub() {
 
   if (!searchInput || !trailCount || categoryTabs.length === 0) return
 
+  // Randomize trail card order on each render
+  const grid = document.getElementById("trail-grid")
+  if (grid) {
+    const cards = Array.from(grid.children) as HTMLElement[]
+    for (let i = cards.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      grid.appendChild(cards[j])
+      cards[j] = cards[i]
+    }
+  }
+
   let activeCategory = "All"
   let searchQuery = ""
 

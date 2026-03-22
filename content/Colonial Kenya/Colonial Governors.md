@@ -20,6 +20,9 @@ Across the succession of Governors, certain patterns remained consistent. All pr
 [[Colonial Racial Discrimination]]
 [[Mau Mau Uprising]]
 [[Colonial Native Reserves]]
+[[Governor Edward Northey]]
+[[Governor Edward Grigg]]
+[[Governor Philip Mitchell]]
 
 ## Sources
 

@@ -72,6 +72,7 @@ His life illustrates how settler colonialism functioned in Kenya: through indivi
 - [[White Highlands and Settler Society]]
 - [[The 1923 Devonshire Declaration]]
 - [[Settler Families Across Generations]]
+- [[Convention of Associations Kenya]]
 
 ## Sources
 

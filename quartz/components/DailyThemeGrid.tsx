@@ -35,12 +35,10 @@ const DailyThemeGrid: QuartzComponent = () => {
 DailyThemeGrid.afterDOMLoaded = `
 (function() {
   var themes = ${JSON.stringify(themes)};
-  function seededShuffle(arr, seed) {
+  function shuffle(arr) {
     var a = arr.slice();
-    var s = seed;
     for (var i = a.length - 1; i > 0; i--) {
-      s = (s * 1664525 + 1013904223) & 0xffffffff;
-      var j = Math.abs(s) % (i + 1);
+      var j = Math.floor(Math.random() * (i + 1));
       var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
     }
     return a;
@@ -48,8 +46,7 @@ DailyThemeGrid.afterDOMLoaded = `
   function render() {
     var grid = document.getElementById("ok-theme-grid");
     if (!grid) return;
-    var today = Math.floor(Date.now() / 86400000);
-    var pick20 = seededShuffle(themes, today).slice(0, 20);
+    var pick20 = shuffle(themes).slice(0, 20);
     var html = "";
     for (var i = 0; i < pick20.length; i++) {
       var t = pick20[i];

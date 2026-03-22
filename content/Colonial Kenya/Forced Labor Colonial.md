@@ -16,6 +16,8 @@ The extent of forced labor can be quantified through recruitment records and tax
 [[Settler Farming System]]
 [[Colonial Policy Frameworks]]
 [[Colonial Wage Systems]]
+[[Colonial Labor Recruitment System]]
+[[Governor Edward Northey]]
 
 ## Sources
 

@@ -19,6 +19,9 @@ Labor policy integrated with agricultural policy to ensure cheap labor availabil
 [[Forced Labor Colonial]]
 [[Land Alienation]]
 Swynnerton Plan
+[[Swynnerton Plan 1954]]
+[[Maize Control in Colonial Kenya]]
+[[Colonial Veterinary and Agricultural Research]]
 
 ## Sources
 

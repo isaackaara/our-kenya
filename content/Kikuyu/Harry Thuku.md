@@ -25,6 +25,7 @@ Thuku represents the first generation of modern Kikuyu political action. His sup
 - [[White Highlands|White Highlands]]
 - [[Independence 1963|Independence 1963]]
 - [[Kenya Land and Freedom Army|Kenya Land and Freedom Army]]
+- [[Governor Edward Northey]]
 
 ## Related
 [[Kikuyu Central Association]] | [[Jomo Kenyatta]] | [[Kiambu]] | [[Githaka]] | [[White Highlands]]
