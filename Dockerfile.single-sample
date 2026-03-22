@@ -1,0 +1,20 @@
+# Single TTS Sample Generation for Our Kenya
+FROM python:3.10-slim
+
+# Install ffmpeg
+RUN apt-get update && apt-get install -y ffmpeg && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Install dependencies
+COPY requirements-tts.txt .
+RUN pip install --no-cache-dir -r requirements-tts.txt
+
+# Copy script
+COPY scripts/single-sample-tts.py scripts/
+
+# Create output dir
+RUN mkdir -p public/audio
+
+# Run single sample generation
+CMD ["python3", "scripts/single-sample-tts.py"]
