@@ -1,4 +1,4 @@
 <div class="trail-intro-page">
 <p class="trail-intro-paragraph">Tom Mboya was thirty-eight when he was shot outside a pharmacy on Government Road in Nairobi on July 5, 1969. By then he had organized the airlift that sent hundreds of Kenyan students to American universities, built a trade union movement from nothing, negotiated independence at Lancaster House, and made himself essential to every major political shift since the 1950s. He was Luo, brilliant, impatient, and too powerful for his own safety. His death triggered riots in Kisumu and marked the end of the idea that Kenya might become something other than what it became. This trail traces his rise, his work, and the question his assassination left unresolved.</p>
-<a href="/Luo/Tom-Mboya" class="trail-begin-btn">Begin Trail →</a>
+<a href="/Luo/Tom-Mboya" class="trail-begin-btn" data-trail="tom-mboya-the-man-who-should-have-been-president">Begin Trail →</a>
 </div>

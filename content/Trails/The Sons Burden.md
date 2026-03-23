@@ -1,4 +1,4 @@
 <div class="trail-intro-page">
 <p class="trail-intro-paragraph">Uhuru Kenyatta was born in 1961, two years before his father became president of independent Kenya. He grew up in State House, attended St. Mary's School in Nairobi, then went abroad for university. For most of his early life, he stayed out of politics, working in business, content to live off the family name without carrying its weight. Then Daniel arap Moi picked him in the late 1990s to revive KANU, and Uhuru was pulled into the role he had avoided. This trail follows the son of Jomo Kenyatta as he navigated the impossible task of inheriting a legacy he did not build and could never escape.</p>
-<a href="/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Kenyatta-Early-Political-Career" class="trail-begin-btn">Begin Trail →</a>
+<a href="/Presidencies/Uhuru-Kenyatta-Presidency/Uhuru-Kenyatta-Early-Political-Career" class="trail-begin-btn" data-trail="the-sons-burden">Begin Trail →</a>
 </div>

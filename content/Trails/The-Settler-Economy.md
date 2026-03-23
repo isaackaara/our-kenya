@@ -4,7 +4,7 @@ This trail follows that economic architecture from its foundations to its afterl
 
 Eight stops. One economy. Built to serve a minority -- and never fully dismantled.
 
-<a href="/Colonial-Kenya/Colonial-Infrastructure-as-Extraction" class="trail-begin-btn">Begin Trail →</a>
+<a href="/Colonial-Kenya/Colonial-Infrastructure-as-Extraction" class="trail-begin-btn" data-trail="the-settler-economy">Begin Trail →</a>
 
 ## See Also
 

@@ -15,121 +15,174 @@ export default ((opts?: TrailNavOptions) => {
     const trailMemberships = slugToTrails[slug]
     if (!trailMemberships || trailMemberships.length === 0) return null
 
-    // Show first trail if note is in multiple
-    const { trail, position: stopPosition } = trailMemberships[0]
-    const totalStops = trail.stops.length
-    const currentStop = stopPosition + 1
-    const isLastStop = stopPosition === totalStops - 1
-
-    const prevStop = stopPosition > 0 ? trail.stops[stopPosition - 1] : null
-    const nextStop = stopPosition < totalStops - 1 ? trail.stops[stopPosition + 1] : null
-
-    const otherTrailsCount = trailMemberships.length - 1
-
-    // Get previous stops for history stack
-    const previousStops = stopPosition > 0 ? trail.stops.slice(0, stopPosition) : []
-
-    // Generate dot indicators
-    const dots = Array.from({ length: totalStops }, (_, i) => {
-      const isCurrent = i === stopPosition
-      const isCompleted = i < stopPosition
-      const dotClass = isCompleted ? "completed" : isCurrent ? "current" : "remaining"
-      return (
-        <span
-          key={i}
-          className={`trail-dot ${dotClass}`}
-          aria-label={`Stop ${i + 1}${isCurrent ? " (current)" : ""}`}
-        />
-      )
-    })
-
     if (position === "top") {
       return (
         <div className={`trail-nav trail-nav-top-container ${displayClass ?? ""}`}>
-          <div className="trail-nav-top">
-            {/* History stack - only show if position > 0 */}
-            {previousStops.length > 0 && (
-              <div className="trail-history-stack">
-                {previousStops.map((stop, index) => {
-                  const stopNumber = index + 1
-                  const stackIndex = previousStops.length - 1 - index // Most recent at bottom
-                  const opacity = 0.85 - (stackIndex * 0.08) // Subtle opacity layering
-                  
-                  return (
-                    <a
-                      key={index}
-                      href={stopHref(stop)}
-                      className="trail-history-strip"
-                      style={{ opacity }}
-                      title={`Jump to Stop ${stopNumber}: ${stop.title}`}
-                    >
-                      <span className="trail-history-number">{stopNumber}</span>
-                      <span className="trail-history-text">{stop.title}</span>
-                      <span className="trail-history-chevron">→</span>
-                    </a>
-                  )
-                })}
-              </div>
-            )}
+          {trailMemberships.map(({ trail, position: stopPosition }, memberIdx) => {
+            const totalStops = trail.stops.length
+            const currentStop = stopPosition + 1
+            const prevStop = stopPosition > 0 ? trail.stops[stopPosition - 1] : null
+            const nextStop = stopPosition < totalStops - 1 ? trail.stops[stopPosition + 1] : null
+            const otherTrailsCount = trailMemberships.length - 1
+            const previousStops = stopPosition > 0 ? trail.stops.slice(0, stopPosition) : []
 
-            {/* Main card content */}
-            <div className="trail-card-main">
-              <a href="/STORY-TRAILS" className="trail-back-link">← All Story Trails</a>
-              <div className="trail-header">
-                <a href="/STORY-TRAILS" className="trail-name">
-                  Story Trail: {trail.name}
-                </a>
-              </div>
-              <div className="trail-dots">{dots}</div>
-              <span className="trail-position">Stop {currentStop} of {totalStops}</span>
-              <div className="trail-top-nav">
-                {prevStop
-                  ? <a href={stopHref(prevStop)} className="trail-top-prev">← {prevStop.title}</a>
-                  : <span className="trail-top-spacer" />
-                }
-                {nextStop
-                  ? <a href={stopHref(nextStop)} className="trail-top-next">{nextStop.title} →</a>
-                  : <a href="/STORY-TRAILS" className="trail-top-next">All trails →</a>
-                }
-              </div>
-              {otherTrailsCount > 0 && (
-                <div className="trail-other">
-                  Also part of {otherTrailsCount} other trail{otherTrailsCount > 1 ? "s" : ""}
+            const dots = Array.from({ length: totalStops }, (_, i) => {
+              const isCurrent = i === stopPosition
+              const isCompleted = i < stopPosition
+              const dotClass = isCompleted ? "completed" : isCurrent ? "current" : "remaining"
+              return (
+                <span
+                  key={i}
+                  className={`trail-dot ${dotClass}`}
+                  aria-label={`Stop ${i + 1}${isCurrent ? " (current)" : ""}`}
+                />
+              )
+            })
+
+            return (
+              <div
+                className="trail-nav-top"
+                data-trail-id={trail.id}
+                data-trail-pos={String(stopPosition)}
+                hidden={memberIdx > 0}
+              >
+                {previousStops.length > 0 && (
+                  <div className="trail-history-stack">
+                    {previousStops.map((stop, index) => {
+                      const stopNumber = index + 1
+                      const stackIndex = previousStops.length - 1 - index
+                      const opacity = 0.85 - (stackIndex * 0.08)
+
+                      return (
+                        <a
+                          key={index}
+                          href={stopHref(stop, trail.id, index)}
+                          className="trail-history-strip"
+                          style={{ opacity }}
+                          title={`Jump to Stop ${stopNumber}: ${stop.title}`}
+                        >
+                          <span className="trail-history-number">{stopNumber}</span>
+                          <span className="trail-history-text">{stop.title}</span>
+                          <span className="trail-history-chevron">→</span>
+                        </a>
+                      )
+                    })}
+                  </div>
+                )}
+
+                <div className="trail-card-main">
+                  <a href="/STORY-TRAILS" className="trail-back-link">← All Story Trails</a>
+                  <div className="trail-header">
+                    <a href="/STORY-TRAILS" className="trail-name">
+                      Story Trail: {trail.name}
+                    </a>
+                  </div>
+                  <div className="trail-dots">{dots}</div>
+                  <span className="trail-position">Stop {currentStop} of {totalStops}</span>
+                  <div className="trail-top-nav">
+                    {prevStop
+                      ? <a href={stopHref(prevStop, trail.id, stopPosition - 1)} className="trail-top-prev">← {prevStop.title}</a>
+                      : <span className="trail-top-spacer" />
+                    }
+                    {nextStop
+                      ? <a href={stopHref(nextStop, trail.id, stopPosition + 1)} className="trail-top-next">{nextStop.title} →</a>
+                      : <a href="/STORY-TRAILS" className="trail-top-next">All trails →</a>
+                    }
+                  </div>
+                  {otherTrailsCount > 0 && (
+                    <div className="trail-other">
+                      Also part of {otherTrailsCount} other trail{otherTrailsCount > 1 ? "s" : ""}
+                    </div>
+                  )}
                 </div>
-              )}
-            </div>
-          </div>
+              </div>
+            )
+          })}
         </div>
       )
     }
 
-    // Bottom position - clean minimal nav, no big blocks
+    // Bottom position
     return (
       <div className={`trail-nav trail-nav-bottom-container ${displayClass ?? ""}`}>
-        <div className="trail-nav-bottom">
-          <div className="trail-nav-buttons">
-            {prevStop ? (
-              <a href={stopHref(prevStop)} className="trail-nav-prev">
-                <span className="trail-nav-arrow">←</span>
-                <span className="trail-nav-label">{prevStop.title}</span>
-              </a>
-            ) : <div />}
-            {nextStop ? (
-              <a href={stopHref(nextStop)} className="trail-nav-next">
-                <span className="trail-nav-label">{nextStop.title}</span>
-                <span className="trail-nav-arrow">→</span>
-              </a>
-            ) : isLastStop ? (
-              <a href="/STORY-TRAILS" className="trail-nav-next trail-nav-done">
-                <span className="trail-nav-label">All trails</span>
-                <span className="trail-nav-arrow">→</span>
-              </a>
-            ) : <div />}
-          </div>
-        </div>
+        {trailMemberships.map(({ trail, position: stopPosition }, memberIdx) => {
+          const totalStops = trail.stops.length
+          const isLastStop = stopPosition === totalStops - 1
+          const prevStop = stopPosition > 0 ? trail.stops[stopPosition - 1] : null
+          const nextStop = stopPosition < totalStops - 1 ? trail.stops[stopPosition + 1] : null
+
+          return (
+            <div
+              className="trail-nav-bottom"
+              data-trail-id={trail.id}
+              data-trail-pos={String(stopPosition)}
+              hidden={memberIdx > 0}
+            >
+              <div className="trail-nav-buttons">
+                {prevStop ? (
+                  <a href={stopHref(prevStop, trail.id, stopPosition - 1)} className="trail-nav-prev">
+                    <span className="trail-nav-arrow">←</span>
+                    <span className="trail-nav-label">{prevStop.title}</span>
+                  </a>
+                ) : <div />}
+                {nextStop ? (
+                  <a href={stopHref(nextStop, trail.id, stopPosition + 1)} className="trail-nav-next">
+                    <span className="trail-nav-label">{nextStop.title}</span>
+                    <span className="trail-nav-arrow">→</span>
+                  </a>
+                ) : isLastStop ? (
+                  <a href="/STORY-TRAILS" className="trail-nav-next trail-nav-done">
+                    <span className="trail-nav-label">All trails</span>
+                    <span className="trail-nav-arrow">→</span>
+                  </a>
+                ) : <div />}
+              </div>
+            </div>
+          )
+        })}
       </div>
     )
   }
+
+  TrailNav.afterDOMLoaded = `
+  function selectTrail() {
+    var params = new URLSearchParams(window.location.search)
+    var trailId = params.get("trail")
+    if (!trailId) return
+    var stopIdx = params.get("stop")
+    document.querySelectorAll("[data-trail-id]").forEach(function(el) {
+      if (el.dataset.trailId !== trailId) {
+        el.hidden = true
+      } else if (stopIdx !== null && el.dataset.trailPos !== undefined) {
+        el.hidden = el.dataset.trailPos !== stopIdx
+      } else {
+        el.hidden = false
+      }
+    })
+  }
+  selectTrail()
+  document.addEventListener("nav", selectTrail)
+
+  // Intercept clicks on "Begin Trail" buttons with data-trail attribute
+  // to append ?trail= query param (can't embed in markdown hrefs because
+  // Quartz's CrawlLinks treats query params as part of the slug)
+  document.addEventListener("click", function(e) {
+    var btn = e.target.closest("a.trail-begin-btn[data-trail]")
+    if (!btn) return
+    var trailId = btn.dataset.trail
+    if (!trailId) return
+    e.preventDefault()
+    e.stopPropagation()
+    var href = btn.getAttribute("href")
+    var sep = href.indexOf("?") === -1 ? "?" : "&"
+    var dest = new URL(href + sep + "trail=" + trailId + "&stop=0", window.location.origin)
+    if (window.spaNavigate) {
+      window.spaNavigate(dest, false)
+    } else {
+      window.location.href = dest.toString()
+    }
+  }, true)
+  `
 
   TrailNav.css = `
   .trail-nav {
@@ -160,6 +213,14 @@ export default ((opts?: TrailNavOptions) => {
     overflow: hidden;
     display: flex;
     flex-direction: column;
+  }
+
+  .trail-nav-top[hidden] {
+    display: none;
+  }
+
+  .trail-nav-bottom[hidden] {
+    display: none;
   }
 
   /* History stack */

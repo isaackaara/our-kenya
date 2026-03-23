@@ -1434,7 +1434,6 @@ export const trails: Trail[] = [
       stops: [
         { slug: "Conservation/Tsavo East and West", title: "Tsavo East and West" },
         { slug: "Counties/Taita-Taveta/Tsavo Man-Eaters", title: "Tsavo Man-Eaters" },
-        { slug: "Counties/Taita-Taveta/Tsavo Man-Eaters", title: "Tsavo Man-Eaters" },
         { slug: "Counties/Taita-Taveta/Tsavo East National Park", title: "Tsavo East National Park" },
         { slug: "Counties/Taita-Taveta/Tsavo West National Park", title: "Tsavo West National Park" },
         { slug: "Counties/Taita-Taveta/Uganda Railway Taita-Taveta", title: "Uganda Railway Taita-Taveta" },
@@ -2333,8 +2332,11 @@ function normalizeSlug(s: string): string {
     .join("/")
 }
 
-export function stopHref(stop: TrailStop): string {
-  return "/" + normalizeSlug(stop.slug)
+export function stopHref(stop: TrailStop, trailId?: string, stopIndex?: number): string {
+  const base = "/" + normalizeSlug(stop.slug)
+  if (!trailId) return base
+  const params = `trail=${trailId}` + (stopIndex !== undefined ? `&stop=${stopIndex}` : "")
+  return `${base}?${params}`
 }
 
 // Index: slug -> list of trails containing it (and position)

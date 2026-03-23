@@ -1,8 +1,8 @@
 // Cloudflare Pages Function: POST /api/tts
-// Proxies text to OpenAI TTS API, caches at edge, returns MP3
+// Proxies text to Google Cloud TTS API (WaveNet), caches at edge, returns MP3
 
 interface Env {
-  OPENAI_API_KEY: string
+  GOOGLE_TTS_API_KEY: string
   LISTENS_DB: D1Database
 }
 
@@ -14,9 +14,9 @@ interface TtsRequest {
 const RATE_LIMIT_MAX = 20 // per IP per hour
 const RATE_LIMIT_WINDOW = 3600 // seconds
 const CACHE_TTL = 30 * 24 * 3600 // 30 days
-const MAX_CHUNK_CHARS = 4096
-const TTS_MODEL = "tts-1"
-const TTS_VOICE = "nova"
+const MAX_CHUNK_BYTES = 5000 // Google Cloud TTS input limit
+const TTS_VOICE = "en-US-Neural2-C" // Female, natural-sounding
+const TTS_LANGUAGE = "en-US"
 
 // Simple in-memory rate limit (resets on cold start — good enough for edge)
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>()
@@ -32,21 +32,30 @@ function isRateLimited(ip: string): boolean {
   return entry.count > RATE_LIMIT_MAX
 }
 
-// Split text at sentence boundaries, keeping chunks under MAX_CHUNK_CHARS
+// Split text at sentence boundaries, keeping chunks under MAX_CHUNK_BYTES
 function splitText(text: string): string[] {
-  if (text.length <= MAX_CHUNK_CHARS) return [text]
+  const textBytes = new TextEncoder().encode(text).byteLength
+  if (textBytes <= MAX_CHUNK_BYTES) return [text]
 
   const chunks: string[] = []
   let remaining = text
 
   while (remaining.length > 0) {
-    if (remaining.length <= MAX_CHUNK_CHARS) {
+    if (new TextEncoder().encode(remaining).byteLength <= MAX_CHUNK_BYTES) {
       chunks.push(remaining)
       break
     }
 
+    // Find a split point that keeps bytes under limit
+    // Start with a character estimate (most English chars are 1 byte)
+    let charLimit = MAX_CHUNK_BYTES
+    let slice = remaining.slice(0, charLimit)
+    while (new TextEncoder().encode(slice).byteLength > MAX_CHUNK_BYTES) {
+      charLimit = Math.floor(charLimit * 0.9)
+      slice = remaining.slice(0, charLimit)
+    }
+
     // Find last sentence boundary within limit
-    const slice = remaining.slice(0, MAX_CHUNK_CHARS)
     let splitIdx = -1
     for (const sep of [". ", "! ", "? ", ".\n", "!\n", "?\n"]) {
       const idx = slice.lastIndexOf(sep)
@@ -59,7 +68,7 @@ function splitText(text: string): string[] {
     }
     // Last resort: hard split
     if (splitIdx <= 0) {
-      splitIdx = MAX_CHUNK_CHARS
+      splitIdx = charLimit
     }
 
     chunks.push(remaining.slice(0, splitIdx).trim())
@@ -91,32 +100,34 @@ function concatBuffers(buffers: ArrayBuffer[]): ArrayBuffer {
   return result.buffer
 }
 
-async function generateTtsStream(text: string, apiKey: string): Promise<Response> {
-  const response = await fetch("https://api.openai.com/v1/audio/speech", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json",
+async function generateTtsBuffer(text: string, apiKey: string): Promise<ArrayBuffer> {
+  const response = await fetch(
+    `https://texttospeech.googleapis.com/v1/text:synthesize?key=${apiKey}`,
+    {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        input: { text },
+        voice: { languageCode: TTS_LANGUAGE, name: TTS_VOICE },
+        audioConfig: { audioEncoding: "MP3" },
+      }),
     },
-    body: JSON.stringify({
-      model: TTS_MODEL,
-      voice: TTS_VOICE,
-      input: text,
-      response_format: "mp3",
-    }),
-  })
+  )
 
   if (!response.ok) {
     const err = await response.text()
-    throw new Error(`OpenAI TTS error ${response.status}: ${err}`)
+    throw new Error(`Google TTS error ${response.status}: ${err}`)
   }
 
-  return response
-}
+  const data: { audioContent: string } = await response.json()
 
-async function generateTtsBuffer(text: string, apiKey: string): Promise<ArrayBuffer> {
-  const response = await generateTtsStream(text, apiKey)
-  return response.arrayBuffer()
+  // Google returns base64-encoded audio
+  const binaryString = atob(data.audioContent)
+  const bytes = new Uint8Array(binaryString.length)
+  for (let i = 0; i < binaryString.length; i++) {
+    bytes[i] = binaryString.charCodeAt(i)
+  }
+  return bytes.buffer
 }
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
@@ -134,7 +145,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
   }
 
   // Validate API key is configured
-  if (!env.OPENAI_API_KEY) {
+  if (!env.GOOGLE_TTS_API_KEY) {
     return new Response(JSON.stringify({ error: "TTS not configured" }), {
       status: 503,
       headers: { ...corsHeaders, "Content-Type": "application/json" },
@@ -216,26 +227,17 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
       "X-Cache": "MISS",
     }
 
+    let audioBuffer: ArrayBuffer
+
     if (chunks.length === 1) {
-      // Stream single-chunk response directly — no buffering
-      const ttsResponse = await generateTtsStream(chunks[0], env.OPENAI_API_KEY)
-
-      // Tee the stream: one for the client, one for caching
-      const [clientStream, cacheStream] = ttsResponse.body!.tee()
-      context.waitUntil(
-        new Response(cacheStream).arrayBuffer().then((buf) =>
-          cache.put(cacheKey, new Response(buf, { headers: responseHeaders }))
-        ),
+      audioBuffer = await generateTtsBuffer(chunks[0], env.GOOGLE_TTS_API_KEY)
+    } else {
+      // Multi-chunk: parallel TTS, buffer and concatenate
+      const buffers = await Promise.all(
+        chunks.map((chunk) => generateTtsBuffer(chunk, env.GOOGLE_TTS_API_KEY)),
       )
-
-      return new Response(clientStream, { headers: responseHeaders })
+      audioBuffer = concatBuffers(buffers)
     }
-
-    // Multi-chunk: parallel TTS, buffer and concatenate
-    const buffers = await Promise.all(
-      chunks.map((chunk) => generateTtsBuffer(chunk, env.OPENAI_API_KEY)),
-    )
-    const audioBuffer = concatBuffers(buffers)
 
     const response = new Response(audioBuffer, { headers: responseHeaders })
     context.waitUntil(cache.put(cacheKey, response.clone()))

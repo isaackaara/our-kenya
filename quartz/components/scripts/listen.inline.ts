@@ -232,7 +232,7 @@ document.addEventListener("nav", () => {
   const fetchAudio = async (text: string): Promise<Blob> => {
     // 1. Try static pre-generated MP3 first
     const audioSlug = slug.split("/").pop()!.toLowerCase()
-    const staticUrl = `/static/audio/${audioSlug}.mp3`
+    const staticUrl = `/audio/${audioSlug}.mp3`
     try {
       const staticRes = await fetch(staticUrl, { method: "HEAD" })
       if (staticRes.ok) {

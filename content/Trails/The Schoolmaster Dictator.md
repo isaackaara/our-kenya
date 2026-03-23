@@ -1,4 +1,4 @@
 <div class="trail-intro-page">
 <p class="trail-intro-paragraph">Daniel arap Moi taught at primary schools in Kabarnet and Kapsabet before entering politics in the 1950s. He was quiet, careful, uncharismatic in a way that made him seem harmless. Kenyatta chose him as vice president precisely because he did not threaten anyone, because the Kalenjin were a small enough community that Moi would need allies to survive. Then Kenyatta died in August 1978 and Moi inherited the state. What followed was twenty-four years of rule that grew more repressive with each year, until the schoolmaster had become the thing he once seemed incapable of: a ruler who held power through fear.</p>
-<a href="/Presidencies/Daniel-arap-Moi-Presidency/Moi-Rise-to-Power" class="trail-begin-btn">Begin Trail →</a>
+<a href="/Presidencies/Daniel-arap-Moi-Presidency/Moi-Rise-to-Power" class="trail-begin-btn" data-trail="schoolmaster-dictator">Begin Trail →</a>
 </div>
