@@ -1,0 +1,423 @@
+// ── Auth form ─────────────────────────────────────────────────
+.ok-analytics-auth {
+  max-width: 360px;
+  margin: 3rem auto;
+  text-align: center;
+
+  h2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--dark);
+    margin-bottom: 0.3rem;
+  }
+
+  p {
+    font-size: 0.85rem;
+    color: var(--gray);
+    margin-bottom: 1.2rem;
+  }
+}
+
+.ok-analytics-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.ok-analytics-key-input {
+  flex: 1;
+  padding: 0.55rem 0.8rem;
+  border: 1.5px solid var(--lightgray);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: var(--light);
+  color: var(--dark);
+  outline: none;
+
+  &:focus-visible {
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--secondary) 25%, transparent);
+  }
+}
+
+.ok-analytics-submit {
+  padding: 0.55rem 1.2rem;
+  background: var(--secondary);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+
+  &:hover {
+    opacity: 0.9;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+  }
+}
+
+.ok-analytics-error {
+  color: #ef4444;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+// ── Loading & empty states ────────────────────────────────────
+.ok-analytics-loading,
+.ok-analytics-empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--gray);
+  font-size: 0.95rem;
+}
+
+// ── Sections ──────────────────────────────────────────────────
+.ok-analytics-section {
+  margin-bottom: 2.5rem;
+
+  h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 0.8rem;
+    color: var(--dark);
+    border-bottom: 1.5px solid var(--lightgray);
+    padding-bottom: 0.4rem;
+  }
+
+  h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--darkgray);
+    margin-top: 1.5rem;
+    margin-bottom: 0.6rem;
+  }
+}
+
+// ── Metric cards grid ─────────────────────────────────────────
+.ok-analytics-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.ok-analytics-card {
+  padding: 1.1rem 1rem;
+  border: 1.5px solid var(--lightgray);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.ok-analytics-card-value {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--dark);
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+
+.ok-analytics-card-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--darkgray);
+  margin-top: 0.3rem;
+}
+
+.ok-analytics-card-extra {
+  font-size: 0.72rem;
+  color: var(--gray);
+  margin-top: 0.3rem;
+}
+
+// ── Mini progress bar (inside metric card) ────────────────────
+.ok-analytics-mini-bar {
+  height: 4px;
+  width: 80%;
+  margin: 0.4rem auto 0;
+  background: var(--lightgray);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.ok-analytics-mini-fill {
+  height: 100%;
+  background: var(--secondary);
+  border-radius: 2px;
+}
+
+// ── Bar chart ─────────────────────────────────────────────────
+.ok-analytics-chart {
+  margin-bottom: 1rem;
+}
+
+.ok-analytics-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 120px;
+  padding-bottom: 1.4rem;
+  position: relative;
+}
+
+.ok-analytics-bar-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  justify-content: flex-end;
+  position: relative;
+  cursor: default;
+}
+
+.ok-analytics-bar {
+  width: 100%;
+  background: var(--secondary);
+  border-radius: 2px 2px 0 0;
+  min-height: 1px;
+  transition: opacity 0.15s ease;
+}
+
+.ok-analytics-bar-col:hover .ok-analytics-bar {
+  opacity: 0.7;
+}
+
+.ok-analytics-bar-label {
+  position: absolute;
+  bottom: -1.3rem;
+  font-size: 0.6rem;
+  color: var(--gray);
+  white-space: nowrap;
+}
+
+// ── Tables ────────────────────────────────────────────────────
+.ok-analytics-table {
+  overflow-x: auto;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+
+  thead th {
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--gray);
+    padding: 0.5rem 0.6rem;
+    border-bottom: 1.5px solid var(--lightgray);
+  }
+
+  tbody td {
+    padding: 0.55rem 0.6rem;
+    border-bottom: 1px solid var(--lightgray);
+    color: var(--darkgray);
+  }
+
+  tbody tr:hover {
+    background: color-mix(in srgb, var(--lightgray) 30%, transparent);
+  }
+
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+    font-weight: 500;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.ok-analytics-rank {
+  width: 2rem;
+  text-align: center !important;
+  color: var(--gray) !important;
+  font-weight: 600;
+}
+
+.ok-analytics-num {
+  text-align: right !important;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.ok-analytics-delta-up {
+  color: #22c55e !important;
+  font-weight: 600;
+}
+
+// ── Event counts bar list ─────────────────────────────────────
+.ok-analytics-event-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ok-analytics-event-row {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.ok-analytics-event-label {
+  font-size: 0.82rem;
+  color: var(--darkgray);
+  min-width: 120px;
+  flex-shrink: 0;
+}
+
+.ok-analytics-event-bar-track {
+  flex: 1;
+  height: 6px;
+  background: var(--lightgray);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.ok-analytics-event-bar-fill {
+  height: 100%;
+  background: var(--secondary);
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+
+.ok-analytics-event-count {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--dark);
+  font-variant-numeric: tabular-nums;
+  min-width: 3rem;
+  text-align: right;
+}
+
+// ── Footer / logout ───────────────────────────────────────────
+.ok-analytics-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+  text-align: center;
+}
+
+.ok-analytics-logout {
+  padding: 0.4rem 1rem;
+  background: transparent;
+  color: var(--gray);
+  border: 1.5px solid var(--lightgray);
+  border-radius: 6px;
+  font-size: 0.8rem;
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--gray);
+    color: var(--darkgray);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+  }
+}
+
+// ── Dark mode ─────────────────────────────────────────────────
+[saved-theme="dark"] {
+  .ok-analytics-auth h2,
+  .ok-analytics-card-value,
+  .ok-analytics-section h2 {
+    color: var(--light);
+  }
+
+  .ok-analytics-key-input {
+    background: var(--darkgray);
+    border-color: var(--gray);
+    color: var(--light);
+  }
+
+  .ok-analytics-card {
+    border-color: var(--gray);
+  }
+
+  .ok-analytics-event-count {
+    color: var(--light);
+  }
+
+  .ok-analytics-event-bar-track,
+  .ok-analytics-mini-bar {
+    background: var(--gray);
+  }
+
+  .ok-analytics-table {
+    thead th {
+      border-bottom-color: var(--gray);
+    }
+    tbody td {
+      border-bottom-color: var(--gray);
+      color: var(--lightgray);
+    }
+    tbody tr:hover {
+      background: color-mix(in srgb, var(--gray) 20%, transparent);
+    }
+  }
+
+  .ok-analytics-section h2 {
+    border-bottom-color: var(--gray);
+  }
+
+  .ok-analytics-footer {
+    border-top-color: var(--gray);
+  }
+
+  .ok-analytics-logout {
+    border-color: var(--gray);
+    color: var(--lightgray);
+
+    &:hover {
+      border-color: var(--lightgray);
+      color: var(--light);
+    }
+  }
+}
+
+// ── Mobile responsive ─────────────────────────────────────────
+@media (max-width: 600px) {
+  .ok-analytics-cards {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.6rem;
+  }
+
+  .ok-analytics-card-value {
+    font-size: 1.4rem;
+  }
+
+  .ok-analytics-card {
+    padding: 0.8rem 0.7rem;
+  }
+
+  .ok-analytics-bars {
+    height: 80px;
+  }
+
+  .ok-analytics-event-label {
+    min-width: 80px;
+    font-size: 0.75rem;
+  }
+
+  .ok-analytics-form {
+    flex-direction: column;
+  }
+}
+
+// ── Reduced motion ────────────────────────────────────────────
+@media (prefers-reduced-motion: reduce) {
+  .ok-analytics-bar,
+  .ok-analytics-event-bar-fill {
+    transition: none;
+  }
+}

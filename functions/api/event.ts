@@ -1,5 +1,5 @@
-// Cloudflare Pages Function: POST /api/pageview
-// Logs page views for analytics
+// Cloudflare Pages Function: POST /api/event
+// Logs feature interaction events for analytics
 
 interface Env {
   LISTENS_DB: D1Database
@@ -18,17 +18,19 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     return new Response(null, { status: 204, headers: corsHeaders })
   }
 
-  let slug: string
-  let referrerSlug: string | null = null
+  let event_type: string
+  let slug: string | null = null
+  let meta: string | null = null
   try {
-    const body = await request.json() as { slug: string; referrer_slug?: string }
-    slug = body.slug
-    referrerSlug = body.referrer_slug || null
+    const body = await request.json() as { event_type: string; slug?: string; meta?: string }
+    event_type = body.event_type
+    slug = body.slug || null
+    meta = body.meta || null
   } catch {
     return new Response(null, { status: 400, headers: corsHeaders })
   }
 
-  if (!slug) {
+  if (!event_type) {
     return new Response(null, { status: 400, headers: corsHeaders })
   }
 
@@ -36,9 +38,9 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
 
   context.waitUntil(
     env.LISTENS_DB.prepare(
-      "INSERT INTO pageviews (slug, listener_id, referrer_slug) VALUES (?, ?, ?)",
+      "INSERT INTO events (event_type, slug, meta, listener_id) VALUES (?, ?, ?, ?)",
     )
-      .bind(slug, listenerId, referrerSlug)
+      .bind(event_type, slug, meta, listenerId)
       .run()
       .catch(() => {}),
   )

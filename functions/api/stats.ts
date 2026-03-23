@@ -48,10 +48,16 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     // Unique notes listened
     env.LISTENS_DB.prepare("SELECT COUNT(DISTINCT slug) as count FROM listens").first(),
 
-    // Top 20 most-read notes
+    // Top 20 most-read notes (content notes only)
     env.LISTENS_DB.prepare(
       `SELECT slug, COUNT(*) as total, COUNT(DISTINCT listener_id) as unique_users
-      FROM pageviews GROUP BY slug ORDER BY total DESC LIMIT 20`,
+      FROM pageviews
+      WHERE slug NOT IN ('STORY-TRAILS', 'stats', 'contribute', 'analytics', 'index', 'support', '404')
+        AND slug NOT LIKE 'games%'
+        AND slug NOT LIKE 'explore/%'
+        AND slug NOT LIKE 'Trails/%'
+        AND slug NOT LIKE 'tags/%'
+      GROUP BY slug ORDER BY total DESC LIMIT 20`,
     ).all(),
 
     // Top 20 most-listened notes

@@ -163,6 +163,25 @@ export default ((opts?: TrailNavOptions) => {
   selectTrail()
   document.addEventListener("nav", selectTrail)
 
+  // Track trail navigation events
+  document.addEventListener("click", function(e) {
+    var nextLink = e.target.closest("a.trail-nav-next, a.trail-top-next")
+    if (!nextLink) return
+    var trailEl = nextLink.closest("[data-trail-id]")
+    if (!trailEl) return
+    var trailId = trailEl.dataset.trailId
+    var pos = parseInt(trailEl.dataset.trailPos || "0", 10)
+    var totalDots = trailEl.querySelectorAll(".trail-dot").length
+    var isLast = nextLink.classList.contains("trail-nav-done") || (pos + 1 >= totalDots - 1)
+    var eventType = isLast ? "trail_complete" : "trail_advance"
+    var id = localStorage.getItem("ok-listener-id") || "anonymous"
+    fetch("/api/event", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Listener-ID": id },
+      body: JSON.stringify({ event_type: eventType, slug: window.location.pathname.replace(/^\\/|\\/$/g, ""), meta: trailId })
+    }).catch(function() {})
+  }, true)
+
   // Intercept clicks on "Begin Trail" buttons with data-trail attribute
   // to append ?trail= query param (can't embed in markdown hrefs because
   // Quartz's CrawlLinks treats query params as part of the slug)

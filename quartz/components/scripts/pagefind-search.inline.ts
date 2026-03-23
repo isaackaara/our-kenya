@@ -82,6 +82,20 @@ function setupPagefindSearch() {
     }
   })
 
+  // Track search result clicks
+  container.addEventListener("click", function (e) {
+    const link = (e.target as HTMLElement).closest("a.pagefind-ui__result-link") as HTMLAnchorElement | null
+    if (!link) return
+    const searchInput = document.querySelector<HTMLInputElement>("#pagefind-search input")
+    const query = searchInput?.value?.trim() || ""
+    const id = localStorage.getItem("ok-listener-id") || "anonymous"
+    fetch("/api/event", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Listener-ID": id },
+      body: JSON.stringify({ event_type: "search", slug: link.pathname.replace(/^\/|\/$/g, ""), meta: query }),
+    }).catch(() => {})
+  })
+
   // Focus trap: keep Tab cycling within the modal when open
   container.addEventListener("keydown", function (e) {
     if (e.key !== "Tab") return

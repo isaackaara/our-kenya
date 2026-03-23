@@ -43,6 +43,14 @@ DailyThemeGrid.afterDOMLoaded = `
     }
     return a;
   }
+  function shuffleChildren(container) {
+    var children = Array.prototype.slice.call(container.children);
+    for (var i = children.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      container.appendChild(children[j]);
+      children.splice(j, 1, children[i]);
+    }
+  }
   function render() {
     var grid = document.getElementById("ok-theme-grid");
     if (!grid) return;
@@ -54,6 +62,13 @@ DailyThemeGrid.afterDOMLoaded = `
     }
     html += '<a href="/Explore" class="ok-vertical-card ok-see-all"><strong>See all themes →</strong><span>Browse all 30 topics</span></a>';
     grid.innerHTML = html;
+    // Also shuffle the storylines cards
+    var storylines = document.querySelectorAll(".ok-verticals");
+    for (var s = 0; s < storylines.length; s++) {
+      if (storylines[s].id !== "ok-theme-grid") {
+        shuffleChildren(storylines[s]);
+      }
+    }
   }
   render();
   document.addEventListener("nav", render);

@@ -19,6 +19,10 @@ cssclasses:
 
 <div id="ok-daily-note"></div>
 
+<div id="ok-hidden-gem"></div>
+
+<div id="ok-trending"></div>
+
 
 ## The Shape of Kenya
 

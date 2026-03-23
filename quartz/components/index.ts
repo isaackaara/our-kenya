@@ -46,6 +46,13 @@ import GamesHub from "./GamesHub"
 import DailyTrivia from "./DailyTrivia"
 import TimelineGame from "./TimelineGame"
 import DailyGameWidget from "./DailyGameWidget"
+import KeepReading from "./KeepReading"
+import NewThisWeek from "./NewThisWeek"
+import RandomNoteFAB from "./RandomNoteFAB"
+import TrendingNotes from "./TrendingNotes"
+import HiddenGem from "./HiddenGem"
+import ExploreProgress from "./ExploreProgress"
+import AnalyticsDashboard from "./AnalyticsDashboard"
 
 export {
   ArticleTitle,
@@ -97,4 +104,11 @@ export {
   DailyTrivia,
   TimelineGame,
   DailyGameWidget,
+  KeepReading,
+  NewThisWeek,
+  RandomNoteFAB,
+  TrendingNotes,
+  HiddenGem,
+  ExploreProgress,
+  AnalyticsDashboard,
 }

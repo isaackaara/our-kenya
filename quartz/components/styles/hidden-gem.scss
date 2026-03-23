@@ -1,0 +1,62 @@
+/* ── Hidden Gem card ── */
+
+#ok-hidden-gem {
+  margin: 1.5rem 0;
+
+  .ok-gem-card {
+    border: 1px solid var(--lightgray);
+    border-left: 4px solid var(--secondary);
+    border-radius: 8px;
+    background: var(--light);
+    padding: 1rem 1.25rem;
+    position: relative;
+    overflow: hidden;
+
+    /* Subtle gradient accent */
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 80px;
+      height: 80px;
+      background: radial-gradient(circle at top right, rgba(0, 0, 0, 0.02), transparent 70%);
+      pointer-events: none;
+    }
+  }
+
+  .ok-gem-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.25rem;
+  }
+
+  .ok-gem-subtitle {
+    font-size: 0.75rem;
+    color: var(--gray);
+    font-style: italic;
+    margin-bottom: 0.6rem;
+  }
+
+  .ok-gem-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--secondary);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.5rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .ok-gem-wonder {
+    font-size: 0.82rem;
+    color: var(--darkgray);
+    letter-spacing: 0.5px;
+  }
+}

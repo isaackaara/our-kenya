@@ -1,4 +1,13 @@
 (function() {
+  function trackEvent(eventType, slug) {
+    var id = localStorage.getItem("ok-listener-id") || "anonymous";
+    fetch("/api/event", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Listener-ID": id },
+      body: JSON.stringify({ event_type: eventType, slug: slug })
+    }).catch(function() {});
+  }
+
   var BUTTON_TEXTS = [
     "Surprise me",
     "Take me somewhere unexpected",
@@ -156,6 +165,7 @@
           activated = true;
           activateButton(scores, btn, mainSpan, countSpan, preview, previewTitle, previewStars);
           if (currentPick) {
+            trackEvent("surprise_click", currentPick);
             window.location.href = "/" + currentPick;
           }
         });
@@ -166,6 +176,7 @@
         currentPick = pickRandom(cachedScores);
       }
       if (currentPick) {
+        trackEvent("surprise_click", currentPick);
         window.location.href = "/" + currentPick;
       }
     });

@@ -8,11 +8,16 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.PageviewTracker(),
     Component.ExploreTree(),
+    Component.ExploreProgress(),
     Component.FloatingContribute(),
+    Component.RandomNoteFAB(),
     Component.KnowledgeGraphs(),
     Component.DailyThemeGrid(),
     Component.SurpriseMe(),
     Component.DailyNote(),
+    Component.TrendingNotes(),
+    Component.HiddenGem(),
+    Component.NewThisWeek(),
     Component.TrailScores(),
     Component.TrailMoodFilter(),
     Component.ConditionalRender({
@@ -22,6 +27,10 @@ export const sharedPageComponents: SharedLayout = {
     Component.ConditionalRender({
       component: Component.StatsDashboard(),
       condition: (page) => page.fileData.slug === "stats",
+    }),
+    Component.ConditionalRender({
+      component: Component.AnalyticsDashboard(),
+      condition: (page) => page.fileData.slug === "analytics",
     }),
     Component.ConditionalRender({
       component: Component.GamesHub(),
@@ -110,6 +119,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.KeepReading(),
+    Component.TrendingNotes(),
     Component.TrailNav({ position: "bottom" }),
   ],
 }
