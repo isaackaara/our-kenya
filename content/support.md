@@ -17,7 +17,7 @@ This is still a beginning. Your support helps us write the rest.
 <p class="ok-paybill-label">Paybill number</p>
 <p class="ok-paybill-value">880100</p>
 <p class="ok-paybill-label">Account number</p>
-<p class="ok-paybill-value">5259870013</p>
+<p class="ok-paybill-value">722552</p>
 <div class="ok-amounts">
 <span class="ok-amount-pill">KES 100</span>
 <span class="ok-amount-pill">KES 500</span>
@@ -31,7 +31,7 @@ This is still a beginning. Your support helps us write the rest.
 1. Open M-Pesa on your phone
 2. Select "Lipa na M-Pesa" then "Pay Bill"
 3. Business number: **880100**
-4. Account number: **5259870013**
+4. Account number: **722552**
 5. Enter your amount and confirm
 
 Thank you. It goes directly to keeping this archive alive and growing.
