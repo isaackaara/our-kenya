@@ -15,7 +15,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "extract-graph": "node scripts/extract-graph.js",
     "generate-games": "node scripts/generate-game-data.cjs",
-    "copy-static-pages": "mkdir -p public/partnerships && cp pitch-liberty.html public/partnerships/index.html",
+    "copy-static-pages": "mkdir -p public/partnerships/liberty && cp pitch-liberty.html public/partnerships/liberty/index.html && cp liberty-logo.png public/partnerships/liberty/liberty-logo.png",
     "build": "npx quartz build -d content && npx pagefind --site public && npm run extract-graph && npm run generate-games && npm run copy-static-pages",
     "docs": "npm run extract-graph && npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
