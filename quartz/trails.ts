@@ -2322,6 +2322,31 @@ export const trails: Trail[] = [
       { slug: "Corporate Kenya/Settler Economy Legacy in Modern Kenya", title: "The Long Shadow" }
     ]
   },
+  {
+    id: "streets-of-kenya",
+    name: "Streets of Kenya",
+    category: "Political History",
+    description: "Every street name in Kenya is a political act. Walk the roads of Nairobi and Mombasa to discover whose memory was written into tarmac and whose was erased.",
+    emotionalScore: 8,
+    stops: [
+      { slug: "Streets/Street Names Kenya", title: "The Grid of Power" },
+      { slug: "Streets/Kenyatta Avenue", title: "The Flagship Renaming" },
+      { slug: "Streets/Kimathi Street", title: "The Forest Fighter's Street" },
+      { slug: "Streets/Muindi Mbingu Street", title: "The Kamba March" },
+      { slug: "Streets/Harry Thuku Road", title: "The Woman Who Shamed the Crowd" },
+      { slug: "Streets/Ronald Ngala Street", title: "The Man Who Destroyed His Own Dream" },
+      { slug: "Streets/Haile Selassie Avenue", title: "The Emperor's Road" },
+      { slug: "Streets/Biashara Street", title: "Three Empires of Commerce" },
+      { slug: "Streets/Grogan Road", title: "The Flogger's Road" },
+      { slug: "Streets/Lenana Road", title: "The Collaborator's Bargain" },
+      { slug: "Streets/Tom Mboya Street", title: "The Assassination on Victoria Street" },
+      { slug: "Streets/Argwings Kodhek Road", title: "The Crash That Nobody Investigated" },
+      { slug: "Streets/Assassination Roads Nairobi", title: "A Map of Impunity" },
+      { slug: "Streets/Mama Ngina Street", title: "Honoured for Marriage" },
+      { slug: "Streets/Women in Kenyan Street Names", title: "The Women Who Got No Streets" },
+      { slug: "Streets/Mombasa Tusks", title: "The Accident That Became Permanent" }
+    ]
+  },
 ]
 
 // Normalize slugs the same way Quartz does: spaces -> hyphens
