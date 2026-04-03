@@ -1,0 +1,1803 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Kenya + Mastercard Foundation: Program Partnership Proposal</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --warm-white: #faf8f6;
+  --cream: #f5f0ea;
+  --sand: #e8e0d4;
+  --gold: #B8860B;
+  --gold-light: #d4a843;
+  --gold-glow: rgba(184, 134, 11, 0.12);
+  --teal: #284b63;
+  --teal-light: #3a6b8a;
+  --sage: #84a59d;
+  --ink: #1a1a1a;
+  --charcoal: #2b2b2b;
+  --slate: #4e4e4e;
+  --muted: #7a7a7a;
+  --rule: #d5cfc5;
+  --mcf-orange: #CF4520;
+  --mcf-yellow: #F5A623;
+  --mcf-dark: #1A1A2E;
+  --serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --sans: 'Source Sans 3', 'Source Sans Pro', -apple-system, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--sans);
+  color: var(--charcoal);
+  background: var(--warm-white);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.scale-label {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+
+/* ── Hero with embedded graph ── */
+
+.hero {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  align-items: center;
+  gap: 3rem;
+  position: relative;
+  overflow: hidden;
+  background: var(--warm-white);
+  padding: 4rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.hero-text {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--mcf-orange);
+  margin-bottom: 2.5rem;
+}
+
+.hero-badge::before {
+  content: '';
+  width: 28px;
+  height: 2px;
+  background: var(--mcf-orange);
+}
+
+.hero h1 {
+  font-family: var(--serif);
+  font-size: clamp(2.4rem, 5vw, 4.2rem);
+  font-weight: 700;
+  line-height: 1.08;
+  color: var(--ink);
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.hero h1 em {
+  font-style: italic;
+  color: var(--mcf-orange);
+}
+
+.hero-sub {
+  font-size: clamp(1rem, 1.8vw, 1.15rem);
+  color: var(--slate);
+  max-width: 480px;
+  line-height: 1.7;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+.hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.hero-meta a {
+  color: var(--teal);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.hero-graph-side {
+  position: relative;
+}
+
+/* Graph visual */
+.graph-visual {
+  position: relative;
+  padding: 0;
+}
+
+.graph-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.graph-node {
+  position: absolute;
+  background: white;
+  border: 1.5px solid var(--rule);
+  border-radius: 10px;
+  padding: 0.65rem 1rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--charcoal);
+  white-space: nowrap;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s ease;
+  opacity: 0;
+}
+
+.graph-node.gv-visible { opacity: 1; }
+
+.graph-node:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.graph-node.center {
+  background: var(--teal);
+  color: white;
+  border-color: var(--teal);
+  font-size: 0.85rem;
+  z-index: 2;
+}
+
+.graph-node.gold {
+  border-color: var(--mcf-orange);
+  color: var(--mcf-orange);
+}
+
+.graph-lines {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.graph-lines line {
+  stroke: var(--sand);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 4;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.graph-lines line.gv-visible { opacity: 1; }
+
+.graph-lines circle.flow-dot {
+  fill: var(--mcf-orange);
+  opacity: 0;
+  r: 2.5;
+}
+
+.graph-lines circle.flow-dot.gv-visible { opacity: 0.6; }
+
+.graph-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.graph-tab {
+  padding: 0.4rem 0.9rem;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  border: 1.5px solid var(--sand);
+  border-radius: 20px;
+  background: white;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.graph-tab:hover {
+  border-color: var(--mcf-orange);
+  color: var(--charcoal);
+}
+
+.graph-tab.active {
+  background: var(--mcf-orange);
+  border-color: var(--mcf-orange);
+  color: white;
+}
+
+/* ── Hero divider ── */
+.hero-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, var(--rule) 20%, var(--rule) 80%, transparent 100%);
+}
+
+/* ── Problem Section ── */
+
+.problem {
+  padding: 7rem 0;
+  background: var(--ink);
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.problem::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 70% 20%, rgba(207, 69, 32, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at 20% 80%, rgba(40, 75, 99, 0.1) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.problem .container { position: relative; z-index: 1; }
+.problem .scale-label { color: var(--mcf-yellow); }
+
+.problem h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: white;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.problem .section-intro {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.65);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+  font-weight: 300;
+}
+
+.exp-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.exp-card {
+  position: relative;
+  padding: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.03);
+  transition: border-color 0.3s ease, transform 0.3s ease;
+}
+
+.exp-card:hover {
+  border-color: rgba(207, 69, 32, 0.35);
+  transform: translateY(-4px);
+}
+
+.exp-card-visual {
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.exp-card-visual.v-trails {
+  background: linear-gradient(135deg, var(--teal) 0%, #1a3a4f 100%);
+}
+
+.exp-card-visual.v-graphs {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+.exp-card-visual.v-audio {
+  background: linear-gradient(135deg, #2d1b00 0%, #1a1200 100%);
+}
+
+/* Mini trail mockup inside card */
+.mini-trail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.8rem;
+  background: rgba(255,255,255,0.1);
+  border-radius: 6px;
+  font-size: 0.65rem;
+  color: rgba(255,255,255,0.8);
+  font-weight: 600;
+}
+
+.mini-trail-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--mcf-yellow);
+  flex-shrink: 0;
+}
+
+.mini-trail-line {
+  width: 30px;
+  height: 2px;
+  background: rgba(255,255,255,0.25);
+  flex-shrink: 0;
+}
+
+/* Mini graph nodes */
+.mini-graph {
+  position: relative;
+  width: 120px;
+  height: 100px;
+}
+
+.mini-g-dot {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--mcf-yellow);
+  opacity: 0.7;
+}
+
+.mini-g-dot:nth-child(1) { left: 50%; top: 10%; background: var(--teal-light); width: 14px; height: 14px; }
+.mini-g-dot:nth-child(2) { left: 15%; top: 40%; }
+.mini-g-dot:nth-child(3) { left: 75%; top: 30%; }
+.mini-g-dot:nth-child(4) { left: 30%; top: 75%; }
+.mini-g-dot:nth-child(5) { left: 70%; top: 70%; }
+
+.mini-g-line {
+  position: absolute;
+  height: 1px;
+  background: rgba(255,255,255,0.15);
+  transform-origin: left center;
+}
+
+/* Mini waveform */
+.mini-waveform {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  height: 40px;
+}
+
+.mini-wave-bar {
+  width: 3px;
+  border-radius: 2px;
+  background: var(--mcf-yellow);
+  opacity: 0.6;
+  animation: waveform 1.2s ease-in-out infinite alternate;
+}
+
+.mini-wave-bar:nth-child(1) { height: 30%; animation-delay: 0s; }
+.mini-wave-bar:nth-child(2) { height: 65%; animation-delay: 0.1s; }
+.mini-wave-bar:nth-child(3) { height: 45%; animation-delay: 0.2s; }
+.mini-wave-bar:nth-child(4) { height: 80%; animation-delay: 0.3s; }
+.mini-wave-bar:nth-child(5) { height: 50%; animation-delay: 0.15s; }
+.mini-wave-bar:nth-child(6) { height: 90%; animation-delay: 0.25s; }
+.mini-wave-bar:nth-child(7) { height: 35%; animation-delay: 0.05s; }
+.mini-wave-bar:nth-child(8) { height: 70%; animation-delay: 0.35s; }
+.mini-wave-bar:nth-child(9) { height: 55%; animation-delay: 0.2s; }
+.mini-wave-bar:nth-child(10) { height: 40%; animation-delay: 0.1s; }
+
+@keyframes waveform {
+  0% { transform: scaleY(1); }
+  100% { transform: scaleY(0.4); }
+}
+
+.exp-card-body {
+  padding: 1.5rem;
+}
+
+.exp-card-body h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.exp-card-body p {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.5);
+  line-height: 1.6;
+}
+
+.exp-card-stat {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-family: var(--serif);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--mcf-yellow);
+}
+
+/* ── Brand Mockup Section ── */
+
+.mockups {
+  padding: 7rem 0;
+  background: var(--cream);
+  position: relative;
+}
+
+.mockups::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--rule), transparent);
+}
+
+.mockups h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.mockups .section-intro {
+  font-size: 1.05rem;
+  color: var(--slate);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+}
+
+.mockup-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+}
+
+.mockup-item {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 3rem;
+  align-items: center;
+}
+
+.mockup-item.reversed {
+  grid-template-columns: 0.9fr 1.1fr;
+}
+
+.mockup-item.reversed .mockup-text {
+  order: -1;
+}
+
+.mockup-tier-badge {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.7rem;
+  border-radius: 20px;
+  background: rgba(207, 69, 32, 0.1);
+  color: var(--mcf-orange);
+  margin-bottom: 0.75rem;
+}
+
+.mockup-text h3 {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.6rem;
+}
+
+.mockup-text p {
+  font-size: 0.95rem;
+  color: var(--slate);
+  line-height: 1.7;
+}
+
+/* Browser chrome mockup frame */
+.browser-frame {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.12), 0 2px 8px rgba(0,0,0,0.06);
+  border: 1px solid var(--sand);
+  background: white;
+}
+
+.browser-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: #f0f0f0;
+  border-bottom: 1px solid #ddd;
+}
+
+.browser-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #ddd;
+}
+
+.browser-dot:nth-child(1) { background: #ff5f57; }
+.browser-dot:nth-child(2) { background: #febc2e; }
+.browser-dot:nth-child(3) { background: #28c840; }
+
+.browser-url {
+  flex: 1;
+  margin-left: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  background: white;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  color: var(--muted);
+  font-family: var(--sans);
+}
+
+.browser-body { padding: 0; min-height: 220px; }
+
+/* Mockup 1: Trail page */
+.mock-trail {
+  background: var(--warm-white);
+  padding: 1.5rem;
+}
+
+.mock-trail-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background: var(--teal);
+  border-radius: 8px;
+  margin-bottom: 1.25rem;
+}
+
+.mock-trail-nav-text {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: white;
+  letter-spacing: 0.04em;
+}
+
+.mock-trail-nav-text span { opacity: 0.6; }
+
+.mock-trail-sponsor {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: var(--mcf-dark);
+  border-radius: 6px;
+  margin-bottom: 1.25rem;
+}
+
+.mock-trail-sponsor img { height: 22px; width: auto; }
+
+.mock-trail-sponsor span {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  color: rgba(255,255,255,0.75);
+  font-weight: 500;
+}
+
+.mock-trail-title {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+
+.mock-trail-body {
+  font-size: 0.8rem;
+  color: var(--slate);
+  line-height: 1.6;
+}
+
+.mock-trail-body .mock-link {
+  color: var(--teal);
+  text-decoration: underline;
+  text-decoration-color: rgba(40, 75, 99, 0.3);
+}
+
+/* Mockup 2: Knowledge graph */
+.mock-graph-wrap {
+  background: var(--ink);
+  padding: 1.5rem;
+  position: relative;
+}
+
+.mock-graph-title {
+  font-family: var(--serif);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.mock-graph-canvas {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1.5;
+  margin-bottom: 1rem;
+}
+
+.mock-g-node {
+  position: absolute;
+  padding: 0.35rem 0.65rem;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+  font-size: 0.62rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.7);
+  white-space: nowrap;
+}
+
+.mock-g-node.mock-g-center {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: white;
+  font-size: 0.7rem;
+}
+
+.mock-g-node.mock-g-gold {
+  border-color: var(--mcf-orange);
+  color: #e8724d;
+}
+
+.mock-graph-sponsor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.mock-graph-sponsor img { height: 18px; width: auto; }
+
+.mock-graph-sponsor span {
+  font-size: 0.65rem;
+  color: rgba(255,255,255,0.5);
+  font-weight: 500;
+}
+
+/* Mockup 3: Schools outreach page */
+.mock-platform {
+  background: var(--warm-white);
+  display: flex;
+  flex-direction: column;
+}
+
+.mock-platform-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.25rem;
+  background: white;
+  border-bottom: 1px solid var(--sand);
+}
+
+.mock-platform-logo {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.mock-platform-nav {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.7rem;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.mock-platform-body {
+  flex: 1;
+  padding: 1.25rem;
+}
+
+.mock-platform-body h4 {
+  font-family: var(--serif);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+}
+
+.mock-platform-body p {
+  font-size: 0.75rem;
+  color: var(--slate);
+  line-height: 1.5;
+}
+
+.mock-platform-cta {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.45rem 1.1rem;
+  background: var(--mcf-orange);
+  color: white;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.mock-platform-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1.25rem;
+  background: var(--mcf-dark);
+}
+
+.mock-platform-footer span {
+  font-size: 0.68rem;
+  color: rgba(255,255,255,0.65);
+  font-weight: 500;
+}
+
+.mock-platform-footer img { height: 20px; width: auto; }
+
+/* ── Program Alignment ── */
+
+.alignment {
+  padding: 7rem 0;
+  background: var(--warm-white);
+}
+
+.alignment h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.alignment .section-intro {
+  font-size: 1.05rem;
+  color: var(--slate);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+}
+
+.alignment-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.al-card {
+  padding: 2rem;
+  background: var(--cream);
+  border-radius: 12px;
+  border: 1px solid var(--sand);
+  transition: border-color 0.3s ease;
+}
+
+.al-card:hover {
+  border-color: var(--mcf-orange);
+}
+
+.al-card h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.6rem;
+}
+
+.al-card p {
+  font-size: 0.92rem;
+  color: var(--slate);
+  line-height: 1.65;
+}
+
+.al-card .al-highlight {
+  display: block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+  color: var(--mcf-orange);
+  font-size: 0.85rem;
+}
+
+/* ── Impact Framework ── */
+
+.impact {
+  padding: 7rem 0;
+  background: var(--ink);
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.impact::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 30% 30%, rgba(207, 69, 32, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 70%, rgba(245, 166, 35, 0.06) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.impact .container { position: relative; z-index: 1; }
+.impact .scale-label { color: var(--mcf-yellow); }
+
+.impact h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: white;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.impact .section-intro {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.65);
+  max-width: 650px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+  font-weight: 300;
+}
+
+.impact-stats {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.impact-stat {
+  text-align: center;
+  padding: 2rem 1rem;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.03);
+}
+
+.impact-stat .is-icon {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+  line-height: 1;
+}
+
+.impact-stat h4 {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 0.4rem;
+}
+
+.impact-stat p {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.45);
+  line-height: 1.5;
+}
+
+.impact-narrative {
+  max-width: 700px;
+  font-size: 1.02rem;
+  color: rgba(255,255,255,0.6);
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.impact-narrative strong {
+  color: white;
+  font-weight: 600;
+}
+
+/* ── Proposed Program ── */
+
+.program {
+  padding: 7rem 0;
+  background: var(--cream);
+  position: relative;
+}
+
+.program::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--rule), transparent);
+}
+
+.program h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.program .section-intro {
+  font-size: 1.05rem;
+  color: var(--slate);
+  max-width: 700px;
+  line-height: 1.7;
+  margin-bottom: 3.5rem;
+}
+
+.phase-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-bottom: 3rem;
+  align-items: start;
+}
+
+.phase-card {
+  padding: 2.5rem 2rem;
+  border: 1px solid var(--sand);
+  border-radius: 12px;
+  background: white;
+  position: relative;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.phase-card:hover {
+  border-color: var(--mcf-orange);
+  box-shadow: 0 4px 20px rgba(207, 69, 32, 0.08);
+}
+
+.phase-label {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--mcf-orange);
+  margin-bottom: 0.5rem;
+}
+
+.phase-card h3 {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+}
+
+.phase-subtitle {
+  font-family: var(--serif);
+  font-size: 0.92rem;
+  font-style: italic;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.phase-deliverables {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+.phase-deliverables li {
+  font-size: 0.88rem;
+  color: var(--slate);
+  line-height: 1.7;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.phase-deliverables li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--mcf-orange);
+  opacity: 0.6;
+}
+
+.budget-box {
+  max-width: 700px;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid var(--sand);
+  background: white;
+}
+
+.budget-amount {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  color: var(--mcf-orange);
+  margin-bottom: 0.5rem;
+}
+
+.budget-context {
+  font-size: 0.95rem;
+  color: var(--slate);
+  line-height: 1.7;
+}
+
+.program-closing {
+  max-width: 700px;
+  font-size: 1.02rem;
+  color: var(--slate);
+  line-height: 1.75;
+  font-style: italic;
+}
+
+/* ── CTA ── */
+
+.cta {
+  padding: 8rem 0;
+  background: var(--warm-white);
+  text-align: center;
+  position: relative;
+}
+
+.cta h2 {
+  font-family: var(--serif);
+  font-size: clamp(2rem, 4.5vw, 3.5rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.15;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.cta h2 em {
+  font-style: italic;
+  color: var(--mcf-orange);
+}
+
+.cta-sub {
+  font-size: 1.1rem;
+  color: var(--slate);
+  max-width: 550px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.7;
+  font-weight: 300;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.9rem 2rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-orange {
+  background: var(--mcf-orange);
+  color: white;
+}
+
+.btn-orange:hover {
+  background: #e04e28;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(207, 69, 32, 0.3);
+}
+
+.cta-contact {
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--rule);
+}
+
+.cta-contact p {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 0.3rem;
+}
+
+.cta-contact a {
+  color: var(--mcf-orange);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.cta-contact a:hover { text-decoration: underline; }
+
+/* Footer */
+.pitch-footer {
+  padding: 2rem 0;
+  background: var(--ink);
+  text-align: center;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.25);
+}
+
+/* ── Responsive ── */
+
+@media (max-width: 900px) {
+  .hero { grid-template-columns: 1fr; min-height: auto; padding: 3rem 1.5rem; }
+  .hero-graph-side { max-width: 360px; margin: 0 auto; }
+  .exp-cards { grid-template-columns: 1fr; }
+  .alignment-grid { grid-template-columns: 1fr; }
+  .impact-stats { grid-template-columns: repeat(2, 1fr); }
+  .phase-grid { grid-template-columns: 1fr; }
+  .mockup-item, .mockup-item.reversed { grid-template-columns: 1fr; gap: 1.5rem; }
+  .mockup-item.reversed .mockup-text { order: 0; }
+}
+
+@media (max-width: 600px) {
+  .container { padding: 0 1.25rem; }
+  .hero { padding: 2.5rem 1.25rem; }
+  .hero-meta { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+  .problem, .mockups, .alignment, .impact, .program { padding: 4.5rem 0; }
+  .cta { padding: 5rem 0; }
+  .graph-tabs { gap: 0.3rem; }
+  .graph-tab { padding: 0.35rem 0.7rem; font-size: 0.68rem; }
+  .impact-stats { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-in { opacity: 1; transform: none; transition: none; }
+  html { scroll-behavior: auto; }
+  .flow-dot { display: none; }
+  .mini-wave-bar { animation: none; }
+}
+
+/* Print */
+@media print {
+  body { background: white; color: #1a1a1a; font-size: 11pt; }
+  .fade-in { opacity: 1 !important; transform: none !important; }
+  .hero { min-height: auto; padding: 2rem; }
+  .hero-graph-side { display: none; }
+  .hero { grid-template-columns: 1fr; }
+  .problem, .mockups, .alignment, .impact, .program { padding: 2.5rem 0; }
+  .cta { padding: 3rem 0; }
+  .problem::before, .impact::before { display: none; }
+  .exp-card, .al-card, .impact-stat, .phase-card { break-inside: avoid; }
+  .browser-frame { box-shadow: none; border: 1.5px solid #ccc; }
+  .mockups { page-break-before: always; }
+  .program { page-break-before: always; }
+  .btn { border: 1.5px solid currentColor; }
+  .mini-wave-bar { animation: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-text">
+    <div class="hero-badge">Program Partnership Proposal</div>
+    <h1>7,796 stories.<br>15 million young Kenyans <em>who need them.</em></h1>
+    <p class="hero-sub">Our Kenya is Kenya's first knowledge graph of its own history. The Mastercard Foundation's Young Africa Works strategy aims to connect 30 million young Africans to dignified work. You can't build the future without understanding the past.</p>
+    <div class="hero-meta">
+      <a href="https://ourkenya.com" target="_blank">ourkenya.com</a>
+    </div>
+  </div>
+  <div class="hero-graph-side">
+    <div class="graph-visual">
+      <div class="graph-container" id="graph-container">
+        <svg class="graph-lines" id="graph-lines" viewBox="0 0 420 420"></svg>
+      </div>
+      <div class="graph-tabs" id="graph-tabs"></div>
+    </div>
+  </div>
+</section>
+<div class="hero-divider"></div>
+
+<!-- THE PROBLEM -->
+<section class="problem">
+  <div class="container">
+    <div class="scale-label fade-in">The Gap</div>
+    <h2 class="fade-in">A generation disconnected from its own history</h2>
+    <p class="section-intro fade-in">Kenya has 15 million young people between 15 and 35. They're digital natives. They learn from phones, not textbooks. But Kenya's history lives in academic papers, expensive bookshops, and oral traditions at risk of being lost. Our Kenya bridges that gap.</p>
+    <div class="exp-cards">
+      <div class="exp-card fade-in">
+        <div class="exp-card-visual v-trails">
+          <div class="mini-trail">
+            <div class="mini-trail-dot"></div>
+            <div class="mini-trail-line"></div>
+            <div class="mini-trail-dot"></div>
+            <div class="mini-trail-line"></div>
+            <div class="mini-trail-dot"></div>
+            <div class="mini-trail-line"></div>
+            <div class="mini-trail-dot"></div>
+          </div>
+        </div>
+        <div class="exp-card-body">
+          <h3>Curriculum-Ready Trails</h3>
+          <p>145 guided journeys through Kenya's history, structured for learning and ready for classrooms. Each trail is a complete lesson in context, connection, and cause-and-effect.</p>
+          <span class="exp-card-stat">145 story trails</span>
+        </div>
+      </div>
+      <div class="exp-card fade-in">
+        <div class="exp-card-visual v-graphs">
+          <div class="mini-graph">
+            <div class="mini-g-dot"></div>
+            <div class="mini-g-dot"></div>
+            <div class="mini-g-dot"></div>
+            <div class="mini-g-dot"></div>
+            <div class="mini-g-dot"></div>
+          </div>
+        </div>
+        <div class="exp-card-body">
+          <h3>Visual Learning Tools</h3>
+          <p>58 interactive knowledge graphs that map how events, people, and movements connect. Visual thinking for a generation that learns by seeing, not just reading.</p>
+          <span class="exp-card-stat">58 interactive graphs</span>
+        </div>
+      </div>
+      <div class="exp-card fade-in">
+        <div class="exp-card-visual v-audio">
+          <div class="mini-waveform">
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+            <div class="mini-wave-bar"></div>
+          </div>
+        </div>
+        <div class="exp-card-body">
+          <h3>Audio for Every Literacy Level</h3>
+          <p>Every article narrated. Mobile-first. Accessible across all literacy levels. Works on 2G. History that meets young Kenyans where they are.</p>
+          <span class="exp-card-stat">7,796+ articles with audio</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MOCKUPS -->
+<section class="mockups">
+  <div class="container">
+    <div class="scale-label fade-in">What It Looks Like</div>
+    <h2 class="fade-in">The Foundation's brand, inside the experience</h2>
+    <p class="section-intro fade-in">Not a logo on a report. Not a mention in an annual review. The Foundation's name appears at the moment of deepest learning, when a student is fully immersed in Kenya's story.</p>
+
+    <div class="mockup-stack">
+
+      <!-- Mockup 1: Trail Sponsorship -->
+      <div class="mockup-item fade-in">
+        <div class="browser-frame">
+          <div class="browser-bar">
+            <div class="browser-dot"></div>
+            <div class="browser-dot"></div>
+            <div class="browser-dot"></div>
+            <div class="browser-url">ourkenya.com/Trails/Kenyas-Education-Pioneers</div>
+          </div>
+          <div class="browser-body mock-trail">
+            <div class="mock-trail-nav">
+              <div class="mock-trail-nav-text"><span>&#9664;</span> &nbsp; Kenya's Education Pioneers &nbsp; <strong>Stop 5 of 14</strong> &nbsp; <span>&#9654;</span></div>
+            </div>
+            <div class="mock-trail-sponsor">
+              <img src="mastercard-foundation-logo-white.png" alt="Mastercard Foundation logo">
+              <span>Supported by Mastercard Foundation</span>
+            </div>
+            <div class="mock-trail-title">Starehe Boys: Tom Mboya's Promise</div>
+            <p class="mock-trail-body">In 1959, <span class="mock-link">Tom Mboya</span> persuaded <span class="mock-link">Geoffrey Griffin</span> to build a school for Nairobi's street children. <span class="mock-link">Starehe Boys Centre</span> opened with 60 boys, a borrowed building, and a radical idea: that poverty should never determine a child's future...</p>
+          </div>
+        </div>
+        <div class="mockup-text">
+          <div class="mockup-tier-badge">Education Trail</div>
+          <h3>"Supported by Mastercard Foundation"</h3>
+          <p>Every stop of an education trail carries the Foundation's name. Students follow the story from stop to stop, deeply engaged. The Foundation is the name standing beside their learning. Not interrupting. Present.</p>
+        </div>
+      </div>
+
+      <!-- Mockup 2: Knowledge Graph -->
+      <div class="mockup-item reversed fade-in">
+        <div class="browser-frame">
+          <div class="browser-bar">
+            <div class="browser-dot"></div>
+            <div class="browser-dot"></div>
+            <div class="browser-dot"></div>
+            <div class="browser-url">ourkenya.com &middot; Youth &amp; Education Knowledge Graph</div>
+          </div>
+          <div class="browser-body mock-graph-wrap">
+            <div class="mock-graph-title">Young Africa Works x Our Kenya</div>
+            <div class="mock-graph-canvas">
+              <div class="mock-g-node mock-g-center" style="left:42%;top:38%;transform:translate(-50%,-50%)">Kenya's Youth</div>
+              <div class="mock-g-node" style="left:15%;top:12%;transform:translate(-50%,-50%)">Airlift Program</div>
+              <div class="mock-g-node mock-g-gold" style="left:72%;top:8%;transform:translate(-50%,-50%)">Harambee Schools</div>
+              <div class="mock-g-node" style="left:8%;top:52%;transform:translate(-50%,-50%)">TVET System</div>
+              <div class="mock-g-node" style="left:82%;top:42%;transform:translate(-50%,-50%)">University of Nairobi</div>
+              <div class="mock-g-node" style="left:18%;top:85%;transform:translate(-50%,-50%)">Jua Kali Economy</div>
+              <div class="mock-g-node mock-g-gold" style="left:75%;top:80%;transform:translate(-50%,-50%)">Silicon Savannah</div>
+              <div class="mock-g-node" style="left:50%;top:72%;transform:translate(-50%,-50%)">M-Pesa Generation</div>
+            </div>
+            <div class="mock-graph-sponsor">
+              <span>Young Africa Works x Our Kenya</span>
+              <img src="mastercard-foundation-logo-white.png" alt="Mastercard Foundation logo">
+            </div>
+          </div>
+        </div>
+        <div class="mockup-text">
+          <div class="mockup-tier-badge">Knowledge Graph</div>
+          <h3>"Young Africa Works x Our Kenya"</h3>
+          <p>The Foundation owns the Youth &amp; Education knowledge domain. When students explore how Kenya's education system connects to employment, entrepreneurship, and innovation, the Foundation's name is the one they see.</p>
+        </div>
+      </div>
+
+      <!-- Mockup 3: Schools Outreach -->
+      <div class="mockup-item fade-in">
+        <div class="browser-frame">
+          <div class="browser-bar">
+            <div class="browser-dot"></div>
+            <div class="browser-dot"></div>
+            <div class="browser-dot"></div>
+            <div class="browser-url">ourkenya.com/schools</div>
+          </div>
+          <div class="browser-body mock-platform">
+            <div class="mock-platform-header">
+              <div class="mock-platform-logo">Our Kenya for Schools</div>
+              <div class="mock-platform-nav">
+                <img src="mastercard-foundation-logo.png" alt="Mastercard Foundation logo" style="height: 18px; width: auto;">
+              </div>
+            </div>
+            <div class="mock-platform-body">
+              <h4>Bring Kenya's History to Your Classroom</h4>
+              <p>Free, curriculum-aligned resources for CBC and 8-4-4. Story trails, knowledge graphs, and audio narration designed for student engagement. Built on 7,796+ source-verified articles.</p>
+              <a class="mock-platform-cta">Request a Teacher Guide</a>
+            </div>
+            <div class="mock-platform-footer">
+              <span>A Young Africa Works Initiative</span>
+              <img src="mastercard-foundation-logo-white.png" alt="Mastercard Foundation logo">
+            </div>
+          </div>
+        </div>
+        <div class="mockup-text">
+          <div class="mockup-tier-badge">Schools Outreach</div>
+          <h3>"Our Kenya for Schools"</h3>
+          <p>A dedicated outreach landing page connecting teachers and students to curriculum-aligned history resources. Free. Accessible. Branded as a Young Africa Works initiative. The Foundation's name on every teacher guide and classroom resource.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- PROGRAM ALIGNMENT -->
+<section class="alignment">
+  <div class="container">
+    <div class="scale-label fade-in">Program Alignment</div>
+    <h2 class="fade-in">This is already your mission</h2>
+    <p class="section-intro fade-in">Our Kenya doesn't need the Mastercard Foundation to change direction. Every program pillar you already fund connects directly to what we've built.</p>
+
+    <div class="alignment-grid">
+      <div class="al-card fade-in">
+        <h3>Young Africa Works needs cultural context</h3>
+        <p>Dignified work requires dignified identity. Young Kenyans who understand economic history &mdash; Jua Kali, the cooperative movement, M-Pesa &mdash; make better entrepreneurs. They see themselves in a lineage of problem-solvers, not just job-seekers.</p>
+        <span class="al-highlight">Identity drives agency. Agency drives employment.</span>
+      </div>
+      <div class="al-card fade-in">
+        <h3>Inclusive Creatives, meet digital heritage</h3>
+        <p>Kenya Inclusive Creatives Program funds digital creative work. Our Kenya IS digital creative work &mdash; 7,796 articles, 145 story trails, 58 interactive knowledge graphs. Cultural preservation at scale, built with the same tools the creative economy runs on.</p>
+        <span class="al-highlight">Cultural preservation IS creative economy work.</span>
+      </div>
+      <div class="al-card fade-in">
+        <h3>Ajira meets heritage</h3>
+        <p>391,000 youth trained via Ajira. 260+ centres across 47 counties. Our Kenya was built with the exact digital skills Ajira teaches: content creation, knowledge management, data visualisation, web development.</p>
+        <span class="al-highlight">A platform that practices what Ajira preaches.</span>
+      </div>
+      <div class="al-card fade-in">
+        <h3>Scholars need this</h3>
+        <p>Baobab Summit. Wings to Fly. 60,000+ students on scholarships learning about their country from fragmented textbooks and Wikipedia. Our Kenya is the reference library they deserve &mdash; comprehensive, source-verified, and free.</p>
+        <span class="al-highlight">60,000 scholars deserve a world-class resource.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IMPACT FRAMEWORK -->
+<section class="impact">
+  <div class="container">
+    <div class="scale-label fade-in">How We Measure Success</div>
+    <h2 class="fade-in">Impact metrics the Foundation already tracks</h2>
+    <p class="section-intro fade-in">We don't measure success in pageviews. We measure it in the same terms the Foundation uses: youth reached, institutions served, equity achieved, jobs created.</p>
+
+    <div class="impact-stats fade-in">
+      <div class="impact-stat">
+        <div class="is-icon">&#127891;</div>
+        <h4>Youth Reach</h4>
+        <p>15-35 age bracket engagement across digital platforms</p>
+      </div>
+      <div class="impact-stat">
+        <div class="is-icon">&#127979;</div>
+        <h4>Institutional Adoption</h4>
+        <p>Schools and universities using Our Kenya as a teaching resource</p>
+      </div>
+      <div class="impact-stat">
+        <div class="is-icon">&#128218;</div>
+        <h4>Content Depth</h4>
+        <p>New Gold Standard notes on underserved topics and communities</p>
+      </div>
+      <div class="impact-stat">
+        <div class="is-icon">&#127760;</div>
+        <h4>Geographic Equity</h4>
+        <p>Engagement across all 47 counties, not just Nairobi</p>
+      </div>
+      <div class="impact-stat">
+        <div class="is-icon">&#128188;</div>
+        <h4>Creative Economy</h4>
+        <p>Jobs created in content production and knowledge management</p>
+      </div>
+    </div>
+
+    <p class="impact-narrative fade-in">Every metric maps directly to the Foundation's existing reporting framework. <strong>Youth Reach maps to Young Africa Works targets. Institutional Adoption maps to education program KPIs. Content Depth maps to inclusion metrics. Geographic Equity maps to the 47-county strategy. Creative Economy maps to job creation targets.</strong></p>
+    <p class="impact-narrative fade-in">Our analytics are public at <strong>ourkenya.com/stats</strong>. We don't hide behind NDA'd reports. We show you exactly what the audience is reading, when, and how deeply. <strong>Transparency is not a feature. It is how we operate.</strong></p>
+  </div>
+</section>
+
+<!-- PROPOSED PROGRAM -->
+<section class="program">
+  <div class="container">
+    <div class="scale-label fade-in">The Proposal</div>
+    <h2 class="fade-in">Our Kenya as educational infrastructure</h2>
+    <p class="section-intro fade-in">A three-phase program that expands Kenya's most comprehensive history resource, connects it to classrooms, and preserves oral traditions before they're lost.</p>
+
+    <div class="phase-grid">
+      <div class="phase-card fade-in">
+        <div class="phase-label">Phase 1 &mdash; Year 1</div>
+        <h3>Content Expansion</h3>
+        <p class="phase-subtitle">2,000 new Gold Standard notes covering the stories the Foundation cares about most</p>
+        <ul class="phase-deliverables">
+          <li>Entrepreneurship and innovation histories</li>
+          <li>County-level economic stories (all 47 counties)</li>
+          <li>TVET pioneers and vocational success stories</li>
+          <li>Women in Kenya's economic history</li>
+          <li>Youth movement histories (1960s to Gen Z)</li>
+          <li>New knowledge graphs and story trails</li>
+        </ul>
+      </div>
+
+      <div class="phase-card fade-in">
+        <div class="phase-label">Phase 2 &mdash; Year 2</div>
+        <h3>School Outreach</h3>
+        <p class="phase-subtitle">Curriculum-aligned packages that bring Our Kenya into classrooms across all 47 counties</p>
+        <ul class="phase-deliverables">
+          <li>CBC and 8-4-4 aligned trail packages</li>
+          <li>Teacher guides and lesson plans</li>
+          <li>Student engagement tracking with certificates</li>
+          <li>University research partnerships</li>
+          <li>Ajira centre integration (260+ locations)</li>
+          <li>Pilot 10 counties, then scale to 47</li>
+        </ul>
+      </div>
+
+      <div class="phase-card fade-in">
+        <div class="phase-label">Phase 3 &mdash; Year 3</div>
+        <h3>Oral History Preservation</h3>
+        <p class="phase-subtitle">Record and digitise elder oral histories before they're lost forever</p>
+        <ul class="phase-deliverables">
+          <li>Field recordings with county cultural officers</li>
+          <li>Audio-first, mobile-accessible format</li>
+          <li>Transcription into the knowledge graph</li>
+          <li>Youth training in oral history methodology (jobs)</li>
+          <li>Elder recognition and attribution</li>
+          <li>Permanent digital archive</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="budget-box fade-in">
+      <div class="budget-amount">KES 15&ndash;25M over 3 years</div>
+      <p class="budget-context">Modest by Foundation standards. KCB 2jiajiri received KES 10 billion. Young Africa Works Kenya is KES 30 billion. This is less than 0.1% of existing program budgets for a permanent, scalable digital resource that serves every other program the Foundation funds in Kenya.</p>
+    </div>
+
+    <p class="program-closing fade-in">Phase budgets are flexible and can be structured around the Foundation's fiscal calendar and disbursement preferences. We're building infrastructure, not burning through a media buy.</p>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="container fade-in">
+    <h2>Kenya's future needs<br>its <em>past.</em></h2>
+    <p class="cta-sub">Young Africa Works. And Young Africa remembers. Let's build something that lasts.</p>
+    <div class="cta-buttons">
+      <a href="mailto:isaac@kaara.works" class="btn btn-orange">Start the Conversation</a>
+    </div>
+    <div class="cta-contact">
+      <p>Isaac Hunja, Founder</p>
+      <p><a href="mailto:isaac@kaara.works">isaac@kaara.works</a></p>
+    </div>
+  </div>
+</section>
+
+<footer class="pitch-footer">
+  <p>Our Kenya &middot; ourkenya.com &middot; Built by Kaara.Works</p>
+</footer>
+
+<script>
+// ── Knowledge Graph Data & Rendering ─────────────────────────
+const graphSets = [
+  {
+    id: 'education',
+    label: 'Education',
+    center: { text: "Kenya's Education", x: 210, y: 195 },
+    nodes: [
+      { text: 'Airlift Program', x: 85, y: 60, cls: 'gold' },
+      { text: 'Tom Mboya', x: 330, y: 45, cls: '' },
+      { text: 'Alliance High', x: 50, y: 220, cls: '' },
+      { text: 'University of Nairobi', x: 370, y: 180, cls: '' },
+      { text: 'Harambee Schools', x: 100, y: 350, cls: 'gold' },
+      { text: 'CBC Reform', x: 320, y: 330, cls: '' },
+      { text: 'Moi University', x: 60, y: 140, cls: '' },
+      { text: 'TVET System', x: 350, y: 280, cls: '' },
+    ],
+    edges: [
+      [210,195,85,60],[210,195,330,45],[210,195,50,220],[210,195,370,180],
+      [210,195,100,350],[210,195,320,330],[210,195,60,140],[210,195,350,280],
+      [85,60,330,45],[370,180,350,280],[100,350,320,330]
+    ]
+  },
+  {
+    id: 'youth',
+    label: 'Youth Movements',
+    center: { text: 'Youth Power', x: 210, y: 195 },
+    nodes: [
+      { text: 'Mau Mau Scouts', x: 80, y: 60, cls: '' },
+      { text: 'Student Protests 1969', x: 340, y: 45, cls: 'gold' },
+      { text: 'Saba Saba', x: 45, y: 200, cls: '' },
+      { text: 'Gen Z Protests', x: 370, y: 175, cls: 'gold' },
+      { text: 'iHub / Tech Gen', x: 90, y: 345, cls: '' },
+      { text: 'Ajira Digital', x: 330, y: 325, cls: '' },
+      { text: 'Wings to Fly', x: 55, y: 135, cls: '' },
+      { text: 'Silicon Savannah', x: 355, y: 260, cls: '' },
+    ],
+    edges: [
+      [210,195,80,60],[210,195,340,45],[210,195,45,200],[210,195,370,175],
+      [210,195,90,345],[210,195,330,325],[210,195,55,135],[210,195,355,260],
+      [80,60,45,200],[340,45,370,175],[90,345,330,325]
+    ]
+  },
+  {
+    id: 'counties',
+    label: '47 Counties',
+    center: { text: 'Devolution', x: 210, y: 195 },
+    nodes: [
+      { text: 'Nairobi', x: 90, y: 55, cls: 'gold' },
+      { text: 'Mombasa', x: 325, y: 50, cls: '' },
+      { text: 'Kisumu', x: 50, y: 210, cls: '' },
+      { text: 'Turkana', x: 365, y: 170, cls: '' },
+      { text: 'Kilifi', x: 85, y: 340, cls: '' },
+      { text: 'Nyeri', x: 330, y: 330, cls: '' },
+      { text: 'Garissa', x: 55, y: 140, cls: 'gold' },
+      { text: 'Kakamega', x: 350, y: 260, cls: '' },
+    ],
+    edges: [
+      [210,195,90,55],[210,195,325,50],[210,195,50,210],[210,195,365,170],
+      [210,195,85,340],[210,195,330,330],[210,195,55,140],[210,195,350,260],
+      [90,55,325,50],[365,170,350,260],[85,340,330,330]
+    ]
+  },
+  {
+    id: 'independence',
+    label: 'Independence',
+    center: { text: 'Uhuru 1963', x: 210, y: 195 },
+    nodes: [
+      { text: 'Jomo Kenyatta', x: 85, y: 60, cls: 'gold' },
+      { text: 'Oginga Odinga', x: 330, y: 45, cls: '' },
+      { text: 'Dedan Kimathi', x: 50, y: 220, cls: '' },
+      { text: 'Lancaster House', x: 370, y: 180, cls: '' },
+      { text: 'KANU', x: 100, y: 350, cls: '' },
+      { text: 'Tom Mboya', x: 320, y: 330, cls: '' },
+      { text: 'Mau Mau', x: 60, y: 140, cls: 'gold' },
+      { text: 'Kapenguria Six', x: 350, y: 280, cls: '' },
+    ],
+    edges: [
+      [210,195,85,60],[210,195,330,45],[210,195,50,220],[210,195,370,180],
+      [210,195,100,350],[210,195,320,330],[210,195,60,140],[210,195,350,280],
+      [85,60,60,140],[330,45,320,330],[100,350,320,330]
+    ]
+  }
+];
+
+let currentGraph = 0;
+let flowAnimations = [];
+
+function buildGraph(idx) {
+  const g = graphSets[idx];
+  const container = document.getElementById('graph-container');
+  const svgEl = document.getElementById('graph-lines');
+
+  container.querySelectorAll('.graph-node').forEach(n => n.remove());
+  svgEl.innerHTML = '';
+
+  g.edges.forEach((e, i) => {
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', e[0]); line.setAttribute('y1', e[1]);
+    line.setAttribute('x2', e[2]); line.setAttribute('y2', e[3]);
+    svgEl.appendChild(line);
+    setTimeout(() => line.classList.add('gv-visible'), 80 + i * 40);
+  });
+
+  flowAnimations.forEach(id => cancelAnimationFrame(id));
+  flowAnimations = [];
+
+  g.edges.forEach((e, i) => {
+    const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    dot.classList.add('flow-dot');
+    dot.setAttribute('cx', e[0]);
+    dot.setAttribute('cy', e[1]);
+    svgEl.appendChild(dot);
+    setTimeout(() => dot.classList.add('gv-visible'), 300 + i * 60);
+
+    const x1 = e[0], y1 = e[1], x2 = e[2], y2 = e[3];
+    const duration = 2500 + Math.random() * 1500;
+    const offset = Math.random() * duration;
+    let start = null;
+
+    function animate(ts) {
+      if (!start) start = ts;
+      const elapsed = ((ts - start) + offset) % duration;
+      const t = elapsed / duration;
+      dot.setAttribute('cx', x1 + (x2 - x1) * t);
+      dot.setAttribute('cy', y1 + (y2 - y1) * t);
+      const id = requestAnimationFrame(animate);
+      flowAnimations.push(id);
+    }
+    const id = requestAnimationFrame(animate);
+    flowAnimations.push(id);
+  });
+
+  const cx = (g.center.x / 420) * 100;
+  const cy = (g.center.y / 420) * 100;
+  const centerNode = document.createElement('div');
+  centerNode.className = 'graph-node center';
+  centerNode.style.left = cx + '%';
+  centerNode.style.top = cy + '%';
+  centerNode.style.transform = 'translate(-50%, -50%)';
+  centerNode.textContent = g.center.text;
+  container.appendChild(centerNode);
+  setTimeout(() => centerNode.classList.add('gv-visible'), 50);
+
+  g.nodes.forEach((n, i) => {
+    const nx = (n.x / 420) * 100;
+    const ny = (n.y / 420) * 100;
+    const el = document.createElement('div');
+    el.className = 'graph-node' + (n.cls ? ' ' + n.cls : '');
+    el.style.left = nx + '%';
+    el.style.top = ny + '%';
+    el.style.transform = 'translate(-50%, -50%)';
+    el.textContent = n.text;
+    container.appendChild(el);
+    setTimeout(() => el.classList.add('gv-visible'), 150 + i * 60);
+  });
+
+  document.querySelectorAll('.graph-tab').forEach((tab, ti) => {
+    tab.classList.toggle('active', ti === idx);
+  });
+}
+
+const tabContainer = document.getElementById('graph-tabs');
+graphSets.forEach((g, i) => {
+  const btn = document.createElement('button');
+  btn.className = 'graph-tab' + (i === 0 ? ' active' : '');
+  btn.textContent = g.label;
+  btn.addEventListener('click', () => {
+    currentGraph = i;
+    buildGraph(i);
+  });
+  tabContainer.appendChild(btn);
+});
+
+buildGraph(0);
+
+let autoCycleTimer = setInterval(() => {
+  currentGraph = (currentGraph + 1) % graphSets.length;
+  buildGraph(currentGraph);
+}, 3000);
+
+tabContainer.addEventListener('click', () => {
+  clearInterval(autoCycleTimer);
+  autoCycleTimer = setInterval(() => {
+    currentGraph = (currentGraph + 1) % graphSets.length;
+    buildGraph(currentGraph);
+  }, 3000);
+});
+
+// ── Intersection Observer ─────────────────────────
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, {
+  threshold: 0.15,
+  rootMargin: '0px 0px -40px 0px'
+});
+
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+document.querySelectorAll('.exp-cards, .alignment-grid, .impact-stats, .phase-grid').forEach(grid => {
+  const items = grid.querySelectorAll('.fade-in');
+  items.forEach((item, i) => {
+    item.style.transitionDelay = `${i * 0.1}s`;
+  });
+});
+</script>
+
+</body>
+</html>
