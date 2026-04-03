@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-Our Kenya (ourkenya.com) is a knowledge graph of Kenya's history built as a Quartz v4.5.2 static site. 7,796+ notes, 144 story trails, 58 interactive knowledge graphs. Deployed on Cloudflare Pages.
+Our Kenya (ourkenya.com) is a knowledge graph of Kenya's history built as a Quartz v4.5.2 static site. 7,796+ notes, 145 story trails, 58 interactive knowledge graphs. Deployed on Cloudflare Pages.
 
 - **Repo:** isaackaara/our-kenya on GitHub
 - **Branch:** v4 (main working branch, also the Cloudflare Pages production branch)
 - **Content:** `content/` directory - 83 subdirectories + flat files, all Markdown
 - **Dev server:** `npm run dev` — kills stale processes, builds Quartz, starts wrangler with Pages Functions + D1 on http://localhost:8788
-- **Build:** `npm run build` (runs quartz build → pagefind index → extract-graph)
+- **Build:** `npm run build` (runs quartz build → pagefind index → extract-graph → generate-games → copy-static-pages)
 - **Deploy:** Push to v4 → Cloudflare Pages auto-deploys
 
 ## Content Architecture
@@ -94,7 +94,7 @@ Requires the dev server running. Pass `--url http://localhost:8788` to match the
 | File | Purpose |
 |------|---------|
 | `quartz.config.ts` | Quartz configuration. CrawlLinks uses `markdownLinkResolution: "shortest"` |
-| `quartz/trails.ts` | All 144 story trails. Trail stops reference notes by `slug` (folder path + basename, no `.md`). `stopHref()` generates URLs with `?trail=id&stop=index` for trail context. `slugToTrails` maps each slug to all trails containing it. |
+| `quartz/trails.ts` | All 145 story trails. Trail stops reference notes by `slug` (folder path + basename, no `.md`). `stopHref()` generates URLs with `?trail=id&stop=index` for trail context. `slugToTrails` maps each slug to all trails containing it. |
 | `quartz/components/HeroGraph.tsx` | D3 force-directed hero graph on homepage (visual only, nodes are not clickable links) |
 | `quartz/components/scripts/knowledge-graphs.inline.ts` | 58 interactive knowledge graphs. Lazy-loads data from `knowledge-graphs.json` only when the homepage container exists. |
 | `quartz/static/knowledge-graphs.json` | All 58 graph datasets + 8 categories (225KB). Fetched on demand, not bundled in JS. |
@@ -135,6 +135,34 @@ Requires the dev server running. Pass `--url http://localhost:8788` to match the
 | `migrations/*.sql` | D1 database migrations: `0001` listens, `0002` pageviews, `0003` events, `0004` referrer_slug |
 | `content/stats.md` | Stats page stub with `<div id="ok-stats-dashboard">` container |
 | `content/analytics.md` | Analytics page stub with `<div id="ok-analytics-dashboard">` container |
+| `pitch-liberty.html` | Liberty Insurance partnership pitch (source). Copied to `public/partnerships/liberty/index.html` by `copy-static-pages` |
+| `pitch-im.html` | I&M Bank partnership pitch (source). Commercial sponsorship with art patronage angle, maroon brand, 3 tiers. Copied to `public/partnerships/im/index.html` |
+| `pitch-mastercard-foundation.html` | Mastercard Foundation partnership pitch (source). Grant proposal with Young Africa Works alignment, impact framework, 3-phase program. Copied to `public/partnerships/mastercard-foundation/index.html` |
+| `im-logo.png`, `im-logo-white.png` | I&M Bank logos (colored + white for dark backgrounds). Pre-rebrand version |
+| `mastercard-foundation-logo.png`, `mastercard-foundation-logo-white.png` | Mastercard Foundation logos (colored + white for dark backgrounds) |
+| `liberty-logo.png` | Liberty Insurance logo |
+
+## Partnership Pages
+
+Standalone HTML pitch pages for potential partners. Each is a self-contained file at the project root (`pitch-*.html`) with all CSS/JS inline. The `copy-static-pages` npm script copies them to `public/partnerships/*/index.html` after build (since `quartz build` wipes `public/`).
+
+| Page | URL | Type | Source |
+|------|-----|------|--------|
+| Liberty Insurance | `/partnerships/liberty/` | Commercial sponsorship | `pitch-liberty.html` |
+| I&M Bank | `/partnerships/im/` | Commercial sponsorship | `pitch-im.html` |
+| Mastercard Foundation | `/partnerships/mastercard-foundation/` | Grant/program proposal | `pitch-mastercard-foundation.html` |
+
+### How it works
+1. Source HTML + logo files live at project root (not in `content/` or `public/`)
+2. `npm run build` ends with `copy-static-pages` which creates `public/partnerships/*/` dirs and copies HTML as `index.html` + logo files
+3. Each page references logos by filename only (same directory after copy)
+4. Logo variants: colored version for light backgrounds, white (`*-white.png`) for dark backgrounds (mockup sponsor bars, footers)
+
+### Adding a new partnership page
+1. Create `pitch-partnername.html` at project root (use Liberty template as base)
+2. Add logo files at project root
+3. Update `copy-static-pages` in `package.json` to mkdir + cp the new files
+4. Push to v4 → Cloudflare Pages auto-deploys
 
 ## Search
 
@@ -296,7 +324,7 @@ Six features designed to spread readership beyond the ~308 most-viewed notes:
 ## Build & Dev
 
 - **Node.js:** v22+ (uses `.cjs` extension for CommonJS scripts)
-- **Build:** `npm run build` chains: quartz build → pagefind index → extract-graph
+- **Build:** `npm run build` chains: quartz build → pagefind index → extract-graph → generate-games → copy-static-pages
 - **Build time:** ~2 minutes for 7,796+ files + ~13 seconds for pagefind indexing
 - **Dev server:** `npm run dev` — kills ports 8080/8788, builds Quartz, starts wrangler with Functions + D1 on `:8788`
 - **Port conflicts:** `npm run dev` handles this automatically. Manual: `lsof -ti:8080 -ti:8788 | xargs kill -9`
