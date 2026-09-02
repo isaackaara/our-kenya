@@ -1,14 +1,12 @@
 // Cloudflare Pages Function: GET /api/stats
 // Returns aggregate analytics for the public stats dashboard
 
-import { isBot } from "./_bot"
-
 interface Env {
   LISTENS_DB: D1Database
 }
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
-  const { request, env } = context
+  const { env } = context
 
   const headers = {
     "Access-Control-Allow-Origin": "*",
@@ -22,21 +20,6 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       headers,
     })
   }
-
-  // Nine aggregate queries per call, several of them full-table. A crawler has
-  // no use for the stats dashboard, so it gets a 204 rather than nine scans.
-  if (isBot(request)) {
-    return new Response(null, { status: 204, headers })
-  }
-
-  // As with /api/trending, the Cache-Control header does not prevent execution.
-  // Serve repeat callers from the edge so the nine queries run at most once per
-  // 5 minute window.
-  const cache = caches.default
-  const cacheKey = new Request(new URL("/api/stats", request.url).toString())
-
-  const cached = await cache.match(cacheKey)
-  if (cached) return cached
 
   const [
     pvTotals,
@@ -119,7 +102,5 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     recent_listens: recentListens.results,
   }
 
-  const response = new Response(JSON.stringify(data), { headers })
-  context.waitUntil(cache.put(cacheKey, response.clone()))
-  return response
+  return new Response(JSON.stringify(data), { headers })
 }

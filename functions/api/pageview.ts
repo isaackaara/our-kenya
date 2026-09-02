@@ -1,8 +1,6 @@
 // Cloudflare Pages Function: POST /api/pageview
 // Logs page views for analytics
 
-import { isBot } from "./_bot"
-
 interface Env {
   LISTENS_DB: D1Database
 }
@@ -17,14 +15,6 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
   }
 
   if (!env.LISTENS_DB) {
-    return new Response(null, { status: 204, headers: corsHeaders })
-  }
-
-  // Crawlers execute our JavaScript, so they POST here exactly like a browser.
-  // Roughly 40% of the rows this table had accumulated were bot-authored, which
-  // both polluted the public stats and inflated the table every aggregate query
-  // has to scan. Answer 204 so the caller sees no error, but write nothing.
-  if (isBot(request)) {
     return new Response(null, { status: 204, headers: corsHeaders })
   }
 
