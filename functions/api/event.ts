@@ -1,7 +1,7 @@
 // Cloudflare Pages Function: POST /api/event
 // Logs feature interaction events for analytics
 
-import { isBot } from "./_bot"
+import { isBot } from "../../lib/bot"
 
 interface Env {
   LISTENS_DB: D1Database

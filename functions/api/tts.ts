@@ -1,7 +1,7 @@
 // Cloudflare Pages Function: POST /api/tts
 // Proxies text to Google Cloud TTS API (WaveNet), caches at edge, returns MP3
 
-import { isBot } from "./_bot"
+import { isBot } from "../../lib/bot"
 
 interface Env {
   GOOGLE_TTS_API_KEY: string

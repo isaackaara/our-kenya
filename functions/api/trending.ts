@@ -1,7 +1,7 @@
 // Cloudflare Pages Function: GET /api/trending
 // Returns top 10 most-viewed notes from the past 7 days
 
-import { isBot } from "./_bot"
+import { isBot } from "../../lib/bot"
 
 interface Env {
   LISTENS_DB: D1Database

@@ -1,7 +1,7 @@
 // Cloudflare Pages Function: GET /api/stats
 // Returns aggregate analytics for the public stats dashboard
 
-import { isBot } from "./_bot"
+import { isBot } from "../../lib/bot"
 
 interface Env {
   LISTENS_DB: D1Database

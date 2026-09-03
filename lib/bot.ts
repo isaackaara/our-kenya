@@ -10,8 +10,10 @@
 // indexing. We only stop them writing analytics rows and triggering aggregate
 // queries, which is where the cost and the data pollution both come from.
 //
-// A file prefixed with _ is not routed by Cloudflare Pages, so this is a helper
-// rather than an endpoint.
+// This lives OUTSIDE functions/ deliberately. A file inside functions/ prefixed with _
+// is excluded from Pages routing, and rather than rely on how that interacts with
+// bundling, the helper sits in lib/ and is imported by relative path. Nothing in lib/
+// is ever routed, so there is no ambiguity.
 
 // Matched case-insensitively against the User-Agent. Every token here is a
 // self-identified bot, not a heuristic on a real browser string.
