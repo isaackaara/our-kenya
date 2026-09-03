@@ -1,6 +1,8 @@
 // Cloudflare Pages Function: POST /api/event
 // Logs feature interaction events for analytics
 
+import { isBot } from "./_bot"
+
 interface Env {
   LISTENS_DB: D1Database
 }
@@ -15,6 +17,12 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
   }
 
   if (!env.LISTENS_DB) {
+    return new Response(null, { status: 204, headers: corsHeaders })
+  }
+
+  // Same reasoning as /api/pageview: bots run the JS that fires these events,
+  // so a crawler would otherwise register as a real feature interaction.
+  if (isBot(request)) {
     return new Response(null, { status: 204, headers: corsHeaders })
   }
 

@@ -1,6 +1,8 @@
 // Cloudflare Pages Function: POST /api/tts
 // Proxies text to Google Cloud TTS API (WaveNet), caches at edge, returns MP3
 
+import { isBot } from "./_bot"
+
 interface Env {
   GOOGLE_TTS_API_KEY: string
   LISTENS_DB: D1Database
@@ -18,7 +20,7 @@ const MAX_CHUNK_BYTES = 5000 // Google Cloud TTS input limit
 const TTS_VOICE = "en-US-Neural2-C" // Female, natural-sounding
 const TTS_LANGUAGE = "en-US"
 
-// Simple in-memory rate limit (resets on cold start — good enough for edge)
+// Simple in-memory rate limit (resets on cold start - good enough for edge)
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>()
 
 function isRateLimited(ip: string): boolean {
@@ -187,9 +189,11 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     })
   }
 
-  // Log listen (non-blocking)
+  // Log listen (non-blocking). Bots are excluded so listen counts stay a real
+  // signal: pressing play is a human act, and a crawler-authored "listen" would
+  // be pure noise in the stats.
   const listenerId = request.headers.get("X-Listener-ID") || "anonymous"
-  if (env.LISTENS_DB) {
+  if (env.LISTENS_DB && !isBot(request)) {
     context.waitUntil(
       env.LISTENS_DB.prepare("INSERT INTO listens (slug, listener_id) VALUES (?, ?)")
         .bind(slug, listenerId)
